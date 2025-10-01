@@ -1,0 +1,32 @@
+---
+obsidianUIMode: preview
+cssclasses: json5e-spell
+tags:
+- Quelle/5e/PHB
+- Klasse/Barde
+- Klasse/Kleriker
+- Klasse/Druide
+- Klasse/Paladin
+- Klasse/Waldläufer
+- Klasse/Magier
+- Zauber/Grad/4
+- Zauber/Schule/Erkenntniszauber
+aliases: ["Locate Creature"]
+---
+# Locate Creature
+*4th-level, Divination*  
+
+- **Casting time:** 1 action
+- **Range:** Self
+- **Components:** V, S, a bit of fur from a bloodhound
+- **Duration:** Concentration, up to 1 hour
+
+Describe or name a creature that is familiar to you. You sense the direction to the creature's location, as long as that creature is within 1,000 feet of you. If the creature is moving, you know the direction of its movement.
+
+The spell can locate a specific creature known to you, or the nearest creature of a specific kind (such as a human or a [unicorn](../Bestiarium/Celestische/unicorn.md)), so long as you have seen such a creature up close—within 30 feet—at least once. If the creature you described or named is in a different form, such as being under the effects of a [Verwandlung](Verwandlung.md) spell, this spell doesn't locate the creature.
+
+This spell can't locate a creature if running water at least 10 feet wide blocks a direct path between you and the creature.
+
+**Classes**: [Bard](05%20-%20Wikipedia/Charakteroptionen/02.%20Klassen/Barde.md), [Cleric](../Charakteroptionen/Klassen/Kleriker.md), [Druid](Dungeons%20&%20Dragons/Wikipedia%20der%20Vergessenen%20Reiche/Kompendium%20der%20Vergessenen%20Reiche/Klassen/druid.md), [Paladin](../Charakteroptionen/Klassen/Paladin.md), [Ranger](../Charakteroptionen/Klassen/Waldläufer.md), [Wizard](../Charakteroptionen/Klassen/Magier.md)
+
+*Source: SRD / Basic Rules*

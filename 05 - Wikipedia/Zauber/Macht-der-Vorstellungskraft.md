@@ -1,0 +1,12 @@
+MACHT DER VORSTELLUNGSKRAFT
+illusion des 2. Grades
+Zeitaufwand: 1 Aktion
+Reichweite: 18 m
+Komponenten: V, G, M (ein Stück Vlies)
+Wirkungsdauer: Konzentration, bis zu 1 Minute
+
+Du erschaffst eine Illusion, die sich im Verstand einer Kreatur festsetzt. Befindet sich das Ziel in Reichweite und kannst du es sehen, muss die betroffene Kreatur einen Intelligenz-Rettungswurf ablegen. Bei einem Misserfolg erschaffst du das Trugbild eines Gegenstands, einer Kreatur oder eines anderen sichtbaren Phänomens deiner Wahl, das nicht größer sein darf als ein Würfel mit 3 m Kantenlänge und das für die Wirkungsdauer nur vom Ziel wahrgenommen werden kann. Der Zauber hat keine Auswirkungen auf Untote oder Konstrukte.
+$\quad$Das Trugbild umfasst Geräusche, Temperatur und andere Sinneseindrücke, die ebenfalls nur von der Kreatur wahrgenommen werden können.
+$\quad$Verwendet das Ziel seine Aktion, um das Trugbild zu untersuchen, darf es einen Wurf auf Intelligenz (Nachforschungen) gegen den SG zum Widerstehen deiner Zauber ablegen. Ist der Wurf erfolgreich, durchschaut das Ziel die Täuschung und der Zauber endet.
+$\quad$Solange ein Ziel von diesem Zauber betroffen ist, behandelt es das Trugbild, als wäre es real. Alle unlogischen Folgen bei der Interaktion mit der Illusion erklärt sich die betroffene Kreatur verstandesmäßig. Versucht ein Ziel beispielsweise, über eine nicht reale Brücke zu gehen, die einen Abgrund überspannt, wird es fallen, sobald es die Illusion betritt. Wenn die Kreatur den Sturz überlebt, glaubt sie immer noch; dass die Brücke existiert und findet eine andere Erklärung für den Sturz sie wurde gestoßen, ist ausgerutscht, ein starker Windstoß hat sie von der Brücke geweht oder Ähnliches.
+$\quad$Das Ziel ist so von der Realität des Trugbilds überzeugt, dass es sogar Schaden durch die Illusion erleiden kann. Ein Trugbild, das als Kreatur erscheint, vermag das Ziel anzugreifen. Gleichermaßen verbrennt es sich an der Illusion von Feuer, Lava oder eines Säuretümpels. In jeder Runde kann das Trugbild in deinem Zug dem Ziel 1W6 psychischen Schaden zufügen, wenn sich die betroffene Kreatur im Bereich der Illusion oder innerhalb von 1,50 m zu ihr aufhält. Dies setzt voraus, dass die Illusion eine Kreatur oder Gefahr abbildet, die logischerweise Schaden verursachen könnte, beispielsweise durch einen Angriff. Das Ziel nimmt dies als Schadensart wahr, die dem Trugbild entspricht.

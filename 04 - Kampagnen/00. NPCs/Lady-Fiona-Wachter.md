@@ -1,0 +1,11 @@
+Lady of the House. Lady Fiona Wachter (LE female human priest with AC 10 and no armor) makes no secret of her family’s long-standing loyalty to the von Zarovich line. She believes that Strahd von Zarovich is no tyrant but, at worst, a negligent landlord. She would happily serve Strahd as burgomaster of Vallaki, but she knows that Baron Vargas Vallakovich won’t give up his birthright without a fight.
+
+Fiona conspired to wed her young daughter, Stella, to the baron’s son, Victor, as part of a plot to gain a foothold in the baron’s mansion, but Stella found Victor to be demented, and he showed no interest in Stella whatsoever. In fact, he spoke such unkind words to Stella that she went mad, and Fiona had to lock her daughter away (see area N4n).
+
+Lady Wachter’s latest scheme to gain control of Vallaki is far more diabolical. She has started a cult based on devil worship and has written a manifesto that she reads to her “book club,” which is made up of the most fanatical group members. Inspired by her words, these zealots have created smaller cults of their own. Once her cult has enough members, Fiona plans to take the town by force. To reward her most loyal followers, she has her pet imp stand invisibly in the center of a pentagram, then performs a false ritual that calls upon “princes of darkness” to lavish their appreciation upon the cultists. The imp then sprinkles onto the floor a few electrum coins, which Lady Wachter allows the cultists to keep.
+
+Another secret of Fiona’s is that she sleeps with the corpse of her dead husband, Nikolai, who died of sickness nearly three years ago and whom Fiona cherished. Lady Wachter casts gentle repose spells on the corpse to keep it from deteriorating.
+
+If the characters come to Wachterhaus looking for help to overthrow the burgomaster, Lady Wachter is all ears and suggests they start by killing the baron’s evil henchman, Izek Strazni. She’s happy to take care of the rest. If they come looking for a way to defeat Strahd, Lady Wachter turns them away, stating in no uncertain terms that she is not, nor ever will be, Strahd’s enemy.
+
+Lady Wachter has a different list of prepared spells from that of the priest in the Monster Manual:

@@ -1,0 +1,1 @@
+- Heiltrank hellt voll wenn eine Aktion verwendet wird. Bei Bonusaktionen muss gewürfelt werden.

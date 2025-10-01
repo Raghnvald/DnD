@@ -1,0 +1,19 @@
+---
+obsidianUIMode: preview
+cssclasses: json5e-item
+tags:
+- Quelle/5e/DMG
+- Gegenstand/Einstimmung/notwendig
+- Gegenstand/Seltenheit/selten
+- Gegenstand/Tier/major
+- Gegenstand/wundersam/Ring
+aliases: ["Ring of Thunder Resistance"]
+---
+# Ring of Thunder Resistance
+*Ring, major, rare (requires attunement)*  
+
+- **Properties**: Requires Attunement
+- **Cost**: ⏤
+- **Weight**: ⏤
+
+*Source: SRD / Basic Rules*
