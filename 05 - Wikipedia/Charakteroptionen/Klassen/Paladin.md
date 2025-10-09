@@ -7,7 +7,7 @@ tags:
 aliases: ["Paladin"]
 ---
 # Paladin
-*Quelle: SRD / Grundregelwerk / Spielerhandbuch*  
+_Quelle:_ Spielerhandbuch*  
 
 > [!tldr]- Feature progression
 > 

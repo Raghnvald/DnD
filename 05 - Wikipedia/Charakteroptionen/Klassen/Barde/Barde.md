@@ -55,13 +55,12 @@ _Quelle: Grundregelwerk / Spielerhandbuch_
 | 18    | 4            | 22            | 4   | 3   | 3   | 3   | 3   | 1   | 1   | 1   | 1   |
 | 19    | 4            | 22            | 4   | 3   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |
 | 20    | 4            | 22            | 4   | 3   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
-
-*   1st-9th: Spell slots per level    
+* 1st-9th: Spell slots per level
 
 ## Trefferpunkte
-*   **Trefferürfel**: `1d8` pro Bardenstufe
-*   **Trefferpunkte auf der ersten Stufe:** 8 + KON
-*   **Trefferpunkte auf höheren Stufen:** Füge 4 ODER `1d8` + KON hinzu (minimum 1)
+- **Trefferürfel**: `1d8` pro Bardenstufe
+- **Trefferpunkte auf der ersten Stufe:** 8 + KON
+- **Trefferpunkte auf höheren Stufen:** Füge 4 ODER `1d8` + KON hinzu (minimum 1)
 
 ## Übung
 Du bist geübt im Umgang mit den folgenden Dingen, zusätzlich zu allen Übungen welche du durch Rasse oder Hintergrund erhältst:

@@ -1,14 +1,13 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-note
 tags:
 - Quelle/5e/PHB
-- Quelle/5e/SRD
+- Klasse/Hexenmeister
 - Kompendium/Optionales/Pakt
-aliases: ["Pact of the Tome"]
+aliases:
+- Pact of the Tome
 ---
 # Pakt des Buches
-*Quelle: SRD / Grundregelwerk / Spielerhandbuch*  
+_Quelle:_ Spielerhandbuch  
 
 Dein Schutzherr überlässt dir ein Grimoire: das Buch der Schatten. Wenn du dieses Merkmal erhältst, wählst du drei Zaubertricks aus beliebigen Zauberlisten aus (sie müssen nicht aus derselben Liste stammen). Solange du das Buch bei dir trägst, kannst du diese Zaubertricks beliebig oft wirken. Sie zählen nicht zur Anzahl der dir bekannten Zaubertricks. Auch wenn sie nicht auf deiner Hexenmeisterzauberliste stehen, gelten sie für dich doch als Hexenmeisterzauber.
 

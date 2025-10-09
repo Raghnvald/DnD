@@ -247,7 +247,7 @@ Wenn dein SL die Verwendung von Talenten erlaubt, kannst du stattdessen ein Tale
 ### Außerweltlicher Schutzherr Merkmal (Stufe 6)
 Auf der 6. Stufe erhältst du eine von deinem Außerweltlichen Schutzherr gewährte Eigenschaft.
 
-### [Attributswerterhöhung](04.%20Kompendium/Charakteroptionen/04.%20Talente/Attributswerterhöhung.md) (Stufe 8)
+### [[Attributswerterhöhung]] (Stufe 8)
 Beim Erreichen der 8. Stufe kannst du einen Attributswert deiner Wahl um 2 Punkte erhöhen. Du kannst stattdessen auch zwei Attributswerte um jeweils 1 Punkt erhöhen. Kein Attribut darf auf diese Weise über einen Wert von 20 steigen.
 
 Wenn dein SL die Verwendung von Talenten erlaubt, kannst du stattdessen ein Talent nehmen.

@@ -1,88 +1,74 @@
 ---
-tags: Klasse/Paladin, Quelle/5e/PHB
-aliases: Paladin
+tags:
+- Quelle/5e/PHB
+- Klasse/Paladin
+aliases:
+- Paladin
 ---
-Paladin
-=======
+# Paladin
+_Quelle:_ Spielerhandbuch
 
-_Quelle: SRD / Grundregelwerk / Spielerhandbuch_
+## Eigenschaftsentwicklung
+| Stufe | ÜB  | Merkmale                                   |
+| ----- | --- | ------------------------------------------ |
+| 1.    | +2  | Divine Sense, Lay on Hands                 |
+| 2.    | +2  | Divine Smite, Fighting Style, Spellcasting |
+| 3.    | +2  | Divine Health, Sacred Oath                 |
+| 4.    | +2  | Ability Score Improvement                  |
+| 5.    | +3  | Extra Attack                               |
+| 6.    | +3  | Aura of Protection                         |
+| 7.    | +3  | Sacred Oath feature                        |
+| 8.    | +3  | Ability Score Improvement                  |
+| 9.    | +4  | ⏤                                          |
+| 10.   | +4  | Aura of Courage                            |
+| 11.   | +4  | Improved Divine Smite                      |
+| 12.   | +4  | Ability Score Improvement                  |
+| 13.   | +5  | ⏤                                          |
+| 14.   | +5  | Cleansing Touch                            |
+| 15.   | +5  | Sacred Oath feature                        |
+| 16.   | +5  | Ability Score Improvement                  |
+| 17.   | +6  | ⏤                                          |
+| 18.   | +6  | Aura improvements                          |
+| 19.   | +6  | Ability Score Improvement                  |
+| 20.   | +6  | Sacred Oath feature                        |
+* ÜB: Übungsbonus
 
-> \[!tldr\]- Feature progression
-> 
-> | Level | PB | Features |
-> | --- | --- | --- |
-> | 1st | +2 | Divine Sense, Lay on Hands |
-> | 2nd | +2 | Divine Smite, Fighting Style, Spellcasting |
-> | 3rd | +2 | Divine Health, Sacred Oath |
-> | 4th | +2 | Ability Score Improvement |
-> | 5th | +3 | Extra Attack |
-> | 6th | +3 | Aura of Protection |
-> | 7th | +3 | Sacred Oath feature |
-> | 8th | +3 | Ability Score Improvement |
-> | 9th | +4 | ⏤ |
-> | 10th | +4 | Aura of Courage |
-> | 11th | +4 | Improved Divine Smite |
-> | 12th | +4 | Ability Score Improvement |
-> | 13th | +5 | ⏤ |
-> | 14th | +5 | Cleansing Touch |
-> | 15th | +5 | Sacred Oath feature |
-> | 16th | +5 | Ability Score Improvement |
-> | 17th | +6 | ⏤ |
-> | 18th | +6 | Aura improvements |
-> | 19th | +6 | Ability Score Improvement |
-> | 20th | +6 | Sacred Oath feature |
-> 
-> *   PB: Proficiency Bonus ^feature-progression
->     
+## Klassenverlauf
+| Level | 1st | 2nd | 3rd | 4th | 5th |
+| --- | --- | --- | --- | --- | --- |
+| 1. | ⏤ | ⏤ | ⏤ | ⏤ | ⏤ |
+| 2. | 2 | ⏤ | ⏤ | ⏤ | ⏤ |
+| 3. | 3 | ⏤ | ⏤ | ⏤ | ⏤ |
+| 4. | 3 | ⏤ | ⏤ | ⏤ | ⏤ |
+| 5. | 4 | 2 | ⏤ | ⏤ | ⏤ |
+| 6. | 4 | 2 | ⏤ | ⏤ | ⏤ |
+| 7. | 4 | 3 | ⏤ | ⏤ | ⏤ |
+| 8. | 4 | 3 | ⏤ | ⏤ | ⏤ |
+| 9. | 4 | 3 | 2 | ⏤ | ⏤ |
+| 10. | 4 | 3 | 2 | ⏤ | ⏤ |
+| 11. | 4 | 3 | 3 | ⏤ | ⏤ |
+| 12. | 4 | 3 | 3 | ⏤ | ⏤ |
+| 13. | 4 | 3 | 3 | 1 | ⏤ |
+| 14. | 4 | 3 | 3 | 1 | ⏤ |
+| 15. | 4 | 3 | 3 | 2 | ⏤ |
+| 16. | 4 | 3 | 3 | 2 | ⏤ |
+| 17. | 4 | 3 | 3 | 3 | 1 |
+| 18. | 4 | 3 | 3 | 3 | 1 |
+| 19. | 4 | 3 | 3 | 3 | 2 |
+| 20. | 4 | 3 | 3 | 3 | 2 |
+* 1st-9th: Spell slots per level
 
-> \[!tldr\]- Class progression
-> 
-> | Level | 1st | 2nd | 3rd | 4th | 5th |
-> | --- | --- | --- | --- | --- | --- |
-> | 1st | ⏤ | ⏤ | ⏤ | ⏤ | ⏤ |
-> | 2nd | 2 | ⏤ | ⏤ | ⏤ | ⏤ |
-> | 3rd | 3 | ⏤ | ⏤ | ⏤ | ⏤ |
-> | 4th | 3 | ⏤ | ⏤ | ⏤ | ⏤ |
-> | 5th | 4 | 2 | ⏤ | ⏤ | ⏤ |
-> | 6th | 4 | 2 | ⏤ | ⏤ | ⏤ |
-> | 7th | 4 | 3 | ⏤ | ⏤ | ⏤ |
-> | 8th | 4 | 3 | ⏤ | ⏤ | ⏤ |
-> | 9th | 4 | 3 | 2 | ⏤ | ⏤ |
-> | 10th | 4 | 3 | 2 | ⏤ | ⏤ |
-> | 11th | 4 | 3 | 3 | ⏤ | ⏤ |
-> | 12th | 4 | 3 | 3 | ⏤ | ⏤ |
-> | 13th | 4 | 3 | 3 | 1 | ⏤ |
-> | 14th | 4 | 3 | 3 | 1 | ⏤ |
-> | 15th | 4 | 3 | 3 | 2 | ⏤ |
-> | 16th | 4 | 3 | 3 | 2 | ⏤ |
-> | 17th | 4 | 3 | 3 | 3 | 1 |
-> | 18th | 4 | 3 | 3 | 3 | 1 |
-> | 19th | 4 | 3 | 3 | 3 | 2 |
-> | 20th | 4 | 3 | 3 | 3 | 2 |
-> 
-> *   1st-9th: Spell slots per level ^class-progression
->     
+## Trefferpunkte
+- **Trefferwürfel**: 1d10 pro Stufe als Paladin
+- **Trefferpunkte auf der ersten Stufe:** 10 + dein Konstitutionsmodifikator 
+- **Trefferpunkte auf höheren Stufen:** 1d10 (oder 5) + dein Konstitutionsmodifikator pro Stufe als Paladin über die 1. Stufe hinaus
 
-Hit Points
-----------
+## Übung
+Du bist geübt im Umgang mit den folgenden Dingen, zusätzlich zu allen Übungen welche du durch Rasse oder Hintergrund erhältst:
 
-*   **Hit Dice**: 1W10 per Paladin level
-    
-*   **Hit Points at First Level:** 10 + CON
-    
-*   **Hit Points at Higher Levels:** add 5 OR 1W10 + CON (minimum of 1)
-    
-
-Starting Paladin
-----------------
-
-You are proficient with the following items, in addition to any proficiencies provided by your race or background.
-
-*   **Saving Throws**: Wisdom, Charisma
-    
-*   **Armor**: light, medium, heavy, [shields](Dungeons%20&%20Dragons/Wikipedia%20der%20Vergessenen%20Reiche/Kompendium%20der%20Vergessenen%20Reiche/Gegenst%C3%A4nde/shield.md)
-    
-*   **Weapons**: simple, martial
+- **Rettungswürfe**: Wisdom, Charisma
+- **Armor**: light, medium, heavy, shields
+- **Weapons**: simple, martial
     
 *   **Tools**: none
     

@@ -34,7 +34,6 @@ _Quelle:_ Spielerhandbuch
 * ÜB: Übungsbonus
 
 ## Klassenverlauf
-
 | Stufe | Schleichangriff |
 | ----- | --------------- |
 | 1     | 1W6             |

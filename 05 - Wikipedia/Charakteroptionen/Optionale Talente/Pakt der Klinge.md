@@ -1,14 +1,13 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-note
 tags:
 - Quelle/5e/PHB
-- Quelle/5e/SRD
+- Klasse/Hexenmeister
 - Kompendium/Optionales/Pakt
-aliases: ["Pact of the Blade"]
+aliases: 
+- Pact of the Blade
 ---
 # Pakt der Klinge
-*Quelle: SRD / Grundregelwerk / Spielerhandbuch*  
+_Quelle:_ Spielerhandbuch
 
 Du kannst eine Aktion verwenden, um eine Paktwaffe in deiner leeren Hand erscheinen zu lassen. Die Form dieser Nahkampfwaffe kannst du jedes Mal frei bestimmen. Du bist im Umgang mit der Waffe geübt, solange du sie führst. Diese Waffe zählt als magisch, wenn es um das Überwinden von Resistenzen und Immunitäten gegen nichtmagische Angriffe und nichtmagischen Schaden geht. 
 
