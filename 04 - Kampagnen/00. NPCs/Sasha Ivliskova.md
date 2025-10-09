@@ -1,3 +1,9 @@
+---
+tags:
+- Quelle/5e/CoS
+aliases:
+- 
+---
 Sasha Ivliskova 
 Roleplaying Information
 Resonance. Sasha should make the players feel sympathetic toward her clear discomfort as one of Strahd's brides, endeared to her for her efforts to maintain her dignity in the face of dismissal and cruelty from Strahd's other brides, and mildly put off by her standoffish reluctance to allow others to get close to her.

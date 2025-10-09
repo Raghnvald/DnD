@@ -3,7 +3,7 @@ tags:
 - Quelle/5e/XGTE
 - Klasse/Magier
 - Klasse/Zauberer
-- Zauber/Original/Mold-Earth
+- Zauber/Original/Mold_Earth
 - Zauber/Grad/0
 - Zauber/Schule/Verwandlung
 aliases: 

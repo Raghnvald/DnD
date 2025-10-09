@@ -1,29 +1,31 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-item
 Bezeichnung: Knüppel
 Typ: Einfache Nahkampfwaffe
-RW: 1,5m
-Schaden: 1W4
-Schadensart: Wuchtschaden
-Eigenschaften:
+Schaden: 1W4 Wucht
+Eigenschaften: Leicht
 Kst.: 1 SM
+Gew.: 1,0 kg
 tags:
   - Quelle/5e/PHB
+  - Gegenstand/Waffe/Nahkampf/Einfach
+  - Gegenstand/Seltenheit/gewöhnlich
   - Gegenstand/Eigenschaft/Leicht
-  - Gegenstand/Waffe/Einfach/Nahkampf
 aliases:
   - Club
 ---
-# `=this.Bezeichnung`
+# Knüppel
 *Einfache Nahkampfwaffe, gewöhnlich*
-![[../../99 - Setup/Sammlungen/Files/Bildersammlung/Symbolik/Gegenstände.webp|right|150]]
+<img src="Symbolik/Gegenstände.webp" align="right" width="150">
 
-- **Angriffsart:** `=this.Typ`
-- **Reichweite:** `=this.RW`
-- **Schaden:** `=this.Schaden`
-- **Schadensart:** `=this.Schadensart`
-- **Eigenschaften:** `=this.Eigenschaften`
-- **Gewicht:** `=this.Gewicht`
+_Klassen:_ n/v 
+_Unterklassen:_  n/v
 
-*Quelle:* Grundregelwerk / Spielerhandbuch
+_Quellen:_ Spielerhandbuch
+
+- **Angriffsart:** Einfache Nahkampfwaffe
+- **Reichweite:** 1,5m
+- **Schaden:** 1W4 
+- **Schadensart:** Wuchtschaden
+- **Eigenschaften:** Leicht
+- **Gewicht:** 1,0 kg
+- **Kosten**: 1 Silbermünze

@@ -9,6 +9,11 @@ tags:
 - Klasse/Paladin
 aliases: 
 - Amulet
+Bezeichnung: Amulett
+Typ: Zauberfokus
+Eigenschaften: n/v
+Kst.: 5 GM
+Gew.: 0,5 kg
 ---
 # Amulett
 *Zauberfokus, heilig, gewöhnlich* 

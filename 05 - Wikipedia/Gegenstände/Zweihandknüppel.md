@@ -1,29 +1,32 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-item
 Bezeichnung: Zweihandknüppel
 Typ: Einfache Nahkampfwaffe
-RW: 1,5m | 6m / 18m
-Schaden: 1W8
-Schadensart: Wuchtschaden
+Schaden: 1W8 Wucht
 Eigenschaften: Zweihändig
+Gew.: 5,0 kg
 Kst.: 2 SM
 tags:
   - Quelle/5e/PHB
+  - Gegenstand/Waffe/Nahkampf/Einfach
+  - Gegenstand/Seltenheit/gewöhnlich
   - Gegenstand/Eigenschaft/Zweihändig
-  - Gegenstand/Waffe/Einfach/Nahkampf
 aliases:
   - Greatclub
 ---
-# `=this.Bezeichnung`
+# Zweihandknüppel
 *Einfache Nahkampfwaffe, gewöhnlich*
-![[../../99 - Setup/Sammlungen/Files/Bildersammlung/Symbolik/Gegenstände.webp|right|150]]
+<img src="Symbolik/Gegenstände.webp" align="right" width="150">
 
-- **Angriffsart:** `=this.Typ`
-- **Reichweite:** `=this.RW`
-- **Schaden:** `=this.Schaden`
-- **Schadensart:** `=this.Schadensart`
-- **Eigenschaften:** `=this.Eigenschaften`
-- **Gewicht:** `=this.Gewicht`
+_Klassen:_ n/v 
+_Unterklassen:_  n/v
 
-*Quelle:* Grundregelwerk / Spielerhandbuch
+_Quellen:_ Spielerhandbuch
+
+
+- **Angriffsart:** Einfache Nahkampfwaffe
+- **Reichweite:** 1,5m
+- **Schaden:** 1W8
+- **Schadensart:** Wuchtschaden
+- **Eigenschaften:** Zweihändig
+- **Gewicht:** 5,0 kg
+- **Kosten**: 2 Silbermünzen

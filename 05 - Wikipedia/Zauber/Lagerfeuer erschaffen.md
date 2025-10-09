@@ -6,7 +6,7 @@ tags:
 - Klasse/Magier
 - Klasse/Magieschmied
 - Klasse/Zauberer
-- Zauber/Original/Create-Bonfire
+- Zauber/Original/Create_Bonfire
 - Zauber/Grad/0
 - Zauber/Schule/Beschwörung
 aliases: 

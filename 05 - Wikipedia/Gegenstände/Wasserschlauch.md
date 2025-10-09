@@ -1,26 +1,32 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
-Bezeichnung: Wasserschlauch
-Typ: Abenteuerausrüstung
-Eigenschaften:
-  - 
-Kst.: 2 SM
+cssclasses: dnd5e-compendium
 tags:
   - Quelle/5e/PHB
   - Gegenstand/Ausrüstung
   - Gegenstand/Seltenheit/gewöhnlich
 aliases:
   - Waterskin
+Bezeichnung: Wasserschlauch
+Typ: Abenteuerausrüstung
+Eigenschaften: n/v 
+Kst.: 2 SM
+Gew.: 2,5 kg
 Aktiv: false
 Menge: "1"
 ---
-# `=this.Bezeichnung`
+# Wasserschlauch
 *Abenteuerausrüstung, gewöhnlich*   
-![[../../99 - Setup/Sammlungen/Files/Bildersammlung/Symbolik/Gegenstände.webp|right|150]]
+<img src="Symbolik/Gegenstände.webp" align="right" width="150">
 
-- **Kosten**: `=this.Kosten`
-- **Gewicht:** `=this.Gewicht`
+_Klassen:_ n/v 
+_Unterklassen:_  n/v
+
+_Quellen:_ Spielerhandbuch
+
+- **Eigenschaften**: n/v
+- **Kosten**: 2 Silbermünzen
+- **Gewicht:** 2,5 kg.
 
 A waterskin can hold up to 4 pints of liquid.
 

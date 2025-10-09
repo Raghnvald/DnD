@@ -1,4 +1,11 @@
 ---
+Bezeichnung: Aganazzars Versenger
+Zeitaufwand: 1 Aktion
+Reichweite: 45 Meter
+Komponenten: V, G, M
+Wirkungsdauer: Unmittelbar
+Angriff: GES
+Schaden: 3d8 Feuer
 tags: 
 - Quelle/5e/EEPC
 - Klasse/Magier
@@ -8,13 +15,6 @@ tags:
 - Zauber/Schule/Hervorrufung
 aliases: 
 - Aganazzars Scorcher
-Bezeichnung: Aganazzars Versenger
-Zeitaufwand: 1 Aktion
-Reichweite: 45 Meter
-Komponenten: V, G, M
-Wirkungsdauer: Unmittelbar
-Angriff: GES
-Schaden: 3d8 Feuer
 ---
 # Aganazzars Versenger
 _Hervorrufung des 2. Grades_
@@ -24,11 +24,11 @@ _Unterklassen:_ n/v
 
 _Quellen:_ Xanathars Ratgeber für Alles
 
-*   **Zeitaufwand:** `1 Aktion`
-*   **Reichweite:** `45 Meter`
-*   **Komponenten:** `V, G, M (die Schuppen eines roten Drachen)`
-*   **Wirkungsdauer:** `Unmittelbar`
-*   **Angriff / Rettung:** `Geschicklichkeit`
+*   **Zeitaufwand:** 1 Aktion
+*   **Reichweite:** 45 Meter
+*   **Komponenten:** V, G, M (die Schuppen eines roten Drachen)
+*   **Wirkungsdauer:** Unmittelbar
+*   **Angriff / Rettung:** Geschicklichkeit
 *  **Schaden / Effekt:** `3d8` Feuer
 
 Eine brüllende Stichflamme von 9 m Länge und 1,50 m Breite entspringt in gerader Linie aus dir in eine Richtung deiner Wahl. Jede Kreatur auf dieser Linie muss einen Geschicklichkeits-Rettungswurf durchführen. Bei einem Fehlschlag erleidet eine Kreatur `3W8` Feuerschaden, die Hälfte davon bei einem Erfolg.

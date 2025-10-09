@@ -1,9 +1,8 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-feat
 tags:
 - Quelle/5e/PHB
-aliases: ["Grappler"]
+aliases:
+- 
 ---
 # Ringer
 **Voraussetzung**: Stärke 13 oder höher.

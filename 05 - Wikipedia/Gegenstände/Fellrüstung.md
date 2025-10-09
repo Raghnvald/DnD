@@ -4,15 +4,33 @@ cssclasses: json5e-item
 tags:
 - Quelle/5e/PHB
 - Gegenstand/Rüstung/Mittel
-aliases: ["Hide Armor"]
+- Gegenstand/Seltenheit/gewöhnlich
+aliases: 
+- Hide Armor
+Bezeichnung: Fellrüstung
+Typ: Rüstung
+Rüstung: Mittel
+RK: 14 + GES (max +2)
+STR: n/v
+Heiml.: n/v
+Eigenschaften: n/v
+Gew.: 6,0 kg
+Kst.: 10 GM
 ---
-# Hide Armor
-*Medium Armor*  
+# Fellrüstung
+*Rüstung (mittelschwer), gewöhnlich*  
+<img src="Symbolik/Gegenstände.webp" align="right" width="150">
 
-- **Armor Class**: 12 + DEX (max of +2)
-- **Cost**: 10 gp
-- **Weight**: 12.0 lbs.
+_Klassen:_ n/v 
+_Unterklassen:_  n/v
 
-This crude armor consists of thick furs and pelts. It is commonly worn by barbarian tribes, evil humanoids, and other folk who lack access to the tools and materials needed to create better armor.
+_Quellen:_ Spielerhandbuch
 
-*Source: SRD / Basic Rules*
+- **Rüstungsklasse**: 12 + GES (max +2)
+- **Stärke:** n/v
+- **Heimlichkeit:** n/v
+- **Eigenschaften:** n/v
+- **Kosten:** 10 Goldmünzen
+- **Gewicht:** 6,0 kg
+
+Diese grobe Rüstung besteht aus dicken Fellen und Pelzen. Sie wird häufig von Barbarenstämmen, bösen Humanoiden und anderen Individuen getragen, denen die Werkzeuge und Materialien zur Herstellung besserer Rüstungen fehlen.

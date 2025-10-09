@@ -11,7 +11,7 @@ Kst.: 10 GM
 Gew.: 0,5 kg.
 tags:
   - Quelle/5e/PHB
-  - Gegenstand/Waffe/Kriegswaffe/Fernkampf
+  - Gegenstand/Waffe/Fernkampf/Kriegswaffe
   - Gegenstand/Seltenheit/gewöhnlich
   - Gegenstand/Eigenschaft/Kriegswaffe
   - Gegenstand/Eigenschaft/Nachladen

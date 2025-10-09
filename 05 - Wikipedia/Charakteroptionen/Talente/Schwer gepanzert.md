@@ -1,5 +1,10 @@
+---
+tags:
+- Quelle/5e/PHB
+aliases:
+- 
+---
 # Schwer gepanzert
-
 _Voraussetzung: Geübt im Umgang mit Mittelschweren Rüstungen_
 
 Du hast trainiert, um den Umgang mit schwerer Rüstung zu meistern, wodurch du die folgenden Vorzüge erhältst:

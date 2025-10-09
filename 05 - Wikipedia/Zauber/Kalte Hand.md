@@ -6,7 +6,7 @@ tags:
 - Klasse/Zauberer
 - Klasse/Hexenmeister
 - Klasse/Magier
-- Zauber/Original/Chill-Touch
+- Zauber/Original/Chill_Touch
 - Zauber/Grad/0
 - Zauber/Schule/Nekromantie
 aliases:

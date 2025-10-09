@@ -76,9 +76,9 @@ Leichte Rüstungen sind aus geschmeidigen und dünnen Materialien gefertigt. Sie
 | ------------------------------------ | ------:| ----------------------------- | ------ | ---------- | --------:|
 | [Fell](../../../05%20-%20Wikipedia/Gegenstände/Fellrüstung.md)                |  10 GM | 12 + GES-Modifikator (max. 2) | -      | -          |  6,0 kg. |
 | [Kettenhemd](../../../05%20-%20Wikipedia/Gegenstände/Kettenhemd.md)          |  50 GM | 13 + GES-Modifikator (max. 2) | -      | -          | 10,0 kg. |
-| [Schuppenpanzer](../../../05%20-%20Wikipedia/Gegenstände/scale-mail.md)      |  50 GM | 14 + GES-Modifikator (max. 2) | -      | Nachteil   | 22,5 kg. |
-| [Brustpanzer](../../../05%20-%20Wikipedia/Gegenstände/Brustpanzer.md)        | 400 GM | 14 + GES-Modifikator (max. 2) | -      | -          | 10,0 kg. |
-| [Plattenpanzer](../../../05%20-%20Wikipedia/Gegenstände/half-plate-armor.md) | 750 GM | 15 + GES-Modifikator (max. 2) | -      | Nachteil   | 20,0 kg. |
+| [Schuppenpanzer](../../../05%20-%20Wikipedia/Gegenstände/Schuppenpanzer.md)      |  50 GM | 14 + GES-Modifikator (max. 2) | -      | Nachteil   | 22,5 kg. |
+| [Brustplatte](../../../05%20-%20Wikipedia/Gegenstände/Brustplatte.md)        | 400 GM | 14 + GES-Modifikator (max. 2) | -      | -          | 10,0 kg. |
+| [Plattenpanzer](../../../05%20-%20Wikipedia/Gegenstände/Plattenpanzer.md) | 750 GM | 15 + GES-Modifikator (max. 2) | -      | Nachteil   | 20,0 kg. |
 ^mediumarmor
 
 Eine mittelschwere Rüstung bietet mehr Schutz als leichte Rüstung, behindert aber die Bewegungsfreiheit mehr. Wenn du mittelschwere Rüstung trägst, addiere deinen Geschicklichkeitsmodifikator (allerdings nur bis zu einem Maximum von +2) zur in der Tabelle angegebenen Zahl, um deine Rüstungsklasse zu bestimmen.
@@ -96,10 +96,10 @@ Eine mittelschwere Rüstung bietet mehr Schutz als leichte Rüstung, behindert a
 #### Schwere Rüstung
 | Name der Rüstung |   Kosten | Rüstungsklasse (RK) | Stärke | Schleichen |  Gewicht |
 | ---------------- | --------:| ------------------- | ------ | ---------- | --------:|
-| [Ringpanzer](../../../05%20-%20Wikipedia/Gegenstände/ring-mail.md)                     |    30 GM | 14                            | -      | Nachteil   | 20,0 kg. |
+| [Ringpanzer](../../../05%20-%20Wikipedia/Gegenstände/Ringpanzer.md)                     |    30 GM | 14                            | -      | Nachteil   | 20,0 kg. |
 | [Kettenpanzer](../../../05%20-%20Wikipedia/Gegenstände/Kettenpanzer.md)                |    75 GM | 16                            | Str 13 | Nachteil   | 27,5 kg. |
-| [Schienenpanzer](../../../05%20-%20Wikipedia/Gegenstände/splint-armor.md)              |   200 GM | 17                            | Str 15 | Nachteil   | 30,0 kg. |
-| [Ritterrüstung](../../../05%20-%20Wikipedia/Gegenstände/plate-armor.md)                | 1.500 GM | 18                            | Str 15 | Nachteil   | 32,5 kg. |
+| [Schienenpanzer](../../../05%20-%20Wikipedia/Gegenstände/Schienenpanzer.md)              |   200 GM | 17                            | Str 15 | Nachteil   | 30,0 kg. |
+| [Ritterrüstung](../../../05%20-%20Wikipedia/Gegenstände/Ritterrüstung.md)                | 1.500 GM | 18                            | Str 15 | Nachteil   | 32,5 kg. |
 ^heavyarmor
 
 
@@ -147,7 +147,7 @@ Die Tabelle „Waffen“ enthält die gängigsten in Fantasy-Spielwelten verwend
 | [Dolch](../../../05%20-%20Wikipedia/Gegenstände/Dolch.md)                     |   2 GM | `1W4` Stichschaden |  0,5kg. | Finesse, Leicht, Wurfwaffe (Reichweite 6/18 Meter)    |
 | [Kampfstab](../../../05%20-%20Wikipedia/Gegenstände/Kampfstab.md)             |   2 SM | `1W6` Wuchtschaden |  2,0kg. | Vielseitig (`1W8`)                                    |
 | [Knüppel](../../../05%20-%20Wikipedia/Gegenstände/Knüppel.md)                 |   1 SM | `1W4` Wuchtschaden |  1,0kg. | Leicht                                                |
-| [Leichter Hammer](../../../05%20-%20Wikipedia/Gegenstände/Leichter-Hammer.md) |   2 GM | `1W4` Wuchtschaden |  1,0kg. | Leicht, Wurfwaffe (Reichweite 6/18 Meter)             |
+| [Leichter Hammer](../../../05%20-%20Wikipedia/Gegenstände/Leichter%20Hammer.md) |   2 GM | `1W4` Wuchtschaden |  1,0kg. | Leicht, Wurfwaffe (Reichweite 6/18 Meter)             |
 | [Sichel](../../../05%20-%20Wikipedia/Gegenstände/Sichel.md)                   |   1 GM | `1W4` Hiebschaden  |  1,0kg. | Leicht                                                |
 | [Speer](../../../05%20-%20Wikipedia/Gegenstände/Speer.md)                     |   1 GM | `1W6` Stichschaden |  1,5kg. | Vielseitig (`1W8`), Wurfwaffe (Reichweite 6/18 Meter) |
 | [Streitkolben](../../../05%20-%20Wikipedia/Gegenstände/Streitkolben.md)       |   5 GM | `1W6` Wuchtschaden |  2,0kg. | —                                                     |

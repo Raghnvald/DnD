@@ -6,7 +6,7 @@ tags:
 - Klasse/Hexenmeister
 - Klasse/Magier
 - Klasse/Magieschmied
-- Zauber/Original/Poison-Spray
+- Zauber/Original/Poison_Spray
 - Zauber/Grad/0
 - Zauber/Schule/Beschwörung
 aliases:

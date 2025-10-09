@@ -14,7 +14,7 @@ tags:
   - Gegenstand/Eigenschaft/Schwer
   - Gegenstand/Eigenschaft/Kriegswaffe
   - Gegenstand/Eigenschaft/Zweihändig
-  - Gegenstand/Waffe/Kriegswaffe/Fernkampf
+  - Gegenstand/Waffe/Fernkampf/Kriegswaffe
 aliases:
   - Longbow
 ---

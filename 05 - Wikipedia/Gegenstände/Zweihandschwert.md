@@ -1,31 +1,31 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-item
 Bezeichnung: Zweihandschwert
 Typ: Nahkampf-Kriegswaffe
-RW: 1,5m
-Schaden: 2W6
-Schadensart: Hiebschaden
+Schaden: 2W6 Hieb
 Eigenschaften: Schwer, Zweihändig
+Gew.: 3,0 kg
 Kst.: 50 GM
 tags:
-  - Quelle/5e/PHB
-  - Gegenstand/Eigenschaft/Schwer
-  - Gegenstand/Eigenschaft/Kriegswaffe
-  - Gegenstand/Eigenschaft/Zweihändig
-  - Gegenstand/Waffe/Kriegswaffe/Nahkampf
+- Quelle/5e/PHB
+- Gegenstand/Eigenschaft/Schwer
+- Gegenstand/Eigenschaft/Zweihändig
+- Gegenstand/Waffe/Nahkampf/Kriegswaffe
 aliases:
-  - Greatsword
+- Greatsword
 ---
-# `=this.Bezeichnung`
+# Zweihandschwert
 *Nahkampf-Kriegswaffe, gewöhnlich*
-![[../../99 - Setup/Sammlungen/Files/Bildersammlung/Symbolik/Gegenstände.webp|right|150]]
+<img src="Symbolik/Gegenstände.webp" align="right" width="150">
 
-- **Angriffsart:** `=this.Typ`
-- **Reichweite:** `=this.RW`
-- **Schaden:** `=this.Schaden`
-- **Schadensart:** `=this.Schadensart`
-- **Eigenschaften:** `=this.Eigenschaften`
-- **Gewicht:** `=this.Gewicht`
+_Klassen:_ n/v 
+_Unterklassen:_  n/v
 
-*Quelle:* Grundregelwerk / Spielerhandbuch
+_Quellen:_ Spielerhandbuch
+
+- **Angriffsart:** Nahkampf-Kriegswaffe
+- **Reichweite:** 1,5 m
+- **Schaden:** 2W6
+- **Schadensart:** Hiebschaden
+- **Eigenschaften:** Schwer, Zweihändig
+- **Gewicht:** 3,0 kg
+- **Kosten:** 50 Goldmünzen

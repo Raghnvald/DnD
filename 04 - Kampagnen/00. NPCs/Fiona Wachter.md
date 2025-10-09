@@ -1,3 +1,9 @@
+---
+tags:
+- Quelle/5e/CoS
+aliases:
+- 
+---
 # Lady Fiona Wachter 
 Lady Wachter hat immer noch die Werte eines Priesters. allerdings hat sie eine andere Liste von vorbereiteten Zaubern:
 

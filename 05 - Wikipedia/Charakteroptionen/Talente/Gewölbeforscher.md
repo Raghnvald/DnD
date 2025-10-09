@@ -1,3 +1,9 @@
+---
+tags:
+- Quelle/5e/PHB
+aliases:
+- 
+---
 # Gewölbeforscher
 
 Du bist auf das Aufspüren von versteckten Fallen und Geheimtüren geeicht, die man in vielen Gewölben findet und genießt folgende Vorzüge:

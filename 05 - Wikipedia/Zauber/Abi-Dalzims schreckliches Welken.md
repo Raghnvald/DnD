@@ -1,20 +1,20 @@
 ---
-tags: 
-- Quelle/5e/EEPC
-- Klasse/Magier
-- Klasse/Zauberer
-- Zauber/Original/Abi-Dalzims-Horrid-Wilting
-- Zauber/Grad/8
-- Zauber/Schule/Nekromantie
-aliases: 
-- Abi-Dalzim's Horrid Wilting
 Bezeichnung: Abi-Dalzims schreckliches Welken
 Zeitaufwand: 1 Aktion
 Reichweite: 45 Meter
 Komponenten: V, G, M
 Wirkungsdauer: Unmittelbar
-Angriff: Konstitution
+Angriff: KON
 Schaden: 12d8 nekrotisch
+tags: 
+- Quelle/5e/EEPC
+- Klasse/Magier
+- Klasse/Zauberer
+- Zauber/Original/Abi-Dalzims_Horrid_Wilting
+- Zauber/Grad/8
+- Zauber/Schule/Nekromantie
+aliases: 
+- Abi-Dalzim's Horrid Wilting
 ---
 # Abi-Dalzims schreckliches Welken
 _Nekromantie des 8. Grades_
@@ -29,7 +29,7 @@ _Quellen:_ Elemental Evil's Player Companion
 - **Komponenten:** V, G, M (ein wenig Schwamm)
 - **Wirkungsdauer:** Unmittelbar
 - **Angriff/Rettung:** Konstitution
-- **Schaden/Effekt:**  12d8 nekrotisch
+- **Schaden/Effekt:**  `12d8` nekrotisch
 
 Du entziehst allen Kreaturen in einem Würfel mit 9 m Kantenlänge, zentriert auf einen Punkt deiner Wahl innerhalb der Reichweite, die Feuchtigkeit. Jede Kreatur in diesem Bereich muss einen `Konstitutions-Rettungswurf` durchführen. Konstrukte und Untote sind davon nicht betroffen, und Pflanzen sowie Wasserelementare müssen diesen Rettungswurf mit Nachteil durchführen. Bei einem Fehlschlag erleidet eine Kreatur `12d8` nekrotischen Schaden, die Hälfte davon bei einem Erfolg.
 

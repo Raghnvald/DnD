@@ -1,7 +1,8 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-note
-aliases: ["Personality Traits"]
+tags:
+- Quelle/5e/PHB
+aliases:
+- Personality Traits
 ---
 # Persönlichkeitsmerkmale
 

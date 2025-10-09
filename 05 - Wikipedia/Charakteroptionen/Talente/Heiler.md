@@ -1,3 +1,9 @@
+---
+tags:
+- Quelle/5e/PHB
+aliases:
+- 
+---
 # Heiler
 
 Du bist ein fähiger Mediziner, was dir erlaubt, Wunden rasch zu behandeln und deine Verbündeten schnell wieder in den Kampf zurückzuschicken. Du erhältst folgende Vorzüge:

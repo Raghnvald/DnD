@@ -5,7 +5,7 @@ tags:
 - Quelle/5e/DMG
 - Gegenstand/wundersam
 - Gegenstand/Seltenheit/legendär
-- Gegenstand/Einstimmung/notwendig
+- Gegenstand/Einstimmung/erforderlich
 aliases: ["Belt of Cloud Giant Strength"]
 ---
 # Gürtel der Wolkenriesenstärke

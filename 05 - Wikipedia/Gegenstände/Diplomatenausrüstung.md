@@ -7,6 +7,11 @@ tags:
 - Gegenstand/Seltenheit/gewöhnlich
 aliases:
 - Diplomat's Pack
+Bezeichnung: Diplomatenausrüstung
+Typ: Abenteuerausrüstung
+Eigenschaften: n/v
+Kst.: 39 GM
+Gew.: 18,0 kg
 ---
 # Diplomatenausrüstung
 *gewöhnliche Abenteuerausrüstung*  

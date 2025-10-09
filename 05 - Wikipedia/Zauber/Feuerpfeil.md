@@ -3,7 +3,7 @@ tags:
 - Quelle/5e/PHB
 - Klasse/Zauberer
 - Klasse/Magier
-- Zauber/Original/Fire-Bolt
+- Zauber/Original/Fire_Bolt
 - Zauber/Grad/0
 - Zauber/Schule/Hervorrufung
 aliases:

@@ -1,35 +1,36 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-item
 Bezeichnung: Lanze
 Typ: Nahkampf-Kriegswaffe
-RW: 1,5m
-Schaden: 1W12
-Schadensart: Stichschaden
-Eigenschaften: Reichweite, Spezial
+Schaden: 1W12 Stich
+Eigenschaften: Besonders, weitreichend
+Gew.: 3,0 kg
 Kst.: 10 GM
 tags:
   - Quelle/5e/PHB
-  - Gegenstand/Eigenschaft/Kriegswaffe
-  - Gegenstand/Eigenschaft/Reichweite
-  - Gegenstand/Eigenschaft/Special
-  - Gegenstand/Waffe/Kriegswaffe/Nahkampf
+  - Gegenstand/Waffe/Nahkampf/Kriegswaffe
+  - Gegenstand/Seltenheit/gewöhnlich
+  - Gegenstand/Eigenschaft/Weitreichend
+  - Gegenstand/Eigenschaft/Besonders
 aliases:
   - Lance
 ---
-# `=this.Bezeichnung`
+# Lanze
 *Nahkampf-Kriegswaffe, gewöhnlich*
-![[../../99 - Setup/Sammlungen/Files/Bildersammlung/Symbolik/Gegenstände.webp|right|150]]
+<img src="Symbolik/Gegenstände.webp" align="right" width="150">
 
-- **Angriffsart:** `=this.Typ`
-- **Reichweite:** `=this.RW`
-- **Schaden:** `=this.Schaden`
-- **Schadensart:** `=this.Schadensart`
-- **Eigenschaften:** `=this.Eigenschaften`
-- **Gewicht:** `=this.Gewicht`
+_Klassen:_ n/v 
+_Unterklassen:_  n/v
 
-## Special
+_Quellen:_ Spielerhandbuch
 
-You have disadvantage when you use a lance to attack a target within 5 feet of you. Also, a lance requires two hands to wield when you aren't mounted.
+- **Angriffsart:** Nahkampf-Kriegswaffe
+- **Reichweite:** 3,0 m
+- **Schaden:** 1W12
+- **Schadensart:** Stichschaden
+- **Eigenschaften:** Besonders, weitreichend
+- **Gewicht:** 3,0 kg
+- **Kosten:** 10 Goldmünzen
 
-*Quelle:* Grundregelwerk / Spielerhandbuch
+## Besonders
+
+Wenn du ein Ziel im Abstand von bis zu 1,5 Metern von dir mit einer Lanze angreifst, bist du im Nachteil. Außerdem muss eine Lanze mit zwei Händen geführt werden, wenn du nicht reitest.

@@ -1,6 +1,9 @@
 ---
-tags: TCoE, Klasse/Schurke/Seelenmesser
-aliases: Soulknife
+tags: 
+- Quelle/5e/TCoE
+- Klasse/Schurke/Seelenmesser
+aliases: 
+- Soulknife
 ---
 Seelenklinge
 ============

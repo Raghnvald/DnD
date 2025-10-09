@@ -5,7 +5,7 @@ tags:
 - Quelle/5e/PHB
 - Klasse/Magier
 - Klasse/Zauberer
-- Zauber/Original/Acid-Splash
+- Zauber/Original/Acid_Splash
 - Zauber/Grad/0
 - Zauber/Schule/Beschwörung
 aliases:

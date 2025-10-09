@@ -1,0 +1,43 @@
+properties:
+  file.name:
+    displayName: Name
+views:
+  - type: table
+    name: Nahkampfwaffen
+    filters:
+      or:
+        - file.tags.contains("Gegenstand/Waffe/Nahkampf/Einfach")
+        - file.tags.contains("Gegenstand/Waffe/Nahkampf/Kriegswaffe")
+        - file.tags.contains("Gegenstand/Waffe/Nahkampf/Beliebig")
+    groupBy:
+      property: Typ
+      direction: ASC
+    order:
+      - file.name
+      - Kst.
+      - Schaden
+      - Gew.
+      - Eigenschaften
+    sort: []
+    columnSize:
+      note.Kst.: 92
+      note.Schaden: 114
+  - type: table
+    name: Fernkampfwaffen
+    filters:
+      or:
+        - file.tags.contains("Gegenstand/Waffe/Einfach/Fernkampf")
+        - file.tags.contains("Gegenstand/Waffe/Kriegswaffe/Fernkampf")
+    groupBy:
+      property: Typ
+      direction: ASC
+    order:
+      - file.name
+      - Kst.
+      - Schaden
+      - Schadensart
+      - Gew.
+      - Eigenschaften
+    sort:
+      - property: file.name
+        direction: ASC

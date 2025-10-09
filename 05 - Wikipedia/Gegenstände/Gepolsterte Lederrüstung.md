@@ -1,16 +1,19 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses: dnd5e-compendium
 tags:
   - Quelle/5e/PHB
   - Gegenstand/Rüstung/Leicht
+  - Gegenstand/Seltenheit/gewöhnlich
 aliases:
   - Padded
 Bezeichnung: Gepolsterte Lederrüstung
+Typ: Rüstung
+Rüstung: Leicht
 RK: 11 + GES
 STR: n/v
 Heiml.: Nachteil
-Eigenschaften: - 
+Eigenschaften: n/v
 Kst.: 5 GM
 Gew.: 4,0 kg
 ---

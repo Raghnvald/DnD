@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
 - Quelle/5e/DMG
-- Gegenstand/Einstimmung/notwendig
+- Gegenstand/Einstimmung/erforderlich
 - Gegenstand/Seltenheit/Artefakt
 - Gegenstand/wundersam
 aliases: ["Orb of Dragonkind"]
@@ -37,7 +37,7 @@ An Orb of Dragonkind has the following random properties:
 
 ## Spells
 
-The orb has 7 charges and regains `1d4 + 3` expended charges daily at dawn. If you control the orb, you can use an action and expend 1 or more charges to cast one of the following spells (save DC 18) from it: [cure wounds](../Zauber/Wunden-heilen.md) (5th-level version, 3 charges), [Tageslicht](../Zauber/Tageslicht.md) (1 charge), [death ward](../Zauber/Todesschutz.md) (2 charges), or [Ausspähung](../Zauber/Ausspähung.md) (3 charges). You can also use an action to cast the [detect magic](../Zauber/Magie-entdecken.md) spell from the orb without using any charges.
+The orb has 7 charges and regains `1d4 + 3` expended charges daily at dawn. If you control the orb, you can use an action and expend 1 or more charges to cast one of the following spells (save DC 18) from it: [cure wounds](../Zauber/Wunden%20heilen.md) (5th-level version, 3 charges), [Tageslicht](../Zauber/Tageslicht.md) (1 charge), [death ward](../Zauber/Todesschutz.md) (2 charges), or [Ausspähung](../Zauber/Ausspähung.md) (3 charges). You can also use an action to cast the [detect magic](../Zauber/Magie-entdecken.md) spell from the orb without using any charges.
 
 ## Call Dragons
 

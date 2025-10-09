@@ -1,3 +1,9 @@
+---
+tags:
+- Quelle/5e/PHB
+aliases:
+- 
+---
 # Glückspilz
 
 Du hast ausgesprochenes Glück, das immer gerade im richtigen Moment eintritt.

@@ -5,6 +5,10 @@ CoinsElectrum: 1
 CoinsGold: 0
 CoinsPlatinum: 0
 PartySize: 3
+tags:
+- Quelle/5e/PHB
+aliases:
+- 
 ---
 
 # Amount

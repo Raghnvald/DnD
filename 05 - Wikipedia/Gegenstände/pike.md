@@ -1,21 +1,33 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-item
+Bezeichnung: Pike
+Typ: Nahkampf-Kriegswaffe
+Schaden: 1W10 Stich
+Eigenschaften: Schwer, weitreichend, zweihändig
+Gew.: 9,0 kg
+Kst.: 5 GM
 tags:
 - Quelle/5e/PHB
+- Gegenstand/Waffe/Nahkampf/Kriegswaffe
+- Gegenstand/Seltenheit/gewöhnlich
 - Gegenstand/Eigenschaft/Schwer
-- Gegenstand/Eigenschaft/Kriegswaffe
-- Gegenstand/Eigenschaft/Reichweite
+- Gegenstand/Eigenschaft/Weitreichend
 - Gegenstand/Eigenschaft/Zweihändig
-- Gegenstand/Waffe/Kriegswaffe/Nahkampf
-aliases: ["Pike"]
+aliases:
+- Pike
 ---
 # Pike
-*Melee Weapon*  
+*Nahkampf-Kriegswaffe, gewöhnlich*
+<img src="Symbolik/Gegenstände.webp" align="right" width="150">
 
-- **Damage**: 1d10 P
-- **Properties**: Heavy, Martial, Reach, Two-handed
-- **Cost**: 5 gp
-- **Weight**: 18.0 lbs.
+_Klassen:_ n/v 
+_Unterklassen:_  n/v
 
-*Source: SRD / Basic Rules*
+_Quellen:_ Spielerhandbuch
+
+- **Angriffsart:** Nahkampf-Kriegswaffe
+- **Reichweite:** 3,0 m
+- **Schaden:** 1W10
+- **Schadensart:** Stichschaden
+- **Eigenschaften:** Schwer, weitreichend, zweihändig
+- **Gewicht:** 9,0 kg
+- **Kosten:** 5 Goldmünzen

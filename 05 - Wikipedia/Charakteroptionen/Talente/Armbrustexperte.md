@@ -1,3 +1,9 @@
+---
+tags:
+- Quelle/5e/PHB
+aliases:
+- 
+---
 # Armbrustexperte
 
 Dank deines ausgiebigen Trainings mit der Armbrust erhältst du folgende Vorzüge:

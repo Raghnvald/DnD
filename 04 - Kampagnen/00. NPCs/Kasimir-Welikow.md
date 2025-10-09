@@ -1,3 +1,9 @@
+---
+tags:
+- Quelle/5e/CoS
+aliases:
+- 
+---
 # Kasimir Welikow
 
 Kasimir, ein verstümmelter und tieftrauriger Dämmerungself, ist seit Jahrhunderten in Barovia gefangen. Sein Volk stand kurz davor, von Strahds Armeen ausgerottet zu werden, als es sich ergab. Strahd überließ die wenigen Überlebenden der Gnade der Vistani, die sie ins Tal von Barovia brachten, wo sie seitdem leben.

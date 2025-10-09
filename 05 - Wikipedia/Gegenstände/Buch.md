@@ -5,7 +5,13 @@ tags:
 - Quelle/5e/PHB
 - Gegenstand/Ausrüstung
 - Gegenstand/Seltenheit/gewöhnlich
-aliases: ["Book"]
+aliases:
+- Book
+Bezeichnung: Buch
+Typ: Abenteuerausrüstung
+Eigenschaften: n/v
+Kst.: 25 GM
+Gew.: 2,5 kg
 ---
 # Buch
 *Abenteuerausrüstung, gewöhnlich*  

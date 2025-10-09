@@ -5,7 +5,7 @@ tags:
 - Quelle/5e/DMG
 - Gegenstand/wundersam
 - Gegenstand/Seltenheit/selten
-- Gegenstand/Einstimmung/notwendig
+- Gegenstand/Einstimmung/erforderlich
 aliases: ["Boots of Striding and Springing"]
 ---
 # Stiefel des Schreitens und Springens

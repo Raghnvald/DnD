@@ -1,3 +1,9 @@
+---
+tags:
+- Quelle/5e/PHB
+aliases:
+- 
+---
 # Ritualwirker
 
 **_Voraussetzung:_** Intelligenz- oder Weisheitswert 13 oder höher.

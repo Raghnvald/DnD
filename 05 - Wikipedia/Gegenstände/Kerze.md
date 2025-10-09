@@ -1,26 +1,32 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
-Bezeichnung: Kerze
-Typ: Abenteuerausrüstung
-Eigenschaften:
-  - 
-Kst.: 5 SM
+cssclasses: dnd5e-compendium
 tags:
   - Quelle/5e/PHB
   - Gegenstand/Ausrüstung
   - Gegenstand/Seltenheit/gewöhnlich
 aliases:
   - Candle
+Bezeichnung: Kerze
+Typ: Abenteuerausrüstung
+Eigenschaften: n/v 
+Kst.: 5 SM
+Gew.: n/v
 Aktiv: false
 Menge: "1"
 ---
-# `=this.Bezeichnung`
+# Kerze
 *Abenteuerausrüstung, gewöhnlich*   
-![[../../99 - Setup/Sammlungen/Files/Bildersammlung/Symbolik/Gegenstände.webp|right|150]]
+<img src="Symbolik/Gegenstände.webp" align="right" width="150">
 
-- **Kosten**: `=this.Kosten`
-- **Gewicht:** `=this.Gewicht`
+_Klassen:_ n/v 
+_Unterklassen:_  n/v
+
+_Quellen:_ Spielerhandbuch
+
+- **Eigenschaften**: n/v
+- **Kosten**: 5 Silbermünzen
+- **Gewicht:** n/v
 
 Eine Kerze spendet 1 Stunde lang helles Licht in einem Radius von 1,5 Meter und schwaches Licht für weitere 1,5 Meter.
 

@@ -11,7 +11,7 @@ Kst.: 1 GM
 tags:
   - Quelle/5e/PHB
   - Gegenstand/Eigenschaft/Munition
-  - Gegenstand/Waffe/Einfach/Fernkampf
+  - Gegenstand/Waffe/Fernkampf/Einfach
 aliases:
   - Sling
 ---

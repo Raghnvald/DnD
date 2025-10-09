@@ -1,0 +1,16 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.tags.contains("Gegenstand/Ausrüstung/Instrument")
+    groupBy:
+      property: Typ
+      direction: ASC
+    order:
+      - file.name
+      - Kst.
+      - Gew.
+      - Eigenschaften
+    columnSize:
+      file.name: 178

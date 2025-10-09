@@ -1,0 +1,22 @@
+views:
+  - type: table
+    name: Rüstungen
+    filters:
+      or:
+        - file.tags.contains("Gegenstand/Rüstung/Leicht")
+        - file.tags.contains("Gegenstand/Rüstung/Mittel")
+        - file.tags.contains("Gegenstand/Rüstung/Schwer")
+        - file.tags.contains("Gegenstand/Rüstung/Schild")
+    groupBy:
+      property: Rüstung
+      direction: ASC
+    order:
+      - file.name
+      - Kst.
+      - RK
+      - STR
+      - Heiml.
+      - Gew.
+    columnSize:
+      note.Kst.: 88
+      note.RK: 150

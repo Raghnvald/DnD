@@ -1,31 +1,31 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-item
 Bezeichnung: Zweihandaxt
 Typ: Nahkampf-Kriegswaffe
-RW: 1,5m
-Schaden: 1W12
-Schadensart: Stichschaden
+Schaden: 1W12 Hieb
 Eigenschaften: Schwer, Zweihändig
+Gew.: 3,5 kg
 Kst.: 30 GM
 tags:
-  - Quelle/5e/PHB
-  - Gegenstand/Eigenschaft/Schwer
-  - Gegenstand/Eigenschaft/Kriegswaffe
-  - Gegenstand/Eigenschaft/Zweihändig
-  - Gegenstand/Waffe/Kriegswaffe/Nahkampf
+- Quelle/5e/PHB
+- Gegenstand/Eigenschaft/Schwer
+- Gegenstand/Eigenschaft/Zweihändig
+- Gegenstand/Waffe/Nahkampf/Kriegswaffe
 aliases:
-  - Greataxe
+- Greataxe
 ---
-# `=this.Bezeichnung`
+# Zweihandaxt
 *Nahkampf-Kriegswaffe, gewöhnlich*
-![[../../99 - Setup/Sammlungen/Files/Bildersammlung/Symbolik/Gegenstände.webp|right|150]]
+<img src="Symbolik/Gegenstände.webp" align="right" width="150">
 
-- **Angriffsart:** `=this.Typ`
-- **Reichweite:** `=this.RW`
-- **Schaden:** `=this.Schaden`
-- **Schadensart:** `=this.Schadensart`
-- **Eigenschaften:** `=this.Eigenschaften`
-- **Gewicht:** `=this.Gewicht`
+_Klassen:_ n/v 
+_Unterklassen:_  n/v
 
-*Quelle:* Grundregelwerk / Spielerhandbuch
+_Quellen:_ Spielerhandbuch
+
+- **Angriffsart:** Nahkampf-Kriegswaffe
+- **Reichweite:** 1,5 m
+- **Schaden:** 1W12
+- **Schadensart:** Hiebschaden
+- **Eigenschaften:** Schwer, Zweihändig
+- **Gewicht:** 3,5 kg
+- **Kosten:** 30 Goldmünzen

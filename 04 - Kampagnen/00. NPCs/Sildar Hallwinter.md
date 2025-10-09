@@ -1,4 +1,9 @@
-
+---
+tags:
+- Quelle/5e/LMoP
+aliases:
+- 
+---
 ```RpgManager4
 id: 
   type: "nonplayercharacter"

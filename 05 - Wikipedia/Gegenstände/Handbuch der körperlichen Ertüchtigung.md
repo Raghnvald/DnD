@@ -1,0 +1,19 @@
+---
+obsidianUIMode: preview
+cssclasses: json5e-item
+tags:
+- Quelle/5e/DMG
+- Gegenstand/Seltenheit/sehr_selten
+- Gegenstand/Tier/major
+- Gegenstand/wundersam
+aliases: ["Manual of Gainful Exercise"]
+---
+# Handbuch der körperlichen Ertüchtigung
+*Wundersamer Gegenstand, sehr selten*  
+
+- **Cost**: ⏤
+- **Weight**: 5.0 lbs.
+
+Dieses magisch geladene Buch beschreibt Fitnessübungen. Wenn du über einen Zeitraum von maximal sechs Tagen 48 Stunden damit verbringst, den Inhalt des Buchs zu studieren und seine Anleitungen zu befolgen, erhöhen sich dein Stärkewert und dein Maximalwert für Stärke um 2. Das Handbuch verliert dann seine Magie, erhält sie jedoch nach einem Jahrhundert zurück.
+
+*Source: SRD / Basic Rules*

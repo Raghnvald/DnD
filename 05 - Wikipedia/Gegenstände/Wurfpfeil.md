@@ -12,7 +12,7 @@ tags:
   - Quelle/5e/PHB
   - Gegenstand/Eigenschaft/Finesse
   - Gegenstand/Eigenschaft/Wurfwaffe
-  - Gegenstand/Waffe/Einfach/Fernkampf
+  - Gegenstand/Waffe/Fernkampf/Einfach
 aliases:
   - Dart
 ---

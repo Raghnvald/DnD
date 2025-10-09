@@ -4,7 +4,7 @@ tags:
 - Klasse/Hexenmeister
 - Klasse/Magier
 - Klasse/Zauberer
-- Zauber/Original/Booming-Blade
+- Zauber/Original/Booming_Blade
 - Zauber/Grad/0
 - Zauber/Schule/Hervorrufung
 aliases: 

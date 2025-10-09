@@ -1,7 +1,8 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-note
-aliases: ["Flaws"]
+tags:
+- Quelle/5e/PHB
+aliases:
+- Flaws
 ---
 # Makel
 

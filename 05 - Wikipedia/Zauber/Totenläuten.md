@@ -4,7 +4,7 @@ tags:
 - Klasse/Hexenmeister
 - Klasse/Kleriker
 - Klasse/Magier
-- Zauber/Original/Toll-the-Dead
+- Zauber/Original/Toll_the_Dead
 - Zauber/Grad/0
 - Zauber/Schule/Nekromantie
 aliases:

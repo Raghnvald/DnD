@@ -1,3 +1,9 @@
+---
+tags:
+- Quelle/5e/PHB
+aliases:
+- 
+---
 # Widerstandsfähig
 
 Du bist rau und zäh, wodurch du die folgenden Vorzüge erhältst:

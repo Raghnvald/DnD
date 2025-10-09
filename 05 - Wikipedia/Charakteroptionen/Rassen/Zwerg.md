@@ -42,7 +42,7 @@ Du bist bei Rettungswürfen gegen Vergiftet im Vorteil und gegen Giftschaden res
 
 ### Zwergisches Kampftraining
 
-Du bist geübt im Umgang mit [[../../Gegenstände/Streitaxt]], [[Handaxt]], [leichter Hammer](../../Gegenstände/Leichter-Hammer.md) und [Kriegshammer](../../Gegenstände/Kriegshammer.md).
+Du bist geübt im Umgang mit [[../../Gegenstände/Streitaxt]], [[Handaxt]], [leichter Hammer](../../Gegenstände/Leichter%20Hammer.md) und [Kriegshammer](../../Gegenstände/Kriegshammer.md).
 
 ### Handwerkliches Geschick
 

@@ -1,3 +1,9 @@
+---
+tags:
+- Quelle/5e/CoS
+aliases:
+- 
+---
 Volenta Popofsky 
 Roleplaying Information
 Resonance. Volenta should inspire revulsion with her obsession with pain and gore, discomfort with her sadistic and psychotic personality, and a strange sort of flattery with her flirtatious—if eccentric—attitude.

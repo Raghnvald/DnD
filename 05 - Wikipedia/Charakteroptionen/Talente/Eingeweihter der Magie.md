@@ -1,3 +1,9 @@
+---
+tags:
+- Quelle/5e/PHB
+aliases:
+- 
+---
 # Eingeweihter der Magie
 
 Wähle eine Klasse: Barde, Druide, Kleriker, Magier, Hexenmeister oder Zauberer.

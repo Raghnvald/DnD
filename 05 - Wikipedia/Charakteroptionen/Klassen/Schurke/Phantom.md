@@ -1,6 +1,9 @@
 ---
-tags: TCoE, Klasse/Schurke/Phantom
-aliases: Phantom
+tags: 
+- Quelle/5e/TCoE
+- Klasse/Schurke/Phantom
+aliases: 
+- Phantom
 ---
 Phantom
 =======

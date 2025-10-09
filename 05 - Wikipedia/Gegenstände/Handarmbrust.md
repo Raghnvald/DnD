@@ -14,7 +14,7 @@ tags:
   - Gegenstand/Eigenschaft/Leicht
   - Gegenstand/Eigenschaft/Nachladen
   - Gegenstand/Eigenschaft/Kriegswaffe
-  - Gegenstand/Waffe/Kriegswaffe/Fernkampf
+  - Gegenstand/Waffe/Fernkampf/Kriegswaffe
 aliases:
   - Hand Crossbow
 ---

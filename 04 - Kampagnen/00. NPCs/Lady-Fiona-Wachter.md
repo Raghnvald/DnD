@@ -1,3 +1,9 @@
+---
+tags:
+- Quelle/5e/CoS
+aliases:
+- 
+---
 Lady of the House. Lady Fiona Wachter (LE female human priest with AC 10 and no armor) makes no secret of her family’s long-standing loyalty to the von Zarovich line. She believes that Strahd von Zarovich is no tyrant but, at worst, a negligent landlord. She would happily serve Strahd as burgomaster of Vallaki, but she knows that Baron Vargas Vallakovich won’t give up his birthright without a fight.
 
 Fiona conspired to wed her young daughter, Stella, to the baron’s son, Victor, as part of a plot to gain a foothold in the baron’s mansion, but Stella found Victor to be demented, and he showed no interest in Stella whatsoever. In fact, he spoke such unkind words to Stella that she went mad, and Fiona had to lock her daughter away (see area N4n).

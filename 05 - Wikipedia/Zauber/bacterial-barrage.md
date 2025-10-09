@@ -4,7 +4,7 @@ tags:
 - Klasse/Druide
 - Klasse/Magier
 - Klasse/Zauberer
-- Zauber/Original/Bacterial-Barrage
+- Zauber/Original/Bacterial_Barrage
 - Zauber/Grad/0
 - Zauber/Schule/Nekromantie
 aliases: 

@@ -1,5 +1,11 @@
-Rahadin 
-Roleplaying Information
+---
+tags:
+- Quelle/5e/CoS
+aliases:
+- 
+---
+# Rahadin 
+## Roleplaying Information
 Resonance. Rahadin should inspire anger for his condescension and unease for his deadly calm and undying devotion to carrying out Strahd’s will.
 
 Emotions. Rahadin most often feels calm, disdainful, satisfied, bored, or irritated.
@@ -8,7 +14,7 @@ Motivations. Rahadin wants to serve Strahd’s will as his faithful, ever-loyal 
 
 Inspirations. When playing Rahadin, channel Tywin Lannister (Game of Thrones), Severus Snape (Harry Potter), and Agent Smith (The Matrix).
 
-Character Information
+## Character Information
 Persona. To the world, Rahadin is Strahd’s loyal right-hand man and merciless enforcer. Only Rahadin knows the depths of his dedication to the Von Zarovich family, who he believes saved him from shame and despair.
 
 Morale. In a fight, Rahadin would immediately draw his weapons and softly offer his opponent an opportunity to stand down—then attack mercilessly and with every strategic advantage if denied.

@@ -5,7 +5,7 @@ tags:
 - Quelle/5e/DMG
 - Gegenstand/wundersam/Zauberstab
 - Gegenstand/Seltenheit/sehr_selten
-- Gegenstand/Einstimmung/notwendig
+- Gegenstand/Einstimmung/erforderlich
 aliases: ["+3 Wand of the War Mage"]
 ---
 # Zauberstab des Kriegsmagiers +3

@@ -1,0 +1,20 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      or:
+        - file.tags.contains("Gegenstand/Ausrüstung/Werkzeug")
+        - file.tags.contains("Gegenstand/Ausrüstung/Handwerkszeug")
+    groupBy:
+      property: Typ
+      direction: ASC
+    order:
+      - file.name
+      - Typ
+      - Kst.
+      - Gew.
+      - Eigenschaften
+    columnSize:
+      note.Typ: 126
+      note.Kst.: 77
+      note.Gew.: 75

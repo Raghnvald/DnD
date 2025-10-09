@@ -74,7 +74,7 @@ aliases: ["Adventuring Gear"]
 | [Kreide (1 Stück)](../Gegenstände/Kreide-1-Stück.md)                                     |     1 KM |              — |
 | [Krug](../Gegenstände/jug.md) oder [Karaffe](../Gegenstände/pitcher.md)                                 |     2 KM |        2,0 kg. |
 | [Lampe](../Gegenstände/Lampe.md)                                                          |     5 SM |        0,5 kg. |
-| [Laterne (abdeckbar)](../Gegenstände/Abgedeckte-Laterne.md)                                  |     5 GM |        1,0 kg. |
+| [Laterne (abdeckbar)](../Gegenstände/Abgedeckte%20Laterne.md)                                  |     5 GM |        1,0 kg. |
 | [Laterne (Blendlaterne)](../Gegenstände/Blendlaterne.md)                                 |    10 GM |          1 kg. |
 | [Leiter (3 Meter)](../Gegenstände/Leiter-3-Meter.md)                                     |     1 SM |       12,5 kg. |
 | [Lupe](../Gegenstände/magnifying-glass.md)                                               |   100 GM |              — |

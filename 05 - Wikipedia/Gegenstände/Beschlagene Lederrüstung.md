@@ -1,5 +1,6 @@
 ---
-cssclasses: json5e-item
+obsidianUIMode: preview
+cssclasses: dnd5e-compendium
 tags:
   - Quelle/5e/PHB
   - Gegenstand/Rüstung/Leicht
@@ -7,10 +8,12 @@ tags:
 aliases:
   - Studded Leather
 Bezeichnung: Beschlagene Lederrüstung
+Typ: Rüstung
+Rüstung: Leicht
 RK: 12 + GES
-STR: /
-Heiml.: /
-Eigenschaften: /
+STR: n/v
+Heiml.: n/v
+Eigenschaften: n/v
 Gew.: 6,5 kg
 Kst.: 45 GM
 ---

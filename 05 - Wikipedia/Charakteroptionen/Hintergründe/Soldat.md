@@ -1,4 +1,10 @@
-Soldat
+---
+tags:
+- Quelle/5e/PHB
+aliases:
+- 
+---
+# Soldat
 Solange du dich erinnern kannst, war der Krieg dein Leben. Schon als Jugendlicher hast du deinen Körper gestählt, die Handhabung von Waffen und Rüstungen trainiert und die grundlegenden Überlebenstechniken erlernt, zu denen auch gehört, wie man während einer Schlacht am Leben bleibt. Du könntest Teil eines stehenden Heeres gewesen oder mit einer Söldnerkompanie marschiert sein. Vielleicht warst du auch Mitglied einer örtlichen Miliz, die im vergangenen Krieg zu Ruhm und Ehre gelangte.
 Wenn du dich für diesen Hintergrund entscheidest, solltest du mit deinem SL ausarbeiten, in welcher militärischen Organisation du gedient hast, wie weit du in deren Rängen aufgestiegen bist und welche Erfahrungen du während deiner Militärkarriere gesammelt hast. War es ein stehendes Heer einer Nation, eine Stadtgarde oder eine Dorfmiliz? Oder warst du in der Privatstreitmacht eines Adeligen oder eines Kaufmanns stationiert?
  

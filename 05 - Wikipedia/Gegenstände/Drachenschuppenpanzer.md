@@ -1,13 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
-Bezeichnung: Drachenschuppenpanzer
-RK: 14 + GES (max +2)
-STR: - 
-Heiml.: Nachteil
-Eigenschaften: - 
-Gew.: 20,0 kg
-Kst.: 4.000 GM
+cssclasses: dnd5e-compendium
 tags:
   - Quelle/5e/DMG
   - Gegenstand/Rüstung/Mittel
@@ -15,10 +8,24 @@ tags:
   - Gegenstand/Einstimmung
 aliases:
   - Dragon Scale Mail
+Bezeichnung: Drachenschuppenpanzer
+Typ: Rüstung
+Rüstung: Mittel
+RK: 14 + GES (max +2)
+STR: n/v
+Heiml.: Nachteil
+Eigenschaften: n/v
+Gew.: 20,0 kg
+Kst.: 4.000 GM
 ---
 # Drachenschuppenpanzer
 *Rüstung (mittelschwer, Schuppenrüstung), sehr selten*
-![[Pictures/Drachenschuppenpanzer.webp|right|150]]
+<img src="Drachenschuppenpanzer.webp" align="right" width="150">
+
+_Klassen:_ n/v 
+_Unterklassen:_  n/v
+
+_Quellen:_ Spielerhandbuch
 
 - **Rüstungsklasse**: 14 + Geschicklichkeit (maximal +2)
 - **Stärke:** n/v
@@ -40,5 +47,3 @@ Außerdem kannst du dich als Aktion konzentrieren und auf magische Weise die Ent
 | Gold   | Feuer     | Schwarz | Säure     |
 | Grün   | Gift      | Silber  | Kälte     |
 | Kupfer | Säure     | Weiß    | Kälte     |
-
-*Quelle: SRD / Grundregelwerk*

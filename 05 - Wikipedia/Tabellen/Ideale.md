@@ -1,7 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-note
-aliases: ["Ideals"]
+
+tags:
+- Quelle/5e/PHB
+aliases:
+- Ideals
 ---
 # Ideale
 

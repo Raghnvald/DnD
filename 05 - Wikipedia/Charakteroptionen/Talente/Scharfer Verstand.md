@@ -1,3 +1,9 @@
+---
+tags:
+- Quelle/5e/PHB
+aliases:
+- 
+---
 ### Scharfer Verstand
 
 Du besitzt einen Verstand, der sich Zeiten, Richtungen und Einzelheiten besonders gut einprägen kann. Du erhältst diese Vorzüge:

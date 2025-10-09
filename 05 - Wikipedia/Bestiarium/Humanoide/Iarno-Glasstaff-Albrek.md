@@ -1,3 +1,9 @@
+---
+tags:
+- Quelle/5e/LMoP
+aliases:
+- 
+---
 ```statblock
 statblock: true
 name: Iarno "Glasstaff" Albreck

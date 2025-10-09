@@ -1,3 +1,9 @@
+---
+tags:
+- Quelle/5e/PHB
+aliases:
+- 
+---
 # Schauspieler
 Da du geübt in Nachahmung und Darstellung bist, erhältst du die folgenden Vorzüge:
 

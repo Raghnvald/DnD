@@ -5,7 +5,7 @@ tags:
 - Quelle/5e/DMG
 - Gegenstand/wundersam
 - Gegenstand/Seltenheit/legendär
-- Gegenstand/Einstimmung/notwendig
+- Gegenstand/Einstimmung/erforderlich
 aliases: ["Belt of Stone Giant Strength"]
 ---
 # Gürtel der Steinriesenstärke

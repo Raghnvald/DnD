@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses: dnd5e-compendium
 tags:
 - Quelle/5e/DMG
 - Gegenstand/Rüstung/Schwer
@@ -8,22 +8,34 @@ tags:
 - Gegenstand/Einstimmung
 aliases:
 - Demon Armor
+Bezeichnung: Dämonenrüstung
+Typ: Rüstung
+Rüstung: Schwer
+RK: 18
+STR: 15
+Heiml.: Nachteil
+Eigenschaften: erfordert Einstimmung
+Gew.: 32,5 kg
+Kst.: n/v
 ---
 # Dämonenrüstung
-*Heavy Armor, major, very rare (requires attunement)*  
+*Rüstung (Ritterrüstung), sehr selten (erfordert Einstimmung)*  
 <img src="Gegenstände/Dämonenrüstung.webp" align="right" width="150">
 
-- **Armor Class**: 18
-- **Properties**: Requires Attunement
-- **Strength**: Requires 15 STR.
-- **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
-- **Cost**: ⏤
-- **Weight**: 65.0 lbs.
+_Klassen:_ n/v 
+_Unterklassen:_  n/v
 
-While wearing this armor, you gain a +1 bonus to AC, and you can understand and speak Abyssal. In addition, the armor's clawed gauntlets turn unarmed strikes with your hands into magic weapons that deal slashing damage, with a +1 bonus to attack and damage rolls and a damage die of `1d8`.
+_Quellen:_ Spielerhandbuch
 
-## Curse
+- **Rüstungsklasse**: 18
+- **Stärke:** 15
+- **Heimlichkeit:** Nachteil
+- **Eigenschaften:** erfordert Einstimmung
+- **Kosten:** n/v
+- **Gewicht:** 32,5 kg
 
-Once you don this cursed armor, you can't doff it unless you are targeted by the [remove curse](../Zauber/Fluch-brechen.md) spell or similar magic. While wearing the armor, you have disadvantage on attack rolls against demons and on saving throws against their spells and special abilities.
+Wenn du diese Rüstung trägst, erhältst du einen Bonus von +1 auf deine RK und kannst Abyssisch verstehen und sprechen. Außerdem wandeln die klauenbesetzten Panzerhandschuhe der Rüstung waffenlose Angriffe mit deinen Händen in magische Waffen um, die Hiebschaden verursachen. Dabei hast du einen Bonus von +1 auf Angriffs- und Schadenswürfe und einen `1W8` als Schadenswürfel.
 
-*Source: SRD / Basic Rules*
+## Fluch
+
+Nachdem du diese verfluchte Rüstung angelegt hast, kannst du sie nur wieder ablegen, wenn du das Ziel des Zaubers [[Fluch brechen]] oder ähnlicher Magie wirst. Wenn du die Rüstung trägst, bist du bei Angriffswürfen gegen Dämonen und bei Rettungswürfen gegen ihre Zauber.

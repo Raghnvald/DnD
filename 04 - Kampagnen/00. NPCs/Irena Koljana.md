@@ -1,3 +1,9 @@
+---
+tags:
+- Quelle/5e/CoS
+aliases:
+- 
+---
 # Ireena Kolyana 
 ## Informationen zum Rollenspiel
 **Resonanz.** Ireena sollte mit ihrem aufrichtigen Interesse an den Zielen und Interessen der Spieler Schmeicheleien hervorrufen, Sympathie für ihre Schuldgefühle und ihre Angst vor Strahd, Zuneigung für ihre Entschlossenheit, weiterzumachen, und Dankbarkeit für ihre Bemühungen, den Spielern zum Erfolg zu verhelfen.

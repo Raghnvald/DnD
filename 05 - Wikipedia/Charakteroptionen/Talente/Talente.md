@@ -1,6 +1,8 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-note
+tags:
+- Quelle/5e/PHB
+aliases:
+- 
 ---
 # Index der Talente
 

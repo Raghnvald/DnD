@@ -1,6 +1,9 @@
 ---
-tags: XGtE, Klasse/Schurke/Strippenzieher
-aliases: Thief
+tags: 
+- Quelle/5e/XGtE
+- Klasse/Schurke/Strippenzieher
+aliases: 
+- 
 ---
 Strippenzieher
 ==============

@@ -39,7 +39,8 @@ aliases: ["Hunter Shark"]
 > 
 > ## Actions
 > 
-> ***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 13 (`2d8 + 4`) piercing damage.
+> ***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 13 (`2d8 + 4`) piercing damage.
+
 ^statblock
 
 ## Environment

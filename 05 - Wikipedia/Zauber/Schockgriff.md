@@ -5,7 +5,7 @@ tags:
 - Quelle/5e/PHB
 - Klasse/Zauberer
 - Klasse/Magier
-- Zauber/Original/Shocking-Grasp
+- Zauber/Original/Shocking_Grasp
 - Zauber/Grad/0
 - Zauber/Schule/Hervorrufung
 aliases:

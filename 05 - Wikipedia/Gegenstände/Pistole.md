@@ -13,7 +13,7 @@ tags:
   - Gegenstand/Eigenschaft/Munition
   - Gegenstand/Eigenschaft/Nachladen
   - Gegenstand/Eigenschaft/Kriegswaffe
-  - Gegenstand/Waffe/Kriegswaffe/Fernkampf
+  - Gegenstand/Waffe/Fernkampf/Kriegswaffe
 aliases:
   - Pistol
 Menge: "2"

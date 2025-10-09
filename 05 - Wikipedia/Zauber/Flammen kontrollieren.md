@@ -4,7 +4,7 @@ tags:
 - Klasse/Druide
 - Klasse/Magier
 - Klasse/Zauberer
-- Zauber/Original/Control-Flames
+- Zauber/Original/Control_Flames
 - Zauber/Grad/0
 - Zauber/Schule/Verwandlung
 aliases:

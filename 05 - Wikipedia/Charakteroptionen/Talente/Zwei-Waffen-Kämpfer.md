@@ -1,3 +1,9 @@
+---
+tags:
+- Quelle/5e/PHB
+aliases:
+- 
+---
 # Zwei-Waffen-Kämpfer
 
 Du hast die Kunst gemeistert, mit zwei Waffen zu kämpfen und genießt folgende Vorzüge:

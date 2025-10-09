@@ -4,7 +4,7 @@ tags:
 - Klasse/Hexenmeister
 - Klasse/Magier
 - Klasse/Zauberer
-- Zauber/Original/Lighning-Lure
+- Zauber/Original/Lighning_Lure
 - Zauber/Grad/0
 - Zauber/Schule/Hervorrufung
 aliases: 

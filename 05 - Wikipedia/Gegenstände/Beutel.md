@@ -7,6 +7,11 @@ tags:
 - Gegenstand/Seltenheit/gewöhnlich
 aliases:
 - Pouch
+Bezeichnung: Beutel
+Typ: Abenteuerausrüstung
+Eigenschaften: n/v
+Kst.: 5 SM
+Gew.: 0,5 kg
 ---
 # Beutel
 *Abenteuerausrüstung, gewöhnlich*

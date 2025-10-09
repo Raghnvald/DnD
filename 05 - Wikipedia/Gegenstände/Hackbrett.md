@@ -1,15 +1,28 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses: dnd5e-compendium
 tags:
 - Quelle/5e/PHB
 - Gegenstand/Ausrüstung/Instrument
-aliases: ["Dulcimer"]
+aliases: 
+- Dulcimer
+Bezeichnung: Hackbrett
+Typ: Instrument
+Eigenschaften: n/v
+Gew.: 5,0 kg
+Kst.: 25 GM
 ---
-# Dulcimer
-*Instrument*  
+# Hackbrett
+*Instrument, gewöhnlich*  
+<img src="Symbolik/Gegenstände.webp" align="right" width="150">
 
-- **Cost**: 25 gp
-- **Weight**: 10.0 lbs.
+_Klassen:_ n/v 
+_Unterklassen:_  n/v
 
-*Source: SRD / Basic Rules*
+_Quellen:_ Spielerhandbuch
+
+- **Eigenschaften**: n/v
+- **Kosten:** 25 Goldmünzen
+- **Gewicht:** 5,0 kg.
+
+Wenn du ein bestimmtes Musikinstrument beherrschst, kannst du deinen [Kompetenzbonus] zu allen Fertigkeitswürfen addieren, die du zum Musizieren mit dem Instrument machst. Ein Barde kann ein Musikinstrument als Zauberfokus verwenden. Jede Art von Musikinstrument erfordert eine eigene Befähigung.

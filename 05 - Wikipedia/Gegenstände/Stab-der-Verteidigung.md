@@ -5,7 +5,7 @@ tags:
 - Quelle/5e/PaB
 - Gegenstand/wundersam/Zauberstab
 - Gegenstand/Seltenheit/selten
-- Gegenstand/Einstimmung/notwendig
+- Gegenstand/Einstimmung/erforderlich
 aliases: ["+1 Wand of the War Mage"]
 ---
 # Stab der Verteidigung

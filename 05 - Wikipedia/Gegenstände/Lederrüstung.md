@@ -4,10 +4,12 @@ cssclasses: dnd5e-compendium
 tags:
   - Quelle/5e/PHB
   - Gegenstand/Rüstung/Leicht
+  - Gegenstand/Seltenheit/gewöhnlich
 aliases:
   - leather
 Bezeichnung: Lederrüstung
 Typ: Rüstung
+Rüstung: Leicht
 RK: 11 + GES
 STR: n/v
 Heiml.: n/v
@@ -19,7 +21,7 @@ Menge: "1"
 ---
 # Lederrüstung
 *Rüstung (leicht), gewöhnlich*  
-![[../../99 - Setup/Sammlungen/Files/Bildersammlung/Symbolik/Gegenstände.webp|right|150]]
+<img src="Symbolik/Gegenstände.webp" align="right" width="150">
 
 _Klassen:_ n/v 
 _Unterklassen:_  n/v

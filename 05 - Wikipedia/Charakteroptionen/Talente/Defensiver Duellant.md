@@ -1,3 +1,9 @@
+---
+tags:
+- Quelle/5e/PHB
+aliases:
+- 
+---
 # Defensiver Duellant
 
 _Voraussetzung: Geschicklichkeitswert 13 oder höher._

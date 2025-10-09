@@ -1,4 +1,4 @@
-[](../../../03%20-%20Quellen/Quellbücher/01.%20Grundregelwerk%202014/Anhang%20PH-A.md#Bewusstlos)---
+---
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:

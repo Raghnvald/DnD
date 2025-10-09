@@ -1,3 +1,9 @@
+---
+tags:
+- Quelle/5e/PHB
+aliases:
+- 
+---
 ### Linguist
 
 Du hast Sprachen und Geheimschriften studiert, wodurch du diese Vorzüge erhältst:

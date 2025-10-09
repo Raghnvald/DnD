@@ -4,7 +4,7 @@ tags:
 - Klasse/Barde
 - Klasse/Zauberer
 - Klasse/Magier
-- Zauber/Original/Dancing-Lights
+- Zauber/Original/Dancing_Lights
 - Zauber/Grad/0
 - Zauber/Schule/Hervorrufung
 aliases:

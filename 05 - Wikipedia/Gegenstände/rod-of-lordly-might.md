@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
 - Quelle/5e/DMG
-- Gegenstand/Einstimmung/notwendig
+- Gegenstand/Einstimmung/erforderlich
 - Gegenstand/Seltenheit/legendär
 - Gegenstand/Tier/major
 - Gegenstand/wundersam/Rute

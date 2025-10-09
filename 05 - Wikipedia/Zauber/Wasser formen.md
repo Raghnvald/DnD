@@ -4,7 +4,7 @@ tags:
 - Klasse/Druide
 - Klasse/Magier
 - Klasse/Zauberer
-- Zauber/Original/Shape-Water
+- Zauber/Original/Shape_Water
 - Zauber/Grad/0
 - Zauber/Schule/Verwandlung
 aliases: 

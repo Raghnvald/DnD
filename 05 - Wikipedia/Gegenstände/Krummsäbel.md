@@ -1,31 +1,32 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-item
 Bezeichnung: Krummsäbel
 Typ: Nahkampf-Kriegswaffe
-RW: 1,5m
-Schaden: 1W6
-Schadensart: Hiebschaden
+Schaden: 1W6 Hieb
 Eigenschaften: Finesse, Leicht
+Gew.: 1,5 kg
 Kst.: 25 GM
 tags:
   - Quelle/5e/PHB
+  - Gegenstand/Waffe/Nahkampf/Kriegswaffe
+  - Gegenstand/Seltenheit/gewöhnlich
   - Gegenstand/Eigenschaft/Finesse
   - Gegenstand/Eigenschaft/Leicht
-  - Gegenstand/Eigenschaft/Kriegswaffe
-  - Gegenstand/Waffe/Kriegswaffe/Nahkampf
 aliases:
   - Scimitar
 ---
-# `=this.Bezeichnung`
+# Krummsäbel
 *Nahkampf-Kriegswaffe, gewöhnlich*
-![[../../99 - Setup/Sammlungen/Files/Bildersammlung/Symbolik/Gegenstände.webp|right|150]]
+<img src="Symbolik/Gegenstände.webp" align="right" width="150">
 
-- **Angriffsart:** `=this.Typ`
-- **Reichweite:** `=this.RW`
-- **Schaden:** `=this.Schaden`
-- **Schadensart:** `=this.Schadensart`
-- **Eigenschaften:** `=this.Eigenschaften`
-- **Gewicht:** `=this.Gewicht`
+_Klassen:_ n/v 
+_Unterklassen:_  n/v
 
-*Quelle:* Grundregelwerk / Spielerhandbuch
+_Quellen:_ Spielerhandbuch
+
+- **Angriffsart:** Nahkampf-Kriegswaffe
+- **Reichweite:** 1,5 m
+- **Schaden:** 1W6
+- **Schadensart:** Hiebschaden
+- **Eigenschaften:** Finesse, Leicht
+- **Gewicht:** 1,5 kg
+- **Kosten**: 15 Goldmünzen

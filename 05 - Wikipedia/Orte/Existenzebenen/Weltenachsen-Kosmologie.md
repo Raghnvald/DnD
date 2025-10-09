@@ -1,3 +1,9 @@
+---
+tags:
+- Quelle/5e/PHB
+aliases:
+- 
+---
 Die Weltenachse ist das aktuell dominierende kosmologische Modell. Wie der Name schon andeutet, ähnelt dessen Struktur einer geteilten Sphäre, die das Ergebnis der Auswirkungen auf das lokale Multiversum durch die Zauberpest darstellt, das loslösen der Astralen Domänen und die Entstehung (Oder dessen Rückkehr) des Elementaren Chaos. Als Folge der Veränderungen durch die Katastrophe, wurde das zuvor gängige Weltenbaum-Modell aufgegeben und anstelle dessen die Weltenachse bevorzugt, von dem die meisten Gelehrten annehmen, dass es die aktuelle Struktur des Multiversums besser reflektieren würde.
 
 ## Grundstruktur 

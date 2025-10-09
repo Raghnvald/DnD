@@ -91,7 +91,7 @@ You are proficient with the following items, in addition to any proficiencies pr
 
 You begin play with the following equipment, in addition to any equipment provided by your background.
 
-*   (a) [scale mail](../../../Gegenstände/scale-mail.md) or (b) [leather armor](../../../Gegenstände/Lederrüstung.md)
+*   (a) [scale mail](../../../Gegenstände/Schuppenpanzer.md) or (b) [leather armor](../../../Gegenstände/Lederrüstung.md)
     
 *   (a) two [shortswords](../../../Gegenstände/Kurzschwert.md) or (b) two simple melee weapons
     

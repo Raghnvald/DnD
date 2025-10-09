@@ -28,7 +28,7 @@ Du berührst eine Kreatur, die einen <font color="green">**Weisheits**</font>-<f
 - Solange das Ziel verflucht ist, muss es zu Beginn jedes seiner Züge einen <font color="green">**Weisheits**</font>-<font color="#FF00E0">Rettungswurf</font> ausführen. Scheitert der Wurf, kann es in diesem Zug keine Aktion ausführen. 
 - Solange das Ziel verflucht ist, fügen deine Angriffe und Zauber dem Ziel zusätzlich `1W8` nekrotischen Schaden zu.
 
-Der Zauber [Fluch brechen](Fluch-brechen.md) beendet diesen Effekt. Der SL kann einen alternativen Effekt für den Fluch zulassen, der jedoch nicht mächtiger sein sollte als die beschriebenen Effekte. Der SL hat das letzte Wort, was den Effekt angeht.
+Der Zauber [Fluch brechen](Fluch%20brechen.md) beendet diesen Effekt. Der SL kann einen alternativen Effekt für den Fluch zulassen, der jedoch nicht mächtiger sein sollte als die beschriebenen Effekte. Der SL hat das letzte Wort, was den Effekt angeht.
 
 ## Auf höheren Graden 
 

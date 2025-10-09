@@ -5,7 +5,7 @@ tags:
 - Klasse/Zauberer
 - Klasse/Hexenmeister
 - Klasse/Magier
-- Zauber/Original/True-Strike
+- Zauber/Original/True_Strike
 - Zauber/Grad/0
 - Zauber/Schule/Erkenntniszauber
 aliases:

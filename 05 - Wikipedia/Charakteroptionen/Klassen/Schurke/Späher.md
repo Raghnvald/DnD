@@ -1,6 +1,9 @@
 ---
-tags: XGtE, Klasse/Schurke/Späher
-aliases: Thief
+tags: 
+- Quelle/5e/XGtE
+- Klasse/Schurke/Späher
+aliases: 
+-
 ---
 Späher
 ======

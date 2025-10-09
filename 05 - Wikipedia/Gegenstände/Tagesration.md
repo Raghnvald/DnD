@@ -11,12 +11,13 @@ Bezeichnung: Tagesration
 Typ: Abenteuerausrüstung
 Eigenschaften: n/v
 Kst.: 5 SM
+Gew.: 1,0 kg
 Aktiv: false
 Menge: "5"
 ---
 # Tagesration
 *Abenteuerausrüstung, gewöhnlich*   
-![[../../99 - Setup/Sammlungen/Files/Bildersammlung/Symbolik/Gegenstände.webp|right|150]]
+<img src="Symbolik/Gegenstände.webp" align="right" width="150">
 
 _Klassen:_ n/v 
 _Unterklassen:_  n/v

@@ -12,7 +12,7 @@ tags:
   - Quelle/5e/PHB
   - Gegenstand/Eigenschaft/Munition
   - Gegenstand/Eigenschaft/Zweihändig
-  - Gegenstand/Waffe/Einfach/Fernkampf
+  - Gegenstand/Waffe/Fernkampf/Einfach
 aliases:
   - Shortbow
 ---

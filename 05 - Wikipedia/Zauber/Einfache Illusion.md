@@ -6,7 +6,7 @@ tags:
 - Klasse/Illrigger
 - Klasse/Magier
 - Klasse/Zauberer
-- Zauber/Original/Minor-Illusion
+- Zauber/Original/Minor_Illusion
 - Zauber/Grad/0
 - Zauber/Schule/Illusion
 aliases:

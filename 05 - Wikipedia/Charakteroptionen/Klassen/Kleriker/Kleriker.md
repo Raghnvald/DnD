@@ -93,7 +93,7 @@ You begin play with the following equipment, in addition to any equipment provid
 
 *   (a) a [Streitkolben](../../../Gegenstände/Streitkolben.md) or (b) a [Kriegshammer](../../../Gegenstände/Kriegshammer.md) (if proficient)
     
-*   (a) [scale mail](../../../Gegenstände/scale-mail.md), (b) [leather armor](../../../Gegenstände/Lederrüstung.md), or (c) [chain mail](../../../Gegenstände/Kettenpanzer.md) (if proficient)
+*   (a) [scale mail](../../../Gegenstände/Schuppenpanzer.md), (b) [leather armor](../../../Gegenstände/Lederrüstung.md), or (c) [chain mail](../../../Gegenstände/Kettenpanzer.md) (if proficient)
     
 *   (a) a [light crossbow](../../../Gegenstände/Armbrust-leicht.md) and [20 bolts](../../../Gegenstände/Armbrustbolzen-20.md) or (b) any simple weapon
     
@@ -254,7 +254,7 @@ The Cleric table shows how many spell slots you have to cast your cleric spells 
 
 You prepare the list of cleric spells that are available for you to cast, choosing from the cleric spell list. When you do so, choose a number of cleric spells equal to your Wisdom modifier + your cleric level (minimum of one spell). The spells must be of a level for which you have spell slots.
 
-For example, if you are a 3rd-level cleric, you have four 1st-level and two 2nd-level spell slots. With a Wisdom of 16, your list of prepared spells can include six spells of 1st or 2nd level, in any combination. If you prepare the 1st-level spell [cure wounds](../../../Zauber/Wunden-heilen.md), you can cast it using a 1st-level or 2nd-level slot. Casting the spell doesn't remove it from your list of prepared spells.
+For example, if you are a 3rd-level cleric, you have four 1st-level and two 2nd-level spell slots. With a Wisdom of 16, your list of prepared spells can include six spells of 1st or 2nd level, in any combination. If you prepare the 1st-level spell [cure wounds](../../../Zauber/Wunden%20heilen.md), you can cast it using a 1st-level or 2nd-level slot. Casting the spell doesn't remove it from your list of prepared spells.
 
 You can change your list of prepared spells when you finish a long rest. Preparing a new list of cleric spells requires time spent in prayer and meditation: at least 1 minute per spell level for each spell on your list.
 

@@ -1,30 +1,31 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-item
 Bezeichnung: Langschwert
 Typ: Nahkampf-Kriegswaffe
-RW: 1,5m
-Schaden: 1W8 | 1W10
-Schadensart: Hiebschaden
-Eigenschaften: Vielseitig
+Schaden: 1W8 Hieb
+Eigenschaften: Vielseitig (1W10)
+Gew.: 1,5 kg
 Kst.: 15 GM
 tags:
-  - Quelle/5e/PHB
-  - Gegenstand/Waffe/Kriegswaffe/Nahkampf
-  - Gegenstand/Seltenheit/gewöhnlich
-  - Gegenstand/Eigenschaft/Vielseitig
+- Quelle/5e/PHB
+- Gegenstand/Waffe/Nahkampf/Kriegswaffe
+- Gegenstand/Seltenheit/gewöhnlich
+- Gegenstand/Eigenschaft/Vielseitig
 aliases:
-  - Longsword
+- Longsword
 ---
-# `=this.Bezeichnung`
+# Langschwert
 *Nahkampf-Kriegswaffe, gewöhnlich*
-![[../../99 - Setup/Sammlungen/Files/Bildersammlung/Symbolik/Gegenstände.webp|right|150]]
+<img src="Symbolik/Gegenstände.webp" align="right" width="150">
 
-- **Angriffsart:** `=this.Typ`
-- **Reichweite:** `=this.RW`
-- **Schaden:** `=this.Schaden`
-- **Schadensart:** `=this.Schadensart`
-- **Eigenschaften:** `=this.Eigenschaften`
-- **Gewicht:** `=this.Gewicht`
+_Klassen:_ n/v 
+_Unterklassen:_  n/v
 
-*Quelle:* Grundregelwerk / Spielerhandbuch
+_Quellen:_ Spielerhandbuch
+
+- **Angriffsart:** Nahkampf-Kriegswaffe
+- **Reichweite:** 1,5 m
+- **Schaden:** 1W8
+- **Schadensart:** Hiebschaden
+- **Eigenschaften:** Vielseitig (1W10)
+- **Gewicht:** 1,5 kg
+- **Kosten:** 15 Goldmünzen

@@ -4,8 +4,14 @@ cssclasses: json5e-item
 tags:
 - Quelle/5e/PHB
 - Gegenstand/Ausrüstung
+- Gegenstand/Seltenheit/gewöhnlich
 aliases: 
 - Fishing Tackle
+Bezeichnung: Angelausrüstung
+Typ: Abenteuerausrüstung
+Eigenschaften: n/v
+Kst.: 1 GM
+Gew.: 2,0 kg
 ---
 # Angelausrüstung
 *Abenteuerausrüstung, gewöhnlich* 

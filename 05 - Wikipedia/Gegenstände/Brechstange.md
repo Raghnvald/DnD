@@ -7,6 +7,11 @@ tags:
 - Gegenstand/Seltenheit/gewöhnlich
 aliases:
 - Crowbar
+Bezeichnung: Brechstange
+Typ: Abenteuerausrüstung
+Eigenschaften: n/v
+Kst.: 2 GM
+Gew.: 2,5 kg
 ---
 # Brechstange
 *Abenteuerausrüstung, gewöhnlich*

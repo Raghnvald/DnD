@@ -1,3 +1,9 @@
+---
+tags:
+- Quelle/5e/PHB
+aliases:
+- 
+---
 # Inspirierender Anführer
 
 _Voraussetzung: Charismawert 13 oder höher._

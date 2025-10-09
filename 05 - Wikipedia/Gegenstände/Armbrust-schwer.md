@@ -11,7 +11,7 @@ Gew.: 9,0 kg
 Kst.: 50 GM
 tags:
   - Quelle/5e/PHB
-  - Gegenstand/Waffe/Kriegswaffe/Fernkampf
+  - Gegenstand/Waffe/Fernkampf/Kriegswaffe
   - Gegenstand/Eigenschaft/Munition
   - Gegenstand/Seltenheit/gewöhnlich
   - Gegenstand/Eigenschaft/Schwer

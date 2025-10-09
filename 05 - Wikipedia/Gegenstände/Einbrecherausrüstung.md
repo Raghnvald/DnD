@@ -24,7 +24,7 @@ Includes:
 - a [Brechstange](Brechstange.md)  
 - a [Hammer](Hammer.md)  
 - 10 [pitons](Kletterhaken.md)  
-- a [hooded lantern](Abgedeckte-Laterne.md)  
+- a [hooded lantern](Abgedeckte%20Laterne.md)  
 - 2 [flasks of oil](oil-flask.md)  
 - 5 days [rations](Tagesration.md)  
 - a [Zunderkästchen](Zunderkästchen.md)  

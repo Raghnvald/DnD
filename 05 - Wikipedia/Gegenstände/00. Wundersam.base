@@ -1,0 +1,21 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      or:
+        - file.tags.contains("Gegenstand/wundersam")
+        - file.tags.contains("Gegenstand/wundersam/Ring")
+        - file.tags.contains("Gegenstand/wundersam/Rute")
+        - file.tags.contains("Gegenstand/wundersam/Stab")
+        - file.tags.contains("Gegenstand/wundersam/Trank")
+        - file.tags.contains("Gegenstand/wundersam/Zauberstab")
+        - file.tags.contains("Gegenstand/wundersam/Schriftrolle")
+    groupBy:
+      property: Typ
+      direction: ASC
+    order:
+      - file.name
+      - Typ
+      - Kst.
+      - Gew.
+      - Eigenschaften

@@ -11,9 +11,9 @@ Kst.: 1 GM
 tags:
   - Quelle/5e/PHB
   - Gegenstand/Eigenschaft/Kriegswaffe
-  - Gegenstand/Eigenschaft/Special
+  - Gegenstand/Eigenschaft/Besonders
   - Gegenstand/Eigenschaft/Wurfwaffe
-  - Gegenstand/Waffe/Kriegswaffe/Fernkampf
+  - Gegenstand/Waffe/Fernkampf/Kriegswaffe
 aliases:
   - Net
 ---

@@ -3,26 +3,24 @@ obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
 - Quelle/5e/DMG
-- Gegenstand/Seltenheit/sehr_selten
-- Gegenstand/Tier/major
 - Gegenstand/wundersam
+- Gegenstand/Seltenheit/sehr_selten
 aliases: ["Efreeti Bottle"]
 ---
-# Efreeti Bottle
-*Wondrous Item, major, very rare*  
+# Ifriti-Flasche
+*Wundersamer Gegenstand, sehr selten*  
+<img src="Ifriti-Flasche.webp" align="right" width="150">
 
 - **Cost**: ⏤
 - **Weight**: 1.0 lbs.
 
-This painted brass bottle weighs 1 pound. When you use an action to remove the stopper, a cloud of thick smoke flows out of the bottle. At the end of your turn, the smoke disappears with a flash of harmless fire, and an [Ifriti](../Bestiarium/Elementare/Ifriti.md) appears in an unoccupied space within 30 feet of you.
+Diese bemalte Glasflasche wiegt 0,5 Kilogramm. Du kannst als Aktion den Stopfen ziehen. Daraufhin wabert ein dicker Rauch aus der Flasche. Am Ende deines Zugs verschwindet der Rauch mit einer harmlosen Stichflamme und ein Ifriti erscheint an einer freien Stelle im Abstand von bis zu neun Metern von dir.
 
-The first time the bottle is opened, the DM rolls to determine what happens.
+Wenn die Flasche zum ersten Mal geöffnet wird, würfelt der SL, um zu bestimmen, was passiert.
 
-| dice: d100 | Effect |
-|------------|--------|
-| 01-10 | The [Ifriti](../Bestiarium/Elementare/Ifriti.md) attacks you. After fighting for 5 rounds, the [Ifriti](../Bestiarium/Elementare/Ifriti.md) disappears, and the bottle loses its magic. |
-| 11-90 | The [Ifriti](../Bestiarium/Elementare/Ifriti.md) serves you for 1 hour, doing as you command. Then the [Ifriti](../Bestiarium/Elementare/Ifriti.md) returns to the bottle, and a new stopper contains it. The stopper can't be removed for 24 hours. The next two times the bottle is opened, the same effect occurs. If the bottle is opened a fourth time, the [Ifriti](../Bestiarium/Elementare/Ifriti.md) escapes and disappears, and the bottle loses its magic. |
-| 91-00 | The [Ifriti](../Bestiarium/Elementare/Ifriti.md) can cast the [Wunsch](../Zauber/Wunsch.md) spell three times for you. It disappears when it grants the final wish or after 1 hour, and the bottle loses its magic. |
-^effect
+| W100   | Effekt                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| ------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1–10   | Der Ifriti greift dich an. Nachdem er fünf Runden gekämpft hat, verschwindet der Ifriti und die Flasche verliert ihre Magie.                                                                                                                                                                                                                                                                                                |
+| 11–90  | Der Ifriti dient dir eine Stunde lang. In dieser Zeit gehorcht er deinen Befehlen. Dann kehrt der Ifriti in die Flasche zurück und ein neuer Stopfen verschließt diese. Der Stopfen kann 24 Stunden lang nicht entfernt werden. Wenn die Flasche die nächsten zwei Male geöffnet wird, tritt derselbe Effekt ein. Wenn die Flasche ein viertes Mal geöffnet wird, entflieht der Ifriti und die Flasche verliert ihre Magie. |
+| 91–100 | Der Ifriti kann dreimal den Zauber Wunsch für dich wirken. Er verschwindet, nachdem er den letzten Wunsch gewährt hat oder nach einer Stunde. Die Flasche verliert ihre Magie.                                                                                                                                                                                                                                              |
 
-*Source: SRD / Basic Rules*

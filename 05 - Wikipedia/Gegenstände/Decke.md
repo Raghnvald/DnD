@@ -7,6 +7,11 @@ tags:
 - Gegenstand/Seltenheit/gewöhnlich
 aliases:
 - Blanket
+Bezeichnung: Decke
+Typ: Abenteuerausrüstung
+Eigenschaften: n/v
+Kst.: 5 SM
+Gew.: 1,5 kg
 ---
 # Decke
 *Abenteuerausrüstung, gewöhnlich*  
