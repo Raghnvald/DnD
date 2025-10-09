@@ -11,5 +11,5 @@ aliases: ["Eldritch Spear"]
 
 ***Voraussetzung***: Zaubertrick Schauriger Strahl
 
-Die Reichweite von [Schauriger Strahl](../../Zauber/Schauriger-Strahl.md) erhöht sich auf 90 Meter.
+Die Reichweite von [Schauriger Strahl](Schauriger%20Strahl.md) erhöht sich auf 90 Meter.
   

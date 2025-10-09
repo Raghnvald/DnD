@@ -10,7 +10,7 @@ tags:
 - Quelle/5e/EEPC
 - Klasse/Magier
 - Klasse/Zauberer
-- Zauber/Original/Aganazzars Scorcher
+- Zauber/Original/Aganazzars_Scorcher
 - Zauber/Grad/2
 - Zauber/Schule/Hervorrufung
 aliases: 
@@ -24,12 +24,12 @@ _Unterklassen:_ n/v
 
 _Quellen:_ Xanathars Ratgeber für Alles
 
-*   **Zeitaufwand:** 1 Aktion
-*   **Reichweite:** 45 Meter
-*   **Komponenten:** V, G, M (die Schuppen eines roten Drachen)
-*   **Wirkungsdauer:** Unmittelbar
-*   **Angriff / Rettung:** Geschicklichkeit
-*  **Schaden / Effekt:** `3d8` Feuer
+- **Zeitaufwand:** 1 Aktion
+- **Reichweite:** 45 Meter
+- **Komponenten:** V, G, M (die Schuppen eines roten Drachen)
+- **Wirkungsdauer:** Unmittelbar
+- **Angriff / Rettung:** Geschicklichkeit
+- **Schaden / Effekt:** `3d8` Feuer
 
 Eine brüllende Stichflamme von 9 m Länge und 1,50 m Breite entspringt in gerader Linie aus dir in eine Richtung deiner Wahl. Jede Kreatur auf dieser Linie muss einen Geschicklichkeits-Rettungswurf durchführen. Bei einem Fehlschlag erleidet eine Kreatur `3W8` Feuerschaden, die Hälfte davon bei einem Erfolg.
 

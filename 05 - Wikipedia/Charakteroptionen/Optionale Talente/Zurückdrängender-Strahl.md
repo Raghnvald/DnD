@@ -11,4 +11,4 @@ aliases: ["Repelling Blast"]
 
 ***Voraussetzung***: Zaubertrick Schauriger Strahl
 
-Wenn du eine Kreatur mit [Schauriger Strahl](../../Zauber/Schauriger-Strahl.md) triffst, kannst du sie bis zu drei Meter in gerader Linie von dir wegstoßen.
+Wenn du eine Kreatur mit [Schauriger Strahl](Schauriger%20Strahl.md) triffst, kannst du sie bis zu drei Meter in gerader Linie von dir wegstoßen.

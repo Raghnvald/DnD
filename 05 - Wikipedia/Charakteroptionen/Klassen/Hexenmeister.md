@@ -134,7 +134,7 @@ How does your patron communicate with you? If you have a familiar, it might occa
 
 #### Quick Build
 
-You can make a warlock quickly by following these suggestions. First, Charisma should be your highest ability score, followed by Constitution. Second, choose the charlatan background. Third, choose the [eldritch blast](../../Zauber/Schauriger-Strahl.md) and [[../../Zauber/Kalte Hand]] cantrips, along with the 1st-level spells [charm person](../../Zauber/Person-bezaubern.md) and witch bolt.
+You can make a warlock quickly by following these suggestions. First, Charisma should be your highest ability score, followed by Constitution. Second, choose the charlatan background. Third, choose the [eldritch blast](Schauriger%20Strahl.md) and [[../../Zauber/Kalte Hand]] cantrips, along with the 1st-level spells [charm person](../../Zauber/Person-bezaubern.md) and witch bolt.
 
 > [!quote]- A quote from Xarren, herald of Acamar  
 > 

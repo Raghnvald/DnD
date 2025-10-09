@@ -11,4 +11,4 @@ aliases: ["Agonizing Blast"]
 
 ***Voraussetzung***: Zaubertrick Schauriger Strahl 
 
-Addiere bei einem Treffer mit [Schauriger Strahl](../../Zauber/Schauriger-Strahl.md) deinen Charismamodifikator zum Schaden.
+Addiere bei einem Treffer mit [Schauriger Strahl](Schauriger%20Strahl.md) deinen Charismamodifikator zum Schaden.
