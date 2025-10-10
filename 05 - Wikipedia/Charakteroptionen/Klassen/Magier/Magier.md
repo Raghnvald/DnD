@@ -1,6 +1,6 @@
 ---
 tags:
-- Quelle/5e/PHB
+- Quelle/5e/Players_Handbook
 - Klasse/Magier
 aliases:
 - Wizard
@@ -73,7 +73,7 @@ Du bist geübt im Umgang mit den folgenden Dingen, zusätzlich zu allen Übungen
 - **Fertigkeiten**: Wähle zwei aus _Arkane Kunde_, _Geschichte_, _Medizin_, _Motiv erkennen_, _Nachforschungen_ und _Religion_
 
 ## Ausrüstung
-Du beginnst mit folgender Ausrüstung, zuzüglich zur Ausrüstung, die du über deinen Hintergrund erhältst:
+Du beginnst mit der folgenden Ausrüstung, zusätzlich zu der, die du durch deinen Hintergrund erhältst:
 
 - (_a_) ein Kampfstab oder (_b_) ein Dolch
 - (_a_) ein Materialkomponentenbeutel oder (_b_) ein arkaner Fokus

@@ -6,7 +6,7 @@ Eigenschaften: erfordert Einstimmung
 Gew.: 2,0 kg
 Kst.: n/v
 tags:
-- Quelle/5e/DMG
+- Quelle/5e/Dungeon_Masters_Guide
 - Gegenstand/Waffe/Nahkampf/Einfach
 - Gegenstand/Seltenheit/selten
 - Gegenstand/Einstimmung

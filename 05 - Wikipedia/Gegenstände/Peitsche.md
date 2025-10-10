@@ -6,7 +6,7 @@ Eigenschaften: Finesse, weitreichend
 Gew.: 3,0 kg
 Kst.: 2 GM
 tags:
-- Quelle/5e/PHB
+- Quelle/5e/Players_Handbook
 - Gegenstand/Waffe/Nahkampf/Kriegswaffe
 - Gegenstand/Seltenheit/gewöhnlich
 - Gegenstand/Eigenschaft/Finesse

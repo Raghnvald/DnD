@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- Quelle/5e/PHB
+- Quelle/5e/Players_Handbook
 aliases: ["Mounts and Vehicles; Tack, Harness, and Drawn Vehicles"]
 ---
 # Reittiere und Fahrzeuge; Zaumzeug, Geschirr und gezogene Fahrzeuge

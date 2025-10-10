@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- Quelle/5e/DMG
+- Quelle/5e/Dungeon_Masters_Guide
 - Gegenstand/wundersam/Stab
 - Gegenstand/Seltenheit/sehr_selten
 - Gegenstand/Eigenschaft/Vielseitig

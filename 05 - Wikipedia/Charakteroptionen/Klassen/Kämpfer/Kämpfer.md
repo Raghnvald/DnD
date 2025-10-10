@@ -1,6 +1,6 @@
 ---
 tags: 
-- Quelle/5e/PHB
+- Quelle/5e/Players_Handbook
 - Klasse/Kämpfer
 aliases: 
 - Fighter
@@ -191,7 +191,7 @@ You adopt a particular style of fighting as your specialty. Choose one of the fo
     
 *   [Dueling](../../Optionale%20Talente/Duellieren.md)
     
-*   [Great Weapon Fighting](../../Talente/Kampf-mit-großen-Waffen.md)
+*   [Great Weapon Fighting](Kampf%20mit%20großen%20Waffen.md)
     
 *   [Protection](../../Optionale%20Talente/Leibwache.md)
     

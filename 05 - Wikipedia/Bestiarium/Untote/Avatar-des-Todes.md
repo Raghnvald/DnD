@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- Quelle/5e/DMG
+- Quelle/5e/Dungeon_Masters_Guide
 - Größe/Mittelgroß
 - Typ/Untote
 aliases: ["Avatar of Death (DMG)"]

@@ -6,7 +6,7 @@ prefer-view:
 type: 
 - creature
 tags: 
-- Quelle/5e/MM
+- Quelle/5e/Monster_Manual
 - Typ/Unhold/Dämon
 - Größe/Groß
 - Habitat/Planar/Abyss

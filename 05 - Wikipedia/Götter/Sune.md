@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-- Quelle/5e/PHB
+- Quelle/5e/Players_Handbook
 - Götter
 - Götter/Gesinnung/Chaotisch_Gut
 - Götter/Pantheon/Faerun

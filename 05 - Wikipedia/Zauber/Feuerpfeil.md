@@ -1,6 +1,6 @@
 ---
 tags:
-- Quelle/5e/PHB
+- Quelle/5e/Players_Handbook
 - Klasse/Zauberer
 - Klasse/Magier
 - Zauber/Original/Fire_Bolt

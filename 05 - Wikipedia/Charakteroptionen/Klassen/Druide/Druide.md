@@ -1,12 +1,13 @@
 ---
 tags: 
-- Quelle/5e/PHB
+- Quelle/5e/Players_Handbook
 - Klasse/Druide
 aliases:
 - Druid
 ---
 # Druide
 _Quelle:_ Spielerhandbuch
+<img src="Druid.webp" align="right" width="350">
 
 ## Eigenschaftsentwicklung
 | Stufe | ÜB  | Merkmale                                         |
@@ -74,7 +75,7 @@ Du bist geübt im Umgang mit den folgenden Dingen, zusätzlich zu allen Übungen
 *   **Fähigkeiten**: Wähle zwei aus _Arkane Kunde_, _Heilkunde_, _Mit Tieren umgehen_, _Motiv erkennen_, _Naturkunde_, _Religion_, _Überlebenskunst_ und _Wahrnehmung_
 
 ## Ausrüstung
-Du beginnst mit folgender Ausrüstung, zuzüglich zur Ausrüstung, die du über deinen Hintergrund erhältst:
+Du beginnst mit der folgenden Ausrüstung, zusätzlich zu der, die du durch deinen Hintergrund erhältst:
 
 *   (_a_) ein Holzschild oder (_b_) eine beliebige einfache Waffe
 *   (_a_) ein Krummsäbel oder (_b_) eine beliebige einfache Nahkampfwaffe

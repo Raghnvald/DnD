@@ -9,7 +9,7 @@ Schadensart: Stichschaden
 Eigenschaften: Geschosse, Nachladen, Leicht
 Kst.: 75 GM
 tags:
-  - Quelle/5e/PHB
+  - Quelle/5e/Players_Handbook
   - Gegenstand/Eigenschaft/Munition
   - Gegenstand/Eigenschaft/Leicht
   - Gegenstand/Eigenschaft/Nachladen

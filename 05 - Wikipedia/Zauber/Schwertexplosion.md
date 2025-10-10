@@ -1,6 +1,6 @@
 ---
 tags: 
-- Quelle/5e/SCAG
+- Quelle/5e/Sword_Coast_Adventurers_Guide
 - Klasse/Hexenmeister
 - Klasse/Magier
 - Klasse/Zauberer

@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- Quelle/5e/PHB
+- Quelle/5e/Players_Handbook
 aliases: ["Variant: Customizing Ability Scores; Ability Score Point Cost"]
 ---
 # Variant: Customizing Ability Scores; Ability Score Point Cost

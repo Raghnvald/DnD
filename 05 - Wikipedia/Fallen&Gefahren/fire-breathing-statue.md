@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-hazard
 tags:
-- Quelle/5e/DMG
+- Quelle/5e/Dungeon_Masters_Guide
 - Kompendium/Gefahren/magisch
 aliases: ["Fire-Breathing Statue"]
 ---

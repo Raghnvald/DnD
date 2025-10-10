@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
 - Klasse/Kämpfer
-- Quelle/5e/PHB
+- Quelle/5e/Players_Handbook
 aliases: ["Fighter"]
 ---
 # Kämpfer

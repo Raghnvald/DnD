@@ -6,7 +6,7 @@ Eigenschaften: Vielseitig (1W8)
 Kst.: 2 SM
 Gew.: 2,0 kg
 tags:
-  - Quelle/5e/PHB
+  - Quelle/5e/Players_Handbook
   - Gegenstand/Waffe/Nahkampf/Einfach
   - Gegenstand/Seltenheit/gewöhnlich
   - Gegenstand/Eigenschaft/Vielseitig

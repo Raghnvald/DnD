@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- Quelle/5e/DMG
+- Quelle/5e/Dungeon_Masters_Guide
 aliases: ["Trap Effects; Trap Save DCs and Attack Bonuses"]
 ---
 # Trap Effects; Trap Save DCs and Attack Bonuses

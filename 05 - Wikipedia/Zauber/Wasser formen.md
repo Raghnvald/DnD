@@ -1,6 +1,6 @@
 ---
 tags: 
-- Quelle/5e/XGTE
+- Quelle/5e/Xanathars_Guide_to_Everything
 - Klasse/Druide
 - Klasse/Magier
 - Klasse/Zauberer

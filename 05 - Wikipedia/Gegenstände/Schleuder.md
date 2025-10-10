@@ -9,7 +9,7 @@ Schadensart: Wuchtschaden
 Eigenschaften: Geschosse, Reichweite
 Kst.: 1 GM
 tags:
-  - Quelle/5e/PHB
+  - Quelle/5e/Players_Handbook
   - Gegenstand/Eigenschaft/Munition
   - Gegenstand/Waffe/Fernkampf/Einfach
 aliases:

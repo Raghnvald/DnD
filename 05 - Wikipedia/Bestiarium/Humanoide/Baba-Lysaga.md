@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses:
   - json5e-monster
 tags:
-  - Quelle/5e/CoS
+  - Quelle/5e/Curse_of_Strahd
   - Habitat/Wald
   - Größe/Mittelgroß
   - Typ/Humanoid

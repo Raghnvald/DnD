@@ -1,14 +1,13 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-note
 tags:
-- Quelle/5e/PHB
+- Quelle/5e/Players_Handbook
 - Kompendium/Optionales/fs-f
 - Kompendium/Optionales/fs-p
 - Kompendium/Optionales/fs-r
-aliases: ["Defense"]
+aliases:
+- Defense
 ---
 # Verteidigung
-*Quelle: SRD / Grundregelwerk / Spielerhandbuch*  
+_Quelle:_  Spielerhandbuch  
 
-Solange du eine Rüstung trägst, erhältst du einen Bonus von +1 auf deine RK.
+Solange du eine Rüstung trägst, erhältst du einen Bonus von 1 auf deine Rüstungsklasse (RK).

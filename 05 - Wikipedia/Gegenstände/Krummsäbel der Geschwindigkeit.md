@@ -6,7 +6,7 @@ Eigenschaften: erfordert Einstimmung, Finesse, Leicht
 Gew.: 1,5 kg
 Kst.: n/v
 tags:
-- Quelle/5e/DMG
+- Quelle/5e/Dungeon_Masters_Guide
 - Gegenstand/Waffe/Nahkampf/Kriegswaffe
 - Gegenstand/Seltenheit/sehr_selten
 - Gegenstand/Eigenschaft/Finesse

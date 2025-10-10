@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- Quelle/5e/MM
+- Quelle/5e/Monster_Manual
 - Habitat/Stadt
 - Größe/Mittelgroß
 - Typ/Unhold/Gestaltwandler

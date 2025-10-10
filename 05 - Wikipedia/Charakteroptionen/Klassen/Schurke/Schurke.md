@@ -1,12 +1,13 @@
 ---
 tags: 
-- Quelle/5e/PHB
+- Quelle/5e/Players_Handbook
 - Klasse/Schurke
 aliases: 
 - Rogue
 ---
 # Schurke
 _Quelle:_ Spielerhandbuch
+<img src="Rogue.webp" align="right" width="350">
 
 ## Eigenschaftsentwicklung
 | Stufe | ÜB  | Merkmale                                         |
@@ -73,7 +74,7 @@ Du bist geübt im Umgang mit den folgenden Dingen, zusätzlich zu allen Übungen
 - **Fertigkeiten**: Wähle vier aus _Akrobatik_, _Athletik_, _Auftreten_, _Einschüchtern_, _Fingerfertigkeit_, _Heimlichkeit_, _Motiv erkennen_, _Nachforschungen_
 
 ## Ausrüstung
-Du beginnst mit folgender Ausrüstung, zuzüglich zur Ausrüstung, die du über deinen Hintergrund erhältst:
+Du beginnst mit der folgenden Ausrüstung, zusätzlich zu der, die du durch deinen Hintergrund erhältst:
 
 - (_a_) ein Rapier oder (_b_) ein Kurzschwert    
 - (_a_) ein Kurzbogen mit Köcher und 20 Pfeile oder (_b_) ein Kurzschwert    
@@ -223,7 +224,7 @@ Beim Erreichen der 8. Stufe kannst du einen Attributswert deiner Wahl um 2 Punkt
 Wenn dein SL die Verwendung von Talenten erlaubt, kannst du stattdessen ein Talent nehmen.
 
 ### Merkmal Schurkenarchetyp (Stufe 9)
-At 9th level, you gain a feature granted by your Roguish Archetype.
+Auf der 9. Stufe erhältst du eine Eigenschaft, die dir dein Schurkenarchetyp verleiht.
 
 ### [[Attributswerterhöhung]] (Stufe 10)
 Beim Erreichen der 10. Stufe kannst du einen Attributswert deiner Wahl um 2 Punkte erhöhen. Du kannst stattdessen auch zwei Attributswerte um jeweils 1 Punkt erhöhen. Kein Attribut darf auf diese Weise über einen Wert von 20 steigen.

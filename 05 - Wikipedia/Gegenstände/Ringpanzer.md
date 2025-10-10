@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: dnd5e-compendium
 tags:
-- Quelle/5e/PHB
+- Quelle/5e/Players_Handbook
 - Gegenstand/Rüstung/Schwer
 - Gegenstand/Seltenheit/gewöhnlich
 aliases: ["Ring Mail"]

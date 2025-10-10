@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- Quelle/5e/TCoE
+- Quelle/5e/Tashas_Cauldron_of_Everything
 aliases: ["Wild Magic"]
 ---
 # Wilde Woge

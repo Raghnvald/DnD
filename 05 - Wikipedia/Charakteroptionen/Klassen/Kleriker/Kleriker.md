@@ -2,38 +2,34 @@
 tags: Klasse/Kleriker, Quelle/5e/PHB
 aliases: Cleric
 ---
-Kleriker
-========
+# Kleriker
+_Quelle:_ Spielerhandbuch
+<img src="Cleric.webp" align="right" width="350">
 
-_Source: SRD / Basic Rules_
-
-> \[!tldr\]- Feature progression
-> 
-> | Level | PB | Features |
-> | --- | --- | --- |
-> | 1st | +2 | Spellcasting, Divine Domain |
-> | 2nd | +2 | Channel Divinity, Divine Domain feature |
-> | 3rd | +2 | ⏤ |
-> | 4th | +2 | Ability Score Improvement |
-> | 5th | +3 | Destroy Undead (CR 1/2) |
-> | 6th | +3 | Channel Divinity, Divine Domain feature |
-> | 7th | +3 | ⏤ |
-> | 8th | +3 | Ability Score Improvement, Destroy Undead (CR 1), Divine Domain feature |
-> | 9th | +4 | ⏤ |
-> | 10th | +4 | Divine Intervention |
-> | 11th | +4 | Destroy Undead (CR 2) |
-> | 12th | +4 | Ability Score Improvement |
-> | 13th | +5 | ⏤ |
-> | 14th | +5 | Destroy Undead (CR 3) |
-> | 15th | +5 | ⏤ |
-> | 16th | +5 | Ability Score Improvement |
-> | 17th | +6 | Destroy Undead (CR 4), Divine Domain feature |
-> | 18th | +6 | Channel Divinity |
-> | 19th | +6 | Ability Score Improvement |
-> | 20th | +6 | Divine Intervention Improvement |
-> 
-> *   PB: Proficiency Bonus ^feature-progression
->     
+## Eigenschaftsentwicklung
+| Stufe | ÜB  | Merkmale                                                            |
+| ----- | --- | ------------------------------------------------------------------- |
+| 1.    | +2  | Spellcasting, Divine Domain                                         |
+| 2.    | +2  | Channel Divinity, Divine Domain feature                             |
+| 3.    | +2  | ⏤                                                                   |
+| 4.    | +2  | Attributswerterhöhung                                               |
+| 5.    | +3  | Destroy Undead (CR 1/2)                                             |
+| 6.    | +3  | Channel Divinity, Divine Domain feature                             |
+| 7.    | +3  | ⏤                                                                   |
+| 8.    | +3  | Attributswerterhöhung, Destroy Undead (CR 1), Divine Domain feature |
+| 9.    | +4  | ⏤                                                                   |
+| 10.   | +4  | Divine Intervention                                                 |
+| 11.   | +4  | Destroy Undead (CR 2)                                               |
+| 12.   | +4  | Attributswerterhöhung                                               |
+| 13.   | +5  | ⏤                                                                   |
+| 14.   | +5  | Destroy Undead (CR 3)                                               |
+| 15.   | +5  | ⏤                                                                   |
+| 16.   | +5  | Attributswerterhöhung                                               |
+| 17.   | +6  | Destroy Undead (CR 4), Divine Domain feature                        |
+| 18.   | +6  | Channel Divinity                                                    |
+| 19.   | +6  | Attributswerterhöhung                                               |
+| 20.   | +6  | Divine Intervention Improvement                                     |
+* ÜB: Übungsbonus
 
 > \[!tldr\]- Class progression
 > 

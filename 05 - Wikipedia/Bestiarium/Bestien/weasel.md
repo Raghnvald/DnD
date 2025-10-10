@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- Quelle/5e/MM
+- Quelle/5e/Monster_Manual
 - Größe/Winzig
 - Typ/Bestie
 aliases: ["Weasel"]

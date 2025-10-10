@@ -2,7 +2,7 @@
 tags: Klasse/Hexenmeister/Untoter, Quelle/5e/PHB, Quelle/5e/SRD
 aliases: The Undead
 ---
-Der Unhold
+Der Untote
 ==========
 
 [_Hexenmeister_](../Hexenmeister.md)_: Außerweltlicher Schutzherr_  

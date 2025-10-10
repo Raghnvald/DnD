@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- Quelle/5e/PHB
+- Quelle/5e/Players_Handbook
 - Gegenstand/Seltenheit/gewöhnlich
 - Gegenstand/Ausrüstung/Gift
 - Gegenstand/Eigenschaft/Gift

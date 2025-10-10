@@ -5,7 +5,7 @@ Eigenschaften: n/v
 Gew.: 0,5 kg
 Kst.: 8.000 GM
 tags:
-- Quelle/5e/DMG
+- Quelle/5e/Dungeon_Masters_Guide
 - Gegenstand/wundersam
 - Gegenstand/Seltenheit/selten
 aliases:

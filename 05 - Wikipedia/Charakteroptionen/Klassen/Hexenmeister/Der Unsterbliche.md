@@ -2,7 +2,7 @@
 tags: Klasse/Hexenmeister/Unsterblicher, Quelle/5e/PHB, Quelle/5e/SRD
 aliases: The Undying
 ---
-Der Unhold
+Der Unsterbliche
 ==========
 
 [_Hexenmeister_](../Hexenmeister.md)_: Außerweltlicher Schutzherr_  

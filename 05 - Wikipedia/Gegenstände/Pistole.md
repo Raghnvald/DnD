@@ -9,7 +9,7 @@ Schadensart: Stichschaden
 Eigenschaften: Geschosse (Schusswaffe), Nachladen
 Kst.: 250 GM
 tags:
-  - Quelle/5e/PHB
+  - Quelle/5e/Players_Handbook
   - Gegenstand/Eigenschaft/Munition
   - Gegenstand/Eigenschaft/Nachladen
   - Gegenstand/Eigenschaft/Kriegswaffe

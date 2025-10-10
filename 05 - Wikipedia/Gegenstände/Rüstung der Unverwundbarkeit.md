@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: dnd5e-compendium
 tags:
-- Quelle/5e/DMG
+- Quelle/5e/Dungeon_Masters_Guide
 - Gegenstand/Rüstung/Schwer
 - Gegenstand/Seltenheit/legendär
 - Gegenstand/Einstimmung/erforderlich

@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- Quelle/5e/CoS
+- Quelle/5e/Curse_of_Strahd
 - Größe/Gigantisch
 - Typ/Konstrukt
 aliases: ["Baba Lysaga’s Creeping Hut"]

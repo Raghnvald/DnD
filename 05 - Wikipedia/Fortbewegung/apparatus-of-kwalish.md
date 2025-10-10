@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-vehicle
 tags:
-- Quelle/5e/DMG
+- Quelle/5e/Dungeon_Masters_Guide
 - Fortbewegung/Größe/Groß
 - Fortbewegung/Terrain/See
 - Fortbewegung/Typ/Objekt

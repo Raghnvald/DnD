@@ -6,7 +6,7 @@ CoinsGold: 0
 CoinsPlatinum: 0
 PartySize: 3
 tags:
-- Quelle/5e/PHB
+- Quelle/5e/Players_Handbook
 aliases:
 - 
 ---

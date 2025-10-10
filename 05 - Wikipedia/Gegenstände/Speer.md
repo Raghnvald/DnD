@@ -6,7 +6,7 @@ Eigenschaften: Vielseitig (1W8), Wurfwaffe (Reichweite 6/18)
 Gew.: 1,5 kg
 Kst.: 1 GM
 tags:
-  - Quelle/5e/PHB
+  - Quelle/5e/Players_Handbook
   - Gegenstand/Waffe/Nahkampf/Einfach
   - Gegenstand/Seltenheit/gewöhnlich
   - Gegenstand/Eigenschaft/Vielseitig

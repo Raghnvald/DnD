@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- Quelle/5e/DMG
+- Quelle/5e/Dungeon_Masters_Guide
 - Gegenstand/Ausrüstung/Gift
 - Gegenstand/Eigenschaft/Gift
 aliases: ["Purple Worm Poison"]

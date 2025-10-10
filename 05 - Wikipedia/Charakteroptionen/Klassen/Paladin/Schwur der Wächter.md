@@ -1,3 +1,26 @@
+---
+prefer-view: 
+- edit-source read
+type: 
+- character
+tags: 
+- Quelle/5e/Xanathars_Guide_to_Everything
+- Klasse/Paladin 
+aliases: 
+- Oath of the Watchers
+link:
+- https://www.dndbeyond.com/classes/2190881-paladin
+status:
+- completed
+order:
+parent:
+- Paladin
+---
+# Schwur der Wächter
+_[[Paladin]]:_ Heiliger Schwur
+_Quelle:_ Spielerhandbuch
+
+## Klassenmerkmale
 Der Eid der Wächter bindet Paladine daran, die sterblichen Reiche vor den Angriffen extraplanarer Kreaturen zu schützen, von denen viele die sterblichen Soldaten vernichten können. Deshalb schärfen die Wächter Geist, Seele und Körper, um die ultimativen Waffen gegen solche Bedrohungen zu werden.
 
 Paladine, die den Eid der Wächter schwören, sind stets wachsam, wenn es darum geht, den Einfluss extraplanarer Mächte zu erkennen. Sie bauen häufig ein Netzwerk aus Spionen und Informanten auf, um Informationen über verdächtige Kulte zu sammeln. Für einen Wächter ist es genauso selbstverständlich, gesunden Misstrauen und Bewusstsein für die Umgebung zu bewahren, wie das Tragen einer Rüstung im Kampf.

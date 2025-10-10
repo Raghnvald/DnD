@@ -6,7 +6,7 @@ Eigenschaften: Finesse, Leicht
 Gew.: 1,0 kg
 Kst.: n/v
 tags:
-  - Quelle/5e/CoS
+  - Quelle/5e/Curse_of_Strahd
   - Gegenstand/Waffe/Nahkampf/Kriegswaffe
   - Gegenstand/Seltenheit/selten
   - Gegenstand/Eigenschaft/Finesse

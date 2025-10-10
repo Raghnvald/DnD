@@ -1,13 +1,12 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-note
 tags:
-- Quelle/5e/PHB
+- Quelle/5e/Players_Handbook
 - Kompendium/Optionales/fs-f
 - Kompendium/Optionales/fs-p
-aliases: ["Protection"]
+aliases:
+- Protection
 ---
 # Leibwache
-*Quelle: SRD / Grundregelwerk / Spielerhandbuch*  
+_Quelle:_ Spielerhandbuch  
 
-Führt eine Kreatur einen Angriff auf ein Ziel im Umkreis von bis zu 1,5 Metern von dir aus, das nicht du selbst bist, kannst du deine Reaktion dazu verwenden, dem Angreifer bei seinem Angriffswurf einen Nachteil zu verleihen. Du musst dafür einen Schild tragen.
+Führt eine Kreatur, die du sehen kannst, einen Angriff auf eine bis zu 1,50 m von dir entfernt stehende Kreatur aus (die nicht du selbst bist), kannst du deine Reaktion verwenden, damit der Angreifer bei seinem Wurf im Nachteil ist. Du musst dafür einen Schild tragen.

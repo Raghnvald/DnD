@@ -6,7 +6,7 @@ Eigenschaften: Leicht
 Kst.: 1 SM
 Gew.: 1,0 kg
 tags:
-  - Quelle/5e/PHB
+  - Quelle/5e/Players_Handbook
   - Gegenstand/Waffe/Nahkampf/Einfach
   - Gegenstand/Seltenheit/gewöhnlich
   - Gegenstand/Eigenschaft/Leicht

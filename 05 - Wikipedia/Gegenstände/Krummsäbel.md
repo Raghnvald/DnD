@@ -6,7 +6,7 @@ Eigenschaften: Finesse, Leicht
 Gew.: 1,5 kg
 Kst.: 25 GM
 tags:
-  - Quelle/5e/PHB
+  - Quelle/5e/Players_Handbook
   - Gegenstand/Waffe/Nahkampf/Kriegswaffe
   - Gegenstand/Seltenheit/gewöhnlich
   - Gegenstand/Eigenschaft/Finesse

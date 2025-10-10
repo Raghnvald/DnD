@@ -6,7 +6,7 @@ Eigenschaften: Wurfwaffe (Reichweite 9/36)
 Gew.: 1,0 kg
 Kst.: 5 SM
 tags:
-- Quelle/5e/DMG
+- Quelle/5e/Dungeon_Masters_Guide
 - Gegenstand/Waffe/Nahkampf/Einfach
 - Gegenstand/Seltenheit/ungewöhnlich
 - Gegenstand/Eigenschaft/Wurfwaffe

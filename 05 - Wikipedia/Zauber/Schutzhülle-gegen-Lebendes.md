@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/PHB
+- Quelle/5e/Players_Handbook
 - Klasse/Druide
 - Zauber/Grad/5
 - Zauber/Schule/Bann

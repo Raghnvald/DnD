@@ -6,7 +6,7 @@ Eigenschaften: n/v
 Gew.: 2,0 kg
 Kst.: 5 GM
 tags:
-- Quelle/5e/PHB
+- Quelle/5e/Players_Handbook
 - Gegenstand/Waffe/Nahkampf/Einfach
 - Gegenstand/Seltenheit/gewöhnlich
 aliases:

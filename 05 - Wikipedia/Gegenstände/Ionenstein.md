@@ -5,7 +5,7 @@ Eigenschaften: erfordert Einstimmung
 Gew.: n/v
 Kst.: n/v
 tags:
-- Quelle/5e/DMG
+- Quelle/5e/Dungeon_Masters_Guide
 - Gegenstand/wundersam
 - Gegenstand/Seltenheit/selten
 - Gegenstand/Seltenheit/sehr_selten

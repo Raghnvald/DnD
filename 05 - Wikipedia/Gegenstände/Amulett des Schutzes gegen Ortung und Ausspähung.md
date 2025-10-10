@@ -5,7 +5,7 @@ Eigenschaften: erfordert Einstimmung
 Gew.: 0,5 kg
 Kst.: 20.000 GM
 tags:
-- Quelle/5e/DMG
+- Quelle/5e/Dungeon_Masters_Guide
 - Gegenstand/wundersam
 - Gegenstand/Seltenheit/ungewöhnlich
 - Gegenstand/Einstimmung

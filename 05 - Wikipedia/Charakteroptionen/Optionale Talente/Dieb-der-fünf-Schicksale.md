@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- Quelle/5e/PHB
+- Quelle/5e/Players_Handbook
 - Kompendium/Optionales/Anrufungen
 aliases: ["Thief of Five Fates"]
 ---

@@ -8,7 +8,7 @@ Komponenten: V, G
 Wirkungsdauer: 1 Minute
 Angriff: -
 tags:
-- Quelle/5e/PHB
+- Quelle/5e/Players_Handbook
 - Klasse/Hexenmeister
 - Klasse/Magier
 - Klasse/Zauberer

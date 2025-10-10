@@ -1,6 +1,6 @@
 ---
 tags: 
-- Quelle/5e/XGtE
+- Quelle/5e/Xanathars_Guide_to_Everything
 - Klasse/Barde
 aliases: 
 - College of Swords

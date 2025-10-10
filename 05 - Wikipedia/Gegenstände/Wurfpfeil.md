@@ -9,7 +9,7 @@ Schadensart: Stichschaden
 Eigenschaften: Finesse, Reichweite, Wurfwaffe
 Kst.: 5 KM
 tags:
-  - Quelle/5e/PHB
+  - Quelle/5e/Players_Handbook
   - Gegenstand/Eigenschaft/Finesse
   - Gegenstand/Eigenschaft/Wurfwaffe
   - Gegenstand/Waffe/Fernkampf/Einfach

@@ -6,7 +6,7 @@ Eigenschaften: Schwer, weitreichend, zweihändig
 Gew.: 3,0 kg
 Kst.: 20 GM
 tags:
-- Quelle/5e/PHB
+- Quelle/5e/Players_Handbook
 - Gegenstand/Waffe/Nahkampf/Kriegswaffe
 - Gegenstand/Seltenheit/gewöhnlich
 - Gegenstand/Eigenschaft/Schwer

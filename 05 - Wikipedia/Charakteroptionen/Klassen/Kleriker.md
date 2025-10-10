@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
 - Klasse/Kleriker
-- Quelle/5e/PHB
+- Quelle/5e/Players_Handbook
 aliases: ["Cleric"]
 ---
 # Kleriker

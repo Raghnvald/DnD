@@ -2,7 +2,7 @@
 tags: Klasse/Hexenmeister/Fluchklinge, Quelle/5e/PHB, Quelle/5e/SRD
 aliases: The Hexblade
 ---
-Der Unhold
+Die Fluchklinge
 ==========
 
 [Hexenmeister](04.%20Kompendium/Charakteroptionen/02.%20Klassen/Hexenmeister/Hexenmeister.md)_: Außerweltlicher Schutzherr_  

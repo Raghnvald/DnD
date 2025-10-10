@@ -1,6 +1,6 @@
 ---
 tags:
-- Quelle/5e/DMG
+- Quelle/5e/Dungeon_Masters_Guide
 - Gegenstand/Seltenheit/selten
 - Gegenstand/wundersam
 aliases:

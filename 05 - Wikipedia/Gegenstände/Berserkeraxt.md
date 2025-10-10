@@ -6,13 +6,12 @@ Eigenschaften: variabel
 Gew.: n/a
 Kst.: n/v
 tags:
-  - Quelle/5e/DMG
+  - Quelle/5e/Dungeon_Masters_Guide
   - Gegenstand/Waffe/Nahkampf/Beliebig
   - Gegenstand/Seltenheit/selten
   - Gegenstand/Einstimmung/erforderlich
 aliases:
   - Berserker Axe
-
 ---
 # Berserkeraxt
 _Waffe (beliebige Streitaxt, Zweihandaxt oder Hellebarde), selten (erfordert Einstimmung)_

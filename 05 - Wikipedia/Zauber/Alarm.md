@@ -1,6 +1,6 @@
 ---
 tags:
-- Quelle/5e/PHB
+- Quelle/5e/Players_Handbook
 - Klasse/Magier
 - Klasse/Waldläufer
 - Zauber/Grad/1
