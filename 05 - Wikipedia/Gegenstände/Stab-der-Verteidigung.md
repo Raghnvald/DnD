@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- Quelle/5e/PaB
+- Quelle/5e/Lost_Mines_of_Phandelver
 - Gegenstand/wundersam/Zauberstab
 - Gegenstand/Seltenheit/selten
 - Gegenstand/Einstimmung/erforderlich

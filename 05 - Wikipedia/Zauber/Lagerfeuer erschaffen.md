@@ -1,6 +1,6 @@
 ---
 tags: 
-- Quelle/5e/EEPC
+- Quelle/5e/Elemental_Evils_Player_Companion
 - Klasse/Druide
 - Klasse/Hexenmeister
 - Klasse/Magier

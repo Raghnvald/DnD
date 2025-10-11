@@ -1,6 +1,6 @@
 ---
 tags:
-- Quelle/5e/HCS
+- Quelle/5e/Humblewood_Campaign_Setting
 - Klasse/Barde
 aliases:
 - College of the Road

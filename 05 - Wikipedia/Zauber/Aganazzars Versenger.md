@@ -7,7 +7,7 @@ Wirkungsdauer: Unmittelbar
 Angriff: GES
 Schaden: 3d8 Feuer
 tags: 
-- Quelle/5e/EEPC
+- Quelle/5e/Elemental_Evils_Player_Companion
 - Klasse/Magier
 - Klasse/Zauberer
 - Zauber/Original/Aganazzars_Scorcher
@@ -25,7 +25,7 @@ _Unterklassen:_ n/v
 _Quellen:_ Xanathars Ratgeber für Alles
 
 - **Zeitaufwand:** 1 Aktion
-- **Reichweite:** 45 Meter
+- **Reichweite / Fläche:** 45 Meter
 - **Komponenten:** V, G, M (die Schuppen eines roten Drachen)
 - **Wirkungsdauer:** Unmittelbar
 - **Angriff / Rettung:** Geschicklichkeit

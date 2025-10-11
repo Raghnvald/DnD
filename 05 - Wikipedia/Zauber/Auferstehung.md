@@ -3,8 +3,8 @@ tags:
 - Quelle/5e/Players_Handbook
 - Klasse/Barde
 - Klasse/Kleriker
-- Zauber/Zaubergrad/7
-- Zauber/Zauberschule/Nekromantie 
+- Zauber/Grad/7
+- Zauber/Schule/Nekromantie 
 aliases:
 - Resurrection
 ---

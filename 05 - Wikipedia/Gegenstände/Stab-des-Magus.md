@@ -32,7 +32,7 @@ While holding the staff, you have advantage on saving throws against spells. In 
 
 While holding the staff, you can use an action to expend some of its charges to cast one of the following spells from it, using your spell save DC and spellcasting ability: [conjure elemental](../Zauber/Elementar-beschwören.md) (7 charges), [dispel magic](../Zauber/Magie-bannen.md) (3 charges), [[../Zauber/Feuerball]] (7th-level version, 7 charges), [[../Zauber/Flammenkugel]] (2 charges), [ice storm](../Zauber/Eissturm.md) (4 charges), [Invisibility](Verschiedenes/Archiv/DND/Archiv/Wiki/Invisibility.md) (2 charges), [Klopfen](../Zauber/Klopfen.md) (2 charges), [[../Zauber/Blitz]] (7th-level version, 7 charges), [Wände-passieren](../Zauber/Wände-passieren.md) (5 charges), [plane shift](../Zauber/Ebenenwechsel.md) (7 charges), [[../Zauber/Telekinese]] (5 charges), [wall of fire](../Zauber/Feuerwand.md) (4 charges), or [[../Zauber/Spinnennetz]] (2 charges).
 
-You can also use an action to cast one of the following spells from the staff without using any charges: [arcane lock](../Zauber/Arkanes-Schloss.md), [detect magic](../Zauber/Magie-entdecken.md), [enlarge/reduce](../Zauber/Vergrößern-Verkleinern.md), [[../Zauber/Licht]], [[../Zauber/Magierhand]], or [protection from evil and good](../Zauber/Schutz-vor-Gut-und-Böse.md).
+You can also use an action to cast one of the following spells from the staff without using any charges: [arcane lock](Arkanes%20Schloss.md), [detect magic](../Zauber/Magie-entdecken.md), [enlarge/reduce](../Zauber/Vergrößern-Verkleinern.md), [[../Zauber/Licht]], [[../Zauber/Magierhand]], or [protection from evil and good](../Zauber/Schutz-vor-Gut-und-Böse.md).
 
 ## Retributive Strike
 

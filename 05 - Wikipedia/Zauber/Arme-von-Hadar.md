@@ -1,5 +1,9 @@
 ---
-tags: Quelle/5e/PHB, Klasse/Hexenmeister, Zauber/Zaubergrad/1, Zauber/Zauberschule/Beschwörung
+tags: 
+Quelle/5e/PHB, 
+Klasse/Hexenmeister, 
+Zauber/Zaubergrad/1, 
+Zauber/Zauberschule/Beschwörung
 aliases: Arms of Hadar
 ---
 Arme von Hadar

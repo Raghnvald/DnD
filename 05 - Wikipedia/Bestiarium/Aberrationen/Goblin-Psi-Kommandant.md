@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- Quelle/5e/PaB
+- Quelle/5e/Lost_Mines_of_Phandelver
 - Habitat/Wald
 - Habitat/Grasland
 - Habitat/Hügel

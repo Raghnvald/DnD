@@ -78,7 +78,7 @@ _Quelle:_ Spielerhandbuch
 ## Übung
 Du bist geübt im Umgang mit den folgenden Dingen, zusätzlich zu allen Übungen welche du durch Rasse oder Hintergrund erhältst:
 
-- **Rettungswürfe**: Wisdom, Charisma
+- **Rettungswürfe**: Charisma, Weisheit
 - **Rüstung**: Alle Rüstungen, Schilde
 - **Waffen**: einfache Waffen, Kriegswaffen
 - **Werkzeuge**: keine
@@ -308,7 +308,7 @@ Beginnend mit der 5. Stufe kannst du zweimal anstatt einmal angreifen, wenn du e
 ### Aura des Schutzes (Stufe 6)
 Immer wenn nach dem Erreichen der 6. Stufe du oder eine verbündete Kreatur innerhalb von 3 m einen Rettungswurf ablegen müssen, erhält die entsprechende Kreatur einen Bonus in Höhe deines Charismamodifikators (mindestens +1). Du musst bei Bewusstsein sein, damit dieser Bonus gewährt wird.
 
-### Merkmal: Heiliger Schwur (Level 7)
+### Merkmal: Heiliger Schwur (Stufe 7)
 Auf der 7. Stufe erhältst du eine Eigenschaft, die dir dein Heiliger Schwur verleiht.
 
 ### [[Attributswerterhöhung]] (Stufe 8)

@@ -1,4 +1,11 @@
 ---
+Bezeichnung: Ablenkung
+Zeitaufwand: 1 Aktion
+Reichweite: selbst
+Komponenten: G
+Wirkungsdauer: Konzentration, bis zu 1 Stunde
+Angriff: n/a
+Schaden: n/a
 tags:
 - Quelle/5e/Players_Handbook
 - Klasse/Barde
@@ -8,13 +15,6 @@ tags:
 - Zauber/Schule/Illusion
 aliases:
 - Mislead
-Bezeichnung: Ablenkung
-Zeitaufwand: 1 Aktion
-Reichweite: selbst
-Komponenten: G
-Wirkungsdauer: Konzentration, bis zu 1 Stunde
-Angriff: n/a
-Schaden: n/a
 ---
 # Ablenkung
 _Illusion des 5. Grades_
@@ -24,15 +24,15 @@ _Unterklassen:_  Domäne des Zwielichts,  Die Vielen, Der große Narr, Das Raubt
 
 _Quellen:_ Spielerhandbuch
 
-- **Zeitaufwand:** `1 Aktion`
-- **Reichweite:** `selbst`
-- **Komponenten:** `G`
-- **Wirkungsdauer:** `Konzentration, bis zu 1 Stunde`
-- **Angriff / Rettung:** `n/a`
-- **Schaden / Effekt:**  `n/a`
+- **Zeitaufwand:** 1 Aktion
+- **Reichweite / Fläche:** selbst
+- **Komponenten:** G
+- **Wirkungsdauer:** Konzentration, bis zu 1 Stunde
+- **Angriff / Rettung:** n/a
+- **Schaden / Effekt:**  n/a
 
-You become [invisible](rules/conditions.md#invisible) at the same time that an illusory double of you appears where you are standing. The double lasts for the duration, but the invisibility ends if you attack or cast a spell.
+Du wirst unsichbar, gleichzeitig erscheint ein illusionäres Abbild von dir selbst dort, wo du stehst. Dieses Abbild bleibt für die Wirkungsdauer bestehen, aber die Unsichtbarkeit endet, wenn du angreifst oder einen Zauber wirkst.
 
-You can use your action to move your illusory double up to twice your speed and make it gesture, speak, and behave in whatever way you choose.
+Als Aktion kannst du dein illusionäres Abbild bis zu deiner doppelten Bewegungsrate bewegen und es gestikulieren, sprechen und auf jede Art handeln lassen, die du möchtest.
 
-You can see through its eyes and hear through its ears as if you were located where it is. On each of your turns as a bonus action, you can switch from using its senses to using your own, or back again. While you are using its senses, you are [blinded](rules/conditions.md#blinded) and [deafened](rules/conditions.md#deafened) in regard to your own surroundings.
+Du kannst durch seine Augen sehen und durch seine Ohren hören, als würdest du dort stehen, wo es sich aufhält. In jedem deiner Züge kannst du als Bonusaktion von deinen Sinnen zu den Sinnen des Abbilds wechseln und andersherum. Solange du seine Sinne nutzt, bist du blind und taub für deine eigene Umgebung.

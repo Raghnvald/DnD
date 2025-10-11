@@ -7,7 +7,7 @@ Wirkungsdauer: Unmittelbar
 Angriff: KON
 Schaden: 12d8 nekrotisch
 tags: 
-- Quelle/5e/EEPC
+- Quelle/5e/Elemental_Evils_Player_Companion
 - Klasse/Magier
 - Klasse/Zauberer
 - Zauber/Original/Abi-Dalzims_Horrid_Wilting

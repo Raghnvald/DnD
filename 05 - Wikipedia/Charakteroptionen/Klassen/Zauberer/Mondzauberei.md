@@ -1,6 +1,6 @@
 ---
 tags:
-- Quelle/5e/SotDQ
+- Quelle/5e/Shadow_of_the_Dragon_Queen
 - Klasse/Zauberer
 aliases: 
 - Lunar Sorcery

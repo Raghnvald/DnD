@@ -1,0 +1,141 @@
+views:
+  - type: table
+    name: Magierzaubertricks
+    filters:
+      and:
+        - file.tags.contains("Klasse/Magier")
+        - file.tags.contains("Zauber/Grad/0")
+    order:
+      - file.name
+      - Zeitaufwand
+      - Reichweite
+      - Komponenten
+      - Wirkungsdauer
+      - Angriff
+      - Schaden
+  - type: table
+    name: Magierzauber Grad 1
+    filters:
+      and:
+        - file.tags.contains("Klasse/Magier")
+        - file.tags.contains("Zauber/Grad/1")
+    order:
+      - file.name
+      - Zeitaufwand
+      - Reichweite
+      - Komponenten
+      - Wirkungsdauer
+      - Angriff
+      - Schaden
+  - type: table
+    name: Magierzauber Grad 2
+    filters:
+      and:
+        - file.tags.contains("Klasse/Magier")
+        - file.tags.contains("Zauber/Grad/2")
+    order:
+      - file.name
+      - Zeitaufwand
+      - Reichweite
+      - Komponenten
+      - Wirkungsdauer
+      - Angriff
+      - Schaden
+  - type: table
+    name: Magierzauber Grad 3
+    filters:
+      and:
+        - file.tags.contains("Klasse/Magier")
+        - file.tags.contains("Zauber/Grad/3")
+    order:
+      - file.name
+      - Zeitaufwand
+      - Reichweite
+      - Komponenten
+      - Wirkungsdauer
+      - Angriff
+      - Schaden
+  - type: table
+    name: Magierzauber Grad 4
+    filters:
+      and:
+        - file.tags.contains("Klasse/Magier")
+        - file.tags.contains("Zauber/Grad/4")
+    order:
+      - file.name
+      - Zeitaufwand
+      - Reichweite
+      - Komponenten
+      - Wirkungsdauer
+      - Angriff
+      - Schaden
+  - type: table
+    name: Magierzauber Grad 5
+    filters:
+      and:
+        - file.tags.contains("Klasse/Magier")
+        - file.tags.contains("Zauber/Grad/5")
+    order:
+      - file.name
+      - Zeitaufwand
+      - Reichweite
+      - Komponenten
+      - Wirkungsdauer
+      - Angriff
+      - Schaden
+  - type: table
+    name: Magierzauber Grad 6
+    filters:
+      and:
+        - file.tags.contains("Klasse/Magier")
+        - file.tags.contains("Zauber/Grad/6")
+    order:
+      - file.name
+      - Zeitaufwand
+      - Reichweite
+      - Komponenten
+      - Wirkungsdauer
+      - Angriff
+      - Schaden
+  - type: table
+    name: Magierzauber Grad 7
+    filters:
+      and:
+        - file.tags.contains("Klasse/Magier")
+        - file.tags.contains("Zauber/Grad/7")
+    order:
+      - file.name
+      - Zeitaufwand
+      - Reichweite
+      - Komponenten
+      - Wirkungsdauer
+      - Angriff
+      - Schaden
+  - type: table
+    name: Magierzauber Grad 8
+    filters:
+      and:
+        - file.tags.contains("Klasse/Magier")
+        - file.tags.contains("Zauber/Grad/8")
+    order:
+      - file.name
+      - Zeitaufwand
+      - Reichweite
+      - Komponenten
+      - Wirkungsdauer
+      - Angriff
+      - Schaden
+  - type: table
+    name: Magierzauber Grad 9
+    filters:
+      and:
+        - file.tags.contains("Klasse/Magier")
+        - file.tags.contains("Zauber/Grad/9")
+    order:
+      - file.name
+      - Zeitaufwand
+      - Reichweite
+      - Komponenten
+      - Wirkungsdauer
+      - Angriff
+      - Schaden

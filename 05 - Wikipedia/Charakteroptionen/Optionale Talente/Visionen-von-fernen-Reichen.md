@@ -11,4 +11,4 @@ aliases: ["Visions of Distant Realms"]
 
 ***Voraussetzung***: 15. Stufe
 
-Du kannst [Arkanes Auge](../../Zauber/Arkanes-Auge.md) beliebig oft wirken, ohne dafür einen Zauberplatz verbrauchen zu müssen. 
+Du kannst [Arkanes Auge](Arkanes%20Auge.md) beliebig oft wirken, ohne dafür einen Zauberplatz verbrauchen zu müssen. 

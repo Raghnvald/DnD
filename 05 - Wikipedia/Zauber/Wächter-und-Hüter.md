@@ -29,7 +29,7 @@ Fog fills all the warded corridors, making them heavily obscured. In addition, a
 
 ## Doors
 
-All doors in the warded area are magically locked, as if sealed by an [arcane lock](Arkanes-Schloss.md) spell. In addition, you can cover up to ten doors with an illusion (equivalent to the illusory object function of the [[Einfache Illusion]] spell) to make them appear as plain sections of wall.
+All doors in the warded area are magically locked, as if sealed by an [arcane lock](Arkanes%20Schloss.md) spell. In addition, you can cover up to ten doors with an illusion (equivalent to the illusory object function of the [[Einfache Illusion]] spell) to make them appear as plain sections of wall.
 
 ## Stairs
 

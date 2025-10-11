@@ -1,383 +1,323 @@
 ---
-tags: Klasse/Kleriker, Quelle/5e/PHB
-aliases: Cleric
+prefer-view: 
+- edit-source read
+type: 
+- character
+tags: 
+- Quelle/5e/Players_Handbook
+- Klasse/Kleriker
+aliases: 
+- Cleric
+link:
+- https://www.dndbeyond.com/classes/2190877-cleric
+status:
+- completed
+order:
+parent:
+- Kleriker
 ---
 # Kleriker
 _Quelle:_ Spielerhandbuch
 <img src="Cleric.webp" align="right" width="350">
 
 ## Eigenschaftsentwicklung
-| Stufe | ÜB  | Merkmale                                                            |
-| ----- | --- | ------------------------------------------------------------------- |
-| 1.    | +2  | Spellcasting, Divine Domain                                         |
-| 2.    | +2  | Channel Divinity, Divine Domain feature                             |
-| 3.    | +2  | ⏤                                                                   |
-| 4.    | +2  | Attributswerterhöhung                                               |
-| 5.    | +3  | Destroy Undead (CR 1/2)                                             |
-| 6.    | +3  | Channel Divinity, Divine Domain feature                             |
-| 7.    | +3  | ⏤                                                                   |
-| 8.    | +3  | Attributswerterhöhung, Destroy Undead (CR 1), Divine Domain feature |
-| 9.    | +4  | ⏤                                                                   |
-| 10.   | +4  | Divine Intervention                                                 |
-| 11.   | +4  | Destroy Undead (CR 2)                                               |
-| 12.   | +4  | Attributswerterhöhung                                               |
-| 13.   | +5  | ⏤                                                                   |
-| 14.   | +5  | Destroy Undead (CR 3)                                               |
-| 15.   | +5  | ⏤                                                                   |
-| 16.   | +5  | Attributswerterhöhung                                               |
-| 17.   | +6  | Destroy Undead (CR 4), Divine Domain feature                        |
-| 18.   | +6  | Channel Divinity                                                    |
-| 19.   | +6  | Attributswerterhöhung                                               |
-| 20.   | +6  | Divine Intervention Improvement                                     |
+| Stufe | ÜB  | Merkmale                                                              |
+| ----- | --- | --------------------------------------------------------------------- |
+| 1.    | +2  | Zauberwirken, Göttliche Domäne                                        |
+| 2.    | +2  | Göttliche Macht fokussieren (1/Rast), Merkmal: Göttliche Domäne       |
+| 3.    | +2  | ⏤                                                                     |
+| 4.    | +2  | Attributswerterhöhung                                                 |
+| 5.    | +3  | Untote zerstören (HG 1/2)                                             |
+| 6.    | +3  | Göttliche Macht fokussieren (2/Rast), Merkmal: Göttliche Domäne       |
+| 7.    | +3  | ⏤                                                                     |
+| 8.    | +3  | Attributswerterhöhung, Untote zerstören (HG 1), Divine Domain feature |
+| 9.    | +4  | ⏤                                                                     |
+| 10.   | +4  | Göttliche Intervention                                                |
+| 11.   | +4  | Untote zerstören (HG 2)                                               |
+| 12.   | +4  | Attributswerterhöhung                                                 |
+| 13.   | +5  | ⏤                                                                     |
+| 14.   | +5  | Untote zerstören (HG 3)                                               |
+| 15.   | +5  | ⏤                                                                     |
+| 16.   | +5  | Attributswerterhöhung                                                 |
+| 17.   | +6  | Untote zerstören (HG 4), Merkmal: Göttliche Domäne                    |
+| 18.   | +6  | Göttliche Macht fokussieren (3/Rast)                                  |
+| 19.   | +6  | Attributswerterhöhung                                                 |
+| 20.   | +6  | Verbesserte Göttliche Intervention                                    |
 * ÜB: Übungsbonus
 
-> \[!tldr\]- Class progression
+## Klassenverlauf
+| Stufe | Zaubertricks | 1.  | 2.  | 3.  | 4.  | 5.  | 6.  | 7.  | 8.  | 9.  |
+| ----- | ------------ | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1.    | 3            | 2   | -   | -   | -   | -   | -   | -   | -   | -   |
+| 2.    | 3            | 3   | -   | -   | -   | -   | -   | -   | -   | -   |
+| 3.    | 3            | 4   | 2   | -   | -   | -   | -   | -   | -   | -   |
+| 4.    | 4            | 4   | 3   | -   | -   | -   | -   | -   | -   | -   |
+| 5.    | 4            | 4   | 3   | 2   | -   | -   | -   | -   | -   | -   |
+| 6.    | 4            | 4   | 3   | 3   | -   | -   | -   | -   | -   | -   |
+| 7.    | 4            | 4   | 3   | 3   | 1   | -   | -   | -   | -   | -   |
+| 8.    | 4            | 4   | 3   | 3   | 2   | -   | -   | -   | -   | -   |
+| 9.    | 4            | 4   | 3   | 3   | 3   | 1   | -   | -   | -   | -   |
+| 10.   | 5            | 4   | 3   | 3   | 3   | 2   | -   | -   | -   | -   |
+| 11.   | 5            | 4   | 3   | 3   | 3   | 2   | 1   | -   | -   | -   |
+| 12.   | 5            | 4   | 3   | 3   | 3   | 2   | 1   | -   | -   | -   |
+| 13.   | 5            | 4   | 3   | 3   | 3   | 2   | 1   | 1   | -   | -   |
+| 14.   | 5            | 4   | 3   | 3   | 3   | 2   | 1   | 1   | -   | -   |
+| 15.   | 5            | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | -   |
+| 16.   | 5            | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | -   |
+| 17.   | 5            | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | 1   |
+| 18.   | 5            | 4   | 3   | 3   | 3   | 3   | 1   | 1   | 1   | 1   |
+| 19.   | 5            | 4   | 3   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |
+| 20.   | 5            | 4   | 3   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
+*   1st-9th: Spell slots per level 
+^class-progression
+
+## Trefferpunkte
+- **Trefferwürfel**: 1d8 pro Stufe als Kleriker
+- **Trefferpunkte auf der ersten Stufe:** 8 + dein Konstitutionsmodifikator 
+- **Trefferpunkte auf höheren Stufen:** 1d8 (oder ) + dein Konstitutionsmodifikator pro Stufe als Kleriker über die 1. Stufe hinaus
+
+## Übung
+Du bist geübt im Umgang mit den folgenden Dingen, zusätzlich zu allen Übungen welche du durch Rasse oder Hintergrund erhältst:
+
+- **Rettungswürfe**: Charisma, Weisheit
+- **Rüstung**: leichte und mittlere Rüstungen, Schilde
+- **Waffen**: einfache Waffen
+- **Werkzeuge**: keine
+- **Skills**: zwei nach Wahl: _Geschichte_, _Heilkunde_,
+_Motiv erkennen_, _Religion_, _Überzeugen_
+
+## Ausrüstung
+Du beginnst mit der folgenden Ausrüstung, zusätzlich zu der, die du durch deinen Hintergrund erhältst:
+
+- (a) ein Streitkolben oder (b) ein Kriegshammer (falls im Umgang geübt),
+- (a) ein Schuppenpanzer, (b) eine Lederrüstung oder (c) ein Kettenpanzer (falls im Umgang geübt),
+- (a) eine leichte Armbrust mit 20 Bolzen oder (b) eine ein fache Waffe,
+- (a) eine Priesterausrüstung oder (b) eine Entdeckerausrüstung,
+- ein Schild und ein heiliges Symbol.
+
+Alternativ kannst du mit 5d4 × 10 Gold beginnen und deine eigene Ausrüstung wählen.
+
+## Klassenkombination Kleriker
+Um eine Klassenkombination mit einem Kleriker zu erhalten, musst du folgende Anforderungen erfüllen:
+
+- Weisheit 13 
+
+Du erhältst Übung in folgenden Dingen:
+
+- **Rüstung**: leichte und mittlere Rüstungen, Schilde
+- **Waffen**: keine
+- **Werkzeuge**: keine
+
+## Kleriker
+Die Arme und Augen zur Sonne gewandt und ein Gebet auf den Lippen, strahlt der Elf ein inneres Licht aus, das sich ausbreitet und seine vom Kampf geschwächten Kameraden heilt.
+
+Mit einem Lied des Ruhmes auf den Lippen schwingt ein Zwerg seine Axt in weiten Hieben durch die Reihen der Orks, die sich gegen ihn gestellt haben, und preist die Götter lauthals beim Sturz jedes einzelnen Feindes.
+
+Während sie die Mächte der Untoten mit einem Fluch belegt, erhebt eine Menschenfrau ihr heiliges Symbol und drängt mit dem daraus flutenden Licht die Zombies zurück, welche ihre Kameraden in die Enge getrieben haben.
+
+Kleriker sind Mittler zwischen der Welt der Sterblichen und den fernen Ebenen der Götter. So unterschiedlich die Gottheiten, denen sie dienen, auch sein mögen, streben doch alle Kleriker danach, deren Werk und deren Ideale mit jeder ihrer Taten zu verkörpern. Im Gegensatz zu einem gewöhnlichen Priester ist ein Kleriker von göttlicher Magie erfüllt.
+
+### Heiler und Krieger
+Göttliche Magie, wie der Name verrät, ist die Macht der Götter, die durch sie in die Welt strömt. Kleriker kanalisieren diese Kraft, sodass sie in Form wundersamer Effekte in Erscheinung tritt. Die Götter verleihen diese Macht nicht jedem, der danach sucht, sondern nur denen, die sie für eine höhere Berufung auserwählen.
+
+Die heiligen Kräfte nutzbar zu machen, hängt nicht von Übung oder Lerneifer ab. Ein Kleriker kann zwar Gebetsformeln und uralte Rituale lernen, doch die Fähigkeit, Klerikerzauber zu wirken, stützt sich auf die Verehrung der Gottheit und das intuitive Wissen um ihre Wünsche. Kleriker kombinieren die hilfreiche Magie der Heilung und der Inspiration mit Zaubersprüchen, die ihre Gegner aufhalten und verletzen. Sie können Leid und Schrecken über ihre Feinde bringen, sie mit krankmachenden oder vergiftenden Flüchen belegen und sogar Flammen vom Himmel auf sie herabregnen lassen. Bei Halunken, die einen Hieb mit dem Streitkolben auf den Kopf verdienen, verlassen sich Kleriker auf ihre Kampfausbildung und stellen sich ihnen mit der Macht der Götter an der Seite im Nahkampf.
+
+### Göttliche Stellvertreter
+Nicht jeder Akolyth oder Geistliche in einem Tempel oder einer Kirche ist ein Kleriker. Manche Priester werden zu einem einfachen Leben als Tempeldiener berufen und entsprechen dem Willen ihrer Götter mit Gebeten und Opfergaben, nicht mit Magie und Waffengewalt. In einigen Städten hat die Pries terschaft auch politische Ämter inne. Der Klerus wird dort oft als Sprungbrett benutzt, um an höhere Positionen zu gelangen, ohne dass der Glaube an eine Gottheit dabei eine Rolle spielt. Echte Kleriker sind in den meisten Hierarchien selten zu finden.
+
+Sollte ein Kleriker sich für ein Leben als Abenteurer entscheiden, dann liegt das in der Regel daran, dass seine Gottheit es so verlangt. Die Ziele der Götter zu verfolgen beinhaltet oft, Gefahren hinter den Grenzen der Zivilisation zu trotzen, das Böse zu bekämpfen oder heilige Relikte in uralten Grabstätten zu suchen. Von vielen Klerikern wird auch erwartet, dass sie die Anhänger ihrer Gottheit beschützen was bedeuten kann, dass sie randalierende Orks bekämpfen müssen, Friedensverhandlungen zwischen sich bekriegenden Nationen führen dürfen oder ein Portal versiegeln sollen, das einem Dämonenprinzen erlauben würde, die Welt zu betreten.
+
+Die meisten Kleriker auf Abenteuern halten Verbindungen zu alteingesessenen Tempeln oder Orden ihres Glaubens aufrecht. Ein Tempel könnte die Hilfe des Klerikers erbitten oder ein Hohepriester gar in der Position sein, diese einzufordern.
+
+### Einen Kleriker erschaffen
+Beim Erschaffen deines Klerikers besteht die wichtigste Frage darin, welcher Gottheit er dient und welche Prinzipien er verkörpert. Anhang B „Götter des Multiversums“ enthält Listen mit vielen möglichen Gottheiten. Sprich mit deinem SL ab, welche in deiner Kampagne vorkommen. Sobald du dir eine Gottheit ausgesucht hast, überlege dir, welche Beziehung dein Charakter zu dieser hat. Ist er freiwillig in ihren Dienst getreten? Oder hat der Gott ihn erwählt und nötigt ihn, ihm zu dienen, ohne auf die Wünsche deines Charakters zu achten? Wie gehen die Priester im Tempel mit deinem Kleriker um? Ist er für sie ein Held oder ein Unruhestifter? Was will er erreichen? Hat seine Gottheit eine besondere Aufgabe für ihn im Sinn? Oder versucht er, sich einer großen Queste als würdig zu erweisen?
+
+#### Schnelle Erschaffung
+Du kannst einen Kleriker schnell erschaffen, indem du diesen
+Vorschlägen folgst:
+
+Setze deinen höchsten Attributswert auf Weisheit, deinen
+zweithöchsten auf Stärke oder Konstitution. Wähle zusätzlich
+den Hintergrund [[Tempeldiener]].
+
+> [!quote] Riggby der Patriarch
+> Ein Kleriker zu werden, bedeutet auch ein Bote der Götter zu werden. Die Macht, die das Göttliche bietet, ist groß, aber damit ist immer auch eine enorme Verantwortung verbunden.
+
+Beinahe alle Leute in der Welt, die eine Gottheit verehren, leben ihr Leben, ohne je direkt von einem göttlichen Wesen berührt zu werden. Deswegen werden sie nie wissen, wie es sich anfühlt, ein Kleriker zu sein - jemand, der nicht nur ein frommer Gläubiger ist, sondern dem auch ein bescheidenes Maß der Macht eines Gottes verliehen wurde.
+
+Schon seit langem wird über die folgende Frage diskutiert: Wird ein Sterblicher zu einem Kleriker, weil er einer Gottheit zutiefst ergeben ist und so die Gunst des Gottes erlangt? Oder ist es die Gottheit, die in jemandem Potenzial sieht und diese Person in ihre Dienste aufnimmt? Letzten Endes spielt die Antwort womöglich gar keine Rolle. Wie jemand auch zu einem Kleriker wird, die Welt braucht Kleriker ebenso sehr wie Kleriker und Götter einander.
+
+Wenn du einen Klerikercharakter spielst, findest du im folgenden Abschnitt Möglichkeiten, wie du die Geschichte und die Persönlichkeit deines Charakters im Detail ausarbeiten kannst.
+
+## Tempel
+_Quelle: Xanathars Ratgeber für Alles_
+
+Die meisten Kleriker beginnen ihr frommes Leben als Priester in einem Orden. Später dann bemerken sie, dass sie von ihrem Gott mit den nötigen Eigenschaften gesegnet wurden, um Kleriker zu werden. Um sich auf diese neue Aufgabe vorzubereiten, werden Anwärter normalerweise von dem Kleriker eines Tempels oder einem anderen Ort des Lernens unterwiesen, der ihrem Gott gewidmet ist.
+
+Einige Tempel sind vom Rest der Welt abgeschnitten, damit sich ihre Bewohner auf die Anbetung ihres Gottes konzentrieren können, während andere Tempel ihre Tore öffnen, um sich um die breiten Massen zu kümmern und sie zu heilen. Was ist besonders an dem Tempel, in dem du unterwiesen wurdest?
+
+| Würfel: W6 | Tempel                                                                                                                       |
+| ---------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| 1          | Dein Tempel ist angeblich das älteste noch intakte Gebäude, das zu Ehren deines Gottes errichtet wurde.                      |
+| 2          | Tempeldiener mehrerer gleichgesinnter Gottheiten wurden in deinem Tempel Seite an Seite unterrichtet.                        |
+| 3          | Du stammst aus einem Tempel, der für seine Brauerei bekannt ist. Manche behaupten, du würdest wie eines ihrer Biere riechen. |
+| 4          | Dein Tempel ist eine Festung und ein Trainingsgelände, wo Kriegerpriester ausgebildet werden.                                |
+| 5          | Dein Tempel ist ein friedlicher, schlichter Ort, voller Gemüsegärten und einfacher Priester.                                 |
+| 6          | Du hast in einem Tempel auf den Äußeren Ebenen gedient.                                                                      |
+^temple
+
+## Erinnerungsstück
+_Quelle: Xanathars Ratgeber für Alles_
+
+In der Ausrüstung vieler Kleriker finden sich Gegenstände, die ihren Glauben repräsentieren, sie an ihre Gelübde erinnern oder ihnen auf andere Weise helfen, nicht von dem Pfad abzukommen, für den sie sich entschieden haben. Obwohl einem solchen Gegenstand keine göttliche Macht innewohnt, ist er aufgrund seiner symbolischen Bedeutung außerordentlich wichtig für den Besitzer.
+
+| Würfel: W6 | Erinnerungsstück                                                                                                  |
+| ---------- | ----------------------------------------------------------------------------------------------------------------- |
+| 1          | Der Fingerknochen eines Heiligen.                                                                                 |
+| 2          | Ein in Metall gebundenes Buch, das erklärt, wie man infernalische Kreaturen jagt und zerstört.                    |
+| 3          | Ein kleiner Gegenstand ohne materiellen Wert, der dich an deinen bescheidenen und geliebten Lehrmeister erinnert. |
+| 4          | Ein Zopf, geflochten aus den Schweifhaaren eines Einhorns.                                                        |
+| 5          | Eine Schriftrolle, in der die beste Methode erläutert wird, um die Welt von Nekromanten zu befreien.              |
+| 6          | Ein Runenstein, der angeblich von deinem Gott gesegnet wurde.                                                     |
+^keepsake
+
+## Geheimnis
+_Quelle: Xanathars Ratgeber für Alles_
+
+Kein Sterblicher ist gänzlich frei von Zweifeln und Bedenken. Selbst ein Kleriker hat mit dunklen Gelüsten oder der verbotenen Verlockung zu kämpfen, sich gegen die Lehren seiner Gottheit aufzulehnen.
+
+Wenn du über diesen Aspekt deines Charakters noch nicht nachgedacht hast, findest du in der folgenden Tabelle einige mögliche Optionen, die dir auch als Inspiration dienen können. Dein tiefes, dunkles Geheimnis könnte mit etwas zusammenhängen, das du einst getan hast (oder immer noch tust), oder seinen Ursprung in deiner Sicht der Welt und deiner Rolle darin haben.
+
+| Würfel: W6 | Geheimnis                                                                                                                                         |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1          | Ein Teufelchen bietet dir seinen Rat an. Du versuchst die Kreatur zu ignorieren, aber manchmal erweist sich ihr Rat als hilfreich.                |
+| 2          | Du glaubst letztlich, dass die Götter nicht mehr sind als außerordentlich mächtige sterbliche Wesen.                                              |
+| 3          | Du erkennst die Macht der Götter zwar an, aber du bist überzeugt, dass die meisten Ereignisse vom Zufall bestimmt sind.                           |
+| 4          | Obwohl du in der Lage bist, göttliche Magie zu wirken, hast du in deinem Inneren noch nie wirklich die Präsenz einer göttlichen Essenz gespürt.   |
+| 5          | Du wirst von Albträumen geplagt und glaubst, dass sie dir von den Göttern als Strafe für eine dir unbekannte Sünde geschickt wurden.              |
+| 6          | In Zeiten der Verzweiflung hast du das Gefühl, dass du für die Götter nichts als ein Spielzeug bist, und du verübelst ihnen ihr unnahbares Wesen. |
+^secret
+
+> [!note\] Einem Pantheon, einer Philosophie oder einer Macht dienen
+> Der typische Kleriker ist der geweihte Diener einer bestimmten Gottheit und wählt eine Göttliche Domäne, die mit dieser Gottheit in Verbindung steht. Die Magie des Klerikers kommt von der Gottheit selbst oder dem heiligen Reich dieses Gottes, und der Kleriker trägt oft ein heiliges Symbol, das diese göttliche Natur repräsentiert.
 > 
-> | Level | Cantrips Known | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
-> | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-> | 1st | 3 | 2 | ⏤ | ⏤ | ⏤ | ⏤ | ⏤ | ⏤ | ⏤ | ⏤ |
-> | 2nd | 3 | 3 | ⏤ | ⏤ | ⏤ | ⏤ | ⏤ | ⏤ | ⏤ | ⏤ |
-> | 3rd | 3 | 4 | 2 | ⏤ | ⏤ | ⏤ | ⏤ | ⏤ | ⏤ | ⏤ |
-> | 4th | 4 | 4 | 3 | ⏤ | ⏤ | ⏤ | ⏤ | ⏤ | ⏤ | ⏤ |
-> | 5th | 4 | 4 | 3 | 2 | ⏤ | ⏤ | ⏤ | ⏤ | ⏤ | ⏤ |
-> | 6th | 4 | 4 | 3 | 3 | ⏤ | ⏤ | ⏤ | ⏤ | ⏤ | ⏤ |
-> | 7th | 4 | 4 | 3 | 3 | 1 | ⏤ | ⏤ | ⏤ | ⏤ | ⏤ |
-> | 8th | 4 | 4 | 3 | 3 | 2 | ⏤ | ⏤ | ⏤ | ⏤ | ⏤ |
-> | 9th | 4 | 4 | 3 | 3 | 3 | 1 | ⏤ | ⏤ | ⏤ | ⏤ |
-> | 10th | 5 | 4 | 3 | 3 | 3 | 2 | ⏤ | ⏤ | ⏤ | ⏤ |
-> | 11th | 5 | 4 | 3 | 3 | 3 | 2 | 1 | ⏤ | ⏤ | ⏤ |
-> | 12th | 5 | 4 | 3 | 3 | 3 | 2 | 1 | ⏤ | ⏤ | ⏤ |
-> | 13th | 5 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | ⏤ | ⏤ |
-> | 14th | 5 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | ⏤ | ⏤ |
-> | 15th | 5 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | ⏤ |
-> | 16th | 5 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | ⏤ |
-> | 17th | 5 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | 1 |
-> | 18th | 5 | 4 | 3 | 3 | 3 | 3 | 1 | 1 | 1 | 1 |
-> | 19th | 5 | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |
-> | 20th | 5 | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 |
+> Einige Kleriker, besonders auf Welten wie Eberron, dienen einem ganzen Pantheon statt einer einzigen Gottheit. In bestimmten Kampagnen könnte ein Kleriker stattdessen auch einer kosmischen Macht dienen, wie Leben oder Tod, oder etwa einer Philosophie oder einem Konzept, wie Liebe, Frieden oder einer der neun Gesinnungen. Kapitel 1 des Dungeon Master's Guide (Spielleiterhandbuchs) befasst sich im Abschnitt „Götter deiner Welt" näher mit diesen Optionen.
 > 
-> *   1st-9th: Spell slots per level ^class-progression
->     
-
-Hit Points
-----------
-
-*   **Hit Dice**: 1W8 per Cleric level
-    
-*   **Hit Points at First Level:** 8 + CON
-    
-*   **Hit Points at Higher Levels:** add 4 OR 1W8 + CON (minimum of 1)
-    
-
-Starting Cleric
----------------
-
-You are proficient with the following items, in addition to any proficiencies provided by your race or background.
-
-*   **Saving Throws**: Wisdom, Charisma
-    
-*   **Armor**: light, medium, [shields](Dungeons%20&%20Dragons/Wikipedia%20der%20Vergessenen%20Reiche/Kompendium%20der%20Vergessenen%20Reiche/Gegenst%C3%A4nde/shield.md)
-    
-*   **Weapons**: simple
-    
-*   **Tools**: none
-    
-*   **Skills**: Choose 2 from _History_, _Insight_, _Medicine_, _Persuasion_, _Religion_
-    
-
-You begin play with the following equipment, in addition to any equipment provided by your background.
-
-*   (a) a [Streitkolben](../../../Gegenstände/Streitkolben.md) or (b) a [Kriegshammer](../../../Gegenstände/Kriegshammer.md) (if proficient)
-    
-*   (a) [scale mail](../../../Gegenstände/Schuppenpanzer.md), (b) [leather armor](../../../Gegenstände/Lederrüstung.md), or (c) [chain mail](../../../Gegenstände/Kettenpanzer.md) (if proficient)
-    
-*   (a) a [light crossbow](../../../Gegenstände/Armbrust-leicht.md) and [20 bolts](../../../Gegenstände/Armbrustbolzen-20.md) or (b) any simple weapon
-    
-*   (a) a [priest's pack](../../../Gegenstände/priests-pack.md) or (b) an [explorer's pack](../../../Gegenstände/Entdeckerausrüstung.md)
-    
-*   A [shield](Dungeons%20&%20Dragons/Wikipedia%20der%20Vergessenen%20Reiche/Kompendium%20der%20Vergessenen%20Reiche/Gegenst%C3%A4nde/shield.md) and a holy symbol
-    
-
-Alternatively, you may start with 5d4 × 10 gp and choose your own equipment.
-
-Multiclassing Cleric
---------------------
-
-To multiclass as a Cleric, you must meet the following prerequisites:
-
-*   Wisdom 13
-    
-
-You gain the following proficiencies:
-
-*   **Armor**: light, medium, [shields](Dungeons%20&%20Dragons/Wikipedia%20der%20Vergessenen%20Reiche/Kompendium%20der%20Vergessenen%20Reiche/Gegenst%C3%A4nde/shield.md)
-    
-*   **Weapons**: none
-    
-*   **Tools**: none
-    
-
-Cleric
-------
-
-Arms and eyes upraised toward the sun and a prayer on his lips, an elf begins to glow with an inner light that spills out to heal his battle-worn companions.
-
-Chanting a song of glory, a dwarf swings his axe in wide swaths to cut through the ranks of orcs arrayed against him, shouting praise to the gods with every foe's fall.
-
-Calling down a curse upon the forces of undeath, a human lifts her holy symbol as light pours from it to drive back the zombies crowding in on her companions.
-
-Clerics are intermediaries between the mortal world and the distant planes of the gods. As varied as the gods they serve, clerics strive to embody the handiwork of their deities. No ordinary priest, a cleric is imbued with divine magic.
-
-### Healers and Warriors
-
-Divine magic, as the name suggests, is the power of the gods, flowing from them into the world. Clerics are conduits for that power, manifesting it as miraculous effects. The gods don't grant this power to everyone who seeks it, but only to those chosen to fulfill a high calling.
-
-Harnessing divine magic doesn't rely on study or training. A cleric might learn formulaic prayers and ancient rites, but the ability to cast cleric spells relies on devotion and an intuitive sense of a deity's wishes.
-
-Clerics combine the helpful magic of healing and inspiring their allies with spells that harm and hinder foes. They can provoke awe and dread, lay curses of plague or poison, and even call down flames from heaven to consume their enemies. For those evildoers who will benefit most from a mace to the head, clerics depend on their combat training to let them wade into melee with the power of the gods on their side.
-
-### Divine Agents
-
-Not every acolyte or officiant at a temple or shrine is a cleric. Some priests are called to a simple life of temple service, carrying out their gods' will through prayer and sacrifice, not by magic and strength of arms. In some cities, priesthood amounts to a political office, viewed as a stepping stone to higher positions of authority and involving no communion with a god at all. True clerics are rare in most hierarchies.
-
-When a cleric takes up an adventuring life, it is usually because his or her god demands it. Pursuing the goals of the gods often involves braving dangers beyond the walls of civilization, smiting evil or seeking holy relics in ancient tombs. Many clerics are also expected to protect their deities' worshipers, which can mean fighting rampaging orcs, negotiating peace between warring nations, or sealing a portal that would allow a demon prince to enter the world.
-
-Most adventuring clerics maintain some connection to established temples and orders of their faiths. A temple might ask for a cleric's aid, or a high priest might be in a position to demand it.
-
-### Creating a Cleric
-
-As you create a cleric, the most important question to consider is which deity to serve and what principles you want your character to embody. Appendix B includes lists of many of the gods of the multiverse. Check with your DM to learn which deities are in your campaign.
-
-Once you've chosen a deity, consider your cleric's relationship to that god. Did you enter this service willingly? Or did the god choose you, impelling you into service with no regard for your wishes? How do the temple priests of your faith regard you: as a champion or a troublemaker? What are your ultimate goals? Does your deity have a special task in mind for you? Or are you striving to prove yourself worthy of a great quest?
-
-#### Quick Build
-
-You can make a cleric quickly by following these suggestions. First, Wisdom should be your highest ability score, followed by Strength or Constitution. Second, choose the [Tempeldiener](../../Hintergründe/Tempeldiener.md) background.
-
-> \[!quote\]- A quote from Riggby the patriarch
+> Sprich mit deinem SL über die göttlichen Auswahlmöglichkeiten in deiner Kampagne, seien sie Götter, Pantheons, Philosophien oder kosmische Mächte. Welchem Wesen oder welcher Sache sich dein Kleriker letztendlich auch verschreibt, wähle eine Göttliche Domäne, die dazu passt, und wenn kein göttliches Symbol vorhanden ist, erstelle eines in Zusammenarbeit mit deinem Spielleiter.
 > 
-> To become a cleric is to become a messenger of the gods. The power the divine offers is great, but it always comes with tremendous responsibility.
+> Die Klassenmerkmale des Klerikers nehmen oft Bezug auf deine Gottheit. Falls du in die Dienste eines Pantheons, einer kosmischen Macht oder einer Philosophie trittst, funktionieren die Merkmale des Klerikers für dich genau wie beschrieben. Verweise auf einen Gott kannst du einfach durch Verweise auf die göttliche Sache ersetzen, der du dienst und die dir deine Magie verleiht.
+^serving-a-pantheon-philosophy-or-force
 
-Almost all the folk in the world who revere a deity live their lives without ever being directly touched by a divine being. As such, they can never know what it feels like to be a cleric—someone who is not only a devout worshiper, but who has also been invested with a measure of a deity's power.
+## Klassenmerkmale
+### Zauberwirken (Stufe 1)
+Als Kleriker kannst du Zauber wirken, indem du die Macht deiner Gottheit kanalisierst. Für allgemeine Informationen zum Wirken von Zaubern siehe Kapitel 10 „Zauber wirken“ und für die Zauberliste des Klerikers Kapitel 11 „Zauber.
 
-The question has long been debated: Does a mortal become a cleric as a consequence of deep devotion to one's deity, thereby attracting the god's favor? Or is it the deity who sees the potential in a person and calls that individual into service? Ultimately, perhaps, the answer doesn't matter. However clerics come into being, the world needs clerics as much as clerics and deities need each other.
+#### Zaubertricks
+Auf der 1. Stufe sind dir drei Zaubertricks deiner Wahl aus der Zauberliste des Klerikers bekannt. Weitere deiner Wahl lernst du auf höheren Stufen, so wie es in der Spalte für bekannte Zaubertricks in der Aufstiegstabelle des Klerikers angegeben ist.
 
-If you're playing a cleric character, the following sections offer ways to add some detail to that character's history and personality.
+#### Vorbereiten und Wirken von Zaubern
+Du musst Zaubersprüche vorbereiten, um sie wirken zu können. Wähle dazu eine Anzahl von Klerikerzaubern, die deiner Stufe als Kleriker + deinem Weisheitsmodifikator entspricht (mindestens 1), und notiere sie in einer Liste. Du kannst nur Sprüche aussuchen, für deren Grad du auch Zauberplätze besitzt.
 
-Temple
-------
+Bist du zum Beispiel ein Kleriker der 3. Stufe, verfügst du über vier Zauberplätze des 1. Grades und zwei des 2. Grades. Bei einem Weisheitswert von 16 kann deine Liste vorbereiteter Zauber sechs beliebige Sprüche (Stufe 3 + Modifikator 3) des 1. oder 2. Grades umfassen.
 
-_Source: Xanathar's Guide to Everything_
+Die Aufstiegstabelle des Klerikers gibt an, wie viele Zauberplätze pro Grad dir auf jeder Stufe zur Verfügung stehen. Um einen Spruch aus deiner Liste vorbereiteter Zauber zu wirken, musst du einen Zauberplatz des gleichen oder eines höheren Grades verbrauchen. Alle verbrauchten Zauberplätze stehen dir nach einer langen Rast wieder zur Verfügung. Hast du beispielsweise den Zauber Wunden heilen des 1. Grades vorbereitet, kannst du sowohl einen Zauberplatz des 1. Grades als auch einen des 2. Grades verwenden, um [[Wunden heilen]] zu wirken.
 
-Most clerics start their lives of service as priests in an order, then later realize that they have been blessed by their god with the qualities needed to become a cleric. To prepare for this new duty, candidates typically receive instruction from a cleric of a temple or another place of study devoted to their deity.
+Einen Spruch zu wirken, entfernt ihn nicht von deiner Liste der vorbereiteten Zauber. Diese kannst du nach jeder langen Rast ändern. Eine neue Liste vorzubereiten, erfordert mindestens 1 Minute im Gebet oder in Meditation je Zauber grad pro Spruch.
 
-Some temples are cut off from the world so that their occupants can focus on devotions, while other temples open their doors to minister to and heal the masses. What is noteworthy about the temple you studied at?
+#### Attribut zum Zauberwirken
+Das Attribut, mit dem du deine Klerikerzauber wirkst, ist Weisheit, da du deine Magie aus der Hingabe zu deiner Gottheit schöpfst.
 
-**Temple**
+Immer wenn sich ein Zauber auf das zum Zauberwirken nötige Attribut bezieht, verwendest du Weisheit. Wird der Schwierigkeitsgrad für einen Rettungswurf gegen deine Klerikerzauber bestimmt, ziehst du deinen Weisheitsmodifikator hinzu. Bei Angriffen mit deinen Klerikerzaubern findet ebenfalls der Weisheitsmodifikator Anwendung.
 
-| dice: W6 | Temple |
-| --- | --- |
-| 1 | Your temple is said to be the oldest surviving structure built to honor your god. |
-| 2 | Acolytes of several like-minded deities all received instruction together in your temple. |
-| 3 | You come from a temple famed for the brewery it operates. Some say you smell like one of its ales. |
-| 4 | Your temple is a fortress and a proving ground that trains warrior-priests. |
-| 5 | Your temple is a peaceful, humble place, filled with vegetable gardens and simple priests. |
-| 6 | You served in a temple in the Outer Planes. |
-| ^temple |  |
+**SG für Rettungswürfe:** 8 + dein Übungsbonus + dein Weisheitsmodifikator
 
-### Keepsake
+**Modifikator für Zauberangriffe:** dein Übungsbonus + dein Weisheitsmodiflkator
 
-_Source: Xanathar's Guide to Everything_
+#### Rituale wirken
+Du kannst einen Klerikerzauber als Ritual wirken, falls der Spruch als solches gekennzeichnet ist und du ihn vorbereitet hast.
 
-Many clerics have items among their personal gear that symbolize their faith, remind them of their vows, or otherwise help to keep them on their chosen paths. Even though such an item is not imbued with divine power, it is vitally important to its owner because of what it represents.
+#### Zauberfokus
+Du kannst ein heiliges Symbol (siehe Kapitel 5 „Ausrüstung“) als Zauberfokus für deine Klerikerzauber verwenden.
 
-**Keepsake**
-
-| dice: W6 | Keepsake |
-| --- | --- |
-| 1 | The finger bone of a saint |
-| 2 | A metal-bound book that tells how to hunt and destroy infernal creatures |
-| 3 | A pig's whistle that reminds you of your humble and beloved mentor |
-| 4 | A braid of hair woven from the tail of a unicorn |
-| 5 | A scroll that describes how best to rid the world of necromancers |
-| 6 | A runestone said to be blessed by your god |
-| ^keepsake |  |
-
-### Secret
-
-_Source: Xanathar's Guide to Everything_
-
-No mortal soul is entirely free of second thoughts or doubt. Even a cleric must grapple with dark desires or the forbidden attraction of turning against the teachings of one's deity.
-
-If you haven't considered this aspect of your character yet, see the table entries for some possibilities, or use them for inspiration. Your deep, dark secret might involve something you did (or are doing), or it could be rooted in the way you feel about the world and your role in it.
-
-**Secret**
-
-| dice: W6 | Secret |
-| --- | --- |
-| 1 | An imp offers you counsel. You try to ignore the creature, but sometimes its advice is helpful. |
-| 2 | You believe that, in the final analysis, the gods are nothing more than ultrapowerful mortal creatures. |
-| 3 | You acknowledge the power of the gods, but you think that most events are dictated by pure chance. |
-| 4 | Even though you can work divine magic, you have never truly felt the presence of a divine essence within yourself. |
-| 5 | You are plagued by nightmares that you believe are sent by your god as punishment for some unknown transgression. |
-| 6 | In times of despair, you feel that you are but a plaything of the gods, and you resent their remoteness. |
-| ^secret |  |
-
-> \[!note\] Serving a Pantheon, Philosophy, or Force
-> 
-> The typical cleric is an ordained servant of a particular god and chooses a Divine Domain associated with that deity. The cleric's magic flows from the god or the god's sacred realm, and often the cleric bears a holy symbol that represents that divinity.
-> 
-> Some clerics, especially in a world like Eberron, serve a whole pantheon, rather than a single deity. In certain campaigns, a cleric might instead serve a cosmic force, such as life or death, or a philosophy or concept, such as love, peace, or one of the nine alignments. Chapter 1 of the Dungeon Master's Guide explores options like these, in the section "Gods of Your World."
-> 
-> Talk with your DM about the divine options available in your campaign, whether they're gods, pantheons, philosophies, or cosmic forces. Whatever being or thing your cleric ends up serving, choose a Divine Domain that is appropriate for it, and if it doesn't have a holy symbol, work with your DM to design one.
-> 
-> The cleric's class features often refer to your deity. If you are devoted to a pantheon, cosmic force, or philosophy, your cleric features still work for you as written. Think of the references to a god as references to the divine thing you serve that gives you your magic. ^serving-a-pantheon-philosophy-or-force
-
-Class Features
---------------
-
-### Spellcasting (Level 1)
-
-As a conduit for divine power, you can cast cleric spells. See "chapter 10" for the general rules of spellcasting and "chapter 11" for a selection of cleric spells.
-
-#### Cantrips
-
-At 1st level, you know three cantrips of your choice from the cleric spell list. You learn additional cleric cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Cleric table.
-
-#### Preparing and Casting Spells
-
-The Cleric table shows how many spell slots you have to cast your cleric spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
-
-You prepare the list of cleric spells that are available for you to cast, choosing from the cleric spell list. When you do so, choose a number of cleric spells equal to your Wisdom modifier + your cleric level (minimum of one spell). The spells must be of a level for which you have spell slots.
-
-For example, if you are a 3rd-level cleric, you have four 1st-level and two 2nd-level spell slots. With a Wisdom of 16, your list of prepared spells can include six spells of 1st or 2nd level, in any combination. If you prepare the 1st-level spell [cure wounds](../../../Zauber/Wunden%20heilen.md), you can cast it using a 1st-level or 2nd-level slot. Casting the spell doesn't remove it from your list of prepared spells.
-
-You can change your list of prepared spells when you finish a long rest. Preparing a new list of cleric spells requires time spent in prayer and meditation: at least 1 minute per spell level for each spell on your list.
-
-#### Spellcasting Ability
-
-Wisdom is your spellcasting ability for your cleric spells. The power of your spells comes from your devotion to your deity. You use your Wisdom whenever a cleric spell refers to your spellcasting ability. In addition, you use your Wisdom modifier when setting the saving throw DC for a cleric spell you cast and when making an attack roll with one.
-
-**Spell save DC**: 8 + your proficiency bonus + your Wisdom modifier
-
-**Spell attack modifier**: your proficiency bonus + your Wisdom modifier
-
-#### Ritual Casting
-
-You can cast a cleric spell as a ritual if that spell has the ritual tag and you have the spell prepared.
-
-#### Spellcasting Focus
-
-You can use a holy symbol as a spellcasting focus for your cleric spells.
-
-### Divine Domain (Level 1)
+### Göttliche Domänen (Stufe 1)
 
 Choose one domain related to your deity from the list of available domains. Each domain is detailed in their own feature, and each one provides examples of gods associated with it. Your choice grants you domain spells and other features when you choose it at 1st level. It also grants you additional ways to use Channel Divinity when you gain that feature at 2nd level, and additional benefits at 6th, 8th, and 17th levels.
 
-#### Domain Spells
+#### Domänenzauber
+Zu jeder Domäne gehört eine Liste von Domänenzaubern, die du auf bestimmten Klerikerstufen erhältst. Domänenzauber gelten immer als vorbereitet und zählen nicht in Bezug auf die maximale Anzahl deiner vorbereiteten Zauber. Falls du einen Domänenzauber lernst, der nicht in der Zauberliste für Kleriker aufgeführt ist, gilt er für dich trotzdem als Klerikerzauber.
 
-Each domain has a list of spells—its domain spells—that you gain at the cleric levels noted in the domain description. Once you gain a domain spell, you always have it prepared, and it doesn't count against the number of spells you can prepare each day.
+### Göttliche Macht fokussieren (Stufe 2)
+Auf der 2. Stufe erhältst du die Fähigkeit, direkt durch deine Gottheit göttliche Macht zu fokussieren, um magische Effekte hervorzurufen. Du beginnst mit zwei solchen Effekten: Untote vertreiben und einem Effekt, der durch deine Domäne festgelegt wird. Manche Domänen verleihen dir weitere Effekte im Laufe deiner Klerikerkarriere.
 
-If you have a domain spell that doesn't appear on the cleric spell list, the spell is nonetheless a cleric spell for you.
+Wenn du Göttliche Macht fokussierst, kannst du dir aussuchen, welchen der Effekte dies hervorrufen soll. Bevor du erneut Göttliche Macht fokussieren kannst, musst du eine kurze oder lange Rast einlegen. Manche Effekte dieses Merkmals erfordern, dass dein Ziel einen Rettungswurf ablegt. In diesem Fall ist der SG des Rettungswurfs der gleiche, als wenn das Ziel einem deiner Klerikerzauber zu widerstehen versucht. Ab der 6. Stufe kannst du zweimal (statt nur einmal) Göttliche Macht fokussieren, bevor du eine Rast benötigst, ab der 18. Stufe so gar dreimal. Nach einer kurzen oder langen Rast stehen dir alle verbrauchten Anwendungen wieder zur Verfügung.
 
-### Channel Divinity (Level 2)
+#### Göttliche Macht fokussieren: Untote vertreiben (Stufe 2)
+Als Aktion zeigst du dein heiliges Symbol und sprichst ein Gebet. Jeder Untote im Umkreis von 9 m, der dich sehen oder hören kann, muss einen Weisheitsrettungswurf ausführen. Falls dieser misslingt, gilt die Kreatur für 1 Minute oder bis sie Schaden erleidet als vertrieben. Eine vertriebene Kreatur muss ihren Zug dafür aufwenden, sich so weit wie möglich von dir wegzubewegen, und darf dir nicht absichtlich näher kommen als 9 m. Außerdem kann die Kreatur keine Reaktionen nutzen. Als Aktion kann sie nur spurten oder sich aus einem Effekt befreien, der sie an der Bewegung hindert. Sollte es keinen Ort geben, zu dem sie gelangen kann, darf die Kreatur die Ausweichaktion nutzen.
 
-At 2nd level, you gain the ability to channel divine energy directly from your deity, using that energy to fuel magical effects. You start with two such effects: Turn Undead and an effect determined by your domain. Some domains grant you additional effects as you advance in levels, as noted in the domain description.
+### Merkmal: Göttliche Domäne (Stufe 2)
+Auf der 2. Stufe erhältst du eine Eigenschaft, die dir deine Göttliche Domäne verleiht.
 
-When you use your Channel Divinity, you choose which effect to create. You must then finish a short or long rest to use your Channel Divinity again.
+### [[Attributswerterhöhung]] (Stufe 4)
+Beim Erreichen der 4. Stufe und dann wieder auf der 8., 12., 16. und 19. Stufe kannst du einen Attributswert deiner Wahl um 2 Punkte erhöhen. Du kannst stattdessen auch zwei Attributswerte um jeweils 1 Punkt erhöhen. Kein Attribut darf auf diese Weise über einen Wert von 20 steigen.
 
-Some Channel Divinity effects require saving throws. When you use such an effect from this class, the DC equals your cleric spell save DC.
+Wenn dein SL die Verwendung von Talenten erlaubt, kannst du stattdessen ein Talent nehmen.
 
-Beginning at 6th level, you can use your Channel Divinity twice between rests, and beginning at 18th level, you can use it three times between rests. When you finish a short or long rest, you regain your expended uses.
+### Untote zerstören (HG 1/2) (Stufe 5)
+Mit Erreichen der 5. Stufe verbessert sich dein Merkmal Göttliche Macht fokussieren: Untote vertreiben. Misslingt einem Untoten von nun an der entsprechende Rettungswurf, wird er sofort zerstört, falls sein Herausforderungsgrad (HG) gleich oder niedriger als HG 1/2 ist.
 
-### Channel Divinity: Turn Undead (Level 2)
+### Göttliche Macht fokussieren (Stufe 6)
+Ab der 6. Stufe kannst du zweimal (statt nur einmal) Göttliche Macht fokussieren, bevor du eine Rast benötigst.
 
-As an action, you present your holy symbol and speak a prayer censuring the undead. Each undead that can see or hear you within 30 feet of you must make a Wisdom saving throw. If the creature fails its saving throw, it is turned for 1 minute or until it takes any damage.
+### Merkmal: Göttliche Domäne (Stufe 6)
+Auf der 6. Stufe erhältst du eine Eigenschaft, die dir deine Göttliche Domäne verleiht.
 
-A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 30 feet of you. It also can't take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the Dodge action.
+### [[Attributswerterhöhung]] (Stufe 8)
+Beim Erreichen der 8. Stufe kannst du einen Attributswert deiner Wahl um 2 Punkte erhöhen. Du kannst stattdessen auch zwei Attributswerte um jeweils 1 Punkt erhöhen. Kein Attribut darf auf diese Weise über einen Wert von 20 steigen.
 
-### Divine Domain feature (Level 2)
+Wenn dein SL die Verwendung von Talenten erlaubt, kannst du stattdessen ein Talent nehmen.
 
-At 2nd level, you gain a feature from your Divine Domain.
+### Untote zerstören (HG 1) (Stufe 8)
+Mit Erreichen der 5. Stufe verbessert sich dein Merkmal Göttliche Macht fokussieren: Untote vertreiben. Misslingt einem Untoten von nun an der entsprechende Rettungswurf, wird er sofort zerstört, falls sein Herausforderungsgrad (HG) gleich oder niedriger als HG 1 ist.
 
-### Ability Score Improvement (Level 4)
+### Merkmal: Göttliche Domäne (Stufe 8)
+Auf der 8. Stufe erhältst du eine Eigenschaft, die dir deine Göttliche Domäne verleiht.
 
-When you reach 4th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+### Göttliche Intervention (Stufe 10)
+Ab der 10. Stufe kannst du deine Gottheit in großer Not bitten, dir beizustehen und in die Welt der Sterblichen einzugreifen. Verwende deine Aktion dafür, deine Gottheit um Hilfe anzuflehen. Beschreibe anschließend die Unterstützung, um die du ersuchst, und würfle mit einem W100. Ist das Ergebnis gleich oder niedriger deiner Klerikerstufe, greift deine Gottheit ein. Der SL wählt die Art der Intervention, etwa wäre der Effekt eines beliebigen Klerikeroder Domänenzaubers angemessen.
 
-If your DM allows the use of feats, you may instead take a feat.
+Falls deine Gottheit interveniert, kannst du dieses Merkmal für die nächsten 7 Tage nicht verwenden. Andernfalls darfst du es nach Abschluss einer langen Rast erneut einsetzen.
 
-### Destroy Undead (CR 1/2) (Level 5)
+Auf der 20. Stufe gelingen deine Bitten um Intervention automatisch und es wird kein Wurf mehr benötigt.
 
-Starting at 5th level, when an undead of CR 1/2 or lower fails its saving throw against your Turn Undead feature, the creature is instantly destroyed.
+### Untote zerstören (HG 2) (Stufe 11)
+Mit Erreichen der 5. Stufe verbessert sich dein Merkmal Göttliche Macht fokussieren: Untote vertreiben. Misslingt einem Untoten von nun an der entsprechende Rettungswurf, wird er sofort zerstört, falls sein Herausforderungsgrad (HG) gleich oder niedriger als HG 2 ist.
 
-### Channel Divinity (Level 6)
+### [[Attributswerterhöhung]] (Stufe 12)
+Beim Erreichen der 12. Stufe kannst du einen Attributswert deiner Wahl um 2 Punkte erhöhen. Du kannst stattdessen auch zwei Attributswerte um jeweils 1 Punkt erhöhen. Kein Attribut darf auf diese Weise über einen Wert von 20 steigen.
 
-Beginning at 6th level, you can use your Channel Divinity twice between rests.
+Wenn dein SL die Verwendung von Talenten erlaubt, kannst du stattdessen ein Talent nehmen.
 
-### Divine Domain feature (Level 6)
+### Untote zerstören (HG 3) (Stufe 14)
+Mit Erreichen der 5. Stufe verbessert sich dein Merkmal Göttliche Macht fokussieren: Untote vertreiben. Misslingt einem Untoten von nun an der entsprechende Rettungswurf, wird er sofort zerstört, falls sein Herausforderungsgrad (HG) gleich oder niedriger als HG 3 ist.
 
-At 6th level, you gain a feature from your Divine Domain.
+### [[Attributswerterhöhung]] (Stufe 16)
+Beim Erreichen der 16. Stufe kannst du einen Attributswert deiner Wahl um 2 Punkte erhöhen. Du kannst stattdessen auch zwei Attributswerte um jeweils 1 Punkt erhöhen. Kein Attribut darf auf diese Weise über einen Wert von 20 steigen.
 
-### Ability Score Improvement (Level 8)
+Wenn dein SL die Verwendung von Talenten erlaubt, kannst du stattdessen ein Talent nehmen.
 
-When you reach 8th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+### Untote zerstören (HG 4) (Stufe 17)
+Mit Erreichen der 5. Stufe verbessert sich dein Merkmal Göttliche Macht fokussieren: Untote vertreiben. Misslingt einem Untoten von nun an der entsprechende Rettungswurf, wird er sofort zerstört, falls sein Herausforderungsgrad (HG) gleich oder niedriger als HG 4 ist.
 
-If your DM allows the use of feats, you may instead take a feat.
+### Merkmal: Göttliche Domäne (Stufe 17)
+Auf der 17. Stufe erhältst du eine Eigenschaft, die dir deine Göttliche Domäne verleiht.
 
-### Destroy Undead (CR 1) (Level 8)
+### Göttliche Macht fokussieren (Stufe 18)
+Ab der 18. Stufe kannst du dreimal (statt nur zweimal) Göttliche Macht fokussieren, bevor du eine Rast benötigst
 
-Starting at 8th level, when an undead of CR 1 or lower fails its saving throw against your Turn Undead feature, the creature is instantly destroyed.
+### [[Attributswerterhöhung]] (Stufe 19)
+Beim Erreichen der 19. Stufe kannst du einen Attributswert deiner Wahl um 2 Punkte erhöhen. Du kannst stattdessen auch zwei Attributswerte um jeweils 1 Punkt erhöhen. Kein Attribut darf auf diese Weise über einen Wert von 20 steigen.
 
-### Divine Domain feature (Level 8)
+Wenn dein SL die Verwendung von Talenten erlaubt, kannst du stattdessen ein Talent nehmen.
 
-At 8th level, you gain a feature from your Divine Domain.
-
-### Divine Intervention (Level 10)
-
-Beginning at 10th level, you can call on your deity to intervene on your behalf when your need is great.
-
-Imploring your deity's aid requires you to use your action. Describe the assistance you seek, and roll percentile dice. If you roll a number equal to or lower than your cleric level, your deity intervenes. The DM chooses the nature of the intervention; the effect of any cleric spell or cleric domain spell would be appropriate. If your deity intervenes, you can't use this feature again for 7 days. Otherwise, you can use it again after you finish a long rest.
-
-At 20th level, your call for intervention succeeds automatically, no roll required.
-
-### Destroy Undead (CR 2) (Level 11)
-
-Starting at 11th level, when an undead of CR 2 or lower fails its saving throw against your Turn Undead feature, the creature is instantly destroyed.
-
-### Ability Score Improvement (Level 12)
-
-When you reach 12th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
-
-If your DM allows the use of feats, you may instead take a feat.
-
-### Destroy Undead (CR 3) (Level 14)
-
-Starting at 14th level, when an undead of CR 3 or lower fails its saving throw against your Turn Undead feature, the creature is instantly destroyed.
-
-### Ability Score Improvement (Level 16)
-
-When you reach 16th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
-
-If your DM allows the use of feats, you may instead take a feat.
-
-### Destroy Undead (CR 4) (Level 17)
-
-Starting at 17th level, when an undead of CR 4 or lower fails its saving throw against your Turn Undead feature, the creature is instantly destroyed.
-
-### Divine Domain feature (Level 17)
-
-At 17th level, you gain a feature from your Divine Domain.
-
-### Channel Divinity (Level 18)
-
-Beginning at 18th level, you can use your Channel Divinity three times between rests.
-
-### Ability Score Improvement (Level 19)
-
-When you reach 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
-
-If your DM allows the use of feats, you may instead take a feat.
-
-### Divine Intervention Improvement (Level 20)
-
-At 20th level, your call for intervention succeeds automatically, no roll required.
+### Verbesserte Göttliche Intervention (Stufe 20)
+Auf der 20. Stufe gelingen deine Bitten um Intervention automatisch und es wird kein Wurf mehr benötigt.

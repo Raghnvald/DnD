@@ -1,11 +1,11 @@
 ---
 tags:
-- Quelle/5e/EEPC 
+- Quelle/5e/Elemental_Evils_Player_Companion 
 - Klasse/Druide
 - Klasse/Magier
 - Klasse/Zauberer
-- Zauber/Zaubergrad/2
-- Zauber/Zauberschule/Beschwörung
+- Zauber/Grad/2
+- Zauber/Schule/Beschwörung
 aliases: 
 - Dust Devil
 ---

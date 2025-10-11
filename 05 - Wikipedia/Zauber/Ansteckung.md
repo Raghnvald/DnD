@@ -13,7 +13,7 @@ Zeitaufwand: 1 Aktion
 Reichweite: Berührung
 Komponenten: V, G
 Wirkungsdauer: 7 Tage
-Angriff: n/a
+Angriff: Nah
 Schaden: n/a
 ---
 # Ansteckung
@@ -24,43 +24,33 @@ _Unterklassen:_  n/a
 
 _Quellen:_ Spielerhandbuch
 
-- **Zeitaufwand:** `1 Aktion`
-- **Reichweite:** `Berührung`
-- **Komponenten:** `V, G`
-- **Wirkungsdauer:** `7 Tage`
-- **Angriff / Rettung:** `n/a`
-- **Schaden / Effekt:**  `n/a`
+- **Zeitaufwand:** 1 Aktion
+- **Reichweite:** Berührung
+- **Komponenten:** V, G
+- **Wirkungsdauer:** 7 Tage
+- **Angriff / Rettung:** Nahkampf
+- **Schaden / Effekt:**  n/a
 
-Your touch inflicts disease. Make a melee spell attack against a creature within your reach. On a hit, the target is [poisoned](rules/conditions.md#poisoned).
+Deine Berührung löst Krankheiten aus. Führe einen Nahkampf-Zauberangriff gegen eine Kreatur innerhalb deiner Reichweite aus. Bei einem Treffer wird das Ziel vergiftet, wähle aus den unten beschriebenen Effekten.
 
-At the end of each of the [poisoned](rules/conditions.md#poisoned) target's turns, the target must make a Constitution saving throw. If the target succeeds on three of these saves, it is no longer [poisoned](rules/conditions.md#poisoned), and the spell ends. If the target fails three of these saves, the target is no longer [poisoned](rules/conditions.md#poisoned), but choose one of the diseases below. The target is subjected to the chosen disease for the spell's duration.
+Am Ende eines jeden seiner Züge muss das Ziel einen `Konstitutions-Rettungswurf` ablegen. Gelingen drei dieser Rettungswürfe, ist das Ziel nicht länger vergiftet und der Zauber endet. Misslingen drei Würfe, ist das Ziel nicht länger vergiftet, du kannst aber eine der unten beschriebenen Krankheiten wählen. Diese Krankheit gilt bis zum Ende der Zauberwirkung.
 
-Since this spell induces a natural disease in its target, any effect that removes a disease or otherwise ameliorates a disease's effects apply to it.
+Das dieser Zauber das Ziel mit einer natürlichen Krankheit ansteckt, sind alle Effekte wirksam, die Krankheiten heilen oder anderweitig lindern.
 
-## Blinding Sickness
+## Blendendes Siechtum
+Schmerzen erfassen den Verstand der Kreatur und ihre Augen werden milchig weiß. Sie ist im Nachteil bei Weisheitswürfen sowie Weisheitsrettungswürfen und gilt als blind.
 
-Pain grips the creature's mind, and its eyes turn milky white. The creature has disadvantage on Wisdom checks and Wisdom saving throws and is [blinded](rules/conditions.md#blinded).
+## Fleischfaule
+Das Fleisch der Kreatur verfault. Sie ist im Nachteil bei Charismawürfen und erhält eine Anfälligkeit gegen über jeglichem Schaden.
 
-## Filth Fever
+## Gedankenfeuer
+Der Verstand der Kreatur wird vom Fieber verwirrt. Sie ist im Nachteil bei Intelligenzwürfen und Intelligenzrettungswürfen. Außerdem verhält sich die Kreatur im Kampf, als würde sie unter den Auswirkungen des Zaubers Verwirrung leiden.
 
-A raging fever sweeps through the creature's body. The creature has disadvantage on Strength checks, Strength saving throws, and attack rolls that use Strength.
+## Krämpfe
+Die Kreatur wird von Zitterkrämpfen erfasst. Sie ist im Nachteil bei Geschicklichkeitswürfen, Geschicklichkeitsrettungswürfen und Angriffswürfen, die Geschicklichkeit verwenden.
 
-## Flesh Rot
+## Schleimiges Verderben
+Die Kreatur beginnt heftig zu bluten. Sie ist im Nachteil bei Konstitutionswürfen und Konstitutionsrettungswürfen. Außerdem ist die Kreatur, immer wenn sie Schaden erleidet, bis zum Ende ihres nächsten Zuges betäubt.
 
-The creature's flesh decays. The creature has disadvantage on Charisma checks and vulnerability to all damage.
-
-## Mindfire
-
-The creature's mind becomes feverish. The creature has disadvantage on Intelligence checks and Intelligence saving throws, and the creature behaves as if under the effects of the [Verwirrung](Verwirrung.md) spell during combat.
-
-## Seizure
-
-The creature is overcome with shaking. The creature has disadvantage on Dexterity checks, Dexterity saving throws, and attack rolls that use Dexterity.
-
-## Slimy Doom
-
-The creature begins to bleed uncontrollably. The creature has disadvantage on Constitution checks and Constitution saving throws. In addition, whenever the creature takes damage, it is [stunned](rules/conditions.md#stunned) until the end of its next turn.
-
-## Summary
-
-**Classes**: [Cleric](../Klassen/Kleriker.md), [Druid](Dungeons%20&%20Dragons/Wikipedia%20der%20Vergessenen%20Reiche/Kompendium%20der%20Vergessenen%20Reiche/Klassen/druid.md)
+## Schmutzfieber
+Ein rasendes Fieber schwächt den Körper der Kreatur. Sie ist im Nachteil bei Stärkewürfen, Stärkerettungswürfen und Angriffswürfen, die Stärke verwenden.
