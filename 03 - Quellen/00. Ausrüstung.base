@@ -1,9 +1,11 @@
 properties:
   file.basename:
     displayName: Name
+  file.name:
+    displayName: Name
 views:
   - type: table
-    name: Table
+    name: Ausrüstung
     filters:
       and:
         - file.tags.contains("Gegenstand/Ausrüstung")
@@ -25,3 +27,7 @@ views:
     columnSize:
       note.Bezeichnung: 177
       note.Typ: 170
+      note.Kst.: 72
+    markers: bullet
+    nestedProperties: false
+    imageFit: contain

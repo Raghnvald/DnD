@@ -1,3 +1,6 @@
+properties:
+  file.name:
+    displayName: Name
 views:
   - type: table
     name: Rüstungen
@@ -17,6 +20,7 @@ views:
       - STR
       - Heiml.
       - Gew.
+    sort: []
     columnSize:
       note.Kst.: 88
       note.RK: 150

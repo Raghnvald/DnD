@@ -1,6 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-item
+Bezeichnung: truth-serum
+Typ: Gift
+Eigenschaften: Gift
+Kst.: 150 GM
+Gew.: n/v
 tags:
 - Quelle/5e/Dungeon_Masters_Guide
 - Gegenstand/Ausrüstung/Gift

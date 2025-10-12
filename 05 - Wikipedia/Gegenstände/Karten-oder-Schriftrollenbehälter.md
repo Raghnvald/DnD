@@ -1,19 +1,26 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-item
+Bezeichnung: Karten- oder Schriftrollenbehälter
+Typ: Behälter
+Eigenschaften: n/v
+Gew.: 0,5 kg
+Kst.: 1 GM
 tags:
 - Quelle/5e/Players_Handbook
 - Gegenstand/Ausrüstung
-aliases: ["Map or Scroll Case"]
+- Gegenstand/Seltenheit/gewöhnlich
+aliases:
+- Map or Scroll Case
 ---
 # Karten- oder Schriftrollenbehälter
-![](../../99%20-%20Setup/Files/Bildersammlung/Symbolik/Gegenstände.webp#token)
 *Abenteuerausrüstung, gewöhnlich*
+<img src="Symbolik/Gegenstände.webp" align="right" width="150">
 
-- **Kosten**: 1 Goldmünze
+_Klassen:_ n/v 
+_Unterklassen:_  n/v
+
+_Quellen:_ Spielerhandbuch
+
 - **Gewicht**: 0,5 kg.
+- **Kosten**: 1 Goldmünzen
 
-In diesen zylindrischen Lederbehälter passen bis zu zehn zusammengerollte [Blätter Papier](Papier-ein-Blatt.md)  oder fünf zusammengerollte 
-[Pergamentblätter](Pergament-ein-Blatt.md)
-
-*Quelle: SRD / Grundregelwerk*
+In diesen zylindrischen Lederbehälter passen bis zu zehn zusammengerollte [Blätter Papier](Papier-ein-Blatt.md)  oder fünf zusammengerollte [Pergamentblätter](Pergament-ein-Blatt.md)

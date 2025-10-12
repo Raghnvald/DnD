@@ -1,4 +1,11 @@
 ---
+Bezeichnung: Donnerschlag
+Zeitaufwand: 1 Minute
+Reichweite: Berührung
+Komponenten: G
+Wirkungsdauer: Unmittelbar
+Angriff: KON
+Schaden: 1d6 Schall
 tags: 
 - Quelle/5e/Xanathars_Guide_to_Everything
 - Klasse/Barde
@@ -12,13 +19,6 @@ tags:
 - Zauber/Schule/Hervorrufung
 aliases: 
 - thunderclap
-Bezeichnung: Donnerschlag
-Zeitaufwand: 1 Minute
-Reichweite: Berührung
-Komponenten: G
-Wirkungsdauer: Unmittelbar
-Angriff: KON
-Schaden: 1d6 Schall
 ---
 # Donnerschlag
 _Zaubertrick der Hervorrufung_

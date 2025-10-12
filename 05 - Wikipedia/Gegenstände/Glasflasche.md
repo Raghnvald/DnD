@@ -1,9 +1,9 @@
 ---
-Bezeichnung: Armbrustbolzenbehälter
+Bezeichnung: Glasflasche
 Typ: Behälter
 Eigenschaften: n/v
-Gew.: 0,5 kg
-Kst.: 1 GM
+Gew.: 1,0 kg
+Kst.: 2 GM
 tags:
 - Quelle/5e/Players_Handbook
 - Gegenstand/Ausrüstung
@@ -11,7 +11,7 @@ tags:
 aliases:
 - Crossbow Bolt Case
 ---
-# Armbrustbolzenbehälter
+# Glasflasche
 *Abenteuerausrüstung, gewöhnlich*
 <img src="Symbolik/Gegenstände.webp" align="right" width="150">
 
@@ -20,7 +20,7 @@ _Unterklassen:_  n/v
 
 _Quellen:_ Spielerhandbuch
 
-- **Gewicht**: 0,5 kg.
-- **Kosten**: 1 Goldmünzen
+- **Gewicht**: 1,0 kg.
+- **Kosten**: 2 Goldmünzen
 
-In diese hölzerne Kassette passen bis zu 20 [[Armbrustbolzen]].
+Eine Flasche fasst 0,75 Liter Flüssigkeit.

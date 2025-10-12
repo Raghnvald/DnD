@@ -1,4 +1,11 @@
 ---
+Bezeichnung: Blitzköder
+Zeitaufwand: 1 Aktion
+Reichweite: 4,5 m
+Komponenten: V
+Wirkungsdauer: Sofort
+Angriff: STR
+Schaden: 1d8 Blitz
 tags: 
 - Quelle/5e/Sword_Coast_Adventurers_Guide
 - Klasse/Hexenmeister
@@ -9,13 +16,6 @@ tags:
 - Zauber/Schule/Hervorrufung
 aliases: 
 - Lightning Lure
-Bezeichnung: Blitzköder
-Zeitaufwand: 1 Aktion
-Reichweite: 4,5 m
-Komponenten: V
-Wirkungsdauer: Sofort
-Angriff: Stärke
-Schaden: 1d8 Blitz
 ---
 # Blitzköder
 _Zaubertrick der Hervorrufung_

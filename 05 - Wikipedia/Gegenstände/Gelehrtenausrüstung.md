@@ -1,19 +1,30 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-item
+Bezeichnung: Gelehrtenausrüstung
+Typ: Ausrüstungspaket
+Eigenschaften: n/v
+Kst.: 40 GM
+Gew.: 5,0 kg
 tags:
 - Quelle/5e/Players_Handbook
 - Gegenstand/Ausrüstung
-aliases: ["Scholar's Pack"]
+- Gegenstand/Seltenheit/gewöhnlich
+aliases:
+- Scholar's Pack
 ---
 # Gelehrtenausrüstung
 *Abenteuerausrüstung, gewöhnlich*  
 <img src="Symbolik/Gegenstände.webp" align="right" width="150">
 
-- **Kosten**: 40 Goldmünzen
-- **Gewicht**: 5,0 kg
+_Klassen:_ n/v 
+_Unterklassen:_  n/v
 
-Enthält:
+_Quellen:_ Spielerhandbuch
+
+- **Eigenschaften**: n/v
+- **Gewicht**: 5,0 kg
+- **Kosten**: 40 Goldmünzen
+
+Beinhaltet:
 
 - ein [Rucksack](Rucksack.md)  
 - ein [Buch](Buch.md) of lore  
@@ -22,5 +33,3 @@ Enthält:
 - 10 [sheets of parchment](Pergament-ein-Blatt.md)  
 - a little bag of sand  
 - a small knife.  
-
-*Source: SRD / Basic Rules*

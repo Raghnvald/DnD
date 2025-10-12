@@ -1,19 +1,30 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-item
+Bezeichnung: Entdeckerausrüstung
+Typ: Ausrüstungspaket
+Eigenschaften: n/v
+Kst.: 10 GM
+Gew.: 29,5 kg
 tags:
 - Quelle/5e/Players_Handbook
 - Gegenstand/Ausrüstung
-aliases: ["Explorer's Pack"]
+- Gegenstand/Seltenheit/gewöhnlich
+aliases:
+- Explorer's Pack
 ---
 # Entdeckerausrüstung
-*Adventuring Gear*  
+*gewöhnliche Abenteuerausrüstung*  
 <img src="Symbolik/Gegenstände.webp" align="right" width="150">
 
-- **Cost**: 10 Goldmünzen
-- **Weight**: 29,5 kg.
+_Klassen:_ n/v 
+_Unterklassen:_  n/v
 
-Includes:
+_Quellen:_ Spielerhandbuch
+
+- **Eigenschaften**: n/v
+- **Gewicht**: 29,5 kg.
+- **Kosten**: 10 Goldmünzen
+
+Beinhaltet:
 
 - a [Rucksack](Rucksack.md)  
 - a [Schlafsack](Schlafsack.md)  
@@ -22,6 +33,4 @@ Includes:
 - 10 [torches](Fackel.md)  
 - 10 days of [rations](Tagesration.md)  
 - a [Wasserschlauch](Wasserschlauch.md)  
-- [50 feet of hempen rope](hempen-rope-50-feet.md)  
-
-*Source: SRD / Basic Rules*
+- [50 feet of hempen rope](hempen-rope-50-feet.md) 

@@ -1,19 +1,30 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-item
+Bezeichnung: Gewölbeforscherausrüstung
+Typ: Ausrüstungspaket
+Eigenschaften: n/v
+Kst.: 12 GM
+Gew.: 30,0 kg
 tags:
 - Quelle/5e/Players_Handbook
 - Gegenstand/Ausrüstung
-aliases: ["Dungeoneer's Pack"]
+- Gegenstand/Seltenheit/gewöhnlich
+aliases:
+- Dungeoneer's Pack
 ---
 # Gewölbeforscherausrüstung
+*gewöhnliche Abenteuerausrüstung*  
 <img src="Symbolik/Gegenstände.webp" align="right" width="150">
-*Abenteuerausrüstung, gewöhnlich*  
 
-- **Kosten**: 12 Goldmünzen
+_Klassen:_ n/v 
+_Unterklassen:_  n/v
+
+_Quellen:_ Spielerhandbuch
+
+- **Eigenschaften**: n/v
 - **Gewicht**: 30,0 kg.
+- **Kosten**: 12 Goldmünzen
 
-Enthält:
+Beinhaltet:
 
 - ein [Rucksack](Rucksack.md)  
 - eine [Brechstange](Brechstange.md)  

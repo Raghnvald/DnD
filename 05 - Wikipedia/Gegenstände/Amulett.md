@@ -1,19 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-item
+Bezeichnung: Amulett
+Typ: Heiliges Symbol
+Eigenschaften: n/v
+Kst.: 5 GM
+Gew.: 0,5 kg
 tags:
 - Quelle/5e/Players_Handbook
+- Gegenstand/Ausrüstung
 - Gegenstand/Zauberfokus
 - Gegenstand/Seltenheit/gewöhnlich
 - Klasse/Kleriker
 - Klasse/Paladin
 aliases: 
 - Amulet
-Bezeichnung: Amulett
-Typ: Zauberfokus
-Eigenschaften: n/v
-Kst.: 5 GM
-Gew.: 0,5 kg
 ---
 # Amulett
 *Zauberfokus, heilig, gewöhnlich* 

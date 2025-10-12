@@ -1,6 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-item
+Bezeichnung: Bier-Fass
+Typ: Essen und Trinken
+Eigenschaften: n/v
+Gew.: 10,0 kg
+Kst.: 5 GM
 tags:
 - Quelle/5e/Players_Handbook
 - Gegenstand/Ausrüstung/Essen-und-Trinken
@@ -12,7 +15,11 @@ aliases:
 *Essen und Trinken*  
 <img src="Symbolik/Gegenstände.webp" align="right" width="150">
 
-- **Kosten**: 5 Goldmünzen
-- **Gewicht**: 10 kg.
+_Klassen:_ n/v 
+_Unterklassen:_  n/v
 
-*Source: SRD / Basic Rules*
+_Quellen:_ Spielerhandbuch
+
+- **Eigenschaften**: n/v
+- **Gewicht**: 10,0 kg.
+- **Kosten**: 5 Goldmünzen

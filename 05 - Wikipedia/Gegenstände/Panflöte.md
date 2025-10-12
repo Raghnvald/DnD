@@ -1,16 +1,14 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-item
+Bezeichnung: Panflöte
+Typ: Instrument
+Eigenschaften: n/v
+Gew.: 1,0 kg
+Kst.: 12 GM
 tags:
 - Quelle/5e/Players_Handbook
 - Gegenstand/Ausrüstung/Instrument
 aliases: 
 - Pan Flute
-Bezeichnung: Dudelsack
-Typ: Instrument
-Eigenschaften: n/v
-Gew.: 1,0 kg
-Kst.: 12 GM
 ---
 # Panflöte
 *Instrument, gewöhnlich*  

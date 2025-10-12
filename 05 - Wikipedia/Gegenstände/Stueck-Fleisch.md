@@ -1,16 +1,25 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-item
+Bezeichnung: Stueck-Fleisch
+Typ: Essen und Trinken
+Eigenschaften: n/v
+Gew.: n/v
+Kst.: 3 SM
 tags:
 - Quelle/5e/Players_Handbook
 - Gegenstand/Ausrüstung/Essen-und-Trinken
-aliases: ["Chunk of Meat"]
+- Gegenstand/Seltenheit/gewöhnlich
+aliases:
+- Chunk of Meat
 ---
 # Stück Fleisch
-![](../../../99%20-%20Setup/Files/Bildersammlung/Symbolik/Gegenstände.webp#token)
 *Essen und Trinken*  
+<img src="Symbolik/Gegenstände.webp" align="right" width="150">
 
+_Klassen:_ n/v 
+_Unterklassen:_  n/v
+
+_Quellen:_ Spielerhandbuch
+
+- **Eigenschaften**: n/v
+- **Gewicht**: n/v
 - **Kosten**: 3 Silbermünzen
-- **Gewicht**: ⏤
-
-*Quelle: SRD / Grundregelwerk*

@@ -15,8 +15,8 @@ aliases: ["Adventuring Gear; Container Capacity"]
 | [[../Gegenstände/Beutel]]                                                                                              | 5,6 Liter/3 Kilogramm Ausrüstung            |
 | [[../Gegenstände/Eimer]]                                                                                               | 12 Liter Flüssigkeit, 14 Liter Feststoffe   |
 | [[../Gegenstände/Fass]]                                                                                                | 160 Liter Flüssigkeit, 132 Liter Feststoffe |
-| [Flasche, Glas](../Gegenstände/glass-bottle.md)                                         | 1,5 Liter Flüssigkeit                       |
-| [Flasche](../Gegenstände/flask.md) or [Krug](../Gegenstände/tankard.md) | 0,5 Liter Flüssigkeit                       |
+| [Flasche, Glas](Glasflasche.md)                                         | 1,5 Liter Flüssigkeit                       |
+| [Flasche](../Gegenstände/flask.md) or [Krug](Tonkrug.md) | 0,5 Liter Flüssigkeit                       |
 | [[../Gegenstände/Korb]]                                                                                                | 56 Liter/20 Kilogramm Ausrüstung            |
 | [Krug](../Gegenstände/jug.md) or [Karaffe](../Gegenstände/pitcher.md)   | 4 Liter Flüssigkeit                         |
 | [[../Gegenstände/Phiole]]                                                                                              | 120 Milliliter Flüssigkeit                  |

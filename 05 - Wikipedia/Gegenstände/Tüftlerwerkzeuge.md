@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
 - Quelle/5e/Players_Handbook
-- Gegenstand/Ausrüstung/Handwerkszeug
+- Gegenstand/Ausrüstung/Werkzeug
 aliases: ["Tinker's Tools"]
 ---
 # Tinker's Tools

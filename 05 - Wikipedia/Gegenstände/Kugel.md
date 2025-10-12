@@ -1,14 +1,19 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-item
+Bezeichnung: Kugel
+Typ: Arkaner Fokus
+Eigenschaften: n/v
+Kst.: 20 GM
+Gew.: 1,5 kg
 tags:
 - Quelle/5e/Players_Handbook
+- Gegenstand/Ausrüstung
 - Gegenstand/Zauberfokus
+- Gegenstand/Seltenheit/gewöhnlich
 aliases: ["Orb"]
 ---
 # Kugel
-![](../../../99%20-%20Setup/Files/Bildersammlung/Symbolik/Gegenstände.webp#token)
-*Zauberfokus, gewöhnlich*  
+*Zauberfokus, arkan, gewöhnlich*  
+<img src="Symbolik/Gegenstände.webp" align="right" width="150">
 
 - **Kosten**: 20 Goldmünzen
 - **Gewicht**: 1,5 kg.

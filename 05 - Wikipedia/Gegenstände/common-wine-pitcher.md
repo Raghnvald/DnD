@@ -1,6 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-item
+Bezeichnung: common-wine-pitcher
+Typ: Essen und Trinken
+Eigenschaften: n/v
+Kst.: 2 SM
+Gew.: n/v
 tags:
 - Quelle/5e/Players_Handbook
 - Gegenstand/Ausrüstung/Essen-und-Trinken
@@ -9,10 +12,14 @@ aliases:
 - Common Wine (Pitcher)
 ---
 # Common Wine (Pitcher)
-*Food and Drink*  
+*Essen und Trinken*  
 <img src="Symbolik/Gegenstände.webp" align="right" width="150">
 
-- **Cost**: 2 sp
-- **Weight**: ⏤
+_Klassen:_ n/v 
+_Unterklassen:_  n/v
 
-*Source: SRD / Basic Rules*
+_Quellen:_ Spielerhandbuch
+
+- **Eigenschaften**: n/v
+- **Gewicht**: n/v
+- **Kosten**: 2 Silbermünzen

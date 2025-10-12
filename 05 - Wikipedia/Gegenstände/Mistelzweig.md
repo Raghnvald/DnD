@@ -1,14 +1,20 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-item
+Bezeichnung: Mistelzweig
+Typ: Druidischer Fokus
+Eigenschaften: n/v
+Kst.: 1 GM
+Gew.: n/v
 tags:
 - Quelle/5e/Players_Handbook
+- Gegenstand/Ausrüstung
 - Gegenstand/Zauberfokus
+- Gegenstand/Seltenheit/gewöhnlich
+- Klasse/Druide
 aliases: ["Sprig of Mistletoe"]
 ---
 # Mistelzweig
-![](../../../99%20-%20Setup/Files/Bildersammlung/Symbolik/Gegenstände.webp#token)
-*Zauberfokus, gewöhnlich*  
+*Zauberfokus, druidisch,  gewöhnlich*  
+<img src="Symbolik/Gegenstände.webp" align="right" width="150">
 
 - **Kosten**: 1 Goldmünze
 - **Gewicht**: ⏤

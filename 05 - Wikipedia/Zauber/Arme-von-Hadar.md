@@ -24,7 +24,8 @@ _Klassen:_ Hexenmeister
 *   **Angriff / Rettung:** Stärke
     
 
-Du berufst dich auf die Macht Hadars, des Dunklen Hungers. Tentakel aus dunkler Energie brechen aus dir hervor und schlagen auf alle Kreaturen im Umkreis von 3 Metern um dich herum ein. Jede Kreatur in diesem Bereich muss einen **Stärke**\-Rettungswurf ablegen. Bei einem misslungenen Rettungswurf erleidet ein Ziel `2W6` nekrotischen Schaden und kann bis zu seinem nächsten Zug keine Reaktionen verwenden. Bei einem erfolgreichen Rettungswurf erleidet die Kreatur halben Schaden, erleidet aber keine anderen Auswirkungen.
+Du berufst dich auf die Macht Hadars, des Dunklen Hungers. Tentakel aus finsterer Energie brechen aus dir hervor und
+schlagen auf alle Kreaturen innerhalb von 3 m ein. Jede Kreatur in diesem Bereich muss einen Stärke-Rettungswurf ablegen. Bei einem Misserfolg erleidet ein Ziel 2W6 nekrotischen Schaden und kann bis zu seinem nächsten Zug keine Reaktion verwenden. Bei einem erfolgreichen Rettungswurf nimmt die Kreatur halben Schaden, erleidet aber keine anderen Auswirkungen.
 
 Auf höheren Graden
 ------------------

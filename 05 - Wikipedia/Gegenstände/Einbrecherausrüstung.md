@@ -1,20 +1,30 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-item
+Bezeichnung: Einbrecherausrüstung
+Typ: Ausrüstungspaket
+Eigenschaften: n/v
+Kst.: 16 GM
+Gew.: 22,25 kg
 tags:
 - Quelle/5e/Players_Handbook
 - Gegenstand/Ausrüstung
 - Gegenstand/Seltenheit/gewöhnlich
-aliases: ["Burglar's Pack"]
+aliases:
+- Burglar's Pack
 ---
 # Einbrecherausrüstung
 *Adventuring Gear*  
 <img src="Symbolik/Gegenstände.webp" align="right" width="150">
 
-- **Cost**: 16 Goldmünzen
-- **Weight**: 22,25 kg.
+_Klassen:_ n/v 
+_Unterklassen:_  n/v
 
-Includes:
+_Quellen:_ Spielerhandbuch
+
+- **Eigenschaften**: n/v
+- **Gewicht**: 22,25 kg.
+- **Kosten**: 16 Goldmünzen
+
+Beinhaltet:
 
 - a [Rucksack](Rucksack.md)  
 - a [bag of 1,000 ball bearings](Metallkugeln-Beutel-mit-1000.md)  
@@ -30,5 +40,3 @@ Includes:
 - a [Zunderkästchen](Zunderkästchen.md)  
 - a [Wasserschlauch](Wasserschlauch.md)  
 - [50 feet of hempen rope](hempen-rope-50-feet.md)  
-
-*Source: SRD / Basic Rules*

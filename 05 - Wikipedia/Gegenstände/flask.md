@@ -6,7 +6,7 @@ tags:
 - Gegenstand/Ausrüstung
 aliases: ["Flask"]
 ---
-# Flasche
+# Becher
 *Adventuring Gear*  
 <img src="Symbolik/Gegenstände.webp" align="right" width="150">
 

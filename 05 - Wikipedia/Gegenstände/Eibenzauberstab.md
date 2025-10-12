@@ -1,8 +1,12 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-item
+Bezeichnung: Eibenzauberstab
+Typ: Druidischer Fokus
+Eigenschaften: n/v
+Kst.: 10 GM
+Gew.: 0,5 kg
 tags:
 - Quelle/5e/Players_Handbook
+- Gegenstand/Ausrüstung
 - Gegenstand/Zauberfokus
 - Gegenstand/Seltenheit/gewöhnlich
 - Klasse/Druide

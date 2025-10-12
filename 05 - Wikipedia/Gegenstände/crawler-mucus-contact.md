@@ -1,6 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-item
+Bezeichnung: crawler-mucus-contact
+Typ: Gift
+Eigenschaften: Gift
+Kst.: 200 GM
+Gew.: n/v
 tags:
 - Quelle/5e/Dungeon_Masters_Guide
 - Gegenstand/Ausrüstung/Gift

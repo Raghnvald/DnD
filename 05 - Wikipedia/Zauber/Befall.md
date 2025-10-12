@@ -1,4 +1,11 @@
 ---
+Bezeichnung: Befall
+Zeitaufwand: 
+Reichweite: 
+Komponenten: 
+Wirkungsdauer: 
+Angriff: 
+Schaden: 
 tags: 
 - Quelle/5e/Xanathars_Guide_to_Everything
 - Klasse/Druide
@@ -10,12 +17,6 @@ tags:
 - Zauber/Schule/
 aliases: 
 - Infestation
-Bezeichnung: Befall
-Zeitaufwand: 
-Reichweite: 
-Komponenten: 
-Wirkungsdauer: 
-Angriff: 
-Schaden: 
 ---
 # Befall
+_Zaubertrick  der _

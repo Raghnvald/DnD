@@ -6,7 +6,7 @@ tags:
 - Gegenstand/Ausrüstung
 aliases: ["Tankard"]
 ---
-# Krug
+# Tonkrug
 *Adventuring Gear*  
 
 - **Cost**: 2 cp

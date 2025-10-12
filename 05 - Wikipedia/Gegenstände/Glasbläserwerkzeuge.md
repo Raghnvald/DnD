@@ -1,16 +1,24 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-item
+Bezeichnung: Glasbläserwerkzeuge
+Typ: Werkzeug
+Eigenschaften: n/v 
+Kst.: 30 GM
+Gew.: 2,5 kg
 tags:
 - Quelle/5e/Players_Handbook
-- Gegenstand/Ausrüstung/Handwerkszeug
-aliases: ["Glassblower's Tools"]
+- Gegenstand/Ausrüstung/Werkzeug
+aliases:
+- Glassblower's Tools
 ---
-# Glassblower's Tools
-*Artisan's Tools*  
+# Glasbläserwerkzeuge
+*Werkzeug, gewöhnlich*   
 <img src="Symbolik/Gegenstände.webp" align="right" width="150">
 
-- **Cost**: 30 gp
-- **Weight**: 5.0 lbs.
+_Klassen:_ n/v 
+_Unterklassen:_  n/v
 
-*Source: SRD / Basic Rules*
+_Quellen:_ Spielerhandbuch
+
+- **Eigenschaften**: n/v
+- **Gewicht:** 2,5 kg.
+- **Kosten**: 30 Goldmünzen

@@ -1,6 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-item
+Bezeichnung: Bier-Krug
+Typ: Essen und Trinken
+Eigenschaften: n/v
+Gew.: n/v
+Kst.: 4 KM
 tags:
 - Quelle/5e/Players_Handbook
 - Gegenstand/Ausrüstung/Essen-und-Trinken
@@ -12,7 +15,11 @@ aliases:
 *Essen und Trinken*  
 <img src="Symbolik/Gegenstände.webp" align="right" width="150">
 
-- **Kosten**:  4 Kupfermünzen
-- **Gewicht**: ⏤
+_Klassen:_ n/v 
+_Unterklassen:_  n/v
 
-*Quelle: SRD / Grundregelwerk*
+_Quellen:_ Spielerhandbuch
+
+- **Eigenschaften**: n/v
+- **Gewicht**: n/v
+- **Kosten**: 4 Kupfermünzen

@@ -1,17 +1,17 @@
 ---
+Bezeichnung: Alchemistenausrüstung
+Typ: Werkzeug
+Eigenschaften: n/v
+Kst.: 50 GM
+Gew.: 4,0 kg
 obsidianUIMode: preview
 cssclasses: dnd5e-compendium
 tags:
 - Quelle/5e/Players_Handbook
-- Gegenstand/Ausrüstung/Handwerkszeug
+- Gegenstand/Ausrüstung/Werkzeug
 - Gegenstand/Seltenheit/gewöhnlich
 aliases:
 - Alchemist's Supplies
-Bezeichnung: Alchemistenausrüstung
-Typ: Handwerkszeug
-Eigenschaften: n/v
-Kst.: 50 GM
-Gew.: 4,0 kg
 ---
 # Alchemistenausrüstung
 *Werkzeug, gewöhnlich*

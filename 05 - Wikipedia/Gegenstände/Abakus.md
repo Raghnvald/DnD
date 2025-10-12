@@ -1,17 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses: dnd5e-compendium
+Bezeichnung: Abakus
+Typ: Abenteuerausrüstung
+Eigenschaften: n/v
+Kst.: 2 GM
+Gew.: 1,0 kg
 tags:
 - Quelle/5e/Players_Handbook
 - Gegenstand/Ausrüstung
 - Gegenstand/Seltenheit/gewöhnlich
 aliases:
 - Abacus
-Bezeichnung: Abakus
-Typ: Abenteuerausrüstung
-Eigenschaften: n/v
-Kst.: 2 GM
-Gew.: 1,0 kg
 ---
 # Abakus
 *Abenteuerausrüstung, gewöhnlich*

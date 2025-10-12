@@ -41,8 +41,8 @@ aliases: ["Adventuring Gear"]
 | [Fälscherausrüstung](../Gegenstände/Fälscherausrüstung.md)                                    |    15 GM |        2,5 kg. |
 | [Fass](../Gegenstände/Fass.md)                                                           |     2 GM |       35,0 kg. |
 | [Fernglas](../Gegenstände/Fernglas.md)                                                   | 1,000 GM |        0,5 kg. |
-| [Flasche, Glas](../Gegenstände/glass-bottle.md)                                          |     2 GM |        1,0 kg. |
-| [flask](../Gegenstände/flask.md) oder [Krug](../Gegenstände/tankard.md)                               |     2 KM |        0,5 kg. |
+| [Flasche, Glas](Glasflasche.md)                                          |     2 GM |        1,0 kg. |
+| [flask](../Gegenstände/flask.md) oder [Krug](Tonkrug.md)                               |     2 KM |        0,5 kg. |
 | [Flaschenzug](../Gegenstände/Flaschenzug.md)                                             |     1 GM |        2,5 kg. |
 | [Gegengiftphiole](../Gegenstände/Gegengiftphiole.md)                                     |    50 GM |              — |
 | [Giftmischerausrüstung](../Gegenstände/Giftmischerwerkzeug.md)                                 |    50 GM |        1,0 kg. |
