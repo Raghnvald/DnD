@@ -1,17 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses: dnd5e-compendium
+Bezeichnung: Kerze
+Typ: Abenteuerausrüstung
+Eigenschaften: n/v
+Gew.: n/v
+Kst.: 5 SM
 tags:
   - Quelle/5e/Players_Handbook
   - Gegenstand/Ausrüstung
   - Gegenstand/Seltenheit/gewöhnlich
 aliases:
   - Candle
-Bezeichnung: Kerze
-Typ: Abenteuerausrüstung
-Eigenschaften: n/v 
-Kst.: 5 SM
-Gew.: n/v
 Aktiv: false
 Menge: "1"
 ---
@@ -25,9 +23,7 @@ _Unterklassen:_  n/v
 _Quellen:_ Spielerhandbuch
 
 - **Eigenschaften**: n/v
-- **Kosten**: 5 Silbermünzen
 - **Gewicht:** n/v
+- **Kosten**: 5 Silbermünzen
 
 Eine Kerze spendet 1 Stunde lang helles Licht in einem Radius von 1,5 Meter und schwaches Licht für weitere 1,5 Meter.
-
-*Quelle:* Grundregelwerk / Spielerhandbuch

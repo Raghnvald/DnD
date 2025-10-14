@@ -269,14 +269,14 @@ Mit Erreichen der 3. Stufe erlangst du die Fähigkeit, deine Zauber an deine Bed
 
 Du kannst nur eine Metamagie-Option auf einen gewirkten Zauber anwenden, sofern in der Beschreibung nichts anderes angegeben ist.
 
-- [Bedachter Zauber](../../Optionale%20Talente/Bedachter-Zauber.md) 
-- [Beschleunigter Zauber](../../Optionale%20Talente/Beschleunigter-Zauber.md) 
+- [Bedachter Zauber](Bedachter%20Zauber.md) 
+- [Beschleunigter Zauber](Beschleunigter%20Zauber.md) 
 - [Gespiegelter Zauber](../../Optionale%20Talente/Gespiegelter-Zauber.md) 
 - [Konzentrierter Zauber](../../Optionale%20Talente/Konzentrierter-Zauber.md) 
 - [Mächtiger Zauber](../../Optionale%20Talente/Mächtiger-Zauber.md) 
 - [Subtle Spell](../../Optionale%20Talente/Subtiler-Zauber.md) 
-- [Verlängerter Zauber](../../Optionale%20Talente/Verlängerter-Zauber.md) 
-- [Weitreichender Zauber](../../Optionale%20Talente/Weitreichender-Zauber.md)
+- [Verlängerter Zauber](Verlängerter%20Zauber.md) 
+- [Weitreichender Zauber](Weitreichender%20Zauber.md)
 
 ### Attributswerterhöhung (Stufe 4)
 Wenn du die 4. Stufe erreichst, kannst du einen Attributswert deiner Wahl um 2 erhöhen, oder du kannst zwei Attributswerte deiner Wahl um 1 erhöhen. Wie üblich kannst du mit dieser Fähigkeit keinen Attributswert über 20 erhöhen.

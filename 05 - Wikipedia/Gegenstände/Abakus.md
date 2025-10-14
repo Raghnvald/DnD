@@ -2,8 +2,8 @@
 Bezeichnung: Abakus
 Typ: Abenteuerausrüstung
 Eigenschaften: n/v
-Kst.: 2 GM
 Gew.: 1,0 kg
+Kst.: 2 GM
 tags:
 - Quelle/5e/Players_Handbook
 - Gegenstand/Ausrüstung
@@ -21,7 +21,7 @@ _Unterklassen:_  n/v
 _Quellen:_ Spielerhandbuch
 
 - **Eigenschaften**: n/v
-- **Kosten**: 2 Goldmünzen
 - **Gewicht**: 1,0 kg.
+- **Kosten**: 2 Goldmünzen
 
 Ein Standardwerkzeug zur Durchführung von Berechnungen.

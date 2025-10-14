@@ -1,15 +1,25 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-item
+Bezeichnung: Ledererwerkzeuge
+Typ: Werkzeug
+Eigenschaften: n/v 
+Kst.: 5 GM
+Gew.: 2,5 kg
 tags:
 - Quelle/5e/Players_Handbook
 - Gegenstand/Ausrüstung/Werkzeug
-aliases: ["Leatherworker's Tools"]
+- Gegenstand/Seltenheit/gewöhnlich
+aliases:
+- Leatherworker's Tools
 ---
-# Leatherworker's Tools
-*Artisan's Tools*  
+# Ledererwerkzeuge
+*Werkzeug, gewöhnlich*  
+<img src="Symbolik/Gegenstände.webp" align="right" width="150">
 
-- **Cost**: 5 gp
-- **Weight**: 5.0 lbs.
+_Klassen:_ n/v 
+_Unterklassen:_  n/v
 
-*Source: SRD / Basic Rules*
+_Quellen:_ Spielerhandbuch
+
+- **Eigenschaften**: n/v
+- **Kosten**: 5 Goldmünzen
+- **Gewicht**: 2,5 kg.

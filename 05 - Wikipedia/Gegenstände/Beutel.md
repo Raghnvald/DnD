@@ -1,25 +1,29 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-item
+Bezeichnung: Beutel
+Typ: Behälter
+Eigenschaften: n/v
+Gew.: 0,5 kg
+Kst.: 5 SM
 tags:
 - Quelle/5e/Players_Handbook
 - Gegenstand/Ausrüstung
 - Gegenstand/Seltenheit/gewöhnlich
 aliases:
 - Pouch
-Bezeichnung: Beutel
-Typ: Abenteuerausrüstung
-Eigenschaften: n/v
-Kst.: 5 SM
-Gew.: 0,5 kg
 ---
 # Beutel
 *Abenteuerausrüstung, gewöhnlich*
 <img src="Symbolik/Gegenstände.webp" align="right" width="150">
 
-- **Kosten**: 5 Silbermünzen
+_Klassen:_ n/v 
+_Unterklassen:_  n/v
+
+_Quellen:_ Spielerhandbuch
+
+- **Eigenschaften**: n/v
 - **Gewicht**: 0,5 kg.
+- **Kosten**: 5 Silbermünzen
+
+Ein Beutel hat ein Fassungsvermögen von 6 Liter Flüssigkeit oder 3 kg. Ausrüstung.
 
 In einen Beutel aus Stoff oder Leder passen beispielsweise bis zu 20 [Schleuderkugeln](sling-bullet.md) oder 50 [Blasrohrpfeile](Blasrohrnadel.md). Ein unterteilter Beutel für Zauberkomponenten ist ein [Materialkomponentenbeutel](Materialkomponentenbeutel.md).
-
-*Quelle: SRD / Grundregelwerk*

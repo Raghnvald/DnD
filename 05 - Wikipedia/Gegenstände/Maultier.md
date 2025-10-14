@@ -1,16 +1,27 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-item
+Bezeichnung: Maultier
+Typ: Reit- und Lastentier
+Eigenschaften: n/v
+Gew.: n/v
+Kst.: 8 GM
 tags:
 - Quelle/5e/Players_Handbook
-- Gegenstand/Ausrüstung/Reittier
-aliases: ["Mule"]
+- Gegenstand/Ausrüstung/Reit-und-Lastentier
+- Gegenstand/Seltenheit/gewöhnlich
+aliases:
+- Mule
 ---
 # Maultier
-![](../../../99%20-%20Setup/Files/Bildersammlung/Symbolik/Gegenstände.webp#token)
-*Reittier*  
+*Reit- und Lasttiere*  
+<img src="Symbolik/Gegenstände.webp" align="right" width="150">
 
+_Klassen:_ n/v 
+_Unterklassen:_  n/v
+
+_Quellen:_ Spielerhandbuch
+
+- **Eigenschaften**: n/v
+- **Bewegungsrate:** 12m
+- **Traglast:** 210,0 kg
+- **Gewicht:** n/v
 - **Kosten**: 8 Goldmünzen
-- **Gewicht**: ⏤
-
-*Quelle: SRD / Grundregelwerk*

@@ -1,17 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses: dnd5e-compendium
-tags:
-  - Quelle/5e/Players_Handbook
-  - Gegenstand/Ausrüstung
-  - Gegenstand/Seltenheit/gewöhnlich
-aliases:
-  - Rations (1 day)
 Bezeichnung: Tagesration
 Typ: Abenteuerausrüstung
 Eigenschaften: n/v
-Kst.: 5 SM
 Gew.: 1,0 kg
+Kst.: 5 SM
+tags:
+- Quelle/5e/Players_Handbook
+- Gegenstand/Ausrüstung
+- Gegenstand/Seltenheit/gewöhnlich
+aliases:
+- Rations (1 day)
 Aktiv: false
 Menge: "5"
 ---
@@ -25,7 +23,7 @@ _Unterklassen:_  n/v
 _Quellen:_ Spielerhandbuch
 
 - **Eigenschaften**: n/v
-- **Kosten**: 5 Silbermünzen
 - **Gewicht:** 1,0 kg.
+- **Kosten**: 5 Silbermünzen
 
 Die Rationen bestehen aus trockenen Lebensmitteln, die für längere Reisen geeignet sind, einschließlich Dörrfleisch, Trockenobst, Hartriegel und Nüsse.

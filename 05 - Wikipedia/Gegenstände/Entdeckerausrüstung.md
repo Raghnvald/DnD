@@ -2,8 +2,8 @@
 Bezeichnung: Entdeckerausrüstung
 Typ: Ausrüstungspaket
 Eigenschaften: n/v
-Kst.: 10 GM
 Gew.: 29,5 kg
+Kst.: 10 GM
 tags:
 - Quelle/5e/Players_Handbook
 - Gegenstand/Ausrüstung

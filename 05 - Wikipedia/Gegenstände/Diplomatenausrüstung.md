@@ -2,8 +2,8 @@
 Bezeichnung: Diplomatenausrüstung
 Typ: Ausrüstungspaket
 Eigenschaften: n/v
-Kst.: 39 GM
 Gew.: 18,0 kg
+Kst.: 39 GM
 tags:
 - Quelle/5e/Players_Handbook
 - Gegenstand/Ausrüstung
@@ -26,14 +26,14 @@ _Quellen:_ Spielerhandbuch
 
 Beinhaltet:
 
-- eine [Truhe](Truhe.md)  
-- 2 [Behälter für Karten und Schriftrollen](Karten-oder-Schriftrollenbehälter.md)  
-- ein Satz [feiner Kleidung](Kleidung-fein.md)  
+- eine [[Kiste]]
+- 2 [[Karten-oder-Schriftrollenbehälter|Behälter für Karten und Schriftrollen]]  
+- ein Satz [[Kleidung-fein|feiner Kleidung]]  
 - eine [Flasche mit Tinte](ink-1-ounce-bottle.md)  
 - ein [Tintenstift](ink-pen.md)  
-- eine [Lampe](Lampe.md)  
+- eine [[Lampe]]  
 - 2 [Flaschen Öl](oil-flask.md)  
-- 5 [Blatt Papier](Papier-ein-Blatt.md)  
+- 5 [[Papier-ein-Blatt|Blatt Papier]]  
 - eine [Phiole mit Parfüm](perfume-vial.md)  
 - [Siegelwachs](sealing-wax.md)  
-- [Seife](Seife.md)  
+- [[Seife]]  

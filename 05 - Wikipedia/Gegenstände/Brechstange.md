@@ -1,25 +1,27 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-item
+Bezeichnung: Brechstange
+Typ: Abenteuerausrüstung
+Eigenschaften: n/v
+Gew.: 2,5 kg
+Kst.: 2 GM
 tags:
 - Quelle/5e/Players_Handbook
 - Gegenstand/Ausrüstung
 - Gegenstand/Seltenheit/gewöhnlich
 aliases:
 - Crowbar
-Bezeichnung: Brechstange
-Typ: Abenteuerausrüstung
-Eigenschaften: n/v
-Kst.: 2 GM
-Gew.: 2,5 kg
 ---
 # Brechstange
 *Abenteuerausrüstung, gewöhnlich*
 <img src="Symbolik/Gegenstände.webp" align="right" width="150">
 
-- **Kosten**: 2 Goldmünzen
+_Klassen:_ n/v 
+_Unterklassen:_  n/v
+
+_Quellen:_ Spielerhandbuch
+
+- **Eigenschaften**: n/v
 - **Gewicht**: 2,5 kg.
+- **Kosten**: 2 Goldmünzen
 
-Wenn du eine Brechstange hast, bist du bei Stärkewürfen, bei denen du Hebelwirkung brauchst, im Vorteil
-
-*Quelle: SRD / Grundregelwerk*
+Wenn du eine Brechstange hast, bist du bei Stärkewürfen, bei denen du Hebelwirkung brauchst, im Vorteil.

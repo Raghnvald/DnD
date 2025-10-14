@@ -1,16 +1,25 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-item
+Bezeichnung: Zimt
+Typ: Handelsware
+Eigenschaften: n/v
+Kst.: 2 GM
+Gew.: 0,5 kg
 tags:
 - Quelle/5e/Players_Handbook
 - Gegenstand/Ausrüstung/Handelsgut
-aliases: ["Cinnamon"]
+- Gegenstand/Seltenheit/gewöhnlich
+aliases:
+- Cinnamon
 ---
 # Zimt
-![](../../../99%20-%20Setup/Files/Bildersammlung/Symbolik/Gegenstände.webp#token)
 *Handelsware*
+<img src="Gegenstände.webp" align="right" width="150">
 
-- **Kosten**: 2 Goldmünzen
+_Klassen:_ n/v 
+_Unterklassen:_  n/v
+
+_Quellen:_ Spielerhandbuch
+
+- **Eigenschaften**: n/v
 - **Gewicht**: 0,5 kg.
-
-*Quelle: SRD / Grundregelwerk*
+- **Kosten**: 2 Goldmünzen

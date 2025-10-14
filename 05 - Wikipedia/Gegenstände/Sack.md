@@ -1,17 +1,27 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-item
+Bezeichnung: Sack
+Typ: Behälter
+Eigenschaften: n/v
+Gew.: 0,25 kg
+Kst.: 1 KM
 tags:
 - Quelle/5e/Players_Handbook
 - Gegenstand/Ausrüstung
-aliases: ["Sack"]
+- Gegenstand/Seltenheit/gewöhnlich
+aliases:
+- Sack
 ---
 # Sack
-*Adventuring Gear*  
+*Abenteuerausrüstung, gewöhnlich*
+<img src="Symbolik/Gegenstände.webp" align="right" width="150">
 
-- **Cost**: 1 cp
-- **Weight**: 0.5 lbs.
+_Klassen:_ n/v 
+_Unterklassen:_  n/v
 
-A sack can hold up to 1 cubic foot or 30 pounds of gear.
+_Quellen:_ Spielerhandbuch
 
-*Source: SRD / Basic Rules*
+- **Eigenschaften**: n/v
+- **Gewicht**: 0,25 kg.
+- **Kosten**: 1 Kupfermünze
+
+Ein Sack hat ein Fassungsvermögen von 30 Liter Flüssigkeit oder 15 kg. Ausrüstung.

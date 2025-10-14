@@ -1,25 +1,27 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-item
+Bezeichnung: Eimer
+Typ: Behälter
+Eigenschaften: n/v
+Gew.: 1,0 kg
+Kst.: 5 KM
 tags:
 - Quelle/5e/Players_Handbook
 - Gegenstand/Ausrüstung
 - Gegenstand/Seltenheit/gewöhnlich
 aliases:
 - Bucket
-Bezeichnung: Eimer
-Typ: Abenteuerausrüstung
-Eigenschaften: n/v
-Kst.: 5 KM
-Gew.: 1,0 kg
 ---
 # Eimer
 *Abenteuerausrüstung, gewöhnlich*  
 <img src="Symbolik/Gegenstände.webp" align="right" width="150">
 
-- **Kosten**: 5 Kupfermünzen
+_Klassen:_ n/v 
+_Unterklassen:_  n/v
+
+_Quellen:_ Spielerhandbuch
+
+- **Eigenschaften**: n/v
 - **Gewicht**: 1,0 kg.
+- **Kosten**: 5 Kupfermünzen
 
-Fassungsvermögen: 12 Liter Flüssigkeit, 14 Liter fest
-
-*Quelle: SRD / Grundregelwerk*
+Fassungsvermögen: 12 Liter Flüssigkeit, 14 Liter fest.

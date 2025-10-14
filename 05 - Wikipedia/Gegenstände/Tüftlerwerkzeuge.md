@@ -1,15 +1,25 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-item
+Bezeichnung: Tüftlerwerkzeuge
+Typ: Werkzeug
+Eigenschaften: n/v 
+Kst.: 50 GM
+Gew.: 5,0 kg
 tags:
 - Quelle/5e/Players_Handbook
 - Gegenstand/Ausrüstung/Werkzeug
-aliases: ["Tinker's Tools"]
+- Gegenstand/Seltenheit/gewöhnlich
+aliases:
+- Tinker's Tools
 ---
-# Tinker's Tools
-*Artisan's Tools*  
+# Tüftlerwerkzeuge
+*Werkzeug, gewöhnlich*  
+<img src="Symbolik/Gegenstände.webp" align="right" width="150">
 
-- **Cost**: 50 gp
-- **Weight**: 10.0 lbs.
+_Klassen:_ n/v 
+_Unterklassen:_  n/v
 
-*Source: SRD / Basic Rules*
+_Quellen:_ Spielerhandbuch
+
+- **Eigenschaften**: n/v
+- **Kosten**: 50 Goldmünzen
+- **Gewicht**: 5,0 kg.

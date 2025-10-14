@@ -1,15 +1,25 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-item
+Bezeichnung: Gold
+Typ: Handelsware
+Eigenschaften: n/v
+Kst.: 2 GM
+Gew.: n/v
 tags:
 - Quelle/5e/Players_Handbook
 - Gegenstand/Ausrüstung/Handelsgut
-aliases: ["Sheep"]
+- Gegenstand/Seltenheit/gewöhnlich
+aliases:
+- Sheep
 ---
 # Sheep
-*Trade Good*  
+*Handelsware*
+<img src="Gegenstände.webp" align="right" width="150">
 
-- **Cost**: 2 gp
-- **Weight**: ⏤
+_Klassen:_ n/v 
+_Unterklassen:_  n/v
 
-*Source: SRD / Basic Rules*
+_Quellen:_ Spielerhandbuch
+
+- **Eigenschaften**: n/v
+- **Gewicht**: n/v
+- **Kosten**: 2 Goldmünzen

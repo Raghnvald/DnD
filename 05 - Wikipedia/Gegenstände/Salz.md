@@ -1,15 +1,25 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-item
+Bezeichnung: Salz
+Typ: Handelsware
+Eigenschaften: n/v
+Kst.: 5 SM
+Gew.: n/v
 tags:
 - Quelle/5e/Players_Handbook
 - Gegenstand/Ausrüstung/Handelsgut
-aliases: ["Salt"]
+- Gegenstand/Seltenheit/gewöhnlich
+aliases:
+- Salt
 ---
-# Salt
-*Trade Good*  
+# Salz
+*Handelsware*
+<img src="Gegenstände.webp" align="right" width="150">
 
-- **Cost**: 5 cp
-- **Weight**: 1.0 lbs.
+_Klassen:_ n/v 
+_Unterklassen:_  n/v
 
-*Source: SRD / Basic Rules*
+_Quellen:_ Spielerhandbuch
+
+- **Eigenschaften**: n/v
+- **Gewicht**: 0,5 kg
+- **Kosten**: 5 Kupfermünzen

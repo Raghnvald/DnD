@@ -1,15 +1,25 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-item
+Bezeichnung: Juwelierwerkzeuge
+Typ: Werkzeug
+Eigenschaften: n/v 
+Kst.: 25 GM
+Gew.: 1,0 kg
 tags:
 - Quelle/5e/Players_Handbook
 - Gegenstand/Ausrüstung/Werkzeug
-aliases: ["Jeweler's Tools"]
+- Gegenstand/Seltenheit/gewöhnlich
+aliases:
+- Jeweler's Tools
 ---
-# Jeweler's Tools
-*Artisan's Tools*  
+# Juwelierwerkzeuge
+*Werkzeug, gewöhnlich*  
+<img src="Symbolik/Gegenstände.webp" align="right" width="150">
 
-- **Cost**: 25 gp
-- **Weight**: 2.0 lbs.
+_Klassen:_ n/v 
+_Unterklassen:_  n/v
 
-*Source: SRD / Basic Rules*
+_Quellen:_ Spielerhandbuch
+
+- **Eigenschaften**: n/v
+- **Kosten**: 25 Goldmünzen
+- **Gewicht**: 1,0 kg.

@@ -2,8 +2,8 @@
 Bezeichnung: Gelehrtenausrüstung
 Typ: Ausrüstungspaket
 Eigenschaften: n/v
-Kst.: 40 GM
 Gew.: 5,0 kg
+Kst.: 40 GM
 tags:
 - Quelle/5e/Players_Handbook
 - Gegenstand/Ausrüstung

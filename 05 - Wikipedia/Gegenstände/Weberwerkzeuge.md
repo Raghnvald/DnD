@@ -1,15 +1,25 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-item
+Bezeichnung: Weberwerkzeuge
+Typ: Werkzeug
+Eigenschaften: n/v 
+Kst.: 1 GM
+Gew.: 2,5 kg
 tags:
 - Quelle/5e/Players_Handbook
 - Gegenstand/Ausrüstung/Werkzeug
-aliases: ["Weaver's Tools"]
+- Gegenstand/Seltenheit/gewöhnlich
+aliases:
+- Weaver's Tools
 ---
-# Weaver's Tools
-*Artisan's Tools*  
+# Weberwerkzeuge
+*Werkzeug, gewöhnlich*  
+<img src="Symbolik/Gegenstände.webp" align="right" width="150">
 
-- **Cost**: 1 gp
-- **Weight**: 5.0 lbs.
+_Klassen:_ n/v 
+_Unterklassen:_  n/v
 
-*Source: SRD / Basic Rules*
+_Quellen:_ Spielerhandbuch
+
+- **Eigenschaften**: n/v
+- **Kosten**: 1 Goldmünzen
+- **Gewicht**: 2,5 kg.

@@ -20,6 +20,7 @@ _Unterklassen:_  n/v
 
 _Quellen:_ Spielerhandbuch
 
+- **Eigenschaften**: n/v
 - **Gewicht**: 0,5 kg.
 - **Kosten**: 1 Goldmünzen
 

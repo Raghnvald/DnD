@@ -37,7 +37,7 @@ In addition, the robe has `4d4` other patches. The DM chooses the patches or det
 | 45-51 | A [riding horse](Dungeons%20&%20Dragons/Wikipedia%20der%20Vergessenen%20Reiche/Kompendium%20der%20Vergessenen%20Reiche/Bestiarium/Bestien/riding-horse.md) with saddle bags |
 | 52-59 | Pit (a cube 10 feet on a side), which you can place on the ground within 10 feet of you |
 | 60-68 | 4 [potions of healing](Heiltrank.md) |
-| 69-75 | [Rowboat](rowboat.md) (12 feet long) |
+| 69-75 | [Rowboat](Ruderboot.md) (12 feet long) |
 | 76-83 | Spell scroll containing one spell of 1st to 3rd level |
 | 84-90 | 2 [mastiffs](Dungeons%20&%20Dragons/Wikipedia%20der%20Vergessenen%20Reiche/Kompendium%20der%20Vergessenen%20Reiche/Bestiarium/Bestien/mastiff.md) |
 | 91-96 | Window (2 feet by 4 feet, up to 2 feet deep), which you can place on a vertical surface you can reach |

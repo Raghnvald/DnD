@@ -2,8 +2,8 @@
 Bezeichnung: Bier-Fass
 Typ: Essen und Trinken
 Eigenschaften: n/v
-Gew.: 10,0 kg
-Kst.: 5 GM
+Gew.: n/v
+Kst.: 2 SM
 tags:
 - Quelle/5e/Players_Handbook
 - Gegenstand/Ausrüstung/Essen-und-Trinken
@@ -11,7 +11,7 @@ tags:
 aliases: 
 - Ale (Gallon)
 ---
-# Bier (Faß, 20L)
+# Bier (Faß, 4L)
 *Essen und Trinken*  
 <img src="Symbolik/Gegenstände.webp" align="right" width="150">
 
@@ -21,5 +21,5 @@ _Unterklassen:_  n/v
 _Quellen:_ Spielerhandbuch
 
 - **Eigenschaften**: n/v
-- **Gewicht**: 10,0 kg.
-- **Kosten**: 5 Goldmünzen
+- **Gewicht**: n/v
+- **Kosten**: 2 Silbermünzen

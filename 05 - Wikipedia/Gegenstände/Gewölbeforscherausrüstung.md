@@ -2,8 +2,8 @@
 Bezeichnung: Gewölbeforscherausrüstung
 Typ: Ausrüstungspaket
 Eigenschaften: n/v
-Kst.: 12 GM
 Gew.: 30,0 kg
+Kst.: 12 GM
 tags:
 - Quelle/5e/Players_Handbook
 - Gegenstand/Ausrüstung
@@ -34,6 +34,4 @@ Beinhaltet:
 - ein [Zunderkästchen](Zunderkästchen.md)  
 - 10 [Tagesrationen](Tagesration.md)  
 - ein [Wasserschlauch](Wasserschlauch.md)  
-- [15 Meter Hanfseil](hempen-rope-50-feet.md)  
-
-*Source: SRD / Basic Rules*
+- [15 Meter Hanfseil](hempen-rope-50-feet.md) 

@@ -1,16 +1,27 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-item
+Bezeichnung: Elefant
+Typ: Reit- und Lastentier
+Eigenschaften: n/v
+Gew.: n/v
+Kst.: 200 GM
 tags:
 - Quelle/5e/Players_Handbook
-- Gegenstand/Ausrüstung/Reittier
-aliases: ["Elephant"]
+- Gegenstand/Ausrüstung/Reit-und-Lastentier
+- Gegenstand/Seltenheit/gewöhnlich
+aliases:
+- Elephant
 ---
 # Elefant
-*Reittier*  
+*Reit- und Lasttiere*  
 <img src="Symbolik/Gegenstände.webp" align="right" width="150">
 
-- **Kosten**: 200 Goldmünzen
-- **Gewicht**: ⏤
+_Klassen:_ n/v 
+_Unterklassen:_  n/v
 
-*Quelle: SRD / Grundregelwerk*
+_Quellen:_ Spielerhandbuch
+
+- **Eigenschaften**: n/v
+- **Bewegungsrate:** 12m
+- **Traglast:** 660,0 kg
+- **Gewicht:** n/v
+- **Kosten**: 200 Goldmünzen

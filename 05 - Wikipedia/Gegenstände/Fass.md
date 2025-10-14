@@ -20,7 +20,8 @@ _Unterklassen:_  n/v
 
 _Quellen:_ Spielerhandbuch
 
+- **Eigenschaften**: n/v
 - **Gewicht**: 35,0 kg.
 - **Kosten**: 2 Goldmünzen
 
-Fassungsvermögen: 150 Liter Flüssigkeit oder 0,1 Kubikmeter fest.
+Ein Fass hat ein Fassungsvermögen für 150 Liter Flüssigkeit oder 0,1 Kubikmeter feste Stoffe.

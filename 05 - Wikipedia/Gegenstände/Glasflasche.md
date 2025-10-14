@@ -9,7 +9,7 @@ tags:
 - Gegenstand/Ausrüstung
 - Gegenstand/Seltenheit/gewöhnlich
 aliases:
-- Crossbow Bolt Case
+- Bottle
 ---
 # Glasflasche
 *Abenteuerausrüstung, gewöhnlich*
@@ -20,6 +20,7 @@ _Unterklassen:_  n/v
 
 _Quellen:_ Spielerhandbuch
 
+- **Eigenschaften**: n/v
 - **Gewicht**: 1,0 kg.
 - **Kosten**: 2 Goldmünzen
 

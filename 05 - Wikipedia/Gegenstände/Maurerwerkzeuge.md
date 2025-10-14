@@ -1,15 +1,25 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-item
+Bezeichnung: Maurerwerkzeuge
+Typ: Werkzeug
+Eigenschaften: n/v 
+Kst.: 10 GM
+Gew.: 4,0 kg
 tags:
 - Quelle/5e/Players_Handbook
 - Gegenstand/Ausrüstung/Werkzeug
-aliases: ["Mason's Tools"]
+- Gegenstand/Seltenheit/gewöhnlich
+aliases:
+- Mason's Tools
 ---
-# Mason's Tools
-*Artisan's Tools*  
+# Maurerwerkzeuge
+*Werkzeug, gewöhnlich*  
+<img src="Symbolik/Gegenstände.webp" align="right" width="150">
 
-- **Cost**: 10 gp
-- **Weight**: 8.0 lbs.
+_Klassen:_ n/v 
+_Unterklassen:_  n/v
 
-*Source: SRD / Basic Rules*
+_Quellen:_ Spielerhandbuch
+
+- **Eigenschaften**: n/v
+- **Kosten**: 10 Goldmünzen
+- **Gewicht**: 4,0 kg.

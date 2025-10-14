@@ -1,16 +1,27 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-item
+Bezeichnung: Reitpferd
+Typ: Reit- und Lastentier
+Eigenschaften: n/v
+Gew.: n/v
+Kst.: 75 GM
 tags:
 - Quelle/5e/Players_Handbook
-- Gegenstand/Ausrüstung/Reittier
-aliases: ["Riding Horse"]
+- Gegenstand/Ausrüstung/Reit-und-Lastentier
+- Gegenstand/Seltenheit/gewöhnlich
+aliases:
+- Riding Horse
 ---
 # Reitpferd
-![](../../../99%20-%20Setup/Files/Bildersammlung/Symbolik/Gegenstände.webp#token)
-*Reittier*  
+*Reit- und Lasttiere*  
+<img src="Symbolik/Gegenstände.webp" align="right" width="150">
 
+_Klassen:_ n/v 
+_Unterklassen:_  n/v
+
+_Quellen:_ Spielerhandbuch
+
+- **Eigenschaften**: n/v
+- **Bewegungsrate:** 18m
+- **Traglast:** 240,0 kg
+- **Gewicht:** n/v
 - **Kosten**: 75 Goldmünzen
-- **Gewicht**: ⏤
-
-*Quelle: SRD / Grundregelwerk*

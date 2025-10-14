@@ -1,15 +1,24 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-item
+Bezeichnung: Kuh
+Typ: Handelsware
+Eigenschaften: n/v
+Kst.: 10 GM
+Gew.: n/v
 tags:
 - Quelle/5e/Players_Handbook
 - Gegenstand/Ausrüstung/Handelsgut
+- Gegenstand/Seltenheit/gewöhnlich
 aliases: ["Cow"]
 ---
 # Cow
-*Trade Good*  
+*Handelsware*
+<img src="Gegenstände.webp" align="right" width="150">
 
-- **Cost**: 10 gp
-- **Weight**: ⏤
+_Klassen:_ n/v 
+_Unterklassen:_  n/v
 
-*Source: SRD / Basic Rules*
+_Quellen:_ Spielerhandbuch
+
+- **Eigenschaften**: n/v
+- **Gewicht**: n/v
+- **Kosten**: 10 Goldmünzen

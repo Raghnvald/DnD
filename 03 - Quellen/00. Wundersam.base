@@ -19,3 +19,5 @@ views:
       - Kst.
       - Gew.
       - Eigenschaften
+    columnSize:
+      note.Typ: 61

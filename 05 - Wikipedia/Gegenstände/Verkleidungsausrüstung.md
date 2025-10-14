@@ -5,11 +5,11 @@ Eigenschaften: n/v
 Kst.: 25 GM
 Gew.: 1,0 kg
 tags:
-  - Quelle/5e/Players_Handbook
-  - Gegenstand/Ausrüstung/Werkzeug
-  - Gegenstand/Seltenheit/gewöhnlich
+- Quelle/5e/Players_Handbook
+- Gegenstand/Ausrüstung/Werkzeug
+- Gegenstand/Seltenheit/gewöhnlich
 aliases:
-  - Disguise Kit
+- Disguise Kit
 Aktiv: false
 Menge: "1"
 ---

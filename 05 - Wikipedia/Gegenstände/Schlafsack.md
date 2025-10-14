@@ -1,17 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses: dnd5e-compendium
+Bezeichnung: Schlafsack
+Typ: Abenteuerausrüstung
+Eigenschaften: n/v 
+Kst.: 1 GM
+Gew.: 3,5 kg
 tags:
   - Quelle/5e/Players_Handbook
   - Gegenstand/Ausrüstung
   - Gegenstand/Seltenheit/gewöhnlich
 aliases:
   - Bedroll
-Bezeichnung: Schlafsack
-Typ: Abenteuerausrüstung
-Eigenschaften: n/v 
-Kst.: 1 GM
-Gew.: 3,5 kg
 Aktiv: false
 Menge: "1"
 ---
@@ -25,5 +23,5 @@ _Unterklassen:_  n/v
 _Quellen:_ Spielerhandbuch
 
 - **Eigenschaften**: n/v
-- **Kosten**: 1 Goldmünze
 - **Gewicht:** 3,5 kg.
+- **Kosten**: 1 Goldmünze

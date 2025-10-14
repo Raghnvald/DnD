@@ -1,16 +1,25 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-item
+Bezeichnung: Eisen
+Typ: Handelsware
+Eigenschaften: n/v
+Kst.: 1 SM
+Gew.: 0,5 kg
 tags:
 - Quelle/5e/Players_Handbook
 - Gegenstand/Ausrüstung/Handelsgut
-aliases: ["Iron"]
+- Gegenstand/Seltenheit/gewöhnlich
+aliases:
+- Iron
 ---
 # Iron
-*Trade Good*  
-<img src="Symbolik/Gegenstände.webp" align="right" width="150">
+*Handelsware*
+<img src="Gegenstände.webp" align="right" width="150">
 
-- **Cost**: 1 sp
-- **Weight**: 1.0 lbs.
+_Klassen:_ n/v 
+_Unterklassen:_  n/v
 
-*Source: SRD / Basic Rules*
+_Quellen:_ Spielerhandbuch
+
+- **Eigenschaften**: n/v
+- **Gewicht**: 0,5 kg.
+- **Kosten**: 1 Silbermünzen

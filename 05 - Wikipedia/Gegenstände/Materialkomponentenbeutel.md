@@ -1,17 +1,27 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-item
+Bezeichnung: Materialkomponentenbeutel
+Typ: Behälter
+Eigenschaften: n/v
+Gew.: 1,0 kg
+Kst.: 25 GM
 tags:
 - Quelle/5e/Players_Handbook
 - Gegenstand/Ausrüstung
-aliases: ["Component Pouch"]
+- Gegenstand/Seltenheit/gewöhnlich
+aliases:
+- Component Pouch
 ---
 # Materialkomponentenbeutel
-*Adventuring Gear*  
+*Abenteuerausrüstung, gewöhnlich*
+<img src="Symbolik/Gegenstände.webp" align="right" width="150">
 
-- **Cost**: 25 Goldmünzen
-- **Weight**: 1,0 kg.
+_Klassen:_ n/v 
+_Unterklassen:_  n/v
 
-A component pouch is a small, watertight leather belt pouch that has compartments to hold all the material components and other special items you need to cast your spells, except for those components that have a specific cost (as indicated in a spell's description).
+_Quellen:_ Spielerhandbuch
 
-*Source: SRD / Basic Rules*
+- **Eigenschaften**: n/v
+- **Gewicht**: 1,0 kg.
+- **Kosten**: 25 Goldmünzen
+
+Ein Materialkomponentenbeutel ist eine kleine, wasserdichte Ledergürteltasche. In ihm befinden sich in separaten Fächern all jene Materialien und anderen speziellen Gegenstände, die du zum Wirken deiner Zauber benötigst. Komponenten, die in der Beschreibung des Zaubers mit Kosten aufgeführt sind, sind nicht im Beutel enthalten.

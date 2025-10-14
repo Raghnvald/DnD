@@ -1,16 +1,27 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-item
+Bezeichnung: Esel
+Typ: Reit- und Lastentier
+Eigenschaften: n/v
+Gew.: n/v
+Kst.: 8 GM
 tags:
 - Quelle/5e/Players_Handbook
-- Gegenstand/Ausrüstung/Reittier
-aliases: ["Donkey"]
+- Gegenstand/Ausrüstung/Reit-und-Lastentier
+- Gegenstand/Seltenheit/gewöhnlich
+aliases:
+- Donkey
 ---
 # Esel
-*Reittier*  
+*Reit- und Lasttiere*  
 <img src="Symbolik/Gegenstände.webp" align="right" width="150">
 
-- **Kosten**: 8 Goldmünzen
-- **Gewicht**: ⏤
+_Klassen:_ n/v 
+_Unterklassen:_  n/v
 
-*Quelle: SRD / Grundregelwerk*
+_Quellen:_ Spielerhandbuch
+
+- **Eigenschaften**: n/v
+- **Bewegungsrate:** 12m
+- **Traglast:** 210,0 kg
+- **Gewicht:** n/v
+- **Kosten**: 8 Goldmünzen

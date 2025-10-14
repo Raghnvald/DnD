@@ -1,17 +1,27 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-item
+Bezeichnung: Navigationswerkzeuge
+Typ: Werkzeug
+Eigenschaften: n/v 
+Kst.: 25 GM
+Gew.: 1,0 kg
 tags:
 - Quelle/5e/Players_Handbook
 - Gegenstand/Ausrüstung/Werkzeug
-aliases: ["Navigator's Tools"]
+- Gegenstand/Seltenheit/gewöhnlich
+aliases:
+- Navigator's Tools
 ---
-# Navigator's Tools
-*Tools*  
+# Navigationswerkzeuge
+*Werkzeug, gewöhnlich*  
+<img src="Symbolik/Gegenstände.webp" align="right" width="150">
 
-- **Cost**: 25 gp
-- **Weight**: 2.0 lbs.
+_Klassen:_ n/v 
+_Unterklassen:_  n/v
 
-This set of instruments is used for navigation at sea. Proficiency with navigator's tools lets you chart a ship's course and follow navigation charts. In addition, these tools allow you to add your proficiency bonus to any ability check you make to avoid getting lost at sea.
+_Quellen:_ Spielerhandbuch
 
-*Source: SRD / Basic Rules*
+- **Eigenschaften**: n/v
+- **Kosten**: 25 Goldmünzen
+- **Gewicht**: 1,0 kg.
+
+Dieser Satz von Instrumenten wird bei der Navigation auf See verwendet. Übung mit diesem Werkzeug lässt dich den Kurs eines Schiffes aufzeichnen und Navigationstabellen befolgen. Außerdem darfst du deinen Übungsbonus addieren, wenn du Attributs- oder Fertigkeitswürfe ablegen musst, um dich nicht auf dem Meer zu verirren.

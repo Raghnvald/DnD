@@ -1,17 +1,27 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-item
+Bezeichnung: Phiole
+Typ: Behälter
+Eigenschaften: n/v
+Gew.: n/v
+Kst.: 1 GM
 tags:
 - Quelle/5e/Players_Handbook
 - Gegenstand/Ausrüstung
-aliases: ["Vial"]
+- Gegenstand/Seltenheit/gewöhnlich
+aliases:
+- Vial
 ---
-# Vial
-*Adventuring Gear*  
+# Phiole
+*Abenteuerausrüstung, gewöhnlich*
+<img src="Symbolik/Gegenstände.webp" align="right" width="150">
 
-- **Cost**: 1 gp
-- **Weight**: ⏤
+_Klassen:_ n/v 
+_Unterklassen:_  n/v
+
+_Quellen:_ Spielerhandbuch
+
+- **Eigenschaften**: n/v
+- **Gewicht**: n/v
+- **Kosten**: 1 Goldmünze
 
 A vial can hold up to 4 ounces of liquid.
-
-*Source: SRD / Basic Rules*

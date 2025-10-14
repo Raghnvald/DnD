@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Holzstab
 Typ: Druidischer Fokus
+Schaden: 1W6 Wucht
 Eigenschaften: Vielseitig (1W8)
-Kst.: 5 GM
 Gew.: 2,0 kg
+Kst.: 5 GM
 tags:
 - Quelle/5e/Players_Handbook
 - Gegenstand/Ausrüstung
@@ -18,11 +19,9 @@ aliases:
 *Zauberfokus, druidisch,  gewöhnlich*  
 <img src="Symbolik/Gegenstände.webp" align="right" width="150">
 
-- **Schaden**:
-  - Einhändig: `1W6` Wuchtschaden
-  - Zweihändig: `1W8` Wuchtschaden
-- **Eigenschaften**: Vielseitig
-- **Kosten**: 5 Goldmünzen
+- **Reichweite:** 1,5 m
+- **Schaden:** 1W6
+- **Schadensart:** Wuchtschaden
+- **Eigenschaften**: Vielseitig (1W8)
 - **Gewicht**: 2,0 kg.
-
-*Quelle: SRD / Grundregelwerk*
+- **Kosten**: 5 Goldmünzen

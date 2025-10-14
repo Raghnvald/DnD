@@ -2,8 +2,8 @@
 Bezeichnung: Einbrecherausrüstung
 Typ: Ausrüstungspaket
 Eigenschaften: n/v
-Kst.: 16 GM
 Gew.: 22,25 kg
+Kst.: 16 GM
 tags:
 - Quelle/5e/Players_Handbook
 - Gegenstand/Ausrüstung
@@ -34,7 +34,7 @@ Beinhaltet:
 - a [Brechstange](Brechstange.md)  
 - a [Hammer](Hammer.md)  
 - 10 [pitons](Kletterhaken.md)  
-- a [hooded lantern](Abgedeckte%20Laterne.md)  
+- a [hooded lantern](Abdeckbare%20Laterne.md)  
 - 2 [flasks of oil](oil-flask.md)  
 - 5 days [rations](Tagesration.md)  
 - a [Zunderkästchen](Zunderkästchen.md)  

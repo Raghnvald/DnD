@@ -1,20 +1,29 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-item
+Bezeichnung: Faltboot
+Typ: Wundersamer Gegenstand
+Eigenschaften: n/v
+Gew.: 20,0 kg
+Kst.: 60 GM
 tags:
 - Quelle/5e/Dungeon_Masters_Guide
 - Gegenstand/Seltenheit/selten
-- Gegenstand/Tier/minor
 - Gegenstand/wundersam
-aliases: ["Folding Boat"]
+aliases:
+- Folding Boat
 ---
 # Faltboot
 *Wundersamer Gegenstand, selten*
 <img src="Gegenstände/folding-boat.webp" align="right" width="150">
 
-- **Cost**: ⏤
-- **Weight**: 4.0 lbs.
+_Klassen:_ n/v 
+_Unterklassen:_  n/v
 
+_Quellen:_ Spielerhandbuch
+
+- **Eigenschaften**: n/v
+- **Gewicht:** 2,0 kg.
+- **Kosten**: n/v
+- 
 Dieser Gegenstand sieht zunächst aus wie eine 30 Zentimeter lange, 15 Zentimeter breite und 15 Zentimeter hohe Holzkiste. Sie wiegt zwei Kilogramm und schwimmt auf Wasser. Sie kann geöffnet werden, um Gegenstände darin zu verstauen. Dieser Gegenstand hat außerdem drei Befehlswörter. Du kannst als Aktion jeweils eins davon aussprechen.
 
 Auf ein Befehlswort hin entfaltet sich die Kiste zu einem drei Meter langen, 1,2 Meter breiten und 0,6 Meter tiefen Boot. Das Boot hat ein Paar Ruder, einen Anker, einen Mast und ein Lateinersegel. Bis zu vier mittelgroße Kreaturen haben bequem darin Platz.

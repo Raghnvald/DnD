@@ -14,20 +14,15 @@ views:
       direction: ASC
     order:
       - file.name
-      - Bezeichnung
-      - Typ
       - Kst.
       - Gew.
       - Eigenschaften
     sort:
-      - property: Bezeichnung
-        direction: ASC
       - property: file.basename
         direction: ASC
     columnSize:
-      note.Bezeichnung: 177
-      note.Typ: 170
       note.Kst.: 72
+      note.Gew.: 79
     markers: bullet
     nestedProperties: false
     imageFit: contain

@@ -1,15 +1,25 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-item
+Bezeichnung: Silber
+Typ: Handelsware
+Eigenschaften: n/v
+Kst.: 5 GM
+Gew.: 0,5 kg
 tags:
 - Quelle/5e/Players_Handbook
 - Gegenstand/Ausrüstung/Handelsgut
-aliases: ["Silver"]
+- Gegenstand/Seltenheit/gewöhnlich
+aliases:
+- Silver
 ---
 # Silver
-*Trade Good*  
+*Handelsware*
+<img src="Gegenstände.webp" align="right" width="150">
 
-- **Cost**: 5 gp
-- **Weight**: 1.0 lbs.
+_Klassen:_ n/v 
+_Unterklassen:_  n/v
 
-*Source: SRD / Basic Rules*
+_Quellen:_ Spielerhandbuch
+
+- **Eigenschaften**: n/v
+- **Gewicht**: 0,5 kg.
+- **Kosten**: 5 Goldmünzen

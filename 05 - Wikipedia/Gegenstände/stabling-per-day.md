@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
 - Quelle/5e/Players_Handbook
-- Gegenstand/Ausrüstung/Zaumzeug-und-Harnisch
+- Gegenstand/Ausrüstung/Zaumzeug-Harnisch-gezogene-Fahrzeuge
 aliases: ["Stabling (per day)"]
 ---
 # Stabling (per day)

@@ -1,17 +1,25 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-item
+Bezeichnung: Geschirr und Zaumzeug
+Typ: Zaumzeug, Harnisch und gezogene Fahrzeuge
+Eigenschaften: n/v
+Gew.: 0,5 kg
+Kst.: 2 GM
 tags:
 - Quelle/5e/Players_Handbook
-- Gegenstand/Ausrüstung/Zaumzeug-und-Harnisch
+- Gegenstand/Ausrüstung/Zaumzeug-Harnisch-gezogene-Fahrzeuge
 - Gegenstand/Seltenheit/gewöhnlich
-aliases: ["Bit and bridle"]
+aliases:
+- Bit and bridle
 ---
 # Geschirr und Zaumzeug
+*Zaumzeug, Harnisch und gezogene Fahrzeuge*  
 <img src="Symbolik/Gegenstände.webp" align="right" width="150">
-*Zaumzeug und Harnische, gewöhnlich*  
 
+_Klassen:_ n/v 
+_Unterklassen:_  n/v
+
+_Quellen:_ Spielerhandbuch
+
+- **Eigenschaften**: n/v
 - **Kosten**: 2 Goldmünzen
-- **Gewicht**: 0,5 kg.
-
-*Quelle: SRD / Grundregelwerk*
+- **Gewicht:** 0,5 kg.

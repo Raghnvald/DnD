@@ -1,17 +1,27 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-item
+Bezeichnung: Tonkrug
+Typ: Behälter
+Eigenschaften: n/v
+Gew.: 2,0 kg
+Kst.: 2 KM
 tags:
 - Quelle/5e/Players_Handbook
 - Gegenstand/Ausrüstung
-aliases: ["Tankard"]
+- Gegenstand/Seltenheit/gewöhnlich
+aliases:
+- Jug
 ---
 # Tonkrug
-*Adventuring Gear*  
+*Abenteuerausrüstung, gewöhnlich*
+<img src="Symbolik/Gegenstände.webp" align="right" width="150">
 
-- **Cost**: 2 cp
-- **Weight**: 1.0 lbs.
+_Klassen:_ n/v 
+_Unterklassen:_  n/v
 
-A tankard holds 1 pint of liquid.
+_Quellen:_ Spielerhandbuch
 
-*Source: SRD / Basic Rules*
+- **Eigenschaften**: n/v
+- **Gewicht**: 2,0 kg.
+- **Kosten**: 2 Kupfermünzen
+
+Ein Tonkrug  fasst 4,0 Liter Flüssigkeit.

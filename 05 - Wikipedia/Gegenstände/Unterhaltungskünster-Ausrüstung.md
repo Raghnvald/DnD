@@ -1,17 +1,28 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-item
+Bezeichnung: Unterhaltungskünster-Ausrüstung
+Typ: Ausrüstungspaket
+Eigenschaften: n/v
+Gew.: 19,0 kg
+Kst.: 40 GM
 tags:
 - Quelle/5e/Players_Handbook
 - Gegenstand/Ausrüstung
-aliases: ["Entertainer's Pack"]
+- Gegenstand/Seltenheit/gewöhnlich
+aliases:
+- Entertainer's Pack
 ---
 # Unterhaltungskünster-Ausrüstung
-![](../../../99%20-%20Setup/Files/Bildersammlung/Symbolik/Gegenstände.webp#token)
-*Abenteuerausrüstung, gewöhnlich*  
+*gewöhnliche Abenteuerausrüstung*  
+<img src="Symbolik/Gegenstände.webp" align="right" width="150">
 
-- **Kosten**: 40 Goldmünzen
+_Klassen:_ n/v 
+_Unterklassen:_  n/v
+
+_Quellen:_ Spielerhandbuch
+
+- **Eigenschaften**: n/v
 - **Gewicht**: 19,0 kg.
+- **Kosten**: 40 Goldmünzen
 
 Beinhaltet:
 
@@ -21,6 +32,4 @@ Beinhaltet:
 - 5 [Kerzen](Kerze.md)  
 - 5 [Tagesrationen](Tagesration.md)  
 - ein [Wasserschlauch](Wasserschlauch.md)  
-- ein [Verkleidungsausrüstung](Verkleidungsausrüstung.md)  
-
-*Quelle: SRD / Grundregelwerk*
+- ein [Verkleidungsausrüstung](Verkleidungsausrüstung.md) 

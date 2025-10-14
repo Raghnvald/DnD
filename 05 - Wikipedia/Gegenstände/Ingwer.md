@@ -1,15 +1,25 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-item
+Bezeichnung: Ingwer
+Typ: Handelsware
+Eigenschaften: n/v
+Kst.: 1 GM
+Gew.: 0,5 kg
 tags:
 - Quelle/5e/Players_Handbook
 - Gegenstand/Ausrüstung/Handelsgut
-aliases: ["Ginger"]
+- Gegenstand/Seltenheit/gewöhnlich
+aliases:
+- Ginger
 ---
 # Ingwer
-*Trade Good*  
+*Handelsware*
+<img src="Gegenstände.webp" align="right" width="150">
 
-- **Cost**: 1 gp
-- **Weight**: 1.0 lbs.
+_Klassen:_ n/v 
+_Unterklassen:_  n/v
 
-*Source: SRD / Basic Rules*
+_Quellen:_ Spielerhandbuch
+
+- **Eigenschaften**: n/v
+- **Gewicht**: 0,5 kg.
+- **Kosten**: 1 Goldmünzen
