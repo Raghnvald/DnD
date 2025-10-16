@@ -13,7 +13,6 @@ views:
       - Wirkungsdauer
       - Angriff
       - Schaden
-    rowHeight: medium
   - type: table
     name: Bardenzauber Grad 1
     filters:

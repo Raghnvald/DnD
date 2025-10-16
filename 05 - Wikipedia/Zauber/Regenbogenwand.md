@@ -1,61 +1,64 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-spell
+Bezeichnung: Regenbogenwand
+Zeitaufwand: 1 Aktion
+Reichweite: 18 Meter
+Komponenten: V, G
+Wirkungsdauer: 10 Minuten
+Angriff: n/a
+Schaden: n/a
 tags:
 - Quelle/5e/Players_Handbook
 - Klasse/Magier
+- Zauber/Original/Prismatic_Wall
 - Zauber/Grad/9
 - Zauber/Schule/Bann
-aliases: ["Prismatic Wall"]
+aliases:
+- Prismatic Wall
 ---
-# Prismatic Wall
-*9th-level, Abjuration*  
+# Regenbogenwand
+_Bann des 9.Grades_
 
-- **Casting time:** 1 action
-- **Range:** 60 feet
-- **Components:** V, S
-- **Duration:** 10 minute
+_Klassen:_ Magier, Waldläufer
+_Unterklassen:_
 
-A shimmering, multicolored plane of light forms a vertical opaque wall—up to 90 feet long, 30 feet high, and 1 inch thick—centered on a point you can see within range. Alternatively, you can shape the wall into a sphere up to 30 feet in diameter centered on a point you choose within range. The wall remains in place for the duration. If you position the wall so that it passes through a space occupied by a creature, the spell fails, and your action and the spell slot are wasted.
+_Quellen:_ Spielerhandbuch
+ 
+- **Zeitaufwand:** 1 Aktion
+- **Reichweite / Fläche:** 18 Meter
+- **Komponenten:** V, G
+- **Wirkungsdauer:** 10 Minuten
+- **Angriff / Rettung:** n/a
+- **Schaden / Effekt:**  n/a
 
-The wall sheds bright light out to a range of 100 feet and dim light for an additional 100 feet. You and creatures you designate at the time you cast the spell can pass through and remain near the wall without harm. If another creature that can see the wall moves to within 20 feet of it or starts its turn there, the creature must succeed on a Constitution saving throw or become [blinded](rules/conditions.md#blinded) for 1 minute.
+Du erschaffst eine schimmernde, mehrfarbige Barriere aus Licht, die um einen Punkt in Reichweite zentriert ist, den du sehen kannst. Die Barriere hat die Form einer senkrechten Wand von bis zu 27 m Länge, 9 m Höhe und 2,5 cm Dicke. Alternativ kannst du die Barriere als Sphäre mit bis zu 9 m Durchmesser formen, die um einen Punkt deiner Wahl in Reichweite zentriert ist. Die Barriere bleibt für die Wirkungsdauer bestehen. Wenn du sie so positionierst, dass sie einen Bereich schneidet, der von einer Kreatur besetzt ist, misslingt der Zauber und deine Aktion und der Zauberplatz sind vergeudet.
 
-The wall consists of seven layers, each with a different color. When a creature attempts to reach into or pass through the wall, it does so one layer at a time through all the wall's layers. As it passes or reaches through each layer, the creature must make a Dexterity saving throw or be affected by that layer's properties as described below.
+Die Barriere strahlt innerhalb von 30 m helles Licht und in einem Radius von weiteren 30 m dämmriges Licht aus. Du und Kreaturen, die du beim Wirken des Zaubers bestimmst, können die Barriere durchqueren und sich ohne Schaden in ihrer Nähe aufhalten. Bewegt sich eine andere Kreatur, die die Barriere sehen kann, bis auf 6 m oder näher an diese heran oder beginnt ihren Zug dort, muss sie einen `Konstitutions-Rettungswurf` ablegen. Bei einem Misserfolg wird sie für 1 Minute blind.
 
-The wall can be destroyed, also one layer at a time, in order from red to violet, by means specific to each layer. Once a layer is destroyed, it remains so for the duration of the spell. An [antimagic field](Antimagisches%20Feld.md) has no effect on a prismatic wall.
+Die Barriere besteht aus sieben Schichten, die jeweils eine andere Farbe besitzen. Wenn eine Kreatur versucht, durch die Barriere zu greifen oder zu gehen, muss sie jede Schicht einzeln überwinden, bis sie das Innere der Barriere erreicht. Für jede Schicht muss der Kreatur ein `Geschicklichkeits-Rettungswurf` gelingen, um nicht die unten beschriebenen Effekte zu erleiden.
 
-## Red
+Die Wand kann zerstört werden, eine Schicht nach der an deren (von der roten zur violetten), auf eine Weise, die von der Farbe der Schicht abhängt (siehe unten). Sobald eine Schicht zerstört ist, bleibt sie es für die Wirkungsdauer des Zaubers. Der Zauber [[Antimagisches Feld]] hat keinen Effekt auf die Barriere und [[Magie bannen]] kann nur die violette Schicht beeinflussen.
 
-The creature takes `10d6` fire damage on a failed save, or half as much damage on a successful one. While this layer is in place, nonmagical ranged attacks can't pass through the wall. The layer can be destroyed by dealing at least 25 cold damage to it.
+## 1. Rot
+Bei einem misslungenen Rettungswurf erleidet die Kreatur `10W6` Feuerschaden oder halb so viel Schaden bei einem erfolgreichen Rettungswurf. Solange diese Schicht existiert, können nichtmagische Fernkampfangriffe die Barriere nicht durchdringen. Die Schicht wird durch mindestens 25 Punkte Kälteschaden zerstört.
 
-## Orange
+## 2. Orange
+Bei einem misslungenen Rettungswurf erleidet die Kreatur `10W6` Säureschaden oder halb so viel Schaden bei einem erfolgreichen Rettungswurf. Solange diese Schicht existiert, können magische Fernkampfangriffe die Barriere nicht durchdringen. Die Schicht wird durch einen starken Wind zerstört.
 
-The creature takes `10d6` acid damage on a failed save, or half as much damage on a successful one. While this layer is in place, magical ranged attacks can't pass through the wall. The layer is destroyed by a strong wind.
+## 3. Gelb
+Bei einem misslungenen Rettungswurf erleidet die Kreatur `10W6` Blitzschaden oder halb so viel Schaden bei einem erfolgreichen Rettungswurf. Die Schicht wird durch mindestens 60 Punkte Energieschaden zerstört.
 
-## Yellow
+## 4. Grün
+Bei einem misslungenen Rettungswurf erleidet die Kreatur `10W6` Giftschaden oder halb so viel Schaden bei einem erfolgreichen Rettungswurf. Der Zauber Wände passieren oder ein anderer Spruch des gleichen oder eines höheren Grades, der ein Portal auf einer festen Oberfläche erzeugen kann, zerstört diese Schicht.
 
-The creature takes `10d6` lightning damage on a failed save, or half as much damage on a successful one. This layer can be destroyed by dealing at least 60 force damage to it.
+## 5. Blau
+Bei einem misslungenen Rettungswurf erleidet die Kreatur `10W6` Kälteschaden oder halb so viel Schaden bei einem erfolgreichen Rettungswurf. Die Schicht wird durch mindestens 25 Punkte Feuerschaden zerstört.
 
-## Green
+## 6. Indigo
+Bei einem misslungenen Rettungswurf wird die Kreatur [[01. Grundregelwerk 2014/Anhang PH-A#Festgesetzt|festgesetzt]]. Sie muss dann am Ende eines jeden ihrer Züge einen Konstitutionsrettungswurf ablegen. Bei drei Erfolgen endet der Zauber. Misslingen hingegen drei Rettungswürfe, wird die Kreatur dauerhaft in Stein verwandelt und unterliegt dem Zustand [[01. Grundregelwerk 2014/Anhang PH-A#Versteinert|versteinert]]. Die Erfolge und Misserfolge müssen nicht direkt aufeinanderfolgen. Notiere dir die entsprechende Anzahl, bis der Schwellenwert von drei in einer Art erreicht ist.
 
-The creature takes `10d6` poison damage on a failed save, or half as much damage on a successful one. A [Wände-passieren](Wände-passieren.md) spell, or another spell of equal or greater level that can open a portal on a solid surface, destroys this layer.
+Solange diese Schicht existiert, können keine Zauber durch die Barriere gewirkt werden. Die Schicht wird von hellem Licht zerstört, das durch den Zauber [[Tageslicht]] oder einen ähnlichen Spruch des gleichen oder eines höheren Grades erzeugt wird.
 
-## Blue
+## 7. Violett
+Bei einem misslungenen Rettungswurf ist die Kreatur [[01. Grundregelwerk 2014/Anhang PH-A#Blind|blind]]. Sie muss dann zu Beginn deines nächsten Zuges einen Weisheitsrettungswurf durchführen. Bei einem Erfolg endet die Blindheit. Misslingt der Rettungswurf, wird die Kreatur auf eine andere Existenzebene nach Wahl des SL verbannt und ist nicht mehr [[01. Grundregelwerk 2014/Anhang PH-A#Blind|blind]]. (Für gewöhnlich wird eine Kreatur, die sich auf einer Ebene befindet, die nicht ihre Heimat ist, nach Hause gebracht, während andere Kreaturen üblicherweise auf die Astral- oder Ätherebene transportiert werden.)
 
-The creature takes `10d6` cold damage on a failed save, or half as much damage on a successful one. This layer can be destroyed by dealing at least 25 fire damage to it.
-
-## Indigo
-
-On a failed save, the creature is [restrained](rules/conditions.md#restrained). It must then make a Constitution saving throw at the end of each of its turns. If it successfully saves three times, the spell ends. If it fails its save three times, it permanently turns to stone and is subjected to the [petrified](rules/conditions.md#petrified) condition. The successes and failures don't need to be consecutive; keep track of both until the creature collects three of a kind.
-
-While this layer is in place, spells can't be cast through the wall. The layer is destroyed by bright light shed by a [Tageslicht](Tageslicht.md) spell or a similar spell of equal or higher level.
-
-## Violet
-
-On a failed save, the creature is [blinded](rules/conditions.md#blinded). It must then make a Wisdom saving throw at the start of your next turn. A successful save ends the blindness. If it fails that save, the creature is transported to another plane of the DM's choosing and is no longer [blinded](rules/conditions.md#blinded). (Typically, a creature that is on a plane that isn't its home plane is banished home, while other creatures are usually cast into the Astral or Ethereal planes.) This layer is destroyed by a [dispel magic](Magie-bannen.md) spell or a similar spell of equal or higher level that can end spells and magical effects.
-
-## Summary
-
-**Classes**: [Wizard](../Klassen/Magier.md)
-
-*Source: SRD / Basic Rules*
+Diese Schicht wird von dem Zauber [[Magie bannen]] zerstört oder einem ähnlichen Spruch des gleichen oder eines höheren Grades, der Zauber und magische Effekte aufheben kann.

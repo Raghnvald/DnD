@@ -1,4 +1,11 @@
 ---
+Bezeichnung: Ansteckung
+Zeitaufwand: 1 Aktion
+Reichweite: Berührung
+Komponenten: V, G
+Wirkungsdauer: 7 Tage
+Angriff: Nah
+Schaden: n/a
 tags:
 - Quelle/5e/Players_Handbook
 - Klasse/Kleriker
@@ -8,13 +15,6 @@ tags:
 - Zauber/Schule/Nekromantie
 aliases:
 - Contagion
-Bezeichnung: Ansteckung
-Zeitaufwand: 1 Aktion
-Reichweite: Berührung
-Komponenten: V, G
-Wirkungsdauer: 7 Tage
-Angriff: Nah
-Schaden: n/a
 ---
 # Ansteckung
 _Nekromantie des 5. Grades_

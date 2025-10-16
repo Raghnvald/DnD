@@ -1,69 +1,76 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-spell
+Bezeichnung: Weihen
+Zeitaufwand: 24 Stunden
+Reichweite: Berührung
+Komponenten: V, G, M
+Wirkungsdauer: bis der Zauber gebannt wird
+Angriff: CHA
+Schaden: n/a
 tags:
 - Quelle/5e/Players_Handbook
 - Klasse/Kleriker
 - Zauber/Grad/5
 - Zauber/Schule/Hervorrufung
-aliases: ["Hallow"]
+aliases:
+- Hallow
 ---
-# Hallow
-*5th-level, Evocation*  
+# Weihen
+_Hervorrufung des 5. Grades_
 
-- **Casting time:** 24 hour
-- **Range:** Touch
-- **Components:** V, S, herbs, oils, and incense worth at least 1,000 gp, which the spell consumes
-- **Duration:** Until dispelled
+_Klassen:_ 
+_Unterklassen:_  
 
-You touch a point and infuse an area around it with holy (or unholy) power. The area can have a radius up to 60 feet, and the spell fails if the radius includes an area already under the effect a hallow spell. The affected area is subject to the following effects.
+_Quellen:_ Spielerhandbuch
 
-First, celestials, elementals, fey, fiends, and undead can't enter the area, nor can such creatures charm, frighten, or possess creatures within it. Any creature [charmed](rules/conditions.md#charmed), [frightened](rules/conditions.md#frightened), or possessed by such a creature is no longer [charmed](rules/conditions.md#charmed), [frightened](rules/conditions.md#frightened), or possessed upon entering the area. You can exclude one or more of those types of creatures from this effect.
+- **Zeitaufwand:** 24 Stunden
+- **Reichweite / Fläche:** Berührung
+- **Komponenten:** V, G, M (Kräuter, Ole und Weihrauch im Wert von mindestens 1.000 GM, die beim Wirken des Zaubers verbraucht werden)
+- **Wirkungsdauer:** bis der Zauber gebannt wird
+- **Angriff / Rettung:** Charisma
+- **Schaden / Effekt:**  n/a
 
-Second, you can bind an extra effect to the area. Choose the effect from the following list, or choose an effect offered by the DM. Some of these effects apply to creatures in the area; you can designate whether the effect applies to all creatures, creatures that follow a specific deity or leader, or creatures of a specific sort, such as orcs or trolls. When a creature that would be affected enters the spell's area for the first time on a turn or starts its turn there, it can make a Charisma saving throw. On a success, the creature ignores the extra effect until it leaves the area.
+Du berührst einen Punkt und erfüllst den ihn umgebenden Bereich im Radius von bis zu 18 m mit heiliger (oder unheiliger) Macht. Der Zauber misslingt, wenn der Bereich teilweise oder ganz bereits unter dem Effekt dieses Zaubers steht, also schon geweiht oder entweiht wurde. Der betroffene Bereich unterliegt den folgenden Effekten.
 
-## Courage
+Himmlische Wesen, Feenwesen, Unholde und Untote können den Bereich nicht betreten und Kreaturen in seinem Inneren weder bezaubern und verängstigen noch besessen machen. Jede Bezauberung, Verängstigung oder Bessenheit, die von solch einer Kreatur hervorgerufen wurde, endet sofort, wenn der Betroffene den Bereich betritt. Du kannst entscheiden, dass eine oder mehrere dieser Arten von Kreaturen nicht vom Effekt des Zaubers betroffen werden.
 
-Affected creatures can't be [frightened](rules/conditions.md#frightened) while in the area.
+Außerdem darfst du einen zusätzlichen Effekt an den Bereich des Zaubers binden. Wähle einen der unten aufgeführten Effekte oder einen, den dein SL dir als passend anbietet. Einige dieser Effekte wirken auf Kreaturen im Bereich des Zaubers: In diesem Fall kannst du festlegen, ob sie auf alle Kreaturen wirken sollen oder nur auf jene, die einer bestimmten Gottheit dienen, einem bestimmten Anführer folgen oder von einer bestimmten Art sind (wie Orks oder Trolle). Wenn eine betroffene Kreatur das erste Mal in einem Zug den Bereich des Zaubers betritt oder ihren Zug dort beginnt, muss sie einen `Charisma-Rettungswurf` ablegen. Bei einem Erfolg ignoriert die Kreatur den Zusatzeffekt, bis sie den Bereich wieder verlässt.
 
-## Darkness
+## Tapferkeit:
 
-Darkness fills the area. Normal light, as well as magical light created by spells of a lower level than the slot you used to cast this spell, can't illuminate the area.
+Betroffene Kreaturen können nicht verängstigt werden, solange sie sich im Bereich auftialten.
 
-## Daylight
+## Dunkelheit:
 
-Bright light fills the area. Magical darkness created by spells of a lower level than the slot you used to cast this spell can't extinguish the light.
+Dunkelheit erfüllt den Bereich. Natürliches Licht kann die Umgebung nicht erhellen, ebenso wenig magisches Licht, das durch einen Zauber erzeugt wurde, dessen Grad niedriger war als der, mit dem Weihen gewirkt wurde.
 
-## Energy Protection
+## Tageslicht:
 
-Affected creatures in the area have resistance to one damage type of your choice, except for bludgeoning, piercing, or slashing.
+Helles Licht erfüllt den Bereich. Es durchdringt auch magische Dunkelheit, die durch einen Zauber erzeugt wurde, dessen Grad niedriger war als der, mit dem Weihen gewirkt wurde.
 
-## Energy Vulnerability
+## Schutz:
 
-Affected creatures in the area have vulnerability to one damage type of your choice, except for bludgeoning, piercing, or slashing.
+Betroffene Kreaturen im Bereich erhalten eine Resistenz gegen eine Schadensart deiner Wahl, mit Ausnahme von Wucht, Stich oder Hiebschaden.
 
-## Everlasting Rest
+## Empfindlichkeit:
 
-Dead bodies interred in the area can't be turned into undead.
+Betroffene Kreaturen im Bereich erhalten eine Anfälligkeit gegenüber einer Schadensart deiner Wahl, mit Ausnahme von Wucht, Stich oder Hiebschaden.
 
-## Extradimensional Interference
+## Immerwährende Ruhe:
 
-Affected creatures can't move or travel using teleportation or by extradimensional or interplanar means.
+Leichname, die innerhalb des Bereichs begraben werden, können nicht in Untote verwandelt werden.
 
-## Fear
+## Extradimensionale Interferenz:
 
-Affected creatures are [frightened](rules/conditions.md#frightened) while in the area.
+Betroffene Kreaturen können nicht mittels Teleportation oder auf extradimensionalem oder interplanarem Weg reisen.
 
-## Silence
+## Furcht:
 
-No sound can emanate from within the area, and no sound can reach into it.
+Betroffene Kreaturen werden verängstigt, solange sie sich im Bereich aufhalten.
 
-## Tongues
+## Stille:
 
-Affected creatures can communicate with any other creature in the area, even if they don't share a common language.
+Aus dem Bereich können keine Geräusche dringen, ebensowenig wie in ihn hinein.
 
-## Summary
+## Zungen:
 
-**Classes**: [Cleric](../Klassen/Kleriker.md)
-
-*Source: SRD / Basic Rules*
+Betroffene Kreaturen können mit anderen Kreaturen im Bereich kommunizieren, selbst wenn sie keine gemeinsame Sprache sprechen.

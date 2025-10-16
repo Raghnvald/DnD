@@ -1,32 +1,42 @@
 ---
+Bezeichnung: Auferstehung
+Zeitaufwand: 1 Stunde
+Reichweite: Berührung
+Komponenten: V, G, M
+Wirkungsdauer: unmittelbar
+Angriff: n/a
+Schaden: n/a
 tags:
 - Quelle/5e/Players_Handbook
 - Klasse/Barde
 - Klasse/Kleriker
+- Zauber/Original/Resurrection
 - Zauber/Grad/7
 - Zauber/Schule/Nekromantie 
 aliases:
 - Resurrection
 ---
+# Auferstehung
+_Nekromantie des 7. Grades_
 
-# Resurrection
-_7th-level, Necromancy_
+_Klassen:_ Barde, Kleriker
+_Unterklassen:_  
 
-*   **Casting time:** 1 hour
-*   **Range:** Touch
-*   **Components:** V, S, a diamond worth at least 1,000 gp, which the spell consumes
-*   **Duration:** Instantaneous
+_Quellen:_ Spielerhandbuch
 
-You touch a dead creature that has been dead for no more than a century, that didn't die of old age, and that isn't undead. If its soul is free and willing, the target returns to life with all its hit points.
+- **Zeitaufwand:** 1 Stunde
+- **Reichweite / Fläche:** Berührung
+- **Komponenten:** V, G, M (ein Diamant im Wert von mindestens 1.000 GM, der beim Wirken des Zaubers verbraucht wird)
+- **Wirkungsdauer:** unmittelbar
+- **Angriff / Rettung:** n/a
+- **Schaden / Effekt:**  n/a
 
-This spell neutralizes any poisons and cures normal diseases afflicting the creature when it died. It doesn't, however, remove magical diseases, curses, and the like; if such effects aren't removed prior to casting the spell, they afflict the target on its return to life.
+Du berührst eine verstorbene Kreatur, die nicht länger als 100 Jahre tot ist, nicht an Altersschwäche starb und nicht untot war. Wenn die Seele des Ziels frei und willig ist, kehrt die Kreatur mit allen Trefferpunkten ins Leben zurück.
 
-This spell closes all mortal wounds and restores any missing body parts.
+Der Zauber neutralisiert alle Gifte und heilt alle natürlichen Krankheiten, welche die Kreatur bei ihrem Tod plagten. Magische Krankheiten, Flüche oder ähnliche Effekte kann er aufheben. Wenn diese nicht vor Wirken des Zaubers entfernt werden, treten sie wieder in Kraft, sobald die Kreatur zu neuem Leben erweckt ist.
 
-Coming back from the dead is an ordeal. The target takes a −4 penalty to all attack rolls, saving throws, and ability checks. Every time the target finishes a long rest, the penalty is reduced by 1 until it disappears.
+Der Zauber schließt alle tödlichen Wunden und stellt alle fehlenden Gliedmaßen wieder her.
 
-Casting this spell to restore life to a creature that has been dead for one year or longer taxes you greatly. Until you finish a long rest, you can't cast spells again, and you have disadvantage on all attack rolls, ability checks, and saving throws.
+Von den Toten zurückzukehren, ist eine wahre Prüfung für das Ziel. Es erleidet einen Malus von -4 auf alle Angriffs, Rettungs- und Attributswürfe. Immer wenn es eine lange Rast beendet, reduziert sich der Malus um 1, bis er aufgehoben ist.
 
-**Classes**: [Bard](05%20-%20Wikipedia/Charakteroptionen/02.%20Klassen/Barde.md), [Cleric](../Charakteroptionen/Klassen/Kleriker.md)
-
-_Source: SRD / Basic Rules_
+Wirkst du den Zauber, um eine Kreatur zum Leben zu erwecken, die länger als 1 Jahr tot ist, bedeutet das eine große Anstrengung für dich. Bis du eine lange Rast beendet hast, kannst du keine weiteren Zauber wirken und bist im Nachteil bei allen Attributs-, Angriffs- und Rettungswürfen.

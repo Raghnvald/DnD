@@ -18,7 +18,7 @@ aliases:
 - Alarm
 ---
 # Alarm
-_Bann des 1.Grades (Ritual)_
+_Bann des 1. Grades (Ritual)_
 
 _Klassen:_ Magier, Waldläufer
 _Unterklassen:_

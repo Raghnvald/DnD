@@ -1,27 +1,37 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-spell
+Bezeichnung: Regeneration
+Zeitaufwand: Berührung
+Reichweite: 9 Meter
+Komponenten: V, G, M
+Wirkungsdauer: 1 Stunden
+Angriff: n/a
+Schaden: 4W8+15 Heilung
 tags:
 - Quelle/5e/Players_Handbook
 - Klasse/Barde
-- Klasse/Kleriker
 - Klasse/Druide
+- Klasse/Kleriker
+- Zauber/Original/Regenerate
 - Zauber/Grad/7
 - Zauber/Schule/Verwandlung
-aliases: ["Regenerate"]
+aliases:
+- Regenerate
 ---
-# Regenerate
-*7th-level, Transmutation*  
+# Regeneration
+_Verwandlung des 7. Grades_
 
-- **Casting time:** 1 minute
-- **Range:** Touch
-- **Components:** V, S, a prayer wheel and holy water
-- **Duration:** 1 hour
+_Klassen:_ Barde, Druide, Kleriker
+_Unterklassen:_ n/v
 
-You touch a creature and stimulate its natural healing ability. The target regains `4d8 + 15` hit points. For the duration of the spell, the target regains 1 hit point at the start of each of its turns (10 hit points each minute).
+_Quellen:_ Spielerhandbuch
+ 
+- **Zeitaufwand:** 1 Minute
+- **Reichweite / Fläche:** Berührung
+- **Komponenten:** V, G, M (ein Gebetsrad und Weihwasser)
+- **Wirkungsdauer:** 1 Stunden
+- **Angriff / Rettung:** n/a
+- **Schaden / Effekt:**  n/a
 
-The target's severed body members (fingers, legs, tails, and so on), if any, are restored after 2 minutes. If you have the severed part and hold it to the stump, the spell instantaneously causes the limb to knit to the stump.
+Du berührst eine Kreatur und regst ihre natürliche Heilung an. Das Ziel erhält `4W8 + 15` Trefferpunkte zurück. Für die Wirkungsdauer des Zaubers erhält das Ziel außerdem 1 Trefferpunkt zu Beginn eines jeden seiner Züge zurück (10 Trefferpunkte pro Minute).
 
-**Classes**: [Bard](05%20-%20Wikipedia/Charakteroptionen/02.%20Klassen/Barde.md), [Cleric](../Charakteroptionen/Klassen/Kleriker.md), [Druid](Dungeons%20&%20Dragons/Wikipedia%20der%20Vergessenen%20Reiche/Kompendium%20der%20Vergessenen%20Reiche/Klassen/druid.md)
-
-*Source: SRD / Basic Rules*
+Abgetrennte Gliedmaßen (Finger, Beine und so weiter) werden nach 2 Minuten wiederhergestellt. Hältst du eine abgetrennte Gliedmaße an den Stumpf, lässt der Zauber sie sofort wieder anwachsen.

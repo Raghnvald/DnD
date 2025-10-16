@@ -27,7 +27,7 @@ Dunkle Zauberwirker stellen Flammenschädel aus den Überresten toter Zauberer h
 
 **_In Flammen gehüllt._** Das Feuer, das einen Flammenschädel einhüllt, brennt ununterbrochen und gibt ein helles Licht ab, das die Kreatur kontrolliert. Sie setzt diese Flammen als Waffe ein und bündelt sie, um sie als feurige Strahlen aus ihren Augenhöhlen zu entlassen.
 
-**_Eldritchische Verjüngung._** Die zersplitterten Fragmente eines Flammenschädels regenerieren sich, es sei denn, sie werden mit Weihwasser bespritzt oder mit einem Zauberspruch wie „[Magie bannen](../../Zauber/Magie-bannen.md)“ oder „[Fluch brechen](../../Zauber/Fluch%20brechen.md)“ belegt. Wenn er seinen Zweck nicht mehr erfüllen kann, ist der neu geformte Flammenschädel niemandem mehr verpflichtet und wird selbstständig.
+**_Eldritchische Verjüngung._** Die zersplitterten Fragmente eines Flammenschädels regenerieren sich, es sei denn, sie werden mit Weihwasser bespritzt oder mit einem Zauberspruch wie „[Magie bannen](Magie%20bannen.md)“ oder „[Fluch brechen](../../Zauber/Fluch%20brechen.md)“ belegt. Wenn er seinen Zweck nicht mehr erfüllen kann, ist der neu geformte Flammenschädel niemandem mehr verpflichtet und wird selbstständig.
 
 **_Untotes Wesen._** Ein Flammenschädel braucht weder Luft, noch Essen, Trinken oder Schlaf.
 

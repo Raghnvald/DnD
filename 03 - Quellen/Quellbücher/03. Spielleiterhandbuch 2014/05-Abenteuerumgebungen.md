@@ -969,7 +969,7 @@ _Magische Falle_
 Diese Falle wird ausgelöst, indem ein Eindringling auf eine versteckte Druckplatte tritt, woraufhin eine magische Feuerzunge aus einer nahegelegenen Statue hervorschießt. Die Statue kann alles Möglich darstellen, zum Beispiel einen Drachen oder einen zauberwirkenden Magier.
 $\quad$Der SG, um die Druckplatte und leichte Brandspuren am Boden und an den Wänden zu bemerken, beträgt 15. Ein Zauber oder ein anderer Effekt, der Magie erkennen kann, wie zum Beispiel Magie entdecken, zeigt eine magische Hervorrufungs-Aura um die Statue herum an.
 $\quad$Die Falle wird ausgelöst, wenn ein Gewicht von mehr als 20 Pfund auf die Druckplatte drückt, woraufhin die Statue einen 9 m Feuerkegel ausstößt. Jede Kreatur in diesem Kegel muss einen SG 13 Geschicklichkeits-Rettungswurf ablegen. Bei einem Fehlschlag erleidet sie 22 (`4W10`) Feuerschaden, bei einem Erfolg die Hälfte davon.
-$\quad$Wenn ein Eisennagel oder ein ähnliches Objekt unter der Druckplatte platziert wird, kann sie nicht ausgelöst werden. Ein erfolgreicher Zauber [Magie bannen](../../../05%20-%20Wikipedia/Zauber/Magie-bannen.md) (SG 13), der auf die Statue gewirkt wird, zerstört die Falle.
+$\quad$Wenn ein Eisennagel oder ein ähnliches Objekt unter der Druckplatte platziert wird, kann sie nicht ausgelöst werden. Ein erfolgreicher Zauber [Magie bannen](Magie%20bannen.md) (SG 13), der auf die Statue gewirkt wird, zerstört die Falle.
 
 #### Giftpfeile
 _Mechanische Falle_
@@ -1001,7 +1001,7 @@ $\quad$**Stachelgrube.** Bei dieser Grube handelt es sich um eine einfache, vers
 _Magische Falle_
 Magische undurchdringliche Dunkelheit füllt das aufgerissene Maul eines in eine Wand gemeißelten Steingesichts aus. Das Maul hat einen Durchmesser von 60 cm und ist nahezu rund. Kein Geräusch kommt auf ihm heraus, kein Licht kann sein Inneres erleuchten und alle Materie, die hineinreicht, wird sofort ausgelöscht.
 $\quad$Ein erfolgreicher Intelligenzwurf (Arkanes) gegen SG 20 lässt feststellen, dass das Maul eine Kugel der Auslöschung beinhaltet, die nicht kontrolliert oder bewegt werden kann. Ansonsten entspricht sie einer gewöhnlichen Kugel der Auslöschung, wie sie in Kapitel 7 „Schätze" beschrieben wird.
-$\quad$Manche Varianten der Falle beinhalten eine Verzauberung auf dem Steingesicht, die bei bestimmten Kreaturen einen Drang auslöst, sich dem Gesicht zu nähern und in das Maul zu klettern. Diese Wirkung entspricht dem Sympathie-Aspekt der Zaubers Antipathie/Sympathie. Ein erfolgreicher Zauber [Magie bannen](../../../05%20-%20Wikipedia/Zauber/Magie-bannen.md) (SG 18) entfernt diese Verzauberung.
+$\quad$Manche Varianten der Falle beinhalten eine Verzauberung auf dem Steingesicht, die bei bestimmten Kreaturen einen Drang auslöst, sich dem Gesicht zu nähern und in das Maul zu klettern. Diese Wirkung entspricht dem Sympathie-Aspekt der Zaubers Antipathie/Sympathie. Ein erfolgreicher Zauber [Magie bannen](Magie%20bannen.md) (SG 18) entfernt diese Verzauberung.
 
 #### Rollende Kugel
 _Mechanische Falle_

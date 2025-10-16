@@ -1,58 +1,58 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-spell
+Bezeichnung: Regenbogenspiel
+Zeitaufwand: 1 Aktion
+Reichweite: selbst (Kegel von 18 m)
+Komponenten: V, G
+Wirkungsdauer: unmittelbar
+Angriff: GES
+Schaden: n/a
 tags:
 - Quelle/5e/Players_Handbook
-- Klasse/Zauberer
 - Klasse/Magier
+- Klasse/Zauberer
+- Zauber/Original/Prismatic_Spray
 - Zauber/Grad/7
 - Zauber/Schule/Hervorrufung
-aliases: ["Prismatic Spray"]
+aliases:
+- Prismatic Spray
 ---
-# Prismatic Spray
-*7th-level, Evocation*  
+# Regenbogenspiel
+_Hervorrufung des 7. Grades_
 
-- **Casting time:** 1 action
-- **Range:** Self (60-feet cone)
-- **Components:** V, S
-- **Duration:** Instantaneous
+_Klassen:_  Magier, Zauberer
+_Unterklassen:_  n/v
 
-Eight multicolored rays of light flash from your hand. Each ray is a different color and has a different power and purpose. Each creature in a 60-foot cone must make a Dexterity saving throw. For each target, roll a `d8` to determine which color ray affects it.
+_Quellen:_ Spielerhandbuch
 
-## 1-Red
+- **Zeitaufwand:** 1 Aktion
+- **Reichweite / Fläche:** selbst (Kegel von 18 m)
+- **Komponenten:** V, G
+- **Wirkungsdauer:** unmittelbar
+- **Angriff / Rettung:** Geschicklichkeit
+- **Schaden / Effekt:**  n/a
 
-The target takes `10d6` fire damage on a failed save, or half as much damage on a successful one.
+Sieben Strahlen aus Licht schießen aus deiner Hand. Jeder Strahl leuchtet in einer unterschiedlichen Farbe und besitzt eine andere Macht und einen anderen Zweck. Alle Kreaturen innerhalb eines Kegels von 18 m müssen einen `Geschicklichkeits-Rettungswurf` ablegen. Würfle für jedes Ziel mit einem W8, um zu bestimmen, welche Farbe es trifft und welchem Effekt es unterliegt.
 
-## 2-Orange
+## 1. Rot
+Bei einem misslungenen Rettungswurf erleidet das Ziel `10W6` Feuerschaden oder halb so viel Schaden bei einem erfolgreichen Rettungswurf.
 
-The target takes `10d6` acid damage on a failed save, or half as much damage on a successful one.
+## 2. Orange
+Bei einem misslungenen Rettungswurf erleidet das Ziel `10W6` Säureschaden oder halb so viel Schaden bei einem erfolgreichen Rettungswurf.
 
-## 3-Yellow
+## 3. Gelb
+Bei einem misslungenen Rettungswurf erleidet das Ziel `10W6` Blitzschaden oder halb so viel Schaden bei einem erfolgreichen Rettungswurf.
 
-The target takes `10d6` lightning damage on a failed save, or half as much damage on a successful one.
+## 4. Grün
+Bei einem misslungenen Rettungswurf erleidet das Ziel `10W6` Giftschaden oder halb so viel Schaden bei einem erfolgreichen Rettungswurf.
 
-## 4-Green
+## 5. Blau
+Bei einem misslungenen Rettungswurf erleidet das Ziel `10W6` Kälteschaden oder halb so viel Schaden bei einem erfolgreichen Rettungswurf.
 
-The target takes `10d6` poison damage on a failed save, or half as much damage on a successful one.
+## 6. Indigo
+Bei einem misslungenen Rettungswurf wird das Ziel [[01. Grundregelwerk 2014/Anhang PH-A#Festgesetzt|festgesetzt]]. Es muss dann am Ende eines jeden seiner Züge einen `Konstitutions-Rettungswurf` ablegen. Bei drei Erfolgen endet der Zauber. Misslingen hingegen drei Rettungswürfe, wird das Ziel dauerhaft in Stein verwandelt und unterliegt dem Zustand [[01. Grundregelwerk 2014/Anhang PH-A#Versteinert|versteinert]]. Die Erfolge und Misserfolge müssen nicht direkt aufeinanderfolgen. Notiere dir die entsprechende Anzahl, bis der Schwellenwert von drei in einer Art erreicht ist.
 
-## 5-Blue
+## 7. Violett
+Bei einem misslungenen Rettungswurf wird das Ziel [[01. Grundregelwerk 2014/Anhang PH-A#Blind|blind]]. Es muss dann zu Beginn deines nächsten Zuges einen Weisheitsrettungswurf ablegen. Bei einem Erfolg endet die Blindheit. Misslingt der Rettungswurf, wird die Kreatur auf eine andere Existenzebene nach Wahl des SL verbannt und ist nicht mehr [[01. Grundregelwerk 2014/Anhang PH-A#Blind|blind]]. (Für gewöhnlich wird eine Kreatur, die sich auf einer Ebene befindet, die nicht ihre Heimat ist, nach Hause gebracht, während andere Kreaturen üblicherweise auf die Astral- oder Ätherebene transportiert werden.)
 
-The target takes `10d6` cold damage on a failed save, or half as much damage on a successful one.
-
-## 6-Indigo
-
-On a failed save, the target is [restrained](rules/conditions.md#restrained). It must then make a Constitution saving throw at the end of each of its turns. If it successfully saves three times, the spell ends. If it fails its save three times, it permanently turns to stone and is subjected to the [petrified](rules/conditions.md#petrified) condition. The successes and failures don't need to be consecutive, keep track of both until the target collects three of a kind.
-
-## 7-Violet
-
-On a failed save, the target is [blinded](rules/conditions.md#blinded). It must then make a Wisdom saving throw at the start of your next turn. A successful save ends the blindness. If it fails that save, the creature is transported to another plane of existence of the DM's choosing and is no longer [blinded](rules/conditions.md#blinded). (Typically, a creature that is on a plane that isn't its home plane is banished home, while other creatures are usually cast into the Astral or Ethereal planes.)
-
-## 8-Special
-
-The target is struck by two rays. Roll twice more, rerolling any 8.
-
-## Summary
-
-**Classes**: [Sorcerer](../Klassen/Zauberer.md), [Wizard](../Klassen/Magier.md)
-
-*Source: SRD / Basic Rules*
+## 8. Speziell
+Das Ziel wird von zwei Strahlen getroffen. Bestimme mit einem W8 zufällig zwei Farben (falls du eine 8 würfelst, wiederhole den Wurf).

@@ -1,35 +1,43 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-spell
+Bezeichnung: Energiekäfig
+Zeitaufwand: 1 Aktion
+Reichweite: 30 Meter
+Komponenten: V, G, M 
+Wirkungsdauer: 1 Stunde
+Angriff: n/a
+Schaden: n/a
 tags:
 - Quelle/5e/Players_Handbook
 - Klasse/Barde
 - Klasse/Hexenmeister
 - Klasse/Magier
+- Zauber/Original/Forcecage
 - Zauber/Grad/7
 - Zauber/Schule/Hervorrufung
-aliases: ["Forcecage"]
+aliases:
+- Forcecage
 ---
-# Forcecage
-*7th-level, Evocation*  
+# Energiekäfig
+_Hervorrufung des 7. Grades_
 
-- **Casting time:** 1 action
-- **Range:** 100 feet
-- **Components:** V, S, ruby dust worth 1,500 gp
-- **Duration:** 1 hour
+_Klassen:_ Barde, Hexenmeister, Magier
+_Unterklassen:_  n/v
 
-An immobile, invisible, cube-shaped prison composed of magical force springs into existence around an area you choose within range. The prison can be a cage or a solid box as you choose.
+_Quellen:_ Spielerhandbuch
 
-A prison in the shape of a cage can be up to 20 feet on a side and is made from 1/2-inch diameter bars spaced 1/2 inch apart.
+- **Zeitaufwand:** 1 Aktion
+- **Reichweite / Fläche:** 30 Meter
+- **Komponenten:** V, G, M (Rubinstaub im Wert von 1.500 GM)
+- **Wirkungsdauer:** 1 Stunde
+- **Angriff / Rettung:** n/a
+- **Schaden / Effekt:**  n/a
 
-A prison in the shape of a box can be up to 10 feet on a side, creating a solid barrier that prevents any matter from passing through it and blocking any spells cast into or out from the area.
+Ein unbewegliches, unsichtbares würfelförmiges Gefängnis aus magischer Energie bildet sich um einen Bereich deiner Wahl in Reichweite. Das Gefängnis kann ein Käfig oder eine geschlossene Kiste sein, wie du möchtest.
 
-When you cast the spell, any creature that is completely inside the cage's area is trapped. Creatures only partially within the area, or those too large to fit inside the area, are pushed away from the center of the area until they are completely outside the area.
+Ein Gefängnis in Form einer Kiste hat eine Kantenlänge von bis zu 3 m und erschafft eine feste Barriere, durch die keinerlei Materie dringen kann und die Zauber blockiert, die in den oder aus dem Bereich gewirkt werden.
 
-A creature inside the cage can't leave it by nonmagical means. If the creature tries to use teleportation or interplanar travel to leave the cage, it must first make a Charisma saving throw. On a success, the creature can use that magic to exit the cage. On a failure, the creature can't exit the cage and wastes the use of the spell or effect. The cage also extends into the Ethereal Plane, blocking ethereal travel.
+Ein Gefängnis in Form eines Käfigs besitzt eine Kantenlänge von 6 m und besteht aus 1,25 cm dicken Stäben, die jeweils 1,25 cm voneinander entfernt sind. Wenn du den Zauber wirkst, wird jede Kreatur in dem Energiekäfig gefangen, die vollständig von ihm umschlossen ist. Kreaturen, die sich nur zum Teil in dem Bereich aufhalten oder die zu groß für den Käfig sind, werden von der Mitte des Bereichs weggestoßen, bis sie sich vollständig außerhalb befinden.
 
-This spell can't be dispelled by [dispel magic](Magie-bannen.md).
+Eine Kreatur im Energiekäfig kann diesen nur auf magische Art verlassen. Wenn der Gefangene versucht, mittels [[Teleportieren]] oder [[Ebenenwechsel]] zu entfliehen, muss er zunächst einen `Charisma-Rettungswurf` ablegen. Bei einem Erfolg kann die Kreatur diese Art von Magie verwenden, um den Energiekäfig zu verlassen. Bei einem Misserfolg kann sie dies nicht und der gewirkte Zauber ist vergeudet. Der Energiekäfig erstreckt sich auch in die Ätherebene, was eine Flucht über diese Ebene verhindert.
 
-**Classes**: [Bard](05%20-%20Wikipedia/Charakteroptionen/02.%20Klassen/Barde.md), [Warlock](../Charakteroptionen/Klassen/Hexenmeister.md), [Wizard](../Charakteroptionen/Klassen/Magier.md)
-
-*Source: SRD / Basic Rules*
+Der Zauber kann nicht durch [[Magie bannen]] aufgehoben werden.
