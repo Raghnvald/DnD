@@ -12,14 +12,12 @@ tags:
 aliases:
 - Assassin's Blood
 ---
-# Assassinenblut
+# Assassinenblut (Einnahme)
 *Abenteuerausrüstung, Gift, ungewöhnlich*  
 <img src="Symbolik/Gegenstände.webp" align="right" width="150">
 
 - **Eigenschaften**: Gift
 - **Kosten**: 150 Goldmünzen
-- **Gewicht**: ⏤
+- **Gewicht**: n/v
 
-Eine Kreatur, die diesem Gift ausgesetzt ist, muss einen DC 10 Rettungswurf auf Konstitution machen. Bei einem misslungenen Rettungswurf erleidet sie 6 (`1W12`) Giftschaden und ist für 24 Stunden [vergiftet](rules/conditions.md#poisoned). Bei einem erfolgreichen Schutzwurf erleidet die Kreatur nur halben Schaden und ist nicht [vergiftet](rules/conditions.md#poisoned).
-
-*Source: SRD / Basic Rules*
+Eine Kreatur, die diesem Gift ausgesetzt wird, muss einen `Konstitutions-Rettungswurf` gegen SG 10 ablegen. Bei einem misslungenen Wurf erhält sie `6` (`1W12`) Giftschaden und ist für 24 Stunden [[01. Grundregelwerk 2014/Anhang PH-A#Vergiftet|vergiftet]]. Bei einem erfolgreichen Wurf erhält sie nur halben Schaden und ist nicht [[01. Grundregelwerk 2014/Anhang PH-A#Vergiftet|vergiftet]].

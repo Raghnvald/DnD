@@ -9,4 +9,4 @@ aliases: ["Eldritch Sight"]
 # Unheimliche Sicht
 *Quelle: SRD / Grundregelwerk / Spielerhandbuch*  
 
-Du kannst beliebig oft [Magie entdecken](../../Zauber/Magie-entdecken.md) wirken, ohne dafür einen Zauberplatz verbrauchen zu müssen.
+Du kannst beliebig oft [Magie entdecken](Magie%20entdecken.md) wirken, ohne dafür einen Zauberplatz verbrauchen zu müssen.

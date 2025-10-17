@@ -1,13 +1,4 @@
 ---
-tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Zauberer
-- Klasse/Magier
-- Zauber/Original/Fire_Bolt
-- Zauber/Grad/0
-- Zauber/Schule/Hervorrufung
-aliases:
-- Fire Bolt
 Bezeichnung: Feurepfeil
 Zeitaufwand: 1 Aktion
 Reichweite: 36 Meter
@@ -15,10 +6,23 @@ Komponenten: V, G
 Wirkungsdauer: Unmittelbar
 Angriff: Fern
 Schaden: 1d10 Feuer
+tags:
+- Quelle/5e/Players_Handbook
+- Klasse/Magier
+- Klasse/Zauberer
+- Zauber/Original/Fire_Bolt
+- Zauber/Grad/0
+- Zauber/Schule/Hervorrufung
+aliases:
+- Fire Bolt
+status:
+- completed
 ---
 # Feuerpfeil
 _Zaubertrick der Hervorrufung_
+
 _Klassen:_ Illrigger, Magier, Magieschmied, Zauberer
+_Unterklassen:_ keine
 
 _Quellen:_ Spielerhandbuch
 
@@ -27,7 +31,7 @@ _Quellen:_ Spielerhandbuch
 - **Komponenten:** V, G
 - **Wirkungsdauer:** Unmittelbar
 - **Angriff/Rettung:** Fernkampf
-- **Schaden/Effekt:** 1d10 Feuer
+- **Schaden/Effekt:** `1W10` Feuer
 
 Du schleuderst einen Funkenwirbel auf eine Kreatur oder einen Gegenstand in Reichweite. Führe einen Fernkampf-Zauberangriff gegen das Ziel aus. Bei einem Treffer erleidet das Ziel `1W10` Feuerschaden. Der Zauber entzündet bei einem Treffer brennbare Gegenstände, die nicht getragen werden.
 

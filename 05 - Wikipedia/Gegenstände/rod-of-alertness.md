@@ -24,7 +24,7 @@ While holding the rod, you have advantage on Wisdom ([Perception](rules/skills.m
 
 ## Spells
 
-While holding the rod, you can use an action to cast one of the following spells from it: [detect evil and good](../Zauber/Gutes-und-Böses-entdecken.md), [detect magic](../Zauber/Magie-entdecken.md), [detect poison and disease](../Zauber/Gift-und-Krankheit-entdecken.md), or [see invisibility](../Zauber/Unsichtbares-sehen.md).
+While holding the rod, you can use an action to cast one of the following spells from it: [detect evil and good](../Zauber/Gutes-und-Böses-entdecken.md), [detect magic](Magie%20entdecken.md), [detect poison and disease](../Zauber/Gift-und-Krankheit-entdecken.md), or [see invisibility](../Zauber/Unsichtbares-sehen.md).
 
 ## Protective Aura
 

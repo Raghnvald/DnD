@@ -16,6 +16,8 @@ tags:
 - Zauber/Schule/Hervorrufung
 aliases: 
 - Lightning Lure
+status:
+- completed
 ---
 # Blitzköder
 _Zaubertrick der Hervorrufung_
@@ -30,7 +32,7 @@ _Quellen:_ Abenteurerhandbusch für die Schwertküste, Tashas Kessel mit Allem
 - **Komponenten:** V
 - **Wirkungsdauer:** Sofort
 - **Angriff/Rettung:** Stärke
-- **Schaden/Effekt:** 1d8 Blitz
+- **Schaden/Effekt:** `1W8` Blitz
 
 Du erschaffst eine Peitsche aus Blitzenergie, die eine Kreatur deiner Wahl innerhalb der Reichweite, die du sehen kannst. trifft. Das Ziel muss einen `Stärke-Rettungswurf` schaffen, um nicht 3 Meter in gerader Linie direkt auf dich zu gezogen zu werden und dann `1W8` Blitzschaden zu erleiden, wenn es sich innerhalb von 1,5 Metern um dich befindet.
 

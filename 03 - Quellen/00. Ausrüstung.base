@@ -26,3 +26,47 @@ views:
     markers: bullet
     nestedProperties: false
     imageFit: contain
+  - type: table
+    name: Gifte
+    filters:
+      and:
+        - file.tags.contains("Gegenstand/Ausrüstung/Gift")
+    groupBy:
+      property: Typ
+      direction: ASC
+    order:
+      - file.name
+      - Kst.
+      - Gew.
+      - Eigenschaften
+    sort:
+      - property: file.basename
+        direction: ASC
+    columnSize:
+      note.Kst.: 83
+      note.Gew.: 79
+    markers: bullet
+    nestedProperties: false
+    imageFit: contain
+  - type: table
+    name: Handelsgüter
+    filters:
+      and:
+        - file.tags.contains("Gegenstand/Ausrüstung/Handelsgut")
+    groupBy:
+      property: Typ
+      direction: ASC
+    order:
+      - file.name
+      - Kst.
+      - Gew.
+      - Eigenschaften
+    sort:
+      - property: file.basename
+        direction: ASC
+    columnSize:
+      note.Kst.: 72
+      note.Gew.: 79
+    markers: bullet
+    nestedProperties: false
+    imageFit: contain

@@ -4,7 +4,7 @@ Zeitaufwand: 1 Aktion
 Reichweite: selbst
 Komponenten: V
 Wirkungsdauer: Konzentration, bis zu 10 Minuten
-Angriff: n/v
+Angriff: nichts
 Schaden: Taub
 tags:
 - Quelle/5e/Xanathars_Guide_to_Everything

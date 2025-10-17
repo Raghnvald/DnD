@@ -13,6 +13,7 @@ views:
       - Wirkungsdauer
       - Angriff
       - Schaden
+      - status
   - type: table
     name: Magierzauber Grad 1
     filters:
@@ -41,6 +42,9 @@ views:
       - Wirkungsdauer
       - Angriff
       - Schaden
+    sort:
+      - property: file.name
+        direction: ASC
   - type: table
     name: Magierzauber Grad 3
     filters:

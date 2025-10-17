@@ -242,7 +242,7 @@ $\quad$ Zuerst musst du entscheiden, welcher wahrnehmbare Umstand deine Reaktion
 
 $\quad$ Tritt der Auslöser ein, kannst du deine Reaktion entweder sofort danach ausführen oder ihn ignorieren. Bedenke, dass dir pro Runde nur eine Reaktion zur Verfügung steht.
 
-$\quad$ Bereitest du einen Zauberspruch vor, wirkst du ihn wie gewohnt, setzt seinen Effekt aber erst dann mit deiner Reaktion frei, sobald der Auslöser eintritt. Nur Zauber mit einem Zeitaufwand von einer Aktion können vorbereitet werden. Das Zurückhalten des Effekts erfordern jedoch Konzentration. Wenn deine Konzentration unterbrochen wird, schlägt der Zauber fehl. **Beispiele**: Wenn du dich auf den Zauber [[../../../05 - Wikipedia/Zauber/Spinnennetz]] konzentrierst und dann [[../../../05 - Wikipedia/Zauber/Magisches Geschoss]] vorbereitest, wird [[../../../05 - Wikipedia/Zauber/Spinnennetz]] beendet. Außerdem könnte deine Konzentration unterbrochen werden, falls du Schaden erleidest, bevor du [[../../../05 - Wikipedia/Zauber/Magisches Geschoss]] als Reaktion auslöst.
+$\quad$ Bereitest du einen Zauberspruch vor, wirkst du ihn wie gewohnt, setzt seinen Effekt aber erst dann mit deiner Reaktion frei, sobald der Auslöser eintritt. Nur Zauber mit einem Zeitaufwand von einer Aktion können vorbereitet werden. Das Zurückhalten des Effekts erfordern jedoch Konzentration. Wenn deine Konzentration unterbrochen wird, schlägt der Zauber fehl. **Beispiele**: Wenn du dich auf den Zauber [[Spinnennetz]] konzentrierst und dann [[Magisches Geschoss]] vorbereitest, wird [[Spinnennetz]] beendet. Außerdem könnte deine Konzentration unterbrochen werden, falls du Schaden erleidest, bevor du [[Magisches Geschoss]] als Reaktion auslöst.
 
 ## Zauber wirken
 
@@ -291,11 +291,9 @@ $\quad$ Wenn du ein Ziel angreifst, das du nicht sehen kannst, bist du bei deine
 $\quad$ Wenn eine Kreatur dich nicht sehen kann, bist du bei Angriffswürfen gegen sie im Vorteil. Falls du versteckt bist − du also nicht zu sehen oder hören bist −, gibst du beim Angreifen unabhängig vom Erfolg deine Position preis.
 
 ## Fernkampfangriffen
-
 Bei einem Fernkampfangriff schießt du mit einem Bogen oder einer Armbrust, wirfst ein Beil oder schickst auf anderem Wege Geschosse in Richtung eines Feindes in einiger Entfernung. Ein Monster verschießt vielleicht Stacheln aus seinem Schwanz. Auch viele Zauber enthalten Fernkampfangriffe.
 
 ### Reichweite
-
 Du kannst Fernkampfangriffe nur gegen Ziele innerhalb einer bestimmten Reichweite ausführen.
 
 $\quad$ Wenn ein Fernkampfangriff, etwa mit einem Zauber, nur eine einzige Reichweite hat, kannst du keine Ziele außerhalb dieser Reichweite angreifen.
@@ -303,11 +301,9 @@ $\quad$ Wenn ein Fernkampfangriff, etwa mit einem Zauber, nur eine einzige Reich
 $\quad$ Manche Fernkampfangriffe, etwa die mit Langbogen oder Kurzbogen, haben zwei Reichweiten. Die kleinere Zahl ist die Grundreichweite, die größere die Maximalreichweite. Wenn sich dein Ziel außerhalb der Grundreichweite befindet, bist du beim Angriffswurf im Nachteil, und du kannst kein Ziel außerhalb der Maximalreichweite angreifen.
 
 ### Fernkampfangriffe im Nahkampf
-
 Das Zielen bei einem Fernkampfangriff ist schwieriger, wenn sich der Gegner direkt neben dir befindet. Bei Fernkampfangriffen mit Waffen, Zaubern oder anderen Objekten bist du beim Angriffswurf im Nachteil, wenn du dich im Abstand von bis zu 1,5 Metern von einer feindlich gesinnten Kreatur befindest, die dich sehen kann und kampffähig ist.
 
 ## Nahkampfangriffe
-
 Bei einem Nahkampfangriff im Handgemenge attackierst du einen Gegner in Reichweite. Nahkampfangriffe werden üblicherweise mit Handwaffen wie Schwerter, Kriegshämmern oder Äxten ausgeführt. Ein typisches Monster führt Nahkampfangriffe mit seinen Klauen, Hörnern, Zähnen oder anderen Körperteilen aus. Auch einige Zauber umfassen Nahkampfangriffe.
 
 $\quad$ Die meisten Kreaturen verfügen über eine **Reichweite** von 1,5 Metern und können daher Ziele innerhalb dieser Reichweite im Nahkampf angreifen. Bestimmte Kreaturen (meist solche, die größer als mittelgroß sind) haben Nahkampfangriffe mit einer höheren Reichweite. Dies ist in ihrer Beschreibung vermerkt.
@@ -315,7 +311,6 @@ $\quad$ Die meisten Kreaturen verfügen über eine **Reichweite** von 1,5 Metern
 $\quad$ Anstatt eine Waffe zu verwenden, kannst du als Nahkampfangriff auch einen **waffenlosen Angriff** ausführen: einen Fausthieb, Tritt, Kopfstoß oder ähnlich kräftigen Schlag (diese zählen nicht als Waffe). Bei einem Treffer verursachst du Wuchtschaden in Höhe deines Stärkemodifikators + 1. Du bist grundsätzlich in waffenlosen Angriffen geübt.
 
 ### Gelegenheitsangriffe
-
 Im Kampf wartet jeder nur darauf, einen fliehenden oder vorbeihuschenden Gegner zu verletzten. Ein derartiger Angriff nennt sich Gelegenheitsangriff.
 
 $\quad$ Du kannst einen Gelegenheitsangriff ausführen, wenn eine feindliche Kreatur, die du sehen kannst, deine Angriffsreichweite verlässt. Dazu verwendest du deine Reaktion, um einen Nahkampfangriff gegen die provozierende Kreatur auszuführen. Der Angriff erfolgt unmittelbar, bevor die Kreatur deine Reichweite verlässt.
@@ -323,13 +318,11 @@ $\quad$ Du kannst einen Gelegenheitsangriff ausführen, wenn eine feindliche Kre
 $\quad$ Du kannst gegnerische Gelegenheitsangriffe vermeiden, indem du die Rückzug-Aktion ausführst. Auch wenn du teleportierst oder bewegt wirst, ohne dass du deine Bewegung, Aktion oder Reaktion nutzt, bleiben Gelegenheitsangriffe aus. Du provozierst beispielsweise keinen Gelegenheitsangriff, wenn dich eine Explosion aus der Reichweite des Gegners hinausschleudert oder du an einem Feind vorbeifällst.
 
 ### Zwei-Waffen-Kampf
-
 Wenn du die Angriffsaktion ausführst und mit einer leichten Nahkampfwaffe in der einen Hand angreifst, kannst du eine Bonusaktion ausführen und mit einer zweiten leichten Waffe in der anderen Hand angreifen. Auf den Schaden dieser Bonusaktion wird dein Attributsmodifikator nicht angerechnet, es sei denn, der Modifikator ist negativ.
 
 $\quad$ Ist eine der Waffen eine Wurfwaffe, kannst du die Waffe werfen, anstatt einen Nahkampfangriff mit ihr auszuführen.
 
 ### Ringen
-
 Wenn du eine Kreatur packen oder sie niederringen möchtest, kannst du mit deiner Angriffsaktion einen speziellen Nahkampfangriff ausführen: einen Haltegriff. Kannst du mit einer Aktion mehrere Nahkampfangriffe ausführen, ersetzt dieser Angriff einen davon.
 
 $\quad$ Das Ziel, das du packen willst, darf maximal um eine Kategorie größer sein als du und muss sich in Reichweite befinden. Mit mindestens einer freien Hand versuchst du die Kreatur mit einem Ringenwurf anstatt deines Angriffswurfs zu packen: einem Stärkewurf (Athletik), der mit dem Stärke- (Athletik) oder Geschicklichkeitswurf (Akrobatik) des Ziels (nach Wahl des Ziels) verglichen wird. Schaffst du es, versetzt du dein Ziel in den [[Gepackt]]-Zustand. In der Beschreibung des Zustands ist aufgeführt, durch welche Umstände er beendet wird. Du kannst das Ziel jederzeit loslassen, wofür keine Aktion erforderlich ist.
@@ -339,17 +332,14 @@ $\quad$ Das Ziel, das du packen willst, darf maximal um eine Kategorie größer 
 **$\quad$ Eine gepackte Kreatur bewegen**: Wenn du dich bewegst, kannst du die gepackte Kreatur im Haltegriff mitziehen oder tragen. Deine Bewegungsrate wird dabei jedoch halbiert, sofern die Kreatur nicht mindestens zwei Größenkategorien kleiner als du ist.
 
 #### Wettstreit im Kampf
-
 Im Kampf musst du dich oft mit deinem Gegner messen. Diese Herausforderung wird durch einen Wettstreit dargestellt. Dieser Abschnitt enthält die häufigsten Wettstreite im Kampf, die eine Aktion benötigen: eine Kreatur packen und stoßen. Der SL kann diese Wettstreite zur Improvisation weiterer verwenden.
 
 ### Stoßen
-
 Mit einer Angriffsaktion kannst du einen besonderen Nahkampfangriff ausführen: Du versetzt der Kreatur einen Stoß, um sie zu Fall zu bringen oder auf Distanz zu halten. Kannst du mit einer Aktion mehrere Nahkampfangriffe ausführen, ersetzt dieser Angriff einen davon.
 
 $\quad$ Das Ziel darf maximal um eine Kategorie größer sein als du und muss sich in Reichweite befinden. Statt eines Angriffswurfs führst du einen Stärkewurf (Athletik) aus, der mit dem Stärkewurf (Athletik) oder dem Geschicklichkeitswurf (Akrobatik) des Ziels (nach Wahl des Ziels) verglichen wird. Gewinnst du den Wettstreit, bringst du dein Ziel zu Fall oder stößt es 1,5 Meter weit von dir weg.
 
 # Deckung
-
 Wände, Bäume, Kreaturen und andere Hindernisse können im Kampf Deckung bieten und es damit schwieriger machen, ein Ziel zu treffen. Eine Deckung ist nur wirksam, wenn der Angriff oder Effekt von der gegenüberliegenden Seite der Deckung kommt.
 
 $\quad$ Es gibt drei Abstufungen von Deckungen. Befindet sich das Ziel hinter mehreren Deckungen, zählt nur die wirksamste Deckung. Die Deckungen addieren sich nicht. Beispiel: Steht ein Ziel hinter einer Kreatur, die halbe Deckung gibt, sowie gleichzeitig hinter einem Baum, der Dreivierteldeckung gibt, verfügt das Ziel über Dreivierteldeckung.
@@ -361,11 +351,9 @@ $\quad$ Ein Ziel mit **Dreivierteldeckung** erhält einen Bonus von +5 auf RK un
 $\quad$ Ein Ziel mit **vollständiger Deckung** kann nicht von Angriffen oder Zaubern getroffen werden, wobei einige Zauber das Ziel in ihren Wirkungsbereich miteinbeziehen können. Ein Ziel verfügt über vollständige Deckung, wenn ein Hindernis seinen Körper komplett verdeckt.
 
 # Schaden und Heilung
-
 Verletzungen und Todesgefahr sind ständige Begleiter der Abenteurer, die Fantasy-Spielwelten erkunden. Ein Schwerthieb, ein wohlplatzierter Pfeil oder die flammende Explosion eines Feuerballs können selbst den kühnsten Kreaturen Schaden zufügen oder sie sogar töten.
 
 ## Trefferpunkte
-
 Trefferpunkte stellen eine Kombination aus körperlicher und geistiger Widerstandskraft, Lebenswillen und Glück dar. Kreaturen mit mehr Trefferpunkten sind schwieriger zu töten. Kreaturen mit weniger Trefferpunkten sind verletzlicher.
 
 $\quad$ Die aktuellen Trefferpunkte einer Kreatur (meist einfach Trefferpunkte genannt) können vom Trefferpunktemaximum der Kreatur bis 0 reichen. Diese Zahl ändert sich fortlaufend, wenn die Kreatur Schaden erleidet oder geheilt wird.
@@ -373,28 +361,26 @@ $\quad$ Die aktuellen Trefferpunkte einer Kreatur (meist einfach Trefferpunkte g
 $\quad$ Wenn eine Kreatur Schaden erleidet, wird dieser Wert von ihren Trefferpunkten abgezogen. Der Verlust von Trefferpunkten hat keinen Einfluss auf die Fähigkeiten der Kreatur, bis die Trefferpunkte auf 0 gesunken sind.
 
 ## Schadenswürfe
-
 Bei allen Waffen, Zaubern und entsprechenden Fähigkeiten ist der Schaden angegeben, der durch sie verursacht wird. Würfle den Schaden aus, addiere alle relevanten Modifikatoren und wende ihn auf das Ziel an. Magische Waffen, Spezialfähigkeiten und andere Faktoren können einen Bonus auf den Schaden gewähren. Mit einem Malus ist es möglich, 0 Schaden zuzufügen, aber niemals negativen Schaden.
 
 $\quad$ Greifst du mit einer **Waffe** an, wird der Attributsmodifikator, den du auf den Angriffswurf addiert hast, auch auf den Schaden angerechnet. Bei einem **Zauber** ist angegeben, mit welchen Würfeln der Schaden ausgewürfelt wird und ob Modifikatoren hinzuaddiert werden.
 
-$\quad$ Fügt ein Zauber oder Effekt **mehr als einem Ziel** gleichzeitig Schaden zu, wird der Schaden einmal für alle Ziele statt einzeln ausgewürfelt. Beispiel: Wirkt ein Magier den Zauber [[../../../../05 - Wikipedia/Wikipedia der Vergessenen Reiche/Kompendium/Zauber/Feuerball]] oder ein Kleriker [[../../../05 - Wikipedia/Zauber/Flammenschlag]], so wird der Schaden nur einmal für alle Kreaturen ermittelt, die vom Zauber erfasst werden.
+$\quad$ Fügt ein Zauber oder Effekt **mehr als einem Ziel** gleichzeitig Schaden zu, wird der Schaden einmal für alle Ziele statt einzeln ausgewürfelt. Beispiel: Wirkt ein Magier den Zauber [[Feuerball]] oder ein Kleriker [[Flammenschlag]], so wird der Schaden nur einmal für alle Kreaturen ermittelt, die vom Zauber erfasst werden.
 
 ### Kritischer Treffer
 
-Wenn du einen kritischen Treffer erzielst, kannst du zusätzliche Würfel für den Angriffsschaden gegen das Ziel verwenden. Würfle zweimal mit allen AngriffsSchadenswürfeln und addiere die Ergebnisse. Wende dann wie gewohnt Modifikatoren an. Um das Spiel zu beschleunigen, kannst du mit allen Schadenswürfeln gleichzeitig würfeln.
+Wenn du einen kritischen Treffer erzielst, kannst du zusätzliche Würfel für den Angriffsschaden gegen das Ziel verwenden. Würfle zweimal mit allen Angriffs-Schadenswürfeln und addiere die Ergebnisse. Wende dann wie gewohnt Modifikatoren an. Um das Spiel zu beschleunigen, kannst du mit allen Schadenswürfeln gleichzeitig würfeln.
 
-$\quad$ Erzielst du beispielsweise einen kritischen Treffer mit einem Dolch, würfelst du `2W4` statt `1W4`, um den Schaden zu ermitteln, und addierst dann deinen relevanten Attributsmodifikator. Wenn der Angriff andere Schadenswürfel enthält, beispielsweise bei der Fähigkeit Hinterhältiger Angriff des Schurken, würfelst du auch mit diesen Würfeln zweimal.
+$\quad$Erzielst du beispielsweise einen kritischen Treffer mit einem Dolch, würfelst du `2W4` statt `1W4`, um den Schaden zu ermitteln, und addierst dann deinen relevanten Attributsmodifikator. Wenn der Angriff andere Schadenswürfel enthält, beispielsweise bei der Fähigkeit Hinterhältiger Angriff des Schurken, würfelst du auch mit diesen Würfeln zweimal.
 
 ### Schadensarten
-
 Verschiedene Angriffe, Schadenszauber und andere schädliche Effekte verursachen unterschiedliche Schadensarten. Schadensarten weisen zwar keine eigenen Regeln auf, doch es gibt andere Regeln wie etwa die für Schadensresistenzen, die auf ihnen aufbauen.
 
 $\quad$ Den Schadensarten sind im Folgenden Beispiele angefügt, um es dem SL zu erleichtern, einem neuen Effekt eine Schadensart zuzufügen.
 
 $\quad$ ***Blitz***: Der Zauber Blitz und der Odem eines blauen Drachen verursachen Blitzschaden.
 
-$\quad$ ***Energie***: Reine magische Energie wird in eine schädliche Form gebündelt. Die meisten Effekte, die Energieschaden verursachen, sind Zauber wie [[../../../05 - Wikipedia/Zauber/Magisches Geschoss]] und [[Waffe des Glaubens]].
+$\quad$ ***Energie***: Reine magische Energie wird in eine schädliche Form gebündelt. Die meisten Effekte, die Energieschaden verursachen, sind Zauber wie [[Magisches Geschoss]] und [[Waffe des Glaubens]].
 
 $\quad$ ***Feuer***: Rote Drachen speien Feuer und viele Zauber beschwören Flammen, um Feuerschaden zu verursachen.
 
@@ -419,7 +405,6 @@ $\quad$***Stich***: Aufspießende und durchstechende Angriffe, wie von Speeren u
 $\quad$***Wucht***: Angriffe mit stumpfer Gewalt − Hämmer, Fallschaden, Quetschungen und dergleichen − verursachen Wuchtschaden.
 
 ## Schadensresistenz- und anfälligkeit
-
 Manche Kreaturen und Gegenstände sind mit bestimmten Schadensarten besonders schwer oder leicht zu verletzen.
 
 $\quad$ Ist eine Kreatur gegen eine Schadensart **resistent**, wird erlittener Schaden dieser Art halbiert. Ist eine Kreatur **anfällig** für eine Schadensart, wird erlittener Schaden dieser Art verdoppelt.
@@ -429,39 +414,34 @@ $\quad$ Resistenz und danach Anfälligkeit werden nach allen anderen Schadensmod
 $\quad$ Mehrere Resistenzen oder Anfälligkeiten für dieselbe Schadensart werden als eine einzelne gezählt. Beispiel: Wenn eine Kreatur gegen Feuerschaden sowie gegen jeglichen nichtmagischen Schaden resistent ist, so wird der Schaden von nichtmagischem Feuer bei dieser Kreatur um die Hälfte reduziert, nicht um drei Viertel.
 
 ## Heilung
-
 Schaden ist nicht dauerhaft, sofern er nicht tödlich ist. Selbst der Tod kann durch mächtige Magie rückgängig gemacht werden. Rasten stellt die Trefferpunkte einer Kreatur wieder her. Magische Methoden wie der Zauber Wunden heilen oder ein Heiltrank können Schaden sofort beseitigen.
 
 $\quad$ Erfährt eine Kreatur Heilung irgendeiner Art, werden zurückerhaltene Trefferpunkte zu den aktuellen Trefferpunkten hinzugezählt. Die Trefferpunkte einer Kreatur können ihr Trefferpunktemaximum nicht übersteigen. Werden mehr Trefferpunkte als dieses Maximum zurückerhalten, gehen diese also verloren. Beispielsweise heilt ein Druide einen Waldläufer um 8 Trefferpunkte. Wenn der Waldläufer über 14 aktuelle Trefferpunkte verfügt und sein Trefferpunktemaximum bei 20 liegt, kann er nur 6 Trefferpunkte zurückerhalten, nicht 8.
 
-$\quad$ Eine Kreatur, die gestorben ist, kann keine Trefferpunkte zurückerhalten, bis sie durch Magie wie den Zauber [[../../../05 - Wikipedia/Zauber/Wiederbeleben]] wieder zum Leben erweckt wurde.
+$\quad$ Eine Kreatur, die gestorben ist, kann keine Trefferpunkte zurückerhalten, bis sie durch Magie wie den Zauber [[Wiederbeleben]] wieder zum Leben erweckt wurde.
 
 ## Auf 0 Trefferpunkte sinken
 
 Sinken deine Trefferpunkte auf 0, stirbst du entweder sofort oder verlierst das Bewusstsein. Dies wird in den folgenden Abschnitten erklärt.
 
 ### Sofortiger Tod
-
 Massiver Schaden kann dich sofort töten. Wenn Schaden deine Trefferpunkte auf 0 reduziert und noch Schaden übrig ist, stirbst du sofort, falls der verbleibende Schaden deinem Trefferpunktemaximum entspricht oder es übersteigt.
 
-**$\quad$ Beispiel**: Eine Klerikerin mit maximal 12 Trefferpunkten hat aktuell 6 Trefferpunkte. Wenn ihr ein Angriff 18 Punkte Schaden zufügt, fällt sie auf 0 Trefferpunkte, aber es bleiben 12 Schaden übrig. Da der verbleibende Schaden ihrem Trefferpunktemaximum entspricht, stirbt die Klerikerin.
+$\quad$**Beispiel**: Eine Klerikerin mit maximal 12 Trefferpunkten hat aktuell 6 Trefferpunkte. Wenn ihr ein Angriff 18 Punkte Schaden zufügt, fällt sie auf 0 Trefferpunkte, aber es bleiben 12 Schaden übrig. Da der verbleibende Schaden ihrem Trefferpunktemaximum entspricht, stirbt die Klerikerin.
 
 ### Das Bewusstsein verlieren
-
 Wenn Schaden deine Trefferpunkte auf 0 reduziert, dich aber nicht tötet, verlierst du das Bewusstsein (siehe Anhang PH-A). Diese Bewusstlosigkeit endet, sobald du Trefferpunkte zurückerhältst.
 
 ### Todesrettungswürfe
-
 Wann immer du deinen Zug mit 0 Trefferpunkten beginnst, musst du einen besonderen Rettungswurf ausführen, der sich Todesrettungswurf nennt. Dadurch wird bestimmt, ob du der Schwelle des Todes näher kommst oder am Leben bleibst. Im Gegensatz zu anderen Rettungswürfen steht dieser mit keinem Attributswert in Verbindung. Du bist dem Schicksal ausgeliefert, und nur Zauber oder besondere Fähigkeiten können dir jetzt noch helfen.
 
-$\quad$ Würfle mit einem `W20`. Wenn das Ergebnis 10 oder höher beträgt, bist du erfolgreich. Anderenfalls scheiterst du. Ein Erfolg oder Scheitern selbst hat keinen Effekt. Bei deinem dritten Erfolg wirst du stabilisiert (siehe unten). Bei deinem dritten Scheitern stirbst du. Die erfolgreichen und gescheiterten Würfe müssen nicht aufeinanderfolgen. Notiere dir einfach beide, bis du von einem drei hast. Beide Zahlen werden auf 0 zurückgesetzt, wenn du Trefferpunkte zurückerhältst oder stabilisiert wirst.
+$\quad$Würfle mit einem `W20`. Wenn das Ergebnis 10 oder höher beträgt, bist du erfolgreich. Anderenfalls scheiterst du. Ein Erfolg oder Scheitern selbst hat keinen Effekt. Bei deinem dritten Erfolg wirst du stabilisiert (siehe unten). Bei deinem dritten Scheitern stirbst du. Die erfolgreichen und gescheiterten Würfe müssen nicht aufeinanderfolgen. Notiere dir einfach beide, bis du von einem drei hast. Beide Zahlen werden auf 0 zurückgesetzt, wenn du Trefferpunkte zurückerhältst oder stabilisiert wirst.
 
-$\quad$ ***Eine 1 oder eine 20 würfeln***: Würfelst du bei einem Todesrettungswurf mit dem W20 eine 1, zählt das als zwei gescheiterte Rettungswürfe. Würfelst du mit dem W20 eine 20, erhältst du 1 Trefferpunkt zurück.
+$\quad$**_Eine 1 oder eine 20 würfeln_**: Würfelst du bei einem Todesrettungswurf mit dem W20 eine 1, zählt das als zwei gescheiterte Rettungswürfe. Würfelst du mit dem W20 eine 20, erhältst du 1 Trefferpunkt zurück.
 
-$\quad$ ***Schaden bei 0 Trefferpunkten***: Erleidest du Schaden, während du 0 Trefferpunkte hast, zählt das als gescheiterter Todesrettungswurf. Falls der Schaden von einem kritischen Treffer stammt, zählt das als zwei gescheiterte Rettungswürfe. Falls der Schaden deinem Trefferpunktemaximum entspricht oder es übersteigt, bedeutet das deinen sofortigen Tod.
+$\quad$**_Schaden bei 0 Trefferpunkten_**: Erleidest du Schaden, während du 0 Trefferpunkte hast, zählt das als gescheiterter Todesrettungswurf. Falls der Schaden von einem kritischen Treffer stammt, zählt das als zwei gescheiterte Rettungswürfe. Falls der Schaden deinem Trefferpunktemaximum entspricht oder es übersteigt, bedeutet das deinen sofortigen Tod.
 
 ### Eine Kreatur stabilisieren
-
 Die beste Möglichkeit, eine Kreatur mit 0 Trefferpunkten zu retten, ist, sie zu heilen. Ist keine Heilung möglich, kann die Kreatur zumindest stabilisiert werden, sodass sie bei einem gescheiterten Todesrettungswurf nicht stirbt.
 
 $\quad$Du kannst im Zuge einer Aktion einer bewusstlosen Kreatur Erste Hilfe leisten, und dadurch versuchen, sie zu stabilisieren. Das erfordert einen erfolgreichen SG-10-Weisheitswurf (Heilkunde).
@@ -469,17 +449,14 @@ $\quad$Du kannst im Zuge einer Aktion einer bewusstlosen Kreatur Erste Hilfe lei
 $\quad$Eine **stabile** Kreatur führt keine Todesrettungswürfe aus, obwohl sie über 0 Trefferpunkte verfügt. Sie bleibt jedoch bewusstlos. Sobald sie Schaden erleidet, ist die Kreatur nicht mehr stabil und muss erneut Todesrettungswürfe ausführen. Eine stabile Kreatur, die nicht geheilt wird, gewinnt nach 1W4 Stunden 1 Trefferpunkt zurück.
 
 ### Monster und der Tod
-
 Die meisten SL lassen Monster sterben, sobald ihre Trefferpunkte auf 0 fallen, anstatt sie das Bewusstsein verlieren und Todesrettungswürfe ausführen zu lassen.
 
 $\quad$Mächtige Bösewichte und besondere Nichtspielercharaktere stellen gängige Ausnahmen dar: Der SL kann sie das Bewusstsein verlieren und den gleichen Regeln folgen lassen, die für Spielercharaktere gelten.
 
 ## Eine Kreatur k.o. schlagen
-
 Manchmal möchte ein Angreifer einen Feind außer Gefecht setzen, anstatt ihm einen tödlichen Schlag zu versetzen. Wenn ein Angreifer eine Kreatur mit einem Nahkampfangriff auf 0 Trefferpunkte reduziert, kann der Angreifer die Kreatur k. o. schlagen. Der Angreifer kann diese Entscheidung in dem Moment treffen, in dem er den Schaden zufügt. Die Kreatur verliert das Bewusstsein und ist stabil.
 
 ## Temporäre Trefferpunkte
-
 Einige Zauber und Spezialfähigkeiten gewähren einer Kreatur temporäre Trefferpunkte. Temporäre Trefferpunkte sind keine echten Trefferpunkte, sondern ein Puffer gegen Schaden, der dich vor Verletzungen schützt.
 
 $\quad$Wenn du über temporäre Trefferpunkte verfügst und Schaden erleidest, verlierst du zuerst die temporären Trefferpunkte. Überschüssiger Schaden wird von deinen regulären Trefferpunkten abgezogen. Beispiel: Du verfügst über 5 temporäre Trefferpunkte und erleidest 7 Schaden. Du verlierst die temporären Trefferpunkte und erleidest dann 2 Schaden.
@@ -493,13 +470,11 @@ $\quad$Wenn du über 0 Trefferpunkte verfügst und temporäre Trefferpunkte erh�
 $\quad$Sofern das Merkmal, das dir temporäre Trefferpunkte gewährt, keine Wirkungsdauer angibt, halten sie an, bis sie verbraucht sind oder du eine lange Rast beendest.
 
 # Berittener Kampf
-
 Ein Ritter, der auf einem Schlachtross in den Kampf prescht, ein Magier, der Zauber vom Rücken eines Greifen wirkt oder ein Kleriker, der auf einem Pegasus durch die Lüfte schwebt − sie alle genießen die Vorzüge der Geschwindigkeit und der Beweglichkeit eines Reittiers.
 
 $\quad$Eine Kreatur, die willens ist, mindestens eine Größenkategorie größer ist als du und eine passende Anatomie besitzt, kann als Reittier dienen, wobei folgende Regeln gelten:
 
 ## Aufsitzen und Absitzen
-
 Einmal pro Bewegung kannst du auf ein Reittier, das sich im Abstand von 1,5 Metern von dir befindet, aufsitzen oder davon absteigen. Dies kostet dich die Hälfte deiner Bewegungsrate. Besitzt du zum Beispiel eine Bewegungsrate von neun Metern, musst du 4,5 Meter davon verwenden, um auf ein Pferd aufzusitzen. Du kannst also nicht aufsitzen, wenn du weniger als 4,5 Meter deiner Bewegungsrate übrig hast oder diese auf 0 gesunken ist.
 
 $\quad$Wird das Reittier, auf dem du sitzt, gegen seinen Willen durch einen Effekt bewegt, musst du einen SG-10-Geschicklichkeitsrettungswurf bestehen, damit du nicht herunterfällst. Scheitert der Wurf, wirst du in einem Bereich von 1,5 Metern um das Reittier umgestoßen. Wirst du umgestoßen, während du reitest, musst du den gleichen Rettungswurf ausführen.
@@ -507,7 +482,6 @@ $\quad$Wird das Reittier, auf dem du sitzt, gegen seinen Willen durch einen Effe
 $\quad$Wird dein Reittier umgestoßen, kannst du deine Reaktion verwenden, um abzuspringen und auf deinen Füßen zu landen. Anderenfalls wirst du abgeworfen und landest umgestoßen im Abstand von bis zu 1,5 Metern um das Reittier.
 
 ## Ein Reittier kontrollieren
-
 Wenn du reitest, hast du zwei Optionen. Du kannst dein Reittier entweder kontrollieren oder es eigenständig handeln lassen. Intelligente Kreaturen wie Drachen handeln eigenständig.
 
 $\quad$ Du kannst dein Reittier nur dann kontrollieren, wenn es entsprechend abgerichtet wurde. Bei Reitpferden, Eseln und ähnlichen Kreaturen wird davon ausgegangen, dass sie darauf abgerichtet sind, einen Reiter zu tragen. Kontrollierst du dein Reittier, entspricht seine Initiative deiner eigenen, sobald du aufsitzt. Es bewegt sich so, wie du es ihm vorgibst, und hat drei Aktionsmöglichkeiten: Spurt, Rückzug und Ausweichen. Ein von dir kontrolliertes Reittier kann bereits in dem Zug, in dem du aufsitzt, handeln und sich bewegen.
@@ -517,7 +491,6 @@ $\quad$ Ein selbstständiges Reittier behält seinen Rang in der Initiativreihen
 $\quad$ Löst dein Reittier einen Gelegenheitsangriff aus, während du auf ihm sitzt, kann der Angreifer sich aussuchen, ob er dich oder das Reittier als Ziel wählt.
 
 # Unterwasserkampf
-
 Abenteurer, die Sahuagin in ihre aquatische Heimat verfolgen, in einem Schiffswrack mit Haien kämpfen oder sich in einem überfluteten Gewölbe wiederfinden, müssen in einer schwierigen Umgebung bestehen. Unter Wasser gelten die folgenden Regeln:
 
 $\quad$Führt eine Kreatur ohne Schwimmbewegungsrate (egal ob natürlich oder magisch verliehen) einen **Nahkampfwaffenangriff** aus, ist sie bei diesem im Nachteil, es sei denn, sie benutzt dabei einen Dolch, einen Dreizack, ein Kurzschwert, einen Speer oder einen Wurfspeer.

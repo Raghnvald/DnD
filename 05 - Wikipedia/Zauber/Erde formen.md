@@ -15,12 +15,14 @@ tags:
 - Zauber/Schule/Verwandlung
 aliases: 
 - Mold Earth
+status:
+- completed
 ---
 # Erde formen
 _Zaubertrick der Verwandlung_
 
 _Klassen:_ Magier, Zauberer
-_Unterklassen:_
+_Unterklassen:_ keine
 
 _Quellen:_ Xanathars Ratgeber für Alles
 

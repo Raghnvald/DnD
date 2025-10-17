@@ -1,11 +1,16 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-spell
+Bezeichnung: Ausbessern
+Zeitaufwand: 1 Minute
+Reichweite: Berührung
+Komponenten: V, G, M
+Wirkungsdauer: Unmittelbar
+Angriff: nichts
+Schaden: Utility
 tags:
 - Quelle/5e/Players_Handbook
 - Klasse/Barde
-- Klasse/Kleriker
 - Klasse/Druide
+- Klasse/Kleriker
 - Klasse/Magier
 - Klasse/Magieschmied
 - Klasse/Zauberer
@@ -14,19 +19,14 @@ tags:
 - Zauber/Schule/Verwandlung
 aliases:
 - Mending
-Bezeichnung: Ausbessern
-Zeitaufwand: 1 Minute
-Reichweite: Berührung
-Komponenten: V, G, M
-Wirkungsdauer: Unmittelbar
-Angriff: nichts
-Schaden: Utility
+status:
+- completed
 ---
 # Ausbessern
 _Zaubertrick der Verwandlung_
 
 _Klassen:_ Barde, Druide, Kleriker, Magier, Magieschmied, Zauberer
-_Unterklassen:_ n/v
+_Unterklassen:_ keine
 
 _Quellen:_ Spielerhandbuch
 

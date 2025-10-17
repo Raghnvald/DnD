@@ -4,7 +4,7 @@ Zeitaufwand: 1 Bonusaktion
 Reichweite: selbst
 Komponenten: V, G
 Wirkungsdauer: Konzentration, bis zu 1 Minute
-Angriff: n/v
+Angriff: Nah
 Schaden: 2d8 psychisch
 tags: 
 - Quelle/5e/Xanathars_Guide_to_Everything
@@ -29,7 +29,7 @@ _Quellen:_ Xanathars Ratgeber für Alles
 - **Reichweite / Fläche:** selbst
 - **Komponenten:** V, G
 - **Wirkungsdauer:** Konzentration, bis zu 1 Minute
-- **Angriff / Rettung:** n/v
+- **Angriff / Rettung:** Nahkampf
 - **Schaden / Effekt:**  `2W8` psychisch
 
 Du verwebst Stränge aus Schatten, um ein Schwert aus solider Dunkelheit in deiner Hand zu erschaffen. Dieses magische Schwert verbleibt, bis der Zauber endet. Es zählt als einfache Nahkampfwaffe, mit der du geübt bist. Es verursacht 2W8 psychischen Schaden bei einem Treffer und verfügt über die Eigenschaften Finesse, leicht und Wurfwaffe (Reichweite 6/18). Zusätzlich erhältst du Vorteil auf deinen Angriffswurf, wann immer du ein Ziel angreifst, welches sich in dämmrigem Licht oder in Dunkelheit befindet.

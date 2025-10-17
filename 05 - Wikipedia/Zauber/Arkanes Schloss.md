@@ -4,7 +4,7 @@ Zeitaufwand: 1 Aktion
 Reichweite: 9 m
 Komponenten: V, G, M
 Wirkungsdauer: Konzentration, bis zu 1 Stunde
-Angriff: n/a
+Angriff: nichts
 Schaden: n/a
 tags: 
 - Quelle/5e/Players_Handbook

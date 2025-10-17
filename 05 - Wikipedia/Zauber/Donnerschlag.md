@@ -19,22 +19,24 @@ tags:
 - Zauber/Schule/Hervorrufung
 aliases: 
 - thunderclap
+status:
+- completed
 ---
 # Donnerschlag
 _Zaubertrick der Hervorrufung_
 
 _Klassen:_ Barde, Druide, Hexenmeister, Magier, Magieschmied, Zauberer
-_Unterklassen:_
+_Unterklassen:_ keine
 
-_Quellen:_ Elemental Evil's Player Companion, Xanathars Ratgeber für Alles
+_Quellen:_ Xanathars Ratgeber für Alles
 
 - **Zeitaufwand:** 1 Aktion
 - **Reichweite/Fläche:** 1,5 Meter
 - **Komponenten:** G
 - **Wirkungsdauer:** Unmittelbar
 - **Angriff/Rettung:** Konstitution
-- **Schaden/Effekt:** 1d6 Schall
+- **Schaden/Effekt:** `1W6` Schall
 
-Du erzeugst einen Ausbruch donnernden Klangs, den man bis zu 30 m weit hören kann. Jede andere Kreatur innerhalb der Reichweite ausser dir muss einen Konstitutions-Rettungswurf bestehen oder `1d6` Schallschaden erleiden.
+Du erzeugst einen Ausbruch donnernden Klangs, den man bis zu 30 m weit hören kann. Jede andere Kreatur innerhalb der Reichweite ausser dir muss einen Konstitutions-Rettungswurf bestehen oder `1W6` Schallschaden erleiden.
 
-Der Schaden des Zaubers erhöht sich um `1d6` wenn du Stufe 5 erreichst (`2d6`), Stufe 11 (`3d6`) und Stufe 17 (`4d6`).
+Der Schaden des Zaubers erhöht sich um `1W6` wenn du Stufe 5 erreichst (`2W6`), Stufe 11 (`3W6`) und Stufe 17 (`4W6`).

@@ -4,7 +4,7 @@ Zeitaufwand: 1 Aktion
 Reichweite: 9 Meter
 Komponenten: G
 Wirkungsdauer: Unmittelbar oder 1 Stunde
-Angriff: n/v
+Angriff: nichts
 Schaden: Kontrolle
 tags: 
 - Quelle/5e/Xanathars_Guide_to_Everything
@@ -16,6 +16,8 @@ tags:
 - Zauber/Schule/Verwandlung
 aliases: 
 - Shape Water
+status:
+- completed
 ---
 # Wasser formen
 _Zaubertrick der Verwandlung_

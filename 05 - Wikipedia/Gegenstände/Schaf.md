@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Gold
+Bezeichnung: Schaf
 Typ: Handelsware
 Eigenschaften: n/v
 Kst.: 2 GM
@@ -11,7 +11,7 @@ tags:
 aliases:
 - Sheep
 ---
-# Sheep
+# Schaf
 *Handelsware*
 <img src="Gegenstände.webp" align="right" width="150">
 

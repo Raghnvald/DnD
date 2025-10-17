@@ -307,7 +307,7 @@ Du kannst mit Magie durchzogene Worte spinnen, die eine Kreatur verunsichern und
 | --- | ------------------------------------------------------ | -------- | ---------- | ------------------------------------------- | ----------------------------------------- |
 | 1.  | [Dissonantes-Flüstern](../../../05%20-%20Wikipedia/Zauber/Dissonantes-Flüstern.md) | 1 Aktion | 18 Meter   | WEI `=(this.CHA - 10) / 2 + 8 + this.Übung` | 3W6 Psychisch                             |
 | 2.  | [Heilendes Wort](../../../05%20-%20Wikipedia/Zauber/Heilendes-Wort.md)             | 1 Bonus  | 18 Meter   | -                                           | 1W4+`=floor((this.CHA - 10) / 2)` Heilung |
-| 3.  | [Magie entdecken](../../../05%20-%20Wikipedia/Zauber/Magie-entdecken.md)           | 1 Aktion | Selbst     | -                                           | Entdeckung                                |
+| 3.  | [Magie entdecken](Magie%20entdecken.md)           | 1 Aktion | Selbst     | -                                           | Entdeckung                                |
 | 4.  | [Person bezaubern](../../../05%20-%20Wikipedia/Zauber/Person-bezaubern.md)         | 1 Aktion | 9 Meter    | WEI `=(this.CHA - 10) / 2 + 8 + this.Übung` | [Bezaubert](Anhang PH-A#Bezaubert)        |
 | 5.  |                                                        |          |            |                                             |                                           |
 | 6.  |                                                        |          |            |                                             |                                           |

@@ -1,4 +1,11 @@
 ---
+Bezeichnung: Einfache Illusion
+Zeitaufwand: 1 Aktion
+Reichweite: 9 Meter
+Komponenten: G, M
+Wirkungsdauer: 1 Minute
+Angriff: INT
+Schaden: Kontrolle
 tags:
 - Quelle/5e/Players_Handbook
 - Klasse/Barde
@@ -11,19 +18,14 @@ tags:
 - Zauber/Schule/Illusion
 aliases:
 - Minor Illusion
-Bezeichnung: Einfache Illusion
-Zeitaufwand: 1 Aktion
-Reichweite: 9 Meter
-Komponenten: G, M
-Wirkungsdauer: 1 Minute
-Angriff: INT
-Schaden: Kontrolle
+status:
+- completed
 ---
 # Einfache Illusion
 _Zaubertrick der Illusion_
 
 _Klassen:_ Barde, Hexenmeister, Illrigger, Magier, Zauberer
-_Unterklassen:_
+_Unterklassen:_ keine
 
 _Quellen:_ Spielerhandbuch
 

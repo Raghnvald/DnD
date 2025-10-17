@@ -1,6 +1,13 @@
 ---
+Bezeichnung: Flammen kontrollieren
+Zeitaufwand: 1 Aktion
+Reichweite: 18 Meter
+Komponenten: G
+Wirkungsdauer: Unmittelbar oder 1 Stunde
+Angriff: nichts
+Schaden: Kontrolle
 tags: 
-- Quelle/5e/Elemental_Evils_Player_Companion
+- Quelle/5e/Xanathars_Guide_to_Everything
 - Klasse/Druide
 - Klasse/Magier
 - Klasse/Zauberer
@@ -9,21 +16,16 @@ tags:
 - Zauber/Schule/Verwandlung
 aliases:
 - Control Flames
-Bezeichnung: Flammen kontrollieren
-Zeitaufwand: 1 Aktion
-Reichweite: 18 Meter
-Komponenten: G
-Wirkungsdauer: Unmittelbar oder 1 Stunde
-Angriff: nichts
-Schaden: Kontrolle
+status:
+- completed
 ---
 # Flammen kontrollieren
 _Zaubertrick der Verwandlung_
 
 _Klassen:_ Druide, Magier, Zauberer
-_Unterklassen:_  n/a
+_Unterklassen:_  keine
 
-_Quellen:_ Elemental Evil's Player Companion, Xanathars Ratgeber für Alles
+_Quellen:_ Xanathars Ratgeber für Alles
 
 - **Zeitaufwand:** 1 Aktion
 - **Reichweite/Fläche:** 18 Meter

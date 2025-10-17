@@ -4,43 +4,22 @@ kanban-plugin: board
 
 ---
 
-## ![[../../99 - Setup/Sammlungen/Files/Bildersammlung/Symbolik/RandomGensTitleBar.webp]]
-
-- [ ] **[[../../05 - Wikipedia/Tabellen/Abenteuerausrüstung|Abenteuerausrüstung]]:** `dice: [](Abenteuerausrüstung.md#^adventuring-gear)`
-- [ ] **[[../../05 - Wikipedia/Tabellen/Essen-Trinken-und-Unterkunft|Essen, Trinken und Unterkunft]]:**
-	`dice: [](Essen-Trinken-und-Unterkunft.md#^food-drink-and-lodging)`
-- [ ] **[[../../05 - Wikipedia/Tabellen/Fertigkeitenproben-Typische-Schwierigkeitsklassen| Typische Schwierigkeitsklassen]]** `dice: [](Fertigkeitenproben-Typische-Schwierigkeitsklassen.md#^typical-difficulty-classes)`
-- [ ] **[[../../05 - Wikipedia/Tabellen/Gifte|Gifte]]:**
-	`dice: [](Gifte.md#^poisons)`
-- [ ] **[[../../05 - Wikipedia/Tabellen/Handelswaren|Handelswaren]]:**
-	`dice: [](Handelswaren.md#^trade-goods)`
-- [ ] **[[../../05 - Wikipedia/Tabellen/Rüstung-und-Schilde-Rüstung|Rüstungen]]:**
-	`dice: [](Rüstung-und-Schilde-Rüstung.md#^armor)`
-- [ ] **[[../../05 - Wikipedia/Tabellen/Waffen|Waffen]]:**
-	`dice: [](Waffen.md#^weapons)`
-- [ ] **[[../../05 - Wikipedia/Tabellen/Wahnsinn-Dauerhaft|Wahnsinn-Dauerhaft]]:** `dice: [](Wahnsinn-Dauerhaft.md#^indefinite-madness)`
-- [ ] **[[../../05 - Wikipedia/Tabellen/Wahnsinn-Kurzfristig]]:**
-	`dice: [](Wahnsinn-Kurzfristig.md#^short-term-madness)`
-- [ ] **[[../../05 - Wikipedia/Tabellen/Wahnsinn-Langfristig]]:**
-	`dice: [](Wahnsinn-Langfristig.md#^long-term-madness)`
-
-
 ## ![[../../99 - Setup/Sammlungen/Files/Bildersammlung/Symbolik/AbilitiesTitleBar.webp]]
 
-- [ ] [[../../03 - Quellen/Quellbücher/01. Grundregelwerk 2014/07-Attributswerte-verwenden#Stärke|Stärke]]
-- [ ] [[../../03 - Quellen/Quellbücher/01. Grundregelwerk 2014/07-Attributswerte-verwenden#Geschicklichkeit|Geschicklichkeit]]
-- [ ] [[../../03 - Quellen/Quellbücher/01. Grundregelwerk 2014/07-Attributswerte-verwenden#Konstitution|Konstitution]]
-- [ ] [[../../03 - Quellen/Quellbücher/01. Grundregelwerk 2014/07-Attributswerte-verwenden#Intelligenz|Intelligenz]]
-- [ ] [[../../03 - Quellen/Quellbücher/01. Grundregelwerk 2014/07-Attributswerte-verwenden#Weisheit|Weisheit]]
-- [ ] [[../../03 - Quellen/Quellbücher/01. Grundregelwerk 2014/07-Attributswerte-verwenden#Charisma|Charisma]]
+- [ ] [[01. Grundregelwerk 2014/07-Attributswerte-verwenden#Stärke|Stärke]]
+- [ ] [[01. Grundregelwerk 2014/07-Attributswerte-verwenden#Geschicklichkeit|Geschicklichkeit]]
+- [ ] [[01. Grundregelwerk 2014/07-Attributswerte-verwenden#Konstitution|Konstitution]]
+- [ ] [[01. Grundregelwerk 2014/07-Attributswerte-verwenden#Intelligenz|Intelligenz]]
+- [ ] [[01. Grundregelwerk 2014/07-Attributswerte-verwenden#Weisheit|Weisheit]]
+- [ ] [[01. Grundregelwerk 2014/07-Attributswerte-verwenden#Charisma|Charisma]]
 
 
 ## ![[../../99 - Setup/Sammlungen/Files/Bildersammlung/Symbolik/SkillsTitleBar.webp]]
 
-- [ ] [[../../03 - Quellen/Quellbücher/01. Grundregelwerk 2014/07-Attributswerte-verwenden#Akrobatik|Akrobatik / Acrobatics]]
-- [ ] [[../../03 - Quellen/Quellbücher/01. Grundregelwerk 2014/07-Attributswerte-verwenden#Arkane Kunde|Arkane Kunde / Arcana]]
-- [ ] [[../../03 - Quellen/Quellbücher/01. Grundregelwerk 2014/07-Attributswerte-verwenden#Athletik|Athletik]]
-- [ ] [[../../03 - Quellen/Quellbücher/01. Grundregelwerk 2014/07-Attributswerte-verwenden#Auftreten|Auftreten]]
+- [ ] [[01. Grundregelwerk 2014/07-Attributswerte-verwenden##Akrobatik|Akrobatik / Acrobatics]]
+- [ ] [[01. Grundregelwerk 2014/07-Attributswerte-verwenden#Arkane Kunde|Arkane Kunde / Arcana]]
+- [ ] [[01. Grundregelwerk 2014/07-Attributswerte-verwenden#Athletik|Athletik]]
+- [ ] [[01. Grundregelwerk 2014/07-Attributswerte-verwenden#Auftreten|Auftreten]]
 - [ ] [[../../03 - Quellen/Quellbücher/01. Grundregelwerk 2014/07-Attributswerte-verwenden#Einschüchtern|Einschüchtern | Intimidation]]
 - [ ] [[../../03 - Quellen/Quellbücher/01. Grundregelwerk 2014/07-Attributswerte-verwenden#Fingerfertigkeit|Fingerfertigkeit / Sleight of Hand]]
 - [ ] [[../../03 - Quellen/Quellbücher/01. Grundregelwerk 2014/07-Attributswerte-verwenden#Geschichte|Geschichte / History]]
@@ -59,15 +38,15 @@ kanban-plugin: board
 
 ## ![[../../99 - Setup/Sammlungen/Files/Bildersammlung/Symbolik/CheckTitleBar.webp]]
 
-- [ ] [[../../03 - Quellen/Quellbücher/01. Grundregelwerk 2014/07-Attributswerte-verwenden#Attributswürfe|Attributswürfe]]
-- [ ] [[../../03 - Quellen/Quellbücher/01. Grundregelwerk 2014/07-Attributswerte-verwenden#Fertigkeiten|Fertigkeiten]]
-- [ ] [[../../03 - Quellen/Quellbücher/01. Grundregelwerk 2014/07-Attributswerte-verwenden#Heben und Tragen|Heben und Tragen]]
-- [ ] [[../../03 - Quellen/Quellbücher/01. Grundregelwerk 2014/08-Abenteuersuche#Lichtverhältnisse und Sicht|Lichtverhältnisse und Sicht]]
-- [ ] [[../../05 - Wikipedia/Zauber/Magie-entdecken|Magie entdecken]]
-- [ ] [[../../03 - Quellen/Quellbücher/01. Grundregelwerk 2014/07-Attributswerte-verwenden#Passive Attributswürfe|Passive Attributswürfe]]
-- [ ] [[../../03 - Quellen/Quellbücher/01. Grundregelwerk 2014/07-Attributswerte-verwenden#Übungsbonus|Übungsbonus]]
+- [ ] [[01. Grundregelwerk 2014/07-Attributswerte-verwenden#Attributswürfe|Attributswürfe]]
+- [ ] [[01. Grundregelwerk 2014/07-Attributswerte-verwenden#Fertigkeiten|Fertigkeiten]]
+- [ ] [[01. Grundregelwerk 2014/07-Attributswerte-verwenden#Heben und Tragen|Heben und Tragen]]
+- [ ] [[01. Grundregelwerk 2014/08-Abenteuersuche#Lichtverhältnisse und Sicht|Lichtverhältnisse und Sicht]]
+- [ ] [[Magie entdecken|Magie entdecken]]
+- [ ] [[01. Grundregelwerk 2014/07-Attributswerte-verwenden#Passive Attributswürfe|Passive Attributswürfe]]
+- [ ] [[01. Grundregelwerk 2014/07-Attributswerte-verwenden#Übungsbonus|Übungsbonus]]
 - [ ] [[../../03 - Quellen/Quellbücher/01. Grundregelwerk 2014/07-Attributswerte-verwenden#Vor- und Nachteil|Vor- und Nachteil]]
-- [ ] [[../../03 - Quellen/Quellbücher/01. Grundregelwerk 2014/07-Attributswerte-verwenden#Wettstreit|Wettstreit]]
+- [ ] [[01. Grundregelwerk 2014/07-Attributswerte-verwenden#Wettstreit|Wettstreit]]
 
 
 ## ![[../../99 - Setup/Sammlungen/Files/Bildersammlung/Symbolik/ConditionsTitleBar.webp]]
@@ -86,7 +65,7 @@ kanban-plugin: board
 - [ ] [[01. Grundregelwerk 2014/Anhang PH-A#Taub|Taub]]
 - [ ] [[01. Grundregelwerk 2014/Anhang PH-A#Unsichtbar|Unsichtbar]]
 - [ ] [[01. Grundregelwerk 2014/Anhang PH-A#Verängstigt|Verängstigt]]
-- [ ] [[01. Grundregelwerk 2014/Anhang PH-A#Vergiftet|Vergiftet]]
+- [ ] [[01. Grundregelwerk 2014/Anhang PH-A#Vergiftet|Vergiftet]] ^2i4qx9
 - [ ] [[01. Grundregelwerk 2014/Anhang PH-A#Versteinert|Versteinert]]
 
 
@@ -151,24 +130,24 @@ kanban-plugin: board
 
 ## ![[../../99 - Setup/Sammlungen/Files/Bildersammlung/Symbolik/HealDeathDmgTitleBar.webp]]
 
-- [ ] [[../../03 - Quellen/Quellbücher/01. Grundregelwerk 2014/09-Kampf#Auf 0 Trefferpunkte sinken#Das Bewusstsein verlieren|Das Bewusstsein verlieren]]
-- [ ] [[../../03 - Quellen/Quellbücher/01. Grundregelwerk 2014/09-Kampf#Auf 0 Trefferpunkte sinken#Eine Kreatur stabilisieren|Eine Kreatur stabilisieren]]
+- [ ] [[01. Grundregelwerk 2014/09-Kampf#Auf 0 Trefferpunkte sinken#Das Bewusstsein verlieren|Das Bewusstsein verlieren]]
+- [ ] [[01. Grundregelwerk 2014/09-Kampf#Auf 0 Trefferpunkte sinken#Eine Kreatur stabilisieren|Eine Kreatur stabilisieren]]
 - [ ] [[../../03 - Quellen/Quellbücher/01. Grundregelwerk 2014/09-Kampf#Auf 0 Trefferpunkte sinken#Monster und der Tod|Monster und der Tod]]
-- [ ] [[../../03 - Quellen/Quellbücher/01. Grundregelwerk 2014/09-Kampf#Auf 0 Trefferpunkte sinken#Sofortiger Tod|Sofortiger Tod]]
-- [ ] [[../../03 - Quellen/Quellbücher/01. Grundregelwerk 2014/09-Kampf#Auf 0 Trefferpunkte sinken#Todesrettungswürfe|Todesrettungswürfe]]
-- [ ] [[../../03 - Quellen/Quellbücher/01. Grundregelwerk 2014/09-Kampf#Schaden und Heilung#Heilung|Heilung]]
+- [ ] [[01. Grundregelwerk 2014/09-Kampf#Auf 0 Trefferpunkte sinken#Sofortiger Tod|Sofortiger Tod]]
+- [ ] [[01. Grundregelwerk 2014/09-Kampf#Auf 0 Trefferpunkte sinken#Todesrettungswürfe|Todesrettungswürfe]]
+- [ ] [[01. Grundregelwerk 2014/09-Kampf#Schaden und Heilung#Heilung|Heilung]]
 
 
 ## ![[../../99 - Setup/Sammlungen/Files/Bildersammlung/Symbolik/WeaponsArmorItemsTitleBar.webp]]
 
 - [ ] [[../../03 - Quellen/Quellbücher/01. Grundregelwerk 2014/14-Magische-Gegenstände#Einen Gegenstand aktivieren|Einen Gegenstand aktivieren]]
 - [ ] [[../../03 - Quellen/Quellbücher/01. Grundregelwerk 2014/14-Magische-Gegenstände#Einstimmung|Einstimmung]]
-- [ ] [[../../05 - Wikipedia/Tabellen/Abenteuerausrüstung|Abenteuerausrüstung]]
-- [ ] [[../../05 - Wikipedia/Tabellen/Gifte|Gifte]]
-- [ ] [[../../05 - Wikipedia/Tabellen/Handelswaren|Handelswaren]]
-- [ ] [[../../05 - Wikipedia/Tabellen/Rüstung-und-Schilde-Rüstung|Rüstungen und Schilde]]
-- [ ] [[../../05 - Wikipedia/Tabellen/Waffen|Waffen]]
-- [ ] [[../../05 - Wikipedia/Tabellen/Zauberschriftrolle-Zauberschriftrolle|Zauberschriftrolle]]
+- [ ] [[00. Ausrüstung.base|Abenteuerausrüstung]]
+- [ ] [[00. Ausrüstung.base#Gifte|Gifte]]
+- [ ] [[00. Ausrüstung.base#Handelsgüter|Handelsgüter]]
+- [ ] [[00. Rüstungen.base|Rüstungen und Schilde]]
+- [ ] [[00. Waffen.base|Waffen]]
+- [ ] [[Tabellen/Zauberschriftrolle-Zauberschriftrolle|Zauberschriftrolle]]
 
 
 ## ![[../../99 - Setup/Sammlungen/Files/Bildersammlung/Symbolik/MagicTitleBar.webp]]
@@ -188,6 +167,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,null,null,false,null,null,null,null,null,null,null,false],"show-checkboxes":false,"hide-card-count":true,"show-archive-all":false,"show-view-as-markdown":false,"show-set-view":false,"show-add-list":false,"show-search":false}
+{"kanban-plugin":"board","list-collapse":[false,null,null,false,null,null,null,null,null,null,null,false],"show-checkboxes":false,"hide-card-count":true,"show-archive-all":false,"show-view-as-markdown":false,"show-set-view":false,"show-add-list":false,"show-search":false}
 ```
 %%

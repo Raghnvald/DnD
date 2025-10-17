@@ -15,6 +15,8 @@ tags:
 - Zauber/Schule/Hervorrufung
 aliases: 
 - Frostbite
+status:
+- completed
 ---
 # Erfrierung
 _Zaubertrick der Hervorrufung_
@@ -29,7 +31,7 @@ _Quellen:_ Xanathars Ratgeber für Alles
 - **Komponenten:** V, G
 - **Wirkungsdauer:** Unmittelbar
 - **Angriff / Rettung:** Konstitution
-- **Schaden / Effekt:**  1d6 Kälte
+- **Schaden / Effekt:**  `1W6` Kälte
 
 Du rufst an einer Kreatur, welche du in der Reichweite sehen kannst, einen betäubenden Frost hervor. Das Ziel muss einen `Konstitutions-Rettungswurf` ablegen. Bei einem Fehlschlag erleidet es `1W6` Kälteschaden und hat Nachteil bei seinem nächsten Waffenangriffswurf, den es vor dem Ende seines nächsten Zuges ablegt.
 
