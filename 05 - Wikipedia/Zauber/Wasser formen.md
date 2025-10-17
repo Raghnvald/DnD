@@ -4,8 +4,8 @@ Zeitaufwand: 1 Aktion
 Reichweite: 9 Meter
 Komponenten: G
 Wirkungsdauer: Unmittelbar oder 1 Stunde
-Angriff: 
-Schaden: 
+Angriff: n/v
+Schaden: Kontrolle
 tags: 
 - Quelle/5e/Xanathars_Guide_to_Everything
 - Klasse/Druide
@@ -29,8 +29,8 @@ _Quellen:_ Xanathars Ratgeber für Alles
 - **Reichweite / Fläche:** 9 Meter
 - **Komponenten:** G
 - **Wirkungsdauer:** Unmittelbar oder 1 Stunde (siehe unten)
-- **Angriff / Rettung:** n/a
-- **Schaden / Effekt:**  n/a
+- **Angriff / Rettung:** n/v
+- **Schaden / Effekt:**  Kontrolle
 
 Du wählst einen Bereich mit Wasser, den du innerhalb der Reichweite sehen kannst und der in einen Würfel mit 1,50 m Kantenlänge passt. Du manipulierst das Wasser auf eine der folgenden Weisen:
 

@@ -31,6 +31,6 @@ _Quellen:_ Xanathars Ratgeber für Alles
 - **Angriff / Rettung:** Weisheit
 - **Schaden / Effekt:**  n/a
 
-Du erweckst die Angst vor der Vergänglichkeit bei einer Kreatur, die du innerhalb der Reichweite sehen kannst. Ein Konstrukt oder ein Untoter ist diesem Effekt gegenüber immun. Das Ziel muss einen erfolgreichen Weisheits-Rettungswurf ablegen oder wird bis zum Ende des Zaubers von dir verängstigt. Das verängstigte Ziel kann den Rettungswurf am Ende jedes seiner Züge wiederholen und den Effekt bei sich selbst mit einem Erfolg beenden.
+Du erweckst die Angst vor der Vergänglichkeit bei einer Kreatur, die du innerhalb der Reichweite sehen kannst. Ein Konstrukt oder ein Untoter ist diesem Effekt gegenüber immun. Das Ziel muss einen erfolgreichen `Weisheits-Rettungswurf` ablegen oder wird bis zum Ende des Zaubers von dir verängstigt. Das verängstigte Ziel kann den Rettungswurf am Ende jedes seiner Züge wiederholen und den Effekt bei sich selbst mit einem Erfolg beenden.
 
 **Auf höheren Graden.** Wenn du diesen Zauber mit einem Zauberplatz des 2. Grades oder höher wirkst, kannst du für jeden Zauberplatz-Grad über dem ersten eine zusätzliche Kreatur als Ziel wählen. Die Kreaturen müssen innerhalb von 9 m voneinander sein, wenn du sie als Ziel wählst.

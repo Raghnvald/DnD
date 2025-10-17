@@ -4,8 +4,8 @@ Zeitaufwand: 1 Aktion
 Reichweite: 9 Meter
 Komponenten: V, G
 Wirkungsdauer: Unmittelbar
-Angriff: 
-Schaden: 
+Angriff: STR
+Schaden: Kontrolle
 tags: 
 - Quelle/5e/Xanathars_Guide_to_Everything
 - Klasse/Druide
@@ -29,8 +29,8 @@ _Quellen:_ Xanathars Ratgeber für Alles
 - **Reichweite / Fläche:** 9 Meter
 - **Komponenten:** V, G
 - **Wirkungsdauer:** Unmittelbar
-- **Angriff / Rettung:** n/a
-- **Schaden / Effekt:**  n/a
+- **Angriff / Rettung:** Stärke
+- **Schaden / Effekt:**  Kontrolle
 
 Du ermächtigst dich der Luft und zwingst sie, einen der folgenden Effekte an einem Punkt zu erzeugen, den du innerhalb der Reichweite sehen kannst:
 

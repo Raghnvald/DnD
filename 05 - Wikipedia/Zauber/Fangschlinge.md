@@ -5,14 +5,14 @@ Reichweite: Berührung
 Komponenten: G, M
 Wirkungsdauer: 8 Stunden
 Angriff: GES
-Schaden: 
+Schaden: Festgesetzt
 tags: 
 - Quelle/5e/Xanathars_Guide_to_Everything
 - Klasse/Druide
 - Klasse/Magier
 - Klasse/Waldläufer
 - Zauber/Original/Snare
-- Zauber/Grad/0
+- Zauber/Grad/1
 - Zauber/Schule/Bann
 aliases: 
 - Snare
@@ -34,10 +34,10 @@ _Quellen:_ Xanathars Ratgeber für Alles
 
 Wenn du diesen Zauber wirkst nutzt du das Seil, um einen Kreis mit 1,50 m Radius zu schaffen, welcher auf dem Grund oder dem Boden liegt. Bei Abschluss des Wirkens des Zaubers verschwindet das Seil, und der Kreis wird zu einer magischen Falle.
 
-Diese Falle ist beinahe unsichtbar, und es ist ein erfolgreicher Wurf auf Intelligenz (Nachforschungen) gegen deinen Zauberrettungswurf-SG nötig, um sie zu erkennen.
+Diese Falle ist beinahe unsichtbar, und es ist ein erfolgreicher Wurf auf `Intelligenz (Nachforschungen)` gegen deinen Zauberrettungswurf-SG nötig, um sie zu erkennen.
 
-Die Falle löst aus, wenn eine kleine, mittelgroße oder große Kreatur sich auf den Untergrund oder den Boden im Bereich der Falle bewegt. Diese Kreatur muss einen erfolgreichen `Geschicklichkeits-Rettungswurf` ablegen oder wird auf magische Weise in die Luft gehoben, wo sie dann kopfüber 1 m über dem Boden hängt. Die Kreatur ist bis zum Ende des Zaubers festgesetzt.
+Die Falle löst aus, wenn eine kleine, mittelgroße oder große Kreatur sich auf den Untergrund oder den Boden im Bereich der Falle bewegt. Diese Kreatur muss einen erfolgreichen `Geschicklichkeits-Rettungswurf` ablegen oder wird auf magische Weise in die Luft gehoben, wo sie dann kopfüber 1 m über dem Boden hängt. Die Kreatur ist bis zum Ende des Zaubers [[01. Grundregelwerk 2014/Anhang PH-A#Festgesetzt|festgesetzt]].
 
-Eine festgesetzte Kreatur kann ablegen am Ende jeder ihrer Züge einen Geschicklichkeitsrettungswurf ablegen, um den Effekt auf sich selbst bei einem Erfolg zu beenden. Alternativ kann die Kreatur oder jemand anderes, der sie erreichen kann, eine Aktion verwenden, um einen Wurf auf Intelligenz (Arkane Kunde) gegen deinen Zauberrettungswurf-SG abzulegen. Bei einem Erfolg endet der festsetzende Effekt.
+Eine festgesetzte Kreatur kann ablegen am Ende jeder ihrer Züge einen `Geschicklichkeits-Rettungswurf` ablegen, um den Effekt auf sich selbst bei einem Erfolg zu beenden. Alternativ kann die Kreatur oder jemand anderes, der sie erreichen kann, eine Aktion verwenden, um einen Wurf auf `Intelligenz (Arkane Kunde)` gegen deinen Zauberrettungswurf-SG abzulegen. Bei einem Erfolg endet der festsetzende Effekt.
 
 Nach dem Auslösen der Falle endet der Zauber, wenn keine Kreatur darin gebunden ist.
