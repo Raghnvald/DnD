@@ -1,12 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses: dnd5e-only-statblock
+prefer-view: edit-source read
+Bezeichnung: 
+Typ: Bestie
+Größe: 
+HG: 
+status:
+order:
+parent:
+image: 
 tags:
 - Quelle/5e/Monster_Manual
 - Habitat/Wald
 - Größe/Riesig
 - Typ/Bestie
-aliases: ["Giant Ape"]
+aliases:
+- Giant Ape
 ---
 # Giant Ape
 *Source: SRD / Basic Rules*  
@@ -37,7 +46,8 @@ aliases: ["Giant Ape"]
 > 
 > ***Fist.*** *Melee Weapon Attack:* +9 to hit, reach 10 ft., one target. *Hit:* 22 (`3d10 + 6`) bludgeoning damage.
 > 
-> ***Rock.*** *Ranged Weapon Attack:* +9 to hit, range 50/100 ft., one target. *Hit:* 30 (`7d6 + 6`) bludgeoning damage.
+> ***Rock.*** *Ranged Weapon Attack:* +9 to hit, range 50/100 ft., one target. *Hit:* 30 (`7d6 + 6`) bludgeoning damage.
+
 ^statblock
 
 ## Environment

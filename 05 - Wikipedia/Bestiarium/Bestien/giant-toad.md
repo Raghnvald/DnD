@@ -1,6 +1,14 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses: dnd5e-only-statblock
+prefer-view: edit-source read
+Bezeichnung: 
+Typ: Bestie
+Größe: 
+HG: 
+status:
+order:
+parent:
+image: 
 tags:
 - Quelle/5e/Monster_Manual
 - Habitat/Küste
@@ -10,7 +18,8 @@ tags:
 - Habitat/Unterreich
 - Größe/Groß
 - Typ/Bestie
-aliases: ["Giant Toad"]
+aliases:
+- Giant Toad
 ---
 # Giant Toad
 *Source: SRD / Basic Rules*  
@@ -47,7 +56,8 @@ aliases: ["Giant Toad"]
 > 
 > ***Swallow.*** The toad makes one bite attack against a Medium or smaller target it is grappling. If the attack hits, the target is swallowed, and the grapple ends. The swallowed target is [blinded](rules/conditions.md#blinded) and [restrained](rules/conditions.md#restrained), it has total cover against attacks and other effects outside the toad, and it takes 10 (`3d6`) acid damage at the start of each of the toad's turns. The toad can have only one target swallowed at a time.
 > 
-> If the toad dies, a swallowed creature is no longer [restrained](rules/conditions.md#restrained) by it and can escape from the corpse using 5 feet of movement, exiting [prone](rules/conditions.md#prone).
+> If the toad dies, a swallowed creature is no longer [restrained](rules/conditions.md#restrained) by it and can escape from the corpse using 5 feet of movement, exiting [prone](rules/conditions.md#prone).
+
 ^statblock
 
 ## Environment

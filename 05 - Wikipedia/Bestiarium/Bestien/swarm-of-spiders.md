@@ -1,6 +1,14 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses: dnd5e-only-statblock
+prefer-view: edit-source read
+Bezeichnung: 
+Typ: Bestie
+Größe: 
+HG: 
+status:
+order:
+parent:
+image: 
 tags:
 - Quelle/5e/Monster_Manual
 - Habitat/Wüste
@@ -50,7 +58,8 @@ aliases: ["Swarm of Spiders"]
 > 
 > ## Actions
 > 
-> ***Bites.*** *Melee Weapon Attack:* +3 to hit, reach 0 ft., one target in the swarm's space. *Hit:* 10 (`4d4`) piercing damage, or 5 (`2d4`) piercing damage if the swarm has half of its hit points or fewer.
+> ***Bites.*** *Melee Weapon Attack:* +3 to hit, reach 0 ft., one target in the swarm's space. *Hit:* 10 (`4d4`) piercing damage, or 5 (`2d4`) piercing damage if the swarm has half of its hit points or fewer.
+
 ^statblock
 
 ## Environment

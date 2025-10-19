@@ -1,6 +1,14 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses: dnd5e-only-statblock
+prefer-view: edit-source read
+Bezeichnung: 
+Typ: Bestie
+Größe: 
+HG: 
+status:
+order:
+parent:
+image: 
 tags:
 - Quelle/5e/Monster_Manual
 - Habitat/Wüste
@@ -41,7 +49,8 @@ aliases: ["Mule"]
 > 
 > ## Actions
 > 
-> ***Hooves.*** *Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 4 (`1d4 + 2`) bludgeoning damage.
+> ***Hooves.*** *Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 4 (`1d4 + 2`) bludgeoning damage.
+
 ^statblock
 
 ## Environment

@@ -1,6 +1,14 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses: dnd5e-only-statblock
+prefer-view: edit-source read
+Bezeichnung: 
+Typ: Bestie
+Größe: 
+HG: 
+status:
+order:
+parent:
+image: 
 tags:
 - Quelle/5e/Monster_Manual
 - Habitat/Wüste
@@ -46,7 +54,8 @@ aliases: ["Swarm of Centipedes"]
 > 
 > ***Bites.*** *Melee Weapon Attack:* +3 to hit, reach 0 ft., one target in the swarm's space. *Hit:* 10 (`4d4`) piercing damage, or 5 (`2d4`) piercing damage if the swarm has half of its hit points or fewer.
 > 
-> A creature reduced to 0 hit points by a swarm of centipedes is stable but [poisoned](rules/conditions.md#poisoned) for 1 hour, even after regaining hit points, and [paralyzed](rules/conditions.md#paralyzed) while [poisoned](rules/conditions.md#poisoned) in this way.
+> A creature reduced to 0 hit points by a swarm of centipedes is stable but [poisoned](rules/conditions.md#poisoned) for 1 hour, even after regaining hit points, and [paralyzed](rules/conditions.md#paralyzed) while [poisoned](rules/conditions.md#poisoned) in this way.
+
 ^statblock
 
 ## Environment

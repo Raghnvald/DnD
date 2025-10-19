@@ -1,6 +1,14 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses: dnd5e-only-statblock
+prefer-view: edit-source read
+Bezeichnung: 
+Typ: Bestie
+Größe: 
+HG: 
+status:
+order:
+parent:
+image: 
 tags:
 - Quelle/5e/Monster_Manual
 - Habitat/Grasland
@@ -37,7 +45,8 @@ aliases: ["Tyrannosaurus Rex"]
 > 
 > ***Bite.*** *Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit:* 33 (`4d12 + 7`) piercing damage. If the target is a Medium or smaller creature, it is [grappled](rules/conditions.md#grappled) (escape DC 17). Until this grapple ends, the target is [restrained](rules/conditions.md#restrained), and the tyrannosaurus can't bite another target.
 > 
-> ***Tail.*** *Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit:* 20 (`3d8 + 7`) bludgeoning damage.
+> ***Tail.*** *Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit:* 20 (`3d8 + 7`) bludgeoning damage.
+
 ^statblock
 
 ## Environment

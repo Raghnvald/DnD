@@ -1,12 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses: dnd5e-only-statblock
+prefer-view: edit-source read
+Bezeichnung: 
+Typ: Bestie
+Größe: 
+HG: 
+status:
+order:
+parent:
+image: 
 tags:
 - Quelle/5e/Monster_Manual
 - Habitat/Unterreich
 - Größe/Klein
 - Typ/Bestie
-aliases: ["Giant Fire Beetle"]
+aliases:
+- Giant Fire Beetle
 ---
 # Giant Fire Beetle
 *Source: SRD / Basic Rules*  
@@ -37,7 +46,8 @@ aliases: ["Giant Fire Beetle"]
 > 
 > ## Actions
 > 
-> ***Bite.*** *Melee Weapon Attack:* +1 to hit, reach 5 ft., one target. *Hit:* 2 (`1d6 - 1`) slashing damage.
+> ***Bite.*** *Melee Weapon Attack:* +1 to hit, reach 5 ft., one target. *Hit:* 2 (`1d6 - 1`) slashing damage.
+
 ^statblock
 
 ## Environment

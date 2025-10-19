@@ -24,3 +24,5 @@ views:
     columnSize:
       note.Kst.: 88
       note.RK: 150
+    markers: bullet
+    nestedProperties: false

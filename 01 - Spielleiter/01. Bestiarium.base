@@ -1,0 +1,256 @@
+properties:
+  file.name:
+    displayName: Name
+views:
+  - type: cards
+    name: Aberrationen
+    filters:
+      and:
+        - Typ == "Aberration"
+    order:
+      - file.name
+      - Größe
+      - HG
+      - status
+    columnSize:
+      file.name: 135
+      note.Typ: 124
+      note.Größe: 101
+    cardSize: 100
+    image: note.image
+    imageFit: contain
+    imageAspectRatio: 1
+  - type: cards
+    name: Bestien
+    filters:
+      and:
+        - Typ == "Bestie"
+    order:
+      - file.name
+      - Größe
+      - HG
+      - status
+    columnSize:
+      file.name: 135
+      note.Typ: 124
+      note.Größe: 101
+    cardSize: 100
+    image: note.image
+    imageFit: contain
+    imageAspectRatio: 1
+  - type: cards
+    name: Celestische
+    filters:
+      and:
+        - Typ == "Celestisch"
+    order:
+      - file.name
+      - Größe
+      - HG
+      - status
+    columnSize:
+      file.name: 135
+      note.Typ: 124
+      note.Größe: 101
+    cardSize: 100
+    image: note.image
+    imageFit: contain
+    imageAspectRatio: 1
+  - type: cards
+    name: Drachen
+    filters:
+      and:
+        - Typ == "Drache"
+    order:
+      - file.name
+      - Größe
+      - HG
+      - status
+    columnSize:
+      file.name: 135
+      note.Typ: 124
+      note.Größe: 101
+    cardSize: 100
+    image: note.image
+    imageFit: contain
+    imageAspectRatio: 1
+  - type: cards
+    name: Elementare
+    filters:
+      and:
+        - Typ == "Elementar"
+    order:
+      - file.name
+      - Größe
+      - HG
+      - status
+    columnSize:
+      file.name: 135
+      note.Typ: 124
+      note.Größe: 101
+    cardSize: 100
+    image: note.image
+    imageFit: contain
+    imageAspectRatio: 1
+  - type: cards
+    name: Feenwesen
+    filters:
+      and:
+        - Typ == "Feenwesen"
+    order:
+      - file.name
+      - Größe
+      - HG
+      - status
+    columnSize:
+      file.name: 135
+      note.Typ: 124
+      note.Größe: 101
+    cardSize: 100
+    image: note.image
+    imageFit: contain
+    imageAspectRatio: 1
+  - type: cards
+    name: Humanoide
+    filters:
+      and:
+        - Typ == "Humanoid"
+    order:
+      - file.name
+      - Größe
+      - HG
+      - status
+    columnSize:
+      file.name: 135
+      note.Typ: 124
+      note.Größe: 101
+    cardSize: 100
+    image: note.image
+    imageFit: contain
+    imageAspectRatio: 1
+  - type: cards
+    name: Konstrukte
+    filters:
+      and:
+        - Typ == "Konstrukt"
+    order:
+      - file.name
+      - Größe
+      - HG
+      - status
+    columnSize:
+      file.name: 135
+      note.Typ: 124
+      note.Größe: 101
+    cardSize: 100
+    image: note.image
+    imageFit: contain
+    imageAspectRatio: 1
+  - type: cards
+    name: Monstrositäten
+    filters:
+      and:
+        - Typ == "Monstrosität"
+    order:
+      - file.name
+      - Größe
+      - HG
+      - status
+    columnSize:
+      file.name: 135
+      note.Typ: 124
+      note.Größe: 101
+    cardSize: 100
+    image: note.image
+    imageFit: contain
+    imageAspectRatio: 1
+  - type: cards
+    name: Pflanzen
+    filters:
+      and:
+        - Typ == "Pflanze"
+    order:
+      - file.name
+      - Größe
+      - HG
+      - status
+    columnSize:
+      file.name: 135
+      note.Typ: 124
+      note.Größe: 101
+    cardSize: 100
+    image: note.image
+    imageFit: contain
+    imageAspectRatio: 1
+  - type: cards
+    name: Riesen
+    filters:
+      and:
+        - Typ == "Riese"
+    order:
+      - file.name
+      - Größe
+      - HG
+      - status
+    columnSize:
+      file.name: 135
+      note.Typ: 124
+      note.Größe: 101
+    cardSize: 100
+    image: note.image
+    imageFit: contain
+    imageAspectRatio: 1
+  - type: cards
+    name: Schleime
+    filters:
+      and:
+        - Typ == "Schleim"
+    order:
+      - file.name
+      - Größe
+      - HG
+      - status
+    columnSize:
+      file.name: 135
+      note.Typ: 124
+      note.Größe: 101
+    cardSize: 100
+    image: note.image
+    imageFit: contain
+    imageAspectRatio: 1
+  - type: cards
+    name: Unholde
+    filters:
+      and:
+        - Typ == "Unhold"
+    order:
+      - file.name
+      - Größe
+      - HG
+      - status
+    columnSize:
+      file.name: 135
+      note.Typ: 124
+      note.Größe: 101
+    cardSize: 100
+    image: note.image
+    imageFit: contain
+    imageAspectRatio: 1
+  - type: cards
+    name: Untote
+    filters:
+      and:
+        - Typ == "Untoter"
+    order:
+      - file.name
+      - Größe
+      - HG
+      - status
+    columnSize:
+      file.name: 135
+      note.Typ: 124
+      note.Größe: 101
+    cardSize: 100
+    image: note.image
+    imageFit: contain
+    imageAspectRatio: 1

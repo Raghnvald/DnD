@@ -1,13 +1,22 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses: dnd5e-only-statblock
+prefer-view: edit-source read
+Bezeichnung: 
+Typ: Bestie
+Größe: 
+HG: 
+status:
+order:
+parent:
+image: 
 tags:
 - Quelle/5e/Monster_Manual
 - Habitat/Wald
 - Habitat/Grasland
 - Größe/Mittelgroß
 - Typ/Bestie
-aliases: ["Deer"]
+aliases:
+- Deer
 ---
 # Deer
 *Source: SRD / Basic Rules*  

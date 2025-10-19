@@ -1,11 +1,20 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses: dnd5e-only-statblock
+prefer-view: edit-source read
+Bezeichnung: 
+Typ: Bestie
+Größe: 
+HG: 
+status:
+order:
+parent:
+image: 
 tags:
 - Quelle/5e/Monster_Manual
 - Größe/Winzig
 - Typ/Bestie
-aliases: ["Frog"]
+aliases:
+- Frog
 ---
 # Frog
 *Source: SRD / Basic Rules*  
@@ -34,5 +43,6 @@ aliases: ["Frog"]
 > 
 > ***Amphibious.*** The frog can breathe air and water.
 > 
-> ***Standing Leap.*** The frog's long jump is up to 10 feet and its high jump is up to 5 feet, with or without a running start.
+> ***Standing Leap.*** The frog's long jump is up to 10 feet and its high jump is up to 5 feet, with or without a running start.
+
 ^statblock

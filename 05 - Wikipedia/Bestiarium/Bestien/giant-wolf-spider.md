@@ -1,6 +1,14 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses: dnd5e-only-statblock
+prefer-view: edit-source read
+Bezeichnung: 
+Typ: Bestie
+Größe: 
+HG: 
+status:
+order:
+parent:
+image: 
 tags:
 - Quelle/5e/Monster_Manual
 - Habitat/Küste
@@ -10,7 +18,8 @@ tags:
 - Habitat/Hügel
 - Größe/Mittelgroß
 - Typ/Bestie
-aliases: ["Giant Wolf Spider"]
+aliases:
+- Giant Wolf Spider
 ---
 # Giant Wolf Spider
 *Source: SRD / Basic Rules*  
@@ -45,7 +54,8 @@ aliases: ["Giant Wolf Spider"]
 > 
 > ## Actions
 > 
-> ***Bite.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one creature. *Hit:* 4 (`1d6 + 1`) piercing damage, and the target must make a DC 11 Constitution saving throw, taking 7 (`2d6`) poison damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 hit points, the target is stable but [poisoned](rules/conditions.md#poisoned) for 1 hour, even after regaining hit points, and is [paralyzed](rules/conditions.md#paralyzed) while [poisoned](rules/conditions.md#poisoned) in this way.
+> ***Bite.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one creature. *Hit:* 4 (`1d6 + 1`) piercing damage, and the target must make a DC 11 Constitution saving throw, taking 7 (`2d6`) poison damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 hit points, the target is stable but [poisoned](rules/conditions.md#poisoned) for 1 hour, even after regaining hit points, and is [paralyzed](rules/conditions.md#paralyzed) while [poisoned](rules/conditions.md#poisoned) in this way.
+
 ^statblock
 
 ## Environment

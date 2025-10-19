@@ -1,12 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses: dnd5e-only-statblock
+prefer-view: edit-source read
+Bezeichnung: 
+Typ: Bestie
+Größe: 
+HG: 
+status:
+order:
+parent:
+image: 
 tags:
 - Quelle/5e/Monster_Manual
 - Habitat/Wald
 - Größe/Mittelgroß
 - Typ/Bestie
-aliases: ["Giant Badger"]
+aliases:
+- Giant Badger
 ---
 # Giant Badger
 *Source: SRD / Basic Rules*  
@@ -41,7 +50,8 @@ aliases: ["Giant Badger"]
 > 
 > ***Bite.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4 (`1d6 + 1`) piercing damage.
 > 
-> ***Claws.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 6 (`2d4 + 1`) slashing damage.
+> ***Claws.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 6 (`2d4 + 1`) slashing damage.
+
 ^statblock
 
 ## Environment

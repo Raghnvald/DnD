@@ -1,6 +1,14 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses: dnd5e-only-statblock
+prefer-view: edit-source read
+Bezeichnung: 
+Typ: Bestie
+Größe: 
+HG: 
+status:
+order:
+parent:
+image: 
 tags:
 - Quelle/5e/Monster_Manual
 - Habitat/Arktis
@@ -39,7 +47,8 @@ aliases: ["Mammoth"]
 > 
 > ***Gore.*** *Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit:* 25 (`4d8 + 7`) piercing damage.
 > 
-> ***Stomp.*** *Melee Weapon Attack:* +10 to hit, reach 5 ft., one [prone](rules/conditions.md#prone) creature. *Hit:* 29 (`4d10 + 7`) bludgeoning damage.
+> ***Stomp.*** *Melee Weapon Attack:* +10 to hit, reach 5 ft., one [prone](rules/conditions.md#prone) creature. *Hit:* 29 (`4d10 + 7`) bludgeoning damage.
+
 ^statblock
 
 ## Environment

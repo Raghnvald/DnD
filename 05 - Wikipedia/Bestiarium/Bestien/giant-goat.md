@@ -1,6 +1,14 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses: dnd5e-only-statblock
+prefer-view: edit-source read
+Bezeichnung: 
+Typ: Bestie
+Größe: 
+HG: 
+status:
+order:
+parent:
+image: 
 tags:
 - Quelle/5e/Monster_Manual
 - Habitat/Grasland
@@ -8,7 +16,8 @@ tags:
 - Habitat/Berg
 - Größe/Groß
 - Typ/Bestie
-aliases: ["Giant Goat"]
+aliases:
+- Giant Goat
 ---
 # Giant Goat
 *Source: SRD / Basic Rules*  
@@ -41,7 +50,8 @@ aliases: ["Giant Goat"]
 > 
 > ## Actions
 > 
-> ***Ram.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 8 (`2d4 + 3`) bludgeoning damage.
+> ***Ram.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 8 (`2d4 + 3`) bludgeoning damage.
+
 ^statblock
 
 ## Environment

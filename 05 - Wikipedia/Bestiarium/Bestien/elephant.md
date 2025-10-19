@@ -1,12 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses: dnd5e-only-statblock
+prefer-view: edit-source read
+Bezeichnung: 
+Typ: Bestie
+Größe: 
+HG: 
+status:
+order:
+parent:
+image: 
 tags:
 - Quelle/5e/Monster_Manual
 - Habitat/Grasland
 - Größe/Riesig
 - Typ/Bestie
-aliases: ["Elephant"]
+aliases:
+- Elephant
 ---
 # Elephant
 *Source: SRD / Basic Rules*  
@@ -39,7 +48,8 @@ aliases: ["Elephant"]
 > 
 > ***Gore.*** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 19 (`3d8 + 6`) piercing damage.
 > 
-> ***Stomp.*** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one [prone](rules/conditions.md#prone) creature. *Hit:* 22 (`3d10 + 6`) bludgeoning damage.
+> ***Stomp.*** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one [prone](rules/conditions.md#prone) creature. *Hit:* 22 (`3d10 + 6`) bludgeoning damage.
+
 ^statblock
 
 ## Environment

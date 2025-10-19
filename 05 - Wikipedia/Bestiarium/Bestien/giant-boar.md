@@ -1,6 +1,14 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses: dnd5e-only-statblock
+prefer-view: edit-source read
+Bezeichnung: 
+Typ: Bestie
+Größe: 
+HG: 
+status:
+order:
+parent:
+image: 
 tags:
 - Quelle/5e/Monster_Manual
 - Habitat/Wald
@@ -8,7 +16,8 @@ tags:
 - Habitat/Hügel
 - Größe/Groß
 - Typ/Bestie
-aliases: ["Giant Boar"]
+aliases:
+- Giant Boar
 ---
 # Giant Boar
 *Source: SRD / Basic Rules*  
@@ -41,7 +50,8 @@ aliases: ["Giant Boar"]
 > 
 > ## Actions
 > 
-> ***Tusk.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10 (`2d6 + 3`) slashing damage.
+> ***Tusk.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10 (`2d6 + 3`) slashing damage.
+
 ^statblock
 
 ## Environment

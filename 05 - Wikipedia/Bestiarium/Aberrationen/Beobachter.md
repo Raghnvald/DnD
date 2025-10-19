@@ -1,15 +1,22 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-monster
-tags:
-  - Quelle/5e/Monster_Manual
-  - Habitat/Unterreich
-  - Größe/Mittelgroß
-  - Typ/Aberration
+cssclasses: dnd5e-only-statblock
+prefer-view: edit-source read
+Bezeichnung: Beobachter
+Typ: Aberration
+Größe: Mittelgroß
+HG: 3
+status:
+order:
+parent:
+image: token/Spectator.webp
+tags: 
+- Quelle/5e/Monster_Manual
+- Typ/Aberration
+- Größe/Mittelgroß
+- Habitat/Unterreich
 aliases: 
-  - Spectator
+- Spectator
 ---
-
 ```statblock
 statblock: true
 name: Beobachter

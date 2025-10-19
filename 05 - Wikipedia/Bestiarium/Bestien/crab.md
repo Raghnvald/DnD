@@ -1,12 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses: dnd5e-only-statblock
+prefer-view: edit-source read
+Bezeichnung: 
+Typ: Bestie
+Größe: 
+HG: 
+status:
+order:
+parent:
+image: 
 tags:
 - Quelle/5e/Monster_Manual
 - Habitat/Küste
 - Größe/Winzig
 - Typ/Bestie
-aliases: ["Crab"]
+aliases:
+- Crab
 ---
 # Crab
 *Source: SRD / Basic Rules*  

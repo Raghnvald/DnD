@@ -1,4 +1,27 @@
 
+```base
+properties:
+  file.basename:
+    displayName: Name
+views:
+  - type: table
+    name: TSV
+    filters:
+      and:
+        - file.inFolder("D&D/02 - Spieler/Gruppe")
+        - file.name != "Gruppenübersicht"
+    order:
+      - file.basename
+      - RK
+      - pW
+      - ZR
+    columnSize:
+      note.ZR: 178
+
+```
+
+<br>
+
 | Name                | Effekt                              |
 | ------------------- | ----------------------------------- |
 | Resistenz           | 1/2 Schaden                         |

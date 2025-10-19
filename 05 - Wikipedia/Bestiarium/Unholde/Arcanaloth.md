@@ -1,10 +1,14 @@
 ---
-cssclasses: 
-- dnd5e-only-statblock
-prefer-view: 
-- edit-source read
-type: 
-- creature
+cssclasses: dnd5e-only-statblock
+prefer-view: edit-source read
+Bezeichnung: Arcanaloth
+Typ: Unhold
+Größe: Mittelgroß
+HG: 12
+status: completed
+order:
+parent:
+image: pictures/arcanaloth-2024.webp
 tags: 
 - Quelle/5e/Monster_Manual
 - Typ/Unhold/Yugoloth
@@ -12,11 +16,6 @@ tags:
 - Habitat/Planar/Untere-Ebenen
 aliases: 
 - Arcanaloth
-link:
-- https://www.dndbeyond.com/monsters/5194899-arcanaloth
-status:
-order:
-parent:
 ---
 # Arcanaloth (2014)
 Arcanaloths sind schlaue, schakalköpfige Wesen mit humanoiden Körpern, die jedoch durch Magie jede humanoide Gestalt annehmen können. Sie tun dies, um das Vertrauen von Kreaturen zu gewinnen, mit denen sie verhandeln, und ersetzen das Schakalknurren durch ein gewinnendes Lächeln.

@@ -1,13 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses: dnd5e-only-statblock
+prefer-view: edit-source read
+Bezeichnung: Aboleth
+Typ: Aberration
+Größe: Groß
+HG: 10
+status:
+order:
+parent:
+image: token/Aboleth.webp
 tags:
-  - Quelle/5e/Monster_Manual
-  - Habitat/Unterreich
-  - Größe/Groß
-  - Typ/Aberration
+- Quelle/5e/Monster_Manual
+- Typ/Aberration
+- Größe/Groß
+- Habitat/Unterreich
 aliases:
-  - Aboleth
+- Aboleth
 ---
 ```statblock
 statblock: true

@@ -1,6 +1,14 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses: dnd5e-only-statblock
+prefer-view: edit-source read
+Bezeichnung: 
+Typ: Bestie
+Größe: 
+HG: 
+status:
+order:
+parent:
+image: 
 tags:
 - Quelle/5e/Monster_Manual
 - Habitat/Wald
@@ -8,7 +16,8 @@ tags:
 - Habitat/Hügel
 - Größe/Mittelgroß
 - Typ/Bestie
-aliases: ["Giant Weasel"]
+aliases:
+- Giant Weasel
 ---
 # Giant Weasel
 *Source: SRD / Basic Rules*  
@@ -39,7 +48,8 @@ aliases: ["Giant Weasel"]
 > 
 > ## Actions
 > 
-> ***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 5 (`1d4 + 3`) piercing damage.
+> ***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 5 (`1d4 + 3`) piercing damage.
+
 ^statblock
 
 ## Environment

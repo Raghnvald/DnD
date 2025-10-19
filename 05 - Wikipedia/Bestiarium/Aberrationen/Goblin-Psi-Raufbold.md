@@ -1,6 +1,14 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses: dnd5e-only-statblock
+prefer-view: edit-source read
+Bezeichnung: Goblin-Psi-Raufbold
+Typ: Aberration
+Größe: Klein
+HG: 2
+status:
+order:
+parent:
+image: 
 tags:
 - Quelle/5e/Lost_Mines_of_Phandelver
 - Habitat/Wald
@@ -9,7 +17,8 @@ tags:
 - Habitat/Unterreich
 - Größe/Klein
 - Typ/Aberration/Goblinoid
-aliases: ["Goblin Psi Brawler"]
+aliases:
+- Goblin Psi Brawler
 ---
 ```statblock
 statblock: true

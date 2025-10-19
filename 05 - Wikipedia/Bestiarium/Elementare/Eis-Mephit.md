@@ -1,6 +1,14 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses: dnd5e-only-statblock
+prefer-view: edit-source read
+Bezeichnung: 
+Typ: Elementar
+Größe: 
+HG: 
+status:
+order:
+parent:
+image: 
 tags:
 - Quelle/5e/Monster_Manual
 - Habitat/Arktis
@@ -12,7 +20,7 @@ aliases: ["Ice Mephit"]
 *Source: SRD / Basic Rules*  
 
 > [!statblock] Ice Mephit
-> ![](token/Eis-Mephit.png#token)
+> ![](Eis-Mephit.webp#token)
 > *Small elemental, Neutral Evil*
 > 
 > - **Armor Class** 11 

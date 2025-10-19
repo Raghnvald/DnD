@@ -1,11 +1,20 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses: dnd5e-only-statblock
+prefer-view: edit-source read
+Bezeichnung: 
+Typ: Bestie
+Größe: 
+HG: 
+status:
+order:
+parent:
+image: 
 tags:
 - Quelle/5e/Monster_Manual
 - Größe/Winzig
 - Typ/Bestie
-aliases: ["Bat"]
+aliases:
+- Bat
 ---
 # Bat
 *Source: SRD / Basic Rules*  

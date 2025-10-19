@@ -1,6 +1,14 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses: dnd5e-only-statblock
+prefer-view: edit-source read
+Bezeichnung: 
+Typ: Bestie
+Größe: 
+HG: 
+status:
+order:
+parent:
+image: 
 tags:
 - Quelle/5e/Monster_Manual
 - Habitat/Küste
@@ -9,7 +17,8 @@ tags:
 - Habitat/Berg
 - Größe/Klein
 - Typ/Bestie
-aliases: ["Eagle"]
+aliases:
+- Eagle
 ---
 # Eagle
 *Source: SRD / Basic Rules*  
@@ -40,7 +49,8 @@ aliases: ["Eagle"]
 > 
 > ## Actions
 > 
-> ***Talons.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4 (`1d4 + 2`) slashing damage.
+> ***Talons.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4 (`1d4 + 2`) slashing damage.
+
 ^statblock
 
 ## Environment

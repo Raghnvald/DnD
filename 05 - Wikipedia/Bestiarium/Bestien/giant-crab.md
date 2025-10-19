@@ -1,12 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses: dnd5e-only-statblock
+prefer-view: edit-source read
+Bezeichnung: 
+Typ: Bestie
+Größe: 
+HG: 
+status:
+order:
+parent:
+image: 
 tags:
 - Quelle/5e/Monster_Manual
 - Habitat/Küste
 - Größe/Mittelgroß
 - Typ/Bestie
-aliases: ["Giant Crab"]
+aliases:
+- Giant Crab
 ---
 # Giant Crab
 *Source: SRD / Basic Rules*  
@@ -37,7 +46,8 @@ aliases: ["Giant Crab"]
 > 
 > ## Actions
 > 
-> ***Claw.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4 (`1d6 + 1`) bludgeoning damage, and the target is [grappled](rules/conditions.md#grappled) (escape DC 11). The crab has two claws, each of which can grapple only one target.
+> ***Claw.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4 (`1d6 + 1`) bludgeoning damage, and the target is [grappled](rules/conditions.md#grappled) (escape DC 11). The crab has two claws, each of which can grapple only one target.
+
 ^statblock
 
 ## Environment

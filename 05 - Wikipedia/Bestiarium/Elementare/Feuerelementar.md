@@ -1,6 +1,14 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses: dnd5e-only-statblock
+prefer-view: edit-source read
+Bezeichnung: 
+Typ: Elementar
+Größe: 
+HG: 
+status:
+order:
+parent:
+image: 
 tags:
 - Quelle/5e/Monster_Manual
 - Habitat/Wüste
@@ -12,7 +20,7 @@ aliases: ["Fire Elemental"]
 *Quelle: SRD / Grundregelwerk*  
 
 > [!statblock] Feuerelementar
-> ![](token/Feuerelementar.png#token)
+> ![](Feuerelementar.webp#token)
 > *Großes Elementar, Neutral*
 > 
 > - **Rüstungsklasse** 13 

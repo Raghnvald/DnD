@@ -1,12 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses: dnd5e-only-statblock
+prefer-view: edit-source read
+Bezeichnung: 
+Typ: Bestie
+Größe: 
+HG: 
+status:
+order:
+parent:
+image: 
 tags:
 - Quelle/5e/Monster_Manual
 - Habitat/Unterwasser
 - Größe/Groß
 - Typ/Bestie
-aliases: ["Giant Sea Horse"]
+aliases:
+- Giant Sea Horse
 ---
 # Giant Seahorse
 *Source: SRD / Basic Rules*  

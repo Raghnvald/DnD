@@ -1,6 +1,14 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses: dnd5e-only-statblock
+prefer-view: edit-source read
+Bezeichnung: 
+Typ: Elementar
+Größe: 
+HG: 
+status:
+order:
+parent:
+image: 
 tags:
 - Quelle/5e/Monster_Manual
 - Habitat/Unterreich
@@ -12,7 +20,7 @@ aliases: ["Magma Mephit"]
 *Source: SRD / Basic Rules*  
 
 > [!statblock] Magma Mephit
-> ![](token/Magma-Mephit.png#token)
+> ![](Magma-Mephit.webp#token)
 > *Small elemental, Neutral Evil*
 > 
 > - **Armor Class** 11 

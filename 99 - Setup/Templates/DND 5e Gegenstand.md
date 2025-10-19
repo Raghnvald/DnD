@@ -1,13 +1,4 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-item
-tags:
-- Quelle/5e/TEMPLATE
-- Gegenstand/TEMPLATE
-- Gegenstand/Seltenheit/TEMPLATE
-- Gegenstand/Einstimmung/TEMPLATE
-aliases:
-- TEMPLATE
 Bezeichnung: 
 Zeitaufwand: 
 Reichweite: 
@@ -15,6 +6,13 @@ Komponenten:
 Wirkungsdauer: 
 Angriff: 
 Schaden: 
+tags:
+- Quelle/5e/TEMPLATE
+- Gegenstand/TEMPLATE
+- Gegenstand/Seltenheit/TEMPLATE
+- Gegenstand/Einstimmung/TEMPLATE
+aliases:
+- TEMPLATE
 ---
 # Name
 *Wundersamer Gegenstand, sehr selten (erfordert Einstimmung)*  

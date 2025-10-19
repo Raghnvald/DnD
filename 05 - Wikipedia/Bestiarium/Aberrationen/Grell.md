@@ -1,19 +1,28 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses: dnd5e-only-statblock
+prefer-view: edit-source read
+Bezeichnung: Grell
+Typ: Aberration
+Größe: Mittelgroß
+HG: 3
+status:
+order:
+parent:
+image: token/Grell.webp
 tags:
-  - Quelle/5e/Monster_Manual
-  - Habitat/Unterreich
-  - Größe/Mittelgroß
-  - Typ/Aberration
-aliases: ["Grell"]
+- Quelle/5e/Monster_Manual
+- Typ/Aberration
+- Größe/Mittelgroß
+- Habitat/Unterreich
+aliases: 
+- Grell
 ---
 ```statblock
 statblock: true
 name: Grell
 image: [[Grell.webp]]
 source: Grundregelwerk
-size: Mittel
+size: Mittelgroß
 type: Aberration
 alignment: neutral böse
 ac: 12
