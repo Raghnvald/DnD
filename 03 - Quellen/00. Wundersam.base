@@ -20,4 +20,6 @@ views:
       - Gew.
       - Eigenschaften
     columnSize:
-      note.Typ: 61
+      note.Typ: 102
+      note.Kst.: 117
+      note.Gew.: 76

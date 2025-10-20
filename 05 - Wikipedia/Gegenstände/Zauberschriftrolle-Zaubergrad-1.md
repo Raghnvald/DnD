@@ -1,24 +1,47 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-item
+Bezeichnung: Zauberschriftrolle (Zaubergrad 1)
+Typ: Schriftrolle
+Eigenschaften: n/v
+Gew.: n/v
+Kst.: 100 GM
 tags:
 - Quelle/5e/Dungeon_Masters_Guide
 - Gegenstand/wundersam/Schriftrolle
 - Gegenstand/Seltenheit/gewöhnlich
-aliases: ["Spell Scroll (1st Level)"]
+aliases:
+- Spell Scroll (1st Level)
 ---
 # Zauberschriftrolle (Zaubergrad 1)
 *Schriftrolle, gewöhnlich*  
+<img src="Symbolik/Gegenstände.webp" align="right" width="150">
 
-- **Kosten**: ⏤
-- **Gewicht**: ⏤
+_Klassen:_ n/v
+_Unterklassen:_ n/v
 
-Eine Zauberschriftrolle trägt die Worte eines einzigen Zaubers in mystischen Zeichen. Wenn sich der Zauber in der Liste deiner Klasse befindet, kannst du die Schriftrolle lesen und den Zauber wirken, ohne Materialkomponenten zu benötigen. Anderenfalls ist die Schriftrolle für dich unleserlich. Wird der Zauber gewirkt, indem die Schriftrolle verlesen wird, so ist der normale Zeitaufwand zum Wirken erforderlich. Ist der Zauber gewirkt, verblassen die Zeichen auf der Schriftrolle, und diese zerfällt zu Staub. Wird das Wirken des Zaubers unterbrochen, bleibt die Schriftrolle erhalten.
+_Quellen:_ Spielleiterhandbuch
 
-Wenn sich der Zauber in der Zauberliste deiner Klasse befindet, jedoch einen höheren Grad aufweist, als du normalerweise wirken kannst, musst du einen Attributswurf mit deinem Attribut zum Zauberwirken bestehen, um den Zauber erfolgreich zu wirken. Der SG ist gleich 10 + der Grad des Zaubers. Anderenfalls verschwindet er ohne weiteren Effekt von der Schriftrolle.
+- **Eigenschaften**: n/v
+- **Gewicht**: n/v
+- **Kosten**: 100 Goldmünzen
 
-Ein Zauber, der von dieser Schriftrolle gewirkt wird, hat einen Rettungswurf SG von 13 und einen Angriffsbonus von +5.
+Eine Zauberschriftrolle enthält die Worte für einen einzelnen Zauber, die in mystischen Schriftzeichen geschrieben sind. Wenn der Zauber auf der Zauberliste deiner Klasse ist, kannst du die Schriftrolle lesen und den Zauber ohne irgendwelche materiellen Komponenten wirken. Andernfalls ist dir die Schriftrolle unverständlich. Den Zauber zu wirken, indem die Schriftrolle gelesen wird, benötigt den normalen Zeitaufwand des Zaubers. Sobald der Zauber gewirkt wurde, verschwinden die Worte auf der Schriftrolle, und sie zerfällt zu Staub. Wenn der Zauber unterbrochen wurde, ist die Schriftrolle nicht verloren.
 
-Ein Magierzauber in einer Zauberschriftrolle kann wie Zauber aus Zauberbüchern kopiert werden. Wenn ein Zauber aus einer Zauberschriftrolle kopiert wird, muss der kopierende Charakter einen Intelligenzwurf ([Arkane Kunde](rules/skills.md#Arcana)) bestehen, wobei der SG gleich 10 + der Zaubergrad ist. Bei einem Erfolg wird der Zauber erfolgreich kopiert. Unabhängig davon, ob der Wurf erfolgreich ist oder scheitert, wird die Zauberschriftrolle zerstört.
+Wenn der Zauberspruch auf der Zauberliste deiner Klasse steht, aber höher ist als der Grad, den du normalerweise wirken kannst, musst du einen Attributswurf auf dein Zauberattribut ablegen, um zu bestimmen, ob du den Zauber erfolgreich wirken kannst. Der SG ist 10 + der Grad des Zaubers. Wenn der Wurf misslingt, verschwindet der Zauber ohne weiteren Effekt von der Schriftrolle.
 
-*Quelle: SRD / Grundregelwerk*
+Der Grad des Zaubers auf der Schriftrolle bestimmt Zauberrettungswurf-SG und Angriffsbonus sowie den Seltenheitsgrad der Schriftrolle.
+
+## Zauberschriftrolle 
+| Zaubergrad  | Seltenheit   | Rettungs-SC | Angriffsbonus |
+| ----------- | ------------ | ----------- | ------------- |
+| Zaubertrick | Gewöhnlich   | 13          | +5            |
+| 1           | Gewöhnlich   | 13          | +5            |
+| 2           | Ungewöhnlich | 13          | +5            |
+| 3           | Ungewöhnlich | 15          | +7            |
+| 4           | Selten       | 15          | +7            |
+| 5           | Selten       | 17          | +9            |
+| 6           | Sehr selten  | 17          | +9            |
+| 7           | Sehr selten  | 18          | +10           |
+| 8           | Sehr selten  | 18          | +10           |
+| 9           | Legendär     | 19          | +11           |
+
+Ein Magier-Zauber auf einer _Zauberschriftrolle_ kann kopiert werden, ebenso wie Zaubersprüche in Zauberbüchern kopiert werden können. Wenn ein Zauberspruch von einer Schriftrolle kopiert wird, muss der Kopierer einen Wurf auf `Intelligenz (Arkane Kunde)` gegen `SG 10 + Grad des Zaubers` schaffen. Bei einem Erfolg wird der Zauber erfolgreich kopiert. Unabhängig davon ob der Wurf gelingt oder nicht, ist die Zauberschriftrolle danach zerstört.

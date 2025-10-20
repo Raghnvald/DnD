@@ -25,7 +25,7 @@ On a failed save, the creature's Intelligence and Charisma scores become 1. The 
 
 At the end of every 30 days, the creature can repeat its saving throw against this spell. If it succeeds on its saving throw, the spell ends.
 
-The spell can also be ended by [greater restoration](Vollständige-Genesung.md), [Heilung](Heilung.md), or [Wunsch](Wunsch.md).
+The spell can also be ended by [greater restoration](Vollständige%20Genesung.md), [Heilung](Heilung.md), or [Wunsch](Wunsch.md).
 
 **Classes**: [Bard](05%20-%20Wikipedia/Charakteroptionen/02.%20Klassen/Barde.md), [Druid](Dungeons%20&%20Dragons/Wikipedia%20der%20Vergessenen%20Reiche/Kompendium%20der%20Vergessenen%20Reiche/Klassen/druid.md), [Warlock](../Charakteroptionen/Klassen/Hexenmeister.md), [Wizard](../Charakteroptionen/Klassen/Magier.md)
 

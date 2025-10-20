@@ -1,11 +1,9 @@
 ---
 Bezeichnung: 
-Zeitaufwand: 
-Reichweite: 
-Komponenten: 
-Wirkungsdauer: 
-Angriff: 
-Schaden: 
+Typ: 
+Eigenschaften: 
+Gew.: 
+Kst.: 
 tags:
 - Quelle/5e/TEMPLATE
 - Gegenstand/TEMPLATE
@@ -15,16 +13,16 @@ aliases:
 - TEMPLATE
 ---
 # Name
-*Wundersamer Gegenstand, sehr selten (erfordert Einstimmung)*  
+_Wundersamer Gegenstand, sehr selten (erfordert Einstimmung)_
 <img src="Symbolik/Gegenstände.webp" align="right" width="150">
 
 _Klassen:_ 
-_Unterklassen:_  -
+_Unterklassen:_ 
 
 _Quellen:_ Spielerhandbuch
 
-- **Eigenschaften**: ``
-- **Kosten**: ``
+
 - **Gewicht**: ``
+- **Kosten**: ``
 
 Beschreibung hier einfügen.

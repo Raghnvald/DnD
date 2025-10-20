@@ -21,8 +21,8 @@ _Unterklassen:_  n/v
 
 _Quellen:_ Spielleiterhandbuch
 
-- **Eigenschaften**: Erfordert Einstimmung
+- **Eigenschaften**: erfordert Einstimmung
 - **Kosten**: 160.000 Goldmünzen
 - **Gewicht**: 0.5 kg.
 
-Während du dieses Amulett trägst, kannst du eine Aktion nutzen, um einen Ort zu benennen, der dir auf einer anderen Existenzebene vertraut ist. Mache dann einen DC 15 Intelligenzwurf. Bei einem Erfolg sprichst du den [Ebenenwechsel](../Zauber/Ebenenwechsel.md)-Zauber. Bei einem Fehlschlag reist du und jede Kreatur und jedes Objekt im Umkreis von 15 Fuß zu einem zufälligen Ziel. Wirf einen `W100`. Bei einer `1-60` reist du zu einem zufälligen Ort auf der von dir genannten Ebene. Bei einem Wert von `61-100` reist du zu einer zufällig bestimmten Ebene der Existenz.
+Während du dieses Amulett trägst, kannst du eine Aktion nutzen, um einen Ort zu benennen, der dir auf einer anderen Existenzebene vertraut ist. Mache dann einen DC 15 Intelligenzwurf. Bei einem Erfolg sprichst du den [[Ebenenwechsel]]-Zauber. Bei einem Fehlschlag reist du und jede Kreatur und jedes Objekt im Umkreis von 15 Fuß zu einem zufälligen Ziel. Wirf einen `W100`. Bei einer `1-60` reist du zu einem zufälligen Ort auf der von dir genannten Ebene. Bei einem Wert von `61-100` reist du zu einer zufällig bestimmten Ebene der Existenz.

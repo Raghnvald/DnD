@@ -1,12 +1,4 @@
 ---
-obsidianUIMode: preview
-cssclasses: dnd5e-compendium
-tags:
-  - Quelle/5e/Players_Handbook
-  - Gegenstand/Rüstung/Schild
-  - Gegenstand/Seltenheit/gewöhnlich
-aliases:
-  - Shield
 Bezeichnung: Schild
 Typ: Rüstung
 Rüstung: Schild
@@ -16,6 +8,12 @@ Heiml.: n/v
 Eigenschaften: n/v
 Gew.: 3,0 kg
 Kst.: 10 GM
+tags:
+  - Quelle/5e/Players_Handbook
+  - Gegenstand/Rüstung/Schild
+  - Gegenstand/Seltenheit/gewöhnlich
+aliases:
+  - Shield
 ---
 # Schild
 *Rüstung (Schild), gewöhnlich*

@@ -53,7 +53,7 @@ Der Schatz befindet sich auf dem Dach des Wachturms am Zolenka-Pass (Kapitel 9, 
 > **Münze 9 - Geizhals**
 > Der Schatz befindet sich an einem Ort, der vom Feuer verborgen ist. Sucht nach einem sicheren Ort in einem Schloss.
 
-Der Schatz befindet sich in der Schatzkammer von Burg Ravenloft (Kapitel 4, Bereich K4l).
+Der Schatz befindet sich in der Schatzkammer von Burg Ravenloft (Kapitel 4, Bereich K41).
 
 ## 3. Das Sonnenschwert
 > **Schwert 6 - Berserker**
@@ -82,9 +82,9 @@ Strahd tritt den Charakteren in der Kapelle gegenüber (Bereich K15).
 # Kapitel 5 - Vallaki
 
 ## allgemeine Hinweise
-- [[../../05 - Wikipedia/Bestiarium/Humanoide/Rictavio|Rictavio]] besitzt einen Zirkuswagen, welchen er bei den Araseks ([[05. Kapitel - Die Stadt Vallaki#N5 Arasek-Lagerplatz|N5]]) abstellt
+- [[Rictavio]] besitzt einen Zirkuswagen, welchen er bei den Araseks ([[05. Kapitel - Die Stadt Vallaki#N5 Arasek-Lagerplatz|N5]]) abstellt
 	- insgeheim ist dort auch sein Tiger, den er regelmäßig nachts füttert.
-	- Die Araseks wissen davon, [[CoS NPCs/Rictavio|Rictavio]] zahlt jedoch für ihr Schweigen
+	- Die Araseks wissen davon, [[Rictavio]] zahlt jedoch für ihr Schweigen
 - Drei Tage nach dem Eintreffen der Charaktere in Vallaki findet das [[05. Kapitel - Die Stadt Vallaki#Fest der brennenden Sonne| Fest der brennenden Sonne]] statt, um die Bürger bei Laune zu halten. 
 	- Es findet fast jede Woche ein Fest statt
 	- Das Fest kann nach Belieben früher oder später stattfinden. 
@@ -93,7 +93,7 @@ Strahd tritt den Charakteren in der Kapelle gegenüber (Bereich K15).
 - Die Söhne der Familie Wachter sind betrunken und schleichen zum Zirkuswagen, während die restliche Stadt auf dem Stadtplatz das Fest genießt. 
 - Als Mutprobe soll einer der beiden Brüder den Wagen schütteln, wodurch der Tiger rasend vor Wut wird und aus seinem Käfig alle auch dem Wagen ausbricht. 
 - _Optional_ schickt der Bürgermeister Waschen aus, den Tiger zu fangen. Wenn [[Izek-Strasni|Izek Strasni]] noch lebt zieht er mit 6 Wachen los.
-- Sollte der Bürgermeister Untersuchungen veranlassen, knicken die Araseks ein und erwähnen, das der Tiger zu [[../../05 - Wikipedia/Bestiarium/Humanoide/Rictavio|Rictavio]] gehört.
+- Sollte der Bürgermeister Untersuchungen veranlassen, knicken die Araseks ein und erwähnen, das der Tiger zu [[Rictavio]] gehört.
 - Sollte [[../../05 - Wikipedia/Bestiarium/Humanoide/Rictavio|Rictavio]] die Charaktere für fähig halten, bittet er sie für Ablenkung zu sorgen, damit er zu einem Turm im Westen flüchten kann.
 	- Dort kann die Gruppe ihn gerne aufsuchen
 
@@ -133,14 +133,14 @@ Strahd tritt den Charakteren in der Kapelle gegenüber (Bereich K15).
 - Exethanter hat den Tempel übernommen, als die ursprünglichen Besitzer bereits tot waren.
 	- Er erinnert sich weder an seinen Namen noch an seine Zaubersprüche
 	- Er erinnert sich nicht länger an seinen Namen oder seine Zaubersprüche. 
-	- Er weiß nur, dass die Dunklen Mächte, die [Strahds](../../05%20-%20Wikipedia/Bestiarium/Untote/Strahd-von-Zarowitsch.md) Domäne erschaffen haben, im Tempel geboren wurden, und dass diese Wesenheiten sich von dem Bösen nähren, das [Strahd](../../05%20-%20Wikipedia/Bestiarium/Untote/Strahd-von-Zarowitsch.md) repräsentiert.
+	- Er weiß nur, dass die Dunklen Mächte, die [Strahds](Strahd%20von%20Zarowitsch.md) Domäne erschaffen haben, im Tempel geboren wurden, und dass diese Wesenheiten sich von dem Bösen nähren, das [Strahd](Strahd%20von%20Zarowitsch.md) repräsentiert.
 - Extreme Kälte entsteht ab -18°C
 	- Konstitutions-Rettungswurf - SG 10, wenn keine dicke Kleidung getragen wurd.
 	- Bei Misslingen 1 Stufe [[../../03 - Quellen/Quellbücher/01. Grundregelwerk 2014/Anhang PH-A#Erschöpfung|Erschöpfung]]
 
 ## Gegner
 - [Arcanaloth](../../05%20-%20Wikipedia/Bestiarium/Unholde/Arcanaloth.md)
-- [Barovianische Hexe](../../05%20-%20Wikipedia/Bestiarium/Humanoide/Barovianische-Hexe.md)
+- [Barovianische Hexe](Barovianische%20Hexe.md)
 - [Berserker](../../05%20-%20Wikipedia/Bestiarium/Humanoide/Berserker.md)
 - [Flammenschädel](../../05%20-%20Wikipedia/Bestiarium/Untote/Flammenschädel.md)
 - [Gladiator](../../05%20-%20Wikipedia/Bestiarium/Humanoide/Gladiator.md)

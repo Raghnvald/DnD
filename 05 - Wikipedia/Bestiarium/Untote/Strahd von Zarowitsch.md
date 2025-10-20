@@ -1,6 +1,14 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses: dnd5e-only-statblock
+prefer-view: edit-source read
+Bezeichnung: Strahd von Zarowitsch
+Typ: Untoter
+Größe: Mittelgroß
+HG: 15
+status:
+order:
+parent:
+image: token/count_strahd_von_zarovich_token.webp
 tags:
 - Quelle/5e/Curse_of_Strahd
 - Habitat/Stadt
@@ -13,10 +21,12 @@ aliases:
 
 # Strahd von Zarowitsch
 Mit seinem scharfen Geist und düsteren Herzen ist Strahd von Zarowitsch ein äußerst schwieriger Gegner. Mit und Leben über alle Maßen sind an ihn verlorengegangen. Lies Kapitel 1 „In die Nebel", noch einmal, um seine Persönlichkeit und Ziele zu verstehen.
+
 $\quad$ Obwohl man Strahd fast überall in seiner Domäne begegnen kann, treffen die Abenteurer dem Vampir immer an den von den Tarokka-Karten geweissagten Orten (siehe Kapitel 1), solange er nicht in sein Grabmal in den Katakomben von Burg Ravenloft gezwungen wurde.
 
 ## Strahds Taktiken
 Weil sich das ganze Abenteuer um Strahd dreht, solltest du ihn auf clevere Weise spielen und alles dafür tun, ihn für die Spielercharaktere zu einem furchteinflößenden und listigen Gegner zu machen.
+
 $\quad$ Wenn du eine Begegnung mit Strahd leitest, behalte die folgenden Tatsachen im Hinterkopf:
 
 - Strahd greift im vorteilhaftesten Moment an und aus der vorteilhaftesten Position.
@@ -26,14 +36,14 @@ $\quad$ Wenn du eine Begegnung mit Strahd leitest, behalte die folgenden Tatsach
 ## Die Schergen des Vampirs
 Wann immer Strahd an einen Ort außer seinem Grabmal oder dem beim Kartenlesen angegebenen Ort erscheint, würfle mit einem `W20` und schlage in der Tabelle Strahds Schergen nach, um festzustellen, ob und welche Kreaturen ihn begleiten.
 
-`dice: [](Strahd-von-Zarowitsch.md#^Strahds-Schergen)`
+`dice: [](Strahd von Zarowitsch.md#^Strahds-Schergen)`
 
 | W20   | Kreaturen                                                            |
 | ----- | -------------------------------------------------------------------- |
 | 1-3   | `dice: 1d4 + 2` [Schreckenswölfe](../Bestien/Schreckenswolf.md)                 |
 | 4-6   | `dice: 1d6 + 3` [Ghule](Ghul.md)                                     |
 | 7-9   | `dice: 1d4 + 2` [Strahdzombies](../../../04%20-%20Kampagnen/Fluch%20des%20Strahd/CoS-Statblocks/Strahdzombie.md)                     |
-| 10-12 | `dice: 2d4` [Schwärme von Fledermäusen](../Bestien/Schwarm-von-Fledermäusen.md) |
+| 10-12 | `dice: 2d4` [Schwärme von Fledermäusen](Schwarm%20von%20Fledermäusen.md) |
 | 13-15 | `dice: 1d4 + 1` [Vampirbrut](Vampirbrut.md)                          |
 | 16-18 | `dice: 3d6` [Wölfe](../Bestien/Wolf.md)                                         |
 | 19-20 | keine                                                                | 
@@ -43,22 +53,26 @@ $\quad$ Wenn die Charaktere sich in einer Wohnstatt befinden, brechen Strahds Kr
 
 ## Herz des Kummers
 Strahd kann es sich leisten, forsch bei seinen Taktiken zu sein, denn er besitzt zusätzlichen Schutz in der Form eines riesigen Kristallherzens, das in der Burg Ravenloft verborgen liegt.
-$\quad$ Jeder Schaden, den Strahd erleidet, wird auf das Herz des Kummers übertragen (siehe [[../../../04 - Kampagnen/Fluch des Strahd/04. Kapitel - Burg Ravenloft#K20 Herz des Leidens|Kapitel 4, Bereich K20]]). Wenn das Herz Schaden absorbiert, der seine Trefferpunkte auf 0 reduziert, wird es zerstört und Strahd erleidet etwaigen übrigen Schaden. Das Herz des Kummers hat 50 Trefferpunkte und wird bis zu dieser Zahl an Trefferpunkten zu jedem Morgengrauen wiederhergestellt, vorausgesetzt, dass ihm mindestens 1 Trefferpunkt verbleibt. Strahd kann seine Verbindung mit dem Herz des Kummers als eine Bonusaktion während seines Zuges unterbrechen, so dass es nicht länger den Strahd zugefügten Schaden absorbiert. Strahd kann seine Verbindung mit dem Herz des Kummers als eine Bonusaktion während seines Zuges wiederherstellen, aber nur, während er sich in der Burg Ravenloft befindet.
+
+$\quad$ Jeder Schaden, den Strahd erleidet, wird auf das Herz des Kummers übertragen (siehe [[04. Kapitel - Burg Ravenloft#K20 Herz des Leidens|Kapitel 4, Bereich K20]]). Wenn das Herz Schaden absorbiert, der seine Trefferpunkte auf 0 reduziert, wird es zerstört und Strahd erleidet etwaigen übrigen Schaden. Das Herz des Kummers hat 50 Trefferpunkte und wird bis zu dieser Zahl an Trefferpunkten zu jedem Morgengrauen wiederhergestellt, vorausgesetzt, dass ihm mindestens 1 Trefferpunkt verbleibt. Strahd kann seine Verbindung mit dem Herz des Kummers als eine Bonusaktion während seines Zuges unterbrechen, so dass es nicht länger den Strahd zugefügten Schaden absorbiert. Strahd kann seine Verbindung mit dem Herz des Kummers als eine Bonusaktion während seines Zuges wiederherstellen, aber nur, während er sich in der Burg Ravenloft befindet.
+
 $\quad$ Der Effekt des Schutzes, den das Herz des Kummers bietet, kann erschreckend zu beobachten sein, da Strahd zugefügter Schaden schnell wiederhergestellt wird. Zum Beispiel könnte  ein kritischer Treffer Strahds Kiefer ausrenken, aber nur für einen Moment: dann renkt sich der Kiefer des Vampirs schnell wieder ein.
-$\quad$ Die Fähigkeit des Herzens des Kummers, Schaden zu absorbieren, wird unterdrückt, wenn es oder Strahd sich vollständig in einem _[Antimagischen Feld](Antimagisches%20Feld.md)_ befindet.
+
+$\quad$ Die Fähigkeit des Herzens des Kummers, Schaden zu absorbieren, wird unterdrückt, wenn es oder Strahd sich vollständig in einem _[[Antimagisches Feld|Antimagischen Feld]]_ befindet.
 
 ## Hortaktionen
 Während Strahd sich in der Burg Ravenloft aufhält und er nicht kampfunfähig ist, kann er Hortaktionen ausführen. 
+
 $\quad$ Bei Initiative 20 (er verliert Initiative-Gleichstände) kann Strahd eine der folgenden möglichen Hortaktionen auswählen oder darauf verzichten, sie in dieser Runde zu benutzen.
 - Bis Initiative 20 der nächsten Runde kann Strahd durch solide Wände, Türen, Decken und Böden gehen, als ob sie nicht existieren.
 - Strahd wählt eine beliebige Anzahl von Türen und Fenstern, die er sehen kann, als Ziel, und bringt alle dazu, sich nach seinen Wünschen entweder zu öffnen oder zu schließen. Geschlossene Türen können auf magische Weise verriegelt werden (sie benötigen einen gelungenen <font color="red">**Stärkewurf**</font> gegen <font color="orange">SG 20</font>, um aufgestemmt zu werden), bis Strahd entscheidet, den Effekt zu beenden oder bis Strahd diese Hortaktion wieder ausführt.
-- Strahd ruft den wütenden Geist von jemandem herbei, der in der Burg gestorben ist. Die Erscheinung taucht neben einer feindlichen Kreatur auf, die Strahd sehen kann, führt einen Angriff gegen diese Kreatur aus und verschwindet dann. Die Erscheinung hat die Spielwerte eines [Schreckgespenst](Schreckgespenst.md).
-- Strahd wählt eine mittelgroße oder kleine Kreatur als Ziel aus, die einen Schatten wirft. Der Schatten des Ziels muss für Strahd sichtbar und höchstens 9 Meter von ihm entfernt sein. Wenn dem Ziel ein <font color="darkviolet">**Charisma**</font>-<font color="#FF00E0">Rettungswurf</font> gegen <font color="yellow">SG 17</font> misslingt, löst sich der Schatten von ihm und wird zu einem [Schatten](Schatten.md), der Strahds Befehle befolgt und bei Initiative 20 handelt. Ein auf das Ziel gewirkter Zauber _[Vollständige Genesung](../../Zauber/Vollständige-Genesung.md)_ oder _[Fluch brechen](../../Zauber/Fluch%20brechen.md)_ stellt seinen natürlichen Schatten wieder her, aber nur, wenn sein untoter Schatten zerstört wurde.
+- Strahd ruft den wütenden Geist von jemandem herbei, der in der Burg gestorben ist. Die Erscheinung taucht neben einer feindlichen Kreatur auf, die Strahd sehen kann, führt einen Angriff gegen diese Kreatur aus und verschwindet dann. Die Erscheinung hat die Spielwerte eines [[Schreckgespenst]].
+- Strahd wählt eine mittelgroße oder kleine Kreatur als Ziel aus, die einen Schatten wirft. Der Schatten des Ziels muss für Strahd sichtbar und höchstens 9 Meter von ihm entfernt sein. Wenn dem Ziel ein <font color="darkviolet">**Charisma**</font>-<font color="#FF00E0">Rettungswurf</font> gegen <font color="yellow">SG 17</font> misslingt, löst sich der Schatten von ihm und wird zu einem [Schatten](Schatten.md), der Strahds Befehle befolgt und bei Initiative 20 handelt. Ein auf das Ziel gewirkter Zauber _[[Vollständige Genesung]]_ oder _[[Fluch brechen]]_ stellt seinen natürlichen Schatten wieder her, aber nur, wenn sein untoter Schatten zerstört wurde.
 
 ```statblock
 statblock: true
 name: Strahd von Zarowitsch, Original
-image: [[Strahd-von-Zarowitsch.webp]]
+image: [[count_strahd_von_zarovich_token.webp]]
 source: Fluch des Strahd
 size: Mittelgroß
 type: Untoter
@@ -151,7 +165,7 @@ legendary_actions:
 ```statblock
 name: Strahd, der Magier
 layout: Basic 5e German Layout
-image: [[Strahd-von-Zarowitsch.webp]]
+image: [[count_strahd_von_zarovich_token.webp]]
 size: Mittelgroß
 type: Untoter (Gestaltwandler)
 alignment: rechtschaffen böse
@@ -232,7 +246,7 @@ lair_actions:
 ```statblock
 name: Strahd, der Soldat
 layout: Basic 5e German Layout
-image: [[Strahd-von-Zarowitsch.webp]]
+image: [[count_strahd_von_zarovich_token.webp]]
 size: Mittelgroß
 type: Untoter (Gestaltwandler)
 alignment: rechtschaffen böse
@@ -310,7 +324,7 @@ lair_actions:
 ```statblock
 name: Strahd, der Vampir
 layout: Basic 5e German Layout
-image: [[Strahd-von-Zarowitsch.webp]]
+image: [[count_strahd_von_zarovich_token.webp]]
 size: Mittelgroß
 type: Untoter (Gestaltwandler)
 alignment: rechtschaffen böse

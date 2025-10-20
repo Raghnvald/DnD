@@ -1,10 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses: dnd5e-only-statblock
+prefer-view: edit-source read
+Bezeichnung: Lich
+Typ: Untoter
+Größe: Mittelgroß
+HG: 21
+status:
+order:
+parent:
+image: pictures/lich-2024.webp
 tags:
-- DnD/Kompendium/Quelle/5e/MM 2014
-- DnD/Kompendium/Quelle/5e/MM 2024
-- DnD/Bestiarium/Habitat/Planar/Untere Ebenen
+- Quelle/5e/MM 2014
+- Quelle/5e/MM 2024
+- Habitat/Planar/Untere Ebenen
 - Größe/Mittelgroß
 - Typ/Untote
 aliases:

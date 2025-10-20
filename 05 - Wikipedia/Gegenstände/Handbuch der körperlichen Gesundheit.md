@@ -1,19 +1,29 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-item
+Bezeichnung: Handbuch der körperlichen Gesundheit
+Typ: Wundersamer Gegenstand
+Eigenschaften: n/v
+Gew.: 2,5 kg
+Kst.: n/v
 tags:
 - Quelle/5e/Dungeon_Masters_Guide
 - Gegenstand/Seltenheit/sehr_selten
-- Gegenstand/Tier/major
 - Gegenstand/wundersam
-aliases: ["Manual of Bodily Health"]
+aliases:
+- Manual of Bodily Health
 ---
 # Handbuch der körperlichen Gesundheit
 *Wundersamer Gegenstand, sehr selten*  
+<img src="Handbuch-der-körperlichen-Gesundheit.webp" align="right" width="150">
 
-- **Cost**: ⏤
-- **Weight**: 5.0 lbs.
+_Klassen:_ n/v
+_Unterklassen:_  n/v
 
-Dieses magisch geladene Buch enthält Gesundheits- und Ernährungstipps. Wenn du über einen Zeitraum von maximal sechs Tagen 48 Stunden damit verbringst, den Inhalt des Buchs zu studieren und seine Anleitungen zu befolgen, erhöhen sich dein Konstitutionswert und dein Maximalwert für Konstitution um 2. Das Handbuch verliert dann seine Magie, erhält sie jedoch nach einem Jahrhundert zurück.
+_Quellen:_ Spielerhandbuch
 
-*Source: SRD / Basic Rules*
+- **Eigenschaften**: n/v
+- **Gewicht**: 2,5 kg.
+- **Kosten**: n/v
+
+Dieses Buch enthält Gesundheits- und Ernährungs-Tipps, und seine Worte sind mit Magie aufgeladen. Wenn du 48 Stunden über einen Zeitraum von 6 Tagen oder weniger damit verbringst den Inhalt dieses Buchs zu lesen und seine Richtlinien zu praktizieren, wird sich dein Konstitutionswert um 2 erhöhen, ebenso dein Maximum für dieses Attribut.
+
+$\quad$Das Handbuch verliert daraufhin seine Magie, gewinnt diese aber in einem Jahrhundert wieder.

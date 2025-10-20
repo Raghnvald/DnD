@@ -1,10 +1,10 @@
 ---
 cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
-Bezeichnung: 
+Bezeichnung: Schwarm von Fledermäusen
 Typ: Bestie
-Größe: 
-HG: 
+Größe: Mittelgroß
+HG: 1/4
 status:
 order:
 parent:
@@ -17,7 +17,8 @@ tags:
 - Habitat/Stadt
 - Größe/Mittelgroß
 - Typ/Bestie
-aliases: ["Swarm of Bats"]
+aliases:
+- Swarm of Bats
 ---
 # Swarm of Bats
 *Source: SRD / Basic Rules*  

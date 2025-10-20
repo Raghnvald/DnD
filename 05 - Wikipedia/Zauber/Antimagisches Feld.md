@@ -17,7 +17,7 @@ aliases:
 - Antimagic Field
 ---
 # Antimagisches Feld
-_Bann des 8. Grades
+_Bann des 8. Grades_
 
 _Klassen:_ Kleriker, Magier
 _Unterklassen:_

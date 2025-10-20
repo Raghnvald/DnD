@@ -153,14 +153,16 @@ views:
 > [[01. Grundregelwerk 2014/09-Kampf#Auf 0 Trefferpunkte sinken#Monster und der Tod|Monster und der Tod]]
 
 > [!tldr]- Waffen und Rüstungen
+> [[00. Ausrüstung.base|Abenteuerausrüstung]]
 > [[01. Grundregelwerk 2014/14-Magische-Gegenstände#Einen Gegenstand aktivieren|Einen Gegenstand aktivieren]]
 > [[01. Grundregelwerk 2014/14-Magische-Gegenstände#Einstimmung|Einstimmung]]
-> [[00. Ausrüstung.base|Abenteuerausrüstung]]
 > [[00. Ausrüstung.base#Gifte|Gifte]]
 > [[00. Ausrüstung.base#Handelsgüter|Handelsgüter]]
 > [[00. Rüstungen.base|Rüstungen und Schilde]]
+> [[03. Spielleiterhandbuch 2024/07-Schätze#Seltenheit und Wert magischer Gegenstände|Seltenheit und Wert magischer Gegenstände]]
 > [[00. Waffen.base|Waffen]]
 > [[Tabellen/Zauberschriftrolle-Zauberschriftrolle|Zauberschriftrolle]]
+
 
 > [!tldr]- Magic Schools - WIP
 > [[Schools of Magic]]

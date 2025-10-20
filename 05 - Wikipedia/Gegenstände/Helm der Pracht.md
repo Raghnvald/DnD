@@ -1,21 +1,29 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-item
+Bezeichnung: Helm der Pracht
+Typ: Wundersamer Gegenstand
+Eigenschaften: erfordert Einstimmung
+Gew.: n/v
+Kst.: n/v
 tags:
 - Quelle/5e/Dungeon_Masters_Guide
-- Gegenstand/Einstimmung/erforderlich
-- Gegenstand/Seltenheit/sehr_selten
-- Gegenstand/Tier/major
 - Gegenstand/wundersam
-aliases: ["Helm of Brilliance"]
+- Gegenstand/Seltenheit/sehr_selten
+- Gegenstand/Einstimmung/erforderlich
+aliases:
+- Helm of Brilliance
 ---
 # Helm der Pracht
-*Wundersamer Gegenstand, sehr selten (erfordert Einstimmung)*  
+_Wundersamer Gegenstand, sehr selten (erfordert Einstimmung)*_
 <img src="Helm-of-Brilliance.webp" align="right" width="150">
 
-- **Properties**: Requires Attunement
-- **Cost**: ⏤
-- **Weight**: ⏤
+_Klassen:_ 
+_Unterklassen:_ 
+
+_Quellen:_ Spielerhandbuch
+
+- **Eigenschaften**: erfordert Einstimmung
+- **Gewicht**: n/v
+- **Kosten**: n/v
 
 Dieser umwerfende Helm ist mit `1W10` Diamanten, `2W10` Rubinen, `3W10` Feueropalen und `4W10` Opalen besetzt. Wenn ein Edelstein vom Helm gebrochen wird, zerfällt der Edelstein zu Staub. Wenn alle Edelsteine entfernt oder zerstört wurden, verliert der Helm seine Magie.
 

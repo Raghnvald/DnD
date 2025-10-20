@@ -1,19 +1,30 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
+cssclasses: dnd5e-only-statblock
+prefer-view: edit-source read
+Bezeichnung: Barovianische Hexe
+Typ: Humanoid
+Größe: Mittelgroß
+HG: 1/2
+status:
+order:
+parent:
+image: 
 tags:
-  - Quelle/5e/Curse_of_Strahd
-  - Habitat/Wald
-  - Größe/Mittelgroß
-  - Typ/Humanoid
+tags:
+- Quelle/5e/Curse_of_Strahd
+- Typ/Humanoid
+- Größe/Mittelgroß
+- Habitat/Wald
 aliases:
-  - Barovian Witch
+- Barovian Witch
 ---
 # Barovianische Hexe
 Die wahnsinnigen Frauen und Männer, die als Barovianische Hexen bekannt sind, schmieden im Austausch für Magie und Langlebigkeit Pakte mit Strahd und den Dunklen Mächten von Ravenloft. Sie ziehen es vor, in den Schatten zu leben und können im Dunklen sehen. Wenn sie offen reisen, benutzen sie den Zauber Gestalt verändern, um eine weniger auffällige Gestalt anzunehmen. Sie benutzen diesen Zauber auch, um sich lange, scharfe Klauen wachsen zu lassen, mit denen sie tiefe Schnittwunden zufügen können.
-$\quad$**Brüder und Schwestern von Strahd.** Barovianische Hexen haben keine Skrupel. Im Austausch für Macht handeln sie mit jedem. Sie werden aus dem gleichen Grund auch jeden verraten. Das Einzige, was sie fürchten, ist Strahd, und sein Wunsch ist ihnen Befehl. Barovianische Hexen sprechen von sich selbst manchmal als die Brüder und Schwestern von Strahd, aber nie, wenn er dabei ist.
-$\quad$**Ratten und Katzen zusammenpacken.** Barovianische Hexen sind obsessive Sammler. Jede glaubt, dass fast alles, was man findet - ein Stück zerbrochener Knochen, ein totes Nagetier, eine Handvoll Staub oder irgendein anderes wertloses Objekt oder Material - als Zauberkomponente, Ritualobjekt oder Zaubertrankzutat nutzbar wäre.
+
+$\quad$**_Brüder und Schwestern von Strahd._** Barovianische Hexen haben keine Skrupel. Im Austausch für Macht handeln sie mit jedem. Sie werden aus dem gleichen Grund auch jeden verraten. Das Einzige, was sie fürchten, ist Strahd, und sein Wunsch ist ihnen Befehl. Barovianische Hexen sprechen von sich selbst manchmal als die Brüder und Schwestern von Strahd, aber nie, wenn er dabei ist.
+
+$\quad$**_Ratten und Katzen zusammenpacken._** Barovianische Hexen sind obsessive Sammler. Jede glaubt, dass fast alles, was man findet - ein Stück zerbrochener Knochen, ein totes Nagetier, eine Handvoll Staub oder irgendein anderes wertloses Objekt oder Material - als Zauberkomponente, Ritualobjekt oder Zaubertrankzutat nutzbar wäre.
+
 $\quad$Barovianische Hexen benutzen den Zauber Vertrauten finden, um Vertraute herbeizurufen. Besonders beliebt sind Katzen, obwohl Schlangen und Kröten auch verbreitet sind. Diese Tiere lauern inmitten des Gerümpels in den Verstecken der Hexen und entfernen sich selten weit von ihren scheußlichen Meistern.
 
 ```statblock

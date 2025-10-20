@@ -9,10 +9,10 @@ order:
 parent:
 image: 
 tags:
-- DnD/Kompendium/Quelle/QUELLE
-- DnD/Bestiarium/Vorkommen/VORKOMMEN
-- DnD/Bestiarium/Größe/GRÖSSE
-- DnD/Bestiarium/Typ/TYP/SUBTYP
+- Quelle/QUELLE
+- Typ/TYP/SUBTYP
+- Habitat/GRÖSSE
+- Vorkommen/VORKOMMEN
 aliases:
 - NAME
 ---
@@ -22,7 +22,7 @@ _Betitelung_
 >**Habitat:** VORKOMMEN
 >**Beute:** BEUTE
 
-![](../../05%20-%20Wikipedia/Bestiarium/Feenwesen/pictures/group-of-goblins-2024.png#token)
+![](BILD)
 
 ## Art
 Bezeichnung 
