@@ -20,7 +20,7 @@ aliases: ["Staff of Swarming Insects"]
 - **Cost**: ⏤
 - **Weight**: 4.0 lbs.
 
-This staff has 10 charges and regains `1d6 + 4` expended charges daily at dawn. If you expend the last charge, roll a `d20`. On a 1, a [swarm of insects](../Bestiarium/Bestien/swarm-of-insects.md) consumes and destroys the staff, then disperses.
+This staff has 10 charges and regains `1d6 + 4` expended charges daily at dawn. If you expend the last charge, roll a `d20`. On a 1, a [swarm of insects](swarm-of-insects.md) consumes and destroys the staff, then disperses.
 
 ## Spells
 

@@ -25,14 +25,14 @@ Nachdem drei flauschige Gegenstände aus dem Beutel gezogen wurden, kann der Beu
 
 | Würfel: W8 | Kreatur |
 |----------|----------|
-| 1 | [Ratte](../Bestiarium/Bestien/rat.md) |
-| 2 | [Eule](../Bestiarium/Bestien/owl.md) |
+| 1 | [Ratte](rat.md) |
+| 2 | [Eule](owl.md) |
 | 3 | [Dogge](Dungeons%20&%20Dragons/Wikipedia%20der%20Vergessenen%20Reiche/Kompendium%20der%20Vergessenen%20Reiche/Bestiarium/Bestien/mastiff.md) |
 | 4 | [Ziege](Dungeons%20&%20Dragons/Wikipedia%20der%20Vergessenen%20Reiche/Kompendium%20der%20Vergessenen%20Reiche/Bestiarium/Bestien/goat.md) |
-| 5 | [Riesenziege](../Bestiarium/Bestien/giant-goat.md) |
-| 6 | [Rieseneber](../Bestiarium/Bestien/giant-boar.md) |
-| 7 | [Löwe](../Bestiarium/Bestien/lion.md) |
-| 8 | [Braunbär](../Bestiarium/Bestien/brown-bear.md) |
+| 5 | [Riesenziege](giant-goat.md) |
+| 6 | [Rieseneber](giant-boar.md) |
+| 7 | [Löwe](lion.md) |
+| 8 | [Braunbär](brown-bear.md) |
 ^creature
 
 *Quelle: SRD / Grundregelwerk*

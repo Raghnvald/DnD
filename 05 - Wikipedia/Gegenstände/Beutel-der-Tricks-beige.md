@@ -25,14 +25,14 @@ Nachdem drei flauschige Gegenstände aus dem Beutel gezogen wurden, kann der Beu
 
 | Würfel: W8 | Kreatur |
 |----------|----------|
-| 1 | [Schakal](../Bestiarium/Bestien/jackal.md) |
-| 2 | [Menschenaffe](../Bestiarium/Bestien/ape.md) |
-| 3 | [Pavian](../Bestiarium/Bestien/baboon.md) |
+| 1 | [Schakal](jackal.md) |
+| 2 | [Menschenaffe](ape.md) |
+| 3 | [Pavian](baboon.md) |
 | 4 | [Axtschnabel](../Bestiarium/Bestien/axe-beak.md) |
-| 5 | [Schwarzbär](../Bestiarium/Bestien/black-bear.md) |
-| 6 | [Riesenwiesel](../Bestiarium/Bestien/giant-weasel.md) |
-| 7 | [Riesenhyäne](../Bestiarium/Bestien/giant-hyena.md) |
-| 8 | [Tiger](../Bestiarium/Bestien/tiger.md) |
+| 5 | [Schwarzbär](black-bear.md) |
+| 6 | [Riesenwiesel](giant-weasel.md) |
+| 7 | [Riesenhyäne](giant-hyena.md) |
+| 8 | [Tiger](tiger.md) |
 ^creature
 
 *Quelle: SRD / Grundregelwerk*

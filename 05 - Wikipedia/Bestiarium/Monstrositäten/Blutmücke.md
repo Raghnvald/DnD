@@ -13,7 +13,7 @@ tags:
 - Habitat/Wald
 - Habitat/Wüste
 - Größe/Winzig
-- Typ/Bestie
+- Typ/Tier
 aliases: ["Stirge"]
 ---
 ```statblock

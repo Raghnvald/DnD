@@ -6,7 +6,7 @@ tags:
 - Habitat/Wüste
 - Habitat/Grasland
 - Größe/Groß
-- Typ/Bestie
+- Typ/Tier
 aliases: ["Giant Vulture"]
 ---
 # Giant Vulture

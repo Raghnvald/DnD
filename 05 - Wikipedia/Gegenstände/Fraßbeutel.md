@@ -14,7 +14,7 @@ aliases: ["Bag of Devouring"]
 - **Kosten**: ⏤
 - **Gewicht**: 7,5 kg.
 
-Dieser Beutel scheint ein ganz normaler Sack zu sein. Untersucht man seine magischen Eigenschaften, stellt man fest, dass es sich wohl um einen [Nimmervollen Beutel](Nimmervoller-Beutel.md) handelt. Tatsächlich jedoch ist der Fraßbeutel  eine Falle, die von einer außerdimensionalen Lebensform eingesetzt wird – er ist in Wirklichkeit eine Körperöffnung, die zur Nahrungsaufnahme dient. 
+Dieser Beutel scheint ein ganz normaler Sack zu sein. Untersucht man seine magischen Eigenschaften, stellt man fest, dass es sich wohl um einen [Nimmervollen Beutel](Nimmervoller%20Beutel.md) handelt. Tatsächlich jedoch ist der Fraßbeutel  eine Falle, die von einer außerdimensionalen Lebensform eingesetzt wird – er ist in Wirklichkeit eine Körperöffnung, die zur Nahrungsaufnahme dient. 
 
 Steckt man tierische oder pflanzliche Produkte in den Beutel, werden diese verschluckt. Beim ersten Mal, besteht eine 90 %-Chance, dass der Beutel nicht bemerkt, dass etwas in ihn hineingesteckt wird. Danach aber besteht jedes Mal, wenn man lebendes Fleisch in den Beutel steckt (auch die eigene Hand etwa), eine Chance von 60 %, dass das Wesen auf der anderen Seite den Eindringling bemerkt und zu sich hinüber zu ziehen versucht. Der Beutel hat einen Bonus von +8 auf Kampfmanöverwürfe, um jemanden in den Ringkampf zu verwickeln. Hat er eine Kreatur erst einmal im Haltegriff, kann er diese als freie Aktion hineinziehen. In den Beutel passen maximal 0,25 Kubikmeter Materie. Der Fraßbeutel funktioniert wie ein Nimmervoller Beutel (Typ I), doch pro Stunde besteht eine kumulative Chance von 5 %, dass er seinen Inhalt auffrisst und auf welcher anderen Ebene nun immer wieder ausspuckt. 
 

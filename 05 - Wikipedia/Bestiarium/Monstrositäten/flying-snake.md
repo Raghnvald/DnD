@@ -8,7 +8,7 @@ tags:
 - Habitat/Grasland
 - Habitat/Stadt
 - Größe/Winzig
-- Typ/Bestie
+- Typ/Tier
 aliases: ["Flying Snake"]
 ---
 # Flying Snake

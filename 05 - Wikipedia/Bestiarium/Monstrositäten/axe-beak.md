@@ -6,7 +6,7 @@ tags:
 - Habitat/Grasland
 - Habitat/Hügel
 - Größe/Groß
-- Typ/Bestie
+- Typ/Tier
 aliases: ["Axe Beak"]
 ---
 # Axe Beak

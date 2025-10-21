@@ -11,6 +11,6 @@ parent:
 image: 
 tags:
 - Quelle/5e/Monster_Manual
-- Typ/Bestie
+- Typ/Tier
 aliases:
 ---

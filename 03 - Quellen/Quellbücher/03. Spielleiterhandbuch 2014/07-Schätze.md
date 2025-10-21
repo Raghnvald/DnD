@@ -67,6 +67,48 @@ Manche magischen Gegenstände tragen Flüche mit sich, die ihren Nutzer befallen
 
 $\quad$Die Einstimmung auf ein verfluchtes Objekt kann nicht freiwillig unterbrochen werden, insofern nicht vorher der Fluch gebrochen wurde, indem beispielsweise der Zauber [[Fluch brechen]] gewirkt wird.
 
+### Kategorien von magischen Gegenständen
+Jeder magische Gegenstand gehört einer Kategorie an: Rüstungen, Tränke, Ringe , Zepter, Schriftrollen, Stecken, Zauberstäbe, Waffen oder wundersame Gegenstände.
+
+#### Ringe
+Magische Ringe bieten den Glücklichen, die sie gefunden haben, ein fantastisches Spektrum an Kräften. Sofern es die Beschreibung eines Ringes nichts anderes festlegt, muss er am Finger oder einem ähnlichen Glied getragen werden, damit seine Magie funktionieren kann.
+
+#### Rüstungen
+Insofern die Beschreibung der Rüstung nichts anderes sagt, muss sie getragen werden, damit ihre Magie funktionieren kann.
+
+$\quad$Manche Arten von magischen Rüstungen spezifizieren, um welche Art von Rüstung es sich handelt, z.B. einen Kettenpanzer oder einen Plattenpanzer. Wenn eine magische Rüstung nicht spezifiziert, welcher Art sie ist, kannst du den Typ aussuchen oder zufällig festlegen.
+
+#### Schriftrollen
+Die verbreitetste Art der Schriftrolle ist die Zauberschriftrolle, ein Zauber, der in geschriebener Form aufbewahrt wird, aber andere Schriftrollen, wie die [[Schriftrolle des Schutzes]], beinhalten eine Zauberformel, die kein Zauberspruch ist. Was auch immer sie jedoch enthält, eine Schriftrolle ist eine Rolle aus Papier. Manchmal ist sie an einem Stück Holz befestigt und normalerweise wird sie in einer Röhre aus Elfenbein, Jade, Leder, Metall oder Holz aufbewahrt.
+
+$\quad$Eine Schriftrolle ist ein verbrauchbarer magischer Gegenstand. Den Zauber, den die Schriftrolle enthält, zu entfesseln, benötigt eine Aktion, um die Rolle zu lesen. Wenn die Magie gewirkt wurde, kann die Schriftrolle kein weiteres Mal benutzt werden. Ihre Worte verschwinden, oder sie löst sich zu Staub auf. Insofern die Beschreibung der Schriftrolle nichts anderes sagt, kann jede Kreatur, die fähig ist, eine geschriebene Sprache zu verstehen, die Schriftrolle lesen und versuchen, sie zu aktivieren.
+
+#### Tränke
+Verschiedene Arten von magischen Flüssigkeiten werden in der Kategorie der Tränke zusammengefasst: Gebräue aus verzauberten Kräutern, Wasser aus magischen Brunnen oder heiligen Quellen, und Öle, die auf eine Kreatur oder ein Objekt aufgetragen werden. Die meisten Tränke bestehen aus einer Unze Flüssigkeit
+
+$\quad$Tränke sind verbrauchbare magische Gegenstände. Einen Trank zu trinken oder ihn einem anderen Charakter zuzuführen, erfordert eine Aktion. Ein Öl aufzutragen kann u.U. länger dauern, je nach Regelung in seiner Beschreibung. Sobald ein Trank benutzt wurde, entfaltet er seinen Effekt und ist aufgebraucht.
+
+#### Waffen
+Unabhängig davon, ob sie für einen niederträchtigen Zweck hergestellt oder ob sie geschmiedet wurden, um den höchsten Idealen der Ritterlichkeit zu dienen - magische Waffen werden von vielen Abenteurern heiß begehrt.
+
+$\quad$Manche magischen Waffen geben in ihrer Beschreibung den Typ der Waffe an, etwa ein Langschwert oder ein Langbogen. Wenn eine Waffe ihren Typ nicht näher festlegt, kannst du ihn selbst aussuchen oder zufällig entscheiden.
+
+$\quad$Wenn eine magische Waffe die Waffeneigenschaft Geschosse hat, werden diese Geschosse als magisch angesehen, was dem Zweck dient, Resistenzen und Immunität gegenüber nicht-magischen Angriffen und Schäden zu überwinden.
+
+#### Wundersame Gegenstände
+Wundersame Gegenstände beinhalten tragbare Gegenstände wie Stiefel, Gürtel, Umhänge und zahlreiche andere Sorten von Schmuck und Dekorationen so wie Amulette, Broschen oder Diademe. Taschen, Teppiche, Kristallkugeln, Figuren, Hörner, Musikinstrumente und viele mehr fallen ebenfalls in diese allumfassende Kategorie.
+
+#### Zauberstecken
+Ein Zauberstecken ist ungefähr 1,50 Meter bis 1,80 Meter lang. Zauberstecken unterscheiden sich in ihrem Aussehen stark: Manche sind fast komplett gleich dick und glatt, andere sind knorrig und verdreht, manche sind aus Holz und wieder andere bestehen aus poliertem Metall oder Kristall. Abhängig vom Material wiegt ein Zauberstecken zwischen 2 und 7 Pfund.
+
+$\quad$Sofern die Beschreibung eines Zaubersteckens dem nicht widerspricht, kann ein Zauberstecken als Kampfstab benutzt werden.
+
+#### Zauberstäbe
+Ein magischer Zauberstab ist ungefähr 37,5 cm lang und aus Metall, Knochen oder Holz gefertigt. An der Spitze hat er ein Stück Metall, Kristall, Stein oder ein anderes Material.
+
+#### Zepter
+Ein magisches Zepter ist meist eine Rute oder auch lediglich ein schwerer Zylinder und besteht aus Metall, Holz oder Knochen. Sie ist zwischen 0,6m und 0,9m lang, 2,5cm dick und wiegt zwischen 2 und 5 Pfund.
+
 ## Intelligente magische Gegenstände
 
 ## Artefakte

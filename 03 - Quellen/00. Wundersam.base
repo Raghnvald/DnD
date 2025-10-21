@@ -1,6 +1,6 @@
 views:
   - type: table
-    name: Table
+    name: Wundersame Gegenstände
     filters:
       or:
         - file.tags.contains("Gegenstand/wundersam")
@@ -23,3 +23,7 @@ views:
       note.Typ: 102
       note.Kst.: 117
       note.Gew.: 76
+    image: note.IMAGE
+    imageAspectRatio: 1
+    cardSize: 100
+    imageFit: contain

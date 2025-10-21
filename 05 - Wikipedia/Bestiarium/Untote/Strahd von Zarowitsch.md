@@ -40,12 +40,12 @@ Wann immer Strahd an einen Ort außer seinem Grabmal oder dem beim Kartenlesen a
 
 | W20   | Kreaturen                                                            |
 | ----- | -------------------------------------------------------------------- |
-| 1-3   | `dice: 1d4 + 2` [Schreckenswölfe](../Bestien/Schreckenswolf.md)                 |
+| 1-3   | `dice: 1d4 + 2` [Schreckenswölfe](Schreckenswolf.md)                 |
 | 4-6   | `dice: 1d6 + 3` [Ghule](Ghul.md)                                     |
 | 7-9   | `dice: 1d4 + 2` [Strahdzombies](../../../04%20-%20Kampagnen/Fluch%20des%20Strahd/CoS-Statblocks/Strahdzombie.md)                     |
 | 10-12 | `dice: 2d4` [Schwärme von Fledermäusen](Schwarm%20von%20Fledermäusen.md) |
 | 13-15 | `dice: 1d4 + 1` [Vampirbrut](Vampirbrut.md)                          |
-| 16-18 | `dice: 3d6` [Wölfe](../Bestien/Wolf.md)                                         |
+| 16-18 | `dice: 3d6` [Wölfe](Wolf.md)                                         |
 | 19-20 | keine                                                                | 
 ^Strahds-Schergen
 

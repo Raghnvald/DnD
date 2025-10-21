@@ -11,7 +11,7 @@ tags:
 aliases:
 - Alchemy Jug
 ---
-# Name
+# Alchemiekrug
 _Wundersamer Gegenstand, ungewöhnlich_
 <img src="Symbolik/Gegenstände.webp" align="right" width="150">
 

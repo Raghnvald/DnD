@@ -1,17 +1,26 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses: dnd5e-only-statblock
+prefer-view: edit-source read
+Bezeichnung: Troll
+Typ: Riese
+Größe: Groß
+HG: 5
+status:
+order:
+parent:
+image: 
 tags:
 - Quelle/5e/Monster_Manual
+- Typ/Riese
+- Größe/Groß
 - Habitat/Arktis
-- Habitat/Wald
-- Habitat/Hügel
 - Habitat/Berg
+- Habitat/Hügel
 - Habitat/Sumpf
 - Habitat/Unterreich
-- Größe/Groß
-- Typ/Riese
-aliases: ["Troll"]
+- Habitat/Wald
+aliases:
+- Troll
 ---
 # Troll
 *Source: SRD / Basic Rules*  
@@ -48,7 +57,8 @@ aliases: ["Troll"]
 > 
 > ***Bite.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 7 (`1d6 + 4`) piercing damage.
 > 
-> ***Claw.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 11 (`2d6 + 4`) slashing damage.
+> ***Claw.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 11 (`2d6 + 4`) slashing damage.
+
 ^statblock
 
 ## Environment
