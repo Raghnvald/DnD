@@ -1,14 +1,21 @@
----
-obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses: dnd5e-only-statblock
+prefer-view: edit-source read
+Bezeichnung: 
+Typ: Bestie
+Größe: 
+HG: 
+status:
+order:
+parent:
+image: 
 tags:
-- Quelle/5e/SOURCE
-- Habitat/ENVIRONMENT
-- Größe/SIZE
-- Typ/TYPE
-aliases: ["NAME"]
+- Quelle/QUELLE
+- Typ/TYP/SUBTYP
+- Habitat/GRÖSSE
+- Vorkommen/VORKOMMEN
+aliases:
+- NAME
 ---
-
 ```statblock
 layout: Basic 5e German Layout 2024
 image: 

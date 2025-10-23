@@ -13,7 +13,7 @@ aliases: ["Bowl of Commanding Water Elementals"]
 - **Kosten**: ⏤
 - **Gewicht**: 1,5 kg.
 
-Wenn diese Schale mit Wasser gefüllt ist, kannst du als Aktion das Befehlswort für die Schale aussprechen und einen [Wasserelementar](../Bestiarium/Elementare/Wasserelementar.md) beschwören, als hättest du den Zauber [Elementar beschwören](../Zauber/Elementar-beschwören.md) gewirkt. 
+Wenn diese Schale mit Wasser gefüllt ist, kannst du als Aktion das Befehlswort für die Schale aussprechen und einen [Wasserelementar](Wasserelementar.md) beschwören, als hättest du den Zauber [Elementar beschwören](Elementar-beschwören.md) gewirkt. 
 
 Die Schale kann erst im nächsten Morgengrauen wieder auf diese Weise verwendet werden.
 

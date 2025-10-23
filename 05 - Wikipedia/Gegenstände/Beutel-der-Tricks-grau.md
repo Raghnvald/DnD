@@ -25,12 +25,12 @@ Nachdem drei flauschige Gegenstände aus dem Beutel gezogen wurden, kann der Beu
 
 | Würfel: W8 | Kreatur |
 |----------|----------|
-| 1 | [Wieseo](weasel.md) |
-| 2 | [Riesenratte](giant-rat.md) |
-| 3 | [Dachs](badger.md) |
-| 4 | [Eber](boar.md) |
-| 5 | [Panther](panther.md) |
-| 6 | [Riesendachs](giant-badger.md) |
+| 1 | [Wieseo](Wiesel.md) |
+| 2 | [Riesenratte](Riesenratte.md) |
+| 3 | [Dachs](Dachs.md) |
+| 4 | [Eber](Wildschwein.md) |
+| 5 | [Panther](Panther.md) |
+| 6 | [Riesendachs](Riesendachs.md) |
 | 7 | [Schreckenswolf](Schreckenswolf.md) |
 | 8 | [Riesenelch](../Bestiarium/Bestien/giant-elk.md) |
 ^creature

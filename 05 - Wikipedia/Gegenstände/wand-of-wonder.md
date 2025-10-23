@@ -26,22 +26,22 @@ The wand regains `1d6 + 1` expended charges daily at dawn. If you expend the wan
 
 | dice: d100 | Effect |
 |------------|--------|
-| 01-05 | You cast [Verlangsamen](../Zauber/Verlangsamen.md). |
-| 06-10 | You cast [faerie fire](../Zauber/Feenfeuer.md). |
+| 01-05 | You cast [Verlangsamen](Verlangsamen.md). |
+| 06-10 | You cast [faerie fire](Feenfeuer.md). |
 | 11-15 | You are [stunned](rules/conditions.md#stunned) until the start of your next turn, believing something awesome just happened. |
-| 16-20 | You cast [gust of wind](../Zauber/Windstoß.md). |
-| 21-25 | You cast [detect thoughts](../Zauber/Gedanken-wahrnehmen.md) on the target you chose. If you didn't target a creature, you instead take `1d6` psychic damage. |
-| 26-30 | You cast [stinking cloud](../Zauber/Stinkende-Wolke.md). |
+| 16-20 | You cast [gust of wind](Windstoß.md). |
+| 21-25 | You cast [detect thoughts](Gedanken-wahrnehmen.md) on the target you chose. If you didn't target a creature, you instead take `1d6` psychic damage. |
+| 26-30 | You cast [stinking cloud](Stinkende-Wolke.md). |
 | 31-33 | Heavy rain falls in a 60-foot radius centered on the target. The area becomes lightly obscured. The rain falls until the start of your next turn. |
-| 34-36 | An animal appears in the unoccupied space nearest the target. The animal isn't under your control and acts as it normally would. Roll a `d100` to determine which animal appears. On a 01-25, a [Nashorn](Nashorn.md) appears; on a 26-50, an [elephant](Dungeons%20&%20Dragons/Wikipedia%20der%20Vergessenen%20Reiche/Kompendium%20der%20Vergessenen%20Reiche/Bestiarium/Bestien/elephant.md) appears; and on a 51-100, a [rat](rat.md) appears. |
-| 37-46 | You cast [lightning bolt](../Zauber/Blitz.md). |
+| 34-36 | An animal appears in the unoccupied space nearest the target. The animal isn't under your control and acts as it normally would. Roll a `d100` to determine which animal appears. On a 01-25, a [Nashorn](Nashorn.md) appears; on a 26-50, an [elephant](Dungeons%20&%20Dragons/Wikipedia%20der%20Vergessenen%20Reiche/Kompendium%20der%20Vergessenen%20Reiche/Bestiarium/Bestien/elephant.md) appears; and on a 51-100, a [Ratte](Ratte.md) appears. |
+| 37-46 | You cast [lightning bolt](Blitz.md). |
 | 47-49 | A cloud of 600 oversized butterflies fills a 30-foot radius centered on the target. The area becomes heavily obscured. The butterflies remain for 10 minutes. |
-| 50-53 | You enlarge the target as if you had cast [enlarge/reduce](../Zauber/Vergrößern-Verkleinern.md). If the target can't be affected by that spell or if you didn't target a creature, you become the target. |
-| 54-58 | You cast [Dunkelheit](../Zauber/Dunkelheit.md). |
+| 50-53 | You enlarge the target as if you had cast [enlarge/reduce](Vergrößern-Verkleinern.md). If the target can't be affected by that spell or if you didn't target a creature, you become the target. |
+| 54-58 | You cast [Dunkelheit](Dunkelheit.md). |
 | 59-62 | Grass grows on the ground in a 60-foot radius centered on the target. If grass is already there, it grows to ten times its normal size and remains overgrown for 1 minute. |
 | 63-65 | An object of the DM's choice disappears into the Ethereal Plane. The object must be neither worn nor carried, within 120 feet of the target, and no larger than 10 feet in any dimension. |
-| 66-69 | You shrink yourself as if you had cast [enlarge/reduce](../Zauber/Vergrößern-Verkleinern.md) on yourself. |
-| 70-79 | You cast [Feuerball](../Zauber/Feuerball.md). |
+| 66-69 | You shrink yourself as if you had cast [enlarge/reduce](Vergrößern-Verkleinern.md) on yourself. |
+| 70-79 | You cast [Feuerball](Feuerball.md). |
 | 80-84 | You cast [Invisibility](Verschiedenes/Archiv/DND/Archiv/Wiki/Invisibility.md) on yourself. |
 | 85-87 | Leaves grow from the target. If you chose a point in space as the target, leaves sprout from the creature nearest to that point. Unless they are picked off, the leaves turn brown and fall off after 24 hours. |
 | 88-90 | A stream of `1d4 × 10` gems, each worth 1 gp, shoots from the wand's tip in a line 30 feet long and 5 feet wide. Each gem deals 1 bludgeoning damage, and the total damage of the gems is divided equally among all creatures in the line. |

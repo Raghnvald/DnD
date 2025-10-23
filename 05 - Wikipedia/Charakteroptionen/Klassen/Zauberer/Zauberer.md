@@ -116,7 +116,7 @@ Die wichtigste Frage, die du dir bei der Erstellung deines Zauberers stellen mus
 Wie denkst du über die magische Kraft, die dich durchströmt? Nimmst du sie an, versuchst du, sie zu beherrschen, oder schwelgst du in ihrer unberechenbaren Natur? Ist sie ein Segen oder ein Fluch? Haben Sie sie gesucht, oder hat sie Sie gefunden? Hatten Sie die Möglichkeit, sie abzulehnen, und hätten Sie das gerne getan? Was gedenken Sie damit zu tun? Vielleicht haben Sie das Gefühl, dass Ihnen diese Macht für einen erhabenen Zweck gegeben wurde. Oder Sie beschließen, dass die Macht Ihnen das Recht gibt, zu tun, was Sie wollen, und denen, die keine solche Macht haben, zu nehmen, was Sie wollen. Vielleicht verbindet dich deine Macht mit einer mächtigen Person in der Welt - dem Feenwesen, das dich bei deiner Geburt gesegnet hat, dem Drachen, der einen Tropfen seines Blutes in deine Adern gefüllt hat, dem Lich, der dich als Experiment erschaffen hat, oder der Gottheit, die dich als Träger dieser Macht auserwählt hat.
 
 #### Quick Build
-You can make a sorcerer quickly by following these suggestions. First, Charisma should be your highest ability score, followed by Constitution. Second, choose the hermit background. Third, choose the Light, Prestidigitation, [[Kältestrahl]], and [[../../../Zauber/Schockgriff]] cantrips, along with the 1st-level spells [[../../../Zauber/Schild|Schild]] and [[../../../Zauber/Magisches Geschoss]].
+You can make a sorcerer quickly by following these suggestions. First, Charisma should be your highest ability score, followed by Constitution. Second, choose the hermit background. Third, choose the Light, Prestidigitation, [[Kältestrahl]], and [[Schockgriff]] cantrips, along with the 1st-level spells [[D&D/05 - Wikipedia/Zauber/Grad 1/Schild|Schild]] and [[Magisches Geschoss]].
 
 > [!quote] A quote from Hennet, scion of Tiamat
 > Practice and study are for amateurs. True power is a birthright.
@@ -214,7 +214,7 @@ Ein Ereignis in deiner Vergangenheit oder im Leben eines Elternteils oder Vorfah
 Auf der 1. Stufe kennst du vier Zaubersprüche deiner Wahl aus der Zauberer-Zauberliste. Du lernst einen zusätzlichen Zauberspruch deiner Wahl auf Stufe 4 und einen weiteren auf Stufe 10.
 
 #### Zauberplätze
-Die Zauberertabelle zeigt, wie viele Zauberplätze du hast, um deine Zauber der 1. Um einen dieser Zauber zu wirken, musst du einen Slot der Stufe des Zaubers oder höher verbrauchen. Du erhältst alle verbrauchten Zauberplätze zurück, wenn du eine lange Ruhepause beendest. Wenn du zum Beispiel den Zauber [[../../../Zauber/Brennende Hände]] der Stufe 1 kennst und einen Zauberplatz der Stufe 1 und einen der Stufe 2 zur Verfügung hast, kannst du [[../../../Zauber/Brennende Hände]] mit einem der beiden Plätze wirken.
+Die Zauberertabelle zeigt, wie viele Zauberplätze du hast, um deine Zauber der 1. Um einen dieser Zauber zu wirken, musst du einen Slot der Stufe des Zaubers oder höher verbrauchen. Du erhältst alle verbrauchten Zauberplätze zurück, wenn du eine lange Ruhepause beendest. Wenn du zum Beispiel den Zauber [[Brennende Hände]] der Stufe 1 kennst und einen Zauberplatz der Stufe 1 und einen der Stufe 2 zur Verfügung hast, kannst du [[Brennende Hände]] mit einem der beiden Plätze wirken.
 
 #### Bekannte Zauber der 1. Stufe und höher
 Du kennst zwei Zauber der 1. Stufe deiner Wahl aus der Zauberer-Zauberliste.

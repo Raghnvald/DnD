@@ -16,7 +16,7 @@ Wundersamer Gegenstand, sehr selten (erfordert Einstimmung)
 - **Kosten**: 8.000 Goldmünzen
 - **Gewicht**: ⏤
 
-Diese schlanke Wachskerze ist einer Gottheit geweiht und hat dieselbe Gesinnung. Die Gesinnung der Kerze kann durch den Zauber[Gutes und Böses entdecken](../Zauber/Gutes-und-Böses-entdecken.md) aufgedeckt werden. Der SL wählt die Gottheit und die entsprechende Gesinnung aus oder bestimmt die Gesinnung zufällig.
+Diese schlanke Wachskerze ist einer Gottheit geweiht und hat dieselbe Gesinnung. Die Gesinnung der Kerze kann durch den Zauber[Gutes und Böses entdecken](Gutes-und-Böses-entdecken.md) aufgedeckt werden. Der SL wählt die Gottheit und die entsprechende Gesinnung aus oder bestimmt die Gesinnung zufällig.
 
 | Würfel: W20 | Gesinnung |
 |-----------|-----------|
@@ -35,6 +35,6 @@ Die Magie der Kerze wird aktiv, wenn die Kerze angezündet wird. Dies erfordert 
 
 Wenn sie brennt, spendet die Kerze in einem Radius von neun Metern dämmriges Licht Kreaturen innerhalb des Lichtradius, deren Gesinnung mit der Gesinnung der Kerze übereinstimmt, sind bei Angriffs-, Rettungs- und Attributswürfen im Vorteil. Außerdem kann ein Kleriker oder Druide, der sich im Lichtradius befindet und dessen Gesinnung mit der Kerze übereinstimmt, vorbereitete Zauber des 1. Grades wirken, ohne dafür Zauberplätze zu verbrauchen. Die Zauber haben dieselbe Wirkung, als wären sie mit einem Zauberplatz des 1. Grades gewirkt worden.
 
-Alternativ kannst du, wenn du die Kerze zum ersten Mal anzündest, den Zauber [Tor](../Zauber/Tor.md) wirken. Dies zerstört die Kerze.
+Alternativ kannst du, wenn du die Kerze zum ersten Mal anzündest, den Zauber [Tor](Tor.md) wirken. Dies zerstört die Kerze.
 
 *Quelle: SRD / Grundregelwerk*

@@ -118,7 +118,7 @@ Barden leben von Geschichten, egal ob diese Geschichten wahr sind oder nicht. De
 Hast du eine Lehre bei einem Meister absolviert und bist dem erfahreneren Barden gefolgt, bis du bereit warst, deinen eigenen Weg zu gehen? Oder haben Sie ein College besucht, wo Sie bardisches Wissen studiert und Ihre musikalische Magie geübt haben? Vielleicht warst du ein junger Ausreißer oder ein Waisenkind, das sich mit einem wandernden Barden anfreundete, der zu deinem Mentor wurde. Oder du warst ein verwöhntes Adelskind, das von einem Meister unterrichtet wurde. Vielleicht bist du in die Fänge einer Hexe geraten und hast neben deinem Leben und deiner Freiheit auch ein musikalisches Geschenk erkauft, aber zu welchem Preis?
 
 #### Quick Build
-You can make a bard quickly by following these suggestions. First, Charisma should be your highest ability score, followed by Dexterity. Second, choose the entertainer background. Third, choose the [[Tanzende Lichter]] and [[Gehässiger Spott]] cantrips, along with the following 1st-level spells: [[Person-bezaubern]], [[Magie entdecken]], [[Heilendes-Wort]], and [[Donnerwoge]].
+You can make a bard quickly by following these suggestions. First, Charisma should be your highest ability score, followed by Dexterity. Second, choose the entertainer background. Third, choose the [[Tanzende Lichter]] and [[Gehässiger Spott]] cantrips, along with the following 1st-level spells: [[Person bezaubern]], [[Magie entdecken]], [[Heilendes-Wort]], and [[Donnerwoge]].
 
 > \[!quote\]- Ein Zitat von Fletcher Danairia, Meisterbarde
 > 

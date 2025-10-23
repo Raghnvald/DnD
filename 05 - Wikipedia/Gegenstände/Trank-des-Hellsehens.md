@@ -14,6 +14,6 @@ aliases: ["Potion of Clairvoyance"]
 - **Cost**: ⏤
 - **Weight**: ⏤
 
-When you drink this potion, you gain the effect of the [Hellsehen](../Zauber/Hellsehen.md) spell. An eyeball bobs in this yellowish liquid but vanishes when the potion is opened.
+When you drink this potion, you gain the effect of the [Hellsehen](Hellsehen.md) spell. An eyeball bobs in this yellowish liquid but vanishes when the potion is opened.
 
 *Source: SRD / Basic Rules*

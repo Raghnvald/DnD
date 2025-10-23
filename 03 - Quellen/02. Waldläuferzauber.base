@@ -1,19 +1,5 @@
 views:
   - type: table
-    name: Waldläuferzaubertricks
-    filters:
-      and:
-        - file.tags.contains("Klasse/Waldläufer")
-        - file.tags.contains("Zauber/Grad/0")
-    order:
-      - file.name
-      - Zeitaufwand
-      - Reichweite
-      - Komponenten
-      - Wirkungsdauer
-      - Angriff
-      - Schaden
-  - type: table
     name: Waldläuferzauber Grad 1
     filters:
       and:
@@ -27,6 +13,14 @@ views:
       - Wirkungsdauer
       - Angriff
       - Schaden
+      - status
+    columnSize:
+      file.name: 200
+      note.Reichweite: 100
+      note.Komponenten: 100
+      note.Wirkungsdauer: 150
+      note.Angriff: 75
+      note.Schaden: 150
   - type: table
     name: Waldläuferzauber Grad 2
     filters:
@@ -41,6 +35,14 @@ views:
       - Wirkungsdauer
       - Angriff
       - Schaden
+      - status
+    columnSize:
+      file.name: 200
+      note.Reichweite: 100
+      note.Komponenten: 100
+      note.Wirkungsdauer: 150
+      note.Angriff: 75
+      note.Schaden: 150
   - type: table
     name: Waldläuferzauber Grad 3
     filters:
@@ -55,6 +57,14 @@ views:
       - Wirkungsdauer
       - Angriff
       - Schaden
+      - status
+    columnSize:
+      file.name: 200
+      note.Reichweite: 100
+      note.Komponenten: 100
+      note.Wirkungsdauer: 150
+      note.Angriff: 75
+      note.Schaden: 150
   - type: table
     name: Waldläuferzauber Grad 4
     filters:
@@ -69,6 +79,14 @@ views:
       - Wirkungsdauer
       - Angriff
       - Schaden
+      - status
+    columnSize:
+      file.name: 200
+      note.Reichweite: 100
+      note.Komponenten: 100
+      note.Wirkungsdauer: 150
+      note.Angriff: 75
+      note.Schaden: 150
   - type: table
     name: Waldläuferzauber Grad 5
     filters:
@@ -83,6 +101,14 @@ views:
       - Wirkungsdauer
       - Angriff
       - Schaden
+      - status
+    columnSize:
+      file.name: 200
+      note.Reichweite: 100
+      note.Komponenten: 100
+      note.Wirkungsdauer: 150
+      note.Angriff: 75
+      note.Schaden: 150
   - type: table
     name: Waldläuferzauber Grad 6
     filters:
@@ -97,45 +123,11 @@ views:
       - Wirkungsdauer
       - Angriff
       - Schaden
-  - type: table
-    name: Waldläuferzauber Grad 7
-    filters:
-      and:
-        - file.tags.contains("Klasse/Waldläufer")
-        - file.tags.contains("Zauber/Grad/7")
-    order:
-      - file.name
-      - Zeitaufwand
-      - Reichweite
-      - Komponenten
-      - Wirkungsdauer
-      - Angriff
-      - Schaden
-  - type: table
-    name: Waldläuferzauber Grad 8
-    filters:
-      and:
-        - file.tags.contains("Klasse/Waldläufer")
-        - file.tags.contains("Zauber/Grad/8")
-    order:
-      - file.name
-      - Zeitaufwand
-      - Reichweite
-      - Komponenten
-      - Wirkungsdauer
-      - Angriff
-      - Schaden
-  - type: table
-    name: Waldläuferzauber Grad 9
-    filters:
-      and:
-        - file.tags.contains("Klasse/Waldläufer")
-        - file.tags.contains("Zauber/Grad/9")
-    order:
-      - file.name
-      - Zeitaufwand
-      - Reichweite
-      - Komponenten
-      - Wirkungsdauer
-      - Angriff
-      - Schaden
+      - status
+    columnSize:
+      file.name: 200
+      note.Reichweite: 100
+      note.Komponenten: 100
+      note.Wirkungsdauer: 150
+      note.Angriff: 75
+      note.Schaden: 150

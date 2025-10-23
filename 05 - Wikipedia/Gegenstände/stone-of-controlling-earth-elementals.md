@@ -14,6 +14,6 @@ aliases: ["Stone of Controlling Earth Elementals"]
 - **Cost**: ⏤
 - **Weight**: 5.0 lbs.
 
-If the stone is touching the ground, you can use an action to speak its command word and summon an [earth elemental](../Bestiarium/Elementare/Erdelementar.md), as if you had cast the [conjure elemental](../Zauber/Elementar-beschwören.md) spell. The stone can't be used this way again until the next dawn. The stone weighs 5 pounds.
+If the stone is touching the ground, you can use an action to speak its command word and summon an [earth elemental](Erdelementar.md), as if you had cast the [conjure elemental](Elementar-beschwören.md) spell. The stone can't be used this way again until the next dawn. The stone weighs 5 pounds.
 
 *Source: SRD / Basic Rules*

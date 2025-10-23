@@ -9,4 +9,4 @@ aliases: ["Fiendish Vigor"]
 # Unholde Vitalität
 *Quelle: SRD / Grundregelwerk / Spielerhandbuch*  
 
-Du kannst beliebig oft [[../../Zauber/Falsches Leben]] als Zauber des 1. Grades wirken, ohne dafür einen Zauberplatz oder Materialkomponenten verbrauchen zu müssen.  
+Du kannst beliebig oft [[Falsches Leben]] als Zauber des 1. Grades wirken, ohne dafür einen Zauberplatz oder Materialkomponenten verbrauchen zu müssen.  

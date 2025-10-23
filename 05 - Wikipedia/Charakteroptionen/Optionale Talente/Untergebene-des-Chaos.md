@@ -11,4 +11,4 @@ aliases: ["Minions of Chaos"]
 
 ***Voraussetzung***: 9. Stufe
 
-Du kannst einmal [Elementar beschwören](../../Zauber/Elementar-beschwören.md) wirken, indem du einen Hexenmeisterzauberplatz verbrauchst. Du kannst dies erst nach einer kurzen oder langen Rast erneut tun.
+Du kannst einmal [Elementar beschwören](Elementar-beschwören.md) wirken, indem du einen Hexenmeisterzauberplatz verbrauchst. Du kannst dies erst nach einer kurzen oder langen Rast erneut tun.

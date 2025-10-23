@@ -13,6 +13,14 @@ views:
       - Wirkungsdauer
       - Angriff
       - Schaden
+      - status
+    columnSize:
+      file.name: 200
+      note.Reichweite: 100
+      note.Komponenten: 100
+      note.Wirkungsdauer: 150
+      note.Angriff: 75
+      note.Schaden: 150
   - type: table
     name: Hexenmeisterzauber Grad 1
     filters:
@@ -27,6 +35,14 @@ views:
       - Wirkungsdauer
       - Angriff
       - Schaden
+      - status
+    columnSize:
+      file.name: 200
+      note.Reichweite: 100
+      note.Komponenten: 100
+      note.Wirkungsdauer: 150
+      note.Angriff: 75
+      note.Schaden: 150
   - type: table
     name: Hexenmeisterzauber Grad 2
     filters:
@@ -41,6 +57,14 @@ views:
       - Wirkungsdauer
       - Angriff
       - Schaden
+      - status
+    columnSize:
+      file.name: 200
+      note.Reichweite: 100
+      note.Komponenten: 100
+      note.Wirkungsdauer: 150
+      note.Angriff: 75
+      note.Schaden: 150
   - type: table
     name: Hexenmeisterzauber Grad 3
     filters:
@@ -55,6 +79,14 @@ views:
       - Wirkungsdauer
       - Angriff
       - Schaden
+      - status
+    columnSize:
+      file.name: 200
+      note.Reichweite: 100
+      note.Komponenten: 100
+      note.Wirkungsdauer: 150
+      note.Angriff: 75
+      note.Schaden: 150
   - type: table
     name: Hexenmeisterzauber Grad 4
     filters:
@@ -69,6 +101,14 @@ views:
       - Wirkungsdauer
       - Angriff
       - Schaden
+      - status
+    columnSize:
+      file.name: 200
+      note.Reichweite: 100
+      note.Komponenten: 100
+      note.Wirkungsdauer: 150
+      note.Angriff: 75
+      note.Schaden: 150
   - type: table
     name: Hexenmeisterzauber Grad 5
     filters:
@@ -83,6 +123,14 @@ views:
       - Wirkungsdauer
       - Angriff
       - Schaden
+      - status
+    columnSize:
+      file.name: 200
+      note.Reichweite: 100
+      note.Komponenten: 100
+      note.Wirkungsdauer: 150
+      note.Angriff: 75
+      note.Schaden: 150
   - type: table
     name: Hexenmeisterzauber Grad 6
     filters:
@@ -97,6 +145,14 @@ views:
       - Wirkungsdauer
       - Angriff
       - Schaden
+      - status
+    columnSize:
+      file.name: 200
+      note.Reichweite: 100
+      note.Komponenten: 100
+      note.Wirkungsdauer: 150
+      note.Angriff: 75
+      note.Schaden: 150
   - type: table
     name: Hexenmeisterzauber Grad 7
     filters:
@@ -111,6 +167,14 @@ views:
       - Wirkungsdauer
       - Angriff
       - Schaden
+      - status
+    columnSize:
+      file.name: 200
+      note.Reichweite: 100
+      note.Komponenten: 100
+      note.Wirkungsdauer: 150
+      note.Angriff: 75
+      note.Schaden: 150
   - type: table
     name: Hexenmeisterzauber Grad 8
     filters:
@@ -125,6 +189,14 @@ views:
       - Wirkungsdauer
       - Angriff
       - Schaden
+      - status
+    columnSize:
+      file.name: 200
+      note.Reichweite: 100
+      note.Komponenten: 100
+      note.Wirkungsdauer: 150
+      note.Angriff: 75
+      note.Schaden: 150
   - type: table
     name: Hexenmeisterzauber Grad 9
     filters:
@@ -139,3 +211,11 @@ views:
       - Wirkungsdauer
       - Angriff
       - Schaden
+      - status
+    columnSize:
+      file.name: 200
+      note.Reichweite: 100
+      note.Komponenten: 100
+      note.Wirkungsdauer: 150
+      note.Angriff: 75
+      note.Schaden: 150

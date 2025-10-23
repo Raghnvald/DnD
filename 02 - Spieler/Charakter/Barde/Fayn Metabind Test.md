@@ -313,7 +313,7 @@ Du bist in zwei Fertigkeiten deiner Wahl geübt.
 Der Kontakt mit der Magie der Feenwelt hat dich verändert und gewährt dir die folgenden Vorteile:
 
 - Erhöht deinen Intelligenz-, Weisheits- oder Charisma-Wert um 1 bis maximal 20.
-- Du lernst den Zauber [Nebelschritt](../../../05%20-%20Wikipedia/Zauber/Nebelschritt.md) und einen Zauber des 1. Zaubergrades deiner Wahl. Der Zauber des 1. Grades muss aus der Schule der Erkenntnis- oder der Verzauberungsschule sein. Du kannst jeden dieser Zauber wirken, ohne einen Zauberplatz zu verbrauchen. Sobald du einen dieser Zauber auf diese Weise gewirkt hast, kannst du ihn erst wieder nach einer langen Rast auf diese Weise wirken. Du kannst diese Zauber auch mit Zauberplätzen der entsprechenden Stufe wirken. Der Zaubermodifikator des Zaubers ist der Wert, der durch dieses Talent erhöht wird.
+- Du lernst den Zauber [Nebelschritt](Nebelschritt.md) und einen Zauber des 1. Zaubergrades deiner Wahl. Der Zauber des 1. Grades muss aus der Schule der Erkenntnis- oder der Verzauberungsschule sein. Du kannst jeden dieser Zauber wirken, ohne einen Zauberplatz zu verbrauchen. Sobald du einen dieser Zauber auf diese Weise gewirkt hast, kannst du ihn erst wieder nach einer langen Rast auf diese Weise wirken. Du kannst diese Zauber auch mit Zauberplätzen der entsprechenden Stufe wirken. Der Zaubermodifikator des Zaubers ist der Wert, der durch dieses Talent erhöht wird.
 
 - Charisma +1
 

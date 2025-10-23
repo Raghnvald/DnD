@@ -20,11 +20,11 @@ While wearing this ring, you have advantage on attack rolls against elementals f
 
 The ring has 5 charges. It regains `1d4 + 1` expended charges daily at dawn. Spells cast from the ring have a save DC of 17.
 
-You can expend 2 of the ring's charges to cast [dominate monster](../Zauber/Monster-beherrschen.md) on a [water elemental](../Bestiarium/Elementare/Wasserelementar.md). In addition, you can stand on and walk across liquid surfaces as if they were solid ground. You can also speak and understand Aquan.
+You can expend 2 of the ring's charges to cast [dominate monster](Monster-beherrschen.md) on a [water elemental](Wasserelementar.md). In addition, you can stand on and walk across liquid surfaces as if they were solid ground. You can also speak and understand Aquan.
 
-If you help slay a [water elemental](../Bestiarium/Elementare/Wasserelementar.md) while attuned to the ring, you gain access to the following additional properties:
+If you help slay a [water elemental](Wasserelementar.md) while attuned to the ring, you gain access to the following additional properties:
 
 - You can breathe underwater and have a swimming speed equal to your walking speed.  
-- You can cast the following spells from the ring, expending the necessary number of charges: [create or destroy water](../Zauber/Wasser-erschaffen-oder-zerstören.md) (1 charge), [control water](../Zauber/Wasser-kontrollieren.md) (3 charges), [ice storm](../Zauber/Eissturm.md) (2 charges), or [wall of ice](../Zauber/Eiswand.md) (3 charges).  
+- You can cast the following spells from the ring, expending the necessary number of charges: [create or destroy water](Wasser-erschaffen-oder-zerstören.md) (1 charge), [control water](Wasser-kontrollieren.md) (3 charges), [ice storm](Eissturm.md) (2 charges), or [wall of ice](Eiswand.md) (3 charges).  
 
 *Source: SRD / Basic Rules*

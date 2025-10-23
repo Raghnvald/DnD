@@ -24,6 +24,6 @@ This robe is adorned with eyelike patterns. While you wear the robe, you gain th
 
 The eyes on the robe can't be closed or averted. Although you can close or avert your own eyes, you are never considered to be doing so while wearing this robe.
 
-A [Light](Verschiedenes/Archiv/DND/Archiv/Wiki/Light.md) spell cast on the robe or a [Tageslicht](../Zauber/Tageslicht.md) spell cast within 5 feet of the robe causes you to be [blinded](rules/conditions.md#blinded) for 1 minute. At the end of each of your turns, you can make a Constitution saving throw (DC 11 for [Light](Verschiedenes/Archiv/DND/Archiv/Wiki/Light.md) or DC 15 for [Tageslicht](../Zauber/Tageslicht.md)), ending the blindness on a success.
+A [Light](Verschiedenes/Archiv/DND/Archiv/Wiki/Light.md) spell cast on the robe or a [Tageslicht](Tageslicht.md) spell cast within 5 feet of the robe causes you to be [blinded](rules/conditions.md#blinded) for 1 minute. At the end of each of your turns, you can make a Constitution saving throw (DC 11 for [Light](Verschiedenes/Archiv/DND/Archiv/Wiki/Light.md) or DC 15 for [Tageslicht](Tageslicht.md)), ending the blindness on a success.
 
 *Source: SRD / Basic Rules*

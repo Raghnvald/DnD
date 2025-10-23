@@ -197,7 +197,7 @@ A 10-foot-radius invisible sphere of antimagic surrounds you. This area is divor
 
 Spells and other magical effects, except those created by an artifact or a deity, are suppressed in the sphere and can’t protrude into it. A slot expended to cast a suppressed spell is consumed. While an effect is suppressed, it doesn’t function, but the time it spends suppressed counts against its duration.
 
-Targeted Effects. Spells and other magical effects, such as [[../../../05 - Wikipedia/Zauber/Magisches Geschoss]] and charm person, that target a creature or an object in the sphere have no effect on that target.
+Targeted Effects. Spells and other magical effects, such as [[Magisches Geschoss]] and charm person, that target a creature or an object in the sphere have no effect on that target.
 
 Areas of Magic. The area of another spell or magical effect, such as fireball, can’t extend into the sphere. If the sphere overlaps an area of magic, the part of the area that is covered by the sphere is suppressed. For example, the flames created by a wall of fire are suppressed within the sphere, creating a gap in the wall if the overlap is large enough.
 

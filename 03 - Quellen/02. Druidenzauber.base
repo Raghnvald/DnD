@@ -1,3 +1,6 @@
+properties:
+  file.name:
+    displayName: File
 views:
   - type: table
     name: Druidenzaubertricks
@@ -13,6 +16,14 @@ views:
       - Wirkungsdauer
       - Angriff
       - Schaden
+      - status
+    columnSize:
+      file.name: 200
+      note.Reichweite: 100
+      note.Komponenten: 100
+      note.Wirkungsdauer: 150
+      note.Angriff: 75
+      note.Schaden: 150
   - type: table
     name: Druidenzauber Grad 1
     filters:
@@ -27,6 +38,14 @@ views:
       - Wirkungsdauer
       - Angriff
       - Schaden
+      - status
+    columnSize:
+      file.name: 200
+      note.Reichweite: 100
+      note.Komponenten: 100
+      note.Wirkungsdauer: 150
+      note.Angriff: 75
+      note.Schaden: 150
   - type: table
     name: Druidenzauber Grad 2
     filters:
@@ -41,6 +60,14 @@ views:
       - Wirkungsdauer
       - Angriff
       - Schaden
+      - status
+    columnSize:
+      file.name: 200
+      note.Reichweite: 100
+      note.Komponenten: 100
+      note.Wirkungsdauer: 150
+      note.Angriff: 75
+      note.Schaden: 150
   - type: table
     name: Druidenzauber Grad 3
     filters:
@@ -55,6 +82,14 @@ views:
       - Wirkungsdauer
       - Angriff
       - Schaden
+      - status
+    columnSize:
+      file.name: 200
+      note.Reichweite: 100
+      note.Komponenten: 100
+      note.Wirkungsdauer: 150
+      note.Angriff: 75
+      note.Schaden: 150
   - type: table
     name: Druidenzauber Grad 4
     filters:
@@ -69,6 +104,14 @@ views:
       - Wirkungsdauer
       - Angriff
       - Schaden
+      - status
+    columnSize:
+      file.name: 200
+      note.Reichweite: 100
+      note.Komponenten: 100
+      note.Wirkungsdauer: 150
+      note.Angriff: 75
+      note.Schaden: 150
   - type: table
     name: Druidenzauber Grad 5
     filters:
@@ -83,6 +126,14 @@ views:
       - Wirkungsdauer
       - Angriff
       - Schaden
+      - status
+    columnSize:
+      file.name: 200
+      note.Reichweite: 100
+      note.Komponenten: 100
+      note.Wirkungsdauer: 150
+      note.Angriff: 75
+      note.Schaden: 150
   - type: table
     name: Druidenzauber Grad 6
     filters:
@@ -97,6 +148,14 @@ views:
       - Wirkungsdauer
       - Angriff
       - Schaden
+      - status
+    columnSize:
+      file.name: 200
+      note.Reichweite: 100
+      note.Komponenten: 100
+      note.Wirkungsdauer: 150
+      note.Angriff: 75
+      note.Schaden: 150
   - type: table
     name: Druidenzauber Grad 7
     filters:
@@ -111,6 +170,14 @@ views:
       - Wirkungsdauer
       - Angriff
       - Schaden
+      - status
+    columnSize:
+      file.name: 200
+      note.Reichweite: 100
+      note.Komponenten: 100
+      note.Wirkungsdauer: 150
+      note.Angriff: 75
+      note.Schaden: 150
   - type: table
     name: Druidenzauber Grad 8
     filters:
@@ -125,6 +192,14 @@ views:
       - Wirkungsdauer
       - Angriff
       - Schaden
+      - status
+    columnSize:
+      file.name: 200
+      note.Reichweite: 100
+      note.Komponenten: 100
+      note.Wirkungsdauer: 150
+      note.Angriff: 75
+      note.Schaden: 150
   - type: table
     name: Druidenzauber Grad 9
     filters:
@@ -139,3 +214,11 @@ views:
       - Wirkungsdauer
       - Angriff
       - Schaden
+      - status
+    columnSize:
+      file.name: 200
+      note.Reichweite: 100
+      note.Komponenten: 100
+      note.Wirkungsdauer: 150
+      note.Angriff: 75
+      note.Schaden: 150

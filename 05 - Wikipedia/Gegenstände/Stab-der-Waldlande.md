@@ -26,9 +26,9 @@ The staff has 10 charges for the following properties. It regains `1d6 + 4` expe
 
 ## Spells
 
-You can use an action to expend 1 or more of the staff's charges to cast one of the following spells from it, using your spell save DC: [animal friendship](../Zauber/Tierfreundschaft.md) (1 charge), [Erwecken](../Zauber/Erwecken.md) (5 charges), [Rindenhaut](../Zauber/Rindenhaut.md) (2 charges), [locate animals or plants](../Zauber/Tiere-oder-Pflanzen-aufspüren.md) (2 charges), [speak with animals](../Zauber/Mit-Tieren-sprechen.md) (1 charge), [speak with plants](../Zauber/Mit-Pflanzen-sprechen.md) (3 charges), or [wall of thorns](../Zauber/Dornenwand.md) (6 charges).
+You can use an action to expend 1 or more of the staff's charges to cast one of the following spells from it, using your spell save DC: [animal friendship](Tierfreundschaft.md) (1 charge), [Erwecken](Erwecken.md) (5 charges), [Rindenhaut](Rindenhaut.md) (2 charges), [locate animals or plants](Tiere-oder-Pflanzen-aufspüren.md) (2 charges), [speak with animals](Mit-Tieren-sprechen.md) (1 charge), [speak with plants](Mit-Pflanzen-sprechen.md) (3 charges), or [wall of thorns](Dornenwand.md) (6 charges).
 
-You can also use an action to cast the [pass without trace](../Zauber/Spurloses-Gehen.md) spell from the staff without using any charges.
+You can also use an action to cast the [pass without trace](Spurloses-Gehen.md) spell from the staff without using any charges.
 
 ## Tree Form
 

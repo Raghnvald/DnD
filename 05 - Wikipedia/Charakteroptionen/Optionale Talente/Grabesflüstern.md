@@ -11,5 +11,5 @@ aliases: ["Whispers of the Grave"]
 
 ***Voraussetzung***: 9. Stufe
 
-Du kannst [Mit Toten sprechen](../../Zauber/Mit-Toten-sprechen.md) beliebig oft wirken, ohne dafür einen Zauberplatz verbrauchen zu müssen.
+Du kannst [Mit Toten sprechen](Mit-Toten-sprechen.md) beliebig oft wirken, ohne dafür einen Zauberplatz verbrauchen zu müssen.
  

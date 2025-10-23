@@ -17,6 +17,6 @@ aliases:
 - **Kosten**: 7.500 Goldmünzen
 - **Gewicht**: ⏤
 
-Wenn du diese Brosche trägst, bist du gegen Energieschaden resistent und gegen Schaden durch den Zauber [[../Zauber/Magisches Geschoss]] immun.
+Wenn du diese Brosche trägst, bist du gegen Energieschaden resistent und gegen Schaden durch den Zauber [[Magisches Geschoss]] immun.
 
 *Quelle: SRD / Grundregelwerk*

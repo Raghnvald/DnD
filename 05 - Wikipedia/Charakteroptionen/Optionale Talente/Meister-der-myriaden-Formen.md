@@ -11,4 +11,4 @@ aliases: ["Master of Myriad Forms"]
 
 ***Voraussetzung***: 15. Stufe 
 
-Du kannst [Gestalt verändern](../../Zauber/Gestalt-verändern.md) beliebig oft wirken, ohne dafür einen Zauberplatz verbrauchen zu müssen.
+Du kannst [Gestalt verändern](Gestalt-verändern.md) beliebig oft wirken, ohne dafür einen Zauberplatz verbrauchen zu müssen.

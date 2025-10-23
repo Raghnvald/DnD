@@ -289,7 +289,7 @@ At 6th level, you gain one feature granted by your Monastic Tradition.
 
 ### Evasion (Level 7)
 
-At 7th level, your instinctive agility lets you dodge out of the way of certain area effects, such as a blue dragon's lightning breath or a [Feuerball](../../Zauber/Feuerball.md) spell. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
+At 7th level, your instinctive agility lets you dodge out of the way of certain area effects, such as a blue dragon's lightning breath or a [Feuerball](Feuerball.md) spell. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
 
 ### Stillness of Mind (Level 7)
 
@@ -347,7 +347,7 @@ At 17th level, you gain one feature granted by your Monastic Tradition.
 
 Beginning at 18th level, you can use your action to spend 4 ki points to become [invisible](rules/conditions.md#invisible) for 1 minute. During that time, you also have resistance to all damage but force damage.
 
-Additionally, you can spend 8 ki points to cast the [astral projection](../../Zauber/Astrale-Projektion.md) spell, without needing material components. When you do so, you can't take any other creatures with you.
+Additionally, you can spend 8 ki points to cast the [astral projection](Astrale%20Projektion.md) spell, without needing material components. When you do so, you can't take any other creatures with you.
 
 ### Ability Score Improvement (Level 19)
 

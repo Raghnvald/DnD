@@ -30,7 +30,7 @@ When you hit with a melee attack using the staff, you can expend 1 charge to dea
 
 ## Spells
 
-While holding this staff, you can use an action to expend 1 or more of its charges to cast one of the following spells from it, using your spell save DC and spell attack bonus: [[../Zauber/Kältekegel]] (5 charges), [[../Zauber/Feuerball]] (5th-level version, 5 charges), [globe of invulnerability](../Zauber/Kugel-der-Unverwundbarkeit.md) (6 charges), [hold monster](../Zauber/Monster-festhalten.md) (5 charges), [[../Zauber/Schweben]] (2 charges). [[../Zauber/Blitz]] (5th-level version, 5 charges), [[../Zauber/Magisches Geschoss]] (1 charge), [[../Zauber/Schwächestrahl]]) (1 charge), or [[../Zauber/Energiewand]] (5 charges).
+While holding this staff, you can use an action to expend 1 or more of its charges to cast one of the following spells from it, using your spell save DC and spell attack bonus: [[Kältekegel]] (5 charges), [[Feuerball]] (5th-level version, 5 charges), [globe of invulnerability](Kugel-der-Unverwundbarkeit.md) (6 charges), [hold monster](Monster-festhalten.md) (5 charges), [[Schweben]] (2 charges). [[Blitz]] (5th-level version, 5 charges), [[Magisches Geschoss]] (1 charge), [[Schwächestrahl]]) (1 charge), or [[Energiewand]] (5 charges).
 
 ## Retributive Strike
 

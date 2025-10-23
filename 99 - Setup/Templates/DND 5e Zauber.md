@@ -14,6 +14,8 @@ tags:
 - Zauber/Schule/TEMPLATE
 aliases: 
 - TEMPLATE
+status:
+- completed (?)
 ---
 # NAME
 _SCHULE des X. Grades (Ritual?)_

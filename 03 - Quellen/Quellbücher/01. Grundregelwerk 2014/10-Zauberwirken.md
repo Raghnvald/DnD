@@ -25,8 +25,8 @@ $\quad$Manche Charaktere und Monster haben Spezialfähigkeiten, mit denen sie Za
 
 ### Einen Zauber auf einem höheren Grad wirken
 
-Wenn ein Zauberwirker einen Zauber mit einem Zauberplatz eines höheren Grades wirkt, gilt der höhere Grad. Wenn Umara zum Beispiel beim Wirken von [[../../../05 - Wikipedia/Zauber/Magisches Geschoss]] einen Zauberplatz des 2. Grades nutzt, hat Magische Geschoss in diesem Zug den 2. Grad. Der Zauber dehnt sich gewissermaßen aus, um den zugewiesenen Zauberplatz auszufüllen.
-$\quad$Bestimmte Zauber wie etwa [[../../../05 - Wikipedia/Zauber/Magisches Geschoss]] und [[Wunden heilen]] haben mächtigere Effekte, wenn sie auf einem höheren Grad gewirkt werden. Diese sind in der Beschreibung des Zaubers aufgeführt.
+Wenn ein Zauberwirker einen Zauber mit einem Zauberplatz eines höheren Grades wirkt, gilt der höhere Grad. Wenn Umara zum Beispiel beim Wirken von [[Magisches Geschoss]] einen Zauberplatz des 2. Grades nutzt, hat Magische Geschoss in diesem Zug den 2. Grad. Der Zauber dehnt sich gewissermaßen aus, um den zugewiesenen Zauberplatz auszufüllen.
+$\quad$Bestimmte Zauber wie etwa [[Magisches Geschoss]] und [[Wunden heilen]] haben mächtigere Effekte, wenn sie auf einem höheren Grad gewirkt werden. Diese sind in der Beschreibung des Zaubers aufgeführt.
 
 #### In Rüstung zaubern
 
@@ -115,7 +115,7 @@ Platzierst du einen Wirkungsbereich an einem Punkt, den du nicht sehen kannst, u
 Wenn das Ziel eines Zaubers eine Kreatur deiner Wahl ist, kannst du dich selbst als Ziel bestimmen, es sei denn, die Kreatur muss feindlich oder spezifisch eine andere Kreatur als du selbst sein. Wenn du dich im Wirkungsbereich eines Zaubers befindest, den du gewirkt hast, dann kannst du dich selbst als Ziel wählen.
 
 ## Wirkungsbereiche
-Zauber wie [[../../../05 - Wikipedia/Zauber/Brennende Hände]] und Kältekegel decken eine Fläche ab. Dadurch können sie mehrere Kreaturen auf einmal treffen.
+Zauber wie [[Brennende Hände]] und Kältekegel decken eine Fläche ab. Dadurch können sie mehrere Kreaturen auf einmal treffen.
 Die Beschreibung eines Zaubers enthält den Wirkungsbereich, der üblicherweise eine von fünf Formen hat: Kegel, Kugel, Linie, Würfel oder Zylinder. Jeder Wirkungsbereich hat einen Ursprung, den Punkt, von dem die Energie des Zaubers ausgeht. Die Regeln für jede Form legen fest, wo sich der Ursprung befindet. Üblicherweise ist der Ursprung ein Punkt im Raum. Manche Zauber haben jedoch einen Bereich, dessen Ursprung eine Kreatur oder ein Gegenstand ist.
 Der Effekt eines Zaubers breitet sich in geraden Linien vom Ursprung aus. Lässt sich keine gerade Linie vom Ursprung zu einem Punkt innerhalb des Wirkungsbereichs ziehen, betrifft der Zauber diesen Punkt nicht. Eine solche Linie kann nur von einem Hindernis blockiert werden, das vollständige Deckung bietet.
 

@@ -7,10 +7,10 @@ aliases:
 # Lady Fiona Wachter 
 Lady Wachter hat immer noch die Werte eines Priesters. allerdings hat sie eine andere Liste von vorbereiteten Zaubern:
 
-**Zaubertricks (nach Belieben):** [[../../05 - Wikipedia/Zauber/Licht]], [[../../05 - Wikipedia/Zauber/Thaumaturgie]], [[../../05 - Wikipedia/Zauber/Totenläuten]]
-**1. Stufe (4 Plätze):** [Befehl](../../05%20-%20Wikipedia/Zauber/Befehl.md), [Heiligtum](../../05%20-%20Wikipedia/Zauber/Heiligtum.md), [Verderben](../../05%20-%20Wikipedia/Zauber/Verderben.md)
-**2. Stufe (3 Plätze):** [Blindheit/Taubheit](../../05%20-%20Wikipedia/Zauber/Blindheit-Taubheit.md), [Person festhalten](../../05%20-%20Wikipedia/Zauber/Person-festhalten.md), [Zone der Wahrheit](../../05%20-%20Wikipedia/Zauber/Zone-der-Wahrheit.md)
-**3. Stufe (2 Plätze):** [Tote beleben](../../05%20-%20Wikipedia/Zauber/Tote-beleben.md), [Wächtergeister](../../05%20-%20Wikipedia/Zauber/Schutzgeister.md)
+**Zaubertricks (nach Belieben):** [[Licht]], [[Thaumaturgie]], [[Totenläuten]]
+**1. Stufe (4 Plätze):** [Befehl](Befehl.md), [Heiligtum](Heiligtum.md), [Verderben](Verderben.md)
+**2. Stufe (3 Plätze):** [Blindheit/Taubheit](Blindheit-Taubheit.md), [Person festhalten](Person-festhalten.md), [Zone der Wahrheit](Zone-der-Wahrheit.md)
+**3. Stufe (2 Plätze):** [Tote beleben](Tote-beleben.md), [Wächtergeister](Schutzgeister.md)
 
 ## Rollenspiel-Informationen
 **Resonanz** Lady Wachter sollte wegen ihrer Loyalität zu Strahd Misstrauen, wegen ihrer pragmatischen Vernunft Respekt, wegen ihrer Hingabe an ihre Kinder Zuneigung und wegen der Tragödie ihrer Familie Mitleid hervorrufen.

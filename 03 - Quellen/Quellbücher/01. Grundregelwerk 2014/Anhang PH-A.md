@@ -64,7 +64,7 @@ $\quad$Nach einer langen Rast sinkt die Erschöpfungsstufe einer Kreatur um 1, v
 
 - Die Bewegungsrate einer gepackten Kreatur wird zu 0, und es kann kein Bonus auf die Bewegungsrate genutzt werden. 
 - Der Zustand endet, wenn die packende Kreatur [[#kampfunfähig]] ist. 
-- Der Zustand endet auch, wenn ein Effekt die gepackte Kreatur aus der Reichweite der packenden Kreatur oder ihres packenden Effekts entfernt, etwa der Zauber [[../../../05 - Wikipedia/Zauber/Donnerwoge]].
+- Der Zustand endet auch, wenn ein Effekt die gepackte Kreatur aus der Reichweite der packenden Kreatur oder ihres packenden Effekts entfernt, etwa der Zauber [[Donnerwoge]].
 
 ### Kampfunfähig
 

@@ -13,6 +13,14 @@ views:
       - Wirkungsdauer
       - Angriff
       - Schaden
+      - status
+    columnSize:
+      file.name: 200
+      note.Reichweite: 100
+      note.Komponenten: 100
+      note.Wirkungsdauer: 150
+      note.Angriff: 75
+      note.Schaden: 150
   - type: table
     name: Paladinzauber Grad 2
     filters:
@@ -27,6 +35,14 @@ views:
       - Wirkungsdauer
       - Angriff
       - Schaden
+      - status
+    columnSize:
+      file.name: 200
+      note.Reichweite: 100
+      note.Komponenten: 100
+      note.Wirkungsdauer: 150
+      note.Angriff: 75
+      note.Schaden: 150
   - type: table
     name: Paladinzauber Grad 3
     filters:
@@ -41,6 +57,14 @@ views:
       - Wirkungsdauer
       - Angriff
       - Schaden
+      - status
+    columnSize:
+      file.name: 200
+      note.Reichweite: 100
+      note.Komponenten: 100
+      note.Wirkungsdauer: 150
+      note.Angriff: 75
+      note.Schaden: 150
   - type: table
     name: Paladinzauber Grad 4
     filters:
@@ -55,6 +79,14 @@ views:
       - Wirkungsdauer
       - Angriff
       - Schaden
+      - status
+    columnSize:
+      file.name: 200
+      note.Reichweite: 100
+      note.Komponenten: 100
+      note.Wirkungsdauer: 150
+      note.Angriff: 75
+      note.Schaden: 150
   - type: table
     name: Paladinzauber Grad 5
     filters:
@@ -69,3 +101,11 @@ views:
       - Wirkungsdauer
       - Angriff
       - Schaden
+      - status
+    columnSize:
+      file.name: 200
+      note.Reichweite: 100
+      note.Komponenten: 100
+      note.Wirkungsdauer: 150
+      note.Angriff: 75
+      note.Schaden: 150

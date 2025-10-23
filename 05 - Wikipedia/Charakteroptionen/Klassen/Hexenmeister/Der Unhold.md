@@ -23,7 +23,7 @@ The Fiend lets you choose from an expanded list of spells when you learn a warlo
 
 | Spell Level | Spells |
 | --- | --- |
-| 1st | [[../../../Zauber/Brennende Hände]], Befehl |
+| 1st | [[Brennende Hände]], Befehl |
 | 2nd | blindness/deafness, scorching ray |
 | 3rd | Feuerball, stinking cloud |
 | 4th | fire shield, wall of fire |

@@ -209,7 +209,7 @@ What spurred your character to select a particular enemy? Was the choice made be
 
 Beginning at 1st level, you have significant experience studying, tracking, hunting, and even talking to a certain type of enemy.
 
-Choose a type of favored enemy: aberrations, beasts, celestials, constructs, dragons, elementals, fey, fiends, giants, monstrosities, oozes, plants, or undead. Alternatively, you can select two races of humanoid (such as [gnolls](../Bestiarium/Humanoide/Gnoll.md) and [orcs](../../Bestiarium/Humanoide/Ork.md)) as favored enemies.
+Choose a type of favored enemy: aberrations, beasts, celestials, constructs, dragons, elementals, fey, fiends, giants, monstrosities, oozes, plants, or undead. Alternatively, you can select two races of humanoid (such as [gnolls](../Bestiarium/Humanoide/Gnoll.md) and [orcs](Ork.md)) as favored enemies.
 
 You have advantage on Wisdom ([Survival](rules/skills.md#Survival)) checks to track your favored enemies, as well as on Intelligence checks to recall information about them.
 
@@ -249,7 +249,7 @@ By the time you reach 2nd level, you have learned to use the magical essence of 
 
 The Ranger table shows how many spell slots you have to cast your ranger spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
 
-For example, if you know the 1st-level spell [animal friendship](../../Zauber/Tierfreundschaft.md) and have a 1st-level and a 2nd-level spell slot available, you can cast [animal friendship](../../Zauber/Tierfreundschaft.md) using either slot.
+For example, if you know the 1st-level spell [animal friendship](Tierfreundschaft.md) and have a 1st-level and a 2nd-level spell slot available, you can cast [animal friendship](Tierfreundschaft.md) using either slot.
 
 #### Spells Known of 1st Level and Higher
 
@@ -305,7 +305,7 @@ If your DM allows the use of feats, you may instead take a feat.
 
 Starting at 8th level, moving through nonmagical difficult terrain costs you no extra movement. You can also pass through nonmagical plants without being slowed by them and without taking damage from them if they have thorns, spines, or a similar hazard.
 
-In addition, you have advantage on saving throws against plants that are magically created or manipulated to impede movement, such as those created by the [Verstricken](../../Zauber/Verstricken.md) spell.
+In addition, you have advantage on saving throws against plants that are magically created or manipulated to impede movement, such as those created by the [Verstricken](Verstricken.md) spell.
 
 ### Hide in Plain Sight (Level 10)
 

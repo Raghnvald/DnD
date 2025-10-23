@@ -20,11 +20,11 @@ aliases: ["Staff of Swarming Insects"]
 - **Cost**: ⏤
 - **Weight**: 4.0 lbs.
 
-This staff has 10 charges and regains `1d6 + 4` expended charges daily at dawn. If you expend the last charge, roll a `d20`. On a 1, a [swarm of insects](swarm-of-insects.md) consumes and destroys the staff, then disperses.
+This staff has 10 charges and regains `1d6 + 4` expended charges daily at dawn. If you expend the last charge, roll a `d20`. On a 1, a [swarm of insects](Schwarm%20von%20Insekten.md) consumes and destroys the staff, then disperses.
 
 ## Spells
 
-While holding the staff, you can use an action to expend some of its charges to cast one of the following spells from it, using your spell save DC: [giant insect](../Zauber/Rieseninsekt.md) (4 charges) or [insect plague](../Zauber/Insektenplage.md) (5 charges).
+While holding the staff, you can use an action to expend some of its charges to cast one of the following spells from it, using your spell save DC: [giant insect](Rieseninsekt.md) (4 charges) or [insect plague](Insektenplage.md) (5 charges).
 
 ## Insect Cloud
 

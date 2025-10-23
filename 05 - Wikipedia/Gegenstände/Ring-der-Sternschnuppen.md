@@ -16,13 +16,13 @@ aliases: ["Ring of Shooting Stars"]
 - **Cost**: ⏤
 - **Weight**: ⏤
 
-While wearing this ring in dim light or darkness, you can cast [[../Zauber/Tanzende Lichter]] and [[../Zauber/Licht]] from the ring at will. Casting either spell from the ring requires an action.
+While wearing this ring in dim light or darkness, you can cast [[Tanzende Lichter]] and [[Licht]] from the ring at will. Casting either spell from the ring requires an action.
 
 The ring has 6 charges for the following other properties. The ring regains `1d6` expended charges daily at dawn.
 
 ## Faerie Fire
 
-You can expend 1 charge as an action to cast [faerie fire](../Zauber/Feenfeuer.md) from the ring.
+You can expend 1 charge as an action to cast [faerie fire](Feenfeuer.md) from the ring.
 
 ## Ball Lightning
 

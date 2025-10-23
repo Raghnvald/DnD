@@ -35,7 +35,7 @@ Du bist gegen Feuerschaden resistent.
 
 ### Infernalisches Erbe
 
-Du kennst den Zaubertrick [Thaumaturgie](../../Zauber/Thaumaturgie.md). Ab der 3. Stufe kannst du dank dieses Merkmals einmal am Tag [Höllischer Tadel](../../Zauber/Höllischer-Tadel.md) wirken, einen Zauber des 2. Grades. Er steht dir erst nach einer langen Rast wieder zur Verfügung. Ab der 5. Stufe kannst du dank dieses Merkmals einmal am Tag den Zauber [Dunkelheit](../../Zauber/Dunkelheit.md) wirken. Er steht dir erst nach einer langen Rast wieder zur Verfügung. Dein Attribut zum Zauberwirken ist dabei dein Charisma.
+Du kennst den Zaubertrick [Thaumaturgie](Thaumaturgie.md). Ab der 3. Stufe kannst du dank dieses Merkmals einmal am Tag [Höllischer Tadel](Höllischer-Tadel.md) wirken, einen Zauber des 2. Grades. Er steht dir erst nach einer langen Rast wieder zur Verfügung. Ab der 5. Stufe kannst du dank dieses Merkmals einmal am Tag den Zauber [Dunkelheit](Dunkelheit.md) wirken. Er steht dir erst nach einer langen Rast wieder zur Verfügung. Dein Attribut zum Zauberwirken ist dabei dein Charisma.
 
 ### Sprachen
 

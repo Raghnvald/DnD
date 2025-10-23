@@ -17,6 +17,6 @@ aliases:
 - **Cost**: ⏤
 - **Weight**: 3.0 lbs.
 
-This crystal ball is about 6 inches in diameter. While touching it, you can cast the [Ausspähung](../Zauber/Ausspähung.md) spell (save DC 17) with it.
+This crystal ball is about 6 inches in diameter. While touching it, you can cast the [Ausspähung](Ausspähung.md) spell (save DC 17) with it.
 
 *Source: SRD / Basic Rules*

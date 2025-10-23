@@ -16,6 +16,7 @@ views:
       - pW
       - ZR
     columnSize:
+      note.RK: 58
       note.ZR: 178
 
 ```

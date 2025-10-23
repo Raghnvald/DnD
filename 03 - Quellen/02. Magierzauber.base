@@ -14,6 +14,13 @@ views:
       - Angriff
       - Schaden
       - status
+    columnSize:
+      file.name: 200
+      note.Reichweite: 100
+      note.Komponenten: 100
+      note.Wirkungsdauer: 150
+      note.Angriff: 75
+      note.Schaden: 150
   - type: table
     name: Magierzauber Grad 1
     filters:
@@ -28,6 +35,14 @@ views:
       - Wirkungsdauer
       - Angriff
       - Schaden
+      - status
+    columnSize:
+      file.name: 200
+      note.Reichweite: 100
+      note.Komponenten: 100
+      note.Wirkungsdauer: 150
+      note.Angriff: 75
+      note.Schaden: 150
   - type: table
     name: Magierzauber Grad 2
     filters:
@@ -42,9 +57,17 @@ views:
       - Wirkungsdauer
       - Angriff
       - Schaden
+      - status
     sort:
       - property: file.name
         direction: ASC
+    columnSize:
+      file.name: 200
+      note.Reichweite: 100
+      note.Komponenten: 100
+      note.Wirkungsdauer: 150
+      note.Angriff: 75
+      note.Schaden: 150
   - type: table
     name: Magierzauber Grad 3
     filters:
@@ -59,6 +82,14 @@ views:
       - Wirkungsdauer
       - Angriff
       - Schaden
+      - status
+    columnSize:
+      file.name: 200
+      note.Reichweite: 100
+      note.Komponenten: 100
+      note.Wirkungsdauer: 150
+      note.Angriff: 75
+      note.Schaden: 150
   - type: table
     name: Magierzauber Grad 4
     filters:
@@ -73,6 +104,14 @@ views:
       - Wirkungsdauer
       - Angriff
       - Schaden
+      - status
+    columnSize:
+      file.name: 200
+      note.Reichweite: 100
+      note.Komponenten: 100
+      note.Wirkungsdauer: 150
+      note.Angriff: 75
+      note.Schaden: 150
   - type: table
     name: Magierzauber Grad 5
     filters:
@@ -87,6 +126,14 @@ views:
       - Wirkungsdauer
       - Angriff
       - Schaden
+      - status
+    columnSize:
+      file.name: 200
+      note.Reichweite: 100
+      note.Komponenten: 100
+      note.Wirkungsdauer: 150
+      note.Angriff: 75
+      note.Schaden: 150
   - type: table
     name: Magierzauber Grad 6
     filters:
@@ -101,6 +148,14 @@ views:
       - Wirkungsdauer
       - Angriff
       - Schaden
+      - status
+    columnSize:
+      file.name: 200
+      note.Reichweite: 100
+      note.Komponenten: 100
+      note.Wirkungsdauer: 150
+      note.Angriff: 75
+      note.Schaden: 150
   - type: table
     name: Magierzauber Grad 7
     filters:
@@ -115,6 +170,14 @@ views:
       - Wirkungsdauer
       - Angriff
       - Schaden
+      - status
+    columnSize:
+      file.name: 200
+      note.Reichweite: 100
+      note.Komponenten: 100
+      note.Wirkungsdauer: 150
+      note.Angriff: 75
+      note.Schaden: 150
   - type: table
     name: Magierzauber Grad 8
     filters:
@@ -129,6 +192,14 @@ views:
       - Wirkungsdauer
       - Angriff
       - Schaden
+      - status
+    columnSize:
+      file.name: 200
+      note.Reichweite: 100
+      note.Komponenten: 100
+      note.Wirkungsdauer: 150
+      note.Angriff: 75
+      note.Schaden: 150
   - type: table
     name: Magierzauber Grad 9
     filters:
@@ -143,3 +214,11 @@ views:
       - Wirkungsdauer
       - Angriff
       - Schaden
+      - status
+    columnSize:
+      file.name: 200
+      note.Reichweite: 100
+      note.Komponenten: 100
+      note.Wirkungsdauer: 150
+      note.Angriff: 75
+      note.Schaden: 150

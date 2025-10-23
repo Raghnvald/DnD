@@ -94,7 +94,7 @@ Strahd tritt den Charakteren in der Kapelle gegenüber (Bereich K15).
 - Als Mutprobe soll einer der beiden Brüder den Wagen schütteln, wodurch der Tiger rasend vor Wut wird und aus seinem Käfig alle auch dem Wagen ausbricht. 
 - _Optional_ schickt der Bürgermeister Waschen aus, den Tiger zu fangen. Wenn [[Izek-Strasni|Izek Strasni]] noch lebt zieht er mit 6 Wachen los.
 - Sollte der Bürgermeister Untersuchungen veranlassen, knicken die Araseks ein und erwähnen, das der Tiger zu [[Rictavio]] gehört.
-- Sollte [[../../05 - Wikipedia/Bestiarium/Humanoide/Rictavio|Rictavio]] die Charaktere für fähig halten, bittet er sie für Ablenkung zu sorgen, damit er zu einem Turm im Westen flüchten kann.
+- Sollte [[Rictavio|Rictavio]] die Charaktere für fähig halten, bittet er sie für Ablenkung zu sorgen, damit er zu einem Turm im Westen flüchten kann.
 	- Dort kann die Gruppe ihn gerne aufsuchen
 
 ## Hinweise für das Gasthaus
@@ -114,7 +114,7 @@ Strahd tritt den Charakteren in der Kapelle gegenüber (Bereich K15).
 # Kapitel 7 - Argynvostholt
 - Argynvostholt ist ca. 18km von Vallaki entfernt, wenn man dem Weg folgt.
 - in der Feste kann die Gruppe mindestens einen Verbündeten erlangen - Sir Godfrey
-- mit etwas Glück treffen sie dort auf [[../../05 - Wikipedia/Bestiarium/Humanoide/Esmeralda d'Avenir]], welche sie auf die Fährte von Van Richten bringt
+- mit etwas Glück treffen sie dort auf [[Esmeralda d'Avenir]], welche sie auf die Fährte von Van Richten bringt
 
 # Kapitel 8 - Kresk
 
@@ -139,22 +139,22 @@ Strahd tritt den Charakteren in der Kapelle gegenüber (Bereich K15).
 	- Bei Misslingen 1 Stufe [[../../03 - Quellen/Quellbücher/01. Grundregelwerk 2014/Anhang PH-A#Erschöpfung|Erschöpfung]]
 
 ## Gegner
-- [Arcanaloth](../../05%20-%20Wikipedia/Bestiarium/Unholde/Arcanaloth.md)
+- [Arcanaloth](Arcanaloth.md)
 - [Barovianische Hexe](Barovianische%20Hexe.md)
-- [Berserker](../../05%20-%20Wikipedia/Bestiarium/Humanoide/Berserker.md)
-- [Flammenschädel](../../05%20-%20Wikipedia/Bestiarium/Untote/Flammenschädel.md)
-- [Gladiator](../../05%20-%20Wikipedia/Bestiarium/Humanoide/Gladiator.md)
-- [Grul](../../05%20-%20Wikipedia/Bestiarium/Untote/Grul.md)
-- [Lich](../../05%20-%20Wikipedia/Bestiarium/Untote/Lich.md)
-- [Magier](../../05%20-%20Wikipedia/Bestiarium/Humanoide/Magus.md)
-- [Nothic](../../05%20-%20Wikipedia/Bestiarium/Aberrationen/Nothic.md)
-- [Quasit](../../05%20-%20Wikipedia/Bestiarium/Unholde/Quasit.md)
+- [Berserker](Berserker.md)
+- [Flammenschädel](Flammenschädel.md)
+- [Gladiator](D&D/05%20-%20Wikipedia/Bestiarium/G-H/Gladiator.md)
+- [Grul](Grul.md)
+- [Lich](Lich.md)
+- [Magier](Magus.md)
+- [Nothic](Nothic.md)
+- [Quasit](Quasit.md)
 - [Rahadin](../00.%20NPCs/Rahadin.md)
-- [Schreckgespenst](../../05%20-%20Wikipedia/Bestiarium/Untote/Schreckgespenst.md)
+- [Schreckgespenst](Schreckgespenst.md)
 - [Schreckenswolf](Schreckenswolf.md)
 - [Todesslaad](Slaad-Tod.md)
-- [(Bern-)Steingolem](../../05%20-%20Wikipedia/Bestiarium/Konstrukte/Steingolem.md)
-- [Vampirbrut](../../05%20-%20Wikipedia/Bestiarium/Untote/Vampirbrut.md)
+- [(Bern-)Steingolem](Steingolem.md)
+- [Vampirbrut](Vampirbrut.md)
 
 # Kapitel 14 - Weilandhügel
 

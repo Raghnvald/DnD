@@ -16,6 +16,6 @@ aliases: ["Ring of Jumping"]
 - **Cost**: ⏤
 - **Weight**: ⏤
 
-While wearing this ring, you can cast the [Springen](../Zauber/Springen.md) spell from it as a bonus action at will, but can target only yourself when you do so.
+While wearing this ring, you can cast the [Springen](Springen.md) spell from it as a bonus action at will, but can target only yourself when you do so.
 
 *Source: SRD / Basic Rules*

@@ -15,6 +15,6 @@ aliases: ["Boots of Levitation"]
 - **Kosten**: 4.000 Goldmünzen
 - **Gewicht**: ⏤
 
-Wenn du diese Stiefel trägst, kannst du den Zauber [Schweben](../Zauber/Schweben.md) als Aktion beliebig oft auf dich selbst wirken.
+Wenn du diese Stiefel trägst, kannst du den Zauber [Schweben](Schweben.md) als Aktion beliebig oft auf dich selbst wirken.
 
 *Quelle: SRD / Grundregelwerk*

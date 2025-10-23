@@ -37,11 +37,11 @@ The cube loses charges when the barrier is targeted by certain spells or comes i
 
 | Spell or item | Charges Lost |
 |---------------|--------------|
-| [Disintegrate](../Zauber/Auflösung.md) | `1d12` |
+| [Disintegrate](Auflösung.md) | `1d12` |
 | [Horn of blasting](Horn%20der%20Sprengung.md) | `1d10` |
-| [Passwall](../Zauber/Wände-passieren.md) | `1d6` |
-| [Prismatic spray](../Zauber/Regenbogenspiel.md) | `1d20` |
-| [Wall of fire](../Zauber/Feuerwand.md) | `1d4` |
+| [Passwall](Wände-passieren.md) | `1d6` |
+| [Prismatic spray](Regenbogenspiel.md) | `1d20` |
+| [Wall of fire](Feuerwand.md) | `1d4` |
 ^spell-or-item-charges-lost
 
 *Source: SRD / Basic Rules*

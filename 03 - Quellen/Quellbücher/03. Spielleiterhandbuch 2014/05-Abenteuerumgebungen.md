@@ -63,7 +63,7 @@ Du kannst die Tabelle „Lage des Gewölbes verwenden, um den Standort des Gewö
 | 17  | In einem Vulkan                                                                        |
 | 18  | Auf dem Rücken eines gigantischen Lebewesens                                           |
 | 19  | Versiegelt in einer magischen Kraftkuppel                                              |
-| 20  | In einem [Mordenkainens Herrliches Herrenhaus](../../../05%20-%20Wikipedia/Zauber/Mordenkainens-Herrliches-Herrenhaus.md) | 
+| 20  | In einem [Mordenkainens Herrliches Herrenhaus](Mordenkainens-Herrliches-Herrenhaus.md) | 
 ^exotic-location
 
 #### Erschaffer des Gewölbes 

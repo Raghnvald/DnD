@@ -22,7 +22,7 @@ The sphere is stationary until someone controls it. If you are within 60 feet of
 
 If you attempt to control a sphere that is under another creature's control, you make an Intelligence ([Arcana](rules/skills.md#Arcana)) check contested by the other creature's Intelligence ([Arcana](rules/skills.md#Arcana)) check. The winner of the contest gains control of the sphere and can levitate it as normal.
 
-If the sphere comes into contact with a planar portal, such as that created by the [Tor](../Zauber/Tor.md) spell, or an extradimensional space, such as that within a [portable hole](Tragbares%20Loch.md), the DM determines randomly what happens, using the following table.
+If the sphere comes into contact with a planar portal, such as that created by the [Tor](Tor.md) spell, or an extradimensional space, such as that within a [portable hole](Tragbares%20Loch.md), the DM determines randomly what happens, using the following table.
 
 | dice: d100 | Result |
 |------------|--------|

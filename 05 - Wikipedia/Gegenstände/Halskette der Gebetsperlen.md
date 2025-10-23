@@ -20,12 +20,12 @@ Sechs Arten von Zauberperlen existieren. Der SL entscheidet den Typ jeder Perle 
 
 | dice: d20 | Bead of... | Spell |
 |-----------|------------|-------|
-| 1-6 | Blessing | [Bless](../Zauber/Segnen.md) |
-| 7-12 | Curing | [Cure wounds](../Zauber/Wunden%20heilen.md) (2nd level) or [lesser restoration](Schwache%20Genesung.md) |
+| 1-6 | Blessing | [Bless](Segnen.md) |
+| 7-12 | Curing | [Cure wounds](Wunden%20heilen.md) (2nd level) or [lesser restoration](Schwache%20Genesung.md) |
 | 13-16 | Favor | [Greater restoration](Vollständige%20Genesung.md) |
-| 17-18 | Smiting | [Branding smite](../Zauber/Brandmarkendes-Niederstrecken.md) |
-| 19 | Summons | [Planar ally](../Zauber/Verbündeter-aus-den-Ebenen.md) |
-| 20 | Wind walking | [Wind walk](../Zauber/Wandwandeln.md) |
+| 17-18 | Smiting | [Branding smite](Brandmarkendes-Niederstrecken.md) |
+| 19 | Summons | [Planar ally](Verbündeter-aus-den-Ebenen.md) |
+| 20 | Wind walking | [Wind walk](Wandwandeln.md) |
 ^bead-of-spell
 
 *Source: SRD / Basic Rules*

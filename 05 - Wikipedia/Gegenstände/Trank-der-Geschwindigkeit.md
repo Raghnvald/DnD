@@ -14,6 +14,6 @@ aliases: ["Potion of Speed"]
 - **Cost**: ⏤
 - **Weight**: ⏤
 
-When you drink this potion, you gain the effect of the [Hast](../Zauber/Hast.md) spell for 1 minute (no [concentration](rules/conditions.md#concentration) required). The potion's yellow fluid is streaked with black and swirls on its own.
+When you drink this potion, you gain the effect of the [Hast](Hast.md) spell for 1 minute (no [concentration](rules/conditions.md#concentration) required). The potion's yellow fluid is streaked with black and swirls on its own.
 
 *Source: SRD / Basic Rules*

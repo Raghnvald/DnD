@@ -14,6 +14,6 @@ aliases: ["Potion of Heroism"]
 - **Cost**: ⏤
 - **Weight**: ⏤
 
-For 1 hour after drinking it, you gain 10 temporary hit points that last for 1 hour. For the same duration, you are under the effect of the [Segnen](../Zauber/Segnen.md) spell (no [concentration](rules/conditions.md#concentration) required). This blue potion bubbles and steams as if boiling.
+For 1 hour after drinking it, you gain 10 temporary hit points that last for 1 hour. For the same duration, you are under the effect of the [Segnen](Segnen.md) spell (no [concentration](rules/conditions.md#concentration) required). This blue potion bubbles and steams as if boiling.
 
 *Source: SRD / Basic Rules*
