@@ -70,38 +70,27 @@
 
 ---
 
-- DnD/Bestiarium/Vorkommen/Arktis
-- DnD/Bestiarium/Vorkommen/Berge
-- DnD/Bestiarium/Vorkommen/Grasland
-- DnD/Bestiarium/Vorkommen/Hügel
-- DnD/Bestiarium/Vorkommen/Küste
-- DnD/Bestiarium/Vorkommen/Sümpfe
-- DnD/Bestiarium/Vorkommen/Unterreich
-- DnD/Bestiarium/Vorkommen/Wälder
-- DnD/Bestiarium/Vorkommen/Wüste
-
-Arktis, Berge, Grasland, Hügel, Küste, Sümpfe, Unterreich, Wälder, Wüste
+- Habitat/Arktis
+- Habitat/Berge
+- Habitat/Grasland
+- Habitat/Hügel
+- Habitat/Küste
+- Habitat/Sümpfe
+- Habitat/Unterreich
+- Habitat/Wälder
+- Habitat/Wüste
 
 ---
 
 - Feuer = <font color="red">Red</font>
-    
 - Kälte = <font color="blue">Blue</font>
-    
 - Blitz = <font color="yellow">Yellow</font>
-    
 - Schall = <font color="orange">Orange</font>
-    
 - Säure = <font color="green">Green</font>
-    
 - Gift = <font color="lime">Lime</font>
-    
 - Energie = <font color="purple">Purple</font>
-    
 - Physisch = <font color="pink">Pink</font>
-    
 - Gleißend = <font color="white">White</font>
-    
 - Nekrotisch = <font color="black">Black</font>
 
 ---

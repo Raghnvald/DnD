@@ -842,7 +842,7 @@ Wenn sein Träger sich weigert, den Forderungen des Gegenstands nachzukommen, ka
 | 11    | [Stirnreif des Sprengens](05%20-%20Wikipedia/Gegenstände/Stirnreif-des-Sprengens.md)                                                                                                                  |
 | 48-49 | [Trank der Tierfreundschaft](05%20-%20Wikipedia/Gegenstände/Trank-der-Tierfreundschaft.md)                                                                                                            |
 | 50-51 | [Trank des Feueratems](Gegenstände/Trank-des-Feueratems.md)                                                                                                                        |
-| 56-57 | [Trank des Gifts](05%20-%20Wikipedia/Gegenstände/Trank-des-Gifts.md)                                                                                                                                  |
+| 56-57 | [Trank des Gifts](Trank%20des%20Gifts.md)                                                                                                                                  |
 | 52-53 | [Trank der Hügelriesenstärke](Trank%20der%20Hügelriesenstärke.md)                                                                                                          |
 | 54-55 | [Trank des Wachstums](05%20-%20Wikipedia/Gegenstände/Trank-des-Wachstums.md)                                                                                                                          |
 | 60-61 | [Trank des Wasseratmens](Gegenstände/Trank-des-Wasseratmens.md)                                                                                                                    |
