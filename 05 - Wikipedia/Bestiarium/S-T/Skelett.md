@@ -1,20 +1,21 @@
 ---
 cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
-Bezeichnung: 
+Bezeichnung:
 Typ: Untoter
-Größe: 
-HG: 
-status:
+Größe: Mittelgroß
+HG: 1/4
+status: WIP
 order:
 parent:
-image: 
+image:
 tags:
-- Quelle/5e/Monster_Manual
-- Habitat/Stadt
-- Größe/Mittelgroß
-- Typ/Untote
-aliases: ["Skeleton"]
+  - Quelle/5e/Monster_Manual
+  - Habitat/Stadt
+  - Größe/Mittelgroß
+  - Typ/Untote
+aliases:
+  - Skeleton
 ---
 ```statblock
 statblock: true

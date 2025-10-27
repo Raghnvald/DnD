@@ -1,22 +1,23 @@
 ---
 cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
-Bezeichnung: 
+Bezeichnung:
 Typ: Untoter
-Größe: 
-HG: 
-status:
+Größe: Winzig
+HG:
+status: WIP
 order:
 parent:
-image: 
+image:
 tags:
-- Quelle/5e/Monster_Manual
-- Habitat/Wald
-- Habitat/Sumpf
-- Habitat/Stadt
-- Größe/Winzig
-- Typ/Untote
-aliases: ["Will-o'-Wisp"]
+  - Quelle/5e/Monster_Manual
+  - Habitat/Wald
+  - Habitat/Sumpf
+  - Habitat/Stadt
+  - Größe/Winzig
+  - Typ/Untote
+aliases:
+  - Will-o'-Wisp
 ---
 # Will-o'-Wisp
 *Source: SRD / Basic Rules*  

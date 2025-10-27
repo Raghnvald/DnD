@@ -1,17 +1,17 @@
 ---
 cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
-Bezeichnung: 
+Bezeichnung:
 Typ: Untoter
-Größe: 
-HG: 
-status:
+Größe: Gigantisch
+HG: 10
+status: WIP
 order:
 parent:
-image: 
+image:
 tags:
-- Quelle/5e/Monster_Manual
-- Typ/Untote
+  - Quelle/5e/Monster_Manual
+  - Typ/Untote
 aliases:
-- 
+  - 
 ---

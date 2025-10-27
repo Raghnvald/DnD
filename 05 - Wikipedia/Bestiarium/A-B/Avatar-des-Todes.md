@@ -4,8 +4,8 @@ prefer-view: edit-source read
 Bezeichnung: Avatar-des-Todes
 Typ: Untoter
 Größe: Mittelgroß
-HG: 
-status:
+HG: 0
+status: WIP
 order:
 parent:
 image: 

@@ -5,17 +5,17 @@ Bezeichnung: Wladimir Horngaard
 Typ: Untoter
 Größe: Mittelgroß
 HG: 7
-status:
+status: WIP
 order:
 parent:
-image: 
+image:
 tags:
-- Quelle/5e/Curse_of_Strahd
-- Typ/Untote/Gestaltwandler
-- Größe/Mittelgroß
-- Habitat/Stadt
+  - Quelle/5e/Curse_of_Strahd
+  - Typ/Untote/Gestaltwandler
+  - Größe/Mittelgroß
+  - Habitat/Stadt
 aliases:
-- Wladimir Horngaard
+  - Wladimir Horngaard
 ---
 # Wladimir Horngaard
 Wladimir Horngaard trat dem Orden des Silberdrachen in jungen Jahren bei und verdiente sich schnell die Freundschaft seines Gründers, des Silberdrachen Argynvost. Als er zum Ritter des Ordens geschlagen wurde, reiste er in ferne Länder um gegen die Mächte des Bösen Krieg zu führen. Der Drache blieb zu Hause und brachte in Gestalt eines menschlichen Adligen namens Fürst Argynvost neue Initianden in den Orden.

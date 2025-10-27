@@ -1,19 +1,20 @@
 ---
 cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
-Bezeichnung: 
+Bezeichnung:
 Typ: Untoter
-Größe: 
-HG: 
-status:
+Größe: Winzig
+HG:
+status: WIP
 order:
 parent:
-image: 
+image:
 tags:
-- Quelle/5e/Monster_Manual
-- Größe/Mittelgroß
-- Typ/Untote
-aliases: ["Lich"]
+  - Quelle/5e/Monster_Manual
+  - Größe/Mittelgroß
+  - Typ/Untote
+aliases:
+  - Lich
 ---
 # Lich
 *Source: SRD / Basic Rules*  

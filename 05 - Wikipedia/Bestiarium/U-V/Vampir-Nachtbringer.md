@@ -3,8 +3,8 @@ cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
 Bezeichnung:
 Typ: Untoter
-Größe: Mittelgroß
-HG:
+Größe: M oder S
+HG: 8
 status: WIP
 order:
 parent:
@@ -13,5 +13,5 @@ tags:
   - Quelle/5e/Monster_Manual
   - Typ/Untote
 aliases:
-  - Deathknight
+  - Vampire Nightbringer
 ---

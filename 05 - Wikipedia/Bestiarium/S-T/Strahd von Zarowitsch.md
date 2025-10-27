@@ -5,7 +5,7 @@ Bezeichnung: Strahd von Zarowitsch
 Typ: Untoter
 Größe: Mittelgroß
 HG: 15
-status:
+status: completed
 order:
 parent:
 image: token/count_strahd_von_zarovich_token.webp
@@ -71,7 +71,7 @@ $\quad$ Bei Initiative 20 (er verliert Initiative-Gleichstände) kann Strahd ein
 
 ```statblock
 statblock: true
-name: Strahd von Zarowitsch, Original
+name: Strahd von Zarowitsch
 image: [[count_strahd_von_zarovich_token.webp]]
 source: Fluch des Strahd
 size: Mittelgroß
@@ -166,6 +166,7 @@ legendary_actions:
 name: Strahd, der Magier
 layout: Basic 5e German Layout
 image: [[count_strahd_von_zarovich_token.webp]]
+source: DragnaCarta's Curse of Strahd Reloaded
 size: Mittelgroß
 type: Untoter (Gestaltwandler)
 alignment: rechtschaffen böse
@@ -247,6 +248,7 @@ lair_actions:
 name: Strahd, der Soldat
 layout: Basic 5e German Layout
 image: [[count_strahd_von_zarovich_token.webp]]
+source: DragnaCarta's Curse of Strahd Reloaded
 size: Mittelgroß
 type: Untoter (Gestaltwandler)
 alignment: rechtschaffen böse
@@ -325,6 +327,7 @@ lair_actions:
 name: Strahd, der Vampir
 layout: Basic 5e German Layout
 image: [[count_strahd_von_zarovich_token.webp]]
+source: DragnaCarta's Curse of Strahd Reloaded
 size: Mittelgroß
 type: Untoter (Gestaltwandler)
 alignment: rechtschaffen böse

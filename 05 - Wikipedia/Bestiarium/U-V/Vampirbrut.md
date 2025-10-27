@@ -1,24 +1,87 @@
 ---
 cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
-Bezeichnung: 
+Bezeichnung:
 Typ: Untoter
-Größe: 
-HG: 
-status:
+Größe: Mittelgroß
+HG: 5
+status: WIP
 order:
 parent:
-image: 
+image:
 tags:
-- Quelle/5e/Monster_Manual
-- Habitat/Unterreich
-- Habitat/Stadt
-- Größe/Mittelgroß
-- Typ/Untote
-aliases: ["Vampire Spawn"]
+  - Quelle/5e/Monster_Manual
+  - Habitat/Unterreich
+  - Habitat/Stadt
+  - Größe/Mittelgroß
+  - Typ/Untote
+aliases:
+  - Vampire Spawn
 ---
-# Vampire Spawn
-*Source: SRD / Basic Rules*  
+# Vampirbrut (2014)
+
+```statblock
+layout: Basic 5e German Layout 2024
+image: 
+name: Vampirbrut
+size: Mittelgroß
+type: Untoter
+alignment: Neutral Böse
+ac: 15 (natürliche Rüstung)
+hp: 82
+hit_dice: 11d8 + 33
+speed: 9m
+stats: [16, 16, 16, 11, 10, 12]
+saves:
+  - STR:
+  - GES: 6
+  - KON:
+  - INT:
+  - WEI: 3
+  - CHA:
+skillsaves:
+  - Akrobatik:
+  - Arkane-Kunde:
+  - Athletik:
+  - Auftreten:
+  - Einschüchtern:
+  - Fingerfertigkeit:
+  - Geschichte:
+  - Heilkunde:
+  - Heimlichkeit: 6
+  - Mit-Tieren-umgehen:
+  - Motiv-erkennen:
+  - Nachforschungen:
+  - Naturkunde:
+  - Religion:
+  - Täuschen:
+  - Überlebenskunst:
+  - Überzeugen:
+  - Wahrnehmung: 3
+damage_vulnerabilities: 
+damage_resistances: Nekrotisch, Hieb-, Stich- und Wuchtschaden von nicht-magischen Angriffen
+damage_immunities: 
+condition_immunities: 
+senses: Dunkelsicht 18 m., passive Wahrnehmung 13
+languages: die Sprachen, die sie im Leben kannte
+cr: 5
+environment: Stadt, Unterreich
+traits:
+  - name: Regeneration.
+    desc: "Die Vampirbrut erhält zu Beginn seines Zugs 10 Trefferpunkte zurück, wenn sie mindestens 1 Trefferpunkt besitzt und sich nicht im Sonnenlicht oder in fließendem Wasser befindet. Wenn die Vampirbrut gleißenden Schaden oder Schaden durch Weihwasser erleidet, funktioniert dieses Merkmal zu Beginn des nächsten Zuges nicht. "
+  - name: Spinnenklettern.
+    desc: Die Vampirbrut kann an schwierigen Oberflächen klettern, auch kopfüber an der Decke, ohne Attributswürfe ablegen zu müssen.
+  - name: Vampirschwächen.
+    desc: "Die Vampirbrut hat die folgenden Nachteile: <br> _Verbot_ Die Vampirbrut kann keinen Wohnsitz betreten, ohne eine Einladung von einem der Bewohner erhalten zu haben. <br> _Verletzt durch fließendes Wasser._ Die Vampirbrut erleidet 20 Säureschaden, wenn sie ihren Zug in fließendem Wasser beendet. <br> _Pflock ins Herz._ Die Vampirbrut wird zerstört, wenn eine Stichwaffe aus Holz in ihr Herz getrieben wird, solange sie sich kampfunfähig in ihrer Ruhestätte befindet. <br> _Hyperempfindlich gegenüber Sonnenlicht._ Die Vampirbrut erleidet 20 gleißenden Schaden, wenn sie ihren Zug im Sonnenlicht beginnt. Solange sie sich im Sonnenlicht befindet, erleidet sie ei nen Nachteil auf Angriffswürfe und Attributswürfe."
+actions:
+  - name: Mehrfachangriff.
+    desc: "Die Vampirbrut führt zwei Angriffe durch, von denen nur einer ein Biss-Angriff sein darf."
+  - name: Klauen.
+    desc: "_Nahkampf-Waffenangriff:_ +6 zum Treffen, Reichweite 1,5 m, eine Kreatur. _Treffer:_ 8 (`2d4 + 3`) Hiebschaden. Anstatt Schaden zu verursachen, kann die Brut das Ziel packen (SG zum Entkommen 13). "
+  - name: Boss
+    desc: "_Nahkampf-Waffenangriff:_ +6 zum Treffen, Reichweite 1,5 m, eine bereitwillige Kreatur oder eine Kreatur, die die Vampirbrut gepackt hat, die kampfunfähig oder festgesetzt ist. _Treffer:_ 6 (`1d6 + 3`) Stichschaden plus 7 (`2d6`) nekrotischer Schaden. Die maximalen Trefferpunkte des Ziels werden um den nekrotischen Schaden verringert, und die Brut erhält die gleiche Menge an Trefferpunkten zurück. Diese Verringerung hält an, bis das Ziel eine lange Rast abschließt. Das Ziel stirbt, wenn dieser Effekt seine maximalen Trefferpunkte aufO reduziert."
+```
+
 
 > [!statblock] Vampire Spawn
 > ![](compendium/bestiary/undead/token/vampire-spawn.png#token)

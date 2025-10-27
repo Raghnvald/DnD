@@ -3,9 +3,9 @@ cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
 Bezeichnung: 
 Typ: Untoter
-Größe: 
-HG: 
-status:
+Größe: Mittelgroß
+HG: 2
+status: WIP
 order:
 parent:
 image: 

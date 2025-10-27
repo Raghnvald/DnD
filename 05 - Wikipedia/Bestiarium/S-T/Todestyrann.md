@@ -3,8 +3,8 @@ cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
 Bezeichnung:
 Typ: Untoter
-Größe: Mittelgroß
-HG:
+Größe: Groß
+HG: 14
 status: WIP
 order:
 parent:
@@ -13,5 +13,5 @@ tags:
   - Quelle/5e/Monster_Manual
   - Typ/Untote
 aliases:
-  - Deathknight
+  - Death Tyrant
 ---

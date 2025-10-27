@@ -145,3 +145,31 @@ party: Default
 creatures:
   - 1: Young blue Dragon
 ```
+
+
+### Schaden pro Runde
+1d4: 2,5
+1d6: 3,5
+1d8: 4,5
+1d10: 5,5
+1d12: 6,5
+1d20: 10,5
+
+Beispiel:
+1d6 = 3,5
+2d6 = 7
+2d6 + 3 = 10
+
+Rechnung:
+(1+6)/2 = 3.5
+2 x ((1+6)/2) = 2 x 3,5 = 7
+2 x ((1+6)/2) = 2 x 3,5 = 7 + 3 = 10
+
+### Trefferchancen
+(1 - ( (RK - 1 - Treffermodifikator) / 20) )
+
+Vorteil:
+(1 - ( (RK - 1 - Treffermodifikator) / 20 )^2 ) 
+
+Nachteil:
+(1 - ( (RK - 1 - Treffermodifikator) / 20) )^2

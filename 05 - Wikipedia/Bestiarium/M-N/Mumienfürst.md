@@ -1,20 +1,21 @@
 ---
 cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
-Bezeichnung: 
+Bezeichnung:
 Typ: Untoter
-Größe: 
-HG: 
-status:
+Größe: M oder S
+HG: 15
+status: WIP
 order:
 parent:
-image: 
+image:
 tags:
-- Quelle/5e/Monster_Manual
-- Habitat/Wüste
-- Größe/Mittelgroß
-- Typ/Untote
-aliases: ["Mummy Lord"]
+  - Quelle/5e/Monster_Manual
+  - Habitat/Wüste
+  - Größe/Mittelgroß
+  - Typ/Untote
+aliases:
+  - Mummy Lord
 ---
 # Mummy Lord
 *Source: SRD / Basic Rules*  

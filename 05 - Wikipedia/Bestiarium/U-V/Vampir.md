@@ -1,28 +1,28 @@
 ---
 cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
-Bezeichnung: 
+Bezeichnung:
 Typ: Untoter
-Größe: 
-HG: 
+Größe: Mittelgroß
+HG: 13
 status:
 order:
 parent:
-image: 
+image:
 tags:
-- DnD/Kompendium/Quelle/5e/MM 2014
-- DnD/Kompendium/Quelle/5e/MM 2024
-- Habitat/Stadt
-- Habitat/Unterreich
-- Größe/Klein
-- Größe/Mittelgroß
-- Typ/Untote
+  - DnD/Kompendium/Quelle/5e/MM 2014
+  - DnD/Kompendium/Quelle/5e/MM 2024
+  - Habitat/Stadt
+  - Habitat/Unterreich
+  - Größe/Klein
+  - Größe/Mittelgroß
+  - Typ/Untote
 aliases:
-- Vampire
-- Vampire Familiar
-- Vampire Nightbringer
-- Vampire Spawn
-- Vampire Umbral Lord
+  - Vampire
+  - Vampire Familiar
+  - Vampire Nightbringer
+  - Vampire Spawn
+  - Vampire Umbral Lord
 ---
 # Vampire (2014)
 *Source: SRD / Basic Rules*  

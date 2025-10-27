@@ -1,21 +1,21 @@
 ---
 cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
-Bezeichnung: 
+Bezeichnung:
 Typ: Untoter
-Größe: 
-HG: 
-status:
+Größe: Mittelgroß
+HG: 3
+status: WIP
 order:
 parent:
-image: 
+image:
 tags:
-- Quelle/5e/Curse_of_Strahd
-- Habitat/Stadt
-- Größe/Mittelgroß
-- Typ/Untote
+  - Quelle/5e/Curse_of_Strahd
+  - Habitat/Stadt
+  - Größe/Mittelgroß
+  - Typ/Untote
 aliases:
-- NAME
+  - NAME
 ---
 # Phantomkrieger
 Ein Phantomkrieger ist der geisterhafte Überrest eines starrsinnigen Soldaten oder Ritters, der auf dem Schlachtfeld fiel oder in Ausübung seiner geschworenen Pflicht starb. Er erscheint wie eine durchscheinende Version seines lebenden Selbst.

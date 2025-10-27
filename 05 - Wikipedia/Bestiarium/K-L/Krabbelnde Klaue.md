@@ -5,17 +5,17 @@ Bezeichnung: Krabbelnde Klaue
 Typ: Untoter
 Größe: Winzig
 HG: 0
-status:
+status: completed
 order:
 parent:
-image: 
+image:
 tags:
-- Quelle/5e/Monster_Manual
-- Typ/Untote
-- Größe/Winzig
-- Habitat/Unterreich
+  - Quelle/5e/Monster_Manual
+  - Typ/Untote
+  - Größe/Winzig
+  - Habitat/Unterreich
 aliases:
-- Crawling Claw
+  - Crawling Claw
 ---
 # Krabbelnde Klaue (2014)
 Krabbelnde Klauen sind die abgetrennten Hände von Mördern, die mit dunkler Magie belebt worden sind, sodass sie weiter morden können. Dunkle Magier und Paktierer verwenden Krabbelnde Klauen als zusätzliche Hände in ihren Laboren

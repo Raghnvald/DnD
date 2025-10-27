@@ -10,8 +10,8 @@ order:
 parent:
 image: 
 tags:
-- Quelle/5e/Monster_Manual
+- Quelle/5e/Mordenkainen
 - Typ/Untote
 aliases:
-- 
+- Bodak
 ---

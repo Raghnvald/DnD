@@ -1,20 +1,21 @@
 ---
 cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
-Bezeichnung: 
+Bezeichnung:
 Typ: Untoter
-Größe: 
-HG: 
-status:
+Größe: Groß
+HG: 2
+status: WIP
 order:
 parent:
-image: 
+image:
 tags:
-- Quelle/5e/Monster_Manual
-- Habitat/Unterreich
-- Größe/Groß
-- Typ/Untote
-aliases: ["Minotaur Skeleton"]
+  - Quelle/5e/Monster_Manual
+  - Habitat/Unterreich
+  - Größe/Groß
+  - Typ/Untote
+aliases:
+  - Minotaur Skeleton
 ---
 # Minotaur Skeleton
 *Source: SRD / Basic Rules*  

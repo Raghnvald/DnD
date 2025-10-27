@@ -13,5 +13,5 @@ tags:
   - Quelle/5e/Monster_Manual
   - Typ/Untote
 aliases:
-  - Deathknight
+  - Flaming Skeleton
 ---

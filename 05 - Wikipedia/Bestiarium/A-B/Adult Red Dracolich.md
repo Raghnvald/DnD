@@ -13,5 +13,5 @@ tags:
 - Quelle/5e/Mordenkainen
 - Typ/Untote
 aliases:
-- Allip
+- Adult Red Dracolich
 ---

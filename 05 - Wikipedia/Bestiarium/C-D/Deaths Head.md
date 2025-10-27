@@ -10,8 +10,8 @@ order:
 parent:
 image: 
 tags:
-- Quelle/5e/Monster_Manual
+- Quelle/5e/Van_Richten
 - Typ/Untote
 aliases:
-- 
+- Death's Head
 ---

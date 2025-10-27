@@ -1,17 +1,17 @@
 ---
 cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
-Bezeichnung:
+Bezeichnung: 
 Typ: Untoter
-Größe: Mittelgroß
-HG:
+Größe: Riesig
+HG: 6
 status: WIP
 order:
 parent:
-image:
+image: 
 tags:
-  - Quelle/5e/Monster_Manual
-  - Typ/Untote
+- Quelle/5e/Van_Richtens_Guide_to_Ravenloft
+- Typ/Untote
 aliases:
-  - Deathknight
+- Zombie Clot
 ---

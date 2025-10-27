@@ -10,8 +10,8 @@ order:
 parent:
 image: 
 tags:
-- Quelle/5e/Mordenkainen
+- Quelle/5e/Van_Richten
 - Typ/Untote
 aliases:
-- Allip
+- Boneless
 ---

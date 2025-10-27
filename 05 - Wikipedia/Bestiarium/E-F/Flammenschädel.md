@@ -1,21 +1,21 @@
 ---
 cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
-Bezeichnung: 
+Bezeichnung:
 Typ: Untoter
-Größe: 
-HG: 
-status:
+Größe: Winzig
+HG:
+status: WIP
 order:
 parent:
-image: 
+image:
 tags:
-- Quelle/5e/Monster_Manual
-- Typ/Untote
-- Größe/Winzig
-- Habitat/Unterreich
+  - Quelle/5e/Monster_Manual
+  - Typ/Untote
+  - Größe/Winzig
+  - Habitat/Unterreich
 aliases:
-- Flameskull
+  - Flameskull
 ---
 # Flammenschädel (2014)
 

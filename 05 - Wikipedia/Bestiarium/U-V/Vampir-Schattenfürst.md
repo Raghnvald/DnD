@@ -4,7 +4,7 @@ prefer-view: edit-source read
 Bezeichnung:
 Typ: Untoter
 Größe: Mittelgroß
-HG:
+HG: 15
 status: WIP
 order:
 parent:
@@ -13,5 +13,5 @@ tags:
   - Quelle/5e/Monster_Manual
   - Typ/Untote
 aliases:
-  - Deathknight
+  - Vampire Umbral Lord
 ---

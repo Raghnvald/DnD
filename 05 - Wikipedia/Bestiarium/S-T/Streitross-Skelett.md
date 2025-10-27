@@ -1,19 +1,20 @@
 ---
 cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
-Bezeichnung: 
+Bezeichnung:
 Typ: Untoter
-Größe: 
-HG: 
-status:
+Größe: Groß
+HG: 1/2
+status: WIP
 order:
 parent:
-image: 
+image:
 tags:
-- Quelle/5e/Monster_Manual
-- Größe/Groß
-- Typ/Untote
-aliases: ["Warhorse Skeleton"]
+  - Quelle/5e/Monster_Manual
+  - Größe/Groß
+  - Typ/Untote
+aliases:
+  - Warhorse Skeleton
 ---
 # Warhorse Skeleton
 *Source: SRD / Basic Rules*  

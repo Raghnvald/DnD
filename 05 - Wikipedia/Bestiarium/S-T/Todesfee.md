@@ -3,8 +3,8 @@ cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
 Bezeichnung: Krabbelnde Klaue
 Typ: Untoter
-Größe: Winzig
-HG: 0
+Größe: Mittelgroß
+HG: 4
 status:
 order:
 parent:

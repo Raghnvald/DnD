@@ -1,19 +1,20 @@
 ---
 cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
-Bezeichnung: 
+Bezeichnung:
 Typ: Untoter
-Größe: 
-HG: 
-status:
+Größe: Groß
+HG: 2
+status: WIP
 order:
 parent:
-image: 
+image:
 tags:
-- Quelle/5e/Monster_Manual
-- Größe/Groß
-- Typ/Untote
-aliases: ["Ogre Zombie"]
+  - Quelle/5e/Monster_Manual
+  - Größe/Groß
+  - Typ/Untote
+aliases:
+  - Ogre Zombie
 ---
 # Ogre Zombie
 *Source: SRD / Basic Rules*  
