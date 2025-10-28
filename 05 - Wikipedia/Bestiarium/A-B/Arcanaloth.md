@@ -5,6 +5,7 @@ Bezeichnung: Arcanaloth
 Typ: Unhold
 Größe: Mittelgroß
 HG: 12
+Habitat: Planar
 status: completed
 order:
 parent:

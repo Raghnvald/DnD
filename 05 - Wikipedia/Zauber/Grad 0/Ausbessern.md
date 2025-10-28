@@ -6,6 +6,8 @@ Komponenten: V, G, M
 Wirkungsdauer: Unmittelbar
 Angriff: nichts
 Schaden: Utility
+status:
+- completed
 tags:
 - Quelle/5e/Players_Handbook
 - Klasse/Barde
@@ -19,8 +21,6 @@ tags:
 - Zauber/Schule/Verwandlung
 aliases:
 - Mending
-status:
-- completed
 ---
 # Ausbessern
 _Zaubertrick der Verwandlung_

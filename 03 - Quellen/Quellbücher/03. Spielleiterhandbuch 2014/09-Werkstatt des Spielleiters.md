@@ -1,0 +1,81 @@
+---
+tags: [Quelle/5e/Dungeon_Masters_Guide]
+---
+# Kapitel 9: Werkstatt des Spielleiters
+
+## Attributsoptionen
+
+## Abenteueroptionen
+
+## Kampfoptionen
+
+## Ein Monster erschaffen
+
+## Einen Zauber erschaffen
+
+## Einen magischen Gegenstand erschaffen
+
+## Neue Charakteroptionen erschaffen
+
+
+
+
+
+Als Spielleiter bist du nicht durch die Regeln im _Spielerhandbuch_, die Richtlinien in diesen Regeln oder die Auswahl an Monstern im _Monsterhandbuch_ eingeschränkt. Du kannst deiner Fantasie freien Lauf lassen. Dieses Kapitel enthält optionale Regeln, mit denen du deine Kampagne anpassen kannst, sowie Richtlinien für die Erstellung von eigenem Material wie Monstern und magischen Gegenständen.
+
+Die Optionen in diesem Kapitel beziehen sich auf viele verschiedene Teile des Spiels. Einige von ihnen sind Varianten von Regeln, andere wiederum sind völlig neue Regeln. Jede Option repräsentiert ein anderes Genre, einen anderen Spielstil oder beides. Ihr solltet nicht mehr als ein oder zwei der Optionen auf einmal ausprobieren, damit ihr ihre Auswirkungen auf eure Kampagne genau einschätzen könnt, bevor ihr weitere Optionen hinzufügt.
+
+Bevor Sie eine neue Regel zu Ihrer Kampagne hinzufügen, stellen Sie sich zwei Fragen:
+
+- Wird die Regel das Spiel verbessern?
+- Wird sie meinen Spielern gefallen?
+
+Wenn du sicher bist, dass die Antwort auf beide Fragen „Ja“ lautet, hast du nichts zu verlieren, wenn du die Regel ausprobierst. Fordere deine Spieler auf, Feedback zu geben. Wenn die Regel oder das Spielelement nicht wie beabsichtigt funktioniert oder nicht viel zu eurem Spiel beiträgt, könnt ihr sie verfeinern oder sie weglassen. Egal, woher eine Regel kommt, eine Regel dient euch, nicht umgekehrt.
+
+Hüte dich davor, deinem Spiel etwas hinzuzufügen, das es einem Charakter erlaubt, sich auf mehr als einen Effekt gleichzeitig zu konzentrieren, mehr als eine Reaktion oder Bonusaktion pro Runde zu verwenden oder sich auf mehr als drei magische Gegenstände gleichzeitig einzustimmen. Regeln und Spielelemente, die die Regeln für Konzentration, Reaktionen, Bonusaktionen und die Einstimmung auf magische Gegenstände außer Kraft setzen, können das Spiel ernsthaft aus dem Gleichgewicht bringen oder übermäßig verkomplizieren.
+
+# Optionen für Fähigkeiten
+Die optionalen Regeln in diesem Abschnitt beziehen sich auf die Verwendung von Fähigkeitswerten.
+
+## Übungswürfel
+Diese optionale Regel ersetzt den Übungsbonus eines Charakters durch einen Übungswürfel, was dem Spiel mehr Zufälligkeit verleiht und die Übungen zu einem weniger zuverlässigen Indikator für die Kompetenz macht. Anstatt einen Übungsbonus zu einer Fähigkeitsprüfung, einem Angriffswurf oder einem Rettungswurf zu addieren, würfelt der Spieler des Charakters einen Würfel. Die Tabelle mit den Übungswürfeln zeigt, welche Würfel geworfen werden müssen, abhängig von der Stufe des Charakters.
+
+Immer wenn eine Eigenschaft, wie z.B. die Expertise des Schurken, einem Charakter die Möglichkeit gibt, seinen Übungsbonus zu verdoppeln, würfelt der Spieler den Übungswürfel des Charakters zweimal statt einmal.
+
+Diese Option ist für Spielercharaktere und Nicht-Spieler-Charaktere gedacht, die Stufen haben, im Gegensatz zu Monstern, die keine haben.
+
+| Stufe   | Übungsbonus | Übungswürfel |
+| ------- | ----------- | ------------ |
+| 1 - 4   | +2          | `1W4`        |
+| 5 - 8   | +3          | `1W6`        |
+| 9 - 12  | +4          | `1W8`        |
+| 13 - 16 | +5          | `1W10`       |
+| 17 - 20 | +6          | `1W12`       | 
+
+
+## Fertigkeits-Varianten
+Eine Fertigkeit legt die Umstände fest, unter denen ein Charakter seinen Fertigkeitsbonus zu einer Fähigkeitsprüfung hinzufügen kann. Fertigkeiten definieren diese Umstände, indem sie sich auf verschiedene Aspekte der sechs Fähigkeitswertungen beziehen. Zum Beispiel sind Akrobatik und Schleichen zwei verschiedene Aspekte von Geschicklichkeit, und ein Charakter kann sich auf einen oder beide spezialisieren.
+
+Du kannst auf Fertigkeiten verzichten und eine der folgenden Varianten verwenden. Wähle die Variante, die am besten zu deiner Kampagne passt.
+
+## Fertigkeitsproben-Übung
+Bei dieser Regelvariante haben die Charaktere keine Fertigkeitsprofile. Stattdessen hat jeder Charakter zwei Fähigkeiten: eine, die an die Klasse des Charakters gebunden ist, und eine, die an den Hintergrund des Charakters gebunden ist. Die Tabelle Fähigkeitsfähigkeiten nach Klassen schlägt eine Fähigkeit für jede Klasse vor, und du wählst aus, welche Fähigkeit an einen bestimmten Hintergrund gebunden ist. Ab der 1. Stufe addiert ein Charakter seinen Fähigkeits-Bonus zu jeder Fähigkeitsprüfung, die an die eine oder andere dieser beiden Fähigkeiten gebunden ist.
+
+| Klasse    | Fertigkeitsprobe                             |
+| --------- | -------------------------------------------- |
+| Barbarian | Strength, Dexterity, or Wisdom               |
+| Bard      | Any one                                      |
+| Cleric    | Intelligence, Wisdom, or Charisma            |
+| Druid     | Intelligence or Wisdom                       |
+| Fighter   | Strength, Dexterity, or Wisdom               |
+| Monk      | Strength, Dexterity, or Intelligence         |
+| Paladin   | Strength, Wisdom, or Charisma                |
+| Ranger    | Strength, Dexterity, or Wisdom               |
+| Rogue     | Dexterity, Intelligence, Wisdom, or Charisma |
+| Sorcerer  | Intelligence or Charisma                     |
+| Warlock   | Intelligence or Charisma                     |
+| Wizard    | Intelligence or Wisdom                       |
+ 
+Das Merkmal Expertise funktioniert unter dieser Regel anders als normal. Auf der 1. Stufe wählt ein Charakter mit dem Klassenmerkmal Expertise eine der Fähigkeiten aus, die er beherrscht, anstatt zwei Fertigkeiten zu wählen. Die Wahl einer Fähigkeit zählt als zwei der Kompetenzwahlen des Charakters. Wenn der Charakter eine zusätzliche Fertigkeit erlangen würde, wählt er stattdessen eine andere Fähigkeitsprobe, in der er eine Fertigkeit erlangen möchte.
+
+Diese Option entfernt Fertigkeiten aus dem Spiel und erlaubt keine große Unterscheidung zwischen den Charakteren. Zum Beispiel kann ein Charakter nicht wählen, ob er Überzeugung oder Einschüchterung bevorzugt; er oder sie ist in beiden gleich gut.

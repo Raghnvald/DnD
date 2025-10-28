@@ -7,16 +7,17 @@ Wirkungsdauer: 10 Tage
 Angriff: n/v
 Schaden: n/v
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Barde
-- Klasse/Hexenmeister
-- Klasse/Magier
-- Zauber/Original/Illusory_Script
-- Zauber/Grad/1
-- Zauber/Ritual
-- Zauber/Schule/Illusion
+  - Quelle/5e/Players_Handbook
+  - Klasse/Barde
+  - Klasse/Hexenmeister
+  - Klasse/Magier
+  - Zauber/Original/Illusory_Script
+  - Zauber/Grad/1
+  - Zauber/Ritual
+  - Zauber/Schule/Illusion
 aliases:
-- Illusory Script
+  - Illusory Script
+status: completed
 ---
 # Illusionsschrift
 _Illusion des 1. Grades (Ritual)_

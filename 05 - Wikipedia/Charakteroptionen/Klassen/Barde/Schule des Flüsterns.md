@@ -1,9 +1,6 @@
 ---
-tags:
-- Quelle/5e/Xanathars_Guide_to_Everything
-- Klasse/Barde
-aliases: 
-- College of Whispers
+tags: [Klasse/Barde, Quelle/5e/Xanathars_Guide_to_Everything]
+aliases: [College of Whispers]
 ---
 # Schule des Flüsterns
 _[[Barde]]_: Bardenschule

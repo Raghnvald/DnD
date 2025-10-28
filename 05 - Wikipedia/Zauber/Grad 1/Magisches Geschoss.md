@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Magier
-- Klasse/Zauberer
-- Zauber/Grad/1
-- Zauber/Schule/Hervorrufung
+  - Quelle/5e/Players_Handbook
+  - Klasse/Magier
+  - Klasse/Zauberer
+  - Zauber/Grad/1
+  - Zauber/Schule/Hervorrufung
 aliases:
-- Magic Missile
+  - Magic Missile
+status: WIP
 ---
 # Magische Geschosse
 _Hervorrufung des 1. Grades_

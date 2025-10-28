@@ -1,9 +1,6 @@
 ---
-tags: 
-- Quelle/5e/Players_Handbook
-- Klasse/Kämpfer
-aliases: 
-- Fighter
+tags: [Klasse/Kämpfer, Quelle/5e/Players_Handbook]
+aliases: [Fighter]
 ---
 # Kämpfer
 

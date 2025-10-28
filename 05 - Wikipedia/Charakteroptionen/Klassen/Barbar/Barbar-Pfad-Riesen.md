@@ -1,6 +1,6 @@
 ---
-tags: Klasse/Barbar/Riesen, Quelle/5e/BPGotG
-aliases: Path of the Giants
+tags: [Klasse/Barbar/Riesen, Quelle/5e/BPGotG]
+aliases: [Path of the Giants]
 ---
 Pfad der Riesen
 ===============

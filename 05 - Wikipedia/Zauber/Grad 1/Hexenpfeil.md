@@ -7,15 +7,16 @@ Wirkungsdauer: K, <1 Minute
 Angriff: n/v
 Schaden: n/v
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Hexenmeister
-- Klasse/Magier
-- Klasse/Zauberer
-- Zauber/Original/Witch_Bolt
-- Zauber/Grad/1
-- Zauber/Schule/Hervorrufung
+  - Quelle/5e/Players_Handbook
+  - Klasse/Hexenmeister
+  - Klasse/Magier
+  - Klasse/Zauberer
+  - Zauber/Original/Witch_Bolt
+  - Zauber/Grad/1
+  - Zauber/Schule/Hervorrufung
 aliases:
-- Witch Bolt
+  - Witch Bolt
+status: completed
 ---
 # Hexenpfeil
 _Hervorrufung des 1. Grades_

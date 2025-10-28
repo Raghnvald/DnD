@@ -1,3 +1,6 @@
+---
+tags: [Quelle/5e/Basic_Rules]
+---
 # Der Kampfablauf
 
 Eine typische Kampfbegegnung ist ein Aufeinandertreffen von zwei Seiten, ein Wirbel aus Waffenhieben, Finten, Paraden, Beinarbeit und Zauberwirken. Das Spiel ordnet das Chaos der Schlacht in einen Ablauf aus Runden und Zügen. Eine Runde stellt eine Zeitspanne von etwa sechs Sekunden in der Spielwelt dar. Innerhalb einer Runde hat jeder Teilnehmer eines Kampfes einen Zug. Die Reihenfolge der Züge wird am Anfang des Kampfes festgelegt, wenn alle die Initiative auswürfeln. Sobald jeder seinen Zug beendet hat, geht der Kampf mit der nächsten Runde weiter, sofern keine der Seiten die andere besiegt hat.

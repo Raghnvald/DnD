@@ -7,12 +7,14 @@ Wirkungsdauer: Unmittelbar
 Angriff: GES
 Schaden: 3d6 Feuer
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Zauberer
-- Klasse/Magier
-- Zauber/Grad/1
-- Zauber/Schule/Hervorrufung
-aliases: ["Burning Hands"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Zauberer
+  - Klasse/Magier
+  - Zauber/Grad/1
+  - Zauber/Schule/Hervorrufung
+aliases:
+  - Burning Hands
+status: completed
 ---
 # Brennende Hände
 ![](../../../99%20-%20Setup/Files/Bildersammlung/Symbolik/Hervorrufungszauber.webp#token)

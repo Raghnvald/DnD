@@ -2,13 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Barde
-- Klasse/Zauberer
-- Klasse/Magier
-- Zauber/Grad/1
-- Zauber/Schule/Verzauberung
-aliases: ["Sleep"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Barde
+  - Klasse/Zauberer
+  - Klasse/Magier
+  - Zauber/Grad/1
+  - Zauber/Schule/Verzauberung
+aliases:
+  - Sleep
+status: WIP
 ---
 # Sleep
 *1st-level, Enchantment*  

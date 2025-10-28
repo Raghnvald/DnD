@@ -1,6 +1,6 @@
 ---
-tags: Klasse/Barbar/Zelot, Quelle/5e/XGtE
-aliases: Path of the Berserker
+tags: [Klasse/Barbar/Zelot, Quelle/5e/Xanathars_Guide_to_Everything]
+aliases: [Path of the Berserker]
 ---
 Pfad des Zeloten
 ================

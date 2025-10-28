@@ -7,15 +7,16 @@ Wirkungsdauer: Unmittelbar
 Angriff: GES
 Schaden: 1d10 Stich
 tags:
-- Quelle/5e/Xanathars_Guide_to_Everything
-- Klasse/Druide
-- Klasse/Magier
-- Klasse/Zauberer
-- Zauber/Original/Ice_Knife
-- Zauber/Grad/1
-- Zauber/Schule/Beschwörung
+  - Quelle/5e/Xanathars_Guide_to_Everything
+  - Klasse/Druide
+  - Klasse/Magier
+  - Klasse/Zauberer
+  - Zauber/Original/Ice_Knife
+  - Zauber/Grad/1
+  - Zauber/Schule/Beschwörung
 aliases:
-- Ice Knife
+  - Ice Knife
+status: completed
 ---
 # Eismesser
 _Beschwörung des 1. Grades_

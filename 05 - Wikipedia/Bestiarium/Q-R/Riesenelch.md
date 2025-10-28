@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
 - Quelle/5e/Monster_Manual
@@ -10,6 +9,7 @@ tags:
 - Größe/Riesig
 - Typ/Tier
 aliases: ["Giant Elk"]
+obsidianUIMode: preview
 ---
 # Giant Elk
 *Source: SRD / Basic Rules*  
@@ -42,7 +42,8 @@ aliases: ["Giant Elk"]
 > 
 > ***Ram.*** *Melee Weapon Attack:* +6 to hit, reach 10 ft., one target. *Hit:* 11 (`2d6 + 4`) bludgeoning damage.
 > 
-> ***Hooves.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one [prone](rules/conditions.md#prone) creature. *Hit:* 22 (`4d8 + 4`) bludgeoning damage.
+> ***Hooves.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one [prone](rules/conditions.md#prone) creature. *Hit:* 22 (`4d8 + 4`) bludgeoning damage.
+
 ^statblock
 
 ## Environment

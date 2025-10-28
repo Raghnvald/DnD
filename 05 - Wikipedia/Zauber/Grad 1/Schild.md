@@ -1,11 +1,13 @@
 ---
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Zauberer
-- Klasse/Magier
-- Zauber/Grad/1
-- Zauber/Schule/Bann
-aliases: ["Shield"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Zauberer
+  - Klasse/Magier
+  - Zauber/Grad/1
+  - Zauber/Schule/Bann
+aliases:
+  - Shield
+status: WIP
 ---
 # Schild
 _Bann des 1. Grades_

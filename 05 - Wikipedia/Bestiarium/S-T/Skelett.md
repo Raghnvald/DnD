@@ -16,6 +16,8 @@ tags:
   - Typ/Untote
 aliases:
   - Skeleton
+Habitat:
+  - Stadt
 ---
 ```statblock
 statblock: true

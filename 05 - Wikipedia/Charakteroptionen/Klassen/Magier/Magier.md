@@ -1,9 +1,6 @@
 ---
-tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Magier
-aliases:
-- Wizard
+tags: [Klasse/Magier, Quelle/5e/Players_Handbook]
+aliases: [Wizard]
 ---
 # Magier
 _Quelle:_ Spielerhandbuch

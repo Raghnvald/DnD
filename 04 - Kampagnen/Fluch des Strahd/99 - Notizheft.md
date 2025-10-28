@@ -1,3 +1,6 @@
+---
+tags: [Quelle/5e/Curse_of_Strahd]
+---
 # Informationen über Barovia - allgemein
 - der Morgenfürst ist ähnlich wie Lathander und hat genauso eine Begeisterung für den Sonnenaufgang und Erneuerung
 - die Mutter der Nacht ist ähnlich wie Shar, jedoch mit einem Wolfskopf gezeichnet

@@ -1,3 +1,6 @@
+---
+tags: [Quelle/5e/Basic_Rules]
+---
 # 1. Wähle eine Rasse
 Jeder Charakter gehört zu einer Rasse, einer der vielen intelligenten humanoiden Spezies in der D&D-Welt. Die häufigsten Spielercharakter-Rassen sind Zwerge, Elfen, Halblinge und Menschen. Einige Rassen haben auch Unterarten, wie zum Beispiel Bergzwerge oder Waldelfen. Der Abschnitt über die Rassen bietet weitere Informationen zu diesen Rassen.
 Die von dir gewählte Rasse trägt auf wichtige Weise zur Identität deines Charakters bei, indem sie ein allgemeines Erscheinungsbild und die natürlichen Talente festlegt, die durch Kultur und Abstammung erlangt werden. Die Rasse deines Charakters gewährt bestimmte rassische Eigenschaften, wie besondere Sinne, Fertigkeitsbonus mit bestimmten Waffen oder Werkzeugen, Beherrschung einer oder mehrerer Fertigkeiten oder die Fähigkeit, geringfügige Zauber zu wirken. Diese Eigenschaften können manchmal mit den Fähigkeiten bestimmter Klassen übereinstimmen (siehe Schritt 2). Zum Beispiel machen die rassischen Eigenschaften der Leichtfuß-Halblinge sie zu außergewöhnlichen Schurken, und Hochelfen neigen dazu, mächtige Zauberer zu sein. Manchmal kann es aber auch Spaß machen, gegen den Typ zu spielen. Halbling-Paladine und Bergzwerge-Magier können zum Beispiel ungewöhnliche, aber unvergessliche Charaktere sein.

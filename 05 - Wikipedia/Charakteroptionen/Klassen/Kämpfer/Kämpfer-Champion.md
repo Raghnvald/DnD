@@ -1,6 +1,6 @@
 ---
-tags: Klasse/Kämpfer/Champion, Quelle/5e/PHB
-aliases: Champion
+tags: [Klasse/Kämpfer/Champion, Quelle/5e/Players_Handbook]
+aliases: [Champion]
 ---
 Champion
 ========

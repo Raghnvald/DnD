@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Barde
-- Klasse/Kleriker
-- Zauber/Grad/1
-- Zauber/Schule/Verzauberung
-aliases: ["Bane"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Barde
+  - Klasse/Kleriker
+  - Zauber/Grad/1
+  - Zauber/Schule/Verzauberung
+aliases:
+  - Bane
+status: WIP
 ---
 # Verderben
 ![](../../../99%20-%20Setup/Files/Bildersammlung/Symbolik/Verzauberungszauber.webp#token)

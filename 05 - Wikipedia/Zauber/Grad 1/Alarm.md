@@ -6,17 +6,17 @@ Komponenten: V, G, M
 Wirkungsdauer: 8 Stunden
 Angriff: n/v
 Schaden: n/v
+status: completed
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Magier
-- Klasse/Waldläufer
-- Zauber/Original/Alarm
-- Zauber/Grad/1
-- Zauber/Ritual
-- Zauber/Schule/Bann
-aliases: 
-- Alarm
-
+  - Quelle/5e/Players_Handbook
+  - Klasse/Magier
+  - Klasse/Waldläufer
+  - Zauber/Original/Alarm
+  - Zauber/Grad/1
+  - Zauber/Ritual
+  - Zauber/Schule/Bann
+aliases:
+  - Alarm
 ---
 # Alarm
 _Bann des 1. Grades (Ritual)_

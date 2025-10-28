@@ -6,16 +6,17 @@ Komponenten: V, M
 Wirkungsdauer: 1 Minute
 Angriff: n/v
 Schaden: n/v
+status: completed
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Barde
-- Klasse/Magier
-- Klasse/Zauberer
-- Zauber/Original/Feather_Fall
-- Zauber/Grad/1
-- Zauber/Schule/Verwandlung
+  - Quelle/5e/Players_Handbook
+  - Klasse/Barde
+  - Klasse/Magier
+  - Klasse/Zauberer
+  - Zauber/Original/Feather_Fall
+  - Zauber/Grad/1
+  - Zauber/Schule/Verwandlung
 aliases:
-- Feather Fall
+  - Feather Fall
 ---
 # Federfall
 _Verwandlung des 1. Grades_

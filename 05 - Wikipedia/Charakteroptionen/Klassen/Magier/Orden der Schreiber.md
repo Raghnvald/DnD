@@ -1,6 +1,6 @@
 ---
-tags: Klasse/Magier/Schreiber, Quelle/5e/TCoE
-aliases: Order of Scribes
+tags: [Klasse/Magier/Schreiber, Quelle/5e/Tashas_Cauldron_of_Everything]
+aliases: [Order of Scribes]
 ---
 Orden der Schreiber
 ===================

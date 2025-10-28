@@ -6,16 +6,17 @@ Komponenten: G, M
 Wirkungsdauer: 8 Stunden
 Angriff: GES
 Schaden: Festgesetzt
-tags: 
-- Quelle/5e/Xanathars_Guide_to_Everything
-- Klasse/Druide
-- Klasse/Magier
-- Klasse/Waldläufer
-- Zauber/Original/Snare
-- Zauber/Grad/1
-- Zauber/Schule/Bann
-aliases: 
-- Snare
+tags:
+  - Quelle/5e/Xanathars_Guide_to_Everything
+  - Klasse/Druide
+  - Klasse/Magier
+  - Klasse/Waldläufer
+  - Zauber/Original/Snare
+  - Zauber/Grad/1
+  - Zauber/Schule/Bann
+aliases:
+  - Snare
+status: completed
 ---
 # Fangschlinge
 _Bann des 1. Grades_

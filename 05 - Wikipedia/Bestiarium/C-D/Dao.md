@@ -5,6 +5,7 @@ Bezeichnung:
 Typ: Elementar
 Größe: 
 HG: 
+Habitat: 
 status:
 order:
 parent:
@@ -13,4 +14,5 @@ tags:
 - Quelle/5e/Monster_Manual
 - Typ/Elementar
 aliases:
+- 
 ---

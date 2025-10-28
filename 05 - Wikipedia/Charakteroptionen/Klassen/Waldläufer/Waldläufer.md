@@ -1,6 +1,6 @@
 ---
-tags: Klasse/Waldläufer, Quelle/5e/PHB
-aliases: Ranger
+tags: [Klasse/Waldläufer, Quelle/5e/Players_Handbook]
+aliases: [Ranger]
 ---
 Waldläufer
 ==========

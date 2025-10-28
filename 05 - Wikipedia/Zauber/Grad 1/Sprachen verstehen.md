@@ -2,15 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Barde
-- Klasse/Zauberer
-- Klasse/Hexenmeister
-- Klasse/Magier
-- Zauber/Grad/1
-- Zauber/Ritual
-- Zauber/Schule/Erkenntnis
-aliases: ["Comprehend Languages"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Barde
+  - Klasse/Zauberer
+  - Klasse/Hexenmeister
+  - Klasse/Magier
+  - Zauber/Grad/1
+  - Zauber/Ritual
+  - Zauber/Schule/Erkenntnis
+aliases:
+  - Comprehend Languages
+status: WIP
 ---
 # Sprachen verstehen
 ![](../../../99%20-%20Setup/Files/Bildersammlung/Symbolik/Erkenntniszauber.webp#token)

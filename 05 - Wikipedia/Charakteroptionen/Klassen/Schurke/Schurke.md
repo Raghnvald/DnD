@@ -1,9 +1,6 @@
 ---
-tags: 
-- Quelle/5e/Players_Handbook
-- Klasse/Schurke
-aliases: 
-- Rogue
+tags: [Klasse/Schurke, Quelle/5e/Players_Handbook]
+aliases: [Rogue]
 ---
 # Schurke
 _Quelle:_ Spielerhandbuch

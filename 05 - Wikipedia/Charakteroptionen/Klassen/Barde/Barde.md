@@ -1,9 +1,6 @@
 ---
-tags: 
-- Quelle/5e/Players_Handbook
-- Klasse/Barde
-aliases: 
-- Bard
+tags: [Klasse/Barde, Quelle/5e/Players_Handbook]
+aliases: [Bard]
 ---
 # Barde
 _Quelle: Grundregelwerk / Spielerhandbuch_

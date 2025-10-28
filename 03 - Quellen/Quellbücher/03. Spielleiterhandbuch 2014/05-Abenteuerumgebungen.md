@@ -1,3 +1,6 @@
+---
+tags: [Quelle/5e/Dungeon_Masters_Guide]
+---
 # Kapitel 5: Abenteuerumgebungen
 Viele D&D-Abenteuer spielen in einer Gewölbeumgebung. Gewölbe in D&D beinhalten große Hallen und Grüfte, unterirdische Monsternester, Labyrinthe voller Todesfallen, natürliche Höhlen, die sich kilometerweit unter der Oberfläche erstrecken, und Burgruinen.
 $\quad$Nicht jedes Abenteuer spielt in einem Gewölbe. Eine Wanderung durch die Wildnis der Wüste der Trostlosigkeit oder eine qualvolle Reise in die Dschungel der Inseln des Schreckens sind alleine schon beachtliche Abenteuer. Über offenem Gelände drehen Drachen ihre Runden am Himmel, Stämme von Hobgoblins drängen aus ihren Festungen, um Krieg gegen ihre Nachbarn zu führen, oder plündern Bauernhöfe auf der Suche nach Essbarem, und monströse Spinnen lassen sich aus dem Laubkronendach der Bäume herab.

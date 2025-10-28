@@ -1,6 +1,6 @@
 ---
-tags: Klasse/Hexenmeister/Großer-Alter, Quelle/5e/PHB, Quelle/5e/SRD
-aliases: The Great Old
+tags: [Klasse/Hexenmeister/Großer-Alter, Quelle/5e/Players_Handbook, Quelle/5e/SRD]
+aliases: [The Great Old]
 ---
 Der Unhold
 ==========

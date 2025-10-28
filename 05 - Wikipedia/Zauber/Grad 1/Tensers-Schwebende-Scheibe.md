@@ -1,13 +1,15 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
+status: WIP
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Magier
-- Zauber/Grad/1
-- Zauber/Ritual
-- Zauber/Schule/Beschwörung
-aliases: ["Tenser's Floating Disk"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Magier
+  - Zauber/Grad/1
+  - Zauber/Ritual
+  - Zauber/Schule/Beschwörung
+aliases:
+  - Tenser's Floating Disk
+obsidianUIMode: preview
 ---
 # Tenser's Floating Disk
 *1st-level, Conjuration (ritual)*  

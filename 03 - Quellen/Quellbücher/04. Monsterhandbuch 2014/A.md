@@ -1,3 +1,6 @@
+---
+tags: [Quelle/5e/Monster_Manual]
+---
 ```base
 views:
   - type: table

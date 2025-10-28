@@ -1,3 +1,6 @@
+---
+tags: [Quelle/5e/Dungeon_Masters_Guide]
+---
 # Kapitel 7: Schätze
 
 ## Schatz-Arten

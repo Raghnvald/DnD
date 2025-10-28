@@ -1,6 +1,6 @@
 ---
-tags: Klasse/Hexenmeister/Himmlischer, Quelle/5e/PHB, Quelle/5e/SRD
-aliases: The Celestial
+tags: [Klasse/Hexenmeister/Himmlischer, Quelle/5e/Players_Handbook, Quelle/5e/SRD]
+aliases: [The Celestial]
 ---
 Der Unhold
 ==========

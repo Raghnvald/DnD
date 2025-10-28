@@ -7,16 +7,17 @@ Wirkungsdauer: Unmittelbar
 Angriff: KON
 Schaden: 2d8 Schall
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Barde
-- Klasse/Druide
-- Klasse/Magier
-- Klasse/Zauberer
-- Zauber/Original/Thunderwave
-- Zauber/Grad/1
-- Zauber/Schule/Hervorrufung
-aliases: 
-- Thunderwave
+  - Quelle/5e/Players_Handbook
+  - Klasse/Barde
+  - Klasse/Druide
+  - Klasse/Magier
+  - Klasse/Zauberer
+  - Zauber/Original/Thunderwave
+  - Zauber/Grad/1
+  - Zauber/Schule/Hervorrufung
+aliases:
+  - Thunderwave
+status: completed
 ---
 # Donnerwoge
 _Hervorrufung des 1. Grades_

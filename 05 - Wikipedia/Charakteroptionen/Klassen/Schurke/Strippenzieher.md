@@ -1,9 +1,6 @@
 ---
-tags: 
-- Quelle/5e/Xanathars_Guide_to_Everything
-- Klasse/Schurke
-aliases: 
-- Mastermind
+tags: [Klasse/Schurke, Quelle/5e/Xanathars_Guide_to_Everything]
+aliases: [Mastermind]
 ---
 # Strippenzieher
 _[[Schurke]]_: Schurkenarchetyp

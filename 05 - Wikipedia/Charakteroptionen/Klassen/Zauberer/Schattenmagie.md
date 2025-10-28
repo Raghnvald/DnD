@@ -1,9 +1,6 @@
 ---
-tags: 
-- Quelle/5e/Xanathars_Guide_to_Everything
-- Klasse/Zauberer 
-aliases:
-- Shadow Magic
+tags: [Klasse/Zauberer, Quelle/5e/Xanathars_Guide_to_Everything]
+aliases: [Shadow Magic]
 ---
 # Schattenmagie
 _[[Zauberer]]_: Magische Herkunft

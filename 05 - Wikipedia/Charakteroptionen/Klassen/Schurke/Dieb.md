@@ -1,9 +1,6 @@
 ---
-tags: 
-- Quelle/5e/Players_Handbook
-- Klasse/Schurke
-aliases: 
-- Thief
+tags: [Klasse/Schurke, Quelle/5e/Players_Handbook]
+aliases: [Thief]
 ---
 # Dieb
 _[[Schurke]]_: Schurkenarchetyp

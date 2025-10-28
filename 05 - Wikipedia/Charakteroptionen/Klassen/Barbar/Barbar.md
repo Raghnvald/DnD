@@ -1,6 +1,6 @@
 ---
-tags: Quelle/5e/PHB, Klasse/Barbar
-aliases: Barbarian
+tags: [Quelle/5e/Players_Handbook, Klasse/Barbar]
+aliases: [Barbarian]
 ---
 Barbar
 ======

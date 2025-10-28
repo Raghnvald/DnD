@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Barde
-- Klasse/Paladin
-- Zauber/Grad/1
-- Zauber/Schule/Verzauberung
-aliases: ["Heroism"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Barde
+  - Klasse/Paladin
+  - Zauber/Grad/1
+  - Zauber/Schule/Verzauberung
+aliases:
+  - Heroism
+status: WIP
 ---
 # Heroism
 *1st-level, Enchantment*  

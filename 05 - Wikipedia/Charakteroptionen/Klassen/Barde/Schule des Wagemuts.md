@@ -1,9 +1,6 @@
 ---
-tags:
-- Quelle/5e/PHB
-_ Klasse/Barde
-aliases:
-- College of Valor
+tags: [Klasse/Barde, Quelle/5e/Players_Handbook]
+aliases: [College of Valor]
 ---
 # Schule des Wagemuts
 _[[Barde]]_: Bardenschule

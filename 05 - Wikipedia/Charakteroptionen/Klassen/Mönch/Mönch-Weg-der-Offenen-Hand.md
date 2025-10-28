@@ -1,6 +1,6 @@
 ---
-tags: Klasse/Mönch/Offene-Hand, Quelle/5e/PHB
-aliases: Way of the Open Hand
+tags: [Klasse/Mönch/Offene-Hand, Quelle/5e/Players_Handbook]
+aliases: [Way of the Open Hand]
 ---
 Weg der Offenen Hand
 ====================

@@ -1,9 +1,6 @@
 ---
-tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Hexenmeister
-aliases:
-- Warlock
+tags: [Klasse/Hexenmeister, Quelle/5e/Players_Handbook]
+aliases: [Warlock]
 ---
 # Hexenmeister
 _Quelle: SRD / Grundregelwerk / Spielerhandbuch_

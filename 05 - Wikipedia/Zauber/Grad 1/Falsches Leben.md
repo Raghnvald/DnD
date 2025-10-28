@@ -7,14 +7,15 @@ Wirkungsdauer: 1 Stunde
 Angriff: n/v
 Schaden: 1d4+4 temp. TP
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Magier
-- Klasse/Zauberer
-- Zauber/Original/False_Life
-- Zauber/Grad/1
-- Zauber/Schule/Nekromantie
+  - Quelle/5e/Players_Handbook
+  - Klasse/Magier
+  - Klasse/Zauberer
+  - Zauber/Original/False_Life
+  - Zauber/Grad/1
+  - Zauber/Schule/Nekromantie
 aliases:
-- False Life
+  - False Life
+status: completed
 ---
 # Falsches Leben
 _Nekromantie des 1. Grades_

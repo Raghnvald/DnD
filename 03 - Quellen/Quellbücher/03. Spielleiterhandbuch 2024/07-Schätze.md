@@ -1,3 +1,6 @@
+---
+tags: [Quelle/5e/Dungeon_Masters_Guide]
+---
 # Kapitel 7: Schätze
 
 <img src="07-001.onyx-treasure.webp" align="center" width="500">

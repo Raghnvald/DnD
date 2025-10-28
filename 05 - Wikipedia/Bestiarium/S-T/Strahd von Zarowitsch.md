@@ -10,13 +10,15 @@ order:
 parent:
 image: token/count_strahd_von_zarovich_token.webp
 tags:
-- Quelle/5e/Curse_of_Strahd
-- Typ/Untote/Gestaltwandler
-- Größe/Mittelgroß
-- Habitat/Stadt
+  - Quelle/5e/Curse_of_Strahd
+  - Typ/Untote/Gestaltwandler
+  - Größe/Mittelgroß
+  - Habitat/Stadt
 aliases:
-- Strahd von Zarowitsch
-- Strahd
+  - Strahd von Zarowitsch
+  - Strahd
+Habitat:
+  - Stadt
 ---
 
 # Strahd von Zarowitsch

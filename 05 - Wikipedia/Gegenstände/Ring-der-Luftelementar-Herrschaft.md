@@ -20,9 +20,9 @@ While wearing this ring, you have advantage on attack rolls against elementals f
 
 The ring has 5 charges. It regains `1d4 + 1` expended charges daily at dawn. Spells cast from the ring have a save DC of 17.
 
-You can expend 2 of the ring's charges to cast [dominate monster](Monster-beherrschen.md) on an [air elemental](Luftlementar.md). In addition, when you fall, you descend 60 feet per round and take no damage from falling. You can also speak and understand Auran.
+You can expend 2 of the ring's charges to cast [dominate monster](Monster-beherrschen.md) on an [air elemental](Luftelementar%20(Legacy).md). In addition, when you fall, you descend 60 feet per round and take no damage from falling. You can also speak and understand Auran.
 
-If you help slay an [air elemental](Luftlementar.md) while attuned to the ring, you gain access to the following additional properties:
+If you help slay an [air elemental](Luftelementar%20(Legacy).md) while attuned to the ring, you gain access to the following additional properties:
 
 - You have resistance to lightning damage.  
 - You have a flying speed equal to your walking speed and can hover.  

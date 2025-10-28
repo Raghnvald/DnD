@@ -1,6 +1,6 @@
 ---
-tags: Klasse/Barbar/Moloch, Quelle/5e/TDCSR
-aliases: Path of the Juggernaut
+tags: [Klasse/Barbar/Moloch, Quelle/5e/Tal_Dorei_Campaign_Setting_Reborn]
+aliases: [Path of the Juggernaut]
 ---
 Pfad des Molochs
 ================

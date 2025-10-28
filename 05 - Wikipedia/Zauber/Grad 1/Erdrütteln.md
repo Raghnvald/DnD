@@ -6,17 +6,18 @@ Komponenten: V, G
 Wirkungsdauer: Unmittelbar
 Angriff: GES
 Schaden: 1d6 Wucht
-tags: 
-- Quelle/5e/Xanathars_Guide_to_Everything
-- Klasse/Barde
-- Klasse/Druide
-- Klasse/Magier
-- Klasse/Zauberer
-- Zauber/Original/Earth_Tremor
-- Zauber/Grad/1
-- Zauber/Schule/Hervorrufung
-aliases: 
-- Earth Tremor
+status: completed
+tags:
+  - Quelle/5e/Xanathars_Guide_to_Everything
+  - Klasse/Barde
+  - Klasse/Druide
+  - Klasse/Magier
+  - Klasse/Zauberer
+  - Zauber/Original/Earth_Tremor
+  - Zauber/Grad/1
+  - Zauber/Schule/Hervorrufung
+aliases:
+  - Earth Tremor
 ---
 # Erdrütteln
 _Hervorrufung des 1. Grades_

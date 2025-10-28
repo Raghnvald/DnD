@@ -6,4 +6,5 @@ aliases:
   - Deathlock
 status: WIP
 Größe: Mittelgroß
+HG: 4
 ---

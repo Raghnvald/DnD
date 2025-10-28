@@ -17,6 +17,9 @@ tags:
   - Typ/Untote
 aliases:
   - Vampire Spawn
+Habitat:
+  - Stadt
+  - Unterreich
 ---
 # Vampirbrut (2014)
 

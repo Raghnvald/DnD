@@ -1,9 +1,6 @@
 ---
-tags:
-- Quelle/5e/Tashas_Cauldron_of_Everything
-- Klasse/Barde
-aliases:
-- College of Eloquence
+tags: [Klasse/Barde, Quelle/5e/Tashas_Cauldron_of_Everything]
+aliases: [College of Eloquence]
 ---
 # Schule der Eloquenz
 _[[Barde]]_: Bardenschule

@@ -3,8 +3,8 @@ cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
 Bezeichnung:
 Typ: Untoter
-Größe:
-HG:
+Größe: Groß
+HG: 4
 status: WIP
 order:
 parent:
@@ -14,4 +14,6 @@ tags:
   - Typ/Untote
 aliases:
   - 
+Habitat:
+  - Unterreich
 ---

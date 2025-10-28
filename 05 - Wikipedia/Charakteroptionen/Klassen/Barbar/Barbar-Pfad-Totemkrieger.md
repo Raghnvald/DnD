@@ -1,6 +1,6 @@
 ---
-tags: Klasse/Barbar/Totemkrieger, Quelle/5e/PHB, Quelle/5e/SCAG
-aliases: Path of the Berserker
+tags: [Klasse/Barbar/Totemkrieger, Quelle/5e/Players_Handbook, Quelle/5e/Sword_Coast_Adventurers_Guide]
+aliases: [Path of the Berserker]
 ---
 Pfad des Totemkriegers
 ======================

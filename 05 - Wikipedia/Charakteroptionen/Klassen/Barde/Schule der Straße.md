@@ -1,9 +1,6 @@
 ---
-tags:
-- Quelle/5e/Humblewood_Campaign_Setting
-- Klasse/Barde
-aliases:
-- College of the Road
+tags: [Klasse/Barde, Quelle/5e/Humblewood_Campaign_Setting]
+aliases: [College of the Road]
 ---
 # Schule der Straße
 _[[Barde]]_: Bardenschule

@@ -11,14 +11,16 @@ views:
       - file.name
       - Größe
       - HG
+      - Habitat
       - status
     columnSize:
-      file.name: 207
+      file.name: 173
       note.Größe: 101
     cardSize: 100
     image: note.image
     imageFit: contain
     imageAspectRatio: 1
+    rowHeight: medium
   - type: table
     name: Drachen
     filters:
@@ -29,6 +31,7 @@ views:
       - Größe
       - HG
       - status
+      - Habitat
     columnSize:
       file.name: 197
       note.Größe: 101
@@ -36,6 +39,7 @@ views:
     image: note.image
     imageFit: contain
     imageAspectRatio: 1
+    rowHeight: medium
   - type: table
     name: Elementare
     filters:
@@ -45,6 +49,7 @@ views:
       - file.name
       - Größe
       - HG
+      - Habitat
       - status
     columnSize:
       file.name: 135
@@ -54,6 +59,7 @@ views:
     image: note.image
     imageFit: contain
     imageAspectRatio: 1
+    rowHeight: medium
   - type: table
     name: Feenwesen
     filters:
@@ -72,6 +78,7 @@ views:
     image: note.image
     imageFit: contain
     imageAspectRatio: 1
+    rowHeight: medium
   - type: table
     name: Himmlische
     filters:
@@ -90,6 +97,7 @@ views:
     image: note.image
     imageFit: contain
     imageAspectRatio: 1
+    rowHeight: medium
   - type: table
     name: Humanoide
     filters:
@@ -108,6 +116,7 @@ views:
     image: note.image
     imageFit: contain
     imageAspectRatio: 1
+    rowHeight: medium
   - type: table
     name: Konstrukte
     filters:
@@ -126,6 +135,7 @@ views:
     image: note.image
     imageFit: contain
     imageAspectRatio: 1
+    rowHeight: medium
   - type: table
     name: Monstrositäten
     filters:
@@ -144,6 +154,7 @@ views:
     image: note.image
     imageFit: contain
     imageAspectRatio: 1
+    rowHeight: medium
   - type: table
     name: Pflanzen
     filters:
@@ -162,6 +173,7 @@ views:
     image: note.image
     imageFit: contain
     imageAspectRatio: 1
+    rowHeight: medium
   - type: table
     name: Riesen
     filters:
@@ -180,6 +192,7 @@ views:
     image: note.image
     imageFit: contain
     imageAspectRatio: 1
+    rowHeight: medium
   - type: table
     name: Schleime
     filters:
@@ -198,6 +211,7 @@ views:
     image: note.image
     imageFit: contain
     imageAspectRatio: 1
+    rowHeight: medium
   - type: table
     name: Tiere
     filters:
@@ -216,6 +230,7 @@ views:
     image: note.image
     imageFit: contain
     imageAspectRatio: 1
+    rowHeight: medium
   - type: table
     name: Unholde
     filters:
@@ -225,6 +240,7 @@ views:
       - file.name
       - Größe
       - HG
+      - Habitat
       - status
     columnSize:
       file.name: 135
@@ -234,6 +250,7 @@ views:
     image: note.image
     imageFit: contain
     imageAspectRatio: 1
+    rowHeight: medium
   - type: table
     name: Untote
     filters:
@@ -243,12 +260,14 @@ views:
       - file.name
       - Größe
       - HG
+      - Habitat
       - status
     columnSize:
-      file.name: 135
-      note.Typ: 124
+      file.name: 134
       note.Größe: 101
+      note.Habitat: 279
     cardSize: 100
     image: note.image
     imageFit: contain
     imageAspectRatio: 1
+    rowHeight: medium

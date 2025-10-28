@@ -1,14 +1,11 @@
 ---
+tags: [Quelle/5e/Curse_of_Strahd]
 CoinsCopper: 0
-CoinsSiler: 0
 CoinsElectrum: 1
 CoinsGold: 0
 CoinsPlatinum: 0
+CoinsSiler: 0
 PartySize: 3
-tags:
-- Quelle/5e/Players_Handbook
-aliases:
-- 
 ---
 
 # Amount

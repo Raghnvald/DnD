@@ -1,6 +1,6 @@
 ---
-tags: Klasse/Magier/Erkenntnismagie, Quelle/5e/PHB, Quelle/5e/SRD
-aliases: School of Divination
+tags: [Klasse/Magier/Erkenntnismagie, Quelle/5e/Players_Handbook, Quelle/5e/SRD]
+aliases: [School of Divination]
 ---
 Schule der Erkenntnismagie
 ==========================

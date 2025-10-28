@@ -1,6 +1,6 @@
 ---
-tags: Klasse/Magier/Blutmagie, Quelle/5e/TDCSR
-aliases: Blood Magic
+tags: [Klasse/Magier/Blutmagie, Quelle/5e/Tal_Dorei_Campaign_Setting_Reborn]
+aliases: [Blood Magic]
 ---
 Blutmagie
 =========

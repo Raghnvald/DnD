@@ -1,14 +1,16 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
+status: WIP
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Barde
-- Klasse/Zauberer
-- Klasse/Magier
-- Zauber/Grad/1
-- Zauber/Schule/Illusion
-aliases: ["Silent Image"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Barde
+  - Klasse/Zauberer
+  - Klasse/Magier
+  - Zauber/Grad/1
+  - Zauber/Schule/Illusion
+aliases:
+  - Silent Image
+obsidianUIMode: preview
 ---
 # Silent Image
 *1st-level, Illusion*  

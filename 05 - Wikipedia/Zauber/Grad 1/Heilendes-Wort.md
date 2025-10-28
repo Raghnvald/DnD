@@ -2,13 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Barde
-- Klasse/Kleriker
-- Klasse/Druide
-- Zauber/Grad/1
-- Zauber/Schule/Hervorrufung
-aliases: ["Healing Word"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Barde
+  - Klasse/Kleriker
+  - Klasse/Druide
+  - Zauber/Grad/1
+  - Zauber/Schule/Hervorrufung
+aliases:
+  - Healing Word
+status: WIP
 ---
 # Heilendes Wort
 ![](../../../99%20-%20Setup/Files/Bildersammlung/Symbolik/Hervorrufungszauber.webp#token)

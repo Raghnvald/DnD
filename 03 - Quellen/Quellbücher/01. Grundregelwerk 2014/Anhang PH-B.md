@@ -1,3 +1,6 @@
+---
+tags: [Quelle/5e/Basic_Rules]
+---
 # Pantheons in Geschichte und Fantasy-Welten
 
 ##  D&D Pantheons

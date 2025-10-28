@@ -2,13 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Barde
-- Klasse/Druide
-- Klasse/Waldläufer
-- Zauber/Grad/1
-- Zauber/Schule/Verzauberung
-aliases: ["Animal Friendship"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Barde
+  - Klasse/Druide
+  - Klasse/Waldläufer
+  - Zauber/Grad/1
+  - Zauber/Schule/Verzauberung
+aliases:
+  - Animal Friendship
+status: WIP
 ---
 # Tierfreundschaft
 ![](../../../99%20-%20Setup/Files/Bildersammlung/Symbolik/Verzauberungszauber.webp#token)

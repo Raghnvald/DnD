@@ -1,9 +1,6 @@
 ---
-tags:
-- Quelle/5e/Xanathars_Guide_to_Everything
-- Klasse/Barde
-aliases:
-- College of Glamour
+tags: [Klasse/Barde, Quelle/5e/Xanathars_Guide_to_Everything]
+aliases: [College of Glamour]
 ---
 # Schule des Zauberbanns
 _[[Barde]]_: Bardenschule

@@ -6,16 +6,17 @@ Komponenten: G
 Wirkungsdauer: Unmittelbar
 Angriff: GES
 Schaden: 3d8 Wucht
-tags: 
-- Quelle/5e/Xanathars_Guide_to_Everything
-- Klasse/Magier
-- Klasse/Magieschmied
-- Klasse/Zauberer
-- Zauber/Original/Catapult
-- Zauber/Grad/1
-- Zauber/Schule/Verwandlung
-aliases: 
-- Catapult
+tags:
+  - Quelle/5e/Xanathars_Guide_to_Everything
+  - Klasse/Magier
+  - Klasse/Magieschmied
+  - Klasse/Zauberer
+  - Zauber/Original/Catapult
+  - Zauber/Grad/1
+  - Zauber/Schule/Verwandlung
+aliases:
+  - Catapult
+status: completed
 ---
 # Katapult
 _Verwandlung des 1. Grades_

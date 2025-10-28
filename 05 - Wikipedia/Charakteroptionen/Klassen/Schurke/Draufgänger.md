@@ -1,9 +1,6 @@
 ---
-tags: 
-- Quelle/5e/Xanathars_Guide_to_Everything
-- Klasse/Schurke
-aliases:
-- Thief
+tags: [Klasse/Schurke, Quelle/5e/Xanathars_Guide_to_Everything]
+aliases: [Thief]
 ---
 # Draufgänger
 _[[Schurke]]_: Schurkenarchetyp

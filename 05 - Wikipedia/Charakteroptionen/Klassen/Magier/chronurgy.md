@@ -1,6 +1,6 @@
 ---
-tags: Klasse/Magier/Chronurgy, Quelle/5e/EGtW
-aliases: War Magic
+tags: [Klasse/Magier/Chronurgy, Quelle/5e/EGtW]
+aliases: [War Magic]
 ---
 Chronurgy Magic
 ===============

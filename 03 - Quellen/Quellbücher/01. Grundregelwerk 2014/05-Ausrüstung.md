@@ -1,3 +1,6 @@
+---
+tags: [Quelle/5e/Basic_Rules]
+---
 Auf dem Marktplatz einer großen Stadt wimmelt es von Käufern und Verkäufern aller Art: Zwergenschmiede und Elfenholzschnitzer, Halblingsbauern und Zwergenjuweliere, ganz zu schweigen von Menschen jeder Gestalt, Größe und Farbe aus einem Spektrum von Nationen und Kulturen. In den größten Städten wird fast alles Erdenkliche zum Verkauf angeboten, von exotischen Gewürzen und luxuriöser Kleidung bis hin zu Weidenkörben und praktischen Schwertern.
 
 Für einen Abenteurer ist die Verfügbarkeit von Rüstungen, Waffen, Rucksäcken, Seilen und ähnlichen Waren von größter Bedeutung, da die richtige Ausrüstung den Unterschied zwischen Leben und Tod in einem Kerker oder der ungezähmten Wildnis bedeuten kann. In diesem Abschnitt werden die alltäglichen und exotischen Waren beschrieben, die Abenteurer angesichts der Bedrohungen in den Welten von D&D häufig als nützlich empfinden.

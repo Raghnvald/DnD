@@ -1,7 +1,4 @@
 ---
-tags: 
-- Quelle/5e/Xanathars_Guide_to_Everything
-- Klasse/Paladin
-aliases: 
-- Oath of Conquest
+tags: [Klasse/Paladin, Quelle/5e/Xanathars_Guide_to_Everything]
+aliases: [Oath of Conquest]
 ---

@@ -5,16 +5,17 @@ Reichweite: 18 Meter
 Komponenten: V
 Wirkungsdauer: K, <1 Minute
 Angriff: GES
-Schaden: 
+Schaden:
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Barde
-- Klasse/Druide
-- Zauber/Original/Faerie_Fire
-- Zauber/Grad/1
-- Zauber/Schule/Hervorrufung
+  - Quelle/5e/Players_Handbook
+  - Klasse/Barde
+  - Klasse/Druide
+  - Zauber/Original/Faerie_Fire
+  - Zauber/Grad/1
+  - Zauber/Schule/Hervorrufung
 aliases:
-- Faerie Fire
+  - Faerie Fire
+status: WIP
 ---
 # Feenfeuer
 _Hervorrufung des 1. Grades_

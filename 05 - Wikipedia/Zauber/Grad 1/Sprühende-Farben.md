@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Magier
-- Klasse/Zauberer
-- Zauber/Grad/1
-- Zauber/Schule/Illusion
-aliases: ["Color Spray"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Magier
+  - Klasse/Zauberer
+  - Zauber/Grad/1
+  - Zauber/Schule/Illusion
+aliases:
+  - Color Spray
+status: WIP
 ---
 # Sprühende Farben
 ![](../../../99%20-%20Setup/Files/Bildersammlung/Symbolik/Illusionszauber.webp#token)

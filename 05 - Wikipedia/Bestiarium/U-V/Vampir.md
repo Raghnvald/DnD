@@ -5,24 +5,15 @@ Bezeichnung:
 Typ: Untoter
 Größe: Mittelgroß
 HG: 13
-status:
+Habitat:
+  - Stadt
+  - Unterreich
+status: WIP
 order:
 parent:
 image:
-tags:
-  - DnD/Kompendium/Quelle/5e/MM 2014
-  - DnD/Kompendium/Quelle/5e/MM 2024
-  - Habitat/Stadt
-  - Habitat/Unterreich
-  - Größe/Klein
-  - Größe/Mittelgroß
-  - Typ/Untote
-aliases:
-  - Vampire
-  - Vampire Familiar
-  - Vampire Nightbringer
-  - Vampire Spawn
-  - Vampire Umbral Lord
+tags: [DnD/Kompendium/Quelle/5e/MM 2014, DnD/Kompendium/Quelle/5e/MM 2024, Größe/Klein, Größe/Mittelgroß, Habitat/Stadt, Habitat/Unterreich, Typ/Untote]
+aliases: [Vampire, Vampire Familiar, Vampire Nightbringer, Vampire Spawn, Vampire Umbral Lord]
 ---
 # Vampire (2014)
 *Source: SRD / Basic Rules*  

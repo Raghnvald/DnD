@@ -4,7 +4,9 @@ prefer-view: edit-source read
 Bezeichnung:
 Typ: Untoter
 Größe: Mittelgroß
-HG:
+HG: 1/4
+Habitat:
+  - Stadt
 status: WIP
 order:
 parent:

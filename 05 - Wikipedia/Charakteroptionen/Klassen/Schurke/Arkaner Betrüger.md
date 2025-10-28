@@ -1,9 +1,6 @@
 ---
-tags: 
-- Quelle/5e/Players_Handbook
-- Klasse/Schurke
-aliases: 
-- Arcane Trickster
+tags: [Klasse/Schurke, Quelle/5e/Players_Handbook]
+aliases: [Arcane Trickster]
 ---
 # Arkaner Betrüger
 _[[Schurke]]_: Schurkenarchetyp

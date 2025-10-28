@@ -1,6 +1,6 @@
 ---
-tags: Klasse/Druide/Wildfeuer, Quelle/5e/PHB
-aliases: Circle of the Land
+tags: [Klasse/Druide/Wildfeuer, Quelle/5e/Players_Handbook]
+aliases: [Circle of the Land]
 ---
 Zirkel des Wildfeuers
 =====================

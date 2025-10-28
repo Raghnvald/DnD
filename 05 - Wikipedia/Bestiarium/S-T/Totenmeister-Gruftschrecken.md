@@ -6,4 +6,5 @@ aliases:
   - Deathlock Wight
 status: WIP
 Größe: Mittelgroß
+HG: 3
 ---

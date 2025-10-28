@@ -1,6 +1,6 @@
 ---
-tags: Klasse/Druide/Hirte, Quelle/5e/PHB
-aliases: Circle of the Land
+tags: [Klasse/Druide/Hirte, Quelle/5e/Players_Handbook]
+aliases: [Circle of the Land]
 ---
 Zirkel des Hirten
 =================

@@ -6,4 +6,5 @@ aliases:
   - Deathlock Mastermind
 status: WIP
 Größe: Mittelgroß
+HG: 8
 ---

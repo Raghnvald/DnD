@@ -4,19 +4,20 @@ Zeitaufwand: 1 Aktion
 Reichweite: 18 Meter
 Komponenten: V, G, M
 Wirkungsdauer: 1 Stunde
-Angriff: 
-Schaden: 
+Angriff:
+Schaden:
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Barde
-- Klasse/Hexenmeister
-- Klasse/Magier
-- Zauber/Original/Unseen_Servant
-- Zauber/Grad/1
-- Zauber/Ritual
-- Zauber/Schule/Beschwörung
+  - Quelle/5e/Players_Handbook
+  - Klasse/Barde
+  - Klasse/Hexenmeister
+  - Klasse/Magier
+  - Zauber/Original/Unseen_Servant
+  - Zauber/Grad/1
+  - Zauber/Ritual
+  - Zauber/Schule/Beschwörung
 aliases:
-- Unseen Servant
+  - Unseen Servant
+status: WIP
 ---
 # Unsichtbarer Diener
 _Beschwörung des 1. Grades (Ritual)_

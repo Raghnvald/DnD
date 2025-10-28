@@ -1,9 +1,6 @@
 ---
-tags: 
-- Quelle/5e/Xanathars_Guide_to_Everything
-- Klasse/Schurke
-aliases: 
-- Inquisitive
+tags: [Klasse/Schurke, Quelle/5e/Xanathars_Guide_to_Everything]
+aliases: [Inquisitive]
 ---
 # Ermittler
 _[[Schurke]]_: Schurkenarchetyp

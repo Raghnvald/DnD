@@ -1,17 +1,17 @@
 ---
 cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
-Bezeichnung: 
+Bezeichnung:
 Typ: Untoter
-Größe: 
-HG: 
-status:
+Größe: Riesig
+HG: 17
+Habitat:
+  - Berg
+  - Hügel
+status: WIP
 order:
 parent:
-image: 
-tags:
-- Quelle/5e/Mordenkainen
-- Typ/Untote
-aliases:
-- Adult Red Dracolich
+image:
+tags: [Quelle/5e/Mordenkainen_Presents_Monsters_of_the_Multiverse, Typ/Untote]
+aliases: [Adult Red Dracolich]
 ---

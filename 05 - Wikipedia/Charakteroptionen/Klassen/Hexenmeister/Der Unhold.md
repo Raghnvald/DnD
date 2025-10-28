@@ -1,6 +1,6 @@
 ---
-tags: Klasse/Hexenmeister/Unhold, Quelle/5e/PHB
-aliases: The Fiend
+tags: [Klasse/Hexenmeister/Unhold, Quelle/5e/Players_Handbook]
+aliases: [The Fiend]
 ---
 Der Unhold
 ==========

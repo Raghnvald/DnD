@@ -1,6 +1,6 @@
 ---
-tags: Klasse/Waldläufer/Jäger, Quelle/5e/PHB
-aliases: Hunter
+tags: [Klasse/Waldläufer/Jäger, Quelle/5e/Players_Handbook]
+aliases: [Hunter]
 ---
 Jäger
 =====

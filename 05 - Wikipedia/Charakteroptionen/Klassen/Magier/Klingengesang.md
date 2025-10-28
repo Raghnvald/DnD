@@ -1,6 +1,6 @@
 ---
-tags: Klasse/Magier/Klingengesang, Quelle/5e/SCAG
-aliases: Bladesinging
+tags: [Klasse/Magier/Klingengesang, Quelle/5e/Sword_Coast_Adventurers_Guide]
+aliases: [Bladesinging]
 ---
 Klingengesang
 =============

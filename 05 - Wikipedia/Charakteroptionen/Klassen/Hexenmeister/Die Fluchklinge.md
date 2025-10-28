@@ -1,6 +1,6 @@
 ---
-tags: Klasse/Hexenmeister/Fluchklinge, Quelle/5e/PHB, Quelle/5e/SRD
-aliases: The Hexblade
+tags: [Klasse/Hexenmeister/Fluchklinge, Quelle/5e/Players_Handbook, Quelle/5e/SRD]
+aliases: [The Hexblade]
 ---
 Die Fluchklinge
 ==========

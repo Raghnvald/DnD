@@ -1,3 +1,6 @@
+---
+tags: [Quelle/5e/Curse_of_Strahd]
+---
 # Epilog
 Strahd ist eine tödliche Herausforderung für die Charaktere. Wenn sie dem Vampir zu früh gegenübertreten, ohne den Vorteil magischer Gegenstände wie dem _[Heiligen Symbol der Raben](Heiliges%20Symbol%20der%20Raben.md) und dem _[Sonnenschwert](../../05%20-%20Wikipedia/Gegenstände/Sonnenschwert.md)_, werden sie wahrscheinlich zugrunde gehen. Charaktere können ihre Überlebenschancen erhöhen, indem sie das Land Barovia erkunden, geringere Übel beseitigen und Verbündete, magische Gegenstände und Erfahrungsgrade erhalten.
 $\quad$ Das Ergebnis der finalen Konfrontation zwischen Strahd und den Charakteren bestimmt, wie das Abenteuer endet.

@@ -7,15 +7,16 @@ Wirkungsdauer: Unmittelbar
 Angriff: n/v
 Schaden: n/v
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Barde
-- Klasse/Magier
-- Zauber/Original/Identify
-- Zauber/Grad/1
-- Zauber/Ritual
-- Zauber/Schule/Erkenntnis
+  - Quelle/5e/Players_Handbook
+  - Klasse/Barde
+  - Klasse/Magier
+  - Zauber/Original/Identify
+  - Zauber/Grad/1
+  - Zauber/Ritual
+  - Zauber/Schule/Erkenntnis
 aliases:
-- Identify
+  - Identify
+status: completed
 ---
 # Identifizieren
 _Erkenntniszauber des 1. Grades (Ritual)_

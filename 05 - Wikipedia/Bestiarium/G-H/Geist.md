@@ -4,7 +4,7 @@ prefer-view: edit-source read
 Bezeichnung:
 Typ: Untoter
 Größe: Mittelgroß
-HG:
+HG: 4
 status: WIP
 order:
 parent:

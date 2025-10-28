@@ -4,7 +4,7 @@ prefer-view: edit-source read
 Bezeichnung:
 Typ: Untoter
 Größe: Riesig
-HG:
+HG: 7
 status: WIP
 order:
 parent:

@@ -1,7 +1,4 @@
 ---
-tags: 
-- Quelle/5e/The_Griffon_Saddlebag_2
-- Klasse/Paladin
-aliases: 
-- Oath of the Spelldrinker
+tags: [Klasse/Paladin, Quelle/5e/The_Griffon_Saddlebag_2]
+aliases: [Oath of the Spelldrinker]
 ---

@@ -1,3 +1,6 @@
+---
+tags: [Quelle/5e/Curse_of_Strahd]
+---
 # Anhang A: Charakter-Optionen
 
 ## Charakterhintergrund

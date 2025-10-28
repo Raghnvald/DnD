@@ -2,18 +2,20 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Barde
-- Klasse/Druide
-- Klasse/Kleriker
-- Klasse/Magier
-- Klasse/Paladin
-- Klasse/Waldläufer
-- Klasse/Zauberer
-- Zauber/Grad/1
-- Zauber/Ritual
-- Zauber/Schule/Erkenntnis
-aliases: ["Detect Magic"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Barde
+  - Klasse/Druide
+  - Klasse/Kleriker
+  - Klasse/Magier
+  - Klasse/Paladin
+  - Klasse/Waldläufer
+  - Klasse/Zauberer
+  - Zauber/Grad/1
+  - Zauber/Ritual
+  - Zauber/Schule/Erkenntnis
+aliases:
+  - Detect Magic
+status: WIP
 ---
 # Magie entdecken
 *Erkenntniszauber des 1. Zaubergrades (Ritual)*

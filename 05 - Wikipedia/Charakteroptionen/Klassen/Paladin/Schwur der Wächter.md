@@ -1,20 +1,17 @@
 ---
-prefer-view: 
-- edit-source read
-type: 
-- character
-tags: 
-- Quelle/5e/Xanathars_Guide_to_Everything
-- Klasse/Paladin 
-aliases: 
-- Oath of the Watchers
-link:
-- https://www.dndbeyond.com/classes/2190881-paladin
+prefer-view:
+  - edit-source read
 status:
-- completed
+  - completed
 order:
 parent:
-- Paladin
+  - Paladin
+tags: [Klasse/Paladin, Quelle/5e/Xanathars_Guide_to_Everything]
+aliases: [Oath of the Watchers]
+link:
+  - https://www.dndbeyond.com/classes/2190881-paladin
+type:
+  - character
 ---
 # Schwur der Wächter
 _[[Paladin]]:_ Heiliger Schwur

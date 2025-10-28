@@ -1,14 +1,8 @@
 ---
+tags: [Quelle/5e/Dungeon_Masters_Guide]
 Feet: 80
 Meter: 0
 ---
-tags:
-- Quelle/5e/PHB
-aliases:
-- 
----
----
-
 | Type | Input                | Meter               |
 | ---- | -------------------- | ------------------- |
 | Feet | `INPUT[number:Feet]` | `VIEW[{Feet}/10*3]` |

@@ -1,3 +1,6 @@
+---
+tags: [Quelle/5e/Basic_Rules]
+---
 # Zustände
 
 Zustände verändern die Fähigkeiten von Kreaturen auf vielfältige Arten und können das Ergebnis von Zaubern, Klassenmerkmalen, Monsterangriffen oder anderen Effekten sein. Die meisten Zustände wie etwa Blind sind Einschränkungen, einige andere wie etwa Unsichtbar können vorteilhaft sein.

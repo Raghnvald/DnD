@@ -1,9 +1,6 @@
 ---
-tags: 
-- Quelle/5e/Players_Handbook
-- Klasse/Schurke
-aliases: 
-- Assassin
+tags: [Klasse/Schurke, Quelle/5e/Players_Handbook]
+aliases: [Assassin]
 ---
 # Assassine
 _[[Schurke]]_: Schurkenarchetyp

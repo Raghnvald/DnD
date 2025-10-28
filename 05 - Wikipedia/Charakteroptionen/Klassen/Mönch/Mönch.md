@@ -1,6 +1,6 @@
 ---
-tags: Klasse/Mönch, Quelle/5e/PHB
-aliases: Monk
+tags: [Klasse/Mönch, Quelle/5e/Players_Handbook]
+aliases: [Monk]
 ---
 Monk
 ====

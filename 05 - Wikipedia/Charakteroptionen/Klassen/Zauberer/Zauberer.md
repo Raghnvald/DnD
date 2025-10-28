@@ -1,9 +1,6 @@
 ---
-tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Zauberer
-aliases: 
-- Sorcerer
+tags: [Klasse/Zauberer, Quelle/5e/Players_Handbook]
+aliases: [Sorcerer]
 ---
 # Zauberer
 _Quelle:_ Spielerhandbuch  

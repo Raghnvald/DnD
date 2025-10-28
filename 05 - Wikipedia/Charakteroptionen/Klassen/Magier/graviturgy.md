@@ -1,6 +1,6 @@
 ---
-tags: Klasse/Magier/Graviturgy, Quelle/5e/EGtW
-aliases: War Magic
+tags: [Klasse/Magier/Graviturgy, Quelle/5e/EGtW]
+aliases: [War Magic]
 ---
 Graviturgy Magic
 ================

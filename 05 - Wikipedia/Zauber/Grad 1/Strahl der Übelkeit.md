@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Magier
-- Klasse/Zauberer
-- Zauber/Grad/1
-- Zauber/Schule/Nekromantie
-aliases: ["Ray of Sickness"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Magier
+  - Klasse/Zauberer
+  - Zauber/Grad/1
+  - Zauber/Schule/Nekromantie
+aliases:
+  - Ray of Sickness
+status: WIP
 ---
 # Strahl der Übelkeit
 ![](../../../99%20-%20Setup/Files/Bildersammlung/Symbolik/Nekromantiezauber.webp#token)

@@ -6,18 +6,19 @@ Komponenten: G
 Wirkungsdauer: 1 Runde
 Angriff: n/v
 Schaden: n/v
-tags: 
-- Quelle/5e/Xanathars_Guide_to_Everything
-- Klasse/Druide
-- Klasse/Magier
-- Klasse/Magieschmied
-- Klasse/Waldläufer
-- Klasse/Zauberer
-- Zauber/Original/Absorb_Elements
-- Zauber/Grad/1
-- Zauber/Schule/Bann
-aliases: 
-- Absorb Elements
+tags:
+  - Quelle/5e/Xanathars_Guide_to_Everything
+  - Klasse/Druide
+  - Klasse/Magier
+  - Klasse/Magieschmied
+  - Klasse/Waldläufer
+  - Klasse/Zauberer
+  - Zauber/Original/Absorb_Elements
+  - Zauber/Grad/1
+  - Zauber/Schule/Bann
+aliases:
+  - Absorb Elements
+status: completed
 ---
 # Elemente absorbieren
 _Bann des 1. Grades_

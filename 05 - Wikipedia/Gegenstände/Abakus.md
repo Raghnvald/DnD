@@ -4,12 +4,8 @@ Typ: Abenteuerausrüstung
 Eigenschaften: n/v
 Gew.: 1,0 kg
 Kst.: 2 GM
-tags:
-- Quelle/5e/Players_Handbook
-- Gegenstand/Ausrüstung
-- Gegenstand/Seltenheit/gewöhnlich
-aliases:
-- Abacus
+tags: [Gegenstand/Ausrüstung, Gegenstand/Seltenheit/gewöhnlich, Quelle/5e/Players_Handbook]
+aliases: [Abacus]
 ---
 # Abakus
 *Abenteuerausrüstung, gewöhnlich*

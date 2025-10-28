@@ -1,3 +1,6 @@
+---
+tags: [Quelle/5e/Curse_of_Strahd]
+---
 # **Anhang B: Dramatis Personae**
 
 Die folgenden Beschreibungen geben Einblick in die Motivationen und Verhaltensweisen einiger bedeutender Figuren aus Strahds Vergangenheit. Sie sind in der Reihenfolge ihres Auftretens aufgeführt.

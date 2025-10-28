@@ -1,9 +1,6 @@
 ---
-tags: 
-- Quelle/5e/Xanathars_Guide_to_Everything
-- Klasse/Zauberer 
-aliases:
-- Divine Soul
+tags: [Klasse/Zauberer, Quelle/5e/Xanathars_Guide_to_Everything]
+aliases: [Divine Soul]
 ---
 # Göttliche Seele
 _[[Zauberer]]_: Magische Herkunft

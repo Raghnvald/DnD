@@ -1,7 +1,4 @@
 ---
-tags: 
-- Quelle/5e/The_Crooked_Moon_Part_One
-- Klasse/Paladin
-aliases: 
-- Oath of Castigation
+tags: [Klasse/Paladin, Quelle/5e/The_Crooked_Moon_Part_One]
+aliases: [Oath of Castigation]
 ---

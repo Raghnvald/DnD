@@ -1,13 +1,15 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
+status: WIP
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Barde
-- Klasse/Magier
-- Zauber/Grad/1
-- Zauber/Schule/Verzauberung
-aliases: ["Tasha's Hideous Laughter"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Barde
+  - Klasse/Magier
+  - Zauber/Grad/1
+  - Zauber/Schule/Verzauberung
+aliases:
+  - Tasha's Hideous Laughter
+obsidianUIMode: preview
 ---
 # Tasha's Fürchterlicher Lachanfall
 ![](../../../99%20-%20Setup/Files/Bildersammlung/Symbolik/Verzauberungszauber.webp#token)

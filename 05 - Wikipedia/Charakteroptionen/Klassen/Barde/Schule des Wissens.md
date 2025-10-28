@@ -1,9 +1,6 @@
 ---
-tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Barde
-aliases:
-- College of Lore
+tags: [Klasse/Barde, Quelle/5e/Players_Handbook]
+aliases: [College of Lore]
 ---
 # Schule des Wissens
 _[[Barde]]_: Bardenschule

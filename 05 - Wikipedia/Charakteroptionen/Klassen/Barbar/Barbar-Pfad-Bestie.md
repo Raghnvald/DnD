@@ -1,6 +1,6 @@
 ---
-tags: Klasse/Barbar/Bestie, Quelle/5e/TCoE
-aliases: Path of the Beast
+tags: [Klasse/Barbar/Bestie, Quelle/5e/Tashas_Cauldron_of_Everything]
+aliases: [Path of the Beast]
 ---
 Pfad der Bestie
 ===============

@@ -5,6 +5,7 @@ Bezeichnung: Beobachter
 Typ: Aberration
 Größe: Mittelgroß
 HG: 3
+Habitat: 
 status:
 order:
 parent:

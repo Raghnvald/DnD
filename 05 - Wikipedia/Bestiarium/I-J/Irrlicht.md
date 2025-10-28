@@ -4,7 +4,7 @@ prefer-view: edit-source read
 Bezeichnung:
 Typ: Untoter
 Größe: Winzig
-HG:
+HG: 2
 status: WIP
 order:
 parent:

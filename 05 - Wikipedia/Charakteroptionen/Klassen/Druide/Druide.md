@@ -1,9 +1,6 @@
 ---
-tags: 
-- Quelle/5e/Players_Handbook
-- Klasse/Druide
-aliases:
-- Druid
+tags: [Klasse/Druide, Quelle/5e/Players_Handbook]
+aliases: [Druid]
 ---
 # Druide
 _Quelle:_ Spielerhandbuch

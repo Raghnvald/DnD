@@ -1,17 +1,17 @@
 ---
 cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
-Bezeichnung: 
+Bezeichnung:
 Typ: Untoter
-Größe: 
-HG: 
-status:
+Größe: Winzig
+HG: 1/2
+status: WIP
 order:
 parent:
-image: 
+image:
 tags:
-- Quelle/5e/Van_Richten
-- Typ/Untote
+  - Quelle/5e/Van_Richtens_Guide_to_Ravenloft
+  - Typ/Untote
 aliases:
-- Death's Head
+  - Death's Head
 ---

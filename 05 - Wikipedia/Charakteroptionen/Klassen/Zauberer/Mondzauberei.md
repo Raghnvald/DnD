@@ -1,9 +1,6 @@
 ---
-tags:
-- Quelle/5e/Shadow_of_the_Dragon_Queen
-- Klasse/Zauberer
-aliases: 
-- Lunar Sorcery
+tags: [Klasse/Zauberer, Quelle/5e/Shadow_of_the_Dragon_Queen]
+aliases: [Lunar Sorcery]
 ---
 # Mondzauberei
 _[[Zauberer]]_: Magische Herkunft

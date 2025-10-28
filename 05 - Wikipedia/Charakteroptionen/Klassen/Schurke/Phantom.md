@@ -1,9 +1,6 @@
 ---
-tags: 
-- Quelle/5e/Tashas_Cauldron_of_Everything
-- Klasse/Schurke
-aliases: 
-- Phantom
+tags: [Klasse/Schurke, Quelle/5e/Tashas_Cauldron_of_Everything]
+aliases: [Phantom]
 ---
 # Phantom
 _[[Schurke]]_: Schurkenarchetyp

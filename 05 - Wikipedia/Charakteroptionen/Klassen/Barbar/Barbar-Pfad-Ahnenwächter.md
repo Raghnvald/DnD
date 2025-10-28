@@ -1,6 +1,6 @@
 ---
-tags: Klasse/Barbar/Ahnenwächter, Quelle/5e/XGtE
-aliases: Path of the Ancestral Guardian
+tags: [Klasse/Barbar/Ahnenwächter, Quelle/5e/Xanathars_Guide_to_Everything]
+aliases: [Path of the Ancestral Guardian]
 ---
 Pfad des Ahnenwächters
 ======================

@@ -6,15 +6,16 @@ Komponenten: V
 Wirkungsdauer: K, <1 Minute
 Angriff: WEI
 Schaden: n/a
-tags: 
-- Quelle/5e/Xanathars_Guide_to_Everything
-- Klasse/Hexenmeister
-- Klasse/Magier
-- Zauber/Original/Cause_Fear
-- Zauber/Grad/1
-- Zauber/Schule/Nekromantie
+status: completed
+tags:
+  - Quelle/5e/Xanathars_Guide_to_Everything
+  - Klasse/Hexenmeister
+  - Klasse/Magier
+  - Zauber/Original/Cause_Fear
+  - Zauber/Grad/1
+  - Zauber/Schule/Nekromantie
 aliases:
-- Cause Fear
+  - Cause Fear
 ---
 # Angst verursachen
 _Nekromantie des 1. Grades_

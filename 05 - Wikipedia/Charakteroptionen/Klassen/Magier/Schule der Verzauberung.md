@@ -1,10 +1,6 @@
 ---
-tags: 
-- Klasse/Magier/Verzauberung
-- Quelle/5e/Players_Handbook
-- Quelle/5e/SRD
-aliases: 
-- School of Enchantment
+tags: [Klasse/Magier/Verzauberung, Quelle/5e/Players_Handbook, Quelle/5e/SRD]
+aliases: [School of Enchantment]
 ---
 Schule der Verzauberung
 =======================

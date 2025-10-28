@@ -1,21 +1,17 @@
 ---
-prefer-view: 
-- edit-source read
-type: 
-- character
-tags: 
-- Quelle/5e/Xanathars_Guide_to_Everything
-- Klasse/Kleriker
-- Götter/Domäne/Wissen
-aliases: 
-- Forge Domain
-link:
-- https://www.dndbeyond.com/classes/2190877-cleric
+prefer-view:
+  - edit-source read
 status:
-- completed
+  - completed
 order:
 parent:
-- Kleriker
+  - Kleriker
+tags: [Götter/Domäne/Wissen, Klasse/Kleriker, Quelle/5e/Xanathars_Guide_to_Everything]
+aliases: [Forge Domain]
+link:
+  - https://www.dndbeyond.com/classes/2190877-cleric
+type:
+  - character
 ---
 # Domäne der Schmiede
 _[[Kleriker]]:_ Göttliche Domäne

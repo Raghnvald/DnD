@@ -9,8 +9,6 @@ status:
 order:
 parent:
 image: 
-tags:
-- Quelle/5e/Monster_Manual
-- Typ/Elementar
-aliases:
+tags: [Quelle/5e/Monster_Manual, Typ/Elementar]
+aliases: []
 ---

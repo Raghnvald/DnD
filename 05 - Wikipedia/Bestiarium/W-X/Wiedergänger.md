@@ -4,7 +4,14 @@ prefer-view: edit-source read
 Bezeichnung:
 Typ: Untoter
 Größe: Mittelgroß
-HG:
+HG: 5
+Habitat:
+  - Arktis
+  - Hügel
+  - Stadt
+  - Sumpf
+  - Wald
+  - Wüste
 status: WIP
 order:
 parent:

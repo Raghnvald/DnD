@@ -2,14 +2,10 @@
 Bezeichnung: Aaskriecherschleim
 Typ: Gift
 Eigenschaften: Gift
-Kst.: 200 GM
 Gew.: n/v
-tags:
-- Quelle/5e/Dungeon_Masters_Guide
-- Gegenstand/Ausrüstung/Gift
-- Gegenstand/Eigenschaft/Gift
-aliases:
-- Crawler Mucus (Contact)
+Kst.: 200 GM
+tags: [Gegenstand/Ausrüstung/Gift, Gegenstand/Eigenschaft/Gift, Quelle/5e/Dungeon_Masters_Guide]
+aliases: [Crawler Mucus (Contact)]
 ---
 # Aaskriecherschleim (Kontakt)
 *Abenteuerausrüstung, Gift*  

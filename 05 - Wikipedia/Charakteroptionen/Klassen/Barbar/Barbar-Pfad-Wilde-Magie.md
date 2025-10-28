@@ -1,6 +1,6 @@
 ---
-tags: Klasse/Barbar/Wilde-Magie, Quelle/5e/TCoE
-aliases: Path of Wild Magic
+tags: [Klasse/Barbar/Wilde-Magie, Quelle/5e/Tashas_Cauldron_of_Everything]
+aliases: [Path of Wild Magic]
 ---
 Pfad der Wilden Magie
 =====================

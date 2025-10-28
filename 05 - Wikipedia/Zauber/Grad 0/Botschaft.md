@@ -6,6 +6,8 @@ Komponenten: V, G, M
 Wirkungsdauer: 1 Runde
 Angriff: nichts
 Schaden: Kommunikation
+status:
+- completed
 tags:
 - Quelle/5e/Players_Handbook
 - Klasse/Barde
@@ -18,8 +20,6 @@ tags:
 - Zauber/Schule/Verwandlung
 aliases:
 - Message
-status:
-- completed
 ---
 # Botschaft
 _Zaubertrick der Verwandlung_

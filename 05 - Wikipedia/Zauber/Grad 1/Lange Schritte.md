@@ -1,15 +1,17 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
+status: WIP
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Barde
-- Klasse/Druide
-- Klasse/Waldläufer
-- Klasse/Magier
-- Zauber/Grad/1
-- Zauber/Schule/Verwandlung
-aliases: ["Longstrider"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Barde
+  - Klasse/Druide
+  - Klasse/Waldläufer
+  - Klasse/Magier
+  - Zauber/Grad/1
+  - Zauber/Schule/Verwandlung
+aliases:
+  - Longstrider
+obsidianUIMode: preview
 ---
 # Longstrider
 *1st-level, Transmutation*  
