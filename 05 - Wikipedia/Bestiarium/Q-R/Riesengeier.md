@@ -1,13 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- Quelle/5e/Monster_Manual
-- Habitat/Wüste
-- Habitat/Grasland
-- Größe/Groß
-- Typ/Tier
-aliases: ["Giant Vulture"]
+  - Quelle/5e/Monster_Manual
+  - Habitat/Wüste
+  - Habitat/Grasland
+  - Größe/Groß
+  - Typ/Tier
+aliases:
+  - Giant Vulture
 ---
 # Giant Vulture
 *Source: SRD / Basic Rules*  

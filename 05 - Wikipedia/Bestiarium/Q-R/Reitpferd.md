@@ -1,21 +1,20 @@
 ---
 cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
-Bezeichnung: 
+Bezeichnung:
 Typ: Bestie
-Größe: 
-HG: 
+Größe:
+HG:
 status:
-order:
-parent:
-image: 
+image:
 tags:
-- Quelle/5e/Monster_Manual
-- Habitat/Grasland
-- Habitat/Stadt
-- Größe/Groß
-- Typ/Tier
-aliases: ["Riding Horse"]
+  - Quelle/5e/Monster_Manual
+  - Habitat/Grasland
+  - Habitat/Stadt
+  - Größe/Groß
+  - Typ/Tier
+aliases:
+  - Riding Horse
 ---
 # Riding Horse
 *Source: SRD / Basic Rules*  

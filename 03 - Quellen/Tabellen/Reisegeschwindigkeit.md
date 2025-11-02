@@ -1,9 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- Quelle/5e/Players_Handbook
-aliases: ["Travel Pace"]
+  - Quelle/5e/Players_Handbook
+aliases:
+  - Travel Pace
 ---
 # Reisegeschwindigkeit
 *Quelle: SRD / Grundregelwerk*

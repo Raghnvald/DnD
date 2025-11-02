@@ -1,19 +1,20 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- Quelle/5e/Dungeon_Masters_Guide
-- Gegenstand/Einstimmung/erforderlich
-- Gegenstand/Seltenheit/selten
-- Gegenstand/Tier/major
-- Gegenstand/wundersam/Zauberstab
-aliases: ["Wand of Wonder"]
+- Quelle/5e/dmg
+- ttrpg-cli/item/attunement/required
+- ttrpg-cli/item/rarity/rare
+- ttrpg-cli/item/tier/major
+- ttrpg-cli/item/wondrous/wand
+aliases: 
+- "Wand of Wonder"
 ---
 # Wand of Wonder
 *Wand, major, rare (requires attunement by a spellcaster)*  
+![](/3-Mechanics/CLI/items/img/wand-of-wonder.webp#right)
 
-- **Properties**: Requires Attunement
-- **Cost**: ⏤
 - **Weight**: 1.0 lbs.
 
 This wand has 7 charges. While holding it, you can use an action to expend 1 of its charges and choose a target within 120 feet of you. The target can be a creature, an object, or a point in space. Roll `d100` and consult the following table to discover what happens.
@@ -26,28 +27,28 @@ The wand regains `1d6 + 1` expended charges daily at dawn. If you expend the wan
 
 | dice: d100 | Effect |
 |------------|--------|
-| 01-05 | You cast [Verlangsamen](Verlangsamen.md). |
-| 06-10 | You cast [faerie fire](Feenfeuer.md). |
-| 11-15 | You are [stunned](rules/conditions.md#stunned) until the start of your next turn, believing something awesome just happened. |
-| 16-20 | You cast [gust of wind](Windstoß.md). |
-| 21-25 | You cast [detect thoughts](Gedanken-wahrnehmen.md) on the target you chose. If you didn't target a creature, you instead take `1d6` psychic damage. |
-| 26-30 | You cast [stinking cloud](Stinkende-Wolke.md). |
+| 01-05 | You cast [slow](/3-Mechanics/CLI/spells/slow.md). |
+| 06-10 | You cast [faerie fire](/3-Mechanics/CLI/spells/faerie-fire.md). |
+| 11-15 | You are [stunned](/3-Mechanics/CLI/conditions.md#Stunned) until the start of your next turn, believing something awesome just happened. |
+| 16-20 | You cast [gust of wind](/3-Mechanics/CLI/spells/gust-of-wind.md). |
+| 21-25 | You cast [detect thoughts](/3-Mechanics/CLI/spells/detect-thoughts.md) on the target you chose. If you didn't target a creature, you instead take `1d6` psychic damage. |
+| 26-30 | You cast [stinking cloud](/3-Mechanics/CLI/spells/stinking-cloud.md). |
 | 31-33 | Heavy rain falls in a 60-foot radius centered on the target. The area becomes lightly obscured. The rain falls until the start of your next turn. |
-| 34-36 | An animal appears in the unoccupied space nearest the target. The animal isn't under your control and acts as it normally would. Roll a `d100` to determine which animal appears. On a 01-25, a [Nashorn](Nashorn.md) appears; on a 26-50, an [elephant](Dungeons%20&%20Dragons/Wikipedia%20der%20Vergessenen%20Reiche/Kompendium%20der%20Vergessenen%20Reiche/Bestiarium/Bestien/elephant.md) appears; and on a 51-100, a [Ratte](Ratte.md) appears. |
-| 37-46 | You cast [lightning bolt](Blitz.md). |
+| 34-36 | An animal appears in the unoccupied space nearest the target. The animal isn't under your control and acts as it normally would. Roll a `d100` to determine which animal appears. On a 01-25, a [rhinoceros](/3-Mechanics/CLI/bestiary/beast/rhinoceros.md) appears; on a 26-50, an [elephant](/3-Mechanics/CLI/bestiary/beast/elephant.md) appears; and on a 51-100, a [rat](/3-Mechanics/CLI/bestiary/beast/rat.md) appears. |
+| 37-46 | You cast [lightning bolt](/3-Mechanics/CLI/spells/lightning-bolt.md). |
 | 47-49 | A cloud of 600 oversized butterflies fills a 30-foot radius centered on the target. The area becomes heavily obscured. The butterflies remain for 10 minutes. |
-| 50-53 | You enlarge the target as if you had cast [enlarge/reduce](Vergrößern-Verkleinern.md). If the target can't be affected by that spell or if you didn't target a creature, you become the target. |
-| 54-58 | You cast [Dunkelheit](Dunkelheit.md). |
+| 50-53 | You enlarge the target as if you had cast [enlarge/reduce](/3-Mechanics/CLI/spells/enlarge-reduce.md). If the target can't be affected by that spell or if you didn't target a creature, you become the target. |
+| 54-58 | You cast [darkness](/3-Mechanics/CLI/spells/darkness.md). |
 | 59-62 | Grass grows on the ground in a 60-foot radius centered on the target. If grass is already there, it grows to ten times its normal size and remains overgrown for 1 minute. |
 | 63-65 | An object of the DM's choice disappears into the Ethereal Plane. The object must be neither worn nor carried, within 120 feet of the target, and no larger than 10 feet in any dimension. |
-| 66-69 | You shrink yourself as if you had cast [enlarge/reduce](Vergrößern-Verkleinern.md) on yourself. |
-| 70-79 | You cast [Feuerball](Feuerball.md). |
-| 80-84 | You cast [Invisibility](Verschiedenes/Archiv/DND/Archiv/Wiki/Invisibility.md) on yourself. |
+| 66-69 | You shrink yourself as if you had cast [enlarge/reduce](/3-Mechanics/CLI/spells/enlarge-reduce.md) on yourself. |
+| 70-79 | You cast [fireball](/3-Mechanics/CLI/spells/fireball.md). |
+| 80-84 | You cast [invisibility](/3-Mechanics/CLI/spells/invisibility.md) on yourself. |
 | 85-87 | Leaves grow from the target. If you chose a point in space as the target, leaves sprout from the creature nearest to that point. Unless they are picked off, the leaves turn brown and fall off after 24 hours. |
 | 88-90 | A stream of `1d4 × 10` gems, each worth 1 gp, shoots from the wand's tip in a line 30 feet long and 5 feet wide. Each gem deals 1 bludgeoning damage, and the total damage of the gems is divided equally among all creatures in the line. |
-| 91-95 | A burst of colorful shimmering light extends from you in a 30-foot radius. You and each creature in the area that can see must succeed on a DC 15 Constitution saving throw or become [blinded](rules/conditions.md#blinded) for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. |
+| 91-95 | A burst of colorful shimmering light extends from you in a 30-foot radius. You and each creature in the area that can see must succeed on a DC 15 Constitution saving throw or become [blinded](/3-Mechanics/CLI/conditions.md#Blinded) for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. |
 | 96-97 | The target's skin turns bright blue for `1d10` days. If you chose a point in space, the creature nearest to that point is affected. |
-| 98-00 | If you targeted a creature, it must make a DC 15 Constitution saving throw. If you didn't target a creature, you become the target and must make the saving throw. If the saving throw fails by 5 or more, the target is instantly [petrified](rules/conditions.md#petrified). On any other failed save, the target is [restrained](rules/conditions.md#restrained) and begins to turn to stone. While [restrained](rules/conditions.md#restrained) in this way, the target must repeat the saving throw at the end of its next turn, becoming [petrified](rules/conditions.md#petrified) on a failure or ending the effect on a success. The petrification lasts until the target is freed by the [greater restoration](Vollständige%20Genesung.md) spell or similar magic. |
+| 98-00 | If you targeted a creature, it must make a DC 15 Constitution saving throw. If you didn't target a creature, you become the target and must make the saving throw. If the saving throw fails by 5 or more, the target is instantly [petrified](/3-Mechanics/CLI/conditions.md#Petrified). On any other failed save, the target is [restrained](/3-Mechanics/CLI/conditions.md#Restrained) and begins to turn to stone. While [restrained](/3-Mechanics/CLI/conditions.md#Restrained) in this way, the target must repeat the saving throw at the end of its next turn, becoming [petrified](/3-Mechanics/CLI/conditions.md#Petrified) on a failure or ending the effect on a success. The petrification lasts until the target is freed by the [greater restoration](/3-Mechanics/CLI/spells/greater-restoration.md) spell or similar magic. |
 ^effect
 
-*Source: SRD / Basic Rules*
+*Source: Dungeon Master's Guide p. 212. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

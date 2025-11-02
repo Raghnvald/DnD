@@ -1,0 +1,24 @@
+---
+cssclasses:
+  - json5e-item
+tags:
+  - Quelle/5e/pabtso
+  - ttrpg-cli/item/armor/medium
+  - ttrpg-cli/item/rarity/rare
+aliases:
+  - Dragonguard
+---
+# Dragonguard
+*Medium armor ([breastplate](/3-Mechanics/CLI/items/breastplate-xphb.md)), rare*  
+
+
+- **Armor Class**: 14 + Dex modifier (max of +2)
+- **Weight**: 20.0 lbs.
+
+You have a +1 bonus to AC while wearing this armor.
+
+This breastplate has a gold dragon motif worked into its design. Created for a human hero of old Neverwinter named Tergon, it grants its wearer advantage on saving throws against the breath weapons of Dragons.
+
+This armor consists of a fitted metal chest piece worn with supple leather. Although it leaves the legs and arms relatively unprotected, this armor provides good protection for the wearer's vital organs while leaving the wearer relatively unencumbered.
+
+*Source: Phandelver and Below: The Shattered Obelisk p. 72*

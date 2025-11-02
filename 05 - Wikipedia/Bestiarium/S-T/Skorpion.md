@@ -1,20 +1,19 @@
 ---
 cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
-Bezeichnung: 
+Bezeichnung:
 Typ: Bestie
-Größe: 
-HG: 
+Größe:
+HG:
 status:
-order:
-parent:
-image: 
+image:
 tags:
-- Quelle/5e/Monster_Manual
-- Habitat/Wüste
-- Größe/Winzig
-- Typ/Tier
-aliases: ["Scorpion"]
+  - Quelle/5e/Monster_Manual
+  - Habitat/Wüste
+  - Größe/Winzig
+  - Typ/Tier
+aliases:
+  - Scorpion
 ---
 # Scorpion
 *Source: SRD / Basic Rules*  

@@ -1,10 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- Quelle/5e/Players_Handbook
-- Kompendium/Optionales/Metamagie
-aliases: ["Twinned Spell"]
+  - Quelle/5e/Players_Handbook
+  - Kompendium/Optionales/Metamagie
+aliases:
+  - Twinned Spell
 ---
 # Gespiegelter Zauber
 *Quelle: SRD / Grundregelwerk / Spielerhandbuch*  

@@ -1,13 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Zauberer
-- Klasse/Magier
-- Zauber/Grad/6
-- Zauber/Schule/Bann
-aliases: ["Globe of Invulnerability"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Zauberer
+  - Klasse/Magier
+  - Zauber/Grad/6
+  - Zauber/Schule/Bann
+aliases:
+  - Globe of Invulnerability
 ---
 # Globe of Invulnerability
 *6th-level, Abjuration*  

@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- Quelle/5e/Players_Handbook
-- Gegenstand/Ausrüstung/Instrument
-aliases: 
-- Shawm
+  - Quelle/5e/Players_Handbook
+  - Gegenstand/Ausrüstung/Instrument
+aliases:
+  - Shawm
 Bezeichnung: Schalmei
 Typ: Instrument
 Eigenschaften: n/v

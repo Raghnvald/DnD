@@ -7,7 +7,7 @@ Wirkungsdauer: K, <1 Minute
 Angriff: STR
 Schaden: 1d8 Wucht
 tags:
-- Quelle/5e/Xanathars_Guide_to_Everything
+- Quelle/5e/xge
 - Klasse/Druide
 - Klasse/Magier
 - Klasse/Zauberer

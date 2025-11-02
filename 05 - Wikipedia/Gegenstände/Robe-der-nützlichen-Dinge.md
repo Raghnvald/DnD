@@ -1,12 +1,12 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- Quelle/5e/Dungeon_Masters_Guide
-- Gegenstand/Seltenheit/ungewöhnlich
-- Gegenstand/Tier/minor
-- Gegenstand/wundersam
-aliases: ["Robe of Useful Items"]
+  - Quelle/5e/Dungeon_Masters_Guide
+  - Gegenstand/Seltenheit/ungewöhnlich
+  - Gegenstand/Tier/minor
+  - Gegenstand/wundersam
+aliases:
+  - Robe of Useful Items
 ---
 # Robe of Useful Items
 *Wondrous Item, minor, uncommon*  

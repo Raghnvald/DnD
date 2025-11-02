@@ -1,10 +1,15 @@
 ---
-tags:
-  - Quelle/5e/Mordenkainen_Presents_Monsters_of_the_Multiverse
-  - Typ/Untote/Hexenmeister
-aliases:
-  - Deathlock Mastermind
-status: WIP
+cssclasses: dnd5e-only-statblock
+prefer-view: edit-source read
+Bezeichnung:
+Typ: Untoter (Hexenmeister)
 Größe: Mittelgroß
 HG: 8
+status: WIP
+tags:
+  - Quelle/5e/mpmm
+aliases:
+  - Deathlock Mastermind
+Habitat:
+  - Stadt
 ---

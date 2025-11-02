@@ -1,11 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-monster
-tags:
-- Quelle/5e/Monster_Manual
-- Habitat/Wald
-- Größe/Mittelgroß
-- Typ/Fee
+cssclasses: dnd5e-only-statblock
+prefer-view: edit-source read
+Bezeichnung: Dryade
+Typ: Feenwesen
+Größe: Mittelgroß
+HG: 1
+Habitat:
+  - Wald
+status: WIP
+image:
+tags: [Quelle/5e/Monster_Manual]
 aliases: ["Dryad"]
 ---
 # Dryade

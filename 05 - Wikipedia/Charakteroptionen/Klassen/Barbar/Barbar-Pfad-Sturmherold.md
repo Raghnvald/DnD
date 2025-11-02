@@ -1,5 +1,5 @@
 ---
-tags: [Klasse/Barbar/Sturmherold, Quelle/5e/Xanathars_Guide_to_Everything]
+tags: [Klasse/Barbar/Sturmherold, Quelle/5e/xge]
 aliases: [Path of the Berserker]
 ---
 Pfad des Sturmherolds

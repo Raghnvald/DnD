@@ -1,5 +1,5 @@
 ---
-tags: [Klasse/Zauberer, Quelle/5e/Tashas_Cauldron_of_Everything]
+tags: [Klasse/Zauberer, Quelle/5e/tce]
 aliases: [Abberant Mind]
 ---
 # Ungewöhnlicher Verstand

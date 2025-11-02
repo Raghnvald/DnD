@@ -1,15 +1,15 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Barde
-- Klasse/Druide
-- Klasse/Waldläufer
-- Zauber/Grad/2
-- Zauber/Ritual
-- Zauber/Schule/Verzauberung
-aliases: ["Animal Messenger"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Barde
+  - Klasse/Druide
+  - Klasse/Waldläufer
+  - Zauber/Grad/2
+  - Zauber/Ritual
+  - Zauber/Schule/Verzauberung
+aliases:
+  - Animal Messenger
 ---
 # Tierbote
 ![](../../../99%20-%20Setup/Files/Bildersammlung/Symbolik/Verzauberungszauber.webp#token)

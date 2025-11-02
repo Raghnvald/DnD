@@ -1,26 +1,25 @@
 ---
 cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
-Bezeichnung: 
+Bezeichnung:
 Typ: Bestie
-Größe: 
-HG: 
+Größe:
+HG:
 status:
-order:
-parent:
-image: 
+image:
 tags:
-- Quelle/5e/Monster_Manual
-- Habitat/Wüste
-- Habitat/Wald
-- Habitat/Grasland
-- Habitat/Hügel
-- Habitat/Sumpf
-- Habitat/Unterreich
-- Habitat/Stadt
-- Größe/Mittelgroß
-- Typ/Tier
-aliases: ["Swarm of Spiders"]
+  - Quelle/5e/Monster_Manual
+  - Habitat/Wüste
+  - Habitat/Wald
+  - Habitat/Grasland
+  - Habitat/Hügel
+  - Habitat/Sumpf
+  - Habitat/Unterreich
+  - Habitat/Stadt
+  - Größe/Mittelgroß
+  - Typ/Tier
+aliases:
+  - Swarm of Spiders
 ---
 # Swarm of Spiders
 *Source: SRD / Basic Rules*  

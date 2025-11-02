@@ -1,22 +1,22 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-monster
-tags:
-- Quelle/5e/Monster_Manual
-- Typ/Humanoid/Goblinoid
-- Typ/Fee/Goblinoid
-- Größe/Klein
-- Habitat/Grasland
-- Habitat/Hügel
-- Habitat/Planar/Acheron
-- Habitat/Planar/Feenwildnis
-- Habitat/Unterreich
-- Habitat/Wald
-aliases: ["Goblin"]
+cssclasses: dnd5e-only-statblock
+prefer-view: edit-source read
+Bezeichnung:
+Typ: Feenwesen (Goblinoid)
+Größe: Klein
+HG:
+Habitat:
+  - Grasland
+  - Hügel
+  - Planar (Acheron)
+  - Planar (Fernwildnis)
+  - Unterreich
+  - Wald
+status: WIP
+image:
+tags: [Quelle/5e/Monster_Manual]
+aliases: [Goblin Warrior]
 ---
-# Goblin (2014)
-
-
 # Goblins (2024)
 _Wilde Gauner und Störenfriede_
 

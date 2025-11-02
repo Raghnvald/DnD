@@ -1,9 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- Quelle/5e/Players_Handbook
-aliases: ["Getting Into and Out of Armor; Donning and Doffing Armor"]
+  - Quelle/5e/Players_Handbook
+aliases:
+  - Getting Into and Out of Armor; Donning and Doffing Armor
 ---
 # Rüstung und Schilde; Rüstungen an- und ablegen
 *Quelle: SRD / Grundregelwerk*

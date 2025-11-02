@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- Quelle/5e/Players_Handbook
-- Gegenstand/Rüstung/Mittel
-- Gegenstand/Seltenheit/gewöhnlich
-aliases: 
-- Hide Armor
+  - Quelle/5e/Players_Handbook
+  - Gegenstand/Rüstung/Mittel
+  - Gegenstand/Seltenheit/gewöhnlich
+aliases:
+  - Hide Armor
 Bezeichnung: Fellrüstung
 Typ: Rüstung
 Rüstung: Mittel

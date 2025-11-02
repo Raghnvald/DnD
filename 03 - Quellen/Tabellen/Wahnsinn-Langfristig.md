@@ -1,9 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- Quelle/5e/Dungeon_Masters_Guide
-aliases: ["Long-Term Madness"]
+  - Quelle/5e/Dungeon_Masters_Guide
+aliases:
+  - Long-Term Madness
 ---
 # Langfristiger Wahnsinn
 *Quelle: SRD / Grundregelwerk*

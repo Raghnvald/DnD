@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: dnd5e-compendium
 tags:
-- Quelle/5e/Players_Handbook
-- Gegenstand/Ausrüstung/Instrument
-aliases: 
-- Dulcimer
+  - Quelle/5e/Players_Handbook
+  - Gegenstand/Ausrüstung/Instrument
+aliases:
+  - Dulcimer
 Bezeichnung: Hackbrett
 Typ: Instrument
 Eigenschaften: n/v

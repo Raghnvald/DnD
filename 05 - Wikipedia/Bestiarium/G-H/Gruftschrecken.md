@@ -1,24 +1,19 @@
 ---
 cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
-Bezeichnung:
+Bezeichnung: Gruftschrecken
 Typ: Untoter
 Größe: Mittelgroß
 HG: 3
+Habitat:
+  - Stadt
+  - Sumpf
+  - Unterreich
+  - Wüste
 status: WIP
-order:
-parent:
 image:
-tags:
-  - Quelle/5e/Monster_Manual
-  - Habitat/Wüste
-  - Habitat/Sumpf
-  - Habitat/Unterreich
-  - Habitat/Stadt
-  - Größe/Mittelgroß
-  - Typ/Untote
-aliases:
-  - Wight
+tags: [Quelle/5e/Monster_Manual]
+aliases: [Wight]
 ---
 # Wight
 *Source: SRD / Basic Rules*  

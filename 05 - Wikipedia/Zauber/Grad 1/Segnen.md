@@ -1,13 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Kleriker
-- Klasse/Paladin
-- Zauber/Grad/1
-- Zauber/Schule/Verzauberung
-aliases: ["Bless"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Kleriker
+  - Klasse/Paladin
+  - Zauber/Grad/1
+  - Zauber/Schule/Verzauberung
+aliases:
+  - Bless
 ---
 # Segnen
 ![](../../../99%20-%20Setup/Files/Bildersammlung/Symbolik/Verzauberungszauber.webp#token)

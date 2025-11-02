@@ -1,13 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- Quelle/5e/Monster_Manual
-- Habitat/Küste
-- Habitat/Unterwasser
-- Größe/Groß
-- Typ/Monstrosität
-aliases: ["Merrow"]
+  - Quelle/5e/Monster_Manual
+  - Habitat/Küste
+  - Habitat/Unterwasser
+  - Größe/Groß
+  - Typ/Monstrosität
+aliases:
+  - Merrow
 ---
 # Merrow
 *Source: SRD / Basic Rules*  

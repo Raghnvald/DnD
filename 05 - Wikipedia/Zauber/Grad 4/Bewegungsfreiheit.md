@@ -1,15 +1,15 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Barde
-- Klasse/Kleriker
-- Klasse/Druide
-- Klasse/Waldläufer
-- Zauber/Grad/4
-- Zauber/Schule/Bann
-aliases: ["Freedom of Movement"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Barde
+  - Klasse/Kleriker
+  - Klasse/Druide
+  - Klasse/Waldläufer
+  - Zauber/Grad/4
+  - Zauber/Schule/Bann
+aliases:
+  - Freedom of Movement
 ---
 # Freedom of Movement
 *4th-level, Abjuration*  

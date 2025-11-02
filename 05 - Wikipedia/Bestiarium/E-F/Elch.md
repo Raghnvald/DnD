@@ -1,23 +1,21 @@
 ---
 cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
-Bezeichnung: 
+Bezeichnung:
 Typ: Bestie
-Größe: 
-HG: 
+Größe:
+HG:
 status:
-order:
-parent:
-image: 
+image:
 tags:
-- Quelle/5e/Monster_Manual
-- Habitat/Wald
-- Habitat/Grasland
-- Habitat/Hügel
-- Größe/Groß
-- Typ/Tier
+  - Größe/Groß
+  - Habitat/Grasland
+  - Habitat/Hügel
+  - Habitat/Wald
+  - Quelle/5e/Monster_Manual
+  - Typ/Tier
 aliases:
-- Elk
+  - Elk
 ---
 # Elk
 *Source: SRD / Basic Rules*  

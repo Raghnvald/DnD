@@ -1,13 +1,12 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- Quelle/5e/Dungeon_Masters_Guide
-- Gegenstand/wundersam
-- Gegenstand/Seltenheit/ungewöhnlich
-- Gegenstand/Einstimmung
-aliases: 
-- Brooch of Shielding
+  - Quelle/5e/Dungeon_Masters_Guide
+  - Gegenstand/wundersam
+  - Gegenstand/Seltenheit/ungewöhnlich
+  - Gegenstand/Einstimmung
+aliases:
+  - Brooch of Shielding
 ---
 # Brosche der Abschirmung
 *Wundersamer Gegenstand, ungewöhnlich (erfordert Einstimmung)*  

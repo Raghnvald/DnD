@@ -1,21 +1,20 @@
 ---
 cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
-Bezeichnung: 
+Bezeichnung:
 Typ: Bestie
-Größe: 
-HG: 
+Größe:
+HG:
 status:
-order:
-parent:
-image: 
+image:
 tags:
-- Quelle/5e/Monster_Manual
-- Habitat/Wald
-- Habitat/Sumpf
-- Größe/Mittelgroß
-- Typ/Tier
-aliases: ["Swarm of Poisonous Snakes"]
+  - Quelle/5e/Monster_Manual
+  - Habitat/Wald
+  - Habitat/Sumpf
+  - Größe/Mittelgroß
+  - Typ/Tier
+aliases:
+  - Swarm of Poisonous Snakes
 ---
 # Swarm of Poisonous Snakes
 *Source: SRD / Basic Rules*  

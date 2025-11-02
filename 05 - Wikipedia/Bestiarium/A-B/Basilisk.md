@@ -1,12 +1,12 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- Quelle/5e/Monster_Manual
-- Habitat/Berg
-- Größe/Mittelgroß
-- Typ/Monstrosität
-aliases: ["Basilisk"]
+  - Größe/Mittelgroß
+  - Habitat/Berg
+  - Quelle/5e/Monster_Manual
+  - Typ/Monstrosität
+aliases:
+  - Basilisk
 ---
 # Basilisk
 *Source: SRD / Basic Rules*  

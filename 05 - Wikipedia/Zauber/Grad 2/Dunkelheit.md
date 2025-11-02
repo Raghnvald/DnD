@@ -1,14 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Zauberer
-- Klasse/Hexenmeister
-- Klasse/Magier
-- Zauber/Grad/2
-- Zauber/Schule/Hervorrufung
-aliases: ["Darkness"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Zauberer
+  - Klasse/Hexenmeister
+  - Klasse/Magier
+  - Zauber/Grad/2
+  - Zauber/Schule/Hervorrufung
+aliases:
+  - Darkness
 ---
 # Dunkelheit
 ![](../../../99%20-%20Setup/Files/Bildersammlung/Symbolik/Hervorrufungszauber.webp#token)

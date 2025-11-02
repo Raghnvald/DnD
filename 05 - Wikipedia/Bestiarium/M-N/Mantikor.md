@@ -1,16 +1,16 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- Quelle/5e/Monster_Manual
-- Habitat/Arktis
-- Habitat/Küste
-- Habitat/Grasland
-- Habitat/Hügel
-- Habitat/Berg
-- Größe/Groß
-- Typ/Monstrosität
-aliases: ["Manticore"]
+  - Quelle/5e/Monster_Manual
+  - Habitat/Arktis
+  - Habitat/Küste
+  - Habitat/Grasland
+  - Habitat/Hügel
+  - Habitat/Berg
+  - Größe/Groß
+  - Typ/Monstrosität
+aliases:
+  - Manticore
 ---
 # Manticore
 *Source: SRD / Basic Rules*  

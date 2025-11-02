@@ -7,7 +7,7 @@ Wirkungsdauer: Unmittelbar
 Angriff: n/a
 Schaden: n/a
 tags:
-- Quelle/5e/Xanathars_Guide_to_Everything
+- Quelle/5e/xge
 - Klasse/Paladin
 - Zauber/Original/Find_Greater_Steed
 - Zauber/Grad/4

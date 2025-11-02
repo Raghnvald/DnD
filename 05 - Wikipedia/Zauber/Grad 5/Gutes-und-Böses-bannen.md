@@ -1,13 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Kleriker
-- Klasse/Paladin
-- Zauber/Grad/5
-- Zauber/Schule/Bann
-aliases: ["Dispel Evil and Good"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Kleriker
+  - Klasse/Paladin
+  - Zauber/Grad/5
+  - Zauber/Schule/Bann
+aliases:
+  - Dispel Evil and Good
 ---
 # Dispel Evil and Good
 *5th-level, Abjuration*  

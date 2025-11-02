@@ -7,7 +7,7 @@ Wirkungsdauer: K, <1 Stunde
 Angriff: n/v
 Schaden: Beschwörung
 tags: 
-- Quelle/5e/Xanathars_Guide_to_Everything
+- Quelle/5e/xge
 - Klasse/Hexenmeister
 - Klasse/Magier
 - Zauber/Original/Summon Lesser Demons

@@ -1,14 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Barde
-- Klasse/Hexenmeister
-- Klasse/Magier
-- Zauber/Grad/5
-- Zauber/Schule/Illusion
-aliases: ["Dream"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Barde
+  - Klasse/Hexenmeister
+  - Klasse/Magier
+  - Zauber/Grad/5
+  - Zauber/Schule/Illusion
+aliases:
+  - Dream
 ---
 # Dream
 *5th-level, Illusion*  

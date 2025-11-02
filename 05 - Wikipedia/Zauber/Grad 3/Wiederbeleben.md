@@ -1,13 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Kleriker
-- Klasse/Paladin
-- Zauber/Grad/3
-- Zauber/Schule/Nekromantie
-aliases: ["Revivify"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Kleriker
+  - Klasse/Paladin
+  - Zauber/Grad/3
+  - Zauber/Schule/Nekromantie
+aliases:
+  - Revivify
 ---
 # Revivify
 *3rd-level, Necromancy*  

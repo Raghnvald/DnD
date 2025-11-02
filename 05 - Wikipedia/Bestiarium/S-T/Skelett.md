@@ -5,19 +5,12 @@ Bezeichnung:
 Typ: Untoter
 Größe: Mittelgroß
 HG: 1/4
-status: WIP
-order:
-parent:
-image:
-tags:
-  - Quelle/5e/Monster_Manual
-  - Habitat/Stadt
-  - Größe/Mittelgroß
-  - Typ/Untote
-aliases:
-  - Skeleton
 Habitat:
   - Stadt
+status: WIP
+image:
+tags: [Quelle/5e/Monster_Manual]
+aliases: [Skeleton]
 ---
 ```statblock
 statblock: true

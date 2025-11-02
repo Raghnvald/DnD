@@ -1,13 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- Quelle/5e/Monster_Manual
-- Habitat/Wüste
-- Habitat/Unterreich
-- Größe/Gigantisch
-- Typ/Monstrosität
-aliases: ["Purple Worm"]
+  - Quelle/5e/Monster_Manual
+  - Habitat/Wüste
+  - Habitat/Unterreich
+  - Größe/Gigantisch
+  - Typ/Monstrosität
+aliases:
+  - Purple Worm
 ---
 # Purple Worm
 *Source: SRD / Basic Rules*  

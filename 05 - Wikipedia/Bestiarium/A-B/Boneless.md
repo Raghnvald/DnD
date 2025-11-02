@@ -6,12 +6,7 @@ Typ: Untoter
 Größe: Mittelgroß
 HG: 1
 status: WIP
-order:
-parent:
 image:
-tags:
-  - Quelle/5e/Van_Richtens_Guide_to_Ravenloft
-  - Typ/Untote
-aliases:
-  - Boneless
+tags: [Quelle/5e/vrgr, Typ/Untote]
+aliases: [Boneless]
 ---

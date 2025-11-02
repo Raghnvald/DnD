@@ -1,12 +1,12 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- Quelle/5e/Dungeon_Masters_Guide
-- Gegenstand/Seltenheit/ungewöhnlich
-- Gegenstand/Tier/minor
-- Gegenstand/wundersam
-aliases: ["Cloak of the Manta Ray"]
+  - Quelle/5e/Dungeon_Masters_Guide
+  - Gegenstand/Seltenheit/ungewöhnlich
+  - Gegenstand/Tier/minor
+  - Gegenstand/wundersam
+aliases:
+  - Cloak of the Manta Ray
 ---
 # Cloak of the Manta Ray
 *Wondrous Item, minor, uncommon*  

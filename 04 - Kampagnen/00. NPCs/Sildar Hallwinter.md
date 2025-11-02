@@ -1,6 +1,6 @@
 ---
 tags:
-- Quelle/5e/Lost_Mines_of_Phandelver
+- Quelle/5e/lmop
 aliases:
 - 
 ---

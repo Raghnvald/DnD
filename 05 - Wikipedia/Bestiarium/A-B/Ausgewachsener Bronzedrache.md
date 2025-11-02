@@ -1,10 +1,6 @@
 ---
 Habitat:
-tags:
-- Quelle/5e/Monster_Manual
-- Habitat/Küste
-- Größe/Riesig
-- Typ/Drache
+tags: [Größe/Riesig, Habitat/Küste, Quelle/5e/Monster_Manual, Typ/Drache]
 aliases: ["Adult Bronze Dragon"]
 ---
 # Adult Bronze Dragon

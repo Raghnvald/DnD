@@ -1,13 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- Quelle/5e/Monster_Manual
-- Habitat/Wald
-- Habitat/Sumpf
-- Größe/Groß
-- Typ/Pflanze
-aliases: ["Shambling Mound"]
+  - Quelle/5e/Monster_Manual
+  - Habitat/Wald
+  - Habitat/Sumpf
+  - Größe/Groß
+  - Typ/Pflanze
+aliases:
+  - Shambling Mound
 ---
 # Shambling Mound
 *Source: SRD / Basic Rules*  

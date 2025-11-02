@@ -1,14 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Kleriker
-- Klasse/Druide
-- Klasse/Magier
-- Zauber/Grad/8
-- Zauber/Schule/Verwandlung
-aliases: ["Control Weather"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Kleriker
+  - Klasse/Druide
+  - Klasse/Magier
+  - Zauber/Grad/8
+  - Zauber/Schule/Verwandlung
+aliases:
+  - Control Weather
 ---
 # Control Weather
 *8th-level, Transmutation*  

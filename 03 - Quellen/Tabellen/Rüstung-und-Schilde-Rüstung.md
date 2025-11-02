@@ -1,9 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- Quelle/5e/Players_Handbook
-aliases: ["Armor and Shields; Armor"]
+  - Quelle/5e/Players_Handbook
+aliases:
+  - Armor and Shields; Armor
 ---
 # Rüstung und Schilde; Rüstung
 *Quelle: SRD / Grundregelwerk*

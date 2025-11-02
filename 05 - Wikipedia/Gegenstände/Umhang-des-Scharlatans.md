@@ -1,11 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- Quelle/5e/Dungeon_Masters_Guide
-- Gegenstand/wundersam
-- Gegenstand/Seltenheit/selten
-aliases: ["Cape of the Mountebank"]
+  - Quelle/5e/Dungeon_Masters_Guide
+  - Gegenstand/wundersam
+  - Gegenstand/Seltenheit/selten
+aliases:
+  - Cape of the Mountebank
 ---
 # Umhang des Scharlatans
 *Wundersamer Gegenstand, selten*  

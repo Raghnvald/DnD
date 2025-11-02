@@ -9,6 +9,6 @@ aliases:
 - Dueling
 ---
 # Duellieren
-_Quelle:_ Spielerhandbuch  
+*Source: Player's Handbook. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 Kämpfst du nur mit einer einhändig geführten Nahkampfwaffe und keiner Waffe in der anderen Hand, erhältst du einen Bonus von +2 auf die Schadenswürfe mit dieser Waffe.

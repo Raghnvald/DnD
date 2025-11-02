@@ -1,11 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- Quelle/5e/Monster_Manual
-- Größe/Groß
-- Typ/Himmlische
-aliases: ["Planetar"]
+  - Quelle/5e/Monster_Manual
+  - Größe/Groß
+  - Typ/Himmlische
+aliases:
+  - Planetar
 ---
 # Planetar
 *Source: SRD / Basic Rules*  

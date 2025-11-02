@@ -1,17 +1,14 @@
 ---
 cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
-Bezeichnung: 
+Bezeichnung:
 Typ: Aberration
-Größe: 
-HG: 
+Größe:
+HG:
 status:
-order:
-parent:
-image: 
+image:
 tags:
-- Quelle/5e/Phandelver
-- Typ/Aberration
-aliases:
-- 
+  - Quelle/5e/pabtso
+  - Typ/Aberration
+aliases: []
 ---

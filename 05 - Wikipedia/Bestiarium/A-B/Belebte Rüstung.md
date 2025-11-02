@@ -1,10 +1,5 @@
-[](../../../03%20-%20Quellen/Quellbücher/01.%20Grundregelwerk%202014/Anhang%20PH-A.md#Bewusstlos)---
-obsidianUIMode: preview
-cssclasses: json5e-monster
-tags:
-- DnD/Kompendium/Quelle/5e/MM
-- DnD/Bestiarium/Größe/Mittel
-- DnD/Bestiarium/Typ/Konstrukt
+---
+tags: [Größe/Mittel, Quelle/5e/Monster_Manual, Typ/Konstrukt]
 aliases: ["Animated Armor"]
 ---
 # Animated Armor

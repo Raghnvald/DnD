@@ -1,20 +1,19 @@
 ---
 cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
-Bezeichnung: 
+Bezeichnung:
 Typ: Elementar
-Größe: 
-HG: 
+Größe:
+HG:
 status:
-order:
-parent:
-image: 
+image:
 tags:
-- Quelle/5e/Monster_Manual
-- Habitat/Unterreich
-- Größe/Groß
-- Typ/Elementar
-aliases: ["Earth Elemental"]
+  - Größe/Groß
+  - Habitat/Unterreich
+  - Quelle/5e/Monster_Manual
+  - Typ/Elementar
+aliases:
+  - Earth Elemental
 ---
 # Earth Elemental
 *Source: SRD / Basic Rules*  

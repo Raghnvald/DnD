@@ -1,16 +1,16 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Kleriker
-- Klasse/Druide
-- Klasse/Paladin
-- Klasse/Waldläufer
-- Klasse/Zauberer
-- Zauber/Grad/3
-- Zauber/Schule/Hervorrufung
-aliases: ["Daylight"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Kleriker
+  - Klasse/Druide
+  - Klasse/Paladin
+  - Klasse/Waldläufer
+  - Klasse/Zauberer
+  - Zauber/Grad/3
+  - Zauber/Schule/Hervorrufung
+aliases:
+  - Daylight
 ---
 # Daylight
 *3rd-level, Evocation*  

@@ -1,17 +1,18 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- Quelle/5e/Monster_Manual
-- Habitat/Arktis
-- Habitat/Hügel
-- Habitat/Küste
-- Habitat/Stadt
-- Habitat/Wüste
-- Habitat/Wald
-- Größe/Mittelgroß
-- Typ/Humanoid/jede-rasse
-aliases: ["Bandit"]
+  - Größe/Mittelgroß
+  - Habitat/Arktis
+  - Habitat/Hügel
+  - Habitat/Küste
+  - Habitat/Stadt
+  - Habitat/Wald
+  - Habitat/Wüste
+  - Quelle/5e/Monster_Manual
+  - Typ/Humanoid/jede-rasse
+aliases:
+  - Bandit
+Typ: Humanoid
 ---
 ```statblock
 statblock: true

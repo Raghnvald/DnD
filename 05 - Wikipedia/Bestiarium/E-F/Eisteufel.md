@@ -1,11 +1,12 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- Quelle/5e/Monster_Manual
-- Größe/Groß
-- Typ/Unhold/Teufel
-aliases: ["Ice Devil"]
+  - Größe/Groß
+  - Quelle/5e/Monster_Manual
+  - Typ/Unhold/Teufel
+aliases:
+  - Ice Devil
+Typ: Unhold
 ---
 # Ice Devil
 *Source: SRD / Basic Rules*  
@@ -52,5 +53,5 @@ aliases: ["Ice Devil"]
 > 
 > When the wall appears, each creature in its space is pushed out of it by the shortest route. The creature chooses which side of the wall to end up on, unless the creature is [incapacitated](rules/conditions.md#incapacitated). The creature then makes a DC 17 Dexterity saving throw, taking 35 (`10d6`) cold damage on a failed save, or half as much damage on a successful one.
 > 
-> The wall lasts for 1 minute or until the devil is [incapacitated](rules/conditions.md#incapacitated) or dies. The wall can be damaged and breached; each 10-foot section has AC 5, 30 hit points, vulnerability to fire damage, and immunity to acid, cold, necrotic, poison, and psychic damage. If a section is destroyed, it leaves behind a sheet of frigid air in the space the wall occupied. Whenever a creature finishes moving through the frigid air on a turn, willingly or otherwise, the creature must make a DC 17 Constitution saving throw, taking 17 (`5d6`) cold damage on a failed save, or half as much damage on a successful one. The frigid air dissipates when the rest of the wall vanishes.
+> The wall lasts for 1 minute or until the devil is [incapacitated](rules/conditions.md#incapacitated) or dies. The wall can be damaged and breached; each 10-foot section has AC 5, 30 hit points, vulnerability to fire damage, and immunity to acid, cold, necrotic, poison, and psychic damage. If a section is destroyed, it leaves behind a sheet of frigid air in the space the wall occupied. Whenever a creature finishes moving through the frigid air on a turn, willingly or otherwise, the creature must make a DC 17 Constitution saving throw, taking 17 (`5d6`) cold damage on a failed save, or half as much damage on a successful one. The frigid air dissipates when the rest of the wall vanishes.
 ^statblock

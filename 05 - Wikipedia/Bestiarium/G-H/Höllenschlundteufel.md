@@ -1,11 +1,12 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- Quelle/5e/Monster_Manual
-- Größe/Groß
-- Typ/Unhold/Teufel
-aliases: ["Pit Fiend"]
+  - Quelle/5e/Monster_Manual
+  - Größe/Groß
+  - Typ/Unhold/Teufel
+aliases:
+  - Pit Fiend
+Typ: Unhold
 ---
 # Pit Fiend
 *Source: SRD / Basic Rules*  

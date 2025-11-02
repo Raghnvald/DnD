@@ -1,12 +1,12 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- Quelle/5e/Dungeon_Masters_Guide
-- Gegenstand/Seltenheit/gewöhnlich
-- Gegenstand/Tier/major
-- Gegenstand/wundersam/Zauberstab
-aliases: ["Wand of Pyrotechnics"]
+  - Quelle/5e/Dungeon_Masters_Guide
+  - Gegenstand/Seltenheit/gewöhnlich
+  - Gegenstand/Tier/major
+  - Gegenstand/wundersam/Zauberstab
+aliases:
+  - Wand of Pyrotechnics
 ---
 
 Wand, common

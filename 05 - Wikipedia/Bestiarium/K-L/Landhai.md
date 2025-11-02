@@ -1,14 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- Quelle/5e/Monster_Manual
-- Habitat/Grasland
-- Habitat/Hügel
-- Habitat/Berg
-- Größe/Groß
-- Typ/Monstrosität
-aliases: ["Bulette"]
+  - Quelle/5e/Monster_Manual
+  - Habitat/Grasland
+  - Habitat/Hügel
+  - Habitat/Berg
+  - Größe/Groß
+  - Typ/Monstrosität
+aliases:
+  - Bulette
 ---
 # Bulette
 *Source: SRD / Basic Rules*  

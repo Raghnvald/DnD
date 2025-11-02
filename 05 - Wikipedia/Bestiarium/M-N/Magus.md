@@ -1,15 +1,15 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- DnD/Kompendium/Quelle/5e/MM 2014
-- DnD/Kompendium/Quelle/5e/MM 2024
-- Habitat/Jedes
-- Größe/Klein
-- Größe/Mittelgroß
-- Typ/Humanoid
+  - DnD/Kompendium/Quelle/5e/MM 2014
+  - DnD/Kompendium/Quelle/5e/MM 2024
+  - Habitat/Jedes
+  - Größe/Klein
+  - Größe/Mittelgroß
+  - Typ/Humanoid
 aliases:
-- Mage
+  - Mage
+Typ: Humanoid
 ---
 # Mage (2014)
 *Source: SRD / Basic Rules*  

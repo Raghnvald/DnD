@@ -1,14 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Zauberer
-- Klasse/Hexenmeister
-- Klasse/Magier
-- Zauber/Grad/3
-- Zauber/Schule/Verwandlung
-aliases: ["Gaseous Form"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Zauberer
+  - Klasse/Hexenmeister
+  - Klasse/Magier
+  - Zauber/Grad/3
+  - Zauber/Schule/Verwandlung
+aliases:
+  - Gaseous Form
 ---
 # Gaseous Form
 *3rd-level, Transmutation*  

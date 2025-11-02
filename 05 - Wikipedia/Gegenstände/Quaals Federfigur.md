@@ -1,12 +1,12 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- Quelle/5e/Dungeon_Masters_Guide
-- Gegenstand/Seltenheit/selten
-- Gegenstand/Tier/minor
-- Gegenstand/wundersam
-aliases: ["Feather Token, Anchor"]
+  - Quelle/5e/Dungeon_Masters_Guide
+  - Gegenstand/Seltenheit/selten
+  - Gegenstand/Tier/minor
+  - Gegenstand/wundersam
+aliases:
+  - Feather Token, Anchor
 ---
 # Quaal's Federfigur
 *Wundersamer Gegenstand, selten*  

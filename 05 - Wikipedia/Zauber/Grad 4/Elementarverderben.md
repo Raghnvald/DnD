@@ -7,7 +7,7 @@ Wirkungsdauer: Konzentration, bis zu 1 Minute
 Angriff: KON
 Schaden: variabel
 tags: 
-- Quelle/5e/Xanathars_Guide_to_Everything
+- Quelle/5e/xge
 - Klasse/Druide
 - Klasse/Hexenmeister
 - Klasse/Magier

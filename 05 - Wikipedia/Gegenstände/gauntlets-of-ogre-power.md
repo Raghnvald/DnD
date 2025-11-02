@@ -1,22 +1,20 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- Quelle/5e/Dungeon_Masters_Guide
-- Gegenstand/Einstimmung/erforderlich
-- Gegenstand/Seltenheit/ungewöhnlich
-- Gegenstand/Tier/major
-- Gegenstand/wundersam
-aliases: ["Gauntlets of Ogre Power"]
+- Quelle/5e/dmg
+- ttrpg-cli/item/attunement/required
+- ttrpg-cli/item/rarity/uncommon
+- ttrpg-cli/item/tier/major
+aliases: 
+- "Gauntlets of Ogre Power"
 ---
 # Gauntlets of Ogre Power
-*Wondrous Item, major, uncommon (requires attunement)*  
-<img src="Symbolik/gauntlets-of-ogre-power.webp" align="right" width="150">
+*Wondrous item, major, uncommon (requires attunement)*  
+![](/3-Mechanics/CLI/items/img/gauntlets-of-ogre-power.webp#right)
 
-- **Properties**: Requires Attunement
-- **Cost**: ⏤
-- **Weight**: ⏤
 
 Your Strength score is 19 while you wear these gauntlets. They have no effect on you if your Strength is already 19 or higher without them.
 
-*Source: SRD / Basic Rules*
+*Source: Dungeon Master's Guide p. 171. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

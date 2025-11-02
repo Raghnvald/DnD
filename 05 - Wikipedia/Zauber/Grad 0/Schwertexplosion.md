@@ -7,7 +7,7 @@ Wirkungsdauer: 1 Runde
 Angriff: GES
 Schaden: 1d6 Energie
 tags: 
-- Quelle/5e/Sword_Coast_Adventurers_Guide
+- Quelle/5e/scag
 - Klasse/Hexenmeister
 - Klasse/Magier
 - Klasse/Magieschmied

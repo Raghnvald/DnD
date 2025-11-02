@@ -1,14 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Kleriker
-- Klasse/Zauberer
-- Klasse/Magier
-- Zauber/Grad/9
-- Zauber/Schule/Beschwörung
-aliases: ["Gate"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Kleriker
+  - Klasse/Zauberer
+  - Klasse/Magier
+  - Zauber/Grad/9
+  - Zauber/Schule/Beschwörung
+aliases:
+  - Gate
 ---
 # Gate
 *9th-level, Conjuration*  

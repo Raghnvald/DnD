@@ -1,23 +1,18 @@
 ---
-Bezeichnung: Emblem
-Typ: Heiliges Symbol
-Eigenschaften: n/v
-Kst.: 5 GM
-Gew.: n/v
+obsidianUIMode: preview
+cssclasses:
+- json5e-item
 tags:
-- Quelle/5e/Players_Handbook
-- Gegenstand/Ausrüstung
-- Gegenstand/Zauberfokus
-- Gegenstand/Seltenheit/gewöhnlich
-- Klasse/Kleriker
-- Klasse/Paladin
-aliases: ["Emblem"]
+- Quelle/5e/phb
+- ttrpg-cli/item/gear/spellcasting-focus
+- ttrpg-cli/item/rarity/none
+aliases: 
+- "Emblem"
 ---
 # Emblem
-*Zauberfokus, heilig, gewöhnlich* 
-<img src="Symbolik/Gegenstände.webp" align="right" width="150">
+*Spellcasting focus*  
 
-- **Kosten**: 5 Goldmünzen
-- **Gewicht**: ⏤
 
-*Quelle: SRD / Grundregelwerk*
+- **Cost**: 5 gp
+
+*Source: Player's Handbook p. 151. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

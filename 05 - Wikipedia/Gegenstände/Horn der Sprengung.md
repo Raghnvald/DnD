@@ -1,12 +1,12 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- Quelle/5e/Dungeon_Masters_Guide
-- Gegenstand/Seltenheit/selten
-- Gegenstand/Tier/major
-- Gegenstand/wundersam
-aliases: ["Horn of Blasting"]
+  - Quelle/5e/Dungeon_Masters_Guide
+  - Gegenstand/Seltenheit/selten
+  - Gegenstand/Tier/major
+  - Gegenstand/wundersam
+aliases:
+  - Horn of Blasting
 ---
 # Horn der Sprengung
 *Wundersamer Gegenstand, selten*  

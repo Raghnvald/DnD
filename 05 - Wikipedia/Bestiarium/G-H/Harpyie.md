@@ -1,15 +1,15 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- Quelle/5e/Monster_Manual
-- Habitat/Küste
-- Habitat/Wald
-- Habitat/Hügel
-- Habitat/Berg
-- Größe/Mittelgroß
-- Typ/Monstrosität
-aliases: ["Harpy"]
+  - Quelle/5e/Monster_Manual
+  - Habitat/Küste
+  - Habitat/Wald
+  - Habitat/Hügel
+  - Habitat/Berg
+  - Größe/Mittelgroß
+  - Typ/Monstrosität
+aliases:
+  - Harpy
 ---
 # Harpy
 *Source: SRD / Basic Rules*  

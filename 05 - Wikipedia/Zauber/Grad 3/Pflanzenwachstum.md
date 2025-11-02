@@ -1,14 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Barde
-- Klasse/Druide
-- Klasse/Waldläufer
-- Zauber/Grad/3
-- Zauber/Schule/Verwandlung
-aliases: ["Plant Growth"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Barde
+  - Klasse/Druide
+  - Klasse/Waldläufer
+  - Zauber/Grad/3
+  - Zauber/Schule/Verwandlung
+aliases:
+  - Plant Growth
 ---
 # Plant Growth
 *3rd-level, Transmutation*  

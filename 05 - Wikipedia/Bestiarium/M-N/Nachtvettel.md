@@ -1,11 +1,12 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- Quelle/5e/Monster_Manual
-- Größe/Mittelgroß
-- Typ/Unhold
-aliases: ["Night Hag"]
+  - Größe/Mittelgroß
+  - Quelle/5e/Monster_Manual
+  - Typ/Unhold
+aliases:
+  - Night Hag
+Typ: Unhold
 ---
 # Nachtvettel
 

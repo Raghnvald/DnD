@@ -1,5 +1,5 @@
 ---
-tags: [Klasse/Zauberer, Quelle/5e/Xanathars_Guide_to_Everything]
+tags: [Klasse/Zauberer, Quelle/5e/xge]
 aliases: [Shadow Magic]
 ---
 # Schattenmagie

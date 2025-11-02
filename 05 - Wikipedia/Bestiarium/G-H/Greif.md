@@ -1,16 +1,16 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- Quelle/5e/Monster_Manual
-- Habitat/Arktis
-- Habitat/Küste
-- Habitat/Grasland
-- Habitat/Hügel
-- Habitat/Berg
-- Größe/Groß
-- Typ/Monstrosität
-aliases: ["Griffon"]
+  - Quelle/5e/Monster_Manual
+  - Habitat/Arktis
+  - Habitat/Küste
+  - Habitat/Grasland
+  - Habitat/Hügel
+  - Habitat/Berg
+  - Größe/Groß
+  - Typ/Monstrosität
+aliases:
+  - Griffon
 ---
 # Griffon
 *Source: SRD / Basic Rules*  

@@ -1,11 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- Quelle/5e/Players_Handbook
-- Gegenstand/Ausrüstung
-- Gegenstand/Seltenheit/gewöhnlich
-aliases: ["Acid (vial)"]
+  - Quelle/5e/Players_Handbook
+  - Gegenstand/Ausrüstung
+  - Gegenstand/Seltenheit/gewöhnlich
+aliases:
+  - Acid (vial)
 ---
 # Säurephiole
 ![](../../../99%20-%20Setup/Files/Bildersammlung/Symbolik/Gegenstände.webp#token)

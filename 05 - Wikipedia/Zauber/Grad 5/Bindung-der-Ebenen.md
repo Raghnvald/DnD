@@ -1,15 +1,15 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Barde
-- Klasse/Kleriker
-- Klasse/Druide
-- Klasse/Magier
-- Zauber/Grad/5
-- Zauber/Schule/Bann
-aliases: ["Planar Binding"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Barde
+  - Klasse/Kleriker
+  - Klasse/Druide
+  - Klasse/Magier
+  - Zauber/Grad/5
+  - Zauber/Schule/Bann
+aliases:
+  - Planar Binding
 ---
 # Planar Binding
 *5th-level, Abjuration*  

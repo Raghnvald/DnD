@@ -1,15 +1,15 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Barde
-- Klasse/Zauberer
-- Klasse/Hexenmeister
-- Klasse/Magier
-- Zauber/Grad/6
-- Zauber/Schule/Nekromantie
-aliases: ["Eyebite"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Barde
+  - Klasse/Zauberer
+  - Klasse/Hexenmeister
+  - Klasse/Magier
+  - Zauber/Grad/6
+  - Zauber/Schule/Nekromantie
+aliases:
+  - Eyebite
 ---
 # Eyebite
 *6th-level, Necromancy*  

@@ -1,14 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Kleriker
-- Klasse/Magier
-- Zauber/Grad/2
-- Zauber/Ritual
-- Zauber/Schule/Nekromantie
-aliases: ["Gentle Repose"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Kleriker
+  - Klasse/Magier
+  - Zauber/Grad/2
+  - Zauber/Ritual
+  - Zauber/Schule/Nekromantie
+aliases:
+  - Gentle Repose
 ---
 # Gentle Repose
 *2nd-level, Necromancy (ritual)*  

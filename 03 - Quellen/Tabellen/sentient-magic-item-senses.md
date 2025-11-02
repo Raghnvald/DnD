@@ -1,9 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- Quelle/5e/Dungeon_Masters_Guide
-aliases: ["Sentient Magic Item Senses"]
+  - Quelle/5e/Dungeon_Masters_Guide
+aliases:
+  - Sentient Magic Item Senses
 ---
 # Sentient Magic Item Senses
 *Source: SRD / Basic Rules* 

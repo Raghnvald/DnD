@@ -1,20 +1,19 @@
 ---
 cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
-Bezeichnung: 
+Bezeichnung:
 Typ: Bestie
-Größe: 
-HG: 
+Größe:
+HG:
 status:
-order:
-parent:
-image: 
+image:
 tags:
-- Quelle/5e/Monster_Manual
-- Habitat/Arktis
-- Größe/Riesig
-- Typ/Tier
-aliases: ["Mammoth"]
+  - Quelle/5e/Monster_Manual
+  - Habitat/Arktis
+  - Größe/Riesig
+  - Typ/Tier
+aliases:
+  - Mammoth
 ---
 # Mammoth
 *Source: SRD / Basic Rules*  

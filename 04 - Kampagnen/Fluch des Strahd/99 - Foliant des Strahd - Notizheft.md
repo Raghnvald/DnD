@@ -1,5 +1,5 @@
 ---
-tags: [Quelle/5e/Curse_of_Strahd]
+tags: [Quelle/5e/cos]
 ---
 # **Anhang B: Dramatis Personae**
 

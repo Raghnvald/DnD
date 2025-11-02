@@ -1,20 +1,19 @@
 ---
 cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
-Bezeichnung: 
+Bezeichnung:
 Typ: Elementar
-Größe: 
-HG: 
+Größe:
+HG:
 status:
-order:
-parent:
-image: 
+image:
 tags:
-- Quelle/5e/Monster_Manual
-- Habitat/Stadt
-- Größe/Mittelgroß
-- Typ/Elementar
-aliases: ["Invisible Stalker"]
+  - Quelle/5e/Monster_Manual
+  - Habitat/Stadt
+  - Größe/Mittelgroß
+  - Typ/Elementar
+aliases:
+  - Invisible Stalker
 ---
 # Invisible Stalker
 *Source: SRD / Basic Rules*  

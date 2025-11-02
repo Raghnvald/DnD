@@ -1,12 +1,12 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- Quelle/5e/Monster_Manual
-- Habitat/Küste
-- Größe/Groß
-- Typ/Drache
-aliases: ["Young Bronze Dragon"]
+  - Quelle/5e/Monster_Manual
+  - Habitat/Küste
+  - Größe/Groß
+  - Typ/Drache
+aliases:
+  - Young Bronze Dragon
 ---
 # Young Bronze Dragon
 *Source: SRD / Basic Rules*  

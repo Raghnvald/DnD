@@ -1,21 +1,20 @@
 ---
-cssclasses: 
-- json5e-monster
-prefer-view: 
-- edit-source read
-type: 
-- creature
-tags: 
-- Quelle/5e/Monster_Manual
-- Typ/Unhold/Dämon
-- Größe/Groß
-- Habitat/Planar/Abyss
-aliases: 
-- Barlgura
-link:
+cssclasses:
+  - json5e-monster
+prefer-view:
+  - edit-source read
 status:
-order:
-parent:
+tags:
+  - Größe/Groß
+  - Habitat/Planar/Abyss
+  - Quelle/5e/Monster_Manual
+  - Typ/Unhold/Dämon
+aliases:
+  - Barlgura
+link:
+type:
+  - creature
+Typ: Unhold
 ---
 # Barlgura
 

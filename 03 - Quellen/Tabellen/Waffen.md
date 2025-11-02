@@ -1,9 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- Quelle/5e/Players_Handbook
-aliases: ["Weapons"]
+  - Quelle/5e/Players_Handbook
+aliases:
+  - Weapons
 ---
 # Waffen
 *Quelle: SRD / Grundregelwerk*

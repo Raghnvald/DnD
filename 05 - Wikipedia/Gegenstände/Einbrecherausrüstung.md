@@ -32,7 +32,7 @@ Beinhaltet:
 - a [Glocke](Glocke.md)  
 - 5 [candles](Kerze.md)  
 - a [Brechstange](Brechstange.md)  
-- a [Hammer](Hammer.md)  
+- a [Hammer](D&D/05%20-%20Wikipedia/Gegenstände/Hammer.md)  
 - 10 [pitons](Kletterhaken.md)  
 - a [hooded lantern](Abdeckbare%20Laterne.md)  
 - 2 [flasks of oil](oil-flask.md)  

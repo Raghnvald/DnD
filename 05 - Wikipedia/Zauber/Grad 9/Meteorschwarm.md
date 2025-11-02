@@ -1,13 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Zauberer
-- Klasse/Magier
-- Zauber/Grad/9
-- Zauber/Schule/Hervorrufung
-aliases: ["Meteor Swarm"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Zauberer
+  - Klasse/Magier
+  - Zauber/Grad/9
+  - Zauber/Schule/Hervorrufung
+aliases:
+  - Meteor Swarm
 ---
 # Meteor Swarm
 *9th-level, Evocation*  

@@ -1,14 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Barde
-- Klasse/Zauberer
-- Klasse/Magier
-- Zauber/Grad/5
-- Zauber/Schule/Verwandlung
-aliases: ["Animate Objects"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Barde
+  - Klasse/Zauberer
+  - Klasse/Magier
+  - Zauber/Grad/5
+  - Zauber/Schule/Verwandlung
+aliases:
+  - Animate Objects
 ---
 # Gegenstände beleben
 ![](../../../99%20-%20Setup/Files/Bildersammlung/Symbolik/Verwandlungszauber.webp#token)

@@ -1,12 +1,12 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Druide
-- Zauber/Grad/5
-- Zauber/Schule/Verwandlung
-aliases: ["Reincarnate"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Druide
+  - Zauber/Grad/5
+  - Zauber/Schule/Verwandlung
+aliases:
+  - Reincarnate
 ---
 # Reincarnate
 *5th-level, Transmutation*  

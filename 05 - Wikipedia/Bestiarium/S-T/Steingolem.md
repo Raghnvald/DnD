@@ -1,14 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- DnD/Kompendium/Quelle/5e/MM 2014
-- DnD/Kompendium/Quelle/5e/MM 2024
-- Habitat/Jedes
-- Größe/Groß
-- Typ/Konstrukt
+  - DnD/Kompendium/Quelle/5e/MM 2014
+  - DnD/Kompendium/Quelle/5e/MM 2024
+  - Habitat/Jedes
+  - Größe/Groß
+  - Typ/Konstrukt
 aliases:
-- Stone Golem
+  - Stone Golem
 ---
 # Stone Golem (2014)
 *Source: SRD / Basic Rules*  

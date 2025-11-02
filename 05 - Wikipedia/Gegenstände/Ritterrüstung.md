@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: dnd5e-compendium
 tags:
-- Quelle/5e/Players_Handbook
-- Gegenstand/Rüstung/Schwer
-- Gegenstand/Seltenheit/gewöhnlich
-aliases: 
-- Plate Armor
+  - Quelle/5e/Players_Handbook
+  - Gegenstand/Rüstung/Schwer
+  - Gegenstand/Seltenheit/gewöhnlich
+aliases:
+  - Plate Armor
 Bezeichnung: Ritterrüstung
 Typ: Rüstung
 Rüstung: Schwer

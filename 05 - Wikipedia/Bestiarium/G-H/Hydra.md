@@ -1,12 +1,12 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- Quelle/5e/Monster_Manual
-- Habitat/Sumpf
-- Größe/Riesig
-- Typ/Monstrosität
-aliases: ["Hydra"]
+  - Quelle/5e/Monster_Manual
+  - Habitat/Sumpf
+  - Größe/Riesig
+  - Typ/Monstrosität
+aliases:
+  - Hydra
 ---
 # Hydra
 *Source: SRD / Basic Rules*  

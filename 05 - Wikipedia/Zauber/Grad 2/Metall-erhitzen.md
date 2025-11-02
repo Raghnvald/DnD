@@ -1,13 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Barde
-- Klasse/Druide
-- Zauber/Grad/2
-- Zauber/Schule/Verwandlung
-aliases: ["Heat Metal"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Barde
+  - Klasse/Druide
+  - Zauber/Grad/2
+  - Zauber/Schule/Verwandlung
+aliases:
+  - Heat Metal
 ---
 # Heat Metal
 *2nd-level, Transmutation*  

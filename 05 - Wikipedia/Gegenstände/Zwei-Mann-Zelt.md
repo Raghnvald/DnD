@@ -1,10 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- Quelle/5e/Players_Handbook
-- Gegenstand/Ausrüstung
-aliases: ["Two-Person Tent"]
+  - Quelle/5e/Players_Handbook
+  - Gegenstand/Ausrüstung
+aliases:
+  - Two-Person Tent
 ---
 # Two-Person Tent
 *Adventuring Gear*  

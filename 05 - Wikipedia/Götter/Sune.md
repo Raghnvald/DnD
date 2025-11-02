@@ -1,14 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-- Quelle/5e/Players_Handbook
-- Götter
-- Götter/Gesinnung/Chaotisch_Gut
-- Götter/Pantheon/Faerun
-- Götter/Domäne/Leben
-- Götter/Domäne/Licht
-aliases: ["Sune"]
+  - Quelle/5e/Players_Handbook
+  - Götter
+  - Götter/Gesinnung/Chaotisch_Gut
+  - Götter/Pantheon/Faerun
+  - Götter/Domäne/Leben
+  - Götter/Domäne/Licht
+aliases:
+  - Sune
 ---
 # Sune, Göttin der Liebe und Schönheit
 *Quelle: SRD / Grundregelwerk* 

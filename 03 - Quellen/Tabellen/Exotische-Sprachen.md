@@ -1,9 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- Quelle/5e/Players_Handbook
-aliases: ["Exotic Languages"]
+  - Quelle/5e/Players_Handbook
+aliases:
+  - Exotic Languages
 ---
 # Exotische Sprachen
 *Quelle: SRD / Grundregelwerk*

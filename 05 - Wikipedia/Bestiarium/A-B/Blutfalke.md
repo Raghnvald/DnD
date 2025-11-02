@@ -1,26 +1,24 @@
 ---
 cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
-Bezeichnung: 
+Bezeichnung:
 Typ: Bestie
-Größe: 
-HG: 
+Größe:
+HG:
 status:
-order:
-parent:
-image: 
+image:
 tags:
-- Quelle/5e/Monster_Manual
-- Habitat/Arktis
-- Habitat/Küste
-- Habitat/Wald
-- Habitat/Grasland
-- Habitat/Hügel
-- Habitat/Berg
-- Größe/Klein
-- Typ/Tier
+  - Größe/Klein
+  - Habitat/Arktis
+  - Habitat/Berg
+  - Habitat/Grasland
+  - Habitat/Hügel
+  - Habitat/Küste
+  - Habitat/Wald
+  - Quelle/5e/Monster_Manual
+  - Typ/Tier
 aliases:
-- Blood Hawk
+  - Blood Hawk
 ---
 # Blood Hawk
 *Source: SRD / Basic Rules*  

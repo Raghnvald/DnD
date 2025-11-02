@@ -1,21 +1,20 @@
 ---
 cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
-Bezeichnung: 
+Bezeichnung:
 Typ: Bestie
-Größe: 
-HG: 
+Größe:
+HG:
 status:
-order:
-parent:
-image: 
+image:
 tags:
-- Quelle/5e/Monster_Manual
-- Habitat/Arktis
-- Habitat/Unterreich
-- Größe/Groß
-- Typ/Tier
-aliases: ["Polar Bear"]
+  - Größe/Groß
+  - Habitat/Arktis
+  - Habitat/Unterreich
+  - Quelle/5e/Monster_Manual
+  - Typ/Tier
+aliases:
+  - Polar Bear
 ---
 # Polar Bear
 *Source: SRD / Basic Rules*  

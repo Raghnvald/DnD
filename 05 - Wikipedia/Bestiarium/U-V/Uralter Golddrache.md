@@ -1,13 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- Quelle/5e/Monster_Manual
-- Habitat/Wald
-- Habitat/Grasland
-- Größe/Gigantisch
-- Typ/Drache
-aliases: ["Ancient Gold Dragon"]
+  - Quelle/5e/Monster_Manual
+  - Habitat/Wald
+  - Habitat/Grasland
+  - Größe/Gigantisch
+  - Typ/Drache
+aliases:
+  - Ancient Gold Dragon
 ---
 # Ancient Gold Dragon
 *Source: SRD / Basic Rules*  

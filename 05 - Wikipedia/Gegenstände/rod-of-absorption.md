@@ -1,19 +1,20 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- Quelle/5e/Dungeon_Masters_Guide
-- Gegenstand/Einstimmung/erforderlich
-- Gegenstand/Seltenheit/sehr_selten
-- Gegenstand/Tier/major
-- Gegenstand/wundersam/Rute
-aliases: ["Rod of Absorption"]
+- Quelle/5e/dmg
+- ttrpg-cli/item/attunement/required
+- ttrpg-cli/item/rarity/very-rare
+- ttrpg-cli/item/tier/major
+- ttrpg-cli/item/wondrous/rod
+aliases: 
+- "Rod of Absorption"
 ---
 # Rod of Absorption
 *Rod, major, very rare (requires attunement)*  
+![](/3-Mechanics/CLI/items/img/rod-of-absorption.webp#right)
 
-- **Properties**: Requires Attunement
-- **Cost**: ⏤
 - **Weight**: 2.0 lbs.
 
 While holding this rod, you can use your reaction to absorb a spell that is targeting only you and not with an area of effect. The absorbed spell's effect is canceled, and the spell's energy—not the spell itself—is stored in the rod. The energy has the same level as the spell when it was cast. The rod can absorb and store up to 50 levels of energy over the course of its existence. Once the rod absorbs 50 levels of energy, it can't absorb more. If you are targeted by a spell that the rod can't store, the rod has no effect on that spell.
@@ -24,4 +25,4 @@ If you are a spellcaster holding the rod, you can convert energy stored in it in
 
 A newly found rod has `1d10` levels of spell energy stored in it already. A rod that can no longer absorb spell energy and has no energy remaining becomes nonmagical.
 
-*Source: SRD / Basic Rules*
+*Source: Dungeon Master's Guide p. 195. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

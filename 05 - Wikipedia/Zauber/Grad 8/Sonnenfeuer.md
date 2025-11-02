@@ -1,14 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Druide
-- Klasse/Zauberer
-- Klasse/Magier
-- Zauber/Grad/8
-- Zauber/Schule/Hervorrufung
-aliases: ["Sunburst"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Druide
+  - Klasse/Zauberer
+  - Klasse/Magier
+  - Zauber/Grad/8
+  - Zauber/Schule/Hervorrufung
+aliases:
+  - Sunburst
 ---
 # Sunburst
 *8th-level, Evocation*  

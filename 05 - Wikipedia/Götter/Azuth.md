@@ -1,14 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-- Quelle/5e/Players_Handbook
-- Götter
-- Götter/Gesinnung/Rechtschaffen_Neutral
-- Götter/Pantheon/Faerun
-- Götter/Domäne/Arkana
-- Götter/Domäne/Wissen
-aliases: ["Azuth"]
+  - Quelle/5e/Players_Handbook
+  - Götter
+  - Götter/Gesinnung/Rechtschaffen_Neutral
+  - Götter/Pantheon/Faerun
+  - Götter/Domäne/Arkana
+  - Götter/Domäne/Wissen
+aliases:
+  - Azuth
 ---
 # Azuth, Gott der Magier
 *Quelle: SRD / Grundregelwerk* 

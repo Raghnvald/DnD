@@ -6,15 +6,15 @@ Typ: Untoter
 Größe: Winzig
 HG: 18
 status: WIP
-order:
-parent:
 image:
 tags:
-  - Quelle/5e/Monster_Manual
   - Größe/Mittelgroß
+  - Quelle/5e/Monster_Manual
   - Typ/Untote
 aliases:
   - Lich
+Habitat:
+  - Jedes
 ---
 # Lich
 *Source: SRD / Basic Rules*  

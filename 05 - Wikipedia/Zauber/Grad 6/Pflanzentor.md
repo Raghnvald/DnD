@@ -1,12 +1,12 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Druide
-- Zauber/Grad/6
-- Zauber/Schule/Beschwörung
-aliases: ["Transport via Plants"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Druide
+  - Zauber/Grad/6
+  - Zauber/Schule/Beschwörung
+aliases:
+  - Transport via Plants
 ---
 # Transport via Plants
 *6th-level, Conjuration*  

@@ -1,13 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Kleriker
-- Klasse/Magier
-- Zauber/Grad/2
-- Zauber/Schule/Hervorrufung
-aliases: ["Continual Flame"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Kleriker
+  - Klasse/Magier
+  - Zauber/Grad/2
+  - Zauber/Schule/Hervorrufung
+aliases:
+  - Continual Flame
 ---
 # Continual Flame
 *2nd-level, Evocation*  

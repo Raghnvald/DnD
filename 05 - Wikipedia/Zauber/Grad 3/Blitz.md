@@ -1,13 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Zauberer
-- Klasse/Magier
-- Zauber/Grad/3
-- Zauber/Schule/Hervorrufung
-aliases: ["Lightning Bolt"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Zauberer
+  - Klasse/Magier
+  - Zauber/Grad/3
+  - Zauber/Schule/Hervorrufung
+aliases:
+  - Lightning Bolt
 ---
 # Lightning Bolt
 *3rd-level, Evocation*  

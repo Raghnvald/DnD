@@ -6,17 +6,14 @@ Typ: Humanoid
 Größe: Mittelgroß
 HG: 1/2
 status:
-order:
-parent:
-image: 
+image:
 tags:
-tags:
-- Quelle/5e/Curse_of_Strahd
-- Typ/Humanoid
-- Größe/Mittelgroß
-- Habitat/Wald
+  - Größe/Mittelgroß
+  - Habitat/Wald
+  - Quelle/5e/cos
+  - Typ/Humanoid
 aliases:
-- Barovian Witch
+  - Barovian Witch
 ---
 # Barovianische Hexe
 Die wahnsinnigen Frauen und Männer, die als Barovianische Hexen bekannt sind, schmieden im Austausch für Magie und Langlebigkeit Pakte mit Strahd und den Dunklen Mächten von Ravenloft. Sie ziehen es vor, in den Schatten zu leben und können im Dunklen sehen. Wenn sie offen reisen, benutzen sie den Zauber Gestalt verändern, um eine weniger auffällige Gestalt anzunehmen. Sie benutzen diesen Zauber auch, um sich lange, scharfe Klauen wachsen zu lassen, mit denen sie tiefe Schnittwunden zufügen können.

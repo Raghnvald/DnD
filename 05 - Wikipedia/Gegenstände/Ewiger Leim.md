@@ -1,12 +1,12 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- Quelle/5e/Dungeon_Masters_Guide
-- Gegenstand/Seltenheit/legendär
-- Gegenstand/Tier/minor
-- Gegenstand/wundersam
-aliases: ["Sovereign Glue"]
+  - Quelle/5e/Dungeon_Masters_Guide
+  - Gegenstand/Seltenheit/legendär
+  - Gegenstand/Tier/minor
+  - Gegenstand/wundersam
+aliases:
+  - Sovereign Glue
 ---
 # Ewiger Leim
 *Wundersamer Gegenstand, legendär*  

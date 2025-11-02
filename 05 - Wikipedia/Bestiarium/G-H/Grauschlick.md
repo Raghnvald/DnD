@@ -1,11 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-monster
-tags:
-- Quelle/5e/Monster_Manual
-- Habitat/Unterreich
-- Größe/Mittelgroß
-- Typ/Schleim
+cssclasses: dnd5e-only-statblock
+prefer-view: edit-source read
+Bezeichnung: Grauschlick
+Typ: Schleim
+Größe: Mittelgroß
+HG: 1/2
+Habitat:
+  - Unterreich
+status: WIP
+image:
+tags: [Quelle/5e/Monster_Manual]
 aliases: ["Gray Ooze"]
 ---
 # Gray Ooze
@@ -44,7 +48,8 @@ aliases: ["Gray Ooze"]
 > 
 > ## Actions
 > 
-> ***Pseudopod.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4 (`1d6 + 1`) bludgeoning damage plus 7 (`2d6`) acid damage, and if the target is wearing nonmagical metal armor, its armor is partly corroded and takes a permanent and cumulative −1 penalty to the AC it offers. The armor is destroyed if the penalty reduces its AC to 10.
+> ***Pseudopod.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4 (`1d6 + 1`) bludgeoning damage plus 7 (`2d6`) acid damage, and if the target is wearing nonmagical metal armor, its armor is partly corroded and takes a permanent and cumulative −1 penalty to the AC it offers. The armor is destroyed if the penalty reduces its AC to 10.
+
 ^statblock
 
 ## Environment

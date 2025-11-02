@@ -1,12 +1,12 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Magier
-- Zauber/Grad/4
-- Zauber/Schule/Hervorrufung
-aliases: ["Otiluke's Resilient Sphere"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Magier
+  - Zauber/Grad/4
+  - Zauber/Schule/Hervorrufung
+aliases:
+  - Otiluke's Resilient Sphere
 ---
 # Otiluke's Unverwüstliche Sphäre
 *4th-level, Evocation*  

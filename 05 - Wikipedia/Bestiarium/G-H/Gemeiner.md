@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-monster
 tags:
@@ -15,6 +14,7 @@ tags:
   - Typ/Humanoid/jede-rasse
 aliases:
   - Commoner
+Typ: Humanoid
 ---
 # Gemeiner
 

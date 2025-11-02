@@ -1,9 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- Quelle/5e/Players_Handbook
-aliases: ["Spellcasting; Multiclass Spellcaster: Spell Slots per Spell Level"]
+  - Quelle/5e/Players_Handbook
+aliases:
+  - "Spellcasting; Multiclass Spellcaster: Spell Slots per Spell Level"
 ---
 # Spellcasting; Multiclass Spellcaster: Spell Slots per Spell Level
 *Source: SRD / Basic Rules* 

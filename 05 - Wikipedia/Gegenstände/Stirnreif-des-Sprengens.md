@@ -1,12 +1,12 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- Quelle/5e/Dungeon_Masters_Guide
-- Gegenstand/Seltenheit/ungewöhnlich
-- Gegenstand/Tier/major
-- Gegenstand/wundersam
-aliases: ["Circlet of Blasting"]
+  - Quelle/5e/Dungeon_Masters_Guide
+  - Gegenstand/Seltenheit/ungewöhnlich
+  - Gegenstand/Tier/major
+  - Gegenstand/wundersam
+aliases:
+  - Circlet of Blasting
 ---
 # Circlet of Blasting
 *Wondrous Item, major, uncommon*  

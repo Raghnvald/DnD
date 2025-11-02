@@ -1,12 +1,12 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Druide
-- Zauber/Grad/1
-- Zauber/Schule/Beschwörung
-aliases: ["Entangle"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Druide
+  - Zauber/Grad/1
+  - Zauber/Schule/Beschwörung
+aliases:
+  - Entangle
 ---
 # Verstricken
 ![](../../../99%20-%20Setup/Files/Bildersammlung/Symbolik/Beschwörungszauber.webp#token)

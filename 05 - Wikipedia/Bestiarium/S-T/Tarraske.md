@@ -1,12 +1,12 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- Quelle/5e/Monster_Manual
-- Habitat/Stadt
-- Größe/Gigantisch
-- Typ/Monstrosität/Titan
-aliases: ["Tarrasque"]
+  - Quelle/5e/Monster_Manual
+  - Habitat/Stadt
+  - Größe/Gigantisch
+  - Typ/Monstrosität/Titan
+aliases:
+  - Tarrasque
 ---
 # Tarrasque
 *Source: SRD / Basic Rules*  

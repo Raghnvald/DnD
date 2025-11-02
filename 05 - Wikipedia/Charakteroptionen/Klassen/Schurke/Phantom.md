@@ -1,5 +1,5 @@
 ---
-tags: [Klasse/Schurke, Quelle/5e/Tashas_Cauldron_of_Everything]
+tags: [Klasse/Schurke, Quelle/5e/tce]
 aliases: [Phantom]
 ---
 # Phantom

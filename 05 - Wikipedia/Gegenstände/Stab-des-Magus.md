@@ -1,14 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- Quelle/5e/Dungeon_Masters_Guide
-- Gegenstand/Einstimmung/erforderlich
-- Gegenstand/Eigenschaft/Vielseitig
-- Gegenstand/Seltenheit/legendär
-- Gegenstand/Tier/major
-- Gegenstand/wundersam/Stab
-aliases: ["Staff of the Magi"]
+  - Quelle/5e/Dungeon_Masters_Guide
+  - Gegenstand/Einstimmung/erforderlich
+  - Gegenstand/Eigenschaft/Vielseitig
+  - Gegenstand/Seltenheit/legendär
+  - Gegenstand/Tier/major
+  - Gegenstand/wundersam/Stab
+aliases:
+  - Staff of the Magi
 ---
 # Staff of the Magi
 *Staff, major, legendary (requires attunement by a sorcerer, warlock, or wizard)*  

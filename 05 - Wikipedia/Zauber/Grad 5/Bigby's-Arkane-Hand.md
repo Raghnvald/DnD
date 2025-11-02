@@ -1,12 +1,12 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Magier
-- Zauber/Grad/5
-- Zauber/Schule/Hervorrufung
-aliases: ["Bigby's Hand"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Magier
+  - Zauber/Grad/5
+  - Zauber/Schule/Hervorrufung
+aliases:
+  - Bigby's Hand
 ---
 # Bigby's Arkane Hand
 ![](../../../99%20-%20Setup/Files/Bildersammlung/Symbolik/Hervorrufungszauber.webp#token)

@@ -1,12 +1,12 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Magier
-- Zauber/Grad/6
-- Zauber/Schule/Hervorrufung
-aliases: ["Wall of Ice"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Magier
+  - Zauber/Grad/6
+  - Zauber/Schule/Hervorrufung
+aliases:
+  - Wall of Ice
 ---
 # Eiswand
 ![](../../../99%20-%20Setup/Files/Bildersammlung/Symbolik/Hervorrufungszauber.webp#token)

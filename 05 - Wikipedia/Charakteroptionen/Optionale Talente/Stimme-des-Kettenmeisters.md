@@ -1,10 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- Quelle/5e/Players_Handbook
-- Kompendium/Optionales/Anrufungen
-aliases: ["Voice of the Chain Master"]
+  - Quelle/5e/Players_Handbook
+  - Kompendium/Optionales/Anrufungen
+aliases:
+  - Voice of the Chain Master
 ---
 # Stimme des Kettenmeisters
 *Quelle: SRD / Grundregelwerk / Spielerhandbuch*  

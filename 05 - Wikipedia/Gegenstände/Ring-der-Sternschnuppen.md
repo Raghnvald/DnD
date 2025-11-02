@@ -1,13 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- Quelle/5e/Dungeon_Masters_Guide
-- Gegenstand/Einstimmung/erforderlich
-- Gegenstand/Seltenheit/sehr_selten
-- Gegenstand/Tier/major
-- Gegenstand/wundersam/Ring
-aliases: ["Ring of Shooting Stars"]
+  - Quelle/5e/Dungeon_Masters_Guide
+  - Gegenstand/Einstimmung/erforderlich
+  - Gegenstand/Seltenheit/sehr_selten
+  - Gegenstand/Tier/major
+  - Gegenstand/wundersam/Ring
+aliases:
+  - Ring of Shooting Stars
 ---
 # Ring of Shooting Stars
 *Ring, major, very rare (requires attunement outdoors at night)*  

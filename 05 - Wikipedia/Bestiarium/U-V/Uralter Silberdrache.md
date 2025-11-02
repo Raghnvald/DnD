@@ -1,13 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- Quelle/5e/Monster_Manual
-- Habitat/Berg
-- Habitat/Stadt
-- Größe/Gigantisch
-- Typ/Drache
-aliases: ["Ancient Silver Dragon"]
+  - Quelle/5e/Monster_Manual
+  - Habitat/Berg
+  - Habitat/Stadt
+  - Größe/Gigantisch
+  - Typ/Drache
+aliases:
+  - Ancient Silver Dragon
 ---
 # Ancient Silver Dragon
 *Source: SRD / Basic Rules*  

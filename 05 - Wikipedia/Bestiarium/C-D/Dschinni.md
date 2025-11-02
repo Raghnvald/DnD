@@ -1,20 +1,19 @@
 ---
 cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
-Bezeichnung: 
+Bezeichnung:
 Typ: Elementar
-Größe: 
-HG: 
+Größe:
+HG:
 status:
-order:
-parent:
-image: 
+image:
 tags:
-- Quelle/5e/Monster_Manual
-- Habitat/Küste
-- Größe/Groß
-- Typ/Elementar
-aliases: ["Djinni"]
+  - Größe/Groß
+  - Habitat/Küste
+  - Quelle/5e/Monster_Manual
+  - Typ/Elementar
+aliases:
+  - Djinni
 ---
 # Djinni
 *Source: SRD / Basic Rules*  

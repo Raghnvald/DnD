@@ -13,18 +13,16 @@ Habitat:
   - Wald
   - Wüste
 status: WIP
-order:
-parent:
 image:
 tags:
-  - Quelle/5e/Monster_Manual
+  - Größe/Mittelgroß
   - Habitat/Arktis
   - Habitat/Hügel
   - Habitat/Stadt
   - Habitat/Sumpf
   - Habitat/Wald
   - Habitat/Wüste
-  - Größe/Mittelgroß
+  - Quelle/5e/Monster_Manual
   - Typ/Untote
 aliases:
   - Revenant

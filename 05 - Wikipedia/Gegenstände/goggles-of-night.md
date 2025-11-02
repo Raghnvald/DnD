@@ -1,19 +1,19 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- Quelle/5e/Dungeon_Masters_Guide
-- Gegenstand/Seltenheit/ungewöhnlich
-- Gegenstand/Tier/minor
-- Gegenstand/wundersam
-aliases: ["Goggles of Night"]
+- Quelle/5e/dmg
+- ttrpg-cli/item/rarity/uncommon
+- ttrpg-cli/item/tier/minor
+aliases: 
+- "Goggles of Night"
 ---
 # Goggles of Night
-*Wondrous Item, minor, uncommon*  
+*Wondrous item, minor, uncommon*  
+![](/3-Mechanics/CLI/items/img/goggles-of-night.webp#right)
 
-- **Cost**: ⏤
-- **Weight**: ⏤
 
-While wearing these dark lenses, you have [darkvision](rules/senses.md#darkvision) out to a range of 60 feet. If you already have [darkvision](rules/senses.md#darkvision), wearing the goggles increases its range by 60 feet.
+While wearing these dark lenses, you have [darkvision](/3-Mechanics/CLI/senses.md#Darkvision) out to a range of 60 feet. If you already have [darkvision](/3-Mechanics/CLI/senses.md#Darkvision), wearing the goggles increases its range by 60 feet.
 
-*Source: SRD / Basic Rules*
+*Source: Dungeon Master's Guide p. 172. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

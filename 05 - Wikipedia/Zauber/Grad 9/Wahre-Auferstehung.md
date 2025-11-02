@@ -1,13 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Kleriker
-- Klasse/Druide
-- Zauber/Grad/9
-- Zauber/Schule/Nekromantie
-aliases: ["True Resurrection"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Kleriker
+  - Klasse/Druide
+  - Zauber/Grad/9
+  - Zauber/Schule/Nekromantie
+aliases:
+  - True Resurrection
 ---
 # True Resurrection
 *9th-level, Necromancy*  

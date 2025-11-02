@@ -9,7 +9,6 @@ tags:
   - Zauber/Schule/Beschwörung
 aliases:
   - Tenser's Floating Disk
-obsidianUIMode: preview
 ---
 # Tenser's Floating Disk
 *1st-level, Conjuration (ritual)*  

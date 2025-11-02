@@ -7,7 +7,7 @@ Wirkungsdauer: K, <1 Minute
 Angriff: Nah
 Schaden: 2d8 psychisch
 tags: 
-- Quelle/5e/Xanathars_Guide_to_Everything
+- Quelle/5e/xge
 - Klasse/Hexenmeister
 - Klasse/Magier
 - Klasse/Zauberer

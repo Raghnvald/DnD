@@ -7,7 +7,7 @@ Wirkungsdauer: 8 Stunden
 Angriff: GES
 Schaden: Festgesetzt
 tags:
-  - Quelle/5e/Xanathars_Guide_to_Everything
+  - Quelle/5e/xge
   - Klasse/Druide
   - Klasse/Magier
   - Klasse/Waldläufer

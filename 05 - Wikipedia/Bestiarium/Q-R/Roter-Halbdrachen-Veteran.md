@@ -1,11 +1,12 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-monster
+Typ: Humanoid
 tags:
-- Quelle/5e/Monster_Manual
-- Größe/Mittelgroß
-- Typ/Humanoid/Mensch
-aliases: ["Half-Red Dragon Veteran"]
+  - Größe/Mittelgroß
+  - Quelle/5e/Monster_Manual
+  - Typ/Humanoid/Mensch
+aliases:
+  - Half-Red Dragon Veteran
 ---
 # Half-Red Dragon Veteran
 *Source: SRD / Basic Rules*  

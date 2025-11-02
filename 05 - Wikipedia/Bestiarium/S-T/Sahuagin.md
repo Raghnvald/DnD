@@ -1,13 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- Quelle/5e/Monster_Manual
-- Habitat/Küste
-- Habitat/Unterwasser
-- Größe/Mittelgroß
-- Typ/Humanoid/Sahuagin
-aliases: ["Sahuagin"]
+  - Quelle/5e/Monster_Manual
+  - Habitat/Küste
+  - Habitat/Unterwasser
+  - Größe/Mittelgroß
+  - Typ/Humanoid/Sahuagin
+aliases:
+  - Sahuagin
+Typ: Humanoid
 ---
 # Sahuagin
 *Source: SRD / Basic Rules*  

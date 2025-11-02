@@ -1,15 +1,15 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- DnD/Kompendium/Quelle/5e/MM 2014
-- DnD/Kompendium/Quelle/5e/MM 2024
-- Habitat/Jedes
-- Größe/Klein
-- Größe/Mittelgroß
-- Typ/Humanoid
+  - DnD/Kompendium/Quelle/5e/MM 2014
+  - DnD/Kompendium/Quelle/5e/MM 2024
+  - Habitat/Jedes
+  - Größe/Klein
+  - Größe/Mittelgroß
+  - Typ/Humanoid
 aliases:
-- Gladiator
+  - Gladiator
+Typ: Humanoid
 ---
 # Gladiator (2024)
 _Competitor and Prizefighter_

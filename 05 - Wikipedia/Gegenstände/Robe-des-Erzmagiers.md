@@ -1,13 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- Quelle/5e/Dungeon_Masters_Guide
-- Gegenstand/Einstimmung/erforderlich
-- Gegenstand/Seltenheit/legendär
-- Gegenstand/Tier/major
-- Gegenstand/wundersam
-aliases: ["Robe of the Archmagi"]
+  - Quelle/5e/Dungeon_Masters_Guide
+  - Gegenstand/Einstimmung/erforderlich
+  - Gegenstand/Seltenheit/legendär
+  - Gegenstand/Tier/major
+  - Gegenstand/wundersam
+aliases:
+  - Robe of the Archmagi
 ---
 # Robe of the Archmagi
 *Wondrous Item, major, legendary (requires attunement by a sorcerer, warlock, or wizard)*  

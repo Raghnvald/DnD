@@ -1,12 +1,12 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Magier
-- Zauber/Grad/8
-- Zauber/Schule/Beschwörung
-aliases: ["Maze"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Magier
+  - Zauber/Grad/8
+  - Zauber/Schule/Beschwörung
+aliases:
+  - Maze
 ---
 # Maze
 *8th-level, Conjuration*  

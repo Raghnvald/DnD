@@ -1,13 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Hexenmeister
-- Klasse/Magier
-- Zauber/Grad/3
-- Zauber/Schule/Nekromantie
-aliases: ["Vampiric Touch"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Hexenmeister
+  - Klasse/Magier
+  - Zauber/Grad/3
+  - Zauber/Schule/Nekromantie
+aliases:
+  - Vampiric Touch
 ---
 # Vampiric Touch
 *3rd-level, Necromancy*  

@@ -1,14 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Barde
-- Klasse/Kleriker
-- Klasse/Druide
-- Zauber/Grad/6
-- Zauber/Schule/Erkenntnis
-aliases: ["Find the Path"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Barde
+  - Klasse/Kleriker
+  - Klasse/Druide
+  - Zauber/Grad/6
+  - Zauber/Schule/Erkenntnis
+aliases:
+  - Find the Path
 ---
 # Find the Path
 *6th-level, Divination*  

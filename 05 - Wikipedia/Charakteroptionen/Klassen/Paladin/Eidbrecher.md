@@ -3,11 +3,11 @@ prefer-view:
   - edit-source read
 status:
   - completed
-order:
-parent:
-  - Paladin
-tags: [Klasse/Paladin, Quelle/5e/Dungeon_Masters_Guide]
-aliases: [Oathbreaker]
+tags:
+  - Klasse/Paladin
+  - Quelle/5e/Dungeon_Masters_Guide
+aliases:
+  - Oathbreaker
 link:
   - https://www.dndbeyond.com/classes/2190881-paladin
 type:

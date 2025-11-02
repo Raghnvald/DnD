@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: dnd5e-compendium
 tags:
   - Quelle/5e/Players_Handbook
@@ -10,8 +9,8 @@ Bezeichnung: Kettenhemd
 Typ: Rüstung
 Rüstung: Mittel
 RK: 13 + GES (max +2)
-STR: n/v 
-Heiml.: n/v 
+STR: n/v
+Heiml.: n/v
 Eigenschaften: n/v
 Kst.: 50 GM
 Gew.: 10,0 kg

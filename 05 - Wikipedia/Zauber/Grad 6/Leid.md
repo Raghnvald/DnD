@@ -1,12 +1,12 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Kleriker
-- Zauber/Grad/6
-- Zauber/Schule/Nekromantie
-aliases: ["Harm"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Kleriker
+  - Zauber/Grad/6
+  - Zauber/Schule/Nekromantie
+aliases:
+  - Harm
 ---
 # Harm
 *6th-level, Necromancy*  

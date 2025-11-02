@@ -1,22 +1,21 @@
 ---
 cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
-Bezeichnung: 
+Bezeichnung:
 Typ: Bestie
-Größe: 
-HG: 
+Größe:
+HG:
 status:
-order:
-parent:
-image: 
+image:
 tags:
-- Quelle/5e/Monster_Manual
-- Habitat/Wald
-- Habitat/Hügel
-- Habitat/Stadt
-- Größe/Mittelgroß
-- Typ/Tier
-aliases: ["Mastiff"]
+  - Größe/Mittelgroß
+  - Habitat/Hügel
+  - Habitat/Stadt
+  - Habitat/Wald
+  - Quelle/5e/Monster_Manual
+  - Typ/Tier
+aliases:
+  - Mastiff
 ---
 # Mastiff
 *Source: SRD / Basic Rules*  

@@ -6,18 +6,16 @@ Typ: Riese
 Größe: Riesig
 HG: 5
 status:
-order:
-parent:
-image: 
+image:
 tags:
-- Quelle/5e/Monster_Manual
-- Typ/Riese
-- Größe/Riesig
-- Habitat/Berg
-- Habitat/Hügel
-- Habitat/Unterreich
+  - Quelle/5e/Monster_Manual
+  - Typ/Riese
+  - Größe/Riesig
+  - Habitat/Berg
+  - Habitat/Hügel
+  - Habitat/Unterreich
 aliases:
-- Stone Giant
+  - Stone Giant
 ---
 # Steinriese
 *Source: SRD / Basic Rules*  

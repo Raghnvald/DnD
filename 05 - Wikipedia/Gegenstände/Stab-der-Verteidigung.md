@@ -1,12 +1,12 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- Quelle/5e/Lost_Mines_of_Phandelver
-- Gegenstand/wundersam/Zauberstab
-- Gegenstand/Seltenheit/selten
-- Gegenstand/Einstimmung/erforderlich
-aliases: ["+1 Wand of the War Mage"]
+  - Quelle/5e/lmop
+  - Gegenstand/wundersam/Zauberstab
+  - Gegenstand/Seltenheit/selten
+  - Gegenstand/Einstimmung/erforderlich
+aliases:
+  - +1 Wand of the War Mage
 ---
 # Stab der Verteidigung
 *Stab, selten (erfordert Einstimmung durch einen Barden, Hexenmeister, Magier oder Zauberer)*

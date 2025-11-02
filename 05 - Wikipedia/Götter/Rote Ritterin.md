@@ -1,13 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-- Quelle/5e/Players_Handbook
-- Götter
-- Götter/Gesinnung/Rechtschaffen_Neutral
-- Götter/Pantheon/Faerun
-- Götter/Domäne/Krieg
-aliases: ["Die Rote Ritterin"]
+  - Quelle/5e/Players_Handbook
+  - Götter
+  - Götter/Gesinnung/Rechtschaffen_Neutral
+  - Götter/Pantheon/Faerun
+  - Götter/Domäne/Krieg
+aliases:
+  - Die Rote Ritterin
 ---
 # Die Rote Ritterin, Göttin der Strategie
 *Quelle: SRD / Grundregelwerk* 

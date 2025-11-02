@@ -1,10 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- Klasse/Kämpfer
-- Quelle/5e/Players_Handbook
-aliases: ["Fighter"]
+  - Klasse/Kämpfer
+  - Quelle/5e/Players_Handbook
+aliases:
+  - Fighter
 ---
 # Kämpfer
 *Quelle: SRD / Grundregelwerk / Spielerhandbuch*  

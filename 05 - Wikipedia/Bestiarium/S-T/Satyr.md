@@ -1,12 +1,16 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-monster
-tags:
-- Quelle/5e/Monster_Manual
-- Habitat/Wald
-- Größe/Mittelgroß
-- Typ/Fee
-aliases: ["Satyr"]
+cssclasses: dnd5e-only-statblock
+prefer-view: edit-source read
+Bezeichnung: Satyr
+Typ: Feenwesen
+Größe: Mittelgroß
+HG: 1/2
+Habitat:
+  - Wald
+status: WIP
+image:
+tags: [Quelle/5e/Monster_Manual]
+aliases: [Satyr]
 ---
 # Satyr
 *Source: SRD / Basic Rules*  

@@ -1,10 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- Quelle/5e/Players_Handbook
-- Gegenstand/Ausrüstung
-aliases: ["Shovel"]
+  - Quelle/5e/Players_Handbook
+  - Gegenstand/Ausrüstung
+aliases:
+  - Shovel
 ---
 # Shovel
 *Adventuring Gear*  

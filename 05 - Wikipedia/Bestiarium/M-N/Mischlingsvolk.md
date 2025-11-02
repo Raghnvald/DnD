@@ -1,13 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-monster
 tags:
-  - Quelle/5e/Curse_of_Strahd
+  - Quelle/5e/cos
   - Größe/Mittelgroß
   - Typ/Humanoid
 aliases:
   - Mongrelfolk
+Typ: Humanoid
 ---
 # Mischlingsvolk
 Das Mischlingsvolk sind Humanoiden, die oder deren Vor- fahren in einem solchen Ausmaß fürchterliche magische Transformationen erlitten haben, dass sie nur einen Bruchteil ihres ursprünglichen Wesens behielten. Ihre humanoiden Körper vereinigen die Merkmale verschiedener Tiere. Zum Beispiel könnte ein Angehöriger des Mischlingsvolks die Körpergrundform eines Zwergs mit einem Kopf haben, der die Merkmale einer Katze und einer Echse verbindet, einen Arm, der in einer Krabbenschere endet und ein Bein, das in einen gespaltenen Huf mündet. Ein anderer könnte die Haut und Hörner einer Kuh aufweisen, die Augen einer Spinne, die Schenkel eines Froschs und ein en schuppigen Echsenschwanz. Die blasphemische Verbindung von humanoiden und Tiergestalten jedes Angehörigen des Mischlingsvolks führte dazu, dass er einen langsamen, unbeholfenen Gang hat.

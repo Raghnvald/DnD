@@ -1,20 +1,18 @@
 ---
 cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
-Bezeichnung: 
+Bezeichnung:
 Typ: Bestie
-Größe: 
-HG: 
+Größe:
+HG:
 status:
-order:
-parent:
-image: 
+image:
 tags:
-- Quelle/5e/Monster_Manual
-- Größe/Winzig
-- Typ/Tier
+  - Größe/Winzig
+  - Quelle/5e/Monster_Manual
+  - Typ/Tier
 aliases:
-- Frog
+  - Frog
 ---
 # Frog
 *Source: SRD / Basic Rules*  

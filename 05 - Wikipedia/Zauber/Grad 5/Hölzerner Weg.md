@@ -1,13 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Druide
-- Klasse/Waldläufer
-- Zauber/Grad/5
-- Zauber/Schule/Beschwörung
-aliases: ["Tree Stride"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Druide
+  - Klasse/Waldläufer
+  - Zauber/Grad/5
+  - Zauber/Schule/Beschwörung
+aliases:
+  - Tree Stride
 ---
 # Tree Stride
 *5th-level, Conjuration*  

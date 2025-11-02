@@ -1,5 +1,5 @@
 ---
-tags: [Klasse/Barde, Quelle/5e/Van_Richtens_Guide_to_Ravenloft]
+tags: [Klasse/Barde, Quelle/5e/vrgr]
 aliases: [College of Spirits]
 ---
 # Schule der Geister

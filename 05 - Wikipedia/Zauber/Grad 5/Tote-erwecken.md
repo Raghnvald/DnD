@@ -1,14 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Barde
-- Klasse/Kleriker
-- Klasse/Paladin
-- Zauber/Grad/5
-- Zauber/Schule/Nekromantie
-aliases: ["Raise Dead"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Barde
+  - Klasse/Kleriker
+  - Klasse/Paladin
+  - Zauber/Grad/5
+  - Zauber/Schule/Nekromantie
+aliases:
+  - Raise Dead
 ---
 # Raise Dead
 *5th-level, Necromancy*  

@@ -1,13 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Barde
-- Klasse/Magier
-- Zauber/Grad/6
-- Zauber/Schule/Verzauberung
-aliases: ["Otto's Irresistible Dance"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Barde
+  - Klasse/Magier
+  - Zauber/Grad/6
+  - Zauber/Schule/Verzauberung
+aliases:
+  - Otto's Irresistible Dance
 ---
 # Otto's Unwiderstehlicher Tanz
 *6th-level, Enchantment*  

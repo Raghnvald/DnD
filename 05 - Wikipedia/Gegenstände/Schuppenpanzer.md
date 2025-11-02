@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: dnd5e-compendium
 tags:
-- Quelle/5e/Players_Handbook
-- Gegenstand/Rüstung/Mittel
-- Gegenstand/Seltenheit/gewöhnlich
-aliases: 
-- Scale Mail
+  - Quelle/5e/Players_Handbook
+  - Gegenstand/Rüstung/Mittel
+  - Gegenstand/Seltenheit/gewöhnlich
+aliases:
+  - Scale Mail
 Bezeichnung: Schuppenpanzer
 Typ: Rüstung
 Rüstung: Mittel

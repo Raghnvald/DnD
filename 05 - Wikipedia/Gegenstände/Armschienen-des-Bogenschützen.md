@@ -1,13 +1,12 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- Quelle/5e/Dungeon_Masters_Guide
-- Gegenstand/wundersam
-- Gegenstand/Seltenheit/ungewöhnlich
-- Gegenstand/Einstimmung
+  - Quelle/5e/Dungeon_Masters_Guide
+  - Gegenstand/wundersam
+  - Gegenstand/Seltenheit/ungewöhnlich
+  - Gegenstand/Einstimmung
 aliases:
-- Bracers of Archery
+  - Bracers of Archery
 ---
 # Armschienen des Bogenschützen
 *Wundersamer Gegenstand, ungewöhnlich (erfordert Einstimmung)*  

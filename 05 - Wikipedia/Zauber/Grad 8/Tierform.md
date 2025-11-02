@@ -1,12 +1,12 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Druide
-- Zauber/Grad/8
-- Zauber/Schule/Verwandlung
-aliases: ["Animal Shapes"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Druide
+  - Zauber/Grad/8
+  - Zauber/Schule/Verwandlung
+aliases:
+  - Animal Shapes
 ---
 # Tierform
 ![](../../../99%20-%20Setup/Files/Bildersammlung/Symbolik/Verwandlungszauber.webp#token)

@@ -1,13 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- Quelle/5e/Monster_Manual
-- Habitat/Unterreich
-- Habitat/Stadt
-- Größe/Mittelgroß
-- Typ/Monstrosität/Gestaltwandler
-aliases: ["Mimic"]
+  - Quelle/5e/Monster_Manual
+  - Habitat/Unterreich
+  - Habitat/Stadt
+  - Größe/Mittelgroß
+  - Typ/Monstrosität/Gestaltwandler
+aliases:
+  - Mimic
 ---
 # Mimic
 *Source: SRD / Basic Rules*  

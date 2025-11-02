@@ -1,10 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- Quelle/5e/Players_Handbook
-- Gegenstand/Ausrüstung
-aliases: ["Iron Spikes (10)"]
+  - Quelle/5e/Players_Handbook
+  - Gegenstand/Ausrüstung
+aliases:
+  - Iron Spikes (10)
 ---
 # Eisenstacheln (10)
 *Abenteuerausrüstung, gewöhnlich*  

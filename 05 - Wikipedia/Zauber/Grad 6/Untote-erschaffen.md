@@ -1,14 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Kleriker
-- Klasse/Hexenmeister
-- Klasse/Magier
-- Zauber/Grad/6
-- Zauber/Schule/Nekromantie
-aliases: ["Create Undead"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Kleriker
+  - Klasse/Hexenmeister
+  - Klasse/Magier
+  - Zauber/Grad/6
+  - Zauber/Schule/Nekromantie
+aliases:
+  - Create Undead
 ---
 # Create Undead
 *6th-level, Necromancy*  

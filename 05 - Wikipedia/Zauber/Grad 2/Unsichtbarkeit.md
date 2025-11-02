@@ -1,15 +1,15 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Barde
-- Klasse/Zauberer
-- Klasse/Hexenmeister
-- Klasse/Magier
-- Zauber/Grad/2
-- Zauber/Schule/Illusion
-aliases: ["Invisibility"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Barde
+  - Klasse/Zauberer
+  - Klasse/Hexenmeister
+  - Klasse/Magier
+  - Zauber/Grad/2
+  - Zauber/Schule/Illusion
+aliases:
+  - Invisibility
 ---
 # Invisibility
 *2nd-level, Illusion*  

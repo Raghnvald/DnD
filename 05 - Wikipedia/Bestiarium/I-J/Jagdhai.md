@@ -1,20 +1,19 @@
 ---
 cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
-Bezeichnung: 
+Bezeichnung:
 Typ: Bestie
-Größe: 
-HG: 
+Größe:
+HG:
 status:
-order:
-parent:
-image: 
+image:
 tags:
-- Quelle/5e/Monster_Manual
-- Habitat/Unterwasser
-- Größe/Groß
-- Typ/Tier
-aliases: ["Hunter Shark"]
+  - Quelle/5e/Monster_Manual
+  - Habitat/Unterwasser
+  - Größe/Groß
+  - Typ/Tier
+aliases:
+  - Hunter Shark
 ---
 # Hunter Shark
 *Source: SRD / Basic Rules*  

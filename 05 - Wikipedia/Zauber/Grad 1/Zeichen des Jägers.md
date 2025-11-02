@@ -1,12 +1,12 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Waldläufer
-- Zauber/Grad/1
-- Zauber/Schule/Erkenntnis
-aliases: ["Hunter's Mark"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Waldläufer
+  - Zauber/Grad/1
+  - Zauber/Schule/Erkenntnis
+aliases:
+  - Hunter's Mark
 ---
 # Hunter's Mark
 *1st-level, Divination*  

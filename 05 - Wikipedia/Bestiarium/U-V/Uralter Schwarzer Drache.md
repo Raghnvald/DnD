@@ -1,12 +1,12 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- Quelle/5e/Monster_Manual
-- Habitat/Sumpf
-- Größe/Gigantisch
-- Typ/Drache
-aliases: ["Ancient Black Dragon"]
+  - Quelle/5e/Monster_Manual
+  - Habitat/Sumpf
+  - Größe/Gigantisch
+  - Typ/Drache
+aliases:
+  - Ancient Black Dragon
 ---
 # Ancient Black Dragon
 *Source: SRD / Basic Rules*  

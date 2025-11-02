@@ -1,11 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-monster
-tags:
-- Quelle/5e/Monster_Manual
-- Habitat/Wald
-- Größe/Winzig
-- Typ/Fee
+cssclasses: dnd5e-only-statblock
+prefer-view: edit-source read
+Bezeichnung: Feengeist
+Typ: Feenwesen
+Größe: Winzig
+HG: 1/4
+Habitat:
+  - Wald
+status: WIP
+image:
+tags: [Quelle/5e/Monster_Manual]
 aliases: ["Sprite"]
 ---
 # Sprite

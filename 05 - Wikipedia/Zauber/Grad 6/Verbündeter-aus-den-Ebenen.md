@@ -1,12 +1,12 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Kleriker
-- Zauber/Grad/6
-- Zauber/Schule/Beschwörung
-aliases: ["Planar Ally"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Kleriker
+  - Zauber/Grad/6
+  - Zauber/Schule/Beschwörung
+aliases:
+  - Planar Ally
 ---
 # Planar Ally
 *6th-level, Conjuration*  

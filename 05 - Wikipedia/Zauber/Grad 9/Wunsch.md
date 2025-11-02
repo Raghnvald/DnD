@@ -1,13 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Zauberer
-- Klasse/Magier
-- Zauber/Grad/9
-- Zauber/Schule/Beschwörung
-aliases: ["Wish"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Zauberer
+  - Klasse/Magier
+  - Zauber/Grad/9
+  - Zauber/Schule/Beschwörung
+aliases:
+  - Wish
 ---
 # Wunsch
 ![](../../../99%20-%20Setup/Files/Bildersammlung/Symbolik/Beschwörungszauber.webp#token)

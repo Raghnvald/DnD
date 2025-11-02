@@ -1,13 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- Quelle/5e/Dungeon_Masters_Guide
-- Gegenstand/Einstimmung/erforderlich
-- Gegenstand/Seltenheit/sehr_selten
-- Gegenstand/Tier/major
-- Gegenstand/wundersam/Ring
-aliases: ["Ring of Regeneration"]
+  - Quelle/5e/Dungeon_Masters_Guide
+  - Gegenstand/Einstimmung/erforderlich
+  - Gegenstand/Seltenheit/sehr_selten
+  - Gegenstand/Tier/major
+  - Gegenstand/wundersam/Ring
+aliases:
+  - Ring of Regeneration
 ---
 # Ring of Regeneration
 *Ring, major, very rare (requires attunement)*  

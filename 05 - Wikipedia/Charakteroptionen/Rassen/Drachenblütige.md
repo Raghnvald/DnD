@@ -1,9 +1,5 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-race
-tags:
-- Quelle/5e/Players_Handbook
-- Rasse/Drachenblut
+tags: [Quelle/5e/Players_Handbook]
 aliases: ["Dragonborn"]
 ---
 # Drachenblütige

@@ -1,19 +1,19 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- Quelle/5e/Dungeon_Masters_Guide
-- Gegenstand/Einstimmung/erforderlich
-- Gegenstand/Seltenheit/legendär
-- Gegenstand/Tier/major
-- Gegenstand/wundersam
-aliases: ["Talisman of Ultimate Evil"]
+- Quelle/5e/dmg
+- ttrpg-cli/item/attunement/required
+- ttrpg-cli/item/rarity/legendary
+- ttrpg-cli/item/tier/major
+aliases: 
+- "Talisman of Ultimate Evil"
 ---
 # Talisman of Ultimate Evil
-*Wondrous Item, major, legendary (requires attunement by a creature of evil alignment)*  
+*Wondrous item, major, legendary (requires attunement by a creature of evil alignment)*  
+![](/3-Mechanics/CLI/items/img/talisman-of-ultimate-evil.webp#right)
 
-- **Properties**: Requires Attunement
-- **Cost**: ⏤
 - **Weight**: 1.0 lbs.
 
 This item symbolizes unrepentant evil. A creature that is neither good nor evil in alignment takes `6d6` necrotic damage upon touching the talisman. A good creature takes `8d6` necrotic damage upon touching the talisman. Either sort of creature takes the damage again each time it ends its turn holding or carrying the talisman.
@@ -22,4 +22,4 @@ If you are an evil cleric or paladin, you can use the talisman as a holy symbol,
 
 The talisman has 6 charges. If you are wearing or holding it, you can use an action to expend 1 charge from the talisman and choose one creature you can see on the ground within 120 feet of you. If the target is of good alignment, a flaming fissure opens under it. The target must succeed on a DC 20 Dexterity saving throw or fall into the fissure and be destroyed, leaving no remains. The fissure then closes, leaving no trace of its existence. When you expend the last charge, the talisman dissolves into foul-smelling slime and is destroyed.
 
-*Source: SRD / Basic Rules*
+*Source: Dungeon Master's Guide p. 207. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

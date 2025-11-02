@@ -1,13 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- Quelle/5e/Dungeon_Masters_Guide
-- Gegenstand/Einstimmung/erforderlich
-- Gegenstand/Seltenheit/selten
-- Gegenstand/Tier/major
-- Gegenstand/wundersam/Ring
-aliases: ["Ring of Cold Resistance"]
+  - Quelle/5e/Dungeon_Masters_Guide
+  - Gegenstand/Einstimmung/erforderlich
+  - Gegenstand/Seltenheit/selten
+  - Gegenstand/Tier/major
+  - Gegenstand/wundersam/Ring
+aliases:
+  - Ring of Cold Resistance
 ---
 # Ring of Cold Resistance
 *Ring, major, rare (requires attunement)*  

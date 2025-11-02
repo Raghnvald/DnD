@@ -1,13 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Barde
-- Klasse/Magier
-- Zauber/Grad/5
-- Zauber/Schule/Verzauberung
-aliases: ["Modify Memory"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Barde
+  - Klasse/Magier
+  - Zauber/Grad/5
+  - Zauber/Schule/Verzauberung
+aliases:
+  - Modify Memory
 ---
 # Modify Memory
 *5th-level, Enchantment*  

@@ -5,18 +5,13 @@ Bezeichnung:
 Typ: Untoter
 Größe: Mittelgroß
 HG: 4
+Habitat:
+  - Stadt
+  - Unterreich
 status: WIP
-order:
-parent:
 image:
-tags:
-  - Quelle/5e/Monster_Manual
-  - Typ/Untote
-  - Größe/Mittelgroß
-  - Habitat/Unterreich
-  - Habitat/Stadt
-aliases:
-  - Ghost
+tags: [Quelle/5e/Monster_Manual]
+aliases: [Ghost]
 ---
 # Ghost
 *Source: SRD / Basic Rules*  

@@ -1,5 +1,5 @@
 ---
-tags: [Quelle/5e/Curse_of_Strahd]
+tags: [Quelle/5e/cos]
 ---
 # Informationen über Barovia - allgemein
 - der Morgenfürst ist ähnlich wie Lathander und hat genauso eine Begeisterung für den Sonnenaufgang und Erneuerung
@@ -150,7 +150,7 @@ Strahd tritt den Charakteren in der Kapelle gegenüber (Bereich K15).
 - [Grul](Grul.md)
 - [Lich](Lich.md)
 - [Magier](Magus.md)
-- [Nothic](Nothic.md)
+- [Nothic (Legacy)](Nothic%20(Legacy).md)
 - [Quasit](Quasit.md)
 - [Rahadin](../00.%20NPCs/Rahadin.md)
 - [Schreckgespenst](Schreckgespenst.md)

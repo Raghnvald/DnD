@@ -1,14 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Barde
-- Klasse/Hexenmeister
-- Klasse/Magier
-- Zauber/Grad/9
-- Zauber/Schule/Verwandlung
-aliases: ["True Polymorph"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Barde
+  - Klasse/Hexenmeister
+  - Klasse/Magier
+  - Zauber/Grad/9
+  - Zauber/Schule/Verwandlung
+aliases:
+  - True Polymorph
 ---
 # True Polymorph
 *9th-level, Transmutation*  

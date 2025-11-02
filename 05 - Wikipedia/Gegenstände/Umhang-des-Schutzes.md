@@ -1,13 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- Quelle/5e/Dungeon_Masters_Guide
-- Gegenstand/Einstimmung/erforderlich
-- Gegenstand/Seltenheit/ungewöhnlich
-- Gegenstand/Tier/major
-- Gegenstand/wundersam
-aliases: ["Cloak of Protection"]
+  - Quelle/5e/Dungeon_Masters_Guide
+  - Gegenstand/Einstimmung/erforderlich
+  - Gegenstand/Seltenheit/ungewöhnlich
+  - Gegenstand/Tier/major
+  - Gegenstand/wundersam
+aliases:
+  - Cloak of Protection
 ---
 # Cloak of Protection
 *Wondrous Item, major, uncommon (requires attunement)*  

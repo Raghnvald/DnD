@@ -1,14 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Kleriker
-- Klasse/Druide
-- Klasse/Waldläufer
-- Zauber/Grad/2
-- Zauber/Schule/Erkenntnis
-aliases: ["Find Traps"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Kleriker
+  - Klasse/Druide
+  - Klasse/Waldläufer
+  - Zauber/Grad/2
+  - Zauber/Schule/Erkenntnis
+aliases:
+  - Find Traps
 ---
 # Find Traps
 *2nd-level, Divination*  

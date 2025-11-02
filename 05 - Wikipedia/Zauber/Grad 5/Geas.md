@@ -1,16 +1,16 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Barde
-- Klasse/Kleriker
-- Klasse/Druide
-- Klasse/Paladin
-- Klasse/Magier
-- Zauber/Grad/5
-- Zauber/Schule/Verzauberung
-aliases: ["Geas"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Barde
+  - Klasse/Kleriker
+  - Klasse/Druide
+  - Klasse/Paladin
+  - Klasse/Magier
+  - Zauber/Grad/5
+  - Zauber/Schule/Verzauberung
+aliases:
+  - Geas
 ---
 # Geas
 *5th-level, Enchantment*  

@@ -1,11 +1,12 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-monster
+Typ: Konstrukt
 tags:
-- Quelle/5e/Monster_Manual
-- Größe/Groß
-- Typ/Konstrukt
-aliases: ["Iron Golem"]
+  - Größe/Groß
+  - Quelle/5e/Monster_Manual
+  - Typ/Konstrukt
+aliases:
+  - Iron Golem
 ---
 # Iron Golem
 *Source: SRD / Basic Rules*  

@@ -1,14 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclasses: dnd5e-compendium
 tags:
-- Quelle/5e/Dungeon_Masters_Guide
-- Gegenstand/Einstimmung
-- Gegenstand/Ausrüstung/Instrument
-- Gegenstand/Seltenheit/ungewöhnlich
-- Gegenstand/Tier/major
-aliases: 
-- Pipes of the Sewers
+  - Quelle/5e/Dungeon_Masters_Guide
+  - Gegenstand/Einstimmung
+  - Gegenstand/Ausrüstung/Instrument
+  - Gegenstand/Seltenheit/ungewöhnlich
+  - Gegenstand/Tier/major
+aliases:
+  - Pipes of the Sewers
 Bezeichnung: Flöte des Rattenfängers
 Typ: Instrument
 Eigenschaften: erfordert Einstimmung

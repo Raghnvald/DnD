@@ -1,13 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Kleriker
-- Zauber/Grad/4
-- Zauber/Ritual
-- Zauber/Schule/Erkenntnis
-aliases: ["Divination"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Kleriker
+  - Zauber/Grad/4
+  - Zauber/Ritual
+  - Zauber/Schule/Erkenntnis
+aliases:
+  - Divination
 ---
 # Divination
 *4th-level, Divination (ritual)*  

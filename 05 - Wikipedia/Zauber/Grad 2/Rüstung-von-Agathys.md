@@ -1,12 +1,12 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Hexenmeister
-- Zauber/Grad/2
-- Zauber/Schule/Bann
-aliases: ["Armor of Agathys"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Hexenmeister
+  - Zauber/Grad/2
+  - Zauber/Schule/Bann
+aliases:
+  - Armor of Agathys
 ---
 # Rüstung von Agathys
 ![](../../../99%20-%20Setup/Files/Bildersammlung/Symbolik/Bannzauber.webp#token)

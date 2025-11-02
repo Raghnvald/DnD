@@ -1,12 +1,12 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- Quelle/5e/Dungeon_Masters_Guide
-- Gegenstand/Seltenheit/gewöhnlich
-- Gegenstand/Tier/minor
-- Gegenstand/wundersam/Trank
-aliases: ["Potion of Climbing"]
+  - Quelle/5e/Dungeon_Masters_Guide
+  - Gegenstand/Seltenheit/gewöhnlich
+  - Gegenstand/Tier/minor
+  - Gegenstand/wundersam/Trank
+aliases:
+  - Potion of Climbing
 ---
 # Potion of Climbing
 *Potion, minor, common*  

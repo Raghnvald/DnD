@@ -1,15 +1,15 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Kleriker
-- Klasse/Paladin
-- Klasse/Hexenmeister
-- Klasse/Magier
-- Zauber/Grad/3
-- Zauber/Schule/Bann
-aliases: ["Magic Circle"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Kleriker
+  - Klasse/Paladin
+  - Klasse/Hexenmeister
+  - Klasse/Magier
+  - Zauber/Grad/3
+  - Zauber/Schule/Bann
+aliases:
+  - Magic Circle
 ---
 # Magic Circle
 *3rd-level, Abjuration*  

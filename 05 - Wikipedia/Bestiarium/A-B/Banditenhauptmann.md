@@ -1,17 +1,18 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- Quelle/5e/Monster_Manual
-- Habitat/Arktis
-- Habitat/Küste
-- Habitat/Wüste
-- Habitat/Wald
-- Habitat/Hügel
-- Habitat/Stadt
-- Größe/Mittelgroß
-- Typ/Humanoid/jede-rasse
-aliases: ["Bandit Captain"]
+  - Größe/Mittelgroß
+  - Habitat/Arktis
+  - Habitat/Hügel
+  - Habitat/Küste
+  - Habitat/Stadt
+  - Habitat/Wald
+  - Habitat/Wüste
+  - Quelle/5e/Monster_Manual
+  - Typ/Humanoid/jede-rasse
+aliases:
+  - Bandit Captain
+Typ: Humanoid
 ---
 # Bandit Captain
 *Source: SRD / Basic Rules*  

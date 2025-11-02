@@ -1,12 +1,12 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Paladin
-- Zauber/Grad/4
-- Zauber/Schule/Hervorrufung
-aliases: ["Staggering Smite"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Paladin
+  - Zauber/Grad/4
+  - Zauber/Schule/Hervorrufung
+aliases:
+  - Staggering Smite
 ---
 # Wankendmachendes Niederstrecken - 2014
 ![](../../../99%20-%20Setup/Files/Bildersammlung/Symbolik/Hervorrufungszauber.webp#token)

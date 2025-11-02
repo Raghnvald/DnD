@@ -1,20 +1,20 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- Quelle/5e/Monster_Manual
-- Habitat/Berg
-- Habitat/Grasland
-- Habitat/Hügel
-- Habitat/Küste
-- Habitat/Stadt
-- Habitat/Sumpf
-- Habitat/Unterreich
-- Habitat/Wald
-- Habitat/Wüste
-- Größe/Winzig
-- Typ/Tier
-aliases: ["Stirge"]
+  - Größe/Winzig
+  - Habitat/Berg
+  - Habitat/Grasland
+  - Habitat/Hügel
+  - Habitat/Küste
+  - Habitat/Stadt
+  - Habitat/Sumpf
+  - Habitat/Unterreich
+  - Habitat/Wald
+  - Habitat/Wüste
+  - Quelle/5e/Monster_Manual
+  - Typ/Tier
+aliases:
+  - Stirge
 ---
 ```statblock
 statblock: true

@@ -1,13 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Druide
-- Klasse/Hexenmeister
-- Zauber/Grad/6
-- Zauber/Schule/Beschwörung
-aliases: ["Conjure Fey"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Druide
+  - Klasse/Hexenmeister
+  - Zauber/Grad/6
+  - Zauber/Schule/Beschwörung
+aliases:
+  - Conjure Fey
 ---
 # Feenwesen beschwören
 *6th-level, Conjuration*  

@@ -1,15 +1,15 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Barde
-- Klasse/Zauberer
-- Klasse/Hexenmeister
-- Klasse/Magier
-- Zauber/Grad/2
-- Zauber/Schule/Hervorrufung
-aliases: ["Shatter"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Barde
+  - Klasse/Zauberer
+  - Klasse/Hexenmeister
+  - Klasse/Magier
+  - Zauber/Grad/2
+  - Zauber/Schule/Hervorrufung
+aliases:
+  - Shatter
 ---
 # Shatter
 *2nd-level, Evocation*  

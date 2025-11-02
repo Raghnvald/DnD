@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-monster
 tags:
-  - Quelle/5e/Curse_of_Strahd
-  - Habitat/Wald
   - Größe/Riesig
+  - Habitat/Wald
+  - Quelle/5e/cos
   - Typ/Pflanze
 aliases:
   - Tree Blight

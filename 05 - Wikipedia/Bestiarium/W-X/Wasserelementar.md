@@ -1,22 +1,21 @@
 ---
 cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
-Bezeichnung: 
+Bezeichnung:
 Typ: Elementar
-Größe: 
-HG: 
+Größe:
+HG:
 status:
-order:
-parent:
-image: 
+image:
 tags:
-- Quelle/5e/Monster_Manual
-- Habitat/Küste
-- Habitat/Sumpf
-- Habitat/Unterwasser
-- Größe/Groß
-- Typ/Elementar
-aliases: ["Water Elemental"]
+  - Quelle/5e/Monster_Manual
+  - Habitat/Küste
+  - Habitat/Sumpf
+  - Habitat/Unterwasser
+  - Größe/Groß
+  - Typ/Elementar
+aliases:
+  - Water Elemental
 ---
 # Water Elemental
 *Source: SRD / Basic Rules*  

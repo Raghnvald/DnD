@@ -6,16 +6,14 @@ Typ: Riese
 Größe: Riesig
 HG: 9
 status:
-order:
-parent:
-image: 
+image:
 tags:
-- Quelle/5e/Monster_Manual
-- Typ/Riese
-- Größe/Riesig
-- Habitat/Berg
+  - Quelle/5e/Monster_Manual
+  - Typ/Riese
+  - Größe/Riesig
+  - Habitat/Berg
 aliases:
-- Cloud Giant
+  - Cloud Giant
 ---
 # Wolkenriese
 *Source: SRD / Basic Rules*  

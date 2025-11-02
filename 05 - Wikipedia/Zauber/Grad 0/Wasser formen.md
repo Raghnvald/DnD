@@ -7,7 +7,7 @@ Wirkungsdauer: Unmittelbar oder 1 Stunde
 Angriff: nichts
 Schaden: Kontrolle
 tags: 
-- Quelle/5e/Xanathars_Guide_to_Everything
+- Quelle/5e/xge
 - Klasse/Druide
 - Klasse/Magier
 - Klasse/Zauberer

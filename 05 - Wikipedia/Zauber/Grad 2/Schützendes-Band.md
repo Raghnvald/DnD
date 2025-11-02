@@ -1,12 +1,12 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Kleriker
-- Zauber/Grad/2
-- Zauber/Schule/Bann
-aliases: ["Warding Bond"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Kleriker
+  - Zauber/Grad/2
+  - Zauber/Schule/Bann
+aliases:
+  - Warding Bond
 ---
 # Warding Bond
 *2nd-level, Abjuration*  

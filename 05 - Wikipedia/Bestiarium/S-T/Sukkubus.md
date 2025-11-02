@@ -1,12 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- Quelle/5e/Monster_Manual
-- Habitat/Stadt
-- Größe/Mittelgroß
-- Typ/Unhold/Gestaltwandler
-aliases: ["Succubus"]
+  - Quelle/5e/Monster_Manual
+  - Habitat/Stadt
+  - Größe/Mittelgroß
+  - Typ/Unhold/Gestaltwandler
+aliases:
+  - Succubus
+Typ: Unhold
 ---
 # Succubus
 *Source: SRD / Basic Rules*  

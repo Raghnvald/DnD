@@ -1,27 +1,21 @@
 ---
-Bezeichnung: Sack
-Typ: Behälter
-Eigenschaften: n/v
-Gew.: 0,25 kg
-Kst.: 1 KM
+obsidianUIMode: preview
+cssclasses:
+- json5e-item
 tags:
-- Quelle/5e/Players_Handbook
-- Gegenstand/Ausrüstung
-- Gegenstand/Seltenheit/gewöhnlich
-aliases:
-- Sack
+- Quelle/5e/phb
+- ttrpg-cli/item/gear/
+- ttrpg-cli/item/rarity/none
+aliases: 
+- "Sack"
 ---
 # Sack
-*Abenteuerausrüstung, gewöhnlich*
-<img src="Symbolik/Gegenstände.webp" align="right" width="150">
+*Adventuring gear*  
 
-_Klassen:_ n/v 
-_Unterklassen:_  n/v
 
-_Quellen:_ Spielerhandbuch
+- **Cost**: 1 cp
+- **Weight**: 0.5 lbs.
 
-- **Eigenschaften**: n/v
-- **Gewicht**: 0,25 kg.
-- **Kosten**: 1 Kupfermünze
+A sack can hold up to 1 cubic foot or 30 pounds of gear.
 
-Ein Sack hat ein Fassungsvermögen von 30 Liter Flüssigkeit oder 15 kg. Ausrüstung.
+*Source: Player's Handbook p. 153. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

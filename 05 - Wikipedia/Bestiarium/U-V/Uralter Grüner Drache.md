@@ -1,12 +1,12 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- Quelle/5e/Monster_Manual
-- Habitat/Wald
-- Größe/Gigantisch
-- Typ/Drache
-aliases: ["Ancient Green Dragon"]
+  - Quelle/5e/Monster_Manual
+  - Habitat/Wald
+  - Größe/Gigantisch
+  - Typ/Drache
+aliases:
+  - Ancient Green Dragon
 ---
 # Ancient Green Dragon
 *Source: SRD / Basic Rules*  

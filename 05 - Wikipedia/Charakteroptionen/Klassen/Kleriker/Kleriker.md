@@ -3,11 +3,11 @@ prefer-view:
   - edit-source read
 status:
   - completed
-order:
-parent:
-  - Kleriker
-tags: [Klasse/Kleriker, Quelle/5e/Players_Handbook]
-aliases: [Cleric]
+tags:
+  - Klasse/Kleriker
+  - Quelle/5e/Players_Handbook
+aliases:
+  - Cleric
 link:
   - https://www.dndbeyond.com/classes/2190877-cleric
 type:

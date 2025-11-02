@@ -1,23 +1,22 @@
 ---
 cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
-Bezeichnung: 
+Bezeichnung:
 Typ: Bestie
-Größe: 
-HG: 
+Größe:
+HG:
 status:
-order:
-parent:
-image: 
+image:
 tags:
-- Quelle/5e/Monster_Manual
-- Habitat/Wüste
-- Habitat/Wald
-- Habitat/Grasland
-- Habitat/Stadt
-- Größe/Winzig
-- Typ/Tier
-aliases: ["Cat"]
+  - Quelle/5e/Monster_Manual
+  - Habitat/Wüste
+  - Habitat/Wald
+  - Habitat/Grasland
+  - Habitat/Stadt
+  - Größe/Winzig
+  - Typ/Tier
+aliases:
+  - Cat
 ---
 # Cat
 *Source: SRD / Basic Rules*  

@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-monster
 tags:
-  - Quelle/5e/Curse_of_Strahd
-  - Habitat/Stadt
   - Größe/Klein
+  - Habitat/Stadt
+  - Quelle/5e/cos
   - Typ/Konstrukt
 aliases:
   - Broom of animated attack

@@ -5,18 +5,13 @@ Bezeichnung:
 Typ: Untoter
 Größe: Mittelgroß
 HG: 1/2
+Habitat:
+  - Stadt
+  - Unterreich
 status: WIP
-order:
-parent:
 image:
-tags:
-  - Quelle/5e/Monster_Manual
-  - Habitat/Unterreich
-  - Habitat/Stadt
-  - Größe/Mittelgroß
-  - Typ/Untote
-aliases:
-  - Shadow
+tags: [Quelle/5e/Monster_Manual]
+aliases: [Shadow]
 ---
 # Shadow
 

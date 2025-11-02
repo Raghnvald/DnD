@@ -1,15 +1,15 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Barde
-- Klasse/Druide
-- Klasse/Hexenmeister
-- Klasse/Magier
-- Zauber/Grad/4
-- Zauber/Schule/Illusion
-aliases: ["Hallucinatory Terrain"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Barde
+  - Klasse/Druide
+  - Klasse/Hexenmeister
+  - Klasse/Magier
+  - Zauber/Grad/4
+  - Zauber/Schule/Illusion
+aliases:
+  - Hallucinatory Terrain
 ---
 # Hallucinatory Terrain
 *4th-level, Illusion*  

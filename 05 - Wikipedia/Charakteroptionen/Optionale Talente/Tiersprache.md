@@ -1,10 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- Quelle/5e/Players_Handbook
-- Kompendium/Optionales/Anrufungen
-aliases: ["Beast Speech"]
+  - Quelle/5e/Players_Handbook
+  - Kompendium/Optionales/Anrufungen
+aliases:
+  - Beast Speech
 ---
 # Tiersprache
 *Quelle: SRD / Grundregelwerk / Spielerhandbuch*  

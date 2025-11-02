@@ -1,21 +1,20 @@
 ---
-cssclasses: 
-- json5e-monster
-prefer-view: 
-- edit-source read
-type: 
-- creature
-tags: 
-- Quelle/5e/Monster_Manual
-- Typ/Unhold/Teufel
-- Größe/Mittelgroß
-- Habitat/Planar/Untere Ebenen
-aliases: 
-- Bearded Devil
-link:
+cssclasses:
+  - json5e-monster
+prefer-view:
+  - edit-source read
 status:
-order:
-parent:
+tags:
+  - Größe/Mittelgroß
+  - Habitat/Planar/Untere Ebenen
+  - Quelle/5e/Monster_Manual
+  - Typ/Unhold/Teufel
+aliases:
+  - Bearded Devil
+link:
+type:
+  - creature
+Typ: Unhold
 ---
 # Bearded Devil
 *Source: SRD / Basic Rules*  

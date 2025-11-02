@@ -1,14 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Barde
-- Klasse/Kleriker
-- Klasse/Magier
-- Zauber/Grad/5
-- Zauber/Schule/Erkenntnis
-aliases: ["Legend Lore"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Barde
+  - Klasse/Kleriker
+  - Klasse/Magier
+  - Zauber/Grad/5
+  - Zauber/Schule/Erkenntnis
+aliases:
+  - Legend Lore
 ---
 # Legend Lore
 *5th-level, Divination*  

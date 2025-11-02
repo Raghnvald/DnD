@@ -1,14 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-monster
 tags:
-  - Quelle/5e/Curse_of_Strahd
+  - Quelle/5e/cos
   - Größe/Mittelgroß
   - Typ/Humanoid
 aliases:
   - Rictavio
   - Rudolph van Richten
+Typ: Humanoid
 ---
 # Rictavio
 

@@ -1,9 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- Quelle/5e/Dungeon_Masters_Guide
-aliases: ["Object Hit Points"]
+  - Quelle/5e/Dungeon_Masters_Guide
+aliases:
+  - Object Hit Points
 ---
 # Trefferpunkte eines Gegenstands
 *Quelle: SRD / Grundregelwerk*

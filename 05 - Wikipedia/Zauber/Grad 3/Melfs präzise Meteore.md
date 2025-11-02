@@ -7,7 +7,7 @@ Wirkungsdauer: Konzentration, bis zu 10 Minuten
 Angriff: GES
 Schaden: 2d6 Feuer
 tags:
-- Quelle/5e/Xanathars_Guide_to_Everything
+- Quelle/5e/xge
 - Klasse/Magier
 - Klasse/Zauberer
 - Zauber/Original/Melfs_Minute_Meteors

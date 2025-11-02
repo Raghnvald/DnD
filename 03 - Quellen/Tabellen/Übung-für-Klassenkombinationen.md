@@ -1,9 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- Quelle/5e/Players_Handbook
-aliases: ["Multiclassing Proficiencies"]
+  - Quelle/5e/Players_Handbook
+aliases:
+  - Multiclassing Proficiencies
 ---
 # Übung für Klassenkombinationen
 *Source: SRD / Basic Rules* 

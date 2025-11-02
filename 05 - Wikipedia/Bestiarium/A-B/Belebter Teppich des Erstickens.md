@@ -1,11 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- Quelle/5e/Monster_Manual
-- Größe/Groß
-- Typ/Konstrukt
-aliases: ["Rug of Smothering"]
+  - Größe/Groß
+  - Quelle/5e/Monster_Manual
+  - Typ/Konstrukt
+aliases:
+  - Rug of Smothering
 ---
 # Animated Rug of Smothering
 *Source: SRD / Basic Rules*  

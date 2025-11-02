@@ -1,13 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Druide
-- Klasse/Magier
-- Zauber/Grad/9
-- Zauber/Schule/Verwandlung
-aliases: ["Shapechange"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Druide
+  - Klasse/Magier
+  - Zauber/Grad/9
+  - Zauber/Schule/Verwandlung
+aliases:
+  - Shapechange
 ---
 # Shapechange
 *9th-level, Transmutation*  

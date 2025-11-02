@@ -8,7 +8,7 @@ Angriff: WEI
 Schaden: n/a
 status: completed
 tags:
-  - Quelle/5e/Xanathars_Guide_to_Everything
+  - Quelle/5e/xge
   - Klasse/Hexenmeister
   - Klasse/Magier
   - Zauber/Original/Cause_Fear

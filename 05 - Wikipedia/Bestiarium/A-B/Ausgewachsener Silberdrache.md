@@ -1,13 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- Quelle/5e/Monster_Manual
-- Habitat/Berg
-- Habitat/Stadt
-- Größe/Riesig
-- Typ/Drache
-aliases: ["Adult Silver Dragon"]
+  - Größe/Riesig
+  - Habitat/Berg
+  - Habitat/Stadt
+  - Quelle/5e/Monster_Manual
+  - Typ/Drache
+aliases:
+  - Adult Silver Dragon
 ---
 # Adult Silver Dragon
 *Source: SRD / Basic Rules*  
@@ -88,7 +88,7 @@ aliases: ["Adult Silver Dragon"]
 > - Within 1 mile of the lair, winds buoy non-evil creatures that fall due to no act of the dragon's or its allies. Such creatures descend at a rate of 60 feet per round and take no falling damage.  
 > - Given days or longer to work, the dragon can make clouds and fog within its lair as solid as stone, forming structures and other objects as it wishes.  
 > 
-> If the dragon dies, changed weather reverts to normal, as described in the spell, and the other effects fade in `1d10` days.
+> If the dragon dies, changed weather reverts to normal, as described in the spell, and the other effects fade in `1d10` days.
 ^statblock
 
 ## Environment

@@ -1,12 +1,12 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- Quelle/5e/Monster_Manual
-- Habitat/Wüste
-- Größe/Groß
-- Typ/Monstrosität
-aliases: ["Lamia"]
+  - Quelle/5e/Monster_Manual
+  - Habitat/Wüste
+  - Größe/Groß
+  - Typ/Monstrosität
+aliases:
+  - Lamia
 ---
 # Lamia
 *Source: SRD / Basic Rules*  

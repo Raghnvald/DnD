@@ -1,16 +1,16 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Kleriker
-- Klasse/Druide
-- Klasse/Paladin
-- Klasse/Waldläufer
-- Zauber/Grad/1
-- Zauber/Ritual
-- Zauber/Schule/Erkenntnis
-aliases: ["Detect Poison and Disease"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Kleriker
+  - Klasse/Druide
+  - Klasse/Paladin
+  - Klasse/Waldläufer
+  - Zauber/Grad/1
+  - Zauber/Ritual
+  - Zauber/Schule/Erkenntnis
+aliases:
+  - Detect Poison and Disease
 ---
 # Detect Poison and Disease
 *1st-level, Divination (ritual)*  

@@ -1,12 +1,12 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- Quelle/5e/Monster_Manual
-- Habitat/Wüste
-- Größe/Mittelgroß
-- Typ/Monstrosität
-aliases: ["Death Dog"]
+  - Quelle/5e/Monster_Manual
+  - Habitat/Wüste
+  - Größe/Mittelgroß
+  - Typ/Monstrosität
+aliases:
+  - Death Dog
 ---
 # Death Dog
 *Source: SRD / Basic Rules*  

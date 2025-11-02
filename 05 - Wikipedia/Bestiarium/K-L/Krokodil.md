@@ -1,22 +1,20 @@
 ---
 cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
-Bezeichnung: 
+Bezeichnung:
 Typ: Bestie
-Größe: 
-HG: 
+Größe:
+HG:
 status:
-order:
-parent:
-image: 
+image:
 tags:
-- Quelle/5e/Monster_Manual
-- Habitat/Sumpf
-- Habitat/Stadt
-- Größe/Groß
-- Typ/Tier
+  - Quelle/5e/Monster_Manual
+  - Habitat/Sumpf
+  - Habitat/Stadt
+  - Größe/Groß
+  - Typ/Tier
 aliases:
-- Crocodile
+  - Crocodile
 ---
 # Crocodile
 *Source: SRD / Basic Rules*  

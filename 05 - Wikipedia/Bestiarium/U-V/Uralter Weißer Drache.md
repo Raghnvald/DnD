@@ -1,12 +1,12 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- Quelle/5e/Monster_Manual
-- Habitat/Arktis
-- Größe/Gigantisch
-- Typ/Drache
-aliases: ["Ancient White Dragon"]
+  - Quelle/5e/Monster_Manual
+  - Habitat/Arktis
+  - Größe/Gigantisch
+  - Typ/Drache
+aliases:
+  - Ancient White Dragon
 ---
 # Ancient White Dragon
 *Source: SRD / Basic Rules*  

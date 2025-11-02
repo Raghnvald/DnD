@@ -1,13 +1,12 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- Quelle/5e/Monster_Manual
-- Typ/Drache
-- Größe/Groß
-- Habitat/Wüste
+  - Quelle/5e/Monster_Manual
+  - Typ/Drache
+  - Größe/Groß
+  - Habitat/Wüste
 aliases:
-- Young Brass Dragon
+  - Young Brass Dragon
 ---
 # Young Brass Dragon
 *Source: SRD / Basic Rules*  

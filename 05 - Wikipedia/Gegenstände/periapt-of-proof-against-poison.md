@@ -1,19 +1,20 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- Quelle/5e/Dungeon_Masters_Guide
-- Gegenstand/Seltenheit/selten
-- Gegenstand/Tier/major
-- Gegenstand/wundersam
-aliases: ["Periapt of Proof against Poison"]
+- Quelle/5e/dmg
+- ttrpg-cli/item/rarity/rare
+- ttrpg-cli/item/tier/major
+aliases: 
+- "Periapt of Proof against Poison"
 ---
 # Periapt of Proof against Poison
-*Wondrous Item, major, rare*  
+*Wondrous item, major, rare*  
 
-- **Cost**: ⏤
+
 - **Weight**: 1.0 lbs.
 
-This delicate silver chain has a brilliant-cut black gem pendant. While you wear it, poisons have no effect on you. You are immune to the [poisoned](rules/conditions.md#poisoned) condition and have immunity to poison damage.
+This delicate silver chain has a brilliant-cut black gem pendant. While you wear it, poisons have no effect on you. You are immune to the [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned) condition and have immunity to poison damage.
 
-*Source: SRD / Basic Rules*
+*Source: Dungeon Master's Guide p. 184. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

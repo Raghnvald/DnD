@@ -1,9 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- Quelle/5e/Players_Handbook
-aliases: ["The Greek Pantheon; Greek Deities"]
+  - Quelle/5e/Players_Handbook
+aliases:
+  - The Greek Pantheon; Greek Deities
 ---
 # The Greek Pantheon; Greek Deities
 *Source: SRD / Basic Rules* 

@@ -1,12 +1,12 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Druide
-- Zauber/Grad/6
-- Zauber/Schule/Verwandlung
-aliases: ["Wind Walk"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Druide
+  - Zauber/Grad/6
+  - Zauber/Schule/Verwandlung
+aliases:
+  - Wind Walk
 ---
 # Wind Walk
 *6th-level, Transmutation*  

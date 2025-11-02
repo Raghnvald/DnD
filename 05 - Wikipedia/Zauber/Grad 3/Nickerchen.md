@@ -7,7 +7,7 @@ Wirkungsdauer: 10 Minuten
 Angriff: n/v
 Schaden: Verstärkung
 tags:
-- Quelle/5e/Xanathars_Guide_to_Everything
+- Quelle/5e/xge
 - Klasse/Barde
 - Klasse/Magier
 - Klasse/Magieschmied

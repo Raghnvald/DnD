@@ -11,7 +11,6 @@ tags:
   - Zauber/Schule/Verwandlung
 aliases:
   - Longstrider
-obsidianUIMode: preview
 ---
 # Longstrider
 *1st-level, Transmutation*  

@@ -1,13 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- Quelle/5e/Monster_Manual
-- Habitat/Wüste
-- Habitat/Wald
-- Größe/Groß
-- Typ/Monstrosität
-aliases: ["Guardian Naga"]
+  - Quelle/5e/Monster_Manual
+  - Habitat/Wüste
+  - Habitat/Wald
+  - Größe/Groß
+  - Typ/Monstrosität
+aliases:
+  - Guardian Naga
 ---
 # Guardian Naga
 *Source: SRD / Basic Rules*  

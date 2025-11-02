@@ -1,13 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- Quelle/5e/Monster_Manual
-- Habitat/Küste
-- Habitat/Wüste
-- Größe/Gigantisch
-- Typ/Drache
-aliases: ["Ancient Blue Dragon"]
+  - Quelle/5e/Monster_Manual
+  - Habitat/Küste
+  - Habitat/Wüste
+  - Größe/Gigantisch
+  - Typ/Drache
+aliases:
+  - Ancient Blue Dragon
 ---
 # Ancient Blue Dragon
 *Source: SRD / Basic Rules*  

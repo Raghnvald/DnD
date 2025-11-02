@@ -1,12 +1,12 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Kleriker
-- Zauber/Grad/3
-- Zauber/Schule/Bann
-aliases: ["Beacon of Hope"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Kleriker
+  - Zauber/Grad/3
+  - Zauber/Schule/Bann
+aliases:
+  - Beacon of Hope
 ---
 # Leuchtfeuer der Hoffnung
 ![](../../../99%20-%20Setup/Files/Bildersammlung/Symbolik/Bannzauber.webp#token)

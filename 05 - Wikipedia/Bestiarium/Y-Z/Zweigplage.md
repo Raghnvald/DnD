@@ -1,12 +1,12 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- Quelle/5e/Monster_Manual
-- Habitat/Wald
-- Größe/Klein
-- Typ/Pflanze
-aliases: ["Twig Blight"]
+  - Quelle/5e/Monster_Manual
+  - Habitat/Wald
+  - Größe/Klein
+  - Typ/Pflanze
+aliases:
+  - Twig Blight
 ---
 ```statblock
 statblock: true

@@ -1,20 +1,19 @@
 ---
 cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
-Bezeichnung: 
+Bezeichnung:
 Typ: Elementar
-Größe: 
-HG: 
+Größe:
+HG:
 status:
-order:
-parent:
-image: 
+image:
 tags:
-- Quelle/5e/Monster_Manual
-- Habitat/Wüste
-- Größe/Groß
-- Typ/Elementar
-aliases: ["Fire Elemental"]
+  - Größe/Groß
+  - Habitat/Wüste
+  - Quelle/5e/Monster_Manual
+  - Typ/Elementar
+aliases:
+  - Fire Elemental
 ---
 # Feuerelementar
 *Quelle: SRD / Grundregelwerk*  

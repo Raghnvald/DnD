@@ -1,12 +1,12 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- Quelle/5e/Dungeon_Masters_Guide
-- Gegenstand/Seltenheit/sehr_selten
-- Gegenstand/Tier/minor
-- Gegenstand/wundersam
-aliases: ["Marvelous Pigments"]
+  - Quelle/5e/Dungeon_Masters_Guide
+  - Gegenstand/Seltenheit/sehr_selten
+  - Gegenstand/Tier/minor
+  - Gegenstand/wundersam
+aliases:
+  - Marvelous Pigments
 ---
 # Marvelous Pigments
 *Wondrous Item, minor, very rare*  

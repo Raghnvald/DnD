@@ -1,10 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- Quelle/5e/Players_Handbook
-- Gegenstand/Ausrüstung/Werkzeug
-aliases: ["Cook's Utensils"]
+  - Quelle/5e/Players_Handbook
+  - Gegenstand/Ausrüstung/Werkzeug
+aliases:
+  - Cook's Utensils
 ---
 # Cook's Utensils
 *Artisan's Tools*  

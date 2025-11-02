@@ -1,9 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- Quelle/5e/Players_Handbook
-aliases: ["Creature Size; Size Categories"]
+  - Quelle/5e/Players_Handbook
+aliases:
+  - Creature Size; Size Categories
 ---
 # Kreaturengröße; Größenkategorien
 *Source: SRD / Basic Rules* 

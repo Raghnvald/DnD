@@ -1,12 +1,12 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Magier
-- Zauber/Grad/5
-- Zauber/Schule/Hervorrufung
-aliases: ["Wall of Force"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Magier
+  - Zauber/Grad/5
+  - Zauber/Schule/Hervorrufung
+aliases:
+  - Wall of Force
 ---
 # Wall of Force
 *5th-level, Evocation*  

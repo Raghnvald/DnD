@@ -1,19 +1,18 @@
 ---
 cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
-Bezeichnung: 
+Bezeichnung:
 Typ: Elementar
-Größe: 
-HG: 
+Größe:
+HG:
 status:
-order:
-parent:
-image: 
+image:
 tags:
-- Quelle/5e/Monster_Manual
-- Größe/Mittelgroß
-- Typ/Elementar
-aliases: ["Azer"]
+  - Größe/Mittelgroß
+  - Quelle/5e/Monster_Manual
+  - Typ/Elementar
+aliases:
+  - Azer
 ---
 # Azer
 *Source: SRD / Basic Rules*  

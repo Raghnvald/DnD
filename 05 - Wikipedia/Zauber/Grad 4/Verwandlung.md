@@ -1,15 +1,15 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Barde
-- Klasse/Druide
-- Klasse/Zauberer
-- Klasse/Magier
-- Zauber/Grad/4
-- Zauber/Schule/Verwandlung
-aliases: ["Polymorph"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Barde
+  - Klasse/Druide
+  - Klasse/Zauberer
+  - Klasse/Magier
+  - Zauber/Grad/4
+  - Zauber/Schule/Verwandlung
+aliases:
+  - Polymorph
 ---
 # Polymorph
 *4th-level, Transmutation*  

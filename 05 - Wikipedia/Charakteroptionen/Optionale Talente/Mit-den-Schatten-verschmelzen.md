@@ -1,10 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- Quelle/5e/Players_Handbook
-- Kompendium/Optionales/Anrufungen
-aliases: ["One with Shadows"]
+  - Quelle/5e/Players_Handbook
+  - Kompendium/Optionales/Anrufungen
+aliases:
+  - One with Shadows
 ---
 # Mit den Schatten verschmelzen
 *Quelle: SRD / Grundregelwerk / Spielerhandbuch*  

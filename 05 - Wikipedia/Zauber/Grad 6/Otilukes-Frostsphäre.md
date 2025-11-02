@@ -1,12 +1,12 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Magier
-- Zauber/Grad/6
-- Zauber/Schule/Hervorrufung
-aliases: ["Otiluke's Freezing Sphere"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Magier
+  - Zauber/Grad/6
+  - Zauber/Schule/Hervorrufung
+aliases:
+  - Otiluke's Freezing Sphere
 ---
 # Otiluke's Frostsphäre
 *6th-level, Evocation*  

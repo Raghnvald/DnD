@@ -1,12 +1,12 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Kleriker
-- Zauber/Grad/8
-- Zauber/Schule/Bann
-aliases: ["Holy Aura"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Kleriker
+  - Zauber/Grad/8
+  - Zauber/Schule/Bann
+aliases:
+  - Holy Aura
 ---
 # Holy Aura
 *8th-level, Abjuration*  

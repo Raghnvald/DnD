@@ -1,10 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- Klasse/Mönch
-- Quelle/5e/Players_Handbook
-aliases: ["Monk"]
+  - Klasse/Mönch
+  - Quelle/5e/Players_Handbook
+aliases:
+  - Monk
 ---
 # Monk
 *Quelle: SRD / Grundregelwerk / Spielerhandbuch*  

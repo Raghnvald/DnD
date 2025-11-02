@@ -1,10 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- Klasse/Waldläufer
-- Quelle/5e/Players_Handbook
-aliases: ["Ranger"]
+  - Klasse/Waldläufer
+  - Quelle/5e/Players_Handbook
+aliases:
+  - Ranger
 ---
 # Waldläufer
 *Quelle: SRD / Grundregelwerk / Spielerhandbuch*  

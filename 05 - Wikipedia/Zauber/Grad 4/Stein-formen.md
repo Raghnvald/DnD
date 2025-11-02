@@ -1,14 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Kleriker
-- Klasse/Druide
-- Klasse/Magier
-- Zauber/Grad/4
-- Zauber/Schule/Verwandlung
-aliases: ["Stone Shape"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Kleriker
+  - Klasse/Druide
+  - Klasse/Magier
+  - Zauber/Grad/4
+  - Zauber/Schule/Verwandlung
+aliases:
+  - Stone Shape
 ---
 # Stone Shape
 *4th-level, Transmutation*  

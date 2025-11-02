@@ -27,7 +27,7 @@ $\quad$ Die Illusion dauert an, bis die Karte bewegt oder die Illusion vertriebe
 | 6     | Herz Neun   | [Ettin](Ettin.md)                                                         |
 | 7     | Herz Acht   | [Grottenschrat](Humanoide/Grottenschrat.md)                                      |
 | 8     | Herz Zwei   | [Goblin (Legacy)](Goblin%20(Legacy).md)                                                    |
-| 9     | Karo Ass    | [Betrachter](Betrachter.md)                                         |
+| 9     | Karo Ass    | [Betrachter (Legacy)](Betrachter%20(Legacy).md)                                         |
 | 10    | Karo König  | [Erzmagier](Erzmagier.md) und [Magielehrling](Magus.md)      |
 | 11    | Karo Dame   | [Nachtvettel](Nachtvettel.md)                                            |
 | 12    | Karo Bube   | [Assassine](D&D/05%20-%20Wikipedia/Bestiarium/A-B/Assassine.md)                                              |
@@ -35,7 +35,7 @@ $\quad$ Die Illusion dauert an, bis die Karte bewegt oder die Illusion vertriebe
 | 14    | Karo Neun   | [Ogermagier](Oger.md)                                                     |
 | 15    | Karo Acht   | [Gnoll](Humanoide/Gnoll.md)                                                      |
 | 16    | Karo Zwei   | [Kobold](Humanoide/Kobold.md)                                                    |
-| 17    | Pik Ass     | [Lich](Lich.md)                                                           |
+| 17    | Pik Ass     | [Lich](D&D/05%20-%20Wikipedia/Bestiarium/K-L/Lich.md)                                                           |
 | 18    | Pik König   | [Priester](Priester.md) und zwei [Gefolgsleute](Humanoide/acolyte.md)  |
 | 19    | Pik Dame    | [Medusa](Medusa.md)                                               |
 | 20    | Pik Bube    | [Veteran](Veteran.md)                                                  |

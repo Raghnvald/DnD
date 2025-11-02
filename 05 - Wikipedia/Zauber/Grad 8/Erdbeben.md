@@ -1,14 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Kleriker
-- Klasse/Druide
-- Klasse/Zauberer
-- Zauber/Grad/8
-- Zauber/Schule/Hervorrufung
-aliases: ["Earthquake"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Kleriker
+  - Klasse/Druide
+  - Klasse/Zauberer
+  - Zauber/Grad/8
+  - Zauber/Schule/Hervorrufung
+aliases:
+  - Earthquake
 ---
 # Earthquake
 *8th-level, Evocation*  

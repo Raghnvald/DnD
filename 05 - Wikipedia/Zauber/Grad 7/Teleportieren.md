@@ -1,14 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Barde
-- Klasse/Zauberer
-- Klasse/Magier
-- Zauber/Grad/7
-- Zauber/Schule/Beschwörung
-aliases: ["Teleport"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Barde
+  - Klasse/Zauberer
+  - Klasse/Magier
+  - Zauber/Grad/7
+  - Zauber/Schule/Beschwörung
+aliases:
+  - Teleport
 ---
 # Teleport
 *7th-level, Conjuration*  

@@ -1,14 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-monster
 tags:
-  - Quelle/5e/Curse_of_Strahd
+  - Quelle/5e/cos
   - Habitat/Stadt
   - Größe/Mittelgroß
   - Typ/Humanoid/Mensch
 aliases:
-  - ["Isek Strasni"]
+  - - Isek Strasni
+Typ: Humanoid
 ---
 
 # Isek Strasni

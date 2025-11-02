@@ -3,11 +3,11 @@ prefer-view:
   - edit-source read
 status:
   - completed
-order:
-parent:
+tags:
+  - Klasse/Paladin
+  - Quelle/5e/Players_Handbook
+aliases:
   - Paladin
-tags: [Klasse/Paladin, Quelle/5e/Players_Handbook]
-aliases: [Paladin]
 link:
   - https://www.dndbeyond.com/classes/2190881-paladin
 type:

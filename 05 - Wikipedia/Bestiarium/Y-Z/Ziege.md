@@ -1,24 +1,22 @@
 ---
 cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
-Bezeichnung: 
+Bezeichnung:
 Typ: Bestie
-Größe: 
-HG: 
+Größe:
+HG:
 status:
-order:
-parent:
-image: 
+image:
 tags:
-- Quelle/5e/Monster_Manual
-- Habitat/Grasland
-- Habitat/Hügel
-- Habitat/Berg
-- Habitat/Stadt
-- Größe/Mittelgroß
-- Typ/Tier
+  - Quelle/5e/Monster_Manual
+  - Habitat/Grasland
+  - Habitat/Hügel
+  - Habitat/Berg
+  - Habitat/Stadt
+  - Größe/Mittelgroß
+  - Typ/Tier
 aliases:
-- Goat
+  - Goat
 ---
 # Goat
 *Source: SRD / Basic Rules*  

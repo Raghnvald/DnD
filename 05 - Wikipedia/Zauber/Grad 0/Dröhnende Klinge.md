@@ -7,7 +7,7 @@ Wirkungsdauer: 1 Runde
 Angriff: Nahkampf
 Schaden: 1d8 Schall
 tags: 
-- Quelle/5e/Sword_Coast_Adventurers_Guide
+- Quelle/5e/scag
 - Klasse/Hexenmeister
 - Klasse/Magier
 - Klasse/Zauberer

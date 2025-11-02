@@ -1,14 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- Quelle/5e/Dungeon_Masters_Guide
-- Gegenstand/Einstimmung/erforderlich
-- Gegenstand/Eigenschaft/Vielseitig
-- Gegenstand/Seltenheit/selten
-- Gegenstand/Tier/major
-- Gegenstand/wundersam/Stab
-aliases: ["Staff of Swarming Insects"]
+  - Quelle/5e/Dungeon_Masters_Guide
+  - Gegenstand/Einstimmung/erforderlich
+  - Gegenstand/Eigenschaft/Vielseitig
+  - Gegenstand/Seltenheit/selten
+  - Gegenstand/Tier/major
+  - Gegenstand/wundersam/Stab
+aliases:
+  - Staff of Swarming Insects
 ---
 # Staff of Swarming Insects
 *Staff, major, rare (requires attunement by a bard, cleric, druid, sorcerer, warlock, or wizard)*  

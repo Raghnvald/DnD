@@ -1,19 +1,20 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- Quelle/5e/Dungeon_Masters_Guide
-- Gegenstand/Seltenheit/ungewöhnlich
-- Gegenstand/Tier/minor
-- Gegenstand/wundersam
-aliases: ["Periapt of Health"]
+- Quelle/5e/dmg
+- ttrpg-cli/item/rarity/uncommon
+- ttrpg-cli/item/tier/minor
+aliases: 
+- "Periapt of Health"
 ---
 # Periapt of Health
-*Wondrous Item, minor, uncommon*  
+*Wondrous item, minor, uncommon*  
+![](/3-Mechanics/CLI/items/img/periapt-of-health.webp#right)
 
-- **Cost**: ⏤
 - **Weight**: 1.0 lbs.
 
 You are immune to contracting any disease while you wear this pendant. If you are already infected with a disease, the effects of the disease are suppressed while you wear the pendant.
 
-*Source: SRD / Basic Rules*
+*Source: Dungeon Master's Guide p. 184. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

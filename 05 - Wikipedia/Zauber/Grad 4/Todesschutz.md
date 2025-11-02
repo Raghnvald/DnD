@@ -1,13 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Kleriker
-- Klasse/Paladin
-- Zauber/Grad/4
-- Zauber/Schule/Bann
-aliases: ["Death Ward"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Kleriker
+  - Klasse/Paladin
+  - Zauber/Grad/4
+  - Zauber/Schule/Bann
+aliases:
+  - Death Ward
 ---
 # Death Ward
 *4th-level, Abjuration*  

@@ -1,12 +1,12 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- Quelle/5e/Monster_Manual
-- Habitat/Hügel
-- Größe/Riesig
-- Typ/Drache
-aliases: ["Adult Copper Dragon"]
+  - Größe/Riesig
+  - Habitat/Hügel
+  - Quelle/5e/Monster_Manual
+  - Typ/Drache
+aliases:
+  - Adult Copper Dragon
 ---
 # Adult Copper Dragon
 *Source: SRD / Basic Rules*  
@@ -89,7 +89,7 @@ aliases: ["Adult Copper Dragon"]
 > **Additional Regional Effects.** Either of these effects might appear in the area around a copper dragon's lair, in addition to or instead of the effects described in the *Monster Manual*:
 > 
 > - **Distant Melodies.** The ethereal music of woodwinds and bells can be heard carried on the wind within 1 mile of the dragon's lair.  
-> - **Starlit Stones.** Standing stones are common on hilltops within 1 mile of the dragon's lair. The stones shed dim light in a 10-foot radius at night. (If the dragon dies, the stones remain, but they no longer shed light.)  
+> - **Starlit Stones.** Standing stones are common on hilltops within 1 mile of the dragon's lair. The stones shed dim light in a 10-foot radius at night. (If the dragon dies, the stones remain, but they no longer shed light.)  
 ^statblock
 
 ## Environment

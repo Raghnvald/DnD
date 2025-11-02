@@ -1,12 +1,12 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- Quelle/5e/Dungeon_Masters_Guide
-- Gegenstand/Seltenheit/sehr_selten
-- Gegenstand/Tier/minor
-- Gegenstand/wundersam/Trank
-aliases: ["Potion of Speed"]
+  - Quelle/5e/Dungeon_Masters_Guide
+  - Gegenstand/Seltenheit/sehr_selten
+  - Gegenstand/Tier/minor
+  - Gegenstand/wundersam/Trank
+aliases:
+  - Potion of Speed
 ---
 # Potion of Speed
 *Potion, minor, very rare*  

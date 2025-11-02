@@ -1,10 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- Quelle/5e/Players_Handbook
-- Kompendium/Optionales/Anrufungen
-aliases: ["Whispers of the Grave"]
+  - Quelle/5e/Players_Handbook
+  - Kompendium/Optionales/Anrufungen
+aliases:
+  - Whispers of the Grave
 ---
 # Grabesflüstern
 *Quelle: SRD / Grundregelwerk / Spielerhandbuch*  

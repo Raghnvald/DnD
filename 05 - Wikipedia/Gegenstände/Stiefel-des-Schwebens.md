@@ -1,12 +1,12 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- Quelle/5e/Dungeon_Masters_Guide
-- Gegenstand/wundersam
-- Gegenstand/Seltenheit/selten
-- Gegenstand/Einstimmung/erforderlich
-aliases: ["Boots of Levitation"]
+  - Quelle/5e/Dungeon_Masters_Guide
+  - Gegenstand/wundersam
+  - Gegenstand/Seltenheit/selten
+  - Gegenstand/Einstimmung/erforderlich
+aliases:
+  - Boots of Levitation
 ---
 # Stiefel des Schwebens
 *Wundersamer Gegenstand, selten (erfordert Einstimmung)*  

@@ -1,17 +1,21 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- Quelle/5e/Players_Handbook
-- Gegenstand/Ausrüstung
-aliases: ["Hempen Rope (50 feet)"]
+- Quelle/5e/phb
+- ttrpg-cli/item/gear/
+- ttrpg-cli/item/rarity/none
+aliases: 
+- "Hempen Rope (50 feet)"
 ---
-# Hanfseil (15 Meter)
-*Adventuring Gear*  
+# Hempen Rope (50 feet)
+*Adventuring gear*  
+
 
 - **Cost**: 1 gp
 - **Weight**: 10.0 lbs.
 
 Rope, whether made of hemp or silk, has 2 hit points and can be burst with a DC 17 Strength check.
 
-*Source: SRD / Basic Rules*
+*Source: Player's Handbook p. 153. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

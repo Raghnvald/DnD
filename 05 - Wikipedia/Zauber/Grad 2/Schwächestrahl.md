@@ -1,13 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Hexenmeister
-- Klasse/Magier
-- Zauber/Grad/2
-- Zauber/Schule/Nekromantie
-aliases: ["Ray of Enfeeblement"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Hexenmeister
+  - Klasse/Magier
+  - Zauber/Grad/2
+  - Zauber/Schule/Nekromantie
+aliases:
+  - Ray of Enfeeblement
 ---
 # Ray of Enfeeblement
 *2nd-level, Necromancy*  

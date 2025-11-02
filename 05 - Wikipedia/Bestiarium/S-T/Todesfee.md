@@ -7,11 +7,12 @@ Größe: Mittelgroß
 HG: 4
 Habitat: Jedes
 status:
-order:
-parent:
-image: 
-tags: [Quelle/5e/Monster_Manual, Typ/Untote]
-aliases: [Banshee]
+image:
+tags:
+  - Quelle/5e/Monster_Manual
+  - Typ/Untote
+aliases:
+  - Banshee
 ---
 
 ```statblock

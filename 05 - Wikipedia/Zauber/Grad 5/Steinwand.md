@@ -1,14 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Druide
-- Klasse/Zauberer
-- Klasse/Magier
-- Zauber/Grad/5
-- Zauber/Schule/Hervorrufung
-aliases: ["Wall of Stone"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Druide
+  - Klasse/Zauberer
+  - Klasse/Magier
+  - Zauber/Grad/5
+  - Zauber/Schule/Hervorrufung
+aliases:
+  - Wall of Stone
 ---
 # Steinwand
 ![](../../../99%20-%20Setup/Files/Bildersammlung/Symbolik/Hervorrufungszauber.webp#token)

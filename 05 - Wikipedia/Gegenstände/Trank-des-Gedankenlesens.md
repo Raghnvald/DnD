@@ -1,12 +1,12 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- Quelle/5e/Dungeon_Masters_Guide
-- Gegenstand/Seltenheit/selten
-- Gegenstand/Tier/minor
-- Gegenstand/wundersam/Trank
-aliases: ["Potion of Mind Reading"]
+  - Quelle/5e/Dungeon_Masters_Guide
+  - Gegenstand/Seltenheit/selten
+  - Gegenstand/Tier/minor
+  - Gegenstand/wundersam/Trank
+aliases:
+  - Potion of Mind Reading
 ---
 # Potion of Mind Reading
 *Potion, minor, rare*  

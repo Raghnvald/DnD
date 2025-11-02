@@ -1,13 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- Quelle/5e/Dungeon_Masters_Guide
-- Gegenstand/Einstimmung/erforderlich
-- Gegenstand/Seltenheit/ungewöhnlich
-- Gegenstand/Tier/major
-- Gegenstand/wundersam
-aliases: ["Gloves of Missile Snaring"]
+  - Quelle/5e/Dungeon_Masters_Guide
+  - Gegenstand/Einstimmung/erforderlich
+  - Gegenstand/Seltenheit/ungewöhnlich
+  - Gegenstand/Tier/major
+  - Gegenstand/wundersam
+aliases:
+  - Gloves of Missile Snaring
 ---
 # Handschuhe-des-Geschossfangens
 *Wundersamer Gegenstand, ungewöhnlich (erfordert Einstimmung)*  

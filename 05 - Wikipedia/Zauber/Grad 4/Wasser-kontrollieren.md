@@ -1,14 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Kleriker
-- Klasse/Druide
-- Klasse/Magier
-- Zauber/Grad/4
-- Zauber/Schule/Verwandlung
-aliases: ["Control Water"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Kleriker
+  - Klasse/Druide
+  - Klasse/Magier
+  - Zauber/Grad/4
+  - Zauber/Schule/Verwandlung
+aliases:
+  - Control Water
 ---
 # Control Water
 *4th-level, Transmutation*  

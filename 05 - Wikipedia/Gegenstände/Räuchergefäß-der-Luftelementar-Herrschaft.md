@@ -1,12 +1,12 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- Quelle/5e/Dungeon_Masters_Guide
-- Gegenstand/Seltenheit/selten
-- Gegenstand/Tier/major
-- Gegenstand/wundersam
-aliases: ["Censer of Controlling Air Elementals"]
+  - Quelle/5e/Dungeon_Masters_Guide
+  - Gegenstand/Seltenheit/selten
+  - Gegenstand/Tier/major
+  - Gegenstand/wundersam
+aliases:
+  - Censer of Controlling Air Elementals
 ---
 #  Rauchfass der Luftelementar-Herrschaft
 *Wundersamer Gegenstand, selten*  

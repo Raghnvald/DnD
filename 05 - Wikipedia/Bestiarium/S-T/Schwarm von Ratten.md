@@ -6,17 +6,15 @@ Typ: Bestie
 Größe: Mittelgroß
 HG: 1/4
 status:
-order:
-parent:
-image: 
+image:
 tags:
-- Quelle/5e/Monster_Manual
-- Typ/Tier
-- Größe/Mittelgroß
-- Habitat/Sumpf
-- Habitat/Stadt
+  - Quelle/5e/Monster_Manual
+  - Typ/Tier
+  - Größe/Mittelgroß
+  - Habitat/Sumpf
+  - Habitat/Stadt
 aliases:
-- Swarm of Rats
+  - Swarm of Rats
 ---
 # Schwarm von Ratten
 

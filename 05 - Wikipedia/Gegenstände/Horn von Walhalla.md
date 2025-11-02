@@ -1,13 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- Quelle/5e/Dungeon_Masters_Guide
-- Gegenstand/wundersam
-- Gegenstand/Seltenheit/selten
-- Gegenstand/Seltenheit/sehr_selten
-- Gegenstand/Seltenheit/legendär
-aliases: ["Horn of Valhalla"]
+  - Quelle/5e/Dungeon_Masters_Guide
+  - Gegenstand/wundersam
+  - Gegenstand/Seltenheit/selten
+  - Gegenstand/Seltenheit/sehr_selten
+  - Gegenstand/Seltenheit/legendär
+aliases:
+  - Horn of Valhalla
 ---
 # Horn von Walhalla
 *Wundersamer Gegenstand, selten (Silber oder Messing), sehr selten (Bronze) oder legendär (Eisen)*  

@@ -1,12 +1,12 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- Quelle/5e/Monster_Manual
-- Habitat/Unterreich
-- Größe/Groß
-- Typ/Monstrosität
-aliases: ["Spirit Naga"]
+  - Quelle/5e/Monster_Manual
+  - Habitat/Unterreich
+  - Größe/Groß
+  - Typ/Monstrosität
+aliases:
+  - Spirit Naga
 ---
 # Spirit Naga
 *Source: SRD / Basic Rules*  

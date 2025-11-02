@@ -1,21 +1,20 @@
 ---
 cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
-Bezeichnung: 
+Bezeichnung:
 Typ: Bestie
-Größe: 
-HG: 
+Größe:
+HG:
 status:
-order:
-parent:
-image: 
+image:
 tags:
-- Quelle/5e/Monster_Manual
-- Habitat/Küste
-- Habitat/Unterwasser
-- Größe/Groß
-- Typ/Tier
-aliases: ["Plesiosaurus"]
+  - Quelle/5e/Monster_Manual
+  - Habitat/Küste
+  - Habitat/Unterwasser
+  - Größe/Groß
+  - Typ/Tier
+aliases:
+  - Plesiosaurus
 ---
 # Plesiosaurus
 *Source: SRD / Basic Rules*  

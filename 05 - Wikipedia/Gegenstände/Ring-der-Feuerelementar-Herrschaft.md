@@ -1,13 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- Quelle/5e/Dungeon_Masters_Guide
-- Gegenstand/Einstimmung/erforderlich
-- Gegenstand/Seltenheit/legendär
-- Gegenstand/Tier/major
-- Gegenstand/wundersam/Ring
-aliases: ["Ring of Fire Elemental Command"]
+  - Quelle/5e/Dungeon_Masters_Guide
+  - Gegenstand/Einstimmung/erforderlich
+  - Gegenstand/Seltenheit/legendär
+  - Gegenstand/Tier/major
+  - Gegenstand/wundersam/Ring
+aliases:
+  - Ring of Fire Elemental Command
 ---
 # Ring of Fire Elemental Command
 *Ring, major, legendary (requires attunement)*  

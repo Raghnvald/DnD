@@ -1,9 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- Quelle/5e/Players_Handbook
-aliases: ["Mounts and Vehicles; Mounts and Other Animals"]
+  - Quelle/5e/Players_Handbook
+aliases:
+  - Mounts and Vehicles; Mounts and Other Animals
 ---
 # Reittiere und Fahrzeuge; Reittiere und andere Tiere
 *Quelle: SRD / Grundregelwerk*

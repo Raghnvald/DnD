@@ -1,14 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- Quelle/5e/Monster_Manual
-- Habitat/Hügel
-- Habitat/Berg
-- Habitat/Unterreich
-- Größe/Groß
-- Typ/Riese
-aliases: ["Ettin"]
+  - Größe/Groß
+  - Habitat/Berg
+  - Habitat/Hügel
+  - Habitat/Unterreich
+  - Quelle/5e/Monster_Manual
+  - Typ/Riese
+aliases:
+  - Ettin
 ---
 # Ettin
 *Source: SRD / Basic Rules*  

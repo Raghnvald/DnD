@@ -7,7 +7,7 @@ Wirkungsdauer: K, <1 Minute
 Angriff: GES
 Schaden: 1d8 Feuer
 tags: 
-- Quelle/5e/Xanathars_Guide_to_Everything
+- Quelle/5e/xge
 - Klasse/Druide
 - Klasse/Hexenmeister
 - Klasse/Magier

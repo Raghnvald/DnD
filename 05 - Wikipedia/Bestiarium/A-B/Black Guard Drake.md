@@ -1,17 +1,14 @@
 ---
 cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
-Bezeichnung: 
+Bezeichnung:
 Typ: Drache
-Größe: 
-HG: 
+Größe:
+HG:
 status:
-order:
-parent:
-image: 
+image:
 tags:
-- Quelle/5e/Mordenkainen_Presents_Monsters_of_the_Multiverse
-- Typ/Drache
-aliases:
-- 
+  - Quelle/5e/mpmm
+  - Typ/Drache
+aliases: []
 ---

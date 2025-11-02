@@ -1,12 +1,12 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- Quelle/5e/Monster_Manual
-- Habitat/Wald
-- Größe/Groß
-- Typ/Drache
-aliases: ["Young Green Dragon"]
+  - Quelle/5e/Monster_Manual
+  - Habitat/Wald
+  - Größe/Groß
+  - Typ/Drache
+aliases:
+  - Young Green Dragon
 ---
 # Young Green Dragon
 *Source: SRD / Basic Rules*  

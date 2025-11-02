@@ -1,11 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- Quelle/5e/Monster_Manual
-- Größe/Groß
-- Typ/Konstrukt
-aliases: ["Clay Golem"]
+  - Quelle/5e/Monster_Manual
+  - Größe/Groß
+  - Typ/Konstrukt
+aliases:
+  - Clay Golem
 ---
 # Clay Golem
 *Source: SRD / Basic Rules*  

@@ -1,15 +1,15 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- Quelle/5e/Monster_Manual
-- Habitat/Küste
-- Habitat/Grasland
-- Habitat/Hügel
-- Habitat/Berg
-- Größe/Groß
-- Typ/Tier
-aliases: ["Giant Eagle"]
+  - Quelle/5e/Monster_Manual
+  - Habitat/Küste
+  - Habitat/Grasland
+  - Habitat/Hügel
+  - Habitat/Berg
+  - Größe/Groß
+  - Typ/Tier
+aliases:
+  - Giant Eagle
 ---
 # Giant Eagle
 *Source: SRD / Basic Rules*  

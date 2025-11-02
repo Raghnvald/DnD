@@ -1,14 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Druide
-- Klasse/Waldläufer
-- Zauber/Grad/5
-- Zauber/Ritual
-- Zauber/Schule/Erkenntnis
-aliases: ["Commune with Nature"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Druide
+  - Klasse/Waldläufer
+  - Zauber/Grad/5
+  - Zauber/Ritual
+  - Zauber/Schule/Erkenntnis
+aliases:
+  - Commune with Nature
 ---
 # Einswerden mit der Natur
 ![](../../../99%20-%20Setup/Files/Bildersammlung/Symbolik/Erkenntniszauber.webp#token)

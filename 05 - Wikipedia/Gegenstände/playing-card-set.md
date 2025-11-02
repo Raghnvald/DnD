@@ -1,15 +1,18 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- Quelle/5e/Players_Handbook
-- Gegenstand/Ausrüstung/Spielset
-aliases: ["Playing Card Set"]
+- Quelle/5e/phb
+- ttrpg-cli/item/gear/gaming-set
+- ttrpg-cli/item/rarity/none
+aliases: 
+- "Playing Card Set"
 ---
 # Playing Card Set
-*Gaming Set*  
+*Gaming set*  
+
 
 - **Cost**: 5 sp
-- **Weight**: ⏤
 
-*Source: SRD / Basic Rules*
+*Source: Player's Handbook p. 154. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

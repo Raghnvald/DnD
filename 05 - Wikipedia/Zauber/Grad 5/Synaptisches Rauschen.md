@@ -7,7 +7,7 @@ Wirkungsdauer: Unmittelbar
 Angriff: INT
 Schaden: 8d6 psychisch
 tags:
-- Quelle/5e/Xanathars_Guide_to_Everything
+- Quelle/5e/xge
 - Klasse/Barde
 - Klasse/Hexenmeister
 - Klasse/Magier

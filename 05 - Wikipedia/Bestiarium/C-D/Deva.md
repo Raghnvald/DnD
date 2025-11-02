@@ -1,11 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- Quelle/5e/Monster_Manual
-- Größe/Mittelgroß
-- Typ/Himmlische
-aliases: ["Deva"]
+  - Größe/Mittelgroß
+  - Quelle/5e/Monster_Manual
+  - Typ/Himmlische
+aliases:
+  - Deva
 ---
 # Deva
 *Source: SRD / Basic Rules*  

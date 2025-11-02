@@ -1,11 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- Quelle/5e/Dungeon_Masters_Guide
-- Gegenstand/wundersam
-- Gegenstand/Seltenheit/ungewöhnlich
-aliases: ["Broom of Flying"]
+  - Quelle/5e/Dungeon_Masters_Guide
+  - Gegenstand/wundersam
+  - Gegenstand/Seltenheit/ungewöhnlich
+aliases:
+  - Broom of Flying
 ---
 # Flugbesen
 *Wundersamer Gegenstand, ungewöhnlich*  

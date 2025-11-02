@@ -1,13 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Druide
-- Klasse/Waldläufer
-- Zauber/Grad/3
-- Zauber/Schule/Hervorrufung
-aliases: ["Wind Wall"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Druide
+  - Klasse/Waldläufer
+  - Zauber/Grad/3
+  - Zauber/Schule/Hervorrufung
+aliases:
+  - Wind Wall
 ---
 # Wind Wall
 *3rd-level, Evocation*  

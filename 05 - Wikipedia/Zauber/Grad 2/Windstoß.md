@@ -1,14 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Druide
-- Klasse/Zauberer
-- Klasse/Magier
-- Zauber/Grad/2
-- Zauber/Schule/Hervorrufung
-aliases: ["Gust of Wind"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Druide
+  - Klasse/Zauberer
+  - Klasse/Magier
+  - Zauber/Grad/2
+  - Zauber/Schule/Hervorrufung
+aliases:
+  - Gust of Wind
 ---
 # Gust of Wind
 *2nd-level, Evocation*  

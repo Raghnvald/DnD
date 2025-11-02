@@ -5,21 +5,13 @@ Bezeichnung:
 Typ: Untoter
 Größe: Mittelgroß
 HG: 5
-status: WIP
-order:
-parent:
-image:
-tags:
-  - Quelle/5e/Monster_Manual
-  - Habitat/Unterreich
-  - Habitat/Stadt
-  - Größe/Mittelgroß
-  - Typ/Untote
-aliases:
-  - Vampire Spawn
 Habitat:
   - Stadt
   - Unterreich
+status: WIP
+image:
+tags: [Größe/Mittelgroß, Quelle/5e/Monster_Manual]
+aliases: [Vampire Spawn]
 ---
 # Vampirbrut (2014)
 

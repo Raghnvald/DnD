@@ -1,14 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Barde
-- Klasse/Zauberer
-- Klasse/Magier
-- Zauber/Grad/5
-- Zauber/Schule/Verzauberung
-aliases: ["Dominate Person"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Barde
+  - Klasse/Zauberer
+  - Klasse/Magier
+  - Zauber/Grad/5
+  - Zauber/Schule/Verzauberung
+aliases:
+  - Dominate Person
 ---
 # Dominate Person
 *5th-level, Enchantment*  

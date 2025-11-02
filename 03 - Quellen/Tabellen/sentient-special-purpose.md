@@ -1,9 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- Quelle/5e/Dungeon_Masters_Guide
-aliases: ["Sentient Special Purpose"]
+  - Quelle/5e/Dungeon_Masters_Guide
+aliases:
+  - Sentient Special Purpose
 ---
 # Sentient Special Purpose
 *Source: SRD / Basic Rules* 

@@ -1,11 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- Quelle/5e/Dungeon_Masters_Guide
-- Gegenstand/wundersam
-- Gegenstand/Seltenheit/sehr_selten
-aliases: ["Efreeti Bottle"]
+  - Quelle/5e/Dungeon_Masters_Guide
+  - Gegenstand/wundersam
+  - Gegenstand/Seltenheit/sehr_selten
+aliases:
+  - Efreeti Bottle
 ---
 # Ifriti-Flasche
 *Wundersamer Gegenstand, sehr selten*  

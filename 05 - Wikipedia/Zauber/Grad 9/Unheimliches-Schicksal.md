@@ -1,12 +1,12 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Magier
-- Zauber/Grad/9
-- Zauber/Schule/Illusion
-aliases: ["Weird"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Magier
+  - Zauber/Grad/9
+  - Zauber/Schule/Illusion
+aliases:
+  - Weird
 ---
 # Weird
 *9th-level, Illusion*  

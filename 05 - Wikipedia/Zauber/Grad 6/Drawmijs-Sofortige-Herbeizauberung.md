@@ -1,13 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Magier
-- Zauber/Grad/6
-- Zauber/Ritual
-- Zauber/Schule/Beschwörung
-aliases: ["Drawmij's Instant Summons"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Magier
+  - Zauber/Grad/6
+  - Zauber/Ritual
+  - Zauber/Schule/Beschwörung
+aliases:
+  - Drawmij's Instant Summons
 ---
 # Drawmij's Instant Summons
 *6th-level, Conjuration (ritual)*  

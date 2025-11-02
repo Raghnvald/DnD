@@ -1,14 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- Quelle/5e/Dungeon_Masters_Guide
-- Gegenstand/Einstimmung/erforderlich
-- Gegenstand/Eigenschaft/Vielseitig
-- Gegenstand/Seltenheit/sehr_selten
-- Gegenstand/Tier/major
-- Gegenstand/wundersam/Stab
-aliases: ["Staff of Striking"]
+  - Quelle/5e/Dungeon_Masters_Guide
+  - Gegenstand/Einstimmung/erforderlich
+  - Gegenstand/Eigenschaft/Vielseitig
+  - Gegenstand/Seltenheit/sehr_selten
+  - Gegenstand/Tier/major
+  - Gegenstand/wundersam/Stab
+aliases:
+  - Staff of Striking
 ---
 # Staff of Striking
 *Staff, major, very rare (requires attunement)*  

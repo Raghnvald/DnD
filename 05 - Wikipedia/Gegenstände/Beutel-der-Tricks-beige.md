@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- Quelle/5e/Dungeon_Masters_Guide
-- Gegenstand/wundersam
-- Gegenstand/Seltenheit/ungewöhnlich
+  - Quelle/5e/Dungeon_Masters_Guide
+  - Gegenstand/wundersam
+  - Gegenstand/Seltenheit/ungewöhnlich
 aliases:
-- Bag of Tricks, Tan
+  - Bag of Tricks, Tan
 ---
 # Trickbeutel, beige
 *Wundersamer Gegenstand, ungewöhnlich*  

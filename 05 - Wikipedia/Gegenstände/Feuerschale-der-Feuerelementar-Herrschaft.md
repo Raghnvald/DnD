@@ -1,11 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- Quelle/5e/Dungeon_Masters_Guide
-- Gegenstand/wundersam
-- Gegenstand/Seltenheit/selten
-aliases: ["Brazier of Commanding Fire Elementals"]
+  - Quelle/5e/Dungeon_Masters_Guide
+  - Gegenstand/wundersam
+  - Gegenstand/Seltenheit/selten
+aliases:
+  - Brazier of Commanding Fire Elementals
 ---
 # Feuerschale der Feuerelementar-Herrschaft
 *Wundersamer Gegenstand, selten*  

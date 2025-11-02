@@ -5,17 +5,22 @@ views:
   - type: table
     name: Aberrationen
     filters:
-      and:
+      or:
         - file.tags.contains("Typ/Aberration")
+        - Typ.startsWith("Aberration")
+        - file.tags.contains("monster/type/aberration")
     order:
       - file.name
+      - Typ
       - Größe
       - HG
       - Habitat
       - status
     columnSize:
       file.name: 173
+      note.Typ: 108
       note.Größe: 101
+      note.Habitat: 279
     cardSize: 100
     image: note.image
     imageFit: contain
@@ -24,14 +29,17 @@ views:
   - type: table
     name: Drachen
     filters:
-      and:
+      or:
         - file.tags.contains("Typ/Drache")
+        - Typ.startsWith("Drache")
+        - file.tags.contains("monster/type/dragon")
     order:
       - file.name
+      - Typ
       - Größe
       - HG
-      - status
       - Habitat
+      - status
     columnSize:
       file.name: 197
       note.Größe: 101
@@ -43,10 +51,13 @@ views:
   - type: table
     name: Elementare
     filters:
-      and:
+      or:
         - file.tags.contains("Typ/Elementar")
+        - Typ.startsWith("Elementar")
+        - file.tags.contains("monster/type/elemental")
     order:
       - file.name
+      - Typ
       - Größe
       - HG
       - Habitat
@@ -63,12 +74,15 @@ views:
   - type: table
     name: Feenwesen
     filters:
-      and:
-        - file.tags.contains("Typ/Fee")
+      or:
+        - Typ.startsWith("Feenwesen")
+        - file.tags.contains("monster/type/fey")
     order:
       - file.name
+      - Typ
       - Größe
       - HG
+      - Habitat
       - status
     columnSize:
       file.name: 135
@@ -82,10 +96,13 @@ views:
   - type: table
     name: Himmlische
     filters:
-      and:
+      or:
         - file.tags.contains("Typ/Himmlische")
+        - Typ.startsWith("Himmlisch")
+        - file.tags.contains("monster/type/celestial")
     order:
       - file.name
+      - Typ
       - Größe
       - HG
       - status
@@ -101,13 +118,17 @@ views:
   - type: table
     name: Humanoide
     filters:
-      and:
+      or:
         - file.tags.contains("Typ/Humanoid")
+        - Typ.startsWith("Humanoid")
+        - file.tags.contains("monster/type/humanoid")
     order:
       - file.name
+      - Typ
       - Größe
       - HG
       - status
+      - Bezeichnung
     columnSize:
       file.name: 135
       note.Typ: 124
@@ -120,10 +141,13 @@ views:
   - type: table
     name: Konstrukte
     filters:
-      and:
+      or:
         - file.tags.contains("Typ/Konstrukt")
+        - Typ.startsWith("Konstrukt")
+        - file.tags.contains("monster/type/construct")
     order:
       - file.name
+      - Typ
       - Größe
       - HG
       - status
@@ -139,10 +163,13 @@ views:
   - type: table
     name: Monstrositäten
     filters:
-      and:
+      or:
         - file.tags.contains("Typ/Monstrosität")
+        - Typ.startsWith("Monstrosität")
+        - file.tags.contains("monster/type/monstrosity")
     order:
       - file.name
+      - Typ
       - Größe
       - HG
       - status
@@ -158,10 +185,13 @@ views:
   - type: table
     name: Pflanzen
     filters:
-      and:
+      or:
         - file.tags.contains("Typ/Pflanze")
+        - Typ.startsWith("Pflanze")
+        - file.tags.contains("monster/type/plant")
     order:
       - file.name
+      - Typ
       - Größe
       - HG
       - status
@@ -177,10 +207,13 @@ views:
   - type: table
     name: Riesen
     filters:
-      and:
+      or:
         - file.tags.contains("Typ/Riese")
+        - Typ.startsWith("Riese")
+        - file.tags.contains("monster/type/giant")
     order:
       - file.name
+      - Typ
       - Größe
       - HG
       - status
@@ -196,12 +229,15 @@ views:
   - type: table
     name: Schleime
     filters:
-      and:
-        - file.tags.contains("Typ/Schleim")
+      or:
+        - Typ.startsWith("Schleim")
+        - file.tags.contains("monster/type/ooze")
     order:
       - file.name
+      - Typ
       - Größe
       - HG
+      - Habitat
       - status
     columnSize:
       file.name: 135
@@ -215,10 +251,13 @@ views:
   - type: table
     name: Tiere
     filters:
-      and:
+      or:
         - file.tags.contains("Typ/Tier")
+        - Typ.startsWith("Tier")
+        - file.tags.contains("monster/type/beast")
     order:
       - file.name
+      - Typ
       - Größe
       - HG
       - status
@@ -234,10 +273,13 @@ views:
   - type: table
     name: Unholde
     filters:
-      and:
+      or:
         - file.tags.contains("Typ/Unhold")
+        - Typ.startsWith("Unhold")
+        - file.tags.contains("monster/type/fiend")
     order:
       - file.name
+      - Typ
       - Größe
       - HG
       - Habitat
@@ -254,16 +296,19 @@ views:
   - type: table
     name: Untote
     filters:
-      and:
-        - file.tags.contains("Typ/Untote")
+      or:
+        - Typ.startsWith("Untoter")
+        - file.tags.contains("monster/type/undead")
     order:
       - file.name
+      - Typ
       - Größe
       - HG
       - Habitat
       - status
     columnSize:
       file.name: 134
+      note.Typ: 94
       note.Größe: 101
       note.Habitat: 279
     cardSize: 100

@@ -1,11 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- Quelle/5e/Dungeon_Masters_Guide
-- Gegenstand/wundersam
-- Gegenstand/Seltenheit/sehr_selten
-aliases: ["Carpet of Flying"]
+  - Quelle/5e/Dungeon_Masters_Guide
+  - Gegenstand/wundersam
+  - Gegenstand/Seltenheit/sehr_selten
+aliases:
+  - Carpet of Flying
 ---
 # Fliegender Teppich
 *Wundersamer Gegenstand, sehr selten*  

@@ -1,10 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- Quelle/5e/Players_Handbook
-- Kompendium/Optionales/Metamagie
-aliases: ["Subtle Spell"]
+  - Quelle/5e/Players_Handbook
+  - Kompendium/Optionales/Metamagie
+aliases:
+  - Subtle Spell
 ---
 # Subtiler Zauber
 *Quelle: SRD / Grundregelwerk / Spielerhandbuch*  

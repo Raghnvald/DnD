@@ -1,13 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-- Quelle/5e/Players_Handbook
-- Götter
-- Götter/Gesinnung/Rechtschaffen_Böse
-- Götter/Pantheon/Faerun
-- Götter/Domäne/Krieg
-aliases: ["Tyrannos"]
+  - Quelle/5e/Players_Handbook
+  - Götter
+  - Götter/Gesinnung/Rechtschaffen_Böse
+  - Götter/Pantheon/Faerun
+  - Götter/Domäne/Krieg
+aliases:
+  - Tyrannos
 ---
 # Tyrannos, Gott der Tyrannei
 *Quelle: SRD / Grundregelwerk* 

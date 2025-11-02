@@ -1,14 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Druide
-- Klasse/Zauberer
-- Klasse/Magier
-- Zauber/Grad/6
-- Zauber/Schule/Hervorrufung
-aliases: ["Sunbeam"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Druide
+  - Klasse/Zauberer
+  - Klasse/Magier
+  - Zauber/Grad/6
+  - Zauber/Schule/Hervorrufung
+aliases:
+  - Sunbeam
 ---
 # Sunbeam
 *6th-level, Evocation*  

@@ -1,12 +1,12 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- Quelle/5e/Dungeon_Masters_Guide
-- Gegenstand/Seltenheit/ungewöhnlich
-- Gegenstand/Tier/minor
-- Gegenstand/wundersam/Rute
-aliases: ["Immovable Rod"]
+  - Quelle/5e/Dungeon_Masters_Guide
+  - Gegenstand/Seltenheit/ungewöhnlich
+  - Gegenstand/Tier/minor
+  - Gegenstand/wundersam/Rute
+aliases:
+  - Immovable Rod
 ---
 # Immovable Rod
 *Rod, minor, uncommon*  

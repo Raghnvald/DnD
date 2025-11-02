@@ -5,19 +5,14 @@ Bezeichnung:
 Typ: Untoter
 Größe: Mittelgroß
 HG: 2
+Habitat:
+  - Stadt
+  - Sumpf
+  - Unterreich
 status: WIP
-order:
-parent:
 image: 
-tags:
-- Quelle/5e/Monster_Manual
-- Habitat/Stadt
-- Habitat/Sumpf
-- Habitat/Unterreich
-- Größe/Mittelgroß
-- Typ/Untote
-aliases:
-- Ghast
+tags: [Quelle/5e/Monster_Manual]
+aliases: [Ghast]
 ---
 # Grul (2014)
 *Source: SRD / Basic Rules*  

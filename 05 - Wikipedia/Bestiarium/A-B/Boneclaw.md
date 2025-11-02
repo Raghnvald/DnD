@@ -6,12 +6,14 @@ Typ: Untoter
 Größe: Groß
 HG: 12
 status: WIP
-order:
-parent:
 image:
 tags:
-  - Quelle/5e/Mordenkainen_Presents_Monsters_of_the_Multiverse
+  - Quelle/5e/mpmm
   - Typ/Untote
 aliases:
   - Boneclaw
+Habitat:
+  - Arktis
+  - Stadt
+  - Wüste
 ---

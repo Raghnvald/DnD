@@ -1,11 +1,12 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- Quelle/5e/Monster_Manual
-- Größe/Groß
-- Typ/Unhold/Teufel
-aliases: ["Horned Devil"]
+  - Quelle/5e/Monster_Manual
+  - Größe/Groß
+  - Typ/Unhold/Teufel
+aliases:
+  - Horned Devil
+Typ: Unhold
 ---
 # Horned Devil
 *Source: SRD / Basic Rules*  

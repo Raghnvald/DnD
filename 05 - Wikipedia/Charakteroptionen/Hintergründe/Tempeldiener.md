@@ -1,9 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-background
 tags:
-- Quelle/5e/Players_Handbook
-aliases: ["Acolyte"]
+  - Quelle/5e/Players_Handbook
+aliases:
+  - Acolyte
 ---
 # Acolyte
 *Source: SRD / Basic Rules*  

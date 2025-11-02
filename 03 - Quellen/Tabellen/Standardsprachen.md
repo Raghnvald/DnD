@@ -1,9 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- Quelle/5e/Players_Handbook
-aliases: ["Standard Languages"]
+  - Quelle/5e/Players_Handbook
+aliases:
+  - Standard Languages
 ---
 # Standardsprachen
 *Quelle: SRD / Grundregelwerk*

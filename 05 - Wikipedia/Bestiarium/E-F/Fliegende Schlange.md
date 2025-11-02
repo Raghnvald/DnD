@@ -1,15 +1,15 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- Quelle/5e/Monster_Manual
-- Habitat/Wüste
-- Habitat/Wald
-- Habitat/Grasland
-- Habitat/Stadt
-- Größe/Winzig
-- Typ/Tier
-aliases: ["Flying Snake"]
+  - Größe/Winzig
+  - Habitat/Grasland
+  - Habitat/Stadt
+  - Habitat/Wald
+  - Habitat/Wüste
+  - Quelle/5e/Monster_Manual
+  - Typ/Tier
+aliases:
+  - Flying Snake
 ---
 # Flying Snake
 *Source: SRD / Basic Rules*  

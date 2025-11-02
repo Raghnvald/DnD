@@ -1,14 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Kleriker
-- Klasse/Druide
-- Klasse/Zauberer
-- Zauber/Grad/7
-- Zauber/Schule/Hervorrufung
-aliases: ["Fire Storm"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Kleriker
+  - Klasse/Druide
+  - Klasse/Zauberer
+  - Zauber/Grad/7
+  - Zauber/Schule/Hervorrufung
+aliases:
+  - Fire Storm
 ---
 # Fire Storm
 *7th-level, Evocation*  

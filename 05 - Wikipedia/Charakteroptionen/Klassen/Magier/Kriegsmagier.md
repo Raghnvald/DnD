@@ -1,5 +1,5 @@
 ---
-tags: [Klasse/Magier/Kriegsmagie, Quelle/5e/Xanathars_Guide_to_Everything]
+tags: [Klasse/Magier/Kriegsmagie, Quelle/5e/xge]
 aliases: [War Magic]
 ---
 Kriegsmagie

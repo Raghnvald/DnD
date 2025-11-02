@@ -1,12 +1,12 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- Quelle/5e/Monster_Manual
-- Habitat/Wald
-- Größe/Groß
-- Typ/Monstrosität
-aliases: ["Owlbear"]
+  - Größe/Groß
+  - Habitat/Wald
+  - Quelle/5e/Monster_Manual
+  - Typ/Monstrosität
+aliases:
+  - Owlbear
 ---
 ```statblock
 statblock: true

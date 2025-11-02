@@ -1,14 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-monster
 tags:
-  - Quelle/5e/Curse_of_Strahd
+  - Quelle/5e/cos
   - Habitat/Stadt
   - Größe/Mittelgroß
   - Typ/Humanoid
 aliases:
   - Rahadin
+Typ: Humanoid
 ---
 # Rahadin
 Rahadin, der Dämmerungselfen-Kammerherr von Schloss Ravenloft, hat Strahds Familie beinahe fünfhundertJahre lang treu gedient. Er ist Strahds ewiger Diener, ein langjähriger Waffengefährte und ein unbarmherziger Krieger, der im Laufe seines Lebens Tausende getötet hat.

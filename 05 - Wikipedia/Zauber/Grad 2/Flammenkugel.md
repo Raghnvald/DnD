@@ -1,13 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Druide
-- Klasse/Magier
-- Zauber/Grad/2
-- Zauber/Schule/Beschwörung
-aliases: ["Flaming Sphere"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Druide
+  - Klasse/Magier
+  - Zauber/Grad/2
+  - Zauber/Schule/Beschwörung
+aliases:
+  - Flaming Sphere
 ---
 # Flaming Sphere
 *2nd-level, Conjuration*  

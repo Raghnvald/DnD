@@ -1,12 +1,12 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- Quelle/5e/Monster_Manual
-- Habitat/Wald
-- Größe/Mittelgroß
-- Typ/Monstrosität
-aliases: ["Ettercap"]
+  - Größe/Mittelgroß
+  - Habitat/Wald
+  - Quelle/5e/Monster_Manual
+  - Typ/Monstrosität
+aliases:
+  - Ettercap
 ---
 # Ettercap
 *Source: SRD / Basic Rules*  

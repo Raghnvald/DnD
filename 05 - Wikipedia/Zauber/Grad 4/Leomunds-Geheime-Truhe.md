@@ -1,12 +1,12 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Magier
-- Zauber/Grad/4
-- Zauber/Schule/Beschwörung
-aliases: ["Leomund's Secret Chest"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Magier
+  - Zauber/Grad/4
+  - Zauber/Schule/Beschwörung
+aliases:
+  - Leomund's Secret Chest
 ---
 # Leomund's Secret Chest
 *4th-level, Conjuration*  

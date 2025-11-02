@@ -5,18 +5,13 @@ Bezeichnung:
 Typ: Untoter
 Größe: Mittelgroß
 HG: 1
+Habitat:
+  - Stadt
+  - Unterreich
 status: WIP
-order:
-parent:
 image:
-tags:
-  - Quelle/5e/Monster_Manual
-  - Habitat/Unterreich
-  - Habitat/Stadt
-  - Größe/Mittelgroß
-  - Typ/Untote
-aliases:
-  - Specter
+tags: [Quelle/5e/Monster_Manual]
+aliases: [Specter]
 ---
 ```statblock
 statblock: true

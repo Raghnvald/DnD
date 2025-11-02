@@ -1,11 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- Quelle/5e/Dungeon_Masters_Guide
-- Gegenstand/wundersam
-- Gegenstand/Seltenheit/ungewöhnlich
-aliases: ["Boots of Elvenkind"]
+  - Quelle/5e/Dungeon_Masters_Guide
+  - Gegenstand/wundersam
+  - Gegenstand/Seltenheit/ungewöhnlich
+aliases:
+  - Boots of Elvenkind
 ---
 # Stiefel der Elfen
 *ungewöhnlicher, wundersamer Gegenstand*  

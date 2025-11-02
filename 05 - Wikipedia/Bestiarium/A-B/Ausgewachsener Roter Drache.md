@@ -1,13 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- Quelle/5e/Monster_Manual
-- Habitat/Hügel
-- Habitat/Berg
-- Größe/Riesig
-- Typ/Drache
-aliases: ["Adult Red Dragon"]
+  - Größe/Riesig
+  - Habitat/Berg
+  - Habitat/Hügel
+  - Quelle/5e/Monster_Manual
+  - Typ/Drache
+aliases:
+  - Adult Red Dragon
 ---
 # Adult Red Dragon
 *Source: SRD / Basic Rules*  
@@ -89,7 +89,7 @@ aliases: ["Adult Red Dragon"]
 > 
 > - **Desertification.** Precipitation is almost nonexistent within 6 miles of the dragon's lair, making the land parched and arid and most plant life withered and brown.  
 > - **Fiery Senses.** The dragon can hear up to 30 feet through any open flame within 1 mile of the dragon's lair.  
-> - **Ominous Flames.** Open flames within 6 miles of the dragon's lair are tinged dark red, hiss and crackle constantly, and throw off embers and showers of sparks.  
+> - **Ominous Flames.** Open flames within 6 miles of the dragon's lair are tinged dark red, hiss and crackle constantly, and throw off embers and showers of sparks.  
 ^statblock
 
 ## Environment

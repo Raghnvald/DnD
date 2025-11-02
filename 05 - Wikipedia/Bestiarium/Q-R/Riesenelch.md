@@ -1,15 +1,15 @@
 ---
 cssclasses: json5e-monster
 tags:
-- Quelle/5e/Monster_Manual
-- Habitat/Wald
-- Habitat/Grasland
-- Habitat/Hügel
-- Habitat/Berg
-- Größe/Riesig
-- Typ/Tier
-aliases: ["Giant Elk"]
-obsidianUIMode: preview
+  - Quelle/5e/Monster_Manual
+  - Habitat/Wald
+  - Habitat/Grasland
+  - Habitat/Hügel
+  - Habitat/Berg
+  - Größe/Riesig
+  - Typ/Tier
+aliases:
+  - Giant Elk
 ---
 # Giant Elk
 *Source: SRD / Basic Rules*  

@@ -1,9 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- Quelle/5e/Dungeon_Masters_Guide
-aliases: ["Poisons"]
+  - Quelle/5e/Dungeon_Masters_Guide
+aliases:
+  - Poisons
 ---
 # Gifte
 *Quelle: SRD / Grundregelwerk*

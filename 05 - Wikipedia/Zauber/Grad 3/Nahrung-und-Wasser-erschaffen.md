@@ -1,13 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Kleriker
-- Klasse/Paladin
-- Zauber/Grad/3
-- Zauber/Schule/Beschwörung
-aliases: ["Create Food and Water"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Kleriker
+  - Klasse/Paladin
+  - Zauber/Grad/3
+  - Zauber/Schule/Beschwörung
+aliases:
+  - Create Food and Water
 ---
 # Create Food and Water
 *3rd-level, Conjuration*  

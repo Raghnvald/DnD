@@ -1,13 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Druide
-- Klasse/Waldläufer
-- Zauber/Grad/3
-- Zauber/Schule/Beschwörung
-aliases: ["Conjure Animals"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Druide
+  - Klasse/Waldläufer
+  - Zauber/Grad/3
+  - Zauber/Schule/Beschwörung
+aliases:
+  - Conjure Animals
 ---
 # Tier beschwören
 *3rd-level, Conjuration*  

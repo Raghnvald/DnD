@@ -1,6 +1,6 @@
 ---
 tags:
-- Quelle/5e/Curse_of_Strahd
+- Quelle/5e/cos
 aliases:
 - Anastrasya Karelova 
 ---

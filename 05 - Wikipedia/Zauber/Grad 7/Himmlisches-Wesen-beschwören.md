@@ -1,12 +1,12 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Kleriker
-- Zauber/Grad/7
-- Zauber/Schule/Beschwörung
-aliases: ["Conjure Celestial"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Kleriker
+  - Zauber/Grad/7
+  - Zauber/Schule/Beschwörung
+aliases:
+  - Conjure Celestial
 ---
 # Celestisches Wesen beschwören
 *7th-level, Conjuration*  

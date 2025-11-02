@@ -6,17 +6,15 @@ Typ: Riese
 Größe: Riesig
 HG: 8
 status:
-order:
-parent:
-image: 
+image:
 tags:
-- Quelle/5e/Monster_Manual
-- Typ/Riese
-- Größe/Riesig
-- Habitat/Arktis
-- Habitat/Berg
+  - Größe/Riesig
+  - Habitat/Arktis
+  - Habitat/Berg
+  - Quelle/5e/Monster_Manual
+  - Typ/Riese
 aliases:
-- Frost Giant
+  - Frost Giant
 ---
 # Frostriese
 *Source: SRD / Basic Rules*  

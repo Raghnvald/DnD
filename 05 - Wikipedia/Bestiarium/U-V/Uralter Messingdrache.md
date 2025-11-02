@@ -1,12 +1,12 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- Quelle/5e/Monster_Manual
-- Habitat/Wüste
-- Größe/Gigantisch
-- Typ/Drache
-aliases: ["Ancient Brass Dragon"]
+  - Quelle/5e/Monster_Manual
+  - Habitat/Wüste
+  - Größe/Gigantisch
+  - Typ/Drache
+aliases:
+  - Ancient Brass Dragon
 ---
 # Ancient Brass Dragon
 *Source: SRD / Basic Rules*  

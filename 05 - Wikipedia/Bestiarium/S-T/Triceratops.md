@@ -1,20 +1,19 @@
 ---
 cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
-Bezeichnung: 
+Bezeichnung:
 Typ: Bestie
-Größe: 
-HG: 
+Größe:
+HG:
 status:
-order:
-parent:
-image: 
+image:
 tags:
-- Quelle/5e/Monster_Manual
-- Habitat/Grasland
-- Größe/Riesig
-- Typ/Tier
-aliases: ["Triceratops"]
+  - Quelle/5e/Monster_Manual
+  - Habitat/Grasland
+  - Größe/Riesig
+  - Typ/Tier
+aliases:
+  - Triceratops
 ---
 # Triceratops
 *Source: SRD / Basic Rules*  

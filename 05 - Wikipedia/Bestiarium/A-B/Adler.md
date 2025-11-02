@@ -1,24 +1,22 @@
 ---
 cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
-Bezeichnung: 
+Bezeichnung:
 Typ: Bestie
-Größe: 
-HG: 
+Größe:
+HG:
 status:
-order:
-parent:
-image: 
+image:
 tags:
-- Quelle/5e/Monster_Manual
-- Habitat/Küste
-- Habitat/Grasland
-- Habitat/Hügel
-- Habitat/Berg
-- Größe/Klein
-- Typ/Tier
+  - Größe/Klein
+  - Habitat/Berg
+  - Habitat/Grasland
+  - Habitat/Hügel
+  - Habitat/Küste
+  - Quelle/5e/Monster_Manual
+  - Typ/Tier
 aliases:
-- Eagle
+  - Eagle
 ---
 # Eagle
 *Source: SRD / Basic Rules*  

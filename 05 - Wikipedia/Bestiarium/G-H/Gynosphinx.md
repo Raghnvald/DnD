@@ -1,12 +1,12 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- Quelle/5e/Monster_Manual
-- Habitat/Wüste
-- Größe/Groß
-- Typ/Monstrosität
-aliases: ["Gynosphinx"]
+  - Quelle/5e/Monster_Manual
+  - Habitat/Wüste
+  - Größe/Groß
+  - Typ/Monstrosität
+aliases:
+  - Gynosphinx
 ---
 # Gynosphinx
 *Source: SRD / Basic Rules*  

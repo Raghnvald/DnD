@@ -1,13 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- Quelle/5e/Monster_Manual
-- Habitat/Grasland
-- Habitat/Hügel
-- Größe/Groß
-- Typ/Tier
-aliases: ["Axe Beak"]
+  - Größe/Groß
+  - Habitat/Grasland
+  - Habitat/Hügel
+  - Quelle/5e/Monster_Manual
+  - Typ/Tier
+aliases:
+  - Axe Beak
 ---
 # Axe Beak
 *Source: SRD / Basic Rules*  

@@ -1,12 +1,12 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Magier
-- Zauber/Grad/8
-- Zauber/Schule/Nekromantie
-aliases: ["Clone"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Magier
+  - Zauber/Grad/8
+  - Zauber/Schule/Nekromantie
+aliases:
+  - Clone
 ---
 # Klon
 ![](../../../99%20-%20Setup/Files/Bildersammlung/Symbolik/Nekromantiezauber.webp#token)

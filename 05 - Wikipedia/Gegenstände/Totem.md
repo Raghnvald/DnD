@@ -1,27 +1,18 @@
 ---
-Bezeichnung: Totem
-Typ: Druidischer Fokus
-Eigenschaften: n/v
-Gew.: n/v
-Kst.: 1 GM
+obsidianUIMode: preview
+cssclasses:
+- json5e-item
 tags:
-- Quelle/5e/Players_Handbook
-- Gegenstand/Ausrüstung
-- Gegenstand/Zauberfokus
-- Gegenstand/Seltenheit/gewöhnlich
-- Klasse/Druide
-aliases:
-- Totem
+- Quelle/5e/phb
+- ttrpg-cli/item/gear/spellcasting-focus
+- ttrpg-cli/item/rarity/none
+aliases: 
+- "Totem"
 ---
 # Totem
-*Zauberfokus, druidisch,  gewöhnlich*  
-<img src="Symbolik/Gegenstände.webp" align="right" width="150">
+*Spellcasting focus*  
 
-_Klassen:_ n/v 
-_Unterklassen:_  n/v
 
-_Quellen:_ Spielerhandbuch
+- **Cost**: 1 gp
 
-- **Eigenschaften**: n/v
-- **Gewicht**: n/v
-- **Kosten**: 1 Goldmünze
+*Source: Player's Handbook p. 151. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

@@ -1,9 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- Quelle/5e/Dungeon_Masters_Guide
-aliases: ["Trap Effects; Damage Severity by Level"]
+  - Quelle/5e/Dungeon_Masters_Guide
+aliases:
+  - Trap Effects; Damage Severity by Level
 ---
 # Trap Effects; Damage Severity by Level
 *Source: SRD / Basic Rules* 

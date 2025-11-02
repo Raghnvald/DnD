@@ -1,15 +1,15 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Kleriker
-- Klasse/Druide
-- Klasse/Paladin
-- Klasse/Waldläufer
-- Zauber/Grad/2
-- Zauber/Schule/Bann
-aliases: ["Protection from Poison"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Kleriker
+  - Klasse/Druide
+  - Klasse/Paladin
+  - Klasse/Waldläufer
+  - Zauber/Grad/2
+  - Zauber/Schule/Bann
+aliases:
+  - Protection from Poison
 ---
 # Protection from Poison
 *2nd-level, Abjuration*  

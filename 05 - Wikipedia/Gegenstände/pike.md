@@ -1,33 +1,22 @@
 ---
-Bezeichnung: Pike
-Typ: Nahkampf-Kriegswaffe
-Schaden: 1W10 Stich
-Eigenschaften: Schwer, weitreichend, zweihändig
-Gew.: 9,0 kg
-Kst.: 5 GM
+obsidianUIMode: preview
+cssclasses:
+- json5e-item
 tags:
-- Quelle/5e/Players_Handbook
-- Gegenstand/Waffe/Nahkampf/Kriegswaffe
-- Gegenstand/Seltenheit/gewöhnlich
-- Gegenstand/Eigenschaft/Schwer
-- Gegenstand/Eigenschaft/Weitreichend
-- Gegenstand/Eigenschaft/Zweihändig
-aliases:
-- Pike
+- Quelle/5e/phb
+- ttrpg-cli/item/rarity/none
+- ttrpg-cli/item/weapon/martial
+- ttrpg-cli/item/weapon/melee
+aliases: 
+- "Pike"
 ---
 # Pike
-*Nahkampf-Kriegswaffe, gewöhnlich*
-<img src="Symbolik/Gegenstände.webp" align="right" width="150">
+*Weapon*  
 
-_Klassen:_ n/v 
-_Unterklassen:_  n/v
 
-_Quellen:_ Spielerhandbuch
+- **Damage**: 1d10 piercing
+- **Properties**: [Heavy](/3-Mechanics/CLI/item-properties.md#Heavy), [Reach](/3-Mechanics/CLI/item-properties.md#Reach), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
+- **Cost**: 5 gp
+- **Weight**: 18.0 lbs.
 
-- **Angriffsart:** Nahkampf-Kriegswaffe
-- **Reichweite:** 3,0 m
-- **Schaden:** 1W10
-- **Schadensart:** Stichschaden
-- **Eigenschaften:** Schwer, weitreichend, zweihändig
-- **Gewicht:** 9,0 kg
-- **Kosten:** 5 Goldmünzen
+*Source: Player's Handbook p. 149. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

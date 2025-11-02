@@ -1,14 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Barde
-- Klasse/Magier
-- Zauber/Grad/2
-- Zauber/Ritual
-- Zauber/Schule/Illusion
-aliases: ["Magic Mouth"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Barde
+  - Klasse/Magier
+  - Zauber/Grad/2
+  - Zauber/Ritual
+  - Zauber/Schule/Illusion
+aliases:
+  - Magic Mouth
 ---
 # Magic Mouth
 *2nd-level, Illusion (ritual)*  

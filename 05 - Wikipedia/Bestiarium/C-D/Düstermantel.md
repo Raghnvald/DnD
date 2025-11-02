@@ -1,21 +1,20 @@
 ---
 cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
-Bezeichnung: 
+Bezeichnung:
 Typ: Aberration
-Größe: 
-HG: 
+Größe:
+HG:
 status:
-order:
-parent:
-image: 
+image:
 tags:
-- Quelle/5e/Monster_Manual
-- Habitat/Unterreich
-- Größe/Klein
-- Typ/Monstrosität
-- Typ/Aberration
-aliases: ["Darkmantle"]
+  - Größe/Klein
+  - Habitat/Unterreich
+  - Quelle/5e/Monster_Manual
+  - Typ/Aberration
+  - Typ/Monstrosität
+aliases:
+  - Darkmantle
 ---
 # Darkmantle
 *Source: SRD / Basic Rules*  

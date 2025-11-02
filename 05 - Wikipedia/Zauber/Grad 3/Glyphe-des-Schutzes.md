@@ -1,14 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Barde
-- Klasse/Kleriker
-- Klasse/Magier
-- Zauber/Grad/3
-- Zauber/Schule/Bann
-aliases: ["Glyph of Warding"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Barde
+  - Klasse/Kleriker
+  - Klasse/Magier
+  - Zauber/Grad/3
+  - Zauber/Schule/Bann
+aliases:
+  - Glyph of Warding
 ---
 # Glyph of Warding
 *3rd-level, Abjuration*  

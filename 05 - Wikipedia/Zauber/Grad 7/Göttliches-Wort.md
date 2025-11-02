@@ -1,12 +1,12 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Kleriker
-- Zauber/Grad/7
-- Zauber/Schule/Hervorrufung
-aliases: ["Divine Word"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Kleriker
+  - Zauber/Grad/7
+  - Zauber/Schule/Hervorrufung
+aliases:
+  - Divine Word
 ---
 # Divine Word
 *7th-level, Evocation*  

@@ -6,8 +6,6 @@ Typ: Untoter
 Größe: Mittelgroß
 HG: 15
 status: WIP
-order:
-parent:
 image:
 tags:
   - Quelle/5e/Monster_Manual

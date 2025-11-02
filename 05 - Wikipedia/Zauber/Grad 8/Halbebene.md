@@ -1,13 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Hexenmeister
-- Klasse/Magier
-- Zauber/Grad/8
-- Zauber/Schule/Beschwörung
-aliases: ["Demiplane"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Hexenmeister
+  - Klasse/Magier
+  - Zauber/Grad/8
+  - Zauber/Schule/Beschwörung
+aliases:
+  - Demiplane
 ---
 # Demiplane
 *8th-level, Conjuration*  

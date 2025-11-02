@@ -1,18 +1,19 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- DnD/Kompendium/Quelle/5e/MM 2024
-- Habitat/Arktis
-- Habitat/Berg
-- Habitat/Hügel
-- Habitat/Küste
-- Habitat/Wald
-- Habitat/Wüste
-- Größe/Klein
-- Größe/Mittelgroß
-- Typ/Humanoid
-aliases: ["Berserker"]
+  - DnD/Kompendium/Quelle/5e/MM 2024
+  - Größe/Klein
+  - Größe/Mittelgroß
+  - Habitat/Arktis
+  - Habitat/Berg
+  - Habitat/Hügel
+  - Habitat/Küste
+  - Habitat/Wald
+  - Habitat/Wüste
+  - Typ/Humanoid
+aliases:
+  - Berserker
+Typ: Humanoid
 ---
 # Berserker (2024)
 _Rasende Eroberer und leidenschaftliche Krieger_

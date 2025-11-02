@@ -1,13 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Barde
-- Klasse/Magier
-- Zauber/Grad/7
-- Zauber/Schule/Beschwörung
-aliases: ["Mordenkainen's Magnificent Mansion"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Barde
+  - Klasse/Magier
+  - Zauber/Grad/7
+  - Zauber/Schule/Beschwörung
+aliases:
+  - Mordenkainen's Magnificent Mansion
 ---
 # Mordenkainen's Herrliches Herrenhaus
 *7th-level, Conjuration*  

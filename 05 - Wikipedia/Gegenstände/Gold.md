@@ -1,25 +1,19 @@
 ---
-Bezeichnung: Gold
-Typ: Handelsware
-Eigenschaften: n/v
-Kst.: 50 GM
-Gew.: 0,5 kg
+obsidianUIMode: preview
+cssclasses:
+- json5e-item
 tags:
-- Quelle/5e/Players_Handbook
-- Gegenstand/Ausrüstung/Handelsgut
-- Gegenstand/Seltenheit/gewöhnlich
-aliases:
-- Gold
+- Quelle/5e/phb
+- ttrpg-cli/item/gear/trade-good
+- ttrpg-cli/item/rarity/none
+aliases: 
+- "Gold"
 ---
 # Gold
-*Handelsware*
-<img src="Gegenstände.webp" align="right" width="150">
+*Trade good*  
 
-_Klassen:_ n/v 
-_Unterklassen:_  n/v
 
-_Quellen:_ Spielerhandbuch
+- **Cost**: 50 gp
+- **Weight**: 1.0 lbs.
 
-- **Eigenschaften**: n/v
-- **Gewicht**: 0,5 kg.
-- **Kosten**: 50 Goldmünzen
+*Source: Player's Handbook p. 157. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

@@ -1,13 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Kleriker
-- Klasse/Paladin
-- Zauber/Grad/1
-- Zauber/Schule/Erkenntnis
-aliases: ["Detect Evil and Good"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Kleriker
+  - Klasse/Paladin
+  - Zauber/Grad/1
+  - Zauber/Schule/Erkenntnis
+aliases:
+  - Detect Evil and Good
 ---
 # Detect Evil and Good
 *1st-level, Divination*  

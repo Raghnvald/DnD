@@ -1,9 +1,8 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-monster
 tags:
-  - Quelle/5e/Curse_of_Strahd
+  - Quelle/5e/cos
   - Habitat/Stadt
   - Größe/Klein
   - Typ/Konstrukt

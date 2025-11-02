@@ -1,14 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Barde
-- Klasse/Waldläufer
-- Klasse/Magier
-- Zauber/Grad/3
-- Zauber/Schule/Bann
-aliases: ["Nondetection"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Barde
+  - Klasse/Waldläufer
+  - Klasse/Magier
+  - Zauber/Grad/3
+  - Zauber/Schule/Bann
+aliases:
+  - Nondetection
 ---
 # Nondetection
 *3rd-level, Abjuration*  

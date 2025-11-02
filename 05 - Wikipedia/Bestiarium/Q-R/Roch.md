@@ -1,16 +1,16 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- Quelle/5e/Monster_Manual
-- Habitat/Arktis
-- Habitat/Küste
-- Habitat/Wüste
-- Habitat/Hügel
-- Habitat/Berg
-- Größe/Gigantisch
-- Typ/Monstrosität
-aliases: ["Roc"]
+  - Quelle/5e/Monster_Manual
+  - Habitat/Arktis
+  - Habitat/Küste
+  - Habitat/Wüste
+  - Habitat/Hügel
+  - Habitat/Berg
+  - Größe/Gigantisch
+  - Typ/Monstrosität
+aliases:
+  - Roc
 ---
 # Roc
 *Source: SRD / Basic Rules*  

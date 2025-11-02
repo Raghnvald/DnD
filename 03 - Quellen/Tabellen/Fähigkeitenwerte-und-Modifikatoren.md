@@ -1,9 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- Quelle/5e/Players_Handbook
-aliases: ["Ability Scores and Modifiers"]
+  - Quelle/5e/Players_Handbook
+aliases:
+  - Ability Scores and Modifiers
 ---
 # Fähigkeitenwerte und Modifikatoren
 *Quelle: SRD / Grundregelwerk*

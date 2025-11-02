@@ -1,8 +1,7 @@
 ---
-obsidianUIMode: preview
 cssclasses: dnd5e-compendium
 tags:
-  - Quelle/5e/Curse_of_Strahd
+  - Quelle/5e/cos
   - Gegenstand/Rüstung/Schild
   - Gegenstand/Seltenheit/unbekannt
 aliases:

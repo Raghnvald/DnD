@@ -1,12 +1,12 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- Quelle/5e/Monster_Manual
-- Habitat/Hügel
-- Größe/Groß
-- Typ/Drache
-aliases: ["Young Copper Dragon"]
+  - Quelle/5e/Monster_Manual
+  - Habitat/Hügel
+  - Größe/Groß
+  - Typ/Drache
+aliases:
+  - Young Copper Dragon
 ---
 # Young Copper Dragon
 *Source: SRD / Basic Rules*  

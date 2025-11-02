@@ -1,12 +1,12 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Magier
-- Zauber/Grad/7
-- Zauber/Schule/Verwandlung
-aliases: ["Sequester"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Magier
+  - Zauber/Grad/7
+  - Zauber/Schule/Verwandlung
+aliases:
+  - Sequester
 ---
 # Sequester
 *7th-level, Transmutation*  

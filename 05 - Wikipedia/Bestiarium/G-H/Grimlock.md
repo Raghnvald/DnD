@@ -1,13 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- Quelle/5e/Monster_Manual
-- Habitat/Unterreich
-- Größe/Mittelgroß
-- Typ/Humanoid/Grimlock
-- Typ/Aberration
-aliases: ["Grimlock"]
+  - Quelle/5e/Monster_Manual
+  - Habitat/Unterreich
+  - Größe/Mittelgroß
+  - Typ/Humanoid/Grimlock
+  - Typ/Aberration
+aliases:
+  - Grimlock
+Typ: Humanoid
 ---
 # Grimlock
 *Source: SRD / Basic Rules*  

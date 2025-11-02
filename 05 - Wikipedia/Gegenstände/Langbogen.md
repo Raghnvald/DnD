@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-item
 Bezeichnung: Langbogen
 Typ: Fernkampf-Kriegswaffe

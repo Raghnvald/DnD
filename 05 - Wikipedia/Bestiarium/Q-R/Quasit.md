@@ -1,11 +1,12 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- Quelle/5e/Monster_Manual
-- Größe/Winzig
-- Typ/Unhold/Dämon
-aliases: ["Quasit"]
+  - Quelle/5e/Monster_Manual
+  - Größe/Winzig
+  - Typ/Unhold/Dämon
+aliases:
+  - Quasit
+Typ: Unhold
 ---
 ```statblock
 statblock: true

@@ -1,12 +1,12 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Magier
-- Zauber/Grad/4
-- Zauber/Schule/Bann
-aliases: ["Mordenkainen's Private Sanctum"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Magier
+  - Zauber/Grad/4
+  - Zauber/Schule/Bann
+aliases:
+  - Mordenkainen's Private Sanctum
 ---
 # Mordenkainen's Privates Heiligtum
 *4th-level, Abjuration*  

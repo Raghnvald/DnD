@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: dnd5e-compendium
 tags:
   - Quelle/5e/Dungeon_Masters_Guide
@@ -12,7 +11,7 @@ Bezeichnung: Elfenrüstung
 Typ: Rüstung
 Rüstung: Mittel
 RK: 14 + GES (max +2)
-STR: n/v 
+STR: n/v
 Heiml.: n/v
 Eigenschaften: n/v
 Gew.: 10,0 kg

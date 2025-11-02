@@ -1,14 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Kleriker
-- Klasse/Druide
-- Zauber/Grad/3
-- Zauber/Ritual
-- Zauber/Schule/Verwandlung
-aliases: ["Meld into Stone"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Kleriker
+  - Klasse/Druide
+  - Zauber/Grad/3
+  - Zauber/Ritual
+  - Zauber/Schule/Verwandlung
+aliases:
+  - Meld into Stone
 ---
 # Meld into Stone
 *3rd-level, Transmutation (ritual)*  

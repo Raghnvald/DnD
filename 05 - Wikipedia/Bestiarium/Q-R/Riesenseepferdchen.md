@@ -1,21 +1,19 @@
 ---
 cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
-Bezeichnung: 
+Bezeichnung:
 Typ: Bestie
-Größe: 
-HG: 
+Größe:
+HG:
 status:
-order:
-parent:
-image: 
+image:
 tags:
-- Quelle/5e/Monster_Manual
-- Habitat/Unterwasser
-- Größe/Groß
-- Typ/Tier
+  - Quelle/5e/Monster_Manual
+  - Habitat/Unterwasser
+  - Größe/Groß
+  - Typ/Tier
 aliases:
-- Giant Sea Horse
+  - Giant Sea Horse
 ---
 # Giant Seahorse
 *Source: SRD / Basic Rules*  

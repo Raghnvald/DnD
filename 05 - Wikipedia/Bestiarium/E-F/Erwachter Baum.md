@@ -1,12 +1,12 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- Quelle/5e/Monster_Manual
-- Habitat/Wald
-- Größe/Riesig
-- Typ/Pflanze
-aliases: ["Awakened Tree"]
+  - Größe/Riesig
+  - Habitat/Wald
+  - Quelle/5e/Monster_Manual
+  - Typ/Pflanze
+aliases:
+  - Awakened Tree
 ---
 # Erwachter Baum
 *Source: SRD / Basic Rules*  

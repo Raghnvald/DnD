@@ -1,21 +1,20 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- Quelle/5e/Dungeon_Masters_Guide
-- Gegenstand/Einstimmung/erforderlich
-- Gegenstand/Seltenheit/ungewöhnlich
-- Gegenstand/Tier/major
-- Gegenstand/wundersam
-aliases: ["Headband of Intellect"]
+- Quelle/5e/dmg
+- ttrpg-cli/item/attunement/required
+- ttrpg-cli/item/rarity/uncommon
+- ttrpg-cli/item/tier/major
+aliases: 
+- "Headband of Intellect"
 ---
 # Headband of Intellect
-*Wondrous Item, major, uncommon (requires attunement)*  
+*Wondrous item, major, uncommon (requires attunement)*  
+![](/3-Mechanics/CLI/items/img/headband-of-intellect.webp#right)
 
-- **Properties**: Requires Attunement
-- **Cost**: ⏤
-- **Weight**: ⏤
 
 Your Intelligence score is 19 while you wear this headband. It has no effect on you if your Intelligence is already 19 or higher without it.
 
-*Source: SRD / Basic Rules*
+*Source: Dungeon Master's Guide p. 173. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

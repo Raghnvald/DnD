@@ -1,13 +1,17 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- Quelle/5e/Players_Handbook
-- Gegenstand/Ausrüstung
-aliases: ["Holy Water (flask)"]
+- Quelle/5e/phb
+- ttrpg-cli/item/gear/
+- ttrpg-cli/item/rarity/none
+aliases: 
+- "Holy Water (flask)"
 ---
-# Weihwasser (Flasche)
-*Adventuring Gear*  
+# Holy Water (flask)
+*Adventuring gear*  
+
 
 - **Cost**: 25 gp
 - **Weight**: 1.0 lbs.
@@ -16,4 +20,4 @@ As an action, you can splash the contents of this flask onto a creature within 5
 
 A cleric or paladin may create holy water by performing a special ritual. The ritual takes 1 hour to perform, uses 25 gp worth of powdered silver, and requires the caster to expend a 1st-level spell slot.
 
-*Source: SRD / Basic Rules*
+*Source: Player's Handbook p. 151. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

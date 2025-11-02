@@ -1,5 +1,5 @@
 ---
-tags: [Quelle/5e/Baldurs_Gate_Descent_into_Avernus]
+tags: [Quelle/5e/bgdia]
 ---
 # Stadtführer von Baldurs Gate
 

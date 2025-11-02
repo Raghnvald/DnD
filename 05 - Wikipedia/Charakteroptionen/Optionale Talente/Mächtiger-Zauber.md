@@ -1,10 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- Quelle/5e/Players_Handbook
-- Kompendium/Optionales/Metamagie
-aliases: ["Empowered Spell"]
+  - Quelle/5e/Players_Handbook
+  - Kompendium/Optionales/Metamagie
+aliases:
+  - Empowered Spell
 ---
 # Mächtiger Zauber
 *Quelle: SRD / Grundregelwerk / Spielerhandbuch*  

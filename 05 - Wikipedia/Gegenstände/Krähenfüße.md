@@ -1,11 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- Quelle/5e/Players_Handbook
-- Gegenstand/Ausrüstung
-- Gegenstand/Seltenheit/gewöhnlich
-aliases: ["Caltrop"]
+  - Quelle/5e/Players_Handbook
+  - Gegenstand/Ausrüstung
+  - Gegenstand/Seltenheit/gewöhnlich
+aliases:
+  - Caltrop
 ---
 # Krähenfüße
 ![](../../../99%20-%20Setup/Files/Bildersammlung/Symbolik/Gegenstände.webp#token)

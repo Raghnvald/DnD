@@ -1,12 +1,12 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Magier
-- Zauber/Grad/4
-- Zauber/Schule/Hervorrufung
-aliases: ["Fire Shield"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Magier
+  - Zauber/Grad/4
+  - Zauber/Schule/Hervorrufung
+aliases:
+  - Fire Shield
 ---
 # Fire Shield
 *4th-level, Evocation*  

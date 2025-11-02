@@ -1,15 +1,19 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- Quelle/5e/Players_Handbook
-- Gegenstand/Ausrüstung
-aliases: ["Miner's Pick"]
+- Quelle/5e/phb
+- ttrpg-cli/item/gear/
+- ttrpg-cli/item/rarity/none
+aliases: 
+- "Miner's Pick"
 ---
-# Spitzhacke
-*Adventuring Gear*  
+# Miner's Pick
+*Adventuring gear*  
+
 
 - **Cost**: 2 gp
 - **Weight**: 10.0 lbs.
 
-*Source: SRD / Basic Rules*
+*Source: Player's Handbook p. 150. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

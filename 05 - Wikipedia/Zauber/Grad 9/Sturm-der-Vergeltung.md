@@ -1,12 +1,12 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Druide
-- Zauber/Grad/9
-- Zauber/Schule/Beschwörung
-aliases: ["Storm of Vengeance"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Druide
+  - Zauber/Grad/9
+  - Zauber/Schule/Beschwörung
+aliases:
+  - Storm of Vengeance
 ---
 # Storm of Vengeance
 *9th-level, Conjuration*  

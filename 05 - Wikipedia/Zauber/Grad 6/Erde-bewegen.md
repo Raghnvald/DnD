@@ -1,14 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Druide
-- Klasse/Zauberer
-- Klasse/Magier
-- Zauber/Grad/6
-- Zauber/Schule/Verwandlung
-aliases: ["Move Earth"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Druide
+  - Klasse/Zauberer
+  - Klasse/Magier
+  - Zauber/Grad/6
+  - Zauber/Schule/Verwandlung
+aliases:
+  - Move Earth
 ---
 # Move Earth
 *6th-level, Transmutation*  

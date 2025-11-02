@@ -1,15 +1,15 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Barde
-- Klasse/Druide
-- Klasse/Hexenmeister
-- Klasse/Magier
-- Zauber/Grad/8
-- Zauber/Schule/Verzauberung
-aliases: ["Feeblemind"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Barde
+  - Klasse/Druide
+  - Klasse/Hexenmeister
+  - Klasse/Magier
+  - Zauber/Grad/8
+  - Zauber/Schule/Verzauberung
+aliases:
+  - Feeblemind
 ---
 # Feeblemind
 *8th-level, Enchantment*  

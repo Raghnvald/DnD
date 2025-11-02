@@ -1,13 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Magier
-- Klasse/Zauberer
-- Zauber/Grad/6
-- Zauber/Schule/Hervorrufung
-aliases: ["Chain Lightning"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Magier
+  - Klasse/Zauberer
+  - Zauber/Grad/6
+  - Zauber/Schule/Hervorrufung
+aliases:
+  - Chain Lightning
 ---
 # Kugelblitz
 ![](../../../99%20-%20Setup/Files/Bildersammlung/Symbolik/Hervorrufungszauber.webp#token)

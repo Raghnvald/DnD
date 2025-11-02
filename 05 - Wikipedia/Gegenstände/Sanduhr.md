@@ -1,10 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- Quelle/5e/Players_Handbook
-- Gegenstand/Ausrüstung
-aliases: ["Hourglass"]
+  - Quelle/5e/Players_Handbook
+  - Gegenstand/Ausrüstung
+aliases:
+  - Hourglass
 ---
 # Hourglass
 *Adventuring Gear*  

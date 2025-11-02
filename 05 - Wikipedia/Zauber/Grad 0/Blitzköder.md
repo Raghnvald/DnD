@@ -7,7 +7,7 @@ Wirkungsdauer: Sofort
 Angriff: STR
 Schaden: 1d8 Blitz
 tags: 
-- Quelle/5e/Sword_Coast_Adventurers_Guide
+- Quelle/5e/scag
 - Klasse/Hexenmeister
 - Klasse/Magier
 - Klasse/Zauberer

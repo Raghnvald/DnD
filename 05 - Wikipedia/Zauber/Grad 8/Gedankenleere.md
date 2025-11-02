@@ -1,13 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Barde
-- Klasse/Magier
-- Zauber/Grad/8
-- Zauber/Schule/Bann
-aliases: ["Mind Blank"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Barde
+  - Klasse/Magier
+  - Zauber/Grad/8
+  - Zauber/Schule/Bann
+aliases:
+  - Mind Blank
 ---
 # Mind Blank
 *8th-level, Abjuration*  

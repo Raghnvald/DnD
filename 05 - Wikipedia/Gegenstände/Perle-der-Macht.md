@@ -1,11 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- Quelle/5e/Dungeon_Masters_Guide
-- Gegenstand/wundersam
-- Gegenstand/Seltenheit/selten
-aliases: ["Bead of Force"]
+  - Quelle/5e/Dungeon_Masters_Guide
+  - Gegenstand/wundersam
+  - Gegenstand/Seltenheit/selten
+aliases:
+  - Bead of Force
 ---
 # Perle der Macht
 *Wundersamer Gegenstand, ungewöhnlich (erfordert Einstimmung durch einen Zauberwirker)*  

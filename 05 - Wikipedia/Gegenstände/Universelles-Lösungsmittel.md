@@ -1,12 +1,12 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- Quelle/5e/Dungeon_Masters_Guide
-- Gegenstand/Seltenheit/legendär
-- Gegenstand/Tier/minor
-- Gegenstand/wundersam
-aliases: ["Universal Solvent"]
+  - Quelle/5e/Dungeon_Masters_Guide
+  - Gegenstand/Seltenheit/legendär
+  - Gegenstand/Tier/minor
+  - Gegenstand/wundersam
+aliases:
+  - Universal Solvent
 ---
 # Universal Solvent
 *Wondrous Item, minor, legendary*  

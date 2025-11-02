@@ -1,13 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Hexenmeister
-- Klasse/Magier
-- Zauber/Grad/6
-- Zauber/Schule/Verwandlung
-aliases: ["Flesh to Stone"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Hexenmeister
+  - Klasse/Magier
+  - Zauber/Grad/6
+  - Zauber/Schule/Verwandlung
+aliases:
+  - Flesh to Stone
 ---
 # Flesh to Stone
 *6th-level, Transmutation*  

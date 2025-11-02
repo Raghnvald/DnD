@@ -1,13 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Zauberer
-- Klasse/Magier
-- Zauber/Grad/5
-- Zauber/Schule/Hervorrufung
-aliases: ["Cone of Cold"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Zauberer
+  - Klasse/Magier
+  - Zauber/Grad/5
+  - Zauber/Schule/Hervorrufung
+aliases:
+  - Cone of Cold
 ---
 # Kältekegel
 *5th-level, Evocation*  

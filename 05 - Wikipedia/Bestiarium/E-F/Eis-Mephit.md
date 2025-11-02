@@ -1,20 +1,19 @@
 ---
 cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
-Bezeichnung: 
+Bezeichnung:
 Typ: Elementar
-Größe: 
-HG: 
+Größe:
+HG:
 status:
-order:
-parent:
-image: 
+image:
 tags:
-- Quelle/5e/Monster_Manual
-- Habitat/Arktis
-- Größe/Klein
-- Typ/Elementar
-aliases: ["Ice Mephit"]
+  - Größe/Klein
+  - Habitat/Arktis
+  - Quelle/5e/Monster_Manual
+  - Typ/Elementar
+aliases:
+  - Ice Mephit
 ---
 # Ice Mephit
 *Source: SRD / Basic Rules*  

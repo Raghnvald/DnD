@@ -1,14 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Barde
-- Klasse/Kleriker
-- Klasse/Magier
-- Zauber/Grad/7
-- Zauber/Schule/Bann
-aliases: ["Symbol"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Barde
+  - Klasse/Kleriker
+  - Klasse/Magier
+  - Zauber/Grad/7
+  - Zauber/Schule/Bann
+aliases:
+  - Symbol
 ---
 # Symbol
 ![](../../../99%20-%20Setup/Files/Bildersammlung/Symbolik/Bannzauber.webp#token)

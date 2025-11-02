@@ -1,14 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Druide
-- Klasse/Zauberer
-- Klasse/Magier
-- Zauber/Grad/7
-- Zauber/Schule/Verwandlung
-aliases: ["Reverse Gravity"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Druide
+  - Klasse/Zauberer
+  - Klasse/Magier
+  - Zauber/Grad/7
+  - Zauber/Schule/Verwandlung
+aliases:
+  - Reverse Gravity
 ---
 # Reverse Gravity
 *7th-level, Transmutation*  

@@ -1,10 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- Quelle/5e/Players_Handbook
-- Kompendium/Optionales/Anrufungen
-aliases: ["Misty Visions"]
+  - Quelle/5e/Players_Handbook
+  - Kompendium/Optionales/Anrufungen
+aliases:
+  - Misty Visions
 ---
 # Neblige Visionen
 *Quelle: SRD / Grundregelwerk / Spielerhandbuch*  

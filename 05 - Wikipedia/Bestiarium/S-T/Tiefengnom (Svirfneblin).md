@@ -1,12 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- Quelle/5e/Monster_Manual
-- Habitat/Unterreich
-- Größe/Klein
-- Typ/Humanoid/Grnom
-aliases: ["Deep Gnome (Svirfneblin)"]
+  - Quelle/5e/Monster_Manual
+  - Habitat/Unterreich
+  - Größe/Klein
+  - Typ/Humanoid/Grnom
+aliases:
+  - Deep Gnome (Svirfneblin)
+Typ: Humanoid
 ---
 # Deep Gnome (Svirfneblin)
 *Source: SRD / Basic Rules*  

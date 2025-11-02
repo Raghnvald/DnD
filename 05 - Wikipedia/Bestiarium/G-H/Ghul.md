@@ -5,19 +5,14 @@ Bezeichnung:
 Typ: Untoter
 Größe: Mittelgroß
 HG: 1
+Habitat:
+  - Stadt
+  - Sumpf
+  - Unterreich
 status: WIP
-order:
-parent:
 image:
-tags:
-  - Quelle/5e/Monster_Manual
-  - Habitat/Unterreich
-  - Habitat/Stadt
-  - Habitat/Sumpf
-  - Größe/Mittelgroß
-  - Typ/Untote
-aliases:
-  - Ghoul
+tags: [Quelle/5e/Monster_Manual]
+aliases: [Ghoul]
 ---
 ```statblock
 statblock: true

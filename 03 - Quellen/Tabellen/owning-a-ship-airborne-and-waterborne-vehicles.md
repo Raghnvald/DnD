@@ -1,9 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- Quelle/5e/Dungeon_Masters_Guide
-aliases: ["Owning a Ship; Airborne and Waterborne Vehicles"]
+  - Quelle/5e/Dungeon_Masters_Guide
+aliases:
+  - Owning a Ship; Airborne and Waterborne Vehicles
 ---
 # Owning a Ship; Airborne and Waterborne Vehicles
 *Source: SRD / Basic Rules* 

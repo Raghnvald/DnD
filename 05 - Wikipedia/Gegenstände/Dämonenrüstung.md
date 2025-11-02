@@ -1,13 +1,12 @@
 ---
-obsidianUIMode: preview
 cssclasses: dnd5e-compendium
 tags:
-- Quelle/5e/Dungeon_Masters_Guide
-- Gegenstand/Rüstung/Schwer
-- Gegenstand/Seltenheit/sehr_selten
-- Gegenstand/Einstimmung
+  - Quelle/5e/Dungeon_Masters_Guide
+  - Gegenstand/Rüstung/Schwer
+  - Gegenstand/Seltenheit/sehr_selten
+  - Gegenstand/Einstimmung
 aliases:
-- Demon Armor
+  - Demon Armor
 Bezeichnung: Dämonenrüstung
 Typ: Rüstung
 Rüstung: Schwer

@@ -1,15 +1,15 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Barde
-- Klasse/Zauberer
-- Klasse/Hexenmeister
-- Klasse/Magier
-- Zauber/Grad/4
-- Zauber/Schule/Beschwörung
-aliases: ["Dimension Door"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Barde
+  - Klasse/Zauberer
+  - Klasse/Hexenmeister
+  - Klasse/Magier
+  - Zauber/Grad/4
+  - Zauber/Schule/Beschwörung
+aliases:
+  - Dimension Door
 ---
 # Dimension Door
 *4th-level, Conjuration*  

@@ -1,14 +1,12 @@
 ---
-cssclasses: 
-- json5e-monster
-prefer-view: 
-- edit-source read
-type: 
-- creature
-tags: 
-aliases: 
-link:
+cssclasses:
+  - json5e-monster
+prefer-view:
+  - edit-source read
 status:
-order:
-parent:
+tags: []
+aliases: []
+link:
+type:
+  - creature
 ---

@@ -1,13 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Druide
-- Klasse/Magier
-- Zauber/Grad/4
-- Zauber/Schule/Beschwörung
-aliases: ["Conjure Minor Elementals"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Druide
+  - Klasse/Magier
+  - Zauber/Grad/4
+  - Zauber/Schule/Beschwörung
+aliases:
+  - Conjure Minor Elementals
 ---
 # Schwache Elementare beschwören
 *4th-level, Conjuration*  

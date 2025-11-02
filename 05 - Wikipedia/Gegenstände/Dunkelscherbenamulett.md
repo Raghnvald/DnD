@@ -1,13 +1,12 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- Quelle/5e/Dungeon_Masters_Guide
-- Gegenstand/wundersam
-- Gegenstand/Seltenheit/gewöhnlich
-- Gegenstand/Einstimmung/Hexenmeister
+  - Quelle/5e/Dungeon_Masters_Guide
+  - Gegenstand/wundersam
+  - Gegenstand/Seltenheit/gewöhnlich
+  - Gegenstand/Einstimmung/Hexenmeister
 aliases:
-- Dark Shard Amulet
+  - Dark Shard Amulet
 ---
 # Dunkelscherbenamulett
 *Wundersamer Gegenstand, gewöhnlich (erfordert Einstimmung durch einen Hexenmeister)*  

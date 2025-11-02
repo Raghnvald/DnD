@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: dnd5e-compendium
 tags:
-- Quelle/5e/Dungeon_Masters_Guide
-- Gegenstand/Rüstung/Schwer
-- Gegenstand/Seltenheit/sehr_selten
-aliases: 
-- Dwarven Plate
+  - Quelle/5e/Dungeon_Masters_Guide
+  - Gegenstand/Rüstung/Schwer
+  - Gegenstand/Seltenheit/sehr_selten
+aliases:
+  - Dwarven Plate
 Bezeichnung: Zwergische Ritterrüstung
 Typ: Rüstung
 Rüstung: Schwer

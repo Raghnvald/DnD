@@ -1,13 +1,12 @@
 ---
-obsidianUIMode: preview
 cssclasses: dnd5e-compendium
 tags:
-- Quelle/5e/Dungeon_Masters_Guide
-- Gegenstand/Rüstung/Schwer
-- Gegenstand/Einstimmung/erforderlich
-- Gegenstand/Seltenheit/legendär
-aliases: 
-- Plate Armor of Etherealness
+  - Quelle/5e/Dungeon_Masters_Guide
+  - Gegenstand/Rüstung/Schwer
+  - Gegenstand/Einstimmung/erforderlich
+  - Gegenstand/Seltenheit/legendär
+aliases:
+  - Plate Armor of Etherealness
 Bezeichnung: Ritterrüstung
 Typ: Rüstung
 Rüstung: Schwer

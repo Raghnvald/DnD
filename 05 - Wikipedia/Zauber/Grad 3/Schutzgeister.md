@@ -1,12 +1,12 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Kleriker
-- Zauber/Grad/3
-- Zauber/Schule/Beschwörung
-aliases: ["Spirit Guardians"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Kleriker
+  - Zauber/Grad/3
+  - Zauber/Schule/Beschwörung
+aliases:
+  - Spirit Guardians
 ---
 # Spirit Guardians
 *3rd-level, Conjuration*  

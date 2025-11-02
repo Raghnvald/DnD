@@ -3,11 +3,12 @@ prefer-view:
   - edit-source read
 status:
   - completed
-order:
-parent:
-  - Kleriker
-tags: [Götter/Domäne/Leben, Klasse/Kleriker, Quelle/5e/Players_Handbook]
-aliases: [Life Domain]
+tags:
+  - Götter/Domäne/Leben
+  - Klasse/Kleriker
+  - Quelle/5e/Players_Handbook
+aliases:
+  - Life Domain
 link:
   - https://www.dndbeyond.com/classes/2190877-cleric
 type:

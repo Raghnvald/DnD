@@ -1,9 +1,5 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-race
-tags:
-- Quelle/5e/Players_Handbook
-- Rasse/Zwerg
+tags: [Quelle/5e/Players_Handbook]
 aliases: ["Dwarf"]
 ---
 # Zwerg

@@ -1,11 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- Quelle/5e/Dungeon_Masters_Guide
-- Gegenstand/Seltenheit/sehr_selten
-- Gegenstand/wundersam
-aliases: ["Bag of Devouring"]
+  - Quelle/5e/Dungeon_Masters_Guide
+  - Gegenstand/Seltenheit/sehr_selten
+  - Gegenstand/wundersam
+aliases:
+  - Bag of Devouring
 ---
 # Fraßbeutel
 *sehr seltener, wundersamer Gegenstand*  

@@ -7,7 +7,7 @@ Wirkungsdauer: 1 Runde
 Angriff: n/v
 Schaden: n/v
 tags:
-  - Quelle/5e/Xanathars_Guide_to_Everything
+  - Quelle/5e/xge
   - Klasse/Druide
   - Klasse/Magier
   - Klasse/Magieschmied

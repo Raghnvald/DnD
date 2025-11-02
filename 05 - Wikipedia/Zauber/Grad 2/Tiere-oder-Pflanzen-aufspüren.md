@@ -1,15 +1,15 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Barde
-- Klasse/Druide
-- Klasse/Waldläufer
-- Zauber/Grad/2
-- Zauber/Ritual
-- Zauber/Schule/Erkenntnis
-aliases: ["Locate Animals or Plants"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Barde
+  - Klasse/Druide
+  - Klasse/Waldläufer
+  - Zauber/Grad/2
+  - Zauber/Ritual
+  - Zauber/Schule/Erkenntnis
+aliases:
+  - Locate Animals or Plants
 ---
 # Locate Animals or Plants
 *2nd-level, Divination (ritual)*  

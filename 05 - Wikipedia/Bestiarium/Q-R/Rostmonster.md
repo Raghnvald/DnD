@@ -1,12 +1,12 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- Quelle/5e/Monster_Manual
-- Habitat/Unterreich
-- Größe/Mittelgroß
-- Typ/Monstrosität
-aliases: ["Rust Monster"]
+  - Quelle/5e/Monster_Manual
+  - Habitat/Unterreich
+  - Größe/Mittelgroß
+  - Typ/Monstrosität
+aliases:
+  - Rust Monster
 ---
 # Rust Monster
 *Source: SRD / Basic Rules*  

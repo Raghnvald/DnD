@@ -1,11 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- Quelle/5e/Monster_Manual
-- Größe/Mittelgroß
-- Typ/Konstrukt
-aliases: ["Flesh Golem"]
+  - Größe/Mittelgroß
+  - Quelle/5e/Monster_Manual
+  - Typ/Konstrukt
+aliases:
+  - Flesh Golem
 ---
 # Flesh Golem
 *Source: SRD / Basic Rules*  

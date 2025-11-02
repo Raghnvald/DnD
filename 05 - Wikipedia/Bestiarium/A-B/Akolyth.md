@@ -1,12 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- Quelle/5e/Monster_Manual
-- Habitat/Stadt
-- Größe/Mittelgroß
-- Typ/Humanoid/jede-rasse
-aliases: ["Acolyte"]
+  - Größe/Mittelgroß
+  - Habitat/Stadt
+  - Quelle/5e/Monster_Manual
+  - Typ/Humanoid/jede-rasse
+aliases:
+  - Acolyte
+Typ: Humanoid
 ---
 ```statblock
 statblock: true

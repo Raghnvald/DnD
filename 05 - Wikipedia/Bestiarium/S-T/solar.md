@@ -1,11 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- Quelle/5e/Monster_Manual
-- Größe/Groß
-- Typ/Himmlische
-aliases: ["Solar"]
+  - Quelle/5e/Monster_Manual
+  - Größe/Groß
+  - Typ/Himmlische
+aliases:
+  - Solar
 ---
 # Solar
 *Source: SRD / Basic Rules*  

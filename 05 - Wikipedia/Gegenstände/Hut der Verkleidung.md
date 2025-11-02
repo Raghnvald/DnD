@@ -1,12 +1,12 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- Quelle/5e/Dungeon_Masters_Guide
-- Gegenstand/wundersam
-- Gegenstand/Einstimmung/erforderlich
-- Gegenstand/Seltenheit/ungewöhnlich
-aliases: ["Hat of Disguise"]
+  - Quelle/5e/Dungeon_Masters_Guide
+  - Gegenstand/wundersam
+  - Gegenstand/Einstimmung/erforderlich
+  - Gegenstand/Seltenheit/ungewöhnlich
+aliases:
+  - Hat of Disguise
 ---
 # Hut der Verkleidung
 *Wundersamer Gegenstand, ungewöhnlich (erfordert Einstimmung)*  

@@ -1,11 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- Quelle/5e/Monster_Manual
-- Größe/Mittelgroß
-- Typ/Drache
-aliases: ["Bronze Dragon Wyrmling"]
+  - Größe/Mittelgroß
+  - Quelle/5e/Monster_Manual
+  - Typ/Drache
+aliases:
+  - Bronze Dragon Wyrmling
 ---
 # Bronze Dragon Wyrmling
 *Source: SRD / Basic Rules*  
@@ -41,5 +41,6 @@ aliases: ["Bronze Dragon Wyrmling"]
 > ***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
 > 
 > - **Lightning Breath.** The dragon exhales lightning in a 40-foot line that is 5 feet wide. Each creature in that line must make a DC 12 Dexterity saving throw, taking 16 (`3d10`) lightning damage on a failed save, or half as much damage on a successful one.  
-> - **Repulsion Breath.** The dragon exhales repulsion energy in a 30-foot cone. Each creature in that area must succeed on a DC 12 Strength saving throw. On a failed save, the creature is pushed 30 feet away from the dragon.  
+> - **Repulsion Breath.** The dragon exhales repulsion energy in a 30-foot cone. Each creature in that area must succeed on a DC 12 Strength saving throw. On a failed save, the creature is pushed 30 feet away from the dragon.  
+
 ^statblock

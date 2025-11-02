@@ -1,9 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- Quelle/5e/Players_Handbook
-aliases: ["Services"]
+  - Quelle/5e/Players_Handbook
+aliases:
+  - Services
 ---
 # Dienstleistungen
 _Quellen:_ Spielerhandbuch

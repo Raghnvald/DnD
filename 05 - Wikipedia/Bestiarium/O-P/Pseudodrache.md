@@ -1,18 +1,17 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- Quelle/5e/Monster_Manual
-- Typ/Drache
-- Größe/Winzig
-- Habitat/Berg
-- Habitat/Hügel
-- Habitat/Küste
-- Habitat/Stadt
-- Habitat/Wald
-- Habitat/Wüste
+  - Quelle/5e/Monster_Manual
+  - Typ/Drache
+  - Größe/Winzig
+  - Habitat/Berg
+  - Habitat/Hügel
+  - Habitat/Küste
+  - Habitat/Stadt
+  - Habitat/Wald
+  - Habitat/Wüste
 aliases:
-- Pseudodragon
+  - Pseudodragon
 ---
 # Pseudodragon
 *Source: SRD / Basic Rules*  

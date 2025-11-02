@@ -2,23 +2,15 @@
 cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
 Bezeichnung: Strahd von Zarowitsch
-Typ: Untoter
+Typ: Untoter (Gestaltwandler)
 Größe: Mittelgroß
 HG: 15
-status: completed
-order:
-parent:
-image: token/count_strahd_von_zarovich_token.webp
-tags:
-  - Quelle/5e/Curse_of_Strahd
-  - Typ/Untote/Gestaltwandler
-  - Größe/Mittelgroß
-  - Habitat/Stadt
-aliases:
-  - Strahd von Zarowitsch
-  - Strahd
 Habitat:
   - Stadt
+status: completed
+image: token/count_strahd_von_zarovich_token.webp
+tags: [Quelle/5e/cos]
+aliases: [Strahd, Strahd von Zarowitsch]
 ---
 
 # Strahd von Zarowitsch

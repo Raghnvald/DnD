@@ -1,18 +1,19 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-monster
+Typ: Humanoid
 tags:
-- Quelle/5e/Monster_Manual
-- Habitat/Arktis
-- Habitat/Wald
-- Habitat/Grasland
-- Habitat/Hügel
-- Habitat/Berg
-- Habitat/Sumpf
-- Habitat/Unterreich
-- Größe/Mittelgroß
-- Typ/Humanoid/Ork
-aliases: ["Orc"]
+  - Größe/Mittelgroß
+  - Habitat/Arktis
+  - Habitat/Berg
+  - Habitat/Grasland
+  - Habitat/Hügel
+  - Habitat/Sumpf
+  - Habitat/Unterreich
+  - Habitat/Wald
+  - Quelle/5e/Monster_Manual
+  - Typ/Humanoid/Ork
+aliases:
+  - Orc
 ---
 # Orc
 *Source: SRD / Basic Rules*  

@@ -1,23 +1,22 @@
 ---
 cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
-Bezeichnung: 
+Bezeichnung:
 Typ: Bestie
-Größe: 
-HG: 
+Größe:
+HG:
 status:
-order:
-parent:
-image: 
+image:
 tags:
-- Quelle/5e/Monster_Manual
-- Habitat/Wald
-- Habitat/Hügel
-- Habitat/Sumpf
-- Habitat/Stadt
-- Größe/Mittelgroß
-- Typ/Tier
-aliases: ["Swarm of Ravens"]
+  - Quelle/5e/Monster_Manual
+  - Habitat/Wald
+  - Habitat/Hügel
+  - Habitat/Sumpf
+  - Habitat/Stadt
+  - Größe/Mittelgroß
+  - Typ/Tier
+aliases:
+  - Swarm of Ravens
 ---
 # Swarm of Ravens
 *Source: SRD / Basic Rules*  

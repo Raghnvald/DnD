@@ -1,15 +1,15 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Barde
-- Klasse/Kleriker
-- Klasse/Zauberer
-- Klasse/Magier
-- Zauber/Grad/3
-- Zauber/Schule/Erkenntnis
-aliases: ["Clairvoyance"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Barde
+  - Klasse/Kleriker
+  - Klasse/Zauberer
+  - Klasse/Magier
+  - Zauber/Grad/3
+  - Zauber/Schule/Erkenntnis
+aliases:
+  - Clairvoyance
 ---
 # Hellsehen
 ![](../../../99%20-%20Setup/Files/Bildersammlung/Symbolik/Erkenntniszauber.webp#token)

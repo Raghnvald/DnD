@@ -1,12 +1,12 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- Quelle/5e/Monster_Manual
-- Habitat/Sumpf
-- Größe/Riesig
-- Typ/Drache
-aliases: ["Adult Black Dragon"]
+  - Größe/Riesig
+  - Habitat/Sumpf
+  - Quelle/5e/Monster_Manual
+  - Typ/Drache
+aliases:
+  - Adult Black Dragon
 ---
 # Adult Black Dragon
 *Source: SRD / Basic Rules*  
@@ -91,7 +91,7 @@ aliases: ["Adult Black Dragon"]
 > 
 > - **Ennui.** Creatures that spend a year within 10 miles of the dragon's lair are filled with listless despair.  
 > - **Grating Spies.** Trilling, obnoxious birds, bugs, and reptiles follow any Humanoid creatures unknown to the dragon within 6 miles of the lair, imposing disadvantage on Dexterity ([Stealth](rules/skills.md#Stealth)) checks. The dragon can suppress this effect at will.  
-> - **Rotting Domain.** Stinging bugs are aggressive and the air is heavy with the odor of rot within 6 miles of the lair.  
+> - **Rotting Domain.** Stinging bugs are aggressive and the air is heavy with the odor of rot within 6 miles of the lair.  
 ^statblock
 
 ## Environment

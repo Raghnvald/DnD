@@ -1,10 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- Quelle/5e/Players_Handbook
-- Kompendium/Optionales/Anrufungen
-aliases: ["Gaze of Two Minds"]
+  - Quelle/5e/Players_Handbook
+  - Kompendium/Optionales/Anrufungen
+aliases:
+  - Gaze of Two Minds
 ---
 # Gedankenblick
 *Quelle: SRD / Grundregelwerk / Spielerhandbuch*  

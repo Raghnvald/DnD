@@ -1,10 +1,12 @@
 ---
 tags:
-- Quelle/5e/Monster_Manual
-- Habitat/Stadt
-- Größe/Mittelgroß
-- Typ/Humanoid/jede-rasse
-aliases: ["Adeliger"]
+  - Größe/Mittelgroß
+  - Habitat/Stadt
+  - Quelle/5e/Monster_Manual
+  - Typ/Humanoid/jede-rasse
+aliases:
+  - Adeliger
+Typ: Humanoid
 ---
 ```statblock
 statblock: true

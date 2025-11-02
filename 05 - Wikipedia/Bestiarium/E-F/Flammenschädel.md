@@ -5,17 +5,12 @@ Bezeichnung:
 Typ: Untoter
 Größe: Winzig
 HG: 4
+Habitat:
+  - Unterreich
 status: WIP
-order:
-parent:
 image:
-tags:
-  - Quelle/5e/Monster_Manual
-  - Typ/Untote
-  - Größe/Winzig
-  - Habitat/Unterreich
-aliases:
-  - Flameskull
+tags: [Quelle/5e/Monster_Manual]
+aliases: [Flameskull]
 ---
 # Flammenschädel (2014)
 

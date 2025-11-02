@@ -1,12 +1,12 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- Quelle/5e/Monster_Manual
-- Habitat/Wüste
-- Größe/Mittelgroß
-- Typ/Monstrosität
-aliases: ["Medusa"]
+  - Quelle/5e/Monster_Manual
+  - Habitat/Wüste
+  - Größe/Mittelgroß
+  - Typ/Monstrosität
+aliases:
+  - Medusa
 ---
 # Medusa
 *Source: SRD / Basic Rules*  

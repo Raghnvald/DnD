@@ -1,12 +1,12 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- Quelle/5e/Monster_Manual
-- Habitat/Unterreich
-- Größe/Mittelgroß
-- Typ/Pflanze
-aliases: ["Shrieker"]
+  - Quelle/5e/Monster_Manual
+  - Habitat/Unterreich
+  - Größe/Mittelgroß
+  - Typ/Pflanze
+aliases:
+  - Shrieker
 ---
 # Shrieker
 *Source: SRD / Basic Rules*  

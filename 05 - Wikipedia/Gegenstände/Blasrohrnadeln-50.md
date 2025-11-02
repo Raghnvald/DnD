@@ -1,13 +1,12 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- Quelle/5e/Players_Handbook
-- Gegenstand/Ausrüstung
-- Gegenstand/Seltenheit/gewöhnlich
-- Gegenstand/Eigenschaft/Munition
+  - Quelle/5e/Players_Handbook
+  - Gegenstand/Ausrüstung
+  - Gegenstand/Seltenheit/gewöhnlich
+  - Gegenstand/Eigenschaft/Munition
 aliases:
-- Blowgun Needles (50)
+  - Blowgun Needles (50)
 Bezeichnung: Blasrohrnadel (50)
 Typ: Munition
 Eigenschaften: Munition

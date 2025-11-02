@@ -1,15 +1,15 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Druide
-- Klasse/Waldläufer
-- Klasse/Zauberer
-- Klasse/Magier
-- Zauber/Grad/4
-- Zauber/Schule/Bann
-aliases: ["Stoneskin"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Druide
+  - Klasse/Waldläufer
+  - Klasse/Zauberer
+  - Klasse/Magier
+  - Zauber/Grad/4
+  - Zauber/Schule/Bann
+aliases:
+  - Stoneskin
 ---
 # Stoneskin
 *4th-level, Abjuration*  

@@ -1,14 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Kleriker
-- Klasse/Druide
-- Klasse/Zauberer
-- Zauber/Grad/5
-- Zauber/Schule/Beschwörung
-aliases: ["Insect Plague"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Kleriker
+  - Klasse/Druide
+  - Klasse/Zauberer
+  - Zauber/Grad/5
+  - Zauber/Schule/Beschwörung
+aliases:
+  - Insect Plague
 ---
 # Insect Plague
 *5th-level, Conjuration*  

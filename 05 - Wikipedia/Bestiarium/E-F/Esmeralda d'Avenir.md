@@ -1,10 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-monster
+Typ: Humanoid
 tags:
-  - Quelle/5e/Curse_of_Strahd
   - Größe/Mittelgroß
+  - Quelle/5e/cos
   - Typ/Humanoid
 aliases:
   - Esmeralda d'Avenir

@@ -5,16 +5,11 @@ Bezeichnung:
 Typ: Untoter
 Größe: Mittelgroß
 HG: 5
-status: WIP
-order:
-parent:
-image:
-tags:
-  - Quelle/5e/Mordenkainen_Presents_Monsters_of_the_Multiverse
-  - Typ/Untote
-aliases:
-  - Allip
 Habitat:
   - Stadt
   - Sumpf
+status: WIP
+image:
+tags: [Quelle/5e/mpmm]
+aliases: [Allip]
 ---

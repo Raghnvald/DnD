@@ -1,17 +1,17 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Barde
-- Klasse/Kleriker
-- Klasse/Druide
-- Klasse/Paladin
-- Klasse/Waldläufer
-- Klasse/Magier
-- Zauber/Grad/4
-- Zauber/Schule/Erkenntnis
-aliases: ["Locate Creature"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Barde
+  - Klasse/Kleriker
+  - Klasse/Druide
+  - Klasse/Paladin
+  - Klasse/Waldläufer
+  - Klasse/Magier
+  - Zauber/Grad/4
+  - Zauber/Schule/Erkenntnis
+aliases:
+  - Locate Creature
 ---
 # Locate Creature
 *4th-level, Divination*  

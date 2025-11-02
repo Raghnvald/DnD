@@ -1,9 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- Quelle/5e/Dungeon_Masters_Guide
-aliases: ["Final Challenge Rating; Experience Points by Challenge Rating"]
+  - Quelle/5e/Dungeon_Masters_Guide
+aliases:
+  - Final Challenge Rating; Experience Points by Challenge Rating
 ---
 # Herausforderungsgrad; Erfahrungspunkte nach Herausforderungsgrad
 *Quelle: SRD / Grundregelwerk*

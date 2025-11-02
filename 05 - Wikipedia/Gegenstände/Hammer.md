@@ -1,16 +1,19 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- Quelle/5e/Players_Handbook
-- Gegenstand/Ausrüstung
-aliases: ["Hammer"]
+- Quelle/5e/phb
+- ttrpg-cli/item/gear/
+- ttrpg-cli/item/rarity/none
+aliases: 
+- "Hammer"
 ---
 # Hammer
-![](../../../99%20-%20Setup/Files/Bildersammlung/Symbolik/Gegenstände.webp#token)
-*Abenteuerausrüstung, gewöhnlich*
+*Adventuring gear*  
 
-- **Kosten**: 1 Goldmünze
-- **Gewicht**: 1,5 kg.
 
-*Quelle: SRD / Grundregelwerk*
+- **Cost**: 1 gp
+- **Weight**: 3.0 lbs.
+
+*Source: Player's Handbook p. 150. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

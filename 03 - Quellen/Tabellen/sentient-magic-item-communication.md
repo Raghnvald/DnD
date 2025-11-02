@@ -1,9 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- Quelle/5e/Dungeon_Masters_Guide
-aliases: ["Sentient Magic Item Communication"]
+  - Quelle/5e/Dungeon_Masters_Guide
+aliases:
+  - Sentient Magic Item Communication
 ---
 # Sentient Magic Item Communication
 *Source: SRD / Basic Rules* 

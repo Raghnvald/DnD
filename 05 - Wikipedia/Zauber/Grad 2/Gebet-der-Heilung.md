@@ -1,12 +1,12 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Kleriker
-- Zauber/Grad/2
-- Zauber/Schule/Hervorrufung
-aliases: ["Prayer of Healing"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Kleriker
+  - Zauber/Grad/2
+  - Zauber/Schule/Hervorrufung
+aliases:
+  - Prayer of Healing
 ---
 # Prayer of Healing
 *2nd-level, Evocation*  

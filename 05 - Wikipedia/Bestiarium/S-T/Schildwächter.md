@@ -1,12 +1,12 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- Quelle/5e/Monster_Manual
-- Habitat/Stadt
-- Größe/Groß
-- Typ/Konstrukt
-aliases: ["Shield Guardian"]
+  - Quelle/5e/Monster_Manual
+  - Habitat/Stadt
+  - Größe/Groß
+  - Typ/Konstrukt
+aliases:
+  - Shield Guardian
 ---
 # Shield Guardian
 *Source: SRD / Basic Rules*  

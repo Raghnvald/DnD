@@ -1,12 +1,12 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- Quelle/5e/Dungeon_Masters_Guide
-- Gegenstand/wundersam
-- Gegenstand/Seltenheit/selten
-- Gegenstand/Einstimmung/erforderlich
-aliases: ["Boots of Striding and Springing"]
+  - Quelle/5e/Dungeon_Masters_Guide
+  - Gegenstand/wundersam
+  - Gegenstand/Seltenheit/selten
+  - Gegenstand/Einstimmung/erforderlich
+aliases:
+  - Boots of Striding and Springing
 ---
 # Stiefel des Schreitens und Springens
 *Wundersamer Gegenstand, ungewöhnlich (erfordert Einstimmung)*  

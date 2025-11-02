@@ -1,21 +1,20 @@
 ---
 cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
-Bezeichnung: 
+Bezeichnung:
 Typ: Bestie
-Größe: 
-HG: 
+Größe:
+HG:
 status:
-order:
-parent:
-image: 
+image:
 tags:
-- Quelle/5e/Monster_Manual
-- Habitat/Arktis
-- Habitat/Berg
-- Größe/Groß
-- Typ/Tier
-aliases: ["Saber-Toothed Tiger"]
+  - Quelle/5e/Monster_Manual
+  - Habitat/Arktis
+  - Habitat/Berg
+  - Größe/Groß
+  - Typ/Tier
+aliases:
+  - Saber-Toothed Tiger
 ---
 # Saber-Toothed Tiger
 *Source: SRD / Basic Rules*  

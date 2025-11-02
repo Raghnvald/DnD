@@ -1,12 +1,12 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Magier
-- Zauber/Grad/2
-- Zauber/Schule/Illusion
-aliases: ["Nystul's Magic Aura"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Magier
+  - Zauber/Grad/2
+  - Zauber/Schule/Illusion
+aliases:
+  - Nystul's Magic Aura
 ---
 # Nystul's Magische Aura des Arkanisten
 *2nd-level, Illusion*  

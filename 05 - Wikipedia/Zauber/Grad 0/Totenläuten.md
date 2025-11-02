@@ -7,7 +7,7 @@ Wirkungsdauer: Unmittelbar
 Angriff: WEI
 Schaden: 1d8 nekrotisch
 tags:
-- Quelle/5e/Xanathars_Guide_to_Everything
+- Quelle/5e/xge
 - Klasse/Hexenmeister
 - Klasse/Kleriker
 - Klasse/Magier

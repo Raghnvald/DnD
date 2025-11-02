@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: dnd5e-compendium
 tags:
-- Quelle/5e/Players_Handbook
-- Gegenstand/Ausrüstung/Instrument
-aliases: 
-- Lute
+  - Quelle/5e/Players_Handbook
+  - Gegenstand/Ausrüstung/Instrument
+aliases:
+  - Lute
 Bezeichnung: Laute
 Typ: Instrument
 Eigenschaften: n/v

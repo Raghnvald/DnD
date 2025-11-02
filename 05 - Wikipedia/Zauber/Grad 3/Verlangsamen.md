@@ -1,13 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Zauberer
-- Klasse/Magier
-- Zauber/Grad/3
-- Zauber/Schule/Verwandlung
-aliases: ["Slow"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Zauberer
+  - Klasse/Magier
+  - Zauber/Grad/3
+  - Zauber/Schule/Verwandlung
+aliases:
+  - Slow
 ---
 # Slow
 *3rd-level, Transmutation*  

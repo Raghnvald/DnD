@@ -1,22 +1,20 @@
 ---
 cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
-Bezeichnung: 
+Bezeichnung:
 Typ: Bestie
-Größe: 
-HG: 
+Größe:
+HG:
 status:
-order:
-parent:
-image: 
+image:
 tags:
-- Quelle/5e/Monster_Manual
-- Habitat/Wald
-- Habitat/Hügel
-- Größe/Klein
-- Typ/Tier
+  - Quelle/5e/Monster_Manual
+  - Habitat/Wald
+  - Habitat/Hügel
+  - Größe/Klein
+  - Typ/Tier
 aliases:
-- Baboon
+  - Baboon
 ---
 # Baboon
 *Source: SRD / Basic Rules*  

@@ -1,21 +1,20 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- Quelle/5e/Dungeon_Masters_Guide
-- Gegenstand/Einstimmung/erforderlich
-- Gegenstand/Seltenheit/selten
-- Gegenstand/Tier/major
-- Gegenstand/wundersam
-aliases: ["Mantle of Spell Resistance"]
+- Quelle/5e/dmg
+- ttrpg-cli/item/attunement/required
+- ttrpg-cli/item/rarity/rare
+- ttrpg-cli/item/tier/major
+aliases: 
+- "Mantle of Spell Resistance"
 ---
 # Mantle of Spell Resistance
-*Wondrous Item, major, rare (requires attunement)*  
+*Wondrous item, major, rare (requires attunement)*  
+![](/3-Mechanics/CLI/items/img/mantle-of-spell-resistance.webp#right)
 
-- **Properties**: Requires Attunement
-- **Cost**: ⏤
-- **Weight**: ⏤
 
 You have advantage on saving throws against spells while you wear this cloak.
 
-*Source: SRD / Basic Rules*
+*Source: Dungeon Master's Guide p. 180. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

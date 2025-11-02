@@ -5,18 +5,12 @@ Bezeichnung: Lich
 Typ: Untoter
 Größe: Mittelgroß
 HG: 21
+Habitat:
+  - Planar (Untere Ebenen)
 status: WIP
-order:
-parent:
 image: pictures/lich-2024.webp
-tags:
-  - Quelle/5e/MM 2014
-  - Quelle/5e/MM 2024
-  - Habitat/Planar/Untere Ebenen
-  - Größe/Mittelgroß
-  - Typ/Untote
-aliases:
-  - Lich
+tags: [Quelle/5e/Monster_Manual]
+aliases: [Lich]
 ---
 # Lich (2014)
 

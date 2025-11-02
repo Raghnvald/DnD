@@ -7,7 +7,7 @@ Wirkungsdauer: Konzentration, bis zu 1 Minute
 Angriff: INT
 Schaden: Kontrolle
 tags:
-- Quelle/5e/Xanathars_Guide_to_Everything
+- Quelle/5e/xge
 - Klasse/Barde
 - Klasse/Hexenmeister
 - Klasse/Magier

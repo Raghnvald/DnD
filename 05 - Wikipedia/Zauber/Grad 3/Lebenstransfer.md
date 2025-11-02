@@ -7,7 +7,7 @@ Wirkungsdauer:
 Angriff: n/v
 Schaden: 4d8 Nekrotisch
 tags:
-- Quelle/5e/Xanathars_Guide_to_Everything
+- Quelle/5e/xge
 - Klasse/Kleriker
 - Klasse/Magier
 - Zauber/Original/Life_Transference

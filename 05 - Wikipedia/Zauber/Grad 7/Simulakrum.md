@@ -1,12 +1,12 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Magier
-- Zauber/Grad/7
-- Zauber/Schule/Illusion
-aliases: ["Simulacrum"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Magier
+  - Zauber/Grad/7
+  - Zauber/Schule/Illusion
+aliases:
+  - Simulacrum
 ---
 # Simulacrum
 *7th-level, Illusion*  

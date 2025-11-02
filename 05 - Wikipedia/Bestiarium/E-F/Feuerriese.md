@@ -6,17 +6,15 @@ Typ: Riese
 Größe: Riesig
 HG: 9
 status:
-order:
-parent:
-image: 
+image:
 tags:
-- Quelle/5e/Monster_Manual
-- Typ/Riese
-- Größe/Riesig
-- Habitat/Berg
-- Habitat/Unterreich
+  - Größe/Riesig
+  - Habitat/Berg
+  - Habitat/Unterreich
+  - Quelle/5e/Monster_Manual
+  - Typ/Riese
 aliases:
-- Fire Giant
+  - Fire Giant
 ---
 # Feuerriese
 *Source: SRD / Basic Rules*  

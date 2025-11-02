@@ -10,7 +10,6 @@ tags:
   - Zauber/Schule/Illusion
 aliases:
   - Silent Image
-obsidianUIMode: preview
 ---
 # Silent Image
 *1st-level, Illusion*  

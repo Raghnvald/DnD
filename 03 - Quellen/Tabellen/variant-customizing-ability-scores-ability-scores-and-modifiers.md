@@ -1,9 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- Quelle/5e/Players_Handbook
-aliases: ["Variant: Customizing Ability Scores; Ability Scores and Modifiers"]
+  - Quelle/5e/Players_Handbook
+aliases:
+  - "Variant: Customizing Ability Scores; Ability Scores and Modifiers"
 ---
 # Variant: Customizing Ability Scores; Ability Scores and Modifiers
 *Source: SRD / Basic Rules* 

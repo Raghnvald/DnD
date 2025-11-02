@@ -1,14 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Barde
-- Klasse/Druide
-- Klasse/Waldläufer
-- Zauber/Grad/3
-- Zauber/Schule/Verwandlung
-aliases: ["Speak with Plants"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Barde
+  - Klasse/Druide
+  - Klasse/Waldläufer
+  - Zauber/Grad/3
+  - Zauber/Schule/Verwandlung
+aliases:
+  - Speak with Plants
 ---
 # Speak with Plants
 *3rd-level, Transmutation*  

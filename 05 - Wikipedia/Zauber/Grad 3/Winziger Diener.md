@@ -7,7 +7,7 @@ Wirkungsdauer: 8 Stunden
 Angriff: 
 Schaden: Utility
 tags:
-- Quelle/5e/Xanathars_Guide_to_Everything
+- Quelle/5e/xge
 - Klasse/Magier
 - Klasse/Magieschmied
 - Zauber/Original/Tiny_Servant

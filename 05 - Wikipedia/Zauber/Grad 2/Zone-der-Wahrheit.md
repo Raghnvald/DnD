@@ -1,14 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Barde
-- Klasse/Kleriker
-- Klasse/Paladin
-- Zauber/Grad/2
-- Zauber/Schule/Verzauberung
-aliases: ["Zone of Truth"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Barde
+  - Klasse/Kleriker
+  - Klasse/Paladin
+  - Zauber/Grad/2
+  - Zauber/Schule/Verzauberung
+aliases:
+  - Zone of Truth
 ---
 # Zone of Truth
 *2nd-level, Enchantment*  

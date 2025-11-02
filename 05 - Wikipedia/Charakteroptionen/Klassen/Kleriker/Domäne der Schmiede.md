@@ -3,11 +3,12 @@ prefer-view:
   - edit-source read
 status:
   - completed
-order:
-parent:
-  - Kleriker
-tags: [Götter/Domäne/Wissen, Klasse/Kleriker, Quelle/5e/Xanathars_Guide_to_Everything]
-aliases: [Forge Domain]
+tags:
+  - Götter/Domäne/Wissen
+  - Klasse/Kleriker
+  - Quelle/5e/xge
+aliases:
+  - Forge Domain
 link:
   - https://www.dndbeyond.com/classes/2190877-cleric
 type:

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: dnd5e-compendium
 tags:
   - Quelle/5e/Dungeon_Masters_Guide

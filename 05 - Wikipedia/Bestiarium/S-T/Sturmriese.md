@@ -6,17 +6,15 @@ Typ: Riese
 Größe: Riesig
 HG: 13
 status:
-order:
-parent:
-image: 
+image:
 tags:
-- Quelle/5e/Monster_Manual
-- Typ/Riese
-- Größe/Riesig
-- Habitat/Küste
-- Habitat/Unterwasser
+  - Quelle/5e/Monster_Manual
+  - Typ/Riese
+  - Größe/Riesig
+  - Habitat/Küste
+  - Habitat/Unterwasser
 aliases:
-- Storm Giant
+  - Storm Giant
 ---
 # Sturmriese
 *Source: SRD / Basic Rules*  

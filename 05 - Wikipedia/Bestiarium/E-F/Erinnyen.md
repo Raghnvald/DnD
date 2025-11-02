@@ -1,21 +1,20 @@
 ---
-cssclasses: 
-- json5e-monster
-prefer-view: 
-- edit-source read
-type: 
-- creature
-tags: 
-- Quelle/5e/Monster_Manual
-- Typ/Unhold/Teufel
-- Größe/Mittelgroß
-- Habitat/Planar/Neun-Höllen
-aliases: 
-- Erinyes
-link:
+cssclasses:
+  - json5e-monster
+prefer-view:
+  - edit-source read
 status:
-order:
-parent:
+tags:
+  - Größe/Mittelgroß
+  - Habitat/Planar/Neun-Höllen
+  - Quelle/5e/Monster_Manual
+  - Typ/Unhold/Teufel
+aliases:
+  - Erinyes
+link:
+type:
+  - creature
+Typ: Unhold
 ---
 # Erinyes
 *Source: SRD / Basic Rules*  

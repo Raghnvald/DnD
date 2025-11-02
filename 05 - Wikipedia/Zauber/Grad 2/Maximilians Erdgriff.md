@@ -7,7 +7,7 @@ Wirkungsdauer: K, <1 Minute
 Angriff: STR
 Schaden: 2d6 Wucht
 tags: 
-- Quelle/5e/Xanathars_Guide_to_Everything
+- Quelle/5e/xge
 - Klasse/Magier
 - Klasse/Zauberer
 - Zauber/Original/Maximilians_Earthen_Grasp

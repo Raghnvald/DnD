@@ -6,11 +6,9 @@ Typ: Untoter
 Größe: Mittelgroß
 HG: 1
 status: WIP
-order:
-parent:
 image:
 tags:
-  - Quelle/5e/Van_Richtens_Guide_to_Ravenloft
+  - Quelle/5e/vrgr
   - Typ/Untote
 aliases:
   - 

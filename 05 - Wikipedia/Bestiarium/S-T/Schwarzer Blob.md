@@ -1,11 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-monster
-tags:
-- Quelle/5e/Monster_Manual
-- Habitat/Unterreich
-- Größe/Groß
-- Typ/Schleim
+cssclasses: dnd5e-only-statblock
+prefer-view: edit-source read
+Bezeichnung: Schwarzer Blob
+Typ: Schleim
+Größe: Groß
+HG: 4
+Habitat:
+  - Unterreich
+status: WIP
+image:
+tags: [Quelle/5e/Monster_Manual]
 aliases: ["Black Pudding"]
 ---
 # Black Pudding
@@ -46,7 +50,8 @@ aliases: ["Black Pudding"]
 > 
 > ## Reactions
 > 
-> ***Split.*** When a pudding that is Medium or larger is subjected to lightning or slashing damage, it splits into two new puddings if it has at least 10 hit points. Each new pudding has hit points equal to half the original pudding's, rounded down. New puddings are one size smaller than the original pudding.
+> ***Split.*** When a pudding that is Medium or larger is subjected to lightning or slashing damage, it splits into two new puddings if it has at least 10 hit points. Each new pudding has hit points equal to half the original pudding's, rounded down. New puddings are one size smaller than the original pudding.
+
 ^statblock
 
 ## Environment

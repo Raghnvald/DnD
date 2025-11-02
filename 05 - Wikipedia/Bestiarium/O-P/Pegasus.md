@@ -1,14 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- Quelle/5e/Monster_Manual
-- Habitat/Wald
-- Habitat/Grasland
-- Habitat/Hügel
-- Größe/Groß
-- Typ/Himmlische
-aliases: ["Pegasus"]
+  - Quelle/5e/Monster_Manual
+  - Habitat/Wald
+  - Habitat/Grasland
+  - Habitat/Hügel
+  - Größe/Groß
+  - Typ/Himmlische
+aliases:
+  - Pegasus
 ---
 # Pegasus
 *Source: SRD / Basic Rules*  

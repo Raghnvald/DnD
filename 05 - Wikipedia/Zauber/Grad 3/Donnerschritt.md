@@ -7,7 +7,7 @@ Wirkungsdauer: Unmittelbar
 Angriff: KON
 Schaden: 3d10 Schall
 tags:
-- Quelle/5e/Xanathars_Guide_to_Everything
+- Quelle/5e/xge
 - Klasse/Hexenmeister
 - Klasse/Magier
 - Klasse/Zauberer

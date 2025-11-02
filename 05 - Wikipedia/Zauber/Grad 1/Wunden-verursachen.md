@@ -1,12 +1,12 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Kleriker
-- Zauber/Grad/1
-- Zauber/Schule/Nekromantie
-aliases: ["Inflict Wounds"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Kleriker
+  - Zauber/Grad/1
+  - Zauber/Schule/Nekromantie
+aliases:
+  - Inflict Wounds
 ---
 # Inflict Wounds
 *1st-level, Necromancy*  

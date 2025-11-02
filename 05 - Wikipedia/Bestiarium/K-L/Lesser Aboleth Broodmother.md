@@ -1,17 +1,15 @@
 ---
 cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
-Bezeichnung: 
+Bezeichnung:
 Typ: Aberration
-Größe: 
-HG: 
+Größe:
+HG:
 status:
-order:
-parent:
-image: 
+image:
 tags:
-- Quelle/5e/Helianas_Guide_To_Monster_Hunting_1
-- Typ/Aberration
+  - Quelle/5e/Helianas_Guide_To_Monster_Hunting_1
+  - Typ/Aberration
 aliases:
-- 
+  - 
 ---

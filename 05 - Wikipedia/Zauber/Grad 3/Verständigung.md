@@ -1,14 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Barde
-- Klasse/Kleriker
-- Klasse/Magier
-- Zauber/Grad/3
-- Zauber/Schule/Hervorrufung
-aliases: ["Sending"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Barde
+  - Klasse/Kleriker
+  - Klasse/Magier
+  - Zauber/Grad/3
+  - Zauber/Schule/Hervorrufung
+aliases:
+  - Sending
 ---
 # Sending
 *3rd-level, Evocation*  

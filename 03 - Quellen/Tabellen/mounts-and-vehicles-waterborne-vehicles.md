@@ -1,9 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- Quelle/5e/Players_Handbook
-aliases: ["Mounts and Vehicles; Waterborne Vehicles"]
+  - Quelle/5e/Players_Handbook
+aliases:
+  - Mounts and Vehicles; Waterborne Vehicles
 ---
 # Mounts and Vehicles; Waterborne Vehicles
 *Source: SRD / Basic Rules* 

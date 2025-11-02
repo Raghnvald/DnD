@@ -1,15 +1,15 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Druide
-- Klasse/Magier
-- Klasse/Waldläufer
-- Klasse/Zauberer
-- Zauber/Grad/2
-- Zauber/Schule/Verwandlung
-aliases: ["Darkvision"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Druide
+  - Klasse/Magier
+  - Klasse/Waldläufer
+  - Klasse/Zauberer
+  - Zauber/Grad/2
+  - Zauber/Schule/Verwandlung
+aliases:
+  - Darkvision
 ---
 # Dunkelsicht
 ![](../../../99%20-%20Setup/Files/Bildersammlung/Symbolik/Verwandlungszauber.webp#token)

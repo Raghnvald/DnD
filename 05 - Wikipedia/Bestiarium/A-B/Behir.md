@@ -1,12 +1,12 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- Quelle/5e/Monster_Manual
-- Habitat/Unterreich
-- Größe/Riesig
-- Typ/Monstrosität
-aliases: ["Behir"]
+  - Größe/Riesig
+  - Habitat/Unterreich
+  - Quelle/5e/Monster_Manual
+  - Typ/Monstrosität
+aliases:
+  - Behir
 ---
 # Behir
 *Source: SRD / Basic Rules*  

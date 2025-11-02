@@ -1,13 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- Quelle/5e/Monster_Manual
-- Habitat/Hügel
-- Habitat/Berg
-- Größe/Groß
-- Typ/Drache
-aliases: ["Wyvern"]
+  - Quelle/5e/Monster_Manual
+  - Habitat/Hügel
+  - Habitat/Berg
+  - Größe/Groß
+  - Typ/Drache
+aliases:
+  - Wyvern
 ---
 # Wyvern
 *Source: SRD / Basic Rules*  

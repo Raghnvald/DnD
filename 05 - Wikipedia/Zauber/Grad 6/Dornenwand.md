@@ -1,12 +1,12 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Druide
-- Zauber/Grad/6
-- Zauber/Schule/Beschwörung
-aliases: ["Wall of Thorns"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Druide
+  - Zauber/Grad/6
+  - Zauber/Schule/Beschwörung
+aliases:
+  - Wall of Thorns
 ---
 # Dornenwand
 ![](../../../99%20-%20Setup/Files/Bildersammlung/Symbolik/Beschwörungszauber.webp#token)

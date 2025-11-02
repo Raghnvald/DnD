@@ -7,7 +7,7 @@ Wirkungsdauer: K, <1 Stunde
 Angriff: n/v
 Schaden: Kommunikation
 tags:
-- Quelle/5e/Xanathars_Guide_to_Everything
+- Quelle/5e/xge
 - Klasse/Barde
 - Klasse/Druide
 - Klasse/Magier

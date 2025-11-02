@@ -1,12 +1,12 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Kleriker
-- Zauber/Grad/3
-- Zauber/Schule/Hervorrufung
-aliases: ["Mass Healing Word"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Kleriker
+  - Zauber/Grad/3
+  - Zauber/Schule/Hervorrufung
+aliases:
+  - Mass Healing Word
 ---
 # Massen-Heilendes Wort
 *3rd-level, Evocation*  

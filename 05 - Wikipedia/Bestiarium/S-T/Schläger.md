@@ -1,12 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- Quelle/5e/Monster_Manual
-- Habitat/Stadt
-- Größe/Mittelgroß
-- Typ/Humanoid/jede-rasse
-aliases: ["Thug"]
+  - Quelle/5e/Monster_Manual
+  - Habitat/Stadt
+  - Größe/Mittelgroß
+  - Typ/Humanoid/jede-rasse
+aliases:
+  - Thug
+Typ: Humanoid
 ---
 # Thug
 *Source: SRD / Basic Rules*  

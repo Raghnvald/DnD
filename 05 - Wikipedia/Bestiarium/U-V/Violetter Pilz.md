@@ -1,12 +1,12 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- Quelle/5e/Monster_Manual
-- Habitat/Unterreich
-- Größe/Mittelgroß
-- Typ/Pflanze
-aliases: ["Violet Fungus"]
+  - Quelle/5e/Monster_Manual
+  - Habitat/Unterreich
+  - Größe/Mittelgroß
+  - Typ/Pflanze
+aliases:
+  - Violet Fungus
 ---
 # Violet Fungus
 *Source: SRD / Basic Rules*  

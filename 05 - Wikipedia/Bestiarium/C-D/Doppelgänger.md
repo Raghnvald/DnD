@@ -1,13 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- Quelle/5e/Monster_Manual
-- Habitat/Unterreich
-- Habitat/Stadt
-- Größe/Mittelgroß
-- Typ/Monstrosität/Gestaltwandler
-aliases: ["Doppelganger"]
+  - Größe/Mittelgroß
+  - Habitat/Stadt
+  - Habitat/Unterreich
+  - Quelle/5e/Monster_Manual
+  - Typ/Monstrosität/Gestaltwandler
+aliases:
+  - Doppelganger
 ---
 # Doppelganger
 *Source: SRD / Basic Rules*  
@@ -46,7 +46,7 @@ aliases: ["Doppelganger"]
 > 
 > ***Slam.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 7 (`1d6 + 4`) bludgeoning damage.
 > 
-> ***Read Thoughts.*** The doppelganger magically reads the surface thoughts of one creature within 60 feet of it. The effect can penetrate barriers, but 3 feet of wood or dirt, 2 feet of stone, 2 inches of metal, or a thin sheet of lead blocks it. While the target is in range, the doppelganger can continue reading its thoughts, as long as the doppelganger's [concentration](rules/conditions.md#concentration) isn't broken (as if concentrating on a spell). While reading the target's mind, the doppelganger has advantage on Wisdom ([Insight](rules/skills.md#Insight)) and Charisma ([Deception](rules/skills.md#Deception), [Intimidation](rules/skills.md#Intimidation), and [Persuasion](rules/skills.md#Persuasion)) checks against the target.
+> ***Read Thoughts.*** The doppelganger magically reads the surface thoughts of one creature within 60 feet of it. The effect can penetrate barriers, but 3 feet of wood or dirt, 2 feet of stone, 2 inches of metal, or a thin sheet of lead blocks it. While the target is in range, the doppelganger can continue reading its thoughts, as long as the doppelganger's [concentration](rules/conditions.md#concentration) isn't broken (as if concentrating on a spell). While reading the target's mind, the doppelganger has advantage on Wisdom ([Insight](rules/skills.md#Insight)) and Charisma ([Deception](rules/skills.md#Deception), [Intimidation](rules/skills.md#Intimidation), and [Persuasion](rules/skills.md#Persuasion)) checks against the target.
 ^statblock
 
 ## Environment

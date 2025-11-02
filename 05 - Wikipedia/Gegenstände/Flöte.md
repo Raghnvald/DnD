@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
   - Quelle/5e/Players_Handbook
@@ -8,7 +7,7 @@ aliases:
   - Flute
 Bezeichnung: Flöte
 Typ: Instrument
-Eigenschaften: n/v 
+Eigenschaften: n/v
 Kst.: 2 GM
 Gew.: 0,5 kg
 Aktiv: false

@@ -1,5 +1,5 @@
 ---
-tags: [Klasse/Paladin, Quelle/5e/Sword_Coast_Adventurers_Guide]
+tags: [Klasse/Paladin, Quelle/5e/scag]
 aliases: [Oath of the Crown]
 ---
 # Schwur der Krone

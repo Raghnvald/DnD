@@ -1,22 +1,21 @@
 ---
 cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
-Bezeichnung: 
+Bezeichnung:
 Typ: Bestie
-Größe: 
-HG: 
+Größe:
+HG:
 status:
-order:
-parent:
-image: 
+image:
 tags:
-- Quelle/5e/Monster_Manual
-- Habitat/Wüste
-- Habitat/Hügel
-- Habitat/Stadt
-- Größe/Mittelgroß
-- Typ/Tier
-aliases: ["Mule"]
+  - Quelle/5e/Monster_Manual
+  - Habitat/Wüste
+  - Habitat/Hügel
+  - Habitat/Stadt
+  - Größe/Mittelgroß
+  - Typ/Tier
+aliases:
+  - Mule
 ---
 # Mule
 *Source: SRD / Basic Rules*  

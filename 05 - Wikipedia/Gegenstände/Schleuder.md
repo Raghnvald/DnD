@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-item
 Bezeichnung: Schleuder
 Typ: Einfache Fernkampfwaffe

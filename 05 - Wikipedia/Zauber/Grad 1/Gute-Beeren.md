@@ -1,13 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Druide
-- Klasse/Waldläufer
-- Zauber/Grad/1
-- Zauber/Schule/Verwandlung
-aliases: ["Goodberry"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Druide
+  - Klasse/Waldläufer
+  - Zauber/Grad/1
+  - Zauber/Schule/Verwandlung
+aliases:
+  - Goodberry
 ---
 # Gute Beeren
 ![](../../../99%20-%20Setup/Files/Bildersammlung/Symbolik/Verwandlungszauber.webp#token)

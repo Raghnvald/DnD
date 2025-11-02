@@ -1,13 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Zauberer
-- Klasse/Magier
-- Zauber/Grad/9
-- Zauber/Schule/Verwandlung
-aliases: ["Time Stop"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Zauberer
+  - Klasse/Magier
+  - Zauber/Grad/9
+  - Zauber/Schule/Verwandlung
+aliases:
+  - Time Stop
 ---
 # Time Stop
 *9th-level, Transmutation*  

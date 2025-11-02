@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- Quelle/5e/Dungeon_Masters_Guide
-- Gegenstand/wundersam
-- Gegenstand/Seltenheit/legendär
+  - Quelle/5e/Dungeon_Masters_Guide
+  - Gegenstand/wundersam
+  - Gegenstand/Seltenheit/legendär
 aliases:
-- Well of Many Worlds
+  - Well of Many Worlds
 ---
 # Well of Many Worlds
 *Wondrous Item, major, legendary*  

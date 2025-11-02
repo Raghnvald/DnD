@@ -1,11 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- Quelle/5e/Dungeon_Masters_Guide
-- Gegenstand/wundersam
-- Gegenstand/Seltenheit/selten
-aliases: ["Bowl of Commanding Water Elementals"]
+  - Quelle/5e/Dungeon_Masters_Guide
+  - Gegenstand/wundersam
+  - Gegenstand/Seltenheit/selten
+aliases:
+  - Bowl of Commanding Water Elementals
 ---
 # Schale der Wasserelementar-Herrschaft
 *Wundersamer Gegenstand, selten*  

@@ -7,7 +7,7 @@ Wirkungsdauer: Konzentration, bis zu 10 Minuten
 Angriff: n/v
 Schaden: Blind
 tags:
-- Quelle/5e/Xanathars_Guide_to_Everything
+- Quelle/5e/xge
 - Klasse/Magier
 - Zauber/Original/Wall_of_Sand
 - Zauber/Grad/3

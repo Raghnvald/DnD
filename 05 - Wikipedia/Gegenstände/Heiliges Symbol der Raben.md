@@ -5,7 +5,7 @@ Eigenschaften: erfordert Einstimmung
 Gew.: n/v
 Kst.: n/v
 tags:
-- Quelle/5e/Curse_of_Strahd
+- Quelle/5e/cos
 - Gegenstand/wundersam
 - Gegenstand/Seltenheit/legendär
 - Gegenstand/Einstimmung

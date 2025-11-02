@@ -1,12 +1,12 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- Quelle/5e/Xanathars_Guide_to_Everything
-- Gegenstand/Seltenheit/gewöhnlich
-- Gegenstand/Tier/minor
-- Gegenstand/wundersam
-aliases: [""]
+  - Quelle/5e/xge
+  - Gegenstand/Seltenheit/gewöhnlich
+  - Gegenstand/Tier/minor
+  - Gegenstand/wundersam
+aliases:
+  - ""
 ---
 # Hewards handlicher Kräuterbeutel
 _Wundersamer Gegenstand, gewöhnlich_

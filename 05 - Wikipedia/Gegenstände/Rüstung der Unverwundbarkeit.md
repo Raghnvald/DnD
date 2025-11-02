@@ -1,13 +1,12 @@
 ---
-obsidianUIMode: preview
 cssclasses: dnd5e-compendium
 tags:
-- Quelle/5e/Dungeon_Masters_Guide
-- Gegenstand/Rüstung/Schwer
-- Gegenstand/Seltenheit/legendär
-- Gegenstand/Einstimmung/erforderlich
+  - Quelle/5e/Dungeon_Masters_Guide
+  - Gegenstand/Rüstung/Schwer
+  - Gegenstand/Seltenheit/legendär
+  - Gegenstand/Einstimmung/erforderlich
 aliases:
-- Armor of Invulnerability
+  - Armor of Invulnerability
 Bezeichnung: Rüstung der Unverwundbarkeit
 Typ: Rüstung
 Rüstung: Schwer

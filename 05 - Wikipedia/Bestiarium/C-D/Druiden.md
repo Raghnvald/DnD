@@ -1,21 +1,21 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-monster
+Typ: Humanoid
 tags:
-- Quelle/5e/Monster_Manual
-- Habitat/Arktis
-- Habitat/Küste
-- Habitat/Wüste
-- Habitat/Wald
-- Habitat/Grasland
-- Habitat/Hügel
-- Habitat/Berg
-- Habitat/Sumpf
-- Habitat/Unterreich
-- Größe/Mittelgroß
-- Typ/Humanoid/jede-rasse
+  - Größe/Mittelgroß
+  - Habitat/Arktis
+  - Habitat/Berg
+  - Habitat/Grasland
+  - Habitat/Hügel
+  - Habitat/Küste
+  - Habitat/Sumpf
+  - Habitat/Unterreich
+  - Habitat/Wald
+  - Habitat/Wüste
+  - Quelle/5e/Monster_Manual
+  - Typ/Humanoid/jede-rasse
 aliases:
-- Druid
+  - Druid
 ---
 # Druid
 *Source: SRD / Basic Rules*  

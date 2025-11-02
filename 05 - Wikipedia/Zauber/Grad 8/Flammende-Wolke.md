@@ -1,13 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Zauberer
-- Klasse/Magier
-- Zauber/Grad/8
-- Zauber/Schule/Beschwörung
-aliases: ["Incendiary Cloud"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Zauberer
+  - Klasse/Magier
+  - Zauber/Grad/8
+  - Zauber/Schule/Beschwörung
+aliases:
+  - Incendiary Cloud
 ---
 # Incendiary Cloud
 *8th-level, Conjuration*  

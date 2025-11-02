@@ -1,13 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Zauberer
-- Klasse/Magier
-- Zauber/Grad/5
-- Zauber/Schule/Illusion
-aliases: ["Creation"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Zauberer
+  - Klasse/Magier
+  - Zauber/Grad/5
+  - Zauber/Schule/Illusion
+aliases:
+  - Creation
 ---
 # Creation
 *5th-level, Illusion*  

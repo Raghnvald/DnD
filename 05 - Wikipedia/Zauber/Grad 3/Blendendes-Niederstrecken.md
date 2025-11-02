@@ -1,12 +1,12 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Paladin
-- Zauber/Grad/3
-- Zauber/Schule/Hervorrufung
-aliases: ["Blinding Smite"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Paladin
+  - Zauber/Grad/3
+  - Zauber/Schule/Hervorrufung
+aliases:
+  - Blinding Smite
 ---
 # Blendendes Niederstrecken - 2014
 ![](Hervorrufungszauber.webp#token)

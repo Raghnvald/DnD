@@ -1,9 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- Quelle/5e/Dungeon_Masters_Guide
-aliases: ["Object Armor Class"]
+  - Quelle/5e/Dungeon_Masters_Guide
+aliases:
+  - Object Armor Class
 ---
 # Rüstungsklasse eines Gegenstands
 *Quelle: SRD / Grundregelwerk*

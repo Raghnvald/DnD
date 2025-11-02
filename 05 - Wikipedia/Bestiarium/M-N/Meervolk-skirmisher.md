@@ -6,8 +6,6 @@ Typ: Elementar
 Größe:
 HG:
 status:
-order:
-parent:
 image:
 tags:
   - Quelle/5e/Monster_Manual

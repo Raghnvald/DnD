@@ -7,7 +7,7 @@ Wirkungsdauer: Unmittelbar
 Angriff: GES
 Schaden: 3d6 Kälte
 tags: 
-- Quelle/5e/Xanathars_Guide_to_Everything
+- Quelle/5e/xge
 - Klasse/Magier
 - Klasse/Zauberer
 - Zauber/Original/Snillocs_Snowball_Swarm

@@ -1,23 +1,21 @@
 ---
 cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
-Bezeichnung: 
+Bezeichnung:
 Typ: Bestie
-Größe: 
-HG: 
+Größe:
+HG:
 status:
-order:
-parent:
-image: 
+image:
 tags:
-- Quelle/5e/Monster_Manual
-- Habitat/Arktis
-- Habitat/Wald
-- Habitat/Hügel
-- Größe/Groß
-- Typ/Tier
+  - Größe/Groß
+  - Habitat/Arktis
+  - Habitat/Hügel
+  - Habitat/Wald
+  - Quelle/5e/Monster_Manual
+  - Typ/Tier
 aliases:
-- Brown Bear
+  - Brown Bear
 ---
 # Brown Bear
 *Source: SRD / Basic Rules*  

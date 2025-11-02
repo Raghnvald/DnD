@@ -1,21 +1,20 @@
 ---
-cssclasses: 
-- json5e-monster
-prefer-view: 
-- edit-source read
-type: 
-- creature
-tags: 
-- Quelle/5e/Monster_Manual
-- Typ/Unhold/Dämon
-- Größe/Klein
-- Habitat/Planar/Abyss
-aliases: 
-- Dretch
-link:
+cssclasses:
+  - json5e-monster
+prefer-view:
+  - edit-source read
 status:
-order:
-parent:
+tags:
+  - Größe/Klein
+  - Habitat/Planar/Abyss
+  - Quelle/5e/Monster_Manual
+  - Typ/Unhold/Dämon
+aliases:
+  - Dretch
+link:
+type:
+  - creature
+Typ: Unhold
 ---
 # Dretch
 *Source: SRD / Basic Rules*  

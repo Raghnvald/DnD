@@ -1,25 +1,23 @@
 ---
 cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
-Bezeichnung: 
+Bezeichnung:
 Typ: Bestie
-Größe: 
-HG: 
+Größe:
+HG:
 status:
-order:
-parent:
-image: 
+image:
 tags:
-- Quelle/5e/Monster_Manual
-- Habitat/Wüste
-- Habitat/Wald
-- Habitat/Sumpf
-- Habitat/Unterreich
-- Habitat/Unterwasser
-- Größe/Riesig
-- Typ/Tier
+  - Quelle/5e/Monster_Manual
+  - Habitat/Wüste
+  - Habitat/Wald
+  - Habitat/Sumpf
+  - Habitat/Unterreich
+  - Habitat/Unterwasser
+  - Größe/Riesig
+  - Typ/Tier
 aliases:
-- Giant Constrictor Snake
+  - Giant Constrictor Snake
 ---
 # Giant Constrictor Snake
 *Source: SRD / Basic Rules*  

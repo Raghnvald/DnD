@@ -1,12 +1,12 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Kleriker
-- Zauber/Grad/5
-- Zauber/Schule/Hervorrufung
-aliases: ["Flame Strike"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Kleriker
+  - Zauber/Grad/5
+  - Zauber/Schule/Hervorrufung
+aliases:
+  - Flame Strike
 ---
 # Flame Strike
 *5th-level, Evocation*  

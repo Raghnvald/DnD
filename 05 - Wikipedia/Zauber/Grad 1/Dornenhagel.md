@@ -1,12 +1,12 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Waldläufer
-- Zauber/Grad/1
-- Zauber/Schule/Beschwörung
-aliases: ["Hail of Thorns"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Waldläufer
+  - Zauber/Grad/1
+  - Zauber/Schule/Beschwörung
+aliases:
+  - Hail of Thorns
 ---
 # Dornenhagel
 ![](../../../99%20-%20Setup/Files/Bildersammlung/Symbolik/Beschwörungszauber.webp#token)

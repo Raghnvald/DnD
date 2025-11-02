@@ -1,13 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Druide
-- Klasse/Waldläufer
-- Zauber/Grad/4
-- Zauber/Schule/Beschwörung
-aliases: ["Conjure Woodland Beings"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Druide
+  - Klasse/Waldläufer
+  - Zauber/Grad/4
+  - Zauber/Schule/Beschwörung
+aliases:
+  - Conjure Woodland Beings
 ---
 # Wesen des Waldes beschwören
 *4th-level, Conjuration*  

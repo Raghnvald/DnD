@@ -9,7 +9,6 @@ tags:
   - Zauber/Schule/Verzauberung
 aliases:
   - Tasha's Hideous Laughter
-obsidianUIMode: preview
 ---
 # Tasha's Fürchterlicher Lachanfall
 ![](../../../99%20-%20Setup/Files/Bildersammlung/Symbolik/Verzauberungszauber.webp#token)

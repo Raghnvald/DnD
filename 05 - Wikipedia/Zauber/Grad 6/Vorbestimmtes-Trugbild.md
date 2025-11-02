@@ -1,13 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Barde
-- Klasse/Magier
-- Zauber/Grad/6
-- Zauber/Schule/Illusion
-aliases: ["Programmed Illusion"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Barde
+  - Klasse/Magier
+  - Zauber/Grad/6
+  - Zauber/Schule/Illusion
+aliases:
+  - Programmed Illusion
 ---
 # Programmed Illusion
 *6th-level, Illusion*  

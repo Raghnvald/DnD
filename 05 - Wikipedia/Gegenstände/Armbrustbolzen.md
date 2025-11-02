@@ -1,13 +1,12 @@
 ---
-obsidianUIMode: preview
 cssclasses: dnd5e-compendium
 tags:
-- Quelle/5e/Players_Handbook
-- Gegenstand/Ausrüstung
-- Gegenstand/Seltenheit/gewöhnlich
-- Gegenstand/Eigenschaft/Munition
+  - Quelle/5e/Players_Handbook
+  - Gegenstand/Ausrüstung
+  - Gegenstand/Seltenheit/gewöhnlich
+  - Gegenstand/Eigenschaft/Munition
 aliases:
-- Crossbow Bolt
+  - Crossbow Bolt
 Bezeichnung: Armbrustbolzen
 Typ: Munition
 Eigenschaften: Munition

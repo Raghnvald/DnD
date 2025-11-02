@@ -1,27 +1,18 @@
 ---
-Bezeichnung: Pony
-Typ: Reit- und Lastentier
-Eigenschaften: n/v
-Gew.: n/v
-Kst.: 30 GM
+obsidianUIMode: preview
+cssclasses:
+- json5e-item
 tags:
-- Quelle/5e/Players_Handbook
-- Gegenstand/Ausrüstung/Reit-und-Lastentier
-- Gegenstand/Seltenheit/gewöhnlich
-aliases:
-- Pony
+- Quelle/5e/phb
+- ttrpg-cli/item/gear/mount
+- ttrpg-cli/item/rarity/none
+aliases: 
+- "Pony"
 ---
 # Pony
-*Reit- und Lasttiere*  
-<img src="Symbolik/Gegenstände.webp" align="right" width="150">
+*Mount*  
 
-_Klassen:_ n/v 
-_Unterklassen:_  n/v
 
-_Quellen:_ Spielerhandbuch
+- **Cost**: 30 gp
 
-- **Eigenschaften**: 100,0 kg. Traglast
-- **Bewegungsrate:** 12m
-- **Traglast:** 112,5 kg
-- **Gewicht:** n/v
-- **Kosten**: 30 Goldmünzen
+*Source: Player's Handbook p. 157. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

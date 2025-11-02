@@ -1,14 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- Quelle/5e/Monster_Manual
-- Habitat/Arktis
-- Habitat/Wald
-- Habitat/Hügel
-- Größe/Groß
-- Typ/Tier
-aliases: ["Giant Owl"]
+  - Quelle/5e/Monster_Manual
+  - Habitat/Arktis
+  - Habitat/Wald
+  - Habitat/Hügel
+  - Größe/Groß
+  - Typ/Tier
+aliases:
+  - Giant Owl
 ---
 # Giant Owl
 *Source: SRD / Basic Rules*  

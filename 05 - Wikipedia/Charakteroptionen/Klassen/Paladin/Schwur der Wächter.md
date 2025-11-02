@@ -3,11 +3,11 @@ prefer-view:
   - edit-source read
 status:
   - completed
-order:
-parent:
-  - Paladin
-tags: [Klasse/Paladin, Quelle/5e/Xanathars_Guide_to_Everything]
-aliases: [Oath of the Watchers]
+tags:
+  - Klasse/Paladin
+  - Quelle/5e/xge
+aliases:
+  - Oath of the Watchers
 link:
   - https://www.dndbeyond.com/classes/2190881-paladin
 type:

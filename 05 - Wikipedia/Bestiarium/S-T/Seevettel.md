@@ -1,13 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-monster
-tags:
-- Quelle/5e/Monster_Manual
-- Habitat/Küste
-- Habitat/Unterwasser
-- Größe/Mittelgroß
-- Typ/Fee
-aliases: ["Sea Hag"]
+cssclasses: dnd5e-only-statblock
+prefer-view: edit-source read
+Bezeichnung: Grüne Vettel
+Typ: Feenwesen
+Größe: Mittelgroß
+HG: 2
+Habitat:
+  - Küste
+  - Unterwasser
+status: WIP
+image:
+tags: [Quelle/5e/Monster_Manual]
+aliases: [Sea Hag]
 ---
 # Sea Hag
 *Source: SRD / Basic Rules*  
@@ -86,7 +90,7 @@ aliases: ["Sea Hag"]
 > 
 > ## _copied from
 > 
-> Hag (VGM)
+> Hag (VGM)
 ^statblock
 
 ## Environment

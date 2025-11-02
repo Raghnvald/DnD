@@ -1,13 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- Quelle/5e/Monster_Manual
-- Habitat/Wald
-- Habitat/Stadt
-- Größe/Groß
-- Typ/Riese
-aliases: ["Oni"]
+  - Quelle/5e/Monster_Manual
+  - Habitat/Wald
+  - Habitat/Stadt
+  - Größe/Groß
+  - Typ/Riese
+aliases:
+  - Oni
 ---
 # Oni
 *Source: SRD / Basic Rules*  

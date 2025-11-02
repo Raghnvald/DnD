@@ -1,15 +1,16 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-monster
+Typ: Himmlisch
 tags:
-- Quelle/5e/Monster_Manual
-- Habitat/Wüste
-- Habitat/Wald
-- Habitat/Grasland
-- Habitat/Stadt
-- Größe/Mittelgroß
-- Typ/Himmlische
-aliases: ["Couatl"]
+  - Größe/Mittelgroß
+  - Habitat/Grasland
+  - Habitat/Stadt
+  - Habitat/Wald
+  - Habitat/Wüste
+  - Quelle/5e/Monster_Manual
+  - Typ/Himmlische
+aliases:
+  - Couatl
 ---
 # Couatl
 *Source: SRD / Basic Rules*  

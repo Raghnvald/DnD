@@ -1,21 +1,20 @@
 ---
-cssclasses: 
-- json5e-monster
-prefer-view: 
-- edit-source read
-type: 
-- creature
-tags: 
-- Quelle/5e/Monster_Manual
-- Typ/Unhold
-- Größe/Mittelgroß
-- Habitat/Jedes
-aliases: 
-- Cambion
-link:
+cssclasses:
+  - json5e-monster
+prefer-view:
+  - edit-source read
 status:
-order:
-parent:
+tags:
+  - Größe/Mittelgroß
+  - Habitat/Jedes
+  - Quelle/5e/Monster_Manual
+  - Typ/Unhold
+aliases:
+  - Cambion
+link:
+type:
+  - creature
+Typ: Unhold
 ---
 # Cambion
 

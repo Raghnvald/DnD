@@ -1,5 +1,5 @@
 ---
-tags: [Klasse/Barbar/Schlachtenwüter, Quelle/5e/Sword_Coast_Adventurers_Guide]
+tags: [Klasse/Barbar/Schlachtenwüter, Quelle/5e/scag]
 aliases: [Path of the Battlerager]
 ---
 Pfad des Schlachtenwüters

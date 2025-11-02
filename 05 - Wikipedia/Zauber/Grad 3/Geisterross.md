@@ -1,13 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Magier
-- Zauber/Grad/3
-- Zauber/Ritual
-- Zauber/Schule/Illusion
-aliases: ["Phantom Steed"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Magier
+  - Zauber/Grad/3
+  - Zauber/Ritual
+  - Zauber/Schule/Illusion
+aliases:
+  - Phantom Steed
 ---
 # Phantom Steed
 *3rd-level, Illusion (ritual)*  

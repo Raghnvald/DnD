@@ -1,11 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-monster
-tags:
-- Quelle/5e/Monster_Manual
-- Habitat/Unterreich
-- Größe/Groß
-- Typ/Schleim
+cssclasses: dnd5e-only-statblock
+prefer-view: edit-source read
+Bezeichnung: Gallertwürfel
+Typ: Schleim
+Größe: Groß
+HG: 2
+Habitat:
+  - Unterreich
+status: WIP
+image:
+tags: [Quelle/5e/Monster_Manual]
 aliases: ["Gelatinous Cube"]
 ---
 # Gelatinous Cube
@@ -53,7 +57,8 @@ aliases: ["Gelatinous Cube"]
 > 
 > On a failed save, the cube enters the creature's space, and the creature takes 10 (`3d6`) acid damage and is engulfed. The engulfed creature can't breathe, is [restrained](rules/conditions.md#restrained), and takes 21 (`6d6`) acid damage at the start of each of the cube's turns. When the cube moves, the engulfed creature moves with it.
 > 
-> An engulfed creature can try to escape by taking an action to make a DC 12 Strength check. On a success, the creature escapes and enters a space of its choice within 5 feet of the cube.
+> An engulfed creature can try to escape by taking an action to make a DC 12 Strength check. On a success, the creature escapes and enters a space of its choice within 5 feet of the cube.
+
 ^statblock
 
 ## Environment

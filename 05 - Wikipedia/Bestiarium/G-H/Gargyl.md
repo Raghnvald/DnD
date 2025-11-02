@@ -6,17 +6,15 @@ Typ: Elementar
 Größe: Mittelgroß
 HG: 2
 status:
-order:
-parent:
 image: token/Gargyl.webp
 tags:
-- Quelle/5e/Monster_Manual
-- Typ/Elementar
-- Größe/Mittelgroß
-- Habitat/Stadt
-- Habitat/Unterreich
+  - Quelle/5e/Monster_Manual
+  - Typ/Elementar
+  - Größe/Mittelgroß
+  - Habitat/Stadt
+  - Habitat/Unterreich
 aliases:
-- Gargoyle
+  - Gargoyle
 ---
 # Gargyl (2014)
 Die unbelebten Gargylen, die auf Gebäuden hocken, sind von diesen bösartigen Kreaturen der elementaren Erde inspiriert, die an groteske, teuflische Statuen erinnern. Ein Gargyl lauert zwischen Steinen und Ruinen, so regungslos wie jede Statue, und erfreut sich an dem Schrecken, den er auslöst, wenn er sich aus seiner Bewegungslosigkeit löst. Er genießt auch die Schmerzen, die er seinen Opfern zufügt.

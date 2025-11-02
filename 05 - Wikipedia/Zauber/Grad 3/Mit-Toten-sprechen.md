@@ -1,13 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Barde
-- Klasse/Kleriker
-- Zauber/Grad/3
-- Zauber/Schule/Nekromantie
-aliases: ["Speak with Dead"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Barde
+  - Klasse/Kleriker
+  - Zauber/Grad/3
+  - Zauber/Schule/Nekromantie
+aliases:
+  - Speak with Dead
 ---
 # Speak with Dead
 *3rd-level, Necromancy*  

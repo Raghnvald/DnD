@@ -1,9 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- Quelle/5e/Players_Handbook
-aliases: ["Ability Checks; Typical Difficulty Classes"]
+  - Quelle/5e/Players_Handbook
+aliases:
+  - Ability Checks; Typical Difficulty Classes
 ---
 # Fertigkeitenproben; Typische Schwierigkeitsklassen
 *Quelle: SRD / Grundregelwerk*

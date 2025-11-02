@@ -7,7 +7,7 @@ Wirkungsdauer: Konzentration, bis zu 10 Minuten
 Angriff: WEI
 Schaden: 8d8 psychisch
 tags:
-- Quelle/5e/Xanathars_Guide_to_Everything
+- Quelle/5e/xge
 - Klasse/Hexenmeister
 - Klasse/Magier
 - Zauber/Original/Maddening_Darkness

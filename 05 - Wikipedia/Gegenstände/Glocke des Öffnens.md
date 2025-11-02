@@ -1,12 +1,12 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- Quelle/5e/Dungeon_Masters_Guide
-- Gegenstand/Seltenheit/selten
-- Gegenstand/Tier/minor
-- Gegenstand/wundersam
-aliases: ["Chime of Opening"]
+  - Quelle/5e/Dungeon_Masters_Guide
+  - Gegenstand/Seltenheit/selten
+  - Gegenstand/Tier/minor
+  - Gegenstand/wundersam
+aliases:
+  - Chime of Opening
 ---
 # Glocke des Öffnens
 *Wundersamer Gegenstand, selten*  

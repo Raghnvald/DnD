@@ -1,19 +1,18 @@
 ---
 cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
-Bezeichnung: 
+Bezeichnung:
 Typ: Elementar
-Größe: 
-HG: 
+Größe:
+HG:
 status:
-order:
-parent:
-image: 
+image:
 tags:
-- Quelle/5e/Monster_Manual
-- Größe/Klein
-- Typ/Elementar
-aliases: ["Magmin"]
+  - Quelle/5e/Monster_Manual
+  - Größe/Klein
+  - Typ/Elementar
+aliases:
+  - Magmin
 ---
 # Magmin
 *Source: SRD / Basic Rules*  

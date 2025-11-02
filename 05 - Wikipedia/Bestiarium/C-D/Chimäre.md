@@ -1,15 +1,15 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- Quelle/5e/Monster_Manual
-- Habitat/Grasland
-- Habitat/Hügel
-- Habitat/Berg
-- Habitat/Unterreich
-- Größe/Groß
-- Typ/Monstrosität
-aliases: ["Chimera"]
+  - Größe/Groß
+  - Habitat/Berg
+  - Habitat/Grasland
+  - Habitat/Hügel
+  - Habitat/Unterreich
+  - Quelle/5e/Monster_Manual
+  - Typ/Monstrosität
+aliases:
+  - Chimera
 ---
 # Chimera
 *Source: SRD / Basic Rules*  

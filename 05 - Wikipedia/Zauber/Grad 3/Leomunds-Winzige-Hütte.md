@@ -1,14 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Barde
-- Klasse/Magier
-- Zauber/Grad/3
-- Zauber/Ritual
-- Zauber/Schule/Hervorrufung
-aliases: ["Leomund's Tiny Hut"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Barde
+  - Klasse/Magier
+  - Zauber/Grad/3
+  - Zauber/Ritual
+  - Zauber/Schule/Hervorrufung
+aliases:
+  - Leomund's Tiny Hut
 ---
 # Leomunds Winzige Hütte
 ![](Hervorrufungszauber.webp#right)

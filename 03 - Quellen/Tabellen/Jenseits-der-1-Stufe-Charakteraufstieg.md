@@ -1,9 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- Quelle/5e/Players_Handbook
-aliases: ["Beyond 1st Level; Character Advancement"]
+  - Quelle/5e/Players_Handbook
+aliases:
+  - Beyond 1st Level; Character Advancement
 ---
 # Jenseits der 1. Stufe; Charakteraufstieg
 *Quelle: SRD / Grundregelwerk*

@@ -7,7 +7,7 @@ Wirkungsdauer: Unmittelbar
 Angriff: GES
 Schaden: 3d12 Wucht
 tags:
-- Quelle/5e/Xanathars_Guide_to_Everything
+- Quelle/5e/xge
 - Klasse/Druide
 - Klasse/Magier
 - Klasse/Zauberer

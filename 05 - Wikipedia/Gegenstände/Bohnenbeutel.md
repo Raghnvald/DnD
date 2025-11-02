@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- Quelle/5e/Dungeon_Masters_Guide
-- Gegenstand/wundersam
-- Gegenstand/Seltenheit/selten
+  - Quelle/5e/Dungeon_Masters_Guide
+  - Gegenstand/wundersam
+  - Gegenstand/Seltenheit/selten
 aliases:
-- Bag of Beans
+  - Bag of Beans
 ---
 # Bohnenbeutel
 *Wundersamer Gegenstand, selten*  

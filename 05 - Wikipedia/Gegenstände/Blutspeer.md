@@ -6,7 +6,7 @@ Eigenschaften: Leicht, Vielseitig (1W8), Wurfwaffe (Reichweite 6/18)
 Gew.: 1,5kg
 Kst.: n/v
 tags:
-  - Quelle/5e/Curse_of_Strahd
+  - Quelle/5e/cos
   - Gegenstand/Waffe/Nahkampf/Einfach
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/Eigenschaft/Wurfwaffe

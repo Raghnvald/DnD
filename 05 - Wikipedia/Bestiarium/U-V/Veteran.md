@@ -1,19 +1,20 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- Quelle/5e/Monster_Manual
-- Habitat/Arktis
-- Habitat/Küste
-- Habitat/Wald
-- Habitat/Grasland
-- Habitat/Hügel
-- Habitat/Berg
-- Habitat/Unterreich
-- Habitat/Stadt
-- Größe/Mittelgroß
-- Typ/Humanoid/jede-rasse
-aliases: ["Veteran"]
+  - Quelle/5e/Monster_Manual
+  - Habitat/Arktis
+  - Habitat/Küste
+  - Habitat/Wald
+  - Habitat/Grasland
+  - Habitat/Hügel
+  - Habitat/Berg
+  - Habitat/Unterreich
+  - Habitat/Stadt
+  - Größe/Mittelgroß
+  - Typ/Humanoid/jede-rasse
+aliases:
+  - Veteran
+Typ: Humanoid
 ---
 # Veteran
 *Source: SRD / Basic Rules*  

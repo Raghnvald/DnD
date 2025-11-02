@@ -1,13 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Druide
-- Klasse/Waldläufer
-- Zauber/Grad/2
-- Zauber/Schule/Verwandlung
-aliases: ["Spike Growth"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Druide
+  - Klasse/Waldläufer
+  - Zauber/Grad/2
+  - Zauber/Schule/Verwandlung
+aliases:
+  - Spike Growth
 ---
 # Spike Growth
 *2nd-level, Transmutation*  

@@ -1,13 +1,12 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- Quelle/5e/Dungeon_Masters_Guide
-- Gegenstand/wundersam
-- Gegenstand/Seltenheit/ungewöhnlich
-- Gegenstand/Einstimmung
+  - Quelle/5e/Dungeon_Masters_Guide
+  - Gegenstand/wundersam
+  - Gegenstand/Seltenheit/ungewöhnlich
+  - Gegenstand/Einstimmung
 aliases:
-- Eyes of Minute Seeing
+  - Eyes of Minute Seeing
 ---
 # Augen des präzisen Sehens
 *Wundersamer Gegenstand, ungewöhnlich (erfordert Einstimmung)*  

@@ -1,16 +1,16 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Druide
-- Klasse/Waldläufer
-- Klasse/Zauberer
-- Klasse/Magier
-- Zauber/Grad/3
-- Zauber/Ritual
-- Zauber/Schule/Verwandlung
-aliases: ["Water Breathing"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Druide
+  - Klasse/Waldläufer
+  - Klasse/Zauberer
+  - Klasse/Magier
+  - Zauber/Grad/3
+  - Zauber/Ritual
+  - Zauber/Schule/Verwandlung
+aliases:
+  - Water Breathing
 ---
 # Water Breathing
 *3rd-level, Transmutation (ritual)*  

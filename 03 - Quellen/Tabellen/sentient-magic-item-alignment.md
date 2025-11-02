@@ -1,9 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- Quelle/5e/Dungeon_Masters_Guide
-aliases: ["Sentient Magic Item Alignment"]
+  - Quelle/5e/Dungeon_Masters_Guide
+aliases:
+  - Sentient Magic Item Alignment
 ---
 # Sentient Magic Item Alignment
 *Source: SRD / Basic Rules* 

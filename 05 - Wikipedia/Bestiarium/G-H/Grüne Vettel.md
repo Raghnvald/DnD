@@ -1,14 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-monster
-tags:
-- Quelle/5e/Monster_Manual
-- Habitat/Wald
-- Habitat/Hügel
-- Habitat/Sumpf
-- Größe/Mittelgroß
-- Typ/Fee
-aliases: ["Green Hag"]
+cssclasses: dnd5e-only-statblock
+prefer-view: edit-source read
+Bezeichnung: Grüne Vettel
+Typ: Feenwesen
+Größe: Mittelgroß
+HG: 3
+Habitat:
+  - Hügel
+  - Sumpf
+  - Wald
+status: WIP
+image:
+tags: [Quelle/5e/Monster_Manual]
+aliases: [Green Hag]
 ---
 # Green Hag
 *Source: SRD / Basic Rules*  
@@ -88,7 +92,7 @@ aliases: ["Green Hag"]
 > 
 > ## _copied from
 > 
-> Hag (VGM)
+> Hag (VGM)
 ^statblock
 
 ## Environment

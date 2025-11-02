@@ -1,14 +1,18 @@
 ---
+obsidianUIMode: preview
+cssclasses:
+- json5e-feat
 tags:
-- Quelle/5e/Players_Handbook
+- Quelle/5e/phb
+- ttrpg-cli/feat
 aliases:
-- 
+- Linguist
 ---
-### Linguist
+# Linguist
+*Source: Player's Handbook p. 167*  
 
-Du hast Sprachen und Geheimschriften studiert, wodurch du diese Vorzüge erhältst:
+You have studied languages and codes, gaining the following benefits:
 
-- Erhöhe deinen Intelligenzwert um einen Punkt, bis auf ein Maximum von 20 Punkten.
-- Du erlernst drei Sprachen deiner Wahl.
-- Du bist fähig, Geheimschriften zu entwerfen. Andere könnten deine Geheimschriften nicht entziffern, bis du es ihnen beigebracht hast, sie einen Intelligenzwurf bestehen (SG ist gleich dein Intelligenzwert plus dein Übungsbonus) oder sie Magie anwenden, um die Geheimschrift zu entschlüsseln.
-- _Wenn du für 1 Woche maßgeblich einer Sprache ausgesetzt bist, die du nicht sprichst, lege einen Intelligenz (Motiv Erkennen)-Wurf mit SG 15 ab. Bei einem Erfolg lernst du die wichtigsten Grundzüge der Sprache und kannst mit Kreaturen, die diese Sprache sprechen, oberflächlich kommunizieren._
+- Increase your Intelligence score by 1, to a maximum of 20.  
+- You learn three languages of your choice.  
+- You can ably create written ciphers. Others can't decipher a code you create unless you teach them, they succeed on an Intelligence check (DC equal to your Intelligence score + your proficiency bonus), or they use magic to decipher it.

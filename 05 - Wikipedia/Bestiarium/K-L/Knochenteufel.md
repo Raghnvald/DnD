@@ -1,21 +1,20 @@
 ---
-cssclasses: 
-- json5e-monster
-prefer-view: 
-- edit-source read
-type: 
-- creature
-tags: 
-- Quelle/5e/Monster_Manual
-- Typ/Unhold/Teufel
-- Größe/Groß
-- Habitat/Planar/Untere Ebenen
-aliases: 
-- Bone Devil
+cssclasses:
+  - json5e-monster
+prefer-view:
+  - edit-source read
+type:
+  - creature
+tags:
+  - Quelle/5e/Monster_Manual
+  - Typ/Unhold/Teufel
+  - Größe/Groß
+  - Habitat/Planar/Untere Ebenen
+aliases:
+  - Bone Devil
 link:
 status:
-order:
-parent:
+Typ: Unhold
 ---
 # Bone Devil
 *Source: SRD / Basic Rules*  

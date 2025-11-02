@@ -1,13 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Kleriker
-- Zauber/Grad/2
-- Zauber/Ritual
-- Zauber/Schule/Erkenntnis
-aliases: ["Augury"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Kleriker
+  - Zauber/Grad/2
+  - Zauber/Ritual
+  - Zauber/Schule/Erkenntnis
+aliases:
+  - Augury
 ---
 # Vorahnung
 ![](../../../99%20-%20Setup/Files/Bildersammlung/Symbolik/Erkenntniszauber.webp#token)

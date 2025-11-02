@@ -1,9 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- Quelle/5e/Dungeon_Masters_Guide
-aliases: ["Short-Term Madness"]
+  - Quelle/5e/Dungeon_Masters_Guide
+aliases:
+  - Short-Term Madness
 ---
 # Kurzfristiger Wahnsinn
 *Quelle: SRD / Grundregelwerk*

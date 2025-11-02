@@ -1,14 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- Quelle/5e/Monster_Manual
-- Habitat/Wald
-- Habitat/Grasland
-- Habitat/Hügel
-- Größe/Groß
-- Typ/Monstrosität
-aliases: ["Gorgon"]
+  - Quelle/5e/Monster_Manual
+  - Habitat/Wald
+  - Habitat/Grasland
+  - Habitat/Hügel
+  - Größe/Groß
+  - Typ/Monstrosität
+aliases:
+  - Gorgon
 ---
 # Gorgon
 *Source: SRD / Basic Rules*  

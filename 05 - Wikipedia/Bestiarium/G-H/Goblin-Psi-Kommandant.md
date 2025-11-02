@@ -6,19 +6,17 @@ Typ: Aberration
 Größe: Klein
 HG: 4
 status:
-order:
-parent:
-image: 
+image:
 tags:
-- Quelle/5e/Lost_Mines_of_Phandelver
-- Habitat/Wald
-- Habitat/Grasland
-- Habitat/Hügel
-- Habitat/Unterreich
-- Größe/Klein
-- Typ/Aberration/Goblinoid
+  - Quelle/5e/lmop
+  - Habitat/Wald
+  - Habitat/Grasland
+  - Habitat/Hügel
+  - Habitat/Unterreich
+  - Größe/Klein
+  - Typ/Aberration/Goblinoid
 aliases:
-- Goblin Psi Commander
+  - Goblin Psi Commander
 ---
 ```statblock
 statblock: true

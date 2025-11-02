@@ -1,33 +1,22 @@
 ---
-Bezeichnung: Rapier
-Typ: Nahkampf-Kriegswaffe
-Schaden: 1W8 Stich
-Eigenschaften: Finesse
-Gew.: 1,0 kg
-Kst.: 25 GM
+obsidianUIMode: preview
+cssclasses:
+- json5e-item
 tags:
-- Quelle/5e/Players_Handbook
-- Gegenstand/Waffe/Nahkampf/Kriegswaffe
-- Gegenstand/Seltenheit/gewöhnlich
-- Gegenstand/Eigenschaft/Finesse
-aliases:
-- Rapier
-Aktiv: true
-Menge: "1"
+- Quelle/5e/phb
+- ttrpg-cli/item/rarity/none
+- ttrpg-cli/item/weapon/martial
+- ttrpg-cli/item/weapon/melee
+aliases: 
+- "Rapier"
 ---
 # Rapier
-*Nahkampf-Kriegswaffe, gewöhnlich*
-<img src="Symbolik/Gegenstände.webp" align="right" width="150">
+*Weapon*  
 
-_Klassen:_ n/v 
-_Unterklassen:_  n/v
 
-_Quellen:_ Spielerhandbuch
+- **Damage**: 1d8 piercing
+- **Properties**: [Finesse](/3-Mechanics/CLI/item-properties.md#Finesse)
+- **Cost**: 25 gp
+- **Weight**: 2.0 lbs.
 
-- **Angriffsart:** Nahkampf-Kriegswaffe
-- **Reichweite:** 1,5m
-- **Schaden:** 1W8
-- **Schadensart:** Stichschaden
-- **Eigenschaften:** Finesse
-- **Gewicht:** 1,0 kg
-- **Kosten**: 25 Goldmünzen
+*Source: Player's Handbook p. 149. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

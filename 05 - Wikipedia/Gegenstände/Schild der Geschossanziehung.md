@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: dnd5e-compendium
 tags:
   - Quelle/5e/Dungeon_Masters_Guide
@@ -7,7 +6,7 @@ tags:
   - Gegenstand/Einstimmung/erforderlich
   - Gegenstand/Seltenheit/selten
   - Gegenstand/Tier/major
-aliases: 
+aliases:
   - Shield of Missile Attraction
 Bezeichnung: Belebter Schild
 Typ: Rüstung

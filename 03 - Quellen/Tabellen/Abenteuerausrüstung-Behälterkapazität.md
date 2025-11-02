@@ -1,9 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- Quelle/5e/Players_Handbook
-aliases: ["Adventuring Gear; Container Capacity"]
+  - Quelle/5e/Players_Handbook
+aliases:
+  - Adventuring Gear; Container Capacity
 ---
 # Abenteuerausrüstung; Behälterkapazität
 *Quelle: SRD / Grundregelwerk*

@@ -1,12 +1,12 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- Quelle/5e/Monster_Manual
-- Habitat/Wald
-- Größe/Mittelgroß
-- Typ/Pflanze
-aliases: ["Vine Blight"]
+  - Quelle/5e/Monster_Manual
+  - Habitat/Wald
+  - Größe/Mittelgroß
+  - Typ/Pflanze
+aliases:
+  - Vine Blight
 ---
 ```statblock
 statblock: true

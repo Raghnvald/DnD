@@ -1,13 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Barde
-- Klasse/Hexenmeister
-- Zauber/Grad/2
-- Zauber/Schule/Verzauberung
-aliases: ["Enthrall"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Barde
+  - Klasse/Hexenmeister
+  - Zauber/Grad/2
+  - Zauber/Schule/Verzauberung
+aliases:
+  - Enthrall
 ---
 # Enthrall
 *2nd-level, Enchantment*  

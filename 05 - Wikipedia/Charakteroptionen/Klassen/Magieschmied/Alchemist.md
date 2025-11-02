@@ -1,5 +1,5 @@
 ---
-tags: [Klasse/Magieschmied/Alchemist, Quelle/5e/Tashas_Cauldron_of_Everything]
+tags: [Klasse/Magieschmied/Alchemist, Quelle/5e/tce]
 aliases: [Artificer]
 ---
 Alchemist

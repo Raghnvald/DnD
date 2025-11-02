@@ -6,21 +6,19 @@ Typ: Riese
 Größe: Groß
 HG: 5
 status:
-order:
-parent:
-image: 
+image:
 tags:
-- Quelle/5e/Monster_Manual
-- Typ/Riese
-- Größe/Groß
-- Habitat/Arktis
-- Habitat/Berg
-- Habitat/Hügel
-- Habitat/Sumpf
-- Habitat/Unterreich
-- Habitat/Wald
+  - Quelle/5e/Monster_Manual
+  - Typ/Riese
+  - Größe/Groß
+  - Habitat/Arktis
+  - Habitat/Berg
+  - Habitat/Hügel
+  - Habitat/Sumpf
+  - Habitat/Unterreich
+  - Habitat/Wald
 aliases:
-- Troll
+  - Troll
 ---
 # Troll
 *Source: SRD / Basic Rules*  

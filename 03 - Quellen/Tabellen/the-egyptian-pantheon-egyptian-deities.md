@@ -1,9 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- Quelle/5e/Players_Handbook
-aliases: ["The Egyptian Pantheon; Egyptian Deities"]
+  - Quelle/5e/Players_Handbook
+aliases:
+  - The Egyptian Pantheon; Egyptian Deities
 ---
 # The Egyptian Pantheon; Egyptian Deities
 *Source: SRD / Basic Rules* 

@@ -1,12 +1,12 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Magier
-- Zauber/Grad/4
-- Zauber/Schule/Beschwörung
-aliases: ["Evard's Black Tentacles"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Magier
+  - Zauber/Grad/4
+  - Zauber/Schule/Beschwörung
+aliases:
+  - Evard's Black Tentacles
 ---
 # Evard's Black Tentacles
 *4th-level, Conjuration*  

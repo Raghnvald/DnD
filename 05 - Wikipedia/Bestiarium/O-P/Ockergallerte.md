@@ -1,11 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-monster
-tags:
-- Quelle/5e/Monster_Manual
-- Habitat/Unterreich
-- Größe/Groß
-- Typ/Schleim
+cssclasses: dnd5e-only-statblock
+prefer-view: edit-source read
+Bezeichnung: Ockergallerte
+Typ: Schleim
+Größe: Groß
+HG: 2
+Habitat:
+  - Unterreich
+status: WIP
+image:
+tags: [Quelle/5e/Monster_Manual]
 aliases: ["Ochre Jelly"]
 ---
 # Ochre Jelly
@@ -45,7 +49,8 @@ aliases: ["Ochre Jelly"]
 > 
 > ## Reactions
 > 
-> ***Split.*** When a jelly that is Medium or larger is subjected to lightning or slashing damage, it splits into two new jellies if it has at least 10 hit points. Each new jelly has hit points equal to half the original jelly's, rounded down. New jellies are one size smaller than the original jelly.
+> ***Split.*** When a jelly that is Medium or larger is subjected to lightning or slashing damage, it splits into two new jellies if it has at least 10 hit points. Each new jelly has hit points equal to half the original jelly's, rounded down. New jellies are one size smaller than the original jelly.
+
 ^statblock
 
 ## Environment

@@ -1,13 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Magier
-- Klasse/Zauberer
-- Zauber/Grad/3
-- Zauber/Schule/Verwandlung
-aliases: ["Blink"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Magier
+  - Klasse/Zauberer
+  - Zauber/Grad/3
+  - Zauber/Schule/Verwandlung
+aliases:
+  - Blink
 ---
 # Flimmern
 ![](../../../99%20-%20Setup/Files/Bildersammlung/Symbolik/Verwandlungszauber.webp#token)

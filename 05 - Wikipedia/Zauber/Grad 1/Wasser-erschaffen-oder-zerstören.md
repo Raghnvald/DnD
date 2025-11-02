@@ -1,13 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Kleriker
-- Klasse/Druide
-- Zauber/Grad/1
-- Zauber/Schule/Verwandlung
-aliases: ["Create or Destroy Water"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Kleriker
+  - Klasse/Druide
+  - Zauber/Grad/1
+  - Zauber/Schule/Verwandlung
+aliases:
+  - Create or Destroy Water
 ---
 # Create or Destroy Water
 *1st-level, Transmutation*  

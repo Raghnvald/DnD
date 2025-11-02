@@ -1,11 +1,12 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- Quelle/5e/Monster_Manual
-- Größe/Groß
-- Typ/Unhold/Dämon
-aliases: ["Vrock"]
+  - Quelle/5e/Monster_Manual
+  - Größe/Groß
+  - Typ/Unhold/Dämon
+aliases:
+  - Vrock
+Typ: Unhold
 ---
 # Vrock
 *Source: SRD / Basic Rules*  

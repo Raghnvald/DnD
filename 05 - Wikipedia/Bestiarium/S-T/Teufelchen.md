@@ -1,11 +1,12 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- Quelle/5e/Monster_Manual
-- Größe/Winzig
-- Typ/Unhold/Teufel
-aliases: ["Imp"]
+  - Quelle/5e/Monster_Manual
+  - Größe/Winzig
+  - Typ/Unhold/Teufel
+aliases:
+  - Imp
+Typ: Unhold
 ---
 # Imp
 *Source: SRD / Basic Rules*  

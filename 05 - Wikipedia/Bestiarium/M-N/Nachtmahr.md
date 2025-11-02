@@ -1,11 +1,12 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- Quelle/5e/Monster_Manual
-- Größe/Groß
-- Typ/Unhold
-aliases: ["Nightmare"]
+  - Quelle/5e/Monster_Manual
+  - Größe/Groß
+  - Typ/Unhold
+aliases:
+  - Nightmare
+Typ: Unhold
 ---
 # Nightmare
 *Source: SRD / Basic Rules*  

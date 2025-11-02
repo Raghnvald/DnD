@@ -1,12 +1,12 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Magier
-- Zauber/Grad/5
-- Zauber/Schule/Verwandlung
-aliases: ["Passwall"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Magier
+  - Zauber/Grad/5
+  - Zauber/Schule/Verwandlung
+aliases:
+  - Passwall
 ---
 # Passwall
 *5th-level, Transmutation*  

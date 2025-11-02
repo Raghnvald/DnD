@@ -1,13 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Hexenmeister
-- Klasse/Magier
-- Zauber/Grad/9
-- Zauber/Schule/Bann
-aliases: ["Imprisonment"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Hexenmeister
+  - Klasse/Magier
+  - Zauber/Grad/9
+  - Zauber/Schule/Bann
+aliases:
+  - Imprisonment
 ---
 # Imprisonment
 *9th-level, Abjuration*  

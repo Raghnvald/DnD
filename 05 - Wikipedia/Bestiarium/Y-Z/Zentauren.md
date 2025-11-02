@@ -1,13 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- Quelle/5e/Monster_Manual
-- Habitat/Wald
-- Habitat/Grasland
-- Größe/Groß
-- Typ/Monstrosität
-aliases: ["Centaur"]
+  - Quelle/5e/Monster_Manual
+  - Habitat/Wald
+  - Habitat/Grasland
+  - Größe/Groß
+  - Typ/Monstrosität
+aliases:
+  - Centaur
 ---
 # Centaur
 *Source: SRD / Basic Rules*  

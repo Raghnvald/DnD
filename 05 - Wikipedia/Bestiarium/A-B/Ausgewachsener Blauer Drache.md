@@ -1,13 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- Quelle/5e/Monster_Manual
-- Habitat/Küste
-- Habitat/Wüste
-- Größe/Riesig
-- Typ/Drache
-aliases: ["Adult Blue Dragon"]
+  - Größe/Riesig
+  - Habitat/Küste
+  - Habitat/Wüste
+  - Quelle/5e/Monster_Manual
+  - Typ/Drache
+aliases:
+  - Adult Blue Dragon
 ---
 # Adult Blue Dragon
 *Source: SRD / Basic Rules*  
@@ -89,7 +89,7 @@ aliases: ["Adult Blue Dragon"]
 > 
 > - **Blue Luster.** Creatures that spend a year within 1 mile of the dragon's lair find blue objects fascinating and feel compelled to acquire them at every opportunity.  
 > - **Mirage Terrain.** The area immediately surrounding the lair appears to be a lush oasis. A creature carefully examining the illusion can attempt a DC 15 Intelligence ([Investigation](rules/skills.md#Investigation)) check to disbelieve it. A creature who disbelieves the illusion sees it as a vague image superimposed on the underlying terrain.  
-> - **Sandstorm.** A sandstorm blows constantly within 1 mile of the dragon's lair.  
+> - **Sandstorm.** A sandstorm blows constantly within 1 mile of the dragon's lair.  
 ^statblock
 
 ## Environment

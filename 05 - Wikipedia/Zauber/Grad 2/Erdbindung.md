@@ -7,7 +7,7 @@ Wirkungsdauer: K, <1 Minute
 Angriff: STR
 Schaden: Kontrolle
 tags: 
-- Quelle/5e/Xanathars_Guide_to_Everything
+- Quelle/5e/xge
 - Klasse/Druide
 - Klasse/Hexenmeister
 - Klasse/Magier

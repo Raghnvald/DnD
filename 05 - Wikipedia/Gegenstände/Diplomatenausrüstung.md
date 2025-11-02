@@ -35,5 +35,5 @@ Beinhaltet:
 - 2 [Flaschen Öl](oil-flask.md)  
 - 5 [[Papier-ein-Blatt|Blatt Papier]]  
 - eine [Phiole mit Parfüm](perfume-vial.md)  
-- [Siegelwachs](sealing-wax.md)  
+- [Siegelwachs](D&D/05%20-%20Wikipedia/Gegenstände/sealing-wax.md)  
 - [[Seife]]  

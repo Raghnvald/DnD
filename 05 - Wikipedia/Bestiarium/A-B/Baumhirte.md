@@ -1,12 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-monster
+Typ: Pflanze
 tags:
-- Quelle/5e/Monster_Manual
-- Habitat/Wald
-- Größe/Riesig
-- Typ/Pflanze
-aliases: ["Treant"]
+  - Größe/Riesig
+  - Habitat/Wald
+  - Quelle/5e/Monster_Manual
+  - Typ/Pflanze
+aliases:
+  - Treant
 ---
 # Treant
 *Source: SRD / Basic Rules*  

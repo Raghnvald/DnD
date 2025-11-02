@@ -1,17 +1,12 @@
 ---
 cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
-Bezeichnung: 
+Bezeichnung: Zombie-Seuchenbringer
 Typ: Untoter
 Größe: Mittelgroß
 HG: 4
 status: WIP
-order:
-parent:
 image: 
-tags:
-- Quelle/5e/Van_Richtens_Guide_to_Ravenloft
-- Typ/Untote
-aliases:
-- Zombie Plague-Spreader
+tags: [Quelle/5e/vrgr]
+aliases: [Zombie Plague-Spreader]
 ---

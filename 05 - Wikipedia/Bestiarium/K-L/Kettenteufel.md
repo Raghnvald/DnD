@@ -1,21 +1,20 @@
 ---
-cssclasses: 
-- json5e-monster
-prefer-view: 
-- edit-source read
-type: 
-- creature
-tags: 
-- Quelle/5e/Monster_Manual
-- Typ/Unhold/Teufel
-- Größe/Mittelgroß
-- Habitat/Planar/Neun-Höllen
-aliases: 
-- Chain Devil
+cssclasses:
+  - json5e-monster
+prefer-view:
+  - edit-source read
+type:
+  - creature
+tags:
+  - Quelle/5e/Monster_Manual
+  - Typ/Unhold/Teufel
+  - Größe/Mittelgroß
+  - Habitat/Planar/Neun-Höllen
+aliases:
+  - Chain Devil
 link:
 status:
-order:
-parent:
+Typ: Unhold
 ---
 # Chain Devil
 *Source: SRD / Basic Rules*  

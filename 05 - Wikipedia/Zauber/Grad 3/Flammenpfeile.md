@@ -7,7 +7,7 @@ Wirkungsdauer: Konzentration, bis zu 1 Stunde
 Angriff: n/v
 Schaden: 1d6 Feuer
 tags:
-- Quelle/5e/Xanathars_Guide_to_Everything
+- Quelle/5e/xge
 - Klasse/Druide
 - Klasse/Magier
 - Klasse/Magieschmied

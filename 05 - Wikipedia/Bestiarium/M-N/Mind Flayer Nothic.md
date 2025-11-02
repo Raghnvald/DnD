@@ -6,11 +6,9 @@ Typ: Aberration
 Größe: Mittelgroß
 HG:
 status: WIP
-order:
-parent:
 image:
 tags:
-  - Quelle/5e/Phandelver
+  - Quelle/5e/pabtso
   - Typ/Aberration
 aliases:
   - 

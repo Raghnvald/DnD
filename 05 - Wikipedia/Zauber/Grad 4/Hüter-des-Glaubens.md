@@ -1,12 +1,12 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Kleriker
-- Zauber/Grad/4
-- Zauber/Schule/Beschwörung
-aliases: ["Guardian of Faith"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Kleriker
+  - Zauber/Grad/4
+  - Zauber/Schule/Beschwörung
+aliases:
+  - Guardian of Faith
 ---
 # Guardian of Faith
 *4th-level, Conjuration*  

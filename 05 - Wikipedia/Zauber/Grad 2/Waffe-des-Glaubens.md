@@ -1,12 +1,12 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Kleriker
-- Zauber/Grad/2
-- Zauber/Schule/Hervorrufung
-aliases: ["Spiritual Weapon"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Kleriker
+  - Zauber/Grad/2
+  - Zauber/Schule/Hervorrufung
+aliases:
+  - Spiritual Weapon
 ---
 # Spiritual Weapon
 *2nd-level, Evocation*  

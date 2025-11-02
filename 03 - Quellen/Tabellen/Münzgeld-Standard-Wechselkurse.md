@@ -1,9 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- Quelle/5e/Players_Handbook
-aliases: ["Coinage; Standard Exchange Rates"]
+  - Quelle/5e/Players_Handbook
+aliases:
+  - Coinage; Standard Exchange Rates
 ---
 # Münzgeld; Standard-Wechselkurse
 *Source: SRD / Basic Rules* 

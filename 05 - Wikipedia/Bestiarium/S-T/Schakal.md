@@ -1,21 +1,20 @@
 ---
 cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
-Bezeichnung: 
+Bezeichnung:
 Typ: Bestie
-Größe: 
-HG: 
+Größe:
+HG:
 status:
-order:
-parent:
-image: 
+image:
 tags:
-- Quelle/5e/Monster_Manual
-- Habitat/Wüste
-- Habitat/Grasland
-- Größe/Klein
-- Typ/Tier
-aliases: ["Jackal"]
+  - Quelle/5e/Monster_Manual
+  - Habitat/Wüste
+  - Habitat/Grasland
+  - Größe/Klein
+  - Typ/Tier
+aliases:
+  - Jackal
 ---
 # Jackal
 *Source: SRD / Basic Rules*  

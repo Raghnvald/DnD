@@ -10,9 +10,7 @@ Habitat:
   - Stadt
   - Unterreich
 status: WIP
-order:
-parent:
 image:
-tags: [Quelle/5e/Monster_Manual, Typ/Untote]
+tags: [Quelle/5e/Monster_Manual]
 aliases: [Beholder Zombie]
 ---

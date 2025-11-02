@@ -1,13 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Kleriker
-- Klasse/Druide
-- Zauber/Grad/6
-- Zauber/Schule/Hervorrufung
-aliases: ["Heal"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Kleriker
+  - Klasse/Druide
+  - Zauber/Grad/6
+  - Zauber/Schule/Hervorrufung
+aliases:
+  - Heal
 ---
 # Heal
 *6th-level, Evocation*  

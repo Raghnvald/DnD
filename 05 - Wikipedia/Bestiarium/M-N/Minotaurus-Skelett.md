@@ -6,8 +6,6 @@ Typ: Untoter
 Größe: Groß
 HG: 2
 status: WIP
-order:
-parent:
 image:
 tags:
   - Quelle/5e/Monster_Manual
@@ -16,6 +14,8 @@ tags:
   - Typ/Untote
 aliases:
   - Minotaur Skeleton
+Habitat:
+  - Unterreich
 ---
 # Minotaur Skeleton
 *Source: SRD / Basic Rules*  

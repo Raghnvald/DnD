@@ -1,12 +1,12 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Magier
-- Zauber/Grad/4
-- Zauber/Schule/Beschwörung
-aliases: ["Mordenkainen's Faithful Hound"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Magier
+  - Zauber/Grad/4
+  - Zauber/Schule/Beschwörung
+aliases:
+  - Mordenkainen's Faithful Hound
 ---
 # Mordenkainen's Treuer Hund
 *4th-level, Conjuration*  

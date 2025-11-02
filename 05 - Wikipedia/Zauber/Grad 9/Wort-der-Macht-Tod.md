@@ -1,15 +1,15 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Barde
-- Klasse/Zauberer
-- Klasse/Hexenmeister
-- Klasse/Magier
-- Zauber/Grad/9
-- Zauber/Schule/Verzauberung
-aliases: ["Power Word Kill"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Barde
+  - Klasse/Zauberer
+  - Klasse/Hexenmeister
+  - Klasse/Magier
+  - Zauber/Grad/9
+  - Zauber/Schule/Verzauberung
+aliases:
+  - Power Word Kill
 ---
 # Power Word Kill
 *9th-level, Enchantment*  

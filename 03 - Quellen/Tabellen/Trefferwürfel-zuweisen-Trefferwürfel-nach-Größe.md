@@ -1,9 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- Quelle/5e/Dungeon_Masters_Guide
-aliases: ["Assign Hit Dice; Hit Dice by Size"]
+  - Quelle/5e/Dungeon_Masters_Guide
+aliases:
+  - Assign Hit Dice; Hit Dice by Size
 ---
 # Trefferwürfel zuweisen; Trefferwürfel nach Größe
 *Quelle: SRD / Grundregelwerk*

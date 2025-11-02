@@ -1,0 +1,63 @@
+---
+obsidianUIMode: preview
+cssclasses:
+- json5e-monster
+tags:
+- Quelle/5e/ggr
+- monster/cr/1
+- monster/size/medium
+- monster/type/humanoid/any-race
+statblock: inline
+statblock-link: "#^statblock"
+aliases:
+- Rakdos Performer, Blade Juggler
+---
+# [Rakdos Performer, Blade Juggler](3-Mechanics\CLI\bestiary\humanoid/rakdos-performer-blade-juggler-ggr.md)
+*Source: Guildmasters' Guide to Ravnica p. 249*  
+
+By offering a place for those of many different talents, the Cult of Rakdos has seen its numbers swell with performing artists, including blade jugglers, fire eaters, and high wire acrobats. Performers carry the message of Rakdos out into the streets: cut loose, free yourself from the bonds of society's mores and expectations, and indulge your desires.
+
+```statblock
+"name": "Rakdos Performer, Blade Juggler (GGR)"
+"size": "Medium"
+"type": "humanoid"
+"subtype": "any race"
+"alignment": "Chaotic Evil"
+"ac": !!int "13"
+"hp": !!int "22"
+"hit_dice": "4d8 + 4"
+"modifier": !!int "3"
+"stats":
+  - !!int "13"
+  - !!int "17"
+  - !!int "12"
+  - !!int "10"
+  - !!int "8"
+  - !!int "15"
+"speed": "40 ft., climb 30 ft."
+"saves":
+  - "dexterity": !!int "5"
+  - "charisma": !!int "4"
+"skillsaves":
+  - "name": "Acrobatics"
+    "desc": "+7"
+  - "name": "Performance"
+    "desc": "+4"
+"senses": "passive Perception 9"
+"languages": "any one language (usually Common)"
+"cr": "1"
+"traits":
+  - "desc": "The performer can take the Disengage action as a bonus action on each\
+      \ of its turns."
+    "name": "Nimble"
+"actions":
+  - "desc": "The juggler makes three dagger attacks."
+    "name": "Multiattack"
+  - "desc": "*Melee  or Ranged Weapon Attack:* +5 to hit, reach 5 ft. or range 20/60\
+      \ ft., one target. *Hit:* 5 (1d4 + 3) piercing damage."
+    "name": "Dagger"
+"source":
+  - "GGR"
+"image": "/3-Mechanics/CLI/bestiary/humanoid/token/rakdos-performer-blade-juggler-ggr.webp"
+```
+^statblock

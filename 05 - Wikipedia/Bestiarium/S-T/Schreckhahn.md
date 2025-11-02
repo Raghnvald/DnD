@@ -1,12 +1,12 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- Quelle/5e/Monster_Manual
-- Habitat/Grasland
-- Größe/Klein
-- Typ/Monstrosität
-aliases: ["Cockatrice"]
+  - Quelle/5e/Monster_Manual
+  - Habitat/Grasland
+  - Größe/Klein
+  - Typ/Monstrosität
+aliases:
+  - Cockatrice
 ---
 # Cockatrice
 *Source: SRD / Basic Rules*  

@@ -1,13 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- Quelle/5e/Dungeon_Masters_Guide
-- Gegenstand/Einstimmung/erforderlich
-- Gegenstand/Seltenheit/gewöhnlich
-- Gegenstand/Tier/major
-- Gegenstand/wundersam
-aliases: ["Hat of Wizardry"]
+  - Quelle/5e/Dungeon_Masters_Guide
+  - Gegenstand/Einstimmung/erforderlich
+  - Gegenstand/Seltenheit/gewöhnlich
+  - Gegenstand/Tier/major
+  - Gegenstand/wundersam
+aliases:
+  - Hat of Wizardry
 ---
 # Zauberhut
 _Wundersamer Gegenstand, gewöhnlich (erfordert Einstimmung durch einen Magier)_

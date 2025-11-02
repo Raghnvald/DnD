@@ -1,15 +1,15 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Barde
-- Klasse/Kleriker
-- Klasse/Waldläufer
-- Zauber/Grad/2
-- Zauber/Ritual
-- Zauber/Schule/Illusion
-aliases: ["Silence"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Barde
+  - Klasse/Kleriker
+  - Klasse/Waldläufer
+  - Zauber/Grad/2
+  - Zauber/Ritual
+  - Zauber/Schule/Illusion
+aliases:
+  - Silence
 ---
 # Stille
 *2nd-level, Illusion (ritual)*  

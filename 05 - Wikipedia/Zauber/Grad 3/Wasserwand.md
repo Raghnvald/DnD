@@ -7,7 +7,7 @@ Wirkungsdauer: Konzentration, bis zu 10 Minuten
 Angriff: n/v
 Schaden: Kontrolle
 tags:
-- Quelle/5e/Xanathars_Guide_to_Everything
+- Quelle/5e/xge
 - Klasse/Druide
 - Klasse/Magier
 - Klasse/Zauberer

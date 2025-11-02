@@ -1,5 +1,5 @@
 ---
-tags: [Klasse/Magier/Klingengesang, Quelle/5e/Sword_Coast_Adventurers_Guide]
+tags: [Klasse/Magier/Klingengesang, Quelle/5e/scag]
 aliases: [Bladesinging]
 ---
 Klingengesang

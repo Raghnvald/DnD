@@ -1,13 +1,12 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- Quelle/5e/Players_Handbook
-- Gegenstand/Ausrüstung
-- Gegenstand/Seltenheit/gewöhnlich
-- Gegenstand/Eigenschaft/Munition
+  - Quelle/5e/Players_Handbook
+  - Gegenstand/Ausrüstung
+  - Gegenstand/Seltenheit/gewöhnlich
+  - Gegenstand/Eigenschaft/Munition
 aliases:
-- Crossbow Bolts (20)
+  - Crossbow Bolts (20)
 Bezeichnung: Armbrustbolzen (20)
 Typ: Munition
 Eigenschaften: Munition

@@ -1,5 +1,5 @@
 ---
-tags: [Klasse/Barde, Quelle/5e/Xanathars_Guide_to_Everything]
+tags: [Klasse/Barde, Quelle/5e/xge]
 aliases: [College of Swords]
 ---
 # Schule der Schwerter

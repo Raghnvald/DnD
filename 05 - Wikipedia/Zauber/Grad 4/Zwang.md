@@ -1,12 +1,12 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Barde
-- Zauber/Grad/4
-- Zauber/Schule/Verzauberung
-aliases: ["Compulsion"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Barde
+  - Zauber/Grad/4
+  - Zauber/Schule/Verzauberung
+aliases:
+  - Compulsion
 ---
 # Zwang
 *4th-level, Enchantment*  

@@ -6,12 +6,9 @@ Typ: Untoter
 Größe: Mittelgroß
 HG: 1/2
 status: WIP
-order:
-parent:
 image:
 tags:
-  - Quelle/5e/Phandelver
+  - Quelle/5e/pabtso
   - Typ/Untote
-aliases:
-  - 
+aliases: []
 ---

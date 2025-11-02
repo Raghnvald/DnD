@@ -7,7 +7,7 @@ Wirkungsdauer: K, <10 Minuten
 Angriff: nichts
 Schaden: Taub
 tags:
-- Quelle/5e/Xanathars_Guide_to_Everything
+- Quelle/5e/xge
 - Klasse/Barde
 - Klasse/Druide
 - Klasse/Magier

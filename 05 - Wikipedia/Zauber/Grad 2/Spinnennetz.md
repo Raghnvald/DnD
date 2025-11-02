@@ -1,13 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Zauberer
-- Klasse/Magier
-- Zauber/Grad/2
-- Zauber/Schule/Beschwörung
-aliases: ["Web"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Zauberer
+  - Klasse/Magier
+  - Zauber/Grad/2
+  - Zauber/Schule/Beschwörung
+aliases:
+  - Web
 ---
 # Web
 *2nd-level, Conjuration*  

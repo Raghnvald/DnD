@@ -1,14 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- Quelle/5e/Monster_Manual
-- Habitat/Wald
-- Habitat/Unterreich
-- Größe/Mittelgroß
-- Typ/Monstrosität
-- Typ/Aberration
-aliases: ["Grick"]
+  - Quelle/5e/Monster_Manual
+  - Habitat/Wald
+  - Habitat/Unterreich
+  - Größe/Mittelgroß
+  - Typ/Monstrosität
+  - Typ/Aberration
+aliases:
+  - Grick
 ---
 ```statblock
 statblock: true

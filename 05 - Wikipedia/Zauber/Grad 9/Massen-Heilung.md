@@ -1,12 +1,12 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Kleriker
-- Zauber/Grad/9
-- Zauber/Schule/Hervorrufung
-aliases: ["Mass Heal"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Kleriker
+  - Zauber/Grad/9
+  - Zauber/Schule/Hervorrufung
+aliases:
+  - Mass Heal
 ---
 # Massen-Heilung
 *9th-level, Evocation*  

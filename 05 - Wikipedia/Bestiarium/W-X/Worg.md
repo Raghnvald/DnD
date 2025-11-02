@@ -1,14 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- Quelle/5e/Monster_Manual
-- Habitat/Wald
-- Habitat/Grasland
-- Habitat/Hügel
-- Größe/Groß
-- Typ/Monstrosität
-aliases: ["Worg"]
+  - Quelle/5e/Monster_Manual
+  - Habitat/Wald
+  - Habitat/Grasland
+  - Habitat/Hügel
+  - Größe/Groß
+  - Typ/Monstrosität
+aliases:
+  - Worg
 ---
 # Worg
 *Source: SRD / Basic Rules*  

@@ -1,10 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- Quelle/5e/Players_Handbook
-- Kompendium/Optionales/Anrufungen
-aliases: ["Beguiling Influence"]
+  - Quelle/5e/Players_Handbook
+  - Kompendium/Optionales/Anrufungen
+aliases:
+  - Beguiling Influence
 ---
 # Verführerischer Einfluss
 *Quelle: SRD / Grundregelwerk / Spielerhandbuch*  

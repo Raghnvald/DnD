@@ -6,16 +6,14 @@ Typ: Riese
 Größe: Riesig
 HG: 5
 status:
-order:
-parent:
-image: 
+image:
 tags:
-- Quelle/5e/Monster_Manual
-- Typ/Riese
-- Größe/Riesig
-- Habitat/Hügel
+  - Quelle/5e/Monster_Manual
+  - Typ/Riese
+  - Größe/Riesig
+  - Habitat/Hügel
 aliases:
-- Hill Giant
+  - Hill Giant
 ---
 # Hügelriese
 *Source: SRD / Basic Rules*  

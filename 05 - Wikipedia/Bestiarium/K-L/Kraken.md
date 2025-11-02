@@ -1,12 +1,12 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- Quelle/5e/Monster_Manual
-- Habitat/Unterwasser
-- Größe/Gigantisch
-- Typ/Monstrosität/Titan
-aliases: ["Kraken"]
+  - Quelle/5e/Monster_Manual
+  - Habitat/Unterwasser
+  - Größe/Gigantisch
+  - Typ/Monstrosität/Titan
+aliases:
+  - Kraken
 ---
 # Kraken
 *Source: SRD / Basic Rules*  

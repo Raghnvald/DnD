@@ -1,16 +1,16 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Hexenmeister
-- Klasse/Kleriker
-- Klasse/Magier
-- Klasse/Paladin
-- Klasse/Zauberer
-- Zauber/Grad/4
-- Zauber/Schule/Bann
-aliases: ["Banishment"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Hexenmeister
+  - Klasse/Kleriker
+  - Klasse/Magier
+  - Klasse/Paladin
+  - Klasse/Zauberer
+  - Zauber/Grad/4
+  - Zauber/Schule/Bann
+aliases:
+  - Banishment
 ---
 # Verbannung
 ![](../../../99%20-%20Setup/Files/Bildersammlung/Symbolik/Bannzauber.webp#token)

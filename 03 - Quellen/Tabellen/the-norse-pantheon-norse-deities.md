@@ -1,9 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- Quelle/5e/Players_Handbook
-aliases: ["The Norse Pantheon; Norse Deities"]
+  - Quelle/5e/Players_Handbook
+aliases:
+  - The Norse Pantheon; Norse Deities
 ---
 # The Norse Pantheon; Norse Deities
 *Source: SRD / Basic Rules* 

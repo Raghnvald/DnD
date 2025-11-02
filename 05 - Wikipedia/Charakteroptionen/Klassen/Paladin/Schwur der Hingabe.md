@@ -3,11 +3,11 @@ prefer-view:
   - edit-source read
 status:
   - completed
-order:
-parent:
-  - Paladin
-tags: [Klasse/Paladin, Quelle/5e/Players_Handbook]
-aliases: [Oath of Devotion]
+tags:
+  - Klasse/Paladin
+  - Quelle/5e/Players_Handbook
+aliases:
+  - Oath of Devotion
 link:
   - https://www.dndbeyond.com/classes/2190881-paladin
 type:

@@ -1,6 +1,4 @@
 ---
-tags:
-- Quelle/5e/Players_Handbook
-aliases:
-- 
+tags: [Quelle/5e/Players_Handbook]
+aliases: []
 ---

@@ -1,17 +1,18 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- Quelle/5e/Dungeon_Masters_Guide
-- Gegenstand/Seltenheit/sehr_selten
-- Gegenstand/Tier/major
-- Gegenstand/wundersam
-aliases: ["Mirror of Life Trapping"]
+- Quelle/5e/dmg
+- ttrpg-cli/item/rarity/very-rare
+- ttrpg-cli/item/tier/major
+aliases: 
+- "Mirror of Life Trapping"
 ---
 # Mirror of Life Trapping
-*Wondrous Item, major, very rare*  
+*Wondrous item, major, very rare*  
+![](/3-Mechanics/CLI/items/img/mirror-of-life-trapping.webp#right)
 
-- **Cost**: ⏤
 - **Weight**: 50.0 lbs.
 
 When this 4-foot-tall mirror is viewed indirectly, its surface shows faint images of creatures. The mirror weighs 50 pounds, and it has AC 11, 10 hit points, and vulnerability to bludgeoning damage. It shatters and is destroyed when reduced to 0 hit points.
@@ -28,4 +29,4 @@ While within 5 feet of the mirror, you can use an action to speak the name of on
 
 In a similar way, you can use an action to speak a second command word and free one creature trapped in the mirror. The freed creature appears, along with its possessions, in the unoccupied space nearest to the mirror and facing away from it.
 
-*Source: SRD / Basic Rules*
+*Source: Dungeon Master's Guide p. 181. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

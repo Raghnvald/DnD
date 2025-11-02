@@ -1,9 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- Quelle/5e/Players_Handbook
-aliases: ["The Celtic Pantheon; Celtic Deities"]
+  - Quelle/5e/Players_Handbook
+aliases:
+  - The Celtic Pantheon; Celtic Deities
 ---
 # The Celtic Pantheon; Celtic Deities
 *Source: SRD / Basic Rules* 

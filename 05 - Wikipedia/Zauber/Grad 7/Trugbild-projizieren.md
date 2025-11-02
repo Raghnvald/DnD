@@ -1,13 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Barde
-- Klasse/Magier
-- Zauber/Grad/7
-- Zauber/Schule/Illusion
-aliases: ["Project Image"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Barde
+  - Klasse/Magier
+  - Zauber/Grad/7
+  - Zauber/Schule/Illusion
+aliases:
+  - Project Image
 ---
 # Project Image
 *7th-level, Illusion*  

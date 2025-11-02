@@ -1,12 +1,12 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- Quelle/5e/Monster_Manual
-- Habitat/Arktis
-- Größe/Groß
-- Typ/Monstrosität
-aliases: ["Winter Wolf"]
+  - Quelle/5e/Monster_Manual
+  - Habitat/Arktis
+  - Größe/Groß
+  - Typ/Monstrosität
+aliases:
+  - Winter Wolf
 ---
 # Winter Wolf
 *Source: SRD / Basic Rules*  

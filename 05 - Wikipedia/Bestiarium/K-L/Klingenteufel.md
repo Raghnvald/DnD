@@ -1,21 +1,20 @@
 ---
-cssclasses: 
-- json5e-monster
-prefer-view: 
-- edit-source read
-type: 
-- creature
-tags: 
-- Quelle/5e/Monster_Manual
-- Typ/Unhold/Teufel
-- Größe/Mittelgroß
-- Habitat/Planar/Untere Ebenen
-aliases: 
-- Barbed Devil
+cssclasses:
+  - json5e-monster
+prefer-view:
+  - edit-source read
+type:
+  - creature
+tags:
+  - Quelle/5e/Monster_Manual
+  - Typ/Unhold/Teufel
+  - Größe/Mittelgroß
+  - Habitat/Planar/Untere Ebenen
+aliases:
+  - Barbed Devil
 link:
 status:
-order:
-parent:
+Typ: Unhold
 ---
 # Barbed Devil
 *Source: SRD / Basic Rules*  

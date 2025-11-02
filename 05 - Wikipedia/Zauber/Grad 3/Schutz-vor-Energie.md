@@ -1,16 +1,16 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Kleriker
-- Klasse/Druide
-- Klasse/Waldläufer
-- Klasse/Zauberer
-- Klasse/Magier
-- Zauber/Grad/3
-- Zauber/Schule/Bann
-aliases: ["Protection from Energy"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Kleriker
+  - Klasse/Druide
+  - Klasse/Waldläufer
+  - Klasse/Zauberer
+  - Klasse/Magier
+  - Zauber/Grad/3
+  - Zauber/Schule/Bann
+aliases:
+  - Protection from Energy
 ---
 # Protection from Energy
 *3rd-level, Abjuration*  

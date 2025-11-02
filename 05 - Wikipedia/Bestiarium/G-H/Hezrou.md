@@ -1,11 +1,12 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- Quelle/5e/Monster_Manual
-- Größe/Groß
-- Typ/Unhold/Dämon
-aliases: ["Hezrou"]
+  - Quelle/5e/Monster_Manual
+  - Größe/Groß
+  - Typ/Unhold/Dämon
+aliases:
+  - Hezrou
+Typ: Unhold
 ---
 # Hezrou
 *Source: SRD / Basic Rules*  

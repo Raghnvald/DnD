@@ -1,5 +1,5 @@
 ---
-tags: [Quelle/5e/Curse_of_Strahd]
+tags: [Quelle/5e/cos]
 CoinsCopper: 0
 CoinsElectrum: 1
 CoinsGold: 0

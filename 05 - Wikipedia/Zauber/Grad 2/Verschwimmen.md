@@ -1,13 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Magier
-- Klasse/Zauberer
-- Zauber/Grad/2
-- Zauber/Schule/Illusion
-aliases: ["Blur"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Magier
+  - Klasse/Zauberer
+  - Zauber/Grad/2
+  - Zauber/Schule/Illusion
+aliases:
+  - Blur
 ---
 # Verschwimmen
 ![](../../../99%20-%20Setup/Files/Bildersammlung/Symbolik/Illusionszauber.webp#token)

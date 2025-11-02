@@ -6,19 +6,17 @@ Typ: Bestie
 Größe: Mittelgroß
 HG: 1/4
 status:
-order:
-parent:
-image: 
+image:
 tags:
-- Quelle/5e/Monster_Manual
-- Habitat/Hügel
-- Habitat/Berg
-- Habitat/Unterreich
-- Habitat/Stadt
-- Größe/Mittelgroß
-- Typ/Tier
+  - Quelle/5e/Monster_Manual
+  - Habitat/Hügel
+  - Habitat/Berg
+  - Habitat/Unterreich
+  - Habitat/Stadt
+  - Größe/Mittelgroß
+  - Typ/Tier
 aliases:
-- Swarm of Bats
+  - Swarm of Bats
 ---
 # Swarm of Bats
 *Source: SRD / Basic Rules*  

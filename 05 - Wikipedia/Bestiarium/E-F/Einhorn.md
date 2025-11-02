@@ -1,12 +1,12 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- Quelle/5e/Monster_Manual
-- Habitat/Wald
-- Größe/Groß
-- Typ/Himmlische
-aliases: ["Unicorn"]
+  - Größe/Groß
+  - Habitat/Wald
+  - Quelle/5e/Monster_Manual
+  - Typ/Himmlische
+aliases:
+  - Unicorn
 ---
 # Unicorn
 *Source: SRD / Basic Rules*  

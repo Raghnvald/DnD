@@ -1,14 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Barde
-- Klasse/Zauberer
-- Klasse/Magier
-- Zauber/Grad/2
-- Zauber/Schule/Erkenntnis
-aliases: ["Detect Thoughts"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Barde
+  - Klasse/Zauberer
+  - Klasse/Magier
+  - Zauber/Grad/2
+  - Zauber/Schule/Erkenntnis
+aliases:
+  - Detect Thoughts
 ---
 # Detect Thoughts
 *2nd-level, Divination*  

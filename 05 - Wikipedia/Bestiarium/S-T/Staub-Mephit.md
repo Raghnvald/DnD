@@ -1,20 +1,19 @@
 ---
 cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
-Bezeichnung: 
+Bezeichnung:
 Typ: Elementar
-Größe: 
-HG: 
+Größe:
+HG:
 status:
-order:
-parent:
-image: 
+image:
 tags:
-- Quelle/5e/Monster_Manual
-- Habitat/Wüste
-- Größe/Klein
-- Typ/Elementar
-aliases: ["Dust Mephit"]
+  - Quelle/5e/Monster_Manual
+  - Habitat/Wüste
+  - Größe/Klein
+  - Typ/Elementar
+aliases:
+  - Dust Mephit
 ---
 # Dust Mephit
 *Source: SRD / Basic Rules*  

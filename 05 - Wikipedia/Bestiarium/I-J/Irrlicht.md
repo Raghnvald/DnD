@@ -5,19 +5,14 @@ Bezeichnung:
 Typ: Untoter
 Größe: Winzig
 HG: 2
+Habitat:
+  - Stadt
+  - Sumpf
+  - Wald
 status: WIP
-order:
-parent:
 image:
-tags:
-  - Quelle/5e/Monster_Manual
-  - Habitat/Wald
-  - Habitat/Sumpf
-  - Habitat/Stadt
-  - Größe/Winzig
-  - Typ/Untote
-aliases:
-  - Will-o'-Wisp
+tags: [Quelle/5e/Monster_Manual]
+aliases: [Will-o'-Wisp]
 ---
 # Will-o'-Wisp
 *Source: SRD / Basic Rules*  

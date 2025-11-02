@@ -28,7 +28,7 @@ Beinhaltet:
 
 - a [Rucksack](Rucksack.md)  
 - a [Schlafsack](Schlafsack.md)  
-- a [mess kit](mess-kit.md)  
+- a [mess kit](D&D/05%20-%20Wikipedia/Gegenstände/mess-kit.md)  
 - a [Zunderkästchen](Zunderkästchen.md)  
 - 10 [torches](Fackel.md)  
 - 10 days of [rations](Tagesration.md)  

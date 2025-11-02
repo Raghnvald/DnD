@@ -6,12 +6,12 @@ Typ: Untoter
 Größe: Groß
 HG: 14
 status: WIP
-order:
-parent:
 image:
 tags:
   - Quelle/5e/Monster_Manual
   - Typ/Untote
 aliases:
   - Death Tyrant
+Habitat:
+  - Unterreich
 ---

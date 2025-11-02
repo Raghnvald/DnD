@@ -1,13 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Paladin
-- Klasse/Magier
-- Zauber/Grad/2
-- Zauber/Schule/Verwandlung
-aliases: ["Magic Weapon"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Paladin
+  - Klasse/Magier
+  - Zauber/Grad/2
+  - Zauber/Schule/Verwandlung
+aliases:
+  - Magic Weapon
 ---
 # Magische Waffe
 ![](../../../99%20-%20Setup/Files/Bildersammlung/Symbolik/Verwandlungszauber.webp#token)

@@ -1,20 +1,21 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- Quelle/5e/Monster_Manual
-- Habitat/Arktis
-- Habitat/Küste
-- Habitat/Wüste
-- Habitat/Wald
-- Habitat/Grasland
-- Habitat/Hügel
-- Habitat/Berg
-- Habitat/Sumpf
-- Habitat/Unterreich
-- Größe/Mittelgroß
-- Typ/Humanoid/jede-rasse
-aliases: ["Tribal Warrior"]
+  - Quelle/5e/Monster_Manual
+  - Habitat/Arktis
+  - Habitat/Küste
+  - Habitat/Wüste
+  - Habitat/Wald
+  - Habitat/Grasland
+  - Habitat/Hügel
+  - Habitat/Berg
+  - Habitat/Sumpf
+  - Habitat/Unterreich
+  - Größe/Mittelgroß
+  - Typ/Humanoid/jede-rasse
+aliases:
+  - Tribal Warrior
+Typ: Humanoid
 ---
 # Tribal Warrior
 *Source: SRD / Basic Rules*  

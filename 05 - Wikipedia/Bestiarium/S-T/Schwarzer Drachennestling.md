@@ -1,11 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- Quelle/5e/Monster_Manual
-- Größe/Mittelgroß
-- Typ/Drache
-aliases: ["Black Dragon Wyrmling"]
+  - Quelle/5e/Monster_Manual
+  - Größe/Mittelgroß
+  - Typ/Drache
+aliases:
+  - Black Dragon Wyrmling
 ---
 # Black Dragon Wyrmling
 *Source: SRD / Basic Rules*  

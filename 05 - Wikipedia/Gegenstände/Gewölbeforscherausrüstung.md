@@ -28,7 +28,7 @@ Beinhaltet:
 
 - ein [Rucksack](Rucksack.md)  
 - eine [Brechstange](Brechstange.md)  
-- ein [Hammer](Hammer.md)  
+- ein [Hammer](D&D/05%20-%20Wikipedia/Gegenstände/Hammer.md)  
 - 10 [Kletterhaken](Kletterhaken.md)  
 - 10 [Fackeln](Fackel.md)  
 - ein [Zunderkästchen](Zunderkästchen.md)  

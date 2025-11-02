@@ -1,15 +1,15 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- Quelle/5e/Players_Handbook
-- Klasse/Barde
-- Klasse/Zauberer
-- Klasse/Hexenmeister
-- Klasse/Magier
-- Zauber/Grad/8
-- Zauber/Schule/Verzauberung
-aliases: ["Dominate Monster"]
+  - Quelle/5e/Players_Handbook
+  - Klasse/Barde
+  - Klasse/Zauberer
+  - Klasse/Hexenmeister
+  - Klasse/Magier
+  - Zauber/Grad/8
+  - Zauber/Schule/Verzauberung
+aliases:
+  - Dominate Monster
 ---
 # Dominate Monster
 *8th-level, Enchantment*  

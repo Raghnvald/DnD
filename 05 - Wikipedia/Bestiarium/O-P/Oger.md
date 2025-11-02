@@ -1,20 +1,20 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- Quelle/5e/Monster_Manual
-- Habitat/Arktis
-- Habitat/Berg
-- Habitat/Grasland
-- Habitat/Hügel
-- Habitat/Küste
-- Habitat/Sumpf
-- Habitat/Unterreich
-- Habitat/Wald
-- Habitat/Wüste
-- Größe/Groß
-- Typ/Riese
-aliases: ["Ogre"]
+  - Quelle/5e/Monster_Manual
+  - Habitat/Arktis
+  - Habitat/Berg
+  - Habitat/Grasland
+  - Habitat/Hügel
+  - Habitat/Küste
+  - Habitat/Sumpf
+  - Habitat/Unterreich
+  - Habitat/Wald
+  - Habitat/Wüste
+  - Größe/Groß
+  - Typ/Riese
+aliases:
+  - Ogre
 ---
 ```statblock
 statblock: true

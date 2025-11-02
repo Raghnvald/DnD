@@ -9,11 +9,15 @@ Habitat:
   - Berg
   - Wüste
 status: WIP
-order:
-parent:
 image:
-tags: [Größe/Groß, Habitat/Berg, Habitat/Wüste, Quelle/5e/Monster_Manual, Typ/Elementar]
-aliases: [Air Elemental]
+tags:
+  - Größe/Groß
+  - Habitat/Berg
+  - Habitat/Wüste
+  - Quelle/5e/Monster_Manual
+  - Typ/Elementar
+aliases:
+  - Air Elemental
 ---
 # Air Elemental
 *Source: SRD / Basic Rules*  
