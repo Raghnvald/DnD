@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-note
 tags:
-  - ttrpg-cli/spell/list/class/artificer
+  - Zauber/list/class/artificer
 aliases:
   - Artificer Spells
 ---

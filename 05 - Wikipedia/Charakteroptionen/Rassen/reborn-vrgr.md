@@ -3,7 +3,7 @@ cssclasses:
   - json5e-race
 tags:
   - Quelle/5e/vrgr
-  - ttrpg-cli/race/reborn
+  - Rasse/reborn
 aliases:
   - Reborn
 ---

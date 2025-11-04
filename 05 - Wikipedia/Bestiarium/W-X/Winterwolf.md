@@ -2,9 +2,9 @@
 cssclasses: json5e-monster
 tags:
   - Quelle/5e/Monster_Manual
-  - Habitat/Arktis
-  - Größe/Groß
-  - Typ/Monstrosität
+  - Monster/Habitat/Arktis
+  - Monster/Größe/Groß
+  - Monster/Typ/Monstrosität
 aliases:
   - Winter Wolf
 ---

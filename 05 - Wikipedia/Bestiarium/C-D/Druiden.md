@@ -2,18 +2,18 @@
 cssclasses: json5e-monster
 Typ: Humanoid
 tags:
-  - Größe/Mittelgroß
-  - Habitat/Arktis
-  - Habitat/Berg
-  - Habitat/Grasland
-  - Habitat/Hügel
-  - Habitat/Küste
-  - Habitat/Sumpf
-  - Habitat/Unterreich
-  - Habitat/Wald
-  - Habitat/Wüste
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Arktis
+  - Monster/Habitat/Berg
+  - Monster/Habitat/Grasland
+  - Monster/Habitat/Hügel
+  - Monster/Habitat/Küste
+  - Monster/Habitat/Sumpf
+  - Monster/Habitat/Unterreich
+  - Monster/Habitat/Wald
+  - Monster/Habitat/Wüste
   - Quelle/5e/Monster_Manual
-  - Typ/Humanoid/jede-rasse
+  - Monster/Typ/Humanoid/jede-rasse
 aliases:
   - Druid
 ---

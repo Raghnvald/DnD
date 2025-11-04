@@ -9,9 +9,9 @@ status:
 image:
 tags:
   - Quelle/5e/Monster_Manual
-  - Habitat/Wüste
-  - Größe/Groß
-  - Typ/Elementar
+  - Monster/Habitat/Wüste
+  - Monster/Größe/Groß
+  - Monster/Typ/Elementar
 aliases:
   - Efreeti
 ---

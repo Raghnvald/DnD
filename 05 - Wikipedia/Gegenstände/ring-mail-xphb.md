@@ -4,8 +4,8 @@ cssclasses:
 - json5e-item
 tags:
 - Quelle/5e/xphb
-- ttrpg-cli/item/armor/heavy
-- ttrpg-cli/item/rarity/none
+- Gegenstand/item/armor/heavy
+- Gegenstand/item/rarity/none
 aliases: 
 - "Ring Mail"
 ---

@@ -4,9 +4,9 @@ cssclasses:
 - json5e-deity
 tags:
 - Quelle/5e/phb
-- ttrpg-cli/deity/forgotten-realms
-- Götter/domain/death
-- Götter/domain/trickery
+- Kompendium/Götter/forgotten-realms
+- Kompendium/Götter/domain/death
+- Kompendium/Götter/domain/trickery
 aliases: 
 - Shar
 ---

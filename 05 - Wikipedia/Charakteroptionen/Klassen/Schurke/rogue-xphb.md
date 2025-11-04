@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-class
 tags:
-  - ttrpg-cli/class/rogue
+  - Klasse/class/rogue
   - Quelle/5e/xphb
 aliases:
   - Rogue

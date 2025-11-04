@@ -9,11 +9,11 @@ status:
 image:
 tags:
   - Quelle/5e/Monster_Manual
-  - Habitat/Wüste
-  - Habitat/Hügel
-  - Habitat/Stadt
-  - Größe/Mittelgroß
-  - Typ/Tier
+  - Monster/Habitat/Wüste
+  - Monster/Habitat/Hügel
+  - Monster/Habitat/Stadt
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/Tier
 aliases:
   - Mule
 ---

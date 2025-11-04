@@ -3,7 +3,7 @@ cssclasses:
   - json5e-class
 tags:
   - Quelle/5e/tce
-  - ttrpg-cli/subclass/ranger/swarmkeeper
+  - Klasse/subclass/ranger/swarmkeeper
 aliases:
   - Swarmkeeper
 ---

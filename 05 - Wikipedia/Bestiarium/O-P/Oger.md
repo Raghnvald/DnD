@@ -2,17 +2,17 @@
 cssclasses: json5e-monster
 tags:
   - Quelle/5e/Monster_Manual
-  - Habitat/Arktis
-  - Habitat/Berg
-  - Habitat/Grasland
-  - Habitat/Hügel
-  - Habitat/Küste
-  - Habitat/Sumpf
-  - Habitat/Unterreich
-  - Habitat/Wald
-  - Habitat/Wüste
-  - Größe/Groß
-  - Typ/Riese
+  - Monster/Habitat/Arktis
+  - Monster/Habitat/Berg
+  - Monster/Habitat/Grasland
+  - Monster/Habitat/Hügel
+  - Monster/Habitat/Küste
+  - Monster/Habitat/Sumpf
+  - Monster/Habitat/Unterreich
+  - Monster/Habitat/Wald
+  - Monster/Habitat/Wüste
+  - Monster/Größe/Groß
+  - Monster/Typ/Riese
 aliases:
   - Ogre
 ---

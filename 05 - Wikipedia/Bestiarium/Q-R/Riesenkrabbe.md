@@ -9,9 +9,9 @@ status:
 image:
 tags:
   - Quelle/5e/Monster_Manual
-  - Habitat/Küste
-  - Größe/Mittelgroß
-  - Typ/Tier
+  - Monster/Habitat/Küste
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/Tier
 aliases:
   - Giant Crab
 ---

@@ -9,10 +9,10 @@ status:
 image:
 tags:
   - Quelle/5e/Monster_Manual
-  - Habitat/Wald
-  - Habitat/Grasland
-  - Größe/Mittelgroß
-  - Typ/Tier
+  - Monster/Habitat/Wald
+  - Monster/Habitat/Grasland
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/Tier
 aliases:
   - Deer
 ---

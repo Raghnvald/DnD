@@ -1,10 +1,10 @@
 ---
 cssclasses: json5e-monster
 tags:
-  - Größe/Groß
-  - Habitat/Wüste
+  - Monster/Größe/Groß
+  - Monster/Habitat/Wüste
   - Quelle/5e/Monster_Manual
-  - Typ/Monstrosität
+  - Monster/Typ/Monstrosität
 aliases:
   - Androsphinx
 ---

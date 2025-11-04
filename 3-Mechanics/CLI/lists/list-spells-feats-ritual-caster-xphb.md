@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-note
 tags:
-  - ttrpg-cli/spell/list/feat/ritual-caster
+  - Zauber/list/feat/ritual-caster
 aliases:
   - Spells for Ritual Caster
 ---

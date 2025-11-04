@@ -3,8 +3,8 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/xdmg
-  - ttrpg-cli/item/attunement/required
-  - ttrpg-cli/item/rarity/artifact
+  - Gegenstand/item/attunement/required
+  - Gegenstand/item/rarity/artifact
 aliases:
   - Book of Exalted Deeds
 ---

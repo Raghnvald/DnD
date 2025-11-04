@@ -2,9 +2,9 @@
 cssclasses: json5e-monster
 tags:
   - Quelle/5e/Monster_Manual
-  - Habitat/Arktis
-  - Größe/Gigantisch
-  - Typ/Drache
+  - Monster/Habitat/Arktis
+  - Monster/Größe/Gigantisch
+  - Monster/Typ/Drache
 aliases:
   - Ancient White Dragon
 ---

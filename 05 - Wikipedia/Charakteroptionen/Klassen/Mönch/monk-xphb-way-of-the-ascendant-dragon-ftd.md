@@ -3,7 +3,7 @@ cssclasses:
   - json5e-class
 tags:
   - Quelle/5e/ftd
-  - ttrpg-cli/subclass/monk/ascendant-dragon
+  - Klasse/subclass/monk/ascendant-dragon
 aliases:
   - Way of the Ascendant Dragon
 ---

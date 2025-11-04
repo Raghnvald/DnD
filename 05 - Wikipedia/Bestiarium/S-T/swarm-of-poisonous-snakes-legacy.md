@@ -9,10 +9,10 @@ status:
 image:
 tags:
   - Quelle/5e/Monster_Manual
-  - Habitat/Wald
-  - Habitat/Sumpf
-  - Größe/Mittelgroß
-  - Typ/Tier
+  - Monster/Habitat/Wald
+  - Monster/Habitat/Sumpf
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/Tier
 aliases:
   - Swarm of Poisonous Snakes
 ---

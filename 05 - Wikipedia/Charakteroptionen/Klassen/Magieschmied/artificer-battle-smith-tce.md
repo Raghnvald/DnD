@@ -3,7 +3,7 @@ cssclasses:
   - json5e-class
 tags:
   - Quelle/5e/tce
-  - ttrpg-cli/subclass/artificer/battle-smith
+  - Klasse/subclass/artificer/battle-smith
 aliases:
   - Battle Smith
 ---

@@ -9,9 +9,9 @@ status:
 image:
 tags:
   - Quelle/5e/Monster_Manual
-  - Habitat/Sumpf
-  - Größe/Riesig
-  - Typ/Tier
+  - Monster/Habitat/Sumpf
+  - Monster/Größe/Riesig
+  - Monster/Typ/Tier
 aliases:
   - Giant Crocodile
 ---

@@ -4,17 +4,17 @@ cssclasses:
 - json5e-item
 tags:
 - Quelle/5e/dmg
-- ttrpg-cli/item/age/futuristic
-- ttrpg-cli/item/age/modern
-- ttrpg-cli/item/age/renaissance
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/uncommon
-- ttrpg-cli/item/tier/major
-- ttrpg-cli/item/weapon/martial
-- ttrpg-cli/item/weapon/melee
-- ttrpg-cli/item/weapon/ranged
-- ttrpg-cli/item/weapon/simple
-- ttrpg-cli/item/wondrous/generic-variant
+- Gegenstand/item/age/futuristic
+- Gegenstand/item/age/modern
+- Gegenstand/item/age/renaissance
+- Gegenstand/item/attunement/required
+- Gegenstand/item/rarity/uncommon
+- Gegenstand/item/tier/major
+- Gegenstand/item/weapon/martial
+- Gegenstand/item/weapon/melee
+- Gegenstand/item/weapon/ranged
+- Gegenstand/item/weapon/simple
+- Gegenstand/item/wondrous/generic-variant
 aliases: 
 - "Weapon of Warning"
 - "Antimatter Rifle of Warning"

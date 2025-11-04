@@ -9,12 +9,12 @@ status:
 image:
 tags:
   - Quelle/5e/Monster_Manual
-  - Habitat/Grasland
-  - Habitat/Hügel
-  - Habitat/Berg
-  - Habitat/Stadt
-  - Größe/Mittelgroß
-  - Typ/Tier
+  - Monster/Habitat/Grasland
+  - Monster/Habitat/Hügel
+  - Monster/Habitat/Berg
+  - Monster/Habitat/Stadt
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/Tier
 aliases:
   - Goat
 ---

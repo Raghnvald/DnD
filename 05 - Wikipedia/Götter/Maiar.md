@@ -2,10 +2,10 @@
 cssclasses: json5e-deity
 tags:
   - Quelle/5e/Players_Handbook
-  - Götter
-  - Götter/Gesinnung/Chaotisch_Böse
-  - Götter/Pantheon/Faerun
-  - Götter/Domäne/Natur
+  - Kompendium/Götter
+  - Kompendium/Götter/Gesinnung/Chaotisch_Böse
+  - Kompendium/Götter/Pantheon/Faerun
+  - Kompendium/Götter/Domäne/Natur
 aliases:
   - Maiar
 ---

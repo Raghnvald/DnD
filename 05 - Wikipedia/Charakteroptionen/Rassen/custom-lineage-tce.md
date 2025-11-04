@@ -3,7 +3,7 @@ cssclasses:
   - json5e-race
 tags:
   - Quelle/5e/tce
-  - ttrpg-cli/race/custom-lineage
+  - Rasse/custom-lineage
 aliases:
   - Custom Lineage
 ---

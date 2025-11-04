@@ -3,7 +3,7 @@ cssclasses:
   - json5e-class
 tags:
   - Quelle/5e/xge
-  - ttrpg-cli/subclass/bard/swords
+  - Klasse/subclass/bard/swords
 aliases:
   - College of Swords
 ---

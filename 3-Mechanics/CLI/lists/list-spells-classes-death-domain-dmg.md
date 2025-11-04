@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-note
 tags:
-  - ttrpg-cli/spell/list/subclass/death-domain
+  - Zauber/list/subclass/death-domain
 aliases:
   - Spells for Death Domain
 ---

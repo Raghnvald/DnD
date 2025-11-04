@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-note
 tags:
-  - ttrpg-cli/spell/list/subclass/swarmkeeper
+  - Zauber/list/subclass/swarmkeeper
 aliases:
   - Spells for Swarmkeeper
 ---

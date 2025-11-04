@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/subclass/the-archfey
+- Zauber/list/subclass/the-archfey
 aliases:
 - Spells for The Archfey
 ---

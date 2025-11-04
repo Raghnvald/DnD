@@ -4,9 +4,9 @@ cssclasses:
 - json5e-deity
 tags:
 - Quelle/5e/phb
-- ttrpg-cli/deity/dragonlance
-- Götter/domain/nature
-- Götter/domain/tempest
+- Kompendium/Götter/dragonlance
+- Kompendium/Götter/domain/nature
+- Kompendium/Götter/domain/tempest
 aliases: 
 - Habbakuk
 ---

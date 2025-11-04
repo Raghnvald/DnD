@@ -3,9 +3,9 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/cos
-  - ttrpg-cli/item/rarity/rare
-  - ttrpg-cli/item/shield/
-  - ttrpg-cli/item/tier/major
+  - Gegenstand/item/rarity/rare
+  - Gegenstand/item/shield/
+  - Gegenstand/item/tier/major
 aliases:
   - Shield of the Silver Dragon
 ---

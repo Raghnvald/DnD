@@ -9,9 +9,9 @@ status:
 image:
 tags:
   - Quelle/5e/Monster_Manual
-  - Habitat/Unterreich
-  - Größe/Klein
-  - Typ/Elementar
+  - Monster/Habitat/Unterreich
+  - Monster/Größe/Klein
+  - Monster/Typ/Elementar
 aliases:
   - Magma Mephit
 ---
@@ -19,7 +19,7 @@ aliases:
 *Source: SRD / Basic Rules*  
 
 > [!statblock] Magma Mephit
-> ![](Magma-Mephit.webp#token)
+> ![](D&D/05%20-%20Wikipedia/Bestiarium/00-token/Magma-Mephit.webp#token)
 > *Small elemental, Neutral Evil*
 > 
 > - **Armor Class** 11 

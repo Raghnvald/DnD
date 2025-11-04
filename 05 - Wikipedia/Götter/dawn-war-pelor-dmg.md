@@ -4,9 +4,9 @@ cssclasses:
 - json5e-deity
 tags:
 - Quelle/5e/dmg
-- ttrpg-cli/deity/dawn-war
-- Götter/domain/life
-- Götter/domain/light
+- Kompendium/Götter/dawn-war
+- Kompendium/Götter/domain/life
+- Kompendium/Götter/domain/light
 aliases: 
 - Pelor
 ---

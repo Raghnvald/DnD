@@ -4,9 +4,9 @@ cssclasses:
 - json5e-deity
 tags:
 - Quelle/5e/phb
-- ttrpg-cli/deity/greek
-- Götter/domain/life
-- Götter/domain/nature
+- Kompendium/Götter/greek
+- Kompendium/Götter/domain/life
+- Kompendium/Götter/domain/nature
 aliases: 
 - Artemis
 ---

@@ -9,14 +9,14 @@ status:
 image:
 tags:
   - Quelle/5e/Monster_Manual
-  - Habitat/Küste
-  - Habitat/Wüste
-  - Habitat/Wald
-  - Habitat/Grasland
-  - Habitat/Hügel
-  - Habitat/Sumpf
-  - Größe/Winzig
-  - Typ/Tier
+  - Monster/Habitat/Küste
+  - Monster/Habitat/Wüste
+  - Monster/Habitat/Wald
+  - Monster/Habitat/Grasland
+  - Monster/Habitat/Hügel
+  - Monster/Habitat/Sumpf
+  - Monster/Größe/Winzig
+  - Monster/Typ/Tier
 aliases:
   - Poisonous Snake
 ---

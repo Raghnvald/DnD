@@ -9,12 +9,12 @@ status:
 image:
 tags:
   - Quelle/5e/Monster_Manual
-  - Habitat/Wald
-  - Habitat/Hügel
-  - Habitat/Sumpf
-  - Habitat/Stadt
-  - Größe/Mittelgroß
-  - Typ/Tier
+  - Monster/Habitat/Wald
+  - Monster/Habitat/Hügel
+  - Monster/Habitat/Sumpf
+  - Monster/Habitat/Stadt
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/Tier
 aliases:
   - Swarm of Ravens
 ---

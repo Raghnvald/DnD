@@ -9,9 +9,9 @@ status:
 image:
 tags:
   - Quelle/5e/Monster_Manual
-  - Habitat/Unterreich
-  - Größe/Mittelgroß
-  - Typ/Elementar
+  - Monster/Habitat/Unterreich
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/Elementar
 aliases:
   - Xorn
 ---

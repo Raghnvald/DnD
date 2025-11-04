@@ -4,9 +4,9 @@ cssclasses:
 - json5e-deity
 tags:
 - Quelle/5e/phb
-- ttrpg-cli/deity/greyhawk
-- Götter/domain/knowledge
-- Götter/domain/peace
+- Kompendium/Götter/greyhawk
+- Kompendium/Götter/domain/knowledge
+- Kompendium/Götter/domain/peace
 aliases: 
 - Rao
 ---

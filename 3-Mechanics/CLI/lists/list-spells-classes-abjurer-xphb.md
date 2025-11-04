@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-note
 tags:
-  - ttrpg-cli/spell/list/subclass/abjurer
+  - Zauber/list/subclass/abjurer
 aliases:
   - Spells for Abjurer
 ---

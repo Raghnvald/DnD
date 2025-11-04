@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/subclass/shadow-magic
+- Zauber/list/subclass/shadow-magic
 aliases:
 - Spells for Shadow Magic
 ---

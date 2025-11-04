@@ -4,7 +4,7 @@ cssclasses:
 - json5e-reward
 tags:
 - Quelle/5e/xdmg
-- ttrpg-cli/reward/blessing
+- Kompendium/reward/blessing
 aliases:
 - Blessing of Valhalla
 ---

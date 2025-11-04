@@ -3,7 +3,7 @@ cssclasses:
   - json5e-class
 tags:
   - Quelle/5e/xphb
-  - ttrpg-cli/subclass/druid/moon
+  - Klasse/subclass/druid/moon
 aliases:
   - Circle of the Moon
 ---

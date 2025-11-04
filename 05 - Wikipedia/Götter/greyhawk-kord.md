@@ -4,9 +4,9 @@ cssclasses:
 - json5e-deity
 tags:
 - Quelle/5e/phb
-- ttrpg-cli/deity/greyhawk
-- Götter/domain/tempest
-- Götter/domain/war
+- Kompendium/Götter/greyhawk
+- Kompendium/Götter/domain/tempest
+- Kompendium/Götter/domain/war
 aliases: 
 - Kord
 ---

@@ -8,12 +8,12 @@ HG:
 status:
 image:
 tags:
-  - Größe/Groß
-  - Habitat/Grasland
-  - Habitat/Hügel
-  - Habitat/Wald
+  - Monster/Größe/Groß
+  - Monster/Habitat/Grasland
+  - Monster/Habitat/Hügel
+  - Monster/Habitat/Wald
   - Quelle/5e/Monster_Manual
-  - Typ/Tier
+  - Monster/Typ/Tier
 aliases:
   - Elk
 ---

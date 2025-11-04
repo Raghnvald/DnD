@@ -3,9 +3,9 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/xdmg
-  - ttrpg-cli/item/attunement/required
-  - ttrpg-cli/item/rarity/very-rare
-  - ttrpg-cli/item/shield/
+  - Gegenstand/item/attunement/required
+  - Gegenstand/item/rarity/very-rare
+  - Gegenstand/item/shield/
 aliases:
   - Shield of the Cavalier
 ---

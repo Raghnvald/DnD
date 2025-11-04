@@ -2,10 +2,10 @@
 cssclasses:
   - json5e-monster
 tags:
-  - Größe/Klein
-  - Habitat/Stadt
+  - Monster/Größe/Klein
+  - Monster/Habitat/Stadt
   - Quelle/5e/cos
-  - Typ/Konstrukt
+  - Monster/Typ/Konstrukt
 aliases:
   - Broom of animated attack
 ---

@@ -9,13 +9,13 @@ status:
 image:
 tags:
   - Quelle/5e/Monster_Manual
-  - Habitat/Küste
-  - Habitat/Wüste
-  - Habitat/Wald
-  - Habitat/Sumpf
-  - Habitat/Unterreich
-  - Größe/Groß
-  - Typ/Tier
+  - Monster/Habitat/Küste
+  - Monster/Habitat/Wüste
+  - Monster/Habitat/Wald
+  - Monster/Habitat/Sumpf
+  - Monster/Habitat/Unterreich
+  - Monster/Größe/Groß
+  - Monster/Typ/Tier
 aliases:
   - Giant Toad
 ---

@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-class
 tags:
-  - ttrpg-cli/class/expert-sidekick
+  - Klasse/class/expert-sidekick
   - Quelle/5e/tce
 aliases:
   - Expert Sidekick

@@ -4,7 +4,7 @@ cssclasses:
 - json5e-class
 tags:
 - Quelle/5e/phb
-- ttrpg-cli/subclass/fighter/battle-master
+- Klasse/subclass/fighter/battle-master
 aliases:
 - Battle Master
 ---

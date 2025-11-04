@@ -3,7 +3,7 @@ cssclasses:
   - json5e-class
 tags:
   - Quelle/5e/xphb
-  - ttrpg-cli/subclass/paladin/vengeance
+  - Klasse/subclass/paladin/vengeance
 aliases:
   - Oath of Vengeance
 ---

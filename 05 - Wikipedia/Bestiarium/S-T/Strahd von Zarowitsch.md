@@ -39,7 +39,7 @@ Wann immer Strahd an einen Ort außer seinem Grabmal oder dem beim Kartenlesen a
 | 7-9   | `dice: 1d4 + 2` [Strahdzombies](Strahdzombie.md)                     |
 | 10-12 | `dice: 2d4` [Schwärme von Fledermäusen](Schwarm%20von%20Fledermäusen.md) |
 | 13-15 | `dice: 1d4 + 1` [Vampirbrut](Vampirbrut.md)                          |
-| 16-18 | `dice: 3d6` [Wölfe](Wolf.md)                                         |
+| 16-18 | `dice: 3d6` [Wölfe](D&D/05%20-%20Wikipedia/Bestiarium/W-X/Wolf.md)                                         |
 | 19-20 | keine                                                                | 
 ^Strahds-Schergen
 

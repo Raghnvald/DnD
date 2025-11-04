@@ -3,7 +3,7 @@ cssclasses:
   - json5e-feat
 tags:
   - Quelle/5e/xphb
-  - ttrpg-cli/feat
+  - Kompendium/feat
 aliases:
   - Crafter
 ---

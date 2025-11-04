@@ -3,7 +3,7 @@ cssclasses:
   - json5e-class
 tags:
   - Quelle/5e/xge
-  - ttrpg-cli/subclass/sorcerer/divine-soul
+  - Klasse/subclass/sorcerer/divine-soul
 aliases:
   - Divine Soul
 ---

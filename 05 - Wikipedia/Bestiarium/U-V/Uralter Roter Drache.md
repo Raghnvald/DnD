@@ -2,10 +2,10 @@
 cssclasses: json5e-monster
 tags:
   - Quelle/5e/Monster_Manual
-  - Habitat/Hügel
-  - Habitat/Berg
-  - Größe/Gigantisch
-  - Typ/Drache
+  - Monster/Habitat/Hügel
+  - Monster/Habitat/Berg
+  - Monster/Größe/Gigantisch
+  - Monster/Typ/Drache
 aliases:
   - Ancient Red Dragon
 ---

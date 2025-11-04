@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-note
 tags:
-  - ttrpg-cli/spell/list/subclass/twilight-domain
+  - Zauber/list/subclass/twilight-domain
 aliases:
   - Spells for Twilight Domain
 ---

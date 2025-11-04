@@ -3,7 +3,7 @@ cssclasses:
   - json5e-class
 tags:
   - Quelle/5e/xge
-  - ttrpg-cli/subclass/ranger/monster-slayer
+  - Klasse/subclass/ranger/monster-slayer
 aliases:
   - Monster Slayer
 ---

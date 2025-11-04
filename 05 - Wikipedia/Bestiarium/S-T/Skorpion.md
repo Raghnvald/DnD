@@ -9,9 +9,9 @@ status:
 image:
 tags:
   - Quelle/5e/Monster_Manual
-  - Habitat/Wüste
-  - Größe/Winzig
-  - Typ/Tier
+  - Monster/Habitat/Wüste
+  - Monster/Größe/Winzig
+  - Monster/Typ/Tier
 aliases:
   - Scorpion
 ---

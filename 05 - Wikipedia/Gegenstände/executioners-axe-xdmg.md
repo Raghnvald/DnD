@@ -3,11 +3,11 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/xdmg
-  - ttrpg-cli/item/rarity/very-rare
-  - ttrpg-cli/item/weapon/martial
-  - ttrpg-cli/item/weapon/melee
-  - ttrpg-cli/item/weapon/simple
-  - ttrpg-cli/item/wondrous/generic-variant
+  - Gegenstand/item/rarity/very-rare
+  - Gegenstand/item/weapon/martial
+  - Gegenstand/item/weapon/melee
+  - Gegenstand/item/weapon/simple
+  - Gegenstand/item/wondrous/generic-variant
 aliases:
   - Executioner's Axe
   - Executioner's Battleaxe

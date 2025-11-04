@@ -1,0 +1,69 @@
+---
+cssclasses:
+  - json5e-monster
+tags:
+  - Quelle/5e/mpmm
+  - Monster/cr/2
+  - Monster/environment/arctic
+  - Monster/environment/desert
+  - Monster/environment/forest
+  - Monster/environment/mountain
+  - Monster/environment/swamp
+  - Monster/environment/underdark
+  - Monster/environment/urban
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/Drache
+statblock: inline
+statblock-link: "#^statblock"
+aliases:
+  - Guard Drake (Black)
+---
+# [Guard Drake (Black)](3-Mechanics\CLI\bestiary\dragon/guard-drake-black-mpmm.md)
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 151*  
+
+```statblock
+"name": "Guard Drake (Black) (MPMM)"
+"size": "Medium"
+"type": "dragon"
+"alignment": "Unaligned"
+"ac": !!int "14"
+"ac_class": "natural armor"
+"hp": !!int "52"
+"hit_dice": "7d8 + 21"
+"modifier": !!int "0"
+"stats":
+  - !!int "16"
+  - !!int "11"
+  - !!int "16"
+  - !!int "4"
+  - !!int "10"
+  - !!int "7"
+"speed": "30 ft., swim 30 ft."
+"skillsaves":
+  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+    "desc": "+2"
+"damage_resistances": "acid"
+"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
+  \ 12"
+"languages": "understands Draconic but can't speak"
+"cr": "2"
+"traits":
+  - "desc": "The drake can breathe air and water."
+    "name": "Amphibious"
+"actions":
+  - "desc": "The guard drake makes one Bite attack and one Tail attack."
+    "name": "Multiattack"
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d8\
+      \ + 3) piercing damage."
+    "name": "Bite"
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6\
+      \ + 3) bludgeoning damage."
+    "name": "Tail"
+"source":
+  - "MPMM"
+```
+^statblock
+
+## Environment
+
+arctic, desert, forest, mountain, swamp, underdark, urban

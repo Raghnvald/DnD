@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-note
 tags:
-  - ttrpg-cli/spell/list/subclass/the-hexblade
+  - Zauber/list/subclass/the-hexblade
 aliases:
   - Spells for The Hexblade
 ---

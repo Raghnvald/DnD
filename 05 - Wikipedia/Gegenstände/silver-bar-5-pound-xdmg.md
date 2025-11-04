@@ -4,8 +4,8 @@ cssclasses:
 - json5e-item
 tags:
 - Quelle/5e/xdmg
-- ttrpg-cli/item/gear/trade-bar
-- ttrpg-cli/item/rarity/none
+- Gegenstand/item/gear/trade-bar
+- Gegenstand/item/rarity/none
 aliases: 
 - "Silver Bar (5-pound)"
 ---

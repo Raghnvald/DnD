@@ -9,10 +9,10 @@ status:
 image:
 tags:
   - Quelle/5e/Monster_Manual
-  - Habitat/Arktis
-  - Habitat/Berg
-  - Größe/Groß
-  - Typ/Tier
+  - Monster/Habitat/Arktis
+  - Monster/Habitat/Berg
+  - Monster/Größe/Groß
+  - Monster/Typ/Tier
 aliases:
   - Saber-Toothed Tiger
 ---

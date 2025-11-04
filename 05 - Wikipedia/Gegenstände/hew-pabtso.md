@@ -3,9 +3,9 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/pabtso
-  - ttrpg-cli/item/rarity/uncommon
-  - ttrpg-cli/item/weapon/martial
-  - ttrpg-cli/item/weapon/melee
+  - Gegenstand/item/rarity/uncommon
+  - Gegenstand/item/weapon/martial
+  - Gegenstand/item/weapon/melee
 aliases:
   - Hew
 ---

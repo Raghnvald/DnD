@@ -3,8 +3,8 @@ cssclasses:
   - json5e-class
 tags:
   - Quelle/5e/tce
-  - Götter/domain/peace
-  - ttrpg-cli/subclass/cleric/peace
+  - Kompendium/Götter/domain/peace
+  - Klasse/subclass/cleric/peace
 aliases:
   - Peace Domain
 ---

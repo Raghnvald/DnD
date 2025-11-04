@@ -9,12 +9,12 @@ status:
 image:
 tags:
   - Quelle/5e/Monster_Manual
-  - Habitat/Hügel
-  - Habitat/Berg
-  - Habitat/Unterreich
-  - Habitat/Stadt
-  - Größe/Mittelgroß
-  - Typ/Tier
+  - Monster/Habitat/Hügel
+  - Monster/Habitat/Berg
+  - Monster/Habitat/Unterreich
+  - Monster/Habitat/Stadt
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/Tier
 aliases:
   - Swarm of Bats
 ---

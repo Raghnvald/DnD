@@ -5,10 +5,10 @@ prefer-view:
   - edit-source read
 status:
 tags:
-  - Größe/Mittelgroß
-  - Habitat/Jedes
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Jedes
   - Quelle/5e/Monster_Manual
-  - Typ/Unhold
+  - Monster/Typ/Unhold
 aliases:
   - Cambion
 link:

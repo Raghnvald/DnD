@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/race/githyanki
+- Zauber/list/race/githyanki
 aliases:
 - Spells for Githyanki
 ---

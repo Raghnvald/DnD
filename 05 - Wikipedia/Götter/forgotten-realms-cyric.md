@@ -4,8 +4,8 @@ cssclasses:
 - json5e-deity
 tags:
 - Quelle/5e/phb
-- ttrpg-cli/deity/forgotten-realms
-- Götter/domain/trickery
+- Kompendium/Götter/forgotten-realms
+- Kompendium/Götter/domain/trickery
 aliases: 
 - Cyric
 ---

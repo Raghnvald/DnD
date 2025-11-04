@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-note
 tags:
-  - ttrpg-cli/spell/list/subclass/monster-slayer
+  - Zauber/list/subclass/monster-slayer
 aliases:
   - Spells for Monster Slayer
 ---

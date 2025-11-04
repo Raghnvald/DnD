@@ -3,10 +3,10 @@ cssclasses: json5e-monster
 tags:
   - DnD/Kompendium/Quelle/5e/MM 2014
   - DnD/Kompendium/Quelle/5e/MM 2024
-  - Habitat/Jedes
-  - Größe/Klein
-  - Größe/Mittelgroß
-  - Typ/Humanoid
+  - Monster/Habitat/Jedes
+  - Monster/Größe/Klein
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/Humanoid
 aliases:
   - Mage
 Typ: Humanoid

@@ -1,11 +1,11 @@
 ---
 cssclasses: json5e-monster
 tags:
-  - Größe/Riesig
-  - Habitat/Grasland
-  - Habitat/Wald
+  - Monster/Größe/Riesig
+  - Monster/Habitat/Grasland
+  - Monster/Habitat/Wald
   - Quelle/5e/Monster_Manual
-  - Typ/Drache
+  - Monster/Typ/Drache
 aliases:
   - Adult Gold Dragon
 ---

@@ -7,8 +7,8 @@ type:
   - creature
 tags:
   - Quelle/5e/Monster_Manual
-  - Typ/Unhold/Teufel
-  - Größe/Mittelgroß
+  - Monster/Typ/Unhold/Teufel
+  - Monster/Größe/Mittelgroß
   - Habitat/Planar/Untere Ebenen
 aliases:
   - Barbed Devil

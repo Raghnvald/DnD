@@ -2,10 +2,10 @@
 cssclasses: json5e-deity
 tags:
   - Quelle/5e/Players_Handbook
-  - Götter
-  - Götter/Gesinnung/Chaotisch_Neutral
-  - Götter/Pantheon/Faerun
-  - Götter/Domäne/List
+  - Kompendium/Götter
+  - Kompendium/Götter/Gesinnung/Chaotisch_Neutral
+  - Kompendium/Götter/Pantheon/Faerun
+  - Kompendium/Götter/Domäne/List
 aliases:
   - Mask
 ---

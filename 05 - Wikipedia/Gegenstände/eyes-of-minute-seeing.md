@@ -4,8 +4,8 @@ cssclasses:
 - json5e-item
 tags:
 - Quelle/5e/dmg
-- ttrpg-cli/item/rarity/uncommon
-- ttrpg-cli/item/tier/minor
+- Gegenstand/item/rarity/uncommon
+- Gegenstand/item/tier/minor
 aliases: 
 - "Eyes of Minute Seeing"
 ---

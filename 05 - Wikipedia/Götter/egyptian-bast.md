@@ -4,8 +4,8 @@ cssclasses:
 - json5e-deity
 tags:
 - Quelle/5e/phb
-- ttrpg-cli/deity/egyptian
-- Götter/domain/war
+- Kompendium/Götter/egyptian
+- Kompendium/Götter/domain/war
 aliases: 
 - Bast
 ---

@@ -4,7 +4,7 @@ cssclasses:
 - json5e-class
 tags:
 - Quelle/5e/phb
-- ttrpg-cli/subclass/fighter/eldritch-knight
+- Klasse/subclass/fighter/eldritch-knight
 aliases:
 - Eldritch Knight
 ---

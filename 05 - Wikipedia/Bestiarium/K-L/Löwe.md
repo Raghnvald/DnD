@@ -9,12 +9,12 @@ status:
 image:
 tags:
   - Quelle/5e/Monster_Manual
-  - Habitat/Wüste
-  - Habitat/Grasland
-  - Habitat/Hügel
-  - Habitat/Berg
-  - Größe/Groß
-  - Typ/Tier
+  - Monster/Habitat/Wüste
+  - Monster/Habitat/Grasland
+  - Monster/Habitat/Hügel
+  - Monster/Habitat/Berg
+  - Monster/Größe/Groß
+  - Monster/Typ/Tier
 aliases:
   - Lion
 ---

@@ -1,7 +1,7 @@
 ---
 tags:
   - Quelle/5e/Monster_Manual
-  - Typ/Unhold/Yugoloth
+  - Monster/Typ/Unhold/Yugoloth
 aliases:
   - 
 Typ: Unhold

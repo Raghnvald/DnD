@@ -1,18 +1,18 @@
 ---
 cssclasses: json5e-monster
 tags:
-  - Größe/Winzig
-  - Habitat/Berg
-  - Habitat/Grasland
-  - Habitat/Hügel
-  - Habitat/Küste
-  - Habitat/Stadt
-  - Habitat/Sumpf
-  - Habitat/Unterreich
-  - Habitat/Wald
-  - Habitat/Wüste
+  - Monster/Größe/Winzig
+  - Monster/Habitat/Berg
+  - Monster/Habitat/Grasland
+  - Monster/Habitat/Hügel
+  - Monster/Habitat/Küste
+  - Monster/Habitat/Stadt
+  - Monster/Habitat/Sumpf
+  - Monster/Habitat/Unterreich
+  - Monster/Habitat/Wald
+  - Monster/Habitat/Wüste
   - Quelle/5e/Monster_Manual
-  - Typ/Tier
+  - Monster/Typ/Tier
 aliases:
   - Stirge
 ---

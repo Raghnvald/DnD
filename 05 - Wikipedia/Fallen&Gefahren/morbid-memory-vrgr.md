@@ -3,7 +3,7 @@ cssclasses:
   - json5e-hazard
 tags:
   - Quelle/5e/vrgr
-  - ttrpg-cli/hazard/haunt
+  - Kompendium/hazard/haunt
 aliases:
   - Morbid Memory
 ---

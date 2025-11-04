@@ -4,9 +4,9 @@ cssclasses:
 - json5e-item
 tags:
 - Quelle/5e/bgdia
-- ttrpg-cli/item/rarity/unknown/magic
-- ttrpg-cli/item/weapon/melee
-- ttrpg-cli/item/weapon/simple
+- Gegenstand/item/rarity/unknown/magic
+- Gegenstand/item/weapon/melee
+- Gegenstand/item/weapon/simple
 aliases: 
 - "Candle Mace"
 ---

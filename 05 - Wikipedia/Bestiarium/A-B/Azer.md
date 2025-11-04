@@ -8,9 +8,9 @@ HG:
 status:
 image:
 tags:
-  - Größe/Mittelgroß
+  - Monster/Größe/Mittelgroß
   - Quelle/5e/Monster_Manual
-  - Typ/Elementar
+  - Monster/Typ/Elementar
 aliases:
   - Azer
 ---

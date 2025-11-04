@@ -9,9 +9,9 @@ status:
 image:
 tags:
   - Quelle/5e/Monster_Manual
-  - Habitat/Wüste
-  - Größe/Klein
-  - Typ/Elementar
+  - Monster/Habitat/Wüste
+  - Monster/Größe/Klein
+  - Monster/Typ/Elementar
 aliases:
   - Dust Mephit
 ---

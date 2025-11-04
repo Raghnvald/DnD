@@ -2,9 +2,9 @@
 cssclasses: json5e-monster
 tags:
   - Quelle/5e/Monster_Manual
-  - Habitat/Unterreich
-  - Größe/Groß
-  - Typ/Monstrosität
+  - Monster/Habitat/Unterreich
+  - Monster/Größe/Groß
+  - Monster/Typ/Monstrosität
 aliases:
   - Roper
 ---

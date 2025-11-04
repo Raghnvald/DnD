@@ -3,8 +3,8 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/tce
-  - ttrpg-cli/item/rarity/common
-  - ttrpg-cli/item/wondrous/tattoo
+  - Gegenstand/item/rarity/common
+  - Gegenstand/item/wondrous/tattoo
 aliases:
   - Spellwrought Tattoo (Cantrip)
 ---

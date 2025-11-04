@@ -4,8 +4,8 @@ cssclasses:
 - json5e-deity
 tags:
 - Quelle/5e/phb
-- ttrpg-cli/deity/dragonlance
-- Götter/domain/nature
+- Kompendium/Götter/dragonlance
+- Kompendium/Götter/domain/nature
 aliases: 
 - Sirrion
 ---

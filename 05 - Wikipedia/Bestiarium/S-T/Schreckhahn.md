@@ -2,9 +2,9 @@
 cssclasses: json5e-monster
 tags:
   - Quelle/5e/Monster_Manual
-  - Habitat/Grasland
-  - Größe/Klein
-  - Typ/Monstrosität
+  - Monster/Habitat/Grasland
+  - Monster/Größe/Klein
+  - Monster/Typ/Monstrosität
 aliases:
   - Cockatrice
 ---

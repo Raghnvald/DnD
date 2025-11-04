@@ -2,13 +2,13 @@
 cssclasses: json5e-monster
 tags:
   - Quelle/5e/Monster_Manual
-  - Habitat/Arktis
-  - Habitat/Küste
-  - Habitat/Wüste
-  - Habitat/Hügel
-  - Habitat/Berg
-  - Größe/Gigantisch
-  - Typ/Monstrosität
+  - Monster/Habitat/Arktis
+  - Monster/Habitat/Küste
+  - Monster/Habitat/Wüste
+  - Monster/Habitat/Hügel
+  - Monster/Habitat/Berg
+  - Monster/Größe/Gigantisch
+  - Monster/Typ/Monstrosität
 aliases:
   - Roc
 ---

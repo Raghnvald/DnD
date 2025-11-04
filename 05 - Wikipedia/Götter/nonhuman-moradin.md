@@ -4,9 +4,9 @@ cssclasses:
 - json5e-deity
 tags:
 - Quelle/5e/phb
-- ttrpg-cli/deity/nonhuman
-- Götter/domain/forge
-- Götter/domain/knowledge
+- Kompendium/Götter/nonhuman
+- Kompendium/Götter/domain/forge
+- Kompendium/Götter/domain/knowledge
 aliases: 
 - Moradin
 ---

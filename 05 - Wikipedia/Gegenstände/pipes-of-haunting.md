@@ -4,9 +4,9 @@ cssclasses:
 - json5e-item
 tags:
 - Quelle/5e/dmg
-- ttrpg-cli/item/gear/instrument
-- ttrpg-cli/item/rarity/uncommon
-- ttrpg-cli/item/tier/major
+- Gegenstand/item/gear/instrument
+- Gegenstand/item/rarity/uncommon
+- Gegenstand/item/tier/major
 aliases: 
 - "Pipes of Haunting"
 ---

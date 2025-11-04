@@ -4,9 +4,9 @@ cssclasses:
 - json5e-deity
 tags:
 - Quelle/5e/phb
-- ttrpg-cli/deity/nonhuman
-- Götter/domain/life
-- Götter/domain/twilight
+- Kompendium/Götter/nonhuman
+- Kompendium/Götter/domain/life
+- Kompendium/Götter/domain/twilight
 aliases: 
 - Yondalla
 ---

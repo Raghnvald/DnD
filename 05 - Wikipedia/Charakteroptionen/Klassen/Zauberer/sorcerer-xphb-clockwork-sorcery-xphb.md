@@ -3,7 +3,7 @@ cssclasses:
   - json5e-class
 tags:
   - Quelle/5e/xphb
-  - ttrpg-cli/subclass/sorcerer/clockwork
+  - Klasse/subclass/sorcerer/clockwork
 aliases:
   - Clockwork Sorcery
 ---

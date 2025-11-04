@@ -8,11 +8,11 @@ HG:
 status:
 image:
 tags:
-  - Größe/Winzig
-  - Habitat/Arktis
-  - Habitat/Wald
+  - Monster/Größe/Winzig
+  - Monster/Habitat/Arktis
+  - Monster/Habitat/Wald
   - Quelle/5e/Monster_Manual
-  - Typ/Tier
+  - Monster/Typ/Tier
 aliases:
   - Owl
 ---

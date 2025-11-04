@@ -4,9 +4,9 @@ cssclasses:
 - json5e-deity
 tags:
 - Quelle/5e/scag
-- ttrpg-cli/deity/gnomish
-- Götter/domain/peace
-- Götter/domain/war
+- Kompendium/Götter/gnomish
+- Kompendium/Götter/domain/peace
+- Kompendium/Götter/domain/war
 aliases: 
 - Gaerdal Ironhand
 ---

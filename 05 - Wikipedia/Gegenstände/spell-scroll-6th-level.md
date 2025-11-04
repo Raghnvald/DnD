@@ -4,9 +4,9 @@ cssclasses:
 - json5e-item
 tags:
 - Quelle/5e/dmg
-- ttrpg-cli/item/rarity/very-rare
-- ttrpg-cli/item/tier/minor
-- ttrpg-cli/item/wondrous/scroll
+- Gegenstand/item/rarity/very-rare
+- Gegenstand/item/tier/minor
+- Gegenstand/item/wondrous/scroll
 aliases: 
 - "Spell Scroll (6th Level)"
 ---

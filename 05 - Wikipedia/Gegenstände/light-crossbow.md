@@ -4,9 +4,9 @@ cssclasses:
 - json5e-item
 tags:
 - Quelle/5e/phb
-- ttrpg-cli/item/rarity/none
-- ttrpg-cli/item/weapon/ranged
-- ttrpg-cli/item/weapon/simple
+- Gegenstand/item/rarity/none
+- Gegenstand/item/weapon/ranged
+- Gegenstand/item/weapon/simple
 aliases: 
 - "Light Crossbow"
 ---

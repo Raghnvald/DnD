@@ -9,10 +9,10 @@ status:
 image:
 tags:
   - Quelle/5e/Monster_Manual
-  - Habitat/Wald
-  - Habitat/Hügel
-  - Größe/Groß
-  - Typ/Tier
+  - Monster/Habitat/Wald
+  - Monster/Habitat/Hügel
+  - Monster/Größe/Groß
+  - Monster/Typ/Tier
 aliases:
   - Dire Wolf
 ---

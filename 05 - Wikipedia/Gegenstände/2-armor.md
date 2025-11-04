@@ -4,12 +4,12 @@ cssclasses:
 - json5e-item
 tags:
 - Quelle/5e/dmg
-- ttrpg-cli/item/armor/heavy
-- ttrpg-cli/item/armor/light
-- ttrpg-cli/item/armor/medium
-- ttrpg-cli/item/rarity/very-rare
-- ttrpg-cli/item/tier/major
-- ttrpg-cli/item/wondrous/generic-variant
+- Gegenstand/item/armor/heavy
+- Gegenstand/item/armor/light
+- Gegenstand/item/armor/medium
+- Gegenstand/item/rarity/very-rare
+- Gegenstand/item/tier/major
+- Gegenstand/item/wondrous/generic-variant
 aliases: 
 - "+2 Armor"
 - "+2 Breastplate"

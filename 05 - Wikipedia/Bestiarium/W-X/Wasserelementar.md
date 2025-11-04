@@ -9,11 +9,11 @@ status:
 image:
 tags:
   - Quelle/5e/Monster_Manual
-  - Habitat/Küste
-  - Habitat/Sumpf
-  - Habitat/Unterwasser
-  - Größe/Groß
-  - Typ/Elementar
+  - Monster/Habitat/Küste
+  - Monster/Habitat/Sumpf
+  - Monster/Habitat/Unterwasser
+  - Monster/Größe/Groß
+  - Monster/Typ/Elementar
 aliases:
   - Water Elemental
 ---

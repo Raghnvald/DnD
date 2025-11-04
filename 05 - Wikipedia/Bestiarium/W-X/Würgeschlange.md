@@ -9,12 +9,12 @@ status:
 image:
 tags:
   - Quelle/5e/Monster_Manual
-  - Habitat/Wüste
-  - Habitat/Wald
-  - Habitat/Sumpf
-  - Habitat/Unterwasser
-  - Größe/Groß
-  - Typ/Tier
+  - Monster/Habitat/Wüste
+  - Monster/Habitat/Wald
+  - Monster/Habitat/Sumpf
+  - Monster/Habitat/Unterwasser
+  - Monster/Größe/Groß
+  - Monster/Typ/Tier
 aliases:
   - Constrictor Snake
 ---

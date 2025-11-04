@@ -2,8 +2,8 @@
 cssclasses: json5e-monster
 tags:
   - Quelle/5e/Monster_Manual
-  - Größe/Groß
-  - Typ/Konstrukt
+  - Monster/Größe/Groß
+  - Monster/Typ/Konstrukt
 aliases:
   - Clay Golem
 ---

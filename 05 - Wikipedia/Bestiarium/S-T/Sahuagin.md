@@ -2,10 +2,10 @@
 cssclasses: json5e-monster
 tags:
   - Quelle/5e/Monster_Manual
-  - Habitat/Küste
-  - Habitat/Unterwasser
-  - Größe/Mittelgroß
-  - Typ/Humanoid/Sahuagin
+  - Monster/Habitat/Küste
+  - Monster/Habitat/Unterwasser
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/Humanoid/Sahuagin
 aliases:
   - Sahuagin
 Typ: Humanoid

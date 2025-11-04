@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-note
 tags:
-  - ttrpg-cli/spell/list/subclass/oath-of-the-watchers
+  - Zauber/list/subclass/oath-of-the-watchers
 aliases:
   - Spells for Oath of the Watchers
 ---

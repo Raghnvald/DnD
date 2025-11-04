@@ -4,9 +4,9 @@ cssclasses:
 - json5e-item
 tags:
 - Quelle/5e/dmg
-- ttrpg-cli/item/rarity/legendary
-- ttrpg-cli/item/tier/major
-- ttrpg-cli/item/wondrous/ring
+- Gegenstand/item/rarity/legendary
+- Gegenstand/item/tier/major
+- Gegenstand/item/wondrous/ring
 aliases: 
 - "Ring of Three Wishes"
 ---

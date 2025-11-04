@@ -3,8 +3,8 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/phb
-  - ttrpg-cli/item/gear/tack-and-harness
-  - ttrpg-cli/item/rarity/none
+  - Gegenstand/item/gear/tack-and-harness
+  - Gegenstand/item/rarity/none
 aliases:
   - Barding
   - Breastplate Barding

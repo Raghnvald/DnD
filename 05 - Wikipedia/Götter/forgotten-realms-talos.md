@@ -4,8 +4,8 @@ cssclasses:
 - json5e-deity
 tags:
 - Quelle/5e/phb
-- ttrpg-cli/deity/forgotten-realms
-- Götter/domain/tempest
+- Kompendium/Götter/forgotten-realms
+- Kompendium/Götter/domain/tempest
 aliases: 
 - Talos
 ---

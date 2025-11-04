@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/subclass/the-great-old-one
+- Zauber/list/subclass/the-great-old-one
 aliases:
 - Spells for The Great Old One
 ---

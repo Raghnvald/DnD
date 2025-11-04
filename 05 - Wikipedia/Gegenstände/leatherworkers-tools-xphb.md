@@ -3,8 +3,8 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/xphb
-  - ttrpg-cli/item/gear/artisans-tools
-  - ttrpg-cli/item/rarity/none
+  - Gegenstand/item/gear/artisans-tools
+  - Gegenstand/item/rarity/none
 aliases:
   - Leatherworker's Tools
 ---

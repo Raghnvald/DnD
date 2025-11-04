@@ -4,9 +4,9 @@ cssclasses:
 - json5e-deity
 tags:
 - Quelle/5e/phb
-- ttrpg-cli/deity/greyhawk
-- Götter/domain/arcana
-- Götter/domain/knowledge
+- Kompendium/Götter/greyhawk
+- Kompendium/Götter/domain/arcana
+- Kompendium/Götter/domain/knowledge
 aliases: 
 - Vecna
 ---

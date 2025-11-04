@@ -3,11 +3,11 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/xdmg
-  - ttrpg-cli/item/attunement/required
-  - ttrpg-cli/item/rarity/artifact
-  - ttrpg-cli/item/weapon/melee
-  - ttrpg-cli/item/weapon/simple
-  - ttrpg-cli/item/wondrous/wand
+  - Gegenstand/item/attunement/required
+  - Gegenstand/item/rarity/artifact
+  - Gegenstand/item/weapon/melee
+  - Gegenstand/item/weapon/simple
+  - Gegenstand/item/wondrous/wand
 aliases:
   - Wand of Orcus
 ---

@@ -1,0 +1,35 @@
+---
+cssclasses:
+  - json5e-spell
+tags:
+  - Quelle/5e/xphb
+  - Zauber/class/bard
+  - Zauber/class/cleric
+  - Zauber/class/druid
+  - Zauber/Grad/6
+  - Zauber/Schule/Bann
+  - Zauber/subclass/divine-soul/good
+classes:
+  - Bard
+  - Cleric
+  - Druid
+  - Sorcerer (Divine Soul, Good)
+aliases:
+  - Heal
+---
+# Heal
+*6th-level, Abjuration*  
+
+
+- **Casting time:** 1 Action
+- **Range:** 60 feet
+- **Components:** V, S
+- **Duration:** Instantaneous
+
+Choose a creature that you can see within range. Positive energy washes through the target, restoring 70 [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md). This spell also ends the [Blinded](/3-Mechanics/CLI/conditions.md#Blinded), [Deafened](/3-Mechanics/CLI/conditions.md#Deafened), and [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned) conditions on the target.
+
+**Using a Higher-Level Spell Slot.** The healing increases by `10` for each spell slot level above 6.
+
+**Classes**: [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Sorcerer (Divine Soul, Good)](/3-Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB")
+
+*Source: Player's Handbook (2024) p. 284. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

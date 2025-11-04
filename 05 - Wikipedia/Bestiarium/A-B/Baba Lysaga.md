@@ -1,6 +1,6 @@
 ---
 Typ: Humanoid
-tags: [Größe/Mittelgroß, Habitat/Wald, Quelle/5e/cos, Typ/Humanoid]
+tags: [Monster/Größe/Mittelgroß, Monster/Habitat/Wald, Quelle/5e/cos, Monster/Typ/Humanoid]
 aliases: [Baba Lysaga]
 ---
 # Baba Lysaga

@@ -3,11 +3,11 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/xdmg
-  - ttrpg-cli/item/age/futuristic
-  - ttrpg-cli/item/gear/ammunition
-  - ttrpg-cli/item/gear/ammunition-firearm
-  - ttrpg-cli/item/rarity/very-rare
-  - ttrpg-cli/item/wondrous/generic-variant
+  - Gegenstand/item/age/futuristic
+  - Gegenstand/item/gear/ammunition
+  - Gegenstand/item/gear/ammunition-firearm
+  - Gegenstand/item/rarity/very-rare
+  - Gegenstand/item/wondrous/generic-variant
 aliases:
   - +3 Ammunition
   - +3 Arrow

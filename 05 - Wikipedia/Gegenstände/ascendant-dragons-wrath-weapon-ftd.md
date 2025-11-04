@@ -3,15 +3,15 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/ftd
-  - ttrpg-cli/item/age/futuristic
-  - ttrpg-cli/item/age/modern
-  - ttrpg-cli/item/attunement/required
-  - ttrpg-cli/item/rarity/legendary
-  - ttrpg-cli/item/weapon/martial
-  - ttrpg-cli/item/weapon/melee
-  - ttrpg-cli/item/weapon/ranged
-  - ttrpg-cli/item/weapon/simple
-  - ttrpg-cli/item/wondrous/generic-variant
+  - Gegenstand/item/age/futuristic
+  - Gegenstand/item/age/modern
+  - Gegenstand/item/attunement/required
+  - Gegenstand/item/rarity/legendary
+  - Gegenstand/item/weapon/martial
+  - Gegenstand/item/weapon/melee
+  - Gegenstand/item/weapon/ranged
+  - Gegenstand/item/weapon/simple
+  - Gegenstand/item/wondrous/generic-variant
 aliases:
   - Ascendant Dragon's Wrath Weapon
   - Ascendant Dragon's Wrath Antimatter Rifle

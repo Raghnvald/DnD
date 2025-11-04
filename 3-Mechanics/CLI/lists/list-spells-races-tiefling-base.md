@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/race/tiefling-base
+- Zauber/list/race/tiefling-base
 aliases:
 - Spells for Tiefling (Base)
 ---

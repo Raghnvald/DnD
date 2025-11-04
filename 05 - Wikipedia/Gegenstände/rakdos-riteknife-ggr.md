@@ -4,10 +4,10 @@ cssclasses:
 - json5e-item
 tags:
 - Quelle/5e/ggr
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/legendary
-- ttrpg-cli/item/weapon/melee
-- ttrpg-cli/item/weapon/simple
+- Gegenstand/item/attunement/required
+- Gegenstand/item/rarity/legendary
+- Gegenstand/item/weapon/melee
+- Gegenstand/item/weapon/simple
 aliases: 
 - "Rakdos Riteknife"
 ---

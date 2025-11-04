@@ -4,8 +4,8 @@ cssclasses:
 - json5e-deity
 tags:
 - Quelle/5e/vgm
-- ttrpg-cli/deity/orc
-- Götter/domain/war
+- Kompendium/Götter/orc
+- Kompendium/Götter/domain/war
 aliases: 
 - Bahgtru
 ---

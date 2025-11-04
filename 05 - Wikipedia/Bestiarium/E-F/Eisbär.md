@@ -8,11 +8,11 @@ HG:
 status:
 image:
 tags:
-  - Größe/Groß
-  - Habitat/Arktis
-  - Habitat/Unterreich
+  - Monster/Größe/Groß
+  - Monster/Habitat/Arktis
+  - Monster/Habitat/Unterreich
   - Quelle/5e/Monster_Manual
-  - Typ/Tier
+  - Monster/Typ/Tier
 aliases:
   - Polar Bear
 ---

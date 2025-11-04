@@ -24,7 +24,7 @@ $\quad$ Die Illusion dauert an, bis die Karte bewegt oder die Illusion vertriebe
 | 3     | Herz Dame   | [Sukkubus](Sukkubus.md) oder [Inkubus](Inkubus.md)               |
 | 4     | Herz Bube   | [Druiden](Druiden.md)                                                    |
 | 5     | Herz Zehn   | [Wolkenriesen](Wolkenriese.md)                                            |
-| 6     | Herz Neun   | [Ettin](Ettin.md)                                                         |
+| 6     | Herz Neun   | [Ettin](D&D/05%20-%20Wikipedia/Bestiarium/E-F/Ettin.md)                                                         |
 | 7     | Herz Acht   | [Grottenschrat](Humanoide/Grottenschrat.md)                                      |
 | 8     | Herz Zwei   | [Goblin (Legacy)](Goblin%20(Legacy).md)                                                    |
 | 9     | Karo Ass    | [Betrachter (Legacy)](Betrachter%20(Legacy).md)                                         |
@@ -37,16 +37,16 @@ $\quad$ Die Illusion dauert an, bis die Karte bewegt oder die Illusion vertriebe
 | 16    | Karo Zwei   | [Kobold](Humanoide/Kobold.md)                                                    |
 | 17    | Pik Ass     | [Lich](D&D/05%20-%20Wikipedia/Bestiarium/K-L/Lich.md)                                                           |
 | 18    | Pik König   | [Priester](Priester.md) und zwei [Gefolgsleute](Humanoide/acolyte.md)  |
-| 19    | Pik Dame    | [Medusa](Medusa.md)                                               |
-| 20    | Pik Bube    | [Veteran](Veteran.md)                                                  |
+| 19    | Pik Dame    | [Medusa](D&D/05%20-%20Wikipedia/Bestiarium/M-N/Medusa.md)                                               |
+| 20    | Pik Bube    | [Veteran](D&D/05%20-%20Wikipedia/Bestiarium/U-V/Veteran.md)                                                  |
 | 21    | Pik Zehn    | [Frostriese](Frostriese.md)                                              |
-| 22    | Pik Neun    | [Troll](Troll.md)                                                         |
+| 22    | Pik Neun    | [Troll](D&D/05%20-%20Wikipedia/Bestiarium/S-T/Troll.md)                                                         |
 | 23    | Pik Acht    | [Hobgoblin](Humanoide/Hobgoblin.md)                                              |
 | 24    | Pik Zwei    | [Goblin (Legacy)](Goblin%20(Legacy).md)                                                    |
 | 25    | Kreuz Ass   | [Eisengolem](Eisengolem.md)                                           |
-| 26    | Kreuz König | [Banditenhauptmann](Banditenhauptmann.md) und drei [Banditen](Bandit.md) |
+| 26    | Kreuz König | [Banditenhauptmann](Banditenhauptmann.md) und drei [Banditen](D&D/05%20-%20Wikipedia/Bestiarium/A-B/Bandit.md) |
 | 27    | Kreuz Dame  | [Erinnyen](Erinnyen.md)                                                            |
-| 28    | Kreuz Bube  | [Berserker](Berserker.md)                                              |
+| 28    | Kreuz Bube  | [Berserker](D&D/05%20-%20Wikipedia/Bestiarium/A-B/Berserker.md)                                              |
 | 29    | Kreuz Zehn  | [Hügelriese](Hügelriese.md)                                               |
 | 30    | Kreuz Neun  | [Oger](Oger.md)                                                |
 | 31    | Kreuz Acht  | [Ork](Ork.md)                                                          |

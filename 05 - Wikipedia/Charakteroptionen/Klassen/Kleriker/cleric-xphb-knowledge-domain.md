@@ -3,8 +3,8 @@ cssclasses:
   - json5e-class
 tags:
   - Quelle/5e/phb
-  - Götter/domain/knowledge
-  - ttrpg-cli/subclass/cleric/knowledge
+  - Kompendium/Götter/domain/knowledge
+  - Klasse/subclass/cleric/knowledge
 aliases:
   - Knowledge Domain
 ---

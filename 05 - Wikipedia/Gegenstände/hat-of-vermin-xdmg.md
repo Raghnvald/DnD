@@ -3,7 +3,7 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/xdmg
-  - ttrpg-cli/item/rarity/common
+  - Gegenstand/item/rarity/common
 aliases:
   - Hat of Vermin
 ---

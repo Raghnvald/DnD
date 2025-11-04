@@ -9,9 +9,9 @@ status:
 image:
 tags:
   - Quelle/5e/Monster_Manual
-  - Typ/Riese
-  - Größe/Riesig
-  - Habitat/Berg
+  - Monster/Typ/Riese
+  - Monster/Größe/Riesig
+  - Monster/Habitat/Berg
 aliases:
   - Cloud Giant
 ---

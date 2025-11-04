@@ -4,14 +4,14 @@ cssclasses:
 - json5e-item
 tags:
 - Quelle/5e/dmg
-- ttrpg-cli/item/age/futuristic
-- ttrpg-cli/item/age/modern
-- ttrpg-cli/item/age/renaissance
-- ttrpg-cli/item/gear/ammunition
-- ttrpg-cli/item/gear/ammunition-firearm
-- ttrpg-cli/item/rarity/rare
-- ttrpg-cli/item/tier/minor
-- ttrpg-cli/item/wondrous/generic-variant
+- Gegenstand/item/age/futuristic
+- Gegenstand/item/age/modern
+- Gegenstand/item/age/renaissance
+- Gegenstand/item/gear/ammunition
+- Gegenstand/item/gear/ammunition-firearm
+- Gegenstand/item/rarity/rare
+- Gegenstand/item/tier/minor
+- Gegenstand/item/wondrous/generic-variant
 aliases: 
 - "+2 Ammunition"
 - "+2 Arrow"

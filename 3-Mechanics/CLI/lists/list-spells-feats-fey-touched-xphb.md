@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-note
 tags:
-  - ttrpg-cli/spell/list/feat/fey-touched
+  - Zauber/list/feat/fey-touched
 aliases:
   - Spells for Fey-Touched
 ---

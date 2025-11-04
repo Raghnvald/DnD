@@ -4,8 +4,8 @@ cssclasses:
 - json5e-object
 tags:
 - Quelle/5e/dmg
-- ttrpg-cli/object/size/gargantuan
-- ttrpg-cli/object/type/siege-weapon
+- Kompendium/object/size/gargantuan
+- Kompendium/object/type/siege-weapon
 aliases:
 - Siege Tower
 ---

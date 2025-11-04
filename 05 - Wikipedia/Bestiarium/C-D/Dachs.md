@@ -8,10 +8,10 @@ HG:
 status:
 image:
 tags:
-  - Größe/Winzig
-  - Habitat/Wald
+  - Monster/Größe/Winzig
+  - Monster/Habitat/Wald
   - Quelle/5e/Monster_Manual
-  - Typ/Tier
+  - Monster/Typ/Tier
 aliases:
   - Badger
 ---

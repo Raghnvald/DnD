@@ -3,8 +3,8 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/pabtso
-  - ttrpg-cli/item/armor/medium
-  - ttrpg-cli/item/rarity/rare
+  - Gegenstand/item/armor/medium
+  - Gegenstand/item/rarity/rare
 aliases:
   - Dragonguard
 ---

@@ -3,7 +3,7 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/xdmg
-  - ttrpg-cli/item/rarity/rare
+  - Gegenstand/item/rarity/rare
 aliases:
   - Figurine of Wondrous Power, Serpentine Owl
 ---

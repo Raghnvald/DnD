@@ -9,11 +9,11 @@ status:
 image:
 tags:
   - Quelle/5e/Monster_Manual
-  - Typ/Riese
-  - Größe/Riesig
-  - Habitat/Berg
-  - Habitat/Hügel
-  - Habitat/Unterreich
+  - Monster/Typ/Riese
+  - Monster/Größe/Riesig
+  - Monster/Habitat/Berg
+  - Monster/Habitat/Hügel
+  - Monster/Habitat/Unterreich
 aliases:
   - Stone Giant
 ---

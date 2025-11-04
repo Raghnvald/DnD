@@ -3,7 +3,7 @@ cssclasses:
   - json5e-class
 tags:
   - Quelle/5e/tce
-  - ttrpg-cli/subclass/wizard/bladesinging
+  - Klasse/subclass/wizard/bladesinging
 aliases:
   - Bladesinging
 ---

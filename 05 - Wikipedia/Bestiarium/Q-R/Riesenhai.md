@@ -9,9 +9,9 @@ status:
 image:
 tags:
   - Quelle/5e/Monster_Manual
-  - Habitat/Unterwasser
-  - Größe/Riesig
-  - Typ/Tier
+  - Monster/Habitat/Unterwasser
+  - Monster/Größe/Riesig
+  - Monster/Typ/Tier
 aliases:
   - Giant Shark
 ---

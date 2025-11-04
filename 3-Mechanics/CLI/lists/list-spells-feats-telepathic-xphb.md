@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/feat/telepathic
+- Zauber/list/feat/telepathic
 aliases:
 - Spells for Telepathic
 ---

@@ -1,11 +1,11 @@
 ---
 cssclasses: json5e-monster
 tags:
-  - Größe/Gigantisch
-  - Habitat/Küste
-  - Habitat/Unterwasser
+  - Monster/Größe/Gigantisch
+  - Monster/Habitat/Küste
+  - Monster/Habitat/Unterwasser
   - Quelle/5e/Monster_Manual
-  - Typ/Drache
+  - Monster/Typ/Drache
 aliases:
   - Dragon Turtle
 ---

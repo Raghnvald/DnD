@@ -4,10 +4,10 @@ cssclasses:
 - json5e-deity
 tags:
 - Quelle/5e/dmg
-- ttrpg-cli/deity/dawn-war
-- Götter/domain/forge
-- Götter/domain/knowledge
-- Götter/domain/war
+- Kompendium/Götter/dawn-war
+- Kompendium/Götter/domain/forge
+- Kompendium/Götter/domain/knowledge
+- Kompendium/Götter/domain/war
 aliases: 
 - Moradin
 ---

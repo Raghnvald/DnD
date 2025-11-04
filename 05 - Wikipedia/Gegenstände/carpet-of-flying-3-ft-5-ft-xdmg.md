@@ -3,7 +3,7 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/xdmg
-  - ttrpg-cli/item/rarity/very-rare
+  - Gegenstand/item/rarity/very-rare
 aliases:
   - Carpet of Flying, 3 ft. × 5 ft.
 ---

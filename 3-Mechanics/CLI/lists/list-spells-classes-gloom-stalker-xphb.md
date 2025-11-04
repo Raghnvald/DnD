@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-note
 tags:
-  - ttrpg-cli/spell/list/subclass/gloom-stalker
+  - Zauber/list/subclass/gloom-stalker
 aliases:
   - Spells for Gloom Stalker
 ---

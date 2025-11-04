@@ -2,9 +2,9 @@
 cssclasses: json5e-monster
 tags:
   - Quelle/5e/Monster_Manual
-  - Habitat/Wald
-  - Größe/Klein
-  - Typ/Pflanze
+  - Monster/Habitat/Wald
+  - Monster/Größe/Klein
+  - Monster/Typ/Pflanze
 aliases:
   - Twig Blight
 ---

@@ -8,10 +8,10 @@ HG:
 status:
 image:
 tags:
-  - Größe/Groß
-  - Habitat/Küste
+  - Monster/Größe/Groß
+  - Monster/Habitat/Küste
   - Quelle/5e/Monster_Manual
-  - Typ/Elementar
+  - Monster/Typ/Elementar
 aliases:
   - Djinni
 ---

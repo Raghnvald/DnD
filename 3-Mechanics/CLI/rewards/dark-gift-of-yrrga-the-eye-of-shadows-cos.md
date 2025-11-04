@@ -3,7 +3,7 @@ cssclasses:
   - json5e-reward
 tags:
   - Quelle/5e/cos
-  - ttrpg-cli/reward/charm
+  - Kompendium/reward/charm
 aliases:
   - Dark Gift of Yrrga, the Eye of Shadows
 ---

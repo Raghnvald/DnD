@@ -4,7 +4,7 @@ cssclasses:
 - json5e-deity
 tags:
 - Quelle/5e/xdmg
-- ttrpg-cli/deity/greyhawk
+- Kompendium/Götter/greyhawk
 aliases: 
 - Berei
 ---

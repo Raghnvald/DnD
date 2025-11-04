@@ -4,8 +4,8 @@ cssclasses:
 - json5e-item
 tags:
 - Quelle/5e/xphb
-- ttrpg-cli/item/gear/mount
-- ttrpg-cli/item/rarity/none
+- Gegenstand/item/gear/mount
+- Gegenstand/item/rarity/none
 aliases: 
 - "Mastiff"
 ---

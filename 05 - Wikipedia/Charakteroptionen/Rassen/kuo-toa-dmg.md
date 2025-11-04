@@ -3,7 +3,7 @@ cssclasses:
   - json5e-race
 tags:
   - Quelle/5e/dmg
-  - ttrpg-cli/race/kuo-toa
+  - Rasse/kuo-toa
 aliases:
   - Kuo-Toa
 ---

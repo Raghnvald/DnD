@@ -3,7 +3,7 @@ cssclasses:
   - json5e-feat
 tags:
   - Quelle/5e/ftd
-  - ttrpg-cli/feat
+  - Kompendium/feat
 aliases:
   - Gift of the Gem Dragon
 ---

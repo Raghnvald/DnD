@@ -4,12 +4,12 @@ cssclasses:
 - json5e-deity
 tags:
 - Quelle/5e/phb
-- ttrpg-cli/deity/greyhawk
-- Götter/domain/arcana
-- Götter/domain/death
-- Götter/domain/grave
-- Götter/domain/knowledge
-- Götter/domain/order
+- Kompendium/Götter/greyhawk
+- Kompendium/Götter/domain/arcana
+- Kompendium/Götter/domain/death
+- Kompendium/Götter/domain/grave
+- Kompendium/Götter/domain/knowledge
+- Kompendium/Götter/domain/order
 aliases: 
 - Wee Jas
 ---

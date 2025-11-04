@@ -4,9 +4,9 @@ cssclasses:
 - json5e-deity
 tags:
 - Quelle/5e/phb
-- ttrpg-cli/deity/eberron
-- Götter/domain/life
-- Götter/domain/nature
+- Kompendium/Götter/eberron
+- Kompendium/Götter/domain/life
+- Kompendium/Götter/domain/nature
 aliases: 
 - Balinor
 ---

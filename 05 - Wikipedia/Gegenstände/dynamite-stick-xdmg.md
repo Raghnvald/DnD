@@ -3,9 +3,9 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/xdmg
-  - ttrpg-cli/item/age/modern
-  - ttrpg-cli/item/rarity/none
-  - ttrpg-cli/item/weapon/explosive
+  - Gegenstand/item/age/modern
+  - Gegenstand/item/rarity/none
+  - Gegenstand/item/weapon/explosive
 aliases:
   - Dynamite Stick
 ---

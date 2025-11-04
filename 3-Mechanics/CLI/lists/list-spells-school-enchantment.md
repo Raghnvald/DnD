@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-note
 tags:
-  - ttrpg-cli/spell/list/school/enchantment
+  - Zauber/list/school/enchantment
 aliases:
   - Enchantment Spells
 ---

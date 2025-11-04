@@ -1,5 +1,5 @@
 ---
-tags: [Größe/Mittel, Quelle/5e/Monster_Manual, Typ/Konstrukt]
+tags: [Monster/Größe/Mittelgroß, Quelle/5e/Monster_Manual, Monster/Typ/Konstrukt]
 aliases: ["Animated Armor"]
 ---
 # Animated Armor

@@ -8,10 +8,10 @@ HG: 1/2
 status:
 image:
 tags:
-  - Größe/Mittelgroß
-  - Habitat/Wald
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Wald
   - Quelle/5e/cos
-  - Typ/Humanoid
+  - Monster/Typ/Humanoid
 aliases:
   - Barovian Witch
 ---

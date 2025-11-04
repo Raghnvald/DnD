@@ -8,11 +8,11 @@ HG:
 status:
 image:
 tags:
-  - Größe/Mittelgroß
-  - Habitat/Küste
-  - Habitat/Unterwasser
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Küste
+  - Monster/Habitat/Unterwasser
   - Quelle/5e/Monster_Manual
-  - Typ/Humanoid/Meervolk
+  - Monster/Typ/Humanoid/Meervolk
 aliases:
   - Merfolk
 ---

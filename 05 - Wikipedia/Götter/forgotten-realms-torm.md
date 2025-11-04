@@ -4,8 +4,8 @@ cssclasses:
 - json5e-deity
 tags:
 - Quelle/5e/phb
-- ttrpg-cli/deity/forgotten-realms
-- Götter/domain/war
+- Kompendium/Götter/forgotten-realms
+- Kompendium/Götter/domain/war
 aliases: 
 - Torm
 ---

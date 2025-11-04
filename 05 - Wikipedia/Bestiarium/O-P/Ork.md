@@ -2,16 +2,16 @@
 cssclasses: json5e-monster
 Typ: Humanoid
 tags:
-  - Größe/Mittelgroß
-  - Habitat/Arktis
-  - Habitat/Berg
-  - Habitat/Grasland
-  - Habitat/Hügel
-  - Habitat/Sumpf
-  - Habitat/Unterreich
-  - Habitat/Wald
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Arktis
+  - Monster/Habitat/Berg
+  - Monster/Habitat/Grasland
+  - Monster/Habitat/Hügel
+  - Monster/Habitat/Sumpf
+  - Monster/Habitat/Unterreich
+  - Monster/Habitat/Wald
   - Quelle/5e/Monster_Manual
-  - Typ/Humanoid/Ork
+  - Monster/Typ/Humanoid/Ork
 aliases:
   - Orc
 ---

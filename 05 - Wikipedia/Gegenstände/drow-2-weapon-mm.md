@@ -3,14 +3,14 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/mm
-  - ttrpg-cli/item/age/futuristic
-  - ttrpg-cli/item/age/modern
-  - ttrpg-cli/item/rarity/unknown/magic
-  - ttrpg-cli/item/weapon/martial
-  - ttrpg-cli/item/weapon/melee
-  - ttrpg-cli/item/weapon/ranged
-  - ttrpg-cli/item/weapon/simple
-  - ttrpg-cli/item/wondrous/generic-variant
+  - Gegenstand/item/age/futuristic
+  - Gegenstand/item/age/modern
+  - Gegenstand/item/rarity/unknown/magic
+  - Gegenstand/item/weapon/martial
+  - Gegenstand/item/weapon/melee
+  - Gegenstand/item/weapon/ranged
+  - Gegenstand/item/weapon/simple
+  - Gegenstand/item/wondrous/generic-variant
 aliases:
   - Drow +2 Weapon
   - Drow +2 Antimatter Rifle

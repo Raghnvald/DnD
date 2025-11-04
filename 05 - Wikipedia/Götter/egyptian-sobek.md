@@ -4,9 +4,9 @@ cssclasses:
 - json5e-deity
 tags:
 - Quelle/5e/phb
-- ttrpg-cli/deity/egyptian
-- Götter/domain/nature
-- Götter/domain/tempest
+- Kompendium/Götter/egyptian
+- Kompendium/Götter/domain/nature
+- Kompendium/Götter/domain/tempest
 aliases: 
 - Sobek
 ---

@@ -4,9 +4,9 @@ cssclasses:
 - json5e-item
 tags:
 - Quelle/5e/dmg
-- ttrpg-cli/item/rarity/uncommon
-- ttrpg-cli/item/tier/major
-- ttrpg-cli/item/wondrous/generic-variant
+- Gegenstand/item/rarity/uncommon
+- Gegenstand/item/tier/major
+- Gegenstand/item/wondrous/generic-variant
 aliases: 
 - "+1 Weapon (no damage)"
 ---

@@ -9,9 +9,9 @@ status:
 image:
 tags:
   - Quelle/5e/Monster_Manual
-  - Habitat/Küste
-  - Größe/Winzig
-  - Typ/Tier
+  - Monster/Habitat/Küste
+  - Monster/Größe/Winzig
+  - Monster/Typ/Tier
 aliases:
   - Crab
 ---

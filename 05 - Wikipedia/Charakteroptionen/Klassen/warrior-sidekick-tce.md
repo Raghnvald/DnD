@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-class
 tags:
-  - ttrpg-cli/class/warrior-sidekick
+  - Klasse/class/warrior-sidekick
   - Quelle/5e/tce
 aliases:
   - Warrior Sidekick

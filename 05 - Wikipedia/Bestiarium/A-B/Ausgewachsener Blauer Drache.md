@@ -1,11 +1,11 @@
 ---
 cssclasses: json5e-monster
 tags:
-  - Größe/Riesig
-  - Habitat/Küste
-  - Habitat/Wüste
+  - Monster/Größe/Riesig
+  - Monster/Habitat/Küste
+  - Monster/Habitat/Wüste
   - Quelle/5e/Monster_Manual
-  - Typ/Drache
+  - Monster/Typ/Drache
 aliases:
   - Adult Blue Dragon
 ---

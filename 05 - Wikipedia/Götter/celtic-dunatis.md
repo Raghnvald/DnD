@@ -4,8 +4,8 @@ cssclasses:
 - json5e-deity
 tags:
 - Quelle/5e/phb
-- ttrpg-cli/deity/celtic
-- Götter/domain/nature
+- Kompendium/Götter/celtic
+- Kompendium/Götter/domain/nature
 aliases: 
 - Dunatis
 ---

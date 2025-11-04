@@ -3,7 +3,7 @@ cssclasses:
   - json5e-class
 tags:
   - Quelle/5e/xge
-  - ttrpg-cli/subclass/wizard/war
+  - Klasse/subclass/wizard/war
 aliases:
   - War Magic
 ---

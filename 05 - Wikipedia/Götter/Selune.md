@@ -2,11 +2,11 @@
 cssclasses: json5e-deity
 tags:
   - Quelle/5e/Players_Handbook
-  - Götter
-  - Götter/Gesinnung/Chaotisch_Gut
-  - Götter/Pantheon/Faerun
-  - Götter/Domäne/Wissen
-  - Götter/Domäne/Leben
+  - Kompendium/Götter
+  - Kompendium/Götter/Gesinnung/Chaotisch_Gut
+  - Kompendium/Götter/Pantheon/Faerun
+  - Kompendium/Götter/Domäne/Wissen
+  - Kompendium/Götter/Domäne/Leben
 aliases:
   - Selune
 ---

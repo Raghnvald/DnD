@@ -4,9 +4,9 @@ cssclasses:
 - json5e-item
 tags:
 - Quelle/5e/xge
-- ttrpg-cli/item/gear/ammunition
-- ttrpg-cli/item/rarity/common
-- ttrpg-cli/item/tier/minor
+- Gegenstand/item/gear/ammunition
+- Gegenstand/item/rarity/common
+- Gegenstand/item/tier/minor
 aliases: 
 - "Unbreakable Arrow"
 ---

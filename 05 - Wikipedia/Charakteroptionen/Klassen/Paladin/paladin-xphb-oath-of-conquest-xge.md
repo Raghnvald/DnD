@@ -3,7 +3,7 @@ cssclasses:
   - json5e-class
 tags:
   - Quelle/5e/xge
-  - ttrpg-cli/subclass/paladin/conquest
+  - Klasse/subclass/paladin/conquest
 aliases:
   - Oath of Conquest
 ---

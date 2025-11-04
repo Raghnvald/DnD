@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/subclass/way-of-shadow
+- Zauber/list/subclass/way-of-shadow
 aliases:
 - Spells for Way of Shadow
 ---

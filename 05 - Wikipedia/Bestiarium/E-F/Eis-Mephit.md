@@ -8,10 +8,10 @@ HG:
 status:
 image:
 tags:
-  - Größe/Klein
-  - Habitat/Arktis
+  - Monster/Größe/Klein
+  - Monster/Habitat/Arktis
   - Quelle/5e/Monster_Manual
-  - Typ/Elementar
+  - Monster/Typ/Elementar
 aliases:
   - Ice Mephit
 ---

@@ -9,7 +9,7 @@ status:
 image:
 tags:
   - Quelle/5e/mpmm
-  - Typ/Drache
+  - Monster/Typ/Drache
 aliases:
   - 
 ---

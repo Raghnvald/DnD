@@ -1,9 +1,9 @@
 ---
 tags:
-  - Größe/Mittelgroß
-  - Habitat/Stadt
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Stadt
   - Quelle/5e/Monster_Manual
-  - Typ/Humanoid/jede-rasse
+  - Monster/Typ/Humanoid/jede-rasse
 aliases:
   - Adeliger
 Typ: Humanoid

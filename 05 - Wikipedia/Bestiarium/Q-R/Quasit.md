@@ -2,8 +2,8 @@
 cssclasses: json5e-monster
 tags:
   - Quelle/5e/Monster_Manual
-  - Größe/Winzig
-  - Typ/Unhold/Dämon
+  - Monster/Größe/Winzig
+  - Monster/Typ/Unhold/Dämon
 aliases:
   - Quasit
 Typ: Unhold

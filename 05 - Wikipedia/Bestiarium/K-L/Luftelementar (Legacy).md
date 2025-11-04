@@ -11,11 +11,11 @@ Habitat:
 status: WIP
 image:
 tags:
-  - Größe/Groß
-  - Habitat/Berg
-  - Habitat/Wüste
+  - Monster/Größe/Groß
+  - Monster/Habitat/Berg
+  - Monster/Habitat/Wüste
   - Quelle/5e/Monster_Manual
-  - Typ/Elementar
+  - Monster/Typ/Elementar
 aliases:
   - Air Elemental
 ---

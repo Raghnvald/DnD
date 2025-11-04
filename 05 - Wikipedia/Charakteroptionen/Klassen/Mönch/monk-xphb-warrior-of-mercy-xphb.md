@@ -3,7 +3,7 @@ cssclasses:
   - json5e-class
 tags:
   - Quelle/5e/xphb
-  - ttrpg-cli/subclass/monk/mercy
+  - Klasse/subclass/monk/mercy
 aliases:
   - Warrior of Mercy
 ---

@@ -9,9 +9,9 @@ status:
 image:
 tags:
   - Quelle/5e/Monster_Manual
-  - Habitat/Stadt
-  - Größe/Groß
-  - Typ/Tier
+  - Monster/Habitat/Stadt
+  - Monster/Größe/Groß
+  - Monster/Typ/Tier
 aliases:
   - Warhorse
 ---

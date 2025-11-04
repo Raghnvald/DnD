@@ -4,7 +4,7 @@ cssclasses:
 - json5e-class
 tags:
 - Quelle/5e/phb
-- ttrpg-cli/subclass/warlock/archfey
+- Klasse/subclass/warlock/archfey
 aliases:
 - The Archfey
 ---

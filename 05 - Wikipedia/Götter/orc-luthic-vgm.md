@@ -4,9 +4,9 @@ cssclasses:
 - json5e-deity
 tags:
 - Quelle/5e/vgm
-- ttrpg-cli/deity/orc
-- Götter/domain/life
-- Götter/domain/nature
+- Kompendium/Götter/orc
+- Kompendium/Götter/domain/life
+- Kompendium/Götter/domain/nature
 aliases: 
 - Luthic
 ---

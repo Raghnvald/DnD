@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-note
 tags:
-  - ttrpg-cli/spell/list/race/kobold
+  - Zauber/list/race/kobold
 aliases:
   - Spells for Kobold
 ---

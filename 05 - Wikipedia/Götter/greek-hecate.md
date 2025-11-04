@@ -4,10 +4,10 @@ cssclasses:
 - json5e-deity
 tags:
 - Quelle/5e/phb
-- ttrpg-cli/deity/greek
-- Götter/domain/arcana
-- Götter/domain/knowledge
-- Götter/domain/trickery
+- Kompendium/Götter/greek
+- Kompendium/Götter/domain/arcana
+- Kompendium/Götter/domain/knowledge
+- Kompendium/Götter/domain/trickery
 aliases: 
 - Hecate
 ---

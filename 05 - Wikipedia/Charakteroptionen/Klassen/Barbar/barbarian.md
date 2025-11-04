@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-class
 tags:
-- ttrpg-cli/class/barbarian
+- Klasse/class/barbarian
 - Quelle/5e/phb
 aliases:
 - Barbarian

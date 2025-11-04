@@ -9,10 +9,10 @@ status:
 image:
 tags:
   - Quelle/5e/Monster_Manual
-  - Typ/Riese
-  - Größe/Riesig
-  - Habitat/Küste
-  - Habitat/Unterwasser
+  - Monster/Typ/Riese
+  - Monster/Größe/Riesig
+  - Monster/Habitat/Küste
+  - Monster/Habitat/Unterwasser
 aliases:
   - Storm Giant
 ---

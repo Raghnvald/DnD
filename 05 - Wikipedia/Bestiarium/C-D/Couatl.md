@@ -2,13 +2,13 @@
 cssclasses: json5e-monster
 Typ: Himmlisch
 tags:
-  - Größe/Mittelgroß
-  - Habitat/Grasland
-  - Habitat/Stadt
-  - Habitat/Wald
-  - Habitat/Wüste
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Grasland
+  - Monster/Habitat/Stadt
+  - Monster/Habitat/Wald
+  - Monster/Habitat/Wüste
   - Quelle/5e/Monster_Manual
-  - Typ/Himmlische
+  - Monster/Typ/Himmlische
 aliases:
   - Couatl
 ---

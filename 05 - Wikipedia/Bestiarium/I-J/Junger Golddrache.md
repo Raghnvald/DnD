@@ -2,10 +2,10 @@
 cssclasses: json5e-monster
 tags:
   - Quelle/5e/Monster_Manual
-  - Habitat/Wald
-  - Habitat/Grasland
-  - Größe/Groß
-  - Typ/Drache
+  - Monster/Habitat/Wald
+  - Monster/Habitat/Grasland
+  - Monster/Größe/Groß
+  - Monster/Typ/Drache
 aliases:
   - Young Gold Dragon
 ---

@@ -4,8 +4,8 @@ cssclasses:
 - json5e-item
 tags:
 - Quelle/5e/vgm
-- ttrpg-cli/item/armor/medium
-- ttrpg-cli/item/rarity/unknown
+- Gegenstand/item/armor/medium
+- Gegenstand/item/rarity/unknown
 aliases: 
 - "Survival Mantle"
 ---

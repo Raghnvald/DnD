@@ -3,8 +3,8 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/dmg
-  - ttrpg-cli/item/rarity/varies
-  - ttrpg-cli/item/wondrous/potion
+  - Gegenstand/item/rarity/varies
+  - Gegenstand/item/wondrous/potion
 aliases:
   - Potion of Healing (*)
 ---

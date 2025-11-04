@@ -3,7 +3,7 @@ cssclasses:
   - json5e-class
 tags:
   - Quelle/5e/tce
-  - ttrpg-cli/subclass/druid/spores
+  - Klasse/subclass/druid/spores
 aliases:
   - Circle of Spores
 ---

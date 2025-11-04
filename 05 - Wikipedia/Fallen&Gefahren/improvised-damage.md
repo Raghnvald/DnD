@@ -4,7 +4,7 @@ cssclasses:
 - json5e-hazard
 tags:
 - Quelle/5e/dmg
-- ttrpg-cli/hazard/gen
+- Kompendium/hazard/gen
 aliases:
 - Improvised Damage
 ---

@@ -2,9 +2,9 @@
 cssclasses: json5e-monster
 tags:
   - Quelle/5e/Monster_Manual
-  - Habitat/Unterreich
-  - Größe/Klein
-  - Typ/Humanoid/Grnom
+  - Monster/Habitat/Unterreich
+  - Monster/Größe/Klein
+  - Monster/Typ/Humanoid/Grnom
 aliases:
   - Deep Gnome (Svirfneblin)
 Typ: Humanoid

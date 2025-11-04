@@ -2,9 +2,9 @@
 cssclasses: json5e-monster
 tags:
   - Quelle/5e/Monster_Manual
-  - Habitat/Küste
-  - Größe/Gigantisch
-  - Typ/Drache
+  - Monster/Habitat/Küste
+  - Monster/Größe/Gigantisch
+  - Monster/Typ/Drache
 aliases:
   - Ancient Bronze Dragon
 ---

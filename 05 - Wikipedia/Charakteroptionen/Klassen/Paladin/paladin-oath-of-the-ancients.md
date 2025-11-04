@@ -4,7 +4,7 @@ cssclasses:
 - json5e-class
 tags:
 - Quelle/5e/phb
-- ttrpg-cli/subclass/paladin/ancients
+- Klasse/subclass/paladin/ancients
 aliases:
 - Oath of the Ancients
 ---

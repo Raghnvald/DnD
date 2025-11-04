@@ -3,7 +3,7 @@ cssclasses:
   - json5e-class
 tags:
   - Quelle/5e/xphb
-  - ttrpg-cli/subclass/warlock/great-old-one
+  - Klasse/subclass/warlock/great-old-one
 aliases:
   - Great Old One Patron
 ---

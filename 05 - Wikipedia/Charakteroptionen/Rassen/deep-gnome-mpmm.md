@@ -3,7 +3,7 @@ cssclasses:
   - json5e-race
 tags:
   - Quelle/5e/mpmm
-  - ttrpg-cli/race/deep-gnome
+  - Rasse/deep-gnome
 aliases:
   - Deep Gnome
 ---

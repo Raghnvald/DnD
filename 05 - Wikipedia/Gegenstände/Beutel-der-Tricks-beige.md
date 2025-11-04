@@ -31,7 +31,7 @@ Nachdem drei flauschige Gegenstände aus dem Beutel gezogen wurden, kann der Beu
 | 5 | [Schwarzbär](Schwarzbär.md) |
 | 6 | [Riesenwiesel](Riesenwiesel.md) |
 | 7 | [Riesenhyäne](Riesenhyäne.md) |
-| 8 | [Tiger](Tiger.md) |
+| 8 | [Tiger](D&D/05%20-%20Wikipedia/Bestiarium/S-T/Tiger.md) |
 ^creature
 
 *Quelle: SRD / Grundregelwerk*

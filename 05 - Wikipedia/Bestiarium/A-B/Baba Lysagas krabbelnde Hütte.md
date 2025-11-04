@@ -1,5 +1,5 @@
 ---
-tags: [Größe/Gigantisch, Quelle/5e/cos, Typ/Konstrukt]
+tags: [Monster/Größe/Gigantisch, Quelle/5e/cos, Monster/Typ/Konstrukt]
 aliases: ["Baba Lysaga’s Creeping Hut"]
 ---
 # Baba Lysagas krabbelnde Hütte

@@ -9,10 +9,10 @@ status:
 image:
 tags:
   - Quelle/5e/Monster_Manual
-  - Habitat/Wald
-  - Habitat/Grasland
-  - Größe/Groß
-  - Typ/Tier
+  - Monster/Habitat/Wald
+  - Monster/Habitat/Grasland
+  - Monster/Größe/Groß
+  - Monster/Typ/Tier
 aliases:
   - Tiger
 ---

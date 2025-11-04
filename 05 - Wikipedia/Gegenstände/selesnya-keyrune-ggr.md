@@ -4,8 +4,8 @@ cssclasses:
 - json5e-item
 tags:
 - Quelle/5e/ggr
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/rare
+- Gegenstand/item/attunement/required
+- Gegenstand/item/rarity/rare
 aliases: 
 - "Selesnya Keyrune"
 ---

@@ -4,7 +4,7 @@ cssclasses:
 - json5e-item
 tags:
 - Quelle/5e/ggr
-- ttrpg-cli/item/rarity/rare
+- Gegenstand/item/rarity/rare
 aliases: 
 - "Mizzium Mortar"
 ---

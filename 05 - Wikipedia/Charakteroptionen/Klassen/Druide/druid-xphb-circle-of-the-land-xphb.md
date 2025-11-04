@@ -3,7 +3,7 @@ cssclasses:
   - json5e-class
 tags:
   - Quelle/5e/xphb
-  - ttrpg-cli/subclass/druid/land
+  - Klasse/subclass/druid/land
 aliases:
   - Circle of the Land
 ---

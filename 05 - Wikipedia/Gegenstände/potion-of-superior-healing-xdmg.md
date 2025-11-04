@@ -4,8 +4,8 @@ cssclasses:
 - json5e-item
 tags:
 - Quelle/5e/xdmg
-- ttrpg-cli/item/rarity/rare
-- ttrpg-cli/item/wondrous/potion
+- Gegenstand/item/rarity/rare
+- Gegenstand/item/wondrous/potion
 aliases: 
 - "Potion of Superior Healing"
 ---

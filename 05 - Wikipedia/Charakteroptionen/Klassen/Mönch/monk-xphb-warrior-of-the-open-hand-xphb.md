@@ -3,7 +3,7 @@ cssclasses:
   - json5e-class
 tags:
   - Quelle/5e/xphb
-  - ttrpg-cli/subclass/monk/open-hand
+  - Klasse/subclass/monk/open-hand
 aliases:
   - Warrior of the Open Hand
 ---

@@ -4,9 +4,9 @@ cssclasses:
 - json5e-deity
 tags:
 - Quelle/5e/phb
-- ttrpg-cli/deity/celtic
-- Götter/domain/death
-- Götter/domain/life
+- Kompendium/Götter/celtic
+- Kompendium/Götter/domain/death
+- Kompendium/Götter/domain/life
 aliases: 
 - Arawn
 ---

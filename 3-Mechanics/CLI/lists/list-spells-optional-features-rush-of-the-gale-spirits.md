@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/optfeature/rush-of-the-gale-spirits
+- Zauber/list/optfeature/rush-of-the-gale-spirits
 aliases:
 - Spells for Rush of the Gale Spirits
 ---

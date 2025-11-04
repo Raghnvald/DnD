@@ -4,7 +4,7 @@ cssclasses:
 - json5e-reward
 tags:
 - Quelle/5e/dmg
-- ttrpg-cli/reward/boon
+- Kompendium/reward/boon
 aliases:
 - Boon of Fortitude
 ---

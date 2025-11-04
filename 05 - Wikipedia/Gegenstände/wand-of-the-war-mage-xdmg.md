@@ -3,9 +3,9 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/xdmg
-  - ttrpg-cli/item/attunement/required
-  - ttrpg-cli/item/rarity/varies
-  - ttrpg-cli/item/wondrous/wand
+  - Gegenstand/item/attunement/required
+  - Gegenstand/item/rarity/varies
+  - Gegenstand/item/wondrous/wand
 aliases:
   - Wand of the War Mage
 ---

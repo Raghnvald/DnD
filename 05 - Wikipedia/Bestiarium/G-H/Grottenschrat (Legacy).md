@@ -2,11 +2,11 @@
 cssclasses: json5e-monster
 tags:
   - Quelle/5e/Monster_Manual
-  - Habitat/Wald
-  - Habitat/Grasland
-  - Habitat/Unterreich
-  - Größe/Mittelgroß
-  - Typ/Humanoid/Goblinoid
+  - Monster/Habitat/Wald
+  - Monster/Habitat/Grasland
+  - Monster/Habitat/Unterreich
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/Humanoid/Goblinoid
 aliases:
   - Bugbear
 Typ: Humanoid

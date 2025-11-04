@@ -4,7 +4,7 @@ prefer-view:
 status:
   - completed
 tags:
-  - Götter/Domäne/Leben
+  - Kompendium/Götter/Domäne/Leben
   - Klasse/Kleriker
   - Quelle/5e/Players_Handbook
 aliases:

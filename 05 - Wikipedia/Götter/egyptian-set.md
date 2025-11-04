@@ -4,10 +4,10 @@ cssclasses:
 - json5e-deity
 tags:
 - Quelle/5e/phb
-- ttrpg-cli/deity/egyptian
-- Götter/domain/death
-- Götter/domain/tempest
-- Götter/domain/trickery
+- Kompendium/Götter/egyptian
+- Kompendium/Götter/domain/death
+- Kompendium/Götter/domain/tempest
+- Kompendium/Götter/domain/trickery
 aliases: 
 - Set
 ---

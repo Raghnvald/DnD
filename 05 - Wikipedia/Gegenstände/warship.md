@@ -4,8 +4,8 @@ cssclasses:
 - json5e-item
 tags:
 - Quelle/5e/dmg
-- ttrpg-cli/item/rarity/none
-- ttrpg-cli/item/vehicle/ship-water
+- Gegenstand/item/rarity/none
+- Gegenstand/item/vehicle/ship-water
 aliases: 
 - "Warship"
 ---

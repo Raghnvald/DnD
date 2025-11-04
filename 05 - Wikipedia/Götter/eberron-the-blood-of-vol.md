@@ -4,9 +4,9 @@ cssclasses:
 - json5e-deity
 tags:
 - Quelle/5e/phb
-- ttrpg-cli/deity/eberron
-- Götter/domain/death
-- Götter/domain/life
+- Kompendium/Götter/eberron
+- Kompendium/Götter/domain/death
+- Kompendium/Götter/domain/life
 aliases: 
 - The Blood of Vol
 ---

@@ -2,17 +2,17 @@
 cssclasses: json5e-monster
 tags:
   - Quelle/5e/Monster_Manual
-  - Habitat/Arktis
-  - Habitat/Küste
-  - Habitat/Wüste
-  - Habitat/Wald
-  - Habitat/Grasland
-  - Habitat/Hügel
-  - Habitat/Berg
-  - Habitat/Sumpf
-  - Habitat/Unterreich
-  - Größe/Mittelgroß
-  - Typ/Humanoid/jede-rasse
+  - Monster/Habitat/Arktis
+  - Monster/Habitat/Küste
+  - Monster/Habitat/Wüste
+  - Monster/Habitat/Wald
+  - Monster/Habitat/Grasland
+  - Monster/Habitat/Hügel
+  - Monster/Habitat/Berg
+  - Monster/Habitat/Sumpf
+  - Monster/Habitat/Unterreich
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/Humanoid/jede-rasse
 aliases:
   - Tribal Warrior
 Typ: Humanoid

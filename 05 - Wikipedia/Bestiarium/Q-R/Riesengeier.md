@@ -2,10 +2,10 @@
 cssclasses: json5e-monster
 tags:
   - Quelle/5e/Monster_Manual
-  - Habitat/Wüste
-  - Habitat/Grasland
-  - Größe/Groß
-  - Typ/Tier
+  - Monster/Habitat/Wüste
+  - Monster/Habitat/Grasland
+  - Monster/Größe/Groß
+  - Monster/Typ/Tier
 aliases:
   - Giant Vulture
 ---

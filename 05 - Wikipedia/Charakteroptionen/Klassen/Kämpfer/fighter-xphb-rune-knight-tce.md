@@ -3,7 +3,7 @@ cssclasses:
   - json5e-class
 tags:
   - Quelle/5e/tce
-  - ttrpg-cli/subclass/fighter/rune-knight
+  - Klasse/subclass/fighter/rune-knight
 aliases:
   - Rune Knight
 ---

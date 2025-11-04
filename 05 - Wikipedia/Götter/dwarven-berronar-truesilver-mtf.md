@@ -3,10 +3,10 @@ cssclasses:
   - json5e-deity
 tags:
   - Quelle/5e/mtf
-  - ttrpg-cli/deity/dwarven
-  - Götter/domain/life
-  - Götter/domain/light
-  - Götter/domain/peace
+  - Kompendium/Götter/dwarven
+  - Kompendium/Götter/domain/life
+  - Kompendium/Götter/domain/light
+  - Kompendium/Götter/domain/peace
 aliases:
   - Berronar Truesilver
 ---

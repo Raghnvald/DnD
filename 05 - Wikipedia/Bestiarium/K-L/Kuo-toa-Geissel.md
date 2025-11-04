@@ -9,7 +9,7 @@ status:
 image:
 tags:
   - Quelle/5e/Monster_Manual
-  - Typ/Aberration
+  - Monster/Typ/Aberration
 aliases:
   - Kuo-toa Whip
 ---

@@ -4,7 +4,7 @@ cssclasses:
 - json5e-hazard
 tags:
 - Quelle/5e/xge
-- ttrpg-cli/hazard/smpl
+- Kompendium/hazard/smpl
 aliases:
 - Pit Trap
 ---

@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-note
 tags:
-  - ttrpg-cli/spell/list/subclass/oath-of-redemption
+  - Zauber/list/subclass/oath-of-redemption
 aliases:
   - Spells for Oath of Redemption
 ---

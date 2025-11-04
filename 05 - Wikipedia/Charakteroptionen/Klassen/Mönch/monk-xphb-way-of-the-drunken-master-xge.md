@@ -3,7 +3,7 @@ cssclasses:
   - json5e-class
 tags:
   - Quelle/5e/xge
-  - ttrpg-cli/subclass/monk/drunken-master
+  - Klasse/subclass/monk/drunken-master
 aliases:
   - Way of the Drunken Master
 ---

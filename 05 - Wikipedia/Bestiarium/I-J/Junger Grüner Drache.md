@@ -2,9 +2,9 @@
 cssclasses: json5e-monster
 tags:
   - Quelle/5e/Monster_Manual
-  - Habitat/Wald
-  - Größe/Groß
-  - Typ/Drache
+  - Monster/Habitat/Wald
+  - Monster/Größe/Groß
+  - Monster/Typ/Drache
 aliases:
   - Young Green Dragon
 ---

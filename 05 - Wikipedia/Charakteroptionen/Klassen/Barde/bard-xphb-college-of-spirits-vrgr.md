@@ -3,7 +3,7 @@ cssclasses:
   - json5e-class
 tags:
   - Quelle/5e/vrgr
-  - ttrpg-cli/subclass/bard/spirits
+  - Klasse/subclass/bard/spirits
 aliases:
   - College of Spirits
 ---

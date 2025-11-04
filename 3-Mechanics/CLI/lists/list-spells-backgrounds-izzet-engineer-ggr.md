@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/background/izzet-engineer
+- Zauber/list/background/izzet-engineer
 aliases:
 - Spells for Izzet Engineer
 ---

@@ -9,9 +9,9 @@ status:
 image:
 tags:
   - Quelle/5e/Monster_Manual
-  - Typ/Riese
-  - Größe/Riesig
-  - Habitat/Hügel
+  - Monster/Typ/Riese
+  - Monster/Größe/Riesig
+  - Monster/Habitat/Hügel
 aliases:
   - Hill Giant
 ---

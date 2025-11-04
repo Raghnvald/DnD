@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-note
 tags:
-  - ttrpg-cli/spell/list/subclass/trickery-domain
+  - Zauber/list/subclass/trickery-domain
 aliases:
   - Spells for Trickery Domain
 ---

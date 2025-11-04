@@ -2,10 +2,10 @@
 cssclasses: json5e-monster
 tags:
   - Quelle/5e/Monster_Manual
-  - Habitat/Berg
-  - Habitat/Stadt
-  - Größe/Groß
-  - Typ/Drache
+  - Monster/Habitat/Berg
+  - Monster/Habitat/Stadt
+  - Monster/Größe/Groß
+  - Monster/Typ/Drache
 aliases:
   - Young Silver Dragon
 ---

@@ -8,10 +8,10 @@ HG:
 status:
 image:
 tags:
-  - Größe/Riesig
-  - Habitat/Grasland
+  - Monster/Größe/Riesig
+  - Monster/Habitat/Grasland
   - Quelle/5e/Monster_Manual
-  - Typ/Tier
+  - Monster/Typ/Tier
 aliases:
   - Elephant
 ---

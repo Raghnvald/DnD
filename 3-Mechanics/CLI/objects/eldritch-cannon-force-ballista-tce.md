@@ -3,8 +3,8 @@ cssclasses:
   - json5e-object
 tags:
   - Quelle/5e/tce
-  - ttrpg-cli/object/size/unknown
-  - ttrpg-cli/object/type/unknown
+  - Kompendium/object/size/unknown
+  - Kompendium/object/type/unknown
 aliases:
   - Eldritch Cannon, Force Ballista
 ---

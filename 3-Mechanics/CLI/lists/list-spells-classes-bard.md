@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-note
 tags:
-  - ttrpg-cli/spell/list/class/bard
+  - Zauber/list/class/bard
 aliases:
   - Bard Spells
 ---

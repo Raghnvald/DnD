@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-note
 tags:
-  - ttrpg-cli/spell/list/subclass/circle-of-wildfire
+  - Zauber/list/subclass/circle-of-wildfire
 aliases:
   - Spells for Circle of Wildfire
 ---

@@ -3,7 +3,7 @@ cssclasses:
   - json5e-class
 tags:
   - Quelle/5e/tce
-  - ttrpg-cli/subclass/paladin/watchers
+  - Klasse/subclass/paladin/watchers
 aliases:
   - Oath of the Watchers
 ---

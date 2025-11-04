@@ -4,12 +4,12 @@ cssclasses:
 - json5e-item
 tags:
 - Quelle/5e/dmg
-- ttrpg-cli/item/armor/heavy
-- ttrpg-cli/item/armor/light
-- ttrpg-cli/item/armor/medium
-- ttrpg-cli/item/rarity/uncommon
-- ttrpg-cli/item/tier/minor
-- ttrpg-cli/item/wondrous/generic-variant
+- Gegenstand/item/armor/heavy
+- Gegenstand/item/armor/light
+- Gegenstand/item/armor/medium
+- Gegenstand/item/rarity/uncommon
+- Gegenstand/item/tier/minor
+- Gegenstand/item/wondrous/generic-variant
 aliases: 
 - "Mariner's Armor"
 - "Mariner's Breastplate"

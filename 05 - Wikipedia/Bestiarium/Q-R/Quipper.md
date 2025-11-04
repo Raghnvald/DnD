@@ -9,9 +9,9 @@ status:
 image:
 tags:
   - Quelle/5e/Monster_Manual
-  - Habitat/Unterwasser
-  - Größe/Winzig
-  - Typ/Tier
+  - Monster/Habitat/Unterwasser
+  - Monster/Größe/Winzig
+  - Monster/Typ/Tier
 aliases:
   - Quipper
 ---

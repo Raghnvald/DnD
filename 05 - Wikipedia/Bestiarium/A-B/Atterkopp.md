@@ -1,10 +1,10 @@
 ---
 cssclasses: json5e-monster
 tags:
-  - Größe/Mittelgroß
-  - Habitat/Wald
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Wald
   - Quelle/5e/Monster_Manual
-  - Typ/Monstrosität
+  - Monster/Typ/Monstrosität
 aliases:
   - Ettercap
 ---

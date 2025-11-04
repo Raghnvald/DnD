@@ -3,7 +3,7 @@ cssclasses:
   - json5e-class
 tags:
   - Quelle/5e/xphb
-  - ttrpg-cli/subclass/monk/elements
+  - Klasse/subclass/monk/elements
 aliases:
   - Warrior of the Elements
 ---

@@ -3,9 +3,9 @@ cssclasses:
   - json5e-monster
 tags:
   - Quelle/5e/cos
-  - Habitat/Stadt
-  - Größe/Mittelgroß
-  - Typ/Humanoid
+  - Monster/Habitat/Stadt
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/Humanoid
 aliases:
   - Rahadin
 Typ: Humanoid

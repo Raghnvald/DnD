@@ -2,9 +2,9 @@
 cssclasses: json5e-monster
 tags:
   - Quelle/5e/Monster_Manual
-  - Habitat/Stadt
-  - Größe/Mittelgroß
-  - Typ/Unhold
+  - Monster/Habitat/Stadt
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/Unhold
 aliases:
   - Rakshasa
 Typ: Unhold

@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-note
 tags:
-  - ttrpg-cli/spell/list/school/abjuration
+  - Zauber/list/school/abjuration
 aliases:
   - Abjuration Spells
 ---

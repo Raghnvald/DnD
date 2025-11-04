@@ -4,9 +4,9 @@ cssclasses:
 - json5e-deity
 tags:
 - Quelle/5e/vgm
-- ttrpg-cli/deity/orc
-- Götter/domain/tempest
-- Götter/domain/war
+- Kompendium/Götter/orc
+- Kompendium/Götter/domain/tempest
+- Kompendium/Götter/domain/war
 aliases: 
 - Gruumsh
 ---

@@ -2,9 +2,9 @@
 cssclasses: json5e-monster
 tags:
   - Quelle/5e/Monster_Manual
-  - Habitat/Arktis
-  - Größe/Riesig
-  - Typ/Monstrosität
+  - Monster/Habitat/Arktis
+  - Monster/Größe/Riesig
+  - Monster/Typ/Monstrosität
 aliases:
   - Remorhaz
 ---

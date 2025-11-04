@@ -3,7 +3,7 @@ cssclasses:
   - json5e-class
 tags:
   - Quelle/5e/tce
-  - ttrpg-cli/subclass/rogue/phantom
+  - Klasse/subclass/rogue/phantom
 aliases:
   - Phantom
 ---

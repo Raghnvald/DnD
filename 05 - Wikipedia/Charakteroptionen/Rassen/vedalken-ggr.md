@@ -4,7 +4,7 @@ cssclasses:
 - json5e-race
 tags:
 - Quelle/5e/ggr
-- ttrpg-cli/race/vedalken
+- Rasse/vedalken
 aliases:
 - Vedalken
 ---

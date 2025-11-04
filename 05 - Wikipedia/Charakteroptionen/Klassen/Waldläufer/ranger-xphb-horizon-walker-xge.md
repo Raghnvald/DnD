@@ -3,7 +3,7 @@ cssclasses:
   - json5e-class
 tags:
   - Quelle/5e/xge
-  - ttrpg-cli/subclass/ranger/horizon-walker
+  - Klasse/subclass/ranger/horizon-walker
 aliases:
   - Horizon Walker
 ---

@@ -3,7 +3,7 @@ cssclasses:
   - json5e-race
 tags:
   - Quelle/5e/mpmm
-  - ttrpg-cli/race/harengon
+  - Rasse/harengon
 aliases:
   - Harengon
 ---

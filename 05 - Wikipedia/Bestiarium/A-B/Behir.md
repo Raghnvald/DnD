@@ -1,10 +1,10 @@
 ---
 cssclasses: json5e-monster
 tags:
-  - Größe/Riesig
-  - Habitat/Unterreich
+  - Monster/Größe/Riesig
+  - Monster/Habitat/Unterreich
   - Quelle/5e/Monster_Manual
-  - Typ/Monstrosität
+  - Monster/Typ/Monstrosität
 aliases:
   - Behir
 ---

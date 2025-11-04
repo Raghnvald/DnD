@@ -3,7 +3,7 @@ cssclasses:
   - json5e-class
 tags:
   - Quelle/5e/xphb
-  - ttrpg-cli/subclass/sorcerer/wild-magic
+  - Klasse/subclass/sorcerer/wild-magic
 aliases:
   - Wild Magic Sorcery
 ---

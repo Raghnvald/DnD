@@ -3,8 +3,8 @@ cssclasses:
   - json5e-class
 tags:
   - Quelle/5e/xphb
-  - Götter/domain/trickery
-  - ttrpg-cli/subclass/cleric/trickery
+  - Kompendium/Götter/domain/trickery
+  - Klasse/subclass/cleric/trickery
 aliases:
   - Trickery Domain
 ---

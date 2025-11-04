@@ -4,9 +4,9 @@ cssclasses:
 - json5e-deity
 tags:
 - Quelle/5e/phb
-- ttrpg-cli/deity/celtic
-- Götter/domain/nature
-- Götter/domain/tempest
+- Kompendium/Götter/celtic
+- Kompendium/Götter/domain/nature
+- Kompendium/Götter/domain/tempest
 aliases: 
 - Manannan mac Lir
 ---

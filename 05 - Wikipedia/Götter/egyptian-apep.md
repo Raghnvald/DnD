@@ -4,8 +4,8 @@ cssclasses:
 - json5e-deity
 tags:
 - Quelle/5e/phb
-- ttrpg-cli/deity/egyptian
-- Götter/domain/trickery
+- Kompendium/Götter/egyptian
+- Kompendium/Götter/domain/trickery
 aliases: 
 - Apep
 ---

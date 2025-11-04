@@ -3,7 +3,7 @@ cssclasses:
   - json5e-class
 tags:
   - Quelle/5e/xphb
-  - ttrpg-cli/subclass/warlock/celestial
+  - Klasse/subclass/warlock/celestial
 aliases:
   - Celestial Patron
 ---

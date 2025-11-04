@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-note
 tags:
-  - ttrpg-cli/spell/list/subclass/tempest-domain
+  - Zauber/list/subclass/tempest-domain
 aliases:
   - Spells for Tempest Domain
 ---

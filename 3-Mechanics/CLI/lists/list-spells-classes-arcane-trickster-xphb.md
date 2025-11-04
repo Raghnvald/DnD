@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-note
 tags:
-  - ttrpg-cli/spell/list/subclass/arcane-trickster
+  - Zauber/list/subclass/arcane-trickster
 aliases:
   - Spells for Arcane Trickster
 ---

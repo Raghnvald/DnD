@@ -3,7 +3,7 @@ cssclasses:
   - json5e-class
 tags:
   - Quelle/5e/xphb
-  - ttrpg-cli/subclass/barbarian/berserker
+  - Klasse/subclass/barbarian/berserker
 aliases:
   - Path of the Berserker
 ---

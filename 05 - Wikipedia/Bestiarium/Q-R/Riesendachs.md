@@ -9,9 +9,9 @@ status:
 image:
 tags:
   - Quelle/5e/Monster_Manual
-  - Habitat/Wald
-  - Größe/Mittelgroß
-  - Typ/Tier
+  - Monster/Habitat/Wald
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/Tier
 aliases:
   - Giant Badger
 ---

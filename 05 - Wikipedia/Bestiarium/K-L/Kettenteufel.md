@@ -7,9 +7,9 @@ type:
   - creature
 tags:
   - Quelle/5e/Monster_Manual
-  - Typ/Unhold/Teufel
-  - Größe/Mittelgroß
-  - Habitat/Planar/Neun-Höllen
+  - Monster/Typ/Unhold/Teufel
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Planar/Neun-Höllen
 aliases:
   - Chain Devil
 link:

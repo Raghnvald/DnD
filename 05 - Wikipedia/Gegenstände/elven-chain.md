@@ -4,9 +4,9 @@ cssclasses:
 - json5e-item
 tags:
 - Quelle/5e/dmg
-- ttrpg-cli/item/armor/medium
-- ttrpg-cli/item/rarity/rare
-- ttrpg-cli/item/tier/major
+- Gegenstand/item/armor/medium
+- Gegenstand/item/rarity/rare
+- Gegenstand/item/tier/major
 aliases: 
 - "Elven Chain"
 ---

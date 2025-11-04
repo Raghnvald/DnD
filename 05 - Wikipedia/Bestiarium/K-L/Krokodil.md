@@ -9,10 +9,10 @@ status:
 image:
 tags:
   - Quelle/5e/Monster_Manual
-  - Habitat/Sumpf
-  - Habitat/Stadt
-  - Größe/Groß
-  - Typ/Tier
+  - Monster/Habitat/Sumpf
+  - Monster/Habitat/Stadt
+  - Monster/Größe/Groß
+  - Monster/Typ/Tier
 aliases:
   - Crocodile
 ---

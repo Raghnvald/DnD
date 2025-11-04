@@ -3,7 +3,7 @@ cssclasses:
   - json5e-class
 tags:
   - Quelle/5e/phb
-  - ttrpg-cli/subclass/wizard/conjuration
+  - Klasse/subclass/wizard/conjuration
 aliases:
   - School of Conjuration
 ---

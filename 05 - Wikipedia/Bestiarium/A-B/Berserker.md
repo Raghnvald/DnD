@@ -2,15 +2,15 @@
 cssclasses: json5e-monster
 tags:
   - DnD/Kompendium/Quelle/5e/MM 2024
-  - Größe/Klein
-  - Größe/Mittelgroß
-  - Habitat/Arktis
-  - Habitat/Berg
-  - Habitat/Hügel
-  - Habitat/Küste
-  - Habitat/Wald
-  - Habitat/Wüste
-  - Typ/Humanoid
+  - Monster/Größe/Klein
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Arktis
+  - Monster/Habitat/Berg
+  - Monster/Habitat/Hügel
+  - Monster/Habitat/Küste
+  - Monster/Habitat/Wald
+  - Monster/Habitat/Wüste
+  - Monster/Typ/Humanoid
 aliases:
   - Berserker
 Typ: Humanoid

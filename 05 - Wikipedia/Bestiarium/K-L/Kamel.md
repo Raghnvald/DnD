@@ -9,9 +9,9 @@ status:
 image:
 tags:
   - Quelle/5e/Monster_Manual
-  - Habitat/Wüste
-  - Größe/Groß
-  - Typ/Tier
+  - Monster/Habitat/Wüste
+  - Monster/Größe/Groß
+  - Monster/Typ/Tier
 aliases:
   - Camel
 ---

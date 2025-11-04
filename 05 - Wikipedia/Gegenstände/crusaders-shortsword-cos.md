@@ -3,10 +3,10 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/cos
-  - ttrpg-cli/item/attunement/required
-  - ttrpg-cli/item/rarity/unknown/magic
-  - ttrpg-cli/item/weapon/martial
-  - ttrpg-cli/item/weapon/melee
+  - Gegenstand/item/attunement/required
+  - Gegenstand/item/rarity/unknown/magic
+  - Gegenstand/item/weapon/martial
+  - Gegenstand/item/weapon/melee
 aliases:
   - Crusader's Shortsword
 ---

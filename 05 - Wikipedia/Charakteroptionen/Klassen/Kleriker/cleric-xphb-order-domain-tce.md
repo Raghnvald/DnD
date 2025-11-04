@@ -3,8 +3,8 @@ cssclasses:
   - json5e-class
 tags:
   - Quelle/5e/tce
-  - Götter/domain/order
-  - ttrpg-cli/subclass/cleric/order
+  - Kompendium/Götter/domain/order
+  - Klasse/subclass/cleric/order
 aliases:
   - Order Domain
 ---

@@ -3,9 +3,9 @@ cssclasses:
   - json5e-monster
 Typ: Humanoid
 tags:
-  - Größe/Mittelgroß
+  - Monster/Größe/Mittelgroß
   - Quelle/5e/cos
-  - Typ/Humanoid
+  - Monster/Typ/Humanoid
 aliases:
   - Esmeralda d'Avenir
 ---

@@ -4,9 +4,9 @@ cssclasses:
 - json5e-item
 tags:
 - Quelle/5e/dmg
-- ttrpg-cli/item/age/renaissance
-- ttrpg-cli/item/rarity/none
-- ttrpg-cli/item/weapon/explosive
+- Gegenstand/item/age/renaissance
+- Gegenstand/item/rarity/none
+- Gegenstand/item/weapon/explosive
 aliases: 
 - "Bomb"
 ---

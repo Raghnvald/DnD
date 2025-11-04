@@ -9,10 +9,10 @@ status:
 image:
 tags:
   - Quelle/5e/Monster_Manual
-  - Habitat/Küste
-  - Habitat/Unterwasser
-  - Größe/Groß
-  - Typ/Tier
+  - Monster/Habitat/Küste
+  - Monster/Habitat/Unterwasser
+  - Monster/Größe/Groß
+  - Monster/Typ/Tier
 aliases:
   - Plesiosaurus
 ---

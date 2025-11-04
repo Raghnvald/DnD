@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-class
 tags:
-  - ttrpg-cli/class/monk
+  - Klasse/class/monk
   - Quelle/5e/xphb
 aliases:
   - Monk

@@ -3,9 +3,9 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/xphb
-  - ttrpg-cli/item/rarity/none
-  - ttrpg-cli/item/weapon/martial
-  - ttrpg-cli/item/weapon/ranged
+  - Gegenstand/item/rarity/none
+  - Gegenstand/item/weapon/martial
+  - Gegenstand/item/weapon/ranged
 aliases:
   - Hand Crossbow
 ---

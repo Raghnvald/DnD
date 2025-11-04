@@ -3,8 +3,8 @@ cssclasses:
   - json5e-class
 tags:
   - Quelle/5e/phb
-  - Götter/domain/nature
-  - ttrpg-cli/subclass/cleric/nature
+  - Kompendium/Götter/domain/nature
+  - Klasse/subclass/cleric/nature
 aliases:
   - Nature Domain
 ---

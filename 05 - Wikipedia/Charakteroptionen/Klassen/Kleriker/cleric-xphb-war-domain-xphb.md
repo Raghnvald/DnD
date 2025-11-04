@@ -3,8 +3,8 @@ cssclasses:
   - json5e-class
 tags:
   - Quelle/5e/xphb
-  - Götter/domain/war
-  - ttrpg-cli/subclass/cleric/war
+  - Kompendium/Götter/domain/war
+  - Klasse/subclass/cleric/war
 aliases:
   - War Domain
 ---

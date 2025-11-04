@@ -2,10 +2,10 @@
 cssclasses: json5e-monster
 tags:
   - Quelle/5e/Monster_Manual
-  - Habitat/Küste
-  - Habitat/Wüste
-  - Größe/Groß
-  - Typ/Drache
+  - Monster/Habitat/Küste
+  - Monster/Habitat/Wüste
+  - Monster/Größe/Groß
+  - Monster/Typ/Drache
 aliases:
   - Young Blue Dragon
 ---

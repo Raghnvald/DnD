@@ -3,12 +3,12 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/xdmg
-  - ttrpg-cli/item/armor/heavy
-  - ttrpg-cli/item/armor/light
-  - ttrpg-cli/item/armor/medium
-  - ttrpg-cli/item/attunement/required
-  - ttrpg-cli/item/rarity/very-rare
-  - ttrpg-cli/item/wondrous/generic-variant
+  - Gegenstand/item/armor/heavy
+  - Gegenstand/item/armor/light
+  - Gegenstand/item/armor/medium
+  - Gegenstand/item/attunement/required
+  - Gegenstand/item/rarity/very-rare
+  - Gegenstand/item/wondrous/generic-variant
 aliases:
   - Enspelled Armor (Level 4)
   - Enspelled (Level 4) Breastplate

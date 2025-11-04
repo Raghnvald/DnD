@@ -3,7 +3,7 @@ cssclasses:
   - json5e-race
 tags:
   - Quelle/5e/dmg
-  - ttrpg-cli/race/elf/eladrin
+  - Rasse/elf/eladrin
 aliases:
   - Elf (Eladrin)
 ---

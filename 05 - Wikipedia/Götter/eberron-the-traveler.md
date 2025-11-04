@@ -4,9 +4,9 @@ cssclasses:
 - json5e-deity
 tags:
 - Quelle/5e/phb
-- ttrpg-cli/deity/eberron
-- Götter/domain/knowledge
-- Götter/domain/trickery
+- Kompendium/Götter/eberron
+- Kompendium/Götter/domain/knowledge
+- Kompendium/Götter/domain/trickery
 aliases: 
 - The Traveler
 ---

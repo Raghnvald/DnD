@@ -4,8 +4,8 @@ cssclasses:
 - json5e-item
 tags:
 - Quelle/5e/xphb
-- ttrpg-cli/item/gear/gaming-set
-- ttrpg-cli/item/rarity/none
+- Gegenstand/item/gear/gaming-set
+- Gegenstand/item/rarity/none
 aliases: 
 - "Three-Dragon Ante Set"
 ---

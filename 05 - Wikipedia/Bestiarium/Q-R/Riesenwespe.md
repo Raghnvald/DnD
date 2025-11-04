@@ -9,11 +9,11 @@ status:
 image:
 tags:
   - Quelle/5e/Monster_Manual
-  - Habitat/Wald
-  - Habitat/Grasland
-  - Habitat/Stadt
-  - Größe/Mittelgroß
-  - Typ/Tier
+  - Monster/Habitat/Wald
+  - Monster/Habitat/Grasland
+  - Monster/Habitat/Stadt
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/Tier
 aliases:
   - Giant Wasp
 ---

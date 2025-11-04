@@ -3,10 +3,10 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/phb
-  - ttrpg-cli/item/gear/ammunition
-  - ttrpg-cli/item/rarity/unknown
-  - ttrpg-cli/item/tier/minor
-  - ttrpg-cli/item/wondrous/generic-variant
+  - Gegenstand/item/gear/ammunition
+  - Gegenstand/item/rarity/unknown
+  - Gegenstand/item/tier/minor
+  - Gegenstand/item/wondrous/generic-variant
 aliases:
   - Silvered Ammunition
   - Silvered Arrow

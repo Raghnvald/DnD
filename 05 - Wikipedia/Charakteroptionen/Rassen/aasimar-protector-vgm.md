@@ -4,7 +4,7 @@ cssclasses:
 - json5e-race
 tags:
 - Quelle/5e/vgm
-- ttrpg-cli/race/aasimar/protector
+- Rasse/aasimar/protector
 aliases:
 - Aasimar (Protector)
 ---

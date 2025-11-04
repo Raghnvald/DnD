@@ -4,8 +4,8 @@ cssclasses:
 - json5e-item
 tags:
 - Quelle/5e/vgm
-- ttrpg-cli/item/rarity/unknown
-- ttrpg-cli/item/wondrous/other
+- Gegenstand/item/rarity/unknown
+- Gegenstand/item/wondrous/other
 aliases: 
 - "Flensing Claws (Huge)"
 ---

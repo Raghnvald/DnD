@@ -3,7 +3,7 @@ cssclasses:
   - json5e-class
 tags:
   - Quelle/5e/tce
-  - ttrpg-cli/subclass/wizard/scribes
+  - Klasse/subclass/wizard/scribes
 aliases:
   - Order of Scribes
 ---

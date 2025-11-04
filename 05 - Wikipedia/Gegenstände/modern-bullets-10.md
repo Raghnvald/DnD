@@ -4,9 +4,9 @@ cssclasses:
 - json5e-item
 tags:
 - Quelle/5e/dmg
-- ttrpg-cli/item/age/modern
-- ttrpg-cli/item/gear/ammunition-firearm
-- ttrpg-cli/item/rarity/none
+- Gegenstand/item/age/modern
+- Gegenstand/item/gear/ammunition-firearm
+- Gegenstand/item/rarity/none
 aliases: 
 - "Modern Bullets (10)"
 ---

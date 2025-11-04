@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/subrace/elf-drow
+- Zauber/list/subrace/elf-drow
 aliases:
 - Spells for Elf (Drow)
 ---

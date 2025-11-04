@@ -4,7 +4,7 @@ cssclasses:
 - json5e-race
 tags:
 - Quelle/5e/vgm
-- ttrpg-cli/race/aasimar/fallen
+- Rasse/aasimar/fallen
 aliases:
 - Aasimar (Fallen)
 ---

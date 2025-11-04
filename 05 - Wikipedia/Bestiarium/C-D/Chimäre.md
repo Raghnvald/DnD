@@ -1,13 +1,13 @@
 ---
 cssclasses: json5e-monster
 tags:
-  - Größe/Groß
-  - Habitat/Berg
-  - Habitat/Grasland
-  - Habitat/Hügel
-  - Habitat/Unterreich
+  - Monster/Größe/Groß
+  - Monster/Habitat/Berg
+  - Monster/Habitat/Grasland
+  - Monster/Habitat/Hügel
+  - Monster/Habitat/Unterreich
   - Quelle/5e/Monster_Manual
-  - Typ/Monstrosität
+  - Monster/Typ/Monstrosität
 aliases:
   - Chimera
 ---

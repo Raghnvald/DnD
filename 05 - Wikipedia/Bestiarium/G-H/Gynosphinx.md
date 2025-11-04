@@ -2,9 +2,9 @@
 cssclasses: json5e-monster
 tags:
   - Quelle/5e/Monster_Manual
-  - Habitat/Wüste
-  - Größe/Groß
-  - Typ/Monstrosität
+  - Monster/Habitat/Wüste
+  - Monster/Größe/Groß
+  - Monster/Typ/Monstrosität
 aliases:
   - Gynosphinx
 ---

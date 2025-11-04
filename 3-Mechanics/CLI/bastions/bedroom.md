@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-bastion
 tags:
-- ttrpg-cli/bastion
+- Kompendium/bastion
 - Quelle/5e/xdmg
 aliases:
 - Bedroom

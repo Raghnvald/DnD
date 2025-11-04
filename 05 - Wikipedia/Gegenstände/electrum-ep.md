@@ -3,8 +3,8 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/phb
-  - ttrpg-cli/item/gear/treasure-coinage
-  - ttrpg-cli/item/rarity/none
+  - Gegenstand/item/gear/treasure-coinage
+  - Gegenstand/item/rarity/none
 aliases:
   - Electrum (ep)
 ---

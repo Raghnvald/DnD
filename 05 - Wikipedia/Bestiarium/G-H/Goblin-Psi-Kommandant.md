@@ -9,12 +9,12 @@ status:
 image:
 tags:
   - Quelle/5e/lmop
-  - Habitat/Wald
-  - Habitat/Grasland
-  - Habitat/Hügel
-  - Habitat/Unterreich
-  - Größe/Klein
-  - Typ/Aberration/Goblinoid
+  - Monster/Habitat/Wald
+  - Monster/Habitat/Grasland
+  - Monster/Habitat/Hügel
+  - Monster/Habitat/Unterreich
+  - Monster/Größe/Klein
+  - Monster/Typ/Aberration/Goblinoid
 aliases:
   - Goblin Psi Commander
 ---

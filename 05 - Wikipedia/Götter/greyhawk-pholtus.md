@@ -4,9 +4,9 @@ cssclasses:
 - json5e-deity
 tags:
 - Quelle/5e/phb
-- ttrpg-cli/deity/greyhawk
-- Götter/domain/light
-- Götter/domain/order
+- Kompendium/Götter/greyhawk
+- Kompendium/Götter/domain/light
+- Kompendium/Götter/domain/order
 aliases: 
 - Pholtus
 ---

@@ -4,7 +4,7 @@ cssclasses:
 - json5e-item
 tags:
 - Quelle/5e/pabtso
-- ttrpg-cli/item/rarity/unknown/magic
+- Gegenstand/item/rarity/unknown/magic
 aliases: 
 - "Statuette of Augury"
 ---

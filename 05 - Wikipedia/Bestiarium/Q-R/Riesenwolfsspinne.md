@@ -9,13 +9,13 @@ status:
 image:
 tags:
   - Quelle/5e/Monster_Manual
-  - Habitat/Küste
-  - Habitat/Wüste
-  - Habitat/Wald
-  - Habitat/Grasland
-  - Habitat/Hügel
-  - Größe/Mittelgroß
-  - Typ/Tier
+  - Monster/Habitat/Küste
+  - Monster/Habitat/Wüste
+  - Monster/Habitat/Wald
+  - Monster/Habitat/Grasland
+  - Monster/Habitat/Hügel
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/Tier
 aliases:
   - Giant Wolf Spider
 ---

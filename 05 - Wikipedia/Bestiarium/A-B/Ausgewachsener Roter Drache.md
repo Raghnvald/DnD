@@ -1,11 +1,11 @@
 ---
 cssclasses: json5e-monster
 tags:
-  - Größe/Riesig
-  - Habitat/Berg
-  - Habitat/Hügel
+  - Monster/Größe/Riesig
+  - Monster/Habitat/Berg
+  - Monster/Habitat/Hügel
   - Quelle/5e/Monster_Manual
-  - Typ/Drache
+  - Monster/Typ/Drache
 aliases:
   - Adult Red Dragon
 ---

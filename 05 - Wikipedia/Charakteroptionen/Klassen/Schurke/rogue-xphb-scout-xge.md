@@ -3,7 +3,7 @@ cssclasses:
   - json5e-class
 tags:
   - Quelle/5e/xge
-  - ttrpg-cli/subclass/rogue/scout
+  - Klasse/subclass/rogue/scout
 aliases:
   - Scout
 ---

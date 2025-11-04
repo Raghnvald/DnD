@@ -3,8 +3,8 @@ cssclasses:
   - json5e-deity
 tags:
   - Quelle/5e/vrgr
-  - ttrpg-cli/deity/unknown
-  - Götter/domain/unknown
+  - Kompendium/Götter/unknown
+  - Kompendium/Götter/domain/unknown
 aliases:
   - Ezra
 ---

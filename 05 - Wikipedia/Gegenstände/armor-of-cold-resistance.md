@@ -4,13 +4,13 @@ cssclasses:
 - json5e-item
 tags:
 - Quelle/5e/dmg
-- ttrpg-cli/item/armor/heavy
-- ttrpg-cli/item/armor/light
-- ttrpg-cli/item/armor/medium
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/rare
-- ttrpg-cli/item/tier/major
-- ttrpg-cli/item/wondrous/generic-variant
+- Gegenstand/item/armor/heavy
+- Gegenstand/item/armor/light
+- Gegenstand/item/armor/medium
+- Gegenstand/item/attunement/required
+- Gegenstand/item/rarity/rare
+- Gegenstand/item/tier/major
+- Gegenstand/item/wondrous/generic-variant
 aliases: 
 - "Armor of Cold Resistance"
 - "Breastplate of Cold Resistance"

@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/subrace/genasi-earth
+- Zauber/list/subrace/genasi-earth
 aliases:
 - Spells for Genasi (Earth)
 ---

@@ -3,7 +3,7 @@ cssclasses:
   - json5e-race
 tags:
   - Quelle/5e/vrgr
-  - ttrpg-cli/race/dhampir
+  - Rasse/dhampir
 aliases:
   - Dhampir
 ---

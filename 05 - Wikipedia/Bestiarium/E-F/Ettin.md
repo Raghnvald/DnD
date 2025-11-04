@@ -1,12 +1,12 @@
 ---
 cssclasses: json5e-monster
 tags:
-  - Größe/Groß
-  - Habitat/Berg
-  - Habitat/Hügel
-  - Habitat/Unterreich
+  - Monster/Größe/Groß
+  - Monster/Habitat/Berg
+  - Monster/Habitat/Hügel
+  - Monster/Habitat/Unterreich
   - Quelle/5e/Monster_Manual
-  - Typ/Riese
+  - Monster/Typ/Riese
 aliases:
   - Ettin
 ---

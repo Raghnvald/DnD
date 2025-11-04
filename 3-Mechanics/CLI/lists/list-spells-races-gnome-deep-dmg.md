@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/race/gnome-deep
+- Zauber/list/race/gnome-deep
 aliases:
 - Spells for Gnome (Deep)
 ---

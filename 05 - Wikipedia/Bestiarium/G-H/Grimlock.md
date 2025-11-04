@@ -2,10 +2,10 @@
 cssclasses: json5e-monster
 tags:
   - Quelle/5e/Monster_Manual
-  - Habitat/Unterreich
-  - Größe/Mittelgroß
-  - Typ/Humanoid/Grimlock
-  - Typ/Aberration
+  - Monster/Habitat/Unterreich
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/Humanoid/Grimlock
+  - Monster/Typ/Aberration
 aliases:
   - Grimlock
 Typ: Humanoid

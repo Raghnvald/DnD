@@ -3,8 +3,8 @@ cssclasses:
   - json5e-class
 tags:
   - Quelle/5e/dmg
-  - Götter/domain/death
-  - ttrpg-cli/subclass/cleric/death
+  - Kompendium/Götter/domain/death
+  - Klasse/subclass/cleric/death
 aliases:
   - Death Domain
 ---

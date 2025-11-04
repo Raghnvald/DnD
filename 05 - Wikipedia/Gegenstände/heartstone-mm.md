@@ -4,8 +4,8 @@ cssclasses:
 - json5e-item
 tags:
 - Quelle/5e/mm
-- ttrpg-cli/item/rarity/very-rare
-- ttrpg-cli/item/wondrous/other
+- Gegenstand/item/rarity/very-rare
+- Gegenstand/item/wondrous/other
 aliases: 
 - "Heartstone"
 ---

@@ -3,8 +3,8 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/xdmg
-  - ttrpg-cli/item/gear/
-  - ttrpg-cli/item/rarity/none
+  - Gegenstand/item/gear/
+  - Gegenstand/item/rarity/none
 aliases:
   - Midnight Tears
 ---

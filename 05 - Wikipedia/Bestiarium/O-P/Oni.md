@@ -2,10 +2,10 @@
 cssclasses: json5e-monster
 tags:
   - Quelle/5e/Monster_Manual
-  - Habitat/Wald
-  - Habitat/Stadt
-  - Größe/Groß
-  - Typ/Riese
+  - Monster/Habitat/Wald
+  - Monster/Habitat/Stadt
+  - Monster/Größe/Groß
+  - Monster/Typ/Riese
 aliases:
   - Oni
 ---

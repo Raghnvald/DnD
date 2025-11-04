@@ -4,9 +4,9 @@ cssclasses:
 - json5e-item
 tags:
 - Quelle/5e/dmg
-- ttrpg-cli/item/age/modern
-- ttrpg-cli/item/gear/
-- ttrpg-cli/item/rarity/none
+- Gegenstand/item/age/modern
+- Gegenstand/item/gear/
+- Gegenstand/item/rarity/none
 aliases: 
 - "Grenade Launcher"
 ---

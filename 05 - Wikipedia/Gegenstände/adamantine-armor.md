@@ -4,11 +4,11 @@ cssclasses:
 - json5e-item
 tags:
 - Quelle/5e/dmg
-- ttrpg-cli/item/armor/heavy
-- ttrpg-cli/item/armor/medium
-- ttrpg-cli/item/rarity/uncommon
-- ttrpg-cli/item/tier/major
-- ttrpg-cli/item/wondrous/generic-variant
+- Gegenstand/item/armor/heavy
+- Gegenstand/item/armor/medium
+- Gegenstand/item/rarity/uncommon
+- Gegenstand/item/tier/major
+- Gegenstand/item/wondrous/generic-variant
 aliases: 
 - "Adamantine Armor"
 - "Adamantine Breastplate"

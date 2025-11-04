@@ -3,10 +3,10 @@ cssclasses:
   - json5e-deity
 tags:
   - Quelle/5e/erlw
-  - ttrpg-cli/deity/eberron
-  - Götter/domain/light
-  - Götter/domain/twilight
-  - Götter/domain/war
+  - Kompendium/Götter/eberron
+  - Kompendium/Götter/domain/light
+  - Kompendium/Götter/domain/twilight
+  - Kompendium/Götter/domain/war
 aliases:
   - Dol Arrah
 ---

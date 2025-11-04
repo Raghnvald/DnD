@@ -3,7 +3,7 @@ cssclasses:
   - json5e-class
 tags:
   - Quelle/5e/tce
-  - ttrpg-cli/subclass/warlock/fathomless
+  - Klasse/subclass/warlock/fathomless
 aliases:
   - The Fathomless
 ---

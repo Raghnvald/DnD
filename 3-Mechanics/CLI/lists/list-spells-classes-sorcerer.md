@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-note
 tags:
-  - ttrpg-cli/spell/list/class/sorcerer
+  - Zauber/list/class/sorcerer
 aliases:
   - Sorcerer Spells
 ---

@@ -9,13 +9,13 @@ status:
 image:
 tags:
   - Quelle/5e/Monster_Manual
-  - Habitat/Stadt
-  - Habitat/Sumpf
-  - Habitat/Unterreich
-  - Habitat/Wüste
-  - Habitat/Wald
-  - Größe/Groß
-  - Typ/Tier
+  - Monster/Habitat/Stadt
+  - Monster/Habitat/Sumpf
+  - Monster/Habitat/Unterreich
+  - Monster/Habitat/Wüste
+  - Monster/Habitat/Wald
+  - Monster/Größe/Groß
+  - Monster/Typ/Tier
 aliases:
   - Giant Spider
 ---

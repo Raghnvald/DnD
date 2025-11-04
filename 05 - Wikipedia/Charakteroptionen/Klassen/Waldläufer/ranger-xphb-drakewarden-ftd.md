@@ -3,7 +3,7 @@ cssclasses:
   - json5e-class
 tags:
   - Quelle/5e/ftd
-  - ttrpg-cli/subclass/ranger/drakewarden
+  - Klasse/subclass/ranger/drakewarden
 aliases:
   - Drakewarden
 ---

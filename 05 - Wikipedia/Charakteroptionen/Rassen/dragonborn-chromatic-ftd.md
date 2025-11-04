@@ -4,7 +4,7 @@ cssclasses:
 - json5e-race
 tags:
 - Quelle/5e/ftd
-- ttrpg-cli/race/dragonborn/chromatic
+- Rasse/dragonborn/chromatic
 aliases:
 - Dragonborn (Chromatic)
 ---

@@ -9,8 +9,8 @@ status:
 image:
 tags:
   - Quelle/5e/Monster_Manual
-  - Größe/Winzig
-  - Typ/Tier
+  - Monster/Größe/Winzig
+  - Monster/Typ/Tier
 aliases:
   - Weasel
 ---

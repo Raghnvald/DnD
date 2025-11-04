@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-class
 tags:
-  - ttrpg-cli/class/bard
+  - Klasse/class/bard
   - Quelle/5e/xphb
 aliases:
   - Bard

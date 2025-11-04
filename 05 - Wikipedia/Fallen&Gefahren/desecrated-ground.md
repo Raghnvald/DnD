@@ -3,7 +3,7 @@ cssclasses:
   - json5e-hazard
 tags:
   - Quelle/5e/dmg
-  - ttrpg-cli/hazard/wld
+  - Kompendium/hazard/wld
 aliases:
   - Desecrated Ground
 ---

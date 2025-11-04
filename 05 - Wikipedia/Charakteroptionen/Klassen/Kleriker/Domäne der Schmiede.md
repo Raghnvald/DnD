@@ -4,7 +4,7 @@ prefer-view:
 status:
   - completed
 tags:
-  - Götter/Domäne/Wissen
+  - Kompendium/Götter/Domäne/Wissen
   - Klasse/Kleriker
   - Quelle/5e/xge
 aliases:

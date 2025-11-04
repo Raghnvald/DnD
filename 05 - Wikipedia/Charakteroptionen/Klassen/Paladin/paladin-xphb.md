@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-class
 tags:
-  - ttrpg-cli/class/paladin
+  - Klasse/class/paladin
   - Quelle/5e/xphb
 aliases:
   - Paladin

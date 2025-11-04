@@ -2,9 +2,9 @@
 cssclasses: json5e-monster
 tags:
   - Quelle/5e/Monster_Manual
-  - Habitat/Hügel
-  - Größe/Gigantisch
-  - Typ/Drache
+  - Monster/Habitat/Hügel
+  - Monster/Größe/Gigantisch
+  - Monster/Typ/Drache
 aliases:
   - Ancient Copper Dragon
 ---

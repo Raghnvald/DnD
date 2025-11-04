@@ -4,9 +4,9 @@ cssclasses:
 - json5e-deity
 tags:
 - Quelle/5e/phb
-- ttrpg-cli/deity/dragonlance
-- Götter/domain/knowledge
-- Götter/domain/order
+- Kompendium/Götter/dragonlance
+- Kompendium/Götter/domain/knowledge
+- Kompendium/Götter/domain/order
 aliases: 
 - Majere
 ---

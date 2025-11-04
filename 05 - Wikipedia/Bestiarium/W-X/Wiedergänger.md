@@ -15,15 +15,15 @@ Habitat:
 status: WIP
 image:
 tags:
-  - Größe/Mittelgroß
-  - Habitat/Arktis
-  - Habitat/Hügel
-  - Habitat/Stadt
-  - Habitat/Sumpf
-  - Habitat/Wald
-  - Habitat/Wüste
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Arktis
+  - Monster/Habitat/Hügel
+  - Monster/Habitat/Stadt
+  - Monster/Habitat/Sumpf
+  - Monster/Habitat/Wald
+  - Monster/Habitat/Wüste
   - Quelle/5e/Monster_Manual
-  - Typ/Untote
+  - Monster/Typ/Untote
 aliases:
   - Revenant
 ---

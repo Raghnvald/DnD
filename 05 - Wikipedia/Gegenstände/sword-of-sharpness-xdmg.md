@@ -3,11 +3,11 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/xdmg
-  - ttrpg-cli/item/attunement/required
-  - ttrpg-cli/item/rarity/very-rare
-  - ttrpg-cli/item/weapon/martial
-  - ttrpg-cli/item/weapon/melee
-  - ttrpg-cli/item/wondrous/generic-variant
+  - Gegenstand/item/attunement/required
+  - Gegenstand/item/rarity/very-rare
+  - Gegenstand/item/weapon/martial
+  - Gegenstand/item/weapon/melee
+  - Gegenstand/item/wondrous/generic-variant
 aliases:
   - Sword of Sharpness
   - Glaive of Sharpness

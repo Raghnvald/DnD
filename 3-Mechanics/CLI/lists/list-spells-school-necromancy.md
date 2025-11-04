@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-note
 tags:
-  - ttrpg-cli/spell/list/school/necromancy
+  - Zauber/list/school/necromancy
 aliases:
   - Necromancy Spells
 ---

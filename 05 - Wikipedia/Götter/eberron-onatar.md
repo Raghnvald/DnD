@@ -4,9 +4,9 @@ cssclasses:
 - json5e-deity
 tags:
 - Quelle/5e/phb
-- ttrpg-cli/deity/eberron
-- Götter/domain/forge
-- Götter/domain/knowledge
+- Kompendium/Götter/eberron
+- Kompendium/Götter/domain/forge
+- Kompendium/Götter/domain/knowledge
 aliases: 
 - Onatar
 ---

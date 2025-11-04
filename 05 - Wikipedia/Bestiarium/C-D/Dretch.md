@@ -5,10 +5,10 @@ prefer-view:
   - edit-source read
 status:
 tags:
-  - Größe/Klein
-  - Habitat/Planar/Abyss
+  - Monster/Größe/Klein
+  - Monster/Habitat/Planar/Abyss
   - Quelle/5e/Monster_Manual
-  - Typ/Unhold/Dämon
+  - Monster/Typ/Unhold/Dämon
 aliases:
   - Dretch
 link:

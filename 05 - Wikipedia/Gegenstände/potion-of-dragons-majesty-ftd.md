@@ -3,8 +3,8 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/ftd
-  - ttrpg-cli/item/rarity/legendary
-  - ttrpg-cli/item/wondrous/potion
+  - Gegenstand/item/rarity/legendary
+  - Gegenstand/item/wondrous/potion
 aliases:
   - Potion of Dragon's Majesty
 ---

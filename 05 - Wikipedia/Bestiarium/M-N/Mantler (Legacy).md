@@ -2,9 +2,9 @@
 cssclasses: json5e-monster
 tags:
   - Quelle/5e/Monster_Manual
-  - Habitat/Unterreich
-  - Größe/Groß
-  - Typ/Aberration
+  - Monster/Habitat/Unterreich
+  - Monster/Größe/Groß
+  - Monster/Typ/Aberration
 aliases:
   - Cloaker
 ---
@@ -112,7 +112,7 @@ actions:
 
 Cloakers earned their names for the resemblance they bear to dark leathery cloaks. Lurking in remote dungeons and caves, these stealthy predators wait to slay lone or injured prey stumbling through the darkness.
 
-![](Cloaker.webp#token)
+![](D&D/05%20-%20Wikipedia/Bestiarium/00-img/Cloaker.webp#token)
 
 _**Camouflaged Lurkers.**_ Like a stingray, a cloaker’s body is composed of cartilage and muscle. With its tail and fins unfurled, it flies through darkness and lurks among the shadows of caverns the same way a stingray glides through water and hides on the ocean floor. Parallel rows of round, black eyespots run along its back like buttons, and the ivory-colored claws on its cowl resemble bone clasps.
 

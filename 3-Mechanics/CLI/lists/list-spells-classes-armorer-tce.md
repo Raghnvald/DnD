@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-note
 tags:
-  - ttrpg-cli/spell/list/subclass/armorer
+  - Zauber/list/subclass/armorer
 aliases:
   - Spells for Armorer
 ---

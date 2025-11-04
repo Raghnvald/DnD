@@ -1,10 +1,10 @@
 ---
 cssclasses: json5e-monster
 tags:
-  - Größe/Groß
-  - Habitat/Unterreich
+  - Monster/Größe/Groß
+  - Monster/Habitat/Unterreich
   - Quelle/5e/Monster_Manual
-  - Typ/Aberration
+  - Monster/Typ/Aberration
 aliases:
   - Otyugh
 ---

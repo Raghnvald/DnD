@@ -2,12 +2,12 @@
 cssclasses: json5e-monster
 tags:
   - Quelle/5e/Monster_Manual
-  - Habitat/Küste
-  - Habitat/Wald
-  - Habitat/Hügel
-  - Habitat/Berg
-  - Größe/Mittelgroß
-  - Typ/Monstrosität
+  - Monster/Habitat/Küste
+  - Monster/Habitat/Wald
+  - Monster/Habitat/Hügel
+  - Monster/Habitat/Berg
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/Monstrosität
 aliases:
   - Harpy
 ---

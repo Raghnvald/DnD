@@ -3,7 +3,7 @@ cssclasses:
   - json5e-class
 tags:
   - Quelle/5e/xge
-  - ttrpg-cli/subclass/bard/whispers
+  - Klasse/subclass/bard/whispers
 aliases:
   - College of Whispers
 ---

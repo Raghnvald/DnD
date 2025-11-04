@@ -4,7 +4,7 @@ cssclasses:
 - json5e-class
 tags:
 - Quelle/5e/phb
-- ttrpg-cli/subclass/rogue/thief
+- Klasse/subclass/rogue/thief
 aliases:
 - Thief
 ---

@@ -4,10 +4,10 @@ cssclasses:
 - json5e-deity
 tags:
 - Quelle/5e/phb
-- ttrpg-cli/deity/egyptian
-- Götter/domain/grave
-- Götter/domain/life
-- Götter/domain/nature
+- Kompendium/Götter/egyptian
+- Kompendium/Götter/domain/grave
+- Kompendium/Götter/domain/life
+- Kompendium/Götter/domain/nature
 aliases: 
 - Osiris
 ---

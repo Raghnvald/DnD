@@ -4,10 +4,10 @@ cssclasses:
 - json5e-deity
 tags:
 - Quelle/5e/phb
-- ttrpg-cli/deity/greek
-- Götter/domain/knowledge
-- Götter/domain/order
-- Götter/domain/war
+- Kompendium/Götter/greek
+- Kompendium/Götter/domain/knowledge
+- Kompendium/Götter/domain/order
+- Kompendium/Götter/domain/war
 aliases: 
 - Athena
 ---

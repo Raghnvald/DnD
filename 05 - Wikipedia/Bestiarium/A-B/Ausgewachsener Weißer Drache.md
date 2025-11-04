@@ -1,10 +1,10 @@
 ---
 cssclasses: json5e-monster
 tags:
-  - Größe/Riesig
-  - Habitat/Arktis
+  - Monster/Größe/Riesig
+  - Monster/Habitat/Arktis
   - Quelle/5e/Monster_Manual
-  - Typ/Drache
+  - Monster/Typ/Drache
 aliases:
   - Adult White Dragon
 ---

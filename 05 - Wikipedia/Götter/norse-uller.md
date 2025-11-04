@@ -4,8 +4,8 @@ cssclasses:
 - json5e-deity
 tags:
 - Quelle/5e/phb
-- ttrpg-cli/deity/norse
-- Götter/domain/nature
+- Kompendium/Götter/norse
+- Kompendium/Götter/domain/nature
 aliases: 
 - Uller
 ---

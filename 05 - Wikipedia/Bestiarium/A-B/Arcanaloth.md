@@ -9,10 +9,10 @@ Habitat: Planar
 status: completed
 image: pictures/arcanaloth-2024.webp
 tags:
-  - Größe/Mittelgroß
-  - Habitat/Planar/Untere-Ebenen
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Planar/Untere-Ebenen
   - Quelle/5e/Monster_Manual
-  - Typ/Unhold/Yugoloth
+  - Monster/Typ/Unhold/Yugoloth
 aliases:
   - Arcanaloth
 ---

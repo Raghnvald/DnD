@@ -4,7 +4,7 @@ cssclasses:
 - json5e-class
 tags:
 - Quelle/5e/phb
-- ttrpg-cli/subclass/monk/shadow
+- Klasse/subclass/monk/shadow
 aliases:
 - Way of Shadow
 ---

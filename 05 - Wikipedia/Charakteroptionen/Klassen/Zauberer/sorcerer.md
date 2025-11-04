@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-class
 tags:
-- ttrpg-cli/class/sorcerer
+- Klasse/class/sorcerer
 - Quelle/5e/phb
 aliases:
 - Sorcerer

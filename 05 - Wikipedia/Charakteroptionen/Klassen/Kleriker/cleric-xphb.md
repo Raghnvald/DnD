@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-class
 tags:
-  - ttrpg-cli/class/cleric
+  - Klasse/class/cleric
   - Quelle/5e/xphb
 aliases:
   - Cleric

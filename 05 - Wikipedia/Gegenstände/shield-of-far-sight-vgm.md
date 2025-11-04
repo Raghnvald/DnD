@@ -4,8 +4,8 @@ cssclasses:
 - json5e-item
 tags:
 - Quelle/5e/vgm
-- ttrpg-cli/item/rarity/rare
-- ttrpg-cli/item/shield/
+- Gegenstand/item/rarity/rare
+- Gegenstand/item/shield/
 aliases: 
 - "Shield of Far Sight"
 ---

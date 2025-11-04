@@ -4,7 +4,7 @@ cssclasses:
 - json5e-race
 tags:
 - Quelle/5e/vgm
-- ttrpg-cli/race/aasimar/scourge
+- Rasse/aasimar/scourge
 aliases:
 - Aasimar (Scourge)
 ---

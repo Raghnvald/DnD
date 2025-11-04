@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-class
 tags:
-  - ttrpg-cli/class/sorcerer
+  - Klasse/class/sorcerer
   - Quelle/5e/xphb
 aliases:
   - Sorcerer

@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-note
 tags:
-  - ttrpg-cli/spell/list/subclass/evoker
+  - Zauber/list/subclass/evoker
 aliases:
   - Spells for Evoker
 ---

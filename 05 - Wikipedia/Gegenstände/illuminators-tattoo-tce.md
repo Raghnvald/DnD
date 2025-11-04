@@ -3,9 +3,9 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/tce
-  - ttrpg-cli/item/attunement/required
-  - ttrpg-cli/item/rarity/common
-  - ttrpg-cli/item/wondrous/tattoo
+  - Gegenstand/item/attunement/required
+  - Gegenstand/item/rarity/common
+  - Gegenstand/item/wondrous/tattoo
 aliases:
   - Illuminator's Tattoo
 ---

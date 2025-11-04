@@ -4,7 +4,7 @@ cssclasses:
 - json5e-race
 tags:
 - Quelle/5e/vgm
-- ttrpg-cli/race/goliath
+- Rasse/goliath
 aliases:
 - Goliath
 ---

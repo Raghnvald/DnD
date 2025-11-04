@@ -4,8 +4,8 @@ cssclasses:
 - json5e-deity
 tags:
 - Quelle/5e/vgm
-- ttrpg-cli/deity/orc
-- Götter/domain/trickery
+- Kompendium/Götter/orc
+- Kompendium/Götter/domain/trickery
 aliases: 
 - Shargaas
 ---

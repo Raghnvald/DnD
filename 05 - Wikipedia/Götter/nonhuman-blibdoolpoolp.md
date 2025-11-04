@@ -4,8 +4,8 @@ cssclasses:
 - json5e-deity
 tags:
 - Quelle/5e/phb
-- ttrpg-cli/deity/nonhuman
-- Götter/domain/death
+- Kompendium/Götter/nonhuman
+- Kompendium/Götter/domain/death
 aliases: 
 - Blibdoolpoolp
 ---

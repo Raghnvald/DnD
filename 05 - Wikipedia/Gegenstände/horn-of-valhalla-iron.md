@@ -4,8 +4,8 @@ cssclasses:
 - json5e-item
 tags:
 - Quelle/5e/dmg
-- ttrpg-cli/item/rarity/legendary
-- ttrpg-cli/item/tier/major
+- Gegenstand/item/rarity/legendary
+- Gegenstand/item/tier/major
 aliases: 
 - "Horn of Valhalla, Iron"
 ---

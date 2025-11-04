@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-note
 tags:
-  - ttrpg-cli/spell/list/subclass/circle-of-the-moon
+  - Zauber/list/subclass/circle-of-the-moon
 aliases:
   - Spells for Circle of the Moon
 ---

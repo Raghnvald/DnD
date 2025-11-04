@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-note
 tags:
-  - ttrpg-cli/spell/list/subclass/eldritch-knight
+  - Zauber/list/subclass/eldritch-knight
 aliases:
   - Spells for Eldritch Knight
 ---

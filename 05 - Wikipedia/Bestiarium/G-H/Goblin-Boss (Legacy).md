@@ -2,12 +2,12 @@
 cssclasses: json5e-monster
 tags:
   - Quelle/5e/Monster_Manual
-  - Typ/Humanoid/Goblinoid
-  - Größe/Klein
-  - Habitat/Grasland
-  - Habitat/Hügel
-  - Habitat/Unterreich
-  - Habitat/Wald
+  - Monster/Typ/Humanoid/Goblinoid
+  - Monster/Größe/Klein
+  - Monster/Habitat/Grasland
+  - Monster/Habitat/Hügel
+  - Monster/Habitat/Unterreich
+  - Monster/Habitat/Wald
 aliases:
   - Goblin Boss
 Typ: Humanoid

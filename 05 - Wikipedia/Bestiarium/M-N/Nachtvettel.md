@@ -1,9 +1,9 @@
 ---
 cssclasses: json5e-monster
 tags:
-  - Größe/Mittelgroß
+  - Monster/Größe/Mittelgroß
   - Quelle/5e/Monster_Manual
-  - Typ/Unhold
+  - Monster/Typ/Unhold
 aliases:
   - Night Hag
 Typ: Unhold

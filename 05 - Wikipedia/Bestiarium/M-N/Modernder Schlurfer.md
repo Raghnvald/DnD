@@ -2,10 +2,10 @@
 cssclasses: json5e-monster
 tags:
   - Quelle/5e/Monster_Manual
-  - Habitat/Wald
-  - Habitat/Sumpf
-  - Größe/Groß
-  - Typ/Pflanze
+  - Monster/Habitat/Wald
+  - Monster/Habitat/Sumpf
+  - Monster/Größe/Groß
+  - Monster/Typ/Pflanze
 aliases:
   - Shambling Mound
 ---

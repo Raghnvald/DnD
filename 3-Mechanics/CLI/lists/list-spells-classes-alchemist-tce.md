@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-note
 tags:
-  - ttrpg-cli/spell/list/subclass/alchemist
+  - Zauber/list/subclass/alchemist
 aliases:
   - Spells for Alchemist
 ---

@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/background/dimir-operative
+- Zauber/list/background/dimir-operative
 aliases:
 - Spells for Dimir Operative
 ---

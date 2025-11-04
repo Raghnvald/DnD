@@ -4,10 +4,10 @@ cssclasses:
 - json5e-deity
 tags:
 - Quelle/5e/phb
-- ttrpg-cli/deity/egyptian
-- Götter/domain/death
-- Götter/domain/grave
-- Götter/domain/order
+- Kompendium/Götter/egyptian
+- Kompendium/Götter/domain/death
+- Kompendium/Götter/domain/grave
+- Kompendium/Götter/domain/order
 aliases: 
 - Anubis
 ---

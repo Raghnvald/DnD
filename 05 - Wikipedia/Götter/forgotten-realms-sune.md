@@ -4,9 +4,9 @@ cssclasses:
 - json5e-deity
 tags:
 - Quelle/5e/phb
-- ttrpg-cli/deity/forgotten-realms
-- Götter/domain/life
-- Götter/domain/light
+- Kompendium/Götter/forgotten-realms
+- Kompendium/Götter/domain/life
+- Kompendium/Götter/domain/light
 aliases: 
 - Sune
 ---

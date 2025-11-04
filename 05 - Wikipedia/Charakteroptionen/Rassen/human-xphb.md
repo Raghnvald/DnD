@@ -3,7 +3,7 @@ cssclasses:
   - json5e-race
 tags:
   - Quelle/5e/xphb
-  - ttrpg-cli/race/human
+  - Rasse/human
 aliases:
   - Human
 ---

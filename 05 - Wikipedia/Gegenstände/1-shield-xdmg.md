@@ -4,8 +4,8 @@ cssclasses:
 - json5e-item
 tags:
 - Quelle/5e/xdmg
-- ttrpg-cli/item/rarity/uncommon
-- ttrpg-cli/item/shield/
+- Gegenstand/item/rarity/uncommon
+- Gegenstand/item/shield/
 aliases: 
 - "+1 Shield"
 ---

@@ -9,10 +9,10 @@ status:
 image:
 tags:
   - Quelle/5e/Monster_Manual
-  - Typ/Tier
-  - Größe/Mittelgroß
-  - Habitat/Sumpf
-  - Habitat/Stadt
+  - Monster/Typ/Tier
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Sumpf
+  - Monster/Habitat/Stadt
 aliases:
   - Swarm of Rats
 ---

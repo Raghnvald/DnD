@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/race/triton
+- Zauber/list/race/triton
 aliases:
 - Spells for Triton
 ---

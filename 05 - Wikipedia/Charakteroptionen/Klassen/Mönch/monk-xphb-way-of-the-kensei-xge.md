@@ -3,7 +3,7 @@ cssclasses:
   - json5e-class
 tags:
   - Quelle/5e/xge
-  - ttrpg-cli/subclass/monk/kensei
+  - Klasse/subclass/monk/kensei
 aliases:
   - Way of the Kensei
 ---

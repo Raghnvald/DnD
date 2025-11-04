@@ -9,9 +9,9 @@ status:
 image:
 tags:
   - Quelle/5e/Monster_Manual
-  - Habitat/Arktis
-  - Größe/Riesig
-  - Typ/Tier
+  - Monster/Habitat/Arktis
+  - Monster/Größe/Riesig
+  - Monster/Typ/Tier
 aliases:
   - Mammoth
 ---

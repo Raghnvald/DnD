@@ -4,7 +4,7 @@ cssclasses:
 - json5e-feat
 tags:
 - Quelle/5e/tce
-- ttrpg-cli/feat
+- Kompendium/feat
 aliases:
 - Gunner
 ---

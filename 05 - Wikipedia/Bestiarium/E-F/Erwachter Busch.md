@@ -1,10 +1,10 @@
 ---
 cssclasses: json5e-monster
 tags:
-  - Größe/Klein
-  - Habitat/Wald
+  - Monster/Größe/Klein
+  - Monster/Habitat/Wald
   - Quelle/5e/Monster_Manual
-  - Typ/Pflanze
+  - Monster/Typ/Pflanze
 aliases:
   - Awakened Shrub
 ---

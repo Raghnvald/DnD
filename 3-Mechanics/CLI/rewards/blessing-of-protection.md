@@ -4,7 +4,7 @@ cssclasses:
 - json5e-reward
 tags:
 - Quelle/5e/dmg
-- ttrpg-cli/reward/blessing
+- Kompendium/reward/blessing
 aliases:
 - Blessing of Protection
 ---

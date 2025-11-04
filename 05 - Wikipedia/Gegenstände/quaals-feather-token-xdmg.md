@@ -3,7 +3,7 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/xdmg
-  - ttrpg-cli/item/rarity/varies
+  - Gegenstand/item/rarity/varies
 aliases:
   - Quaal's Feather Token
 ---

@@ -3,7 +3,7 @@ cssclasses:
   - json5e-class
 tags:
   - Quelle/5e/tce
-  - ttrpg-cli/subclass/barbarian/wild-magic
+  - Klasse/subclass/barbarian/wild-magic
 aliases:
   - Path of Wild Magic
 ---

@@ -3,12 +3,12 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/xdmg
-  - ttrpg-cli/item/attunement/required
-  - ttrpg-cli/item/rarity/common
-  - ttrpg-cli/item/weapon/martial
-  - ttrpg-cli/item/weapon/melee
-  - ttrpg-cli/item/weapon/simple
-  - ttrpg-cli/item/wondrous/generic-variant
+  - Gegenstand/item/attunement/required
+  - Gegenstand/item/rarity/common
+  - Gegenstand/item/weapon/martial
+  - Gegenstand/item/weapon/melee
+  - Gegenstand/item/weapon/simple
+  - Gegenstand/item/wondrous/generic-variant
 aliases:
   - Sylvan Talon
   - Sylvan Talon Dagger

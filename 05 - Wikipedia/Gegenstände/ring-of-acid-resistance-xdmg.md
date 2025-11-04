@@ -4,8 +4,8 @@ cssclasses:
 - json5e-item
 tags:
 - Quelle/5e/xdmg
-- ttrpg-cli/item/rarity/rare
-- ttrpg-cli/item/wondrous/ring
+- Gegenstand/item/rarity/rare
+- Gegenstand/item/wondrous/ring
 aliases: 
 - "Ring of Acid Resistance"
 ---

@@ -5,10 +5,10 @@ prefer-view:
   - edit-source read
 status:
 tags:
-  - Größe/Riesig
+  - Monster/Größe/Riesig
   - Habitat/Planar/Untere Ebenen
   - Quelle/5e/Monster_Manual
-  - Typ/Unhold/Dämon
+  - Monster/Typ/Unhold/Dämon
 aliases:
   - Balor
 link:

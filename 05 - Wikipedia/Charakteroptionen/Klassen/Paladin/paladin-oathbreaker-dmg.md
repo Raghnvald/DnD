@@ -4,7 +4,7 @@ cssclasses:
 - json5e-class
 tags:
 - Quelle/5e/dmg
-- ttrpg-cli/subclass/paladin/oathbreaker
+- Klasse/subclass/paladin/oathbreaker
 aliases:
 - Oathbreaker
 ---

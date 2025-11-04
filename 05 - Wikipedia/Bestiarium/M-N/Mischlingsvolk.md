@@ -3,8 +3,8 @@ cssclasses:
   - json5e-monster
 tags:
   - Quelle/5e/cos
-  - Größe/Mittelgroß
-  - Typ/Humanoid
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/Humanoid
 aliases:
   - Mongrelfolk
 Typ: Humanoid

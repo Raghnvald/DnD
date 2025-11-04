@@ -142,16 +142,16 @@ Strahd tritt den Charakteren in der Kapelle gegenüber (Bereich K15).
 	- Bei Misslingen 1 Stufe [[../../03 - Quellen/Quellbücher/01. Grundregelwerk 2014/Anhang PH-A#Erschöpfung|Erschöpfung]]
 
 ## Gegner
-- [Arcanaloth](Arcanaloth.md)
+- [Arcanaloth](D&D/05%20-%20Wikipedia/Bestiarium/A-B/Arcanaloth.md)
 - [Barovianische Hexe](Barovianische%20Hexe.md)
-- [Berserker](Berserker.md)
+- [Berserker](D&D/05%20-%20Wikipedia/Bestiarium/A-B/Berserker.md)
 - [Flammenschädel](Flammenschädel.md)
 - [Gladiator](D&D/05%20-%20Wikipedia/Bestiarium/G-H/Gladiator.md)
 - [Grul](Grul.md)
-- [Lich](Lich.md)
+- [Lich](D&D/05%20-%20Wikipedia/Bestiarium/K-L/Lich.md)
 - [Magier](Magus.md)
 - [Nothic (Legacy)](Nothic%20(Legacy).md)
-- [Quasit](Quasit.md)
+- [Quasit](D&D/05%20-%20Wikipedia/Bestiarium/Q-R/Quasit.md)
 - [Rahadin](../00.%20NPCs/Rahadin.md)
 - [Schreckgespenst](Schreckgespenst.md)
 - [Schreckenswolf](Schreckenswolf.md)

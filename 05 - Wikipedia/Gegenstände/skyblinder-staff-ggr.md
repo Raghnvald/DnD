@@ -4,9 +4,9 @@ cssclasses:
 - json5e-item
 tags:
 - Quelle/5e/ggr
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/uncommon
-- ttrpg-cli/item/weapon/simple
+- Gegenstand/item/attunement/required
+- Gegenstand/item/rarity/uncommon
+- Gegenstand/item/weapon/simple
 aliases: 
 - "Skyblinder Staff"
 ---

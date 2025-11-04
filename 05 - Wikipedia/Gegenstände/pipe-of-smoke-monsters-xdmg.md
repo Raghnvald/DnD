@@ -4,7 +4,7 @@ cssclasses:
 - json5e-item
 tags:
 - Quelle/5e/xdmg
-- ttrpg-cli/item/rarity/common
+- Gegenstand/item/rarity/common
 aliases: 
 - "Pipe of Smoke Monsters"
 ---

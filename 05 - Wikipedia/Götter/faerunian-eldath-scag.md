@@ -3,10 +3,10 @@ cssclasses:
   - json5e-deity
 tags:
   - Quelle/5e/scag
-  - ttrpg-cli/deity/faerunian
-  - Götter/domain/life
-  - Götter/domain/nature
-  - Götter/domain/peace
+  - Kompendium/Götter/faerunian
+  - Kompendium/Götter/domain/life
+  - Kompendium/Götter/domain/nature
+  - Kompendium/Götter/domain/peace
 aliases:
   - Eldath
   - The Quiet One

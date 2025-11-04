@@ -8,11 +8,11 @@ HG:
 status:
 image:
 tags:
-  - Größe/Klein
-  - Habitat/Unterreich
+  - Monster/Größe/Klein
+  - Monster/Habitat/Unterreich
   - Quelle/5e/Monster_Manual
-  - Typ/Aberration
-  - Typ/Monstrosität
+  - Monster/Typ/Aberration
+  - Monster/Typ/Monstrosität
 aliases:
   - Darkmantle
 ---

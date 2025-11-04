@@ -4,7 +4,7 @@ cssclasses:
 - json5e-hazard
 tags:
 - Quelle/5e/xge
-- ttrpg-cli/hazard/cmpx
+- Kompendium/hazard/cmpx
 aliases:
 - Sphere of Crushing Doom
 ---

@@ -3,8 +3,8 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/tce
-  - ttrpg-cli/item/attunement/required
-  - ttrpg-cli/item/rarity/rare
+  - Gegenstand/item/attunement/required
+  - Gegenstand/item/rarity/rare
 aliases:
   - +2 Bloodwell Vial
 ---

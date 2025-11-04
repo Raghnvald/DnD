@@ -4,10 +4,10 @@ cssclasses:
 - json5e-deity
 tags:
 - Quelle/5e/phb
-- ttrpg-cli/deity/eberron
-- Götter/domain/life
-- Götter/domain/peace
-- Götter/domain/twilight
+- Kompendium/Götter/eberron
+- Kompendium/Götter/domain/life
+- Kompendium/Götter/domain/peace
+- Kompendium/Götter/domain/twilight
 aliases: 
 - Boldrei
 ---

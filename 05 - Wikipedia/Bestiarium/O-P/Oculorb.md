@@ -9,7 +9,7 @@ status:
 image:
 tags:
   - Quelle/5e/pabtso
-  - Typ/Aberration
+  - Monster/Typ/Aberration
 aliases:
   - 
 ---

@@ -4,9 +4,9 @@ cssclasses:
 - json5e-item
 tags:
 - Quelle/5e/xdmg
-- ttrpg-cli/item/age/futuristic
-- ttrpg-cli/item/gear/ammunition-firearm
-- ttrpg-cli/item/rarity/none
+- Gegenstand/item/age/futuristic
+- Gegenstand/item/gear/ammunition-firearm
+- Gegenstand/item/rarity/none
 aliases: 
 - "Energy Cell"
 ---

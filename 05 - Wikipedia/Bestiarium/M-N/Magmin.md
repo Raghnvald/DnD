@@ -9,8 +9,8 @@ status:
 image:
 tags:
   - Quelle/5e/Monster_Manual
-  - Größe/Klein
-  - Typ/Elementar
+  - Monster/Größe/Klein
+  - Monster/Typ/Elementar
 aliases:
   - Magmin
 ---

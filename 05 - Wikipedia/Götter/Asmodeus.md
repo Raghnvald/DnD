@@ -2,11 +2,11 @@
 cssclasses: json5e-deity
 tags:
   - Quelle/5e/Players_Handbook
-  - Götter
-  - Götter/Gesinnung/Rechtschaffen_Böse
-  - Götter/Pantheon/Faerun
-  - Götter/Domäne/Wissen
-  - Götter/Domäne/Lust
+  - Kompendium/Götter
+  - Kompendium/Götter/Gesinnung/Rechtschaffen_Böse
+  - Kompendium/Götter/Pantheon/Faerun
+  - Kompendium/Götter/Domäne/Wissen
+  - Kompendium/Götter/Domäne/Lust
 aliases:
   - Asmodeus
 ---

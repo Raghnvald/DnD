@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-note
 tags:
-  - ttrpg-cli/spell/list/subclass/artillerist
+  - Zauber/list/subclass/artillerist
 aliases:
   - Spells for Artillerist
 ---

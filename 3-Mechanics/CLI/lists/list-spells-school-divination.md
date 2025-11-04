@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-note
 tags:
-  - ttrpg-cli/spell/list/school/divination
+  - Zauber/list/school/divination
 aliases:
   - Divination Spells
 ---

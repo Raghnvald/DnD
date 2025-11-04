@@ -2,9 +2,9 @@
 cssclasses: json5e-monster
 tags:
   - Quelle/5e/Monster_Manual
-  - Habitat/Wald
-  - Größe/Gigantisch
-  - Typ/Drache
+  - Monster/Habitat/Wald
+  - Monster/Größe/Gigantisch
+  - Monster/Typ/Drache
 aliases:
   - Ancient Green Dragon
 ---

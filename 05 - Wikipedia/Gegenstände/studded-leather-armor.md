@@ -4,8 +4,8 @@ cssclasses:
 - json5e-item
 tags:
 - Quelle/5e/phb
-- ttrpg-cli/item/armor/light
-- ttrpg-cli/item/rarity/none
+- Gegenstand/item/armor/light
+- Gegenstand/item/rarity/none
 aliases: 
 - "Studded Leather Armor"
 ---

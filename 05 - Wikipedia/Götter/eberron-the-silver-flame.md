@@ -4,10 +4,10 @@ cssclasses:
 - json5e-deity
 tags:
 - Quelle/5e/phb
-- ttrpg-cli/deity/eberron
-- Götter/domain/life
-- Götter/domain/light
-- Götter/domain/war
+- Kompendium/Götter/eberron
+- Kompendium/Götter/domain/life
+- Kompendium/Götter/domain/light
+- Kompendium/Götter/domain/war
 aliases: 
 - The Silver Flame
 ---

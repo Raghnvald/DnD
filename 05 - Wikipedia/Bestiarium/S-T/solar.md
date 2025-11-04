@@ -2,8 +2,8 @@
 cssclasses: json5e-monster
 tags:
   - Quelle/5e/Monster_Manual
-  - Größe/Groß
-  - Typ/Himmlische
+  - Monster/Größe/Groß
+  - Monster/Typ/Himmlische
 aliases:
   - Solar
 ---

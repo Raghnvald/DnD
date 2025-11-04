@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-note
 tags:
-  - ttrpg-cli/spell/list/subclass/grave-domain
+  - Zauber/list/subclass/grave-domain
 aliases:
   - Spells for Grave Domain
 ---

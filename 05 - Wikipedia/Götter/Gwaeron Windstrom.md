@@ -2,11 +2,11 @@
 cssclasses: json5e-deity
 tags:
   - Quelle/5e/Players_Handbook
-  - Götter
-  - Götter/Gesinnung/Neutral_Gut
-  - Götter/Pantheon/Faerun
-  - Götter/Domäne/Wissen
-  - Götter/Domäne/Natur
+  - Kompendium/Götter
+  - Kompendium/Götter/Gesinnung/Neutral_Gut
+  - Kompendium/Götter/Pantheon/Faerun
+  - Kompendium/Götter/Domäne/Wissen
+  - Kompendium/Götter/Domäne/Natur
 aliases:
   - Gwaeron Windstrom
 ---

@@ -4,8 +4,8 @@ cssclasses:
 - json5e-item
 tags:
 - Quelle/5e/xphb
-- ttrpg-cli/item/gear/instrument
-- ttrpg-cli/item/rarity/none
+- Gegenstand/item/gear/instrument
+- Gegenstand/item/rarity/none
 aliases: 
 - "Horn"
 ---

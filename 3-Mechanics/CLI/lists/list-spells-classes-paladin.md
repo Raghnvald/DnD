@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-note
 tags:
-  - ttrpg-cli/spell/list/class/paladin
+  - Zauber/list/class/paladin
 aliases:
   - Paladin Spells
 ---

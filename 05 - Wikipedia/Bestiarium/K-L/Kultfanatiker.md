@@ -2,9 +2,9 @@
 cssclasses: json5e-monster
 tags:
   - Quelle/5e/Monster_Manual
-  - Habitat/Stadt
-  - Größe/Mittelgroß
-  - Typ/Humanoid/jede-rasse
+  - Monster/Habitat/Stadt
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/Humanoid/jede-rasse
 aliases:
   - Cult Fanatic
 Typ: Humanoid

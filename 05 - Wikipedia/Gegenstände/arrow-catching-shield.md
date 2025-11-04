@@ -4,10 +4,10 @@ cssclasses:
 - json5e-item
 tags:
 - Quelle/5e/dmg
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/rare
-- ttrpg-cli/item/shield/
-- ttrpg-cli/item/tier/major
+- Gegenstand/item/attunement/required
+- Gegenstand/item/rarity/rare
+- Gegenstand/item/shield/
+- Gegenstand/item/tier/major
 aliases: 
 - "Arrow-Catching Shield"
 ---

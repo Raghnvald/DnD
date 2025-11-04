@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-note
 tags:
-  - ttrpg-cli/spell/list/feat/wood-elf-magic
+  - Zauber/list/feat/wood-elf-magic
 aliases:
   - Spells for Wood Elf Magic
 ---

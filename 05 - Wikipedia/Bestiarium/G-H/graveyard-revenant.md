@@ -9,7 +9,7 @@ status: WIP
 image:
 tags:
   - Quelle/5e/Monster_Manual
-  - Typ/Untote
+  - Monster/Typ/Untote
 aliases:
   - Graveyard Revenant
 Habitat:

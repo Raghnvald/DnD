@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-note
 tags:
-  - ttrpg-cli/spell/list/subclass/circle-of-spores
+  - Zauber/list/subclass/circle-of-spores
 aliases:
   - Spells for Circle of Spores
 ---

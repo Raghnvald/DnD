@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/race/duergar
+- Zauber/list/race/duergar
 aliases:
 - Spells for Duergar
 ---

@@ -4,8 +4,8 @@ cssclasses:
 - json5e-item
 tags:
 - Quelle/5e/xdmg
-- ttrpg-cli/item/gear/treasure-gemstone
-- ttrpg-cli/item/rarity/none
+- Gegenstand/item/gear/treasure-gemstone
+- Gegenstand/item/rarity/none
 aliases: 
 - "Black Sapphire"
 ---

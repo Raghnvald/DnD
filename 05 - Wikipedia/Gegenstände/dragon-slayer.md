@@ -4,11 +4,11 @@ cssclasses:
 - json5e-item
 tags:
 - Quelle/5e/dmg
-- ttrpg-cli/item/rarity/rare
-- ttrpg-cli/item/tier/major
-- ttrpg-cli/item/weapon/martial
-- ttrpg-cli/item/weapon/melee
-- ttrpg-cli/item/wondrous/generic-variant
+- Gegenstand/item/rarity/rare
+- Gegenstand/item/tier/major
+- Gegenstand/item/weapon/martial
+- Gegenstand/item/weapon/melee
+- Gegenstand/item/wondrous/generic-variant
 aliases: 
 - "Dragon Slayer"
 - "Dragon Slayer Double-Bladed Scimitar"

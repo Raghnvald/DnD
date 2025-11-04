@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-note
 tags:
-  - ttrpg-cli/spell/list/subclass/horizon-walker
+  - Zauber/list/subclass/horizon-walker
 aliases:
   - Spells for Horizon Walker
 ---

@@ -3,8 +3,8 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/xdmg
-  - ttrpg-cli/item/rarity/common
-  - ttrpg-cli/item/wondrous/scroll
+  - Gegenstand/item/rarity/common
+  - Gegenstand/item/wondrous/scroll
 aliases:
   - Spell Scroll (Cantrip)
 ---

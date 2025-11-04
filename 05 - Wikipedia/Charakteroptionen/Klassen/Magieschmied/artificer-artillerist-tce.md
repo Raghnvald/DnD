@@ -3,7 +3,7 @@ cssclasses:
   - json5e-class
 tags:
   - Quelle/5e/tce
-  - ttrpg-cli/subclass/artificer/artillerist
+  - Klasse/subclass/artificer/artillerist
 aliases:
   - Artillerist
 ---

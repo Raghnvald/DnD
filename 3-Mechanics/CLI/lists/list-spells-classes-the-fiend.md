@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/subclass/the-fiend
+- Zauber/list/subclass/the-fiend
 aliases:
 - Spells for The Fiend
 ---

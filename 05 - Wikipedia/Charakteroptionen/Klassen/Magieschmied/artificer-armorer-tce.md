@@ -3,7 +3,7 @@ cssclasses:
   - json5e-class
 tags:
   - Quelle/5e/tce
-  - ttrpg-cli/subclass/artificer/armorer
+  - Klasse/subclass/artificer/armorer
 aliases:
   - Armorer
 ---

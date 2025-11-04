@@ -1,0 +1,41 @@
+---
+cssclasses:
+  - json5e-spell
+tags:
+  - Quelle/5e/xphb
+  - Zauber/class/bard
+  - Zauber/class/cleric
+  - Zauber/class/druid
+  - Zauber/class/sorcerer
+  - Zauber/class/warlock
+  - Zauber/class/wizard
+  - Zauber/Grad/7
+  - Zauber/Schule/Beschwörung
+  - Zauber/subclass/divine-soul/good
+classes:
+  - Bard
+  - Cleric
+  - Druid
+  - Sorcerer
+  - Sorcerer (Divine Soul, Good)
+  - Warlock
+  - Wizard
+aliases:
+  - Plane Shift
+---
+# Plane Shift
+*7th-level, Conjuration*  
+
+
+- **Casting time:** 1 Action
+- **Range:** Touch
+- **Components:** V, S, M (a forked, metal rod worth 250+ GP and attuned to a plane of existence)
+- **Duration:** Instantaneous
+
+You and up to eight willing creatures who link hands in a circle are transported to a different plane of existence. You can specify a target destination in general terms, such as the City of Brass on the Elemental Plane of Fire or the palace of Dispater on the second level of the Nine Hells, and you appear in or near that destination, as determined by the DM.
+
+Alternatively, if you know the sigil sequence of a teleportation circle on another plane of existence, this spell can take you to that circle. If the teleportation circle is too small to hold all the creatures you transported, they appear in the closest unoccupied spaces next to the circle.
+
+**Classes**: [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Sorcerer (Divine Soul, Good)](/3-Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Warlock](/3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+
+*Source: Player's Handbook (2024) p. 305. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

@@ -9,9 +9,9 @@ status: WIP
 image:
 tags:
   - Quelle/5e/Monster_Manual
-  - Habitat/Unterreich
-  - Größe/Groß
-  - Typ/Untote
+  - Monster/Habitat/Unterreich
+  - Monster/Größe/Groß
+  - Monster/Typ/Untote
 aliases:
   - Minotaur Skeleton
 Habitat:

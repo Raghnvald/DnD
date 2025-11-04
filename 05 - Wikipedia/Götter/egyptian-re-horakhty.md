@@ -4,9 +4,9 @@ cssclasses:
 - json5e-deity
 tags:
 - Quelle/5e/phb
-- ttrpg-cli/deity/egyptian
-- Götter/domain/life
-- Götter/domain/light
+- Kompendium/Götter/egyptian
+- Kompendium/Götter/domain/life
+- Kompendium/Götter/domain/light
 aliases: 
 - Re-Horakhty
 ---

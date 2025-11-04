@@ -4,8 +4,8 @@ cssclasses:
 - json5e-object
 tags:
 - Quelle/5e/dmg
-- ttrpg-cli/object/size/large
-- ttrpg-cli/object/type/siege-weapon
+- Kompendium/object/size/large
+- Kompendium/object/type/siege-weapon
 aliases:
 - Suspended Cauldron
 ---

@@ -7,8 +7,8 @@ type:
   - creature
 tags:
   - Quelle/5e/Monster_Manual
-  - Typ/Unhold/Teufel
-  - Größe/Groß
+  - Monster/Typ/Unhold/Teufel
+  - Monster/Größe/Groß
   - Habitat/Planar/Untere Ebenen
 aliases:
   - Bone Devil

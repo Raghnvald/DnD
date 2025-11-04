@@ -9,9 +9,9 @@ status:
 image:
 tags:
   - Quelle/5e/Monster_Manual
-  - Habitat/Unterreich
-  - Größe/Klein
-  - Typ/Tier
+  - Monster/Habitat/Unterreich
+  - Monster/Größe/Klein
+  - Monster/Typ/Tier
 aliases:
   - Giant Fire Beetle
 ---

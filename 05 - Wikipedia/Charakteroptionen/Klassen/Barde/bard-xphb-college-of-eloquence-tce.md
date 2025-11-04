@@ -3,7 +3,7 @@ cssclasses:
   - json5e-class
 tags:
   - Quelle/5e/tce
-  - ttrpg-cli/subclass/bard/eloquence
+  - Klasse/subclass/bard/eloquence
 aliases:
   - College of Eloquence
 ---

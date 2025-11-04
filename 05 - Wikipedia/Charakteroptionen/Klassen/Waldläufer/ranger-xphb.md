@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-class
 tags:
-  - ttrpg-cli/class/ranger
+  - Klasse/class/ranger
   - Quelle/5e/xphb
 aliases:
   - Ranger

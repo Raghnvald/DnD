@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/race/hexblood
+- Zauber/list/race/hexblood
 aliases:
 - Spells for Hexblood
 ---

@@ -3,8 +3,8 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/bgdia
-  - ttrpg-cli/item/attunement/required
-  - ttrpg-cli/item/rarity/very-rare
+  - Gegenstand/item/attunement/required
+  - Gegenstand/item/rarity/very-rare
 aliases:
   - Helm of Devil Command
 ---

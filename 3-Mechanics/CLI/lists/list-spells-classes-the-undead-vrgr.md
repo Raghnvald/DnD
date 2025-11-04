@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-note
 tags:
-  - ttrpg-cli/spell/list/subclass/the-undead
+  - Zauber/list/subclass/the-undead
 aliases:
   - Spells for The Undead
 ---

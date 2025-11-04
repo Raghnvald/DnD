@@ -4,7 +4,7 @@ cssclasses:
 - json5e-reward
 tags:
 - Quelle/5e/xdmg
-- ttrpg-cli/reward/charm
+- Kompendium/reward/charm
 aliases:
 - Charm of Feather Falling
 ---

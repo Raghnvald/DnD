@@ -4,7 +4,7 @@ cssclasses:
 - json5e-race
 tags:
 - Quelle/5e/dmg
-- ttrpg-cli/race/merfolk
+- Rasse/merfolk
 aliases:
 - Merfolk
 ---

@@ -2,10 +2,10 @@
 cssclasses: json5e-monster
 tags:
   - Quelle/5e/Monster_Manual
-  - Habitat/Küste
-  - Habitat/Unterwasser
-  - Größe/Groß
-  - Typ/Monstrosität
+  - Monster/Habitat/Küste
+  - Monster/Habitat/Unterwasser
+  - Monster/Größe/Groß
+  - Monster/Typ/Monstrosität
 aliases:
   - Merrow
 ---

@@ -4,8 +4,8 @@ cssclasses:
 - json5e-deity
 tags:
 - Quelle/5e/phb
-- ttrpg-cli/deity/eberron
-- Götter/domain/war
+- Kompendium/Götter/eberron
+- Kompendium/Götter/domain/war
 aliases: 
 - Dol Dorn
 ---

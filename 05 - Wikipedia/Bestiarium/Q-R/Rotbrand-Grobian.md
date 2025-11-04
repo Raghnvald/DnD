@@ -2,12 +2,12 @@
 cssclasses: json5e-monster
 tags:
   - Quelle/5e/lmop
-  - Habitat/Wald
-  - Habitat/Grasland
-  - Habitat/Hügel
-  - Habitat/Unterreich
-  - Größe/Mittelgroß
-  - Typ/Humanoid
+  - Monster/Habitat/Wald
+  - Monster/Habitat/Grasland
+  - Monster/Habitat/Hügel
+  - Monster/Habitat/Unterreich
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/Humanoid
 aliases:
   - Redbrand Ruffian
 Typ: Humanoid

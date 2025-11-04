@@ -4,8 +4,8 @@ cssclasses:
 - json5e-deity
 tags:
 - Quelle/5e/phb
-- ttrpg-cli/deity/dragonlance
-- Götter/domain/trickery
+- Kompendium/Götter/dragonlance
+- Kompendium/Götter/domain/trickery
 aliases: 
 - Hiddukel
 ---

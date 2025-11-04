@@ -4,9 +4,9 @@ cssclasses:
 - json5e-item
 tags:
 - Quelle/5e/dmg
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/gear/instrument
-- ttrpg-cli/item/rarity/varies
+- Gegenstand/item/attunement/required
+- Gegenstand/item/gear/instrument
+- Gegenstand/item/rarity/varies
 aliases: 
 - "Instrument of the Bards"
 ---

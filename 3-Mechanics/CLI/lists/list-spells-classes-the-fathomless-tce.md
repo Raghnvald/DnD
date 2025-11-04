@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-note
 tags:
-  - ttrpg-cli/spell/list/subclass/the-fathomless
+  - Zauber/list/subclass/the-fathomless
 aliases:
   - Spells for The Fathomless
 ---

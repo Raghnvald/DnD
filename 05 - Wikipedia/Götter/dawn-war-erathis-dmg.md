@@ -4,9 +4,9 @@ cssclasses:
 - json5e-deity
 tags:
 - Quelle/5e/dmg
-- ttrpg-cli/deity/dawn-war
-- Götter/domain/knowledge
-- Götter/domain/order
+- Kompendium/Götter/dawn-war
+- Kompendium/Götter/domain/knowledge
+- Kompendium/Götter/domain/order
 aliases: 
 - Erathis
 ---

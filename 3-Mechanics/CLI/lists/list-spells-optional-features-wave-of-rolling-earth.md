@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/optfeature/wave-of-rolling-earth
+- Zauber/list/optfeature/wave-of-rolling-earth
 aliases:
 - Spells for Wave of Rolling Earth
 ---

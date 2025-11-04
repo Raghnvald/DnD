@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-class
 tags:
-  - ttrpg-cli/class/barbarian
+  - Klasse/class/barbarian
   - Quelle/5e/xphb
 aliases:
   - Barbarian

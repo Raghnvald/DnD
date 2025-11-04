@@ -3,9 +3,9 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/cos
-  - ttrpg-cli/item/attunement/required
-  - ttrpg-cli/item/rarity/rare
-  - ttrpg-cli/item/weapon/simple
+  - Gegenstand/item/attunement/required
+  - Gegenstand/item/rarity/rare
+  - Gegenstand/item/weapon/simple
 aliases:
   - Gulthias Staff
 ---

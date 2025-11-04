@@ -4,9 +4,9 @@ cssclasses:
 - json5e-item
 tags:
 - Quelle/5e/dmg
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/uncommon
-- ttrpg-cli/item/tier/major
+- Gegenstand/item/attunement/required
+- Gegenstand/item/rarity/uncommon
+- Gegenstand/item/tier/major
 aliases: 
 - "Bracers of Archery"
 ---

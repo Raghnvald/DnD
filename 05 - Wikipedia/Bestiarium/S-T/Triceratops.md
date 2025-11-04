@@ -9,9 +9,9 @@ status:
 image:
 tags:
   - Quelle/5e/Monster_Manual
-  - Habitat/Grasland
-  - Größe/Riesig
-  - Typ/Tier
+  - Monster/Habitat/Grasland
+  - Monster/Größe/Riesig
+  - Monster/Typ/Tier
 aliases:
   - Triceratops
 ---

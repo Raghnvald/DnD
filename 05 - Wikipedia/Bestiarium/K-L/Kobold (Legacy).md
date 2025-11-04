@@ -2,17 +2,17 @@
 cssclasses: json5e-monster
 tags:
   - Quelle/5e/Monster_Manual
-  - Habitat/Arktis
-  - Habitat/Küste
-  - Habitat/Wüste
-  - Habitat/Wald
-  - Habitat/Hügel
-  - Habitat/Berg
-  - Habitat/Sumpf
-  - Habitat/Unterreich
-  - Habitat/Stadt
-  - Größe/Klein
-  - Typ/Humanoid/Kobold
+  - Monster/Habitat/Arktis
+  - Monster/Habitat/Küste
+  - Monster/Habitat/Wüste
+  - Monster/Habitat/Wald
+  - Monster/Habitat/Hügel
+  - Monster/Habitat/Berg
+  - Monster/Habitat/Sumpf
+  - Monster/Habitat/Unterreich
+  - Monster/Habitat/Stadt
+  - Monster/Größe/Klein
+  - Monster/Typ/Humanoid/Kobold
 aliases:
   - Kobold
 Typ: Humanoid

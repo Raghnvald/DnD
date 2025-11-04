@@ -3,8 +3,8 @@ cssclasses:
   - json5e-class
 tags:
   - Quelle/5e/xge
-  - Götter/domain/grave
-  - ttrpg-cli/subclass/cleric/grave
+  - Kompendium/Götter/domain/grave
+  - Klasse/subclass/cleric/grave
 aliases:
   - Grave Domain
 ---

@@ -1,13 +1,13 @@
 ---
 cssclasses: json5e-monster
 tags:
-  - Größe/Winzig
-  - Habitat/Grasland
-  - Habitat/Stadt
-  - Habitat/Wald
-  - Habitat/Wüste
+  - Monster/Größe/Winzig
+  - Monster/Habitat/Grasland
+  - Monster/Habitat/Stadt
+  - Monster/Habitat/Wald
+  - Monster/Habitat/Wüste
   - Quelle/5e/Monster_Manual
-  - Typ/Tier
+  - Monster/Typ/Tier
 aliases:
   - Flying Snake
 ---

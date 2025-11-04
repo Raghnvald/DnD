@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-note
 tags:
-  - ttrpg-cli/spell/list/optfeature/book-of-ancient-secrets
+  - Zauber/list/optfeature/book-of-ancient-secrets
 aliases:
   - Spells for Book of Ancient Secrets
 ---

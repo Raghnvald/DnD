@@ -2,14 +2,14 @@
 cssclasses: json5e-monster
 tags:
   - Quelle/5e/Monster_Manual
-  - Habitat/Wüste
-  - Habitat/Wald
-  - Habitat/Grasland
-  - Habitat/Hügel
-  - Habitat/Unterreich
-  - Habitat/Stadt
-  - Größe/Groß
-  - Typ/Monstrosität
+  - Monster/Habitat/Wüste
+  - Monster/Habitat/Wald
+  - Monster/Habitat/Grasland
+  - Monster/Habitat/Hügel
+  - Monster/Habitat/Unterreich
+  - Monster/Habitat/Stadt
+  - Monster/Größe/Groß
+  - Monster/Typ/Monstrosität
 aliases:
   - Phase Spider
 ---

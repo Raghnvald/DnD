@@ -3,12 +3,12 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/xdmg
-  - ttrpg-cli/item/attunement/required
-  - ttrpg-cli/item/rarity/very-rare
-  - ttrpg-cli/item/weapon/martial
-  - ttrpg-cli/item/weapon/ranged
-  - ttrpg-cli/item/weapon/simple
-  - ttrpg-cli/item/wondrous/generic-variant
+  - Gegenstand/item/attunement/required
+  - Gegenstand/item/rarity/very-rare
+  - Gegenstand/item/weapon/martial
+  - Gegenstand/item/weapon/ranged
+  - Gegenstand/item/weapon/simple
+  - Gegenstand/item/wondrous/generic-variant
 aliases:
   - Oathbow
   - Oath Longbow

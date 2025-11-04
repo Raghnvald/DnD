@@ -2,11 +2,11 @@
 cssclasses: json5e-deity
 tags:
   - Quelle/5e/Players_Handbook
-  - Götter
-  - Götter/Gesinnung/Rechtschaffen_Neutral
-  - Götter/Pantheon/Faerun
-  - Götter/Domäne/Arkana
-  - Götter/Domäne/Wissen
+  - Kompendium/Götter
+  - Kompendium/Götter/Gesinnung/Rechtschaffen_Neutral
+  - Kompendium/Götter/Pantheon/Faerun
+  - Kompendium/Götter/Domäne/Arkana
+  - Kompendium/Götter/Domäne/Wissen
 aliases:
   - Azuth
 ---

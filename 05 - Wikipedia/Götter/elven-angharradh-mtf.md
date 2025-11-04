@@ -4,11 +4,11 @@ cssclasses:
 - json5e-deity
 tags:
 - Quelle/5e/mtf
-- ttrpg-cli/deity/elven
-- Götter/domain/knowledge
-- Götter/domain/life
-- Götter/domain/peace
-- Götter/domain/war
+- Kompendium/Götter/elven
+- Kompendium/Götter/domain/knowledge
+- Kompendium/Götter/domain/life
+- Kompendium/Götter/domain/peace
+- Kompendium/Götter/domain/war
 aliases: 
 - Angharradh
 ---

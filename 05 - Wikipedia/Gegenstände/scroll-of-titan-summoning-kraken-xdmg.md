@@ -3,8 +3,8 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/xdmg
-  - ttrpg-cli/item/rarity/legendary
-  - ttrpg-cli/item/wondrous/scroll
+  - Gegenstand/item/rarity/legendary
+  - Gegenstand/item/wondrous/scroll
 aliases:
   - Scroll of Titan Summoning (Kraken)
 ---

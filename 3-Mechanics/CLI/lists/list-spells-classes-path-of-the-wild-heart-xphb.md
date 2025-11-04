@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/subclass/path-of-the-wild-heart
+- Zauber/list/subclass/path-of-the-wild-heart
 aliases:
 - Spells for Path of the Wild Heart
 ---

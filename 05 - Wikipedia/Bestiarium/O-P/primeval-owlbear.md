@@ -1,7 +1,7 @@
 ---
 tags:
 - Quelle/5e/Players_Handbook
-- Typ/Tier
+- Monster/Typ/Tier
 aliases:
 - 
 ---

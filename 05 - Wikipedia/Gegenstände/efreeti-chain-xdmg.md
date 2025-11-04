@@ -3,11 +3,11 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/xdmg
-  - ttrpg-cli/item/armor/heavy
-  - ttrpg-cli/item/armor/medium
-  - ttrpg-cli/item/attunement/required
-  - ttrpg-cli/item/rarity/legendary
-  - ttrpg-cli/item/wondrous/generic-variant
+  - Gegenstand/item/armor/heavy
+  - Gegenstand/item/armor/medium
+  - Gegenstand/item/attunement/required
+  - Gegenstand/item/rarity/legendary
+  - Gegenstand/item/wondrous/generic-variant
 aliases:
   - Efreeti Chain
   - Efreeti Chain Mail

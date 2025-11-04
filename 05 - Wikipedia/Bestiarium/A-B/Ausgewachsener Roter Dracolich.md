@@ -10,6 +10,6 @@ Habitat:
   - Hügel
 status: WIP
 image:
-tags: [Quelle/5e/mpmm, Typ/Untote]
+tags: [Quelle/5e/mpmm, Monster/Typ/Untote]
 aliases: [Adult Red Dracolich]
 ---

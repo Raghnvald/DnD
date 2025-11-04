@@ -4,7 +4,7 @@ cssclasses:
 - json5e-race
 tags:
 - Quelle/5e/phb
-- ttrpg-cli/race/tiefling
+- Rasse/tiefling
 aliases:
 - Tiefling
 ---

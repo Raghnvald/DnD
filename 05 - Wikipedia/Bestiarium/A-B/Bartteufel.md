@@ -5,10 +5,10 @@ prefer-view:
   - edit-source read
 status:
 tags:
-  - Größe/Mittelgroß
+  - Monster/Größe/Mittelgroß
   - Habitat/Planar/Untere Ebenen
   - Quelle/5e/Monster_Manual
-  - Typ/Unhold/Teufel
+  - Monster/Typ/Unhold/Teufel
 aliases:
   - Bearded Devil
 link:

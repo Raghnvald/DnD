@@ -3,7 +3,7 @@ cssclasses:
   - json5e-class
 tags:
   - Quelle/5e/tce
-  - ttrpg-cli/subclass/barbarian/beast
+  - Klasse/subclass/barbarian/beast
 aliases:
   - Path of the Beast
 ---

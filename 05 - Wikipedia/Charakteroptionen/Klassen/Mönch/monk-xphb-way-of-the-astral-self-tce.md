@@ -3,7 +3,7 @@ cssclasses:
   - json5e-class
 tags:
   - Quelle/5e/tce
-  - ttrpg-cli/subclass/monk/astral-self
+  - Klasse/subclass/monk/astral-self
 aliases:
   - Way of the Astral Self
 ---

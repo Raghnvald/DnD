@@ -3,9 +3,9 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/pabtso
-  - ttrpg-cli/item/rarity/uncommon
-  - ttrpg-cli/item/weapon/melee
-  - ttrpg-cli/item/weapon/simple
+  - Gegenstand/item/rarity/uncommon
+  - Gegenstand/item/weapon/melee
+  - Gegenstand/item/weapon/simple
 aliases:
   - Lightbringer
 ---

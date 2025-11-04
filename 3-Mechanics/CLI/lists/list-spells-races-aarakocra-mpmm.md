@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/race/aarakocra
+- Zauber/list/race/aarakocra
 aliases:
 - Spells for Aarakocra
 ---

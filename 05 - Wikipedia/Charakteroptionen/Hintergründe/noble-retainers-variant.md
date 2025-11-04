@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-background
 tags:
-  - ttrpg-cli/background
+  - Kompendium/background
   - Quelle/5e/phb
 aliases:
   - Noble (Retainers) (Variant)

@@ -2,12 +2,12 @@
 cssclasses: json5e-monster
 tags:
   - Quelle/5e/Monster_Manual
-  - Habitat/Wald
-  - Habitat/Grasland
-  - Habitat/Hügel
-  - Habitat/Berg
-  - Größe/Riesig
-  - Typ/Tier
+  - Monster/Habitat/Wald
+  - Monster/Habitat/Grasland
+  - Monster/Habitat/Hügel
+  - Monster/Habitat/Berg
+  - Monster/Größe/Riesig
+  - Monster/Typ/Tier
 aliases:
   - Giant Elk
 ---

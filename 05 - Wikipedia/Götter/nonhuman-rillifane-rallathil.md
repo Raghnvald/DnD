@@ -4,8 +4,8 @@ cssclasses:
 - json5e-deity
 tags:
 - Quelle/5e/phb
-- ttrpg-cli/deity/nonhuman
-- Götter/domain/nature
+- Kompendium/Götter/nonhuman
+- Kompendium/Götter/domain/nature
 aliases: 
 - Rillifane Rallathil
 ---

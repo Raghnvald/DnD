@@ -9,10 +9,10 @@ status:
 image: token/Gargyl.webp
 tags:
   - Quelle/5e/Monster_Manual
-  - Typ/Elementar
-  - Größe/Mittelgroß
-  - Habitat/Stadt
-  - Habitat/Unterreich
+  - Monster/Typ/Elementar
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Stadt
+  - Monster/Habitat/Unterreich
 aliases:
   - Gargoyle
 ---

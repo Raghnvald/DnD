@@ -4,7 +4,7 @@ cssclasses:
 - json5e-class
 tags:
 - Quelle/5e/phb
-- ttrpg-cli/subclass/wizard/evocation
+- Klasse/subclass/wizard/evocation
 aliases:
 - School of Evocation
 ---

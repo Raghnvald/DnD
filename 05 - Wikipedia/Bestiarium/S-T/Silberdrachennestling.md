@@ -2,8 +2,8 @@
 cssclasses: json5e-monster
 tags:
   - Quelle/5e/Monster_Manual
-  - Größe/Mittelgroß
-  - Typ/Drache
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/Drache
 aliases:
   - Silver Dragon Wyrmling
 ---

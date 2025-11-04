@@ -1,10 +1,10 @@
 ---
 tags:
 - Quelle/5e/Players_Handbook
-- Götter
-- Götter/Gesinnung/Rechtschaffen_Gut
-- Götter/Pantheon/Faerun
-- Götter/Domäne/Krieg
+- Kompendium/Götter
+- Kompendium/Götter/Gesinnung/Rechtschaffen_Gut
+- Kompendium/Götter/Pantheon/Faerun
+- Kompendium/Götter/Domäne/Krieg
 aliases:
 - Tyr
 ---

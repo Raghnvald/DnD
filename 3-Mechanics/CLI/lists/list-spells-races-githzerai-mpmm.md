@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/race/githzerai
+- Zauber/list/race/githzerai
 aliases:
 - Spells for Githzerai
 ---

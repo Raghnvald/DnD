@@ -4,10 +4,10 @@ cssclasses:
 - json5e-deity
 tags:
 - Quelle/5e/dmg
-- ttrpg-cli/deity/dawn-war
-- Götter/domain/arcana
-- Götter/domain/death
-- Götter/domain/knowledge
+- Kompendium/Götter/dawn-war
+- Kompendium/Götter/domain/arcana
+- Kompendium/Götter/domain/death
+- Kompendium/Götter/domain/knowledge
 aliases: 
 - Vecna
 ---

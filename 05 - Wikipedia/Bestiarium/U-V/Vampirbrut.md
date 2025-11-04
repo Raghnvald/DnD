@@ -10,7 +10,7 @@ Habitat:
   - Unterreich
 status: WIP
 image:
-tags: [Größe/Mittelgroß, Quelle/5e/Monster_Manual]
+tags: [Monster/Größe/Mittelgroß, Quelle/5e/Monster_Manual]
 aliases: [Vampire Spawn]
 ---
 # Vampirbrut (2014)

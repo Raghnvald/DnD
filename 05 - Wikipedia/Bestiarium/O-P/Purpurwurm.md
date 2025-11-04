@@ -2,10 +2,10 @@
 cssclasses: json5e-monster
 tags:
   - Quelle/5e/Monster_Manual
-  - Habitat/Wüste
-  - Habitat/Unterreich
-  - Größe/Gigantisch
-  - Typ/Monstrosität
+  - Monster/Habitat/Wüste
+  - Monster/Habitat/Unterreich
+  - Monster/Größe/Gigantisch
+  - Monster/Typ/Monstrosität
 aliases:
   - Purple Worm
 ---

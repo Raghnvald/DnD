@@ -30,7 +30,7 @@ _Quellen:_ Spielerhandbuch
 | *Druidischer Fokus*                                                              |          |                |
 | [[Holzstab]]                                                                     |     5 GM |        2,0 kg. |
 | [[Mistelzweigsprössling]]                                                        |     1 GM |              — |
-| [[Totem]]                                                                        |     1 GM |              — |
+| [[D&D/05 - Wikipedia/Gegenstände/Totem]]                                                                        |     1 GM |              — |
 | [[Eibenzauberstab]]                                                              |    10 GM |        0,5 kg. |
 |                                                                                  |          |                |
 | [[Eimer]]                                                                        |     5 KM |        1,0 kg. |
@@ -47,7 +47,7 @@ _Quellen:_ Spielerhandbuch
 | [[Giftmischerwerkzeug]]                                                          |    50 GM |        1,0 kg. |
 | [Giftphiole, einfach](../Gegenstände/Giftphiole-einfach.md)                      |   100 GM |              — |
 | [[Glocke]]                                                                       |     1 GM |              — |
-| [[Hammer]]                                                                       |     1 GM |        1,5 kg. |
+| [[D&D/05 - Wikipedia/Gegenstände/Hammer]]                                                                       |     1 GM |        1,5 kg. |
 | [Hammer, Vorschlaghammer](../Gegenstände/Vorschlaghammer.md)                     |     2 GM |        5,0 kg. |
 | [[Handschellen]]                                                                 |     2 GM |        3,0 kg. |
 | [[Heilerausrüstung]]                                                             |     5 GM |        1,5 kg. |

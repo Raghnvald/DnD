@@ -8,11 +8,11 @@ HG: 8
 status:
 image:
 tags:
-  - Größe/Riesig
-  - Habitat/Arktis
-  - Habitat/Berg
+  - Monster/Größe/Riesig
+  - Monster/Habitat/Arktis
+  - Monster/Habitat/Berg
   - Quelle/5e/Monster_Manual
-  - Typ/Riese
+  - Monster/Typ/Riese
 aliases:
   - Frost Giant
 ---

@@ -3,7 +3,7 @@ cssclasses:
   - json5e-class
 tags:
   - Quelle/5e/xphb
-  - ttrpg-cli/subclass/barbarian/world-tree
+  - Klasse/subclass/barbarian/world-tree
 aliases:
   - Path of the World Tree
 ---

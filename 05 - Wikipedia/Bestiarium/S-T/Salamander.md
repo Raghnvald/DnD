@@ -9,9 +9,9 @@ status:
 image:
 tags:
   - Quelle/5e/Monster_Manual
-  - Habitat/Unterreich
-  - Größe/Groß
-  - Typ/Elementar
+  - Monster/Habitat/Unterreich
+  - Monster/Größe/Groß
+  - Monster/Typ/Elementar
 aliases:
   - Salamander
 ---

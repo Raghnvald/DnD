@@ -4,8 +4,8 @@ cssclasses:
 - json5e-item
 tags:
 - Quelle/5e/xdmg
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/legendary
+- Gegenstand/item/attunement/required
+- Gegenstand/item/rarity/legendary
 aliases: 
 - "Belt of Storm Giant Strength"
 ---

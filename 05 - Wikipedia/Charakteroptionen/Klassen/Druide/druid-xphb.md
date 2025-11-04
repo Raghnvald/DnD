@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-class
 tags:
-  - ttrpg-cli/class/druid
+  - Klasse/class/druid
   - Quelle/5e/xphb
 aliases:
   - Druid

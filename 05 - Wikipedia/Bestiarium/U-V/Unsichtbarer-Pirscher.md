@@ -9,9 +9,9 @@ status:
 image:
 tags:
   - Quelle/5e/Monster_Manual
-  - Habitat/Stadt
-  - Größe/Mittelgroß
-  - Typ/Elementar
+  - Monster/Habitat/Stadt
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/Elementar
 aliases:
   - Invisible Stalker
 ---

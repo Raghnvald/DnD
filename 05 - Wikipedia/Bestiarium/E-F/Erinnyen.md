@@ -5,10 +5,10 @@ prefer-view:
   - edit-source read
 status:
 tags:
-  - Größe/Mittelgroß
-  - Habitat/Planar/Neun-Höllen
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Planar/Neun-Höllen
   - Quelle/5e/Monster_Manual
-  - Typ/Unhold/Teufel
+  - Monster/Typ/Unhold/Teufel
 aliases:
   - Erinyes
 link:

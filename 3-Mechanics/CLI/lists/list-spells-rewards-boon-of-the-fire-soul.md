@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/reward/boon-of-the-fire-soul
+- Zauber/list/reward/boon-of-the-fire-soul
 aliases:
 - Spells for Boon of the Fire Soul
 ---

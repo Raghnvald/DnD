@@ -4,9 +4,9 @@ cssclasses:
 - json5e-item
 tags:
 - Quelle/5e/dmg
-- ttrpg-cli/item/gear/ammunition
-- ttrpg-cli/item/rarity/very-rare
-- ttrpg-cli/item/tier/minor
+- Gegenstand/item/gear/ammunition
+- Gegenstand/item/rarity/very-rare
+- Gegenstand/item/tier/minor
 aliases: 
 - "Arrow of Slaying"
 ---

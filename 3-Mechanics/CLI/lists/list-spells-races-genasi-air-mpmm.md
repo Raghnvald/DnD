@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/subrace/genasi-air
+- Zauber/list/subrace/genasi-air
 aliases:
 - Spells for Genasi (Air)
 ---

@@ -9,9 +9,9 @@ status:
 image:
 tags:
   - Quelle/5e/Monster_Manual
-  - Habitat/Unterwasser
-  - Größe/Mittelgroß
-  - Typ/Tier
+  - Monster/Habitat/Unterwasser
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/Tier
 aliases:
   - Swarm of Quippers
 ---

@@ -4,9 +4,9 @@ cssclasses:
 - json5e-item
 tags:
 - Quelle/5e/dmg
-- ttrpg-cli/item/rarity/very-rare
-- ttrpg-cli/item/tier/major
-- ttrpg-cli/item/wondrous/rod
+- Gegenstand/item/rarity/very-rare
+- Gegenstand/item/tier/major
+- Gegenstand/item/wondrous/rod
 aliases: 
 - "Rod of Security"
 ---

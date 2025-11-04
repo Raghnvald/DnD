@@ -8,10 +8,10 @@ HG:
 status:
 image:
 tags:
-  - Größe/Groß
-  - Habitat/Unterreich
+  - Monster/Größe/Groß
+  - Monster/Habitat/Unterreich
   - Quelle/5e/Monster_Manual
-  - Typ/Elementar
+  - Monster/Typ/Elementar
 aliases:
   - Earth Elemental
 ---

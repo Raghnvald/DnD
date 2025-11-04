@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/subclass/way-of-the-sun-soul
+- Zauber/list/subclass/way-of-the-sun-soul
 aliases:
 - Spells for Way of the Sun Soul
 ---

@@ -4,7 +4,7 @@ cssclasses:
 - json5e-feat
 tags:
 - Quelle/5e/phb
-- ttrpg-cli/feat
+- Kompendium/feat
 aliases:
 - Inspiring Leader
 ---

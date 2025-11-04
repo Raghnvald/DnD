@@ -3,7 +3,7 @@ cssclasses:
   - json5e-race
 tags:
   - Quelle/5e/phb
-  - ttrpg-cli/race/half-elf
+  - Rasse/half-elf
 aliases:
   - Half-Elf
 ---

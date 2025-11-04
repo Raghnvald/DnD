@@ -3,7 +3,7 @@ cssclasses:
   - json5e-reward
 tags:
   - Quelle/5e/ftd
-  - ttrpg-cli/reward/draconic-gift
+  - Kompendium/reward/draconic-gift
 aliases:
   - Draconic Senses
 ---

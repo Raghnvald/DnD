@@ -4,8 +4,8 @@ cssclasses:
 - json5e-item
 tags:
 - Quelle/5e/xphb
-- ttrpg-cli/item/gear/ammunition
-- ttrpg-cli/item/rarity/none
+- Gegenstand/item/gear/ammunition
+- Gegenstand/item/rarity/none
 aliases: 
 - "Firearm Bullets (10)"
 ---

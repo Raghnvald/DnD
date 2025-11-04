@@ -2,14 +2,14 @@
 cssclasses: json5e-monster
 tags:
   - Quelle/5e/Monster_Manual
-  - Typ/Drache
-  - Größe/Winzig
-  - Habitat/Berg
-  - Habitat/Hügel
-  - Habitat/Küste
-  - Habitat/Stadt
-  - Habitat/Wald
-  - Habitat/Wüste
+  - Monster/Typ/Drache
+  - Monster/Größe/Winzig
+  - Monster/Habitat/Berg
+  - Monster/Habitat/Hügel
+  - Monster/Habitat/Küste
+  - Monster/Habitat/Stadt
+  - Monster/Habitat/Wald
+  - Monster/Habitat/Wüste
 aliases:
   - Pseudodragon
 ---

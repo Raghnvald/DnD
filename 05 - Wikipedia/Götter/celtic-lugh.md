@@ -4,9 +4,9 @@ cssclasses:
 - json5e-deity
 tags:
 - Quelle/5e/phb
-- ttrpg-cli/deity/celtic
-- Götter/domain/knowledge
-- Götter/domain/life
+- Kompendium/Götter/celtic
+- Kompendium/Götter/domain/knowledge
+- Kompendium/Götter/domain/life
 aliases: 
 - Lugh
 ---

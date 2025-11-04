@@ -4,9 +4,9 @@ cssclasses:
 - json5e-deity
 tags:
 - Quelle/5e/phb
-- ttrpg-cli/deity/dragonlance
-- Götter/domain/forge
-- Götter/domain/knowledge
+- Kompendium/Götter/dragonlance
+- Kompendium/Götter/domain/forge
+- Kompendium/Götter/domain/knowledge
 aliases: 
 - Reorx
 ---

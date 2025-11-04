@@ -4,10 +4,10 @@ cssclasses:
 - json5e-item
 tags:
 - Quelle/5e/dmg
-- ttrpg-cli/item/armor/heavy
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/legendary
-- ttrpg-cli/item/tier/major
+- Gegenstand/item/armor/heavy
+- Gegenstand/item/attunement/required
+- Gegenstand/item/rarity/legendary
+- Gegenstand/item/tier/major
 aliases: 
 - "Efreeti Chain"
 ---

@@ -3,8 +3,8 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/xdmg
-  - ttrpg-cli/item/attunement/required
-  - ttrpg-cli/item/rarity/common
+  - Gegenstand/item/attunement/required
+  - Gegenstand/item/rarity/common
 aliases:
   - Ruby of the War Mage
 ---

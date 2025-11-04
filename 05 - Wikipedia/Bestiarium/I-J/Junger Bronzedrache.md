@@ -2,9 +2,9 @@
 cssclasses: json5e-monster
 tags:
   - Quelle/5e/Monster_Manual
-  - Habitat/Küste
-  - Größe/Groß
-  - Typ/Drache
+  - Monster/Habitat/Küste
+  - Monster/Größe/Groß
+  - Monster/Typ/Drache
 aliases:
   - Young Bronze Dragon
 ---

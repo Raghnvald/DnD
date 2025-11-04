@@ -3,9 +3,9 @@ cssclasses:
   - json5e-deity
 tags:
   - Quelle/5e/mtf
-  - ttrpg-cli/deity/halfling
-  - Götter/domain/life
-  - Götter/domain/peace
+  - Kompendium/Götter/halfling
+  - Kompendium/Götter/domain/life
+  - Kompendium/Götter/domain/peace
 aliases:
   - Cyrrollalee
 ---

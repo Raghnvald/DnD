@@ -2,9 +2,9 @@
 cssclasses: json5e-monster
 tags:
   - Quelle/5e/Monster_Manual
-  - Habitat/Unterwasser
-  - Größe/Gigantisch
-  - Typ/Monstrosität/Titan
+  - Monster/Habitat/Unterwasser
+  - Monster/Größe/Gigantisch
+  - Monster/Typ/Monstrosität/Titan
 aliases:
   - Kraken
 ---

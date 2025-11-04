@@ -2,8 +2,8 @@
 cssclasses: json5e-monster
 tags:
   - Quelle/5e/Monster_Manual
-  - Größe/Groß
-  - Typ/Unhold/Dämon
+  - Monster/Größe/Groß
+  - Monster/Typ/Unhold/Dämon
 aliases:
   - Marilith
 Typ: Unhold

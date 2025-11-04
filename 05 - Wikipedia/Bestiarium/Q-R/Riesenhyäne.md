@@ -9,12 +9,12 @@ status:
 image:
 tags:
   - Quelle/5e/Monster_Manual
-  - Habitat/Wüste
-  - Habitat/Wald
-  - Habitat/Grasland
-  - Habitat/Hügel
-  - Größe/Groß
-  - Typ/Tier
+  - Monster/Habitat/Wüste
+  - Monster/Habitat/Wald
+  - Monster/Habitat/Grasland
+  - Monster/Habitat/Hügel
+  - Monster/Größe/Groß
+  - Monster/Typ/Tier
 aliases:
   - Giant Hyena
 ---

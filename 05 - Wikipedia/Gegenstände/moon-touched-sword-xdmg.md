@@ -3,10 +3,10 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/xdmg
-  - ttrpg-cli/item/rarity/common
-  - ttrpg-cli/item/weapon/martial
-  - ttrpg-cli/item/weapon/melee
-  - ttrpg-cli/item/wondrous/generic-variant
+  - Gegenstand/item/rarity/common
+  - Gegenstand/item/weapon/martial
+  - Gegenstand/item/weapon/melee
+  - Gegenstand/item/wondrous/generic-variant
 aliases:
   - Moon-Touched Sword
   - Moon-Touched Double-Bladed Scimitar

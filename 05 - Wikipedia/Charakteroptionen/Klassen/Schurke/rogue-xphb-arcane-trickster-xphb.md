@@ -3,7 +3,7 @@ cssclasses:
   - json5e-class
 tags:
   - Quelle/5e/xphb
-  - ttrpg-cli/subclass/rogue/arcane-trickster
+  - Klasse/subclass/rogue/arcane-trickster
 aliases:
   - Arcane Trickster
 ---

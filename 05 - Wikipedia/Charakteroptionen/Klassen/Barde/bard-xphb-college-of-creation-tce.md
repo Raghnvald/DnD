@@ -3,7 +3,7 @@ cssclasses:
   - json5e-class
 tags:
   - Quelle/5e/tce
-  - ttrpg-cli/subclass/bard/creation
+  - Klasse/subclass/bard/creation
 aliases:
   - College of Creation
 ---

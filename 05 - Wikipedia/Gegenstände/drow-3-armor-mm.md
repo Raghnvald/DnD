@@ -3,11 +3,11 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/mm
-  - ttrpg-cli/item/armor/heavy
-  - ttrpg-cli/item/armor/light
-  - ttrpg-cli/item/armor/medium
-  - ttrpg-cli/item/rarity/unknown/magic
-  - ttrpg-cli/item/wondrous/generic-variant
+  - Gegenstand/item/armor/heavy
+  - Gegenstand/item/armor/light
+  - Gegenstand/item/armor/medium
+  - Gegenstand/item/rarity/unknown/magic
+  - Gegenstand/item/wondrous/generic-variant
 aliases:
   - Drow +3 Armor
   - Drow +3 Breastplate

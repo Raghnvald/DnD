@@ -3,8 +3,8 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/xdmg
-  - ttrpg-cli/item/rarity/rare
-  - ttrpg-cli/item/wondrous/scroll
+  - Gegenstand/item/rarity/rare
+  - Gegenstand/item/wondrous/scroll
 aliases:
   - Scroll of Protection (Dragons)
 ---

@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/subclass/circle-of-the-land
+- Zauber/list/subclass/circle-of-the-land
 aliases:
 - Spells for Circle of the Land
 ---

@@ -9,10 +9,10 @@ status:
 image:
 tags:
   - Quelle/5e/Monster_Manual
-  - Habitat/Wüste
-  - Habitat/Grasland
-  - Größe/Klein
-  - Typ/Tier
+  - Monster/Habitat/Wüste
+  - Monster/Habitat/Grasland
+  - Monster/Größe/Klein
+  - Monster/Typ/Tier
 aliases:
   - Jackal
 ---

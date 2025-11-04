@@ -4,16 +4,16 @@ cssclasses:
 - json5e-item
 tags:
 - Quelle/5e/phb
-- ttrpg-cli/item/age/futuristic
-- ttrpg-cli/item/age/modern
-- ttrpg-cli/item/age/renaissance
-- ttrpg-cli/item/rarity/unknown
-- ttrpg-cli/item/tier/major
-- ttrpg-cli/item/weapon/martial
-- ttrpg-cli/item/weapon/melee
-- ttrpg-cli/item/weapon/ranged
-- ttrpg-cli/item/weapon/simple
-- ttrpg-cli/item/wondrous/generic-variant
+- Gegenstand/item/age/futuristic
+- Gegenstand/item/age/modern
+- Gegenstand/item/age/renaissance
+- Gegenstand/item/rarity/unknown
+- Gegenstand/item/tier/major
+- Gegenstand/item/weapon/martial
+- Gegenstand/item/weapon/melee
+- Gegenstand/item/weapon/ranged
+- Gegenstand/item/weapon/simple
+- Gegenstand/item/wondrous/generic-variant
 aliases: 
 - "Silvered Weapon"
 - "Silvered Antimatter Rifle"

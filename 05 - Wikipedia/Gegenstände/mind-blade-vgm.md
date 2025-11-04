@@ -4,11 +4,11 @@ cssclasses:
 - json5e-item
 tags:
 - Quelle/5e/vgm
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/rare
-- ttrpg-cli/item/weapon/martial
-- ttrpg-cli/item/weapon/melee
-- ttrpg-cli/item/wondrous/generic-variant
+- Gegenstand/item/attunement/required
+- Gegenstand/item/rarity/rare
+- Gegenstand/item/weapon/martial
+- Gegenstand/item/weapon/melee
+- Gegenstand/item/wondrous/generic-variant
 aliases: 
 - "Mind Blade"
 - "Mind Blade Double-Bladed Scimitar"

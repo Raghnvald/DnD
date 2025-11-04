@@ -4,8 +4,8 @@ cssclasses:
 - json5e-item
 tags:
 - Quelle/5e/cos
-- ttrpg-cli/item/rarity/unknown/magic
-- ttrpg-cli/item/wondrous/other
+- Gegenstand/item/rarity/unknown/magic
+- Gegenstand/item/wondrous/other
 aliases: 
 - "Green Copper Ewer"
 ---

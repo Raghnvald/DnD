@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-note
 tags:
-  - ttrpg-cli/spell/list/subclass/peace-domain
+  - Zauber/list/subclass/peace-domain
 aliases:
   - Spells for Peace Domain
 ---

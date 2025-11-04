@@ -8,12 +8,12 @@ HG:
 status:
 image:
 tags:
-  - Größe/Groß
-  - Habitat/Arktis
-  - Habitat/Hügel
-  - Habitat/Wald
+  - Monster/Größe/Groß
+  - Monster/Habitat/Arktis
+  - Monster/Habitat/Hügel
+  - Monster/Habitat/Wald
   - Quelle/5e/Monster_Manual
-  - Typ/Tier
+  - Monster/Typ/Tier
 aliases:
   - Brown Bear
 ---

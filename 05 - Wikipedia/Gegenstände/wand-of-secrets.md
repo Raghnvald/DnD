@@ -4,9 +4,9 @@ cssclasses:
 - json5e-item
 tags:
 - Quelle/5e/dmg
-- ttrpg-cli/item/rarity/uncommon
-- ttrpg-cli/item/tier/minor
-- ttrpg-cli/item/wondrous/wand
+- Gegenstand/item/rarity/uncommon
+- Gegenstand/item/tier/minor
+- Gegenstand/item/wondrous/wand
 aliases: 
 - "Wand of Secrets"
 ---

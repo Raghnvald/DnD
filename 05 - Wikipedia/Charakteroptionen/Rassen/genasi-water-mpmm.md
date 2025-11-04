@@ -3,7 +3,7 @@ cssclasses:
   - json5e-race
 tags:
   - Quelle/5e/mpmm
-  - ttrpg-cli/race/genasi/water
+  - Rasse/genasi/water
 aliases:
   - Genasi (Water)
 ---

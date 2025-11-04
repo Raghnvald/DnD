@@ -8,10 +8,10 @@ HG:
 status:
 image:
 tags:
-  - Größe/Klein
-  - Habitat/Unterwasser
+  - Monster/Größe/Klein
+  - Monster/Habitat/Unterwasser
   - Quelle/5e/Monster_Manual
-  - Typ/Elementar
+  - Monster/Typ/Elementar
 aliases:
   - Steam Mephit
 ---

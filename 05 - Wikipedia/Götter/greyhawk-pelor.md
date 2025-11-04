@@ -4,9 +4,9 @@ cssclasses:
 - json5e-deity
 tags:
 - Quelle/5e/phb
-- ttrpg-cli/deity/greyhawk
-- Götter/domain/life
-- Götter/domain/light
+- Kompendium/Götter/greyhawk
+- Kompendium/Götter/domain/life
+- Kompendium/Götter/domain/light
 aliases: 
 - Pelor
 ---

@@ -3,10 +3,10 @@ cssclasses:
   - json5e-deity
 tags:
   - Quelle/5e/scag
-  - ttrpg-cli/deity/faerunian
-  - Götter/domain/life
-  - Götter/domain/light
-  - Götter/domain/twilight
+  - Kompendium/Götter/faerunian
+  - Kompendium/Götter/domain/life
+  - Kompendium/Götter/domain/light
+  - Kompendium/Götter/domain/twilight
 aliases:
   - Helm
   - The Watcher

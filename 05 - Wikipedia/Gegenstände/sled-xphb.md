@@ -4,8 +4,8 @@ cssclasses:
 - json5e-item
 tags:
 - Quelle/5e/xphb
-- ttrpg-cli/item/rarity/none
-- ttrpg-cli/item/vehicle/land
+- Gegenstand/item/rarity/none
+- Gegenstand/item/vehicle/land
 aliases: 
 - "Sled"
 ---

@@ -4,7 +4,7 @@ cssclasses:
 - json5e-hazard
 tags:
 - Quelle/5e/dmg
-- ttrpg-cli/hazard/mech
+- Kompendium/hazard/mech
 aliases:
 - Collapsing Roof
 ---

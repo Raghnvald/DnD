@@ -4,8 +4,8 @@ cssclasses:
 - json5e-item
 tags:
 - Quelle/5e/dmg
-- ttrpg-cli/item/rarity/rare
-- ttrpg-cli/item/tier/major
+- Gegenstand/item/rarity/rare
+- Gegenstand/item/tier/major
 aliases: 
 - "Figurine of Wondrous Power, Ivory Goats"
 ---

@@ -3,9 +3,9 @@ cssclasses: json5e-monster
 tags:
   - DnD/Kompendium/Quelle/5e/MM 2014
   - DnD/Kompendium/Quelle/5e/MM 2024
-  - Habitat/Jedes
-  - Größe/Groß
-  - Typ/Konstrukt
+  - Monster/Habitat/Jedes
+  - Monster/Größe/Groß
+  - Monster/Typ/Konstrukt
 aliases:
   - Stone Golem
 ---

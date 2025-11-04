@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/optfeature/beast-speech
+- Zauber/list/optfeature/beast-speech
 aliases:
 - Spells for Beast Speech
 ---

@@ -2,10 +2,10 @@
 cssclasses: json5e-monster
 tags:
   - Quelle/5e/Monster_Manual
-  - Habitat/Wald
-  - Habitat/Grasland
-  - Größe/Groß
-  - Typ/Monstrosität
+  - Monster/Habitat/Wald
+  - Monster/Habitat/Grasland
+  - Monster/Größe/Groß
+  - Monster/Typ/Monstrosität
 aliases:
   - Centaur
 ---

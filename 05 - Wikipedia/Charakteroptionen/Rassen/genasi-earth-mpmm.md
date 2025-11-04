@@ -3,7 +3,7 @@ cssclasses:
   - json5e-race
 tags:
   - Quelle/5e/mpmm
-  - ttrpg-cli/race/genasi/earth
+  - Rasse/genasi/earth
 aliases:
   - Genasi (Earth)
 ---

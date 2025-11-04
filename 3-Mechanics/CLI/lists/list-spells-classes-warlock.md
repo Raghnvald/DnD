@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-note
 tags:
-  - ttrpg-cli/spell/list/class/warlock
+  - Zauber/list/class/warlock
 aliases:
   - Warlock Spells
 ---

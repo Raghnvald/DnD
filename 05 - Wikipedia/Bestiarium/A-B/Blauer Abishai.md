@@ -1,5 +1,5 @@
 ---
 tags:
-  - Typ/Unhold
+  - Monster/Typ/Unhold
 Typ: Unhold
 ---

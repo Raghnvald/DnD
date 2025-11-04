@@ -4,7 +4,7 @@ cssclasses:
 - json5e-class
 tags:
 - Quelle/5e/phb
-- ttrpg-cli/subclass/monk/open-hand
+- Klasse/subclass/monk/open-hand
 aliases:
 - Way of the Open Hand
 ---

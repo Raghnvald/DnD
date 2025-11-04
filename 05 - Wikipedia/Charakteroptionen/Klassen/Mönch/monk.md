@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-class
 tags:
-- ttrpg-cli/class/monk
+- Klasse/class/monk
 - Quelle/5e/phb
 aliases:
 - Monk

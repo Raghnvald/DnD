@@ -3,10 +3,10 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/tce
-  - ttrpg-cli/item/attunement/required
-  - ttrpg-cli/item/rarity/artifact
-  - ttrpg-cli/item/weapon/melee
-  - ttrpg-cli/item/weapon/simple
+  - Gegenstand/item/attunement/required
+  - Gegenstand/item/rarity/artifact
+  - Gegenstand/item/weapon/melee
+  - Gegenstand/item/weapon/simple
 aliases:
   - Baba Yaga's Pestle
 ---

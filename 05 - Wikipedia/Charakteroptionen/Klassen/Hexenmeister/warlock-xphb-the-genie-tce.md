@@ -3,7 +3,7 @@ cssclasses:
   - json5e-class
 tags:
   - Quelle/5e/tce
-  - ttrpg-cli/subclass/warlock/genie
+  - Klasse/subclass/warlock/genie
 aliases:
   - The Genie
 ---

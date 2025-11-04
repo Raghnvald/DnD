@@ -8,12 +8,12 @@ HG:
 status:
 image:
 tags:
-  - Größe/Mittelgroß
-  - Habitat/Hügel
-  - Habitat/Stadt
-  - Habitat/Wald
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Hügel
+  - Monster/Habitat/Stadt
+  - Monster/Habitat/Wald
   - Quelle/5e/Monster_Manual
-  - Typ/Tier
+  - Monster/Typ/Tier
 aliases:
   - Mastiff
 ---

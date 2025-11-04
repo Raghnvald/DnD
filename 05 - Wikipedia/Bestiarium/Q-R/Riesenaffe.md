@@ -9,9 +9,9 @@ status:
 image:
 tags:
   - Quelle/5e/Monster_Manual
-  - Habitat/Wald
-  - Größe/Riesig
-  - Typ/Tier
+  - Monster/Habitat/Wald
+  - Monster/Größe/Riesig
+  - Monster/Typ/Tier
 aliases:
   - Giant Ape
 ---

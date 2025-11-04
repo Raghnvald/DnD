@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-note
 tags:
-  - ttrpg-cli/spell/list/subclass/oathbreaker
+  - Zauber/list/subclass/oathbreaker
 aliases:
   - Spells for Oathbreaker
 ---

@@ -2,10 +2,10 @@
 cssclasses: json5e-monster
 Typ: Pflanze
 tags:
-  - Größe/Riesig
-  - Habitat/Wald
+  - Monster/Größe/Riesig
+  - Monster/Habitat/Wald
   - Quelle/5e/Monster_Manual
-  - Typ/Pflanze
+  - Monster/Typ/Pflanze
 aliases:
   - Treant
 ---

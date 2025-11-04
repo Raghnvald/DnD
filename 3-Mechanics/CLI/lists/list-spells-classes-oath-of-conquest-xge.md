@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-note
 tags:
-  - ttrpg-cli/spell/list/subclass/oath-of-conquest
+  - Zauber/list/subclass/oath-of-conquest
 aliases:
   - Spells for Oath of Conquest
 ---

@@ -3,9 +3,9 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/tce
-  - ttrpg-cli/item/attunement/required
-  - ttrpg-cli/item/rarity/uncommon
-  - ttrpg-cli/item/wondrous/tattoo
+  - Gegenstand/item/attunement/required
+  - Gegenstand/item/rarity/uncommon
+  - Gegenstand/item/wondrous/tattoo
 aliases:
   - Barrier Tattoo (Small)
 ---

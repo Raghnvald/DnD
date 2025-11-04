@@ -2,11 +2,11 @@
 cssclasses: json5e-monster
 tags:
   - Quelle/5e/Monster_Manual
-  - Habitat/Wald
-  - Habitat/Hügel
-  - Größe/Mittelgroß
-  - Typ/Humanoid/Mensch
-  - Typ/Humanoid/Gestaltwandler
+  - Monster/Habitat/Wald
+  - Monster/Habitat/Hügel
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/Humanoid/Mensch
+  - Monster/Typ/Humanoid/Gestaltwandler
 aliases:
   - Werewolf
 Typ: Humanoid

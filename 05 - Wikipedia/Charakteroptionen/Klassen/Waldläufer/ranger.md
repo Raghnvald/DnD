@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-class
 tags:
-- ttrpg-cli/class/ranger
+- Klasse/class/ranger
 - Quelle/5e/phb
 aliases:
 - Ranger

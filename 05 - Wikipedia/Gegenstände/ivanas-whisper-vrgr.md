@@ -3,8 +3,8 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/vrgr
-  - ttrpg-cli/item/gear/
-  - ttrpg-cli/item/rarity/unknown
+  - Gegenstand/item/gear/
+  - Gegenstand/item/rarity/unknown
 aliases:
   - Ivana's Whisper
 ---

@@ -3,10 +3,10 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/tce
-  - ttrpg-cli/item/attunement/required
-  - ttrpg-cli/item/rarity/rare
-  - ttrpg-cli/item/weapon/martial
-  - ttrpg-cli/item/weapon/melee
+  - Gegenstand/item/attunement/required
+  - Gegenstand/item/rarity/rare
+  - Gegenstand/item/weapon/martial
+  - Gegenstand/item/weapon/melee
 aliases:
   - Devotee's Censer
 ---

@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-class
 tags:
-  - ttrpg-cli/class/spellcaster-sidekick
+  - Klasse/class/spellcaster-sidekick
   - Quelle/5e/tce
 aliases:
   - Spellcaster Sidekick

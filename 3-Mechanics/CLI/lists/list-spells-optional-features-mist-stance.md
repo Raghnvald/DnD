@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/optfeature/mist-stance
+- Zauber/list/optfeature/mist-stance
 aliases:
 - Spells for Mist Stance
 ---

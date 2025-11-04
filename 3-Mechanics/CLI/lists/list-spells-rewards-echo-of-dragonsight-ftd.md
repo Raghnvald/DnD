@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/reward/echo-of-dragonsight
+- Zauber/list/reward/echo-of-dragonsight
 aliases:
 - Spells for Echo of Dragonsight
 ---

@@ -2,12 +2,12 @@
 cssclasses: json5e-monster
 tags:
   - Quelle/5e/Monster_Manual
-  - Habitat/Wüste
-  - Habitat/Wald
-  - Habitat/Grasland
-  - Größe/Mittelgroß
-  - Typ/Humanoid/Mensch
-  - Typ/Humanoid/Gestaltwandler
+  - Monster/Habitat/Wüste
+  - Monster/Habitat/Wald
+  - Monster/Habitat/Grasland
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/Humanoid/Mensch
+  - Monster/Typ/Humanoid/Gestaltwandler
 aliases:
   - Weretiger
 Typ: Humanoid

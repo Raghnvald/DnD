@@ -8,15 +8,15 @@ HG:
 status:
 image:
 tags:
-  - Größe/Klein
-  - Habitat/Arktis
-  - Habitat/Berg
-  - Habitat/Grasland
-  - Habitat/Hügel
-  - Habitat/Küste
-  - Habitat/Wald
+  - Monster/Größe/Klein
+  - Monster/Habitat/Arktis
+  - Monster/Habitat/Berg
+  - Monster/Habitat/Grasland
+  - Monster/Habitat/Hügel
+  - Monster/Habitat/Küste
+  - Monster/Habitat/Wald
   - Quelle/5e/Monster_Manual
-  - Typ/Tier
+  - Monster/Typ/Tier
 aliases:
   - Blood Hawk
 ---

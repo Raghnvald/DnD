@@ -4,8 +4,8 @@ cssclasses:
 - json5e-deity
 tags:
 - Quelle/5e/phb
-- ttrpg-cli/deity/greyhawk
-- Götter/domain/knowledge
+- Kompendium/Götter/greyhawk
+- Kompendium/Götter/domain/knowledge
 aliases: 
 - Istus
 ---

@@ -4,7 +4,7 @@ cssclasses:
 - json5e-deity
 tags:
 - Quelle/5e/vgm
-- ttrpg-cli/deity/yuan-ti
+- Kompendium/Götter/yuan-ti
 aliases: 
 - Merrshaulk
 ---

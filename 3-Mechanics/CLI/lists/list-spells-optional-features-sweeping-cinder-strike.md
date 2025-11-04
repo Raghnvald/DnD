@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/optfeature/sweeping-cinder-strike
+- Zauber/list/optfeature/sweeping-cinder-strike
 aliases:
 - Spells for Sweeping Cinder Strike
 ---

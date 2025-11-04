@@ -4,9 +4,9 @@ cssclasses:
 - json5e-deity
 tags:
 - Quelle/5e/phb
-- ttrpg-cli/deity/nonhuman
-- Götter/domain/tempest
-- Götter/domain/war
+- Kompendium/Götter/nonhuman
+- Kompendium/Götter/domain/tempest
+- Kompendium/Götter/domain/war
 aliases: 
 - Gruumsh
 ---

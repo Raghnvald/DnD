@@ -9,9 +9,9 @@ status: WIP
 image:
 tags:
   - Quelle/5e/Monster_Manual
-  - Habitat/Wüste
-  - Größe/Mittelgroß
-  - Typ/Untote
+  - Monster/Habitat/Wüste
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/Untote
 aliases:
   - Mummy
 ---

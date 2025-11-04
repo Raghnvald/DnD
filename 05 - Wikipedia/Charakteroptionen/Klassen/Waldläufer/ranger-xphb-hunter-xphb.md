@@ -3,7 +3,7 @@ cssclasses:
   - json5e-class
 tags:
   - Quelle/5e/xphb
-  - ttrpg-cli/subclass/ranger/hunter
+  - Klasse/subclass/ranger/hunter
 aliases:
   - Hunter
 ---

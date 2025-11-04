@@ -2,11 +2,11 @@
 cssclasses: json5e-monster
 tags:
   - Quelle/5e/Monster_Manual
-  - Habitat/Grasland
-  - Habitat/Hügel
-  - Habitat/Berg
-  - Größe/Groß
-  - Typ/Monstrosität
+  - Monster/Habitat/Grasland
+  - Monster/Habitat/Hügel
+  - Monster/Habitat/Berg
+  - Monster/Größe/Groß
+  - Monster/Typ/Monstrosität
 aliases:
   - Bulette
 ---

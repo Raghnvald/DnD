@@ -4,8 +4,8 @@ cssclasses:
 - json5e-deity
 tags:
 - Quelle/5e/dmg
-- ttrpg-cli/deity/dawn-war
-- Götter/domain/trickery
+- Kompendium/Götter/dawn-war
+- Kompendium/Götter/domain/trickery
 aliases: 
 - Lolth
 ---

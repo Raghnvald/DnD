@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-note
 tags:
-  - ttrpg-cli/spell/list/subclass/light-domain
+  - Zauber/list/subclass/light-domain
 aliases:
   - Spells for Light Domain
 ---

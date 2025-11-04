@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/subrace/elf-high
+- Zauber/list/subrace/elf-high
 aliases:
 - Spells for Elf (High)
 ---

@@ -4,7 +4,7 @@ cssclasses:
 - json5e-reward
 tags:
 - Quelle/5e/cos
-- ttrpg-cli/reward/charm
+- Kompendium/reward/charm
 aliases:
 - Dark Gift of Khirad, the Star of Secrets
 ---

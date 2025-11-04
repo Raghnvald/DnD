@@ -4,8 +4,8 @@ cssclasses:
 - json5e-item
 tags:
 - Quelle/5e/phb
-- ttrpg-cli/item/armor/heavy
-- ttrpg-cli/item/rarity/none
+- Gegenstand/item/armor/heavy
+- Gegenstand/item/rarity/none
 aliases: 
 - "Splint Armor"
 ---

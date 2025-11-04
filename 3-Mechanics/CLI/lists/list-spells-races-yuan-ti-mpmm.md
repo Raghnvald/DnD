@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/race/yuan-ti
+- Zauber/list/race/yuan-ti
 aliases:
 - Spells for Yuan-Ti
 ---

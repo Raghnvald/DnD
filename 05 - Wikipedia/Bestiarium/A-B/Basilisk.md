@@ -1,10 +1,10 @@
 ---
 cssclasses: json5e-monster
 tags:
-  - Größe/Mittelgroß
-  - Habitat/Berg
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Berg
   - Quelle/5e/Monster_Manual
-  - Typ/Monstrosität
+  - Monster/Typ/Monstrosität
 aliases:
   - Basilisk
 ---

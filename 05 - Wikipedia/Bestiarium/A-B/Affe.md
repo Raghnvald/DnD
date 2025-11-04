@@ -8,10 +8,10 @@ HG:
 status:
 image:
 tags:
-  - Größe/Mittelgroß
-  - Habitat/Wald
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Wald
   - Quelle/5e/Monster_Manual
-  - Typ/Tier
+  - Monster/Typ/Tier
 aliases:
   - Ape
 ---

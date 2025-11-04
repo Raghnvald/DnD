@@ -1,11 +1,11 @@
 ---
 cssclasses: json5e-monster
 tags:
-  - Größe/Mittelgroß
-  - Habitat/Stadt
-  - Habitat/Unterreich
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Stadt
+  - Monster/Habitat/Unterreich
   - Quelle/5e/Monster_Manual
-  - Typ/Monstrosität/Gestaltwandler
+  - Monster/Typ/Monstrosität/Gestaltwandler
 aliases:
   - Doppelganger
 ---

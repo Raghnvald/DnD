@@ -1,10 +1,10 @@
 ---
 cssclasses: json5e-monster
 tags:
-  - Größe/Riesig
-  - Habitat/Wald
+  - Monster/Größe/Riesig
+  - Monster/Habitat/Wald
   - Quelle/5e/Monster_Manual
-  - Typ/Pflanze
+  - Monster/Typ/Pflanze
 aliases:
   - Awakened Tree
 ---

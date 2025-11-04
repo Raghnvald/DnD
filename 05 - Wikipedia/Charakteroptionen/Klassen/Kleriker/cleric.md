@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-class
 tags:
-- ttrpg-cli/class/cleric
+- Klasse/class/cleric
 - Quelle/5e/phb
 aliases:
 - Cleric

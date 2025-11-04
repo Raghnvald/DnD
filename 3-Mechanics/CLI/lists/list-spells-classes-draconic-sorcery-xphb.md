@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-note
 tags:
-  - ttrpg-cli/spell/list/subclass/draconic-sorcery
+  - Zauber/list/subclass/draconic-sorcery
 aliases:
   - Spells for Draconic Sorcery
 ---

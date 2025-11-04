@@ -9,12 +9,12 @@ status:
 image:
 tags:
   - Quelle/5e/Monster_Manual
-  - Habitat/Wüste
-  - Habitat/Wald
-  - Habitat/Grasland
-  - Habitat/Stadt
-  - Größe/Winzig
-  - Typ/Tier
+  - Monster/Habitat/Wüste
+  - Monster/Habitat/Wald
+  - Monster/Habitat/Grasland
+  - Monster/Habitat/Stadt
+  - Monster/Größe/Winzig
+  - Monster/Typ/Tier
 aliases:
   - Cat
 ---

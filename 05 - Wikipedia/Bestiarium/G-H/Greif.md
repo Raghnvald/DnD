@@ -2,13 +2,13 @@
 cssclasses: json5e-monster
 tags:
   - Quelle/5e/Monster_Manual
-  - Habitat/Arktis
-  - Habitat/Küste
-  - Habitat/Grasland
-  - Habitat/Hügel
-  - Habitat/Berg
-  - Größe/Groß
-  - Typ/Monstrosität
+  - Monster/Habitat/Arktis
+  - Monster/Habitat/Küste
+  - Monster/Habitat/Grasland
+  - Monster/Habitat/Hügel
+  - Monster/Habitat/Berg
+  - Monster/Größe/Groß
+  - Monster/Typ/Monstrosität
 aliases:
   - Griffon
 ---

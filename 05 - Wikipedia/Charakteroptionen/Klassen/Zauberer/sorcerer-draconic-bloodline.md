@@ -4,7 +4,7 @@ cssclasses:
 - json5e-class
 tags:
 - Quelle/5e/phb
-- ttrpg-cli/subclass/sorcerer/draconic
+- Klasse/subclass/sorcerer/draconic
 aliases:
 - Draconic Bloodline
 ---

@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/optfeature/pact-of-the-tome
+- Zauber/list/optfeature/pact-of-the-tome
 aliases:
 - Spells for Pact of the Tome
 ---

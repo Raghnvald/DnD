@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/optfeature/sign-of-ill-omen
+- Zauber/list/optfeature/sign-of-ill-omen
 aliases:
 - Spells for Sign of Ill Omen
 ---

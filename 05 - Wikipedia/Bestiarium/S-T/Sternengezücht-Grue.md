@@ -9,7 +9,7 @@ status:
 image:
 tags:
   - Quelle/5e/mpmm
-  - Typ/Aberration
+  - Monster/Typ/Aberration
 aliases:
   - star spawn grue
 ---

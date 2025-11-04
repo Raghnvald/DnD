@@ -4,9 +4,9 @@ cssclasses:
 - json5e-deity
 tags:
 - Quelle/5e/phb
-- ttrpg-cli/deity/dragonlance
-- Götter/domain/peace
-- Götter/domain/war
+- Kompendium/Götter/dragonlance
+- Kompendium/Götter/domain/peace
+- Kompendium/Götter/domain/war
 aliases: 
 - Paladine
 ---

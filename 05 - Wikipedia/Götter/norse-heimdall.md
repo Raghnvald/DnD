@@ -4,9 +4,9 @@ cssclasses:
 - json5e-deity
 tags:
 - Quelle/5e/phb
-- ttrpg-cli/deity/norse
-- Götter/domain/light
-- Götter/domain/war
+- Kompendium/Götter/norse
+- Kompendium/Götter/domain/light
+- Kompendium/Götter/domain/war
 aliases: 
 - Heimdall
 ---

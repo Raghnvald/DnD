@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/optfeature/ride-the-wind
+- Zauber/list/optfeature/ride-the-wind
 aliases:
 - Spells for Ride the Wind
 ---

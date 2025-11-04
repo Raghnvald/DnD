@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/feat/telekinetic
+- Zauber/list/feat/telekinetic
 aliases:
 - Spells for Telekinetic
 ---

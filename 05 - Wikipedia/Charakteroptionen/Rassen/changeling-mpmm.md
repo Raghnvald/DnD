@@ -3,7 +3,7 @@ cssclasses:
   - json5e-race
 tags:
   - Quelle/5e/mpmm
-  - ttrpg-cli/race/changeling
+  - Rasse/changeling
 aliases:
   - Changeling
 ---

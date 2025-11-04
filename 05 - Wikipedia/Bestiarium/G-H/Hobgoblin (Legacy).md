@@ -2,13 +2,13 @@
 cssclasses: json5e-monster
 tags:
   - Quelle/5e/Monster_Manual
-  - Habitat/Grasland
-  - Habitat/Hügel
-  - Habitat/Unterreich
-  - Habitat/Wald
-  - Habitat/Wüste
-  - Größe/Mittelgroß
-  - Typ/Humanoid/Goblinoid
+  - Monster/Habitat/Grasland
+  - Monster/Habitat/Hügel
+  - Monster/Habitat/Unterreich
+  - Monster/Habitat/Wald
+  - Monster/Habitat/Wüste
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/Humanoid/Goblinoid
 aliases:
   - Hobgoblin
 Typ: Humanoid

@@ -4,7 +4,7 @@ cssclasses:
 - json5e-class
 tags:
 - Quelle/5e/phb
-- ttrpg-cli/subclass/monk/four-elements
+- Klasse/subclass/monk/four-elements
 aliases:
 - Way of the Four Elements
 ---

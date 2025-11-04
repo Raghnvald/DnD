@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/subrace/gnome-forest
+- Zauber/list/subrace/gnome-forest
 aliases:
 - Spells for Gnome (Forest)
 ---

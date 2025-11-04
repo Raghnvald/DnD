@@ -3,9 +3,9 @@ cssclasses:
   - json5e-deity
 tags:
   - Quelle/5e/scag
-  - ttrpg-cli/deity/faerunian
-  - Götter/domain/death
-  - Götter/domain/grave
+  - Kompendium/Götter/faerunian
+  - Kompendium/Götter/domain/death
+  - Kompendium/Götter/domain/grave
 aliases:
   - Kelemvor
   - The Lord of the Dead

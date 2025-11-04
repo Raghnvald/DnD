@@ -3,9 +3,9 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/ftd
-  - ttrpg-cli/item/attunement/required
-  - ttrpg-cli/item/rarity/legendary
-  - ttrpg-cli/item/weapon/ranged
+  - Gegenstand/item/attunement/required
+  - Gegenstand/item/rarity/legendary
+  - Gegenstand/item/weapon/ranged
 aliases:
   - Topaz Annihilator
 ---

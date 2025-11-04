@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/subclass/psi-warrior
+- Zauber/list/subclass/psi-warrior
 aliases:
 - Spells for Psi Warrior
 ---

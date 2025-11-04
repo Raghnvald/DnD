@@ -3,7 +3,7 @@ cssclasses:
   - json5e-class
 tags:
   - Quelle/5e/vrgr
-  - ttrpg-cli/subclass/warlock/undead
+  - Klasse/subclass/warlock/undead
 aliases:
   - The Undead
 ---

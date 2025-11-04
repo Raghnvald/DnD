@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-note
 tags:
-  - ttrpg-cli/spell/list/class/cleric
+  - Zauber/list/class/cleric
 aliases:
   - Cleric Spells
 ---

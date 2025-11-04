@@ -4,8 +4,8 @@ cssclasses:
 - json5e-deity
 tags:
 - Quelle/5e/phb
-- ttrpg-cli/deity/greek
-- Götter/domain/life
+- Kompendium/Götter/greek
+- Kompendium/Götter/domain/life
 aliases: 
 - Hestia
 ---

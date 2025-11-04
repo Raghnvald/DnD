@@ -3,15 +3,15 @@ cssclasses:
   - json5e-monster
 tags:
   - Quelle/5e/Monster_Manual
-  - Habitat/Arktis
-  - Habitat/Grasland
-  - Habitat/Hügel
-  - Habitat/Küste
-  - Habitat/Stadt
-  - Habitat/Wald
-  - Habitat/Wüste
-  - Größe/Mittelgroß
-  - Typ/Humanoid/jede-rasse
+  - Monster/Habitat/Arktis
+  - Monster/Habitat/Grasland
+  - Monster/Habitat/Hügel
+  - Monster/Habitat/Küste
+  - Monster/Habitat/Stadt
+  - Monster/Habitat/Wald
+  - Monster/Habitat/Wüste
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/Humanoid/jede-rasse
 aliases:
   - Commoner
 Typ: Humanoid

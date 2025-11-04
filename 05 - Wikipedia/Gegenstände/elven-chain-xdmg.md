@@ -3,10 +3,10 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/xdmg
-  - ttrpg-cli/item/armor/heavy
-  - ttrpg-cli/item/armor/medium
-  - ttrpg-cli/item/rarity/rare
-  - ttrpg-cli/item/wondrous/generic-variant
+  - Gegenstand/item/armor/heavy
+  - Gegenstand/item/armor/medium
+  - Gegenstand/item/rarity/rare
+  - Gegenstand/item/wondrous/generic-variant
 aliases:
   - Elven Chain
   - Elven Chain Mail

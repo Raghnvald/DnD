@@ -4,9 +4,9 @@ cssclasses:
 - json5e-deity
 tags:
 - Quelle/5e/phb
-- ttrpg-cli/deity/nonhuman
-- Götter/domain/order
-- Götter/domain/war
+- Kompendium/Götter/nonhuman
+- Kompendium/Götter/domain/order
+- Kompendium/Götter/domain/war
 aliases: 
 - Maglubiyet
 ---

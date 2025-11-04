@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/race/aasimar
+- Zauber/list/race/aasimar
 aliases:
 - Spells for Aasimar
 ---

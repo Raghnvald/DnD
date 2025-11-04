@@ -1,10 +1,10 @@
 ---
 tags:
 - Quelle/5e/Players_Handbook
-- Götter
-- Götter/Gesinnung/Chaotisch_Gut
-- Götter/Pantheon/Faerun
-- Götter/Domäne/List
+- Kompendium/Götter
+- Kompendium/Götter/Gesinnung/Chaotisch_Gut
+- Kompendium/Götter/Pantheon/Faerun
+- Kompendium/Götter/Domäne/List
 aliases:
 - Tymora
 ---

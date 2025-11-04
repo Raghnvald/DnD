@@ -4,7 +4,7 @@ cssclasses:
 - json5e-class
 tags:
 - Quelle/5e/phb
-- ttrpg-cli/subclass/barbarian/totem-warrior
+- Klasse/subclass/barbarian/totem-warrior
 aliases:
 - Path of the Totem Warrior
 ---

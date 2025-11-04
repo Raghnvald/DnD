@@ -1,10 +1,10 @@
 ---
 cssclasses: json5e-monster
 tags:
-  - Größe/Mittelgroß
-  - Habitat/Unterreich
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Unterreich
   - Quelle/5e/Monster_Manual
-  - Typ/Aberration
+  - Monster/Typ/Aberration
 aliases:
   - Gibbering Mouther
 ---

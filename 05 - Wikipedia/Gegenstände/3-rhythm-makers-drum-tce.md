@@ -3,9 +3,9 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/tce
-  - ttrpg-cli/item/attunement/required
-  - ttrpg-cli/item/gear/instrument
-  - ttrpg-cli/item/rarity/very-rare
+  - Gegenstand/item/attunement/required
+  - Gegenstand/item/gear/instrument
+  - Gegenstand/item/rarity/very-rare
 aliases:
   - +3 Rhythm-Maker's Drum
 ---

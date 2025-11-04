@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/optfeature/far-scribe
+- Zauber/list/optfeature/far-scribe
 aliases:
 - Spells for Far Scribe
 ---

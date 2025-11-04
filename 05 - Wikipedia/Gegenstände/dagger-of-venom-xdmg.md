@@ -3,9 +3,9 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/xdmg
-  - ttrpg-cli/item/rarity/rare
-  - ttrpg-cli/item/weapon/melee
-  - ttrpg-cli/item/weapon/simple
+  - Gegenstand/item/rarity/rare
+  - Gegenstand/item/weapon/melee
+  - Gegenstand/item/weapon/simple
 aliases:
   - Dagger of Venom
 ---

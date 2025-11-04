@@ -3,10 +3,10 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/xdmg
-  - ttrpg-cli/item/attunement/required
-  - ttrpg-cli/item/rarity/artifact
-  - ttrpg-cli/item/weapon/martial
-  - ttrpg-cli/item/weapon/melee
+  - Gegenstand/item/attunement/required
+  - Gegenstand/item/rarity/artifact
+  - Gegenstand/item/weapon/martial
+  - Gegenstand/item/weapon/melee
 aliases:
   - Whelm
 ---

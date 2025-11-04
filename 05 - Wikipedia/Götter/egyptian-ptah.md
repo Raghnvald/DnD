@@ -4,8 +4,8 @@ cssclasses:
 - json5e-deity
 tags:
 - Quelle/5e/phb
-- ttrpg-cli/deity/egyptian
-- Götter/domain/knowledge
+- Kompendium/Götter/egyptian
+- Kompendium/Götter/domain/knowledge
 aliases: 
 - Ptah
 ---

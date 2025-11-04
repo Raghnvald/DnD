@@ -9,6 +9,6 @@ status:
 image:
 tags:
   - Quelle/5e/Monster_Manual
-  - Typ/Tier
+  - Monster/Typ/Tier
 aliases: []
 ---

@@ -9,11 +9,11 @@ status:
 image:
 tags:
   - Quelle/5e/Monster_Manual
-  - Habitat/Hügel
-  - Habitat/Sumpf
-  - Habitat/Stadt
-  - Größe/Winzig
-  - Typ/Tier
+  - Monster/Habitat/Hügel
+  - Monster/Habitat/Sumpf
+  - Monster/Habitat/Stadt
+  - Monster/Größe/Winzig
+  - Monster/Typ/Tier
 aliases:
   - Raven
 ---

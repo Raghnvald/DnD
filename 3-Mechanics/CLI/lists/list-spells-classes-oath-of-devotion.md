@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/subclass/oath-of-devotion
+- Zauber/list/subclass/oath-of-devotion
 aliases:
 - Spells for Oath of Devotion
 ---

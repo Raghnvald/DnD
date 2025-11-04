@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-class
 tags:
-- ttrpg-cli/class/wizard
+- Klasse/class/wizard
 - Quelle/5e/phb
 aliases:
 - Wizard

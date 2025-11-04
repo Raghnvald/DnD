@@ -4,8 +4,8 @@ cssclasses:
 - json5e-item
 tags:
 - Quelle/5e/phb
-- ttrpg-cli/item/gear/tool
-- ttrpg-cli/item/rarity/none
+- Gegenstand/item/gear/tool
+- Gegenstand/item/rarity/none
 aliases: 
 - "Herbalism Kit"
 ---

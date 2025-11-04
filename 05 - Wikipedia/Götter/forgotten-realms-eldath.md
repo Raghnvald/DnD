@@ -4,10 +4,10 @@ cssclasses:
 - json5e-deity
 tags:
 - Quelle/5e/phb
-- ttrpg-cli/deity/forgotten-realms
-- Götter/domain/life
-- Götter/domain/nature
-- Götter/domain/peace
+- Kompendium/Götter/forgotten-realms
+- Kompendium/Götter/domain/life
+- Kompendium/Götter/domain/nature
+- Kompendium/Götter/domain/peace
 aliases: 
 - Eldath
 ---

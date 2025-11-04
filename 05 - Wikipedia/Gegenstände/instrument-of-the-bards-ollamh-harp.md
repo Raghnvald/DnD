@@ -4,10 +4,10 @@ cssclasses:
 - json5e-item
 tags:
 - Quelle/5e/dmg
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/gear/instrument
-- ttrpg-cli/item/rarity/legendary
-- ttrpg-cli/item/tier/major
+- Gegenstand/item/attunement/required
+- Gegenstand/item/gear/instrument
+- Gegenstand/item/rarity/legendary
+- Gegenstand/item/tier/major
 aliases: 
 - "Instrument of the Bards, Ollamh Harp"
 ---

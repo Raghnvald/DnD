@@ -4,9 +4,9 @@ cssclasses:
 - json5e-deity
 tags:
 - Quelle/5e/phb
-- ttrpg-cli/deity/forgotten-realms
-- Götter/domain/order
-- Götter/domain/war
+- Kompendium/Götter/forgotten-realms
+- Kompendium/Götter/domain/order
+- Kompendium/Götter/domain/war
 aliases: 
 - Bane
 ---

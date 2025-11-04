@@ -5,10 +5,10 @@ prefer-view:
   - edit-source read
 status:
 tags:
-  - Größe/Groß
-  - Habitat/Planar/Abyss
+  - Monster/Größe/Groß
+  - Monster/Habitat/Planar/Abyss
   - Quelle/5e/Monster_Manual
-  - Typ/Unhold/Dämon
+  - Monster/Typ/Unhold/Dämon
 aliases:
   - Barlgura
 link:

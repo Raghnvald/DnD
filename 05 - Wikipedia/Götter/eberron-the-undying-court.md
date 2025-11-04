@@ -4,10 +4,10 @@ cssclasses:
 - json5e-deity
 tags:
 - Quelle/5e/phb
-- ttrpg-cli/deity/eberron
-- Götter/domain/grave
-- Götter/domain/knowledge
-- Götter/domain/life
+- Kompendium/Götter/eberron
+- Kompendium/Götter/domain/grave
+- Kompendium/Götter/domain/knowledge
+- Kompendium/Götter/domain/life
 aliases: 
 - The Undying Court
 ---

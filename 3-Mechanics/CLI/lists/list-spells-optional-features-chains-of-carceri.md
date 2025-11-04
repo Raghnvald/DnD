@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/optfeature/chains-of-carceri
+- Zauber/list/optfeature/chains-of-carceri
 aliases:
 - Spells for Chains of Carceri
 ---

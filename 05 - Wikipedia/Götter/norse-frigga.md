@@ -4,9 +4,9 @@ cssclasses:
 - json5e-deity
 tags:
 - Quelle/5e/phb
-- ttrpg-cli/deity/norse
-- Götter/domain/life
-- Götter/domain/light
+- Kompendium/Götter/norse
+- Kompendium/Götter/domain/life
+- Kompendium/Götter/domain/light
 aliases: 
 - Frigga
 ---

@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-class
 tags:
-  - ttrpg-cli/class/artificer
+  - Klasse/class/artificer
   - Quelle/5e/tce
 aliases:
   - Artificer

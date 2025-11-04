@@ -3,7 +3,7 @@ cssclasses:
   - json5e-class
 tags:
   - Quelle/5e/xphb
-  - ttrpg-cli/subclass/ranger/fey-wanderer
+  - Klasse/subclass/ranger/fey-wanderer
 aliases:
   - Fey Wanderer
 ---

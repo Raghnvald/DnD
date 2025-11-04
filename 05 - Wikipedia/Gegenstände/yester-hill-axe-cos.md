@@ -3,9 +3,9 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/cos
-  - ttrpg-cli/item/rarity/unknown/magic
-  - ttrpg-cli/item/weapon/martial
-  - ttrpg-cli/item/weapon/melee
+  - Gegenstand/item/rarity/unknown/magic
+  - Gegenstand/item/weapon/martial
+  - Gegenstand/item/weapon/melee
 aliases:
   - Yester Hill Axe
 ---

@@ -4,7 +4,7 @@ cssclasses:
 - json5e-class
 tags:
 - Quelle/5e/phb
-- ttrpg-cli/subclass/bard/lore
+- Klasse/subclass/bard/lore
 aliases:
 - College of Lore
 ---

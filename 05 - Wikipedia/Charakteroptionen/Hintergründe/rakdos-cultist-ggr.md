@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-background
 tags:
-- ttrpg-cli/background
+- Kompendium/background
 - Quelle/5e/ggr
 aliases:
 - Rakdos Cultist

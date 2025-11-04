@@ -3,7 +3,7 @@ cssclasses:
   - json5e-hazard
 tags:
   - Quelle/5e/xdmg
-  - ttrpg-cli/hazard/env
+  - Kompendium/hazard/env
 aliases:
   - Extreme Heat
 ---

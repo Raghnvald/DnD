@@ -4,8 +4,8 @@ cssclasses:
 - json5e-class
 tags:
 - Quelle/5e/phb
-- Götter/domain/life
-- ttrpg-cli/subclass/cleric/life
+- Kompendium/Götter/domain/life
+- Klasse/subclass/cleric/life
 aliases:
 - Life Domain
 ---

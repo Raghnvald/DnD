@@ -3,8 +3,8 @@ cssclasses:
   - json5e-class
 tags:
   - Quelle/5e/xge
-  - Götter/domain/forge
-  - ttrpg-cli/subclass/cleric/forge
+  - Kompendium/Götter/domain/forge
+  - Klasse/subclass/cleric/forge
 aliases:
   - Forge Domain
 ---

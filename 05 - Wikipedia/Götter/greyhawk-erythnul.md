@@ -4,8 +4,8 @@ cssclasses:
 - json5e-deity
 tags:
 - Quelle/5e/phb
-- ttrpg-cli/deity/greyhawk
-- Götter/domain/war
+- Kompendium/Götter/greyhawk
+- Kompendium/Götter/domain/war
 aliases: 
 - Erythnul
 ---

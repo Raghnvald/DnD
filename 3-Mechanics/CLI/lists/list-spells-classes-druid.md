@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-note
 tags:
-  - ttrpg-cli/spell/list/class/druid
+  - Zauber/list/class/druid
 aliases:
   - Druid Spells
 ---

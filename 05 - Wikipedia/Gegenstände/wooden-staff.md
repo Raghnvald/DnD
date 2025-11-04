@@ -4,9 +4,9 @@ cssclasses:
 - json5e-item
 tags:
 - Quelle/5e/phb
-- ttrpg-cli/item/gear/spellcasting-focus
-- ttrpg-cli/item/rarity/none
-- ttrpg-cli/item/weapon/simple
+- Gegenstand/item/gear/spellcasting-focus
+- Gegenstand/item/rarity/none
+- Gegenstand/item/weapon/simple
 aliases: 
 - "Wooden Staff"
 ---

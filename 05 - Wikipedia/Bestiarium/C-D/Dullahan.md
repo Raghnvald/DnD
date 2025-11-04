@@ -9,7 +9,7 @@ status: WIP
 image:
 tags:
   - Quelle/5e/vrgr
-  - Typ/Untote
+  - Monster/Typ/Untote
 aliases:
   - Dullahan
 ---

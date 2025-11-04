@@ -9,8 +9,8 @@ status: WIP
 image:
 tags:
   - Quelle/5e/Monster_Manual
-  - Größe/Groß
-  - Typ/Untote
+  - Monster/Größe/Groß
+  - Monster/Typ/Untote
 aliases:
   - Warhorse Skeleton
 ---

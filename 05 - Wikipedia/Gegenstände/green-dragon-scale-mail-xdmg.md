@@ -3,9 +3,9 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/xdmg
-  - ttrpg-cli/item/armor/medium
-  - ttrpg-cli/item/attunement/required
-  - ttrpg-cli/item/rarity/very-rare
+  - Gegenstand/item/armor/medium
+  - Gegenstand/item/attunement/required
+  - Gegenstand/item/rarity/very-rare
 aliases:
   - Green Dragon Scale Mail
 ---

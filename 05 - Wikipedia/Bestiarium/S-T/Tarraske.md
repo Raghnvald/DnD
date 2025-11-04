@@ -2,9 +2,9 @@
 cssclasses: json5e-monster
 tags:
   - Quelle/5e/Monster_Manual
-  - Habitat/Stadt
-  - Größe/Gigantisch
-  - Typ/Monstrosität/Titan
+  - Monster/Habitat/Stadt
+  - Monster/Größe/Gigantisch
+  - Monster/Typ/Monstrosität/Titan
 aliases:
   - Tarrasque
 ---

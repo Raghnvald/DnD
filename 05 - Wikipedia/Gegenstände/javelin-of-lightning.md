@@ -4,10 +4,10 @@ cssclasses:
 - json5e-item
 tags:
 - Quelle/5e/dmg
-- ttrpg-cli/item/rarity/uncommon
-- ttrpg-cli/item/tier/major
-- ttrpg-cli/item/weapon/melee
-- ttrpg-cli/item/weapon/simple
+- Gegenstand/item/rarity/uncommon
+- Gegenstand/item/tier/major
+- Gegenstand/item/weapon/melee
+- Gegenstand/item/weapon/simple
 aliases: 
 - "Javelin of Lightning"
 ---

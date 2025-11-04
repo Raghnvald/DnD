@@ -3,8 +3,8 @@ cssclasses:
   - json5e-class
 tags:
   - Quelle/5e/phb
-  - Götter/domain/tempest
-  - ttrpg-cli/subclass/cleric/tempest
+  - Kompendium/Götter/domain/tempest
+  - Klasse/subclass/cleric/tempest
 aliases:
   - Tempest Domain
 ---

@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-note
 tags:
-  - ttrpg-cli/spell/list/feat/artificer-initiate
+  - Zauber/list/feat/artificer-initiate
 aliases:
   - Spells for Artificer Initiate
 ---

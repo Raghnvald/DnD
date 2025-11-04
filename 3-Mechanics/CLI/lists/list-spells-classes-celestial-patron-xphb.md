@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-note
 tags:
-  - ttrpg-cli/spell/list/subclass/celestial-patron
+  - Zauber/list/subclass/celestial-patron
 aliases:
   - Spells for Celestial Patron
 ---

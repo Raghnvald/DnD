@@ -2,10 +2,10 @@
 cssclasses: json5e-deity
 tags:
   - Quelle/5e/Players_Handbook
-  - Götter
-  - Götter/Gesinnung/Neutral
-  - Götter/Pantheon/Faerun
-  - Götter/Domäne/Krieg
+  - Kompendium/Götter
+  - Kompendium/Götter/Gesinnung/Neutral
+  - Kompendium/Götter/Pantheon/Faerun
+  - Kompendium/Götter/Domäne/Krieg
 aliases:
   - Tempus
 ---

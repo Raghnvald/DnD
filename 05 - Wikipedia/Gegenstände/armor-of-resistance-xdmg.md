@@ -3,9 +3,9 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/xdmg
-  - ttrpg-cli/item/attunement/required
-  - ttrpg-cli/item/rarity/rare
-  - ttrpg-cli/item/wondrous/generic-variant
+  - Gegenstand/item/attunement/required
+  - Gegenstand/item/rarity/rare
+  - Gegenstand/item/wondrous/generic-variant
 aliases:
   - Armor of Resistance
 ---

@@ -9,10 +9,10 @@ status:
 image:
 tags:
   - Quelle/5e/Monster_Manual
-  - Habitat/Wald
-  - Habitat/Hügel
-  - Größe/Klein
-  - Typ/Tier
+  - Monster/Habitat/Wald
+  - Monster/Habitat/Hügel
+  - Monster/Größe/Klein
+  - Monster/Typ/Tier
 aliases:
   - Baboon
 ---

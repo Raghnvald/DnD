@@ -4,8 +4,8 @@ cssclasses:
 - json5e-item
 tags:
 - Quelle/5e/dmg
-- ttrpg-cli/item/rarity/very-rare
-- ttrpg-cli/item/tier/major
+- Gegenstand/item/rarity/very-rare
+- Gegenstand/item/tier/major
 aliases: 
 - "Manual of Stone Golems"
 ---

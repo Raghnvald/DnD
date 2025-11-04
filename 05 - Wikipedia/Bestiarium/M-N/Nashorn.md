@@ -9,9 +9,9 @@ status:
 image:
 tags:
   - Quelle/5e/Monster_Manual
-  - Habitat/Grasland
-  - Größe/Groß
-  - Typ/Tier
+  - Monster/Habitat/Grasland
+  - Monster/Größe/Groß
+  - Monster/Typ/Tier
 aliases:
   - Rhinoceros
 ---

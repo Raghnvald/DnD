@@ -9,14 +9,14 @@ status:
 image:
 tags:
   - Quelle/5e/Monster_Manual
-  - Typ/Riese
-  - Größe/Groß
-  - Habitat/Arktis
-  - Habitat/Berg
-  - Habitat/Hügel
-  - Habitat/Sumpf
-  - Habitat/Unterreich
-  - Habitat/Wald
+  - Monster/Typ/Riese
+  - Monster/Größe/Groß
+  - Monster/Habitat/Arktis
+  - Monster/Habitat/Berg
+  - Monster/Habitat/Hügel
+  - Monster/Habitat/Sumpf
+  - Monster/Habitat/Unterreich
+  - Monster/Habitat/Wald
 aliases:
   - Troll Limb
 ---

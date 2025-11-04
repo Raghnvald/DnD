@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/optfeature/ascendant-step
+- Zauber/list/optfeature/ascendant-step
 aliases:
 - Spells for Ascendant Step
 ---

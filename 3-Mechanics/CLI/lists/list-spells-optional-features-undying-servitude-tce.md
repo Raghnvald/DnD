@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/optfeature/undying-servitude
+- Zauber/list/optfeature/undying-servitude
 aliases:
 - Spells for Undying Servitude
 ---

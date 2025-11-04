@@ -4,9 +4,9 @@ cssclasses:
 - json5e-item
 tags:
 - Quelle/5e/xdmg
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/varies
-- ttrpg-cli/item/wondrous/rod
+- Gegenstand/item/attunement/required
+- Gegenstand/item/rarity/varies
+- Gegenstand/item/wondrous/rod
 aliases: 
 - "Rod of the Pact Keeper"
 ---

@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-note
 tags:
-  - ttrpg-cli/spell/list/subclass/nature-domain
+  - Zauber/list/subclass/nature-domain
 aliases:
   - Spells for Nature Domain
 ---

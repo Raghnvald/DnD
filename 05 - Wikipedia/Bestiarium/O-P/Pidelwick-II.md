@@ -3,9 +3,9 @@ cssclasses:
   - json5e-monster
 tags:
   - Quelle/5e/cos
-  - Habitat/Stadt
-  - Größe/Klein
-  - Typ/Konstrukt
+  - Monster/Habitat/Stadt
+  - Monster/Größe/Klein
+  - Monster/Typ/Konstrukt
 aliases:
   - Pidelwick II.
 ---

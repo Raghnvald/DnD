@@ -2,11 +2,11 @@
 cssclasses: json5e-monster
 tags:
   - Quelle/5e/Monster_Manual
-  - Habitat/Wald
-  - Habitat/Unterreich
-  - Größe/Mittelgroß
-  - Typ/Monstrosität
-  - Typ/Aberration
+  - Monster/Habitat/Wald
+  - Monster/Habitat/Unterreich
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/Monstrosität
+  - Monster/Typ/Aberration
 aliases:
   - Grick
 ---

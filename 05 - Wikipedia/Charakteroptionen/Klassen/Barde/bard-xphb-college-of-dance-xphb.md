@@ -3,7 +3,7 @@ cssclasses:
   - json5e-class
 tags:
   - Quelle/5e/xphb
-  - ttrpg-cli/subclass/bard/dance
+  - Klasse/subclass/bard/dance
 aliases:
   - College of Dance
 ---

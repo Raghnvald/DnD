@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-note
 tags:
-  - ttrpg-cli/spell/list/subclass/order-domain
+  - Zauber/list/subclass/order-domain
 aliases:
   - Spells for Order Domain
 ---

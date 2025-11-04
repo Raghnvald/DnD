@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/subclass/way-of-the-open-hand
+- Zauber/list/subclass/way-of-the-open-hand
 aliases:
 - Spells for Way of the Open Hand
 ---

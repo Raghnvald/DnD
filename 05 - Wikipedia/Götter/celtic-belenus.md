@@ -4,8 +4,8 @@ cssclasses:
 - json5e-deity
 tags:
 - Quelle/5e/phb
-- ttrpg-cli/deity/celtic
-- Götter/domain/light
+- Kompendium/Götter/celtic
+- Kompendium/Götter/domain/light
 aliases: 
 - Belenus
 ---

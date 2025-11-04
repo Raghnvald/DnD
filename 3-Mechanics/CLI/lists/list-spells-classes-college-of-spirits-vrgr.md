@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/subclass/college-of-spirits
+- Zauber/list/subclass/college-of-spirits
 aliases:
 - Spells for College of Spirits
 ---

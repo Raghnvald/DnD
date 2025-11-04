@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-note
 tags:
-  - ttrpg-cli/spell/list/subclass/the-genie
+  - Zauber/list/subclass/the-genie
 aliases:
   - Spells for The Genie
 ---

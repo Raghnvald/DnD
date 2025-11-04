@@ -3,9 +3,9 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/xphb
-  - ttrpg-cli/item/rarity/none
-  - ttrpg-cli/item/weapon/melee
-  - ttrpg-cli/item/weapon/simple
+  - Gegenstand/item/rarity/none
+  - Gegenstand/item/weapon/melee
+  - Gegenstand/item/weapon/simple
 aliases:
   - Spear
 ---

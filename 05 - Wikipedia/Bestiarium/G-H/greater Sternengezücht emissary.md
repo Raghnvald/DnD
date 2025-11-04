@@ -9,6 +9,6 @@ status:
 image:
 tags:
   - Quelle/5e/vrgr
-  - Typ/Aberration
+  - Monster/Typ/Aberration
 aliases:
 ---

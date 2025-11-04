@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-class
 tags:
-- ttrpg-cli/class/fighter
+- Klasse/class/fighter
 - Quelle/5e/phb
 aliases:
 - Fighter

@@ -2,9 +2,9 @@
 cssclasses: json5e-monster
 tags:
   - Quelle/5e/Monster_Manual
-  - Habitat/Wald
-  - Größe/Mittelgroß
-  - Typ/Pflanze
+  - Monster/Habitat/Wald
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/Pflanze
 aliases:
   - Needle Blight
 ---

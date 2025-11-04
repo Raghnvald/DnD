@@ -2,10 +2,10 @@
 cssclasses: json5e-monster
 Typ: Humanoid
 tags:
-  - Größe/Mittelgroß
-  - Habitat/Unterreich
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Unterreich
   - Quelle/5e/Monster_Manual
-  - Typ/Humanoid/Zwerg
+  - Monster/Typ/Humanoid/Zwerg
 aliases:
   - Duergar
 ---

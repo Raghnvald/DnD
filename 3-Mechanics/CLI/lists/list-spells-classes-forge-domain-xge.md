@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-note
 tags:
-  - ttrpg-cli/spell/list/subclass/forge-domain
+  - Zauber/list/subclass/forge-domain
 aliases:
   - Spells for Forge Domain
 ---

@@ -3,9 +3,9 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/xge
-  - ttrpg-cli/item/rarity/common
-  - ttrpg-cli/item/tier/minor
-  - ttrpg-cli/item/wondrous/wand
+  - Gegenstand/item/rarity/common
+  - Gegenstand/item/tier/minor
+  - Gegenstand/item/wondrous/wand
 aliases:
   - Wand of Scowls
 ---

@@ -4,10 +4,10 @@ cssclasses:
 - json5e-item
 tags:
 - Quelle/5e/vgm
-- ttrpg-cli/item/armor/heavy
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/uncommon
-- ttrpg-cli/item/wondrous/generic-variant
+- Gegenstand/item/armor/heavy
+- Gegenstand/item/attunement/required
+- Gegenstand/item/rarity/uncommon
+- Gegenstand/item/wondrous/generic-variant
 aliases: 
 - "Mind Carapace Armor"
 - "Mind Carapace Chain Mail"

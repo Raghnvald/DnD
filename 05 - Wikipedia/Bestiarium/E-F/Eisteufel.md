@@ -1,9 +1,9 @@
 ---
 cssclasses: json5e-monster
 tags:
-  - Größe/Groß
+  - Monster/Größe/Groß
   - Quelle/5e/Monster_Manual
-  - Typ/Unhold/Teufel
+  - Monster/Typ/Unhold/Teufel
 aliases:
   - Ice Devil
 Typ: Unhold

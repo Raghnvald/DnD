@@ -4,8 +4,8 @@ cssclasses:
 - json5e-class
 tags:
 - Quelle/5e/phb
-- Götter/domain/light
-- ttrpg-cli/subclass/cleric/light
+- Kompendium/Götter/domain/light
+- Klasse/subclass/cleric/light
 aliases:
 - Light Domain
 ---

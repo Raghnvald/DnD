@@ -4,8 +4,8 @@ cssclasses:
 - json5e-item
 tags:
 - Quelle/5e/ftd
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/very-rare
+- Gegenstand/item/attunement/required
+- Gegenstand/item/rarity/very-rare
 aliases: 
 - "+3 Dragonhide Belt"
 ---

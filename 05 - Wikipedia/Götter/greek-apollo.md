@@ -4,10 +4,10 @@ cssclasses:
 - json5e-deity
 tags:
 - Quelle/5e/phb
-- ttrpg-cli/deity/greek
-- Götter/domain/knowledge
-- Götter/domain/life
-- Götter/domain/light
+- Kompendium/Götter/greek
+- Kompendium/Götter/domain/knowledge
+- Kompendium/Götter/domain/life
+- Kompendium/Götter/domain/light
 aliases: 
 - Apollo
 ---

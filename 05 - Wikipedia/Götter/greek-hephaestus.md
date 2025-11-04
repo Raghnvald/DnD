@@ -4,9 +4,9 @@ cssclasses:
 - json5e-deity
 tags:
 - Quelle/5e/phb
-- ttrpg-cli/deity/greek
-- Götter/domain/forge
-- Götter/domain/knowledge
+- Kompendium/Götter/greek
+- Kompendium/Götter/domain/forge
+- Kompendium/Götter/domain/knowledge
 aliases: 
 - Hephaestus
 ---

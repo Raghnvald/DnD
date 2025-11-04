@@ -2,9 +2,9 @@
 cssclasses: json5e-monster
 tags:
   - Quelle/5e/Monster_Manual
-  - Habitat/Arktis
-  - Größe/Groß
-  - Typ/Drache
+  - Monster/Habitat/Arktis
+  - Monster/Größe/Groß
+  - Monster/Typ/Drache
 aliases:
   - Young White Dragon
 ---

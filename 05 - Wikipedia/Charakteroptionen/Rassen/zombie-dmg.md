@@ -3,7 +3,7 @@ cssclasses:
   - json5e-race
 tags:
   - Quelle/5e/dmg
-  - ttrpg-cli/race/zombie
+  - Rasse/zombie
 aliases:
   - Zombie
 ---

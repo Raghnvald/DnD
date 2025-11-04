@@ -3,9 +3,9 @@ cssclasses:
   - json5e-vehicle
 tags:
   - Quelle/5e/bgdia
-  - ttrpg-cli/vehicle/size/large
-  - ttrpg-cli/vehicle/terrain/land
-  - ttrpg-cli/vehicle/type/infernal-war-machine
+  - Kompendium/vehicle/size/large
+  - Kompendium/vehicle/terrain/land
+  - Kompendium/vehicle/type/infernal-war-machine
 aliases:
   - Devil's Ride
 ---

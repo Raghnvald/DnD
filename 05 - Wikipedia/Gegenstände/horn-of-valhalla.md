@@ -4,7 +4,7 @@ cssclasses:
 - json5e-item
 tags:
 - Quelle/5e/dmg
-- ttrpg-cli/item/rarity/varies
+- Gegenstand/item/rarity/varies
 aliases: 
 - "Horn of Valhalla"
 ---

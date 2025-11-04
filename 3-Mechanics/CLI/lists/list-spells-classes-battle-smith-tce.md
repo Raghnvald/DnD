@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-note
 tags:
-  - ttrpg-cli/spell/list/subclass/battle-smith
+  - Zauber/list/subclass/battle-smith
 aliases:
   - Spells for Battle Smith
 ---

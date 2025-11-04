@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-class
 tags:
-  - ttrpg-cli/class/warlock
+  - Klasse/class/warlock
   - Quelle/5e/xphb
 aliases:
   - Warlock

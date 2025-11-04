@@ -3,7 +3,7 @@ cssclasses:
   - json5e-hazard
 tags:
   - Quelle/5e/tce
-  - ttrpg-cli/hazard/est
+  - Kompendium/hazard/est
 aliases:
   - Flame Storm
 ---

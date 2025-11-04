@@ -3,9 +3,9 @@ cssclasses:
   - json5e-vehicle
 tags:
   - Quelle/5e/xdmg
-  - ttrpg-cli/vehicle/size/large
-  - ttrpg-cli/vehicle/terrain/sea
-  - ttrpg-cli/vehicle/type/object
+  - Kompendium/vehicle/size/large
+  - Kompendium/vehicle/terrain/sea
+  - Kompendium/vehicle/type/object
 aliases:
   - Apparatus of Kwalish
 ---

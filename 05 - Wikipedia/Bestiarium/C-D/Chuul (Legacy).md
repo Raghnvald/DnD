@@ -8,10 +8,10 @@ HG: 4
 status:
 image:
 tags:
-  - Größe/Groß
-  - Habitat/Unterreich
+  - Monster/Größe/Groß
+  - Monster/Habitat/Unterreich
   - Quelle/5e/Monster_Manual
-  - Typ/Aberration
+  - Monster/Typ/Aberration
 aliases:
   - Chuul
 ---
@@ -101,7 +101,7 @@ actions:
 
 Survivors of the ancient aboleth empire, chuuls are crustaceans the [aboleths](https://www.dndbeyond.com/monsters/16762-aboleth) modified and endowed with sentience. They follow the ingrained directives of their creators, as they have done since the dawn of time.
 
-![](Chuul.webp#token)
+![](D&D/05%20-%20Wikipedia/Bestiarium/00-img/Chuul.webp#token)
 
 _**Primeval Relics.**_ In the primeval ages, aboleths ruled a vast empire that spanned the oceans of the world. In those days, the aboleths used mighty magic and bent the minds of the nascent creatures of the mortal realm. However, they were bound to the water and could not enforce their will beyond it without servants. Therefore, they created chuuls.
 

@@ -1,15 +1,15 @@
 ---
 cssclasses: json5e-monster
 tags:
-  - Größe/Mittelgroß
-  - Habitat/Arktis
-  - Habitat/Hügel
-  - Habitat/Küste
-  - Habitat/Stadt
-  - Habitat/Wald
-  - Habitat/Wüste
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Arktis
+  - Monster/Habitat/Hügel
+  - Monster/Habitat/Küste
+  - Monster/Habitat/Stadt
+  - Monster/Habitat/Wald
+  - Monster/Habitat/Wüste
   - Quelle/5e/Monster_Manual
-  - Typ/Humanoid/jede-rasse
+  - Monster/Typ/Humanoid/jede-rasse
 aliases:
   - Bandit
 Typ: Humanoid

@@ -3,7 +3,7 @@ cssclasses:
   - json5e-class
 tags:
   - Quelle/5e/xge
-  - ttrpg-cli/subclass/rogue/mastermind
+  - Klasse/subclass/rogue/mastermind
 aliases:
   - Mastermind
 ---

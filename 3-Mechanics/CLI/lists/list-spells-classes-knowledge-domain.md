@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-note
 tags:
-  - ttrpg-cli/spell/list/subclass/knowledge-domain
+  - Zauber/list/subclass/knowledge-domain
 aliases:
   - Spells for Knowledge Domain
 ---

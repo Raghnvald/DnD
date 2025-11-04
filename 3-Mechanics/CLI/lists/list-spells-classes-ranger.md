@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-note
 tags:
-  - ttrpg-cli/spell/list/class/ranger
+  - Zauber/list/class/ranger
 aliases:
   - Ranger Spells
 ---

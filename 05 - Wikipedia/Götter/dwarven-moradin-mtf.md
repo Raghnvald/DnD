@@ -3,9 +3,9 @@ cssclasses:
   - json5e-deity
 tags:
   - Quelle/5e/mtf
-  - ttrpg-cli/deity/dwarven
-  - Götter/domain/forge
-  - Götter/domain/knowledge
+  - Kompendium/Götter/dwarven
+  - Kompendium/Götter/domain/forge
+  - Kompendium/Götter/domain/knowledge
 aliases:
   - Moradin
 ---

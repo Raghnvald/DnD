@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/race/firbolg
+- Zauber/list/race/firbolg
 aliases:
 - Spells for Firbolg
 ---

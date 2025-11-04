@@ -8,11 +8,11 @@ HG:
 status:
 image:
 tags:
-  - Größe/Mittelgroß
-  - Habitat/Sumpf
-  - Habitat/Wald
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Sumpf
+  - Monster/Habitat/Wald
   - Quelle/5e/Monster_Manual
-  - Typ/Humanoid/Echsenmensch
+  - Monster/Typ/Humanoid/Echsenmensch
 aliases:
   - Lizardfolk
 ---

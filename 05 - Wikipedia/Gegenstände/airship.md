@@ -4,8 +4,8 @@ cssclasses:
 - json5e-item
 tags:
 - Quelle/5e/dmg
-- ttrpg-cli/item/rarity/none
-- ttrpg-cli/item/vehicle/airship-air
+- Gegenstand/item/rarity/none
+- Gegenstand/item/vehicle/airship-air
 aliases: 
 - "Airship"
 ---

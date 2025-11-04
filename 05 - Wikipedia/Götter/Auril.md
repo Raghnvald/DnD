@@ -2,11 +2,11 @@
 cssclasses: json5e-deity
 tags:
   - Quelle/5e/Players_Handbook
-  - Götter
-  - Götter/Gesinnung/Neutral_Böse
-  - Götter/Pantheon/Faerun
-  - Götter/Domäne/Natur
-  - Götter/Domäne/Sturm
+  - Kompendium/Götter
+  - Kompendium/Götter/Gesinnung/Neutral_Böse
+  - Kompendium/Götter/Pantheon/Faerun
+  - Kompendium/Götter/Domäne/Natur
+  - Kompendium/Götter/Domäne/Sturm
 aliases:
   - Auril
 ---

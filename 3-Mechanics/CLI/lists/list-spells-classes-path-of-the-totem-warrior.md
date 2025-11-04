@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/subclass/path-of-the-totem-warrior
+- Zauber/list/subclass/path-of-the-totem-warrior
 aliases:
 - Spells for Path of the Totem Warrior
 ---

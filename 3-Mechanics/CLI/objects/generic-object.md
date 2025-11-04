@@ -3,8 +3,8 @@ cssclasses:
   - json5e-object
 tags:
   - Quelle/5e/dmg
-  - ttrpg-cli/object/size/varies
-  - ttrpg-cli/object/type/generic
+  - Kompendium/object/size/varies
+  - Kompendium/object/type/generic
 aliases:
   - Generic Object
 ---

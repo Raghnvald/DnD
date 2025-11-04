@@ -8,9 +8,9 @@ HG:
 status:
 image:
 tags:
-  - Größe/Winzig
+  - Monster/Größe/Winzig
   - Quelle/5e/Monster_Manual
-  - Typ/Tier
+  - Monster/Typ/Tier
 aliases:
   - Hawk
 ---

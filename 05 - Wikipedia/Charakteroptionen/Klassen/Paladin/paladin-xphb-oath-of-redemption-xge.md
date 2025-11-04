@@ -3,7 +3,7 @@ cssclasses:
   - json5e-class
 tags:
   - Quelle/5e/xge
-  - ttrpg-cli/subclass/paladin/redemption
+  - Klasse/subclass/paladin/redemption
 aliases:
   - Oath of Redemption
 ---

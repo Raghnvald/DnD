@@ -4,8 +4,8 @@ cssclasses:
 - json5e-item
 tags:
 - Quelle/5e/xdmg
-- ttrpg-cli/item/gear/treasure-art-object
-- ttrpg-cli/item/rarity/none
+- Gegenstand/item/gear/treasure-art-object
+- Gegenstand/item/rarity/none
 aliases: 
 - "Embroidered silk and velvet mantle set with numerous moonstones"
 ---
