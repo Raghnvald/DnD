@@ -11,6 +11,12 @@ statblock: inline
 statblock-link: "#^statblock"
 aliases:
   - Zombie
+Typ: Untoter
+Größe: Mittelgroß
+HG: 1/4
+Habitat:
+  - Stadt
+status: WIP
 ---
 # [Zombie](3-Mechanics\CLI\bestiary\undead/zombie.md)
 *Source: Monster Manual p. 316. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  

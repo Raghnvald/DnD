@@ -10,6 +10,11 @@ statblock: inline
 statblock-link: "#^statblock"
 aliases:
   - Flesh Meld
+Größe: Riesig
+Typ: Aberration
+Habitat:
+  - /
+HG: 7
 ---
 # [Flesh Meld](3-Mechanics\CLI\bestiary\aberration/flesh-meld-pabtso.md)
 *Source: Phandelver and Below: The Shattered Obelisk p. 207*  

@@ -32,7 +32,7 @@ Wenn du eine Bohne aus dem Beutel nimmst, sie in Erde oder Sand einpflanzt und b
 | 61-70 | A hungry [Landhai](Landhai.md) burrows up and attacks. |
 | 71-80 | A fruit tree grows. It has `1W10 + 20` fruit, `1W8` of which act as randomly determined magic potions, while one acts as an ingested poison of the DM's choice. The tree vanishes after 1 hour. Picked fruit remains, retaining any magic for 30 days. |
 | 81-90 | A nest of `1W4 + 3` eggs springs up. Any creature that eats an egg must make a DC 20 Constitution saving throw. On a successful save, a creature permanently increases its lowest ability score by 1, randomly choosing among equally low scores. On a failed save, the creature takes `10W6` force damage from an internal magical explosion. |
-| 91-99 | A pyramid with a 60-foot-square base bursts upward. Inside is a sarcophagus containing a [mummy lord](Mumienfürst.md). The pyramid is treated as the [mummy lord's](Mumienfürst.md) lair, and its sarcophagus contains treasure of the DM's choice. |
+| 91-99 | A pyramid with a 60-foot-square base bursts upward. Inside is a sarcophagus containing a [mummy lord](D&D/05%20-%20Wikipedia/Bestiarium/M-N/Mumienfürst.md). The pyramid is treated as the [mummy lord's](D&D/05%20-%20Wikipedia/Bestiarium/M-N/Mumienfürst.md) lair, and its sarcophagus contains treasure of the DM's choice. |
 | 00 | A giant beanstalk sprouts, growing to a height of the DM's choice. The top leads where the DM chooses, such as to a great view, a [cloud giant's](Wolkenriese.md) castle, or a different plane of existence. |
 ^effect
 

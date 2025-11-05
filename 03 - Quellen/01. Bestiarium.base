@@ -6,9 +6,8 @@ views:
     name: Aberrationen
     filters:
       or:
-        - file.tags.contains("Typ/Aberration")
+        - file.tags.contains("Monster/Typ/Aberration")
         - Typ.startsWith("Aberration")
-        - file.tags.contains("monster/type/aberration")
     order:
       - file.name
       - Typ
@@ -30,9 +29,8 @@ views:
     name: Drachen
     filters:
       or:
-        - file.tags.contains("Typ/Drache")
+        - file.tags.contains("Monster/Typ/Drache")
         - Typ.startsWith("Drache")
-        - file.tags.contains("monster/type/dragon")
     order:
       - file.name
       - Typ
@@ -42,7 +40,9 @@ views:
       - status
     columnSize:
       file.name: 197
+      note.Typ: 125
       note.Größe: 101
+      note.Habitat: 279
     cardSize: 100
     image: note.image
     imageFit: contain
@@ -52,9 +52,8 @@ views:
     name: Elementare
     filters:
       or:
-        - file.tags.contains("Typ/Elementar")
+        - file.tags.contains("Monster/Typ/Elementar")
         - Typ.startsWith("Elementar")
-        - file.tags.contains("monster/type/elemental")
     order:
       - file.name
       - Typ
@@ -76,7 +75,7 @@ views:
     filters:
       or:
         - Typ.startsWith("Feenwesen")
-        - file.tags.contains("monster/type/fey")
+        - file.tags.contains("Monster/Typ/Fee")
     order:
       - file.name
       - Typ
@@ -97,9 +96,8 @@ views:
     name: Himmlische
     filters:
       or:
-        - file.tags.contains("Typ/Himmlische")
+        - file.tags.contains("Monster/Typ/Himmlische")
         - Typ.startsWith("Himmlisch")
-        - file.tags.contains("monster/type/celestial")
     order:
       - file.name
       - Typ
@@ -119,9 +117,8 @@ views:
     name: Humanoide
     filters:
       or:
-        - file.tags.contains("Typ/Humanoid")
+        - file.tags.contains("Monster/Typ/Humanoid")
         - Typ.startsWith("Humanoid")
-        - file.tags.contains("monster/type/humanoid")
     order:
       - file.name
       - Typ
@@ -142,9 +139,8 @@ views:
     name: Konstrukte
     filters:
       or:
-        - file.tags.contains("Typ/Konstrukt")
+        - file.tags.contains("Monster/Typ/Konstrukt")
         - Typ.startsWith("Konstrukt")
-        - file.tags.contains("monster/type/construct")
     order:
       - file.name
       - Typ
@@ -164,9 +160,8 @@ views:
     name: Monstrositäten
     filters:
       or:
-        - file.tags.contains("Typ/Monstrosität")
+        - file.tags.contains("Monster/Typ/Monstrosität")
         - Typ.startsWith("Monstrosität")
-        - file.tags.contains("monster/type/monstrosity")
     order:
       - file.name
       - Typ
@@ -186,9 +181,8 @@ views:
     name: Pflanzen
     filters:
       or:
-        - file.tags.contains("Typ/Pflanze")
+        - file.tags.contains("Monster/Typ/Pflanze")
         - Typ.startsWith("Pflanze")
-        - file.tags.contains("monster/type/plant")
     order:
       - file.name
       - Typ
@@ -208,9 +202,8 @@ views:
     name: Riesen
     filters:
       or:
-        - file.tags.contains("Typ/Riese")
+        - file.tags.contains("Monster/Typ/Riese")
         - Typ.startsWith("Riese")
-        - file.tags.contains("monster/type/giant")
     order:
       - file.name
       - Typ
@@ -231,7 +224,7 @@ views:
     filters:
       or:
         - Typ.startsWith("Schleim")
-        - file.tags.contains("monster/type/ooze")
+        - file.tags.contains("Monster/Typ/Schleim")
     order:
       - file.name
       - Typ
@@ -252,9 +245,8 @@ views:
     name: Tiere
     filters:
       or:
-        - file.tags.contains("Typ/Tier")
+        - file.tags.contains("Monster/Typ/Tier")
         - Typ.startsWith("Tier")
-        - file.tags.contains("monster/type/beast")
     order:
       - file.name
       - Typ
@@ -276,7 +268,7 @@ views:
       or:
         - file.tags.contains("Typ/Unhold")
         - Typ.startsWith("Unhold")
-        - file.tags.contains("monster/type/fiend")
+        - file.tags.contains("Monster/Typ/Unhold")
     order:
       - file.name
       - Typ
@@ -298,7 +290,7 @@ views:
     filters:
       or:
         - Typ.startsWith("Untoter")
-        - file.tags.contains("monster/type/undead")
+        - file.tags.contains("Monster/Typ/Untote")
     order:
       - file.name
       - Typ

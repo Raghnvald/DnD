@@ -10,6 +10,11 @@ statblock: inline
 statblock-link: "#^statblock"
 aliases:
   - Burney the Barber
+Größe: Gigantisch
+HG: 21
+status: WIP
+Habitat:
+  - /
 ---
 # [Burney the Barber](3-Mechanics\CLI\bestiary\npc/burney-the-barber-bgdia.md)
 *Source: Baldur's Gate: Descent Into Avernus p. 129*  

@@ -12,6 +12,9 @@ statblock: inline
 statblock-link: "#^statblock"
 aliases:
   - Sword Wraith Commander
+Typ: Untoter
+Größe: Mittelgroß
+HG: 8
 ---
 # [Sword Wraith Commander](3-Mechanics\CLI\bestiary\undead/sword-wraith-commander-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 239*  

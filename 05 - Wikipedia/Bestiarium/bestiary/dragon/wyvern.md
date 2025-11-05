@@ -12,6 +12,7 @@ statblock: inline
 statblock-link: "#^statblock"
 aliases:
   - Wyvern
+status: WIP
 ---
 # [Wyvern](3-Mechanics\CLI\bestiary\dragon/wyvern.md)
 *Source: Monster Manual p. 303. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  

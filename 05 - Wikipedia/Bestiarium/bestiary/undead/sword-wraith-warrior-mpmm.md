@@ -12,6 +12,9 @@ statblock: inline
 statblock-link: "#^statblock"
 aliases:
   - Sword Wraith Warrior
+Typ: Untoter
+Größe: Mittelgroß
+HG: 3
 ---
 # [Sword Wraith Warrior](3-Mechanics\CLI\bestiary\undead/sword-wraith-warrior-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 239*  

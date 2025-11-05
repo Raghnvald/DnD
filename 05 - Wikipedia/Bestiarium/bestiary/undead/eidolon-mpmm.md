@@ -16,6 +16,17 @@ statblock: inline
 statblock-link: "#^statblock"
 aliases:
   - Eidolon
+Typ: Untoter
+Größe: Mittelgroß
+HG: "12"
+Habitat:
+  - Berg
+  - Grasland
+  - Küste
+  - Stadt
+  - Wald
+  - Wüste
+status: WIP
 ---
 # [Eidolon](3-Mechanics\CLI\bestiary\undead/eidolon-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 114*  

@@ -11,6 +11,12 @@ statblock: inline
 statblock-link: "#^statblock"
 aliases:
   - Vampire Spellcaster
+Typ: Untoter (Gestaltwandler)
+Größe: Mittelgroß
+HG: 15
+Habitat:
+  - Stadt
+status: WIP
 ---
 # [Vampire Spellcaster](3-Mechanics\CLI\bestiary\undead/vampire-spellcaster.md)
 *Source: Monster Manual p. 298*  

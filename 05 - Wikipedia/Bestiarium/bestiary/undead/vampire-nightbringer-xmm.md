@@ -12,6 +12,13 @@ statblock: inline
 statblock-link: "#^statblock"
 aliases:
   - Vampire Nightbringer
+Typ: Untoter
+Größe: M oder S
+HG: 8
+Habitat:
+  - Stadt
+  - Unterreich
+status: WIP
 ---
 # [Vampire Nightbringer](3-Mechanics\CLI\bestiary\undead/vampire-nightbringer-xmm.md)
 *Source: Monster Manual (2024) p. 316*  

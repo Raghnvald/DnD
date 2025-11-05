@@ -10,6 +10,11 @@ statblock: inline
 statblock-link: "#^statblock"
 aliases:
   - Drake Companion
+Typ: Drache
+Größe: Klein
+status: WIP
+Habitat:
+  - /
 ---
 # [Drake Companion](3-Mechanics\CLI\bestiary\dragon/drake-companion-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 15*  

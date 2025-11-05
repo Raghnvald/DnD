@@ -10,6 +10,12 @@ statblock: inline
 statblock-link: "#^statblock"
 aliases:
   - Vampiric Mind Flayer
+Typ: Untoter
+Größe: Mittelgroß
+HG: 5
+Habitat:
+  - /
+status: WIP
 ---
 # [Vampiric Mind Flayer](3-Mechanics\CLI\bestiary\undead/vampiric-mind-flayer-vrgr.md)
 *Source: Van Richten's Guide to Ravenloft p. 252*  

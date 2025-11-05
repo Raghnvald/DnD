@@ -12,6 +12,13 @@ statblock: inline
 statblock-link: "#^statblock"
 aliases:
   - Vampire
+Typ: Untoter
+Größe: M oder S
+HG: 13
+Habitat:
+  - Stadt
+  - Unterreich
+status: WIP
 ---
 # [Vampire](3-Mechanics\CLI\bestiary\undead/vampire-xmm.md)
 *Source: Monster Manual (2024) p. 317. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

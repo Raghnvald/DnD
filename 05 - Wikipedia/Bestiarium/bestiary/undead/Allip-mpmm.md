@@ -13,6 +13,12 @@ statblock-link: "#^statblock"
 aliases:
   - Allip
 Typ: Untoter
+status: WIP
+Größe: Mittelgroß
+HG: 5
+Habitat:
+  - Stadt
+  - Sumpf
 ---
 # [Allip](3-Mechanics\CLI\bestiary\undead/allip-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 45*  

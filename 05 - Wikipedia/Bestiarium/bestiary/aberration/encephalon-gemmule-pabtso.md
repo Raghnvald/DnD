@@ -10,6 +10,11 @@ statblock: inline
 statblock-link: "#^statblock"
 aliases:
   - Encephalon Gemmule
+Habitat:
+  - /
+Typ: Aberration
+Größe: Winzig
+HG: 3
 ---
 # [Encephalon Gemmule](3-Mechanics\CLI\bestiary\aberration/encephalon-gemmule-pabtso.md)
 *Source: Phandelver and Below: The Shattered Obelisk p. 206*  

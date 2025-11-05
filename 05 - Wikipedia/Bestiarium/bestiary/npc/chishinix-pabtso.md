@@ -14,6 +14,8 @@ Typ: Aberration
 Habitat:
   - /
 Größe: Mittelgroß
+HG: 11
+status: WIP
 ---
 # [Chishinix](3-Mechanics\CLI\bestiary\npc/chishinix-pabtso.md)
 *Source: Phandelver and Below: The Shattered Obelisk p. 194*  

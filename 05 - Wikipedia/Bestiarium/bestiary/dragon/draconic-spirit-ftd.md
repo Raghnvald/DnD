@@ -1,16 +1,21 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- Quelle/5e/ftd
-- Monster/cr/
-- Monster/Größe/Groß
-- Monster/Typ/Drache
+  - Quelle/5e/ftd
+  - Monster/cr/
+  - Monster/Größe/Groß
+  - Monster/Typ/Drache
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Draconic Spirit
+  - Draconic Spirit
+Typ: Drache
+Größe: Groß
+status: WIP
+Habitat:
+  - /
 ---
 # [Draconic Spirit](3-Mechanics\CLI\bestiary\dragon/draconic-spirit-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 21*  

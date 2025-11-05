@@ -12,6 +12,13 @@ statblock: inline
 statblock-link: "#^statblock"
 aliases:
   - Vampire Spawn
+Typ: Untoter
+Größe: Mittelgroß
+HG: 5
+Habitat:
+  - Stadt
+  - Unterreich
+status: WIP
 ---
 # [Vampire Spawn](3-Mechanics\CLI\bestiary\undead/vampire-spawn.md)
 *Source: Monster Manual p. 298. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  

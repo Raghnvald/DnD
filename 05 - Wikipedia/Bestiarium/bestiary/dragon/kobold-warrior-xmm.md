@@ -19,6 +19,9 @@ statblock: inline
 statblock-link: "#^statblock"
 aliases:
   - Kobold Warrior
+Typ: Drache
+Größe: Klein
+HG: 1/8
 ---
 # [Kobold Warrior](3-Mechanics\CLI\bestiary\dragon/kobold-warrior-xmm.md)
 *Source: Monster Manual (2024) p. 185. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

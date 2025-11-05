@@ -12,6 +12,7 @@ statblock: inline
 statblock-link: "#^statblock"
 aliases:
   - Banshee
+status: WIP
 ---
 # [Banshee](3-Mechanics\CLI\bestiary\undead/banshee.md)
 *Source: Monster Manual p. 23. Available in the Basic Rules (2014)*  

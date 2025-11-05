@@ -10,6 +10,12 @@ statblock: inline
 statblock-link: "#^statblock"
 aliases:
   - Dragonnel
+Typ: Drache
+Größe: Groß
+HG: 2
+status: WIP
+Habitat:
+  - /
 ---
 # [Dragonnel](3-Mechanics\CLI\bestiary\dragon/dragonnel-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 190*  

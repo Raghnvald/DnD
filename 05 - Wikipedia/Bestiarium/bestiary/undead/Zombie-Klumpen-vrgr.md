@@ -10,6 +10,12 @@ statblock: inline
 statblock-link: "#^statblock"
 aliases:
   - Zombie Clot
+Typ: Untoter
+Größe: Riesig
+HG: 6
+Habitat:
+  - /
+status: WIP
 ---
 # [Zombie Clot](3-Mechanics\CLI\bestiary\undead/zombie-clot-vrgr.md)
 *Source: Van Richten's Guide to Ravenloft p. 255*  

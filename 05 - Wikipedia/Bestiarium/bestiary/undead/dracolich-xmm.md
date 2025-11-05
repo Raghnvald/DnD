@@ -11,6 +11,11 @@ statblock: inline
 statblock-link: "#^statblock"
 aliases:
   - Dracolich
+Typ: Untoter
+Größe: Riesig
+HG: 17
+Habitat:
+  - Jedes
 ---
 # [Dracolich](3-Mechanics\CLI\bestiary\undead/dracolich-xmm.md)
 *Source: Monster Manual (2024) p. 102*  

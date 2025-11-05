@@ -10,6 +10,11 @@ statblock: inline
 statblock-link: "#^statblock"
 aliases:
   - Encephalon Cluster
+Habitat:
+  - /
+Typ: Aberration
+Größe: Groß
+HG: 10
 ---
 # [Encephalon Cluster](3-Mechanics\CLI\bestiary\aberration/encephalon-cluster-pabtso.md)
 *Source: Phandelver and Below: The Shattered Obelisk p. 205*  

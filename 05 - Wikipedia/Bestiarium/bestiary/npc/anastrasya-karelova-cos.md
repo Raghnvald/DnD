@@ -11,6 +11,11 @@ statblock-link: "#^statblock"
 aliases:
   - Anastrasya Karelova
 Typ: Untoter (Gestaltwandler)
+status: WIP
+Größe: Mittelgroß
+HG: 5
+Habitat:
+  - /
 ---
 # [Anastrasya Karelova](3-Mechanics\CLI\bestiary\npc/anastrasya-karelova-cos.md)
 *Source: Curse of Strahd p. 93*  

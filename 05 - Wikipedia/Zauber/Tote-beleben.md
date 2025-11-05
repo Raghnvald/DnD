@@ -20,7 +20,7 @@ aliases:
 - **Wirkungsdauer:** Unmittelbar
 - **Angriff / Rettung:** -
 
-Dieser Zauber erschafft einen untoten Diener. Wähle einen Knochenhaufen oder die Leiche eines kleinen oder mittelgroßen Humanoiden in Reichweite. Dein Zauber durchdringt das Ziel mit einer verdorbenen Nachahmung des Lebens und erweckt es zu einer untoten Kreatur. Das Ziel wird zu einem [Skelett](D&D/05%20-%20Wikipedia/Bestiarium/S-T/Skelett.md) wenn du Knochen wählst, oder zu einem [Zombie (Legacy)](Zombie%20(Legacy).md), wenn du eine Leiche wählst (der SL hat die Spielwerte der Kreatur),
+Dieser Zauber erschafft einen untoten Diener. Wähle einen Knochenhaufen oder die Leiche eines kleinen oder mittelgroßen Humanoiden in Reichweite. Dein Zauber durchdringt das Ziel mit einer verdorbenen Nachahmung des Lebens und erweckt es zu einer untoten Kreatur. Das Ziel wird zu einem [Skelett-old](Skelett-old.md) wenn du Knochen wählst, oder zu einem [Zombie (Legacy)](Zombie%20(Legacy).md), wenn du eine Leiche wählst (der SL hat die Spielwerte der Kreatur),
 
 Du kannst deine Bonusaktion in jedem deiner Züge verwenden, um jede Kreatur, die du mit diesem Zauber belebt hast und die sich im Abstand von bis zu 18 Metern von dir befindet, mental zu befehligen. Wenn du mehrere Kreaturen kontrollierst, kannst du gleichzeitig eine oder alle befehligen, wobei jeder derselbe Befehl erteilt wird. Du entscheidest über die Aktion der Kreatur und ihre Bewegung in ihrem nächsten Zug. Alternativ kannst du einen allgemeinen Befehl erteilen, etwa das Bewachen einer bestimmten Kammer oder eines Korridors. Erteilst du keine Befehle, verteidigt sich die Kreatur lediglich gegen feindlich gesinnte Kreaturen. Sobald die Kreatur einen Befehl erhalten hat, führt sie ihn aus, bis die Aufgabe abgeschlossen ist.
 

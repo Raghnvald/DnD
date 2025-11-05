@@ -1,6 +1,7 @@
 ---
-cssclasses:
-  - json5e-monster
+cssclasses: dnd5e-only-statblock
+prefer-view: edit-source read
+Bezeichnung: Escher
 tags:
   - Quelle/5e/cos
   - Monster/cr/5
@@ -10,17 +11,26 @@ statblock: inline
 statblock-link: "#^statblock"
 aliases:
   - Escher
+Typ: Untoter
+Größe: Mittelgroß
+Habitat:
+  - /
+HG: 5
+status: WIP
 ---
-# [Escher](3-Mechanics\CLI\bestiary\npc/escher-cos.md)
-*Source: Curse of Strahd p. 70*  
+# Escher
+*Quelle:Fluch des Strahd S. 70*  
 
 ```statblock
 "name": "Escher (CoS)"
-"size": "Medium"
-"type": "undead"
-"alignment": "Neutral Evil"
+"image": "token/escher-cos.webp"
+"source":
+  - "CoS"
+"size": "Mittelgroß"
+"type": "Untoter"
+"alignment": "Neutral Böse"
 "ac": !!int "15"
-"ac_class": "natural armor"
+"ac_class": "Natürliche Rüstung"
 "hp": !!int "82"
 "hit_dice": "11d8 + 33"
 "modifier": !!int "3"
@@ -31,57 +41,32 @@ aliases:
   - !!int "11"
   - !!int "10"
   - !!int "12"
-"speed": "30 ft."
+"speed": "9 m."
 "saves":
-  - "dexterity": !!int "6"
-  - "wisdom": !!int "3"
+  - "Geschicklichkeit": !!int "6"
+  - "Weisheit": !!int "3"
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "Heimlichkeit"
     "desc": "+3"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "Wahrnehmung"
     "desc": "+6"
-"damage_resistances": "necrotic; bludgeoning, piercing, slashing from nonmagical attacks"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 13"
-"languages": "the languages it knew in life"
+"damage_resistances": "nekrotisch; Wucht‑, Stich‑ und Hiebschaden von nichtmagischen Waffen"
+"senses": "Dunkelsicht 18 m, passive Wahrnehmung 11"
+"languages": "Elfisch, Gemeinsprache"
 "cr": "5"
 "traits":
-  - "desc": "Escher regains 10 hit points at the start of its turn if it has at least\
-      \ 1 hit point and isn't in sunlight or running water. If Escher takes radiant\
-      \ damage or damage from holy water, this trait doesn't function at the start\
-      \ of Escher's next turn."
-    "name": "Regeneration"
-  - "desc": "Escher can climb difficult surfaces, including upside down on ceilings,\
-      \ without needing to make an ability check."
-    "name": "Spider Climb"
-  - "desc": "Escher has the following flaws:\n\n- **Forbiddance.** Escher can't enter\
-      \ a residence without an invitation from one of the occupants.  \n- **Harmed\
-      \ by Running Water.** Escher takes 20 acid damage when it ends its turn in running\
-      \ water.  \n- **Stake to the Heart.** Escher is destroyed if a piercing weapon\
-      \ made of wood is driven into its heart while it is [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)\
-      \ in its resting place.  \n- **Sunlight Hypersensitivity.** Escher takes 20\
-      \ radiant damage when it starts its turn in sunlight. While in sunlight, it\
-      \ has disadvantage on attack rolls and ability checks  "
-    "name": "Vampire Weaknesses"
+  - "name": "Regeneration"
+    "desc": "Escher erhält zu Beginn seines Zuges 10 Trefferpunkte zurück, sofern er mindestens 1 Trefferpunkt hat und nicht im Sonnenlicht oder in fließendem Wasser ist. Bei Strahlungs‑ oder Weihwasser‑Schaden funktioniert diese Fähigkeit im nächsten Zug nicht"
+  - "name": "Spinnenklettern"
+    "desc": "Escher kann schwierige Oberflächen und Decken ohne Probe, sogar kopfüber."
+  - "name": "Vampirschwächen"
+    "desc": "Escher hat die folgenden Nachteile: \n\n- **Verbot.** Er kann keinen Wohnsitz betreten, ohne eine Einladung von einem der Bewohner erhalten zu haben. \n- **Verletzt durch fließendes Wasser.** Escher erleidet 20 Säureschaden, wenn er seinen Zug in fließendem Wasser beendet. \n- **Pflock ins Herz.** Wenn eine Stichwaffe aus Holz in Eschers Herz getrieben wird, solange er sich in seinem Sarg befindet und kampfunfähig ist, wird er gelähmt, bis der Pflock entfernt wird.  \n- **Hyperempfindlich gegenüber Sonnenlicht.** Escher erleidet 20 gleißenden Schaden, wenn er seinen Zug im Sonnenlicht beginnt. Solange er sich im Sonnenlicht befindet, erleidet er einen Nachteil auf Angriffswürfe und Attributswürfe."
 "actions":
-  - "desc": "Escher makes two attacks, only one of which can be a bite attack."
-    "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one willing creature,\
-      \ or a creature that is [grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
-      \ by Escher, [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated),\
-      \ or [restrained](/3-Mechanics/CLI/conditions.md#Restrained). *Hit:* 6 (1d6\
-      \ + 3) piercing damage plus 7 (2d6) necrotic damage. The target's hit point\
-      \ maximum is reduced by an amount equal to the necrotic damage taken, and Escher\
-      \ regains hit points equal to that amount. The reduction lasts until the target\
-      \ finishes a long rest. The target dies if this effect reduces its hit point\
-      \ maximum to 0."
-    "name": "Bite"
-  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one creature. *Hit:* 8\
-      \ (2d4 + 3) slashing damage. Instead of dealing damage, Escher can grapple the\
-      \ target (escape DC 13)."
-    "name": "Claws"
-"source":
-  - "CoS"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/escher-cos.webp"
+  - "name": "Mehrfachangriff"
+    "desc": "Escher führt zwei Angriffe aus; höchstens einer davon kann ein Biss sein."
+  - name: Biss
+    desc: "_Nahkampfangriff:_ +6 zum Treffen, Reichweite 5 ft., ein williges Ziel oder ein von Escher gefesseltes, handlungsunfähiges oder gefesseltes Ziel. _Treffer:_ 1d6 + 3 Stichschaden + 2d6 nekrotischer Schaden. Das maximale Trefferpunktekontingent des Ziels wird um den nekrotischen Schaden reduziert; Escher heilt um denselben Betrag. Die Reduktion dauert bis zum Abschluss einer langen Rast. Sinkt das Maximum auf 0, stirbt das Ziel."
+  - name: Krallen
+    desc: "_Nahkampfangriff:_ +6 zum Treffen, Reichweite 5 ft., ein Ziel. _Treffer:_ 2W4 + 3 Hiebschaden. Statt Schaden zu verursachen, kann Escher das Ziel greifen (Flucht‑SG 13)."
 ```
 ^statblock

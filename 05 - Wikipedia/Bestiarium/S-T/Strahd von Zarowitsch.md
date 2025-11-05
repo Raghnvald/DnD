@@ -35,7 +35,7 @@ Wann immer Strahd an einen Ort außer seinem Grabmal oder dem beim Kartenlesen a
 | W20   | Kreaturen                                                            |
 | ----- | -------------------------------------------------------------------- |
 | 1-3   | `dice: 1d4 + 2` [Schreckenswölfe](Schreckenswolf.md)                 |
-| 4-6   | `dice: 1d6 + 3` [Ghule](Ghul.md)                                     |
+| 4-6   | `dice: 1d6 + 3` [Ghule](Ghul-old.md)                                     |
 | 7-9   | `dice: 1d4 + 2` [Strahdzombies](Strahdzombie.md)                     |
 | 10-12 | `dice: 2d4` [Schwärme von Fledermäusen](Schwarm%20von%20Fledermäusen.md) |
 | 13-15 | `dice: 1d4 + 1` [Vampirbrut](Vampirbrut.md)                          |
@@ -60,7 +60,7 @@ Während Strahd sich in der Burg Ravenloft aufhält und er nicht kampfunfähig i
 $\quad$ Bei Initiative 20 (er verliert Initiative-Gleichstände) kann Strahd eine der folgenden möglichen Hortaktionen auswählen oder darauf verzichten, sie in dieser Runde zu benutzen.
 - Bis Initiative 20 der nächsten Runde kann Strahd durch solide Wände, Türen, Decken und Böden gehen, als ob sie nicht existieren.
 - Strahd wählt eine beliebige Anzahl von Türen und Fenstern, die er sehen kann, als Ziel, und bringt alle dazu, sich nach seinen Wünschen entweder zu öffnen oder zu schließen. Geschlossene Türen können auf magische Weise verriegelt werden (sie benötigen einen gelungenen <font color="red">**Stärkewurf**</font> gegen <font color="orange">SG 20</font>, um aufgestemmt zu werden), bis Strahd entscheidet, den Effekt zu beenden oder bis Strahd diese Hortaktion wieder ausführt.
-- Strahd ruft den wütenden Geist von jemandem herbei, der in der Burg gestorben ist. Die Erscheinung taucht neben einer feindlichen Kreatur auf, die Strahd sehen kann, führt einen Angriff gegen diese Kreatur aus und verschwindet dann. Die Erscheinung hat die Spielwerte eines [[Schreckgespenst]].
+- Strahd ruft den wütenden Geist von jemandem herbei, der in der Burg gestorben ist. Die Erscheinung taucht neben einer feindlichen Kreatur auf, die Strahd sehen kann, führt einen Angriff gegen diese Kreatur aus und verschwindet dann. Die Erscheinung hat die Spielwerte eines [[Schreckgespenst-old]].
 - Strahd wählt eine mittelgroße oder kleine Kreatur als Ziel aus, die einen Schatten wirft. Der Schatten des Ziels muss für Strahd sichtbar und höchstens 9 Meter von ihm entfernt sein. Wenn dem Ziel ein <font color="darkviolet">**Charisma**</font>-<font color="#FF00E0">Rettungswurf</font> gegen <font color="yellow">SG 17</font> misslingt, löst sich der Schatten von ihm und wird zu einem [Schatten](Schatten.md), der Strahds Befehle befolgt und bei Initiative 20 handelt. Ein auf das Ziel gewirkter Zauber _[[Vollständige Genesung]]_ oder _[[Fluch brechen]]_ stellt seinen natürlichen Schatten wieder her, aber nur, wenn sein untoter Schatten zerstört wurde.
 
 ```statblock

@@ -10,6 +10,12 @@ statblock: inline
 statblock-link: "#^statblock"
 aliases:
   - Lowarnizel
+Typ: Drache (Edelstein)
+Größe: Groß
+HG: 9
+Habitat:
+  - /
+status: WIP
 ---
 # [Lowarnizel](3-Mechanics\CLI\bestiary\npc/lowarnizel-pabtso.md)
 *Source: Phandelver and Below: The Shattered Obelisk p. 181*  

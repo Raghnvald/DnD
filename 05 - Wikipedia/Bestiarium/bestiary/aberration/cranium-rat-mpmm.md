@@ -18,6 +18,7 @@ Habitat:
   - Stadt
   - Unterreich
 Typ: Aberration
+status: WIP
 ---
 # [Cranium Rat](3-Mechanics\CLI\bestiary\aberration/cranium-rat-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 83*  

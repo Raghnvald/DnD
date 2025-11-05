@@ -35,7 +35,7 @@ $\quad$ Die Illusion dauert an, bis die Karte bewegt oder die Illusion vertriebe
 | 14    | Karo Neun   | [Ogermagier](Oger.md)                                                     |
 | 15    | Karo Acht   | [Gnoll](Humanoide/Gnoll.md)                                                      |
 | 16    | Karo Zwei   | [Kobold](Humanoide/Kobold.md)                                                    |
-| 17    | Pik Ass     | [Lich](D&D/05%20-%20Wikipedia/Bestiarium/K-L/Lich.md)                                                           |
+| 17    | Pik Ass     | [Lich-old](Lich-old.md)                                                           |
 | 18    | Pik König   | [Priester](Priester.md) und zwei [Gefolgsleute](Humanoide/acolyte.md)  |
 | 19    | Pik Dame    | [Medusa](D&D/05%20-%20Wikipedia/Bestiarium/M-N/Medusa.md)                                               |
 | 20    | Pik Bube    | [Veteran](D&D/05%20-%20Wikipedia/Bestiarium/U-V/Veteran.md)                                                  |

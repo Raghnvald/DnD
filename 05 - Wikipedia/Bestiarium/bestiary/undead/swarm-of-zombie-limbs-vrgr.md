@@ -10,6 +10,12 @@ statblock: inline
 statblock-link: "#^statblock"
 aliases:
   - Swarm of Zombie Limbs
+Typ: Untoter
+Größe: Mittelgroß
+HG: 1
+status: WIP
+Habitat:
+  - /
 ---
 # [Swarm of Zombie Limbs](3-Mechanics\CLI\bestiary\undead/swarm-of-zombie-limbs-vrgr.md)
 *Source: Van Richten's Guide to Ravenloft p. 254*  

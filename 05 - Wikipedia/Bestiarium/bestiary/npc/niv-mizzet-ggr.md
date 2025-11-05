@@ -1,16 +1,22 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- Quelle/5e/ggr
-- Monster/cr/26
-- Monster/Größe/Gigantisch
-- Monster/Typ/Drache
+  - Quelle/5e/ggr
+  - Monster/cr/26
+  - Monster/Größe/Gigantisch
+  - Monster/Typ/Drache
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Niv-Mizzet
+  - Niv-Mizzet
+Typ: Drache
+Größe: Gigantisch
+HG: 26
+Habitat:
+  - /
+status: WIP
 ---
 # [Niv-Mizzet](3-Mechanics\CLI\bestiary\npc/niv-mizzet-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 241*  

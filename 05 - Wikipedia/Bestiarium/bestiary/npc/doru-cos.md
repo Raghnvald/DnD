@@ -10,6 +10,12 @@ statblock: inline
 statblock-link: "#^statblock"
 aliases:
   - Doru
+Typ: Untoter
+Größe: Mittelgroß
+HG: 5
+Habitat:
+  - /
+status: WIP
 ---
 # [Doru](3-Mechanics\CLI\bestiary\npc/doru-cos.md)
 *Source: Curse of Strahd p. 47*  

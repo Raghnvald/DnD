@@ -12,6 +12,13 @@ statblock: inline
 statblock-link: "#^statblock"
 aliases:
   - Vampire Umbral Lord
+Typ: Untoter
+Größe: M oder S
+HG: 15
+Habitat:
+  - Stadt
+  - Unterreich
+status: WIP
 ---
 # [Vampire Umbral Lord](3-Mechanics\CLI\bestiary\undead/vampire-umbral-lord-xmm.md)
 *Source: Monster Manual (2024) p. 318*  

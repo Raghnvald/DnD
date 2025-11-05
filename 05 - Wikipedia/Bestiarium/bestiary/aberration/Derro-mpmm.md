@@ -13,6 +13,9 @@ statblock-link: "#^statblock"
 aliases:
   - Derro
 Typ: Aberration
+Größe: Klein
+HG: 1/4
+status: WIP
 ---
 # [Derro](3-Mechanics\CLI\bestiary\aberration/derro-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 91*  

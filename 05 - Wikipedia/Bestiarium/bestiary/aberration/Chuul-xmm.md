@@ -20,6 +20,7 @@ Habitat:
 Typ: Aberration
 Größe: Groß
 HG: 4
+status: WIP
 ---
 # [Chuul](3-Mechanics\CLI\bestiary\aberration/chuul-xmm.md)
 *Source: Monster Manual (2024) p. 71. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

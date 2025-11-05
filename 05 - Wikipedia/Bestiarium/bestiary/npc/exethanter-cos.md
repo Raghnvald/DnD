@@ -10,6 +10,12 @@ statblock: inline
 statblock-link: "#^statblock"
 aliases:
   - Exethanter
+Typ: Untoter
+Größe: Mittelgroß
+HG: 10
+Habitat:
+  - /
+status: WIP
 ---
 # [Exethanter](3-Mechanics\CLI\bestiary\npc/exethanter-cos.md)
 *Source: Curse of Strahd p. 189*  

@@ -12,6 +12,9 @@ statblock-link: "#^statblock"
 aliases:
   - Derro Savant
 Typ: Aberration (Zauberer)
+Größe: Klein
+HG: 3
+status: WIP
 ---
 # [Derro Savant](3-Mechanics\CLI\bestiary\aberration/derro-savant-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 92*  

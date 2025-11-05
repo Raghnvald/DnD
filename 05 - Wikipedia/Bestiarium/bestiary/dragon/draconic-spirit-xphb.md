@@ -10,6 +10,11 @@ statblock: inline
 statblock-link: "#^statblock"
 aliases:
   - Draconic Spirit
+Typ: Drache
+Größe: Groß
+status: WIP
+Habitat:
+  - /
 ---
 # [Draconic Spirit](3-Mechanics\CLI\bestiary\dragon/draconic-spirit-xphb.md)
 *Source: Player's Handbook (2024) p. 325*  

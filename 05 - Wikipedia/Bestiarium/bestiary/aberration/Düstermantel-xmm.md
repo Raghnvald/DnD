@@ -12,6 +12,8 @@ statblock-link: "#^statblock"
 aliases:
   - Darkmantle
 Typ: Aberration
+Größe: Klein
+HG: 1/2
 ---
 # [Darkmantle](3-Mechanics\CLI\bestiary\aberration/darkmantle-xmm.md)
 *Source: Monster Manual (2024) p. 90. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

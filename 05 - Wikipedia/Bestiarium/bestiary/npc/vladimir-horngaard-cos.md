@@ -10,6 +10,12 @@ statblock: inline
 statblock-link: "#^statblock"
 aliases:
   - Vladimir Horngaard
+Typ: Untoter
+Größe: Mittelgroß
+HG: 7
+Habitat:
+  - Stadt
+status: WIP
 ---
 # [Vladimir Horngaard](3-Mechanics\CLI\bestiary\npc/vladimir-horngaard-cos.md)
 *Source: Curse of Strahd p. 241*  

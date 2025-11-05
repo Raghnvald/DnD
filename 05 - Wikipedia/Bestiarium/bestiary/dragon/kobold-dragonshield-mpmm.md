@@ -14,6 +14,9 @@ statblock: inline
 statblock-link: "#^statblock"
 aliases:
   - Kobold Dragonshield
+Typ: Drache
+Größe: Klein
+HG: 1
 ---
 # [Kobold Dragonshield](3-Mechanics\CLI\bestiary\dragon/kobold-dragonshield-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 163*  

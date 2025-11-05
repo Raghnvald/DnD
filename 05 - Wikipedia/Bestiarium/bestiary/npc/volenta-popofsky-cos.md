@@ -10,6 +10,7 @@ statblock: inline
 statblock-link: "#^statblock"
 aliases:
   - Volenta Popofsky
+status: WIP
 ---
 # [Volenta Popofsky](3-Mechanics\CLI\bestiary\npc/volenta-popofsky-cos.md)
 *Source: Curse of Strahd p. 93*  

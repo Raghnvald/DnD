@@ -10,6 +10,12 @@ statblock: inline
 statblock-link: "#^statblock"
 aliases:
   - Zombie Plague Spreader
+Typ: Untoter
+Größe: Mittelgroß
+HG: 4
+Habitat:
+  - /
+status: WIP
 ---
 # [Zombie Plague Spreader](3-Mechanics\CLI\bestiary\undead/zombie-plague-spreader-vrgr.md)
 *Source: Van Richten's Guide to Ravenloft p. 255*  

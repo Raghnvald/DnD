@@ -5,7 +5,7 @@ Bezeichnung: Chuul
 Typ: Aberration
 Größe: Groß
 HG: 4
-status:
+status: WIP
 image:
 tags:
   - Monster/Größe/Groß

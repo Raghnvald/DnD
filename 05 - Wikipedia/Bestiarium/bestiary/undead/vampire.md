@@ -11,6 +11,12 @@ statblock: inline
 statblock-link: "#^statblock"
 aliases:
   - Vampire
+Typ: Untoter (Gestaltwandler)
+Größe: Mittelgroß
+HG: 13
+Habitat:
+  - Stadt
+status: WIP
 ---
 # [Vampire](3-Mechanics\CLI\bestiary\undead/vampire.md)
 *Source: Monster Manual p. 297. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  

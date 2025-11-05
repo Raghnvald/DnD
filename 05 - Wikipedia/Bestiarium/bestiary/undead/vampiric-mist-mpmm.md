@@ -18,6 +18,10 @@ statblock: inline
 statblock-link: "#^statblock"
 aliases:
   - Vampiric Mist
+Typ: Untoter
+Größe: Mittelgroß
+HG: 3
+status: WIP
 ---
 # [Vampiric Mist](3-Mechanics\CLI\bestiary\undead/vampiric-mist-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 250*  

@@ -13,6 +13,11 @@ statblock-link: "#^statblock"
 aliases:
   - Alhoon
 Typ: Untoter
+status: WIP
+Größe: Mittelgroß
+HG: 10
+Habitat:
+  - Unterreich
 ---
 # [Alhoon](3-Mechanics\CLI\bestiary\undead/alhoon-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 43*  

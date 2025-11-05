@@ -13,6 +13,7 @@ aliases:
 Größe: Groß
 HG: 10
 Typ: Aberration
+status: WIP
 ---
 # [Cloaker Mutate](3-Mechanics\CLI\bestiary\aberration/cloaker-mutate-pabtso.md)
 *Source: Phandelver and Below: The Shattered Obelisk p. 212*  
