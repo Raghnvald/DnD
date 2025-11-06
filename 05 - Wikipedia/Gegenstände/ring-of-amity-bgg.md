@@ -6,7 +6,7 @@ tags:
 - Quelle/5e/bgg
 - Gegenstand/item/attunement/required
 - Gegenstand/item/rarity/very-rare
-- Gegenstand/item/wondrous/ring
+- Gegenstand/wundersam/Ring
 aliases: 
 - "Ring of Amity"
 ---

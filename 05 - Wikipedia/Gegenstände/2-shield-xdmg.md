@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - Quelle/5e/xdmg
 - Gegenstand/item/rarity/rare
-- Gegenstand/item/shield/
+- Gegenstand/Rüstung/Schild/
 aliases: 
 - "+2 Shield"
 ---

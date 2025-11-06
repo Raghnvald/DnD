@@ -5,7 +5,7 @@ tags:
   - Quelle/5e/bgdia
   - Gegenstand/item/attunement/required
   - Gegenstand/item/rarity/legendary
-  - Gegenstand/item/shield/
+  - Gegenstand/Rüstung/Schild/
 aliases:
   - Shield of the Hidden Lord
 ---

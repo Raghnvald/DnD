@@ -4,7 +4,7 @@ cssclasses:
 tags:
   - Quelle/5e/vrgr
   - Gegenstand/item/attunement/required
-  - Gegenstand/item/rarity/uncommon
+  - Gegenstand/Seltenheit/ungewöhnlich
 aliases:
   - Harkon's Bite
 ---

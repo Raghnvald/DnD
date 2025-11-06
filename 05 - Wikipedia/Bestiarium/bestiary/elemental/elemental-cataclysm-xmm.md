@@ -12,6 +12,9 @@ statblock: inline
 statblock-link: "#^statblock"
 aliases:
   - Elemental Cataclysm
+Typ: Elementar (Titan)
+Größe: Gigantisch
+HG: 22
 ---
 # [Elemental Cataclysm](3-Mechanics\CLI\bestiary\elemental/elemental-cataclysm-xmm.md)
 *Source: Monster Manual (2024) p. 111*  

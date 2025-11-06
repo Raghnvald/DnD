@@ -10,7 +10,7 @@ image:
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Unterreich
-  - Quelle/5e/Monster_Manual
+  - Quelle/5e/mm
   - Monster/Typ/Aberration
 aliases:
   - Chuul

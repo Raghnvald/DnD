@@ -11,7 +11,7 @@ tags:
   - Monster/Größe/Riesig
   - Monster/Habitat/Berg
   - Monster/Habitat/Unterreich
-  - Quelle/5e/Monster_Manual
+  - Quelle/5e/mm
   - Monster/Typ/Riese
 aliases:
   - Fire Giant

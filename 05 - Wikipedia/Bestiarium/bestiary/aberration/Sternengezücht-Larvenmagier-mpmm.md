@@ -3,8 +3,8 @@ cssclasses:
   - json5e-monster
 tags:
   - Quelle/5e/mpmm
-  - Monster/cr/16
-  - Monster/environment/mountain
+  - Monster/HG/16
+  - Monster/Habitat/Berg
   - Monster/Größe/Mittelgroß
   - Monster/Typ/Aberration
 statblock: inline

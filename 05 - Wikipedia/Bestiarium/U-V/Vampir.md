@@ -10,7 +10,7 @@ Habitat:
   - Unterreich
 status: WIP
 image:
-tags: [Monster/Größe/Klein, Monster/Größe/Mittelgroß, Quelle/5e/Monster_Manual]
+tags: [Monster/Größe/Klein, Monster/Größe/Mittelgroß, Quelle/5e/mm]
 aliases: [Vampire, Vampire Familiar, Vampire Nightbringer, Vampire Spawn, Vampire Umbral Lord]
 ---
 # Vampire (2014)

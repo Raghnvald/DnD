@@ -5,7 +5,7 @@ tags:
   - Quelle/5e/tce
   - Gegenstand/item/attunement/required
   - Gegenstand/item/gear/instrument
-  - Gegenstand/item/rarity/uncommon
+  - Gegenstand/Seltenheit/ungewöhnlich
 aliases:
   - +1 Rhythm-Maker's Drum
 ---

@@ -14,7 +14,7 @@ aliases:
 - **Kosten**: 4.000 Goldmünzen
 - **Gewicht**: 2,5 kg.
 
-Wenn in dieser kupfernen Feuerschale ein Feuer brennt, kannst du als Aktion das Befehlswort für die Feuerschale aussprechen und einen [Feuerelementar](Feuerelementar.md) beschwören, als hättest du den Zauber [Elementar beschwören](Elementar-beschwören.md) gewirkt. Die Feuerschale kann erst im nächsten Morgengrauen wieder auf diese Weise verwendet werden.
+Wenn in dieser kupfernen Feuerschale ein Feuer brennt, kannst du als Aktion das Befehlswort für die Feuerschale aussprechen und einen [Feuerelementar-old](Feuerelementar-old.md) beschwören, als hättest du den Zauber [Elementar beschwören](Elementar-beschwören.md) gewirkt. Die Feuerschale kann erst im nächsten Morgengrauen wieder auf diese Weise verwendet werden.
 
 Die Feuerschale wiegt 2,5 Kilogramm.
 

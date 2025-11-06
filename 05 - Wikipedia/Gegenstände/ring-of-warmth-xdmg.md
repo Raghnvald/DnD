@@ -4,8 +4,8 @@ cssclasses:
 tags:
   - Quelle/5e/xdmg
   - Gegenstand/item/attunement/required
-  - Gegenstand/item/rarity/uncommon
-  - Gegenstand/item/wondrous/ring
+  - Gegenstand/Seltenheit/ungewöhnlich
+  - Gegenstand/wundersam/Ring
 aliases:
   - Ring of Warmth
 ---

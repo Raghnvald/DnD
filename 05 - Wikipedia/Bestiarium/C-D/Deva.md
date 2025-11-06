@@ -2,7 +2,7 @@
 cssclasses: json5e-monster
 tags:
   - Monster/Größe/Mittelgroß
-  - Quelle/5e/Monster_Manual
+  - Quelle/5e/mm
   - Monster/Typ/Himmlische
 aliases:
   - Deva

@@ -8,7 +8,7 @@ tags:
   - Monster/Habitat/Stadt
   - Monster/Habitat/Wald
   - Monster/Habitat/Wüste
-  - Quelle/5e/Monster_Manual
+  - Quelle/5e/mm
   - Monster/Typ/Humanoid/jede-rasse
 aliases:
   - Bandit Captain

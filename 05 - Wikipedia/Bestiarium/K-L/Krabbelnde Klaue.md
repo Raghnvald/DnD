@@ -9,7 +9,7 @@ Habitat:
   - Unterreich
 status: completed
 image:
-tags: [Quelle/5e/Monster_Manual]
+tags: [Quelle/5e/mm]
 aliases: [Crawling Claw]
 ---
 # Krabbelnde Klaue (2014)

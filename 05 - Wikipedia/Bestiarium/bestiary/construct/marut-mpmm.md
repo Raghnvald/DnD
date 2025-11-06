@@ -3,7 +3,7 @@ cssclasses:
   - json5e-monster
 tags:
   - Quelle/5e/mpmm
-  - Monster/cr/25
+  - Monster/HG/25
   - Monster/Größe/Groß
   - Monster/Typ/Konstrukt/inevitable
 statblock: inline

@@ -3,10 +3,10 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/xdmg
-  - Gegenstand/item/armor/heavy
-  - Gegenstand/item/armor/light
-  - Gegenstand/item/armor/medium
-  - Gegenstand/item/rarity/common
+  - Gegenstand/Rüstung/Schwer
+  - Gegenstand/Rüstung/Leicht
+  - Gegenstand/Rüstung/Mittel
+  - Gegenstand/Seltenheit/gewöhnlich
   - Gegenstand/item/wondrous/generic-variant
 aliases:
   - Smoldering Armor

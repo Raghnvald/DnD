@@ -3,9 +3,9 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/xdmg
-  - Gegenstand/item/armor/heavy
-  - Gegenstand/item/armor/medium
-  - Gegenstand/item/rarity/uncommon
+  - Gegenstand/Rüstung/Schwer
+  - Gegenstand/Rüstung/Mittel
+  - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/item/wondrous/generic-variant
 aliases:
   - Adamantine Armor

@@ -4,7 +4,7 @@ cssclasses:
 - json5e-item
 tags:
 - Quelle/5e/bgg
-- Gegenstand/item/armor/medium
+- Gegenstand/Rüstung/Mittel
 - Gegenstand/item/attunement/required
 - Gegenstand/item/rarity/legendary
 aliases: 

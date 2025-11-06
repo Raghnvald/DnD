@@ -8,7 +8,7 @@ HG: 10
 Habitat: Planar (LimbosWenn))
 status: WIP
 image: Death-Slaad-2024.webp
-tags: [Quelle/5e/Monster_Manual]
+tags: [Quelle/5e/mm]
 aliases: [Death Slaad]
 ---
 # Todesslaad

@@ -11,7 +11,7 @@ tags:
   - Monster/Größe/Riesig
   - Monster/Habitat/Arktis
   - Monster/Habitat/Berg
-  - Quelle/5e/Monster_Manual
+  - Quelle/5e/mm
   - Monster/Typ/Riese
 aliases:
   - Frost Giant

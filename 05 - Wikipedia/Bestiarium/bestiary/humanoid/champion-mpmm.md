@@ -3,9 +3,9 @@ cssclasses:
   - json5e-monster
 tags:
   - Quelle/5e/mpmm
-  - Monster/cr/9
-  - Monster/environment/desert
-  - Monster/environment/urban
+  - Monster/HG/9
+  - Monster/Habitat/Wüste
+  - Monster/Habitat/Stadt
   - Monster/Größe/Mittelgroß
   - Monster/Typ/Humanoid
 statblock: inline

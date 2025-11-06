@@ -8,7 +8,7 @@ HG: 1/8
 Habitat: Planar (Limbo)
 status: WIP
 image: Slaad-Tadpole-2024.webp
-tags: [Quelle/5e/Monster_Manual]
+tags: [Quelle/5e/mm]
 aliases: [Slaad Tadpole]
 ---
 # Slaad-Kaulquappe

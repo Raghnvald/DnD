@@ -3,7 +3,7 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/bgdia
-  - Gegenstand/item/armor/heavy
+  - Gegenstand/Rüstung/Schwer
   - Gegenstand/item/rarity/legendary
 aliases:
   - Obsidian Flint Dragon Plate

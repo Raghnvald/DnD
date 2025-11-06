@@ -1,7 +1,7 @@
 ---
 cssclasses: json5e-monster
 tags:
-  - Quelle/5e/Monster_Manual
+  - Quelle/5e/mm
   - Monster/Größe/Groß
   - Monster/Typ/Unhold/Teufel
 aliases:

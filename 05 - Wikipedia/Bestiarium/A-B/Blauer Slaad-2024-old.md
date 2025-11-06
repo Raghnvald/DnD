@@ -8,7 +8,7 @@ HG: 7
 Habitat: Planar (Limbo)
 status: WIP
 image: Blue-Slaad-2024.webp
-tags: [Quelle/5e/Monster_Manual]
+tags: [Quelle/5e/mm]
 aliases: [Blue Slaad]
 ---
 # Blauer Slaad

@@ -5,8 +5,8 @@ cssclasses:
 tags:
 - Quelle/5e/ggr
 - Gegenstand/item/attunement/required
-- Gegenstand/item/rarity/uncommon
-- Gegenstand/item/wondrous/ring
+- Gegenstand/Seltenheit/ungewöhnlich
+- Gegenstand/wundersam/Ring
 aliases: 
 - "Izzet Guild Signet"
 ---

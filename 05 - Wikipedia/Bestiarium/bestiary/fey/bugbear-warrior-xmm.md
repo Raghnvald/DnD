@@ -3,12 +3,12 @@ cssclasses:
   - json5e-monster
 tags:
   - Quelle/5e/xmm
-  - Monster/cr/1
-  - Monster/environment/feywild
-  - Monster/environment/forest
-  - Monster/environment/grassland
-  - Monster/environment/planar
-  - Monster/environment/underdark
+  - Monster/HG/1
+  - Monster/Habitat/feywild
+  - Monster/Habitat/Wald
+  - Monster/Habitat/Grasland
+  - Monster/Habitat/planar
+  - Monster/Habitat/Unterreich
   - Monster/Größe/Mittelgroß
   - Monster/Typ/Fee/Goblinoid
 statblock: inline

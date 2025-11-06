@@ -43,7 +43,7 @@ $\quad$ Die Illusion dauert an, bis die Karte bewegt oder die Illusion vertriebe
 | 22    | Pik Neun    | [Troll](D&D/05%20-%20Wikipedia/Bestiarium/S-T/Troll.md)                                                         |
 | 23    | Pik Acht    | [Hobgoblin](Humanoide/Hobgoblin.md)                                              |
 | 24    | Pik Zwei    | [Goblin (Legacy)](Goblin%20(Legacy).md)                                                    |
-| 25    | Kreuz Ass   | [Eisengolem](Eisengolem.md)                                           |
+| 25    | Kreuz Ass   | [Eisengolem](D&D/05%20-%20Wikipedia/Bestiarium/E-F/Eisengolem.md)                                           |
 | 26    | Kreuz König | [Banditenhauptmann](Banditenhauptmann.md) und drei [Banditen](D&D/05%20-%20Wikipedia/Bestiarium/A-B/Bandit.md) |
 | 27    | Kreuz Dame  | [Erinnyen](Erinnyen.md)                                                            |
 | 28    | Kreuz Bube  | [Berserker](D&D/05%20-%20Wikipedia/Bestiarium/A-B/Berserker.md)                                              |

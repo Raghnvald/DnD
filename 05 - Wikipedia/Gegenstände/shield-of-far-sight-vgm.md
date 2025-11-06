@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - Quelle/5e/vgm
 - Gegenstand/item/rarity/rare
-- Gegenstand/item/shield/
+- Gegenstand/Rüstung/Schild/
 aliases: 
 - "Shield of Far Sight"
 ---

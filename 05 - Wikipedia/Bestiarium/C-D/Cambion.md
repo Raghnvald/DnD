@@ -7,7 +7,7 @@ status:
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Jedes
-  - Quelle/5e/Monster_Manual
+  - Quelle/5e/mm
   - Monster/Typ/Unhold
 aliases:
   - Cambion

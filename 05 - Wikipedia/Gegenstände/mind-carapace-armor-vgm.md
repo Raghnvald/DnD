@@ -4,9 +4,9 @@ cssclasses:
 - json5e-item
 tags:
 - Quelle/5e/vgm
-- Gegenstand/item/armor/heavy
+- Gegenstand/Rüstung/Schwer
 - Gegenstand/item/attunement/required
-- Gegenstand/item/rarity/uncommon
+- Gegenstand/Seltenheit/ungewöhnlich
 - Gegenstand/item/wondrous/generic-variant
 aliases: 
 - "Mind Carapace Armor"

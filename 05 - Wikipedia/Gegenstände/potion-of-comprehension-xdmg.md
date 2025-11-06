@@ -4,8 +4,8 @@ cssclasses:
 - json5e-item
 tags:
 - Quelle/5e/xdmg
-- Gegenstand/item/rarity/common
-- Gegenstand/item/wondrous/potion
+- Gegenstand/Seltenheit/gewöhnlich
+- Gegenstand/wundersam/Trank
 aliases: 
 - "Potion of Comprehension"
 ---

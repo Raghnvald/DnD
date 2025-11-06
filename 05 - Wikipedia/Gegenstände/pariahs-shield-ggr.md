@@ -6,7 +6,7 @@ tags:
 - Quelle/5e/ggr
 - Gegenstand/item/attunement/required
 - Gegenstand/item/rarity/rare
-- Gegenstand/item/shield/
+- Gegenstand/Rüstung/Schild/
 aliases: 
 - "Pariah's Shield"
 ---

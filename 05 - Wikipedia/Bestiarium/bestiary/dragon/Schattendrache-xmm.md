@@ -3,10 +3,10 @@ cssclasses:
   - json5e-monster
 tags:
   - Quelle/5e/xmm
-  - Monster/cr/13
-  - Monster/environment/planar
-  - Monster/environment/shadowfell
-  - Monster/environment/underdark
+  - Monster/HG/13
+  - Monster/Habitat/planar
+  - Monster/Habitat/shadowfell
+  - Monster/Habitat/Unterreich
   - Monster/Größe/Riesig
   - Monster/Typ/Drache
 statblock: inline

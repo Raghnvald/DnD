@@ -9,7 +9,7 @@ tags:
 - Gegenstand/item/age/renaissance
 - Gegenstand/item/gear/ammunition
 - Gegenstand/item/gear/ammunition-firearm
-- Gegenstand/item/rarity/uncommon
+- Gegenstand/Seltenheit/ungewöhnlich
 - Gegenstand/item/tier/minor
 - Gegenstand/item/wondrous/generic-variant
 aliases: 

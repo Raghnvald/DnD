@@ -3,11 +3,11 @@ cssclasses:
   - json5e-monster
 tags:
   - Quelle/5e/xmm
-  - Monster/cr/5
-  - Monster/environment/planar
-  - Monster/environment/shadowfell
-  - Monster/environment/underdark
-  - Monster/Größe/small-or-medium
+  - Monster/HG/5
+  - Monster/Habitat/planar
+  - Monster/Habitat/shadowfell
+  - Monster/Habitat/Unterreich
+  - Monster/Größe/Klein-oder-Mittelgroß
   - Monster/Typ/Untote
 statblock: inline
 statblock-link: "#^statblock"

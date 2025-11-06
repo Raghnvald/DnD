@@ -3,7 +3,7 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/pabtso
-  - Gegenstand/item/rarity/common
+  - Gegenstand/Seltenheit/gewöhnlich
 aliases:
   - Mind Crystal (Subtle)
 ---

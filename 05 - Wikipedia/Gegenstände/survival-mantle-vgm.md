@@ -4,7 +4,7 @@ cssclasses:
 - json5e-item
 tags:
 - Quelle/5e/vgm
-- Gegenstand/item/armor/medium
+- Gegenstand/Rüstung/Mittel
 - Gegenstand/item/rarity/unknown
 aliases: 
 - "Survival Mantle"

@@ -4,7 +4,7 @@ Typ: Pflanze
 tags:
   - Monster/Größe/Riesig
   - Monster/Habitat/Wald
-  - Quelle/5e/Monster_Manual
+  - Quelle/5e/mm
   - Monster/Typ/Pflanze
 aliases:
   - Treant

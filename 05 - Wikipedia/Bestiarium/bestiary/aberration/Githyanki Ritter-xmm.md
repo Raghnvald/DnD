@@ -3,9 +3,9 @@ cssclasses:
   - json5e-monster
 tags:
   - Quelle/5e/xmm
-  - Monster/cr/8
-  - Monster/environment/astral
-  - Monster/environment/planar
+  - Monster/HG/8
+  - Monster/Habitat/astral
+  - Monster/Habitat/planar
   - Monster/Größe/Mittelgroß
   - Monster/Typ/Aberration/Gith
 statblock: inline

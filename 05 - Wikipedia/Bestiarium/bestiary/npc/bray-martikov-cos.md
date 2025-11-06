@@ -3,7 +3,7 @@ cssclasses:
   - json5e-monster
 tags:
   - Quelle/5e/cos
-  - Monster/cr/2
+  - Monster/HG/2
   - Monster/Größe/Klein
   - Monster/Typ/Humanoid/human
   - Monster/Typ/Humanoid/shapechanger

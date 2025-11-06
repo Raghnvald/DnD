@@ -9,7 +9,7 @@ status:
 image:
 tags:
   - Monster/Größe/Winzig
-  - Quelle/5e/Monster_Manual
+  - Quelle/5e/mm
   - Monster/Typ/Tier
 aliases:
   - Bat

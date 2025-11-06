@@ -4,7 +4,7 @@ cssclasses:
 tags:
   - Quelle/5e/xdmg
   - Gegenstand/item/attunement/required
-  - Gegenstand/item/rarity/uncommon
+  - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/item/wondrous/wand
 aliases:
   - +1 Wand of the War Mage

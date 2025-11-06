@@ -3,9 +3,9 @@ cssclasses:
   - json5e-monster
 tags:
   - Quelle/5e/xmm
-  - Monster/cr/16
-  - Monster/environment/planar
-  - Monster/environment/upper
+  - Monster/HG/16
+  - Monster/Habitat/planar
+  - Monster/Habitat/upper
   - Monster/Größe/Groß
   - Monster/Typ/Himmlische/Engel
 statblock: inline

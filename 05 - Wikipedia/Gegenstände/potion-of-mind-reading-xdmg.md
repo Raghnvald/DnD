@@ -4,7 +4,7 @@ cssclasses:
 tags:
   - Quelle/5e/xdmg
   - Gegenstand/item/rarity/rare
-  - Gegenstand/item/wondrous/potion
+  - Gegenstand/wundersam/Trank
 aliases:
   - Potion of Mind Reading
 ---

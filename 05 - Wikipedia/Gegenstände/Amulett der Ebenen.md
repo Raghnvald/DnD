@@ -5,7 +5,7 @@ Eigenschaften: erfordert Einstimmung
 Gew.: 0,5 kg
 Kst.: 160.000 GM
 tags:
-- Quelle/5e/Dungeon_Masters_Guide
+- Quelle/5e/dmg
 - Gegenstand/wundersam
 - Gegenstand/Seltenheit/sehr_selten
 - Gegenstand/Einstimmung
@@ -19,7 +19,7 @@ aliases:
 _Klassen:_ n/v
 _Unterklassen:_  n/v
 
-_Quellen:_ Spielleiterhandbuch
+*Quellen: Spielleiterhandbuch S. 150. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 - **Eigenschaften**: erfordert Einstimmung
 - **Gewicht**: 0.5 kg.

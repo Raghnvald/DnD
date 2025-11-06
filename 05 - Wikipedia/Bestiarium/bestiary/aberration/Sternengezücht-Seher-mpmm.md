@@ -3,10 +3,10 @@ cssclasses:
   - json5e-monster
 tags:
   - Quelle/5e/mpmm
-  - Monster/cr/13
-  - Monster/environment/mountain
-  - Monster/environment/swamp
-  - Monster/environment/urban
+  - Monster/HG/13
+  - Monster/Habitat/Berg
+  - Monster/Habitat/Sumpf
+  - Monster/Habitat/Stadt
   - Monster/Größe/Mittelgroß
   - Monster/Typ/Aberration
 statblock: inline

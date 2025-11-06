@@ -1,5 +1,5 @@
 ---
-tags: [Quelle/5e/Monster_Manual]
+tags: [Quelle/5e/mm]
 ---
 ```base
 views:

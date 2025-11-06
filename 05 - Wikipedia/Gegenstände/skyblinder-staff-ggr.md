@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - Quelle/5e/ggr
 - Gegenstand/item/attunement/required
-- Gegenstand/item/rarity/uncommon
+- Gegenstand/Seltenheit/ungewöhnlich
 - Gegenstand/item/weapon/simple
 aliases: 
 - "Skyblinder Staff"

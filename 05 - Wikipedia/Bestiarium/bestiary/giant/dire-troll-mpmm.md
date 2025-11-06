@@ -3,12 +3,12 @@ cssclasses:
   - json5e-monster
 tags:
   - Quelle/5e/mpmm
-  - Monster/cr/13
-  - Monster/environment/arctic
-  - Monster/environment/forest
-  - Monster/environment/hill
-  - Monster/environment/mountain
-  - Monster/environment/underdark
+  - Monster/HG/13
+  - Monster/Habitat/Arktis
+  - Monster/Habitat/Wald
+  - Monster/Habitat/Hügel
+  - Monster/Habitat/Berg
+  - Monster/Habitat/Unterreich
   - Monster/Größe/Riesig
   - Monster/Typ/Riese
 statblock: inline

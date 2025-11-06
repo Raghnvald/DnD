@@ -4,9 +4,9 @@ cssclasses:
 - json5e-item
 tags:
 - Quelle/5e/dmg
-- Gegenstand/item/rarity/common
+- Gegenstand/Seltenheit/gewöhnlich
 - Gegenstand/item/tier/minor
-- Gegenstand/item/wondrous/potion
+- Gegenstand/wundersam/Trank
 aliases: 
 - "Potion of Healing"
 ---

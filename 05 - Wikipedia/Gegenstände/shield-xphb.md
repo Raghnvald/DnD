@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - Quelle/5e/xphb
 - Gegenstand/item/rarity/none
-- Gegenstand/item/shield/
+- Gegenstand/Rüstung/Schild/
 aliases: 
 - "Shield"
 ---

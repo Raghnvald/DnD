@@ -6,7 +6,7 @@ tags:
   - Gegenstand/item/age/futuristic
   - Gegenstand/item/gear/ammunition
   - Gegenstand/item/gear/ammunition-firearm
-  - Gegenstand/item/rarity/common
+  - Gegenstand/Seltenheit/gewöhnlich
   - Gegenstand/item/wondrous/generic-variant
 aliases:
   - Walloping Ammunition

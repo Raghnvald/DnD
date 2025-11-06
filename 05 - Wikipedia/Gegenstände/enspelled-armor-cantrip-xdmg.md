@@ -3,11 +3,11 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/xdmg
-  - Gegenstand/item/armor/heavy
-  - Gegenstand/item/armor/light
-  - Gegenstand/item/armor/medium
+  - Gegenstand/Rüstung/Schwer
+  - Gegenstand/Rüstung/Leicht
+  - Gegenstand/Rüstung/Mittel
   - Gegenstand/item/attunement/required
-  - Gegenstand/item/rarity/uncommon
+  - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/item/wondrous/generic-variant
 aliases:
   - Enspelled Armor (Cantrip)

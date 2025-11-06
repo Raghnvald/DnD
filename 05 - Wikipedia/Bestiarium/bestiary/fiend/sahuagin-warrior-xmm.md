@@ -3,9 +3,9 @@ cssclasses:
   - json5e-monster
 tags:
   - Quelle/5e/xmm
-  - Monster/cr/1-2
-  - Monster/environment/coastal
-  - Monster/environment/underwater
+  - Monster/HG/1-2
+  - Monster/Habitat/Küste
+  - Monster/Habitat/underwater
   - Monster/Größe/Mittelgroß
   - Monster/Typ/Unhold
 statblock: inline

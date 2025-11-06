@@ -8,7 +8,7 @@ HG: 8
 status: WIP
 image:
 tags:
-  - Quelle/5e/Monster_Manual
+  - Quelle/5e/mm
 aliases:
   - Vampire Nightbringer
 ---

@@ -3,11 +3,11 @@ cssclasses:
   - json5e-monster
 tags:
   - Quelle/5e/xmm
-  - Monster/cr/11
-  - Monster/environment/coastal
-  - Monster/environment/planar
-  - Monster/environment/underwater
-  - Monster/environment/water
+  - Monster/HG/11
+  - Monster/Habitat/Küste
+  - Monster/Habitat/planar
+  - Monster/Habitat/underwater
+  - Monster/Habitat/water
   - Monster/Größe/Groß
   - Monster/Typ/Elementar/genie
 statblock: inline

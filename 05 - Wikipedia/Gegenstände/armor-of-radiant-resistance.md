@@ -4,9 +4,9 @@ cssclasses:
 - json5e-item
 tags:
 - Quelle/5e/dmg
-- Gegenstand/item/armor/heavy
-- Gegenstand/item/armor/light
-- Gegenstand/item/armor/medium
+- Gegenstand/Rüstung/Schwer
+- Gegenstand/Rüstung/Leicht
+- Gegenstand/Rüstung/Mittel
 - Gegenstand/item/attunement/required
 - Gegenstand/item/rarity/rare
 - Gegenstand/item/tier/major

@@ -4,7 +4,7 @@ tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Grasland
   - Monster/Habitat/Hügel
-  - Quelle/5e/Monster_Manual
+  - Quelle/5e/mm
   - Monster/Typ/Tier
 aliases:
   - Axe Beak

@@ -4,7 +4,7 @@ cssclasses:
 tags:
   - Quelle/5e/cos
   - Gegenstand/item/rarity/rare
-  - Gegenstand/item/shield/
+  - Gegenstand/Rüstung/Schild/
   - Gegenstand/item/tier/major
 aliases:
   - Shield of the Silver Dragon

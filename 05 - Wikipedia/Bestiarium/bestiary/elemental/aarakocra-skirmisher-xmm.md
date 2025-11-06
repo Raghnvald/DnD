@@ -3,16 +3,18 @@ cssclasses:
   - json5e-monster
 tags:
   - Quelle/5e/xmm
-  - Monster/cr/1-4
-  - Monster/environment/air
-  - Monster/environment/mountain
-  - Monster/environment/planar
+  - Monster/HG/1-4
+  - Monster/Habitat/air
+  - Monster/Habitat/Berg
+  - Monster/Habitat/planar
   - Monster/Größe/Mittelgroß
   - Monster/Typ/Elementar
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
   - Aarakocra Skirmisher
+Typ: Elementar
+Größe: Mittelgroß
 ---
 # [Aarakocra Skirmisher](3-Mechanics\CLI\bestiary\elemental/aarakocra-skirmisher-xmm.md)
 *Source: Monster Manual (2024) p. 10*  

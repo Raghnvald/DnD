@@ -13,7 +13,7 @@ aliases:
 - **Kosten**: ⏤
 - **Gewicht**: 1,5 kg.
 
-Wenn diese Schale mit Wasser gefüllt ist, kannst du als Aktion das Befehlswort für die Schale aussprechen und einen [Wasserelementar](Wasserelementar.md) beschwören, als hättest du den Zauber [Elementar beschwören](Elementar-beschwören.md) gewirkt. 
+Wenn diese Schale mit Wasser gefüllt ist, kannst du als Aktion das Befehlswort für die Schale aussprechen und einen [Wasserelementar](D&D/05%20-%20Wikipedia/Bestiarium/W-X/Wasserelementar.md) beschwören, als hättest du den Zauber [Elementar beschwören](Elementar-beschwören.md) gewirkt. 
 
 Die Schale kann erst im nächsten Morgengrauen wieder auf diese Weise verwendet werden.
 

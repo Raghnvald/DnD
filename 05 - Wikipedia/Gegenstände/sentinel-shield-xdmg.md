@@ -3,8 +3,8 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/xdmg
-  - Gegenstand/item/rarity/uncommon
-  - Gegenstand/item/shield/
+  - Gegenstand/Seltenheit/ungewöhnlich
+  - Gegenstand/Rüstung/Schild/
 aliases:
   - Sentinel Shield
 ---

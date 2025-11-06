@@ -3,7 +3,7 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/xdmg
-  - Gegenstand/item/armor/heavy
+  - Gegenstand/Rüstung/Schwer
   - Gegenstand/item/attunement/required
   - Gegenstand/item/rarity/legendary
 aliases:

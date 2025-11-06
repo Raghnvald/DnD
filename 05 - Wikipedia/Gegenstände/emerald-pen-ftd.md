@@ -4,7 +4,7 @@ cssclasses:
 - json5e-item
 tags:
 - Quelle/5e/ftd
-- Gegenstand/item/rarity/uncommon
+- Gegenstand/Seltenheit/ungewöhnlich
 aliases: 
 - "Emerald Pen"
 ---

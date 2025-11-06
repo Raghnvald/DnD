@@ -4,7 +4,7 @@ cssclasses:
 tags:
   - Quelle/5e/xdmg
   - Gegenstand/item/attunement/required
-  - Gegenstand/item/rarity/common
+  - Gegenstand/Seltenheit/gewöhnlich
 aliases:
   - Dark Shard Amulet
 ---

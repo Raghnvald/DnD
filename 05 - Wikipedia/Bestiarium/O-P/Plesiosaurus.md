@@ -8,7 +8,7 @@ HG:
 status:
 image:
 tags:
-  - Quelle/5e/Monster_Manual
+  - Quelle/5e/mm
   - Monster/Habitat/Küste
   - Monster/Habitat/Unterwasser
   - Monster/Größe/Groß

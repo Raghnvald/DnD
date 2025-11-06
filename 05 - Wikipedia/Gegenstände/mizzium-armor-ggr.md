@@ -4,8 +4,8 @@ cssclasses:
 - json5e-item
 tags:
 - Quelle/5e/ggr
-- Gegenstand/item/armor/heavy
-- Gegenstand/item/armor/medium
+- Gegenstand/Rüstung/Schwer
+- Gegenstand/Rüstung/Mittel
 - Gegenstand/item/rarity/rare
 - Gegenstand/item/wondrous/generic-variant
 aliases: 

@@ -4,7 +4,7 @@ cssclasses:
 - json5e-item
 tags:
 - Quelle/5e/xphb
-- Gegenstand/item/armor/light
+- Gegenstand/Rüstung/Leicht
 - Gegenstand/item/rarity/none
 aliases: 
 - "Leather Armor"

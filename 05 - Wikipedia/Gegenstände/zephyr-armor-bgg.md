@@ -4,7 +4,7 @@ cssclasses:
 - json5e-item
 tags:
 - Quelle/5e/bgg
-- Gegenstand/item/armor/light
+- Gegenstand/Rüstung/Leicht
 - Gegenstand/item/attunement/required
 - Gegenstand/item/rarity/rare
 - Gegenstand/item/wondrous/generic-variant

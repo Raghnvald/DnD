@@ -5,8 +5,8 @@ cssclasses:
 ---
 # Index of Ooze
 
-- [Black Pudding](black-pudding.md)
-- [Gelatinous Cube](gelatinous-cube.md)
+- [Black Pudding](D&D/05%20-%20Wikipedia/Bestiarium/bestiary/ooze/Schwarzer%20Blob.md)
+- [Gelatinous Cube](D&D/05%20-%20Wikipedia/Bestiarium/bestiary/ooze/Gallertwürfel.md)
 - [Gray Ooze (Psychic)](gray-ooze-psychic.md)
-- [Gray Ooze](gray-ooze.md)
-- [Ochre Jelly](ochre-jelly.md)
+- [Gray Ooze](D&D/05%20-%20Wikipedia/Bestiarium/bestiary/ooze/Grauschlick.md)
+- [Ochre Jelly](Ockergallerte.md)

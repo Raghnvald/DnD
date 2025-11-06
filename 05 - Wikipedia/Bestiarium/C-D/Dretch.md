@@ -7,7 +7,7 @@ status:
 tags:
   - Monster/Größe/Klein
   - Monster/Habitat/Planar/Abyss
-  - Quelle/5e/Monster_Manual
+  - Quelle/5e/mm
   - Monster/Typ/Unhold/Dämon
 aliases:
   - Dretch

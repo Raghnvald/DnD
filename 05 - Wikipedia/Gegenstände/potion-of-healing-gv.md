@@ -4,7 +4,7 @@ cssclasses:
 tags:
   - Quelle/5e/dmg
   - Gegenstand/item/rarity/varies
-  - Gegenstand/item/wondrous/potion
+  - Gegenstand/wundersam/Trank
 aliases:
   - Potion of Healing (*)
 ---

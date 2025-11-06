@@ -3,7 +3,7 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/xdmg
-  - Gegenstand/item/armor/light
+  - Gegenstand/Rüstung/Leicht
   - Gegenstand/item/rarity/rare
 aliases:
   - Glamoured Studded Leather

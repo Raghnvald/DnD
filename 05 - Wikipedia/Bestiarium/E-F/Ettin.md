@@ -5,7 +5,7 @@ tags:
   - Monster/Habitat/Berg
   - Monster/Habitat/Hügel
   - Monster/Habitat/Unterreich
-  - Quelle/5e/Monster_Manual
+  - Quelle/5e/mm
   - Monster/Typ/Riese
 aliases:
   - Ettin

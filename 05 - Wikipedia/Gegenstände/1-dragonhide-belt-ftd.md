@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - Quelle/5e/ftd
 - Gegenstand/item/attunement/required
-- Gegenstand/item/rarity/uncommon
+- Gegenstand/Seltenheit/ungewöhnlich
 aliases: 
 - "+1 Dragonhide Belt"
 ---

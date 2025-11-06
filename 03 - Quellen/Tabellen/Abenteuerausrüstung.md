@@ -12,7 +12,7 @@ _Quellen:_ Spielerhandbuch
 | Gegenstand                                                                       |   Kosten |        Gewicht |
 | -------------------------------------------------------------------------------- | --------:| --------------:|
 | [[Abakus]]                                                                       |     2 GM |        1,0 kg. |
-| [[Alchemistenfeuer]]                                                             |    50 GM |        0,5 kg. |
+| [[Alchemistenfeuer-Fläschchen]]                                                             |    50 GM |        0,5 kg. |
 | [[Angelausrüstung]]                                                              |     1 GM |        2,0 kg. |
 | *Arkaner Fokus*                                                                  |          |                |
 | [[Kristall]]                                                                     |    10 GM |        1,5 kg. |

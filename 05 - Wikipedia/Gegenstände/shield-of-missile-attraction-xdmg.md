@@ -5,7 +5,7 @@ tags:
   - Quelle/5e/xdmg
   - Gegenstand/item/attunement/required
   - Gegenstand/item/rarity/rare
-  - Gegenstand/item/shield/
+  - Gegenstand/Rüstung/Schild/
 aliases:
   - Shield of Missile Attraction
 ---

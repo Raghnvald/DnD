@@ -3,7 +3,7 @@ cssclasses: json5e-monster
 Typ: Humanoid
 tags:
   - Monster/Größe/Mittelgroß
-  - Quelle/5e/Monster_Manual
+  - Quelle/5e/mm
   - Monster/Typ/Humanoid/Mensch
 aliases:
   - Half-Red Dragon Veteran

@@ -3,9 +3,9 @@ cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
 tags:
   - Quelle/5e/mpmm
-  - Monster/cr/5
-  - Monster/environment/swamp
-  - Monster/environment/urban
+  - Monster/HG/5
+  - Monster/Habitat/Sumpf
+  - Monster/Habitat/Stadt
   - Monster/Größe/Mittelgroß
   - Monster/Typ/Untote
 statblock: inline

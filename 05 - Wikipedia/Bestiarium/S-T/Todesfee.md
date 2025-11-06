@@ -9,7 +9,7 @@ Habitat: Jedes
 status:
 image:
 tags:
-  - Quelle/5e/Monster_Manual
+  - Quelle/5e/mm
   - Monster/Typ/Untote
 aliases:
   - Banshee

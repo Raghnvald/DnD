@@ -4,7 +4,7 @@ cssclasses:
 - json5e-item
 tags:
 - Quelle/5e/phb
-- Gegenstand/item/armor/medium
+- Gegenstand/Rüstung/Mittel
 - Gegenstand/item/rarity/none
 aliases: 
 - "Breastplate"

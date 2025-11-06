@@ -6,7 +6,7 @@ tags:
 - Quelle/5e/dmg
 - Gegenstand/item/rarity/legendary
 - Gegenstand/item/tier/major
-- Gegenstand/item/wondrous/ring
+- Gegenstand/wundersam/Ring
 aliases: 
 - "Ring of Three Wishes"
 ---

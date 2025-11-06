@@ -1,16 +1,18 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- Quelle/5e/ggr
-- Monster/cr/12
-- Monster/Größe/Mittelgroß
-- Monster/Typ/Elementar
+  - Quelle/5e/ggr
+  - Monster/HG/12
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/Elementar
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Arclight Phoenix
+  - Arclight Phoenix
+Typ: Elementar
+Größe: Mittelgroß
 ---
 # [Arclight Phoenix](3-Mechanics\CLI\bestiary\elemental/arclight-phoenix-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 193*  

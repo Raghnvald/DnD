@@ -4,8 +4,8 @@ cssclasses:
 tags:
   - Quelle/5e/pabtso
   - Gegenstand/item/attunement/required
-  - Gegenstand/item/rarity/uncommon
-  - Gegenstand/item/wondrous/ring
+  - Gegenstand/Seltenheit/ungewöhnlich
+  - Gegenstand/wundersam/Ring
 aliases:
   - Ring of the Orator
 ---

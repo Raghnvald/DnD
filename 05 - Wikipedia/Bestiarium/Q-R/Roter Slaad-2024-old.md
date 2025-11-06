@@ -8,7 +8,7 @@ HG: 5
 Habitat: Planar (Limbo)
 status: WIP
 image: red-slaad-2024.webp
-tags: [Quelle/5e/Monster_Manual]
+tags: [Quelle/5e/mm]
 aliases: [Red Slaad]
 ---
 # Roter Slaad

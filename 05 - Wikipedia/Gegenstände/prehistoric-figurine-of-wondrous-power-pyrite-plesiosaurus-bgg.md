@@ -4,7 +4,7 @@ cssclasses:
 - json5e-item
 tags:
 - Quelle/5e/bgg
-- Gegenstand/item/rarity/uncommon
+- Gegenstand/Seltenheit/ungewöhnlich
 aliases: 
 - "Prehistoric Figurine of Wondrous Power, Pyrite Plesiosaurus"
 ---

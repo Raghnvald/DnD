@@ -4,7 +4,7 @@ cssclasses:
 tags:
   - Quelle/5e/xdmg
   - Gegenstand/item/attunement/required
-  - Gegenstand/item/rarity/uncommon
+  - Gegenstand/Seltenheit/ungewöhnlich
 aliases:
   - Instrument of the Bards, Doss Lute
 ---

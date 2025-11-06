@@ -3,7 +3,7 @@ cssclasses: json5e-monster
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Wald
-  - Quelle/5e/Monster_Manual
+  - Quelle/5e/mm
   - Monster/Typ/Himmlische
 aliases:
   - Unicorn

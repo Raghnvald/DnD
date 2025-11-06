@@ -8,7 +8,7 @@ HG: 3
 status:
 image: token/Grell.webp
 tags:
-  - Quelle/5e/Monster_Manual
+  - Quelle/5e/mm
 aliases:
   - Grell
 ---

@@ -8,7 +8,7 @@ HG: 11
 status: WIP
 image:
 tags:
-  - Quelle/5e/Monster_Manual
+  - Quelle/5e/mm
   - Monster/Typ/Untote
 aliases:
   - Deathknight Aspriant

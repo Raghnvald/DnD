@@ -3,7 +3,7 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/tce
-  - Gegenstand/item/rarity/uncommon
+  - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/item/wondrous/tattoo
 aliases:
   - Spellwrought Tattoo (3rd Level)

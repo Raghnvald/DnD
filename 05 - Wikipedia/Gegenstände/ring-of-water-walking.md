@@ -4,9 +4,9 @@ cssclasses:
 - json5e-item
 tags:
 - Quelle/5e/dmg
-- Gegenstand/item/rarity/uncommon
+- Gegenstand/Seltenheit/ungewöhnlich
 - Gegenstand/item/tier/major
-- Gegenstand/item/wondrous/ring
+- Gegenstand/wundersam/Ring
 aliases: 
 - "Ring of Water Walking"
 ---

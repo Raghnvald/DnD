@@ -9,7 +9,7 @@ Habitat:
   - Planar (Untere Ebenen)
 status: WIP
 image: pictures/lich-2024.webp
-tags: [Quelle/5e/Monster_Manual]
+tags: [Quelle/5e/mm]
 aliases: [Lich]
 ---
 # Lich (2014)

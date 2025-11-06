@@ -4,7 +4,7 @@ Typ: Humanoid
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Unterreich
-  - Quelle/5e/Monster_Manual
+  - Quelle/5e/mm
   - Monster/Typ/Humanoid/Zwerg
 aliases:
   - Duergar

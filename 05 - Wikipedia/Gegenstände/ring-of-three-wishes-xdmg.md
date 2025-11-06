@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - Quelle/5e/xdmg
 - Gegenstand/item/rarity/legendary
-- Gegenstand/item/wondrous/ring
+- Gegenstand/wundersam/Ring
 aliases: 
 - "Ring of Three Wishes"
 ---

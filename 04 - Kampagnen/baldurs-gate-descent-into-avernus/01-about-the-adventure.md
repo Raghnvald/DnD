@@ -15,7 +15,7 @@ Use the first session of the game to help your players create their 1st-level ch
 
 ## Adventure Overview
 
-The holy city of Elturel has disappeared from the Forgotten Realms and descended into Avernus, the first layer of the Nine Hells. This event came about as the result of an infernal bargain between the archdevil Zariel, who rules Avernus, and the treacherous High Overseer of Elturel, [Thavius Kreeg](/3-Mechanics/CLI/bestiary/npc/thavius-kreeg-bgdia.md). Zariel is capturing cities and using their citizens as fodder in the ongoing conflict between demons and devils known as the Blood War. Next on Zariel's list of cities is Elturel's neighbor, Baldur's Gate. The characters can be the heroes who descend into Avernus, save Elturel from certain destruction, and prevent a similar fate from befalling Baldur's Gate.
+The holy city of Elturel has disappeared from the Forgotten Realms and descended into Avernus, the first layer of the Nine Hells. This event came about as the result of an infernal bargain between the archdevil Zariel, who rules Avernus, and the treacherous High Overseer of Elturel, [Thavius Kreeg](bestiary/npc/thavius-kreeg-bgdia.md). Zariel is capturing cities and using their citizens as fodder in the ongoing conflict between demons and devils known as the Blood War. Next on Zariel's list of cities is Elturel's neighbor, Baldur's Gate. The characters can be the heroes who descend into Avernus, save Elturel from certain destruction, and prevent a similar fate from befalling Baldur's Gate.
 
 ### Trouble in Baldur's Gate
 
@@ -37,7 +37,7 @@ If the characters wish to help Baldur's Gate further, they must journey to the N
 
 Chapter 2 opens with the characters' arrival in Elturel, which is anchored by enormous chains and trapped under the baleful light of the Companion. If the characters do nothing, the city will be pulled down into the River Styx and bound to the Nine Hells forever. [Lulu](/3-Mechanics/CLI/bestiary/npc/lulu-bgdia.md) tries her best to serve as the party's guide in Avernus, but the hollyphant's memories are fragmented. It becomes clear, however, that [Lulu](/3-Mechanics/CLI/bestiary/npc/lulu-bgdia.md) has a personal connection to Zariel, dating back to the archdevil's former angelic existence.
 
-![Diagram 0.1: Adventure Flowchart](/3-Mechanics/CLI/adventures/baldurs-gate-descent-into-avernus/img/000-qocvf-flowchart-0-1.webp#center)
+![Diagram 0.1: Adventure Flowchart](baldurs-gate-descent-into-avernus/img/000-qocvf-flowchart-0-1.webp#center)
 
 After scouring Elturel for survivors and clashing with the denizens of Avernus, the characters encounter the valiant [Ulder Ravengard](/3-Mechanics/CLI/bestiary/npc/ulder-ravengard-bgdia.md), who has been placed in the most unusual situation of defending a city he has long opposed. The beleaguered Ravengard urges the characters to do whatever they can to free Elturel and return what's left of it to Faerûn. To do so, they must scour Avernus for the means to destroy the Companion or break the enormous chains that shackle that city, as described in chapter 3.
 
@@ -49,7 +49,7 @@ The characters' success doesn't hinge on acquiring the [Sword of Zariel](/3-Mech
 
 As tempting as such pursuits can be, the characters must be careful, for devil deals, demon lords, and Tiamat's rage number among the multiverse's greatest threats. Also, Zariel herself might become cross with the characters for daring to meddle in her diabolical affairs. How the adventure concludes depends on the choices the characters make, the chaos they foment, and the deals they forge, as discussed in chapter 5.
 
-![](/3-Mechanics/CLI/adventures/baldurs-gate-descent-into-avernus/img/001-ud5xx-00-01.webp#center)
+![](baldurs-gate-descent-into-avernus/img/001-ud5xx-00-01.webp#center)
 
 ## Adventure Background
 

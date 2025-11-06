@@ -3,9 +3,9 @@ cssclasses:
   - json5e-monster
 tags:
   - Quelle/5e/xmm
-  - Monster/cr/1-4
-  - Monster/environment/underdark
-  - Monster/environment/urban
+  - Monster/HG/1-4
+  - Monster/Habitat/Unterreich
+  - Monster/Habitat/Stadt
   - Monster/Größe/Klein
   - Monster/Typ/Tier
 statblock: inline

@@ -8,7 +8,7 @@ HG: 8
 Habitat: Planar (Limbo)
 status: WIP
 image: Green-Slaad-2024.webp
-tags: [Quelle/5e/Monster_Manual]
+tags: [Quelle/5e/mm]
 aliases: [Green Slaad]
 ---
 # Grüner Slaad

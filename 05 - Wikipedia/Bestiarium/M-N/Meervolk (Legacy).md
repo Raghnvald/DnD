@@ -11,7 +11,7 @@ tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Küste
   - Monster/Habitat/Unterwasser
-  - Quelle/5e/Monster_Manual
+  - Quelle/5e/mm
   - Monster/Typ/Humanoid/Meervolk
 aliases:
   - Merfolk

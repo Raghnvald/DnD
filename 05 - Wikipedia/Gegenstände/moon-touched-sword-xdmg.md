@@ -3,7 +3,7 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/xdmg
-  - Gegenstand/item/rarity/common
+  - Gegenstand/Seltenheit/gewöhnlich
   - Gegenstand/item/weapon/martial
   - Gegenstand/item/weapon/melee
   - Gegenstand/item/wondrous/generic-variant

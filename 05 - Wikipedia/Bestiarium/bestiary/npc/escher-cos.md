@@ -4,7 +4,7 @@ prefer-view: edit-source read
 Bezeichnung: Escher
 tags:
   - Quelle/5e/cos
-  - Monster/cr/5
+  - Monster/HG/5
   - Monster/Größe/Mittelgroß
   - Monster/Typ/Untote
 statblock: inline

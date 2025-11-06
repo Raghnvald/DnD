@@ -3,7 +3,7 @@ cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
 tags:
   - Quelle/5e/xdmg
-  - Monster/cr/
+  - Monster/HG/
   - Monster/Größe/Mittelgroß
   - Monster/Typ/Untote
 statblock: inline

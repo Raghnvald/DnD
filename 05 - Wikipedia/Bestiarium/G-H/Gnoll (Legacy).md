@@ -1,6 +1,6 @@
 ---
 Typ: Humanoid
-tags: [Monster/Größe/Mittelgroß, Monster/Habitat/Grasland, Monster/Habitat/Hügel, Monster/Habitat/Wald, Monster/Habitat/Wüste, Quelle/5e/Monster_Manual, Monster/Typ/Humanoid/Gnoll]
+tags: [Monster/Größe/Mittelgroß, Monster/Habitat/Grasland, Monster/Habitat/Hügel, Monster/Habitat/Wald, Monster/Habitat/Wüste, Quelle/5e/mm, Monster/Typ/Humanoid/Gnoll]
 aliases: [Gnoll]
 ---
 # Gnoll

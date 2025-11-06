@@ -6,7 +6,7 @@ tags:
 - Quelle/5e/dmg
 - Gegenstand/item/attunement/required
 - Gegenstand/item/rarity/rare
-- Gegenstand/item/shield/
+- Gegenstand/Rüstung/Schild/
 - Gegenstand/item/tier/major
 aliases: 
 - "Shield of Missile Attraction"

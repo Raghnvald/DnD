@@ -6,7 +6,7 @@ prefer-view:
 type:
   - creature
 tags:
-  - Quelle/5e/Monster_Manual
+  - Quelle/5e/mm
   - Monster/Typ/Unhold/Teufel
   - Monster/Größe/Groß
   - Habitat/Planar/Untere Ebenen

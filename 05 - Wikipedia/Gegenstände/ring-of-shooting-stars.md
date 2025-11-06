@@ -7,7 +7,7 @@ tags:
 - Gegenstand/item/attunement/required
 - Gegenstand/item/rarity/very-rare
 - Gegenstand/item/tier/major
-- Gegenstand/item/wondrous/ring
+- Gegenstand/wundersam/Ring
 aliases: 
 - "Ring of Shooting Stars"
 ---

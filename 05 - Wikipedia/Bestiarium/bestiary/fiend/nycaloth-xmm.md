@@ -3,9 +3,9 @@ cssclasses:
   - json5e-monster
 tags:
   - Quelle/5e/xmm
-  - Monster/cr/9
-  - Monster/environment/gehenna
-  - Monster/environment/planar
+  - Monster/HG/9
+  - Monster/Habitat/gehenna
+  - Monster/Habitat/planar
   - Monster/Größe/Groß
   - Monster/Typ/Unhold/yugoloth
 statblock: inline

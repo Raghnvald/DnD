@@ -5,7 +5,7 @@ tags:
   - Quelle/5e/xdmg
   - Gegenstand/item/attunement/required
   - Gegenstand/item/rarity/very-rare
-  - Gegenstand/item/shield/
+  - Gegenstand/Rüstung/Schild/
 aliases:
   - Animated Shield
 ---

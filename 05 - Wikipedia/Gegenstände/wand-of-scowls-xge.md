@@ -3,7 +3,7 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/xge
-  - Gegenstand/item/rarity/common
+  - Gegenstand/Seltenheit/gewöhnlich
   - Gegenstand/item/tier/minor
   - Gegenstand/item/wondrous/wand
 aliases:

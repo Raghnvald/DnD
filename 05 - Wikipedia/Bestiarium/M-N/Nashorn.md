@@ -8,7 +8,7 @@ HG:
 status:
 image:
 tags:
-  - Quelle/5e/Monster_Manual
+  - Quelle/5e/mm
   - Monster/Habitat/Grasland
   - Monster/Größe/Groß
   - Monster/Typ/Tier

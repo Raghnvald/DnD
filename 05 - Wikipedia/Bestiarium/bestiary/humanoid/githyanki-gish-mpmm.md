@@ -3,10 +3,10 @@ cssclasses:
   - json5e-monster
 tags:
   - Quelle/5e/mpmm
-  - Monster/cr/10
-  - Monster/environment/desert
-  - Monster/environment/mountain
-  - Monster/environment/urban
+  - Monster/HG/10
+  - Monster/Habitat/Wüste
+  - Monster/Habitat/Berg
+  - Monster/Habitat/Stadt
   - Monster/Größe/Mittelgroß
   - Monster/Typ/Humanoid/gith
   - Monster/Typ/Humanoid/wizard

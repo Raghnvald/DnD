@@ -8,7 +8,7 @@ HG: 1/4
 status:
 image:
 tags:
-  - Quelle/5e/Monster_Manual
+  - Quelle/5e/mm
   - Monster/Typ/Tier
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Sumpf

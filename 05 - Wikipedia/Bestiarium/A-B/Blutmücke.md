@@ -11,7 +11,7 @@ tags:
   - Monster/Habitat/Unterreich
   - Monster/Habitat/Wald
   - Monster/Habitat/Wüste
-  - Quelle/5e/Monster_Manual
+  - Quelle/5e/mm
   - Monster/Typ/Tier
 aliases:
   - Stirge

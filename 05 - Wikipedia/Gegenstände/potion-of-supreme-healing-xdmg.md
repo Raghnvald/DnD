@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - Quelle/5e/xdmg
 - Gegenstand/item/rarity/very-rare
-- Gegenstand/item/wondrous/potion
+- Gegenstand/wundersam/Trank
 aliases: 
 - "Potion of Supreme Healing"
 ---

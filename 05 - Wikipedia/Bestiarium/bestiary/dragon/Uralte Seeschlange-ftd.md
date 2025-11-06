@@ -3,7 +3,7 @@ cssclasses:
   - json5e-monster
 tags:
   - Quelle/5e/ftd
-  - Monster/cr/14
+  - Monster/HG/14
   - Monster/Größe/Gigantisch
   - Monster/Typ/Drache
 statblock: inline

@@ -11,7 +11,7 @@ tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Arktis
   - Monster/Habitat/Unterreich
-  - Quelle/5e/Monster_Manual
+  - Quelle/5e/mm
   - Monster/Typ/Tier
 aliases:
   - Polar Bear

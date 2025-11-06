@@ -6,7 +6,7 @@ tags:
 - Quelle/5e/xdmg
 - Gegenstand/item/attunement/required
 - Gegenstand/item/rarity/rare
-- Gegenstand/item/wondrous/ring
+- Gegenstand/wundersam/Ring
 aliases: 
 - "Ring of Feather Falling"
 ---

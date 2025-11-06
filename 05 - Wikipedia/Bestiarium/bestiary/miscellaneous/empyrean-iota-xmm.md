@@ -3,10 +3,10 @@ cssclasses:
   - json5e-monster
 tags:
   - Quelle/5e/xmm
-  - Monster/cr/1
-  - Monster/environment/any
+  - Monster/HG/1
+  - Monster/Habitat/Jedes
   - Monster/Größe/Mittelgroß
-  - Monster/Typ/Himmlische/Titan
+  - Monster/Typ/Himmlische/titan
 statblock: inline
 statblock-link: "#^statblock"
 aliases:

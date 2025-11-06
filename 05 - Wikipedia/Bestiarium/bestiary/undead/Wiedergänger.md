@@ -14,7 +14,7 @@ Habitat:
   - Wüste
 tags:
   - Quelle/5e/mm
-  - Monster/cr/5
+  - Monster/HG/5
   - Monster/Habitat/Arktis
   - Monster/Habitat/Hügel
   - Monster/Habitat/Stadt

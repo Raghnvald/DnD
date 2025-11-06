@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - Quelle/5e/xdmg
 - Gegenstand/item/rarity/rare
-- Gegenstand/item/wondrous/ring
+- Gegenstand/wundersam/Ring
 aliases: 
 - "Ring of Acid Resistance"
 ---

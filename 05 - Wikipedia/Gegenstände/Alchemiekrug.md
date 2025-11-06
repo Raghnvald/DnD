@@ -2,10 +2,10 @@
 Bezeichnung: Alchemiekrug
 Typ: Wundersamer Gegenstand
 Eigenschaften: n/v
-Gew.: n/v
+Gew.: 6,0 kg
 Kst.: n/v
 tags:
-- Quelle/5e/Dungeon_Masters_Guide
+- Quelle/5e/dmg
 - Gegenstand/wundersam
 - Gegenstand/Seltenheit/ungewöhnlich
 aliases:
@@ -13,15 +13,15 @@ aliases:
 ---
 # Alchemiekrug
 _Wundersamer Gegenstand, ungewöhnlich_
-<img src="Symbolik/Gegenstände.webp" align="right" width="150">
+<img src="alchemy-jug.webp" align="right" width="150">
 
 _Klassen:_ n/v
 _Unterklassen:_ n/v
 
-_Quellen:_ Spielerhandbuch
+*Quellen: Spielleiterhandbuch S. 150*
 
 - **Eigenschaften**: n/v
-- **Gewicht**: n/v
+- **Gewicht**: 6,0 kg.
 - **Kosten**: n/v
 
 Dieser Keramikkrug scheint in der Lage zu sein, 4 Liter Flüssigkeit zu fassen, und er wiegt 12 Pfund, egal ob voll oder leer. Man kann schwappende Geräusche hören, wenn der Krug geschüttelt wird, selbst wenn er eigentlich leer ist.
@@ -37,3 +37,4 @@ $\quad$Sobald der Krug anfängt, eine Flüssigkeit zu produzieren, kann er bis z
 | Essig          |        8 Liter | Wasser, frisch |        32 Liter |
 | Honig          |        4 Liter | Wasser, salzig |        48 Liter |
 | Mayonnaise     |        8 Liter | Wein           |         4 Liter |
+^liquid-max-amount

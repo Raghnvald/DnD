@@ -4,9 +4,9 @@ cssclasses:
 - json5e-monster
 tags:
 - Quelle/5e/vgm
-- Monster/cr/2
-- Monster/environment/mountain
-- Monster/environment/underdark
+- Monster/HG/2
+- Monster/Habitat/Berg
+- Monster/Habitat/Unterreich
 - Monster/Größe/Mittelgroß
 - Monster/Typ/Humanoid/orc
 statblock: inline

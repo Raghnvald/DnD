@@ -10,7 +10,7 @@ tags:
   - Monster/Habitat/Sumpf
   - Monster/Habitat/Unterreich
   - Monster/Habitat/Wald
-  - Quelle/5e/Monster_Manual
+  - Quelle/5e/mm
   - Monster/Typ/Humanoid/Ork
 aliases:
   - Orc

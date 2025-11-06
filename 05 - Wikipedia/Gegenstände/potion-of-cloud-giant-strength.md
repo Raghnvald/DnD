@@ -6,7 +6,7 @@ tags:
 - Quelle/5e/dmg
 - Gegenstand/item/rarity/very-rare
 - Gegenstand/item/tier/minor
-- Gegenstand/item/wondrous/potion
+- Gegenstand/wundersam/Trank
 aliases: 
 - "Potion of Cloud Giant Strength"
 ---

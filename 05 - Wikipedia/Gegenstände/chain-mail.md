@@ -4,7 +4,7 @@ cssclasses:
 - json5e-item
 tags:
 - Quelle/5e/phb
-- Gegenstand/item/armor/heavy
+- Gegenstand/Rüstung/Schwer
 - Gegenstand/item/rarity/none
 aliases: 
 - "Chain Mail"

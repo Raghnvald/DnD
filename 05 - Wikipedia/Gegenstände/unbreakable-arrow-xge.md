@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - Quelle/5e/xge
 - Gegenstand/item/gear/ammunition
-- Gegenstand/item/rarity/common
+- Gegenstand/Seltenheit/gewöhnlich
 - Gegenstand/item/tier/minor
 aliases: 
 - "Unbreakable Arrow"

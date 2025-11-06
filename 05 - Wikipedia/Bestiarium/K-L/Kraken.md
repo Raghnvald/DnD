@@ -1,7 +1,7 @@
 ---
 cssclasses: json5e-monster
 tags:
-  - Quelle/5e/Monster_Manual
+  - Quelle/5e/mm
   - Monster/Habitat/Unterwasser
   - Monster/Größe/Gigantisch
   - Monster/Typ/Monstrosität/Titan

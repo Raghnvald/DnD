@@ -3,9 +3,9 @@ cssclasses:
   - json5e-monster
 tags:
   - Quelle/5e/mpmm
-  - Monster/cr/17
-  - Monster/environment/coastal
-  - Monster/environment/urban
+  - Monster/HG/17
+  - Monster/Habitat/Küste
+  - Monster/Habitat/Stadt
   - Monster/Größe/Mittelgroß
   - Monster/Typ/Unhold/devil
   - Monster/Typ/Unhold/wizard

@@ -4,8 +4,8 @@ cssclasses:
 - json5e-item
 tags:
 - Quelle/5e/xdmg
-- Gegenstand/item/rarity/uncommon
-- Gegenstand/item/wondrous/ring
+- Gegenstand/Seltenheit/ungewöhnlich
+- Gegenstand/wundersam/Ring
 aliases: 
 - "Ring of Swimming"
 ---

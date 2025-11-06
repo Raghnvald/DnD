@@ -7,7 +7,7 @@ status:
 tags:
   - Monster/Größe/Riesig
   - Habitat/Planar/Untere Ebenen
-  - Quelle/5e/Monster_Manual
+  - Quelle/5e/mm
   - Monster/Typ/Unhold/Dämon
 aliases:
   - Balor

@@ -8,7 +8,7 @@ HG:
 status:
 image:
 tags:
-  - Quelle/5e/Monster_Manual
+  - Quelle/5e/mm
   - Monster/Habitat/Sumpf
   - Monster/Habitat/Stadt
   - Monster/Größe/Groß

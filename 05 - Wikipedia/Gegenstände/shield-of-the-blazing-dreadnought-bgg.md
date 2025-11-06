@@ -6,7 +6,7 @@ tags:
 - Quelle/5e/bgg
 - Gegenstand/item/attunement/required
 - Gegenstand/item/rarity/legendary
-- Gegenstand/item/shield/
+- Gegenstand/Rüstung/Schild/
 aliases: 
 - "Shield of the Blazing Dreadnought"
 ---

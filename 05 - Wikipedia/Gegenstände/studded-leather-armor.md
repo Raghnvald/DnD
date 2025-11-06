@@ -4,7 +4,7 @@ cssclasses:
 - json5e-item
 tags:
 - Quelle/5e/phb
-- Gegenstand/item/armor/light
+- Gegenstand/Rüstung/Leicht
 - Gegenstand/item/rarity/none
 aliases: 
 - "Studded Leather Armor"
