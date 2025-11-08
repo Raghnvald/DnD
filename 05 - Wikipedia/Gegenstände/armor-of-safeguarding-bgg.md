@@ -6,7 +6,7 @@ tags:
 - Quelle/5e/bgg
 - Gegenstand/Rüstung/Schwer
 - Gegenstand/item/attunement/required
-- Gegenstand/item/rarity/very-rare
+- Gegenstand/Seltenheit/sehr_selten
 - Gegenstand/item/wondrous/generic-variant
 aliases: 
 - "Armor of Safeguarding"

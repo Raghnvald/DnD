@@ -7,7 +7,7 @@ Wirkungsdauer: Konzentration, bis zu 10 Minuten
 Angriff: n/a
 Schaden: n/a
 tags: 
-- Quelle/5e/Players_Handbook
+- Quelle/5e/phb
 - Klasse/Hexenmeister
 - Klasse/Magier
 - Klasse/Zauberer

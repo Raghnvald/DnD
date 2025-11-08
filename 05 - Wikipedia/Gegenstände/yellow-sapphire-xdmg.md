@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - Quelle/5e/xdmg
 - Gegenstand/item/gear/treasure-gemstone
-- Gegenstand/item/rarity/none
+- Gegenstand/Seltenheit/keine
 aliases: 
 - "Yellow Sapphire"
 ---

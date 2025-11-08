@@ -7,7 +7,7 @@ Wirkungsdauer: 1 Runde
 Angriff: Weisheit
 Schaden: kein
 tags:
-- Quelle/5e/Players_Handbook
+- Quelle/5e/phb
 - Klasse/Illrigger
 - Klasse/Kleriker
 - Klasse/Paladin

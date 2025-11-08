@@ -4,7 +4,7 @@ cssclasses:
 tags:
   - Quelle/5e/pabtso
   - Gegenstand/Rüstung/Mittel
-  - Gegenstand/item/rarity/rare
+  - Gegenstand/Seltenheit/selten
 aliases:
   - Dragonguard
 ---

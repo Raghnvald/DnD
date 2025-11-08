@@ -1,6 +1,6 @@
 ---
 tags:
-  - Quelle/5e/Dungeon_Masters_Guide
+  - Quelle/5e/dmg
   - Gegenstand/Waffe
   - Gegenstand/Seltenheit/selten
   - Gegenstand/Einstimmung/erforderlich

@@ -5,7 +5,7 @@ Eigenschaften: n/v
 Gew.: n/v
 Kst.: n/v
 tags:
-- Quelle/5e/Dungeon_Masters_Guide
+- Quelle/5e/dmg
 - Gegenstand/wundersam
 - Gegenstand/Seltenheit/ungewöhnlich
 - Gegenstand/Seltenheit/selten

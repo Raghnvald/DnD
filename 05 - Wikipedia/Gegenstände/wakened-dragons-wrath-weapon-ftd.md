@@ -6,7 +6,7 @@ tags:
   - Gegenstand/item/age/futuristic
   - Gegenstand/item/age/modern
   - Gegenstand/item/attunement/required
-  - Gegenstand/item/rarity/very-rare
+  - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/item/weapon/martial
   - Gegenstand/item/weapon/melee
   - Gegenstand/item/weapon/ranged

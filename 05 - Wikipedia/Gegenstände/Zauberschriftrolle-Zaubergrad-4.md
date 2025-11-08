@@ -5,7 +5,7 @@ Eigenschaften: n/v
 Gew.: n/v
 Kst.: 4.000 GM
 tags:
-- Quelle/5e/Dungeon_Masters_Guide
+- Quelle/5e/dmg
 - Gegenstand/wundersam/Schriftrolle
 - Gegenstand/Seltenheit/selten
 aliases:

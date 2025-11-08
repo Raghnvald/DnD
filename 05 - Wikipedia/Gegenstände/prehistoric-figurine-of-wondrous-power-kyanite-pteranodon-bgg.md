@@ -4,7 +4,7 @@ cssclasses:
 - json5e-item
 tags:
 - Quelle/5e/bgg
-- Gegenstand/item/rarity/rare
+- Gegenstand/Seltenheit/selten
 aliases: 
 - "Prehistoric Figurine of Wondrous Power, Kyanite Pteranodon"
 ---

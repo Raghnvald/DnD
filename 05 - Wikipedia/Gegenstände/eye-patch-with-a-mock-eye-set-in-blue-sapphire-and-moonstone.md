@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - Quelle/5e/dmg
 - Gegenstand/item/gear/treasure-art-object
-- Gegenstand/item/rarity/none
+- Gegenstand/Seltenheit/keine
 aliases: 
 - "Eye patch with a mock eye set in blue sapphire and moonstone"
 ---

@@ -4,7 +4,7 @@ cssclasses:
 - json5e-item
 tags:
 - Quelle/5e/dmg
-- Gegenstand/item/rarity/very-rare
+- Gegenstand/Seltenheit/sehr_selten
 - Gegenstand/item/tier/major
 aliases: 
 - "Horn of Valhalla, Bronze"

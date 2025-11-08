@@ -1,7 +1,7 @@
 ---
 cssclasses: json5e-note
 tags:
-  - Quelle/5e/Dungeon_Masters_Guide
+  - Quelle/5e/dmg
 aliases:
   - Trap Effects; Trap Save DCs and Attack Bonuses
 ---

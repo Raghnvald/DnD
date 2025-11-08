@@ -3,7 +3,7 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/xdmg
-  - Gegenstand/item/rarity/very-rare
+  - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/item/wondrous/scroll
 aliases:
   - Spell Scroll (Level 7)

@@ -7,7 +7,7 @@ Wirkungsdauer: 8 Stunden
 Angriff: n/v
 Schaden: 
 tags:
-- Quelle/5e/Players_Handbook
+- Quelle/5e/phb
 - Klasse/Barde/magical-secrets
 - Klasse/Kleriker
 - Klasse/Paladin

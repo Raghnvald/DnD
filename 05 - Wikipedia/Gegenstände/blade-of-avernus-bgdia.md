@@ -4,7 +4,7 @@ cssclasses:
 tags:
   - Quelle/5e/bgdia
   - Gegenstand/item/attunement/required
-  - Gegenstand/item/rarity/artifact
+  - Gegenstand/Seltenheit/Artefakt
   - Gegenstand/item/weapon/martial
   - Gegenstand/item/weapon/melee
 aliases:

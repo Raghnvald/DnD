@@ -6,7 +6,7 @@ tags:
 - Quelle/5e/dmg
 - Gegenstand/Rüstung/Mittel
 - Gegenstand/item/attunement/required
-- Gegenstand/item/rarity/very-rare
+- Gegenstand/Seltenheit/sehr_selten
 - Gegenstand/item/tier/major
 aliases: 
 - "White Dragon Scale Mail"

@@ -5,7 +5,7 @@ Eigenschaften: n/v
 Gew.: n/v
 Kst.: unbezahlbar
 tags:
-- Quelle/5e/Dungeon_Masters_Guide
+- Quelle/5e/dmg
 - Gegenstand/wundersam/Schriftrolle
 - Gegenstand/Seltenheit/legendär
 aliases:

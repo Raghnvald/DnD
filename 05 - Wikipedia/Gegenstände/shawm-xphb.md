@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - Quelle/5e/xphb
 - Gegenstand/item/gear/instrument
-- Gegenstand/item/rarity/none
+- Gegenstand/Seltenheit/keine
 aliases: 
 - "Shawm"
 ---

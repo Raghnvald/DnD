@@ -6,7 +6,7 @@ tags:
 - Quelle/5e/bgg
 - Gegenstand/Rüstung/Mittel
 - Gegenstand/item/attunement/required
-- Gegenstand/item/rarity/legendary
+- Gegenstand/Seltenheit/legendär
 aliases: 
 - "Stonebreaker's Breastplate"
 ---

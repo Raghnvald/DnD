@@ -1,7 +1,7 @@
 ---
 cssclasses: json5e-item
 tags:
-  - Quelle/5e/Dungeon_Masters_Guide
+  - Quelle/5e/dmg
   - Gegenstand/wundersam
   - Gegenstand/Seltenheit/ungewöhnlich
 aliases:
@@ -10,6 +10,8 @@ aliases:
 # Trickbeutel, grau
 *Wundersamer Gegenstand, ungewöhnlich*  
 <img src="Gegenstände/Beutel-der-Tricks.webp" align="right" width="150">
+
+*Source: Dungeon Master's Guide p. 154. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 - **Kosten**: ⏤
 - **Gewicht**: 0,25 kg.
@@ -33,5 +35,3 @@ Nachdem drei flauschige Gegenstände aus dem Beutel gezogen wurden, kann der Beu
 | 7 | [Schreckenswolf](Schreckenswolf.md) |
 | 8 | [Riesenelch](../Bestiarium/Bestien/giant-elk.md) |
 ^creature
-
-*Quelle: SRD / Grundregelwerk*

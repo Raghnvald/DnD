@@ -6,7 +6,7 @@ Eigenschaften: variabel
 Gew.: n/a
 Kst.: n/v
 tags:
-  - Quelle/5e/Dungeon_Masters_Guide
+  - Quelle/5e/dmg
   - Gegenstand/Waffe/Nahkampf/Beliebig
   - Gegenstand/Seltenheit/selten
   - Gegenstand/Einstimmung/erforderlich
@@ -15,12 +15,12 @@ aliases:
 ---
 # Berserkeraxt
 _Waffe (beliebige Streitaxt, Zweihandaxt oder Hellebarde), selten (erfordert Einstimmung)_
-<img src="Berserkeraxt.webp" align="right" width="150">
+<img src="berserker-axe.webp" align="right" width="150">
 
 _Klassen:_ n/v 
 _Unterklassen:_  n/v
 
-_Quellen:_ Spielerhandbuch
+*Quellen: Spielleiterhandbuch S. 155. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Du erhältst einen Bonus von +1 auf Angriffs- und Schadenswürfe, die du mit dieser magischen Waffe ausführst. Wenn du auf diese Waffe eingestimmt bist, erhöht sich dein Trefferpunktemaximum außerdem für jede Stufe, die du erreicht hast, um 1.
 

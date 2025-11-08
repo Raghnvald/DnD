@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - Quelle/5e/ggr
 - Gegenstand/item/attunement/required
-- Gegenstand/item/rarity/very-rare
+- Gegenstand/Seltenheit/sehr_selten
 - Gegenstand/item/weapon/martial
 - Gegenstand/item/weapon/melee
 aliases: 

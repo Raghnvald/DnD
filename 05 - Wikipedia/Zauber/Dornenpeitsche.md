@@ -7,7 +7,7 @@ Wirkungsdauer: Unmittelbar
 Angriff: Nahkampf
 Schaden: 1d6 Stich
 tags:
-- Quelle/5e/Players_Handbook
+- Quelle/5e/phb
 - Klasse/Druide
 - Klasse/Magieschmied
 - Zauber/Original/Thorn_Whip

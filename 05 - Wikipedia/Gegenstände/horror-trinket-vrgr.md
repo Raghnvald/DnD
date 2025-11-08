@@ -4,7 +4,7 @@ cssclasses:
 tags:
   - Quelle/5e/vrgr
   - Gegenstand/item/gear/
-  - Gegenstand/item/rarity/none
+  - Gegenstand/Seltenheit/keine
 aliases:
   - Horror Trinket
 ---

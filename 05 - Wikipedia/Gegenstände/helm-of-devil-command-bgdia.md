@@ -4,7 +4,7 @@ cssclasses:
 tags:
   - Quelle/5e/bgdia
   - Gegenstand/item/attunement/required
-  - Gegenstand/item/rarity/very-rare
+  - Gegenstand/Seltenheit/sehr_selten
 aliases:
   - Helm of Devil Command
 ---

@@ -4,7 +4,7 @@ cssclasses:
 tags:
   - Quelle/5e/xdmg
   - Gegenstand/item/attunement/required
-  - Gegenstand/item/rarity/very-rare
+  - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/wundersam/Ring
 aliases:
   - Ring of Shooting Stars

@@ -4,7 +4,7 @@ cssclasses:
 - json5e-item
 tags:
 - Quelle/5e/xdmg
-- Gegenstand/item/rarity/very-rare
+- Gegenstand/Seltenheit/sehr_selten
 - Gegenstand/Rüstung/Schild/
 aliases: 
 - "+3 Shield"

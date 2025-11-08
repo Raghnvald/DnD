@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - Quelle/5e/dmg
 - Gegenstand/item/attunement/required
-- Gegenstand/item/rarity/very-rare
+- Gegenstand/Seltenheit/sehr_selten
 - Gegenstand/item/tier/major
 aliases: 
 - "Ioun Stone, Absorption"

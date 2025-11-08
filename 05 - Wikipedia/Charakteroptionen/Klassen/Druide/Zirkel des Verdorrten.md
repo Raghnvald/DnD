@@ -1,5 +1,5 @@
 ---
-tags: [Klasse/Druide/Verdorrt, Quelle/5e/Players_Handbook]
+tags: [Klasse/Druide/Verdorrt, Quelle/5e/phb]
 aliases: [Circle of the Land]
 ---
 Zirkel des Verdorrten

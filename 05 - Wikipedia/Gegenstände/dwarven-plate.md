@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - Quelle/5e/dmg
 - Gegenstand/Rüstung/Schwer
-- Gegenstand/item/rarity/very-rare
+- Gegenstand/Seltenheit/sehr_selten
 - Gegenstand/item/tier/major
 aliases: 
 - "Dwarven Plate"

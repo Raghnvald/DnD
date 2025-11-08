@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - Quelle/5e/xphb
 - Gegenstand/item/gear/tack-and-harness
-- Gegenstand/item/rarity/none
+- Gegenstand/Seltenheit/keine
 aliases: 
 - "Feed (per day)"
 ---

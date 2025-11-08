@@ -7,7 +7,7 @@ Wirkungsdauer: Unmittelbar
 Angriff: Nah
 Schaden: 1d8 Blitz
 tags:
-- Quelle/5e/Players_Handbook
+- Quelle/5e/phb
 - Klasse/Zauberer
 - Klasse/Magier
 - Zauber/Original/Shocking_Grasp

@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - Quelle/5e/xphb
 - Gegenstand/item/gear/food-and-drink
-- Gegenstand/item/rarity/none
+- Gegenstand/Seltenheit/keine
 aliases: 
 - "Cheese (wedge)"
 ---

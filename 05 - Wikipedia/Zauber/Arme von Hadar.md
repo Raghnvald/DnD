@@ -7,7 +7,7 @@ Wirkungsdauer: unmittelbar
 Angriff: STR
 Schaden: 2d6 nekrotisch
 tags: 
-- Quelle/5e/Players_Handbook
+- Quelle/5e/phb
 - Klasse/Hexenmeister
 - Zauber/Original/Arms_of_Hadar
 - Zauber/Grad/1

@@ -4,7 +4,7 @@ cssclasses:
 - json5e-item
 tags:
 - Quelle/5e/bgg
-- Gegenstand/item/rarity/legendary
+- Gegenstand/Seltenheit/legendär
 aliases: 
 - "Prehistoric Figurine of Wondrous Power, Jasper Tyrannosaurus Rex"
 ---

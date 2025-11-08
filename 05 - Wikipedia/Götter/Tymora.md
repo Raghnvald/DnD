@@ -1,6 +1,6 @@
 ---
 tags:
-- Quelle/5e/Players_Handbook
+- Quelle/5e/phb
 - Kompendium/Götter
 - Kompendium/Götter/Gesinnung/Chaotisch_Gut
 - Kompendium/Götter/Pantheon/Faerun

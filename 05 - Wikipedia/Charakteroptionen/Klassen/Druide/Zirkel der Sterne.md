@@ -1,5 +1,5 @@
 ---
-tags: [Klasse/Druide/Sterne, Quelle/5e/Players_Handbook]
+tags: [Klasse/Druide/Sterne, Quelle/5e/phb]
 aliases: [Circle of the Land]
 ---
 Zirkel der Sterne

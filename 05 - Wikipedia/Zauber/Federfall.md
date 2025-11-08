@@ -8,7 +8,7 @@ Angriff: n/v
 Schaden: n/v
 status: completed
 tags:
-  - Quelle/5e/Players_Handbook
+  - Quelle/5e/phb
   - Klasse/Barde
   - Klasse/Magier
   - Klasse/Zauberer

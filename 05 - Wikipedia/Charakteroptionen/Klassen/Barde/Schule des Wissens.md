@@ -1,5 +1,5 @@
 ---
-tags: [Klasse/Barde, Quelle/5e/Players_Handbook]
+tags: [Klasse/Barde, Quelle/5e/phb]
 aliases: [College of Lore]
 ---
 # Schule des Wissens

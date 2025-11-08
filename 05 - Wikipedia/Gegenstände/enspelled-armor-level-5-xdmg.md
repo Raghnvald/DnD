@@ -7,7 +7,7 @@ tags:
   - Gegenstand/Rüstung/Leicht
   - Gegenstand/Rüstung/Mittel
   - Gegenstand/item/attunement/required
-  - Gegenstand/item/rarity/very-rare
+  - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/item/wondrous/generic-variant
 aliases:
   - Enspelled Armor (Level 5)

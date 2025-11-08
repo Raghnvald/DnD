@@ -3,9 +3,9 @@ cssclasses:
   - json5e-monster
 tags:
   - Quelle/5e/mm
-  - Monster/cr/23
-  - Monster/environment/coastal
-  - Monster/environment/desert
+  - Monster/HG/23
+  - Monster/Habitat/Küste
+  - Monster/Habitat/Wüste
   - Monster/Größe/Gigantisch
   - Monster/Typ/Drache
 statblock: inline

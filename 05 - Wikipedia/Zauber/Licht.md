@@ -7,7 +7,7 @@ Wirkungsdauer: 1 Stunde
 Angriff: GES
 Schaden: Erschaffung
 tags:
-- Quelle/5e/Players_Handbook
+- Quelle/5e/phb
 - Klasse/Barde
 - Klasse/Kleriker
 - Klasse/Magier

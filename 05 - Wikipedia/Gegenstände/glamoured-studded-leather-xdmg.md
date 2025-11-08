@@ -4,7 +4,7 @@ cssclasses:
 tags:
   - Quelle/5e/xdmg
   - Gegenstand/Rüstung/Leicht
-  - Gegenstand/item/rarity/rare
+  - Gegenstand/Seltenheit/selten
 aliases:
   - Glamoured Studded Leather
 ---

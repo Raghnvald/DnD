@@ -6,7 +6,7 @@ tags:
   - Gegenstand/Rüstung/Schwer
   - Gegenstand/Rüstung/Leicht
   - Gegenstand/Rüstung/Mittel
-  - Gegenstand/item/rarity/legendary
+  - Gegenstand/Seltenheit/legendär
   - Gegenstand/item/wondrous/generic-variant
 aliases:
   - +3 Armor

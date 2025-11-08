@@ -1,5 +1,5 @@
 ---
-tags: [Klasse/Hexenmeister, Quelle/5e/Players_Handbook]
+tags: [Klasse/Hexenmeister, Quelle/5e/phb]
 aliases: [Warlock]
 ---
 # Hexenmeister

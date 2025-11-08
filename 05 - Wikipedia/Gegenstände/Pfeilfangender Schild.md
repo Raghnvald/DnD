@@ -1,7 +1,7 @@
 ---
 cssclasses: dnd5e-compendium
 tags:
-  - Quelle/5e/Dungeon_Masters_Guide
+  - Quelle/5e/dmg
   - Gegenstand/Rüstung/Schild
   - Gegenstand/Seltenheit/selten
   - Gegenstand/Einstimmung/erforderlich
@@ -24,7 +24,7 @@ Gew.: 3,0 kg
 _Klassen:_ n/v 
 _Unterklassen:_  n/v
 
-_Quellen:_ Spielerhandbuch
+*Quellen: Spielleiterhandbuch S. 152. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 - **Rüstungsklasse**: 2
 - **Eigenschaften:** erfordert Einstimmung

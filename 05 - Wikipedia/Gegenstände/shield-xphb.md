@@ -4,7 +4,7 @@ cssclasses:
 - json5e-item
 tags:
 - Quelle/5e/xphb
-- Gegenstand/item/rarity/none
+- Gegenstand/Seltenheit/keine
 - Gegenstand/Rüstung/Schild/
 aliases: 
 - "Shield"

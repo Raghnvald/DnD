@@ -4,7 +4,7 @@ cssclasses:
 - json5e-item
 tags:
 - Quelle/5e/dmg
-- Gegenstand/item/rarity/rare
+- Gegenstand/Seltenheit/selten
 - Gegenstand/item/tier/major
 aliases: 
 - "Figurine of Wondrous Power, Serpentine Owl"

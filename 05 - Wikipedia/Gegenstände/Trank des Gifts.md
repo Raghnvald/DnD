@@ -1,7 +1,7 @@
 ---
 cssclasses: json5e-item
 tags:
-  - Quelle/5e/Dungeon_Masters_Guide
+  - Quelle/5e/dmg
   - Gegenstand/Eigenschaft/Gift
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/Tier/minor

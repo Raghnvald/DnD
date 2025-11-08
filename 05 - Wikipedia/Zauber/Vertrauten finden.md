@@ -7,7 +7,7 @@ Wirkungsdauer: Unmittelbar
 Angriff: n/v
 Schaden: n/v
 tags:
-- Quelle/5e/Players_Handbook
+- Quelle/5e/phb
 - Klasse/Magier
 - Zauber/Original/Find_Familiar
 - Zauber/Grad/1

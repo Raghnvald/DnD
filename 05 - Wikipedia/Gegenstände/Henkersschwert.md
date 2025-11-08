@@ -6,7 +6,7 @@ Eigenschaften: variabel
 Gew.: n/a
 Kst.: n/v
 tags:
-  - Quelle/5e/Dungeon_Masters_Guide
+  - Quelle/5e/dmg
   - Gegenstand/Waffe/Nahkampf/Beliebig
   - Gegenstand/Seltenheit/legendär
   - Gegenstand/Einstimmung/erforderlich

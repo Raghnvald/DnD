@@ -5,7 +5,7 @@ Eigenschaften: n/v
 Gew.: 1,0 kg
 Kst.: n/v
 tags:
-- Quelle/5e/Dungeon_Masters_Guide
+- Quelle/5e/dmg
 - Gegenstand/wundersam
 - Gegenstand/Ausrüstung/Instrument
 - Gegenstand/Seltenheit/ungewöhnlich

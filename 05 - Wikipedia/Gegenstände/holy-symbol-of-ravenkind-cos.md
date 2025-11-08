@@ -4,7 +4,7 @@ cssclasses:
 tags:
   - Quelle/5e/cos
   - Gegenstand/item/attunement/required
-  - Gegenstand/item/rarity/legendary
+  - Gegenstand/Seltenheit/legendär
 aliases:
   - Holy Symbol of Ravenkind
 ---

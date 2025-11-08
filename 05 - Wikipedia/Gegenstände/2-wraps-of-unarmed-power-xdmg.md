@@ -4,7 +4,7 @@ cssclasses:
 - json5e-item
 tags:
 - Quelle/5e/xdmg
-- Gegenstand/item/rarity/rare
+- Gegenstand/Seltenheit/selten
 aliases: 
 - "+2 Wraps of Unarmed Power"
 ---

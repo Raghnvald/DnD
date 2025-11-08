@@ -4,7 +4,7 @@ cssclasses:
 tags:
   - Quelle/5e/ftd
   - Gegenstand/item/attunement/required
-  - Gegenstand/item/rarity/very-rare
+  - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/Rüstung/Schild/
 aliases:
   - Sapphire Buckler

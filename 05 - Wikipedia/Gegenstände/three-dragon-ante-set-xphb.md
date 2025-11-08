@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - Quelle/5e/xphb
 - Gegenstand/item/gear/gaming-set
-- Gegenstand/item/rarity/none
+- Gegenstand/Seltenheit/keine
 aliases: 
 - "Three-Dragon Ante Set"
 ---

@@ -5,7 +5,7 @@ Eigenschaften: 3,75 km/h
 Gew.: n/v
 Kst.: 25.000 GM
 tags:
-- Quelle/5e/Players_Handbook
+- Quelle/5e/phb
 - Gegenstand/Ausrüstung/Wasserfahrzeug
 aliases:
 - Warship

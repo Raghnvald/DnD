@@ -7,7 +7,7 @@ Wirkungsdauer: 1 Runde
 Angriff: Fernkampf
 Schaden: 1d8 nekrotisch
 tags:
-- Quelle/5e/Players_Handbook
+- Quelle/5e/phb
 - Klasse/Hexenmeister
 - Klasse/Illrigger
 - Klasse/Magier

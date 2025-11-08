@@ -10,7 +10,7 @@ classes:
 - Bard (Magical Secrets)
 - Wizard
 tags:
-- Quelle/5e/Players_Handbook
+- Quelle/5e/phb
 - Klasse/Barde
 - Klasse/Magier
 - Zauber/Original/Mislead

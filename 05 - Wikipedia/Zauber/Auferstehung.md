@@ -7,7 +7,7 @@ Wirkungsdauer: unmittelbar
 Angriff: n/a
 Schaden: n/a
 tags:
-- Quelle/5e/Players_Handbook
+- Quelle/5e/phb
 - Klasse/Barde
 - Klasse/Kleriker
 - Zauber/Original/Resurrection

@@ -1,5 +1,5 @@
 ---
-tags: [Klasse/Magier, Quelle/5e/Players_Handbook]
+tags: [Klasse/Magier, Quelle/5e/phb]
 aliases: [Wizard]
 ---
 # Magier

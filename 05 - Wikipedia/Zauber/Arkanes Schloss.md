@@ -7,7 +7,7 @@ Wirkungsdauer: K, <1 Stunde
 Angriff: nichts
 Schaden: n/a
 tags: 
-- Quelle/5e/Players_Handbook
+- Quelle/5e/phb
 - Klasse/Magier
 - Zauber/Original/Arcane_Lock
 - Zauber/Grad/2

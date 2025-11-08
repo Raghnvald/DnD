@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - Quelle/5e/bgg
 - Gegenstand/item/attunement/required
-- Gegenstand/item/rarity/artifact
+- Gegenstand/Seltenheit/Artefakt
 aliases: 
 - "Helm of Perfect Potential"
 ---

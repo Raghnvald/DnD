@@ -1,5 +1,5 @@
 ---
-tags: [Klasse/Zauberer, Quelle/5e/Players_Handbook]
+tags: [Klasse/Zauberer, Quelle/5e/phb]
 aliases: [Wild Magic]
 ---
 # Wilde Magie

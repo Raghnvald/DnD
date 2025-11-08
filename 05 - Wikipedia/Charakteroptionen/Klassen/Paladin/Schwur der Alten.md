@@ -1,4 +1,4 @@
 ---
-tags: [Klasse/Paladin, Quelle/5e/Players_Handbook]
+tags: [Klasse/Paladin, Quelle/5e/phb]
 aliases: [Oath of the Ancient]
 ---

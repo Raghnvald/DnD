@@ -5,7 +5,7 @@ Eigenschaften: n/v
 Kst.: 30 GM
 Gew.: 2,5 kg
 tags:
-- Quelle/5e/Players_Handbook
+- Quelle/5e/phb
 - Gegenstand/Ausrüstung/Werkzeug
 aliases:
 - Glassblower's Tools

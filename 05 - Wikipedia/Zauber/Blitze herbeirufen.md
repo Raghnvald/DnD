@@ -7,7 +7,7 @@ Wirkungsdauer: Konzentration, bis zu 10 Minuten
 Angriff: GES
 Schaden: 3d10 Blitz
 tags:
-- Quelle/5e/Players_Handbook
+- Quelle/5e/phb
 - Klasse/Druide
 - Zauber/Original/Call_Lightning
 - Zauber/Grad/3

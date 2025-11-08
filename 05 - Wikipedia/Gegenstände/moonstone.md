@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - Quelle/5e/dmg
 - Gegenstand/item/gear/treasure-gemstone
-- Gegenstand/item/rarity/none
+- Gegenstand/Seltenheit/keine
 aliases: 
 - "Moonstone"
 ---

@@ -1,7 +1,7 @@
 ---
 cssclasses: json5e-item
 tags:
-  - Quelle/5e/Players_Handbook
+  - Quelle/5e/phb
   - Gegenstand/Ausrüstung
   - Gegenstand/Seltenheit/gewöhnlich
   - Gegenstand/Eigenschaft/Munition
@@ -20,10 +20,8 @@ Gew.: 0,75 kg
 _Klassen:_ n/v 
 _Unterklassen:_  n/v
 
-_Quellen:_ Spielerhandbuch
+*Quellen: Spielerhandbuch S. 150. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 - **Eigenschaften**: Munition
 - **Kosten**: 1 Goldmünze
 - **Gewicht**: 0,75 kg.
-
-*Quelle: SRD / Grundregelwerk*

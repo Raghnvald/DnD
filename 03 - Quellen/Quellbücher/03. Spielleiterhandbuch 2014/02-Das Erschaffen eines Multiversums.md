@@ -1,5 +1,5 @@
 ---
-tags: [Quelle/5e/Dungeon_Masters_Guide]
+tags: [Quelle/5e/dmg]
 ---
 # Kapitel 2: Das Erschaffen eines Multiversums
 

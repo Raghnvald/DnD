@@ -5,7 +5,7 @@ Eigenschaften: Gift
 Kst.: 1.200 GM
 Gew.: n/v
 tags:
-- Quelle/5e/Dungeon_Masters_Guide
+- Quelle/5e/dmg
 - Gegenstand/Ausrüstung/Gift
 - Gegenstand/Seltenheit/gewöhnlich
 - Gegenstand/Eigenschaft/Gift

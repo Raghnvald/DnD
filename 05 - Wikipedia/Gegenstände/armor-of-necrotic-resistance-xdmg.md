@@ -7,7 +7,7 @@ tags:
   - Gegenstand/Rüstung/Leicht
   - Gegenstand/Rüstung/Mittel
   - Gegenstand/item/attunement/required
-  - Gegenstand/item/rarity/rare
+  - Gegenstand/Seltenheit/selten
   - Gegenstand/item/wondrous/generic-variant
 aliases:
   - Armor of Necrotic Resistance

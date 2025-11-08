@@ -4,7 +4,7 @@ cssclasses:
 tags:
   - Quelle/5e/tce
   - Gegenstand/item/attunement/required
-  - Gegenstand/item/rarity/artifact
+  - Gegenstand/Seltenheit/Artefakt
 aliases:
   - Teeth of Dahlver-Nar
 ---

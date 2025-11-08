@@ -4,7 +4,7 @@ cssclasses:
 - json5e-item
 tags:
 - Quelle/5e/bgg
-- Gegenstand/item/rarity/very-rare
+- Gegenstand/Seltenheit/sehr_selten
 aliases: 
 - "Prehistoric Figurine of Wondrous Power, Carnelian Triceratops"
 ---

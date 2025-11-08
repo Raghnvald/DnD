@@ -6,7 +6,7 @@ tags:
   - Gegenstand/Rüstung/Schwer
   - Gegenstand/Rüstung/Mittel
   - Gegenstand/item/attunement/required
-  - Gegenstand/item/rarity/legendary
+  - Gegenstand/Seltenheit/legendär
   - Gegenstand/item/wondrous/generic-variant
 aliases:
   - Efreeti Chain

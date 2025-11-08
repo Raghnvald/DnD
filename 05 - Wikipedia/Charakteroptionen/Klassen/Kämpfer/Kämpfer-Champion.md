@@ -1,5 +1,5 @@
 ---
-tags: [Klasse/Kämpfer/Champion, Quelle/5e/Players_Handbook]
+tags: [Klasse/Kämpfer/Champion, Quelle/5e/phb]
 aliases: [Champion]
 ---
 Champion

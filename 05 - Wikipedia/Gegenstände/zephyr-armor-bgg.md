@@ -6,7 +6,7 @@ tags:
 - Quelle/5e/bgg
 - Gegenstand/Rüstung/Leicht
 - Gegenstand/item/attunement/required
-- Gegenstand/item/rarity/rare
+- Gegenstand/Seltenheit/selten
 - Gegenstand/item/wondrous/generic-variant
 aliases: 
 - "Zephyr Armor"

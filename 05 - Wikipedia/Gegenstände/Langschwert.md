@@ -6,7 +6,7 @@ Eigenschaften: Vielseitig (1W10)
 Gew.: 1,5 kg
 Kst.: 15 GM
 tags:
-- Quelle/5e/Players_Handbook
+- Quelle/5e/phb
 - Gegenstand/Waffe/Nahkampf/Kriegswaffe
 - Gegenstand/Seltenheit/gewöhnlich
 - Gegenstand/Eigenschaft/Vielseitig

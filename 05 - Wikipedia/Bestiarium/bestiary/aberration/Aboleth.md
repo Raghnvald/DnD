@@ -9,8 +9,8 @@ status: WIP
 image:
 tags:
   - Quelle/5e/mm
-  - Monster/cr/10
-  - Monster/environment/underdark
+  - Monster/HG/10
+  - Monster/Habitat/Unterreich
   - Monster/Größe/Groß
   - Monster/Typ/Aberration
 statblock: inline

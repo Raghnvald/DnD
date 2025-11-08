@@ -5,7 +5,7 @@ tags:
   - Quelle/5e/xdmg
   - Gegenstand/Rüstung/Mittel
   - Gegenstand/item/attunement/required
-  - Gegenstand/item/rarity/legendary
+  - Gegenstand/Seltenheit/legendär
 aliases:
   - Half Plate Armor of Etherealness
 ---

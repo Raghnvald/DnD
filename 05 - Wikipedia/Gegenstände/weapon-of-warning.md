@@ -8,7 +8,7 @@ tags:
 - Gegenstand/item/age/modern
 - Gegenstand/item/age/renaissance
 - Gegenstand/item/attunement/required
-- Gegenstand/item/rarity/uncommon
+- Gegenstand/Seltenheit/ungewöhnlich
 - Gegenstand/item/tier/major
 - Gegenstand/item/weapon/martial
 - Gegenstand/item/weapon/melee

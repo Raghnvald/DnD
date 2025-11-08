@@ -9,7 +9,7 @@ Eigenschaften: n/v
 Gew.: 3,0 kg
 Kst.: 10 GM
 tags:
-  - Quelle/5e/Players_Handbook
+  - Quelle/5e/phb
   - Gegenstand/Rüstung/Schild
   - Gegenstand/Seltenheit/gewöhnlich
 aliases:

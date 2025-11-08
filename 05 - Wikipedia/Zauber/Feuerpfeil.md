@@ -7,7 +7,7 @@ Wirkungsdauer: Unmittelbar
 Angriff: Fernkampf
 Schaden: 1d10 Feuer
 tags:
-- Quelle/5e/Players_Handbook
+- Quelle/5e/phb
 - Klasse/Magier
 - Klasse/Zauberer
 - Zauber/Original/Fire_Bolt

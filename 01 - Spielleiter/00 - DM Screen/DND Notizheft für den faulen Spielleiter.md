@@ -1,5 +1,5 @@
 ---
-tags: [Quelle/5e/Dungeon_Masters_Guide]
+tags: [Quelle/5e/dmg]
 ---
 - Belohnung für die Helden (Zeitpunkt noch unbestimmt): Tresendar-Herrenhaus in Phandalin. Das gesamte Haus mitsamt Besitzurkunde, damit die Abenteurergruppe einen Rückzugsort besitzt, welchen sie wieder aufbauen können. Gleichzeitig auch ein kleiner Gold-Dump, da die Reparaturen aufwändig in Zeit und Geld sind.
 

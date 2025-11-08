@@ -2,7 +2,7 @@
 cssclasses: json5e-class
 tags:
   - Klasse/Kämpfer
-  - Quelle/5e/Players_Handbook
+  - Quelle/5e/phb
 aliases:
   - Fighter
 ---

@@ -5,10 +5,10 @@ Eigenschaften: n/v
 Kst.: 5 GM
 Gew.: 0,5 kg
 tags:
-- Quelle/5e/Players_Handbook
+- Quelle/5e/phb
 - Gegenstand/Ausrüstung
 - Gegenstand/Zauberfokus
-- Gegenstand/Seltenheit/gewöhnlich
+- Gegenstand/Seltenheit/keine
 - Klasse/Kleriker
 - Klasse/Paladin
 aliases: 
@@ -17,6 +17,8 @@ aliases:
 # Amulett
 *Zauberfokus, heilig, gewöhnlich* 
 <img src="Symbolik/Gegenstände.webp" align="right" width="150">
+
+*Source: Player's Handbook p. 151. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 - **Kosten**: 5 Goldmünzen
 - **Gewicht**: 0.5 kg.

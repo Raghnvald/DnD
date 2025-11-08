@@ -7,7 +7,7 @@ Wirkungsdauer: 1 Minute
 Angriff: 
 Schaden: 
 tags:
-- Quelle/5e/Players_Handbook
+- Quelle/5e/phb
 - Klasse/Hexenmeister
 - Klasse/Magier
 - Klasse/Zauberer

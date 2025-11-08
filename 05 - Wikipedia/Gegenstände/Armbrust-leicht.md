@@ -9,7 +9,7 @@ Eigenschaften: Geschosse, Nachladen, Zweihändig
 Gew.: 2,5 kg
 Kst.: 25 GM
 tags:
-  - Quelle/5e/Players_Handbook
+  - Quelle/5e/phb
   - Gegenstand/Waffe/Fernkampf/Einfach
   - Gegenstand/Seltenheit/gewöhnlich
   - Gegenstand/Eigenschaft/Munition

@@ -4,7 +4,7 @@ Typ: Gift
 Eigenschaften: Gift
 Gew.: n/v
 Kst.: 200 GM
-tags: [Gegenstand/Ausrüstung/Gift, Gegenstand/Eigenschaft/Gift, Quelle/5e/Dungeon_Masters_Guide]
+tags: [Gegenstand/Ausrüstung/Gift, Gegenstand/Eigenschaft/Gift, Quelle/5e/dmg]
 aliases: [Crawler Mucus (Contact)]
 ---
 # Aaskriecherschleim (Kontakt)

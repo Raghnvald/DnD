@@ -6,7 +6,7 @@ Eigenschaften: Vielseitig (1W8), Wurfwaffe (Reichweite 6/18)
 Gew.: 2,0 kg
 Kst.: n/v
 tags:
-- Quelle/5e/Dungeon_Masters_Guide
+- Quelle/5e/dmg
 - Gegenstand/Waffe/Nahkampf/Kriegswaffe
 - Gegenstand/Seltenheit/ungewöhnlich
 - Gegenstand/Eigenschaft/Vielseitig

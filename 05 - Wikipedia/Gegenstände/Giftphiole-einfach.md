@@ -5,7 +5,7 @@ Eigenschaften: Gift
 Kst.: 100 GM
 Gew.: n/v
 tags:
-- Quelle/5e/Players_Handbook
+- Quelle/5e/phb
 - Gegenstand/Seltenheit/gewöhnlich
 - Gegenstand/Ausrüstung/Gift
 - Gegenstand/Eigenschaft/Gift

@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - Quelle/5e/bgg
 - Gegenstand/item/age/renaissance
-- Gegenstand/item/rarity/very-rare
+- Gegenstand/Seltenheit/sehr_selten
 - Gegenstand/item/weapon/martial
 - Gegenstand/item/weapon/ranged
 aliases: 

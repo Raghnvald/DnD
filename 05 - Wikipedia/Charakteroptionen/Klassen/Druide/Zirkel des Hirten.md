@@ -1,5 +1,5 @@
 ---
-tags: [Klasse/Druide/Hirte, Quelle/5e/Players_Handbook]
+tags: [Klasse/Druide/Hirte, Quelle/5e/phb]
 aliases: [Circle of the Land]
 ---
 Zirkel des Hirten

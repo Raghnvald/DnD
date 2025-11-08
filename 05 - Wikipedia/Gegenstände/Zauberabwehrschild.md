@@ -9,7 +9,7 @@ Eigenschaften: erfordert Einstimmung
 Gew.: 3,0 kg
 Kst.: n/v
 tags:
-- Quelle/5e/Dungeon_Masters_Guide
+- Quelle/5e/dmg
 - Gegenstand/Rüstung/Schild
 - Gegenstand/Einstimmung/erforderlich
 - Gegenstand/Seltenheit/sehr_selten

@@ -6,7 +6,7 @@ Gew.: 0,5 kg
 Kst.: 4.000 GM
 image: wand-of-fear.webp
 tags:
-- Quelle/5e/Dungeon_Masters_Guide
+- Quelle/5e/dmg
 - Gegenstand/wundersam/Zauberstab
 - Gegenstand/Seltenheit/selten
 - Gegenstand/Einstimmung/erforderlich

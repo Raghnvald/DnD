@@ -7,7 +7,7 @@ Wirkungsdauer: 1 Stunde
 Angriff:
 Schaden:
 tags:
-  - Quelle/5e/Players_Handbook
+  - Quelle/5e/phb
   - Klasse/Barde
   - Klasse/Hexenmeister
   - Klasse/Magier

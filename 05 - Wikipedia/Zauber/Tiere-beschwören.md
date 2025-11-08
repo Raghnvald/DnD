@@ -1,7 +1,7 @@
 ---
 cssclasses: json5e-spell
 tags:
-  - Quelle/5e/Players_Handbook
+  - Quelle/5e/phb
   - Klasse/Druide
   - Klasse/Waldläufer
   - Zauber/Grad/3

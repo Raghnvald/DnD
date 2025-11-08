@@ -4,7 +4,7 @@ cssclasses:
 - json5e-item
 tags:
 - Quelle/5e/phb
-- Gegenstand/item/rarity/none
+- Gegenstand/Seltenheit/keine
 - Gegenstand/item/vehicle/land
 aliases: 
 - "Wagon"

@@ -7,7 +7,7 @@ Wirkungsdauer: Konzentration, bis zu 1 Minute
 Angriff: Charisma
 Schaden: n/a
 tags:
-- Quelle/5e/Players_Handbook
+- Quelle/5e/phb
 - Klasse/Barde
 - Klasse/Kleriker
 - Zauber/Original/Calm_Emotions

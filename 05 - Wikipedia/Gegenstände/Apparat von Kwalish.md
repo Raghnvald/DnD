@@ -5,7 +5,7 @@ Eigenschaften: n/v
 Gew.: 250,0 kg
 Kst.: n/v
 tags:
-- Quelle/5e/Dungeon_Masters_Guide
+- Quelle/5e/dmg
 - Gegenstand/wundersam
 - Gegenstand/Seltenheit/legendär
 aliases:
@@ -19,6 +19,7 @@ _Klassen:_ n/v
 _Unterklassen:_  n/v
 
 _Quellen:_ Spielleiterhandbuch
+*Source: Dungeon Master's Guide p. 151. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> (as "Apparatus of the Crab")*
 
 - **Eigenschaften:** n/v
 - **Kosten**: n/v

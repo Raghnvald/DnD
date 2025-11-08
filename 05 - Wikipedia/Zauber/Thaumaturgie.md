@@ -7,7 +7,7 @@ Wirkungsdauer: bis zu 1 Minute
 Angriff: nichts
 Schaden: Kontrolle
 tags:
-- Quelle/5e/Players_Handbook
+- Quelle/5e/phb
 - Klasse/Kleriker
 - Klasse/Illrigger
 - Zauber/Grad/0

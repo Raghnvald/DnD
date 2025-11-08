@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - Quelle/5e/dmg
 - Gegenstand/item/age/renaissance
-- Gegenstand/item/rarity/none
+- Gegenstand/Seltenheit/keine
 - Gegenstand/item/weapon/explosive
 aliases: 
 - "Bomb"

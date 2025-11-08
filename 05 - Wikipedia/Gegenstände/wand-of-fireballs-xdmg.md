@@ -4,7 +4,7 @@ cssclasses:
 tags:
   - Quelle/5e/xdmg
   - Gegenstand/item/attunement/required
-  - Gegenstand/item/rarity/rare
+  - Gegenstand/Seltenheit/selten
   - Gegenstand/item/wondrous/wand
 aliases:
   - Wand of Fireballs

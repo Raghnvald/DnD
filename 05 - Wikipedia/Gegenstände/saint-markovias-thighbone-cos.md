@@ -4,7 +4,7 @@ cssclasses:
 tags:
   - Quelle/5e/cos
   - Gegenstand/item/attunement/required
-  - Gegenstand/item/rarity/rare
+  - Gegenstand/Seltenheit/selten
   - Gegenstand/item/weapon/melee
 aliases:
   - Saint Markovia's Thighbone

@@ -5,7 +5,7 @@ Eigenschaften: n/v
 Gew.: 0,25 kg
 Kst.: 2.000 GM
 tags:
-- Quelle/5e/Dungeon_Masters_Guide
+- Quelle/5e/dmg
 - Gegenstand/wundersam/Trank
 - Gegenstand/Seltenheit/selten
 aliases:

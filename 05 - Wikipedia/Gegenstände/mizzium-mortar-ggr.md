@@ -4,7 +4,7 @@ cssclasses:
 - json5e-item
 tags:
 - Quelle/5e/ggr
-- Gegenstand/item/rarity/rare
+- Gegenstand/Seltenheit/selten
 aliases: 
 - "Mizzium Mortar"
 ---

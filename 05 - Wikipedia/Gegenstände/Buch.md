@@ -5,20 +5,21 @@ Eigenschaften: n/v
 Gew.: 2,5 kg
 Kst.: 25 GM
 tags:
-- Quelle/5e/Players_Handbook
+- Quelle/5e/phb
 - Gegenstand/Ausrüstung
-- Gegenstand/Seltenheit/gewöhnlich
+- Gegenstand/Seltenheit/keine
 aliases:
 - Book
 ---
 # Buch
-*Abenteuerausrüstung, gewöhnlich*  
+*Abenteuerausrüstung*  
 <img src="Symbolik/Gegenstände.webp" align="right" width="150">
 
 _Klassen:_ n/v 
 _Unterklassen:_  n/v
 
 _Quellen:_ Spielerhandbuch
+*Source: Player's Handbook p. 151. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 - **Eigenschaften**: n/v
 - **Gewicht**: 2,5 kg.

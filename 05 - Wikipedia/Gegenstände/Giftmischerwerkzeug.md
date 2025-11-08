@@ -5,7 +5,7 @@ Eigenschaften: n/v
 Kst.: 50 GM
 Gew.: 1,0 kg
 tags:
-- Quelle/5e/Players_Handbook
+- Quelle/5e/phb
 - Gegenstand/Ausrüstung/Werkzeug
 aliases:
 - Poisoner's Kit

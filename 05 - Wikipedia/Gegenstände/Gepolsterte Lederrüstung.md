@@ -1,7 +1,7 @@
 ---
 cssclasses: dnd5e-compendium
 tags:
-  - Quelle/5e/Players_Handbook
+  - Quelle/5e/phb
   - Gegenstand/Rüstung/Leicht
   - Gegenstand/Seltenheit/gewöhnlich
 aliases:

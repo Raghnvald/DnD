@@ -4,7 +4,7 @@ cssclasses:
 tags:
   - Quelle/5e/bgdia
   - Gegenstand/item/attunement/required
-  - Gegenstand/item/rarity/legendary
+  - Gegenstand/Seltenheit/legendär
   - Gegenstand/Rüstung/Schild/
 aliases:
   - Shield of the Hidden Lord

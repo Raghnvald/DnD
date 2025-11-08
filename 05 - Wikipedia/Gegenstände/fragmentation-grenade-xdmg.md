@@ -4,7 +4,7 @@ cssclasses:
 tags:
   - Quelle/5e/xdmg
   - Gegenstand/item/age/modern
-  - Gegenstand/item/rarity/none
+  - Gegenstand/Seltenheit/keine
   - Gegenstand/item/weapon/explosive
 aliases:
   - Fragmentation Grenade

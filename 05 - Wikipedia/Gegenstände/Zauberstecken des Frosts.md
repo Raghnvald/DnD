@@ -6,7 +6,7 @@ Eigenschaften: Vielseitig (1W8)
 Gew.: 2,0 kg
 Kst.: 40.000 GM
 tags:
-- Quelle/5e/Dungeon_Masters_Guide
+- Quelle/5e/dmg
 - Gegenstand/wundersam/Zauberstecken
 - Gegenstand/Seltenheit/sehr_selten
 - Gegenstand/Eigenschaft/Vielseitig

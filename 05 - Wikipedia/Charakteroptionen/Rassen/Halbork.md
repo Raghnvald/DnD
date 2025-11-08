@@ -1,5 +1,5 @@
 ---
-tags: [Quelle/5e/Players_Handbook]
+tags: [Quelle/5e/phb]
 aliases: ["Half-Orc"]
 ---
 # Halbork

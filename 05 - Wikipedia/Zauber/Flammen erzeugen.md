@@ -7,7 +7,7 @@ Wirkungsdauer: 10 Minuten
 Angriff: Fernkampf
 Schaden: 1d8 Feuer
 tags:
-- Quelle/5e/Players_Handbook
+- Quelle/5e/phb
 - Klasse/Druide
 - Zauber/Original/Produce_Flame
 - Zauber/Grad/0

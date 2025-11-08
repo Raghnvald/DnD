@@ -4,7 +4,7 @@ cssclasses:
 - json5e-item
 tags:
 - Quelle/5e/dmg
-- Gegenstand/item/rarity/legendary
+- Gegenstand/Seltenheit/legendär
 - Gegenstand/item/tier/minor
 - Gegenstand/item/wondrous/scroll
 aliases: 

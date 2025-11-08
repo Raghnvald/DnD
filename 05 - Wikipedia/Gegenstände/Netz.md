@@ -8,7 +8,7 @@ Schadensart:
 Eigenschaften: Martial, Special, Thrown
 Kst.: 1 GM
 tags:
-  - Quelle/5e/Players_Handbook
+  - Quelle/5e/phb
   - Gegenstand/Eigenschaft/Kriegswaffe
   - Gegenstand/Eigenschaft/Besonders
   - Gegenstand/Eigenschaft/Wurfwaffe

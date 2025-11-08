@@ -7,7 +7,7 @@ Wirkungsdauer: Unmittelbar
 Angriff: nichts
 Schaden: Heilung
 tags:
-- Quelle/5e/Players_Handbook
+- Quelle/5e/phb
 - Klasse/Kleriker
 - Klasse/Magieschmied
 - Zauber/Grad/0

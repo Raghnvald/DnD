@@ -1,6 +1,6 @@
 ---
 tags:
-- Quelle/5e/Dungeon_Masters_Guide
+- Quelle/5e/dmg
 - Gegenstand/Einstimmung/erforderlich
 - Gegenstand/Seltenheit/ungewöhnlich
 - Gegenstand/wundersam

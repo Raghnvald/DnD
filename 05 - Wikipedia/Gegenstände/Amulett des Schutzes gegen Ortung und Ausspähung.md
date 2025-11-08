@@ -5,7 +5,7 @@ Eigenschaften: erfordert Einstimmung
 Gew.: 0,5 kg
 Kst.: 20.000 GM
 tags:
-- Quelle/5e/Dungeon_Masters_Guide
+- Quelle/5e/dmg
 - Gegenstand/wundersam
 - Gegenstand/Seltenheit/ungewöhnlich
 - Gegenstand/Einstimmung
@@ -20,6 +20,7 @@ _Klassen:_ n/v
 _Unterklassen:_  n/v
 
 _Quellen:_ Spielleiterhandbuch
+*Source: Dungeon Master's Guide p. 150. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 - **Eigenschaften**: Erfordert Einstimmung
 - **Kosten**: 20.000 Goldmünzen

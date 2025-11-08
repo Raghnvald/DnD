@@ -7,7 +7,7 @@ Wirkungsdauer: K, <1 Minute
 Angriff: nichts
 Schaden: Verstärkung
 tags: 
-- Quelle/5e/Players_Handbook
+- Quelle/5e/phb
 - Klasse/Druide
 - Klasse/Kleriker
 - Klasse/Magieschmied

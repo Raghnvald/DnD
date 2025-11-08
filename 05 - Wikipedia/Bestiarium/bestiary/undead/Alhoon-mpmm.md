@@ -3,8 +3,8 @@ cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
 tags:
   - Quelle/5e/mpmm
-  - Monster/cr/10
-  - Monster/environment/underdark
+  - Monster/HG/10
+  - Monster/Habitat/Unterreich
   - Monster/Größe/Mittelgroß
   - Monster/Typ/Untote/mind-flayer
   - Monster/Typ/Untote/wizard

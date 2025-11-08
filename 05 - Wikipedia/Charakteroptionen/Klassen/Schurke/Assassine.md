@@ -1,5 +1,5 @@
 ---
-tags: [Klasse/Schurke, Quelle/5e/Players_Handbook]
+tags: [Klasse/Schurke, Quelle/5e/phb]
 aliases: [Assassin]
 ---
 # Assassine

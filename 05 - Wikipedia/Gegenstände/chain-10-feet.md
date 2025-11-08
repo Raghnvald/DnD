@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - Quelle/5e/phb
 - Gegenstand/item/gear/
-- Gegenstand/item/rarity/none
+- Gegenstand/Seltenheit/keine
 aliases: 
 - "Chain (10 feet)"
 ---

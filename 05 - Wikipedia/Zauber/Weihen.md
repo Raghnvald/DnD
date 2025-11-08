@@ -7,7 +7,7 @@ Wirkungsdauer: bis der Zauber gebannt wird
 Angriff: CHA
 Schaden: n/a
 tags:
-- Quelle/5e/Players_Handbook
+- Quelle/5e/phb
 - Klasse/Kleriker
 - Zauber/Grad/5
 - Zauber/Schule/Hervorrufung

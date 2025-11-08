@@ -4,7 +4,7 @@ cssclasses:
 tags:
   - Quelle/5e/cos
   - Gegenstand/item/gear/
-  - Gegenstand/item/rarity/none
+  - Gegenstand/Seltenheit/keine
 aliases:
   - Tome of Strahd
 ---

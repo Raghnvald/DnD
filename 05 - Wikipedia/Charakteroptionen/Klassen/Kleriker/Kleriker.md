@@ -5,7 +5,7 @@ status:
   - completed
 tags:
   - Klasse/Kleriker
-  - Quelle/5e/Players_Handbook
+  - Quelle/5e/phb
 aliases:
   - Cleric
 link:

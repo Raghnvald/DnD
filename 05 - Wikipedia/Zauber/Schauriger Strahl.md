@@ -7,7 +7,7 @@ Wirkungsdauer: Unmittelbar
 Angriff: Fernkampf
 Schaden: 1d10 Energie
 tags:
-- Quelle/5e/Players_Handbook
+- Quelle/5e/phb
 - Klasse/Hexenmeister
 - Zauber/Original/Eldritch_Blast
 - Zauber/Grad/0

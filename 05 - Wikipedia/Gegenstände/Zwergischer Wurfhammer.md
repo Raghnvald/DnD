@@ -6,7 +6,7 @@ Eigenschaften: Vielseitig (1W10), Wurfwaffe (Reichweite 6/18)
 Gew.: 1,0 kg
 Kst.: n/v
 tags:
-- Quelle/5e/Dungeon_Masters_Guide
+- Quelle/5e/dmg
 - Gegenstand/Waffe/Nahkampf/Kriegswaffe
 - Gegenstand/Seltenheit/sehr_selten
 - Gegenstand/Eigenschaft/Wurfwaffe

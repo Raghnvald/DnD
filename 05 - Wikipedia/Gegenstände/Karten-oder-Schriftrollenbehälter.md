@@ -5,7 +5,7 @@ Eigenschaften: n/v
 Gew.: 0,5 kg
 Kst.: 1 GM
 tags:
-- Quelle/5e/Players_Handbook
+- Quelle/5e/phb
 - Gegenstand/Ausrüstung
 - Gegenstand/Seltenheit/gewöhnlich
 aliases:

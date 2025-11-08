@@ -5,7 +5,7 @@ tags:
   - Quelle/5e/xdmg
   - Gegenstand/item/age/futuristic
   - Gegenstand/item/age/modern
-  - Gegenstand/item/rarity/uncommon
+  - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/item/weapon/martial
   - Gegenstand/item/weapon/melee
   - Gegenstand/item/weapon/ranged

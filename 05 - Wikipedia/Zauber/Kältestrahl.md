@@ -7,7 +7,7 @@ Wirkungsdauer: Unmittelbar
 Angriff: Fernkampf
 Schaden: 1d8 Kälte
 tags:
-- Quelle/5e/Players_Handbook
+- Quelle/5e/phb
 - Klasse/Illrigger
 - Klasse/Magier
 - Klasse/Magieschmied

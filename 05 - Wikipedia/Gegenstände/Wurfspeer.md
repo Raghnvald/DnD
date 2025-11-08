@@ -6,7 +6,7 @@ Eigenschaften: Wurfwaffe (Reichweite 9/36)
 Gew.: 1,0 kg
 Kst.: 5 SM
 tags:
-- Quelle/5e/Players_Handbook
+- Quelle/5e/phb
 - Gegenstand/Waffe/Nahkampf/Einfach
 - Gegenstand/Seltenheit/gewöhnlich
 - Gegenstand/Eigenschaft/Wurfwaffe

@@ -1,5 +1,5 @@
 ---
-tags: [Quelle/5e/Dungeon_Masters_Guide]
+tags: [Quelle/5e/dmg]
 ---
 # Kapitel 1: Erschaffe deine eigene Welt
 Deine Welt ist das Umfeld für deine Kampagne, der Ort, an dem sich deine Abenteuer abspielen. Selbst wenn du ein existierendes Umfeld verwendest, wie zum Beispiel die Vergessenen Reiche, wird es zu deinem eigenen, sobald du deine Abenteuer darin ansiedelst, Charaktere erschaffst, um es zu bevölkern und es über den Lauf deiner Kampagne veränderst. Dieses Kapitel beinhaltet alles, was du benötigst, um deine Welt zu erschaffen und anschließend eine Kampagne darin anzusiedeln.

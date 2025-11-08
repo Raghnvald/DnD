@@ -7,7 +7,7 @@ Wirkungsdauer: unmittelbar
 Angriff: GES
 Schaden: n/a
 tags:
-- Quelle/5e/Players_Handbook
+- Quelle/5e/phb
 - Klasse/Magier
 - Klasse/Zauberer
 - Zauber/Original/Prismatic_Spray

@@ -7,7 +7,7 @@ Wirkungsdauer: Unmittelbar
 Angriff: WEI
 Schaden: 1d4 psychisch
 tags:
-- Quelle/5e/Players_Handbook
+- Quelle/5e/phb
 - Klasse/Barde
 - Klasse/Illrigger
 - Zauber/Original/Vicious_Mockery

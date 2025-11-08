@@ -3,7 +3,7 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/ftd
-  - Gegenstand/item/rarity/legendary
+  - Gegenstand/Seltenheit/legendär
 aliases:
   - Gold Canary Figurine of Wondrous Power
 ---

@@ -9,7 +9,7 @@ Eigenschaften: Geschosse, Nachladen
 Kst.: 10 GM
 Gew.: 0,5 kg.
 tags:
-  - Quelle/5e/Players_Handbook
+  - Quelle/5e/phb
   - Gegenstand/Waffe/Fernkampf/Kriegswaffe
   - Gegenstand/Seltenheit/gewöhnlich
   - Gegenstand/Eigenschaft/Kriegswaffe

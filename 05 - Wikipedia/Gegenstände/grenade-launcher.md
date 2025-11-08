@@ -6,7 +6,7 @@ tags:
 - Quelle/5e/dmg
 - Gegenstand/item/age/modern
 - Gegenstand/item/gear/
-- Gegenstand/item/rarity/none
+- Gegenstand/Seltenheit/keine
 aliases: 
 - "Grenade Launcher"
 ---

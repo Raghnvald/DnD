@@ -1,5 +1,5 @@
 ---
-tags: [Klasse/Kämpfer, Quelle/5e/Players_Handbook]
+tags: [Klasse/Kämpfer, Quelle/5e/phb]
 aliases: [Fighter]
 ---
 # Kämpfer

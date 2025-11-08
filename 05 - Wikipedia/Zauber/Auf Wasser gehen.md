@@ -7,7 +7,7 @@ Wirkungsdauer: 1 Stunde
 Angriff: n/v
 Schaden: n/v
 tags:
-- Quelle/5e/Players_Handbook
+- Quelle/5e/phb
 - Klasse/Druide
 - Klasse/Kleriker
 - Klasse/Waldläufer

@@ -4,8 +4,8 @@ cssclasses:
 tags:
   - Quelle/5e/xmm
   - Monster/HG/10
-  - Monster/environment/underdark
-  - Monster/environment/underwater
+  - Monster/Habitat/Unterreich
+  - Monster/Habitat/underwater
   - Monster/Größe/Groß
   - Monster/Typ/Aberration
 statblock: inline

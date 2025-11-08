@@ -1,7 +1,7 @@
 ---
 cssclasses: dnd5e-compendium
 tags:
-  - Quelle/5e/Dungeon_Masters_Guide
+  - Quelle/5e/dmg
   - Gegenstand/Rüstung/Schild
   - Gegenstand/Einstimmung/erforderlich
   - Gegenstand/Seltenheit/selten

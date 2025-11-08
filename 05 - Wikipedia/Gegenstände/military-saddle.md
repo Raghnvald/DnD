@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - Quelle/5e/phb
 - Gegenstand/item/gear/tack-and-harness
-- Gegenstand/item/rarity/none
+- Gegenstand/Seltenheit/keine
 aliases: 
 - "Military Saddle"
 ---

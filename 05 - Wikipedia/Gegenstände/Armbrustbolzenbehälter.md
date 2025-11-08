@@ -5,7 +5,7 @@ Eigenschaften: n/v
 Gew.: 0,5 kg
 Kst.: 1 GM
 tags:
-- Quelle/5e/Players_Handbook
+- Quelle/5e/phb
 - Gegenstand/Ausrüstung
 - Gegenstand/Seltenheit/gewöhnlich
 aliases:
@@ -18,7 +18,7 @@ aliases:
 _Klassen:_ n/v 
 _Unterklassen:_  n/v
 
-_Quellen:_ Spielerhandbuch
+*Quellen: Spielerhandbuch S. 151. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 - **Eigenschaften**: n/v
 - **Gewicht**: 0,5 kg.

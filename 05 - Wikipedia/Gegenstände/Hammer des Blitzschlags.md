@@ -6,7 +6,7 @@ Eigenschaften: Schwer, Zweihändig
 Gew.: 5,0 kg
 Kst.: n/v
 tags:
-- Quelle/5e/Dungeon_Masters_Guide
+- Quelle/5e/dmg
 - Gegenstand/Waffe/Nahkampf/Kriegswaffe
 - Gegenstand/Seltenheit/legendär
 - Gegenstand/Eigenschaft/Schwer

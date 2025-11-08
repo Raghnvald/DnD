@@ -5,7 +5,7 @@ Eigenschaften: erfordert Einstimmung
 Gew.: n/v
 Kst.: 200.000 GM
 tags:
-- Quelle/5e/Dungeon_Masters_Guide
+- Quelle/5e/dmg
 - Gegenstand/wundersam/Ring
 - Gegenstand/Seltenheit/legendär
 - Gegenstand/Einstimmung/erforderlich

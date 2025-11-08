@@ -7,7 +7,7 @@ Wirkungsdauer: 10 Tage
 Angriff: WEI
 Schaden: n/a
 tags:
-- Quelle/5e/Players_Handbook
+- Quelle/5e/phb
 - Klasse/Barde/magical-secrets
 - Klasse/Druide
 - Klasse/Magier

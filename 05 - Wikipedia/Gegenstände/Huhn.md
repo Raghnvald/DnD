@@ -5,7 +5,7 @@ Eigenschaften: n/v
 Kst.: 2 KM
 Gew.: n/v
 tags:
-- Quelle/5e/Players_Handbook
+- Quelle/5e/phb
 - Gegenstand/Ausrüstung/Handelsgut
 - Gegenstand/Seltenheit/gewöhnlich
 aliases:

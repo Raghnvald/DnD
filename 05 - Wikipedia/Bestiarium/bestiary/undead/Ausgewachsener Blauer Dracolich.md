@@ -3,8 +3,8 @@ cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
 tags:
   - Quelle/5e/mm
-  - Monster/cr/17
-  - Monster/environment/desert
+  - Monster/HG/17
+  - Monster/Habitat/Wüste
   - Monster/Größe/Riesig
   - Monster/Typ/Untote
 statblock: inline

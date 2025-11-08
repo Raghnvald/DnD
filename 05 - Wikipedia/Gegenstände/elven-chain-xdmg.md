@@ -5,7 +5,7 @@ tags:
   - Quelle/5e/xdmg
   - Gegenstand/Rüstung/Schwer
   - Gegenstand/Rüstung/Mittel
-  - Gegenstand/item/rarity/rare
+  - Gegenstand/Seltenheit/selten
   - Gegenstand/item/wondrous/generic-variant
 aliases:
   - Elven Chain

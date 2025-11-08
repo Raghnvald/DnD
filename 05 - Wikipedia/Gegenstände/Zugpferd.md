@@ -5,7 +5,7 @@ Eigenschaften: n/v
 Gew.: n/v
 Kst.: 50 GM
 tags:
-- Quelle/5e/Players_Handbook
+- Quelle/5e/phb
 - Gegenstand/Ausrüstung/Reit-und-Lastentier
 - Gegenstand/Seltenheit/gewöhnlich
 aliases:

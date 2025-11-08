@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - Quelle/5e/ggr
 - Gegenstand/item/gear/treasure-coinage
-- Gegenstand/item/rarity/none
+- Gegenstand/Seltenheit/keine
 aliases: 
 - "Copper Alms-Coin"
 ---

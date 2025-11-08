@@ -1,5 +1,5 @@
 ---
-tags: [Quelle/5e/Dungeon_Masters_Guide]
+tags: [Quelle/5e/dmg]
 ---
 Whereas chapters 1 and chapter 2 teach the essentials of being a Dungeon Master, this chapter provides advice on topics that can surface as you prepare or run a D&D game session, as well as rules for adventure elements ranging from chases and doors to traps. It also includes guidance on creating new backgrounds, creatures, magic items, and spells to amuse your players.
 

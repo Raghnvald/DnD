@@ -7,7 +7,7 @@ Wirkungsdauer: 1 Stunde
 Angriff: n/v
 Schaden: n/v
 tags:
-- Quelle/5e/Players_Handbook
+- Quelle/5e/phb
 - Klasse/Magier
 - Zauber/Original/Rarys_Telepathic_Bond
 - Zauber/Grad/5

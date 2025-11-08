@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - Quelle/5e/dmg
 - Gegenstand/item/attunement/required
-- Gegenstand/item/rarity/artifact
+- Gegenstand/Seltenheit/Artefakt
 aliases: 
 - "Book of Exalted Deeds"
 ---

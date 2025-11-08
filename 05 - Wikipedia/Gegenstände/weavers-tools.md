@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - Quelle/5e/phb
 - Gegenstand/item/gear/artisans-tools
-- Gegenstand/item/rarity/none
+- Gegenstand/Seltenheit/keine
 aliases: 
 - "Weaver's Tools"
 ---

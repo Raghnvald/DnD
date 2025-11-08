@@ -1,5 +1,5 @@
 ---
-tags: [Klasse/Mönch, Quelle/5e/Players_Handbook]
+tags: [Klasse/Mönch, Quelle/5e/phb]
 aliases: [Monk]
 ---
 Monk

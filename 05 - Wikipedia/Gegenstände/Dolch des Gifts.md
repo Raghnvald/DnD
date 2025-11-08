@@ -6,7 +6,7 @@ Eigenschaften: Finesse, Leicht, Wurfwaffe (Reichweite 6/18)
 Gew.: 0,5 kg
 Kst.: n/v
 tags:
-- Quelle/5e/Dungeon_Masters_Guide
+- Quelle/5e/dmg
 - Gegenstand/Waffe/Nahkampf/Einfach
 - Gegenstand/Seltenheit/selten
 - Gegenstand/Eigenschaft/Finesse

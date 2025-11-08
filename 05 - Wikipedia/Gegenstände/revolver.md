@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - Quelle/5e/dmg
 - Gegenstand/item/age/modern
-- Gegenstand/item/rarity/none
+- Gegenstand/Seltenheit/keine
 - Gegenstand/item/weapon/martial
 - Gegenstand/item/weapon/ranged
 aliases: 

@@ -4,7 +4,7 @@ cssclasses:
 tags:
   - Quelle/5e/xphb
   - Gegenstand/item/gear/tool
-  - Gegenstand/item/rarity/none
+  - Gegenstand/Seltenheit/keine
 aliases:
   - Herbalism Kit
 ---

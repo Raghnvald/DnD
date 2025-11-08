@@ -3,8 +3,8 @@ cssclasses:
   - json5e-monster
 tags:
   - Quelle/5e/mpmm
-  - Monster/cr/20
-  - Monster/environment/underdark
+  - Monster/HG/20
+  - Monster/Habitat/Unterreich
   - Monster/Größe/Mittelgroß
   - Monster/Typ/Humanoid/cleric
   - Monster/Typ/Humanoid/elf

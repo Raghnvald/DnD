@@ -4,7 +4,7 @@ cssclasses:
 tags:
   - Quelle/5e/tce
   - Gegenstand/item/attunement/required
-  - Gegenstand/item/rarity/very-rare
+  - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/item/wondrous/tattoo
 aliases:
   - Thunder Absorbing Tattoo

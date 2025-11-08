@@ -1,5 +1,5 @@
 ---
-tags: [Klasse/Waldläufer/Jäger, Quelle/5e/Players_Handbook]
+tags: [Klasse/Waldläufer/Jäger, Quelle/5e/phb]
 aliases: [Hunter]
 ---
 Jäger

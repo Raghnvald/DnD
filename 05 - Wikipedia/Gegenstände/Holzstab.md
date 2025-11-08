@@ -6,7 +6,7 @@ Eigenschaften: Vielseitig (1W8)
 Gew.: 2,0 kg
 Kst.: 5 GM
 tags:
-- Quelle/5e/Players_Handbook
+- Quelle/5e/phb
 - Gegenstand/Ausrüstung
 - Gegenstand/Zauberfokus
 - Gegenstand/Seltenheit/gewöhnlich
@@ -18,6 +18,8 @@ aliases:
 # Holzstab
 *Zauberfokus, druidisch,  gewöhnlich*  
 <img src="Symbolik/Gegenstände.webp" align="right" width="150">
+
+*Source: Player's Handbook p. 151. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 - **Reichweite:** 1,5 m
 - **Schaden:** 1W6

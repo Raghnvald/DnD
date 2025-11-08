@@ -3,9 +3,9 @@ cssclasses:
   - json5e-monster
 tags:
   - Quelle/5e/mm
-  - Monster/cr/2
-  - Monster/environment/forest
-  - Monster/environment/urban
+  - Monster/HG/2
+  - Monster/Habitat/Wald
+  - Monster/Habitat/Stadt
   - Monster/Größe/Mittelgroß
   - Monster/Typ/Humanoid/human
   - Monster/Typ/Humanoid/shapechanger

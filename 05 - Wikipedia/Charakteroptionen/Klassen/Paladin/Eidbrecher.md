@@ -5,7 +5,7 @@ status:
   - completed
 tags:
   - Klasse/Paladin
-  - Quelle/5e/Dungeon_Masters_Guide
+  - Quelle/5e/dmg
 aliases:
   - Oathbreaker
 link:

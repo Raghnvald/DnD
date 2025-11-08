@@ -1,7 +1,7 @@
 ---
 cssclasses: dnd5e-compendium
 tags:
-  - Quelle/5e/Dungeon_Masters_Guide
+  - Quelle/5e/dmg
   - Gegenstand/Rüstung/Schild
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/Einstimmung/erforderlich
@@ -19,12 +19,12 @@ Kst.: 6.000 GM
 ---
 # Belebter Schild
 *Rüstung (Schild), sehr selten (erfordert Einstimmung)*  
-<img src="Belebter-Schild.webp" align="right" width="150">
+<img src="animated-shield.webp" align="right" width="150">
 
 _Klassen:_ n/v 
 _Unterklassen:_  n/v
 
-_Quellen:_ Spielleiterhandbuch
+*Quellen: Spielleiterhandbuch S. 151. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 - **Rüstungsklasse**: 2
 - **Eigenschaften:** erfordert Einstimmung

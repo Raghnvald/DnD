@@ -5,16 +5,18 @@ Eigenschaften: Gift
 Kst.: 150 GM
 Gew.: n/v
 tags:
-- Quelle/5e/Dungeon_Masters_Guide
+- Quelle/5e/dmg
 - Gegenstand/Ausrüstung/Gift
-- Gegenstand/Seltenheit/ungewöhnlich
+- Gegenstand/Seltenheit/keine
 - Gegenstand/Eigenschaft/Gift
 aliases:
 - Assassin's Blood
 ---
-# Assassinenblut (Einnahme)
-*Abenteuerausrüstung, Gift, ungewöhnlich*  
+# Assassinenblut
+*Abenteuerausrüstung, Gift (Einnahme)*  
 <img src="Symbolik/Gegenstände.webp" align="right" width="150">
+
+*Source: Dungeon Master's Guide p. 258. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 - **Eigenschaften**: Gift
 - **Kosten**: 150 Goldmünzen

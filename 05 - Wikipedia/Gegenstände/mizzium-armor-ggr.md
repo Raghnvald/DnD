@@ -6,7 +6,7 @@ tags:
 - Quelle/5e/ggr
 - Gegenstand/Rüstung/Schwer
 - Gegenstand/Rüstung/Mittel
-- Gegenstand/item/rarity/rare
+- Gegenstand/Seltenheit/selten
 - Gegenstand/item/wondrous/generic-variant
 aliases: 
 - "Mizzium Armor"

@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - Quelle/5e/phb
 - Gegenstand/item/gear/trade-good
-- Gegenstand/item/rarity/none
+- Gegenstand/Seltenheit/keine
 aliases: 
 - "Cotton Cloth (1 sq. yd.)"
 ---

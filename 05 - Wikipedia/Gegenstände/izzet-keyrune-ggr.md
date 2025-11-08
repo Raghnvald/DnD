@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - Quelle/5e/ggr
 - Gegenstand/item/attunement/required
-- Gegenstand/item/rarity/rare
+- Gegenstand/Seltenheit/selten
 aliases: 
 - "Izzet Keyrune"
 ---

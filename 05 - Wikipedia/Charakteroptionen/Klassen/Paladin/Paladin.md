@@ -5,7 +5,7 @@ status:
   - completed
 tags:
   - Klasse/Paladin
-  - Quelle/5e/Players_Handbook
+  - Quelle/5e/phb
 aliases:
   - Paladin
 link:

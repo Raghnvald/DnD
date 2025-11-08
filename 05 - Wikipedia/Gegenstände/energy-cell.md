@@ -6,7 +6,7 @@ tags:
 - Quelle/5e/dmg
 - Gegenstand/item/age/futuristic
 - Gegenstand/item/gear/ammunition-firearm
-- Gegenstand/item/rarity/none
+- Gegenstand/Seltenheit/keine
 aliases: 
 - "Energy Cell"
 ---

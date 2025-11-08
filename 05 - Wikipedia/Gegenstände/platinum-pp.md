@@ -4,7 +4,7 @@ cssclasses:
 tags:
   - Quelle/5e/phb
   - Gegenstand/item/gear/treasure-coinage
-  - Gegenstand/item/rarity/none
+  - Gegenstand/Seltenheit/keine
 aliases:
   - Platinum (pp)
 ---

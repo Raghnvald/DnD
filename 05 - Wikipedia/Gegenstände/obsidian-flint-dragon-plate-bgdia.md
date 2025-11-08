@@ -4,7 +4,7 @@ cssclasses:
 tags:
   - Quelle/5e/bgdia
   - Gegenstand/Rüstung/Schwer
-  - Gegenstand/item/rarity/legendary
+  - Gegenstand/Seltenheit/legendär
 aliases:
   - Obsidian Flint Dragon Plate
 ---

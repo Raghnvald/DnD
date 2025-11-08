@@ -1,7 +1,7 @@
 ---
 cssclasses: json5e-note
 tags:
-  - Quelle/5e/Players_Handbook
+  - Quelle/5e/phb
 aliases:
   - Getting Into and Out of Armor; Donning and Doffing Armor
 ---

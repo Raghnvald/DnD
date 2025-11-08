@@ -4,7 +4,7 @@ cssclasses:
 tags:
   - Quelle/5e/ftd
   - Gegenstand/item/attunement/required
-  - Gegenstand/item/rarity/rare
+  - Gegenstand/Seltenheit/selten
   - Gegenstand/item/weapon/martial
   - Gegenstand/item/weapon/melee
   - Gegenstand/item/wondrous/generic-variant

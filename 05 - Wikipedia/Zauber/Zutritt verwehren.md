@@ -7,7 +7,7 @@ Wirkungsdauer: 1 Tag
 Angriff: n/v
 Schaden: Kontrolle
 tags:
-- Quelle/5e/Players_Handbook
+- Quelle/5e/phb
 - Klasse/Kleriker
 - Zauber/Original/Forbiddance
 - Zauber/Grad/6

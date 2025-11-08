@@ -6,7 +6,7 @@ tags:
 - Quelle/5e/dmg
 - Gegenstand/item/attunement/required
 - Gegenstand/item/gear/instrument
-- Gegenstand/item/rarity/rare
+- Gegenstand/Seltenheit/selten
 - Gegenstand/item/tier/major
 aliases: 
 - "Instrument of the Bards, Canaith Mandolin"

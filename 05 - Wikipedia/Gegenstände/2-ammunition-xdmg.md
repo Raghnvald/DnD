@@ -6,7 +6,7 @@ tags:
   - Gegenstand/item/age/futuristic
   - Gegenstand/item/gear/ammunition
   - Gegenstand/item/gear/ammunition-firearm
-  - Gegenstand/item/rarity/rare
+  - Gegenstand/Seltenheit/selten
   - Gegenstand/item/wondrous/generic-variant
 aliases:
   - +2 Ammunition

@@ -1,6 +1,6 @@
 ---
 tags:
-- Quelle/5e/Players_Handbook
+- Quelle/5e/phb
 aliases:
 - Adventuring Gear
 ---
@@ -30,7 +30,7 @@ _Quellen:_ Spielerhandbuch
 | *Druidischer Fokus*                                                              |          |                |
 | [[Holzstab]]                                                                     |     5 GM |        2,0 kg. |
 | [[Mistelzweigsprössling]]                                                        |     1 GM |              — |
-| [[D&D/05 - Wikipedia/Gegenstände/Totem]]                                                                        |     1 GM |              — |
+| [[Totem]]                                                                        |     1 GM |              — |
 | [[Eibenzauberstab]]                                                              |    10 GM |        0,5 kg. |
 |                                                                                  |          |                |
 | [[Eimer]]                                                                        |     5 KM |        1,0 kg. |

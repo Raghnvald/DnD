@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - Quelle/5e/bgg
 - Gegenstand/item/attunement/required
-- Gegenstand/item/rarity/rare
+- Gegenstand/Seltenheit/selten
 aliases: 
 - "Crown of the Wrath Bringer"
 ---

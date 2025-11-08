@@ -1,5 +1,5 @@
 ---
-tags: [Klasse/Magier/Illusionsmagie, Quelle/5e/Players_Handbook, Quelle/5e/SRD]
+tags: [Klasse/Magier/Illusionsmagie, Quelle/5e/phb, Quelle/5e/SRD]
 aliases: [School of Illusion]
 ---
 Schule der Illusionsmagie

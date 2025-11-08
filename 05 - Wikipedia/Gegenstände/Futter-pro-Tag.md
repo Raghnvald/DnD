@@ -5,7 +5,7 @@ Eigenschaften: n/v
 Gew.: 5,0 kg
 Kst.: 5 KM
 tags:
-- Quelle/5e/Players_Handbook
+- Quelle/5e/phb
 - Gegenstand/Ausrüstung/Zaumzeug-Harnisch-gezogene-Fahrzeuge
 - Gegenstand/Seltenheit/gewöhnlich
 aliases:

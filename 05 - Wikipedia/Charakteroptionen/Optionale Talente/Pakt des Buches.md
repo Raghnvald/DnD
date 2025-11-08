@@ -1,6 +1,6 @@
 ---
 tags:
-- Quelle/5e/Players_Handbook
+- Quelle/5e/phb
 - Klasse/Hexenmeister
 - Kompendium/Optionales/Pakt
 aliases:

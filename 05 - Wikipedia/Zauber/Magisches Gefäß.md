@@ -7,7 +7,7 @@ Wirkungsdauer: bis der Zauber gebannt wird
 Angriff: n/a
 Schaden: Kontrolle
 tags:
-- Quelle/5e/Players_Handbook
+- Quelle/5e/phb
 - Klasse/Magier
 - Zauber/Original/Magic_Jar
 - Zauber/Grad/6

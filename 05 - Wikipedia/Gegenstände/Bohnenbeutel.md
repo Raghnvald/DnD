@@ -1,7 +1,6 @@
 ---
-cssclasses: json5e-item
 tags:
-  - Quelle/5e/Dungeon_Masters_Guide
+  - Quelle/5e/dmg
   - Gegenstand/wundersam
   - Gegenstand/Seltenheit/selten
 aliases:
@@ -9,7 +8,9 @@ aliases:
 ---
 # Bohnenbeutel
 *Wundersamer Gegenstand, selten*  
-<img src="Gegenstände/Bohnenbeutel.webp" align="right" width="150">
+<img src="bag-of-beans.webp" align="right" width="150">
+
+*Source: Dungeon Master's Guide p. 152. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 - **Kosten**: ⏤
 - **Gewicht**: 0,25 kg.
@@ -35,5 +36,3 @@ Wenn du eine Bohne aus dem Beutel nimmst, sie in Erde oder Sand einpflanzt und b
 | 91-99 | A pyramid with a 60-foot-square base bursts upward. Inside is a sarcophagus containing a [mummy lord](D&D/05%20-%20Wikipedia/Bestiarium/M-N/Mumienfürst.md). The pyramid is treated as the [mummy lord's](D&D/05%20-%20Wikipedia/Bestiarium/M-N/Mumienfürst.md) lair, and its sarcophagus contains treasure of the DM's choice. |
 | 00 | A giant beanstalk sprouts, growing to a height of the DM's choice. The top leads where the DM chooses, such as to a great view, a [cloud giant's](Wolkenriese.md) castle, or a different plane of existence. |
 ^effect
-
-*Source: SRD / Basic Rules*

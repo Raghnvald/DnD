@@ -7,7 +7,7 @@ Wirkungsdauer: Unmittelbar
 Angriff: KON
 Schaden: 1d12 Gift
 tags:
-- Quelle/5e/Players_Handbook
+- Quelle/5e/phb
 - Klasse/Druide
 - Klasse/Hexenmeister
 - Klasse/Magier

@@ -6,7 +6,7 @@ Eigenschaften: Finesse, Leicht, Wurfwaffe (Reichweite 6/18)
 Gew.: 0,5 kg
 Kst.: 2 GM
 tags:
-- Quelle/5e/Players_Handbook
+- Quelle/5e/phb
 - Gegenstand/Waffe/Nahkampf/Einfach
 - Gegenstand/Seltenheit/gewöhnlich
 - Gegenstand/Eigenschaft/Finesse

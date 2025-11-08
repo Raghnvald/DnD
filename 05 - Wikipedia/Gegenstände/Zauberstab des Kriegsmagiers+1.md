@@ -6,7 +6,7 @@ Gew.: 0,5 kg
 Kst.: 400 GM
 image: wand.webp
 tags:
-- Quelle/5e/Dungeon_Masters_Guide
+- Quelle/5e/dmg
 - Gegenstand/wundersam/Zauberstab
 - Gegenstand/Seltenheit/ungewöhnlich
 - Gegenstand/Einstimmung/Zauberwirker

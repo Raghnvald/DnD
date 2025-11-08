@@ -7,7 +7,7 @@ Wirkungsdauer: K, <10 Minute
 Angriff: n/v
 Schaden: 
 tags:
-- Quelle/5e/Players_Handbook
+- Quelle/5e/phb
 - Klasse/Paladin
 - Zauber/Original/Aura-of-Purity
 - Zauber/Grad/4

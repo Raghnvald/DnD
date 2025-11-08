@@ -4,7 +4,7 @@ cssclasses:
 tags:
   - Quelle/5e/bgdia
   - Gegenstand/item/attunement/required
-  - Gegenstand/item/rarity/rare
+  - Gegenstand/Seltenheit/selten
 aliases:
   - Gauntlets of Flaming Fury
 ---

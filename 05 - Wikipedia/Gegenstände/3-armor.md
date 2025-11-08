@@ -7,7 +7,7 @@ tags:
 - Gegenstand/Rüstung/Schwer
 - Gegenstand/Rüstung/Leicht
 - Gegenstand/Rüstung/Mittel
-- Gegenstand/item/rarity/legendary
+- Gegenstand/Seltenheit/legendär
 - Gegenstand/item/tier/major
 - Gegenstand/item/wondrous/generic-variant
 aliases: 

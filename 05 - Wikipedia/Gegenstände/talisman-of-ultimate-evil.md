@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - Quelle/5e/dmg
 - Gegenstand/item/attunement/required
-- Gegenstand/item/rarity/legendary
+- Gegenstand/Seltenheit/legendär
 - Gegenstand/item/tier/major
 aliases: 
 - "Talisman of Ultimate Evil"

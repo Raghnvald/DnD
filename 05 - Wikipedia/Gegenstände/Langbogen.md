@@ -8,7 +8,7 @@ Schadensart: Stichschaden
 Eigenschaften: Geschosse, Schwer, Zweihändig
 Kst.: 50 GM
 tags:
-  - Quelle/5e/Players_Handbook
+  - Quelle/5e/phb
   - Gegenstand/Eigenschaft/Munition
   - Gegenstand/Eigenschaft/Schwer
   - Gegenstand/Eigenschaft/Kriegswaffe

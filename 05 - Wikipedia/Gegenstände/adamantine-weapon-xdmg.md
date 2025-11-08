@@ -6,7 +6,7 @@ tags:
   - Gegenstand/item/age/futuristic
   - Gegenstand/item/gear/ammunition
   - Gegenstand/item/gear/ammunition-firearm
-  - Gegenstand/item/rarity/uncommon
+  - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/item/weapon/martial
   - Gegenstand/item/weapon/melee
   - Gegenstand/item/weapon/simple

@@ -6,7 +6,7 @@ Eigenschaften: n/v
 Gew.: 2,0 kg
 Kst.: 5 GM
 tags:
-- Quelle/5e/Dungeon_Masters_Guide
+- Quelle/5e/dmg
 - Gegenstand/Seltenheit/selten
 - Gegenstand/Waffe/Nahkampf/Einfach
 aliases:

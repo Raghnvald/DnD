@@ -7,7 +7,7 @@ tags:
   - Gegenstand/item/age/modern
   - Gegenstand/item/attunement/required
   - Gegenstand/item/gear/spellcasting-focus
-  - Gegenstand/item/rarity/uncommon
+  - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/item/weapon/martial
   - Gegenstand/item/weapon/melee
   - Gegenstand/item/weapon/ranged

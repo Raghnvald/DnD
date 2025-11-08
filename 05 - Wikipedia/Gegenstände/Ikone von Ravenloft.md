@@ -6,7 +6,7 @@ Gew.: 5,0 kg
 Kst.: n/v
 image: Ikone-von-Ravenloft.webp
 tags:
-- Quelle/5e/Dungeon_Masters_Guide
+- Quelle/5e/dmg
 - Gegenstand/wundersam
 - Gegenstand/Seltenheit/legendär
 - Gegenstand/Einstimmung/erforderlich

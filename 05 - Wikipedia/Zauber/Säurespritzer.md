@@ -13,7 +13,7 @@ classes:
 - Sorcerer
 - Wizard
 tags:
-- Quelle/5e/Players_Handbook
+- Quelle/5e/phb
 - Klasse/Magier
 - Klasse/Magieschmied
 - Klasse/Zauberer
