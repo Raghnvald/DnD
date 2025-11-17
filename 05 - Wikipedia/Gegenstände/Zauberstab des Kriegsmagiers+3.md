@@ -6,12 +6,12 @@ Gew.: 0,5 kg
 Kst.: 40.000 GM
 image: wand.webp
 tags:
-- Quelle/5e/dmg
-- Gegenstand/wundersam/Zauberstab
-- Gegenstand/Seltenheit/sehr_selten
-- Gegenstand/Einstimmung/erforderlich
+  - Quelle/5e/dmg
+  - Gegenstand/wundersam/Zauberstab
+  - Gegenstand/Seltenheit/sehr_selten
+  - Gegenstand/Einstimmung
 aliases:
-- Wand of the War Mage +3
+  - Wand of the War Mage +3
 ---
 # Zauberstab des Kriegsmagiers +3
 _Zauberstab, sehr selten (erfordert Einstimmung durch einen Zauberwirker)_

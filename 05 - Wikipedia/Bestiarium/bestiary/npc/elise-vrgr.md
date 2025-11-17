@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-monster
 tags:
   - Quelle/5e/vrgr
   - Monster/HG/5
@@ -11,7 +9,7 @@ statblock-link: "#^statblock"
 aliases:
   - Elise
 ---
-# [Elise](3-Mechanics\CLI\bestiary\npc/elise-vrgr.md)
+# Elise
 *Source: Van Richten's Guide to Ravenloft p. 143*  
 
 Dr. Mordenheim's supposed beloved and greatest achievement, Elise is a confused, frustrated soul who never wished for her current circumstances.
@@ -63,6 +61,6 @@ Elise's heart has been replaced with the Unbreakable Heart. If this device is re
     "name": "Slam"
 "source":
   - "VRGR"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/elise-vrgr.webp"
+"image": "elise-vrgr.webp"
 ```
 ^statblock

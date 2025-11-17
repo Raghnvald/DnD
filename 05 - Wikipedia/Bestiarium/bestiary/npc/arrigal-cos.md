@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-monster
 tags:
   - Quelle/5e/cos
   - Monster/HG/8
@@ -11,7 +9,7 @@ statblock-link: "#^statblock"
 aliases:
   - Arrigal
 ---
-# [Arrigal](3-Mechanics\CLI\bestiary\npc/arrigal-cos.md)
+# Arrigal
 *Source: Curse of Strahd p. 121*  
 
 ```statblock
@@ -106,6 +104,6 @@ aliases:
     "name": "Evil Eye (Recharges after a Short or Long Rest)"
 "source":
   - "CoS"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/arrigal-cos.webp"
+"image": "arrigal-cos.webp"
 ```
 ^statblock

@@ -11,7 +11,7 @@ statblock-link: "#^statblock"
 aliases:
   - Donavich
 ---
-# [Donavich](3-Mechanics\CLI\bestiary\npc/donavich-cos.md)
+# Donavich
 *Source: Curse of Strahd p. 46*  
 
 ```statblock
@@ -54,6 +54,6 @@ aliases:
     "name": "Club"
 "source":
   - "CoS"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/donavich-cos.webp"
+"image": "donavich-cos.webp"
 ```
 ^statblock

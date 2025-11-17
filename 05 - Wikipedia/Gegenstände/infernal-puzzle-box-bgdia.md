@@ -6,6 +6,7 @@ tags:
   - Gegenstand/Seltenheit/ungewöhnlich
 aliases:
   - Infernal Puzzle Box
+  - Höllische Rätselkiste
 ---
 # Infernal Puzzle Box
 *Wondrous item, uncommon*  

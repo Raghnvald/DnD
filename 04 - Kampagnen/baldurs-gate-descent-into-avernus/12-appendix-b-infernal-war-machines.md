@@ -107,10 +107,10 @@ Regardless of its size, a furnace can hold any number of souls, their screams of
 
 Pouring a flask of demon ichor into an infernal war machine's furnace increases the vehicle's speed by 30 feet for 1 minute. While the vehicle's speed is increased in this way, roll a `d20` at the start of each of the driver's turns. On a 1, the vehicle suffers the Furnace Rupture result on the Mishaps table (see "Mishaps").
 
-- [Devil's Ride](/3-Mechanics/CLI/vehicles/devils-ride-bgdia.md)  
-- [Tormentor](/3-Mechanics/CLI/vehicles/tormentor-bgdia.md)  
-- [Demon Grinder](/3-Mechanics/CLI/vehicles/demon-grinder-bgdia.md)  
-- [Scavenger](/3-Mechanics/CLI/vehicles/scavenger-bgdia.md)  
+- [Devil's Ride](devils-ride-bgdia.md)  
+- [Tormentor](tormentor-bgdia.md)  
+- [Demon Grinder](demon-grinder-bgdia.md)  
+- [Scavenger](scavenger-bgdia.md)  
 
 ### Mishaps
 

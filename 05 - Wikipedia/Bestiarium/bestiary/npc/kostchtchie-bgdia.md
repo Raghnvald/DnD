@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-monster
 tags:
   - Quelle/5e/bgdia
   - Monster/HG/25
@@ -11,7 +9,7 @@ statblock-link: "#^statblock"
 aliases:
   - Kostchtchie
 ---
-# [Kostchtchie](3-Mechanics\CLI\bestiary\npc/kostchtchie-bgdia.md)
+# Kostchtchie
 *Source: Baldur's Gate: Descent Into Avernus p. 105*  
 
 The demon lord Kostchtchie resembles a squat hill giant with short, bandy legs and a grossly shaped head.
@@ -97,6 +95,6 @@ Frost giants who forsake their gods and turn to demon worship can summon Kostcht
     "name": "Curse (Costs 2 Actions)"
 "source":
   - "BGDIA"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/kostchtchie-bgdia.webp"
+"image": "kostchtchie-bgdia.webp"
 ```
 ^statblock

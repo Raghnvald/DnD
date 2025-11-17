@@ -1,6 +1,9 @@
 ---
-tags: [Klasse/Barbar/Berserker, Quelle/5e/phb, Quelle/5e/SRD]
-aliases: [Path of the Berserker]
+tags:
+  - Klasse/Barbar/Berserker
+  - Quelle/5e/phb
+aliases:
+  - Path of the Berserker
 ---
 Pfad des Berserkers
 ===================

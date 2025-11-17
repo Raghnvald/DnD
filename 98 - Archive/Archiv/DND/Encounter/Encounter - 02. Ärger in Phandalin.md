@@ -1,3 +1,7 @@
+---
+archived: true
+---
+
 # Phandalin
 
 ```encounter

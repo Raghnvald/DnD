@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-monster
 tags:
   - Quelle/5e/pabtso
   - Monster/HG/4
@@ -11,7 +9,7 @@ statblock-link: "#^statblock"
 aliases:
   - Ontharyx
 ---
-# [Ontharyx](3-Mechanics\CLI\bestiary\npc/ontharyx-pabtso.md)
+# Ontharyx
 *Source: Phandelver and Below: The Shattered Obelisk p. 115*  
 
 ```statblock
@@ -62,6 +60,6 @@ aliases:
     "name": "Defensive Flight"
 "source":
   - "PaBTSO"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/ontharyx-pabtso.webp"
+"image": "ontharyx-pabtso.webp"
 ```
 ^statblock

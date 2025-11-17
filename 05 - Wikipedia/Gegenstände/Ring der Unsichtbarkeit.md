@@ -5,12 +5,12 @@ Eigenschaften: erfordert Einstimmung
 Gew.: n/v
 Kst.: 200.000 GM
 tags:
-- Quelle/5e/dmg
-- Gegenstand/wundersam/Ring
-- Gegenstand/Seltenheit/legendär
-- Gegenstand/Einstimmung/erforderlich
+  - Quelle/5e/dmg
+  - Gegenstand/wundersam/Ring
+  - Gegenstand/Seltenheit/legendär
+  - Gegenstand/Einstimmung
 aliases:
-- Ring of Invisibility
+  - Ring of Invisibility
 ---
 # Ring der Unsichtbarkeit
 _Ring, legendär (erfordert Einstimmung)_

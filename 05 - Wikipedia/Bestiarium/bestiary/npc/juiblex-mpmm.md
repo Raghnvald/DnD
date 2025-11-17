@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-monster
 tags:
   - Quelle/5e/mpmm
   - Monster/HG/23
@@ -11,7 +9,7 @@ statblock-link: "#^statblock"
 aliases:
   - Juiblex
 ---
-# [Juiblex](3-Mechanics\CLI\bestiary\npc/juiblex-mpmm.md)
+# Juiblex
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 160*  
 
 Called the Faceless Lord and the Oozing Hunger in ancient grimoires, Juiblex is demon lord of slime and ooze, a noxious creature that doesn't care about the plots and schemes of others of its kind. It exists only to consume, digesting and transforming living matter into more of itself.
@@ -162,6 +160,6 @@ Juiblex's challenge rating is 24 (62,000 XP) when encountered in its lair.
     "name": "Corrupting Touch (Costs 2 Actions)"
 "source":
   - "MPMM"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/juiblex-mpmm.webp"
+"image": "juiblex-mpmm.webp"
 ```
 ^statblock

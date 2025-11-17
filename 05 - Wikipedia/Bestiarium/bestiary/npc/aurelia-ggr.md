@@ -1,7 +1,4 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
 tags:
 - Quelle/5e/ggr
 - Monster/HG/23
@@ -12,7 +9,7 @@ statblock-link: "#^statblock"
 aliases:
 - Aurelia
 ---
-# [Aurelia](3-Mechanics\CLI\bestiary\npc/aurelia-ggr.md)
+# Aurelia
 *Source: Guildmasters' Guide to Ravnica p. 230*  
 
 The angel Aurelia leads the Boros Legion. During the years of her leadership, she has shown a strong appreciation for the ordinary citizens who are often caught in the middle of interguild violence.
@@ -106,6 +103,6 @@ Aurelia doesn't require food, drink, or sleep.
     "name": "Frighten Foes (Costs 3 Actions)"
 "source":
   - "GGR"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/aurelia-ggr.webp"
+"image": "aurelia-ggr.webp"
 ```
 ^statblock

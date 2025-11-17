@@ -15,15 +15,10 @@ aliases:
 *Wundersamer Gegenstand, legendär*  
 <img src="Apparat-von-Kwalish.webp" align="right" width="150">
 
-_Klassen:_ n/v
-_Unterklassen:_  n/v
-
-_Quellen:_ Spielleiterhandbuch
 *Source: Dungeon Master's Guide p. 151. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> (as "Apparatus of the Crab")*
 
-- **Eigenschaften:** n/v
+- **Gewicht**: 250,0 kg.
 - **Kosten**: n/v
-- **Gewicht**: 250.0 kg.
 
 Dieser Gegenstand scheint zunächst ein großes versiegeltes Eisenfass zu sein, das 250 kg wiegt. Das Fass hat einen versteckten Verschluss, den du mit einer erfolgreichen SG 20 Intelligenz ([Erkundung](rules/skills.md#Investigation)) finden kannst. Wenn du den Verschluss öffnest, öffnet sich eine Luke an einem Ende des Fasses, durch die zwei mittelgroße oder kleinere Kreaturen hineinkriechen können. Am anderen Ende des Fasses sind zehn Hebel in einer Reihe angebracht, von denen sich jeder in einer neutralen Position befindet und entweder nach oben oder nach unten bewegt werden kann. Wenn bestimmte Hebel betätigt werden, verwandelt sich der Apparat in einen riesigen Hummer.
 

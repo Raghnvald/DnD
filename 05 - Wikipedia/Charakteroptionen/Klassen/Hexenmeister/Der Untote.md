@@ -1,6 +1,9 @@
 ---
-tags: [Klasse/Hexenmeister/Untoter, Quelle/5e/phb, Quelle/5e/SRD]
-aliases: [The Undead]
+tags:
+  - Klasse/Hexenmeister/Untoter
+  - Quelle/5e/phb
+aliases:
+  - The Undead
 ---
 Der Untote
 ==========

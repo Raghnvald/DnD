@@ -19,7 +19,7 @@ $\quad$ Aber Strahd ließ sich nicht zum Narren halten. Er kam recht schnell zu 
 $\quad$ Nach Sergejs und Tatjanas Tod wurde das Schloss praktisch aufgegeben, und es gab keine Gäste mehr, die Pidelwick II. „unterhalten" konnte. Die aufziehbare Nachbildung kam aus seinem Wandschrank hervor und fand neue Verstecke. Sie fürchtet Strahd und folgt begeistert jedem, der ihm die Aufmerksamkeit widmet, die sie begehrt.
 $\quad$ Pidelwick II. ist prinzipiell ein übergroßes Spielzeug - ein 1,20 Meter großer Mechanismus, mit Zahnrädern, Uhrfedern und anderen meisterlich zusammengepassten Komponenten vollgestopft, um ihm eine Art Leben einzuflößen. Seine Haut ist aus genähtem Leder gemacht, die stramm über einen Holzrahmen mit Gelenken gezogen wurde. Pidelwick II. hat Ruß um seine Augen und seinen Mund gerieben, was ihm die dreieckigen Augen und das gezackte Grinsen einer Kürbislaterne verleiht.
 
-![](../../../04%20-%20Kampagnen/00.%20NPCs/pictures/pidelwick_ii.webp)
+![](pidelwick_ii.webp)
 
 ### Charakteristika von Pidelwick II.
 $\quad$ **_Ideal._** „Ich wünschte, ich könnte die Leute glücklich machen." 

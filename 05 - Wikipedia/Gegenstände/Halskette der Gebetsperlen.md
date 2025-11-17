@@ -1,11 +1,11 @@
 ---
 tags:
-- Quelle/5e/dmg
-- Gegenstand/Einstimmung/erforderlich
-- Gegenstand/Seltenheit/selten
-- Gegenstand/wundersam
+  - Quelle/5e/dmg
+  - Gegenstand/Einstimmung
+  - Gegenstand/Seltenheit/selten
+  - Gegenstand/wundersam
 aliases:
-- Necklace of Prayer Beads
+  - Necklace of Prayer Beads
 ---
 # Halskette der Gebetsperlen
 *Wundersamer Gegenstand, selten (benötigt Einstimmung durch einen Kleriker, Druiden oder Paladin)*  

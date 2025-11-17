@@ -1,11 +1,11 @@
 ---
 tags:
-- Quelle/5e/dmg
-- Gegenstand/Einstimmung/erforderlich
-- Gegenstand/Seltenheit/ungewöhnlich
-- Gegenstand/wundersam
-aliases: 
-- Necklace of Adaptation
+  - Quelle/5e/dmg
+  - Gegenstand/Einstimmung
+  - Gegenstand/Seltenheit/ungewöhnlich
+  - Gegenstand/wundersam
+aliases:
+  - Necklace of Adaptation
 ---
 # Halskette der Anpassung
 *Wundersamer Gegenstand, ungewöhnlich (erfordert Einstimmung)*  

@@ -12,16 +12,10 @@ aliases:
 - Alchemist's Supplies
 ---
 # Alchemistenausrüstung
-*Werkzeug, gewöhnlich*
-<img src="Symbolik/Gegenstände.webp" align="right" width="150">
+*Werkzeug*
 
-_Klassen:_ n/v 
-_Unterklassen:_  n/v
+*Quellen: Spielerhandbuch p. 154, Xanathar's Guide to Everything p. 79. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
-_Quellen:_ Spielerhandbuch
-*Source: Player's Handbook p. 154, Xanathar's Guide to Everything p. 79. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
-
-- **Eigenschaften**: n/v
 - **Gewicht**: 4,0 kg.
 - **Kosten**: 50 Goldmünzen
 

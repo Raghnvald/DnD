@@ -1,6 +1,13 @@
 ---
-cssclasses:
-  - json5e-monster
+cssclasses: dnd5e-only-statblock
+prefer-view: edit-source read
+Bezeichnung:
+Typ: Untoter
+Größe: Mittelgroß
+HG: 1/4
+Habitat:
+  - Stadt
+status: WIP
 tags:
   - Quelle/5e/mm
   - Monster/HG/1-4
@@ -15,71 +22,63 @@ aliases:
 # [Skeleton](3-Mechanics\CLI\bestiary\undead/skeleton.md)
 *Source: Monster Manual p. 272. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
-Skeletons arise when animated by dark magic. They heed the summons of spellcasters who call them from their stony tombs and ancient battlefields, or rise of their own accord in places saturated with death and loss, awakened by stirrings of necromantic energy or the presence of corrupting evil.
+Skelette erheben sich, wenn sie von dunkler Magie erweckt werden. Sie werden von Zauberwirkern beschworen, die sie aus ihren steinernen Grüften und von uralten Schlachtfeldern rufen, oder erheben sich aus eigenem Antrieb an Orten, die von Tod und Trauer erfüllt sind, erweckt von den Regungen nekromantischer Energie oder der Präsenz von verderbendem Bösen.
 
-## Animated Dead
+## Belebte Tote
 
-Whatever sinister force awakens a skeleton infuses its bones with a dark vitality, adhering joint to joint and reassembling dismantled limbs. This energy motivates a skeleton to move and think in a rudimentary fashion, though only as a pale imitation of the way it behaved in life. An animated skeleton retains no connection to its past, although resurrecting a skeleton restores it body and soul, banishing the hateful undead spirit that empowers it.
+Die finstere Macht, die ein Skelett erweckt, erfüllt seine Knochen mit dunkler Vitalität, verbindet Gelenk mit Gelenk und setzt verstreute Gliedmaßen wieder zusammen. Diese Energie motiviert ein Skelett, sich zu bewegen und auf rudimentäre Weise zu denken, doch nur als bleiche Nachahmung der Art, wie es sich im Leben verhielt. Ein belebtes Skelett wahrt keine Verbindung zu seiner Vergangenheit, doch ein Skelett zum wahren Leben zu erwecken, stellt Körper und Seele wieder her und verbannt den hasserfüllten, untoten Geist, der es mit Macht erfüllt.
 
-While most skeletons are the animated remains of dead humans and other humanoids, skeletal undead can be created from the bones of other creatures besides humanoids, giving rise to a host of terrifying and unique forms.
+$\quad$Auch wenn die meisten Skelette die belebten Überreste toter Menschen und anderer Humanoider sind, können skelettierte Untote aus den Knochen anderer Kreaturen erschaffen werden, sodass eine Vielzahl erschreckender und einzigartiger Gestalten entsteht.
 
-## Obedient Servants
+## Gehorsame Diener
 
-Skeletons raised by spell are bound to the will of their creator. They follow orders to the letter, never questioning the tasks their masters give them, regardless of the consequences. Because of their literal interpretation of commands and unwavering obedience, skeletons adapt poorly to changing circumstances. They can't read, speak, emote, or communicate in any way except to nod, shake their heads, or point. Still, skeletons are able to accomplish a variety of relatively complex tasks.
+Skelette, die von Zaubersprüchen erhoben werden, sind an den Willen ihres Erschaffers gebunden. Sie folgen Befehlen buchstäblich und hinterfragen niemals die Aufgaben, die ihnen ihr Meister auferlegt, egal was die Konsequenzen sind. Aufgrund ihrer buchstäblichen Interpretation von Befehlen und ihres unerschütterlichen Gehorsams passen sich Skelette nur schlecht an sich verändernde Umstände an. Sie können nicht lesen, sprechen, Gefühle ausdrücken oder mehr kommunizieren, als sie mit einem Nicken, einem Kopfschütteln oder einem Deuten zeigen können. Dennoch können Skelette eine Vielzahl relativ komplexer Aufgaben übernehmen.
 
-A skeleton can fight with weapons and wear armor, can load and fire a catapult or trebuchet, scale a siege ladder, form a shield wall, or dump boiling oil. However, it must receive careful instructions explaining how such tasks are accomplished.
+Skelette können mit Waffen kämpfen, Rüstung tragen, sie können ein Katapult oder ein Trebuchet laden, eine Belagerungsleiter erklimmen, eine Schildmauer bilden oder kochendes Öl auf Feinde gießen. Sie müssen allerdings sorgfältige Instruktionen erhalten, die ihnen erklären, wie solche Aufgaben durchgeführt werden.
 
-Although they lack the intellect they possessed in life, skeletons aren't mindless. Rather than break its limbs attempting to batter its way through an iron door, a skeleton tries the handle first. If that doesn't work, it searches for another way through or around the obstacle.
+Auch wenn ihnen der Intellekt fehlt, den sie im Leben besaßen, sind Skelette nicht geistlos. Anstatt seine Gliedmaßen zu zerschmettern, während es versucht, durch eine Eisentür zu brechen, probiert ein Skelett zunächst die Klinke aus. Wenn das nicht funktioniert, sucht es eine andere Möglichkeit, um das Hindernis herumzukommen.
 
-## Habitual Behaviors
+## Gewohnheitsmäßiges Verhalten
 
-Independent skeletons temporarily or permanently free of a master's control sometimes pantomime actions from their past lives, their bones echoing the rote behaviors of their former living selves. The skeleton of a miner might lift a pick and start chipping away at stone walls. The skeleton of a guard might strike up a post at a random doorway. The skeleton of a dragon might lie down on a pile of treasure, while the skeleton of a horse crops grass it can't eat. Left alone in a ballroom, the skeletons of nobles might continue an eternally unfinished dance.
+Unabhängige Skelette, die kurzfristig oder dauerhaft frei von der Kontrolle ihres Meisters sind, ahmen manchmal pantomimisch Handlungen aus ihrem früheren Leben nach, da in ihren Knochen noch Routineverhalten aus ihrem ehemaligen Leben widerhallt. Das Skelett eines Bergarbeiters könnte eine Hacke aufheben und auf eine Steinmauer einschlagen. Das Skelett eines Wachmanns könnte einen Posten an einer beliebigen Tür einnehmen. Das Skelett eines Drachen könnte sich auf einem Haufen Schätze niederlegen, während das Skelett eines Pferdes Gras abrupft, das es nicht fressen kann. Wenn man Skelette von Adeligen allein in einem Ballsaal lässt, könnten sie einen niemals endenden Tanz aufführen.
 
-When skeletons encounter living creatures, the necromantic energy that drives them compels them to kill unless they are commanded by their masters to refrain from doing so. They attack without mercy and fight until destroyed, for skeletons possess little sense of self and even less sense of self-preservation.
+Wenn Skelette lebenden Kreaturen begegnen, zwingt die nekromantische Energie, die sie antreibt, zu töten, es sei denn, ihr Gebieter befiehlt ihnen, es nicht zu tun. Sie greifen ohne Gnade an und kämpfen bis sie zerstört sind, denn Skelette haben wenig Bewusstsein ihrer Selbst und noch weniger Selbsterhaltungstrieb.
 
-## Undead Nature
+## Untote Natur
 
-A skeleton doesn't require air, food, drink, or sleep.
+Ein Skelett muss nicht atmen, essen, trinken oder schlafen.
 
 ```statblock
-"name": "Skeleton"
-"size": "Medium"
-"type": "undead"
-"alignment": "Lawful Evil"
-"ac": !!int "13"
-"ac_class": "armor scraps"
-"hp": !!int "13"
-"hit_dice": "2d8 + 4"
-"modifier": !!int "2"
-"stats":
+name: Skelett
+image: token/skeleton.webp
+source: Monsterhandbuch 2014
+size: Mittelgroß
+type: Untoter
+alignment: Rechtschaffen böse
+ac: !!int "13"
+ac_class: "Rüstungsfetzen"
+hp: !!int "13"
+hit_dice: "2d8 + 4"
+modifier: !!int "2"
+stats:
   - !!int "10"
   - !!int "14"
   - !!int "15"
   - !!int "6"
   - !!int "8"
   - !!int "5"
-"speed": "30 ft."
-"damage_vulnerabilities": "bludgeoning"
-"damage_immunities": "poison"
-"condition_immunities": "[exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
+speed: "9 Meter"
+damage_vulnerabilities: "Wucht"
+damage_immunities: "Gift"
+condition_immunities: "Erschöpfung, vergiftet
   \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 9"
-"languages": "understands all languages it spoke in life but can't speak"
-"cr": "1/4"
-"actions":
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6\
-      \ + 2) piercing damage."
-    "name": "Shortsword"
-  - "desc": "*Ranged Weapon Attack:* +4 to hit, range 80/320 ft., one target. *Hit:*\
-      \ 5 (1d6 + 2) piercing damage."
-    "name": "Shortbow"
-"source":
-  - "MM"
-"image": "token/skeleton.webp"
+"senses": "Dunkelsicht 18 m, passive Wahrnehmung 9"
+languages: "Versteht alle Sprachen, die es im Leben kannte, kann aber nicht sprechen"
+cr: "1/4"
+actions:
+  - name: Kurzschwert
+    desc: "_Nahkampf-Waffenangriff:_ +4 auf Treffer, Reichweite 1,5 m, ein Ziel. _Treffer:_ 5 (1W6 + 2) Stichschaden."
+  - name: Kurzbogen
+    desc: "_Fernkampf-Waffenangriff:_ +4 auf Treffer, Reichweite 24/96 m, ein Ziel. _Treffer:_ 5 (1W6 + 2) Stichschaden."
 ```
 ^statblock
-
-## Environment
-
-urban

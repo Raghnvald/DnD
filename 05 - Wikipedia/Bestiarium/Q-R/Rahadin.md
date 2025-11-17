@@ -21,7 +21,7 @@ $\quad$ **_Henker._** Patrina Welikowna und ihr Volk lebten unter den Vistani, a
 $\quad$ Strahd war verärgert, dass die Dämmerungselfen ihm Patrina genommen hatten. Nachdem er ihre Leiche sichergestellt und sie in den Katakomben von Ravenloft bestattet hatte, sandte Strahd Rahadin aus, die Dämmerungselfen zu bestrafen. Rahadin erschlug die weiblichen Elfen, so dass die männlichen sich nicht fortpflanzen konnten. Er schnitt auch Patrinas Bruder Kasimir die Ohren ab, der die Steinigung geleitet hatte.
 $\quad$ **_Schreie der Toten._** Rahadin ist eine so fürchterliche Kreatur, dass jeder, der in einem Umkreis von 3 Metern um ihn herum steht, die heulenden Schreie der zahllosen Männer und Frauen hören kann, die er während seines Lebens getötet hat. Rahdin kann sie weder hören, noch würde er sich von ihnen quälen lassen, wenn er es könnte. Das Einzige, das ihm etwas bedeutet, ist Strahd von Zarowitsch, für den er freudig sein Leben geben würde.
 
-![](../../../04%20-%20Kampagnen/00.%20NPCs/pictures/rahadin.webp#token)
+![](D&D/98%20-%20Archive/Archiv/DND/00.%20NPCs/pictures/rahadin.webp#token)
 
 ### Charakteristika von Rahadin
 $\quad$ **_Ideal._** „Loyalität ist alles." 

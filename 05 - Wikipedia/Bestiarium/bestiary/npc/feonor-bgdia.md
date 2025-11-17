@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-monster
 tags:
   - Quelle/5e/bgdia
   - Monster/HG/12
@@ -11,7 +9,7 @@ statblock-link: "#^statblock"
 aliases:
   - Feonor
 ---
-# [Feonor](3-Mechanics\CLI\bestiary\npc/feonor-bgdia.md)
+# Feonor
 *Source: Baldur's Gate: Descent Into Avernus p. 130*  
 
 ```statblock
@@ -80,6 +78,6 @@ aliases:
     "name": "Dagger"
 "source":
   - "BGDIA"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/feonor-bgdia.webp"
+"image": "feonor-bgdia.webp"
 ```
 ^statblock

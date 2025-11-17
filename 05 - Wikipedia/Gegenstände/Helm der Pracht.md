@@ -5,12 +5,12 @@ Eigenschaften: erfordert Einstimmung
 Gew.: n/v
 Kst.: n/v
 tags:
-- Quelle/5e/dmg
-- Gegenstand/wundersam
-- Gegenstand/Seltenheit/sehr_selten
-- Gegenstand/Einstimmung/erforderlich
+  - Quelle/5e/dmg
+  - Gegenstand/wundersam
+  - Gegenstand/Seltenheit/sehr_selten
+  - Gegenstand/Einstimmung
 aliases:
-- Helm of Brilliance
+  - Helm of Brilliance
 ---
 # Helm der Pracht
 _Wundersamer Gegenstand, sehr selten (erfordert Einstimmung)*_

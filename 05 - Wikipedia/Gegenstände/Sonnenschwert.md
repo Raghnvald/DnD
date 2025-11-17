@@ -6,14 +6,14 @@ Eigenschaften: erfordert Einstimmung, Finesse, Vielseitig (1W10)
 Gew.: 1,5 kg
 Kst.: n/v
 tags:
-- Quelle/5e/dmg
-- Gegenstand/Waffe/Nahkampf/Kriegswaffe
-- Gegenstand/Seltenheit/selten
-- Gegenstand/Eigenschaft/Finesse
-- Gegenstand/Eigenschaft/Vielseitig
-- Gegenstand/Einstimmung/erforderlich
+  - Quelle/5e/dmg
+  - Gegenstand/Waffe/Nahkampf/Kriegswaffe
+  - Gegenstand/Seltenheit/selten
+  - Gegenstand/Eigenschaft/Finesse
+  - Gegenstand/Eigenschaft/Vielseitig
+  - Gegenstand/Einstimmung
 aliases:
-- Sunsword
+  - Sunsword
 ---
 # Sonnenschwert
 *Waffe ([Langschwert](Langschwert.md)), legendär (erfordert Einstimmung)*

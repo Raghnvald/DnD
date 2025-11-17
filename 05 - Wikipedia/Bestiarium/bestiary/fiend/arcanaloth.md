@@ -8,6 +8,13 @@ tags:
   - Monster/Typ/Unhold/yugoloth
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Arcanaloth
+Typ: Unhold
+Größe: Mittelgroß
+HG: 12
+Habitat: Planar
+status: completed
+image: pictures/arcanaloth-2024.webp
 aliases:
   - Arcanaloth
 ---
@@ -157,3 +164,70 @@ Whatever the case, no fiend finds the General unless the General desires it. His
 "image": "/3-Mechanics/CLI/bestiary/fiend/token/arcanaloth.webp"
 ```
 ^statblock
+
+# Arcanaloth (2014)
+Arcanaloths sind schlaue, schakalköpfige Wesen mit humanoiden Körpern, die jedoch durch Magie jede humanoide Gestalt annehmen können. Sie tun dies, um das Vertrauen von Kreaturen zu gewinnen, mit denen sie verhandeln, und ersetzen das Schakalknurren durch ein gewinnendes Lächeln.
+
+Unabhängig von seiner gewählten Form erscheint ein Arcanaloth stets gepflegt und trägt ein feines Gewand. Als hochintelligente Zauberwirker, die nach Wissen und Macht hungern, befehligen Arcanaloths Einheiten kleinerer Yugoloths und führen die Verträge, Aufzeichnungen und Konten ihrer Art.
+
+Arcanaloths sprechen und schreiben alle Sprachen, was sie zu geschickten Diplomaten und Verhandlungsführern macht. Ein gut bezahlter Arcanaloth kann mit Raffinesse und Feingefühl Verträge oder Bündnisse aushandeln, während ein Arcanaloth, der die Seiten wechselt, die besten Friedensverhandlungen leicht in einen totalen Krieg verwandeln kann. Als Gegenleistung für seine Zeit und sein Talent verlangt der Unhold Informationen sowie mächtige magische Gegenstände, die er gegen noch mehr Informationen eintauschen kann.
+
+```statblock
+name: Arcanaloth (2014)
+size: Mittelgroß
+source: Monsterhandbuch 2014
+type: Unhold
+subtype: (Yugoloth)
+alignment: Neutral Böse
+ac: 17
+hp: 104
+hit_dice: 16d8 + 32
+speed: 9 Meter, 9 Meter Fliegen.
+stats: [17, 12, 14, 20, 16, 17]
+saves:
+  - STR: +0
+  - GES: +5
+  - KON: +0
+  - INT: +9
+  - WEI: +7
+  - CHA: +7
+skillsaves:
+  - Arkane Kunde: 13
+  - Motiv erkennen: 9
+  - Täuschung: 9
+  - Wahrnehmung: 7
+damage_vulnerabilities: ""
+damage_resistances: "Blitz, Feuer, Kälte, Hieb-, Stich- und Wuchtschaden von nicht-magischen Angriffen"
+damage_immunities: "Gift, Säure"
+condition_immunities: "[[Anhang PH-A#Bezaubert|Bezaubert]], [[Anhang PH-A#Vergiftet|Vergiftet]]"
+senses: [[Regularien/2014/Grundregelwerk/08-Abenteuersuche#Wahrer Blick|Wahrer Blick]] 36 Meter, passive Wahrnehmung 17
+languages: Alle, telepathisch 36 Meter
+cr: 12
+bestiary: true
+traits:
+  - name: Angeborenes Zauberwirken.
+    desc: "Das Attribut zum Wirken angeborener Zauber des Arcanaloths ist Charisma (Zauberrettung SG 15). Der Arcanaloth kann von Natur aus die folgenden Zauber wirken, wobei er keine Komponenten benötigt: <br><br> **Beliebig oft:** [Gestalt verändern](Gestalt-verändern.md), [Dunkelheit](Dunkelheit.md), [[Magisches Geschoss]], [Metall erhitzen](Metall-erhitzen.md), [Unsichtbarkeit](Unsichtbarkeit.md) (nur selbst)"
+  - name: Magische Resistenz.
+    desc: "Der Arcanaloth ist bei Rettungswürfen gegen Zauber und andere magische Effekte im Vorteil."
+  - name: Magische Waffe.
+    desc: "Waffen, welche der Arcanaloth trägt, sind magisch."
+actions:
+  - name: Klauen.
+    desc: "_Nahkampfangriff_: +7 zum Treffen, Reichweite 1,5m, ein Ziel. _Treffer_: 8 (2d4 + 3) Hiebschaden. Dem Ziel muss ein Konstitutions-Rettungswurf SG 14 gelingen, oder erleidet 10 (3d6) Giftschaden bei einem misslungenen Rettungswurf, oder die Hälfte bei einem erfolgreichen."
+    attack_bonus: 7
+    damage_dice: 2d4
+    damage_bonus: 3
+  - name: Teleportation
+    desc: "Der Arcanaloth teleportiert sich bis zu 9m an einen freien Ort, welchen er sehen kann."
+spells:
+  - "Der Arcanaloth ist ein Zauberwirker der 16. Stufe. Sein Attribut zum Zauberwirken ist Intelligenz (Zauberrettungswurf-SG 17, +9 zum Treffen mit Zauberangriffen). Der Arcanaloth hat die folgenden Magierzaubersprüche vorbereitet:"
+  - "Zaubertricks (beliebig oft): [Einfache Illusion](Einfache-Illusion.md), [Feuerpfeil](Feuerpfeil.md), [Magierhand](Magierhand.md), [Taschenspielerei](Taschenspielerei.md)"
+  - "Zaubergrad 1 (4 Plätze): [Identifizieren](Identifizieren.md), [Magie entdecken](Magie-entdecken.md), [Schild](Zauber/Schild.md), [Tensers Schwebende Scheibe](Tensers-Schwebende-Scheibe.md)"
+  - "Zaubergrad 2 (3 Plätze): [Einflüsterung](Einflüsterung.md), [Gedanken wahrnehmen](Gedanken-wahrnehmen.md), [Macht der Vorstellungskraft](Macht-der-Vorstellungskraft.md), [Spiegelbilder](Spiegelbilder.md)"
+  - "Zaubergrad 3 (3 Plätze): [Feuerball](Feuerball.md), [Furcht](Furcht.md), [Gegenzauber](Gegenzauber)"
+  - "Zaubergrad 4 (3 Plätze): [Dimensionstür](Dimensionstür.md), [Verbannung](Verbannung.md)"
+  - "Zaubergrad 5 (2 Plätze): [Kontakt zu anderen Ebenen](Kontakt-zu-anderen-Ebenen.md), [Monster festhalten](Monster-festhalten.md)"
+  - "Zaubergrad 6 (1 Platz): [Kugelblitz](Kugelblitz.md)"
+  - "Zaubergrad 7 (1 Platz): [Finger des Todes](Finger-des-Todes.md)"
+  - "Zaubergrad 8 (1 Platz): [Gedankenleere](Gedankenleere.md)"
+```

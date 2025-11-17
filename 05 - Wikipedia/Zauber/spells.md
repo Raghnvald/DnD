@@ -11,7 +11,7 @@ cssclasses:
 - [Aganazzar's Scorcher](./aganazzars-scorcher-xge.md)
 - [Aid](Beistand-xphb.md)
 - [Alarm](./alarm-xphb.md)
-- [Alter Self](./alter-self-xphb.md)
+- [Alter Self](Gestalt%20verändern-xphb.md)
 - [Animal Friendship](Tierfreundschaft-xphb.md)
 - [Animal Messenger](Tierbote-xphb.md)
 - [Animal Shapes](Tierform-xphb.md)

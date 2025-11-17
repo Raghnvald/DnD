@@ -1,3 +1,7 @@
+---
+archived: true
+---
+
 ```encounter
 name: 01. Goblin-Hinterhalt
 party: Default

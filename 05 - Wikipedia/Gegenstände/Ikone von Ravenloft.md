@@ -6,12 +6,12 @@ Gew.: 5,0 kg
 Kst.: n/v
 image: Ikone-von-Ravenloft.webp
 tags:
-- Quelle/5e/dmg
-- Gegenstand/wundersam
-- Gegenstand/Seltenheit/legendär
-- Gegenstand/Einstimmung/erforderlich
+  - Quelle/5e/dmg
+  - Gegenstand/wundersam
+  - Gegenstand/Seltenheit/legendär
+  - Gegenstand/Einstimmung
 aliases:
-- Icon of Ravenloft
+  - Icon of Ravenloft
 ---
 # Ikone von Ravenloft
 *Wundersamer Gegenstand, legendär (benötigt Einstimmung durch eine Kreatur guter Gesinnung)*  

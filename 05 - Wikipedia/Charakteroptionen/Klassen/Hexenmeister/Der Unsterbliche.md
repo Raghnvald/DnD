@@ -1,6 +1,9 @@
 ---
-tags: [Klasse/Hexenmeister/Unsterblicher, Quelle/5e/phb, Quelle/5e/SRD]
-aliases: [The Undying]
+tags:
+  - Klasse/Hexenmeister/Unsterblicher
+  - Quelle/5e/phb
+aliases:
+  - The Undying
 ---
 Der Unsterbliche
 ==========

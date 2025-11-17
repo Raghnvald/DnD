@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-monster
 tags:
   - Quelle/5e/mpmm
   - Monster/HG/21
@@ -11,7 +9,7 @@ statblock-link: "#^statblock"
 aliases:
   - Hutijin
 ---
-# [Hutijin](3-Mechanics\CLI\bestiary\npc/hutijin-mpmm.md)
+# Hutijin
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 157*  
 
 Politics in the Nine Hells are anything but predictable. Alliances form all the time, but most wind up unraveling due to treachery. Nevertheless, for all their backbiting and betrayal, devils do occasionally display loyalty, offering unwavering service to their masters. One such example is Hutijin, a duke of Cania and loyal servant of Mephistopheles.
@@ -129,6 +127,6 @@ Mephistopheles forbids Hutijin from making too many forays into the Material Pla
     "name": "Lightning Storm (Costs 2 Actions)"
 "source":
   - "MPMM"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/hutijin-mpmm.webp"
+"image": "hutijin-mpmm.webp"
 ```
 ^statblock

@@ -1,8 +1,15 @@
 ---
-cssclasses: json5e-spell
+Bezeichnung: Tierfreundschaft
+Zeitaufwand: 
+Reichweite: 
+Komponenten: 
+Wirkungsdauer: 
+Angriff: 
+Schaden: 
+status: WIP
 tags:
 - Quelle/5e/phb
-- Klasse/Barde
+- Klasse/Barde/magical-secrets
 - Klasse/Druide
 - Klasse/Waldläufer
 - Zauber/Grad/1
@@ -16,12 +23,14 @@ classes:
 - Ranger
 aliases:
 - Animal Friendship
-status: WIP
 ---
 # Tierfreundschaft
-![](../../../99%20-%20Setup/Files/Bildersammlung/Symbolik/Verzauberungszauber.webp#token)
-*Verzauberungszauber des 1. Zaubergrades*
-*Klassen:* [Barde](05%20-%20Wikipedia/Charakteroptionen/02.%20Klassen/Barde.md), [Druide](05%20-%20Wikipedia/Kompendium/Charakteroptionen/Klassen/Druide.md), [Waldläufer](D&D/05%20-%20Wikipedia/Charakteroptionen/Klassen/Waldläufer.md)
+*Verzauberung des 1. Grades*
+
+_Klassen:_ Barde (Magical Secrets), Druide, Waldläufer
+_Unterklassen:_ Cleric (Nature Domain)
+
+*Source: Player's Handbook p. 212. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 - **Zeitaufwand:** 1 Aktion
 - **Reichweite / Fläche:** 9 Meter
@@ -34,5 +43,3 @@ Mit diesem Zauber kannst du ein Tier davon überzeugen, dass du ihm nichts Böse
 ## Auf höheren Graden
 
 Wirkst du diesen Zauber, indem du einen Zauberplatz des 2. Grades oder höher nutzt, kann für jeden Grad über dem 1. ein zusätzliches Tier betroffen sein.
-
- *Quelle:* Grundregelwerk / Spielerhandbuch

@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - Borborygmos
 ---
-# [Borborygmos](3-Mechanics\CLI\bestiary\npc/borborygmos-ggr.md)
+# Borborygmos
 *Source: Guildmasters' Guide to Ravnica p. 238*  
 
 For decades, the enormous cyclops Borborygmos has commanded the respect and obedience of the Gruul Clans by defeating all who challenged him. He embodies the raging fire that the Gruul believe burns in their bellies, and his wrath toward the civilization of Ravnica knows no bounds.
@@ -109,6 +109,6 @@ The Gruul follow strength, and Borborygmos holds his position only because he ha
     "name": "Wide Berth (Costs 3 Actions)"
 "source":
   - "GGR"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/borborygmos-ggr.webp"
+"image": "borborygmos-ggr.webp"
 ```
 ^statblock

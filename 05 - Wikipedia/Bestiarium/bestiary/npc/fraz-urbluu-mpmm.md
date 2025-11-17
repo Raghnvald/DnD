@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-monster
 tags:
   - Quelle/5e/mpmm
   - Monster/HG/23
@@ -11,7 +9,7 @@ statblock-link: "#^statblock"
 aliases:
   - Fraz-Urb'luu
 ---
-# [Fraz-Urb'luu](3-Mechanics\CLI\bestiary\npc/fraz-urbluu-mpmm.md)
+# Fraz-Urb'luu
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 129*  
 
 Fraz-Urb'luu is the Prince of [Deception](/3-Mechanics/CLI/skills.md#Deception) and Demon Lord of Illusions. He uses every trick, every ounce of demonic cunning, to manipulate his enemies—mortal and Fiend alike—to do his will. Fraz-Urb'luu can create dreamlands and mind-bending fantasies able to deceive the most discerning foes.
@@ -149,6 +147,6 @@ The challenge rating of Fraz-Urb'luu is 24 (62,000 XP) when he's encountered in 
     "name": "Terror (Costs 2 Actions)"
 "source":
   - "MPMM"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/fraz-urbluu-mpmm.webp"
+"image": "fraz-urbluu-mpmm.webp"
 ```
 ^statblock

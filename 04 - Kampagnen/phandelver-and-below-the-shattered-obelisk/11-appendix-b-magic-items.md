@@ -29,4 +29,4 @@ This appendix describes the new magic items found in this adventure. The items a
 - [Staff of Defense](/3-Mechanics/CLI/items/staff-of-defense-pabtso.md)  
 - [Statuette of Augury](/3-Mechanics/CLI/items/statuette-of-augury-pabtso.md)  
 
-![A mage that uses a mind cr...](/3-Mechanics/CLI/adventures/phandelver-and-below-the-shattered-obelisk/img/175-10-001-mind-flayer-with-mind-crystal.webp#center "A mage that uses a mind crystal to enhance its spells can become fearsome indeed")
+![A mage that uses a mind cr...](175-10-001-mind-flayer-with-mind-crystal.webp#center "A mage that uses a mind crystal to enhance its spells can become fearsome indeed")

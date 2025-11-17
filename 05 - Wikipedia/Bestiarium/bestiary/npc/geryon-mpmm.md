@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-monster
 tags:
   - Quelle/5e/mpmm
   - Monster/HG/22
@@ -11,7 +9,7 @@ statblock-link: "#^statblock"
 aliases:
   - Geryon
 ---
-# [Geryon](3-Mechanics\CLI\bestiary\npc/geryon-mpmm.md)
+# Geryon
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 136*  
 
 Geryon is locked in an endless struggle with Levistus for control of Stygia. The two have fought for centuries, each displacing the other innumerable times. Currently, Levistus claims lordship over Stygia, but he has been trapped in an enormous block of ice at the command of Asmodeus. In response, Geryon is marshaling his followers, hoping to use this opportunity to replace his hated rival.
@@ -146,6 +144,6 @@ Geryon has recently reclaimed his ancient fortress, Coldsteel, a sprawling compl
     "name": "Swift Sting (Costs 2 Actions)"
 "source":
   - "MPMM"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/geryon-mpmm.webp"
+"image": "geryon-mpmm.webp"
 ```
 ^statblock

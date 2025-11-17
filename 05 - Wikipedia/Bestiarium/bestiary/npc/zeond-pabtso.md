@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-monster
 tags:
   - Quelle/5e/pabtso
   - Monster/HG/1
@@ -11,7 +9,7 @@ statblock-link: "#^statblock"
 aliases:
   - Zeond
 ---
-# [Zeond](3-Mechanics\CLI\bestiary\npc/zeond-pabtso.md)
+# Zeond
 *Source: Phandelver and Below: The Shattered Obelisk p. 43*  
 
 ```statblock
@@ -75,6 +73,6 @@ aliases:
     "name": "Invisibility"
 "source":
   - "PaBTSO"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/zeond-pabtso.webp"
+"image": "zeond-pabtso.webp"
 ```
 ^statblock

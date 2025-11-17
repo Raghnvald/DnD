@@ -16,12 +16,8 @@ aliases:
 *Wundersamer Gegenstand, sehr selten (erfordert Einstimmung)*  
 <img src="Amulett-der-Ebenen.webp" align="right" width="150">
 
-_Klassen:_ n/v
-_Unterklassen:_  n/v
-
 *Quellen: Spielleiterhandbuch S. 150. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
-- **Eigenschaften**: erfordert Einstimmung
 - **Gewicht**: 0.5 kg.
 - **Kosten**: 160.000 Goldmünzen
 

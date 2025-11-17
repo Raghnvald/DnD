@@ -1,6 +1,9 @@
 ---
-tags: [Klasse/Hexenmeister/Dschinn, Quelle/5e/phb, Quelle/5e/SRD]
-aliases: [The Genie]
+tags:
+  - Klasse/Hexenmeister/Dschinn
+  - Quelle/5e/phb
+aliases:
+  - The Genie
 ---
 Der Unhold
 ==========

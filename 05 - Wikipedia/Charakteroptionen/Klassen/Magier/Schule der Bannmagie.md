@@ -1,6 +1,9 @@
 ---
-tags: [Klasse/Magier/Bannmagie, Quelle/5e/phb, Quelle/5e/SRD]
-aliases: [School of Abjuration]
+tags:
+  - Klasse/Magier/Bannmagie
+  - Quelle/5e/phb
+aliases:
+  - School of Abjuration
 ---
 Schule der Bannmagie
 ====================

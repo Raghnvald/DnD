@@ -9,7 +9,7 @@ aliases:
 ---
 # Apparatus of Kwalish
 *Wondrous item, legendary*  
-![](/3-Mechanics/CLI/vehicles/img/apparatus-of-kwalish.webp#right)
+![](apparatus-of-kwalish.webp#right)
 
 - **Weight**: 500.0 lbs.
 

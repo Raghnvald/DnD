@@ -4,7 +4,7 @@ tags:
   - Quelle/5e/dmg
   - Gegenstand/Rüstung/Schild
   - Gegenstand/Seltenheit/selten
-  - Gegenstand/Einstimmung/erforderlich
+  - Gegenstand/Einstimmung
 aliases:
   - Arrow-Catching Shield
 Bezeichnung: Pfeilfangender Schild

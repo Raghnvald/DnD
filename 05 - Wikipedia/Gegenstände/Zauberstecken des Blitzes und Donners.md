@@ -6,13 +6,13 @@ Eigenschaften: Vielseitig (1W8)
 Gew.: 2,0 kg
 Kst.: 40.000 GM
 tags:
-- Quelle/5e/dmg
-- Gegenstand/wundersam/Zauberstecken
-- Gegenstand/Seltenheit/sehr_selten
-- Gegenstand/Eigenschaft/Vielseitig
-- Gegenstand/Einstimmung/erforderlich
+  - Quelle/5e/dmg
+  - Gegenstand/wundersam/Zauberstecken
+  - Gegenstand/Seltenheit/sehr_selten
+  - Gegenstand/Eigenschaft/Vielseitig
+  - Gegenstand/Einstimmung
 aliases:
-- Staff of Thunder and Lightning
+  - Staff of Thunder and Lightning
 ---
 # Zauberstecken des Blitzes und Donners
 _Zauberstecken, sehr selten (erfordert Einstimmung)_

@@ -9,7 +9,7 @@ tags:
   - Quelle/5e/dmg
   - Gegenstand/Waffe/Nahkampf/Beliebig
   - Gegenstand/Seltenheit/selten
-  - Gegenstand/Einstimmung/erforderlich
+  - Gegenstand/Einstimmung
 aliases:
   - Berserker Axe
 ---

@@ -19,77 +19,68 @@ Habitat:
 status: WIP
 ---
 # [Zombie](3-Mechanics\CLI\bestiary\undead/zombie.md)
-*Source: Monster Manual p. 316. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+*Quelle: Monsterhandbuch S. 316. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
-From somewhere in the darkness, a gurgling moan is heard. A form lurches into view, dragging one foot as it raises bloated arms and broken hands. The zombie advances, driven to kill anyone too slow to escape its grasp.
+Von irgendwo in der Dunkelheit ertönt ein gurgelndes Stöhnen. Eine torkelnde Gestalt wird sichtbar. Sie schleift einen Fuß hinter sich her und hebt aufgedunsene Arme und zerbrochene Hände. Der Zombie rückt vor, getrieben, alle zu töten, die zu langsam sind, ihm zu entkommen.
 
-## Dark Servants
+## Dunkle Diener
 
-Sinister necromantic magic infuses the remains of the dead, causing them to rise as zombies that do their creator's bidding without fear or hesitation. They move with a jerky, uneven gait, clad in the moldering apparel they wore when put to rest, and carrying the stench of decay.
+Finstere nekromantische Magie erfüllt die Überreste der Toten und erhebt sie als Zombies, die ohne Furcht oder Zögern dem Willen ihres Schöpfers folgen. Sie bewegen sich mit ruckartige n, ungleichmäßigen Schritten, sind in die schimmligen Gewänder gehüllt, die sie trugen, als sie zur Ruhe gebettet wurden, und stinken nach Verwesung.
 
-Most zombies are made from humanoid remains, though the flesh and bones of any formerly living creature can be imbued with a semblance of life. Necromantic magic, usually from spells, animates a zombie. Some zombies rise spontaneously when dark magic saturates an area. Once turned into a zombie, a creature can't be restored to life except by powerful magic, such as a [resurrection](/3-Mechanics/CLI/spells/resurrection.md) spell.
+$\quad$Die meisten Zombies werden aus humanoiden Überresten erschaffen, doch Fleisch und Knochen jeder ehemals lebenden Kreatur kann mit dem Anschein von Leben erfüllt werden. Nekromantische Magie, normalerweise durch Zaubersprüche, belebt einen Zombie. Einige Zombies erheben sich spontan, wenn dunkle Magie einen Bereich erfüllt. Sobald eine Kreatur in einen Zombie verwandelt wurde, kann sie nur noch mit mächtiger Magie zum Leben erweckt werden, beispielsweise durch einen Auferstehungszauber.
 
-A zombie retains no vestiges of its former self, its mind devoid of thought and imagination. A zombie left without orders simply stands in place and rots unless something comes along that it can kill. The magic animating a zombie imbues it with evil, so left without purpose, it attacks any living creature it encounters.
+$\quad$Ein Zombie behält nichts von seinem ehemaligen Selbst, sein Geist ist leer von Gedanken und Vorstellungskraft. Ein Zombie, der keine Befehle erhalten hat, steht einfach herum und verwest, bis etwas kommt, das er töten kann. Die Magie, die einen Zombie belebt, erfüllt ihn mit böser Essenz. Wenn er also keine Anweisungen erhält, greift er alle lebenden Kreaturen an, denen er begegnet.
 
-## Hideous Forms
+## Grässliche Gestalt
 
-Zombies appear as they did in life, showing the wounds that killed them. However, the magic that creates these vile creatures often takes time to run its course. Dead warriors might rise from a battlefield, eviscerated and bloated after days in the sun. The muddy cadaver of a peasant could claw its way from the ground, riddled with maggots and worms. A zombie might wash ashore or rise from a marsh, swollen and reeking after weeks in the water.
+Zombies sehen aus, wie sie es im Leben taten, und weisen auch die Wunden auf, die sie getötet haben. Die Magie, die diese verderbten Kreaturen erschafft, braucht aber oft eine gewisse Zeit, bis sie wirkt. Tote Krieger könnten sich von einem Schlachtfeld erheben, ausgeweidet und aufgedunsen nach Tagen, die sie in der Sonne lagen.
 
-## Mindless Soldiers
+$\quad$Der schlammige Kadaver eines Bauern könnte sich aus dem Boden kämpfen, gespickt mit Maden und Würmern. Ein Zombie könnte ans Ufer gespült werden oder sich aus einem Sumpf erheben, geschwollen und stinkend, nachdem er wochenlang im Wasser lag.
 
-Zombies take the most direct route to any foe, unable to comprehend obstacles, tactics, or dangerous terrain. A zombie might stumble into a fast-flowing river to reach foes on a far shore, clawing at the surface as it is battered against rocks and destroyed. To reach a foe below it, a zombie might step out of an open window. Zombies stumble through roaring infernos, into pools of acid, and across fields littered with caltrops without hesitation.
+## Geistlose Soldaten
 
-A zombie can follow simple orders and distinguish friends from foes, but its ability to reason is limited to shambling in whatever direction it is pointed, pummeling any enemy in its path. A zombie armed with a weapon uses it, but the zombie won't retrieve a dropped weapon or other tool until told to do so.
+Zombies nehmen den direktesten Weg zu jedem Feind, weil sie Hindernisse, Taktiken oder gefährliches Gelände nicht verstehen können. Ein Zombie könnte in einen schnell fließenden Fluss taumeln, um Feinde am anderen Ufer zu erreichen, und nach der Wasseroberfläche schlagen, während er gegen Felsen geschmettert und zerstört wird. Um einen Feind unter sich zu erreichen, könnte ein Zombie aus einem offenen Fenster treten. Zombies stolpern, ohne zu zögern, durch lodernde Infernos, in Säurebecken und über Felder, die mit Krähenfüßen bedeckt sind.
 
-## Undead Nature
+$\quad$Ein Zombie kann einfache Befehle ausführen und Freund von Feind unterscheiden, aber seine Fähigkeit zu denken beschränkt sich darauf, in die Richtung zu torkeln, die ihm gezeigt wird, und auf jeden Gegner in seinem Weg einzuschlagen. Ein Zombie, der mit einer Waffe ausgerüstet ist, benutzt sie, aber er wird keine Waffe, die am Boden liegt, aufheben und kein anderes Werkzeug nutzen, wenn ihm dies nicht befohlen wird.
 
-A zombie doesn't require air, food, drink, or sleep.
+## Untote Natur
 
-> [!quote] A quote from Fonkin Hoodypeak  
-> 
-> After Beek died, we cast an [animate dead](/3-Mechanics/CLI/spells/animate-dead.md) spell on his corpse. It was fun for a while, but the zombie started to smell real bad, so we doused it in oil and set it on fire. Beek would've found that hilarious.
+Ein Zombie muss nicht atmen, essen, trinken oder schlafen.
 
+> [!quote] Fonkin Muldgipfel, über Freundschaft 
+> Nachdem Beek gestorben war, wirkten wir Tote beleben auf seinen Leichnam. Es hat-bg eine Weile Spaß gemacht, aber der Zombie begann richtig übel zu stinken, also haben wir ihn mit Öl übergossen und angezündet. Beek hätte es saukomisch gefunden.
 
 ```statblock
-"name": "Zombie"
-"size": "Medium"
-"type": "undead"
-"alignment": "Neutral Evil"
-"ac": !!int "8"
-"hp": !!int "22"
-"hit_dice": "3d8 + 9"
-"modifier": !!int "-2"
-"stats":
+name: Zombie
+image: token/zombie.webp
+source: Monsterhandbuch 2014
+size: Mittelgroß
+type: Untoter
+alignment: Neutral Böse
+ac: !!int "8"
+hp: !!int "22"
+hit_dice: "3d8 + 9"
+modifier: !!int "-2"
+stats:
   - !!int "13"
   - !!int "6"
   - !!int "16"
   - !!int "3"
   - !!int "6"
   - !!int "5"
-"speed": "20 ft."
-"saves":
-  - "wisdom": !!int "0"
-"damage_immunities": "poison"
-"condition_immunities": "[poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 8"
-"languages": "understands all languages it spoke in life but can't speak"
-"cr": "1/4"
-"traits":
-  - "desc": "If damage reduces the zombie to 0 hit points, it must make a Constitution\
-      \ saving throw with a DC of 5 + the damage taken, unless the damage is radiant\
-      \ or from a critical hit. On a success, the zombie drops to 1 hit point instead."
-    "name": "Undead Fortitude"
-"actions":
-  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4 (1d6\
-      \ + 1) bludgeoning damage."
-    "name": "Slam"
-"source":
-  - "MM"
-"image": "/3-Mechanics/CLI/bestiary/undead/token/zombie.webp"
+speed: "6 Meter"
+saves:
+  - "WEI": !!int "0"
+damage_immunities: "Gift"
+condition_immunities: "Vergiftung"
+senses: "Dunkelsicht 18 m, passive Wahrnehmung 8"
+languages: "Versteht die Sprachen, die er im Leben sprach, kann aber nicht sprechen"
+cr: "1/4"
+traits:
+  - name: Untote Ausdauer.
+    desc: "Wenn die Trefferpunkte des Zombies auf O verringert werden, muss er einen Konstitutionsrettungswurf gegen SG 5 + erlittener Schaden ablegen, es sei denn , der Schaden war gleißender Schaden oder von einem kritischen Treffer. Bei einem Erfolg fällt der Zombie stattdessen auf 1 TP."
+actions:
+  - name: Hieb.
+    desc: "_Nahkampf-Waffenangriff:_ +3 zum Treffen , Reichweite 1,5 m, ein Ziel. _Treffer:_ 4 (1W6 + 1) Wuchtschaden."
 ```
 ^statblock
-
-## Environment
-
-urban

@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-monster
 tags:
   - Quelle/5e/bgdia
   - Monster/HG/25
@@ -11,7 +9,7 @@ statblock-link: "#^statblock"
 aliases:
   - Bel
 ---
-# [Bel](3-Mechanics\CLI\bestiary\npc/bel-bgdia.md)
+# Bel
 *Source: Baldur's Gate: Descent Into Avernus p. 115*  
 
 From his bastion, Zariel's second-in-command and the former lord of Avernus oversees the forges that furnish weapons and armor for the Blood War. Though Asmodeus has instructed Zariel to accept Bel as her advisor, Bel and Zariel loathe each other and invent distractions to keep them apart.
@@ -111,6 +109,6 @@ Bel outwardly plays the role of Zariel's loyal vassal. However, Bel rankles at Z
     "name": "Summon Ice Devil (Costs 3 Actions)"
 "source":
   - "BGDIA"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/bel-bgdia.webp"
+"image": "bel-bgdia.webp"
 ```
 ^statblock

@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-monster
 tags:
   - Quelle/5e/bgdia
   - Monster/HG/6
@@ -11,7 +9,7 @@ statblock-link: "#^statblock"
 aliases:
   - Krull
 ---
-# [Krull](3-Mechanics\CLI\bestiary\npc/krull-bgdia.md)
+# Krull
 *Source: Baldur's Gate: Descent Into Avernus p. 110*  
 
 ```statblock
@@ -98,6 +96,6 @@ aliases:
     "name": "Shell Defense"
 "source":
   - "BGDIA"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/krull-bgdia.webp"
+"image": "krull-bgdia.webp"
 ```
 ^statblock

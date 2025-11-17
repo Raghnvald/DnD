@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-monster
 tags:
   - Quelle/5e/cos
   - Monster/HG/2
@@ -11,7 +9,7 @@ statblock-link: "#^statblock"
 aliases:
   - Luvash
 ---
-# [Luvash](3-Mechanics\CLI\bestiary\npc/luvash-cos.md)
+# Luvash
 *Source: Curse of Strahd p. 121*  
 
 ```statblock
@@ -61,6 +59,6 @@ aliases:
     "name": "Parry"
 "source":
   - "CoS"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/luvash-cos.webp"
+"image": "luvash-cos.webp"
 ```
 ^statblock

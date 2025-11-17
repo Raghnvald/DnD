@@ -1,75 +1,70 @@
 ---
-cssclasses:
-  - json5e-monster
 tags:
   - Quelle/5e/mm
+  - Monster/Typ/Monstrosität
+  - Monster/Größe/Mittelgroß
   - Monster/HG/2
   - Monster/Habitat/Wald
   - Monster/Habitat/Unterreich
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Monstrosität
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
   - Grick
 ---
-# [Grick](3-Mechanics\CLI\bestiary\monstrosity/grick.md)
-*Source: Monster Manual p. 173. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+# Grick
+*Quelle: Monsterhandbuch S. 173. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
-The wormlike grick waits unseen, blending in with the rock of the caves and caverns it haunts. Only when prey comes near does it rear up, its four barbed tentacles unfurling to reveal its hungry, snapping beak.
+Die wurmartigen Gricks warten unsichtbar und verschmelzen mit den Felsen der Höhlen und Kavernen, die sie heimsuchen. Nur wenn die Beute nahe kommt, erheben sie sich, und ihre vier Tentakel entfalten sich, um hungrige, schnappende Schnabel zu offenbaren.
 
-## Passive Predators
+## Passive Raubtiere
 
-Gricks rarely hunt. Instead, they drag their rubbery bodies to places where creatures regularly pass, lurking out of sight amid rocky rubble and debris, squeezing into burrows, holes, or crevices, climbing up to ledges, or coiling around stalactites to drop on unwary prey. A grick consumes virtually anything that moves except for other gricks. It targets the nearest prey, grabbing a fallen creature with its tentacles and dragging it off to eat alone.
+Gricks jagen nur selten. Stattdessen schleppen sie ihre gummiartigen Körper an Orte, an denen regelmäßig Kreaturen vorbeikommen. Sie lauern außer Sicht zwischen Geröll und Schutt, quetschen sich in Erdlöcher und Spalten, klettern Simse empor oder wickeln sich um Stalaktiten, um sich auf arglose Beute herunter fallen zu lassen. Ein Grick verschlingt so gut wie alles, das sich bewegt, mit Ausnahme von anderen Gricks. Er greift die Beute an, die ihm am nächsten ist. Gefallene Kreaturen packt er mit seinen Tentakeln und schleppt sie weg, um sie alleine zu verspeisen.
 
-## Roving Ambushers
+## Umherziehende Lauerjäger
 
-Gricks remain in an area until the food supply dwindles, often because sentient creatures become aware of their presence and plot alternate routes around their lairs. When prey is scarce in the Underdark, gricks venture aboveground to hunt in the wilderness, lurking in trees or on cliff-side ledges. A grick pack is often led by a single well-fed, oversized alpha around which the others congregate.
+Gricks bleiben in einem Gebiet, bis das Nahrungsvorkommen knapp wird, oft, weil sich denkende Wesen ihrer Präsenz bewusst werden und alternative Wege um ihr Revier planen. Wenn Beute im Unterreich knapp ist, ziehen Gricks an die Oberfläche, um in der Wildnis zu jagen. Sie lauern dann auf Bäumen oder an Klippen. Ein Grick-Rudel wird oft von einem gut genährten, übergroßen Alpha angeführt, um den sich die anderen sammeln.
 
-## Spoils of Slaughter
+## Beute des Gemetzels
 
-Over time, grick lairs accumulate the cast-off possessions of intelligent prey, and expert guides know to look out for these tell-tale signs. Underdark explorers sometimes seal off the routes leading to and from a grick lair to starve them, then claim the wealth of the foul creatures' victims.
+Im Lauf der Zeit sammeln sich in Grick-Behausungen die ehemaligen Besitztümer intelligenter Beute, und erfahrene Führer wissen, wie sie nach diesen verräterischen Zeichen suchen müssen. Erforscher des Unterreichs versiegeln manchmal Wege, die zu einer Grick-Behausung führen , um sie so auszuhungern, und beanspruchen dann die Besitztümer der Beute der ekelhaften Kreatur.
 
 ```statblock
-"name": "Grick"
-"size": "Medium"
-"type": "monstrosity"
-"alignment": "Neutral"
-"ac": !!int "14"
-"ac_class": "natural armor"
-"hp": !!int "27"
-"hit_dice": "6d8"
-"modifier": !!int "2"
-"stats":
+name: Grick
+image: token/grick.webp
+source: Monsterhandbuch 2014
+size: Mittel
+type: Monstrosität
+alignment: neutral
+ac: !!int "14"
+ac_class: "Natürliche Rüstung"
+hp: !!int "27"
+hit_dice: "6d8"
+modifier: !!int "2"
+stats:
   - !!int "14"
   - !!int "14"
   - !!int "11"
   - !!int "3"
   - !!int "14"
   - !!int "5"
-"speed": "30 ft., climb 30 ft."
-"damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 12"
-"languages": ""
-"cr": "2"
-"traits":
-  - "desc": "The grick has advantage on Dexterity ([Stealth](/3-Mechanics/CLI/skills.md#Stealth))\
-      \ checks made to hide in rocky terrain."
-    "name": "Stone Camouflage"
-"actions":
-  - "desc": "The grick makes one attack with its tentacles. If that attack hits, the\
-      \ grick can make one beak attack against the same target."
-    "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 9 (2d6\
-      \ + 2) slashing damage."
-    "name": "Tentacles"
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6\
-      \ + 2) piercing damage."
-    "name": "Beak"
-"source":
-  - "MM"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/grick.webp"
+speed: "9 Meter, klettern 9 Meter."
+damage_resistances: "Wucht-, Stich- und Hiebschaden durch
+nicht-magische Waffen"
+senses: "Dunkelsicht 18 m, passive Wahrnehmung 12"
+languages: ""
+cr: "2"
+traits:
+  - name: "Steintarnung."
+    desc: "Der Grick hat einen Vorteil bei Würfen auf Geschicklichkeit (Heimlichkeit), wenn er sich in felsigem Gelände verstecken möchte."
+actions:
+  - name: Mehrfachangriff
+    desc: "Der Grick führt ei nen Angriff mit seinen Tentakeln
+aus. Wenn der Angriff trifft, kann der Grick einen Schnabel-
+Angriff gegen dasselbe Ziel ausführen."
+  - name: Tentakel
+    desc: "_Nahkampf-Waffenangriff:_ +4 auf Treffer, Reichweite 1,5 m, ein Ziel. _Treffer:_ 9 (2W6 + 2) Hiebschaden."
+  - name: Schnabel
+    desc: "_Nahkampf-Waffenangriff:_ +4 auf Treffer, Reichweite 1,5 m, ein Ziel. _Treffer:_ 5 (1W6 + 2) Stichschaden."
 ```
 ^statblock
 

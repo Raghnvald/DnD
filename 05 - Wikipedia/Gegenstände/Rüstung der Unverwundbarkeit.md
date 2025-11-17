@@ -4,7 +4,7 @@ tags:
   - Quelle/5e/dmg
   - Gegenstand/Rüstung/Schwer
   - Gegenstand/Seltenheit/legendär
-  - Gegenstand/Einstimmung/erforderlich
+  - Gegenstand/Einstimmung
 aliases:
   - Armor of Invulnerability
 Bezeichnung: Rüstung der Unverwundbarkeit

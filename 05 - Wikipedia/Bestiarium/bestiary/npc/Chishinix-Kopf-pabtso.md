@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-monster
 tags:
   - Quelle/5e/pabtso
   - Monster/HG/3
@@ -17,7 +15,7 @@ Habitat:
 HG: 3
 status: WIP
 ---
-# [Chishinix' Head](3-Mechanics\CLI\bestiary\npc/chishinix-head-pabtso.md)
+# Chishinix' Head
 *Source: Phandelver and Below: The Shattered Obelisk p. 194*  
 
 ```statblock
@@ -63,6 +61,6 @@ status: WIP
     "name": "Leech"
 "source":
   - "PaBTSO"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/chishinix-head-pabtso.webp"
+"image": "chishinix-head-pabtso.webp"
 ```
 ^statblock

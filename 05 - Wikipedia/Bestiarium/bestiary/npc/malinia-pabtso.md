@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-monster
 tags:
   - Quelle/5e/pabtso
   - Monster/HG/4
@@ -11,7 +9,7 @@ statblock-link: "#^statblock"
 aliases:
   - Malinia
 ---
-# [Malinia](3-Mechanics\CLI\bestiary\npc/malinia-pabtso.md)
+# Malinia
 *Source: Phandelver and Below: The Shattered Obelisk p. 115*  
 
 ```statblock
@@ -62,6 +60,6 @@ aliases:
     "name": "Defensive Flight"
 "source":
   - "PaBTSO"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/malinia-pabtso.webp"
+"image": "malinia-pabtso.webp"
 ```
 ^statblock

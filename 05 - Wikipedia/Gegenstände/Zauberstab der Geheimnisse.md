@@ -6,12 +6,12 @@ Gew.: 0,5 kg
 Kst.: 400 GM
 image: wand-of-secrets.webp
 tags:
-- Quelle/5e/dmg
-- Gegenstand/wundersam/Zauberstab
-- Gegenstand/Seltenheit/ungewöhnlich
-- Gegenstand/Einstimmung/erforderlich
+  - Quelle/5e/dmg
+  - Gegenstand/wundersam/Zauberstab
+  - Gegenstand/Seltenheit/ungewöhnlich
+  - Gegenstand/Einstimmung
 aliases:
-- Wand of Secrets
+  - Wand of Secrets
 ---
 # Zauberstab der Geheimnisse
 _Zauberstab, ungewöhnlich_

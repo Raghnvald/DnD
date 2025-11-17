@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-monster
 tags:
   - Quelle/5e/pabtso
   - Monster/HG/11
@@ -11,7 +9,7 @@ statblock-link: "#^statblock"
 aliases:
   - Hashutu
 ---
-# [Hashutu](3-Mechanics\CLI\bestiary\npc/hashutu-pabtso.md)
+# Hashutu
 *Source: Phandelver and Below: The Shattered Obelisk p. 194*  
 
 ```statblock
@@ -101,6 +99,6 @@ aliases:
     "name": "Warp Reality"
 "source":
   - "PaBTSO"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/hashutu-pabtso.webp"
+"image": "hashutu-pabtso.webp"
 ```
 ^statblock

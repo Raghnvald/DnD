@@ -126,6 +126,11 @@ views:
       - HG
       - status
       - Bezeichnung
+    sort:
+      - property: file.name
+        direction: ASC
+      - property: aliases
+        direction: ASC
     columnSize:
       file.name: 135
       note.Typ: 124
@@ -253,6 +258,12 @@ views:
       - Größe
       - HG
       - status
+      - aliases
+    sort:
+      - property: file.name
+        direction: ASC
+      - property: aliases
+        direction: ASC
     columnSize:
       file.name: 135
       note.Typ: 124

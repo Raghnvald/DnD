@@ -11,7 +11,7 @@ statblock-link: "#^statblock"
 aliases:
   - Demogorgon
 ---
-# [Demogorgon](3-Mechanics\CLI\bestiary\npc/demogorgon-mpmm.md)
+# Demogorgon
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 90*  
 
 > [!quote] A quote from Mordenkainen  
@@ -156,6 +156,6 @@ Demogorgon makes his lair in a palace called Abysm, found on a layer of the Abys
     "name": "Cast a Spell (Costs 2 Actions)"
 "source":
   - "MPMM"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/demogorgon-mpmm.webp"
+"image": "demogorgon-mpmm.webp"
 ```
 ^statblock

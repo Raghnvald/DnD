@@ -6,8 +6,8 @@ tags:
 - Zauber/Grad/3
 - Zauber/Schule/Hervorrufung
 aliases: 
-- Aganazzars Scorcher
-Bezeichnung: Aganazzars Versenger
+- Crusaders Mantle
+Bezeichnung: 
 Zeitaufwand: 1 Aktion
 Reichweite: selbst
 Komponenten: V

@@ -8,6 +8,7 @@ tags:
   - Gegenstand/Rüstung/Schild/
 aliases:
   - Shield of the Hidden Lord
+  - Schild des Verborgenen Herrschers
 ---
 # Shield of the Hidden Lord
 *Armor ([shield](/3-Mechanics/CLI/items/shield-xphb.md)), legendary (requires attunement)*  

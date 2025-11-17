@@ -9,7 +9,7 @@ tags:
   - Quelle/5e/dmg
   - Gegenstand/Waffe/Nahkampf/Einfach
   - Gegenstand/Seltenheit/selten
-  - Gegenstand/Einstimmung/erforderlich
+  - Gegenstand/Einstimmung
 aliases:
   - Mace of Disruption
 ---

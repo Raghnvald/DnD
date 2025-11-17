@@ -2,6 +2,7 @@
 cssclasses: dnd5e-compendium
 tags:
   - Quelle/5e/phb
+  - Gegenstand/Seltenheit/keine
   - Gegenstand/Ausrüstung/Instrument
 aliases:
   - Bagpipes
@@ -12,15 +13,10 @@ Gew.: 3,0 kg
 Kst.: 30 GM
 ---
 # Dudelsack
-*Instrument, gewöhnlich*  
-<img src="Symbolik/Gegenstände.webp" align="right" width="150">
+*Instrument*  
 
-_Klassen:_ n/v 
-_Unterklassen:_  n/v
+*Source: Player's Handbook p. 154. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
-_Quellen:_ Spielerhandbuch
-
-- **Eigenschaften**: n/v
 - **Kosten:** 30 Goldmünzen
 - **Gewicht:** 3,0 kg.
 

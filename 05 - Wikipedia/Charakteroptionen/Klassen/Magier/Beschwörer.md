@@ -1,6 +1,9 @@
 ---
-tags: [Klasse/Magier/Beschwörung, Quelle/5e/phb, Quelle/5e/SRD]
-aliases: [School of Conjuraion]
+tags:
+  - Klasse/Magier/Beschwörung
+  - Quelle/5e/phb
+aliases:
+  - School of Conjuraion
 ---
 Schule der Beschwörung
 ======================

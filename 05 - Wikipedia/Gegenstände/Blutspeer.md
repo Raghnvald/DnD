@@ -11,7 +11,7 @@ tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/Eigenschaft/Wurfwaffe
   - Gegenstand/Eigenschaft/Vielseitig
-  - Gegenstand/Einstimmung/erforderlich
+  - Gegenstand/Einstimmung
 aliases:
   - Bloodspear
 ---

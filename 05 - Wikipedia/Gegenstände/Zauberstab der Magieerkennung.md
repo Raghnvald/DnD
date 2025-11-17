@@ -6,12 +6,12 @@ Gew.: 0,5 kg
 Kst.: 400 GM
 image: wand-of-magic-detection.webp
 tags:
-- Quelle/5e/dmg
-- Gegenstand/wundersam/Zauberstab
-- Gegenstand/Seltenheit/ungewöhnlich
-- Gegenstand/Einstimmung/erforderlich
+  - Quelle/5e/dmg
+  - Gegenstand/wundersam/Zauberstab
+  - Gegenstand/Seltenheit/ungewöhnlich
+  - Gegenstand/Einstimmung
 aliases:
-- Wand of Magic Detection
+  - Wand of Magic Detection
 ---
 # Zauberstab der Magieerkennung
 _Zauberstab, ungewöhnlich_  

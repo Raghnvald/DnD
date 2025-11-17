@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-monster
 tags:
   - Quelle/5e/mpmm
   - Monster/HG/19
@@ -114,6 +112,6 @@ Despite his lack of interest in affairs outside battle, or perhaps because of it
     "name": "Attack (Costs 2 Actions)"
 "source":
   - "MPMM"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/bael-mpmm.webp"
+"image": "bael-mpmm.webp"
 ```
 ^statblock

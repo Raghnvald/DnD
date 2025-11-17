@@ -1,5 +1,5 @@
 ---
-tags: [Quelle/5e/Basic_Rules]
+tags: []
 ---
 # Pantheons in Geschichte und Fantasy-Welten
 

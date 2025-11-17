@@ -2,7 +2,7 @@
 cssclasses: json5e-item
 tags:
   - Quelle/5e/dmg
-  - Gegenstand/Einstimmung/erforderlich
+  - Gegenstand/Einstimmung
   - Gegenstand/Eigenschaft/Vielseitig
   - Gegenstand/Seltenheit/legendär
   - Gegenstand/Tier/major

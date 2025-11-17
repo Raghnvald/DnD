@@ -19,6 +19,7 @@ _Klassen:_ n/v
 _Unterklassen:_  n/v
 
 _Quellen:_ Spielerhandbuch
+*Source: Player's Handbook p. 151. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 - **Eigenschaften**: n/v
 - **Gewicht**: 1,0 kg.

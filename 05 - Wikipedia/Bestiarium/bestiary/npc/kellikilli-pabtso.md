@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-monster
 tags:
   - Quelle/5e/pabtso
   - Monster/HG/3
@@ -11,7 +9,7 @@ statblock-link: "#^statblock"
 aliases:
   - Kellikilli
 ---
-# [Kellikilli](3-Mechanics\CLI\bestiary\npc/kellikilli-pabtso.md)
+# Kellikilli
 *Source: Phandelver and Below: The Shattered Obelisk p. 121*  
 
 ```statblock
@@ -57,6 +55,6 @@ aliases:
     "name": "Constrict"
 "source":
   - "PaBTSO"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/kellikilli-pabtso.webp"
+"image": "kellikilli-pabtso.webp"
 ```
 ^statblock

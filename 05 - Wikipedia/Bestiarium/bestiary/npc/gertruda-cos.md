@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-monster
 tags:
   - Quelle/5e/cos
   - Monster/HG/0
@@ -11,7 +9,7 @@ statblock-link: "#^statblock"
 aliases:
   - Gertruda
 ---
-# [Gertruda](3-Mechanics\CLI\bestiary\npc/gertruda-cos.md)
+# Gertruda
 *Source: Curse of Strahd p. 68*  
 
 ```statblock
@@ -41,6 +39,6 @@ aliases:
     "name": "Club"
 "source":
   - "CoS"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/gertruda-cos.webp"
+"image": "gertruda-cos.webp"
 ```
 ^statblock

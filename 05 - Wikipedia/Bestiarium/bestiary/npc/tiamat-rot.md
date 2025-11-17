@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-monster
 tags:
   - Quelle/5e/rot
   - Monster/HG/30
@@ -11,7 +9,7 @@ statblock-link: "#^statblock"
 aliases:
   - Tiamat
 ---
-# [Tiamat](3-Mechanics\CLI\bestiary\npc/tiamat-rot.md)
+# Tiamat
 *Source: The Rise of Tiamat p. 92, Baldur's Gate: Descent Into Avernus*  
 
 ```statblock
@@ -129,6 +127,6 @@ aliases:
 "source":
   - "RoT"
   - "BGDIA"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/tiamat-rot.webp"
+"image": "tiamat-rot.webp"
 ```
 ^statblock

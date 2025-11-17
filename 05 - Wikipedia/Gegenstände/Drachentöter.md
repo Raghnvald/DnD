@@ -3,7 +3,7 @@ tags:
   - Quelle/5e/dmg
   - Gegenstand/Waffe
   - Gegenstand/Seltenheit/selten
-  - Gegenstand/Einstimmung/erforderlich
+  - Gegenstand/Einstimmung
 ---
 # Drachentöter
 _Waffe (beliebiges Schwert), selten_

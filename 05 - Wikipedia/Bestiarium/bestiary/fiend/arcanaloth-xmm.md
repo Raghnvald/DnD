@@ -128,3 +128,77 @@ Arcanaloths possess considerable spellcasting prowess and frequently disguise th
 ## Environment
 
 planar, lower
+
+Arcanaloth (2024)
+_Yugoloth der magischen Manipulation_
+
+>**Habitat:** Planar (Untere Ebenen)
+>**Beute:** Arkanes
+
+```statblock
+name: Arcanaloth (2024)
+image: pictures/arcanaloth-2024.webp
+source: Monsterhandbuch 2024
+size: Mittel
+type: Unhold
+subtype: (Yugoloth)
+alignment: Neutral Böse
+ac: 18
+hp: 175
+hit_dice: 27d8 + 54
+ini: +5 (15)
+speed: 9 Meter, Fliegen 9 Meter (schwebend).
+stats: [17, 12, 14, 20, 16, 17]
+saves:
+  - STR: +3
+  - GES: +5
+  - KON: +6
+  - INT: +9
+  - WEI: +7
+  - CHA: +3
+skillsaves:
+  - Arkane Kunde: 9
+  - Motiv erkennen: 7
+  - Täuschung: 7
+  - Wahrnehmung: 7
+damage_vulnerabilities: ""
+damage_resistances: "Blitz, Feuer, Kälte"
+damage_immunities: "Gift, Säure"
+condition_immunities: "[[Anhang PH-A#Bezaubert|Bezaubert]], [[Anhang PH-A#Vergiftet|Vergiftet]]"
+senses: [[Regularien/2014/Grundregelwerk/08-Abenteuersuche#Wahrer Blick|Wahrer Blick]] 36 Meter, passive Wahrnehmung 17
+languages: Alle, telepathisch 36 Meter
+cr: 12
+bestiary: true
+traits:
+  - name: Fiendish Restoration.
+    desc: "If the arcanaloth dies outside Gehenna, its body dissolves into ichor, and it gains a new body instantly and revives with all its Hit Points in Gehenna."
+  - name: Magic Resistance.
+    desc: "The arcanaloth has Advantage on saving throws against spells and other magical effects."
+  - name: Soul Tome.
+    desc: "The arcanaloth has a magic tome. While holding or carrying the tome, the arcanaloth can use its Banishing Claw action. <br><br> The tome has AC 17; HP 35; and Immunity to Necrotic, Poison, and Psychic damage. The tome regains all its Hit Points at the end of every turn, but it turns to dust if reduced to 0 Hit Points or when the arcanaloth dies. If the tome is destroyed, the arcanaloth can create a new one when it finishes a Short or Long Rest."
+actions:
+  - name: Mehrfachangriff.
+    desc: "The arcanaloth makes three Fiendish Burst attacks. It can replace one attack with a Banishing Claw attack."
+  - name: Banishing Claw (Requires Soul Tome).
+    desc: "_Melee Attack Roll:_ +9, reach 5 ft. _Hit:_ 10 (2d4 + 5) Slashing damage plus 19 (3d12) Psychic damage. If the target is a creature, it is subjected to the following effect. _Charisma Saving Throw:_ DC 17. _Failure:_ The target is trapped in a demiplane inside the Soul Tome. While trapped there, the target has the Incapacitated condition. At the end of each of its turns, the target repeats the save, escaping the tome on a success. When the target escapes, it appears in the space it left or, if that space is occupied, the nearest unoccupied space. <br><br> If the target fails three of these saves while in the demiplane, it becomes bound to the tome and can escape only if the tome is reduced to 0 Hit Points."
+    attack_bonus: 4
+    damage_dice: 1d4
+    damage_bonus: 2
+  - name: Fiendish Burst.
+    desc: "_Nahkampf- oder Fernkampfangriffswurf:_ +9, Reichweite 1,5m oder 36m  _Treffer:_ 31 (4d12 + 5) Nekrotischer Schaden."
+    attack_bonus: 4
+    damage_dice: 1d4
+    damage_bonus: 2
+  - name: Zauberwirken.
+    desc: "Der Arcanaloth wirkt einen der folgenden Zauber, ohne Komponenten zu benötigen. Seine Zauberfertigkeit ist Intelligenz (Zauber-Rettungswurf SG 17):"
+  - name: Beliebig oft.
+    desc: "Alter Self, Detect Magic, Identify, Mage Hand, Prestidigitation"
+  - name: je 1-mal täglich.
+    desc: "Contact Other Planes, Detect Thoughts, Dimension Door, Mind Blank"
+bonus_actions:
+  - name: Teleportation
+    desc: "Der Arcanaloth teleportiert sich bis zu 9m an einen freien Ort, welchen er sehen kann."
+reactions:
+  - name: Gegenzauber.
+    desc: "Der Arcanaloth wirkt [Gegenzauber](Gegenzauber.md) als Reaktion auf den Auslöser des Zaubers. Dabei verwendet er die gleiche Zauberfertigkeit wie beim Zauberwirken."
+```

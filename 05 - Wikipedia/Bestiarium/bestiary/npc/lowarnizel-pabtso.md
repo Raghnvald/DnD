@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-monster
 tags:
   - Quelle/5e/pabtso
   - Monster/HG/9
@@ -17,7 +15,7 @@ Habitat:
   - /
 status: WIP
 ---
-# [Lowarnizel](3-Mechanics\CLI\bestiary\npc/lowarnizel-pabtso.md)
+# Lowarnizel
 *Source: Phandelver and Below: The Shattered Obelisk p. 181*  
 
 Lowarnizel is a young amethyst dragon, and his companion is a lawful neutral human mage named Gossa. Both hate the Far Realm and anything tainted by it.
@@ -94,6 +92,6 @@ Lowarnizel is a young amethyst dragon, and his companion is a lawful neutral hum
     "name": "Change Shape"
 "source":
   - "PaBTSO"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/lowarnizel-pabtso.webp"
+"image": "lowarnizel-pabtso.webp"
 ```
 ^statblock

@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-background
 tags:
   - Kompendium/background
   - Quelle/5e/phb

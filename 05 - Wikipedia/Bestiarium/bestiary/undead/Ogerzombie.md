@@ -44,41 +44,36 @@ A zombie doesn't require air, food, drink, or sleep.
 
 
 ```statblock
-"name": "Ogre Zombie"
-"size": "Large"
-"type": "undead"
-"alignment": "Neutral Evil"
-"ac": !!int "8"
-"hp": !!int "85"
-"hit_dice": "9d10 + 36"
-"modifier": !!int "-2"
-"stats":
+name: Ogerzombie
+image: token/ogre-zombie.webp
+source: Monsterhandbuch 2014
+size: Groß
+type: Untoter
+alignment: Neutral Böse
+ac: !!int "8"
+hp: !!int "85"
+hit_dice: "9d10 + 36"
+modifier: !!int "-2"
+stats:
   - !!int "19"
   - !!int "6"
   - !!int "18"
   - !!int "3"
   - !!int "6"
   - !!int "5"
-"speed": "30 ft."
-"saves":
-  - "wisdom": !!int "0"
-"damage_immunities": "poison"
-"condition_immunities": "[poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 8"
-"languages": "understands Common and Giant but can't speak"
-"cr": "2"
-"traits":
-  - "desc": "If damage reduces the zombie to 0 hit points, it must make a Constitution\
-      \ saving throw with a DC of 5 + the damage taken, unless the damage is radiant\
-      \ or from a critical hit. On a success, the zombie drops to 1 hit point instead."
-    "name": "Undead Fortitude"
-"actions":
-  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 13\
-      \ (2d8 + 4) bludgeoning damage."
-    "name": "Morningstar"
-"source":
-  - "MM"
-"image": "/3-Mechanics/CLI/bestiary/undead/token/ogre-zombie.webp"
+speed: "9 Meter"
+saves:
+  - "WEI": !!int "0"
+damage_immunities: "Gift"
+condition_immunities: "Vergiftet"
+senses: "Dunkelsicht 18 m., passive Wahrnehmung 8"
+languages: "Versteht Gemeinsprache und Riesisch, kann aber nicht sprechen"
+cr: "2"
+traits:
+  - name: "Untote Ausdauer."
+    desc: "Wenn die Trefferpunkte des Zombies auf 0 verringert werden, muss er einen Konstitutionsrettungswurf gegen SG 5 + erlittener Schaden ablegen, es sei denn, der Schaden war gleißender Schaden oder von einem kritischen Treffer. Bei einem Erfolg fällt der Zombie stattdessen auf 1 TP."
+actions:
+  - name: "Morgenstern."
+    desc: "_Nahkampf-Waffenangriff_ +6 zum Treffen, Reichweite 1,5 m, ein Ziel. _Treffer:_ 13 (2W8 + 4) Wuchtschaden."
 ```
 ^statblock

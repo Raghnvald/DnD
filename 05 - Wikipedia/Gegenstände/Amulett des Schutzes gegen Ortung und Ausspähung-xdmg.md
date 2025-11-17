@@ -10,7 +10,7 @@ aliases:
 ---
 # Amulet of Proof against Detection and Location
 *Wondrous item, uncommon (requires attunement)*  
-![](/3-Mechanics/CLI/items/img/amulet-of-proof-against-detection-and-location.webp#right)
+![](img/amulet-of-proof-against-detection-and-location.webp#right)
 
 - **Weight**: 1.0 lbs.
 

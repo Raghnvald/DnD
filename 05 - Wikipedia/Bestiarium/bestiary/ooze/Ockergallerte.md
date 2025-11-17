@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-monster
 tags:
   - Quelle/5e/mm
   - Monster/HG/2
@@ -12,87 +10,70 @@ statblock-link: "#^statblock"
 aliases:
   - Ochre Jelly
 ---
-# [Ochre Jelly](3-Mechanics\CLI\bestiary\ooze/ochre-jelly.md)
-*Source: Monster Manual p. 243. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+# Ockergallerte
+*Quelle: Monsterhandbuch S. 243. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
-Ochre jellies are yellowish blobs that can slide under doors and through narrow cracks in pursuit of creatures to devour. They have enough bestial cunning to avoid large groups of enemies.
+Ockergallerten sind gelbliche Blobs, die unter Türen und durch schmale Spalten gleiten können, um Kreaturen zu verfolgen und zu verschlingen. Sie haben genug tierhafte Intelligenz, um große Gruppen von Gegnern zu meiden. Eine Ockergallerte folgt in sicherer Entfernung, während sie ihre Beute jagt. Ihre Verdauungsenzyme löschen Fleisch schnell auf, haben aber keinen Effekt auf andere Substanzen wie Knochen, Holz und Metall.
 
-An ochre jelly follows at a safe distance as it pursues its meal. Its digestive enzymes dissolve flesh quickly but have no effect on other substances such as bone, wood, and metal.
+## Schlicke
 
-## Oozes
+Schlicke gedeihen in der Dunkelheit. Sie meiden Orte mit hellem Licht und Temperaturextreme. Sie fließen durch den klammen Untergrund, ernähren sich von allen Kreaturen oder Gegenständen, die aufgelöst werden können, schleichen über den Boden, tropfen von Mauern und Decken, breiten sich über die Ränder unterirdischer Wasserbecken aus und quetschen sich durch enge Spalten. Die erste Warnung, die ein Abenteuer bezüglich der Präsenz eines Schlicks erhält, ist oft der brennende Schmerz seiner Säureberührung.
 
-Oozes thrive in the dark, shunning areas of bright light and extreme temperatures. They flow through the damp underground, feeding on any creature or object that can be dissolved, slinking along the ground, dripping from walls and ceilings, spreading across the edges of underground pools, and squeezing through cracks.
+Schlicke werden von Bewegung und Wärme angelockt. Organische Materialien sind Nahrung für sie, und wenn Beute knapp ist, fressen sie Dreck, Pilze und Abfälle. Erfahrene Entdecker wissen, dass ein makellos sauberer Korridor ein wahrscheinliches Zeichen ist, dass ein Schlick in der Nähe haust.
 
-The first warning an adventurer receives of an ooze's presence is often the searing pain of its acidic touch. Oozes are drawn to movement and warmth. Organic material nourishes them, and when prey is scarce they feed on grime, fungus, and offal. Veteran explorers know that an immaculately clean passageway is a likely sign that an ooze lairs nearby.
+### Langsamer Tod
 
-### Slow Death
+Ein Schlick tötet seine Beute langsam. Einige Varianten, wie der Schwarze Blob und der Gallertwürfel, umschlingen Kreaturen, um ihre Flucht zu verhindern. Der einzige Vorteil dieses qualvollen Todes ist, dass die Gefährten des Opfers es retten können, ehe es zu spät ist.
 
-An ooze kills its prey slowly. Some varieties, such as black puddings and gelatinous cubes, engulf creatures to prevent escape. The only upside of this torturous death is that a victim's comrades can come to the rescue before it is too late.
+Da nicht jeder Schlickjede Art von Substanz zersetzen kann, haben einige Schlicke Münzen, metallene Ausrüstung, Knochen und andere Überbleibsel in ihren bebenden Körpern schweben. Ein getöteter Schlick kann eine reichhaltige Quelle für Schätze sein.
 
-Since not every ooze digests every type of substance, some have coins, metal gear, bones, and other debris suspended within their quivering bodies. A slain ooze can be a rich source of treasure for its killers.
+### Geistlose Diener
 
-Whether this is true or not, the Faceless Lord is one of the few beings that can control oozes and imbue them with a modicum of intelligence. Most of the time, oozes have no sense of tactics or self-preservation. They are direct and predictable, attacking and eating without cunning. Under the control of Juiblex, they exhibit glimmers of sentience and malevolent intent.
+Auch wenn ein Schlick nicht die Intelligenz hat, sich mit anderen Kreaturen zu verbünden, könnten andere, die verstehen, dass er fressen muss, ihn an einen Ort locken, wo er nützlich sein kann. Schlaue Monster halten Schlicke in ihrer Nähe, damit sie Korridore bewachen oder Abfälle verzehren. Gleichermaßen kann ein Schlick in eine Grubenfalle gelockt werden, wo ihn seine Fänger häufig genug füttern, sodass er sie nicht angreift. Schlaue Kreaturen stellen Fackeln und lodernde Feuerschalen an strategischen Orten auf, um zu verhindern, dass ein Schlick einen bestimmten Tunnel oder Raum verlässt.
 
-### Unwitting Servants
+### Brut von Jubilex
 
-Although an ooze lacks the intelligence to ally itself with other creatures, others that understand an ooze's need to feed might lure it into a location where it can be of use to them. Clever monsters keep oozes around to defend passageways or consume refuse. Likewise, an ooze can be enticed into a pit trap, where its captors feed it often enough to prevent it from coming after them. Crafty creatures place torches and flaming braziers in strategic areas to dissuade an ooze from leaving a particular tunnel or room.
+Glaubt man dem Demonomicon von Iggwilv und anderen Quellen sind Schlicke verstreute Fragmente oder Nachkommen des Dämonenfürsten Jubilex. Ob dies wahr ist oder nicht, der Gesichtslose Fürst ist eines der wenigen Wesen, die Schlicke kontrollieren und sie mit einer gewissen Intelligenz erfüllen können. Meistens besitzen Schlicke kein Gefühl für Taktik oder Selbsterhaltung. Sie sind direkt und vorhersehbar und greifen ohne jeden Verstand an, um zu fressen. Unter der Kontrolle von Jubilex weisen sie einen Hauch von Bewusstsein und bösartiger Intelligenz auf.
 
-### Spawn of Juiblex
+### Schlicknatur
 
-According to the Demonomicon of Iggwilv and other sources, oozes are scattered fragments or offspring of the demon lord Juiblex.
-
-### Ooze Nature
-
-An ooze doesn't require sleep.
+Ein Schlick muss nicht schlafen.
 
 ```statblock
-"name": "Ochre Jelly"
-"size": "Large"
-"type": "ooze"
-"alignment": "Unaligned"
-"ac": !!int "8"
-"hp": !!int "45"
-"hit_dice": "6d10 + 12"
-"modifier": !!int "-2"
-"stats":
+name: Ockergallerte
+image: token/ochre-jelly.webp
+source: Monsterhandbuch 2014
+size: Groß
+type: Schleim
+alignment: gesinnungslos
+ac: !!int "8"
+hp: !!int "45"
+hit_dice: "6d10 + 12"
+modifier: !!int "-2"
+stats:
   - !!int "15"
   - !!int "6"
   - !!int "14"
   - !!int "2"
   - !!int "6"
   - !!int "1"
-"speed": "10 ft., climb 10 ft."
-"damage_resistances": "acid"
-"damage_immunities": "lightning, slashing"
-"condition_immunities": "[blinded](/3-Mechanics/CLI/conditions.md#Blinded), [charmed](/3-Mechanics/CLI/conditions.md#Charmed),\
-  \ [deafened](/3-Mechanics/CLI/conditions.md#Deafened), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened), [prone](/3-Mechanics/CLI/conditions.md#Prone)"
-"senses": "[blindsight](/3-Mechanics/CLI/senses.md#Blindsight) 60 ft. (blind beyond\
-  \ this radius), passive Perception 8"
-"languages": ""
-"cr": "2"
-"traits":
-  - "desc": "The jelly can move through a space as narrow as 1 inch wide without squeezing."
-    "name": "Amorphous"
-  - "desc": "The jelly can climb difficult surfaces, including upside down on ceilings,\
-      \ without needing to make an ability check."
-    "name": "Spider Climb"
-"actions":
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 9 (2d6\
-      \ + 2) bludgeoning damage plus 3 (1d6) acid damage."
-    "name": "Pseudopod"
-"reactions":
-  - "desc": "When a jelly that is Medium or larger is subjected to lightning or slashing\
-      \ damage, it splits into two new jellies if it has at least 10 hit points. Each\
-      \ new jelly has hit points equal to half the original jelly's, rounded down.\
-      \ New jellies are one size smaller than the original jelly."
-    "name": "Split"
-"source":
-  - "MM"
-"image": "/3-Mechanics/CLI/bestiary/ooze/token/ochre-jelly.webp"
+speed: "3 Meter, klettern 3 Meter"
+damage_resistances: "Säure"
+damage_immunities: "Blitz, Hieb"
+condition_immunities: "Bezaubert, blind, erschöpft, liegend, taub, verängstigt"
+senses: "Blindsicht 18 m (darüber hinaus blind), passive Wahrnehmung 8"
+languages: ""
+cr: "2"
+traits:
+  - name: Amorph
+    desc: "Die Gallerte kann sich durch einen Bereich bewegen, der nicht größer als 2,5 Zentimeter ist, ohne sich quetschen zu müssen."
+  - name: Spinnenklettern
+    desc: "Die Gallerte kann an schwierigen Oberflächen klettern, auch kopfüber an der Decke, ohne Attributswürfe ablegen zu müssen."
+actions:
+  - name: "Scheinfuß"
+    desc: "_Nahkampf-Waffenangriff:_ +4 zum Treffen, Reichweite 1,5 m, ein Ziel. _Treffer:_ 9 (2W6 + 2) Wuchtschaden plus 3 (1W6) Säureschaden."
+reactions:
+  - name: Teilen
+    desc: "Wenn eine Gallerte, die mittelgroß oder größer ist, Blitz- oder Hiebschaden erleidet, teilt sie sich in zwei neue Gallerten auf, wenn sie mindestens 10 Trefferpunkte besitzt. Jede neue Gallerte hat Trefferpunkte gleich der Hälfte der ursprünglichen Gallerte, abgerundet. Neue Gallerten sind eine Größenkategorie kleiner als die ursprüngliche Gallerte."
 ```
 ^statblock
-
-## Environment
-
-underdark

@@ -3,7 +3,7 @@ cssclasses: dnd5e-compendium
 tags:
   - Quelle/5e/dmg
   - Gegenstand/Rüstung/Schwer
-  - Gegenstand/Einstimmung/erforderlich
+  - Gegenstand/Einstimmung
   - Gegenstand/Seltenheit/legendär
 aliases:
   - Plate Armor of Etherealness

@@ -1,14 +1,24 @@
 ---
-cssclasses:
-  - json5e-monster
+cssclasses: dnd5e-only-statblock
+prefer-view: edit-source read
+Bezeichnung:
+Typ: Untoter
+Größe: Mittelgroß
+HG: 1
+Habitat:
+  - Stadt
+  - Sumpf
+  - Unterreich
+status: WIP
+image:
 tags:
   - Quelle/5e/mm
+  - Monster/Typ/Untote
+  - Monster/Größe/Mittelgroß
   - Monster/HG/1
+  - Monster/Habitat/Stadt
   - Monster/Habitat/Sumpf
   - Monster/Habitat/Unterreich
-  - Monster/Habitat/Stadt
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Untote
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
@@ -32,42 +42,34 @@ Ghouls trace their origins to the Abyss. Doresain, the first of their kind, was 
 Orcus sometimes infuses a ghoul with a stronger dose of abyssal energy, making a ghast. Whereas ghouls are little more than savage beasts, a ghast is cunning and can inspire a pack of ghouls to follow its commands.
 
 ```statblock
-"name": "Ghoul"
-"size": "Medium"
-"type": "undead"
-"alignment": "Chaotic Evil"
-"ac": !!int "12"
-"hp": !!int "22"
-"hit_dice": "5d8"
-"modifier": !!int "2"
-"stats":
+name: Ghul
+image: token/ghoul.webp
+source: Monsterhandbuch 2014
+size: Mittelgroß
+type: Untoter
+alignment: chaotisch böse
+ac: !!int "12"
+hp: !!int "22"
+hit_dice: "5d8"
+modifier: !!int "2"
+stats:
   - !!int "13"
   - !!int "15"
   - !!int "10"
   - !!int "7"
   - !!int "10"
   - !!int "6"
-"speed": "30 ft."
-"damage_immunities": "poison"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 10"
-"languages": "Common"
-"cr": "1"
-"actions":
-  - "desc": "*Melee Weapon Attack:* +2 to hit, reach 5 ft., one creature. *Hit:* 9\
-      \ (2d6 + 2) piercing damage."
-    "name": "Bite"
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (2d4\
-      \ + 2) slashing damage. If the target is a creature other than an elf or undead,\
-      \ it must succeed on a DC 10 Constitution saving throw or be [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed)\
-      \ for 1 minute. The target can repeat the saving throw at the end of each of\
-      \ its turns, ending the effect on itself on a success."
-    "name": "Claws"
-"source":
-  - "MM"
-"image": "/3-Mechanics/CLI/bestiary/undead/token/ghoul.webp"
+spee": "9 Meter"
+damage_immunities: "Gift"
+condition_immunities: "Bezaubert, Erschöpft, Vergiftet"
+senses: "Dunkelsicht 18 Meter, passive Wahrnehmung 10"
+languages: "Gemeinsprache"
+cr: "1"
+actions:
+  - name: Biss
+    desc: "Nahkampfwaffenangriff: +2 auf Treffer, Reichweite 1,5 m, eine Kreatur. Treffer: 9 (`2W6+2`) Stichschaden."
+  - name: Klauen
+    desc: "Nahkampfwaffenangriff: +4 auf Treffer, Reichweite 1,5 m, ein Ziel. Treffer: 7 (`2W4+2`) Hiebschaden. Falls das Ziel eine Kreatur ist, aber kein Elf oder Untoter, muss es einen Konstitutions-Rettungswurf (SG 10) bestehen, um nicht eine Minute lang gelähmt zu werden. Das Ziel kann den Rettungswurf am Ende jedes seiner Züge wiederholen und den Effekt bei einem Erfolg beenden."
 ```
 ^statblock
 

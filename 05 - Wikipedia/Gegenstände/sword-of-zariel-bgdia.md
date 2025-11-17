@@ -9,6 +9,7 @@ tags:
   - Gegenstand/item/weapon/melee
 aliases:
   - Sword of Zariel
+  - Schwert von Zariel
 ---
 # Sword of Zariel
 *Weapon ([longsword](/3-Mechanics/CLI/items/longsword-xphb.md)), artifact (requires attunement by a creature the sword deems worthy)*  

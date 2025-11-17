@@ -1,6 +1,9 @@
 ---
-tags: [Klasse/Magier/Verwandlung, Quelle/5e/phb, Quelle/5e/SRD]
-aliases: [School of Transmutation]
+tags:
+  - Klasse/Magier/Verwandlung
+  - Quelle/5e/phb
+aliases:
+  - School of Transmutation
 ---
 Schule der Verwandlung
 ======================

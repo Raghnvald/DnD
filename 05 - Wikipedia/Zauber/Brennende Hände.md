@@ -17,9 +17,8 @@ aliases:
 status: completed
 ---
 # Brennende Hände
-![](../../../99%20-%20Setup/Files/Bildersammlung/Symbolik/Hervorrufungszauber.webp#token)
-*Hervorrufungszauber des 1. Zaubergrades*
-*Klassen:* [Magier](../Charakteroptionen/Klassen/Magier.md), [Zauberer](../Charakteroptionen/Klassen/Zauberer.md)
+*Hervorrufung des 1. Grades*
+*Klassen:* Magier, Zauberer
 
 - **Zeitaufwand:** 1 Aktion
 - **Reichweite / Fläche:** Selbst (4,5 Meter Kegel)

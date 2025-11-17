@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-monster
 tags:
   - Quelle/5e/cos
   - Monster/HG/0
@@ -11,7 +9,7 @@ statblock-link: "#^statblock"
 aliases:
   - Arabelle
 ---
-# [Arabelle](3-Mechanics\CLI\bestiary\npc/arabelle-cos.md)
+# Arabelle
 *Source: Curse of Strahd p. 38*  
 
 ```statblock
@@ -37,6 +35,6 @@ aliases:
 "cr": "0"
 "source":
   - "CoS"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/arabelle-cos.webp"
+"image": "arabelle-cos.webp"
 ```
 ^statblock

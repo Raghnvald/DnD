@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-monster
 tags:
   - Quelle/5e/vrgr
   - Monster/HG/5
@@ -11,7 +9,7 @@ statblock-link: "#^statblock"
 aliases:
   - Isolde
 ---
-# [Isolde](3-Mechanics\CLI\bestiary\npc/isolde-vrgr.md)
+# Isolde
 *Source: Van Richten's Guide to Ravenloft p. 86*  
 
 Isolde was a holy warrior devoted to a pantheon of elven deities called the Seldarine. In this role, she defended the Feywild against dragons, demons, and other threats. In time, her heroics caught the eye of an archfey named Zybilna, who had forged secret pacts with some of the fiends Isolde and her companions had slain. Rather than be angry at Isolde, Zybilna was impressed by her. She enlisted a powerful fiend known only as "the Caller" to corrupt and slay all of Isolde's companions, leaving Isolde alone, bitter, and vulnerable. The insidious archfey then befriended Isolde and offered to help her forget her terrible losses. Isolde became the master of a traveling fey carnival that served as a gateway to Zybilna's domain. The carnival did what Zybilna hoped it would do: it brought comfort to Isolde and quelled her thirst for vengeance.
@@ -98,6 +96,6 @@ Zybilna was intrigued enough by the shadar-kai to let Isolde go, but not without
     "name": "Fiendish Charm"
 "source":
   - "VRGR"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/isolde-vrgr.webp"
+"image": "isolde-vrgr.webp"
 ```
 ^statblock

@@ -20,35 +20,35 @@ $\quad$ Die Illusion dauert an, bis die Karte bewegt oder die Illusion vertriebe
 | 1d33  | Spielkarte  | Illusion                                                                         |
 | ----- | ----------- | -------------------------------------------------------------------------------- |
 | 1     | Herz Ass    | [Roter Drache](Ausgewachsener%20Roter%20Drache.md)                                      |
-| 2     | Herz König  | [Ritter](D&D/05%20-%20Wikipedia/Bestiarium/Q-R/Ritter.md) und vier [Wachen](D&D/05%20-%20Wikipedia/Bestiarium/W-X/Wache.md)              |
-| 3     | Herz Dame   | [Sukkubus](Sukkubus.md) oder [Inkubus](Inkubus.md)               |
+| 2     | Herz König  | [Ritter](D&D/05%20-%20Wikipedia/Bestiarium/Q-R/Ritter.md) und vier [Wachen](Wache-old.md)              |
+| 3     | Herz Dame   | [Sukkubus](Sukkubus.md) oder [Inkubus](D&D/05%20-%20Wikipedia/Bestiarium/I-J/Inkubus.md)               |
 | 4     | Herz Bube   | [Druiden](Druiden.md)                                                    |
-| 5     | Herz Zehn   | [Wolkenriesen](Wolkenriese.md)                                            |
+| 5     | Herz Zehn   | [Wolkenriesen](D&D/05%20-%20Wikipedia/Bestiarium/W-X/Wolkenriese.md)                                            |
 | 6     | Herz Neun   | [Ettin](D&D/05%20-%20Wikipedia/Bestiarium/E-F/Ettin.md)                                                         |
 | 7     | Herz Acht   | [Grottenschrat](Humanoide/Grottenschrat.md)                                      |
 | 8     | Herz Zwei   | [Goblin (Legacy)](Goblin%20(Legacy).md)                                                    |
 | 9     | Karo Ass    | [Betrachter (Legacy)](Betrachter%20(Legacy).md)                                         |
-| 10    | Karo König  | [Erzmagier](Erzmagier.md) und [Magielehrling](Magus.md)      |
-| 11    | Karo Dame   | [Nachtvettel](Nachtvettel.md)                                            |
+| 10    | Karo König  | [Erzmagier](D&D/05%20-%20Wikipedia/Bestiarium/E-F/Erzmagier.md) und [Magielehrling](Magus.md)      |
+| 11    | Karo Dame   | [Nachtvettel](D&D/05%20-%20Wikipedia/Bestiarium/M-N/Nachtvettel.md)                                            |
 | 12    | Karo Bube   | [Assassine](D&D/05%20-%20Wikipedia/Bestiarium/A-B/Assassine.md)                                              |
-| 13    | Karo Zehn   | [Feuerriese](Feuerriese.md)                                               |
-| 14    | Karo Neun   | [Ogermagier](Oger.md)                                                     |
+| 13    | Karo Zehn   | [Feuerriese](D&D/05%20-%20Wikipedia/Bestiarium/E-F/Feuerriese.md)                                               |
+| 14    | Karo Neun   | [Ogermagier](D&D/05%20-%20Wikipedia/Bestiarium/O-P/Oger.md)                                                     |
 | 15    | Karo Acht   | [Gnoll](Humanoide/Gnoll.md)                                                      |
 | 16    | Karo Zwei   | [Kobold](Humanoide/Kobold.md)                                                    |
 | 17    | Pik Ass     | [Lich-old](Lich-old.md)                                                           |
 | 18    | Pik König   | [Priester](Priester.md) und zwei [Gefolgsleute](Humanoide/acolyte.md)  |
 | 19    | Pik Dame    | [Medusa](D&D/05%20-%20Wikipedia/Bestiarium/M-N/Medusa.md)                                               |
 | 20    | Pik Bube    | [Veteran](D&D/05%20-%20Wikipedia/Bestiarium/U-V/Veteran.md)                                                  |
-| 21    | Pik Zehn    | [Frostriese](Frostriese.md)                                              |
+| 21    | Pik Zehn    | [Frostriese](D&D/05%20-%20Wikipedia/Bestiarium/E-F/Frostriese.md)                                              |
 | 22    | Pik Neun    | [Troll](D&D/05%20-%20Wikipedia/Bestiarium/S-T/Troll.md)                                                         |
 | 23    | Pik Acht    | [Hobgoblin](Humanoide/Hobgoblin.md)                                              |
 | 24    | Pik Zwei    | [Goblin (Legacy)](Goblin%20(Legacy).md)                                                    |
 | 25    | Kreuz Ass   | [Eisengolem](D&D/05%20-%20Wikipedia/Bestiarium/E-F/Eisengolem.md)                                           |
-| 26    | Kreuz König | [Banditenhauptmann](Banditenhauptmann.md) und drei [Banditen](D&D/05%20-%20Wikipedia/Bestiarium/A-B/Bandit.md) |
-| 27    | Kreuz Dame  | [Erinnyen](Erinnyen.md)                                                            |
+| 26    | Kreuz König | [Banditenhauptmann](D&D/05%20-%20Wikipedia/Bestiarium/A-B/Banditenhauptmann.md) und drei [Banditen](D&D/05%20-%20Wikipedia/Bestiarium/A-B/Bandit.md) |
+| 27    | Kreuz Dame  | [Erinnyen](D&D/05%20-%20Wikipedia/Bestiarium/E-F/Erinnyen.md)                                                            |
 | 28    | Kreuz Bube  | [Berserker](D&D/05%20-%20Wikipedia/Bestiarium/A-B/Berserker.md)                                              |
-| 29    | Kreuz Zehn  | [Hügelriese](Hügelriese.md)                                               |
-| 30    | Kreuz Neun  | [Oger](Oger.md)                                                |
+| 29    | Kreuz Zehn  | [Hügelriese](D&D/05%20-%20Wikipedia/Bestiarium/G-H/Hügelriese.md)                                               |
+| 30    | Kreuz Neun  | [Oger](D&D/05%20-%20Wikipedia/Bestiarium/O-P/Oger.md)                                                |
 | 31    | Kreuz Acht  | [Ork](Ork.md)                                                          |
 | 32    | Kreuz Zwei  | [Kobold](Humanoide/Kobold.md)                                                    |
 | 33-34 | Joker (2)   | Du selbst (Besitzer des Decks)                                                   |

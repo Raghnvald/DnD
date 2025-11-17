@@ -15,12 +15,8 @@ aliases:
 _Wundersamer Gegenstand, ungewöhnlich_
 <img src="alchemy-jug.webp" align="right" width="150">
 
-_Klassen:_ n/v
-_Unterklassen:_ n/v
-
 *Quellen: Spielleiterhandbuch S. 150*
 
-- **Eigenschaften**: n/v
 - **Gewicht**: 6,0 kg.
 - **Kosten**: n/v
 

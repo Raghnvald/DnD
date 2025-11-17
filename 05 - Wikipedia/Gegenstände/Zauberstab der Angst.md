@@ -6,12 +6,12 @@ Gew.: 0,5 kg
 Kst.: 4.000 GM
 image: wand-of-fear.webp
 tags:
-- Quelle/5e/dmg
-- Gegenstand/wundersam/Zauberstab
-- Gegenstand/Seltenheit/selten
-- Gegenstand/Einstimmung/erforderlich
+  - Quelle/5e/dmg
+  - Gegenstand/wundersam/Zauberstab
+  - Gegenstand/Seltenheit/selten
+  - Gegenstand/Einstimmung
 aliases:
-- Wand of Fear
+  - Wand of Fear
 ---
 # Zauberstab der Angst
 _Zauberstab, sehr selten (erfordert Einstimmung )_

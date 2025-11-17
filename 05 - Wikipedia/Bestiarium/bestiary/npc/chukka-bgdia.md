@@ -11,7 +11,7 @@ statblock-link: "#^statblock"
 aliases:
   - Chukka
 ---
-# [Chukka](3-Mechanics\CLI\bestiary\npc/chukka-bgdia.md)
+# Chukka
 *Source: Baldur's Gate: Descent Into Avernus p. 83*  
 
 ```statblock
@@ -57,6 +57,6 @@ aliases:
     "name": "Silvered Pike"
 "source":
   - "BGDIA"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/chukka-bgdia.webp"
+"image": "chukka-bgdia.webp"
 ```
 ^statblock

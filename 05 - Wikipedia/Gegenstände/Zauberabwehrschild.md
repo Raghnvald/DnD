@@ -9,12 +9,12 @@ Eigenschaften: erfordert Einstimmung
 Gew.: 3,0 kg
 Kst.: n/v
 tags:
-- Quelle/5e/dmg
-- Gegenstand/Rüstung/Schild
-- Gegenstand/Einstimmung/erforderlich
-- Gegenstand/Seltenheit/sehr_selten
-aliases: 
-- Spellguard Shield
+  - Quelle/5e/dmg
+  - Gegenstand/Rüstung/Schild
+  - Gegenstand/Einstimmung
+  - Gegenstand/Seltenheit/sehr_selten
+aliases:
+  - Spellguard Shield
 ---
 # Zauberabwehrschild
 *Rüstung (Schild), sehr selten (erfordert Einstimmung)*  

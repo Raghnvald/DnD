@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-monster
 tags:
   - Quelle/5e/bgdia
   - Monster/HG/14
@@ -11,7 +9,7 @@ statblock-link: "#^statblock"
 aliases:
   - Crokek'toeck
 ---
-# [Crokek'toeck](3-Mechanics\CLI\bestiary\npc/crokektoeck-bgdia.md)
+# Crokek'toeck
 *Source: Baldur's Gate: Descent Into Avernus p. 231*  
 
 Crokek'toeck is Yeenoghu's demonic pet. Resembling a giant mudskipper with the teeth, fur, ears, and laugh of a hyena, this unique demon can hold smaller demons in its gullet and disgorge them anywhere Yeenoghu wishes. Immune to the mind-shattering effects of the River Styx, Crokek'toeck is often used to transport smaller demons (and sometimes Yeenoghu himself) through the Styx's terrible waters.
@@ -74,6 +72,6 @@ Crokek'toeck is Yeenoghu's demonic pet. Resembling a giant mudskipper with the t
     "name": "Disgorge Allies (Recharge 6)"
 "source":
   - "BGDIA"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/crokektoeck-bgdia.webp"
+"image": "crokektoeck-bgdia.webp"
 ```
 ^statblock

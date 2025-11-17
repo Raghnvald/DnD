@@ -6,12 +6,12 @@ Gew.: 0,5 kg
 Kst.: 4.000 GM
 image: wand-of-lightning-bolts.webp
 tags:
-- Quelle/5e/dmg
-- Gegenstand/wundersam/Zauberstab
-- Gegenstand/Seltenheit/selten
-- Gegenstand/Einstimmung/erforderlich
+  - Quelle/5e/dmg
+  - Gegenstand/wundersam/Zauberstab
+  - Gegenstand/Seltenheit/selten
+  - Gegenstand/Einstimmung
 aliases:
-- Wand of Lightning Bolts
+  - Wand of Lightning Bolts
 ---
 # Zauberstab der Blitzschläge
 _Zauberstab, selten (erfordert Einstimmung durch einen Zauberwirker)_

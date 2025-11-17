@@ -17,7 +17,7 @@ Habitat:
   - /
 status: WIP
 ---
-# [Doru](3-Mechanics\CLI\bestiary\npc/doru-cos.md)
+# Doru
 *Source: Curse of Strahd p. 47*  
 
 ```statblock
@@ -88,6 +88,6 @@ status: WIP
     "name": "Claws"
 "source":
   - "CoS"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/doru-cos.webp"
+"image": "doru-cos.webp"
 ```
 ^statblock

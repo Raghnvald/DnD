@@ -1,7 +1,4 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
 tags:
 - Quelle/5e/ggr
 - Monster/HG/17
@@ -12,7 +9,7 @@ statblock-link: "#^statblock"
 aliases:
 - Lazav
 ---
-# [Lazav](3-Mechanics\CLI\bestiary\npc/lazav-ggr.md)
+# Lazav
 *Source: Guildmasters' Guide to Ravnica p. 232*  
 
 Lazav is uniquely qualified to be the Dimir guildmaster: he is a shapechanger whose mysterious genius is informed by agents from the entire Dimir network. He takes on a tremendous variety of guises as his needs and plans require. He might step out into the Ravnican streets as an elderly widow to eavesdrop at the bazaar, become a vedalken hussar of the Azorius Senate to sidestep a checkpoint, or transform into a Tin Street merchant to deceive a passing noble. His true form might be that of a doppelganger or some other creature; no one has ever seen it.
@@ -99,6 +96,6 @@ Lazav is uniquely qualified to be the Dimir guildmaster: he is a shapechanger wh
     "name": "Shifting Nightmare (Costs 3 Actions)"
 "source":
   - "GGR"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/lazav-ggr.webp"
+"image": "lazav-ggr.webp"
 ```
 ^statblock

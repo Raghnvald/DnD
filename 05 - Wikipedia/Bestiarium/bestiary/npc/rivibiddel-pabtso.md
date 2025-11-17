@@ -1,17 +1,15 @@
 ---
-cssclasses:
-  - json5e-monster
 tags:
   - Quelle/5e/pabtso
   - Monster/HG/1-2
   - Monster/Größe/Klein
-  - Monster/Typ/Humanoid/gnome
+  - Monster/Typ/Humanoid/Gnom
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
   - Rivibiddel
 ---
-# [Rivibiddel](3-Mechanics\CLI\bestiary\npc/rivibiddel-pabtso.md)
+# Rivibiddel
 *Source: Phandelver and Below: The Shattered Obelisk p. 122*  
 
 ```statblock
@@ -69,6 +67,6 @@ aliases:
     "name": "Poisoned Dart"
 "source":
   - "PaBTSO"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/rivibiddel-pabtso.webp"
+"image": "rivibiddel-pabtso.webp"
 ```
 ^statblock

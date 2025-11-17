@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-monster
 tags:
   - Quelle/5e/mpmm
   - Monster/HG/23
@@ -153,6 +151,6 @@ Baphomet's lair is his palace, the Lyktion, which is on the layer of the Abyss c
     "name": "Charge (Costs 2 Actions)"
 "source":
   - "MPMM"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/baphomet-mpmm.webp"
+"image": "baphomet-mpmm.webp"
 ```
 ^statblock

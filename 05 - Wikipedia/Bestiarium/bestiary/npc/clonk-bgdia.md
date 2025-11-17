@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-monster
 tags:
   - Quelle/5e/bgdia
   - Monster/HG/1-4
@@ -11,7 +9,7 @@ statblock-link: "#^statblock"
 aliases:
   - Clonk
 ---
-# [Clonk](3-Mechanics\CLI\bestiary\npc/clonk-bgdia.md)
+# Clonk
 *Source: Baldur's Gate: Descent Into Avernus p. 83*  
 
 ```statblock
@@ -58,6 +56,6 @@ aliases:
     "name": "Hellfire Warhammer"
 "source":
   - "BGDIA"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/clonk-bgdia.webp"
+"image": "clonk-bgdia.webp"
 ```
 ^statblock

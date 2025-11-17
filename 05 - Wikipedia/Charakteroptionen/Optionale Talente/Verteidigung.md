@@ -1,11 +1,11 @@
 ---
 tags:
-- Quelle/5e/phb
-- Kompendium/Optionales/fs-f
-- Kompendium/Optionales/fs-p
-- Kompendium/Optionales/fs-r
+  - Quelle/5e/phb
+  - Kompendium/Optionales/fs-f
+  - Kompendium/Optionales/fs-p
+  - Kompendium/Optionales/fs-r
 aliases:
-- Defense
+  - Defense
 ---
 # Verteidigung
 *Source: Player's Handbook. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  

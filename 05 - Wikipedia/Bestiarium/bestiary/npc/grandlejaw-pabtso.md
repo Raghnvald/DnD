@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-monster
 tags:
   - Quelle/5e/pabtso
   - Monster/HG/8
@@ -11,7 +9,7 @@ statblock-link: "#^statblock"
 aliases:
   - Grandlejaw
 ---
-# [Grandlejaw](3-Mechanics\CLI\bestiary\npc/grandlejaw-pabtso.md)
+# Grandlejaw
 *Source: Phandelver and Below: The Shattered Obelisk p. 121*  
 
 ```statblock
@@ -66,6 +64,6 @@ aliases:
     "name": "Bite"
 "source":
   - "PaBTSO"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/grandlejaw-pabtso.webp"
+"image": "grandlejaw-pabtso.webp"
 ```
 ^statblock

@@ -5,10 +5,10 @@ cssclasses:
 ---
 # Index of Plant
 
-- [Awakened Shrub](awakened-shrub-xmm.md)
-- [Awakened Tree](awakened-tree-xmm.md)
+- [Awakened Shrub](Erwachter%20Busch-xmm.md)
+- [Awakened Tree](Erwachter%20Baum-xmm.md)
 - [Bodytaker Plant](bodytaker-plant-vrgr.md)
-- [Corpse Flower](corpse-flower-mpmm.md)
+- [Corpse Flower](Leichenblume-mpmm.md)
 - [Gas Spore Fungus](gas-spore-fungus-xmm.md)
 - [Gulthias Blight](gulthias-blight-xmm.md)
 - [Myconid Adult](myconid-adult-xmm.md)
@@ -19,11 +19,11 @@ cssclasses:
 - [Podling](podling-vrgr.md)
 - [Psionic Shambling Mound](psionic-shambling-mound-pabtso.md)
 - [Shambling Mound](shambling-mound-xmm.md)
-- [Shrieker Fungus](shrieker-fungus-xmm.md)
+- [Shrieker Fungus](Kreischer-fungus-xmm.md)
 - [Thorny Vegepygmy](thorny-vegepygmy-mpmm.md)
-- [Treant](treant-xmm.md)
+- [Treant](Baumhirte-xmm.md)
 - [Tree Blight](tree-blight-xmm.md)
-- [Twig Blight](twig-blight-xmm.md)
+- [Twig Blight](Zweigplage-xmm.md)
 - [Vegepygmy Chief](vegepygmy-chief-mpmm.md)
 - [Vegepygmy](vegepygmy-mpmm.md)
 - [Vine Blight](vine-blight-xmm.md)

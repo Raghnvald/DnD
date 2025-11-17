@@ -31,7 +31,7 @@ _Quellen:_ Xanathars Ratgeber für Alles
 - **Angriff / Rettung:** n/v
 - **Schaden / Effekt:**  Beschwörung
 
-Du sprichst schändliche Worte aus, um einen Dämon aus dem Chaos des Abyss zu beschwören. Du wählst die Art des Dämons aus, welcher einen HG von 5 oder geringer haben muss, wie zum Beispiel ein [[Schattendämon]] oder ein [[D&D/05 - Wikipedia/Bestiarium/A-B/Barlgura]]. Der Dämon erscheint an einem unbesetzten Platz, den du innerhalb der Reichweite sehen kannst. Der Dämon verschwindet, wenn seine Trefferpunkte auf O reduziert werden oder wenn der Zauber endet.
+Du sprichst schändliche Worte aus, um einen Dämon aus dem Chaos des Abyss zu beschwören. Du wählst die Art des Dämons aus, welcher einen HG von 5 oder geringer haben muss, wie zum Beispiel ein [[D&D/05 - Wikipedia/Bestiarium/S-T/Schattendämon]] oder ein [[D&D/05 - Wikipedia/Bestiarium/A-B/Barlgura]]. Der Dämon erscheint an einem unbesetzten Platz, den du innerhalb der Reichweite sehen kannst. Der Dämon verschwindet, wenn seine Trefferpunkte auf O reduziert werden oder wenn der Zauber endet.
 
 $\quad$Würfle für den Dämon Initiative aus, da er seine eigenen Züge hat. Wenn du ihn beschwörst und in jedem deiner nachfolgenden Züge kannst du ihm einen verbalen Befehl erteilen (erfordert keine Aktion deinerseits) und ihm sagen, was er in seinem nächsten Zug tun soll. Wenn du keinen Befehl erteilst, so wird er seinen Zug damit zubringen, eine Kreatur in seiner Reichweite anzugreifen, die ihn angegriffen hat.
 

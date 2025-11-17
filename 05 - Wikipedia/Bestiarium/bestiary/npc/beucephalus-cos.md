@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-monster
 tags:
   - Quelle/5e/cos
   - Monster/HG/3
@@ -11,7 +9,7 @@ statblock-link: "#^statblock"
 aliases:
   - Beucephalus
 ---
-# [Beucephalus](3-Mechanics\CLI\bestiary\npc/beucephalus-cos.md)
+# Beucephalus
 *Source: Curse of Strahd p. 93*  
 
 ```statblock
@@ -51,6 +49,6 @@ aliases:
     "name": "Ethereal Stride"
 "source":
   - "CoS"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/beucephalus-cos.webp"
+"image": "beucephalus-cos.webp"
 ```
 ^statblock

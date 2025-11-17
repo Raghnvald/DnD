@@ -3,7 +3,7 @@ cssclasses: json5e-item
 tags:
   - Quelle/5e/phb
   - Gegenstand/Ausrüstung
-  - Gegenstand/Seltenheit/gewöhnlich
+  - Gegenstand/Seltenheit/keine
 aliases:
   - Ball Bearing
 ---

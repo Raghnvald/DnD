@@ -3,7 +3,7 @@ cssclasses: json5e-item
 tags:
   - Quelle/5e/dmg
   - Gegenstand/wundersam
-  - Gegenstand/Einstimmung/erforderlich
+  - Gegenstand/Einstimmung
   - Gegenstand/Seltenheit/ungewöhnlich
 aliases:
   - Hat of Disguise

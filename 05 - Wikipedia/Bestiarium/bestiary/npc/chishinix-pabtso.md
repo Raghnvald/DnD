@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-monster
 tags:
   - Quelle/5e/pabtso
   - Monster/HG/11
@@ -17,7 +15,7 @@ Größe: Mittelgroß
 HG: 11
 status: WIP
 ---
-# [Chishinix](3-Mechanics\CLI\bestiary\npc/chishinix-pabtso.md)
+# Chishinix
 *Source: Phandelver and Below: The Shattered Obelisk p. 194*  
 
 ```statblock
@@ -108,6 +106,6 @@ status: WIP
     "name": "Warp Reality"
 "source":
   - "PaBTSO"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/chishinix-pabtso.webp"
+"image": "chishinix-pabtso.webp"
 ```
 ^statblock

@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-monster
 tags:
   - Quelle/5e/bgdia
   - Monster/HG/5
@@ -11,7 +9,7 @@ statblock-link: "#^statblock"
 aliases:
   - Lulu
 ---
-# [Lulu](3-Mechanics\CLI\bestiary\npc/lulu-bgdia.md)
+# Lulu
 *Source: Baldur's Gate: Descent Into Avernus p. 5*  
 
 ```statblock
@@ -89,6 +87,6 @@ aliases:
     "name": "Trumpet of Sparkles"
 "source":
   - "BGDIA"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/lulu-bgdia.webp"
+"image": "lulu-bgdia.webp"
 ```
 ^statblock

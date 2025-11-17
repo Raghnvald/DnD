@@ -1,7 +1,4 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
 tags:
 - Quelle/5e/ggr
 - Monster/HG/21
@@ -12,7 +9,7 @@ statblock-link: "#^statblock"
 aliases:
 - Isperia
 ---
-# [Isperia](3-Mechanics\CLI\bestiary\npc/isperia-ggr.md)
+# Isperia
 *Source: Guildmasters' Guide to Ravnica p. 227*  
 
 Isperia is the current guildmaster of the Azorius Senate. As a sphinx, she is aloof and values solitude above all. However, she has been forced to give up her privacy to deal with the increased crime and chaos on Ravnica.
@@ -114,6 +111,6 @@ If an encounter turns violent, Isperia refrains from using lethal force if possi
     "name": "Supreme Legal Authority (Costs 3 Actions)"
 "source":
   - "GGR"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/isperia-ggr.webp"
+"image": "isperia-ggr.webp"
 ```
 ^statblock

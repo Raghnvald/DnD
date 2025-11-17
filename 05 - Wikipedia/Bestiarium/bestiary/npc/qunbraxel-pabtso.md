@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-monster
 tags:
   - Quelle/5e/pabtso
   - Monster/HG/9
@@ -12,7 +10,7 @@ statblock-link: "#^statblock"
 aliases:
   - Qunbraxel
 ---
-# [Qunbraxel](3-Mechanics\CLI\bestiary\npc/qunbraxel-pabtso.md)
+# Qunbraxel
 *Source: Phandelver and Below: The Shattered Obelisk p. 135*  
 
 Qunbraxel is an arrogant mind flayer warlock. Qunbraxel is always attended by four loyal grimlocks. They swap this duty with other grimlocks nearby, although Qunbraxel can hardly be bothered to tell one grimlock minion from another.
@@ -99,6 +97,6 @@ Cut off from any elder brain Qunbraxel considers worthy, the mind flayer hopes t
     "name": "Spellcasting (Psionics)"
 "source":
   - "PaBTSO"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/qunbraxel-pabtso.webp"
+"image": "qunbraxel-pabtso.webp"
 ```
 ^statblock

@@ -1,6 +1,9 @@
 ---
-tags: [Klasse/Hexenmeister/Erzfee, Quelle/5e/phb, Quelle/5e/SRD]
-aliases: [The Arch Fey]
+tags:
+  - Klasse/Hexenmeister/Erzfee
+  - Quelle/5e/phb
+aliases:
+  - The Arch Fey
 ---
 Die Erzfee
 ==========

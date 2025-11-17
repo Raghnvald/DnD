@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-monster
 tags:
   - Quelle/5e/cos
   - Monster/HG/5
@@ -11,7 +9,7 @@ statblock-link: "#^statblock"
 aliases:
   - Izek Strazni
 ---
-# [Izek Strazni](3-Mechanics\CLI\bestiary\npc/izek-strazni-cos.md)
+# Izek Strazni
 *Source: Curse of Strahd p. 232*  
 
 Izek and his sister were born in Vallaki. One morning, their father and their uncle took them fishing on Lake Zarovich. On the way back to town, a dire wolf attacked Izek and bit off his right arm. His father carried Izek back to town while his uncle distracted the beast. His sister ran and hid in the woods and was never seen again.
@@ -93,6 +91,6 @@ Izek has dreams of Ireena. If he spots her, he tries to take her by force to the
     "name": "Hurl Flame"
 "source":
   - "CoS"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/izek-strazni-cos.webp"
+"image": "izek-strazni-cos.webp"
 ```
 ^statblock

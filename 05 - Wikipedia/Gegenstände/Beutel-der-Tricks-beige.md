@@ -26,11 +26,11 @@ Nachdem drei flauschige Gegenstände aus dem Beutel gezogen wurden, kann der Beu
 
 | Würfel: W8 | Kreatur |
 |----------|----------|
-| 1 | [Schakal](Schakal.md) |
-| 2 | [Menschenaffe](Affe.md) |
-| 3 | [Pavian](Pavian.md) |
+| 1 | [Schakal](D&D/05%20-%20Wikipedia/Bestiarium/S-T/Schakal.md) |
+| 2 | [Menschenaffe](D&D/05%20-%20Wikipedia/Bestiarium/A-B/Affe.md) |
+| 3 | [Pavian](D&D/05%20-%20Wikipedia/Bestiarium/O-P/Pavian.md) |
 | 4 | [Axtschnabel](../Bestiarium/Bestien/axe-beak.md) |
-| 5 | [Schwarzbär](Schwarzbär.md) |
+| 5 | [Schwarzbär](D&D/05%20-%20Wikipedia/Bestiarium/S-T/Schwarzbär.md) |
 | 6 | [Riesenwiesel](Riesenwiesel.md) |
 | 7 | [Riesenhyäne](Riesenhyäne.md) |
 | 8 | [Tiger](D&D/05%20-%20Wikipedia/Bestiarium/S-T/Tiger.md) |

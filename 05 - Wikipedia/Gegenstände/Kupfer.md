@@ -7,19 +7,14 @@ Gew.: 0,5 kg
 tags:
 - Quelle/5e/phb
 - Gegenstand/Ausrüstung/Handelsgut
-- Gegenstand/Seltenheit/gewöhnlich
+- Gegenstand/Seltenheit/keine
 aliases:
 - Copper
 ---
 # Kupfer
 *Handelsware*
-<img src="Gegenstände.webp" align="right" width="150">
 
-_Klassen:_ n/v 
-_Unterklassen:_  n/v
+*Quelle: Spielerhandbuch S. 157. Verfügbar im<span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*
 
-_Quellen:_ Spielerhandbuch
-
-- **Eigenschaften**: n/v
 - **Gewicht**: 0,5 kg
 - **Kosten**: 5 Silbermünzen

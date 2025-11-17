@@ -20,6 +20,8 @@ _Unterklassen:_  n/v
 
 _Quellen:_ Spielerhandbuch
 
+*Source: Player's Handbook p. 157. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+
 - **Eigenschaften**: n/v
 - **Kosten**: 5 Kupfermünzen
 - **Gewicht:** 5,0 kg.

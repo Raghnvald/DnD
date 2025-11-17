@@ -11,7 +11,7 @@ statblock-link: "#^statblock"
 aliases:
   - Elliach
 ---
-# [Elliach](3-Mechanics\CLI\bestiary\npc/elliach-bgdia.md)
+# Elliach
 *Source: Baldur's Gate: Descent Into Avernus p. 130*  
 
 ```statblock
@@ -66,6 +66,6 @@ aliases:
     "name": "Dagger"
 "source":
   - "BGDIA"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/elliach-bgdia.webp"
+"image": "elliach-bgdia.webp"
 ```
 ^statblock

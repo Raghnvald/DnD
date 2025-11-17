@@ -1,5 +1,5 @@
 ---
-tags: [Quelle/5e/Basic_Rules]
+tags: []
 ---
 Magie durchdringt Fantasy-Spielwelten. Meistens tritt sie in Form von Zaubern auf. Dieser Abschnitt enthält die Regeln zum Zauberwirken. Verschiedene Charakterklassen haben unterschiedliche Arten, ihre Zauber zu lernen und vorzubereiten. Monster nutzen Magie auf einzigartige Weise. Unabhängig von ihrer Quelle folgen Zauber den hier aufgeführten Regeln.
 

@@ -4,7 +4,7 @@ tags:
   - Quelle/5e/dmg
   - Gegenstand/Rüstung/Schild
   - Gegenstand/Seltenheit/sehr_selten
-  - Gegenstand/Einstimmung/erforderlich
+  - Gegenstand/Einstimmung
 aliases:
   - Animated Shield
 Bezeichnung: Belebter Schild
@@ -21,13 +21,9 @@ Kst.: 6.000 GM
 *Rüstung (Schild), sehr selten (erfordert Einstimmung)*  
 <img src="animated-shield.webp" align="right" width="150">
 
-_Klassen:_ n/v 
-_Unterklassen:_  n/v
-
 *Quellen: Spielleiterhandbuch S. 151. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 - **Rüstungsklasse**: 2
-- **Eigenschaften:** erfordert Einstimmung
 - **Kosten:** 6.000 Goldmünzen
 - **Gewicht:** 3,0 kg
 

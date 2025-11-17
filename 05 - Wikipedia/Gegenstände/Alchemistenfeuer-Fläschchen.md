@@ -12,15 +12,10 @@ aliases:
 - Alchemist's Fire (flask)
 ---
 # Alchemistenfeuer (Flasche)
-*Abenteuerausrüstung, gewöhnlich* 
-<img src="Symbolik/Gegenstände.webp" align="right" width="150">
-
-_Klassen:_ n/v 
-_Unterklassen:_  n/v
+*Abenteuerausrüstung* 
 
 *Quellen: Spielerhandbuch S. 148. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
-- **Eigenschaften**: n/v
 - **Gewicht**: 0,5 kg.
 - **Kosten**: 50 Goldmünzen
 

@@ -14,7 +14,6 @@ aliases:
 ---
 # Assassinenblut
 *Abenteuerausrüstung, Gift (Einnahme)*  
-<img src="Symbolik/Gegenstände.webp" align="right" width="150">
 
 *Source: Dungeon Master's Guide p. 258. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 

@@ -1,6 +1,9 @@
 ---
-tags: [Klasse/Magier/Hervorrufungsmagie, Quelle/5e/phb, Quelle/5e/SRD]
-aliases: [School of Evocation]
+tags:
+  - Klasse/Magier/Hervorrufungsmagie
+  - Quelle/5e/phb
+aliases:
+  - School of Evocation
 ---
 Schule der Hervorrufungsmagie
 =============================

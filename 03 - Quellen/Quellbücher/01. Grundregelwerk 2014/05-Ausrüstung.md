@@ -1,5 +1,5 @@
 ---
-tags: [Quelle/5e/Basic_Rules]
+tags: []
 ---
 Auf dem Marktplatz einer großen Stadt wimmelt es von Käufern und Verkäufern aller Art: Zwergenschmiede und Elfenholzschnitzer, Halblingsbauern und Zwergenjuweliere, ganz zu schweigen von Menschen jeder Gestalt, Größe und Farbe aus einem Spektrum von Nationen und Kulturen. In den größten Städten wird fast alles Erdenkliche zum Verkauf angeboten, von exotischen Gewürzen und luxuriöser Kleidung bis hin zu Weidenkörben und praktischen Schwertern.
 

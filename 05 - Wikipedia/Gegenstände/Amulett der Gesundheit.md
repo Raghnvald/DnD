@@ -14,15 +14,10 @@ aliases:
 ---
 # Amulett der Gesundheit
 *Wundersamer Gegenstand, selten (erfordert Einstimmung)*  
-<img src="Amulett-der-Gesundheit.webp" align="right" width="150">
+<img src="amulet-of-health.webp" align="right" width="150">
 
-_Klassen:_ n/v
-_Unterklassen:_  n/v
-
-_Quellen:_ Spielleiterhandbuch
 *Source: Dungeon Master's Guide p. 150. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
-- **Eigenschaften**: Erfordert Einstimmung
 - **Kosten**: 8.000 Goldmünzen
 - **Gewicht**: 0.5 kg.
 

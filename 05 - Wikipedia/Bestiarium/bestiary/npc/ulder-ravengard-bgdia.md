@@ -10,6 +10,7 @@ statblock: inline
 statblock-link: "#^statblock"
 aliases:
   - Ulder Ravengard
+  - Ulder Rabenwacht
 ---
 # [Ulder Ravengard](3-Mechanics\CLI\bestiary\npc/ulder-ravengard-bgdia.md)
 *Source: Baldur's Gate: Descent Into Avernus p. 70*  

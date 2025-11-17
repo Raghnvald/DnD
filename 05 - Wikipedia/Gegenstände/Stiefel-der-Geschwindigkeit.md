@@ -4,7 +4,7 @@ tags:
   - Quelle/5e/dmg
   - Gegenstand/wundersam
   - Gegenstand/Seltenheit/selten
-  - Gegenstand/Einstimmung/erforderlich
+  - Gegenstand/Einstimmung
 aliases:
   - Boots of Speed
 ---

@@ -1,6 +1,9 @@
 ---
-tags: [Klasse/Hexenmeister/Abgründig, Quelle/5e/phb, Quelle/5e/SRD]
-aliases: [The Fathomless]
+tags:
+  - Klasse/Hexenmeister/Abgründig
+  - Quelle/5e/phb
+aliases:
+  - The Fathomless
 ---
 Der Abgründige
 ==============

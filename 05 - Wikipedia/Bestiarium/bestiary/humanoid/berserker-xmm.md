@@ -63,3 +63,44 @@ Gripped by the adrenaline of battle, berserkers are reckless invaders, pit fight
 ## Environment
 
 any
+
+Berserker können für persönlichen Ruhm kämpfen oder motivierte Truppen oder brüllende Horden bilden.
+
+```statblock
+name: Berserker (2024)
+source: Monsterhandbuch 2024
+size: Mittelgroß oder Klein
+type: Humanoid
+alignment: Neutral
+ac: 13
+hp: 67
+hit_dice: 9d8 + 27
+ini: +1 (11)
+speed: 9 Meter.
+stats: [16, 12, 17, 9, 11, 9]
+saves:
+  - STR: +3
+  - GES: +1
+  - KON: +3
+  - INT: -1
+  - WEI: +0
+  - CHA: -1
+damage_vulnerabilities: ""
+damage_resistances: ""
+damage_immunities: ""
+condition_immunities: ""
+gear: [Fellrüstung](Fellrüstung.md), [Zweihandaxt](Zweihandaxt.md) 
+senses: passive Wahrnehmung 10
+languages: Gemeinsprache
+cr: 2
+bestiary: true
+traits:
+  - name: Blutrausch
+    desc: "Während er den Zustand Blutet hat, ist der Berserker bei Angriffs- und Rettungswürfen im Vorteil."
+actions:
+  - name: Zweihandaxt
+    desc: "_Nahkampfangriff_: +5, Reichweite 1,5m. _Treffer_: 9 (1d12 + 3) Hiebschaden."
+    attack_bonus: 5
+    damage_dice: 1d12
+    damage_bonus: 3
+```

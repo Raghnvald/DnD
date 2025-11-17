@@ -6,12 +6,12 @@ Gew.: 0,5 kg
 Kst.: 4.000 GM
 image: wand-of-enemy-detection.webp
 tags:
-- Quelle/5e/dmg
-- Gegenstand/wundersam/Zauberstab
-- Gegenstand/Seltenheit/selten
-- Gegenstand/Einstimmung/erforderlich
+  - Quelle/5e/dmg
+  - Gegenstand/wundersam/Zauberstab
+  - Gegenstand/Seltenheit/selten
+  - Gegenstand/Einstimmung
 aliases:
-- Wand of Enemy Detection
+  - Wand of Enemy Detection
 ---
 # Zauberstab der Feindeslokalisierung
 _Zauberstab, selten (erfordert Einstimmung)_

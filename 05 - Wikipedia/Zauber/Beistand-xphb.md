@@ -1,6 +1,12 @@
 ---
-cssclasses:
-  - json5e-spell
+Bezeichnung: 
+Zeitaufwand: 
+Reichweite: 
+Komponenten: 
+Wirkungsdauer: 
+Angriff: 
+Schaden: 
+status: WIP
 tags:
   - Quelle/5e/xphb
   - Zauber/class/artificer

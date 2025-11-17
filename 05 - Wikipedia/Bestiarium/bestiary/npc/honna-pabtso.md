@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-monster
 tags:
   - Quelle/5e/pabtso
   - Monster/HG/6
@@ -11,7 +9,7 @@ statblock-link: "#^statblock"
 aliases:
   - Honna
 ---
-# [Honna](3-Mechanics\CLI\bestiary\npc/honna-pabtso.md)
+# Honna
 *Source: Phandelver and Below: The Shattered Obelisk p. 110*  
 
 ```statblock
@@ -79,6 +77,6 @@ aliases:
     "name": "Longbow"
 "source":
   - "PaBTSO"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/honna-pabtso.webp"
+"image": "honna-pabtso.webp"
 ```
 ^statblock

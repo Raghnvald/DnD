@@ -232,7 +232,7 @@ From the depths of her lair, Tiamat can hear the prayers and pronouncements of f
 
 It would be madness to assault this location without an army. Abishai of all colors nest in the sulfurous caves behind the skull, and scores of [white abishai](/3-Mechanics/CLI/bestiary/fiend/white-abishai-mpmm.md) pour forth to counter any assault or invasion.
 
-The infernal war machine parked next to the tent is a [Devil's Ride](/3-Mechanics/CLI/vehicles/devils-ride-bgdia.md) belonging to [Arkhan the Cruel](/3-Mechanics/CLI/bestiary/npc/arkhan-the-cruel-bgdia.md)'s minotaur bodyguard, [Torogar Steelfist](/3-Mechanics/CLI/bestiary/npc/torogar-steelfist-bgdia.md).
+The infernal war machine parked next to the tent is a [Devil's Ride](devils-ride-bgdia.md) belonging to [Arkhan the Cruel](/3-Mechanics/CLI/bestiary/npc/arkhan-the-cruel-bgdia.md)'s minotaur bodyguard, [Torogar Steelfist](/3-Mechanics/CLI/bestiary/npc/torogar-steelfist-bgdia.md).
 
 ![Torogar Steelfist](/3-Mechanics/CLI/adventures/baldurs-gate-descent-into-avernus/img/076-637000772337192497.webp#center)
 
@@ -480,10 +480,10 @@ None of the consoles are operational, though characters can salvage them for wir
 
 As the characters explore this location, they hear several loud infernal war machines approaching. Through holes in the wall, they can see three vehicles screaming across the hellscape toward the wreck:
 
-- Two [Devil's Rides](/3-Mechanics/CLI/vehicles/devils-ride-bgdia.md), one driven by [Chukka](/3-Mechanics/CLI/bestiary/npc/chukka-bgdia.md) and the other by [Clonk](/3-Mechanics/CLI/bestiary/npc/clonk-bgdia.md) (see "Chukka and Clonk"). Each kenku carries a small bag containing three [soul coins](/3-Mechanics/CLI/items/soul-coin-bgdia.md).  
-- A [Tormentor](/3-Mechanics/CLI/vehicles/tormentor-bgdia.md) crewed by Barnabas the [flameskull](/3-Mechanics/CLI/bestiary/undead/flameskull-xmm.md) (using its [mage hand](/3-Mechanics/CLI/spells/mage-hand-xphb.md) spell to drive) and three [redcaps](/3-Mechanics/CLI/bestiary/fey/redcap-mpmm.md). Clinging to the vehicle's outer hull are six [madcaps](/3-Mechanics/CLI/bestiary/fey/redcap-mpmm.md).  
+- Two [Devil's Rides](devils-ride-bgdia.md), one driven by [Chukka](/3-Mechanics/CLI/bestiary/npc/chukka-bgdia.md) and the other by [Clonk](/3-Mechanics/CLI/bestiary/npc/clonk-bgdia.md) (see "Chukka and Clonk"). Each kenku carries a small bag containing three [soul coins](/3-Mechanics/CLI/items/soul-coin-bgdia.md).  
+- A [Tormentor](tormentor-bgdia.md) crewed by Barnabas the [flameskull](/3-Mechanics/CLI/bestiary/undead/flameskull-xmm.md) (using its [mage hand](/3-Mechanics/CLI/spells/mage-hand-xphb.md) spell to drive) and three [redcaps](/3-Mechanics/CLI/bestiary/fey/redcap-mpmm.md). Clinging to the vehicle's outer hull are six [madcaps](/3-Mechanics/CLI/bestiary/fey/redcap-mpmm.md).  
 
-[Mad Maggie](/3-Mechanics/CLI/bestiary/npc/mad-maggie-bgdia.md) has sent this force to search the wreck for machine parts and other valuables. The [Tormentor](/3-Mechanics/CLI/vehicles/tormentor-bgdia.md) and the [Devil's Rides](/3-Mechanics/CLI/vehicles/devils-ride-bgdia.md) have 12 hours of fuel remaining before they need more [soul coins](/3-Mechanics/CLI/items/soul-coin-bgdia.md).
+[Mad Maggie](/3-Mechanics/CLI/bestiary/npc/mad-maggie-bgdia.md) has sent this force to search the wreck for machine parts and other valuables. The [Tormentor](tormentor-bgdia.md) and the [Devil's Rides](devils-ride-bgdia.md) have 12 hours of fuel remaining before they need more [soul coins](/3-Mechanics/CLI/items/soul-coin-bgdia.md).
 
 If the characters left one or more infernal war machines parked outside the wrecked fortress, [Chukka](/3-Mechanics/CLI/bestiary/npc/chukka-bgdia.md) and [Clonk](/3-Mechanics/CLI/bestiary/npc/clonk-bgdia.md) search those vehicles while Barnabas leads the redcaps and madcaps into the lower decks of the wreck in search of treasure. If the characters left Fort Knucklebone on good terms with [Mad Maggie](/3-Mechanics/CLI/bestiary/npc/mad-maggie-bgdia.md), the flameskull and the kenku won't give the party too much trouble. However, the madcaps might try to steal one of the characters' infernal war machines or inadvertently release the monster lurking in the soul intake pipe (see "Soul Intake").
 

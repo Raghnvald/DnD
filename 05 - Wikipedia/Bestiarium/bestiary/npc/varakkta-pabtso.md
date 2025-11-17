@@ -1,17 +1,15 @@
 ---
-cssclasses:
-  - json5e-monster
 tags:
   - Quelle/5e/pabtso
   - Monster/HG/8
   - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/gith
+  - Monster/Typ/Humanoid/Gith
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
   - Varakkta
 ---
-# [Varakkta](3-Mechanics\CLI\bestiary\npc/varakkta-pabtso.md)
+# Varakkta
 *Source: Phandelver and Below: The Shattered Obelisk p. 174*  
 
 ```statblock
@@ -61,6 +59,6 @@ aliases:
     "name": "Silver Greatsword"
 "source":
   - "PaBTSO"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/varakkta-pabtso.webp"
+"image": "varakkta-pabtso.webp"
 ```
 ^statblock

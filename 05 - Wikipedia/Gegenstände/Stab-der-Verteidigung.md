@@ -4,7 +4,7 @@ tags:
   - Quelle/5e/lmop
   - Gegenstand/wundersam/Zauberstab
   - Gegenstand/Seltenheit/selten
-  - Gegenstand/Einstimmung/erforderlich
+  - Gegenstand/Einstimmung
 aliases:
   - +1 Wand of the War Mage
 ---

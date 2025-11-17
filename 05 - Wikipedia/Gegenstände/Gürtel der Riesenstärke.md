@@ -5,14 +5,14 @@ Eigenschaften: n/v
 Gew.: n/v
 Kst.: n/v
 tags:
-- Quelle/5e/dmg
-- Gegenstand/wundersam
-- Gegenstand/Seltenheit/selten
-- Gegenstand/Seltenheit/sehr_selten
-- Gegenstand/Seltenheit/legendär
-- Gegenstand/Einstimmung/erforderlich
+  - Quelle/5e/dmg
+  - Gegenstand/wundersam
+  - Gegenstand/Seltenheit/selten
+  - Gegenstand/Seltenheit/sehr_selten
+  - Gegenstand/Seltenheit/legendär
+  - Gegenstand/Einstimmung
 aliases:
-- Belt of Giant Strength
+  - Belt of Giant Strength
 ---
 # Gürtel der Riesenstärke
 *Wundersamer Gegenstand, Seltenheitsgrad variiert (erfordert Einstimmung)*  
