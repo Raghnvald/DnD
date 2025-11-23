@@ -5,8 +5,6 @@ Typ: Bestie
 Größe: 
 HG: 
 status:
-order:
-parent:
 image: 
 tags:
 - Quelle/QUELLE

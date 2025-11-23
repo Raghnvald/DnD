@@ -1,7 +1,4 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
 tags:
 - Quelle/5e/xphb
 - Gegenstand/Rüstung/Leicht
@@ -11,7 +8,7 @@ aliases:
 ---
 # Studded Leather Armor
 *Light armor*  
-![](/3-Mechanics/CLI/items/img/studded-leather-armor.webp#right)
+![](Gegenstände/img/studded-leather-armor.webp#right)
 
 - **Armor Class**: 12 + Dex modifier
 - **Cost**: 45 gp

@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-monster
 tags:
   - Quelle/5e/pabtso
   - Monster/HG/8
@@ -10,8 +8,10 @@ statblock: inline
 statblock-link: "#^statblock"
 aliases:
   - Shalfi Lewin
+Name: Shalfi Lewin
+Image: npc/token/shalfi-lewin-pabtso.webp
 ---
-# [Shalfi Lewin](3-Mechanics\CLI\bestiary\npc/shalfi-lewin-pabtso.md)
+# Shalfi Lewin
 *Source: Phandelver and Below: The Shattered Obelisk p. 174*  
 
 ```statblock
@@ -82,6 +82,6 @@ aliases:
     "name": "Void Warp (Recharge 5-6)"
 "source":
   - "PaBTSO"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/shalfi-lewin-pabtso.webp"
+"image": "npc/token/shalfi-lewin-pabtso.webp"
 ```
 ^statblock

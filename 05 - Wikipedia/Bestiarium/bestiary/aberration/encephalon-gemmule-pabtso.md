@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-monster
 tags:
   - Quelle/5e/pabtso
   - Monster/HG/3
@@ -13,10 +11,12 @@ aliases:
 Habitat:
   - /
 Typ: Aberration
+Name: Encephalon Gemmule
+Image: aberration/token/encephalon-gemmule-pabtso.webp
 Größe: Winzig
 HG: 3
 ---
-# [Encephalon Gemmule](3-Mechanics\CLI\bestiary\aberration/encephalon-gemmule-pabtso.md)
+# Encephalon Gemmule
 *Source: Phandelver and Below: The Shattered Obelisk p. 206*  
 
 Due to the influence of the Far Realm, the eggs within an encephalon cluster no longer hatch into illithid tadpoles. Instead, when one of an encephalon cluster's eggs reaches maturity, it is ejected from the mass as an encephalon gemmule.
@@ -73,6 +73,6 @@ When an illithid colony lays its eggs dangerously close to a Far Realm rift, an 
     "name": "Leech"
 "source":
   - "PaBTSO"
-"image": "/3-Mechanics/CLI/bestiary/aberration/token/encephalon-gemmule-pabtso.webp"
+"image": "aberration/token/encephalon-gemmule-pabtso.webp"
 ```
 ^statblock

@@ -14,63 +14,63 @@ aliases:
 The glossary uses the following conventions:
 
 - **Tags in Brackets.** Some entries have a tag in brackets after the entry's name, as in "Attack [Action]." A tag—Action, Area of Effect, Attitude, Condition, or Hazard—indicates that a rule is part of a family of rules. The tags also have glossary entries.  
-- **"You.** " The game's rules—in this glossary and elsewhere—often talk about something happening to you in the game world. That "you" refers to the creature or object that the rule applies to in a particular moment of play. For example, the "you" in the [Prone](/3-Mechanics/CLI/conditions.md#Prone) condition is a creature that currently has that condition.  
+- **"You.** " The game's rules—in this glossary and elsewhere—often talk about something happening to you in the game world. That "you" refers to the creature or object that the rule applies to in a particular moment of play. For example, the "you" in the [Prone](conditions.md#Prone) condition is a creature that currently has that condition.  
 - **"See Also.** " Some glossary entries include a See also section that points to other entries in the glossary, to chapters in this book, or both.  
 - **No Obsolete Terms.** The glossary contains definitions of current rules terms only. If you're looking for a term from an earlier version of the fifth edition rules, consult the index.  
 - **Abbreviations.** The abbreviations listed below appear in this glossary and elsewhere in the rules.  
 
-![Glossary Conventions](/3-Mechanics/CLI/tables/glossary-conventions-xphb.md)
+![Glossary Conventions](tables/glossary-conventions-xphb.md)
 
-![](/3-Mechanics/CLI/books/players-handbook-2024/img/246-12-001-dungeon-border.webp#center)
+![](players-handbook-2024/img/246-12-001-dungeon-border.webp#center)
 
 ## Rules Definitions
 
 Here are definitions of various rules.
 
 > [!embed-variantrule]- Ability Check
-> ![Ability Check](/3-Mechanics/CLI/variant-rules/ability-check-xphb.md)
+> ![Ability Check](variant-rules/ability-check-xphb.md)
 
 > [!embed-variantrule]- Ability Score and Modifier
-> ![Ability Score and Modifier](/3-Mechanics/CLI/variant-rules/ability-score-and-modifier-xphb.md)
+> ![Ability Score and Modifier](variant-rules/ability-score-and-modifier-xphb.md)
 
 > [!embed-variantrule]- Action
-> ![Action](/3-Mechanics/CLI/variant-rules/action-xphb.md)
+> ![Action](variant-rules/action-xphb.md)
 
 > [!embed-variantrule]- Advantage
-> ![Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)
+> ![Advantage](variant-rules/advantage-xphb.md)
 
 > [!embed-variantrule]- Adventure
-> ![Adventure](/3-Mechanics/CLI/variant-rules/adventure-xphb.md)
+> ![Adventure](variant-rules/adventure-xphb.md)
 
 > [!embed-variantrule]- Alignment
-> ![Alignment](/3-Mechanics/CLI/variant-rules/alignment-xphb.md)
+> ![Alignment](variant-rules/alignment-xphb.md)
 
 > [!embed-variantrule]- Ally
-> ![Ally](/3-Mechanics/CLI/variant-rules/ally-xphb.md)
+> ![Ally](variant-rules/ally-xphb.md)
 
 > [!embed-variantrule]- Area of Effect
-> ![Area of Effect](/3-Mechanics/CLI/variant-rules/area-of-effect-xphb.md)
+> ![Area of Effect](variant-rules/area-of-effect-xphb.md)
 
 > [!embed-variantrule]- Armor Class
-> ![Armor Class](/3-Mechanics/CLI/variant-rules/armor-class-xphb.md)
+> ![Armor Class](variant-rules/armor-class-xphb.md)
 
 > [!embed-variantrule]- Armor Training
-> ![Armor Training](/3-Mechanics/CLI/variant-rules/armor-training-xphb.md)
+> ![Armor Training](variant-rules/armor-training-xphb.md)
 
 > [!embed-action]- Attack
-> ![Attack](/3-Mechanics/CLI/actions.md#Attack)
+> ![Attack](actions.md#Attack)
 
 > [!embed-variantrule]- Attack Roll
-> ![Attack Roll](/3-Mechanics/CLI/variant-rules/attack-roll-xphb.md)
+> ![Attack Roll](variant-rules/attack-roll-xphb.md)
 
 > [!embed-variantrule]- Attitude
-> ![Attitude](/3-Mechanics/CLI/variant-rules/attitude-xphb.md)
+> ![Attitude](variant-rules/attitude-xphb.md)
 
 > [!embed-variantrule]- Attunement
-> ![Attunement](/3-Mechanics/CLI/variant-rules/attunement-xphb.md)
+> ![Attunement](variant-rules/attunement-xphb.md)
 
 > [!embed-condition]- Blinded
-> ![Blinded](/3-Mechanics/CLI/conditions.md#Blinded)
+> ![Blinded](conditions.md#Blinded)
 
 > [!embed-sense]- Blindsight
 > ![Blindsight](/3-Mechanics/CLI/senses.md#Blindsight)
@@ -97,7 +97,7 @@ Here are definitions of various rules.
 > ![Campaign](/3-Mechanics/CLI/variant-rules/campaign-xphb.md)
 
 > [!embed-variantrule]- Cantrip
-> ![Cantrip](/3-Mechanics/CLI/variant-rules/cantrip-xphb.md)
+> ![Cantrip](variant-rules/cantrip-xphb.md)
 
 > [!embed-variantrule]- Carrying Capacity
 > ![Carrying Capacity](/3-Mechanics/CLI/variant-rules/carrying-capacity-xphb.md)
@@ -451,40 +451,40 @@ Here are definitions of various rules.
 > ![Swim Speed](/3-Mechanics/CLI/variant-rules/swim-speed-xphb.md)
 
 > [!embed-variantrule]- Target
-> ![Target](/3-Mechanics/CLI/variant-rules/target-xphb.md)
+> ![Target](variant-rules/target-xphb.md)
 
 > [!embed-variantrule]- Telepathy
-> ![Telepathy](/3-Mechanics/CLI/variant-rules/telepathy-xphb.md)
+> ![Telepathy](variant-rules/telepathy-xphb.md)
 
 > [!embed-variantrule]- Teleportation
-> ![Teleportation](/3-Mechanics/CLI/variant-rules/teleportation-xphb.md)
+> ![Teleportation](variant-rules/teleportation-xphb.md)
 
 > [!embed-variantrule]- Temporary Hit Points
-> ![Temporary Hit Points](/3-Mechanics/CLI/variant-rules/temporary-hit-points-xphb.md)
+> ![Temporary Hit Points](variant-rules/temporary-hit-points-xphb.md)
 
 > [!embed-sense]- Tremorsense
-> ![Tremorsense](/3-Mechanics/CLI/senses.md#Tremorsense)
+> ![Tremorsense](senses.md#Tremorsense)
 
 > [!embed-sense]- Truesight
-> ![Truesight](/3-Mechanics/CLI/senses.md#Truesight)
+> ![Truesight](senses.md#Truesight)
 
 > [!embed-variantrule]- Unarmed Strike
-> ![Unarmed Strike](/3-Mechanics/CLI/variant-rules/unarmed-strike-xphb.md)
+> ![Unarmed Strike](variant-rules/unarmed-strike-xphb.md)
 
 > [!embed-condition]- Unconscious
-> ![Unconscious](/3-Mechanics/CLI/conditions.md#Unconscious)
+> ![Unconscious](conditions.md#Unconscious)
 
 > [!embed-variantrule]- Unoccupied Space
-> ![Unoccupied Space](/3-Mechanics/CLI/variant-rules/unoccupied-space-xphb.md)
+> ![Unoccupied Space](variant-rules/unoccupied-space-xphb.md)
 
 > [!embed-action]- Utilize
-> ![Utilize](/3-Mechanics/CLI/actions.md#Utilize)
+> ![Utilize](actions.md#Utilize)
 
 > [!embed-variantrule]- Vulnerability
-> ![Vulnerability](/3-Mechanics/CLI/variant-rules/vulnerability-xphb.md)
+> ![Vulnerability](variant-rules/vulnerability-xphb.md)
 
 > [!embed-variantrule]- Weapon
-> ![Weapon](/3-Mechanics/CLI/variant-rules/weapon-xphb.md)
+> ![Weapon](variant-rules/weapon-xphb.md)
 
 > [!embed-variantrule]- Weapon Attack
-> ![Weapon Attack](/3-Mechanics/CLI/variant-rules/weapon-attack-xphb.md)
+> ![Weapon Attack](variant-rules/weapon-attack-xphb.md)

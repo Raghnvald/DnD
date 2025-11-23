@@ -1,6 +1,6 @@
 ---
-cssclasses:
-  - json5e-monster
+Name: Oculorb
+Image: aberration/token/oculorb-pabtso.webp
 tags:
   - Quelle/5e/pabtso
   - Monster/HG/9
@@ -11,7 +11,7 @@ statblock-link: "#^statblock"
 aliases:
   - Oculorb
 ---
-# [Oculorb](3-Mechanics\CLI\bestiary\aberration/oculorb-pabtso.md)
+# Oculorb
 *Source: Phandelver and Below: The Shattered Obelisk p. 214*  
 
 Many oculorbs are dreamed into existence by beholders. The Far Realm's strange power can pervade a beholder's dreams, resulting in the birth of an oculorb.
@@ -92,6 +92,6 @@ Oculorbs resemble a slimy conglomeration of eyes in many sizes and shapes. They 
     "name": "Obsessive Rebuke"
 "source":
   - "PaBTSO"
-"image": "/3-Mechanics/CLI/bestiary/aberration/token/oculorb-pabtso.webp"
+"image": "aberration/token/oculorb-pabtso.webp"
 ```
 ^statblock

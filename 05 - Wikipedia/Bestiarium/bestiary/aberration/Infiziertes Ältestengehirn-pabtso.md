@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-monster
 tags:
   - Quelle/5e/pabtso
   - Monster/HG/11
@@ -10,8 +8,10 @@ statblock: inline
 statblock-link: "#^statblock"
 aliases:
   - Infected Elder Brain
+Name: Infiziertes Ältestengehirn
+Image: aberration/token/infected-elder-brain-pabtso.webp
 ---
-# [Infected Elder Brain](3-Mechanics\CLI\bestiary\aberration/infected-elder-brain-pabtso.md)
+# Infected Elder Brain
 *Source: Phandelver and Below: The Shattered Obelisk p. 159*  
 
 The Far Realm has tainted the elder brain that fuels Illithinoch's mind flayers.
@@ -100,6 +100,6 @@ The Far Realm has tainted the elder brain that fuels Illithinoch's mind flayers.
     "name": "Psychic Link"
 "source":
   - "PaBTSO"
-"image": "/3-Mechanics/CLI/bestiary/aberration/token/infected-elder-brain-pabtso.webp"
+"image": "aberration/token/infected-elder-brain-pabtso.webp"
 ```
 ^statblock

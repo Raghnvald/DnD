@@ -1,5 +1,5 @@
 # Gwyn
-- [Dieb der neun Leben](Nine-Lives-Stealer)
+- [Dieb der neun Leben](Dieb%20der%20neun%20Leben.md)
 - [[Elfenumhang]]
 - [Stiefel der Elfen](../../05%20-%20Wikipedia/Gegenstände/Stiefel-der-Elfen.md)
 - [Handschuhe der Diebeskunst](../../05%20-%20Wikipedia/Gegenstände/Handschuhe-des-Diebstahls.md)
@@ -30,7 +30,7 @@ Nach CoS eher ratlos für Belohnung. Eventuell [[quaals-feather-token-tree]]? Me
 - [Verheerende Abhandlung](Fulminating-Treatise)
 - [[Zauberhut]]
 - [Robe des Erzmagiers](../../05%20-%20Wikipedia/Gegenstände/Robe-des-Erzmagiers.md)
-- [Stab des Magus](../../05%20-%20Wikipedia/Gegenstände/Stab-des-Magus.md)
+- [Stab des Magus](Zauberstecken%20der%20Magi.md)
 
 Nach CoS den Folianten "entfernen", dafür ein vergleichbares Zauberbuch bzw Foliant? [[tome-of-the-stilled-tongue]]?
 

@@ -8,6 +8,8 @@ statblock: inline
 statblock-link: "#^statblock"
 aliases:
   - Lowarnizel
+Name: Lowarnizel
+Image: npc/token/lowarnizel-pabtso.webp
 Typ: Drache (Edelstein)
 Größe: Groß
 HG: 9
@@ -92,6 +94,6 @@ Lowarnizel is a young amethyst dragon, and his companion is a lawful neutral hum
     "name": "Change Shape"
 "source":
   - "PaBTSO"
-"image": "lowarnizel-pabtso.webp"
+"image": "npc/token/lowarnizel-pabtso.webp"
 ```
 ^statblock

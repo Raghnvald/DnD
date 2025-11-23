@@ -14,8 +14,10 @@ tags:
   - Monster/Typ/Tier
 aliases:
   - Mammoth
+statblock: inline
+statblock-link: "#^statblock"
 ---
-# Mammoth
+# Mammoth-Test
 *Source: SRD / Basic Rules*  
 
 > [!statblock] Mammoth

@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-monster
 tags:
   - Quelle/5e/pabtso
   - Monster/HG/11
@@ -10,8 +8,10 @@ statblock: inline
 statblock-link: "#^statblock"
 aliases:
   - Mind Flayer Clairvoyant
+Name: Gedankenschinder-Hellseher
+Image: aberration/token/mind-flayer-clairvoyant-pabtso.webp
 ---
-# [Mind Flayer Clairvoyant](3-Mechanics\CLI\bestiary\aberration/mind-flayer-clairvoyant-pabtso.md)
+# Mind Flayer Clairvoyant
 *Source: Phandelver and Below: The Shattered Obelisk p. 209*  
 
 In pursuit of reconstructing their lost empire, a few mind flayers have turned to their home plane, the Far Realm, for answers. A mind flayer clairvoyant has peered into that realm's starless depths and been subsequently rewarded with extraordinary powers.
@@ -110,6 +110,6 @@ Mind flayers, also known as illithids, feast on the brains of Humanoids across t
     "name": "Warp Reality"
 "source":
   - "PaBTSO"
-"image": "/3-Mechanics/CLI/bestiary/aberration/token/mind-flayer-clairvoyant-pabtso.webp"
+"image": "aberration/token/mind-flayer-clairvoyant-pabtso.webp"
 ```
 ^statblock

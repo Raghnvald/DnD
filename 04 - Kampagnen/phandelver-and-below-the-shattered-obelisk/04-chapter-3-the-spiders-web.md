@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-note
 tags:
   - Quelle/5e/pabtso
 aliases:
@@ -13,7 +11,7 @@ Once the characters have dealt with Iarno "Glasstaff" Albrek, they'll likely wan
 
 The characters can't learn much more in town, and with the Redbrands defeated, Phandalin isn't in immediate danger. The heroes must enter the forests and hills surrounding the town to uncover the larger plots they're caught in.
 
-![The banshee Agatha brooks ...](/3-Mechanics/CLI/adventures/phandelver-and-below-the-shattered-obelisk/img/034-03-001-ch3-splash.webp#center "The banshee Agatha brooks no disrespect or threats in her home")
+![The banshee Agatha brooks ...](phandelver-and-below-the-shattered-obelisk/img/034-03-001-ch3-splash.webp#center "The banshee Agatha brooks no disrespect or threats in her home")
 
 ## The Story So Far
 
@@ -23,7 +21,7 @@ Depending on which townspeople the characters met in Phandalin and which quests 
 - **Old Owl Well.** Daran Edermath wants the characters to discover who is exploring the ruins at Old Owl Well (see "Old Owl Well").  
 - **Thundertree.** Qelline Alderleaf suggested the characters go to the ruined town of Thundertree and consult with the druid Reidoth (see "Ruins of Thundertree").  
 - **Wyvern Tor.** Townmaster Harbin Wester wants the characters to head east on the Triboar Trail and chase away raiders near Wyvern Tor (see "Wyvern Tor").  
-- **Cragmaw Castle.** [Sildar Hallwinter](/3-Mechanics/CLI/bestiary/npc/sildar-hallwinter-pabtso.md) wants the characters to stop the Cragmaw goblins' attacks and search for [Gundren Rockseeker](/3-Mechanics/CLI/bestiary/npc/gundren-rockseeker-pabtso.md), and he encourages them to explore Cragmaw Castle (see "Cragmaw Castle").  
+- **Cragmaw Castle.** [Sildar Hallwinter](npc/sildar%20hallwinter-pabtso.md) wants the characters to stop the Cragmaw goblins' attacks and search for [Gundren Rockseeker](npc/gundren%20rockseeker-pabtso.md), and he encourages them to explore Cragmaw Castle (see "Cragmaw Castle").  
 
 The characters can rest and purchase supplies in Phandalin as their funds allow. When they're done, ask the players to pick a lead to investigate so their characters can head to the appropriate destination.
 
@@ -45,7 +43,7 @@ Assume the party travels twenty-four miles per day over a period of ten hours. T
 
 ### Wilderness Encounters
 
-![The Triboar Trail is full ...](/3-Mechanics/CLI/adventures/phandelver-and-below-the-shattered-obelisk/img/035-03-002-triboar-trail.webp#center "The Triboar Trail is full of dangers, including hungry owlbears")
+![The Triboar Trail is full ...](phandelver-and-below-the-shattered-obelisk/img/035-03-002-triboar-trail.webp#center "The Triboar Trail is full of dangers, including hungry owlbears")
 
 The wilds of the Triboar Trail are not especially safe. As the heroes travel throughout this area, they might stumble across hungry animals, greedy bandits, or vicious monsters.
 
@@ -147,7 +145,7 @@ If the characters approach Old Owl Well, read the following aloud:
 
 Old Owl Well is shown on map 3.1. The characters can enter the site from any direction, either following old footpaths or scrambling up the slope and finding a gap in the surrounding walls of rubble.
 
-![Map 3.1: Old Owl Well](/3-Mechanics/CLI/adventures/phandelver-and-below-the-shattered-obelisk/img/036-03-003-map301-old-owl-well.webp#center)
+![Map 3.1: Old Owl Well](phandelver-and-below-the-shattered-obelisk/img/036-03-003-map301-old-owl-well.webp#center)
 
 Twelve [zombies](/3-Mechanics/CLI/bestiary/undead/zombie-xmm.md) lurk inside the crumbled shell of the old watchtower and can't be seen from outside. However, any character who succeeds on a DC 15 Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) check smells a deathly odor wafting from the tower's direction.
 
@@ -210,8 +208,8 @@ Trees average 30 to 40 feet tall and provide cover. Brush consists of sprawling 
 The following locations are keyed to map 3.2.
 
 > [!gallery]
-> ![Map 3.2: Ruins of Thundertree](/3-Mechanics/CLI/adventures/phandelver-and-below-the-shattered-obelisk/img/037-map-3-02-ruins-of-thundertree.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/phandelver-and-below-the-shattered-obelisk/img/038-map-3-02-ruins-of-thundertree-player.webp#gallery)
+> ![Map 3.2: Ruins of Thundertree](phandelver-and-below-the-shattered-obelisk/img/037-map-3-02-ruins-of-thundertree.webp#gallery)
+> ![Player Version](phandelver-and-below-the-shattered-obelisk/img/038-map-3-02-ruins-of-thundertree-player.webp#gallery)
 
 #### U1: Westernmost Cottage
 

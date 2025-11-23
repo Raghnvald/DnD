@@ -1,4 +1,6 @@
 ---
+Name: Oshundo the Alhoon
+Image: npc/token/oshundo-the-alhoon-pabtso.webp
 tags:
   - Quelle/5e/pabtso
   - Monster/HG/10
@@ -98,6 +100,6 @@ Oshundo lived in Illithinoch at the height of the mind flayer empire many centur
     "name": "Negate Spell (3/Day)"
 "source":
   - "PaBTSO"
-"image": "oshundo-the-alhoon-pabtso.webp"
+"image": "npc/token/oshundo-the-alhoon-pabtso.webp"
 ```
 ^statblock

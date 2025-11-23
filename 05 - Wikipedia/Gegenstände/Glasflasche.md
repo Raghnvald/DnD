@@ -1,27 +1,21 @@
 ---
-Bezeichnung: Glasflasche
-Typ: Behälter
-Eigenschaften: n/v
-Gew.: 1,0 kg
-Kst.: 2 GM
+obsidianUIMode: preview
+cssclasses:
+- json5e-item
 tags:
 - Quelle/5e/phb
-- Gegenstand/Ausrüstung
-- Gegenstand/Seltenheit/gewöhnlich
-aliases:
-- Bottle
+- Gegenstand/item/gear/
+- Gegenstand/Seltenheit/keine
+aliases: 
+- "Glass Bottle"
 ---
-# Glasflasche
-*Abenteuerausrüstung, gewöhnlich*
-<img src="Symbolik/Gegenstände.webp" align="right" width="150">
+# Glass Bottle
+*Adventuring gear*  
 
-_Klassen:_ n/v 
-_Unterklassen:_  n/v
 
-_Quellen:_ Spielerhandbuch
+- **Cost**: 2 gp
+- **Weight**: 2.0 lbs.
 
-- **Eigenschaften**: n/v
-- **Gewicht**: 1,0 kg.
-- **Kosten**: 2 Goldmünzen
+A bottle holds 1½ pints of liquid.
 
-Eine Flasche fasst 0,75 Liter Flüssigkeit.
+*Source: Player's Handbook p. 153. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

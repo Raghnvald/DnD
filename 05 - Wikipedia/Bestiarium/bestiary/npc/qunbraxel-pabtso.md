@@ -1,4 +1,6 @@
 ---
+Name: Qunbraxel
+Image: npc/token/qunbraxel-pabtso.webp
 tags:
   - Quelle/5e/pabtso
   - Monster/HG/9
@@ -97,6 +99,6 @@ Cut off from any elder brain Qunbraxel considers worthy, the mind flayer hopes t
     "name": "Spellcasting (Psionics)"
 "source":
   - "PaBTSO"
-"image": "qunbraxel-pabtso.webp"
+"image": "npc/token/qunbraxel-pabtso.webp"
 ```
 ^statblock

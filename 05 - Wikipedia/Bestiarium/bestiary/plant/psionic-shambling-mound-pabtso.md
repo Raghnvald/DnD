@@ -1,6 +1,6 @@
 ---
-cssclasses:
-  - json5e-monster
+Name: Psionic Shambling Mound
+Image: plant/token/psionic-shambling-mound-pabtso.webp
 tags:
   - Quelle/5e/pabtso
   - Monster/HG/5
@@ -11,7 +11,7 @@ statblock-link: "#^statblock"
 aliases:
   - Psionic Shambling Mound
 ---
-# [Psionic Shambling Mound](3-Mechanics\CLI\bestiary\plant/psionic-shambling-mound-pabtso.md)
+# Psionic Shambling Mound
 *Source: Phandelver and Below: The Shattered Obelisk p. 108*  
 
 ```statblock
@@ -72,6 +72,6 @@ aliases:
     "name": "Spellcasting (Psionics)"
 "source":
   - "PaBTSO"
-"image": "/3-Mechanics/CLI/bestiary/plant/token/psionic-shambling-mound-pabtso.webp"
+"image": "plant/token/psionic-shambling-mound-pabtso.webp"
 ```
 ^statblock

@@ -11,7 +11,7 @@ aliases:
 ---
 # Leather Armor
 *Light armor*  
-![](/3-Mechanics/CLI/items/img/leather-armor.webp#right)
+![](Gegenstände/img/leather-armor.webp#right)
 
 - **Armor Class**: 11 + Dex modifier
 - **Cost**: 10 gp

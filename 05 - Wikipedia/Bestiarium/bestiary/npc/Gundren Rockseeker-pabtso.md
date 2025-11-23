@@ -8,6 +8,8 @@ statblock: inline
 statblock-link: "#^statblock"
 aliases:
   - Gundren Rockseeker
+Name: Gundren Rockseeker
+Image: npc/token/gundren-rockseeker-pabtso.webp
 ---
 # Gundren Rockseeker
 *Source: Phandelver and Below: The Shattered Obelisk p. 10*  
@@ -44,6 +46,6 @@ aliases:
     "name": "Club"
 "source":
   - "PaBTSO"
-"image": "gundren-rockseeker-pabtso.webp"
+"image": "npc/token/gundren-rockseeker-pabtso.webp"
 ```
 ^statblock

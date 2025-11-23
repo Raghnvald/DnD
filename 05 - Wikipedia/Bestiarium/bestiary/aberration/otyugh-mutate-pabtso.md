@@ -1,6 +1,6 @@
 ---
-cssclasses:
-  - json5e-monster
+Name: Otyugh Mutate
+Image: aberration/token/otyugh-mutate-pabtso.webp
 tags:
   - Quelle/5e/pabtso
   - Monster/HG/6
@@ -11,7 +11,7 @@ statblock-link: "#^statblock"
 aliases:
   - Otyugh Mutate
 ---
-# [Otyugh Mutate](3-Mechanics\CLI\bestiary\aberration/otyugh-mutate-pabtso.md)
+# Otyugh Mutate
 *Source: Phandelver and Below: The Shattered Obelisk p. 213*  
 
 Rising from piles of carrion and filth exposed to Far Realm energy, an otyugh mutate grows chitinous, jet-black plating over its limbs. The plates contrast sharply with the translucent, almost ghostly, appearance of its flesh, which provides a grotesque window into the virulent refuse the otyugh recently consumed.
@@ -89,6 +89,6 @@ Mutates often gain psionic abilities, grow wings, become covered in otherworldly
     "name": "Chitin Slam"
 "source":
   - "PaBTSO"
-"image": "/3-Mechanics/CLI/bestiary/aberration/token/otyugh-mutate-pabtso.webp"
+"image": "aberration/token/otyugh-mutate-pabtso.webp"
 ```
 ^statblock

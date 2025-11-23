@@ -8,6 +8,8 @@ statblock: inline
 statblock-link: "#^statblock"
 aliases:
   - Varakkta
+Name: Varakkta
+Image: npc/token/varakkta-pabtso.webp
 ---
 # Varakkta
 *Source: Phandelver and Below: The Shattered Obelisk p. 174*  
@@ -59,6 +61,6 @@ aliases:
     "name": "Silver Greatsword"
 "source":
   - "PaBTSO"
-"image": "varakkta-pabtso.webp"
+"image": "npc/token/varakkta-pabtso.webp"
 ```
 ^statblock

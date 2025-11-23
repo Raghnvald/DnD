@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-monster
 tags:
   - Quelle/5e/lmop
   - Monster/HG/1
@@ -10,8 +8,10 @@ statblock: inline
 statblock-link: "#^statblock"
 aliases:
   - Evil Mage
+Name: Böser Magier
+Image: humanoid/token/evil-mage-lmop.webp
 ---
-# [Evil Mage](3-Mechanics\CLI\bestiary\humanoid/evil-mage-lmop.md)
+# Evil Mage
 *Source: Lost Mine of Phandelver p. 57*  
 
 Evil mages (such as Iarno Albrek and Hamun Kost) hunger for arcane power and dwell in isolated places, where they can perform terrible magical experiments without interference.
@@ -62,6 +62,6 @@ Evil mages (such as Iarno Albrek and Hamun Kost) hunger for arcane power and dwe
     "name": "Quarterstaff"
 "source":
   - "LMoP"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/evil-mage-lmop.webp"
+"image": "humanoid/token/evil-mage-lmop.webp"
 ```
 ^statblock

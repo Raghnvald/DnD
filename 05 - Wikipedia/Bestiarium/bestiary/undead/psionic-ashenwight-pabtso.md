@@ -1,6 +1,6 @@
 ---
-cssclasses:
-  - json5e-monster
+Name: Psionic Ashenwight
+Image: undead/token/psionic-ashenwight-pabtso.webp
 tags:
   - Quelle/5e/pabtso
   - Monster/HG/7
@@ -11,7 +11,7 @@ statblock-link: "#^statblock"
 aliases:
   - Psionic Ashenwight
 ---
-# [Psionic Ashenwight](3-Mechanics\CLI\bestiary\undead/psionic-ashenwight-pabtso.md)
+# Psionic Ashenwight
 *Source: Phandelver and Below: The Shattered Obelisk p. 204*  
 
 When an ashenwight arises near a crystal vein infused with aberrant power, or when one lingers in an area of fell magic, there is a chance for the ashenwight to develop psionic abilities. A psionic ashenwight is markedly more sapient than other ashenwights, though the resulting consciousness is a new creation separate from who the ashenwight was in life.
@@ -78,6 +78,6 @@ When a Humanoid consumed by cruelty and rage dies in an area corrupted by the Fa
     "name": "Spellcasting (Psionics)"
 "source":
   - "PaBTSO"
-"image": "/3-Mechanics/CLI/bestiary/undead/token/psionic-ashenwight-pabtso.webp"
+"image": "undead/token/psionic-ashenwight-pabtso.webp"
 ```
 ^statblock

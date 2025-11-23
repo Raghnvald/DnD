@@ -8,6 +8,8 @@ statblock: inline
 statblock-link: "#^statblock"
 aliases:
   - Kellikilli
+Name: Kellikilli
+Image: npc/token/kellikilli-pabtso.webp
 ---
 # Kellikilli
 *Source: Phandelver and Below: The Shattered Obelisk p. 121*  
@@ -55,6 +57,6 @@ aliases:
     "name": "Constrict"
 "source":
   - "PaBTSO"
-"image": "kellikilli-pabtso.webp"
+"image": "npc/token/kellikilli-pabtso.webp"
 ```
 ^statblock

@@ -10,8 +10,10 @@ statblock: inline
 statblock-link: "#^statblock"
 aliases:
   - Mind Flayer Prophet
+Name: Gedankenschinder-Prophet
+Image: aberration/token/mind-flayer-prophet-pabtso.webp
 ---
-# [Mind Flayer Prophet](3-Mechanics\CLI\bestiary\aberration/mind-flayer-prophet-pabtso.md)
+# Mind Flayer Prophet
 *Source: Phandelver and Below: The Shattered Obelisk p. 210*  
 
 Some mind flayers dedicate their lives to channeling abstruse truths from beyond reality. This insight gives them preternatural senses and allows them to focus their innate psionic power.
@@ -92,6 +94,6 @@ Mind flayers, also known as illithids, feast on the brains of Humanoids across t
     "name": "Spellcasting (Psionics)"
 "source":
   - "PaBTSO"
-"image": "/3-Mechanics/CLI/bestiary/aberration/token/mind-flayer-prophet-pabtso.webp"
+"image": "aberration/token/mind-flayer-prophet-pabtso.webp"
 ```
 ^statblock

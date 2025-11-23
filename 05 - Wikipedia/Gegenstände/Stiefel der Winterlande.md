@@ -1,0 +1,29 @@
+---
+obsidianUIMode: preview
+cssclasses:
+- json5e-item
+tags:
+- Quelle/5e/dmg
+- Gegenstand/item/attunement/required
+- Gegenstand/Seltenheit/ungewöhnlich
+- Gegenstand/item/tier/major
+aliases: 
+- "Boots of the Winterlands"
+---
+# Boots of the Winterlands
+*Wondrous item, major, uncommon (requires attunement)*  
+![](/3-Mechanics/CLI/items/img/boots-of-the-winterlands.webp#right)
+
+Diese bequemen Pelzstiefel fühlen sich ziemlich warm an. Wenn du sie trägst, erhältst du die folgenden Vorteile:
+
+- Du bist gegen Kälteschaden resistent.
+- Du ignorierst durch Eis oder Schnee verursachtes schwieriges Gelände.
+- Du kannst ohne zusätzliche Schutzausrüstung Temperaturen bis zu -45 °C widerstehen. Wenn du warme Kleidung trägst, kann du Temperaturen bis zu -73 °C widerstehen.
+
+These furred boots are snug and feel quite warm. While you wear them, you gain the following benefits:
+
+- You have resistance to cold damage.  
+- You ignore difficult terrain created by ice or snow.  
+- You can tolerate temperatures as low as -50 degrees Fahrenheit without any additional protection. If you wear heavy clothes, you can tolerate temperatures as low as -100 degrees Fahrenheit.  
+
+*Source: Dungeon Master's Guide p. 156. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

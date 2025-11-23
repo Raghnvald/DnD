@@ -10,13 +10,15 @@ statblock: inline
 statblock-link: "#^statblock"
 aliases:
   - Flesh Meld
+Name: Flesh Meld
+Image: aberration/token/flesh-meld-pabtso.webp
 Größe: Riesig
 Typ: Aberration
 Habitat:
   - /
 HG: 7
 ---
-# [Flesh Meld](3-Mechanics\CLI\bestiary\aberration/flesh-meld-pabtso.md)
+# Flesh Meld
 *Source: Phandelver and Below: The Shattered Obelisk p. 207*  
 
 Squelching and quivering with insatiable hunger, a flesh meld is a hulking amalgamation of teeth, blood, and body parts. Sinuous appendages of gore, each ending in a gnashing mouth, bite at prey before yanking the piteous creatures into the flesh meld's core. The stench of death surrounds a flesh meld.
@@ -91,6 +93,6 @@ When a creature is consumed by a flesh meld, the creature's mind is merged into 
     "name": "Consume Creature"
 "source":
   - "PaBTSO"
-"image": "/3-Mechanics/CLI/bestiary/aberration/token/flesh-meld-pabtso.webp"
+"image": "aberration/token/flesh-meld-pabtso.webp"
 ```
 ^statblock

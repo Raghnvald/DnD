@@ -10,6 +10,8 @@ statblock: inline
 statblock-link: "#^statblock"
 aliases:
   - Goblin Psi Brawler
+Name: Goblin-Psi-Raufbold
+Image: aberration/token/goblin-psi-brawler-pabtso.webp
 ---
 # Goblin Psi Brawler
 *Source: Phandelver and Below: The Shattered Obelisk p. 215*  
@@ -128,6 +130,6 @@ reactions:
     "name": "Telekinetic Shove"
 "source":
   - "PaBTSO"
-"image": "/3-Mechanics/CLI/bestiary/aberration/token/goblin-psi-brawler-pabtso.webp"
+"image": "aberration/token/goblin-psi-brawler-pabtso.webp"
 ```
 ^statblock

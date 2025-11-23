@@ -8,6 +8,8 @@ statblock: inline
 statblock-link: "#^statblock"
 aliases:
   - Malinia
+Name: Malinia
+Image: npc/token/malinia-pabtso.webp
 ---
 # Malinia
 *Source: Phandelver and Below: The Shattered Obelisk p. 115*  
@@ -60,6 +62,6 @@ aliases:
     "name": "Defensive Flight"
 "source":
   - "PaBTSO"
-"image": "malinia-pabtso.webp"
+"image": "npc/token/malinia-pabtso.webp"
 ```
 ^statblock

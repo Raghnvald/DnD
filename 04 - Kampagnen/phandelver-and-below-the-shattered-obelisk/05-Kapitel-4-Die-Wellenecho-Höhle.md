@@ -1,7 +1,10 @@
 ---
-tags: [Quelle/5e/lmop]
+tags:
+  - Quelle/5e/pabtso
+aliases:
+  - Chapter 4: Wave Echo Cave
 ---
-# <center> Kapitel 4: Die Wellenecho-Höhle </center>
+# <center> Kapitel 4: Die Wellenhallhöhle </center>
 Fünfzehn Meilen östlich von Phandalin liegt die Wellenechohöhle in den tiefen Tälern des Schwertgebirges. Die reiche Mine des Phandelver-Paktes ging vor fünfhundert Jahren bei Banditenangriffen verloren, die dieses Gebiet verwüsteten.
 
 $\quad$In den vergangenen Jahrhunderten haben zahllose Schürfer und Abenteurer nach der verlorenen Mine gesucht, aber keiner hatte Erfolg, bis die drei Brüder Rockseeker vor einem Monat den Eingang fanden. Leider bemerkten die Zwerge nicht, dass sie von Spionen verfolgt wurden, die für Nezznar die Spinne arbeiteten, und die Felssucher führten den Schurken versehentlich zu ihrer Beute.

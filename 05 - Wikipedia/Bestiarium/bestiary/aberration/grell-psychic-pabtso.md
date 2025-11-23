@@ -10,8 +10,10 @@ statblock: inline
 statblock-link: "#^statblock"
 aliases:
   - Grell Psychic
+Name: Grell Psychic
+Image: aberration/token/grell-psychic-pabtso.webp
 ---
-# [Grell Psychic](3-Mechanics\CLI\bestiary\aberration/grell-psychic-pabtso.md)
+# Grell Psychic
 *Source: Phandelver and Below: The Shattered Obelisk p. 145*  
 
 ```statblock
@@ -69,6 +71,6 @@ aliases:
     "name": "Spellcasting (Psionics)"
 "source":
   - "PaBTSO"
-"image": "/3-Mechanics/CLI/bestiary/aberration/token/grell-psychic-pabtso.webp"
+"image": "aberration/token/grell-psychic-pabtso.webp"
 ```
 ^statblock

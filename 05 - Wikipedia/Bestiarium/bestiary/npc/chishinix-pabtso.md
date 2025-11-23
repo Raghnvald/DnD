@@ -8,6 +8,8 @@ statblock: inline
 statblock-link: "#^statblock"
 aliases:
   - Chishinix
+Name: Chishinix
+Image: npc/token/chishinix-pabtso.webp
 Typ: Aberration
 Habitat:
   - /
@@ -106,6 +108,6 @@ status: WIP
     "name": "Warp Reality"
 "source":
   - "PaBTSO"
-"image": "chishinix-pabtso.webp"
+"image": "npc/token/chishinix-pabtso.webp"
 ```
 ^statblock

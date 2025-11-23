@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-monster
 tags:
   - Quelle/5e/pabtso
   - Monster/HG/9
@@ -10,8 +8,10 @@ statblock: inline
 statblock-link: "#^statblock"
 aliases:
   - Nellik
+Name: Nellik
+Image: npc/token/nellik-pabtso.webp
 ---
-# [Nellik](3-Mechanics\CLI\bestiary\npc/nellik-pabtso.md)
+# Nellik
 *Source: Phandelver and Below: The Shattered Obelisk p. 193*  
 
 ```statblock
@@ -83,6 +83,6 @@ aliases:
     "name": "Teleport"
 "source":
   - "PaBTSO"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/nellik-pabtso.webp"
+"image": "npc/token/nellik-pabtso.webp"
 ```
 ^statblock

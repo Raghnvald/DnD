@@ -1,4 +1,6 @@
 ---
+Name: Ontharyx
+Image: npc/token/ontharyx-pabtso.webp
 tags:
   - Quelle/5e/pabtso
   - Monster/HG/4
@@ -60,6 +62,6 @@ aliases:
     "name": "Defensive Flight"
 "source":
   - "PaBTSO"
-"image": "ontharyx-pabtso.webp"
+"image": "npc/token/ontharyx-pabtso.webp"
 ```
 ^statblock

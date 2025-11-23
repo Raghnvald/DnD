@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-monster
 tags:
   - Quelle/5e/cos
   - Monster/HG/5
@@ -11,7 +9,7 @@ statblock-link: "#^statblock"
 aliases:
   - Morgantha
 ---
-# [Morgantha](3-Mechanics\CLI\bestiary\npc/morgantha-cos.md)
+# Morgantha
 *Source: Curse of Strahd p. 48*  
 
 ```statblock
@@ -97,6 +95,6 @@ aliases:
     "name": "Nightmare Haunting (1/Day)"
 "source":
   - "CoS"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/morgantha-cos.webp"
+"image": "npc/token/morgantha-cos.webp"
 ```
 ^statblock

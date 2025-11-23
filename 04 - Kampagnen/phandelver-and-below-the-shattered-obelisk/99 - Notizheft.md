@@ -1,8 +1,8 @@
 ---
-tags: [Quelle/5e/lmop]
+tags:
+  - Quelle/5e/pabtso
 ---
-
-# Recap nach CoS
+# Recap nach dem Fall von Strahd
 
 ## Kapitel 1
 - Die Gruppe hat einen Auftrag von [[Gundren Rockseeker-pabtso|Gundren Steinsucher]] angenommen, in welchem sie ihn in [[3-phandalin|Phandalin]] antreffen sollten. Er habe etwas gefunden, vermag jedoch keine genauen Infos zu teilen. Die Gruppe sollte jedoch seinen Karren nach [[3-phandalin|Phandalin]] bringen.

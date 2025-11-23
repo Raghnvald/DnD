@@ -5,19 +5,19 @@ cssclasses:
 ---
 # Index of Npc
 
-- [Amrik Vanthampur](Amrik%20Vanthampur-bgdia.md)
-- [Anastrasya Karelova](Anastrasya%20Karelova-cos.md)
-- [Arabelle](Arabelle-cos.md)
-- [Archduke Zariel of Avernus](Archduke%20Zariel%20of%20Avernus-bgdia.md)
-- [Arkhan the Cruel](Arkhan%20the%20Cruel-bgdia.md)
-- [Arrigal](Arrigal-cos.md)
-- [Baba Lysaga](Baba%20Lysaga-cos.md)
-- [Baba Lysaga's Creeping Hut](Baba%20Lysagas%20krabbelnde%20Hütte-cos.md)
-- [Bael](Bael-mpmm.md)
-- [Baphomet](D&D/05%20-%20Wikipedia/Bestiarium/bestiary/npc/Baphomet-mpmm.md)
+- [[Amrik Vanthampur-bgdia.md|Amrik Vanthampur]]
+- [[Anastrasya Karelova-cos.md|Anastrasya Karelova]]
+- [[Arabelle-cos.md|Arabell]]
+- [[Archduke Zariel of Avernus-bgdia.md|Archduke Zariel of Avernus]]
+- [[Arkhan the Cruel-bgdia.md|Arkhan the Cruel]]
+- [[Arrigal-cos.md|Arrigal]]
+- [[Baba Lysaga-cos.md|Baba Lysaga]]
+- [[Baba Lysagas Krabbelnde Hütte-cos.md|Baba Lysagas Krabbelnde Hütte]]
+- [[Bael-mpmm.md|Bael]]
+- [[Baphomet-mpmm.md|Baphomet]]
 - [Baron Vargas Vallakovich](Baron%20Vargas%20Vallakovich-cos.md)
-- [Bel](Bel-bgdia.md)
-- [Beucephalus](Beucephalus-cos.md)
+- [[Bel-bgdia.md|Bel]]
+- [[Beucephalus-cos.md|Beucephalus]]
 - [Bitter Breath](Bitter%20Breath-bgdia.md)
 - [Bluto Krogarov](Bluto%20Krogarov-cos.md)
 - [Bray Martikov](Bray%20Martikov-cos.md)
@@ -82,17 +82,17 @@ cssclasses:
 - [Mad Mary](Mad%20Mary-cos.md)
 - [Madam Eva](Madam%20Eva-cos.md)
 - [Mahadi the Rakshasa](Mahadi%20the%20Rakshasa-bgdia.md)
-- [Majesto](majesto-cos.md)
+- [Majesto](Majesto-cos.md)
 - [Malinia](Malinia-pabtso.md)
-- [Marzena Belview](marzena-belview-cos.md)
-- [Milivoj](milivoj-cos.md)
-- [Mishka Belview](mishka-belview-cos.md)
-- [Moloch](moloch-mpmm.md)
-- [Morgantha](morgantha-cos.md)
-- [Mormesk the Wraith](Mormesk%20the%20Wraith-pabtso.md)
-- [Mortlock Vanthampur](mortlock-vanthampur-bgdia.md)
-- [Nellik](nellik-pabtso.md)
-- [Nezznar the Spider](Nezznar%20the%20Spider-pabtso.md)
+- [Marzena Belview](Marzena%20Belview-cos.md)
+- [Milivoj](Milivoj-cos.md)
+- [Mishka Belview](Mishka%20Belview-cos.md)
+- [Moloch](Moloch-mpmm.md)
+- [Morgantha](Morgantha-cos.md)
+- [Mormesk the Wraith](Mormesk%20der%20Todesalb-pabtso.md)
+- [Mortlock Vanthampur](Mortlock%20Vanthampur-bgdia.md)
+- [Nellik](D&D/05%20-%20Wikipedia/Bestiarium/bestiary/npc/Nellik-pabtso.md)
+- [Nezznar the Spider](Nezznar%20die%20Schwarze%20Spinne-pabtso.md)
 - [Nikolai Wachter](nikolai-wachter-cos.md)
 - [Nine-Fingers Keene](nine-fingers-keene-bgdia.md)
 - [Nundro Rockseeker](nundro-rockseeker-pabtso.md)
@@ -113,7 +113,7 @@ cssclasses:
 - [Rilsa Rael](rilsa-rael-bgdia.md)
 - [Rivibiddel](Rivibiddel-pabtso.md)
 - [Rosavalda "Rose" Durst](rosavalda-rose-durst-cos.md)
-- [Ruxithid the Chosen](Ruxithid%20the%20Chosen-pabtso.md)
+- [Ruxithid the Chosen](Ruxithid%20der%20Auserwählte-pabtso.md)
 - [Sangzor](sangzor-cos.md)
 - [Savid](savid-cos.md)
 - [Shalfi Lewin](Shalfi-Lewin-pabtso.md)
@@ -146,10 +146,10 @@ cssclasses:
 - [Voalsh](Voalsh-pabtso.md)
 - [Volenta Popofsky](Volenta-Popofsky-cos.md)
 - [Yanthdel Henlifel](Yanthdel%20Henlifel-pabtso.md)
-- [Yeenoghu](D&D/05%20-%20Wikipedia/Bestiarium/bestiary/npc/yeenoghu-mpmm.md)
+- [Yeenoghu](D&D/05%20-%20Wikipedia/Bestiarium/bestiary/npc/Yeenoghu-mpmm.md)
 - [Yevgeni Krushkin](yevgeni-krushkin-cos.md)
-- [Zariel](D&D/05%20-%20Wikipedia/Bestiarium/bestiary/npc/zariel-mpmm.md)
-- [Zeond](Zeond-pabtso.md)
-- [Zuggtmoy](D&D/05%20-%20Wikipedia/Bestiarium/bestiary/npc/zuggtmoy-mpmm.md)
+- [Zariel](D&D/05%20-%20Wikipedia/Bestiarium/bestiary/npc/Zariel-mpmm.md)
+- [[Zeond-pabtso.md|Zeond]]
+- [[Zuggtmoy-mpmm.md|Zuggtmoy]]
 - [Zuleika Toranescu](zuleika-toranescu-cos.md)
 - [Zygfrek Belview](zygfrek-belview-cos.md)

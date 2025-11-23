@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-monster
 tags:
   - Quelle/5e/pabtso
   - Monster/HG/1-2
@@ -10,6 +8,8 @@ statblock: inline
 statblock-link: "#^statblock"
 aliases:
   - Dwarf Skeleton
+Name: Zwergenskelett
+Image: undead/token/dwarf-skeleton-pabtso.webp
 Typ: Untoter
 Größe: Mittelgroß
 HG: 1/2
@@ -17,7 +17,7 @@ Habitat:
   - /
 status: WIP
 ---
-# [Dwarf Skeleton](3-Mechanics\CLI\bestiary\undead/dwarf-skeleton-pabtso.md)
+# Dwarf Skeleton
 *Source: Phandelver and Below: The Shattered Obelisk p. 123*  
 
 ```statblock
@@ -57,6 +57,6 @@ status: WIP
     "name": "Battleaxe"
 "source":
   - "PaBTSO"
-"image": "/3-Mechanics/CLI/bestiary/undead/token/dwarf-skeleton-pabtso.webp"
+"image": "undead/token/dwarf-skeleton-pabtso.webp"
 ```
 ^statblock

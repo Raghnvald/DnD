@@ -8,6 +8,8 @@ statblock: inline
 statblock-link: "#^statblock"
 aliases:
   - Chishinix' Head
+Name: Chishinix' Head
+Image: npc/token/chishinix-head-pabtso.webp
 Typ: Aberration
 Größe: Winzig
 Habitat:
@@ -61,6 +63,6 @@ status: WIP
     "name": "Leech"
 "source":
   - "PaBTSO"
-"image": "chishinix-head-pabtso.webp"
+"image": "npc/token/chishinix-head-pabtso.webp"
 ```
 ^statblock

@@ -24,7 +24,7 @@ The three main rolls of the game—the ability check, the saving throw, and the 
 
 This chapter focuses on how to use ability checks and saving throws, covering the fundamental activities that creatures attempt in the game. Rules for attack rolls appear in chapter 9.
 
-![](/3-Mechanics/CLI/books/players-handbook-2014/img/ch7.webp#center)
+![](players-handbook-2014/img/ch7.webp#center)
 
 ## Ability Scores and Modifiers
 

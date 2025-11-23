@@ -10,8 +10,10 @@ statblock: inline
 statblock-link: "#^statblock"
 aliases:
   - Goblin Boss Archer
+Name: Goblin-Boss-Bogenschütze
+Image: humanoid/token/goblin-boss-archer-pabtso.webp
 ---
-# [Goblin Boss Archer](3-Mechanics\CLI\bestiary\humanoid/goblin-boss-archer-pabtso.md)
+# Goblin Boss Archer
 *Source: Phandelver and Below: The Shattered Obelisk p. 60*  
 
 ```statblock
@@ -61,6 +63,6 @@ aliases:
     "name": "Redirect Attack"
 "source":
   - "PaBTSO"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/goblin-boss-archer-pabtso.webp"
+"image": "humanoid/token/goblin-boss-archer-pabtso.webp"
 ```
 ^statblock

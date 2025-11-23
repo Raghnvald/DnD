@@ -8,6 +8,8 @@ statblock: inline
 statblock-link: "#^statblock"
 aliases:
   - Sildar Hallwinter
+Name: Sildar Hallwinter
+Image: npc/token/sildar-hallwinter-pabtso.webp
 ---
 # Sildar Hallwinter
 *Source: Phandelver and Below: The Shattered Obelisk p. 22*  
@@ -58,6 +60,6 @@ Sildar is a kindhearted human man of nearly fifty years who holds a place of hon
     "name": "Parry"
 "source":
   - "PaBTSO"
-"image": "sildar-hallwinter-pabtso.webp"
+"image": "npc/token/sildar-hallwinter-pabtso.webp"
 ```
 ^statblock

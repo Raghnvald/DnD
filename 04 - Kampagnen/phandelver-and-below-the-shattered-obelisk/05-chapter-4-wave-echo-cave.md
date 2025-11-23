@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-note
 tags:
   - Quelle/5e/pabtso
 aliases:

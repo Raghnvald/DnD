@@ -47,7 +47,7 @@ _Quellen:_ Spielerhandbuch
 | [[Giftmischerwerkzeug]]                                                          |    50 GM |        1,0 kg. |
 | [Giftphiole, einfach](../Gegenstände/Giftphiole-einfach.md)                      |   100 GM |              — |
 | [[Glocke]]                                                                       |     1 GM |              — |
-| [[D&D/05 - Wikipedia/Gegenstände/Hammer]]                                                                       |     1 GM |        1,5 kg. |
+| [[Hammer]]                                                                       |     1 GM |        1,5 kg. |
 | [Hammer, Vorschlaghammer](../Gegenstände/Vorschlaghammer.md)                     |     2 GM |        5,0 kg. |
 | [[Handschellen]]                                                                 |     2 GM |        3,0 kg. |
 | [[Heilerausrüstung]]                                                             |     5 GM |        1,5 kg. |

@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-monster
 tags:
   - Quelle/5e/cos
   - Monster/HG/0
@@ -11,7 +9,7 @@ statblock-link: "#^statblock"
 aliases:
   - Milivoj
 ---
-# [Milivoj](3-Mechanics\CLI\bestiary\npc/milivoj-cos.md)
+# Milivoj
 *Source: Curse of Strahd p. 97*  
 
 ```statblock
@@ -41,6 +39,6 @@ aliases:
     "name": "Shovel"
 "source":
   - "CoS"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/milivoj-cos.webp"
+"image": "npc/token/milivoj-cos.webp"
 ```
 ^statblock

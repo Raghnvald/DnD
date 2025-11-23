@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-item
+Name: Netherese Ring of Protection
 tags:
   - Quelle/5e/pabtso
   - Gegenstand/item/attunement/required

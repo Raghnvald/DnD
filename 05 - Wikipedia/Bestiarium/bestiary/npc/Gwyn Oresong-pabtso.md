@@ -8,6 +8,8 @@ statblock: inline
 statblock-link: "#^statblock"
 aliases:
   - Gwyn Oresong
+Name: Gwyn Oresong
+Image: npc/token/gwyn-oresong-pabtso.webp
 ---
 # Gwyn Oresong
 *Source: Phandelver and Below: The Shattered Obelisk p. 8*  
@@ -56,6 +58,6 @@ aliases:
     "name": "Club"
 "source":
   - "PaBTSO"
-"image": "gwyn-oresong-pabtso.webp"
+"image": "npc/token/gwyn-oresong-pabtso.webp"
 ```
 ^statblock

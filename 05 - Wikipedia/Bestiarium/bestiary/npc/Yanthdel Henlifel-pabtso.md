@@ -8,6 +8,8 @@ statblock: inline
 statblock-link: "#^statblock"
 aliases:
   - Yanthdel Henlifel
+Name: Yanthdel Henlifel
+Image: npc/token/yanthdel-henlifel-pabtso.webp
 ---
 # Yanthdel Henlifel
 *Source: Phandelver and Below: The Shattered Obelisk p. 114*  
@@ -80,6 +82,6 @@ aliases:
     "name": "Parry"
 "source":
   - "PaBTSO"
-"image": "yanthdel-henlifel-pabtso.webp"
+"image": "npc/token/yanthdel-henlifel-pabtso.webp"
 ```
 ^statblock

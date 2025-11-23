@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-monster
 tags:
   - Quelle/5e/pabtso
   - Monster/HG/10
@@ -13,10 +11,12 @@ aliases:
 Habitat:
   - /
 Typ: Aberration
+Name: Encephalon Cluster
+Image: aberration/token/encephalon-cluster-pabtso.webp
 Größe: Groß
 HG: 10
 ---
-# [Encephalon Cluster](3-Mechanics\CLI\bestiary\aberration/encephalon-cluster-pabtso.md)
+# Encephalon Cluster
 *Source: Phandelver and Below: The Shattered Obelisk p. 205*  
 
 An encephalon cluster pays no heed to an elder brain or its mind flayer progenitors. This grotesque creature shambles through dark and forgotten caverns, spewing warped progeny so it can multiply. As such, many mind flayers view encephalon clusters as insidious viruses. If left unchecked, a single encephalon cluster can quickly become a gorging menace that can overrun an entire mind flayer colony.
@@ -80,6 +80,6 @@ When an illithid colony lays its eggs dangerously close to a Far Realm rift, an 
     "name": "Aggressive Hunger"
 "source":
   - "PaBTSO"
-"image": "/3-Mechanics/CLI/bestiary/aberration/token/encephalon-cluster-pabtso.webp"
+"image": "aberration/token/encephalon-cluster-pabtso.webp"
 ```
 ^statblock

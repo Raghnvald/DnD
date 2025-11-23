@@ -1,5 +1,8 @@
 ---
-tags: [Quelle/5e/lmop]
+tags:
+  - Quelle/5e/pabtso
+aliases:
+  - Chapter 1: A Dangerous Journey
 ---
 # <center> Kapitel 1: Eine gefährliche Reise </center>
 Vor mehr als fünfhundert Jahren schlossen Zwergen- und Gnomenstämme einen Pakt, der als Phandelver-Pakt bekannt wurde und durch den sie sich eine reiche Mine in einer wundersamen Höhle namens Wellenechohöhle teilen sollten. Zusätzlich zu ihrem mineralischen Reichtum enthielt die Mine auch große magische Kräfte. Menschliche Zauberer verbündeten sich mit Zwergen und Gnomen, um diese Energie zu kanalisieren und in einer großen Schmiede, der Zauberschmiede, zu binden, in der magische Gegenstände hergestellt werden konnten. Die Zeiten waren gut, und auch die nahe gelegene Stadt Phandalin blühte auf. Doch dann brach das Unheil herein, als Banditen durch den Norden zogen und alles niedermachten, was ihnen in den Weg kam.
@@ -10,12 +13,14 @@ Seit Jahrhunderten locken Gerüchte über vergrabene Reichtümer Schatzsucher un
 
 Kürzlich entdeckte ein Trio von Zwergen - die Brüder Rockseeker - den Eingang zur Wave Echo Cave und will die Minen wieder öffnen. Leider sind die Rockseekers nicht die einzigen, die sich für die Wave Echo Cave interessieren. Ein mysteriöser Schurke, bekannt als die Spinne, kontrolliert ein Netzwerk von Banditen- und Goblinbanden in der Gegend, und seine Agenten sind den Rockseekers zu ihrer Beute gefolgt. Die Spinne will die Wave Echo Cave für sich selbst, und er ergreift Maßnahmen, um sicherzustellen, dass niemand sonst weiß, wo sie sich befindet.
 
+![The road to Phandalin is often dangerous](phandelver-and-below-the-shattered-obelisk/img/008-01-001-ch1-splash.webp#center)
+
 ## Ablauf dieses Kapitels
 Dieses Kapitel beginnt mit einem Hinterhalt der Goblins auf der Straße nach Phandalin und überlässt es den Charakteren, ihre Angreifer zu einem Höhlenversteck zu jagen. Bevor ihr in die Ereignisse des Abenteuers einsteigt, nehmt euch ein paar Minuten Zeit, um das Folgende zu tun:
 
 **Charaktervorstellungen.** Ermuntere die Spieler, sich gegenseitig ihre Charaktere vorzustellen, falls sie das noch nicht getan haben.
 
-**Verbindung zu Gundren.** Bitten Sie die Spieler, darüber nachzudenken, wie ihre Charaktere den Zwerg Gundren Rockseeker kennengelernt haben, falls zutreffend. Lassen Sie die Spieler ihre eigenen Geschichten aushecken. Wenn einem Spieler kaum etwas einfällt, schlagen Sie etwas Einfaches vor. Gundren könnte zum Beispiel ein Freund aus der Kindheit sein oder jemand, der der Spielfigur aus einer schwierigen Situation geholfen hat.
+**Verbindung zu Gundren.** Bitten Sie die Spieler, darüber nachzudenken, wie ihre Charaktere den Zwerg [Gundren Rockseeker](bestiary/npc/gundren%20rockseeker-pabtso.md) kennengelernt haben, falls zutreffend. Lassen Sie die Spieler ihre eigenen Geschichten aushecken. Wenn einem Spieler kaum etwas einfällt, schlagen Sie etwas Einfaches vor. Gundren könnte zum Beispiel ein Freund aus der Kindheit sein oder jemand, der der Spielfigur aus einer schwierigen Situation geholfen hat.
 
 **Details zum Transport.** Frag die Spieler, wie ihre Charaktere reisen werden. Wenn die Charaktere Gundrens Wagen mit Vorräten eskortieren, müssen ein oder zwei Charaktere den Wagen fahren. Der Rest der Charaktere kann auf dem Wagen mitfahren, neben dem Wagen hergehen oder die Umgebung auskundschaften.
 
@@ -27,7 +32,7 @@ Das Abenteuer setzt voraus, dass ihr den Abenteueraufhänger "Wir treffen uns in
 
 Lies den folgenden Text, um das Abenteuer zu beginnen. (Wenn du einen anderen Abenteueraufhänger verwendest, überspringe den zweiten Absatz und passe die Details nach Bedarf an, wobei du die Informationen über das Fahren des Wagens ignorierst).
 
-"Ihr habt eure Abenteurerkarriere in der Stadt Neverwinter begonnen. Ein Zwerg namens Gundren Rockseeker heuerte euch an, um eine Wagenladung Proviant in die raue Siedlung Phandalin zu bringen, die ein paar Tagesreisen südlich der Stadt liegt. Gundren war sichtlich aufgeregt und mehr als nur ein wenig geheimnisvoll, was seine Gründe für die Reise betraf. Er sagte nur, dass er und seine Brüder "etwas Großes" gefunden hätten und dass er euch jeweils zehn Goldstücke dafür zahlen würde, dass ihr seine Vorräte sicher zu Barthen's Provisions, einem Handelsposten in Phandalin, bringt. Daraufhin ritt er zusammen mit einem Krieger namens Sildar Hallwinter vor euch los und behauptete, er müsse früher ankommen, um sich "um Geschäfte zu kümmern".
+"Ihr habt eure Abenteurerkarriere in der Stadt Neverwinter begonnen. Ein Zwerg namens [Gundren Rockseeker](bestiary/npc/gundren%20rockseeker-pabtso.md) heuerte euch an, um eine Wagenladung Proviant in die raue Siedlung Phandalin zu bringen, die ein paar Tagesreisen südlich der Stadt liegt. Gundren war sichtlich aufgeregt und mehr als nur ein wenig geheimnisvoll, was seine Gründe für die Reise betraf. Er sagte nur, dass er und seine Brüder "etwas Großes" gefunden hätten und dass er euch jeweils zehn Goldstücke dafür zahlen würde, dass ihr seine Vorräte sicher zu Barthen's Provisions, einem Handelsposten in Phandalin, bringt. Daraufhin ritt er zusammen mit einem Krieger namens Sildar Hallwinter vor euch los und behauptete, er müsse früher ankommen, um sich "um Geschäfte zu kümmern".
 
 Ihr habt die letzten Tage damit verbracht, der Hohen Straße südlich von Neverwinter zu folgen, und seid erst kürzlich nach Osten auf den Triboar-Pfad abgezweigt. Bislang hattet ihr keine Probleme, aber ihr wisst, dass dieses Gebiet gefährlich sein kann. Banditen und Gesetzlose sind dafür bekannt, dass sie entlang dieser Straße lauern."
 

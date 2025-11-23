@@ -8,6 +8,8 @@ statblock: inline
 statblock-link: "#^statblock"
 aliases:
   - Grandlejaw
+Name: Grandlejaw
+Image: npc/token/grandlejaw-pabtso.webp
 ---
 # Grandlejaw
 *Source: Phandelver and Below: The Shattered Obelisk p. 121*  
@@ -64,6 +66,6 @@ aliases:
     "name": "Bite"
 "source":
   - "PaBTSO"
-"image": "grandlejaw-pabtso.webp"
+"image": "npc/token/grandlejaw-pabtso.webp"
 ```
 ^statblock

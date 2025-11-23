@@ -10,6 +10,8 @@ statblock: inline
 statblock-link: "#^statblock"
 aliases:
   - Brain Breaker
+Name: Gehirnbrecher
+Image: aberration/token/brain-breaker-pabtso.webp
 Typ: Aberration (Gedankenschinder)
 Größe: Groß
 HG: 12
@@ -17,7 +19,7 @@ Habitat:
   - /
 status: WIP
 ---
-# [Brain Breaker](3-Mechanics\CLI\bestiary\aberration/brain-breaker-pabtso.md)
+# Brain Breaker
 *Source: Phandelver and Below: The Shattered Obelisk p. 199*  
 
 Brain breakers look like giant brains with stout legs, and they wear steel armor made from interlocked links of Ilvaash's runes (knots of tentacles, brains, and jagged lines reminiscent of jaws).
@@ -107,6 +109,6 @@ Brain breakers look like giant brains with stout legs, and they wear steel armor
     "name": "Psychic Link"
 "source":
   - "PaBTSO"
-"image": "/3-Mechanics/CLI/bestiary/aberration/token/brain-breaker-pabtso.webp"
+"image": "aberration/token/brain-breaker-pabtso.webp"
 ```
 ^statblock

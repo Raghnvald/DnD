@@ -1,6 +1,14 @@
 ---
 cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
+Name: Aschezombie
+Typ: Untoter
+Größe: Mittelgroß
+HG: 1/4
+Habitat:
+  - /
+status:
+image: undead/token/ash-zombie-pabtso.webp
 tags:
   - Quelle/5e/pabtso
   - Monster/HG/1-4
@@ -10,16 +18,17 @@ statblock: inline
 statblock-link: "#^statblock"
 aliases:
   - Ash Zombie
-Typ: Untoter
 ---
-# [Ash Zombie](3-Mechanics\CLI\bestiary\undead/ash-zombie-pabtso.md)
+# Aschezombie
 *Source: Phandelver and Below: The Shattered Obelisk p. 52*  
 
 ```statblock
-"name": "Ash Zombie (PaBTSO)"
-"size": "Medium"
-"type": "undead"
-"alignment": "Neutral Evil"
+"name": "Aschezombie (PaBTSO)"
+"image": "undead/token/ash-zombie-pabtso.webp"
+"source": "PaBTSO"
+"size": "Mittelgroß"
+"type": "Untoter"
+"alignment": "Neutral Böse"
 "ac": !!int "8"
 "hp": !!int "22"
 "hit_dice": "3d8 + 9"
@@ -33,11 +42,10 @@ Typ: Untoter
   - !!int "5"
 "speed": "20 ft."
 "saves":
-  - "wisdom": !!int "0"
-"damage_immunities": "poison"
-"condition_immunities": "[poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 8"
+  - "Weisheit": !!int "0"
+"damage_immunities": "Gift"
+"condition_immunities": "[Vergiftet](/3-Mechanics/CLI/conditions.md#Poisoned)"
+"senses": "[Dunkelsicht](senses.md#Darkvision) 60 ft., passive Wahrnehmung 8"
 "languages": "understands all languages it spoke in life but can't speak"
 "cr": "1/4"
 "traits":
@@ -52,8 +60,6 @@ Typ: Untoter
   - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4 (1d6\
       \ + 1) bludgeoning damage."
     "name": "Slam"
-"source":
-  - "PaBTSO"
-"image": "/3-Mechanics/CLI/bestiary/undead/token/ash-zombie-pabtso.webp"
+
 ```
 ^statblock

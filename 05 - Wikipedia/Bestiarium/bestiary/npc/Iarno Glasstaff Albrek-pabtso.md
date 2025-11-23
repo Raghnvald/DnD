@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-monster
 tags:
   - Quelle/5e/pabtso
   - Monster/HG/1
@@ -11,6 +9,8 @@ statblock: inline
 statblock-link: "#^statblock"
 aliases:
   - Iarno "Glasstaff" Albrek
+Name: Iarno "Glasstaff" Albrek
+Image: npc/token/iarno-glasstaff-albrek-pabtso.webp
 ---
 # Iarno "Glasstaff" Albrek
 *Source: Phandelver and Below: The Shattered Obelisk p. 43*  
@@ -74,7 +74,7 @@ Glasstaff puts on airs of gentility and courteous manners, addressing his bandit
     "name": "Teleport (2/Day)"
 "source":
   - "PaBTSO"
-"image": "iarno-glasstaff-albrek-pabtso.webp"
+"image": "npc/token/iarno-glasstaff-albrek-pabtso.webp"
 ```
 ^statblock
 

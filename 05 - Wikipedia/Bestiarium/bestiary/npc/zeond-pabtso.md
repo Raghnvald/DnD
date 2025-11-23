@@ -8,6 +8,12 @@ statblock: inline
 statblock-link: "#^statblock"
 aliases:
   - Zeond
+Name: Zeond
+Image: npc/token/zeond-pabtso.webp
+Typ: Unhold (Dämon)
+Habitat:
+  - /
+HG: 1
 ---
 # Zeond
 *Source: Phandelver and Below: The Shattered Obelisk p. 43*  
@@ -73,6 +79,6 @@ aliases:
     "name": "Invisibility"
 "source":
   - "PaBTSO"
-"image": "zeond-pabtso.webp"
+"image": "npc/token/zeond-pabtso.webp"
 ```
 ^statblock

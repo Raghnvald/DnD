@@ -1,5 +1,4 @@
 ---
-cssclasses: json5e-item
 tags:
   - Quelle/5e/dmg
   - Gegenstand/wundersam
@@ -10,7 +9,11 @@ aliases:
 ---
 # Augen der Bezauberung
 *Wundersamer Gegenstand, ungewöhnlich (erfordert Einstimmung)*  
-<img src="Gegenstände/Augen-der-Bezauberung.webp" align="right" width="150">
+<div align="right">
+<img src="Augen-der-Bezauberung.webp" width="150">
+</div>
+
+![](Augen-der-Bezauberung.webp)
 
 - **Eigenschaften**: Erfordert Einstimmung
 - **Cost**: 3.000 Goldmünzen

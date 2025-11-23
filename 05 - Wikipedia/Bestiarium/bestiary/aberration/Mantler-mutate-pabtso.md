@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-monster
 tags:
   - Quelle/5e/pabtso
   - Monster/HG/10
@@ -14,8 +12,10 @@ Größe: Groß
 HG: 10
 Typ: Aberration
 status: WIP
+Name: Mantler-mutate
+Image: aberration/token/cloaker-mutate-pabtso.webp
 ---
-# [Cloaker Mutate](3-Mechanics\CLI\bestiary\aberration/cloaker-mutate-pabtso.md)
+# Cloaker Mutate
 *Source: Phandelver and Below: The Shattered Obelisk p. 212*  
 
 The malign energy of the Far Realm causes a cloaker to merge with the rotted corpse of its last meal, resulting in a hideous puppeteering Aberration. The cloaker mutate shrouds its actions in a miasma of phantasmic duplicates. It uses the corpse melded to its underside to absorb damage and to strike at prey.
@@ -93,6 +93,6 @@ Mutates often gain psionic abilities, grow wings, become covered in otherworldly
     "name": "Psychic Moan (Recharge 6)"
 "source":
   - "PaBTSO"
-"image": "/3-Mechanics/CLI/bestiary/aberration/token/cloaker-mutate-pabtso.webp"
+"image": "aberration/token/cloaker-mutate-pabtso.webp"
 ```
 ^statblock

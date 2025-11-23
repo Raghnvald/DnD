@@ -1,6 +1,9 @@
 ---
-tags: [Quelle/5e/dmg]
+
+tags:
+  - Quelle/5e/dmg
 kanban-plugin: board
+
 ---
 
 ## ![[../../99 - Setup/Sammlungen/Files/Bildersammlung/Symbolik/RandomGensTitleBar.webp]]

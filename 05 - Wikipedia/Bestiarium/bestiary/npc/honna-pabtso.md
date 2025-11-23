@@ -8,6 +8,8 @@ statblock: inline
 statblock-link: "#^statblock"
 aliases:
   - Honna
+Name: Honna
+Image: npc/token/honna-pabtso.webp
 ---
 # Honna
 *Source: Phandelver and Below: The Shattered Obelisk p. 110*  
@@ -77,6 +79,6 @@ aliases:
     "name": "Longbow"
 "source":
   - "PaBTSO"
-"image": "honna-pabtso.webp"
+"image": "npc/token/honna-pabtso.webp"
 ```
 ^statblock

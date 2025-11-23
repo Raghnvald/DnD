@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-monster
 tags:
   - Quelle/5e/cos
   - Monster/HG/1
@@ -11,7 +9,7 @@ statblock-link: "#^statblock"
 aliases:
   - Majesto
 ---
-# [Majesto](3-Mechanics\CLI\bestiary\npc/majesto-cos.md)
+# Majesto
 *Source: Curse of Strahd p. 115*  
 
 ```statblock
@@ -75,6 +73,6 @@ aliases:
     "name": "Invisibility"
 "source":
   - "CoS"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/majesto-cos.webp"
+"image": "npc/token/majesto-cos.webp"
 ```
 ^statblock

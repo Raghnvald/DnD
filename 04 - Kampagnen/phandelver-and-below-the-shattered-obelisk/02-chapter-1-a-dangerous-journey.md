@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-note
 tags:
   - Quelle/5e/pabtso
 aliases:
@@ -17,14 +15,14 @@ For centuries, rumors of buried riches have attracted treasure seekers and oppor
 
 Recently, a trio of dwarves—the Rockseeker brothers—discovered the entrance to Wave Echo Cave, and they intend to reopen the mines. Unfortunately for the Rockseekers, they aren't the only ones interested in Wave Echo Cave. A mysterious villain known as the Spider controls a network of bandit gangs and goblin bands in the area, and his agents followed the Rockseekers to their prize. The Spider wants Wave Echo Cave for himself, and he's taking steps to make sure no one else knows where it is.
 
-![The road to Phandalin is often dangerous](/3-Mechanics/CLI/adventures/phandelver-and-below-the-shattered-obelisk/img/008-01-001-ch1-splash.webp#center)
+![The road to Phandalin is often dangerous](phandelver-and-below-the-shattered-obelisk/img/008-01-001-ch1-splash.webp#center)
 
 ## Running This Chapter
 
 This chapter begins with a goblin ambush on the road to Phandalin, leaving it up to the characters to chase their attackers to a cave lair. Before getting into the adventure's events, take a few minutes to do the following:
 
 - **Character Introductions.** Encourage the players to introduce their characters to each other if they haven't done so already.  
-- **Connection to Gundren.** Ask the players to think about how their characters came to know the dwarf [Gundren Rockseeker](/3-Mechanics/CLI/bestiary/npc/gundren-rockseeker-pabtso.md), if applicable. Let the players concoct their own stories. If a player is hard-pressed to think of anything, suggest something simple. For example, Gundren could be a childhood friend or someone who helped the player's character escape a tough situation.  
+- **Connection to Gundren.** Ask the players to think about how their characters came to know the dwarf [Gundren Rockseeker](bestiary/npc/gundren%20rockseeker-pabtso.md), if applicable. Let the players concoct their own stories. If a player is hard-pressed to think of anything, suggest something simple. For example, Gundren could be a childhood friend or someone who helped the player's character escape a tough situation.  
 - **Transportation Details.** Ask the players how their characters are traveling. If the characters are escorting Gundren's wagonload of supplies, then one or two characters need to be driving the wagon. The rest of the characters can be riding on the wagon, walking alongside it, or scouting ahead.  
 
 ### Character Advancement
@@ -39,24 +37,24 @@ Read the following text to get the adventure started. (If you're using another a
 
 > [!readaloud] 
 > 
-> You began your adventuring career in the city of Neverwinter. A dwarf named [Gundren Rockseeker](/3-Mechanics/CLI/bestiary/npc/gundren-rockseeker-pabtso.md) hired you to bring a wagonload of provisions to the rough-and-tumble settlement of Phandalin, a couple of days' travel south of the city. Gundren was clearly excited and more than a little secretive about his reasons for the trip, saying only that he and his brothers had found "something big," and that he'd pay you ten gold pieces each for escorting his supplies safely to Barthen's Provisions, a trading post in Phandalin. He then set out ahead of you on horse, along with a warrior escort named [Sildar Hallwinter](/3-Mechanics/CLI/bestiary/npc/sildar-hallwinter-pabtso.md), claiming he needed to arrive early to "take care of business."
+> You began your adventuring career in the city of Neverwinter. A dwarf named [Gundren Rockseeker](bestiary/npc/gundren%20rockseeker-pabtso.md) hired you to bring a wagonload of provisions to the rough-and-tumble settlement of Phandalin, a couple of days' travel south of the city. Gundren was clearly excited and more than a little secretive about his reasons for the trip, saying only that he and his brothers had found "something big," and that he'd pay you ten gold pieces each for escorting his supplies safely to Barthen's Provisions, a trading post in Phandalin. He then set out ahead of you on horse, along with a warrior escort named [Sildar Hallwinter](bestiary/npc/sildar%20hallwinter-pabtso.md), claiming he needed to arrive early to "take care of business."
 > 
 > You've spent the last few days following the High Road south from Neverwinter, and you've just recently veered east along the Triboar Trail. You've had no trouble so far, but you know this territory can be dangerous. Bandits and outlaws have been known to lurk along this road.
 ^027
 
 ### Driving the Wagon
 
-Any character can drive a wagon, and no skill is necessary. Two oxen pull the [wagon](/3-Mechanics/CLI/items/wagon-xphb.md). If no one is holding the reins, the oxen stop where they are.
+Any character can drive a wagon, and no skill is necessary. Two oxen pull the [wagon](Gegenstände/wagon-xphb.md). If no one is holding the reins, the oxen stop where they are.
 
-The wagon is packed full of an assortment of mining supplies and food. This includes a dozen sacks of flour; several casks of salted pork; two kegs of strong ale; [shovels](/3-Mechanics/CLI/items/shovel-xphb.md), [picks](/3-Mechanics/CLI/items/miners-pick.md), and [crowbars](/3-Mechanics/CLI/items/crowbar-xphb.md) (about a dozen each); and five lanterns with a small barrel of oil (about fifty [flasks](/3-Mechanics/CLI/items/oil-xphb.md) in volume). The total value of the cargo is 100 gp.
+The wagon is packed full of an assortment of mining supplies and food. This includes a dozen sacks of flour; several casks of salted pork; two kegs of strong ale; [shovels](Gegenstände/shovel-xphb.md), [picks](Gegenstände/miners-pick.md), and [crowbars](Gegenstände/crowbar-xphb.md) (about a dozen each); and five lanterns with a small barrel of oil (about fifty [flasks](Gegenstände/oil-xphb.md) in volume). The total value of the cargo is 100 gp.
 
 ### Goblin Ambush
 
 Several hours after the characters turn onto Triboar Trail (shown on the map in the introduction), they reach the area shown on map 1.1.
 
 > [!gallery]
-> ![Map 1.1: Goblin Ambush](/3-Mechanics/CLI/adventures/phandelver-and-below-the-shattered-obelisk/img/009-map-1-01-goblin-ambush.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/phandelver-and-below-the-shattered-obelisk/img/010-map-1-01-goblin-ambush-player.webp#gallery)
+> ![Map 1.1: Goblin Ambush](phandelver-and-below-the-shattered-obelisk/img/009-map-1-01-goblin-ambush.webp#gallery)
+> ![Player Version](phandelver-and-below-the-shattered-obelisk/img/010-map-1-01-goblin-ambush-player.webp#gallery)
 
 Read the boxed text below to start the encounter:
 
@@ -65,7 +63,7 @@ Read the boxed text below to start the encounter:
 > You've been on the Triboar Trail for about half a day and are nearing a side road leading south toward Phandalin. As you come around a bend, you stumble upon the scene of a recent battle. The woods press close to the trail here, with a steep embankment and dense thickets on either side. Two horses wander the road, sniffing at ransacked personal effects.
 ^02a
 
-The site is littered with arrows, torn scraps of fabric, and odds and ends discarded from Gundren's bags when the goblins were looking for the map. If you're using the "Meet Me in Phandalin" adventure hook, any character who approaches the scene identifies the horses as belonging to [Gundren Rockseeker](/3-Mechanics/CLI/bestiary/npc/gundren-rockseeker-pabtso.md) and [Sildar Hallwinter](/3-Mechanics/CLI/bestiary/npc/sildar-hallwinter-pabtso.md). It's up to the players to decide whether to bring the horses with them. When the characters inspect the scene closer, read the following:
+The site is littered with arrows, torn scraps of fabric, and odds and ends discarded from Gundren's bags when the goblins were looking for the map. If you're using the "Meet Me in Phandalin" adventure hook, any character who approaches the scene identifies the horses as belonging to [Gundren Rockseeker](bestiary/npc/gundren%20rockseeker-pabtso.md) and [Sildar Hallwinter](bestiary/npc/sildar%20hallwinter-pabtso.md). It's up to the players to decide whether to bring the horses with them. When the characters inspect the scene closer, read the following:
 
 > [!readaloud] 
 > 
@@ -84,7 +82,7 @@ The characters might capture one or more goblins by knocking them [unconscious](
 
 The characters might not find the goblin trail, or they could decide to continue to Phandalin. In that case, skip to chapter 2. Elmina Barthen (the owner of Barthen's Provisions) seeks out the characters and informs them that [Gundren Rockseeker](/3-Mechanics/CLI/bestiary/npc/gundren-rockseeker-pabtso.md) never arrived. She recounts the goblin troubles and suggests the characters return to the ambush site to investigate further (after they rest). Barthen also tells the party that Linene Graywind of the Lionshield Coster (see "Town Description" in chapter 2) can provide more information on the goblin attacks.
 
-![The Cragmaw goblins love a...](/3-Mechanics/CLI/adventures/phandelver-and-below-the-shattered-obelisk/img/011-01-002-cragmaw-goblin-ambush.webp#center "The Cragmaw goblins love ambushing unsuspecting travelers in the wilderness")
+![The Cragmaw goblins love a...](phandelver-and-below-the-shattered-obelisk/img/011-01-002-cragmaw-goblin-ambush.webp#center "The Cragmaw goblins love ambushing unsuspecting travelers in the wilderness")
 
 ### What the Cragmaws Know
 
@@ -156,8 +154,8 @@ Areas of crumbling rock and gravel are "difficult terrain".
 The following locations are keyed to map 1.2.
 
 > [!gallery]
-> ![Map 1.2: Cragmaw Hideout](/3-Mechanics/CLI/adventures/phandelver-and-below-the-shattered-obelisk/img/012-map-1-02-cragmaw-hideout.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/phandelver-and-below-the-shattered-obelisk/img/013-map-1-02-cragmaw-hideout-player.webp#gallery)
+> ![Map 1.2: Cragmaw Hideout](phandelver-and-below-the-shattered-obelisk/img/012-map-1-02-cragmaw-hideout.webp#gallery)
+> ![Player Version](phandelver-and-below-the-shattered-obelisk/img/013-map-1-02-cragmaw-hideout-player.webp#gallery)
 
 #### H1: Cave Mouth
 

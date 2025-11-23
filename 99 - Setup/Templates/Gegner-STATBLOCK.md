@@ -1,12 +1,12 @@
 cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
-Bezeichnung: 
-Typ: Bestie
+Name: 
+Typ: 
 Größe: 
 HG: 
+Habitat:
+  - 
 status:
-order:
-parent:
 image: 
 tags:
 - Quelle/QUELLE
@@ -18,8 +18,9 @@ aliases:
 ---
 ```statblock
 layout: Basic 5e German Layout 2024
-image: 
 name: 
+image: 
+source:
 size: 
 type: 
 subtype: 

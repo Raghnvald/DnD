@@ -8,6 +8,8 @@ statblock: inline
 statblock-link: "#^statblock"
 aliases:
   - Hashutu
+Name: Hashutu
+Image: npc/token/hashutu-pabtso.webp
 ---
 # Hashutu
 *Source: Phandelver and Below: The Shattered Obelisk p. 194*  
@@ -99,6 +101,6 @@ aliases:
     "name": "Warp Reality"
 "source":
   - "PaBTSO"
-"image": "hashutu-pabtso.webp"
+"image": "npc/token/hashutu-pabtso.webp"
 ```
 ^statblock

@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-monster
 tags:
   - Quelle/5e/pabtso
   - Monster/HG/5
@@ -10,8 +8,10 @@ statblock: inline
 statblock-link: "#^statblock"
 aliases:
   - Nythalyn Henlifel
+Name: Nythalyn Henlifel
+Image: npc/token/nythalyn-henlifel-pabtso.webp
 ---
-# [Nythalyn Henlifel](3-Mechanics\CLI\bestiary\npc/nythalyn-henlifel-pabtso.md)
+# Nythalyn Henlifel
 *Source: Phandelver and Below: The Shattered Obelisk p. 114*  
 
 ```statblock
@@ -82,6 +82,6 @@ aliases:
     "name": "Parry"
 "source":
   - "PaBTSO"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/nythalyn-henlifel-pabtso.webp"
+"image": "npc/token/nythalyn-henlifel-pabtso.webp"
 ```
 ^statblock

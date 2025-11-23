@@ -1,33 +1,23 @@
 ---
-cssclasses: json5e-item
-Bezeichnung: Blasrohr
-Typ: Fernkampf-Kriegswaffe
-RW: 7,5m / 30m
-Schaden: 1
-Schadensart: Stichschaden
-Eigenschaften: Geschosse, Nachladen
-Kst.: 10 GM
-Gew.: 0,5 kg.
+obsidianUIMode: preview
+cssclasses:
+- json5e-item
 tags:
-  - Quelle/5e/phb
-  - Gegenstand/Waffe/Fernkampf/Kriegswaffe
-  - Gegenstand/Seltenheit/gewöhnlich
-  - Gegenstand/Eigenschaft/Kriegswaffe
-  - Gegenstand/Eigenschaft/Nachladen
-  - Gegenstand/Eigenschaft/Munition
-aliases:
-  - Blowgun
+- Quelle/5e/phb
+- Gegenstand/Seltenheit/keine
+- Gegenstand/item/weapon/martial
+- Gegenstand/item/weapon/ranged
+aliases: 
+- "Blowgun"
 ---
-# `=this.Bezeichnung`
-*Fernkampf-Kriegswaffe, gewöhnlich*  
-<img src="Symbolik/Gegenstände.webp" align="right" width="150">
+# Blowgun
+*Weapon*  
 
-- **Angriffsart:** `=this.Typ`
-- **Reichweite:** `=this.RW`
-- **Schaden:** `=this.Schaden`
-- **Schadensart:** `=this.Schadensart`
-- **Eigenschaften:** `=this.Eigenschaften`
-- **Kosten:** `=this.Kosten`
-- **Gewicht:** `=this.Gewicht`
 
-*Quelle: SRD / Grundregelwerk*
+- **Damage**: 1 piercing
+- **Range**: 25/100
+- **Properties**: [Ammunition](/3-Mechanics/CLI/item-properties.md#Ammunition), [Loading](/3-Mechanics/CLI/item-properties.md#Loading)
+- **Cost**: 10 gp
+- **Weight**: 1.0 lbs.
+
+*Source: Player's Handbook p. 149. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

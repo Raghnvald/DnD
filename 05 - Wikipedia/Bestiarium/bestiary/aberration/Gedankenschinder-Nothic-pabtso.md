@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-monster
 tags:
   - Quelle/5e/pabtso
   - Monster/HG/2
@@ -10,8 +8,10 @@ statblock: inline
 statblock-link: "#^statblock"
 aliases:
   - Mind Flayer Nothic
+Name: Gedankenschinder-Nothic
+Image: aberration/token/mind-flayer-nothic-pabtso.webp
 ---
-# [Mind Flayer Nothic](3-Mechanics\CLI\bestiary\aberration/mind-flayer-nothic-pabtso.md)
+# Mind Flayer Nothic
 *Source: Phandelver and Below: The Shattered Obelisk p. 155*  
 
 A nothic is a monstrous creature with terrible talons and a single great eye. When driven to violence, it uses its horrific gaze to rot the flesh from its enemies' bones.
@@ -70,6 +70,6 @@ A nothic is a monstrous creature with terrible talons and a single great eye. Wh
     "name": "Weird Insight"
 "source":
   - "PaBTSO"
-"image": "/3-Mechanics/CLI/bestiary/aberration/token/mind-flayer-nothic-pabtso.webp"
+"image": "aberration/token/mind-flayer-nothic-pabtso.webp"
 ```
 ^statblock

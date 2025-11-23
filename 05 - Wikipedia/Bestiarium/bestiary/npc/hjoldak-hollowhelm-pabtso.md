@@ -10,8 +10,10 @@ statblock: inline
 statblock-link: "#^statblock"
 aliases:
   - Hjoldak Hollowhelm
+Name: Hjoldak Hollowhelm
+Image: npc/token/hjoldak-hollowhelm-pabtso.webp
 ---
-# [Hjoldak Hollowhelm](3-Mechanics\CLI\bestiary\npc/hjoldak-hollowhelm-pabtso.md)
+# Hjoldak Hollowhelm
 *Source: Phandelver and Below: The Shattered Obelisk p. 93*  
 
 ```statblock
@@ -70,6 +72,6 @@ aliases:
     "name": "Spellcasting (Psionics)"
 "source":
   - "PaBTSO"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/hjoldak-hollowhelm-pabtso.webp"
+"image": "npc/token/hjoldak-hollowhelm-pabtso.webp"
 ```
 ^statblock

@@ -1,5 +1,6 @@
 ---
-tags: [Quelle/5e/dmg]
+tags:
+  - Quelle/5e/dmg
 Feet: 80
 Meter: 0
 ---

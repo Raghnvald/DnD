@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-monster
 tags:
   - Quelle/5e/pabtso
   - Monster/HG/1-2
@@ -10,9 +8,11 @@ statblock: inline
 statblock-link: "#^statblock"
 aliases:
   - Redbrand Ruffian
+Name: Rotbrenner-Schläger
+Image: humanoid/token/redbrand-ruffian-pabtso.webp
 ---
-# [Redbrand Ruffian](3-Mechanics\CLI\bestiary\humanoid/redbrand-ruffian-pabtso.md)
-*Source: Phandelver and Below: The Shattered Obelisk p. 216*  
+# Rotbrenner-Schläger
+*Quellen: Die Tiefen von Phandelver: Der zersplitterte Obelisk S. 216*  
 
 Redbrand ruffians are ruthless enforcers skilled at intimidation and violence. They work for money and have no scruples.
 
@@ -46,6 +46,40 @@ Redbrand ruffians are ruthless enforcers skilled at intimidation and violence. T
     "name": "Shortsword"
 "source":
   - "PaBTSO"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/redbrand-ruffian-pabtso.webp"
+"image": "humanoid/token/redbrand-ruffian-pabtso.webp"
+```
+^statblock
+
+---
+
+```statblock
+name: Rotbrenner-Schläger (PaBTSO)
+image: humanoid/token/redbrand-ruffian-pabtso.webp
+source: PaBTSO
+size: Mittelgroß
+type: Humanoid
+alignment: normalerweise Neutral Böse
+ac: 11
+ac_class: [[Gegenstände/leather-armor-xphb.md|leather armor]]
+hp: 16
+hit_dice: 3d8 + 3
+modifier: 0
+stats:
+  - 14
+  - 10
+  - 12
+  - 9
+  - 9
+  - 11
+speed: 30 ft.
+skillsaves:
+  - name: [[skills.md#Intimidation|Intimidation]]
+    desc: "+2"
+senses: passive Wahrnehmung 9
+languages: Gemeinsprache
+cr: 1/2
+actions:
+  - name: Kurzschwert
+    desc: "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6 + 2) piercing damage."
 ```
 ^statblock

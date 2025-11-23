@@ -10,8 +10,10 @@ statblock: inline
 statblock-link: "#^statblock"
 aliases:
   - Feral Ashenwight
+Name: Feral Ashenwight
+Image: undead/token/feral-ashenwight-pabtso.webp
 ---
-# [Feral Ashenwight](3-Mechanics\CLI\bestiary\undead/feral-ashenwight-pabtso.md)
+# Feral Ashenwight
 *Source: Phandelver and Below: The Shattered Obelisk p. 204*  
 
 Feral ashenwights retain a fragment of the spark they had in life. However, they are devoid of memories or thoughts beyond a compulsive desire to destroy all living creatures they encounter.
@@ -59,6 +61,6 @@ When a Humanoid consumed by cruelty and rage dies in an area corrupted by the Fa
     "name": "Necrotic Shard"
 "source":
   - "PaBTSO"
-"image": "/3-Mechanics/CLI/bestiary/undead/token/feral-ashenwight-pabtso.webp"
+"image": "undead/token/feral-ashenwight-pabtso.webp"
 ```
 ^statblock

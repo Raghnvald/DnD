@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-monster
 tags:
   - Quelle/5e/pabtso
   - Monster/HG/8
@@ -10,8 +8,10 @@ statblock: inline
 statblock-link: "#^statblock"
 aliases:
   - Intellect Snare
+Name: Intellektfalle
+Image: aberration/token/intellect-snare-pabtso.webp
 ---
-# [Intellect Snare](3-Mechanics\CLI\bestiary\aberration/intellect-snare-pabtso.md)
+# Intellect Snare
 *Source: Phandelver and Below: The Shattered Obelisk p. 208*  
 
 When the strange horrors of the Far Realm rip at the minds of individuals, some of those wayward shreds of thought conglomerate to form an intellect snare. An intellect snare appears as a writhing ball of tentacles, echoing with the cacophonous sounds of every thought the snare has consumed.
@@ -73,6 +73,6 @@ Intellect snares are scavengers, often found scouring the aftermath of a mind fl
     "name": "Siphon Thoughts"
 "source":
   - "PaBTSO"
-"image": "/3-Mechanics/CLI/bestiary/aberration/token/intellect-snare-pabtso.webp"
+"image": "aberration/token/intellect-snare-pabtso.webp"
 ```
 ^statblock

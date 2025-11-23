@@ -1,12 +1,19 @@
 ---
-tags: [Quelle/5e/lmop]
+tags:
+  - Quelle/5e/pabtso
+aliases:
+  - Chapter 3: The Spider's Web
 ---
 # <center>Teil 3: Das Netz der Spinne</center>
 In diesem Teil des Abenteuers folgen die Charaktere offenen Hinweisen und Fährten. Sie können in Phandalin nicht mehr viel in Erfahrung bringen, also müssen sie in die Wälder und Hügel im Umland der Stadt ziehen, um die größeren Intrigen aufzudecken, in die sie verwickelt worden sind. Die Charaktere müssen nicht jeden Ort in diesem Abschnitt besuchen.
 
+![The banshee Agatha brooks ...](phandelver-and-below-the-shattered-obelisk/img/034-03-001-ch3-splash.webp#center "The banshee Agatha brooks no disrespect or threats in her home")
+
+## The Story So Far
+
 $\quad$Abhängig davon, welche NSC die Charaktere treffen und welche Questen oder Hinweise sie verfolgen, kennen sie wahrscheinlich einige oder alle der folgenden Informationen:
 
-**Die Todesfee.** Schwester Garaele will, dass die Charaktere die [[D&D/05 - Wikipedia/Bestiarium/S-T/Todesfee]] Agatha in der Ruinenstadt Conyberry aufsuchen und sie nach Beugsanfts (Bowgentle) Zauberbuch fragen.
+**Die Todesfee.** Schwester Garaele will, dass die Charaktere die [[bestiary/undead/Todesfee|Todesfee]] Agatha in der Ruinenstadt Conyberry aufsuchen und sie nach Beugsanfts (Bowgentles) Zauberbuch fragen.
 
 **Alter Eulenbrunnen.** Daran Edermath will, dass die Charaktere herausfinden, wer sich in der Nähe der Ruinen des Alten Eulenbrunnens herumtreibt.
 
@@ -14,7 +21,7 @@ $\quad$Abhängig davon, welche NSC die Charaktere treffen und welche Questen ode
 
 **Wyvernkuppe.** Stadtvorsteher Harbin Wester will, dass die Charaktere ein Orklager in der Nähe der Wyvernkuppe aufsuchen und die Orks aus der Gegend vertreiben.
 
-**Burg Cragmaw** Sildar Hallwinter will, dass die Charaktere Burg Cragmaw finden und Gundren Felssucher suchen, den Zwerg retten und seine Karte bergen.
+**Burg Cragmaw** [[Sildar Hallwinter-pabtso|Sildar Hallwinter]] will, dass die Charaktere Burg Cragmaw finden und [[Gundren Rockseeker-pabtso|Gundren Rockseeker]] suchen, den Zwerg retten und seine Karte bergen.
 
 All diese möglichen Questen haben ihren eigenen Abschnitt in diesem Teil des Abenteuers. Die Charaktere können lange genug in Phandalin bleiben, um sich zu erholen und Vorräte zu erwerben. Wenn sie fertig sind, lass sie eine Geschichte wählen, der sie folgen wollen, und mach mit dem entsprechenden Ort weiter.
 
@@ -33,6 +40,9 @@ Gehe davon aus, dass die Charaktere im Verlauf von zehn Stunden 36 Kilometer zur
 Angenommen, die Gruppe reist 24 Meilen pro Tag über einen Zeitraum von 10 Stunden. Die Charaktere müssen sich 8 Stunden pro Tag ausruhen, während die restlichen 6 Stunden für den Auf- und Abbau des Lagers, die Zubereitung von Mahlzeiten und die Nahrungssuche oder die Jagd zur Verfügung stehen.
 
 ### Begegnungen in der Wildnis
+
+![The Triboar Trail is full ...](phandelver-and-below-the-shattered-obelisk/img/035-03-002-triboar-trail.webp#center "The Triboar Trail is full of dangers, including hungry owlbears")
+
 Fordere die Spieler auf, die Marschreihenfolge der Gruppe festzulegen, sodass du weißt, welche Charaktere an der Spitze sind und welche am Ende. Wenn die Gruppe kampiert, frage, welche Charaktere Wache halten. Diese Informationen sind wichtig, wenn die Gruppe auf etwas Gefährliches stößt.
 
 $\quad$Der Dreieber-Pfad ist nicht sicher. Wenn die Abenteurer durch diese Region reisen, stolpern sie vielleicht über hungrige Tiere, gierige Banditen oder wilde Monster. Überprüfe einmal pro Tag und einmal pro Nacht, ob es zu einer Begegnung kommt, indem du einen `W20` wirfst. Bei einer 17-20 kommt es zu einer Begegnung. Wirf einen `W12` und schau in der Wildnisbegegnungen-Tabelle nach, um zu bestimmen, was die Abenteurergruppe trifft.
@@ -44,28 +54,28 @@ $\quad$Wenn es zu einer Begegnung kommt, erhalten die Abenteuer EP, wenn sie die
 | Wurf bei Tag | Wurf bei Nacht | Ergebnis                                       |
 | ------------ | -------------- | ---------------------------------------------- |
 | 1-2          | 1-3            | `1W4 + 2` [[Blutmücke\|Blutmücken]]           |
-| -            | 4              | `1W4 + 1` [[Ghul-old\|Ghule]]                     |
-| 3-4          | -              | 1 [[D&D/05 - Wikipedia/Bestiarium/O-P/Oger]]                              |
-| 5-6          | 5              | Cragmaw [[D&D/05 - Wikipedia/Bestiarium/G-H/Goblin]]-Bande              |
-| 7-8          | 6              | [[Hobgoblin (Legacy)]]-Trupp               |
-| 9-10         | 7-8            | [[Grottenschrat (Legacy)]]-Kundschafter |
-| 11           | 9-10           | `1W4 + 2` [[D&D/05 - Wikipedia/Bestiarium/W-X/Wolf\|Wölfe]]                     |
-| 12           | 11-12          | 1 [[Eulenbär-old]]                      |
+| -            | 4              | `1W4 + 1` [[Ghul\|Ghule]]                     |
+| 3-4          | -              | 1 [[Oger\|Oger]]                              |
+| 5-6          | 5              | Cragmaw [[humanoid/Goblin\|Goblin]]-Bande              |
+| 7-8          | 6              | [[humanoid/Hobgoblin\|Hobgoblin]]-Trupp               |
+| 9-10         | 7-8            | [[humanoid/Grottenschrat\|Grottenschrat]]-Kundschafter |
+| 11           | 9-10           | `1W4 + 2` [[beast/Wolf\|Wölfe]]                     |
+| 12           | 11-12          | 1 [[Eulenbär]]                      |
 
 ##### Cragmaw Goblin-Bande
-Diese Bande von Cragmaw-Marodeuren besteht aus `2W4` [[D&D/05 - Wikipedia/Bestiarium/G-H/Goblin|Goblins]], die von einem [[Goblin-Boss (Legacy)]] angeführt werden. Sie kennen den Standort der Burg Cragmaw und können den Weg weisen, wenn sie gefangen genommen und bedroht werden. Der Boss hat einen Beutel, der `1W10` <font color="#B87333">Kupfermünzen</font> und `1W10` <font color="Silver">Silbermünzen</font> enthält.
+Diese Bande von Cragmaw-Marodeuren besteht aus `2W4` [[Humanoid/Goblin|Goblins]], die von einem [[Humanoid/Goblin-Boss|Goblin-Boss]] angeführt werden. Sie kennen den Standort der Burg Cragmaw und können den Weg weisen, wenn sie gefangen genommen und bedroht werden. Der Boss hat einen Beutel, der `1W10` <font color="#B87333">Kupfermünzen</font> und `1W10` <font color="Silver">Silbermünzen</font> enthält.
 
 ##### Hobgoblin-Trupp
-Dieser Trupp von `1W4 + 3` [[Hobgoblin (Legacy)|Hobgoblins]] ist auf der Suche nach den Abenteurern, in der Hoffnung, ein von der Spinne ausgesetztes Kopfgeld zu kassieren. Einer der Hobgoblins trägt eine grob gezeichnete Skizze eines Gruppenmitglieds bei sich, auf der „25 Goldstücke für diesen hier“ und das Symbol einer Spinne gekritzelt sind.
+Dieser Trupp von `1W4 + 3` [[Humanoid/Hobgoblin|Hobgoblins]] ist auf der Suche nach den Abenteurern, in der Hoffnung, ein von der Spinne ausgesetztes Kopfgeld zu kassieren. Einer der Hobgoblins trägt eine grob gezeichnete Skizze eines Gruppenmitglieds bei sich, auf der „25 Goldstücke für diesen hier“ und das Symbol einer Spinne gekritzelt sind.
 
 ##### Grottenschrat-Kundschafter
-Diese beiden [[Grottenschrat (Legacy)|Grottenschrate]] gehören zu der Gruppe, die am Wyvern-Tor stationiert ist. Wenn sie umherziehen, suchen sie nach Reisenden, die sie überfallen können.
+Diese beiden [[humanoid/Grottenschrat|Grottenschrate]] gehören zu der Gruppe, die am Wyvern-Tor stationiert ist. Wenn sie umherziehen, suchen sie nach Reisenden, die sie überfallen können.
 
 ## Conyberry und Agathas Behausung
-Das Städtchen Conyberry wurde vor Jahren von Barbaren geplündert und ist dabei zerstört worden. Der Dreieber-Pfad verläuft genau durch die verlassene Siedlung, sodass diese eine leichte Wegmarke darstellt, wenn man die Behausung der [[D&D/05 - Wikipedia/Bestiarium/S-T/Todesfee]] Agatha finden möchte. Von den Ruinen von Conyberry aus führt ein alter Pfad nach Nordwesten in den Niewinterwald. Agathas Behausung liegt einige Kilometer außerhalb der Stadt.
+Das Städtchen Conyberry wurde vor Jahren von Barbaren geplündert und ist dabei zerstört worden. Der Dreieber-Pfad verläuft genau durch die verlassene Siedlung, sodass diese eine leichte Wegmarke darstellt, wenn man die Behausung der [[Undead/Todesfee|Todesfee]] Agatha finden möchte. Von den Ruinen von Conyberry aus führt ein alter Pfad nach Nordwesten in den Niewinterwald. Agathas Behausung liegt einige Kilometer außerhalb der Stadt.
 
 
-Die Stadt Conyberry ist seit Jahren verlassen und liegt in Trümmern. Der Triboar-Pfad führt durch die verlassene Stadt und ist ein guter Anhaltspunkt, um das Versteck der [[D&D/05 - Wikipedia/Bestiarium/S-T/Todesfee]] Agatha zu finden. Von den Ruinen von Conyberry führt ein alter Pfad nach Nordwesten in den Neverwinter-Wald. Agathas Versteck liegt ein paar Meilen außerhalb der Stadt.
+Die Stadt Conyberry ist seit Jahren verlassen und liegt in Trümmern. Der Triboar-Pfad führt durch die verlassene Stadt und ist ein guter Anhaltspunkt, um das Versteck der [[Undead/Todesfee|Todesfee]] Agatha zu finden. Von den Ruinen von Conyberry führt ein alter Pfad nach Nordwesten in den Neverwinter-Wald. Agathas Versteck liegt ein paar Meilen außerhalb der Stadt.
 
 > Der Wald wird dunkel und leise, als sich der Pfad tiefer zwischen die Bäume schlängelt. Schwere Ranken und dichte Moosschichten hängen an den Zweigen, und die Luft ist merklich kühler als sie es in dem zerstörten Dorf war. Als ihr um eine Biegung auf dem Pfad kommt, seht ihr einen Sichtschirm, der aus den verzerrten Zweigen von nahe beieinander stehenden Bäumen besteht, die zu einer kuppelartigen Zuflucht in den Schatten verwoben sind. Eine niedrige Tür führt ins Innere.
 
@@ -80,7 +90,7 @@ Agatha spürt das Eindringen der Charaktere und manifestiert sich kurz nachdem s
 Wenn die Charaktere unhöflich, respektlos oder bedrohlich auftreten, dann verzieht Agatha das Gesicht und verschwindet. Sie greift nicht an, und sie taucht auch nicht wieder auf, wenn die Charaktere sie rufen.
 
 ### Umgang mit der Todesfee
-Wenn die Charaktere respektvoll und höflich sind, kann Agatha überzeugt werden, ihnen zu helfen, sofern ein Charakter einen Wurf auf <font color="darkviolet">**Charisma** (Überzeugen)</font> <font color="yellow">(SG 15)</font> schafft. Der Spieler, dessen Charakter beim Gespräch mit der [[D&D/05 - Wikipedia/Bestiarium/S-T/Todesfee]] die Führung übernimmt, führt den Wurf aus. Wenn der Spieler die Begegnung gut ausspielt, erlaubte ihm, den Wurf mit einem Vorteil abzulegen. Wenn ein Charakter Schwester Garaeles Silberkamm hat und ihn Agatha als Geschenk überreicht, ist der Wurf automatisch erfolgreich.
+Wenn die Charaktere respektvoll und höflich sind, kann Agatha überzeugt werden, ihnen zu helfen, sofern ein Charakter einen Wurf auf <font color="darkviolet">**Charisma** (Überzeugen)</font> <font color="yellow">(SG 15)</font> schafft. Der Spieler, dessen Charakter beim Gespräch mit der [[Undead/Todesfee|Todesfee]] die Führung übernimmt, führt den Wurf aus. Wenn der Spieler die Begegnung gut ausspielt, erlaubte ihm, den Wurf mit einem Vorteil abzulegen. Wenn ein Charakter Schwester Garaeles Silberkamm hat und ihn Agatha als Geschenk überreicht, ist der Wurf automatisch erfolgreich.
 
 > Die gespenstische Gestalt lächelt mit frostigem Amüsement. „Nun gut“, sagt sie. „Ich weiß, dass ihr viele Dinge sucht. Stellt mir eine Frage, und ich werde euch Antwort geben.“
 
@@ -90,13 +100,14 @@ $\quad$Die Charaktere könnten Agatha auch etwas anderes fragen — beispielswei
 
 Wenn die Charaktere nach Bowgentles Zauberbuch fragen, erzählt Agatha ihnen, dass sie das Buch vor mehr als hundert Jahren an einen Nekromanten namens Tsernoth aus der Stadt Iriaebor verkauft hat. Sie weiß nicht, was danach aus dem Buch geworden ist. Ihre Antwort ist wahrheitsgemäß, und das sind alle Informationen, die Schwester Garaele braucht, damit die Harfner ihre Suche fortsetzen können.
 
-Die Charaktere könnten Agatha stattdessen nach etwas anderem fragen - zum Beispiel nach dem Standort von Burg Cragmaw, dem Ort der Wellenecho-Höhle, der Identität der Spinne oder Hamun Kosts Frage nach dem Alten Eulenbrunnen (siehe diesen Abschnitt weiter unten). Agatha ist gut informiert und eine fähige Wahrsagerin, so dass sie fast jede einzelne Frage zum Abenteuer beantworten kann, die die Spieler ihren Charakteren zu stellen gedenken. Allerdings warnt die [[D&D/05 - Wikipedia/Bestiarium/S-T/Todesfee]] die Charaktere, dass sie nur eine einzige Frage beantworten wird, also sollten sie diese sorgfältig auswählen.
+Die Charaktere könnten Agatha stattdessen nach etwas anderem fragen - zum Beispiel nach dem Standort von Burg Cragmaw, dem Ort der Wellenecho-Höhle, der Identität der Spinne oder Hamun Kosts Frage nach dem Alten Eulenbrunnen (siehe diesen Abschnitt weiter unten). Agatha ist gut informiert und eine fähige Wahrsagerin, so dass sie fast jede einzelne Frage zum Abenteuer beantworten kann, die die Spieler ihren Charakteren zu stellen gedenken. Allerdings warnt die [[Undead/Todesfee|Todesfee]] die Charaktere, dass sie nur eine einzige Frage beantworten wird, also sollten sie diese sorgfältig auswählen.
 
 ### Schwester Garaeles Aufgabe
 Wenn man erfährt, was Agatha über das verschwundene Zauberbuch weiß, schließt man eine Aufgabe ab, die der Gruppe von Schwester Garaele in Phandalin gegeben wurde. Die Charaktere sollten sich bei Schwester Garaele melden, um ihre Bezahlung von drei [[Heiltrank|Heiltränken]] zu erhalten.
 
 ## Alter Eulenbrunnen
-![[Karten/Old-Owl-Well.png|150]]
+> [!gallery] 
+> ![Map 3.1: Old Owl Well](phandelver-and-below-the-shattered-obelisk/img/036-03-003-map301-old-owl-well.webp#center)
 
 Der Alte Eulenbrunnen wurde vor Tausenden von Jahren von einem lange verschwundenen Imperium erbaut. Es handelt sich um einen zerstörten Wachturm, der heute wenig mehr ist als einige bröckelige Mauern und der abgebrochene Stumpf eines Turms. Im Hof des Turms steht ein alter Brunnen, aus dem noch immer sauberes, klares Wasser gefördert werden kann. Der Alte Eulenbrunnen liegt in den wilden und rauen Hügeln, 18 Meilen südlich des Dreieber-Pfads. Der Ort ist relativ leicht zu finden, und jeder NSC in Phandalin kann den Weg zur Ruine beschreiben.
 $\quad$Vor einiger Zeit haben Goldsucher in der Gegend bemerkt, dass jemand ein Lager am Alten Eulenbrunnen errichtet hat, und dass untote Wächter aufgestellt worden sind, um Eindringlinge fernzuhalten. Wenn sich die Charaktere dem Alten Eulenbrunnen nähern, lest das Folgende laut vor:

@@ -10,6 +10,8 @@ statblock: inline
 statblock-link: "#^statblock"
 aliases:
   - Goblin Psi Commander
+Name: Goblin-Psi-Kommandant
+Image: aberration/token/goblin-psi-commander-pabtso.webp
 ---
 # Goblin Psi Commander
 *Source: Phandelver and Below: The Shattered Obelisk p. 216*  
@@ -148,6 +150,6 @@ spells:
     "name": "Psionic Shield"
 "source":
   - "PaBTSO"
-"image": "/3-Mechanics/CLI/bestiary/aberration/token/goblin-psi-commander-pabtso.webp"
+"image": "aberration/token/goblin-psi-commander-pabtso.webp"
 ```
 ^statblock

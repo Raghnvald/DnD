@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-monster
 tags:
   - Quelle/5e/mpmm
   - Monster/HG/21
@@ -11,7 +9,7 @@ statblock-link: "#^statblock"
 aliases:
   - Moloch
 ---
-# [Moloch](3-Mechanics\CLI\bestiary\npc/moloch-mpmm.md)
+# Moloch
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 183*  
 
 > [!quote] A quote from Mordenkainen  
@@ -129,6 +127,6 @@ Most of Moloch's cultists have switched allegiance to one of the other archdevil
     "name": "Cast a Spell (Costs 2 Actions)"
 "source":
   - "MPMM"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/moloch-mpmm.webp"
+"image": "npc/token/moloch-mpmm.webp"
 ```
 ^statblock

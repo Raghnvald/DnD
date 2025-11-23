@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-item
+Name: Dragonguard
 tags:
   - Quelle/5e/pabtso
   - Gegenstand/Rüstung/Mittel
@@ -9,7 +8,7 @@ aliases:
   - Dragonguard
 ---
 # Dragonguard
-*Medium armor ([breastplate](/3-Mechanics/CLI/items/breastplate-xphb.md)), rare*  
+*Medium armor ([breastplate](Gegenstände/breastplate-xphb.md)), rare*  
 
 
 - **Armor Class**: 14 + Dex modifier (max of +2)

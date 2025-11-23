@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-note
 tags:
   - Quelle/5e/pabtso
 aliases:
@@ -47,11 +45,11 @@ Special thanks to T. Alexander Stangroom and to the hundreds of playtesters whos
 > Lost Mine of Phandelver. 2014.
 ^the-following-product-provided-information-and-inspiration
 
-![](/3-Mechanics/CLI/adventures/phandelver-and-below-the-shattered-obelisk/img/credits.webp#center)
+![](phandelver-and-below-the-shattered-obelisk/img/credits.webp#center)
 
 > [!gallery]
-> ![On the Cover: Goblins with...](/3-Mechanics/CLI/adventures/phandelver-and-below-the-shattered-obelisk/img/credits2.webp#gallery "On the Cover: Goblins with psionic powers steal a piece of a mysterious obelisk from the sleepy town of Phandalin in this breathtaking cover by Antonio José Manzanedo.")
-> ![On the Alt-Cover: A roilin...](/3-Mechanics/CLI/adventures/phandelver-and-below-the-shattered-obelisk/img/credits3.webp#gallery "On the Alt-Cover: A roiling array of sinister elements surrounds the titular obelisk that's at the center of the doom threatening Phandalin in this spectacular cover by DZO.")
+> ![On the Cover: Goblins with...](phandelver-and-below-the-shattered-obelisk/img/credits2.webp#gallery "On the Cover: Goblins with psionic powers steal a piece of a mysterious obelisk from the sleepy town of Phandalin in this breathtaking cover by Antonio José Manzanedo.")
+> ![On the Alt-Cover: A roilin...](phandelver-and-below-the-shattered-obelisk/img/credits3.webp#gallery "On the Alt-Cover: A roiling array of sinister elements surrounds the titular obelisk that's at the center of the doom threatening Phandalin in this spectacular cover by DZO.")
 
 > [!note]
 > Disclaimer: The fanatics of Ilvaash can neither confirm nor deny whether they plot to incorporate this book's owners into a mighty new illithid empire. Any transformations incurred, up to and including face tentacles, are strictly coincidental.

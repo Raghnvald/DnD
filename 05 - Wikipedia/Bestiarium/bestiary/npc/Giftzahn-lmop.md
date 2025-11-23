@@ -1,6 +1,10 @@
 ---
-cssclasses:
-  - json5e-monster
+Typ: Drache
+Größe: Groß
+HG: 8
+Habitat:
+  - /
+status: WIP
 tags:
   - Quelle/5e/lmop
   - Monster/HG/8
@@ -10,23 +14,22 @@ statblock: inline
 statblock-link: "#^statblock"
 aliases:
   - Venomfang
-Typ: Drache
-Größe: Groß
-HG: 8
-Habitat:
-  - /
-status: WIP
+Name: Giftzahn
+Image: npc/token/venomfang-lmop.webp
 ---
-# [Venomfang](3-Mechanics\CLI\bestiary\npc/venomfang-lmop.md)
-*Source: Lost Mine of Phandelver p. 63*  
+# Giftzahn
+*Quellen: Die verlorene Mine von Phandelver S. 63*  
 
 ```statblock
-"name": "Venomfang (LMoP)"
-"size": "Large"
-"type": "dragon"
-"alignment": "Lawful Evil"
+"name": "Giftzahn (LMoP)"
+"image": "npc/token/venomfang-lmop.webp"
+"source":
+  - "LMoP"
+"size": "Groß"
+"type": "Drache"
+"alignment": "Rechtschaffen Böse"
 "ac": !!int "18"
-"ac_class": "natural armor"
+"ac_class": "Natürliche Rüstung"
 "hp": !!int "136"
 "hit_dice": "16d10 + 48"
 "modifier": !!int "1"
@@ -37,43 +40,35 @@ status: WIP
   - !!int "16"
   - !!int "13"
   - !!int "15"
-"speed": "40 ft., fly 80 ft., swim 40 ft."
+"speed": "12 Meter, fliegend 24 Meter, schwimmend 12 Meter"
 "saves":
-  - "dexterity": !!int "4"
-  - "constitution": !!int "6"
-  - "wisdom": !!int "4"
-  - "charisma": !!int "5"
+  - "Geschicklichkeit": !!int "4"
+  - "Konstitution": !!int "6"
+  - "Weisheit": !!int "4"
+  - "Charisma": !!int "5"
 "skillsaves":
-  - "name": "[Deception](/3-Mechanics/CLI/skills.md#Deception)"
-    "desc": "+5"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
-    "desc": "+7"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Heimlichkeit](skills.md#Stealth)"
     "desc": "+4"
-"damage_immunities": "poison"
-"condition_immunities": "[poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
-"senses": "[blindsight](/3-Mechanics/CLI/senses.md#Blindsight) 30 ft., [darkvision](/3-Mechanics/CLI/senses.md#Darkvision)\
-  \ 120 ft., passive Perception 17"
-"languages": "Common, Draconic"
+  - "name": "[Täuschung](skills.md#Deception)"
+    "desc": "+5"
+  - "name": "[Wahrnehmung](skills.md#Perception)"
+    "desc": "+7"
+"damage_immunities": "Gift"
+"condition_immunities": "[Vergiftet](conditions.md#Poisoned)"
+"senses": "[Blindsicht](senses.md#Blindsight) 9 m., [Dunkelsicht](senses.md#Darkvision) 36 m., passive Wahrnehmung 17"
+"languages": "Gemeinsprache, Drakonisch"
 "cr": "8"
 "traits":
-  - "desc": "Venomfang can breathe air and water."
-    "name": "Amphibious"
+  - "name": "Amphibious"
+    "desc": "Giftzahn kann Luft und Wasser atmen."
 "actions":
-  - "desc": "Venomfang makes three attacks: one with its bite and two with its claws."
-    "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:* 15\
-      \ (2d10 + 4) piercing damage plus 7 (2d6) poison damage."
-    "name": "Bite"
-  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 11\
-      \ (2d6 + 4) slashing damage."
-    "name": "Claw"
-  - "desc": "Venomfang exhales poisonous gas in a 30-foot cone. Each creature in that\
-      \ area must make a DC 14 Constitution saving throw, taking 42 (12d6) poison\
-      \ damage on a failed save, or half as much damage on a successful one."
-    "name": "Poison Breath (Recharge 5-6)"
-"source":
-  - "LMoP"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/venomfang-lmop.webp"
+  - "name": "Mehrfachangriff"
+    "desc": "Giftzahn führt bis zu drei Angriffe aus, von denen einer Biss und zwei Klaue sein können."
+  - "name": "Biss"
+    "desc": "*Nahkampf-Waffenangriff:* +7, Reichweite 3 Meter, ein Ziel. *Treffer:* 15 (2d10 + 4) Stichschaden plus 7 (2d6) Giftschaden."
+  - "name": "Klaue"
+    "desc": "*Nahkampf-Waffenangriff:* +7, Reichweite 1,5 Meter, ein Ziel. *Treffer:* 11 (2d6 + 4) Hiebschaden."
+  - "name": "Giftodem (Aufladung 5-6)"
+    "desc": "Giftzahn atmet in einem Kegel von 9 Metern Länge giftiges Gas aus. Alle Kreaturen im Kegel müssen einen Konstitutionsrettungswurf gegen SG 14 ablegen. Bei einem misslungenen Rettungswurf erleiden sie 42 (12d6) Giftschaden, halb so viel Schaden bei einem erfolgreichen Rettungswurf."
 ```
 ^statblock

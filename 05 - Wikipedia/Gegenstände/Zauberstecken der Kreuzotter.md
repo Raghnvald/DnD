@@ -16,7 +16,7 @@ tags:
 aliases:
 - Staff of the Adder
 ---
-# Zauberstecken des Frosts
+# Zauberstecken der Kreuzotter 
 _Zauberstecken, ungewöhnlich (erfordert Einstimmung durch einen Druiden, Hexenmeister oder Kleriker)_
 <img src="Staff-of-the-Adder.webp" align="right" width="75">
 

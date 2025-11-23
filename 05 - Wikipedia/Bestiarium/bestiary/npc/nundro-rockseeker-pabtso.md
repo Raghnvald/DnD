@@ -10,8 +10,10 @@ statblock: inline
 statblock-link: "#^statblock"
 aliases:
   - Nundro Rockseeker
+Name: Nundro Rockseeker
+Image: npc/token/nundro-rockseeker-pabtso.webp
 ---
-# [Nundro Rockseeker](3-Mechanics\CLI\bestiary\npc/nundro-rockseeker-pabtso.md)
+# Nundro Rockseeker
 *Source: Phandelver and Below: The Shattered Obelisk p. 73*  
 
 ```statblock
@@ -46,6 +48,6 @@ aliases:
     "name": "Club"
 "source":
   - "PaBTSO"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/nundro-rockseeker-pabtso.webp"
+"image": "npc/token/nundro-rockseeker-pabtso.webp"
 ```
 ^statblock

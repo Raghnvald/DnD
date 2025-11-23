@@ -1,5 +1,8 @@
 ---
-tags: [Quelle/5e/lmop]
+tags:
+  - Quelle/5e/pabtso
+aliases:
+  - Chapter 2: Trouble in Phandalin
 ---
 # <center> Kapitel 2: Ärger in Phandalin </center>
 Die Grenzstadt Phandalin ist auf den Ruinen einer viel älteren Siedlung erbaut. Vor Hunderten von Jahren war das alte Phandalin eine blühende Stadt, deren Bewohner fest mit den Zwergen und Gnomen des Phandelver-Paktes verbündet waren. Doch dieselben Banditen, die die Minen in der Wellenecho-Höhle geplündert hatten, griffen die Siedlung an, und Phandalin wurde für Jahrhunderte verlassen.
@@ -198,14 +201,14 @@ In Wirklichkeit hat Iarno die Rotbrände erschaffen, sich selbst zu ihrem Anfüh
 ### Herrenhaus Tresendar
 Mehr eine Burg als ein Haus, steht das Herrenhaus von Tresendar am östlichen Rand der Stadt auf einem niedrigen Hügel inmitten von Wäldern und Dickicht. Das alte Herrenhaus ist seit langem verlassen, aber seine Keller wurden zu einer Festung der Rotbrands umgebaut. Wenn die Charaktere diesen Ort untersuchen, finden sie den Eingang zum Versteck der Rotbrands (siehe unten).
 
-### Rotbrand-Rüpel
-Ungefähr einen Tag nach der Ankunft der Abenteurer in Phandalin ist eine Konfrontation mit den Rotbränden unvermeidlich. Dies kann auf verschiedene Arten geschehen:
+### Rotbrenner-Rüpel
+Ungefähr einen Tag nach der Ankunft der Abenteurer in Phandalin ist eine Konfrontation mit den Rotbrenner unvermeidlich. Dies kann auf verschiedene Arten geschehen:
 
-**Konfrontiere die Rotbrands.** Nachdem sie mit einigen NSCs in der Stadt gesprochen haben, beschließen die Charaktere, die Rotbrands im Schlafenden Riesen zu konfrontieren.
+**Konfrontiere die Rotbrenner.** Nachdem sie mit einigen NSCs in der Stadt gesprochen haben, beschließen die Charaktere, die Rotbrands im Schlafenden Riesen zu konfrontieren.
 
 **Das Herrenhaus von Tresendar erforschen.** Die Charaktere beschließen, das Herrenhaus von Tresendar zu untersuchen. Überspringe die Begegnung unten und gehe direkt zu "[[03-Kapitel-2-Ärger-in-Phandalin#Versteck der Rotbrands|Versteck der Rotbrands]]“.
 
-**Rotbrand-Konfrontation.** Wenn die Charaktere keine Anzeichen zeigen, die Rotbrands zu verfolgen, sucht eine Bande der Raufbolde sie auf und fängt einen Kampf in den Straßen der Stadt an. Führen Sie diese Begegnung durch, wenn die Charaktere einen der Orte in der Stadt verlassen.
+**Rotbrenner-Konfrontation.** Wenn die Charaktere keine Anzeichen zeigen, die Rotbrands zu verfolgen, sucht eine Bande der Raufbolde sie auf und fängt einen Kampf in den Straßen der Stadt an. Führen Sie diese Begegnung durch, wenn die Charaktere einen der Orte in der Stadt verlassen.
 
 Wenn die Charaktere die Rotbrands im Schlafenden Riesen konfrontieren, lies:
 

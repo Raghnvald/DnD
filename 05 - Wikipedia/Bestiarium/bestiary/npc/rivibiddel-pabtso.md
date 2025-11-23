@@ -8,6 +8,8 @@ statblock: inline
 statblock-link: "#^statblock"
 aliases:
   - Rivibiddel
+Name: Rivibiddel
+Image: npc/token/rivibiddel-pabtso.webp
 ---
 # Rivibiddel
 *Source: Phandelver and Below: The Shattered Obelisk p. 122*  
@@ -67,6 +69,6 @@ aliases:
     "name": "Poisoned Dart"
 "source":
   - "PaBTSO"
-"image": "rivibiddel-pabtso.webp"
+"image": "npc/token/rivibiddel-pabtso.webp"
 ```
 ^statblock

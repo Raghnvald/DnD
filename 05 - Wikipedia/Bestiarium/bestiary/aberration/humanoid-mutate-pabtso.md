@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-monster
 tags:
   - Quelle/5e/pabtso
   - Monster/HG/4
@@ -10,8 +8,10 @@ statblock: inline
 statblock-link: "#^statblock"
 aliases:
   - Humanoid Mutate
+Name: Humanoid Mutate
+Image: aberration/token/humanoid-mutate-pabtso.webp
 ---
-# [Humanoid Mutate](3-Mechanics\CLI\bestiary\aberration/humanoid-mutate-pabtso.md)
+# Humanoid Mutate
 *Source: Phandelver and Below: The Shattered Obelisk p. 212*  
 
 When the influence of the Far Realm affects Humanoids, the resulting creature might be a thing of nightmares. Multitudinous webbed wings sprout haphazardly along this mutate's body. Its skin becomes clammy and as smooth as a salamander's.
@@ -78,6 +78,6 @@ Mutates often gain psionic abilities, grow wings, become covered in otherworldly
     "name": "Defensive Flight"
 "source":
   - "PaBTSO"
-"image": "/3-Mechanics/CLI/bestiary/aberration/token/humanoid-mutate-pabtso.webp"
+"image": "aberration/token/humanoid-mutate-pabtso.webp"
 ```
 ^statblock

@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-monster
 tags:
   - Quelle/5e/pabtso
   - Monster/HG/11
@@ -10,8 +8,10 @@ statblock: inline
 statblock-link: "#^statblock"
 aliases:
   - Voalsh
+Name: Voalsh
+Image: npc/token/voalsh-pabtso.webp
 ---
-# [Voalsh](3-Mechanics\CLI\bestiary\npc/voalsh-pabtso.md)
+# Voalsh
 *Source: Phandelver and Below: The Shattered Obelisk p. 194*  
 
 ```statblock
@@ -100,6 +100,6 @@ aliases:
     "name": "Warp Reality"
 "source":
   - "PaBTSO"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/voalsh-pabtso.webp"
+"image": "npc/token/voalsh-pabtso.webp"
 ```
 ^statblock
