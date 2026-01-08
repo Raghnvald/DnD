@@ -1,0 +1,16 @@
+{
+  "accentColor": "#00ff00",
+  "nativeMenus": true,
+  "textFontFamily": "Garamond",
+  "baseFontSize": 12,
+  "translucency": false,
+  "cssTheme": "ITS Theme",
+  "interfaceFontFamily": "",
+  "baseFontSizeAction": false,
+  "monospaceFontFamily": "Garamond",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "custom-admonitions.5baa62"
+  ],
+  "showViewHeader": true
+}

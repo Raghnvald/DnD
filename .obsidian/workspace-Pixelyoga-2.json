@@ -1,0 +1,256 @@
+{
+  "main": {
+    "id": "11e92574fdf9fa31",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb5fdf2c1d477114",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0ca5f6e064cf59ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dungeons & Dragons/RPG Master - Tierschutzverein/07. City/Niewinter.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "72ecd52345d7dee5",
+    "type": "split",
+    "children": [
+      {
+        "id": "bddbc580e8adfe58",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c6f2accabb99434",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "73835794b7f03e73",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ea9da87bf804f4bc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 256.5
+  },
+  "right": {
+    "id": "9a52ecf028577bce",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e86149440378227",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "05e4a832b5cbcc3b",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "a7c47a9d348e7ecb",
+            "type": "leaf",
+            "state": {
+              "type": "rpg-manager-options",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "c3d39da8bed7b4b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dcf389ce3b181f3a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Dungeons & Dragons/RPG Master - Tierschutzverein/07. City/Niewinter.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5cf445886b7ef112",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Dungeons & Dragons/RPG Master - Tierschutzverein/07. City/Niewinter.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "69b762321910f11c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9c815c77b2d4d02f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Dungeons & Dragons/RPG Master - Tierschutzverein/07. City/Niewinter.md"
+              }
+            }
+          },
+          {
+            "id": "5f58491ec95f079a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "c51484d5b8dffd98",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 350.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "rpg-manager:RPG Manager": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": true,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "calendarium:Open Calendarium": false
+    }
+  },
+  "active": "0ca5f6e064cf59ae",
+  "lastOpenFiles": [
+    "Dungeons & Dragons/RPG Master - Tierschutzverein/Faction/Neverwinter Guard.md",
+    "Dungeons & Dragons/RPG Master - Tierschutzverein/Faction/Wintershield Watch.md",
+    "Dungeons & Dragons/RPG Master - Tierschutzverein/Faction",
+    "Dungeons & Dragons/Tierschutzverein/Die Gruppe/Zoltan.md",
+    "Dungeons & Dragons/Tierschutzverein/01. Campaign/Tierschutzverein.md",
+    "Dungeons & Dragons/Charakter/Pandur 3.md",
+    "Dungeons & Dragons/Tierschutzverein/01. Campaign/Wald von Niewinter.md",
+    "Dungeons & Dragons/Tierschutzverein/02. Adventure/Wald von Niewinter 1.md",
+    "Dungeons & Dragons/Tierschutzverein/02. Adventure/Wald von Niewinter.md",
+    "Dungeons & Dragons/Tierschutzverein/01. Campaign",
+    "Dungeons & Dragons/Tierschutzverein/02. Adventure",
+    "Dungeons & Dragons/Tierschutzverein/Location/Niewinter.md",
+    "Dungeons & Dragons/Tierschutzverein/Location",
+    "Dungeons & Dragons/Tierschutzverein/Die Gruppe",
+    "Dungeons & Dragons/Combat Logs/1715021741485 - Encounter.md",
+    "Dungeons & Dragons/Tierschutzverein",
+    "Dungeons & Dragons/Tierschutzverein Faerun/Tierschutzverein Faerun.md",
+    "Dungeons & Dragons/Tierschutzverein Faerun",
+    "Dungeons & Dragons/Campaigns/Die Abenteuer/01. Adventures/Der Wald von Niewinter/Der Wald von Niewinter.md",
+    "Dungeons & Dragons/Campaigns/Die Abenteuer/Die Abenteuer.md",
+    "Dungeons & Dragons/Campaigns/Die Abenteuer/05. Locations/Niewinter.md",
+    "Dungeons & Dragons/Campaigns/Die Abenteuer/Testung.md",
+    "Dungeons & Dragons/Kampagne - Name offen/Die Gruppe/Lukan Leuchtmoos.md",
+    "Dungeons & Dragons/Kampagne - Name offen/Die Gruppe/Val.md",
+    "Dungeons & Dragons/Kampagne - Name offen/Die Gruppe/Zoltan von Zauderherr.md",
+    "Dungeons & Dragons/Campaigns/Die Abenteuer/Zoltan.md",
+    "Dungeons & Dragons/Assets/08. Player Characters/Zoltan.md",
+    "Assets/08. Player Characters/Val.md",
+    "Assets/08. Player Characters",
+    "Assets",
+    "Dungeons & Dragons/Campaigns/Die Abenteuer/Val.md",
+    "Dungeons & Dragons/Assets/08. Player Characters",
+    "Dungeons & Dragons/Charakter/Pandur 2.md",
+    "Dungeons & Dragons/0. DM Screen/Kanban.md",
+    "Dungeons & Dragons/Charakter/Pandur/01. Pandur.md",
+    "Dungeons & Dragons/Charakter/Pandur/03. Inventar.md",
+    "Untitled.canvas",
+    "Verschiedenes/Bildersammlung/Pasted image 20240408203257.png",
+    "Verschiedenes/Bildersammlung/Pasted image 20240507203100.png",
+    "Verschiedenes/Bildersammlung/Pasted image 20240507203017.png",
+    "Verschiedenes/Bildersammlung/DND/Karten/Niewinter.jpg",
+    "Verschiedenes/Bildersammlung/DND/Karten/Baldurs Tor.png",
+    "Verschiedenes/Bildersammlung/Pasted image 20240505110826.png",
+    "Verschiedenes/Bildersammlung/DND/Karten/2.png",
+    "Verschiedenes/Bildersammlung/DND/Karten/Niewinter.png",
+    "Verschiedenes/Bildersammlung/DSA/Karten/Orte/Fischersiedlung[1].png",
+    "Verschiedenes/Bildersammlung/DSA/Karten/Siedlungen/Neersand_Ohne_Neer[1].jpg",
+    "Das Schwarze Auge/Charaktere/Xarox, Sohn des Fargul/Untitled.canvas",
+    "Characters/Diero Falone/Canvas - Diero Falone.canvas",
+    "Diero Falone/Canvas - Diero Falone.canvas",
+    "Das Schwarze Auge/Diero Falone/Canvas - Diero Falone.canvas"
+  ]
+}

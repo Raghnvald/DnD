@@ -1,0 +1,193 @@
+{
+  "workspaces": {
+    "DM CoS View": {
+      "main": {
+        "id": "11e92574fdf9fa31",
+        "type": "split",
+        "children": [
+          {
+            "id": "1e3f3d73f3118011",
+            "type": "split",
+            "children": [
+              {
+                "id": "324b3ed073f4e768",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "fbec1aa578e8becf",
+                    "type": "leaf",
+                    "state": {
+                      "type": "kanban",
+                      "state": {
+                        "file": "03 - Sources/0. DM Screen/DM Kanban.md",
+                        "kanbanViewState": {
+                          "kanban-plugin": "board",
+                          "list-collapse": [
+                            false,
+                            null,
+                            null,
+                            false,
+                            null,
+                            null,
+                            null,
+                            null,
+                            null,
+                            null,
+                            null,
+                            false
+                          ]
+                        }
+                      },
+                      "icon": "lucide-trello",
+                      "title": "DM Kanban"
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "8f1fddd0036a3de9",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "7086db8a714afaec",
+                    "type": "leaf",
+                    "state": {
+                      "type": "empty",
+                      "state": {},
+                      "icon": "lucide-file",
+                      "title": "New tab"
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "horizontal"
+          },
+          {
+            "id": "53721cba259151a1",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "baa045785fe2c37c",
+                "type": "leaf",
+                "state": {
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://www.dndbeyond.com/",
+                    "title": "Dungeons & Dragons | The Official Home of D&D",
+                    "mode": "webview"
+                  },
+                  "icon": "globe-2",
+                  "title": "Dungeons & Dragons | The Official Home of D&D"
+                }
+              },
+              {
+                "id": "2d20b0d29bc1332b",
+                "type": "leaf",
+                "state": {
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://www.dndbeyond.com/games/6013691",
+                    "title": "Tierschutzverein Faerun - D&D Beyond",
+                    "mode": "webview"
+                  },
+                  "icon": "globe-2",
+                  "title": "Tierschutzverein Faerun - D&D Beyond"
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "72ecd52345d7dee5",
+        "type": "split",
+        "children": [
+          {
+            "id": "bddbc580e8adfe58",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e5000786566a6968",
+                "type": "leaf",
+                "state": {
+                  "type": "file-tree-view",
+                  "state": {},
+                  "icon": "sheets-in-box",
+                  "title": "File Tree"
+                }
+              },
+              {
+                "id": "ea9da87bf804f4bc",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "Plugin no longer active"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 268.5
+      },
+      "right": {
+        "id": "9a52ecf028577bce",
+        "type": "split",
+        "children": [
+          {
+            "id": "4e86149440378227",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "0cda69cbbd3ae054",
+                "type": "leaf",
+                "state": {
+                  "type": "initiative-tracker-view",
+                  "state": {},
+                  "icon": "initiative-tracker",
+                  "title": "Initiative Tracker"
+                }
+              },
+              {
+                "id": "f5f2b6ffa32eefc2",
+                "type": "leaf",
+                "state": {
+                  "type": "DICE_ROLLER_VIEW",
+                  "state": {},
+                  "icon": "dices",
+                  "title": "Dice Tray"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 335.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "pdf-plus:PDF++: Toggle auto-copy": false,
+          "pdf-plus:PDF++: Toggle auto-focus": false,
+          "pdf-plus:PDF++: Toggle auto-paste": false,
+          "homepage:Open homepage": false,
+          "file-tree-alternative:File Tree Alternative Plugin": false,
+          "obsidian-5e-statblocks:Open Creature pane": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "initiative-tracker:Initiative Tracker Encounter Builder": false,
+          "templater-obsidian:Templater": false,
+          "templates:Insert template": false,
+          "workspaces:Manage workspace layouts": false,
+          "obsidian-kanban:Create new board": false
+        }
+      },
+      "active": "7086db8a714afaec",
+      "mtime": "2025-03-08T12:20:48+01:00"
+    }
+  },
+  "active": "DM CoS View"
+}

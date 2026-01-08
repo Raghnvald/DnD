@@ -1,0 +1,30 @@
+{
+  "accentColor": "#008a09",
+  "nativeMenus": true,
+  "textFontFamily": "Garamond",
+  "baseFontSize": 13,
+  "translucency": false,
+  "cssTheme": "ITS Theme",
+  "interfaceFontFamily": "Monaco",
+  "baseFontSizeAction": false,
+  "monospaceFontFamily": "Garamond",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "custom_fonts",
+    "custom-admonitions.375981",
+    "custom-admonitions.5baa62",
+    "dnd5e-only-admonitions",
+    "dnd5e-compendium",
+    "dnd5e-only-statblock",
+    "HoverProperties_w-Columns",
+    "MCL Gallery Cards",
+    "MCL Wide Views",
+    "MCL Multi Column",
+    "S - Encoded Icons",
+    "S - Encoded Fonts",
+    "wider",
+    "clean-embeds"
+  ],
+  "showViewHeader": true,
+  "showRibbon": true
+}

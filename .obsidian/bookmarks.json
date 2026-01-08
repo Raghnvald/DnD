@@ -1,0 +1,72 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1722266434800,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1722266406993,
+          "path": "05 - Wikipedia/Kompendium/Klassen/Barde.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1722266415335,
+          "path": "05 - Wikipedia/Kompendium/Klassen/Barde-Schule-Eloquenz.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1722266449399,
+          "path": "05 - Wikipedia/Kompendium/Klassen/Druide.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1722266455504,
+          "path": "05 - Wikipedia/Kompendium/Klassen/Druide-Zirkel-Landes.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1722266462741,
+          "path": "05 - Wikipedia/Kompendium/Klassen/Magier.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1722266468739,
+          "path": "05 - Wikipedia/Kompendium/Klassen/Magier-Schule-Beschwörung.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1722266475010,
+          "path": "05 - Wikipedia/Kompendium/Klassen/Schurke.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1722266480192,
+          "path": "05 - Wikipedia/Kompendium/Klassen/Schurke-Seelenklinge.md"
+        }
+      ],
+      "title": "DND"
+    },
+    {
+      "type": "file",
+      "ctime": 1723566154542,
+      "path": "03 - Sources/0. DM Screen/DM Kanban.md",
+      "title": "DM Kanban"
+    },
+    {
+      "type": "file",
+      "ctime": 1731499708942,
+      "path": "05 - Wikipedia/Kompendium/Klassen/Barbar.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1731499720528,
+      "path": "05 - Wikipedia/Kompendium/Klassen/Barbar-Pfad-Wilde-Magie.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1731499730749,
+      "path": "05 - Wikipedia/Kompendium/Klassen/Hexenmeister.md"
+    }
+  ]
+}

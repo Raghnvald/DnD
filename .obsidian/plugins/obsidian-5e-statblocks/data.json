@@ -1,0 +1,3615 @@
+{
+  "monsters": [
+    [
+      "Goblin",
+      {
+        "statblock": true,
+        "name": "Goblin",
+        "image": "<STATBLOCK-WIKI-LINK>Goblin.png<STATBLOCK-WIKI-LINK>",
+        "source": "Grundregelwerk",
+        "size": "Klein",
+        "type": "humanoid",
+        "subtype": "goblinoid",
+        "alignment": "neutral böse",
+        "ac": 15,
+        "hp": 7,
+        "hit_dice": "2d6",
+        "speed": "9 Meter.",
+        "stats": [
+          8,
+          14,
+          10,
+          10,
+          8,
+          8
+        ],
+        "skillsaves": [
+          {
+            "Heimlichkeit": 6
+          }
+        ],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "",
+        "damage_immunities": "",
+        "condition_immunities": "",
+        "senses": "Dunkelsicht 18 Meter, passive Wahrnehmung 9",
+        "languages": "Gemeinsprache, Goblin",
+        "cr": "1/4",
+        "environment": "Wälder, Grasland, Hügel, Unterreich",
+        "bestiary": true,
+        "traits": [
+          {
+            "name": "Flinkes Entkommen",
+            "desc": "Der Goblin kann in jedem seiner Züge die Aktion Rückzug oder Verstecken als Bonusaktion ausführen.",
+            "attack_bonus": 0
+          }
+        ],
+        "actions": [
+          {
+            "name": "Krummsäbel",
+            "desc": "Nahkampfangriff:&nbsp;+4 zum Treffen, Reichweite 1,5m, ein Ziel. Treffer:&nbsp;5 (1W6 + 2) Hiebschaden.",
+            "attack_bonus": 4,
+            "damage_dice": "1d6",
+            "damage_bonus": 2
+          },
+          {
+            "name": "Kurzbogen",
+            "desc": "Fernkampfangriff:&nbsp;+4 zum Treffen, Reichweite 80m / 36m, ein Ziel. Treffer:&nbsp;5 (1W6 + 2) Stichschaden.",
+            "attack_bonus": 4,
+            "damage_dice": "1d6",
+            "damage_bonus": 2
+          }
+        ],
+        "layout": "Basic 5e German Layout"
+      }
+    ],
+    [
+      "Goblin-Anführer",
+      {
+        "statblock": true,
+        "name": "Goblin-Anführer",
+        "image": "<STATBLOCK-WIKI-LINK>Goblin.png<STATBLOCK-WIKI-LINK>",
+        "source": "Monsterhandbuch",
+        "size": "Klein",
+        "type": "humanoid",
+        "subtype": "goblinoid",
+        "alignment": "neutral böse",
+        "ac": 17,
+        "hp": 21,
+        "hit_dice": "6d6",
+        "speed": "9 Meter.",
+        "stats": [
+          10,
+          14,
+          10,
+          10,
+          8,
+          10
+        ],
+        "skillsaves": [
+          {
+            "Heimlichkeit": 6
+          }
+        ],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "",
+        "damage_immunities": "",
+        "condition_immunities": "",
+        "senses": "Dunkelsicht 18 Meter, passive Wahrnehmung 9",
+        "languages": "Gemeinsprache, Goblin",
+        "cr": 1,
+        "environment": "Wald, Grasland, Hügel, Unterreich",
+        "bestiary": true,
+        "traits": [
+          {
+            "name": "Flinkes Entkommen",
+            "desc": "Der Goblin kann in jedem seiner Züge die Aktion Rückzug oder Verstecken als Bonusaktion ausführen.",
+            "attack_bonus": 0
+          }
+        ],
+        "actions": [
+          {
+            "name": "Mehrfachangriff",
+            "desc": "Der Goblin führt zwei Angriffe mit dem Krummsäbel aus. Der zweite Angriff ist im Nachteil."
+          },
+          {
+            "name": "Krummsäbel",
+            "desc": "Nahkampfangriff:&nbsp;+4 zum Treffen, Reichweite 1,5m, ein Ziel. Treffer:&nbsp;5 (1W6 + 2) Hiebschaden.",
+            "attack_bonus": 4,
+            "damage_dice": "1d6",
+            "damage_bonus": 2
+          },
+          {
+            "name": "Wurfspeer",
+            "desc": "Nah- oder Fernkampfangriff:&nbsp;+4 zum Treffen, Reichweite 1,5m oder 30m/36m, ein Ziel. Treffer:&nbsp;9 (2W6+2) Stichschaden im Nahkampf oder 5 (1W6 + 2) Stichschaden im Fernkampf.",
+            "attack_bonus": 4,
+            "damage_dice": "1d6",
+            "damage_bonus": 2
+          }
+        ],
+        "reactions": [
+          {
+            "name": "Angriff umlenken",
+            "desc": "Wenn der Goblin von einer Kreatur angegriffen wird, die er sehen kann, wählt der Goblin einen anderen Goblin im Umkreis von 1,5 Metern. Die beiden Goblins tauschen ihre Positionen und der gewählte Goblin wird stattdessen zum Ziel."
+          }
+        ],
+        "layout": "Basic 5e German Layout"
+      }
+    ],
+    [
+      "Grottenschrat",
+      {
+        "statblock": true,
+        "name": "Grottenschrat",
+        "image": "<STATBLOCK-WIKI-LINK>Grottenschrat.png<STATBLOCK-WIKI-LINK>",
+        "source": "Grundregelwerk",
+        "size": "Medium",
+        "type": "humanoid",
+        "subtype": "goblinoid",
+        "alignment": "chaotisch böse",
+        "ac": 16,
+        "hp": 27,
+        "hit_dice": "5d8+5",
+        "speed": "9 Meter.",
+        "stats": [
+          15,
+          14,
+          13,
+          8,
+          11,
+          9
+        ],
+        "skillsaves": [
+          {
+            "Heimlichkeit": 6
+          },
+          {
+            "Überleben": 2
+          }
+        ],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "",
+        "damage_immunities": "",
+        "condition_immunities": "",
+        "senses": "Dunkelsicht 18 Meter, passive Wahrnehmung 10",
+        "languages": "Gemeinsprache, Goblin",
+        "cr": 1,
+        "environment": "Wald, Grasland, Unterreich",
+        "bestiary": true,
+        "traits": [
+          {
+            "name": "Wüstling",
+            "desc": "Eine Nahkampfwaffe fügt einen zusätzlichen Würfel ihres Schadens zu, wenn der Grottenschrat mit ihr trifft (im Angriff enthalten).",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Überraschungsangriff",
+            "desc": "Wenn der Grottenschrat eine Kreatur überrascht und sie in der ersten Runde des Kampfes mit einem Angriff trifft, erleidet das Ziel zusätzlich 7 (2W6) Schaden durch den Angriff.",
+            "attack_bonus": 0
+          }
+        ],
+        "actions": [
+          {
+            "name": "Morgenstern",
+            "desc": "Nahkampfangriff:&nbsp;+4 zum Treffen, Reichweite 1,5m, ein Ziel. Treffer:&nbsp;11 (2W8 + 2) Stichschaden.",
+            "attack_bonus": 4,
+            "damage_dice": "2d8",
+            "damage_bonus": 2
+          },
+          {
+            "name": "Wurfspeer",
+            "desc": "Nah- oder Fernkampfangriff:&nbsp;+4 zum Treffen, Reichweite 1,5m oder 30m/36m, ein Ziel. Treffer:&nbsp;9 (2W6+2) Stichschaden im Nahkampf oder 5 (1W6 + 2) Stichschaden im Fernkampf.",
+            "attack_bonus": 4,
+            "damage_dice": "1d6",
+            "damage_bonus": 2
+          }
+        ],
+        "layout": "Basic 5e German Layout"
+      }
+    ],
+    [
+      "Wolf",
+      {
+        "statblock": true,
+        "name": "Wolf",
+        "image": "<STATBLOCK-WIKI-LINK>Wolf.png<STATBLOCK-WIKI-LINK>",
+        "source": "Grundregelwerk",
+        "size": "Medium",
+        "type": "Bestie",
+        "alignment": "ohne Gesinnung",
+        "ac": 13,
+        "hp": 11,
+        "hit_dice": "2d8+2",
+        "speed": "12 Meter.",
+        "stats": [
+          12,
+          15,
+          12,
+          3,
+          12,
+          6
+        ],
+        "skillsaves": [
+          {
+            "Heimlichkeit": 4
+          },
+          {
+            "Wahrnehmung": 3
+          }
+        ],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "",
+        "damage_immunities": "",
+        "condition_immunities": "",
+        "senses": "passive Wahrnehmung 13",
+        "languages": null,
+        "cr": "1/4",
+        "environment": "Wälder, Grasland, Hügel",
+        "bestiary": true,
+        "traits": [
+          {
+            "name": "Scharfes Gehör und scharfer Geruchssinn",
+            "desc": "Der Wolf hat Vorteil bei Proben auf Weisheit(Wahrnehmung), die auf Gehör oder Geruch beruhen."
+          },
+          {
+            "name": "Rudeltaktik",
+            "desc": "Der Wolf hat Vorteil bei Angriffswürfen gegen eine Kreatur, wenn sich mindestens ein Verbündeter des Wolfs im Umkreis von 1,5 Metern um die Kreatur befindet und der Verbündete nicht außer Gefecht gesetzt ist."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Biss",
+            "desc": "Nahkampfangriff:&nbsp;+4 zum Treffen, Reichweite 1,5m, ein Ziel. Treffer:&nbsp;7 (2W4 + 2) Stichschaden. Handelt es sich bei dem Ziel um eine Kreatur, muss sie einen SG 11 Rettungswurf auf Stärke bestehen oder wird niedergeschmettert.",
+            "attack_bonus": 4,
+            "damage_dice": "2d4",
+            "damage_bonus": 2
+          }
+        ],
+        "layout": "Basic 5e German Layout"
+      }
+    ],
+    [
+      "Adeliger",
+      {
+        "statblock": true,
+        "name": "Adeliger",
+        "image": "<STATBLOCK-WIKI-LINK>Adeliger.png<STATBLOCK-WIKI-LINK>",
+        "source": "Grundregelwerk",
+        "size": "Medium",
+        "type": "Humanoid",
+        "subtype": "jede Rasse",
+        "alignment": "jede Gesinnung",
+        "ac": 15,
+        "hp": 9,
+        "hit_dice": "2d8",
+        "speed": "9 Meter.",
+        "stats": [
+          11,
+          12,
+          11,
+          12,
+          14,
+          16
+        ],
+        "skillsaves": [
+          {
+            "Motiv erkennen": 6
+          },
+          {
+            "Täuschung": 5
+          },
+          {
+            "Überzeugen": 5
+          }
+        ],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "",
+        "damage_immunities": "",
+        "condition_immunities": "",
+        "senses": "passive Wahrnehmung 12",
+        "languages": "zwei beliebige Sprachen",
+        "cr": "1/8",
+        "environment": "Stadt",
+        "bestiary": true,
+        "actions": [
+          {
+            "name": "Rapier",
+            "desc": "Nahkampfangriff:&nbsp;+3 zum Treffen, Reichweite 1,5m, ein Ziel. Treffer:&nbsp;5 (1W8 + 1) Stichschaden.",
+            "attack_bonus": 3,
+            "damage_dice": "1d8",
+            "damage_bonus": 1
+          }
+        ],
+        "reactions": [
+          {
+            "name": "Parieren",
+            "desc": "Der Adelige fügt seiner Rüstungsklasse 2 gegen einen Nahkampfangriff hinzu, welcher ihn ansonsten treffen würde. Hierzu muss der Adelige den Angreifer sehen und eine Nahkampfwaffe tragen."
+          }
+        ],
+        "layout": "Basic 5e German Layout"
+      }
+    ],
+    [
+      "Nothic",
+      {
+        "statblock": true,
+        "name": "Nothic",
+        "image": "<STATBLOCK-WIKI-LINK>Nothic.webp<STATBLOCK-WIKI-LINK>",
+        "source": "Grundregelwerk",
+        "size": "Mittelgroß",
+        "type": "Aberation",
+        "alignment": "neutral böse",
+        "ac": 15,
+        "hp": 45,
+        "hit_dice": "6d8 +18",
+        "speed": "9 Meter.",
+        "stats": [
+          14,
+          16,
+          16,
+          13,
+          10,
+          8
+        ],
+        "skillsaves": [
+          {
+            "Arkane Kunde": 3
+          },
+          {
+            "Heimlichkeit": 5
+          },
+          {
+            "Motiv erkennen": 4
+          },
+          {
+            "Wahrnehmung": 2
+          }
+        ],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "",
+        "damage_immunities": "",
+        "condition_immunities": "",
+        "senses": "Wahrer Blick 18 Meter, passive Wahrnehmung 12",
+        "languages": "Tiefensprache",
+        "cr": 2,
+        "environment": "Unterreich",
+        "bestiary": true,
+        "actions": [
+          {
+            "name": "Mehrfachangriff",
+            "desc": "Der Nothic führt zwei Angriffe mit seinen Klauen aus."
+          },
+          {
+            "name": "Klauen",
+            "desc": "Nahkampfangriff:&nbsp;+4 zum Treffen, Reichweite 1,5m, ein Ziel. Treffer:&nbsp;`6` (`1W6 + 3`) Hiebschaden.",
+            "attack_bonus": 4,
+            "damage_dice": "1d6",
+            "damage_bonus": 3
+          },
+          {
+            "name": "Verfaulender Blick",
+            "desc": "Der Nothic zielt auf eine Kreatur, die er im Umkreis von 10 Metern sehen kann. Das Ziel muss einen Rettungswurf auf Konstitution (SG 12) gegen diese Magie bestehen oder erleidet `10` (`3W6`) nekrotische Schaden."
+          },
+          {
+            "name": "Seltsame Einsicht",
+            "desc": "Der Nothic zielt auf eine Kreatur, die er im Umkreis von 10 Metern sehen kann. Das Ziel muss einen Wurf auf Charisma (Täuschung) gegen einen Wurf auf Weisheit (Motiv erkennen) des Nothic durchführen. Wenn der Nothic gewinnt, erfährt er auf magische Weise eine Tatsache oder ein Geheimnis über das Ziel. Das Ziel gewinnt automatisch, wenn es immun dagegen ist, verzaubert zu werden."
+          }
+        ],
+        "layout": "Basic 5e German Layout"
+      }
+    ],
+    [
+      "Hobgoblin",
+      {
+        "statblock": true,
+        "name": "Hobgoblin",
+        "image": "<STATBLOCK-WIKI-LINK>Hobgoblin.webp<STATBLOCK-WIKI-LINK>",
+        "source": "Grundregelwerk",
+        "size": "Mittelgroß",
+        "type": "Humanoid",
+        "subtype": "Goblinoid",
+        "alignment": "Rechtschaffen böse",
+        "ac": 18,
+        "hp": 11,
+        "hit_dice": "2d8 + 2",
+        "speed": "9 Meter.",
+        "stats": [
+          13,
+          12,
+          12,
+          10,
+          10,
+          9
+        ],
+        "skillsaves": [
+          {
+            "Heimlichkeit": 6
+          }
+        ],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "",
+        "damage_immunities": "",
+        "condition_immunities": "",
+        "senses": "Dunkelsicht 18 Meter, passive Wahrnehmung 10",
+        "languages": "Gemeinsprache, Goblinisch",
+        "cr": "1/2",
+        "environment": "Grasland, Hügel, Unterreich, Wälder, Wüste",
+        "bestiary": true,
+        "traits": [
+          {
+            "name": "Kämpferischer Vorteil",
+            "desc": "Einmal pro Zug kann der Hobgoblin einer Kreatur, die er mit einem Waffenangriff trifft, zusätzlich 7 (`2W6`) Schaden zufügen, sofern diese Kreatur sich im Abstand von bis zu 1,5 Metern von einem Verbündeten des Hobgoblins befindet, der nicht kampfunfähig ist.",
+            "attack_bonus": 0
+          }
+        ],
+        "actions": [
+          {
+            "name": "Langschwert",
+            "desc": "Nahkampfwaffenangriff: +3 auf Treffer, Reichweite 1,5 m, ein Ziel. Treffer: 5 (`1W8+1`) Hiebschaden oder 6 (`1W10+1`) Hiebschaden bei zweihändiger Führung.",
+            "attack_bonus": 3,
+            "damage_dice": "1d8",
+            "damage_bonus": 1
+          },
+          {
+            "name": "Langbogen",
+            "desc": "Fernkampfwaffenangriff: +3 auf Treffer, Reichweite 45/180 m, ein Ziel. Treffer: 5 (`1W8+1`) Stichschaden.",
+            "attack_bonus": 3,
+            "damage_dice": "1d8",
+            "damage_bonus": 1
+          }
+        ],
+        "layout": "Basic 5e German Layout"
+      }
+    ],
+    [
+      "Eulenbär",
+      {
+        "statblock": true,
+        "name": "Eulenbär",
+        "image": "<STATBLOCK-WIKI-LINK>Owlbear.webp<STATBLOCK-WIKI-LINK>",
+        "source": "Grundregelwerk",
+        "size": "Groß",
+        "type": "Monstrosität",
+        "alignment": "gesinnungslos",
+        "ac": 13,
+        "hp": 59,
+        "hit_dice": "7d10 + 21",
+        "speed": "12 Meter.",
+        "stats": [
+          20,
+          12,
+          17,
+          3,
+          12,
+          7
+        ],
+        "skillsaves": [
+          {
+            "Wahrnehmung": 3
+          }
+        ],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "",
+        "damage_immunities": "",
+        "condition_immunities": "",
+        "senses": "Dunkelsicht 18 Meter, passive Wahrnehmung 13",
+        "languages": [
+          null
+        ],
+        "cr": 3,
+        "environment": "Wälder",
+        "bestiary": true,
+        "traits": [
+          {
+            "name": "Scharfe Sicht und scharfer Geruchssinn",
+            "desc": "Der Eulenbär ist bei Würfen auf Weisheit (Wahrnehmung), die auf Sicht oder Geruchssinn basieren, im Vorteil."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Mehrfachangriff",
+            "desc": "Der Eulenbär führt zwei Angriffe aus: einen Schnabel- und einen Klauenangriff.",
+            "attack_bonus": 4,
+            "damage_dice": "1d6",
+            "damage_bonus": 2
+          },
+          {
+            "name": "Klauen",
+            "desc": "Nahkampfwaffenangriff: +7 auf Treffer, Reichweite 1,5 m, ein Ziel. Treffer: 14 (`2W8+5`) Hiebschaden",
+            "attack_bonus": 7,
+            "damage_dice": "2d8",
+            "damage_bonus": 5
+          },
+          {
+            "name": "Schnabel",
+            "desc": "Nahkampfwaffenangriff: +7 auf Treffer, Reichweite 1,5 m, eine Kreatur. Treffer: 10 (1W10+5) Stichschaden.",
+            "attack_bonus": 7,
+            "damage_dice": "1d10",
+            "damage_bonus": 5
+          }
+        ],
+        "layout": "Basic 5e German Layout"
+      }
+    ],
+    [
+      "Todesfee",
+      {
+        "statblock": true,
+        "name": "Todesfee",
+        "image": "<STATBLOCK-WIKI-LINK>Banshee.webp<STATBLOCK-WIKI-LINK>",
+        "source": "Grundregelwerk",
+        "size": "Mittelgroß",
+        "type": "Untoter",
+        "alignment": "Chaotisch böse",
+        "ac": 12,
+        "hp": 58,
+        "hit_dice": "13d8",
+        "speed": "9 Meter.",
+        "stats": [
+          1,
+          14,
+          10,
+          12,
+          11,
+          17
+        ],
+        "saves": [
+          {
+            "Weisheit": 2
+          },
+          {
+            "Charisma": 5
+          }
+        ],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "Blitz, Donner, Feuer, Säure; Hieb-, Stich-, Wuchtschaden von nicht-magischen Angriffen",
+        "damage_immunities": "Gift, Kälte, Nekrotisch",
+        "condition_immunities": "Bezaubert, Erschöpfung, Festgesetzt, Gelähmt, Gepackt, Liegend, Verängstigt, Vergiftet, Versteinert",
+        "senses": "Dunkelsicht 18 Meter, passive Wahrnehmung 10",
+        "languages": "Gemeinsprache, Elfisch",
+        "cr": 4,
+        "environment": [
+          null
+        ],
+        "bestiary": true,
+        "traits": [
+          {
+            "name": "Leben erkennen",
+            "desc": "Die Todesfee kann auf magische Weise die Anwesenheit von Kreaturen in einer Entfernung von bis zu 8 Kilometern wahrnehmen, die keine Untoten oder Konstrukte sind. Sie kennt die allgemeine Richtung, in der sie sich befinden, aber nicht ihren genauen Standort.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Körperlose Bewegung",
+            "desc": "Die Todesfee kann sich durch andere Kreaturen und Objekte bewegen, als wären sie schwieriges Terrain. Sie erleidet 5 (`1W10`) Machtschaden, wenn sie ihren Zug innerhalb eines Objekts beendet.",
+            "attack_bonus": 0
+          }
+        ],
+        "actions": [
+          {
+            "name": "Korrumpierende Berührung",
+            "desc": "Zauberfernkampfangriff:&nbsp;+4 zum Treffen, Reichweite 1,5m, ein Ziel. Treffer:&nbsp;12 (`3W6 + 2`) nekrotischer Schaden.",
+            "attack_bonus": 4,
+            "damage_dice": "3d6",
+            "damage_bonus": 2
+          },
+          {
+            "name": "Schreckliche Visage",
+            "desc": "Jede nicht untote Kreatur im Umkreis von 18 Metern um die Todesfee, die sie sehen kann, muss einen Weisheits-Rettungswurf (SG13) bestehen oder ist eine Minute lang verängstigt. Ein verängstigtes Ziel kann den Rettungswurf am Ende jeder seiner Runden wiederholen, wobei es Nachteil hat, wenn die Todesfee in Sichtweite ist, und den Effekt bei einem Erfolg selbst beenden. Wenn der Rettungswurf des Ziels erfolgreich ist oder der Effekt für das Ziel endet, ist es für die nächsten 24 Stunden immun gegen die Schreckliche Visage der Todesfee."
+          },
+          {
+            "name": "Heulen (1/Tag)",
+            "desc": "Die Todesfee stößt einen klagenden Schrei aus, vorausgesetzt, sie befindet sich nicht im Sonnenlicht. Dieser Schrei hat keine Wirkung auf Konstrukte und Untote. Alle anderen Kreaturen im Umkreis von 9 Metern, die sie hören können, müssen einen auf Konstitutions-Rettungswurf (SG 13) ablegen. Bei einem Fehlschlag fällt die Kreatur auf 0 Trefferpunkte. Bei einem Erfolg erleidet die Kreatur 10 (`3W6`) psychischen Schaden.",
+            "attack_bonus": 4,
+            "damage_dice": "1d6",
+            "damage_bonus": 2
+          }
+        ],
+        "layout": "Basic 5e German Layout"
+      }
+    ],
+    [
+      "Goblin-Psi-Kommandant",
+      {
+        "statblock": true,
+        "name": "Goblin-Psi-Kommandant",
+        "image": "<STATBLOCK-WIKI-LINK>Goblin Psi Commander.webp<STATBLOCK-WIKI-LINK>",
+        "source": "Phandelver & Below",
+        "size": "Klein",
+        "type": "Aberration",
+        "subtype": "goblinoid",
+        "alignment": "jede Gesinnung",
+        "ac": "16 (Beschlagenes Leder)",
+        "hp": 58,
+        "hit_dice": "13d6 + 13",
+        "speed": "9 Meter.",
+        "stats": [
+          12,
+          19,
+          13,
+          17,
+          15,
+          10
+        ],
+        "skillsaves": [
+          {
+            "Heimlichkeit": 8
+          }
+        ],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "psychisch",
+        "damage_immunities": "",
+        "condition_immunities": "",
+        "senses": "Dunkelsicht 18 Meter, passive Wahrnehmung 12",
+        "languages": "Gemeinsprache, Goblin",
+        "cr": 4,
+        "bestiary": true,
+        "traits": [
+          {
+            "name": "Flinkes Entkommen",
+            "desc": "Der Goblin kann in jedem seiner Züge die Aktion Rückzug oder Verstecken als Bonusaktion ausführen."
+          },
+          {
+            "name": "Psionischer Schild",
+            "desc": "Der Goblin kann in jedem seiner Züge die Aktion Rückzug oder Verstecken als Bonusaktion ausführen.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Mentaler Ausbruch",
+            "desc": "Wenn der Goblin stirbt, explodiert seine aufgestaute mentale Energie in einer psychischen Explosion. Jede Kreatur im Umkreis von 1,5 Metern muss einen Rettungswurf auf Intelligenz (SG 13) bestehen oder `5` (`2W4`) psychischen Schaden erleiden.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Mentale Widerstandskraft",
+            "desc": "Der Goblin hat einen Vorteil bei Rettungswürfen gegen Effekte, die ihn in den Zustand der Verzauberung oder Angst versetzen würden.",
+            "attack_bonus": 0
+          }
+        ],
+        "actions": [
+          {
+            "name": "Mehrfachangriff",
+            "desc": "Der Goblin führt drei Angriffe mit psychischen Klingen aus.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Psychische Klinge",
+            "desc": "Nahkampf- oder Fernkampfangriff:&nbsp;+6 zum Treffen, Reichweite 1,5m oder 18m, ein Ziel. Treffer:&nbsp;11 (2W6 + 4) psychischer Schaden und das Ziel muss 1W4 von seinem nächsten Angriffs- oder Rettungswurf abziehen, bevor der Goblin seinen nächsten Zug beendet.",
+            "attack_bonus": 4,
+            "damage_dice": "1d6",
+            "damage_bonus": 2
+          }
+        ],
+        "spells": [
+          "(Psionisch) Der Goblin wirkt einen der folgenden Zauber, die keine Zauberkomponenten benötigen und Intelligenz als Zauberattribut verwenden (Zauberrettungswurf SG 13):",
+          {
+            "Nach Belieben": "<STATBLOCK-WIKI-LINK>Magierhand.md|Magierhand<STATBLOCK-WIKI-LINK> (die Hand ist unsichtbar), <STATBLOCK-WIKI-LINK>minor-illusion.md|Einfache Illusion<STATBLOCK-WIKI-LINK>"
+          },
+          {
+            "Je 1/Tag": "<STATBLOCK-WIKI-LINK>Person-bezaubern|Person berzaubern<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Dissonantes-Flüstern.md|Dissonantes Flüstern<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>telekinesis.md|Telekinese<STATBLOCK-WIKI-LINK>"
+          }
+        ],
+        "layout": "Basic 5e German Layout"
+      }
+    ],
+    [
+      "Goblin-Psi-Raufbold",
+      {
+        "statblock": true,
+        "name": "Goblin-Psi-Raufbold",
+        "image": "<STATBLOCK-WIKI-LINK>Goblin Psi Brawler.webp<STATBLOCK-WIKI-LINK>",
+        "source": "Phandelver & Below",
+        "size": "Klein",
+        "type": "Aberration",
+        "subtype": "goblinoid",
+        "alignment": "jede Gesinnung",
+        "ac": "15 (Beschlagenes Leder)",
+        "hp": 31,
+        "hit_dice": "7d6 + 7",
+        "speed": "9 Meter.",
+        "stats": [
+          9,
+          17,
+          12,
+          16,
+          15,
+          10
+        ],
+        "skillsaves": [
+          {
+            "Heimlichkeit": 7
+          }
+        ],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "psychisch",
+        "damage_immunities": "",
+        "condition_immunities": "",
+        "senses": "Dunkelsicht 18 Meter, passive Wahrnehmung 12",
+        "languages": "Gemeinsprache, Goblin, Telepathie 9 Meter",
+        "cr": 2,
+        "bestiary": true,
+        "traits": [
+          {
+            "name": "Flinkes Entkommen",
+            "desc": "Der Goblin kann in jedem seiner Züge die Aktion Rückzug oder Verstecken als Bonusaktion ausführen.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Telekinetischer Stoß",
+            "desc": "Der Goblin zielt mit einem Stoß telekinetischer Kraft auf eine Kreatur im Umkreis von 9 Metern, die er sehen kann. Das Ziel muss einen Rettungswurf auf Stärke (SG 13) bestehen oder sich in den Zustand Liegen begeben.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Mentaler Ausbruch",
+            "desc": "Wenn der Goblin stirbt, explodiert seine aufgestaute mentale Energie in einer psychischen Explosion. Jede Kreatur im Umkreis von 1,5 Metern muss einen Rettungswurf auf Intelligenz (SG 13) bestehen oder `5` (`2W4`) psychischen Schaden erleiden.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Mentale Widerstandskraft",
+            "desc": "Der Goblin hat einen Vorteil bei Rettungswürfen gegen Effekte, die ihn in den Zustand der Verzauberung oder Angst versetzen würden.",
+            "attack_bonus": 0
+          }
+        ],
+        "actions": [
+          {
+            "name": "Mehrfachangriff",
+            "desc": "Der Goblin führt zwei waffenlose Angriffe aus."
+          },
+          {
+            "name": "Waffenloser Angriff",
+            "desc": "Nahkampfangriff:&nbsp;+5 zum Treffen, Reichweite 1,5m, ein Ziel. Treffer:&nbsp;`5` (`1W4 + 3`) Hiebschaden plus `3` (`1W6`) psychischer Schaden.",
+            "attack_bonus": 4,
+            "damage_dice": "1d4",
+            "damage_bonus": 3
+          }
+        ],
+        "reactions": [
+          {
+            "name": "Angriff umlenken",
+            "desc": "Wenn der Goblin von einer Kreatur angegriffen wird, die er sehen kann, wählt der Goblin einen anderen Goblin im Umkreis von 1,5 Metern. Die beiden Goblins tauschen ihre Positionen und der gewählte Goblin wird stattdessen zum Ziel."
+          }
+        ],
+        "layout": "Basic 5e German Layout"
+      }
+    ],
+    [
+      "Iarno \"Glasstaff\" Albreck",
+      {
+        "statblock": true,
+        "name": "Iarno \"Glasstaff\" Albreck",
+        "image": "<STATBLOCK-WIKI-LINK>Iarno Glasstaff Albrek.webp<STATBLOCK-WIKI-LINK>",
+        "source": "Phandelver & Below",
+        "size": "Mittelgroß",
+        "type": "Humanoid",
+        "alignment": "Rechtschaffen böse",
+        "ac": 12,
+        "hp": 22,
+        "hit_dice": "5d8",
+        "speed": "9 Meter.",
+        "stats": [
+          9,
+          14,
+          11,
+          17,
+          12,
+          11
+        ],
+        "saves": [
+          {
+            "Intelligenz": 5
+          },
+          {
+            "Weisheit": 3
+          }
+        ],
+        "skillsaves": [
+          {
+            "Arkane Kunde": 5
+          },
+          {
+            "Geschichte": 5
+          }
+        ],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "",
+        "damage_immunities": "",
+        "condition_immunities": "",
+        "senses": "passive Wahrnehmung 11",
+        "languages": "Drakonisch, Elfisch, Gemeinsprache, Zwergisch",
+        "cr": 1,
+        "bestiary": true,
+        "traits": [
+          {
+            "name": "Besondere Ausrüstung",
+            "desc": "Glasstaff schwingt einen Stab der Verteidigung. Mit dem Stab in der Hand kann er eine Aktion verwenden, um den Zauber <STATBLOCK-WIKI-LINK>Magierrüstung.md|Magierrüstung<STATBLOCK-WIKI-LINK> zu wirken, und seine Reaktion nutzen, um den Zauber <STATBLOCK-WIKI-LINK>Schild.md|Schild<STATBLOCK-WIKI-LINK> zu wirken."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Mehrfachangriff",
+            "desc": "Glasstab führt zwei Angriffe mit „Schockierender Stoß“ aus."
+          },
+          {
+            "name": "Schockierender Stoß",
+            "desc": "Nahkampf- oder Fernkampf-Zauberangriff: +5 auf Treffer, Reichweite 1,5m. oder 36m., ein Ziel. Treffer: 6 (`1W6 + 3`) Blitzschaden.",
+            "attack_bonus": 6,
+            "damage_dice": "1d6",
+            "damage_bonus": 3
+          }
+        ],
+        "spells": [
+          "Glasstab wirkt einen der folgenden Zauber, die keine materiellen Komponenten benötigen und Intelligenz als Zauberfähigkeit verwenden (Zauberrettungswurf SG 13):",
+          "Nach Belieben:&nbsp;<STATBLOCK-WIKI-LINK>light.md|Licht<STATBLOCK-WIKI-LINK>,&nbsp;<STATBLOCK-WIKI-LINK>Magierhand.md|Magierhand<STATBLOCK-WIKI-LINK>",
+          {
+            "Je 1/Tag": "<STATBLOCK-WIKI-LINK>Person-bezaubern|Person bezaubern<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Person-festhalten.md|Person festhalten<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Magisches-Geschoss.md|Magisches Geschoss<STATBLOCK-WIKI-LINK>"
+          }
+        ],
+        "bonus_actions": [
+          {
+            "name": "Teleportieren (2/Tag)",
+            "desc": "Glasstab teleportiert sich zusammen mit der Ausrüstung, die er trägt, auf magische Weise bis zu 9 Meter weit in einen unbesetzten Raum, den er sehen kann."
+          }
+        ],
+        "layout": "Basic 5e German Layout"
+      }
+    ],
+    [
+      "Rotbrand-Grobian",
+      {
+        "statblock": true,
+        "name": "Rotbrand-Grobian",
+        "image": "<STATBLOCK-WIKI-LINK>Redbrand Ruffian.webp<STATBLOCK-WIKI-LINK>",
+        "source": "Phandelver & Below",
+        "size": "Mittel",
+        "type": "humanoid",
+        "alignment": "üblicherweise Neutral Böse",
+        "ac": 17,
+        "hp": 16,
+        "hit_dice": "3d8 +3",
+        "speed": "9 Meter.",
+        "stats": [
+          14,
+          10,
+          12,
+          9,
+          9,
+          11
+        ],
+        "skillsaves": [
+          {
+            "Einschüchtern": 2
+          }
+        ],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "",
+        "damage_immunities": "",
+        "condition_immunities": "",
+        "senses": "passive Wahrnehmung 9",
+        "languages": "Gemeinsprache",
+        "cr": "1/2",
+        "environment": "Wald, Grasland, Hügel, Unterreich",
+        "bestiary": true,
+        "actions": [
+          {
+            "name": "Kurzschwert",
+            "desc": "Nahkampfangriff:&nbsp;+4 zum Treffen, Reichweite 1,5m, ein Ziel. Treffer:&nbsp;5 (1W6 + 2) Stichschaden.",
+            "attack_bonus": 4,
+            "damage_dice": "1d6",
+            "damage_bonus": 2
+          }
+        ],
+        "layout": "Basic 5e German Layout"
+      }
+    ],
+    [
+      "Zweigplage",
+      {
+        "statblock": true,
+        "name": "Zweigplage",
+        "image": "<STATBLOCK-WIKI-LINK>TwigBlight.webp<STATBLOCK-WIKI-LINK>",
+        "source": "Grundregelwerk",
+        "size": "Klein",
+        "type": "Pflanze",
+        "alignment": "neutral böse",
+        "ac": 13,
+        "hp": 4,
+        "hit_dice": "1d6+1",
+        "speed": "6 Meter.",
+        "stats": [
+          6,
+          13,
+          12,
+          4,
+          8,
+          3
+        ],
+        "skillsaves": [
+          {
+            "Heimlichkeit": 3
+          }
+        ],
+        "damage_vulnerabilities": "Feuer",
+        "damage_resistances": "",
+        "damage_immunities": "",
+        "condition_immunities": "Blind, Taub",
+        "senses": "Dunkelsicht 18 Meter, passive Wahrnehmung 9",
+        "languages": "versteht Gemeinsprache, kann sie aber nicht sprechen",
+        "cr": "1/8",
+        "environment": "Wälder",
+        "bestiary": true,
+        "traits": [
+          {
+            "name": "Falsche Erscheinung",
+            "desc": "Solange die Plage unbeweglich bleibt, ist sie von einem toten Strauch nicht zu unterscheiden.",
+            "attack_bonus": 0
+          }
+        ],
+        "actions": [
+          {
+            "name": "Klauen",
+            "desc": "Nahkampfangriff:&nbsp;+3 zum Treffen, Reichweite 1,5m, ein Ziel. Treffer:&nbsp;3 (1W4 + 1) Stichschaden.",
+            "attack_bonus": 3,
+            "damage_dice": "1d4",
+            "damage_bonus": 1
+          }
+        ],
+        "layout": "Basic 5e German Layout"
+      }
+    ],
+    [
+      "Riesenspinne",
+      {
+        "statblock": true,
+        "name": "Riesenspinne",
+        "image": "<STATBLOCK-WIKI-LINK>Giant-Spider.webp<STATBLOCK-WIKI-LINK>",
+        "source": "Grundregelwerk",
+        "size": "Groß",
+        "type": "Bestie",
+        "alignment": "gesinnungslos",
+        "ac": 14,
+        "hp": 26,
+        "hit_dice": "4d10 + 4",
+        "speed": "9 Meter, 9m kletternd.",
+        "stats": [
+          14,
+          16,
+          12,
+          2,
+          11,
+          4
+        ],
+        "skillsaves": [
+          {
+            "Heimlichkeit": 7
+          }
+        ],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "",
+        "damage_immunities": "",
+        "condition_immunities": "",
+        "senses": "Blindsicht 3 Meter, Dunkelsicht 18 Meter, passive Wahrnehmung 10",
+        "languages": [
+          null
+        ],
+        "cr": 1,
+        "environment": "Stadt, Sümpfe, Unterreich, Wüste, Wälder",
+        "bestiary": true,
+        "traits": [
+          {
+            "name": "Netzsinn",
+            "desc": "Solange die Spinne in Kontakt mit einem Spinnennetz ist, weiß sie genau, wo sich andere Kreaturen aufhalten, die in Kontakt mit demselben Netz sind.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Netzwandler",
+            "desc": "Die Spinne ignoriert Bewegungseinschränkungen, die durch Netze verursacht werden.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Spinnenklettern",
+            "desc": "Die Spinne kann an schwierigen Oberflächen klettern, auch kopfüber an der Decke, ohne Attributswürfe ausführen zu müssen.",
+            "attack_bonus": 0
+          }
+        ],
+        "actions": [
+          {
+            "name": "Biss",
+            "desc": "Nahkampfwaffenangriff: +5 auf Treffer, Reichweite 1,5 m, ein Ziel. Treffer: 7 (`1W8+3`) Stichschaden, und das Ziel muss einen SG-11-Konstitutionsrettungswurf ausführen. Scheitert der Wurf, erleidet es 9 (`2W8`) Giftschaden, anderenfalls die Hälfte. Wenn die Trefferpunkte des Ziels durch den Giftschaden auf 0 sinken, ist das Ziel stabil, aber eine Stunde lang vergiftet sowie gelähmt, selbst wenn es Trefferpunkte zurückgewinnt",
+            "attack_bonus": 5,
+            "damage_dice": "1d8",
+            "damage_bonus": 3
+          },
+          {
+            "name": "Netz (Aufladung 5–6)",
+            "desc": "Fernkampfwaffenangriff: +5 auf Treffer, Reichweite 9/18 m, ein Ziel. Treffer: Das Ziel ist durch das Netz festgesetzt. Als Aktion kann dasfestgesetzte Ziel einen SG-12-Stärkewurf ausführen. Bei einem Erfolg befreit es sich aus den Netzen. Das Netz kann auch angegriffen und zerstört werden (RK 10, 5 Trefferpunkte, anfällig für Feuerschaden, immun gegen Gift-, psychischen und Wuchtschaden).",
+            "attack_bonus": 5
+          }
+        ],
+        "layout": "Basic 5e German Layout"
+      }
+    ],
+    [
+      "Oger",
+      {
+        "statblock": true,
+        "name": "Oger",
+        "image": "<STATBLOCK-WIKI-LINK>Ogre.png<STATBLOCK-WIKI-LINK>",
+        "source": "Grundregelwerk",
+        "size": "Groß",
+        "type": "Riese",
+        "alignment": "chaotisch böse",
+        "ac": 11,
+        "hp": 59,
+        "hit_dice": "7d10 + 21",
+        "speed": "12 Meter.",
+        "stats": [
+          19,
+          8,
+          16,
+          5,
+          7,
+          7
+        ],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "",
+        "damage_immunities": "",
+        "condition_immunities": "",
+        "senses": "Dunkelsicht 18 Meter, passive Wahrnehmung 8",
+        "languages": "Gemeinsprache, Riesisch",
+        "cr": 2,
+        "environment": "Arktis, Berge, Grasland, Hügel, Küste, Sümpfe, Unterreich, Wälder, Wüste",
+        "bestiary": true,
+        "actions": [
+          {
+            "name": "Zweihandknüppel",
+            "desc": "Nahkampfwaffenangriff: +6 auf Treffer, Reichweite 1,5 m, ein Ziel. Treffer: 13 (`2W8+4`) Wuchtschaden.",
+            "attack_bonus": 6,
+            "damage_dice": "2d8",
+            "damage_bonus": 4
+          },
+          {
+            "name": "Wurfspeer",
+            "desc": "Nah- oder Fernkampfwaffenangriff: +6 auf Treffer, Reichweite 1,5 m oder Reichweite 9/36 m, ein Ziel. Treffer: 11 (`2W6+4`) Stichschaden.",
+            "attack_bonus": null,
+            "damage_dice": "2d6",
+            "damage_bonus": 4
+          }
+        ],
+        "layout": "Basic 5e German Layout"
+      }
+    ],
+    [
+      "Ghul",
+      {
+        "statblock": true,
+        "name": "Ghul",
+        "image": "<STATBLOCK-WIKI-LINK>Ghoul.png<STATBLOCK-WIKI-LINK>",
+        "source": "Grundregelwerk",
+        "size": "Mittelgroß",
+        "type": "Untoter",
+        "alignment": "chaotisch böse",
+        "ac": 12,
+        "hp": 22,
+        "hit_dice": "5d8",
+        "speed": "9 Meter.",
+        "stats": [
+          13,
+          15,
+          10,
+          7,
+          10,
+          6
+        ],
+        "skillsaves": [
+          {
+            "Heimlichkeit": 6
+          }
+        ],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "",
+        "damage_immunities": "Gift",
+        "condition_immunities": "n Bezaubert, Erschöpft, Vergiftet",
+        "senses": "Dunkelsicht 18 Meter, passive Wahrnehmung 10",
+        "languages": "Gemeinsprache",
+        "cr": 1,
+        "environment": "Stadt, Sümpfe, Unterreich",
+        "bestiary": true,
+        "actions": [
+          {
+            "name": "Biss",
+            "desc": "Nahkampfwaffenangriff: +2 auf Treffer, Reichweite 1,5 m, eine Kreatur. Treffer: 9 (`2W6+2`) Stichschaden.",
+            "attack_bonus": 2,
+            "damage_dice": "2d6",
+            "damage_bonus": 2
+          },
+          {
+            "name": "Klauen",
+            "desc": "Nahkampfwaffenangriff: +4 auf Treffer, Reichweite 1,5 m, ein Ziel. Treffer: 7 (`2W4+2`) Hiebschaden. Falls das Ziel eine Kreatur ist, aber kein Elf oder Untoter, muss es einen Konstitutions-Rettungswurf (SG 10) bestehen, um nicht eine Minute lang gelähmt zu werden. Das Ziel kann den Rettungswurf am Ende jedes seiner Züge wiederholen und den Effekt bei einem Erfolg beenden.",
+            "attack_bonus": 4,
+            "damage_dice": "2d4",
+            "damage_bonus": 2
+          }
+        ],
+        "layout": "Basic 5e German Layout"
+      }
+    ],
+    [
+      "Blutmücke",
+      {
+        "statblock": true,
+        "name": "Blutmücke",
+        "image": "<STATBLOCK-WIKI-LINK>Stirge.png<STATBLOCK-WIKI-LINK>",
+        "source": "Grundregelwerk",
+        "size": "Winzig",
+        "type": "Bestie",
+        "alignment": "gesinnungslos",
+        "ac": 14,
+        "hp": 2,
+        "hit_dice": "1d4",
+        "speed": "3 Meter, Fliegen 12 Meter",
+        "stats": [
+          4,
+          16,
+          11,
+          2,
+          8,
+          6
+        ],
+        "skillsaves": [
+          {
+            "Heimlichkeit": 6
+          }
+        ],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "",
+        "damage_immunities": "",
+        "condition_immunities": "",
+        "senses": "Dunkelsicht 18 Meter, passive Wahrnehmung 9",
+        "languages": [
+          null
+        ],
+        "cr": "1/8",
+        "environment": "Berge, Grasland, Hügel, Küste, Stadt, Sümpfe, Unterreich, Wälder, Wüste",
+        "bestiary": true,
+        "actions": [
+          {
+            "name": "Blutabsaugung",
+            "desc": ": Nahkampfwaffenangriff: +5 auf Treffer, Reichweite 1,5 m, eine Kreatur. Treffer: 5 (`1W4+3`) Stichschaden, und die Blutmücke heftet sich an das Ziel an. Während sie angeheftet ist, greift die Blutmücke nicht an. Stattdessen verliert das Ziel zu Beginn jedes Zugs der Blutmücke 5 (`1W4+3`) Trefferpunkte aufgrund des Blutverlusts. Die Blutmücke kann sich lösen, indem sie 1,5 Meter ihrer Bewegungsrate verwendet. Das tut sie, nachdem sie 10 Trefferpunkte an Blut ausgesaugt hat oder wenn das Ziel stirbt. Eine Kreatur, auch das Ziel, kann eine Aktion verwenden, um die Blutmücke zu entfernen.",
+            "attack_bonus": 5,
+            "damage_dice": "1d4",
+            "damage_bonus": 3
+          }
+        ],
+        "layout": "Basic 5e German Layout"
+      }
+    ],
+    [
+      "Grell",
+      {
+        "statblock": true,
+        "name": "Grell",
+        "image": "<STATBLOCK-WIKI-LINK>Grell.webp<STATBLOCK-WIKI-LINK>",
+        "source": "Grundregelwerk",
+        "size": "Mittel",
+        "type": "Aberration",
+        "alignment": "neutral böse",
+        "ac": 12,
+        "hp": 55,
+        "hit_dice": "10d8+10",
+        "speed": "3 Meter, fliegend 9 Meter (schwebend).",
+        "stats": [
+          8,
+          14,
+          10,
+          10,
+          8,
+          8
+        ],
+        "skillsaves": [
+          {
+            "Wahrnehmung": 4
+          },
+          {
+            "Heimlichkeit": 6
+          }
+        ],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "",
+        "damage_immunities": "Blitz",
+        "condition_immunities": "Blind, Liegend",
+        "senses": "Dunkelsicht 18 Meter, passive Wahrnehmung 9",
+        "languages": "Grell",
+        "cr": 3,
+        "environment": "Unterreich",
+        "bestiary": true,
+        "actions": [
+          {
+            "name": "Mehrfachangriff",
+            "desc": "Der Grell macht zwei Angriffe: einen mit seinen Tentakeln und einen mit seinem Schnabel.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Tentakel",
+            "desc": "Nahkampfangriff:&nbsp;+4 zum Treffen, Reichweite 3m, ein Ziel. Treffer:&nbsp;7 (`1W10` + 2) Stichschaden. Das Ziel muss einen Konstitutions-Rettungswurf SG 11 bestehen oder wird 1 Minute lang vergiftet. Das vergiftete Ziel ist gelähmt und kann den Rettungswurf am Ende jeder seiner Runden wiederholen, wobei der Effekt bei einem Erfolg beendet wird. Das Ziel wird außerdem gepackt (Befreiung SG 15). Wenn das Ziel mittelgroß oder kleiner ist, wird es ebenfalls gefesselt, bis dieser Griff endet. Während der Grell das Ziel packt, hat er einen Vorteil bei Angriffswürfen gegen das Ziel und kann diesen Angriff nicht gegen andere Ziele einsetzen. Wenn sich der Grell bewegt, bewegt sich jedes Ziel mittlerer Größe oder kleiner, das er im Griff hat, mit ihm.",
+            "attack_bonus": 4,
+            "damage_dice": "1d10",
+            "damage_bonus": 2
+          }
+        ],
+        "layout": "Basic 5e German Layout"
+      }
+    ],
+    [
+      "Schreckenswolf",
+      {
+        "statblock": true,
+        "name": "Schreckenswolf",
+        "image": "<STATBLOCK-WIKI-LINK>Dire-wolf.png<STATBLOCK-WIKI-LINK>",
+        "source": "Grundregelwerk",
+        "size": "Groß",
+        "type": "Biest",
+        "alignment": "gesinnungslos",
+        "ac": 14,
+        "hp": 37,
+        "hit_dice": "5d10+10",
+        "speed": "15 Meter.",
+        "stats": [
+          17,
+          15,
+          15,
+          3,
+          12,
+          7
+        ],
+        "skillsaves": [
+          {
+            "Heimlichkeit": 4
+          },
+          {
+            "Wahrnehmung": 3
+          }
+        ],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "",
+        "damage_immunities": "",
+        "condition_immunities": "",
+        "senses": "passive Wahrnehmung 13",
+        "languages": [
+          null
+        ],
+        "cr": 1,
+        "environment": "Wälder, Hügel",
+        "bestiary": true,
+        "traits": [
+          {
+            "name": "Scharfes Gehör und Geruch",
+            "desc": "Der Wolf hat einen Vorteil bei Proben auf Weisheit (Wahrnehmung), die auf Gehör oder Geruch beruhen.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Rudeltaktik",
+            "desc": "Der Wolf hat einen Vorteil bei einem Angriffswurf gegen eine Kreatur, wenn sich mindestens ein Verbündeter des Wolfes innerhalb von 1,5 Metern um die Kreatur befindet und der Verbündete nicht außer Gefecht gesetzt ist.",
+            "attack_bonus": 0
+          }
+        ],
+        "actions": [
+          {
+            "name": "Biss",
+            "desc": "Nahkampfangriff:&nbsp;+5 auf Treffer, Reichweite 1,5m., ein Ziel. Treffer: 10 (`2W6` + 3) Stichschaden. Handelt es sich bei dem Ziel um eine Kreatur, muss diese einen Stärke-Rettungswurf SG 13 bestehen, oder sie wird auf den Boden geworfen.",
+            "attack_bonus": 5,
+            "damage_dice": "2d6",
+            "damage_bonus": 3
+          }
+        ],
+        "layout": "Basic 5e German Layout"
+      }
+    ],
+    [
+      "Phantomkrieger",
+      {
+        "statblock": true,
+        "name": "Phantomkrieger",
+        "image": "<STATBLOCK-WIKI-LINK>NAME.png<STATBLOCK-WIKI-LINK>",
+        "source": "Fluch des Strahd",
+        "size": "Mittelgroß",
+        "type": "Untoter",
+        "alignment": "beliebige Gesinnung",
+        "ac": 16,
+        "hp": 45,
+        "hit_dice": "6d8 + 18",
+        "speed": "9 Meter.",
+        "stats": [
+          16,
+          11,
+          16,
+          8,
+          10,
+          15
+        ],
+        "skillsaves": [
+          {
+            "Heimlichkeit": 4
+          },
+          {
+            "Wahrnehmung": 2
+          }
+        ],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "Hieb-, Stich- und Wuchtschaden von nicht-magischen Angriffen",
+        "damage_immunities": "Gift, Kälte, nekrotisch",
+        "condition_immunities": "Bezaubert, erschöpft, festgesetzt, gelähmt,gepackt, liegend, verängstigt, vergiftet, versteinert",
+        "senses": "Dunkelsicht 18 Meter, passive Wahrnehmung 12",
+        "languages": "Jede Sprache, die er zu Lebzeiten beherrschte",
+        "cr": 3,
+        "bestiary": true,
+        "traits": [
+          {
+            "name": "Ätherische Sicht",
+            "desc": "Der Phantomkrieger kann 18 Meter weit in die Ätherebene blicken, wenn er sich auf der Materiellen Ebene befindet, und umgekehrt.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Körperlose Bewegung",
+            "desc": "Der Phantomkrieger kann sich durch andere Kreaturen und Gegenstände bewegen, als seien sie schwieriges Gelände. Er erleidet `5 (1W10)` Energieschaden, wenn er seinen Zug in einem Gegenstand beendet.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Spektrale Rüstung und spektraler Schild",
+            "desc": "Die RK des Phantomkriegers berücksichtigt seine spektrale Rüstung und seinen spektralen Schild.",
+            "attack_bonus": 0
+          }
+        ],
+        "actions": [
+          {
+            "name": "Mehrfachangriff",
+            "desc": "Der Phantomkrieger führt zwei Angriffe mit seinem spektralen Langschwert aus.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Spektrales Langschwert",
+            "desc": "_Nahkampf-Waffenangriff_: +5 zum Treffen, Reichweite 1,50 m, ein Ziel. Treffer: `7` (`1W8 + 3`) Energieschaden.",
+            "attack_bonus": 5,
+            "damage_dice": "1d8",
+            "damage_bonus": 3
+          },
+          {
+            "name": "Körperlosigkeit",
+            "desc": "Der Phantomkrieger kann die Ätherebene von der Materiellen Ebene aus betreten und andersherum. Er ist auf der Materiellen Ebene sichtbar, solange er sich in der Äthergrenze befindet, doch er kann nichts auf der anderen Ebene beeinflussen oder beeinflusst werden.",
+            "attack_bonus": 0
+          }
+        ],
+        "layout": "Basic 5e German Layout"
+      }
+    ],
+    [
+      "Wiedergänger",
+      {
+        "statblock": true,
+        "name": "Wiedergänger",
+        "image": "<STATBLOCK-WIKI-LINK>Wiedergänger-token.webp<STATBLOCK-WIKI-LINK>",
+        "source": "Monsterhandbuch",
+        "size": "Mittelgroß",
+        "type": "Untoter",
+        "alignment": "Neutral",
+        "ac": 13,
+        "hp": 136,
+        "hit_dice": "16d8 + 64",
+        "speed": "9 Meter.",
+        "stats": [
+          18,
+          14,
+          18,
+          13,
+          16,
+          18
+        ],
+        "saves": [
+          {
+            "STR": 7
+          },
+          {
+            "KON": 7
+          },
+          {
+            "WEI": 6
+          },
+          {
+            "CHA": 7
+          }
+        ],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "Nekrotisch, Psychisch",
+        "damage_immunities": "Gift",
+        "condition_immunities": "Betäubt, Bezaubert, Erschöpfung, Gelähmt, Verängstigt, Vergiftet",
+        "senses": "Dunkelsicht 18 Meter, passive Wahrnehmung 13",
+        "languages": "Jede Sprache, die er zu Lebzeiten beherrschte",
+        "cr": 5,
+        "environment": "Arktis, Hügel, Stadt, Sümpfe, Wälder, Wüste",
+        "bestiary": true,
+        "traits": [
+          {
+            "name": "Regeneration",
+            "desc": "Der Wiedergänger erhält zu Beginn seines Zuges 10 Trefferpunkte zurück. Wenn der Wiedergänger Feuer- oder gleißenden Schaden erleidet, funktioniert diese Eigenschaft zu Beginn des nächsten Zuges des Wiedergängers nicht mehr. Der Körper des Wiedergängers wird nur zerstört, wenn er seinen Zug mit 0 Trefferpunkten beginnt und sich nicht regeneriert.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Verjüngung",
+            "desc": "Wenn der Körper des Wiedergängers zerstört wird, verbleibt seine Seele. Nach 24 Stunden bewohnt und belebt die Seele einen anderen humanoiden Leichnam auf derselben Existenzebene und erhält alle ihre Trefferpunkte zurück. Solange die Seele körperlos ist, kann man sie mit einem Wunschzauber dazu zwingen, ins Jenseits zu gehen und nicht zurückzukehren.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Immunität gegen Verwandlung",
+            "desc": "Der Wiedergänger ist immun gegen Effekte, die Untote verwandeln.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Rachsüchtiger Fährtenleser",
+            "desc": "Der Wiedergänger kennt die Entfernung und die Richtung jeder Kreatur, an der er sich rächen will, auch wenn sich die Kreatur und der Wiedergänger auf verschiedenen Existenzebenen befinden. Wenn die Kreatur, die der Wiedergänger verfolgt, stirbt, weiß der Wiedergänger das.",
+            "attack_bonus": 0
+          }
+        ],
+        "actions": [
+          {
+            "name": "Mehrfachangriff",
+            "desc": "Der Wiedergänger führt zwei Faustangriffe aus.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Faust",
+            "desc": "_Nahkampf-Waffenangriff_: +7 zum Treffen, Reichweite 1,50 m, ein Ziel. Treffer: `11` (`2W6 + 4`) Wuchtschaden. Wenn das Ziel eine Kreatur ist, gegen die der Wiedergänger Rache geschworen hat, erleidet das Ziel zusätzlich `14` (`4d6`) Wuchtschaden. Anstatt Schaden zuzufügen, kann der Wiedergänger das Ziel packen (SG 14 zum Entkommen), sofern es der Kategorie Groß oder kleiner angehört.",
+            "attack_bonus": 7,
+            "damage_dice": "2d6",
+            "damage_bonus": 4
+          },
+          {
+            "name": "Rachsüchtiges Blenden",
+            "desc": "Der Wiedergänger zielt auf eine Kreatur, die er im Umkreis von 9 Metern sehen kann und gegen die er Rache geschworen hat. Das Ziel muss einen Weisheits-Rettungswurf gegen SG 15 ablegen. Bei einem Fehlschlag wird das Ziel gelähmt, bis der Wiedergänger ihm Schaden zufügt oder bis zum Ende des nächsten Zuges des Wiedergänger. Wenn die Lähmung endet, hat das Ziel 1 Minute lang Angst vor dem Wiedergänger. Das verängstigte Ziel kann den Rettungswurf am Ende jeder seiner Runden wiederholen, wobei es einen Nachteil hat, wenn es den Wiedergänger sehen kann, und den Zustand der Verängstigung dadurch bei einem Erfolg selbst beenden.",
+            "attack_bonus": 4,
+            "damage_dice": "1d6",
+            "damage_bonus": 2
+          }
+        ],
+        "layout": "Basic 5e German Layout"
+      }
+    ],
+    [
+      "Gemeiner",
+      {
+        "statblock": true,
+        "name": "Gemeiner",
+        "image": "<STATBLOCK-WIKI-LINK>Gemeiner.png<STATBLOCK-WIKI-LINK>",
+        "source": "Grundregelwerk",
+        "size": "Mittel",
+        "type": "Humanoide (jedes Volk)",
+        "alignment": "jede Gesinnung",
+        "ac": 10,
+        "hp": 4,
+        "hit_dice": "1d8",
+        "speed": "9 Meter.",
+        "stats": [
+          10,
+          10,
+          10,
+          10,
+          10,
+          10
+        ],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "",
+        "damage_immunities": "",
+        "condition_immunities": "",
+        "senses": "passive Wahrnehmung 10",
+        "languages": "Eine beliebige Sprache (normalerweise Gemeinsprache)",
+        "cr": 0,
+        "environment": "Arktis, Grasland, Hügel, Küste, Stadt, Wälder, Wüste",
+        "bestiary": true,
+        "actions": [
+          {
+            "name": "Knüppel",
+            "desc": "_Nahkampf-Waffenangriff:_ +2 auf Treffer, Reichweite 1,5 m, ein Ziel. _Treffer:_ 2 (`1W4`) Wuchtschaden.",
+            "attack_bonus": 2,
+            "damage_dice": "1d4",
+            "damage_bonus": 0
+          }
+        ],
+        "layout": "Basic 5e German Layout"
+      }
+    ],
+    [
+      "Wache",
+      {
+        "statblock": true,
+        "name": "Wache",
+        "image": "<STATBLOCK-WIKI-LINK>Wache.png<STATBLOCK-WIKI-LINK>",
+        "source": "Grundregelwerk",
+        "size": "Mittel",
+        "type": "Humanoide (jedes Volk)",
+        "alignment": "jede Gesinnung",
+        "ac": 16,
+        "hp": 11,
+        "hit_dice": "2d8 + 2",
+        "speed": "9 Meter.",
+        "stats": [
+          13,
+          12,
+          12,
+          10,
+          11,
+          10
+        ],
+        "skillsaves": [
+          {
+            "Wahrnehmung": 2
+          }
+        ],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "",
+        "damage_immunities": "",
+        "condition_immunities": "",
+        "senses": "passive Wahrnehmung 12",
+        "languages": "Eine beliebige Sprache (normalerweise Gemeinsprache)",
+        "cr": "1/8",
+        "environment": "ENVIRONMENT",
+        "bestiary": true,
+        "actions": [
+          {
+            "name": "Speer",
+            "desc": "_Nah- oder Fernkampf-Waffenangriff:_ +3 auf Treffer, Reichweite 1,5 m oder Reichweite 6/18 m, ein Ziel. _Treffer:_ 4 (`1W6 + 1`) Stichschaden oder 5 (`1W8 + 1`) Stichschaden, wenn beidhändig geführt, um einen Nahkampfangriff auszuführen.",
+            "attack_bonus": 4,
+            "damage_dice": "1d6",
+            "damage_bonus": 1
+          }
+        ],
+        "layout": "Basic 5e German Layout"
+      }
+    ],
+    [
+      "Isek Strasni",
+      {
+        "statblock": true,
+        "name": "Isek Strasni",
+        "image": "<STATBLOCK-WIKI-LINK>NAME.png<STATBLOCK-WIKI-LINK>",
+        "source": "Fluch des Strahd",
+        "size": "Mittelgroß",
+        "type": "Humanoide",
+        "alignment": "neutral böse",
+        "ac": 14,
+        "hp": 112,
+        "hit_dice": "15d8 + 45",
+        "speed": "9 Meter.",
+        "stats": [
+          18,
+          15,
+          16,
+          10,
+          9,
+          15
+        ],
+        "skillsaves": [
+          {
+            "Einschüchtern": 8
+          },
+          {
+            "Wahrnehmung": 2
+          }
+        ],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "",
+        "damage_immunities": "",
+        "condition_immunities": "",
+        "senses": "passive Wahrnehmung 12",
+        "languages": "Gemeinsprache",
+        "cr": 5,
+        "environment": "Stadt",
+        "bestiary": true,
+        "traits": [
+          {
+            "name": "Rohling",
+            "desc": "Eine Nahkampfwaffe verursacht einen zusätzlichen Würfel Schaden, wenn lsek mit ihr trifft (im Angriff enthalten).",
+            "attack_bonus": 0
+          }
+        ],
+        "actions": [
+          {
+            "name": "Mehrfachangriff",
+            "desc": "Isek führt zwei Angriffe mit seiner Streitaxt aus."
+          },
+          {
+            "name": "Streitaxt",
+            "desc": "_Nahkampf-Waffenangriff:_ +7 zum Treffen, Reichweite 1,S0m, ein Ziel. Treffer: 13 (`2W8` + 4) Hiebschaden oder 15 (`2W10 + 4`) , wenn die Waffe mit beiden Händen geführt wird.",
+            "attack_bonus": 7,
+            "damage_dice": "2d8",
+            "damage_bonus": 4
+          },
+          {
+            "name": "Flammen schleudern",
+            "desc": "_Fernkampf-Zauberangriff_: +5 zum Treffen, Reichweite 18 m, ein Ziel. Treffer: 10 (`3W6`) Feuerschaden. Ist das Ziel ein brennbarer Gegenstand, der nicht getragen oder in der Hand gehalten wird, geht es in Flammen auf.",
+            "attack_bonus": 5,
+            "damage_dice": "3d6",
+            "damage_bonus": 0
+          }
+        ],
+        "layout": "Basic 5e German Layout"
+      }
+    ],
+    [
+      "Mischlingsvolk",
+      {
+        "statblock": true,
+        "name": "Mischlingsvolk",
+        "image": "<STATBLOCK-WIKI-LINK>.png<STATBLOCK-WIKI-LINK>",
+        "source": "Fluch des Strahd",
+        "size": "Mittelgroß",
+        "type": "Humanoide",
+        "alignment": "beliebige Gesinnung",
+        "ac": 11,
+        "hp": 26,
+        "hit_dice": "4d8 + 8",
+        "speed": "9 Meter.",
+        "stats": [
+          12,
+          9,
+          15,
+          9,
+          10,
+          6
+        ],
+        "skillsaves": [
+          {
+            "Heimlichkeit": 3
+          },
+          {
+            "Täuschen": 2
+          },
+          {
+            "Wahrnehmung": 2
+          }
+        ],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "",
+        "damage_immunities": "",
+        "condition_immunities": "",
+        "senses": "passive Wahrnehmung 12",
+        "languages": "Gemeinsprache",
+        "cr": "1/4",
+        "bestiary": true,
+        "traits": [
+          {
+            "name": "Außergewöhnliches Merkmal.",
+            "desc": "Ein Angehöriger des Mischlingsvolks hat eines der folgenden außergewöhnlichen Merkmale, die zufällig mit dem Wurf eines `W20` bestimmt oder vom SL ausgewählt werden: <br>**1-3: Amphibisch**. Das Wesen kann Luft und Wasser atmen. <br>**4-9: Dunkelsicht.** Das Wesen hat Dunkelsicht bis zu einer Entfernung von 18 m. <br>**10: Fliegen.** Das Wesen hat ledrige Schwingen und eine Flugbewegungsrate von 12 m. <br>**11-15: Scharfes Gehör und scharfer Geruchssinn.** Das Wesen hat einen Vorteil bei Würfen auf Weisheit (Wahrnehmung), die mit dem Gehör oder Geruchssinn zusammenhängen. <br>**16-17: Spinnenklettern.** Das Wesen kann an schwierigen Oberflächen klettern, auch kopfüber an der Decke, ohne Attributswürfe ablegen zu müssen. <br>**18-19: Stehender Sprung.** Das Wesen kann bis zu 6 m weit und 3 m hoch springen, mit oder ohne Anlauf. <br>**20: Zweiköpfig.** Das Wesen hat einen Vorteil bei Würfen auf Weisheit (Wahrnehmung) und bei Rettungswürfen, die die Zustände blind, bezaubert, taub , verängstigt, betäubt oder bewusstlos verursachen.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Nachahmung.",
+            "desc": "Das Wesen kann jedes Geräusch nachahmen, das es gehört hat, einschließlich Stimmen. Eine Kreatur, die die Geräusche hört, kann sie mit einem gelungenen Wurf auf Weisheit (Motiv erkennen) gegen SG 12 als Imitationen erkennen."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Mehrfachangriff",
+            "desc": "Das Mischlingsvolk führt zwei Angriffe aus: eine mit einem Biss und eine mit einer Klaue oder einem Dolch."
+          },
+          {
+            "name": "Biss",
+            "desc": "_Nahkampf-Waffenangriff_: +3 zum Treffen, Reichweite 1,50 m, ein Ziel. Treffer: 3 (`1W4 + 1`) Stichschaden.",
+            "attack_bonus": 3,
+            "damage_dice": "1d4",
+            "damage_bonus": 1
+          },
+          {
+            "name": "Klaue",
+            "desc": "_Nahkampf-Waffenangriff_: +3 zum Treffen, Reichweite 1,50 m, ein Ziel. Treffer: 3 (`1W4 + 1`) Hiebschaden",
+            "attack_bonus": 3,
+            "damage_dice": "1d4",
+            "damage_bonus": 1
+          },
+          {
+            "name": "Dolch",
+            "desc": "_Nahkampf- oder Fernkampf-Waffenangriff_: +3 zum Treffen , Reichweite 1,50 m oder Reichweite 6/18 m, ein Ziel. _Treffer_: 3 (`1W4 + 1`) Stichschaden.",
+            "attack_bonus": 3,
+            "damage_dice": "1d4",
+            "damage_bonus": 1
+          }
+        ],
+        "layout": "Basic 5e German Layout"
+      }
+    ],
+    [
+      "Strahd von Zarowitsch",
+      {
+        "statblock": true,
+        "name": "Strahd von Zarowitsch",
+        "image": "<STATBLOCK-WIKI-LINK>Strahd-von-Zarowitsch.webp<STATBLOCK-WIKI-LINK>",
+        "source": "Fluch des Strahd",
+        "size": "Mittelgroß",
+        "type": "Untoter",
+        "subtype": "Gestaltwandler",
+        "alignment": "rechtschaffen böse",
+        "ac": 16,
+        "hp": 144,
+        "hit_dice": "17d8 + 68",
+        "speed": "9 Meter.",
+        "stats": [
+          18,
+          18,
+          18,
+          20,
+          15,
+          18
+        ],
+        "saves": [
+          {
+            "STR": 0
+          },
+          {
+            "GES": 9
+          },
+          {
+            "KON": 0
+          },
+          {
+            "INT": 0
+          },
+          {
+            "WEI": 7
+          },
+          {
+            "CHA": 9
+          }
+        ],
+        "skillsaves": [
+          {
+            "Arkane Kunde": 15
+          },
+          {
+            "Heimlichkeit": 14
+          },
+          {
+            "Religion": 10
+          },
+          {
+            "Wahrnehmung": 12
+          }
+        ],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "Nekrotisch, Hieb-, Stich- und Wuchtschaden von nicht-magischen Angriffen",
+        "damage_immunities": "",
+        "condition_immunities": "Bezaubert, blind, erschöpft, gelähmt, liegend, taub, verängstigt, versteinert",
+        "senses": "Dunkelsicht 36 Meter, passive Wahrnehmung 22",
+        "languages": "Abyssisch, Drakonisch, Elfisch, Gemeinsprache, Infernalisch, Riesisch",
+        "cr": 15,
+        "bestiary": true,
+        "traits": [
+          {
+            "name": "Gestaltwandler",
+            "desc": "Wenn Strahd sich nicht in fließendem Wasser oder im Sonnenlicht befindet, kann er sich als Aktion in eine winzige Fledermaus, einen mittelgroßen Wolf oder eine mittelgroße Nebelwolke verwandeln oder seine wahre Gestalt annehmen. <br> In Fledermaus- oder Wolfsgestalt kann Strahd nicht sprechen. Als Fledermaus beträgt seine Bewegungsrate 1,5m und er hat eine Flug-Bewegungsrate von 9m. In Wolfsgestalt hat er eine Bewegungsrate von 12m. Seine Spielwerte, abgesehen von seiner Größe und Bewegungsrate, bleiben unverändert. Alles, was er am Körper trägt, verwandelt sich mit, doch nichts, was er in der Hand hält. Wenn er stirbt, nimmt er seine wahre Gestalt an. <br> Solange Strahd eine Nebelgestalt hat, kann er keine Aktionen ausführen, nicht sprechen und keine Gegenstände beeinflussen. Er ist gewichtslos, hat eine Flug-Bewegungsrate von 6m, kann schweben und den Bereich einer feindlichen Kreatur betreten und dort anhalten. Wenn außerdem Luft durch einen Bereich dringen kann, kann der Nebel dies auch, ohne sich quetschen zu müssen. Er kann kein Wasser durchringen. Er hat einen Vorteil bei Rettungswürfen auf Stärke, Geschicklichkeit und Konstitution und ist immun gegen jeden nicht-magischen Schaden, abgesehen von Sonnenlichtschaden.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Legendäre Resistenz (3/Tag)",
+            "desc": "Wenn Strahd einen Rettungswurf nicht schafft, kann er sich stattdessen entscheiden, ihn zu schaffen.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Nebliges Entkommen",
+            "desc": "Wenn er außerhalb seines Sargs auf 0 Trefferpunkte fällt, verwandelt sich Strahd in eine Nebelwolke (wie beim Merkmal Gestaltwandler) anstatt das Bewusstsein zu verlieren, vorausgesetzt, er ist weder im Sonnenlicht noch in fließendem Wasser. Wenn er sich nicht verwandeln kann, wird er zerstört. <br> Solange er in Nebelgestalt 0 TP besitzt, kann er nicht seine Vampirgestalt annehmen, und er muss seinen Sarg innerhalb von 2 Stunden erreichen, sonst wird er zerstört. Sobald er seine Ruhestätte erreicht hat, nimmt er wieder seine Vampirgestalt an. Er ist dann gelähmt, bis er mindestens 1 Trefferpunkt zurückerhält. Nachdem er 1 Stunde mit 0 Trefferpunkten in seiner Ruhestätte verbracht hat, erhält er 1 TP zurück.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Regeneration",
+            "desc": "Strahd erhält zu Beginn seines Zuges 20 TP zurück, wenn er mindestens 1 Trefferpunkt besitzt und sich nicht im Sonnenlicht oder in fließendem Wasser befindet. Wenn er gleißenden Schaden oder Schaden durch Weihwasser erleidet, funktioniert dieses Merkmal zu Beginn des nächsten Zugs des Vampirs nicht.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Spinnenklettern",
+            "desc": "Strahd kann an schwierigen Oberflächen klettern, auch kopfüber an der Decke, ohne Attributswürfe ablegen zu müssen.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Vampirschwächen",
+            "desc": "Der Vampir hat die folgenden Nachteile: <br> _Verbot._ Er kann keinen Wohnsitz betreten, ohne eine Einladung von einem der Bewohner erhalten zu haben. <br> _Verletzt durch fließendes Wasser._ Der vampir erleidet 20 Säureschaden, wenn er seinen Zug in fließendem Wasser beendet. <br> _Pflock ins Herz._ Wenn eine Stichwaffe aus Holz ins Herz des Vampirs getrieben wird, solange der Vampir sich in seinem Sarg befindet und kampfunfähig ist, wird er gelähmt, bis der Pflock entfernt wird. <br> _Hyperempfindlich gegenüber Sonnenlicht._ Der vampir erleidet 20 Punkte gleißenden Schaden, wenn er seinen Zug im Sonnenlicht beginnt. Solange er sich im Sonnenlicht befindet, erleidet er einen Nachteil auf Angriffswürfe und Attributswürfe.",
+            "attack_bonus": 0
+          }
+        ],
+        "spells": [
+          "Strahd ist ein Zauberwirker der 9. Stufe (Attribut Intelligenz, Zauberrettungswurf-SG 18, +10 zum Treffen mit Zauberangriffen). Strahd hat die folgenden Magierzaubersprüche vorbereitet:",
+          {
+            "Zaubertricks (beliebig oft)": "<STATBLOCK-MARKDOWN-LINK>Kältestrahl.md|Kältestrahl<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>Magierhand.md|Magierhand<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>Taschenspielerei.md|Taschenspielerei<STATBLOCK-MARKDOWN-LINK>"
+          },
+          {
+            "Zaubergrad 1 (4 Plätze)": "<STATBLOCK-MARKDOWN-LINK>Nebelwolke.md|Nebelwolke<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>Schlaf.md|Schlaf<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>Sprachen-verstehen.md|Sprachen verstehen<STATBLOCK-MARKDOWN-LINK>"
+          },
+          {
+            "Zaubergrad 2 (3 Plätze)": "<STATBLOCK-MARKDOWN-LINK>Gedanken-wahrnehmen.md|Gedanken wahrnehmen<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>Spiegelbilder.md|Spiegelbilder<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>Windstoß.md|Windstoß<STATBLOCK-MARKDOWN-LINK>"
+          },
+          {
+            "Zaubergrad 3 (3 Plätze)": "<STATBLOCK-MARKDOWN-LINK>Feuerball.md|Feuerball<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>Tote-beleben.md|Tote beleben<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>Unauffindbarkeit.md|Unauffindbarkeit<STATBLOCK-MARKDOWN-LINK>"
+          },
+          {
+            "Zaubergrad 4 (3 Plätze)": "<STATBLOCK-MARKDOWN-LINK>Dürre.md|Dürre<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>Mächtige-Unsichtbarkeit.md|Mächtige Unsichtbarkeit<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>Verwandlung.md|Verwandlung<STATBLOCK-MARKDOWN-LINK>"
+          },
+          {
+            "Zaubergrad 5 (1 Platz)": "<STATBLOCK-MARKDOWN-LINK>Ausspähung.md|Ausspähung<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>Gegenstände-beleben.md|Gegenstände beleben<STATBLOCK-MARKDOWN-LINK>"
+          }
+        ],
+        "actions": [
+          {
+            "name": "Mehrfachangriff (nur Vampirgestalt)",
+            "desc": "Strahd führt zwei Angriffe aus, von denen nur eine ein Biss-Angriff sein kann."
+          },
+          {
+            "name": "Waffenloser Angriff (nur Vampir- und Wolfsgestalt)",
+            "desc": "_Nahkampf-Waffenangriff_: +9 auf Treffer, Reichweite 1,5m, ein Ziel. _Treffer_: 8 (`1W8 + 4`) Hiebschaden plus 14 nekrotischer Schaden. Wenn das Ziel eine Kreatur ist, kann Strahd sie packen (SG 18 zum Entkommen), anstatt den Hiebschaden zu verursachen.",
+            "attack_bonus": 9,
+            "damage_dice": "1d8",
+            "damage_bonus": 4
+          },
+          {
+            "name": "Biss",
+            "desc": "_Nahkampf-Waffenangriff_: +9 zum Treffen, 1,5m, eine bereitwillige Kreatur oder eine Kreatur, die Strahd gepackt hat, die kampfunfähig oder festgesetzt ist. _Treffer_: 7 (`1W6` + 4) Stichschaden plus 10 (`3W6`) nekrotischer Schaden. Die maximalen Trefferpunkte des Ziels werden um den nekrotischen Schaden verringert und  der Vampir erhält die gleiche Menge an Trefferpunkten zurück. Diese Verringerung hält an, bis das Ziel eine lange Rast abschließt. Das Ziel stirb, wenn dieser Effekt es auf 0 maximale Trefferpunkte reduziert. Ein Humanoider, der auf diese Weise getötet wirdund dann in der Erde begraben wird, erhebt sich in der folgenden Nacht als Vampirbrut unter Strahds Kontrolle.",
+            "attack_bonus": 7,
+            "damage_dice": "1d6",
+            "damage_bonus": 4
+          },
+          {
+            "name": "Bezaubern",
+            "desc": "Strahd wählt einen Humanoiden innerhalb von 9m um sich aus, den er sehen kann. Wenn das Ziel Strahd sehen kann, muss es gegen diese Magie einen Weisheits-Rettungswurf gegen SG 17 ablegen, um nicht bezaubert zu werden. Das bezauberte Ziel betrachtet Strahd als Freund, dem es vertraut, auf den es hören sollte und der beschützt werden muss. Auch wenn das Ziel nicht unter Strahds Kontrolle steht, deutet es die Forderungen und Taten Strahds so wohlwollend wie es kann und lässt sich von Strahd beißen. <br> Immer wenn Strahd oder die Gefährten des Vampirs etwas tun, das dem Ziel schadet, kann es den Rettungswurf wuederholen und den Effekt auf sich selbst bei einem Erfolg beenden. Ansonsten hält der Effekt für 24 Stunden an, bis Strahd zerstört wird, sich auf einer anderen Existentebene als das Ziel befindet, oder eine Bonusaktion nutzt, um den Effekt zu beenden"
+          },
+          {
+            "name": "Kinder der Nacht (1/Tag)",
+            "desc": "Der vampir ruft auf magische Weise `2W4` <STATBLOCK-MARKDOWN-LINK>Schwarm-von-Fledermäusen.md|Schwärme von Fledermäusen<STATBLOCK-MARKDOWN-LINK> oder <STATBLOCK-MARKDOWN-LINK>Schwarm-von-Ratten.md|Schwärme von Ratten<STATBLOCK-MARKDOWN-LINK>, vorausgesetzt die Sonne steht nicht am Himmel. Solange sich Strahd im Freien befindet, kann er stattdessen `3W6` <STATBLOCK-MARKDOWN-LINK>Wolf.md|Wölfe<STATBLOCK-MARKDOWN-LINK> rufen. Die gerufenen Kreaturen treffen innerhalb von `1W4` Runden ein, dienen als Verbündete Strahds und gehorchen seinen gesprochenen Befehlen. Die Tiere bleiben für 1 Stunde, bis Strahd stirbt oder bis er sie als seine Bonusaktion entlässt."
+          }
+        ],
+        "legendary_description": "Strahd kann 3 legendäre Aktionen durchführen und aus den untenstehenden Optionen auswählen. Er kann nur eine legendäre Aktionsoption auf einmal verwenden, und nur am Ende eines Zuges einer anderen Kreatur. Strahd erhält verbrauchte legendäre Aktionen zu Beginn seines Zuges zurück.",
+        "legendary_actions": [
+          {
+            "name": "Bewegung",
+            "desc": "Strahd bewegt sich bis zu seiner Bewegungsrate weit, ohne Gelegenheitsangriffe zu provozieren."
+          },
+          {
+            "name": "Waffenloser Angriff",
+            "desc": "Strahd führt einen Waffenlosen Angriff aus."
+          },
+          {
+            "name": "Biss (kostet 2 Aktionen)",
+            "desc": "Der Vampir führt einen Biss-Angriff aus."
+          }
+        ],
+        "layout": "Basic 5e German Layout"
+      }
+    ],
+    [
+      "Rictavio",
+      {
+        "statblock": true,
+        "name": "Rictavio",
+        "image": "<STATBLOCK-WIKI-LINK>Esmeralda-d'Avenir.png<STATBLOCK-WIKI-LINK>",
+        "source": "Fluch des Strahd",
+        "size": "Mittelgroß",
+        "type": "Humanoid (Mensch)",
+        "alignment": "Rechtschaffen Gut",
+        "ac": 12,
+        "hp": 77,
+        "hit_dice": "14d8 + 14",
+        "speed": "9 Meter.",
+        "stats": [
+          9,
+          12,
+          13,
+          16,
+          18,
+          16
+        ],
+        "saves": [
+          {
+            "KON": 4
+          },
+          {
+            "WEI": 7
+          }
+        ],
+        "skillsaves": [
+          {
+            "Arkane-Kunde": 9
+          },
+          {
+            "Fingerfertigkeit": 4
+          },
+          {
+            "Heilkunde": 7
+          },
+          {
+            "Motiv-erkennen": 7
+          },
+          {
+            "Religion": 6
+          },
+          {
+            "Wahrnehmung": 7
+          }
+        ],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "",
+        "damage_immunities": "",
+        "condition_immunities": "",
+        "senses": "passive Wahrnehmung 16",
+        "languages": "Abyssisch, Elfisch Gemeinsprache, Infernalisch",
+        "cr": 5,
+        "bestiary": true,
+        "traits": [
+          {
+            "name": "Besondere Ausrüstung",
+            "desc": "Zusätzlich zu seinem Stockdegen hat Rictavio einen Hut der Verkleidung, einen Ring der Gedankenabschirmung und eine Zauberschriftrolle mit Tote erwecken.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Untotentöter.",
+            "desc": "Wenn Rictavio einen Untoten mit einem Waffenangriff trifft, erleidet der Untote zusätzlich 10 (3W6) Schaden des Waffentyps.",
+            "attack_bonus": 0
+          }
+        ],
+        "spells": [
+          "Rictavio ist ein Zauberwirker der 9. Stufe. Sein Attribut zum Zauber wirken ist Weisheit (Zauberrettungswurf-SG 15, +7 zum Treffen mit Zauberangriffen). Rictavio hat die folgenden Klerikerzaubersprüche vorbereitet:",
+          {
+            "Zaubertricks (beliebig oft)": "<STATBLOCK-MARKDOWN-LINK>Ausbessern.md|Ausbessern<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>Göttliche-Führung.md|Göttliche Führung<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>Licht.md|Licht<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>Thaumaturgie.md|Thaumaturgie<STATBLOCK-MARKDOWN-LINK>"
+          },
+          {
+            "Zaubergrad 1 (4 Plätze)": "<STATBLOCK-MARKDOWN-LINK>Detect-evil-and-good.md|Gutes und Böses entdecken<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>Heiligtum.md|Heiligtum<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>Schutz-vor-Gut-und-Böse.md|Schutz vor Gut und Böse<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>Wunden-heilen.md|Wunden heilen<STATBLOCK-MARKDOWN-LINK>"
+          },
+          {
+            "Zaubergrad 2 (3 Plätze)": "<STATBLOCK-MARKDOWN-LINK>Protection-from-poison.md|Schutz vor Gift<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>Schwache-Genesung.md|Schwache Genesung<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>Vorahnung.md|Vorahnung<STATBLOCK-MARKDOWN-LINK>"
+          },
+          {
+            "Zaubergrad 3 (3 Plätze)": "Fluch brechen, Mit Toten sprechen, Schutzkreis"
+          },
+          {
+            "Zaubergrad 4 (3 Plätze)": "Bewegungsfreiheit, Todesschutz"
+          },
+          {
+            "Zaubergrad 5 (1 Platz)": "Gutes und Böses bannen"
+          }
+        ],
+        "actions": [
+          {
+            "name": "Mehrfachangriff",
+            "desc": "Rictavio führ t zwei Angriffe mit seinem Stockdegen aus."
+          },
+          {
+            "name": "Stockdegen",
+            "desc": "_Nahkampf-Waffenangriff_: +4 zum Treffen, Reichweite 1,50 m, ein Ziel. _Treffer_: 4 (`1W6 + 1`) Wuchtschaden (hölzerner Gehstock) oder Stichschaden (versilberter Degen).",
+            "attack_bonus": 4,
+            "damage_dice": "1d6",
+            "damage_bonus": 1
+          }
+        ],
+        "layout": "Basic 5e German Layout"
+      }
+    ],
+    [
+      "Schreckgespenst",
+      {
+        "statblock": true,
+        "name": "Schreckgespenst",
+        "image": "<STATBLOCK-WIKI-LINK>Specter.png<STATBLOCK-WIKI-LINK>",
+        "source": "Grundregelwerk",
+        "size": "Mittelgroß",
+        "type": "Untoter",
+        "alignment": "Chaotisch böse",
+        "ac": 12,
+        "hp": 22,
+        "hit_dice": "5d8",
+        "speed": "9 Meter.",
+        "stats": [
+          1,
+          14,
+          11,
+          10,
+          10,
+          11
+        ],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "Blitz, Feuer, Kälte, Säure, Schall; Hieb, Stich und Wucht durch nichtmagische Angriffe",
+        "damage_immunities": "Gift, Nekrotisch",
+        "condition_immunities": "Bezaubert, Bewusstlos, Erschöpft, Festgesetzt, Gelähmt, Gepackt, Liegend, Vergiftet, Versteiner",
+        "senses": "Dunkelsicht 18 Meter, passive Wahrnehmung 10",
+        "languages": "Versteht alle zu Lebzeiten bekannten Sprachen, kann aber nicht sprechen",
+        "cr": 1,
+        "environment": "Stadt, Unterreich",
+        "bestiary": true,
+        "traits": [
+          {
+            "name": "Empfindlich gegenüber Sonnenlicht",
+            "desc": "Im Sonnenlicht ist das Schreckgespenst bei Angriffswürfen sowie bei Weisheitswürfen (Wahrnehmung), die Sicht erfordern, im Nachteil."
+          },
+          {
+            "name": "Körperlose Bewegung",
+            "desc": "Das Schreckgespenst kann sich durch andere Kreaturen und Gegenstände bewegen, als wären sie schwieriges Gelände. Es erleidet 5 (1W10) Energieschaden, wenn es seinen Zug in einem Gegenstand beendet."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Lebensentzug",
+            "desc": "_Nahkampf-Zauberangriff:_ +4 auf Treffer, Reichweite 1,5 m, eine Kreatur. _Treffer:_ 10 (`3W6`) nekrotischer Schaden. Das Ziel muss einen SG-10- Konstitutionsrettungswurf bestehen, oder sein Trefferpunktemaximum wird um den Betrag des erlittenen Schadens verringert. Es bleibt verringert, bis die Kreatur eine lange Rast beendet. Wenn das Trefferpunktemaximum durch diesen Effekt auf 0 sinkt, stirbt das Ziel.",
+            "attack_bonus": 4,
+            "damage_dice": "3d6",
+            "damage_bonus": 0
+          }
+        ],
+        "layout": "Basic 5e German Layout"
+      }
+    ],
+    [
+      "Rahadin",
+      {
+        "statblock": true,
+        "name": "Rahadin",
+        "image": "<STATBLOCK-WIKI-LINK>token/Rahadin.webp<STATBLOCK-WIKI-LINK>",
+        "source": "Fluch des Strahd",
+        "size": "Mittelgroß",
+        "type": "Humanoid (Elf)",
+        "alignment": "Rechtschaffen Böse",
+        "ac": 18,
+        "hp": 135,
+        "hit_dice": "18d8 + 54",
+        "speed": "10,5 Meter.",
+        "stats": [
+          14,
+          22,
+          17,
+          15,
+          16,
+          18
+        ],
+        "saves": [
+          {
+            "KON": 5
+          },
+          {
+            "WEI": 7
+          }
+        ],
+        "skillsaves": [
+          {
+            "Einschüchtern": 12
+          },
+          {
+            "Heimlichkeit": 14
+          },
+          {
+            "Motiv-erkennen": 7
+          },
+          {
+            "Täuschen": 8
+          },
+          {
+            "Wahrnehmung": 11
+          }
+        ],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "",
+        "damage_immunities": "",
+        "condition_immunities": "",
+        "senses": "Dunkelsicht 18 m, passive Wahrnehmung 21",
+        "languages": "Elfisch Gemeinsprache",
+        "cr": 10,
+        "bestiary": true,
+        "traits": [
+          {
+            "name": "Angeborenes Zauberwirken.",
+            "desc": "Das Attribut zum Wirken angeborener Zauber für Ra hadin ist Intelligenz. Er kann von Natur aus die folgenden Zauber wirken, wobei er keine Komponenten benötigt:<br><br> 3/Tag: <STATBLOCK-MARKDOWN-LINK>Geisterross.md|Geisterross<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>Nebelschritt.md|Nebelschritt<STATBLOCK-MARKDOWN-LINK> <br> 1/Tag: <STATBLOCK-MARKDOWN-LINK>Magische-Waffe.md|Magische Waffe<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>Unauffindbarkeit.md|Unauffindbarkeit<STATBLOCK-MARKDOWN-LINK>"
+          },
+          {
+            "name": "Feenblut.",
+            "desc": "Rahadin hat einen Vorteil bei Rettungswürfen wenn er bezaubert werden soll, und Magie kann ihn nicht einschläfern."
+          },
+          {
+            "name": "Maske der Wildnis.",
+            "desc": "Rahadin kann sogar versuchen, sich zu verstecken, wenn er nur leicht verschleiert durch Blattwerk, starken Regen, Schneefall, Nebel oder andere Naturphänomene ist."
+          },
+          {
+            "name": "Tödlicher Chor.",
+            "desc": "jede Kreatur innerhalb von 3 m um Rahadin, die nicht von dem Zauber Gedankenleere geschützt ist, hört in ihrem Geist die Schreie der Tausende Individuen, die Rah ad in getötet hat. Als eine Bonusaktion kann Rahadin alle Kreaturen, die die Schreie hören, dazu zwingen, einen Weisheitsrettungswurf gegen SG 16 abzulegen. jede Kreatur erleidet bei einem misslungenen Rettungswurf 16 (3Wl0) psychischen Schaden oder den halben Schaden bei einem gelungenen."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Mehrfachangriff",
+            "desc": "Rahadin führt drei Angriffe mit seinem Krummsäbel oder zwei mit seinen Giftpfeilen aus."
+          },
+          {
+            "name": "Krummsäbel",
+            "desc": "_Nahkampf-Waffenangriff_: +10 zum Treffen, Reichweite 1,50 m, ein Ziel. _Treffer_: 9 (`1W6 + 6`) Hiebschaden.",
+            "attack_bonus": 10,
+            "damage_dice": "1d6",
+            "damage_bonus": 6
+          },
+          {
+            "name": "Giftpfeil",
+            "desc": "_Fernkampf-Waffenangriff_: +10 zum Treffen, Reichweite 6/18 m, ein Ziel. _Treffer_: 8 (`1W4 + 6`) Stichschaden plus 5 (`2W4`) Giftschaden.",
+            "attack_bonus": 10,
+            "damage_dice": "1d4",
+            "damage_bonus": 6
+          }
+        ],
+        "layout": "Basic 5e German Layout"
+      }
+    ],
+    [
+      "Goblinscherge",
+      {
+        "statblock": true,
+        "name": "Goblinscherge",
+        "source": "Monsterhandbuch",
+        "size": "Klein",
+        "type": "Fee",
+        "subtype": "goblinoid",
+        "alignment": "Chaotisch neutral",
+        "ac": 12,
+        "hp": 7,
+        "hit_dice": "2d6",
+        "speed": "9 Meter.",
+        "stats": [
+          8,
+          15,
+          10,
+          10,
+          8,
+          8
+        ],
+        "skillsaves": [
+          {
+            "Heimlichkeit": 6
+          }
+        ],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "",
+        "damage_immunities": "",
+        "condition_immunities": "",
+        "gear": "Dolch (3)",
+        "senses": "Dunkelsicht 18 Meter, passive Wahrnehmung 9",
+        "languages": "Gemeinsprache, Goblin",
+        "cr": "1/8",
+        "bestiary": true,
+        "actions": [
+          {
+            "name": "Dolch",
+            "desc": "Nahkampfangriff: +4 zum Treffen, Reichweite 1,5m, ein Ziel. Treffer: 4 (1W4 + 2) Hiebschaden.",
+            "attack_bonus": 4,
+            "damage_dice": "1d4",
+            "damage_bonus": 2
+          }
+        ],
+        "bonus_actions": [
+          {
+            "name": "Flinkes Entkommen",
+            "desc": "Der Goblin kann in jedem seiner Züge die Aktion Rückzug oder Verstecken als Bonusaktion ausführen."
+          }
+        ],
+        "layout": "Basic 5e German Layout"
+      }
+    ],
+    [
+      "Wladimir Horngaard",
+      {
+        "statblock": true,
+        "name": "Wladimir Horngaard",
+        "image": "<STATBLOCK-WIKI-LINK>Wiedergänger-token.webp<STATBLOCK-WIKI-LINK>",
+        "source": "Fluch des Strahd",
+        "size": "Mittelgroß",
+        "type": "Untoter",
+        "alignment": "Neutral",
+        "ac": 17,
+        "hp": 192,
+        "speed": "9 Meter.",
+        "stats": [
+          18,
+          14,
+          18,
+          13,
+          16,
+          18
+        ],
+        "saves": [
+          {
+            "STR": 7
+          },
+          {
+            "KON": 7
+          },
+          {
+            "WEI": 6
+          },
+          {
+            "CHA": 7
+          }
+        ],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "Nekrotisch, Psychisch",
+        "damage_immunities": "Gift",
+        "condition_immunities": "Betäubt, Bezaubert, Erschöpfung, Gelähmt, Verängstigt, Vergiftet",
+        "senses": "Dunkelsicht 18 Meter, passive Wahrnehmung 13",
+        "languages": "Drakonisch, Gemeinsprache",
+        "cr": 7,
+        "bestiary": true,
+        "traits": [
+          {
+            "name": "Regeneration",
+            "desc": "Wladimir erhält zu Beginn seines Zuges 10 Trefferpunkte zurück. Wenn Wladimir Feuer- oder gleißenden Schaden erleidet, funktioniert diese Eigenschaft zu Beginn des nächsten Zuges Wladimirs nicht mehr. Der Körper Wladimirs wird nur zerstört, wenn er seinen Zug mit 0 Trefferpunkten beginnt und sich nicht regeneriert.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Verjüngung",
+            "desc": "Wenn der Körper Wladimirs zerstört wird, verbleibt seine Seele. Nach 24 Stunden bewohnt und belebt die Seele einen anderen humanoiden Leichnam auf derselben Existenzebene und erhält alle ihre Trefferpunkte zurück. Solange die Seele körperlos ist, kann man sie mit einem Wunschzauber dazu zwingen, ins Jenseits zu gehen und nicht zurückzukehren.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Immunität gegen Verwandlung",
+            "desc": "Wladimir ist immun gegen Effekte, die Untote verwandeln.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Rachsüchtiger Fährtenleser",
+            "desc": "Wladimir kennt die Entfernung und die Richtung jeder Kreatur, an der er sich rächen will, auch wenn sich die Kreatur und Wladimir auf verschiedenen Existenzebenen befinden. Wenn die Kreatur, die Wladimir verfolgt, stirbt, weiß Wladimir das.",
+            "attack_bonus": 0
+          }
+        ],
+        "actions": [
+          {
+            "name": "Mehrfachangriff",
+            "desc": "Wladimir führt zwei Angriffe mit seinem Zweihandschwert aus.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Zweihandschwert + 2",
+            "desc": "_Nahkampf-Waffenangriff_: +9 zum Treffen, Reichweite 1,50 m, ein Ziel. Treffer: `20` (`4W6 + 6`) Hiebschaden. Wenn das Ziel Strahd ist, erleidet das Ziel zusätzlich `14` (`4d6`) Hiebschaden. Anstatt Schaden zuzufügen, kann der Wiedergänger das Ziel packen (SG 14 zum Entkommen), sofern es der Kategorie Groß oder kleiner angehört.",
+            "attack_bonus": 9,
+            "damage_dice": "4d6",
+            "damage_bonus": 6
+          },
+          {
+            "name": "Rachsüchtiges Blenden",
+            "desc": "Wladimir zielt auf eine Kreatur, die er im Umkreis von 9 Metern sehen kann und gegen die er Rache geschworen hat. Das Ziel muss einen Weisheits-Rettungswurf gegen SG 15 ablegen. Bei einem Fehlschlag wird das Ziel gelähmt, bis Wladimir ihm Schaden zufügt oder bis zum Ende des nächsten Zuges Wladimirs. Wenn die Lähmung endet, hat das Ziel 1 Minute lang Angst vor Wladimir. Das verängstigte Ziel kann den Rettungswurf am Ende jeder seiner Runden wiederholen, wobei es einen Nachteil hat, wenn es Wladimir sehen kann, und den Zustand der Verängstigung dadurch bei einem Erfolg selbst beenden.",
+            "attack_bonus": 4,
+            "damage_dice": "1d6",
+            "damage_bonus": 2
+          }
+        ],
+        "layout": "Basic 5e German Layout"
+      }
+    ]
+  ],
+  "defaultLayouts": {},
+  "layouts": [
+    {
+      "blocks": [
+        {
+          "type": "inline",
+          "id": "4af8882afa69",
+          "properties": [],
+          "hasRule": true,
+          "nested": [
+            {
+              "type": "group",
+              "id": "8889a9abab3b",
+              "properties": [
+                "name",
+                "size",
+                "type",
+                "subtype",
+                "alignment"
+              ],
+              "nested": [
+                {
+                  "type": "inline",
+                  "id": "1b39ab6aaa99",
+                  "properties": [],
+                  "hasRule": false,
+                  "nested": [
+                    {
+                      "type": "heading",
+                      "id": "6b390a489ae8",
+                      "properties": [
+                        "name"
+                      ],
+                      "conditioned": true,
+                      "size": 1
+                    },
+                    {
+                      "type": "inline",
+                      "id": "1a599a79da9b",
+                      "properties": [],
+                      "hasRule": false,
+                      "nested": [
+                        {
+                          "type": "action",
+                          "id": "6bbbf84a287b",
+                          "icon": "sword",
+                          "callback": "try { InitiativeTracker.newEncounter({roll: true, creatures: [monster]}); } catch(e) {}"
+                        },
+                        {
+                          "type": "action",
+                          "id": "aa2afb39db08",
+                          "icon": "plus-with-circle",
+                          "callback": "try { InitiativeTracker.addCreatures([monster]); } catch(e) {}"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "subheading",
+                  "id": "6a194af95959",
+                  "properties": [
+                    "source"
+                  ],
+                  "fallback": "-"
+                },
+                {
+                  "type": "subheading",
+                  "id": "6949bbe97b5b",
+                  "properties": [
+                    "size",
+                    "type",
+                    "subtype",
+                    "alignment"
+                  ],
+                  "conditioned": true,
+                  "separator": ", "
+                }
+              ],
+              "conditioned": true
+            },
+            {
+              "type": "image",
+              "id": "ba793a09bafb",
+              "properties": [
+                "image"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "group",
+          "id": "2a79eafb490b",
+          "properties": [
+            "ac",
+            "hp",
+            "speed"
+          ],
+          "nested": [
+            {
+              "type": "property",
+              "id": "0a7a4a28f8c9",
+              "properties": [
+                "ac"
+              ],
+              "display": "Rüstungsklasse",
+              "conditioned": true,
+              "callback": "const ac = [monster.ac];if (\"ac_class\" in monster) {ac.push(`(${monster.ac_class})`);}return ac.join(\" \");"
+            },
+            {
+              "type": "property",
+              "id": "aafb1ad8d87b",
+              "properties": [
+                "hp"
+              ],
+              "display": "Trefferpunkte",
+              "dice": true,
+              "diceProperty": "hit_dice",
+              "diceCallback": "if (\"hit_dice\" in monster) {\n  return [{ text: monster[\"hit_dice\"] }];\n} else {\n  return property;\n}",
+              "callback": "let str = [monster.hp];\nif (monster.hit_dice?.length) {\n  str.push(`(${monster.hit_dice})`);\n}\nreturn str.join(\" \");",
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "3abab8490b28",
+              "display": "Bewegungsrate",
+              "properties": [
+                "speed"
+              ],
+              "conditioned": true
+            }
+          ],
+          "hasRule": true,
+          "conditioned": true
+        },
+        {
+          "type": "table",
+          "id": "aaab3aa91868",
+          "properties": [
+            "stats"
+          ],
+          "headers": [
+            "Str",
+            "Ges",
+            "Kon",
+            "Int",
+            "Wei",
+            "Cha"
+          ],
+          "calculate": true,
+          "hasRule": true,
+          "conditioned": true
+        },
+        {
+          "type": "table",
+          "id": "4889298a289a",
+          "properties": [
+            "fage_stats"
+          ],
+          "headers": [
+            "Accuracy",
+            "Communication",
+            "Constitution",
+            "Dexterity",
+            "Fighting",
+            "Intelligence",
+            "Perception",
+            "Strength",
+            "Willpower"
+          ],
+          "calculate": false,
+          "hasRule": true,
+          "conditioned": true
+        },
+        {
+          "type": "group",
+          "id": "db2a19784908",
+          "properties": [
+            "saves",
+            "skillsaves",
+            "damage_immunities",
+            "damage_resistances",
+            "damage_vulnerabilities",
+            "condition_immunities",
+            "cr",
+            "languages",
+            "senses"
+          ],
+          "nested": [
+            {
+              "type": "saves",
+              "id": "ea7ad9ebdb8a",
+              "display": "Rettungswürfe",
+              "properties": [
+                "saves"
+              ],
+              "conditioned": true
+            },
+            {
+              "type": "saves",
+              "id": "f998db1b28ab",
+              "display": "Fertigkeiten",
+              "properties": [
+                "skillsaves"
+              ],
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "785b88cbba2b",
+              "display": "Schadensresistenzen",
+              "properties": [
+                "damage_resistances"
+              ],
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "baf88a38dafa",
+              "display": "Schadensimmunitäten",
+              "properties": [
+                "damage_immunities"
+              ],
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "e8da29183b5a",
+              "display": "Zustandsimmunitäten",
+              "properties": [
+                "condition_immunities"
+              ],
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "89f918a989eb",
+              "display": "Schadensanfälligkeiten",
+              "properties": [
+                "damage_vulnerabilities"
+              ],
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "5ba97919d8ca",
+              "display": "Sinne",
+              "properties": [
+                "senses"
+              ],
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "ba9ac8196909",
+              "display": "Sprachen",
+              "properties": [
+                "languages"
+              ],
+              "fallback": "-"
+            },
+            {
+              "type": "inline",
+              "id": "d8c8bb784acb",
+              "properties": [],
+              "conditioned": true,
+              "nested": [
+                {
+                  "type": "property",
+                  "id": "3ab90949e9d8",
+                  "display": "Herausforderungsgrad",
+                  "properties": [
+                    "cr"
+                  ],
+                  "callback": "const CR = {\n    \"0\": {\n        cr: \"0\",\n        value: 0,\n        xp: 10\n    },\n    \"1/8\": {\n        cr: \"1/8\",\n        value: 0.125,\n        xp: 25\n    },\n    \"1/4\": {\n        cr: \"1/4\",\n\n        value: 0.25,\n        xp: 50\n    },\n    \"1/2\": {\n        cr: \"1/2\",\n        value: 0.5,\n        xp: 100\n    },\n    \"0.125\": {\n        cr: \"1/8\",\n        value: 0.125,\n        xp: 25\n    },\n    \"0.25\": {\n        cr: \"1/4\",\n\n        value: 0.25,\n        xp: 50\n    },\n    \"0.5\": {\n        cr: \"1/2\",\n        value: 0.5,\n        xp: 100\n    },\n    \"1\": {\n        cr: \"1\",\n        value: 1,\n        xp: 200\n    },\n    \"2\": {\n        cr: \"2\",\n        value: 2,\n        xp: 450\n    },\n    \"3\": {\n        cr: \"3\",\n        value: 3,\n        xp: 700\n    },\n    \"4\": {\n        cr: \"4\",\n        value: 4,\n        xp: 1100\n    },\n    \"5\": {\n        cr: \"5\",\n        value: 5,\n        xp: 1800\n    },\n    \"6\": {\n        cr: \"6\",\n        value: 6,\n        xp: 2300\n    },\n    \"7\": {\n        cr: \"7\",\n        value: 7,\n        xp: 2900\n    },\n    \"8\": {\n        cr: \"8\",\n        value: 8,\n        xp: 3900\n    },\n    \"9\": {\n        cr: \"9\",\n        value: 9,\n        xp: 5000\n    },\n    \"10\": {\n        cr: \"10\",\n        value: 10,\n        xp: 5900\n    },\n    \"11\": {\n        cr: \"11\",\n        value: 11,\n        xp: 7200\n    },\n    \"12\": {\n        cr: \"12\",\n        value: 12,\n        xp: 8400\n    },\n    \"13\": {\n        cr: \"13\",\n        value: 13,\n        xp: 10000\n    },\n    \"14\": {\n        cr: \"14\",\n        value: 14,\n        xp: 11500\n    },\n    \"15\": {\n        cr: \"15\",\n        value: 15,\n        xp: 13000\n    },\n    \"16\": {\n        cr: \"16\",\n        value: 16,\n        xp: 15000\n    },\n    \"17\": {\n        cr: \"17\",\n        value: 17,\n        xp: 18000\n    },\n    \"18\": {\n        cr: \"18\",\n        value: 18,\n        xp: 20000\n    },\n    \"19\": {\n        cr: \"19\",\n        value: 19,\n        xp: 22000\n    },\n    \"20\": {\n        cr: \"20\",\n        value: 20,\n        xp: 25000\n    },\n    \"21\": {\n        cr: \"21\",\n        value: 21,\n        xp: 33000\n    },\n    \"22\": {\n        cr: \"22\",\n        value: 22,\n        xp: 41000\n    },\n    \"23\": {\n        cr: \"23\",\n        value: 23,\n        xp: 50000\n    },\n    \"24\": {\n        cr: \"24\",\n        value: 24,\n        xp: 62000\n    },\n    \"25\": {\n        cr: \"25\",\n        value: 25,\n        xp: 75000\n    },\n    \"26\": {\n        cr: \"26\",\n        value: 26,\n        xp: 90000\n    },\n    \"27\": {\n        cr: \"27\",\n        value: 27,\n        xp: 105000\n    },\n    \"28\": {\n        cr: \"28\",\n        value: 28,\n        xp: 120000\n    },\n    \"29\": {\n        cr: \"29\",\n        value: 29,\n        xp: 135000\n    },\n    \"30\": {\n        cr: \"30\",\n        value: 30,\n        xp: 155000\n    }\n};                        \nif (\"cr\" in monster && monster.cr in CR) {\n    return `${CR[\n        monster.cr\n    ].cr} (${CR[\n        monster.cr\n    ].xp.toLocaleString()} XP)`;\n}\nreturn \"\";",
+                  "fallback": "-"
+                },
+                {
+                  "type": "property",
+                  "id": "0b28793bf818",
+                  "display": "Übungsbonus",
+                  "properties": [
+                    "cr"
+                  ],
+                  "callback": "const CR = {\n    \"0\": {\n        cr: \"0\",\n        value: 0,\n        xp: 0\n    },\n    \"1/8\": {\n        cr: \"1/8\",\n        value: 0.125,\n        xp: 25\n    },\n    \"1/4\": {\n        cr: \"1/4\",\n\n        value: 0.25,\n        xp: 50\n    },\n    \"1/2\": {\n        cr: \"1/2\",\n        value: 0.5,\n        xp: 100\n    },\n    \"0.125\": {\n        cr: \"1/8\",\n        value: 0.125,\n        xp: 25\n    },\n    \"0.25\": {\n        cr: \"1/4\",\n\n        value: 0.25,\n        xp: 50\n    },\n    \"0.5\": {\n        cr: \"1/2\",\n        value: 0.5,\n        xp: 100\n    },\n    \"1\": {\n        cr: \"1\",\n        value: 1,\n        xp: 200\n    },\n    \"2\": {\n        cr: \"2\",\n        value: 2,\n        xp: 450\n    },\n    \"3\": {\n        cr: \"3\",\n        value: 3,\n        xp: 700\n    },\n    \"4\": {\n        cr: \"4\",\n        value: 4,\n        xp: 1100\n    },\n    \"5\": {\n        cr: \"5\",\n        value: 5,\n        xp: 1800\n    },\n    \"6\": {\n        cr: \"6\",\n        value: 6,\n        xp: 2300\n    },\n    \"7\": {\n        cr: \"7\",\n        value: 7,\n        xp: 2900\n    },\n    \"8\": {\n        cr: \"8\",\n        value: 8,\n        xp: 3900\n    },\n    \"9\": {\n        cr: \"9\",\n        value: 9,\n        xp: 5000\n    },\n    \"10\": {\n        cr: \"10\",\n        value: 10,\n        xp: 5900\n    },\n    \"11\": {\n        cr: \"11\",\n        value: 11,\n        xp: 7200\n    },\n    \"12\": {\n        cr: \"12\",\n        value: 12,\n        xp: 8400\n    },\n    \"13\": {\n        cr: \"13\",\n        value: 13,\n        xp: 10000\n    },\n    \"14\": {\n        cr: \"14\",\n        value: 14,\n        xp: 11500\n    },\n    \"15\": {\n        cr: \"15\",\n        value: 15,\n        xp: 13000\n    },\n    \"16\": {\n        cr: \"16\",\n        value: 16,\n        xp: 15000\n    },\n    \"17\": {\n        cr: \"17\",\n        value: 17,\n        xp: 18000\n    },\n    \"18\": {\n        cr: \"18\",\n        value: 18,\n        xp: 20000\n    },\n    \"19\": {\n        cr: \"19\",\n        value: 19,\n        xp: 22000\n    },\n    \"20\": {\n        cr: \"20\",\n        value: 20,\n        xp: 25000\n    },\n    \"21\": {\n        cr: \"21\",\n        value: 21,\n        xp: 33000\n    },\n    \"22\": {\n        cr: \"22\",\n        value: 22,\n        xp: 41000\n    },\n    \"23\": {\n        cr: \"23\",\n        value: 23,\n        xp: 50000\n    },\n    \"24\": {\n        cr: \"24\",\n        value: 24,\n        xp: 62000\n    },\n    \"25\": {\n        cr: \"25\",\n        value: 25,\n        xp: 75000\n    },\n    \"26\": {\n        cr: \"26\",\n        value: 26,\n        xp: 90000\n    },\n    \"27\": {\n        cr: \"27\",\n        value: 27,\n        xp: 105000\n    },\n    \"28\": {\n        cr: \"28\",\n        value: 28,\n        xp: 120000\n    },\n    \"29\": {\n        cr: \"29\",\n        value: 29,\n        xp: 135000\n    },\n    \"30\": {\n        cr: \"30\",\n        value: 30,\n        xp: 155000\n    }\n};           \nif (\"cr\" in monster && monster.cr in CR) {\n    return `+${Math.max(\n            Math.floor(2 + ((CR[monster.cr]?.value ?? 0) - 1) / 4),\n            2\n        )}`;\n}\nreturn \"\";",
+                  "fallback": "-"
+                }
+              ],
+              "heading": ""
+            },
+            {
+              "type": "property",
+              "id": "f91afa2ba89b",
+              "properties": [
+                "environment"
+              ],
+              "fallback": "-",
+              "display": "Vorkommen"
+            }
+          ],
+          "conditioned": true,
+          "hasRule": true
+        },
+        {
+          "type": "traits",
+          "id": "7ba8d8b9fa08",
+          "properties": [
+            "traits"
+          ],
+          "conditioned": true,
+          "dice": true,
+          "heading": "Merkmale"
+        },
+        {
+          "type": "spells",
+          "id": "6b3b09da5b48",
+          "properties": [
+            "spells"
+          ],
+          "conditioned": true,
+          "dice": true,
+          "heading": "Zauberwirken"
+        },
+        {
+          "type": "text",
+          "id": "e8296b3af96b",
+          "properties": [
+            "spellsNotes"
+          ],
+          "conditioned": true,
+          "text": null
+        },
+        {
+          "type": "traits",
+          "id": "2aaa0babb858",
+          "properties": [
+            "actions"
+          ],
+          "heading": "Aktionen",
+          "conditioned": true,
+          "dice": true
+        },
+        {
+          "type": "traits",
+          "id": "485958180b2b",
+          "properties": [
+            "bonus_actions"
+          ],
+          "heading": "Bonusaktionen",
+          "conditioned": true,
+          "dice": true
+        },
+        {
+          "type": "group",
+          "id": "78288b98d98b",
+          "properties": [
+            "legendary_description",
+            "legendary_actions"
+          ],
+          "heading": "Legendäre Aktionen",
+          "nested": [
+            {
+              "type": "text",
+              "id": "cbd9aaf9b8e8",
+              "properties": [
+                "legendary_description"
+              ],
+              "conditioned": true,
+              "text": null,
+              "heading": ""
+            },
+            {
+              "type": "traits",
+              "id": "e9f8a8f978eb",
+              "properties": [
+                "legendary_actions"
+              ],
+              "conditioned": true,
+              "dice": true,
+              "heading": ""
+            }
+          ],
+          "conditioned": true
+        },
+        {
+          "type": "group",
+          "id": "98685a296859",
+          "properties": [
+            "mythic_description",
+            "mythic_actions"
+          ],
+          "heading": "Mythische Aktionen",
+          "nested": [
+            {
+              "type": "text",
+              "id": "1ad94b3bda98",
+              "properties": [
+                "mythic_description"
+              ],
+              "conditioned": true,
+              "text": null,
+              "heading": "Mythische Beschreibung"
+            },
+            {
+              "type": "traits",
+              "id": "388ba8a92a9b",
+              "properties": [
+                "mythic_actions"
+              ],
+              "conditioned": true,
+              "dice": true,
+              "heading": "Mythische Aktionen"
+            }
+          ],
+          "conditioned": true
+        },
+        {
+          "type": "traits",
+          "id": "8a1adac85af9",
+          "properties": [
+            "reactions"
+          ],
+          "heading": "Reaktionen",
+          "conditioned": true,
+          "dice": true
+        },
+        {
+          "type": "traits",
+          "id": "a86a29998bab",
+          "properties": [
+            "lair_actions"
+          ],
+          "heading": "",
+          "conditioned": true,
+          "dice": true
+        },
+        {
+          "type": "traits",
+          "id": "18c879a9cb89",
+          "properties": [
+            "regional_effects"
+          ],
+          "heading": "Regional Effects",
+          "conditioned": true,
+          "dice": true
+        }
+      ],
+      "name": "Basic 5e German Layout",
+      "id": "fb59fbaa5a78"
+    },
+    {
+      "blocks": [
+        {
+          "type": "inline",
+          "id": "4af8882afa69",
+          "properties": [],
+          "hasRule": true,
+          "nested": [
+            {
+              "type": "group",
+              "id": "8889a9abab3b",
+              "properties": [
+                "name",
+                "size",
+                "type",
+                "subtype",
+                "alignment"
+              ],
+              "nested": [
+                {
+                  "type": "inline",
+                  "id": "1b39ab6aaa99",
+                  "properties": [],
+                  "hasRule": false,
+                  "nested": [
+                    {
+                      "type": "heading",
+                      "id": "6b390a489ae8",
+                      "properties": [
+                        "name"
+                      ],
+                      "conditioned": true,
+                      "size": 1
+                    },
+                    {
+                      "type": "inline",
+                      "id": "1a599a79da9b",
+                      "properties": [],
+                      "hasRule": false,
+                      "nested": [
+                        {
+                          "type": "action",
+                          "id": "6bbbf84a287b",
+                          "icon": "sword",
+                          "callback": "try { InitiativeTracker.newEncounter({roll: true, creatures: [monster]}); } catch(e) {}"
+                        },
+                        {
+                          "type": "action",
+                          "id": "aa2afb39db08",
+                          "icon": "plus-with-circle",
+                          "callback": "try { InitiativeTracker.addCreatures([monster]); } catch(e) {}"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "subheading",
+                  "id": "6949bbe97b5b",
+                  "properties": [
+                    "size",
+                    "type",
+                    "subtype",
+                    "alignment"
+                  ],
+                  "conditioned": true,
+                  "separator": ", "
+                }
+              ],
+              "conditioned": true
+            },
+            {
+              "type": "image",
+              "id": "ba793a09bafb",
+              "properties": [
+                "image"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "group",
+          "id": "2a79eafb490b",
+          "properties": [
+            "ac",
+            "hp",
+            "speed"
+          ],
+          "nested": [
+            {
+              "type": "property",
+              "id": "0a7a4a28f8c9",
+              "properties": [
+                "ac"
+              ],
+              "display": "Rüstungsklasse",
+              "conditioned": true,
+              "callback": "const ac = [monster.ac];if (\"ac_class\" in monster) {ac.push(`(${monster.ac_class})`);}return ac.join(\" \");"
+            },
+            {
+              "type": "property",
+              "id": "aafb1ad8d87b",
+              "properties": [
+                "hp"
+              ],
+              "display": "Trefferpunkte",
+              "dice": true,
+              "diceProperty": "hit_dice",
+              "diceCallback": "if (\"hit_dice\" in monster) {\n  return [{ text: monster[\"hit_dice\"] }];\n} else {\n  return property;\n}",
+              "callback": "let str = [monster.hp];\nif (monster.hit_dice?.length) {\n  str.push(`(${monster.hit_dice})`);\n}\nreturn str.join(\" \");",
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "3abab8490b28",
+              "display": "Bewegungsrate",
+              "properties": [
+                "speed"
+              ],
+              "conditioned": true
+            }
+          ],
+          "hasRule": true,
+          "conditioned": true
+        },
+        {
+          "type": "table",
+          "id": "aaab3aa91868",
+          "properties": [
+            "stats"
+          ],
+          "headers": [
+            "Str",
+            "Ges",
+            "Kon",
+            "Int",
+            "Wei",
+            "Cha"
+          ],
+          "calculate": true,
+          "hasRule": true,
+          "conditioned": true
+        },
+        {
+          "type": "table",
+          "id": "4889298a289a",
+          "properties": [
+            "fage_stats"
+          ],
+          "headers": [
+            "Accuracy",
+            "Communication",
+            "Constitution",
+            "Dexterity",
+            "Fighting",
+            "Intelligence",
+            "Perception",
+            "Strength",
+            "Willpower"
+          ],
+          "calculate": false,
+          "hasRule": true,
+          "conditioned": true
+        },
+        {
+          "type": "group",
+          "id": "db2a19784908",
+          "properties": [
+            "saves",
+            "skillsaves",
+            "damage_immunities",
+            "damage_resistances",
+            "damage_vulnerabilities",
+            "condition_immunities",
+            "cr",
+            "languages",
+            "senses"
+          ],
+          "nested": [
+            {
+              "type": "saves",
+              "id": "ea7ad9ebdb8a",
+              "display": "Rettungswürfe",
+              "properties": [
+                "saves"
+              ],
+              "conditioned": true
+            },
+            {
+              "type": "saves",
+              "id": "f998db1b28ab",
+              "display": "Fertigkeiten",
+              "properties": [
+                "skillsaves"
+              ],
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "785b88cbba2b",
+              "display": "Schadensresistenzen",
+              "properties": [
+                "damage_resistances"
+              ],
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "baf88a38dafa",
+              "display": "Schadensimmunitäten",
+              "properties": [
+                "damage_immunities"
+              ],
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "e8da29183b5a",
+              "display": "Zustandsimmunitäten",
+              "properties": [
+                "condition_immunities"
+              ],
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "89f918a989eb",
+              "display": "Schadensanfälligkeiten",
+              "properties": [
+                "damage_vulnerabilities"
+              ],
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "3b382b8a6b49",
+              "properties": [
+                "gear"
+              ],
+              "fallback": "-",
+              "conditioned": true,
+              "display": "Ausrüstung"
+            },
+            {
+              "type": "property",
+              "id": "5ba97919d8ca",
+              "display": "Sinne",
+              "properties": [
+                "senses"
+              ],
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "ba9ac8196909",
+              "display": "Sprachen",
+              "properties": [
+                "languages"
+              ],
+              "fallback": "-"
+            },
+            {
+              "type": "inline",
+              "id": "d8c8bb784acb",
+              "properties": [],
+              "conditioned": true,
+              "nested": [
+                {
+                  "type": "property",
+                  "id": "3ab90949e9d8",
+                  "display": "HG",
+                  "properties": [
+                    "cr"
+                  ],
+                  "callback": "const CR = {\n    \"0\": {\n        cr: \"0\",\n        value: 0,\n        xp: 10\n    },\n    \"1/8\": {\n        cr: \"1/8\",\n        value: 0.125,\n        xp: 25\n    },\n    \"1/4\": {\n        cr: \"1/4\",\n\n        value: 0.25,\n        xp: 50\n    },\n    \"1/2\": {\n        cr: \"1/2\",\n        value: 0.5,\n        xp: 100\n    },\n    \"0.125\": {\n        cr: \"1/8\",\n        value: 0.125,\n        xp: 25\n    },\n    \"0.25\": {\n        cr: \"1/4\",\n\n        value: 0.25,\n        xp: 50\n    },\n    \"0.5\": {\n        cr: \"1/2\",\n        value: 0.5,\n        xp: 100\n    },\n    \"1\": {\n        cr: \"1\",\n        value: 1,\n        xp: 200\n    },\n    \"2\": {\n        cr: \"2\",\n        value: 2,\n        xp: 450\n    },\n    \"3\": {\n        cr: \"3\",\n        value: 3,\n        xp: 700\n    },\n    \"4\": {\n        cr: \"4\",\n        value: 4,\n        xp: 1100\n    },\n    \"5\": {\n        cr: \"5\",\n        value: 5,\n        xp: 1800\n    },\n    \"6\": {\n        cr: \"6\",\n        value: 6,\n        xp: 2300\n    },\n    \"7\": {\n        cr: \"7\",\n        value: 7,\n        xp: 2900\n    },\n    \"8\": {\n        cr: \"8\",\n        value: 8,\n        xp: 3900\n    },\n    \"9\": {\n        cr: \"9\",\n        value: 9,\n        xp: 5000\n    },\n    \"10\": {\n        cr: \"10\",\n        value: 10,\n        xp: 5900\n    },\n    \"11\": {\n        cr: \"11\",\n        value: 11,\n        xp: 7200\n    },\n    \"12\": {\n        cr: \"12\",\n        value: 12,\n        xp: 8400\n    },\n    \"13\": {\n        cr: \"13\",\n        value: 13,\n        xp: 10000\n    },\n    \"14\": {\n        cr: \"14\",\n        value: 14,\n        xp: 11500\n    },\n    \"15\": {\n        cr: \"15\",\n        value: 15,\n        xp: 13000\n    },\n    \"16\": {\n        cr: \"16\",\n        value: 16,\n        xp: 15000\n    },\n    \"17\": {\n        cr: \"17\",\n        value: 17,\n        xp: 18000\n    },\n    \"18\": {\n        cr: \"18\",\n        value: 18,\n        xp: 20000\n    },\n    \"19\": {\n        cr: \"19\",\n        value: 19,\n        xp: 22000\n    },\n    \"20\": {\n        cr: \"20\",\n        value: 20,\n        xp: 25000\n    },\n    \"21\": {\n        cr: \"21\",\n        value: 21,\n        xp: 33000\n    },\n    \"22\": {\n        cr: \"22\",\n        value: 22,\n        xp: 41000\n    },\n    \"23\": {\n        cr: \"23\",\n        value: 23,\n        xp: 50000\n    },\n    \"24\": {\n        cr: \"24\",\n        value: 24,\n        xp: 62000\n    },\n    \"25\": {\n        cr: \"25\",\n        value: 25,\n        xp: 75000\n    },\n    \"26\": {\n        cr: \"26\",\n        value: 26,\n        xp: 90000\n    },\n    \"27\": {\n        cr: \"27\",\n        value: 27,\n        xp: 105000\n    },\n    \"28\": {\n        cr: \"28\",\n        value: 28,\n        xp: 120000\n    },\n    \"29\": {\n        cr: \"29\",\n        value: 29,\n        xp: 135000\n    },\n    \"30\": {\n        cr: \"30\",\n        value: 30,\n        xp: 155000\n    }\n};                        \nif (\"cr\" in monster && monster.cr in CR) {\n    return `${CR[\n        monster.cr\n    ].cr} (${CR[\n        monster.cr\n    ].xp.toLocaleString()} XP)`;\n}\nreturn \"\";",
+                  "fallback": "-"
+                },
+                {
+                  "type": "property",
+                  "id": "0b28793bf818",
+                  "display": "Übungsbonus",
+                  "properties": [
+                    "cr"
+                  ],
+                  "callback": "const CR = {\n    \"0\": {\n        cr: \"0\",\n        value: 0,\n        xp: 0\n    },\n    \"1/8\": {\n        cr: \"1/8\",\n        value: 0.125,\n        xp: 25\n    },\n    \"1/4\": {\n        cr: \"1/4\",\n\n        value: 0.25,\n        xp: 50\n    },\n    \"1/2\": {\n        cr: \"1/2\",\n        value: 0.5,\n        xp: 100\n    },\n    \"0.125\": {\n        cr: \"1/8\",\n        value: 0.125,\n        xp: 25\n    },\n    \"0.25\": {\n        cr: \"1/4\",\n\n        value: 0.25,\n        xp: 50\n    },\n    \"0.5\": {\n        cr: \"1/2\",\n        value: 0.5,\n        xp: 100\n    },\n    \"1\": {\n        cr: \"1\",\n        value: 1,\n        xp: 200\n    },\n    \"2\": {\n        cr: \"2\",\n        value: 2,\n        xp: 450\n    },\n    \"3\": {\n        cr: \"3\",\n        value: 3,\n        xp: 700\n    },\n    \"4\": {\n        cr: \"4\",\n        value: 4,\n        xp: 1100\n    },\n    \"5\": {\n        cr: \"5\",\n        value: 5,\n        xp: 1800\n    },\n    \"6\": {\n        cr: \"6\",\n        value: 6,\n        xp: 2300\n    },\n    \"7\": {\n        cr: \"7\",\n        value: 7,\n        xp: 2900\n    },\n    \"8\": {\n        cr: \"8\",\n        value: 8,\n        xp: 3900\n    },\n    \"9\": {\n        cr: \"9\",\n        value: 9,\n        xp: 5000\n    },\n    \"10\": {\n        cr: \"10\",\n        value: 10,\n        xp: 5900\n    },\n    \"11\": {\n        cr: \"11\",\n        value: 11,\n        xp: 7200\n    },\n    \"12\": {\n        cr: \"12\",\n        value: 12,\n        xp: 8400\n    },\n    \"13\": {\n        cr: \"13\",\n        value: 13,\n        xp: 10000\n    },\n    \"14\": {\n        cr: \"14\",\n        value: 14,\n        xp: 11500\n    },\n    \"15\": {\n        cr: \"15\",\n        value: 15,\n        xp: 13000\n    },\n    \"16\": {\n        cr: \"16\",\n        value: 16,\n        xp: 15000\n    },\n    \"17\": {\n        cr: \"17\",\n        value: 17,\n        xp: 18000\n    },\n    \"18\": {\n        cr: \"18\",\n        value: 18,\n        xp: 20000\n    },\n    \"19\": {\n        cr: \"19\",\n        value: 19,\n        xp: 22000\n    },\n    \"20\": {\n        cr: \"20\",\n        value: 20,\n        xp: 25000\n    },\n    \"21\": {\n        cr: \"21\",\n        value: 21,\n        xp: 33000\n    },\n    \"22\": {\n        cr: \"22\",\n        value: 22,\n        xp: 41000\n    },\n    \"23\": {\n        cr: \"23\",\n        value: 23,\n        xp: 50000\n    },\n    \"24\": {\n        cr: \"24\",\n        value: 24,\n        xp: 62000\n    },\n    \"25\": {\n        cr: \"25\",\n        value: 25,\n        xp: 75000\n    },\n    \"26\": {\n        cr: \"26\",\n        value: 26,\n        xp: 90000\n    },\n    \"27\": {\n        cr: \"27\",\n        value: 27,\n        xp: 105000\n    },\n    \"28\": {\n        cr: \"28\",\n        value: 28,\n        xp: 120000\n    },\n    \"29\": {\n        cr: \"29\",\n        value: 29,\n        xp: 135000\n    },\n    \"30\": {\n        cr: \"30\",\n        value: 30,\n        xp: 155000\n    }\n};           \nif (\"cr\" in monster && monster.cr in CR) {\n    return `+${Math.max(\n            Math.floor(2 + ((CR[monster.cr]?.value ?? 0) - 1) / 4),\n            2\n        )}`;\n}\nreturn \"\";",
+                  "fallback": "-"
+                }
+              ],
+              "heading": ""
+            }
+          ],
+          "conditioned": true,
+          "hasRule": true
+        },
+        {
+          "type": "traits",
+          "id": "7ba8d8b9fa08",
+          "properties": [
+            "traits"
+          ],
+          "conditioned": true,
+          "dice": true,
+          "heading": "Merkmale"
+        },
+        {
+          "type": "spells",
+          "id": "6b3b09da5b48",
+          "properties": [
+            "spells"
+          ],
+          "conditioned": true,
+          "dice": true,
+          "heading": "Zauberwirken"
+        },
+        {
+          "type": "text",
+          "id": "e8296b3af96b",
+          "properties": [
+            "spellsNotes"
+          ],
+          "conditioned": true,
+          "text": null
+        },
+        {
+          "type": "traits",
+          "id": "2aaa0babb858",
+          "properties": [
+            "actions"
+          ],
+          "heading": "Aktionen",
+          "conditioned": true,
+          "dice": true
+        },
+        {
+          "type": "traits",
+          "id": "485958180b2b",
+          "properties": [
+            "bonus_actions"
+          ],
+          "heading": "Bonusaktionen",
+          "conditioned": true,
+          "dice": true
+        },
+        {
+          "type": "group",
+          "id": "78288b98d98b",
+          "properties": [
+            "legendary_description",
+            "legendary_actions"
+          ],
+          "heading": "Legendäre Aktionen",
+          "nested": [
+            {
+              "type": "text",
+              "id": "cbd9aaf9b8e8",
+              "properties": [
+                "legendary_description"
+              ],
+              "conditioned": true,
+              "text": null,
+              "heading": ""
+            },
+            {
+              "type": "traits",
+              "id": "e9f8a8f978eb",
+              "properties": [
+                "legendary_actions"
+              ],
+              "conditioned": true,
+              "dice": true,
+              "heading": ""
+            }
+          ],
+          "conditioned": true
+        },
+        {
+          "type": "group",
+          "id": "98685a296859",
+          "properties": [
+            "mythic_description",
+            "mythic_actions"
+          ],
+          "heading": "Mythische Aktionen",
+          "nested": [
+            {
+              "type": "text",
+              "id": "1ad94b3bda98",
+              "properties": [
+                "mythic_description"
+              ],
+              "conditioned": true,
+              "text": null,
+              "heading": "Mythische Beschreibung"
+            },
+            {
+              "type": "traits",
+              "id": "388ba8a92a9b",
+              "properties": [
+                "mythic_actions"
+              ],
+              "conditioned": true,
+              "dice": true,
+              "heading": "Mythische Aktionen"
+            }
+          ],
+          "conditioned": true
+        },
+        {
+          "type": "traits",
+          "id": "8a1adac85af9",
+          "properties": [
+            "reactions"
+          ],
+          "heading": "Reaktionen",
+          "conditioned": true,
+          "dice": true
+        },
+        {
+          "type": "traits",
+          "id": "a86a29998bab",
+          "properties": [
+            "lair_actions"
+          ],
+          "heading": "",
+          "conditioned": true,
+          "dice": true
+        },
+        {
+          "type": "traits",
+          "id": "18c879a9cb89",
+          "properties": [
+            "regional_effects"
+          ],
+          "heading": "Regional Effects",
+          "conditioned": true,
+          "dice": true
+        }
+      ],
+      "name": "Basic 5e 2024 German Layout",
+      "id": "89c879995949"
+    },
+    {
+      "blocks": [
+        {
+          "type": "inline",
+          "id": "f988fb2b587a",
+          "properties": [],
+          "hasRule": true,
+          "nested": [
+            {
+              "type": "group",
+              "id": "5a685bb91999",
+              "properties": [
+                "name",
+                "size",
+                "type",
+                "subtype",
+                "alignment"
+              ],
+              "nested": [
+                {
+                  "type": "inline",
+                  "id": "788a0958cbd8",
+                  "properties": [],
+                  "hasRule": false,
+                  "nested": [
+                    {
+                      "type": "heading",
+                      "id": "18ea5a99489a",
+                      "properties": [
+                        "name"
+                      ],
+                      "conditioned": true,
+                      "size": 1
+                    },
+                    {
+                      "type": "inline",
+                      "id": "69fbdaeba969",
+                      "properties": [],
+                      "hasRule": false,
+                      "nested": [
+                        {
+                          "type": "action",
+                          "id": "281a499bfb68",
+                          "icon": "sword",
+                          "callback": "try { InitiativeTracker.newEncounter({roll: true, creatures: [monster]}); } catch(e) {}"
+                        },
+                        {
+                          "type": "action",
+                          "id": "0998ebc85949",
+                          "icon": "plus-with-circle",
+                          "callback": "try { InitiativeTracker.addCreatures([monster]); } catch(e) {}"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "subheading",
+                  "id": "d838ab18792b",
+                  "properties": [
+                    "size",
+                    "type",
+                    "subtype",
+                    "alignment"
+                  ],
+                  "conditioned": true,
+                  "separator": ", "
+                }
+              ],
+              "conditioned": true
+            },
+            {
+              "type": "image",
+              "id": "2b1a5bc878a9",
+              "properties": [
+                "image"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "group",
+          "id": "aa5b28b94a28",
+          "properties": [
+            "ac",
+            "hp",
+            "speed"
+          ],
+          "nested": [
+            {
+              "type": "property",
+              "id": "f888a84b9a69",
+              "properties": [
+                "ac"
+              ],
+              "display": "Armor Class",
+              "conditioned": true,
+              "callback": "const ac = [monster.ac];if (\"ac_class\" in monster) {ac.push(`(${monster.ac_class})`);}return ac.join(\" \");"
+            },
+            {
+              "type": "property",
+              "id": "6a8a39eb5938",
+              "properties": [
+                "hp"
+              ],
+              "display": "Hit Points",
+              "dice": true,
+              "diceProperty": "hit_dice",
+              "diceCallback": "if (\"hit_dice\" in monster) {\n  return [{ text: monster[\"hit_dice\"] }];\n} else {\n  return property;\n}",
+              "callback": "let str = [monster.hp];\nif (monster.hit_dice?.length) {\n  str.push(`(${monster.hit_dice})`);\n}\nreturn str.join(\" \");",
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "da38e81879db",
+              "display": "Speed",
+              "properties": [
+                "speed"
+              ],
+              "conditioned": true
+            }
+          ],
+          "hasRule": true,
+          "conditioned": true
+        },
+        {
+          "type": "table",
+          "id": "5a1b5b4828ea",
+          "properties": [
+            "stats"
+          ],
+          "headers": [
+            "Str",
+            "Dex",
+            "Con",
+            "Int",
+            "Wis",
+            "Cha"
+          ],
+          "calculate": true,
+          "hasRule": true,
+          "conditioned": true
+        },
+        {
+          "type": "table",
+          "id": "78395bfbb99b",
+          "properties": [
+            "fage_stats"
+          ],
+          "headers": [
+            "Accuracy",
+            "Communication",
+            "Constitution",
+            "Dexterity",
+            "Fighting",
+            "Intelligence",
+            "Perception",
+            "Strength",
+            "Willpower"
+          ],
+          "calculate": false,
+          "hasRule": true,
+          "conditioned": true
+        },
+        {
+          "type": "group",
+          "id": "7a49eb28e949",
+          "properties": [
+            "saves",
+            "skillsaves",
+            "damage_immunities",
+            "damage_resistances",
+            "damage_vulnerabilities",
+            "condition_immunities",
+            "cr",
+            "languages",
+            "senses"
+          ],
+          "nested": [
+            {
+              "type": "saves",
+              "id": "9b3b08f8aa38",
+              "display": "Saves",
+              "properties": [
+                "saves"
+              ],
+              "conditioned": true
+            },
+            {
+              "type": "saves",
+              "id": "488ad8eb9a48",
+              "display": "Skills",
+              "properties": [
+                "skillsaves"
+              ],
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "c88bda3b0969",
+              "display": "Damage Resistances",
+              "properties": [
+                "damage_resistances"
+              ],
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "7928891b59a9",
+              "display": "Damage Immunities",
+              "properties": [
+                "damage_immunities"
+              ],
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "aa5b5a3a9809",
+              "display": "Condition Immunities",
+              "properties": [
+                "condition_immunities"
+              ],
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "5b9b9988fb68",
+              "display": "Damage Vulnerabilities",
+              "properties": [
+                "damage_vulnerabilities"
+              ],
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "6b18287b28da",
+              "display": "Senses",
+              "properties": [
+                "senses"
+              ],
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "28a92ad888b9",
+              "display": "Languages",
+              "properties": [
+                "languages"
+              ],
+              "fallback": "-"
+            },
+            {
+              "type": "inline",
+              "id": "49f9d92bfa8b",
+              "properties": [],
+              "conditioned": true,
+              "nested": [
+                {
+                  "type": "property",
+                  "id": "b8083a8aca89",
+                  "display": "Challenge",
+                  "properties": [
+                    "cr"
+                  ],
+                  "callback": "const CR = {\n    \"0\": {\n        cr: \"0\",\n        value: 0,\n        xp: 10\n    },\n    \"1/8\": {\n        cr: \"1/8\",\n        value: 0.125,\n        xp: 25\n    },\n    \"1/4\": {\n        cr: \"1/4\",\n\n        value: 0.25,\n        xp: 50\n    },\n    \"1/2\": {\n        cr: \"1/2\",\n        value: 0.5,\n        xp: 100\n    },\n    \"0.125\": {\n        cr: \"1/8\",\n        value: 0.125,\n        xp: 25\n    },\n    \"0.25\": {\n        cr: \"1/4\",\n\n        value: 0.25,\n        xp: 50\n    },\n    \"0.5\": {\n        cr: \"1/2\",\n        value: 0.5,\n        xp: 100\n    },\n    \"1\": {\n        cr: \"1\",\n        value: 1,\n        xp: 200\n    },\n    \"2\": {\n        cr: \"2\",\n        value: 2,\n        xp: 450\n    },\n    \"3\": {\n        cr: \"3\",\n        value: 3,\n        xp: 700\n    },\n    \"4\": {\n        cr: \"4\",\n        value: 4,\n        xp: 1100\n    },\n    \"5\": {\n        cr: \"5\",\n        value: 5,\n        xp: 1800\n    },\n    \"6\": {\n        cr: \"6\",\n        value: 6,\n        xp: 2300\n    },\n    \"7\": {\n        cr: \"7\",\n        value: 7,\n        xp: 2900\n    },\n    \"8\": {\n        cr: \"8\",\n        value: 8,\n        xp: 3900\n    },\n    \"9\": {\n        cr: \"9\",\n        value: 9,\n        xp: 5000\n    },\n    \"10\": {\n        cr: \"10\",\n        value: 10,\n        xp: 5900\n    },\n    \"11\": {\n        cr: \"11\",\n        value: 11,\n        xp: 7200\n    },\n    \"12\": {\n        cr: \"12\",\n        value: 12,\n        xp: 8400\n    },\n    \"13\": {\n        cr: \"13\",\n        value: 13,\n        xp: 10000\n    },\n    \"14\": {\n        cr: \"14\",\n        value: 14,\n        xp: 11500\n    },\n    \"15\": {\n        cr: \"15\",\n        value: 15,\n        xp: 13000\n    },\n    \"16\": {\n        cr: \"16\",\n        value: 16,\n        xp: 15000\n    },\n    \"17\": {\n        cr: \"17\",\n        value: 17,\n        xp: 18000\n    },\n    \"18\": {\n        cr: \"18\",\n        value: 18,\n        xp: 20000\n    },\n    \"19\": {\n        cr: \"19\",\n        value: 19,\n        xp: 22000\n    },\n    \"20\": {\n        cr: \"20\",\n        value: 20,\n        xp: 25000\n    },\n    \"21\": {\n        cr: \"21\",\n        value: 21,\n        xp: 33000\n    },\n    \"22\": {\n        cr: \"22\",\n        value: 22,\n        xp: 41000\n    },\n    \"23\": {\n        cr: \"23\",\n        value: 23,\n        xp: 50000\n    },\n    \"24\": {\n        cr: \"24\",\n        value: 24,\n        xp: 62000\n    },\n    \"25\": {\n        cr: \"25\",\n        value: 25,\n        xp: 75000\n    },\n    \"26\": {\n        cr: \"26\",\n        value: 26,\n        xp: 90000\n    },\n    \"27\": {\n        cr: \"27\",\n        value: 27,\n        xp: 105000\n    },\n    \"28\": {\n        cr: \"28\",\n        value: 28,\n        xp: 120000\n    },\n    \"29\": {\n        cr: \"29\",\n        value: 29,\n        xp: 135000\n    },\n    \"30\": {\n        cr: \"30\",\n        value: 30,\n        xp: 155000\n    }\n};                        \nif (\"cr\" in monster && monster.cr in CR) {\n    return `${CR[\n        monster.cr\n    ].cr} (${CR[\n        monster.cr\n    ].xp.toLocaleString()} XP)`;\n}\nreturn \"\";"
+                },
+                {
+                  "type": "property",
+                  "id": "699aeb8b3869",
+                  "display": "Proficiency Bonus",
+                  "properties": [
+                    "cr"
+                  ],
+                  "callback": "const CR = {\n    \"0\": {\n        cr: \"0\",\n        value: 0,\n        xp: 0\n    },\n    \"1/8\": {\n        cr: \"1/8\",\n        value: 0.125,\n        xp: 25\n    },\n    \"1/4\": {\n        cr: \"1/4\",\n\n        value: 0.25,\n        xp: 50\n    },\n    \"1/2\": {\n        cr: \"1/2\",\n        value: 0.5,\n        xp: 100\n    },\n    \"0.125\": {\n        cr: \"1/8\",\n        value: 0.125,\n        xp: 25\n    },\n    \"0.25\": {\n        cr: \"1/4\",\n\n        value: 0.25,\n        xp: 50\n    },\n    \"0.5\": {\n        cr: \"1/2\",\n        value: 0.5,\n        xp: 100\n    },\n    \"1\": {\n        cr: \"1\",\n        value: 1,\n        xp: 200\n    },\n    \"2\": {\n        cr: \"2\",\n        value: 2,\n        xp: 450\n    },\n    \"3\": {\n        cr: \"3\",\n        value: 3,\n        xp: 700\n    },\n    \"4\": {\n        cr: \"4\",\n        value: 4,\n        xp: 1100\n    },\n    \"5\": {\n        cr: \"5\",\n        value: 5,\n        xp: 1800\n    },\n    \"6\": {\n        cr: \"6\",\n        value: 6,\n        xp: 2300\n    },\n    \"7\": {\n        cr: \"7\",\n        value: 7,\n        xp: 2900\n    },\n    \"8\": {\n        cr: \"8\",\n        value: 8,\n        xp: 3900\n    },\n    \"9\": {\n        cr: \"9\",\n        value: 9,\n        xp: 5000\n    },\n    \"10\": {\n        cr: \"10\",\n        value: 10,\n        xp: 5900\n    },\n    \"11\": {\n        cr: \"11\",\n        value: 11,\n        xp: 7200\n    },\n    \"12\": {\n        cr: \"12\",\n        value: 12,\n        xp: 8400\n    },\n    \"13\": {\n        cr: \"13\",\n        value: 13,\n        xp: 10000\n    },\n    \"14\": {\n        cr: \"14\",\n        value: 14,\n        xp: 11500\n    },\n    \"15\": {\n        cr: \"15\",\n        value: 15,\n        xp: 13000\n    },\n    \"16\": {\n        cr: \"16\",\n        value: 16,\n        xp: 15000\n    },\n    \"17\": {\n        cr: \"17\",\n        value: 17,\n        xp: 18000\n    },\n    \"18\": {\n        cr: \"18\",\n        value: 18,\n        xp: 20000\n    },\n    \"19\": {\n        cr: \"19\",\n        value: 19,\n        xp: 22000\n    },\n    \"20\": {\n        cr: \"20\",\n        value: 20,\n        xp: 25000\n    },\n    \"21\": {\n        cr: \"21\",\n        value: 21,\n        xp: 33000\n    },\n    \"22\": {\n        cr: \"22\",\n        value: 22,\n        xp: 41000\n    },\n    \"23\": {\n        cr: \"23\",\n        value: 23,\n        xp: 50000\n    },\n    \"24\": {\n        cr: \"24\",\n        value: 24,\n        xp: 62000\n    },\n    \"25\": {\n        cr: \"25\",\n        value: 25,\n        xp: 75000\n    },\n    \"26\": {\n        cr: \"26\",\n        value: 26,\n        xp: 90000\n    },\n    \"27\": {\n        cr: \"27\",\n        value: 27,\n        xp: 105000\n    },\n    \"28\": {\n        cr: \"28\",\n        value: 28,\n        xp: 120000\n    },\n    \"29\": {\n        cr: \"29\",\n        value: 29,\n        xp: 135000\n    },\n    \"30\": {\n        cr: \"30\",\n        value: 30,\n        xp: 155000\n    }\n};           \nif (\"cr\" in monster && monster.cr in CR) {\n    return `+${Math.max(\n            Math.floor(2 + ((CR[monster.cr]?.value ?? 0) - 1) / 4),\n            2\n        )}`;\n}\nreturn \"\";"
+                }
+              ]
+            }
+          ],
+          "conditioned": true,
+          "hasRule": true
+        },
+        {
+          "type": "traits",
+          "id": "fb2a2b4aa988",
+          "properties": [
+            "traits"
+          ],
+          "conditioned": true,
+          "dice": true
+        },
+        {
+          "type": "spells",
+          "id": "a8a8a92a689b",
+          "properties": [
+            "spells"
+          ],
+          "conditioned": true,
+          "dice": true
+        },
+        {
+          "type": "text",
+          "id": "0a8a799b08a9",
+          "properties": [
+            "spellsNotes"
+          ],
+          "conditioned": true,
+          "text": null
+        },
+        {
+          "type": "traits",
+          "id": "68980819485a",
+          "properties": [
+            "actions"
+          ],
+          "heading": "Actions",
+          "conditioned": true,
+          "dice": true
+        },
+        {
+          "type": "traits",
+          "id": "a9f9dbcbeb2a",
+          "properties": [
+            "bonus_actions"
+          ],
+          "heading": "Bonus Actions",
+          "conditioned": true,
+          "dice": true
+        },
+        {
+          "type": "group",
+          "id": "392adafb9a38",
+          "properties": [
+            "legendary_description",
+            "legendary_actions"
+          ],
+          "heading": "Legendary Actions",
+          "nested": [
+            {
+              "type": "text",
+              "id": "1b098abb8a2a",
+              "properties": [
+                "legendary_description"
+              ],
+              "conditioned": true,
+              "text": null
+            },
+            {
+              "type": "traits",
+              "id": "8bd8eabb3b9b",
+              "properties": [
+                "legendary_actions"
+              ],
+              "conditioned": true,
+              "dice": true
+            }
+          ],
+          "conditioned": true
+        },
+        {
+          "type": "group",
+          "id": "db380bf9a889",
+          "properties": [
+            "mythic_description",
+            "mythic_actions"
+          ],
+          "heading": "Mythic Actions",
+          "nested": [
+            {
+              "type": "text",
+              "id": "d8a9b99abb78",
+              "properties": [
+                "mythic_description"
+              ],
+              "conditioned": true,
+              "text": null
+            },
+            {
+              "type": "traits",
+              "id": "dae8986b982b",
+              "properties": [
+                "mythic_actions"
+              ],
+              "conditioned": true,
+              "dice": true
+            }
+          ],
+          "conditioned": true
+        },
+        {
+          "type": "traits",
+          "id": "794aaa687868",
+          "properties": [
+            "reactions"
+          ],
+          "heading": "Reactions",
+          "conditioned": true,
+          "dice": true
+        },
+        {
+          "type": "traits",
+          "id": "682b3a09f849",
+          "properties": [
+            "lair_actions"
+          ],
+          "heading": "Lair Actions",
+          "conditioned": true,
+          "dice": true
+        },
+        {
+          "type": "traits",
+          "id": "48aa282b5aab",
+          "properties": [
+            "regional_effects"
+          ],
+          "heading": "Regional Effects",
+          "conditioned": true,
+          "dice": true
+        }
+      ],
+      "name": "Basic 5e Layout Copy",
+      "id": "f8a93a198aab"
+    }
+  ],
+  "default": "89c879995949",
+  "useDice": true,
+  "renderDice": true,
+  "export": true,
+  "showAdvanced": true,
+  "version": {
+    "major": 4,
+    "minor": 10,
+    "patch": 2
+  },
+  "paths": [
+    "D&D/Bestiarium"
+  ],
+  "autoParse": true,
+  "disableSRD": true,
+  "tryToRenderLinks": true,
+  "debug": false,
+  "notifiedOfFantasy": false,
+  "hideConditionHelp": false,
+  "alwaysImport": false,
+  "defaultLayoutsIntegrated": true,
+  "atomicWrite": true
+}

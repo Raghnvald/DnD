@@ -1,0 +1,59 @@
+{
+  "trigger_auto_manual": "Automatic",
+  "use_regex_to_check_for_tags": false,
+  "statusBar_trigger_indicator": true,
+  "folder_tag_pattern": [
+    {
+      "folder": "D&D/05 - Wikipedia/Zauber/Grad 0",
+      "tag": "#Zauber/Grad/0",
+      "pattern": ""
+    },
+    {
+      "folder": "D&D/05 - Wikipedia/Zauber/Grad 1",
+      "tag": "#Zauber/Grad/1",
+      "pattern": ""
+    },
+    {
+      "folder": "D&D/05 - Wikipedia/Zauber/Grad 2",
+      "tag": "#Zauber/Grad/2",
+      "pattern": ""
+    },
+    {
+      "folder": "D&D/05 - Wikipedia/Zauber/Grad 3",
+      "tag": "#Zauber/Grad/3",
+      "pattern": ""
+    },
+    {
+      "folder": "D&D/05 - Wikipedia/Zauber/Grad 4",
+      "tag": "#Zauber/Grad/4",
+      "pattern": ""
+    },
+    {
+      "folder": "D&D/05 - Wikipedia/Zauber/Grad 5",
+      "tag": "#Zauber/Grad/5",
+      "pattern": ""
+    },
+    {
+      "folder": "D&D/05 - Wikipedia/Zauber/Grad 6",
+      "tag": "#Zauber/Grad/6",
+      "pattern": ""
+    },
+    {
+      "folder": "D&D/05 - Wikipedia/Zauber/Grad 7",
+      "tag": "#Zauber/Grad/7",
+      "pattern": ""
+    },
+    {
+      "folder": "D&D/05 - Wikipedia/Zauber/Grad 8",
+      "tag": "#Zauber/Grad/8",
+      "pattern": ""
+    },
+    {
+      "folder": "D&D/05 - Wikipedia/Zauber/Grad 9",
+      "tag": "#Zauber/Grad/9",
+      "pattern": ""
+    }
+  ],
+  "use_regex_to_check_for_excluded_folder": false,
+  "excluded_folder": []
+}

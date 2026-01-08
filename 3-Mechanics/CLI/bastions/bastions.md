@@ -1,0 +1,42 @@
+---
+cssclasses:
+  - json5e-note
+  - json5e-index
+---
+# Index of Bastions
+
+- [Arcane Study](3-Mechanics/CLI/bastions/arcane-study.md)
+- [Archive](3-Mechanics/CLI/bastions/archive.md)
+- [Armory](3-Mechanics/CLI/bastions/armory.md)
+- [Barrack](3-Mechanics/CLI/bastions/barrack.md)
+- [Bedroom](3-Mechanics/CLI/bastions/bedroom.md)
+- [Courtyard](3-Mechanics/CLI/bastions/courtyard.md)
+- [Demiplane](3-Mechanics/CLI/bastions/demiplane.md)
+- [Dining Room](3-Mechanics/CLI/bastions/dining-room.md)
+- [Gaming Hall](3-Mechanics/CLI/bastions/gaming-hall.md)
+- [Garden](3-Mechanics/CLI/bastions/garden.md)
+- [Greenhouse](3-Mechanics/CLI/bastions/greenhouse.md)
+- [Guildhall](3-Mechanics/CLI/bastions/guildhall.md)
+- [Kitchen](3-Mechanics/CLI/bastions/kitchen.md)
+- [Laboratory](3-Mechanics/CLI/bastions/laboratory.md)
+- [Library](3-Mechanics/CLI/bastions/library.md)
+- [Meditation Chamber](3-Mechanics/CLI/bastions/meditation-chamber.md)
+- [Menagerie](3-Mechanics/CLI/bastions/menagerie.md)
+- [Observatory](3-Mechanics/CLI/bastions/observatory.md)
+- [Parlor](3-Mechanics/CLI/bastions/parlor.md)
+- [Pub](3-Mechanics/CLI/bastions/pub.md)
+- [Reliquary](3-Mechanics/CLI/bastions/reliquary.md)
+- [Sacristy](3-Mechanics/CLI/bastions/sacristy.md)
+- [Sanctuary](3-Mechanics/CLI/bastions/sanctuary.md)
+- [Sanctum](3-Mechanics/CLI/bastions/sanctum.md)
+- [Scriptorium](3-Mechanics/CLI/bastions/scriptorium.md)
+- [Smithy](3-Mechanics/CLI/bastions/smithy.md)
+- [Stable](3-Mechanics/CLI/bastions/stable.md)
+- [Storage](3-Mechanics/CLI/bastions/storage.md)
+- [Storehouse](3-Mechanics/CLI/bastions/storehouse.md)
+- [Teleportation Circle](3-Mechanics/CLI/bastions/teleportation-circle.md)
+- [Theater](3-Mechanics/CLI/bastions/theater.md)
+- [Training Area](3-Mechanics/CLI/bastions/training-area.md)
+- [Trophy Room](3-Mechanics/CLI/bastions/trophy-room.md)
+- [War Room](3-Mechanics/CLI/bastions/war-room.md)
+- [Workshop](3-Mechanics/CLI/bastions/workshop.md)

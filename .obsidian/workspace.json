@@ -1,0 +1,288 @@
+{
+  "main": {
+    "id": "eceb8780eb683022",
+    "type": "split",
+    "children": [
+      {
+        "id": "d15afd2b1d0f33f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b650a82f53d5cbfd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "D&D/Bücher/Spielleiterhandbuch-2024/07-Kapitel_7-Schätze.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "07-Kapitel_7-Schätze"
+            }
+          },
+          {
+            "id": "bd9c16d58e4e6e19",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "bd4b3748fe0ac76a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f06dd5bffeaae7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "D&D/99-Setup/Sammlungen/Templates/DND Formatierung.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "DND Formatierung"
+            }
+          },
+          {
+            "id": "19676ba984d23a6d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "33cb45b5a0b3d8de",
+    "type": "split",
+    "children": [
+      {
+        "id": "c59541440ec57c80",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "87ad6a12a39faf42",
+            "type": "leaf",
+            "state": {
+              "type": "notebook-navigator",
+              "state": {},
+              "icon": "notebook-navigator",
+              "title": "Notebook Navigator"
+            }
+          },
+          {
+            "id": "bbde43a004a9e37f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "D&D/01-Spielleiter/00-DM Screen/DM Kanban Side.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "DM Kanban Side"
+            }
+          },
+          {
+            "id": "cd9aae2731784c87",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 377.5
+  },
+  "right": {
+    "id": "776d1eb368848153",
+    "type": "split",
+    "children": [
+      {
+        "id": "77b680136264d53e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3baa46e675fddf0d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "D&D/02-Spieler/Charakter/Barde/Fayn UI TOOLKIT.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Fayn UI TOOLKIT"
+            }
+          },
+          {
+            "id": "f8d17c58fe821fc7",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "84e3d81f0da46451",
+            "type": "leaf",
+            "state": {
+              "type": "sync",
+              "state": {},
+              "icon": "refresh-ccw",
+              "title": "Sync changes"
+            }
+          },
+          {
+            "id": "4052bdece15d3ce5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "bae382de6e992797",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
+            }
+          },
+          {
+            "id": "d5c302e3d3609bb0",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "publish:Publish changes...": false,
+      "bases:Create new base": false,
+      "obsidian-kanban:Create new board": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "notebook-navigator:Notebook Navigator": false
+    }
+  },
+  "active": "87ad6a12a39faf42",
+  "lastOpenFiles": [
+    "D&D/Gegenstände/ioun-stone-mastery-dmg.md",
+    "D&D/Gegenstände/ioun-stone-protection-dmg.md",
+    "D&D/Gegenstände/ioun-stone-regeneration-dmg.md",
+    "D&D/Gegenstände/ioun-stone-dmg.md",
+    "D&D/Gegenstände/ioun-stone-reserve-dmg.md",
+    "D&D/Gegenstände/ioun-stone-strength-dmg.md",
+    "D&D/Gegenstände/ioun-stone-sustenance-dmg.md",
+    "D&D/Gegenstände/iron-spikes-10-phb.md",
+    "D&D/Gegenstände/iron-dmg.md",
+    "D&D/Gegenstände/iron-bands-of-bilarro-dmg.md",
+    "D&D/Gegenstände/iron-flask-dmg.md",
+    "D&D/Gegenstände/iron-pot-phb.md",
+    "D&D/Gegenstände/iron-spike-phb.md",
+    "D&D/Gegenstände/Jade-dmg.md",
+    "D&D/Gegenstände/jeweled-anklet-dmg.md",
+    "D&D/Gegenstände/javelin-of-lightning-dmg.md",
+    "D&D/Gegenstände/Jaspis-dmg.md",
+    "D&D/Bestiarium/Schleim/Ockergallerte-mm.md",
+    "D&D/Bestiarium/Untot/Skelett-mm.md",
+    "D&D/Bestiarium/Monstrosität/Grick-mm.md",
+    "D&D/Bestiarium/Untot/Ghul-mm.md",
+    "D&D/Bestiarium/Tier/Blutmücke-mm.md",
+    "D&D/Gegenstände/Tagesration-xphb.md",
+    "D&D/Gegenstände/Tagesration-phb.md",
+    "D&D/Bücher/Monsterhandbuch-2025/2-monsters-a-to-z.md",
+    "D&D/Bücher/Spielleiterhandbuch-2024/07-Kapitel_7-Schätze.md",
+    "01-Spielleiter",
+    "D&D/02-Spieler/Gruppe/odjn87_135749343.pdf",
+    "Tabellen",
+    "D&D/Bücher/Spielleiterhandbuch-2014/Spielleiterhandbuch.pdf",
+    "D&D/Bücher/Spielleiterhandbuch-2014/03 Spielleiterhandbuch.pdf",
+    "D&D/Bücher/Mordenkainens_Foliant_der_Feinde/Mordenkainens Foliant der Feinde.pdf",
+    "D&D/Bücher/Mordenkainen_präsentiert-Monster_des_Multiversums/Monster des Multiversums.pdf",
+    "D&D/Bücher/Van_Richtens_Ratgeber_zu_Ravenloft/Van Richtens Ratgeber zu Ravenloft.pdf",
+    "D&D/Bücher/Volos_Almanach_der_Monster/Volos Almanach der Monster.pdf",
+    "D&D/Bücher/Fizbans_Schatzkammer_der_Drachen/Fizbans Schatzkammer der Drachen.pdf",
+    "D&D/Bücher/Spielleiterhandbuch-2024/img/071-map-5-01-city-of-greyhawk-player.webp",
+    "D&D/Bücher/Spielleiterhandbuch-2024/img/070-map-5-01-city-of-greyhawk.webp",
+    "D&D/Bücher/Spielleiterhandbuch-2024/img/078-map-5-03-flanaess.webp",
+    "D&D/Bücher/Spielleiterhandbuch-2024/img/079-map-5-03-flanaess-player.webp",
+    "D&D/Bücher/Spielleiterhandbuch-2024/img/216-map-12-03-crossroads-village.webp",
+    "D&D/Bücher/Spielleiterhandbuch-2024/img/221-map-12-06-farmstead.webp",
+    "D&D/Bücher/explorers-guide-to-wildemount/img/900.webp",
+    "D&D/Bücher/explorers-guide-to-wildemount/img/002-00-poster-map-9000.webp",
+    "D&D/Bücher/Spielleiterhandbuch-2024/img/215-map-12-02-caravan-encampment.webp",
+    "D&D/Bücher/Spielleiterhandbuch-2024/img/222-map-12-07-keep.webp"
+  ]
+}

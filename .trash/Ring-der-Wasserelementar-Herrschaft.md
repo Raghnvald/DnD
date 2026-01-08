@@ -1,0 +1,30 @@
+---
+cssclasses: json5e-item
+tags:
+  - Quelle/5e/dmg
+  - Gegenstand/Einstimmung
+  - Gegenstand/Seltenheit/legendär
+  - Gegenstand/Tier/major
+  - Gegenstand/wundersam/Ring
+aliases:
+  - Ring of Water Elemental Command
+---
+# Ring of Water Elemental Command
+*Ring, major, legendary (requires attunement)*  
+
+- **Properties**: Requires Attunement
+- **Cost**: ⏤
+- **Weight**: ⏤
+
+While wearing this ring, you have advantage on attack rolls against elementals from the Elemental Plane of Water and they have disadvantage on attack rolls against you. In addition, you have access to properties based on the Elemental Plane of Water.
+
+The ring has 5 charges. It regains `1d4 + 1` expended charges daily at dawn. Spells cast from the ring have a save DC of 17.
+
+You can expend 2 of the ring's charges to cast [dominate monster](Monster-beherrschen.md) on a [water elemental](D&D/05%20-%20Wikipedia/Bestiarium/W-X/Wasserelementar.md). In addition, you can stand on and walk across liquid surfaces as if they were solid ground. You can also speak and understand Aquan.
+
+If you help slay a [water elemental](D&D/05%20-%20Wikipedia/Bestiarium/W-X/Wasserelementar.md) while attuned to the ring, you gain access to the following additional properties:
+
+- You can breathe underwater and have a swimming speed equal to your walking speed.  
+- You can cast the following spells from the ring, expending the necessary number of charges: [create or destroy water](Wasser-erschaffen-oder-zerstören.md) (1 charge), [control water](Wasser-kontrollieren.md) (3 charges), [ice storm](Eissturm.md) (2 charges), or [wall of ice](Eiswand.md) (3 charges).  
+
+*Source: SRD / Basic Rules*

@@ -1,0 +1,10 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "RK": "text",
+    "Habitat": "multitext",
+    "HG": "number"
+  }
+}

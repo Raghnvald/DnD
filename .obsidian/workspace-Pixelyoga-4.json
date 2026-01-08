@@ -1,0 +1,246 @@
+{
+  "main": {
+    "id": "11e92574fdf9fa31",
+    "type": "split",
+    "children": [
+      {
+        "id": "36d8b475d08e2e55",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1e60c241bcb066d7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "72ecd52345d7dee5",
+    "type": "split",
+    "children": [
+      {
+        "id": "bddbc580e8adfe58",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c6f2accabb99434",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "73835794b7f03e73",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ea9da87bf804f4bc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 256.5
+  },
+  "right": {
+    "id": "9a52ecf028577bce",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e86149440378227",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "05e4a832b5cbcc3b",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "a7c47a9d348e7ecb",
+            "type": "leaf",
+            "state": {
+              "type": "rpg-manager-options",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "c3d39da8bed7b4b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dcf389ce3b181f3a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5cf445886b7ef112",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "69b762321910f11c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9c815c77b2d4d02f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "5f58491ec95f079a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "c51484d5b8dffd98",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 350.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "rpg-manager:RPG Manager": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": true,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "1c6f2accabb99434",
+  "lastOpenFiles": [
+    "Dungeons & Dragons/Wikipedia der Vergessenen Reiche/Kompendium/Bestiarium/Bestien/black-bear.md",
+    "Dungeons & Dragons/Wikipedia der Vergessenen Reiche/Kompendium/Bestiarium/Bestien/blood-hawk.md",
+    "Dungeons & Dragons/Wikipedia der Vergessenen Reiche/Kompendium/Bestiarium/Drachen/black-dragon-wyrmling.md",
+    "Dungeons & Dragons/Wikipedia der Vergessenen Reiche/Kompendium/Bestiarium/Drachen/blue-dragon-wyrmling.md",
+    "Dungeons & Dragons/Wikipedia der Vergessenen Reiche/Kompendium/Bestiarium/Drachen/green-dragon-wyrmling.md",
+    "Dungeons & Dragons/Wikipedia der Vergessenen Reiche/Kompendium/Bestiarium/Drachen/red-dragon-wyrmling.md",
+    "Dungeons & Dragons/Wikipedia der Vergessenen Reiche/Kompendium/Bestiarium/Drachen/white-dragon-wyrmling.md",
+    "Dungeons & Dragons/RPG Master - Tierschutzverein/07. City/Niewinter.md",
+    "Dungeons & Dragons/Wikipedia der Vergessenen Reiche/Kompendium/Bestiarium/Celestial/deva-Pixelyoga.md",
+    "Dungeons & Dragons/Wikipedia der Vergessenen Reiche/Kompendium/Bestiarium/Celestial/planetar-Pixelyoga.md",
+    "Dungeons & Dragons/Wikipedia der Vergessenen Reiche/Kompendium/Bestiarium/Bestien/brown-bear.md",
+    "Dungeons & Dragons/Wikipedia der Vergessenen Reiche/Kompendium/Bestiarium/Bestien/constrictor-snake.md",
+    "Dungeons & Dragons/Wikipedia der Vergessenen Reiche/Kompendium/Bestiarium/Bestien/crocodile.md",
+    "Dungeons & Dragons/Wikipedia der Vergessenen Reiche/Kompendium/Bestiarium/Bestien/dire-wolf.md",
+    "Dungeons & Dragons/Wikipedia der Vergessenen Reiche/Kompendium/Bestiarium/Bestien/draft-horse.md",
+    "Dungeons & Dragons/Wikipedia der Vergessenen Reiche/Kompendium/Bestiarium/Bestien/elephant.md",
+    "Dungeons & Dragons/Wikipedia der Vergessenen Reiche/Kompendium/Bestiarium/Bestien/flying-snake.md",
+    "Dungeons & Dragons/Wikipedia der Vergessenen Reiche/Kompendium/Bestiarium/Bestien/giant-badger.md",
+    "Dungeons & Dragons/Wikipedia der Vergessenen Reiche/Kompendium/Bestiarium/Bestien/giant-bat.md",
+    "Dungeons & Dragons/Wikipedia der Vergessenen Reiche/Kompendium/Bestiarium/Bestien/giant-ape.md",
+    "Dungeons & Dragons/Wikipedia der Vergessenen Reiche/Kompendium/Bestiarium/Bestien/giant-boar.md",
+    "Dungeons & Dragons/Wikipedia der Vergessenen Reiche/Kompendium/Bestiarium/Bestien/giant-centipede.md",
+    "Dungeons & Dragons/Wikipedia der Vergessenen Reiche/Kompendium/Bestiarium/Bestien/giant-constrictor-snake.md",
+    "Dungeons & Dragons/Wikipedia der Vergessenen Reiche/Kompendium/Bestiarium/Bestien/giant-crab.md",
+    "Dungeons & Dragons/Wikipedia der Vergessenen Reiche/Kompendium/Bestiarium/Bestien/giant-eagle.md",
+    "Dungeons & Dragons/Wikipedia der Vergessenen Reiche/Kompendium/Bestiarium/Bestien/giant-fire-beetle.md",
+    "Dungeons & Dragons/Wikipedia der Vergessenen Reiche/compendium/bestiary/humanoid/token/veteran.png",
+    "Dungeons & Dragons/Archiv/Kampagne - Name offen-Pixelyoga/Encounter",
+    "Dungeons & Dragons/Archiv/Kampagne - Name offen-Pixelyoga/Die verlorene Mine von Phandelver",
+    "Dungeons & Dragons/Archiv/Kampagne - Name offen-Pixelyoga/Die Handlung",
+    "Dungeons & Dragons/Archiv/Kampagne - Name offen-Pixelyoga",
+    "Dungeons & Dragons/Wikipedia der Vergessenen Reiche/Kompendium/Bestiarium/Pflanzen/token/violet-fungus.png",
+    "Dungeons & Dragons/Wikipedia der Vergessenen Reiche/Kompendium/Bestiarium/Pflanzen/token/treant.png",
+    "Dungeons & Dragons/Wikipedia der Vergessenen Reiche/Kompendium/Bestiarium/Pflanzen/token/shrieker.png",
+    "Dungeons & Dragons/Wikipedia der Vergessenen Reiche/Kompendium/Bestiarium/Pflanzen/token/shambling-mound.png",
+    "Dungeons & Dragons/Wikipedia der Vergessenen Reiche/Kompendium/Bestiarium/Pflanzen/token/awakened-tree.png",
+    "Dungeons & Dragons/Wikipedia der Vergessenen Reiche/Kompendium/Bestiarium/Pflanzen/token/awakened-shrub.png",
+    "Dungeons & Dragons/Wikipedia der Vergessenen Reiche/Kompendium/Bestiarium/Pflanzen/token",
+    "Dungeons & Dragons/Wikipedia der Vergessenen Reiche/Kompendium/Bestiarium/Pflanzen",
+    "Dungeons & Dragons/Wikipedia der Vergessenen Reiche/Kompendium/Bestiarium/Riesen/token/troll.png",
+    "Dungeons & Dragons/Wikipedia der Vergessenen Reiche/Kompendium/Bestiarium/Riesen/token/storm-giant.png",
+    "Dungeons & Dragons/Wikipedia der Vergessenen Reiche/Kompendium/Bestiarium/Riesen/token/stone-giant.png",
+    "Dungeons & Dragons/Wikipedia der Vergessenen Reiche/Kompendium/Bestiarium/Riesen/token",
+    "Dungeons & Dragons/Wikipedia der Vergessenen Reiche/Kompendium/Bestiarium/Riesen",
+    "Dungeons & Dragons/Wikipedia der Vergessenen Reiche/Kompendium/Bestiarium/Elementare/token",
+    "Dungeons & Dragons/Wikipedia der Vergessenen Reiche/Kompendium/Bestiarium/Elementare",
+    "Untitled.canvas",
+    "Das Schwarze Auge/Charaktere/Xarox, Sohn des Fargul/Untitled.canvas",
+    "Characters/Diero Falone/Canvas - Diero Falone.canvas",
+    "Diero Falone/Canvas - Diero Falone.canvas",
+    "Das Schwarze Auge/Diero Falone/Canvas - Diero Falone.canvas"
+  ]
+}

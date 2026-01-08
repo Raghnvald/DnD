@@ -1,0 +1,41 @@
+---
+obsidianUIMode: preview
+cssclasses:
+- json5e-note
+- json5e-index
+---
+# Index of Celestial
+
+- [Animal Lord; Forager](./animal-lord-forager-xmm.md)
+- [Animal Lord; Hunter](./animal-lord-hunter-xmm.md)
+- [Animal Lord; Sage](./animal-lord-sage-xmm.md)
+- [Animal Lord](./animal-lord-xmm.md)
+- [Archon of the Triumvirate](./archon-of-the-triumvirate-ggr.md)
+- [Battleforce Angel](./battleforce-angel-ggr.md)
+- [Celestial Spirit (Avenger)](./celestial-spirit-avenger-xphb.md)
+- [Celestial Spirit (Defender)](./celestial-spirit-defender-xphb.md)
+- [Celestial Spirit](./celestial-spirit-xphb.md)
+- [Champion of Ravens](./champion-of-ravens-tdcsr.md)
+- [Couatl](./couatl-xmm.md)
+- [Deathpact Angel](./deathpact-angel-ggr.md)
+- [Deva](./deva-xmm.md)
+- [Felidar](./felidar-ggr.md)
+- [Fensir Devourer](./fensir-devourer-bgg.md)
+- [Firemane Angel](./firemane-angel-ggr.md)
+- [Giant Eagle](./giant-eagle-xmm.md)
+- [Giant Elk](./giant-elk-xmm.md)
+- [Giant Owl](./giant-owl-xmm.md)
+- [Goat-Knight Steed](./goat-knight-steed-tdcsr.md)
+- [Guardian Naga](./guardian-naga-xmm.md)
+- [Hollyphant](./hollyphant-bgdia.md)
+- [Ki-rin](./ki-rin-mpmm.md)
+- [Otherworldly Steed (Celestial)](./otherworldly-steed-celestial-xphb.md)
+- [Pegasus](./pegasus-xmm.md)
+- [Planetar](./planetar-xmm.md)
+- [Solar](./solar-xmm.md)
+- [Sphinx of Lore](./sphinx-of-lore-xmm.md)
+- [Sphinx of Secrets](./sphinx-of-secrets-xmm.md)
+- [Sphinx of Valor](./sphinx-of-valor-xmm.md)
+- [Sphinx of Wonder](./sphinx-of-wonder-xmm.md)
+- [Unicorn](./unicorn-xmm.md)
+- [Winged Felidar](./winged-felidar-ggr.md)

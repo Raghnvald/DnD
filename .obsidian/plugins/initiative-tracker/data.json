@@ -1,0 +1,392 @@
+{
+  "players": [
+    {
+      "note": "Astor",
+      "path": "D&D/02-Spieler/Gruppe/Astor.md",
+      "name": "Astor \"Doodle\" Dash",
+      "ac": 19,
+      "hp": 73,
+      "level": 10,
+      "modifier": 2,
+      "player": true
+    },
+    {
+      "note": "Gwyn",
+      "path": "D&D/02-Spieler/Gruppe/Gwyn.md",
+      "name": "Gwyn",
+      "ac": 16,
+      "hp": 67,
+      "level": 10,
+      "modifier": 5,
+      "player": true
+    },
+    {
+      "note": "Lucan",
+      "path": "D&D/02-Spieler/Gruppe/Lucan.md",
+      "name": "Lucan Leuchtmoos",
+      "ac": 19,
+      "hp": 69,
+      "level": 10,
+      "modifier": 2,
+      "player": true
+    },
+    {
+      "note": "Mercy",
+      "path": "D&D/02-Spieler/Gruppe/Mercy.md",
+      "name": "Mercy",
+      "ac": "20",
+      "hp": 20,
+      "level": 4,
+      "modifier": 2,
+      "player": true
+    }
+  ],
+  "parties": [
+    {
+      "name": "Tierschutzverein Faerun",
+      "players": [
+        "Astor \"Doodle\" Dash",
+        "Gwyn",
+        "Lucan Leuchtmoos",
+        "Mercy"
+      ]
+    }
+  ],
+  "defaultParty": "Tierschutzverein Faerun",
+  "statuses": [
+    {
+      "name": "Betäubt",
+      "description": "Eine betäubte Kreatur ist #kampfunfähig, kann sich nicht bewegen und nur stockend sprechen. \nDie Kreatur scheitert bei Stärke- und Geschicklichkeitsrettungswürfen automatisch. \nAngriffswürfe gegen die Kreatur sind im Vorteil.",
+      "id": "ID_d829eb7b0b48"
+    },
+    {
+      "name": "Bewusstlos",
+      "description": "Eine bewusstlose Kreatur ist #kampfunfähig, kann sich nicht bewegen oder sprechen und ist sich ihrer Umgebung nicht bewusst. \nDie Kreatur lässt fallen, was auch immer sie hält, und erleidet den Zustand #liegend. \nDie Kreatur scheitert bei Stärke- und Geschicklichkeitsrettungswürfen automatisch. \nAngriffswürfe gegen die Kreatur sind im Vorteil. \nJeder Angriff, der die Kreatur trifft, ist ein kritischer Treffer, wenn sich der Angreifer im Abstand von bis zu 1,5 Metern um die Kreatur befindet.",
+      "id": "ID_3adb7859c9fb"
+    },
+    {
+      "name": "Bezaubert",
+      "description": "Eine bezauberte Kreatur kann den Zauberwirker nicht angreifen oder als Ziel für schädigende Fähigkeiten oder magische Effekte wählen. \nDer Zauberwirker ist bei Attributswürfen, die soziale Interaktionen mit der Kreatur betreffen, im Vorteil.",
+      "id": "ID_b9c8ca292979"
+    },
+    {
+      "name": "Blind",
+      "description": "Eine blinde Kreatur kann nicht sehen und scheitert automatisch bei jedem Attributswurf, der Sicht erfordert. \nAngriffswürfe gegen die Kreatur sind im Vorteil, die Angriffswürfe der Kreatur selbst im Nachteil",
+      "id": "ID_2988792978cb"
+    },
+    {
+      "name": "Festgesetzt",
+      "description": "Die Bewegungsrate einer festgesetzten Kreatur wird zu 0, und es kann kein Bonus auf die Bewegungsrate genutzt werden. \nAngriffswürfe gegen die Kreatur sind im Vorteil, die Angriffswürfe der Kreatur selbst im Nachteil. \nDie Kreatur ist bei Stärke- und Geschicklichkeitsrettungswürfen im Nachteil.",
+      "id": "ID_88bb9828589b"
+    },
+    {
+      "name": "Gelähmt",
+      "description": "Eine gelähmte Kreatur ist kampfunfähig (siehe entsprechenden Zustand) und kann weder sich bewegen noch sprechen. \nDie Kreatur scheitert bei Stärke- und Geschicklichkeitsrettungswürfen automatisch. \nAngriffswürfe gegen die Kreatur sind im Vorteil. \nJeder Angriff, der die Kreatur trifft, ist ein kritischer Treffer, wenn sich der Angreifer im Abstand von bis zu 1,5 Metern um die Kreatur befindet.",
+      "id": "ID_3989c83baa88"
+    },
+    {
+      "name": "Gepackt",
+      "description": "Die Bewegungsrate einer gepackten Kreatur wird zu 0, und es kann kein Bonus auf die Bewegungsrate genutzt werden. \nDer Zustand endet, wenn die packende Kreatur #kampfunfähig ist. \nDer Zustand endet auch, wenn ein Effekt die gepackte Kreatur aus der Reichweite der packenden Kreatur oder ihres packenden Effekts entfernt, etwa der Zauber Donnerwoge.",
+      "id": "ID_68594be83adb"
+    },
+    {
+      "name": "Kampfunfähig",
+      "description": "Eine kampfunfähige Kreatur kann weder Aktionen noch Reaktionen ausführen.",
+      "id": "ID_188b2b5a1ac9"
+    },
+    {
+      "name": "Liegend",
+      "description": "Eine liegende Kreatur kann als einzige Bewegung kriechen, es sei denn, sie steht auf und beendet dadurch den Zustand. \nDie Kreatur ist bei Angriffswürfen im Nachteil. \nJeder Angriffswurf gegen die Kreatur ist im Vorteil, wenn der Angreifer sich im Abstand von bis zu 1,5 Metern um die Kreatur befindet. Anderenfalls ist der Angriffswurf im Nachteil.",
+      "id": "ID_c829682b7b39"
+    },
+    {
+      "name": "Taub",
+      "description": "Eine taube Kreatur kann nichts hören und scheitert automatisch bei jedem Attributswurf, der Hören erfordert.",
+      "id": "ID_9ac86a890939"
+    },
+    {
+      "name": "Unsichtbar",
+      "description": "Eine unsichtbare Kreatur kann nicht ohne die Hilfe von Magie oder besonderen Sinnen gesehen werden. Um sich zu verstecken, wird die Kreatur komplett verschleiert. Die Position der Kreatur kann aus Geräuschen, die sie macht, oder Spuren, die sie hinterlässt, abgeleitet werden. \nAngriffswürfe gegen die Kreatur sind im Nachteil, die Angriffswürfe der Kreatur selbst im Vorteil.",
+      "id": "ID_39eb99897a68"
+    },
+    {
+      "name": "Verängstigt",
+      "description": "Eine verängstigte Kreatur ist bei Attributswürfen und Angriffswürfen im Nachteil, solange sich die Quelle ihrer Furcht in Sichtlinie befindet. \nDie Kreatur kann sich nicht willentlich auf die Quelle ihrer Furcht zubewegen.",
+      "id": "ID_3afa2b2aa8c9"
+    },
+    {
+      "name": "Vergiftet",
+      "description": "Eine vergiftete Kreatur ist bei Angriffs- und Attributswürfen im Nachteil.",
+      "id": "ID_5a09dba87bba"
+    },
+    {
+      "name": "Versteinert",
+      "description": "Eine versteinerte Kreatur wird zusammen mit nichtmagischer Ausrüstung, die sie trägt, in eine feste, unbewegliche Substanz verwandelt (normalerweise Stein). Ihr Gewicht steigt um den Faktor zehn und sie hört auf zu altern. \nDie Kreatur ist #kampfunfähig, kann sich nicht bewegen oder sprechen und ist sich ihrer Umgebung nicht bewusst. \nAngriffswürfe gegen die Kreatur sind im Vorteil. \nDie Kreatur scheitert automatisch bei Rettungswürfen auf Stärke und Geschicklichkeit. \nDie Kreatur ist gegen alle Schadensarten resistent. \nDie Kreatur ist gegen Gift und Krankheiten immun. Gifte und Krankheiten, die sich bereits in ihrem Körper befinden, werden jedoch nur pausiert, nicht neutralisiert.",
+      "id": "ID_192b5b0a1aba"
+    }
+  ],
+  "unconsciousId": "ID_3adb7859c9fb",
+  "version": [
+    13,
+    0,
+    18
+  ],
+  "canUseDiceRoll": false,
+  "preferStatblockLink": false,
+  "initiative": "1d20 + %mod%",
+  "modifier": null,
+  "sync": true,
+  "playerMarker": "default",
+  "monsterMarker": "default",
+  "state": {
+    "creatures": [
+      {
+        "name": "Gwyn",
+        "initiative": 0,
+        "static": false,
+        "modifier": 4,
+        "hp": 36,
+        "currentMaxHP": 36,
+        "ac": "16",
+        "currentAC": "16",
+        "note": null,
+        "path": null,
+        "id": "ID_d8582bd96838",
+        "currentHP": 36,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "level": 4,
+        "player": true,
+        "active": false,
+        "hidden": false,
+        "friendly": false
+      },
+      {
+        "name": "Lucan Leuchtmoos",
+        "initiative": 0,
+        "static": false,
+        "modifier": 1,
+        "hp": 32,
+        "currentMaxHP": 32,
+        "ac": "14",
+        "currentAC": "14",
+        "id": "ID_183b28c8a91a",
+        "currentHP": 32,
+        "tempHP": 19,
+        "status": [],
+        "enabled": true,
+        "level": 4,
+        "player": true,
+        "active": false,
+        "hidden": false,
+        "friendly": false
+      },
+      {
+        "name": "Astor \"Doodle\" Dash ",
+        "initiative": 0,
+        "static": false,
+        "modifier": 2,
+        "hp": 39,
+        "currentMaxHP": 39,
+        "ac": "14",
+        "currentAC": "14",
+        "id": "ID_08d8597808bb",
+        "currentHP": 39,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "level": 4,
+        "player": true,
+        "active": false,
+        "hidden": false,
+        "friendly": false
+      }
+    ],
+    "state": false,
+    "name": null,
+    "round": 1,
+    "logFile": "Dungeons & Dragons/Combat Logs/1736629208635 - S12a - Brunnen.md",
+    "rollHP": false
+  },
+  "condense": false,
+  "clamp": true,
+  "autoStatus": true,
+  "beginnerTips": true,
+  "displayDifficulty": true,
+  "encounters": {},
+  "warnedAboutImports": false,
+  "openState": {
+    "battle": true,
+    "party": true,
+    "status": true,
+    "plugin": true,
+    "player": true,
+    "builder": true
+  },
+  "hpOverflow": "ignore",
+  "additiveTemp": false,
+  "rpgSystem": "dnd5e",
+  "logging": true,
+  "logFolder": "Dungeons & Dragons/Combat Logs",
+  "resolveTies": "playerFirst",
+  "useLegacy": false,
+  "diplayPlayerHPValues": true,
+  "rollHP": true,
+  "descending": true,
+  "builder": {
+    "showParty": false,
+    "showXP": false,
+    "sidebarIcon": true,
+    "headers": [
+      {
+        "text": "CR",
+        "field": "cr",
+        "type": 1
+      },
+      {
+        "text": "Type",
+        "field": "type",
+        "type": 0
+      },
+      {
+        "text": "Size",
+        "field": "size",
+        "type": 0
+      },
+      {
+        "text": "Alignment",
+        "field": "alignment",
+        "type": 0
+      }
+    ],
+    "filters": {
+      "filters": [
+        {
+          "type": 0,
+          "text": "CR",
+          "fields": [
+            "cr"
+          ],
+          "options": [
+            0,
+            30
+          ],
+          "id": "ID_DEFAULT_CR_FILTER",
+          "derive": true
+        },
+        {
+          "type": 2,
+          "text": "Size",
+          "fields": [
+            "size"
+          ],
+          "options": [
+            "large",
+            "medium",
+            "huge",
+            "gargantuan",
+            "small",
+            "tiny"
+          ],
+          "id": "ID_DEFAULT_SIZE_FILTER",
+          "derive": true
+        },
+        {
+          "type": 2,
+          "text": "Type",
+          "fields": [
+            "type"
+          ],
+          "options": [
+            "aberration",
+            "humanoid",
+            "dragon",
+            "undead",
+            "elemental",
+            "monstrosity",
+            "construct",
+            "beast",
+            "plant",
+            "fiend",
+            "ooze",
+            "fey",
+            "giant",
+            "celestial",
+            "swarm of tiny beasts"
+          ],
+          "id": "ID_DEFAULT_TYPE_FILTER",
+          "derive": true
+        },
+        {
+          "type": 2,
+          "text": "Alignment",
+          "fields": [
+            "alignment"
+          ],
+          "options": [
+            "lawful evil",
+            "any alignment",
+            "chaotic evil",
+            "chaotic good",
+            "lawful good",
+            "neutral",
+            "lawful neutral",
+            "unaligned",
+            "any non-good alignment",
+            "any non-lawful alignment",
+            "neutral evil",
+            "any chaotic alignment",
+            "neutral good",
+            "chaotic neutral",
+            "neutral good (50%) or neutral evil (50%)",
+            "any evil alignment"
+          ],
+          "id": "ID_DEFAULT_ALIGNMENT_FILTER",
+          "derive": true
+        },
+        {
+          "type": 1,
+          "text": "Name",
+          "fields": [
+            "name"
+          ],
+          "options": [],
+          "id": "ID_DEFAULT_NAME_FILTER",
+          "derive": false
+        }
+      ],
+      "layout": [
+        {
+          "nested": [
+            {
+              "id": "ID_DEFAULT_CR_FILTER",
+              "type": "filter"
+            }
+          ],
+          "id": "ID_DEFAULT_NESTED_CR",
+          "type": "nested"
+        },
+        {
+          "id": "ID_DEFAULT_NESTED_LAYOUT",
+          "type": "nested",
+          "nested": [
+            {
+              "id": "ID_DEFAULT_SIZE_FILTER",
+              "type": "filter"
+            },
+            {
+              "id": "ID_DEFAULT_TYPE_FILTER",
+              "type": "filter"
+            },
+            {
+              "id": "ID_DEFAULT_ALIGNMENT_FILTER",
+              "type": "filter"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "rollPlayerInitiatives": 2
+}
