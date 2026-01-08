@@ -1,0 +1,21 @@
+---
+cssclasses:
+  - json5e-item
+Bezeichnung: Candle
+tags:
+  - Gegenstand/Ausrüstung/
+  - Gegenstand/Seltenheit/keine
+  - Quelle/5e/xphb
+aliases:
+  - Candle
+linter-yaml-title-alias: Candle
+obsidianUIMode: preview
+---
+# Candle
+*Adventuring gear*  
+
+- **Cost**: 1 cp
+
+For 1 hour, a lit Candle sheds [Bright Light](/3-Mechanics/CLI/variant-rules/bright-light-xphb.md) in a 5-foot radius and [Dim Light](/3-Mechanics/CLI/variant-rules/dim-light-xphb.md) for an additional 5 feet.
+
+*Source: Player's Handbook (2024) p. 224. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

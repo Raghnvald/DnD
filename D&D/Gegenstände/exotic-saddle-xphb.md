@@ -1,0 +1,22 @@
+---
+cssclasses:
+  - json5e-item
+Bezeichnung: Exotic Saddle
+tags:
+  - Gegenstand/Ausrüstung/tack-and-harness
+  - Gegenstand/Seltenheit/keine
+  - Quelle/5e/xphb
+aliases:
+  - Exotic Saddle
+linter-yaml-title-alias: Exotic Saddle
+obsidianUIMode: preview
+---
+# Exotic Saddle
+*Tack and harness*  
+
+- **Cost**: 60 gp
+- **Weight**: 40.0 lbs.
+
+A saddle comes with a bit, a bridle, reins, and any other equipment needed to use the saddle. An Exotic Saddle is required for riding an aquatic or a flying mount.
+
+*Source: Player's Handbook (2024) p. 230. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

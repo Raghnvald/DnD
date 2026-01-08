@@ -1,0 +1,25 @@
+---
+cssclasses: json5e-item
+Bezeichnung: Schale der Wasserelementar-Herrschaft
+tags:
+  - Gegenstand/Seltenheit/selten
+  - Gegenstand/wundersam
+  - Quelle/5e/dmg
+aliases:
+  - Schale der Wasserelementar-Herrschaft
+  - Bowl of Commanding Water Elementals
+linter-yaml-title-alias: Schale der Wasserelementar-Herrschaft
+---
+# Schale der Wasserelementar-Herrschaft
+*Wundersamer Gegenstand, selten*  
+
+- **Kosten**: ⏤
+- **Gewicht**: 1,5 kg.
+
+Wenn diese Schale mit Wasser gefüllt ist, kannst du als Aktion das Befehlswort für die Schale aussprechen und einen [Wasserelementar](D&D/05%20-%20Wikipedia/Bestiarium/W-X/Wasserelementar.md) beschwören, als hättest du den Zauber [Elementar_beschwören](Elementar_beschwören.md) gewirkt. 
+
+Die Schale kann erst im nächsten Morgengrauen wieder auf diese Weise verwendet werden.
+
+Die Schale misst ungefähr 30 Zentimeter im Durchmesser und ist halb so tief. Sie wiegt 1,5 Kilogramm und fasst etwa 12 Liter.
+
+*Quelle: SRD / Grundregelwerk*

@@ -1,0 +1,43 @@
+{
+	"nodes":[
+		{"id":"60329513019b27f7","x":-480,"y":-340,"width":320,"height":100,"type":"text","text":"### Schwester Garaele's Aufgabe"},
+		{"id":"7111e810e8860f5f","x":-480,"y":60,"width":320,"height":100,"type":"text","text":"## Conyberry"},
+		{"id":"e9e7b07e3e533734","x":-480,"y":260,"width":320,"height":100,"type":"text","text":"### Agatha, die Todesfee"},
+		{"id":"63eb269e40e2a35f","type":"text","text":"## Phandalin","x":-60,"y":-540,"width":320,"height":100},
+		{"id":"1fcddf2b6a462c3d","x":-60,"y":-340,"width":320,"height":100,"type":"text","text":"### Triboar-Pfad"},
+		{"id":"f94eb64bd5ab25e4","x":360,"y":60,"width":320,"height":100,"type":"text","text":"## Ruinen von Thundertree"},
+		{"id":"dc3fbe4880230d50","x":360,"y":-340,"width":320,"height":100,"type":"text","text":"### Mirna Dendrar"},
+		{"id":"3f8e525af018541b","x":-60,"y":260,"width":320,"height":100,"type":"text","text":"### Hamun Kost"},
+		{"id":"8a0135ff7085e995","x":-60,"y":460,"width":320,"height":100,"type":"text","text":"## Wyvern Tor"},
+		{"id":"3f76b2a8eb3cf93e","x":780,"y":60,"width":320,"height":100,"type":"text","text":"### [[Reidoth die Druidin]]"},
+		{"id":"90a5083ff4469862","x":360,"y":260,"width":320,"height":100,"type":"text","text":"### Venomfang"},
+		{"id":"831807455ea50696","x":780,"y":-140,"width":320,"height":100,"type":"text","text":"#### Smaragd-Enklave\n\nMöglichkeit zum Beitritt der Spieler"},
+		{"id":"3f5c59cba768b549","x":780,"y":260,"width":320,"height":100,"type":"text","text":"### Drachenkultisten"},
+		{"id":"0b7fcb8e1dd6c78b","x":-60,"y":-140,"width":320,"height":100,"type":"text","text":"### Daran Edermath' Aufgabe"},
+		{"id":"fc79dda223b93cc8","type":"text","text":"## Alter Eulenbrunnen","x":-60,"y":60,"width":320,"height":100},
+		{"id":"1efa386a80c5b678","x":-60,"y":660,"width":320,"height":100,"type":"text","text":"## Burg Cragmaw"},
+		{"id":"246092d3fb8a7a7d","x":-900,"y":-40,"width":320,"height":100,"type":"text","text":"### Harbin Westers Aufgabe"}
+	],
+	"edges":[
+		{"id":"c1604b0ecd5c3528","fromNode":"63eb269e40e2a35f","fromSide":"left","toNode":"60329513019b27f7","toSide":"right"},
+		{"id":"f88dfcdabf1a9951","fromNode":"60329513019b27f7","fromSide":"bottom","toNode":"7111e810e8860f5f","toSide":"top"},
+		{"id":"254a667f255f2853","fromNode":"63eb269e40e2a35f","fromSide":"bottom","toNode":"1fcddf2b6a462c3d","toSide":"top"},
+		{"id":"ac9c922283e76749","fromNode":"1fcddf2b6a462c3d","fromSide":"left","toNode":"7111e810e8860f5f","toSide":"top"},
+		{"id":"ad250faf833bf228","fromNode":"1fcddf2b6a462c3d","fromSide":"right","toNode":"f94eb64bd5ab25e4","toSide":"top"},
+		{"id":"2b9f92131c9ff854","fromNode":"7111e810e8860f5f","fromSide":"bottom","toNode":"e9e7b07e3e533734","toSide":"top"},
+		{"id":"c675d87182050547","fromNode":"63eb269e40e2a35f","fromSide":"right","toNode":"dc3fbe4880230d50","toSide":"left"},
+		{"id":"c328468d86f09353","fromNode":"dc3fbe4880230d50","fromSide":"bottom","toNode":"f94eb64bd5ab25e4","toSide":"top"},
+		{"id":"ea6b7343d11c3111","fromNode":"1fcddf2b6a462c3d","fromSide":"bottom","toNode":"0b7fcb8e1dd6c78b","toSide":"top"},
+		{"id":"5b6da36c4e5db27e","fromNode":"0b7fcb8e1dd6c78b","fromSide":"bottom","toNode":"fc79dda223b93cc8","toSide":"top"},
+		{"id":"f339f567c5b0f1b5","fromNode":"3f8e525af018541b","fromSide":"left","toNode":"e9e7b07e3e533734","toSide":"right","fromEnd":"arrow"},
+		{"id":"289c65e0e471554f","fromNode":"3f8e525af018541b","fromSide":"bottom","toNode":"8a0135ff7085e995","toSide":"top"},
+		{"id":"5a25311780ed7082","fromNode":"fc79dda223b93cc8","fromSide":"bottom","toNode":"3f8e525af018541b","toSide":"top"},
+		{"id":"8515aeda93bc623a","fromNode":"f94eb64bd5ab25e4","fromSide":"right","toNode":"3f76b2a8eb3cf93e","toSide":"left"},
+		{"id":"5f84cff443a06527","fromNode":"3f76b2a8eb3cf93e","fromSide":"top","toNode":"831807455ea50696","toSide":"bottom"},
+		{"id":"314d8a2b9e4c09bd","fromNode":"f94eb64bd5ab25e4","fromSide":"bottom","toNode":"90a5083ff4469862","toSide":"top"},
+		{"id":"ac6f21a28160b6e6","fromNode":"f94eb64bd5ab25e4","fromSide":"right","toNode":"3f5c59cba768b549","toSide":"left"},
+		{"id":"517fa88d3c65204c","fromNode":"3f5c59cba768b549","fromSide":"left","toNode":"90a5083ff4469862","toSide":"right"},
+		{"id":"a02816424dbabdcd","fromNode":"246092d3fb8a7a7d","fromSide":"bottom","toNode":"8a0135ff7085e995","toSide":"left"},
+		{"id":"68938d701ee4cc1f","fromNode":"63eb269e40e2a35f","fromSide":"left","toNode":"246092d3fb8a7a7d","toSide":"top"}
+	]
+}

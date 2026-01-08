@@ -1,0 +1,42 @@
+---
+cssclasses:
+  - json5e-spell
+Bezeichnung: Tree Stride
+Zaubergrad: 5
+tags:
+  - Klasse/Barde/Magische-Geheimnisse
+  - Klasse/Druide
+  - Klasse/Druide/circle-of-the-land/forest
+  - Klasse/Kleriker/nature-domain
+  - Klasse/Paladin/Schwur-der-Alten
+  - Klasse/Waldläufer
+  - Quelle/5e/phb
+  - Zauber/Grad/5
+  - Zauber/Schule/Beschwörung
+classes:
+  - Bard (Magical Secrets)
+  - Cleric (Nature Domain)
+  - Druid
+  - Druid (Circle of the Land, Forest)
+  - Paladin (Oath of the Ancients)
+  - Ranger
+aliases:
+  - Tree Stride
+linter-yaml-title-alias: Tree Stride
+obsidianUIMode: preview
+---
+# Tree Stride
+*5th-level, Conjuration*  
+
+- **Casting time:** 1 Action
+- **Range:** Self
+- **Components:** V, S
+- **Duration:** Concentration, up to 1 minute
+
+You gain the ability to enter a tree and move from inside it to inside another tree of the same kind within 500 feet. Both trees must be living and at least the same size as you. You must use 5 feet of movement to enter a tree. You instantly know the location of all other trees of the same kind within 500 feet and, as part of the move used to enter the tree, can either pass into one of those trees or step out of the tree you're in. You appear in a spot of your choice within 5 feet of the destination tree, using another 5 feet of movement. If you have no movement left, you appear within 5 feet of the tree you entered.
+
+You can use this transportation ability once per round for the duration. You must end each turn outside a tree.
+
+**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Nature Domain)](/3-Mechanics/CLI/lists/list-spells-classes-nature-domain.md); [Druid (Circle of the Land, Forest)](/3-Mechanics/CLI/lists/list-spells-classes-circle-of-the-land.md); [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Paladin (Oath of the Ancients)](/3-Mechanics/CLI/lists/list-spells-classes-oath-of-the-ancients.md); [Ranger](/3-Mechanics/CLI/lists/list-spells-classes-ranger.md)
+
+*Source: Player's Handbook p. 283. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

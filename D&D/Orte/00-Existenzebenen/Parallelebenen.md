@@ -1,0 +1,3 @@
+Die Parallelebenen sind das Abbild (oder das Echo) der materielle Ebene bzw. der Welt. In der Weltenachsen Kosmologie gibt es zum einem die Feenwildnis und zum anderem den Schattensaum. Zu beiden Welten gibt es konkrete Verbindungen und Portale von und zu Toril und Abeir. Die Parallelebenen oder auch Parallelwelten bilden zusammen mit der Primärebene die sogenannte "Weltenachse" die das gleichnamige kosmologische Modell bezeichnet.
+
+In der Weltenbaum Kosmologie hat man die koexistenten Ebenen, die Astralebene, Ätherische Ebene und die Schattenebene auch als Parallelebenen bezeichnet.

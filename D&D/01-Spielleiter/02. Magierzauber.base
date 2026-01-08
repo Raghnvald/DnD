@@ -1,0 +1,258 @@
+views:
+  - type: table
+    name: Magierzauber
+    filters:
+      and:
+        - file.tags.contains("Klasse/Magier")
+        - file.folder == "D&D/Zauber"
+    groupBy:
+      property: Zaubergrad
+      direction: ASC
+    order:
+      - file.name
+      - Zeitaufwand
+      - Reichweite
+      - Komponenten
+      - Wirkungsdauer
+      - Angriff
+      - Schaden
+      - status
+    sort:
+      - property: Bezeichnung
+        direction: ASC
+    columnSize:
+      file.name: 200
+      note.Reichweite: 100
+      note.Komponenten: 100
+      note.Wirkungsdauer: 150
+      note.Angriff: 75
+      note.Schaden: 150
+  - type: table
+    name: Magierzaubertricks
+    filters:
+      and:
+        - file.tags.contains("Klasse/Magier")
+        - file.tags.contains("Zauber/Grad/0")
+    groupBy:
+      property: Zaubergrad
+      direction: ASC
+    order:
+      - file.name
+      - Zeitaufwand
+      - Reichweite
+      - Komponenten
+      - Wirkungsdauer
+      - Angriff
+      - Schaden
+      - status
+    columnSize:
+      file.name: 200
+      note.Reichweite: 100
+      note.Komponenten: 100
+      note.Wirkungsdauer: 150
+      note.Angriff: 75
+      note.Schaden: 150
+  - type: table
+    name: Magierzauber Grad 1
+    filters:
+      and:
+        - file.tags.contains("Klasse/Magier")
+        - file.tags.contains("Zauber/Grad/1")
+    groupBy:
+      property: Zaubergrad
+      direction: ASC
+    order:
+      - file.name
+      - Zeitaufwand
+      - Reichweite
+      - Komponenten
+      - Wirkungsdauer
+      - Angriff
+      - Schaden
+      - status
+    columnSize:
+      file.name: 200
+      note.Reichweite: 100
+      note.Komponenten: 100
+      note.Wirkungsdauer: 150
+      note.Angriff: 75
+      note.Schaden: 150
+  - type: table
+    name: Magierzauber Grad 2
+    filters:
+      and:
+        - file.tags.contains("Klasse/Magier")
+        - file.tags.contains("Zauber/Grad/2")
+    order:
+      - file.name
+      - Zeitaufwand
+      - Reichweite
+      - Komponenten
+      - Wirkungsdauer
+      - Angriff
+      - Schaden
+      - status
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      file.name: 200
+      note.Reichweite: 100
+      note.Komponenten: 100
+      note.Wirkungsdauer: 150
+      note.Angriff: 75
+      note.Schaden: 150
+  - type: table
+    name: Magierzauber Grad 3
+    filters:
+      and:
+        - file.tags.contains("Klasse/Magier")
+        - file.tags.contains("Zauber/Grad/3")
+    order:
+      - file.name
+      - Zeitaufwand
+      - Reichweite
+      - Komponenten
+      - Wirkungsdauer
+      - Angriff
+      - Schaden
+      - status
+    columnSize:
+      file.name: 200
+      note.Reichweite: 100
+      note.Komponenten: 100
+      note.Wirkungsdauer: 150
+      note.Angriff: 75
+      note.Schaden: 150
+  - type: table
+    name: Magierzauber Grad 4
+    filters:
+      and:
+        - file.tags.contains("Klasse/Magier")
+        - file.tags.contains("Zauber/Grad/4")
+    order:
+      - file.name
+      - Zeitaufwand
+      - Reichweite
+      - Komponenten
+      - Wirkungsdauer
+      - Angriff
+      - Schaden
+      - status
+    columnSize:
+      file.name: 200
+      note.Reichweite: 100
+      note.Komponenten: 100
+      note.Wirkungsdauer: 150
+      note.Angriff: 75
+      note.Schaden: 150
+  - type: table
+    name: Magierzauber Grad 5
+    filters:
+      and:
+        - file.tags.contains("Klasse/Magier")
+        - file.tags.contains("Zauber/Grad/5")
+    order:
+      - file.name
+      - Zeitaufwand
+      - Reichweite
+      - Komponenten
+      - Wirkungsdauer
+      - Angriff
+      - Schaden
+      - status
+    columnSize:
+      file.name: 200
+      note.Reichweite: 100
+      note.Komponenten: 100
+      note.Wirkungsdauer: 150
+      note.Angriff: 75
+      note.Schaden: 150
+  - type: table
+    name: Magierzauber Grad 6
+    filters:
+      and:
+        - file.tags.contains("Klasse/Magier")
+        - file.tags.contains("Zauber/Grad/6")
+    order:
+      - file.name
+      - Zeitaufwand
+      - Reichweite
+      - Komponenten
+      - Wirkungsdauer
+      - Angriff
+      - Schaden
+      - status
+    columnSize:
+      file.name: 200
+      note.Reichweite: 100
+      note.Komponenten: 100
+      note.Wirkungsdauer: 150
+      note.Angriff: 75
+      note.Schaden: 150
+  - type: table
+    name: Magierzauber Grad 7
+    filters:
+      and:
+        - file.tags.contains("Klasse/Magier")
+        - file.tags.contains("Zauber/Grad/7")
+    order:
+      - file.name
+      - Zeitaufwand
+      - Reichweite
+      - Komponenten
+      - Wirkungsdauer
+      - Angriff
+      - Schaden
+      - status
+    columnSize:
+      file.name: 200
+      note.Reichweite: 100
+      note.Komponenten: 100
+      note.Wirkungsdauer: 150
+      note.Angriff: 75
+      note.Schaden: 150
+  - type: table
+    name: Magierzauber Grad 8
+    filters:
+      and:
+        - file.tags.contains("Klasse/Magier")
+        - file.tags.contains("Zauber/Grad/8")
+    order:
+      - file.name
+      - Zeitaufwand
+      - Reichweite
+      - Komponenten
+      - Wirkungsdauer
+      - Angriff
+      - Schaden
+      - status
+    columnSize:
+      file.name: 200
+      note.Reichweite: 100
+      note.Komponenten: 100
+      note.Wirkungsdauer: 150
+      note.Angriff: 75
+      note.Schaden: 150
+  - type: table
+    name: Magierzauber Grad 9
+    filters:
+      and:
+        - file.tags.contains("Klasse/Magier")
+        - file.tags.contains("Zauber/Grad/9")
+    order:
+      - file.name
+      - Zeitaufwand
+      - Reichweite
+      - Komponenten
+      - Wirkungsdauer
+      - Angriff
+      - Schaden
+      - status
+    columnSize:
+      file.name: 200
+      note.Reichweite: 100
+      note.Komponenten: 100
+      note.Wirkungsdauer: 150
+      note.Angriff: 75
+      note.Schaden: 150

@@ -1,0 +1,17 @@
+---
+cssclasses: json5e-item
+Bezeichnung: Kletterhaken
+tags:
+  - Gegenstand/Ausrüstung
+  - Quelle/5e/phb
+aliases:
+  - Piton
+---
+# Kletterhaken
+![](../../../99%20-%20Setup/Files/Bildersammlung/Symbolik/Gegenstände.webp#token)
+*Abenteuerausrüstung, gewöhnlich*
+
+- **Kosten**: 5 Kupfermünzen
+- **Gewicht**: 0,125 kg.
+
+*Quelle: SRD / Grundregelwerk*

@@ -1,0 +1,21 @@
+---
+cssclasses:
+  - json5e-item
+Bezeichnung: Onyx
+tags:
+  - Gegenstand/Ausrüstung/treasure-gemstone
+  - Gegenstand/Seltenheit/keine
+  - Quelle/5e/xdmg
+aliases:
+  - Onyx
+linter-yaml-title-alias: Onyx
+obsidianUIMode: preview
+---
+# Onyx
+*Treasure (gemstone)*  
+
+- **Cost**: 50 gp
+
+A bands of black and white, or pure black or white gemstone.
+
+*Source: Dungeon Master's Guide (2024) p. 214*

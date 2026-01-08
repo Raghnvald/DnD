@@ -1,0 +1,22 @@
+---
+cssclasses:
+  - json5e-item
+Bezeichnung: Grenade Launcher
+tags:
+  - Gegenstand/Ausrüstung/
+  - Gegenstand/Seltenheit/keine
+  - Gegenstand/Zeitalter/Modern
+  - Quelle/5e/xdmg
+aliases:
+  - Grenade Launcher
+linter-yaml-title-alias: Grenade Launcher
+obsidianUIMode: preview
+---
+# Grenade Launcher
+*Adventuring gear*  
+
+- **Weight**: 7.0 lbs.
+
+As an action, you can either throw a grenade at a point up to 60 feet away or use a Grenade Launcher to propel the grenade to a point up to 1,000 feet away. The grenade explodes at that point, creating a particular effect in a 20-foot-radius [Sphere](/3-Mechanics/CLI/variant-rules/sphere-area-of-effect-xphb.md).
+
+*Source: Dungeon Master's Guide (2024) p. 73*

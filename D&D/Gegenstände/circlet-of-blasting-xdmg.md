@@ -1,0 +1,20 @@
+---
+cssclasses:
+  - json5e-item
+Bezeichnung: Circlet of Blasting
+tags:
+  - Gegenstand/Seltenheit/ungewöhnlich
+  - Quelle/5e/xdmg
+aliases:
+  - Circlet of Blasting
+  - "Circlet of Blasting"
+linter-yaml-title-alias: Circlet of Blasting
+obsidianUIMode: preview
+---
+# Circlet of Blasting
+*Wondrous item, uncommon*  
+![](/3-Mechanics/CLI/items/img/circlet-of-blasting.webp#right)
+
+While wearing this circlet, you can cast [Scorching Ray](/3-Mechanics/CLI/spells/scorching-ray-xphb.md) with it (`+5` to hit). The circlet can't cast this spell again until the next dawn.
+
+*Source: Dungeon Master's Guide (2024) p. 244. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

@@ -1,0 +1,24 @@
+---
+cssclasses:
+  - json5e-item
+Bezeichnung: Dagger
+tags:
+  - Gegenstand/Seltenheit/keine
+  - Gegenstand/Waffe/Einfach
+  - Gegenstand/Waffe/Nahkampf
+  - Quelle/5e/xphb
+aliases:
+  - Dagger
+linter-yaml-title-alias: Dagger
+---
+# Dagger
+*Weapon*  
+![](/3-Mechanics/CLI/items/img/dagger.webp#right)
+
+- **Damage**: 1d4 piercing
+- **Range**: 20/60
+- **Properties**: [Finesse](/3-Mechanics/CLI/item-properties.md#Finesse), [Light](/3-Mechanics/CLI/item-properties.md#Light), [Thrown](/3-Mechanics/CLI/item-properties.md#Thrown)
+- **Cost**: 2 gp
+- **Weight**: 1.0 lbs.
+
+*Source: Player's Handbook (2024) p. 215. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

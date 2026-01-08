@@ -1,0 +1,24 @@
+---
+cssclasses:
+  - json5e-item
+Bezeichnung: Orb of Direction
+tags:
+  - Gegenstand/Seltenheit/gewöhnlich
+  - Quelle/5e/xdmg
+aliases:
+  - Orb of Direction
+  - "Orb of Direction"
+linter-yaml-title-alias: Orb of Direction
+obsidianUIMode: preview
+---
+# Orb of Direction
+*Wondrous item, common*  
+![](/3-Mechanics/CLI/items/img/orb-of-direction.webp#right)
+
+- **Weight**: 3.0 lbs.
+
+This orb can be used as an Arcane Focus.
+
+While holding this orb, you can take a [Magic](/3-Mechanics/CLI/actions.md#Magic) action to determine which way is magnetic north. Nothing happens if the orb is used in a location that has no magnetic north.
+
+*Source: Dungeon Master's Guide (2024) p. 283*

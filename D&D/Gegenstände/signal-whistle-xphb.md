@@ -1,0 +1,21 @@
+---
+cssclasses:
+  - json5e-item
+Bezeichnung: Signal Whistle
+tags:
+  - Gegenstand/Ausrüstung/
+  - Gegenstand/Seltenheit/keine
+  - Quelle/5e/xphb
+aliases:
+  - Signal Whistle
+linter-yaml-title-alias: Signal Whistle
+obsidianUIMode: preview
+---
+# Signal Whistle
+*Adventuring gear*  
+
+- **Cost**: 5 cp
+
+When blown as a [Utilize](/3-Mechanics/CLI/actions.md#Utilize) action, a Signal Whistle produces a sound that can be heard up to 600 feet away.
+
+*Source: Player's Handbook (2024) p. 228. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

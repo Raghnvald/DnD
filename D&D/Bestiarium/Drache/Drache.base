@@ -1,0 +1,15 @@
+model:
+  version: 1
+  kind: Table
+  columns: []
+pluginVersion: 1.0.0
+views:
+  - type: cards
+    name: Drachen
+    filters:
+      and:
+        - file.folder == "D&D/Bestiarium/Drache"
+        - file.ext == "md"
+    cardSize: 130
+    imageFit: contain
+    image: note.Image

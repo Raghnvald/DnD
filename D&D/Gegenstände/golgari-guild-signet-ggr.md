@@ -1,0 +1,23 @@
+---
+cssclasses:
+  - json5e-item
+Bezeichnung: Golgari Guild Signet
+tags:
+  - Gegenstand/Einstimmung/required
+  - Gegenstand/Seltenheit/ungewöhnlich
+  - Gegenstand/wundersam/Ring
+  - Quelle/5e/ggr
+aliases:
+  - Golgari Guild Signet
+linter-yaml-title-alias: Golgari Guild Signet
+obsidianUIMode: preview
+---
+# Golgari Guild Signet
+*Ring, uncommon (requires attunement)*  
+![](/3-Mechanics/CLI/items/img/golgari-guild-signet.webp#right)
+
+This ring, adorned with the symbol of Golgari, allows you to cast entangle. A guild signet is sometimes awarded to a guild member whose renown score in that guild is 5 or higher, as a reward for performing special services for the guild. Aside from its magical properties, the ring is also an indicator of Golgari's recognition and favor.
+
+A signet has 3 charges, and it regains `1d3` expended charges daily at dawn. While wearing it, you can expend 1 charge to cast the associated spell (save DC 13).
+
+*Source: Guildmasters' Guide to Ravnica p. 178*

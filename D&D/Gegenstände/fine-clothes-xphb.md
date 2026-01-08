@@ -1,0 +1,22 @@
+---
+cssclasses:
+  - json5e-item
+Bezeichnung: Fine Clothes
+tags:
+  - Gegenstand/Ausrüstung/
+  - Gegenstand/Seltenheit/keine
+  - Quelle/5e/xphb
+aliases:
+  - Fine Clothes
+linter-yaml-title-alias: Fine Clothes
+obsidianUIMode: preview
+---
+# Fine Clothes
+*Adventuring gear*  
+
+- **Cost**: 15 gp
+- **Weight**: 6.0 lbs.
+
+Fine Clothes are made of expensive fabrics and adorned with expertly crafted details. Some events and locations admit only people wearing these clothes.
+
+*Source: Player's Handbook (2024) p. 225. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

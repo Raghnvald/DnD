@@ -1,0 +1,101 @@
+model:
+  version: 1
+  kind: Table
+  columns: []
+pluginVersion: 1.0.0
+filters:
+  and:
+    - file.folder == "D&D/Zauber"
+    - '!file.fullname.contains("-xphb")'
+views:
+  - type: table
+    name: Alle Zauber - phb
+    filters:
+      and:
+        - file.folder == "D&D/Zauber"
+    groupBy:
+      property: Zaubergrad
+      direction: ASC
+    order:
+      - file.name
+      - Zeitaufwand
+      - Reichweite
+      - Komponenten
+      - Wirkungsdauer
+      - Schaden
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Barde
+    filters:
+      and:
+        - file.tags.contains("Klasse/Barde")
+    groupBy:
+      property: Zaubergrad
+      direction: ASC
+    order:
+      - file.name
+      - Zeitaufwand
+      - Reichweite
+      - Komponenten
+      - Wirkungsdauer
+    sort:
+      - property: Bezeichnung
+        direction: ASC
+  - type: table
+    name: Druide
+    groupBy:
+      property: Zaubergrad
+      direction: ASC
+    sort:
+      - property: Bezeichnung
+        direction: ASC
+  - type: table
+    name: Hexenmeister
+    groupBy:
+      property: Zaubergrad
+      direction: ASC
+    sort:
+      - property: Bezeichnung
+        direction: ASC
+  - type: table
+    name: Kleriker
+    groupBy:
+      property: Zaubergrad
+      direction: ASC
+    sort:
+      - property: Bezeichnung
+        direction: ASC
+  - type: table
+    name: Magier
+    groupBy:
+      property: Zaubergrad
+      direction: ASC
+    sort:
+      - property: Bezeichnung
+        direction: ASC
+  - type: table
+    name: Paladin
+    groupBy:
+      property: Zaubergrad
+      direction: ASC
+    sort:
+      - property: Bezeichnung
+        direction: ASC
+  - type: table
+    name: Waldläufer
+    groupBy:
+      property: Zaubergrad
+      direction: ASC
+    sort:
+      - property: Bezeichnung
+        direction: ASC
+  - type: table
+    name: Zauberer
+    groupBy:
+      property: Zaubergrad
+      direction: ASC
+    sort:
+      - property: Bezeichnung
+        direction: ASC

@@ -1,0 +1,50 @@
+---
+Bezeichnung: Zielsicherer Schlag
+Zaubergrad: 0 (Zaubertrick)
+Zeitaufwand: 1 Aktion
+Reichweite: 9 Meter
+Komponenten: G
+Wirkungsdauer: K, <1 Runde
+Angriff: nichts
+Schaden: Voraussicht
+tags:
+  - Klasse/Barde/Magische-Geheimnisse
+  - Klasse/Hexenmeister
+  - Klasse/Magier
+  - Klasse/Schurke/Arkaner-Betrüger
+  - Klasse/Zauberer
+  - Kompendium/Talent/magic-initiate/wizard-spells
+  - Quelle/5e/phb
+  - Subklasse/Mystischer-Ritter
+  - Subrasse/elf-high
+  - Zauber/Grad/0
+  - Zauber/optfeature/pact-of-the-tome
+  - Zauber/Schule/Erkenntnis
+classes:
+  - Bard (Magical Secrets)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Warlock
+  - Wizard
+aliases:
+  - Zielsicherer Schlag
+linter-yaml-title-alias: Zielsicherer Schlag
+---
+# Zielsicherer Schlag
+_Zaubertrick der Erkenntnismagie_
+
+- **Zeitaufwand:** 1 Aktion
+- **Reichweite/Fläche:** 9 Meter
+- **Komponenten:** G
+- **Wirkungsdauer:** Konzentration, bis zu 1 Runde
+
+Du streckst deine Hand aus und deutest mit dem Finger auf ein Ziel in Reichweite. Deine Magie gewährt dir einen kurzen Einblick in die Verteidigung des Ziels. In deinem nächsten Zug bist du bei deinem ersten Angriffswurf gegen das Ziel im Vorteil, sofern dieser Zauber noch aktiv ist.
+
+---
+
+You extend your hand and point a finger at a target in range. Your magic grants you a brief insight into the target's defenses. On your next turn, you gain advantage on your first attack roll against the target, provided that this spell hasn't ended.
+
+**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Fighter (Eldritch Knight)](/3-Mechanics/CLI/lists/list-spells-classes-eldritch-knight.md); [Rogue (Arcane Trickster)](/3-Mechanics/CLI/lists/list-spells-classes-arcane-trickster.md); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Warlock](/3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+
+*Source: Player's Handbook p. 284. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

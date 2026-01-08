@@ -1,0 +1,28 @@
+---
+cssclasses:
+  - json5e-item
+Bezeichnung: Scroll of Protection
+tags:
+  - Gegenstand/Seltenheit/selten
+  - Gegenstand/wundersam/Schriftrolle
+  - Quelle/5e/dmg
+aliases:
+  - Scroll of Protection
+linter-yaml-title-alias: Scroll of Protection
+obsidianUIMode: preview
+---
+# Scroll of Protection
+*Scroll, minor, rare*  
+
+**Items in this group:**
+
+- [Scroll of Protection from Aberrations](/3-Mechanics/CLI/items/scroll-of-protection-from-aberrations.md)
+- [Scroll of Protection from Beasts](/3-Mechanics/CLI/items/scroll-of-protection-from-beasts.md)
+- [Scroll of Protection from Celestials](/3-Mechanics/CLI/items/scroll-of-protection-from-celestials.md)
+- [Scroll of Protection from Elementals](/3-Mechanics/CLI/items/scroll-of-protection-from-elementals.md)
+- [Scroll of Protection from Fey](/3-Mechanics/CLI/items/scroll-of-protection-from-fey.md)
+- [Scroll of Protection from Fiends](/3-Mechanics/CLI/items/scroll-of-protection-from-fiends.md)
+- [Scroll of Protection from Plants](/3-Mechanics/CLI/items/scroll-of-protection-from-plants.md)
+- [Scroll of Protection from Undead](/3-Mechanics/CLI/items/scroll-of-protection-from-undead.md)
+
+*Source: Dungeon Master's Guide p. 199*

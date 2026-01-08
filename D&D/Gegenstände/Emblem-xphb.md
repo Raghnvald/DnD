@@ -1,0 +1,21 @@
+---
+cssclasses:
+  - json5e-item
+Bezeichnung: Emblem
+tags:
+  - Gegenstand/Ausrüstung/spellcasting-focus
+  - Gegenstand/Seltenheit/keine
+  - Quelle/5e/xphb
+aliases:
+  - Emblem
+linter-yaml-title-alias: Emblem
+obsidianUIMode: preview
+---
+# Emblem
+*Spellcasting focus*  
+
+- **Cost**: 5 gp
+
+For an Emblem to be an effective Holy Symbol, it must be borne on fabric (such as a tabard or banner) or a [Shield](/3-Mechanics/CLI/items/shield-xphb.md).
+
+*Source: Player's Handbook (2024) p. 226. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

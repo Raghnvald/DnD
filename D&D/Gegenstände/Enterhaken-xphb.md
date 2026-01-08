@@ -1,0 +1,21 @@
+---
+cssclasses:
+  - json5e-item
+Bezeichnung: Grappling Hook
+tags:
+  - Gegenstand/Ausrüstung/
+  - Gegenstand/Seltenheit/keine
+  - Quelle/5e/xphb
+aliases:
+  - Grappling Hook
+linter-yaml-title-alias: Grappling Hook
+---
+# Grappling Hook
+*Adventuring gear*  
+
+- **Cost**: 2 gp
+- **Weight**: 4.0 lbs.
+
+As a [Utilize](/3-Mechanics/CLI/actions.md#Utilize) action, you can throw the Grappling Hook at a railing, a ledge, or another catch within 50 feet of yourself, and the hook catches on if you succeed on a DC 13 Dexterity ([Acrobatics](/3-Mechanics/CLI/skills.md#Acrobatics)) check. If you tied a Rope to the hook, you can then climb it.
+
+*Source: Player's Handbook (2024) p. 225. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

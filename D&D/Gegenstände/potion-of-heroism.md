@@ -1,0 +1,19 @@
+---
+cssclasses:
+  - json5e-item
+Bezeichnung: Potion of Heroism
+tags:
+  - Gegenstand/Seltenheit/selten
+  - Gegenstand/wundersam/Trank
+  - Quelle/5e/dmg
+aliases:
+  - Potion of Heroism
+linter-yaml-title-alias: Potion of Heroism
+obsidianUIMode: preview
+---
+# Potion of Heroism
+*Potion, minor, rare*  
+
+For 1 hour after drinking it, you gain 10 temporary hit points that last for 1 hour. For the same duration, you are under the effect of the [bless](/3-Mechanics/CLI/spells/bless.md) spell (no [concentration](/3-Mechanics/CLI/conditions.md#Concentration) required). This blue potion bubbles and steams as if boiling.
+
+*Source: Dungeon Master's Guide p. 188. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

@@ -1,0 +1,21 @@
+---
+cssclasses:
+  - json5e-item
+Bezeichnung: Banded Agate
+tags:
+  - Gegenstand/Ausrüstung/treasure-gemstone
+  - Gegenstand/Seltenheit/keine
+  - Quelle/5e/xdmg
+aliases:
+  - Banded Agate
+linter-yaml-title-alias: Banded Agate
+obsidianUIMode: preview
+---
+# Banded Agate
+*Treasure (gemstone)*  
+
+- **Cost**: 10 gp
+
+A striped brown, blue, white, or red gemstone.
+
+*Source: Dungeon Master's Guide (2024) p. 214*

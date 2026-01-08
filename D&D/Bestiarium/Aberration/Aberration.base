@@ -1,0 +1,15 @@
+model:
+  version: 1
+  kind: Table
+  columns: []
+pluginVersion: 1.0.0
+views:
+  - type: cards
+    name: Aberrationen
+    filters:
+      and:
+        - file.folder == "D&D/Bestiarium/Aberration"
+        - file.ext == "md"
+    image: note.Image
+    imageFit: contain
+    cardSize: 130

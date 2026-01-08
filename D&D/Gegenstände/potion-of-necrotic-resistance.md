@@ -1,0 +1,17 @@
+---
+cssclasses:
+  - json5e-item
+Bezeichnung: Potion of Necrotic Resistance
+tags:
+  - Gegenstand/Seltenheit/ungewöhnlich
+  - Gegenstand/wundersam/Trank
+  - Quelle/5e/dmg
+aliases:
+  - Potion of Necrotic Resistance
+linter-yaml-title-alias: Potion of Necrotic Resistance
+obsidianUIMode: preview
+---
+# Potion of Necrotic Resistance
+*Potion, minor, uncommon*  
+
+*Source: Dungeon Master's Guide p. 188. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

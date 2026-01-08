@@ -1,0 +1,45 @@
+---
+Bezeichnung: Produce Flame
+Zaubergrad: 0 (Zaubertrick)
+Zeitaufwand:
+Reichweite:
+Komponenten:
+Wirkungsdauer:
+Angriff:
+tags:
+  - Klasse/Barde/Schule-des-Wissens
+  - Klasse/Druide
+  - Klasse/Kleriker/nature-domain
+  - Kompendium/Talent/druidic-warrior
+  - Kompendium/Talent/magic-initiate/druid-spells
+  - Kompendium/Talent/wood-elf-magic
+  - Quelle/5e/xphb
+  - Subrasse/genasi-fire
+  - Zauber/Grad/0
+  - Zauber/optfeature/pact-of-the-tome
+  - Zauber/Schule/Beschwörung
+classes:
+  - Bard (College of Lore)
+  - Cleric (Nature Domain)
+  - Druid
+aliases:
+  - Produce Flame
+linter-yaml-title-alias: Produce Flame
+---
+# Produce Flame
+*cantrip, Conjuration*  
+
+- **Casting time:** 1 Bonus Action
+- **Range:** Self
+- **Components:** V, S
+- **Duration:** 10 minutes
+
+A flickering flame appears in your hand and remains there for the duration. While there, the flame emits no heat and ignites nothing, and it sheds [Bright Light](/3-Mechanics/CLI/variant-rules/bright-light-xphb.md) in a 20-foot radius and [Dim Light](/3-Mechanics/CLI/variant-rules/dim-light-xphb.md) for an additional 20 feet. The spell ends if you cast it again.
+
+Until the spell ends, you can take a [Magic](/3-Mechanics/CLI/actions.md#Magic) action to hurl fire at a creature or an object within 60 feet of you. Make a ranged spell attack. On a hit, the target takes `1d8` Fire damage.
+
+**Cantrip Upgrade.** The damage increases by `1d8` when you reach levels 5 (`2d8`), 11 (`3d8`), and 17 (`4d8`).
+
+**Classes**: [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Cleric (Nature Domain)](/3-Mechanics/CLI/lists/list-spells-classes-nature-domain.md "class=XPHB"); [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md)
+
+*Source: Player's Handbook (2024) p. 308. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

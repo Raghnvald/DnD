@@ -1,0 +1,25 @@
+---
+cssclasses:
+  - json5e-item
+Bezeichnung: Potion of Water Breathing
+tags:
+  - Gegenstand/Seltenheit/ungewöhnlich
+  - Gegenstand/wundersam/Trank
+  - Quelle/5e/xdmg
+aliases:
+  - Potion of Water Breathing
+  - "Potion of Water Breathing"
+linter-yaml-title-alias: Potion of Water Breathing
+obsidianUIMode: preview
+---
+# Potion of Water Breathing
+*Potion, uncommon*  
+![](/3-Mechanics/CLI/items/img/potion-of-water-breathing.webp#right)
+
+- **Weight**: 0.5 lbs.
+
+You can breathe underwater for 24 hours after drinking this potion.
+
+This potion's cloudy green fluid smells of the sea and has a jellyfish-like bubble floating in it.
+
+*Source: Dungeon Master's Guide (2024) p. 289. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

@@ -1,0 +1,22 @@
+---
+cssclasses:
+  - json5e-item
+Bezeichnung: Purple Worm Poison
+tags:
+  - Gegenstand/Ausrüstung/
+  - Gegenstand/Seltenheit/keine
+  - Quelle/5e/xdmg
+aliases:
+  - Purple Worm Poison
+linter-yaml-title-alias: Purple Worm Poison
+obsidianUIMode: preview
+---
+# Purple Worm Poison
+*Adventuring gear, poison (injury)*  
+
+- **Properties**: [Poison](/3-Mechanics/CLI/item-properties.md#Poison)
+- **Cost**: 2,000 gp
+
+A creature subjected to Purple Worm Poison makes a DC 21 Constitution saving throw, taking 35 (`10d6`) Poison damage on a failed save or half as much damage on a successful one.
+
+*Source: Dungeon Master's Guide (2024) p. 91. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*

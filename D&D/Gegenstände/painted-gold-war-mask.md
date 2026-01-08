@@ -1,0 +1,19 @@
+---
+cssclasses:
+  - json5e-item
+Bezeichnung: Painted gold war mask
+tags:
+  - Gegenstand/Ausrüstung/treasure-art-object
+  - Gegenstand/Seltenheit/keine
+  - Quelle/5e/dmg
+aliases:
+  - Painted gold war mask
+linter-yaml-title-alias: Painted gold war mask
+obsidianUIMode: preview
+---
+# Painted gold war mask
+*Treasure (art object)*  
+
+- **Cost**: 750 gp
+
+*Source: Dungeon Master's Guide p. 135*

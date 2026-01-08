@@ -1,0 +1,22 @@
+---
+cssclasses:
+  - json5e-item
+Bezeichnung: "Priest's Pack"
+tags:
+  - Gegenstand/Ausrüstung/
+  - Gegenstand/Seltenheit/keine
+  - Quelle/5e/xphb
+aliases:
+  - "Priest's Pack"
+  - Priest's Pack
+linter-yaml-title-alias: "Priest's Pack"
+---
+# Priest's Pack
+*Adventuring gear*  
+
+- **Cost**: 33 gp
+- **Weight**: 29.0 lbs.
+
+A Priest's Pack contains the following items: [Backpack](/3-Mechanics/CLI/items/backpack-xphb.md), [Blanket](/3-Mechanics/CLI/items/blanket-xphb.md), [Holy Water](/3-Mechanics/CLI/items/holy-water-xphb.md), [Lamp](/3-Mechanics/CLI/items/lamp-xphb.md), 7 days of [Rations](/3-Mechanics/CLI/items/rations-xphb.md), [Robe](/3-Mechanics/CLI/items/robe-xphb.md), and [Tinderbox](/3-Mechanics/CLI/items/tinderbox-xphb.md).
+
+*Source: Player's Handbook (2024) p. 228. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

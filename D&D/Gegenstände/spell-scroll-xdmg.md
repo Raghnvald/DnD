@@ -1,0 +1,30 @@
+---
+cssclasses:
+  - json5e-item
+Bezeichnung: Spell Scroll
+tags:
+  - Gegenstand/Seltenheit/varies
+  - Gegenstand/wundersam/Schriftrolle
+  - Quelle/5e/xdmg
+aliases:
+  - Spell Scroll
+linter-yaml-title-alias: Spell Scroll
+---
+# Spell Scroll
+*Scroll*  
+![](/3-Mechanics/CLI/items/img/spell-scroll.webp#right)
+
+**Items in this group:**
+
+- [Spell Scroll (Cantrip)](/3-Mechanics/CLI/items/spell-scroll-cantrip-xdmg.md)
+- [Spell Scroll (Level 1)](/3-Mechanics/CLI/items/spell-scroll-level-1-xdmg.md)
+- [Spell Scroll (Level 2)](/3-Mechanics/CLI/items/spell-scroll-level-2-xdmg.md)
+- [Spell Scroll (Level 3)](/3-Mechanics/CLI/items/spell-scroll-level-3-xdmg.md)
+- [Spell Scroll (Level 4)](/3-Mechanics/CLI/items/spell-scroll-level-4-xdmg.md)
+- [Spell Scroll (Level 5)](/3-Mechanics/CLI/items/spell-scroll-level-5-xdmg.md)
+- [Spell Scroll (Level 6)](/3-Mechanics/CLI/items/spell-scroll-level-6-xdmg.md)
+- [Spell Scroll (Level 7)](/3-Mechanics/CLI/items/spell-scroll-level-7-xdmg.md)
+- [Spell Scroll (Level 8)](/3-Mechanics/CLI/items/spell-scroll-level-8-xdmg.md)
+- [Spell Scroll (Level 9)](/3-Mechanics/CLI/items/spell-scroll-level-9-xdmg.md)
+
+*Source: Dungeon Master's Guide (2024) p. 305. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

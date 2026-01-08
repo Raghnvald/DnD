@@ -1,0 +1,172 @@
+---
+tags: [Quelle/5e/dmg]
+kanban-plugin: board
+---
+
+## ![[AbilitiesTitleBar.webp]]
+
+- [ ] [[01. Grundregelwerk 2014/07-Attributswerte-verwenden#Stärke|Stärke]]
+- [ ] [[01. Grundregelwerk 2014/07-Attributswerte-verwenden#Geschicklichkeit|Geschicklichkeit]]
+- [ ] [[01. Grundregelwerk 2014/07-Attributswerte-verwenden#Konstitution|Konstitution]]
+- [ ] [[01. Grundregelwerk 2014/07-Attributswerte-verwenden#Intelligenz|Intelligenz]]
+- [ ] [[01. Grundregelwerk 2014/07-Attributswerte-verwenden#Weisheit|Weisheit]]
+- [ ] [[01. Grundregelwerk 2014/07-Attributswerte-verwenden#Charisma|Charisma]]
+
+
+## ![[SkillsTitleBar.webp]]
+
+- [ ] [[01. Grundregelwerk 2014/07-Attributswerte-verwenden##Akrobatik|Akrobatik]]
+- [ ] [[01. Grundregelwerk 2014/07-Attributswerte-verwenden#Arkane Kunde|Arkane Kunde]]
+- [ ] [[01. Grundregelwerk 2014/07-Attributswerte-verwenden#Athletik|Athletik]]
+- [ ] [[01. Grundregelwerk 2014/07-Attributswerte-verwenden#Auftreten|Auftreten]]
+- [ ] [[../../03 - Quellen/Quellbücher/01. Grundregelwerk 2014/07-Attributswerte-verwenden#Einschüchtern|Einschüchtern]]
+- [ ] [[01. Grundregelwerk 2014/07-Attributswerte-verwenden#Fingerfertigkeit|Fingerfertigkeit]]
+- [ ] [[../../03 - Quellen/Quellbücher/01. Grundregelwerk 2014/07-Attributswerte-verwenden#Geschichte|Geschichte / History]]
+- [ ] [[../../03 - Quellen/Quellbücher/01. Grundregelwerk 2014/07-Attributswerte-verwenden#Heilkunde|Heilkunde / Medicine]]
+- [ ] [[01. Grundregelwerk 2014/07-Attributswerte-verwenden#Heimlichkeit|Heimlichkeit]]
+- [ ] [[01. Grundregelwerk 2014/07-Attributswerte-verwenden#Mit Tieren umgehen|Mit Tieren umgehen]]
+- [ ] [[01. Grundregelwerk 2014/07-Attributswerte-verwenden#Motiv erkennen|Motiv erkennen]]
+- [ ] [[01. Grundregelwerk 2014/07-Attributswerte-verwenden#Nachforschungen|Nachforschungen]]
+- [ ] [[01. Grundregelwerk 2014/07-Attributswerte-verwenden#Naturkunde|Naturkunde]]
+- [ ] [[01. Grundregelwerk 2014/07-Attributswerte-verwenden#Religion|Religion]]
+- [ ] [[01. Grundregelwerk 2014/07-Attributswerte-verwenden#Täuschen|Täuschen]]
+- [ ] [[01. Grundregelwerk 2014/07-Attributswerte-verwenden#Überlebenskunst|Überlebenskunst]]
+- [ ] [[01. Grundregelwerk 2014/07-Attributswerte-verwenden#Überzeugen|Überzeugen]]
+- [ ] [[01. Grundregelwerk 2014/07-Attributswerte-verwenden#Wahrnehmung|Wahrnehmung]]
+
+
+## ![[CheckTitleBar.webp]]
+
+- [ ] [[01. Grundregelwerk 2014/07-Attributswerte-verwenden#Attributswürfe|Attributswürfe]]
+- [ ] [[01. Grundregelwerk 2014/07-Attributswerte-verwenden#Fertigkeiten|Fertigkeiten]]
+- [ ] [[01. Grundregelwerk 2014/07-Attributswerte-verwenden#Heben und Tragen|Heben und Tragen]]
+- [ ] [[01. Grundregelwerk 2014/08-Abenteuersuche#Lichtverhältnisse und Sicht|Lichtverhältnisse und Sicht]]
+- [ ] [[Magie entdecken|Magie entdecken]]
+- [ ] [[01. Grundregelwerk 2014/07-Attributswerte-verwenden#Passive Attributswürfe|Passive Attributswürfe]]
+- [ ] [[01. Grundregelwerk 2014/07-Attributswerte-verwenden#Übungsbonus|Übungsbonus]]
+- [ ] [[01. Grundregelwerk 2014/07-Attributswerte-verwenden#Vor- und Nachteil|Vor- und Nachteil]]
+- [ ] [[01. Grundregelwerk 2014/07-Attributswerte-verwenden#Wettstreit|Wettstreit]]
+
+
+## ![[ConditionsTitleBar.webp]]
+
+- [ ] [[01. Grundregelwerk 2014/Anhang PH-A#Betäubt|Betäubt]]
+- [ ] [[01. Grundregelwerk 2014/Anhang PH-A#Bewusstlos|Bewusstlos]]
+- [ ] [[01. Grundregelwerk 2014/Anhang PH-A#Bezaubert|Bezaubert]]
+- [ ] [[01. Grundregelwerk 2014/Anhang PH-A#Blind|Blind]]
+- [ ] [[01. Grundregelwerk 2014/Anhang PH-A#Erschöpfung|Erschöpfung]]
+- [ ] [[01. Grundregelwerk 2014/Anhang PH-A#Festgesetzt|Festgesetzt]]
+- [ ] [[01. Grundregelwerk 2014/Anhang PH-A#Gelähmt|Gelähmt]]
+- [ ] [[01. Grundregelwerk 2014/Anhang PH-A#Gepackt|Gepackt]]
+- [ ] [[01. Grundregelwerk 2014/Anhang PH-A#Kampfunfähig|Kampfunfähig]]
+- [ ] [[01. Grundregelwerk 2014/10-Zauberwirken#Konzentration|Konzentration]]
+- [ ] [[01. Grundregelwerk 2014/Anhang PH-A#Liegend|Liegend]]
+- [ ] [[01. Grundregelwerk 2014/Anhang PH-A#Taub|Taub]]
+- [ ] [[01. Grundregelwerk 2014/Anhang PH-A#Unsichtbar|Unsichtbar]]
+- [ ] [[01. Grundregelwerk 2014/Anhang PH-A#Verängstigt|Verängstigt]]
+- [ ] [[01. Grundregelwerk 2014/Anhang PH-A#Vergiftet|Vergiftet]]
+- [ ] [[01. Grundregelwerk 2014/Anhang PH-A#Versteinert|Versteinert]]
+
+
+## ![[CombatActionsTitleBar.webp]]
+
+- [ ] [[01. Grundregelwerk 2014/09-Kampf#Angriff|Angriff]]
+- [ ] [[01. Grundregelwerk 2014/09-Kampf#Ausweichen|Ausweichen]]
+- [ ] [[01. Grundregelwerk 2014/09-Kampf#Gegenstand verwenden|Gegenstand verwenden]]
+- [ ] [[01. Grundregelwerk 2014/09-Kampf#Helfen|Helfen]]
+- [ ] [[01. Grundregelwerk 2014/09-Kampf#Mit Gegenständen in der Nähe Interagieren|Mit einem Gegenstand Interagieren]]
+- [ ] [[01. Grundregelwerk 2014/09-Kampf#Modifikatoren für den Wurf|Modifikatoren für den Wurf]]
+- [ ] [[01. Grundregelwerk 2014/09-Kampf#Ringen|Einem Haltegriff entkommen]]
+- [ ] [[01. Grundregelwerk 2014/09-Kampf#Rückzug|Rückzug]]
+- [ ] [[01. Grundregelwerk 2014/09-Kampf#Spurt|Spurt]]
+- [ ] [[01. Grundregelwerk 2014/09-Kampf#Suchen|Suchen]]
+- [ ] [[01. Grundregelwerk 2014/09-Kampf#Verstecken|Verstecken]]
+- [ ] [[01. Grundregelwerk 2014/09-Kampf#Vorbereiten|Vorbereiten]]
+- [ ] [[01. Grundregelwerk 2014/09-Kampf#Zauber wirken|Zauber wirken]]
+- [ ] [[Aktionen-phb#Actions#Disarm|Disarm]]
+- [ ] [[Aktionen-phb#Actions#Mark|Mark]]
+- [ ] [[Aktionen-phb#Actions#Tumble|Tumble]]
+
+
+## ![[MiscCombatRulesTitleBar.webp]]
+
+- [ ] [[../../03 - Quellen/Quellbücher/01. Grundregelwerk 2014/09-Kampf#Berittener Kampf|Berittener Kampf]]
+- [ ] [[../../03 - Quellen/Quellbücher/01. Grundregelwerk 2014/09-Kampf#Deckung|Deckung]]
+- [ ] [[../../03 - Quellen/Quellbücher/01. Grundregelwerk 2014/09-Kampf#Fernkampfangriffe im Nahkampf|Fernkampfangriffe im Nahkampf]]
+- [ ] [[../../03 - Quellen/Quellbücher/01. Grundregelwerk 2014/05-Ausrüstung#Improvisierte Waffen|Improvisierte Waffen]]
+- [ ] [[../../03 - Quellen/Quellbücher/01. Grundregelwerk 2014/09-Kampf#Initiative|Initiative]]
+- [ ] [[../../03 - Quellen/Quellbücher/01. Grundregelwerk 2014/09-Kampf#Liegend|Liegend]]
+- [ ] [[../../03 - Quellen/Quellbücher/01. Grundregelwerk 2014/09-Kampf#Reaktionen|Reaktionen]]
+- [ ] [[../../03 - Quellen/Quellbücher/01. Grundregelwerk 2014/09-Kampf#Ringen|Ringen]]
+- [ ] [[../../03 - Quellen/Quellbücher/01. Grundregelwerk 2014/09-Kampf#Sich um andere Kreaturen herumbewegen|Sich um andere Kreaturen herumbewegen]]
+- [ ] [[../../03 - Quellen/Quellbücher/01. Grundregelwerk 2014/09-Kampf#Stoßen|Stoßen]]
+- [ ] [[../../03 - Quellen/Quellbücher/01. Grundregelwerk 2014/09-Kampf#Überraschung|Überraschung]]
+- [ ] [[../../03 - Quellen/Quellbücher/01. Grundregelwerk 2014/09-Kampf#Ungesehene Angreifer und Ziele|Ungesehene Angreifer und Ziele]]
+- [ ] [[../../03 - Quellen/Quellbücher/01. Grundregelwerk 2014/09-Kampf#Zwei-Waffen-Kampf|Zwei-Waffen-Kampf]]
+
+
+## ![[MovementTitleBar.webp]]
+
+- [ ] [[../../03 - Quellen/Quellbücher/01. Grundregelwerk 2014/09-Kampf#Bewegung und Positionierung|Bewegung und Positionierung]]
+- [ ] [[../../03 - Quellen/Quellbücher/01. Grundregelwerk 2014/09-Kampf#Schwieriges Gelände|Schwieriges Gelände]]
+- [ ] [[../../03 - Quellen/Quellbücher/01. Grundregelwerk 2014/08-Abenteuersuche#Movement#Travel Pace|Travel Pace]]
+- [ ] [[../../03 - Quellen/Quellbücher/01. Grundregelwerk 2014/08-Abenteuersuche#Movement#Forced March|Forced March]]
+- [ ] [[../../03 - Quellen/Quellbücher/01. Grundregelwerk 2014/08-Abenteuersuche#Movement#Mounts and Vehicles|Mounts and Vehicles]]
+- [ ] [[../../03 - Quellen/Quellbücher/01. Grundregelwerk 2014/08-Abenteuersuche#Movement#Special Types of Movement|Special Types of Movement]]
+- [ ] [[../../03 - Quellen/Quellbücher/01. Grundregelwerk 2014/08-Abenteuersuche#Movement#Climbing, Swimming, and Crawling|Climbing, Swimming, and Crawling]]
+- [ ] [[../../03 - Quellen/Quellbücher/01. Grundregelwerk 2014/08-Abenteuersuche#Movement#Jumping|Jumping]]
+- [ ] [[../../03 - Quellen/Quellbücher/01. Grundregelwerk 2014/08-Abenteuersuche#Movement#Activity While Traveling|Activity While Traveling]]
+
+
+## ![[RestTravelTitleBar.webp]]
+
+- [ ] [[../../03 - Quellen/Quellbücher/01. Grundregelwerk 2014/08-Abenteuersuche#Erholen|Erholen]]
+- [ ] [[../../03 - Quellen/Quellbücher/01. Grundregelwerk 2014/08-Abenteuersuche#Kurze Rast|Kurze Rast]]
+- [ ] [[../../03 - Quellen/Quellbücher/01. Grundregelwerk 2014/08-Abenteuersuche#Lange Rast|Lange Rast]]
+- [ ] [[../../03 - Quellen/Quellbücher/01. Grundregelwerk 2014/08-Abenteuersuche#Nahrung und Wasser|Nahrung und Wasser]]
+- [ ] [[../../03 - Quellen/Quellbücher/01. Grundregelwerk 2014/08-Abenteuersuche#Rasten|Rasten]]
+
+
+## ![[HealDeathDmgTitleBar.webp]]
+
+- [ ] [[01. Grundregelwerk 2014/09-Kampf#Auf 0 Trefferpunkte sinken#Das Bewusstsein verlieren|Das Bewusstsein verlieren]]
+- [ ] [[01. Grundregelwerk 2014/09-Kampf#Auf 0 Trefferpunkte sinken#Eine Kreatur stabilisieren|Eine Kreatur stabilisieren]]
+- [ ] [[../../03 - Quellen/Quellbücher/01. Grundregelwerk 2014/09-Kampf#Auf 0 Trefferpunkte sinken#Monster und der Tod|Monster und der Tod]]
+- [ ] [[01. Grundregelwerk 2014/09-Kampf#Auf 0 Trefferpunkte sinken#Sofortiger Tod|Sofortiger Tod]]
+- [ ] [[01. Grundregelwerk 2014/09-Kampf#Auf 0 Trefferpunkte sinken#Todesrettungswürfe|Todesrettungswürfe]]
+- [ ] [[01. Grundregelwerk 2014/09-Kampf#Schaden und Heilung#Heilung|Heilung]]
+
+
+## ![[WeaponsArmorItemsTitleBar.webp]]
+
+- [ ] [[00. Ausrüstung.base|Abenteuerausrüstung]]
+- [ ] [[01. Grundregelwerk 2014/14-Magische-Gegenstände#Einen Gegenstand aktivieren|Einen Gegenstand aktivieren]]
+- [ ] [[01. Grundregelwerk 2014/14-Magische-Gegenstände#Einstimmung|Einstimmung]]
+- [ ] [[00. Ausrüstung.base#Gifte|Gifte]]
+- [ ] [[00. Ausrüstung.base#Handelsgüter|Handelsgüter]]
+- [ ] [[00. Rüstungen.base|Rüstungen und Schilde]]
+- [ ] [[03. Spielleiterhandbuch 2024/07-Schätze#Seltenheit und Wert magischer Gegenstände|Seltenheit und Wert magischer Gegenstände]]
+- [ ] [[00. Waffen.base|Waffen]]
+- [ ] [[Tabellen/Zauberschriftrolle-Zauberschriftrolle|Zauberschriftrolle]]
+
+
+## ![[MagicTitleBar.webp]]
+
+- [ ] [[Magier-Schule-Bannmagie|Bannmagie]]
+- [ ] [[Magier-Schule-Beschwörung|Beschwörung]]
+- [ ] [[Magier-Schule-Erkenntnismagie|Erkenntnis]]
+- [ ] [[Magier-Schule-Hervorrufungsmagie|Hervorrufung]]
+- [ ] [[Magier-Schule-Illusion|Illusion]]
+- [ ] [[Magier-Schule-Nekromantie|Nekromantie]]
+- [ ] [[Magier-Schule-Verwandlung|Verwandlung]]
+- [ ] [[Magier-Schule-Verzauberung|Verzauberung]]
+- [ ] #Zauber/Schule/Verzauberung
+
+
+
+
+%% kanban:settings
+```
+{"kanban-plugin":"board","list-collapse":[false,null,null,false,null,null,null,null,null,null,null,false],"show-checkboxes":false,"hide-card-count":true,"show-archive-all":false,"show-view-as-markdown":false,"show-set-view":false,"show-add-list":false,"show-search":false}
+```
+%%

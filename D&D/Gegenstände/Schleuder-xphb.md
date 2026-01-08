@@ -1,0 +1,24 @@
+---
+cssclasses:
+  - json5e-item
+Bezeichnung: Sling
+tags:
+  - Gegenstand/Seltenheit/keine
+  - Gegenstand/Waffe/Einfach
+  - Gegenstand/Waffe/Fernkampf
+  - Quelle/5e/xphb
+aliases:
+  - Sling
+linter-yaml-title-alias: Sling
+obsidianUIMode: preview
+---
+# Sling
+*Weapon*  
+![](/3-Mechanics/CLI/items/img/sling.webp#right)
+
+- **Damage**: 1d4 bludgeoning
+- **Range**: 30/120
+- **Properties**: [Ammunition](/3-Mechanics/CLI/item-properties.md#Ammunition)
+- **Cost**: 1 sp
+
+*Source: Player's Handbook (2024) p. 215. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
