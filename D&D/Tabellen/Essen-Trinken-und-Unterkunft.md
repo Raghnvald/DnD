@@ -12,8 +12,8 @@ _Quellen:_ Spielerhandbuch
 | Name                                                | Kosten |
 | --------------------------------------------------- | ------:|
 | *Bier*                                              |        |
-| [[Bier-Fass\|Fass]]                                 |   2 SM |
-| [[Bier-Humpen\|Humpen]]                             |   4 KM |
+| [[Bier-Fass-phb\|Fass]]                                 |   2 SM |
+| [[Bier-Humpen-phb\|Humpen]]                             |   4 KM |
 | Bankett (pro Person)                                |  10 GM |
 | [[Brotlaib\|Brot, Laib]]                            |   2 KM |
 | [[Käselaib\|Käse, Stück]]                           |   1 SM |

@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Brazier of Commanding Fire Elementals
+Bezeichnung: Feuerschale der Feuerelementar-Herrschaft
 tags:
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/dmg
@@ -7,14 +7,12 @@ aliases:
   - Brazier of Commanding Fire Elementals
 linter-yaml-title-alias: Brazier of Commanding Fire Elementals
 ---
-# Brazier of Commanding Fire Elementals
-*Wondrous item, major, rare*  
-![](/3-Mechanics/CLI/items/img/brazier-of-commanding-fire-elementals.webp#right)
+# Feuerschale der Feuerelementar-Herrschaft
+*Wundersamer Gegenstand, rare*  
+![](Gegenstände/img/brazier-of-commanding-fire-elementals.webp#right)
 
-- **Weight**: 5.0 lbs.
+- **Gewicht**: 2,5 kg.
 
-While a fire burns in this brass brazier, you can use an action to speak the brazier's command word and summon a [fire elemental](/3-Mechanics/CLI/bestiary/elemental/fire-elemental.md), as if you had cast the [conjure elemental](/3-Mechanics/CLI/spells/conjure-elemental.md) spell. The brazier can't be used this way again until the next dawn.
-
-The brazier weighs 5 pounds.
+Während ein Feuer in dieser Feuerschale brennt, kannst du eine Aktion verwenden, um das Befehlswort der Feuerschale zu sprechen und so einen [[Feuerelementar-mm|Feuerelementar]] zu beschwören, so als hättest du Zauber [[Elementar-beschwören-phb|Elementar beschwören]] dafür gewirkt. Die Feuerschale kann bis zur nächsten Morgendämmerung nicht erneut verwendet werden. Die Feuerschale wiegt 5 Pfund.
 
 *Source: Dungeon Master's Guide p. 156. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

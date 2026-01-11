@@ -146,7 +146,7 @@ A magic item’s description specifies whether it bears a curse. Most methods of
 
 Attunement to a cursed item can't be ended voluntarily unless the curse is broken first, such as with the [Remove Curse](/3-Mechanics/CLI/spells/remove-curse-xphb.md) spell.
 
-## Poison
+## Gift
 
 Given their insidious and deadly nature, poisons are illegal in most societies but are a favorite tool among assassins, drow, and other evil creatures.
 

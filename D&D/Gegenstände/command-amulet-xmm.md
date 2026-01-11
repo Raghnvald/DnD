@@ -18,4 +18,4 @@ Each [Shield Guardian](/3-Mechanics/CLI/bestiary/construct/shield-guardian-xmm.m
 
 A shield guardian's command amulet might be passed down through a magic-using society or family for generations.
 
-*Source: Monster Manual (2024) p. 277*
+*Source: Monster Manual (2024) p. 277*dancing-sworddancing-sworddark-shard-amuletdark-shard-amuletdecanter-of-endless-watertwo. Use the appropriate coldemonomicon-ofdetailed-life-sized-dragonborn-skull-cast-in-electrum

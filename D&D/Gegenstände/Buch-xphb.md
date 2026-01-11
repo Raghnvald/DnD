@@ -10,11 +10,13 @@ aliases:
   - Book
 linter-yaml-title-alias: Book
 ---
-# Book
-*Adventuring gear*  
+# Buch
+*Abenteuerausrüstung*  
 
 - **Cost**: 25 gp
 - **Weight**: 5.0 lbs.
+
+Ein Buch enthält Belletristik oder Sachtexte. Wenn du ein korrektes Sachbuch zu einem Thema liest, erhältst du einen Bonus von +5 auf Intelligenzwürfe (Arkane Kunde, Geschichte, Naturkunde oder Religion) zu diesem Thema.
 
 A Book contains fiction or nonfiction. If you consult an accurate nonfiction Book about its topic, you gain a +5 bonus to Intelligence ([Arcana](/3-Mechanics/CLI/skills.md#Arcana), [History](/3-Mechanics/CLI/skills.md#History), [Nature](/3-Mechanics/CLI/skills.md#Nature), or [Religion](/3-Mechanics/CLI/skills.md#Religion)) checks you make about that topic.
 

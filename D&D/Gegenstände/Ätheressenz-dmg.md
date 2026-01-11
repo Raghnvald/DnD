@@ -1,24 +1,22 @@
 ---
-Bezeichnung: Ätheressenz (Eingeatmet)
-Typ: Gift
-Eigenschaften: Gift
-Kst.: 300 GM
-Gew.: n/v
+cssclasses:
+  - json5e-item
+Bezeichnung: Essence of Ether
 tags:
-  - Gegenstand/Ausrüstung/Gift
-  - Gegenstand/Eigenschaft/Gift
+  - Gegenstand/Ausrüstung/
+  - Gegenstand/Seltenheit/keine
   - Quelle/5e/dmg
 aliases:
-  - Ätheressenz (Eingeatmet)
   - Essence of Ether
-linter-yaml-title-alias: Ätheressenz (Eingeatmet)
+linter-yaml-title-alias: Essence of Ether
+obsidianUIMode: preview
 ---
-# Ätheressenz (Eingeatmet)
-*Abenteuerausrüstung, Gift*  
-<img src="Symbolik/Gegenstände.webp" align="right" width="150">
+# Essence of Ether
+*Adventuring gear, poison (inhaled)*  
 
-- **Eigenschaft**: Gift
-- **Kosten**: 300 Goldmünzen
-- **Gewicht**: n/v
+- **Properties**: [Poison](/3-Mechanics/CLI/item-properties.md#Poison)
+- **Cost**: 300 gp
 
-Eine Kreatur, die diesem Gift ausgesetzt wird, muss einen `Konstitutions-Rettungswurf` gegen SG 15 schaffen, sonst ist sie 8 Stunden lang [[01. Grundregelwerk 2014/Anhang PH-A#Vergiftet|vergiftet]]. Die vergiftete Kreatur ist [[01. Grundregelwerk 2014/Anhang PH-A#Bewusstlos|bewusstlos]]. Die Kreatur wacht auf, wenn sie Schaden erleidet oder eine andere Kreatur eine Aktion dafür verwendet, sie wachzurütteln.
+A creature subjected to this poison must succeed on a DC 15 Constitution saving throw or become [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned) for 8 hours. The [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned) creature is [unconscious](/3-Mechanics/CLI/conditions.md#Unconscious). The creature wakes up if it takes damage or if another creature takes an action to shake it awake.
+
+*Source: Dungeon Master's Guide p. 258. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

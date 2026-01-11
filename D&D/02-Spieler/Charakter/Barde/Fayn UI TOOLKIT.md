@@ -386,7 +386,7 @@ items:
 > ---
 > **Beschreibung.** Wenn du ein bestimmtes Musikinstrument beherrschst, kannst du deinen [Kompetenzbonus] zu allen Fertigkeitswürfen addieren, die du zum Musizieren mit dem Instrument machst. Ein Barde kann ein Musikinstrument als Zauberfokus verwenden. Jede Art von Musikinstrument erfordert eine eigene Befähigung.
 
-> [!recite]- [[common-clothes-phb|Kleidung (gewöhnlich)]]
+> [!recite]- [[Kleidung-gewöhnlich-phb|Kleidung (gewöhnlich)]]
 > **Menge:** 1x
 > **Gewicht:** 1,5 kg.
 > **Gegenstandsart:** Abenteuerausrüstung

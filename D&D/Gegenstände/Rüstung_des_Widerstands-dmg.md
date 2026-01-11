@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Armor of Resistance
+Bezeichnung: Rüstung des Widerstands
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
@@ -9,37 +9,37 @@ aliases:
   - Armor of Resistance
 linter-yaml-title-alias: Armor of Resistance
 ---
-# Armor of Resistance
-*Major, rare (requires attunement)*  
-![](/3-Mechanics/CLI/items/img/armor-of-resistance.webp#right)
+# Rüstung des Widerstands
+*Rüstung (leicht, mittelschwer oder schwer), selten (benötigt Einstimmung)*  
+![](Gegenstände/img/armor-of-resistance.webp#right)
 
-You have resistance to one type of damage while you wear this armor. The DM chooses the type or determines it randomly from the options below.
+Du hast Resistenz gegen eine Schadensart, solange du diese Rüstung trägst. Der SL bestimmt die Schadensart oder wählt sie nach der folgenden Tabelle zufällig aus.
 
-| dice: d10 | Damage Type |
+| W10 | Schadensart |
 |-----------|-------------|
-| 1 | [Acid](/3-Mechanics/CLI/items/armor-of-acid-resistance.md) |
-| 2 | [Cold](/3-Mechanics/CLI/items/armor-of-cold-resistance.md) |
-| 3 | [Fire](/3-Mechanics/CLI/items/armor-of-fire-resistance.md) |
-| 4 | [Force](/3-Mechanics/CLI/items/armor-of-force-resistance.md) |
-| 5 | [Lightning](/3-Mechanics/CLI/items/armor-of-lightning-resistance.md) |
-| 6 | [Necrotic](/3-Mechanics/CLI/items/armor-of-necrotic-resistance.md) |
-| 7 | [Poison](/3-Mechanics/CLI/items/armor-of-poison-resistance.md) |
-| 8 | [Psychic](/3-Mechanics/CLI/items/armor-of-psychic-resistance.md) |
-| 9 | [Radiant](/3-Mechanics/CLI/items/armor-of-radiant-resistance.md) |
-| 10 | [Thunder](/3-Mechanics/CLI/items/armor-of-thunder-resistance.md) |
+| 1 | [Säure](Rüstung_des_Widerstands-Säure-dmg) |
+| 2 | [Kälte](Rüstung_des_Widerstands-Kälte-dmg) |
+| 3 | [Feuer](Rüstung_des_Widerstands-Feuer-dmg) |
+| 4 | [Energie](Rüstung_des_Widerstands-Energie-dmg) |
+| 5 | [Blitz](Rüstung_des_Widerstands-Blitz-dmg) |
+| 6 | [Nekrotisch](Rüstung_des_Widerstands-Nekrotisch-dmg) |
+| 7 | [Gift](Rüstung_des_Widerstands-Gift-dmg) |
+| 8 | [Psychisch](Rüstung_des_Widerstands-Psychisch-dmg) |
+| 9 | [Gleißend](Rüstung_des_Widerstands-Gleißend-dmg) |
+| 10 | [Schall](Rüstung_des_Widerstands-Schall-dmg) |
 ^damage-type
 
-**Items in this group:**
+**Gegenstände in dieser Gruppe:**
 
-- [Armor of Acid Resistance](/3-Mechanics/CLI/items/armor-of-acid-resistance.md)
-- [Armor of Cold Resistance](/3-Mechanics/CLI/items/armor-of-cold-resistance.md)
-- [Armor of Fire Resistance](/3-Mechanics/CLI/items/armor-of-fire-resistance.md)
-- [Armor of Force Resistance](/3-Mechanics/CLI/items/armor-of-force-resistance.md)
-- [Armor of Lightning Resistance](/3-Mechanics/CLI/items/armor-of-lightning-resistance.md)
-- [Armor of Necrotic Resistance](/3-Mechanics/CLI/items/armor-of-necrotic-resistance.md)
-- [Armor of Poison Resistance](/3-Mechanics/CLI/items/armor-of-poison-resistance.md)
-- [Armor of Psychic Resistance](/3-Mechanics/CLI/items/armor-of-psychic-resistance.md)
-- [Armor of Radiant Resistance](/3-Mechanics/CLI/items/armor-of-radiant-resistance.md)
-- [Armor of Thunder Resistance](/3-Mechanics/CLI/items/armor-of-thunder-resistance.md)
+- [Rüstung des Säure-Widerstands](Rüstung_des_Widerstands-Säure-dmg)
+- [Rüstung des Kälte-Widerstands](Rüstung_des_Widerstands-Kälte-dmg)
+- [Rüstung des Feuer-Widerstands](Rüstung_des_Widerstands-Feuer-dmg)
+- [Rüstung des Energie-Widerstands](Rüstung_des_Widerstands-Energie-dmg)
+- [Rüstung des Blitz-Widerstands](Rüstung_des_Widerstands-Blitz-dmg)
+- [Rüstung des nekrotischen Widerstands](Rüstung_des_Widerstands-Nekrotisch-dmg)
+- [Rüstung des Gift-Widerstands](Rüstung_des_Widerstands-Gift-dmg)
+- [Rüstung des psychischen Widerstands](Rüstung_des_Widerstands-Psychisch-dmg)
+- [Rüstung des gleißenden Widerstands](Rüstung_des_Widerstands-Gleißend-dmg)
+- [Rüstung des Schall-Widerstands](Rüstung_des_Widerstands-Schall-dmg)
 
-*Source: Dungeon Master's Guide p. 162*
+*Quelle: Spielleiterhandbuch S. 162*

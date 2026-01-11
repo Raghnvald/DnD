@@ -13,10 +13,10 @@ aliases:
 | Gegenstand                                          | Typ        | Preis pro Dosis |
 | --------------------------------------------------- | ---------- | ---------------:|
 | [Assassinenblut-dmg](Assassinenblut-dmg.md)                 | Einnahme   |          150 GM |
-| [Ätheressenz](../Gegenstände/essence-of-ether.md)                  | Einatmen   |          300 GM |
+| [Ätheressenz](Ätheressenz-dmg.md)                  | Einatmen   |          300 GM |
 | [Blasse Tinktur](../Gegenstände/pale-tincture.md)                  | Einnahme   |          250 GM |
 | [Bosheit](../Gegenstände/malice.md)                                | Einatmen   |          250 GM |
-| [Drow-Gift](../Gegenstände/drow-poison.md)                         | Verletzung |          200 GM |
+| [Drow-Gift](Drowgift-dmg.md)                         | Verletzung |          200 GM |
 | [Erstarrung](../Gegenstände/torpor.md)                             | Einnahme   |          600 GM |
 | [Kriecherschleim](../Gegenstände/Kriecherschleim-WIP.md)           | Kontakt    |          200 GM |
 | [Mitternachtstränen](../Gegenstände/midnight-tears.md)             | Einnahme   |        1,500 GM |

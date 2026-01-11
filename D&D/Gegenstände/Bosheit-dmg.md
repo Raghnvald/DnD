@@ -11,12 +11,12 @@ aliases:
 linter-yaml-title-alias: Malice
 obsidianUIMode: preview
 ---
-# Malice
-*Adventuring gear, poison (inhaled)*  
+# Bosheit
+*Abenteuerausrüstung, Gift (Eingeatmet)*  
 
-- **Properties**: [Poison](/3-Mechanics/CLI/item-properties.md#Poison)
-- **Cost**: 250 gp
+- **Eigenschaften**: [Gift](Gegenstandseigenschaften-phb#Gift)
+- **Kosten**: 250 Goldmünzen
 
-A creature subjected to this poison must succeed on a DC 15 Constitution saving throw or become [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned) for 1 hour. The [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned) creature is [blinded](/3-Mechanics/CLI/conditions.md#Blinded).
+Eine Kreatur, die diesem Gift ausgesetzt wird, muss einen `Konstitutions-Rettungswurf` gegen `SG 15` schaffen, sonst ist sie 1 Stunde lang [vergiftet](Gegenstandseigenschaften-phb#Gift). Die [vergiftete](Gegenstandseigenschaften-phb#Gift) Kreatur ist [[Zustände-phb#blind|blind]].
 
 *Source: Dungeon Master's Guide p. 258. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

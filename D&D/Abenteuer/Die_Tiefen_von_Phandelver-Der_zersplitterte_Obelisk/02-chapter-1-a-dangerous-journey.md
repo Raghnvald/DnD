@@ -46,7 +46,7 @@ Read the following text to get the adventure started. (If you're using another a
 
 Any character can drive a wagon, and no skill is necessary. Two oxen pull the [wagon](Wagen-xphb.md). If no one is holding the reins, the oxen stop where they are.
 
-The wagon is packed full of an assortment of mining supplies and food. This includes a dozen sacks of flour; several casks of salted pork; two kegs of strong ale; [shovels](Gegenstände/shovel-xphb.md), [picks](Gegenstände/miners-pick.md), and [crowbars](Gegenstände/crowbar-xphb.md) (about a dozen each); and five lanterns with a small barrel of oil (about fifty [flasks](Gegenstände/oil-xphb.md) in volume). The total value of the cargo is 100 gp.
+The wagon is packed full of an assortment of mining supplies and food. This includes a dozen sacks of flour; several casks of salted pork; two kegs of strong ale; [shovels](Gegenstände/shovel-xphb.md), [picks](Gegenstände/miners-pick.md), and [crowbars](Brechstange-xphb.md) (about a dozen each); and five lanterns with a small barrel of oil (about fifty [flasks](Gegenstände/oil-xphb.md) in volume). The total value of the cargo is 100 gp.
 
 ### Goblin Ambush
 

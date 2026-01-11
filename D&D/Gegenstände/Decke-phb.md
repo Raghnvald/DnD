@@ -1,7 +1,9 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Blanket
+Bezeichnung: Decke
+Typ: Abenteuerausrüstung
+Eigenschaften: n/v
+Kst.: 5 SM
+Gew.: 1,5 kg
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
@@ -9,7 +11,6 @@ tags:
 aliases:
   - Blanket
 linter-yaml-title-alias: Blanket
-obsidianUIMode: preview
 ---
 # Blanket
 *Adventuring gear*  

@@ -6,12 +6,10 @@ tags:
 aliases:
   - 25 GP Art Objects
 ---
-# 25 GP Art Objects
-*Source: Dungeon Master's Guide (2024) p. 215* 
+# 25 GM Kunstgegenstände
+*Quelle: Spielleiterhandbuch (2024) S. 215* 
 
-**25 GP Art Objects**
-
-| dice: 1d10 | Object |
+| d10 | Kunstgegenstand |
 |------------|--------|
 | 1 | [Silver ewer](/3-Mechanics/CLI/items/silver-ewer-xdmg.md) |
 | 2 | [Carved bone statuette](/3-Mechanics/CLI/items/carved-bone-statuette-xdmg.md) |

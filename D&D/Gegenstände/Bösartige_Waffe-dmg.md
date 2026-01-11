@@ -66,16 +66,16 @@ aliases:
   - Vicious Yklwa
 linter-yaml-title-alias: Vicious Weapon
 ---
-# Vicious Weapon
-*Major, rare*  
-![](/3-Mechanics/CLI/items/img/vicious-weapon.webp#right)
+# Bösartige Waffe
+*Waffe (irgendeine), selten*  
+![](Gegenstände/img/vicious-weapon.webp#right)
 
-When you roll a 20 with this magic weapon, the target takes an extra 7 damage of the weapon's type.
+Wenn du bei deinem Angriff mit dieser magischen Waffe eine 20 würfelst, nimmt das Ziel zusätzlich 7 Schaden nach Schadensart der Waffe.
 
 > [!note]
 > Note: According to the SRD, it is an extra `2d6` damage, although this is incorrect (https://rpg.stackexchange.com/a/174522/53884).
 
-**Variants**:
+**Varianten**:
 - [Vicious Antimatter Rifle](#Vicious%20Antimatter%20Rifle)
 - [Vicious Automatic Pistol](#Vicious%20Automatic%20Pistol)
 - [Vicious Automatic Rifle](#Vicious%20Automatic%20Rifle)

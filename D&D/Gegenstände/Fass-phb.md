@@ -17,6 +17,6 @@ obsidianUIMode: preview
 - **Cost**: 2 gp
 - **Weight**: 70.0 lbs.
 
-A barrel can hold 40 gallons of liquid or 4 cubic feet of solids.
+Ein Fass hat ein Fassungsvermögen für 150 Liter Flüssigkeit oder 0,1 Kubikmeter feste Stoffe.
 
 *Source: Player's Handbook p. 153. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

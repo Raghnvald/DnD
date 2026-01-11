@@ -21,7 +21,7 @@ _Quellen:_ Spielerhandbuch
 | [[Stab-phb]]                                                                         |     5 GM |        2,0 kg. |
 | [[Zauberstab-phb]]                                                                   |    10 GM |        0,5 kg. |
 |                                                                                  |          |                |
-| [[Armbrustbolzenbehälter\|Behälter, Armbrustbolzen]]                             |     1 GM |        0,5 kg. |
+| [[Armbrustbolzenbehälter-phb\|Behälter, Armbrustbolzen]]                             |     1 GM |        0,5 kg. |
 | [[Karten-oder-Schriftrollenbehälter\|Behälter, Karte oder Schriftrolle]]         |     1 GM |        0,5 kg. |
 | [[Beutel]]                                                                       |     5 SM |        0,5 kg. |
 | [[Brechstange]]                                                                  |     2 GM |        2,5 kg. |
@@ -115,7 +115,7 @@ _Quellen:_ Spielerhandbuch
 | [Topf (Eisen)](iron-pot-phb.md)                                       |     2 GM |        5,0 kg. |
 | [Kiste](Kiste.md)                                                                |     5 GM |       12,5 kg. |
 | [Verkleidungsausrüstung](../Gegenstände/Verkleidungsausrüstung.md)               |    25 GM |        1,5 kg. |
-| [Waage, (Kaufmannswaage)](../Gegenstände/merchants-scale.md)                     |     5 GM |        1,5 kg. |
+| [Waage, (Kaufmannswaage)](Kaufmannswaage-phb.md)                     |     5 GM |        1,5 kg. |
 | [Wasserschlauch](../Gegenstände/Wasserschlauch.md)                               |     2 SM | 2,5 kg. (voll) |
 | [Weihwasser (Flasche)](../Gegenstände/holy-water-flask.md)                       |    25 GM |        0,5 kg. |
 | [Wetzstein](../Gegenstände/Schleifstein.md)                                      |     1 KM |        0,5 kg. |

@@ -11,7 +11,7 @@ aliases:
 linter-yaml-title-alias: Flayer Slayer
 ---
 # Flayer Slayer
-*Weapon ([greataxe](Gegenstände/greataxe-xphb.md)), rare (requires attunement)*  
+*Weapon ([greataxe](Zweihandaxt-xphb.md)), rare (requires attunement)*  
 
 - **Damage**: 1d12 slashing
 - **Properties**: [Heavy](Gegenstandseigenschaften-phb.md#Heavy), [Two-Handed](Gegenstandseigenschaften-phb.md#Two-Handed)

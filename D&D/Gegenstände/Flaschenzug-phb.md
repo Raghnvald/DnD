@@ -17,6 +17,6 @@ obsidianUIMode: preview
 - **Cost**: 1 gp
 - **Weight**: 5.0 lbs.
 
-A set of pulleys with a cable threaded through them and a hook to attach to objects, a block and tackle allows you to hoist up to four times the weight you can normally lift.
+Bestehend aus Seilen, Rollen und einem Holzblock, an dem ein Haken befestigt ist, dient der Flaschenzug dazu, bis zu viermal höheres Gewicht anzuheben, als dies ohne ihn möglich wäre.
 
 *Source: Player's Handbook p. 151. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

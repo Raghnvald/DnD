@@ -1,7 +1,10 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Handaxe
+Bezeichnung: Beil
+Typ: Einfache Nahkampfwaffe
+Schaden: 1W6 Hieb
+Eigenschaften: Leicht, Wurfwaffe (Reichweite 6/18)
+Kst.: 5 GM
+Gew.: 1,0 kg
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/Einfach
@@ -10,15 +13,15 @@ tags:
 aliases:
   - Handaxe
 linter-yaml-title-alias: Handaxe
-obsidianUIMode: preview
 ---
-# Handaxe
-*Weapon*  
+# Beil
+*Waffe*  
 
-- **Damage**: 1d6 slashing
-- **Range**: 20/60
-- **Properties**: [Light](/3-Mechanics/CLI/item-properties.md#Light), [Thrown](/3-Mechanics/CLI/item-properties.md#Thrown)
-- **Cost**: 5 gp
-- **Weight**: 2.0 lbs.
+- **Schaden:** 1W6 Hieb
+- **Reichweite:** 6/18
+- **Eigenschaften:** Leicht, Wurfwaffe (Reichweite 6/18)
+- **Kosten**: 5 Goldmünzen
+- **Gewicht:** 1,0 kg
 
 *Source: Player's Handbook p. 149. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+Handaxe

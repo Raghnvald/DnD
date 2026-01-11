@@ -15,7 +15,7 @@ _Quellen:_ Spielerhandbuch
 |   2 KM | 0,5 kg [[Mehl]] oder ein [[Huhn]]                                            |
 |   5 KM | 0,5 kg [[Salz]]                                                              |
 |   1 SM | 0,5 kg [[Eisen]] oder [[Segeltuch-1-m2\|1 Quadratmeter Segeltuch]]                                        |
-|   5 SM | 0,5 kg [[Kupfer]] oder [[Baumwollstoff-1-m2\| 1 Quadratmeter Baumwollstoff]] |
+|   5 SM | 0,5 kg [[Kupfer]] oder [[Baumwollstoff-1-m2-old\| 1 Quadratmeter Baumwollstoff]] |
 |   1 GM | 0,5 kg [[Ingwer]] oder eine [[D&D/05 - Wikipedia/Gegenstände/Ziege]]                                        |
 |   2 GM | 0,5 kg [[Zimt]] oder [[Pfeffer]], oder ein [[Schaf]]                         |
 |   3 GM | 0,5 kg [[Gewürznelken]] oder ein [[Schwein]]                                 |
