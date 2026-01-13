@@ -44,7 +44,7 @@ Wann immer Strahd an einen Ort außer seinem Grabmal oder dem beim Kartenlesen a
 
 | W20   | Kreaturen                                                            |
 | ----- | -------------------------------------------------------------------- |
-| 1-3   | `dice: 1d4 + 2` [Schreckenswölfe](Schreckenswolf.md)                 |
+| 1-3   | `dice: 1d4 + 2` [Schreckenswölfe](Schreckenswolf-mm.md)                 |
 | 4-6   | `dice: 1d6 + 3` [Ghule](Ghul-old.md)                                     |
 | 7-9   | `dice: 1d4 + 2` [Strahdzombies](Strahdzombie.md)                     |
 | 10-12 | `dice: 2d4` [Schwärme von Fledermäusen](Schwarm%20von%20Fledermäusen.md) |

@@ -46,7 +46,7 @@ A summary of each of the first four chapters follows.
 
 #### Chapter 1 Summary
 
-The adventurers are on the road to the town of Phandalin when they stumble into a goblin ambush. They discover that the goblins (who belong to the Cragmaw band) have captured the characters' friend—a dwarf named [Gundren Rockseeker](Gundren%20Felssucher-pabtso.md)—and his escort, a human warrior named [Sildar Hallwinter](Sildar%20Hallwinter-pabtso.md). The characters must deal with the ambushers and then follow their trail to the goblins' hideout. There, they can rescue Sildar and learn from him that Gundren and his brothers previously discovered a famous lost mine. Sildar knows only that Gundren and his map of the mine have been taken somewhere called Cragmaw Castle.
+The adventurers are on the road to the town of Phandalin when they stumble into a goblin ambush. They discover that the goblins (who belong to the Cragmaw band) have captured the characters' friend—a dwarf named [Gundren Rockseeker](Gundren_Felssucher-pabtso.md)—and his escort, a human warrior named [Sildar Hallwinter](Sildar%20Hallwinter-pabtso.md). The characters must deal with the ambushers and then follow their trail to the goblins' hideout. There, they can rescue Sildar and learn from him that Gundren and his brothers previously discovered a famous lost mine. Sildar knows only that Gundren and his map of the mine have been taken somewhere called Cragmaw Castle.
 
 #### Chapter 2 Summary
 
@@ -56,11 +56,11 @@ After arriving in Phandalin, the characters find it terrorized by the Redbrands,
 
 The heroes undertake several short explorations in the region around Phandalin as they search for more information about the Spider and the lost mine. The clues the characters discovered in Phandalin can lead them to spy on a mysterious wizard at the ruins of Old Owl Well, to seek the advice of a dangerous banshee, to oust a band of marauders lurking at Wyvern Tor, and to investigate the ruins of the town of Thundertree.
 
-Several of these leads point to Cragmaw Castle—the stronghold of King Grol, leader of the Cragmaw goblins. Here the characters discover that the Spider is a drow mastermind named Nezznar and that the Cragmaw goblins work for him. More importantly, they recover [Gundren Rockseeker](Gundren%20Felssucher-pabtso.md)'s map to the lost mine. Alternatively, they learn the mine's location from one of the other leads they unearthed in the previous chapter.
+Several of these leads point to Cragmaw Castle—the stronghold of King Grol, leader of the Cragmaw goblins. Here the characters discover that the Spider is a drow mastermind named Nezznar and that the Cragmaw goblins work for him. More importantly, they recover [Gundren Rockseeker](Gundren_Felssucher-pabtso.md)'s map to the lost mine. Alternatively, they learn the mine's location from one of the other leads they unearthed in the previous chapter.
 
 #### Chapter 4 Summary
 
-Following the map or the directions to the lost mine brings the characters to Wave Echo Cave. That lost underground complex is overrun with undead and strange monsters. The Spider and his loyal followers are exploring the mines and searching for the legendary Forge of Spells. The heroes have the opportunity to avenge [Gundren Rockseeker](Gundren%20Felssucher-pabtso.md) and provide for the prosperity and security of Phandalin by clearing the rich mine of threats, including monsters and the Spider's troublemaking.
+Following the map or the directions to the lost mine brings the characters to Wave Echo Cave. That lost underground complex is overrun with undead and strange monsters. The Spider and his loyal followers are exploring the mines and searching for the legendary Forge of Spells. The heroes have the opportunity to avenge [Gundren Rockseeker](Gundren_Felssucher-pabtso.md) and provide for the prosperity and security of Phandalin by clearing the rich mine of threats, including monsters and the Spider's troublemaking.
 
 ![The Cragmaw goblins plague...](D&D/Abenteuer/Die_Tiefen_von_Phandelver-Der_zersplitterte_Obelisk/img/001-00-002-cragmaw-goblins.webp#center "The Cragmaw goblins plague Phandalin and surrounding areas")
 
@@ -173,17 +173,17 @@ The "Player's Handbook" contains "character backgrounds" that are well suited fo
 
 Players can invent their own reasons for visiting Phandalin, or they can use the following adventure hooks. The character hooks tied to backgrounds also provide characters with motivations for visiting Phandalin.
 
-It's recommended at least one character use the "Meet Me in Phandalin" adventure hook below so that the party has a tie to the dwarf [Gundren Rockseeker](Gundren%20Felssucher-pabtso.md), who plays a prominent role in chapters 1–4:
+It's recommended at least one character use the "Meet Me in Phandalin" adventure hook below so that the party has a tie to the dwarf [Gundren Rockseeker](Gundren_Felssucher-pabtso.md), who plays a prominent role in chapters 1–4:
 
 ![Gundren Rockseeker](D&D/Abenteuer/Die_Tiefen_von_Phandelver-Der_zersplitterte_Obelisk/img/005-00-004-gundren-rockseeker.webp#center)
 
-- **Meet Me in Phandalin.** You're in the city of Neverwinter when your dwarf patron and friend, [Gundren Rockseeker](Gundren%20Felssucher-pabtso.md), hires you to escort a wagon to Phandalin. Gundren has gone ahead with a warrior, [Sildar Hallwinter](Sildar%20Hallwinter-pabtso.md), to attend to business in the town while you follow with the supplies. You will be paid 10 gp each by the owner of Barthen's Provisions in Phandalin when you deliver the wagon safely to that trading post.  
+- **Meet Me in Phandalin.** You're in the city of Neverwinter when your dwarf patron and friend, [Gundren Rockseeker](Gundren_Felssucher-pabtso.md), hires you to escort a wagon to Phandalin. Gundren has gone ahead with a warrior, [Sildar Hallwinter](Sildar%20Hallwinter-pabtso.md), to attend to business in the town while you follow with the supplies. You will be paid 10 gp each by the owner of Barthen's Provisions in Phandalin when you deliver the wagon safely to that trading post.  
 - **Friend of the Harpers.** You've spent much of your life in awe of the Harpers, a secretive organization dedicated to promoting good and preserving history. You've always wanted to join, but you've struggled to gain the group's attention. You're headed to Phandalin, where you hope your good deeds will gain the Harpers' notice.  
 - **Gauntlet Trainee.** You have pledged yourself to the Order of the Gauntlet, a devout and vigilant group that seeks to protect others from evildoers. Before you become a full-fledged member, you've decided to meet your hero, a retired adventurer named Daran Edermath, who was part of the order and has thwarted many local threats. Daran lives in Phandalin in a cottage beside an apple orchard. You plan to visit him and drink in his wisdom before joining the order yourself.  
 
 ### Starting the Adventure
 
-When this adventure begins, the characters are in Neverwinter. Consider telling the characters that they'll all join the same wagon headed to Phandalin, whether it's because they're working for the dwarf [Gundren Rockseeker](Gundren%20Felssucher-pabtso.md) (see the "Meet Me in Phandalin" adventure hook above) or they have another reason to go to the frontier town. No matter the characters' motivation, allow them to join the wagon without additional cost, narrating how each character secured passage as needed. If you establish why the characters are traveling together before you kick off the adventure, your later game sessions will go more smoothly.
+When this adventure begins, the characters are in Neverwinter. Consider telling the characters that they'll all join the same wagon headed to Phandalin, whether it's because they're working for the dwarf [Gundren Rockseeker](Gundren_Felssucher-pabtso.md) (see the "Meet Me in Phandalin" adventure hook above) or they have another reason to go to the frontier town. No matter the characters' motivation, allow them to join the wagon without additional cost, narrating how each character secured passage as needed. If you establish why the characters are traveling together before you kick off the adventure, your later game sessions will go more smoothly.
 
 ## Far Realm Influence
 

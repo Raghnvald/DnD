@@ -24,7 +24,7 @@ wer sich in der Nähe der Ruinen des Alten Eulenbrunnens herumtreibt.
 
 **Wyvernkuppe.** Stadtvorsteher Harbin Wester will, dass die Charaktere ein Orklager in der Nähe der Wyvernkuppe aufsuchen und die Orks aus der Gegend vertreiben.
 
-**Burg Cragmaw** [[Bestiarium/NSC/Sildar Hallwinter-pabtso|Sildar Hallwinter]] will, dass die Charaktere Burg Cragmaw finden und [[Bestiarium/NSC/Gundren Felssucher-pabtso|Gundren Felssucher]] suchen, den Zwerg retten und seine Karte bergen.
+**Burg Cragmaw** [[Bestiarium/NSC/Sildar Hallwinter-pabtso|Sildar Hallwinter]] will, dass die Charaktere Burg Cragmaw finden und [[Gundren_Felssucher-pabtso|Gundren Felssucher]] suchen, den Zwerg retten und seine Karte bergen.
 
 All diese möglichen Questen haben ihren eigenen Abschnitt in diesem Teil des Abenteuers. Die Charaktere können lange genug in Phandalin bleiben, um sich zu erholen und Vorräte zu erwerben. Wenn sie fertig sind, lass sie eine Geschichte wählen, der sie folgen wollen, und mach mit dem entsprechenden Ort weiter.
 
@@ -62,7 +62,7 @@ $\quad$Wenn es zu einer Begegnung kommt, erhalten die Abenteuer EP, wenn sie die
 | 5-6          | 5              | Cragmaw [[Bestiarium/humanoid/Goblin\|Goblin]]-Bande              |
 | 7-8          | 6              | [[Bestiarium/humanoid/Hobgoblin\|Hobgoblin]]-Trupp               |
 | 9-10         | 7-8            | [[Bestiarium/humanoid/Grottenschrat-mm\|Grottenschrat]]-Kundschafter |
-| 11           | 9-10           | `1W4 + 2` [[Wolf\|Wölfe]]                     |
+| 11           | 9-10           | `1W4 + 2` [[Wolf-mm\|Wölfe]]                     |
 | 12           | 11-12          | 1 [[Eulenbär\|Eulenbär]]                      |
 
 ##### Cragmaw [[Bestiarium/humanoid/Goblin|Goblin]]-Bande
@@ -247,7 +247,7 @@ Das Gestrüpp östlich der Ruine ist mit 12 [[Zweigplage|Zweigplagen]] und 2 [[N
 
 Der ehemalige Gemischtwarenladen ist noch nicht ganz verfallen; Teile des Ziegeldachs sind noch intakt.
 
-Zwei [[Riesenspinne|Riesenspinnen]] lauern in dem Gebäude und verstecken sich hinter den Wänden. Dank der dünnen Fäden der Spinnweben auf der Straße können die Spinnen spüren, wenn sich eine mögliche Beute durch die Spinnweben bewegt, dann klettern sie flink über die Mauer und greifen an. Charaktere, die die Spinnen alarmieren, müssen einen Wurf auf `Weisheit (Wahrnehmung) (SG 17)` ablegen, um nicht überrascht zu werden.
+Zwei [[Riesenspinne-mm|Riesenspinnen]] lauern in dem Gebäude und verstecken sich hinter den Wänden. Dank der dünnen Fäden der Spinnweben auf der Straße können die Spinnen spüren, wenn sich eine mögliche Beute durch die Spinnweben bewegt, dann klettern sie flink über die Mauer und greifen an. Charaktere, die die Spinnen alarmieren, müssen einen Wurf auf `Weisheit (Wahrnehmung) (SG 17)` ablegen, um nicht überrascht zu werden.
 
 **Netze**. Die Spinnweben sind schwieriges Gelände, und eine Kreatur, die versucht, sich durch sie hindurch zu bewegen, muss einen Wurf auf  `Stärke (Athletik (SG 8)` bestehen, oder sie ist [[01. Grundregelwerk 2014/Anhang PH-A#Festgesetzt|festgesetzt]], da die Spinnweben sie fesseln. Eine gefesselte Kreatur kann jede Runde eine Aktion ausführen, um einen `Stärke (SG 8)` zu machen, um sich zu befreien, oder sie kann versuchen, sich mit einer leichten Waffe, die Hiebschaden verursacht, den Weg freizuschneiden. Die Netze haben `RK 10, 10 Trefferpunkte` und sind verwundbar gegenüber Feuerschaden.
 
@@ -523,7 +523,7 @@ Jeder Charakter, der an der Tür lauscht, hört zwei Stimmen in einer hitzigen D
 
 König Grol ist ein brutaler, alter [[Bestiarium/humanoid/Grottenschrat-mm|Grottenschrat]]. Er beherrscht die Cragmaws durch schiere Einschüchterung. Das Alter hat seine Schultern gebeugt und seinen Rücken krumm gemacht, doch ist er nach wie vor erstaunlich beweglich und stark. Er ist fordernd und rachsüchtig, und kein Cragmaw wagt es, sich ihm zu widersetzen.
 
-Grol ist in der Begleitung von Knurr, einem [[Wolf|Wolf]] mit 18 Trefferpunkten, und einem [[Doppelgänger|Doppelgänger]], der als weibliche Drow verkleidet ist. Der [[Doppelgänger|Doppelgänger]] Vyerith ist ein Gesandter der Schwarzen Spinne, der Gundren Felssucher und die Karte der Wellenhallhöhle von König Grol abholen soll. Groll will die Karte verkaufen, anstatt sie abzugeben, und er und die Drow verhandeln gerade den Preis. Vyerith will zunächst Gundren befragen, um herauszufinden, ob sonst noch jemand weiß, wo die Mine zu finden ist. Danach plant der Doppelgänger den Zwerg zu töten und die Karte zu zerstören. 
+Grol ist in der Begleitung von Knurr, einem [[Wolf-mm|Wolf]] mit 18 Trefferpunkten, und einem [[Doppelgänger-mm|Doppelgänger]], der als weibliche Drow verkleidet ist. Der [[Doppelgänger-mm|Doppelgänger]] Vyerith ist ein Gesandter der Schwarzen Spinne, der Gundren Felssucher und die Karte der Wellenhallhöhle von König Grol abholen soll. Groll will die Karte verkaufen, anstatt sie abzugeben, und er und die Drow verhandeln gerade den Preis. Vyerith will zunächst Gundren befragen, um herauszufinden, ob sonst noch jemand weiß, wo die Mine zu finden ist. Danach plant der Doppelgänger den Zwerg zu töten und die Karte zu zerstören. 
 
 Wenn die Bösewichte gewarnt worden sind, dass ein Angriff bevorsteht, dann versteckt sich Vyerith hinter der Tür im Nordosten und lässt sie einen Spalt offen, um, wenn möglich, einen Eindringling von hinten zu erwischen. Gral verwendet Gundren als Geisel und ist bereit, den Zwerg zu töten, wenn sich die Charaktere nicht zurückziehen. 
 
@@ -531,7 +531,7 @@ Wenn die Bösewichte gewarnt worden sind, dass ein Angriff bevorsteht, dann vers
 
 **Nordwestraum.** Dieser zum Teil eingestürzte Raum war früher ein gemütliches Badezimmer. Hier steht immer noch eine große Badewanne, die von den aktuellen Bewohnern der Burg nicht verwendet wird. 
 
-**Bewusstloser Zwerg.** In der südwestlichen Ecke des Raums liegt [[Bestiarium/NSC/Gundren Felssucher-pabtso|Gundren Felssucher]], ein zwergischer [[Bestiarium/humanoid/Gemeiner|Gemeiner]]. Er ist bewusstlos, aber mit 0 Trefferpunkten stabil. 
+**Bewusstloser Zwerg.** In der südwestlichen Ecke des Raums liegt [[Gundren_Felssucher-pabtso|Gundren Felssucher]], ein zwergischer [[Bestiarium/humanoid/Gemeiner|Gemeiner]]. Er ist bewusstlos, aber mit 0 Trefferpunkten stabil. 
 
 ## Was passiert als nächstes?
 Wenn Gundren Felssucher die Situation in Burg Cragmaw überlebt, dankt er den Charakteren und bittet sie, ihn zurück nach Phandalin zu eskortieren und dann zur Wellenhallhöhle zu gehen, um herauszufinden, was mit seinen Brüdern Nundro und Tharden passiert ist. Er weiß, dass jemand namens die Schwarze Spinne seine Gefangennahme geplant hat und hofft, dass die Charaktere den Bösewicht aufhalten können. Bei der Rückkehr nach Phandalin bietet Gundren jedem Charakter 25 GM für ihre Dienste an und verspricht 10% vom Gewinn der Mine, sobald diese in Betrieb genommen worden ist. 

@@ -7,86 +7,86 @@ aliases:
 # Chapter 5: Paths of Peril
 *Source: Phandelver and Below: The Shattered Obelisk, p. 77* 
 
-When the characters return to Phandalin after their adventures in Wave Echo Cave, they find the town in upheaval. Thievery, vandalism, and violence plague Phandalin—all perpetrated by a band of goblins, some displaying strange psionic powers. These goblins have been pursuing their goal in the background of previous chapters (see "The Goblins' Story" below), and their efforts have now become the adventure's main story.
+Als die Charaktere nach ihren eigenen Abenteuern in der Wellenhallhöhle nach Phandalin zurückkehren, befindet sich das Dorf in Aufruhr. Diebstahl, Vandalismus und Gewalt plagen Phandalin - die Übeltäter sind eine Gruppe von Goblins, von denen einige seltsame psionische Kräfte besitzen. Diese Goblins haben ihr Ziel im Hintergrund der bisherigen Kapitel verfolgt (siehe „Die Geschichte der Goblins" weiter unten). Ihr Bestreben ist nun zur Hauptgeschichte des Abenteuers geworden. 
 
-Distressed and unsure how to help the victims, let alone find and stop the criminals, townmaster Harbin Wester asks the characters to investigate these crime scenes, find the culprits, and put a stop to the incidents. This task eventually leads the characters to the goblins' base far underground in an old duergar mining post called Zorzula's Rest, where a goblin leader who calls himself [Ruxithid the Chosen](Ruxithid%20der%20Auserwählte-pabtso.md) receives orders from powerful overlords.
+$\quad$Bürgermeister Harbin Wester ist verzweifelt und weiß nicht, wie er den Opfern helfen oder gar die Übeltäter finden und aufhalten kann. Er bittet die Charaktere, die Tatorte zu untersuchen, die Schuldigen zu finden und den Vorfällen ein Ende zu setzen. Diese Aufgabe führt die Charaktere schließlich zur Basis der Goblins tief unter der Erde - in einen alten Duergar-Minenaußenposten namens Zorzulas Ruh. Dort erhält ein Goblin-Anführer, der sich [[Ruxithid der Auserwählte-pabtso|Ruxithid der Auserwählte]] nennt, Befehle von mächtigen Gebietern. 
 
 ![When the heroes return to ...](D&D/Abenteuer/Die_Tiefen_von_Phandelver-Der_zersplitterte_Obelisk/img/055-05-001-ch5-splash.webp#center "When the heroes return to Phandalin, a different group of goblins is terrorizing the townspeople")
 
-## Running This Chapter
+## Das Kapitel leiten
 
-This chapter can be divided into two parts: the investigations around Phandalin and the hunt for Ruxithid.
+Dieses Kapitel lässt sich in zwei Teile gliedern: die Ermittlungen rund um Phandalin und die Jagd nach Ruxithid. 
 
-The goblins left four distinct crime scenes that the characters can investigate in any order. Each crime scene has at least one witness and one potential combat encounter. From these crime scenes, the characters should gather enough clues to point them toward Ruxithid, the goblins' leader, without whom the goblins' crimes would cease.
+$\quad$Die Goblins haben vier verschiedene Tatorte hinterlassen, die die Charaktere in beliebiger Reihenfolge untersuchen können. An jedem Tatort gibt es mindestens einen Zeugen und eine mögliche Kampfbegegnung. An diesen Tatorten können die Charaktere genügend Hinweise sammeln, die sie zu Ruxithid, dem Anführer der Goblins, führen. Ohne ihn sollten die Untaten der Goblins ein Ende haben. 
 
-Pursuing Ruxithid takes the characters into Zorzula's Rest. This section is a traditional dungeon crawl, filled with strange secrets to uncover and dangerous enemies to fight.
+$\quad$Die Verfolgung von Ruxithid führt die Charaktere nach Zorzulas Ruh. Dieser Abschnitt ist ein klassisches Gewölbe-Abenteuer voller seltsamer Geheimnisse, die es zu entdecken gilt - und gefährlicher Feinde, die es zu bekämpfen gilt. 
 
-### Character Advancement
+### Charakterentwicklung 
 
-The characters should be 5th level when this chapter begins. In this chapter, characters can advance to 7th level and no further. Advancement is handled as follows:
+Die Charaktere sollten die 5. Stufe erreicht haben, wenn das Kapitel beginnt. In diesem Kapitel können Charaktere maximal bis zur 7. Stufe aufsteigen. Der Stufenaufstieg wird wie folgt gehandhabt: 
 
-- The characters gain a level when they discover the location of Zorzula's Rest and determine that they must confront [Ruxithid the Chosen](/3-Mechanics/CLI/bestiary/npc/ruxithid-the-chosen-pabtso.md) and the Sawplee goblins there.  
-- The characters gain a level when they defeat Ruxithid and learn of a larger, more sinister plan.  
+- Die Charaktere steigen eine Stufe auf, wenn sie den Standort von Zorzulas Ruh entdecken und beschließen, dort [[Ruxithid der Auserwählte-pabtso|Ruxithid dem Auserwählten]] und den SägezankGoblins entgegenzutreten. 
+- Die Charaktere steigen eine Stufe auf, wenn sie Ruxithid besiegen und von einem größeren, unheilvolleren Plan erfahren.   
 
-### The Goblins' Story
+### Die Geschichte der Goblins
 
-The goblins at the heart of this chapter's adventure are part of an enclave whose ancestors have inhabited an abandoned duergar mining outpost called Zorzula's Rest for generations. Centuries ago, the outpost was conquered by mind flayers, and the goblins there were exposed to the illithids' strange powers, leading a subset of the goblins to develop unusual psionic powers. The mind flayers eventually left, but the goblins remained, sequestered from the rest of the world until recently when the mind flayer fanatics called on them. Some of these goblins' descendants possess psionic powers, as evidenced by the [goblin psi commanders](/3-Mechanics/CLI/bestiary/aberration/goblin-psi-commander-pabtso.md) and [goblin psi brawlers](/3-Mechanics/CLI/bestiary/aberration/goblin-psi-brawler-pabtso.md) that make up their ranks. Collectively, the goblins call themselves the Sawplees: a simplification of the word for "goblin" in the illithids' dialect of Deep Speech.
+Die Goblins im Mittelpunkt dieses Kapitels sind Teil einer Enklave, deren Vorfahren seit Generationen einen verlassenen Duergar-Minenaußenposten namens Zorzulas Ruh bewohnen. Vor Jahrhunderten wurde der Außenposten von Gedankenschindern erobert. Die Goblins dort waren den seltsamen Kräften der Illithiden ausgesetzt, wodurch eine Untergruppe von Goblins ungewöhnliche psionische Kräfte entwickelte. Die Gedankenschinder zogen schließlich ab, aber die Goblins blieben abgeschottet vom Rest der Welt zurück, bis die Gedankenschinder-Fanatiker sie vor Kurzem aufsuchten. Einige der Nachkommen dieser Goblins besitzen psionische Kräfte, wie die [[Goblin-Psi-Kommandant-pabtso|Goblin-Psi-Befehlshaber]] und [[Goblin-Psi-Raufbold-pabtso|Goblin-Psi-Raufbolde]] in ihren Reihen beweisen. Die Goblins nennen sich selbst „Sägezank": eine vereinfachte Form des Wortes für ,,Goblin" im Dialekt der Illithiden der Tiefensprache. 
 
-In recent weeks, the Sawplee goblins' leader found a mysterious gemstone. Unknown to [Ruxithid the Chosen](/3-Mechanics/CLI/bestiary/npc/ruxithid-the-chosen-pabtso.md), a new group of mind flayer fanatics that draw power from the Far Realm planted it for him to find. The gemstone lets Ruxithid telepathically communicate with the mind flayers, who he believes are gods. The mind flayers demand that Ruxithid's goblins find peculiar, black stone shards that came from an ancient obelisk once erected in the wilds outside of Phandalin. The obelisk originated in the ancient Netherese empire and is said to have transformative capabilities, although the goblins know very little about its properties or history. The goblins know only that their "gods" traced some of the obelisk's shards to Phandalin, covet the shards for some greater purpose, and demand the Sawplees' help.
+$\quad$In den letzten Wochen hat der Anführer der Sägezank-Goblins einen geheimnisvollen Edelstein gefunden. [[Ruxithid der Auserwählte]] weiß nicht, dass eine neue Gruppe Gedankenschinder-Fanatiker, die Macht aus dem Fernen Reich beziehen, ihm den Edelstein untergeschoben haben. Der Edelstein ermöglicht es Ruxithid, telepathisch mit den Gedankenschindern zu kommunizieren, die er für Götter hält. Die Gedankenschinder fordern, dass Ruxithids Goblins besondere schwarze Steinsplitter von einem uralten Obelisken finden, der einst in der Wildnis außerhalb von Phandalin errichtet wurde. Der Obelisk stammt aus dem uralten nesserilischen Imperium und soll über transformative Fähigkeiten verfügen. Die Goblins wissen jedoch nur sehr wenig über seine Eigenschaften oder seine Geschichte. Sie wissen nur, dass ihre „Götter" einige der Obeliskensplitter nach Phandalin zurückverfolgt haben, die Splitter für einen höheren Zweck begehren und die Hilfe der Sägezank-Goblins fordern. 
 
-While communing with their Far Realm patron, the mind flayers learned that four obelisk shards have been hidden around Phandalin for ages. (More about the mind flayers' story can be found in subsequent chapters.) It is the hunt for the shards that serves as the impetus for the goblins' crime spree. However, many of the goblins are taking the opportunity to wreak havoc across town simply for the fun of it.
+$\quad$Während sie mit ihrem Schutzherren aus dem Femen Reich kommunizieren, haben die Gedankenschinder erfahren, dass vier Obeliskensplitter seit Ewigkeiten in der Region von Phandalin versteckt sind. (Mehr über die Geschichte der Gedankenschinder findest du in den folgenden Kapiteln.) Die Jagd nach den Splittern ist der Auslöser für die Raubzüge der Goblins. Viele der Kobolde nutzen jedoch einfach aus Spaß die Gelegenheit, um im Dorf Chaos anzurichten. 
 
-## Townmaster's Plight
+## Die Misere des Bürgermeisters 
 
 ![Terrified and angry, the t...](D&D/Abenteuer/Die_Tiefen_von_Phandelver-Der_zersplitterte_Obelisk/img/056-05-002-angry-townspeople.webp#center "Terrified and angry, the townspeople demand that Townmaster Harbin Wester take action to stop the recent crimes")
 
-When the characters return to Phandalin following the confrontation in Wave Echo Cave, read the following aloud:
+Lies folgenden Text vor, wenn die Charaktere nach der Konfrontation in der Wellenhallhöhle nach Phandalin zurückkehren: 
 
 > [!readaloud] 
 > 
-> The rumbling of an agitated crowd greets your journey back into town. It takes only a moment to locate the source of this cacophony: the home of townmaster Harbin Wester. A gaggle of townsfolk has gathered, some shouting for Harbin to come outside and others decrying his leadership. A few individuals in the crowd display minor injuries, and all seem anxious and frustrated.
+> Bei der Rückkehr ins Dorf erwartet euch das Grollen einer aufgebrachten Menschenmenge. Ihr findet schnell die Quelle dieser Kakophonie: das Haus des Bürgermeisters Harbin Wester. Eine Gruppe Dörfler hat sich versammelt - einige wollen lauthals, dass Harbin nach draußen kommt, andere spotten über seine Führung. Einige in der Menge weisen leichte Verletzungen auf, und alle wirken ängstlich und frustriert. 
 ^19b
 
-The crowd's displeasure stems from the crimes happening around town. Characters who have a passive Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) score of 13 or higher can pick out the following snippets of conversation from the crowd:
+Der Unmut der Menge ist auf die Verbrechen im Dorf zurückzuführen. Charaktere mit einem `passiven Weisheitswert (Wahrnehmung)` von mindestens 13 können die folgenden Gesprächsfetzen aufschnappen: 
 
-- A halfling woman complains, "I thought the Redbrands were bad, but at least they never smashed the bar. Who does that?"  
-- A human miner shouts, "The Exchange is falling over, and some of my friends are missin'!"  
-- An annoyed elf man in a baker's apron says, "If I see one more of those gremlins come near my shop, I'm hitting them with a rolling pin. I can't take it!"  
-- A frazzled human woman soothes the toddler in her arms. "It'll be all right," she says. "We just can't play outside after sundown, okay?"  
-- A human man holds up a sketch of an orc woman and yells, "My wife's been missing for days! Do something, you coward! Stop this!"  
+- Eine Halblingfrau beschwert sich: ,,Ich dachte, die Rotbrenner wären schlecht, aber zumindest haben sie nie die Kneipe zerstört. Wer macht so etwas?" 
+- Ein menschlicher Bergarbeiter schreit: „Die Minenbörse stürzt ein und ein paar meiner Freunde werden vermisst!" 
+- Ein verärgerter Elfenmann mit einer Bäckerschürze sagt: ,,Wenn noch einer dieser Kobolde in die Nähe meines Ladens kommt, brate ich ihm eins mit dem Nudelholz über. Ich halte es nicht mehr aus!" 
+- Eine erschöpfte Menschenfrau beruhigt ein Kleinkind in ihren Armen. ,,Alles wird gut", sagt sie. ,,Nach Sonnenuntergang können wir einfach nicht mehr draußen spielen, in Ordnung?" 
+- Ein Mensch hält die Skizze einer Orkfrau hoch und schreit: ,,Meine Frau wird seit Tagen vermisst! Tut etwas, Feigling! Setzt dem ein Ende!" 
 
-When the characters near Harbin's house, the harried townmaster yanks open the door and hurriedly pulls the characters inside. Harbin is frazzled, with flushed cheeks and dark bags heavy beneath his eyes.
+Wenn sich die Charaktere Harbins Haus nähern, reißt der besorgte Bürgermeister die Tür auf und zieht sie eilig hinein. Harbin ist erschöpft. Er hat gerötete Wangen und dunkle Tränensäcke unter den Augen. 
 
-Harbin tells the characters the following:
+$\quad$Harbin erzählt den Charakteren Folgendes: 
 
 > [!readaloud] 
 > 
-> "I understand that they're angry, but do they expect me to take care of everything? I can't take on a gaggle of no-good ruffians by myself. I can't stop anyone who's determined from breaking buildings and stealing things. Absurd!"
+> „Ich verstehe, dass sie wütend sind, aber erwarten sie etwa, dass ich mich um alles kümmere? Ich kann es nicht selbst mit einer Horde nichtsnutziger Raufbolde aufnehmen. Ich kann keine Gruppe aufhalten, die entschlossen ist, Gebäude zu zerstören und Dinge zu stehlen. Absurd!" 
 ^19c
 
-Harbin explains that while the characters have been away, a series of crimes has plagued the town. From eyewitness accounts, the culprits are likely goblins. The crimes have caused unrest among the townsfolk, who demand that Harbin take action to protect Phandalin. Harbin, however, is neither an investigator nor a constable, and he is overwhelmed by the populace's vitriol.
+Harbin erkläft, dass das Dorf in der Abwesenheit der Charaktere von einer Reihe von Verbrechen heimgesucht wurde. Augenzeugen zufolge handelt es sich bei den Tätern wahrscheinlich um Goblins. Die Verbrechen haben zu Unruhen unter den Dörflern geführt, die von Harbin verlangen, Maßnahmen zum Schutz von Phandalin zu ergreifen. Harbin ist jedoch weder Ermittler noch Gesetzeshüter und ist von der Garstigkeit der Bevölkerung überwältigt. 
 
-Harbin asks the characters to investigate the four crime scenes, help the victims as much as possible, and find a way to stop the culprits for good. He claims that he's already tried himself but that he couldn't keep up with the multitude of incidents. However, a successful DC 12 Wisdom ([Insight](/3-Mechanics/CLI/skills.md#Insight)) check reveals that Harbin wants the characters to investigate because he's too frightened to do it himself.
+$\quad$Er bittet die Charaktere, die vier Tatorte zu untersuchen, den Opfern so weit wie möglich zu helfen und einen Weg zu finden, die Täter endgültig zu stoppen. Außerdem behaupteter, es bereits selbst versucht zu haben, er könne jedoch nicht mit den zahlreichen Vorfällen Schritt halten. Ein erfolgreicher `SG-12-Weisheitswurf (Motiv erkennen)` offenbart jedoch, dass Harbin die Nachforschungen den Charakteren aufhalsen will, weil er zu viel Angst hat. 
 
-For the job, Harbin offers the characters 50 gp each up front and promises to pay them another 150 gp each upon completing their investigation. If a character uses Harbin's fear as leverage and succeeds on a DC 11 Charisma ([Intimidation](/3-Mechanics/CLI/skills.md#Intimidation) or [Persuasion](/3-Mechanics/CLI/skills.md#Persuasion)) check, Harbin doubles the monetary reward: 100 gp each up front, and 300 gp each upon the investigation's completion.
+$\quad$Harbin bietet jedem Charakter 50 GM im Voraus an und verspricht, jedem von ihnen nach Abschluss der Ermittlungen weitere 150 GM zu zahlen. Wenn ein Charakter Harbins Angst als Druckmittel nutzt und einen `SG-11-Charismawurf (Einschüchtern oder Überzeugen)` besteht, verdoppelt Harbin die Belohnung: jeweils 100 GM im Voraus und jeweils 300 GM nach Abschluss der Ermittlungen. 
 
-### Crimes and Chaos
+### Verbrechen und Chaos
 
-Harbin describes the crime scenes once the characters accept his quest. The following places can be found on map 2.1 in chapter 2:
+Sobald die Charaktere seine Mission annehmen, beschreibt Harbin die Tatorte. Auf Karte 2.1 in Kapitel 2 sind folgende Orte zu finden:
 
-**Barthen's Well**, behind Barthen's Provisions, where the goblins smashed the well winch before fleeing underground.
+**Barthens Brunnen**, hinter Barthens Proviant: Die Goblins haben die Brunnenwinde zerstört und sind dann unter die Erde geflohen. 
 
-**The Miner's Exchange**, where the goblins stole one of the building's cornerstones, causing the building to tilt.
+**Der Schrein des Glücks**: Die Goblins haben ihn zerstört und entweiht, wodurch Dörfler nun im Innern festsitzen. 
 
-**The Shrine of Luck**, which the goblins destroyed and desecrated, trapping people inside.
+**Die Minenbörse**: Die Goblins haben einen der Ecksteine des Gebäudes gestohlen und das Gebäude zum Kippen gebracht.
 
-**The Sleeping Giant**, where goblins ransacked the bar.
+**Zum schlafenden Riesen**: Die Goblins haben die Schenke geplündert.
 
-The crime scenes are further detailed in the "Stolen Shards" section. The characters can investigate each of these scenes in any order.
+Die Tatorte werden im Abschnitt „Gestohlene Splitter" ausführlicher beschrieben. Die Charaktere können jeden dieser Tatorte in beliebiger Reihenfolge untersuchen. 
 
 #### Mischief in Progress
 
-While the characters are investigating around Phandalin, they may encounter a group of Sawplee goblins committing mischief. Whenever the characters finish investigating one of the crime scenes listed above, roll a `d20` and consult the Goblin Mischief table to see what occurs.
+Während die Charaktere in Phandalin Untersuchungen anstellen, treffen sie möglicherweise auf SägezankGoblins, die dort ihr Unwesen treiben. Immer wenn die Charaktere einen der oben aufgeführten Tatorte untersucht haben, würfle mit einem `W20` und bestimme mithilfe der Tabelle „Goblin-Schabernack", was geschieht. 
 
 **Goblin Mischief**
 

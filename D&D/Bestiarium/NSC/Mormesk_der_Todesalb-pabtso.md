@@ -15,7 +15,7 @@ Image: npc/token/mormesk-the-wraith-pabtso.webp
 *Source: Phandelver and Below: The Shattered Obelisk p. 70*  
 
 ```statblock
-"name": "Mormesk the Wraith (PaBTSO)"
+"name": "Mormesk der Todesalb"
 "size": "Medium"
 "type": "undead"
 "alignment": "Neutral Evil"

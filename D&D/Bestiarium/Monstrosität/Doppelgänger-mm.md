@@ -31,7 +31,7 @@ Doppelgangers work alone or in small groups, with group roles shifting from con 
 Doppelgangers are too lazy or self-interested to raise their young. They assume attractive male forms and seduce women, leaving them to raise their progeny. A doppelganger child appears to be a normal member of its mother's species until it reaches adolescence, at which point it discovers its true nature and is driven to seek out its kind to join them.
 
 ```statblock
-"name": "Doppelganger"
+"name": "Doppelgänger"
 "size": "Medium"
 "type": "monstrosity"
 "subtype": "shapechanger"

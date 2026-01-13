@@ -5,10 +5,10 @@ tags:
 # Recap nach dem Fall von Strahd
 
 ## Kapitel 1
-- Die Gruppe hat einen Auftrag von [[Gundren Felssucher-pabtso|Gundren Steinsucher]] angenommen, in welchem sie ihn in [[3-Mechanics/CLI/adventures/lost-mine-of-phandelver/3-phandalin|Phandalin]] antreffen sollten. Er habe etwas gefunden, vermag jedoch keine genauen Infos zu teilen. Die Gruppe sollte jedoch seinen Karren nach [[3-Mechanics/CLI/adventures/lost-mine-of-phandelver/3-phandalin|Phandalin]] bringen.
-- [[Gundren Felssucher-pabtso|Gundren]] wurde auf dem Weg überfallen und gefangen genommen.
-- Die Gruppe hat nur den Ort des Überfalls gefunden. Von [[Gundren Felssucher-pabtso|Gundren]] war keine Spur.
-- Nach einiger Suche haben die drei Abenteurer den Unterschlupf der Goblins gefunden. Dort gefangen war [[Sildar Hallwinter-pabtso|Sildar Hallwinter]] - Begleiter von [[Gundren Felssucher-pabtso|Gundren]], welche jedoch nach dem Hinterhalt durch die Goblins getrennt wurden.
+- Die Gruppe hat einen Auftrag von [[Gundren_Felssucher-pabtso|Gundren Steinsucher]] angenommen, in welchem sie ihn in [[3-Mechanics/CLI/adventures/lost-mine-of-phandelver/3-phandalin|Phandalin]] antreffen sollten. Er habe etwas gefunden, vermag jedoch keine genauen Infos zu teilen. Die Gruppe sollte jedoch seinen Karren nach [[3-Mechanics/CLI/adventures/lost-mine-of-phandelver/3-phandalin|Phandalin]] bringen.
+- [[Gundren_Felssucher-pabtso|Gundren]] wurde auf dem Weg überfallen und gefangen genommen.
+- Die Gruppe hat nur den Ort des Überfalls gefunden. Von [[Gundren_Felssucher-pabtso|Gundren]] war keine Spur.
+- Nach einiger Suche haben die drei Abenteurer den Unterschlupf der Goblins gefunden. Dort gefangen war [[Sildar Hallwinter-pabtso|Sildar Hallwinter]] - Begleiter von [[Gundren_Felssucher-pabtso|Gundren]], welche jedoch nach dem Hinterhalt durch die Goblins getrennt wurden.
 - Im Goblinlager haben sie auch diverse Schweine gefunden, welche wahrscheinlich als Nahrung gehalten wurden. Astor konnte nicht anders und hat sie befreit - eines davon begleitet die Gruppe bis zum heutigen Tag.
 
 ## Kapitel 2

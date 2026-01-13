@@ -154,7 +154,7 @@ Strahd tritt den Charakteren in der Kapelle gegenüber (Bereich K15).
 - [Quasit](D&D/05%20-%20Wikipedia/Bestiarium/Q-R/Quasit.md)
 - [Rahadin](D&D/04%20-%20Kampagnen/00.%20NPCs/Rahadin.md)
 - [Schreckgespenst-old](Schreckgespenst-old.md)
-- [Schreckenswolf](Schreckenswolf.md)
+- [Schreckenswolf-mm](Schreckenswolf-mm.md)
 - [Todesslaad](Slaad-Tod.md)
 - [(Bern-)Steingolem](Steingolem.md)
 - [Vampirbrut](D&D/05%20-%20Wikipedia/Bestiarium/U-V/Vampirbrut.md)

@@ -16,7 +16,7 @@ aliases:
 *Source: Monster Manual p. 326. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 ```statblock
-"name": "Giant Octopus"
+"name": "Riesenoktopus"
 "size": "Large"
 "type": "beast"
 "alignment": "Unaligned"

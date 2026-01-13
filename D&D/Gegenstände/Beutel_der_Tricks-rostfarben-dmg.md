@@ -29,7 +29,7 @@ $\quad$Die Kreatur ist freundlich zu dir und deinen Begleitern, und sie agiert z
 | 5 | [Riesenziege](Riesenziege.md) |
 | 6 | [Rieseneber](Riesenwildschwein.md) |
 | 7 | [Löwe](D&D/05%20-%20Wikipedia/Bestiarium/K-L/Löwe.md) |
-| 8 | [Braunbär](Braunbär.md) |
+| 8 | [Braunbär-mm](Braunbär-mm.md) |
 ^creature
 
 *Quelle: SRD / Grundregelwerk*

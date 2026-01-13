@@ -18,26 +18,26 @@ statblock-link: "#^statblock"
 aliases:
   - Stirge
 ---
-# [Stirge](3-Mechanics\CLI\bestiary\beast/stirge.md)
-*Source: Monster Manual p. 284. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+# Blutmücke
+*Quelle: Monsterhandbuch S. 284. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*  
 
-This horrid flying creature looks like a cross between a large bat and an oversized mosquito. Its legs end in sharp pincers, and its long, needle-like proboscis slashes the air as it seeks its next meal.
+Diese grässlichen Kreaturen sehen aus wie eine Mischung aus einer großen Fledermaus und einem übergroßen Moskito. Ihre Beine enden in scharfen Zangen, und ihr langer, nadelartiger Saugrüssel zischt durch die Luft, wenn sie ihre nächste Mahlzeit sucht.
 
-Stirges feed on the blood of living creatures, attaching and draining them slowly. Although they pose little danger in small numbers, packs of stirges can be a formidable threat, reattaching as quickly as their weakening prey can pluck them off.
+$\quad$Blutmücken ernähren sich vom Blut lebender Kreaturen, indem sie sich an ihnen anheften und sie langsam aussaugen. Auch wenn sie kleiner Zahl nicht besonders gefährlich sind, können große Rudel von Blutmücken eine beträchtliche Bedrohung darstellen, da sie sich so schnell anhaften, wie ihre schwächer werdende Beute sie abreißen kann.
 
-## Blood Drain
+## Blut aussaugen
 
-A stirge attacks by landing on a victim, finding a vulnerable spot, and plunging its proboscis into the flesh while using its pincer legs to latch on to the victim. Once the stirge has sated itself, it detaches and flies off to digest its meal.
+Eine Blutmücke greift an, indem sie auf dem Opfer landet, einen verwundbaren Punkt' findet und den Saugrüssel ins Fleisch versenkt, während sie ihre scherenartigen Beine nutzt, um sich am Opfer festzukrallen. Sobald die Blutmücke satt ist, löst sie sich und fliegt davon, um ihre Mahlzeit zu verdauen.
 
 ```statblock
 name: Blutmücke
 image: token/stirge.webp
 source: Monsterhandbuch 2014
 size: Winzig
-type: Bestie
+type: Tier
 alignment: gesinnungslos
 ac: !!int "14"
-ac_class: "natural armor"
+ac_class: "natürliche Rüstung"
 hp: !!int "2"
 hit_dice: "1d4"
 modifier: !!int "3"
@@ -53,11 +53,11 @@ senses: "Dunkelsicht 18 Meter, passive Wahrnehmung 9"
 languages: 
 cr: "1/8"
 actions:
-  - name: "Blutabsaugung"
-    desc: "Nahkampf Waffenangriff +5 zum Treffen, Reichweite 1,5 m, ein Ziel. Treffer: 5 (lW4 + 3) Wuchtschaden, und die Blutmücke heftet sich an das Ziel an. Solange die Blutmücke angeheftet ist, greift sie nicht an. Stattdessen verliert das Ziel zu Beginn eines jeden Zugs der Blutmücke 5 (1W4 +3) Trefferpunkte aufgrund des Blutverlu sts. \n\n Die Blutmücke kann sich lösen, indem sie 1,5 m ihrer Bewegung verwendet. Das tut sie, nachdem sie 10 Trefferpunkte an Blut ausgesaugt hat oder wenn das Ziel stirbt. Eine Kreatur, auch das Ziel, kann eine Aktion verwenden, um die Blutmücke zu lösen."
+  - name: "Blut aussaugen"
+    desc: "*Nahkampf-Waffenangriff:* +5 zum Treffen, Reichweite 1,5 m, ein Ziel. *Treffer:* 5 (1d4 +3) Wuchtschaden, und die Blutmücke heftet sich an das Ziel an. Solange die Blutmücke angeheftet ist, greift sie nicht an. Stattdessen verliert das Ziel zu Beginn eines jeden Zugs der Blutmücke 5 (1W4 +3) Trefferpunkte aufgrund des Blutverlusts. \n\n Die Blutmücke kann sich lösen, indem sie 1,5 m ihrer Bewegung verwendet. Das tut sie, nachdem sie 10 Trefferpunkte an Blut ausgesaugt hat oder wenn das Ziel stirbt. Eine Kreatur, auch das Ziel, kann eine Aktion verwenden, um die Blutmücke zu lösen."
 ```
 ^statblock
 
-## Environment
+## Vorkommen
 
-grassland, forest, swamp, hill, urban, desert, coastal, mountain, underdark
+Berg, Grasland, Hügel, Küste, Stadt, Sumpf, Unterreich, Wald, Wüste

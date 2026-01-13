@@ -38,7 +38,7 @@ Like any beholder, a spectator views itself as the epitome of its kind, and it h
 When a spectator has fulfilled its service, it is free to do as it pleases. Many take up residence in the places they previously guarded, especially if their summoners have died. With the spectator's loss of purpose, the flickers of madness it displayed during its servitude flourish.
 
 ```statblock
-"name": "Spectator"
+"name": "Beobachter"
 "size": "Medium"
 "type": "aberration"
 "alignment": "Lawful Neutral"

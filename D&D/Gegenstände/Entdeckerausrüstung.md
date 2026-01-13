@@ -1,8 +1,5 @@
 ---
 Bezeichnung: Entdeckerausrüstung
----
-(/3-Mechanics/CLI/items/leather-armor.md---
-Bezeichnung: Entdeckerausrüstung
 Typ: Ausrüstungspaket
 Eigenschaften: n/v
 Gew.: 29,5 kg

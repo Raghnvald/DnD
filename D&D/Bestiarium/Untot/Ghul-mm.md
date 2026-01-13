@@ -24,22 +24,22 @@ statblock-link: "#^statblock"
 aliases:
   - Ghoul
 ---
-# [Ghoul](3-Mechanics\CLI\bestiary\undead/ghoul.md)
+# Ghul
 *Source: Monster Manual p. 148. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
-Ghouls roam the night in packs, driven by an insatiable hunger for humanoid flesh.
+Ghule streifen in Rudeln durch die Nacht, angetrieben von einem unstillbaren Hunger nach dem Fleisch von Humanoiden.
 
-## Devourers of Flesh
+## Verschlinger des Fleisches 
 
-Like maggots or carrion beetles, ghouls thrive in places rank with decay and death. A ghoul haunts a place where it can gorge on dead flesh and decomposing organs. When it can't feed on the dead, it pursues living creatures and attempts to make corpses of them. Though they gain no nourishment from the corpses they devour, ghouls are driven by an unending hunger that compels them to consume. A ghoul's undead flesh never rots, and this monster can persist in a crypt or tomb for untold ages without feeding.
+Wie Maden oder Aaskäfer gedeihen Ghule an Orten des Verfalls und Todes. Ghule suchen Orte heim, wo sie sich mit totem Fleisch und verwesenden Organen mästen können. Wenn sie nicht das Fleisch der Toten verschlingen können, verfolgen sie lebende Kreaturen und versuchen, sie zu Leichen zu machen. Auch wenn sie von den Leichen, die sie verschlingen, nicht ernährt werden, sind Ghule doch von einem endlosen Hunger angetrieben, der sie antreibt, weiter zu fressen. Das untote Fleisch eines Ghuls verwest niemals, und das Monster kann für unzählige Zeitalter in einer Gruft überleben, ohne zu fressen.
 
-## Abyssal Origins
+## Abyssische Herkunft
 
-Ghouls trace their origins to the Abyss. Doresain, the first of their kind, was an elf worshiper of Orcus. Turning against his own people, he feasted on humanoid flesh to honor the Demon Prince of Undeath. As a reward for his service, Orcus transformed Doresain into the first ghoul. Doresain served Orcus faithfully in the Abyss, creating ghouls from the demon lord's other servants until an incursion by Yeenoghu, the demonic Gnoll Lord, robbed Doresain of his abyssal domain. When Orcus would not intervene on his behalf, Doresain turned to the elf gods for salvation, and they took pity on him and helped him escape certain destruction. Since then, elves have been immune to the ghouls' paralytic touch.
+Ghuls stammen aus dem Abyss. Doresain, der erste ihrer Art, war ein elfischer Anhänger des Orcus. Er wandte sich gegen sein Volk und verzehrte das Fleisch von Humanoiden, um den Dämonenprinz des Untodes zu ehren. Als Belohnung für seine Dienste verwandelte Orcus Doresain in den ersten Ghul. Doresain diente Orcus treu im Abyss und erschuf Ghule aus den anderen Dienern des Dämonenfürsten, bis eine Invasion von Yeenoghu, dem dämonischen Gnollfürsten, Doresain seine abyssische Domäne kostete. Als Orcus nicht für ihn eingreifen wollte, wandte sich Doresain an die elfischen Götter und bat um Hilfe. Sie hatten Mitleid mit ihm und halfen ihm dabei, der sicheren Zerstörung zu entkommen. Seitdem sind Elfen immun gegen die lähmende Berührung der Ghule.
 
-## Ghasts
+## Grule
 
-Orcus sometimes infuses a ghoul with a stronger dose of abyssal energy, making a ghast. Whereas ghouls are little more than savage beasts, a ghast is cunning and can inspire a pack of ghouls to follow its commands.
+Orcus erfüllt einen Ghul manchmal mit einer größeren Dosis abyssischer Energie, um einen Grul zu erschaffen. Wo Ghule kaum mehr als wilde Bestien sind, sind Grule gerissen und können ein Rudel von Ghulen dazu bringen, ihren Befehlen zu folgen.
 
 ```statblock
 name: Ghul
@@ -67,7 +67,7 @@ languages: "Gemeinsprache"
 cr: "1"
 actions:
   - name: Biss
-    desc: "Nahkampfwaffenangriff: +2 auf Treffer, Reichweite 1,5 m, eine Kreatur. Treffer: 9 (`2W6+2`) Stichschaden."
+    desc: "*Nahkampf-Waffenangriff:* +2 auf Treffer, Reichweite 1,5 m, eine Kreatur. *Treffer:* 9 (2d6 +2) Stichschaden."
   - name: Klauen
     desc: "Nahkampfwaffenangriff: +4 auf Treffer, Reichweite 1,5 m, ein Ziel. Treffer: 7 (`2W4+2`) Hiebschaden. Falls das Ziel eine Kreatur ist, aber kein Elf oder Untoter, muss es einen Konstitutions-Rettungswurf (SG 10) bestehen, um nicht eine Minute lang gelähmt zu werden. Das Ziel kann den Rettungswurf am Ende jedes seiner Züge wiederholen und den Effekt bei einem Erfolg beenden."
 ```

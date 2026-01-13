@@ -26,7 +26,7 @@ Die Spinne sucht die Wellenhallhöhle wegen der Zauberschmiede, die in alten Zei
 Die Spinne will die Wellenhallhöhle für sich selbst und unternimmt alles, damit niemand sonst erfährt, wo diese sich befindet.
 
 ```statblock
-name: Nezznar die Schwarze Spinne (PaBTSO)
+name: Nezznar die Schwarze Spinne
 size: Mittelgroß
 type: Humanoid
 subtype: Elf, Magier

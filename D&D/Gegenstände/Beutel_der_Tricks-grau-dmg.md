@@ -26,10 +26,10 @@ $\quad$Die Kreatur ist freundlich zu dir und deinen Begleitern, und sie agiert z
 |----------|----------|
 | 1 | [Wiesel](D&D/05%20-%20Wikipedia/Bestiarium/W-X/Wiesel.md) |
 | 2 | [Riesenratte](Riesenratte.md) |
-| 3 | [Dachs](Dachs.md) |
+| 3 | [Dachs-mm](Dachs-mm.md) |
 | 4 | [Eber](D&D/05%20-%20Wikipedia/Bestiarium/W-X/Wildschwein.md) |
 | 5 | [Panther](D&D/05%20-%20Wikipedia/Bestiarium/O-P/Panther.md) |
 | 6 | [Riesendachs](Riesendachs.md) |
-| 7 | [Schreckenswolf](Schreckenswolf.md) |
+| 7 | [Schreckenswolf-mm](Schreckenswolf-mm.md) |
 | 8 | [Riesenelch](../Bestiarium/Bestien/giant-elk.md) |
 ^creature
