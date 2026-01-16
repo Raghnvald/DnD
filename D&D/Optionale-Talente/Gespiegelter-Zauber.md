@@ -13,4 +13,4 @@ Wenn du einen Zauber wirkst, der nur eine Kreatur und nicht die Reichweite „Se
 
 Um den Zauber mit dieser Option wirken zu
 können, darf er auf dem aktuellen Grad nicht mehr
-als eine Kreatur zum Ziel haben. [[Magische Geschosse]] und [S[engender Strahl]] sind zum Beispiel nicht geeignet, [[Kältestrahl]]  jedoch schon.
+als eine Kreatur zum Ziel haben. [[Magische Geschosse]] und [S[engender Strahl]] sind zum Beispiel nicht geeignet, [[Kältestrahl-old]]  jedoch schon.

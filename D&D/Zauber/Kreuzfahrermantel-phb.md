@@ -1,7 +1,7 @@
 ---
 cssclasses:
   - json5e-spell
-Bezeichnung: "Crusader's Mantle"
+Bezeichnung: Crusader's Mantle
 Zaubergrad: 3
 tags:
   - Klasse/Barde/Magische-Geheimnisse
@@ -15,9 +15,8 @@ classes:
   - Cleric (War Domain)
   - Paladin
 aliases:
-  - "Crusader's Mantle"
   - Crusader's Mantle
-linter-yaml-title-alias: "Crusader's Mantle"
+linter-yaml-title-alias: Crusader's Mantle
 obsidianUIMode: preview
 ---
 # Crusader's Mantle

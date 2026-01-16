@@ -1,7 +1,7 @@
 ---
 cssclasses:
   - json5e-spell
-Bezeichnung: "Tasha's Bubbling Cauldron"
+Bezeichnung: Tasha's Bubbling Cauldron
 tags:
   - Klasse/Barde
   - Klasse/Hexenmeister
@@ -14,9 +14,8 @@ classes:
   - Warlock
   - Wizard
 aliases:
-  - "Tasha's Bubbling Cauldron"
   - Tasha's Bubbling Cauldron
-linter-yaml-title-alias: "Tasha's Bubbling Cauldron"
+linter-yaml-title-alias: Tasha's Bubbling Cauldron
 ---
 # Tasha's Bubbling Cauldron
 *6th-level, Conjuration*  

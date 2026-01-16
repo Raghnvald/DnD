@@ -37,4 +37,4 @@ Wenn du diese Rüstung trägst, erhältst du einen Bonus von +1 auf deine RK und
 
 ## Fluch
 
-Nachdem du diese verfluchte Rüstung angelegt hast, kannst du sie nur wieder ablegen, wenn du das Ziel des Zaubers [[Fluch_brechen]] oder ähnlicher Magie wirst. Wenn du die Rüstung trägst, bist du bei Angriffswürfen gegen Dämonen und bei Rettungswürfen gegen ihre Zauber.
+Nachdem du diese verfluchte Rüstung angelegt hast, kannst du sie nur wieder ablegen, wenn du das Ziel des Zaubers [[Fluch_brechen-old]] oder ähnlicher Magie wirst. Wenn du die Rüstung trägst, bist du bei Angriffswürfen gegen Dämonen und bei Rettungswürfen gegen ihre Zauber.

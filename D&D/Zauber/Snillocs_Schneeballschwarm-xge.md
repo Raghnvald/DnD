@@ -28,7 +28,6 @@ classes:
   - Wizard (Evoker)
 aliases:
   - Snilloc's Snowball Swarm
-  - Snilloc's Snowball Swarm
 linter-yaml-title-alias: Snilloc's Snowball Swarm
 ---
 # Snillocs Schneeballschwarm

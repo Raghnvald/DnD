@@ -1,0 +1,35 @@
+model:
+  version: 1
+  kind: Table
+  columns: []
+pluginVersion: 1.0.0
+filters:
+  and:
+    - file.fullname.endsWith(".md")
+views:
+  - type: table
+    name: Bestiariumsübersicht
+    filters:
+      or:
+        - file.folder == "D&D/Bestiarium/Aberration"
+        - file.folder == "D&D/Bestiarium/Celestisch"
+        - file.folder == "D&D/Bestiarium/Drache"
+        - file.folder == "D&D/Bestiarium/Elementar"
+        - file.folder == "D&D/Bestiarium/Feenwesen"
+        - file.folder == "D&D/Bestiarium/Humanoid"
+        - file.folder == "D&D/Bestiarium/Konstrukt"
+        - file.folder == "D&D/Bestiarium/Legendäre-Gruppe"
+        - file.folder == "D&D/Bestiarium/Monstrosität"
+        - file.folder == "D&D/Bestiarium/NSC"
+        - file.folder == "D&D/Bestiarium/Pflanze"
+        - file.folder == "D&D/Bestiarium/Riese"
+        - file.folder == "D&D/Bestiarium/Schleim"
+        - file.folder == "D&D/Bestiarium/Tier"
+        - file.folder == "D&D/Bestiarium/Unhold"
+        - file.folder == "D&D/Bestiarium/Untot"
+    order:
+      - file.name
+      - aliases
+    sort:
+      - property: aliases
+        direction: ASC

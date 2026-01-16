@@ -17,7 +17,7 @@ The characters start this chapter knowing that a trio of mind flayers are prepar
 
 If you decide that the characters are too easily vanquishing this adventure's challenges, you could decide that the fanatics' ritual is nearly complete, urging the characters to press ahead without resting and resupplying. If this adventure's threats have significantly challenged the characters, you could tell them they have a comfortable amount of time before the fanatics can finish their ritual, and the heroes can rest and resupply as needed. Either option is viable.
 
-The characters' best option is to return to Phandalin and share what they've discovered with a knowledgeable ally, such as [Gwyn Oresong](Gwyn%20Oresong-pabtso.md) or [Rivibiddel](3-Mechanics/CLI/bestiary/npc/rivibiddel-pabtso.md).
+The characters' best option is to return to Phandalin and share what they've discovered with a knowledgeable ally, such as [Gwyn Oresong](Gwyn_Erzsang-pabtso.md) or [Rivibiddel](3-Mechanics/CLI/bestiary/npc/rivibiddel-pabtso.md).
 
 Shortly after returning to Phandalin, the characters discover a passage beneath the town that leads into the Underdark and to Illithinoch. They set off through the Underdark to reach the deteriorating mind flayer stronghold of Illithinoch, facing threats along the way. In Illithinoch, the characters learn that the mind flayer fanatics already escaped through a gateway into the Far Realm. To pursue them, the characters must explore three Far Realm rifts scattered around Illithinoch and collect keys to open the gateway.
 
@@ -53,7 +53,7 @@ The townspeople in the crowd quickly back away, leaving the characters to handle
 
 Once the fight ends, the townspeople restrain any surviving members of the trio so they can't do more harm. The townspeople promise to keep the infected villagers safe until some cure can be found. (They don't know that the only cure is defeating the mind flayer fanatics.)
 
-Once the chaos from the infected townspeople has died down, [Gwyn Oresong](Gwyn%20Oresong-pabtso.md) rushes up with Grista, owner of the Sleeping Giant, with an important lead:
+Once the chaos from the infected townspeople has died down, [Gwyn Oresong](Gwyn_Erzsang-pabtso.md) rushes up with Grista, owner of the Sleeping Giant, with an important lead:
 
 > [!readaloud] 
 > 
@@ -184,7 +184,7 @@ The ornate bookplate bears the name "Thorgran Ironquill, Historian." Only the fi
 
 ##### Treasure
 
-On its own, the bookplate is worth 450 gp. Both [Gwyn Oresong](Gwyn%20Oresong-pabtso.md) and [Rivibiddel](3-Mechanics/CLI/bestiary/npc/rivibiddel-pabtso.md) consider the journal a remarkable find, as it indicates Thorgran survived the creation of his tomb to make this excursion. Either of these scholars can arrange a payment of 900 gp for the bookplate and attached pages, given time to contact distant patrons.
+On its own, the bookplate is worth 450 gp. Both [Gwyn Oresong](Gwyn_Erzsang-pabtso.md) and [Rivibiddel](3-Mechanics/CLI/bestiary/npc/rivibiddel-pabtso.md) consider the journal a remarkable find, as it indicates Thorgran survived the creation of his tomb to make this excursion. Either of these scholars can arrange a payment of 900 gp for the bookplate and attached pages, given time to contact distant patrons.
 
 #### J3: Grell Lair
 

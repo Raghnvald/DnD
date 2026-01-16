@@ -31,7 +31,7 @@ Ein Eidbrecher-Paladin verliert seine bisherigen Schwurzauber und erhält stattd
 | --- | --- |
 | 3 | [[Höllischer_Tadel-phb]], [[Wunden verursachen]] |
 | 5 | [[Krone des Wahnsinns]], [[Dunkelheit-phb]] |
-| 9 | [[Tote beleben]], [[Fluch]] |
+| 9 | [[Tote beleben]], [[Fluch-old]] |
 | 13 | [[Dürre]], [[Verwirrung]] |
 | 17 | [[Ansteckung]], [[Person beherrschen]] |
 ^oathbreaker-spells

@@ -36,7 +36,6 @@ classes:
   - Sorcerer
   - Wizard
 aliases:
-  - Magie entdecken
   - Detect Magic
 linter-yaml-title-alias: Magie entdecken
 ---

@@ -34,7 +34,6 @@ classes:
   - Wizard
   - Wizard (Evoker)
 aliases:
-  - Dröhnende Klinge
   - Booming Blade
 linter-yaml-title-alias: Dröhnende Klinge
 ---

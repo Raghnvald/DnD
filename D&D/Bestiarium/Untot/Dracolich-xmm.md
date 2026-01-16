@@ -1,21 +1,17 @@
 ---
+obsidianUIMode: preview
 cssclasses:
-  - json5e-monster
+- json5e-monster
 tags:
-  - Quelle/5e/xmm
-  - Monster/HG/17
-  - Monster/Habitat/Jedes
-  - Monster/Größe/unknown
-  - Monster/Typ/Untote
+- ttrpg-cli/compendium/src/5e/xmm
+- ttrpg-cli/monster/cr/17
+- ttrpg-cli/monster/environment/any
+- ttrpg-cli/monster/size/unknown
+- ttrpg-cli/monster/type/undead
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-  - Dracolich
-Typ: Untoter
-Größe: Riesig
-HG: 17
-Habitat:
-  - Jedes
+- Dracolich
 ---
 # [Dracolich](3-Mechanics\CLI\bestiary\undead/dracolich-xmm.md)
 *Source: Monster Manual (2024) p. 102*  
@@ -34,6 +30,8 @@ Dracoliches combine the corrupt immortality of the undead with the legendary pow
 There are untold profane routes by which a dragon might become a dracolich. However one is created, a dracolich chooses a gem that becomes the anchor for its spirit and binds the deathless dragon to the world. So long as a dracolich is on the same plane of existence as its soul gem, the dracolich can survive the destruction of its physical body. Its spirit retreats into the gem if the dracolich's body is destroyed, and the monster might one day regain its terrifying form. Dracoliches often sequester their soul gems within meaningful treasure from their hoard or in unassuming baubles. Roll on or choose a result from the Dracolich Soul Gem Vessels table to inspire what holds a dracolich's soul gem.
 
 **Dracolich Soul Gem Vessels**
+
+`dice: [](dracolich-xmm.md#^dracolich-soul-gem-vessels)`
 
 | dice: 1d10 | A Dracolich's Soul Gem Is Hidden In... |
 |------------|----------------------------------------|

@@ -10,4 +10,4 @@ _Quellen:_ Spielerhandbuch
 
 **_Voraussetzung_**: 9. Stufe
 
-Du kannst [[Schweben]] beliebig oft auf dich selbst wirken, ohne dafür einen Zauberplatz oder Materialkomponenten verbrauchen zu müssen
+Du kannst [[Schweben-old]] beliebig oft auf dich selbst wirken, ohne dafür einen Zauberplatz oder Materialkomponenten verbrauchen zu müssen

@@ -1,7 +1,7 @@
 ---
 cssclasses:
   - json5e-spell
-Bezeichnung: "Rary's Telepathic Bond"
+Bezeichnung: Rary's Telepathic Bond
 Zaubergrad: 5
 tags:
   - Klasse/Barde/Magische-Geheimnisse
@@ -14,9 +14,8 @@ classes:
   - Bard (Magical Secrets)
   - Wizard
 aliases:
-  - "Rary's Telepathic Bond"
   - Rary's Telepathic Bond
-linter-yaml-title-alias: "Rary's Telepathic Bond"
+linter-yaml-title-alias: Rary's Telepathic Bond
 obsidianUIMode: preview
 ---
 # Rary's Telepathic Bond

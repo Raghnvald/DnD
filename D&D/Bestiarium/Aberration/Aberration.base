@@ -13,3 +13,18 @@ views:
     image: note.Image
     imageFit: contain
     cardSize: 130
+  - type: table
+    name: Aberrationen 2
+    filters:
+      and:
+        - file.folder == "D&D/Bestiarium/Aberration"
+        - file.ext == "md"
+    order:
+      - file.name
+      - aliases
+    sort:
+      - property: aliases
+        direction: ASC
+    image: note.Image
+    imageFit: contain
+    cardSize: 130

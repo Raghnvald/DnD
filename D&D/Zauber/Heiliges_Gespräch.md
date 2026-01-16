@@ -8,7 +8,6 @@ tags:
   - Zauber/Ritual
   - Zauber/Schule/Erkenntnis
 aliases:
-  - Heiliges Gespräch
   - Commune
 linter-yaml-title-alias: Heiliges Gespräch
 ---

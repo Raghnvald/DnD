@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- Quelle/5e/phb
+- ttrpg-cli/compendium/src/5e/phb
 aliases:
 - Coinage; Standard Exchange Rates
 ---

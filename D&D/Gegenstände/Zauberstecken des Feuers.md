@@ -36,6 +36,6 @@ _Quellen:_ Spielleiterhandbuch
 
 Du hast Resistenz gegen Feuerschaden, während du diesen Zauberstecken hältst.
 
-$\quad$Der Zauberstecken hat 10 Ladungen. Während du ihn hältst, kannst du eine Aktion verwenden, um 1 oder mehrere seiner Ladungen zu verbrauchen und mit ihm einen der folgenden Zauber zu wirken, der deinen `Zauberrettungswurf-SG` benutzt: [[Brennende-Hände]] (1 Ladung), [[Feuerball-phb]] (3 Ladungen) oder [[Feuerwand]] (4 Ladungen).
+$\quad$Der Zauberstecken hat 10 Ladungen. Während du ihn hältst, kannst du eine Aktion verwenden, um 1 oder mehrere seiner Ladungen zu verbrauchen und mit ihm einen der folgenden Zauber zu wirken, der deinen `Zauberrettungswurf-SG` benutzt: [[Brennende-Hände]] (1 Ladung), [[Feuerball-phb]] (3 Ladungen) oder [[Feuerwand-old]] (4 Ladungen).
 
 $\quad$Der Zauberstecken erhält zu jeder Morgendämmerung `1W6 + 4` verbrauchte Ladungen zurück. Wenn du die letzte Ladung verbrauchst, wirf einen `W20`. Bei einer 1 wird der Zauberstecken schwarz, zerbröselt zu Asche und ist zerstört.

@@ -22,7 +22,6 @@ classes:
   - Wizard
 aliases:
   - Raulothim's Psychic Lance
-  - Raulothim's Psychic Lance
 linter-yaml-title-alias: Raulothim's Psychic Lance
 ---
 # Raulothim's Psychic Lance

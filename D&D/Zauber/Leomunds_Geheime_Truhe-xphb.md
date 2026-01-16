@@ -19,7 +19,6 @@ classes:
   - Wizard
 aliases:
   - Leomund's Secret Chest
-  - Leomund's Secret Chest
 linter-yaml-title-alias: Leomund's Secret Chest
 ---
 # Leomund's Secret Chest

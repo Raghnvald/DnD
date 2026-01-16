@@ -49,9 +49,9 @@ Auf den angegebenen Paladinstufen erhältst du die folgenden Schwurzauber.
 
 | Paladinstufe | Zauber |
 | --- | --- |
-| 3 | [[D&D/Zauber/Heiligtum]], [[Schutz_vor_Gut_und_Böse]] |
+| 3 | [[Heiligtum-old]], [[Schutz_vor_Gut_und_Böse-old]] |
 | 5 | [[Schwache Genesung]], [[Zone der Wahrheit]] |
-| 9 | [[Leuchtfeuer_der_Hoffnung-phb]], [[Magie_bannen]] |
+| 9 | [[Leuchtfeuer_der_Hoffnung-phb]], [[Magie_bannen-old]] |
 | 13 | [[Bewegungsfreiheit]], [[Hüter des Glaubens]] |
 | 17 | [[Heiliges_Gespräch]], [[Flammenschlag-phb]] |
 ^oath-of-devotion-spells
@@ -76,7 +76,7 @@ Beginnend mit Stufe 7 können du und verbündete Kreaturen innerhalb von 3 m nic
 Auf der 18. Stufe erhöht sich der Radius der Aura auf 9 m.
 
 ### Reinheit des Geistes (Stufe 15)
-Ab der 15. Stufe stehst du dauerhaft unter den Effekten des Zaubers [[Schutz_vor_Gut_und_Böse]].
+Ab der 15. Stufe stehst du dauerhaft unter den Effekten des Zaubers [[Schutz_vor_Gut_und_Böse-old]].
 
 ### Heiliger Nimbus (Level 20)
 Als Aktion kannst du dich ab der 20. Stufe mit einer Aura des Lichts umgeben. Für 1 Minute strahlst du in einem Radius von 9 m helles Licht aus und in weiteren 9 m dämmriges Licht.

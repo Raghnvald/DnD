@@ -1,11 +1,12 @@
 ---
+obsidianUIMode: preview
 cssclasses:
-  - json5e-note
+- json5e-note
 tags:
-  - Quelle/5e/xmm
-  - Monster/legendary-group
+- ttrpg-cli/compendium/src/5e/xmm
+- ttrpg-cli/monster/legendary-group
 aliases:
-  - Aboleth
+- Aboleth
 ---
 # Aboleth
 

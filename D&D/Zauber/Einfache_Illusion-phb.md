@@ -33,7 +33,6 @@ classes:
   - Wizard
   - Wizard (School of Illusion)
 aliases:
-  - Einfache Illusion
   - Minor Illusion
 linter-yaml-title-alias: Einfache Illusion
 ---

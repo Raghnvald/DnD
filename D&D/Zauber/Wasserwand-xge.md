@@ -29,7 +29,7 @@ classes:
   - Wizard
   - Wizard (Evoker)
 aliases:
-  - Wasserwand
+  - Wall of Water
 linter-yaml-title-alias: Wasserwand
 ---
 # Wasserwand

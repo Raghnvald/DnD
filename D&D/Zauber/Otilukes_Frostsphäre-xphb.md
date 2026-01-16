@@ -1,7 +1,7 @@
 ---
 cssclasses:
   - json5e-spell
-Bezeichnung: "Otiluke's Freezing Sphere"
+Bezeichnung: Otiluke's Freezing Sphere
 tags:
   - Klasse/Barde
   - Klasse/Magier
@@ -16,9 +16,8 @@ classes:
   - Wizard
   - Wizard (Evoker)
 aliases:
-  - "Otiluke's Freezing Sphere"
   - Otiluke's Freezing Sphere
-linter-yaml-title-alias: "Otiluke's Freezing Sphere"
+linter-yaml-title-alias: Otiluke's Freezing Sphere
 ---
 # Otiluke's Freezing Sphere
 *6th-level, Evocation*  

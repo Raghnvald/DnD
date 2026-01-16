@@ -1,11 +1,12 @@
 ---
+obsidianUIMode: preview
 cssclasses:
-  - json5e-note
+- json5e-note
 tags:
-  - Quelle/5e/mpmm
-  - Monster/legendary-group
+- ttrpg-cli/compendium/src/5e/mpmm
+- ttrpg-cli/monster/legendary-group
 aliases:
-  - Baphomet
+- Baphomet
 ---
 # Baphomet
 
@@ -27,4 +28,4 @@ The region containing Baphomet's lair is warped by his magic, creating one or mo
 - **Hedge Mazes.** Plant life within 1 mile of the lair grows thick and forms walls of trees, hedges, and other flora in the form of small mazes.  
 - **Panicked Beasts.** Beasts within 1 mile of the lair become [frightened](/3-Mechanics/CLI/conditions.md#Frightened) and disoriented, as though constantly under threat of being hunted, and might lash out or panic even when no visible threat is nearby.  
 
-If Baphomet dies, these effects fade over the course of `1d10` days.
+If Baphomet dies, these effects fade over the course of `dice:1d10|noform|noparens|avg` (`1d10`) days.

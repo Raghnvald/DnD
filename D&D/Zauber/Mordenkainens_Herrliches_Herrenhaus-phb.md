@@ -1,7 +1,7 @@
 ---
 cssclasses:
   - json5e-spell
-Bezeichnung: "Mordenkainen's Magnificent Mansion"
+Bezeichnung: Mordenkainen's Magnificent Mansion
 Zaubergrad: 7
 tags:
   - Klasse/Barde/Magische-Geheimnisse
@@ -13,9 +13,8 @@ classes:
   - Bard (Magical Secrets)
   - Wizard
 aliases:
-  - "Mordenkainen's Magnificent Mansion"
   - Mordenkainen's Magnificent Mansion
-linter-yaml-title-alias: "Mordenkainen's Magnificent Mansion"
+linter-yaml-title-alias: Mordenkainen's Magnificent Mansion
 obsidianUIMode: preview
 ---
 # Mordenkainen's Magnificent Mansion

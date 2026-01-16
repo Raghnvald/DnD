@@ -27,7 +27,6 @@ classes:
   - Schurke (Arkaner Betrüger)
   - Zauberer
 aliases:
-  - Gestalt verändern
   - Alter Self
 linter-yaml-title-alias: Gestalt verändern
 ---

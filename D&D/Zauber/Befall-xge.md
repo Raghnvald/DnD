@@ -35,7 +35,6 @@ classes:
   - Warlock
   - Wizard
 aliases:
-  - Befall
   - Infestation
 linter-yaml-title-alias: Befall
 ---

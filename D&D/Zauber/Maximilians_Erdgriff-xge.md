@@ -25,7 +25,6 @@ classes:
   - Wizard
 aliases:
   - Maximilian's Earthen Grasp
-  - Maximilian's Earthen Grasp
 linter-yaml-title-alias: Maximilian's Earthen Grasp
 ---
 # Maximilian's Earthen Grasp

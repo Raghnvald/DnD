@@ -1,11 +1,12 @@
 ---
+obsidianUIMode: preview
 cssclasses:
-  - json5e-note
+- json5e-note
 tags:
-  - Quelle/5e/ftd
-  - Monster/legendary-group
+- ttrpg-cli/compendium/src/5e/ftd
+- ttrpg-cli/monster/legendary-group
 aliases:
-  - Faerie Dragon
+- Faerie Dragon
 ---
 # Faerie Dragon
 
@@ -26,4 +27,4 @@ The region containing a faerie dragon's lair can be transformed by its presence,
 - **Malleable Time.** Time is fluid within 1 mile of the faerie dragon's lair, flowing somewhere between half and twice its normal speed.  
 - **Mischief Afoot.** Sapient creatures that spend a year within 5 miles of the faerie dragon's lair feel the persistent urge to play pranks on others.  
 
-If the faerie dragon dies, these effects fade over the course of `1d10` days.
+If the faerie dragon dies, these effects fade over the course of `dice:1d10|noform|noparens|avg` (`1d10`) days.

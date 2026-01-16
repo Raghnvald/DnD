@@ -1,7 +1,7 @@
 ---
 cssclasses:
   - json5e-spell
-Bezeichnung: "Rary's Telepathic Bond"
+Bezeichnung: Rary's Telepathic Bond
 tags:
   - Klasse/Barde
   - Klasse/Kleriker/peace-domain
@@ -19,9 +19,8 @@ classes:
   - Wizard
   - Wizard (Diviner)
 aliases:
-  - "Rary's Telepathic Bond"
   - Rary's Telepathic Bond
-linter-yaml-title-alias: "Rary's Telepathic Bond"
+linter-yaml-title-alias: Rary's Telepathic Bond
 ---
 # Rary's Telepathic Bond
 *5th-level, Divination (ritual)*  

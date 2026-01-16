@@ -124,7 +124,7 @@ Wie kommuniziert der Schutzherr mit deinem Charakter? Falls dein Hexenmeister ei
 #### Schnelle Erschaffung
 Du kannst einen Hexenmeister schnell erschaffen, indem du diesen Vorschlägen folgst:
 
-Setze deinen höchsten Attributswert auf Charisma, den zweithöchsten auf Konstitution. Wähle zusätzlich den Hintergrund [[Scharlatan]]. Entscheide dich außerdem für die Zaubertricks [[Kalte Hand]] und [[Schauriger Strahl]] zusammen mit den Zaubern [[Person_bezaubern]] und [[Hexenpfeil]] des 1. Grades.
+Setze deinen höchsten Attributswert auf Charisma, den zweithöchsten auf Konstitution. Wähle zusätzlich den Hintergrund [[Scharlatan]]. Entscheide dich außerdem für die Zaubertricks [[Kalte Hand-old]] und [[Schauriger Strahl]] zusammen mit den Zaubern [[Person_bezaubern-old]] und [[Hexenpfeil-old]] des 1. Grades.
 
 > \[!quote\]- A quote from Xarren, herald of Acamar
 > You think me mad? I think true insanity is being content to live a life of mortal drudgery when knowledge and power is there for the taking in the realm beyond.
@@ -199,7 +199,7 @@ Zu Beginn sind dir zwei beliebige Zaubertricks aus der Zauber liste des Hexenmei
 #### Zauberplätze
 Die Aufstiegstabelle des Hexenmeisters gibt an, wie viele Zauberplätze dir auf jeder Stufe zur Verfügung stehen und welchen Grad diese haben. All deine Zauberplätze besitzen den gleichen Grad. Um einen dir bekannten Hexenmeister-Spruch zu wirken, musst du einen Zauberplatz verbrauchen. Alle verbrauchten Zauberplätze stehen dir nach einer kurzen oder langen Rast zur Verfügung.
 
-Bist du beispielsweise ein Hexenmeister der 5. Stufe, hast du zwei Zauberplätze des 3. Grades. Um den Zauber [[Hexenpfeil]] des 1. Grades zu wirken, musst du einen dieser Zauberplätze aufwenden, und wirkst ihn als Zauber des 3. Grades.
+Bist du beispielsweise ein Hexenmeister der 5. Stufe, hast du zwei Zauberplätze des 3. Grades. Um den Zauber [[Hexenpfeil-old]] des 1. Grades zu wirken, musst du einen dieser Zauberplätze aufwenden, und wirkst ihn als Zauber des 3. Grades.
 
 #### Bekannte Zauber der 1. Stufe und höher
 Auf Stufe 1 kennst du zwei frei wählbare Zauber des 1. Grades aus der Zauberliste des Hexenmeisters.

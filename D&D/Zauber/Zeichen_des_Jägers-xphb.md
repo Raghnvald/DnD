@@ -1,12 +1,12 @@
 ---
-Bezeichnung: "Hunter's Mark"
+Bezeichnung: Hunter's Mark
 Zaubergrad: 1
-Zeitaufwand: 
-Reichweite: 
-Komponenten: 
-Wirkungsdauer: 
-Angriff: 
-Schaden: 
+Zeitaufwand:
+Reichweite:
+Komponenten:
+Wirkungsdauer:
+Angriff:
+Schaden:
 tags:
   - Klasse/Paladin/oath-of-vengeance
   - Klasse/Waldläufer
@@ -18,9 +18,8 @@ classes:
   - Paladin (Oath of Vengeance)
   - Ranger
 aliases:
-  - "Hunter's Mark"
   - Hunter's Mark
-linter-yaml-title-alias: "Hunter's Mark"
+linter-yaml-title-alias: Hunter's Mark
 ---
 # Hunter's Mark
 *1st-level, Divination*  

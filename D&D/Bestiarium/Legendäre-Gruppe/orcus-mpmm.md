@@ -1,11 +1,12 @@
 ---
+obsidianUIMode: preview
 cssclasses:
-  - json5e-note
+- json5e-note
 tags:
-  - Quelle/5e/mpmm
-  - Monster/legendary-group
+- ttrpg-cli/compendium/src/5e/mpmm
+- ttrpg-cli/monster/legendary-group
 aliases:
-  - Orcus
+- Orcus
 ---
 # Orcus
 
@@ -26,4 +27,4 @@ The region containing Orcus's lair is warped by his magic, creating one or more 
 - **Charnel Realm.** The air is filled with the stench of rotting flesh, and buzzing flies grow thick within the region.  
 - **Undead Beasts.** Dead Beasts periodically animate as Undead mockeries of their former selves. Skeletal and zombie versions of local wildlife are commonly seen in the area.  
 
-If Orcus dies, these effects fade over the course of `1d10` days.
+If Orcus dies, these effects fade over the course of `dice:1d10|noform|noparens|avg` (`1d10`) days.

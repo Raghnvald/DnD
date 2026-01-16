@@ -21,7 +21,6 @@ classes:
   - Warlock
   - Wizard
 aliases:
-  - Arkansas Tor
   - Arcane Gate
 linter-yaml-title-alias: Arkansas Tor
 ---

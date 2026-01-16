@@ -1,0 +1,23 @@
+---
+cssclasses: json5e-spell
+Bezeichnung: Nystul's Magische Aura des Arkanisten
+tags:
+  - Klasse/Magier
+  - Quelle/5e/phb
+  - Zauber/Grad/2
+  - Zauber/Schule/Illusion
+aliases:
+  - Nystul's Magic Aura
+linter-yaml-title-alias: Nystul's Magische Aura des Arkanisten
+---
+# Nystul's Magische Aura des Arkanisten
+*2nd-level, Illusion*  
+
+- **Casting time:** 1 action
+- **Range:** Touch
+- **Components:** V, S, a small square of silk
+- **Duration:** 24 hour
+
+**Classes**: [Wizard](../Charakteroptionen/Klassen/Magier.md)
+
+*Source: SRD / Basic Rules*

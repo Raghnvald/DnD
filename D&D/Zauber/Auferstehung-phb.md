@@ -17,7 +17,6 @@ classes:
   - Barde (Magische Geheimnisse)
   - Kleriker
 aliases:
-  - Auferstehung
   - Resurrection
 linter-yaml-title-alias: Auferstehung
 ---

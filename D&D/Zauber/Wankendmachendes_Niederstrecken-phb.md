@@ -13,7 +13,7 @@ classes:
   - Bard (Magical Secrets)
   - Paladin
 aliases:
-  - Wankendmachendes Niederstrecken
+  - Staggering Smite
 linter-yaml-title-alias: Wankendmachendes Niederstrecken
 obsidianUIMode: preview
 ---

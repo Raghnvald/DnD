@@ -27,11 +27,11 @@ Nahezu jede nicht böse Gottheit kann Einfluss auf diese Domäne beanspruchen, b
 
 | Klerikerstufe | Zauber                                          |
 | ------------- | ----------------------------------------------- |
-| 1             | [[Segnen]], [[Wunden-heilen]]                   |
+| 1             | [[Segnen-old]], [[Wunden-heilen]]                   |
 | 3             | [[Schwache Genesung]], [[Waffe des Glaubens]]   |
 | 5             | [[Leuchtfeuer_der_Hoffnung-phb]], [[Wiederbeleben]] |
 | 7             | [[Todesschutz]], [[Hüter des Glaubens]]         |
-| 9             | [[Massen-Wunden_heilen]], [[Tote erwecken]]     |
+| 9             | [[Massen-Wunden_heilen-old]], [[Tote erwecken]]     |
 ^life-domain-spells
 
 ### Zusätzliche Übung (Stufe 1)

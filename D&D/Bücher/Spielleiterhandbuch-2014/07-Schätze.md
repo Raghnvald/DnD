@@ -68,7 +68,7 @@ $\quad$Die Einstimmung einer Kreatur auf einen Gegenstand endet, wenn die Kreatu
 ### Verfluchte Gegenstände
 Manche magischen Gegenstände tragen Flüche mit sich, die ihren Nutzer befallen, manchmal sogar lange nachdem dieser aufgehört hat, den Gegenstand zu benutzen. Die Beschreibung des magischen Gegenstands spezifiziert, ob dieser verflucht ist. Die meisten Methoden, ein Objekt zu identifizieren, den Zauber [[Identifizieren-phb]] eingeschlossen, können Flüche nicht erkennen, obwohl manche Überlieferung Hinweise enthält. Ein Fluch sollte für den Nutzer des Gegenstands eine Überraschung sein, sobald die Auswirkungen des Fluchs zu Tage treten.
 
-$\quad$Die Einstimmung auf ein verfluchtes Objekt kann nicht freiwillig unterbrochen werden, insofern nicht vorher der Fluch gebrochen wurde, indem beispielsweise der Zauber [[Fluch_brechen]] gewirkt wird.
+$\quad$Die Einstimmung auf ein verfluchtes Objekt kann nicht freiwillig unterbrochen werden, insofern nicht vorher der Fluch gebrochen wurde, indem beispielsweise der Zauber [[Fluch_brechen-old]] gewirkt wird.
 
 ### Kategorien von magischen Gegenständen
 Jeder magische Gegenstand gehört einer Kategorie an: Rüstungen, Tränke, Ringe , Zepter, Schriftrollen, Stecken, Zauberstäbe, Waffen oder wundersame Gegenstände.

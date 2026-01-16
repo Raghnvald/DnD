@@ -17,7 +17,6 @@ classes:
   - Bard (Magical Secrets)
   - Paladin
 aliases:
-  - Aura des Lebens
   - Aura of Life
 linter-yaml-title-alias: Aura des Lebens
 ---

@@ -1,11 +1,12 @@
 ---
+obsidianUIMode: preview
 cssclasses:
-  - json5e-note
+- json5e-note
 tags:
-  - Quelle/5e/mpmm
-  - Monster/legendary-group
+- ttrpg-cli/compendium/src/5e/mpmm
+- ttrpg-cli/monster/legendary-group
 aliases:
-  - Storm Giant Quintessent
+- Storm Giant Quintessent
 ---
 # Storm Giant Quintessent
 
@@ -27,4 +28,4 @@ The region containing a storm giant quintessent's lair is warped by the giant's 
 - **Lightning.** Flashes of lightning and peals of thunder are continual, day and night, within 5 miles of the lair.  
 - **Winds.** High wind blows within 1 mile of the lair, making it impossible to light a fire unless the location where the fire is lit is protected from the wind.  
 
-If the giant dies, the lightning, thunder, and high wind regional effects end immediately. Rain, snow, and blowing dust abate gradually within `1d8` days.
+If the giant dies, the lightning, thunder, and high wind regional effects end immediately. Rain, snow, and blowing dust abate gradually within `dice:1d8|noform|noparens|avg` (`1d8`) days.

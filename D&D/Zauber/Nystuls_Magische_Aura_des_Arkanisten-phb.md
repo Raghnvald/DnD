@@ -18,7 +18,6 @@ classes:
   - Wizard
 aliases:
   - Nystul's Magic Aura
-  - Nystul's Magic Aura
 linter-yaml-title-alias: Nystul's Magic Aura
 obsidianUIMode: preview
 ---

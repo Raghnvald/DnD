@@ -25,7 +25,7 @@ classes:
   - Rogue (Arcane Trickster)
   - Wizard
 aliases:
-  - Winziger Diener
+  - Tiny Servant
 linter-yaml-title-alias: Winziger Diener
 ---
 # Winziger Diener

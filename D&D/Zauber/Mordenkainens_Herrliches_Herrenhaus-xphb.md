@@ -1,7 +1,7 @@
 ---
 cssclasses:
   - json5e-spell
-Bezeichnung: "Mordenkainen's Magnificent Mansion"
+Bezeichnung: Mordenkainen's Magnificent Mansion
 tags:
   - Klasse/Barde
   - Klasse/Magier
@@ -12,9 +12,8 @@ classes:
   - Bard
   - Wizard
 aliases:
-  - "Mordenkainen's Magnificent Mansion"
   - Mordenkainen's Magnificent Mansion
-linter-yaml-title-alias: "Mordenkainen's Magnificent Mansion"
+linter-yaml-title-alias: Mordenkainen's Magnificent Mansion
 ---
 # Mordenkainen's Magnificent Mansion
 *7th-level, Conjuration*  

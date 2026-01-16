@@ -36,7 +36,7 @@ Die Barriere strahlt innerhalb von 30 m helles Licht und in einem Radius von wei
 
 Die Barriere besteht aus sieben Schichten, die jeweils eine andere Farbe besitzen. Wenn eine Kreatur versucht, durch die Barriere zu greifen oder zu gehen, muss sie jede Schicht einzeln überwinden, bis sie das Innere der Barriere erreicht. Für jede Schicht muss der Kreatur ein `Geschicklichkeits-Rettungswurf` gelingen, um nicht die unten beschriebenen Effekte zu erleiden.
 
-Die Wand kann zerstört werden, eine Schicht nach der an deren (von der roten zur violetten), auf eine Weise, die von der Farbe der Schicht abhängt (siehe unten). Sobald eine Schicht zerstört ist, bleibt sie es für die Wirkungsdauer des Zaubers. Der Zauber [[Antimagisches-Feld]] hat keinen Effekt auf die Barriere und [[Magie_bannen]] kann nur die violette Schicht beeinflussen.
+Die Wand kann zerstört werden, eine Schicht nach der an deren (von der roten zur violetten), auf eine Weise, die von der Farbe der Schicht abhängt (siehe unten). Sobald eine Schicht zerstört ist, bleibt sie es für die Wirkungsdauer des Zaubers. Der Zauber [[Antimagisches-Feld]] hat keinen Effekt auf die Barriere und [[Magie_bannen-old]] kann nur die violette Schicht beeinflussen.
 
 ## 1. Rot
 Bei einem misslungenen Rettungswurf erleidet die Kreatur `10W6` Feuerschaden oder halb so viel Schaden bei einem erfolgreichen Rettungswurf. Solange diese Schicht existiert, können nichtmagische Fernkampfangriffe die Barriere nicht durchdringen. Die Schicht wird durch mindestens 25 Punkte Kälteschaden zerstört.
@@ -61,4 +61,4 @@ Solange diese Schicht existiert, können keine Zauber durch die Barriere gewirkt
 ## 7. Violett
 Bei einem misslungenen Rettungswurf ist die Kreatur [[01. Grundregelwerk 2014/Anhang PH-A#Blind|blind]]. Sie muss dann zu Beginn deines nächsten Zuges einen Weisheitsrettungswurf durchführen. Bei einem Erfolg endet die Blindheit. Misslingt der Rettungswurf, wird die Kreatur auf eine andere Existenzebene nach Wahl des SL verbannt und ist nicht mehr [[01. Grundregelwerk 2014/Anhang PH-A#Blind|blind]]. (Für gewöhnlich wird eine Kreatur, die sich auf einer Ebene befindet, die nicht ihre Heimat ist, nach Hause gebracht, während andere Kreaturen üblicherweise auf die Astral- oder Ätherebene transportiert werden.)
 
-Diese Schicht wird von dem Zauber [[Magie_bannen]] zerstört oder einem ähnlichen Spruch des gleichen oder eines höheren Grades, der Zauber und magische Effekte aufheben kann.
+Diese Schicht wird von dem Zauber [[Magie_bannen-old]] zerstört oder einem ähnlichen Spruch des gleichen oder eines höheren Grades, der Zauber und magische Effekte aufheben kann.

@@ -24,7 +24,7 @@ classes:
   - Warlock (The Great Old One)
   - Wizard
 aliases:
-  - "Tasha's Fürchterlicher Lachanfall"
+  - "Tasha's Hideous Laughter"
 linter-yaml-title-alias: "Tasha's Fürchterlicher Lachanfall"
 ---
 # Tasha's Fürchterlicher Lachanfall

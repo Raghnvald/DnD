@@ -28,7 +28,6 @@ classes:
   - Magier
   - Schurke (Arcane Trickster)
 aliases:
-  - Angst verursachen
   - Cause Fear
 linter-yaml-title-alias: Angst verursachen
 ---

@@ -1,11 +1,12 @@
 ---
+obsidianUIMode: preview
 cssclasses:
-  - json5e-note
+- json5e-note
 tags:
-  - Quelle/5e/mm
-  - Monster/legendary-group
+- ttrpg-cli/compendium/src/5e/mm
+- ttrpg-cli/monster/legendary-group
 aliases:
-  - Gold Dragon
+- Gold Dragon
 ---
 # Gold Dragon
 

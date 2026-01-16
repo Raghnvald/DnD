@@ -18,7 +18,6 @@ classes:
   - Wizard
 aliases:
   - Otiluke's Resilient Sphere
-  - Otiluke's Resilient Sphere
 linter-yaml-title-alias: Otiluke's Resilient Sphere
 obsidianUIMode: preview
 ---

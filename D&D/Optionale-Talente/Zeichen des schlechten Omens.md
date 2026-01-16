@@ -10,4 +10,4 @@ _Quellen:_ Spielerhandbuch
 
 **_Voraussetzung:_** 5. Stufe
 
-Du kannst einmal [[Fluch]] wirken, indem du einen Hexenmeisterzauberplatz verbrauchst. Du kannst dies erst nach einer kurzen oder langen Rast erneut tun. 
+Du kannst einmal [[Fluch-old]] wirken, indem du einen Hexenmeisterzauberplatz verbrauchst. Du kannst dies erst nach einer kurzen oder langen Rast erneut tun. 

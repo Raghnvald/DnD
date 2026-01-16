@@ -24,7 +24,6 @@ classes:
   - Zauberer
 aliases:
   - Abi-Dalzim's Horrid Wilting
-  - Abi-Dalzims schreckliches Welken
 linter-yaml-title-alias: Abi-Dalzims schreckliches Welken
 ---
 # Abi-Dalzims schreckliches Welken

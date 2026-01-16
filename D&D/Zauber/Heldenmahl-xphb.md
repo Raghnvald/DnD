@@ -1,7 +1,7 @@
 ---
 cssclasses:
   - json5e-spell
-Bezeichnung: "Heroes' Feast"
+Bezeichnung: Heroes' Feast
 tags:
   - Klasse/Barde
   - Klasse/Druide
@@ -16,9 +16,8 @@ classes:
   - Druid
   - Sorcerer (Divine Soul, Good)
 aliases:
-  - "Heroes' Feast"
   - Heroes' Feast
-linter-yaml-title-alias: "Heroes' Feast"
+linter-yaml-title-alias: Heroes' Feast
 ---
 # Heroes' Feast
 *6th-level, Conjuration*  

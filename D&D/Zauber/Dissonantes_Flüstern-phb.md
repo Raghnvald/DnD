@@ -12,7 +12,6 @@ classes:
   - Bard (Magical Secrets)
   - Warlock (The Great Old One)
 aliases:
-  - Dissonantes Flüstern
   - Dissonant Whispers
 linter-yaml-title-alias: Dissonantes Flüstern
 obsidianUIMode: preview

@@ -18,7 +18,6 @@ classes:
   - Bard (Magical Secrets)
   - Wizard
 aliases:
-  - Ablenkung
   - Mislead
 linter-yaml-title-alias: Ablenkung
 ---

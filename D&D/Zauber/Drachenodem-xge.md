@@ -14,7 +14,6 @@ tags:
   - Zauber/Original/Dragons_Breath
   - Zauber/Schule/Verwandlung
 aliases:
-  - Drachenodem
   - Dragon's Breath
 linter-yaml-title-alias: Drachenodem
 ---

@@ -32,7 +32,6 @@ classes:
   - Wizard (Evoker)
 aliases:
   - Tasha's Caustic Brew
-  - Tasha's Caustic Brew
 linter-yaml-title-alias: Tasha's Caustic Brew
 ---
 # Tasha's Caustic Brew

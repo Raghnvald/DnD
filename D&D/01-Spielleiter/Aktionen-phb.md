@@ -104,7 +104,7 @@ See also: [Attack](/3-Mechanics/CLI/actions.md#Attack)
 
 This action is an optional addition to the game, from the optional/variant rule [Action Options](/3-Mechanics/CLI/variant-rules/action-options.md).
 
-## Disengage | Rückzug
+## Rückzug
 _Source: Player's Handbook (2014) p. 192. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_
 
 - **Duration**: 1 action
@@ -175,7 +175,7 @@ Choose one of your skill or tool proficiencies and one ally who is near enough f
 
 You momentarily distract an enemy within 5 feet of you, giving [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md) to the next attack roll by one of your allies against that enemy. This benefit expires at the start of your next turn.
 
-## Hide | Verstecken
+## Verstecken
 _Source: Player's Handbook (2024) p. 368. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_
 
 - **Duration**: 1 action

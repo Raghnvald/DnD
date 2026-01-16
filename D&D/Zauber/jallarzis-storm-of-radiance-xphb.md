@@ -1,7 +1,7 @@
 ---
 cssclasses:
   - json5e-spell
-Bezeichnung: "Jallarzi's Storm of Radiance"
+Bezeichnung: Jallarzi's Storm of Radiance
 tags:
   - Klasse/Barde
   - Klasse/Hexenmeister
@@ -16,9 +16,8 @@ classes:
   - Wizard
   - Wizard (Evoker)
 aliases:
-  - "Jallarzi's Storm of Radiance"
   - Jallarzi's Storm of Radiance
-linter-yaml-title-alias: "Jallarzi's Storm of Radiance"
+linter-yaml-title-alias: Jallarzi's Storm of Radiance
 ---
 # Jallarzi's Storm of Radiance
 *5th-level, Evocation*  

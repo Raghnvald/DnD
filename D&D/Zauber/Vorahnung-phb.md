@@ -14,7 +14,7 @@ classes:
   - Cleric
   - Cleric (Knowledge Domain)
 aliases:
-  - Vorahnung
+  - Augury
 linter-yaml-title-alias: Vorahnung
 obsidianUIMode: preview
 ---

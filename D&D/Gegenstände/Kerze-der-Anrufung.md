@@ -18,7 +18,7 @@ Wundersamer Gegenstand, sehr selten (erfordert Einstimmung)
 - **Kosten**: 8.000 Goldmünzen
 - **Gewicht**: ⏤
 
-Diese schlanke Wachskerze ist einer Gottheit geweiht und hat dieselbe Gesinnung. Die Gesinnung der Kerze kann durch den Zauber[Gutes_und_Böses_entdecken](Gutes_und_Böses_entdecken.md) aufgedeckt werden. Der SL wählt die Gottheit und die entsprechende Gesinnung aus oder bestimmt die Gesinnung zufällig.
+Diese schlanke Wachskerze ist einer Gottheit geweiht und hat dieselbe Gesinnung. Die Gesinnung der Kerze kann durch den Zauber[Gutes_und_Böses_entdecken-old](Gutes_und_Böses_entdecken-old.md) aufgedeckt werden. Der SL wählt die Gottheit und die entsprechende Gesinnung aus oder bestimmt die Gesinnung zufällig.
 
 | Würfel: W20 | Gesinnung |
 |-----------|-----------|

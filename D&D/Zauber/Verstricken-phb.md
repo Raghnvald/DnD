@@ -12,7 +12,7 @@ classes:
   - Bard (Magical Secrets)
   - Druid
 aliases:
-  - Verstricken
+  - Entangle
 linter-yaml-title-alias: Verstricken
 obsidianUIMode: preview
 ---

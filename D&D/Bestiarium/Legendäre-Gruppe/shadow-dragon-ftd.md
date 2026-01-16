@@ -1,11 +1,12 @@
 ---
+obsidianUIMode: preview
 cssclasses:
-  - json5e-note
+- json5e-note
 tags:
-  - Quelle/5e/ftd
-  - Monster/legendary-group
+- ttrpg-cli/compendium/src/5e/ftd
+- ttrpg-cli/monster/legendary-group
 aliases:
-  - Shadow Dragon
+- Shadow Dragon
 ---
 # Shadow Dragon
 

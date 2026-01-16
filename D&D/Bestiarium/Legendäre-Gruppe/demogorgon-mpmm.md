@@ -1,11 +1,12 @@
 ---
+obsidianUIMode: preview
 cssclasses:
-  - json5e-note
+- json5e-note
 tags:
-  - Quelle/5e/mpmm
-  - Monster/legendary-group
+- ttrpg-cli/compendium/src/5e/mpmm
+- ttrpg-cli/monster/legendary-group
 aliases:
-  - Demogorgon
+- Demogorgon
 ---
 # Demogorgon
 
@@ -26,4 +27,4 @@ The region containing Demogorgon's lair is warped by his magic, creating one or 
 - **Frenzied Animals.** Beasts within 1 mile of the lair become frenzied and violent—even creatures that are normally docile. Within that area, any ability check involving Animal Handling has disadvantage.  
 - **Venomous Beasts.** The area within 6 miles of the lair becomes overpopulated with [poisonous snakes](/3-Mechanics/CLI/bestiary/beast/venomous-snake-xmm.md) and other venomous Beasts.  
 
-If Demogorgon dies, these effects fade over the course of `1d10` days.
+If Demogorgon dies, these effects fade over the course of `dice:1d10|noform|noparens|avg` (`1d10`) days.

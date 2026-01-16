@@ -21,7 +21,6 @@ classes:
   - Druid
   - Paladin (Oathbreaker)
 aliases:
-  - Ansteckung
   - Contagion
 linter-yaml-title-alias: Ansteckung
 ---

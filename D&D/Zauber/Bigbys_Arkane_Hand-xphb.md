@@ -26,7 +26,6 @@ classes:
   - Wizard (Evoker)
 aliases:
   - Bigby's Hand
-  - Bigby's Hand
 linter-yaml-title-alias: Bigby's Hand
 ---
 # Bigby's Hand

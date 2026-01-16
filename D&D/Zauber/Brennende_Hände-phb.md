@@ -30,7 +30,6 @@ classes:
   - Warlock (The Fiend)
   - Wizard
 aliases:
-  - Brennende Hände
   - Burning Hands
 linter-yaml-title-alias: Brennende Hände
 ---

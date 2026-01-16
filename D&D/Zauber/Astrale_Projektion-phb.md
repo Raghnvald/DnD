@@ -23,7 +23,6 @@ classes:
   - Warlock
   - Wizard
 aliases:
-  - Astrale Projektion
   - Astral Projection
 linter-yaml-title-alias: Astrale Projektion
 ---
@@ -41,7 +40,7 @@ Dein Astralkörper ähnelt deiner sterblichen Gestalt in beinahe jeder Hinsicht 
 
 Deine Astralform kann sich frei durch die Astralebene bewegen und dort durch Portale treten, die in andere Ebenen führen. Wenn du eine neue Ebene betrittst oder zu der zurückkehrst, auf der du dich beim Wirken des Zaubers befunden hast, werden dein Körper und all deine Besitztümer entlang der silbernen Kordel transportiert. Auf diese Weise befindest du dich beim Betreten einer neuen Ebene wieder in deinem Körper. Deine Astralform ist eine eigenständige Inkarnation. Jeglicher Schaden und andere Effekte, die ihr zugefügt werden, haben keinen Einfluss auf deinen physischen Körper und bleiben auch nicht bestehen, wenn du in ihn zurückkehrst.
 
-Der Zauber endet für dich und deine Gefährten, wenn du eine Aktion verwendest, um diesen aufzuheben. Jede betroffene Kreatur kehrt dann wieder in ihren physischen Körper zurück und erwacht. Der Zauber könnte für dich oder einen deiner Gefährten auch vorzeitig enden. Wird [[Magie_bannen]] erfolgreich auf eine Astralform oder einen physischen Körper gewirkt, beendet dies die _Astrale Projektion_ für die entsprechende Kreatur. Sobald die Trefferpunkte des physischen Körpers oder der Astralform einer Kreatur auf 0 sinken, endet der Zauber ebenfalls für diese. Wenn der Zauber endet und die Silberkordel intakt ist, zieht diese die Astralform der Kreatur zurück in ihren Körper, was den Scheintod aufhebt.
+Der Zauber endet für dich und deine Gefährten, wenn du eine Aktion verwendest, um diesen aufzuheben. Jede betroffene Kreatur kehrt dann wieder in ihren physischen Körper zurück und erwacht. Der Zauber könnte für dich oder einen deiner Gefährten auch vorzeitig enden. Wird [[Magie_bannen-old]] erfolgreich auf eine Astralform oder einen physischen Körper gewirkt, beendet dies die _Astrale Projektion_ für die entsprechende Kreatur. Sobald die Trefferpunkte des physischen Körpers oder der Astralform einer Kreatur auf 0 sinken, endet der Zauber ebenfalls für diese. Wenn der Zauber endet und die Silberkordel intakt ist, zieht diese die Astralform der Kreatur zurück in ihren Körper, was den Scheintod aufhebt.
 
 Wenn der Zauberwirker vorzeitig zu seinem Körper zurückkehrt, verweilen seine von dem Zauber betroffenen Gefährten in ihrer Astralform und müssen einen Weg zurück in ihren Körper finden, für gewöhnlich indem sie auf 0 Trefferpunkte reduziert werden.
 

@@ -17,7 +17,6 @@ classes:
   - Bard (Magical Secrets)
   - Paladin
 aliases:
-  - Aura der Gesundheit
   - Aura of Vitality
 linter-yaml-title-alias: Aura der Gesundheit
 ---

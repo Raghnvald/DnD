@@ -1,7 +1,7 @@
 ---
 cssclasses:
   - json5e-spell
-Bezeichnung: "Otto's Irresistible Dance"
+Bezeichnung: Otto's Irresistible Dance
 Zaubergrad: 6
 tags:
   - Klasse/Barde/Magische-Geheimnisse
@@ -13,9 +13,8 @@ classes:
   - Bard (Magical Secrets)
   - Wizard
 aliases:
-  - "Otto's Irresistible Dance"
   - Otto's Irresistible Dance
-linter-yaml-title-alias: "Otto's Irresistible Dance"
+linter-yaml-title-alias: Otto's Irresistible Dance
 obsidianUIMode: preview
 ---
 # Otto's Irresistible Dance

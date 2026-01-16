@@ -20,7 +20,6 @@ classes:
   - Paladin (Oath of the Ancients)
   - Ranger
 aliases:
-  - Einswerden mit der Natur
   - Commune with Nature
 linter-yaml-title-alias: Einswerden mit der Natur
 ---

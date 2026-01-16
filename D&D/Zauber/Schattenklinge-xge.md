@@ -29,7 +29,6 @@ classes:
   - Wizard
   - Wizard (Illusionist)
 aliases:
-  - Schattenklinge
   - Shadow Blade
 linter-yaml-title-alias: Schattenklinge
 ---

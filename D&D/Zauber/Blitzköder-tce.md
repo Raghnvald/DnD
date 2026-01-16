@@ -34,7 +34,6 @@ classes:
   - Wizard
   - Wizard (Evoker)
 aliases:
-  - Blitzköder
   - Lightning Lure
 linter-yaml-title-alias: Blitzköder
 ---

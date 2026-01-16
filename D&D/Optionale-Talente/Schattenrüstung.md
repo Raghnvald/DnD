@@ -9,4 +9,4 @@ aliases:
 # Schattenrüstung
 *Quelle: SRD / Grundregelwerk / Spielerhandbuch*  
 
-Du kannst [Magierrüstung](Magierrüstung.md) beliebig oft auf dich selbst wirken, ohne dafür einen Zauberplatz oder Materialkomponenten verbrauchen zu müssen.
+Du kannst [Magierrüstung-old](Magierrüstung-old.md) beliebig oft auf dich selbst wirken, ohne dafür einen Zauberplatz oder Materialkomponenten verbrauchen zu müssen.

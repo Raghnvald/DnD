@@ -26,7 +26,6 @@ classes:
   - Sorcerer
   - Wizard
 aliases:
-  - Botschaft
   - Message
 linter-yaml-title-alias: Botschaft
 ---

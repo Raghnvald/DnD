@@ -25,7 +25,6 @@ classes:
   - Wizard
 aliases:
   - Arcane Eye
-  - Arkanes Auge
 linter-yaml-title-alias: Arkanes Auge
 ---
 # Arkanes Auge

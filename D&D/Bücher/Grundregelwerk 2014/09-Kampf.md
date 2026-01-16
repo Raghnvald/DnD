@@ -245,7 +245,7 @@ $\quad$ Zuerst musst du entscheiden, welcher wahrnehmbare Umstand deine Reaktion
 
 $\quad$ Tritt der Auslöser ein, kannst du deine Reaktion entweder sofort danach ausführen oder ihn ignorieren. Bedenke, dass dir pro Runde nur eine Reaktion zur Verfügung steht.
 
-$\quad$ Bereitest du einen Zauberspruch vor, wirkst du ihn wie gewohnt, setzt seinen Effekt aber erst dann mit deiner Reaktion frei, sobald der Auslöser eintritt. Nur Zauber mit einem Zeitaufwand von einer Aktion können vorbereitet werden. Das Zurückhalten des Effekts erfordern jedoch Konzentration. Wenn deine Konzentration unterbrochen wird, schlägt der Zauber fehl. **Beispiele**: Wenn du dich auf den Zauber [[Spinnennetz]] konzentrierst und dann [[Magisches_Geschoss]] vorbereitest, wird [[Spinnennetz]] beendet. Außerdem könnte deine Konzentration unterbrochen werden, falls du Schaden erleidest, bevor du [[Magisches_Geschoss]] als Reaktion auslöst.
+$\quad$ Bereitest du einen Zauberspruch vor, wirkst du ihn wie gewohnt, setzt seinen Effekt aber erst dann mit deiner Reaktion frei, sobald der Auslöser eintritt. Nur Zauber mit einem Zeitaufwand von einer Aktion können vorbereitet werden. Das Zurückhalten des Effekts erfordern jedoch Konzentration. Wenn deine Konzentration unterbrochen wird, schlägt der Zauber fehl. **Beispiele**: Wenn du dich auf den Zauber [[Spinnennetz]] konzentrierst und dann [[Magisches_Geschoss-old]] vorbereitest, wird [[Spinnennetz]] beendet. Außerdem könnte deine Konzentration unterbrochen werden, falls du Schaden erleidest, bevor du [[Magisches_Geschoss-old]] als Reaktion auslöst.
 
 ## Zauber wirken
 
@@ -383,7 +383,7 @@ $\quad$ Den Schadensarten sind im Folgenden Beispiele angefügt, um es dem SL zu
 
 $\quad$ ***Blitz***: Der Zauber Blitz und der Odem eines blauen Drachen verursachen Blitzschaden.
 
-$\quad$ ***Energie***: Reine magische Energie wird in eine schädliche Form gebündelt. Die meisten Effekte, die Energieschaden verursachen, sind Zauber wie [[Magisches_Geschoss]] und [[Waffe des Glaubens]].
+$\quad$ ***Energie***: Reine magische Energie wird in eine schädliche Form gebündelt. Die meisten Effekte, die Energieschaden verursachen, sind Zauber wie [[Magisches_Geschoss-old]] und [[Waffe des Glaubens]].
 
 $\quad$ ***Feuer***: Rote Drachen speien Feuer und viele Zauber beschwören Flammen, um Feuerschaden zu verursachen.
 

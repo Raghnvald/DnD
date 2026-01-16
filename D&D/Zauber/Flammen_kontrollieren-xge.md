@@ -33,7 +33,6 @@ classes:
   - Sorcerer
   - Wizard
 aliases:
-  - Flammen kontrollieren
   - Control Flames
 linter-yaml-title-alias: Flammen kontrollieren
 ---

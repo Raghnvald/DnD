@@ -22,7 +22,6 @@ classes:
   - Druid
   - Ranger
 aliases:
-  - Tierfreundschaft
   - Animal Friendship
 linter-yaml-title-alias: Tierfreundschaft
 ---

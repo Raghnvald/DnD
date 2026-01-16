@@ -38,7 +38,7 @@ Ein Gefängnis in Form eines Käfigs besitzt eine Kantenlänge von 6 m und beste
 
 Eine Kreatur im Energiekäfig kann diesen nur auf magische Art verlassen. Wenn der Gefangene versucht, mittels [[Teleportieren]] oder [[Ebenenwechsel]] zu entfliehen, muss er zunächst einen `Charisma-Rettungswurf` ablegen. Bei einem Erfolg kann die Kreatur diese Art von Magie verwenden, um den Energiekäfig zu verlassen. Bei einem Misserfolg kann sie dies nicht und der gewirkte Zauber ist vergeudet. Der Energiekäfig erstreckt sich auch in die Ätherebene, was eine Flucht über diese Ebene verhindert.
 
-Der Zauber kann nicht durch [[Magie_bannen]] aufgehoben werden.
+Der Zauber kann nicht durch [[Magie_bannen-old]] aufgehoben werden.
 
 ---
 

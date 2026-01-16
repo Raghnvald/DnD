@@ -15,7 +15,6 @@ classes:
   - Wizard
 aliases:
   - "Yolande's Regal Presence"
-  - Yolande's Regal Presence
 linter-yaml-title-alias: "Yolande's Regal Presence"
 ---
 # Yolande's Regal Presence

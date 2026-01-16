@@ -7,7 +7,6 @@ tags:
   - Zauber/Grad/1
   - Zauber/Schule/Verzauberung
 aliases:
-  - Erzwungenes Duell
   - Compelled Duel
 linter-yaml-title-alias: Erzwungenes Duell
 ---

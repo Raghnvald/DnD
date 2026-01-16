@@ -1,7 +1,7 @@
 ---
 cssclasses:
   - json5e-spell
-Bezeichnung: "Heroes' Feast"
+Bezeichnung: Heroes' Feast
 Zaubergrad: 6
 tags:
   - Klasse/Barde/Magische-Geheimnisse
@@ -15,9 +15,8 @@ classes:
   - Cleric
   - Druid
 aliases:
-  - "Heroes' Feast"
   - Heroes' Feast
-linter-yaml-title-alias: "Heroes' Feast"
+linter-yaml-title-alias: Heroes' Feast
 obsidianUIMode: preview
 ---
 # Heroes' Feast

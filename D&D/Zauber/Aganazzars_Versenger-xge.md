@@ -30,7 +30,6 @@ classes:
   - Zauberer
 aliases:
   - Aganazzars Scorcher
-  - Aganazzars Versenger
 linter-yaml-title-alias: Aganazzars Versenger
 ---
 # Aganazzars Versenger

@@ -15,7 +15,7 @@ classes:
   - Sorcerer
   - Wizard
 aliases:
-  - Wunsch
+  - Wish
 linter-yaml-title-alias: Wunsch
 obsidianUIMode: preview
 ---

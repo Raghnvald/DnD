@@ -27,7 +27,6 @@ classes:
   - Sorcerer
   - Wizard
 aliases:
-  - Ausbrechende Erde
   - Erupting Earth
 linter-yaml-title-alias: Ausbrechende Erde
 ---

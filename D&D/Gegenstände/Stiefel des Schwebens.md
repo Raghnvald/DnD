@@ -14,7 +14,7 @@ obsidianUIMode: preview
 # Boots of Levitation
 *Wondrous item, major, rare (requires attunement)*  
 
-Wenn du diese Stiefel trägst, kannst du den Zauber [Schweben](Schweben.md) als Aktion beliebig oft auf dich selbst wirken.
+Wenn du diese Stiefel trägst, kannst du den Zauber [Schweben-old](Schweben-old.md) als Aktion beliebig oft auf dich selbst wirken.
 
 While you wear these boots, you can use an action to cast the [levitate](/3-Mechanics/CLI/spells/levitate.md) spell on yourself at will.
 

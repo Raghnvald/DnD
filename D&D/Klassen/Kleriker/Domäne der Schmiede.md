@@ -41,9 +41,9 @@ Auf bestimmten Klerikerstufen erhältst du Domänenzauber, so wie in der Domäne
 | Klerikerstufe | Zauber                                           |
 | ------------- | ------------------------------------------------ |
 | 1             | [[Identifizieren-phb]], [[Sengendes Niederstrecken]] |
-| 3             | [[Magische_Waffe]], [[Metall erhitzen]]          |
+| 3             | [[Magische_Waffe-old]], [[Metall erhitzen]]          |
 | 5             | [[Elementare Waffe]], [[Schutz vor Energie]]     |
-| 7             | [[Verarbeitung]], [[Feuerwand]]                  |
+| 7             | [[Verarbeitung]], [[Feuerwand-old]]                  |
 | 9             | [[Erschaffung]], [[Gegenstände beleben]]         |
 ^forge-domain-spells
 

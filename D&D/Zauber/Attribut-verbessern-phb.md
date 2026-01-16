@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Attribut verbessern
 Zaubergrad: 2
-Zeitaufwand: 
-Reichweite: 
-Komponenten: 
-Wirkungsdauer: 
-Angriff: 
+Zeitaufwand:
+Reichweite:
+Komponenten:
+Wirkungsdauer:
+Angriff:
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide
@@ -20,7 +20,6 @@ classes:
   - Druid
   - Sorcerer
 aliases:
-  - Attribut verbessern
   - Enhance Ability
 linter-yaml-title-alias: Attribut verbessern
 ---

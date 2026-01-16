@@ -19,7 +19,6 @@ classes:
   - Druid
   - Wizard
 aliases:
-  - Arkane Spiegelung
   - Mirage Arcane
 linter-yaml-title-alias: Arkane Spiegelung
 ---

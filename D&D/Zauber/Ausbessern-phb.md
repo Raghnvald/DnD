@@ -34,7 +34,6 @@ classes:
   - Sorcerer
   - Wizard
 aliases:
-  - Ausbessern
   - Mending
 linter-yaml-title-alias: Ausbessern
 ---

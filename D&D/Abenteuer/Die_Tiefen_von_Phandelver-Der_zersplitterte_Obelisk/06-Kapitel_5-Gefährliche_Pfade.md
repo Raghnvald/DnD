@@ -9,7 +9,7 @@ aliases:
 
 Als die Charaktere nach ihren eigenen Abenteuern in der Wellenhallhöhle nach Phandalin zurückkehren, befindet sich das Dorf in Aufruhr. Diebstahl, Vandalismus und Gewalt plagen Phandalin - die Übeltäter sind eine Gruppe von Goblins, von denen einige seltsame psionische Kräfte besitzen. Diese Goblins haben ihr Ziel im Hintergrund der bisherigen Kapitel verfolgt (siehe „Die Geschichte der Goblins" weiter unten). Ihr Bestreben ist nun zur Hauptgeschichte des Abenteuers geworden. 
 
-$\quad$Bürgermeister Harbin Wester ist verzweifelt und weiß nicht, wie er den Opfern helfen oder gar die Übeltäter finden und aufhalten kann. Er bittet die Charaktere, die Tatorte zu untersuchen, die Schuldigen zu finden und den Vorfällen ein Ende zu setzen. Diese Aufgabe führt die Charaktere schließlich zur Basis der Goblins tief unter der Erde - in einen alten Duergar-Minenaußenposten namens Zorzulas Ruh. Dort erhält ein Goblin-Anführer, der sich [[Ruxithid der Auserwählte-pabtso|Ruxithid der Auserwählte]] nennt, Befehle von mächtigen Gebietern. 
+$\quad$Bürgermeister Harbin Wester ist verzweifelt und weiß nicht, wie er den Opfern helfen oder gar die Übeltäter finden und aufhalten kann. Er bittet die Charaktere, die Tatorte zu untersuchen, die Schuldigen zu finden und den Vorfällen ein Ende zu setzen. Diese Aufgabe führt die Charaktere schließlich zur Basis der Goblins tief unter der Erde - in einen alten Duergar-Minenaußenposten namens Zorzulas Ruh. Dort erhält ein Goblin-Anführer, der sich [[Ruxithid_der_Auserwählte-pabtso|Ruxithid der Auserwählte]] nennt, Befehle von mächtigen Gebietern. 
 
 ![When the heroes return to ...](D&D/Abenteuer/Die_Tiefen_von_Phandelver-Der_zersplitterte_Obelisk/img/055-05-001-ch5-splash.webp#center "When the heroes return to Phandalin, a different group of goblins is terrorizing the townspeople")
 
@@ -25,12 +25,12 @@ $\quad$Die Verfolgung von Ruxithid führt die Charaktere nach Zorzulas Ruh. Dies
 
 Die Charaktere sollten die 5. Stufe erreicht haben, wenn das Kapitel beginnt. In diesem Kapitel können Charaktere maximal bis zur 7. Stufe aufsteigen. Der Stufenaufstieg wird wie folgt gehandhabt: 
 
-- Die Charaktere steigen eine Stufe auf, wenn sie den Standort von Zorzulas Ruh entdecken und beschließen, dort [[Ruxithid der Auserwählte-pabtso|Ruxithid dem Auserwählten]] und den SägezankGoblins entgegenzutreten. 
+- Die Charaktere steigen eine Stufe auf, wenn sie den Standort von Zorzulas Ruh entdecken und beschließen, dort [[Ruxithid_der_Auserwählte-pabtso|Ruxithid dem Auserwählten]] und den SägezankGoblins entgegenzutreten. 
 - Die Charaktere steigen eine Stufe auf, wenn sie Ruxithid besiegen und von einem größeren, unheilvolleren Plan erfahren.   
 
 ### Die Geschichte der Goblins
 
-Die Goblins im Mittelpunkt dieses Kapitels sind Teil einer Enklave, deren Vorfahren seit Generationen einen verlassenen Duergar-Minenaußenposten namens Zorzulas Ruh bewohnen. Vor Jahrhunderten wurde der Außenposten von Gedankenschindern erobert. Die Goblins dort waren den seltsamen Kräften der Illithiden ausgesetzt, wodurch eine Untergruppe von Goblins ungewöhnliche psionische Kräfte entwickelte. Die Gedankenschinder zogen schließlich ab, aber die Goblins blieben abgeschottet vom Rest der Welt zurück, bis die Gedankenschinder-Fanatiker sie vor Kurzem aufsuchten. Einige der Nachkommen dieser Goblins besitzen psionische Kräfte, wie die [[Goblin-Psi-Kommandant-pabtso|Goblin-Psi-Befehlshaber]] und [[Goblin-Psi-Raufbold-pabtso|Goblin-Psi-Raufbolde]] in ihren Reihen beweisen. Die Goblins nennen sich selbst „Sägezank": eine vereinfachte Form des Wortes für ,,Goblin" im Dialekt der Illithiden der Tiefensprache. 
+Die Goblins im Mittelpunkt dieses Kapitels sind Teil einer Enklave, deren Vorfahren seit Generationen einen verlassenen Duergar-Minenaußenposten namens Zorzulas Ruh bewohnen. Vor Jahrhunderten wurde der Außenposten von Gedankenschindern erobert. Die Goblins dort waren den seltsamen Kräften der Illithiden ausgesetzt, wodurch eine Untergruppe von Goblins ungewöhnliche psionische Kräfte entwickelte. Die Gedankenschinder zogen schließlich ab, aber die Goblins blieben abgeschottet vom Rest der Welt zurück, bis die Gedankenschinder-Fanatiker sie vor Kurzem aufsuchten. Einige der Nachkommen dieser Goblins besitzen psionische Kräfte, wie die [[Goblin-Psi-Befehlshaber-pabtso|Goblin-Psi-Befehlshaber]] und [[Goblin-Psi-Raufbold-pabtso|Goblin-Psi-Raufbolde]] in ihren Reihen beweisen. Die Goblins nennen sich selbst „Sägezank": eine vereinfachte Form des Wortes für ,,Goblin" im Dialekt der Illithiden der Tiefensprache. 
 
 $\quad$In den letzten Wochen hat der Anführer der Sägezank-Goblins einen geheimnisvollen Edelstein gefunden. [[Ruxithid der Auserwählte]] weiß nicht, dass eine neue Gruppe Gedankenschinder-Fanatiker, die Macht aus dem Fernen Reich beziehen, ihm den Edelstein untergeschoben haben. Der Edelstein ermöglicht es Ruxithid, telepathisch mit den Gedankenschindern zu kommunizieren, die er für Götter hält. Die Gedankenschinder fordern, dass Ruxithids Goblins besondere schwarze Steinsplitter von einem uralten Obelisken finden, der einst in der Wildnis außerhalb von Phandalin errichtet wurde. Der Obelisk stammt aus dem uralten nesserilischen Imperium und soll über transformative Fähigkeiten verfügen. Die Goblins wissen jedoch nur sehr wenig über seine Eigenschaften oder seine Geschichte. Sie wissen nur, dass ihre „Götter" einige der Obeliskensplitter nach Phandalin zurückverfolgt haben, die Splitter für einen höheren Zweck begehren und die Hilfe der Sägezank-Goblins fordern. 
 
@@ -84,77 +84,77 @@ Sobald die Charaktere seine Mission annehmen, beschreibt Harbin die Tatorte. Auf
 
 Die Tatorte werden im Abschnitt „Gestohlene Splitter" ausführlicher beschrieben. Die Charaktere können jeden dieser Tatorte in beliebiger Reihenfolge untersuchen. 
 
-#### Mischief in Progress
+#### Laufender Schabernack
 
 Während die Charaktere in Phandalin Untersuchungen anstellen, treffen sie möglicherweise auf SägezankGoblins, die dort ihr Unwesen treiben. Immer wenn die Charaktere einen der oben aufgeführten Tatorte untersucht haben, würfle mit einem `W20` und bestimme mithilfe der Tabelle „Goblin-Schabernack", was geschieht. 
 
-**Goblin Mischief**
+**Goblin-Schabernack**
 
-| dice: d20 | Mischief |
-|-----------|----------|
-| 1 | A [goblin psi commander](/3-Mechanics/CLI/bestiary/aberration/goblin-psi-commander-pabtso.md) is lighting small fires around the Alderleaf Farm, and these fires threaten to set the crops ablaze. |
-| 2 | Four [goblins](/3-Mechanics/CLI/bestiary/fey/goblin-warrior-xmm.md) surround an older human woman and attempt to steal her purse. The woman (use the [commoner](/3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md) stat block) aggressively fights the goblins. |
-| 3 | Three [goblins](/3-Mechanics/CLI/bestiary/fey/goblin-warrior-xmm.md) stole a [goat](/3-Mechanics/CLI/bestiary/beast/goat-xmm.md) and are attempting to run away with it. The goat, however, refuses to move. |
-| 4 | A pair of [goblin psi brawlers](/3-Mechanics/CLI/bestiary/aberration/goblin-psi-brawler-pabtso.md) are hiding in the trees of the Edermath Orchard. The goblins are using their telepathy to masquerade as ghosts and scare off others so they can steal apples uninterrupted. |
-| 5 | Five [goblins](/3-Mechanics/CLI/bestiary/fey/goblin-warrior-xmm.md) fling refuse at passers-by from the alley behind Stonehill Inn. |
-| 6 | Three [goblins](/3-Mechanics/CLI/bestiary/fey/goblin-warrior-xmm.md) splash paint across the side of Harbin Wester's home |
-| 7 | Shingles from the roof of the Sleeping Giant are flying toward a group of five confused miners (all [commoners](/3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md)). Unbeknownst to them, a cackling [goblin psi commander](/3-Mechanics/CLI/bestiary/aberration/goblin-psi-commander-pabtso.md) on the tavern roof is the source of the mischief. |
-| 8 | One [goblin psi brawler](/3-Mechanics/CLI/bestiary/aberration/goblin-psi-brawler-pabtso.md) and two [goblins](/3-Mechanics/CLI/bestiary/fey/goblin-warrior-xmm.md) are camped at the entrance to Triboar Trail, waiting to ambush unsuspecting travelers. |
-| 9 | Two [goblins](/3-Mechanics/CLI/bestiary/fey/goblin-warrior-xmm.md) released two [draft horses](/3-Mechanics/CLI/bestiary/beast/draft-horse-xmm.md) that are now running rampant across town. |
-| 10 | Two [goblin psi brawlers](/3-Mechanics/CLI/bestiary/aberration/goblin-psi-brawler-pabtso.md) have poorly disguised themselves as children and are pestering a baker for sweets near the Stonehill Inn. |
-| 11–20 | No mischief occurs. |
+| d20   | Schabernack                                                                                                                                                                                                                                                           |
+| ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1     | Ein [[Goblin-Psi-Befehlshaber-pabtso\|Goblin-Psi-Befehlshaber]] entzündet rund um den Erlenblatt-Hofkleine Feuer, die drohen, die Ernte in Brand zu setzen.                                                                                                           |
+| 2     | Vier [[Goblin-mm\|Goblins]] umzingeln eine ältere Menschenfrau und versuchen, ihre Geldbörse zu stehlen. Die Frau (verwende den Wertekasten für [[Gemeiner\|Gemeine]]) kämpft aggressiv gegen die Goblins.                                                            |
+| 3     | Drei [[Goblin-mm\|Goblins]] haben eine [[Ziege-mm\|Ziege]] gestohlen und versuchen, mit ihr wegzulaufen. Die [[Ziege-mm\|Ziege]] weigert sich jedoch.                                                                                                                 |
+| 4     | Zwei [[Goblin-Psi-Raufbold-pabtso\|Goblin-Psi-Raufbolde]] verstecken sich in den Bäumen des EdermathObstgartens. Die Goblins nutzen ihre Telepathie, um sich als Geister auszugeben und andere abzuschrecken, damit sie ungestört Äpfel stehlen können.               |
+| 5     | Fünf [[Goblin-mm\|Goblins]] werfen aus der Gasse hinter dem Gasthaus Steinhügel Abfall auf Passanten.                                                                                                                                                                 |
+| 6     | Drei [[Goblin-mm\|Goblins]] spritzen Farbe auf eine Wand von Harbin Westers Haus.                                                                                                                                                                                     |
+| 7     | Schindeln vom Dach des Schlafenden Riesen fliegen auf eine Gruppe von fünf verwirrten Bergleuten zu (alle Gemeine). Sie wissen nicht, dass ein [[Goblin-Psi-Befehlshaber-pabtso\|Goblin-Psi-Befehlshaber]] auf dem Dach der Taverne für den Unfug verantwortlich ist. | 
+| 8     | Ein [[Goblin-Psi-Raufbold-pabtso\|Goblin-Psi-Raufbold]] und zwei [[Goblin-mm\|Goblins]] liegen am Eingang zum Dreieberpfad im Hinterhalt, um ahnungslose Reisende anzugreifen.                                                                                        |
+| 9     | Zwei [[Goblin-mm\|Goblins]] haben zwei [[Zugpferd-mm\|Zugpferde]] freigelassen, die jetzt durch die Stadt galoppieren.                                                                                                                                                |
+| 10    | Zwei [[Goblin-Psi-Raufbold-pabtso\|Goblin-Psi-Raufbolde]] haben sich dürftig als Kinder verkleidet und betteln einen Bäcker in der Nähe des Gasthauses Steinhügel um Süßigkeiten an.                                                                                 |
+| 11–20 | Es wird kein Schabernack getrieben.                                                                                                                                                                                                                                   |
 ^goblin-mischief
 
-#### What the Goblins Know
+#### Was die Goblins wissen
 
-If any of the goblins—whether from the four crime scene investigations or from the random mischief occurring around town—are captured, bribed, or [charmed](conditions-xphb.md#Charmed) by the characters, the goblins may impart some helpful information to the party. A successful DC 13 Charisma ([Intimidation](D&D/3-Mechanics/CLI/Fertigkeiten-phb.md#Intimidation) or [Persuasion](D&D/3-Mechanics/CLI/Fertigkeiten-phb.md#Persuasion)) check prompts a goblin to disclose one of the following pieces of information:
+Werden [[Goblin-mm|Goblins]] bei den vier Tatortermittlungen oder bei einem zufälligen Schabernack im Dorf von den Charakteren gefangen genommen, bestochen oder [[Zustände-phb#Bezaubert|bezaubert]], haben die [[Goblin-mm|Goblins]] eventuell ein paar hilfreiche Informationen für die Abenteurergruppe. Ein erfolgreicher `SG-13-Charismawurf` ([[01-Spielleiter/Fertigkeiten-phb#Einschüchtern|Einschüchtern]] `oder` [[01-Spielleiter/Fertigkeiten-phb#Überzeugen|Überzeugen]]) bringt einen [[Goblin-mm|Goblin]] dazu, eine der folgenden Informationen preiszugeben:
 
-- **Duergar Outpost.** The goblins are stationed in an old duergar mining outpost somewhere near here, but underground.  
-- **Goblin Leader.** They are working for a goblin named [Ruxithid the Chosen](/3-Mechanics/CLI/bestiary/npc/ruxithid-the-chosen-pabtso.md). Ruxithid has a "big brain," bestowed upon him by what the goblins believe to be mighty gods.  
-- **Running Amok.** Some of the goblins have been sowing chaos in town because it's their first time away from their underground home and they're enjoying their freedom.  
-- **Stealing Shards.** The goblins have been tasked with stealing shards of an ancient obelisk. They believe this obelisk has the power to destroy Phandalin.  
+- **Duergar-Außenposten:** Die [[Goblin-mm|Goblins]] sind in einem alten Duergar-Minenaußenposten in der Nähe unter der Erde stationiert.
+- **Goblin-Anführer:** Sie arbeiten für einen [[Goblin-mm|Goblin]] namens [[Ruxithid_der_Auserwählte-pabtso|Ruxithid der Auserwählte]]. [[Ruxithid_der_Auserwählte-pabtso|Ruxithid]] hat ein „großes Gehirn". Die [[Goblin-mm|Goblins]] glauben, dass mächtige Götter es ihm verliehen haben.
+- **Amok laufen:** Einige [[Goblin-mm|Goblins]] haben im Dorf Chaos angerichtet, weil sie zum ersten Mal ihre unterirdische Heimat verlassen haben und ihre Freiheit genießen wollen.
+- **Splitter stehlen:** Den [[Goblin-mm|Goblins]] wurde aufgetragen, Splitter eines uralten Obelisken zu stehlen. Sie glauben, dass dieser Obelisk die Macht hat, Phandalin zu zerstören.
 
-### Scholarly Aid
+### Akademische Hilfe
 
-During their investigation, the characters meet [Gwyn Oresong](Gwyn%20Oresong-pabtso.md), a dwarf scholar visiting Phandalin who can help piece together the goblins' grand plan.
+Während ihrer Ermittlungen treffen die Charaktere auf [[Gwyn_Erzsang-pabtso|Gwyn Erzsang]], eine Zwergengelehrte auf Besuch in Phandalin. Sie kann dabei helfen, den Plan der [[Goblin-mm|Goblins]] zu entschlüsseln.
 
-After the characters investigate at least one crime scene, read or paraphrase the following:
+$\quad$Nachdem die Charaktere mindestens einen Tatort untersucht haben, lies die folgende Beschreibung vor oder formuliere sie frei:
 
 > [!readaloud] 
 > 
-> A cheery voice calls out to you, and you see a dwarven woman clad in blue robes waving to your group. Her forearms are marked with numerous tattoos of sigils drawn in white ink. Slung across her back is a leather satchel brimming with books, scrolls, and other implements.
+> Eine heitere Stimme ruft euch zu. Ihr seht eine Zwergin in einer blauen Robe, die eurer Gruppe zuwinkt. Auf ihren Unterarmen befinden sich zahlreiche weiße Tätowierungen von Siegeln. Auf ihrem Rücken trägt sie eine Ledertasche voller Bücher, Schriftrollen und anderer Utensilien.
 ^1a1
 
-Gwyn is new to town and is slightly lost. She requests the party's help in directing her to the Stonehill Inn.
+Gwyn ist neu in der Stadt und fühlt sich etwas verloren. Sie bittet Abenteurergruppe, ihr den Weg zum Gasthaus Steinhügel zu weisen.
 
-![Gwyn Oresong](D&D/Abenteuer/Die_Tiefen_von_Phandelver-Der_zersplitterte_Obelisk/img/057-05-003-gwyn-oresong.webp#center)
+![Gwyn Oresong](Die_Tiefen_von_Phandelver-Der_zersplitterte_Obelisk/img/057-05-003-gwyn-oresong.webp#center)
 
-#### Gwyn Oresong
+#### Gwyn Erzsang
 
-Gwyn is a neutral good, dwarf [acolyte](3-Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md) who hails from the city of Neverwinter. She's visiting Phandalin for a few months to spend time with her sister Elsa, who works as a bartender at the Stonehill Inn, and to do field research in the surrounding area.
+Gwyn ist eine neutral gute Zwerg-[[Akolyth|Akolythin]] aus der Stadt Niewinter. Sie ist ein paar Monate in Phandalin zu Besuch, um Zeit mit ihrer Schwester Eisa zu verbringen, die als Wirtin im Gasthaus arbeitet, und um Feldforschung in der Umgebung zu betreiben.
 
-Gwyn has heard about the various crimes from her sister and recognizes the characters as the group tasked with putting an end to the crimes. Though she admits she can't help fight vandals, Gwyn offers to assist the party. She asks the characters to bring any clues to her so she can help them investigate the crimes.
+$\quad$Gwyn hat von ihrer Schwester von den Verbrechen gehört und erkennt die Charaktere als die Gruppe, die den Untaten ein Ende setzen soll. Obwohl sie zugibt, dass sie im Kampf gegen Vandalen nicht viel ausrichten kann, bietet Gwyn der Gruppe ihre Hilfe an. Wenn ihr die Charaktere Hinweise bringen, kann sie ihnen bei der Aufklärung der Verbrechen helfen.
 
-Gwyn knows a wealth of information about the history of the wilds around Phandalin, and she specializes in knowledge about empires of the past. Dwarven history is the focus of her scholarship, but she's also fascinated with goblin history and culture. This knowledge will help the characters later. Gwyn freely shares her knowledge with the characters when they need it (though she has a propensity to ramble), and she is a great ally to help them determine why the goblins are attacking the town.
+$\quad$Gwyn hat viele Informationen über die Geschichte der Wildnis rund um Phandalin. Ihr Spezialgebiet sind die Imperien der Vergangenheit. Der Schwerpunkt ihres Studiums liegt auf der Geschichte der Zwerge, aber sie ist auch von der Geschichte und Kultur der Goblins fasziniert. Dieses Wissen wird den Charakteren später helfen. Gwyn teilt ihr Wissen gerne nach Bedarf mit den Charakteren, sie neigt jedoch zum Schwafeln. Sie ist eine wertvolle Verbündete und hilft dabei, herauszufinden, warum die Goblins das Dorf angreifen.
 
-#### Uncovering the Clues
+#### Die Hinweise aufdecken
 
-As the characters' investigation proceeds, they find clues about the goblins' goals, base of operations, and leader. The possible clues are as follows:
+Während der Ermittlungen der Charaktere finden sie Hinweise auf die Ziele, die Operationsbasis und den Anführer der Goblins. Es gibt folgende mögliche Hinweise.
 
-- **Duergar Site.** The goblins are coming from a place that's duergar in origin. (This clue can be found either by examining the axe found at the Shrine of Luck or by successfully interrogating a captured goblin.)  
-- **Fragments of a Location.** The characters have a fragment of the goblin outpost's name, Zorzula's Rest. (This clue can be found either by talking with Ander at Barthen's Well or by examining the graffiti in the Sleeping Giant.)  
-- **Goblins' Purpose.** The goblins are specifically hunting shards of dark stone that display strange properties. (This clue can be found either by successfully interrogating a captured goblin, or by talking to Wheel-of-Fortune or Halia about the cornerstone of the Miner's Exchange or the stones missing from the Sleeping Giant's bar. Discussing Ander's prior experiences with the well water can also lead to this clue.)  
-- **Leader's Name.** The goblins are operating under the command of a goblin named Ruxithid. (This clue can be found either by eavesdropping on the goblin camp near the Miner's Exchange or by successfully interrogating a kidnapped goblin.)  
+- **Absicht der Goblins:** Die Goblins suchen nach Splittern aus dunklem Stein, die seltsame Eigenschaften aufweisen. (Diesen Hinweis können die Abenteurer finden, indem sie entweder einen gefangenen Goblin verhören oder mit Schicksalsrad oder Halia über den Eckstein der Minenbörse oder die fehlenden Steine in der Theke des Schlafenden Riesen sprechen. Auch ein Gespräch über Anders frühere Erfahrungen mit dem Brunnenwasser kann zu diesem Hinweis führen.)
+- **Duergar-Mine:** Die Goblins stammen von einem Ort, den einst die Duergar bewohnten. (Diesen Hinweis können die Abenteurer entweder durch die Untersuchung der im Schrein des Glücks gefundenen Axt oder durch die erfolgreiche Befragung eines gefangenen Goblins finden.)
+- **Fragmente eines Ortes:** Die Charaktere haben einen Teil des Namens des Goblin-Außenpostens, Zorzulas Ruh. (Diesen Hinweis können die Abenteurer entweder durch ein Gespräch mit Ander bei Barthens Brunnen oder durch die Untersuchung des Graffiti im Schlafenden Riesen finden.)
+- **Name des Anführers:** Die Goblins stehen unter dem Kommando eines Goblins namens Ruxithid. (Diesen Hinweis erhalten die Abenteurer entweder durch Belauschen des Goblin-Lagers in der Nähe der Minenbörse oder durch das erfolgreiche Verhör eines entführten Goblins.)
 
-The characters might piece together these clues themselves and figure out that they must confront Ruxithid in Zorzula's Rest to stop the Sawplee goblins' crimes. Or, if the characters find all four clues, Gwyn easily traces the goblins' origins to the abandoned duergar mining outpost known as Zorzula's Rest. Nervous about what the goblins intend to do with the stolen shards, Gwyn urges the characters to head to Zorzula's Rest with haste and stop the goblins' plans, whatever they are.
+Die Charaktere können aus diesen Hinweisen selbst schließen, dass sie [[Ruxithid_der_Auserwählte-pabtso|Ruxithid]] in Zorzulas Ruh gegenübertreten müssen, um den Verbrechen der Sägezank-Goblins Einhalt zu gebieten. Wenn die Charaktere alle vier Hinweise finden, kann Gwyn die Basis der [[Goblin-mm|Goblins]] leicht auf den verlassenen Duergar-Minenaußenposten zurückführen, der als Zorzulas Ruh bekannt ist. Gwyn sorgt sich darüber, was die [[Goblin-mm|Goblins]] mit den gestohlenen Splittern vorhaben. Sie bittet die Charaktere, sich schnell zu Zorzulas Ruh zu begeben und die Pläne der Goblins zu verteilen, was auch immer diese sein mögen.
 
-If the characters find fewer than four clues and ask for Gwyn's help, Gwyn agrees, but her notes are in disarray. A character can make a DC 15 Intelligence ([History](D&D/3-Mechanics/CLI/Fertigkeiten-phb.md#History)) check to help Gwyn organize her research. On a successful check, Gwyn locates her notes on Zorzula's Rest. Gwyn then suggests that the outpost might be a good place to search next. On a failed check, Gwyn can't find the relevant research. The characters must uncover more clues to find Zorzula's Rest. If they are stuck and return to Gwyn for help, she can then tell them the location.
+$\quad$Falls die Charaktere weniger als vier Hinweise finden und Gwyn um Hilfe bitten, stimmt sie zwar zu, ihre Notizen sind jedoch durcheinander. Ein Charakter kann einen `SG-15-Intelligenzwurf` ([[D&D/01-Spielleiter/Fertigkeiten-phb#Geschichte|Geschichte]]) ausführen, um Gwyn beim Ordnen ihrer Forschung zu helfen. Bei einem Erfolg findet Gwyn ihre Notizen zu Zorzulas Ruh. Sie schlägt vor, dass der Außenposten ein guter Anhaltspunkt sein könnte. Scheitert der Wurf, findet Gwyn die passenden Notizen nicht. Die Charaktere müssen weitere Hinweise aufdecken, um Zorzulas Ruh zu finden. Wenn sie nicht weiterkommen und Gwyn um Hilfe bitten, kann sie ihnen den Standort mitteilen.
 
-When the characters are ready, they can follow Gwyn's directions and set out for Zorzula's Rest. The layout of outpost is detailed later in this chapter (see the "Zorzula's Rest" section).
+$\quad$Wenn die Charaktere bereit sind, können sie Gwyns Anweisungen folgen und sich auf den Weg nach Zorzulas Ruh machen. Der Grundriss des Außenpostens wird später in diesem Kapitel detailliert beschrieben (siehe Abschnitt „Zorzulas Ruh").
 
-## Stolen Shards
+## Gestohlene Splitter 
 
-The goblins have committed the following crimes to retrieve the obelisk shards. All these events happened in the last few days. You can tailor the specific timeline to your campaign's needs, but each of these crimes should have happened recently while the characters were away from town.
+Die Goblins haben die folgenden Verbrechen begangen, um die Obeliskensplitter zu bergen. All diese Vorfälle ereigneten sich in den letzten Tagen. Du kannst den genauen Zeitplan an deine Kampagne anpassen, aber jeder dieser Vorfälle sollte vor Kurzem stattgefunden haben, als die Charaktere nicht im Dorf waren.
 
 ### Barthen's Well
 
@@ -188,7 +188,7 @@ Ander is a wide-eyed, fast-talking, teenage halfling [commoner](Gemeiner-xmm.md)
 
 ##### The Clue
 
-The goblins' comment about retreating to "the Rest" is a clue that could help the characters or [Gwyn Oresong](Gwyn%20Oresong-pabtso.md) determine the name of the goblins' outpost.
+The goblins' comment about retreating to "the Rest" is a clue that could help the characters or [Gwyn Oresong](Gwyn_Erzsang-pabtso.md) determine the name of the goblins' outpost.
 
 ##### Helping Ander
 
@@ -276,7 +276,7 @@ Currently, three [goblin psi brawlers](Goblin-Psi-Raufbold-pabtso.md) remain at 
 
 ##### The Clue
 
-Eavesdropping on the camped goblins reveals that the goblin leader's name is Ruxithid. This is a clue that can help the characters or [Gwyn Oresong](Gwyn%20Oresong-pabtso.md) discover the truth.
+Eavesdropping on the camped goblins reveals that the goblin leader's name is Ruxithid. This is a clue that can help the characters or [Gwyn Oresong](Gwyn_Erzsang-pabtso.md) discover the truth.
 
 ##### Interrogating the Goblins
 
@@ -313,7 +313,7 @@ Map 5.3 shows the shrine and the surrounding area. Characters searching the shri
 
 ##### The Clue
 
-A character who examines the axe and succeeds on a DC 17 Intelligence ([History](D&D/3-Mechanics/CLI/Fertigkeiten-phb.md#History)) check recognizes the runes etched into the axe as duergar in origin. [Gwyn Oresong](Gwyn%20Oresong-pabtso.md) recognizes the runes' origin immediately, and the axe is a clue that can help her lead the characters to Zorzula's Rest.
+A character who examines the axe and succeeds on a DC 17 Intelligence ([History](D&D/3-Mechanics/CLI/Fertigkeiten-phb.md#History)) check recognizes the runes etched into the axe as duergar in origin. [Gwyn Oresong](Gwyn_Erzsang-pabtso.md) recognizes the runes' origin immediately, and the axe is a clue that can help her lead the characters to Zorzula's Rest.
 
 > [!gallery]
 > ![Map 5.3: Phandalin Alleys](D&D/Abenteuer/Die_Tiefen_von_Phandelver-Der_zersplitterte_Obelisk/img/064-map-5-03-phandalin-alleys.webp#gallery)
@@ -360,7 +360,7 @@ The bar is in splinters, and the tavern's lockbox has been broken open and loote
 
 ##### The Clue
 
-The legible parts of the graffiti read, "Zorz ws here." This is intended to say, "Zorzula was here," and the goblins left the graffiti in reference to Zorzula's Rest. The graffiti is a clue that can help the characters or [Gwyn Oresong](Gwyn%20Oresong-pabtso.md) pinpoint the goblins' lair.
+The legible parts of the graffiti read, "Zorz ws here." This is intended to say, "Zorzula was here," and the goblins left the graffiti in reference to Zorzula's Rest. The graffiti is a clue that can help the characters or [Gwyn Oresong](Gwyn_Erzsang-pabtso.md) pinpoint the goblins' lair.
 
 ##### Investigating the Kitchen
 
@@ -409,7 +409,7 @@ If a character follows the trail of coins to the roof, or when the characters de
 > A shrill shriek echoes from the roof of the Sleeping Giant. You see three goblin figures standing atop the building, muscles tensed in surprise. Green energy crackles around the fists of two of the goblins. The third wields a blade of the same energy and hefts a large cloth sack over her shoulder.
 ^1c9
 
-The goblin holding the sword and the sack is a [goblin psi commander](Goblin-Psi-Kommandant-pabtso.md), and the other two goblins are [goblin psi brawlers](Goblin-Psi-Raufbold-pabtso.md). All three goblins attack once spotted.
+The goblin holding the sword and the sack is a [goblin psi commander](Goblin-Psi-Befehlshaber-pabtso.md), and the other two goblins are [goblin psi brawlers](Goblin-Psi-Raufbold-pabtso.md). All three goblins attack once spotted.
 
 During the ensuing combat, the goblins do their best to stay on the roof of the two-story tavern, using the high ground to their advantage.
 
@@ -427,13 +427,13 @@ After conquering the outpost, the illithids reigned over the area for decades, e
 
 Zorzula's Rest is still the home of an enclave of secretive goblins who call themselves the Sawplees. These goblins have inhabited the outpost for generations, with some of their number displaying psionic abilities that trace to the aberrant influence of the mind flayers who also once lived there. Only recently have the goblins ventured beyond the outpost and ransacked nearby areas.
 
-This effort is helmed by a goblin named [Ruxithid the Chosen](Ruxithid%20der%20Auserwählte-pabtso.md), who receives orders telepathically using a special crystal from his "mighty gods"—actually the group of mind flayers at the heart of this adventure. (See the "Indigo Sanctum" section for more.) Ruxithid incorrectly believes these specific mind flayers are the source of some of the goblins' psionic abilities, and he believes that these "gods" will reward him handsomely for his obedience.
+This effort is helmed by a goblin named [Ruxithid the Chosen](Ruxithid_der_Auserwählte-pabtso.md), who receives orders telepathically using a special crystal from his "mighty gods"—actually the group of mind flayers at the heart of this adventure. (See the "Indigo Sanctum" section for more.) Ruxithid incorrectly believes these specific mind flayers are the source of some of the goblins' psionic abilities, and he believes that these "gods" will reward him handsomely for his obedience.
 
 In addition to retrieving the Netherese obelisk shards, Ruxithid and his goblins are also tasked with acquiring offerings for their gods in the form of townspeople from Phandalin. Some of these kidnap victims are in deeper parts of the Underdark (see later chapters), though a few are held within the depths of the outpost.
 
 ### Approaching the Outpost
 
-Once the characters learn the location of Zorzula's Rest from [Gwyn Oresong](Gwyn%20Oresong-pabtso.md), the journey to the outpost is easy. Zorzula's Rest is a day's travel from Phandalin. When the characters near the outpost, read or paraphrase the following:
+Once the characters learn the location of Zorzula's Rest from [Gwyn Oresong](Gwyn_Erzsang-pabtso.md), the journey to the outpost is easy. Zorzula's Rest is a day's travel from Phandalin. When the characters near the outpost, read or paraphrase the following:
 
 > [!readaloud] 
 > 

@@ -1,7 +1,7 @@
 ---
 cssclasses:
   - json5e-spell
-Bezeichnung: "Fizban's Platinum Shield"
+Bezeichnung: Fizban's Platinum Shield
 Zaubergrad: 6
 tags:
   - Klasse/Barde
@@ -17,9 +17,8 @@ classes:
   - Wizard
   - Wizard (Abjurer)
 aliases:
-  - "Fizban's Platinum Shield"
   - Fizban's Platinum Shield
-linter-yaml-title-alias: "Fizban's Platinum Shield"
+linter-yaml-title-alias: Fizban's Platinum Shield
 ---
 # Fizban's Platinum Shield
 *6th-level, Abjuration*  

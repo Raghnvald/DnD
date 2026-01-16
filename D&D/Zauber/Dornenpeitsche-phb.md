@@ -23,7 +23,6 @@ classes:
   - Druid
   - Druid (Circle of the Land, Arctic)
 aliases:
-  - Dornenpeitsche
   - Thorn Whip
 linter-yaml-title-alias: Dornenpeitsche
 ---

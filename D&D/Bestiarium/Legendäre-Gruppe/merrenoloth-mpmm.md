@@ -1,11 +1,12 @@
 ---
+obsidianUIMode: preview
 cssclasses:
-  - json5e-note
+- json5e-note
 tags:
-  - Quelle/5e/mpmm
-  - Monster/legendary-group
+- ttrpg-cli/compendium/src/5e/mpmm
+- ttrpg-cli/monster/legendary-group
 aliases:
-  - Merrenoloth
+- Merrenoloth
 ---
 # Merrenoloth
 
@@ -16,7 +17,7 @@ On initiative count 20 (losing initiative ties) while captaining a vessel, the m
 
 - **Gale.** The air within 60 feet of the vessel is filled with wind. Until initiative count 20 on the next round, that area is difficult terrain, and when a Medium or smaller creature flies into that area or starts its turn flying there, it must succeed on a DC 13 Strength saving throw or be knocked [prone](/3-Mechanics/CLI/conditions.md#Prone).  
 - **Propel.** A strong wind propels the vessel, increasing its speed by 30 feet until initiative count 20 on the next round.  
-- **Repair.** The vessel regains 22 (`4d10`) hit points.  
+- **Repair.** The vessel regains `dice:4d10|noform|noparens|avg|text(22)` (`4d10`) hit points.  
 
 ## Regional Effects
 _Source: Mordenkainen Presents: Monsters of the Multiverse_
@@ -26,4 +27,4 @@ A merrenoloth imbues its vessel with magic that creates one or more of the follo
 - **Unerring.** The vessel always stays on course to the destination the merrenoloth names.  
 - **Unsinkable.** The vessel doesn't sink even if its hull is breached.  
 
-If the merrenoloth dies, these effects fade over the course of `1d6` hours.
+If the merrenoloth dies, these effects fade over the course of `dice:1d6|noform|noparens|avg` (`1d6`) hours.

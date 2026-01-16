@@ -23,7 +23,6 @@ classes:
   - Sorcerer (Divine Soul, Good)
 aliases:
   - Word of Radiance
-  - Wort des Strahlens
 linter-yaml-title-alias: Wort des Strahlens
 ---
 # Wort des Strahlens

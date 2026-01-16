@@ -29,7 +29,6 @@ classes:
   - Wizard
 aliases:
   - Tenser's Floating Disk
-  - Tenser's Floating Disk
 linter-yaml-title-alias: Tenser's Floating Disk
 ---
 # Tenser's Floating Disk

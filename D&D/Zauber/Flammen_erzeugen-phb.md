@@ -23,7 +23,6 @@ classes:
   - Druid
   - Druid (Circle of the Land, Arctic)
 aliases:
-  - Flammen erzeugen
   - Produce Flame
 linter-yaml-title-alias: Flammen erzeugen
 ---

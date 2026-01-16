@@ -13,7 +13,6 @@ classes:
   - Bard (Magical Secrets)
   - Druid
 aliases:
-  - Erwecken
   - Awaken
 linter-yaml-title-alias: Erwecken
 obsidianUIMode: preview

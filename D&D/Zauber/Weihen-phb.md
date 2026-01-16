@@ -19,7 +19,7 @@ classes:
   - Cleric
   - Warlock (The Fiend)
 aliases:
-  - Weihen
+  - Hallow
 linter-yaml-title-alias: Weihen
 obsidianUIMode: preview
 ---

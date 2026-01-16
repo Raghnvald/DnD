@@ -17,7 +17,6 @@ classes:
   - Bard (Magical Secrets)
   - Paladin
 aliases:
-  - Aura der Reinheit
   - Aura of Purity
 linter-yaml-title-alias: Aura der Reinheit
 ---

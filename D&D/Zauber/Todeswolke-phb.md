@@ -23,7 +23,7 @@ classes:
   - Sorcerer
   - Wizard
 aliases:
-  - Todeswolke
+  - Cloudkill
 linter-yaml-title-alias: Todeswolke
 obsidianUIMode: preview
 ---

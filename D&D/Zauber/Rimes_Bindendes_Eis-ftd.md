@@ -24,7 +24,6 @@ classes:
   - Wizard (Evoker)
 aliases:
   - Rime's Binding Ice
-  - Rime's Binding Ice
 linter-yaml-title-alias: Rime's Binding Ice
 ---
 # Rime's Binding Ice

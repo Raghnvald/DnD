@@ -1,7 +1,7 @@
 ---
 cssclasses:
   - json5e-spell
-Bezeichnung: "Tasha's Otherworldly Guise"
+Bezeichnung: Tasha's Otherworldly Guise
 Zaubergrad: 6
 tags:
   - Klasse/Barde
@@ -17,9 +17,8 @@ classes:
   - Warlock
   - Wizard
 aliases:
-  - "Tasha's Otherworldly Guise"
   - Tasha's Otherworldly Guise
-linter-yaml-title-alias: "Tasha's Otherworldly Guise"
+linter-yaml-title-alias: Tasha's Otherworldly Guise
 ---
 # Tasha's Otherworldly Guise
 *6th-level, Transmutation*  

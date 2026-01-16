@@ -20,7 +20,6 @@ classes:
   - Wizard
 aliases:
   - Melf's Acid Arrow
-  - Melf's Acid Arrow
 linter-yaml-title-alias: Melf's Acid Arrow
 obsidianUIMode: preview
 ---

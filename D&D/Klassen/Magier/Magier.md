@@ -119,7 +119,7 @@ keiten im Angesicht der Gefahr einzusetzen?
 Du kannst einen Magier schnell erschaffen, indem du diesen Vorschlägen folgst:
 
 Setze deinen höchsten Attributswert auf Intelligenz, deinen zweithöchsten auf Konstitution oder Geschicklichkeit. Wenn du dich der Schule der Verzauberungen anschließen möchtest, solltest du Charisma zu deinem zweithöchsten Attribut  
-machen. Wähle zusätzlich den Hintergrund Weiser. Entscheide dich außerdem für die Zaubertricks [[Magierhand]], [[Licht]] und [[Kältestrahl]], zusammen mit den folgenden Zaubern des 1. Grades: [[Brennende-Hände]], [[Person_bezaubern]], [[Federfall-phb]],  [[Magierrüstung]], [[Magisches_Geschoss]] und [[Schlaf]].
+machen. Wähle zusätzlich den Hintergrund Weiser. Entscheide dich außerdem für die Zaubertricks [[Magierhand-old]], [[Licht-old]] und [[Kältestrahl-old]], zusammen mit den folgenden Zaubern des 1. Grades: [[Brennende-Hände]], [[Person_bezaubern-old]], [[Federfall-phb]],  [[Magierrüstung-old]], [[Magisches_Geschoss-old]] und [[Schlaf]].
 
 > Die Kunst der Magie setzt voraus, dass man sie versteht. Das Wissen darüber, wie und warum Magie funktioniert, und unsere steten Bemühungen, dieses Verständnis zu vertiefen, haben im Laufe der Jahrhunderte zu allen wichtigen Fortschritten der Zivilisation geführt.
 > 
@@ -199,7 +199,7 @@ Du musst Zaubersprüche vorbereiten, um sie wirken zu können. Wähle dazu aus d
 
 Bist du zum Beispiel ein Magier der 3. Stufe, verfügst du über vier Zauberplätze des 1. Grades und zwei des 2. Grades. Bei einem Intelligenzwert von 16 kann deine Liste vorbereiteter Zauber sechs beliebige Sprüche (Stufe 3 + Modifikator 3) des 1. oder 2. Grades aus deinem Zauberbuch umfassen.
 
-Die Aufstiegstabelle des Magiers gibt an, wie viele Zauberplätze pro Grad dir auf jeder Stufe zur Verfügung stehen. Um einen Spruch aus deiner Liste vorbereiteter Zauber zu wirken, musst du einen Zauberplatz des gleichen oder eines höheren Grades verbrauchen. Alle verbrauchten Zauberplätze stehen dir nach einer langen Rast wieder zur Verfügung. Hast du beispielsweise den Zauber [[Magisches_Geschoss]] des 1. Grades vorbereitet, kannst du sowohl einen Zauberplatz des 1. Grades als auch einen des 2. Grades verwenden, um [[Magisches_Geschoss]] zu wirken.
+Die Aufstiegstabelle des Magiers gibt an, wie viele Zauberplätze pro Grad dir auf jeder Stufe zur Verfügung stehen. Um einen Spruch aus deiner Liste vorbereiteter Zauber zu wirken, musst du einen Zauberplatz des gleichen oder eines höheren Grades verbrauchen. Alle verbrauchten Zauberplätze stehen dir nach einer langen Rast wieder zur Verfügung. Hast du beispielsweise den Zauber [[Magisches_Geschoss-old]] des 1. Grades vorbereitet, kannst du sowohl einen Zauberplatz des 1. Grades als auch einen des 2. Grades verwenden, um [[Magisches_Geschoss-old]] zu wirken.
 
 Einen Spruch zu wirken, entfernt ihn nicht von deiner Liste der vorbereiteten Zauber. Diese kannst du nach jeder langen Rast ändern. Eine neue Liste vorzubereiten, erfordert mindestens 1 Minute je Zaubergrad pro Spruch, die du damit verbringst, dein Zauberbuch zu studieren und dir die Gesten und Gesänge einzuprägen, die zum Wirken der Zauber nötig sind.
 

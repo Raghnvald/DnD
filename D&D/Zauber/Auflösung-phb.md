@@ -19,7 +19,6 @@ classes:
   - Sorcerer
   - Wizard
 aliases:
-  - Auflösung
   - Disintegrate
 linter-yaml-title-alias: Auflösung
 ---

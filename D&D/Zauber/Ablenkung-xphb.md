@@ -25,7 +25,6 @@ classes:
   - Wizard
   - Wizard (Illusionist)
 aliases:
-  - Ablenkung
   - Mislead
 linter-yaml-title-alias: Ablenkung
 ---

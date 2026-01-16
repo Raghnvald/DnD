@@ -26,7 +26,7 @@ classes:
   - Rogue (Arcane Trickster)
   - Wizard
 aliases:
-  - Vertrauten finden
+  - Find Familiar
 linter-yaml-title-alias: Vertrauten finden
 ---
 # Vertrauten finden

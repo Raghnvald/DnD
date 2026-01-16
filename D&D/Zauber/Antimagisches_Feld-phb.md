@@ -21,7 +21,6 @@ classes:
   - Wizard
 aliases:
   - Antimagic Field
-  - Antimagisches Feld
 linter-yaml-title-alias: Antimagisches Feld
 ---
 # Antimagisches Feld

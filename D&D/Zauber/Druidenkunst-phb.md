@@ -23,7 +23,6 @@ classes:
   - Druid
   - Druid (Circle of the Land, Arctic)
 aliases:
-  - Druidenkunst
   - Druidcraft
 linter-yaml-title-alias: Druidenkunst
 ---

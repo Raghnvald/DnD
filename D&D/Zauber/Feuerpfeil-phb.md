@@ -26,7 +26,6 @@ classes:
   - Sorcerer
   - Wizard
 aliases:
-  - Feuerpfeil
   - Fire Bolt
 linter-yaml-title-alias: Feuerpfeil
 ---

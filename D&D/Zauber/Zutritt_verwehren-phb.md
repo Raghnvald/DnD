@@ -18,7 +18,7 @@ classes:
   - Bard (Magical Secrets)
   - Cleric
 aliases:
-  - Zutritt verwehren
+  - Forbiddance
 linter-yaml-title-alias: Zutritt verwehren
 obsidianUIMode: preview
 ---

@@ -23,7 +23,6 @@ classes:
   - Druid
   - Warlock (The Archfey)
 aliases:
-  - Feenfeuer
   - Faerie Fire
 linter-yaml-title-alias: Feenfeuer
 ---

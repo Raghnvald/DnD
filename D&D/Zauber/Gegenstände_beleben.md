@@ -13,7 +13,6 @@ classes:
   - Sorcerer
   - Wizard
 aliases:
-  - Gegenstände beleben
   - Animate Objects
 linter-yaml-title-alias: Gegenstände beleben
 ---
@@ -43,7 +42,7 @@ Als Bonusaktion kannst du jede Kreatur, die du mit diesem Zauber belebt hast und
 | Riesig     | 80  | 10  | +8 Treffer, `2W12 + 4` Schaden | 18  | 6   |
 ^animated-object-statistics
 
-Ein belebter Gegenstand ist ein Konstrukt mit RK, Trefferpunkten, Angriffen, Stärke und Geschicklichkeit, die durch seine Größe bestimmt werden. Seine Konstitution ist 10, seine Intelligenz und Weisheit sind 3 und sein Charisma ist 1. Seine Bewegungsrate beträgt 9m; wenn dem Objekt Beine oder andere Anhängsel fehlen, die es zur Fortbewegung benutzen kann, hat es stattdessen eine Fluggeschwindigkeit von 9m und kann [[Schweben]]. Wenn das Objekt fest mit einer Oberfläche oder einem größeren Objekt verbunden ist, z.B. mit einer Kette, die an einer Wand befestigt ist, beträgt seine Geschwindigkeit 0. Es hat eine [[08-Abenteuersuche#Lichtverhältnisse und Sicht#Blindsicht|Blindsicht]] mit einem Radius von 9m und ist jenseits dieser Entfernung blind. Wenn das animierte Objekt auf 0 Trefferpunkte fällt, kehrt es in seine ursprüngliche Objektform zurück, und jeglicher verbleibende Schaden überträgt sich auf seine ursprüngliche Objektform.
+Ein belebter Gegenstand ist ein Konstrukt mit RK, Trefferpunkten, Angriffen, Stärke und Geschicklichkeit, die durch seine Größe bestimmt werden. Seine Konstitution ist 10, seine Intelligenz und Weisheit sind 3 und sein Charisma ist 1. Seine Bewegungsrate beträgt 9m; wenn dem Objekt Beine oder andere Anhängsel fehlen, die es zur Fortbewegung benutzen kann, hat es stattdessen eine Fluggeschwindigkeit von 9m und kann [[Schweben-old]]. Wenn das Objekt fest mit einer Oberfläche oder einem größeren Objekt verbunden ist, z.B. mit einer Kette, die an einer Wand befestigt ist, beträgt seine Geschwindigkeit 0. Es hat eine [[08-Abenteuersuche#Lichtverhältnisse und Sicht#Blindsicht|Blindsicht]] mit einem Radius von 9m und ist jenseits dieser Entfernung blind. Wenn das animierte Objekt auf 0 Trefferpunkte fällt, kehrt es in seine ursprüngliche Objektform zurück, und jeglicher verbleibende Schaden überträgt sich auf seine ursprüngliche Objektform.
 
 Wenn du einem Objekt befiehlst, anzugreifen, kann es einen einzigen Nahkampfangriff gegen eine Kreatur im Umkreis von 5 Fuß ausführen. Es führt einen Hiebangriff mit einem Angriffsbonus und Schaden durch Niederschlagen aus, der von seiner Größe abhängt. Der DM kann festlegen, dass ein bestimmter Gegenstand je nach seiner Form Hieb- oder Stichschaden verursacht.
 

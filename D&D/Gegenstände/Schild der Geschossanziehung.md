@@ -35,4 +35,4 @@ Wenn du diesen Schild hältst, bist du gegen Schaden durch Fernkampfwaffenangrif
 
 ## Fluch
 
-Dieser Schild ist verflucht. Durch Einstimmen wirkt der Fluch, bis der Zauber [[Fluch_brechen]] oder ähnliche Magie gewirkt wird. Das Ablegen des Schilds beendet den Fluch nicht. Wenn ein Fernkampfwaffenangriff gegen ein Ziel im Abstand von bis zu drei Metern von dir ausgeführt wird, macht der Fluch stattdessen dich zum Ziel.
+Dieser Schild ist verflucht. Durch Einstimmen wirkt der Fluch, bis der Zauber [[Fluch_brechen-old]] oder ähnliche Magie gewirkt wird. Das Ablegen des Schilds beendet den Fluch nicht. Wenn ein Fernkampfwaffenangriff gegen ein Ziel im Abstand von bis zu drei Metern von dir ausgeführt wird, macht der Fluch stattdessen dich zum Ziel.

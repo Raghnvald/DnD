@@ -40,7 +40,6 @@ classes:
   - Wizard
   - Wizard (Evoker)
 aliases:
-  - Erfrierung
   - Frostbite
 linter-yaml-title-alias: Erfrierung
 ---

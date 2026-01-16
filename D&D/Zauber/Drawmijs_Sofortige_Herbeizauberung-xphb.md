@@ -1,12 +1,12 @@
 ---
-Bezeichnung: "Drawmij's Instant Summons"
+Bezeichnung: Drawmij's Instant Summons
 Zaubergrad: 6
-Zeitaufwand: 
-Reichweite: 
-Komponenten: 
-Wirkungsdauer: 
-Angriff: 
-Schaden: 
+Zeitaufwand:
+Reichweite:
+Komponenten:
+Wirkungsdauer:
+Angriff:
+Schaden:
 tags:
   - Klasse/Barde
   - Klasse/Magier
@@ -18,9 +18,8 @@ classes:
   - Bard
   - Wizard
 aliases:
-  - "Drawmij's Instant Summons"
   - Drawmij's Instant Summons
-linter-yaml-title-alias: "Drawmij's Instant Summons"
+linter-yaml-title-alias: Drawmij's Instant Summons
 ---
 # Drawmij's Instant Summons
 *6th-level, Conjuration (ritual)*  

@@ -26,7 +26,6 @@ classes:
   - Ranger
   - Sorcerer
 aliases:
-  - Auf Wasser gehen
   - Water Walk
 linter-yaml-title-alias: Auf Wasser gehen
 ---

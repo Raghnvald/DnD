@@ -22,7 +22,6 @@ classes:
   - Wizard
 aliases:
   - Arcane Lock
-  - Arkanes Schloss
 linter-yaml-title-alias: Arkanes Schloss
 ---
 # Arkanes Schloss

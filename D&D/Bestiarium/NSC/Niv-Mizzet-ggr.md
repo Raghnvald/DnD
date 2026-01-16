@@ -1,22 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-  - json5e-monster
+- json5e-monster
 tags:
-  - Quelle/5e/ggr
-  - Monster/HG/26
-  - Monster/Größe/Gigantisch
-  - Monster/Typ/Drache
+- ttrpg-cli/compendium/src/5e/ggr
+- ttrpg-cli/monster/cr/26
+- ttrpg-cli/monster/size/gargantuan
+- ttrpg-cli/monster/type/dragon
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-  - Niv-Mizzet
-Typ: Drache
-Größe: Gigantisch
-HG: 26
-Habitat:
-  - /
-status: WIP
+- Niv-Mizzet
 ---
 # [Niv-Mizzet](3-Mechanics\CLI\bestiary\npc/niv-mizzet-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 241*  
@@ -48,37 +42,51 @@ There can be little doubt that this ancient dragon is one of the most intelligen
   - "intelligence": !!int "18"
   - "wisdom": !!int "11"
 "skillsaves":
-  - "name": "Arcana"
+  - "name": "[Arcana](/3-Mechanics/CLI/skills.md#Arcana)"
     "desc": "+18"
-  - "name": "Insight"
+  - "name": "[Insight](/3-Mechanics/CLI/skills.md#Insight)"
     "desc": "+11"
-  - "name": "Perception"
+  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
     "desc": "+11"
 "damage_resistances": "cold, psychic, thunder"
 "damage_immunities": "fire, lightning"
-"condition_immunities": "charmed"
-"senses": "blindsight 60 ft., darkvision 120 ft., passive Perception 21"
+"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed)"
+"senses": "[blindsight](/3-Mechanics/CLI/senses.md#Blindsight) 60 ft., [darkvision](/3-Mechanics/CLI/senses.md#Darkvision)\
+  \ 120 ft., passive Perception 21"
 "languages": "Common, Draconic"
 "cr": "26"
 "traits":
   - "desc": "Niv-Mizzet is a 20th-level Izzet spellcaster. His spellcasting ability\
       \ is Intelligence (spell save DC 26, +18 to hit with spell attacks). He has\
-      \ the following wizard spells prepared:\n\n**Cantrips (at will):** fire bolt,\
-      \ light, prestidigitation, ray of frost, shocking grasp\n\n**1st level (4 slots):**\
-      \ detect magic, magic missile, shield, thunderwave, unseen servant\n\n**2nd\
-      \ level (3 slots):** blur, enlarge/reduce, flaming sphere, hold person, scorching\
-      \ ray\n\n**3rd level (3 slots):** counterspell, fireball, lightning bolt, slow\n\
-      \n**4th level (3 slots):** confusion, dimension door, fabricate\n\n**5th level\
-      \ (2 slots):** conjure elemental, polymorph, wall of fire, wall of force\n\n\
-      **6th level (1 slots):** chain lightning, disintegrate, true seeing\n\n**7th\
-      \ level (1 slots):** project image, reverse gravity, teleport\n\n**8th level\
-      \ (1 slots):** control weather, maze, power word stun\n\n**9th level (1 slots):**\
-      \ prismatic wall"
+      \ the following wizard spells prepared:\n\n**Cantrips (at will):** [fire bolt](/3-Mechanics/CLI/spells/fire-bolt-xphb.md),\
+      \ [light](/3-Mechanics/CLI/spells/light-xphb.md), [prestidigitation](/3-Mechanics/CLI/spells/prestidigitation-xphb.md),\
+      \ [ray of frost](/3-Mechanics/CLI/spells/ray-of-frost-xphb.md), [shocking grasp](/3-Mechanics/CLI/spells/shocking-grasp-xphb.md)\n\
+      \n**1st level (4 slots):** [detect magic](/3-Mechanics/CLI/spells/detect-magic-xphb.md),\
+      \ [magic missile](/3-Mechanics/CLI/spells/magic-missile-xphb.md), [shield](/3-Mechanics/CLI/spells/shield-xphb.md),\
+      \ [thunderwave](/3-Mechanics/CLI/spells/thunderwave-xphb.md), [unseen servant](/3-Mechanics/CLI/spells/unseen-servant-xphb.md)\n\
+      \n**2nd level (3 slots):** [blur](/3-Mechanics/CLI/spells/blur-xphb.md), [enlarge/reduce](/3-Mechanics/CLI/spells/enlarge-reduce-xphb.md),\
+      \ [flaming sphere](/3-Mechanics/CLI/spells/flaming-sphere-xphb.md), [hold person](/3-Mechanics/CLI/spells/hold-person-xphb.md),\
+      \ [scorching ray](/3-Mechanics/CLI/spells/scorching-ray-xphb.md)\n\n**3rd level\
+      \ (3 slots):** [counterspell](/3-Mechanics/CLI/spells/counterspell-xphb.md),\
+      \ [fireball](/3-Mechanics/CLI/spells/fireball-xphb.md), [lightning bolt](/3-Mechanics/CLI/spells/lightning-bolt-xphb.md),\
+      \ [slow](/3-Mechanics/CLI/spells/slow-xphb.md)\n\n**4th level (3 slots):** [confusion](/3-Mechanics/CLI/spells/confusion-xphb.md),\
+      \ [dimension door](/3-Mechanics/CLI/spells/dimension-door-xphb.md), [fabricate](/3-Mechanics/CLI/spells/fabricate-xphb.md)\n\
+      \n**5th level (2 slots):** [conjure elemental](/3-Mechanics/CLI/spells/conjure-elemental-xphb.md),\
+      \ [polymorph](/3-Mechanics/CLI/spells/polymorph-xphb.md), [wall of fire](/3-Mechanics/CLI/spells/wall-of-fire-xphb.md),\
+      \ [wall of force](/3-Mechanics/CLI/spells/wall-of-force-xphb.md)\n\n**6th level\
+      \ (1 slots):** [chain lightning](/3-Mechanics/CLI/spells/chain-lightning-xphb.md),\
+      \ [disintegrate](/3-Mechanics/CLI/spells/disintegrate-xphb.md), [true seeing](/3-Mechanics/CLI/spells/true-seeing-xphb.md)\n\
+      \n**7th level (1 slots):** [project image](/3-Mechanics/CLI/spells/project-image-xphb.md),\
+      \ [reverse gravity](/3-Mechanics/CLI/spells/reverse-gravity-xphb.md), [teleport](/3-Mechanics/CLI/spells/teleport-xphb.md)\n\
+      \n**8th level (1 slots):** [control weather](/3-Mechanics/CLI/spells/control-weather-xphb.md),\
+      \ [maze](/3-Mechanics/CLI/spells/maze-xphb.md), [power word stun](/3-Mechanics/CLI/spells/power-word-stun-xphb.md)\n\
+      \n**9th level (1 slots):** [prismatic wall](/3-Mechanics/CLI/spells/prismatic-wall-xphb.md)"
     "name": "Spellcasting"
   - "desc": "If Niv-Mizzet fails a saving throw, he can choose to succeed instead."
     "name": "Legendary Resistance (3/Day)"
-  - "desc": "Niv-Mizzet can maintain concentration on two different spells at the\
-      \ same time. In addition, he has advantage on saving throws to maintain concentration\
+  - "desc": "Niv-Mizzet can maintain [concentration](/3-Mechanics/CLI/conditions.md#Concentration)\
+      \ on two different spells at the same time. In addition, he has advantage on\
+      \ saving throws to maintain [concentration](/3-Mechanics/CLI/conditions.md#Concentration)\
       \ on spells."
     "name": "Locus of the Firemind"
   - "desc": "Niv-Mizzet has advantage on saving throws against spells and other magical\
@@ -113,8 +121,8 @@ There can be little doubt that this ancient dragon is one of the most intelligen
     "name": "Tail Attack"
   - "desc": "Niv-Mizzet beats his wings. Each creature within 15 feet of him must\
       \ succeed on a DC 25 Dexterity saving throw or take 14 (2d4 + 9) bludgeoning\
-      \ damage and be knocked prone. Niv-Mizzet can then fly up to half his flying\
-      \ speed."
+      \ damage and be knocked [prone](/3-Mechanics/CLI/conditions.md#Prone). Niv-Mizzet\
+      \ can then fly up to half his flying speed."
     "name": "Wing Attack (Costs 2 Actions)"
   - "desc": "Niv-Mizzet regains a spell slot of 3rd level or lower."
     "name": "Dracogenius (Costs 3 Actions)"

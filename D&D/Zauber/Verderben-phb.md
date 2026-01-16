@@ -21,7 +21,7 @@ classes:
   - Cleric
   - Paladin (Oath of Vengeance)
 aliases:
-  - Verderben
+  - Bane
 linter-yaml-title-alias: Verderben
 ---
 # Verderben

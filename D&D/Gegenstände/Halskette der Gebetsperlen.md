@@ -21,7 +21,7 @@ Sechs Arten von Zauberperlen existieren. Der SL entscheidet den Typ jeder Perle 
 
 | dice: d20 | Bead of... | Spell |
 |-----------|------------|-------|
-| 1-6 | Blessing | [Bless](Segnen.md) |
+| 1-6 | Blessing | [Bless](Segnen-old.md) |
 | 7-12 | Curing | [Cure wounds](Wunden-heilen.md) (2nd level) or [lesser restoration](Schwache%20Genesung.md) |
 | 13-16 | Favor | [Greater restoration](Vollständige%20Genesung.md) |
 | 17-18 | Smiting | [Branding smite](Brandmarkendes_Niederstrecken.md) |

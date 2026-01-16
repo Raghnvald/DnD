@@ -1,11 +1,12 @@
 ---
+obsidianUIMode: preview
 cssclasses:
-  - json5e-note
+- json5e-note
 tags:
-  - Quelle/5e/mpmm
-  - Monster/legendary-group
+- ttrpg-cli/compendium/src/5e/mpmm
+- ttrpg-cli/monster/legendary-group
 aliases:
-  - Githzerai Anarch
+- Githzerai Anarch
 ---
 # Githzerai Anarch
 
@@ -26,4 +27,4 @@ The region containing an anarch's lair is warped by its presence, which creates 
 - **Form Substance.** In Limbo, the anarch can spend 10 minutes stabilizing a 5-mile area centered on it, causing the unformed substance to take whatever inanimate form the anarch chooses. During that process, the anarch determines the shape and composition of the forms created.  
 - **Stabilize Object.** The anarch stabilizes any object created in Limbo and brought to the Material Plane for as long as the anarch remains within 1 mile of it (no action required).  
 
-If the anarch dies, these effects end after `1d6` rounds. All formed substance becomes a chaotic churn of energy and matter, unraveling into unformed substance that dissipates `1d6` rounds later.
+If the anarch dies, these effects end after `dice:1d6|noform|noparens|avg` (`1d6`) rounds. All formed substance becomes a chaotic churn of energy and matter, unraveling into unformed substance that dissipates `dice:1d6|noform|noparens|avg` (`1d6`) rounds later.

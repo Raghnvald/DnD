@@ -26,7 +26,7 @@ linter-yaml-title-alias: Staff of Charming
 - **Gewicht:** 2,0 kg
 - **Kosten:** 4.000 Goldmünzen
 
-Während du diesen Zauberstecken hältst, kannst du eine Aktion nutzen, um zwischen 1 und 10 Ladungen auszugeben und einen der folgenden Zauber damit zu wirken, der deinen `Zauberrettungswurf-SG` hat: [[Person_bezaubern]], [[Befehl]] oder [[Sprachen verstehen]].
+Während du diesen Zauberstecken hältst, kannst du eine Aktion nutzen, um zwischen 1 und 10 Ladungen auszugeben und einen der folgenden Zauber damit zu wirken, der deinen `Zauberrettungswurf-SG` hat: [[Person_bezaubern-old]], [[Befehl]] oder [[Sprachen verstehen-old]].
 
 $\quad$Der Zauberstecken kann ebenso als magischer Kampfstab benutzt werden.
 

@@ -1,12 +1,12 @@
 ---
-Bezeichnung: "Bigby's Hand"
+Bezeichnung: Bigby's Hand
 Zaubergrad: 5
-Zeitaufwand: 
-Reichweite: 
-Komponenten: 
-Wirkungsdauer: 
-Angriff: 
-Schaden: 
+Zeitaufwand:
+Reichweite:
+Komponenten:
+Wirkungsdauer:
+Angriff:
+Schaden:
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Magier
@@ -17,9 +17,8 @@ classes:
   - Bard (Magical Secrets)
   - Wizard
 aliases:
-  - "Bigby's Hand"
   - Bigby's Hand
-linter-yaml-title-alias: "Bigby's Hand"
+linter-yaml-title-alias: Bigby's Hand
 ---
 # Bigby's Hand
 *Hervorrufung des 5. Grades*  

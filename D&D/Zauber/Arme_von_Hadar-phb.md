@@ -18,7 +18,6 @@ classes:
   - Bard (Magical Secrets)
   - Warlock
 aliases:
-  - Arme von Hadar
   - Arms of Hadar
 linter-yaml-title-alias: Arme von Hadar
 ---

@@ -1,7 +1,7 @@
 ---
 cssclasses:
   - json5e-spell
-Bezeichnung: "Mordenkainen's Sword"
+Bezeichnung: Mordenkainen's Sword
 tags:
   - Klasse/Barde
   - Klasse/Magier
@@ -14,9 +14,8 @@ classes:
   - Wizard
   - Wizard (Evoker)
 aliases:
-  - "Mordenkainen's Sword"
   - Mordenkainen's Sword
-linter-yaml-title-alias: "Mordenkainen's Sword"
+linter-yaml-title-alias: Mordenkainen's Sword
 ---
 # Mordenkainen's Sword
 *7th-level, Evocation*  

@@ -28,8 +28,8 @@ $\quad$Manche Charaktere und Monster haben Spezialfähigkeiten, mit denen sie Za
 
 ### Einen Zauber auf einem höheren Grad wirken
 
-Wenn ein Zauberwirker einen Zauber mit einem Zauberplatz eines höheren Grades wirkt, gilt der höhere Grad. Wenn Umara zum Beispiel beim Wirken von [[Magisches_Geschoss]] einen Zauberplatz des 2. Grades nutzt, hat Magische Geschoss in diesem Zug den 2. Grad. Der Zauber dehnt sich gewissermaßen aus, um den zugewiesenen Zauberplatz auszufüllen.
-$\quad$Bestimmte Zauber wie etwa [[Magisches_Geschoss]] und [[Wunden-heilen]] haben mächtigere Effekte, wenn sie auf einem höheren Grad gewirkt werden. Diese sind in der Beschreibung des Zaubers aufgeführt.
+Wenn ein Zauberwirker einen Zauber mit einem Zauberplatz eines höheren Grades wirkt, gilt der höhere Grad. Wenn Umara zum Beispiel beim Wirken von [[Magisches_Geschoss-old]] einen Zauberplatz des 2. Grades nutzt, hat Magische Geschoss in diesem Zug den 2. Grad. Der Zauber dehnt sich gewissermaßen aus, um den zugewiesenen Zauberplatz auszufüllen.
+$\quad$Bestimmte Zauber wie etwa [[Magisches_Geschoss-old]] und [[Wunden-heilen]] haben mächtigere Effekte, wenn sie auf einem höheren Grad gewirkt werden. Diese sind in der Beschreibung des Zaubers aufgeführt.
 
 #### In Rüstung zaubern
 

@@ -14,8 +14,8 @@ aliases:
 
 | W10 | Ereignis                                                                                                                  |
 | --- | ------------------------------------------------------------------------------------------------------------------------- |
-| 1   | [[Aufstieg-oder-Ende-eines-Anführers-oder-einer-Ära-Arten-von-Anführern\|Aufstieg eines Anführers]] oder Beginn einer Ära |
-| 2   | [[Aufstieg-oder-Ende-eines-Anführers-oder-einer-Ära-Arten-von-Anführern\|Sturz eines Anführers]] oder Ende einer Ära      |
+| 1   | [[Aufstieg-oder-Ende-eines-Anführers-oder-einer-Ära-Arten-von-Anführern-dmg\|Aufstieg eines Anführers]] oder Beginn einer Ära |
+| 2   | [[Aufstieg-oder-Ende-eines-Anführers-oder-einer-Ära-Arten-von-Anführern-dmg\|Sturz eines Anführers]] oder Ende einer Ära      |
 | 3   | [[Katastrophales-Unglück\|Katastrophales Unglück]]                                                                        |
 | 4   | Angriff oder [[Angriff-oder-Invasion-Invasionstruppe-dmg\|Invasion]]                                                                                                     |
 | 5   | Rebellion, Revolution, Umsturz                                                                                            |

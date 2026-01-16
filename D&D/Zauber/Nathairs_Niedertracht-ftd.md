@@ -24,7 +24,6 @@ classes:
   - Wizard (Illusionist)
 aliases:
   - Nathair's Mischief
-  - Nathair's Mischief
 linter-yaml-title-alias: Nathair's Mischief
 ---
 # Nathair's Mischief

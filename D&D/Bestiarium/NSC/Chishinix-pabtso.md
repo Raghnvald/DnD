@@ -1,23 +1,18 @@
 ---
+obsidianUIMode: preview
+cssclasses:
+- json5e-monster
 tags:
-  - Quelle/5e/pabtso
-  - Monster/HG/11
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Aberration
+- ttrpg-cli/compendium/src/5e/pabtso
+- ttrpg-cli/monster/cr/11
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/aberration
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-  - Chishinix
-Name: Chishinix
-Image: npc/token/chishinix-pabtso.webp
-Typ: Aberration
-Habitat:
-  - /
-Größe: Mittelgroß
-HG: 11
-status: WIP
+- Chishinix
 ---
-# Chishinix
+# [Chishinix](3-Mechanics\CLI\bestiary\npc/chishinix-pabtso.md)
 *Source: Phandelver and Below: The Shattered Obelisk p. 194*  
 
 ```statblock
@@ -108,6 +103,6 @@ status: WIP
     "name": "Warp Reality"
 "source":
   - "PaBTSO"
-"image": "npc/token/chishinix-pabtso.webp"
+"image": "/3-Mechanics/CLI/bestiary/npc/token/chishinix-pabtso.webp"
 ```
 ^statblock

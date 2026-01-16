@@ -31,7 +31,7 @@ classes:
   - Warlock
   - Wizard
 aliases:
-  - Verbannung
+  - Banishment
 linter-yaml-title-alias: Verbannung
 obsidianUIMode: preview
 ---

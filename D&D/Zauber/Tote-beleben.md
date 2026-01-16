@@ -8,7 +8,6 @@ tags:
   - Zauber/Grad/3
   - Zauber/Schule/Nekromantie
 aliases:
-  - Tote beleben
   - Animate Dead
 linter-yaml-title-alias: Tote beleben
 ---

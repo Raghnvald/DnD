@@ -29,7 +29,6 @@ classes:
   - Wizard
 aliases:
   - Ashardalon's Stride
-  - Ashardalon's Stride
 linter-yaml-title-alias: Ashardalon's Stride
 ---
 # Ashardalon's Stride

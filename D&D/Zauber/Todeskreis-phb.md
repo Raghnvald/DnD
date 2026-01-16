@@ -21,7 +21,7 @@ classes:
   - Warlock
   - Wizard
 aliases:
-  - Todeskreis
+  - Circle of Death
 linter-yaml-title-alias: Todeskreis
 obsidianUIMode: preview
 ---

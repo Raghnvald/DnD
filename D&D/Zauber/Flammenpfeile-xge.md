@@ -31,7 +31,6 @@ classes:
   - Sorcerer
   - Wizard
 aliases:
-  - Flammenpfeile
   - Flame Arrows
 linter-yaml-title-alias: Flammenpfeile
 ---

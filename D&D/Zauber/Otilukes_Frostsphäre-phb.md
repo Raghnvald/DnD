@@ -1,7 +1,7 @@
 ---
 cssclasses:
   - json5e-spell
-Bezeichnung: "Otiluke's Freezing Sphere"
+Bezeichnung: Otiluke's Freezing Sphere
 Zaubergrad: 6
 tags:
   - Klasse/Barde/Magische-Geheimnisse
@@ -13,9 +13,8 @@ classes:
   - Bard (Magical Secrets)
   - Wizard
 aliases:
-  - "Otiluke's Freezing Sphere"
   - Otiluke's Freezing Sphere
-linter-yaml-title-alias: "Otiluke's Freezing Sphere"
+linter-yaml-title-alias: Otiluke's Freezing Sphere
 obsidianUIMode: preview
 ---
 # Otiluke's Freezing Sphere

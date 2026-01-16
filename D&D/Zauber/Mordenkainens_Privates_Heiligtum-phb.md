@@ -18,7 +18,6 @@ classes:
   - Wizard
 aliases:
   - Mordenkainen's Private Sanctum
-  - Mordenkainen's Private Sanctum
 linter-yaml-title-alias: Mordenkainen's Private Sanctum
 obsidianUIMode: preview
 ---

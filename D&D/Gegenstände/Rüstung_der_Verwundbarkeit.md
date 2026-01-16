@@ -37,4 +37,4 @@ Wenn du diese Rüstung trägst, bist du gegen eine der folgenden Schadensarten r
 
 ## Fluch
 
-Diese Rüstung ist verflucht. Dies wird erst offenbar, wenn der Zauber [[Identifizieren-phb]] auf sie gewirkt wird oder du dich auf sie einstimmst. Durch Einstimmen auf die Rüstung wirkt der Fluch, bis der Zauber [[Fluch_brechen]] oder ähnliche Magie auf dich gewirkt wird. Das Ablegen der Rüstung beendet den Fluch nicht. Wenn du verflucht bist, bist du anfällig für zwei der drei Schadensarten, die mit dieser Rüstung verknüpft sind (nicht für diejenige, gegen die sie resistent macht).
+Diese Rüstung ist verflucht. Dies wird erst offenbar, wenn der Zauber [[Identifizieren-phb]] auf sie gewirkt wird oder du dich auf sie einstimmst. Durch Einstimmen auf die Rüstung wirkt der Fluch, bis der Zauber [[Fluch_brechen-old]] oder ähnliche Magie auf dich gewirkt wird. Das Ablegen der Rüstung beendet den Fluch nicht. Wenn du verflucht bist, bist du anfällig für zwei der drei Schadensarten, die mit dieser Rüstung verknüpft sind (nicht für diejenige, gegen die sie resistent macht).

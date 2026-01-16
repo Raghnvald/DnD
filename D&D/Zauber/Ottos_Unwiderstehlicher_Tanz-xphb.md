@@ -1,7 +1,7 @@
 ---
 cssclasses:
   - json5e-spell
-Bezeichnung: "Otto's Irresistible Dance"
+Bezeichnung: Otto's Irresistible Dance
 tags:
   - Klasse/Barde
   - Klasse/Magier
@@ -12,9 +12,8 @@ classes:
   - Bard
   - Wizard
 aliases:
-  - "Otto's Irresistible Dance"
   - Otto's Irresistible Dance
-linter-yaml-title-alias: "Otto's Irresistible Dance"
+linter-yaml-title-alias: Otto's Irresistible Dance
 ---
 # Otto's Irresistible Dance
 *6th-level, Enchantment*  

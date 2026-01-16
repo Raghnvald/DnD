@@ -19,7 +19,6 @@ classes:
   - Druid
   - Wizard
 aliases:
-  - Antipathie/Sympathie
   - Antipathy/Sympathy
 linter-yaml-title-alias: Antipathie/Sympathie
 ---

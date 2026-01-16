@@ -20,7 +20,6 @@ classes:
   - Wizard
 aliases:
   - Evard's Black Tentacles
-  - Evard's Black Tentacles
 linter-yaml-title-alias: Evard's Black Tentacles
 obsidianUIMode: preview
 ---

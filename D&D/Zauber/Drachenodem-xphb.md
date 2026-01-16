@@ -28,7 +28,6 @@ classes:
   - Wizard
 aliases:
   - Dragon's Breath
-  - Dragon's Breath
 linter-yaml-title-alias: Dragon's Breath
 ---
 # Dragon's Breath

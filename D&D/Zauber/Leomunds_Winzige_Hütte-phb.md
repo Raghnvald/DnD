@@ -19,7 +19,6 @@ classes:
   - Wizard
 aliases:
   - Leomund's Tiny Hut
-  - Leomund's Tiny Hut
 linter-yaml-title-alias: Leomund's Tiny Hut
 obsidianUIMode: preview
 ---

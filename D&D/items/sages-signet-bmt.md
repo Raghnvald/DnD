@@ -1,0 +1,43 @@
+---
+obsidianUIMode: preview
+cssclasses:
+- json5e-item
+tags:
+- new/compendium/src/5e/bmt
+- new/item/attunement/required
+- new/item/rarity/varies
+- new/item/wondrous/ring
+aliases: 
+- "Sage's Signet"
+---
+# Sage's Signet
+*Ring (requires attunement by a spellcaster)*  
+
+
+
+This gilded ring bears a beautiful engraving and is imbued with powers of keen wisdom and foresight. While wearing this ring, you can use an action to cast the Augury spell from the ring. Once you use the ring to cast the spell, the ring can't cast the spell again until the next dawn.
+
+Six varieties of Sage's Signet rings exist, each with a different signet (see the table below). A ring's signet determines its rarity as well as the additional spells it can cast. While wearing a Sage's Signet, you can cast each of its additional spells once from the ring using your Intelligence as the spellcasting ability. Once you cast each of the additional spells from the ring, it can't cast the spell again until the next dawn.
+
+**Sage's Signet**
+
+| Signet | Rarity | Spells |
+|--------|--------|--------|
+| [Bear](/3-Mechanics/CLI/items/sages-signet-bear-bmt.md) | Very rare | Enlarge/Reduce, Polymorph |
+| [Hart](/3-Mechanics/CLI/items/sages-signet-hart-bmt.md) | Very rare | Aura of Vitality, Mass Cure Wounds |
+| [Lion](/3-Mechanics/CLI/items/sages-signet-lion-bmt.md) | Very rare | Destructive Wave, Fireball |
+| [Serpent](/3-Mechanics/CLI/items/sages-signet-serpent-bmt.md) | Rare | Fear, Hex |
+| [Songbird](/3-Mechanics/CLI/items/sages-signet-songbird-bmt.md) | Rare | Charm Person, Hypnotic Pattern |
+| [Wolf](/3-Mechanics/CLI/items/sages-signet-wolf-bmt.md) | Very rare | Freedom of Movement, Pass without Trace |
+^sages-signet
+
+**Items in this group:**
+
+- [Sage's Signet (Bear)](/3-Mechanics/CLI/items/sages-signet-bear-bmt.md)
+- [Sage's Signet (Hart)](/3-Mechanics/CLI/items/sages-signet-hart-bmt.md)
+- [Sage's Signet (Lion)](/3-Mechanics/CLI/items/sages-signet-lion-bmt.md)
+- [Sage's Signet (Serpent)](/3-Mechanics/CLI/items/sages-signet-serpent-bmt.md)
+- [Sage's Signet (Songbird)](/3-Mechanics/CLI/items/sages-signet-songbird-bmt.md)
+- [Sage's Signet (Wolf)](/3-Mechanics/CLI/items/sages-signet-wolf-bmt.md)
+
+*Source: The Book of Many Things p. 37*

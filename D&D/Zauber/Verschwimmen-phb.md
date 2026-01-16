@@ -20,7 +20,7 @@ classes:
   - Sorcerer
   - Wizard
 aliases:
-  - Verschwimmen
+  - Blur
 linter-yaml-title-alias: Verschwimmen
 obsidianUIMode: preview
 ---

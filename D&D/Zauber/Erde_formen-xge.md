@@ -33,7 +33,6 @@ classes:
   - Sorcerer
   - Wizard
 aliases:
-  - Erde formen
   - Mold Earth
 linter-yaml-title-alias: Erde formen
 ---

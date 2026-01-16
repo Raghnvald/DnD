@@ -21,7 +21,6 @@ classes:
   - Warlock (The Archfey)
   - Wizard
 aliases:
-  - Äusserlichkeiten
   - Seeming
 linter-yaml-title-alias: Äusserlichkeiten
 ---

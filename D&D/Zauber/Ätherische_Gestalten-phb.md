@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Ätherische Gestalten
 Zaubergrad: 7
-Zeitaufwand: 
-Reichweite: 
-Komponenten: 
-Wirkungsdauer: 
-Angriff: 
+Zeitaufwand:
+Reichweite:
+Komponenten:
+Wirkungsdauer:
+Angriff:
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Hexenmeister
@@ -22,7 +22,6 @@ classes:
   - Warlock
   - Wizard
 aliases:
-  - Ätherische Gestalten
   - Etherealness
 linter-yaml-title-alias: Ätherische Gestalten
 ---

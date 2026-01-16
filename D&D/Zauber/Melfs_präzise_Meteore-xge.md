@@ -27,7 +27,6 @@ classes:
   - Wizard (Evoker)
 aliases:
   - Melf's Minute Meteors
-  - Melf's Minute Meteors
 linter-yaml-title-alias: Melf's Minute Meteors
 ---
 # Melf's Minute Meteors

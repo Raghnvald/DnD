@@ -41,7 +41,6 @@ classes:
   - Wizard
   - Wizard (Evoker)
 aliases:
-  - Donnerschlag
   - Thunderclap
 linter-yaml-title-alias: Donnerschlag
 ---

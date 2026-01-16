@@ -24,7 +24,6 @@ classes:
   - Paladin
   - Warlock (The Fiend)
 aliases:
-  - Befehl
   - Command
 linter-yaml-title-alias: Befehl
 ---

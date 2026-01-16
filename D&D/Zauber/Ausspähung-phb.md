@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Ausspähung
 Zaubergrad: 5
-Zeitaufwand: 
-Reichweite: 
-Komponenten: 
-Wirkungsdauer: 
-Angriff: 
+Zeitaufwand:
+Reichweite:
+Komponenten:
+Wirkungsdauer:
+Angriff:
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide
@@ -30,7 +30,6 @@ classes:
   - Warlock
   - Wizard
 aliases:
-  - Ausspähung
   - Scrying
 linter-yaml-title-alias: Ausspähung
 ---

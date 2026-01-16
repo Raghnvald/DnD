@@ -19,7 +19,6 @@ classes:
   - Druid (Circle of the Land, Forest)
   - Ranger
 aliases:
-  - Rindenhaut
   - Barkskin
 linter-yaml-title-alias: Rindenhaut
 obsidianUIMode: preview

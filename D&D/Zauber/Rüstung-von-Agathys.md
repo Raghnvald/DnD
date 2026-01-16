@@ -11,7 +11,6 @@ classes:
   - Bard (Magical Secrets)
   - Warlock
 aliases:
-  - Rüstung von Agathys
   - Armor of Agathys
 linter-yaml-title-alias: Rüstung von Agathys
 ---

@@ -21,12 +21,12 @@ Woge der Wilden Magie
 | 03-04 | Für 1 Minute kannst du alle unsichtbaren Kreaturen in deinem Sichtfeld sehen. |
 | 05-06 | Ein Modron, das vom SL ausgesucht und kontrolliert wird, erscheint in einem unbesetzten Bereich im Umkreis von 1,50m und verschwindet 1 Minute später. |
 | 07-08 | Du wirkst [[Feuerball-phb]] als Zauber des 3. Grades mit dir als Zentrum. |
-| 09-10 | Du wirkst [[Magisches_Geschoss]] als Zauber des 5. Grades. |
+| 09-10 | Du wirkst [[Magisches_Geschoss-old]] als Zauber des 5. Grades. |
 | 11-12 | Würfle mit einem W10. Deine Größe ändert sich um 2.5cm mal dem Ergebnis. Ist die Zahl ungerade, schrumpfst du, ist sie gerade, wächst du. |
 | 13-14 | Du wirkst [[Verwirrung]] mit dir als Zentrum. |
 | 15-16 | Für 1 Minute erhälst du zu Beginn jedes deiner Züge 5 TP zurück. |
 | 17-18 | Dir wächst ein gewaltiger Bart aus Federn, der so lange bestehen bleibt, bis du niest, wobei die Federn in alle Richtungen stieben |
-| 19-20 | Du wirkst [[Schmieren]] mit dir als Zentrum |
+| 19-20 | Du wirkst [[Schmieren-old]] mit dir als Zentrum |
 | 21-22 | Kreaturen sind beim nächsten Rettungswurf gegen einen Zauber, den du wirkst, im Nachteil. Dieser Effekt hält 1 Minute an. |
 | 23-24 | Deine Haut färbt sich in einem kräftigen Blauton. Der Zauber [[Fluch-brechen|Fluche brechen]] kann diesen Effekt beenden |
 | 25-26 | Für 1 Minute erscheint ein Auge auf deiner Stirn. Während dieser Zeit bist du bei Würfen auf Weisheit (Wahrnehmung), die sich auf das Sehen beziehen, im Vorteil |
@@ -39,10 +39,10 @@ Woge der Wilden Magie
 | 39-40 | Du erhältst 2W10 Trefferpunkte zurück. |
 | 41-42 | Du verwandelst dich bis zum Anfang deines nächsten Zuges in eine Topfpflanze. Solange du eine Pflanze bist, giltst du als kampfunfähig und kannst durch jede Schadensart verletzt werden. Falls du auf 0 TP sinken solltest, zerbricht der Topf und du verwandelst dich in deine vorherige Form zurück. |
 | 43-44 | Für 1 Minute kannst du dich als Bonusaktion in jedem deiner Züge bis zu 6m teleportieren. |
-| 45-46 | Du wirst [[Schweben]] auf dich selbst. |
+| 45-46 | Du wirst [[Schweben-old]] auf dich selbst. |
 | 47-48 | Ein Einhorn, das vom SL kontrolliert wird, erscheint in einem unbesetzten Bereich im Umkreis von 1,50m und verschwindet 1 Minute später. |
 | 49-50 | Du kannst für 1 Minute nicht sprechen. Immer wenn du es versuchst, entschweben deinem Mund rosafarbene Luftblasen |
-| 51-52 | Ein geisterhafter Schild schwebt für 1 Minute in deiner Nähe und gibt dir einen Bonus von +2 auf deine Rüstungsklasse und Immunität gegen [[Magisches_Geschoss]]. |
+| 51-52 | Ein geisterhafter Schild schwebt für 1 Minute in deiner Nähe und gibt dir einen Bonus von +2 auf deine Rüstungsklasse und Immunität gegen [[Magisches_Geschoss-old]]. |
 | 53-54 | Du bist für die nächsten 5W6 Tage immun gegen die Auswirkungen von Alkohol. |
 | 55-56 | Dir fallen die Haare aus, wachsen aber innerhalb von 24 Stunden wieder nach. |
 | 57-58 | Für 1 Minute geht jedes Objekt, das nicht von einer Kreatur gehalten oder getragen wird, in Flammen auf, sobald du es berührst. |
@@ -59,7 +59,7 @@ Woge der Wilden Magie
 | 79-80 | Illusionäre Schmetterlinge und Blütenblätter flattern im Umkreis von 3m für 1 Minute um dich herum. |
 | 81-82 | Du kannst sofort eine weitere Aktion ausführen. |
 | 83-84 | Jede Kreatur im Umkreis von 9m erleidet 1W10 nekrotischen Schaden. Du erhältst Trefferpunkte in Höhe des zusammengerechneten Schadens zurück. |
-| 85-86 | Du wirkst [[Spiegelbilder]]. |
+| 85-86 | Du wirkst [[Spiegelbilder-old]]. |
 | 87-88 | Du wirkst [[Fliegen-phb]] auf eine zufällige Kreatur im Umkreis von 18m. |
 | 89-90 | Du wirst für 1 Minute unsichtbar. In dieser Zeit können dich andere Kreaturen zudem nicht hören. Du wirst sichtbar, wenn du angreifst oder zauberst. |
 | 91-92 | Wenn du innerhalb von 1 Minute stirbst, wirst du sofort wie durch den Zauber [[Wiedergeburt]] ins Leben zurückgeholt. |

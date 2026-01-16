@@ -1,5 +1,5 @@
 ---
-Bezeichnung: "Tenser's Transformation"
+Bezeichnung: Tenser's Transformation
 Zaubergrad: 6
 Zeitaufwand:
 Reichweite:
@@ -16,9 +16,8 @@ classes:
   - Bard
   - Wizard
 aliases:
-  - "Tenser's Transformation"
   - Tenser's Transformation
-linter-yaml-title-alias: "Tenser's Transformation"
+linter-yaml-title-alias: Tenser's Transformation
 ---
 # Tenser's Transformation
 *6th-level, Transmutation*  

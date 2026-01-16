@@ -28,7 +28,7 @@ classes:
   - Warlock
   - Wizard
 aliases:
-  - Zielsicherer Schlag
+  - True Strike
 linter-yaml-title-alias: Zielsicherer Schlag
 ---
 # Zielsicherer Schlag

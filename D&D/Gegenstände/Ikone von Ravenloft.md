@@ -25,7 +25,7 @@ Die _Ikone von Ravenloft_ ist eine 30cm hohe, aus dem reinsten Silber gefertigte
 
 $\quad$ Die Ikone wurde Strahd vom Erzpriester Ciril Romulitsch geschenkt, einem alten Freund der Familie, um die Burg und seine Kapelle zu weihen.
 
-$\quad$ Solange sie sich in einem Umkreis von 9m um die Ikone befindet, steht eine Kreatur unter dem Effekt eines Zaubers [[Schutz_vor_Gut_und_Böse]] gegen Unhole und Untote. Nur eine auf die Ikone eingestimmte Kreatur kann seine anderen Eigenschaften benutzen.
+$\quad$ Solange sie sich in einem Umkreis von 9m um die Ikone befindet, steht eine Kreatur unter dem Effekt eines Zaubers [[Schutz_vor_Gut_und_Böse-old]] gegen Unhole und Untote. Nur eine auf die Ikone eingestimmte Kreatur kann seine anderen Eigenschaften benutzen.
 
 $\quad$ **_Vorahnung._** Du kannst eine Aktion nutzen, um einen Zauber [[Vorahnung]] von der Ikone zu wirken, ohne dass Materialkomponenten erforderlich sind. Einmal benutzt, kann diese Eigenschaft bis zur nächsten Morgendämmerung nicht mehr benutzt werden.
 

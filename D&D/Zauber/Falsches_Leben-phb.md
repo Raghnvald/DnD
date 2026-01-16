@@ -27,7 +27,6 @@ classes:
   - Sorcerer
   - Wizard
 aliases:
-  - Falsches Leben
   - False Life
 linter-yaml-title-alias: Falsches Leben
 ---
