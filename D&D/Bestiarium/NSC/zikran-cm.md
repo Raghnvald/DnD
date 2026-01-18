@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/cm
-- new/monster/cr/12
-- new/monster/size/medium
-- new/monster/type/humanoid/any-race
+  - Quelle/5e/cm
+  - Monster/HG/12
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/humanoid/any-race
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Zikran
+  - Zikran
 ---
 # [Zikran](3-Mechanics\CLI\bestiary\npc/zikran-cm.md)
 *Source: Candlekeep Mysteries p. 145*  

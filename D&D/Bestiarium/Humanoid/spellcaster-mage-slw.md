@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/slw
-- new/monster/cr/
-- new/monster/size/medium
-- new/monster/type/humanoid/mage
+  - Quelle/5e/slw
+  - Monster/HG/
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/humanoid/mage
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Spellcaster (Mage)
+  - Spellcaster (Mage)
 ---
 # [Spellcaster (Mage)](3-Mechanics\CLI\bestiary\humanoid/spellcaster-mage-slw.md)
 *Source: Storm Lord's Wrath*  

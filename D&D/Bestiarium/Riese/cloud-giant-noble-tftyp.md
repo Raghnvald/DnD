@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/tftyp
-- new/monster/cr/9
-- new/monster/size/huge
-- new/monster/type/giant
+  - Quelle/5e/tftyp
+  - Monster/HG/9
+  - Monster/Größe/Riesig
+  - Monster/Typ/giant
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Cloud Giant Noble
+  - Cloud Giant Noble
 ---
 # [Cloud Giant Noble](3-Mechanics\CLI\bestiary\giant/cloud-giant-noble-tftyp.md)
 *Source: Tales from the Yawning Portal p. 206*  

@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-reward
+  - json5e-reward
 tags:
-- new/compendium/src/5e/idrotf
-- new/reward/charm
+  - Quelle/5e/idrotf
+  - Kompendium/Belohnung/charm
 aliases:
-- Vlagomir's Spark
+  - Vlagomir's Spark
 ---
 # Vlagomir's Spark
 *Charm*  

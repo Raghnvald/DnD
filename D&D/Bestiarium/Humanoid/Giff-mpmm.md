@@ -1,17 +1,17 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/monster/cr/3
-- ttrpg-cli/monster/environment/urban
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/humanoid
+  - Quelle/5e/mpmm
+  - Monster/HG/3
+  - Monster/Habitat/urban
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/humanoid
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Giff
+  - Giff
 ---
 # [Giff](3-Mechanics\CLI\bestiary\humanoid/giff-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 138, Mordenkainen's Tome of Foes p. 204*  

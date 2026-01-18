@@ -1,11 +1,11 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- new/compendium/src/5e/idrotf
+  - Quelle/5e/idrotf
 aliases:
-- Chapter 5: Auril's Abode
+  - Chapter 5: Auril's Abode
 ---
 # Chapter 5: Auril's Abode
 *Source: Icewind Dale: Rime of the Frostmaiden, p. 197* 

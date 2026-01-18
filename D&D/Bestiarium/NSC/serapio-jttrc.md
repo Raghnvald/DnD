@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/jttrc
-- ttrpg-cli/monster/cr/5
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/fiend/demon
+  - Quelle/5e/jttrc
+  - Monster/HG/5
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/fiend/demon
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Serapio
+  - Serapio
 ---
 # [Serapio](3-Mechanics\CLI\bestiary\npc/serapio-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 61*  

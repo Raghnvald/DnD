@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/gos
-- ttrpg-cli/monster/cr/0
-- ttrpg-cli/monster/size/tiny
-- ttrpg-cli/monster/type/beast
+  - Quelle/5e/gos
+  - Monster/HG/0
+  - Monster/Größe/Winzig
+  - Monster/Typ/beast
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Fish
+  - Fish
 ---
 # [Fish](3-Mechanics\CLI\bestiary\beast/fish-gos.md)
 *Source: Ghosts of Saltmarsh p. 224*  

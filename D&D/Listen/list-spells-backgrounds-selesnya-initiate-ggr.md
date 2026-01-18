@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/background/selesnya-initiate
+- Zauber/list/background/selesnya-initiate
 aliases:
 - Spells for Selesnya Initiate
 ---

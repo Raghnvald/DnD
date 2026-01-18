@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/egw
-- ttrpg-cli/item/rarity/common
-aliases: 
-- "Breathing Bubble"
+  - Quelle/5e/egw
+  - Gegenstand/rarity/common
+aliases:
+  - Breathing Bubble
 ---
 # Breathing Bubble
 *Wondrous item, common*  

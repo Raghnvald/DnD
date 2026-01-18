@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/slw
-- new/monster/cr/1-2
-- new/monster/size/medium
-- new/monster/type/construct
+  - Quelle/5e/slw
+  - Monster/HG/1-2
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/construct
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Skull Flier
+  - Skull Flier
 ---
 # [Skull Flier](3-Mechanics\CLI\bestiary\construct/skull-flier-slw.md)
 *Source: Storm Lord's Wrath*  

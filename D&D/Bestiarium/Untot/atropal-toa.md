@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/toa
-- new/monster/cr/13
-- new/monster/size/huge
-- new/monster/type/undead/titan
+  - Quelle/5e/toa
+  - Monster/HG/13
+  - Monster/Größe/Riesig
+  - Monster/Typ/undead/titan
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Atropal
+  - Atropal
 ---
 # [Atropal](3-Mechanics\CLI\bestiary\undead/atropal-toa.md)
 *Source: Tomb of Annihilation p. 214*  

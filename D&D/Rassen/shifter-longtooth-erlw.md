@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-race
+  - json5e-race
 tags:
-- new/compendium/src/5e/erlw
-- new/race/shifter/longtooth
+  - Quelle/5e/erlw
+  - Rasse/shifter/longtooth
 aliases:
-- Shifter (Longtooth)
+  - Shifter (Longtooth)
 ---
 # Shifter (Longtooth)
 *Source: Eberron: Rising from the Last War p. 34*  

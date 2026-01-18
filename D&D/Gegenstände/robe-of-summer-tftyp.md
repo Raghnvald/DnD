@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- new/compendium/src/5e/tftyp
-- new/item/attunement/required
-- new/item/rarity/rare
-aliases: 
-- "Robe of Summer"
+  - Quelle/5e/tftyp
+  - Gegenstand/attunement/required
+  - Gegenstand/rarity/rare
+aliases:
+  - Robe of Summer
 ---
 # Robe of Summer
 *Wondrous item, rare (requires attunement)*  

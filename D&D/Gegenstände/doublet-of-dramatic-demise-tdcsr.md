@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/tdcsr
-- ttrpg-cli/item/rarity/common
-aliases: 
-- "Doublet of Dramatic Demise"
+  - Quelle/5e/tdcsr
+  - Gegenstand/rarity/common
+aliases:
+  - Doublet of Dramatic Demise
 ---
 # Doublet of Dramatic Demise
 *Wondrous item, common*  

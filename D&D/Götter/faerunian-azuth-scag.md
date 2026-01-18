@@ -1,17 +1,17 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-deity
+  - json5e-deity
 tags:
-- ttrpg-cli/compendium/src/5e/scag
-- ttrpg-cli/deity/faerunian
-- ttrpg-cli/domain/arcana
-- ttrpg-cli/domain/knowledge
-aliases: 
-- Azuth
-- The High One
-- The Lord of Spellcraft
-- The First Magister
+  - Quelle/5e/scag
+  - Kompendium/Götter/faerunian
+  - Kompendium/Götter/Domäne/arcana
+  - Kompendium/Götter/Domäne/knowledge
+aliases:
+  - Azuth
+  - The High One
+  - The Lord of Spellcraft
+  - The First Magister
 ---
 # Azuth
 *Source: Sword Coast Adventurer's Guide* 

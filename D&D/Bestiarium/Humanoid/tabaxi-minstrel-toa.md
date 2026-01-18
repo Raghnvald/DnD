@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/toa
-- new/monster/cr/1-4
-- new/monster/size/medium
-- new/monster/type/humanoid/tabaxi
+  - Quelle/5e/toa
+  - Monster/HG/1-4
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/humanoid/tabaxi
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Tabaxi Minstrel
+  - Tabaxi Minstrel
 ---
 # [Tabaxi Minstrel](3-Mechanics\CLI\bestiary\humanoid/tabaxi-minstrel-toa.md)
 *Source: Tomb of Annihilation p. 233*  

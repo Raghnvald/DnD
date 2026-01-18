@@ -1,22 +1,22 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- new/compendium/src/5e/bmt
-- new/item/attunement/required
-- new/item/rarity/legendary
-- new/item/weapon/martial
-- new/item/weapon/melee
-- new/item/wondrous/generic-variant
-aliases: 
-- "Sword of the Planes"
-- "Double-Bladed Scimitar of the Planes"
-- "Greatsword of the Planes"
-- "Longsword of the Planes"
-- "Rapier of the Planes"
-- "Scimitar of the Planes"
-- "Shortsword of the Planes"
+  - Quelle/5e/bmt
+  - Gegenstand/attunement/required
+  - Gegenstand/rarity/legendary
+  - Gegenstand/weapon/martial
+  - Gegenstand/weapon/melee
+  - Gegenstand/wondrous/generic-variant
+aliases:
+  - Sword of the Planes
+  - Double-Bladed Scimitar of the Planes
+  - Greatsword of the Planes
+  - Longsword of the Planes
+  - Rapier of the Planes
+  - Scimitar of the Planes
+  - Shortsword of the Planes
 ---
 # Sword of the Planes
 *Legendary (requires attunement)*  

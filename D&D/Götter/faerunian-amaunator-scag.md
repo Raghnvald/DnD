@@ -1,17 +1,17 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-deity
+  - json5e-deity
 tags:
-- ttrpg-cli/compendium/src/5e/scag
-- ttrpg-cli/deity/faerunian
-- ttrpg-cli/domain/life
-- ttrpg-cli/domain/light
-aliases: 
-- Amaunator
-- The Keeper of the Eternal Sun
-- The Light of Law
-- The Yellow God
+  - Quelle/5e/scag
+  - Kompendium/Götter/faerunian
+  - Kompendium/Götter/Domäne/life
+  - Kompendium/Götter/Domäne/light
+aliases:
+  - Amaunator
+  - The Keeper of the Eternal Sun
+  - The Light of Law
+  - The Yellow God
 ---
 # Amaunator
 *Source: Sword Coast Adventurer's Guide p. 21* 

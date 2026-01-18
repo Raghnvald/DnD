@@ -1,14 +1,14 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- new/compendium/src/5e/cm
-- new/item/attunement/required
-- new/item/rarity/unknown/magic
-- new/item/wondrous/wand
-aliases: 
-- "Radiance"
+  - Quelle/5e/cm
+  - Gegenstand/attunement/required
+  - Gegenstand/rarity/unknown/magic
+  - Gegenstand/wondrous/wand
+aliases:
+  - Radiance
 ---
 # Radiance
 *Wand (requires attunement by a spellcaster)*  

@@ -3,7 +3,7 @@ cssclasses:
   - json5e-feat
 tags:
   - Quelle/5e/xphb
-  - Kompendium/optional-feature/mv-b
+  - Kompendium/Optionales/mv-b
 aliases:
   - Sweeping Attack
 ---

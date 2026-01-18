@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- new/compendium/src/5e/bmt
-- new/item/rarity/legendary
-aliases: 
-- "Deck of Many More Things"
+  - Quelle/5e/bmt
+  - Gegenstand/rarity/legendary
+aliases:
+  - Deck of Many More Things
 ---
 # Deck of Many More Things
 *Wondrous item, legendary*  

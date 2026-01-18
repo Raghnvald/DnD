@@ -1,19 +1,19 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/vgm
-- new/monster/cr/3
-- new/monster/environment/forest
-- new/monster/environment/hill
-- new/monster/environment/swamp
-- new/monster/size/small
-- new/monster/type/fey
+  - Quelle/5e/vgm
+  - Monster/HG/3
+  - Monster/Habitat/forest
+  - Monster/Habitat/hill
+  - Monster/Habitat/swamp
+  - Monster/Größe/Klein
+  - Monster/Typ/fey
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Redcap
+  - Redcap
 ---
 # [Redcap](3-Mechanics\CLI\bestiary\fey/redcap-vgm.md)
 *Source: Volo's Guide to Monsters p. 188, Tomb of Annihilation*  

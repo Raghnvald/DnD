@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/wdmm
-- ttrpg-cli/monster/cr/16
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/celestial
+  - Quelle/5e/wdmm
+  - Monster/HG/16
+  - Monster/Größe/Groß
+  - Monster/Typ/celestial
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Fazrian
+  - Fazrian
 ---
 # [Fazrian](3-Mechanics\CLI\bestiary\npc/fazrian-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 275*  

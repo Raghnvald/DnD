@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/wdh
-- ttrpg-cli/monster/cr/1-4
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/humanoid/half-orc
+  - Quelle/5e/wdh
+  - Monster/HG/1-4
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/humanoid/half-orc
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Grum'shar
+  - Grum'shar
 ---
 # [Grum'shar](3-Mechanics\CLI\bestiary\npc/grumshar-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 29*  

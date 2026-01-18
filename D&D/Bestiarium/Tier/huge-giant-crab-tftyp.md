@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/tftyp
-- new/monster/cr/8
-- new/monster/size/huge
-- new/monster/type/beast
+  - Quelle/5e/tftyp
+  - Monster/HG/8
+  - Monster/Größe/Riesig
+  - Monster/Typ/beast
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Huge Giant Crab
+  - Huge Giant Crab
 ---
 # [Huge Giant Crab](3-Mechanics\CLI\bestiary\beast/huge-giant-crab-tftyp.md)
 *Source: Tales from the Yawning Portal p. 103, Storm Lord's Wrath*  

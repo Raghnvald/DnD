@@ -1,11 +1,11 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- new/compendium/src/5e/bmt
+  - Quelle/5e/bmt
 aliases:
-- Magic Items in This Book; Magic Items by Name
+  - Magic Items in This Book; Magic Items by Name
 ---
 # Magic Items in This Book; Magic Items by Name
 *Source: The Book of Many Things p. 32* 

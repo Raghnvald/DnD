@@ -1,14 +1,14 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- new/compendium/src/5e/toa
-- new/item/attunement/required
-- new/item/rarity/artifact
-- new/item/wondrous/ring
-aliases: 
-- "Ring of Winter"
+  - Quelle/5e/toa
+  - Gegenstand/attunement/required
+  - Gegenstand/rarity/artifact
+  - Gegenstand/wondrous/ring
+aliases:
+  - Ring of Winter
 ---
 # Ring of Winter
 *Ring, artifact (requires attunement)*  

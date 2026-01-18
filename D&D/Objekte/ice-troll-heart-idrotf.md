@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-object
+  - json5e-object
 tags:
-- new/compendium/src/5e/idrotf
-- new/object/size/tiny
-- new/object/type/unknown
+  - Quelle/5e/idrotf
+  - Kompendium/Objekt/size/tiny
+  - Kompendium/Objekt/type/unknown
 aliases:
-- Ice Troll Heart
+  - Ice Troll Heart
 ---
 # Ice Troll Heart
 %%-- Embedded content starts on the next line. --%%

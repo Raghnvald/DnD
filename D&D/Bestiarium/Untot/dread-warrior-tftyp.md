@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/tftyp
-- new/monster/cr/1
-- new/monster/size/medium
-- new/monster/type/undead
+  - Quelle/5e/tftyp
+  - Monster/HG/1
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/undead
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Dread Warrior
+  - Dread Warrior
 ---
 # [Dread Warrior](3-Mechanics\CLI\bestiary\undead/dread-warrior-tftyp.md)
 *Source: Tales from the Yawning Portal p. 233*  

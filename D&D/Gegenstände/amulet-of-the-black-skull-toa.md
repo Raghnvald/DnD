@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- new/compendium/src/5e/toa
-- new/item/attunement/required
-- new/item/rarity/very-rare
-aliases: 
-- "Amulet of the Black Skull"
+  - Quelle/5e/toa
+  - Gegenstand/attunement/required
+  - Gegenstand/rarity/very-rare
+aliases:
+  - Amulet of the Black Skull
 ---
 # Amulet of the Black Skull
 *Wondrous item, very rare (requires attunement)*  

@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/cm
-- new/monster/cr/8
-- new/monster/size/large
-- new/monster/type/monstrosity
+  - Quelle/5e/cm
+  - Monster/HG/8
+  - Monster/Größe/Groß
+  - Monster/Typ/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Corrupted Avatar of Lurue
+  - Corrupted Avatar of Lurue
 ---
 # [Corrupted Avatar of Lurue](3-Mechanics\CLI\bestiary\monstrosity/corrupted-avatar-of-lurue-cm.md)
 *Source: Candlekeep Mysteries p. 123*  

@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/egw
-- ttrpg-cli/monster/cr/1
-- ttrpg-cli/monster/size/small
-- ttrpg-cli/monster/type/aberration
+  - Quelle/5e/egw
+  - Monster/HG/1
+  - Monster/Größe/Klein
+  - Monster/Typ/aberration
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Core Spawn Crawler
+  - Core Spawn Crawler
 ---
 # [Core Spawn Crawler](3-Mechanics\CLI\bestiary\aberration/core-spawn-crawler-egw.md)
 *Source: Explorer's Guide to Wildemount p. 286*  

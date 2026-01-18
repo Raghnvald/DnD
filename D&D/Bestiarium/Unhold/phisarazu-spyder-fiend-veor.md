@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/veor
-- ttrpg-cli/monster/cr/13
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/fiend/demon
+  - Quelle/5e/veor
+  - Monster/HG/13
+  - Monster/Größe/Groß
+  - Monster/Typ/fiend/demon
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Phisarazu Spyder-Fiend
+  - Phisarazu Spyder-Fiend
 ---
 # [Phisarazu Spyder-Fiend](3-Mechanics\CLI\bestiary\fiend/phisarazu-spyder-fiend-veor.md)
 *Source: Vecna: Eve of Ruin p. 235*  

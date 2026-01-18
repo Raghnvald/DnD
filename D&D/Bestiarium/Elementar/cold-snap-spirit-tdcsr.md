@@ -1,19 +1,19 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/tdcsr
-- ttrpg-cli/monster/cr/5
-- ttrpg-cli/monster/environment/arctic
-- ttrpg-cli/monster/environment/forest
-- ttrpg-cli/monster/environment/mountain
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/elemental
+  - Quelle/5e/tdcsr
+  - Monster/HG/5
+  - Monster/Habitat/arctic
+  - Monster/Habitat/forest
+  - Monster/Habitat/mountain
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/elemental
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Cold Snap Spirit
+  - Cold Snap Spirit
 ---
 # [Cold Snap Spirit](3-Mechanics\CLI\bestiary\elemental/cold-snap-spirit-tdcsr.md)
 *Source: Tal'Dorei Campaign Setting Reborn p. 234*  

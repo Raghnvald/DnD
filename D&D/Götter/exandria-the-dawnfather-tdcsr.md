@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-deity
+  - json5e-deity
 tags:
-- ttrpg-cli/compendium/src/5e/tdcsr
-- ttrpg-cli/deity/exandria
-- ttrpg-cli/domain/life
-- ttrpg-cli/domain/light
-- ttrpg-cli/domain/nature
-aliases: 
-- The Dawnfather
-- Pelor
+  - Quelle/5e/tdcsr
+  - Kompendium/Götter/exandria
+  - Kompendium/Götter/Domäne/life
+  - Kompendium/Götter/Domäne/light
+  - Kompendium/Götter/Domäne/nature
+aliases:
+  - The Dawnfather
+  - Pelor
 ---
 # The Dawnfather
 *Source: Tal'Dorei Campaign Setting Reborn p. 32* 

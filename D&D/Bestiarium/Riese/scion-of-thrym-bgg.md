@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/bgg
-- ttrpg-cli/monster/cr/24
-- ttrpg-cli/monster/size/gargantuan
-- ttrpg-cli/monster/type/giant/titan
+  - Quelle/5e/bgg
+  - Monster/HG/24
+  - Monster/Größe/Gigantisch
+  - Monster/Typ/giant/titan
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Scion of Thrym
+  - Scion of Thrym
 ---
 # [Scion of Thrym](3-Mechanics\CLI\bestiary\giant/scion-of-thrym-bgg.md)
 *Source: Bigby Presents: Glory of the Giants p. 175*  

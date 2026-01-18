@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/mcv2dc
-- new/monster/cr/4
-- new/monster/size/medium
-- new/monster/type/giant/sorcerer
+  - Quelle/5e/mcv2dc
+  - Monster/HG/4
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/giant/sorcerer
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Irda Veil Keeper
+  - Irda Veil Keeper
 ---
 # [Irda Veil Keeper](3-Mechanics\CLI\bestiary\giant/irda-veil-keeper-mcv2dc.md)
 *Source: Monstrous Compendium Volume 2: Dragonlance Creatures p. 9*  

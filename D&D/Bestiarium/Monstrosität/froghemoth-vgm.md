@@ -1,18 +1,18 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/vgm
-- new/monster/cr/10
-- new/monster/environment/swamp
-- new/monster/environment/underdark
-- new/monster/size/huge
-- new/monster/type/monstrosity
+  - Quelle/5e/vgm
+  - Monster/HG/10
+  - Monster/Habitat/swamp
+  - Monster/Habitat/underdark
+  - Monster/Größe/Riesig
+  - Monster/Typ/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Froghemoth
+  - Froghemoth
 ---
 # [Froghemoth](3-Mechanics\CLI\bestiary\monstrosity/froghemoth-vgm.md)
 *Source: Volo's Guide to Monsters p. 145, Tomb of Annihilation*  

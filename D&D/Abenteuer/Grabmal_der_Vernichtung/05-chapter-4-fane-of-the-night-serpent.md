@@ -1,11 +1,11 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- new/compendium/src/5e/toa
+  - Quelle/5e/toa
 aliases:
-- Chapter 4: Fane of the Night Serpent
+  - Chapter 4: Fane of the Night Serpent
 ---
 # Chapter 4: Fane of the Night Serpent
 *Source: Tomb of Annihilation, p. 111* 

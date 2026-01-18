@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/bgg
-- ttrpg-cli/monster/cr/11
-- ttrpg-cli/monster/size/huge
-- ttrpg-cli/monster/type/giant
+  - Quelle/5e/bgg
+  - Monster/HG/11
+  - Monster/Größe/Riesig
+  - Monster/Typ/giant
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Frost Giant of Evil Water
+  - Frost Giant of Evil Water
 ---
 # [Frost Giant of Evil Water](3-Mechanics\CLI\bestiary\giant/frost-giant-of-evil-water-bgg.md)
 *Source: Bigby Presents: Glory of the Giants p. 146*  

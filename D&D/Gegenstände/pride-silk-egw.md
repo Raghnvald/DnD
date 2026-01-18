@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/egw
-- ttrpg-cli/item/gear/
-- ttrpg-cli/item/rarity/none
-aliases: 
-- "Pride Silk"
+  - Quelle/5e/egw
+  - Gegenstand/gear/
+  - Gegenstand/rarity/none
+aliases:
+  - Pride Silk
 ---
 # Pride Silk
 *Adventuring gear*  

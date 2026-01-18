@@ -1,7 +1,7 @@
 ---
 tags:
   - Quelle/5e/phb
-  - Kompendium/Götter/domain/nature
+  - Kompendium/Götter/Domäne/nature
   - Klasse/Kleriker/nature
 aliases:
   - Nature Domain

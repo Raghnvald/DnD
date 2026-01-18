@@ -1,14 +1,14 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- new/compendium/src/5e/tftyp
-- new/item/attunement/required
-- new/item/rarity/uncommon
-- new/item/wondrous/wand
-aliases: 
-- "Wand of Entangle"
+  - Quelle/5e/tftyp
+  - Gegenstand/attunement/required
+  - Gegenstand/rarity/uncommon
+  - Gegenstand/wondrous/wand
+aliases:
+  - Wand of Entangle
 ---
 # Wand of Entangle
 *Wand, uncommon (requires attunement by a spellcaster)*  

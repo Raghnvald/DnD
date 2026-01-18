@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/wdmm
-- ttrpg-cli/monster/cr/0
-- ttrpg-cli/monster/size/huge
-- ttrpg-cli/monster/type/beast
+  - Quelle/5e/wdmm
+  - Monster/HG/0
+  - Monster/Größe/Riesig
+  - Monster/Typ/beast
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Haungharassk
+  - Haungharassk
 ---
 # [Haungharassk](3-Mechanics\CLI\bestiary\npc/haungharassk-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 258*  

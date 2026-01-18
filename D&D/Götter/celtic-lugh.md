@@ -1,14 +1,14 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-deity
+  - json5e-deity
 tags:
-- Quelle/5e/phb
-- Kompendium/Götter/celtic
-- Kompendium/Götter/domain/knowledge
-- Kompendium/Götter/domain/life
-aliases: 
-- Lugh
+  - Quelle/5e/phb
+  - Kompendium/Götter/celtic
+  - Kompendium/Götter/Domäne/knowledge
+  - Kompendium/Götter/Domäne/life
+aliases:
+  - Lugh
 ---
 # Lugh
 *Source: Player's Handbook p. 298. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>* 

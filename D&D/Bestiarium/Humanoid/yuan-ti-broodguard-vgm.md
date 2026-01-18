@@ -1,19 +1,19 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/vgm
-- new/monster/cr/2
-- new/monster/environment/desert
-- new/monster/environment/forest
-- new/monster/environment/underdark
-- new/monster/size/medium
-- new/monster/type/humanoid/yuan-ti
+  - Quelle/5e/vgm
+  - Monster/HG/2
+  - Monster/Habitat/desert
+  - Monster/Habitat/forest
+  - Monster/Habitat/underdark
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/humanoid/yuan-ti
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Yuan-ti Broodguard
+  - Yuan-ti Broodguard
 ---
 # [Yuan-ti Broodguard](3-Mechanics\CLI\bestiary\humanoid/yuan-ti-broodguard-vgm.md)
 *Source: Volo's Guide to Monsters p. 203, Tomb of Annihilation*  

@@ -1,11 +1,11 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- ttrpg-cli/compendium/src/5e/wdmm
+  - Quelle/5e/wdmm
 aliases:
-- Appendix B: Elder Runes Deck
+  - Appendix B: Elder Runes Deck
 ---
 # Appendix B: Elder Runes Deck
 *Source: Waterdeep: Dungeon of the Mad Mage, p. 318* 

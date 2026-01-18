@@ -1,19 +1,19 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/vgm
-- new/monster/cr/1
-- new/monster/environment/forest
-- new/monster/environment/grassland
-- new/monster/environment/hill
-- new/monster/size/medium
-- new/monster/type/beast
+  - Quelle/5e/vgm
+  - Monster/HG/1
+  - Monster/Habitat/forest
+  - Monster/Habitat/grassland
+  - Monster/Habitat/hill
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/beast
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Deinonychus
+  - Deinonychus
 ---
 # [Deinonychus](3-Mechanics\CLI\bestiary\beast/deinonychus-vgm.md)
 *Source: Volo's Guide to Monsters p. 139, Tomb of Annihilation*  

@@ -3,7 +3,7 @@ cssclasses:
   - json5e-class
 tags:
   - Quelle/5e/xphb
-  - Kompendium/Götter/domain/light
+  - Kompendium/Götter/Domäne/light
   - Klasse/Kleriker/light
 aliases:
   - Light Domain

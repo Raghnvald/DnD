@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- new/compendium/src/5e/erlw
-- new/item/attunement/required
-- new/item/rarity/uncommon
-aliases: 
-- "Finder's Goggles"
+  - Quelle/5e/erlw
+  - Gegenstand/attunement/required
+  - Gegenstand/rarity/uncommon
+aliases:
+  - Finder's Goggles
 ---
 # Finder's Goggles
 *Wondrous item, uncommon (requires attunement by a creature with the Mark of Finding)*  

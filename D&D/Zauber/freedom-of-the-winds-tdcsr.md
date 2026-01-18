@@ -1,24 +1,24 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-spell
+  - json5e-spell
 tags:
-- ttrpg-cli/compendium/src/5e/tdcsr
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/druid
-- ttrpg-cli/spell/class/ranger
-- ttrpg-cli/spell/class/sorcerer
-- ttrpg-cli/spell/level/5th-level
-- ttrpg-cli/spell/school/abjuration
-- ttrpg-cli/spell/subclass/oath-of-the-open-sea
+  - Quelle/5e/tdcsr
+  - Klasse/bard
+  - Klasse/druid
+  - Klasse/ranger
+  - Klasse/sorcerer
+  - Zauber/Grad/5
+  - Zauber/Schule/abjuration
+  - Subklasse/oath-of-the-open-sea
 classes:
-- Bard
-- Druid
-- Paladin (Oath of the Open Sea)
-- Ranger
-- Sorcerer
+  - Bard
+  - Druid
+  - Paladin (Oath of the Open Sea)
+  - Ranger
+  - Sorcerer
 aliases:
-- Freedom of the Winds
+  - Freedom of the Winds
 ---
 # Freedom of the Winds
 *5th-level, Abjuration*  

@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/wdmm
-- ttrpg-cli/monster/cr/1-4
-- ttrpg-cli/monster/size/small
-- ttrpg-cli/monster/type/construct
+  - Quelle/5e/wdmm
+  - Monster/HG/1-4
+  - Monster/Größe/Klein
+  - Monster/Typ/construct
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Crystal Battleaxe
+  - Crystal Battleaxe
 ---
 # [Crystal Battleaxe](3-Mechanics\CLI\bestiary\construct/crystal-battleaxe-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 89*  

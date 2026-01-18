@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/gos
-- ttrpg-cli/monster/cr/2
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/humanoid/bullywug
+  - Quelle/5e/gos
+  - Monster/HG/2
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/humanoid/bullywug
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Bullywug Croaker
+  - Bullywug Croaker
 ---
 # [Bullywug Croaker](3-Mechanics\CLI\bestiary\humanoid/bullywug-croaker-gos.md)
 *Source: Ghosts of Saltmarsh p. 232*  

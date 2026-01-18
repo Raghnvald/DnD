@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/egw
-- ttrpg-cli/monster/cr/2
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/aberration
+  - Quelle/5e/egw
+  - Monster/HG/2
+  - Monster/Größe/Groß
+  - Monster/Typ/aberration
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Sharkbody Abomination
+  - Sharkbody Abomination
 ---
 # [Sharkbody Abomination](3-Mechanics\CLI\bestiary\aberration/sharkbody-abomination-egw.md)
 *Source: Explorer's Guide to Wildemount p. 215*  

@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/tdcsr
-- ttrpg-cli/item/rarity/unknown/magic
-aliases: 
-- "Circlet of Wisdom"
+  - Quelle/5e/tdcsr
+  - Gegenstand/rarity/unknown/magic
+aliases:
+  - Circlet of Wisdom
 ---
 # Circlet of Wisdom
 *Wondrous item*  

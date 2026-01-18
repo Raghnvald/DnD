@@ -1,14 +1,14 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- new/compendium/src/5e/bmt
-- new/item/attunement/required
-- new/item/rarity/legendary
-- new/item/wondrous/wand
-aliases: 
-- "Spindle of Fate"
+  - Quelle/5e/bmt
+  - Gegenstand/attunement/required
+  - Gegenstand/rarity/legendary
+  - Gegenstand/wondrous/wand
+aliases:
+  - Spindle of Fate
 ---
 # Spindle of Fate
 *Wand, legendary (requires attunement)*  

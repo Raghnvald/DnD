@@ -1,14 +1,14 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- new/compendium/src/5e/idrotf
-- new/item/rarity/unknown
-- new/item/weapon/ranged
-- new/item/weapon/simple
-aliases: 
-- "Iron Ball"
+  - Quelle/5e/idrotf
+  - Gegenstand/rarity/unknown
+  - Gegenstand/weapon/ranged
+  - Gegenstand/weapon/simple
+aliases:
+  - Iron Ball
 ---
 # Iron Ball
 *Weapon*  

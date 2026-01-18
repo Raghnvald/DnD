@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/tftyp
-- new/monster/cr/2
-- new/monster/size/medium
-- new/monster/type/dragon
+  - Quelle/5e/tftyp
+  - Monster/HG/2
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/dragon
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Calcryx
+  - Calcryx
 ---
 # [Calcryx](3-Mechanics\CLI\bestiary\npc/calcryx-tftyp.md)
 *Source: Tales from the Yawning Portal p. 23*  

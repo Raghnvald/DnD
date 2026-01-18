@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/tftyp
-- new/monster/cr/1
-- new/monster/size/medium
-- new/monster/type/humanoid/goblinoid
+  - Quelle/5e/tftyp
+  - Monster/HG/1
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/humanoid/goblinoid
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Bugbear Lieutenant
+  - Bugbear Lieutenant
 ---
 # [Bugbear Lieutenant](3-Mechanics\CLI\bestiary\humanoid/bugbear-lieutenant-tftyp.md)
 *Source: Tales from the Yawning Portal p. 173*  

@@ -1,14 +1,14 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- new/compendium/src/5e/erlw
-- new/item/rarity/none
-- new/item/weapon/martial
-- new/item/weapon/melee
-aliases: 
-- "Double-Bladed Scimitar"
+  - Quelle/5e/erlw
+  - Gegenstand/rarity/none
+  - Gegenstand/weapon/martial
+  - Gegenstand/weapon/melee
+aliases:
+  - Double-Bladed Scimitar
 ---
 # Double-Bladed Scimitar
 *Weapon*  

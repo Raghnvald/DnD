@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- new/compendium/src/5e/tftyp
-- new/item/rarity/rare
-aliases: 
-- "Eagle Whistle"
+  - Quelle/5e/tftyp
+  - Gegenstand/rarity/rare
+aliases:
+  - Eagle Whistle
 ---
 # Eagle Whistle
 *Wondrous item, rare*  

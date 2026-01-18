@@ -1,14 +1,14 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-deity
+  - json5e-deity
 tags:
-- new/compendium/src/5e/erlw
-- new/deity/eberron
-- new/domain/life
-- new/domain/trickery
-aliases: 
-- Olladra
+  - Quelle/5e/erlw
+  - Kompendium/Götter/eberron
+  - Kompendium/Götter/Domäne/life
+  - Kompendium/Götter/Domäne/trickery
+aliases:
+  - Olladra
 ---
 # Olladra
 *Source: Eberron: Rising from the Last War p. 141* 

@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- new/compendium/src/5e/idrotf
-- new/item/rarity/legendary
-- new/item/wondrous/scroll
-aliases: 
-- "Scroll of the Comet"
+  - Quelle/5e/idrotf
+  - Gegenstand/rarity/legendary
+  - Gegenstand/wondrous/scroll
+aliases:
+  - Scroll of the Comet
 ---
 # Scroll of the Comet
 *Scroll, legendary*  

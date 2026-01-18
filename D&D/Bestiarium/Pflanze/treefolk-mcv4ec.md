@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/mcv4ec
-- ttrpg-cli/monster/cr/11
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/plant/druid
+  - Quelle/5e/mcv4ec
+  - Monster/HG/11
+  - Monster/Größe/Groß
+  - Monster/Typ/plant/druid
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Treefolk
+  - Treefolk
 ---
 # [Treefolk](3-Mechanics\CLI\bestiary\plant/treefolk-mcv4ec.md)
 *Source: Monstrous Compendium Volume 4: Eldraine Creatures*  

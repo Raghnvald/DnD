@@ -3,7 +3,7 @@ cssclasses:
   - json5e-class
 tags:
   - Quelle/5e/tce
-  - Kompendium/Götter/domain/peace
+  - Kompendium/Götter/Domäne/peace
   - Klasse/Kleriker/peace
 aliases:
   - Peace Domain

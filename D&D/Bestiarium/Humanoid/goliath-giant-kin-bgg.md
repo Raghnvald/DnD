@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/bgg
-- ttrpg-cli/monster/cr/3
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/humanoid
+  - Quelle/5e/bgg
+  - Monster/HG/3
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/humanoid
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Goliath Giant-Kin
+  - Goliath Giant-Kin
 ---
 # [Goliath Giant-Kin](3-Mechanics\CLI\bestiary\humanoid/goliath-giant-kin-bgg.md)
 *Source: Bigby Presents: Glory of the Giants p. 155*  

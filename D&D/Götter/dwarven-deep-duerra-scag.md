@@ -1,14 +1,14 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-deity
+  - json5e-deity
 tags:
-- ttrpg-cli/compendium/src/5e/scag
-- ttrpg-cli/deity/dwarven
-- ttrpg-cli/domain/arcana
-- ttrpg-cli/domain/war
-aliases: 
-- Deep Duerra
+  - Quelle/5e/scag
+  - Kompendium/Götter/dwarven
+  - Kompendium/Götter/Domäne/arcana
+  - Kompendium/Götter/Domäne/war
+aliases:
+  - Deep Duerra
 ---
 # Deep Duerra
 *Source: Sword Coast Adventurer's Guide p. 22* 

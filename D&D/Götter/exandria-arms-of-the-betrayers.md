@@ -1,14 +1,14 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-deity
+  - json5e-deity
 tags:
-- ttrpg-cli/compendium/src/5e/egw
-- ttrpg-cli/deity/exandria
-- ttrpg-cli/domain/death
-- ttrpg-cli/domain/war
-aliases: 
-- Arms of the Betrayers
+  - Quelle/5e/egw
+  - Kompendium/Götter/exandria
+  - Kompendium/Götter/Domäne/death
+  - Kompendium/Götter/Domäne/war
+aliases:
+  - Arms of the Betrayers
 ---
 # Arms of the Betrayers
 *Source: Explorer's Guide to Wildemount p. 30* 

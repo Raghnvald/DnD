@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/idrotf
-- new/monster/cr/2
-- new/monster/size/medium
-- new/monster/type/humanoid/dwarf
+  - Quelle/5e/idrotf
+  - Monster/HG/2
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/humanoid/dwarf
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Grandolpha Muzgardt
+  - Grandolpha Muzgardt
 ---
 # [Grandolpha Muzgardt](3-Mechanics\CLI\bestiary\npc/grandolpha-muzgardt-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 176*  

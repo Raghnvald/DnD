@@ -1,20 +1,20 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/monster/cr/11
-- ttrpg-cli/monster/environment/coastal
-- ttrpg-cli/monster/environment/forest
-- ttrpg-cli/monster/environment/swamp
-- ttrpg-cli/monster/environment/underdark
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/giant
+  - Quelle/5e/mpmm
+  - Monster/HG/11
+  - Monster/Habitat/coastal
+  - Monster/Habitat/forest
+  - Monster/Habitat/swamp
+  - Monster/Habitat/underdark
+  - Monster/Größe/Groß
+  - Monster/Typ/giant
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Spirit Troll
+  - Spirit Troll
 ---
 # [Spirit Troll](3-Mechanics\CLI\bestiary\giant/spirit-troll-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 247, Mordenkainen's Tome of Foes p. 244*  

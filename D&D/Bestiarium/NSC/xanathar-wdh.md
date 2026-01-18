@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/wdh
-- ttrpg-cli/monster/cr/13
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/aberration
+  - Quelle/5e/wdh
+  - Monster/HG/13
+  - Monster/Größe/Groß
+  - Monster/Typ/aberration
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Xanathar
+  - Xanathar
 ---
 # [Xanathar](3-Mechanics\CLI\bestiary\npc/xanathar-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 220*  

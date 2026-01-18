@@ -1,14 +1,14 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-spell
+  - json5e-spell
 tags:
-- ttrpg-cli/compendium/src/5e/egw
-- ttrpg-cli/spell/feat/fey-touched
-- ttrpg-cli/spell/level/1st-level
-- ttrpg-cli/spell/school/divination
+  - Quelle/5e/egw
+  - Kompendium/Talent/fey-touched
+  - Zauber/Grad/1
+  - Zauber/Schule/divination
 aliases:
-- Gift of Alacrity
+  - Gift of Alacrity
 ---
 # Gift of Alacrity
 *1st-level, Divination*  

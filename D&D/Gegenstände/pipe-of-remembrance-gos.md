@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/gos
-- ttrpg-cli/item/rarity/common
-aliases: 
-- "Pipe of Remembrance"
+  - Quelle/5e/gos
+  - Gegenstand/rarity/common
+aliases:
+  - Pipe of Remembrance
 ---
 # Pipe of Remembrance
 *Wondrous item, common*  

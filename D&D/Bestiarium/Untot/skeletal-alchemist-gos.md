@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/gos
-- ttrpg-cli/monster/cr/1-2
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/undead
+  - Quelle/5e/gos
+  - Monster/HG/1-2
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/undead
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Skeletal Alchemist
+  - Skeletal Alchemist
 ---
 # [Skeletal Alchemist](3-Mechanics\CLI\bestiary\undead/skeletal-alchemist-gos.md)
 *Source: Ghosts of Saltmarsh p. 253*  

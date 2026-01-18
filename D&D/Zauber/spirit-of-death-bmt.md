@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-spell
+  - json5e-spell
 tags:
-- new/compendium/src/5e/bmt
-- new/spell/level/4th-level
-- new/spell/school/necromancy
+  - Quelle/5e/bmt
+  - Zauber/Grad/4
+  - Zauber/Schule/necromancy
 aliases:
-- Spirit of Death
+  - Spirit of Death
 ---
 # Spirit of Death
 *4th-level, Necromancy*  

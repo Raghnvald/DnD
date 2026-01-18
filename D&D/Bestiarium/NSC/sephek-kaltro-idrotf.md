@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/idrotf
-- new/monster/cr/3
-- new/monster/size/medium
-- new/monster/type/undead
+  - Quelle/5e/idrotf
+  - Monster/HG/3
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/undead
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Sephek Kaltro
+  - Sephek Kaltro
 ---
 # [Sephek Kaltro](3-Mechanics\CLI\bestiary\npc/sephek-kaltro-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 23*  

@@ -1,30 +1,30 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- new/compendium/src/5e/bmt
-- new/item/armor/heavy
-- new/item/armor/light
-- new/item/armor/medium
-- new/item/attunement/required
-- new/item/rarity/rare
-- new/item/wondrous/generic-variant
-aliases: 
-- "Gloomwrought Armor"
-- "Gloomwrought Breastplate"
-- "Gloomwrought Chain Mail"
-- "Gloomwrought Chain Shirt"
-- "Gloomwrought Half Plate Armor"
-- "Gloomwrought Hide Armor"
-- "Gloomwrought Leather Armor"
-- "Gloomwrought Padded Armor"
-- "Gloomwrought Plate Armor"
-- "Gloomwrought Ring Mail"
-- "Gloomwrought Scale Mail"
-- "Gloomwrought Spiked Armor"
-- "Gloomwrought Splint Armor"
-- "Gloomwrought Studded Leather Armor"
+  - Quelle/5e/bmt
+  - Gegenstand/armor/heavy
+  - Gegenstand/armor/light
+  - Gegenstand/armor/medium
+  - Gegenstand/attunement/required
+  - Gegenstand/rarity/rare
+  - Gegenstand/wondrous/generic-variant
+aliases:
+  - Gloomwrought Armor
+  - Gloomwrought Breastplate
+  - Gloomwrought Chain Mail
+  - Gloomwrought Chain Shirt
+  - Gloomwrought Half Plate Armor
+  - Gloomwrought Hide Armor
+  - Gloomwrought Leather Armor
+  - Gloomwrought Padded Armor
+  - Gloomwrought Plate Armor
+  - Gloomwrought Ring Mail
+  - Gloomwrought Scale Mail
+  - Gloomwrought Spiked Armor
+  - Gloomwrought Splint Armor
+  - Gloomwrought Studded Leather Armor
 ---
 # Gloomwrought Armor
 *Rare (requires attunement)*  

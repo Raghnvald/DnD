@@ -1,9 +1,9 @@
 ---
 tags:
-- Kompendium/background
-- Quelle/5e/phb
+  - Kompendium/Hintergrund
+  - Quelle/5e/phb
 aliases:
-- Soldier
+  - Soldier
 ---
 # Soldier
 *Source: Player's Handbook p. 140. Available in the Basic Rules (2014)*  

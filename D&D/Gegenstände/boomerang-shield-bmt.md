@@ -1,14 +1,14 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- new/compendium/src/5e/bmt
-- new/item/attunement/required
-- new/item/rarity/uncommon
-- new/item/shield/
-aliases: 
-- "Boomerang Shield"
+  - Quelle/5e/bmt
+  - Gegenstand/attunement/required
+  - Gegenstand/rarity/uncommon
+  - Gegenstand/shield/
+aliases:
+  - Boomerang Shield
 ---
 # Boomerang Shield
 *Armor (shield), uncommon (requires attunement)*  

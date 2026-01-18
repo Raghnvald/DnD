@@ -1,15 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-deity
+  - json5e-deity
 tags:
-- ttrpg-cli/compendium/src/5e/scag
-- ttrpg-cli/deity/faerunian
-- ttrpg-cli/domain/nature
-aliases: 
-- Mielikki
-- Our Lady of the Forest
-- The Forest Queen
+  - Quelle/5e/scag
+  - Kompendium/Götter/faerunian
+  - Kompendium/Götter/Domäne/nature
+aliases:
+  - Mielikki
+  - Our Lady of the Forest
+  - The Forest Queen
 ---
 # Mielikki
 *Source: Sword Coast Adventurer's Guide p. 21* 

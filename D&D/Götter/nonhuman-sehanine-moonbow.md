@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-deity
+  - json5e-deity
 tags:
-- Quelle/5e/phb
-- Kompendium/Götter/nonhuman
-- Kompendium/Götter/domain/knowledge
-aliases: 
-- Sehanine Moonbow
+  - Quelle/5e/phb
+  - Kompendium/Götter/nonhuman
+  - Kompendium/Götter/Domäne/knowledge
+aliases:
+  - Sehanine Moonbow
 ---
 # Sehanine Moonbow
 *Source: Player's Handbook p. 296* 

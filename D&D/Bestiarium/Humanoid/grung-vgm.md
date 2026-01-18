@@ -1,17 +1,17 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/vgm
-- new/monster/cr/1-4
-- new/monster/environment/forest
-- new/monster/size/small
-- new/monster/type/humanoid/grung
+  - Quelle/5e/vgm
+  - Monster/HG/1-4
+  - Monster/Habitat/forest
+  - Monster/Größe/Klein
+  - Monster/Typ/humanoid/grung
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Grung
+  - Grung
 ---
 # [Grung](3-Mechanics\CLI\bestiary\humanoid/grung-vgm.md)
 *Source: Volo's Guide to Monsters p. 156, Tomb of Annihilation*  

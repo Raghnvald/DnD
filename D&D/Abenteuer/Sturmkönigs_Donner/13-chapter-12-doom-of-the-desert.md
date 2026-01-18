@@ -1,11 +1,11 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- new/compendium/src/5e/skt
+  - Quelle/5e/skt
 aliases:
-- Chapter 12: Doom of the Desert
+  - Chapter 12: Doom of the Desert
 ---
 # Chapter 12: Doom of the Desert
 *Source: Storm King's Thunder, p. 225* 

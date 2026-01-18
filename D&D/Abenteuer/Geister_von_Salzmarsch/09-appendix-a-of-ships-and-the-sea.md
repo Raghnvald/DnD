@@ -1,11 +1,11 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- ttrpg-cli/compendium/src/5e/gos
+  - Quelle/5e/gos
 aliases:
-- Appendix A: Of Ships and the Sea
+  - Appendix A: Of Ships and the Sea
 ---
 # Appendix A: Of Ships and the Sea
 *Source: Ghosts of Saltmarsh, p. 186* 

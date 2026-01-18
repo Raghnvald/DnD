@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-reward
+  - json5e-reward
 tags:
-- Quelle/5e/xdmg
-- Kompendium/reward/charm
+  - Quelle/5e/xdmg
+  - Kompendium/Belohnung/charm
 aliases:
-- Sanctuary Charm
+  - Sanctuary Charm
 ---
 # Sanctuary Charm
 *Charm*  

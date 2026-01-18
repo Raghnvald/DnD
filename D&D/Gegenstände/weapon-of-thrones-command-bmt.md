@@ -1,54 +1,54 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- new/compendium/src/5e/bmt
-- new/item/age/futuristic
-- new/item/age/modern
-- new/item/attunement/required
-- new/item/rarity/very-rare
-- new/item/weapon/martial
-- new/item/weapon/melee
-- new/item/weapon/ranged
-- new/item/wondrous/generic-variant
-aliases: 
-- "Weapon of Throne's Command"
-- "Antimatter Rifle of Throne's Command"
-- "Automatic Rifle of Throne's Command"
-- "Battleaxe of Throne's Command"
-- "Blowgun of Throne's Command"
-- "Double-Bladed Scimitar of Throne's Command"
-- "Flail of Throne's Command"
-- "Glaive of Throne's Command"
-- "Greataxe of Throne's Command"
-- "Greatsword of Throne's Command"
-- "Halberd of Throne's Command"
-- "Hand Crossbow of Throne's Command"
-- "Heavy Crossbow of Throne's Command"
-- "Hooked Shortspear of Throne's Command"
-- "Hoopak of Throne's Command"
-- "Hunting Rifle of Throne's Command"
-- "Lance of Throne's Command"
-- "Laser Pistol of Throne's Command"
-- "Laser Rifle of Throne's Command"
-- "Longbow of Throne's Command"
-- "Longsword of Throne's Command"
-- "Maul of Throne's Command"
-- "Morningstar of Throne's Command"
-- "Musket of Throne's Command"
-- "Pike of Throne's Command"
-- "Pistol of Throne's Command"
-- "Rapier of Throne's Command"
-- "Revolver of Throne's Command"
-- "Scimitar of Throne's Command"
-- "Semiautomatic Pistol of Throne's Command"
-- "Shortsword of Throne's Command"
-- "Shotgun of Throne's Command"
-- "Trident of Throne's Command"
-- "War Pick of Throne's Command"
-- "Warhammer of Throne's Command"
-- "Whip of Throne's Command"
+  - Quelle/5e/bmt
+  - Gegenstand/age/futuristic
+  - Gegenstand/age/modern
+  - Gegenstand/attunement/required
+  - Gegenstand/rarity/very-rare
+  - Gegenstand/weapon/martial
+  - Gegenstand/weapon/melee
+  - Gegenstand/weapon/ranged
+  - Gegenstand/wondrous/generic-variant
+aliases:
+  - Weapon of Throne's Command
+  - Antimatter Rifle of Throne's Command
+  - Automatic Rifle of Throne's Command
+  - Battleaxe of Throne's Command
+  - Blowgun of Throne's Command
+  - Double-Bladed Scimitar of Throne's Command
+  - Flail of Throne's Command
+  - Glaive of Throne's Command
+  - Greataxe of Throne's Command
+  - Greatsword of Throne's Command
+  - Halberd of Throne's Command
+  - Hand Crossbow of Throne's Command
+  - Heavy Crossbow of Throne's Command
+  - Hooked Shortspear of Throne's Command
+  - Hoopak of Throne's Command
+  - Hunting Rifle of Throne's Command
+  - Lance of Throne's Command
+  - Laser Pistol of Throne's Command
+  - Laser Rifle of Throne's Command
+  - Longbow of Throne's Command
+  - Longsword of Throne's Command
+  - Maul of Throne's Command
+  - Morningstar of Throne's Command
+  - Musket of Throne's Command
+  - Pike of Throne's Command
+  - Pistol of Throne's Command
+  - Rapier of Throne's Command
+  - Revolver of Throne's Command
+  - Scimitar of Throne's Command
+  - Semiautomatic Pistol of Throne's Command
+  - Shortsword of Throne's Command
+  - Shotgun of Throne's Command
+  - Trident of Throne's Command
+  - War Pick of Throne's Command
+  - Warhammer of Throne's Command
+  - Whip of Throne's Command
 ---
 # Weapon of Throne's Command
 *Very rare (requires attunement)*  

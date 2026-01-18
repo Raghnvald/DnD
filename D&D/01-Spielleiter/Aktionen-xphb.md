@@ -1,14 +1,14 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- ttrpg-cli/compendium/src/5e/dmg
-- ttrpg-cli/compendium/src/5e/phb
-- ttrpg-cli/compendium/src/5e/xge
-- ttrpg-cli/compendium/src/5e/xphb
+  - Quelle/5e/dmg
+  - Quelle/5e/phb
+  - Quelle/5e/xge
+  - Quelle/5e/xphb
 aliases:
-- Actions
+  - Actions
 ---
 # Actions
 

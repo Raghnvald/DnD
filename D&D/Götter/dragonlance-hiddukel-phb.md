@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-deity
+  - json5e-deity
 tags:
-- Quelle/5e/phb
-- Kompendium/Götter/dragonlance
-- Kompendium/Götter/domain/trickery
-aliases: 
-- Hiddukel
+  - Quelle/5e/phb
+  - Kompendium/Götter/dragonlance
+  - Kompendium/Götter/Domäne/trickery
+aliases:
+  - Hiddukel
 ---
 # Hiddukel
 *Source: Player's Handbook p. 295* 

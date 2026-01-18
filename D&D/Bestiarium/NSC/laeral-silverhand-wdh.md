@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/wdh
-- ttrpg-cli/monster/cr/17
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/humanoid/human
+  - Quelle/5e/wdh
+  - Monster/HG/17
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/humanoid/human
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Laeral Silverhand
+  - Laeral Silverhand
 ---
 # [Laeral Silverhand](3-Mechanics\CLI\bestiary\npc/laeral-silverhand-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 207*  

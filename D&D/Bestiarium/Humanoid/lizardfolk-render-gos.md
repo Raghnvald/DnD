@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/gos
-- new/monster/cr/3
-- new/monster/size/large
-- new/monster/type/humanoid/lizardfolk
+  - Quelle/5e/gos
+  - Monster/HG/3
+  - Monster/Größe/Groß
+  - Monster/Typ/humanoid/lizardfolk
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Lizardfolk Render
+  - Lizardfolk Render
 ---
 # [Lizardfolk Render](3-Mechanics\CLI\bestiary\humanoid/lizardfolk-render-gos.md)
 *Source: Ghosts of Saltmarsh p. 241, Storm Lord's Wrath*  

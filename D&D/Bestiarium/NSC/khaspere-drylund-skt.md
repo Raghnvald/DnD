@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/skt
-- new/monster/cr/1-8
-- new/monster/size/medium
-- new/monster/type/humanoid/human
+  - Quelle/5e/skt
+  - Monster/HG/1-8
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/humanoid/human
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Khaspere Drylund
+  - Khaspere Drylund
 ---
 # [Khaspere Drylund](3-Mechanics\CLI\bestiary\npc/khaspere-drylund-skt.md)
 *Source: Storm King's Thunder p. 216*  

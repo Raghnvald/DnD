@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/wdmm
-- ttrpg-cli/item/armor/medium
-- ttrpg-cli/item/rarity/uncommon
-aliases: 
-- "Vanrak's Mithral Shirt"
+  - Quelle/5e/wdmm
+  - Gegenstand/armor/medium
+  - Gegenstand/rarity/uncommon
+aliases:
+  - Vanrak's Mithral Shirt
 ---
 # Vanrak's Mithral Shirt
 *Medium armor (chain shirt), uncommon*  

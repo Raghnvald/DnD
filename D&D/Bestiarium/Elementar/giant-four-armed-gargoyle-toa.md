@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/toa
-- new/monster/cr/10
-- new/monster/size/large
-- new/monster/type/elemental
+  - Quelle/5e/toa
+  - Monster/HG/10
+  - Monster/Größe/Groß
+  - Monster/Typ/elemental
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Giant Four-Armed Gargoyle
+  - Giant Four-Armed Gargoyle
 ---
 # [Giant Four-Armed Gargoyle](3-Mechanics\CLI\bestiary\elemental/giant-four-armed-gargoyle-toa.md)
 *Source: Tomb of Annihilation p. 221*  

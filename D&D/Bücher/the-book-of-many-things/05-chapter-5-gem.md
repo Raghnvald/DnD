@@ -1,11 +1,11 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- new/compendium/src/5e/bmt
+  - Quelle/5e/bmt
 aliases:
-- Chapter 5: Gem
+  - Chapter 5: Gem
 ---
 # Chapter 5: Gem
 *Source: The Book of Many Things, p. 32* 

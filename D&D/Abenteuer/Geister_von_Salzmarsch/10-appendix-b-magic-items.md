@@ -1,11 +1,11 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- ttrpg-cli/compendium/src/5e/gos
+  - Quelle/5e/gos
 aliases:
-- Appendix B: Magic Items
+  - Appendix B: Magic Items
 ---
 # Appendix B: Magic Items
 *Source: Ghosts of Saltmarsh, p. 229* 

@@ -1,17 +1,17 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/wdh
-- ttrpg-cli/monster/cr/2
-- ttrpg-cli/monster/size/small
-- ttrpg-cli/monster/type/humanoid/halfling
-- ttrpg-cli/monster/type/humanoid/shapechanger
+  - Quelle/5e/wdh
+  - Monster/HG/2
+  - Monster/Größe/Klein
+  - Monster/Typ/humanoid/halfling
+  - Monster/Typ/humanoid/shapechanger
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Shard Shunner
+  - Shard Shunner
 ---
 # [Shard Shunner](3-Mechanics\CLI\bestiary\humanoid/shard-shunner-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 42*  

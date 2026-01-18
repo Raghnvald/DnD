@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/wdmm
-- ttrpg-cli/monster/cr/16
-- ttrpg-cli/monster/size/gargantuan
-- ttrpg-cli/monster/type/construct
+  - Quelle/5e/wdmm
+  - Monster/HG/16
+  - Monster/Größe/Gigantisch
+  - Monster/Typ/construct
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Bore Worm
+  - Bore Worm
 ---
 # [Bore Worm](3-Mechanics\CLI\bestiary\construct/bore-worm-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 171*  

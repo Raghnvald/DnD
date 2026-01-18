@@ -1,14 +1,14 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-deity
+  - json5e-deity
 tags:
-- Quelle/5e/phb
-- Kompendium/Götter/norse
-- Kompendium/Götter/domain/tempest
-- Kompendium/Götter/domain/war
-aliases: 
-- Thor
+  - Quelle/5e/phb
+  - Kompendium/Götter/norse
+  - Kompendium/Götter/Domäne/tempest
+  - Kompendium/Götter/Domäne/war
+aliases:
+  - Thor
 ---
 # Thor
 *Source: Player's Handbook p. 299* 

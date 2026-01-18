@@ -1,14 +1,14 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-deity
+  - json5e-deity
 tags:
-- ttrpg-cli/compendium/src/5e/mtf
-- ttrpg-cli/deity/halfling
-- ttrpg-cli/domain/nature
-- ttrpg-cli/domain/tempest
-aliases: 
-- Sheela Peryroyl
+  - Quelle/5e/mtf
+  - Kompendium/Götter/halfling
+  - Kompendium/Götter/Domäne/nature
+  - Kompendium/Götter/Domäne/tempest
+aliases:
+  - Sheela Peryroyl
 ---
 # Sheela Peryroyl
 *Source: Mordenkainen's Tome of Foes p. 103* 

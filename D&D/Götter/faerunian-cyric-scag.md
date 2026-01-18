@@ -1,15 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-deity
+  - json5e-deity
 tags:
-- ttrpg-cli/compendium/src/5e/scag
-- ttrpg-cli/deity/faerunian
-- ttrpg-cli/domain/trickery
-aliases: 
-- Cyric
-- The Prince of Lies
-- The Dark Sun
+  - Quelle/5e/scag
+  - Kompendium/Götter/faerunian
+  - Kompendium/Götter/Domäne/trickery
+aliases:
+  - Cyric
+  - The Prince of Lies
+  - The Dark Sun
 ---
 # Cyric
 *Source: Sword Coast Adventurer's Guide p. 21* 

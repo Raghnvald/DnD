@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/bgg
-- ttrpg-cli/monster/cr/12
-- ttrpg-cli/monster/size/huge
-- ttrpg-cli/monster/type/giant/druid
+  - Quelle/5e/bgg
+  - Monster/HG/12
+  - Monster/Größe/Riesig
+  - Monster/Typ/giant/druid
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Hill Giant Avalancher
+  - Hill Giant Avalancher
 ---
 # [Hill Giant Avalancher](3-Mechanics\CLI\bestiary\giant/hill-giant-avalancher-bgg.md)
 *Source: Bigby Presents: Glory of the Giants p. 157*  

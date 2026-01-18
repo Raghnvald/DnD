@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/wbtw
-- ttrpg-cli/monster/cr/20
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/fey/wizard
+  - Quelle/5e/wbtw
+  - Monster/HG/20
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/fey/wizard
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Iggwilv the Witch Queen
+  - Iggwilv the Witch Queen
 ---
 # [Iggwilv the Witch Queen](3-Mechanics\CLI\bestiary\npc/iggwilv-the-witch-queen-wbtw.md)
 *Source: The Wild Beyond the Witchlight p. 205, Vecna: Eve of Ruin*  

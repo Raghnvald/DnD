@@ -1,11 +1,11 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- new/compendium/src/5e/bmt
+  - Quelle/5e/bmt
 aliases:
-- Heroes of Destiny; Rogue Destinies
+  - Heroes of Destiny; Rogue Destinies
 ---
 # Heroes of Destiny; Rogue Destinies
 *Source: The Book of Many Things p. 42* 

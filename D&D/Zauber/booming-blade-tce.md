@@ -1,38 +1,38 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-spell
+  - json5e-spell
 tags:
-- ttrpg-cli/compendium/src/5e/tce
-- ttrpg-cli/spell/class/artificer
-- ttrpg-cli/spell/class/sorcerer
-- ttrpg-cli/spell/class/warlock
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/feat/artificer-initiate
-- ttrpg-cli/spell/feat/magic-initiate/wizard-spells
-- ttrpg-cli/spell/level/cantrip
-- ttrpg-cli/spell/optfeature/pact-of-the-tome
-- ttrpg-cli/spell/race/elf/high-elf
-- ttrpg-cli/spell/race/kobold
-- ttrpg-cli/spell/school/evocation
-- ttrpg-cli/spell/subclass/arcana-domain
-- ttrpg-cli/spell/subclass/arcane-trickster
-- ttrpg-cli/spell/subclass/college-of-lore
-- ttrpg-cli/spell/subclass/eldritch-knight
-- ttrpg-cli/spell/subclass/evoker
-- ttrpg-cli/spell/subrace/half-elf-moon-elf-or-sun-elf-descent
+  - Quelle/5e/tce
+  - Klasse/artificer
+  - Klasse/sorcerer
+  - Klasse/warlock
+  - Klasse/wizard
+  - Kompendium/Talent/artificer-initiate
+  - Kompendium/Talent/magic-initiate/wizard-spells
+  - Zauber/Grad/0
+  - Zauber/optfeature/pact-of-the-tome
+  - Rasse/elf/high-elf
+  - Rasse/kobold
+  - Zauber/Schule/evocation
+  - Subklasse/arcana-domain
+  - Subklasse/arcane-trickster
+  - Subklasse/college-of-lore
+  - Subklasse/eldritch-knight
+  - Subklasse/evoker
+  - Subrasse/half-elf-moon-elf-or-sun-elf-descent
 classes:
-- Artificer
-- Bard (College of Lore)
-- Cleric (Arcana Domain)
-- Fighter (Eldritch Knight)
-- Rogue (Arcane Trickster)
-- Sorcerer
-- Warlock
-- Wizard
-- Wizard (Evoker)
+  - Artificer
+  - Bard (College of Lore)
+  - Cleric (Arcana Domain)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Warlock
+  - Wizard
+  - Wizard (Evoker)
 aliases:
-- Booming Blade
+  - Booming Blade
 ---
 # Booming Blade
 *cantrip, Evocation*  

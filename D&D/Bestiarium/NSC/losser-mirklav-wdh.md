@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/wdh
-- ttrpg-cli/monster/cr/6
-- ttrpg-cli/monster/size/small
-- ttrpg-cli/monster/type/humanoid/lightfoot-halfling
+  - Quelle/5e/wdh
+  - Monster/HG/6
+  - Monster/Größe/Klein
+  - Monster/Typ/humanoid/lightfoot-halfling
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Losser Mirklav
+  - Losser Mirklav
 ---
 # [Losser Mirklav](3-Mechanics\CLI\bestiary\npc/losser-mirklav-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 85*  

@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/veor
-- ttrpg-cli/monster/cr/14
-- ttrpg-cli/monster/size/huge
-- ttrpg-cli/monster/type/fiend/demon
+  - Quelle/5e/veor
+  - Monster/HG/14
+  - Monster/Größe/Riesig
+  - Monster/Typ/fiend/demon
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Hazvongel
+  - Hazvongel
 ---
 # [Hazvongel](3-Mechanics\CLI\bestiary\fiend/hazvongel-veor.md)
 *Source: Vecna: Eve of Ruin p. 222*  

@@ -1,11 +1,11 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- new/compendium/src/5e/erlw
+  - Quelle/5e/erlw
 aliases:
-- Planar Observatory Adventures
+  - Planar Observatory Adventures
 ---
 # Planar Observatory Adventures
 *Source: Eberron: Rising from the Last War p. 193* 

@@ -1,11 +1,11 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- new/compendium/src/5e/bmt
+  - Quelle/5e/bmt
 aliases:
-- Fruit Stalls; Fey Fruit Effects
+  - Fruit Stalls; Fey Fruit Effects
 ---
 # Fruit Stalls; Fey Fruit Effects
 *Source: The Book of Many Things p. 107* 

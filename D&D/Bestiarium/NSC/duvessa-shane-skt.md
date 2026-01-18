@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/skt
-- new/monster/cr/
-- new/monster/size/medium
-- new/monster/type/humanoid/illuskan-human
+  - Quelle/5e/skt
+  - Monster/HG/
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/humanoid/illuskan-human
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Duvessa Shane
+  - Duvessa Shane
 ---
 # [Duvessa Shane](3-Mechanics\CLI\bestiary\npc/duvessa-shane-skt.md)
 *Source: Storm King's Thunder p. 248*  

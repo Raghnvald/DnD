@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/vrgr
-- ttrpg-cli/monster/cr/7
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/undead
+  - Quelle/5e/vrgr
+  - Monster/HG/7
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/undead
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Necrichor
+  - Necrichor
 ---
 # [Necrichor](3-Mechanics\CLI\bestiary\undead/necrichor-vrgr.md)
 *Source: Van Richten's Guide to Ravenloft p. 238*  

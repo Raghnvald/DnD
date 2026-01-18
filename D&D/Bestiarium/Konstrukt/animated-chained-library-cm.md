@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/cm
-- new/monster/cr/1
-- new/monster/size/large
-- new/monster/type/construct
+  - Quelle/5e/cm
+  - Monster/HG/1
+  - Monster/Größe/Groß
+  - Monster/Typ/construct
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Animated Chained Library
+  - Animated Chained Library
 ---
 # [Animated Chained Library](3-Mechanics\CLI\bestiary\construct/animated-chained-library-cm.md)
 *Source: Candlekeep Mysteries p. 24*  

@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-background
+  - json5e-background
 tags:
-- ttrpg-cli/background
-- ttrpg-cli/compendium/src/5e/gos
+  - Kompendium/Hintergrund
+  - Quelle/5e/gos
 aliases:
-- Fisher
+  - Fisher
 ---
 # Fisher
 *Source: Ghosts of Saltmarsh p. 29*  

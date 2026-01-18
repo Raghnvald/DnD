@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- new/compendium/src/5e/cm
-- new/item/rarity/uncommon
-aliases: 
-- "Alchemy Jug (Orange)"
+  - Quelle/5e/cm
+  - Gegenstand/rarity/uncommon
+aliases:
+  - Alchemy Jug (Orange)
 ---
 # Alchemy Jug (Orange)
 *Wondrous item, uncommon*  

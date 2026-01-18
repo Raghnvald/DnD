@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-deity
+  - json5e-deity
 tags:
-- Quelle/5e/phb
-- Kompendium/Götter/greyhawk
-- Kompendium/Götter/domain/knowledge
-aliases: 
-- St. Cuthbert
+  - Quelle/5e/phb
+  - Kompendium/Götter/greyhawk
+  - Kompendium/Götter/Domäne/knowledge
+aliases:
+  - St. Cuthbert
 ---
 # St. Cuthbert
 *Source: Player's Handbook p. 295* 

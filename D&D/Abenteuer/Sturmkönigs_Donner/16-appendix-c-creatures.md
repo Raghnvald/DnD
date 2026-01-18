@@ -1,11 +1,11 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- new/compendium/src/5e/skt
+  - Quelle/5e/skt
 aliases:
-- Appendix C: Creatures
+  - Appendix C: Creatures
 ---
 # Appendix C: Creatures
 *Source: Storm King's Thunder, p. 240* 

@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- ttrpg-cli/compendium/src/5e/bgg
-- ttrpg-cli/monster/legendary-group
+  - Quelle/5e/bgg
+  - Monster/legendary-group
 aliases:
-- Scion of Thrym
+  - Scion of Thrym
 ---
 # Scion of Thrym
 

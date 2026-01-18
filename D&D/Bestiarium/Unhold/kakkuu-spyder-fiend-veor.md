@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/veor
-- ttrpg-cli/monster/cr/5
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/fiend/demon
+  - Quelle/5e/veor
+  - Monster/HG/5
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/fiend/demon
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Kakkuu Spyder-Fiend
+  - Kakkuu Spyder-Fiend
 ---
 # [Kakkuu Spyder-Fiend](3-Mechanics\CLI\bestiary\fiend/kakkuu-spyder-fiend-veor.md)
 *Source: Vecna: Eve of Ruin p. 234*  

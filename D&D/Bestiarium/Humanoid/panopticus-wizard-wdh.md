@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/wdh
-- ttrpg-cli/monster/cr/1-4
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/humanoid/dwarf
+  - Quelle/5e/wdh
+  - Monster/HG/1-4
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/humanoid/dwarf
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Panopticus Wizard
+  - Panopticus Wizard
 ---
 # [Panopticus Wizard](3-Mechanics\CLI\bestiary\humanoid/panopticus-wizard-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 106*  

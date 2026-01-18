@@ -1,26 +1,26 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- new/compendium/src/5e/bmt
-- new/item/armor/heavy
-- new/item/armor/medium
-- new/item/attunement/required
-- new/item/rarity/uncommon
-- new/item/wondrous/generic-variant
-aliases: 
-- "Armor of the Fallen"
-- "Breastplate of the Fallen"
-- "Chain Mail of the Fallen"
-- "Chain Shirt of the Fallen"
-- "Half Plate Armor of the Fallen"
-- "Hide Armor of the Fallen"
-- "Plate Armor of the Fallen"
-- "Ring Mail of the Fallen"
-- "Scale Mail of the Fallen"
-- "Spiked Armor of the Fallen"
-- "Splint Armor of the Fallen"
+  - Quelle/5e/bmt
+  - Gegenstand/armor/heavy
+  - Gegenstand/armor/medium
+  - Gegenstand/attunement/required
+  - Gegenstand/rarity/uncommon
+  - Gegenstand/wondrous/generic-variant
+aliases:
+  - Armor of the Fallen
+  - Breastplate of the Fallen
+  - Chain Mail of the Fallen
+  - Chain Shirt of the Fallen
+  - Half Plate Armor of the Fallen
+  - Hide Armor of the Fallen
+  - Plate Armor of the Fallen
+  - Ring Mail of the Fallen
+  - Scale Mail of the Fallen
+  - Spiked Armor of the Fallen
+  - Splint Armor of the Fallen
 ---
 # Armor of the Fallen
 *Uncommon (requires attunement)*  

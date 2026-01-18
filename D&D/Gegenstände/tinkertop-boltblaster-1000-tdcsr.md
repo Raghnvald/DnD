@@ -1,15 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/tdcsr
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/very-rare
-- ttrpg-cli/item/weapon/martial
-- ttrpg-cli/item/weapon/ranged
-aliases: 
-- "Tinkertop Boltblaster 1000"
+  - Quelle/5e/tdcsr
+  - Gegenstand/attunement/required
+  - Gegenstand/rarity/very-rare
+  - Gegenstand/weapon/martial
+  - Gegenstand/weapon/ranged
+aliases:
+  - Tinkertop Boltblaster 1000
 ---
 # Tinkertop Boltblaster 1000
 *Weapon ([hand crossbow](/3-Mechanics/CLI/items/hand-crossbow-xphb.md)), very rare (requires attunement)*  

@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/wdh
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/artifact
-aliases: 
-- "Stone of Golorr"
+  - Quelle/5e/wdh
+  - Gegenstand/attunement/required
+  - Gegenstand/rarity/artifact
+aliases:
+  - Stone of Golorr
 ---
 # Stone of Golorr
 *Wondrous item, artifact (requires attunement)*  

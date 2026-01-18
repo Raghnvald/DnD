@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- new/compendium/src/5e/toa
-- new/item/gear/
-- new/item/rarity/none
-aliases: 
-- "Insect Repellent (block of incense)"
+  - Quelle/5e/toa
+  - Gegenstand/gear/
+  - Gegenstand/rarity/none
+aliases:
+  - Insect Repellent (block of incense)
 ---
 # Insect Repellent (block of incense)
 *Adventuring gear*  

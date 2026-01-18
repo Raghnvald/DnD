@@ -1,11 +1,11 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- new/compendium/src/5e/cm
+  - Quelle/5e/cm
 aliases:
-- Candlekeep
+  - Candlekeep
 ---
 # Candlekeep
 *Source: Candlekeep Mysteries, p. 6* 

@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/bgg
-- ttrpg-cli/monster/cr/4
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/humanoid/druid
+  - Quelle/5e/bgg
+  - Monster/HG/4
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/humanoid/druid
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Firbolg Primeval Warden
+  - Firbolg Primeval Warden
 ---
 # [Firbolg Primeval Warden](3-Mechanics\CLI\bestiary\humanoid/firbolg-primeval-warden-bgg.md)
 *Source: Bigby Presents: Glory of the Giants p. 136*  

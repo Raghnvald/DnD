@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-deity
+  - json5e-deity
 tags:
-- Quelle/5e/dmg
-- Kompendium/Götter/dawn-war
-- Kompendium/Götter/domain/trickery
-aliases: 
-- Sehanine
+  - Quelle/5e/dmg
+  - Kompendium/Götter/dawn-war
+  - Kompendium/Götter/Domäne/trickery
+aliases:
+  - Sehanine
 ---
 # Sehanine
 *Source: Dungeon Master's Guide p. 10* 

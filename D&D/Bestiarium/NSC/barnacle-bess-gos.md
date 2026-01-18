@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/gos
-- ttrpg-cli/monster/cr/1-8
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/beast
+  - Quelle/5e/gos
+  - Monster/HG/1-8
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/beast
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Barnacle Bess
+  - Barnacle Bess
 ---
 # [Barnacle Bess](3-Mechanics\CLI\bestiary\npc/barnacle-bess-gos.md)
 *Source: Ghosts of Saltmarsh p. 220*  

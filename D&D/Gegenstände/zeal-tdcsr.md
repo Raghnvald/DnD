@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/tdcsr
-- ttrpg-cli/item/gear/illegal-drug
-- ttrpg-cli/item/rarity/unknown
-aliases: 
-- "Zeal"
+  - Quelle/5e/tdcsr
+  - Gegenstand/gear/illegal-drug
+  - Gegenstand/rarity/unknown
+aliases:
+  - Zeal
 ---
 # Zeal
 *Illegal drug*  

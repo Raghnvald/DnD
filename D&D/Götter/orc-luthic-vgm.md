@@ -1,14 +1,14 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-deity
+  - json5e-deity
 tags:
-- Quelle/5e/vgm
-- Kompendium/Götter/orc
-- Kompendium/Götter/domain/life
-- Kompendium/Götter/domain/nature
-aliases: 
-- Luthic
+  - Quelle/5e/vgm
+  - Kompendium/Götter/orc
+  - Kompendium/Götter/Domäne/life
+  - Kompendium/Götter/Domäne/nature
+aliases:
+  - Luthic
 ---
 # Luthic
 *Source: Volo's Guide to Monsters p. 84* 

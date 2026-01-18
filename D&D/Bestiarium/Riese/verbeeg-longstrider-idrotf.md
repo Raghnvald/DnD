@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/idrotf
-- new/monster/cr/5
-- new/monster/size/large
-- new/monster/type/giant
+  - Quelle/5e/idrotf
+  - Monster/HG/5
+  - Monster/Größe/Groß
+  - Monster/Typ/giant
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Verbeeg Longstrider
+  - Verbeeg Longstrider
 ---
 # [Verbeeg Longstrider](3-Mechanics\CLI\bestiary\giant/verbeeg-longstrider-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 311*  

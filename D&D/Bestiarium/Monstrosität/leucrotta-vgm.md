@@ -1,18 +1,18 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/vgm
-- new/monster/cr/3
-- new/monster/environment/desert
-- new/monster/environment/grassland
-- new/monster/size/large
-- new/monster/type/monstrosity
+  - Quelle/5e/vgm
+  - Monster/HG/3
+  - Monster/Habitat/desert
+  - Monster/Habitat/grassland
+  - Monster/Größe/Groß
+  - Monster/Typ/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Leucrotta
+  - Leucrotta
 ---
 # [Leucrotta](3-Mechanics\CLI\bestiary\monstrosity/leucrotta-vgm.md)
 *Source: Volo's Guide to Monsters p. 169, Tales from the Yawning Portal*  

@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/tftyp
-- new/monster/cr/2
-- new/monster/size/gargantuan
-- new/monster/type/construct
+  - Quelle/5e/tftyp
+  - Monster/HG/2
+  - Monster/Größe/Gigantisch
+  - Monster/Typ/construct
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Gargantuan Rug of Smothering
+  - Gargantuan Rug of Smothering
 ---
 # [Gargantuan Rug of Smothering](3-Mechanics\CLI\bestiary\construct/gargantuan-rug-of-smothering-tftyp.md)
 *Source: Tales from the Yawning Portal p. 56*  

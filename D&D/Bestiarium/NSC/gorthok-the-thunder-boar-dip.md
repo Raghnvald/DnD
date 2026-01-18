@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/dip
-- new/monster/cr/6
-- new/monster/size/huge
-- new/monster/type/monstrosity
+  - Quelle/5e/dip
+  - Monster/HG/6
+  - Monster/Größe/Riesig
+  - Monster/Typ/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Gorthok the Thunder Boar
+  - Gorthok the Thunder Boar
 ---
 # [Gorthok the Thunder Boar](3-Mechanics\CLI\bestiary\npc/gorthok-the-thunder-boar-dip.md)
 *Source: Dragon of Icespire Peak p. 58*  

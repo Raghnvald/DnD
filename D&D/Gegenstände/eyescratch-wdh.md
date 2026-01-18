@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/wdh
-- ttrpg-cli/item/gear/
-- ttrpg-cli/item/rarity/none
-aliases: 
-- "Eyescratch"
+  - Quelle/5e/wdh
+  - Gegenstand/gear/
+  - Gegenstand/rarity/none
+aliases:
+  - Eyescratch
 ---
 # Eyescratch
 *Adventuring gear, poison (contact)*  

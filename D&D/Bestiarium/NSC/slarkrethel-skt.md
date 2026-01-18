@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/skt
-- new/monster/cr/25
-- new/monster/size/gargantuan
-- new/monster/type/monstrosity/titan
+  - Quelle/5e/skt
+  - Monster/HG/25
+  - Monster/Größe/Gigantisch
+  - Monster/Typ/monstrosity/titan
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Slarkrethel
+  - Slarkrethel
 ---
 # [Slarkrethel](3-Mechanics\CLI\bestiary\npc/slarkrethel-skt.md)
 *Source: Storm King's Thunder p. 224*  

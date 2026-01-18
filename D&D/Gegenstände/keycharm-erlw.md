@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- new/compendium/src/5e/erlw
-- new/item/attunement/required
-- new/item/rarity/common
-aliases: 
-- "Keycharm"
+  - Quelle/5e/erlw
+  - Gegenstand/attunement/required
+  - Gegenstand/rarity/common
+aliases:
+  - Keycharm
 ---
 # Keycharm
 *Wondrous item, common (requires attunement by a creature with the Mark of Warding)*  

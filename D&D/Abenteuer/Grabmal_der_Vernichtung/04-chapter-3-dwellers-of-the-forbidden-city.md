@@ -1,11 +1,11 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- new/compendium/src/5e/toa
+  - Quelle/5e/toa
 aliases:
-- Chapter 3: Dwellers of the Forbidden City
+  - Chapter 3: Dwellers of the Forbidden City
 ---
 # Chapter 3: Dwellers of the Forbidden City
 *Source: Tomb of Annihilation, p. 91* 

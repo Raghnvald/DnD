@@ -1,11 +1,11 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- new/compendium/src/5e/skt
+  - Quelle/5e/skt
 aliases:
-- Appendix A: Linked Adventures
+  - Appendix A: Linked Adventures
 ---
 # Appendix A: Linked Adventures
 *Source: Storm King's Thunder, p. 231* 

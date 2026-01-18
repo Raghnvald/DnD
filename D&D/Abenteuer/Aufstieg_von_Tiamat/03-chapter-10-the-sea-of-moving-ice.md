@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- ttrpg-cli/compendium/src/5e/rot
+  - Quelle/5e/rot
 aliases:
-- Chapter 10: The Sea of Moving Ice
+  - Chapter 10: The Sea of Moving Ice
 ---
 # Chapter 10: The Sea of Moving Ice
 *Source: Rise of Tiamat, p. 110* 

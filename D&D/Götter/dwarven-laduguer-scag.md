@@ -1,14 +1,14 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-deity
+  - json5e-deity
 tags:
-- ttrpg-cli/compendium/src/5e/scag
-- ttrpg-cli/deity/dwarven
-- ttrpg-cli/domain/arcana
-- ttrpg-cli/domain/death
-aliases: 
-- Laduguer
+  - Quelle/5e/scag
+  - Kompendium/Götter/dwarven
+  - Kompendium/Götter/Domäne/arcana
+  - Kompendium/Götter/Domäne/death
+aliases:
+  - Laduguer
 ---
 # Laduguer
 *Source: Sword Coast Adventurer's Guide p. 22* 

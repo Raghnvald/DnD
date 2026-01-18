@@ -1,15 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- new/compendium/src/5e/skt
-- new/item/attunement/required
-- new/item/rarity/legendary
-- new/item/weapon/martial
-- new/item/weapon/melee
-aliases: 
-- "Gurt's Greataxe"
+  - Quelle/5e/skt
+  - Gegenstand/attunement/required
+  - Gegenstand/rarity/legendary
+  - Gegenstand/weapon/martial
+  - Gegenstand/weapon/melee
+aliases:
+  - Gurt's Greataxe
 ---
 # Gurt's Greataxe
 *Weapon (greataxe), legendary (requires attunement)*  

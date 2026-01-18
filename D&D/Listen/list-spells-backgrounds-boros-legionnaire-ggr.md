@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/background/boros-legionnaire
+- Zauber/list/background/boros-legionnaire
 aliases:
 - Spells for Boros Legionnaire
 ---

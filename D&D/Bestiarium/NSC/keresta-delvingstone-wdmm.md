@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/wdmm
-- ttrpg-cli/monster/cr/13
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/undead/shapechanger
+  - Quelle/5e/wdmm
+  - Monster/HG/13
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/undead/shapechanger
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Keresta Delvingstone
+  - Keresta Delvingstone
 ---
 # [Keresta Delvingstone](3-Mechanics\CLI\bestiary\npc/keresta-delvingstone-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 232*  

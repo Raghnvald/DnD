@@ -1,11 +1,11 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- ttrpg-cli/compendium/src/5e/xge
+  - Quelle/5e/xge
 aliases:
-- Swamp Encounters (Levels 11—20)
+  - Swamp Encounters (Levels 11—20)
 ---
 # Swamp Encounters (Levels 11—20)
 *Source: Xanathar's Guide to Everything p. 105* 

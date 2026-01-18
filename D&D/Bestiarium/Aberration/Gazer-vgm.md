@@ -1,17 +1,17 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/vgm
-- ttrpg-cli/monster/cr/1-2
-- ttrpg-cli/monster/environment/underdark
-- ttrpg-cli/monster/size/tiny
-- ttrpg-cli/monster/type/aberration
+  - Quelle/5e/vgm
+  - Monster/HG/1-2
+  - Monster/Habitat/underdark
+  - Monster/Größe/Winzig
+  - Monster/Typ/aberration
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Gazer
+  - Gazer
 ---
 # [Gazer](3-Mechanics\CLI\bestiary\aberration/gazer-vgm.md)
 *Source: Volo's Guide to Monsters p. 126, Waterdeep: Dragon Heist*  

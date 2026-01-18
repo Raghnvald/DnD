@@ -1,15 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-deity
+  - json5e-deity
 tags:
-- ttrpg-cli/compendium/src/5e/mtf
-- ttrpg-cli/deity/elven
-- ttrpg-cli/domain/knowledge
-- ttrpg-cli/domain/nature
-- ttrpg-cli/domain/tempest
-aliases: 
-- Deep Sashelas
+  - Quelle/5e/mtf
+  - Kompendium/Götter/elven
+  - Kompendium/Götter/Domäne/knowledge
+  - Kompendium/Götter/Domäne/nature
+  - Kompendium/Götter/Domäne/tempest
+aliases:
+  - Deep Sashelas
 ---
 # Deep Sashelas
 *Source: Mordenkainen's Tome of Foes p. 48* 

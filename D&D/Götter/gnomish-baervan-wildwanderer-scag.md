@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-deity
+  - json5e-deity
 tags:
-- ttrpg-cli/compendium/src/5e/scag
-- ttrpg-cli/deity/gnomish
-- ttrpg-cli/domain/nature
-aliases: 
-- Baervan Wildwanderer
+  - Quelle/5e/scag
+  - Kompendium/Götter/gnomish
+  - Kompendium/Götter/Domäne/nature
+aliases:
+  - Baervan Wildwanderer
 ---
 # Baervan Wildwanderer
 *Source: Sword Coast Adventurer's Guide p. 24* 

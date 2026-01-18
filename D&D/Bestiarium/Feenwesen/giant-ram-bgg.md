@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/bgg
-- ttrpg-cli/monster/cr/1
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/fey
+  - Quelle/5e/bgg
+  - Monster/HG/1
+  - Monster/Größe/Groß
+  - Monster/Typ/fey
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Giant Ram
+  - Giant Ram
 ---
 # [Giant Ram](3-Mechanics\CLI\bestiary\fey/giant-ram-bgg.md)
 *Source: Bigby Presents: Glory of the Giants p. 153*  

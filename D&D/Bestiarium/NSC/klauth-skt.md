@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/skt
-- new/monster/cr/25
-- new/monster/size/gargantuan
-- new/monster/type/dragon
+  - Quelle/5e/skt
+  - Monster/HG/25
+  - Monster/Größe/Gigantisch
+  - Monster/Typ/dragon
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Klauth
+  - Klauth
 ---
 # [Klauth](3-Mechanics\CLI\bestiary\npc/klauth-skt.md)
 *Source: Storm King's Thunder p. 95*  

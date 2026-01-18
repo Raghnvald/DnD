@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/toa
-- new/monster/cr/3
-- new/monster/size/large
-- new/monster/type/elemental
+  - Quelle/5e/toa
+  - Monster/HG/3
+  - Monster/Größe/Groß
+  - Monster/Typ/elemental
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Wine Weird
+  - Wine Weird
 ---
 # [Wine Weird](3-Mechanics\CLI\bestiary\elemental/wine-weird-toa.md)
 *Source: Tomb of Annihilation p. 141*  

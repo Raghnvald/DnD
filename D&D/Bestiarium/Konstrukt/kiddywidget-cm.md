@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/cm
-- new/monster/cr/1-2
-- new/monster/size/small
-- new/monster/type/construct
+  - Quelle/5e/cm
+  - Monster/HG/1-2
+  - Monster/Größe/Klein
+  - Monster/Typ/construct
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Kiddywidget
+  - Kiddywidget
 ---
 # [Kiddywidget](3-Mechanics\CLI\bestiary\construct/kiddywidget-cm.md)
 *Source: Candlekeep Mysteries p. 136*  

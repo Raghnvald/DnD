@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/wdmm
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/legendary
-aliases: 
-- "Black Crystal Tablet"
+  - Quelle/5e/wdmm
+  - Gegenstand/attunement/required
+  - Gegenstand/rarity/legendary
+aliases:
+  - Black Crystal Tablet
 ---
 # Black Crystal Tablet
 *Wondrous item, legendary (requires attunement by a creature that has proficiency in the Arcana skill)*  

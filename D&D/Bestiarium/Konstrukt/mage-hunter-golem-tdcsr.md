@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/tdcsr
-- ttrpg-cli/monster/cr/15
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/construct
+  - Quelle/5e/tdcsr
+  - Monster/HG/15
+  - Monster/Größe/Groß
+  - Monster/Typ/construct
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Mage Hunter Golem
+  - Mage Hunter Golem
 ---
 # [Mage Hunter Golem](3-Mechanics\CLI\bestiary\construct/mage-hunter-golem-tdcsr.md)
 *Source: Tal'Dorei Campaign Setting Reborn p. 242*  

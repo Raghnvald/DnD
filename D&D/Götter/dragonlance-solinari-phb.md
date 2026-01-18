@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-deity
+  - json5e-deity
 tags:
-- Quelle/5e/phb
-- Kompendium/Götter/dragonlance
-- Kompendium/Götter/domain/arcana
-aliases: 
-- Solinari
+  - Quelle/5e/phb
+  - Kompendium/Götter/dragonlance
+  - Kompendium/Götter/Domäne/arcana
+aliases:
+  - Solinari
 ---
 # Solinari
 *Source: Player's Handbook p. 295, Sword Coast Adventurer's Guide p. 125* 

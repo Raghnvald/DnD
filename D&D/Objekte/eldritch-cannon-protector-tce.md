@@ -3,8 +3,8 @@ cssclasses:
   - json5e-object
 tags:
   - Quelle/5e/tce
-  - Kompendium/object/size/unknown
-  - Kompendium/object/type/unknown
+  - Kompendium/Objekt/size/unknown
+  - Kompendium/Objekt/type/unknown
 aliases:
   - Eldritch Cannon, Protector
 ---

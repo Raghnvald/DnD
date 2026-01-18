@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/jttrc
-- ttrpg-cli/monster/cr/2
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/undead
+  - Quelle/5e/jttrc
+  - Monster/HG/2
+  - Monster/Größe/Groß
+  - Monster/Typ/undead
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Dinosaur Skeleton
+  - Dinosaur Skeleton
 ---
 # [Dinosaur Skeleton](3-Mechanics\CLI\bestiary\undead/dinosaur-skeleton-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 57*  

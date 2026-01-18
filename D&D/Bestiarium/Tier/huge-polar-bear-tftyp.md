@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/tftyp
-- new/monster/cr/2
-- new/monster/size/huge
-- new/monster/type/beast
+  - Quelle/5e/tftyp
+  - Monster/HG/2
+  - Monster/Größe/Riesig
+  - Monster/Typ/beast
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Huge Polar Bear
+  - Huge Polar Bear
 ---
 # [Huge Polar Bear](3-Mechanics\CLI\bestiary\beast/huge-polar-bear-tftyp.md)
 *Source: Tales from the Yawning Portal p. 187*  

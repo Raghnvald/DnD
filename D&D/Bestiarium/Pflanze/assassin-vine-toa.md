@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/toa
-- new/monster/cr/3
-- new/monster/size/large
-- new/monster/type/plant
+  - Quelle/5e/toa
+  - Monster/HG/3
+  - Monster/Größe/Groß
+  - Monster/Typ/plant
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Assassin Vine
+  - Assassin Vine
 ---
 # [Assassin Vine](3-Mechanics\CLI\bestiary\plant/assassin-vine-toa.md)
 *Source: Tomb of Annihilation p. 213*  

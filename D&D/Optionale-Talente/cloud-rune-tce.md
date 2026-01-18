@@ -3,7 +3,7 @@ cssclasses:
   - json5e-feat
 tags:
   - Quelle/5e/tce
-  - Kompendium/optional-feature/rn
+  - Kompendium/Optionales/rn
 aliases:
   - Cloud Rune
 ---

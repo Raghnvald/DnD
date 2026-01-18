@@ -1,11 +1,11 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- new/compendium/src/5e/bmt
+  - Quelle/5e/bmt
 aliases:
-- Chapter 6: Rogue
+  - Chapter 6: Rogue
 ---
 # Chapter 6: Rogue
 *Source: The Book of Many Things, p. 40* 

@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/tftyp
-- new/monster/cr/1-8
-- new/monster/size/small
-- new/monster/type/humanoid/troglodyte
+  - Quelle/5e/tftyp
+  - Monster/HG/1-8
+  - Monster/Größe/Klein
+  - Monster/Typ/humanoid/troglodyte
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Young Troglodyte
+  - Young Troglodyte
 ---
 # [Young Troglodyte](3-Mechanics\CLI\bestiary\humanoid/young-troglodyte-tftyp.md)
 *Source: Tales from the Yawning Portal p. 176*  

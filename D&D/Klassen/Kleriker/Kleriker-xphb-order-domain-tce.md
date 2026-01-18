@@ -3,7 +3,7 @@ cssclasses:
   - json5e-class
 tags:
   - Quelle/5e/tce
-  - Kompendium/Götter/domain/order
+  - Kompendium/Götter/Domäne/order
   - Klasse/Kleriker/order
 aliases:
   - Order Domain

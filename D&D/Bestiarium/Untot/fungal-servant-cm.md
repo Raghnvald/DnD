@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/cm
-- new/monster/cr/15
-- new/monster/size/medium
-- new/monster/type/undead
+  - Quelle/5e/cm
+  - Monster/HG/15
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/undead
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Fungal Servant
+  - Fungal Servant
 ---
 # [Fungal Servant](3-Mechanics\CLI\bestiary\undead/fungal-servant-cm.md)
 *Source: Candlekeep Mysteries p. 217*  

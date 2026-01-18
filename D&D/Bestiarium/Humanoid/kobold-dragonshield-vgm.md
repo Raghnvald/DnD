@@ -1,20 +1,20 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/vgm
-- new/monster/cr/1
-- new/monster/environment/forest
-- new/monster/environment/hill
-- new/monster/environment/mountain
-- new/monster/environment/underdark
-- new/monster/size/small
-- new/monster/type/humanoid/kobold
+  - Quelle/5e/vgm
+  - Monster/HG/1
+  - Monster/Habitat/forest
+  - Monster/Habitat/hill
+  - Monster/Habitat/mountain
+  - Monster/Habitat/underdark
+  - Monster/Größe/Klein
+  - Monster/Typ/humanoid/kobold
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Kobold Dragonshield
+  - Kobold Dragonshield
 ---
 # [Kobold Dragonshield](3-Mechanics\CLI\bestiary\humanoid/kobold-dragonshield-vgm.md)
 *Source: Volo's Guide to Monsters p. 165, Dragon of Icespire Peak, Storm Lord's Wrath*  

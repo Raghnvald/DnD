@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/bgg
-- ttrpg-cli/monster/cr/12
-- ttrpg-cli/monster/size/huge
-- ttrpg-cli/monster/type/giant
+  - Quelle/5e/bgg
+  - Monster/HG/12
+  - Monster/Größe/Riesig
+  - Monster/Typ/giant
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Cloud Giant of Evil Air
+  - Cloud Giant of Evil Air
 ---
 # [Cloud Giant of Evil Air](3-Mechanics\CLI\bestiary\giant/cloud-giant-of-evil-air-bgg.md)
 *Source: Bigby Presents: Glory of the Giants p. 125*  

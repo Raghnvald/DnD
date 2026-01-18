@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-deity
+  - json5e-deity
 tags:
-- Quelle/5e/dmg
-- Kompendium/Götter/dawn-war
-- Kompendium/Götter/domain/trickery
-aliases: 
-- Avandra
+  - Quelle/5e/dmg
+  - Kompendium/Götter/dawn-war
+  - Kompendium/Götter/Domäne/trickery
+aliases:
+  - Avandra
 ---
 # Avandra
 *Source: Dungeon Master's Guide p. 10* 

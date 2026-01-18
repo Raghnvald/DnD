@@ -1,6 +1,6 @@
 ---
 tags:
-  - Kompendium/background
+  - Kompendium/Hintergrund
   - Quelle/5e/xphb
 aliases:
   - Artisan

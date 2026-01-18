@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/bam
-- ttrpg-cli/monster/cr/10
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/aberration
+  - Quelle/5e/bam
+  - Monster/HG/10
+  - Monster/Größe/Groß
+  - Monster/Typ/aberration
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Eye Monger
+  - Eye Monger
 ---
 # [Eye Monger](3-Mechanics\CLI\bestiary\aberration/eye-monger-bam.md)
 *Source: Boo's Astral Menagerie p. 21, Vecna: Eve of Ruin*  

@@ -1,14 +1,14 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- new/compendium/src/5e/bmt
-- new/item/armor/heavy
-- new/item/attunement/required
-- new/item/rarity/uncommon
-aliases: 
-- "Plate of Knight's Fellowship"
+  - Quelle/5e/bmt
+  - Gegenstand/armor/heavy
+  - Gegenstand/attunement/required
+  - Gegenstand/rarity/uncommon
+aliases:
+  - Plate of Knight's Fellowship
 ---
 # Plate of Knight's Fellowship
 *Heavy armor (plate armor), uncommon (requires attunement)*  

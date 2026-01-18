@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-deity
+  - json5e-deity
 tags:
-- Quelle/5e/phb
-- Kompendium/Götter/greyhawk
-- Kompendium/Götter/domain/nature
-aliases: 
-- Beory
+  - Quelle/5e/phb
+  - Kompendium/Götter/greyhawk
+  - Kompendium/Götter/Domäne/nature
+aliases:
+  - Beory
 ---
 # Beory
 *Source: Player's Handbook p. 295* 

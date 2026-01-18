@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-deity
+  - json5e-deity
 tags:
-- Quelle/5e/vgm
-- Kompendium/Götter/orc
-- Kompendium/Götter/domain/death
-aliases: 
-- Yurtrus
+  - Quelle/5e/vgm
+  - Kompendium/Götter/orc
+  - Kompendium/Götter/Domäne/death
+aliases:
+  - Yurtrus
 ---
 # Yurtrus
 *Source: Volo's Guide to Monsters p. 84* 

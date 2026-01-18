@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- new/compendium/src/5e/skt
-- new/item/attunement/required
-- new/item/rarity/very-rare
-aliases: 
-- "Pennant of the Vind Rune"
+  - Quelle/5e/skt
+  - Gegenstand/attunement/required
+  - Gegenstand/rarity/very-rare
+aliases:
+  - Pennant of the Vind Rune
 ---
 # Pennant of the Vind Rune
 *Wondrous item, very rare (requires attunement)*  

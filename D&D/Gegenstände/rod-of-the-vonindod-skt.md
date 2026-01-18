@@ -1,14 +1,14 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- new/compendium/src/5e/skt
-- new/item/attunement/required
-- new/item/rarity/rare
-- new/item/wondrous/rod
-aliases: 
-- "Rod of the Vonindod"
+  - Quelle/5e/skt
+  - Gegenstand/attunement/required
+  - Gegenstand/rarity/rare
+  - Gegenstand/wondrous/rod
+aliases:
+  - Rod of the Vonindod
 ---
 # Rod of the Vonindod
 *Rod, rare (requires attunement)*  

@@ -1,18 +1,18 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/tdcsr
-- ttrpg-cli/monster/cr/8
-- ttrpg-cli/monster/environment/forest
-- ttrpg-cli/monster/environment/underdark
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/fiend
+  - Quelle/5e/tdcsr
+  - Monster/HG/8
+  - Monster/Habitat/forest
+  - Monster/Habitat/underdark
+  - Monster/Größe/Groß
+  - Monster/Typ/fiend
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Demonfeed Spider
+  - Demonfeed Spider
 ---
 # [Demonfeed Spider](3-Mechanics\CLI\bestiary\fiend/demonfeed-spider-tdcsr.md)
 *Source: Tal'Dorei Campaign Setting Reborn p. 237*  

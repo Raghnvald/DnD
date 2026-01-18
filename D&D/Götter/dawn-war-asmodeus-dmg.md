@@ -1,14 +1,14 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-deity
+  - json5e-deity
 tags:
-- Quelle/5e/dmg
-- Kompendium/Götter/dawn-war
-- Kompendium/Götter/domain/order
-- Kompendium/Götter/domain/trickery
-aliases: 
-- Asmodeus
+  - Quelle/5e/dmg
+  - Kompendium/Götter/dawn-war
+  - Kompendium/Götter/Domäne/order
+  - Kompendium/Götter/Domäne/trickery
+aliases:
+  - Asmodeus
 ---
 # Asmodeus
 *Source: Dungeon Master's Guide p. 10* 

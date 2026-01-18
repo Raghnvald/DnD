@@ -1,11 +1,11 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- new/compendium/src/5e/dip
+  - Quelle/5e/dip
 aliases:
-- Running the Adventure
+  - Running the Adventure
 ---
 # Running the Adventure
 *Source: Essentials Kit: Dragon of Icespire Peak, p. 2* 

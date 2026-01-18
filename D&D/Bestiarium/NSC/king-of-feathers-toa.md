@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/toa
-- new/monster/cr/8
-- new/monster/size/huge
-- new/monster/type/monstrosity
+  - Quelle/5e/toa
+  - Monster/HG/8
+  - Monster/Größe/Riesig
+  - Monster/Typ/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- King of Feathers
+  - King of Feathers
 ---
 # [King of Feathers](3-Mechanics\CLI\bestiary\npc/king-of-feathers-toa.md)
 *Source: Tomb of Annihilation p. 106*  

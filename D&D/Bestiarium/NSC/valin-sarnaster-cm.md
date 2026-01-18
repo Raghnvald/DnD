@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/cm
-- new/monster/cr/16
-- new/monster/size/medium
-- new/monster/type/undead
+  - Quelle/5e/cm
+  - Monster/HG/16
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/undead
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Valin Sarnaster
+  - Valin Sarnaster
 ---
 # [Valin Sarnaster](3-Mechanics\CLI\bestiary\npc/valin-sarnaster-cm.md)
 *Source: Candlekeep Mysteries p. 182*  

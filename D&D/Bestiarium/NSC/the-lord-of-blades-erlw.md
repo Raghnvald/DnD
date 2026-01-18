@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/erlw
-- new/monster/cr/18
-- new/monster/size/medium
-- new/monster/type/humanoid/warforged
+  - Quelle/5e/erlw
+  - Monster/HG/18
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/humanoid/warforged
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- The Lord of Blades
+  - The Lord of Blades
 ---
 # [The Lord of Blades](3-Mechanics\CLI\bestiary\npc/the-lord-of-blades-erlw.md)
 *Source: Eberron: Rising from the Last War p. 300*  

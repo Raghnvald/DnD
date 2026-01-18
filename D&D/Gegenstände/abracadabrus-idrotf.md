@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- new/compendium/src/5e/idrotf
-- new/item/rarity/very-rare
-aliases: 
-- "Abracadabrus"
+  - Quelle/5e/idrotf
+  - Gegenstand/rarity/very-rare
+aliases:
+  - Abracadabrus
 ---
 # Abracadabrus
 *Wondrous item, very rare*  

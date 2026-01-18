@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/bgdia
-- ttrpg-cli/monster/cr/6
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/undead
+  - Quelle/5e/bgdia
+  - Monster/HG/6
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/undead
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Gideon Lightward
+  - Gideon Lightward
 ---
 # [Gideon Lightward](3-Mechanics\CLI\bestiary\npc/gideon-lightward-bgdia.md)
 *Source: Baldur's Gate: Descent Into Avernus p. 65*  

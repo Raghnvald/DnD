@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/gos
-- ttrpg-cli/monster/cr/2
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/humanoid/human
+  - Quelle/5e/gos
+  - Monster/HG/2
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/humanoid/human
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Master Refrum
+  - Master Refrum
 ---
 # [Master Refrum](3-Mechanics\CLI\bestiary\npc/master-refrum-gos.md)
 *Source: Ghosts of Saltmarsh p. 165*  

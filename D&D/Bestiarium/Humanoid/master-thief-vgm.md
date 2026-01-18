@@ -1,17 +1,17 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/vgm
-- new/monster/cr/5
-- new/monster/environment/urban
-- new/monster/size/medium
-- new/monster/type/humanoid/any-race
+  - Quelle/5e/vgm
+  - Monster/HG/5
+  - Monster/Habitat/urban
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/humanoid/any-race
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Master Thief
+  - Master Thief
 ---
 # [Master Thief](3-Mechanics\CLI\bestiary\humanoid/master-thief-vgm.md)
 *Source: Volo's Guide to Monsters p. 216, Dragon of Icespire Peak, Storm Lord's Wrath*  

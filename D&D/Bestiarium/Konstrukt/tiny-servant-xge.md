@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/xge
-- ttrpg-cli/monster/cr/
-- ttrpg-cli/monster/size/tiny
-- ttrpg-cli/monster/type/construct
+  - Quelle/5e/xge
+  - Monster/HG/
+  - Monster/Größe/Winzig
+  - Monster/Typ/construct
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Tiny Servant
+  - Tiny Servant
 ---
 # [Tiny Servant](3-Mechanics\CLI\bestiary\construct/tiny-servant-xge.md)
 *Source: Xanathar's Guide to Everything p. 169*  

@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/cm
-- new/monster/cr/17
-- new/monster/size/gargantuan
-- new/monster/type/dragon
+  - Quelle/5e/cm
+  - Monster/HG/17
+  - Monster/Größe/Gigantisch
+  - Monster/Typ/dragon
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Dragon Tortoise
+  - Dragon Tortoise
 ---
 # [Dragon Tortoise](3-Mechanics\CLI\bestiary\dragon/dragon-tortoise-cm.md)
 *Source: Candlekeep Mysteries p. 205*  

@@ -1,14 +1,14 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/tdcsr
-- ttrpg-cli/item/rarity/rare
-- ttrpg-cli/item/weapon/martial
-- ttrpg-cli/item/weapon/melee
-aliases: 
-- "Magician's Judge"
+  - Quelle/5e/tdcsr
+  - Gegenstand/rarity/rare
+  - Gegenstand/weapon/martial
+  - Gegenstand/weapon/melee
+aliases:
+  - Magician's Judge
 ---
 # Magician's Judge
 *Weapon ([greatsword](/3-Mechanics/CLI/items/greatsword-xphb.md)), rare*  

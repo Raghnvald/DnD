@@ -4,7 +4,7 @@ cssclasses:
   - json5e-class
 tags:
   - Quelle/5e/dmg
-  - Kompendium/Götter/domain/death
+  - Kompendium/Götter/Domäne/death
   - Klasse/Kleriker/death
 aliases:
   - Death Domain

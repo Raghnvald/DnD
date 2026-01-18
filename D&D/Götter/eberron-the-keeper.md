@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-deity
+  - json5e-deity
 tags:
-- Quelle/5e/phb
-- Kompendium/Götter/eberron
-- Kompendium/Götter/domain/death
-aliases: 
-- The Keeper
+  - Quelle/5e/phb
+  - Kompendium/Götter/eberron
+  - Kompendium/Götter/Domäne/death
+aliases:
+  - The Keeper
 ---
 # The Keeper
 *Source: Player's Handbook p. 296* 

@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-deity
+  - json5e-deity
 tags:
-- Quelle/5e/phb
-- Kompendium/Götter/forgotten-realms
-- Kompendium/Götter/domain/death
-aliases: 
-- Loviatar
+  - Quelle/5e/phb
+  - Kompendium/Götter/forgotten-realms
+  - Kompendium/Götter/Domäne/death
+aliases:
+  - Loviatar
 ---
 # Loviatar
 *Source: Player's Handbook p. 294. Available in the Basic Rules (2014)* 

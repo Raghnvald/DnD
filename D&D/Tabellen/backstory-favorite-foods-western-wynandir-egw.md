@@ -1,11 +1,11 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- ttrpg-cli/compendium/src/5e/egw
+  - Quelle/5e/egw
 aliases:
-- Backstory; Favorite Foods (Western Wynandir)
+  - Backstory; Favorite Foods (Western Wynandir)
 ---
 # Backstory; Favorite Foods (Western Wynandir)
 *Source: Explorer's Guide to Wildemount p. 191* 

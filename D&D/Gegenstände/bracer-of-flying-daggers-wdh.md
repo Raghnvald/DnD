@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/wdh
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/rare
-aliases: 
-- "Bracer of Flying Daggers"
+  - Quelle/5e/wdh
+  - Gegenstand/attunement/required
+  - Gegenstand/rarity/rare
+aliases:
+  - Bracer of Flying Daggers
 ---
 # Bracer of Flying Daggers
 *Wondrous item, rare (requires attunement)*  

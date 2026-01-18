@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-spell
+  - json5e-spell
 tags:
-- ttrpg-cli/compendium/src/5e/egw
-- ttrpg-cli/spell/level/8th-level
-- ttrpg-cli/spell/school/conjuration
+  - Quelle/5e/egw
+  - Zauber/Grad/8
+  - Zauber/Schule/conjuration
 aliases:
-- Reality Break
+  - Reality Break
 ---
 # Reality Break
 *8th-level, Conjuration*  

@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-reward
+  - json5e-reward
 tags:
-- Quelle/5e/cos
-- Kompendium/reward/charm
+  - Quelle/5e/cos
+  - Kompendium/Belohnung/charm
 aliases:
-- Dark Gift of Drizlash, the Nine-Eyed Spider
+  - Dark Gift of Drizlash, the Nine-Eyed Spider
 ---
 # Dark Gift of Drizlash, the Nine-Eyed Spider
 *Charm*  

@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-deity
+  - json5e-deity
 tags:
-- Quelle/5e/phb
-- Kompendium/Götter/greek
-- Kompendium/Götter/domain/life
-aliases: 
-- Demeter
+  - Quelle/5e/phb
+  - Kompendium/Götter/greek
+  - Kompendium/Götter/Domäne/life
+aliases:
+  - Demeter
 ---
 # Demeter
 *Source: Player's Handbook p. 298. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>* 

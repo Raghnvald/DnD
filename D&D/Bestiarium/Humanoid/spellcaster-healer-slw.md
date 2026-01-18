@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/slw
-- new/monster/cr/
-- new/monster/size/medium
-- new/monster/type/humanoid/healer
+  - Quelle/5e/slw
+  - Monster/HG/
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/humanoid/healer
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Spellcaster (Healer)
+  - Spellcaster (Healer)
 ---
 # [Spellcaster (Healer)](3-Mechanics\CLI\bestiary\humanoid/spellcaster-healer-slw.md)
 *Source: Storm Lord's Wrath*  

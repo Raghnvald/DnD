@@ -4,9 +4,9 @@ cssclasses:
 tags:
   - Quelle/5e/erlw
   - Kompendium/Götter/eberron
-  - Kompendium/Götter/domain/life
-  - Kompendium/Götter/domain/peace
-  - Kompendium/Götter/domain/twilight
+  - Kompendium/Götter/Domäne/life
+  - Kompendium/Götter/Domäne/peace
+  - Kompendium/Götter/Domäne/twilight
 aliases:
   - Boldrei
 ---

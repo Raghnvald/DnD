@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/skt
-- new/monster/cr/9
-- new/monster/size/huge
-- new/monster/type/plant
+  - Quelle/5e/skt
+  - Monster/HG/9
+  - Monster/Größe/Riesig
+  - Monster/Typ/plant
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Turlang
+  - Turlang
 ---
 # [Turlang](3-Mechanics\CLI\bestiary\npc/turlang-skt.md)
 *Source: Storm King's Thunder p. 107*  

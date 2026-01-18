@@ -1,17 +1,17 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-deity
+  - json5e-deity
 tags:
-- ttrpg-cli/compendium/src/5e/tdcsr
-- ttrpg-cli/deity/exandria
-- ttrpg-cli/domain/arcana
-- ttrpg-cli/domain/moon
-- ttrpg-cli/domain/twilight
-aliases: 
-- The Moonweaver
-- Sehanine
-- Moonbow
+  - Quelle/5e/tdcsr
+  - Kompendium/Götter/exandria
+  - Kompendium/Götter/Domäne/arcana
+  - Kompendium/Götter/Domäne/moon
+  - Kompendium/Götter/Domäne/twilight
+aliases:
+  - The Moonweaver
+  - Sehanine
+  - Moonbow
 ---
 # The Moonweaver
 *Source: Tal'Dorei Campaign Setting Reborn p. 33* 

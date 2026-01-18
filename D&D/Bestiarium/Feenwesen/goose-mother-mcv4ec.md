@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/mcv4ec
-- ttrpg-cli/monster/cr/7
-- ttrpg-cli/monster/size/huge
-- ttrpg-cli/monster/type/fey
+  - Quelle/5e/mcv4ec
+  - Monster/HG/7
+  - Monster/Größe/Riesig
+  - Monster/Typ/fey
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Goose Mother
+  - Goose Mother
 ---
 # [Goose Mother](3-Mechanics\CLI\bestiary\fey/goose-mother-mcv4ec.md)
 *Source: Monstrous Compendium Volume 4: Eldraine Creatures*  

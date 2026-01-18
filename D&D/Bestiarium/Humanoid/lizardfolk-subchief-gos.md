@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/gos
-- new/monster/cr/3
-- new/monster/size/medium
-- new/monster/type/humanoid/lizardfolk
+  - Quelle/5e/gos
+  - Monster/HG/3
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/humanoid/lizardfolk
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Lizardfolk Subchief
+  - Lizardfolk Subchief
 ---
 # [Lizardfolk Subchief](3-Mechanics\CLI\bestiary\humanoid/lizardfolk-subchief-gos.md)
 *Source: Ghosts of Saltmarsh p. 242, Storm Lord's Wrath*  

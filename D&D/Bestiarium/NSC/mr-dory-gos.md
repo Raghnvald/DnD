@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/gos
-- ttrpg-cli/monster/cr/10
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/aberration
+  - Quelle/5e/gos
+  - Monster/HG/10
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/aberration
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Mr. Dory
+  - Mr. Dory
 ---
 # [Mr. Dory](3-Mechanics\CLI\bestiary\npc/mr-dory-gos.md)
 *Source: Ghosts of Saltmarsh p. 246*  

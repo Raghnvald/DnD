@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/mcv2dc
-- new/monster/cr/2
-- new/monster/size/small
-- new/monster/type/humanoid
+  - Quelle/5e/mcv2dc
+  - Monster/HG/2
+  - Monster/Größe/Klein
+  - Monster/Typ/humanoid
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Nevermind Gnome Inventor
+  - Nevermind Gnome Inventor
 ---
 # [Nevermind Gnome Inventor](3-Mechanics\CLI\bestiary\humanoid/nevermind-gnome-inventor-mcv2dc.md)
 *Source: Monstrous Compendium Volume 2: Dragonlance Creatures p. 10*  

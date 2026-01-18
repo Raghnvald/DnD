@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- ttrpg-cli/compendium/src/5e/rot
+  - Quelle/5e/rot
 aliases:
-- Chapter 16: Mission to Thay
+  - Chapter 16: Mission to Thay
 ---
 # Chapter 16: Mission to Thay
 *Source: Rise of Tiamat, p. 161* 

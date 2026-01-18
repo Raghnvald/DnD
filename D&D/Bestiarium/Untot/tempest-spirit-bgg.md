@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/bgg
-- ttrpg-cli/monster/cr/15
-- ttrpg-cli/monster/size/huge
-- ttrpg-cli/monster/type/undead
+  - Quelle/5e/bgg
+  - Monster/HG/15
+  - Monster/Größe/Riesig
+  - Monster/Typ/undead
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Tempest Spirit
+  - Tempest Spirit
 ---
 # [Tempest Spirit](3-Mechanics\CLI\bestiary\undead/tempest-spirit-bgg.md)
 *Source: Bigby Presents: Glory of the Giants p. 184*  

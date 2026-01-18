@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/mcv4ec
-- ttrpg-cli/monster/cr/18
-- ttrpg-cli/monster/size/gargantuan
-- ttrpg-cli/monster/type/monstrosity
+  - Quelle/5e/mcv4ec
+  - Monster/HG/18
+  - Monster/Größe/Gigantisch
+  - Monster/Typ/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Beanstalk Wurm
+  - Beanstalk Wurm
 ---
 # [Beanstalk Wurm](3-Mechanics\CLI\bestiary\monstrosity/beanstalk-wurm-mcv4ec.md)
 *Source: Monstrous Compendium Volume 4: Eldraine Creatures*  

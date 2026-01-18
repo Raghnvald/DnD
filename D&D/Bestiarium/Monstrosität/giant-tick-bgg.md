@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/bgg
-- ttrpg-cli/monster/cr/2
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/monstrosity
+  - Quelle/5e/bgg
+  - Monster/HG/2
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Giant Tick
+  - Giant Tick
 ---
 # [Giant Tick](3-Mechanics\CLI\bestiary\monstrosity/giant-tick-bgg.md)
 *Source: Bigby Presents: Glory of the Giants p. 153*  

@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/toa
-- new/monster/cr/2
-- new/monster/size/medium
-- new/monster/type/humanoid/human
+  - Quelle/5e/toa
+  - Monster/HG/2
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/humanoid/human
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Zaroum Al-Saryak
+  - Zaroum Al-Saryak
 ---
 # [Zaroum Al-Saryak](3-Mechanics\CLI\bestiary\npc/zaroum-al-saryak-toa.md)
 *Source: Tomb of Annihilation p. 67*  

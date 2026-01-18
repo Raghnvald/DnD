@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/tftyp
-- new/monster/cr/0
-- new/monster/size/medium
-- new/monster/type/humanoid/human
+  - Quelle/5e/tftyp
+  - Monster/HG/0
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/humanoid/human
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Kieren
+  - Kieren
 ---
 # [Kieren](3-Mechanics\CLI\bestiary\npc/kieren-tftyp.md)
 *Source: Tales from the Yawning Portal p. 157*  

@@ -1,18 +1,18 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/vgm
-- new/monster/cr/3
-- new/monster/environment/underdark
-- new/monster/environment/urban
-- new/monster/size/medium
-- new/monster/type/ooze
+  - Quelle/5e/vgm
+  - Monster/HG/3
+  - Monster/Habitat/underdark
+  - Monster/Habitat/urban
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/ooze
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Slithering Tracker
+  - Slithering Tracker
 ---
 # [Slithering Tracker](3-Mechanics\CLI\bestiary\ooze/slithering-tracker-vgm.md)
 *Source: Volo's Guide to Monsters p. 191, Tomb of Annihilation*  

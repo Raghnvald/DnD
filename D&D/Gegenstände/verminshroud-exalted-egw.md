@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/egw
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/legendary
-aliases: 
-- "Verminshroud (Exalted)"
+  - Quelle/5e/egw
+  - Gegenstand/attunement/required
+  - Gegenstand/rarity/legendary
+aliases:
+  - Verminshroud (Exalted)
 ---
 # Verminshroud (Exalted)
 *Wondrous item, legendary (requires attunement)*  

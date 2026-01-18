@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/subrace/tiefling-mephistopheles
+- Zauber/list/subrace/tiefling-mephistopheles
 aliases:
 - Spells for Tiefling (Mephistopheles)
 ---

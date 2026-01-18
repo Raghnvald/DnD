@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/veor
-- ttrpg-cli/monster/cr/10
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/celestial
+  - Quelle/5e/veor
+  - Monster/HG/10
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/celestial
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Inda
+  - Inda
 ---
 # [Inda](3-Mechanics\CLI\bestiary\npc/inda-veor.md)
 *Source: Vecna: Eve of Ruin*  

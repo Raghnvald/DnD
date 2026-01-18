@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/wdmm
-- ttrpg-cli/monster/cr/
-- ttrpg-cli/monster/size/tiny
-- ttrpg-cli/monster/type/construct
+  - Quelle/5e/wdmm
+  - Monster/HG/
+  - Monster/Größe/Winzig
+  - Monster/Typ/construct
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Animated Wand
+  - Animated Wand
 ---
 # [Animated Wand](3-Mechanics\CLI\bestiary\construct/animated-wand-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 299*  

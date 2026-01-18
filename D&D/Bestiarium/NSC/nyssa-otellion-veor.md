@@ -1,17 +1,17 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/veor
-- ttrpg-cli/monster/cr/17
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/fiend/devil
-- ttrpg-cli/monster/type/fiend/wizard
+  - Quelle/5e/veor
+  - Monster/HG/17
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/fiend/devil
+  - Monster/Typ/fiend/wizard
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Nyssa Otellion
+  - Nyssa Otellion
 ---
 # [Nyssa Otellion](3-Mechanics\CLI\bestiary\npc/nyssa-otellion-veor.md)
 *Source: Vecna: Eve of Ruin*  

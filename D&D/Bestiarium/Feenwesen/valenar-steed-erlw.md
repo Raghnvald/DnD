@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/erlw
-- new/monster/cr/1-2
-- new/monster/size/large
-- new/monster/type/fey
+  - Quelle/5e/erlw
+  - Monster/HG/1-2
+  - Monster/Größe/Groß
+  - Monster/Typ/fey
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Valenar Steed
+  - Valenar Steed
 ---
 # [Valenar Steed](3-Mechanics\CLI\bestiary\fey/valenar-steed-erlw.md)
 *Source: Eberron: Rising from the Last War p. 313*  

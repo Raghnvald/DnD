@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/bgg
-- ttrpg-cli/monster/cr/23
-- ttrpg-cli/monster/size/gargantuan
-- ttrpg-cli/monster/type/giant/titan
+  - Quelle/5e/bgg
+  - Monster/HG/23
+  - Monster/Größe/Gigantisch
+  - Monster/Typ/giant/titan
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Scion of Skoraeus
+  - Scion of Skoraeus
 ---
 # [Scion of Skoraeus](3-Mechanics\CLI\bestiary\giant/scion-of-skoraeus-bgg.md)
 *Source: Bigby Presents: Glory of the Giants p. 169*  

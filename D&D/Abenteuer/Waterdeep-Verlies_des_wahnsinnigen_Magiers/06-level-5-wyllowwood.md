@@ -1,11 +1,11 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- ttrpg-cli/compendium/src/5e/wdmm
+  - Quelle/5e/wdmm
 aliases:
-- Level 5: Wyllowwood
+  - Level 5: Wyllowwood
 ---
 # Level 5: Wyllowwood
 *Source: Waterdeep: Dungeon of the Mad Mage, p. 69* 

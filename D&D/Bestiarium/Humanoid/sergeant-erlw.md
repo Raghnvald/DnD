@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/erlw
-- new/monster/cr/1-8
-- new/monster/size/medium
-- new/monster/type/humanoid/any-race
+  - Quelle/5e/erlw
+  - Monster/HG/1-8
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/humanoid/any-race
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Sergeant
+  - Sergeant
 ---
 # [Sergeant](3-Mechanics\CLI\bestiary\humanoid/sergeant-erlw.md)
 *Source: Eberron: Rising from the Last War p. 197*  

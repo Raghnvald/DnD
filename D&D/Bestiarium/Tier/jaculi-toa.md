@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/toa
-- new/monster/cr/1-2
-- new/monster/size/large
-- new/monster/type/beast
+  - Quelle/5e/toa
+  - Monster/HG/1-2
+  - Monster/Größe/Groß
+  - Monster/Typ/beast
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Jaculi
+  - Jaculi
 ---
 # [Jaculi](3-Mechanics\CLI\bestiary\beast/jaculi-toa.md)
 *Source: Tomb of Annihilation p. 225*  

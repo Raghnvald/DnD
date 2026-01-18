@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/bgg
-- ttrpg-cli/monster/cr/6
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/elemental
+  - Quelle/5e/bgg
+  - Monster/HG/6
+  - Monster/Größe/Groß
+  - Monster/Typ/elemental
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Mist Hulk
+  - Mist Hulk
 ---
 # [Mist Hulk](3-Mechanics\CLI\bestiary\elemental/mist-hulk-bgg.md)
 *Source: Bigby Presents: Glory of the Giants p. 160*  

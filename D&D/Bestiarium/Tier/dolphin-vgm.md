@@ -1,18 +1,18 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/vgm
-- ttrpg-cli/monster/cr/1-8
-- ttrpg-cli/monster/environment/coastal
-- ttrpg-cli/monster/environment/underwater
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/beast
+  - Quelle/5e/vgm
+  - Monster/HG/1-8
+  - Monster/Habitat/coastal
+  - Monster/Habitat/underwater
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/beast
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Dolphin
+  - Dolphin
 ---
 # [Dolphin](3-Mechanics\CLI\bestiary\beast/dolphin-vgm.md)
 *Source: Volo's Guide to Monsters p. 208, Ghosts of Saltmarsh*  

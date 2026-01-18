@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-deity
+  - json5e-deity
 tags:
-- ttrpg-cli/compendium/src/5e/tdcsr
-- ttrpg-cli/deity/exandria
-- ttrpg-cli/domain/arcana
-- ttrpg-cli/domain/knowledge
-- ttrpg-cli/domain/twilight
-aliases: 
-- The Knowing Mentor
-- Ioun
+  - Quelle/5e/tdcsr
+  - Kompendium/Götter/exandria
+  - Kompendium/Götter/Domäne/arcana
+  - Kompendium/Götter/Domäne/knowledge
+  - Kompendium/Götter/Domäne/twilight
+aliases:
+  - The Knowing Mentor
+  - Ioun
 ---
 # The Knowing Mentor
 *Source: Tal'Dorei Campaign Setting Reborn p. 30* 

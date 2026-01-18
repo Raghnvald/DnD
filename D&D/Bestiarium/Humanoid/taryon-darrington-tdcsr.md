@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/tdcsr
-- ttrpg-cli/monster/cr/9
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/humanoid/human
+  - Quelle/5e/tdcsr
+  - Monster/HG/9
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/humanoid/human
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Taryon Darrington
+  - Taryon Darrington
 ---
 # [Taryon Darrington](3-Mechanics\CLI\bestiary\humanoid/taryon-darrington-tdcsr.md)
 *Source: Tal'Dorei Campaign Setting Reborn p. 273*  

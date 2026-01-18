@@ -4,9 +4,9 @@ cssclasses:
 tags:
   - Quelle/5e/mtf
   - Kompendium/Götter/dwarven
-  - Kompendium/Götter/domain/life
-  - Kompendium/Götter/domain/light
-  - Kompendium/Götter/domain/peace
+  - Kompendium/Götter/Domäne/life
+  - Kompendium/Götter/Domäne/light
+  - Kompendium/Götter/Domäne/peace
 aliases:
   - Berronar Truesilver
 ---

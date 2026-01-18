@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/mcv2dc
-- new/monster/cr/6
-- new/monster/size/medium
-- new/monster/type/undead
+  - Quelle/5e/mcv2dc
+  - Monster/HG/6
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/undead
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Foresworn
+  - Foresworn
 ---
 # [Foresworn](3-Mechanics\CLI\bestiary\undead/foresworn-mcv2dc.md)
 *Source: Monstrous Compendium Volume 2: Dragonlance Creatures p. 7*  

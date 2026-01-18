@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/wdh
-- ttrpg-cli/monster/cr/0
-- ttrpg-cli/monster/size/small
-- ttrpg-cli/monster/type/humanoid/strongheart-halfling
+  - Quelle/5e/wdh
+  - Monster/HG/0
+  - Monster/Größe/Klein
+  - Monster/Typ/humanoid/strongheart-halfling
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Bepis Honeymaker
+  - Bepis Honeymaker
 ---
 # [Bepis Honeymaker](3-Mechanics\CLI\bestiary\npc/bepis-honeymaker-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 112*  

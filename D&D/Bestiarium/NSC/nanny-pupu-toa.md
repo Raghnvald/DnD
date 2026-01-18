@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/toa
-- new/monster/cr/3
-- new/monster/size/medium
-- new/monster/type/fey
+  - Quelle/5e/toa
+  - Monster/HG/3
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/fey
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Nanny Pu'pu
+  - Nanny Pu'pu
 ---
 # [Nanny Pu'pu](3-Mechanics\CLI\bestiary\npc/nanny-pupu-toa.md)
 *Source: Tomb of Annihilation p. 72*  

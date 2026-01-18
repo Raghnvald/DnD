@@ -1,17 +1,17 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/vgm
-- ttrpg-cli/monster/cr/1
-- ttrpg-cli/monster/environment/underdark
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/fiend/demon
+  - Quelle/5e/vgm
+  - Monster/HG/1
+  - Monster/Habitat/underdark
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/fiend/demon
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Maw Demon
+  - Maw Demon
 ---
 # [Maw Demon](3-Mechanics\CLI\bestiary\fiend/maw-demon-vgm.md)
 *Source: Volo's Guide to Monsters p. 137, Ghosts of Saltmarsh*  

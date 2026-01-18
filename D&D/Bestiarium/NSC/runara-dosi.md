@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/dosi
-- new/monster/cr/13
-- new/monster/size/huge
-- new/monster/type/dragon
+  - Quelle/5e/dosi
+  - Monster/HG/13
+  - Monster/Größe/Riesig
+  - Monster/Typ/dragon
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Runara
+  - Runara
 ---
 # [Runara](3-Mechanics\CLI\bestiary\npc/runara-dosi.md)
 *Source: Dragons of Stormwreck Isle p. 40*  

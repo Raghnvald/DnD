@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-race
+  - json5e-race
 tags:
-- new/compendium/src/5e/erlw
-- new/race/halfling/mark-of-hospitality
+  - Quelle/5e/erlw
+  - Rasse/halfling/mark-of-hospitality
 aliases:
-- Halfling (Mark of Hospitality)
+  - Halfling (Mark of Hospitality)
 ---
 # Halfling (Mark of Hospitality)
 *Source: Eberron: Rising from the Last War p. 44*  

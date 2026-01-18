@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/jttrc
-- ttrpg-cli/monster/cr/2
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/humanoid/human
+  - Quelle/5e/jttrc
+  - Monster/HG/2
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/humanoid/human
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Ameyali
+  - Ameyali
 ---
 # [Ameyali](3-Mechanics\CLI\bestiary\npc/ameyali-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 108*  

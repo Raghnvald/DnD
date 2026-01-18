@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/erlw
-- new/monster/cr/1-8
-- new/monster/size/tiny
-- new/monster/type/fey
+  - Quelle/5e/erlw
+  - Monster/HG/1-8
+  - Monster/Größe/Winzig
+  - Monster/Typ/fey
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Valenar Hawk
+  - Valenar Hawk
 ---
 # [Valenar Hawk](3-Mechanics\CLI\bestiary\fey/valenar-hawk-erlw.md)
 *Source: Eberron: Rising from the Last War p. 312*  

@@ -1,17 +1,17 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/mtf
-- new/monster/cr/5
-- new/monster/environment/urban
-- new/monster/size/medium
-- new/monster/type/fiend
+  - Quelle/5e/mtf
+  - Monster/HG/5
+  - Monster/Habitat/urban
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/fiend
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Infernal Cambion
+  - Infernal Cambion
 ---
 # [Infernal Cambion](3-Mechanics\CLI\bestiary\fiend/infernal-cambion-mtf.md)
 *Source: Mordenkainen's Tome of Foes p. 36, Storm King's Thunder, Candlekeep Mysteries*  

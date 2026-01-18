@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/egw
-- ttrpg-cli/item/rarity/rare
-- ttrpg-cli/item/wondrous/potion
-aliases: 
-- "Potion of Maximum Power"
+  - Quelle/5e/egw
+  - Gegenstand/rarity/rare
+  - Gegenstand/wondrous/potion
+aliases:
+  - Potion of Maximum Power
 ---
 # Potion of Maximum Power
 *Potion, rare*  

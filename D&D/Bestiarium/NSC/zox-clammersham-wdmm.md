@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/wdmm
-- ttrpg-cli/monster/cr/12
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/humanoid/any-race
+  - Quelle/5e/wdmm
+  - Monster/HG/12
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/humanoid/any-race
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Zox Clammersham
+  - Zox Clammersham
 ---
 # [Zox Clammersham](3-Mechanics\CLI\bestiary\npc/zox-clammersham-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 176*  

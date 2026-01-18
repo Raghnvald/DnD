@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- new/compendium/src/5e/tftyp
-- new/item/attunement/required
-- new/item/rarity/uncommon
-aliases: 
-- "Stone of Ill Luck"
+  - Quelle/5e/tftyp
+  - Gegenstand/attunement/required
+  - Gegenstand/rarity/uncommon
+aliases:
+  - Stone of Ill Luck
 ---
 # Stone of Ill Luck
 *Wondrous item, cursed item, uncommon (requires attunement)*  

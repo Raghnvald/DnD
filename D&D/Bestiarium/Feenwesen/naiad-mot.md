@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/mot
-- new/monster/cr/2
-- new/monster/size/medium
-- new/monster/type/fey
+  - Quelle/5e/mot
+  - Monster/HG/2
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/fey
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Naiad
+  - Naiad
 ---
 # [Naiad](3-Mechanics\CLI\bestiary\fey/naiad-mot.md)
 *Source: Mythic Odysseys of Theros p. 236, Candlekeep Mysteries*  

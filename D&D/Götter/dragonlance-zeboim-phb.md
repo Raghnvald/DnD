@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-deity
+  - json5e-deity
 tags:
-- Quelle/5e/phb
-- Kompendium/Götter/dragonlance
-- Kompendium/Götter/domain/tempest
-aliases: 
-- Zeboim
+  - Quelle/5e/phb
+  - Kompendium/Götter/dragonlance
+  - Kompendium/Götter/Domäne/tempest
+aliases:
+  - Zeboim
 ---
 # Zeboim
 *Source: Player's Handbook p. 295* 

@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- new/compendium/src/5e/bmt
-- new/item/rarity/uncommon
-aliases: 
-- "House of Cards"
+  - Quelle/5e/bmt
+  - Gegenstand/rarity/uncommon
+aliases:
+  - House of Cards
 ---
 # House of Cards
 *Wondrous item, uncommon*  

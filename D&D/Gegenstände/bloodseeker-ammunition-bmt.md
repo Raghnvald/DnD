@@ -1,22 +1,22 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- new/compendium/src/5e/bmt
-- new/item/age/futuristic
-- new/item/gear/ammunition
-- new/item/gear/ammunition-firearm
-- new/item/rarity/very-rare
-- new/item/wondrous/generic-variant
-aliases: 
-- "Bloodseeker Ammunition"
-- "Bloodseeker Arrow"
-- "Bloodseeker Bolt"
-- "Bloodseeker Energy Cell"
-- "Bloodseeker Firearm Bullet"
-- "Bloodseeker Needle"
-- "Bloodseeker Sling Bullet"
+  - Quelle/5e/bmt
+  - Gegenstand/age/futuristic
+  - Gegenstand/gear/ammunition
+  - Gegenstand/gear/ammunition-firearm
+  - Gegenstand/rarity/very-rare
+  - Gegenstand/wondrous/generic-variant
+aliases:
+  - Bloodseeker Ammunition
+  - Bloodseeker Arrow
+  - Bloodseeker Bolt
+  - Bloodseeker Energy Cell
+  - Bloodseeker Firearm Bullet
+  - Bloodseeker Needle
+  - Bloodseeker Sling Bullet
 ---
 # Bloodseeker Ammunition
 *Ammunition, very rare*  

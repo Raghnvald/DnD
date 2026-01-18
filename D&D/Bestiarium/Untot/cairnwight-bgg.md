@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/bgg
-- ttrpg-cli/monster/cr/9
-- ttrpg-cli/monster/size/huge
-- ttrpg-cli/monster/type/undead
+  - Quelle/5e/bgg
+  - Monster/HG/9
+  - Monster/Größe/Riesig
+  - Monster/Typ/undead
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Cairnwight
+  - Cairnwight
 ---
 # [Cairnwight](3-Mechanics\CLI\bestiary\undead/cairnwight-bgg.md)
 *Source: Bigby Presents: Glory of the Giants p. 122*  

@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- new/compendium/src/5e/erlw
-- new/item/rarity/none
-- new/item/wondrous/other
-aliases: 
-- "Dreamlily"
+  - Quelle/5e/erlw
+  - Gegenstand/rarity/none
+  - Gegenstand/wondrous/other
+aliases:
+  - Dreamlily
 ---
 # Dreamlily
 

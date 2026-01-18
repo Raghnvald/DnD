@@ -1,11 +1,11 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- new/compendium/src/5e/erlw
+  - Quelle/5e/erlw
 aliases:
-- Lord of Blades Adventure Hooks
+  - Lord of Blades Adventure Hooks
 ---
 # Lord of Blades Adventure Hooks
 *Source: Eberron: Rising from the Last War p. 214* 

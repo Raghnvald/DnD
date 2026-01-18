@@ -1,11 +1,11 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
+  - Quelle/5e/xphb
 aliases:
-- Skills
+  - Skills
 ---
 # Skills
 

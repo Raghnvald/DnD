@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/wdh
-- ttrpg-cli/item/rarity/uncommon
-aliases: 
-- "Smokepowder"
+  - Quelle/5e/wdh
+  - Gegenstand/rarity/uncommon
+aliases:
+  - Smokepowder
 ---
 # Smokepowder
 *Wondrous item, uncommon*  

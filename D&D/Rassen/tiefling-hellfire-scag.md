@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-race
+  - json5e-race
 tags:
-- ttrpg-cli/compendium/src/5e/scag
-- ttrpg-cli/race/tiefling/hellfire
+  - Quelle/5e/scag
+  - Rasse/tiefling/hellfire
 aliases:
-- Tiefling (Hellfire)
+  - Tiefling (Hellfire)
 ---
 # Tiefling (Hellfire)
 *Source: Sword Coast Adventurer's Guide p. 118*  

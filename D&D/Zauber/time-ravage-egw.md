@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-spell
+  - json5e-spell
 tags:
-- ttrpg-cli/compendium/src/5e/egw
-- ttrpg-cli/spell/level/9th-level
-- ttrpg-cli/spell/school/necromancy
+  - Quelle/5e/egw
+  - Zauber/Grad/9
+  - Zauber/Schule/necromancy
 aliases:
-- Time Ravage
+  - Time Ravage
 ---
 # Time Ravage
 *9th-level, Necromancy*  

@@ -1,11 +1,11 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- new/compendium/src/5e/toa
+  - Quelle/5e/toa
 aliases:
-- Appendix F: Trickster Gods of Omu
+  - Appendix F: Trickster Gods of Omu
 ---
 # Appendix F: Trickster Gods of Omu
 *Source: Tomb of Annihilation, p. 256* 

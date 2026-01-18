@@ -1,14 +1,14 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- new/compendium/src/5e/cm
-- new/item/attunement/required
-- new/item/rarity/unknown/magic
-- new/item/wondrous/ring
-aliases: 
-- "Stonky's ring"
+  - Quelle/5e/cm
+  - Gegenstand/attunement/required
+  - Gegenstand/rarity/unknown/magic
+  - Gegenstand/wondrous/ring
+aliases:
+  - Stonky's ring
 ---
 # Stonky's ring
 *Ring (requires attunement)*  

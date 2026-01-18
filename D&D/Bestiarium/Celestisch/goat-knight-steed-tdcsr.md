@@ -1,19 +1,19 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/tdcsr
-- ttrpg-cli/monster/cr/1-2
-- ttrpg-cli/monster/environment/grassland
-- ttrpg-cli/monster/environment/hill
-- ttrpg-cli/monster/environment/mountain
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/celestial
+  - Quelle/5e/tdcsr
+  - Monster/HG/1-2
+  - Monster/Habitat/grassland
+  - Monster/Habitat/hill
+  - Monster/Habitat/mountain
+  - Monster/Größe/Groß
+  - Monster/Typ/celestial
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Goat-Knight Steed
+  - Goat-Knight Steed
 ---
 # [Goat-Knight Steed](3-Mechanics\CLI\bestiary\celestial/goat-knight-steed-tdcsr.md)
 *Source: Tal'Dorei Campaign Setting Reborn p. 246*  

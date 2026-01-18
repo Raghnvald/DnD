@@ -1,11 +1,11 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- new/compendium/src/5e/slw
+  - Quelle/5e/slw
 aliases:
-- Missing Patrol
+  - Missing Patrol
 ---
 # Missing Patrol
 *Source: Essentials Kit: Storm Lord's Wrath* 

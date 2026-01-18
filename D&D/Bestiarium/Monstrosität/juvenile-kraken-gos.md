@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/gos
-- ttrpg-cli/monster/cr/14
-- ttrpg-cli/monster/size/huge
-- ttrpg-cli/monster/type/monstrosity/titan
+  - Quelle/5e/gos
+  - Monster/HG/14
+  - Monster/Größe/Riesig
+  - Monster/Typ/monstrosity/titan
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Juvenile Kraken
+  - Juvenile Kraken
 ---
 # [Juvenile Kraken](3-Mechanics\CLI\bestiary\monstrosity/juvenile-kraken-gos.md)
 *Source: Ghosts of Saltmarsh p. 238*  

@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- new/compendium/src/5e/cm
-- new/monster/legendary-group
+  - Quelle/5e/cm
+  - Monster/legendary-group
 aliases:
-- Lichen Lich
+  - Lichen Lich
 ---
 # Lichen Lich
 

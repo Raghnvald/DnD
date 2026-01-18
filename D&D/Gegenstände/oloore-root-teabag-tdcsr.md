@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/tdcsr
-- ttrpg-cli/item/gear/illegal-drug
-- ttrpg-cli/item/rarity/unknown
-aliases: 
-- "Oloore Root Teabag"
+  - Quelle/5e/tdcsr
+  - Gegenstand/gear/illegal-drug
+  - Gegenstand/rarity/unknown
+aliases:
+  - Oloore Root Teabag
 ---
 # Oloore Root Teabag
 *Illegal drug*  

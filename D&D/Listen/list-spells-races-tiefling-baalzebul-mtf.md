@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/subrace/tiefling-baalzebul
+- Zauber/list/subrace/tiefling-baalzebul
 aliases:
 - Spells for Tiefling (Baalzebul)
 ---

@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/skt
-- new/monster/cr/
-- new/monster/size/huge
-- new/monster/type/plant
+  - Quelle/5e/skt
+  - Monster/HG/
+  - Monster/Größe/Riesig
+  - Monster/Typ/plant
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Lifferlas
+  - Lifferlas
 ---
 # [Lifferlas](3-Mechanics\CLI\bestiary\npc/lifferlas-skt.md)
 *Source: Storm King's Thunder p. 250*  

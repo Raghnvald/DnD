@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- new/compendium/src/5e/skt
-- new/item/attunement/required
-- new/item/rarity/rare
-aliases: 
-- "Gavel of the Venn Rune"
+  - Quelle/5e/skt
+  - Gegenstand/attunement/required
+  - Gegenstand/rarity/rare
+aliases:
+  - Gavel of the Venn Rune
 ---
 # Gavel of the Venn Rune
 *Wondrous item, rare (requires attunement)*  

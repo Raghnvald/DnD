@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/wdmm
-- ttrpg-cli/monster/cr/9
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/humanoid/elf
+  - Quelle/5e/wdmm
+  - Monster/HG/9
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/humanoid/elf
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Zress Orlezziir
+  - Zress Orlezziir
 ---
 # [Zress Orlezziir](3-Mechanics\CLI\bestiary\npc/zress-orlezziir-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 136*  

@@ -1,21 +1,21 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/vgm
-- new/monster/cr/4
-- new/monster/environment/forest
-- new/monster/environment/grassland
-- new/monster/environment/hill
-- new/monster/environment/mountain
-- new/monster/environment/underdark
-- new/monster/size/large
-- new/monster/type/fiend/shapechanger
+  - Quelle/5e/vgm
+  - Monster/HG/4
+  - Monster/Habitat/forest
+  - Monster/Habitat/grassland
+  - Monster/Habitat/hill
+  - Monster/Habitat/mountain
+  - Monster/Habitat/underdark
+  - Monster/Größe/Groß
+  - Monster/Typ/fiend/shapechanger
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Barghest
+  - Barghest
 ---
 # [Barghest](3-Mechanics\CLI\bestiary\fiend/barghest-vgm.md)
 *Source: Volo's Guide to Monsters p. 123, Tales from the Yawning Portal*  

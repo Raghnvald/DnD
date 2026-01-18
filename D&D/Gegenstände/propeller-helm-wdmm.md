@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/wdmm
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/uncommon
-aliases: 
-- "Propeller Helm"
+  - Quelle/5e/wdmm
+  - Gegenstand/attunement/required
+  - Gegenstand/rarity/uncommon
+aliases:
+  - Propeller Helm
 ---
 # Propeller Helm
 *Wondrous item, uncommon (requires attunement by a small humanoid)*  

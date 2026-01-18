@@ -1,14 +1,14 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- new/compendium/src/5e/bmt
-- new/item/attunement/required
-- new/item/rarity/legendary
-- new/item/shield/
-aliases: 
-- "Euryale's Aegis"
+  - Quelle/5e/bmt
+  - Gegenstand/attunement/required
+  - Gegenstand/rarity/legendary
+  - Gegenstand/shield/
+aliases:
+  - Euryale's Aegis
 ---
 # Euryale's Aegis
 *Armor (shield), legendary (requires attunement)*  

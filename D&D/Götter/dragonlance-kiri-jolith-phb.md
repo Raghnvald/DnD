@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-deity
+  - json5e-deity
 tags:
-- Quelle/5e/phb
-- Kompendium/Götter/dragonlance
-- Kompendium/Götter/domain/war
-aliases: 
-- Kiri-Jolith
+  - Quelle/5e/phb
+  - Kompendium/Götter/dragonlance
+  - Kompendium/Götter/Domäne/war
+aliases:
+  - Kiri-Jolith
 ---
 # Kiri-Jolith
 *Source: Player's Handbook p. 295* 

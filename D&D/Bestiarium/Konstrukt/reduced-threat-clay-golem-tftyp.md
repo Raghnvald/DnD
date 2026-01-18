@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/tftyp
-- new/monster/cr/9
-- new/monster/size/large
-- new/monster/type/construct
+  - Quelle/5e/tftyp
+  - Monster/HG/9
+  - Monster/Größe/Groß
+  - Monster/Typ/construct
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Reduced-Threat Clay Golem
+  - Reduced-Threat Clay Golem
 ---
 # [Reduced-Threat Clay Golem](3-Mechanics\CLI\bestiary\construct/reduced-threat-clay-golem-tftyp.md)
 *Source: Tales from the Yawning Portal p. 113*  

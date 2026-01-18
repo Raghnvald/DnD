@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/egw
-- ttrpg-cli/monster/cr/6
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/monstrosity
+  - Quelle/5e/egw
+  - Monster/HG/6
+  - Monster/Größe/Groß
+  - Monster/Typ/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Gloomstalker
+  - Gloomstalker
 ---
 # [Gloomstalker](3-Mechanics\CLI\bestiary\monstrosity/gloomstalker-egw.md)
 *Source: Explorer's Guide to Wildemount p. 291*  

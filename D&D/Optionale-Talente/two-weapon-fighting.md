@@ -1,14 +1,14 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-feat
+  - json5e-feat
 tags:
-- ttrpg-cli/compendium/src/5e/phb
-- ttrpg-cli/optional-feature/fs-b
-- ttrpg-cli/optional-feature/fs-f
-- ttrpg-cli/optional-feature/fs-r
+  - Quelle/5e/phb
+  - Kompendium/Optionales/fs-b
+  - Kompendium/Optionales/fs-f
+  - Kompendium/Optionales/fs-r
 aliases:
-- Two-Weapon Fighting
+  - Two-Weapon Fighting
 ---
 # Two-Weapon Fighting
 *Source: Player's Handbook. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  

@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/egw
-- ttrpg-cli/monster/cr/4
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/monstrosity
+  - Quelle/5e/egw
+  - Monster/HG/4
+  - Monster/Größe/Groß
+  - Monster/Typ/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Merrow Shallowpriest
+  - Merrow Shallowpriest
 ---
 # [Merrow Shallowpriest](3-Mechanics\CLI\bestiary\monstrosity/merrow-shallowpriest-egw.md)
 *Source: Explorer's Guide to Wildemount p. 294*  

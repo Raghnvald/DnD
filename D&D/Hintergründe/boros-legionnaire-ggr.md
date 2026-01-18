@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-background
+  - json5e-background
 tags:
-- Kompendium/background
-- Quelle/5e/ggr
+  - Kompendium/Hintergrund
+  - Quelle/5e/ggr
 aliases:
-- Boros Legionnaire
+  - Boros Legionnaire
 ---
 # Boros Legionnaire
 *Source: Guildmasters' Guide to Ravnica p. 40*  

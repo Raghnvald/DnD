@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/cm
-- new/monster/cr/13
-- new/monster/size/large
-- new/monster/type/construct
+  - Quelle/5e/cm
+  - Monster/HG/13
+  - Monster/Größe/Groß
+  - Monster/Typ/construct
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Canopic Golem
+  - Canopic Golem
 ---
 # [Canopic Golem](3-Mechanics\CLI\bestiary\construct/canopic-golem-cm.md)
 *Source: Candlekeep Mysteries p. 179*  

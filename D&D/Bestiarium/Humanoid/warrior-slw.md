@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/slw
-- new/monster/cr/
-- new/monster/size/medium
-- new/monster/type/humanoid
+  - Quelle/5e/slw
+  - Monster/HG/
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/humanoid
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Warrior
+  - Warrior
 ---
 # [Warrior](3-Mechanics\CLI\bestiary\humanoid/warrior-slw.md)
 *Source: Storm Lord's Wrath*  

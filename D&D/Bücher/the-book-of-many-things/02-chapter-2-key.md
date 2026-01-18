@@ -1,11 +1,11 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- new/compendium/src/5e/bmt
+  - Quelle/5e/bmt
 aliases:
-- Chapter 2: Key
+  - Chapter 2: Key
 ---
 # Chapter 2: Key
 *Source: The Book of Many Things, p. 9* 

@@ -4,9 +4,12 @@
       "id": "default",
       "name": "Default",
       "fileVisibility": "supported",
-      "hiddenFolders": [],
-      "hiddenTags": [],
-      "hiddenFiles": [],
+      "hiddenFolders": [
+        "3-Mechanics"
+      ],
+      "hiddenTags": [
+        "zauber/ritual"
+      ],
       "navigationBanner": null,
       "shortcuts": [
         {
@@ -14,14 +17,33 @@
           "path": "D&D/02-Spieler/Charakter/Test/Character Sheet Template.md"
         }
       ],
-      "hiddenFileNamePatterns": []
+      "hiddenFileProperties": [],
+      "hiddenFileNames": [],
+      "hiddenFileTags": []
     }
   ],
   "vaultTitle": "navigation",
+  "syncModes": {
+    "vaultProfile": "local",
+    "tagSortOrder": "local",
+    "searchProvider": "local",
+    "includeDescendantNotes": "local",
+    "dualPane": "local",
+    "dualPaneOrientation": "local",
+    "paneTransitionDuration": "local",
+    "toolbarVisibility": "local",
+    "showCalendar": "local",
+    "navIndent": "local",
+    "navItemHeight": "local",
+    "navItemHeightScaleText": "local",
+    "calendarWeeksToShow": "local",
+    "compactItemHeight": "local",
+    "compactItemHeightScaleText": "local",
+    "uiScale": "local"
+  },
   "autoRevealActiveFile": true,
   "autoRevealIgnoreRightSidebar": true,
   "multiSelectModifier": "cmdCtrl",
-  "paneTransitionDuration": 150,
   "startView": "navigation",
   "interfaceIcons": {},
   "homepage": null,
@@ -41,27 +63,17 @@
   "skipAutoScroll": false,
   "showRecentNotes": false,
   "recentNotesCount": 5,
+  "calendarLocale": "system-default",
+  "calendarHighlightToday": true,
+  "calendarShowWeekNumber": false,
+  "calendarConfirmBeforeCreate": true,
+  "calendarIntegrationMode": "daily-notes",
+  "calendarCustomRootFolder": "",
+  "calendarCustomFilePattern": "YYYY/YYYYMMDD",
+  "calendarCustomPromptForTitle": true,
   "colorIconOnly": false,
-  "toolbarVisibility": {
-    "navigation": {
-      "expandCollapse": true,
-      "hiddenItems": true,
-      "rootReorder": true,
-      "newFolder": true
-    },
-    "list": {
-      "search": true,
-      "descendants": true,
-      "sort": true,
-      "appearance": true,
-      "newNote": true
-    }
-  },
   "showNoteCount": true,
   "separateNoteCounts": true,
-  "navIndent": 16,
-  "navItemHeight": 28,
-  "navItemHeightScaleText": true,
   "rootLevelSpacing": 0,
   "autoSelectFirstFileOnFocusChange": false,
   "autoExpandFoldersTags": true,
@@ -76,9 +88,10 @@
   "folderNoteType": "ask",
   "folderNoteName": "",
   "folderNoteProperties": "",
+  "openFolderNotesInNewTab": false,
   "hideFolderNoteInList": true,
   "pinCreatedFolderNote": false,
-  "showTags": true,
+  "showTags": false,
   "showTagIcons": true,
   "showAllTagsFolder": true,
   "showUntagged": true,
@@ -92,8 +105,6 @@
   "showPinnedGroupHeader": true,
   "showPinnedIcon": true,
   "optimizeNoteHeight": true,
-  "compactItemHeight": 28,
-  "compactItemHeightScaleText": true,
   "showQuickActions": true,
   "quickActionRevealInFolder": true,
   "quickActionAddTag": true,
@@ -126,6 +137,7 @@
     "featureResized",
     "feature"
   ],
+  "featureImageExcludeProperties": [],
   "forceSquareFeatureImage": true,
   "downloadExternalFeatureImages": true,
   "showFileTags": false,
@@ -133,11 +145,16 @@
   "prioritizeColoredFileTags": true,
   "showFileTagAncestors": true,
   "showFileTagsInCompactMode": false,
+  "customPropertyType": "none",
+  "customPropertyFields": "",
+  "customPropertyColorFields": "",
+  "showCustomPropertyInCompactMode": false,
   "showFileDate": false,
   "alphabeticalDateMode": "modified",
   "showParentFolder": true,
   "parentFolderClickRevealsFile": false,
   "showParentFolderColor": true,
+  "showParentFolderIcon": false,
   "externalIconProviders": {},
   "keyboardShortcuts": {
     "pane:move-up": [
@@ -331,7 +348,7 @@
     "#78716c"
   ],
   "lastShownVersion": "",
-  "lastAnnouncedRelease": "2.1.0",
+  "lastAnnouncedRelease": "2.1.2",
   "rootFolderOrder": [],
   "rootTagOrder": [],
   "showTagsAboveFolders": false,

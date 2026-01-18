@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/bmt
-- new/monster/cr/3
-- new/monster/size/small-or-medium
-- new/monster/type/aberration
+  - Quelle/5e/bmt
+  - Monster/HG/3
+  - Monster/Größe/Klein-oder-Mittelgroß
+  - Monster/Typ/aberration
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Living Star (Psychic)
+  - Living Star (Psychic)
 ---
 # [Living Star (Psychic)](3-Mechanics\CLI\bestiary\aberration/living-star-psychic-bmt.md)
 *Source: The Book of Many Things p. 180*  

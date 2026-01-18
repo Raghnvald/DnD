@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/erlw
-- new/monster/cr/8
-- new/monster/size/huge
-- new/monster/type/construct
+  - Quelle/5e/erlw
+  - Monster/HG/8
+  - Monster/Größe/Riesig
+  - Monster/Typ/construct
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Warforged Titan
+  - Warforged Titan
 ---
 # [Warforged Titan](3-Mechanics\CLI\bestiary\construct/warforged-titan-erlw.md)
 *Source: Eberron: Rising from the Last War p. 315*  

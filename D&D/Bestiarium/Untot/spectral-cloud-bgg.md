@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/bgg
-- ttrpg-cli/monster/cr/13
-- ttrpg-cli/monster/size/huge
-- ttrpg-cli/monster/type/undead
+  - Quelle/5e/bgg
+  - Monster/HG/13
+  - Monster/Größe/Riesig
+  - Monster/Typ/undead
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Spectral Cloud
+  - Spectral Cloud
 ---
 # [Spectral Cloud](3-Mechanics\CLI\bestiary\undead/spectral-cloud-bgg.md)
 *Source: Bigby Presents: Glory of the Giants p. 176*  

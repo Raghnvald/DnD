@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/jttrc
-- ttrpg-cli/monster/cr/6
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/humanoid/any-race
+  - Quelle/5e/jttrc
+  - Monster/HG/6
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/humanoid/any-race
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Ashen Heir Mage
+  - Ashen Heir Mage
 ---
 # [Ashen Heir Mage](3-Mechanics\CLI\bestiary\humanoid/ashen-heir-mage-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 158*  

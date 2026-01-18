@@ -1,17 +1,17 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/toa
-- new/monster/cr/7
-- new/monster/size/medium
-- new/monster/type/monstrosity/shapechanger
-- new/monster/type/monstrosity/yuan-ti
+  - Quelle/5e/toa
+  - Monster/HG/7
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/monstrosity/shapechanger
+  - Monster/Typ/monstrosity/yuan-ti
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Ras Nsi
+  - Ras Nsi
 ---
 # [Ras Nsi](3-Mechanics\CLI\bestiary\npc/ras-nsi-toa.md)
 *Source: Tomb of Annihilation p. 230*  

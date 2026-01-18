@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/toa
-- new/monster/cr/4
-- new/monster/size/tiny
-- new/monster/type/undead
+  - Quelle/5e/toa
+  - Monster/HG/4
+  - Monster/Größe/Winzig
+  - Monster/Typ/undead
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Nepartak
+  - Nepartak
 ---
 # [Nepartak](3-Mechanics\CLI\bestiary\npc/nepartak-toa.md)
 *Source: Tomb of Annihilation p. 137*  

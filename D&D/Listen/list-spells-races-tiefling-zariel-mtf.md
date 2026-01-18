@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/subrace/tiefling-zariel
+- Zauber/list/subrace/tiefling-zariel
 aliases:
 - Spells for Tiefling (Zariel)
 ---

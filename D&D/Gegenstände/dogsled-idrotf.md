@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- new/compendium/src/5e/idrotf
-- new/item/rarity/none
-- new/item/vehicle/land
-aliases: 
-- "Dogsled"
+  - Quelle/5e/idrotf
+  - Gegenstand/rarity/none
+  - Gegenstand/vehicle/land
+aliases:
+  - Dogsled
 ---
 # Dogsled
 *Vehicle (land)*  

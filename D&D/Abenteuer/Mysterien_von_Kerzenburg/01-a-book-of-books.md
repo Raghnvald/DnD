@@ -1,11 +1,11 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- new/compendium/src/5e/cm
+  - Quelle/5e/cm
 aliases:
-- A Book of Books
+  - A Book of Books
 ---
 # A Book of Books
 *Source: Candlekeep Mysteries, p. 4* 

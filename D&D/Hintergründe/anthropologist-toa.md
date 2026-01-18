@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-background
+  - json5e-background
 tags:
-- new/background
-- new/compendium/src/5e/toa
+  - Kompendium/Hintergrund
+  - Quelle/5e/toa
 aliases:
-- Anthropologist
+  - Anthropologist
 ---
 # Anthropologist
 *Source: Tomb of Annihilation p. 191*  

@@ -1,14 +1,14 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-deity
+  - json5e-deity
 tags:
-- Quelle/5e/phb
-- Kompendium/Götter/eberron
-- Kompendium/Götter/domain/forge
-- Kompendium/Götter/domain/knowledge
-aliases: 
-- Onatar
+  - Quelle/5e/phb
+  - Kompendium/Götter/eberron
+  - Kompendium/Götter/Domäne/forge
+  - Kompendium/Götter/Domäne/knowledge
+aliases:
+  - Onatar
 ---
 # Onatar
 *Source: Player's Handbook p. 296, Xanathar's Guide to Everything p. 18* 

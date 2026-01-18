@@ -14,7 +14,7 @@ tags:
   - Klasse/Artifizient
   - Klasse/Schurke/Arkaner-Betrüger
   - Klasse/Zauberer
-  - Kompendium/background/simic-scientist
+  - Kompendium/Hintergrund/simic-scientist
   - Kompendium/Talent/artificer-initiate
   - Kompendium/Talent/magic-initiate/wizard-spells
   - Quelle/5e/xphb

@@ -1,11 +1,11 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- ttrpg-cli/compendium/src/5e/efr
+  - Quelle/5e/efr
 aliases:
-- Building Eberron Adventures - Forgotten Relics
+  - Building Eberron Adventures - Forgotten Relics
 ---
 # Building Eberron Adventures - Forgotten Relics
 *Source: Eberron: Forgotten Relics, p. 260* 

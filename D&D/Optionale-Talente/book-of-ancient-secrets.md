@@ -3,7 +3,7 @@ cssclasses:
   - json5e-feat
 tags:
   - Quelle/5e/phb
-  - Kompendium/optional-feature/ei
+  - Kompendium/Optionales/ei
 aliases:
   - Book of Ancient Secrets
 ---

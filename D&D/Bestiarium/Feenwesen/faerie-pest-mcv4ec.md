@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/mcv4ec
-- ttrpg-cli/monster/cr/1
-- ttrpg-cli/monster/size/small
-- ttrpg-cli/monster/type/fey
+  - Quelle/5e/mcv4ec
+  - Monster/HG/1
+  - Monster/Größe/Klein
+  - Monster/Typ/fey
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Faerie Pest
+  - Faerie Pest
 ---
 # [Faerie Pest](3-Mechanics\CLI\bestiary\fey/faerie-pest-mcv4ec.md)
 *Source: Monstrous Compendium Volume 4: Eldraine Creatures*  

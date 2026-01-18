@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- new/compendium/src/5e/erlw
-- new/item/rarity/common
-aliases: 
-- "Cleansing Stone"
+  - Quelle/5e/erlw
+  - Gegenstand/rarity/common
+aliases:
+  - Cleansing Stone
 ---
 # Cleansing Stone
 *Wondrous item, common*  

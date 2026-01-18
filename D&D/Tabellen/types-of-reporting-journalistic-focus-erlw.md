@@ -1,11 +1,11 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- new/compendium/src/5e/erlw
+  - Quelle/5e/erlw
 aliases:
-- Types of Reporting; Journalistic Focus
+  - Types of Reporting; Journalistic Focus
 ---
 # Types of Reporting; Journalistic Focus
 *Source: Eberron: Rising from the Last War p. 94* 

@@ -1,15 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/egw
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/artifact
-- ttrpg-cli/item/weapon/melee
-- ttrpg-cli/item/weapon/simple
-aliases: 
-- "Blade of Broken Mirrors (Exalted)"
+  - Quelle/5e/egw
+  - Gegenstand/attunement/required
+  - Gegenstand/rarity/artifact
+  - Gegenstand/weapon/melee
+  - Gegenstand/weapon/simple
+aliases:
+  - Blade of Broken Mirrors (Exalted)
 ---
 # Blade of Broken Mirrors (Exalted)
 *Weapon ([dagger](/3-Mechanics/CLI/items/dagger-xphb.md)), artifact (requires attunement by a humanoid)*  

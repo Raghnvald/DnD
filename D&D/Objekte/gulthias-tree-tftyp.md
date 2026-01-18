@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-object
+  - json5e-object
 tags:
-- new/compendium/src/5e/tftyp
-- new/object/size/gargantuan
-- new/object/type/unknown
+  - Quelle/5e/tftyp
+  - Kompendium/Objekt/size/gargantuan
+  - Kompendium/Objekt/type/unknown
 aliases:
-- Gulthias Tree
+  - Gulthias Tree
 ---
 # Gulthias Tree
 %%-- Embedded content starts on the next line. --%%

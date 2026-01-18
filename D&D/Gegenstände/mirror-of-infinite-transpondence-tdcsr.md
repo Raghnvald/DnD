@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/tdcsr
-- ttrpg-cli/item/rarity/very-rare
-aliases: 
-- "Mirror of Infinite Transpondence"
+  - Quelle/5e/tdcsr
+  - Gegenstand/rarity/very-rare
+aliases:
+  - Mirror of Infinite Transpondence
 ---
 # Mirror of Infinite Transpondence
 *Wondrous item, very rare*  

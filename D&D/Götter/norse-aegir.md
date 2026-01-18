@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-deity
+  - json5e-deity
 tags:
-- Quelle/5e/phb
-- Kompendium/Götter/norse
-- Kompendium/Götter/domain/tempest
-aliases: 
-- Aegir
+  - Quelle/5e/phb
+  - Kompendium/Götter/norse
+  - Kompendium/Götter/Domäne/tempest
+aliases:
+  - Aegir
 ---
 # Aegir
 *Source: Player's Handbook p. 299* 

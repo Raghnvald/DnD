@@ -1,43 +1,43 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-spell
+  - json5e-spell
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/background/dimir-operative
-- ttrpg-cli/spell/background/simic-scientist
-- ttrpg-cli/spell/class/artificer
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/cleric
-- ttrpg-cli/spell/class/druid
-- ttrpg-cli/spell/class/ranger
-- ttrpg-cli/spell/level/4th-level
-- ttrpg-cli/spell/optfeature/tricksters-escape
-- ttrpg-cli/spell/school/abjuration
-- ttrpg-cli/spell/subclass/circle-of-the-land/temperate-land
-- ttrpg-cli/spell/subclass/clockwork-sorcery
-- ttrpg-cli/spell/subclass/divine-soul/good
-- ttrpg-cli/spell/subclass/oath-of-devotion
-- ttrpg-cli/spell/subclass/oath-of-glory
-- ttrpg-cli/spell/subclass/oath-of-the-open-sea
-- ttrpg-cli/spell/subclass/runechild
-- ttrpg-cli/spell/subclass/war-domain
+  - Quelle/5e/xphb
+  - Kompendium/Hintergrund/dimir-operative
+  - Kompendium/Hintergrund/simic-scientist
+  - Klasse/artificer
+  - Klasse/bard
+  - Klasse/cleric
+  - Klasse/druid
+  - Klasse/ranger
+  - Zauber/Grad/4
+  - Zauber/optfeature/tricksters-escape
+  - Zauber/Schule/abjuration
+  - Subklasse/circle-of-the-land/temperate-land
+  - Subklasse/clockwork-sorcery
+  - Subklasse/divine-soul/good
+  - Subklasse/oath-of-devotion
+  - Subklasse/oath-of-glory
+  - Subklasse/oath-of-the-open-sea
+  - Subklasse/runechild
+  - Subklasse/war-domain
 classes:
-- Artificer
-- Bard
-- Cleric
-- Cleric (War Domain)
-- Druid
-- Druid (Circle of the Land, Temperate Land)
-- Paladin (Oath of Devotion)
-- Paladin (Oath of Glory)
-- Paladin (Oath of the Open Sea)
-- Ranger
-- Sorcerer (Clockwork Sorcery)
-- Sorcerer (Divine Soul, Good)
-- Sorcerer (Runechild)
+  - Artificer
+  - Bard
+  - Cleric
+  - Cleric (War Domain)
+  - Druid
+  - Druid (Circle of the Land, Temperate Land)
+  - Paladin (Oath of Devotion)
+  - Paladin (Oath of Glory)
+  - Paladin (Oath of the Open Sea)
+  - Ranger
+  - Sorcerer (Clockwork Sorcery)
+  - Sorcerer (Divine Soul, Good)
+  - Sorcerer (Runechild)
 aliases:
-- Freedom of Movement
+  - Freedom of Movement
 ---
 # Freedom of Movement
 *4th-level, Abjuration*  

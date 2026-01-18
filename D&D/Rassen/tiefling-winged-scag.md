@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-race
+  - json5e-race
 tags:
-- ttrpg-cli/compendium/src/5e/scag
-- ttrpg-cli/race/tiefling/winged
+  - Quelle/5e/scag
+  - Rasse/tiefling/winged
 aliases:
-- Tiefling (Winged)
+  - Tiefling (Winged)
 ---
 # Tiefling (Winged)
 *Source: Sword Coast Adventurer's Guide p. 118*  

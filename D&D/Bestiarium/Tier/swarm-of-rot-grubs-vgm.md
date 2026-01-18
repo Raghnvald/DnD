@@ -1,18 +1,18 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/vgm
-- ttrpg-cli/monster/cr/1-2
-- ttrpg-cli/monster/environment/swamp
-- ttrpg-cli/monster/environment/underdark
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/beast
+  - Quelle/5e/vgm
+  - Monster/HG/1-2
+  - Monster/Habitat/swamp
+  - Monster/Habitat/underdark
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/beast
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Swarm of Rot Grubs
+  - Swarm of Rot Grubs
 ---
 # [Swarm of Rot Grubs](3-Mechanics\CLI\bestiary\beast/swarm-of-rot-grubs-vgm.md)
 *Source: Volo's Guide to Monsters p. 208, Ghosts of Saltmarsh*  

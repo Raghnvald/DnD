@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/mcv4ec
-- ttrpg-cli/monster/cr/2
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/fiend
+  - Quelle/5e/mcv4ec
+  - Monster/HG/2
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/fiend
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Sewer King
+  - Sewer King
 ---
 # [Sewer King](3-Mechanics\CLI\bestiary\fiend/sewer-king-mcv4ec.md)
 *Source: Monstrous Compendium Volume 4: Eldraine Creatures*  

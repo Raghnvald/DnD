@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-reward
+  - json5e-reward
 tags:
-- new/compendium/src/5e/bmt
-- new/reward/charm
+  - Quelle/5e/bmt
+  - Kompendium/Belohnung/charm
 aliases:
-- Charm of Euryale
+  - Charm of Euryale
 ---
 # Charm of Euryale
 

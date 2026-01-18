@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/wdmm
-- ttrpg-cli/item/rarity/rare
-aliases: 
-- "Horn of the Endless Maze"
+  - Quelle/5e/wdmm
+  - Gegenstand/rarity/rare
+aliases:
+  - Horn of the Endless Maze
 ---
 # Horn of the Endless Maze
 *Wondrous item, rare*  

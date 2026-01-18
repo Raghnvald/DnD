@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-deity
+  - json5e-deity
 tags:
-- ttrpg-cli/compendium/src/5e/tdcsr
-- ttrpg-cli/deity/exandria
-- ttrpg-cli/domain/death
-- ttrpg-cli/domain/tempest
-- ttrpg-cli/domain/war
-aliases: 
-- The Ruiner
-- Gruumsh
+  - Quelle/5e/tdcsr
+  - Kompendium/Götter/exandria
+  - Kompendium/Götter/Domäne/death
+  - Kompendium/Götter/Domäne/tempest
+  - Kompendium/Götter/Domäne/war
+aliases:
+  - The Ruiner
+  - Gruumsh
 ---
 # The Ruiner
 *Source: Tal'Dorei Campaign Setting Reborn p. 35* 

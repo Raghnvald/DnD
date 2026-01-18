@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-race
+  - json5e-race
 tags:
-- ttrpg-cli/compendium/src/5e/scag
-- ttrpg-cli/race/half-elf/drow-descent
+  - Quelle/5e/scag
+  - Rasse/half-elf/drow-descent
 aliases:
-- Half-Elf (Drow Descent)
+  - Half-Elf (Drow Descent)
 ---
 # Half-Elf (Drow Descent)
 *Source: Sword Coast Adventurer's Guide p. 116*  

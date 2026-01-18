@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-deity
+  - json5e-deity
 tags:
-- Quelle/5e/phb
-- Kompendium/Götter/greyhawk
-- Kompendium/Götter/domain/war
-aliases: 
-- Hextor
+  - Quelle/5e/phb
+  - Kompendium/Götter/greyhawk
+  - Kompendium/Götter/Domäne/war
+aliases:
+  - Hextor
 ---
 # Hextor
 *Source: Player's Handbook p. 295* 

@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/veor
-- ttrpg-cli/monster/cr/8
-- ttrpg-cli/monster/size/huge
-- ttrpg-cli/monster/type/undead
+  - Quelle/5e/veor
+  - Monster/HG/8
+  - Monster/Größe/Riesig
+  - Monster/Typ/undead
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Bone Roc
+  - Bone Roc
 ---
 # [Bone Roc](3-Mechanics\CLI\bestiary\undead/bone-roc-veor.md)
 *Source: Vecna: Eve of Ruin p. 211*  

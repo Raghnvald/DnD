@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/gos
-- ttrpg-cli/monster/cr/3
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/undead
+  - Quelle/5e/gos
+  - Monster/HG/3
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/undead
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Drowned Ascetic
+  - Drowned Ascetic
 ---
 # [Drowned Ascetic](3-Mechanics\CLI\bestiary\undead/drowned-ascetic-gos.md)
 *Source: Ghosts of Saltmarsh p. 233*  

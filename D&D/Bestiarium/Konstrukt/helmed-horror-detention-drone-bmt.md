@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/bmt
-- new/monster/cr/4
-- new/monster/size/medium
-- new/monster/type/construct
+  - Quelle/5e/bmt
+  - Monster/HG/4
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/construct
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Helmed Horror Detention Drone
+  - Helmed Horror Detention Drone
 ---
 # [Helmed Horror Detention Drone](3-Mechanics\CLI\bestiary\construct/helmed-horror-detention-drone-bmt.md)
 *Source: The Book of Many Things p. 135*  

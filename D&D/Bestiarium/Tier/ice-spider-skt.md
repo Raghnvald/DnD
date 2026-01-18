@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/skt
-- new/monster/cr/1
-- new/monster/size/large
-- new/monster/type/beast
+  - Quelle/5e/skt
+  - Monster/HG/1
+  - Monster/Größe/Groß
+  - Monster/Typ/beast
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Ice Spider
+  - Ice Spider
 ---
 # [Ice Spider](3-Mechanics\CLI\bestiary\beast/ice-spider-skt.md)
 *Source: Storm King's Thunder p. 127*  

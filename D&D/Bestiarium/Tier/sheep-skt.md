@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/skt
-- new/monster/cr/0
-- new/monster/size/small
-- new/monster/type/beast
+  - Quelle/5e/skt
+  - Monster/HG/0
+  - Monster/Größe/Klein
+  - Monster/Typ/beast
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Sheep
+  - Sheep
 ---
 # [Sheep](3-Mechanics\CLI\bestiary\beast/sheep-skt.md)
 *Source: Storm King's Thunder p. 142*  

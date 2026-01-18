@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/wdmm
-- ttrpg-cli/monster/cr/3
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/dragon
+  - Quelle/5e/wdmm
+  - Monster/HG/3
+  - Monster/Größe/Groß
+  - Monster/Typ/dragon
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Otto
+  - Otto
 ---
 # [Otto](3-Mechanics\CLI\bestiary\npc/otto-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 96*  

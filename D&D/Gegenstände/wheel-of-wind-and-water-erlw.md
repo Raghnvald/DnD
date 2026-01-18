@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- new/compendium/src/5e/erlw
-- new/item/rarity/uncommon
-aliases: 
-- "Wheel of Wind and Water"
+  - Quelle/5e/erlw
+  - Gegenstand/rarity/uncommon
+aliases:
+  - Wheel of Wind and Water
 ---
 # Wheel of Wind and Water
 *Wondrous item, uncommon*  

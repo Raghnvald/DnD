@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- new/compendium/src/5e/erlw
-- new/item/attunement/required
-- new/item/rarity/legendary
-aliases: 
-- "Belashyrra's Beholder Crown"
+  - Quelle/5e/erlw
+  - Gegenstand/attunement/required
+  - Gegenstand/rarity/legendary
+aliases:
+  - Belashyrra's Beholder Crown
 ---
 # Belashyrra's Beholder Crown
 *Wondrous item, legendary (requires attunement)*  

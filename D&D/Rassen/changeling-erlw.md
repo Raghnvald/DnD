@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-race
+  - json5e-race
 tags:
-- new/compendium/src/5e/erlw
-- new/race/changeling
+  - Quelle/5e/erlw
+  - Rasse/changeling
 aliases:
-- Changeling
+  - Changeling
 ---
 # Changeling
 *Source: Eberron: Rising from the Last War p. 17*  

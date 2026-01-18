@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-spell
+  - json5e-spell
 tags:
-- new/compendium/src/5e/idrotf
-- new/spell/level/7th-level
-- new/spell/school/transmutation
+  - Quelle/5e/idrotf
+  - Zauber/Grad/7
+  - Zauber/Schule/transmutation
 aliases:
-- Create Magen
+  - Create Magen
 ---
 # Create Magen
 *7th-level, Transmutation*  

@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/wdmm
-- ttrpg-cli/item/rarity/unknown
-- ttrpg-cli/item/wondrous/other
-aliases: 
-- "Vial of Stardust"
+  - Quelle/5e/wdmm
+  - Gegenstand/rarity/unknown
+  - Gegenstand/wondrous/other
+aliases:
+  - Vial of Stardust
 ---
 # Vial of Stardust
 

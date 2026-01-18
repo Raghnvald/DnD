@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/bgg
-- ttrpg-cli/monster/cr/16
-- ttrpg-cli/monster/size/huge
-- ttrpg-cli/monster/type/giant/wizard
+  - Quelle/5e/bgg
+  - Monster/HG/16
+  - Monster/Größe/Riesig
+  - Monster/Typ/giant/wizard
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Stone Giant Rockspeaker
+  - Stone Giant Rockspeaker
 ---
 # [Stone Giant Rockspeaker](3-Mechanics\CLI\bestiary\giant/stone-giant-rockspeaker-bgg.md)
 *Source: Bigby Presents: Glory of the Giants p. 180*  

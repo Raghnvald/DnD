@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/tdcsr
-- ttrpg-cli/item/gear/ammunition
-- ttrpg-cli/item/rarity/very-rare
-aliases: 
-- "Cataclysm Bolts"
+  - Quelle/5e/tdcsr
+  - Gegenstand/gear/ammunition
+  - Gegenstand/rarity/very-rare
+aliases:
+  - Cataclysm Bolts
 ---
 # Cataclysm Bolts
 *Ammunition, very rare*  

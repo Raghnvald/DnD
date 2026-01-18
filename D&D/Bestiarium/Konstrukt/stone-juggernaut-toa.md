@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/toa
-- new/monster/cr/12
-- new/monster/size/large
-- new/monster/type/construct
+  - Quelle/5e/toa
+  - Monster/HG/12
+  - Monster/Größe/Groß
+  - Monster/Typ/construct
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Stone Juggernaut
+  - Stone Juggernaut
 ---
 # [Stone Juggernaut](3-Mechanics\CLI\bestiary\construct/stone-juggernaut-toa.md)
 *Source: Tomb of Annihilation p. 231*  

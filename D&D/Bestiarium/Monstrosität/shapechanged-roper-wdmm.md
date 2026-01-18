@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/wdmm
-- ttrpg-cli/monster/cr/5
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/monstrosity
+  - Quelle/5e/wdmm
+  - Monster/HG/5
+  - Monster/Größe/Groß
+  - Monster/Typ/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Shapechanged Roper
+  - Shapechanged Roper
 ---
 # [Shapechanged Roper](3-Mechanics\CLI\bestiary\monstrosity/shapechanged-roper-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 106*  

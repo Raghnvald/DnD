@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/idrotf
-- new/monster/cr/1-2
-- new/monster/size/medium
-- new/monster/type/monstrosity
+  - Quelle/5e/idrotf
+  - Monster/HG/1-2
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Ice Piercer
+  - Ice Piercer
 ---
 # [Ice Piercer](3-Mechanics\CLI\bestiary\monstrosity/ice-piercer-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 226*  

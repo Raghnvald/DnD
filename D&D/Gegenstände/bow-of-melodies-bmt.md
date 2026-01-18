@@ -1,19 +1,19 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- new/compendium/src/5e/bmt
-- new/item/attunement/required
-- new/item/rarity/very-rare
-- new/item/weapon/martial
-- new/item/weapon/ranged
-- new/item/weapon/simple
-- new/item/wondrous/generic-variant
-aliases: 
-- "Bow of Melodies"
-- "Longbow of Melodies"
-- "Shortbow of Melodies"
+  - Quelle/5e/bmt
+  - Gegenstand/attunement/required
+  - Gegenstand/rarity/very-rare
+  - Gegenstand/weapon/martial
+  - Gegenstand/weapon/ranged
+  - Gegenstand/weapon/simple
+  - Gegenstand/wondrous/generic-variant
+aliases:
+  - Bow of Melodies
+  - Longbow of Melodies
+  - Shortbow of Melodies
 ---
 # Bow of Melodies
 *Very rare (requires attunement)*  

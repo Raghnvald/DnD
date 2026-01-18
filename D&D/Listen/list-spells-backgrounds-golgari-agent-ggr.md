@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/background/golgari-agent
+- Zauber/list/background/golgari-agent
 aliases:
 - Spells for Golgari Agent
 ---

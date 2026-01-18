@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/erlw
-- new/monster/cr/1-4
-- new/monster/size/medium
-- new/monster/type/humanoid/kalashtar
+  - Quelle/5e/erlw
+  - Monster/HG/1-4
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/humanoid/kalashtar
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Kalashtar
+  - Kalashtar
 ---
 # [Kalashtar](3-Mechanics\CLI\bestiary\humanoid/kalashtar-erlw.md)
 *Source: Eberron: Rising from the Last War p. 317*  

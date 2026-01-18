@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/skt
-- new/monster/cr/4
-- new/monster/size/large
-- new/monster/type/monstrosity
+  - Quelle/5e/skt
+  - Monster/HG/4
+  - Monster/Größe/Groß
+  - Monster/Typ/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Yakfolk Priest
+  - Yakfolk Priest
 ---
 # [Yakfolk Priest](3-Mechanics\CLI\bestiary\monstrosity/yakfolk-priest-skt.md)
 *Source: Storm King's Thunder p. 245*  

@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/tftyp
-- new/monster/cr/1-2
-- new/monster/size/large
-- new/monster/type/plant
+  - Quelle/5e/tftyp
+  - Monster/HG/1-2
+  - Monster/Größe/Groß
+  - Monster/Typ/plant
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Thorn Slinger
+  - Thorn Slinger
 ---
 # [Thorn Slinger](3-Mechanics\CLI\bestiary\plant/thorn-slinger-tftyp.md)
 *Source: Tales from the Yawning Portal p. 246*  

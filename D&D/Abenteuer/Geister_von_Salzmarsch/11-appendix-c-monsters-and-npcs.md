@@ -1,11 +1,11 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- ttrpg-cli/compendium/src/5e/gos
+  - Quelle/5e/gos
 aliases:
-- Appendix C: Monsters and NPCs
+  - Appendix C: Monsters and NPCs
 ---
 # Appendix C: Monsters and NPCs
 *Source: Ghosts of Saltmarsh, p. 230* 

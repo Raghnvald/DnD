@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/slw
-- new/monster/cr/
-- new/monster/size/medium
-- new/monster/type/humanoid
+  - Quelle/5e/slw
+  - Monster/HG/
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/humanoid
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Expert
+  - Expert
 ---
 # [Expert](3-Mechanics\CLI\bestiary\humanoid/expert-slw.md)
 *Source: Storm Lord's Wrath*  

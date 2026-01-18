@@ -1,11 +1,11 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- new/compendium/src/5e/slw
+  - Quelle/5e/slw
 aliases:
-- Appendix A: Creatures
+  - Appendix A: Creatures
 ---
 # Appendix A: Creatures
 *Source: Essentials Kit: Storm Lord's Wrath* 

@@ -1,19 +1,19 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/monster/cr/17
-- ttrpg-cli/monster/environment/coastal
-- ttrpg-cli/monster/environment/urban
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/fiend/devil
-- ttrpg-cli/monster/type/fiend/wizard
+  - Quelle/5e/mpmm
+  - Monster/HG/17
+  - Monster/Habitat/coastal
+  - Monster/Habitat/urban
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/fiend/devil
+  - Monster/Typ/fiend/wizard
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Blue Abishai
+  - Blue Abishai
 ---
 # [Blue Abishai](3-Mechanics\CLI\bestiary\fiend/blue-abishai-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 39, Mordenkainen's Tome of Foes p. 161*  

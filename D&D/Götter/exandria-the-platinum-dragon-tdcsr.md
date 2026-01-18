@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-deity
+  - json5e-deity
 tags:
-- ttrpg-cli/compendium/src/5e/tdcsr
-- ttrpg-cli/deity/exandria
-- ttrpg-cli/domain/life
-- ttrpg-cli/domain/order
-- ttrpg-cli/domain/war
-aliases: 
-- The Platinum Dragon
-- Bahamut
+  - Quelle/5e/tdcsr
+  - Kompendium/Götter/exandria
+  - Kompendium/Götter/Domäne/life
+  - Kompendium/Götter/Domäne/order
+  - Kompendium/Götter/Domäne/war
+aliases:
+  - The Platinum Dragon
+  - Bahamut
 ---
 # The Platinum Dragon
 *Source: Tal'Dorei Campaign Setting Reborn p. 28* 

@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/dsotdq
-- ttrpg-cli/monster/cr/19
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/undead/paladin
+  - Quelle/5e/dsotdq
+  - Monster/HG/19
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/undead/paladin
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Lord Soth
+  - Lord Soth
 ---
 # [Lord Soth](3-Mechanics\CLI\bestiary\npc/lord-soth-dsotdq.md)
 *Source: Dragonlance: Shadow of the Dragon Queen p. 206, Vecna: Eve of Ruin*  

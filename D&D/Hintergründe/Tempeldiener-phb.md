@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-background
+  - json5e-background
 tags:
-- Kompendium/background
-- Quelle/5e/phb
+  - Kompendium/Hintergrund
+  - Quelle/5e/phb
 aliases:
-- Acolyte
+  - Acolyte
 ---
 # Acolyte
 *Source: Player's Handbook p. 127. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  

@@ -1,14 +1,14 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-deity
+  - json5e-deity
 tags:
-- ttrpg-cli/compendium/src/5e/mtf
-- ttrpg-cli/deity/gnome
-- ttrpg-cli/domain/forge
-- ttrpg-cli/domain/light
-aliases: 
-- Bleredd
+  - Quelle/5e/mtf
+  - Kompendium/Götter/gnome
+  - Kompendium/Götter/Domäne/forge
+  - Kompendium/Götter/Domäne/light
+aliases:
+  - Bleredd
 ---
 # Bleredd
 *Source: Mordenkainen's Tome of Foes p. 110* 

@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/bam
-- ttrpg-cli/monster/cr/5
-- ttrpg-cli/monster/size/huge
-- ttrpg-cli/monster/type/monstrosity
+  - Quelle/5e/bam
+  - Monster/HG/5
+  - Monster/Größe/Riesig
+  - Monster/Typ/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Night Scavver
+  - Night Scavver
 ---
 # [Night Scavver](3-Mechanics\CLI\bestiary\monstrosity/night-scavver-bam.md)
 *Source: Boo's Astral Menagerie p. 49, Vecna: Eve of Ruin*  

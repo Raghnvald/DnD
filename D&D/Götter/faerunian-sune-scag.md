@@ -1,17 +1,17 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-deity
+  - json5e-deity
 tags:
-- ttrpg-cli/compendium/src/5e/scag
-- ttrpg-cli/deity/faerunian
-- ttrpg-cli/domain/life
-- ttrpg-cli/domain/light
-aliases: 
-- Sune
-- Lady Firehair
-- The Lady of Love
-- The Princess of Passion
+  - Quelle/5e/scag
+  - Kompendium/Götter/faerunian
+  - Kompendium/Götter/Domäne/life
+  - Kompendium/Götter/Domäne/light
+aliases:
+  - Sune
+  - Lady Firehair
+  - The Lady of Love
+  - The Princess of Passion
 ---
 # Sune
 *Source: Sword Coast Adventurer's Guide p. 21* 

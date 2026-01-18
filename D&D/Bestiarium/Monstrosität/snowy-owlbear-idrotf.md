@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/idrotf
-- new/monster/cr/3
-- new/monster/size/large
-- new/monster/type/monstrosity
+  - Quelle/5e/idrotf
+  - Monster/HG/3
+  - Monster/Größe/Groß
+  - Monster/Typ/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Snowy Owlbear
+  - Snowy Owlbear
 ---
 # [Snowy Owlbear](3-Mechanics\CLI\bestiary\monstrosity/snowy-owlbear-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 309*  

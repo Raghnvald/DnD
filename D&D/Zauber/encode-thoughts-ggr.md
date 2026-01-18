@@ -8,7 +8,7 @@ Wirkungsdauer: 8 Stunden
 Angriff: KON
 Schaden: /
 tags:
-  - Kompendium/background/dimir-operative
+  - Kompendium/Hintergrund/dimir-operative
   - Quelle/5e/ggr
   - Zauber/Grad/0
   - Zauber/Schule/Verzauberung

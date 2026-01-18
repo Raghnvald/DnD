@@ -1,14 +1,14 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- new/compendium/src/5e/toa
-- new/item/rarity/none
-- new/item/weapon/melee
-- new/item/weapon/simple
-aliases: 
-- "Yklwa"
+  - Quelle/5e/toa
+  - Gegenstand/rarity/none
+  - Gegenstand/weapon/melee
+  - Gegenstand/weapon/simple
+aliases:
+  - Yklwa
 ---
 # Yklwa
 *Weapon*  

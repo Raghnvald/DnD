@@ -1,11 +1,11 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- ttrpg-cli/compendium/src/5e/xge
+  - Quelle/5e/xge
 aliases:
-- Grassland Encounters (Levels 6—10)
+  - Grassland Encounters (Levels 6—10)
 ---
 # Grassland Encounters (Levels 6—10)
 *Source: Xanathar's Guide to Everything p. 100* 

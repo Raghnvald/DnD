@@ -3,7 +3,7 @@ cssclasses:
   - json5e-class
 tags:
   - Quelle/5e/phb
-  - Kompendium/Götter/domain/tempest
+  - Kompendium/Götter/Domäne/tempest
   - Klasse/Kleriker/tempest
 aliases:
   - Tempest Domain

@@ -1,14 +1,14 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-deity
+  - json5e-deity
 tags:
-- ttrpg-cli/compendium/src/5e/egw
-- ttrpg-cli/deity/exandria
-- ttrpg-cli/domain/death
-- ttrpg-cli/domain/grave
-aliases: 
-- The Raven Queen
+  - Quelle/5e/egw
+  - Kompendium/Götter/exandria
+  - Kompendium/Götter/Domäne/death
+  - Kompendium/Götter/Domäne/grave
+aliases:
+  - The Raven Queen
 ---
 # The Raven Queen
 *Source: Explorer's Guide to Wildemount p. 24* 

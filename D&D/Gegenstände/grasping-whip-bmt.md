@@ -1,14 +1,14 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- new/compendium/src/5e/bmt
-- new/item/rarity/rare
-- new/item/weapon/martial
-- new/item/weapon/melee
-aliases: 
-- "Grasping Whip"
+  - Quelle/5e/bmt
+  - Gegenstand/rarity/rare
+  - Gegenstand/weapon/martial
+  - Gegenstand/weapon/melee
+aliases:
+  - Grasping Whip
 ---
 # Grasping Whip
 *Weapon (whip), rare*  

@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-race
+  - json5e-race
 tags:
-- ttrpg-cli/compendium/src/5e/mtf
-- ttrpg-cli/race/tiefling/mephistopheles
+  - Quelle/5e/mtf
+  - Rasse/tiefling/mephistopheles
 aliases:
-- Tiefling (Mephistopheles)
+  - Tiefling (Mephistopheles)
 ---
 # Tiefling (Mephistopheles)
 *Source: Mordenkainen's Tome of Foes p. 23*  

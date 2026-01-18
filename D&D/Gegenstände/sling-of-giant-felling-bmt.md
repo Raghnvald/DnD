@@ -1,14 +1,14 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- new/compendium/src/5e/bmt
-- new/item/rarity/uncommon
-- new/item/weapon/ranged
-- new/item/weapon/simple
-aliases: 
-- "Sling of Giant Felling"
+  - Quelle/5e/bmt
+  - Gegenstand/rarity/uncommon
+  - Gegenstand/weapon/ranged
+  - Gegenstand/weapon/simple
+aliases:
+  - Sling of Giant Felling
 ---
 # Sling of Giant Felling
 *Weapon (sling), uncommon*  

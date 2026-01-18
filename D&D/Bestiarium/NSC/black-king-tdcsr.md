@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/tdcsr
-- ttrpg-cli/monster/cr/10
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/construct
+  - Quelle/5e/tdcsr
+  - Monster/HG/10
+  - Monster/Größe/Groß
+  - Monster/Typ/construct
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Black King
+  - Black King
 ---
 # [Black King](3-Mechanics\CLI\bestiary\npc/black-king-tdcsr.md)
 *Source: Tal'Dorei Campaign Setting Reborn p. 92*  

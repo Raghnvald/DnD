@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-deity
+  - json5e-deity
 tags:
-- ttrpg-cli/compendium/src/5e/scag
-- ttrpg-cli/deity/faerunian
-- ttrpg-cli/domain/war
-aliases: 
-- The Red Knight
-- The Lady of Strategy
-- The Crimson General
-- The Grandmaster of the Lanceboard
+  - Quelle/5e/scag
+  - Kompendium/Götter/faerunian
+  - Kompendium/Götter/Domäne/war
+aliases:
+  - The Red Knight
+  - The Lady of Strategy
+  - The Crimson General
+  - The Grandmaster of the Lanceboard
 ---
 # The Red Knight
 *Source: Sword Coast Adventurer's Guide p. 21* 

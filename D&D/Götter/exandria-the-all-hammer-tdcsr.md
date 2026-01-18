@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-deity
+  - json5e-deity
 tags:
-- ttrpg-cli/compendium/src/5e/tdcsr
-- ttrpg-cli/deity/exandria
-- ttrpg-cli/domain/forge
-- ttrpg-cli/domain/knowledge
-- ttrpg-cli/domain/war
-aliases: 
-- The All-Hammer
-- Moradin
+  - Quelle/5e/tdcsr
+  - Kompendium/Götter/exandria
+  - Kompendium/Götter/Domäne/forge
+  - Kompendium/Götter/Domäne/knowledge
+  - Kompendium/Götter/Domäne/war
+aliases:
+  - The All-Hammer
+  - Moradin
 ---
 # The All-Hammer
 *Source: Tal'Dorei Campaign Setting Reborn p. 31* 

@@ -1,17 +1,17 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/tftyp
-- new/monster/cr/4
-- new/monster/size/medium
-- new/monster/type/humanoid/human
-- new/monster/type/humanoid/shapechanger
+  - Quelle/5e/tftyp
+  - Monster/HG/4
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/humanoid/human
+  - Monster/Typ/humanoid/shapechanger
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Werejaguar
+  - Werejaguar
 ---
 # [Werejaguar](3-Mechanics\CLI\bestiary\humanoid/werejaguar-tftyp.md)
 *Source: Tales from the Yawning Portal p. 79*  

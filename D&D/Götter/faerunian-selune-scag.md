@@ -4,9 +4,9 @@ cssclasses:
 tags:
   - Quelle/5e/scag
   - Kompendium/Götter/faerunian
-  - Kompendium/Götter/domain/knowledge
-  - Kompendium/Götter/domain/life
-  - Kompendium/Götter/domain/twilight
+  - Kompendium/Götter/Domäne/knowledge
+  - Kompendium/Götter/Domäne/life
+  - Kompendium/Götter/Domäne/twilight
 aliases:
   - Selûne
   - Our Lady of Silver

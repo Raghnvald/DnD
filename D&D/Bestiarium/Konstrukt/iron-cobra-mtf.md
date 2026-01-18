@@ -1,20 +1,20 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/mtf
-- ttrpg-cli/monster/cr/4
-- ttrpg-cli/monster/environment/forest
-- ttrpg-cli/monster/environment/grassland
-- ttrpg-cli/monster/environment/hill
-- ttrpg-cli/monster/environment/mountain
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/construct
+  - Quelle/5e/mtf
+  - Monster/HG/4
+  - Monster/Habitat/forest
+  - Monster/Habitat/grassland
+  - Monster/Habitat/hill
+  - Monster/Habitat/mountain
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/construct
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Iron Cobra
+  - Iron Cobra
 ---
 # [Iron Cobra](3-Mechanics\CLI\bestiary\construct/iron-cobra-mtf.md)
 *Source: Mordenkainen's Tome of Foes p. 125, Ghosts of Saltmarsh*  

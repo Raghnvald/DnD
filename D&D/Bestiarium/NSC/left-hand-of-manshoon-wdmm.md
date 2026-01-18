@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/wdmm
-- ttrpg-cli/monster/cr/12
-- ttrpg-cli/monster/size/tiny
-- ttrpg-cli/monster/type/undead
+  - Quelle/5e/wdmm
+  - Monster/HG/12
+  - Monster/Größe/Winzig
+  - Monster/Typ/undead
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Left Hand of Manshoon
+  - Left Hand of Manshoon
 ---
 # [Left Hand of Manshoon](3-Mechanics\CLI\bestiary\npc/left-hand-of-manshoon-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 119*  

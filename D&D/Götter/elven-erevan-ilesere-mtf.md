@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-deity
+  - json5e-deity
 tags:
-- ttrpg-cli/compendium/src/5e/mtf
-- ttrpg-cli/deity/elven
-- ttrpg-cli/domain/trickery
-aliases: 
-- Erevan Ilesere
+  - Quelle/5e/mtf
+  - Kompendium/Götter/elven
+  - Kompendium/Götter/Domäne/trickery
+aliases:
+  - Erevan Ilesere
 ---
 # Erevan Ilesere
 *Source: Mordenkainen's Tome of Foes p. 43* 

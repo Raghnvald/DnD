@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/subrace/tiefling-levistus
+- Zauber/list/subrace/tiefling-levistus
 aliases:
 - Spells for Tiefling (Levistus)
 ---

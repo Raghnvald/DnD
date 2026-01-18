@@ -1,17 +1,17 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/veor
-- ttrpg-cli/monster/cr/21
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/humanoid/human
-- ttrpg-cli/monster/type/humanoid/wizard
+  - Quelle/5e/veor
+  - Monster/HG/21
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/humanoid/human
+  - Monster/Typ/humanoid/wizard
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Alustriel Silverhand
+  - Alustriel Silverhand
 ---
 # [Alustriel Silverhand](3-Mechanics\CLI\bestiary\npc/alustriel-silverhand-veor.md)
 *Source: Vecna: Eve of Ruin p. 242*  

@@ -3,7 +3,7 @@ cssclasses:
   - json5e-class
 tags:
   - Quelle/5e/xge
-  - Kompendium/Götter/domain/forge
+  - Kompendium/Götter/Domäne/forge
   - Klasse/Kleriker/forge
 aliases:
   - Forge Domain

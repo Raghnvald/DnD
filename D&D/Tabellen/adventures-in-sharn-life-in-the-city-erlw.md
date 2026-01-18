@@ -1,11 +1,11 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- new/compendium/src/5e/erlw
+  - Quelle/5e/erlw
 aliases:
-- Adventures in Sharn; Life in the City
+  - Adventures in Sharn; Life in the City
 ---
 # Adventures in Sharn; Life in the City
 *Source: Eberron: Rising from the Last War p. 239* 

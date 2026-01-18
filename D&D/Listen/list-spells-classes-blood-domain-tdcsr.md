@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/subclass/blood-domain
+- Zauber/list/subclass/blood-domain
 aliases:
 - Spells for Blood Domain
 ---

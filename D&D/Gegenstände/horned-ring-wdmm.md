@@ -1,14 +1,14 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/wdmm
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/very-rare
-- ttrpg-cli/item/wondrous/ring
-aliases: 
-- "Horned Ring"
+  - Quelle/5e/wdmm
+  - Gegenstand/attunement/required
+  - Gegenstand/rarity/very-rare
+  - Gegenstand/wondrous/ring
+aliases:
+  - Horned Ring
 ---
 # Horned Ring
 *Ring, very rare (requires attunement)*  

@@ -1,14 +1,14 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- new/compendium/src/5e/toa
-- new/item/attunement/required
-- new/item/rarity/very-rare
-- new/item/weapon/simple
-aliases: 
-- "Devlin's Staff of Striking"
+  - Quelle/5e/toa
+  - Gegenstand/attunement/required
+  - Gegenstand/rarity/very-rare
+  - Gegenstand/weapon/simple
+aliases:
+  - Devlin's Staff of Striking
 ---
 # Devlin's Staff of Striking
 *Staff, weapon, cursed item, very rare (requires attunement)*  

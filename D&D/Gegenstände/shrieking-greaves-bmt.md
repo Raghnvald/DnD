@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- new/compendium/src/5e/bmt
-- new/item/attunement/required
-- new/item/rarity/rare
-aliases: 
-- "Shrieking Greaves"
+  - Quelle/5e/bmt
+  - Gegenstand/attunement/required
+  - Gegenstand/rarity/rare
+aliases:
+  - Shrieking Greaves
 ---
 # Shrieking Greaves
 *Wondrous item, cursed item, rare (requires attunement)*  

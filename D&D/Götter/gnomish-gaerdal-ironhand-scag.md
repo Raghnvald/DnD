@@ -1,14 +1,14 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-deity
+  - json5e-deity
 tags:
-- Quelle/5e/scag
-- Kompendium/Götter/gnomish
-- Kompendium/Götter/domain/peace
-- Kompendium/Götter/domain/war
-aliases: 
-- Gaerdal Ironhand
+  - Quelle/5e/scag
+  - Kompendium/Götter/gnomish
+  - Kompendium/Götter/Domäne/peace
+  - Kompendium/Götter/Domäne/war
+aliases:
+  - Gaerdal Ironhand
 ---
 # Gaerdal Ironhand
 *Source: Sword Coast Adventurer's Guide p. 24, Tasha's Cauldron of Everything p. 33* 

@@ -1,14 +1,14 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/wdmm
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/common
-- ttrpg-cli/item/weapon/simple
-aliases: 
-- "Wyllow's Staff of Flowers"
+  - Quelle/5e/wdmm
+  - Gegenstand/attunement/required
+  - Gegenstand/rarity/common
+  - Gegenstand/weapon/simple
+aliases:
+  - Wyllow's Staff of Flowers
 ---
 # Wyllow's Staff of Flowers
 *Staff, weapon, common (requires attunement)*  

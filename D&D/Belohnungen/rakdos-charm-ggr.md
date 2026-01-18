@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-reward
+  - json5e-reward
 tags:
-- Quelle/5e/ggr
-- Kompendium/reward/charm
+  - Quelle/5e/ggr
+  - Kompendium/Belohnung/charm
 aliases:
-- Rakdos Charm
+  - Rakdos Charm
 ---
 # Rakdos Charm
 *Charm*  

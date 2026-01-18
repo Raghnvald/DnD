@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/tftyp
-- new/monster/cr/2
-- new/monster/size/large
-- new/monster/type/ooze
+  - Quelle/5e/tftyp
+  - Monster/HG/2
+  - Monster/Größe/Groß
+  - Monster/Typ/ooze
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Reduced-Threat Ochre Jelly
+  - Reduced-Threat Ochre Jelly
 ---
 # [Reduced-Threat Ochre Jelly](3-Mechanics\CLI\bestiary\ooze/reduced-threat-ochre-jelly-tftyp.md)
 *Source: Tales from the Yawning Portal p. 113*  

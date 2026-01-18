@@ -1,11 +1,11 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- ttrpg-cli/compendium/src/5e/egw
+  - Quelle/5e/egw
 aliases:
-- Backstory; Family Size (Village)
+  - Backstory; Family Size (Village)
 ---
 # Backstory; Family Size (Village)
 *Source: Explorer's Guide to Wildemount p. 191* 

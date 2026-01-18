@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/tdcsr
-- ttrpg-cli/item/gear/tool
-- ttrpg-cli/item/rarity/unknown/magic
-aliases: 
-- "Residuum Enchanting Slate"
+  - Quelle/5e/tdcsr
+  - Gegenstand/gear/tool
+  - Gegenstand/rarity/unknown/magic
+aliases:
+  - Residuum Enchanting Slate
 ---
 # Residuum Enchanting Slate
 *Wondrous item, tool*  

@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/background/gruul-anarch
+- Zauber/list/background/gruul-anarch
 aliases:
 - Spells for Gruul Anarch
 ---

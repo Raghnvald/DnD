@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/veor
-- ttrpg-cli/monster/cr/7
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/construct
+  - Quelle/5e/veor
+  - Monster/HG/7
+  - Monster/Größe/Groß
+  - Monster/Typ/construct
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Whirling Chandelier
+  - Whirling Chandelier
 ---
 # [Whirling Chandelier](3-Mechanics\CLI\bestiary\construct/whirling-chandelier-veor.md)
 *Source: Vecna: Eve of Ruin p. 239*  

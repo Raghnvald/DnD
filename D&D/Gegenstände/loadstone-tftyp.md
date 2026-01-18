@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- new/compendium/src/5e/tftyp
-- new/item/rarity/rare
-aliases: 
-- "Loadstone"
+  - Quelle/5e/tftyp
+  - Gegenstand/rarity/rare
+aliases:
+  - Loadstone
 ---
 # Loadstone
 *Wondrous item, cursed item, rare*  

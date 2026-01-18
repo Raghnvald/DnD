@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/idrotf
-- new/monster/cr/1-2
-- new/monster/size/small
-- new/monster/type/aberration
+  - Quelle/5e/idrotf
+  - Monster/HG/1-2
+  - Monster/Größe/Klein
+  - Monster/Typ/aberration
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Gnome Squidling
+  - Gnome Squidling
 ---
 # [Gnome Squidling](3-Mechanics\CLI\bestiary\aberration/gnome-squidling-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 303*  

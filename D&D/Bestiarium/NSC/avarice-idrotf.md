@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/idrotf
-- new/monster/cr/7
-- new/monster/size/medium
-- new/monster/type/humanoid/tiefling
+  - Quelle/5e/idrotf
+  - Monster/HG/7
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/humanoid/tiefling
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Avarice
+  - Avarice
 ---
 # [Avarice](3-Mechanics\CLI\bestiary\npc/avarice-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 269*  

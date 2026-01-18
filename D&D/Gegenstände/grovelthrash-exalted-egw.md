@@ -1,15 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/egw
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/artifact
-- ttrpg-cli/item/weapon/martial
-- ttrpg-cli/item/weapon/melee
-aliases: 
-- "Grovelthrash (Exalted)"
+  - Quelle/5e/egw
+  - Gegenstand/attunement/required
+  - Gegenstand/rarity/artifact
+  - Gegenstand/weapon/martial
+  - Gegenstand/weapon/melee
+aliases:
+  - Grovelthrash (Exalted)
 ---
 # Grovelthrash (Exalted)
 *Weapon ([warhammer](/3-Mechanics/CLI/items/warhammer-xphb.md)), artifact (requires attunement)*  

@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- new/compendium/src/5e/cm
-- new/item/attunement/required
-- new/item/rarity/legendary
-aliases: 
-- "Gloves of Soul Catching"
+  - Quelle/5e/cm
+  - Gegenstand/attunement/required
+  - Gegenstand/rarity/legendary
+aliases:
+  - Gloves of Soul Catching
 ---
 # Gloves of Soul Catching
 *Wondrous item, legendary (requires attunement)*  

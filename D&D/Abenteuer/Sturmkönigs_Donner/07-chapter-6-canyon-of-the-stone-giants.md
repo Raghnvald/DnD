@@ -1,11 +1,11 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- new/compendium/src/5e/skt
+  - Quelle/5e/skt
 aliases:
-- Chapter 6: Canyon of the Stone Giants
+  - Chapter 6: Canyon of the Stone Giants
 ---
 # Chapter 6: Canyon of the Stone Giants
 *Source: Storm King's Thunder, p. 145* 

@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-race
+  - json5e-race
 tags:
-- ttrpg-cli/compendium/src/5e/mtf
-- ttrpg-cli/race/tiefling/levistus
+  - Quelle/5e/mtf
+  - Rasse/tiefling/levistus
 aliases:
-- Tiefling (Levistus)
+  - Tiefling (Levistus)
 ---
 # Tiefling (Levistus)
 *Source: Mordenkainen's Tome of Foes p. 22*  

@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- ttrpg-cli/compendium/src/5e/jttrc
-- ttrpg-cli/monster/legendary-group
+  - Quelle/5e/jttrc
+  - Monster/legendary-group
 aliases:
-- Riverine
+  - Riverine
 ---
 # Riverine
 

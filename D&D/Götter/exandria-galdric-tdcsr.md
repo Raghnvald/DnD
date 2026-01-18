@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-deity
+  - json5e-deity
 tags:
-- ttrpg-cli/compendium/src/5e/tdcsr
-- ttrpg-cli/deity/exandria
-aliases: 
-- Galdric
+  - Quelle/5e/tdcsr
+  - Kompendium/Götter/exandria
+aliases:
+  - Galdric
 ---
 # Galdric
 *Source: Tal'Dorei Campaign Setting Reborn p. 40* 

@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/bgg
-- ttrpg-cli/monster/cr/17
-- ttrpg-cli/monster/size/huge
-- ttrpg-cli/monster/type/giant/cleric
+  - Quelle/5e/bgg
+  - Monster/HG/17
+  - Monster/Größe/Riesig
+  - Monster/Typ/giant/cleric
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Frost Giant Ice Shaper
+  - Frost Giant Ice Shaper
 ---
 # [Frost Giant Ice Shaper](3-Mechanics\CLI\bestiary\giant/frost-giant-ice-shaper-bgg.md)
 *Source: Bigby Presents: Glory of the Giants p. 145*  

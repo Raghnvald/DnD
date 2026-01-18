@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- new/compendium/src/5e/tftyp
-- new/item/rarity/rare
-aliases: 
-- "Mirror of the Past"
+  - Quelle/5e/tftyp
+  - Gegenstand/rarity/rare
+aliases:
+  - Mirror of the Past
 ---
 # Mirror of the Past
 *Wondrous item, rare*  

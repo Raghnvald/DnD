@@ -1,14 +1,14 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-deity
+  - json5e-deity
 tags:
-- Quelle/5e/phb
-- Kompendium/Götter/forgotten-realms
-- Kompendium/Götter/domain/forge
-- Kompendium/Götter/domain/knowledge
-aliases: 
-- Gond
+  - Quelle/5e/phb
+  - Kompendium/Götter/forgotten-realms
+  - Kompendium/Götter/Domäne/forge
+  - Kompendium/Götter/Domäne/knowledge
+aliases:
+  - Gond
 ---
 # Gond
 *Source: Player's Handbook p. 294, Xanathar's Guide to Everything p. 18. Available in the Basic Rules (2014)* 

@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/tdcsr
-- ttrpg-cli/monster/cr/27
-- ttrpg-cli/monster/size/gargantuan
-- ttrpg-cli/monster/type/construct
+  - Quelle/5e/tdcsr
+  - Monster/HG/27
+  - Monster/Größe/Gigantisch
+  - Monster/Typ/construct
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Forge Guardian
+  - Forge Guardian
 ---
 # [Forge Guardian](3-Mechanics\CLI\bestiary\construct/forge-guardian-tdcsr.md)
 *Source: Tal'Dorei Campaign Setting Reborn p. 241*  

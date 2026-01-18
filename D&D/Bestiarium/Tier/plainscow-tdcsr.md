@@ -1,19 +1,19 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/tdcsr
-- ttrpg-cli/monster/cr/2
-- ttrpg-cli/monster/environment/grassland
-- ttrpg-cli/monster/environment/hill
-- ttrpg-cli/monster/environment/urban
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/beast
+  - Quelle/5e/tdcsr
+  - Monster/HG/2
+  - Monster/Habitat/grassland
+  - Monster/Habitat/hill
+  - Monster/Habitat/urban
+  - Monster/Größe/Groß
+  - Monster/Typ/beast
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Plainscow
+  - Plainscow
 ---
 # [Plainscow](3-Mechanics\CLI\bestiary\beast/plainscow-tdcsr.md)
 *Source: Tal'Dorei Campaign Setting Reborn p. 248*  

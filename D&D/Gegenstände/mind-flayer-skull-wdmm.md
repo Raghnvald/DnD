@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/wdmm
-- ttrpg-cli/item/rarity/unknown/magic
-- ttrpg-cli/item/wondrous/other
-aliases: 
-- "Mind Flayer Skull"
+  - Quelle/5e/wdmm
+  - Gegenstand/rarity/unknown/magic
+  - Gegenstand/wondrous/other
+aliases:
+  - Mind Flayer Skull
 ---
 # Mind Flayer Skull
 

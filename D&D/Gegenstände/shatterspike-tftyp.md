@@ -1,15 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- new/compendium/src/5e/tftyp
-- new/item/attunement/required
-- new/item/rarity/uncommon
-- new/item/weapon/martial
-- new/item/weapon/melee
-aliases: 
-- "Shatterspike"
+  - Quelle/5e/tftyp
+  - Gegenstand/attunement/required
+  - Gegenstand/rarity/uncommon
+  - Gegenstand/weapon/martial
+  - Gegenstand/weapon/melee
+aliases:
+  - Shatterspike
 ---
 # Shatterspike
 *Weapon (longsword), uncommon (requires attunement)*  

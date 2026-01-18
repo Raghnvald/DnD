@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-race
+  - json5e-race
 tags:
-- new/compendium/src/5e/erlw
-- new/race/shifter/swiftstride
+  - Quelle/5e/erlw
+  - Rasse/shifter/swiftstride
 aliases:
-- Shifter (Swiftstride)
+  - Shifter (Swiftstride)
 ---
 # Shifter (Swiftstride)
 *Source: Eberron: Rising from the Last War p. 34*  

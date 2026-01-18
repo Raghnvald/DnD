@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/jttrc
-- ttrpg-cli/item/gear/
-- ttrpg-cli/item/rarity/none
-aliases: 
-- "White Ghost Orchid Seed"
+  - Quelle/5e/jttrc
+  - Gegenstand/gear/
+  - Gegenstand/rarity/none
+aliases:
+  - White Ghost Orchid Seed
 ---
 # White Ghost Orchid Seed
 *Adventuring gear*  

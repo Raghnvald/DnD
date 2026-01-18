@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/cos
-- ttrpg-cli/monster/cr/5
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/undead
+  - Quelle/5e/cos
+  - Monster/HG/5
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/undead
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Knight of the Order
+  - Knight of the Order
 ---
 # [Knight of the Order](3-Mechanics\CLI\bestiary\undead/knight-of-the-order-cos.md)
 *Source: Curse of Strahd p. 139*  

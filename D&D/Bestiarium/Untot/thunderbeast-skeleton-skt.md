@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/skt
-- new/monster/cr/3
-- new/monster/size/huge
-- new/monster/type/undead
+  - Quelle/5e/skt
+  - Monster/HG/3
+  - Monster/Größe/Riesig
+  - Monster/Typ/undead
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Thunderbeast Skeleton
+  - Thunderbeast Skeleton
 ---
 # [Thunderbeast Skeleton](3-Mechanics\CLI\bestiary\undead/thunderbeast-skeleton-skt.md)
 *Source: Storm King's Thunder p. 99*  

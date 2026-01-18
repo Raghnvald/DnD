@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/egw
-- ttrpg-cli/monster/cr/6
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/aberration
+  - Quelle/5e/egw
+  - Monster/HG/6
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/aberration
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Core Spawn Emissary
+  - Core Spawn Emissary
 ---
 # [Core Spawn Emissary](3-Mechanics\CLI\bestiary\aberration/core-spawn-emissary-egw.md)
 *Source: Explorer's Guide to Wildemount p. 286*  

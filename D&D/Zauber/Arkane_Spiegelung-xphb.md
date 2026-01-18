@@ -1,24 +1,24 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-spell
+  - json5e-spell
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/druid
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/level/7th-level
-- ttrpg-cli/spell/school/illusion
-- ttrpg-cli/spell/subclass/arcana-domain
-- ttrpg-cli/spell/subclass/illusionist
+  - Quelle/5e/xphb
+  - Klasse/bard
+  - Klasse/druid
+  - Klasse/wizard
+  - Zauber/Grad/7
+  - Zauber/Schule/illusion
+  - Subklasse/arcana-domain
+  - Subklasse/illusionist
 classes:
-- Bard
-- Cleric (Arcana Domain)
-- Druid
-- Wizard
-- Wizard (Illusionist)
+  - Bard
+  - Cleric (Arcana Domain)
+  - Druid
+  - Wizard
+  - Wizard (Illusionist)
 aliases:
-- Mirage Arcane
+  - Mirage Arcane
 ---
 # Mirage Arcane
 *7th-level, Illusion*  

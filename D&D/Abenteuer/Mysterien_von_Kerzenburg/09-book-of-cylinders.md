@@ -1,11 +1,11 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- new/compendium/src/5e/cm
+  - Quelle/5e/cm
 aliases:
-- Book of Cylinders
+  - Book of Cylinders
 ---
 # Book of Cylinders
 *Source: Candlekeep Mysteries, p. 91* 

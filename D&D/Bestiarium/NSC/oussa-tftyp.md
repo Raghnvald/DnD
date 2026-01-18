@@ -1,17 +1,17 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/tftyp
-- new/monster/cr/3
-- new/monster/size/medium
-- new/monster/type/monstrosity/shapechanger
-- new/monster/type/monstrosity/yuan-ti
+  - Quelle/5e/tftyp
+  - Monster/HG/3
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/monstrosity/shapechanger
+  - Monster/Typ/monstrosity/yuan-ti
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Oussa
+  - Oussa
 ---
 # [Oussa](3-Mechanics\CLI\bestiary\npc/oussa-tftyp.md)
 *Source: Tales from the Yawning Portal p. 157*  

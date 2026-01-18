@@ -1,14 +1,14 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-deity
+  - json5e-deity
 tags:
-- Quelle/5e/phb
-- Kompendium/Götter/dragonlance
-- Kompendium/Götter/domain/peace
-- Kompendium/Götter/domain/war
-aliases: 
-- Paladine
+  - Quelle/5e/phb
+  - Kompendium/Götter/dragonlance
+  - Kompendium/Götter/Domäne/peace
+  - Kompendium/Götter/Domäne/war
+aliases:
+  - Paladine
 ---
 # Paladine
 *Source: Player's Handbook p. 295, Tasha's Cauldron of Everything p. 33* 

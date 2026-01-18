@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/bgg
-- ttrpg-cli/monster/cr/12
-- ttrpg-cli/monster/size/huge
-- ttrpg-cli/monster/type/giant
+  - Quelle/5e/bgg
+  - Monster/HG/12
+  - Monster/Größe/Riesig
+  - Monster/Typ/giant
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Death Giant Reaper
+  - Death Giant Reaper
 ---
 # [Death Giant Reaper](3-Mechanics\CLI\bestiary\giant/death-giant-reaper-bgg.md)
 *Source: Bigby Presents: Glory of the Giants p. 126*  

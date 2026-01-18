@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/veor
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/artifact
-aliases: 
-- "Crown of Lies"
+  - Quelle/5e/veor
+  - Gegenstand/attunement/required
+  - Gegenstand/rarity/artifact
+aliases:
+  - Crown of Lies
 ---
 # Crown of Lies
 *Wondrous item, artifact (requires attunement)*  

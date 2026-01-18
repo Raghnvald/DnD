@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/skt
-- new/monster/cr/0
-- new/monster/size/medium
-- new/monster/type/humanoid/any-race
+  - Quelle/5e/skt
+  - Monster/HG/0
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/humanoid/any-race
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Morak Ur'gray
+  - Morak Ur'gray
 ---
 # [Morak Ur'gray](3-Mechanics\CLI\bestiary\npc/morak-urgray-skt.md)
 *Source: Storm King's Thunder p. 31*  

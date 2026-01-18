@@ -1,14 +1,14 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-deity
+  - json5e-deity
 tags:
-- ttrpg-cli/compendium/src/5e/mtf
-- ttrpg-cli/deity/elven
-- ttrpg-cli/domain/life
-- ttrpg-cli/domain/trickery
-aliases: 
-- Alobal Lorfiril
+  - Quelle/5e/mtf
+  - Kompendium/Götter/elven
+  - Kompendium/Götter/Domäne/life
+  - Kompendium/Götter/Domäne/trickery
+aliases:
+  - Alobal Lorfiril
 ---
 # Alobal Lorfiril
 *Source: Mordenkainen's Tome of Foes p. 43* 

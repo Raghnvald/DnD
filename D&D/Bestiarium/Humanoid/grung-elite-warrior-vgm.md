@@ -1,17 +1,17 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/vgm
-- new/monster/cr/2
-- new/monster/environment/forest
-- new/monster/size/small
-- new/monster/type/humanoid/grung
+  - Quelle/5e/vgm
+  - Monster/HG/2
+  - Monster/Habitat/forest
+  - Monster/Größe/Klein
+  - Monster/Typ/humanoid/grung
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Grung Elite Warrior
+  - Grung Elite Warrior
 ---
 # [Grung Elite Warrior](3-Mechanics\CLI\bestiary\humanoid/grung-elite-warrior-vgm.md)
 *Source: Volo's Guide to Monsters p. 157, Tomb of Annihilation*  

@@ -1,29 +1,29 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/egw
-- ttrpg-cli/item/armor/heavy
-- ttrpg-cli/item/armor/light
-- ttrpg-cli/item/armor/medium
-- ttrpg-cli/item/rarity/very-rare
-- ttrpg-cli/item/wondrous/generic-variant
-aliases: 
-- "Last Stand Armor"
-- "Last Stand Breastplate"
-- "Last Stand Chain Mail"
-- "Last Stand Chain Shirt"
-- "Last Stand Half Plate Armor"
-- "Last Stand Hide Armor"
-- "Last Stand Leather Armor"
-- "Last Stand Padded Armor"
-- "Last Stand Plate Armor"
-- "Last Stand Ring Mail"
-- "Last Stand Scale Mail"
-- "Last Stand Spiked Armor"
-- "Last Stand Splint Armor"
-- "Last Stand Studded Leather Armor"
+  - Quelle/5e/egw
+  - Gegenstand/armor/heavy
+  - Gegenstand/armor/light
+  - Gegenstand/armor/medium
+  - Gegenstand/rarity/very-rare
+  - Gegenstand/wondrous/generic-variant
+aliases:
+  - Last Stand Armor
+  - Last Stand Breastplate
+  - Last Stand Chain Mail
+  - Last Stand Chain Shirt
+  - Last Stand Half Plate Armor
+  - Last Stand Hide Armor
+  - Last Stand Leather Armor
+  - Last Stand Padded Armor
+  - Last Stand Plate Armor
+  - Last Stand Ring Mail
+  - Last Stand Scale Mail
+  - Last Stand Spiked Armor
+  - Last Stand Splint Armor
+  - Last Stand Studded Leather Armor
 ---
 # Last Stand Armor
 *Very rare*  

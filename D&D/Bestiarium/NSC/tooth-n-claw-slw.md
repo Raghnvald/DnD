@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/slw
-- new/monster/cr/3
-- new/monster/size/medium
-- new/monster/type/fiend
+  - Quelle/5e/slw
+  - Monster/HG/3
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/fiend
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Tooth-N-Claw
+  - Tooth-N-Claw
 ---
 # [Tooth-N-Claw](3-Mechanics\CLI\bestiary\npc/tooth-n-claw-slw.md)
 *Source: Storm Lord's Wrath*  

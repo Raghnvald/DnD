@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/gos
-- ttrpg-cli/monster/cr/6
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/construct
+  - Quelle/5e/gos
+  - Monster/HG/6
+  - Monster/Größe/Groß
+  - Monster/Typ/construct
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Minotaur Living Crystal Statue
+  - Minotaur Living Crystal Statue
 ---
 # [Minotaur Living Crystal Statue](3-Mechanics\CLI\bestiary\construct/minotaur-living-crystal-statue-gos.md)
 *Source: Ghosts of Saltmarsh p. 245*  

@@ -1,17 +1,17 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/mtf
-- ttrpg-cli/monster/cr/16
-- ttrpg-cli/monster/environment/mountain
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/aberration
+  - Quelle/5e/mtf
+  - Monster/HG/16
+  - Monster/Habitat/mountain
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/aberration
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Star Spawn Larva Mage
+  - Star Spawn Larva Mage
 ---
 # [Star Spawn Larva Mage](3-Mechanics\CLI\bestiary\aberration/star-spawn-larva-mage-mtf.md)
 *Source: Mordenkainen's Tome of Foes p. 235, Waterdeep: Dungeon of the Mad Mage*  

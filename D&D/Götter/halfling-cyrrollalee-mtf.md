@@ -4,8 +4,8 @@ cssclasses:
 tags:
   - Quelle/5e/mtf
   - Kompendium/Götter/halfling
-  - Kompendium/Götter/domain/life
-  - Kompendium/Götter/domain/peace
+  - Kompendium/Götter/Domäne/life
+  - Kompendium/Götter/Domäne/peace
 aliases:
   - Cyrrollalee
 ---

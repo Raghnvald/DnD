@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/tftyp
-- ttrpg-cli/monster/cr/1
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/undead
+  - Quelle/5e/tftyp
+  - Monster/HG/1
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/undead
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Lacedon
+  - Lacedon
 ---
 # [Lacedon](3-Mechanics\CLI\bestiary\undead/lacedon-tftyp.md)
 *Source: Tales from the Yawning Portal p. 147, Explorer's Guide to Wildemount*  

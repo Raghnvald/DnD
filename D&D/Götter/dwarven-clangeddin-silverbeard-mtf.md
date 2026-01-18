@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-deity
+  - json5e-deity
 tags:
-- ttrpg-cli/compendium/src/5e/mtf
-- ttrpg-cli/deity/dwarven
-- ttrpg-cli/domain/war
-aliases: 
-- Clangeddin Silverbeard
+  - Quelle/5e/mtf
+  - Kompendium/Götter/dwarven
+  - Kompendium/Götter/Domäne/war
+aliases:
+  - Clangeddin Silverbeard
 ---
 # Clangeddin Silverbeard
 *Source: Mordenkainen's Tome of Foes p. 73* 

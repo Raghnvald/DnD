@@ -1,18 +1,18 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-spell
+  - json5e-spell
 tags:
-- ttrpg-cli/compendium/src/5e/phb
-- ttrpg-cli/spell/class/bard/magical-secrets
-- ttrpg-cli/spell/class/druid
-- ttrpg-cli/spell/level/8th-level
-- ttrpg-cli/spell/school/transmutation
+  - Quelle/5e/phb
+  - Klasse/bard/magical-secrets
+  - Klasse/druid
+  - Zauber/Grad/8
+  - Zauber/Schule/transmutation
 classes:
-- Bard (Magical Secrets)
-- Druid
+  - Bard (Magical Secrets)
+  - Druid
 aliases:
-- Animal Shapes
+  - Animal Shapes
 ---
 # Animal Shapes
 *8th-level, Transmutation*  

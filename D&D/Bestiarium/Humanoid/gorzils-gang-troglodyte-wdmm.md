@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/wdmm
-- ttrpg-cli/monster/cr/1-4
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/humanoid/troglodyte
+  - Quelle/5e/wdmm
+  - Monster/HG/1-4
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/humanoid/troglodyte
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Gorzil's Gang Troglodyte
+  - Gorzil's Gang Troglodyte
 ---
 # [Gorzil's Gang Troglodyte](3-Mechanics\CLI\bestiary\humanoid/gorzils-gang-troglodyte-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 150*  

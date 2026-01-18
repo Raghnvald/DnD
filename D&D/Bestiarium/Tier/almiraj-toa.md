@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/toa
-- new/monster/cr/0
-- new/monster/size/small
-- new/monster/type/beast
+  - Quelle/5e/toa
+  - Monster/HG/0
+  - Monster/Größe/Klein
+  - Monster/Typ/beast
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Almiraj
+  - Almiraj
 ---
 # [Almiraj](3-Mechanics\CLI\bestiary\beast/almiraj-toa.md)
 *Source: Tomb of Annihilation p. 211*  

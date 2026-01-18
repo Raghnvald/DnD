@@ -1,11 +1,11 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- ttrpg-cli/compendium/src/5e/wdh
+  - Quelle/5e/wdh
 aliases:
-- Spring Madness
+  - Spring Madness
 ---
 # Spring Madness
 *Source: Waterdeep: Dragon Heist, p. 99* 

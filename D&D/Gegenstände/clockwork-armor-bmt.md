@@ -1,19 +1,19 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- new/compendium/src/5e/bmt
-- new/item/armor/heavy
-- new/item/attunement/required
-- new/item/rarity/very-rare
-- new/item/wondrous/generic-variant
-aliases: 
-- "Clockwork Armor"
-- "Clockwork Chain Mail"
-- "Clockwork Plate Armor"
-- "Clockwork Ring Mail"
-- "Clockwork Splint Armor"
+  - Quelle/5e/bmt
+  - Gegenstand/armor/heavy
+  - Gegenstand/attunement/required
+  - Gegenstand/rarity/very-rare
+  - Gegenstand/wondrous/generic-variant
+aliases:
+  - Clockwork Armor
+  - Clockwork Chain Mail
+  - Clockwork Plate Armor
+  - Clockwork Ring Mail
+  - Clockwork Splint Armor
 ---
 # Clockwork Armor
 *Very rare (requires attunement)*  

@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-deity
+  - json5e-deity
 tags:
-- Quelle/5e/phb
-- Kompendium/Götter/greyhawk
-- Kompendium/Götter/domain/trickery
-aliases: 
-- Ralishaz
+  - Quelle/5e/phb
+  - Kompendium/Götter/greyhawk
+  - Kompendium/Götter/Domäne/trickery
+aliases:
+  - Ralishaz
 ---
 # Ralishaz
 *Source: Player's Handbook p. 295* 

@@ -1,14 +1,14 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-deity
+  - json5e-deity
 tags:
-- Quelle/5e/dmg
-- Kompendium/Götter/dawn-war
-- Kompendium/Götter/domain/life
-- Kompendium/Götter/domain/light
-aliases: 
-- Pelor
+  - Quelle/5e/dmg
+  - Kompendium/Götter/dawn-war
+  - Kompendium/Götter/Domäne/life
+  - Kompendium/Götter/Domäne/light
+aliases:
+  - Pelor
 ---
 # Pelor
 *Source: Dungeon Master's Guide p. 10* 

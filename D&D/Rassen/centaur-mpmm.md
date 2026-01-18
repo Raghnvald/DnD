@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-race
+  - json5e-race
 tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/race/centaur
+  - Quelle/5e/mpmm
+  - Rasse/centaur
 aliases:
-- Centaur
+  - Centaur
 ---
 # Centaur
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 9*  

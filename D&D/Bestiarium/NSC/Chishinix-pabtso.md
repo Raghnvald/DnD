@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/pabtso
-- ttrpg-cli/monster/cr/11
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/aberration
+  - Quelle/5e/pabtso
+  - Monster/HG/11
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/aberration
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Chishinix
+  - Chishinix
 ---
 # [Chishinix](3-Mechanics\CLI\bestiary\npc/chishinix-pabtso.md)
 *Source: Phandelver and Below: The Shattered Obelisk p. 194*  

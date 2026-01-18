@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/cm
-- new/monster/cr/8
-- new/monster/size/medium
-- new/monster/type/humanoid/human
+  - Quelle/5e/cm
+  - Monster/HG/8
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/humanoid/human
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Jade Tigress
+  - Jade Tigress
 ---
 # [Jade Tigress](3-Mechanics\CLI\bestiary\npc/jade-tigress-cm.md)
 *Source: Candlekeep Mysteries p. 166*  

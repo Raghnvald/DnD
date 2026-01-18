@@ -1,17 +1,17 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/tdcsr
-- ttrpg-cli/monster/cr/14
-- ttrpg-cli/monster/environment/mountain
-- ttrpg-cli/monster/size/gargantuan
-- ttrpg-cli/monster/type/monstrosity
+  - Quelle/5e/tdcsr
+  - Monster/HG/14
+  - Monster/Habitat/mountain
+  - Monster/Größe/Gigantisch
+  - Monster/Typ/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Ember Roc
+  - Ember Roc
 ---
 # [Ember Roc](3-Mechanics\CLI\bestiary\monstrosity/ember-roc-tdcsr.md)
 *Source: Tal'Dorei Campaign Setting Reborn p. 238*  

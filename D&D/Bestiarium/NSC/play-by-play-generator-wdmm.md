@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/wdmm
-- ttrpg-cli/monster/cr/1
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/construct
+  - Quelle/5e/wdmm
+  - Monster/HG/1
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/construct
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Play-by-Play Generator
+  - Play-by-Play Generator
 ---
 # [Play-by-Play Generator](3-Mechanics\CLI\bestiary\npc/play-by-play-generator-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 205*  

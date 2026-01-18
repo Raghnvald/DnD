@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-reward
+  - json5e-reward
 tags:
-- new/compendium/src/5e/toa
-- new/reward/charm
+  - Quelle/5e/toa
+  - Kompendium/Belohnung/charm
 aliases:
-- Charm of the Swollen Hag
+  - Charm of the Swollen Hag
 ---
 # Charm of the Swollen Hag
 

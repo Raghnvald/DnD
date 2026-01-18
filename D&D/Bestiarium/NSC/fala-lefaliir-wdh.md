@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/wdh
-- ttrpg-cli/monster/cr/2
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/humanoid/wood-elf
+  - Quelle/5e/wdh
+  - Monster/HG/2
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/humanoid/wood-elf
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Fala Lefaliir
+  - Fala Lefaliir
 ---
 # [Fala Lefaliir](3-Mechanics\CLI\bestiary\npc/fala-lefaliir-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 32*  

@@ -1,17 +1,17 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/tdcsr
-- ttrpg-cli/monster/cr/1-2
-- ttrpg-cli/monster/environment/mountain
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/undead
+  - Quelle/5e/tdcsr
+  - Monster/HG/1-2
+  - Monster/Habitat/mountain
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/undead
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Flaming Skeleton
+  - Flaming Skeleton
 ---
 # [Flaming Skeleton](3-Mechanics\CLI\bestiary\undead/flaming-skeleton-tdcsr.md)
 *Source: Tal'Dorei Campaign Setting Reborn p. 256*  

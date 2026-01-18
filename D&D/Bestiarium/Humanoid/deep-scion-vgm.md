@@ -1,18 +1,18 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/vgm
-- ttrpg-cli/monster/cr/3
-- ttrpg-cli/monster/environment/coastal
-- ttrpg-cli/monster/environment/underwater
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/humanoid/shapechanger
+  - Quelle/5e/vgm
+  - Monster/HG/3
+  - Monster/Habitat/coastal
+  - Monster/Habitat/underwater
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/humanoid/shapechanger
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Deep Scion
+  - Deep Scion
 ---
 # [Deep Scion](3-Mechanics\CLI\bestiary\humanoid/deep-scion-vgm.md)
 *Source: Volo's Guide to Monsters p. 135, Ghosts of Saltmarsh*  

@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/idrotf
-- new/monster/cr/10
-- new/monster/size/huge
-- new/monster/type/construct
+  - Quelle/5e/idrotf
+  - Monster/HG/10
+  - Monster/Größe/Riesig
+  - Monster/Typ/construct
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Tomb Tapper
+  - Tomb Tapper
 ---
 # [Tomb Tapper](3-Mechanics\CLI\bestiary\construct/tomb-tapper-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 310*  

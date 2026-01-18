@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/subrace/half-elf-moon-elf-or-sun-elf-descent
+- Zauber/list/subrace/half-elf-moon-elf-or-sun-elf-descent
 aliases:
 - Spells for Half-Elf (Moon Elf or Sun Elf Descent)
 ---

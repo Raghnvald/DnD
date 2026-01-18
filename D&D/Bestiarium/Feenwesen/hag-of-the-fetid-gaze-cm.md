@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/cm
-- new/monster/cr/3
-- new/monster/size/medium
-- new/monster/type/fey
+  - Quelle/5e/cm
+  - Monster/HG/3
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/fey
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Hag of the Fetid Gaze
+  - Hag of the Fetid Gaze
 ---
 # [Hag of the Fetid Gaze](3-Mechanics\CLI\bestiary\fey/hag-of-the-fetid-gaze-cm.md)
 *Source: Candlekeep Mysteries p. 76*  

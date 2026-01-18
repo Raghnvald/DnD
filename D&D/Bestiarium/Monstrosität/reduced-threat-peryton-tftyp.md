@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/tftyp
-- new/monster/cr/2
-- new/monster/size/medium
-- new/monster/type/monstrosity
+  - Quelle/5e/tftyp
+  - Monster/HG/2
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Reduced-Threat Peryton
+  - Reduced-Threat Peryton
 ---
 # [Reduced-Threat Peryton](3-Mechanics\CLI\bestiary\monstrosity/reduced-threat-peryton-tftyp.md)
 *Source: Tales from the Yawning Portal p. 113*  

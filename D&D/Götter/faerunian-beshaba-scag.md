@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-deity
+  - json5e-deity
 tags:
-- ttrpg-cli/compendium/src/5e/scag
-- ttrpg-cli/deity/faerunian
-- ttrpg-cli/domain/trickery
-aliases: 
-- Beshaba
-- The Maid of Misfortune
-- Lady Doom
-- Black Bess
+  - Quelle/5e/scag
+  - Kompendium/Götter/faerunian
+  - Kompendium/Götter/Domäne/trickery
+aliases:
+  - Beshaba
+  - The Maid of Misfortune
+  - Lady Doom
+  - Black Bess
 ---
 # Beshaba
 *Source: Sword Coast Adventurer's Guide p. 21* 

@@ -1,14 +1,14 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-deity
+  - json5e-deity
 tags:
-- ttrpg-cli/compendium/src/5e/mtf
-- ttrpg-cli/deity/elven
-- ttrpg-cli/domain/knowledge
-- ttrpg-cli/domain/light
-aliases: 
-- Araleth Letheranil
+  - Quelle/5e/mtf
+  - Kompendium/Götter/elven
+  - Kompendium/Götter/Domäne/knowledge
+  - Kompendium/Götter/Domäne/light
+aliases:
+  - Araleth Letheranil
 ---
 # Araleth Letheranil
 *Source: Mordenkainen's Tome of Foes p. 43* 

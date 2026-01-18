@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-deity
+  - json5e-deity
 tags:
-- Quelle/5e/phb
-- Kompendium/Götter/dragonlance
-- Kompendium/Götter/domain/knowledge
-aliases: 
-- Zivilyn
+  - Quelle/5e/phb
+  - Kompendium/Götter/dragonlance
+  - Kompendium/Götter/Domäne/knowledge
+aliases:
+  - Zivilyn
 ---
 # Zivilyn
 *Source: Player's Handbook p. 295* 

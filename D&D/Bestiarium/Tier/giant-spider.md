@@ -1,21 +1,21 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/mm
-- ttrpg-cli/monster/cr/1
-- ttrpg-cli/monster/environment/desert
-- ttrpg-cli/monster/environment/forest
-- ttrpg-cli/monster/environment/swamp
-- ttrpg-cli/monster/environment/underdark
-- ttrpg-cli/monster/environment/urban
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/beast
+  - Quelle/5e/mm
+  - Monster/HG/1
+  - Monster/Habitat/desert
+  - Monster/Habitat/forest
+  - Monster/Habitat/swamp
+  - Monster/Habitat/underdark
+  - Monster/Habitat/urban
+  - Monster/Größe/Groß
+  - Monster/Typ/beast
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Giant Spider
+  - Giant Spider
 ---
 # [Giant Spider](3-Mechanics\CLI\bestiary\beast/giant-spider.md)
 *Source: Monster Manual p. 328, Explorer's Guide to Wildemount. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  

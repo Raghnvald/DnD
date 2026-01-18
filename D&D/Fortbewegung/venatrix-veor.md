@@ -1,14 +1,14 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-vehicle
+  - json5e-vehicle
 tags:
-- ttrpg-cli/compendium/src/5e/veor
-- ttrpg-cli/vehicle/size/gargantuan
-- ttrpg-cli/vehicle/terrain/land
-- ttrpg-cli/vehicle/type/infernal-war-machine
+  - Quelle/5e/veor
+  - Kompendium/vehicle/size/gargantuan
+  - Kompendium/vehicle/terrain/land
+  - Kompendium/vehicle/type/infernal-war-machine
 aliases:
-- Venatrix
+  - Venatrix
 ---
 # Venatrix
 %%-- Embedded content starts on the next line. --%%

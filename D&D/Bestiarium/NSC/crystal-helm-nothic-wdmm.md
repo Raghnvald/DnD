@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/wdmm
-- ttrpg-cli/monster/cr/2
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/aberration
+  - Quelle/5e/wdmm
+  - Monster/HG/2
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/aberration
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Crystal Helm Nothic
+  - Crystal Helm Nothic
 ---
 # [Crystal Helm Nothic](3-Mechanics\CLI\bestiary\npc/crystal-helm-nothic-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 130*  

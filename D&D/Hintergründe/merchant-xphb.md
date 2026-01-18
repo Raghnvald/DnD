@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-background
+  - json5e-background
 tags:
-- ttrpg-cli/background
-- ttrpg-cli/compendium/src/5e/xphb
+  - Kompendium/Hintergrund
+  - Quelle/5e/xphb
 aliases:
-- Merchant
+  - Merchant
 ---
 # Merchant
 *Source: Player's Handbook (2024) p. 182*  

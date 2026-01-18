@@ -4,9 +4,9 @@ cssclasses:
 tags:
   - Quelle/5e/erlw
   - Kompendium/Götter/eberron
-  - Kompendium/Götter/domain/light
-  - Kompendium/Götter/domain/twilight
-  - Kompendium/Götter/domain/war
+  - Kompendium/Götter/Domäne/light
+  - Kompendium/Götter/Domäne/twilight
+  - Kompendium/Götter/Domäne/war
 aliases:
   - Dol Arrah
 ---

@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- ttrpg-cli/compendium/src/5e/ftd
-- ttrpg-cli/monster/legendary-group
+  - Quelle/5e/ftd
+  - Monster/legendary-group
 aliases:
-- Topaz Dragon
+  - Topaz Dragon
 ---
 # Topaz Dragon
 

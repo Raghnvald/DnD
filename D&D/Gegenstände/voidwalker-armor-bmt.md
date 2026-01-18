@@ -1,14 +1,14 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- new/compendium/src/5e/bmt
-- new/item/armor/light
-- new/item/attunement/required
-- new/item/rarity/rare
-aliases: 
-- "Voidwalker Armor"
+  - Quelle/5e/bmt
+  - Gegenstand/armor/light
+  - Gegenstand/attunement/required
+  - Gegenstand/rarity/rare
+aliases:
+  - Voidwalker Armor
 ---
 # Voidwalker Armor
 *Light armor (studded leather armor), cursed item, rare (requires attunement)*  

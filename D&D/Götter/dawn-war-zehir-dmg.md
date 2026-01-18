@@ -1,14 +1,14 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-deity
+  - json5e-deity
 tags:
-- Quelle/5e/dmg
-- Kompendium/Götter/dawn-war
-- Kompendium/Götter/domain/death
-- Kompendium/Götter/domain/trickery
-aliases: 
-- Zehir
+  - Quelle/5e/dmg
+  - Kompendium/Götter/dawn-war
+  - Kompendium/Götter/Domäne/death
+  - Kompendium/Götter/Domäne/trickery
+aliases:
+  - Zehir
 ---
 # Zehir
 *Source: Dungeon Master's Guide p. 10* 

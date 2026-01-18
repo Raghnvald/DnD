@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/egw
-- ttrpg-cli/monster/cr/15
-- ttrpg-cli/monster/size/gargantuan
-- ttrpg-cli/monster/type/aberration
+  - Quelle/5e/egw
+  - Monster/HG/15
+  - Monster/Größe/Gigantisch
+  - Monster/Typ/aberration
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Core Spawn Worm
+  - Core Spawn Worm
 ---
 # [Core Spawn Worm](3-Mechanics\CLI\bestiary\aberration/core-spawn-worm-egw.md)
 *Source: Explorer's Guide to Wildemount p. 287*  

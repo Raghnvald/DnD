@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/tftyp
-- new/monster/cr/1
-- new/monster/size/tiny
-- new/monster/type/fiend/demon
+  - Quelle/5e/tftyp
+  - Monster/HG/1
+  - Monster/Größe/Winzig
+  - Monster/Typ/fiend/demon
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Jot
+  - Jot
 ---
 # [Jot](3-Mechanics\CLI\bestiary\npc/jot-tftyp.md)
 *Source: Tales from the Yawning Portal p. 15*  

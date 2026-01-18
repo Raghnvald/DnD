@@ -1,14 +1,14 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-deity
+  - json5e-deity
 tags:
-- Quelle/5e/phb
-- Kompendium/Götter/nonhuman
-- Kompendium/Götter/domain/nature
-- Kompendium/Götter/domain/tempest
-aliases: 
-- Sekolah
+  - Quelle/5e/phb
+  - Kompendium/Götter/nonhuman
+  - Kompendium/Götter/Domäne/nature
+  - Kompendium/Götter/Domäne/tempest
+aliases:
+  - Sekolah
 ---
 # Sekolah
 *Source: Player's Handbook p. 296* 

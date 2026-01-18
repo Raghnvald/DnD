@@ -1,14 +1,14 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- new/compendium/src/5e/bmt
-- new/item/armor/medium
-- new/item/attunement/required
-- new/item/rarity/rare
-aliases: 
-- "Breastplate of Balance"
+  - Quelle/5e/bmt
+  - Gegenstand/armor/medium
+  - Gegenstand/attunement/required
+  - Gegenstand/rarity/rare
+aliases:
+  - Breastplate of Balance
 ---
 # Breastplate of Balance
 *Medium armor (breastplate), rare (requires attunement)*  

@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-reward
+  - json5e-reward
 tags:
-- Quelle/5e/bgdia
-- Kompendium/reward/charm
+  - Quelle/5e/bgdia
+  - Kompendium/Belohnung/charm
 aliases:
-- Charm of the Adamant
+  - Charm of the Adamant
 ---
 # Charm of the Adamant
 

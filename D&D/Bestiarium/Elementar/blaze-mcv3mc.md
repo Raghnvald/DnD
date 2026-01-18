@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/mcv3mc
-- new/monster/cr/5
-- new/monster/size/medium
-- new/monster/type/elemental
+  - Quelle/5e/mcv3mc
+  - Monster/HG/5
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/elemental
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Blaze
+  - Blaze
 ---
 # [Blaze](3-Mechanics\CLI\bestiary\elemental/blaze-mcv3mc.md)
 *Source: Monstrous Compendium Volume 3: Minecraft Creatures p. 3*  

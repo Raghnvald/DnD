@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/gos
-- ttrpg-cli/monster/cr/4
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/humanoid/lizardfolk
+  - Quelle/5e/gos
+  - Monster/HG/4
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/humanoid/lizardfolk
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Othokent
+  - Othokent
 ---
 # [Othokent](3-Mechanics\CLI\bestiary\npc/othokent-gos.md)
 *Source: Ghosts of Saltmarsh p. 81*  

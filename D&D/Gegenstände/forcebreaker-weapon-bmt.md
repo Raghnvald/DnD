@@ -1,29 +1,29 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- new/compendium/src/5e/bmt
-- new/item/gear/spellcasting-focus
-- new/item/rarity/very-rare
-- new/item/weapon/martial
-- new/item/weapon/melee
-- new/item/weapon/ranged
-- new/item/weapon/simple
-- new/item/wondrous/generic-variant
-aliases: 
-- "Forcebreaker Weapon"
-- "Forcebreaker Club"
-- "Forcebreaker Flail"
-- "Forcebreaker Greatclub"
-- "Forcebreaker Light Hammer"
-- "Forcebreaker Mace"
-- "Forcebreaker Maul"
-- "Forcebreaker Quarterstaff"
-- "Forcebreaker Sling"
-- "Forcebreaker Staff"
-- "Forcebreaker Warhammer"
-- "Forcebreaker Wooden Staff"
+  - Quelle/5e/bmt
+  - Gegenstand/gear/spellcasting-focus
+  - Gegenstand/rarity/very-rare
+  - Gegenstand/weapon/martial
+  - Gegenstand/weapon/melee
+  - Gegenstand/weapon/ranged
+  - Gegenstand/weapon/simple
+  - Gegenstand/wondrous/generic-variant
+aliases:
+  - Forcebreaker Weapon
+  - Forcebreaker Club
+  - Forcebreaker Flail
+  - Forcebreaker Greatclub
+  - Forcebreaker Light Hammer
+  - Forcebreaker Mace
+  - Forcebreaker Maul
+  - Forcebreaker Quarterstaff
+  - Forcebreaker Sling
+  - Forcebreaker Staff
+  - Forcebreaker Warhammer
+  - Forcebreaker Wooden Staff
 ---
 # Forcebreaker Weapon
 *Very rare*  

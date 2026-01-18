@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-reward
+  - json5e-reward
 tags:
-- Quelle/5e/dmg
-- Kompendium/reward/boon
+  - Quelle/5e/dmg
+  - Kompendium/Belohnung/boon
 aliases:
-- Boon of the Night Spirit
+  - Boon of the Night Spirit
 ---
 # Boon of the Night Spirit
 

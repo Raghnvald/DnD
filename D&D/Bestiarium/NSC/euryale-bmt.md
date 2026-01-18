@@ -1,17 +1,17 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/bmt
-- new/monster/cr/18
-- new/monster/size/medium
-- new/monster/type/monstrosity/druid
-- new/monster/type/monstrosity/medusa
+  - Quelle/5e/bmt
+  - Monster/HG/18
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/monstrosity/druid
+  - Monster/Typ/monstrosity/medusa
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Euryale
+  - Euryale
 ---
 # [Euryale](3-Mechanics\CLI\bestiary\npc/euryale-bmt.md)
 *Source: The Book of Many Things p. 189*  

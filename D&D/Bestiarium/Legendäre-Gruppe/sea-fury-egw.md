@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- ttrpg-cli/compendium/src/5e/egw
-- ttrpg-cli/monster/legendary-group
+  - Quelle/5e/egw
+  - Monster/legendary-group
 aliases:
-- Sea Fury
+  - Sea Fury
 ---
 # Sea Fury
 

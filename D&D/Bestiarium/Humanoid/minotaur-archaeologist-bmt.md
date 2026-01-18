@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/bmt
-- new/monster/cr/1-4
-- new/monster/size/medium
-- new/monster/type/humanoid
+  - Quelle/5e/bmt
+  - Monster/HG/1-4
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/humanoid
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Minotaur Archaeologist
+  - Minotaur Archaeologist
 ---
 # [Minotaur Archaeologist](3-Mechanics\CLI\bestiary\humanoid/minotaur-archaeologist-bmt.md)
 *Source: The Book of Many Things p. 126*  

@@ -1,26 +1,26 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-spell
+  - json5e-spell
 tags:
-- ttrpg-cli/compendium/src/5e/tdcsr
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/druid
-- ttrpg-cli/spell/class/ranger
-- ttrpg-cli/spell/class/sorcerer
-- ttrpg-cli/spell/level/3rd-level
-- ttrpg-cli/spell/school/conjuration
-- ttrpg-cli/spell/subclass/college-of-lore
-- ttrpg-cli/spell/subclass/oath-of-the-open-sea
+  - Quelle/5e/tdcsr
+  - Klasse/bard
+  - Klasse/druid
+  - Klasse/ranger
+  - Klasse/sorcerer
+  - Zauber/Grad/3
+  - Zauber/Schule/conjuration
+  - Subklasse/college-of-lore
+  - Subklasse/oath-of-the-open-sea
 classes:
-- Bard
-- Bard (College of Lore)
-- Druid
-- Paladin (Oath of the Open Sea)
-- Ranger
-- Sorcerer
+  - Bard
+  - Bard (College of Lore)
+  - Druid
+  - Paladin (Oath of the Open Sea)
+  - Ranger
+  - Sorcerer
 aliases:
-- Freedom of the Waves
+  - Freedom of the Waves
 ---
 # Freedom of the Waves
 *3rd-level, Conjuration*  

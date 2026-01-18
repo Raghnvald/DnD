@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/tftyp
-- new/monster/cr/1-4
-- new/monster/size/small
-- new/monster/type/humanoid/goblinoid
+  - Quelle/5e/tftyp
+  - Monster/HG/1-4
+  - Monster/Größe/Klein
+  - Monster/Typ/humanoid/goblinoid
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Grenl
+  - Grenl
 ---
 # [Grenl](3-Mechanics\CLI\bestiary\npc/grenl-tftyp.md)
 *Source: Tales from the Yawning Portal p. 25*  

@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/tftyp
-- new/monster/cr/13
-- new/monster/size/large
-- new/monster/type/aberration
+  - Quelle/5e/tftyp
+  - Monster/HG/13
+  - Monster/Größe/Groß
+  - Monster/Typ/aberration
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Reduced-Threat Beholder
+  - Reduced-Threat Beholder
 ---
 # [Reduced-Threat Beholder](3-Mechanics\CLI\bestiary\aberration/reduced-threat-beholder-tftyp.md)
 *Source: Tales from the Yawning Portal p. 113*  

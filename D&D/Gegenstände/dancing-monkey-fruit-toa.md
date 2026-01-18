@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- new/compendium/src/5e/toa
-- new/item/rarity/unknown/magic
-- new/item/wondrous/other
-aliases: 
-- "Dancing Monkey Fruit"
+  - Quelle/5e/toa
+  - Gegenstand/rarity/unknown/magic
+  - Gegenstand/wondrous/other
+aliases:
+  - Dancing Monkey Fruit
 ---
 # Dancing Monkey Fruit
 

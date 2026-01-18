@@ -1,11 +1,11 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- ttrpg-cli/compendium/src/5e/bgg
+  - Quelle/5e/bgg
 aliases:
-- Age; Ancient Behaviors
+  - Age; Ancient Behaviors
 ---
 # Age; Ancient Behaviors
 *Source: Bigby Presents: Glory of the Giants p. 22* 

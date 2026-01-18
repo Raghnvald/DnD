@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- new/compendium/src/5e/skt
-- new/item/attunement/required
-- new/item/rarity/rare
-aliases: 
-- "Banner of the Krig Rune"
+  - Quelle/5e/skt
+  - Gegenstand/attunement/required
+  - Gegenstand/rarity/rare
+aliases:
+  - Banner of the Krig Rune
 ---
 # Banner of the Krig Rune
 *Wondrous item, rare (requires attunement)*  

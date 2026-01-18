@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-background
+  - json5e-background
 tags:
-- Kompendium/background
-- Quelle/5e/bgg
+  - Kompendium/Hintergrund
+  - Quelle/5e/bgg
 aliases:
-- Rune Carver
+  - Rune Carver
 ---
 # Rune Carver
 *Source: Bigby Presents: Glory of the Giants p. 12*  

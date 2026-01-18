@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-deity
+  - json5e-deity
 tags:
-- Quelle/5e/phb
-- Kompendium/Götter/nonhuman
-- Kompendium/Götter/domain/death
-aliases: 
-- Blibdoolpoolp
+  - Quelle/5e/phb
+  - Kompendium/Götter/nonhuman
+  - Kompendium/Götter/Domäne/death
+aliases:
+  - Blibdoolpoolp
 ---
 # Blibdoolpoolp
 *Source: Player's Handbook p. 296* 

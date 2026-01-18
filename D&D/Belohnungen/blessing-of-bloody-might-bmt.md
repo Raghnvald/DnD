@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-reward
+  - json5e-reward
 tags:
-- new/compendium/src/5e/bmt
-- new/reward/blessing
+  - Quelle/5e/bmt
+  - Kompendium/Belohnung/blessing
 aliases:
-- Blessing of Bloody Might
+  - Blessing of Bloody Might
 ---
 # Blessing of Bloody Might
 

@@ -1,14 +1,14 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-deity
+  - json5e-deity
 tags:
-- Quelle/5e/phb
-- Kompendium/Götter/greyhawk
-- Kompendium/Götter/domain/tempest
-- Kompendium/Götter/domain/war
-aliases: 
-- Kord
+  - Quelle/5e/phb
+  - Kompendium/Götter/greyhawk
+  - Kompendium/Götter/Domäne/tempest
+  - Kompendium/Götter/Domäne/war
+aliases:
+  - Kord
 ---
 # Kord
 *Source: Player's Handbook p. 295* 

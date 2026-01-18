@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/skt
-- new/monster/cr/
-- new/monster/size/medium
-- new/monster/type/humanoid/shou-human
+  - Quelle/5e/skt
+  - Monster/HG/
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/humanoid/shou-human
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Zi Liang
+  - Zi Liang
 ---
 # [Zi Liang](3-Mechanics\CLI\bestiary\npc/zi-liang-skt.md)
 *Source: Storm King's Thunder p. 251*  

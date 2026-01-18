@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/veor
-- ttrpg-cli/monster/cr/15
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/fiend
+  - Quelle/5e/veor
+  - Monster/HG/15
+  - Monster/Größe/Groß
+  - Monster/Typ/fiend
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Relentless Impaler
+  - Relentless Impaler
 ---
 # [Relentless Impaler](3-Mechanics\CLI\bestiary\fiend/relentless-impaler-veor.md)
 *Source: Vecna: Eve of Ruin p. 231*  

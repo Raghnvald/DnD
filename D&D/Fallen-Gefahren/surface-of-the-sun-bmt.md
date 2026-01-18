@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-hazard
+  - json5e-hazard
 tags:
-- new/compendium/src/5e/bmt
-- new/hazard/mag
+  - Quelle/5e/bmt
+  - Kompendium/hazard/mag
 aliases:
-- Surface of the Sun
+  - Surface of the Sun
 ---
 # Surface of the Sun
 *Magical Trap*  

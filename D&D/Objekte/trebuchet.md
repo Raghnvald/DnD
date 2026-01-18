@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-object
+  - json5e-object
 tags:
-- Quelle/5e/dmg
-- Kompendium/object/size/huge
-- Kompendium/object/type/siege-weapon
+  - Quelle/5e/dmg
+  - Kompendium/Objekt/size/huge
+  - Kompendium/Objekt/type/siege-weapon
 aliases:
-- Trebuchet
+  - Trebuchet
 ---
 # Trebuchet
 %%-- Embedded content starts on the next line. --%%

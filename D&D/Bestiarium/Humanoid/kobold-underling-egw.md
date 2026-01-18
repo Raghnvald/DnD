@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/egw
-- ttrpg-cli/monster/cr/1-8
-- ttrpg-cli/monster/size/small
-- ttrpg-cli/monster/type/humanoid/kobold
+  - Quelle/5e/egw
+  - Monster/HG/1-8
+  - Monster/Größe/Klein
+  - Monster/Typ/humanoid/kobold
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Kobold Underling
+  - Kobold Underling
 ---
 # [Kobold Underling](3-Mechanics\CLI\bestiary\humanoid/kobold-underling-egw.md)
 *Source: Explorer's Guide to Wildemount p. 221*  

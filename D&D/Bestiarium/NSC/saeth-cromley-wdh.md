@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/wdh
-- ttrpg-cli/monster/cr/3
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/humanoid/illuskan-human
+  - Quelle/5e/wdh
+  - Monster/HG/3
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/humanoid/illuskan-human
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Saeth Cromley
+  - Saeth Cromley
 ---
 # [Saeth Cromley](3-Mechanics\CLI\bestiary\npc/saeth-cromley-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 216*  

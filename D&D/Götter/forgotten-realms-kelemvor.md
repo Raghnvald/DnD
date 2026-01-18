@@ -1,14 +1,14 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-deity
+  - json5e-deity
 tags:
-- Quelle/5e/phb
-- Kompendium/Götter/forgotten-realms
-- Kompendium/Götter/domain/death
-- Kompendium/Götter/domain/grave
-aliases: 
-- Kelemvor
+  - Quelle/5e/phb
+  - Kompendium/Götter/forgotten-realms
+  - Kompendium/Götter/Domäne/death
+  - Kompendium/Götter/Domäne/grave
+aliases:
+  - Kelemvor
 ---
 # Kelemvor
 *Source: Player's Handbook p. 294, Xanathar's Guide to Everything p. 19. Available in the Basic Rules (2014)* 

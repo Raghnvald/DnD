@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/bmt
-- new/monster/cr/9
-- new/monster/size/small
-- new/monster/type/monstrosity
+  - Quelle/5e/bmt
+  - Monster/HG/9
+  - Monster/Größe/Klein
+  - Monster/Typ/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Boss Delour
+  - Boss Delour
 ---
 # [Boss Delour](3-Mechanics\CLI\bestiary\monstrosity/boss-delour-bmt.md)
 *Source: The Book of Many Things p. 83*  

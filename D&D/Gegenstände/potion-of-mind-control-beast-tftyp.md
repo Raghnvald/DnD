@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- new/compendium/src/5e/tftyp
-- new/item/rarity/rare
-- new/item/wondrous/potion
-aliases: 
-- "Potion of Mind Control (beast)"
+  - Quelle/5e/tftyp
+  - Gegenstand/rarity/rare
+  - Gegenstand/wondrous/potion
+aliases:
+  - Potion of Mind Control (beast)
 ---
 # Potion of Mind Control (beast)
 *Potion, rare*  

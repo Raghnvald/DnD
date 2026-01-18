@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/tftyp
-- new/monster/cr/4
-- new/monster/size/huge
-- new/monster/type/beast
+  - Quelle/5e/tftyp
+  - Monster/HG/4
+  - Monster/Größe/Riesig
+  - Monster/Typ/beast
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Giant Subterranean Lizard
+  - Giant Subterranean Lizard
 ---
 # [Giant Subterranean Lizard](3-Mechanics\CLI\bestiary\beast/giant-subterranean-lizard-tftyp.md)
 *Source: Tales from the Yawning Portal p. 236*  

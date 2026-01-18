@@ -1,14 +1,14 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-deity
+  - json5e-deity
 tags:
-- ttrpg-cli/compendium/src/5e/mtf
-- ttrpg-cli/deity/elven
-- ttrpg-cli/domain/tempest
-- ttrpg-cli/domain/trickery
-aliases: 
-- Sarula Iliene
+  - Quelle/5e/mtf
+  - Kompendium/Götter/elven
+  - Kompendium/Götter/Domäne/tempest
+  - Kompendium/Götter/Domäne/trickery
+aliases:
+  - Sarula Iliene
 ---
 # Sarula Iliene
 *Source: Mordenkainen's Tome of Foes p. 43* 

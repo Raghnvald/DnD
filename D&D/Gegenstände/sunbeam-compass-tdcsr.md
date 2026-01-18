@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/tdcsr
-- ttrpg-cli/item/rarity/unknown/magic
-- ttrpg-cli/item/wondrous/other
-aliases: 
-- "Sunbeam Compass"
+  - Quelle/5e/tdcsr
+  - Gegenstand/rarity/unknown/magic
+  - Gegenstand/wondrous/other
+aliases:
+  - Sunbeam Compass
 ---
 # Sunbeam Compass
 *Wondrous item, other*  

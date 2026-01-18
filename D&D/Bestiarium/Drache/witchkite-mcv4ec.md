@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/mcv4ec
-- ttrpg-cli/monster/cr/15
-- ttrpg-cli/monster/size/huge
-- ttrpg-cli/monster/type/dragon/warlock
+  - Quelle/5e/mcv4ec
+  - Monster/HG/15
+  - Monster/Größe/Riesig
+  - Monster/Typ/dragon/warlock
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Witchkite
+  - Witchkite
 ---
 # [Witchkite](3-Mechanics\CLI\bestiary\dragon/witchkite-mcv4ec.md)
 *Source: Monstrous Compendium Volume 4: Eldraine Creatures*  

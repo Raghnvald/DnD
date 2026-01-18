@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-spell
+  - json5e-spell
 tags:
-- new/compendium/src/5e/bmt
-- new/spell/level/3rd-level
-- new/spell/school/enchantment
+  - Quelle/5e/bmt
+  - Zauber/Grad/3
+  - Zauber/Schule/enchantment
 aliases:
-- Antagonize
+  - Antagonize
 ---
 # Antagonize
 *3rd-level, Enchantment*  

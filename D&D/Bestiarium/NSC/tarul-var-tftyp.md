@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/tftyp
-- new/monster/cr/13
-- new/monster/size/medium
-- new/monster/type/undead
+  - Quelle/5e/tftyp
+  - Monster/HG/13
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/undead
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Tarul Var
+  - Tarul Var
 ---
 # [Tarul Var](3-Mechanics\CLI\bestiary\npc/tarul-var-tftyp.md)
 *Source: Tales from the Yawning Portal p. 244*  

@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/tftyp
-- new/monster/cr/4
-- new/monster/size/large
-- new/monster/type/monstrosity
+  - Quelle/5e/tftyp
+  - Monster/HG/4
+  - Monster/Größe/Groß
+  - Monster/Typ/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Tecuziztecatl
+  - Tecuziztecatl
 ---
 # [Tecuziztecatl](3-Mechanics\CLI\bestiary\npc/tecuziztecatl-tftyp.md)
 *Source: Tales from the Yawning Portal p. 245*  

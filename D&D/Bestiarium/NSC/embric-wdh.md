@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/wdh
-- ttrpg-cli/monster/cr/2
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/humanoid/fire-genasi
+  - Quelle/5e/wdh
+  - Monster/HG/2
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/humanoid/fire-genasi
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Embric
+  - Embric
 ---
 # [Embric](3-Mechanics\CLI\bestiary\npc/embric-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 32*  

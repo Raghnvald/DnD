@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/toa
-- new/monster/cr/1-4
-- new/monster/size/medium
-- new/monster/type/undead
+  - Quelle/5e/toa
+  - Monster/HG/1-4
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/undead
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Skeleton Key
+  - Skeleton Key
 ---
 # [Skeleton Key](3-Mechanics\CLI\bestiary\undead/skeleton-key-toa.md)
 *Source: Tomb of Annihilation p. 126*  

@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/wdh
-- ttrpg-cli/monster/cr/1-4
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/beast
+  - Quelle/5e/wdh
+  - Monster/HG/1-4
+  - Monster/Größe/Groß
+  - Monster/Typ/beast
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Maxeene
+  - Maxeene
 ---
 # [Maxeene](3-Mechanics\CLI\bestiary\npc/maxeene-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 37*  

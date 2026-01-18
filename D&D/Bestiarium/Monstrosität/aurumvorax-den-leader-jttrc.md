@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/jttrc
-- ttrpg-cli/monster/cr/4
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/monstrosity
+  - Quelle/5e/jttrc
+  - Monster/HG/4
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Aurumvorax Den Leader
+  - Aurumvorax Den Leader
 ---
 # [Aurumvorax Den Leader](3-Mechanics\CLI\bestiary\monstrosity/aurumvorax-den-leader-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 105*  

@@ -1,11 +1,11 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- ttrpg-cli/compendium/src/5e/mtf
+  - Quelle/5e/mtf
 aliases:
-- Duergar in the World; Duergar Quirks
+  - Duergar in the World; Duergar Quirks
 ---
 # Duergar in the World; Duergar Quirks
 *Source: Mordenkainen's Tome of Foes p. 84* 

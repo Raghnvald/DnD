@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/dmg
-- ttrpg-cli/monster/cr/0
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/fiend
+  - Quelle/5e/dmg
+  - Monster/HG/0
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/fiend
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Larva
+  - Larva
 ---
 # [Larva](3-Mechanics\CLI\bestiary\fiend/larva-dmg.md)
 *Source: Dungeon Master's Guide p. 63*  

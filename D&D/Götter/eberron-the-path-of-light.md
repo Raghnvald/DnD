@@ -1,14 +1,14 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-deity
+  - json5e-deity
 tags:
-- Quelle/5e/phb
-- Kompendium/Götter/eberron
-- Kompendium/Götter/domain/life
-- Kompendium/Götter/domain/light
-aliases: 
-- The Path of Light
+  - Quelle/5e/phb
+  - Kompendium/Götter/eberron
+  - Kompendium/Götter/Domäne/life
+  - Kompendium/Götter/Domäne/light
+aliases:
+  - The Path of Light
 ---
 # The Path of Light
 *Source: Player's Handbook p. 296* 

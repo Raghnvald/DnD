@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/wdh
-- ttrpg-cli/monster/cr/6
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/humanoid/mulan-human
+  - Quelle/5e/wdh
+  - Monster/HG/6
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/humanoid/mulan-human
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Kaevja Cynavern
+  - Kaevja Cynavern
 ---
 # [Kaevja Cynavern](3-Mechanics\CLI\bestiary\npc/kaevja-cynavern-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 158*  

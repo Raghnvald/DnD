@@ -4,8 +4,8 @@ cssclasses:
 tags:
   - Quelle/5e/mtf
   - Kompendium/Götter/gnome
-  - Kompendium/Götter/domain/peace
-  - Kompendium/Götter/domain/war
+  - Kompendium/Götter/Domäne/peace
+  - Kompendium/Götter/Domäne/war
 aliases:
   - Gaerdal Ironhand
 ---

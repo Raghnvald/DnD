@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/toa
-- new/monster/cr/1
-- new/monster/size/medium
-- new/monster/type/construct
+  - Quelle/5e/toa
+  - Monster/HG/1
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/construct
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Mister Threadneedle
+  - Mister Threadneedle
 ---
 # [Mister Threadneedle](3-Mechanics\CLI\bestiary\npc/mister-threadneedle-toa.md)
 *Source: Tomb of Annihilation p. 183*  

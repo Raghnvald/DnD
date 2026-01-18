@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/veor
-- ttrpg-cli/monster/cr/13
-- ttrpg-cli/monster/size/huge
-- ttrpg-cli/monster/type/dragon
+  - Quelle/5e/veor
+  - Monster/HG/13
+  - Monster/Größe/Riesig
+  - Monster/Typ/dragon
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Orinix
+  - Orinix
 ---
 # [Orinix](3-Mechanics\CLI\bestiary\npc/orinix-veor.md)
 *Source: Vecna: Eve of Ruin*  

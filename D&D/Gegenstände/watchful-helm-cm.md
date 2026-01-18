@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- new/compendium/src/5e/cm
-- new/item/attunement/required
-- new/item/rarity/very-rare
-aliases: 
-- "Watchful Helm"
+  - Quelle/5e/cm
+  - Gegenstand/attunement/required
+  - Gegenstand/rarity/very-rare
+aliases:
+  - Watchful Helm
 ---
 # Watchful Helm
 *Wondrous item, very rare (requires attunement)*  

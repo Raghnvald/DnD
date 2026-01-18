@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/toa
-- new/monster/cr/1-2
-- new/monster/size/medium
-- new/monster/type/plant
+  - Quelle/5e/toa
+  - Monster/HG/1-2
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/plant
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Tri-flower Frond
+  - Tri-flower Frond
 ---
 # [Tri-flower Frond](3-Mechanics\CLI\bestiary\plant/tri-flower-frond-toa.md)
 *Source: Tomb of Annihilation p. 234*  

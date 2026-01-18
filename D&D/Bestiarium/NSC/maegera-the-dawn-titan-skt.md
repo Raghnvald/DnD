@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/skt
-- new/monster/cr/23
-- new/monster/size/gargantuan
-- new/monster/type/elemental
+  - Quelle/5e/skt
+  - Monster/HG/23
+  - Monster/Größe/Gigantisch
+  - Monster/Typ/elemental
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Maegera the Dawn Titan
+  - Maegera the Dawn Titan
 ---
 # [Maegera the Dawn Titan](3-Mechanics\CLI\bestiary\npc/maegera-the-dawn-titan-skt.md)
 *Source: Storm King's Thunder p. 241*  

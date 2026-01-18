@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/idrotf
-- new/monster/cr/5
-- new/monster/size/small
-- new/monster/type/aberration
+  - Quelle/5e/idrotf
+  - Monster/HG/5
+  - Monster/Größe/Klein
+  - Monster/Typ/aberration
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Gnome Ceremorph
+  - Gnome Ceremorph
 ---
 # [Gnome Ceremorph](3-Mechanics\CLI\bestiary\aberration/gnome-ceremorph-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 303*  

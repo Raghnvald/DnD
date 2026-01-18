@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/tftyp
-- new/monster/cr/3
-- new/monster/size/large
-- new/monster/type/monstrosity
+  - Quelle/5e/tftyp
+  - Monster/HG/3
+  - Monster/Größe/Groß
+  - Monster/Typ/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Kalka-Kylla
+  - Kalka-Kylla
 ---
 # [Kalka-Kylla](3-Mechanics\CLI\bestiary\npc/kalka-kylla-tftyp.md)
 *Source: Tales from the Yawning Portal p. 238*  

@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-deity
+  - json5e-deity
 tags:
-- ttrpg-cli/compendium/src/5e/scag
-- ttrpg-cli/deity/faerunian
-- ttrpg-cli/domain/tempest
-aliases: 
-- Umberlee
-- The Bitch Queen
-- The Queen of the Depths
-- The Wavemother
+  - Quelle/5e/scag
+  - Kompendium/Götter/faerunian
+  - Kompendium/Götter/Domäne/tempest
+aliases:
+  - Umberlee
+  - The Bitch Queen
+  - The Queen of the Depths
+  - The Wavemother
 ---
 # Umberlee
 *Source: Sword Coast Adventurer's Guide p. 21* 

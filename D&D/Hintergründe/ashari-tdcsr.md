@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-background
+  - json5e-background
 tags:
-- ttrpg-cli/background
-- ttrpg-cli/compendium/src/5e/tdcsr
+  - Kompendium/Hintergrund
+  - Quelle/5e/tdcsr
 aliases:
-- Ashari
+  - Ashari
 ---
 # Ashari
 *Source: Tal'Dorei Campaign Setting Reborn p. 180*  

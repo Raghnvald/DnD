@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- new/compendium/src/5e/bmt
-- new/item/attunement/required
-- new/item/rarity/uncommon
-aliases: 
-- "Blasted Goggles"
+  - Quelle/5e/bmt
+  - Gegenstand/attunement/required
+  - Gegenstand/rarity/uncommon
+aliases:
+  - Blasted Goggles
 ---
 # Blasted Goggles
 *Wondrous item, uncommon (requires attunement)*  

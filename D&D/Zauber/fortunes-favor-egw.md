@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-spell
+  - json5e-spell
 tags:
-- ttrpg-cli/compendium/src/5e/egw
-- ttrpg-cli/spell/level/2nd-level
-- ttrpg-cli/spell/school/divination
+  - Quelle/5e/egw
+  - Zauber/Grad/2
+  - Zauber/Schule/divination
 aliases:
-- Fortune's Favor
+  - Fortune's Favor
 ---
 # Fortune's Favor
 *2nd-level, Divination*  

@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/wdh
-- ttrpg-cli/monster/cr/7
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/aberration
+  - Quelle/5e/wdh
+  - Monster/HG/7
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/aberration
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Nihiloor
+  - Nihiloor
 ---
 # [Nihiloor](3-Mechanics\CLI\bestiary\npc/nihiloor-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 212*  

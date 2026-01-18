@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-race
+  - json5e-race
 tags:
-- new/compendium/src/5e/erlw
-- new/race/halfling/mark-of-healing
+  - Quelle/5e/erlw
+  - Rasse/halfling/mark-of-healing
 aliases:
-- Halfling (Mark of Healing)
+  - Halfling (Mark of Healing)
 ---
 # Halfling (Mark of Healing)
 *Source: Eberron: Rising from the Last War p. 43*  

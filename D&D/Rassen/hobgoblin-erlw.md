@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-race
+  - json5e-race
 tags:
-- new/compendium/src/5e/erlw
-- new/race/hobgoblin
+  - Quelle/5e/erlw
+  - Rasse/hobgoblin
 aliases:
-- Hobgoblin
+  - Hobgoblin
 ---
 # Hobgoblin
 *Source: Eberron: Rising from the Last War p. 26*  

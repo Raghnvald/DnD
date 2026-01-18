@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/bmt
-- new/monster/cr/9
-- new/monster/size/medium
-- new/monster/type/monstrosity
+  - Quelle/5e/bmt
+  - Monster/HG/9
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Boss Augustus
+  - Boss Augustus
 ---
 # [Boss Augustus](3-Mechanics\CLI\bestiary\monstrosity/boss-augustus-bmt.md)
 *Source: The Book of Many Things p. 82*  

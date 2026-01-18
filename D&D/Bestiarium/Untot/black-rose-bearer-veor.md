@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/veor
-- ttrpg-cli/monster/cr/6
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/undead
+  - Quelle/5e/veor
+  - Monster/HG/6
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/undead
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Black Rose Bearer
+  - Black Rose Bearer
 ---
 # [Black Rose Bearer](3-Mechanics\CLI\bestiary\undead/black-rose-bearer-veor.md)
 *Source: Vecna: Eve of Ruin p. 208*  

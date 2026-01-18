@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/egw
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/very-rare
-aliases: 
-- "Orb of the Veil"
+  - Quelle/5e/egw
+  - Gegenstand/attunement/required
+  - Gegenstand/rarity/very-rare
+aliases:
+  - Orb of the Veil
 ---
 # Orb of the Veil
 *Wondrous item, cursed item, very rare (requires attunement)*  

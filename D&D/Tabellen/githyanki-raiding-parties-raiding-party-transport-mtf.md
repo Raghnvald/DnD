@@ -1,11 +1,11 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- ttrpg-cli/compendium/src/5e/mtf
+  - Quelle/5e/mtf
 aliases:
-- Githyanki Raiding Parties; Raiding Party Transport
+  - Githyanki Raiding Parties; Raiding Party Transport
 ---
 # Githyanki Raiding Parties; Raiding Party Transport
 *Source: Mordenkainen's Tome of Foes p. 98* 

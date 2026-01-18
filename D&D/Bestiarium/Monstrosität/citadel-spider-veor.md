@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/veor
-- ttrpg-cli/monster/cr/18
-- ttrpg-cli/monster/size/gargantuan
-- ttrpg-cli/monster/type/monstrosity
+  - Quelle/5e/veor
+  - Monster/HG/18
+  - Monster/Größe/Gigantisch
+  - Monster/Typ/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Citadel Spider
+  - Citadel Spider
 ---
 # [Citadel Spider](3-Mechanics\CLI\bestiary\monstrosity/citadel-spider-veor.md)
 *Source: Vecna: Eve of Ruin p. 214*  

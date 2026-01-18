@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-deity
+  - json5e-deity
 tags:
-- ttrpg-cli/compendium/src/5e/tdcsr
-- ttrpg-cli/deity/exandria
-- ttrpg-cli/domain/death
-- ttrpg-cli/domain/grave
-- ttrpg-cli/domain/twilight
-aliases: 
-- The Matron of Ravens
-- Raven Queen
+  - Quelle/5e/tdcsr
+  - Kompendium/Götter/exandria
+  - Kompendium/Götter/Domäne/death
+  - Kompendium/Götter/Domäne/grave
+  - Kompendium/Götter/Domäne/twilight
+aliases:
+  - The Matron of Ravens
+  - Raven Queen
 ---
 # The Matron of Ravens
 *Source: Tal'Dorei Campaign Setting Reborn p. 32* 

@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- ttrpg-cli/compendium/src/5e/rot
+  - Quelle/5e/rot
 aliases:
-- Chapter 14: Metallic Dragons, Arise
+  - Chapter 14: Metallic Dragons, Arise
 ---
 # Chapter 14: Metallic Dragons, Arise
 *Source: Rise of Tiamat, p. 144* 

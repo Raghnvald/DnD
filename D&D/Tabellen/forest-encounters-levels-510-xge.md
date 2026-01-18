@@ -1,11 +1,11 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- ttrpg-cli/compendium/src/5e/xge
+  - Quelle/5e/xge
 aliases:
-- Forest Encounters (Levels 5—10)
+  - Forest Encounters (Levels 5—10)
 ---
 # Forest Encounters (Levels 5—10)
 *Source: Xanathar's Guide to Everything p. 97* 

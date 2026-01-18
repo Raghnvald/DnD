@@ -1,17 +1,17 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/erlw
-- new/monster/cr/1-2
-- new/monster/size/medium
-- new/monster/type/humanoid/changeling
-- new/monster/type/humanoid/shapechanger
+  - Quelle/5e/erlw
+  - Monster/HG/1-2
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/humanoid/changeling
+  - Monster/Typ/humanoid/shapechanger
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Changeling
+  - Changeling
 ---
 # [Changeling](3-Mechanics\CLI\bestiary\humanoid/changeling-erlw.md)
 *Source: Eberron: Rising from the Last War p. 317*  

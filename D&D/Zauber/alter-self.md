@@ -1,27 +1,27 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-spell
+  - json5e-spell
 tags:
-- ttrpg-cli/compendium/src/5e/phb
-- ttrpg-cli/spell/class/bard/magical-secrets
-- ttrpg-cli/spell/class/sorcerer
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/level/2nd-level
-- ttrpg-cli/spell/optfeature/master-of-myriad-forms
-- ttrpg-cli/spell/school/transmutation
-- ttrpg-cli/spell/subclass/arcane-trickster
-- ttrpg-cli/spell/subclass/circle-of-the-moon
-- ttrpg-cli/spell/subclass/eldritch-knight
+  - Quelle/5e/phb
+  - Klasse/bard/magical-secrets
+  - Klasse/sorcerer
+  - Klasse/wizard
+  - Zauber/Grad/2
+  - Zauber/optfeature/master-of-myriad-forms
+  - Zauber/Schule/transmutation
+  - Subklasse/arcane-trickster
+  - Subklasse/circle-of-the-moon
+  - Subklasse/eldritch-knight
 classes:
-- Bard (Magical Secrets)
-- Druid (Circle of the Moon)
-- Fighter (Eldritch Knight)
-- Rogue (Arcane Trickster)
-- Sorcerer
-- Wizard
+  - Bard (Magical Secrets)
+  - Druid (Circle of the Moon)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Wizard
 aliases:
-- Alter Self
+  - Alter Self
 ---
 # Alter Self
 *2nd-level, Transmutation*  

@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- new/compendium/src/5e/toa
-- new/item/rarity/none
-- new/item/vehicle/ship-water
-aliases: 
-- "Canoe"
+  - Quelle/5e/toa
+  - Gegenstand/rarity/none
+  - Gegenstand/vehicle/ship-water
+aliases:
+  - Canoe
 ---
 # Canoe
 *Ship, vehicle (water)*  

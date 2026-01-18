@@ -4,8 +4,8 @@ cssclasses:
 tags:
   - Quelle/5e/scag
   - Kompendium/Götter/faerunian
-  - Kompendium/Götter/domain/life
-  - Kompendium/Götter/domain/twilight
+  - Kompendium/Götter/Domäne/life
+  - Kompendium/Götter/Domäne/twilight
 aliases:
   - Ilmater
   - The Crying God

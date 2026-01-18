@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/tftyp
-- new/monster/cr/1-4
-- new/monster/size/small
-- new/monster/type/construct
+  - Quelle/5e/tftyp
+  - Monster/HG/1-4
+  - Monster/Größe/Klein
+  - Monster/Typ/construct
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Flying Shield
+  - Flying Shield
 ---
 # [Flying Shield](3-Mechanics\CLI\bestiary\construct/flying-shield-tftyp.md)
 *Source: Tales from the Yawning Portal p. 224*  

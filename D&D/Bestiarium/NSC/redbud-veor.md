@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/veor
-- ttrpg-cli/monster/cr/9
-- ttrpg-cli/monster/size/huge
-- ttrpg-cli/monster/type/plant
+  - Quelle/5e/veor
+  - Monster/HG/9
+  - Monster/Größe/Riesig
+  - Monster/Typ/plant
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Redbud
+  - Redbud
 ---
 # [Redbud](3-Mechanics\CLI\bestiary\npc/redbud-veor.md)
 *Source: Vecna: Eve of Ruin*  

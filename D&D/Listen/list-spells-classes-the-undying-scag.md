@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/subclass/the-undying
+- Zauber/list/subclass/the-undying
 aliases:
 - Spells for The Undying
 ---

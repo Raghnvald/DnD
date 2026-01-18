@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-feat
+  - json5e-feat
 tags:
-- ttrpg-cli/compendium/src/5e/phb
-- ttrpg-cli/feat
+  - Quelle/5e/phb
+  - Kompendium/Talent
 aliases:
-- Ritual Caster
+  - Ritual Caster
 ---
 # Ritual Caster
 *Source: Player's Handbook p. 169*  

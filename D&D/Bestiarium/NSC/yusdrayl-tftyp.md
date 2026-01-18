@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/tftyp
-- new/monster/cr/1
-- new/monster/size/small
-- new/monster/type/humanoid/kobold
+  - Quelle/5e/tftyp
+  - Monster/HG/1
+  - Monster/Größe/Klein
+  - Monster/Typ/humanoid/kobold
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Yusdrayl
+  - Yusdrayl
 ---
 # [Yusdrayl](3-Mechanics\CLI\bestiary\npc/yusdrayl-tftyp.md)
 *Source: Tales from the Yawning Portal p. 248*  

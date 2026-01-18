@@ -1,14 +1,14 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-deity
+  - json5e-deity
 tags:
-- Quelle/5e/dmg
-- Kompendium/Götter/dawn-war
-- Kompendium/Götter/domain/order
-- Kompendium/Götter/domain/war
-aliases: 
-- Bane
+  - Quelle/5e/dmg
+  - Kompendium/Götter/dawn-war
+  - Kompendium/Götter/Domäne/order
+  - Kompendium/Götter/Domäne/war
+aliases:
+  - Bane
 ---
 # Bane
 *Source: Dungeon Master's Guide p. 10* 

@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/egw
-- ttrpg-cli/monster/cr/8
-- ttrpg-cli/monster/size/gargantuan
-- ttrpg-cli/monster/type/monstrosity
+  - Quelle/5e/egw
+  - Monster/HG/8
+  - Monster/Größe/Gigantisch
+  - Monster/Typ/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Horizonback Tortoise
+  - Horizonback Tortoise
 ---
 # [Horizonback Tortoise](3-Mechanics\CLI\bestiary\monstrosity/horizonback-tortoise-egw.md)
 *Source: Explorer's Guide to Wildemount p. 292*  

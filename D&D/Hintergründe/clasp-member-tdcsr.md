@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-background
+  - json5e-background
 tags:
-- ttrpg-cli/background
-- ttrpg-cli/compendium/src/5e/tdcsr
+  - Kompendium/Hintergrund
+  - Quelle/5e/tdcsr
 aliases:
-- Clasp Member
+  - Clasp Member
 ---
 # Clasp Member
 *Source: Tal'Dorei Campaign Setting Reborn p. 181*  

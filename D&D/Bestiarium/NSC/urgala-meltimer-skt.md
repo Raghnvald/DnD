@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/skt
-- new/monster/cr/
-- new/monster/size/medium
-- new/monster/type/humanoid/turami-human
+  - Quelle/5e/skt
+  - Monster/HG/
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/humanoid/turami-human
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Urgala Meltimer
+  - Urgala Meltimer
 ---
 # [Urgala Meltimer](3-Mechanics\CLI\bestiary\npc/urgala-meltimer-skt.md)
 *Source: Storm King's Thunder p. 254*  

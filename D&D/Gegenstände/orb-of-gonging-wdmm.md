@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/wdmm
-- ttrpg-cli/item/rarity/common
-aliases: 
-- "Orb of Gonging"
+  - Quelle/5e/wdmm
+  - Gegenstand/rarity/common
+aliases:
+  - Orb of Gonging
 ---
 # Orb of Gonging
 *Wondrous item, common*  

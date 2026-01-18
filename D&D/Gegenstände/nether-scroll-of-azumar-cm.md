@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- new/compendium/src/5e/cm
-- new/item/rarity/legendary
-- new/item/wondrous/scroll
-aliases: 
-- "Nether Scroll of Azumar"
+  - Quelle/5e/cm
+  - Gegenstand/rarity/legendary
+  - Gegenstand/wondrous/scroll
+aliases:
+  - Nether Scroll of Azumar
 ---
 # Nether Scroll of Azumar
 *Scroll, legendary*  

@@ -1,18 +1,18 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/vgm
-- new/monster/cr/1-4
-- new/monster/environment/grassland
-- new/monster/environment/swamp
-- new/monster/size/large
-- new/monster/type/beast
+  - Quelle/5e/vgm
+  - Monster/HG/1-4
+  - Monster/Habitat/grassland
+  - Monster/Habitat/swamp
+  - Monster/Größe/Groß
+  - Monster/Typ/beast
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Hadrosaurus
+  - Hadrosaurus
 ---
 # [Hadrosaurus](3-Mechanics\CLI\bestiary\beast/hadrosaurus-vgm.md)
 *Source: Volo's Guide to Monsters p. 140, Tomb of Annihilation*  

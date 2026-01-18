@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/feat/mystic-conflux
+- Zauber/list/feat/mystic-conflux
 aliases:
 - Spells for Mystic Conflux
 ---

@@ -1,17 +1,17 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-deity
+  - json5e-deity
 tags:
-- ttrpg-cli/compendium/src/5e/tdcsr
-- ttrpg-cli/deity/exandria
-- ttrpg-cli/domain/moon
-- ttrpg-cli/domain/nature
-- ttrpg-cli/domain/trickery
-aliases: 
-- The Changebringer
-- She Who Makes the Path
-- Avandra
+  - Quelle/5e/tdcsr
+  - Kompendium/Götter/exandria
+  - Kompendium/Götter/Domäne/moon
+  - Kompendium/Götter/Domäne/nature
+  - Kompendium/Götter/Domäne/trickery
+aliases:
+  - The Changebringer
+  - She Who Makes the Path
+  - Avandra
 ---
 # The Changebringer
 *Source: Tal'Dorei Campaign Setting Reborn p. 28* 

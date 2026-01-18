@@ -4,7 +4,7 @@ cssclasses:
 - json5e-feat
 tags:
 - Quelle/5e/phb
-- Kompendium/optional-feature/mv-b
+- Kompendium/Optionales/mv-b
 aliases:
 - Pushing Attack
 ---

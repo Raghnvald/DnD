@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/wdmm
-- ttrpg-cli/monster/cr/9
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/humanoid/human
+  - Quelle/5e/wdmm
+  - Monster/HG/9
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/humanoid/human
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Portia Dzuth
+  - Portia Dzuth
 ---
 # [Portia Dzuth](3-Mechanics\CLI\bestiary\npc/portia-dzuth-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 239*  

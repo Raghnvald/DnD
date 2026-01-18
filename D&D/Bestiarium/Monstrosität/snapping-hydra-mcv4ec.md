@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/mcv4ec
-- ttrpg-cli/monster/cr/11
-- ttrpg-cli/monster/size/huge
-- ttrpg-cli/monster/type/monstrosity
+  - Quelle/5e/mcv4ec
+  - Monster/HG/11
+  - Monster/Größe/Riesig
+  - Monster/Typ/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Snapping Hydra
+  - Snapping Hydra
 ---
 # [Snapping Hydra](3-Mechanics\CLI\bestiary\monstrosity/snapping-hydra-mcv4ec.md)
 *Source: Monstrous Compendium Volume 4: Eldraine Creatures*  

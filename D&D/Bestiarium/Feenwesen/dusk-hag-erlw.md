@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/erlw
-- new/monster/cr/6
-- new/monster/size/medium
-- new/monster/type/fey
+  - Quelle/5e/erlw
+  - Monster/HG/6
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/fey
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Dusk Hag
+  - Dusk Hag
 ---
 # [Dusk Hag](3-Mechanics\CLI\bestiary\fey/dusk-hag-erlw.md)
 *Source: Eberron: Rising from the Last War p. 292*  

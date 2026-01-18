@@ -1,15 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-deity
+  - json5e-deity
 tags:
-- new/compendium/src/5e/erlw
-- new/deity/eberron
-- new/domain/grave
-- new/domain/knowledge
-- new/domain/life
-aliases: 
-- The Undying Court
+  - Quelle/5e/erlw
+  - Kompendium/Götter/eberron
+  - Kompendium/Götter/Domäne/grave
+  - Kompendium/Götter/Domäne/knowledge
+  - Kompendium/Götter/Domäne/life
+aliases:
+  - The Undying Court
 ---
 # The Undying Court
 *Source: Eberron: Rising from the Last War p. 141* 

@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- new/compendium/src/5e/toa
-- new/item/rarity/unknown/magic
-- new/item/shield/
-aliases: 
-- "Shield of Shouting"
+  - Quelle/5e/toa
+  - Gegenstand/rarity/unknown/magic
+  - Gegenstand/shield/
+aliases:
+  - Shield of Shouting
 ---
 # Shield of Shouting
 *Armor (shield)*  

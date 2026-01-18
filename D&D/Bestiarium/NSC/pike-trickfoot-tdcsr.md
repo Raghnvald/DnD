@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/tdcsr
-- ttrpg-cli/monster/cr/17
-- ttrpg-cli/monster/size/small
-- ttrpg-cli/monster/type/humanoid/gnome
+  - Quelle/5e/tdcsr
+  - Monster/HG/17
+  - Monster/Größe/Klein
+  - Monster/Typ/humanoid/gnome
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Pike Trickfoot
+  - Pike Trickfoot
 ---
 # [Pike Trickfoot](3-Mechanics\CLI\bestiary\npc/pike-trickfoot-tdcsr.md)
 *Source: Tal'Dorei Campaign Setting Reborn p. 269*  

@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/tdcsr
-- ttrpg-cli/item/gear/mount
-- ttrpg-cli/item/rarity/none
-aliases: 
-- "Plainscow"
+  - Quelle/5e/tdcsr
+  - Gegenstand/gear/mount
+  - Gegenstand/rarity/none
+aliases:
+  - Plainscow
 ---
 # Plainscow
 *Mount*  

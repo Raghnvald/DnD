@@ -1,11 +1,11 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-deck
+  - json5e-deck
 tags:
-- new/compendium/src/5e/toa
+  - Quelle/5e/toa
 aliases:
-- Trickster Gods of Omu
+  - Trickster Gods of Omu
 ---
 # Trickster Gods of Omu
 *Source: Tomb of Annihilation p. 256*  

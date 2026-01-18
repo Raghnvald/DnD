@@ -1,14 +1,14 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/wdmm
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/uncommon
-- ttrpg-cli/item/wondrous/other
-aliases: 
-- "Circlet of Human Perfection"
+  - Quelle/5e/wdmm
+  - Gegenstand/attunement/required
+  - Gegenstand/rarity/uncommon
+  - Gegenstand/wondrous/other
+aliases:
+  - Circlet of Human Perfection
 ---
 # Circlet of Human Perfection
 *Uncommon (requires attunement by a humanoid)*  

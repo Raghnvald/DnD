@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/egw
-- ttrpg-cli/monster/cr/1-2
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/humanoid/elf
+  - Quelle/5e/egw
+  - Monster/HG/1-2
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/humanoid/elf
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Yinra Emberwind
+  - Yinra Emberwind
 ---
 # [Yinra Emberwind](3-Mechanics\CLI\bestiary\npc/yinra-emberwind-egw.md)
 *Source: Explorer's Guide to Wildemount p. 223*  

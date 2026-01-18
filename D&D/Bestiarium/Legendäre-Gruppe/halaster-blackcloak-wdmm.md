@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- ttrpg-cli/compendium/src/5e/wdmm
-- ttrpg-cli/monster/legendary-group
+  - Quelle/5e/wdmm
+  - Monster/legendary-group
 aliases:
-- Halaster Blackcloak
+  - Halaster Blackcloak
 ---
 # Halaster Blackcloak
 

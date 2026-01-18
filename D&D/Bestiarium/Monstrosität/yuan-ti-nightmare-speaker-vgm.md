@@ -1,20 +1,20 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/vgm
-- new/monster/cr/4
-- new/monster/environment/desert
-- new/monster/environment/forest
-- new/monster/environment/underdark
-- new/monster/size/medium
-- new/monster/type/monstrosity/shapechanger
-- new/monster/type/monstrosity/yuan-ti
+  - Quelle/5e/vgm
+  - Monster/HG/4
+  - Monster/Habitat/desert
+  - Monster/Habitat/forest
+  - Monster/Habitat/underdark
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/monstrosity/shapechanger
+  - Monster/Typ/monstrosity/yuan-ti
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Yuan-ti Nightmare Speaker
+  - Yuan-ti Nightmare Speaker
 ---
 # [Yuan-ti Nightmare Speaker](3-Mechanics\CLI\bestiary\monstrosity/yuan-ti-nightmare-speaker-vgm.md)
 *Source: Volo's Guide to Monsters p. 205, Tomb of Annihilation*  

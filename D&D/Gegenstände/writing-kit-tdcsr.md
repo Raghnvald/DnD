@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/tdcsr
-- ttrpg-cli/item/gear/
-- ttrpg-cli/item/rarity/none
-aliases: 
-- "Writing Kit"
+  - Quelle/5e/tdcsr
+  - Gegenstand/gear/
+  - Gegenstand/rarity/none
+aliases:
+  - Writing Kit
 ---
 # Writing Kit
 *Adventuring gear*  

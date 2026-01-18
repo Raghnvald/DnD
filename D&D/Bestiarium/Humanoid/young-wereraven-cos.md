@@ -1,17 +1,17 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/cos
-- ttrpg-cli/monster/cr/2
-- ttrpg-cli/monster/size/small
-- ttrpg-cli/monster/type/humanoid/human
-- ttrpg-cli/monster/type/humanoid/shapechanger
+  - Quelle/5e/cos
+  - Monster/HG/2
+  - Monster/Größe/Klein
+  - Monster/Typ/humanoid/human
+  - Monster/Typ/humanoid/shapechanger
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Young Wereraven
+  - Young Wereraven
 ---
 # [Young Wereraven](3-Mechanics\CLI\bestiary\humanoid/young-wereraven-cos.md)
 *Source: Curse of Strahd p. 98*  

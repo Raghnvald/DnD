@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- new/compendium/src/5e/idrotf
-- new/item/attunement/required
-- new/item/rarity/uncommon
-aliases: 
-- "Psi Crystal"
+  - Quelle/5e/idrotf
+  - Gegenstand/attunement/required
+  - Gegenstand/rarity/uncommon
+aliases:
+  - Psi Crystal
 ---
 # Psi Crystal
 *Wondrous item, uncommon (requires attunement by a creature with an intelligence score of 3 or higher)*  

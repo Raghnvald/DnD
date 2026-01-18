@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- new/compendium/src/5e/erlw
-- new/item/gear/
-- new/item/rarity/none
-aliases: 
-- "Mournland Trinket"
+  - Quelle/5e/erlw
+  - Gegenstand/gear/
+  - Gegenstand/rarity/none
+aliases:
+  - Mournland Trinket
 ---
 # Mournland Trinket
 *Adventuring gear*  

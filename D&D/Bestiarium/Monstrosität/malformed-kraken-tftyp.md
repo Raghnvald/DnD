@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/tftyp
-- new/monster/cr/10
-- new/monster/size/huge
-- new/monster/type/monstrosity
+  - Quelle/5e/tftyp
+  - Monster/HG/10
+  - Monster/Größe/Riesig
+  - Monster/Typ/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Malformed Kraken
+  - Malformed Kraken
 ---
 # [Malformed Kraken](3-Mechanics\CLI\bestiary\monstrosity/malformed-kraken-tftyp.md)
 *Source: Tales from the Yawning Portal p. 239*  

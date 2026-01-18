@@ -1,14 +1,14 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- new/compendium/src/5e/bmt
-- new/item/rarity/uncommon
-- new/item/weapon/martial
-- new/item/weapon/melee
-aliases: 
-- "Bloodrage Greataxe"
+  - Quelle/5e/bmt
+  - Gegenstand/rarity/uncommon
+  - Gegenstand/weapon/martial
+  - Gegenstand/weapon/melee
+aliases:
+  - Bloodrage Greataxe
 ---
 # Bloodrage Greataxe
 *Weapon (greataxe), uncommon*  

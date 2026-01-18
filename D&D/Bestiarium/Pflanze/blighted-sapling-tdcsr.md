@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/tdcsr
-- ttrpg-cli/monster/cr/
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/plant
+  - Quelle/5e/tdcsr
+  - Monster/HG/
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/plant
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Blighted Sapling
+  - Blighted Sapling
 ---
 # [Blighted Sapling](3-Mechanics\CLI\bestiary\plant/blighted-sapling-tdcsr.md)
 *Source: Tal'Dorei Campaign Setting Reborn p. 172*  

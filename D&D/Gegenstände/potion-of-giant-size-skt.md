@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- new/compendium/src/5e/skt
-- new/item/rarity/legendary
-- new/item/wondrous/potion
-aliases: 
-- "Potion of Giant Size"
+  - Quelle/5e/skt
+  - Gegenstand/rarity/legendary
+  - Gegenstand/wondrous/potion
+aliases:
+  - Potion of Giant Size
 ---
 # Potion of Giant Size
 *Potion, legendary*  

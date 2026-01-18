@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/subrace/tiefling-glasya
+- Zauber/list/subrace/tiefling-glasya
 aliases:
 - Spells for Tiefling (Glasya)
 ---

@@ -3,7 +3,7 @@ cssclasses:
   - json5e-class
 tags:
   - Quelle/5e/xphb
-  - Kompendium/Götter/domain/trickery
+  - Kompendium/Götter/Domäne/trickery
   - Klasse/Kleriker/trickery
 aliases:
   - Trickery Domain

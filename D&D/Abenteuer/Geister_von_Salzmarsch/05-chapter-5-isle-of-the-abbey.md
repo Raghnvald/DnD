@@ -1,11 +1,11 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- ttrpg-cli/compendium/src/5e/gos
+  - Quelle/5e/gos
 aliases:
-- Chapter 5: Isle of the Abbey
+  - Chapter 5: Isle of the Abbey
 ---
 # Chapter 5: Isle of the Abbey
 *Source: Ghosts of Saltmarsh, p. 97* 

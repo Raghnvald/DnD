@@ -1,17 +1,17 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-deity
+  - json5e-deity
 tags:
-- ttrpg-cli/compendium/src/5e/scag
-- ttrpg-cli/deity/faerunian
-- ttrpg-cli/domain/life
-- ttrpg-cli/domain/light
-aliases: 
-- Lathander
-- The Morninglord
-- Inspiration's Dawn
-- The Rose-and-Gold God
+  - Quelle/5e/scag
+  - Kompendium/Götter/faerunian
+  - Kompendium/Götter/Domäne/life
+  - Kompendium/Götter/Domäne/light
+aliases:
+  - Lathander
+  - The Morninglord
+  - Inspiration's Dawn
+  - The Rose-and-Gold God
 ---
 # Lathander
 *Source: Sword Coast Adventurer's Guide p. 21* 

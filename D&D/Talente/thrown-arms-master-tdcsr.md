@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-feat
+  - json5e-feat
 tags:
-- ttrpg-cli/compendium/src/5e/tdcsr
-- ttrpg-cli/feat
+  - Quelle/5e/tdcsr
+  - Kompendium/Talent
 aliases:
-- Thrown Arms Master
+  - Thrown Arms Master
 ---
 # Thrown Arms Master
 *Source: Tal'Dorei Campaign Setting Reborn p. 191*  

@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- ttrpg-cli/compendium/src/5e/fs
+  - Quelle/5e/fs
 aliases:
-- Credits
+  - Credits
 ---
 # Credits
 *Source: Wildemount: Frozen Sick* 

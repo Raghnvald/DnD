@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-object
+  - json5e-object
 tags:
-- new/compendium/src/5e/bmt
-- new/object/size/gargantuan
-- new/object/type/unknown
+  - Quelle/5e/bmt
+  - Kompendium/Objekt/size/gargantuan
+  - Kompendium/Objekt/type/unknown
 aliases:
-- Unborn Palanquin
+  - Unborn Palanquin
 ---
 # Unborn Palanquin
 %%-- Embedded content starts on the next line. --%%

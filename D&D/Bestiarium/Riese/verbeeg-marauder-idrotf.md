@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/idrotf
-- new/monster/cr/4
-- new/monster/size/large
-- new/monster/type/giant
+  - Quelle/5e/idrotf
+  - Monster/HG/4
+  - Monster/Größe/Groß
+  - Monster/Typ/giant
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Verbeeg Marauder
+  - Verbeeg Marauder
 ---
 # [Verbeeg Marauder](3-Mechanics\CLI\bestiary\giant/verbeeg-marauder-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 311*  

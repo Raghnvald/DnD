@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/toa
-- new/monster/cr/1
-- new/monster/size/large
-- new/monster/type/plant
+  - Quelle/5e/toa
+  - Monster/HG/1
+  - Monster/Größe/Groß
+  - Monster/Typ/plant
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Mantrap
+  - Mantrap
 ---
 # [Mantrap](3-Mechanics\CLI\bestiary\plant/mantrap-toa.md)
 *Source: Tomb of Annihilation p. 227*  

@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/wdmm
-- ttrpg-cli/monster/cr/4
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/ooze
+  - Quelle/5e/wdmm
+  - Monster/HG/4
+  - Monster/Größe/Groß
+  - Monster/Typ/ooze
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Intelligent Black Pudding
+  - Intelligent Black Pudding
 ---
 # [Intelligent Black Pudding](3-Mechanics\CLI\bestiary\ooze/intelligent-black-pudding-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 244*  

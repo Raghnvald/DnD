@@ -1,15 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/tdcsr
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/legendary
-- ttrpg-cli/item/weapon/melee
-- ttrpg-cli/item/weapon/simple
-aliases: 
-- "Spire of Conflux (Exalted)"
+  - Quelle/5e/tdcsr
+  - Gegenstand/attunement/required
+  - Gegenstand/rarity/legendary
+  - Gegenstand/weapon/melee
+  - Gegenstand/weapon/simple
+aliases:
+  - Spire of Conflux (Exalted)
 ---
 # Spire of Conflux (Exalted)
 *Staff, weapon, legendary (requires attunement by a spellcaster)*  

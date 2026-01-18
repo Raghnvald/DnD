@@ -1,14 +1,14 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- new/compendium/src/5e/toa
-- new/item/attunement/required
-- new/item/rarity/unknown/magic
-- new/item/wondrous/other
-aliases: 
-- "Petrified Grung Egg"
+  - Quelle/5e/toa
+  - Gegenstand/attunement/required
+  - Gegenstand/rarity/unknown/magic
+  - Gegenstand/wondrous/other
+aliases:
+  - Petrified Grung Egg
 ---
 # Petrified Grung Egg
 *(Requires attunement by a spellcaster)*  

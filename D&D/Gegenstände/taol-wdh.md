@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/wdh
-- ttrpg-cli/item/gear/treasure-coinage
-- ttrpg-cli/item/rarity/none
-aliases: 
-- "Taol"
+  - Quelle/5e/wdh
+  - Gegenstand/gear/treasure-coinage
+  - Gegenstand/rarity/none
+aliases:
+  - Taol
 ---
 # Taol
 *Treasure (coinage)*  

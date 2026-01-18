@@ -4,8 +4,8 @@ cssclasses:
 tags:
   - Quelle/5e/mtf
   - Kompendium/Götter/halfling
-  - Kompendium/Götter/domain/life
-  - Kompendium/Götter/domain/twilight
+  - Kompendium/Götter/Domäne/life
+  - Kompendium/Götter/Domäne/twilight
 aliases:
   - Yondalla
 ---

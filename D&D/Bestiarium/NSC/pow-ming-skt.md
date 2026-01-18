@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/skt
-- new/monster/cr/6
-- new/monster/size/medium
-- new/monster/type/humanoid/human
+  - Quelle/5e/skt
+  - Monster/HG/6
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/humanoid/human
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Pow Ming
+  - Pow Ming
 ---
 # [Pow Ming](3-Mechanics\CLI\bestiary\npc/pow-ming-skt.md)
 *Source: Storm King's Thunder p. 216*  

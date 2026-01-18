@@ -1,15 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-deity
+  - json5e-deity
 tags:
-- ttrpg-cli/compendium/src/5e/mtf
-- ttrpg-cli/deity/halfling
-- ttrpg-cli/domain/death
-- ttrpg-cli/domain/grave
-- ttrpg-cli/domain/knowledge
-aliases: 
-- Urogalan
+  - Quelle/5e/mtf
+  - Kompendium/Götter/halfling
+  - Kompendium/Götter/Domäne/death
+  - Kompendium/Götter/Domäne/grave
+  - Kompendium/Götter/Domäne/knowledge
+aliases:
+  - Urogalan
 ---
 # Urogalan
 *Source: Mordenkainen's Tome of Foes p. 104* 

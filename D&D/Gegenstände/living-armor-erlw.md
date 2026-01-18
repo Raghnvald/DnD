@@ -1,30 +1,30 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- new/compendium/src/5e/erlw
-- new/item/armor/heavy
-- new/item/armor/light
-- new/item/armor/medium
-- new/item/attunement/required
-- new/item/rarity/very-rare
-- new/item/wondrous/generic-variant
-aliases: 
-- "Living Armor"
-- "Living Breastplate"
-- "Living Chain Mail"
-- "Living Chain Shirt"
-- "Living Half Plate Armor"
-- "Living Hide Armor"
-- "Living Leather Armor"
-- "Living Padded Armor"
-- "Living Plate Armor"
-- "Living Ring Mail"
-- "Living Scale Mail"
-- "Living Spiked Armor"
-- "Living Splint Armor"
-- "Living Studded Leather Armor"
+  - Quelle/5e/erlw
+  - Gegenstand/armor/heavy
+  - Gegenstand/armor/light
+  - Gegenstand/armor/medium
+  - Gegenstand/attunement/required
+  - Gegenstand/rarity/very-rare
+  - Gegenstand/wondrous/generic-variant
+aliases:
+  - Living Armor
+  - Living Breastplate
+  - Living Chain Mail
+  - Living Chain Shirt
+  - Living Half Plate Armor
+  - Living Hide Armor
+  - Living Leather Armor
+  - Living Padded Armor
+  - Living Plate Armor
+  - Living Ring Mail
+  - Living Scale Mail
+  - Living Spiked Armor
+  - Living Splint Armor
+  - Living Studded Leather Armor
 ---
 # Living Armor
 *Very rare (requires attunement)*  

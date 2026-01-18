@@ -1,15 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/tdcsr
-- ttrpg-cli/item/armor/light
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/unknown/magic
-- ttrpg-cli/item/tier/major
-aliases: 
-- "+2 Studded White Dragon Leather Armor of Cold Resistance"
+  - Quelle/5e/tdcsr
+  - Gegenstand/armor/light
+  - Gegenstand/attunement/required
+  - Gegenstand/rarity/unknown/magic
+  - Gegenstand/tier/major
+aliases:
+  - +2 Studded White Dragon Leather Armor of Cold Resistance
 ---
 # +2 Studded White Dragon Leather Armor of Cold Resistance
 *Light armor, major (requires attunement)*  

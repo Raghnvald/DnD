@@ -1,14 +1,14 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/wdh
-- ttrpg-cli/item/rarity/unknown
-- ttrpg-cli/item/weapon/martial
-- ttrpg-cli/item/weapon/ranged
-aliases: 
-- "Oversized Longbow"
+  - Quelle/5e/wdh
+  - Gegenstand/rarity/unknown
+  - Gegenstand/weapon/martial
+  - Gegenstand/weapon/ranged
+aliases:
+  - Oversized Longbow
 ---
 # Oversized Longbow
 *Weapon*  

@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/subrace/tiefling-dispater
+- Zauber/list/subrace/tiefling-dispater
 aliases:
 - Spells for Tiefling (Dispater)
 ---

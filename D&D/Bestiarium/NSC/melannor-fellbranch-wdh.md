@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/wdh
-- ttrpg-cli/monster/cr/2
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/humanoid/half-elf
+  - Quelle/5e/wdh
+  - Monster/HG/2
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/humanoid/half-elf
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Melannor Fellbranch
+  - Melannor Fellbranch
 ---
 # [Melannor Fellbranch](3-Mechanics\CLI\bestiary\npc/melannor-fellbranch-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 36*  

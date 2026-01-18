@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/gos
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/rare
-aliases: 
-- "Charm of Plant Command"
+  - Quelle/5e/gos
+  - Gegenstand/attunement/required
+  - Gegenstand/rarity/rare
+aliases:
+  - Charm of Plant Command
 ---
 # Charm of Plant Command
 *Wondrous item, rare (requires attunement)*  

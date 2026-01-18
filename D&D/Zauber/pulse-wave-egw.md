@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-spell
+  - json5e-spell
 tags:
-- ttrpg-cli/compendium/src/5e/egw
-- ttrpg-cli/spell/level/3rd-level
-- ttrpg-cli/spell/school/evocation
+  - Quelle/5e/egw
+  - Zauber/Grad/3
+  - Zauber/Schule/evocation
 aliases:
-- Pulse Wave
+  - Pulse Wave
 ---
 # Pulse Wave
 *3rd-level, Evocation*  

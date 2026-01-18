@@ -1,11 +1,11 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- ttrpg-cli/compendium/src/5e/jttrc
+  - Quelle/5e/jttrc
 aliases:
-- Welcome to the Radiant Citadel
+  - Welcome to the Radiant Citadel
 ---
 # Welcome to the Radiant Citadel
 *Source: Journeys through the Radiant Citadel, p. 4* 

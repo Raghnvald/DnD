@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/tdcsr
-- ttrpg-cli/item/rarity/rare
-aliases: 
-- "Stormrider Boots"
+  - Quelle/5e/tdcsr
+  - Gegenstand/rarity/rare
+aliases:
+  - Stormrider Boots
 ---
 # Stormrider Boots
 *Wondrous item, rare*  

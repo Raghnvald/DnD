@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/wdh
-- ttrpg-cli/monster/cr/18
-- ttrpg-cli/monster/size/gargantuan
-- ttrpg-cli/monster/type/construct
+  - Quelle/5e/wdh
+  - Monster/HG/18
+  - Monster/Größe/Gigantisch
+  - Monster/Typ/construct
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Walking Statue of Waterdeep
+  - Walking Statue of Waterdeep
 ---
 # [Walking Statue of Waterdeep](3-Mechanics\CLI\bestiary\construct/walking-statue-of-waterdeep-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 219*  

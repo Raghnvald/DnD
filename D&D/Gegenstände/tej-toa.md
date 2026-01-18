@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- new/compendium/src/5e/toa
-- new/item/gear/food-and-drink
-- new/item/rarity/none
-aliases: 
-- "Tej"
+  - Quelle/5e/toa
+  - Gegenstand/gear/food-and-drink
+  - Gegenstand/rarity/none
+aliases:
+  - Tej
 ---
 # Tej
 *Food and drink*  

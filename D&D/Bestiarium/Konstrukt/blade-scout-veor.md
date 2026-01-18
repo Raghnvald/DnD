@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/veor
-- ttrpg-cli/monster/cr/7
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/construct/warforged
+  - Quelle/5e/veor
+  - Monster/HG/7
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/construct/warforged
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Blade Scout
+  - Blade Scout
 ---
 # [Blade Scout](3-Mechanics\CLI\bestiary\construct/blade-scout-veor.md)
 *Source: Vecna: Eve of Ruin p. 209*  

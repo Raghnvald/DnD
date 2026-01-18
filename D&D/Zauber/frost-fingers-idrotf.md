@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-spell
+  - json5e-spell
 tags:
-- new/compendium/src/5e/idrotf
-- new/spell/level/1st-level
-- new/spell/school/evocation
+  - Quelle/5e/idrotf
+  - Zauber/Grad/1
+  - Zauber/Schule/evocation
 aliases:
-- Frost Fingers
+  - Frost Fingers
 ---
 # Frost Fingers
 *1st-level, Evocation*  

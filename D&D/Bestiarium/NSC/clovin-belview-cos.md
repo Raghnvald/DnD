@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/cos
-- ttrpg-cli/monster/cr/1-4
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/humanoid/mongrelfolk
+  - Quelle/5e/cos
+  - Monster/HG/1-4
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/humanoid/mongrelfolk
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Clovin Belview
+  - Clovin Belview
 ---
 # [Clovin Belview](3-Mechanics\CLI\bestiary\npc/clovin-belview-cos.md)
 *Source: Curse of Strahd p. 147*  

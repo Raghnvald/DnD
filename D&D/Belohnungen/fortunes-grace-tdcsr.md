@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-reward
+  - json5e-reward
 tags:
-- ttrpg-cli/compendium/src/5e/tdcsr
-- ttrpg-cli/reward/blessing
+  - Quelle/5e/tdcsr
+  - Kompendium/Belohnung/blessing
 aliases:
-- Fortune's Grace
+  - Fortune's Grace
 ---
 # Fortune's Grace
 *Blessing*  

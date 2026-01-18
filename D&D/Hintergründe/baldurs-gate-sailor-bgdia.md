@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-background
 tags:
-  - Kompendium/background
+  - Kompendium/Hintergrund
   - Quelle/5e/bgdia
 aliases:
   - Baldur's Gate Sailor

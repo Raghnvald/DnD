@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/mcv4ec
-- ttrpg-cli/monster/cr/3
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/monstrosity/elf
+  - Quelle/5e/mcv4ec
+  - Monster/HG/3
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/monstrosity/elf
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Redtooth Werefox
+  - Redtooth Werefox
 ---
 # [Redtooth Werefox](3-Mechanics\CLI\bestiary\monstrosity/redtooth-werefox-mcv4ec.md)
 *Source: Monstrous Compendium Volume 4: Eldraine Creatures*  

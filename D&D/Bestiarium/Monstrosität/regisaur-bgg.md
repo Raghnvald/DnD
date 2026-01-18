@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/bgg
-- ttrpg-cli/monster/cr/14
-- ttrpg-cli/monster/size/gargantuan
-- ttrpg-cli/monster/type/monstrosity/dinosaur
+  - Quelle/5e/bgg
+  - Monster/HG/14
+  - Monster/Größe/Gigantisch
+  - Monster/Typ/monstrosity/dinosaur
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Regisaur
+  - Regisaur
 ---
 # [Regisaur](3-Mechanics\CLI\bestiary\monstrosity/regisaur-bgg.md)
 *Source: Bigby Presents: Glory of the Giants p. 130*  

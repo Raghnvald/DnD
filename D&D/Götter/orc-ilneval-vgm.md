@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-deity
+  - json5e-deity
 tags:
-- Quelle/5e/vgm
-- Kompendium/Götter/orc
-- Kompendium/Götter/domain/war
-aliases: 
-- Ilneval
+  - Quelle/5e/vgm
+  - Kompendium/Götter/orc
+  - Kompendium/Götter/Domäne/war
+aliases:
+  - Ilneval
 ---
 # Ilneval
 *Source: Volo's Guide to Monsters p. 83* 

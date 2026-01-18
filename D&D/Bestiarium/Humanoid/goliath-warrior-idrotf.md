@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/idrotf
-- new/monster/cr/3
-- new/monster/size/medium
-- new/monster/type/humanoid/goliath
+  - Quelle/5e/idrotf
+  - Monster/HG/3
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/humanoid/goliath
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Goliath Warrior
+  - Goliath Warrior
 ---
 # [Goliath Warrior](3-Mechanics\CLI\bestiary\humanoid/goliath-warrior-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 292*  

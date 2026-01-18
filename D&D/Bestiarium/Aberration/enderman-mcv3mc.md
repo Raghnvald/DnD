@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/mcv3mc
-- new/monster/cr/6
-- new/monster/size/medium
-- new/monster/type/aberration
+  - Quelle/5e/mcv3mc
+  - Monster/HG/6
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/aberration
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Enderman
+  - Enderman
 ---
 # [Enderman](3-Mechanics\CLI\bestiary\aberration/enderman-mcv3mc.md)
 *Source: Monstrous Compendium Volume 3: Minecraft Creatures p. 6*  

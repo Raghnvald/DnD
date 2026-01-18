@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-background
+  - json5e-background
 tags:
-- ttrpg-cli/background
-- ttrpg-cli/compendium/src/5e/scag
+  - Kompendium/Hintergrund
+  - Quelle/5e/scag
 aliases:
-- Knight of the Order
+  - Knight of the Order
 ---
 # Knight of the Order
 *Source: Sword Coast Adventurer's Guide p. 151*  

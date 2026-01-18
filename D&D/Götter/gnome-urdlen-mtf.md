@@ -1,14 +1,14 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-deity
+  - json5e-deity
 tags:
-- ttrpg-cli/compendium/src/5e/mtf
-- ttrpg-cli/deity/gnome
-- ttrpg-cli/domain/death
-- ttrpg-cli/domain/war
-aliases: 
-- Urdlen
+  - Quelle/5e/mtf
+  - Kompendium/Götter/gnome
+  - Kompendium/Götter/Domäne/death
+  - Kompendium/Götter/Domäne/war
+aliases:
+  - Urdlen
 ---
 # Urdlen
 *Source: Mordenkainen's Tome of Foes p. 112* 

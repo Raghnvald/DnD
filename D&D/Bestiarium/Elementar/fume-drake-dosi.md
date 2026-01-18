@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/dosi
-- new/monster/cr/1-4
-- new/monster/size/small
-- new/monster/type/elemental
+  - Quelle/5e/dosi
+  - Monster/HG/1-4
+  - Monster/Größe/Klein
+  - Monster/Typ/elemental
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Fume Drake
+  - Fume Drake
 ---
 # [Fume Drake](3-Mechanics\CLI\bestiary\elemental/fume-drake-dosi.md)
 *Source: Dragons of Stormwreck Isle p. 41*  

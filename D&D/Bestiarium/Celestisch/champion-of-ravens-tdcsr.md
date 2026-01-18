@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/tdcsr
-- ttrpg-cli/monster/cr/21
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/celestial
+  - Quelle/5e/tdcsr
+  - Monster/HG/21
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/celestial
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Champion of Ravens
+  - Champion of Ravens
 ---
 # [Champion of Ravens](3-Mechanics\CLI\bestiary\celestial/champion-of-ravens-tdcsr.md)
 *Source: Tal'Dorei Campaign Setting Reborn p. 275*  

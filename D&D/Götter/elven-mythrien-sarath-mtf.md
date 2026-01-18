@@ -1,15 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-deity
+  - json5e-deity
 tags:
-- ttrpg-cli/compendium/src/5e/mtf
-- ttrpg-cli/deity/elven
-- ttrpg-cli/domain/arcana
-- ttrpg-cli/domain/forge
-- ttrpg-cli/domain/knowledge
-aliases: 
-- Mythrien Sarath
+  - Quelle/5e/mtf
+  - Kompendium/Götter/elven
+  - Kompendium/Götter/Domäne/arcana
+  - Kompendium/Götter/Domäne/forge
+  - Kompendium/Götter/Domäne/knowledge
+aliases:
+  - Mythrien Sarath
 ---
 # Mythrien Sarath
 *Source: Mordenkainen's Tome of Foes p. 43* 

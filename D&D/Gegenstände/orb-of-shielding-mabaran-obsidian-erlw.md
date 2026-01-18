@@ -1,17 +1,17 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- new/compendium/src/5e/erlw
-- new/item/attunement/required
-- new/item/gear/spellcasting-focus
-- new/item/rarity/common
-- new/item/wondrous/generic-variant
-aliases: 
-- "Orb of Shielding (Mabaran Obsidian)"
-- "Mabaran Obsidian Crystal"
-- "Mabaran Obsidian Orb"
+  - Quelle/5e/erlw
+  - Gegenstand/attunement/required
+  - Gegenstand/gear/spellcasting-focus
+  - Gegenstand/rarity/common
+  - Gegenstand/wondrous/generic-variant
+aliases:
+  - Orb of Shielding (Mabaran Obsidian)
+  - Mabaran Obsidian Crystal
+  - Mabaran Obsidian Orb
 ---
 # Orb of Shielding (Mabaran Obsidian)
 *Wondrous item, common (requires attunement)*  

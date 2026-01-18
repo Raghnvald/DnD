@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- new/compendium/src/5e/bmt
-- new/item/attunement/required
-- new/item/rarity/rare
-aliases: 
-- "Donjon's Sundering Sphere"
+  - Quelle/5e/bmt
+  - Gegenstand/attunement/required
+  - Gegenstand/rarity/rare
+aliases:
+  - Donjon's Sundering Sphere
 ---
 # Donjon's Sundering Sphere
 *Wondrous item, rare (requires attunement)*  

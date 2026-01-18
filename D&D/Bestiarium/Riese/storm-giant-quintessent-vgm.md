@@ -1,21 +1,21 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/vgm
-- ttrpg-cli/monster/cr/16
-- ttrpg-cli/monster/environment/arctic
-- ttrpg-cli/monster/environment/coastal
-- ttrpg-cli/monster/environment/desert
-- ttrpg-cli/monster/environment/mountain
-- ttrpg-cli/monster/environment/underwater
-- ttrpg-cli/monster/size/huge
-- ttrpg-cli/monster/type/giant/storm-giant
+  - Quelle/5e/vgm
+  - Monster/HG/16
+  - Monster/Habitat/arctic
+  - Monster/Habitat/coastal
+  - Monster/Habitat/desert
+  - Monster/Habitat/mountain
+  - Monster/Habitat/underwater
+  - Monster/Größe/Riesig
+  - Monster/Typ/giant/storm-giant
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Storm Giant Quintessent
+  - Storm Giant Quintessent
 ---
 # [Storm Giant Quintessent](3-Mechanics\CLI\bestiary\giant/storm-giant-quintessent-vgm.md)
 *Source: Volo's Guide to Monsters p. 151, Ghosts of Saltmarsh*  

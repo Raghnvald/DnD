@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/jttrc
-- ttrpg-cli/monster/cr/1-2
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/humanoid/any-race
+  - Quelle/5e/jttrc
+  - Monster/HG/1-2
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/humanoid/any-race
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Laleh Ghorbani
+  - Laleh Ghorbani
 ---
 # [Laleh Ghorbani](3-Mechanics\CLI\bestiary\npc/laleh-ghorbani-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 156*  

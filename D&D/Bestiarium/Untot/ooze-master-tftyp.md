@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/tftyp
-- new/monster/cr/10
-- new/monster/size/huge
-- new/monster/type/undead
+  - Quelle/5e/tftyp
+  - Monster/HG/10
+  - Monster/Größe/Riesig
+  - Monster/Typ/undead
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Ooze Master
+  - Ooze Master
 ---
 # [Ooze Master](3-Mechanics\CLI\bestiary\undead/ooze-master-tftyp.md)
 *Source: Tales from the Yawning Portal p. 241*  

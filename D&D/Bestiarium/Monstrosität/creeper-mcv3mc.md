@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/mcv3mc
-- new/monster/cr/1-2
-- new/monster/size/medium
-- new/monster/type/monstrosity
+  - Quelle/5e/mcv3mc
+  - Monster/HG/1-2
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Creeper
+  - Creeper
 ---
 # [Creeper](3-Mechanics\CLI\bestiary\monstrosity/creeper-mcv3mc.md)
 *Source: Monstrous Compendium Volume 3: Minecraft Creatures p. 4*  

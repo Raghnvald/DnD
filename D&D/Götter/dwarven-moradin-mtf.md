@@ -4,8 +4,8 @@ cssclasses:
 tags:
   - Quelle/5e/mtf
   - Kompendium/Götter/dwarven
-  - Kompendium/Götter/domain/forge
-  - Kompendium/Götter/domain/knowledge
+  - Kompendium/Götter/Domäne/forge
+  - Kompendium/Götter/Domäne/knowledge
 aliases:
   - Moradin
 ---

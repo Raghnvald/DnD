@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/egw
-- ttrpg-cli/monster/cr/1
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/beast
+  - Quelle/5e/egw
+  - Monster/HG/1
+  - Monster/Größe/Groß
+  - Monster/Typ/beast
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Old Croaker
+  - Old Croaker
 ---
 # [Old Croaker](3-Mechanics\CLI\bestiary\npc/old-croaker-egw.md)
 *Source: Explorer's Guide to Wildemount p. 240*  

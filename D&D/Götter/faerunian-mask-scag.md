@@ -1,15 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-deity
+  - json5e-deity
 tags:
-- ttrpg-cli/compendium/src/5e/scag
-- ttrpg-cli/deity/faerunian
-- ttrpg-cli/domain/trickery
-aliases: 
-- Mask
-- The Lord of Shadows
-- The Master of All Thieves
+  - Quelle/5e/scag
+  - Kompendium/Götter/faerunian
+  - Kompendium/Götter/Domäne/trickery
+aliases:
+  - Mask
+  - The Lord of Shadows
+  - The Master of All Thieves
 ---
 # Mask
 *Source: Sword Coast Adventurer's Guide p. 21* 

@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/wdh
-- ttrpg-cli/monster/cr/3
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/monstrosity/shapechanger
+  - Quelle/5e/wdh
+  - Monster/HG/3
+  - Monster/Größe/Groß
+  - Monster/Typ/monstrosity/shapechanger
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Dining Table Mimic
+  - Dining Table Mimic
 ---
 # [Dining Table Mimic](3-Mechanics\CLI\bestiary\monstrosity/dining-table-mimic-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 122*  

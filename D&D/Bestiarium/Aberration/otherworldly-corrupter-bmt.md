@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/bmt
-- new/monster/cr/17
-- new/monster/size/small-or-medium
-- new/monster/type/aberration
+  - Quelle/5e/bmt
+  - Monster/HG/17
+  - Monster/Größe/Klein-oder-Mittelgroß
+  - Monster/Typ/aberration
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Otherworldly Corrupter
+  - Otherworldly Corrupter
 ---
 # [Otherworldly Corrupter](3-Mechanics\CLI\bestiary\aberration/otherworldly-corrupter-bmt.md)
 *Source: The Book of Many Things p. 47*  

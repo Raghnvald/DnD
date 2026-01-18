@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/bmt
-- new/monster/cr/15
-- new/monster/size/medium
-- new/monster/type/undead
+  - Quelle/5e/bmt
+  - Monster/HG/15
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/undead
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Grim Champion of Pestilence
+  - Grim Champion of Pestilence
 ---
 # [Grim Champion of Pestilence](3-Mechanics\CLI\bestiary\undead/grim-champion-of-pestilence-bmt.md)
 *Source: The Book of Many Things p. 163*  

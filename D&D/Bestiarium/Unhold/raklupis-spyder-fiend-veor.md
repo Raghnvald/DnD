@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/veor
-- ttrpg-cli/monster/cr/19
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/fiend/demon
+  - Quelle/5e/veor
+  - Monster/HG/19
+  - Monster/Größe/Groß
+  - Monster/Typ/fiend/demon
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Raklupis Spyder-Fiend
+  - Raklupis Spyder-Fiend
 ---
 # [Raklupis Spyder-Fiend](3-Mechanics\CLI\bestiary\fiend/raklupis-spyder-fiend-veor.md)
 *Source: Vecna: Eve of Ruin p. 236*  

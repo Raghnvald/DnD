@@ -1,15 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- new/compendium/src/5e/mcv2dc
-- new/item/attunement/required
-- new/item/rarity/legendary
-- new/item/weapon/melee
-- new/item/weapon/simple
-aliases: 
-- "Nightbringer"
+  - Quelle/5e/mcv2dc
+  - Gegenstand/attunement/required
+  - Gegenstand/rarity/legendary
+  - Gegenstand/weapon/melee
+  - Gegenstand/weapon/simple
+aliases:
+  - Nightbringer
 ---
 # Nightbringer
 *Weapon (mace), legendary (requires attunement)*  

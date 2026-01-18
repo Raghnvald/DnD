@@ -1,14 +1,14 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-deity
+  - json5e-deity
 tags:
-- ttrpg-cli/compendium/src/5e/mtf
-- ttrpg-cli/deity/elven
-- ttrpg-cli/domain/forge
-- ttrpg-cli/domain/light
-aliases: 
-- Darahl Tilvenar
+  - Quelle/5e/mtf
+  - Kompendium/Götter/elven
+  - Kompendium/Götter/Domäne/forge
+  - Kompendium/Götter/Domäne/light
+aliases:
+  - Darahl Tilvenar
 ---
 # Darahl Tilvenar
 *Source: Mordenkainen's Tome of Foes p. 43* 

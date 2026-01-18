@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/cm
-- new/monster/cr/10
-- new/monster/size/large
-- new/monster/type/construct
+  - Quelle/5e/cm
+  - Monster/HG/10
+  - Monster/Größe/Groß
+  - Monster/Typ/construct
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Sapphire Sentinel
+  - Sapphire Sentinel
 ---
 # [Sapphire Sentinel](3-Mechanics\CLI\bestiary\construct/sapphire-sentinel-cm.md)
 *Source: Candlekeep Mysteries p. 201*  

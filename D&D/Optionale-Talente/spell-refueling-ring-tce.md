@@ -4,7 +4,7 @@ cssclasses:
 - json5e-feat
 tags:
 - Quelle/5e/tce
-- Kompendium/optional-feature/ai
+- Kompendium/Optionales/ai
 aliases:
 - Spell-Refueling Ring
 ---

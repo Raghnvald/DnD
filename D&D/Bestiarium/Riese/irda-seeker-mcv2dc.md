@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/mcv2dc
-- new/monster/cr/1
-- new/monster/size/medium
-- new/monster/type/giant
+  - Quelle/5e/mcv2dc
+  - Monster/HG/1
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/giant
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Irda Seeker
+  - Irda Seeker
 ---
 # [Irda Seeker](3-Mechanics\CLI\bestiary\giant/irda-seeker-mcv2dc.md)
 *Source: Monstrous Compendium Volume 2: Dragonlance Creatures p. 8*  

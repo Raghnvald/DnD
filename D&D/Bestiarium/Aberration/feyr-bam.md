@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/bam
-- new/monster/cr/5
-- new/monster/size/large
-- new/monster/type/aberration
+  - Quelle/5e/bam
+  - Monster/HG/5
+  - Monster/Größe/Groß
+  - Monster/Typ/aberration
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Feyr
+  - Feyr
 ---
 # [Feyr](3-Mechanics\CLI\bestiary\aberration/feyr-bam.md)
 *Source: Boo's Astral Menagerie p. 22, The Book of Many Things*  

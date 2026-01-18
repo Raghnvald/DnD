@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/egw
-- ttrpg-cli/item/gear/mount
-- ttrpg-cli/item/rarity/none
-aliases: 
-- "Moorbounder"
+  - Quelle/5e/egw
+  - Gegenstand/gear/mount
+  - Gegenstand/rarity/none
+aliases:
+  - Moorbounder
 ---
 # Moorbounder
 *Mount*  

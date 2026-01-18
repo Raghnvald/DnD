@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/subclass/oath-of-the-open-sea
+- Zauber/list/subclass/oath-of-the-open-sea
 aliases:
 - Spells for Oath of the Open Sea
 ---

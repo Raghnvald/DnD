@@ -3,7 +3,7 @@ cssclasses:
   - json5e-class
 tags:
   - Quelle/5e/xphb
-  - Kompendium/Götter/domain/life
+  - Kompendium/Götter/Domäne/life
   - Klasse/Kleriker/life
 aliases:
   - Life Domain

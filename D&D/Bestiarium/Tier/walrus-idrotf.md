@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/idrotf
-- new/monster/cr/1-4
-- new/monster/size/large
-- new/monster/type/beast
+  - Quelle/5e/idrotf
+  - Monster/HG/1-4
+  - Monster/Größe/Groß
+  - Monster/Typ/beast
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Walrus
+  - Walrus
 ---
 # [Walrus](3-Mechanics\CLI\bestiary\beast/walrus-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 312*  

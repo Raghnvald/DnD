@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-bastion
 tags:
-  - Kompendium/bastion
+  - Kompendium/Bastion
   - Quelle/5e/xdmg
 aliases:
   - Stable

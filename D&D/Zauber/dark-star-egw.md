@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-spell
+  - json5e-spell
 tags:
-- ttrpg-cli/compendium/src/5e/egw
-- ttrpg-cli/spell/level/8th-level
-- ttrpg-cli/spell/school/evocation
+  - Quelle/5e/egw
+  - Zauber/Grad/8
+  - Zauber/Schule/evocation
 aliases:
-- Dark Star
+  - Dark Star
 ---
 # Dark Star
 *8th-level, Evocation*  

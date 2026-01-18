@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- new/compendium/src/5e/erlw
-- new/item/attunement/required
-- new/item/rarity/rare
-aliases: 
-- "Docent"
+  - Quelle/5e/erlw
+  - Gegenstand/attunement/required
+  - Gegenstand/rarity/rare
+aliases:
+  - Docent
 ---
 # Docent
 *Wondrous item, rare (requires attunement by a warforged)*  

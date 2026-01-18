@@ -3,7 +3,7 @@ cssclasses:
   - json5e-feat
 tags:
   - Quelle/5e/xge
-  - Kompendium/optional-feature/as
+  - Kompendium/Optionales/as
 aliases:
   - Grasping Arrow
 ---

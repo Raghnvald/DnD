@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-race
+  - json5e-race
 tags:
-- new/compendium/src/5e/mtf
-- new/race/gnome/deep
+  - Quelle/5e/mtf
+  - Rasse/gnome/deep
 aliases:
-- Gnome (Deep)
+  - Gnome (Deep)
 ---
 # Gnome (Deep)
 *Source: Mordenkainen's Tome of Foes p. 113*  

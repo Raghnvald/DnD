@@ -1,11 +1,11 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- ttrpg-cli/compendium/src/5e/veor
+  - Quelle/5e/veor
 aliases:
-- Chapter 5: Death House
+  - Chapter 5: Death House
 ---
 # Chapter 5: Death House
 *Source: Vecna: Eve of Ruin* 

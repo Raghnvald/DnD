@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/veor
-- ttrpg-cli/monster/cr/8
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/humanoid/human
+  - Quelle/5e/veor
+  - Monster/HG/8
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/humanoid/human
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Laysa Matulin
+  - Laysa Matulin
 ---
 # [Laysa Matulin](3-Mechanics\CLI\bestiary\npc/laysa-matulin-veor.md)
 *Source: Vecna: Eve of Ruin*  

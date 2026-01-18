@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- new/compendium/src/5e/idrotf
-- new/item/attunement/required
-- new/item/rarity/uncommon
-aliases: 
-- "Orc Stone"
+  - Quelle/5e/idrotf
+  - Gegenstand/attunement/required
+  - Gegenstand/rarity/uncommon
+aliases:
+  - Orc Stone
 ---
 # Orc Stone
 *Wondrous item, uncommon (requires attunement by a recipient only)*  

@@ -1,14 +1,14 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-deity
+  - json5e-deity
 tags:
-- Quelle/5e/vgm
-- Kompendium/Götter/orc
-- Kompendium/Götter/domain/tempest
-- Kompendium/Götter/domain/war
-aliases: 
-- Gruumsh
+  - Quelle/5e/vgm
+  - Kompendium/Götter/orc
+  - Kompendium/Götter/Domäne/tempest
+  - Kompendium/Götter/Domäne/war
+aliases:
+  - Gruumsh
 ---
 # Gruumsh
 *Source: Volo's Guide to Monsters p. 82* 

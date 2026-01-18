@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/wdh
-- ttrpg-cli/monster/cr/5
-- ttrpg-cli/monster/size/huge
-- ttrpg-cli/monster/type/beast
+  - Quelle/5e/wdh
+  - Monster/HG/5
+  - Monster/Größe/Riesig
+  - Monster/Typ/beast
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Obliteros
+  - Obliteros
 ---
 # [Obliteros](3-Mechanics\CLI\bestiary\npc/obliteros-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 66*  

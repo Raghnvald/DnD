@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/egw
-- ttrpg-cli/monster/cr/1-8
-- ttrpg-cli/monster/size/tiny
-- ttrpg-cli/monster/type/construct
+  - Quelle/5e/egw
+  - Monster/HG/1-8
+  - Monster/Größe/Winzig
+  - Monster/Typ/construct
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Animated Knife
+  - Animated Knife
 ---
 # [Animated Knife](3-Mechanics\CLI\bestiary\construct/animated-knife-egw.md)
 *Source: Explorer's Guide to Wildemount p. 248*  

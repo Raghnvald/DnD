@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- new/compendium/src/5e/tftyp
-- new/item/attunement/required
-- new/item/rarity/rare
-aliases: 
-- "Hell Hound Cloak"
+  - Quelle/5e/tftyp
+  - Gegenstand/attunement/required
+  - Gegenstand/rarity/rare
+aliases:
+  - Hell Hound Cloak
 ---
 # Hell Hound Cloak
 *Wondrous item, cursed item, rare (requires attunement)*  

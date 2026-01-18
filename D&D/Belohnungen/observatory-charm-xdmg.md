@@ -3,7 +3,7 @@ cssclasses:
   - json5e-reward
 tags:
   - Quelle/5e/xdmg
-  - Kompendium/reward/charm
+  - Kompendium/Belohnung/charm
 aliases:
   - Observatory Charm
 ---

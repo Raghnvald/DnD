@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-background
+  - json5e-background
 tags:
-- Kompendium/background
-- Quelle/5e/bgg
+  - Kompendium/Hintergrund
+  - Quelle/5e/bgg
 aliases:
-- Giant Foundling
+  - Giant Foundling
 ---
 # Giant Foundling
 *Source: Bigby Presents: Glory of the Giants p. 6*  

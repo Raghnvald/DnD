@@ -1,14 +1,14 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-deity
+  - json5e-deity
 tags:
-- new/compendium/src/5e/erlw
-- new/deity/eberron
-- new/domain/trickery
-- new/domain/war
-aliases: 
-- The Mockery
+  - Quelle/5e/erlw
+  - Kompendium/Götter/eberron
+  - Kompendium/Götter/Domäne/trickery
+  - Kompendium/Götter/Domäne/war
+aliases:
+  - The Mockery
 ---
 # The Mockery
 *Source: Eberron: Rising from the Last War p. 141* 

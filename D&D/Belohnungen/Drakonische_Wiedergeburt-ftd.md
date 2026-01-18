@@ -1,9 +1,9 @@
 ---
 tags:
-- Quelle/5e/ftd
-- Kompendium/reward/draconic-gift
+  - Quelle/5e/ftd
+  - Kompendium/Belohnung/draconic-gift
 aliases:
-- Draconic Rebirth
+  - Draconic Rebirth
 ---
 # Draconic Rebirth
 *Draconic Gift, uncommon*  

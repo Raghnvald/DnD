@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/jttrc
-- ttrpg-cli/monster/cr/12
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/fey
+  - Quelle/5e/jttrc
+  - Monster/HG/12
+  - Monster/Größe/Groß
+  - Monster/Typ/fey
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Riverine
+  - Riverine
 ---
 # [Riverine](3-Mechanics\CLI\bestiary\fey/riverine-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 133*  

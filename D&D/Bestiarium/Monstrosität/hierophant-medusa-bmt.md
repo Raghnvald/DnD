@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/bmt
-- new/monster/cr/17
-- new/monster/size/large
-- new/monster/type/monstrosity
+  - Quelle/5e/bmt
+  - Monster/HG/17
+  - Monster/Größe/Groß
+  - Monster/Typ/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Hierophant Medusa
+  - Hierophant Medusa
 ---
 # [Hierophant Medusa](3-Mechanics\CLI\bestiary\monstrosity/hierophant-medusa-bmt.md)
 *Source: The Book of Many Things p. 179*  

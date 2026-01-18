@@ -1,11 +1,11 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- ttrpg-cli/compendium/src/5e/wdmm
+  - Quelle/5e/wdmm
 aliases:
-- Appendix A: Dungeon Denizens
+  - Appendix A: Dungeon Denizens
 ---
 # Appendix A: Dungeon Denizens
 *Source: Waterdeep: Dungeon of the Mad Mage, p. 310* 

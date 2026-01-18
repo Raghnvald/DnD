@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/cm
-- new/monster/cr/5
-- new/monster/size/medium
-- new/monster/type/construct
+  - Quelle/5e/cm
+  - Monster/HG/5
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/construct
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Skitterwidget
+  - Skitterwidget
 ---
 # [Skitterwidget](3-Mechanics\CLI\bestiary\construct/skitterwidget-cm.md)
 *Source: Candlekeep Mysteries p. 136*  

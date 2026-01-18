@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/bgg
-- ttrpg-cli/monster/cr/7
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/giant
+  - Quelle/5e/bgg
+  - Monster/HG/7
+  - Monster/Größe/Groß
+  - Monster/Typ/giant
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Troll Mutate
+  - Troll Mutate
 ---
 # [Troll Mutate](3-Mechanics\CLI\bestiary\giant/troll-mutate-bgg.md)
 *Source: Bigby Presents: Glory of the Giants p. 187*  

@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-race
+  - json5e-race
 tags:
-- new/compendium/src/5e/mtf
-- new/race/dwarf/duergar
+  - Quelle/5e/mtf
+  - Rasse/dwarf/duergar
 aliases:
-- Dwarf (Duergar)
+  - Dwarf (Duergar)
 ---
 # Dwarf (Duergar)
 *Source: Mordenkainen's Tome of Foes p. 81*  

@@ -1,22 +1,22 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/mm
-- ttrpg-cli/monster/cr/1-4
-- ttrpg-cli/monster/environment/desert
-- ttrpg-cli/monster/environment/forest
-- ttrpg-cli/monster/environment/grassland
-- ttrpg-cli/monster/environment/swamp
-- ttrpg-cli/monster/environment/underdark
-- ttrpg-cli/monster/environment/urban
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/beast
+  - Quelle/5e/mm
+  - Monster/HG/1-4
+  - Monster/Habitat/desert
+  - Monster/Habitat/forest
+  - Monster/Habitat/grassland
+  - Monster/Habitat/swamp
+  - Monster/Habitat/underdark
+  - Monster/Habitat/urban
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/beast
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Giant Poisonous Snake
+  - Giant Poisonous Snake
 ---
 # [Giant Poisonous Snake](3-Mechanics\CLI\bestiary\beast/giant-poisonous-snake.md)
 *Source: Monster Manual p. 327. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  

@@ -3,7 +3,7 @@ cssclasses:
   - json5e-feat
 tags:
   - Quelle/5e/phb
-  - Kompendium/optional-feature/ed
+  - Kompendium/Optionales/ed
 aliases:
   - Water Whip
 ---

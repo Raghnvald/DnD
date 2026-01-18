@@ -1,15 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- new/compendium/src/5e/tftyp
-- new/item/attunement/required
-- new/item/rarity/very-rare
-- new/item/weapon/melee
-- new/item/weapon/simple
-aliases: 
-- "Spear of Backbiting"
+  - Quelle/5e/tftyp
+  - Gegenstand/attunement/required
+  - Gegenstand/rarity/very-rare
+  - Gegenstand/weapon/melee
+  - Gegenstand/weapon/simple
+aliases:
+  - Spear of Backbiting
 ---
 # Spear of Backbiting
 *Weapon (spear), cursed item, very rare (requires attunement)*  

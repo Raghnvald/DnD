@@ -1,14 +1,14 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-deity
+  - json5e-deity
 tags:
-- ttrpg-cli/compendium/src/5e/mtf
-- ttrpg-cli/deity/elven
-- ttrpg-cli/domain/life
-- ttrpg-cli/domain/nature
-aliases: 
-- Elebrin Liothiel
+  - Quelle/5e/mtf
+  - Kompendium/Götter/elven
+  - Kompendium/Götter/Domäne/life
+  - Kompendium/Götter/Domäne/nature
+aliases:
+  - Elebrin Liothiel
 ---
 # Elebrin Liothiel
 *Source: Mordenkainen's Tome of Foes p. 43* 

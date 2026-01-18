@@ -1,28 +1,28 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-spell
+  - json5e-spell
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/cleric
-- ttrpg-cli/spell/class/druid
-- ttrpg-cli/spell/level/5th-level
-- ttrpg-cli/spell/school/necromancy
-- ttrpg-cli/spell/subclass/circle-of-spores
-- ttrpg-cli/spell/subclass/divine-soul/good
-- ttrpg-cli/spell/subclass/oathbreaker
-- ttrpg-cli/spell/subclass/the-undying
+  - Quelle/5e/xphb
+  - Klasse/bard
+  - Klasse/cleric
+  - Klasse/druid
+  - Zauber/Grad/5
+  - Zauber/Schule/necromancy
+  - Subklasse/circle-of-spores
+  - Subklasse/divine-soul/good
+  - Subklasse/oathbreaker
+  - Subklasse/the-undying
 classes:
-- Bard
-- Cleric
-- Druid
-- Druid (Circle of Spores)
-- Paladin (Oathbreaker)
-- Sorcerer (Divine Soul, Good)
-- Warlock (The Undying)
+  - Bard
+  - Cleric
+  - Druid
+  - Druid (Circle of Spores)
+  - Paladin (Oathbreaker)
+  - Sorcerer (Divine Soul, Good)
+  - Warlock (The Undying)
 aliases:
-- Contagion
+  - Contagion
 ---
 # Contagion
 *5th-level, Necromancy*  

@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-race
+  - json5e-race
 tags:
-- ttrpg-cli/compendium/src/5e/phb
-- ttrpg-cli/race/tiefling
+  - Quelle/5e/phb
+  - Rasse/tiefling
 aliases:
-- Tiefling
+  - Tiefling
 ---
 # Tiefling
 *Source: Player's Handbook p. 42. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  

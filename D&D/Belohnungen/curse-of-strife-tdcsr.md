@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-reward
+  - json5e-reward
 tags:
-- ttrpg-cli/compendium/src/5e/tdcsr
-- ttrpg-cli/reward/curse
+  - Quelle/5e/tdcsr
+  - Kompendium/Belohnung/curse
 aliases:
-- Curse of Strife
+  - Curse of Strife
 ---
 # Curse of Strife
 

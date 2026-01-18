@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/egw
-- ttrpg-cli/monster/cr/3
-- ttrpg-cli/monster/size/small
-- ttrpg-cli/monster/type/humanoid/goblinoid
+  - Quelle/5e/egw
+  - Monster/HG/3
+  - Monster/Größe/Klein
+  - Monster/Typ/humanoid/goblinoid
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Bol'bara
+  - Bol'bara
 ---
 # [Bol'bara](3-Mechanics\CLI\bestiary\npc/bolbara-egw.md)
 *Source: Explorer's Guide to Wildemount p. 261*  

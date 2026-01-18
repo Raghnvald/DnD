@@ -1,14 +1,14 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-deity
+  - json5e-deity
 tags:
-- ttrpg-cli/compendium/src/5e/mtf
-- ttrpg-cli/deity/dwarven
-- ttrpg-cli/domain/forge
-- ttrpg-cli/domain/light
-aliases: 
-- Tharmekhûl
+  - Quelle/5e/mtf
+  - Kompendium/Götter/dwarven
+  - Kompendium/Götter/Domäne/forge
+  - Kompendium/Götter/Domäne/light
+aliases:
+  - Tharmekhûl
 ---
 # Tharmekhûl
 *Source: Mordenkainen's Tome of Foes p. 73* 

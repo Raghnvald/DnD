@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/mcv2dc
-- new/monster/cr/8
-- new/monster/size/large
-- new/monster/type/celestial/unicorn
+  - Quelle/5e/mcv2dc
+  - Monster/HG/8
+  - Monster/Größe/Groß
+  - Monster/Typ/celestial/unicorn
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Forest Master
+  - Forest Master
 ---
 # [Forest Master](3-Mechanics\CLI\bestiary\celestial/forest-master-mcv2dc.md)
 *Source: Monstrous Compendium Volume 2: Dragonlance Creatures p. 6*  

@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- new/compendium/src/5e/bmt
-- new/item/gear/
-- new/item/rarity/none
-aliases: 
-- "Secondhand Steal Trinket"
+  - Quelle/5e/bmt
+  - Gegenstand/gear/
+  - Gegenstand/rarity/none
+aliases:
+  - Secondhand Steal Trinket
 ---
 # Secondhand Steal Trinket
 *Adventuring gear*  

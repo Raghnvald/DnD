@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/tftyp
-- new/monster/cr/3
-- new/monster/size/large
-- new/monster/type/beast
+  - Quelle/5e/tftyp
+  - Monster/HG/3
+  - Monster/Größe/Groß
+  - Monster/Typ/beast
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Giant Lightning Eel
+  - Giant Lightning Eel
 ---
 # [Giant Lightning Eel](3-Mechanics\CLI\bestiary\beast/giant-lightning-eel-tftyp.md)
 *Source: Tales from the Yawning Portal p. 236*  

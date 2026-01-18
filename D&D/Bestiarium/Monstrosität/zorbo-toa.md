@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/toa
-- new/monster/cr/1-2
-- new/monster/size/small
-- new/monster/type/monstrosity
+  - Quelle/5e/toa
+  - Monster/HG/1-2
+  - Monster/Größe/Klein
+  - Monster/Typ/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Zorbo
+  - Zorbo
 ---
 # [Zorbo](3-Mechanics\CLI\bestiary\monstrosity/zorbo-toa.md)
 *Source: Tomb of Annihilation p. 241*  

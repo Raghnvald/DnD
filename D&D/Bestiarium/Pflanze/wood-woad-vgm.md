@@ -1,17 +1,17 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/vgm
-- new/monster/cr/5
-- new/monster/environment/forest
-- new/monster/size/medium
-- new/monster/type/plant
+  - Quelle/5e/vgm
+  - Monster/HG/5
+  - Monster/Habitat/forest
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/plant
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Wood Woad
+  - Wood Woad
 ---
 # [Wood Woad](3-Mechanics\CLI\bestiary\plant/wood-woad-vgm.md)
 *Source: Volo's Guide to Monsters p. 198, Dragon of Icespire Peak*  

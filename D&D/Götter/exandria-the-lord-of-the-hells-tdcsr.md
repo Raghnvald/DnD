@@ -1,17 +1,17 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-deity
+  - json5e-deity
 tags:
-- ttrpg-cli/compendium/src/5e/tdcsr
-- ttrpg-cli/deity/exandria
-- ttrpg-cli/domain/order
-- ttrpg-cli/domain/trickery
-- ttrpg-cli/domain/war
-aliases: 
-- The Lord of the Hells
-- The Lord of the Nine Hells
-- Asmodeus
+  - Quelle/5e/tdcsr
+  - Kompendium/Götter/exandria
+  - Kompendium/Götter/Domäne/order
+  - Kompendium/Götter/Domäne/trickery
+  - Kompendium/Götter/Domäne/war
+aliases:
+  - The Lord of the Hells
+  - The Lord of the Nine Hells
+  - Asmodeus
 ---
 # The Lord of the Hells
 *Source: Tal'Dorei Campaign Setting Reborn p. 34* 

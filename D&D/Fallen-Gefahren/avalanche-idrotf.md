@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-hazard
+  - json5e-hazard
 tags:
-- new/compendium/src/5e/idrotf
-- new/hazard/wld
+  - Quelle/5e/idrotf
+  - Kompendium/hazard/wld
 aliases:
-- Avalanche
+  - Avalanche
 ---
 # Avalanche
 *Wilderness Hazard*  

@@ -1,11 +1,11 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- new/compendium/src/5e/toa
+  - Quelle/5e/toa
 aliases:
-- Chapter 2: The Land of Chult
+  - Chapter 2: The Land of Chult
 ---
 # Chapter 2: The Land of Chult
 *Source: Tomb of Annihilation, p. 37* 

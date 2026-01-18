@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/cos
-- ttrpg-cli/monster/cr/10
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/construct
+  - Quelle/5e/cos
+  - Monster/HG/10
+  - Monster/Größe/Groß
+  - Monster/Typ/construct
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Amber Golem
+  - Amber Golem
 ---
 # [Amber Golem](3-Mechanics\CLI\bestiary\construct/amber-golem-cos.md)
 *Source: Curse of Strahd p. 186*  

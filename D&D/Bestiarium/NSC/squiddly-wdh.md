@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/wdh
-- ttrpg-cli/monster/cr/
-- ttrpg-cli/monster/size/small
-- ttrpg-cli/monster/type/humanoid/tiefling
+  - Quelle/5e/wdh
+  - Monster/HG/
+  - Monster/Größe/Klein
+  - Monster/Typ/humanoid/tiefling
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Squiddly
+  - Squiddly
 ---
 # [Squiddly](3-Mechanics\CLI\bestiary\npc/squiddly-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 63*  

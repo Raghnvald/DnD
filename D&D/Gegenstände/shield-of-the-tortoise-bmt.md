@@ -1,14 +1,14 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- new/compendium/src/5e/bmt
-- new/item/attunement/required
-- new/item/rarity/uncommon
-- new/item/shield/
-aliases: 
-- "Shield of the Tortoise"
+  - Quelle/5e/bmt
+  - Gegenstand/attunement/required
+  - Gegenstand/rarity/uncommon
+  - Gegenstand/shield/
+aliases:
+  - Shield of the Tortoise
 ---
 # Shield of the Tortoise
 *Armor (shield), cursed item, uncommon (requires attunement)*  

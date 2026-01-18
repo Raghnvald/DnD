@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/tdcsr
-- ttrpg-cli/monster/cr/12
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/humanoid/any
+  - Quelle/5e/tdcsr
+  - Monster/HG/12
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/humanoid/any
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Remnant Chosen
+  - Remnant Chosen
 ---
 # [Remnant Chosen](3-Mechanics\CLI\bestiary\humanoid/remnant-chosen-tdcsr.md)
 *Source: Tal'Dorei Campaign Setting Reborn p. 251*  

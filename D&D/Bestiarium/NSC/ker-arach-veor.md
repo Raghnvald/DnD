@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/veor
-- ttrpg-cli/monster/cr/11
-- ttrpg-cli/monster/size/huge
-- ttrpg-cli/monster/type/monstrosity
+  - Quelle/5e/veor
+  - Monster/HG/11
+  - Monster/Größe/Riesig
+  - Monster/Typ/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Ker-arach
+  - Ker-arach
 ---
 # [Ker-arach](3-Mechanics\CLI\bestiary\npc/ker-arach-veor.md)
 *Source: Vecna: Eve of Ruin*  

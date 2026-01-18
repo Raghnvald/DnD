@@ -1,11 +1,11 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- ttrpg-cli/compendium/src/5e/wdmm
+  - Quelle/5e/wdmm
 aliases:
-- Level 11: Troglodyte Warrens
+  - Level 11: Troglodyte Warrens
 ---
 # Level 11: Troglodyte Warrens
 *Source: Waterdeep: Dungeon of the Mad Mage, p. 151* 

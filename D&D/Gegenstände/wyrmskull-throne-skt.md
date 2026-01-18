@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- new/compendium/src/5e/skt
-- new/item/rarity/artifact
-aliases: 
-- "Wyrmskull Throne"
+  - Quelle/5e/skt
+  - Gegenstand/rarity/artifact
+aliases:
+  - Wyrmskull Throne
 ---
 # Wyrmskull Throne
 *Wondrous item, artifact*  

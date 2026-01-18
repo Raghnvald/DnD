@@ -1,30 +1,30 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- new/compendium/src/5e/bmt
-- new/item/armor/heavy
-- new/item/armor/light
-- new/item/armor/medium
-- new/item/attunement/required
-- new/item/rarity/uncommon
-- new/item/wondrous/generic-variant
-aliases: 
-- "Armor of Weightlessness"
-- "Breastplate of Weightlessness"
-- "Chain Mail of Weightlessness"
-- "Chain Shirt of Weightlessness"
-- "Half Plate Armor of Weightlessness"
-- "Hide Armor of Weightlessness"
-- "Leather Armor of Weightlessness"
-- "Padded Armor of Weightlessness"
-- "Plate Armor of Weightlessness"
-- "Ring Mail of Weightlessness"
-- "Scale Mail of Weightlessness"
-- "Spiked Armor of Weightlessness"
-- "Splint Armor of Weightlessness"
-- "Studded Leather Armor of Weightlessness"
+  - Quelle/5e/bmt
+  - Gegenstand/armor/heavy
+  - Gegenstand/armor/light
+  - Gegenstand/armor/medium
+  - Gegenstand/attunement/required
+  - Gegenstand/rarity/uncommon
+  - Gegenstand/wondrous/generic-variant
+aliases:
+  - Armor of Weightlessness
+  - Breastplate of Weightlessness
+  - Chain Mail of Weightlessness
+  - Chain Shirt of Weightlessness
+  - Half Plate Armor of Weightlessness
+  - Hide Armor of Weightlessness
+  - Leather Armor of Weightlessness
+  - Padded Armor of Weightlessness
+  - Plate Armor of Weightlessness
+  - Ring Mail of Weightlessness
+  - Scale Mail of Weightlessness
+  - Spiked Armor of Weightlessness
+  - Splint Armor of Weightlessness
+  - Studded Leather Armor of Weightlessness
 ---
 # Armor of Weightlessness
 *Uncommon (requires attunement)*  

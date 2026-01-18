@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- new/compendium/src/5e/tftyp
-- new/item/attunement/required
-- new/item/rarity/rare
-aliases: 
-- "Amulet of Protection from Turning"
+  - Quelle/5e/tftyp
+  - Gegenstand/attunement/required
+  - Gegenstand/rarity/rare
+aliases:
+  - Amulet of Protection from Turning
 ---
 # Amulet of Protection from Turning
 *Wondrous item, rare (requires attunement)*  

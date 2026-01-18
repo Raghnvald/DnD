@@ -1,14 +1,14 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/wdmm
-- ttrpg-cli/item/rarity/unknown/magic
-- ttrpg-cli/item/weapon/melee
-- ttrpg-cli/item/weapon/simple
-aliases: 
-- "Dagger of Guitar Solos"
+  - Quelle/5e/wdmm
+  - Gegenstand/rarity/unknown/magic
+  - Gegenstand/weapon/melee
+  - Gegenstand/weapon/simple
+aliases:
+  - Dagger of Guitar Solos
 ---
 # Dagger of Guitar Solos
 *Weapon (dagger)*  

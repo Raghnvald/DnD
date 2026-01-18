@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/gos
-- ttrpg-cli/monster/cr/1
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/humanoid/any-race
+  - Quelle/5e/gos
+  - Monster/HG/1
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/humanoid/any-race
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Pirate First Mate
+  - Pirate First Mate
 ---
 # [Pirate First Mate](3-Mechanics\CLI\bestiary\humanoid/pirate-first-mate-gos.md)
 *Source: Ghosts of Saltmarsh p. 248*  

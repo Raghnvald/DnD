@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/idrotf
-- new/monster/cr/1
-- new/monster/size/medium
-- new/monster/type/humanoid/human
+  - Quelle/5e/idrotf
+  - Monster/HG/1
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/humanoid/human
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Prisoner 237
+  - Prisoner 237
 ---
 # [Prisoner 237](3-Mechanics\CLI\bestiary\npc/prisoner-237-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 160*  

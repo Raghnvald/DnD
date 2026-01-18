@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/tftyp
-- new/monster/cr/17
-- new/monster/size/large
-- new/monster/type/dragon
+  - Quelle/5e/tftyp
+  - Monster/HG/17
+  - Monster/Größe/Groß
+  - Monster/Typ/dragon
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Reduced-Threat Dragon Turtle
+  - Reduced-Threat Dragon Turtle
 ---
 # [Reduced-Threat Dragon Turtle](3-Mechanics\CLI\bestiary\dragon/reduced-threat-dragon-turtle-tftyp.md)
 *Source: Tales from the Yawning Portal p. 113*  

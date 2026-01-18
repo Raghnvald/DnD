@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/jttrc
-- ttrpg-cli/monster/cr/11
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/elemental
+  - Quelle/5e/jttrc
+  - Monster/HG/11
+  - Monster/Größe/Groß
+  - Monster/Typ/elemental
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Navid
+  - Navid
 ---
 # [Navid](3-Mechanics\CLI\bestiary\npc/navid-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 159*  

@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-spell
+  - json5e-spell
 tags:
-- ttrpg-cli/compendium/src/5e/egw
-- ttrpg-cli/spell/level/1st-level
-- ttrpg-cli/spell/school/transmutation
+  - Quelle/5e/egw
+  - Zauber/Grad/1
+  - Zauber/Schule/transmutation
 aliases:
-- Magnify Gravity
+  - Magnify Gravity
 ---
 # Magnify Gravity
 *1st-level, Transmutation*  

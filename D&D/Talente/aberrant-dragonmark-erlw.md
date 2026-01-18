@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-feat
+  - json5e-feat
 tags:
-- new/compendium/src/5e/erlw
-- new/feat
+  - Quelle/5e/erlw
+  - Kompendium/Talent
 aliases:
-- Aberrant Dragonmark
+  - Aberrant Dragonmark
 ---
 # Aberrant Dragonmark
 *Source: Eberron: Rising from the Last War p. 52*  

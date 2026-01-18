@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-reward
+  - json5e-reward
 tags:
-- Quelle/5e/dmg
-- Kompendium/reward/blessing
+  - Quelle/5e/dmg
+  - Kompendium/Belohnung/blessing
 aliases:
-- Blessing of Weapon Enhancement
+  - Blessing of Weapon Enhancement
 ---
 # Blessing of Weapon Enhancement
 

@@ -1,18 +1,18 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/tdcsr
-- ttrpg-cli/monster/cr/9
-- ttrpg-cli/monster/environment/mountain
-- ttrpg-cli/monster/environment/underdark
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/elemental
+  - Quelle/5e/tdcsr
+  - Monster/HG/9
+  - Monster/Habitat/mountain
+  - Monster/Habitat/underdark
+  - Monster/Größe/Groß
+  - Monster/Typ/elemental
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Young Magma Landshark
+  - Young Magma Landshark
 ---
 # [Young Magma Landshark](3-Mechanics\CLI\bestiary\elemental/young-magma-landshark-tdcsr.md)
 *Source: Tal'Dorei Campaign Setting Reborn p. 248*  

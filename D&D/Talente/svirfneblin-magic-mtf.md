@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-feat
+  - json5e-feat
 tags:
-- ttrpg-cli/compendium/src/5e/mtf
-- ttrpg-cli/feat
+  - Quelle/5e/mtf
+  - Kompendium/Talent
 aliases:
-- Svirfneblin Magic
+  - Svirfneblin Magic
 ---
 # Svirfneblin Magic
 *Source: Mordenkainen's Tome of Foes p. 114, Elemental Evil Player's Companion p. 7, Sword Coast Adventurer's Guide p. 115*  

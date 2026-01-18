@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/subrace/tiefling-hellfire
+- Zauber/list/subrace/tiefling-hellfire
 aliases:
 - Spells for Tiefling (Hellfire)
 ---

@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/dip
-- new/monster/cr/1-4
-- new/monster/size/small
-- new/monster/type/humanoid/gnome
+  - Quelle/5e/dip
+  - Monster/HG/1-4
+  - Monster/Größe/Klein
+  - Monster/Typ/humanoid/gnome
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Rock Gnome Recluse
+  - Rock Gnome Recluse
 ---
 # [Rock Gnome Recluse](3-Mechanics\CLI\bestiary\humanoid/rock-gnome-recluse-dip.md)
 *Source: Dragon of Icespire Peak p. 62*  

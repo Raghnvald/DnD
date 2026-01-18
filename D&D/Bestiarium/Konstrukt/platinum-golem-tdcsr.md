@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/tdcsr
-- ttrpg-cli/monster/cr/16
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/construct
+  - Quelle/5e/tdcsr
+  - Monster/HG/16
+  - Monster/Größe/Groß
+  - Monster/Typ/construct
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Platinum Golem
+  - Platinum Golem
 ---
 # [Platinum Golem](3-Mechanics\CLI\bestiary\construct/platinum-golem-tdcsr.md)
 *Source: Tal'Dorei Campaign Setting Reborn p. 243*  

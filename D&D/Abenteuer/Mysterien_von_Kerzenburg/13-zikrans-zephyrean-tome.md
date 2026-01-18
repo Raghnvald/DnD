@@ -1,11 +1,11 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- new/compendium/src/5e/cm
+  - Quelle/5e/cm
 aliases:
-- Zikran's Zephyrean Tome
+  - Zikran's Zephyrean Tome
 ---
 # Zikran's Zephyrean Tome
 *Source: Candlekeep Mysteries, p. 137* 

@@ -1,14 +1,14 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-deity
+  - json5e-deity
 tags:
-- ttrpg-cli/compendium/src/5e/egw
-- ttrpg-cli/deity/exandria
-- ttrpg-cli/domain/light
-- ttrpg-cli/domain/trickery
-aliases: 
-- Desirat
+  - Quelle/5e/egw
+  - Kompendium/Götter/exandria
+  - Kompendium/Götter/Domäne/light
+  - Kompendium/Götter/Domäne/trickery
+aliases:
+  - Desirat
 ---
 # Desirat
 *Source: Explorer's Guide to Wildemount p. 31* 

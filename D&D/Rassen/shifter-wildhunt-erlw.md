@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-race
+  - json5e-race
 tags:
-- new/compendium/src/5e/erlw
-- new/race/shifter/wildhunt
+  - Quelle/5e/erlw
+  - Rasse/shifter/wildhunt
 aliases:
-- Shifter (Wildhunt)
+  - Shifter (Wildhunt)
 ---
 # Shifter (Wildhunt)
 *Source: Eberron: Rising from the Last War p. 34*  

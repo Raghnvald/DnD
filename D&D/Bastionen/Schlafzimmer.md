@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-bastion
+  - json5e-bastion
 tags:
-- Kompendium/bastion
-- Quelle/5e/xdmg
+  - Kompendium/Bastion
+  - Quelle/5e/xdmg
 aliases:
-- Bedroom
+  - Bedroom
 ---
 # Bedroom
 *Bastion facility*  

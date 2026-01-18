@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/dosi
-- new/monster/cr/1
-- new/monster/size/medium
-- new/monster/type/humanoid/human
+  - Quelle/5e/dosi
+  - Monster/HG/1
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/humanoid/human
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Tarak
+  - Tarak
 ---
 # [Tarak](3-Mechanics\CLI\bestiary\npc/tarak-dosi.md)
 *Source: Dragons of Stormwreck Isle p. 47*  

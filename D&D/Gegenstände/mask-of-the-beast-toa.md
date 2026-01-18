@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- new/compendium/src/5e/toa
-- new/item/rarity/uncommon
-aliases: 
-- "Mask of the Beast"
+  - Quelle/5e/toa
+  - Gegenstand/rarity/uncommon
+aliases:
+  - Mask of the Beast
 ---
 # Mask of the Beast
 *Wondrous item, uncommon*  

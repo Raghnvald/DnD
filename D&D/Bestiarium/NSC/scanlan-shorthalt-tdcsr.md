@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/tdcsr
-- ttrpg-cli/monster/cr/15
-- ttrpg-cli/monster/size/small
-- ttrpg-cli/monster/type/humanoid/gnome
+  - Quelle/5e/tdcsr
+  - Monster/HG/15
+  - Monster/Größe/Klein
+  - Monster/Typ/humanoid/gnome
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Scanlan Shorthalt
+  - Scanlan Shorthalt
 ---
 # [Scanlan Shorthalt](3-Mechanics\CLI\bestiary\npc/scanlan-shorthalt-tdcsr.md)
 *Source: Tal'Dorei Campaign Setting Reborn p. 271*  

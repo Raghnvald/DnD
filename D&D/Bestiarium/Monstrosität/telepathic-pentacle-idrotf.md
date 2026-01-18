@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/idrotf
-- new/monster/cr/8
-- new/monster/size/huge
-- new/monster/type/monstrosity
+  - Quelle/5e/idrotf
+  - Monster/HG/8
+  - Monster/Größe/Riesig
+  - Monster/Typ/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Telepathic Pentacle
+  - Telepathic Pentacle
 ---
 # [Telepathic Pentacle](3-Mechanics\CLI\bestiary\monstrosity/telepathic-pentacle-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 244*  

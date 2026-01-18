@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/mcv4ec
-- ttrpg-cli/monster/cr/11
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/fey
+  - Quelle/5e/mcv4ec
+  - Monster/HG/11
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/fey
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- High Fae Impostor
+  - High Fae Impostor
 ---
 # [High Fae Impostor](3-Mechanics\CLI\bestiary\fey/high-fae-impostor-mcv4ec.md)
 *Source: Monstrous Compendium Volume 4: Eldraine Creatures*  

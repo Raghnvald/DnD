@@ -1,17 +1,17 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/wdmm
-- ttrpg-cli/monster/cr/2
-- ttrpg-cli/monster/size/small
-- ttrpg-cli/monster/type/humanoid/goblinoid
-- ttrpg-cli/monster/type/humanoid/shapechanger
+  - Quelle/5e/wdmm
+  - Monster/HG/2
+  - Monster/Größe/Klein
+  - Monster/Typ/humanoid/goblinoid
+  - Monster/Typ/humanoid/shapechanger
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Mobar
+  - Mobar
 ---
 # [Mobar](3-Mechanics\CLI\bestiary\npc/mobar-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 77*  

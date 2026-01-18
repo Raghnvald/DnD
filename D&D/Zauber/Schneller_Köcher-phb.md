@@ -1,18 +1,18 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-spell
+  - json5e-spell
 tags:
-- ttrpg-cli/compendium/src/5e/phb
-- ttrpg-cli/spell/class/bard/magical-secrets
-- ttrpg-cli/spell/class/ranger
-- ttrpg-cli/spell/level/5th-level
-- ttrpg-cli/spell/school/transmutation
+  - Quelle/5e/phb
+  - Klasse/bard/magical-secrets
+  - Klasse/ranger
+  - Zauber/Grad/5
+  - Zauber/Schule/transmutation
 classes:
-- Bard (Magical Secrets)
-- Ranger
+  - Bard (Magical Secrets)
+  - Ranger
 aliases:
-- Swift Quiver
+  - Swift Quiver
 ---
 # Swift Quiver
 *5th-level, Transmutation*  

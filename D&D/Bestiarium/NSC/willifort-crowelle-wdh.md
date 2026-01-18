@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/wdh
-- ttrpg-cli/monster/cr/3
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/monstrosity/shapechanger
+  - Quelle/5e/wdh
+  - Monster/HG/3
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/monstrosity/shapechanger
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Willifort Crowelle
+  - Willifort Crowelle
 ---
 # [Willifort Crowelle](3-Mechanics\CLI\bestiary\npc/willifort-crowelle-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 62*  

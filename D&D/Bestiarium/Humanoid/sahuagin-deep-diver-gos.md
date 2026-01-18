@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/gos
-- ttrpg-cli/monster/cr/4
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/humanoid/sahuagin
+  - Quelle/5e/gos
+  - Monster/HG/4
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/humanoid/sahuagin
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Sahuagin Deep Diver
+  - Sahuagin Deep Diver
 ---
 # [Sahuagin Deep Diver](3-Mechanics\CLI\bestiary\humanoid/sahuagin-deep-diver-gos.md)
 *Source: Ghosts of Saltmarsh p. 250*  

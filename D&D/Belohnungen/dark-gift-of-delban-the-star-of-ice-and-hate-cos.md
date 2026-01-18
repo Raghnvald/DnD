@@ -3,7 +3,7 @@ cssclasses:
   - json5e-reward
 tags:
   - Quelle/5e/cos
-  - Kompendium/reward/charm
+  - Kompendium/Belohnung/charm
 aliases:
   - Dark Gift of Delban, the Star of Ice and Hate
 ---

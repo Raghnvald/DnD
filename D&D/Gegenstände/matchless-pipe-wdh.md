@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/wdh
-- ttrpg-cli/item/rarity/unknown
-- ttrpg-cli/item/wondrous/other
-aliases: 
-- "Matchless Pipe"
+  - Quelle/5e/wdh
+  - Gegenstand/rarity/unknown
+  - Gegenstand/wondrous/other
+aliases:
+  - Matchless Pipe
 ---
 # Matchless Pipe
 

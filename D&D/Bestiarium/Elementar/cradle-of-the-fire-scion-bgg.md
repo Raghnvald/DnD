@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/bgg
-- ttrpg-cli/monster/cr/25
-- ttrpg-cli/monster/size/gargantuan
-- ttrpg-cli/monster/type/elemental
+  - Quelle/5e/bgg
+  - Monster/HG/25
+  - Monster/Größe/Gigantisch
+  - Monster/Typ/elemental
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Cradle of the Fire Scion
+  - Cradle of the Fire Scion
 ---
 # [Cradle of the Fire Scion](3-Mechanics\CLI\bestiary\elemental/cradle-of-the-fire-scion-bgg.md)
 *Source: Bigby Presents: Glory of the Giants p. 172*  

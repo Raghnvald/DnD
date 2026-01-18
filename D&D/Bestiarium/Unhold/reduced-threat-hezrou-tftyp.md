@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/tftyp
-- new/monster/cr/8
-- new/monster/size/large
-- new/monster/type/fiend/demon
+  - Quelle/5e/tftyp
+  - Monster/HG/8
+  - Monster/Größe/Groß
+  - Monster/Typ/fiend/demon
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Reduced-Threat Hezrou
+  - Reduced-Threat Hezrou
 ---
 # [Reduced-Threat Hezrou](3-Mechanics\CLI\bestiary\fiend/reduced-threat-hezrou-tftyp.md)
 *Source: Tales from the Yawning Portal p. 113*  

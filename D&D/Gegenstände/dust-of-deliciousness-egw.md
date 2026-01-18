@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/egw
-- ttrpg-cli/item/rarity/uncommon
-aliases: 
-- "Dust of Deliciousness"
+  - Quelle/5e/egw
+  - Gegenstand/rarity/uncommon
+aliases:
+  - Dust of Deliciousness
 ---
 # Dust of Deliciousness
 *Wondrous item, uncommon*  

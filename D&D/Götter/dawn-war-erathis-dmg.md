@@ -1,14 +1,14 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-deity
+  - json5e-deity
 tags:
-- Quelle/5e/dmg
-- Kompendium/Götter/dawn-war
-- Kompendium/Götter/domain/knowledge
-- Kompendium/Götter/domain/order
-aliases: 
-- Erathis
+  - Quelle/5e/dmg
+  - Kompendium/Götter/dawn-war
+  - Kompendium/Götter/Domäne/knowledge
+  - Kompendium/Götter/Domäne/order
+aliases:
+  - Erathis
 ---
 # Erathis
 *Source: Dungeon Master's Guide p. 10* 

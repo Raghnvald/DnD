@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/gos
-- ttrpg-cli/monster/cr/1-2
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/beast
+  - Quelle/5e/gos
+  - Monster/HG/1-2
+  - Monster/Größe/Groß
+  - Monster/Typ/beast
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Giant Sea Eel
+  - Giant Sea Eel
 ---
 # [Giant Sea Eel](3-Mechanics\CLI\bestiary\beast/giant-sea-eel-gos.md)
 *Source: Ghosts of Saltmarsh p. 237*  

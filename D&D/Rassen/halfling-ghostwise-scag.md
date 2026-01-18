@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-race
+  - json5e-race
 tags:
-- ttrpg-cli/compendium/src/5e/scag
-- ttrpg-cli/race/halfling/ghostwise
+  - Quelle/5e/scag
+  - Rasse/halfling/ghostwise
 aliases:
-- Halfling (Ghostwise)
+  - Halfling (Ghostwise)
 ---
 # Halfling (Ghostwise)
 *Source: Sword Coast Adventurer's Guide p. 110*  

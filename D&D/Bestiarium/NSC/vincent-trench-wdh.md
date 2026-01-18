@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/wdh
-- ttrpg-cli/monster/cr/13
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/fiend
+  - Quelle/5e/wdh
+  - Monster/HG/13
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/fiend
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Vincent Trench
+  - Vincent Trench
 ---
 # [Vincent Trench](3-Mechanics\CLI\bestiary\npc/vincent-trench-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 32*  

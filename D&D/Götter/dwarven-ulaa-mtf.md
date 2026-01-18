@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-deity
+  - json5e-deity
 tags:
-- ttrpg-cli/compendium/src/5e/mtf
-- ttrpg-cli/deity/dwarven
-- ttrpg-cli/domain/forge
-aliases: 
-- Ulaa
+  - Quelle/5e/mtf
+  - Kompendium/Götter/dwarven
+  - Kompendium/Götter/Domäne/forge
+aliases:
+  - Ulaa
 ---
 # Ulaa
 *Source: Mordenkainen's Tome of Foes p. 73* 

@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/tftyp
-- new/monster/cr/2
-- new/monster/size/large
-- new/monster/type/giant
+  - Quelle/5e/tftyp
+  - Monster/HG/2
+  - Monster/Größe/Groß
+  - Monster/Typ/giant
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Young Fire Giant
+  - Young Fire Giant
 ---
 # [Young Fire Giant](3-Mechanics\CLI\bestiary\giant/young-fire-giant-tftyp.md)
 *Source: Tales from the Yawning Portal p. 192*  

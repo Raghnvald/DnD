@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/bgg
-- ttrpg-cli/monster/cr/5
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/humanoid/cleric
+  - Quelle/5e/bgg
+  - Monster/HG/5
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/humanoid/cleric
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Firbolg Wanderer
+  - Firbolg Wanderer
 ---
 # [Firbolg Wanderer](3-Mechanics\CLI\bestiary\humanoid/firbolg-wanderer-bgg.md)
 *Source: Bigby Presents: Glory of the Giants p. 137*  

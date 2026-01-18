@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/idrotf
-- new/monster/cr/20
-- new/monster/size/gargantuan
-- new/monster/type/dragon
+  - Quelle/5e/idrotf
+  - Monster/HG/20
+  - Monster/Größe/Gigantisch
+  - Monster/Typ/dragon
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Arveiaturace
+  - Arveiaturace
 ---
 # [Arveiaturace](3-Mechanics\CLI\bestiary\npc/arveiaturace-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 105*  

@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-deity
+  - json5e-deity
 tags:
-- Quelle/5e/phb
-- Kompendium/Götter/egyptian
-- Kompendium/Götter/domain/trickery
-aliases: 
-- Bes
+  - Quelle/5e/phb
+  - Kompendium/Götter/egyptian
+  - Kompendium/Götter/Domäne/trickery
+aliases:
+  - Bes
 ---
 # Bes
 *Source: Player's Handbook p. 299. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>* 

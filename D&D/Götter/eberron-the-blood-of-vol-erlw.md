@@ -1,14 +1,14 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-deity
+  - json5e-deity
 tags:
-- new/compendium/src/5e/erlw
-- new/deity/eberron
-- new/domain/death
-- new/domain/life
-aliases: 
-- The Blood of Vol
+  - Quelle/5e/erlw
+  - Kompendium/Götter/eberron
+  - Kompendium/Götter/Domäne/death
+  - Kompendium/Götter/Domäne/life
+aliases:
+  - The Blood of Vol
 ---
 # The Blood of Vol
 *Source: Eberron: Rising from the Last War p. 141* 

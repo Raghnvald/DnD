@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/wdmm
-- ttrpg-cli/monster/cr/1-8
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/humanoid/troglodyte
+  - Quelle/5e/wdmm
+  - Monster/HG/1-8
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/humanoid/troglodyte
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Old Troglodyte
+  - Old Troglodyte
 ---
 # [Old Troglodyte](3-Mechanics\CLI\bestiary\humanoid/old-troglodyte-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 155*  

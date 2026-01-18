@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-deity
+  - json5e-deity
 tags:
-- Quelle/5e/phb
-- Kompendium/Götter/forgotten-realms
-- Kompendium/Götter/domain/life
-aliases: 
-- Lliira
+  - Quelle/5e/phb
+  - Kompendium/Götter/forgotten-realms
+  - Kompendium/Götter/Domäne/life
+aliases:
+  - Lliira
 ---
 # Lliira
 *Source: Player's Handbook p. 294. Available in the Basic Rules (2014)* 

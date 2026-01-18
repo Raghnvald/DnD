@@ -3,7 +3,7 @@ cssclasses:
   - json5e-reward
 tags:
   - Quelle/5e/pabtso
-  - Kompendium/reward/blessing
+  - Kompendium/Belohnung/blessing
 aliases:
   - Blessing of the Solipsistic Mind
 ---

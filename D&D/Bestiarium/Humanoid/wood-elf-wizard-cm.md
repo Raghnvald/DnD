@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/cm
-- new/monster/cr/7
-- new/monster/size/medium
-- new/monster/type/humanoid/elf
+  - Quelle/5e/cm
+  - Monster/HG/7
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/humanoid/elf
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Wood Elf Wizard
+  - Wood Elf Wizard
 ---
 # [Wood Elf Wizard](3-Mechanics\CLI\bestiary\humanoid/wood-elf-wizard-cm.md)
 *Source: Candlekeep Mysteries p. 187*  

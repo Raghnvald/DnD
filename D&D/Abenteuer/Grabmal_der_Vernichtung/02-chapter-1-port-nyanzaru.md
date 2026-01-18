@@ -1,11 +1,11 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- new/compendium/src/5e/toa
+  - Quelle/5e/toa
 aliases:
-- Chapter 1: Port Nyanzaru
+  - Chapter 1: Port Nyanzaru
 ---
 # Chapter 1: Port Nyanzaru
 *Source: Tomb of Annihilation, p. 15* 

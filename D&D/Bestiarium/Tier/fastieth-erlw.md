@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/erlw
-- new/monster/cr/1-4
-- new/monster/size/medium
-- new/monster/type/beast
+  - Quelle/5e/erlw
+  - Monster/HG/1-4
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/beast
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Fastieth
+  - Fastieth
 ---
 # [Fastieth](3-Mechanics\CLI\bestiary\beast/fastieth-erlw.md)
 *Source: Eberron: Rising from the Last War p. 289*  

@@ -1,14 +1,14 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-deity
+  - json5e-deity
 tags:
-- Quelle/5e/phb
-- Kompendium/Götter/dragonlance
-- Kompendium/Götter/domain/nature
-- Kompendium/Götter/domain/tempest
-aliases: 
-- Habbakuk
+  - Quelle/5e/phb
+  - Kompendium/Götter/dragonlance
+  - Kompendium/Götter/Domäne/nature
+  - Kompendium/Götter/Domäne/tempest
+aliases:
+  - Habbakuk
 ---
 # Habbakuk
 *Source: Player's Handbook p. 295* 

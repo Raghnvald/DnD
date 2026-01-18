@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-feat
+  - json5e-feat
 tags:
-- ttrpg-cli/compendium/src/5e/tdcsr
-- ttrpg-cli/feat
+  - Quelle/5e/tdcsr
+  - Kompendium/Talent
 aliases:
-- Mystic Conflux
+  - Mystic Conflux
 ---
 # Mystic Conflux
 *Source: Tal'Dorei Campaign Setting Reborn p. 190*  

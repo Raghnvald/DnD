@@ -5,7 +5,7 @@ Bezeichnung: Herbalism Kit
 tags:
   - Gegenstand/Ausrüstung/Werkzeug
   - Gegenstand/Seltenheit/keine
-  - Quelle/5e/xphb(/3-Mechanics/CLI/items/leather-armor.md
+  - Quelle/5e/xphb
 aliases:
   - Herbalism Kit
 linter-yaml-title-alias: Herbalism Kit

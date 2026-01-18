@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/idrotf
-- new/monster/cr/8
-- new/monster/size/small
-- new/monster/type/construct
+  - Quelle/5e/idrotf
+  - Monster/HG/8
+  - Monster/Größe/Klein
+  - Monster/Typ/construct
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Living Blade of Disaster
+  - Living Blade of Disaster
 ---
 # [Living Blade of Disaster](3-Mechanics\CLI\bestiary\construct/living-blade-of-disaster-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 299*  

@@ -1,17 +1,17 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-deity
+  - json5e-deity
 tags:
-- ttrpg-cli/compendium/src/5e/scag
-- ttrpg-cli/deity/faerunian
-- ttrpg-cli/domain/knowledge
-- ttrpg-cli/domain/trickery
-aliases: 
-- Waukeen
-- Our Lady of Gold
-- The Coinmaiden
-- The Merchant's Friend
+  - Quelle/5e/scag
+  - Kompendium/Götter/faerunian
+  - Kompendium/Götter/Domäne/knowledge
+  - Kompendium/Götter/Domäne/trickery
+aliases:
+  - Waukeen
+  - Our Lady of Gold
+  - The Coinmaiden
+  - The Merchant's Friend
 ---
 # Waukeen
 *Source: Sword Coast Adventurer's Guide p. 21* 

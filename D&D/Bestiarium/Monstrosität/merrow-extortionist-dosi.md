@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/dosi
-- new/monster/cr/1
-- new/monster/size/large
-- new/monster/type/monstrosity
+  - Quelle/5e/dosi
+  - Monster/HG/1
+  - Monster/Größe/Groß
+  - Monster/Typ/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Merrow Extortionist
+  - Merrow Extortionist
 ---
 # [Merrow Extortionist](3-Mechanics\CLI\bestiary\monstrosity/merrow-extortionist-dosi.md)
 *Source: Dragons of Stormwreck Isle p. 0*  

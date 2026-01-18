@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/jttrc
-- ttrpg-cli/monster/cr/13
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/fiend/yugoloth
+  - Quelle/5e/jttrc
+  - Monster/HG/13
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/fiend/yugoloth
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Jijibisha Manivarshi
+  - Jijibisha Manivarshi
 ---
 # [Jijibisha Manivarshi](3-Mechanics\CLI\bestiary\npc/jijibisha-manivarshi-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 128*  

@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/subclass/runechild
+- Zauber/list/subclass/runechild
 aliases:
 - Spells for Runechild
 ---

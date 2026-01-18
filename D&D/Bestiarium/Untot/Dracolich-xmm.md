@@ -1,17 +1,17 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/17
-- ttrpg-cli/monster/environment/any
-- ttrpg-cli/monster/size/unknown
-- ttrpg-cli/monster/type/undead
+  - Quelle/5e/xmm
+  - Monster/HG/17
+  - Monster/Habitat/any
+  - Monster/Größe/Unbekannt
+  - Monster/Typ/undead
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Dracolich
+  - Dracolich
 ---
 # [Dracolich](3-Mechanics\CLI\bestiary\undead/dracolich-xmm.md)
 *Source: Monster Manual (2024) p. 102*  

@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/background/azorius-functionary
+- Zauber/list/background/azorius-functionary
 aliases:
 - Spells for Azorius Functionary
 ---

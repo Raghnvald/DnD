@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/jttrc
-- ttrpg-cli/monster/cr/9
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/aberration
+  - Quelle/5e/jttrc
+  - Monster/HG/9
+  - Monster/Größe/Groß
+  - Monster/Typ/aberration
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Whistler
+  - Whistler
 ---
 # [Whistler](3-Mechanics\CLI\bestiary\aberration/whistler-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 221*  

@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/bgg
-- ttrpg-cli/monster/cr/3
-- ttrpg-cli/monster/size/huge
-- ttrpg-cli/monster/type/fey
+  - Quelle/5e/bgg
+  - Monster/HG/3
+  - Monster/Größe/Riesig
+  - Monster/Typ/fey
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Giant Ox
+  - Giant Ox
 ---
 # [Giant Ox](3-Mechanics\CLI\bestiary\fey/giant-ox-bgg.md)
 *Source: Bigby Presents: Glory of the Giants p. 152*  

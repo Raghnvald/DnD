@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/cm
-- new/monster/cr/0
-- new/monster/size/medium
-- new/monster/type/construct
+  - Quelle/5e/cm
+  - Monster/HG/0
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/construct
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Constructed Commoner
+  - Constructed Commoner
 ---
 # [Constructed Commoner](3-Mechanics\CLI\bestiary\construct/constructed-commoner-cm.md)
 *Source: Candlekeep Mysteries p. 149*  

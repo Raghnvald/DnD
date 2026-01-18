@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/tftyp
-- new/monster/cr/4
-- new/monster/size/huge
-- new/monster/type/ooze
+  - Quelle/5e/tftyp
+  - Monster/HG/4
+  - Monster/Größe/Riesig
+  - Monster/Typ/ooze
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Elder Black Pudding
+  - Elder Black Pudding
 ---
 # [Elder Black Pudding](3-Mechanics\CLI\bestiary\ooze/elder-black-pudding-tftyp.md)
 *Source: Tales from the Yawning Portal p. 143*  

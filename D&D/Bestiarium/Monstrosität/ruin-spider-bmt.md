@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/bmt
-- new/monster/cr/5
-- new/monster/size/large
-- new/monster/type/monstrosity
+  - Quelle/5e/bmt
+  - Monster/HG/5
+  - Monster/Größe/Groß
+  - Monster/Typ/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Ruin Spider
+  - Ruin Spider
 ---
 # [Ruin Spider](3-Mechanics\CLI\bestiary\monstrosity/ruin-spider-bmt.md)
 *Source: The Book of Many Things p. 182*  

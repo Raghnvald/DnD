@@ -1,19 +1,19 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/vgm
-- new/monster/cr/2
-- new/monster/environment/coastal
-- new/monster/environment/hill
-- new/monster/environment/mountain
-- new/monster/size/huge
-- new/monster/type/beast
+  - Quelle/5e/vgm
+  - Monster/HG/2
+  - Monster/Habitat/coastal
+  - Monster/Habitat/hill
+  - Monster/Habitat/mountain
+  - Monster/Größe/Riesig
+  - Monster/Typ/beast
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Quetzalcoatlus
+  - Quetzalcoatlus
 ---
 # [Quetzalcoatlus](3-Mechanics\CLI\bestiary\beast/quetzalcoatlus-vgm.md)
 *Source: Volo's Guide to Monsters p. 140, Tomb of Annihilation*  

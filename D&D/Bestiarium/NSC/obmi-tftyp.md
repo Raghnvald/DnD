@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/tftyp
-- new/monster/cr/8
-- new/monster/size/medium
-- new/monster/type/humanoid/any-race
+  - Quelle/5e/tftyp
+  - Monster/HG/8
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/humanoid/any-race
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Obmi
+  - Obmi
 ---
 # [Obmi](3-Mechanics\CLI\bestiary\npc/obmi-tftyp.md)
 *Source: Tales from the Yawning Portal p. 196*  

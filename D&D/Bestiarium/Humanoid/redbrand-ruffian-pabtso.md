@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/pabtso
-- ttrpg-cli/monster/cr/1-2
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/humanoid
+  - Quelle/5e/pabtso
+  - Monster/HG/1-2
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/humanoid
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Redbrand Ruffian
+  - Redbrand Ruffian
 ---
 # [Redbrand Ruffian](3-Mechanics\CLI\bestiary\humanoid/redbrand-ruffian-pabtso.md)
 *Source: Phandelver and Below: The Shattered Obelisk p. 216*  

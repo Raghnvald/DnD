@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-background
+  - json5e-background
 tags:
-- ttrpg-cli/background
-- ttrpg-cli/compendium/src/5e/scag
+  - Kompendium/Hintergrund
+  - Quelle/5e/scag
 aliases:
-- Urban Bounty Hunter
+  - Urban Bounty Hunter
 ---
 # Urban Bounty Hunter
 *Source: Sword Coast Adventurer's Guide p. 153*  

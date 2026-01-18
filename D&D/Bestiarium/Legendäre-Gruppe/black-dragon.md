@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- ttrpg-cli/compendium/src/5e/mm
-- ttrpg-cli/monster/legendary-group
+  - Quelle/5e/mm
+  - Monster/legendary-group
 aliases:
-- Black Dragon
+  - Black Dragon
 ---
 # Black Dragon
 

@@ -4,9 +4,9 @@ cssclasses:
 tags:
   - Quelle/5e/scag
   - Kompendium/Götter/faerunian
-  - Kompendium/Götter/domain/life
-  - Kompendium/Götter/domain/nature
-  - Kompendium/Götter/domain/peace
+  - Kompendium/Götter/Domäne/life
+  - Kompendium/Götter/Domäne/nature
+  - Kompendium/Götter/Domäne/peace
 aliases:
   - Eldath
   - The Quiet One

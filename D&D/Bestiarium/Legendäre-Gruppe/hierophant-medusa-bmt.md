@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- new/compendium/src/5e/bmt
-- new/monster/legendary-group
+  - Quelle/5e/bmt
+  - Monster/legendary-group
 aliases:
-- Hierophant Medusa
+  - Hierophant Medusa
 ---
 # Hierophant Medusa
 

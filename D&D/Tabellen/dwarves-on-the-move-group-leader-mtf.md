@@ -1,11 +1,11 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- ttrpg-cli/compendium/src/5e/mtf
+  - Quelle/5e/mtf
 aliases:
-- Dwarves on the Move; Group Leader
+  - Dwarves on the Move; Group Leader
 ---
 # Dwarves on the Move; Group Leader
 *Source: Mordenkainen's Tome of Foes p. 81* 

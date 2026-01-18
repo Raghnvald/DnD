@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/toa
-- new/monster/cr/8
-- new/monster/size/huge
-- new/monster/type/undead
+  - Quelle/5e/toa
+  - Monster/HG/8
+  - Monster/Größe/Riesig
+  - Monster/Typ/undead
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Tyrannosaurus Zombie
+  - Tyrannosaurus Zombie
 ---
 # [Tyrannosaurus Zombie](3-Mechanics\CLI\bestiary\undead/tyrannosaurus-zombie-toa.md)
 *Source: Tomb of Annihilation p. 241*  

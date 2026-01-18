@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-race
+  - json5e-race
 tags:
-- ttrpg-cli/compendium/src/5e/mtf
-- ttrpg-cli/race/tiefling/asmodeus
+  - Quelle/5e/mtf
+  - Rasse/tiefling/asmodeus
 aliases:
-- Tiefling (Asmodeus)
+  - Tiefling (Asmodeus)
 ---
 # Tiefling (Asmodeus)
 *Source: Mordenkainen's Tome of Foes p. 21*  

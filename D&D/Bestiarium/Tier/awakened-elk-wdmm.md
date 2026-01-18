@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/wdmm
-- ttrpg-cli/monster/cr/1-4
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/beast
+  - Quelle/5e/wdmm
+  - Monster/HG/1-4
+  - Monster/Größe/Groß
+  - Monster/Typ/beast
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Awakened Elk
+  - Awakened Elk
 ---
 # [Awakened Elk](3-Mechanics\CLI\bestiary\beast/awakened-elk-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 72*  

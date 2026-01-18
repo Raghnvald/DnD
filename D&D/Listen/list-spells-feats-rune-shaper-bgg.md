@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/feat/rune-shaper
+- Zauber/list/feat/rune-shaper
 aliases:
 - Spells for Rune Shaper
 ---

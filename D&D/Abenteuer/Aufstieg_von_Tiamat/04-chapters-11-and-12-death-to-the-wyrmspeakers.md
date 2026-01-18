@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- ttrpg-cli/compendium/src/5e/rot
+  - Quelle/5e/rot
 aliases:
-- Chapters 11 and 12: Death to the Wyrmspeakers
+  - Chapters 11 and 12: Death to the Wyrmspeakers
 ---
 # Chapters 11 and 12: Death to the Wyrmspeakers
 *Source: Rise of Tiamat, p. 124* 

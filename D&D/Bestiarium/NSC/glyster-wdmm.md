@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/wdmm
-- ttrpg-cli/monster/cr/15
-- ttrpg-cli/monster/size/huge
-- ttrpg-cli/monster/type/dragon
+  - Quelle/5e/wdmm
+  - Monster/HG/15
+  - Monster/Größe/Riesig
+  - Monster/Typ/dragon
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Glyster
+  - Glyster
 ---
 # [Glyster](3-Mechanics\CLI\bestiary\npc/glyster-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 241*  

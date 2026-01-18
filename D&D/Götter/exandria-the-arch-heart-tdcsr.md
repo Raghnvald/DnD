@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-deity
+  - json5e-deity
 tags:
-- ttrpg-cli/compendium/src/5e/tdcsr
-- ttrpg-cli/deity/exandria
-- ttrpg-cli/domain/arcana
-- ttrpg-cli/domain/light
-- ttrpg-cli/domain/nature
-aliases: 
-- The Arch Heart
-- Corellon
+  - Quelle/5e/tdcsr
+  - Kompendium/Götter/exandria
+  - Kompendium/Götter/Domäne/arcana
+  - Kompendium/Götter/Domäne/light
+  - Kompendium/Götter/Domäne/nature
+aliases:
+  - The Arch Heart
+  - Corellon
 ---
 # The Arch Heart
 *Source: Tal'Dorei Campaign Setting Reborn p. 29* 

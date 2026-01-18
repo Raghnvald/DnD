@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/mcv3mc
-- new/monster/cr/1-4
-- new/monster/size/medium
-- new/monster/type/beast
+  - Quelle/5e/mcv3mc
+  - Monster/HG/1-4
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/beast
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Wolf of the Overworld
+  - Wolf of the Overworld
 ---
 # [Wolf of the Overworld](3-Mechanics\CLI\bestiary\beast/wolf-of-the-overworld-mcv3mc.md)
 *Source: Monstrous Compendium Volume 3: Minecraft Creatures p. 7*  

@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/wdh
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/very-rare
-aliases: 
-- "Lord's Ensemble"
+  - Quelle/5e/wdh
+  - Gegenstand/attunement/required
+  - Gegenstand/rarity/very-rare
+aliases:
+  - Lord's Ensemble
 ---
 # Lord's Ensemble
 *Wondrous item, very rare (requires attunement by a creature with a humanoid build)*  

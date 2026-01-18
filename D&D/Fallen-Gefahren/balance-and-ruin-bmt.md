@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-hazard
+  - json5e-hazard
 tags:
-- new/compendium/src/5e/bmt
-- new/hazard/mech
+  - Quelle/5e/bmt
+  - Kompendium/hazard/mech
 aliases:
-- Balance and Ruin
+  - Balance and Ruin
 ---
 # Balance and Ruin
 *Mechanical Trap*  

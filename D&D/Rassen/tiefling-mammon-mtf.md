@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-race
+  - json5e-race
 tags:
-- ttrpg-cli/compendium/src/5e/mtf
-- ttrpg-cli/race/tiefling/mammon
+  - Quelle/5e/mtf
+  - Rasse/tiefling/mammon
 aliases:
-- Tiefling (Mammon)
+  - Tiefling (Mammon)
 ---
 # Tiefling (Mammon)
 *Source: Mordenkainen's Tome of Foes p. 22*  

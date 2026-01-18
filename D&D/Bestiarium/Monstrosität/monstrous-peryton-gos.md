@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/gos
-- ttrpg-cli/monster/cr/11
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/monstrosity
+  - Quelle/5e/gos
+  - Monster/HG/11
+  - Monster/Größe/Groß
+  - Monster/Typ/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Monstrous Peryton
+  - Monstrous Peryton
 ---
 # [Monstrous Peryton](3-Mechanics\CLI\bestiary\monstrosity/monstrous-peryton-gos.md)
 *Source: Ghosts of Saltmarsh p. 245*  

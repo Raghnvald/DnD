@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/bmt
-- new/monster/cr/9
-- new/monster/size/medium
-- new/monster/type/humanoid/paladin
+  - Quelle/5e/bmt
+  - Monster/HG/9
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/humanoid/paladin
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Solar Bastion Knight
+  - Solar Bastion Knight
 ---
 # [Solar Bastion Knight](3-Mechanics\CLI\bestiary\humanoid/solar-bastion-knight-bmt.md)
 *Source: The Book of Many Things p. 75*  

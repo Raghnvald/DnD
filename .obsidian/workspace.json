@@ -4,25 +4,109 @@
     "type": "split",
     "children": [
       {
-        "id": "e13b4e3681241208",
+        "id": "4b6cc47cdf53c866",
         "type": "tabs",
         "children": [
           {
-            "id": "161d063186f91cb8",
+            "id": "df9be51e3135c504",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D&D/Abenteuer/Die_Tiefen_von_Phandelver-Der_zersplitterte_Obelisk/06-Kapitel_5-Gefährliche_Pfade.md",
+                "file": "D&D/01-Spielleiter/Zustände-phb.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "06-Kapitel_5-Gefährliche_Pfade"
+              "title": "Zustände-phb"
+            }
+          },
+          {
+            "id": "b1cf2ec620835ad6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "D&D/01-Spielleiter/Fertigkeiten-phb.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Fertigkeiten-phb"
+            }
+          },
+          {
+            "id": "7b13eda7f465f0ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "D&D/99-Setup/Sammlungen/Templates/Gegner-STATBLOCK.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Gegner-STATBLOCK"
+            }
+          },
+          {
+            "id": "413f1dc3714b5008",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "D&D/Bestiarium/Untot/Zombie-mm.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Zombie-mm"
+            }
+          },
+          {
+            "id": "d6ec91fcccda23ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "D&D/Bestiarium/NSC/Gwyn_Erzsang-pabtso.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Gwyn_Erzsang-pabtso"
+            }
+          },
+          {
+            "id": "f248706ad3d48bbf",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "D&D/01-Spielleiter/00. Rüstungen.base",
+                "viewName": "Rüstungen"
+              },
+              "icon": "lucide-table",
+              "title": "00. Rüstungen"
+            }
+          },
+          {
+            "id": "a6892e2e9c2f96ab",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -81,8 +165,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 377.5,
-    "collapsed": true
+    "width": 364.5
   },
   "right": {
     "id": "776d1eb368848153",
@@ -162,14 +245,28 @@
               "icon": "links-going-out",
               "title": "Outgoing links"
             }
+          },
+          {
+            "id": "935a8ed0a6675aad",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,27 +285,37 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "161d063186f91cb8",
+  "active": "a6892e2e9c2f96ab",
   "lastOpenFiles": [
-    "D&D/Bestiarium/Humanoid/Goblin-mm.md",
-    "D&D/Bestiarium/Humanoid/Goblin-Boss-mm.md",
-    "D&D/01-Spielleiter/Aktionen-phb.md",
-    "D&D/Gegenstände/Lederrüstung-phb.md",
-    "D&D/Gegenstände/Schild-phb.md",
-    "D&D/Gegenstände/Schild.md",
-    "Gegenstände/Lederrüstung.md",
-    "Gegenstände",
-    "D&D/Bestiarium/Humanoid/Vampirvertrauter-xmm.md",
-    "D&D/Bestiarium/NSC/Ruxithid_der_Auserwählte-pabtso.md",
+    "D&D/01-Spielleiter/00. Rüstungen.base",
+    "D&D/01-Spielleiter/00-DM Screen/DM Kanban Side.md",
     "D&D/Abenteuer/Die_Tiefen_von_Phandelver-Der_zersplitterte_Obelisk/06-Kapitel_5-Gefährliche_Pfade.md",
-    "D&D/Bestiarium/NSC/Gwyn_Erzsang-pabtso.md",
-    "D&D/01-Spielleiter/Zustände-phb.md",
-    "D&D/01-Spielleiter/Fertigkeiten-phb.md",
-    "D&D/Bestiarium/Humanoid/Akolyth.md",
-    "D&D/Zauber/Heilige_Flamme-phb.md",
-    "D&D/01-Spielleiter/Sinne-phb.md",
-    "D&D/Bestiarium/Aberration/Goblin-Psi-Befehlshaber-pabtso.md",
-    "D&D/Abenteuer/Die_Tiefen_von_Phandelver-Der_zersplitterte_Obelisk/10-Anhang-A-Kreaturen.md",
+    "D&D/Bestiarium/NSC/brother-broumane-jttrc.md",
+    "D&D/Gegenstände/Kräuterkunde-Ausrüstung-xphb.md",
+    "D&D/Hintergründe/baldurs-gate-criminal-bgdia.md",
+    "D&D/Hintergründe/ashari-tdcsr.md",
+    "3-Mechanics/CLI/backgrounds/acolyte.md",
+    "D&D/items/potion-of-healing-gv.md",
+    "D&D/items/nine-lives-stealer.md",
+    "D&D/Gegenstände/nightbringer-mcv2dc.md",
+    "D&D/items/hat-of-disguise.md",
+    "D&D/items/harkons-bite-vrgr.md",
+    "D&D/items/emblem.md",
+    "D&D/Gegenstände/elven-trinket-mtf.md",
+    "D&D/items/barding.md",
+    "D&D/Gegenstände/banner-of-the-krig-rune-skt.md",
+    "D&D/items/battleaxe.md",
+    "D&D/items/battle-standard-of-infernal-power-bgdia.md",
+    "D&D/items/flour.md",
+    "D&D/items/flensing-claws-huge-vgm.md",
+    "D&D/items/bracers-of-defense.md",
+    "D&D/items/mind-crystal-pabtso.md",
+    "D&D/items/chime-of-opening.md",
+    "D&D/Gegenstände/chime-of-exile-veor.md",
+    "D&D/items/black-dragon-scale-mail.md",
+    "Untot",
+    "01-Spielleiter",
+    "Gegenstände",
     "D&D/Abenteuer/wildemount-frozen-sick/img/credits.webp",
     "D&D/Abenteuer/wildemount-frozen-sick/img/120-5-10-salsvault.webp",
     "D&D/Abenteuer/wildemount-frozen-sick/img/120-5-10-salsvault-player.webp",
@@ -216,25 +323,14 @@
     "D&D/Abenteuer/wildemount-frozen-sick/img/118-5-9-croaker-cave.webp",
     "D&D/Abenteuer/wildemount-frozen-sick/img/118-5-9-croaker-cave-player.webp",
     "D&D/Abenteuer/wildemount-frozen-sick/img",
-    "D&D/Abenteuer/wildemount-frozen-sick/2-credits.md",
-    "D&D/Abenteuer/wildemount-frozen-sick/1-frozen-sick.md",
     "D&D/Abenteuer/wildemount-frozen-sick",
     "D&D/Abenteuer/Aufstieg_von_Tiamat/img/110-tod-e-17a.webp",
     "D&D/Abenteuer/Aufstieg_von_Tiamat/img/109-tod-e-17b.webp",
     "D&D/Abenteuer/Aufstieg_von_Tiamat/img/108-tod-e-16d.webp",
     "D&D/Abenteuer/Aufstieg_von_Tiamat/img/107-tod-e-16c.webp",
     "D&D/Abenteuer/Aufstieg_von_Tiamat/img",
-    "D&D/Abenteuer/Aufstieg_von_Tiamat/15-credits.md",
-    "D&D/Abenteuer/Aufstieg_von_Tiamat/14-appendix-e-concept-gallery.md",
-    "D&D/Abenteuer/Aufstieg_von_Tiamat/13-appendix-d-monsters.md",
-    "D&D/Abenteuer/Aufstieg_von_Tiamat/12-appendix-c-magic-items.md",
-    "D&D/Abenteuer/Aufstieg_von_Tiamat/11-appendix-b-council-scorecard.md",
-    "D&D/Abenteuer/Aufstieg_von_Tiamat/10-appendix-a-backgrounds.md",
     "D&D/Abenteuer/Aufstieg_von_Tiamat",
     "D&D/01-Spielleiter/Core Rules DMS.pdf",
-    "D&D/3-Mechanics/CLI/adventures/phandelver-and-below-the-shattered-obelisk/img",
-    "D&D/3-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/img",
-    "D&D/3-Mechanics/CLI/adventures/phandelver-and-below-the-shattered-obelisk",
-    "D&D/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img"
+    "D&D/3-Mechanics/CLI/adventures/phandelver-and-below-the-shattered-obelisk/img"
   ]
 }

@@ -1,20 +1,20 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/tdcsr
-- ttrpg-cli/monster/cr/3
-- ttrpg-cli/monster/environment/coastal
-- ttrpg-cli/monster/environment/desert
-- ttrpg-cli/monster/environment/forest
-- ttrpg-cli/monster/environment/swamp
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/monstrosity
+  - Quelle/5e/tdcsr
+  - Monster/HG/3
+  - Monster/Habitat/coastal
+  - Monster/Habitat/desert
+  - Monster/Habitat/forest
+  - Monster/Habitat/swamp
+  - Monster/Größe/Groß
+  - Monster/Typ/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Vos'skyriss Serpentfolk
+  - Vos'skyriss Serpentfolk
 ---
 # [Vos'skyriss Serpentfolk](3-Mechanics\CLI\bestiary\monstrosity/vosskyriss-serpentfolk-tdcsr.md)
 *Source: Tal'Dorei Campaign Setting Reborn p. 258*  

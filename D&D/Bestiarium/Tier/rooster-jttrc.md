@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/jttrc
-- ttrpg-cli/monster/cr/0
-- ttrpg-cli/monster/size/tiny
-- ttrpg-cli/monster/type/beast
+  - Quelle/5e/jttrc
+  - Monster/HG/0
+  - Monster/Größe/Winzig
+  - Monster/Typ/beast
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Rooster
+  - Rooster
 ---
 # [Rooster](3-Mechanics\CLI\bestiary\beast/rooster-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 206*  

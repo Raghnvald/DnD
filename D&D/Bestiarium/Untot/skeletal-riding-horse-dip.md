@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/dip
-- new/monster/cr/1-4
-- new/monster/size/large
-- new/monster/type/undead
+  - Quelle/5e/dip
+  - Monster/HG/1-4
+  - Monster/Größe/Groß
+  - Monster/Typ/undead
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Skeletal Riding Horse
+  - Skeletal Riding Horse
 ---
 # [Skeletal Riding Horse](3-Mechanics\CLI\bestiary\undead/skeletal-riding-horse-dip.md)
 *Source: Dragon of Icespire Peak p. 21*  

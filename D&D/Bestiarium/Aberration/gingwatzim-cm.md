@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/cm
-- new/monster/cr/2
-- new/monster/size/small
-- new/monster/type/aberration/shapechanger
+  - Quelle/5e/cm
+  - Monster/HG/2
+  - Monster/Größe/Klein
+  - Monster/Typ/aberration/shapechanger
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Gingwatzim
+  - Gingwatzim
 ---
 # [Gingwatzim](3-Mechanics\CLI\bestiary\aberration/gingwatzim-cm.md)
 *Source: Candlekeep Mysteries p. 27*  

@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/mcv4ec
-- ttrpg-cli/monster/cr/1-2
-- ttrpg-cli/monster/size/tiny
-- ttrpg-cli/monster/type/fey
+  - Quelle/5e/mcv4ec
+  - Monster/HG/1-2
+  - Monster/Größe/Winzig
+  - Monster/Typ/fey
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Faerie Borrower
+  - Faerie Borrower
 ---
 # [Faerie Borrower](3-Mechanics\CLI\bestiary\fey/faerie-borrower-mcv4ec.md)
 *Source: Monstrous Compendium Volume 4: Eldraine Creatures*  

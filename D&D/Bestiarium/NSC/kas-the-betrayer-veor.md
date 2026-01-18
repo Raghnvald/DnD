@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/veor
-- ttrpg-cli/monster/cr/23
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/undead/vampire
+  - Quelle/5e/veor
+  - Monster/HG/23
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/undead/vampire
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Kas the Betrayer
+  - Kas the Betrayer
 ---
 # [Kas the Betrayer](3-Mechanics\CLI\bestiary\npc/kas-the-betrayer-veor.md)
 *Source: Vecna: Eve of Ruin p. 244*  

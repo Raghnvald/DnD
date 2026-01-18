@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-background
+  - json5e-background
 tags:
-- ttrpg-cli/background
-- ttrpg-cli/compendium/src/5e/phb
+  - Kompendium/Hintergrund
+  - Quelle/5e/phb
 aliases:
-- Hermit
+  - Hermit
 ---
 # Hermit
 *Source: Player's Handbook p. 134*  

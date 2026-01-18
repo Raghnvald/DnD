@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- new/compendium/src/5e/idrotf
-- new/item/attunement/required
-- new/item/rarity/legendary
-aliases: 
-- "Ythryn Mythallar"
+  - Quelle/5e/idrotf
+  - Gegenstand/attunement/required
+  - Gegenstand/rarity/legendary
+aliases:
+  - Ythryn Mythallar
 ---
 # Ythryn Mythallar
 *Wondrous item, legendary (requires attunement by a spellcaster)*  

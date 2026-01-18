@@ -1,30 +1,30 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- new/compendium/src/5e/bmt
-- new/item/armor/heavy
-- new/item/armor/light
-- new/item/armor/medium
-- new/item/attunement/required
-- new/item/rarity/very-rare
-- new/item/wondrous/generic-variant
-aliases: 
-- "Antimagic Armor"
-- "Antimagic Breastplate"
-- "Antimagic Chain Mail"
-- "Antimagic Chain Shirt"
-- "Antimagic Half Plate Armor"
-- "Antimagic Hide Armor"
-- "Antimagic Leather Armor"
-- "Antimagic Padded Armor"
-- "Antimagic Plate Armor"
-- "Antimagic Ring Mail"
-- "Antimagic Scale Mail"
-- "Antimagic Spiked Armor"
-- "Antimagic Splint Armor"
-- "Antimagic Studded Leather Armor"
+  - Quelle/5e/bmt
+  - Gegenstand/armor/heavy
+  - Gegenstand/armor/light
+  - Gegenstand/armor/medium
+  - Gegenstand/attunement/required
+  - Gegenstand/rarity/very-rare
+  - Gegenstand/wondrous/generic-variant
+aliases:
+  - Antimagic Armor
+  - Antimagic Breastplate
+  - Antimagic Chain Mail
+  - Antimagic Chain Shirt
+  - Antimagic Half Plate Armor
+  - Antimagic Hide Armor
+  - Antimagic Leather Armor
+  - Antimagic Padded Armor
+  - Antimagic Plate Armor
+  - Antimagic Ring Mail
+  - Antimagic Scale Mail
+  - Antimagic Spiked Armor
+  - Antimagic Splint Armor
+  - Antimagic Studded Leather Armor
 ---
 # Antimagic Armor
 *Very rare (requires attunement)*  

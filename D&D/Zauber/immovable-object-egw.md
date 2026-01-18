@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-spell
+  - json5e-spell
 tags:
-- ttrpg-cli/compendium/src/5e/egw
-- ttrpg-cli/spell/level/2nd-level
-- ttrpg-cli/spell/school/transmutation
+  - Quelle/5e/egw
+  - Zauber/Grad/2
+  - Zauber/Schule/transmutation
 aliases:
-- Immovable Object
+  - Immovable Object
 ---
 # Immovable Object
 *2nd-level, Transmutation*  

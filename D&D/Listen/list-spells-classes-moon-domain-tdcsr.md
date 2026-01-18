@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/subclass/moon-domain
+- Zauber/list/subclass/moon-domain
 aliases:
 - Spells for Moon Domain
 ---

@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/bgg
-- ttrpg-cli/monster/cr/10
-- ttrpg-cli/monster/size/huge
-- ttrpg-cli/monster/type/giant
+  - Quelle/5e/bgg
+  - Monster/HG/10
+  - Monster/Größe/Riesig
+  - Monster/Typ/giant
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Fire Giant of Evil Fire
+  - Fire Giant of Evil Fire
 ---
 # [Fire Giant of Evil Fire](3-Mechanics\CLI\bestiary\giant/fire-giant-of-evil-fire-bgg.md)
 *Source: Bigby Presents: Glory of the Giants p. 139*  

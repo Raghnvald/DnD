@@ -1,14 +1,14 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-deity
+  - json5e-deity
 tags:
-- new/compendium/src/5e/erlw
-- new/deity/eberron
-- new/domain/life
-- new/domain/nature
-aliases: 
-- Arawai
+  - Quelle/5e/erlw
+  - Kompendium/Götter/eberron
+  - Kompendium/Götter/Domäne/life
+  - Kompendium/Götter/Domäne/nature
+aliases:
+  - Arawai
 ---
 # Arawai
 *Source: Eberron: Rising from the Last War p. 141* 

@@ -1,46 +1,46 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/tdcsr
-- ttrpg-cli/item/age/futuristic
-- ttrpg-cli/item/age/modern
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/rare
-- ttrpg-cli/item/weapon/martial
-- ttrpg-cli/item/weapon/melee
-- ttrpg-cli/item/weapon/ranged
-- ttrpg-cli/item/weapon/simple
-- ttrpg-cli/item/wondrous/generic-variant
-aliases: 
-- "Oceanic Weapon"
-- "Oceanic Antimatter Rifle"
-- "Oceanic Automatic Rifle"
-- "Oceanic Blowgun"
-- "Oceanic Dagger"
-- "Oceanic Dart"
-- "Oceanic Hand Crossbow"
-- "Oceanic Handaxe"
-- "Oceanic Heavy Crossbow"
-- "Oceanic Hunting Rifle"
-- "Oceanic Javelin"
-- "Oceanic Laser Pistol"
-- "Oceanic Laser Rifle"
-- "Oceanic Light Crossbow"
-- "Oceanic Light Hammer"
-- "Oceanic Light Repeating Crossbow"
-- "Oceanic Longbow"
-- "Oceanic Musket"
-- "Oceanic Pistol"
-- "Oceanic Revolver"
-- "Oceanic Semiautomatic Pistol"
-- "Oceanic Shortbow"
-- "Oceanic Shotgun"
-- "Oceanic Sling"
-- "Oceanic Spear"
-- "Oceanic Trident"
-- "Oceanic Yklwa"
+  - Quelle/5e/tdcsr
+  - Gegenstand/age/futuristic
+  - Gegenstand/age/modern
+  - Gegenstand/attunement/required
+  - Gegenstand/rarity/rare
+  - Gegenstand/weapon/martial
+  - Gegenstand/weapon/melee
+  - Gegenstand/weapon/ranged
+  - Gegenstand/weapon/simple
+  - Gegenstand/wondrous/generic-variant
+aliases:
+  - Oceanic Weapon
+  - Oceanic Antimatter Rifle
+  - Oceanic Automatic Rifle
+  - Oceanic Blowgun
+  - Oceanic Dagger
+  - Oceanic Dart
+  - Oceanic Hand Crossbow
+  - Oceanic Handaxe
+  - Oceanic Heavy Crossbow
+  - Oceanic Hunting Rifle
+  - Oceanic Javelin
+  - Oceanic Laser Pistol
+  - Oceanic Laser Rifle
+  - Oceanic Light Crossbow
+  - Oceanic Light Hammer
+  - Oceanic Light Repeating Crossbow
+  - Oceanic Longbow
+  - Oceanic Musket
+  - Oceanic Pistol
+  - Oceanic Revolver
+  - Oceanic Semiautomatic Pistol
+  - Oceanic Shortbow
+  - Oceanic Shotgun
+  - Oceanic Sling
+  - Oceanic Spear
+  - Oceanic Trident
+  - Oceanic Yklwa
 ---
 # Oceanic Weapon
 *Rare (requires attunement)*  

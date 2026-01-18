@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/tftyp
-- new/monster/cr/2
-- new/monster/size/large
-- new/monster/type/ooze
+  - Quelle/5e/tftyp
+  - Monster/HG/2
+  - Monster/Größe/Groß
+  - Monster/Typ/ooze
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Sentient Ochre Jelly
+  - Sentient Ochre Jelly
 ---
 # [Sentient Ochre Jelly](3-Mechanics\CLI\bestiary\ooze/sentient-ochre-jelly-tftyp.md)
 *Source: Tales from the Yawning Portal p. 158*  

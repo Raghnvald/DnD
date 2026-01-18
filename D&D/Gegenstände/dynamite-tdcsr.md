@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/tdcsr
-- ttrpg-cli/item/rarity/none
-- ttrpg-cli/item/weapon/explosive
-aliases: 
-- "Dynamite"
+  - Quelle/5e/tdcsr
+  - Gegenstand/rarity/none
+  - Gegenstand/weapon/explosive
+aliases:
+  - Dynamite
 ---
 # Dynamite
 *Explosive*  

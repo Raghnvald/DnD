@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-spell
+  - json5e-spell
 tags:
-- new/compendium/src/5e/bmt
-- new/spell/level/2nd-level
-- new/spell/school/conjuration
+  - Quelle/5e/bmt
+  - Zauber/Grad/2
+  - Zauber/Schule/conjuration
 aliases:
-- Spray of Cards
+  - Spray of Cards
 ---
 # Spray of Cards
 *2nd-level, Conjuration*  

@@ -1,17 +1,17 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-spell
+  - json5e-spell
 tags:
-- ttrpg-cli/compendium/src/5e/egw
-- ttrpg-cli/spell/level/cantrip
-- ttrpg-cli/spell/optfeature/pact-of-the-tome
-- ttrpg-cli/spell/school/necromancy
-- ttrpg-cli/spell/subclass/death-domain
+  - Quelle/5e/egw
+  - Zauber/Grad/0
+  - Zauber/optfeature/pact-of-the-tome
+  - Zauber/Schule/necromancy
+  - Subklasse/death-domain
 classes:
-- Cleric (Death Domain)
+  - Cleric (Death Domain)
 aliases:
-- Sapping Sting
+  - Sapping Sting
 ---
 # Sapping Sting
 *cantrip, Necromancy*  

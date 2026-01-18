@@ -1,17 +1,17 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/bmt
-- new/monster/cr/3
-- new/monster/size/medium
-- new/monster/type/humanoid/minotaur
-- new/monster/type/humanoid/warlock
+  - Quelle/5e/bmt
+  - Monster/HG/3
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/humanoid/minotaur
+  - Monster/Typ/humanoid/warlock
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Brusipha
+  - Brusipha
 ---
 # [Brusipha](3-Mechanics\CLI\bestiary\npc/brusipha-bmt.md)
 *Source: The Book of Many Things p. 127*  

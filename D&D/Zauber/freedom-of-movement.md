@@ -1,28 +1,28 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-spell
+  - json5e-spell
 tags:
-- ttrpg-cli/compendium/src/5e/phb
-- ttrpg-cli/spell/class/bard/magical-secrets
-- ttrpg-cli/spell/class/cleric
-- ttrpg-cli/spell/class/druid
-- ttrpg-cli/spell/class/ranger
-- ttrpg-cli/spell/level/4th-level
-- ttrpg-cli/spell/school/abjuration
-- ttrpg-cli/spell/subclass/circle-of-the-land/arctic
-- ttrpg-cli/spell/subclass/oath-of-devotion
-- ttrpg-cli/spell/subclass/war-domain
+  - Quelle/5e/phb
+  - Klasse/bard/magical-secrets
+  - Klasse/cleric
+  - Klasse/druid
+  - Klasse/ranger
+  - Zauber/Grad/4
+  - Zauber/Schule/abjuration
+  - Subklasse/circle-of-the-land/arctic
+  - Subklasse/oath-of-devotion
+  - Subklasse/war-domain
 classes:
-- Bard (Magical Secrets)
-- Cleric
-- Cleric (War Domain)
-- Druid
-- Druid (Circle of the Land, Arctic)
-- Paladin (Oath of Devotion)
-- Ranger
+  - Bard (Magical Secrets)
+  - Cleric
+  - Cleric (War Domain)
+  - Druid
+  - Druid (Circle of the Land, Arctic)
+  - Paladin (Oath of Devotion)
+  - Ranger
 aliases:
-- Freedom of Movement
+  - Freedom of Movement
 ---
 # Freedom of Movement
 *4th-level, Abjuration*  

@@ -1,11 +1,11 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- ttrpg-cli/compendium/src/5e/wdmm
+  - Quelle/5e/wdmm
 aliases:
-- Level 15: Obstacle Course
+  - Level 15: Obstacle Course
 ---
 # Level 15: Obstacle Course
 *Source: Waterdeep: Dungeon of the Mad Mage, p. 193* 

@@ -1,11 +1,11 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- new/compendium/src/5e/dosi
+  - Quelle/5e/dosi
 aliases:
-- Credits
+  - Credits
 ---
 # Credits
 *Source: Dragons of Stormwreck Isle* 

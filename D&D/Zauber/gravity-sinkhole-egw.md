@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-spell
+  - json5e-spell
 tags:
-- ttrpg-cli/compendium/src/5e/egw
-- ttrpg-cli/spell/level/4th-level
-- ttrpg-cli/spell/school/evocation
+  - Quelle/5e/egw
+  - Zauber/Grad/4
+  - Zauber/Schule/evocation
 aliases:
-- Gravity Sinkhole
+  - Gravity Sinkhole
 ---
 # Gravity Sinkhole
 *4th-level, Evocation*  

@@ -1,14 +1,14 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- new/compendium/src/5e/tftyp
-- new/item/rarity/unknown/magic
-- new/item/weapon/martial
-- new/item/weapon/melee
-aliases: 
-- "Macuahuitl"
+  - Quelle/5e/tftyp
+  - Gegenstand/rarity/unknown/magic
+  - Gegenstand/weapon/martial
+  - Gegenstand/weapon/melee
+aliases:
+  - Macuahuitl
 ---
 # Macuahuitl
 *Weapon (longsword)*  

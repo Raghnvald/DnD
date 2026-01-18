@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- new/compendium/src/5e/erlw
-- new/item/attunement/required
-- new/item/rarity/very-rare
-aliases: 
-- "Arcane Propulsion Arm"
+  - Quelle/5e/erlw
+  - Gegenstand/attunement/required
+  - Gegenstand/rarity/very-rare
+aliases:
+  - Arcane Propulsion Arm
 ---
 # Arcane Propulsion Arm
 *Wondrous item, very rare (requires attunement by a creature missing a hand or an arm)*  

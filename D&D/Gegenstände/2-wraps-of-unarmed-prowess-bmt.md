@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- new/compendium/src/5e/bmt
-- new/item/rarity/rare
-aliases: 
-- "+2 Wraps of Unarmed Prowess"
+  - Quelle/5e/bmt
+  - Gegenstand/rarity/rare
+aliases:
+  - +2 Wraps of Unarmed Prowess
 ---
 # +2 Wraps of Unarmed Prowess
 *Wondrous item, rare*  

@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/wdmm
-- ttrpg-cli/monster/cr/1-4
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/construct
+  - Quelle/5e/wdmm
+  - Monster/HG/1-4
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/construct
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Animated Jade Serpent
+  - Animated Jade Serpent
 ---
 # [Animated Jade Serpent](3-Mechanics\CLI\bestiary\construct/animated-jade-serpent-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 92*  

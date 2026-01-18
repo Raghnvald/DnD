@@ -4,8 +4,8 @@ cssclasses:
 tags:
   - Quelle/5e/scag
   - Kompendium/Götter/faerunian
-  - Kompendium/Götter/domain/forge
-  - Kompendium/Götter/domain/knowledge
+  - Kompendium/Götter/Domäne/forge
+  - Kompendium/Götter/Domäne/knowledge
 aliases:
   - Gond
   - The Wonderbringer

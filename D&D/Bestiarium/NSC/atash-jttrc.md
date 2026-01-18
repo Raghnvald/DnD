@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/jttrc
-- ttrpg-cli/monster/cr/21
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/celestial
+  - Quelle/5e/jttrc
+  - Monster/HG/21
+  - Monster/Größe/Groß
+  - Monster/Typ/celestial
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Atash
+  - Atash
 ---
 # [Atash](3-Mechanics\CLI\bestiary\npc/atash-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 166*  

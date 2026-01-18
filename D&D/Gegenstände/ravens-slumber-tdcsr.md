@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/tdcsr
-- ttrpg-cli/item/rarity/very-rare
-aliases: 
-- "Raven's Slumber"
+  - Quelle/5e/tdcsr
+  - Gegenstand/rarity/very-rare
+aliases:
+  - Raven's Slumber
 ---
 # Raven's Slumber
 *Wondrous item, very rare*  

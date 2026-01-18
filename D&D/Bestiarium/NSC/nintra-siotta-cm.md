@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/cm
-- new/monster/cr/16
-- new/monster/size/large
-- new/monster/type/fey
+  - Quelle/5e/cm
+  - Monster/HG/16
+  - Monster/Größe/Groß
+  - Monster/Typ/fey
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Nintra Siotta
+  - Nintra Siotta
 ---
 # [Nintra Siotta](3-Mechanics\CLI\bestiary\npc/nintra-siotta-cm.md)
 *Source: Candlekeep Mysteries p. 197*  

@@ -1,70 +1,70 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/egw
-- ttrpg-cli/item/age/futuristic
-- ttrpg-cli/item/age/modern
-- ttrpg-cli/item/rarity/rare
-- ttrpg-cli/item/weapon/martial
-- ttrpg-cli/item/weapon/melee
-- ttrpg-cli/item/weapon/ranged
-- ttrpg-cli/item/weapon/simple
-- ttrpg-cli/item/wondrous/generic-variant
-aliases: 
-- "Weapon of Certain Death"
-- "Antimatter Rifle of Certain Death"
-- "Automatic Rifle of Certain Death"
-- "Battleaxe of Certain Death"
-- "Blowgun of Certain Death"
-- "Club of Certain Death"
-- "Dagger of Certain Death"
-- "Dart of Certain Death"
-- "Double-Bladed Scimitar of Certain Death"
-- "Flail of Certain Death"
-- "Glaive of Certain Death"
-- "Greataxe of Certain Death"
-- "Greatclub of Certain Death"
-- "Greatsword of Certain Death"
-- "Halberd of Certain Death"
-- "Hand Crossbow of Certain Death"
-- "Handaxe of Certain Death"
-- "Heavy Crossbow of Certain Death"
-- "Hooked Shortspear of Certain Death"
-- "Hoopak of Certain Death"
-- "Hunting Rifle of Certain Death"
-- "Javelin of Certain Death"
-- "Lance of Certain Death"
-- "Laser Pistol of Certain Death"
-- "Laser Rifle of Certain Death"
-- "Light Crossbow of Certain Death"
-- "Light Hammer of Certain Death"
-- "Light Repeating Crossbow of Certain Death"
-- "Longbow of Certain Death"
-- "Longsword of Certain Death"
-- "Mace of Certain Death"
-- "Maul of Certain Death"
-- "Morningstar of Certain Death"
-- "Musket of Certain Death"
-- "Pike of Certain Death"
-- "Pistol of Certain Death"
-- "Quarterstaff of Certain Death"
-- "Rapier of Certain Death"
-- "Revolver of Certain Death"
-- "Scimitar of Certain Death"
-- "Semiautomatic Pistol of Certain Death"
-- "Shortbow of Certain Death"
-- "Shortsword of Certain Death"
-- "Shotgun of Certain Death"
-- "Sickle of Certain Death"
-- "Sling of Certain Death"
-- "Spear of Certain Death"
-- "Trident of Certain Death"
-- "War Pick of Certain Death"
-- "Warhammer of Certain Death"
-- "Whip of Certain Death"
-- "Yklwa of Certain Death"
+  - Quelle/5e/egw
+  - Gegenstand/age/futuristic
+  - Gegenstand/age/modern
+  - Gegenstand/rarity/rare
+  - Gegenstand/weapon/martial
+  - Gegenstand/weapon/melee
+  - Gegenstand/weapon/ranged
+  - Gegenstand/weapon/simple
+  - Gegenstand/wondrous/generic-variant
+aliases:
+  - Weapon of Certain Death
+  - Antimatter Rifle of Certain Death
+  - Automatic Rifle of Certain Death
+  - Battleaxe of Certain Death
+  - Blowgun of Certain Death
+  - Club of Certain Death
+  - Dagger of Certain Death
+  - Dart of Certain Death
+  - Double-Bladed Scimitar of Certain Death
+  - Flail of Certain Death
+  - Glaive of Certain Death
+  - Greataxe of Certain Death
+  - Greatclub of Certain Death
+  - Greatsword of Certain Death
+  - Halberd of Certain Death
+  - Hand Crossbow of Certain Death
+  - Handaxe of Certain Death
+  - Heavy Crossbow of Certain Death
+  - Hooked Shortspear of Certain Death
+  - Hoopak of Certain Death
+  - Hunting Rifle of Certain Death
+  - Javelin of Certain Death
+  - Lance of Certain Death
+  - Laser Pistol of Certain Death
+  - Laser Rifle of Certain Death
+  - Light Crossbow of Certain Death
+  - Light Hammer of Certain Death
+  - Light Repeating Crossbow of Certain Death
+  - Longbow of Certain Death
+  - Longsword of Certain Death
+  - Mace of Certain Death
+  - Maul of Certain Death
+  - Morningstar of Certain Death
+  - Musket of Certain Death
+  - Pike of Certain Death
+  - Pistol of Certain Death
+  - Quarterstaff of Certain Death
+  - Rapier of Certain Death
+  - Revolver of Certain Death
+  - Scimitar of Certain Death
+  - Semiautomatic Pistol of Certain Death
+  - Shortbow of Certain Death
+  - Shortsword of Certain Death
+  - Shotgun of Certain Death
+  - Sickle of Certain Death
+  - Sling of Certain Death
+  - Spear of Certain Death
+  - Trident of Certain Death
+  - War Pick of Certain Death
+  - Warhammer of Certain Death
+  - Whip of Certain Death
+  - Yklwa of Certain Death
 ---
 # Weapon of Certain Death
 *Rare*  

@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/toa
-- new/monster/cr/0
-- new/monster/size/tiny
-- new/monster/type/elemental
+  - Quelle/5e/toa
+  - Monster/HG/0
+  - Monster/Größe/Winzig
+  - Monster/Typ/elemental
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Chwinga
+  - Chwinga
 ---
 # [Chwinga](3-Mechanics\CLI\bestiary\elemental/chwinga-toa.md)
 *Source: Tomb of Annihilation p. 216*  

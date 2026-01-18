@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/subrace/elf-pallid
+- Zauber/list/subrace/elf-pallid
 aliases:
 - Spells for Elf (Pallid)
 ---

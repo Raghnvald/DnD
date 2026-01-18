@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/toa
-- new/monster/cr/1
-- new/monster/size/medium
-- new/monster/type/humanoid/tabaxi
+  - Quelle/5e/toa
+  - Monster/HG/1
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/humanoid/tabaxi
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Flask of Wine
+  - Flask of Wine
 ---
 # [Flask of Wine](3-Mechanics\CLI\bestiary\npc/flask-of-wine-toa.md)
 *Source: Tomb of Annihilation p. 35*  

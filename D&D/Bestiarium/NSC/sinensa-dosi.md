@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/dosi
-- new/monster/cr/2
-- new/monster/size/large
-- new/monster/type/plant
+  - Quelle/5e/dosi
+  - Monster/HG/2
+  - Monster/Größe/Groß
+  - Monster/Typ/plant
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Sinensa
+  - Sinensa
 ---
 # [Sinensa](3-Mechanics\CLI\bestiary\npc/sinensa-dosi.md)
 *Source: Dragons of Stormwreck Isle p. 45*  

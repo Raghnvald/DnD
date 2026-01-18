@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/tftyp
-- new/monster/cr/1-2
-- new/monster/size/medium
-- new/monster/type/humanoid/human
+  - Quelle/5e/tftyp
+  - Monster/HG/1-2
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/humanoid/human
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Sharwyn Hucrele
+  - Sharwyn Hucrele
 ---
 # [Sharwyn Hucrele](3-Mechanics\CLI\bestiary\npc/sharwyn-hucrele-tftyp.md)
 *Source: Tales from the Yawning Portal p. 242*  

@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/bmt
-- new/monster/cr/14
-- new/monster/size/medium
-- new/monster/type/aberration
+  - Quelle/5e/bmt
+  - Monster/HG/14
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/aberration
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Breath Drinker
+  - Breath Drinker
 ---
 # [Breath Drinker](3-Mechanics\CLI\bestiary\aberration/breath-drinker-bmt.md)
 *Source: The Book of Many Things p. 154*  

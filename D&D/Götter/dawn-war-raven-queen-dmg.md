@@ -1,14 +1,14 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-deity
+  - json5e-deity
 tags:
-- Quelle/5e/dmg
-- Kompendium/Götter/dawn-war
-- Kompendium/Götter/domain/death
-- Kompendium/Götter/domain/life
-aliases: 
-- Raven Queen
+  - Quelle/5e/dmg
+  - Kompendium/Götter/dawn-war
+  - Kompendium/Götter/Domäne/death
+  - Kompendium/Götter/Domäne/life
+aliases:
+  - Raven Queen
 ---
 # Raven Queen
 *Source: Dungeon Master's Guide p. 10* 

@@ -1,14 +1,14 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/egw
-- ttrpg-cli/item/armor/light
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/very-rare
-aliases: 
-- "Hunter's Coat"
+  - Quelle/5e/egw
+  - Gegenstand/armor/light
+  - Gegenstand/attunement/required
+  - Gegenstand/rarity/very-rare
+aliases:
+  - Hunter's Coat
 ---
 # Hunter's Coat
 *Light armor ([leather armor](/3-Mechanics/CLI/items/leather-armor-xphb.md)), very rare (requires attunement)*  

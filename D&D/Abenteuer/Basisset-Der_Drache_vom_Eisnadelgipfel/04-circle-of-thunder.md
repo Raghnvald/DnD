@@ -1,11 +1,11 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- new/compendium/src/5e/dip
+  - Quelle/5e/dip
 aliases:
-- Circle of Thunder
+  - Circle of Thunder
 ---
 # Circle of Thunder
 *Source: Essentials Kit: Dragon of Icespire Peak, p. 18* 

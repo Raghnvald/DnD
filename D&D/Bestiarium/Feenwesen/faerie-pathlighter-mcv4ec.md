@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/mcv4ec
-- ttrpg-cli/monster/cr/2
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/fey
+  - Quelle/5e/mcv4ec
+  - Monster/HG/2
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/fey
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Faerie Pathlighter
+  - Faerie Pathlighter
 ---
 # [Faerie Pathlighter](3-Mechanics\CLI\bestiary\fey/faerie-pathlighter-mcv4ec.md)
 *Source: Monstrous Compendium Volume 4: Eldraine Creatures*  

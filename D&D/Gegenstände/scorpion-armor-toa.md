@@ -1,14 +1,14 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- new/compendium/src/5e/toa
-- new/item/armor/heavy
-- new/item/attunement/required
-- new/item/rarity/rare
-aliases: 
-- "Scorpion Armor"
+  - Quelle/5e/toa
+  - Gegenstand/armor/heavy
+  - Gegenstand/attunement/required
+  - Gegenstand/rarity/rare
+aliases:
+  - Scorpion Armor
 ---
 # Scorpion Armor
 *Heavy armor, cursed item, rare (requires attunement)*  

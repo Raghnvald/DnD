@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/subrace/tiefling-devils-tongue
+- Zauber/list/subrace/tiefling-devils-tongue
 aliases:
 - Spells for Tiefling (Devil's Tongue)
 ---

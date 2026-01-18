@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/toa
-- new/monster/cr/1
-- new/monster/size/small
-- new/monster/type/humanoid/goblinoid
+  - Quelle/5e/toa
+  - Monster/HG/1
+  - Monster/Größe/Klein
+  - Monster/Typ/humanoid/goblinoid
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Grabstab
+  - Grabstab
 ---
 # [Grabstab](3-Mechanics\CLI\bestiary\npc/grabstab-toa.md)
 *Source: Tomb of Annihilation p. 89*  

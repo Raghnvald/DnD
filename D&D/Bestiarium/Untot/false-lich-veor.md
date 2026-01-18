@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/veor
-- ttrpg-cli/monster/cr/21
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/undead
+  - Quelle/5e/veor
+  - Monster/HG/21
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/undead
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- False Lich
+  - False Lich
 ---
 # [False Lich](3-Mechanics\CLI\bestiary\undead/false-lich-veor.md)
 *Source: Vecna: Eve of Ruin p. 220*  

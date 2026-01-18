@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/idrotf
-- new/monster/cr/0
-- new/monster/size/small
-- new/monster/type/beast
+  - Quelle/5e/idrotf
+  - Monster/HG/0
+  - Monster/Größe/Klein
+  - Monster/Typ/beast
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Knucklehead Trout
+  - Knucklehead Trout
 ---
 # [Knucklehead Trout](3-Mechanics\CLI\bestiary\beast/knucklehead-trout-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 295*  

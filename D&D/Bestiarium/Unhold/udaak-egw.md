@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/egw
-- ttrpg-cli/monster/cr/16
-- ttrpg-cli/monster/size/gargantuan
-- ttrpg-cli/monster/type/fiend
+  - Quelle/5e/egw
+  - Monster/HG/16
+  - Monster/Größe/Gigantisch
+  - Monster/Typ/fiend
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Udaak
+  - Udaak
 ---
 # [Udaak](3-Mechanics\CLI\bestiary\fiend/udaak-egw.md)
 *Source: Explorer's Guide to Wildemount p. 301*  

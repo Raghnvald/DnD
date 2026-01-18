@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-spell
+  - json5e-spell
 tags:
-- ttrpg-cli/compendium/src/5e/egw
-- ttrpg-cli/spell/level/7th-level
-- ttrpg-cli/spell/school/necromancy
+  - Quelle/5e/egw
+  - Zauber/Grad/7
+  - Zauber/Schule/necromancy
 aliases:
-- Tether Essence
+  - Tether Essence
 ---
 # Tether Essence
 *7th-level, Necromancy*  

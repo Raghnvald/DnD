@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/egw
-- ttrpg-cli/monster/cr/9
-- ttrpg-cli/monster/size/huge
-- ttrpg-cli/monster/type/monstrosity
+  - Quelle/5e/egw
+  - Monster/HG/9
+  - Monster/Größe/Riesig
+  - Monster/Typ/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Allowak Abominable Yeti
+  - Allowak Abominable Yeti
 ---
 # [Allowak Abominable Yeti](3-Mechanics\CLI\bestiary\monstrosity/allowak-abominable-yeti-egw.md)
 *Source: Explorer's Guide to Wildemount p. 126*  

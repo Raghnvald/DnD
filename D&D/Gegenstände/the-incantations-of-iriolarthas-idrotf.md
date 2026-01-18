@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- new/compendium/src/5e/idrotf
-- new/item/gear/
-- new/item/rarity/unknown
-aliases: 
-- "The Incantations of Iriolarthas"
+  - Quelle/5e/idrotf
+  - Gegenstand/gear/
+  - Gegenstand/rarity/unknown
+aliases:
+  - The Incantations of Iriolarthas
 ---
 # The Incantations of Iriolarthas
 *Adventuring gear*  

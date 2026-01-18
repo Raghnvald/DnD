@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/dosi
-- new/monster/cr/1-4
-- new/monster/size/small
-- new/monster/type/humanoid
+  - Quelle/5e/dosi
+  - Monster/HG/1-4
+  - Monster/Größe/Klein
+  - Monster/Typ/humanoid
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Kobold Tinkerer
+  - Kobold Tinkerer
 ---
 # [Kobold Tinkerer](3-Mechanics\CLI\bestiary\humanoid/kobold-tinkerer-dosi.md)
 *Source: Dragons of Stormwreck Isle p. 43*  

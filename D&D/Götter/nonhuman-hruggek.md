@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-deity
+  - json5e-deity
 tags:
-- Quelle/5e/phb
-- Kompendium/Götter/nonhuman
-- Kompendium/Götter/domain/war
-aliases: 
-- Hruggek
+  - Quelle/5e/phb
+  - Kompendium/Götter/nonhuman
+  - Kompendium/Götter/Domäne/war
+aliases:
+  - Hruggek
 ---
 # Hruggek
 *Source: Player's Handbook p. 296* 

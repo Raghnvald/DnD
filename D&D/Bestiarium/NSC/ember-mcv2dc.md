@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/mcv2dc
-- new/monster/cr/22
-- new/monster/size/huge
-- new/monster/type/dragon/adult-chromatic
+  - Quelle/5e/mcv2dc
+  - Monster/HG/22
+  - Monster/Größe/Riesig
+  - Monster/Typ/dragon/adult-chromatic
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Ember
+  - Ember
 ---
 # [Ember](3-Mechanics\CLI\bestiary\npc/ember-mcv2dc.md)
 *Source: Monstrous Compendium Volume 2: Dragonlance Creatures p. 5*  

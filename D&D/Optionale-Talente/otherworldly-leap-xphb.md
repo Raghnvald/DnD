@@ -4,7 +4,7 @@ cssclasses:
 - json5e-feat
 tags:
 - Quelle/5e/xphb
-- Kompendium/optional-feature/ei
+- Kompendium/Optionales/ei
 aliases:
 - Otherworldly Leap
 ---

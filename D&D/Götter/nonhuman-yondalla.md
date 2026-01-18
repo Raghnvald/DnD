@@ -1,14 +1,14 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-deity
+  - json5e-deity
 tags:
-- Quelle/5e/phb
-- Kompendium/Götter/nonhuman
-- Kompendium/Götter/domain/life
-- Kompendium/Götter/domain/twilight
-aliases: 
-- Yondalla
+  - Quelle/5e/phb
+  - Kompendium/Götter/nonhuman
+  - Kompendium/Götter/Domäne/life
+  - Kompendium/Götter/Domäne/twilight
+aliases:
+  - Yondalla
 ---
 # Yondalla
 *Source: Player's Handbook p. 296, Tasha's Cauldron of Everything p. 34* 

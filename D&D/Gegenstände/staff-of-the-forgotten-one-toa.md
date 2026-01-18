@@ -1,14 +1,14 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- new/compendium/src/5e/toa
-- new/item/attunement/required
-- new/item/rarity/artifact
-- new/item/weapon/simple
-aliases: 
-- "Staff of the Forgotten One"
+  - Quelle/5e/toa
+  - Gegenstand/attunement/required
+  - Gegenstand/rarity/artifact
+  - Gegenstand/weapon/simple
+aliases:
+  - Staff of the Forgotten One
 ---
 # Staff of the Forgotten One
 *Staff, weapon, artifact (requires attunement by a sorcerer, warlock, or wizard)*  

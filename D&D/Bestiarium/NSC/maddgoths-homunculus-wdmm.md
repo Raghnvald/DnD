@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/wdmm
-- ttrpg-cli/monster/cr/2
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/construct
+  - Quelle/5e/wdmm
+  - Monster/HG/2
+  - Monster/Größe/Groß
+  - Monster/Typ/construct
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Maddgoth's Homunculus
+  - Maddgoth's Homunculus
 ---
 # [Maddgoth's Homunculus](3-Mechanics\CLI\bestiary\npc/maddgoths-homunculus-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 96*  

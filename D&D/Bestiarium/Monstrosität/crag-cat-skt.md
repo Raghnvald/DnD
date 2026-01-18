@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/skt
-- new/monster/cr/1
-- new/monster/size/large
-- new/monster/type/monstrosity
+  - Quelle/5e/skt
+  - Monster/HG/1
+  - Monster/Größe/Groß
+  - Monster/Typ/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Crag Cat
+  - Crag Cat
 ---
 # [Crag Cat](3-Mechanics\CLI\bestiary\monstrosity/crag-cat-skt.md)
 *Source: Storm King's Thunder p. 240, Icewind Dale: Rime of the Frostmaiden*  

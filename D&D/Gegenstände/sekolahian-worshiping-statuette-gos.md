@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/gos
-- ttrpg-cli/item/rarity/common
-aliases: 
-- "Sekolahian Worshiping Statuette"
+  - Quelle/5e/gos
+  - Gegenstand/rarity/common
+aliases:
+  - Sekolahian Worshiping Statuette
 ---
 # Sekolahian Worshiping Statuette
 *Wondrous item, common*  

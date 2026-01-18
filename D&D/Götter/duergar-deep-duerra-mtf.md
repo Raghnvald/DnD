@@ -1,14 +1,14 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-deity
+  - json5e-deity
 tags:
-- ttrpg-cli/compendium/src/5e/mtf
-- ttrpg-cli/deity/duergar
-- ttrpg-cli/domain/knowledge
-- ttrpg-cli/domain/war
-aliases: 
-- Deep Duerra
+  - Quelle/5e/mtf
+  - Kompendium/Götter/duergar
+  - Kompendium/Götter/Domäne/knowledge
+  - Kompendium/Götter/Domäne/war
+aliases:
+  - Deep Duerra
 ---
 # Deep Duerra
 *Source: Mordenkainen's Tome of Foes p. 79* 

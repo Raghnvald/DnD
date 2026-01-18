@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/subclass/oath-of-the-crown
+- Zauber/list/subclass/oath-of-the-crown
 aliases:
 - Spells for Oath of the Crown
 ---

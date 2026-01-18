@@ -1,18 +1,18 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/vgm
-- new/monster/cr/1
-- new/monster/environment/forest
-- new/monster/environment/swamp
-- new/monster/size/medium
-- new/monster/type/plant
+  - Quelle/5e/vgm
+  - Monster/HG/1
+  - Monster/Habitat/forest
+  - Monster/Habitat/swamp
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/plant
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Thorny
+  - Thorny
 ---
 # [Thorny](3-Mechanics\CLI\bestiary\plant/thorny-vgm.md)
 *Source: Volo's Guide to Monsters p. 197, Tomb of Annihilation*  

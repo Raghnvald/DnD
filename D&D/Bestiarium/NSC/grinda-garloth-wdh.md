@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/wdh
-- ttrpg-cli/monster/cr/6
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/humanoid/human
+  - Quelle/5e/wdh
+  - Monster/HG/6
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/humanoid/human
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Grinda Garloth
+  - Grinda Garloth
 ---
 # [Grinda Garloth](3-Mechanics\CLI\bestiary\npc/grinda-garloth-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 65*  

@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/wdmm
-- ttrpg-cli/monster/cr/23
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/humanoid/human
+  - Quelle/5e/wdmm
+  - Monster/HG/23
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/humanoid/human
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Halaster Blackcloak
+  - Halaster Blackcloak
 ---
 # [Halaster Blackcloak](3-Mechanics\CLI\bestiary\npc/halaster-blackcloak-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 310*  

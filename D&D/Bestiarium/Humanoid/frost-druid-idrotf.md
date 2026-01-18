@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/idrotf
-- new/monster/cr/5
-- new/monster/size/medium
-- new/monster/type/humanoid/human
+  - Quelle/5e/idrotf
+  - Monster/HG/5
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/humanoid/human
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Frost Druid
+  - Frost Druid
 ---
 # [Frost Druid](3-Mechanics\CLI\bestiary\humanoid/frost-druid-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 288*  

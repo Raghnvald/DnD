@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/bgg
-- ttrpg-cli/monster/cr/5
-- ttrpg-cli/monster/size/huge
-- ttrpg-cli/monster/type/beast
+  - Quelle/5e/bgg
+  - Monster/HG/5
+  - Monster/Größe/Riesig
+  - Monster/Typ/beast
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Titanothere
+  - Titanothere
 ---
 # [Titanothere](3-Mechanics\CLI\bestiary\beast/titanothere-bgg.md)
 *Source: Bigby Presents: Glory of the Giants p. 185*  

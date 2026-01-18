@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/wdmm
-- ttrpg-cli/item/rarity/common
-- ttrpg-cli/item/wondrous/potion
-aliases: 
-- "Potion of Comprehension"
+  - Quelle/5e/wdmm
+  - Gegenstand/rarity/common
+  - Gegenstand/wondrous/potion
+aliases:
+  - Potion of Comprehension
 ---
 # Potion of Comprehension
 *Potion, common*  

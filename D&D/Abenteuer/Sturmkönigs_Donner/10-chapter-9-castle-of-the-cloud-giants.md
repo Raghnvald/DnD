@@ -1,11 +1,11 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- new/compendium/src/5e/skt
+  - Quelle/5e/skt
 aliases:
-- Chapter 9: Castle of the Cloud Giants
+  - Chapter 9: Castle of the Cloud Giants
 ---
 # Chapter 9: Castle of the Cloud Giants
 *Source: Storm King's Thunder, p. 187* 

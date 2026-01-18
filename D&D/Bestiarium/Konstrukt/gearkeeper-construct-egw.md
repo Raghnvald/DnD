@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/egw
-- ttrpg-cli/monster/cr/10
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/construct
+  - Quelle/5e/egw
+  - Monster/HG/10
+  - Monster/Größe/Groß
+  - Monster/Typ/construct
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Gearkeeper Construct
+  - Gearkeeper Construct
 ---
 # [Gearkeeper Construct](3-Mechanics\CLI\bestiary\construct/gearkeeper-construct-egw.md)
 *Source: Explorer's Guide to Wildemount p. 290*  

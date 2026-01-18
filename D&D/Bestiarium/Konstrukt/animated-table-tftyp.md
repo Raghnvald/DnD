@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/tftyp
-- new/monster/cr/2
-- new/monster/size/large
-- new/monster/type/construct
+  - Quelle/5e/tftyp
+  - Monster/HG/2
+  - Monster/Größe/Groß
+  - Monster/Typ/construct
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Animated Table
+  - Animated Table
 ---
 # [Animated Table](3-Mechanics\CLI\bestiary\construct/animated-table-tftyp.md)
 *Source: Tales from the Yawning Portal p. 230*  

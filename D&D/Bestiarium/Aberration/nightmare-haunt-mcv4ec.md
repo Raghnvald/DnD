@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/mcv4ec
-- ttrpg-cli/monster/cr/5
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/aberration
+  - Quelle/5e/mcv4ec
+  - Monster/HG/5
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/aberration
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Nightmare Haunt
+  - Nightmare Haunt
 ---
 # [Nightmare Haunt](3-Mechanics\CLI\bestiary\aberration/nightmare-haunt-mcv4ec.md)
 *Source: Monstrous Compendium Volume 4: Eldraine Creatures*  

@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/toa
-- new/monster/cr/0
-- new/monster/size/small
-- new/monster/type/humanoid/human
+  - Quelle/5e/toa
+  - Monster/HG/0
+  - Monster/Größe/Klein
+  - Monster/Typ/humanoid/human
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Na
+  - Na
 ---
 # [Na](3-Mechanics\CLI\bestiary\npc/na-toa.md)
 *Source: Tomb of Annihilation p. 228*  

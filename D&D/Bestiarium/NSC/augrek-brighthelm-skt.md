@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/skt
-- new/monster/cr/
-- new/monster/size/medium
-- new/monster/type/humanoid/shield-dwarf
+  - Quelle/5e/skt
+  - Monster/HG/
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/humanoid/shield-dwarf
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Augrek Brighthelm
+  - Augrek Brighthelm
 ---
 # [Augrek Brighthelm](3-Mechanics\CLI\bestiary\npc/augrek-brighthelm-skt.md)
 *Source: Storm King's Thunder p. 247*  

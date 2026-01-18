@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/tftyp
-- new/monster/cr/2
-- new/monster/size/medium
-- new/monster/type/humanoid/any-race
+  - Quelle/5e/tftyp
+  - Monster/HG/2
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/humanoid/any-race
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Gorvan Ironheart
+  - Gorvan Ironheart
 ---
 # [Gorvan Ironheart](3-Mechanics\CLI\bestiary\npc/gorvan-ironheart-tftyp.md)
 *Source: Tales from the Yawning Portal p. 151*  

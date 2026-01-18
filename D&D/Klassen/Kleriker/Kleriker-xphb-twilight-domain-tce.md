@@ -3,7 +3,7 @@ cssclasses:
   - json5e-class
 tags:
   - Quelle/5e/tce
-  - Kompendium/Götter/domain/twilight
+  - Kompendium/Götter/Domäne/twilight
   - Klasse/Kleriker/twilight
 aliases:
   - Twilight Domain

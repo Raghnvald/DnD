@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-race
+  - json5e-race
 tags:
-- ttrpg-cli/compendium/src/5e/mtf
-- ttrpg-cli/race/tiefling/dispater
+  - Quelle/5e/mtf
+  - Rasse/tiefling/dispater
 aliases:
-- Tiefling (Dispater)
+  - Tiefling (Dispater)
 ---
 # Tiefling (Dispater)
 *Source: Mordenkainen's Tome of Foes p. 21*  

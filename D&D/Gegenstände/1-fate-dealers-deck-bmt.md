@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- new/compendium/src/5e/bmt
-- new/item/attunement/required
-- new/item/rarity/rare
-aliases: 
-- "+1 Fate Dealer's Deck"
+  - Quelle/5e/bmt
+  - Gegenstand/attunement/required
+  - Gegenstand/rarity/rare
+aliases:
+  - +1 Fate Dealer's Deck
 ---
 # +1 Fate Dealer's Deck
 *Wondrous item, rare (requires attunement by a cleric or paladin)*  

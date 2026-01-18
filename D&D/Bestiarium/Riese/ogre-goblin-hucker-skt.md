@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/skt
-- new/monster/cr/2
-- new/monster/size/large
-- new/monster/type/giant
+  - Quelle/5e/skt
+  - Monster/HG/2
+  - Monster/Größe/Groß
+  - Monster/Typ/giant
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Ogre Goblin Hucker
+  - Ogre Goblin Hucker
 ---
 # [Ogre Goblin Hucker](3-Mechanics\CLI\bestiary\giant/ogre-goblin-hucker-skt.md)
 *Source: Storm King's Thunder p. 50*  

@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/subclass/path-of-the-giant
+- Zauber/list/subclass/path-of-the-giant
 aliases:
 - Spells for Path of the Giant
 ---

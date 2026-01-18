@@ -1,11 +1,11 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- new/compendium/src/5e/erlw
+  - Quelle/5e/erlw
 aliases:
-- Menthis Plateau: Noteworthy Locations
+  - Menthis Plateau: Noteworthy Locations
 ---
 # Menthis Plateau: Noteworthy Locations
 *Source: Eberron: Rising from the Last War p. 169* 

@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/wdh
-- ttrpg-cli/monster/cr/1-2
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/humanoid/half-orc
+  - Quelle/5e/wdh
+  - Monster/HG/1-2
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/humanoid/half-orc
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Yagra Stonefist
+  - Yagra Stonefist
 ---
 # [Yagra Stonefist](3-Mechanics\CLI\bestiary\npc/yagra-stonefist-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 20*  

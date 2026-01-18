@@ -1,11 +1,11 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- ttrpg-cli/compendium/src/5e/mcv4ec
+  - Quelle/5e/mcv4ec
 aliases:
-- In This Collection; Eldraine Creatures
+  - In This Collection; Eldraine Creatures
 ---
 # In This Collection; Eldraine Creatures
 *Source: Monstrous Compendium Volume 4: Eldraine Creatures* 

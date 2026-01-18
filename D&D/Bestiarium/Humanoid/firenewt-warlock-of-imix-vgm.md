@@ -1,20 +1,20 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/vgm
-- new/monster/cr/1
-- new/monster/environment/desert
-- new/monster/environment/hill
-- new/monster/environment/mountain
-- new/monster/environment/underdark
-- new/monster/size/medium
-- new/monster/type/humanoid/firenewt
+  - Quelle/5e/vgm
+  - Monster/HG/1
+  - Monster/Habitat/desert
+  - Monster/Habitat/hill
+  - Monster/Habitat/mountain
+  - Monster/Habitat/underdark
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/humanoid/firenewt
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Firenewt Warlock of Imix
+  - Firenewt Warlock of Imix
 ---
 # [Firenewt Warlock of Imix](3-Mechanics\CLI\bestiary\humanoid/firenewt-warlock-of-imix-vgm.md)
 *Source: Volo's Guide to Monsters p. 143, Tomb of Annihilation*  

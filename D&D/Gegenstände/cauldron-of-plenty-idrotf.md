@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- new/compendium/src/5e/idrotf
-- new/item/rarity/rare
-aliases: 
-- "Cauldron of Plenty"
+  - Quelle/5e/idrotf
+  - Gegenstand/rarity/rare
+aliases:
+  - Cauldron of Plenty
 ---
 # Cauldron of Plenty
 *Wondrous item, rare*  

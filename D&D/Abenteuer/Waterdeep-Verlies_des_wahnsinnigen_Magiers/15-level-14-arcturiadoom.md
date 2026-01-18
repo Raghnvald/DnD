@@ -1,11 +1,11 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- ttrpg-cli/compendium/src/5e/wdmm
+  - Quelle/5e/wdmm
 aliases:
-- Level 14: Arcturiadoom
+  - Level 14: Arcturiadoom
 ---
 # Level 14: Arcturiadoom
 *Source: Waterdeep: Dungeon of the Mad Mage, p. 179* 

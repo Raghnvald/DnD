@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/bgg
-- ttrpg-cli/monster/cr/21
-- ttrpg-cli/monster/size/gargantuan
-- ttrpg-cli/monster/type/aberration
+  - Quelle/5e/bgg
+  - Monster/HG/21
+  - Monster/Größe/Gigantisch
+  - Monster/Typ/aberration
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Gargantua
+  - Gargantua
 ---
 # [Gargantua](3-Mechanics\CLI\bestiary\aberration/gargantua-bgg.md)
 *Source: Bigby Presents: Glory of the Giants p. 149*  

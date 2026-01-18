@@ -1,14 +1,14 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- new/compendium/src/5e/bmt
-- new/item/attunement/required
-- new/item/rarity/varies
-- new/item/wondrous/ring
-aliases: 
-- "Sage's Signet"
+  - Quelle/5e/bmt
+  - Gegenstand/attunement/required
+  - Gegenstand/rarity/varies
+  - Gegenstand/wondrous/ring
+aliases:
+  - Sage's Signet
 ---
 # Sage's Signet
 *Ring (requires attunement by a spellcaster)*  

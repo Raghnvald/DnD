@@ -1,14 +1,14 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-deity
+  - json5e-deity
 tags:
-- Quelle/5e/phb
-- Kompendium/Götter/egyptian
-- Kompendium/Götter/domain/nature
-- Kompendium/Götter/domain/tempest
-aliases: 
-- Sobek
+  - Quelle/5e/phb
+  - Kompendium/Götter/egyptian
+  - Kompendium/Götter/Domäne/nature
+  - Kompendium/Götter/Domäne/tempest
+aliases:
+  - Sobek
 ---
 # Sobek
 *Source: Player's Handbook p. 299. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>* 

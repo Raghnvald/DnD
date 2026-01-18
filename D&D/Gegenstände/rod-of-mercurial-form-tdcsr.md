@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/tdcsr
-- ttrpg-cli/item/rarity/uncommon
-aliases: 
-- "Rod of Mercurial Form"
+  - Quelle/5e/tdcsr
+  - Gegenstand/rarity/uncommon
+aliases:
+  - Rod of Mercurial Form
 ---
 # Rod of Mercurial Form
 *Wondrous item, uncommon*  

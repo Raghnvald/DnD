@@ -1,14 +1,14 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- new/compendium/src/5e/bmt
-- new/item/attunement/required
-- new/item/rarity/very-rare
-- new/item/wondrous/rod
-aliases: 
-- "Rod of Hellish Flames"
+  - Quelle/5e/bmt
+  - Gegenstand/attunement/required
+  - Gegenstand/rarity/very-rare
+  - Gegenstand/wondrous/rod
+aliases:
+  - Rod of Hellish Flames
 ---
 # Rod of Hellish Flames
 *Rod, very rare (requires attunement by a spellcaster)*  

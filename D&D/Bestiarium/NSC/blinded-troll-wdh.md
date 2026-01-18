@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/wdh
-- ttrpg-cli/monster/cr/4
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/giant
+  - Quelle/5e/wdh
+  - Monster/HG/4
+  - Monster/Größe/Groß
+  - Monster/Typ/giant
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Blinded Troll
+  - Blinded Troll
 ---
 # [Blinded Troll](3-Mechanics\CLI\bestiary\npc/blinded-troll-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 114*  

@@ -1,17 +1,17 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/idrotf
-- new/monster/cr/8
-- new/monster/size/medium
-- new/monster/type/humanoid/goliath
-- new/monster/type/humanoid/shapechanger
+  - Quelle/5e/idrotf
+  - Monster/HG/8
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/humanoid/goliath
+  - Monster/Typ/humanoid/shapechanger
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Goliath Werebear
+  - Goliath Werebear
 ---
 # [Goliath Werebear](3-Mechanics\CLI\bestiary\humanoid/goliath-werebear-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 293*  

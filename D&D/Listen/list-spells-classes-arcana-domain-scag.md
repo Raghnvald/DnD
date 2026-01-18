@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/subclass/arcana-domain
+- Zauber/list/subclass/arcana-domain
 aliases:
 - Spells for Arcana Domain
 ---

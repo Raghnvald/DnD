@@ -4,9 +4,9 @@ cssclasses:
 tags:
   - Quelle/5e/scag
   - Kompendium/Götter/faerunian
-  - Kompendium/Götter/domain/life
-  - Kompendium/Götter/domain/light
-  - Kompendium/Götter/domain/twilight
+  - Kompendium/Götter/Domäne/life
+  - Kompendium/Götter/Domäne/light
+  - Kompendium/Götter/Domäne/twilight
 aliases:
   - Helm
   - The Watcher

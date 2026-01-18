@@ -1,17 +1,17 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/dip
-- new/monster/cr/3
-- new/monster/size/medium
-- new/monster/type/humanoid/half-orc
-- new/monster/type/humanoid/shapechanger
+  - Quelle/5e/dip
+  - Monster/HG/3
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/humanoid/half-orc
+  - Monster/Typ/humanoid/shapechanger
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Anchorite of Talos
+  - Anchorite of Talos
 ---
 # [Anchorite of Talos](3-Mechanics\CLI\bestiary\humanoid/anchorite-of-talos-dip.md)
 *Source: Dragon of Icespire Peak p. 51*  

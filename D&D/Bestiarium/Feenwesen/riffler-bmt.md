@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/bmt
-- new/monster/cr/5
-- new/monster/size/small
-- new/monster/type/fey
+  - Quelle/5e/bmt
+  - Monster/HG/5
+  - Monster/Größe/Klein
+  - Monster/Typ/fey
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Riffler
+  - Riffler
 ---
 # [Riffler](3-Mechanics\CLI\bestiary\fey/riffler-bmt.md)
 *Source: The Book of Many Things p. 181*  

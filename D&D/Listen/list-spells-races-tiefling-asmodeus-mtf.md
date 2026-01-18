@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/subrace/tiefling-asmodeus
+- Zauber/list/subrace/tiefling-asmodeus
 aliases:
 - Spells for Tiefling (Asmodeus)
 ---

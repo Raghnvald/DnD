@@ -1,21 +1,21 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/vgm
-- new/monster/cr/1
-- new/monster/environment/forest
-- new/monster/environment/hill
-- new/monster/environment/mountain
-- new/monster/environment/underdark
-- new/monster/environment/urban
-- new/monster/size/small
-- new/monster/type/humanoid/kobold
+  - Quelle/5e/vgm
+  - Monster/HG/1
+  - Monster/Habitat/forest
+  - Monster/Habitat/hill
+  - Monster/Habitat/mountain
+  - Monster/Habitat/underdark
+  - Monster/Habitat/urban
+  - Monster/Größe/Klein
+  - Monster/Typ/humanoid/kobold
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Kobold Scale Sorcerer
+  - Kobold Scale Sorcerer
 ---
 # [Kobold Scale Sorcerer](3-Mechanics\CLI\bestiary\humanoid/kobold-scale-sorcerer-vgm.md)
 *Source: Volo's Guide to Monsters p. 167, Tomb of Annihilation*  

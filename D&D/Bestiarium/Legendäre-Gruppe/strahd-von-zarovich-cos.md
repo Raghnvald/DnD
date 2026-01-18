@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- ttrpg-cli/compendium/src/5e/cos
-- ttrpg-cli/monster/legendary-group
+  - Quelle/5e/cos
+  - Monster/legendary-group
 aliases:
-- Strahd von Zarovich
+  - Strahd von Zarovich
 ---
 # Strahd von Zarovich
 

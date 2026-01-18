@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/bmt
-- new/monster/cr/1-2
-- new/monster/size/medium
-- new/monster/type/humanoid
+  - Quelle/5e/bmt
+  - Monster/HG/1-2
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/humanoid
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Aspirant of the Comet
+  - Aspirant of the Comet
 ---
 # [Aspirant of the Comet](3-Mechanics\CLI\bestiary\humanoid/aspirant-of-the-comet-bmt.md)
 *Source: The Book of Many Things p. 91*  

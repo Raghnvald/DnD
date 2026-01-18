@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/idrotf
-- new/monster/cr/3
-- new/monster/size/small
-- new/monster/type/undead
+  - Quelle/5e/idrotf
+  - Monster/HG/3
+  - Monster/Größe/Klein
+  - Monster/Typ/undead
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Kobold Vampire Spawn
+  - Kobold Vampire Spawn
 ---
 # [Kobold Vampire Spawn](3-Mechanics\CLI\bestiary\undead/kobold-vampire-spawn-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 297*  

@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/skt
-- new/monster/cr/23
-- new/monster/size/gargantuan
-- new/monster/type/dragon
+  - Quelle/5e/skt
+  - Monster/HG/23
+  - Monster/Größe/Gigantisch
+  - Monster/Typ/dragon
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Iymrith
+  - Iymrith
 ---
 # [Iymrith](3-Mechanics\CLI\bestiary\npc/iymrith-skt.md)
 *Source: Storm King's Thunder p. 241*  

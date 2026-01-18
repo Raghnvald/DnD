@@ -1,15 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-deity
+  - json5e-deity
 tags:
-- ttrpg-cli/compendium/src/5e/mtf
-- ttrpg-cli/deity/gnome
-- ttrpg-cli/domain/forge
-- ttrpg-cli/domain/knowledge
-- ttrpg-cli/domain/trickery
-aliases: 
-- Nebelun
+  - Quelle/5e/mtf
+  - Kompendium/Götter/gnome
+  - Kompendium/Götter/Domäne/forge
+  - Kompendium/Götter/Domäne/knowledge
+  - Kompendium/Götter/Domäne/trickery
+aliases:
+  - Nebelun
 ---
 # Nebelun
 *Source: Mordenkainen's Tome of Foes p. 112* 

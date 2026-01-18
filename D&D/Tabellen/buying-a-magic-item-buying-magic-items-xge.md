@@ -1,11 +1,11 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- ttrpg-cli/compendium/src/5e/xge
+  - Quelle/5e/xge
 aliases:
-- Buying a Magic Item; Buying Magic Items
+  - Buying a Magic Item; Buying Magic Items
 ---
 # Buying a Magic Item; Buying Magic Items
 *Source: Xanathar's Guide to Everything p. 126* 

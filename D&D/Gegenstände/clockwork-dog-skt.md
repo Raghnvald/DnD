@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- new/compendium/src/5e/skt
-- new/item/rarity/unknown/magic
-- new/item/wondrous/other
-aliases: 
-- "Clockwork Dog"
+  - Quelle/5e/skt
+  - Gegenstand/rarity/unknown/magic
+  - Gegenstand/wondrous/other
+aliases:
+  - Clockwork Dog
 ---
 # Clockwork Dog
 

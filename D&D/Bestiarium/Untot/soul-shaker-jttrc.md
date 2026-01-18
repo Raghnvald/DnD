@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/jttrc
-- ttrpg-cli/monster/cr/4
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/undead
+  - Quelle/5e/jttrc
+  - Monster/HG/4
+  - Monster/Größe/Groß
+  - Monster/Typ/undead
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Soul Shaker
+  - Soul Shaker
 ---
 # [Soul Shaker](3-Mechanics\CLI\bestiary\undead/soul-shaker-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 47*  

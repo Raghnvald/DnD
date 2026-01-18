@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/wdmm
-- ttrpg-cli/monster/cr/15
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/undead
+  - Quelle/5e/wdmm
+  - Monster/HG/15
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/undead
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Gorka Tharn
+  - Gorka Tharn
 ---
 # [Gorka Tharn](3-Mechanics\CLI\bestiary\npc/gorka-tharn-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 257*  

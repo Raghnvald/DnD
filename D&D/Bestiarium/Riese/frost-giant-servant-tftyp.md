@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/tftyp
-- new/monster/cr/5
-- new/monster/size/huge
-- new/monster/type/giant
+  - Quelle/5e/tftyp
+  - Monster/HG/5
+  - Monster/Größe/Riesig
+  - Monster/Typ/giant
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Frost Giant Servant
+  - Frost Giant Servant
 ---
 # [Frost Giant Servant](3-Mechanics\CLI\bestiary\giant/frost-giant-servant-tftyp.md)
 *Source: Tales from the Yawning Portal p. 187*  

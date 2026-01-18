@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/cm
-- new/monster/cr/0
-- new/monster/size/tiny
-- new/monster/type/elemental
+  - Quelle/5e/cm
+  - Monster/HG/0
+  - Monster/Größe/Winzig
+  - Monster/Typ/elemental
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Chwinga
+  - Chwinga
 ---
 # [Chwinga](3-Mechanics\CLI\bestiary\elemental/chwinga-cm.md)
 *Source: Candlekeep Mysteries p. 212*  

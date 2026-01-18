@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/jttrc
-- ttrpg-cli/monster/cr/20
-- ttrpg-cli/monster/size/gargantuan
-- ttrpg-cli/monster/type/dragon
+  - Quelle/5e/jttrc
+  - Monster/HG/20
+  - Monster/Größe/Gigantisch
+  - Monster/Typ/dragon
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Sholeh
+  - Sholeh
 ---
 # [Sholeh](3-Mechanics\CLI\bestiary\npc/sholeh-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 14*  

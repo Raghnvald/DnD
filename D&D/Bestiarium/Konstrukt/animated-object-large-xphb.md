@@ -4,7 +4,7 @@ cssclasses:
 tags:
   - Quelle/5e/xphb
   - Monster/HG/
-  - Monster/Größe/unknown
+  - Monster/Größe/Unbekannt
   - Monster/Typ/Konstrukt
 statblock: inline
 statblock-link: "#^statblock"

@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/wdmm
-- ttrpg-cli/monster/cr/2
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/giant
+  - Quelle/5e/wdmm
+  - Monster/HG/2
+  - Monster/Größe/Groß
+  - Monster/Typ/giant
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Carrion Ogre
+  - Carrion Ogre
 ---
 # [Carrion Ogre](3-Mechanics\CLI\bestiary\giant/carrion-ogre-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 189*  

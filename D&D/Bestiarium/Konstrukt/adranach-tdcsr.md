@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/tdcsr
-- ttrpg-cli/monster/cr/12
-- ttrpg-cli/monster/size/huge
-- ttrpg-cli/monster/type/construct
+  - Quelle/5e/tdcsr
+  - Monster/HG/12
+  - Monster/Größe/Riesig
+  - Monster/Typ/construct
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Adranach
+  - Adranach
 ---
 # [Adranach](3-Mechanics\CLI\bestiary\construct/adranach-tdcsr.md)
 *Source: Tal'Dorei Campaign Setting Reborn p. 224*  

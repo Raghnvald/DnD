@@ -3,7 +3,7 @@ cssclasses:
   - json5e-class
 tags:
   - Quelle/5e/phb
-  - Kompendium/Götter/domain/knowledge
+  - Kompendium/Götter/Domäne/knowledge
   - Klasse/Kleriker/knowledge
 aliases:
   - Knowledge Domain

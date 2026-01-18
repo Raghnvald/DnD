@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/cm
-- new/monster/cr/1-4
-- new/monster/size/small
-- new/monster/type/humanoid/grippli
+  - Quelle/5e/cm
+  - Monster/HG/1-4
+  - Monster/Größe/Klein
+  - Monster/Typ/humanoid/grippli
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Grippli Warrior
+  - Grippli Warrior
 ---
 # [Grippli Warrior](3-Mechanics\CLI\bestiary\humanoid/grippli-warrior-cm.md)
 *Source: Candlekeep Mysteries p. 99*  

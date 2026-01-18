@@ -1,15 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- new/compendium/src/5e/tftyp
-- new/item/attunement/required
-- new/item/rarity/unknown/magic
-- new/item/weapon/martial
-- new/item/weapon/melee
-aliases: 
-- "Flame Tongue Shortsword of Greed"
+  - Quelle/5e/tftyp
+  - Gegenstand/attunement/required
+  - Gegenstand/rarity/unknown/magic
+  - Gegenstand/weapon/martial
+  - Gegenstand/weapon/melee
+aliases:
+  - Flame Tongue Shortsword of Greed
 ---
 # Flame Tongue Shortsword of Greed
 *Weapon (shortsword) (requires attunement)*  

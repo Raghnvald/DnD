@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/toa
-- new/monster/cr/1
-- new/monster/size/medium
-- new/monster/type/monstrosity
+  - Quelle/5e/toa
+  - Monster/HG/1
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Su-monster
+  - Su-monster
 ---
 # [Su-monster](3-Mechanics\CLI\bestiary\monstrosity/su-monster-toa.md)
 *Source: Tomb of Annihilation p. 232*  

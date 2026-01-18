@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/toa
-- new/monster/cr/8
-- new/monster/size/medium
-- new/monster/type/humanoid/half-dragon
+  - Quelle/5e/toa
+  - Monster/HG/8
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/humanoid/half-dragon
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Zindar
+  - Zindar
 ---
 # [Zindar](3-Mechanics\CLI\bestiary\npc/zindar-toa.md)
 *Source: Tomb of Annihilation p. 239*  

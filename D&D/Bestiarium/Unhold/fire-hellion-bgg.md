@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/bgg
-- ttrpg-cli/monster/cr/11
-- ttrpg-cli/monster/size/huge
-- ttrpg-cli/monster/type/fiend/devil
+  - Quelle/5e/bgg
+  - Monster/HG/11
+  - Monster/Größe/Riesig
+  - Monster/Typ/fiend/devil
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Fire Hellion
+  - Fire Hellion
 ---
 # [Fire Hellion](3-Mechanics\CLI\bestiary\fiend/fire-hellion-bgg.md)
 *Source: Bigby Presents: Glory of the Giants p. 140*  

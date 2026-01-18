@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/mtf
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/unknown/magic
-- ttrpg-cli/item/tier/major
-- ttrpg-cli/item/weapon/martial
-- ttrpg-cli/item/weapon/melee
-aliases: 
-- "Silver Sword"
+  - Quelle/5e/mtf
+  - Gegenstand/attunement/required
+  - Gegenstand/rarity/unknown/magic
+  - Gegenstand/tier/major
+  - Gegenstand/weapon/martial
+  - Gegenstand/weapon/melee
+aliases:
+  - Silver Sword
 ---
 # Silver Sword
 *Weapon, major (requires attunement by a creature that has psionic ability)*  

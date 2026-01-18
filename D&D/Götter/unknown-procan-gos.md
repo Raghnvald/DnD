@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-deity
+  - json5e-deity
 tags:
-- ttrpg-cli/compendium/src/5e/gos
-- ttrpg-cli/deity/unknown
-- ttrpg-cli/domain/tempest
-aliases: 
-- Procan
+  - Quelle/5e/gos
+  - Kompendium/Götter/unknown
+  - Kompendium/Götter/Domäne/tempest
+aliases:
+  - Procan
 ---
 # Procan
 *Source: Ghosts of Saltmarsh p. 18* 

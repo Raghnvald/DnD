@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/toa
-- new/monster/cr/23
-- new/monster/size/medium
-- new/monster/type/undead
+  - Quelle/5e/toa
+  - Monster/HG/23
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/undead
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Acererak
+  - Acererak
 ---
 # [Acererak](3-Mechanics\CLI\bestiary\npc/acererak-toa.md)
 *Source: Tomb of Annihilation p. 209*  

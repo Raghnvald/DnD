@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/tftyp
-- new/monster/cr/6
-- new/monster/size/large
-- new/monster/type/undead
+  - Quelle/5e/tftyp
+  - Monster/HG/6
+  - Monster/Größe/Groß
+  - Monster/Typ/undead
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Centaur Mummy
+  - Centaur Mummy
 ---
 # [Centaur Mummy](3-Mechanics\CLI\bestiary\undead/centaur-mummy-tftyp.md)
 *Source: Tales from the Yawning Portal p. 231*  

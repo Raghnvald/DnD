@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- new/compendium/src/5e/idrotf
-- new/item/gear/mount
-- new/item/rarity/none
-aliases: 
-- "Sled Dog"
+  - Quelle/5e/idrotf
+  - Gegenstand/gear/mount
+  - Gegenstand/rarity/none
+aliases:
+  - Sled Dog
 ---
 # Sled Dog
 *Mount*  

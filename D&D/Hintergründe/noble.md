@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-background
+  - json5e-background
 tags:
-- ttrpg-cli/background
-- ttrpg-cli/compendium/src/5e/phb
+  - Kompendium/Hintergrund
+  - Quelle/5e/phb
 aliases:
-- Noble
+  - Noble
 ---
 # Noble
 *Source: Player's Handbook p. 135. Available in the Basic Rules (2014)*  

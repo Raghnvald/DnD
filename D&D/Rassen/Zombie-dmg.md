@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-race
+  - json5e-race
 tags:
-- ttrpg-cli/compendium/src/5e/dmg
-- ttrpg-cli/race/zombie
+  - Quelle/5e/dmg
+  - Rasse/zombie
 aliases:
-- Zombie
+  - Zombie
 ---
 # Zombie
 *Source: Dungeon Master's Guide p. 282*  

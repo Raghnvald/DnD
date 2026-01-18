@@ -1,11 +1,11 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- ttrpg-cli/compendium/src/5e/efr
+  - Quelle/5e/efr
 aliases:
-- Credits
+  - Credits
 ---
 # Credits
 *Source: Eberron: Forgotten Relics* 

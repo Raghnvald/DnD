@@ -1,11 +1,11 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- ttrpg-cli/compendium/src/5e/wdmm
+  - Quelle/5e/wdmm
 aliases:
-- Level 20: Runestone Caverns
+  - Level 20: Runestone Caverns
 ---
 # Level 20: Runestone Caverns
 *Source: Waterdeep: Dungeon of the Mad Mage, p. 253* 

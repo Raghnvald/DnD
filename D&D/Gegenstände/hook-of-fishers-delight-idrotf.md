@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- new/compendium/src/5e/idrotf
-- new/item/rarity/rare
-aliases: 
-- "Hook of Fisher's Delight"
+  - Quelle/5e/idrotf
+  - Gegenstand/rarity/rare
+aliases:
+  - Hook of Fisher's Delight
 ---
 # Hook of Fisher's Delight
 *Wondrous item, rare*  

@@ -1,19 +1,19 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/vgm
-- new/monster/cr/1
-- new/monster/environment/hill
-- new/monster/environment/mountain
-- new/monster/environment/underdark
-- new/monster/size/large
-- new/monster/type/monstrosity
+  - Quelle/5e/vgm
+  - Monster/HG/1
+  - Monster/Habitat/hill
+  - Monster/Habitat/mountain
+  - Monster/Habitat/underdark
+  - Monster/Größe/Groß
+  - Monster/Typ/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Giant Strider
+  - Giant Strider
 ---
 # [Giant Strider](3-Mechanics\CLI\bestiary\monstrosity/giant-strider-vgm.md)
 *Source: Volo's Guide to Monsters p. 143, Tomb of Annihilation*  

@@ -1,15 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-deity
+  - json5e-deity
 tags:
-- ttrpg-cli/compendium/src/5e/mtf
-- ttrpg-cli/deity/drow
-- ttrpg-cli/domain/life
-- ttrpg-cli/domain/light
-- ttrpg-cli/domain/nature
-aliases: 
-- Eilistraee
+  - Quelle/5e/mtf
+  - Kompendium/Götter/drow
+  - Kompendium/Götter/Domäne/life
+  - Kompendium/Götter/Domäne/light
+  - Kompendium/Götter/Domäne/nature
+aliases:
+  - Eilistraee
 ---
 # Eilistraee
 *Source: Mordenkainen's Tome of Foes p. 56* 

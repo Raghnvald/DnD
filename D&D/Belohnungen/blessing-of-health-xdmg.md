@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-reward
+  - json5e-reward
 tags:
-- Quelle/5e/xdmg
-- Kompendium/reward/blessing
+  - Quelle/5e/xdmg
+  - Kompendium/Belohnung/blessing
 aliases:
-- Blessing of Health
+  - Blessing of Health
 ---
 # Blessing of Health
 

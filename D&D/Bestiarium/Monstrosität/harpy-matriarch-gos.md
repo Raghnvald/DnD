@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/gos
-- ttrpg-cli/monster/cr/5
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/monstrosity
+  - Quelle/5e/gos
+  - Monster/HG/5
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Harpy Matriarch
+  - Harpy Matriarch
 ---
 # [Harpy Matriarch](3-Mechanics\CLI\bestiary\monstrosity/harpy-matriarch-gos.md)
 *Source: Ghosts of Saltmarsh p. 237*  

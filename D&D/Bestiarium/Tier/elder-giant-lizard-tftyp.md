@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/tftyp
-- new/monster/cr/5
-- new/monster/size/huge
-- new/monster/type/beast
+  - Quelle/5e/tftyp
+  - Monster/HG/5
+  - Monster/Größe/Riesig
+  - Monster/Typ/beast
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Elder Giant Lizard
+  - Elder Giant Lizard
 ---
 # [Elder Giant Lizard](3-Mechanics\CLI\bestiary\beast/elder-giant-lizard-tftyp.md)
 *Source: Tales from the Yawning Portal p. 176*  

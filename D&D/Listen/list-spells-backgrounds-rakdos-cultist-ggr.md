@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/background/rakdos-cultist
+- Zauber/list/background/rakdos-cultist
 aliases:
 - Spells for Rakdos Cultist
 ---

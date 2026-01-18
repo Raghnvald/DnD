@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- new/compendium/src/5e/cm
-- new/item/armor/medium
-- new/item/rarity/uncommon
-aliases: 
-- "Serpent Scale Armor"
+  - Quelle/5e/cm
+  - Gegenstand/armor/medium
+  - Gegenstand/rarity/uncommon
+aliases:
+  - Serpent Scale Armor
 ---
 # Serpent Scale Armor
 *Medium armor (scale mail), uncommon*  

@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/egw
-- ttrpg-cli/item/rarity/none
-- ttrpg-cli/item/vehicle/airship-air
-aliases: 
-- "Skyship"
+  - Quelle/5e/egw
+  - Gegenstand/rarity/none
+  - Gegenstand/vehicle/airship-air
+aliases:
+  - Skyship
 ---
 # Skyship
 *Airship, vehicle (air)*  

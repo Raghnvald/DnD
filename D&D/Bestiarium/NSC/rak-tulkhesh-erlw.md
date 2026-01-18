@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/erlw
-- new/monster/cr/28
-- new/monster/size/huge
-- new/monster/type/fiend
+  - Quelle/5e/erlw
+  - Monster/HG/28
+  - Monster/Größe/Riesig
+  - Monster/Typ/fiend
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Rak Tulkhesh
+  - Rak Tulkhesh
 ---
 # [Rak Tulkhesh](3-Mechanics\CLI\bestiary\npc/rak-tulkhesh-erlw.md)
 *Source: Eberron: Rising from the Last War p. 303*  

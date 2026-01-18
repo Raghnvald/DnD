@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/bgg
-- ttrpg-cli/monster/cr/5
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/elemental
+  - Quelle/5e/bgg
+  - Monster/HG/5
+  - Monster/Größe/Groß
+  - Monster/Typ/elemental
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Rime Hulk
+  - Rime Hulk
 ---
 # [Rime Hulk](3-Mechanics\CLI\bestiary\elemental/rime-hulk-bgg.md)
 *Source: Bigby Presents: Glory of the Giants p. 162*  

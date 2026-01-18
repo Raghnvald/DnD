@@ -1,11 +1,11 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- ttrpg-cli/compendium/src/5e/gos
+  - Quelle/5e/gos
 aliases:
-- Chapter 2: The Sinister Secret of Saltmarsh
+  - Chapter 2: The Sinister Secret of Saltmarsh
 ---
 # Chapter 2: The Sinister Secret of Saltmarsh
 *Source: Ghosts of Saltmarsh, p. 37* 

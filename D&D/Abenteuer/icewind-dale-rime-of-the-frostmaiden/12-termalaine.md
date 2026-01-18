@@ -1,11 +1,11 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- new/compendium/src/5e/idrotf
+  - Quelle/5e/idrotf
 aliases:
-- Termalaine
+  - Termalaine
 ---
 # Termalaine
 *Source: Icewind Dale: Rime of the Frostmaiden, p. 93* 

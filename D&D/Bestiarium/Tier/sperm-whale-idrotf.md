@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/idrotf
-- new/monster/cr/8
-- new/monster/size/gargantuan
-- new/monster/type/beast
+  - Quelle/5e/idrotf
+  - Monster/HG/8
+  - Monster/Größe/Gigantisch
+  - Monster/Typ/beast
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Sperm Whale
+  - Sperm Whale
 ---
 # [Sperm Whale](3-Mechanics\CLI\bestiary\beast/sperm-whale-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 309*  

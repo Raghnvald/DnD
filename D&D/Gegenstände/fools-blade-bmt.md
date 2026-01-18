@@ -1,22 +1,22 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- new/compendium/src/5e/bmt
-- new/item/attunement/required
-- new/item/rarity/very-rare
-- new/item/weapon/martial
-- new/item/weapon/melee
-- new/item/wondrous/generic-variant
-aliases: 
-- "Fool's Blade"
-- "Fool's Double-Bladed Scimitar"
-- "Fool's Greatsword"
-- "Fool's Longsword"
-- "Fool's Rapier"
-- "Fool's Scimitar"
-- "Fool's Shortsword"
+  - Quelle/5e/bmt
+  - Gegenstand/attunement/required
+  - Gegenstand/rarity/very-rare
+  - Gegenstand/weapon/martial
+  - Gegenstand/weapon/melee
+  - Gegenstand/wondrous/generic-variant
+aliases:
+  - Fool's Blade
+  - Fool's Double-Bladed Scimitar
+  - Fool's Greatsword
+  - Fool's Longsword
+  - Fool's Rapier
+  - Fool's Scimitar
+  - Fool's Shortsword
 ---
 # Fool's Blade
 *Very rare (requires attunement)*  

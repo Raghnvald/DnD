@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/skt
-- new/monster/cr/11
-- new/monster/size/huge
-- new/monster/type/giant
+  - Quelle/5e/skt
+  - Monster/HG/11
+  - Monster/Größe/Riesig
+  - Monster/Typ/giant
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Countess Sansuri
+  - Countess Sansuri
 ---
 # [Countess Sansuri](3-Mechanics\CLI\bestiary\npc/countess-sansuri-skt.md)
 *Source: Storm King's Thunder p. 192*  

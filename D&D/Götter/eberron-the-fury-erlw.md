@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-deity
+  - json5e-deity
 tags:
-- new/compendium/src/5e/erlw
-- new/deity/eberron
-- new/domain/war
-aliases: 
-- The Fury
+  - Quelle/5e/erlw
+  - Kompendium/Götter/eberron
+  - Kompendium/Götter/Domäne/war
+aliases:
+  - The Fury
 ---
 # The Fury
 *Source: Eberron: Rising from the Last War p. 141* 

@@ -1,17 +1,17 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/toa
-- new/monster/cr/4
-- new/monster/size/medium
-- new/monster/type/humanoid/human
-- new/monster/type/humanoid/shapechanger
+  - Quelle/5e/toa
+  - Monster/HG/4
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/humanoid/human
+  - Monster/Typ/humanoid/shapechanger
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Azaka Stormfang
+  - Azaka Stormfang
 ---
 # [Azaka Stormfang](3-Mechanics\CLI\bestiary\npc/azaka-stormfang-toa.md)
 *Source: Tomb of Annihilation p. 33*  

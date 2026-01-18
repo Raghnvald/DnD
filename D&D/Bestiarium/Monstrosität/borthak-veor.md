@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/veor
-- ttrpg-cli/monster/cr/15
-- ttrpg-cli/monster/size/huge
-- ttrpg-cli/monster/type/monstrosity
+  - Quelle/5e/veor
+  - Monster/HG/15
+  - Monster/Größe/Riesig
+  - Monster/Typ/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Borthak
+  - Borthak
 ---
 # [Borthak](3-Mechanics\CLI\bestiary\monstrosity/borthak-veor.md)
 *Source: Vecna: Eve of Ruin p. 212*  

@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/wdmm
-- ttrpg-cli/monster/cr/9
-- ttrpg-cli/monster/size/huge
-- ttrpg-cli/monster/type/giant
+  - Quelle/5e/wdmm
+  - Monster/HG/9
+  - Monster/Größe/Riesig
+  - Monster/Typ/giant
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Emberosa
+  - Emberosa
 ---
 # [Emberosa](3-Mechanics\CLI\bestiary\npc/emberosa-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 185*  

@@ -1,17 +1,17 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/tdcsr
-- ttrpg-cli/monster/cr/2
-- ttrpg-cli/monster/environment/forest
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/undead
+  - Quelle/5e/tdcsr
+  - Monster/HG/2
+  - Monster/Habitat/forest
+  - Monster/Größe/Groß
+  - Monster/Typ/undead
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Centaur Skeleton
+  - Centaur Skeleton
 ---
 # [Centaur Skeleton](3-Mechanics\CLI\bestiary\undead/centaur-skeleton-tdcsr.md)
 *Source: Tal'Dorei Campaign Setting Reborn p. 256*  

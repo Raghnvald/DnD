@@ -1,14 +1,14 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-deity
+  - json5e-deity
 tags:
-- ttrpg-cli/compendium/src/5e/egw
-- ttrpg-cli/deity/exandria
-- ttrpg-cli/domain/trickery
-- ttrpg-cli/domain/war
-aliases: 
-- Asmodeus
+  - Quelle/5e/egw
+  - Kompendium/Götter/exandria
+  - Kompendium/Götter/Domäne/trickery
+  - Kompendium/Götter/Domäne/war
+aliases:
+  - Asmodeus
 ---
 # Asmodeus
 *Source: Explorer's Guide to Wildemount p. 26* 

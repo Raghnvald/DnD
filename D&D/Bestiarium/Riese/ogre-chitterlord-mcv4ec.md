@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/mcv4ec
-- ttrpg-cli/monster/cr/3
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/giant/druid
+  - Quelle/5e/mcv4ec
+  - Monster/HG/3
+  - Monster/Größe/Groß
+  - Monster/Typ/giant/druid
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Ogre Chitterlord
+  - Ogre Chitterlord
 ---
 # [Ogre Chitterlord](3-Mechanics\CLI\bestiary\giant/ogre-chitterlord-mcv4ec.md)
 *Source: Monstrous Compendium Volume 4: Eldraine Creatures*  

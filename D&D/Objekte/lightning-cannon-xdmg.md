@@ -3,8 +3,8 @@ cssclasses:
   - json5e-object
 tags:
   - Quelle/5e/xdmg
-  - Kompendium/object/size/medium
-  - Kompendium/object/type/siege-weapon
+  - Kompendium/Objekt/size/medium
+  - Kompendium/Objekt/type/siege-weapon
 aliases:
   - Lightning Cannon
 ---

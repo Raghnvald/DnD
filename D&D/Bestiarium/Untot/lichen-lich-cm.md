@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/cm
-- new/monster/cr/18
-- new/monster/size/medium
-- new/monster/type/undead
+  - Quelle/5e/cm
+  - Monster/HG/18
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/undead
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Lichen Lich
+  - Lichen Lich
 ---
 # [Lichen Lich](3-Mechanics\CLI\bestiary\undead/lichen-lich-cm.md)
 *Source: Candlekeep Mysteries p. 223*  

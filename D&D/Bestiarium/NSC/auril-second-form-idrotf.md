@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/idrotf
-- new/monster/cr/10
-- new/monster/size/large
-- new/monster/type/elemental
+  - Quelle/5e/idrotf
+  - Monster/HG/10
+  - Monster/Größe/Groß
+  - Monster/Typ/elemental
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Auril (Second Form)
+  - Auril (Second Form)
 ---
 # [Auril (Second Form)](3-Mechanics\CLI\bestiary\npc/auril-second-form-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 277*  

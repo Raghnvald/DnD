@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/erlw
-- new/monster/cr/1
-- new/monster/size/medium
-- new/monster/type/beast
+  - Quelle/5e/erlw
+  - Monster/HG/1
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/beast
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Clawfoot
+  - Clawfoot
 ---
 # [Clawfoot](3-Mechanics\CLI\bestiary\beast/clawfoot-erlw.md)
 *Source: Eberron: Rising from the Last War p. 289*  

@@ -1,11 +1,11 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- ttrpg-cli/compendium/src/5e/mm
+  - Quelle/5e/mm
 aliases:
-- Size Categories
+  - Size Categories
 ---
 # Size Categories
 *Source: Monster Manual p. 6* 

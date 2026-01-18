@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/erlw
-- new/monster/cr/1
-- new/monster/size/large
-- new/monster/type/giant
+  - Quelle/5e/erlw
+  - Monster/HG/1
+  - Monster/Größe/Groß
+  - Monster/Typ/giant
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Garra
+  - Garra
 ---
 # [Garra](3-Mechanics\CLI\bestiary\npc/garra-erlw.md)
 *Source: Eberron: Rising from the Last War p. 272*  

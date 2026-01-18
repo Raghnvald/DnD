@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/gos
-- ttrpg-cli/monster/cr/8
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/construct
+  - Quelle/5e/gos
+  - Monster/HG/8
+  - Monster/Größe/Groß
+  - Monster/Typ/construct
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Vampiric Jade Statue
+  - Vampiric Jade Statue
 ---
 # [Vampiric Jade Statue](3-Mechanics\CLI\bestiary\construct/vampiric-jade-statue-gos.md)
 *Source: Ghosts of Saltmarsh p. 256*  

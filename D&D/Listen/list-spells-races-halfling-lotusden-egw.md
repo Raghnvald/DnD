@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/subrace/halfling-lotusden
+- Zauber/list/subrace/halfling-lotusden
 aliases:
 - Spells for Halfling (Lotusden)
 ---

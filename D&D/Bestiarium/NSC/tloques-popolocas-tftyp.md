@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/tftyp
-- new/monster/cr/5
-- new/monster/size/medium
-- new/monster/type/undead
+  - Quelle/5e/tftyp
+  - Monster/HG/5
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/undead
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Tloques-Popolocas
+  - Tloques-Popolocas
 ---
 # [Tloques-Popolocas](3-Mechanics\CLI\bestiary\npc/tloques-popolocas-tftyp.md)
 *Source: Tales from the Yawning Portal p. 68*  

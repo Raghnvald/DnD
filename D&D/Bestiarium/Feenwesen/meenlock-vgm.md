@@ -1,19 +1,19 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/vgm
-- new/monster/cr/2
-- new/monster/environment/forest
-- new/monster/environment/swamp
-- new/monster/environment/urban
-- new/monster/size/small
-- new/monster/type/fey
+  - Quelle/5e/vgm
+  - Monster/HG/2
+  - Monster/Habitat/forest
+  - Monster/Habitat/swamp
+  - Monster/Habitat/urban
+  - Monster/Größe/Klein
+  - Monster/Typ/fey
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Meenlock
+  - Meenlock
 ---
 # [Meenlock](3-Mechanics\CLI\bestiary\fey/meenlock-vgm.md)
 *Source: Volo's Guide to Monsters p. 170, Candlekeep Mysteries*  

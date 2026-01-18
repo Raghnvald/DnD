@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/skt
-- new/monster/cr/0
-- new/monster/size/huge
-- new/monster/type/construct
+  - Quelle/5e/skt
+  - Monster/HG/0
+  - Monster/Größe/Riesig
+  - Monster/Typ/construct
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Stone Giant Statue
+  - Stone Giant Statue
 ---
 # [Stone Giant Statue](3-Mechanics\CLI\bestiary\construct/stone-giant-statue-skt.md)
 *Source: Storm King's Thunder p. 127*  

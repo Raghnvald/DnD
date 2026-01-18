@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/idrotf
-- new/monster/cr/0
-- new/monster/size/tiny
-- new/monster/type/beast
+  - Quelle/5e/idrotf
+  - Monster/HG/0
+  - Monster/Größe/Winzig
+  - Monster/Typ/beast
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Hare
+  - Hare
 ---
 # [Hare](3-Mechanics\CLI\bestiary\beast/hare-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 294*  

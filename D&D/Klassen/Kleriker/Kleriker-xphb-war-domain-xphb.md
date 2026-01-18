@@ -3,7 +3,7 @@ cssclasses:
   - json5e-class
 tags:
   - Quelle/5e/xphb
-  - Kompendium/Götter/domain/war
+  - Kompendium/Götter/Domäne/war
   - Klasse/Kleriker/war
 aliases:
   - War Domain

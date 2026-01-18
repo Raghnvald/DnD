@@ -1,15 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-deity
+  - json5e-deity
 tags:
-- Quelle/5e/phb
-- Kompendium/Götter/dragonlance
-- Kompendium/Götter/domain/knowledge
-- Kompendium/Götter/domain/life
-- Kompendium/Götter/domain/twilight
-aliases: 
-- Mishakal
+  - Quelle/5e/phb
+  - Kompendium/Götter/dragonlance
+  - Kompendium/Götter/Domäne/knowledge
+  - Kompendium/Götter/Domäne/life
+  - Kompendium/Götter/Domäne/twilight
+aliases:
+  - Mishakal
 ---
 # Mishakal
 *Source: Player's Handbook p. 295, Tasha's Cauldron of Everything p. 34* 

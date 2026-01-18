@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- new/compendium/src/5e/cm
-- new/item/rarity/unknown/magic
-aliases: 
-- "Orcus Figurine"
+  - Quelle/5e/cm
+  - Gegenstand/rarity/unknown/magic
+aliases:
+  - Orcus Figurine
 ---
 # Orcus Figurine
 *Wondrous item*  

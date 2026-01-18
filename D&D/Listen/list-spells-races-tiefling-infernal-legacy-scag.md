@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/subrace/tiefling-infernal-legacy
+- Zauber/list/subrace/tiefling-infernal-legacy
 aliases:
 - Spells for Tiefling (Infernal Legacy)
 ---

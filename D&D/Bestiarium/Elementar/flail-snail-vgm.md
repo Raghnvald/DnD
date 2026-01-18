@@ -1,19 +1,19 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/vgm
-- new/monster/cr/3
-- new/monster/environment/forest
-- new/monster/environment/swamp
-- new/monster/environment/underdark
-- new/monster/size/large
-- new/monster/type/elemental
+  - Quelle/5e/vgm
+  - Monster/HG/3
+  - Monster/Habitat/forest
+  - Monster/Habitat/swamp
+  - Monster/Habitat/underdark
+  - Monster/Größe/Groß
+  - Monster/Typ/elemental
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Flail Snail
+  - Flail Snail
 ---
 # [Flail Snail](3-Mechanics\CLI\bestiary\elemental/flail-snail-vgm.md)
 *Source: Volo's Guide to Monsters p. 144, Tomb of Annihilation, Dragon of Icespire Peak, Storm Lord's Wrath*  

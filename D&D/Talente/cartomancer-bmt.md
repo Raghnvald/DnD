@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-feat
+  - json5e-feat
 tags:
-- new/compendium/src/5e/bmt
-- new/feat
+  - Quelle/5e/bmt
+  - Kompendium/Talent
 aliases:
-- Cartomancer
+  - Cartomancer
 ---
 # Cartomancer
 *Source: The Book of Many Things p. 49*  

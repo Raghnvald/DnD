@@ -1,11 +1,11 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- new/compendium/src/5e/bmt
+  - Quelle/5e/bmt
 aliases:
-- The Rogue's Motivation; Villainous Motivations
+  - The Rogue's Motivation; Villainous Motivations
 ---
 # The Rogue's Motivation; Villainous Motivations
 *Source: The Book of Many Things p. 43* 

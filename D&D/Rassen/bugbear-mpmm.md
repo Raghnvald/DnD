@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-race
+  - json5e-race
 tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/race/bugbear
+  - Quelle/5e/mpmm
+  - Rasse/bugbear
 aliases:
-- Bugbear
+  - Bugbear
 ---
 # Bugbear
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 8*  

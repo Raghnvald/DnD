@@ -3,8 +3,8 @@ cssclasses:
   - json5e-object
 tags:
   - Quelle/5e/dmg
-  - Kompendium/object/size/varies
-  - Kompendium/object/type/generic
+  - Kompendium/Objekt/size/varies
+  - Kompendium/Objekt/type/generic
 aliases:
   - Generic Object
 ---

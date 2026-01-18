@@ -1,11 +1,11 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- ttrpg-cli/compendium/src/5e/wdmm
+  - Quelle/5e/wdmm
 aliases:
-- Level 2: Arcane Chambers
+  - Level 2: Arcane Chambers
 ---
 # Level 2: Arcane Chambers
 *Source: Waterdeep: Dungeon of the Mad Mage, p. 27* 

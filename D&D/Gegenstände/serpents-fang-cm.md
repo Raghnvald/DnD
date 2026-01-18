@@ -1,14 +1,14 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- new/compendium/src/5e/cm
-- new/item/rarity/rare
-- new/item/weapon/martial
-- new/item/weapon/melee
-aliases: 
-- "Serpent's Fang"
+  - Quelle/5e/cm
+  - Gegenstand/rarity/rare
+  - Gegenstand/weapon/martial
+  - Gegenstand/weapon/melee
+aliases:
+  - Serpent's Fang
 ---
 # Serpent's Fang
 *Weapon (longsword), rare*  

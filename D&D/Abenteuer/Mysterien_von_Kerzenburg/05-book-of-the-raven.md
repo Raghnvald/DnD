@@ -1,11 +1,11 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- new/compendium/src/5e/cm
+  - Quelle/5e/cm
 aliases:
-- Book of the Raven
+  - Book of the Raven
 ---
 # Book of the Raven
 *Source: Candlekeep Mysteries, p. 35* 

@@ -1,14 +1,14 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-spell
+  - json5e-spell
 tags:
-- ttrpg-cli/compendium/src/5e/egw
-- ttrpg-cli/spell/level/2nd-level
-- ttrpg-cli/spell/ritual
-- ttrpg-cli/spell/school/conjuration
+  - Quelle/5e/egw
+  - Zauber/Grad/2
+  - Zauber/Ritual
+  - Zauber/Schule/conjuration
 aliases:
-- Wristpocket
+  - Wristpocket
 ---
 # Wristpocket
 *2nd-level, Conjuration (ritual)*  

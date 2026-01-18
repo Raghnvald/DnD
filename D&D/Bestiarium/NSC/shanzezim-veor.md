@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/veor
-- ttrpg-cli/monster/cr/11
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/elemental
+  - Quelle/5e/veor
+  - Monster/HG/11
+  - Monster/Größe/Groß
+  - Monster/Typ/elemental
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Shanzezim
+  - Shanzezim
 ---
 # [Shanzezim](3-Mechanics\CLI\bestiary\npc/shanzezim-veor.md)
 *Source: Vecna: Eve of Ruin*  

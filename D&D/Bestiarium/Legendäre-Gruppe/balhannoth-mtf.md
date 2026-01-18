@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- ttrpg-cli/compendium/src/5e/mtf
-- ttrpg-cli/monster/legendary-group
+  - Quelle/5e/mtf
+  - Monster/legendary-group
 aliases:
-- Balhannoth
+  - Balhannoth
 ---
 # Balhannoth
 

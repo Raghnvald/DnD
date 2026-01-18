@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/bmt
-- new/monster/cr/18
-- new/monster/size/huge
-- new/monster/type/fiend/yugoloth
+  - Quelle/5e/bmt
+  - Monster/HG/18
+  - Monster/Größe/Riesig
+  - Monster/Typ/fiend/yugoloth
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Malaxxix
+  - Malaxxix
 ---
 # [Malaxxix](3-Mechanics\CLI\bestiary\npc/malaxxix-bmt.md)
 *Source: The Book of Many Things p. 173*  

@@ -3,7 +3,7 @@ cssclasses:
   - json5e-reward
 tags:
   - Quelle/5e/ftd
-  - Kompendium/reward/draconic-gift
+  - Kompendium/Belohnung/draconic-gift
 aliases:
   - Draconic Familiar
 ---

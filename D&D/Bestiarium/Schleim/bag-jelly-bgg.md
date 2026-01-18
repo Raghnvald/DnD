@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/bgg
-- ttrpg-cli/monster/cr/1
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/ooze
+  - Quelle/5e/bgg
+  - Monster/HG/1
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/ooze
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Bag Jelly
+  - Bag Jelly
 ---
 # [Bag Jelly](3-Mechanics\CLI\bestiary\ooze/bag-jelly-bgg.md)
 *Source: Bigby Presents: Glory of the Giants p. 120*  

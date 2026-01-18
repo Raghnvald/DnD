@@ -1,22 +1,22 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/egw
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/rare
-- ttrpg-cli/item/weapon/martial
-- ttrpg-cli/item/weapon/melee
-- ttrpg-cli/item/wondrous/generic-variant
-aliases: 
-- "Acheron Blade"
-- "Acheron Blade Double-Bladed Scimitar"
-- "Acheron Blade Greatsword"
-- "Acheron Blade Longsword"
-- "Acheron Blade Rapier"
-- "Acheron Blade Scimitar"
-- "Acheron Blade Shortsword"
+  - Quelle/5e/egw
+  - Gegenstand/attunement/required
+  - Gegenstand/rarity/rare
+  - Gegenstand/weapon/martial
+  - Gegenstand/weapon/melee
+  - Gegenstand/wondrous/generic-variant
+aliases:
+  - Acheron Blade
+  - Acheron Blade Double-Bladed Scimitar
+  - Acheron Blade Greatsword
+  - Acheron Blade Longsword
+  - Acheron Blade Rapier
+  - Acheron Blade Scimitar
+  - Acheron Blade Shortsword
 ---
 # Acheron Blade
 *Rare (requires attunement)*  

@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/wdh
-- ttrpg-cli/monster/cr/unknown
-- ttrpg-cli/monster/size/tiny
-- ttrpg-cli/monster/type/construct
+  - Quelle/5e/wdh
+  - Monster/HG/Unbekannt
+  - Monster/Größe/Winzig
+  - Monster/Typ/construct
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Mechanical Bird
+  - Mechanical Bird
 ---
 # [Mechanical Bird](3-Mechanics\CLI\bestiary\construct/mechanical-bird-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 46*  

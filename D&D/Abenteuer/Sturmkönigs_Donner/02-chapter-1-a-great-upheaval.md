@@ -1,11 +1,11 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- new/compendium/src/5e/skt
+  - Quelle/5e/skt
 aliases:
-- Chapter 1: A Great Upheaval
+  - Chapter 1: A Great Upheaval
 ---
 # Chapter 1: A Great Upheaval
 *Source: Storm King's Thunder, p. 19* 

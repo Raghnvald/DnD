@@ -1,11 +1,11 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- new/compendium/src/5e/cm
+  - Quelle/5e/cm
 aliases:
-- The Canopic Being
+  - The Canopic Being
 ---
 # The Canopic Being
 *Source: Candlekeep Mysteries, p. 170* 

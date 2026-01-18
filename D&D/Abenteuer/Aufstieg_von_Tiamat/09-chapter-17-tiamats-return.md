@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- ttrpg-cli/compendium/src/5e/rot
+  - Quelle/5e/rot
 aliases:
-- Chapter 17: Tiamat's Return
+  - Chapter 17: Tiamat's Return
 ---
 # Chapter 17: Tiamat's Return
 *Source: Rise of Tiamat, p. 164* 

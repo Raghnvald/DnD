@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-race
+  - json5e-race
 tags:
-- ttrpg-cli/compendium/src/5e/scag
-- ttrpg-cli/race/half-elf/moon-elf-or-sun-elf-descent
+  - Quelle/5e/scag
+  - Rasse/half-elf/moon-elf-or-sun-elf-descent
 aliases:
-- Half-Elf (Moon Elf or Sun Elf Descent)
+  - Half-Elf (Moon Elf or Sun Elf Descent)
 ---
 # Half-Elf (Moon Elf or Sun Elf Descent)
 *Source: Sword Coast Adventurer's Guide p. 116*  

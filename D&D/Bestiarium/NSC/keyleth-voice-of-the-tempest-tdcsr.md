@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/tdcsr
-- ttrpg-cli/monster/cr/18
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/humanoid/half-elf
+  - Quelle/5e/tdcsr
+  - Monster/HG/18
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/humanoid/half-elf
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Keyleth, Voice of the Tempest
+  - Keyleth, Voice of the Tempest
 ---
 # [Keyleth, Voice of the Tempest](3-Mechanics\CLI\bestiary\npc/keyleth-voice-of-the-tempest-tdcsr.md)
 *Source: Tal'Dorei Campaign Setting Reborn p. 263*  

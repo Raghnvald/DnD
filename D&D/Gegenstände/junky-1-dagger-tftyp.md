@@ -1,14 +1,14 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- new/compendium/src/5e/tftyp
-- new/item/rarity/unknown/magic
-- new/item/weapon/melee
-- new/item/weapon/simple
-aliases: 
-- "Junky +1 Dagger"
+  - Quelle/5e/tftyp
+  - Gegenstand/rarity/unknown/magic
+  - Gegenstand/weapon/melee
+  - Gegenstand/weapon/simple
+aliases:
+  - Junky +1 Dagger
 ---
 # Junky +1 Dagger
 *Weapon (dagger)*  

@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/wdh
-- ttrpg-cli/monster/cr/17
-- ttrpg-cli/monster/size/huge
-- ttrpg-cli/monster/type/dragon
+  - Quelle/5e/wdh
+  - Monster/HG/17
+  - Monster/Größe/Riesig
+  - Monster/Typ/dragon
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Aurinax
+  - Aurinax
 ---
 # [Aurinax](3-Mechanics\CLI\bestiary\npc/aurinax-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 194*  

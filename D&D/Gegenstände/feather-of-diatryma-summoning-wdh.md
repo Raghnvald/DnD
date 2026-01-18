@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/wdh
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/rare
-aliases: 
-- "Feather of Diatryma Summoning"
+  - Quelle/5e/wdh
+  - Gegenstand/attunement/required
+  - Gegenstand/rarity/rare
+aliases:
+  - Feather of Diatryma Summoning
 ---
 # Feather of Diatryma Summoning
 *Wondrous item, rare (requires attunement)*  

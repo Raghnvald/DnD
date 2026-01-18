@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/background/simic-scientist
+- Zauber/list/background/simic-scientist
 aliases:
 - Spells for Simic Scientist
 ---

@@ -1,11 +1,11 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- new/compendium/src/5e/cm
+  - Quelle/5e/cm
 aliases:
-- The Joy of Extradimensional Spaces
+  - The Joy of Extradimensional Spaces
 ---
 # The Joy of Extradimensional Spaces
 *Source: Candlekeep Mysteries, p. 17* 

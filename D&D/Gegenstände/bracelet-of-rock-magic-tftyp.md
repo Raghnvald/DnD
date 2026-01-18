@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- new/compendium/src/5e/tftyp
-- new/item/attunement/required
-- new/item/rarity/very-rare
-aliases: 
-- "Bracelet of Rock Magic"
+  - Quelle/5e/tftyp
+  - Gegenstand/attunement/required
+  - Gegenstand/rarity/very-rare
+aliases:
+  - Bracelet of Rock Magic
 ---
 # Bracelet of Rock Magic
 *Wondrous item, cursed item, very rare (requires attunement)*  

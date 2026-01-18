@@ -1,14 +1,14 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-deity
+  - json5e-deity
 tags:
-- Quelle/5e/phb
-- Kompendium/Götter/greyhawk
-- Kompendium/Götter/domain/knowledge
-- Kompendium/Götter/domain/trickery
-aliases: 
-- Fharlanghn
+  - Quelle/5e/phb
+  - Kompendium/Götter/greyhawk
+  - Kompendium/Götter/Domäne/knowledge
+  - Kompendium/Götter/Domäne/trickery
+aliases:
+  - Fharlanghn
 ---
 # Fharlanghn
 *Source: Player's Handbook p. 295* 

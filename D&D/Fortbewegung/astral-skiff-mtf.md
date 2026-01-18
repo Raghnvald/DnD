@@ -1,14 +1,14 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-vehicle
+  - json5e-vehicle
 tags:
-- ttrpg-cli/compendium/src/5e/mtf
-- ttrpg-cli/vehicle/size/huge
-- ttrpg-cli/vehicle/terrain/air
-- ttrpg-cli/vehicle/type/ship
+  - Quelle/5e/mtf
+  - Kompendium/vehicle/size/huge
+  - Kompendium/vehicle/terrain/air
+  - Kompendium/vehicle/type/ship
 aliases:
-- Astral Skiff
+  - Astral Skiff
 ---
 # Astral Skiff
 %%-- Embedded content starts on the next line. --%%

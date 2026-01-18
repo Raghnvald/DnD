@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/mcv4ec
-- ttrpg-cli/monster/cr/6
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/monstrosity
+  - Quelle/5e/mcv4ec
+  - Monster/HG/6
+  - Monster/Größe/Groß
+  - Monster/Typ/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Witchstalker
+  - Witchstalker
 ---
 # [Witchstalker](3-Mechanics\CLI\bestiary\monstrosity/witchstalker-mcv4ec.md)
 *Source: Monstrous Compendium Volume 4: Eldraine Creatures*  

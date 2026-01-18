@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- new/compendium/src/5e/erlw
-- new/item/gear/
-- new/item/rarity/none
-aliases: 
-- "Argonnessen Trinket"
+  - Quelle/5e/erlw
+  - Gegenstand/gear/
+  - Gegenstand/rarity/none
+aliases:
+  - Argonnessen Trinket
 ---
 # Argonnessen Trinket
 *Adventuring gear*  

@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/veor
-- ttrpg-cli/monster/cr/13
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/undead/shapechanger
+  - Quelle/5e/veor
+  - Monster/HG/13
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/undead/shapechanger
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Kaylan Renaudon
+  - Kaylan Renaudon
 ---
 # [Kaylan Renaudon](3-Mechanics\CLI\bestiary\npc/kaylan-renaudon-veor.md)
 *Source: Vecna: Eve of Ruin*  

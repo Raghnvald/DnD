@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/cm
-- new/monster/cr/1-8
-- new/monster/size/medium
-- new/monster/type/humanoid/elf
+  - Quelle/5e/cm
+  - Monster/HG/1-8
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/humanoid/elf
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Faerl
+  - Faerl
 ---
 # [Faerl](3-Mechanics\CLI\bestiary\npc/faerl-cm.md)
 *Source: Candlekeep Mysteries p. 104*  

@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/tdcsr
-- ttrpg-cli/monster/cr/2
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/monstrosity
+  - Quelle/5e/tdcsr
+  - Monster/HG/2
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Diseased Grick
+  - Diseased Grick
 ---
 # [Diseased Grick](3-Mechanics\CLI\bestiary\monstrosity/diseased-grick-tdcsr.md)
 *Source: Tal'Dorei Campaign Setting Reborn p. 122*  

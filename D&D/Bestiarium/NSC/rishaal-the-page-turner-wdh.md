@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/wdh
-- ttrpg-cli/monster/cr/6
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/humanoid/dragonborn
+  - Quelle/5e/wdh
+  - Monster/HG/6
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/humanoid/dragonborn
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Rishaal the Page-Turner
+  - Rishaal the Page-Turner
 ---
 # [Rishaal the Page-Turner](3-Mechanics\CLI\bestiary\npc/rishaal-the-page-turner-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 33*  

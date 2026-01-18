@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-race
+  - json5e-race
 tags:
-- ttrpg-cli/compendium/src/5e/scag
-- ttrpg-cli/race/half-elf/aquatic-elf-descent
+  - Quelle/5e/scag
+  - Rasse/half-elf/aquatic-elf-descent
 aliases:
-- Half-Elf (Aquatic Elf Descent)
+  - Half-Elf (Aquatic Elf Descent)
 ---
 # Half-Elf (Aquatic Elf Descent)
 *Source: Sword Coast Adventurer's Guide p. 116*  

@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/bgg
-- ttrpg-cli/monster/cr/27
-- ttrpg-cli/monster/size/gargantuan
-- ttrpg-cli/monster/type/giant/titan
+  - Quelle/5e/bgg
+  - Monster/HG/27
+  - Monster/Größe/Gigantisch
+  - Monster/Typ/giant/titan
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Scion of Stronmaus
+  - Scion of Stronmaus
 ---
 # [Scion of Stronmaus](3-Mechanics\CLI\bestiary\giant/scion-of-stronmaus-bgg.md)
 *Source: Bigby Presents: Glory of the Giants p. 171*  

@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/veor
-- ttrpg-cli/monster/cr/19
-- ttrpg-cli/monster/size/huge
-- ttrpg-cli/monster/type/fiend/demon
+  - Quelle/5e/veor
+  - Monster/HG/19
+  - Monster/Größe/Riesig
+  - Monster/Typ/fiend/demon
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Camlash
+  - Camlash
 ---
 # [Camlash](3-Mechanics\CLI\bestiary\npc/camlash-veor.md)
 *Source: Vecna: Eve of Ruin p. 181*  

@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/jttrc
-- ttrpg-cli/monster/cr/1-2
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/beast
+  - Quelle/5e/jttrc
+  - Monster/HG/1-2
+  - Monster/Größe/Groß
+  - Monster/Typ/beast
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Koi Prawn
+  - Koi Prawn
 ---
 # [Koi Prawn](3-Mechanics\CLI\bestiary\beast/koi-prawn-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 26*  

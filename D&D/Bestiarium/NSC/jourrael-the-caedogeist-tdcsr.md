@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/tdcsr
-- ttrpg-cli/monster/cr/15
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/fiend/drow
+  - Quelle/5e/tdcsr
+  - Monster/HG/15
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/fiend/drow
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Jourrael, the Caedogeist
+  - Jourrael, the Caedogeist
 ---
 # [Jourrael, the Caedogeist](3-Mechanics\CLI\bestiary\npc/jourrael-the-caedogeist-tdcsr.md)
 *Source: Tal'Dorei Campaign Setting Reborn p. 245*  

@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/cm
-- new/monster/cr/16
-- new/monster/size/huge
-- new/monster/type/undead
+  - Quelle/5e/cm
+  - Monster/HG/16
+  - Monster/Größe/Riesig
+  - Monster/Typ/undead
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Storm Giant Skeleton
+  - Storm Giant Skeleton
 ---
 # [Storm Giant Skeleton](3-Mechanics\CLI\bestiary\undead/storm-giant-skeleton-cm.md)
 *Source: Candlekeep Mysteries p. 208*  

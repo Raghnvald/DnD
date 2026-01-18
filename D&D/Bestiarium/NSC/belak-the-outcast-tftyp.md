@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/tftyp
-- new/monster/cr/2
-- new/monster/size/medium
-- new/monster/type/humanoid/human
+  - Quelle/5e/tftyp
+  - Monster/HG/2
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/humanoid/human
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Belak the Outcast
+  - Belak the Outcast
 ---
 # [Belak the Outcast](3-Mechanics\CLI\bestiary\npc/belak-the-outcast-tftyp.md)
 *Source: Tales from the Yawning Portal p. 9*  

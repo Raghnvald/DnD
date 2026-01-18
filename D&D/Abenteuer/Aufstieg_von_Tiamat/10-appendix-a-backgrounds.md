@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- ttrpg-cli/compendium/src/5e/rot
+  - Quelle/5e/rot
 aliases:
-- Appendix A: Backgrounds
+  - Appendix A: Backgrounds
 ---
 # Appendix A: Backgrounds
 *Source: Rise of Tiamat, p. 176* 

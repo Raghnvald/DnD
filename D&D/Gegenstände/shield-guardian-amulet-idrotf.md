@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- new/compendium/src/5e/idrotf
-- new/item/attunement/required
-- new/item/rarity/rare
-aliases: 
-- "Shield Guardian Amulet"
+  - Quelle/5e/idrotf
+  - Gegenstand/attunement/required
+  - Gegenstand/rarity/rare
+aliases:
+  - Shield Guardian Amulet
 ---
 # Shield Guardian Amulet
 *Wondrous item, rare (requires attunement by a humanoid)*  

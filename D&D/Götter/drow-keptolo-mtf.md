@@ -1,14 +1,14 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-deity
+  - json5e-deity
 tags:
-- ttrpg-cli/compendium/src/5e/mtf
-- ttrpg-cli/deity/drow
-- ttrpg-cli/domain/nature
-- ttrpg-cli/domain/trickery
-aliases: 
-- Keptolo
+  - Quelle/5e/mtf
+  - Kompendium/Götter/drow
+  - Kompendium/Götter/Domäne/nature
+  - Kompendium/Götter/Domäne/trickery
+aliases:
+  - Keptolo
 ---
 # Keptolo
 *Source: Mordenkainen's Tome of Foes p. 54* 

@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/skt
-- new/monster/cr/1
-- new/monster/size/large
-- new/monster/type/giant
+  - Quelle/5e/skt
+  - Monster/HG/1
+  - Monster/Größe/Groß
+  - Monster/Typ/giant
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Zaltember
+  - Zaltember
 ---
 # [Zaltember](3-Mechanics\CLI\bestiary\npc/zaltember-skt.md)
 *Source: Storm King's Thunder p. 180*  

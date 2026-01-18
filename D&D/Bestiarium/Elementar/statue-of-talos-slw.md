@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/slw
-- new/monster/cr/10
-- new/monster/size/large
-- new/monster/type/elemental
+  - Quelle/5e/slw
+  - Monster/HG/10
+  - Monster/Größe/Groß
+  - Monster/Typ/elemental
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Statue of Talos
+  - Statue of Talos
 ---
 # [Statue of Talos](3-Mechanics\CLI\bestiary\elemental/statue-of-talos-slw.md)
 *Source: Storm Lord's Wrath*  

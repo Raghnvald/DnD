@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/bgg
-- ttrpg-cli/monster/cr/6
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/fiend/demon
+  - Quelle/5e/bgg
+  - Monster/HG/6
+  - Monster/Größe/Groß
+  - Monster/Typ/fiend/demon
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Echo of Demogorgon
+  - Echo of Demogorgon
 ---
 # [Echo of Demogorgon](3-Mechanics\CLI\bestiary\fiend/echo-of-demogorgon-bgg.md)
 *Source: Bigby Presents: Glory of the Giants p. 132*  

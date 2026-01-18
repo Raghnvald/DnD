@@ -1,14 +1,14 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/wdh
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/legendary
-- ttrpg-cli/item/weapon/simple
-aliases: 
-- "Blackstaff"
+  - Quelle/5e/wdh
+  - Gegenstand/attunement/required
+  - Gegenstand/rarity/legendary
+  - Gegenstand/weapon/simple
+aliases:
+  - Blackstaff
 ---
 # Blackstaff
 *Staff, weapon, legendary (requires attunement by the Blackstaff heir, who must be a wizard)*  

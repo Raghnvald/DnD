@@ -1,15 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-deity
+  - json5e-deity
 tags:
-- ttrpg-cli/compendium/src/5e/mtf
-- ttrpg-cli/deity/elven
-- ttrpg-cli/domain/arcana
-- ttrpg-cli/domain/knowledge
-- ttrpg-cli/domain/life
-aliases: 
-- Labelas Enoreth
+  - Quelle/5e/mtf
+  - Kompendium/Götter/elven
+  - Kompendium/Götter/Domäne/arcana
+  - Kompendium/Götter/Domäne/knowledge
+  - Kompendium/Götter/Domäne/life
+aliases:
+  - Labelas Enoreth
 ---
 # Labelas Enoreth
 *Source: Mordenkainen's Tome of Foes p. 45* 

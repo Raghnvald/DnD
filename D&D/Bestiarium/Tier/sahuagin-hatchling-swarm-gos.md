@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/gos
-- ttrpg-cli/monster/cr/3
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/beast
+  - Quelle/5e/gos
+  - Monster/HG/3
+  - Monster/Größe/Groß
+  - Monster/Typ/beast
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Sahuagin Hatchling Swarm
+  - Sahuagin Hatchling Swarm
 ---
 # [Sahuagin Hatchling Swarm](3-Mechanics\CLI\bestiary\beast/sahuagin-hatchling-swarm-gos.md)
 *Source: Ghosts of Saltmarsh p. 250*  

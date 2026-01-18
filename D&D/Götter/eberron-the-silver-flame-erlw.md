@@ -1,15 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-deity
+  - json5e-deity
 tags:
-- new/compendium/src/5e/erlw
-- new/deity/eberron
-- new/domain/life
-- new/domain/light
-- new/domain/war
-aliases: 
-- The Silver Flame
+  - Quelle/5e/erlw
+  - Kompendium/Götter/eberron
+  - Kompendium/Götter/Domäne/life
+  - Kompendium/Götter/Domäne/light
+  - Kompendium/Götter/Domäne/war
+aliases:
+  - The Silver Flame
 ---
 # The Silver Flame
 *Source: Eberron: Rising from the Last War p. 141* 

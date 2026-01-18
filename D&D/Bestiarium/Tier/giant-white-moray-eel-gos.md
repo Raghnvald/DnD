@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/gos
-- ttrpg-cli/monster/cr/2
-- ttrpg-cli/monster/size/huge
-- ttrpg-cli/monster/type/beast
+  - Quelle/5e/gos
+  - Monster/HG/2
+  - Monster/Größe/Riesig
+  - Monster/Typ/beast
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Giant White Moray Eel
+  - Giant White Moray Eel
 ---
 # [Giant White Moray Eel](3-Mechanics\CLI\bestiary\beast/giant-white-moray-eel-gos.md)
 *Source: Ghosts of Saltmarsh p. 216*  

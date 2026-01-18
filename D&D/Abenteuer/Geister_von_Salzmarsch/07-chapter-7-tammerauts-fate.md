@@ -1,11 +1,11 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- ttrpg-cli/compendium/src/5e/gos
+  - Quelle/5e/gos
 aliases:
-- Chapter 7: Tammeraut's Fate
+  - Chapter 7: Tammeraut's Fate
 ---
 # Chapter 7: Tammeraut's Fate
 *Source: Ghosts of Saltmarsh, p. 141* 

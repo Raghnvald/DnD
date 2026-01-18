@@ -1,11 +1,11 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- new/compendium/src/5e/dip
+  - Quelle/5e/dip
 aliases:
-- Dwarven Excavation
+  - Dwarven Excavation
 ---
 # Dwarven Excavation
 *Source: Essentials Kit: Dragon of Icespire Peak, p. 22* 

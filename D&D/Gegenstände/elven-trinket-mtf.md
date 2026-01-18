@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/mtf
-- ttrpg-cli/item/gear/
-- ttrpg-cli/item/rarity/none
-aliases: 
-- "Elven Trinket"
+  - Quelle/5e/mtf
+  - Gegenstand/gear/
+  - Gegenstand/rarity/none
+aliases:
+  - Elven Trinket
 ---
 # Elven Trinket
 *Adventuring gear*  

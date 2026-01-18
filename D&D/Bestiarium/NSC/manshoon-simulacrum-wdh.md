@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/wdh
-- ttrpg-cli/monster/cr/8
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/humanoid/human
+  - Quelle/5e/wdh
+  - Monster/HG/8
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/humanoid/human
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Manshoon Simulacrum
+  - Manshoon Simulacrum
 ---
 # [Manshoon Simulacrum](3-Mechanics\CLI\bestiary\npc/manshoon-simulacrum-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 208*  

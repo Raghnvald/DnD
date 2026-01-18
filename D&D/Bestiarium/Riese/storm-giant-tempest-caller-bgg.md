@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/bgg
-- ttrpg-cli/monster/cr/20
-- ttrpg-cli/monster/size/huge
-- ttrpg-cli/monster/type/giant/sorcerer
+  - Quelle/5e/bgg
+  - Monster/HG/20
+  - Monster/Größe/Riesig
+  - Monster/Typ/giant/sorcerer
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Storm Giant Tempest Caller
+  - Storm Giant Tempest Caller
 ---
 # [Storm Giant Tempest Caller](3-Mechanics\CLI\bestiary\giant/storm-giant-tempest-caller-bgg.md)
 *Source: Bigby Presents: Glory of the Giants p. 182*  

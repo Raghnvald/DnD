@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/vrgr
-- ttrpg-cli/monster/cr/6
-- ttrpg-cli/monster/size/huge
-- ttrpg-cli/monster/type/undead
+  - Quelle/5e/vrgr
+  - Monster/HG/6
+  - Monster/Größe/Riesig
+  - Monster/Typ/undead
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Zombie Clot
+  - Zombie Clot
 ---
 # [Zombie Clot](3-Mechanics\CLI\bestiary\undead/zombie-clot-vrgr.md)
 *Source: Van Richten's Guide to Ravenloft p. 255*  

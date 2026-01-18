@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/gos
-- ttrpg-cli/monster/cr/1
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/humanoid/sahuagin
+  - Quelle/5e/gos
+  - Monster/HG/1
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/humanoid/sahuagin
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Sahuagin Coral Smasher
+  - Sahuagin Coral Smasher
 ---
 # [Sahuagin Coral Smasher](3-Mechanics\CLI\bestiary\humanoid/sahuagin-coral-smasher-gos.md)
 *Source: Ghosts of Saltmarsh p. 249*  

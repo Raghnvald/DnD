@@ -1,17 +1,17 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/mm
-- ttrpg-cli/monster/cr/17
-- ttrpg-cli/monster/environment/desert
-- ttrpg-cli/monster/size/huge
-- ttrpg-cli/monster/type/undead
+  - Quelle/5e/mm
+  - Monster/HG/17
+  - Monster/Habitat/desert
+  - Monster/Größe/Riesig
+  - Monster/Typ/undead
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Adult Blue Dracolich
+  - Adult Blue Dracolich
 ---
 # [Adult Blue Dracolich](3-Mechanics\CLI\bestiary\undead/adult-blue-dracolich.md)
 *Source: Monster Manual p. 84*  

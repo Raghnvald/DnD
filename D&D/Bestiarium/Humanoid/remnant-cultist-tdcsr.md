@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/tdcsr
-- ttrpg-cli/monster/cr/7
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/humanoid/any
+  - Quelle/5e/tdcsr
+  - Monster/HG/7
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/humanoid/any
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Remnant Cultist
+  - Remnant Cultist
 ---
 # [Remnant Cultist](3-Mechanics\CLI\bestiary\humanoid/remnant-cultist-tdcsr.md)
 *Source: Tal'Dorei Campaign Setting Reborn p. 252*  

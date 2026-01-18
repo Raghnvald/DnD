@@ -1,19 +1,19 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- new/compendium/src/5e/bmt
-- new/item/attunement/required
-- new/item/rarity/rare
-- new/item/weapon/martial
-- new/item/weapon/ranged
-- new/item/weapon/simple
-- new/item/wondrous/generic-variant
-aliases: 
-- "Glimmering Moonbow"
-- "Glimmering Moon Longbow"
-- "Glimmering Moon Shortbow"
+  - Quelle/5e/bmt
+  - Gegenstand/attunement/required
+  - Gegenstand/rarity/rare
+  - Gegenstand/weapon/martial
+  - Gegenstand/weapon/ranged
+  - Gegenstand/weapon/simple
+  - Gegenstand/wondrous/generic-variant
+aliases:
+  - Glimmering Moonbow
+  - Glimmering Moon Longbow
+  - Glimmering Moon Shortbow
 ---
 # Glimmering Moonbow
 *Rare (requires attunement)*  

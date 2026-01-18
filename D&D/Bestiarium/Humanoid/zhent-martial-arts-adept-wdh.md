@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/wdh
-- ttrpg-cli/monster/cr/3
-- ttrpg-cli/monster/size/small
-- ttrpg-cli/monster/type/humanoid/lightfoot-halfling
+  - Quelle/5e/wdh
+  - Monster/HG/3
+  - Monster/Größe/Klein
+  - Monster/Typ/humanoid/lightfoot-halfling
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Zhent Martial Arts Adept
+  - Zhent Martial Arts Adept
 ---
 # [Zhent Martial Arts Adept](3-Mechanics\CLI\bestiary\humanoid/zhent-martial-arts-adept-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 160*  

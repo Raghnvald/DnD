@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-deity
+  - json5e-deity
 tags:
-- ttrpg-cli/compendium/src/5e/mtf
-- ttrpg-cli/deity/dwarven
-- ttrpg-cli/domain/tempest
-aliases: 
-- Muamman Duathal
+  - Quelle/5e/mtf
+  - Kompendium/Götter/dwarven
+  - Kompendium/Götter/Domäne/tempest
+aliases:
+  - Muamman Duathal
 ---
 # Muamman Duathal
 *Source: Mordenkainen's Tome of Foes p. 73* 

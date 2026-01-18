@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/skt
-- new/monster/cr/5
-- new/monster/size/huge
-- new/monster/type/giant
+  - Quelle/5e/skt
+  - Monster/HG/5
+  - Monster/Größe/Riesig
+  - Monster/Typ/giant
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Young Cloud Giant
+  - Young Cloud Giant
 ---
 # [Young Cloud Giant](3-Mechanics\CLI\bestiary\giant/young-cloud-giant-skt.md)
 *Source: Storm King's Thunder p. 112*  

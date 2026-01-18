@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/toa
-- new/monster/cr/0
-- new/monster/size/medium
-- new/monster/type/undead
+  - Quelle/5e/toa
+  - Monster/HG/0
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/undead
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Blind Artist
+  - Blind Artist
 ---
 # [Blind Artist](3-Mechanics\CLI\bestiary\npc/blind-artist-toa.md)
 *Source: Tomb of Annihilation p. 164*  

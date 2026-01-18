@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/tdcsr
-- ttrpg-cli/item/gear/trade-good
-- ttrpg-cli/item/rarity/unknown/magic
-aliases: 
-- "Whitestone"
+  - Quelle/5e/tdcsr
+  - Gegenstand/gear/trade-good
+  - Gegenstand/rarity/unknown/magic
+aliases:
+  - Whitestone
 ---
 # Whitestone
 *Trade good*  

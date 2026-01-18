@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/bam
-- ttrpg-cli/monster/cr/18
-- ttrpg-cli/monster/size/gargantuan
-- ttrpg-cli/monster/type/aberration
+  - Quelle/5e/bam
+  - Monster/HG/18
+  - Monster/Größe/Gigantisch
+  - Monster/Typ/aberration
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Cosmic Horror
+  - Cosmic Horror
 ---
 # [Cosmic Horror](3-Mechanics\CLI\bestiary\aberration/cosmic-horror-bam.md)
 *Source: Boo's Astral Menagerie p. 18, Vecna: Eve of Ruin*  

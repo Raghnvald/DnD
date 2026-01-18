@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/egw
-- ttrpg-cli/monster/cr/23
-- ttrpg-cli/monster/size/gargantuan
-- ttrpg-cli/monster/type/dragon
+  - Quelle/5e/egw
+  - Monster/HG/23
+  - Monster/Größe/Gigantisch
+  - Monster/Typ/dragon
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Karkethzerethzerus, the Sable Despoiler
+  - Karkethzerethzerus, the Sable Despoiler
 ---
 # [Karkethzerethzerus, the Sable Despoiler](3-Mechanics\CLI\bestiary\npc/karkethzerethzerus-the-sable-despoiler-egw.md)
 *Source: Explorer's Guide to Wildemount p. 158*  

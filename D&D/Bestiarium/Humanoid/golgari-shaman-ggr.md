@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/ggr
-- ttrpg-cli/monster/cr/5
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/humanoid/elf
+  - Quelle/5e/ggr
+  - Monster/HG/5
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/humanoid/elf
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Golgari Shaman
+  - Golgari Shaman
 ---
 # [Golgari Shaman](3-Mechanics\CLI\bestiary\humanoid/golgari-shaman-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 236*  

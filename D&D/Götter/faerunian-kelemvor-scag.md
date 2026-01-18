@@ -4,8 +4,8 @@ cssclasses:
 tags:
   - Quelle/5e/scag
   - Kompendium/Götter/faerunian
-  - Kompendium/Götter/domain/death
-  - Kompendium/Götter/domain/grave
+  - Kompendium/Götter/Domäne/death
+  - Kompendium/Götter/Domäne/grave
 aliases:
   - Kelemvor
   - The Lord of the Dead

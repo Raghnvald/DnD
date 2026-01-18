@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-race
+  - json5e-race
 tags:
-- new/compendium/src/5e/mtf
-- new/race/elf/shadar-kai
+  - Quelle/5e/mtf
+  - Rasse/elf/shadar-kai
 aliases:
-- Elf (Shadar-kai)
+  - Elf (Shadar-kai)
 ---
 # Elf (Shadar-kai)
 *Source: Mordenkainen's Tome of Foes p. 62*  

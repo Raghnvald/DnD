@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-reward
+  - json5e-reward
 tags:
-- Quelle/5e/xdmg
-- Kompendium/reward/charm
+  - Quelle/5e/xdmg
+  - Kompendium/Belohnung/charm
 aliases:
-- Charm of Animal Conjuring
+  - Charm of Animal Conjuring
 ---
 # Charm of Animal Conjuring
 

@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/jttrc
-- ttrpg-cli/monster/cr/10
-- ttrpg-cli/monster/size/huge
-- ttrpg-cli/monster/type/elemental
+  - Quelle/5e/jttrc
+  - Monster/HG/10
+  - Monster/Größe/Riesig
+  - Monster/Typ/elemental
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Tlexolotl
+  - Tlexolotl
 ---
 # [Tlexolotl](3-Mechanics\CLI\bestiary\elemental/tlexolotl-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 119*  

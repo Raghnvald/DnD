@@ -1,11 +1,11 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- ttrpg-cli/compendium/src/5e/veor
+  - Quelle/5e/veor
 aliases:
-- Chapter 11: Eve of Ruin
+  - Chapter 11: Eve of Ruin
 ---
 # Chapter 11: Eve of Ruin
 *Source: Vecna: Eve of Ruin* 

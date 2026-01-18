@@ -1,14 +1,14 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-deity
+  - json5e-deity
 tags:
-- ttrpg-cli/compendium/src/5e/egw
-- ttrpg-cli/deity/exandria
-- ttrpg-cli/domain/arcana
-- ttrpg-cli/domain/light
-aliases: 
-- Corellon
+  - Quelle/5e/egw
+  - Kompendium/Götter/exandria
+  - Kompendium/Götter/Domäne/arcana
+  - Kompendium/Götter/Domäne/light
+aliases:
+  - Corellon
 ---
 # Corellon
 *Source: Explorer's Guide to Wildemount p. 22* 

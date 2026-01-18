@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/tftyp
-- new/monster/cr/5
-- new/monster/size/large
-- new/monster/type/giant
+  - Quelle/5e/tftyp
+  - Monster/HG/5
+  - Monster/Größe/Groß
+  - Monster/Typ/giant
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Scrag
+  - Scrag
 ---
 # [Scrag](3-Mechanics\CLI\bestiary\giant/scrag-tftyp.md)
 *Source: Tales from the Yawning Portal p. 147*  

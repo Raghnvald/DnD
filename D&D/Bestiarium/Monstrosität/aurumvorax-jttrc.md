@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/jttrc
-- ttrpg-cli/monster/cr/2
-- ttrpg-cli/monster/size/small
-- ttrpg-cli/monster/type/monstrosity
+  - Quelle/5e/jttrc
+  - Monster/HG/2
+  - Monster/Größe/Klein
+  - Monster/Typ/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Aurumvorax
+  - Aurumvorax
 ---
 # [Aurumvorax](3-Mechanics\CLI\bestiary\monstrosity/aurumvorax-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 105*  

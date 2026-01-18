@@ -1,18 +1,18 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/vgm
-- new/monster/cr/1-4
-- new/monster/environment/forest
-- new/monster/environment/swamp
-- new/monster/size/small
-- new/monster/type/plant
+  - Quelle/5e/vgm
+  - Monster/HG/1-4
+  - Monster/Habitat/forest
+  - Monster/Habitat/swamp
+  - Monster/Größe/Klein
+  - Monster/Typ/plant
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Vegepygmy
+  - Vegepygmy
 ---
 # [Vegepygmy](3-Mechanics\CLI\bestiary\plant/vegepygmy-vgm.md)
 *Source: Volo's Guide to Monsters p. 196, Tomb of Annihilation*  

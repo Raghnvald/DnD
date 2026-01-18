@@ -1,18 +1,18 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/vgm
-- new/monster/cr/1-4
-- new/monster/environment/coastal
-- new/monster/environment/swamp
-- new/monster/size/medium
-- new/monster/type/beast
+  - Quelle/5e/vgm
+  - Monster/HG/1-4
+  - Monster/Habitat/coastal
+  - Monster/Habitat/swamp
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/beast
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Dimetrodon
+  - Dimetrodon
 ---
 # [Dimetrodon](3-Mechanics\CLI\bestiary\beast/dimetrodon-vgm.md)
 *Source: Volo's Guide to Monsters p. 139, Tomb of Annihilation*  

@@ -1,11 +1,11 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- new/compendium/src/5e/toa
+  - Quelle/5e/toa
 aliases:
-- Wilderness Encounters
+  - Wilderness Encounters
 ---
 # Wilderness Encounters
 *Source: Tomb of Annihilation p. 194* 

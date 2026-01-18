@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/egw
-- ttrpg-cli/monster/cr/2
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/giant
+  - Quelle/5e/egw
+  - Monster/HG/2
+  - Monster/Größe/Groß
+  - Monster/Typ/giant
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Ogre Lord Buhfal II
+  - Ogre Lord Buhfal II
 ---
 # [Ogre Lord Buhfal II](3-Mechanics\CLI\bestiary\npc/ogre-lord-buhfal-ii-egw.md)
 *Source: Explorer's Guide to Wildemount p. 251*  

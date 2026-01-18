@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- ttrpg-cli/compendium/src/5e/vgm
-- ttrpg-cli/monster/legendary-group
+  - Quelle/5e/vgm
+  - Monster/legendary-group
 aliases:
-- Bheur Hag
+  - Bheur Hag
 ---
 # Bheur Hag
 

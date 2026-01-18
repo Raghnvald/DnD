@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/toa
-- new/monster/cr/1-4
-- new/monster/size/small
-- new/monster/type/plant
+  - Quelle/5e/toa
+  - Monster/HG/1-4
+  - Monster/Größe/Klein
+  - Monster/Typ/plant
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Kupalué
+  - Kupalué
 ---
 # [Kupalué](3-Mechanics\CLI\bestiary\npc/kupalue-toa.md)
 *Source: Tomb of Annihilation p. 35*  

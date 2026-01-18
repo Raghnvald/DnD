@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-deity
+  - json5e-deity
 tags:
-- ttrpg-cli/compendium/src/5e/mtf
-- ttrpg-cli/deity/drow
-- ttrpg-cli/domain/war
-aliases: 
-- Ghaunadaur
+  - Quelle/5e/mtf
+  - Kompendium/Götter/drow
+  - Kompendium/Götter/Domäne/war
+aliases:
+  - Ghaunadaur
 ---
 # Ghaunadaur
 *Source: Mordenkainen's Tome of Foes p. 53* 

@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/tftyp
-- new/monster/cr/2
-- new/monster/size/large
-- new/monster/type/monstrosity
+  - Quelle/5e/tftyp
+  - Monster/HG/2
+  - Monster/Größe/Groß
+  - Monster/Typ/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Reduced-Threat Carrion Crawler
+  - Reduced-Threat Carrion Crawler
 ---
 # [Reduced-Threat Carrion Crawler](3-Mechanics\CLI\bestiary\monstrosity/reduced-threat-carrion-crawler-tftyp.md)
 *Source: Tales from the Yawning Portal p. 113*  

@@ -1,14 +1,14 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-deity
+  - json5e-deity
 tags:
-- ttrpg-cli/compendium/src/5e/scag
-- ttrpg-cli/deity/gnomish
-- ttrpg-cli/domain/knowledge
-- ttrpg-cli/domain/trickery
-aliases: 
-- Nebelun
+  - Quelle/5e/scag
+  - Kompendium/Götter/gnomish
+  - Kompendium/Götter/Domäne/knowledge
+  - Kompendium/Götter/Domäne/trickery
+aliases:
+  - Nebelun
 ---
 # Nebelun
 *Source: Sword Coast Adventurer's Guide p. 24* 

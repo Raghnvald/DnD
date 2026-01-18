@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/mcv4ec
-- ttrpg-cli/monster/cr/12
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/fey
+  - Quelle/5e/mcv4ec
+  - Monster/HG/12
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/fey
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- High Fae Kindguard
+  - High Fae Kindguard
 ---
 # [High Fae Kindguard](3-Mechanics\CLI\bestiary\fey/high-fae-kindguard-mcv4ec.md)
 *Source: Monstrous Compendium Volume 4: Eldraine Creatures*  

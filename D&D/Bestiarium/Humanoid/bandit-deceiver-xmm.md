@@ -1,17 +1,17 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/7
-- ttrpg-cli/monster/environment/any
-- ttrpg-cli/monster/size/small-or-medium
-- ttrpg-cli/monster/type/humanoid
+  - Quelle/5e/xmm
+  - Monster/HG/7
+  - Monster/Habitat/any
+  - Monster/Größe/Klein-oder-Mittelgroß
+  - Monster/Typ/humanoid
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Bandit Deceiver
+  - Bandit Deceiver
 ---
 # [Bandit Deceiver](3-Mechanics\CLI\bestiary\humanoid/bandit-deceiver-xmm.md)
 *Source: Monster Manual (2024) p. 28*  

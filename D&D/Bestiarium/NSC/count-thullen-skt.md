@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/skt
-- new/monster/cr/10
-- new/monster/size/huge
-- new/monster/type/giant
+  - Quelle/5e/skt
+  - Monster/HG/10
+  - Monster/Größe/Riesig
+  - Monster/Typ/giant
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Count Thullen
+  - Count Thullen
 ---
 # [Count Thullen](3-Mechanics\CLI\bestiary\npc/count-thullen-skt.md)
 *Source: Storm King's Thunder p. 198*  

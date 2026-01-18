@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/bmt
-- new/monster/cr/4
-- new/monster/size/medium
-- new/monster/type/fey
+  - Quelle/5e/bmt
+  - Monster/HG/4
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/fey
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Fate Hag
+  - Fate Hag
 ---
 # [Fate Hag](3-Mechanics\CLI\bestiary\fey/fate-hag-bmt.md)
 *Source: The Book of Many Things p. 176*  

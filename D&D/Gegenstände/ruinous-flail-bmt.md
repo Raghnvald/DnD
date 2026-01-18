@@ -1,15 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- new/compendium/src/5e/bmt
-- new/item/attunement/required
-- new/item/rarity/rare
-- new/item/weapon/martial
-- new/item/weapon/melee
-aliases: 
-- "Ruinous Flail"
+  - Quelle/5e/bmt
+  - Gegenstand/attunement/required
+  - Gegenstand/rarity/rare
+  - Gegenstand/weapon/martial
+  - Gegenstand/weapon/melee
+aliases:
+  - Ruinous Flail
 ---
 # Ruinous Flail
 *Weapon (flail), rare (requires attunement)*  

@@ -1,11 +1,11 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- ttrpg-cli/compendium/src/5e/gos
+  - Quelle/5e/gos
 aliases:
-- Open Water Encounters (Levels 5—10)
+  - Open Water Encounters (Levels 5—10)
 ---
 # Open Water Encounters (Levels 5—10)
 *Source: Ghosts of Saltmarsh p. 207* 

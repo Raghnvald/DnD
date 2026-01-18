@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-deity
+  - json5e-deity
 tags:
-- ttrpg-cli/compendium/src/5e/mtf
-- ttrpg-cli/deity/elven
-- ttrpg-cli/domain/tempest
-aliases: 
-- Rellavar Danuvien
+  - Quelle/5e/mtf
+  - Kompendium/Götter/elven
+  - Kompendium/Götter/Domäne/tempest
+aliases:
+  - Rellavar Danuvien
 ---
 # Rellavar Danuvien
 *Source: Mordenkainen's Tome of Foes p. 43* 

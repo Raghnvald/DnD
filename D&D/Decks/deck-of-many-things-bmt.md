@@ -1,11 +1,11 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-deck
+  - json5e-deck
 tags:
-- new/compendium/src/5e/bmt
+  - Quelle/5e/bmt
 aliases:
-- Deck of Many Things
+  - Deck of Many Things
 ---
 # Deck of Many Things
 *Source: The Book of Many Things p. 12*  

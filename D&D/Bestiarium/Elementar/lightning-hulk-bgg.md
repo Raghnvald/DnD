@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/bgg
-- ttrpg-cli/monster/cr/9
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/elemental
+  - Quelle/5e/bgg
+  - Monster/HG/9
+  - Monster/Größe/Groß
+  - Monster/Typ/elemental
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Lightning Hulk
+  - Lightning Hulk
 ---
 # [Lightning Hulk](3-Mechanics\CLI\bestiary\elemental/lightning-hulk-bgg.md)
 *Source: Bigby Presents: Glory of the Giants p. 158*  

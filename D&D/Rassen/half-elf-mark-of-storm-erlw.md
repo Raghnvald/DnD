@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-race
+  - json5e-race
 tags:
-- new/compendium/src/5e/erlw
-- new/race/half-elf/mark-of-storm
+  - Quelle/5e/erlw
+  - Rasse/half-elf/mark-of-storm
 aliases:
-- Half-Elf (Mark of Storm)
+  - Half-Elf (Mark of Storm)
 ---
 # Half-Elf (Mark of Storm)
 *Source: Eberron: Rising from the Last War p. 50*  

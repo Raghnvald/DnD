@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-background
+  - json5e-background
 tags:
-- ttrpg-cli/background
-- ttrpg-cli/compendium/src/5e/egw
+  - Kompendium/Hintergrund
+  - Quelle/5e/egw
 aliases:
-- Luxonborn (Acolyte)
+  - Luxonborn (Acolyte)
 ---
 # Luxonborn (Acolyte)
 *Source: Explorer's Guide to Wildemount p. 203*  

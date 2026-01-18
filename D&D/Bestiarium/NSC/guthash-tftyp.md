@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/tftyp
-- new/monster/cr/1-4
-- new/monster/size/medium
-- new/monster/type/beast
+  - Quelle/5e/tftyp
+  - Monster/HG/1-4
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/beast
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Guthash
+  - Guthash
 ---
 # [Guthash](3-Mechanics\CLI\bestiary\npc/guthash-tftyp.md)
 *Source: Tales from the Yawning Portal p. 21*  

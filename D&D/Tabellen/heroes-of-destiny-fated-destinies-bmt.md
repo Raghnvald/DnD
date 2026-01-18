@@ -1,11 +1,11 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- new/compendium/src/5e/bmt
+  - Quelle/5e/bmt
 aliases:
-- Heroes of Destiny; Fated Destinies
+  - Heroes of Destiny; Fated Destinies
 ---
 # Heroes of Destiny; Fated Destinies
 *Source: The Book of Many Things p. 58* 

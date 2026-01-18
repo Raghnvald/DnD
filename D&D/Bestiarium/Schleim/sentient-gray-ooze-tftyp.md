@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/tftyp
-- new/monster/cr/1-2
-- new/monster/size/medium
-- new/monster/type/ooze
+  - Quelle/5e/tftyp
+  - Monster/HG/1-2
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/ooze
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Sentient Gray Ooze
+  - Sentient Gray Ooze
 ---
 # [Sentient Gray Ooze](3-Mechanics\CLI\bestiary\ooze/sentient-gray-ooze-tftyp.md)
 *Source: Tales from the Yawning Portal p. 158*  

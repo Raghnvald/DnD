@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/veor
-- ttrpg-cli/monster/cr/1
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/construct
+  - Quelle/5e/veor
+  - Monster/HG/1
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/construct
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Warforged Warrior
+  - Warforged Warrior
 ---
 # [Warforged Warrior](3-Mechanics\CLI\bestiary\construct/warforged-warrior-veor.md)
 *Source: Vecna: Eve of Ruin p. 238*  

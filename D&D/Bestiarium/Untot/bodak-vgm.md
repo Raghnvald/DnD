@@ -1,19 +1,19 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/vgm
-- new/monster/cr/6
-- new/monster/environment/swamp
-- new/monster/environment/underdark
-- new/monster/environment/urban
-- new/monster/size/medium
-- new/monster/type/undead
+  - Quelle/5e/vgm
+  - Monster/HG/6
+  - Monster/Habitat/swamp
+  - Monster/Habitat/underdark
+  - Monster/Habitat/urban
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/undead
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Bodak
+  - Bodak
 ---
 # [Bodak](3-Mechanics\CLI\bestiary\undead/bodak-vgm.md)
 *Source: Volo's Guide to Monsters p. 127, Tomb of Annihilation*  

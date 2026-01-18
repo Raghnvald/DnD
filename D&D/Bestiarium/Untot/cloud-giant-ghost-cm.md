@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/cm
-- new/monster/cr/9
-- new/monster/size/huge
-- new/monster/type/undead
+  - Quelle/5e/cm
+  - Monster/HG/9
+  - Monster/Größe/Riesig
+  - Monster/Typ/undead
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Cloud Giant Ghost
+  - Cloud Giant Ghost
 ---
 # [Cloud Giant Ghost](3-Mechanics\CLI\bestiary\undead/cloud-giant-ghost-cm.md)
 *Source: Candlekeep Mysteries p. 146*  

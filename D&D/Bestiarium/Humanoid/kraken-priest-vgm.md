@@ -1,18 +1,18 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/vgm
-- new/monster/cr/5
-- new/monster/environment/coastal
-- new/monster/environment/underwater
-- new/monster/size/medium
-- new/monster/type/humanoid/any-race
+  - Quelle/5e/vgm
+  - Monster/HG/5
+  - Monster/Habitat/coastal
+  - Monster/Habitat/underwater
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/humanoid/any-race
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Kraken Priest
+  - Kraken Priest
 ---
 # [Kraken Priest](3-Mechanics\CLI\bestiary\humanoid/kraken-priest-vgm.md)
 *Source: Volo's Guide to Monsters p. 215, Dragon of Icespire Peak, Storm Lord's Wrath*  

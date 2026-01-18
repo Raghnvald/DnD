@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/tdcsr
-- ttrpg-cli/monster/cr/8
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/elemental
+  - Quelle/5e/tdcsr
+  - Monster/HG/8
+  - Monster/Größe/Groß
+  - Monster/Typ/elemental
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Cinderslag Elemental
+  - Cinderslag Elemental
 ---
 # [Cinderslag Elemental](3-Mechanics\CLI\bestiary\elemental/cinderslag-elemental-tdcsr.md)
 *Source: Tal'Dorei Campaign Setting Reborn p. 231*  

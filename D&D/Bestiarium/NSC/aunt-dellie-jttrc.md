@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/jttrc
-- ttrpg-cli/monster/cr/0
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/humanoid/any-race
+  - Quelle/5e/jttrc
+  - Monster/HG/0
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/humanoid/any-race
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Aunt Dellie
+  - Aunt Dellie
 ---
 # [Aunt Dellie](3-Mechanics\CLI\bestiary\npc/aunt-dellie-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 36*  

@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-deity
+  - json5e-deity
 tags:
-- Quelle/5e/phb
-- Kompendium/Götter/eberron
-- Kompendium/Götter/domain/war
-aliases: 
-- The Fury
+  - Quelle/5e/phb
+  - Kompendium/Götter/eberron
+  - Kompendium/Götter/Domäne/war
+aliases:
+  - The Fury
 ---
 # The Fury
 *Source: Player's Handbook p. 296* 

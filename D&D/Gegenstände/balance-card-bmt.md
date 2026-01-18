@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- new/compendium/src/5e/bmt
-- new/item/rarity/legendary
-aliases: 
-- "Balance Card"
+  - Quelle/5e/bmt
+  - Gegenstand/rarity/legendary
+aliases:
+  - Balance Card
 ---
 # Balance Card
 *Wondrous item, legendary*  

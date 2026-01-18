@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/bmt
-- new/monster/cr/11
-- new/monster/size/medium
-- new/monster/type/humanoid/warlock
+  - Quelle/5e/bmt
+  - Monster/HG/11
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/humanoid/warlock
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Hierophant of the Comet
+  - Hierophant of the Comet
 ---
 # [Hierophant of the Comet](3-Mechanics\CLI\bestiary\humanoid/hierophant-of-the-comet-bmt.md)
 *Source: The Book of Many Things p. 92*  

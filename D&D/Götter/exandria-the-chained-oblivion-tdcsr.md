@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-deity
+  - json5e-deity
 tags:
-- ttrpg-cli/compendium/src/5e/tdcsr
-- ttrpg-cli/deity/exandria
-- ttrpg-cli/domain/death
-- ttrpg-cli/domain/grave
-- ttrpg-cli/domain/trickery
-aliases: 
-- The Chained Oblivion
-- Tharizdun
+  - Quelle/5e/tdcsr
+  - Kompendium/Götter/exandria
+  - Kompendium/Götter/Domäne/death
+  - Kompendium/Götter/Domäne/grave
+  - Kompendium/Götter/Domäne/trickery
+aliases:
+  - The Chained Oblivion
+  - Tharizdun
 ---
 # The Chained Oblivion
 *Source: Tal'Dorei Campaign Setting Reborn p. 36* 

@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/bmt
-- new/monster/cr/21
-- new/monster/size/gargantuan
-- new/monster/type/dragon/moonstone
+  - Quelle/5e/bmt
+  - Monster/HG/21
+  - Monster/Größe/Gigantisch
+  - Monster/Typ/dragon/moonstone
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Pazrodine
+  - Pazrodine
 ---
 # [Pazrodine](3-Mechanics\CLI\bestiary\npc/pazrodine-bmt.md)
 *Source: The Book of Many Things p. 113*  

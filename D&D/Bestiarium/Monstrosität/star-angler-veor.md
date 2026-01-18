@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/veor
-- ttrpg-cli/monster/cr/8
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/monstrosity
+  - Quelle/5e/veor
+  - Monster/HG/8
+  - Monster/Größe/Groß
+  - Monster/Typ/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Star Angler
+  - Star Angler
 ---
 # [Star Angler](3-Mechanics\CLI\bestiary\monstrosity/star-angler-veor.md)
 *Source: Vecna: Eve of Ruin p. 237*  

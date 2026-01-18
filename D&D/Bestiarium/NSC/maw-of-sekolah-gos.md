@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/gos
-- ttrpg-cli/monster/cr/7
-- ttrpg-cli/monster/size/huge
-- ttrpg-cli/monster/type/monstrosity
+  - Quelle/5e/gos
+  - Monster/HG/7
+  - Monster/Größe/Riesig
+  - Monster/Typ/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Maw of Sekolah
+  - Maw of Sekolah
 ---
 # [Maw of Sekolah](3-Mechanics\CLI\bestiary\npc/maw-of-sekolah-gos.md)
 *Source: Ghosts of Saltmarsh p. 244*  

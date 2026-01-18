@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/veor
-- ttrpg-cli/monster/cr/17
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/fiend/demon
+  - Quelle/5e/veor
+  - Monster/HG/17
+  - Monster/Größe/Groß
+  - Monster/Typ/fiend/demon
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Quavilithku Spyder-Fiend
+  - Quavilithku Spyder-Fiend
 ---
 # [Quavilithku Spyder-Fiend](3-Mechanics\CLI\bestiary\fiend/quavilithku-spyder-fiend-veor.md)
 *Source: Vecna: Eve of Ruin p. 236*  

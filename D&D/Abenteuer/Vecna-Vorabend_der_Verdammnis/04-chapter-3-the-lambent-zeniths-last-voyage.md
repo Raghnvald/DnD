@@ -1,11 +1,11 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- ttrpg-cli/compendium/src/5e/veor
+  - Quelle/5e/veor
 aliases:
-- Chapter 3: The Lambent Zenith's Last Voyage
+  - Chapter 3: The Lambent Zenith's Last Voyage
 ---
 # Chapter 3: The Lambent Zenith's Last Voyage
 *Source: Vecna: Eve of Ruin* 

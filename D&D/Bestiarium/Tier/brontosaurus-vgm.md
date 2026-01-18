@@ -1,18 +1,18 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/vgm
-- new/monster/cr/5
-- new/monster/environment/forest
-- new/monster/environment/grassland
-- new/monster/size/gargantuan
-- new/monster/type/beast
+  - Quelle/5e/vgm
+  - Monster/HG/5
+  - Monster/Habitat/forest
+  - Monster/Habitat/grassland
+  - Monster/Größe/Gigantisch
+  - Monster/Typ/beast
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Brontosaurus
+  - Brontosaurus
 ---
 # [Brontosaurus](3-Mechanics\CLI\bestiary\beast/brontosaurus-vgm.md)
 *Source: Volo's Guide to Monsters p. 139, Tomb of Annihilation*  

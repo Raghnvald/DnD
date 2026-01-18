@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/dosi
-- new/monster/cr/1
-- new/monster/size/large
-- new/monster/type/plant
+  - Quelle/5e/dosi
+  - Monster/HG/1
+  - Monster/Größe/Groß
+  - Monster/Typ/plant
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Spore Servant Octopus
+  - Spore Servant Octopus
 ---
 # [Spore Servant Octopus](3-Mechanics\CLI\bestiary\plant/spore-servant-octopus-dosi.md)
 *Source: Dragons of Stormwreck Isle p. 46*  

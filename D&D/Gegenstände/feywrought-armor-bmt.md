@@ -1,30 +1,30 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- new/compendium/src/5e/bmt
-- new/item/armor/heavy
-- new/item/armor/light
-- new/item/armor/medium
-- new/item/attunement/required
-- new/item/rarity/rare
-- new/item/wondrous/generic-variant
-aliases: 
-- "Feywrought Armor"
-- "Feywrought Breastplate"
-- "Feywrought Chain Mail"
-- "Feywrought Chain Shirt"
-- "Feywrought Half Plate Armor"
-- "Feywrought Hide Armor"
-- "Feywrought Leather Armor"
-- "Feywrought Padded Armor"
-- "Feywrought Plate Armor"
-- "Feywrought Ring Mail"
-- "Feywrought Scale Mail"
-- "Feywrought Spiked Armor"
-- "Feywrought Splint Armor"
-- "Feywrought Studded Leather Armor"
+  - Quelle/5e/bmt
+  - Gegenstand/armor/heavy
+  - Gegenstand/armor/light
+  - Gegenstand/armor/medium
+  - Gegenstand/attunement/required
+  - Gegenstand/rarity/rare
+  - Gegenstand/wondrous/generic-variant
+aliases:
+  - Feywrought Armor
+  - Feywrought Breastplate
+  - Feywrought Chain Mail
+  - Feywrought Chain Shirt
+  - Feywrought Half Plate Armor
+  - Feywrought Hide Armor
+  - Feywrought Leather Armor
+  - Feywrought Padded Armor
+  - Feywrought Plate Armor
+  - Feywrought Ring Mail
+  - Feywrought Scale Mail
+  - Feywrought Spiked Armor
+  - Feywrought Splint Armor
+  - Feywrought Studded Leather Armor
 ---
 # Feywrought Armor
 *Rare (requires attunement)*  

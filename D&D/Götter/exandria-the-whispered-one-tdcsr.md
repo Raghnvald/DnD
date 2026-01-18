@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-deity
+  - json5e-deity
 tags:
-- ttrpg-cli/compendium/src/5e/tdcsr
-- ttrpg-cli/deity/exandria
-- ttrpg-cli/domain/arcana
-- ttrpg-cli/domain/death
-- ttrpg-cli/domain/knowledge
-aliases: 
-- The Whispered One
-- Vecna
+  - Quelle/5e/tdcsr
+  - Kompendium/Götter/exandria
+  - Kompendium/Götter/Domäne/arcana
+  - Kompendium/Götter/Domäne/death
+  - Kompendium/Götter/Domäne/knowledge
+aliases:
+  - The Whispered One
+  - Vecna
 ---
 # The Whispered One
 *Source: Tal'Dorei Campaign Setting Reborn p. 38* 

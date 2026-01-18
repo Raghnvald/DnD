@@ -1,11 +1,11 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- new/compendium/src/5e/erlw
+  - Quelle/5e/erlw
 aliases:
-- Magical Effects; Environmental Effects
+  - Magical Effects; Environmental Effects
 ---
 # Magical Effects; Environmental Effects
 *Source: Eberron: Rising from the Last War p. 220* 

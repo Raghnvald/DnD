@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/toa
-- new/monster/cr/9
-- new/monster/size/medium
-- new/monster/type/humanoid/any-race
+  - Quelle/5e/toa
+  - Monster/HG/9
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/humanoid/any-race
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Sekelok
+  - Sekelok
 ---
 # [Sekelok](3-Mechanics\CLI\bestiary\npc/sekelok-toa.md)
 *Source: Tomb of Annihilation p. 120*  

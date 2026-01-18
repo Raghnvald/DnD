@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-race
+  - json5e-race
 tags:
-- new/compendium/src/5e/erlw
-- new/race/goblin
+  - Quelle/5e/erlw
+  - Rasse/goblin
 aliases:
-- Goblin
+  - Goblin
 ---
 # Goblin
 *Source: Eberron: Rising from the Last War p. 26*  

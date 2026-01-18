@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/toa
-- new/monster/cr/5
-- new/monster/size/medium
-- new/monster/type/humanoid/human
+  - Quelle/5e/toa
+  - Monster/HG/5
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/humanoid/human
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Ekene-Afa
+  - Ekene-Afa
 ---
 # [Ekene-Afa](3-Mechanics\CLI\bestiary\npc/ekene-afa-toa.md)
 *Source: Tomb of Annihilation p. 25*  

@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/egw
-- ttrpg-cli/monster/cr/1
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/construct
+  - Quelle/5e/egw
+  - Monster/HG/1
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/construct
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Damaged Flesh Golem
+  - Damaged Flesh Golem
 ---
 # [Damaged Flesh Golem](3-Mechanics\CLI\bestiary\construct/damaged-flesh-golem-egw.md)
 *Source: Explorer's Guide to Wildemount p. 248*  

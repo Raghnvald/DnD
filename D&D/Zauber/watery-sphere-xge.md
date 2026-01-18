@@ -1,26 +1,26 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-spell
+  - json5e-spell
 tags:
-- ttrpg-cli/compendium/src/5e/xge
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/druid
-- ttrpg-cli/spell/class/sorcerer
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/level/4th-level
-- ttrpg-cli/spell/school/conjuration
-- ttrpg-cli/spell/subclass/arcane-trickster
-- ttrpg-cli/spell/subclass/eldritch-knight
+  - Quelle/5e/xge
+  - Klasse/bard
+  - Klasse/druid
+  - Klasse/sorcerer
+  - Klasse/wizard
+  - Zauber/Grad/4
+  - Zauber/Schule/conjuration
+  - Subklasse/arcane-trickster
+  - Subklasse/eldritch-knight
 classes:
-- Bard
-- Druid
-- Fighter (Eldritch Knight)
-- Rogue (Arcane Trickster)
-- Sorcerer
-- Wizard
+  - Bard
+  - Druid
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Wizard
 aliases:
-- Watery Sphere
+  - Watery Sphere
 ---
 # Watery Sphere
 *4th-level, Conjuration*  

@@ -1,17 +1,17 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/tdcsr
-- ttrpg-cli/monster/cr/10
-- ttrpg-cli/monster/environment/mountain
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/giant
+  - Quelle/5e/tdcsr
+  - Monster/HG/10
+  - Monster/Habitat/mountain
+  - Monster/Größe/Groß
+  - Monster/Typ/giant
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Cyclops Stormcaller
+  - Cyclops Stormcaller
 ---
 # [Cyclops Stormcaller](3-Mechanics\CLI\bestiary\giant/cyclops-stormcaller-tdcsr.md)
 *Source: Tal'Dorei Campaign Setting Reborn p. 235*  

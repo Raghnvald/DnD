@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/veor
-- ttrpg-cli/item/rarity/very-rare
-aliases: 
-- "Chime of Exile"
+  - Quelle/5e/veor
+  - Gegenstand/rarity/very-rare
+aliases:
+  - Chime of Exile
 ---
 # Chime of Exile
 *Wondrous item, very rare*  

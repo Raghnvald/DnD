@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/egw
-- ttrpg-cli/monster/cr/13
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/aberration
+  - Quelle/5e/egw
+  - Monster/HG/13
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/aberration
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Core Spawn Seer
+  - Core Spawn Seer
 ---
 # [Core Spawn Seer](3-Mechanics\CLI\bestiary\aberration/core-spawn-seer-egw.md)
 *Source: Explorer's Guide to Wildemount p. 286*  

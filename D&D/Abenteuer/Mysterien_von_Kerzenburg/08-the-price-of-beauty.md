@@ -1,11 +1,11 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- new/compendium/src/5e/cm
+  - Quelle/5e/cm
 aliases:
-- The Price of Beauty
+  - The Price of Beauty
 ---
 # The Price of Beauty
 *Source: Candlekeep Mysteries, p. 75* 

@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/background/orzhov-representative
+- Zauber/list/background/orzhov-representative
 aliases:
 - Spells for Orzhov Representative
 ---

@@ -1,14 +1,14 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-deity
+  - json5e-deity
 tags:
-- Quelle/5e/phb
-- Kompendium/Götter/greek
-- Kompendium/Götter/domain/death
-- Kompendium/Götter/domain/grave
-aliases: 
-- Hades
+  - Quelle/5e/phb
+  - Kompendium/Götter/greek
+  - Kompendium/Götter/Domäne/death
+  - Kompendium/Götter/Domäne/grave
+aliases:
+  - Hades
 ---
 # Hades
 *Source: Player's Handbook p. 298, Xanathar's Guide to Everything p. 19. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>* 

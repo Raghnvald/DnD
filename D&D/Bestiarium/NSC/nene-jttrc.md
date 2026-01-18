@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/jttrc
-- ttrpg-cli/monster/cr/0
-- ttrpg-cli/monster/size/tiny
-- ttrpg-cli/monster/type/fey
+  - Quelle/5e/jttrc
+  - Monster/HG/0
+  - Monster/Größe/Winzig
+  - Monster/Typ/fey
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Nene
+  - Nene
 ---
 # [Nene](3-Mechanics\CLI\bestiary\npc/nene-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 205*  

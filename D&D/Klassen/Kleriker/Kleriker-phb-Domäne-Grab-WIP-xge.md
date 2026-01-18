@@ -3,7 +3,7 @@ cssclasses:
   - json5e-class
 tags:
   - Quelle/5e/xge
-  - Kompendium/Götter/domain/grave
+  - Kompendium/Götter/Domäne/grave
   - Klasse/Kleriker/grave
 aliases:
   - Grave Domain

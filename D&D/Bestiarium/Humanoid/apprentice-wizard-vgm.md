@@ -1,17 +1,17 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/vgm
-- new/monster/cr/1-4
-- new/monster/environment/urban
-- new/monster/size/medium
-- new/monster/type/humanoid/any-race
+  - Quelle/5e/vgm
+  - Monster/HG/1-4
+  - Monster/Habitat/urban
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/humanoid/any-race
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Apprentice Wizard
+  - Apprentice Wizard
 ---
 # [Apprentice Wizard](3-Mechanics\CLI\bestiary\humanoid/apprentice-wizard-vgm.md)
 *Source: Volo's Guide to Monsters p. 209, Tomb of Annihilation, Dragon of Icespire Peak, Storm Lord's Wrath, Eberron: Rising from the Last War*  

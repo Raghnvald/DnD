@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/tftyp
-- new/monster/cr/3
-- new/monster/size/medium
-- new/monster/type/fey
+  - Quelle/5e/tftyp
+  - Monster/HG/3
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/fey
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Siren
+  - Siren
 ---
 # [Siren](3-Mechanics\CLI\bestiary\npc/siren-tftyp.md)
 *Source: Tales from the Yawning Portal p. 243*  

@@ -1,11 +1,11 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- new/compendium/src/5e/idrotf
+  - Quelle/5e/idrotf
 aliases:
-- Appendix B: Character Secrets
+  - Appendix B: Character Secrets
 ---
 # Appendix B: Character Secrets
 *Source: Icewind Dale: Rime of the Frostmaiden, p. 264* 

@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/cm
-- new/monster/cr/1-4
-- new/monster/size/small
-- new/monster/type/construct
+  - Quelle/5e/cm
+  - Monster/HG/1-4
+  - Monster/Größe/Klein
+  - Monster/Typ/construct
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Animated Broom
+  - Animated Broom
 ---
 # [Animated Broom](3-Mechanics\CLI\bestiary\construct/animated-broom-cm.md)
 *Source: Candlekeep Mysteries p. 20*  

@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/egw
-- ttrpg-cli/monster/cr/7
-- ttrpg-cli/monster/size/huge
-- ttrpg-cli/monster/type/monstrosity
+  - Quelle/5e/egw
+  - Monster/HG/7
+  - Monster/Größe/Riesig
+  - Monster/Typ/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Swavain Basilisk
+  - Swavain Basilisk
 ---
 # [Swavain Basilisk](3-Mechanics\CLI\bestiary\monstrosity/swavain-basilisk-egw.md)
 *Source: Explorer's Guide to Wildemount p. 300*  

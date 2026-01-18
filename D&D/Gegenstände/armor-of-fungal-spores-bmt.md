@@ -1,20 +1,20 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- new/compendium/src/5e/bmt
-- new/item/armor/medium
-- new/item/rarity/uncommon
-- new/item/wondrous/generic-variant
-aliases: 
-- "Armor of Fungal Spores"
-- "Breastplate of Fungal Spores"
-- "Chain Shirt of Fungal Spores"
-- "Half Plate Armor of Fungal Spores"
-- "Hide Armor of Fungal Spores"
-- "Scale Mail of Fungal Spores"
-- "Spiked Armor of Fungal Spores"
+  - Quelle/5e/bmt
+  - Gegenstand/armor/medium
+  - Gegenstand/rarity/uncommon
+  - Gegenstand/wondrous/generic-variant
+aliases:
+  - Armor of Fungal Spores
+  - Breastplate of Fungal Spores
+  - Chain Shirt of Fungal Spores
+  - Half Plate Armor of Fungal Spores
+  - Hide Armor of Fungal Spores
+  - Scale Mail of Fungal Spores
+  - Spiked Armor of Fungal Spores
 ---
 # Armor of Fungal Spores
 *Uncommon*  

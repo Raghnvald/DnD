@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- ttrpg-cli/compendium/src/5e/fs
+  - Quelle/5e/fs
 aliases:
-- Frozen Sick
+  - Frozen Sick
 ---
 # Frozen Sick
 *Source: Wildemount: Frozen Sick, p. 235* 

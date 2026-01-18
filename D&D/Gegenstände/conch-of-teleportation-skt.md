@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- new/compendium/src/5e/skt
-- new/item/attunement/required
-- new/item/rarity/very-rare
-aliases: 
-- "Conch of Teleportation"
+  - Quelle/5e/skt
+  - Gegenstand/attunement/required
+  - Gegenstand/rarity/very-rare
+aliases:
+  - Conch of Teleportation
 ---
 # Conch of Teleportation
 *Wondrous item, very rare (requires attunement)*  

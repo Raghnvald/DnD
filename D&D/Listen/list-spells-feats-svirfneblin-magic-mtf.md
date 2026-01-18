@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/feat/svirfneblin-magic
+- Zauber/list/feat/svirfneblin-magic
 aliases:
 - Spells for Svirfneblin Magic
 ---

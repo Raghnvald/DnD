@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/wdh
-- ttrpg-cli/monster/cr/1-4
-- ttrpg-cli/monster/size/small
-- ttrpg-cli/monster/type/construct
+  - Quelle/5e/wdh
+  - Monster/HG/1-4
+  - Monster/Größe/Klein
+  - Monster/Typ/construct
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Flying Staff
+  - Flying Staff
 ---
 # [Flying Staff](3-Mechanics\CLI\bestiary\construct/flying-staff-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 152*  

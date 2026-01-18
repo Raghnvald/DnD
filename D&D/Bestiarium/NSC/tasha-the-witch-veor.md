@@ -1,17 +1,17 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/veor
-- ttrpg-cli/monster/cr/19
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/humanoid/human
-- ttrpg-cli/monster/type/humanoid/wizard
+  - Quelle/5e/veor
+  - Monster/HG/19
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/humanoid/human
+  - Monster/Typ/humanoid/wizard
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Tasha the Witch
+  - Tasha the Witch
 ---
 # [Tasha the Witch](3-Mechanics\CLI\bestiary\npc/tasha-the-witch-veor.md)
 *Source: Vecna: Eve of Ruin p. 252*  

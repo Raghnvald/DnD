@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/skt
-- new/monster/cr/
-- new/monster/size/medium
-- new/monster/type/humanoid/chondathan-human
+  - Quelle/5e/skt
+  - Monster/HG/
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/humanoid/chondathan-human
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Sirac of Suzail
+  - Sirac of Suzail
 ---
 # [Sirac of Suzail](3-Mechanics\CLI\bestiary\npc/sirac-of-suzail-skt.md)
 *Source: Storm King's Thunder p. 247*  

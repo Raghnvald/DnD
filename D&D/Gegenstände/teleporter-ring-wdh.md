@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/wdh
-- ttrpg-cli/item/rarity/unknown/magic
-- ttrpg-cli/item/wondrous/ring
-aliases: 
-- "Teleporter Ring"
+  - Quelle/5e/wdh
+  - Gegenstand/rarity/unknown/magic
+  - Gegenstand/wondrous/ring
+aliases:
+  - Teleporter Ring
 ---
 # Teleporter Ring
 *Ring*  

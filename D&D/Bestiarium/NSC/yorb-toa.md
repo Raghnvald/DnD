@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/toa
-- new/monster/cr/2
-- new/monster/size/small
-- new/monster/type/humanoid/grung
+  - Quelle/5e/toa
+  - Monster/HG/2
+  - Monster/Größe/Klein
+  - Monster/Typ/humanoid/grung
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Yorb
+  - Yorb
 ---
 # [Yorb](3-Mechanics\CLI\bestiary\npc/yorb-toa.md)
 *Source: Tomb of Annihilation p. 108*  

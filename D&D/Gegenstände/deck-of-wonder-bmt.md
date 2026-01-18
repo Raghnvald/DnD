@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- new/compendium/src/5e/bmt
-- new/item/rarity/uncommon
-aliases: 
-- "Deck of Wonder"
+  - Quelle/5e/bmt
+  - Gegenstand/rarity/uncommon
+aliases:
+  - Deck of Wonder
 ---
 # Deck of Wonder
 *Wondrous item, uncommon*  

@@ -1,17 +1,17 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/vgm
-- new/monster/cr/4
-- new/monster/environment/forest
-- new/monster/size/large
-- new/monster/type/monstrosity
+  - Quelle/5e/vgm
+  - Monster/HG/4
+  - Monster/Habitat/forest
+  - Monster/Größe/Groß
+  - Monster/Typ/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Girallon
+  - Girallon
 ---
 # [Girallon](3-Mechanics\CLI\bestiary\monstrosity/girallon-vgm.md)
 *Source: Volo's Guide to Monsters p. 152, Tomb of Annihilation*  

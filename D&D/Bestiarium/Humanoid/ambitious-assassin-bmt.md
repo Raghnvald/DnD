@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/bmt
-- new/monster/cr/5
-- new/monster/size/small-or-medium
-- new/monster/type/humanoid
+  - Quelle/5e/bmt
+  - Monster/HG/5
+  - Monster/Größe/Klein-oder-Mittelgroß
+  - Monster/Typ/humanoid
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Ambitious Assassin
+  - Ambitious Assassin
 ---
 # [Ambitious Assassin](3-Mechanics\CLI\bestiary\humanoid/ambitious-assassin-bmt.md)
 *Source: The Book of Many Things p. 45*  

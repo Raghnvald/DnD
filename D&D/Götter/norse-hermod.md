@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-deity
+  - json5e-deity
 tags:
-- Quelle/5e/phb
-- Kompendium/Götter/norse
-- Kompendium/Götter/domain/trickery
-aliases: 
-- Hermod
+  - Quelle/5e/phb
+  - Kompendium/Götter/norse
+  - Kompendium/Götter/Domäne/trickery
+aliases:
+  - Hermod
 ---
 # Hermod
 *Source: Player's Handbook p. 299* 

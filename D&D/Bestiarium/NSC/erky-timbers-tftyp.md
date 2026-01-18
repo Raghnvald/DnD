@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/tftyp
-- new/monster/cr/1-4
-- new/monster/size/medium
-- new/monster/type/humanoid/gnome
+  - Quelle/5e/tftyp
+  - Monster/HG/1-4
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/humanoid/gnome
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Erky Timbers
+  - Erky Timbers
 ---
 # [Erky Timbers](3-Mechanics\CLI\bestiary\npc/erky-timbers-tftyp.md)
 *Source: Tales from the Yawning Portal p. 22*  

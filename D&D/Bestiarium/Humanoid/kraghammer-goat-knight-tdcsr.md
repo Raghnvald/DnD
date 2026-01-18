@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/tdcsr
-- ttrpg-cli/monster/cr/3
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/humanoid/dwarf
+  - Quelle/5e/tdcsr
+  - Monster/HG/3
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/humanoid/dwarf
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Kraghammer Goat-Knight
+  - Kraghammer Goat-Knight
 ---
 # [Kraghammer Goat-Knight](3-Mechanics\CLI\bestiary\humanoid/kraghammer-goat-knight-tdcsr.md)
 *Source: Tal'Dorei Campaign Setting Reborn p. 246*  

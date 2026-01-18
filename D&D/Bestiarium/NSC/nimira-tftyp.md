@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/tftyp
-- new/monster/cr/3
-- new/monster/size/medium
-- new/monster/type/humanoid/dwarf
+  - Quelle/5e/tftyp
+  - Monster/HG/3
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/humanoid/dwarf
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Nimira
+  - Nimira
 ---
 # [Nimira](3-Mechanics\CLI\bestiary\npc/nimira-tftyp.md)
 *Source: Tales from the Yawning Portal p. 54*  

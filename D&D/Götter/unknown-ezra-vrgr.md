@@ -4,7 +4,7 @@ cssclasses:
 tags:
   - Quelle/5e/vrgr
   - Kompendium/Götter/unknown
-  - Kompendium/Götter/domain/unknown
+  - Kompendium/Götter/Domäne/unknown
 aliases:
   - Ezra
 ---

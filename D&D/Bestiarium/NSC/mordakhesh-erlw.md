@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/erlw
-- new/monster/cr/15
-- new/monster/size/medium
-- new/monster/type/fiend
+  - Quelle/5e/erlw
+  - Monster/HG/15
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/fiend
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Mordakhesh
+  - Mordakhesh
 ---
 # [Mordakhesh](3-Mechanics\CLI\bestiary\npc/mordakhesh-erlw.md)
 *Source: Eberron: Rising from the Last War p. 301*  

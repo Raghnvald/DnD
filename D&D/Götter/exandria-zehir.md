@@ -1,14 +1,14 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-deity
+  - json5e-deity
 tags:
-- ttrpg-cli/compendium/src/5e/egw
-- ttrpg-cli/deity/exandria
-- ttrpg-cli/domain/nature
-- ttrpg-cli/domain/trickery
-aliases: 
-- Zehir
+  - Quelle/5e/egw
+  - Kompendium/Götter/exandria
+  - Kompendium/Götter/Domäne/nature
+  - Kompendium/Götter/Domäne/trickery
+aliases:
+  - Zehir
 ---
 # Zehir
 *Source: Explorer's Guide to Wildemount p. 29* 

@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/tdcsr
-- ttrpg-cli/monster/cr/5
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/beast/brown-bear
+  - Quelle/5e/tdcsr
+  - Monster/HG/5
+  - Monster/Größe/Groß
+  - Monster/Typ/beast/brown-bear
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Trinket
+  - Trinket
 ---
 # [Trinket](3-Mechanics\CLI\bestiary\npc/trinket-tdcsr.md)
 *Source: Tal'Dorei Campaign Setting Reborn p. 266*  

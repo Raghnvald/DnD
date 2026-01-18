@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/idrotf
-- new/monster/cr/1-8
-- new/monster/size/medium
-- new/monster/type/humanoid/any-race
+  - Quelle/5e/idrotf
+  - Monster/HG/1-8
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/humanoid/any-race
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Reghed Warrior
+  - Reghed Warrior
 ---
 # [Reghed Warrior](3-Mechanics\CLI\bestiary\humanoid/reghed-warrior-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 152*  

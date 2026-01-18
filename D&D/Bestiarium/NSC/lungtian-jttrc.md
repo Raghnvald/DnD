@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/jttrc
-- ttrpg-cli/monster/cr/1
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/fey
+  - Quelle/5e/jttrc
+  - Monster/HG/1
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/fey
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Lungtian
+  - Lungtian
 ---
 # [Lungtian](3-Mechanics\CLI\bestiary\npc/lungtian-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 136*  

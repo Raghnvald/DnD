@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/bgg
-- ttrpg-cli/monster/cr/21
-- ttrpg-cli/monster/size/gargantuan
-- ttrpg-cli/monster/type/construct
+  - Quelle/5e/bgg
+  - Monster/HG/21
+  - Monster/Größe/Gigantisch
+  - Monster/Typ/construct
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Runic Colossus
+  - Runic Colossus
 ---
 # [Runic Colossus](3-Mechanics\CLI\bestiary\construct/runic-colossus-bgg.md)
 *Source: Bigby Presents: Glory of the Giants p. 163*  

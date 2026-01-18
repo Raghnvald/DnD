@@ -1,15 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- new/compendium/src/5e/skt
-- new/item/attunement/optional
-- new/item/rarity/unknown/magic
-- new/item/weapon/melee
-- new/item/weapon/simple
-aliases: 
-- "Dragon Thighbone Club"
+  - Quelle/5e/skt
+  - Gegenstand/attunement/optional
+  - Gegenstand/rarity/unknown/magic
+  - Gegenstand/weapon/melee
+  - Gegenstand/weapon/simple
+aliases:
+  - Dragon Thighbone Club
 ---
 # Dragon Thighbone Club
 *Weapon (greatclub) (attunement optional)*  

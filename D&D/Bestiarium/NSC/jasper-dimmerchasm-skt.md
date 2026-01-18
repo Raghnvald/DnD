@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/skt
-- new/monster/cr/3
-- new/monster/size/medium
-- new/monster/type/humanoid/any-race
+  - Quelle/5e/skt
+  - Monster/HG/3
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/humanoid/any-race
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Jasper Dimmerchasm
+  - Jasper Dimmerchasm
 ---
 # [Jasper Dimmerchasm](3-Mechanics\CLI\bestiary\npc/jasper-dimmerchasm-skt.md)
 *Source: Storm King's Thunder p. 184*  

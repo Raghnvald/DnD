@@ -1,18 +1,18 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/tdcsr
-- ttrpg-cli/monster/cr/14
-- ttrpg-cli/monster/environment/forest
-- ttrpg-cli/monster/environment/mountain
-- ttrpg-cli/monster/size/huge
-- ttrpg-cli/monster/type/plant
+  - Quelle/5e/tdcsr
+  - Monster/HG/14
+  - Monster/Habitat/forest
+  - Monster/Habitat/mountain
+  - Monster/Größe/Riesig
+  - Monster/Typ/plant
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Wraithroot Tree
+  - Wraithroot Tree
 ---
 # [Wraithroot Tree](3-Mechanics\CLI\bestiary\plant/wraithroot-tree-tdcsr.md)
 *Source: Tal'Dorei Campaign Setting Reborn p. 259*  

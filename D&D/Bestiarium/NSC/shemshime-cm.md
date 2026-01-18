@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/cm
-- new/monster/cr/4
-- new/monster/size/medium
-- new/monster/type/undead
+  - Quelle/5e/cm
+  - Monster/HG/4
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/undead
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Shemshime
+  - Shemshime
 ---
 # [Shemshime](3-Mechanics\CLI\bestiary\npc/shemshime-cm.md)
 *Source: Candlekeep Mysteries p. 69*  

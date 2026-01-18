@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/veor
-- ttrpg-cli/monster/cr/11
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/construct/warforged
+  - Quelle/5e/veor
+  - Monster/HG/11
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/construct/warforged
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Glaive
+  - Glaive
 ---
 # [Glaive](3-Mechanics\CLI\bestiary\npc/glaive-veor.md)
 *Source: Vecna: Eve of Ruin p. 81*  

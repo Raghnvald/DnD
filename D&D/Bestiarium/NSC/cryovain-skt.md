@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/skt
-- new/monster/cr/13
-- new/monster/size/huge
-- new/monster/type/dragon
+  - Quelle/5e/skt
+  - Monster/HG/13
+  - Monster/Größe/Riesig
+  - Monster/Typ/dragon
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Cryovain
+  - Cryovain
 ---
 # [Cryovain](3-Mechanics\CLI\bestiary\npc/cryovain-skt.md)
 *Source: Storm King's Thunder p. 165*  

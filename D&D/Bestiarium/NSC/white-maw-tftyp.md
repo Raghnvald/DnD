@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/tftyp
-- new/monster/cr/10
-- new/monster/size/gargantuan
-- new/monster/type/ooze
+  - Quelle/5e/tftyp
+  - Monster/HG/10
+  - Monster/Größe/Gigantisch
+  - Monster/Typ/ooze
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- White Maw
+  - White Maw
 ---
 # [White Maw](3-Mechanics\CLI\bestiary\npc/white-maw-tftyp.md)
 *Source: Tales from the Yawning Portal p. 248*  

@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-deity
+  - json5e-deity
 tags:
-- Quelle/5e/phb
-- Kompendium/Götter/forgotten-realms
-- Kompendium/Götter/domain/war
-aliases: 
-- Torm
+  - Quelle/5e/phb
+  - Kompendium/Götter/forgotten-realms
+  - Kompendium/Götter/Domäne/war
+aliases:
+  - Torm
 ---
 # Torm
 *Source: Player's Handbook p. 294. Available in the Basic Rules (2014)* 

@@ -1,11 +1,11 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- ttrpg-cli/compendium/src/5e/egw
+  - Quelle/5e/egw
 aliases:
-- Eiselcross Encounters: Levels 17–20
+  - Eiselcross Encounters: Levels 17–20
 ---
 # Eiselcross Encounters: Levels 17–20
 *Source: Explorer's Guide to Wildemount p. 122* 

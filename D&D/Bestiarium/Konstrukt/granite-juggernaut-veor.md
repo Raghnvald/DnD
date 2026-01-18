@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/veor
-- ttrpg-cli/monster/cr/12
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/construct
+  - Quelle/5e/veor
+  - Monster/HG/12
+  - Monster/Größe/Groß
+  - Monster/Typ/construct
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Granite Juggernaut
+  - Granite Juggernaut
 ---
 # [Granite Juggernaut](3-Mechanics\CLI\bestiary\construct/granite-juggernaut-veor.md)
 *Source: Vecna: Eve of Ruin p. 221*  

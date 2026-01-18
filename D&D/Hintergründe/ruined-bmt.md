@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-background
+  - json5e-background
 tags:
-- new/background
-- new/compendium/src/5e/bmt
+  - Kompendium/Hintergrund
+  - Quelle/5e/bmt
 aliases:
-- Ruined
+  - Ruined
 ---
 # Ruined
 *Source: The Book of Many Things p. 58*  

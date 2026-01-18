@@ -1,11 +1,11 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- ttrpg-cli/compendium/src/5e/wdmm
+  - Quelle/5e/wdmm
 aliases:
-- Level 19: Caverns of Ooze
+  - Level 19: Caverns of Ooze
 ---
 # Level 19: Caverns of Ooze
 *Source: Waterdeep: Dungeon of the Mad Mage, p. 243* 

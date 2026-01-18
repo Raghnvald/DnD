@@ -1,15 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- new/compendium/src/5e/skt
-- new/item/attunement/required
-- new/item/rarity/legendary
-- new/item/weapon/melee
-- new/item/weapon/simple
-aliases: 
-- "Korolnor Scepter"
+  - Quelle/5e/skt
+  - Gegenstand/attunement/required
+  - Gegenstand/rarity/legendary
+  - Gegenstand/weapon/melee
+  - Gegenstand/weapon/simple
+aliases:
+  - Korolnor Scepter
 ---
 # Korolnor Scepter
 *Weapon (club), legendary (requires attunement)*  

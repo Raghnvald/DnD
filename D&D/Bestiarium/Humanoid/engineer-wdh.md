@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/wdh
-- ttrpg-cli/monster/cr/1-4
-- ttrpg-cli/monster/size/small
-- ttrpg-cli/monster/type/humanoid/rock-gnome
+  - Quelle/5e/wdh
+  - Monster/HG/1-4
+  - Monster/Größe/Klein
+  - Monster/Typ/humanoid/rock-gnome
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Engineer
+  - Engineer
 ---
 # [Engineer](3-Mechanics\CLI\bestiary\humanoid/engineer-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 141*  

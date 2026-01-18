@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-reward
+  - json5e-reward
 tags:
-- Quelle/5e/dmg
-- Kompendium/reward/charm
+  - Quelle/5e/dmg
+  - Kompendium/Belohnung/charm
 aliases:
-- Charm of Heroism
+  - Charm of Heroism
 ---
 # Charm of Heroism
 

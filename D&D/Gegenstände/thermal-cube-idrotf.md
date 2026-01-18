@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- new/compendium/src/5e/idrotf
-- new/item/rarity/common
-aliases: 
-- "Thermal Cube"
+  - Quelle/5e/idrotf
+  - Gegenstand/rarity/common
+aliases:
+  - Thermal Cube
 ---
 # Thermal Cube
 *Wondrous item, common*  

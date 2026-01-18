@@ -3,7 +3,7 @@ cssclasses:
   - json5e-feat
 tags:
   - Quelle/5e/xphb
-  - Kompendium/optional-feature/mm
+  - Kompendium/Optionales/mm
 aliases:
   - Extended Spell
 ---

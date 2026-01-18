@@ -1,71 +1,71 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/egw
-- ttrpg-cli/item/age/futuristic
-- ttrpg-cli/item/age/modern
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/rare
-- ttrpg-cli/item/weapon/martial
-- ttrpg-cli/item/weapon/melee
-- ttrpg-cli/item/weapon/ranged
-- ttrpg-cli/item/weapon/simple
-- ttrpg-cli/item/wondrous/generic-variant
-aliases: 
-- "Corpse Slayer"
-- "Corpse Slayer Antimatter Rifle"
-- "Corpse Slayer Automatic Rifle"
-- "Corpse Slayer Battleaxe"
-- "Corpse Slayer Blowgun"
-- "Corpse Slayer Club"
-- "Corpse Slayer Dagger"
-- "Corpse Slayer Dart"
-- "Corpse Slayer Double-Bladed Scimitar"
-- "Corpse Slayer Flail"
-- "Corpse Slayer Glaive"
-- "Corpse Slayer Greataxe"
-- "Corpse Slayer Greatclub"
-- "Corpse Slayer Greatsword"
-- "Corpse Slayer Halberd"
-- "Corpse Slayer Hand Crossbow"
-- "Corpse Slayer Handaxe"
-- "Corpse Slayer Heavy Crossbow"
-- "Corpse Slayer Hooked Shortspear"
-- "Corpse Slayer Hoopak"
-- "Corpse Slayer Hunting Rifle"
-- "Corpse Slayer Javelin"
-- "Corpse Slayer Lance"
-- "Corpse Slayer Laser Pistol"
-- "Corpse Slayer Laser Rifle"
-- "Corpse Slayer Light Crossbow"
-- "Corpse Slayer Light Hammer"
-- "Corpse Slayer Light Repeating Crossbow"
-- "Corpse Slayer Longbow"
-- "Corpse Slayer Longsword"
-- "Corpse Slayer Mace"
-- "Corpse Slayer Maul"
-- "Corpse Slayer Morningstar"
-- "Corpse Slayer Musket"
-- "Corpse Slayer Pike"
-- "Corpse Slayer Pistol"
-- "Corpse Slayer Quarterstaff"
-- "Corpse Slayer Rapier"
-- "Corpse Slayer Revolver"
-- "Corpse Slayer Scimitar"
-- "Corpse Slayer Semiautomatic Pistol"
-- "Corpse Slayer Shortbow"
-- "Corpse Slayer Shortsword"
-- "Corpse Slayer Shotgun"
-- "Corpse Slayer Sickle"
-- "Corpse Slayer Sling"
-- "Corpse Slayer Spear"
-- "Corpse Slayer Trident"
-- "Corpse Slayer War Pick"
-- "Corpse Slayer Warhammer"
-- "Corpse Slayer Whip"
-- "Corpse Slayer Yklwa"
+  - Quelle/5e/egw
+  - Gegenstand/age/futuristic
+  - Gegenstand/age/modern
+  - Gegenstand/attunement/required
+  - Gegenstand/rarity/rare
+  - Gegenstand/weapon/martial
+  - Gegenstand/weapon/melee
+  - Gegenstand/weapon/ranged
+  - Gegenstand/weapon/simple
+  - Gegenstand/wondrous/generic-variant
+aliases:
+  - Corpse Slayer
+  - Corpse Slayer Antimatter Rifle
+  - Corpse Slayer Automatic Rifle
+  - Corpse Slayer Battleaxe
+  - Corpse Slayer Blowgun
+  - Corpse Slayer Club
+  - Corpse Slayer Dagger
+  - Corpse Slayer Dart
+  - Corpse Slayer Double-Bladed Scimitar
+  - Corpse Slayer Flail
+  - Corpse Slayer Glaive
+  - Corpse Slayer Greataxe
+  - Corpse Slayer Greatclub
+  - Corpse Slayer Greatsword
+  - Corpse Slayer Halberd
+  - Corpse Slayer Hand Crossbow
+  - Corpse Slayer Handaxe
+  - Corpse Slayer Heavy Crossbow
+  - Corpse Slayer Hooked Shortspear
+  - Corpse Slayer Hoopak
+  - Corpse Slayer Hunting Rifle
+  - Corpse Slayer Javelin
+  - Corpse Slayer Lance
+  - Corpse Slayer Laser Pistol
+  - Corpse Slayer Laser Rifle
+  - Corpse Slayer Light Crossbow
+  - Corpse Slayer Light Hammer
+  - Corpse Slayer Light Repeating Crossbow
+  - Corpse Slayer Longbow
+  - Corpse Slayer Longsword
+  - Corpse Slayer Mace
+  - Corpse Slayer Maul
+  - Corpse Slayer Morningstar
+  - Corpse Slayer Musket
+  - Corpse Slayer Pike
+  - Corpse Slayer Pistol
+  - Corpse Slayer Quarterstaff
+  - Corpse Slayer Rapier
+  - Corpse Slayer Revolver
+  - Corpse Slayer Scimitar
+  - Corpse Slayer Semiautomatic Pistol
+  - Corpse Slayer Shortbow
+  - Corpse Slayer Shortsword
+  - Corpse Slayer Shotgun
+  - Corpse Slayer Sickle
+  - Corpse Slayer Sling
+  - Corpse Slayer Spear
+  - Corpse Slayer Trident
+  - Corpse Slayer War Pick
+  - Corpse Slayer Warhammer
+  - Corpse Slayer Whip
+  - Corpse Slayer Yklwa
 ---
 # Corpse Slayer
 *Rare (requires attunement)*  

@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-race
+  - json5e-race
 tags:
-- ttrpg-cli/compendium/src/5e/vgm
-- ttrpg-cli/race/bugbear
+  - Quelle/5e/vgm
+  - Rasse/bugbear
 aliases:
-- Bugbear
+  - Bugbear
 ---
 # Bugbear
 *Source: Volo's Guide to Monsters p. 119, Explorer's Guide to Wildemount p. 174*  

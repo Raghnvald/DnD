@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/wdmm
-- ttrpg-cli/monster/cr/11
-- ttrpg-cli/monster/size/huge
-- ttrpg-cli/monster/type/construct
+  - Quelle/5e/wdmm
+  - Monster/HG/11
+  - Monster/Größe/Riesig
+  - Monster/Typ/construct
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Animated Statue of Lolth
+  - Animated Statue of Lolth
 ---
 # [Animated Statue of Lolth](3-Mechanics\CLI\bestiary\construct/animated-statue-of-lolth-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 142*  

@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/tftyp
-- new/monster/cr/7
-- new/monster/size/huge
-- new/monster/type/giant
+  - Quelle/5e/tftyp
+  - Monster/HG/7
+  - Monster/Größe/Riesig
+  - Monster/Typ/giant
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Hill Giant Subchief
+  - Hill Giant Subchief
 ---
 # [Hill Giant Subchief](3-Mechanics\CLI\bestiary\giant/hill-giant-subchief-tftyp.md)
 *Source: Tales from the Yawning Portal p. 170*  

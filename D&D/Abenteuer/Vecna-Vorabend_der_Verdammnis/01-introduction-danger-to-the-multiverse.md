@@ -1,11 +1,11 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- ttrpg-cli/compendium/src/5e/veor
+  - Quelle/5e/veor
 aliases:
-- Introduction: Danger to the Multiverse
+  - Introduction: Danger to the Multiverse
 ---
 # Introduction: Danger to the Multiverse
 *Source: Vecna: Eve of Ruin* 

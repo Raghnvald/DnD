@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/skt
-- new/monster/cr/2
-- new/monster/size/medium
-- new/monster/type/humanoid/human
+  - Quelle/5e/skt
+  - Monster/HG/2
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/humanoid/human
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Uthgardt Shaman
+  - Uthgardt Shaman
 ---
 # [Uthgardt Shaman](3-Mechanics\CLI\bestiary\humanoid/uthgardt-shaman-skt.md)
 *Source: Storm King's Thunder p. 243*  

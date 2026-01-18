@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/egw
-- ttrpg-cli/monster/cr/9
-- ttrpg-cli/monster/size/huge
-- ttrpg-cli/monster/type/plant
+  - Quelle/5e/egw
+  - Monster/HG/9
+  - Monster/Größe/Riesig
+  - Monster/Typ/plant
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Animated Tree
+  - Animated Tree
 ---
 # [Animated Tree](3-Mechanics\CLI\bestiary\plant/animated-tree-egw.md)
 *Source: Explorer's Guide to Wildemount p. 130*  

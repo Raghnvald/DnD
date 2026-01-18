@@ -1,19 +1,19 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- new/compendium/src/5e/bmt
-- new/item/gear/ammunition
-- new/item/rarity/uncommon
-- new/item/wondrous/generic-variant
-aliases: 
-- "Winged Ammunition"
-- "Winged Arrow"
-- "Winged Bolt"
-- "Winged Firearm Bullet"
-- "Winged Needle"
-- "Winged Sling Bullet"
+  - Quelle/5e/bmt
+  - Gegenstand/gear/ammunition
+  - Gegenstand/rarity/uncommon
+  - Gegenstand/wondrous/generic-variant
+aliases:
+  - Winged Ammunition
+  - Winged Arrow
+  - Winged Bolt
+  - Winged Firearm Bullet
+  - Winged Needle
+  - Winged Sling Bullet
 ---
 # Winged Ammunition
 *Ammunition, uncommon*  

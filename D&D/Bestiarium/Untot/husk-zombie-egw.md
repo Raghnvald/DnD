@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/egw
-- ttrpg-cli/monster/cr/1
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/undead
+  - Quelle/5e/egw
+  - Monster/HG/1
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/undead
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Husk Zombie
+  - Husk Zombie
 ---
 # [Husk Zombie](3-Mechanics\CLI\bestiary\undead/husk-zombie-egw.md)
 *Source: Explorer's Guide to Wildemount p. 293*  

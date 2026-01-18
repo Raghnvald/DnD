@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/pota
-- new/monster/cr/3
-- new/monster/size/medium
-- new/monster/type/humanoid/human
+  - Quelle/5e/pota
+  - Monster/HG/3
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/humanoid/human
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Dark Tide Knight
+  - Dark Tide Knight
 ---
 # [Dark Tide Knight](3-Mechanics\CLI\bestiary\humanoid/dark-tide-knight-pota.md)
 *Source: Princes of the Apocalypse p. 205, Storm Lord's Wrath*  

@@ -1,9 +1,9 @@
 ---
 tags:
-- Quelle/5e/ftd
-- Kompendium/reward/draconic-gift
+  - Quelle/5e/ftd
+  - Kompendium/Belohnung/draconic-gift
 aliases:
-- Scaled Toughness
+  - Scaled Toughness
 ---
 # Scaled Toughness
 *Draconic Gift, legendary*  

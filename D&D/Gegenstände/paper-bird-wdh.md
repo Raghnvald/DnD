@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/wdh
-- ttrpg-cli/item/rarity/uncommon
-aliases: 
-- "Paper Bird"
+  - Quelle/5e/wdh
+  - Gegenstand/rarity/uncommon
+aliases:
+  - Paper Bird
 ---
 # Paper Bird
 *Wondrous item, uncommon*  

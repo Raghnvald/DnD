@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-background
+  - json5e-background
 tags:
-- Kompendium/background
-- Quelle/5e/phb
+  - Kompendium/Hintergrund
+  - Quelle/5e/phb
 aliases:
-- Criminal
+  - Criminal
 ---
 # Criminal
 *Source: Player's Handbook p. 129. Available in the Basic Rules (2014)*  

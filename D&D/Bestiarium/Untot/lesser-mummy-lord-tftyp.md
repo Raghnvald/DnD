@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/tftyp
-- new/monster/cr/15
-- new/monster/size/medium
-- new/monster/type/undead
+  - Quelle/5e/tftyp
+  - Monster/HG/15
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/undead
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Lesser Mummy Lord
+  - Lesser Mummy Lord
 ---
 # [Lesser Mummy Lord](3-Mechanics\CLI\bestiary\undead/lesser-mummy-lord-tftyp.md)
 *Source: Tales from the Yawning Portal p. 224*  

@@ -1,17 +1,17 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/tdcsr
-- ttrpg-cli/monster/cr/3
-- ttrpg-cli/monster/environment/grassland
-- ttrpg-cli/monster/size/small
-- ttrpg-cli/monster/type/humanoid/any
+  - Quelle/5e/tdcsr
+  - Monster/HG/3
+  - Monster/Habitat/grassland
+  - Monster/Größe/Klein
+  - Monster/Typ/humanoid/any
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Ravager Stabby-Stabber
+  - Ravager Stabby-Stabber
 ---
 # [Ravager Stabby-Stabber](3-Mechanics\CLI\bestiary\humanoid/ravager-stabby-stabber-tdcsr.md)
 *Source: Tal'Dorei Campaign Setting Reborn p. 250*  

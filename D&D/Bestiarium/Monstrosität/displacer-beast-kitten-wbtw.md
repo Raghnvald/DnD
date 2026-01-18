@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- new/compendium/src/5e/wbtw
-- new/monster/cr/1-8
-- new/monster/size/small
-- new/monster/type/monstrosity
+  - Quelle/5e/wbtw
+  - Monster/HG/1-8
+  - Monster/Größe/Klein
+  - Monster/Typ/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Displacer Beast Kitten
+  - Displacer Beast Kitten
 ---
 # [Displacer Beast Kitten](3-Mechanics\CLI\bestiary\monstrosity/displacer-beast-kitten-wbtw.md)
 *Source: The Wild Beyond the Witchlight p. 108, The Book of Many Things*  
