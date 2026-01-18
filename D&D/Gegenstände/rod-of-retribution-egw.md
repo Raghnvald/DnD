@@ -4,9 +4,9 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/egw
-  - Gegenstand/attunement/required
-  - Gegenstand/rarity/uncommon
-  - Gegenstand/wondrous/rod
+  - Gegenstand/Einstimmung/required
+  - Gegenstand/Seltenheit/ungewöhnlich
+  - Gegenstand/wundersam/Rute
 aliases:
   - Rod of Retribution
 ---

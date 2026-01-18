@@ -4,7 +4,7 @@ cssclasses:
 Bezeichnung: Belt of Giant Strength
 tags:
   - Gegenstand/Einstimmung/required
-  - Gegenstand/Seltenheit/varies
+  - Gegenstand/Seltenheit/variiert
   - Quelle/5e/dmg
 aliases:
   - Belt of Giant Strength

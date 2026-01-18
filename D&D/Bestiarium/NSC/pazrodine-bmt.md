@@ -6,7 +6,7 @@ tags:
   - Quelle/5e/bmt
   - Monster/HG/21
   - Monster/Größe/Gigantisch
-  - Monster/Typ/dragon/moonstone
+  - Monster/Typ/Drache/moonstone
 statblock: inline
 statblock-link: "#^statblock"
 aliases:

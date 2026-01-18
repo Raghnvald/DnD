@@ -4,9 +4,9 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/erlw
-  - Gegenstand/attunement/required
-  - Gegenstand/gear/spellcasting-focus
-  - Gegenstand/rarity/common
+  - Gegenstand/Einstimmung/required
+  - Gegenstand/Ausrüstung/Zauberfokus
+  - Gegenstand/Seltenheit/gewöhnlich
 aliases:
   - Orb of Shielding
 ---

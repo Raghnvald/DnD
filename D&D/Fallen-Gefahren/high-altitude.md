@@ -4,7 +4,7 @@ cssclasses:
 - json5e-hazard
 tags:
 - Quelle/5e/dmg
-- Kompendium/hazard/env
+- Kompendium/Bedrohung/env
 aliases:
 - High Altitude
 ---

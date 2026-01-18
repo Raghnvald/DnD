@@ -4,7 +4,7 @@ cssclasses:
 Bezeichnung: Guild Keyrune
 tags:
   - Gegenstand/Einstimmung/required
-  - Gegenstand/Seltenheit/varies
+  - Gegenstand/Seltenheit/variiert
   - Quelle/5e/ggr
 aliases:
   - Guild Keyrune

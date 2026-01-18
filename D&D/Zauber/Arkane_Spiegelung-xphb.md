@@ -4,9 +4,9 @@ cssclasses:
   - json5e-spell
 tags:
   - Quelle/5e/xphb
-  - Klasse/bard
-  - Klasse/druid
-  - Klasse/wizard
+  - Klasse/Barde
+  - Klasse/Druide
+  - Klasse/Magier
   - Zauber/Grad/7
   - Zauber/Schule/illusion
   - Subklasse/arcana-domain

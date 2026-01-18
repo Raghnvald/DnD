@@ -19,7 +19,7 @@ tags:
   - Subklasse/the-fiend
   - Zauber/Grad/1
   - Zauber/optfeature/sweeping-cinder-strike
-  - Zauber/reward/boon-of-the-fire-soul
+  - Zauber/Belohnung/boon-of-the-fire-soul
   - Zauber/Schule/Hervorrufung
 classes:
   - Bard (Magical Secrets)

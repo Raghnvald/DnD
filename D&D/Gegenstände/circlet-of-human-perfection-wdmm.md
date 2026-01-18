@@ -4,9 +4,9 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/wdmm
-  - Gegenstand/attunement/required
-  - Gegenstand/rarity/uncommon
-  - Gegenstand/wondrous/other
+  - Gegenstand/Einstimmung/required
+  - Gegenstand/Seltenheit/ungewöhnlich
+  - Gegenstand/wundersam/other
 aliases:
   - Circlet of Human Perfection
 ---

@@ -5,10 +5,10 @@ cssclasses:
 tags:
   - Quelle/5e/vgm
   - Monster/HG/3
-  - Monster/Habitat/desert
-  - Monster/Habitat/grassland
+  - Monster/Habitat/Wüste
+  - Monster/Habitat/Grasland
   - Monster/Größe/Groß
-  - Monster/Typ/monstrosity
+  - Monster/Typ/Monstrosität
 statblock: inline
 statblock-link: "#^statblock"
 aliases:

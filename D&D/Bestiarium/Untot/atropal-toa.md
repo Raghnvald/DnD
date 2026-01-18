@@ -6,7 +6,7 @@ tags:
   - Quelle/5e/toa
   - Monster/HG/13
   - Monster/Größe/Riesig
-  - Monster/Typ/undead/titan
+  - Monster/Typ/Untote/titan
 statblock: inline
 statblock-link: "#^statblock"
 aliases:

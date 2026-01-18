@@ -5,7 +5,7 @@ Bezeichnung: +1 Rod of the Pact Keeper
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/ungewöhnlich
-  - Gegenstand/wundersam/rod
+  - Gegenstand/wundersam/Rute
   - Quelle/5e/xdmg
 aliases:
   - +1 Rod of the Pact Keeper

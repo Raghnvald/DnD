@@ -5,13 +5,13 @@ cssclasses:
 tags:
   - Quelle/5e/vgm
   - Monster/HG/16
-  - Monster/Habitat/arctic
-  - Monster/Habitat/coastal
-  - Monster/Habitat/desert
-  - Monster/Habitat/mountain
+  - Monster/Habitat/Arktis
+  - Monster/Habitat/Küste
+  - Monster/Habitat/Wüste
+  - Monster/Habitat/Berg
   - Monster/Habitat/underwater
   - Monster/Größe/Riesig
-  - Monster/Typ/giant/storm-giant
+  - Monster/Typ/Riese/storm-giant
 statblock: inline
 statblock-link: "#^statblock"
 aliases:

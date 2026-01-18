@@ -6,7 +6,7 @@ tags:
   - Quelle/5e/wdh
   - Monster/HG/6
   - Monster/Größe/Klein
-  - Monster/Typ/humanoid/lightfoot-halfling
+  - Monster/Typ/Humanoid/lightfoot-halfling
 statblock: inline
 statblock-link: "#^statblock"
 aliases:

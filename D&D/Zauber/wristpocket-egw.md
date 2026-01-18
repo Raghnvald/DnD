@@ -6,7 +6,7 @@ tags:
   - Quelle/5e/egw
   - Zauber/Grad/2
   - Zauber/Ritual
-  - Zauber/Schule/conjuration
+  - Zauber/Schule/Beschwörung
 aliases:
   - Wristpocket
 ---

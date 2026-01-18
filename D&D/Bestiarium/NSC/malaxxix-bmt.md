@@ -6,7 +6,7 @@ tags:
   - Quelle/5e/bmt
   - Monster/HG/18
   - Monster/Größe/Riesig
-  - Monster/Typ/fiend/yugoloth
+  - Monster/Typ/Unhold/yugoloth
 statblock: inline
 statblock-link: "#^statblock"
 aliases:

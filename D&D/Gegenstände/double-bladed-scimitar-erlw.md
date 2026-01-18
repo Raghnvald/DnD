@@ -4,9 +4,9 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/erlw
-  - Gegenstand/rarity/none
-  - Gegenstand/weapon/martial
-  - Gegenstand/weapon/melee
+  - Gegenstand/Seltenheit/keine
+  - Gegenstand/Waffe/Kriegswaffe
+  - Gegenstand/Waffe/Nahkampf
 aliases:
   - Double-Bladed Scimitar
 ---

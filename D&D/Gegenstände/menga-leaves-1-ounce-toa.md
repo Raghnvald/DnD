@@ -4,8 +4,8 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/toa
-  - Gegenstand/gear/
-  - Gegenstand/rarity/unknown
+  - Gegenstand/Ausrüstung/
+  - Gegenstand/Seltenheit/unbekannt
 aliases:
   - Menga leaves (1 ounce)
 ---

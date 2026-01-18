@@ -6,7 +6,7 @@ tags:
   - Quelle/5e/cm
   - Monster/HG/2
   - Monster/Größe/Mittelgroß
-  - Monster/Typ/humanoid/tabaxi
+  - Monster/Typ/Humanoid/tabaxi
 statblock: inline
 statblock-link: "#^statblock"
 aliases:

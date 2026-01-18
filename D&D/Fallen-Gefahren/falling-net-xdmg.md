@@ -3,7 +3,7 @@ cssclasses:
   - json5e-hazard
 tags:
   - Quelle/5e/xdmg
-  - Kompendium/hazard/trp
+  - Kompendium/Bedrohung/trp
 aliases:
   - Falling Net
 ---

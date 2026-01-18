@@ -4,7 +4,7 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/bmt
-  - Gegenstand/rarity/legendary
+  - Gegenstand/Seltenheit/legendär
   - Gegenstand/tier/major
 aliases:
   - Deck of Many Things

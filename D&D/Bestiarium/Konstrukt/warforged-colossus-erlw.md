@@ -6,7 +6,7 @@ tags:
   - Quelle/5e/erlw
   - Monster/HG/25
   - Monster/Größe/Gigantisch
-  - Monster/Typ/construct
+  - Monster/Typ/Konstrukt
 statblock: inline
 statblock-link: "#^statblock"
 aliases:

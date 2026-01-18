@@ -6,7 +6,7 @@ tags:
   - Quelle/5e/erlw
   - Monster/HG/18
   - Monster/Größe/Mittelgroß
-  - Monster/Typ/humanoid/warforged
+  - Monster/Typ/Humanoid/warforged
 statblock: inline
 statblock-link: "#^statblock"
 aliases:

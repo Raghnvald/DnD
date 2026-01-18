@@ -4,14 +4,14 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/bmt
-  - Gegenstand/age/futuristic
-  - Gegenstand/age/modern
-  - Gegenstand/attunement/required
-  - Gegenstand/rarity/very-rare
-  - Gegenstand/weapon/martial
-  - Gegenstand/weapon/melee
-  - Gegenstand/weapon/ranged
-  - Gegenstand/wondrous/generic-variant
+  - Gegenstand/Zeitalter/Futuristisch
+  - Gegenstand/Zeitalter/Modern
+  - Gegenstand/Einstimmung/required
+  - Gegenstand/Seltenheit/sehr_selten
+  - Gegenstand/Waffe/Kriegswaffe
+  - Gegenstand/Waffe/Nahkampf
+  - Gegenstand/Waffe/Fernkampf
+  - Gegenstand/wundersam/generic-variant
 aliases:
   - Weapon of Throne's Command
   - Antimatter Rifle of Throne's Command

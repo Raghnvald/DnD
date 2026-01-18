@@ -3,7 +3,7 @@ cssclasses:
   - json5e-item
 Bezeichnung: Instrument of the Bards, Anstruth Harp
 tags:
-  - Gegenstand/Ausrüstung/instrument
+  - Gegenstand/Ausrüstung/Instrument
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
   - Quelle/5e/dmg

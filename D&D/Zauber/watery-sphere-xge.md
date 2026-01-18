@@ -4,14 +4,14 @@ cssclasses:
   - json5e-spell
 tags:
   - Quelle/5e/xge
-  - Klasse/bard
-  - Klasse/druid
-  - Klasse/sorcerer
-  - Klasse/wizard
+  - Klasse/Barde
+  - Klasse/Druide
+  - Klasse/Zauberer
+  - Klasse/Magier
   - Zauber/Grad/4
-  - Zauber/Schule/conjuration
-  - Subklasse/arcane-trickster
-  - Subklasse/eldritch-knight
+  - Zauber/Schule/Beschwörung
+  - Subklasse/Arkaner-Betrüger
+  - Subklasse/Mystischer-Ritter
 classes:
   - Bard
   - Druid

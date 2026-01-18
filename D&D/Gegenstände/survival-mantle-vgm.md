@@ -4,7 +4,7 @@ cssclasses:
 Bezeichnung: Survival Mantle
 tags:
   - Gegenstand/Rüstung/Mittel
-  - Gegenstand/Seltenheit/unknown
+  - Gegenstand/Seltenheit/unbekannt
   - Quelle/5e/vgm
 aliases:
   - Survival Mantle

@@ -6,7 +6,7 @@ tags:
   - Quelle/5e/jttrc
   - Monster/HG/1-8
   - Monster/Größe/Mittelgroß
-  - Monster/Typ/humanoid/merfolk
+  - Monster/Typ/Humanoid/merfolk
 statblock: inline
 statblock-link: "#^statblock"
 aliases:

@@ -4,9 +4,9 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/toa
-  - Gegenstand/rarity/unknown/magic
-  - Gegenstand/weapon/martial
-  - Gegenstand/weapon/melee
+  - Gegenstand/Seltenheit/unbekannt/magic
+  - Gegenstand/Waffe/Kriegswaffe
+  - Gegenstand/Waffe/Nahkampf
 aliases:
   - Bob
 ---

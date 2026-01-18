@@ -4,8 +4,8 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/tftyp
-  - Gegenstand/attunement/required
-  - Gegenstand/rarity/rare
+  - Gegenstand/Einstimmung/required
+  - Gegenstand/Seltenheit/selten
 aliases:
   - Robe of Summer
 ---

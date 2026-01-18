@@ -4,7 +4,7 @@ cssclasses:
 Bezeichnung: Wagon
 tags:
   - Gegenstand/Seltenheit/keine
-  - Gegenstand/vehicle/land
+  - Gegenstand/Fortbewegung/land
   - Quelle/5e/phb
 aliases:
   - Wagon

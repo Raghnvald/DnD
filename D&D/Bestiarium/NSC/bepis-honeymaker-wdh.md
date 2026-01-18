@@ -6,7 +6,7 @@ tags:
   - Quelle/5e/wdh
   - Monster/HG/0
   - Monster/Größe/Klein
-  - Monster/Typ/humanoid/strongheart-halfling
+  - Monster/Typ/Humanoid/strongheart-halfling
 statblock: inline
 statblock-link: "#^statblock"
 aliases:

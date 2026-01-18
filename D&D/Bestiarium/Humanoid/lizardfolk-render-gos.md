@@ -6,7 +6,7 @@ tags:
   - Quelle/5e/gos
   - Monster/HG/3
   - Monster/Größe/Groß
-  - Monster/Typ/humanoid/lizardfolk
+  - Monster/Typ/Humanoid/lizardfolk
 statblock: inline
 statblock-link: "#^statblock"
 aliases:

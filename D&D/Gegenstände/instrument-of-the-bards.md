@@ -3,9 +3,9 @@ cssclasses:
   - json5e-item
 Bezeichnung: Instrument of the Bards
 tags:
-  - Gegenstand/Ausrüstung/instrument
+  - Gegenstand/Ausrüstung/Instrument
   - Gegenstand/Einstimmung/required
-  - Gegenstand/Seltenheit/varies
+  - Gegenstand/Seltenheit/variiert
   - Quelle/5e/dmg
 aliases:
   - Instrument of the Bards

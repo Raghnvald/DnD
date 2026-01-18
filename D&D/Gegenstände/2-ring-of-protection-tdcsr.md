@@ -4,10 +4,10 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/tdcsr
-  - Gegenstand/attunement/required
-  - Gegenstand/rarity/rare
+  - Gegenstand/Einstimmung/required
+  - Gegenstand/Seltenheit/selten
   - Gegenstand/tier/major
-  - Gegenstand/wondrous/ring
+  - Gegenstand/wundersam/ring
 aliases:
   - +2 Ring of Protection
 ---

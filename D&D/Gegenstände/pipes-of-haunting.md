@@ -3,7 +3,7 @@ cssclasses:
   - json5e-item
 Bezeichnung: Pipes of Haunting
 tags:
-  - Gegenstand/Ausrüstung/instrument
+  - Gegenstand/Ausrüstung/Instrument
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/dmg
 aliases:

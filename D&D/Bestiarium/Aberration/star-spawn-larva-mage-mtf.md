@@ -5,7 +5,7 @@ cssclasses:
 tags:
   - Quelle/5e/mtf
   - Monster/HG/16
-  - Monster/Habitat/mountain
+  - Monster/Habitat/Berg
   - Monster/Größe/Mittelgroß
   - Monster/Typ/aberration
 statblock: inline

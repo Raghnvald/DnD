@@ -6,7 +6,7 @@ tags:
   - Quelle/5e/skt
   - Monster/HG/
   - Monster/Größe/Mittelgroß
-  - Monster/Typ/humanoid/chondathan-human
+  - Monster/Typ/Humanoid/chondathan-human
 statblock: inline
 statblock-link: "#^statblock"
 aliases:

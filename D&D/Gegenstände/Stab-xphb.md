@@ -3,7 +3,7 @@ cssclasses:
   - json5e-item
 Bezeichnung: Staff
 tags:
-  - Gegenstand/Ausrüstung/spellcasting-focus
+  - Gegenstand/Ausrüstung/Zauberfokus
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/Einfach
   - Quelle/5e/xphb

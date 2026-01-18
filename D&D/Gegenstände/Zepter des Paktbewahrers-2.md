@@ -7,7 +7,7 @@ Gew.: n/v
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
-  - Gegenstand/wundersam/rod
+  - Gegenstand/wundersam/Rute
   - Quelle/5e/dmg
 aliases:
   - +2 Rod of the Pact Keeper

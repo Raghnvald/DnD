@@ -6,8 +6,8 @@ tags:
   - Quelle/5e/wdmm
   - Monster/HG/2
   - Monster/Größe/Klein
-  - Monster/Typ/humanoid/goblinoid
-  - Monster/Typ/humanoid/shapechanger
+  - Monster/Typ/Humanoid/goblinoid
+  - Monster/Typ/Humanoid/shapechanger
 statblock: inline
 statblock-link: "#^statblock"
 aliases:

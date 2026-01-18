@@ -9,7 +9,7 @@ tags:
   - Quelle/5e/xphb
   - Subklasse/diviner
   - Zauber/Grad/5
-  - Zauber/reward/echo-of-dragonsight
+  - Zauber/Belohnung/echo-of-dragonsight
   - Zauber/Ritual
   - Zauber/Schule/Erkenntnis
 classes:

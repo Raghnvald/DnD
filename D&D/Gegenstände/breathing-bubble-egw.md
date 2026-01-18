@@ -4,7 +4,7 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/egw
-  - Gegenstand/rarity/common
+  - Gegenstand/Seltenheit/gewöhnlich
 aliases:
   - Breathing Bubble
 ---

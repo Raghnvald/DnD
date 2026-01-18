@@ -6,8 +6,8 @@ tags:
   - Quelle/5e/bmt
   - Monster/HG/18
   - Monster/Größe/Mittelgroß
-  - Monster/Typ/humanoid/human
-  - Monster/Typ/humanoid/paladin
+  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/paladin
 statblock: inline
 statblock-link: "#^statblock"
 aliases:

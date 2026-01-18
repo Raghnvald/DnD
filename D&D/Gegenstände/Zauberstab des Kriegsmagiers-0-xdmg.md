@@ -4,7 +4,7 @@ cssclasses:
 Bezeichnung: Wand of the War Mage
 tags:
   - Gegenstand/Einstimmung/required
-  - Gegenstand/Seltenheit/varies
+  - Gegenstand/Seltenheit/variiert
   - Gegenstand/wundersam/Zauberstab
   - Quelle/5e/xdmg
 aliases:

@@ -4,21 +4,21 @@ cssclasses:
   - json5e-spell
 tags:
   - Quelle/5e/tce
-  - Klasse/artificer
-  - Klasse/sorcerer
-  - Klasse/warlock
-  - Klasse/wizard
+  - Klasse/Artifizient
+  - Klasse/Zauberer
+  - Klasse/Hexenmeister
+  - Klasse/Magier
   - Kompendium/Talent/artificer-initiate
   - Kompendium/Talent/magic-initiate/wizard-spells
   - Zauber/Grad/0
   - Zauber/optfeature/pact-of-the-tome
   - Rasse/elf/high-elf
   - Rasse/kobold
-  - Zauber/Schule/evocation
+  - Zauber/Schule/Hervorrufung
   - Subklasse/arcana-domain
-  - Subklasse/arcane-trickster
+  - Subklasse/Arkaner-Betrüger
   - Subklasse/college-of-lore
-  - Subklasse/eldritch-knight
+  - Subklasse/Mystischer-Ritter
   - Subklasse/evoker
   - Subrasse/half-elf-moon-elf-or-sun-elf-descent
 classes:

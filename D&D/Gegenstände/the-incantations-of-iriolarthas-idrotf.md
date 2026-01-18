@@ -4,8 +4,8 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/idrotf
-  - Gegenstand/gear/
-  - Gegenstand/rarity/unknown
+  - Gegenstand/Ausrüstung/
+  - Gegenstand/Seltenheit/unbekannt
 aliases:
   - The Incantations of Iriolarthas
 ---

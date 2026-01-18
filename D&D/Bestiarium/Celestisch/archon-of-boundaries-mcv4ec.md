@@ -6,7 +6,7 @@ tags:
   - Quelle/5e/mcv4ec
   - Monster/HG/15
   - Monster/Größe/Riesig
-  - Monster/Typ/celestial
+  - Monster/Typ/Himmlische
 statblock: inline
 statblock-link: "#^statblock"
 aliases:

@@ -6,8 +6,8 @@ tags:
   - Quelle/5e/veor
   - Monster/HG/19
   - Monster/Größe/Mittelgroß
-  - Monster/Typ/humanoid/human
-  - Monster/Typ/humanoid/wizard
+  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/wizard
 statblock: inline
 statblock-link: "#^statblock"
 aliases:

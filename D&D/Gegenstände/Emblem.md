@@ -5,7 +5,7 @@ Eigenschaften: n/v
 Kst.: 5 GM
 Gew.: 0,5 kg
 tags:
-  - Gegenstand/Ausrüstung/spellcasting-focus
+  - Gegenstand/Ausrüstung/Zauberfokus
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 ---

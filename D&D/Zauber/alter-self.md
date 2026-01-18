@@ -4,15 +4,15 @@ cssclasses:
   - json5e-spell
 tags:
   - Quelle/5e/phb
-  - Klasse/bard/magical-secrets
-  - Klasse/sorcerer
-  - Klasse/wizard
+  - Klasse/Barde/magical-secrets
+  - Klasse/Zauberer
+  - Klasse/Magier
   - Zauber/Grad/2
   - Zauber/optfeature/master-of-myriad-forms
-  - Zauber/Schule/transmutation
-  - Subklasse/arcane-trickster
+  - Zauber/Schule/Verwandlung
+  - Subklasse/Arkaner-Betrüger
   - Subklasse/circle-of-the-moon
-  - Subklasse/eldritch-knight
+  - Subklasse/Mystischer-Ritter
 classes:
   - Bard (Magical Secrets)
   - Druid (Circle of the Moon)

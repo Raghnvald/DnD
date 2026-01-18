@@ -4,9 +4,9 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/toa
-  - Gegenstand/rarity/none
-  - Gegenstand/weapon/melee
-  - Gegenstand/weapon/simple
+  - Gegenstand/Seltenheit/keine
+  - Gegenstand/Waffe/Nahkampf
+  - Gegenstand/Waffe/Einfach
 aliases:
   - Yklwa
 ---

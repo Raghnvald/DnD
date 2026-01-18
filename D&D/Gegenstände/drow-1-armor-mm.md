@@ -6,7 +6,7 @@ tags:
   - Gegenstand/Rüstung/Leicht
   - Gegenstand/Rüstung/Mittel
   - Gegenstand/Rüstung/Schwer
-  - Gegenstand/Seltenheit/unknown/magic
+  - Gegenstand/Seltenheit/unbekannt/magic
   - Gegenstand/wundersam/generic-variant
   - Quelle/5e/mm
 aliases:

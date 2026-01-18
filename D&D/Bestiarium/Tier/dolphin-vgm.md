@@ -5,10 +5,10 @@ cssclasses:
 tags:
   - Quelle/5e/vgm
   - Monster/HG/1-8
-  - Monster/Habitat/coastal
+  - Monster/Habitat/Küste
   - Monster/Habitat/underwater
   - Monster/Größe/Mittelgroß
-  - Monster/Typ/beast
+  - Monster/Typ/Tier
 statblock: inline
 statblock-link: "#^statblock"
 aliases:

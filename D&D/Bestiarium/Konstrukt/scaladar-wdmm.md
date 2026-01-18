@@ -6,7 +6,7 @@ tags:
   - Quelle/5e/wdmm
   - Monster/HG/8
   - Monster/Größe/Riesig
-  - Monster/Typ/construct
+  - Monster/Typ/Konstrukt
 statblock: inline
 statblock-link: "#^statblock"
 aliases:

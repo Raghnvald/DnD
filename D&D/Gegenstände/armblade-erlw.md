@@ -4,12 +4,12 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/erlw
-  - Gegenstand/attunement/required
-  - Gegenstand/rarity/common
-  - Gegenstand/weapon/martial
-  - Gegenstand/weapon/melee
-  - Gegenstand/weapon/simple
-  - Gegenstand/wondrous/generic-variant
+  - Gegenstand/Einstimmung/required
+  - Gegenstand/Seltenheit/gewöhnlich
+  - Gegenstand/Waffe/Kriegswaffe
+  - Gegenstand/Waffe/Nahkampf
+  - Gegenstand/Waffe/Einfach
+  - Gegenstand/wundersam/generic-variant
 aliases:
   - Armblade
   - Battleaxe Armblade

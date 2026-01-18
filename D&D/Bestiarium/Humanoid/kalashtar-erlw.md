@@ -6,7 +6,7 @@ tags:
   - Quelle/5e/erlw
   - Monster/HG/1-4
   - Monster/Größe/Mittelgroß
-  - Monster/Typ/humanoid/kalashtar
+  - Monster/Typ/Humanoid/kalashtar
 statblock: inline
 statblock-link: "#^statblock"
 aliases:

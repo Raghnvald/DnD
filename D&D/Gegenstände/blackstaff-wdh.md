@@ -4,9 +4,9 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/wdh
-  - Gegenstand/attunement/required
-  - Gegenstand/rarity/legendary
-  - Gegenstand/weapon/simple
+  - Gegenstand/Einstimmung/required
+  - Gegenstand/Seltenheit/legendär
+  - Gegenstand/Waffe/Einfach
 aliases:
   - Blackstaff
 ---

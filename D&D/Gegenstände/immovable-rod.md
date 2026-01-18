@@ -4,7 +4,7 @@ cssclasses:
 Bezeichnung: Immovable Rod
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
-  - Gegenstand/wundersam/rod
+  - Gegenstand/wundersam/Rute
   - Quelle/5e/dmg
 aliases:
   - Immovable Rod

@@ -4,8 +4,8 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/toa
-  - Gegenstand/gear/food-and-drink
-  - Gegenstand/rarity/none
+  - Gegenstand/Ausrüstung/Essen-und-Trinken
+  - Gegenstand/Seltenheit/keine
 aliases:
   - Tej
 ---

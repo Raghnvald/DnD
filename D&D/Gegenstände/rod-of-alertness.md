@@ -5,7 +5,7 @@ Bezeichnung: Rod of Alertness
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
-  - Gegenstand/wundersam/rod
+  - Gegenstand/wundersam/Rute
   - Quelle/5e/dmg
 aliases:
   - Rod of Alertness

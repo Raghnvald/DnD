@@ -21,7 +21,7 @@ tags:
   - Zauber/optfeature/book-of-ancient-secrets
   - Zauber/optfeature/pact-of-the-chain
   - Zauber/optfeature/pact-of-the-tome
-  - Zauber/reward/draconic-familiar
+  - Zauber/Belohnung/draconic-familiar
   - Zauber/Ritual
   - Zauber/Schule/Beschwörung
 classes:

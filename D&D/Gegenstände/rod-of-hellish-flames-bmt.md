@@ -4,9 +4,9 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/bmt
-  - Gegenstand/attunement/required
-  - Gegenstand/rarity/very-rare
-  - Gegenstand/wondrous/rod
+  - Gegenstand/Einstimmung/required
+  - Gegenstand/Seltenheit/sehr_selten
+  - Gegenstand/wundersam/Rute
 aliases:
   - Rod of Hellish Flames
 ---

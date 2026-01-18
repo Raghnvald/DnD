@@ -7,7 +7,7 @@ tags:
   - Monster/HG/17
   - Monster/Habitat/any
   - Monster/Größe/Unbekannt
-  - Monster/Typ/undead
+  - Monster/Typ/Untote
 statblock: inline
 statblock-link: "#^statblock"
 aliases:

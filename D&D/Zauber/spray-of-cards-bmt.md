@@ -5,7 +5,7 @@ cssclasses:
 tags:
   - Quelle/5e/bmt
   - Zauber/Grad/2
-  - Zauber/Schule/conjuration
+  - Zauber/Schule/Beschwörung
 aliases:
   - Spray of Cards
 ---

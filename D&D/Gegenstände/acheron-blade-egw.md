@@ -4,11 +4,11 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/egw
-  - Gegenstand/attunement/required
-  - Gegenstand/rarity/rare
-  - Gegenstand/weapon/martial
-  - Gegenstand/weapon/melee
-  - Gegenstand/wondrous/generic-variant
+  - Gegenstand/Einstimmung/required
+  - Gegenstand/Seltenheit/selten
+  - Gegenstand/Waffe/Kriegswaffe
+  - Gegenstand/Waffe/Nahkampf
+  - Gegenstand/wundersam/generic-variant
 aliases:
   - Acheron Blade
   - Acheron Blade Double-Bladed Scimitar

@@ -3,7 +3,7 @@ cssclasses:
   - json5e-hazard
 tags:
   - Quelle/5e/vrgr
-  - Kompendium/hazard/haunt
+  - Kompendium/Bedrohung/haunt
 aliases:
   - Faceless Malice
 ---

@@ -1,7 +1,7 @@
 ---
 Bezeichnung: Druidischer Fokus
 tags:
-  - Gegenstand/Ausrüstung/spellcasting-focus
+  - Gegenstand/Ausrüstung/Zauberfokus
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:

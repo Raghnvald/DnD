@@ -3,7 +3,7 @@ cssclasses:
   - json5e-item
 Bezeichnung: Yester Hill Axe
 tags:
-  - Gegenstand/Seltenheit/unknown/magic
+  - Gegenstand/Seltenheit/unbekannt/magic
   - Gegenstand/Waffe/Kriegswaffe
   - Gegenstand/Waffe/Nahkampf
   - Quelle/5e/cos

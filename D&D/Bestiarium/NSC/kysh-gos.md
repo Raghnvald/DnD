@@ -6,7 +6,7 @@ tags:
   - Quelle/5e/gos
   - Monster/HG/1
   - Monster/Größe/Mittelgroß
-  - Monster/Typ/humanoid/triton
+  - Monster/Typ/Humanoid/triton
 statblock: inline
 statblock-link: "#^statblock"
 aliases:

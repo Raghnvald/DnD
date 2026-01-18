@@ -4,9 +4,9 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/egw
-  - Gegenstand/attunement/required
-  - Gegenstand/rarity/rare
-  - Gegenstand/weapon/simple
+  - Gegenstand/Einstimmung/required
+  - Gegenstand/Seltenheit/selten
+  - Gegenstand/Waffe/Einfach
 aliases:
   - Staff of the Ivory Claw
 ---

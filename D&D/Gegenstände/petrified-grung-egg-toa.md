@@ -4,9 +4,9 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/toa
-  - Gegenstand/attunement/required
-  - Gegenstand/rarity/unknown/magic
-  - Gegenstand/wondrous/other
+  - Gegenstand/Einstimmung/required
+  - Gegenstand/Seltenheit/unbekannt/magic
+  - Gegenstand/wundersam/other
 aliases:
   - Petrified Grung Egg
 ---

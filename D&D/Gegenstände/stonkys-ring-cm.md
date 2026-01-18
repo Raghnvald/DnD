@@ -4,9 +4,9 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/cm
-  - Gegenstand/attunement/required
-  - Gegenstand/rarity/unknown/magic
-  - Gegenstand/wondrous/ring
+  - Gegenstand/Einstimmung/required
+  - Gegenstand/Seltenheit/unbekannt/magic
+  - Gegenstand/wundersam/ring
 aliases:
   - Stonky's ring
 ---

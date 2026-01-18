@@ -6,7 +6,7 @@ tags:
   - Quelle/5e/dip
   - Monster/HG/1-4
   - Monster/Größe/Groß
-  - Monster/Typ/undead
+  - Monster/Typ/Untote
 statblock: inline
 statblock-link: "#^statblock"
 aliases:

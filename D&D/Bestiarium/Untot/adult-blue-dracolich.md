@@ -5,9 +5,9 @@ cssclasses:
 tags:
   - Quelle/5e/mm
   - Monster/HG/17
-  - Monster/Habitat/desert
+  - Monster/Habitat/Wüste
   - Monster/Größe/Riesig
-  - Monster/Typ/undead
+  - Monster/Typ/Untote
 statblock: inline
 statblock-link: "#^statblock"
 aliases:

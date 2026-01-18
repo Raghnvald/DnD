@@ -6,7 +6,7 @@ tags:
   - Quelle/5e/bgg
   - Monster/HG/13
   - Monster/Größe/Gigantisch
-  - Monster/Typ/monstrosity/dinosaur
+  - Monster/Typ/Monstrosität/dinosaur
 statblock: inline
 statblock-link: "#^statblock"
 aliases:

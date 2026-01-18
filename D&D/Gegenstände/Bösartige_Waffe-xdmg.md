@@ -1,7 +1,7 @@
 ---
 Bezeichnung: Vicious Weapon
 tags:
-  - Gegenstand/Ausrüstung/spellcasting-focus
+  - Gegenstand/Ausrüstung/Zauberfokus
   - Gegenstand/Seltenheit/selten
   - Gegenstand/Waffe/Einfach
   - Gegenstand/Waffe/Fernkampf

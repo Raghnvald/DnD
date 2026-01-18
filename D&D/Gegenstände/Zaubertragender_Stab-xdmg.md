@@ -4,7 +4,7 @@ cssclasses:
 Bezeichnung: Enspelled Staff
 tags:
   - Gegenstand/Einstimmung/required
-  - Gegenstand/Seltenheit/varies
+  - Gegenstand/Seltenheit/variiert
   - Gegenstand/Waffe/Einfach
   - Gegenstand/Waffe/Nahkampf
   - Quelle/5e/xdmg

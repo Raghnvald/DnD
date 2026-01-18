@@ -4,8 +4,8 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/wdmm
-  - Gegenstand/rarity/unknown/magic
-  - Gegenstand/wondrous/other
+  - Gegenstand/Seltenheit/unbekannt/magic
+  - Gegenstand/wundersam/other
 aliases:
   - Mind Flayer Skull
 ---

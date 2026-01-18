@@ -4,8 +4,8 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/idrotf
-  - Gegenstand/attunement/required
-  - Gegenstand/rarity/rare
+  - Gegenstand/Einstimmung/required
+  - Gegenstand/Seltenheit/selten
 aliases:
   - Shield Guardian Amulet
 ---

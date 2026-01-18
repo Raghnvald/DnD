@@ -1,5 +1,5 @@
 ---
-tags: [Klasse/Zauberer, Quelle/5e/Shadow_of_the_Dragon_Queen]
+tags: [Klasse/Zauberer, Quelle/5e/dsotdq]
 aliases: [Lunar Sorcery]
 ---
 # Mondzauberei

@@ -6,7 +6,7 @@ tags:
   - Quelle/5e/wdh
   - Monster/HG/5
   - Monster/Größe/Mittelgroß
-  - Monster/Typ/humanoid/half-orc
+  - Monster/Typ/Humanoid/half-orc
 statblock: inline
 statblock-link: "#^statblock"
 aliases:

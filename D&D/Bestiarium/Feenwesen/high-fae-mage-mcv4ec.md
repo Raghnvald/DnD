@@ -6,7 +6,7 @@ tags:
   - Quelle/5e/mcv4ec
   - Monster/HG/12
   - Monster/Größe/Mittelgroß
-  - Monster/Typ/fey/sorcerer
+  - Monster/Typ/Fee/sorcerer
 statblock: inline
 statblock-link: "#^statblock"
 aliases:

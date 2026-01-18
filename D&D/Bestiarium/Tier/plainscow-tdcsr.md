@@ -5,11 +5,11 @@ cssclasses:
 tags:
   - Quelle/5e/tdcsr
   - Monster/HG/2
-  - Monster/Habitat/grassland
-  - Monster/Habitat/hill
-  - Monster/Habitat/urban
+  - Monster/Habitat/Grasland
+  - Monster/Habitat/Hügel
+  - Monster/Habitat/Stadt
   - Monster/Größe/Groß
-  - Monster/Typ/beast
+  - Monster/Typ/Tier
 statblock: inline
 statblock-link: "#^statblock"
 aliases:

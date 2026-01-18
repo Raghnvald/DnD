@@ -6,8 +6,8 @@ tags:
   - Quelle/5e/mcv2dc
   - Monster/HG/17
   - Monster/Größe/Mittelgroß
-  - Monster/Typ/humanoid/cleric
-  - Monster/Typ/humanoid/human
+  - Monster/Typ/Humanoid/cleric
+  - Monster/Typ/Humanoid/human
 statblock: inline
 statblock-link: "#^statblock"
 aliases:

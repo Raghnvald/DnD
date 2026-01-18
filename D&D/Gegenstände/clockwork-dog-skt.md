@@ -4,8 +4,8 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/skt
-  - Gegenstand/rarity/unknown/magic
-  - Gegenstand/wondrous/other
+  - Gegenstand/Seltenheit/unbekannt/magic
+  - Gegenstand/wundersam/other
 aliases:
   - Clockwork Dog
 ---

@@ -4,8 +4,8 @@ cssclasses:
 Bezeichnung: Rod of the Pact Keeper
 tags:
   - Gegenstand/Einstimmung/required
-  - Gegenstand/Seltenheit/varies
-  - Gegenstand/wundersam/rod
+  - Gegenstand/Seltenheit/variiert
+  - Gegenstand/wundersam/Rute
   - Quelle/5e/dmg
 aliases:
   - Rod of the Pact Keeper

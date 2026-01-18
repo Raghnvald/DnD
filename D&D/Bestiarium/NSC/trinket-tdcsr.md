@@ -6,7 +6,7 @@ tags:
   - Quelle/5e/tdcsr
   - Monster/HG/5
   - Monster/Größe/Groß
-  - Monster/Typ/beast/brown-bear
+  - Monster/Typ/Tier/brown-bear
 statblock: inline
 statblock-link: "#^statblock"
 aliases:

@@ -3,7 +3,7 @@ cssclasses:
   - json5e-item
 Bezeichnung: Enspelled Weapon (Cantrip)
 tags:
-  - Gegenstand/Ausrüstung/spellcasting-focus
+  - Gegenstand/Ausrüstung/Zauberfokus
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/Waffe/Einfach

@@ -4,8 +4,8 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/erlw
-  - Gegenstand/attunement/required
-  - Gegenstand/rarity/common
+  - Gegenstand/Einstimmung/required
+  - Gegenstand/Seltenheit/gewöhnlich
 aliases:
   - Scribe's Pen
 ---

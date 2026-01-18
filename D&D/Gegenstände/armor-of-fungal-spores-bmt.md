@@ -4,9 +4,9 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/bmt
-  - Gegenstand/armor/medium
-  - Gegenstand/rarity/uncommon
-  - Gegenstand/wondrous/generic-variant
+  - Gegenstand/Rüstung/Mittel
+  - Gegenstand/Seltenheit/ungewöhnlich
+  - Gegenstand/wundersam/generic-variant
 aliases:
   - Armor of Fungal Spores
   - Breastplate of Fungal Spores

@@ -4,10 +4,10 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/tftyp
-  - Gegenstand/attunement/required
-  - Gegenstand/rarity/unknown/magic
-  - Gegenstand/weapon/martial
-  - Gegenstand/weapon/melee
+  - Gegenstand/Einstimmung/required
+  - Gegenstand/Seltenheit/unbekannt/magic
+  - Gegenstand/Waffe/Kriegswaffe
+  - Gegenstand/Waffe/Nahkampf
 aliases:
   - Flame Tongue Shortsword of Greed
 ---

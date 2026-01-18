@@ -6,7 +6,7 @@ tags:
   - Quelle/5e/wdh
   - Monster/HG/2
   - Monster/Größe/Mittelgroß
-  - Monster/Typ/humanoid/water-genasi
+  - Monster/Typ/Humanoid/water-genasi
 statblock: inline
 statblock-link: "#^statblock"
 aliases:

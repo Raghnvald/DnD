@@ -2,7 +2,7 @@
 Bezeichnung: Dragon-Touched Focus
 tags:
   - Gegenstand/Einstimmung/required
-  - Gegenstand/Seltenheit/varies
+  - Gegenstand/Seltenheit/variiert
   - Quelle/5e/ftd
 aliases:
   - Dragon-Touched Focus

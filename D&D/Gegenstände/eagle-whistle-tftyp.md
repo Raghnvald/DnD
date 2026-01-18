@@ -4,7 +4,7 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/tftyp
-  - Gegenstand/rarity/rare
+  - Gegenstand/Seltenheit/selten
 aliases:
   - Eagle Whistle
 ---

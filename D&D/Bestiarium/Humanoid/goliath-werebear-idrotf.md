@@ -6,8 +6,8 @@ tags:
   - Quelle/5e/idrotf
   - Monster/HG/8
   - Monster/Größe/Mittelgroß
-  - Monster/Typ/humanoid/goliath
-  - Monster/Typ/humanoid/shapechanger
+  - Monster/Typ/Humanoid/goliath
+  - Monster/Typ/Humanoid/shapechanger
 statblock: inline
 statblock-link: "#^statblock"
 aliases:

@@ -4,10 +4,10 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/erlw
-  - Gegenstand/attunement/required
-  - Gegenstand/gear/spellcasting-focus
-  - Gegenstand/rarity/common
-  - Gegenstand/wondrous/generic-variant
+  - Gegenstand/Einstimmung/required
+  - Gegenstand/Ausrüstung/Zauberfokus
+  - Gegenstand/Seltenheit/gewöhnlich
+  - Gegenstand/wundersam/generic-variant
 aliases:
   - Orb of Shielding (Lamannian Flint)
   - Lamannian Flint Crystal

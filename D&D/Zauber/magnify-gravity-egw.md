@@ -5,7 +5,7 @@ cssclasses:
 tags:
   - Quelle/5e/egw
   - Zauber/Grad/1
-  - Zauber/Schule/transmutation
+  - Zauber/Schule/Verwandlung
 aliases:
   - Magnify Gravity
 ---

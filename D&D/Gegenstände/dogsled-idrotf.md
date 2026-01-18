@@ -4,8 +4,8 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/idrotf
-  - Gegenstand/rarity/none
-  - Gegenstand/vehicle/land
+  - Gegenstand/Seltenheit/keine
+  - Gegenstand/Fortbewegung/land
 aliases:
   - Dogsled
 ---

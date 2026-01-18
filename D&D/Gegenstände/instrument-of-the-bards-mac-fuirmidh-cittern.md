@@ -3,7 +3,7 @@ cssclasses:
   - json5e-item
 Bezeichnung: Instrument of the Bards, Mac-Fuirmidh Cittern
 tags:
-  - Gegenstand/Ausrüstung/instrument
+  - Gegenstand/Ausrüstung/Instrument
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/dmg

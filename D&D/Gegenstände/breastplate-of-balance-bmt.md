@@ -4,9 +4,9 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/bmt
-  - Gegenstand/armor/medium
-  - Gegenstand/attunement/required
-  - Gegenstand/rarity/rare
+  - Gegenstand/Rüstung/Mittel
+  - Gegenstand/Einstimmung/required
+  - Gegenstand/Seltenheit/selten
 aliases:
   - Breastplate of Balance
 ---

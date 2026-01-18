@@ -4,8 +4,8 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/tdcsr
-  - Gegenstand/gear/trade-good
-  - Gegenstand/rarity/unknown/magic
+  - Gegenstand/Ausrüstung/Handelsgut
+  - Gegenstand/Seltenheit/unbekannt/magic
 aliases:
   - Residuum
 ---

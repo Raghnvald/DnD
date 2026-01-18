@@ -6,7 +6,7 @@ tags:
   - Quelle/5e/bgg
   - Monster/HG/5
   - Monster/Größe/Mittelgroß
-  - Monster/Typ/humanoid/cleric
+  - Monster/Typ/Humanoid/cleric
 statblock: inline
 statblock-link: "#^statblock"
 aliases:

@@ -3,7 +3,7 @@ cssclasses:
   - json5e-item
 Bezeichnung: Sheep
 tags:
-  - Gegenstand/Ausrüstung/trade-good
+  - Gegenstand/Ausrüstung/Handelsgut
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xdmg
 aliases:

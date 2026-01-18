@@ -4,9 +4,9 @@ cssclasses:
   - json5e-vehicle
 tags:
   - Quelle/5e/mtf
-  - Kompendium/vehicle/size/gargantuan
-  - Kompendium/vehicle/terrain/air
-  - Kompendium/vehicle/type/ship
+  - Gegenstand/Fortbewegung/size/gargantuan
+  - Gegenstand/Fortbewegung/terrain/air
+  - Gegenstand/Fortbewegung/type/ship
 aliases:
   - Astral Brig
 ---

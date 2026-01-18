@@ -4,9 +4,9 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/bmt
-  - Gegenstand/armor/light
-  - Gegenstand/attunement/required
-  - Gegenstand/rarity/rare
+  - Gegenstand/Rüstung/Leicht
+  - Gegenstand/Einstimmung/required
+  - Gegenstand/Seltenheit/selten
 aliases:
   - Voidwalker Armor
 ---

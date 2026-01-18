@@ -4,7 +4,7 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/toa
-  - Gegenstand/rarity/uncommon
+  - Gegenstand/Seltenheit/ungewöhnlich
 aliases:
   - Mask of the Beast
 ---

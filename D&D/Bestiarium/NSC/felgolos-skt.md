@@ -6,7 +6,7 @@ tags:
   - Quelle/5e/skt
   - Monster/HG/15
   - Monster/Größe/Riesig
-  - Monster/Typ/dragon
+  - Monster/Typ/Drache
 statblock: inline
 statblock-link: "#^statblock"
 aliases:

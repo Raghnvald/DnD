@@ -4,8 +4,8 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/tdcsr
-  - Gegenstand/gear/tool
-  - Gegenstand/rarity/unknown/magic
+  - Gegenstand/Ausrüstung/Werkzeug
+  - Gegenstand/Seltenheit/unbekannt/magic
 aliases:
   - Residuum Enchanting Slate
 ---

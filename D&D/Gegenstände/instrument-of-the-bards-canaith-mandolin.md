@@ -3,7 +3,7 @@ cssclasses:
   - json5e-item
 Bezeichnung: Instrument of the Bards, Canaith Mandolin
 tags:
-  - Gegenstand/Ausrüstung/instrument
+  - Gegenstand/Ausrüstung/Instrument
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/dmg

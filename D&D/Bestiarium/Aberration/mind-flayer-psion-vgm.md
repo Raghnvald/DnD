@@ -5,7 +5,7 @@ cssclasses:
 tags:
   - Quelle/5e/vgm
   - Monster/HG/8
-  - Monster/Habitat/underdark
+  - Monster/Habitat/Unterreich
   - Monster/Größe/Mittelgroß
   - Monster/Typ/aberration
 statblock: inline

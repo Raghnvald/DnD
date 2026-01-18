@@ -1,7 +1,7 @@
 ---
 Bezeichnung: Arkaner Fokus
 tags:
-  - Gegenstand/Ausrüstung/spellcasting-focus
+  - Gegenstand/Ausrüstung/Zauberfokus
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:

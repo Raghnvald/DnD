@@ -6,7 +6,7 @@ tags:
   - Quelle/5e/mcv4ec
   - Monster/HG/3
   - Monster/Größe/Groß
-  - Monster/Typ/giant/druid
+  - Monster/Typ/Riese/druid
 statblock: inline
 statblock-link: "#^statblock"
 aliases:

@@ -4,15 +4,15 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/egw
-  - Gegenstand/age/futuristic
-  - Gegenstand/age/modern
-  - Gegenstand/attunement/required
-  - Gegenstand/rarity/rare
-  - Gegenstand/weapon/martial
-  - Gegenstand/weapon/melee
-  - Gegenstand/weapon/ranged
-  - Gegenstand/weapon/simple
-  - Gegenstand/wondrous/generic-variant
+  - Gegenstand/Zeitalter/Futuristisch
+  - Gegenstand/Zeitalter/Modern
+  - Gegenstand/Einstimmung/required
+  - Gegenstand/Seltenheit/selten
+  - Gegenstand/Waffe/Kriegswaffe
+  - Gegenstand/Waffe/Nahkampf
+  - Gegenstand/Waffe/Fernkampf
+  - Gegenstand/Waffe/Einfach
+  - Gegenstand/wundersam/generic-variant
 aliases:
   - Corpse Slayer
   - Corpse Slayer Antimatter Rifle

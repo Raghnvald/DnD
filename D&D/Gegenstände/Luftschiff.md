@@ -4,7 +4,7 @@ cssclasses:
 Bezeichnung: Airship
 tags:
   - Gegenstand/Seltenheit/keine
-  - Gegenstand/vehicle/airship-air
+  - Gegenstand/Fortbewegung/airship-air
   - Quelle/5e/dmg
 aliases:
   - Airship

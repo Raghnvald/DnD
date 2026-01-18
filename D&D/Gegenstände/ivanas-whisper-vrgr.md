@@ -4,7 +4,7 @@ cssclasses:
 Bezeichnung: "Ivana's Whisper"
 tags:
   - Gegenstand/Ausrüstung/
-  - Gegenstand/Seltenheit/unknown
+  - Gegenstand/Seltenheit/unbekannt
   - Quelle/5e/vrgr
 aliases:
   - "Ivana's Whisper"

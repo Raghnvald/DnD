@@ -4,8 +4,8 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/tdcsr
-  - Gegenstand/rarity/none
-  - Gegenstand/vehicle/airship-air
+  - Gegenstand/Seltenheit/keine
+  - Gegenstand/Fortbewegung/airship-air
 aliases:
   - Skyship
 ---

@@ -7,7 +7,7 @@ tags:
   - Monster/HG/7
   - Monster/Habitat/any
   - Monster/Größe/Klein-oder-Mittelgroß
-  - Monster/Typ/humanoid
+  - Monster/Typ/Humanoid
 statblock: inline
 statblock-link: "#^statblock"
 aliases:

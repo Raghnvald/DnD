@@ -1,7 +1,7 @@
 ---
 Bezeichnung: Gedankenkristall
 tags:
-  - Gegenstand/Seltenheit/varies
+  - Gegenstand/Seltenheit/variiert
   - Quelle/5e/pabtso
 aliases:
   - Mind Crystal

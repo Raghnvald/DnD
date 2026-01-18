@@ -6,7 +6,7 @@ tags:
   - Quelle/5e/cm
   - Monster/HG/2
   - Monster/Größe/Klein
-  - Monster/Typ/aberration/shapechanger
+  - Monster/Typ/Aberration/Gestaltwandler
 statblock: inline
 statblock-link: "#^statblock"
 aliases:

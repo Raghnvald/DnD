@@ -4,7 +4,7 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/tdcsr
-  - Gegenstand/rarity/unknown/magic
+  - Gegenstand/Seltenheit/unbekannt/magic
 aliases:
   - Circlet of Wisdom
 ---

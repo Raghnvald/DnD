@@ -4,11 +4,11 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/bmt
-  - Gegenstand/attunement/required
-  - Gegenstand/rarity/very-rare
-  - Gegenstand/weapon/martial
-  - Gegenstand/weapon/melee
-  - Gegenstand/wondrous/generic-variant
+  - Gegenstand/Einstimmung/required
+  - Gegenstand/Seltenheit/sehr_selten
+  - Gegenstand/Waffe/Kriegswaffe
+  - Gegenstand/Waffe/Nahkampf
+  - Gegenstand/wundersam/generic-variant
 aliases:
   - Fool's Blade
   - Fool's Double-Bladed Scimitar

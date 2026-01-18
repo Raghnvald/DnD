@@ -4,7 +4,7 @@ cssclasses:
 - json5e-hazard
 tags:
 - Quelle/5e/xdmg
-- Kompendium/hazard/env
+- Kompendium/Bedrohung/env
 aliases:
 - Strong Wind
 ---

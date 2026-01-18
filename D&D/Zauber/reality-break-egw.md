@@ -5,7 +5,7 @@ cssclasses:
 tags:
   - Quelle/5e/egw
   - Zauber/Grad/8
-  - Zauber/Schule/conjuration
+  - Zauber/Schule/Beschwörung
 aliases:
   - Reality Break
 ---

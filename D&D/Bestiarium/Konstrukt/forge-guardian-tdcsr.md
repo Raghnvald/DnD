@@ -6,7 +6,7 @@ tags:
   - Quelle/5e/tdcsr
   - Monster/HG/27
   - Monster/Größe/Gigantisch
-  - Monster/Typ/construct
+  - Monster/Typ/Konstrukt
 statblock: inline
 statblock-link: "#^statblock"
 aliases:

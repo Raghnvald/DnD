@@ -4,8 +4,8 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/cm
-  - Gegenstand/armor/medium
-  - Gegenstand/rarity/uncommon
+  - Gegenstand/Rüstung/Mittel
+  - Gegenstand/Seltenheit/ungewöhnlich
 aliases:
   - Serpent Scale Armor
 ---

@@ -6,7 +6,7 @@ tags:
   - Quelle/5e/bgg
   - Monster/HG/27
   - Monster/Größe/Gigantisch
-  - Monster/Typ/giant/titan
+  - Monster/Typ/Riese/titan
 statblock: inline
 statblock-link: "#^statblock"
 aliases:

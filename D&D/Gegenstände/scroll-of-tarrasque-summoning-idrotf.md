@@ -4,8 +4,8 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/idrotf
-  - Gegenstand/rarity/legendary
-  - Gegenstand/wondrous/scroll
+  - Gegenstand/Seltenheit/legendär
+  - Gegenstand/wundersam/Schriftrolle
 aliases:
   - Scroll of Tarrasque Summoning
 ---

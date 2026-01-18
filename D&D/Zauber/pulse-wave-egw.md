@@ -5,7 +5,7 @@ cssclasses:
 tags:
   - Quelle/5e/egw
   - Zauber/Grad/3
-  - Zauber/Schule/evocation
+  - Zauber/Schule/Hervorrufung
 aliases:
   - Pulse Wave
 ---

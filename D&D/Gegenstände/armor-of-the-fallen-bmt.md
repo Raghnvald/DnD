@@ -4,11 +4,11 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/bmt
-  - Gegenstand/armor/heavy
-  - Gegenstand/armor/medium
-  - Gegenstand/attunement/required
-  - Gegenstand/rarity/uncommon
-  - Gegenstand/wondrous/generic-variant
+  - Gegenstand/Rüstung/Schwer
+  - Gegenstand/Rüstung/Mittel
+  - Gegenstand/Einstimmung/required
+  - Gegenstand/Seltenheit/ungewöhnlich
+  - Gegenstand/wundersam/generic-variant
 aliases:
   - Armor of the Fallen
   - Breastplate of the Fallen

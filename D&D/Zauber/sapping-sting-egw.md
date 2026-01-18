@@ -6,7 +6,7 @@ tags:
   - Quelle/5e/egw
   - Zauber/Grad/0
   - Zauber/optfeature/pact-of-the-tome
-  - Zauber/Schule/necromancy
+  - Zauber/Schule/Nekromantie
   - Subklasse/death-domain
 classes:
   - Cleric (Death Domain)

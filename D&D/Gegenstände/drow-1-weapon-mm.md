@@ -3,7 +3,7 @@ cssclasses:
   - json5e-item
 Bezeichnung: Drow +1 Weapon
 tags:
-  - Gegenstand/Seltenheit/unknown/magic
+  - Gegenstand/Seltenheit/unbekannt/magic
   - Gegenstand/Waffe/Einfach
   - Gegenstand/Waffe/Fernkampf
   - Gegenstand/Waffe/Kriegswaffe

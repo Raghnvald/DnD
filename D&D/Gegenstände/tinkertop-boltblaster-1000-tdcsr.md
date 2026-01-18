@@ -4,10 +4,10 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/tdcsr
-  - Gegenstand/attunement/required
-  - Gegenstand/rarity/very-rare
-  - Gegenstand/weapon/martial
-  - Gegenstand/weapon/ranged
+  - Gegenstand/Einstimmung/required
+  - Gegenstand/Seltenheit/sehr_selten
+  - Gegenstand/Waffe/Kriegswaffe
+  - Gegenstand/Waffe/Fernkampf
 aliases:
   - Tinkertop Boltblaster 1000
 ---

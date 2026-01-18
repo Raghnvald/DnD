@@ -5,7 +5,7 @@ cssclasses:
 tags:
   - Quelle/5e/egw
   - Zauber/Grad/6
-  - Zauber/Schule/evocation
+  - Zauber/Schule/Hervorrufung
 aliases:
   - Gravity Fissure
 ---

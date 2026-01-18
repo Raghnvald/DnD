@@ -4,10 +4,10 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/tdcsr
-  - Gegenstand/attunement/required
-  - Gegenstand/rarity/legendary
-  - Gegenstand/weapon/martial
-  - Gegenstand/weapon/melee
+  - Gegenstand/Einstimmung/required
+  - Gegenstand/Seltenheit/legendär
+  - Gegenstand/Waffe/Kriegswaffe
+  - Gegenstand/Waffe/Nahkampf
 aliases:
   - Pyremaul
 ---

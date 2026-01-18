@@ -4,7 +4,7 @@ cssclasses:
 Bezeichnung: Silvered Ammunition
 tags:
   - Gegenstand/Ausrüstung/ammunition
-  - Gegenstand/Seltenheit/unknown
+  - Gegenstand/Seltenheit/unbekannt
   - Gegenstand/wundersam/generic-variant
   - Quelle/5e/phb
 aliases:

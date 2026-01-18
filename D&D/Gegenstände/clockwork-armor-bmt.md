@@ -4,10 +4,10 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/bmt
-  - Gegenstand/armor/heavy
-  - Gegenstand/attunement/required
-  - Gegenstand/rarity/very-rare
-  - Gegenstand/wondrous/generic-variant
+  - Gegenstand/Rüstung/Schwer
+  - Gegenstand/Einstimmung/required
+  - Gegenstand/Seltenheit/sehr_selten
+  - Gegenstand/wundersam/generic-variant
 aliases:
   - Clockwork Armor
   - Clockwork Chain Mail

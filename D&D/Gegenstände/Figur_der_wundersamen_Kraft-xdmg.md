@@ -3,7 +3,7 @@ cssclasses:
   - json5e-item
 Bezeichnung: Figurine of Wondrous Power
 tags:
-  - Gegenstand/Seltenheit/varies
+  - Gegenstand/Seltenheit/variiert
   - Quelle/5e/xdmg
 aliases:
   - Figurine of Wondrous Power

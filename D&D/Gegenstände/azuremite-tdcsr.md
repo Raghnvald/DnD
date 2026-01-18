@@ -4,8 +4,8 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/tdcsr
-  - Gegenstand/gear/illegal-drug
-  - Gegenstand/rarity/unknown/magic
+  - Gegenstand/Ausrüstung/illegal-drug
+  - Gegenstand/Seltenheit/unbekannt/magic
 aliases:
   - Azuremite
 ---

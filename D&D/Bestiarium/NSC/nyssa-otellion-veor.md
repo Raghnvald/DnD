@@ -6,8 +6,8 @@ tags:
   - Quelle/5e/veor
   - Monster/HG/17
   - Monster/Größe/Mittelgroß
-  - Monster/Typ/fiend/devil
-  - Monster/Typ/fiend/wizard
+  - Monster/Typ/Unhold/devil
+  - Monster/Typ/Unhold/wizard
 statblock: inline
 statblock-link: "#^statblock"
 aliases:

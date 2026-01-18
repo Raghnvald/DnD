@@ -6,8 +6,8 @@ tags:
   - Quelle/5e/erlw
   - Monster/HG/1-2
   - Monster/Größe/Mittelgroß
-  - Monster/Typ/humanoid/changeling
-  - Monster/Typ/humanoid/shapechanger
+  - Monster/Typ/Humanoid/changeling
+  - Monster/Typ/Humanoid/shapechanger
 statblock: inline
 statblock-link: "#^statblock"
 aliases:

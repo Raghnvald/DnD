@@ -4,10 +4,10 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/egw
-  - Gegenstand/attunement/required
-  - Gegenstand/rarity/artifact
-  - Gegenstand/weapon/melee
-  - Gegenstand/weapon/simple
+  - Gegenstand/Einstimmung/required
+  - Gegenstand/Seltenheit/Artefakt
+  - Gegenstand/Waffe/Nahkampf
+  - Gegenstand/Waffe/Einfach
 aliases:
   - Ruin's Wake (Exalted)
 ---

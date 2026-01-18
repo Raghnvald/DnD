@@ -4,9 +4,9 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/toa
-  - Gegenstand/attunement/required
-  - Gegenstand/rarity/artifact
-  - Gegenstand/weapon/simple
+  - Gegenstand/Einstimmung/required
+  - Gegenstand/Seltenheit/Artefakt
+  - Gegenstand/Waffe/Einfach
 aliases:
   - Staff of the Forgotten One
 ---

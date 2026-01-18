@@ -5,9 +5,9 @@ cssclasses:
 tags:
   - Quelle/5e/vgm
   - Monster/HG/4
-  - Monster/Habitat/forest
+  - Monster/Habitat/Wald
   - Monster/Größe/Groß
-  - Monster/Typ/monstrosity
+  - Monster/Typ/Monstrosität
 statblock: inline
 statblock-link: "#^statblock"
 aliases:

@@ -4,11 +4,11 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/bmt
-  - Gegenstand/attunement/required
-  - Gegenstand/rarity/legendary
-  - Gegenstand/weapon/martial
-  - Gegenstand/weapon/melee
-  - Gegenstand/wondrous/generic-variant
+  - Gegenstand/Einstimmung/required
+  - Gegenstand/Seltenheit/legendär
+  - Gegenstand/Waffe/Kriegswaffe
+  - Gegenstand/Waffe/Nahkampf
+  - Gegenstand/wundersam/generic-variant
 aliases:
   - Sword of the Planes
   - Double-Bladed Scimitar of the Planes

@@ -5,9 +5,9 @@ cssclasses:
 tags:
   - Quelle/5e/tdcsr
   - Monster/HG/2
-  - Monster/Habitat/forest
+  - Monster/Habitat/Wald
   - Monster/Größe/Groß
-  - Monster/Typ/undead
+  - Monster/Typ/Untote
 statblock: inline
 statblock-link: "#^statblock"
 aliases:

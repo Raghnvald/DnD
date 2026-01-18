@@ -5,7 +5,7 @@ Bezeichnung: Rod of Rulership
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
-  - Gegenstand/wundersam/rod
+  - Gegenstand/wundersam/Rute
   - Quelle/5e/dmg
 aliases:
   - Rod of Rulership

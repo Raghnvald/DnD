@@ -6,7 +6,7 @@ tags:
   - Quelle/5e/tftyp
   - Monster/HG/1-2
   - Monster/Größe/Mittelgroß
-  - Monster/Typ/humanoid/orc
+  - Monster/Typ/Humanoid/orc
 statblock: inline
 statblock-link: "#^statblock"
 aliases:

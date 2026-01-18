@@ -4,8 +4,8 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/tftyp
-  - Gegenstand/rarity/varies
-  - Gegenstand/wondrous/potion
+  - Gegenstand/Seltenheit/variiert
+  - Gegenstand/wundersam/Trank
 aliases:
   - Potion of Mind Control
 ---

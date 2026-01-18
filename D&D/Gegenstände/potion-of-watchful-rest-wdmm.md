@@ -4,8 +4,8 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/wdmm
-  - Gegenstand/rarity/common
-  - Gegenstand/wondrous/potion
+  - Gegenstand/Seltenheit/gewöhnlich
+  - Gegenstand/wundersam/Trank
 aliases:
   - Potion of Watchful Rest
 ---

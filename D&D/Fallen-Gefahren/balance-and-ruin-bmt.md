@@ -4,7 +4,7 @@ cssclasses:
   - json5e-hazard
 tags:
   - Quelle/5e/bmt
-  - Kompendium/hazard/mech
+  - Kompendium/Bedrohung/mech
 aliases:
   - Balance and Ruin
 ---

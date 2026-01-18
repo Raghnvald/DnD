@@ -3,7 +3,7 @@ cssclasses:
   - json5e-item
 Bezeichnung: Wraps of Unarmed Power
 tags:
-  - Gegenstand/Seltenheit/varies
+  - Gegenstand/Seltenheit/variiert
   - Quelle/5e/xdmg
 aliases:
   - Wraps of Unarmed Power

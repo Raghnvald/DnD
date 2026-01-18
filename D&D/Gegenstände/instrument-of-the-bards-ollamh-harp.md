@@ -3,7 +3,7 @@ cssclasses:
   - json5e-item
 Bezeichnung: Instrument of the Bards, Ollamh Harp
 tags:
-  - Gegenstand/Ausrüstung/instrument
+  - Gegenstand/Ausrüstung/Instrument
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
   - Quelle/5e/dmg

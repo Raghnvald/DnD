@@ -4,9 +4,9 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/tdcsr
-  - Gegenstand/armor/light
-  - Gegenstand/attunement/required
-  - Gegenstand/rarity/unknown/magic
+  - Gegenstand/Rüstung/Leicht
+  - Gegenstand/Einstimmung/required
+  - Gegenstand/Seltenheit/unbekannt/magic
   - Gegenstand/tier/major
 aliases:
   - +2 Studded Leather Armor of Acid Resistance

@@ -4,7 +4,7 @@ cssclasses:
 Bezeichnung: Rod of Security
 tags:
   - Gegenstand/Seltenheit/sehr_selten
-  - Gegenstand/wundersam/rod
+  - Gegenstand/wundersam/Rute
   - Quelle/5e/xdmg
 aliases:
   - Rod of Security

@@ -4,12 +4,12 @@ cssclasses:
   - json5e-spell
 tags:
   - Quelle/5e/phb
-  - Klasse/bard/magical-secrets
-  - Klasse/cleric
-  - Klasse/druid
-  - Klasse/ranger
+  - Klasse/Barde/magical-secrets
+  - Klasse/Kleriker
+  - Klasse/Druide
+  - Klasse/Waldläufer
   - Zauber/Grad/4
-  - Zauber/Schule/abjuration
+  - Zauber/Schule/Bann
   - Subklasse/circle-of-the-land/arctic
   - Subklasse/oath-of-devotion
   - Subklasse/war-domain

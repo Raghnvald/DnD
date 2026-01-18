@@ -3,7 +3,7 @@ cssclasses:
   - json5e-item
 Bezeichnung: Horizon Puzzle Cube
 tags:
-  - Gegenstand/Seltenheit/unknown/magic
+  - Gegenstand/Seltenheit/unbekannt/magic
   - Quelle/5e/bgg
 aliases:
   - Horizon Puzzle Cube

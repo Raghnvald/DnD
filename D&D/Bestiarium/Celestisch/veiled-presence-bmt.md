@@ -6,7 +6,7 @@ tags:
   - Quelle/5e/bmt
   - Monster/HG/21
   - Monster/Größe/Klein-oder-Mittelgroß
-  - Monster/Typ/celestial
+  - Monster/Typ/Himmlische
 statblock: inline
 statblock-link: "#^statblock"
 aliases:

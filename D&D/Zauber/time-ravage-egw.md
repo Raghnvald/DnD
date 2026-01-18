@@ -5,7 +5,7 @@ cssclasses:
 tags:
   - Quelle/5e/egw
   - Zauber/Grad/9
-  - Zauber/Schule/necromancy
+  - Zauber/Schule/Nekromantie
 aliases:
   - Time Ravage
 ---

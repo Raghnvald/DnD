@@ -4,7 +4,7 @@ cssclasses:
   - json5e-hazard
 tags:
   - Quelle/5e/idrotf
-  - Kompendium/hazard/wth
+  - Kompendium/Bedrohung/wth
 aliases:
   - Blizzard
 ---

@@ -6,7 +6,7 @@ tags:
   - Quelle/5e/gos
   - Monster/HG/1-2
   - Monster/Größe/Mittelgroß
-  - Monster/Typ/humanoid/merfolk
+  - Monster/Typ/Humanoid/merfolk
 statblock: inline
 statblock-link: "#^statblock"
 aliases:

@@ -4,8 +4,8 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/wdh
-  - Gegenstand/gear/trade-good
-  - Gegenstand/rarity/none
+  - Gegenstand/Ausrüstung/Handelsgut
+  - Gegenstand/Seltenheit/keine
 aliases:
   - Adamantine Bar
 ---

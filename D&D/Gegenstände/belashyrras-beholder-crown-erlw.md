@@ -4,8 +4,8 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/erlw
-  - Gegenstand/attunement/required
-  - Gegenstand/rarity/legendary
+  - Gegenstand/Einstimmung/required
+  - Gegenstand/Seltenheit/legendär
 aliases:
   - Belashyrra's Beholder Crown
 ---

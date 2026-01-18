@@ -4,8 +4,8 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/wdmm
-  - Gegenstand/rarity/none
-  - Gegenstand/wondrous/other
+  - Gegenstand/Seltenheit/keine
+  - Gegenstand/wundersam/other
 aliases:
   - Tangler Grenade
 ---

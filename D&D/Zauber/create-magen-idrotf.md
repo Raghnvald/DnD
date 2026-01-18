@@ -5,7 +5,7 @@ cssclasses:
 tags:
   - Quelle/5e/idrotf
   - Zauber/Grad/7
-  - Zauber/Schule/transmutation
+  - Zauber/Schule/Verwandlung
 aliases:
   - Create Magen
 ---

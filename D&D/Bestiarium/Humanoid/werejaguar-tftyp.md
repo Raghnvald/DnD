@@ -6,8 +6,8 @@ tags:
   - Quelle/5e/tftyp
   - Monster/HG/4
   - Monster/Größe/Mittelgroß
-  - Monster/Typ/humanoid/human
-  - Monster/Typ/humanoid/shapechanger
+  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/shapechanger
 statblock: inline
 statblock-link: "#^statblock"
 aliases:

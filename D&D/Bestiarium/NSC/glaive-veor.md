@@ -6,7 +6,7 @@ tags:
   - Quelle/5e/veor
   - Monster/HG/11
   - Monster/Größe/Mittelgroß
-  - Monster/Typ/construct/warforged
+  - Monster/Typ/Konstrukt/warforged
 statblock: inline
 statblock-link: "#^statblock"
 aliases:

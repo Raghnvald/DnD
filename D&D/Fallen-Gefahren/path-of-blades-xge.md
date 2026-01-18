@@ -4,7 +4,7 @@ cssclasses:
 - json5e-hazard
 tags:
 - Quelle/5e/xge
-- Kompendium/hazard/cmpx
+- Kompendium/Bedrohung/cmpx
 aliases:
 - Path of Blades
 ---

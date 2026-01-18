@@ -6,8 +6,8 @@ tags:
   - Quelle/5e/bmt
   - Monster/HG/18
   - Monster/Größe/Mittelgroß
-  - Monster/Typ/monstrosity/druid
-  - Monster/Typ/monstrosity/medusa
+  - Monster/Typ/Monstrosität/druid
+  - Monster/Typ/Monstrosität/medusa
 statblock: inline
 statblock-link: "#^statblock"
 aliases:

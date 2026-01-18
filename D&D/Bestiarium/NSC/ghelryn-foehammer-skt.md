@@ -6,7 +6,7 @@ tags:
   - Quelle/5e/skt
   - Monster/HG/
   - Monster/Größe/Mittelgroß
-  - Monster/Typ/humanoid/shield-dwarf
+  - Monster/Typ/Humanoid/shield-dwarf
 statblock: inline
 statblock-link: "#^statblock"
 aliases:

@@ -4,10 +4,10 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/cm
-  - Gegenstand/attunement/required
-  - Gegenstand/rarity/very-rare
-  - Gegenstand/weapon/melee
-  - Gegenstand/weapon/simple
+  - Gegenstand/Einstimmung/required
+  - Gegenstand/Seltenheit/sehr_selten
+  - Gegenstand/Waffe/Nahkampf
+  - Gegenstand/Waffe/Einfach
 aliases:
   - Staff of Fate
 ---

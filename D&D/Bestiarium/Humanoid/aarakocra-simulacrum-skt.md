@@ -6,7 +6,7 @@ tags:
   - Quelle/5e/skt
   - Monster/HG/1-8
   - Monster/Größe/Mittelgroß
-  - Monster/Typ/humanoid/aarakocra
+  - Monster/Typ/Humanoid/aarakocra
 statblock: inline
 statblock-link: "#^statblock"
 aliases:

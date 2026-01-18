@@ -4,9 +4,9 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/tftyp
-  - Gegenstand/attunement/required
-  - Gegenstand/rarity/uncommon
-  - Gegenstand/wondrous/wand
+  - Gegenstand/Einstimmung/required
+  - Gegenstand/Seltenheit/ungewöhnlich
+  - Gegenstand/wundersam/wand
 aliases:
   - Wand of Entangle
 ---

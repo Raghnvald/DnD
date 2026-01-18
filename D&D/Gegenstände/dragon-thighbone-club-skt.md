@@ -4,10 +4,10 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/skt
-  - Gegenstand/attunement/optional
-  - Gegenstand/rarity/unknown/magic
-  - Gegenstand/weapon/melee
-  - Gegenstand/weapon/simple
+  - Gegenstand/Einstimmung/optional
+  - Gegenstand/Seltenheit/unbekannt/magic
+  - Gegenstand/Waffe/Nahkampf
+  - Gegenstand/Waffe/Einfach
 aliases:
   - Dragon Thighbone Club
 ---

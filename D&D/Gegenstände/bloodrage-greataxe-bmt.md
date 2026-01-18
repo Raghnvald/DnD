@@ -4,9 +4,9 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/bmt
-  - Gegenstand/rarity/uncommon
-  - Gegenstand/weapon/martial
-  - Gegenstand/weapon/melee
+  - Gegenstand/Seltenheit/ungewöhnlich
+  - Gegenstand/Waffe/Kriegswaffe
+  - Gegenstand/Waffe/Nahkampf
 aliases:
   - Bloodrage Greataxe
 ---

@@ -6,7 +6,7 @@ tags:
   - Quelle/5e/wdmm
   - Monster/HG/14
   - Monster/Größe/Mittelgroß
-  - Monster/Typ/undead/shapechanger
+  - Monster/Typ/Untote/shapechanger
 statblock: inline
 statblock-link: "#^statblock"
 aliases:

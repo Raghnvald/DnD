@@ -3,7 +3,7 @@ cssclasses:
   - json5e-item
 Bezeichnung: Spellwrought Tattoo
 tags:
-  - Gegenstand/Seltenheit/varies
+  - Gegenstand/Seltenheit/variiert
   - Gegenstand/wundersam/tattoo
   - Quelle/5e/tce
 aliases:

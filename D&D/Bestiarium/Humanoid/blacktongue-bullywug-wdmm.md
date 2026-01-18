@@ -6,7 +6,7 @@ tags:
   - Quelle/5e/wdmm
   - Monster/HG/1-4
   - Monster/Größe/Mittelgroß
-  - Monster/Typ/humanoid/bullywug
+  - Monster/Typ/Humanoid/bullywug
 statblock: inline
 statblock-link: "#^statblock"
 aliases:

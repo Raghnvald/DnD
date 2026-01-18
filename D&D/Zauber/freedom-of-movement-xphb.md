@@ -6,14 +6,14 @@ tags:
   - Quelle/5e/xphb
   - Kompendium/Hintergrund/dimir-operative
   - Kompendium/Hintergrund/simic-scientist
-  - Klasse/artificer
-  - Klasse/bard
-  - Klasse/cleric
-  - Klasse/druid
-  - Klasse/ranger
+  - Klasse/Artifizient
+  - Klasse/Barde
+  - Klasse/Kleriker
+  - Klasse/Druide
+  - Klasse/Waldläufer
   - Zauber/Grad/4
   - Zauber/optfeature/tricksters-escape
-  - Zauber/Schule/abjuration
+  - Zauber/Schule/Bann
   - Subklasse/circle-of-the-land/temperate-land
   - Subklasse/clockwork-sorcery
   - Subklasse/divine-soul/good

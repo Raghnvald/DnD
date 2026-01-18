@@ -4,13 +4,13 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/bmt
-  - Gegenstand/gear/spellcasting-focus
-  - Gegenstand/rarity/very-rare
-  - Gegenstand/weapon/martial
-  - Gegenstand/weapon/melee
-  - Gegenstand/weapon/ranged
-  - Gegenstand/weapon/simple
-  - Gegenstand/wondrous/generic-variant
+  - Gegenstand/Ausrüstung/Zauberfokus
+  - Gegenstand/Seltenheit/sehr_selten
+  - Gegenstand/Waffe/Kriegswaffe
+  - Gegenstand/Waffe/Nahkampf
+  - Gegenstand/Waffe/Fernkampf
+  - Gegenstand/Waffe/Einfach
+  - Gegenstand/wundersam/generic-variant
 aliases:
   - Forcebreaker Weapon
   - Forcebreaker Club

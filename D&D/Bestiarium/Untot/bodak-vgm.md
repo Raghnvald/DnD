@@ -5,11 +5,11 @@ cssclasses:
 tags:
   - Quelle/5e/vgm
   - Monster/HG/6
-  - Monster/Habitat/swamp
-  - Monster/Habitat/underdark
-  - Monster/Habitat/urban
+  - Monster/Habitat/Sumpf
+  - Monster/Habitat/Unterreich
+  - Monster/Habitat/Stadt
   - Monster/Größe/Mittelgroß
-  - Monster/Typ/undead
+  - Monster/Typ/Untote
 statblock: inline
 statblock-link: "#^statblock"
 aliases:

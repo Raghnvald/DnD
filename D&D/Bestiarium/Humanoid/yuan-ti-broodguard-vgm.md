@@ -5,11 +5,11 @@ cssclasses:
 tags:
   - Quelle/5e/vgm
   - Monster/HG/2
-  - Monster/Habitat/desert
-  - Monster/Habitat/forest
-  - Monster/Habitat/underdark
+  - Monster/Habitat/Wüste
+  - Monster/Habitat/Wald
+  - Monster/Habitat/Unterreich
   - Monster/Größe/Mittelgroß
-  - Monster/Typ/humanoid/yuan-ti
+  - Monster/Typ/Humanoid/yuan-ti
 statblock: inline
 statblock-link: "#^statblock"
 aliases:

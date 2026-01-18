@@ -6,7 +6,7 @@ tags:
   - Quelle/5e/jttrc
   - Monster/HG/13
   - Monster/Größe/Mittelgroß
-  - Monster/Typ/fiend/yugoloth
+  - Monster/Typ/Unhold/yugoloth
 statblock: inline
 statblock-link: "#^statblock"
 aliases:

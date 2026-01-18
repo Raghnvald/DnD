@@ -4,8 +4,8 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/wdh
-  - Gegenstand/rarity/uncommon
-  - Gegenstand/wondrous/wand
+  - Gegenstand/Seltenheit/ungewöhnlich
+  - Gegenstand/wundersam/wand
 aliases:
   - Charred Wand of Magic Missiles
 ---

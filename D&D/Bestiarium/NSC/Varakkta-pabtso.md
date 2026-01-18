@@ -3,7 +3,7 @@ tags:
   - Quelle/5e/pabtso
   - Monster/HG/8
   - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/Gith
+  - Monster/Typ/Humanoid/gith
 statblock: inline
 statblock-link: "#^statblock"
 aliases:

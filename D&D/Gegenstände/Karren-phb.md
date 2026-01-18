@@ -4,7 +4,7 @@ cssclasses:
 Bezeichnung: Cart
 tags:
   - Gegenstand/Seltenheit/keine
-  - Gegenstand/vehicle/land
+  - Gegenstand/Fortbewegung/land
   - Quelle/5e/phb
 aliases:
   - Cart

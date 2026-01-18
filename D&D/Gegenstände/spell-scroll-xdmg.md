@@ -3,7 +3,7 @@ cssclasses:
   - json5e-item
 Bezeichnung: Spell Scroll
 tags:
-  - Gegenstand/Seltenheit/varies
+  - Gegenstand/Seltenheit/variiert
   - Gegenstand/wundersam/Schriftrolle
   - Quelle/5e/xdmg
 aliases:

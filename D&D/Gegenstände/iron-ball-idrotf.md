@@ -4,9 +4,9 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/idrotf
-  - Gegenstand/rarity/unknown
-  - Gegenstand/weapon/ranged
-  - Gegenstand/weapon/simple
+  - Gegenstand/Seltenheit/unbekannt
+  - Gegenstand/Waffe/Fernkampf
+  - Gegenstand/Waffe/Einfach
 aliases:
   - Iron Ball
 ---

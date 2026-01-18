@@ -4,7 +4,7 @@ cssclasses:
 - json5e-hazard
 tags:
 - Quelle/5e/tce
-- Kompendium/hazard/wld
+- Kompendium/Bedrohung/wld
 aliases:
 - Falling into Water
 ---

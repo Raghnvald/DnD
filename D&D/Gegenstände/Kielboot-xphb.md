@@ -4,7 +4,7 @@ cssclasses:
 Bezeichnung: Keelboat
 tags:
   - Gegenstand/Seltenheit/keine
-  - Gegenstand/vehicle/ship-water
+  - Gegenstand/Fortbewegung/ship-water
   - Quelle/5e/xphb
 aliases:
   - Keelboat

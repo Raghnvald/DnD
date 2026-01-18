@@ -3,7 +3,7 @@ cssclasses:
   - json5e-item
 Bezeichnung: Silvered Weapon
 tags:
-  - Gegenstand/Seltenheit/unknown
+  - Gegenstand/Seltenheit/unbekannt
   - Gegenstand/Waffe/Einfach
   - Gegenstand/Waffe/Fernkampf
   - Gegenstand/Waffe/Kriegswaffe

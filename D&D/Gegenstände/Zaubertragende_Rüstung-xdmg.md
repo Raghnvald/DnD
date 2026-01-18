@@ -4,7 +4,7 @@ cssclasses:
 Bezeichnung: Enspelled Armor
 tags:
   - Gegenstand/Einstimmung/required
-  - Gegenstand/Seltenheit/varies
+  - Gegenstand/Seltenheit/variiert
   - Gegenstand/wundersam/generic-variant
   - Quelle/5e/xdmg
 aliases:

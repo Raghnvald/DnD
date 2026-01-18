@@ -4,8 +4,8 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/wdmm
-  - Gegenstand/armor/medium
-  - Gegenstand/rarity/uncommon
+  - Gegenstand/Rüstung/Mittel
+  - Gegenstand/Seltenheit/ungewöhnlich
 aliases:
   - Vanrak's Mithral Shirt
 ---

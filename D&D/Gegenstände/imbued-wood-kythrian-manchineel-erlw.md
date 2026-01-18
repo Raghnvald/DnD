@@ -4,11 +4,11 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/erlw
-  - Gegenstand/attunement/required
-  - Gegenstand/gear/spellcasting-focus
-  - Gegenstand/rarity/common
-  - Gegenstand/weapon/simple
-  - Gegenstand/wondrous/generic-variant
+  - Gegenstand/Einstimmung/required
+  - Gegenstand/Ausrüstung/Zauberfokus
+  - Gegenstand/Seltenheit/gewöhnlich
+  - Gegenstand/Waffe/Einfach
+  - Gegenstand/wundersam/generic-variant
 aliases:
   - Imbued Wood (Kythrian Manchineel)
   - Kythrian Manchineel Rod

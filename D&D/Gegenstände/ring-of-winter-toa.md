@@ -4,9 +4,9 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/toa
-  - Gegenstand/attunement/required
-  - Gegenstand/rarity/artifact
-  - Gegenstand/wondrous/ring
+  - Gegenstand/Einstimmung/required
+  - Gegenstand/Seltenheit/Artefakt
+  - Gegenstand/wundersam/ring
 aliases:
   - Ring of Winter
 ---

@@ -5,7 +5,7 @@ cssclasses:
 tags:
   - Quelle/5e/bmt
   - Zauber/Grad/4
-  - Zauber/Schule/necromancy
+  - Zauber/Schule/Nekromantie
 aliases:
   - Spirit of Death
 ---

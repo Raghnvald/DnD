@@ -4,9 +4,9 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/toa
-  - Gegenstand/armor/heavy
-  - Gegenstand/attunement/required
-  - Gegenstand/rarity/rare
+  - Gegenstand/Rüstung/Schwer
+  - Gegenstand/Einstimmung/required
+  - Gegenstand/Seltenheit/selten
 aliases:
   - Scorpion Armor
 ---

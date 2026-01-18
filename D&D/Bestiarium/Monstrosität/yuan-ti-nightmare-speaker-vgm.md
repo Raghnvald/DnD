@@ -5,12 +5,12 @@ cssclasses:
 tags:
   - Quelle/5e/vgm
   - Monster/HG/4
-  - Monster/Habitat/desert
-  - Monster/Habitat/forest
-  - Monster/Habitat/underdark
+  - Monster/Habitat/Wüste
+  - Monster/Habitat/Wald
+  - Monster/Habitat/Unterreich
   - Monster/Größe/Mittelgroß
-  - Monster/Typ/monstrosity/shapechanger
-  - Monster/Typ/monstrosity/yuan-ti
+  - Monster/Typ/Monstrosität/shapechanger
+  - Monster/Typ/Monstrosität/yuan-ti
 statblock: inline
 statblock-link: "#^statblock"
 aliases:

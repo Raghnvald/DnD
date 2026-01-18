@@ -4,9 +4,9 @@ cssclasses:
   - json5e-vehicle
 tags:
   - Quelle/5e/gos
-  - Kompendium/vehicle/size/large
-  - Kompendium/vehicle/terrain/sea
-  - Kompendium/vehicle/type/ship
+  - Gegenstand/Fortbewegung/size/large
+  - Gegenstand/Fortbewegung/terrain/sea
+  - Gegenstand/Fortbewegung/type/ship
 aliases:
   - Rowboat
 ---

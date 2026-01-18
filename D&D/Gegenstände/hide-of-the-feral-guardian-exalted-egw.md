@@ -4,9 +4,9 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/egw
-  - Gegenstand/armor/light
-  - Gegenstand/attunement/required
-  - Gegenstand/rarity/legendary
+  - Gegenstand/Rüstung/Leicht
+  - Gegenstand/Einstimmung/required
+  - Gegenstand/Seltenheit/legendär
 aliases:
   - Hide of the Feral Guardian (Exalted)
 ---

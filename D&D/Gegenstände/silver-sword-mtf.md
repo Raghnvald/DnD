@@ -4,11 +4,11 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/mtf
-  - Gegenstand/attunement/required
-  - Gegenstand/rarity/unknown/magic
+  - Gegenstand/Einstimmung/required
+  - Gegenstand/Seltenheit/unbekannt/magic
   - Gegenstand/tier/major
-  - Gegenstand/weapon/martial
-  - Gegenstand/weapon/melee
+  - Gegenstand/Waffe/Kriegswaffe
+  - Gegenstand/Waffe/Nahkampf
 aliases:
   - Silver Sword
 ---

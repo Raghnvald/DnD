@@ -6,7 +6,7 @@ tags:
   - Quelle/5e/bmt
   - Monster/HG/9
   - Monster/Größe/Mittelgroß
-  - Monster/Typ/humanoid/paladin
+  - Monster/Typ/Humanoid/paladin
 statblock: inline
 statblock-link: "#^statblock"
 aliases:

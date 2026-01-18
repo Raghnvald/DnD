@@ -6,7 +6,7 @@ tags:
   - Quelle/5e/veor
   - Monster/HG/26
   - Monster/Größe/Mittelgroß
-  - Monster/Typ/undead/wizard
+  - Monster/Typ/Untote/wizard
 statblock: inline
 statblock-link: "#^statblock"
 aliases:

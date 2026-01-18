@@ -4,10 +4,10 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/tdcsr
-  - Gegenstand/attunement/required
-  - Gegenstand/rarity/legendary
-  - Gegenstand/weapon/melee
-  - Gegenstand/weapon/simple
+  - Gegenstand/Einstimmung/required
+  - Gegenstand/Seltenheit/legendär
+  - Gegenstand/Waffe/Nahkampf
+  - Gegenstand/Waffe/Einfach
 aliases:
   - Whisper (Exalted)
 ---

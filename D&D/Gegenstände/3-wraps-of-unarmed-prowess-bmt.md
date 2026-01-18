@@ -4,7 +4,7 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/bmt
-  - Gegenstand/rarity/very-rare
+  - Gegenstand/Seltenheit/sehr_selten
 aliases:
   - +3 Wraps of Unarmed Prowess
 ---

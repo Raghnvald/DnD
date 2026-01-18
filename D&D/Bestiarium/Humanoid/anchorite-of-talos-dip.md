@@ -6,8 +6,8 @@ tags:
   - Quelle/5e/dip
   - Monster/HG/3
   - Monster/Größe/Mittelgroß
-  - Monster/Typ/humanoid/half-orc
-  - Monster/Typ/humanoid/shapechanger
+  - Monster/Typ/Humanoid/half-orc
+  - Monster/Typ/Humanoid/shapechanger
 statblock: inline
 statblock-link: "#^statblock"
 aliases:

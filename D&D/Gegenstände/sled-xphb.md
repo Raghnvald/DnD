@@ -4,7 +4,7 @@ cssclasses:
 Bezeichnung: Sled
 tags:
   - Gegenstand/Seltenheit/keine
-  - Gegenstand/vehicle/land
+  - Gegenstand/Fortbewegung/land
   - Quelle/5e/xphb
 aliases:
   - Sled

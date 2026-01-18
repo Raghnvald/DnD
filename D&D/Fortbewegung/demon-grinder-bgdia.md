@@ -3,9 +3,9 @@ cssclasses:
   - json5e-vehicle
 tags:
   - Quelle/5e/bgdia
-  - Kompendium/vehicle/size/gargantuan
-  - Kompendium/vehicle/terrain/land
-  - Kompendium/vehicle/type/infernal-war-machine
+  - Gegenstand/Fortbewegung/size/gargantuan
+  - Gegenstand/Fortbewegung/terrain/land
+  - Gegenstand/Fortbewegung/type/infernal-war-machine
 aliases:
   - Demon Grinder
 ---

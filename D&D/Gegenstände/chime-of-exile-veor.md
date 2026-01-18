@@ -4,7 +4,7 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/veor
-  - Gegenstand/rarity/very-rare
+  - Gegenstand/Seltenheit/sehr_selten
 aliases:
   - Chime of Exile
 ---

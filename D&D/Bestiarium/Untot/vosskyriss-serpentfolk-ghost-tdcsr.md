@@ -5,12 +5,12 @@ cssclasses:
 tags:
   - Quelle/5e/tdcsr
   - Monster/HG/4
-  - Monster/Habitat/coastal
-  - Monster/Habitat/desert
-  - Monster/Habitat/forest
-  - Monster/Habitat/swamp
+  - Monster/Habitat/Küste
+  - Monster/Habitat/Wüste
+  - Monster/Habitat/Wald
+  - Monster/Habitat/Sumpf
   - Monster/Größe/Groß
-  - Monster/Typ/undead
+  - Monster/Typ/Untote
 statblock: inline
 statblock-link: "#^statblock"
 aliases:

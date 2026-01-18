@@ -4,7 +4,7 @@ cssclasses:
 Bezeichnung: Scaled Ornament
 tags:
   - Gegenstand/Einstimmung/required
-  - Gegenstand/Seltenheit/varies
+  - Gegenstand/Seltenheit/variiert
   - Quelle/5e/ftd
 aliases:
   - Scaled Ornament

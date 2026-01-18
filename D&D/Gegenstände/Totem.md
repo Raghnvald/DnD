@@ -5,7 +5,7 @@ Eigenschaften: n/v
 Kst.: 1 GM
 Gew.: n/v
 tags:
-  - Gegenstand/Ausrüstung/spellcasting-focus
+  - Gegenstand/Ausrüstung/Zauberfokus
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 ---

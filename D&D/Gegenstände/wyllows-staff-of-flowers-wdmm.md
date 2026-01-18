@@ -4,9 +4,9 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/wdmm
-  - Gegenstand/attunement/required
-  - Gegenstand/rarity/common
-  - Gegenstand/weapon/simple
+  - Gegenstand/Einstimmung/required
+  - Gegenstand/Seltenheit/gewöhnlich
+  - Gegenstand/Waffe/Einfach
 aliases:
   - Wyllow's Staff of Flowers
 ---

@@ -4,9 +4,9 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/tdcsr
-  - Gegenstand/armor/medium
-  - Gegenstand/attunement/required
-  - Gegenstand/rarity/legendary
+  - Gegenstand/Rüstung/Mittel
+  - Gegenstand/Einstimmung/required
+  - Gegenstand/Seltenheit/legendär
 aliases:
   - Armor of the Valiant Soul
 ---

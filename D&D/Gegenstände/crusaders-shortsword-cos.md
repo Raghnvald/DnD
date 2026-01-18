@@ -4,7 +4,7 @@ cssclasses:
 Bezeichnung: "Crusader's Shortsword"
 tags:
   - Gegenstand/Einstimmung/required
-  - Gegenstand/Seltenheit/unknown/magic
+  - Gegenstand/Seltenheit/unbekannt/magic
   - Gegenstand/Waffe/Kriegswaffe
   - Gegenstand/Waffe/Nahkampf
   - Quelle/5e/cos

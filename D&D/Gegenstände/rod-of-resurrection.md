@@ -5,7 +5,7 @@ Bezeichnung: Rod of Resurrection
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
-  - Gegenstand/wundersam/rod
+  - Gegenstand/wundersam/Rute
   - Quelle/5e/dmg
 aliases:
   - Rod of Resurrection

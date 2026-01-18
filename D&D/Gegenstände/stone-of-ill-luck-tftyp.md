@@ -4,8 +4,8 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/tftyp
-  - Gegenstand/attunement/required
-  - Gegenstand/rarity/uncommon
+  - Gegenstand/Einstimmung/required
+  - Gegenstand/Seltenheit/ungewöhnlich
 aliases:
   - Stone of Ill Luck
 ---

@@ -4,8 +4,8 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/tdcsr
-  - Gegenstand/rarity/none
-  - Gegenstand/weapon/explosive
+  - Gegenstand/Seltenheit/keine
+  - Gegenstand/Waffe/explosive
 aliases:
   - Gluebomb
 ---

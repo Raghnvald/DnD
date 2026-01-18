@@ -8,7 +8,7 @@ HG:
 status:
 image:
 tags:
-  - Quelle/5e/Helianas_Guide_To_Monster_Hunting_1
+  - Quelle/5e/hgtmh1
   - Monster/Typ/Aberration
 aliases:
   - 

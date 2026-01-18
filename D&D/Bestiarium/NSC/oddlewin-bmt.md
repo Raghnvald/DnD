@@ -6,7 +6,7 @@ tags:
   - Quelle/5e/bmt
   - Monster/HG/2
   - Monster/Größe/Klein
-  - Monster/Typ/fey/goblinoid
+  - Monster/Typ/Fee/goblinoid
 statblock: inline
 statblock-link: "#^statblock"
 aliases:

@@ -6,7 +6,7 @@ tags:
   - Quelle/5e/toa
   - Monster/HG/1
   - Monster/Größe/Mittelgroß
-  - Monster/Typ/humanoid/yuan-ti
+  - Monster/Typ/Humanoid/yuan-ti
 statblock: inline
 statblock-link: "#^statblock"
 aliases:

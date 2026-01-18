@@ -4,8 +4,8 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/toa
-  - Gegenstand/rarity/none
-  - Gegenstand/vehicle/ship-water
+  - Gegenstand/Seltenheit/keine
+  - Gegenstand/Fortbewegung/ship-water
 aliases:
   - Canoe
 ---

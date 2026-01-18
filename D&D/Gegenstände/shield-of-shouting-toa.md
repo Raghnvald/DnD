@@ -4,8 +4,8 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/toa
-  - Gegenstand/rarity/unknown/magic
-  - Gegenstand/shield/
+  - Gegenstand/Seltenheit/unbekannt/magic
+  - Gegenstand/Rüstung/Schild/
 aliases:
   - Shield of Shouting
 ---

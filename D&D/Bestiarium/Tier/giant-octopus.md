@@ -7,7 +7,7 @@ tags:
   - Monster/HG/1
   - Monster/Habitat/underwater
   - Monster/Größe/Groß
-  - Monster/Typ/beast
+  - Monster/Typ/Tier
 statblock: inline
 statblock-link: "#^statblock"
 aliases:

@@ -4,8 +4,8 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/wdh
-  - Gegenstand/rarity/unknown
-  - Gegenstand/wondrous/other
+  - Gegenstand/Seltenheit/unbekannt
+  - Gegenstand/wundersam/other
 aliases:
   - Backpack Parachute
 ---

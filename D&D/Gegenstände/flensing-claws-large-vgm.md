@@ -3,7 +3,7 @@ cssclasses:
   - json5e-item
 Bezeichnung: Flensing Claws (Large)
 tags:
-  - Gegenstand/Seltenheit/unknown
+  - Gegenstand/Seltenheit/unbekannt
   - Gegenstand/wundersam/other
   - Quelle/5e/vgm
 aliases:

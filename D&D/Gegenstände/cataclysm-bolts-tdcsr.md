@@ -4,8 +4,8 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/tdcsr
-  - Gegenstand/gear/ammunition
-  - Gegenstand/rarity/very-rare
+  - Gegenstand/Ausrüstung/ammunition
+  - Gegenstand/Seltenheit/sehr_selten
 aliases:
   - Cataclysm Bolts
 ---

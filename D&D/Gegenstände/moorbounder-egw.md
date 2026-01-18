@@ -4,8 +4,8 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/egw
-  - Gegenstand/gear/mount
-  - Gegenstand/rarity/none
+  - Gegenstand/Ausrüstung/Reit-und-Lastentier
+  - Gegenstand/Seltenheit/keine
 aliases:
   - Moorbounder
 ---

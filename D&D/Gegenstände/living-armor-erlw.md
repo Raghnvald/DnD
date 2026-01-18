@@ -4,12 +4,12 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/erlw
-  - Gegenstand/armor/heavy
-  - Gegenstand/armor/light
-  - Gegenstand/armor/medium
-  - Gegenstand/attunement/required
-  - Gegenstand/rarity/very-rare
-  - Gegenstand/wondrous/generic-variant
+  - Gegenstand/Rüstung/Schwer
+  - Gegenstand/Rüstung/Leicht
+  - Gegenstand/Rüstung/Mittel
+  - Gegenstand/Einstimmung/required
+  - Gegenstand/Seltenheit/sehr_selten
+  - Gegenstand/wundersam/generic-variant
 aliases:
   - Living Armor
   - Living Breastplate

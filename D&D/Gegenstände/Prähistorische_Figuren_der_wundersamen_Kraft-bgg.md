@@ -1,7 +1,7 @@
 ---
 Bezeichnung: Prehistoric Figurine of Wondrous Power
 tags:
-  - Gegenstand/Seltenheit/varies
+  - Gegenstand/Seltenheit/variiert
   - Quelle/5e/bgg
 aliases:
   - Prehistoric Figurine of Wondrous Power

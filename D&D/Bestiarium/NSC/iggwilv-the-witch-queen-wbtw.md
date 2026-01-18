@@ -6,7 +6,7 @@ tags:
   - Quelle/5e/wbtw
   - Monster/HG/20
   - Monster/Größe/Mittelgroß
-  - Monster/Typ/fey/wizard
+  - Monster/Typ/Fee/wizard
 statblock: inline
 statblock-link: "#^statblock"
 aliases:

@@ -5,11 +5,11 @@ cssclasses:
 tags:
   - Quelle/5e/tdcsr
   - Monster/HG/5
-  - Monster/Habitat/arctic
-  - Monster/Habitat/forest
-  - Monster/Habitat/mountain
+  - Monster/Habitat/Arktis
+  - Monster/Habitat/Wald
+  - Monster/Habitat/Berg
   - Monster/Größe/Mittelgroß
-  - Monster/Typ/elemental
+  - Monster/Typ/Elementar
 statblock: inline
 statblock-link: "#^statblock"
 aliases:

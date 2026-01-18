@@ -3,7 +3,7 @@ cssclasses:
   - json5e-item
 Bezeichnung: Horn of Valhalla
 tags:
-  - Gegenstand/Seltenheit/varies
+  - Gegenstand/Seltenheit/variiert
   - Quelle/5e/xdmg
 aliases:
   - Horn of Valhalla

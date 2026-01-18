@@ -4,9 +4,9 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/wdh
-  - Gegenstand/rarity/unknown
-  - Gegenstand/weapon/martial
-  - Gegenstand/weapon/ranged
+  - Gegenstand/Seltenheit/unbekannt
+  - Gegenstand/Waffe/Kriegswaffe
+  - Gegenstand/Waffe/Fernkampf
 aliases:
   - Oversized Longbow
 ---

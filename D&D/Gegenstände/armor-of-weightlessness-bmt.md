@@ -4,12 +4,12 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/bmt
-  - Gegenstand/armor/heavy
-  - Gegenstand/armor/light
-  - Gegenstand/armor/medium
-  - Gegenstand/attunement/required
-  - Gegenstand/rarity/uncommon
-  - Gegenstand/wondrous/generic-variant
+  - Gegenstand/Rüstung/Schwer
+  - Gegenstand/Rüstung/Leicht
+  - Gegenstand/Rüstung/Mittel
+  - Gegenstand/Einstimmung/required
+  - Gegenstand/Seltenheit/ungewöhnlich
+  - Gegenstand/wundersam/generic-variant
 aliases:
   - Armor of Weightlessness
   - Breastplate of Weightlessness

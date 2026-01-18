@@ -4,11 +4,11 @@ cssclasses:
   - json5e-spell
 tags:
   - Quelle/5e/xphb
-  - Klasse/bard
-  - Klasse/cleric
-  - Klasse/druid
+  - Klasse/Barde
+  - Klasse/Kleriker
+  - Klasse/Druide
   - Zauber/Grad/5
-  - Zauber/Schule/necromancy
+  - Zauber/Schule/Nekromantie
   - Subklasse/circle-of-spores
   - Subklasse/divine-soul/good
   - Subklasse/oathbreaker

@@ -5,12 +5,12 @@ cssclasses:
 tags:
   - Quelle/5e/vgm
   - Monster/HG/1-2
-  - Monster/Habitat/desert
-  - Monster/Habitat/hill
-  - Monster/Habitat/mountain
-  - Monster/Habitat/underdark
+  - Monster/Habitat/Wüste
+  - Monster/Habitat/Hügel
+  - Monster/Habitat/Berg
+  - Monster/Habitat/Unterreich
   - Monster/Größe/Mittelgroß
-  - Monster/Typ/humanoid/firenewt
+  - Monster/Typ/Humanoid/firenewt
 statblock: inline
 statblock-link: "#^statblock"
 aliases:

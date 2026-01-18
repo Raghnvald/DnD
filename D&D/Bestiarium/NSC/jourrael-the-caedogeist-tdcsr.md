@@ -6,7 +6,7 @@ tags:
   - Quelle/5e/tdcsr
   - Monster/HG/15
   - Monster/Größe/Mittelgroß
-  - Monster/Typ/fiend/drow
+  - Monster/Typ/Unhold/drow
 statblock: inline
 statblock-link: "#^statblock"
 aliases:

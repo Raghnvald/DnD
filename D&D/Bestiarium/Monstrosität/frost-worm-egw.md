@@ -6,7 +6,7 @@ tags:
   - Quelle/5e/egw
   - Monster/HG/17
   - Monster/Größe/Gigantisch
-  - Monster/Typ/monstrosity
+  - Monster/Typ/Monstrosität
 statblock: inline
 statblock-link: "#^statblock"
 aliases:

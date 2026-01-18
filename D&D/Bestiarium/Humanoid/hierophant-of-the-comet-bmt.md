@@ -6,7 +6,7 @@ tags:
   - Quelle/5e/bmt
   - Monster/HG/11
   - Monster/Größe/Mittelgroß
-  - Monster/Typ/humanoid/warlock
+  - Monster/Typ/Humanoid/warlock
 statblock: inline
 statblock-link: "#^statblock"
 aliases:

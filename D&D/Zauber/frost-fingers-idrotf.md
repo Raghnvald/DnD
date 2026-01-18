@@ -5,7 +5,7 @@ cssclasses:
 tags:
   - Quelle/5e/idrotf
   - Zauber/Grad/1
-  - Zauber/Schule/evocation
+  - Zauber/Schule/Hervorrufung
 aliases:
   - Frost Fingers
 ---

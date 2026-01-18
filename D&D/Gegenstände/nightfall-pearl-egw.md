@@ -4,8 +4,8 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/egw
-  - Gegenstand/attunement/required
-  - Gegenstand/rarity/legendary
+  - Gegenstand/Einstimmung/required
+  - Gegenstand/Seltenheit/legendär
 aliases:
   - Nightfall Pearl
 ---

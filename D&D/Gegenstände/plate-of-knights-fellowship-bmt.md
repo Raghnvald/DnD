@@ -4,9 +4,9 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/bmt
-  - Gegenstand/armor/heavy
-  - Gegenstand/attunement/required
-  - Gegenstand/rarity/uncommon
+  - Gegenstand/Rüstung/Schwer
+  - Gegenstand/Einstimmung/required
+  - Gegenstand/Seltenheit/ungewöhnlich
 aliases:
   - Plate of Knight's Fellowship
 ---

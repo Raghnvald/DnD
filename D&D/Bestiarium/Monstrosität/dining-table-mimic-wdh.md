@@ -6,7 +6,7 @@ tags:
   - Quelle/5e/wdh
   - Monster/HG/3
   - Monster/Größe/Groß
-  - Monster/Typ/monstrosity/shapechanger
+  - Monster/Typ/Monstrosität/shapechanger
 statblock: inline
 statblock-link: "#^statblock"
 aliases:

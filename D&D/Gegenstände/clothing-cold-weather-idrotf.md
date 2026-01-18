@@ -4,8 +4,8 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/idrotf
-  - Gegenstand/gear/
-  - Gegenstand/rarity/none
+  - Gegenstand/Ausrüstung/
+  - Gegenstand/Seltenheit/keine
 aliases:
   - Clothing, cold weather
 ---

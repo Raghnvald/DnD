@@ -4,7 +4,7 @@ cssclasses:
 Bezeichnung: Ioun Stone
 tags:
   - Gegenstand/Einstimmung/required
-  - Gegenstand/Seltenheit/varies
+  - Gegenstand/Seltenheit/variiert
   - Quelle/5e/dmg
 aliases:
   - Ioun Stone

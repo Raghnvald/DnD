@@ -16,7 +16,7 @@ tags:
   - Subklasse/Mystischer-Ritter
   - Subrasse/elf-eladrin
   - Zauber/Grad/2
-  - Zauber/reward/boon-of-dimensional-travel
+  - Zauber/Belohnung/boon-of-dimensional-travel
   - Zauber/Schule/Beschwörung
 classes:
   - Bard (Magical Secrets)

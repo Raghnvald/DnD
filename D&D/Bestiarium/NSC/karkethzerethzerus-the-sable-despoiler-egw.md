@@ -6,7 +6,7 @@ tags:
   - Quelle/5e/egw
   - Monster/HG/23
   - Monster/Größe/Gigantisch
-  - Monster/Typ/dragon
+  - Monster/Typ/Drache
 statblock: inline
 statblock-link: "#^statblock"
 aliases:

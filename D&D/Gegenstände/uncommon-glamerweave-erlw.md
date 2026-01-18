@@ -4,7 +4,7 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/erlw
-  - Gegenstand/rarity/uncommon
+  - Gegenstand/Seltenheit/ungewöhnlich
 aliases:
   - Uncommon Glamerweave
 ---

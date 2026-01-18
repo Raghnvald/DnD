@@ -4,12 +4,12 @@ cssclasses:
   - json5e-spell
 tags:
   - Quelle/5e/tdcsr
-  - Klasse/bard
-  - Klasse/druid
-  - Klasse/ranger
-  - Klasse/sorcerer
+  - Klasse/Barde
+  - Klasse/Druide
+  - Klasse/Waldläufer
+  - Klasse/Zauberer
   - Zauber/Grad/5
-  - Zauber/Schule/abjuration
+  - Zauber/Schule/Bann
   - Subklasse/oath-of-the-open-sea
 classes:
   - Bard

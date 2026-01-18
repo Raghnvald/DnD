@@ -6,8 +6,8 @@ tags:
   - Quelle/5e/veor
   - Monster/HG/3
   - Monster/Größe/Klein
-  - Monster/Typ/humanoid/human
-  - Monster/Typ/humanoid/shapechanger
+  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/shapechanger
 statblock: inline
 statblock-link: "#^statblock"
 aliases:

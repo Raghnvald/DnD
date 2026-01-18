@@ -6,7 +6,7 @@ tags:
   - Quelle/5e/toa
   - Monster/HG/1
   - Monster/Größe/Klein
-  - Monster/Typ/humanoid/goblinoid
+  - Monster/Typ/Humanoid/goblinoid
 statblock: inline
 statblock-link: "#^statblock"
 aliases:

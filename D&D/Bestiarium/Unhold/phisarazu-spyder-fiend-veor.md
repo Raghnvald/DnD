@@ -6,7 +6,7 @@ tags:
   - Quelle/5e/veor
   - Monster/HG/13
   - Monster/Größe/Groß
-  - Monster/Typ/fiend/demon
+  - Monster/Typ/Unhold/demon
 statblock: inline
 statblock-link: "#^statblock"
 aliases:

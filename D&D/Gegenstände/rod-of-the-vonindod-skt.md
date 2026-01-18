@@ -4,9 +4,9 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/skt
-  - Gegenstand/attunement/required
-  - Gegenstand/rarity/rare
-  - Gegenstand/wondrous/rod
+  - Gegenstand/Einstimmung/required
+  - Gegenstand/Seltenheit/selten
+  - Gegenstand/wundersam/Rute
 aliases:
   - Rod of the Vonindod
 ---

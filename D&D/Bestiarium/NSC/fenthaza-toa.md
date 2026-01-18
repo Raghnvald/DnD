@@ -6,8 +6,8 @@ tags:
   - Quelle/5e/toa
   - Monster/HG/4
   - Monster/Größe/Mittelgroß
-  - Monster/Typ/monstrosity/shapechanger
-  - Monster/Typ/monstrosity/yuan-ti
+  - Monster/Typ/Monstrosität/shapechanger
+  - Monster/Typ/Monstrosität/yuan-ti
 statblock: inline
 statblock-link: "#^statblock"
 aliases:

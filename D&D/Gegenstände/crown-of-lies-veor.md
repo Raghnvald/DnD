@@ -4,8 +4,8 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/veor
-  - Gegenstand/attunement/required
-  - Gegenstand/rarity/artifact
+  - Gegenstand/Einstimmung/required
+  - Gegenstand/Seltenheit/Artefakt
 aliases:
   - Crown of Lies
 ---

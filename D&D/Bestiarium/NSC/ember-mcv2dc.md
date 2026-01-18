@@ -6,7 +6,7 @@ tags:
   - Quelle/5e/mcv2dc
   - Monster/HG/22
   - Monster/Größe/Riesig
-  - Monster/Typ/dragon/adult-chromatic
+  - Monster/Typ/Drache/adult-chromatic
 statblock: inline
 statblock-link: "#^statblock"
 aliases:

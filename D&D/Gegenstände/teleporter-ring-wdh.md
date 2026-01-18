@@ -4,8 +4,8 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/wdh
-  - Gegenstand/rarity/unknown/magic
-  - Gegenstand/wondrous/ring
+  - Gegenstand/Seltenheit/unbekannt/magic
+  - Gegenstand/wundersam/ring
 aliases:
   - Teleporter Ring
 ---

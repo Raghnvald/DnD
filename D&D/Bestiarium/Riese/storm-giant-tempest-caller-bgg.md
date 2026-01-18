@@ -6,7 +6,7 @@ tags:
   - Quelle/5e/bgg
   - Monster/HG/20
   - Monster/Größe/Riesig
-  - Monster/Typ/giant/sorcerer
+  - Monster/Typ/Riese/sorcerer
 statblock: inline
 statblock-link: "#^statblock"
 aliases:

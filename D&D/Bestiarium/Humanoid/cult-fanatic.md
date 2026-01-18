@@ -5,9 +5,9 @@ cssclasses:
 tags:
   - Quelle/5e/mm
   - Monster/HG/2
-  - Monster/Habitat/urban
+  - Monster/Habitat/Stadt
   - Monster/Größe/Mittelgroß
-  - Monster/Typ/humanoid/any-race
+  - Monster/Typ/Humanoid/any-race
 statblock: inline
 statblock-link: "#^statblock"
 aliases:

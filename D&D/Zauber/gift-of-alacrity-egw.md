@@ -6,7 +6,7 @@ tags:
   - Quelle/5e/egw
   - Kompendium/Talent/fey-touched
   - Zauber/Grad/1
-  - Zauber/Schule/divination
+  - Zauber/Schule/Erkenntnis
 aliases:
   - Gift of Alacrity
 ---

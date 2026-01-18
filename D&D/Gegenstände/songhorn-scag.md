@@ -4,8 +4,8 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/scag
-  - Gegenstand/gear/instrument
-  - Gegenstand/rarity/none
+  - Gegenstand/Ausrüstung/Instrument
+  - Gegenstand/Seltenheit/keine
 aliases:
   - Songhorn
 ---

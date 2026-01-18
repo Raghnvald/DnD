@@ -3,7 +3,7 @@ cssclasses:
   - json5e-hazard
 tags:
   - Quelle/5e/dmg
-  - Kompendium/hazard/wld
+  - Kompendium/Bedrohung/wld
 aliases:
   - Desecrated Ground
 ---

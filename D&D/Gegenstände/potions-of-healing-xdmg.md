@@ -3,7 +3,7 @@ cssclasses:
   - json5e-item
 Bezeichnung: Potions of Healing
 tags:
-  - Gegenstand/Seltenheit/varies
+  - Gegenstand/Seltenheit/variiert
   - Gegenstand/wundersam/Trank
   - Quelle/5e/xdmg
 aliases:

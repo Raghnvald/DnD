@@ -4,7 +4,7 @@ cssclasses:
 Bezeichnung: Instrument of the Bards
 tags:
   - Gegenstand/Einstimmung/required
-  - Gegenstand/Seltenheit/varies
+  - Gegenstand/Seltenheit/variiert
   - Quelle/5e/xdmg
 aliases:
   - Instrument of the Bards

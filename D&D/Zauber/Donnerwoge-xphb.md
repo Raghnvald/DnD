@@ -26,7 +26,7 @@ tags:
   - Subklasse/the-genie/djinni
   - Zauber/Grad/1
   - Zauber/optfeature/fist-of-four-thunders
-  - Zauber/reward/boon-of-the-stormborn
+  - Zauber/Belohnung/boon-of-the-stormborn
   - Zauber/Schule/Hervorrufung
 classes:
   - Artificer (Armorer)

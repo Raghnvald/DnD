@@ -6,7 +6,7 @@ tags:
   - Quelle/5e/tdcsr
   - Monster/HG/18
   - Monster/Größe/Mittelgroß
-  - Monster/Typ/humanoid/half-giant
+  - Monster/Typ/Humanoid/half-giant
 statblock: inline
 statblock-link: "#^statblock"
 aliases:

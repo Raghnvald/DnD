@@ -6,7 +6,7 @@ tags:
   - Quelle/5e/gos
   - Monster/HG/3
   - Monster/Größe/Mittelgroß
-  - Monster/Typ/humanoid/sahuagin
+  - Monster/Typ/Humanoid/sahuagin
 statblock: inline
 statblock-link: "#^statblock"
 aliases:

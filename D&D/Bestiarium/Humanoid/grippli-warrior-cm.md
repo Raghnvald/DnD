@@ -6,7 +6,7 @@ tags:
   - Quelle/5e/cm
   - Monster/HG/1-4
   - Monster/Größe/Klein
-  - Monster/Typ/humanoid/grippli
+  - Monster/Typ/Humanoid/grippli
 statblock: inline
 statblock-link: "#^statblock"
 aliases:

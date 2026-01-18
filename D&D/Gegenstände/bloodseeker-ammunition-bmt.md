@@ -4,11 +4,11 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/bmt
-  - Gegenstand/age/futuristic
-  - Gegenstand/gear/ammunition
-  - Gegenstand/gear/ammunition-firearm
-  - Gegenstand/rarity/very-rare
-  - Gegenstand/wondrous/generic-variant
+  - Gegenstand/Zeitalter/Futuristisch
+  - Gegenstand/Ausrüstung/ammunition
+  - Gegenstand/Ausrüstung/ammunition-firearm
+  - Gegenstand/Seltenheit/sehr_selten
+  - Gegenstand/wundersam/generic-variant
 aliases:
   - Bloodseeker Ammunition
   - Bloodseeker Arrow

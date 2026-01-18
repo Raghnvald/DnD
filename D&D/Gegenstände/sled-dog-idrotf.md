@@ -4,8 +4,8 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/idrotf
-  - Gegenstand/gear/mount
-  - Gegenstand/rarity/none
+  - Gegenstand/Ausrüstung/Reit-und-Lastentier
+  - Gegenstand/Seltenheit/keine
 aliases:
   - Sled Dog
 ---

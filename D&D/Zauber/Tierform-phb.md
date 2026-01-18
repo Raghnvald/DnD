@@ -4,10 +4,10 @@ cssclasses:
   - json5e-spell
 tags:
   - Quelle/5e/phb
-  - Klasse/bard/magical-secrets
-  - Klasse/druid
+  - Klasse/Barde/magical-secrets
+  - Klasse/Druide
   - Zauber/Grad/8
-  - Zauber/Schule/transmutation
+  - Zauber/Schule/Verwandlung
 classes:
   - Bard (Magical Secrets)
   - Druid

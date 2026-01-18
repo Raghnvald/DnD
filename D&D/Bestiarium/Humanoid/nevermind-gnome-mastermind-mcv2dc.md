@@ -6,7 +6,7 @@ tags:
   - Quelle/5e/mcv2dc
   - Monster/HG/5
   - Monster/Größe/Klein
-  - Monster/Typ/humanoid
+  - Monster/Typ/Humanoid
 statblock: inline
 statblock-link: "#^statblock"
 aliases:

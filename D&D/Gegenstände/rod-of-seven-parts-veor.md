@@ -4,10 +4,10 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/veor
-  - Gegenstand/attunement/required
-  - Gegenstand/rarity/artifact
-  - Gegenstand/weapon/simple
-  - Gegenstand/wondrous/rod
+  - Gegenstand/Einstimmung/required
+  - Gegenstand/Seltenheit/Artefakt
+  - Gegenstand/Waffe/Einfach
+  - Gegenstand/wundersam/Rute
 aliases:
   - Rod of Seven Parts
 ---

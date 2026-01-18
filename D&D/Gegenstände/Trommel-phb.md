@@ -3,7 +3,7 @@ cssclasses:
   - json5e-item
 Bezeichnung: Drum
 tags:
-  - Gegenstand/Ausrüstung/instrument
+  - Gegenstand/Ausrüstung/Instrument
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:

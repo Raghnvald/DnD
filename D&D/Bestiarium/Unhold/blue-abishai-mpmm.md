@@ -5,11 +5,11 @@ cssclasses:
 tags:
   - Quelle/5e/mpmm
   - Monster/HG/17
-  - Monster/Habitat/coastal
-  - Monster/Habitat/urban
+  - Monster/Habitat/Küste
+  - Monster/Habitat/Stadt
   - Monster/Größe/Mittelgroß
-  - Monster/Typ/fiend/devil
-  - Monster/Typ/fiend/wizard
+  - Monster/Typ/Unhold/devil
+  - Monster/Typ/Unhold/wizard
 statblock: inline
 statblock-link: "#^statblock"
 aliases:

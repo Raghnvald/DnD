@@ -3,7 +3,7 @@ cssclasses:
   - json5e-item
 Bezeichnung: Dulcimer
 tags:
-  - Gegenstand/Ausrüstung/instrument
+  - Gegenstand/Ausrüstung/Instrument
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:

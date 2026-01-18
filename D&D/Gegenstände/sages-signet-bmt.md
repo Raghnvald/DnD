@@ -4,9 +4,9 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/bmt
-  - Gegenstand/attunement/required
-  - Gegenstand/rarity/varies
-  - Gegenstand/wondrous/ring
+  - Gegenstand/Einstimmung/required
+  - Gegenstand/Seltenheit/variiert
+  - Gegenstand/wundersam/ring
 aliases:
   - Sage's Signet
 ---

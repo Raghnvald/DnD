@@ -6,7 +6,7 @@ tags:
   - Quelle/5e/cos
   - Monster/HG/1-4
   - Monster/Größe/Mittelgroß
-  - Monster/Typ/humanoid/mongrelfolk
+  - Monster/Typ/Humanoid/mongrelfolk
 statblock: inline
 statblock-link: "#^statblock"
 aliases:

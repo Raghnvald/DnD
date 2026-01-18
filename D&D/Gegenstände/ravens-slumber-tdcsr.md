@@ -4,7 +4,7 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/tdcsr
-  - Gegenstand/rarity/very-rare
+  - Gegenstand/Seltenheit/sehr_selten
 aliases:
   - Raven's Slumber
 ---

@@ -5,14 +5,14 @@ cssclasses:
 tags:
   - Quelle/5e/mm
   - Monster/HG/1-4
-  - Monster/Habitat/desert
-  - Monster/Habitat/forest
-  - Monster/Habitat/grassland
-  - Monster/Habitat/swamp
-  - Monster/Habitat/underdark
-  - Monster/Habitat/urban
+  - Monster/Habitat/Wüste
+  - Monster/Habitat/Wald
+  - Monster/Habitat/Grasland
+  - Monster/Habitat/Sumpf
+  - Monster/Habitat/Unterreich
+  - Monster/Habitat/Stadt
   - Monster/Größe/Mittelgroß
-  - Monster/Typ/beast
+  - Monster/Typ/Tier
 statblock: inline
 statblock-link: "#^statblock"
 aliases:

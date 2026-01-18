@@ -5,7 +5,7 @@ Bezeichnung: Rod of Lordly Might
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
-  - Gegenstand/wundersam/rod
+  - Gegenstand/wundersam/Rute
   - Quelle/5e/xdmg
 aliases:
   - Rod of Lordly Might

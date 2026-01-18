@@ -6,7 +6,7 @@ tags:
   - Quelle/5e/slw
   - Monster/HG/1-2
   - Monster/Größe/Mittelgroß
-  - Monster/Typ/construct
+  - Monster/Typ/Konstrukt
 statblock: inline
 statblock-link: "#^statblock"
 aliases:

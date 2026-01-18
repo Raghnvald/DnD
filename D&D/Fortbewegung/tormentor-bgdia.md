@@ -3,9 +3,9 @@ cssclasses:
   - json5e-vehicle
 tags:
   - Quelle/5e/bgdia
-  - Kompendium/vehicle/size/huge
-  - Kompendium/vehicle/terrain/land
-  - Kompendium/vehicle/type/infernal-war-machine
+  - Gegenstand/Fortbewegung/size/huge
+  - Gegenstand/Fortbewegung/terrain/land
+  - Gegenstand/Fortbewegung/type/infernal-war-machine
 aliases:
   - Tormentor
 ---

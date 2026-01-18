@@ -4,7 +4,7 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/tdcsr
-  - Gegenstand/rarity/uncommon
+  - Gegenstand/Seltenheit/ungewöhnlich
 aliases:
   - Rod of Mercurial Form
 ---

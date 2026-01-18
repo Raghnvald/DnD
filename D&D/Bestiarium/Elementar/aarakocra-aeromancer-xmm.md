@@ -6,10 +6,10 @@ tags:
   - Quelle/5e/xmm
   - Monster/HG/4
   - Monster/Habitat/air
-  - Monster/Habitat/mountain
+  - Monster/Habitat/Berg
   - Monster/Habitat/planar
   - Monster/Größe/Mittelgroß
-  - Monster/Typ/elemental
+  - Monster/Typ/Elementar
 statblock: inline
 statblock-link: "#^statblock"
 aliases:

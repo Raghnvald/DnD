@@ -6,7 +6,7 @@ tags:
   - Quelle/5e/bgg
   - Monster/HG/17
   - Monster/Größe/Riesig
-  - Monster/Typ/giant/cleric
+  - Monster/Typ/Riese/cleric
 statblock: inline
 statblock-link: "#^statblock"
 aliases:

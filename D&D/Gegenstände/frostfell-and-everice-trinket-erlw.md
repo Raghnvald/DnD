@@ -4,8 +4,8 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/erlw
-  - Gegenstand/gear/
-  - Gegenstand/rarity/none
+  - Gegenstand/Ausrüstung/
+  - Gegenstand/Seltenheit/keine
 aliases:
   - Frostfell and Everice Trinket
 ---

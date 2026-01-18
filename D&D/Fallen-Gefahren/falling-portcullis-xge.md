@@ -3,7 +3,7 @@ cssclasses:
   - json5e-hazard
 tags:
   - Quelle/5e/xge
-  - Kompendium/hazard/smpl
+  - Kompendium/Bedrohung/smpl
 aliases:
   - Falling Portcullis
 ---

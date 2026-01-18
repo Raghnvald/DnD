@@ -4,7 +4,7 @@ cssclasses:
 - json5e-hazard
 tags:
 - Quelle/5e/dmg
-- Kompendium/hazard/gen
+- Kompendium/Bedrohung/gen
 aliases:
 - Improvised Damage
 ---

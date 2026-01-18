@@ -5,7 +5,7 @@ cssclasses:
 tags:
   - Quelle/5e/bmt
   - Zauber/Grad/3
-  - Zauber/Schule/enchantment
+  - Zauber/Schule/Verzauberung
 aliases:
   - Antagonize
 ---

@@ -3,7 +3,7 @@ cssclasses:
   - json5e-item
 Bezeichnung: Candle Mace
 tags:
-  - Gegenstand/Seltenheit/unknown/magic
+  - Gegenstand/Seltenheit/unbekannt/magic
   - Gegenstand/Waffe/Einfach
   - Gegenstand/Waffe/Nahkampf
   - Quelle/5e/bgdia

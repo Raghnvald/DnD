@@ -6,7 +6,7 @@ tags:
   - Quelle/5e/egw
   - Monster/HG/16
   - Monster/Größe/Gigantisch
-  - Monster/Typ/fiend
+  - Monster/Typ/Unhold
 statblock: inline
 statblock-link: "#^statblock"
 aliases:

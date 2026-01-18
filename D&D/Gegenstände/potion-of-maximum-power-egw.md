@@ -4,8 +4,8 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/egw
-  - Gegenstand/rarity/rare
-  - Gegenstand/wondrous/potion
+  - Gegenstand/Seltenheit/selten
+  - Gegenstand/wundersam/Trank
 aliases:
   - Potion of Maximum Power
 ---

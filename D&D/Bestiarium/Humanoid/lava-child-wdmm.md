@@ -6,7 +6,7 @@ tags:
   - Quelle/5e/wdmm
   - Monster/HG/3
   - Monster/Größe/Mittelgroß
-  - Monster/Typ/humanoid/lava-child
+  - Monster/Typ/Humanoid/lava-child
 statblock: inline
 statblock-link: "#^statblock"
 aliases:

@@ -4,9 +4,9 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/bmt
-  - Gegenstand/gear/ammunition
-  - Gegenstand/rarity/uncommon
-  - Gegenstand/wondrous/generic-variant
+  - Gegenstand/Ausrüstung/ammunition
+  - Gegenstand/Seltenheit/ungewöhnlich
+  - Gegenstand/wundersam/generic-variant
 aliases:
   - Winged Ammunition
   - Winged Arrow

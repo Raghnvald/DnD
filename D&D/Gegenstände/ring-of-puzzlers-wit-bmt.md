@@ -4,8 +4,8 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/bmt
-  - Gegenstand/rarity/uncommon
-  - Gegenstand/wondrous/ring
+  - Gegenstand/Seltenheit/ungewöhnlich
+  - Gegenstand/wundersam/ring
 aliases:
   - Ring of Puzzler's Wit
 ---

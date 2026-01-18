@@ -6,7 +6,7 @@ tags:
   - Quelle/5e/idrotf
   - Monster/HG/5
   - Monster/Größe/Mittelgroß
-  - Monster/Typ/humanoid/dwarf
+  - Monster/Typ/Humanoid/dwarf
 statblock: inline
 statblock-link: "#^statblock"
 aliases:

@@ -4,8 +4,8 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/skt
-  - Gegenstand/rarity/legendary
-  - Gegenstand/wondrous/potion
+  - Gegenstand/Seltenheit/legendär
+  - Gegenstand/wundersam/Trank
 aliases:
   - Potion of Giant Size
 ---

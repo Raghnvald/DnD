@@ -3,7 +3,7 @@ cssclasses:
   - json5e-item
 Bezeichnung: Pipes of the Sewers
 tags:
-  - Gegenstand/Ausrüstung/instrument
+  - Gegenstand/Ausrüstung/Instrument
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/dmg

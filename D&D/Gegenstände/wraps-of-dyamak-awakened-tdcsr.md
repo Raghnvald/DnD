@@ -4,8 +4,8 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/tdcsr
-  - Gegenstand/attunement/required
-  - Gegenstand/rarity/legendary
+  - Gegenstand/Einstimmung/required
+  - Gegenstand/Seltenheit/legendär
 aliases:
   - Wraps of Dyamak (Awakened)
 ---

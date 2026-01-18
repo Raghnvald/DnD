@@ -4,12 +4,12 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/bmt
-  - Gegenstand/attunement/required
-  - Gegenstand/rarity/rare
-  - Gegenstand/weapon/martial
-  - Gegenstand/weapon/ranged
-  - Gegenstand/weapon/simple
-  - Gegenstand/wondrous/generic-variant
+  - Gegenstand/Einstimmung/required
+  - Gegenstand/Seltenheit/selten
+  - Gegenstand/Waffe/Kriegswaffe
+  - Gegenstand/Waffe/Fernkampf
+  - Gegenstand/Waffe/Einfach
+  - Gegenstand/wundersam/generic-variant
 aliases:
   - Bow of Conflagration
   - Longbow of Conflagration

@@ -2,7 +2,7 @@
 Bezeichnung: "Dragon's Wrath Weapon"
 tags:
   - Gegenstand/Einstimmung/required
-  - Gegenstand/Seltenheit/varies
+  - Gegenstand/Seltenheit/variiert
   - Gegenstand/wundersam/generic-variant
   - Quelle/5e/ftd
 aliases:

@@ -6,7 +6,7 @@ tags:
   - Quelle/5e/mcv2dc
   - Monster/HG/8
   - Monster/Größe/Groß
-  - Monster/Typ/celestial/unicorn
+  - Monster/Typ/Himmlische/unicorn
 statblock: inline
 statblock-link: "#^statblock"
 aliases:

@@ -6,7 +6,7 @@ tags:
   - Quelle/5e/mcv4ec
   - Monster/HG/15
   - Monster/Größe/Riesig
-  - Monster/Typ/dragon/warlock
+  - Monster/Typ/Drache/warlock
 statblock: inline
 statblock-link: "#^statblock"
 aliases:

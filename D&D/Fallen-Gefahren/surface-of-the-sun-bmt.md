@@ -4,7 +4,7 @@ cssclasses:
   - json5e-hazard
 tags:
   - Quelle/5e/bmt
-  - Kompendium/hazard/mag
+  - Kompendium/Bedrohung/mag
 aliases:
   - Surface of the Sun
 ---

@@ -3,7 +3,7 @@ cssclasses:
   - json5e-item
 Bezeichnung: Enspelled Weapon (Level 5)
 tags:
-  - Gegenstand/Ausrüstung/spellcasting-focus
+  - Gegenstand/Ausrüstung/Zauberfokus
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/Waffe/Einfach

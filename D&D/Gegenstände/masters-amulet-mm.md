@@ -3,7 +3,7 @@ cssclasses:
   - json5e-item
 Bezeichnung: "Master's Amulet"
 tags:
-  - Gegenstand/Seltenheit/unknown/magic
+  - Gegenstand/Seltenheit/unbekannt/magic
   - Gegenstand/wundersam/other
   - Quelle/5e/mm
 aliases:

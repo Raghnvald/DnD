@@ -3,7 +3,7 @@ cssclasses:
   - json5e-item
 Bezeichnung: "Quaal's Feather Token"
 tags:
-  - Gegenstand/Seltenheit/varies
+  - Gegenstand/Seltenheit/variiert
   - Quelle/5e/xdmg
 aliases:
   - "Quaal's Feather Token"

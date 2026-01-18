@@ -4,8 +4,8 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/cm
-  - Gegenstand/rarity/legendary
-  - Gegenstand/wondrous/scroll
+  - Gegenstand/Seltenheit/legendär
+  - Gegenstand/wundersam/Schriftrolle
 aliases:
   - Nether Scroll of Azumar
 ---

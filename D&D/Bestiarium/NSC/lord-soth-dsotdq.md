@@ -6,7 +6,7 @@ tags:
   - Quelle/5e/dsotdq
   - Monster/HG/19
   - Monster/Größe/Mittelgroß
-  - Monster/Typ/undead/paladin
+  - Monster/Typ/Untote/paladin
 statblock: inline
 statblock-link: "#^statblock"
 aliases:

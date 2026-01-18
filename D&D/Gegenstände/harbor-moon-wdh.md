@@ -4,8 +4,8 @@ cssclasses:
   - json5e-item
 tags:
   - Quelle/5e/wdh
-  - Gegenstand/gear/treasure-coinage
-  - Gegenstand/rarity/none
+  - Gegenstand/Ausrüstung/treasure-coinage
+  - Gegenstand/Seltenheit/keine
 aliases:
   - Harbor Moon
 ---
