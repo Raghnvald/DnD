@@ -1,18 +1,29 @@
 ---
+cssclasses: dnd5e-only-statblock
+prefer-view: edit-source read
+Name: Grick
+Typ: Monstrosität
+Größe: Mittelgroß
+HG: 2
+Habitat:
+  - Unterreich
+  - Wald
+status: completed
+image: image/grick.webp
 tags:
   - Quelle/5e/mm
   - Monster/Typ/Monstrosität
   - Monster/Größe/Mittelgroß
   - Monster/HG/2
-  - Monster/Habitat/Wald
   - Monster/Habitat/Unterreich
+  - Monster/Habitat/Wald
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
   - Grick
 ---
 # Grick
-*Quelle: Monsterhandbuch S. 173. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+*Quelle: Monsterhandbuch S. 173. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*  
 
 Die wurmartigen Gricks warten unsichtbar und verschmelzen mit den Felsen der Höhlen und Kavernen, die sie heimsuchen. Nur wenn die Beute nahe kommt, erheben sie sich, und ihre vier Tentakel entfalten sich, um hungrige, schnappende Schnabel zu offenbaren.
 
@@ -31,43 +42,40 @@ Im Lauf der Zeit sammeln sich in Grick-Behausungen die ehemaligen Besitztümer i
 ```statblock
 name: Grick
 image: token/grick.webp
-source: Monsterhandbuch 2014
+source: MM
 size: Mittel
 type: Monstrosität
 alignment: neutral
-ac: !!int "14"
-ac_class: "Natürliche Rüstung"
-hp: !!int "27"
-hit_dice: "6d8"
-modifier: !!int "2"
+ac: 14
+ac_class: natürliche Rüstung
+hp: 27
+hit_dice: 6d8
+modifier: 2
 stats:
-  - !!int "14"
-  - !!int "14"
-  - !!int "11"
-  - !!int "3"
-  - !!int "14"
-  - !!int "5"
-speed: "9 Meter, klettern 9 Meter."
-damage_resistances: "Wucht-, Stich- und Hiebschaden durch
-nicht-magische Waffen"
-senses: "Dunkelsicht 18 m, passive Wahrnehmung 12"
-languages: ""
-cr: "2"
+  - 14
+  - 14
+  - 11
+  - 3
+  - 14
+  - 5
+speed: 9 Meter, klettern 9 Meter
+damage_resistances: Wucht-, Stich- und Hiebschaden durch nichtmagische Angriffe
+senses: <STATBLOCK-MARKDOWN-LINK>01-Spielleiter/Sinne-phb#Dunkelsicht|Dunkelsicht<STATBLOCK-MARKDOWN-LINK> 18 Meter, passive Wahrnehmung 12
+languages: 
+cr: 2
 traits:
-  - name: "Steintarnung."
-    desc: "Der Grick hat einen Vorteil bei Würfen auf Geschicklichkeit (Heimlichkeit), wenn er sich in felsigem Gelände verstecken möchte."
+  - name: Steintarnung
+    desc: Der Grick hat einen Vorteil bei Würfen auf Geschicklichkeit (<STATBLOCK-MARKDOWN-LINK>01-Spielleiter/Fertigkeiten-phb.md#Heimlichkeit|Heimlichkeit<STATBLOCK-MARKDOWN-LINK>), wenn er sich in felsigem Gelände verstecken möchte.
 actions:
   - name: Mehrfachangriff
-    desc: "Der Grick führt ei nen Angriff mit seinen Tentakeln
-aus. Wenn der Angriff trifft, kann der Grick einen Schnabel-
-Angriff gegen dasselbe Ziel ausführen."
+    desc: Der Grick führt einen Angriff mit seinen Tentakeln aus. Wenn der Angriff trifft, kann der Grick einen Schnabel-Angriff gegen dasselbe Ziel ausführen.
   - name: Tentakel
-    desc: "_Nahkampf-Waffenangriff:_ +4 auf Treffer, Reichweite 1,5 m, ein Ziel. _Treffer:_ 9 (2W6 + 2) Hiebschaden."
+    desc: "*Nahkampf-Waffenangriff:* +4 zum Treffer, Reichweite 1,5 m, ein Ziel. *Treffer:* 9 (2d6+2) Hiebschaden."
   - name: Schnabel
-    desc: "_Nahkampf-Waffenangriff:_ +4 auf Treffer, Reichweite 1,5 m, ein Ziel. _Treffer:_ 5 (1W6 + 2) Stichschaden."
+    desc: "*Nahkampf-Waffenangriff:* +4 zum Treffer, Reichweite 1,5 m, ein Ziel. *Treffer:* 5 (1d6+2) Stichschaden."
 ```
 ^statblock
 
-## Environment
+## Vorkommen
 
-underdark, forest
+Unterreich, Wald

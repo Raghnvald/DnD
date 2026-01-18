@@ -1,4 +1,14 @@
 ---
+cssclasses: dnd5e-only-statblock
+prefer-view: edit-source read
+Name: Gwyn Erzsang
+Typ: Humanoid (Zwerg)
+Größe: Mittelgroß
+HG: 1/4
+Habitat:
+  - /
+status: completed
+image: image/gwyn-oresong-pabtso.webp
 tags:
   - Quelle/5e/pabtso
   - Monster/HG/1-4
@@ -8,16 +18,17 @@ statblock: inline
 statblock-link: "#^statblock"
 aliases:
   - Gwyn Oresong
-Name: Gwyn Oresong
-Image: npc/token/gwyn-oresong-pabtso.webp
 ---
 # Gwyn Erzsang
 *Quelle: Die Tiefen von Phandelver: Der zersplitterte Obelisk S. 8*  
 
 ```statblock
 name: Gwyn Erzsang
+image: token/gwyn-oresong-pabtso.webp
+source:
+  - PaBTSO
 size: Mittelgroß
-type: Humanoide
+type: Humanoid
 subtype: Zwerg
 alignment: Neutral Gut
 ac: 10
@@ -42,20 +53,17 @@ senses: <STATBLOCK-MARKDOWN-LINK>01-Spielleiter/Sinne-phb#Dunkelsicht|Dunkelsich
 languages: Eine Sprache nach Wahl (normalerweise Gemeinsprache), Zwergisch
 cr: 1/4
 traits:
-  - desc: |-
+  - name: Zauberwirken
+    desc: |-
       Gwyn ist ein Zauberwirker der 1. Stufe. Ihr Attribut zum Zauberwirken ist Weisheit (Zauberrettungswurf-SG 12, +4 zum Treffen mit Zauberangriffen). Gwyn hat die folgenden Klerikerzauber vorbereitet:
 
       **Zaubertricks (beliebig oft):** <STATBLOCK-MARKDOWN-LINK>Zauber/Heilige_Flamme-phb|Heilige Flamme<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>Zauber/Licht-phb|Licht<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>Zauber/Thaumaturgie-phb.md|Thaumaturgie<STATBLOCK-MARKDOWN-LINK>
 
       **1. Grad (3 Plätze):** <STATBLOCK-MARKDOWN-LINK>Zauber/Heiligtum-phb|Heiligtum<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>Zauber/Segnen-phb|Segnen<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>Zauber/Wunden_heilen-phb|Wunden heilen<STATBLOCK-MARKDOWN-LINK>
-    name: Zauberwirken
-  - desc: Gwyns Trefferpunktemaximum erhöht sich um 1 Punkt und um 1 weiteren Punkt jedes Mal, wenn sie eine Stufe aufsteigt.
-    name: Zwergische Zähigkeit
+  - name: Zwergische Zähigkeit
+    desc: Gwyns Trefferpunktemaximum erhöht sich um 1 Punkt und um 1 weiteren Punkt jedes Mal, wenn sie eine Stufe aufsteigt.
 actions:
-  - desc: "*Nahkampf-Waffenangriff:* +2 zum Treffen, Reichweite 1,5 m, ein Ziel. *Treffer:* 2 (1d4) Wuchtschaden."
-    name: Keule
-source:
-  - PaBTSO
-image: npc/token/gwyn-oresong-pabtso.webp
+  - name: Keule
+    desc: "*Nahkampf-Waffenangriff:* +2 zum Treffen, Reichweite 1,5 m, ein Ziel. *Treffer:* 2 (1d4) Wuchtschaden."
 ```
 ^statblock

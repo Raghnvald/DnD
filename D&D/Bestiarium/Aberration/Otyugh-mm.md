@@ -1,6 +1,14 @@
 ---
-cssclasses:
-  - json5e-monster
+cssclasses: dnd5e-only-statblock
+prefer-view: edit-source read
+Name: Otyugh
+Typ: Aberration
+Größe: Groß
+HG: 5
+Habitat:
+  - Unterreich
+status: WIP
+image: image/otyugh-webp
 tags:
   - Quelle/5e/mm
   - Monster/HG/5
@@ -12,86 +20,65 @@ statblock-link: "#^statblock"
 aliases:
   - Otyugh
 ---
-# [Otyugh](3-Mechanics\CLI\bestiary\aberration/otyugh.md)
-*Source: Monster Manual p. 248. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+# Otyugh
+*Quelle: Monsterhandbuch S. 215. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span>*
 
-An otyugh is a grotesque, bulbous creature borne along on three sturdy legs, its eyes and nose set along a vine-like stalk that snakes from the top of its bloated body. Two rubbery tentacles end in spiky, leaf-like appendages that the otyugh uses to shovel food into its gaping maw.
+Ein Otyugh ist eine groteske, knollige Kreatur, die auf drei stämmigen Beinen umherläuft. Ihre Augen und Nase sitzen auf einem tentakelartigen Stiel, der von der Spitze seines aufgedunsenen Körpers ragt. Zwei gummiartige Tentakel enden in stachligen, blattartigen Auswüchsen, die der Otyugh verwendet, um Nahrung in sein klaffendes Maul zu schaufeln.
 
-An otyugh buries itself under mounds of offal and carrion, leaving only its sensory stalk exposed. When an edible creature happens by, the otyugh's tentacles erupt from the filth and grab hold of it.
+$\quad$Ein Otyugh vergräbt sich unter Haufen von Abfällen und Aas und lässt nur seinen Sinnesstiel herausragen. Wenn eine essbare Kreatur vorbeikommt, brechen die Tentakel des Otyugh aus dem Schmutz hervor und packen sie.
 
-Otyughs make the most of any opportunity to ambush and devour prey. They use a limited form of telepathy to urge sentient creatures toward their lairs, sometimes by pretending to be something else.
+$\quad$Otyughs nutzen jede Gelegenheit, Beute zu überfallen und zu fressen. Sie verwenden eine eingeschränkte Form von Telepathie, um denkende Kreaturen dazu zu drängen, sich in Richtung ihrer Behausungen zu bewegen, manchmal indem sie vorgeben, etwas anderes zu sein.
 
-## Dwellers in Darkness
+## Bewohner der Dunkelheit
 
-Otyughs tolerate bright light only when considerable stores of carrion or garbage lie within reach. In the wilderness, they dwell in stagnant swamps, scum-filled ponds, and damp forest dells. The scent of graveyards, city sewers, village middens, and manure-filled animal pens attracts them to civilized areas.
+Otyughs dulden helles Licht nur dann, wenn beträchtliche Vorräte an Aas oder Müll in Reichweite sind. In der Wildnis hausen sie in abgestandenen Sümpfen, Tümpeln voller Schlacke und feuchten Waldtälern. Der Gestank von Friedhöfen, städtischen Kanalisationen, Misthaufen in Dörfern und mit Dung gefüllten Tiergehegen lockt sie in zivilisierte Regionen.
 
-Since otyughs lack concern for anything but food, their nests sometimes accumulate a variety of treasures shed from their victims and mixed among the junk.
+$\quad$Da Otyughs sich einzig um Nahrung scheren, sammeln sich in ihren Nestern manchmal eine Vielzahl von Schätzen, die von ihren Opfern stammen und mit den Abfällen vermischt sind.
 
-## Symbiotic Guardians
+## Symbiotische Wächter
 
-Sentient subterranean beings can coexist with otyughs, employing them as garbage disposals. With such plentiful sustenance, otyughs grow fat in their wallows, unmoved by any other drive or desire. This sedentary gluttony makes them reliable guardians. As long as it is fed, an otyugh refrains from attacking other creatures. However, would-be otyugh masters can easily underestimate the quantity of waste, carrion, and meat necessary to keep an otyugh from wandering off in search of food. More than one "trained" otyugh has eaten its keeper after devouring all the waste in its wallow.
+Denkende unterirdische Wesen können mit den Otyughs koexistieren und nutzen sie als Müllentsorgung. Mit dieser üppigen Ernährung können Otyughs in ihren Suhlen fett werden und haben keine anderen Ziele oder Wünsche. Diese ortsgebundene Gefräßigkeit macht sie zu verlässlichen Wächtern. Solange ein Otyugh gefüttert wird, lässt er davon ab, andere Kreaturen anzugreifen. Allerdings kann jemand, der sich zum Meister eines Otyughs aufschwingen möchte, die Mengen an Abfall, Aas und Fleisch, die notwendig sind, damit der Otyugh nicht auf der Suche nach Nahrung weiterzieht, leicht unterschätzen. Mehr als ein „zahmer" Otyugh hat seinen Meister gefressen, nachdem alle Abfälle in seiner Suhle aufgebraucht waren.
 
 ```statblock
-"name": "Otyugh"
-"size": "Large"
-"type": "aberration"
-"alignment": "Neutral"
-"ac": !!int "14"
-"ac_class": "natural armor"
-"hp": !!int "114"
-"hit_dice": "12d10 + 48"
-"modifier": !!int "0"
-"stats":
-  - !!int "16"
-  - !!int "11"
-  - !!int "19"
-  - !!int "6"
-  - !!int "13"
-  - !!int "6"
-"speed": "30 ft."
-"saves":
-  - "constitution": !!int "7"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 11"
-"languages": "Otyugh"
-"cr": "5"
-"traits":
-  - "desc": "The otyugh can magically transmit simple messages and images to any creature\
-      \ within 120 feet of it that can understand a language. This form of telepathy\
-      \ doesn't allow the receiving creature to telepathically respond."
-    "name": "Limited Telepathy"
-"actions":
-  - "desc": "The otyugh makes three attacks: one with its bite and two with its tentacles."
-    "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 12\
-      \ (2d8 + 3) piercing damage. If the target is a creature, it must succeed on\
-      \ a DC 15 Constitution saving throw against disease or become [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)\
-      \ until the disease is cured. Every 24 hours that elapse, the target must repeat\
-      \ the saving throw, reducing its hit point maximum by 5 (1d10) on a failure.\
-      \ The disease is cured on a success. The target dies if the disease reduces\
-      \ its hit point maximum to 0. This reduction to the target's hit point maximum\
-      \ lasts until the disease is cured."
-    "name": "Bite"
-  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 10 ft., one target. *Hit:* 7\
-      \ (1d8 + 3) bludgeoning damage plus 4 (1d8) piercing damage. If the target is\
-      \ Medium or smaller, it is [grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
-      \ (escape DC 13) and [restrained](/3-Mechanics/CLI/conditions.md#Restrained)\
-      \ until the grapple ends. The otyugh has two tentacles, each of which can grapple\
-      \ one target."
-    "name": "Tentacle"
-  - "desc": "The otyugh slams creatures [grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
-      \ by it into each other or a solid surface. Each creature must succeed on a\
-      \ DC 14 Constitution saving throw or take 10 (2d6 + 3) bludgeoning damage and\
-      \ be [stunned](/3-Mechanics/CLI/conditions.md#Stunned) until the end of the\
-      \ otyugh's next turn. On a successful save, the target takes half the bludgeoning\
-      \ damage and isn't [stunned](/3-Mechanics/CLI/conditions.md#Stunned)."
-    "name": "Tentacle Slam"
-"source":
-  - "MM"
-"image": "/3-Mechanics/CLI/bestiary/aberration/token/otyugh.webp"
+name: Otyugh
+image: token/otyugh.webp
+source: MM
+size: Groß
+type: Aberration
+alignment: Neutral
+ac: 14
+ac_class: natürliche Rüstung
+hp: 114
+hit_dice: 12d10 + 48
+modifier: 0
+stats:
+  - 16
+  - 11
+  - 19
+  - 6
+  - 13
+  - 6
+speed: 9 m
+saves:
+  - Kon: 7
+senses: <STATBLOCK-MARKDOWN-LINK>01-Spielleiter/Sinne-phb#Dunkelsicht|Dunkelsicht<STATBLOCK-MARKDOWN-LINK> 36 m, passive Wahrnehmung 11
+languages: Otyugh
+cr: 5
+traits:
+  - name: Eingeschränkte Telepathie
+    desc: "Der Otyugh kann magisch einfache Botschaften und Bilder an jede Kreatur innerhalb von 36 m, die eine Sprache verstehen kann, übermitteln. Diese Form der Telepathie erlaubt es der empfangenden Kreatur nicht, telepathisch zu antworten."
+actions:
+  - name: Merhfachangriff
+    desc: "Der Otyugh führt drei Angriffe durch; einen mit seinem Biss und zwei mit seinen Tentakeln."
+  - name: Biss
+    desc: "*Nahkampf-Waffenangriff:* +6 zum Treffen, Reichweite 1,5 m, ein Ziel. *Treffer:* 12 (2d8+3) Stichschaden. Wenn das Ziel eine Kreatur ist, muss sie einen `Konstitutionsrettungswurf` gegen Krankheit mit `SG 15` ablegen, um nicht <STATBLOCK-MARKDOWN-LINK>01-Spielleiter/Zustände-phb#Vergiftet|vergiftet<STATBLOCK-MARKDOWN-LINK> zu werden, bis die Krankheit geheilt ist. Alle 24 Stunden, die vergehen, muss das Ziel den Rettungswurf wiederholen und bei einem Fehlschlag seine maximalen Trefferpunkte um 5 (1d10) verringern. Die Krankheit wird bei einem Erfolg geheilt. Das Ziel stirbt, wenn die Krankheit es auf0 maximale Trefferpunkte reduziert. Diese Verringerung der maximalen Trefferpunkte des Ziels hält an, bis die Krankheit geheilt wird."
+  - name: Tentakel
+    desc: "*Nahkampf-Waffenangriff:* +6 zum Treffen, Reichweite 3 m, ein Ziel. *Treffer:* 7 (1d8+3) Wuchtschaden plus 4 (1d8) Stichschaden. Wenn das Ziel mittelgroß oder kleiner ist, wird es <STATBLOCK-MARKDOWN-LINK>01-Spielleiter/Zustände-phb#Gepackt|gepackt<STATBLOCK-MARKDOWN-LINK> (SG zum Entkommen 13) und <STATBLOCK-MARKDOWN-LINK>01-Spielleiter/Zustände-phb#Festgesetzt|festgesetzt<STATBLOCK-MARKDOWN-LINK>, bis der Haltegriff endet. Der Otyugh hat zwei Tentakel, und er kann mit jedem davon ein Ziel packen."
+  - name: Tentakelramme
+    desc: Der Otyugh rammt Kreaturen, die er <STATBLOCK-MARKDOWN-LINK>01-Spielleiter/Zustände-phb#Gepackt|gepackt<STATBLOCK-MARKDOWN-LINK> hat, ineinander oder in eine feste Oberfläche. Jede Kreatur muss einen `Konstitutionsrettungswurf` gegen SG `14` ablegen, um nicht 10 (2W6+3) Wuchtschaden zu erleiden und bis zum Ende des nächsten Zugs des Otyughs <STATBLOCK-MARKDOWN-LINK>01-Spielleiter/Zustände-phb#Betäubt|betäubt<STATBLOCK-MARKDOWN-LINK> zu sein. Bei einem erfolgreichen Rettungswurf erleidet das Ziel den halben Wuchtschaden und ist nicht <STATBLOCK-MARKDOWN-LINK>01-Spielleiter/Zustände-phb#Betäubt|betäubt<STATBLOCK-MARKDOWN-LINK>.
 ```
 ^statblock
 
-## Environment
+## Vorkommen
 
-underdark
+Unterreich

@@ -1,6 +1,18 @@
 ---
-cssclasses:
-  - json5e-monster
+cssclasses: dnd5e-only-statblock
+prefer-view: edit-source read
+Name: Riesenwürgeschlange
+Typ: Tier
+Größe: Groß
+HG: 2
+Habitat:
+  - Sumpf
+  - Unterreich
+  - Unterwasser
+  - Wald
+  - Wüste
+status: completed
+image: image/giant-constrictor-snake-webp
 tags:
   - Quelle/5e/mm
   - Monster/HG/2
@@ -17,38 +29,41 @@ aliases:
   - Giant Constrictor Snake
 ---
 # Riesenwürgeschlange
-*Quelle: Monsterhandbuch S. 324. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+*Quelle: Monsterhandbuch S. 334. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*  
 
 ```statblock
 name: Riesenwürgeschlange
 image: token/giant-constrictor-snake.webp
-source: Monsterhandbuch 2014
-size: "Riesig"
-type: "Tier"
-alignment: "gesinnungslos"
-ac: !!int "12"
-hp: !!int "60"
-hit_dice: "8d12 + 8"
-modifier: !!int "2"
+source: MM
+size: Riesig
+type: Tier
+alignment: gesinnungslos
+ac: 12
+hp: 60
+hit_dice: 8d12 + 8
+modifier: 2
 stats:
-  - !!int "19"
-  - !!int "14"
-  - !!int "12"
-  - !!int "1"
-  - !!int "10"
-  - !!int "3"
-speed: "9 Meter, schwimmen 9 Meter"
+  - 19
+  - 14
+  - 12
+  - 1
+  - 10
+  - 3
+speed: 9 Meter, schwimmen 9 Meter
 skillsaves:
-  - "name": "[Wahrnehmung](/3-Mechanics/CLI/skills.md#Perception)"
-    "desc": "+2"
-senses": "Blindsicht 3 m, passive Wahrnehmung 12"
-languages: ""
-cr: "2"
+  - name: <STATBLOCK-MARKDOWN-LINK>01-Spielleiter/Fertigkeiten-phb#Wahrnehmung|Wahrnehmung<STATBLOCK-MARKDOWN-LINK>
+    desc: "+2"
+senses: <STATBLOCK-MARKDOWN-LINK>01-Spielleiter/Sinne-phb#Blindsicht|Blindsicht<STATBLOCK-MARKDOWN-LINK> 3 m, passive Wahrnehmung 12
+languages: 
+cr: 2
 actions:
   - name: Biss
-    desc: "_Nahkampf-Waffenangriff:_ +6 zum Treffen, Reichweite 3 m, eine Kreatur. _Treffer:_ 11 (2W6 + 4) Stichschaden."
+    desc: "*Nahkampf-Waffenangriff:* +6 zum Treffen, Reichweite 3 m, eine Kreatur. *Treffer:* 11 (2W6 + 4) Stichschaden."
   - name: Umschlingen
-    desc: "_Nahkampf-Waffenangriff:_ +6 zum Treffen, Reichweite 1,5 m, eine Kreatur. _Treffer:_ 13 (2W8 + 4) Wuchtschaden, und das Ziel ist gepackt (SG zum Entkommen 16). Bis der Haltegriff endet, ist die Kreatur festgesetzt, und die Schlange kann kein anderes Ziel umschlingen."
-
+    desc: "*Nahkampf-Waffenangriff:* +6 zum Treffen, Reichweite 1,5 m, eine Kreatur. *Treffer:* 13 (2d8+4) Wuchtschaden, und das Ziel ist <STATBLOCK-MARKDOWN-LINK>01-Spielleiter/Zustände-phb#Gepackt|gepackt<STATBLOCK-MARKDOWN-LINK> (SG zum Entkommen 16). Bis der Haltegriff endet, ist die Kreatur <STATBLOCK-MARKDOWN-LINK>01-Spielleiter/Zustände-phb#Festgesetzt|festgesetzt<STATBLOCK-MARKDOWN-LINK>, und die Schlange kann kein anderes Ziel umschlingen."
 ```
 ^statblock
+
+## Vorkommen
+
+Sumpf, Unterreich, Unterwasser, Wald, Wüste

@@ -117,7 +117,7 @@ _Quellen:_ Spielerhandbuch
 | [Verkleidungsausrüstung](../Gegenstände/Verkleidungsausrüstung.md)               |    25 GM |        1,5 kg. |
 | [Waage, (Kaufmannswaage)](Kaufmannswaage-phb.md)                     |     5 GM |        1,5 kg. |
 | [Wasserschlauch](../Gegenstände/Wasserschlauch.md)                               |     2 SM | 2,5 kg. (voll) |
-| [Weihwasser (Flasche)](../Gegenstände/holy-water-flask.md)                       |    25 GM |        0,5 kg. |
+| [Weihwasser (Flasche)](Weihwasser-Flasche-phb.md)                       |    25 GM |        0,5 kg. |
 | [Wetzstein](../Gegenstände/Schleifstein.md)                                      |     1 KM |        0,5 kg. |
 | [Zauberbuch](../Gegenstände/Zauberbuch.md)                                       |    50 GM |        1,5 kg. |
 | [Zelt (2 Personen)](../Gegenstände/Zwei-Mann-Zelt.md)                            |     2 GM |       10,0 kg. |

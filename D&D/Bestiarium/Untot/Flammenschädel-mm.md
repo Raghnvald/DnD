@@ -1,6 +1,14 @@
 ---
-cssclasses:
-  - json5e-monster
+cssclasses: dnd5e-only-statblock
+prefer-view: edit-source read
+Name: 
+Typ: Untoter
+Größe: Winzig
+HG: 4
+Habitat:
+  - Unterreich
+status: completed
+image: image/flameskull-webp
 tags:
   - Quelle/5e/mm
   - Monster/HG/4
@@ -11,105 +19,90 @@ statblock: inline
 statblock-link: "#^statblock"
 aliases:
   - Flameskull
-Typ: Untoter
-Größe: Winzig
-HG: 4
-Habitat:
-  - Unterreich
-status: WIP
 ---
-# [Flameskull](3-Mechanics\CLI\bestiary\undead/flameskull.md)
-*Source: Monster Manual p. 134. Available in the Basic Rules (2014)*  
+# Flammenschädel
+*Quelle: Monsterhandbuch S. 316. Verfügbar im  Grundregelwerk (2014)*  
 
-Blazing green flames and mad, echoing laughter follow a disembodied skull as it patrols its demesne. When the undead flameskull discovers trespassers, it blasts the intruders with fiery rays from its eyes and dreadful spells called up from the dark recesses of its memory.
+Lodernde grüne Flammen und wahnsinniges, widerhallendes Lachen folgen einem körperlosen Schädel, während er durch seine Domäne streift. Wenn der untote Flammenschädel Eindringlinge bemerkt, zerstört er die Eindringlinge mit feurigen Strahlen aus seinen Augen und schrecklichen Zaubersprüchen, die er aus den dunkelsten Winkeln seiner Erinnerung gezogen hat.
 
-Dark spellcasters fashion flameskulls from the remains of dead wizards. When the ritual is complete, green flames erupt from the skull to complete its ghastly transformation.
+$\quad$Dunkle Zauberwirker erschaffen Flammenschädel aus den Überresten toter Magier. Wenn das Ritual abgeschlossen ist, brechen grüne Flammen aus dem Schädel hervor und vervollständigen die grausige Verwandlung.
 
-## Legacy of Life
+## Vermächtnis des Lebens 
 
-A flameskull only dimly recalls its former life. Though it might speak in its old voice and recount key events from its past, it is but an echo of its former self. However, its undead transformation grants it full access to the magic it wielded in life, letting it cast spells while ignoring the material and somatic components it can no longer employ.
+Ein Flammenschädel erinnert sich nur vage an sein früheres Leben. Auch wenn er vielleicht mit seiner alten Stimme spricht und von Schlüsselereignissen aus seiner Vergangenheit berichtet, ist er nur ein Echo seines ehemaligen Selbst. Allerdings gewährt ihm seine untote Verwandlung vollen Zugriff auf die Magie, die er im Leben genutzt hat, sodass er Zauber wirken kann. Dabei ignoriert er die Materialkomponente und die Gestenkomponente, die er nicht mehr länger verwenden kann.
 
-## Eternally Bound
+## Ewig gebunden
 
-Intelligent and vigilant, a flameskull serves its creator by protecting a hidden treasure hoard, a secret chamber, or a specific individual. A flameskull carries out the directives given to it when it was created, and it interprets those commands to the letter. A flameskull's master must craft its instructions with care to ensure that the creature carries out its tasks properly.
+Flammenschädel sind intelligent und wachsam und dienen ihrem Erschaffer, indem sie eine verborgene Schatzkammer, einen geheimen Raum oder eine bestimmte Person beschützen. Ein Flammenschädel führt die Befehle aus, die ihm bei seiner Erschaffung gegeben worden sind, und interpretiert diese Befehle buchstäblich. Der Meister eines Flammenschädels muss seine Anweisungen sorgfältig formulieren, damit die Kreatur sie richtig ausführen kann.
 
-### Wreathed in Flame
+## In Flammen gehüllt
 
-The fire wreathing a flameskull burns continually, giving off bright light that the creature controls. It uses those flames as a weapon, focusing them to loose them as fiery rays from its eye sockets.
+Das Feuer, das einen Flammenschädel umzüngelt, brennt beständig und gibt helles Licht ab, das die Kreatur kontrolliert. Sie verwendet diese Flammen als Waffe, indem sie sie fokussiert und als Feuerstrahlen aus ihren Augenhöhlen entfesselt.
 
-## Eldritch Rejuvenation
+## Unheimliche Auferstehung
 
-A flameskull's shattered fragments reform unless they are splashed with holy water or subjected to a [dispel magic](/3-Mechanics/CLI/spells/dispel-magic.md) or [remove curse](/3-Mechanics/CLI/spells/remove-curse.md) spell. If it can no longer fulfill its intended purpose, the re-formed flameskull is beholden to no one and becomes autonomous.
+Die zerstörten Fragmente eines Flammenschädels formen sich neu, wenn sie nicht mit Weihwasser besprenkelt oder mit dem Zauber [[Magie_bannen-phb|Magie bannen]] oder [[Fluch_brechen-phb|Fluch brechen]] belegt werden. Wenn der neu geformte Flammenschädel seinen Daseinszweck nicht mehr erfüllen kann, untersteht er niemandem mehr und wird selbstständig.
 
-## Undead Nature
+## Untote Natur
 
-A flameskull doesn't require air, food, drink, or sleep
+Ein Flammenschädel braucht keine Luft, Nahrung, Wasser oder Schlaf.
 
 ```statblock
-"name": "Flammenschädel"
-"size": "Tiny"
-"type": "undead"
-"alignment": "Neutral Evil"
-"ac": !!int "13"
-"hp": !!int "40"
-"hit_dice": "9d4 + 18"
-"modifier": !!int "3"
-"stats":
-  - !!int "1"
-  - !!int "17"
-  - !!int "14"
-  - !!int "16"
-  - !!int "10"
-  - !!int "11"
-"speed": "0 ft., fly 40 ft. (hover)"
-"skillsaves":
-  - "name": "[Arcana](/3-Mechanics/CLI/skills.md#Arcana)"
-    "desc": "+5"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
-    "desc": "+2"
-"damage_resistances": "lightning, necrotic, piercing"
-"damage_immunities": "cold, fire, poison"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [frightened](/3-Mechanics/CLI/conditions.md#Frightened),\
-  \ [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed), [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned),\
-  \ [prone](/3-Mechanics/CLI/conditions.md#Prone)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 12"
-"languages": "Common"
-"cr": "4"
-"traits":
-  - "desc": "The flameskull is a 5th-level spellcaster. Its spellcasting ability is\
-      \ Intelligence (spell save DC 13, +5 to hit with spell attacks). It requires\
-      \ no somatic or material components to cast its spells. The flameskull has the\
-      \ following wizard spells prepared:\n\n**Cantrips (at will):** [mage hand](/3-Mechanics/CLI/spells/mage-hand.md)\n\
-      \n**1st level (3 slots):** [magic missile](/3-Mechanics/CLI/spells/magic-missile.md),\
-      \ [shield](/3-Mechanics/CLI/spells/shield.md)\n\n**2nd level (2 slots):** [blur](/3-Mechanics/CLI/spells/blur.md),\
-      \ [flaming sphere](/3-Mechanics/CLI/spells/flaming-sphere.md)\n\n**3rd level\
-      \ (1 slots):** [fireball](/3-Mechanics/CLI/spells/fireball.md)"
-    "name": "Spellcasting"
-  - "desc": "The flameskull sheds either dim light in a 15-foot radius, or bright\
-      \ light in a 15-foot radius and dim light for an additional 15 feet. It can\
-      \ switch between the options as an action."
-    "name": "Illumination"
-  - "desc": "The flameskull has advantage on saving throws against spells and other\
-      \ magical effects."
-    "name": "Magic Resistance"
-  - "desc": "If the flameskull is destroyed, it regains all its hit points in 1 hour\
-      \ unless holy water is sprinkled on its remains or a [dispel magic](/3-Mechanics/CLI/spells/dispel-magic.md)\
-      \ or [remove curse](/3-Mechanics/CLI/spells/remove-curse.md) spell is cast on\
-      \ them."
-    "name": "Rejuvenation"
-"actions":
-  - "desc": "The flameskull uses Fire Ray twice."
-    "name": "Multiattack"
-  - "desc": "*Ranged Spell Attack:* +5 to hit, range 30 ft., one target. *Hit:* 10\
-      \ (3d6) fire damage."
-    "name": "Fire Ray"
-"source":
-  - "MM"
-"image": "/3-Mechanics/CLI/bestiary/undead/token/flameskull.webp"
+name: Flammenschädel
+image: token/flameskull.webp
+source: MM
+size: Winzig
+type: Untoter
+alignment: Neutral Böse
+ac: 13
+hp: 40
+hit_dice: 9d4 + 18
+modifier: 3
+stats:
+  - 1
+  - 17
+  - 14
+  - 16
+  - 10
+  - 11
+speed: 0 m, fliegen 12 m (schweben)
+skillsaves:
+  - name: <STATBLOCK-MARKDOWN-LINK>01-Spielleiter/Fertigkeiten-phb#Arkane%20Kunde|Arkane Kunde<STATBLOCK-MARKDOWN-LINK>
+    desc: "+5"
+  - name: <STATBLOCK-MARKDOWN-LINK>01-Spielleiter/Fertigkeiten-phb#Wahrnehmung|Wahrnehmung<STATBLOCK-MARKDOWN-LINK>
+    desc: "+2"
+damage_resistances: Blitz, Nekrotisch, Stich
+damage_immunities: Feuer, Gift, Kälte
+condition_immunities:  <STATBLOCK-MARKDOWN-LINK>01-Spielleiter/Zustände-phb#Bezaubert|Bezaubert<STATBLOCK-MARKDOWN-LINK>,  <STATBLOCK-MARKDOWN-LINK>01-Spielleiter/Zustände-phb#Gelähmt|Gelähmt<STATBLOCK-MARKDOWN-LINK>,  <STATBLOCK-MARKDOWN-LINK>01-Spielleiter/Zustände-phb#Liegend|Liegend<STATBLOCK-MARKDOWN-LINK>,  <STATBLOCK-MARKDOWN-LINK>01-Spielleiter/Zustände-phb#Verängstigt|Verängstigt<STATBLOCK-MARKDOWN-LINK>,  <STATBLOCK-MARKDOWN-LINK>01-Spielleiter/Zustände-phb#Vergiftet|vergiftet<STATBLOCK-MARKDOWN-LINK>
+senses: <STATBLOCK-MARKDOWN-LINK>01-Spielleiter/Sinne-phb#Dunkelsicht|Dunkelsicht<STATBLOCK-MARKDOWN-LINK> 60 ft., passive Wahrnehmung 12
+languages: Gemeinsprache
+cr: 4
+traits:
+  - name: Beleuchtung
+    desc: "Der Flammenschädel gibt entweder schwaches Licht in einem Radius von 4,5 m oder helles Licht in einem Radius von 4,5 m und schwaches Licht in einem Radius von weiteren 4,5 m ab. Es kann als Aktion zwischen diesen beiden Möglichkeiten wechseln."
+  - name: Magieresistenz
+    desc: "Der Flammenschädel hat einen Vorteil bei Rettungswürfen gegen Zauber und andere magische Effekte"
+  - name: Wiederbelebung
+    desc: "Wenn der Flammenschädel zerstört wird, erhält er innerhalb von 1 Stunde alle Trefferpunkte zurück, wenn nicht <STATBLOCK-MARKDOWN-LINK>Gegenstände/Weihwasser-Flasche-phb|Weihwasser<STATBLOCK-MARKDOWN-LINK> auf die Überreste gesprenkelt wird oder jemand den Zauber <STATBLOCK-MARKDOWN-LINK>Zauber/Magie_bannen-phb|Magie bannen<STATBLOCK-MARKDOWN-LINK> oder <STATBLOCK-MARKDOWN-LINK>Zauber/Fluch_brechen-phb|Fluch brechen<STATBLOCK-MARKDOWN-LINK> auf ihn wirkt."
+  - name: Zauberwirken
+    desc: |-
+      Der Flammenschädel ist ein Zauberwirker der 5. Stufe. Sein Attribut zum Zauberwirken ist Intelligenz (Zauberrettungswurf-SG 13, +5 zum Treffen mit Zauberangriffen). Erbenötigt keine Gesten oder Materialkomponenten, um seine Zauber zu wirken. Der Flammenschädel hat die folgenden Magierzauber vorbereitet:
+
+      **Zaubertricks (willentlich):** <STATBLOCK-MARKDOWN-LINK>Zauber/Magierhand-phb.md|Magierhand<STATBLOCK-MARKDOWN-LINK>
+
+      **1. Grad (3 Plätze):** <STATBLOCK-MARKDOWN-LINK>Zauber/Magisches_Geschoss-phb|Magisches Geschoss<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>Zauber/Schild-phb|Schild<STATBLOCK-MARKDOWN-LINK>
+
+      **2. Grad (2 Plätze):** <STATBLOCK-MARKDOWN-LINK>Zauber/Flammenkugel-phb|Flammenkugel<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>Zauber/Verschwimmen-phb|Verschwimmen<STATBLOCK-MARKDOWN-LINK>
+
+      **3. Grad (1 Platz):** <STATBLOCK-MARKDOWN-LINK>Zauber/Feuerball-phb|Feuerball<STATBLOCK-MARKDOWN-LINK>
+actions:
+  - name: Mehrfachangriff
+    desc: Der Flammenschädel verwendet zweimal seinen Feuerstrahl.
+  - name: Feuerstrahl
+    desc: "*Fernkampf-Zauberangriff:* +5 zum Treffen, Reichweite 9 m, ein Ziel. *Treffer:* 10 (3d6) Feuerschaden."
 ```
 ^statblock
 
-## Environment
+## Vorkommen
 
-underdark
+Unterreich

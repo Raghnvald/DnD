@@ -121,9 +121,16 @@ $\quad$**Schatz.** Tharden trägt einen [[Umhang_des_Schutzes-dmg|Umhang des Sch
 
 Dieses Labyrinth aus Gängen ist ein alter Teil des ursprünglichen Minenbereichs der Wellenhallhöhle.
 
-$\quad$In einer solchen Sackgasse lauert eine [[Ockerhallerte-mm|Ockergallerte]]. (Du bestimmst den genauen Ort der Gallerte.) Wenn die Abenteurergruppe diesen Bereich der Mine betritt, beginnt die Gallerte, sie zu verfolgen, wobei sie instinktiv auf die Gelegenheit wartet, ein einzelnes Ziel anzugreifen.
+$\quad$In einer solchen Sackgasse lauert eine [[Ockergallerte-mm|Ockergallerte]]. (Du bestimmst den genauen Ort der Gallerte.) Wenn die Abenteurergruppe diesen Bereich der Mine betritt, beginnt die Gallerte, sie zu verfolgen, wobei sie instinktiv auf die Gelegenheit wartet, ein einzelnes Ziel anzugreifen.
 
 $\quad$**Niedrige Decke.** Aufgrund der niedrigen Decke in diesem Bereich sind mindestens mittelgroße Kreaturen bei Angriffswürfen mit Nahkampfwaffen, die keine leichten Waffen sind, im Nachteil.
+
+```encounter
+name: W2
+party: Tierschutzverein Faerun
+creatures:
+  - 1 Ockergallerte
+```
 
 #### W3: Alter Eingang
 
@@ -148,7 +155,7 @@ creatures:
 > [!readaloud] W4: Alter Wachraum
 > Geborstene Steinbänke und Geröllhaufen von einem teilweisen Deckeneinsturz füllen diesen Raum. Zwischen kaputten Steinbetten und umgestürzten Waffenregalen liegen acht Leichen, darunter die faulenden Überreste von zwei Ogern.
 
-In der Runde, nachdem eine lebende Kreatur diese Kammer betreten hat, erheben sich die toten Kreaturen und greifen an. Die zwei [[Untot/Ogerzombie-mm|Oger-Zombies]] und sechs Zwerg-[[Untot/Zombie-mm|Zombies]] kämpfen, bis sie zerstört werden.
+In der Runde, nachdem eine lebende Kreatur diese Kammer betreten hat, erheben sich die toten Kreaturen und greifen an. Die zwei [[Untot/Ogerzombie-mm|Ogerzombies]] und sechs Zwerg-[[Untot/Zombie-mm|Zombies]] kämpfen, bis sie zerstört werden.
 
 ```encounter
 name: W4
@@ -201,7 +208,7 @@ Hier lauern zwei [[Violetter_Pilz-mm|violette Pilze]]: einer im zentralen Pilzte
 
 $\quad$Die grün leuchtenden Pilze sind harmlos und ermöglichen Kreaturen, ohne Hilfe von [[Sinne-phb#Dunkelsicht|Dunkelsicht]] oder einer Lichtquelle in der gesamten Höhle sehen zu können.
 
-$\quad$In dieser Höhle sind die Erkundungen der Spinne ins Stocken geraten. [[Nezznar_die_Schwarze_Spinne-pabtso]] vermutet, dass sich die Magierwerkstätten der Mine in der Nähe befinden, schreckt jedoch vor den gefährlichen Monstern hier zurück.
+$\quad$In dieser Höhle sind die Erkundungen der Spinne ins Stocken geraten. [[Nezznar_die_Schwarze_Spinne-pabtso|Nezznar]] vermutet, dass sich die Magierwerkstätten der Mine in der Nähe befinden, schreckt jedoch vor den gefährlichen Monstern hier zurück.
 
 ```encounter
 name: W8
@@ -239,7 +246,7 @@ $\quad$**_Teich:_** Der Teich ist in der Mitte sechs Meter tief. Der Bach nach N
 
 $\quad$Ein Charakter, der den Teich erkundet, findet drei Meter vom Ufer entfernt und in drei Metern Tiefe ein altes Skelett am Grund. Es gehörte einem menschlichen Magier aus dem alten Phandalin, der bei der Verteidigung der Mine gegen Banditen starb. In den Rippen des Skeletts stecken noch immer ein paar Pfeile.
 
-$\quad$**_Schätze:_** An den Skeletthänden des Magiers lassen sich drei juwelenbesetzte Goldringe (je 150 <font color="Gold">Goldmünzen</font> wert) finden. Außerdem hält eine Knochenhand einen [[Zauberstab der magischen Geschosse-dmg|Zauberstab der magischen Geschosse]] umklammert.
+$\quad$**_Schätze:_** An den Skeletthänden des Magiers lassen sich drei juwelenbesetzte Goldringe (je 150 <font color="Gold">Goldmünzen</font> wert) finden. Außerdem hält eine Knochenhand einen [[Zauberstab_der_magischen_Geschosse-dmg|Zauberstab der magischen Geschosse]] umklammert.
 
 #### W11: Nördliche Quartiere
 
@@ -392,7 +399,8 @@ $\quad$Die Zwerge haben den Bach in den Kanal in Bereich [[#W12 Hochofenhöhle|W
 
 #### W18: Eingestürzte Höhle
 
-> [!readaloud] Ein breiter Spalt zieht sich durch die östliche Hälfte dieser Höhle. Aus der Westwand dringt ein Wasserstrom, stürzt in den Riss und fließt nach Norden. Mehrere Seile hängen an Eisenstangen vom westlichen Rand des Risses. Sie reichen bis zu dessen Boden. Ein Drow-Aufseher bellt zwei Grottenschraten, die das Geröll durchwühlen, Befehle zu. Zwei weitere Grottenschrate stehen Wache.
+> [!readaloud] W18: Eingestürzte Höhle
+> Ein breiter Spalt zieht sich durch die östliche Hälfte dieser Höhle. Aus der Westwand dringt ein Wasserstrom, stürzt in den Riss und fließt nach Norden. Mehrere Seile hängen an Eisenstangen vom westlichen Rand des Risses. Sie reichen bis zu dessen Boden. Ein Drow-Aufseher bellt zwei Grottenschraten, die das Geröll durchwühlen, Befehle zu. Zwei weitere Grottenschrate stehen Wache.
 
 Diese Höhle ist von [[Nezznar_die_Schwarze_Spinne-pabtso|Nezznars]] Lakaien besetzt. Die Weissagungen der Spinne lassen darauf schließen, dass sich wertvolle Schätze am Grund des Spalts befinden, der entstand, als dieser Bereich zerstört wurde.
 

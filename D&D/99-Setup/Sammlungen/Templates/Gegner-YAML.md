@@ -1,7 +1,7 @@
 cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
-Bezeichnung: 
-Typ: Bestie
+Name: 
+Typ: 
 Größe: 
 HG: 
 status:

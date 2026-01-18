@@ -1,6 +1,15 @@
 ---
-cssclasses:
-  - json5e-monster
+cssclasses: dnd5e-only-statblock
+prefer-view: edit-source read
+Name: Doppelgänger
+Typ: Monstrosität
+Größe: Mittelgroß
+HG: 3
+Habitat:
+  - Stadt
+  - Unterreich
+status: completed
+image: image/doppelganger-webp
 tags:
   - Quelle/5e/mm
   - Monster/HG/3
@@ -13,87 +22,71 @@ statblock-link: "#^statblock"
 aliases:
   - Doppelganger
 ---
-# [Doppelganger](3-Mechanics\CLI\bestiary\monstrosity/doppelganger.md)
-*Source: Monster Manual p. 82. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+# Doppelgänger
+*Quelle: Monsterhandbuch S. 316. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*  
 
-Doppelgangers are devious shapeshifters that take on the appearance of other humanoids, throwing off pursuit or luring victims to their doom with misdirection and disguise. Few creatures spread fear, suspicion, and deceit better than doppelgangers. Found in every land and culture, they can take on the guise of any individual of any race.
+Doppelgänger sind verschlagene Gestaltwandler, die das Aussehen anderer Humanoider annehmen können, um Verfolger abzuschütteln oder Opfer mit Täuschung und Verkleidung in ihren Untergang zu locken. Wenige Kreaturen sind besser darin, Furcht, Misstrauen und Verrat zu säen als Doppelgänger. Man findet sie in allen Ländern und Kulturen, und sie können das Aussehen von Personen aller Völker annehmen.
 
-## Stealing Secrets
+## Geheimnisraub
 
-A doppelganger's adopted form allows it to blend into almost any group or community, but its transformation doesn't impart languages, mannerisms, memory, or personality. Doppelgangers often follow or capture creatures they intend to impersonate, studying them and probing their minds for secrets. A doppelganger can read a creature's surface thoughts, allowing it to glean that creature's name, desires, and fears, along with a few scattered memories. A doppelganger impersonating a specific creature as part of a long-term plot might keep its double alive and close at hand for weeks, probing the victim's mind daily to learn how to behave and speak authentically.
+Die angenommene Form eines Doppelgängers erlaubt es ihm, sich in fast jede Gruppe oder Gemeinschaft zu mischen, doch verleiht sie ihm keine Sprachen, Manierismen, Erinnerungen oder Persönlichkeit der Person. Doppelgänger folgen oft Kreaturen, die sie nachahmen wollen, oder fangen sie, um sie zu studieren und ihren Verstand nach Geheimnissen abzusuchen. Doppelgänger können die oberflächlichen Gedanken von Kreaturen lesen, sodass sie den Namen, die Begierden und Ängste der Kreatur in Erfahrung bringen können, zusammen mit einigen zufälligen Erinnerungen.
 
-## Hedonistic Swindlers
+$\quad$Ein Doppelgänger, der als Teil einer langfristigen Intrige eine bestimmte Kreatur nachahmt, hält manchmal sein Double für Wochen am Leben und in seiner Nähe, um täglich seine Gedanken zu sondieren und zu lernen, wie er sich authentisch benehmen und sprechen muss.
 
-Doppelgangers work alone or in small groups, with group roles shifting from con to con. While one doppelganger takes the place of a murdered merchant or noble, the others take on a number of identities as circumstances warrant, playing the parts of family or servants while they live off the victim's riches.
+## Genusssüchtige Schwindler
 
-## Changelings
+Doppelgänger arbeiten alleine oder in kleinen Gruppen, wobei sich die Rollen in der Gruppe von Komplott zu Komplott ändern können. Während ein Doppelgänger den Platz eines ermordeten Kaufmanns oder Adeligen einnimmt, übernehmen die anderen Rollen, die die Umstände erfordern. Sie spielen die Rolle von Familienmitgliedern und Dienern, während sie von den Reichtümern des Opfers leben.
 
-Doppelgangers are too lazy or self-interested to raise their young. They assume attractive male forms and seduce women, leaving them to raise their progeny. A doppelganger child appears to be a normal member of its mother's species until it reaches adolescence, at which point it discovers its true nature and is driven to seek out its kind to join them.
+## Wechselbälger
+
+Doppelgänger sind zu faul und selbstsüchtig, um ihre Kinder großzuziehen. Sie nehmen attraktive männliche Gestalten an und verführen Frauen, die sie zurücklassen, um ihre Nachkommenschaft großzuziehen. Ein Doppelgängerkind scheint ein normales Mitglied der Spezies der Mutter zu sein, bis er in die Pubertät kommt; dann erkennt er sein wahres Wesen und verspürt den Drang, andere seiner Art zu finden und sich ihnen anzuschließen.
 
 ```statblock
-"name": "Doppelgänger"
-"size": "Medium"
-"type": "monstrosity"
-"subtype": "shapechanger"
-"alignment": "Neutral"
-"ac": !!int "14"
-"hp": !!int "52"
-"hit_dice": "8d8 + 16"
-"modifier": !!int "4"
-"stats":
-  - !!int "11"
-  - !!int "18"
-  - !!int "14"
-  - !!int "11"
-  - !!int "12"
-  - !!int "14"
-"speed": "30 ft."
-"skillsaves":
-  - "name": "[Deception](/3-Mechanics/CLI/skills.md#Deception)"
-    "desc": "+6"
-  - "name": "[Insight](/3-Mechanics/CLI/skills.md#Insight)"
-    "desc": "+3"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 11"
-"languages": "Common"
-"cr": "3"
-"traits":
-  - "desc": "The doppelganger can use its action to polymorph into a Small or Medium\
-      \ humanoid it has seen, or back into its true form. Its statistics, other than\
-      \ its size, are the same in each form. Any equipment it is wearing or carrying\
-      \ isn't transformed. It reverts to its true form if it dies."
-    "name": "Shapechanger"
-  - "desc": "In the first round of a combat, the doppelganger has advantage on attack\
-      \ rolls against any creature it [surprised](/3-Mechanics/CLI/conditions.md#Surprised)."
-    "name": "Ambusher"
-  - "desc": "If the doppelganger surprises a creature and hits it with an attack during\
-      \ the first round of combat, the target takes an extra 10 (3d6) damage from\
-      \ the attack."
-    "name": "Surprise Attack"
-"actions":
-  - "desc": "The doppelganger makes two melee attacks."
-    "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 7 (1d6\
-      \ + 4) bludgeoning damage."
-    "name": "Slam"
-  - "desc": "The doppelganger magically reads the surface thoughts of one creature\
-      \ within 60 feet of it. The effect can penetrate barriers, but 3 feet of wood\
-      \ or dirt, 2 feet of stone, 2 inches of metal, or a thin sheet of lead blocks\
-      \ it. While the target is in range, the doppelganger can continue reading its\
-      \ thoughts, as long as the doppelganger's [concentration](/3-Mechanics/CLI/conditions.md#Concentration)\
-      \ isn't broken (as if [concentrating](/3-Mechanics/CLI/conditions.md#Concentration)\
-      \ on a spell). While reading the target's mind, the doppelganger has advantage\
-      \ on Wisdom ([Insight](/3-Mechanics/CLI/skills.md#Insight)) and Charisma ([Deception](/3-Mechanics/CLI/skills.md#Deception),\
-      \ [Intimidation](/3-Mechanics/CLI/skills.md#Intimidation), and [Persuasion](/3-Mechanics/CLI/skills.md#Persuasion))\
-      \ checks against the target."
-    "name": "Read Thoughts"
-"source":
-  - "MM"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/doppelganger.webp"
+name: Doppelgänger
+image: token/doppelganger.webp
+source: MM
+size: Mittelgroß
+type: Monstrosität
+subtype: Gestaltwandler
+alignment: Neutral
+ac: 14
+hp: 52
+hit_dice: 8d8 + 16
+modifier: 4
+stats:
+  - 11
+  - 18
+  - 14
+  - 11
+  - 12
+  - 14
+speed: 9 m
+skillsaves:
+  - name: <STATBLOCK-MARKDOWN-LINK>01-Spielleiter/Fertigkeiten-phb#Motiv%20erkennen|Motiv erkennen<STATBLOCK-MARKDOWN-LINK>
+    desc: "+3"
+  - name: <STATBLOCK-MARKDOWN-LINK>01-Spielleiter/Fertigkeiten-phb#Täuschen|Täuschen<STATBLOCK-MARKDOWN-LINK>
+    desc: "+6"
+condition_immunities: <STATBLOCK-MARKDOWN-LINK>01-Spielleiter/Zustände-phb#Bezaubert|Bezaubert<STATBLOCK-MARKDOWN-LINK>
+senses: <STATBLOCK-MARKDOWN-LINK>01-Spielleiter/Sinne-phb#Dunkelsicht|Dunkelsicht<STATBLOCK-MARKDOWN-LINK> 18 Meter, passive Wahrnehmung 11
+languages: Gemeinsprache
+cr: 3
+traits:
+  - name: Gestaltwandler
+    desc: "Der Doppelgänger kann seine Aktion verwenden, um sich in die Gestalt eines kleinen oder mittelgroßen Humanoiden zu verwandeln oder seine wahre Gestalt anzunehmen. Seine Spielwerte sind gleich, egal, welche Form er gerade hat. Jede Ausrüstung, die er tragen oder in der Hand halten sollte, wird mit verwandelt. Er nimmt wieder seine wahre Gestalt an, wenn er stirbt."
+  - name: Lauerjäger
+    desc: "In der ersten Kampfrunde hat der Doppelgänger einen Vorteil auf seine Angriffswürfe gegen jede Kreatur, die er <STATBLOCK-MARKDOWN-LINK>01-Spielleiter/Zustände-phb#Überraschung|überrascht<STATBLOCK-MARKDOWN-LINK> hat."
+  - name: Überraschungsangriff
+    desc: "Wenn der Doppelgänger eine Kreatur überrascht und sie in der ersten Kampfrunde mit einem Angriff trifft, dann erleidet das Ziel zusätzlich 10 (3d6) Schaden durch den Angriff."
+actions:
+  - name: Mehrfachangriff
+    desc: Der Doppelgänger führt zwei Nahkampfangriffe durch.
+  - name: Hieb
+    desc: "*Nahkampf-Waffenangriff:* +6 zum Treffen, Reichweite 1,5 m, ein Ziel. *Treffer:* 7 (1d6+4) Wuchtschaden."
+  - name: Gedanken lesen
+    desc: Der Doppelgänger liest die oberflächlichen Gedanken einer Kreatur innerhalb von 18 m um sich. Der Effekt kann Hindernisse durchdringen, aber 90 cm Holz oder Erde, 60 cm Stein, 5 cm Metall oder eine dünne Schicht Blei blockieren ihn. Solange das Ziel in Reichweite ist, kann der Doppelgänger weiter seine Gedanken lesen, solange die <STATBLOCK-MARKDOWN-LINK>01-Spielleiter/Zustände-phb#Konzentration|Konzentration<STATBLOCK-MARKDOWN-LINK> des Doppelgängers nicht gebrochen wird (als würde er sich auf einen Zauber <STATBLOCK-MARKDOWN-LINK>01-Spielleiter/Zustände-phb#Konzentration|konzentrieren<STATBLOCK-MARKDOWN-LINK>). Solange der Doppelgänger die Gedanken eines Ziels liest, hat er einen Vorteil auf Würfe mit Weisheit (<STATBLOCK-MARKDOWN-LINK>01-Spielleiter/Fertigkeiten-phb#Motiv%20erkennen|Motiv erkennen<STATBLOCK-MARKDOWN-LINK>) und Charisma (<STATBLOCK-MARKDOWN-LINK>01-Spielleiter/Fertigkeiten-phb#MTäuschen|Täuschen<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>01-Spielleiter/Fertigkeiten-phb#Einschüchtern|Einschüchtern<STATBLOCK-MARKDOWN-LINK> und <STATBLOCK-MARKDOWN-LINK>01-Spielleiter/Fertigkeiten-phb#Überzeugen|Überzeugen<STATBLOCK-MARKDOWN-LINK>) gegen das Ziel. 
 ```
 ^statblock
 
-## Environment
+## Vorkommen
 
-underdark, urban
+Stadt, Unterreich

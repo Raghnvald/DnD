@@ -1,4 +1,14 @@
 ---
+cssclasses: dnd5e-only-statblock
+prefer-view: edit-source read
+Name: Mormesk der Todesalb
+Typ: Untot
+Größe: Mittelgroß
+HG: 5
+Habitat:
+  - /
+status:
+image: token/mormesk-the-wraith-pabtso.webp
 tags:
   - Quelle/5e/pabtso
   - Monster/HG/5
@@ -8,65 +18,44 @@ statblock: inline
 statblock-link: "#^statblock"
 aliases:
   - Mormesk the Wraith
-Name: Mormesk der Todesalb
-Image: npc/token/mormesk-the-wraith-pabtso.webp
 ---
-# Mormesk the Wraith
-*Source: Phandelver and Below: The Shattered Obelisk p. 70*  
+# Mormesk der Todesalb
+*Quelle: Die Tiefen von Phandelver: Der zersplitterte Obelisk S. 70*  
 
 ```statblock
-"name": "Mormesk der Todesalb"
-"size": "Medium"
-"type": "undead"
-"alignment": "Neutral Evil"
-"ac": !!int "13"
-"hp": !!int "67"
-"hit_dice": "9d8 + 27"
-"modifier": !!int "3"
-"stats":
-  - !!int "6"
-  - !!int "16"
-  - !!int "16"
-  - !!int "12"
-  - !!int "14"
-  - !!int "15"
-"speed": "0 ft., fly 60 ft. (hover)"
-"damage_resistances": "acid; cold; fire; lightning; thunder; bludgeoning, piercing,\
-  \ slashing from nonmagical attacks that aren't silvered"
-"damage_immunities": "necrotic, poison"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [grappled](/3-Mechanics/CLI/conditions.md#Grappled), [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed),\
-  \ [petrified](/3-Mechanics/CLI/conditions.md#Petrified), [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned),\
-  \ [prone](/3-Mechanics/CLI/conditions.md#Prone), [restrained](/3-Mechanics/CLI/conditions.md#Restrained)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 12"
-"languages": "the languages it knew in life"
-"cr": "5"
-"traits":
-  - "desc": "Mormesk can move through other creatures and objects as if they were\
-      \ difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside\
-      \ an object."
-    "name": "Incorporeal Movement"
-  - "desc": "While in sunlight, Mormesk has disadvantage on attack rolls, as well\
-      \ as on Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) checks\
-      \ that rely on sight."
-    "name": "Sunlight Sensitivity"
-"actions":
-  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one creature. *Hit:* 21\
-      \ (4d8 + 3) necrotic damage. The target must succeed on a DC 14 Constitution\
-      \ saving throw or its hit point maximum is reduced by an amount equal to the\
-      \ damage taken. This reduction lasts until the target finishes a long rest.\
-      \ The target dies if this effect reduces its hit point maximum to 0."
-    "name": "Life Drain"
-  - "desc": "Mormesk targets a humanoid within 10 feet of it that has been dead for\
-      \ no longer than 1 minute and died violently. The target's spirit rises as a\
-      \ [specter](/3-Mechanics/CLI/bestiary/undead/specter-xmm.md) in the space of\
-      \ its corpse or in the nearest unoccupied space. The [specter](/3-Mechanics/CLI/bestiary/undead/specter-xmm.md)\
-      \ is under Mormesk's control. Mormesk can have no more than seven specters under\
-      \ its control at one time."
-    "name": "Create Specter"
-"source":
-  - "PaBTSO"
-"image": "npc/token/mormesk-the-wraith-pabtso.webp"
+name: Mormesk der Todesalb
+image: npc/token/mormesk-the-wraith-pabtso.webp
+source: PaBTSO
+size: Mittelgroß
+type: Untoter
+alignment: Neutral Böse
+ac: 13
+hp: 67
+hit_dice: 9d8 + 27
+modifier: 3
+stats:
+  - 6
+  - 16
+  - 16
+  - 12
+  - 14
+  - 15
+speed: 0 m, fliegen 18 m (schweben)
+damage_resistances: Blitz, Feuer, Kälte, Säure, Schall; Wucht-, Stich- und Hiebschaden durch nichtmagische Angriffe, die nicht von versilberten Waffen zugefügt werden.
+damage_immunities: Gift, nekrotisch
+condition_immunities: <STATBLOCK-MARKDOWN-LINK>01-Spielleiter/Zustände-phb#Bezaubert|Bezaubert<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>01-Spielleiter/Zustände-phb#Erschöpfung|Erschöpft<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>01-Spielleiter/Zustände-phb#Festgesetzt|Festgesetzt<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>01-Spielleiter/Zustände-phb#Gelähmt|Gelähmt<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>01-Spielleiter/Zustände-phb#Gepackt|Gepackt<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>01-Spielleiter/Zustände-phb#Liegend|Liegend<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>01-Spielleiter/Zustände-phb#Vergiftet|Vergiftet<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>01-Spielleiter/Zustände-phb#Versteinert|Versteinert<STATBLOCK-MARKDOWN-LINK>
+senses: <STATBLOCK-MARKDOWN-LINK>01-Spielleiter/Sinne-phb#Dunkelsicht|Dunkelsicht<STATBLOCK-MARKDOWN-LINK> 18 m, passive Wahrnehmung 12
+languages: die Sprachen die er im Leben kannte
+cr: 5
+traits:
+  - name: Körperlose Bewegung
+    desc: Mormesk kann sich durch andere Kreaturen und Gegenstände bewegen als seien sie schwieriges Gelände. Er erleidet 5 (1d10) Energieschaden, wenn er seinen Zug in einem Gegenstand beendet.
+  - name: Empfindlich gegenüber Sonnenlicht
+    desc: Solange sich Mormesk im Sonnenlicht befindet, hat er einen Nachteil bei Angriffswürfen und Würfen auf Weisheit (<STATBLOCK-MARKDOWN-LINK>01-Spielleiter/Fertigkeiten-phb#Wahrnehmung|Wahrnehmung<STATBLOCK-MARKDOWN-LINK>), die Sicht verwenden.
+actions:
+  - name: Lebensentzug
+    desc: "*Nahkampf-Waffenangriff:* +6 zum Treffen, Reichweite 1,5 m, eine Kreatur. *Treffer:* 21 (4d8 + 3) nekrotischer Schaden. Das Ziel muss einen Konstitutionsrettungswurf gegen SG 14 ablegen, sonst werden seine maximalen Trefferpunkte um den erlittenen Schaden verringert. Diese Verringerung hält an, bis das Ziel eine lange Rast beendet. Das Ziel stirbt, wenn dieser Effekt es auf 0 maximale Trefferpunkte reduziert."
+  - name: Schreckgespenst erschaffen
+    desc: Mormesk wählt einen Humanoiden innerhalb von 3 m aus, der nicht länger als 1 Minute tot ist und einen gewalttätigen Tod erlitten hat. Der Geist des Ziels erhebt sich als <STATBLOCK-MARKDOWN-LINK>Untot/Schreckgespenst-mm|Schreckgespenst<STATBLOCK-MARKDOWN-LINK> im Bereich seines Leichnams oder im nächsten nicht besetzten Bereich. Das <STATBLOCK-MARKDOWN-LINK>Untot/Schreckgespenst-mm|Schreckgespenst<STATBLOCK-MARKDOWN-LINK> steht unter Mormesks Kontrolle. Mormesk kann nicht mehr als sieben <STATBLOCK-MARKDOWN-LINK>Untot/Schreckgespenst-mm|Schreckgespenster<STATBLOCK-MARKDOWN-LINK> auf einmal unter seiner Kontrolle haben.
 ```
 ^statblock

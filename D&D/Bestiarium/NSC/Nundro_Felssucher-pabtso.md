@@ -1,6 +1,14 @@
 ---
-cssclasses:
-  - json5e-monster
+cssclasses: dnd5e-only-statblock
+prefer-view: edit-source read
+Name: Nundro Felssucher
+Typ: Humanoid (Zwerg)
+Größe: Mittelgroß
+HG: 0
+Habitat:
+  - /
+status: completed
+image: image/nundro-rockseeker-pabtso.webp
 tags:
   - Quelle/5e/pabtso
   - Monster/HG/0
@@ -10,44 +18,40 @@ statblock: inline
 statblock-link: "#^statblock"
 aliases:
   - Nundro Rockseeker
-Name: Nundro Rockseeker
-Image: npc/token/nundro-rockseeker-pabtso.webp
 ---
 # Nundro Rockseeker
 *Source: Phandelver and Below: The Shattered Obelisk p. 73*  
 
 ```statblock
-"name": "Nundro Rockseeker (PaBTSO)"
-"size": "Medium"
-"type": "humanoid"
-"subtype": "any race"
-"alignment": "Any alignment"
-"ac": !!int "10"
-"hp": !!int "4"
-"hit_dice": "1d8"
-"modifier": !!int "0"
-"stats":
-  - !!int "10"
-  - !!int "10"
-  - !!int "10"
-  - !!int "10"
-  - !!int "10"
-  - !!int "10"
-"speed": "30 ft."
-"damage_resistances": "poison"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 10"
-"languages": "any one language (usually Common), Dwarvish"
-"cr": "0"
-"traits":
-  - "desc": "Nundro"
-    "name": "Dwarven Resilience"
-"actions":
-  - "desc": "*Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 2 (1d4)\
-      \ bludgeoning damage."
-    "name": "Club"
-"source":
-  - "PaBTSO"
-"image": "npc/token/nundro-rockseeker-pabtso.webp"
+name: Nundro Felssucher
+image: token/nundro-rockseeker-pabtso.webp
+source:
+  - PaBTSO
+size: Mittelgroß
+type: Humanoid
+subtype: Zwerg
+alignment: Jede Gesinnung
+ac: 10
+hp: 4
+hit_dice: 1d8
+modifier: 0
+stats:
+  - 10
+  - 10
+  - 10
+  - 10
+  - 10
+  - 10
+speed: 9 Meter
+damage_resistances: Gift
+senses: <STATBLOCK-MARKDOWN-LINK>01-Spielleiter/Sinne-phb#Dunkelsicht|Dunkelsicht<STATBLOCK-MARKDOWN-LINK> 18 Meter, passive Wahrnehmunng 10
+languages: eine beliebige Sprache (zumeist Gemeinsprache), Zwergisch
+cr: 0
+traits:
+  - name: Zwergische Zähigkeit
+    desc: Nundros Trefferpunktemaximum erhöht sich um 1 Punkt und um 1 weiteren Punkt jedes Mal, wenn er eine Stufe aufsteigt.
+actions:
+  - name: Keule
+    desc: "*Nahkampf-Waffenangriff:* +2 zum Treffen, Reichweite 1,5 m, ein Ziel. *Treffer:* 2 (1d4) Wuchtschaden."
 ```
 ^statblock

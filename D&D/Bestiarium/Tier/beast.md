@@ -46,7 +46,7 @@ cssclasses:
 - [Elk](./elk-xmm.md)
 - [Frog](./frog-xmm.md)
 - [Giant Ape](./giant-ape-xmm.md)
-- [Giant Badger](./giant-badger-xmm.md)
+- [Giant Badger](Riesendachs-xmm.md)
 - [Giant Bat](./giant-bat-xmm.md)
 - [Giant Boar](./giant-boar-xmm.md)
 - [Giant Canary](./giant-canary-ftd.md)

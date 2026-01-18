@@ -1,6 +1,14 @@
 ---
-cssclasses:
-  - json5e-monster
+cssclasses: dnd5e-only-statblock
+prefer-view: edit-source read
+Name: Riesenoktopus
+Typ: Tier
+Größe: Groß
+HG: 1
+Habitat:
+  - Unterwasser
+status: completed
+image: image/giant-octopus.webp
 tags:
   - Quelle/5e/mm
   - Monster/HG/1
@@ -12,60 +20,51 @@ statblock-link: "#^statblock"
 aliases:
   - Giant Octopus
 ---
-# [Giant Octopus](3-Mechanics\CLI\bestiary\beast/giant-octopus.md)
-*Source: Monster Manual p. 326. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+# Riesenoktopus
+*Quelle: Monsterhandbuch S. 332. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*   
 
 ```statblock
-"name": "Riesenoktopus"
-"size": "Large"
-"type": "beast"
-"alignment": "Unaligned"
-"ac": !!int "11"
-"hp": !!int "52"
-"hit_dice": "8d10 + 8"
-"modifier": !!int "1"
-"stats":
-  - !!int "17"
-  - !!int "13"
-  - !!int "13"
-  - !!int "4"
-  - !!int "10"
-  - !!int "4"
-"speed": "10 ft., swim 60 ft."
-"skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
-    "desc": "+4"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
-    "desc": "+5"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 14"
-"languages": ""
-"cr": "1"
-"traits":
-  - "desc": "While out of water, the octopus can hold its breath for 1 hour."
-    "name": "Hold Breath"
-  - "desc": "The octopus has advantage on Dexterity ([Stealth](/3-Mechanics/CLI/skills.md#Stealth))\
-      \ checks made while underwater."
-    "name": "Underwater Camouflage"
-  - "desc": "The octopus can breathe only underwater."
-    "name": "Water Breathing"
-"actions":
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 15 ft., one target. *Hit:* 10\
-      \ (2d6 + 3) bludgeoning damage. If the target is a creature, it is [grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
-      \ (escape DC 16). Until this grapple ends, the target is [restrained](/3-Mechanics/CLI/conditions.md#Restrained),\
-      \ and the octopus can't use its tentacles on another target."
-    "name": "Tentacles"
-  - "desc": "A 20-foot-radius cloud of ink extends all around the octopus if it is\
-      \ underwater. The area is heavily obscured for 1 minute, although a significant\
-      \ current can disperse the ink. After releasing the ink, the octopus can use\
-      \ the Dash action as a bonus action."
-    "name": "Ink Cloud (Recharges after a Short or Long Rest)"
-"source":
-  - "MM"
-"image": "/3-Mechanics/CLI/bestiary/beast/token/giant-octopus.webp"
+name: Riesenoktopus
+image: token/giant-octopus.webp
+source: MM
+size: Groß
+type: Tier
+alignment: gesinnungslos
+ac: 11
+hp: 52
+hit_dice: 8d10 + 8
+modifier: 1
+stats:
+  - 17
+  - 13
+  - 13
+  - 4
+  - 10
+  - 4
+speed: 3 m, schwimmen 18 m
+skillsaves:
+  - name: <STATBLOCK-MARKDOWN-LINK>01-Spielleiter/Fertigkeiten-phb#Heimlichkeit|Heimlichkeit<STATBLOCK-MARKDOWN-LINK>
+    desc: "+5"
+  - name: <STATBLOCK-MARKDOWN-LINK>01-Spielleiter/Fertigkeiten-phb#Wahrnehmung|Wahrnehmung<STATBLOCK-MARKDOWN-LINK>
+    desc: "+4"
+senses: <STATBLOCK-MARKDOWN-LINK>01-Spielleiter/Sinne-phb#Dunkelsicht|Dunkelsicht<STATBLOCK-MARKDOWN-LINK> 18 Meter, passive Wahrnehmung  14
+languages: 
+cr: 1
+traits:
+  - name: Atem anhalten
+    desc: Solange der Oktopus sich außerhalb des Wassers befindet, kann er für l Stunde den Atem anhalten.
+  - name: Unterwasseratmung
+    desc: Der Oktopus hat einen Vorteil bei Würfen auf Geschicklichkeit (<STATBLOCK-MARKDOWN-LINK>01-Spielleiter/Fertigkeiten-phb#Heimlichkeit|Heimlichkeit<STATBLOCK-MARKDOWN-LINK>), wenn er sich unter Wasser verstecken möchte.
+  - name: Wasser atmen
+    desc: Der Oktopus kann nur unter Wasser atmen.
+actions:
+  - name: Tentakel
+    desc: "*Nahkampf-Waffenangriff:* +5 zum Treffen, Reichweite 4,5 m, ein Ziel. *Treffer:* 10 (2d6+3) Wuchtschaden. Wenn das Ziel eine Kreatur ist, wird es <STATBLOCK-MARKDOWN-LINK>01-Spielleiter/Zustände-phb#Gepackt|gepackt<STATBLOCK-MARKDOWN-LINK> (SG zum Entkommen 16). Bis der Haltegriff endet, ist die Kreatur <STATBLOCK-MARKDOWN-LINK>01-Spielleiter/Zustände-phb#Festgesetzt|festgesetzt<STATBLOCK-MARKDOWN-LINK>, und der Oktopus kann seine Tentakel nicht gegen ein anderes Ziel verwenden."
+  - name: Tintenwolke (Aufladung nach einer Kurzen oder Langen Rast)
+    desc: "Eine Tintenwolke mit 6 m Radius breitet sich um den Oktopus aus, wenn er sich unter Wasser befindet. Der Bereich ist für l Minute komplett verschleiert, auch wenn eine starke Strömung die Tinte zerstreuen kann. Nachdem der Oktopus die Tinte abgegeben hat, kann er die Spurt-Aktion als Bonusaktion verwenden."
 ```
 ^statblock
 
-## Environment
+## Vorkommen 
 
-underwater
+Unterwasser

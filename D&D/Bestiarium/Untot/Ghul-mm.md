@@ -9,8 +9,8 @@ Habitat:
   - Stadt
   - Sumpf
   - Unterreich
-status: WIP
-image:
+status: completed
+image: image/ghoul.webp
 tags:
   - Quelle/5e/mm
   - Monster/Typ/Untote
@@ -25,7 +25,7 @@ aliases:
   - Ghoul
 ---
 # Ghul
-*Source: Monster Manual p. 148. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+*Quelle: Monsterhandbuch S. 133. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*  
 
 Ghule streifen in Rudeln durch die Nacht, angetrieben von einem unstillbaren Hunger nach dem Fleisch von Humanoiden.
 
@@ -44,32 +44,32 @@ Orcus erfüllt einen Ghul manchmal mit einer größeren Dosis abyssischer Energi
 ```statblock
 name: Ghul
 image: token/ghoul.webp
-source: Monsterhandbuch 2014
+source: MM
 size: Mittelgroß
 type: Untoter
 alignment: chaotisch böse
-ac: !!int "12"
-hp: !!int "22"
-hit_dice: "5d8"
-modifier: !!int "2"
+ac: 12
+hp: 22
+hit_dice: 5d8
+modifier: 2
 stats:
-  - !!int "13"
-  - !!int "15"
-  - !!int "10"
-  - !!int "7"
-  - !!int "10"
-  - !!int "6"
-spee": "9 Meter"
-damage_immunities: "Gift"
-condition_immunities: "Bezaubert, Erschöpft, Vergiftet"
-senses: "Dunkelsicht 18 Meter, passive Wahrnehmung 10"
-languages: "Gemeinsprache"
-cr: "1"
+  - 13
+  - 15
+  - 10
+  - 7
+  - 10
+  - 6
+speed: 9 Meter
+damage_immunities: Gift
+condition_immunities: <STATBLOCK-MARKDOWN-LINK>01-Spielleiter/Zustände-phb#Bezaubert|Bezaubert<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>01-Spielleiter/Zustände-phb#Erschöpft|Erschöpft<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>01-Spielleiter/Zustände-phb#Vergiftet|Vergiftet<STATBLOCK-MARKDOWN-LINK>
+senses: <STATBLOCK-MARKDOWN-LINK>01-Spielleiter/Sinne-phb#Dunkelsicht|Dunkelsicht<STATBLOCK-MARKDOWN-LINK> 18 Meter, passive Wahrnehmung 10
+languages: Gemeinsprache
+cr: 1
 actions:
   - name: Biss
-    desc: "*Nahkampf-Waffenangriff:* +2 auf Treffer, Reichweite 1,5 m, eine Kreatur. *Treffer:* 9 (2d6 +2) Stichschaden."
+    desc: "*Nahkampf-Waffenangriff:* +2 zum Treffer, Reichweite 1,5 m, ein Ziel. *Treffer:* 9 (2d6+2) Stichschaden."
   - name: Klauen
-    desc: "Nahkampfwaffenangriff: +4 auf Treffer, Reichweite 1,5 m, ein Ziel. Treffer: 7 (`2W4+2`) Hiebschaden. Falls das Ziel eine Kreatur ist, aber kein Elf oder Untoter, muss es einen Konstitutions-Rettungswurf (SG 10) bestehen, um nicht eine Minute lang gelähmt zu werden. Das Ziel kann den Rettungswurf am Ende jedes seiner Züge wiederholen und den Effekt bei einem Erfolg beenden."
+    desc: "*Nahkampf-Waffenangriff:* +4 zum Treffer, Reichweite 1,5 m, ein Ziel. *Treffer:* 7 (2d4+2) Hiebschaden. Wenn das Ziel eine Kreatur und kein Elf oder Untoter ist, muss es einen Konstitutionsrettungswurf gegen SG 10 ablegen, um nicht für 1 Minute <STATBLOCK-MARKDOWN-LINK>01-Spielleiter/Zustände-phb#Gelähmt|gelähmt<STATBLOCK-MARKDOWN-LINK> zu werden. Das Ziel kann den gleichen Rettungswurf am Ende eines jeden seiner Züge wiederholen und den Effekt auf sich selbst bei einem Erfolg beenden."
 ```
 ^statblock
 

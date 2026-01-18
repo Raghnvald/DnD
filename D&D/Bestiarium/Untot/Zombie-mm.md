@@ -1,6 +1,14 @@
 ---
-cssclasses:
-  - json5e-monster
+cssclasses: dnd5e-only-statblock
+prefer-view: edit-source read
+Name: Zombie
+Typ: Untoter
+Größe: Mittelgroß
+HG: 1/4
+Habitat:
+  - Stadt
+status: completed
+image: image/zombie.webp
 tags:
   - Quelle/5e/mm
   - Monster/HG/1-4
@@ -11,15 +19,9 @@ statblock: inline
 statblock-link: "#^statblock"
 aliases:
   - Zombie
-Typ: Untoter
-Größe: Mittelgroß
-HG: 1/4
-Habitat:
-  - Stadt
-status: WIP
 ---
-# [Zombie](3-Mechanics\CLI\bestiary\undead/zombie.md)
-*Quelle: Monsterhandbuch S. 316. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+# Zombie
+*Quelle: Monsterhandbuch S. 316. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*  
 
 Von irgendwo in der Dunkelheit ertönt ein gurgelndes Stöhnen. Eine torkelnde Gestalt wird sichtbar. Sie schleift einen Fuß hinter sich her und hebt aufgedunsene Arme und zerbrochene Hände. Der Zombie rückt vor, getrieben, alle zu töten, die zu langsam sind, ihm zu entkommen.
 
@@ -48,39 +50,43 @@ $\quad$Ein Zombie kann einfache Befehle ausführen und Freund von Feind untersch
 Ein Zombie muss nicht atmen, essen, trinken oder schlafen.
 
 > [!quote] Fonkin Muldgipfel, über Freundschaft 
-> Nachdem Beek gestorben war, wirkten wir Tote beleben auf seinen Leichnam. Es hat-bg eine Weile Spaß gemacht, aber der Zombie begann richtig übel zu stinken, also haben wir ihn mit Öl übergossen und angezündet. Beek hätte es saukomisch gefunden.
+> Nachdem Beek gestorben war, wirkten wir Tote beleben auf seinen Leichnam. Es hat eine Weile Spaß gemacht, aber der Zombie begann richtig übel zu stinken, also haben wir ihn mit Öl übergossen und angezündet. Beek hätte es saukomisch gefunden.
 
 ```statblock
 name: Zombie
 image: token/zombie.webp
-source: Monsterhandbuch 2014
+source: MM
 size: Mittelgroß
 type: Untoter
 alignment: Neutral Böse
-ac: !!int "8"
-hp: !!int "22"
-hit_dice: "3d8 + 9"
-modifier: !!int "-2"
+ac: 8
+hp: 22
+hit_dice: 3d8 + 9
+modifier: -2
 stats:
-  - !!int "13"
-  - !!int "6"
-  - !!int "16"
-  - !!int "3"
-  - !!int "6"
-  - !!int "5"
-speed: "6 Meter"
+  - 13
+  - 6
+  - 16
+  - 3
+  - 6
+  - 5
+speed: 6 Meter
 saves:
-  - "WEI": !!int "0"
-damage_immunities: "Gift"
-condition_immunities: "Vergiftung"
-senses: "Dunkelsicht 18 m, passive Wahrnehmung 8"
-languages: "Versteht die Sprachen, die er im Leben sprach, kann aber nicht sprechen"
-cr: "1/4"
+  - Wei: 0
+damage_immunities: Gift
+condition_immunities: <STATBLOCK-MARKDOWN-LINK>01-Spielleiter/Zustände-phb#Vergiftet|vergiftet<STATBLOCK-MARKDOWN-LINK>
+senses: <STATBLOCK-MARKDOWN-LINK>01-Spielleiter/Sinne-phb#Dunkelsicht|Dunkelsicht<STATBLOCK-MARKDOWN-LINK> 18 m, passive Wahrnehmung 8
+languages: Versteht die Sprachen, die er im Leben sprach, kann aber nicht sprechen
+cr: 1/4
 traits:
-  - name: Untote Ausdauer.
-    desc: "Wenn die Trefferpunkte des Zombies auf O verringert werden, muss er einen Konstitutionsrettungswurf gegen SG 5 + erlittener Schaden ablegen, es sei denn , der Schaden war gleißender Schaden oder von einem kritischen Treffer. Bei einem Erfolg fällt der Zombie stattdessen auf 1 TP."
+  - name: Untote Ausdauer
+    desc: "Wenn die Trefferpunkte des Zombies auf 0 verringert werden, muss er einen `Konstitutionsrettungswurf` gegen `SG 5` + erlittener Schaden ablegen, es sei denn, der Schaden war gleißender Schaden oder von einem kritischen Treffer. Bei einem Erfolg fällt der Zombie stattdessen auf 1 TP."
 actions:
-  - name: Hieb.
-    desc: "_Nahkampf-Waffenangriff:_ +3 zum Treffen , Reichweite 1,5 m, ein Ziel. _Treffer:_ 4 (1W6 + 1) Wuchtschaden."
+  - name: Hieb
+    desc: "*Nahkampf-Waffenangriff:* +3 zum Treffen, Reichweite 1,5 m, ein Ziel. *Treffer:* 4 (1d6+1) Wuchtschaden."
 ```
 ^statblock
+
+## Vorkommen
+
+Stadt

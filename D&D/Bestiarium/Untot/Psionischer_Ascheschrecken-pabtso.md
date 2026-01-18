@@ -1,6 +1,14 @@
 ---
+cssclasses: dnd5e-only-statblock
+prefer-view: edit-source read
 Name: Psionischer Ascheschrecken
-Image: undead/token/psionic-ashenwight-pabtso.webp
+Typ: Untoter
+Größe: Mittelgroß
+HG: 7
+Habitat:
+  - /
+status: WIP
+image: token/psionic-ashenwight-pabtso.webp
 tags:
   - Quelle/5e/pabtso
   - Monster/HG/7
@@ -11,73 +19,60 @@ statblock-link: "#^statblock"
 aliases:
   - Psionic Ashenwight
 ---
-# Psionic Ashenwight
-*Source: Phandelver and Below: The Shattered Obelisk p. 204*  
+# Psionischer Ascheschrecken
+*Quelle: Die Tiefen von Phandelver: Der zersplitterte Obelisk S. 204*  
 
-When an ashenwight arises near a crystal vein infused with aberrant power, or when one lingers in an area of fell magic, there is a chance for the ashenwight to develop psionic abilities. A psionic ashenwight is markedly more sapient than other ashenwights, though the resulting consciousness is a new creation separate from who the ashenwight was in life.
+Wenn ein Ascheschrecken in der Nähe einer Kristallader entsteht, die mit aberranter Energie erfüllt ist, oder wenn ein Ascheschrecken sich länger in einem Bereich voller finsterer Magie aufhält, kann er psionische Fähigkeiten entwickeln. Ein psionischer Ascheschrecken ist deutlich intelligenter als andere Ascheschrecken. Allerdings ist das daraus entstehende Bewusstsein neu und hat keinerlei Verbindung zum Bewusstsein, das der Ascheschrecken hatte, als er noch am Leben war.
 
-Some psionic ashenwights dedicate their existence to piecing together their previous life, while others strive to enlighten other ashenwights to this new psionic power.
+Manche psionische Ascheschrecken widmen ihr Dasein der Rekonstruktion ihres früheren Lebens, andere streben danach, anderen Ascheschrecken zu dieser neuen psionischen Kraft zu verhelfen.
 
-## Ashenwights
+## Ascheschrecken
 
-When a Humanoid consumed by cruelty and rage dies in an area corrupted by the Far Realm, the creature sometimes rises as an ashenwight. The skin of these Undead horrors is desiccated, and their eyes often glow with otherworldly power.
+Wenn ein von Grausamkeit und Wut erfüllter Humanoide in einem Bereich stirbt, der vom Fernen Reich korrumpiert ist, ersteht die Kreatur manchmal als Ascheschrecken wieder auf. Die Haut dieser schrecklichen Untoten ist ausgetrocknet und in ihren Augen leuchtet oft eine außerweltliche Macht.
 
 ```statblock
-"name": "Psionic Ashenwight (PaBTSO)"
-"size": "Medium"
-"type": "undead"
-"alignment": "typically  Neutral"
-"ac": !!int "16"
-"ac_class": "natural armor"
-"hp": !!int "78"
-"hit_dice": "12d8 + 24"
-"modifier": !!int "1"
-"stats":
-  - !!int "19"
-  - !!int "13"
-  - !!int "15"
-  - !!int "17"
-  - !!int "14"
-  - !!int "6"
-"speed": "25 ft."
-"saves":
-  - "strength": !!int "7"
-  - "constitution": !!int "5"
-  - "intelligence": !!int "6"
-  - "wisdom": !!int "5"
-"damage_resistances": "necrotic, poison, psychic"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened), [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned), [unconscious](/3-Mechanics/CLI/conditions.md#Unconscious)"
-"senses": "passive Perception 12"
-"languages": "telepathy 120 ft., understands the languages it knew in life but can't\
-  \ speak"
-"cr": "7"
-"actions":
-  - "desc": "The ashenwight makes two Necrotic Shard attacks. It also uses Psionic\
-      \ Crown if available."
-    "name": "Multiattack"
-  - "desc": "*Melee  or Ranged Weapon Attack:* +7 to hit, reach 5 ft. or range 60\
-      \ ft., one target. *Hit:* 7 (1d6 + 4) piercing damage plus 9 (2d8) necrotic\
-      \ damage. If the target is a creature, it has disadvantage on the next attack\
-      \ roll it makes before the end of its next turn."
-    "name": "Necrotic Shard"
-  - "desc": "The ashenwight wreathes the head of a creature it can see within 60 feet\
-      \ of itself with a crown of jagged, spectral crystals. The target must succeed\
-      \ on a DC 14 Wisdom saving throw or have the [charmed](/3-Mechanics/CLI/conditions.md#Charmed)\
-      \ condition for 1 minute. While [charmed](/3-Mechanics/CLI/conditions.md#Charmed)\
-      \ in this way, the target's thoughts are sluggish; it can't take reactions,\
-      \ its speed is halved, and it takes 9 (2d8) psychic damage at the start of each\
-      \ of its turns. The target can repeat the saving throw at the end of each of\
-      \ its turns, ending the effect on itself on a success."
-    "name": "Psionic Crown (Recharge 5-6)"
-  - "desc": "The ashenwight casts one of the following spells, requiring no spellcasting\
-      \ components and using Intelligence as the spellcasting ability (spell save\
-      \ DC 14):\n\n**At will:** [mage hand](/3-Mechanics/CLI/spells/mage-hand-xphb.md)\
-      \ (the hand is invisible)\n\n**1/day:** [calm emotions](/3-Mechanics/CLI/spells/calm-emotions-xphb.md)"
-    "name": "Spellcasting (Psionics)"
-"source":
-  - "PaBTSO"
-"image": "undead/token/psionic-ashenwight-pabtso.webp"
+name: Psionischer Ascheschrecken
+image: token/psionic-ashenwight-pabtso.webp
+source: PaBTSO
+size: Mittelgroß
+type: Untoter
+alignment: normalerweise  Neutral
+ac: 16
+ac_class: natürliche Rüstung
+hp: 78
+hit_dice: 12d8 + 24
+modifier: 1
+stats:
+  - 19
+  - 13
+  - 15
+  - 17
+  - 14
+  - 6
+speed: 7,5 m
+saves:
+  - Str: 7
+  - Kon: 5
+  - Int: 6
+  - Wei: 5
+damage_resistances: Gift, Nekrotisch, Psychisch
+condition_immunities: Bewusstlos, Bezaubert, Erschöpft, Gelähmt, Verängstigt, Vergiftet
+senses: passive Wahrnehmung 12
+languages: Versteht alle zu Lebzeiten bekannten Sprachen, aber kann nicht sprechen, Telepathie auf 36 m
+cr: 7
+actions:
+  - name: Mehrfachangriff
+    desc: Der Ascheschrecken führt zwei Nekrotischer-Splitter-Angriffe aus. Er setzt auch seine Psionische Krone ein, falls sie verfügbar ist.
+  - name: Nekrotischer Splitter
+    desc: "*Melee  or Ranged Weapon Attack:* +7 to hit, reach 5 ft. or range 60 ft., one target. *Hit:* 7 (1d6 + 4) piercing damage plus 9 (2d8) necrotic damage. If the target is a creature, it has disadvantage on the next attack roll it makes before the end of its next turn."
+  - name: Psionische Krone (Aufladung 5-6)
+    desc: The ashenwight wreathes the head of a creature it can see within 60 feet of itself with a crown of jagged, spectral crystals. The target must succeed on a DC 14 Wisdom saving throw or have the <STATBLOCK-MARKDOWN-LINK>/3-Mechanics/CLI/conditions.md#Charmed|charmed<STATBLOCK-MARKDOWN-LINK> condition for 1 minute. While <STATBLOCK-MARKDOWN-LINK>/3-Mechanics/CLI/conditions.md#Charmed|charmed<STATBLOCK-MARKDOWN-LINK> in this way, the target's thoughts are sluggish; it can't take reactions, its speed is halved, and it takes 9 (2d8) psychic damage at the start of each of its turns. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+  - name: Zauberwirken (Psionik)
+    desc: |-
+      The ashenwight casts one of the following spells, requiring no spellcasting components and using Intelligence as the spellcasting ability (spell save DC 14):
+
+      **At will:** <STATBLOCK-MARKDOWN-LINK>/3-Mechanics/CLI/spells/mage-hand-xphb.md|mage hand<STATBLOCK-MARKDOWN-LINK> (the hand is invisible)
+
+      **1/day:** <STATBLOCK-MARKDOWN-LINK>/3-Mechanics/CLI/spells/calm-emotions-xphb.md|calm emotions<STATBLOCK-MARKDOWN-LINK>
 ```
 ^statblock

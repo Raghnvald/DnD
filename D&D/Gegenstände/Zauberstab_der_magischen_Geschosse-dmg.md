@@ -1,0 +1,27 @@
+---
+Bezeichnung: Zauberstab der magischen Geschosse
+Typ: Zauberstab
+Eigenschaften: n/v
+Kst.: n/v
+Gew.: 0,5 kg
+image: wand-of-magic-missiles.webp
+tags:
+  - Gegenstand/Seltenheit/ungewöhnlich
+  - Gegenstand/wundersam/Zauberstab
+  - Quelle/5e/dmg
+aliases:
+  - Zauberstab der magischen Geschosse
+  - Wand of Magic Missiles
+linter-yaml-title-alias: Zauberstab der magischen Geschosse
+---
+# Zauberstab der magischen Geschosse
+*Zauberstab, ungewöhnlich*  
+<img src="wand-of-magic-missiles.webp" align="right" width="250">
+
+- **Gewicht**: 0,5 kg.
+
+Der Zauberstab hat 7 Ladungen. Während du ihn hältst, kannst du eine Aktion verwenden, um 1 oder mehrere Ladungen zu verbrauchen und damit den Zauber [[Magisches_Geschoss-old]] zu wirken. Für 1 Ladung wirkst du den Zauber auf dem 1. Grad. Du kannst den Zaubergrad für jede zusätzlich verbrauchte Ladung je um 1 erhöhen.
+
+$\quad$Der Zauberstab erhält zu jeder Morgendämmerung `1W6 + 1` verbrauchte Ladungen zurück. Wenn du die letzte Ladung des Zauberstabs verbrauchst, wirf einen `W20`. Bei einer 1 zerbröckelt der Zauberstab zu Asche und ist zerstört.
+
+*Source: Dungeon Master's Guide p. 211. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

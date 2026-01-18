@@ -1,6 +1,14 @@
 ---
-cssclasses:
-  - json5e-monster
+cssclasses: dnd5e-only-statblock
+prefer-view: edit-source read
+Name: Beobachter
+Typ: Aberration
+Größe: Mittelgroß
+HG: 3
+Habitat:
+  - Unterreich
+status: completed
+image: image/spectator
 tags:
   - Quelle/5e/mm
   - Monster/HG/3
@@ -11,97 +19,72 @@ statblock: inline
 statblock-link: "#^statblock"
 aliases:
   - Spectator
-Typ: Aberration
-Größe: Mittelgroß
-HG: 3
-Habitat:
-  - Unterreich
-status: WIP
 ---
-# [Spectator](3-Mechanics\CLI\bestiary\aberration/spectator.md)
-*Source: Monster Manual p. 30. Available in the Basic Rules (2014)*  
+# Beobachter
+*Quelle: Monsterhandbuch S. 28. Verfügbar im Grundregelwerk (2014)*  
 
-A spectator is a lesser beholder that is summoned from another plane of existence by a magical ritual, the components of which include four beholder eyestalks that are consumed by the ritual's magic. Appropriately, a spectator has four eyestalks, two on each side of the wide eye at the center of its four-foot diameter body.
+Ein Beobachter ist ein geringerer Betrachter, der mit einem magischen Ritual von einer anderen Existenzebene beschworen wird. Zu den Komponenten des Rituals gehören vier Betrachter-Augenstiele, die von der Magie des Rituals verbraucht werden. Entsprechend hat ein Beobachter vier Augenstiele, zwei an jeder Seite des breiten Auges in der Mitte eines Körpers mit 1,2 m Durchmesser.
 
-## Magical Guardians
+## Magische Wächter
 
-A summoned spectator guards a location or a treasure of its summoner's choice for 101 years, allowing no creature but its summoner to enter the area or access the item, unless the summoner instructed otherwise. If the item is stolen or destroyed before the years have all passed, a summoned spectator vanishes. It otherwise never abandons its post.
+Ein beschworener Beobachter bewacht für 101 Jahre einen Ort oder Schatz nach Wahl des Beschwörers. Er erlaubt es keiner Kreatur außer dem Beschwörer, den Ort zu betreten oder Zugang zum Gegenstand zu erhalten, es sei denn, der Beschwörer gibt anderweitige Anweisungen. Wenn der Gegenstand gestohlen oder zerstört wird, ehe alle Jahre verstrichen sind, verschwindet der Beobachter. Ansonsten verlässt er niemals seinen Posten.
 
-## Glimmers of Madness
+## Durchblitzender Wahnsinn
 
-Though it can speak, a spectator communicates primarily by way of telepathy. It is civil while on guard, openly discussing its orders and its summoner. However, even a brief conversation with a spectator is enough to reveal quirks in its personality brought on by its years of isolation. It might invent imaginary enemies, refer to itself in the third person, or try to adopt the voice of its summoner.
+Auch wenn er sprechen kann, kommuniziert ein Beobachter vor allem durch Telepathie. Er ist höflich, solange er Wache hält, und diskutiert offen seine Anweisungen und seinen Beschwörer. Allerdings reicht eine kurze Unterhaltung mit einem Beobachter aus, um die Macken in seiner Persönlichkeit zu offenbaren, die denJahren der Isolation entspringen. Er könnte imaginäre Feinde erfinden, über sich selbst in der dritten Person sprechen oder versuchen, die Stimme seines Beschwörers nachzuahmen.
 
-Like any beholder, a spectator views itself as the epitome of its kind, and it has an intense hatred of other spectators. If two spectators encounter one another, they almost always fight to the death.
+$\quad$Wie jeder Betrachter sieht sich der Beobachter als Inbegriff seiner Art und hat einen intensiven Hass auf andere Beobachter. Wenn sich zwei Beobachter begegnen, kämpfen sie fast immer bis zum Tod.
 
-## Freed from Service
+## Vom Dienst befreit
 
-When a spectator has fulfilled its service, it is free to do as it pleases. Many take up residence in the places they previously guarded, especially if their summoners have died. With the spectator's loss of purpose, the flickers of madness it displayed during its servitude flourish.
+Wenn ein Beobachter seinen Dienst erfüllt hat, kann er tun, was er möchte. Viele lassen sich an dem Ort nieder, den sie zuvor bewacht haben, besonders, wenn ihr Beschwörer gestorben ist. Da der Beobachter nun keinen Daseinszweck mehr hat, kann der Wahnsinn, den er schon während seiner Knechtschaft zeigte, noch weiter gedeihen.
 
 ```statblock
-"name": "Beobachter"
-"size": "Medium"
-"type": "aberration"
-"alignment": "Lawful Neutral"
-"ac": !!int "14"
-"ac_class": "natural armor"
-"hp": !!int "39"
-"hit_dice": "6d8 + 12"
-"modifier": !!int "2"
-"stats":
-  - !!int "8"
-  - !!int "14"
-  - !!int "14"
-  - !!int "13"
-  - !!int "14"
-  - !!int "11"
-"speed": "0 ft., fly 30 ft. (hover)"
-"skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
-    "desc": "+6"
-"condition_immunities": "[prone](/3-Mechanics/CLI/conditions.md#Prone)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 16"
-"languages": "Deep Speech, Undercommon, telepathy 120 ft."
-"cr": "3"
-"actions":
-  - "desc": "*Melee Weapon Attack:* +1 to hit, reach 5 ft., one target. *Hit:* 2 (1d6\
-      \ - 1) piercing damage."
-    "name": "Bite"
-  - "desc": "The spectator shoots up to two of the following magical eye rays at one\
-      \ or two creatures it can see within 90 feet of it. It can use each ray only\
-      \ once on a turn.\n\n- **1. Confusion Ray.** The target must succeed on a DC\
-      \ 13 Wisdom saving throw, or it can't take reactions until the end of its next\
-      \ turn. On its turn, the target can't move, and it uses its action to make a\
-      \ melee or ranged attack against a randomly determined creature within range.\
-      \ If the target can't attack, it does nothing on its turn.  \n- **2. Paralyzing\
-      \ Ray.** The target must succeed on a DC 13 Constitution saving throw or be\
-      \ [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed) for 1 minute. The target\
-      \ can repeat the saving throw at the end of each of its turns, ending the effect\
-      \ on itself on a success.  \n- **3. Fear Ray.** The target must succeed on a\
-      \ DC 13 Wisdom saving throw or be [frightened](/3-Mechanics/CLI/conditions.md#Frightened)\
-      \ for 1 minute. The target can repeat the saving throw at the end of each of\
-      \ its turns, with disadvantage if the spectator is visible to the target, ending\
-      \ the effect on itself on a success.  \n- **4. Wounding Ray.** The target must\
-      \ make a DC 13 Constitution saving throw, taking 16 (3d10) necrotic damage on\
-      \ a failed save, or half as much damage on a successful one.  "
-    "name": "Eye Rays"
-  - "desc": "The spectator magically creates enough food and water to sustain itself\
-      \ for 24 hours."
-    "name": "Create Food and Water"
-"reactions":
-  - "desc": "If the spectator makes a successful saving throw against a spell, or\
-      \ a spell attack misses it, the spectator can choose another creature (including\
-      \ the spellcaster) it can see within 30 feet of it. The spell targets the chosen\
-      \ creature instead of the spectator. If the spell forced a saving throw, the\
-      \ chosen creature makes its own save. If the spell was an attack, the attack\
-      \ roll is rerolled against the chosen creature."
-    "name": "Spell Reflection"
-"source":
-  - "MM"
-"image": "/3-Mechanics/CLI/bestiary/aberration/token/spectator.webp"
+name: Beobachter
+image: token/spectator.webp
+source: MM
+size: Mittelgroß
+type: Aberration
+alignment: Rechtschaffen böse
+ac: 14
+ac_class: natürliche Rüstung
+hp: 39
+hit_dice: 6d8 + 12
+modifier: 2
+stats:
+  - 8
+  - 14
+  - 14
+  - 13
+  - 14
+  - 11
+speed: 0 m, fliegen 9 m (schweben)
+skillsaves:
+  - name: <STATBLOCK-MARKDOWN-LINK>01-Spielleiter/Fertigkeiten-phb#Wahrnehmung|Wahrnehmung<STATBLOCK-MARKDOWN-LINK>
+    desc: "+6"
+condition_immunities: <STATBLOCK-MARKDOWN-LINK>01-Spielleiter/Zustände-phb#Liegend|Liegend<STATBLOCK-MARKDOWN-LINK>
+senses: <STATBLOCK-MARKDOWN-LINK>01-Spielleiter/Sinne-phb#Dunkelsicht|Dunkelsicht<STATBLOCK-MARKDOWN-LINK> 36 m, passive Wahrnehmung 16
+languages: Tiefensprache, Gemeinsprache der Unterreiche, Telepathie 36 m
+cr: 3
+actions:
+  - name: Biss
+    desc: "*Nahkampf-Waffenangriff:* +1 zum Treffen, Reichweite 1,5 m, ein Ziel. *Treffer:* 2 (1d6-1) Stichschaden."
+  - name: Augenstrahlen
+    desc: |-
+      Der Beobachter schießt bis zu zwei der folgenden magischen Augenstrahlen auf eine oder zwei Kreaturen innerhalb von 27 m, die er sehen kann. Er kann jeden Augenstrahl nur einmal pro Zug verwenden.
+
+      - **1. Verwirrungsstrahl.** Das Ziel muss einen `Weisheitsrettungswurf` gegen `SG 13` schaffen, sonst kann es bis zum Ende seines nächsten Zugs keine Reaktionen verwenden. In seinem Zug kann sich das Ziel nicht bewegen und verwendet seine Aktion, um einen Nahkampf- oder Fernkampfangriff gegen eine zufällige Kreatur in Reichweite auszuführen. Wenn das Ziel nicht angreifen kann, tut es in seinem Zug nichts. 
+      - **2. Lähmender Strahl.** Die Zielkreatur muss einen `Konstitutionsrettungswurf` gegen `SG 13` ablegen, um nicht für 1 Minute <STATBLOCK-MARKDOWN-LINK>01-Spielleiter/Zustände-phb#Gelähmt|Gelähmt<STATBLOCK-MARKDOWN-LINK> zu werden. Das Ziel kann den Rettungswurf am Ende eines jeden seiner Züge wiederholen und den Effekt bei einem Erfolg beenden.  
+      - **3. Furchtstrahl.** Die Zielkreatur muss einen `Weisheitsrettungswurf` gegen `SG 13` ablegen, um nicht für 1 Minute <STATBLOCK-MARKDOWN-LINK>01-Spielleiter/Zustände-phb#Verängstigt|Verängstigt<STATBLOCK-MARKDOWN-LINK> zu werden. Das Ziel kann den Rettungswurf am Ende eines jeden seiner Züge wiederholen und den Effekt bei einem Erfolg beenden. Dabei erleidet es einen Nachteil, wenn der Beobachter für das Ziel noch sichtbar ist.  
+      - **4. Verwundender Strahl.** Das Ziel muss einen `Konstitutionsrettungswurf` gegen `SG 13` ablegen. Bei einem misslungenen Rettungswurf erleidet es 16 (3d10) nekrotischen Schaden, halb so viel Schaden bei einem erfolgreichen Rettungswurf.
+  - name: Nahrung und Wasser erschaffen
+    desc: Der Beobachter erschafft auf magische Weise genug Nahrung und Wasser, um sich selbst für 24 Stunden zu ernähren.
+reactions:
+  - name: Zauberspiegelung
+    desc: Wenn der Beobachter einen erfolgreichen Rettungswurf gegen einen Zauber ausführt oder wenn ein Zauberangriff ihn verfehlt, kann der Beobachter eine Kreatur innerhalb von 9 m auswählen, die er sehen kann (auch den Zauberwirker). Der Zauber trifft die ausgewählte Kreatur anstelle des Beobachters. Wenn der Zauber einen Rettungswurf erzwungen hat, legt die Kreatur ihren eigenen Rettungswurf ab. Wenn der Zauber ein Angriff war, wird der Angriffswurf gegen die gewählte Kreatur wiederholt.
 ```
 ^statblock
 
-## Environment
+## Vorkommen
 
-underdark
+Unterreich

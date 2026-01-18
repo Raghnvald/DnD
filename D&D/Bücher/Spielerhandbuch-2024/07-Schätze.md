@@ -855,7 +855,7 @@ Wenn sein Träger sich weigert, den Forderungen des Gegenstands nachzukommen, ka
 | 98-99 | [Windfächer](Windfächer.md)                                                                                                                                              |
 | 75-82 | Zauberschriftrolle (Zauber der [Stufe 2](05%20-%20Wikipedia/Gegenstände/Zauberschriftrolle-Zaubergrad-2.md) oder [Stufe 3](05%20-%20Wikipedia/Gegenstände/Zauberschriftrolle-Zaubergrad-3.md))                           |
 | 85-88 | [Zauberstab der Magieerkennung](Zauberstab%20der%20Magieerkennung.md)                                                                                                            |
-| 89-91 | [Zauberstab der magischen Geschosse-dmg](Zauberstab%20der%20magischen%20Geschosse-dmg.md)                                                                                            |
+| 89-91 | [Zauberstab_der_magischen_Geschosse-dmg](Zauberstab_der_magischen_Geschosse-dmg.md)                                                                                            |
 | 92-93 | [Zauberstab der Geheimnisse](Zauberstab%20der%20Geheimnisse.md)                                                                                                                       |
 | 94-95 | [Zauberstab des Kriegsmagiers, +1](Zauberstab%20des%20Kriegsmagiers+1.md)                                                                                                  |
 | 96-97 | [Zauberstab des Netzes](Zauberstab%20des%20Netzes-dmg.md)                                                                                                                                |

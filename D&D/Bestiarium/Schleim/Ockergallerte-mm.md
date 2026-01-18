@@ -1,4 +1,14 @@
 ---
+cssclasses: dnd5e-only-statblock
+prefer-view: edit-source read
+Name: Ockergallerte
+Typ: Schleim
+Größe: Groß
+HG: 2
+Habitat:
+  - Unterreich
+status: completed
+image: image/ocre-jelly-webp
 tags:
   - Quelle/5e/mm
   - Monster/HG/2
@@ -11,7 +21,7 @@ aliases:
   - Ochre Jelly
 ---
 # Ockergallerte
-*Quelle: Monsterhandbuch S. 243. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+*Quelle: Monsterhandbuch S. 250. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*  
 
 Ockergallerten sind gelbliche Blobs, die unter Türen und durch schmale Spalten gleiten können, um Kreaturen zu verfolgen und zu verschlingen. Sie haben genug tierhafte Intelligenz, um große Gruppen von Gegnern zu meiden. Eine Ockergallerte folgt in sicherer Entfernung, während sie ihre Beute jagt. Ihre Verdauungsenzyme löschen Fleisch schnell auf, haben aber keinen Effekt auf andere Substanzen wie Knochen, Holz und Metall.
 
@@ -42,26 +52,26 @@ Ein Schlick muss nicht schlafen.
 ```statblock
 name: Ockergallerte
 image: token/ochre-jelly.webp
-source: Monsterhandbuch 2014
+source: MM
 size: Groß
 type: Schleim
 alignment: gesinnungslos
-ac: !!int "8"
-hp: !!int "45"
-hit_dice: "6d10 + 12"
-modifier: !!int "-2"
+ac: 8
+hp: 45
+hit_dice: 6d10 + 12
+modifier: -2
 stats:
-  - !!int "15"
-  - !!int "6"
-  - !!int "14"
-  - !!int "2"
-  - !!int "6"
-  - !!int "1"
-speed: "3 Meter, klettern 3 Meter"
-damage_resistances: "Säure"
-damage_immunities: "Blitz, Hieb"
-condition_immunities: "Bezaubert, blind, erschöpft, liegend, taub, verängstigt"
-senses: "Blindsicht 18 m (darüber hinaus blind), passive Wahrnehmung 8"
+  - 15
+  - 6
+  - 14
+  - 2
+  - 6
+  - 1
+speed: 3 Meter, klettern 3 Meter
+damage_resistances: Säure
+damage_immunities: Blitz, Hieb
+condition_immunities: "<STATBLOCK-MARKDOWN-LINK>01-Spielleiter/Zustände-phb#Bezaubert|Bezaubert<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>01-Spielleiter/Zustände-phb#Blind|Blind<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>01-Spielleiter/Zustände-phb#Erschöpfung|erschöpft<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>01-Spielleiter/Zustände-phb#Liegend|Liegend<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>01-Spielleiter/Zustände-phb#Taub|Taub<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>01-Spielleiter/Zustände-phb#Verängstigt|Verängstigt<STATBLOCK-MARKDOWN-LINK>"
+senses: <STATBLOCK-MARKDOWN-LINK>01-Spielleiter/Sinne-phb#Blindsicht|Blindsicht<STATBLOCK-MARKDOWN-LINK> 18 m (darüber hinaus blind), passive Wahrnehmung 8
 languages: ""
 cr: "2"
 traits:
@@ -71,9 +81,13 @@ traits:
     desc: "Die Gallerte kann an schwierigen Oberflächen klettern, auch kopfüber an der Decke, ohne Attributswürfe ablegen zu müssen."
 actions:
   - name: "Scheinfuß"
-    desc: "_Nahkampf-Waffenangriff:_ +4 zum Treffen, Reichweite 1,5 m, ein Ziel. _Treffer:_ 9 (2W6 + 2) Wuchtschaden plus 3 (1W6) Säureschaden."
+    desc: "*Nahkampf-Waffenangriff:* +4 zum Treffen, Reichweite 1,5 m, ein Ziel. *Treffer:* 9 (2d6+2) Wuchtschaden plus 3 (1d6) Säureschaden."
 reactions:
   - name: Teilen
     desc: "Wenn eine Gallerte, die mittelgroß oder größer ist, Blitz- oder Hiebschaden erleidet, teilt sie sich in zwei neue Gallerten auf, wenn sie mindestens 10 Trefferpunkte besitzt. Jede neue Gallerte hat Trefferpunkte gleich der Hälfte der ursprünglichen Gallerte, abgerundet. Neue Gallerten sind eine Größenkategorie kleiner als die ursprüngliche Gallerte."
 ```
 ^statblock
+
+## Vorkommen
+
+Unterreich

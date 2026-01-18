@@ -1,6 +1,10 @@
 ---
-cssclasses:
-  - json5e-monster
+Name: Goblin
+Typ: Humanoid (Goblinoid)
+Größe: Klein
+HG: 1/2
+status: WIP
+image: token/goblin.webp
 tags:
   - Quelle/5e/mm
   - Monster/HG/1-4
@@ -54,6 +58,8 @@ Maglubiyet, der Mächtige, der Fürst der Tiefe und Dunkelheit, ist der höchste
 
 ```statblock
 name: Goblin
+image: token/goblin.webp
+source: MM
 size: Klein
 type: Humanoid
 subtype: Goblinoid
@@ -81,14 +87,10 @@ traits:
   - desc: Der Goblin kann in jedem seiner Züge die Aktion <STATBLOCK-MARKDOWN-LINK>01-Spielleiter/Aktionen-phb#Rückzug|Rückzug<STATBLOCK-MARKDOWN-LINK> oder <STATBLOCK-MARKDOWN-LINK>01-Spielleiter/Aktionen-phb#Verstecken|Verstecken<STATBLOCK-MARKDOWN-LINK> als Bonusaktion verwenden.
     name: Behändes Entkommen
 actions:
-  - desc: "*Nahkampf-Waffenangriff:* +4 zum Treffen, Reichweite 1,5 m, ein Ziel. *Treffer:* 5 (1d6 +2) Hiebschaden."
+  - desc: "*Nahkampf-Waffenangriff:* +4 zum Treffen, Reichweite 1,5 m, ein Ziel. *Treffer:* 5 (1d6+2) Hiebschaden."
     name: Krummsäbel
-  - desc: "*Fernkampf-Waffenangriff:* +4 Zum Treffen, Reichweite 24/96 m, ein Ziel. *Treffer:* 5 (1d6 +2) Stichschaden."
+  - desc: "*Fernkampf-Waffenangriff:* +4 Zum Treffen, Reichweite 24/96 m, ein Ziel. *Treffer:* 5 (1d6+2) Stichschaden."
     name: Kurzbogen
-source:
-  - MM
-image: Bestiarium/Humanoid/token/goblin.webp
-path: Bestiarium/Humanoid/Goblin-mm.md
 ```
 ^statblock
 

@@ -1,4 +1,22 @@
 ---
+cssclasses: dnd5e-only-statblock
+prefer-view: edit-source read
+Name: Blutmücke
+Typ: Tier
+Größe: Winzig
+HG: 1/8
+Habitat:
+  - Berg
+  - Grasland
+  - Hügel
+  - Küste
+  - Stadt
+  - Sumpf
+  - Unterreich
+  - Wald
+  - Wüste
+status: completed
+image: image/stirge.webp
 tags:
   - Quelle/5e/mm
   - Monster/HG/1-8
@@ -32,29 +50,34 @@ Eine Blutmücke greift an, indem sie auf dem Opfer landet, einen verwundbaren Pu
 ```statblock
 name: Blutmücke
 image: token/stirge.webp
-source: Monsterhandbuch 2014
+source:
+  - MM
+  - EGW
 size: Winzig
 type: Tier
 alignment: gesinnungslos
-ac: !!int "14"
-ac_class: "natürliche Rüstung"
-hp: !!int "2"
-hit_dice: "1d4"
-modifier: !!int "3"
+ac: 14
+ac_class: natürliche Rüstung
+hp: 2
+hit_dice: 1d4
+modifier: 3
 stats:
-  - !!int "4"
-  - !!int "16"
-  - !!int "11"
-  - !!int "2"
-  - !!int "8"
-  - !!int "6"
-speed: "3 Meter, Fliegen 12 Meter"
-senses: "Dunkelsicht 18 Meter, passive Wahrnehmung 9"
+  - 4
+  - 16
+  - 11
+  - 2
+  - 8
+  - 6
+speed: 3 Meter, Fliegen 12 Meter
+senses: <STATBLOCK-MARKDOWN-LINK>01-Spielleiter/Sinne-phb#Dunkelsicht|Dunkelsicht<STATBLOCK-MARKDOWN-LINK> 18 Meter, passive Wahrnehmung 9
 languages: 
-cr: "1/8"
+cr: 1/8
 actions:
-  - name: "Blut aussaugen"
-    desc: "*Nahkampf-Waffenangriff:* +5 zum Treffen, Reichweite 1,5 m, ein Ziel. *Treffer:* 5 (1d4 +3) Wuchtschaden, und die Blutmücke heftet sich an das Ziel an. Solange die Blutmücke angeheftet ist, greift sie nicht an. Stattdessen verliert das Ziel zu Beginn eines jeden Zugs der Blutmücke 5 (1W4 +3) Trefferpunkte aufgrund des Blutverlusts. \n\n Die Blutmücke kann sich lösen, indem sie 1,5 m ihrer Bewegung verwendet. Das tut sie, nachdem sie 10 Trefferpunkte an Blut ausgesaugt hat oder wenn das Ziel stirbt. Eine Kreatur, auch das Ziel, kann eine Aktion verwenden, um die Blutmücke zu lösen."
+  - name: Blut aussaugen
+    desc: |-
+      *Nahkampf-Waffenangriff:* +5 zum Treffen, Reichweite 1,5 m, ein Ziel. *Treffer:* 5 (1d4+3) Wuchtschaden, und die Blutmücke heftet sich an das Ziel an. Solange die Blutmücke angeheftet ist, greift sie nicht an. Stattdessen verliert das Ziel zu Beginn eines jeden Zugs der Blutmücke 5 (1d4+3) Trefferpunkte aufgrund des Blutverlusts.
+
+      Die Blutmücke kann sich lösen, indem sie 1,5 m ihrer Bewegung verwendet. Das tut sie, nachdem sie 10 Trefferpunkte an Blut ausgesaugt hat oder wenn das Ziel stirbt. Eine Kreatur, auch das Ziel, kann eine Aktion verwenden, um die Blutmücke zu lösen.
 ```
 ^statblock
 

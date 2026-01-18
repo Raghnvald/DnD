@@ -7,7 +7,8 @@ Größe: Mittelgroß
 HG: 1/4
 Habitat:
   - Stadt
-status: WIP
+status: completed
+image: image/skeleton.webp
 tags:
   - Quelle/5e/mm
   - Monster/HG/1-4
@@ -19,8 +20,8 @@ statblock-link: "#^statblock"
 aliases:
   - Skeleton
 ---
-# [Skeleton](3-Mechanics\CLI\bestiary\undead/skeleton.md)
-*Source: Monster Manual p. 272. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+# Skelett
+*Quelle: Monsterhandbuch S. 256. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*  
 
 Skelette erheben sich, wenn sie von dunkler Magie erweckt werden. Sie werden von Zauberwirkern beschworen, die sie aus ihren steinernen Grüften und von uralten Schlachtfeldern rufen, oder erheben sich aus eigenem Antrieb an Orten, die von Tod und Trauer erfüllt sind, erweckt von den Regungen nekromantischer Energie oder der Präsenz von verderbendem Bösen.
 
@@ -51,34 +52,37 @@ Ein Skelett muss nicht atmen, essen, trinken oder schlafen.
 ```statblock
 name: Skelett
 image: token/skeleton.webp
-source: Monsterhandbuch 2014
+source: MM
 size: Mittelgroß
 type: Untoter
 alignment: Rechtschaffen böse
-ac: !!int "13"
-ac_class: "Rüstungsfetzen"
-hp: !!int "13"
-hit_dice: "2d8 + 4"
-modifier: !!int "2"
+ac: 13
+ac_class: Rüstungsfetzen
+hp: 13"
+hit_dice: 2d8 + 4
+modifier: 2
 stats:
-  - !!int "10"
-  - !!int "14"
-  - !!int "15"
-  - !!int "6"
-  - !!int "8"
-  - !!int "5"
-speed: "9 Meter"
-damage_vulnerabilities: "Wucht"
-damage_immunities: "Gift"
-condition_immunities: "Erschöpfung, vergiftet
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
-"senses": "Dunkelsicht 18 m, passive Wahrnehmung 9"
-languages: "Versteht alle Sprachen, die es im Leben kannte, kann aber nicht sprechen"
-cr: "1/4"
+  - 10
+  - 14
+  - 15
+  - 6
+  - 8
+  - 5
+speed: 9 Meter
+damage_vulnerabilities: Wucht
+damage_immunities: Gift
+condition_immunities: <STATBLOCK-MARKDOWN-LINK>01-Spielleiter/Zustände-phb#Erschöpfung|Erschöpfung<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>01-Spielleiter/Zustände-phb#Vergiftet|vergiftet<STATBLOCK-MARKDOWN-LINK>
+senses: <STATBLOCK-MARKDOWN-LINK>01-Spielleiter/Sinne-phb#Dunkelsicht|Dunkelsicht<STATBLOCK-MARKDOWN-LINK> 18 m, passive Wahrnehmung 9
+languages: Versteht alle Sprachen, die es im Leben kannte, kann aber nicht sprechen
+cr: 1/4
 actions:
   - name: Kurzschwert
-    desc: "_Nahkampf-Waffenangriff:_ +4 auf Treffer, Reichweite 1,5 m, ein Ziel. _Treffer:_ 5 (1W6 + 2) Stichschaden."
+    desc: "*Nahkampf-Waffenangriff:* +4 zum Treffen, Reichweite 1,5 m, ein Ziel. *Treffer:* 5 (1d6+2) Stichschaden."
   - name: Kurzbogen
-    desc: "_Fernkampf-Waffenangriff:_ +4 auf Treffer, Reichweite 24/96 m, ein Ziel. _Treffer:_ 5 (1W6 + 2) Stichschaden."
+    desc: "*Fernkampf-Waffenangriff:* +4 zum Treffen, Reichweite 24/96 m, ein Ziel. *Treffer:* 5 (1d6+2) Stichschaden."
 ```
 ^statblock
+
+## Vorkommen
+
+Stadt

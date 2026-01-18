@@ -1,6 +1,14 @@
 ---
+cssclasses: dnd5e-only-statblock
+prefer-view: edit-source read
 Name: Wilder Ascheschrecken
-Image: undead/token/feral-ashenwight-pabtso.webp
+Typ: Untoter
+Größe: Mittelgroß
+HG: 5
+Habitat:
+  - /
+status: WIP
+image: token/feral-ashenwight-pabtso.webp
 tags:
   - Quelle/5e/pabtso
   - Monster/HG/5
@@ -11,54 +19,47 @@ statblock-link: "#^statblock"
 aliases:
   - Feral Ashenwight
 ---
-# Feral Ashenwight
-*Source: Phandelver and Below: The Shattered Obelisk p. 204*  
+# Wilder Ascheschrecken
+*Quelle: Die Tiefen von Phandelver: Der zersplitterte Obelisk S. 204*  
 
-Feral ashenwights retain a fragment of the spark they had in life. However, they are devoid of memories or thoughts beyond a compulsive desire to destroy all living creatures they encounter.
+Wilde Ascheschrecken erhalten immer noch einen Splitter des Funkens, den sie zu Lebzeiten hatten. Sie haben jedoch keinerlei Erinnerungen oder Gedanken - nur das unbändige Verlangen, alle lebenden Kreaturen zu zerstören, die ihnen begegnen.
 
-## Ashenwights
+## Ascheschrecken
 
-When a Humanoid consumed by cruelty and rage dies in an area corrupted by the Far Realm, the creature sometimes rises as an ashenwight. The skin of these Undead horrors is desiccated, and their eyes often glow with otherworldly power.
+Wenn ein von Grausamkeit und Wut erfüllter Humanoide in einem Bereich stirbt, der vom Fernen Reich korrumpiert ist, ersteht die Kreatur manchmal als Ascheschrecken wieder auf. Die Haut dieser schrecklichen Untoten ist ausgetrocknet und in ihren Augen leuchtet oft eine außerweltliche Macht.
 
 ```statblock
-"name": "Feral Ashenwight (PaBTSO)"
-"size": "Medium"
-"type": "undead"
-"alignment": "typically  Neutral Evil"
-"ac": !!int "16"
-"ac_class": "natural armor"
-"hp": !!int "65"
-"hit_dice": "10d8 + 20"
-"modifier": !!int "1"
-"stats":
-  - !!int "19"
-  - !!int "13"
-  - !!int "15"
-  - !!int "4"
-  - !!int "14"
-  - !!int "6"
-"speed": "25 ft."
-"saves":
-  - "strength": !!int "7"
-  - "constitution": !!int "5"
-"damage_resistances": "necrotic, poison"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened), [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned), [unconscious](/3-Mechanics/CLI/conditions.md#Unconscious)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 12"
-"languages": "understands the languages it knew in life but can't speak"
-"cr": "5"
-"actions":
-  - "desc": "The ashenwight makes two Necrotic Shard attacks."
-    "name": "Multiattack"
-  - "desc": "*Melee  or Ranged Weapon Attack:* +7 to hit, reach 5 ft. or range 60\
-      \ ft., one target. *Hit:* 7 (1d6 + 4) necrotic damage. If the target is a creature,\
-      \ it has disadvantage on the next attack roll it makes before the end of its\
-      \ next turn."
-    "name": "Necrotic Shard"
-"source":
-  - "PaBTSO"
-"image": "undead/token/feral-ashenwight-pabtso.webp"
+name: Wilder Ascheschrecken
+image: token/feral-ashenwight-pabtso.webp
+source: PaBTSO
+size: Mittelgroß
+type: Untoter
+alignment: normalerweise Neutral Böse
+ac: 16
+ac_class: natürliche Rüstung
+hp: 65
+hit_dice: 10d8 + 20
+modifier: 1
+stats:
+  - 19
+  - 13
+  - 15
+  - 4
+  - 14
+  - 6
+speed: 7,5 m
+saves:
+  - Str: 7
+  - Kon: 5
+damage_resistances: Gift, Nekrotisch
+condition_immunities: Bewusstlos, Bezaubert, Erschöpft, Gelähmt, Verängstigt, Vergiftet
+senses: <STATBLOCK-MARKDOWN-LINK>01-Spielleiter/Sinne-phb#Dunkelsicht|Dunkelsicht<STATBLOCK-MARKDOWN-LINK> 36 m, passive Wahrnehmung 12
+languages: Versteht zu Lebzeiten bekannte Sprachen, kann aber nicht sprechen
+cr: 5
+actions:
+  - name: Mehrfachangriff
+    desc: Der Ascheschrecken führt zwei Nekrotischer-Splitter-Angriffe aus.
+  - name: Nekrotischer Splitter
+    desc: "*Nahkampf- oder Fernkampf-Waffenangriff:* +7 zum Treffen, Reichweite 1,5 m oder 18 m, ein Ziel. *Treffer:* 7 (1d6+4) nekrotischer Schaden. Wenn das Ziel eine Kreatur ist, ist es bei seinem nächsten Angriffswurf vor dem Ende seines nächsten Zugs im Nachteil."
 ```
 ^statblock

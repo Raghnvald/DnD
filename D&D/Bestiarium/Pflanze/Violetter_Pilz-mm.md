@@ -1,6 +1,14 @@
 ---
-cssclasses:
-  - json5e-monster
+cssclasses: dnd5e-only-statblock
+prefer-view: edit-source read
+Name: Violetter Pilz
+Typ: Pflanze
+Größe: Mittelgroß
+HG: 1/4
+Habitat:
+  - Unterreich
+status: completed
+image: image/violet-fungus.webp
 tags:
   - Quelle/5e/mm
   - Monster/HG/1-4
@@ -12,58 +20,55 @@ statblock-link: "#^statblock"
 aliases:
   - Violet Fungus
 ---
-# [Violet Fungus](3-Mechanics\CLI\bestiary\plant/violet-fungus.md)
-*Source: Monster Manual p. 138. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+# Violetter Pilz
+*Quelle: Monsterhandbuch S. 220. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
-This purplish mushroom uses root-like feelers growing from its base to creep across cavern floors. The four stalks protruding from a violet fungi's central mass are used to lash out at prey, rotting flesh with the slightest touch. Any creature killed by a violet fungus decomposes rapidly. A new violet fungus sprouts from the moldering corpse, growing to full size in `2d6` days.
+Dieser leicht violette Pilz nutzt wurzelartige Fühler, die aus seinem Fuß wachsen, um über Höhlenböden zu kriechen. Die vier Stiele, die aus der zentralen Masse eines Violetten Pilzes wachsen, werden verwendet, um nach Beute zu schlagen und deren Fleisch mit der leisesten Berührung verrotten zu lassen. Jede Kreatur, die von einem Violetten Pilz getötet wird, verwest ausgesprochen schnell. Ein neuer Violetter Pilz wächst aus der schimmelnden Leiche und wächst innerhalb von `2W6` Tagen zur vollständigen Größe heran.
 
-## Fungi
+## Pilze
 
-With its sky of jagged stone and perpetual night, the Underdark is home to all manner of fungi. Taking the place of plants in the subterranean realm, fungi are vital to the survival of many underground species, providing nourishment and shelter in the unforgiving darkness.
+Das Unterreich, mit seinem Himmel aus schroffem Stein und seiner ewigen Dunkelheit, ist Heimat für viele Arten von Pilzen. Pilze nehmen in diesem unterirdischen Reich die Rolle von Pflanzen ein und sind entscheidend für das Überleben vieler unterirdischer Spezies. Sie stellen in der unbarmherzigen Finsternis Nahrung und Zuflucht dar.
 
-Fungi spawn in organic matter, then break that matter down to consume it, feeding on filth and corpses. As they mature, fungi eject spores that drift on the lightest breeze to spawn new fungi.
+$\quad$Pilze wachsen auf organischer Materie und zersetzen sie, um sie zu verzehren. Sie ernähren sich von Abfall und Kadavern. Wenn Pilze wachsen, geben sie Sporen ab, die auf der leichtesten Brise davonschweben und neue Pilze erschaffen.
 
-Not needing sunlight or warmth to grow, fungi thrive in every corner and crevice of the Underdark. Transformed by the magic that permeates that underground realm, Underdark fungi often develop potent defensive mechanisms or abilities of mimicry and attack. The largest specimens can spread to create vast subterranean forests in which countless creatures live and feed.
+$\quad$Pilze brauchen weder Sonnenlicht noch Wärme, um zu wachsen, und gedeihen in jeder Ecke und Nische des Unterreichs.
+
+$\quad$Die Pilze des Unterreichs werden von der Magie verwandelt, die dieses unterirdische Reich erfüllt, und oft entwickeln sie dadurch mächtige Verteidigungsmechanismen oder die Fähigkeiten der Nachahmung und des Angriffs. Die größten Exemplare können sich ausbreiten, um gigantische unterirdische Wälder zu erschaffen, in denen zahllose Kreaturen leben und sich ernähren können.
 
 ```statblock
-"name": "Violetter Pilz"
-"size": "Medium"
-"type": "plant"
-"alignment": "Unaligned"
-"ac": !!int "5"
-"hp": !!int "18"
-"hit_dice": "4d8"
-"modifier": !!int "-5"
-"stats":
-  - !!int "3"
-  - !!int "1"
-  - !!int "10"
-  - !!int "1"
-  - !!int "3"
-  - !!int "1"
-"speed": "5 ft."
-"condition_immunities": "[blinded](/3-Mechanics/CLI/conditions.md#Blinded), [deafened](/3-Mechanics/CLI/conditions.md#Deafened),\
-  \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened)"
-"senses": "[blindsight](/3-Mechanics/CLI/senses.md#Blindsight) 30 ft. (blind beyond\
-  \ this radius), passive Perception 6"
-"languages": ""
-"cr": "1/4"
-"traits":
-  - "desc": "While the violet fungus remains motionless, it is indistinguishable from\
-      \ an ordinary fungus."
-    "name": "False Appearance"
-"actions":
-  - "desc": "The fungus makes 1d4 Rotting Touch attacks."
-    "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +2 to hit, reach 10 ft., one creature. *Hit:*\
-      \ 4 (1d8) necrotic damage."
-    "name": "Rotting Touch"
-"source":
-  - "MM"
-"image": "/3-Mechanics/CLI/bestiary/plant/token/violet-fungus.webp"
+name: Violetter Pilz
+image: token/violet-fungus.webp
+source: MM
+size: Mittelgroß
+type: Pflanze
+alignment: gesinnungslos
+ac: 5
+hp: 18
+hit_dice: 4d8
+modifier: -5
+stats:
+  - 3
+  - 1
+  - 10
+  - 1
+  - 3
+  - 1
+speed: 1,5 m
+condition_immunities: <STATBLOCK-MARKDOWN-LINK>01-Spielleiter/Zustände-phb#Blind|Blind<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>01-Spielleiter/Zustände-phb#Taub|Taub<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>01-Spielleiter/Zustände-phb#Verängstigt|Verängstigt<STATBLOCK-MARKDOWN-LINK>
+senses: <STATBLOCK-MARKDOWN-LINK>01-Spielleiter/Sinne-phb#Blindsicht|Blindsicht<STATBLOCK-MARKDOWN-LINK> 9 m (darüber hinaus blind), passive Wahrnehmung 6
+languages: 
+cr: 1/4
+traits:
+  - name: Falsches Erscheinungsbild
+    desc: Wenn der Violette Pilz bewegungslos bleibt, ist er nicht von einem normalen Pilz zu unterscheiden.
+actions:
+  - name: Mehrfachangriff
+    desc: Der Fungus führt 1W4 Angriffe mit Verfaulende Berührung durch.
+  - name: Verfaulende Berührung
+    desc: "*Nahkampf-Waffenangriff:* +2 zum Treffen, Reichweite 3 m, ein Ziel. *Treffer:* 4 (1d8) nekrotischer Schaden."
 ```
 ^statblock
 
-## Environment
+## Vorkommen
 
-underdark
+Unterreich
