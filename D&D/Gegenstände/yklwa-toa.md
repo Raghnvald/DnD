@@ -1,18 +1,20 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Yklwa
+Typ: Einfache Nahkampfwaffe
 tags:
-  - Quelle/5e/toa
   - Gegenstand/Seltenheit/keine
-  - Gegenstand/Waffe/Nahkampf
   - Gegenstand/Waffe/Einfach
+  - Gegenstand/Waffe/Nahkampf
+  - Quelle/5e/toa
 aliases:
   - Yklwa
+linter-yaml-title-alias: Yklwa
+obsidianUIMode: preview
 ---
 # Yklwa
 *Weapon*  
-
 
 - **Damage**: 1d8 piercing
 - **Range**: 10/30

@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Dagger of Venom
+Typ: Einfache Nahkampfwaffe
 tags:
   - Gegenstand/Seltenheit/selten
   - Gegenstand/Waffe/Einfach

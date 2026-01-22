@@ -1,17 +1,18 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Pride Silk Outfit
 tags:
-  - Quelle/5e/egw
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
+  - Quelle/5e/egw
 aliases:
   - Pride Silk Outfit
+linter-yaml-title-alias: Pride Silk Outfit
+obsidianUIMode: preview
 ---
 # Pride Silk Outfit
 *Adventuring gear*  
-
 
 - **Cost**: 500 gp
 - **Weight**: 4.0 lbs.

@@ -1,18 +1,18 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/5
-  - Monster/Habitat/Wald
-  - Monster/Habitat/Sumpf
-  - Monster/Habitat/Stadt
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Untote
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Revenant
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Stadt
+  - Monster/Habitat/Sumpf
+  - Monster/Habitat/Wald
+  - Monster/HG/5
+  - Monster/Typ/Untote
+  - Quelle/5e/xmm
 aliases:
   - Revenant
+linter-yaml-title-alias: Revenant
 ---
 # [Revenant](3-Mechanics\CLI\bestiary\undead/revenant-xmm.md)
 *Source: Monster Manual (2024) p. 259*  

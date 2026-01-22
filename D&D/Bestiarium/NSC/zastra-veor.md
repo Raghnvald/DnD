@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/veor
-  - Monster/HG/8
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/gith
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Zastra
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/8
+  - Monster/Typ/Humanoid/gith
+  - Quelle/5e/veor
 aliases:
   - Zastra
+linter-yaml-title-alias: Zastra
 ---
 # [Zastra](3-Mechanics\CLI\bestiary\npc/zastra-veor.md)
 *Source: Vecna: Eve of Ruin*  

@@ -1,24 +1,24 @@
 ---
-cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
-Name: Zombie
+statblock: inline
+statblock-link: "#^statblock"
+Bezeichnung: Zombie
 Typ: Untoter
 Größe: Mittelgroß
 HG: 1/4
 Habitat:
   - Stadt
-status: completed
 image: image/zombie.webp
+status: completed
 tags:
-  - Quelle/5e/mm
-  - Monster/HG/1-4
-  - Monster/Habitat/Stadt
   - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Stadt
+  - Monster/HG/1-4
   - Monster/Typ/Untote
-statblock: inline
-statblock-link: "#^statblock"
+  - Quelle/5e/mm
 aliases:
   - Zombie
+linter-yaml-title-alias: Zombie
 ---
 # Zombie
 *Quelle: Monsterhandbuch S. 316. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*  

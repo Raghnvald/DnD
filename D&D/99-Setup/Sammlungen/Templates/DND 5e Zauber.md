@@ -1,37 +1,40 @@
 ---
 Bezeichnung: 
+Zaubergrad: 
 Zeitaufwand: 
 Reichweite: 
 Komponenten: 
 Wirkungsdauer: 
 Angriff: 
 Schaden: 
+status: WIP
 tags:
-- Quelle/5e/TEMPLATE
-- Klasse/TEMPLATE
-- Zauber/Original/TEMPLATE
-- Zauber/Grad/TEMPLATE
-- Zauber/Schule/TEMPLATE
-aliases: 
-- TEMPLATE
-status:
-- completed (?)
+  - Klasse/Barde
+  - Klasse/Barde/Schule-des-Wissens
+  - Quelle/5e/eepc
+  - Subklasse/Mystischer-Ritter
+  - Zauber/Grad/2
+  - Zauber/Original/Aganazzars_Scorcher
+  - Zauber/Schule/Hervorrufung
+classes:
+  - Barde
+  - Barde (Schule des Wissens)
+aliases:
+  - 
+linter-yaml-title-alias: 
 ---
-# NAME
-_SCHULE des X. Grades (Ritual?)_
+# Name
+*Hervorrufung des 2. Grades*
 
-_Klassen:_ 
-_Unterklassen:_
-
-_Quellen:_ 
- 
 - **Zeitaufwand:** 
 - **Reichweite / Fläche:** 
 - **Komponenten:** 
 - **Wirkungsdauer:** 
-- **Angriff / Rettung:** 
-- **Schaden / Effekt:**  
 
 Beschreibung hier einfügen.
 
-**_Auf höheren Graden._**
+$\quad$**Auf höheren Graden.** 
+
+**Klassen**: [Barde](Listen/list-spells-classes-bard.md); [Barde (Schule des Wissens)](Listen/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Kämpfer (Mystischer Ritter)](Listen/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB")
+
+*Quelle:  Xanathars Ratgeber für Alles S. 150*

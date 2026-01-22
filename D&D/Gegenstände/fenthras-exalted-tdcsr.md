@@ -1,15 +1,18 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Fenthras (Exalted)
+Typ: Fernkampf-Kriegswaffe
 tags:
-  - Quelle/5e/tdcsr
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
-  - Gegenstand/Waffe/Kriegswaffe
   - Gegenstand/Waffe/Fernkampf
+  - Gegenstand/Waffe/Kriegswaffe
+  - Quelle/5e/tdcsr
 aliases:
   - Fenthras (Exalted)
+linter-yaml-title-alias: Fenthras (Exalted)
+obsidianUIMode: preview
 ---
 # Fenthras (Exalted)
 *Weapon ([longbow](/3-Mechanics/CLI/items/longbow-xphb.md)), legendary (requires attunement)*  

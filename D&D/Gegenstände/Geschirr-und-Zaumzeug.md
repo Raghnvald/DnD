@@ -9,8 +9,8 @@ tags:
   - Gegenstand/Seltenheit/gewöhnlich
   - Quelle/5e/phb
 aliases:
-  - Geschirr und Zaumzeug
   - Bit and bridle
+  - Geschirr und Zaumzeug
 linter-yaml-title-alias: Geschirr und Zaumzeug
 ---
 # Geschirr und Zaumzeug

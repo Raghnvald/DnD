@@ -1,17 +1,18 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Skull Card
 tags:
-  - Quelle/5e/bmt
   - Gegenstand/Seltenheit/legendär
+  - Quelle/5e/bmt
 aliases:
   - Skull Card
+linter-yaml-title-alias: Skull Card
+obsidianUIMode: preview
 ---
 # Skull Card
 *Wondrous item, legendary*  
 ![](/3-Mechanics/CLI/items/img/19-skull.webp#right)
-
 
 As an action, you can brandish this card and use it to cast [Spirit of Death](/3-Mechanics/CLI/spells/spirit-of-death-bmt.md) (see "chapter 7") as a 6th-level spell (spell attack bonus `dice:1d20+9|noform|noparens|text(+9)`, save DC 17). Once this property is used, it can't be used again until the next dawn.
 

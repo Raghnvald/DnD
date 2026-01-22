@@ -6,8 +6,8 @@ tags:
   - Gegenstand/wundersam/Trank
   - Quelle/5e/dmg
 aliases:
-  - Trank der Unsichtbarkeit
   - Potion of Invisibility
+  - Trank der Unsichtbarkeit
 linter-yaml-title-alias: Trank der Unsichtbarkeit
 ---
 # Trank der Unsichtbarkeit

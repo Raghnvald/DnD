@@ -10,8 +10,8 @@ tags:
   - Gegenstand/Seltenheit/gewöhnlich
   - Quelle/5e/dmg
 aliases:
-  - Drowgift (Verletzung)
   - Drow Poison
+  - Drowgift (Verletzung)
 linter-yaml-title-alias: Drowgift (Verletzung)
 ---
 # Drowgift (Verletzung)

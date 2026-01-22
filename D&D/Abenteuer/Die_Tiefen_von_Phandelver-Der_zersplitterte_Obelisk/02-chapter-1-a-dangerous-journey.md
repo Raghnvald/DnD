@@ -37,7 +37,7 @@ Read the following text to get the adventure started. (If you're using another a
 
 > [!readaloud] 
 > 
-> You began your adventuring career in the city of Neverwinter. A dwarf named [Gundren Rockseeker](Gundren_Felssucher-pabtso.md) hired you to bring a wagonload of provisions to the rough-and-tumble settlement of Phandalin, a couple of days' travel south of the city. Gundren was clearly excited and more than a little secretive about his reasons for the trip, saying only that he and his brothers had found "something big," and that he'd pay you ten gold pieces each for escorting his supplies safely to Barthen's Provisions, a trading post in Phandalin. He then set out ahead of you on horse, along with a warrior escort named [Sildar Hallwinter](Sildar%20Hallwinter-pabtso.md), claiming he needed to arrive early to "take care of business."
+> You began your adventuring career in the city of Neverwinter. A dwarf named [Gundren Rockseeker](Gundren_Felssucher-pabtso.md) hired you to bring a wagonload of provisions to the rough-and-tumble settlement of Phandalin, a couple of days' travel south of the city. Gundren was clearly excited and more than a little secretive about his reasons for the trip, saying only that he and his brothers had found "something big," and that he'd pay you ten gold pieces each for escorting his supplies safely to Barthen's Provisions, a trading post in Phandalin. He then set out ahead of you on horse, along with a warrior escort named [Sildar Hallwinter](Sildar_Hallwinter-pabtso.md), claiming he needed to arrive early to "take care of business."
 > 
 > You've spent the last few days following the High Road south from Neverwinter, and you've just recently veered east along the Triboar Trail. You've had no trouble so far, but you know this territory can be dangerous. Bandits and outlaws have been known to lurk along this road.
 ^027
@@ -63,7 +63,7 @@ Read the boxed text below to start the encounter:
 > You've been on the Triboar Trail for about half a day and are nearing a side road leading south toward Phandalin. As you come around a bend, you stumble upon the scene of a recent battle. The woods press close to the trail here, with a steep embankment and dense thickets on either side. Two horses wander the road, sniffing at ransacked personal effects.
 ^02a
 
-The site is littered with arrows, torn scraps of fabric, and odds and ends discarded from Gundren's bags when the goblins were looking for the map. If you're using the "Meet Me in Phandalin" adventure hook, any character who approaches the scene identifies the horses as belonging to [Gundren Rockseeker](Gundren_Felssucher-pabtso.md) and [Sildar Hallwinter](Sildar%20Hallwinter-pabtso.md). It's up to the players to decide whether to bring the horses with them. When the characters inspect the scene closer, read the following:
+The site is littered with arrows, torn scraps of fabric, and odds and ends discarded from Gundren's bags when the goblins were looking for the map. If you're using the "Meet Me in Phandalin" adventure hook, any character who approaches the scene identifies the horses as belonging to [Gundren Rockseeker](Gundren_Felssucher-pabtso.md) and [Sildar Hallwinter](Sildar_Hallwinter-pabtso.md). It's up to the players to decide whether to bring the horses with them. When the characters inspect the scene closer, read the following:
 
 > [!readaloud] 
 > 

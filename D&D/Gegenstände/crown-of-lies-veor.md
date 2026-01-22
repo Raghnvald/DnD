@@ -1,18 +1,19 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Crown of Lies
 tags:
-  - Quelle/5e/veor
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/Artefakt
+  - Quelle/5e/veor
 aliases:
   - Crown of Lies
+linter-yaml-title-alias: Crown of Lies
+obsidianUIMode: preview
 ---
 # Crown of Lies
 *Wondrous item, artifact (requires attunement)*  
 ![](/3-Mechanics/CLI/items/img/crown-of-lies.webp#right)
-
 
 After betraying and nearly destroying the lich Vecna, the warrior Kas found himself trapped in the Shadowfell, imprisoned in a Domain of Dread called Tovag. There, he languished as a vampire. In time, the Dark Powers of the Domain of Dread lured Kas to a hidden forge, where he found the Crown of Lies. Once Kas vowed to deliver Vecna into the Dark Powers' clutches and donned the crown, the Dark Powers released Kas. From there, Kas set out to ruin his former master. Should Kas fail, the Dark Powers will reclaim him.
 

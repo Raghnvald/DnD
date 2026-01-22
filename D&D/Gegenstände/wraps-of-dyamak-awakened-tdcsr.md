@@ -1,13 +1,15 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Wraps of Dyamak (Awakened)
 tags:
-  - Quelle/5e/tdcsr
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
+  - Quelle/5e/tdcsr
 aliases:
   - Wraps of Dyamak (Awakened)
+linter-yaml-title-alias: Wraps of Dyamak (Awakened)
+obsidianUIMode: preview
 ---
 # Wraps of Dyamak (Awakened)
 *Wondrous item, legendary (requires attunement by a monk)*  

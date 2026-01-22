@@ -1,17 +1,18 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Wildroot
 tags:
-  - Quelle/5e/toa
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/unbekannt
+  - Quelle/5e/toa
 aliases:
   - Wildroot
+linter-yaml-title-alias: Wildroot
+obsidianUIMode: preview
 ---
 # Wildroot
 *Adventuring gear*  
-
 
 - **Cost**: 25 gp
 

@@ -1,17 +1,17 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/23
-  - Monster/Habitat/Küste
-  - Monster/Habitat/Wüste
-  - Monster/Größe/Gigantisch
-  - Monster/Typ/Drache/chromatic
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Ancient Blue Dragon
+tags:
+  - Monster/Größe/Gigantisch
+  - Monster/Habitat/Küste
+  - Monster/Habitat/Wüste
+  - Monster/HG/23
+  - Monster/Typ/Drache/chromatic
+  - Quelle/5e/xmm
 aliases:
   - Ancient Blue Dragon
+linter-yaml-title-alias: Ancient Blue Dragon
 ---
 # [Ancient Blue Dragon](3-Mechanics\CLI\bestiary\dragon/ancient-blue-dragon-xmm.md)
 *Source: Monster Manual (2024) p. 50. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

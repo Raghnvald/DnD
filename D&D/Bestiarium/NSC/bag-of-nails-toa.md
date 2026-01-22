@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/toa
-  - Monster/HG/8
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/tabaxi
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Bag of Nails
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/8
+  - Monster/Typ/Humanoid/tabaxi
+  - Quelle/5e/toa
 aliases:
   - Bag of Nails
+linter-yaml-title-alias: Bag of Nails
 ---
 # [Bag of Nails](3-Mechanics\CLI\bestiary\npc/bag-of-nails-toa.md)
 *Source: Tomb of Annihilation p. 102*  

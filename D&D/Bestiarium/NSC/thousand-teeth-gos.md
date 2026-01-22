@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/gos
-  - Monster/HG/6
-  - Monster/Größe/Groß
-  - Monster/Typ/Monstrosität
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Thousand Teeth
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/6
+  - Monster/Typ/Monstrosität
+  - Quelle/5e/gos
 aliases:
   - Thousand Teeth
+linter-yaml-title-alias: Thousand Teeth
 ---
 # [Thousand Teeth](3-Mechanics\CLI\bestiary\npc/thousand-teeth-gos.md)
 *Source: Ghosts of Saltmarsh p. 256*  

@@ -1,63 +1,30 @@
-cssclasses: dnd5e-only-statblock
-prefer-view: edit-source read
-Name: 
-Typ: 
-Größe: 
-HG: 
-Habitat:
-  - 
-status:
-image: 
-tags:
-- Quelle/QUELLE
-- Typ/TYP/SUBTYP
-- Habitat/GRÖSSE
-- Vorkommen/VORKOMMEN
-aliases:
-- NAME
----
+# Name
+*Quelle: Monsterhandbuch S. XXX. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)* 
+
 ```statblock
-layout: Basic 5e German Layout 2024
 name: 
-image: 
-source:
+image: token/
+source: 
 size: 
 type: 
 subtype: 
 alignment: 
-ac: Number
-hp: Number
+ac: 
+ac_class: <STATBLOCK-MARKDOWN-LINK>Gegenstände/|<STATBLOCK-MARKDOWN-LINK>
+hp: 
 hit_dice: 
-ini: 
-speed: 
-stats: 
-fage_stats: 
-saves:
-  - STR:
-  - GES:
-  - KON:
-  - INT:
-  - WEI:
-  - CHA:
+modifier: 
+stats:
+  - 10
+  - 10
+  - 10
+  - 10
+  - 10
+  - 10
+speed: 9 m
 skillsaves:
-  - Akrobatik:
-  - Arkane-Kunde:
-  - Athletik:
-  - Auftreten:
-  - Einschüchtern:
-  - Fingerfertigkeit:
-  - Geschichte:
-  - Heilkunde:
-  - Heimlichkeit:
-  - Mit-Tieren-umgehen:
-  - Motiv-erkennen:
-  - Nachforschungen:
-  - Naturkunde:
-  - Religion:
-  - Täuschen:
-  - Überlebenskunst:
-  - Überzeugen:
-  - Wahrnehmung:
+  - name: <STATBLOCK-MARKDOWN-LINK>01-Spielleiter/Fertigkeiten-phb#Heimlichkeit|Heimlichkeit<STATBLOCK-MARKDOWN-LINK>
+    desc: "+6"
 damage_vulnerabilities: 
 damage_resistances: 
 damage_immunities: 
@@ -95,3 +62,7 @@ reactions:
   - name: 
     desc: 
 ```
+^statblock
+
+## Vorkommen
+

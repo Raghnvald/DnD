@@ -7,7 +7,7 @@ tags:
 aliases:
   - Sailor
 ---
-# Sailor
+# Seemann
 *Source: Player's Handbook (2024) p. 184*  
 ![](/3-Mechanics/CLI/backgrounds/img/sailor.webp#right)
 

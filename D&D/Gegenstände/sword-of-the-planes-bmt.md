@@ -1,27 +1,29 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Sword of the Planes
+Typ: Nahkampf-Kriegswaffe (generisch)
 tags:
-  - Quelle/5e/bmt
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
   - Gegenstand/Waffe/Kriegswaffe
   - Gegenstand/Waffe/Nahkampf
   - Gegenstand/wundersam/generic-variant
+  - Quelle/5e/bmt
 aliases:
-  - Sword of the Planes
   - Double-Bladed Scimitar of the Planes
   - Greatsword of the Planes
   - Longsword of the Planes
   - Rapier of the Planes
   - Scimitar of the Planes
   - Shortsword of the Planes
+  - Sword of the Planes
+linter-yaml-title-alias: Sword of the Planes
+obsidianUIMode: preview
 ---
 # Sword of the Planes
 *Legendary (requires attunement)*  
 ![](/3-Mechanics/CLI/items/img/sword-of-the-planes.webp#right)
-
 
 You gain a +3 bonus to attack and damage rolls made with this magic sword.
 
@@ -76,6 +78,5 @@ Anything that enters the rift is instantly transported to the other plane, appea
 - **Damage**: 1d6 piercing
 - **Properties**: Finesse, Light
 - **Weight**: 2.0 lbs.
-
 
 *Source: The Book of Many Things p. 68*

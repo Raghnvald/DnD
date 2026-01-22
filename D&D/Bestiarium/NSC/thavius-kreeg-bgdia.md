@@ -1,15 +1,15 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/bgdia
-  - Monster/HG/1-2
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/human
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Thavius Kreeg
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/1-2
+  - Monster/Typ/Humanoid/human
+  - Quelle/5e/bgdia
 aliases:
   - Thavius Kreeg
+linter-yaml-title-alias: Thavius Kreeg
 ---
 # [Thavius Kreeg](3-Mechanics\CLI\bestiary\npc/thavius-kreeg-bgdia.md)
 *Source: Baldur's Gate: Descent Into Avernus p. 42*  

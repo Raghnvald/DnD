@@ -15,7 +15,7 @@ aliases:
 ## Abenteuerausrüstung
 _Source: Player's Handbook (2024) p. 222. Available in the Free Rules (2024)_
 
-![](Abenteuerausrüstung-phb#^adventuring-gear)
+![](Abenteuerausrüstung-phb.md#^adventuring-gear)
 
 ## Ammunition
 _Source: Player's Handbook (2024) p. 222. Available in the Free Rules (2024)_

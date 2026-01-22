@@ -7,8 +7,8 @@ tags:
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Elektrum (EM)
   - Electrum (ep)
+  - Elektrum (EM)
 linter-yaml-title-alias: Elektrum (EM)
 ---
 # Elektrum (EM)

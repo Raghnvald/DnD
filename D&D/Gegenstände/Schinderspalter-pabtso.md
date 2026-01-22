@@ -1,5 +1,6 @@
 ---
-Bezeichnung: Schinderspalter
+Bezeichnung: Flayer Slayer
+Typ: Nahkampf-Kriegswaffe
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten

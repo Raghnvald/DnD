@@ -1,18 +1,18 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/10
-  - Monster/Habitat/Wald
-  - Monster/Habitat/Sumpf
-  - Monster/Habitat/Stadt
-  - Monster/Größe/Gigantisch
-  - Monster/Typ/Untote
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Haunting Revenant
+tags:
+  - Monster/Größe/Gigantisch
+  - Monster/Habitat/Stadt
+  - Monster/Habitat/Sumpf
+  - Monster/Habitat/Wald
+  - Monster/HG/10
+  - Monster/Typ/Untote
+  - Quelle/5e/xmm
 aliases:
   - Haunting Revenant
+linter-yaml-title-alias: Haunting Revenant
 ---
 # [Haunting Revenant](3-Mechanics\CLI\bestiary\undead/haunting-revenant-xmm.md)
 *Source: Monster Manual (2024) p. 260*  

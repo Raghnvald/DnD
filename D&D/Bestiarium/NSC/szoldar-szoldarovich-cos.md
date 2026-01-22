@@ -1,15 +1,15 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/cos
-  - Monster/HG/1-2
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/human
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Szoldar Szoldarovich
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/1-2
+  - Monster/Typ/Humanoid/human
+  - Quelle/5e/cos
 aliases:
   - Szoldar Szoldarovich
+linter-yaml-title-alias: Szoldar Szoldarovich
 ---
 # [Szoldar Szoldarovich](3-Mechanics\CLI\bestiary\npc/szoldar-szoldarovich-cos.md)
 *Source: Curse of Strahd p. 100*  

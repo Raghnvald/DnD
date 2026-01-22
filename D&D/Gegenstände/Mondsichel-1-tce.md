@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: +1 Moon Sickle
+Typ: Einfache Nahkampfwaffe
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/ungewöhnlich

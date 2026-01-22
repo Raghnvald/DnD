@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/veor
-  - Monster/HG/10
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Himmlische
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Inda
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/10
+  - Monster/Typ/Himmlische
+  - Quelle/5e/veor
 aliases:
   - Inda
+linter-yaml-title-alias: Inda
 ---
 # [Inda](3-Mechanics\CLI\bestiary\npc/inda-veor.md)
 *Source: Vecna: Eve of Ruin*  

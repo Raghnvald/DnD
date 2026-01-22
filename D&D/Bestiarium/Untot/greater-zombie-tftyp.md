@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/tftyp
-  - Monster/HG/5
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Untote
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Greater Zombie
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/5
+  - Monster/Typ/Untote
+  - Quelle/5e/tftyp
 aliases:
   - Greater Zombie
+linter-yaml-title-alias: Greater Zombie
 ---
 # [Greater Zombie](3-Mechanics\CLI\bestiary\undead/greater-zombie-tftyp.md)
 *Source: Tales from the Yawning Portal p. 237*  

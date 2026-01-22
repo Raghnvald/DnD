@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/wdh
-  - Monster/HG/
-  - Monster/Größe/Klein
-  - Monster/Typ/Humanoid/human
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Terenzio Cassalanter
+tags:
+  - Monster/Größe/Klein
+  - Monster/HG/
+  - Monster/Typ/Humanoid/human
+  - Quelle/5e/wdh
 aliases:
   - Terenzio Cassalanter
+linter-yaml-title-alias: Terenzio Cassalanter
 ---
 # [Terenzio Cassalanter](3-Mechanics\CLI\bestiary\npc/terenzio-cassalanter-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 115*  

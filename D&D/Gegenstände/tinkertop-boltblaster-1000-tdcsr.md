@@ -1,19 +1,21 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Tinkertop Boltblaster 1000
+Typ: Fernkampf-Kriegswaffe
 tags:
-  - Quelle/5e/tdcsr
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
-  - Gegenstand/Waffe/Kriegswaffe
   - Gegenstand/Waffe/Fernkampf
+  - Gegenstand/Waffe/Kriegswaffe
+  - Quelle/5e/tdcsr
 aliases:
   - Tinkertop Boltblaster 1000
+linter-yaml-title-alias: Tinkertop Boltblaster 1000
+obsidianUIMode: preview
 ---
 # Tinkertop Boltblaster 1000
 *Weapon ([hand crossbow](/3-Mechanics/CLI/items/hand-crossbow-xphb.md)), very rare (requires attunement)*  
-
 
 - **Damage**: 1d6 piercing
 - **Range**: 30/120

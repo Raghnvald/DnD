@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/toa
-  - Monster/HG/2
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/dwarf
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Hew Hackinstone
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/2
+  - Monster/Typ/Humanoid/dwarf
+  - Quelle/5e/toa
 aliases:
   - Hew Hackinstone
+linter-yaml-title-alias: Hew Hackinstone
 ---
 # [Hew Hackinstone](3-Mechanics\CLI\bestiary\npc/hew-hackinstone-toa.md)
 *Source: Tomb of Annihilation p. 33*  

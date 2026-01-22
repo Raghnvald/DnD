@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Survival Mantle
+Rüstung: Mittel
 tags:
   - Gegenstand/Rüstung/Mittel
   - Gegenstand/Seltenheit/unbekannt

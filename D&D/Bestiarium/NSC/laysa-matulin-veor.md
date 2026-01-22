@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/veor
-  - Monster/HG/8
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/human
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Laysa Matulin
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/8
+  - Monster/Typ/Humanoid/human
+  - Quelle/5e/veor
 aliases:
   - Laysa Matulin
+linter-yaml-title-alias: Laysa Matulin
 ---
 # [Laysa Matulin](3-Mechanics\CLI\bestiary\npc/laysa-matulin-veor.md)
 *Source: Vecna: Eve of Ruin*  

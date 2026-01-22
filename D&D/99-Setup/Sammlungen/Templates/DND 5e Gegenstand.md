@@ -2,27 +2,22 @@
 Bezeichnung: 
 Typ: 
 Eigenschaften: 
-Gew.: 
 Kst.: 
+Gew.: 
 tags:
-- Quelle/5e/TEMPLATE
-- Gegenstand/TEMPLATE
-- Gegenstand/Seltenheit/TEMPLATE
-- Gegenstand/Einstimmung/TEMPLATE
+  - Gegenstand/Ausrüstung
+  - Gegenstand/Seltenheit/keine
+  - Quelle/5e/phb
 aliases:
-- TEMPLATE
+  - 
+linter-yaml-title-alias: Abakus
 ---
 # Name
-_Wundersamer Gegenstand, sehr selten (erfordert Einstimmung)_
-<img src="Symbolik/Gegenstände.webp" align="right" width="150">
+*Abenteuerausrüstung*
 
-_Klassen:_ 
-_Unterklassen:_ 
+- **Kosten**: 
+- **Gewicht**: 
 
-_Quellen:_ Spielerhandbuch
+Beschreibung hier einfügen
 
-
-- **Gewicht**: ``
-- **Kosten**: ``
-
-Beschreibung hier einfügen.
+*Quellen: Spielerhandbuch S. XXX. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)* 

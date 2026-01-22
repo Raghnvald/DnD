@@ -1,17 +1,7 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/17
-  - Monster/Habitat/Wald
-  - Monster/Habitat/Grasland
-  - Monster/Größe/Riesig
-  - Monster/Typ/Drache/metallic
 statblock: inline
 statblock-link: "#^statblock"
-aliases:
-  - Adult Gold Dragon
+Bezeichnung: Adult Gold Dragon
 Typ: Drache (Metallisch)
 Größe: Riesig
 HG: 17
@@ -19,6 +9,16 @@ Habitat:
   - Grasland
   - Wald
 status: WIP
+tags:
+  - Monster/Größe/Riesig
+  - Monster/Habitat/Grasland
+  - Monster/Habitat/Wald
+  - Monster/HG/17
+  - Monster/Typ/Drache/metallic
+  - Quelle/5e/xmm
+aliases:
+  - Adult Gold Dragon
+linter-yaml-title-alias: Adult Gold Dragon
 ---
 # [Adult Gold Dragon](3-Mechanics\CLI\bestiary\dragon/adult-gold-dragon-xmm.md)
 *Source: Monster Manual (2024) p. 145. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

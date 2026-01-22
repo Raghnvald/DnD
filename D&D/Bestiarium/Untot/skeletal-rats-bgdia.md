@@ -1,15 +1,15 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/bgdia
-  - Monster/HG/1-4
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Untote
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Skeletal Rats
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/1-4
+  - Monster/Typ/Untote
+  - Quelle/5e/bgdia
 aliases:
   - Skeletal Rats
+linter-yaml-title-alias: Skeletal Rats
 ---
 # [Skeletal Rats](3-Mechanics\CLI\bestiary\undead/skeletal-rats-bgdia.md)
 *Source: Baldur's Gate: Descent Into Avernus p. 23*  

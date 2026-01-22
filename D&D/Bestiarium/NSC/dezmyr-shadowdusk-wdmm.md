@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/wdmm
-  - Monster/HG/17
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Untote
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Dezmyr Shadowdusk
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/17
+  - Monster/Typ/Untote
+  - Quelle/5e/wdmm
 aliases:
   - Dezmyr Shadowdusk
+linter-yaml-title-alias: Dezmyr Shadowdusk
 ---
 # [Dezmyr Shadowdusk](3-Mechanics\CLI\bestiary\npc/dezmyr-shadowdusk-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 287*  

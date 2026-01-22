@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/wdh
-  - Monster/HG/8
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/illuskan-human
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Urstul Floxin
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/8
+  - Monster/Typ/Humanoid/illuskan-human
+  - Quelle/5e/wdh
 aliases:
   - Urstul Floxin
+linter-yaml-title-alias: Urstul Floxin
 ---
 # [Urstul Floxin](3-Mechanics\CLI\bestiary\npc/urstul-floxin-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 216*  

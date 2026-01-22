@@ -1,13 +1,15 @@
 ---
-tags:
-  - Quelle/5e/cos
-  - Monster/HG/6
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/dusk-elf
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Kasimir Velikov
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/6
+  - Monster/Typ/Humanoid/dusk-elf
+  - Quelle/5e/cos
 aliases:
   - Kasimir Velikov
+linter-yaml-title-alias: Kasimir Velikov
 ---
 # Kasimir Velikov
 *Source: Curse of Strahd p. 233*  

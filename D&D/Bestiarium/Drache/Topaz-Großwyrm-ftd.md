@@ -1,21 +1,21 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/ftd
-  - Monster/HG/26
-  - Monster/Größe/Gigantisch
-  - Monster/Typ/Drache/gem
 statblock: inline
 statblock-link: "#^statblock"
-aliases:
-  - Topaz Greatwyrm
+Bezeichnung: Topaz Greatwyrm
 Typ: Drache (Edelstein)
 Größe: Gigantisch
 HG: 26
 Habitat:
   - /
 status: WIP
+tags:
+  - Monster/Größe/Gigantisch
+  - Monster/HG/26
+  - Monster/Typ/Drache/gem
+  - Quelle/5e/ftd
+aliases:
+  - Topaz Greatwyrm
+linter-yaml-title-alias: Topaz Greatwyrm
 ---
 # [Topaz Greatwyrm](3-Mechanics\CLI\bestiary\dragon/topaz-greatwyrm-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 201*  
@@ -32,7 +32,6 @@ Gem greatwyrms' ascension transforms their bodies to appear as crystal, their sc
 > [!quote] A quote from Fizban  
 > 
 > The thing I miss most about Sardior is the thing no gem greatwyrm will ever reproduce: the witty anecdotes. Which were, I grant you, mostly about me.
-
 
 ```statblock
 "name": "Topaz Greatwyrm (FTD)"

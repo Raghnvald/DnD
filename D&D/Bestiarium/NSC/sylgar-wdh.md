@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/wdh
-  - Monster/HG/0
-  - Monster/Größe/Winzig
-  - Monster/Typ/Tier
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Sylgar
+tags:
+  - Monster/Größe/Winzig
+  - Monster/HG/0
+  - Monster/Typ/Tier
+  - Quelle/5e/wdh
 aliases:
   - Sylgar
+linter-yaml-title-alias: Sylgar
 ---
 # [Sylgar](3-Mechanics\CLI\bestiary\npc/sylgar-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 220*  

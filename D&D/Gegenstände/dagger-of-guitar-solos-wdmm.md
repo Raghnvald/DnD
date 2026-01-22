@@ -1,18 +1,20 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Dagger of Guitar Solos
+Typ: Einfache Nahkampfwaffe
 tags:
-  - Quelle/5e/wdmm
   - Gegenstand/Seltenheit/unbekannt/magic
-  - Gegenstand/Waffe/Nahkampf
   - Gegenstand/Waffe/Einfach
+  - Gegenstand/Waffe/Nahkampf
+  - Quelle/5e/wdmm
 aliases:
   - Dagger of Guitar Solos
+linter-yaml-title-alias: Dagger of Guitar Solos
+obsidianUIMode: preview
 ---
 # Dagger of Guitar Solos
 *Weapon (dagger)*  
-
 
 - **Damage**: 1d4 piercing
 - **Range**: 20/60

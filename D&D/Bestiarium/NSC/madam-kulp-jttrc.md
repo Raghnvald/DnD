@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/jttrc
-  - Monster/HG/1-8
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/any-race
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Madam Kulp
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/1-8
+  - Monster/Typ/Humanoid/any-race
+  - Quelle/5e/jttrc
 aliases:
   - Madam Kulp
+linter-yaml-title-alias: Madam Kulp
 ---
 # [Madam Kulp](3-Mechanics\CLI\bestiary\npc/madam-kulp-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 27*  

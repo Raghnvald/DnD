@@ -1,16 +1,17 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Mirror of the Past
 tags:
-  - Quelle/5e/tftyp
   - Gegenstand/Seltenheit/selten
+  - Quelle/5e/tftyp
 aliases:
   - Mirror of the Past
+linter-yaml-title-alias: Mirror of the Past
+obsidianUIMode: preview
 ---
 # Mirror of the Past
 *Wondrous item, rare*  
-
 
 - **Weight**: 1.0 lbs.
 

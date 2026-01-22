@@ -1,17 +1,18 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Talons Card
 tags:
-  - Quelle/5e/bmt
   - Gegenstand/Seltenheit/legendär
+  - Quelle/5e/bmt
 aliases:
   - Talons Card
+linter-yaml-title-alias: Talons Card
+obsidianUIMode: preview
 ---
 # Talons Card
 *Wondrous item, legendary*  
 ![](/3-Mechanics/CLI/items/img/21-talons.webp#right)
-
 
 As an action, you can brandish this card and target one magic item you can see within 120 feet of yourself. If the item isn't an artifact, its magical properties are suppressed for 1 minute. Once this property is used, it can't be used again until the next dawn.
 

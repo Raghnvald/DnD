@@ -9,8 +9,8 @@ tags:
   - Gegenstand/Seltenheit/sehr_selten
   - Quelle/5e/xdmg
 aliases:
-  - Amulett der Ebenen
   - Amulet of the Planes
+  - Amulett der Ebenen
 linter-yaml-title-alias: Amulett der Ebenen
 ---
 # Amulett der Ebenen

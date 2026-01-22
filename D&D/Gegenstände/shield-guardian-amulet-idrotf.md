@@ -1,18 +1,19 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Shield Guardian Amulet
 tags:
-  - Quelle/5e/idrotf
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
+  - Quelle/5e/idrotf
 aliases:
   - Shield Guardian Amulet
+linter-yaml-title-alias: Shield Guardian Amulet
+obsidianUIMode: preview
 ---
 # Shield Guardian Amulet
 *Wondrous item, rare (requires attunement by a humanoid)*  
 ![](/3-Mechanics/CLI/items/img/shield-guardian-amulet.webp#right)
-
 
 The amulet is a 4-inch-wide disk composed of silver-framed wood, with a rune carved into its face. A detect magic spell reveals a magical aura of enchantment around the amulet.
 

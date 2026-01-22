@@ -1,18 +1,18 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Helm of the Scavenger
 tags:
-  - Quelle/5e/wdmm
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
+  - Quelle/5e/wdmm
 aliases:
   - Helm of the Scavenger
+linter-yaml-title-alias: Helm of the Scavenger
+obsidianUIMode: preview
 ---
 # Helm of the Scavenger
 *Wondrous item, legendary (requires attunement by a spellcaster)*  
-
-
 
 This ornate chair is designed to propel and maneuver a ship through space.
 

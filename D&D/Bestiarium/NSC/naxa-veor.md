@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/veor
-  - Monster/HG/7
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/elf
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Naxa
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/7
+  - Monster/Typ/Humanoid/elf
+  - Quelle/5e/veor
 aliases:
   - Naxa
+linter-yaml-title-alias: Naxa
 ---
 # [Naxa](3-Mechanics\CLI\bestiary\npc/naxa-veor.md)
 *Source: Vecna: Eve of Ruin*  

@@ -1,18 +1,19 @@
 ---
-cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
-Bezeichnung: Krabbelnde Klaue
+Bezeichnung: Beschreibung
 Typ: Untoter
 Größe: Mittelgroß
 HG: 4
 Habitat: Jedes
-status:
 image:
+status:
 tags:
-  - Quelle/5e/mm
   - Monster/Typ/Untote
+  - Quelle/5e/mm
 aliases:
+  - Beschreibung
   - Banshee
+linter-yaml-title-alias: Beschreibung
 ---
 
 ```statblock

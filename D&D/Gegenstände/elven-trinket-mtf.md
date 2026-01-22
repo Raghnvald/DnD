@@ -1,18 +1,18 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Elven Trinket
 tags:
-  - Quelle/5e/mtf
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
+  - Quelle/5e/mtf
 aliases:
   - Elven Trinket
+linter-yaml-title-alias: Elven Trinket
+obsidianUIMode: preview
 ---
 # Elven Trinket
 *Adventuring gear*  
-
-
 
 `dice: [](elven-trinket-mtf.md#^trinket)`
 

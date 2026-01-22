@@ -1,17 +1,20 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: "Vanrak's Mithral Shirt"
+Rüstung: Mittel
 tags:
-  - Quelle/5e/wdmm
   - Gegenstand/Rüstung/Mittel
   - Gegenstand/Seltenheit/ungewöhnlich
+  - Quelle/5e/wdmm
 aliases:
+  - "Vanrak's Mithral Shirt"
   - Vanrak's Mithral Shirt
+linter-yaml-title-alias: "Vanrak's Mithral Shirt"
+obsidianUIMode: preview
 ---
 # Vanrak's Mithral Shirt
 *Medium armor (chain shirt), uncommon*  
-
 
 - **Armor Class**: 13 + Dex modifier (max of +2)
 - **Weight**: 20.0 lbs.

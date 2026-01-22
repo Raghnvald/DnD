@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/skt
-  - Monster/HG/
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/turami-human
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Urgala Meltimer
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/
+  - Monster/Typ/Humanoid/turami-human
+  - Quelle/5e/skt
 aliases:
   - Urgala Meltimer
+linter-yaml-title-alias: Urgala Meltimer
 ---
 # [Urgala Meltimer](3-Mechanics\CLI\bestiary\npc/urgala-meltimer-skt.md)
 *Source: Storm King's Thunder p. 254*  

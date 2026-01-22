@@ -1,8 +1,8 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-- json5e-index
+Bezeichnung: Index of Npc
+aliases:
+  - Index of Npc
+linter-yaml-title-alias: Index of Npc
 ---
 # Index of Npc
 
@@ -55,7 +55,7 @@ cssclasses:
 - [Gadof Blinsky](./gadof-blinsky-cos.md)
 - [Gertruda](./gertruda-cos.md)
 - [Geryon](./geryon-mpmm.md)
-- [Gideon Lightward](./gideon-lightward-bgdia.md)
+- [Gideon Lightward](Gideon_Lightward-bgdia.md)
 - [Grandlejaw](./grandlejaw-pabtso.md)
 - [Graz'zt](./grazzt-mpmm.md)
 - [Grog Strongjaw](./grog-strongjaw-tdcsr.md)
@@ -65,7 +65,7 @@ cssclasses:
 - [Hashutu](./hashutu-pabtso.md)
 - [Helga Ruvak](./helga-ruvak-cos.md)
 - [Henrik van der Voort](./henrik-van-der-voort-cos.md)
-- [Hjoldak Hollowhelm](./hjoldak-hollowhelm-pabtso.md)
+- [Hjoldak Hollowhelm](Hjoldak_Hollowhelm-pabtso.md)
 - [Honna](./honna-pabtso.md)
 - [Hulil Lutan](./hulil-lutan-egw.md)
 - [Hutijin](./hutijin-mpmm.md)
@@ -92,7 +92,7 @@ cssclasses:
 - [Liara Portyr](./liara-portyr-toa.md)
 - [Lief Lipsiege](./lief-lipsiege-cos.md)
 - [Lowarnizel](./lowarnizel-pabtso.md)
-- [Ludmilla Vilisevic](./ludmilla-vilisevic-cos.md)
+- [Ludmilla Vilisevic](Ludmilla_Vilisevic-cos.md)
 - [Lulu](./lulu-bgdia.md)
 - [Luvash](./luvash-cos.md)
 - [Mad Maggie](./mad-maggie-bgdia.md)
@@ -144,15 +144,15 @@ cssclasses:
 - [Sangzor](./sangzor-cos.md)
 - [Savid](./savid-cos.md)
 - [Scanlan Shorthalt](./scanlan-shorthalt-tdcsr.md)
-- [Shalfi Lewin](./shalfi-lewin-pabtso.md)
+- [Shalfi Lewin](Shalfi_Lewin-pabtso.md)
 - [Sildar Hallwinter](./sildar-hallwinter-pabtso.md)
-- [Sir Godfrey Gwilym](./sir-godfrey-gwilym-cos.md)
+- [Sir Godfrey Gwilym](Sir_Godfrey_Gwilym-cos.md)
 - [Sken Zabriss](./sken-zabriss-egw.md)
 - [Skr'a S'orsk](./skra-sorsk-egw.md)
 - [Smiler the Defiler](./smiler-the-defiler-bgdia.md)
 - [Stanimir](./stanimir-cos.md)
 - [Stella Wachter](./stella-wachter-cos.md)
-- [Strahd von Zarovich](./strahd-von-zarovich-cos.md)
+- [Strahd von Zarovich](Strahd_von_Zarovich-cos.md)
 - [Strahd's Animated Armor](./strahds-animated-armor-cos.md)
 - [Sylvira Savikas](./sylvira-savikas-bgdia.md)
 - [Szoldar Szoldarovich](./szoldar-szoldarovich-cos.md)
@@ -163,7 +163,7 @@ cssclasses:
 - [Three Earrings](./three-earrings-egw.md)
 - [Thurstwell Vanthampur](./thurstwell-vanthampur-bgdia.md)
 - [Tiamat](./tiamat-rot.md)
-- [Titivilus](./titivilus-mpmm.md)
+- [Titivilus](Titivilus-mpmm.md)
 - [Torogar Steelfist](./torogar-steelfist-bgdia.md)
 - [Traxigor](./traxigor-bgdia.md)
 - [Trinket](./trinket-tdcsr.md)
@@ -185,6 +185,6 @@ cssclasses:
 - [Zariel](./zariel-mpmm.md)
 - [Zegana](./zegana-ggr.md)
 - [Zeond](./zeond-pabtso.md)
-- [Zuggtmoy](./zuggtmoy-mpmm.md)
+- [Zuggtmoy](D&D/Bestiarium/NSC/Zuggtmoy-mpmm.md)
 - [Zuleika Toranescu](./zuleika-toranescu-cos.md)
 - [Zygfrek Belview](./zygfrek-belview-cos.md)

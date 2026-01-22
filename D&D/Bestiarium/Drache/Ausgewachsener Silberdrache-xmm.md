@@ -1,17 +1,7 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/16
-  - Monster/Habitat/Berg
-  - Monster/Habitat/Stadt
-  - Monster/Größe/Riesig
-  - Monster/Typ/Drache/metallic
 statblock: inline
 statblock-link: "#^statblock"
-aliases:
-  - Adult Silver Dragon
+Bezeichnung: Adult Silver Dragon
 Typ: Drache (Metallisch)
 Größe: Riesig
 HG: 16
@@ -19,6 +9,16 @@ Habitat:
   - Berg
   - Stadt
 status: WIP
+tags:
+  - Monster/Größe/Riesig
+  - Monster/Habitat/Berg
+  - Monster/Habitat/Stadt
+  - Monster/HG/16
+  - Monster/Typ/Drache/metallic
+  - Quelle/5e/xmm
+aliases:
+  - Adult Silver Dragon
+linter-yaml-title-alias: Adult Silver Dragon
 ---
 # [Adult Silver Dragon](3-Mechanics\CLI\bestiary\dragon/adult-silver-dragon-xmm.md)
 *Source: Monster Manual (2024) p. 279. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

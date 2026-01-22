@@ -1,17 +1,18 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Amulet of Protection from Turning
 tags:
-  - Quelle/5e/tftyp
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
+  - Quelle/5e/tftyp
 aliases:
   - Amulet of Protection from Turning
+linter-yaml-title-alias: Amulet of Protection from Turning
+obsidianUIMode: preview
 ---
 # Amulet of Protection from Turning
 *Wondrous item, rare (requires attunement)*  
-
 
 - **Weight**: 1.0 lbs.
 

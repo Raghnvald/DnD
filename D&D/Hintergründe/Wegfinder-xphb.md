@@ -5,16 +5,16 @@ tags:
   - Kompendium/Hintergrund
   - Quelle/5e/xphb
 aliases:
-  - Wayfarer
+  - Guide
 ---
-# Wayfarer
-*Source: Player's Handbook (2024) p. 185*  
-![](/3-Mechanics/CLI/backgrounds/img/wayfarer.webp#right)
+# Guide
+*Source: Player's Handbook (2024) p. 181*  
+![](/3-Mechanics/CLI/backgrounds/img/guide.webp#right)
 
-- **Ability Scores.** Dexterity, Wisdom, Charisma  
-- **Feat.** [Lucky](/3-Mechanics/CLI/feats/lucky-xphb.md)  
-- **Skill Proficiencies.** [Insight](/3-Mechanics/CLI/skills.md#Insight), [Stealth](/3-Mechanics/CLI/skills.md#Stealth)  
-- **Tool Proficiency.** [Thieves' Tools](/3-Mechanics/CLI/items/thieves-tools-xphb.md)  
-- **Equipment.** Choose A or B: (A) [2 Daggers](/3-Mechanics/CLI/items/dagger-xphb.md), [Thieves' Tools](/3-Mechanics/CLI/items/thieves-tools-xphb.md), [Gaming Set](/3-Mechanics/CLI/items/gaming-set-xphb.md) (any), [Bedroll](/3-Mechanics/CLI/items/bedroll-xphb.md), [2 Pouches](/3-Mechanics/CLI/items/pouch-xphb.md), [Traveler's Clothes](/3-Mechanics/CLI/items/travelers-clothes-xphb.md), 16 GP; or (B) 50 GP  
+- **Ability Scores.** Dexterity, Constitution, Wisdom  
+- **Feat.** [Magic Initiate](/3-Mechanics/CLI/feats/magic-initiate-xphb.md) (Druid)  
+- **Skill Proficiencies.** [Stealth](/3-Mechanics/CLI/skills.md#Stealth), [Survival](/3-Mechanics/CLI/skills.md#Survival)  
+- **Tool Proficiency.** [Cartographer's Tools](/3-Mechanics/CLI/items/cartographers-tools-xphb.md)  
+- **Equipment.** Choose A or B: (A) [Shortbow](/3-Mechanics/CLI/items/shortbow-xphb.md), [20 Arrows](/3-Mechanics/CLI/items/arrow-xphb.md), [Cartographer's Tools](/3-Mechanics/CLI/items/cartographers-tools-xphb.md), [Bedroll](/3-Mechanics/CLI/items/bedroll-xphb.md), [Quiver](/3-Mechanics/CLI/items/quiver-xphb.md), [Tent](/3-Mechanics/CLI/items/tent-xphb.md), [Traveler's Clothes](/3-Mechanics/CLI/items/travelers-clothes-xphb.md), 3 GP; or (B) 50 GP  
 
-You grew up on the streets surrounded by similarly ill-fated castoffs, a few of them friends and a few of them rivals. You slept where you could and did odd jobs for food. At times, when the hunger became unbearable, you resorted to theft. Still, you never lost your pride and never abandoned hope. Fate is not yet finished with you.
+You came of age outdoors, far from settled lands. Your home was anywhere you chose to spread your bedroll. There are wonders in the wilderness—strange monsters, pristine forests and streams, overgrown ruins of great halls once trod by giants—and you learned to fend for yourself as you explored them. From time to time, you guided friendly nature priests who instructed you in the fundamentals of channeling the magic of the wild.

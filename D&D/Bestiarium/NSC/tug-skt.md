@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/skt
-  - Monster/HG/5
-  - Monster/Größe/Riesig
-  - Monster/Typ/Riese
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Tug
+tags:
+  - Monster/Größe/Riesig
+  - Monster/HG/5
+  - Monster/Typ/Riese
+  - Quelle/5e/skt
 aliases:
   - Tug
+linter-yaml-title-alias: Tug
 ---
 # [Tug](3-Mechanics\CLI\bestiary\npc/tug-skt.md)
 *Source: Storm King's Thunder p. 209*  

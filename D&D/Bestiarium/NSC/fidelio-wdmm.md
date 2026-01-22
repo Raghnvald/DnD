@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/wdmm
-  - Monster/HG/4
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Untote
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Fidelio
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/4
+  - Monster/Typ/Untote
+  - Quelle/5e/wdmm
 aliases:
   - Fidelio
+linter-yaml-title-alias: Fidelio
 ---
 # [Fidelio](3-Mechanics\CLI\bestiary\npc/fidelio-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 197*  

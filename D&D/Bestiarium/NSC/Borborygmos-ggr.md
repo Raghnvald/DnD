@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- Quelle/5e/ggr
-- Monster/HG/18
-- Monster/Größe/Riesig
-- Monster/Typ/Riese
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Borborygmos
+tags:
+  - Monster/Größe/Riesig
+  - Monster/HG/18
+  - Monster/Typ/Riese
+  - Quelle/5e/ggr
 aliases:
-- Borborygmos
+  - Borborygmos
+linter-yaml-title-alias: Borborygmos
 ---
 # Borborygmos
 *Source: Guildmasters' Guide to Ravnica p. 238*  

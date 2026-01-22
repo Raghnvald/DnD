@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/veor
-  - Monster/HG/12
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/elf
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Teremini Nightsedge
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/12
+  - Monster/Typ/Humanoid/elf
+  - Quelle/5e/veor
 aliases:
   - Teremini Nightsedge
+linter-yaml-title-alias: Teremini Nightsedge
 ---
 # [Teremini Nightsedge](3-Mechanics\CLI\bestiary\npc/teremini-nightsedge-veor.md)
 *Source: Vecna: Eve of Ruin*  

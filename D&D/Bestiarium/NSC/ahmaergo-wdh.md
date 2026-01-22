@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/wdh
-  - Monster/HG/9
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/dwarf
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Ahmaergo
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/9
+  - Monster/Typ/Humanoid/dwarf
+  - Quelle/5e/wdh
 aliases:
   - Ahmaergo
+linter-yaml-title-alias: Ahmaergo
 ---
 # [Ahmaergo](3-Mechanics\CLI\bestiary\npc/ahmaergo-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 193*  

@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Green-Flame Blade
+Bezeichnung: Grünfeuerklinge
 Zaubergrad: 0 (Zaubertrick)
 Zeitaufwand:
 Reichweite:
@@ -37,7 +37,7 @@ aliases:
   - Green-Flame Blade
 linter-yaml-title-alias: Green-Flame Blade
 ---
-# Green-Flame Blade
+# Grünfeuerklinge
 *cantrip, Evocation*  
 
 - **Casting time:** 1 Action

@@ -1,17 +1,18 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Muroosa Balm
 tags:
-  - Quelle/5e/egw
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
+  - Quelle/5e/egw
 aliases:
   - Muroosa Balm
+linter-yaml-title-alias: Muroosa Balm
+obsidianUIMode: preview
 ---
 # Muroosa Balm
 *Adventuring gear*  
-
 
 - **Cost**: 100 gp
 

@@ -1,15 +1,16 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Armor of Weightlessness
+Rüstung: Leicht, Mittel oder Schwer
 tags:
-  - Quelle/5e/bmt
-  - Gegenstand/Rüstung/Schwer
+  - Gegenstand/Einstimmung/required
   - Gegenstand/Rüstung/Leicht
   - Gegenstand/Rüstung/Mittel
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Rüstung/Schwer
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/wundersam/generic-variant
+  - Quelle/5e/bmt
 aliases:
   - Armor of Weightlessness
   - Breastplate of Weightlessness
@@ -25,11 +26,11 @@ aliases:
   - Spiked Armor of Weightlessness
   - Splint Armor of Weightlessness
   - Studded Leather Armor of Weightlessness
+linter-yaml-title-alias: Armor of Weightlessness
+obsidianUIMode: preview
 ---
 # Armor of Weightlessness
 *Uncommon (requires attunement)*  
-
-
 
 This armor has 5 charges. While you wear it, you can use a bonus action to expend 1 or more charges to cast one of the following spells from the armor, targeting yourself: Jump (1 charge) or Levitate (2 charges).
 
@@ -125,6 +126,5 @@ This armor regains `dice:1d4+1|noform|noparens|avg` (`1d4 + 1`) expended charges
 
 - **Armor Class**: 12 + Dex modifier
 - **Weight**: 13.0 lbs.
-
 
 *Source: The Book of Many Things p. 65*

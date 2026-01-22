@@ -1,18 +1,18 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/20
-  - Monster/Habitat/Arktis
-  - Monster/Größe/Gigantisch
-  - Monster/Typ/Drache/chromatic
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Ancient White Dragon
+Typ: Drache (Chromatisch)
+status: WIP
+tags:
+  - Monster/Größe/Gigantisch
+  - Monster/Habitat/Arktis
+  - Monster/HG/20
+  - Monster/Typ/Drache/chromatic
+  - Quelle/5e/xmm
 aliases:
   - Ancient White Dragon
-status: WIP
-Typ: Drache (Chromatisch)
+linter-yaml-title-alias: Ancient White Dragon
 ---
 # [Ancient White Dragon](3-Mechanics\CLI\bestiary\dragon/ancient-white-dragon-xmm.md)
 *Source: Monster Manual (2024) p. 330. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

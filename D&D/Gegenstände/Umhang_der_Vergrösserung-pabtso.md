@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Umhang der Vergrösserung
+Bezeichnung: Cape of Enlargement
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten

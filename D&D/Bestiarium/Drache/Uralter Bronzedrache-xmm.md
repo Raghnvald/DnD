@@ -1,16 +1,16 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/22
-  - Monster/Habitat/Küste
-  - Monster/Größe/Gigantisch
-  - Monster/Typ/Drache/metallic
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Ancient Bronze Dragon
+tags:
+  - Monster/Größe/Gigantisch
+  - Monster/Habitat/Küste
+  - Monster/HG/22
+  - Monster/Typ/Drache/metallic
+  - Quelle/5e/xmm
 aliases:
   - Ancient Bronze Dragon
+linter-yaml-title-alias: Ancient Bronze Dragon
 ---
 # [Ancient Bronze Dragon](3-Mechanics\CLI\bestiary\dragon/ancient-bronze-dragon-xmm.md)
 *Source: Monster Manual (2024) p. 60. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

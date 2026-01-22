@@ -11,8 +11,8 @@ tags:
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Pouch
-linter-yaml-title-alias: Pouch
+  - Beutel
+linter-yaml-title-alias: Beutel
 obsidianUIMode: preview
 ---
 # Beutel

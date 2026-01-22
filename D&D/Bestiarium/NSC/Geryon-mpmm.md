@@ -1,13 +1,15 @@
 ---
-tags:
-  - Quelle/5e/mpmm
-  - Monster/HG/22
-  - Monster/Größe/Riesig
-  - Monster/Typ/Unhold/devil
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Geryon
+tags:
+  - Monster/Größe/Riesig
+  - Monster/HG/22
+  - Monster/Typ/Unhold/devil
+  - Quelle/5e/mpmm
 aliases:
   - Geryon
+linter-yaml-title-alias: Geryon
 ---
 # Geryon
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 136*  

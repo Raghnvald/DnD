@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/egw
-  - Monster/HG/5
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Untote
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Shadowghast
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/5
+  - Monster/Typ/Untote
+  - Quelle/5e/egw
 aliases:
   - Shadowghast
+linter-yaml-title-alias: Shadowghast
 ---
 # [Shadowghast](3-Mechanics\CLI\bestiary\undead/shadowghast-egw.md)
 *Source: Explorer's Guide to Wildemount p. 299*  

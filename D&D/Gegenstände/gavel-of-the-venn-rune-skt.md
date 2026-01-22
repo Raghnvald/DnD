@@ -1,18 +1,18 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Gavel of the Venn Rune
 tags:
-  - Quelle/5e/skt
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
+  - Quelle/5e/skt
 aliases:
   - Gavel of the Venn Rune
+linter-yaml-title-alias: Gavel of the Venn Rune
+obsidianUIMode: preview
 ---
 # Gavel of the Venn Rune
 *Wondrous item, rare (requires attunement)*  
-
-
 
 This wooden gavel is small by giant reckoning but nearly the size of a warhammer in human hands. The venn (friend) rune is inscribed in mithral in the base of the haft. Among giants, this item is used as part of rituals to resolve disputes. The gavel has the following properties.
 

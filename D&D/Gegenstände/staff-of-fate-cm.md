@@ -1,19 +1,20 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Staff of Fate
 tags:
-  - Quelle/5e/cm
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
-  - Gegenstand/Waffe/Nahkampf
   - Gegenstand/Waffe/Einfach
+  - Gegenstand/Waffe/Nahkampf
+  - Quelle/5e/cm
 aliases:
   - Staff of Fate
+linter-yaml-title-alias: Staff of Fate
+obsidianUIMode: preview
 ---
 # Staff of Fate
 *Staff, weapon (quarterstaff), very rare (requires attunement)*  
-
 
 - **Damage**:
   - One-handed: 1d6 bludgeoning

@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/egw
-  - Monster/HG/1
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/goliath
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Sken Zabriss
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/1
+  - Monster/Typ/Humanoid/goliath
+  - Quelle/5e/egw
 aliases:
   - Sken Zabriss
+linter-yaml-title-alias: Sken Zabriss
 ---
 # [Sken Zabriss](3-Mechanics\CLI\bestiary\npc/sken-zabriss-egw.md)
 *Source: Explorer's Guide to Wildemount p. 221*  

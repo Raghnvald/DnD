@@ -1,21 +1,21 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/ftd
-  - Monster/HG/2
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Drache/gem
 statblock: inline
 statblock-link: "#^statblock"
-aliases:
-  - Emerald Dragon Wyrmling
+Bezeichnung: Emerald Dragon Wyrmling
 Typ: Drache (Edelstein)
 Größe: Mittelgroß
 HG: 2
-status: WIP
 Habitat:
   - /
+status: WIP
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/2
+  - Monster/Typ/Drache/gem
+  - Quelle/5e/ftd
+aliases:
+  - Emerald Dragon Wyrmling
+linter-yaml-title-alias: Emerald Dragon Wyrmling
 ---
 # [Emerald Dragon Wyrmling](3-Mechanics\CLI\bestiary\dragon/emerald-dragon-wyrmling-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 197*  

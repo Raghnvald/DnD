@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Club
+Typ: Einfache Nahkampfwaffe
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/Einfach

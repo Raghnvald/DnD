@@ -1,21 +1,21 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/ftd
-  - Monster/HG/8
-  - Monster/Größe/Riesig
-  - Monster/Typ/Drache
 statblock: inline
 statblock-link: "#^statblock"
-aliases:
-  - Young Sea Serpent
+Bezeichnung: Young Sea Serpent
 Typ: Drache
 Größe: Riesig
 HG: 8
-status: WIP
 Habitat:
   - /
+status: WIP
+tags:
+  - Monster/Größe/Riesig
+  - Monster/HG/8
+  - Monster/Typ/Drache
+  - Quelle/5e/ftd
+aliases:
+  - Young Sea Serpent
+linter-yaml-title-alias: Young Sea Serpent
 ---
 # [Young Sea Serpent](3-Mechanics\CLI\bestiary\dragon/young-sea-serpent-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 219*  

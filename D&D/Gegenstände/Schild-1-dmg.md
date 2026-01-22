@@ -1,12 +1,13 @@
 ---
 Bezeichnung: Schild +1
+Rüstung: Schild
 tags:
   - Gegenstand/Rüstung/Schild/
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/dmg
 aliases:
-  - Schild +1
   - +1 Shield
+  - Schild +1
 linter-yaml-title-alias: Schild +1
 ---
 # Schild +1

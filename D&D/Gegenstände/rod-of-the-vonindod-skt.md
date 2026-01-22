@@ -1,18 +1,19 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Rod of the Vonindod
 tags:
-  - Quelle/5e/skt
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam/Rute
+  - Quelle/5e/skt
 aliases:
   - Rod of the Vonindod
+linter-yaml-title-alias: Rod of the Vonindod
+obsidianUIMode: preview
 ---
 # Rod of the Vonindod
 *Rod, rare (requires attunement)*  
-
 
 - **Weight**: 100.0 lbs.
 

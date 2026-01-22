@@ -1,18 +1,20 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Junky +1 Dagger
+Typ: Einfache Nahkampfwaffe
 tags:
-  - Quelle/5e/tftyp
   - Gegenstand/Seltenheit/unbekannt/magic
-  - Gegenstand/Waffe/Nahkampf
   - Gegenstand/Waffe/Einfach
+  - Gegenstand/Waffe/Nahkampf
+  - Quelle/5e/tftyp
 aliases:
   - Junky +1 Dagger
+linter-yaml-title-alias: Junky +1 Dagger
+obsidianUIMode: preview
 ---
 # Junky +1 Dagger
 *Weapon (dagger)*  
-
 
 - **Damage**: 1d4 piercing
 - **Range**: 20/60

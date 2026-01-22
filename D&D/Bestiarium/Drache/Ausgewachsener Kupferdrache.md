@@ -1,22 +1,22 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mm
-  - Monster/HG/14
-  - Monster/Habitat/Hügel
-  - Monster/Größe/Riesig
-  - Monster/Typ/Drache
 statblock: inline
 statblock-link: "#^statblock"
-aliases:
-  - Adult Copper Dragon
+Bezeichnung: Adult Copper Dragon
 Typ: Drache
 Größe: Riesig
 HG: 14
 Habitat:
   - Hügel
 status: WIP
+tags:
+  - Monster/Größe/Riesig
+  - Monster/Habitat/Hügel
+  - Monster/HG/14
+  - Monster/Typ/Drache
+  - Quelle/5e/mm
+aliases:
+  - Adult Copper Dragon
+linter-yaml-title-alias: Adult Copper Dragon
 ---
 # [Adult Copper Dragon](3-Mechanics\CLI\bestiary\dragon/adult-copper-dragon.md)
 *Source: Monster Manual p. 112. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  

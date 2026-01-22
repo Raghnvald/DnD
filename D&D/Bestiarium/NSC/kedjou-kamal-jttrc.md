@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/jttrc
-  - Monster/HG/2
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/human
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Kedjou Kamal
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/2
+  - Monster/Typ/Humanoid/human
+  - Quelle/5e/jttrc
 aliases:
   - Kedjou Kamal
+linter-yaml-title-alias: Kedjou Kamal
 ---
 # [Kedjou Kamal](3-Mechanics\CLI\bestiary\npc/kedjou-kamal-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 96*  

@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/wdh
-  - Monster/HG/13
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/human
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Vajra Safahr
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/13
+  - Monster/Typ/Humanoid/human
+  - Quelle/5e/wdh
 aliases:
   - Vajra Safahr
+linter-yaml-title-alias: Vajra Safahr
 ---
 # [Vajra Safahr](3-Mechanics\CLI\bestiary\npc/vajra-safahr-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 217*  

@@ -9,8 +9,8 @@ tags:
   - Gegenstand/wundersam/Schriftrolle
   - Quelle/5e/dmg
 aliases:
-  - Zauberschriftrolle (Zaubertrick)
   - Spell Scroll (Cantrip)
+  - Zauberschriftrolle (Zaubertrick)
 linter-yaml-title-alias: Zauberschriftrolle (Zaubertrick)
 ---
 # Zauberschriftrolle (Zaubertrick)

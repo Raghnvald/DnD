@@ -1,24 +1,23 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/vgm
-  - Monster/HG/2
-  - Monster/Habitat/Wald
-  - Monster/Habitat/Stadt
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Drache
 statblock: inline
 statblock-link: "#^statblock"
-aliases:
-  - Green Guard Drake
-Größe: Mittelgroß
+Bezeichnung: Green Guard Drake
 Typ: Drache
+Größe: Mittelgroß
 Habitat:
   - Stadt
   - Wald
 status: WIP
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Stadt
+  - Monster/Habitat/Wald
+  - Monster/HG/2
+  - Monster/Typ/Drache
+  - Quelle/5e/vgm
+aliases:
+  - Green Guard Drake
+linter-yaml-title-alias: Green Guard Drake
 ---
 # [Green Guard Drake](3-Mechanics\CLI\bestiary\dragon/green-guard-drake-vgm.md)
 *Source: Volo's Guide to Monsters p. 158*  

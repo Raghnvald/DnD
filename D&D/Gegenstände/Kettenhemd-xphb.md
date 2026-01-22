@@ -2,13 +2,14 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Chain Shirt
+Rüstung: Mittel
 tags:
   - Gegenstand/Rüstung/Mittel
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
-  - Chain Shirt
   - "Chain Shirt"
+  - Chain Shirt
 linter-yaml-title-alias: Chain Shirt
 obsidianUIMode: preview
 ---

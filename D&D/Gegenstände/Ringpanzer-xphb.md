@@ -2,13 +2,14 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Ring Mail
+Rüstung: Schwer
 tags:
   - Gegenstand/Rüstung/Schwer
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
-  - Ring Mail
   - "Ring Mail"
+  - Ring Mail
 linter-yaml-title-alias: Ring Mail
 obsidianUIMode: preview
 ---

@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/wdh
-  - Monster/HG/0
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/dwarf
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Thorvin Twinbeard
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/0
+  - Monster/Typ/Humanoid/dwarf
+  - Quelle/5e/wdh
 aliases:
   - Thorvin Twinbeard
+linter-yaml-title-alias: Thorvin Twinbeard
 ---
 # [Thorvin Twinbeard](3-Mechanics\CLI\bestiary\npc/thorvin-twinbeard-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 216*  

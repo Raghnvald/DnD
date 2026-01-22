@@ -21,7 +21,7 @@ Depending on which townspeople the characters met in Phandalin and which quests 
 - **Old Owl Well.** Daran Edermath wants the characters to discover who is exploring the ruins at Old Owl Well (see "Old Owl Well").  
 - **Thundertree.** Qelline Alderleaf suggested the characters go to the ruined town of Thundertree and consult with the druid Reidoth (see "Ruins of Thundertree").  
 - **Wyvern Tor.** Townmaster Harbin Wester wants the characters to head east on the Triboar Trail and chase away raiders near Wyvern Tor (see "Wyvern Tor").  
-- **Cragmaw Castle.** [Sildar Hallwinter](Sildar%20Hallwinter-pabtso.md) wants the characters to stop the Cragmaw goblins' attacks and search for [Gundren Rockseeker](Gundren_Felssucher-pabtso.md), and he encourages them to explore Cragmaw Castle (see "Cragmaw Castle").  
+- **Cragmaw Castle.** [Sildar Hallwinter](Sildar_Hallwinter-pabtso.md) wants the characters to stop the Cragmaw goblins' attacks and search for [Gundren Rockseeker](Gundren_Felssucher-pabtso.md), and he encourages them to explore Cragmaw Castle (see "Cragmaw Castle").  
 
 The characters can rest and purchase supplies in Phandalin as their funds allow. When they're done, ask the players to pick a lead to investigate so their characters can head to the appropriate destination.
 

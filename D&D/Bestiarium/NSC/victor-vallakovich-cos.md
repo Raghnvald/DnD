@@ -1,15 +1,15 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/cos
-  - Monster/HG/6
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/human
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Victor Vallakovich
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/6
+  - Monster/Typ/Humanoid/human
+  - Quelle/5e/cos
 aliases:
   - Victor Vallakovich
+linter-yaml-title-alias: Victor Vallakovich
 ---
 # [Victor Vallakovich](3-Mechanics\CLI\bestiary\npc/victor-vallakovich-cos.md)
 *Source: Curse of Strahd p. 105*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Musket
+Typ: Fernkampf-Kriegswaffe
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/Fernkampf

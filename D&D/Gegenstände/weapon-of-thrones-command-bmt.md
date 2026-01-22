@@ -1,19 +1,19 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: "Weapon of Throne's Command"
 tags:
-  - Quelle/5e/bmt
-  - Gegenstand/Zeitalter/Futuristisch
-  - Gegenstand/Zeitalter/Modern
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
+  - Gegenstand/Waffe/Fernkampf
   - Gegenstand/Waffe/Kriegswaffe
   - Gegenstand/Waffe/Nahkampf
-  - Gegenstand/Waffe/Fernkampf
   - Gegenstand/wundersam/generic-variant
+  - Gegenstand/Zeitalter/Futuristisch
+  - Gegenstand/Zeitalter/Modern
+  - Quelle/5e/bmt
 aliases:
-  - Weapon of Throne's Command
+  - "Weapon of Throne's Command"
   - Antimatter Rifle of Throne's Command
   - Automatic Rifle of Throne's Command
   - Battleaxe of Throne's Command
@@ -48,12 +48,13 @@ aliases:
   - Trident of Throne's Command
   - War Pick of Throne's Command
   - Warhammer of Throne's Command
+  - Weapon of Throne's Command
   - Whip of Throne's Command
+linter-yaml-title-alias: "Weapon of Throne's Command"
+obsidianUIMode: preview
 ---
 # Weapon of Throne's Command
 *Very rare (requires attunement)*  
-
-
 
 This weapon is bedecked in ornate gold filigree and deep-blue and maroon jewels. You gain a +1 bonus to attack and damage rolls made with this weapon. Additionally, you gain proficiency in the Intimidation and Persuasion skills if you don't already have it.
 
@@ -333,6 +334,5 @@ The weapon regains `dice:1d4|noform|noparens|avg` (`1d4`) expended charges daily
 - **Damage**: 1d4 slashing
 - **Properties**: Finesse, Reach
 - **Weight**: 3.0 lbs.
-
 
 *Source: The Book of Many Things p. 39*

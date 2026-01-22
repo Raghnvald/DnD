@@ -1,13 +1,15 @@
 ---
-tags:
-  - Quelle/5e/vrgr
-  - Monster/HG/5
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Konstrukt
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Elise
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/5
+  - Monster/Typ/Konstrukt
+  - Quelle/5e/vrgr
 aliases:
   - Elise
+linter-yaml-title-alias: Elise
 ---
 # Elise
 *Source: Van Richten's Guide to Ravenloft p. 143*  

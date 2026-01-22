@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/tdcsr
-  - Monster/HG/6
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Konstrukt
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Doty X
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/6
+  - Monster/Typ/Konstrukt
+  - Quelle/5e/tdcsr
 aliases:
   - Doty X
+linter-yaml-title-alias: Doty X
 ---
 # [Doty X](3-Mechanics\CLI\bestiary\npc/doty-x-tdcsr.md)
 *Source: Tal'Dorei Campaign Setting Reborn p. 272*  

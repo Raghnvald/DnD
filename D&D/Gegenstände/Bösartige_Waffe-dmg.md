@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Vicious Weapon
+Bezeichnung: Bösartige Waffe
 tags:
   - Gegenstand/Seltenheit/selten
   - Gegenstand/Waffe/Einfach
@@ -61,10 +61,10 @@ aliases:
   - Vicious Trident
   - Vicious War Pick
   - Vicious Warhammer
-  - Vicious Weapon
+  - Bösartige Waffe
   - Vicious Whip
   - Vicious Yklwa
-linter-yaml-title-alias: Vicious Weapon
+linter-yaml-title-alias: Bösartige Waffe
 ---
 # Bösartige Waffe
 *Waffe (irgendeine), selten*  

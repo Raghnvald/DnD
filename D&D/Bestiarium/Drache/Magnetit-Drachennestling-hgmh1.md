@@ -1,15 +1,13 @@
 ---
-cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
-Bezeichnung:
+Bezeichnung: Magnetit-Drachennestling-hgmh1
 Typ: Drache
 Größe: Mittelgroß
 HG:
-status:
 image:
+status:
 tags:
-  - Quelle/5e/hgtmh1
   - Monster/Typ/Drache
-aliases:
-  - 
+  - Quelle/5e/hgtmh1
 ---
+# Magnetit-Drachennestling-hgmh1

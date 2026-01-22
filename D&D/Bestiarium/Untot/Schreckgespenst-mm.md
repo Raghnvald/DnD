@@ -1,26 +1,26 @@
 ---
-cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
-Bezeichnung:
+statblock: inline
+statblock-link: "#^statblock"
+Bezeichnung: Specter
 Typ: Untoter
 Größe: Mittelgroß
 HG: 1
 Habitat:
   - Stadt
   - Unterreich
-status: WIP
 image:
+status: WIP
 tags:
-  - Quelle/5e/mm
-  - Monster/HG/1
-  - Monster/Habitat/Unterreich
-  - Monster/Habitat/Stadt
   - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Stadt
+  - Monster/Habitat/Unterreich
+  - Monster/HG/1
   - Monster/Typ/Untote
-statblock: inline
-statblock-link: "#^statblock"
+  - Quelle/5e/mm
 aliases:
   - Specter
+linter-yaml-title-alias: Specter
 ---
 # [Specter](3-Mechanics\CLI\bestiary\undead/specter.md)
 *Source: Monster Manual p. 279. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  

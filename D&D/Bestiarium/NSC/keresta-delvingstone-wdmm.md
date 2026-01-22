@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/wdmm
-  - Monster/HG/13
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Untote/shapechanger
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Keresta Delvingstone
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/13
+  - Monster/Typ/Untote/shapechanger
+  - Quelle/5e/wdmm
 aliases:
   - Keresta Delvingstone
+linter-yaml-title-alias: Keresta Delvingstone
 ---
 # [Keresta Delvingstone](3-Mechanics\CLI\bestiary\npc/keresta-delvingstone-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 232*  

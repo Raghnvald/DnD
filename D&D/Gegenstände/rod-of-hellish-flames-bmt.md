@@ -1,19 +1,19 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Rod of Hellish Flames
 tags:
-  - Quelle/5e/bmt
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/wundersam/Rute
+  - Quelle/5e/bmt
 aliases:
   - Rod of Hellish Flames
+linter-yaml-title-alias: Rod of Hellish Flames
+obsidianUIMode: preview
 ---
 # Rod of Hellish Flames
 *Rod, very rare (requires attunement by a spellcaster)*  
-
-
 
 Glowing cinders orbit the flanged head of this black iron rod.
 

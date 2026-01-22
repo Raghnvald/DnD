@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/tftyp
-  - Monster/HG/1-4
-  - Monster/Größe/Klein
-  - Monster/Typ/Humanoid/goblinoid
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Grenl
+tags:
+  - Monster/Größe/Klein
+  - Monster/HG/1-4
+  - Monster/Typ/Humanoid/goblinoid
+  - Quelle/5e/tftyp
 aliases:
   - Grenl
+linter-yaml-title-alias: Grenl
 ---
 # [Grenl](3-Mechanics\CLI\bestiary\npc/grenl-tftyp.md)
 *Source: Tales from the Yawning Portal p. 25*  

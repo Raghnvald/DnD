@@ -1,21 +1,21 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/2
-  - Monster/Habitat/Wald
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Drache/chromatic
 statblock: inline
 statblock-link: "#^statblock"
-aliases:
-  - Green Dragon Wyrmling
-status: WIP
-Habitat:
-  - Wald
+Bezeichnung: Green Dragon Wyrmling
 Typ: Drache (Chromatisch)
 Größe: Mittelgroß
+Habitat:
+  - Wald
+status: WIP
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Wald
+  - Monster/HG/2
+  - Monster/Typ/Drache/chromatic
+  - Quelle/5e/xmm
+aliases:
+  - Green Dragon Wyrmling
+linter-yaml-title-alias: Green Dragon Wyrmling
 ---
 # [Green Dragon Wyrmling](3-Mechanics\CLI\bestiary\dragon/green-dragon-wyrmling-xmm.md)
 *Source: Monster Manual (2024) p. 152. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

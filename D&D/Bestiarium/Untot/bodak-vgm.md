@@ -1,19 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/vgm
-  - Monster/HG/6
-  - Monster/Habitat/Sumpf
-  - Monster/Habitat/Unterreich
-  - Monster/Habitat/Stadt
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Untote
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Bodak
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Stadt
+  - Monster/Habitat/Sumpf
+  - Monster/Habitat/Unterreich
+  - Monster/HG/6
+  - Monster/Typ/Untote
+  - Quelle/5e/vgm
 aliases:
   - Bodak
+linter-yaml-title-alias: Bodak
 ---
 # [Bodak](3-Mechanics\CLI\bestiary\undead/bodak-vgm.md)
 *Source: Volo's Guide to Monsters p. 127, Tomb of Annihilation*  

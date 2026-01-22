@@ -1,18 +1,18 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Charm of Plant Command
 tags:
-  - Quelle/5e/gos
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
+  - Quelle/5e/gos
 aliases:
   - Charm of Plant Command
+linter-yaml-title-alias: Charm of Plant Command
+obsidianUIMode: preview
 ---
 # Charm of Plant Command
 *Wondrous item, rare (requires attunement)*  
-
-
 
 This fist-sized charm is made from a bundle of dried plant stems wrapped in silver thread. Hung on a leather thong, it is typically worn around the neck or attached to a belt.
 

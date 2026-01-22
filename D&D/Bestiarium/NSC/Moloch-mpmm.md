@@ -1,13 +1,15 @@
 ---
-tags:
-  - Quelle/5e/mpmm
-  - Monster/HG/21
-  - Monster/Größe/Groß
-  - Monster/Typ/Unhold/devil
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Moloch
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/21
+  - Monster/Typ/Unhold/devil
+  - Quelle/5e/mpmm
 aliases:
   - Moloch
+linter-yaml-title-alias: Moloch
 ---
 # Moloch
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 183*  

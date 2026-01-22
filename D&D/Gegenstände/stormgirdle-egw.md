@@ -1,17 +1,18 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Stormgirdle
 tags:
-  - Quelle/5e/egw
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
+  - Quelle/5e/egw
 aliases:
   - Stormgirdle
+linter-yaml-title-alias: Stormgirdle
+obsidianUIMode: preview
 ---
 # Stormgirdle
 *Wondrous item, legendary (requires attunement)*  
-
 
 - **Properties**: [Vestige of Divergence](/3-Mechanics/CLI/item-properties.md#Vestige%20of%20Divergence)
 

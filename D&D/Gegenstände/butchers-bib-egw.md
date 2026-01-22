@@ -1,18 +1,20 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: "Butcher's Bib"
 tags:
-  - Quelle/5e/egw
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
+  - Quelle/5e/egw
 aliases:
+  - "Butcher's Bib"
   - Butcher's Bib
+linter-yaml-title-alias: "Butcher's Bib"
+obsidianUIMode: preview
 ---
 # Butcher's Bib
 *Wondrous item, rare (requires attunement)*  
 ![](/3-Mechanics/CLI/items/img/butchers-bib.webp#right)
-
 
 This black leather apron is perpetually covered by blood, even after being washed off. You gain the following benefits while wearing the apron:
 

@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/veor
-  - Monster/HG/12
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Unhold/devil
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Fernitha
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/12
+  - Monster/Typ/Unhold/devil
+  - Quelle/5e/veor
 aliases:
   - Fernitha
+linter-yaml-title-alias: Fernitha
 ---
 # [Fernitha](3-Mechanics\CLI\bestiary\npc/fernitha-veor.md)
 *Source: Vecna: Eve of Ruin*  

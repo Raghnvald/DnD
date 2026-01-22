@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/jttrc
-  - Monster/HG/1
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/human
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Amanisha Manivarshi
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/1
+  - Monster/Typ/Humanoid/human
+  - Quelle/5e/jttrc
 aliases:
   - Amanisha Manivarshi
+linter-yaml-title-alias: Amanisha Manivarshi
 ---
 # [Amanisha Manivarshi](3-Mechanics\CLI\bestiary\npc/amanisha-manivarshi-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 127*  

@@ -1,14 +1,16 @@
 ---
-tags:
-  - Quelle/5e/cos
-  - Monster/HG/3
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/human
-  - Monster/Typ/Humanoid/shapechanger
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Emil Toranescu
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/3
+  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/shapechanger
+  - Quelle/5e/cos
 aliases:
   - Emil Toranescu
+linter-yaml-title-alias: Emil Toranescu
 ---
 # Emil Toranescu
 *Source: Curse of Strahd p. 81*  

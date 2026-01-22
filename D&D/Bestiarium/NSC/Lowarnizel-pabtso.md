@@ -1,21 +1,22 @@
 ---
-tags:
-  - Quelle/5e/pabtso
-  - Monster/HG/9
-  - Monster/Größe/Groß
-  - Monster/Typ/Drache/young-gem
 statblock: inline
 statblock-link: "#^statblock"
-aliases:
-  - Lowarnizel
-Name: Lowarnizel
-Image: npc/token/lowarnizel-pabtso.webp
+Bezeichnung: Lowarnizel
 Typ: Drache (Edelstein)
 Größe: Groß
 HG: 9
 Habitat:
   - /
 status: WIP
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/9
+  - Monster/Typ/Drache/young-gem
+  - Quelle/5e/pabtso
+aliases:
+  - Lowarnizel
+Image: npc/token/lowarnizel-pabtso.webp
+linter-yaml-title-alias: Lowarnizel
 ---
 # Lowarnizel
 *Source: Phandelver and Below: The Shattered Obelisk p. 181*  

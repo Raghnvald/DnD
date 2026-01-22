@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/wdmm
-  - Monster/HG/7
-  - Monster/Größe/Riesig
-  - Monster/Typ/Riese
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Xorta
+tags:
+  - Monster/Größe/Riesig
+  - Monster/HG/7
+  - Monster/Typ/Riese
+  - Quelle/5e/wdmm
 aliases:
   - Xorta
+linter-yaml-title-alias: Xorta
 ---
 # [Xorta](3-Mechanics\CLI\bestiary\npc/xorta-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 98*  

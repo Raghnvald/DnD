@@ -1,19 +1,18 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Weapon of Certain Death
 tags:
-  - Quelle/5e/egw
-  - Gegenstand/Zeitalter/Futuristisch
-  - Gegenstand/Zeitalter/Modern
   - Gegenstand/Seltenheit/selten
+  - Gegenstand/Waffe/Einfach
+  - Gegenstand/Waffe/Fernkampf
   - Gegenstand/Waffe/Kriegswaffe
   - Gegenstand/Waffe/Nahkampf
-  - Gegenstand/Waffe/Fernkampf
-  - Gegenstand/Waffe/Einfach
   - Gegenstand/wundersam/generic-variant
+  - Gegenstand/Zeitalter/Futuristisch
+  - Gegenstand/Zeitalter/Modern
+  - Quelle/5e/egw
 aliases:
-  - Weapon of Certain Death
   - Antimatter Rifle of Certain Death
   - Automatic Rifle of Certain Death
   - Battleaxe of Certain Death
@@ -63,13 +62,14 @@ aliases:
   - Trident of Certain Death
   - War Pick of Certain Death
   - Warhammer of Certain Death
+  - Weapon of Certain Death
   - Whip of Certain Death
   - Yklwa of Certain Death
+linter-yaml-title-alias: Weapon of Certain Death
+obsidianUIMode: preview
 ---
 # Weapon of Certain Death
 *Rare*  
-
-
 
 When you damage a creature with an attack using this magic weapon, the target can't regain hit points until the start of your next turn.
 
@@ -468,6 +468,5 @@ When you damage a creature with an attack using this magic weapon, the target ca
 - **Range**: 10/30
 - **Properties**: [Thrown](/3-Mechanics/CLI/item-properties.md#Thrown)
 - **Weight**: 3.0 lbs.
-
 
 *Source: Explorer's Guide to Wildemount p. 270*

@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/wdh
-  - Monster/HG/2
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/wood-elf
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Fala Lefaliir
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/2
+  - Monster/Typ/Humanoid/wood-elf
+  - Quelle/5e/wdh
 aliases:
   - Fala Lefaliir
+linter-yaml-title-alias: Fala Lefaliir
 ---
 # [Fala Lefaliir](3-Mechanics\CLI\bestiary\npc/fala-lefaliir-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 32*  

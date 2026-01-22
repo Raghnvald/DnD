@@ -1,17 +1,18 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Cursed Luckstone
 tags:
-  - Quelle/5e/gos
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/ungewöhnlich
+  - Quelle/5e/gos
 aliases:
   - Cursed Luckstone
+linter-yaml-title-alias: Cursed Luckstone
+obsidianUIMode: preview
 ---
 # Cursed Luckstone
 *Wondrous item, cursed item, uncommon (requires attunement)*  
-
 
 - **Properties**: Cursed
 

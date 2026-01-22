@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Adamantine Armor
+Rüstung: Mittel oder Schwer
 tags:
   - Gegenstand/Rüstung/Mittel
   - Gegenstand/Rüstung/Schwer

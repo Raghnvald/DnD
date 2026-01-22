@@ -9,8 +9,8 @@ tags:
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Rucksack
   - Backpack
+  - Rucksack
 linter-yaml-title-alias: Rucksack
 ---
 # Rucksack

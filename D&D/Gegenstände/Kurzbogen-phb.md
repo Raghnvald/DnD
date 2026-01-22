@@ -9,8 +9,8 @@ tags:
   - Gegenstand/Waffe/Einfach
   - Quelle/5e/phb
 aliases:
-  - Kurzbogen
   - "Shortbow"
+  - Kurzbogen
 linter-yaml-title-alias: Kurzbogen
 RW: 24m / 96m
 Schadensart: Stichschaden
@@ -18,10 +18,10 @@ Schadensart: Stichschaden
 # Kurzbogen
 *Einfache Fernkampfwaffe*  
 
-- **Schadem**: 1d6 Stich
+- **Schaden**: 1d6 Stich
 - **Reichweite**: 24/96
 - **Eigenschaften**: [Geschosse](Gegenstandseigenschaften-phb#Geschosse), [Zweihändig](Gegenstandseigenschaften-phb#Zweihändig)
 - **Kosten**: 25 GM
 - **Gewicht**: 1,0 kg.
 
-*Quellen: Spielerhandbuch S. 1449 Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)* 
+*Quellen: Spielerhandbuch S. 149 Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)* 

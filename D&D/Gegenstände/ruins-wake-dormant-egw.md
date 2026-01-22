@@ -1,15 +1,19 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: "Ruin's Wake (Dormant)"
+Typ: Einfache Nahkampfwaffe
 tags:
-  - Quelle/5e/egw
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/Artefakt
-  - Gegenstand/Waffe/Nahkampf
   - Gegenstand/Waffe/Einfach
+  - Gegenstand/Waffe/Nahkampf
+  - Quelle/5e/egw
 aliases:
+  - "Ruin's Wake (Dormant)"
   - Ruin's Wake (Dormant)
+linter-yaml-title-alias: "Ruin's Wake (Dormant)"
+obsidianUIMode: preview
 ---
 # Ruin's Wake (Dormant)
 *Weapon ([spear](/3-Mechanics/CLI/items/spear-xphb.md)), artifact (requires attunement)*  

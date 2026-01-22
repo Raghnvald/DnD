@@ -6,8 +6,8 @@ tags:
   - Gegenstand/Seltenheit/gewöhnlich
   - Quelle/5e/xdmg
 aliases:
-  - Orb of Time
   - "Orb of Time"
+  - Orb of Time
 linter-yaml-title-alias: Orb of Time
 obsidianUIMode: preview
 ---

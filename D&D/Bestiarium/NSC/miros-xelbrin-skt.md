@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/skt
-  - Monster/HG/
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/damaran-human
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Miros Xelbrin
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/
+  - Monster/Typ/Humanoid/damaran-human
+  - Quelle/5e/skt
 aliases:
   - Miros Xelbrin
+linter-yaml-title-alias: Miros Xelbrin
 ---
 # [Miros Xelbrin](3-Mechanics\CLI\bestiary\npc/miros-xelbrin-skt.md)
 *Source: Storm King's Thunder p. 251*  

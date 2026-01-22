@@ -1,16 +1,16 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/wdh
-  - Monster/HG/1-2
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/dwarf
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: "Noska Ur'gray"
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/1-2
+  - Monster/Typ/Humanoid/dwarf
+  - Quelle/5e/wdh
 aliases:
+  - "Noska Ur'gray"
   - Noska Ur'gray
+linter-yaml-title-alias: "Noska Ur'gray"
 ---
 # [Noska Ur'gray](3-Mechanics\CLI\bestiary\npc/noska-urgray-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 213*  

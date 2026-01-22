@@ -1,17 +1,16 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/wdmm
-  - Monster/HG/2
-  - Monster/Größe/Klein
-  - Monster/Typ/Humanoid/goblinoid
-  - Monster/Typ/Humanoid/shapechanger
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Mobar
+tags:
+  - Monster/Größe/Klein
+  - Monster/HG/2
+  - Monster/Typ/Humanoid/goblinoid
+  - Monster/Typ/Humanoid/shapechanger
+  - Quelle/5e/wdmm
 aliases:
   - Mobar
+linter-yaml-title-alias: Mobar
 ---
 # [Mobar](3-Mechanics\CLI\bestiary\npc/mobar-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 77*  

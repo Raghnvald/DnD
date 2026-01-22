@@ -1,16 +1,16 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/4
-  - Monster/Habitat/Jedes
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Untote
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Banshee
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Jedes
+  - Monster/HG/4
+  - Monster/Typ/Untote
+  - Quelle/5e/xmm
 aliases:
   - Banshee
+linter-yaml-title-alias: Banshee
 ---
 # [Banshee](3-Mechanics\CLI\bestiary\undead/banshee-xmm.md)
 *Source: Monster Manual (2024) p. 29*  

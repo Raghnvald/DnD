@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/wdh
-  - Monster/HG/16
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/human
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Hlam
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/16
+  - Monster/Typ/Humanoid/human
+  - Quelle/5e/wdh
 aliases:
   - Hlam
+linter-yaml-title-alias: Hlam
 ---
 # [Hlam](3-Mechanics\CLI\bestiary\npc/hlam-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 204*  

@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/tftyp
-  - Monster/HG/5
-  - Monster/Größe/Groß
-  - Monster/Typ/Riese
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Dragonpriest
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/5
+  - Monster/Typ/Riese
+  - Quelle/5e/tftyp
 aliases:
   - Dragonpriest
+linter-yaml-title-alias: Dragonpriest
 ---
 # [Dragonpriest](3-Mechanics\CLI\bestiary\npc/dragonpriest-tftyp.md)
 *Source: Tales from the Yawning Portal p. 16*  

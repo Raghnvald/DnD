@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/wdmm
-  - Monster/HG/12
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/human
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Melissara Shadowdusk
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/12
+  - Monster/Typ/Humanoid/human
+  - Quelle/5e/wdmm
 aliases:
   - Melissara Shadowdusk
+linter-yaml-title-alias: Melissara Shadowdusk
 ---
 # [Melissara Shadowdusk](3-Mechanics\CLI\bestiary\npc/melissara-shadowdusk-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 281*  

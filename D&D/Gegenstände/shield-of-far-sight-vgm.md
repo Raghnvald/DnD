@@ -2,13 +2,14 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Shield of Far Sight
+Rüstung: Schild
 tags:
   - Gegenstand/Rüstung/Schild/
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/vgm
 aliases:
-  - Shield of Far Sight
   - "Shield of Far Sight"
+  - Shield of Far Sight
 linter-yaml-title-alias: Shield of Far Sight
 obsidianUIMode: preview
 ---

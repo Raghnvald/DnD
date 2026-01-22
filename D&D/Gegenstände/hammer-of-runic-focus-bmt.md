@@ -1,15 +1,18 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Hammer of Runic Focus
+Typ: Nahkampf-Kriegswaffe
 tags:
-  - Quelle/5e/bmt
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/Waffe/Kriegswaffe
   - Gegenstand/Waffe/Nahkampf
+  - Quelle/5e/bmt
 aliases:
   - Hammer of Runic Focus
+linter-yaml-title-alias: Hammer of Runic Focus
+obsidianUIMode: preview
 ---
 # Hammer of Runic Focus
 *Weapon (warhammer), very rare (requires attunement)*  

@@ -1,15 +1,15 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/cos
-  - Monster/HG/5
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/human
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Rictavio
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/5
+  - Monster/Typ/Humanoid/human
+  - Quelle/5e/cos
 aliases:
   - Rictavio
+linter-yaml-title-alias: Rictavio
 ---
 # [Rictavio](3-Mechanics\CLI\bestiary\npc/rictavio-cos.md)
 *Source: Curse of Strahd p. 238*  

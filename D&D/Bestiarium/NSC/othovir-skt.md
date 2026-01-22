@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/skt
-  - Monster/HG/
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/illuskan-human
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Othovir
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/
+  - Monster/Typ/Humanoid/illuskan-human
+  - Quelle/5e/skt
 aliases:
   - Othovir
+linter-yaml-title-alias: Othovir
 ---
 # [Othovir](3-Mechanics\CLI\bestiary\npc/othovir-skt.md)
 *Source: Storm King's Thunder p. 255*  

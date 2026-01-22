@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/gos
-  - Monster/HG/4
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/lizardfolk
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Othokent
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/4
+  - Monster/Typ/Humanoid/lizardfolk
+  - Quelle/5e/gos
 aliases:
   - Othokent
+linter-yaml-title-alias: Othokent
 ---
 # [Othokent](3-Mechanics\CLI\bestiary\npc/othokent-gos.md)
 *Source: Ghosts of Saltmarsh p. 81*  

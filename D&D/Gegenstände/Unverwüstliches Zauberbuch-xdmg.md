@@ -6,8 +6,8 @@ tags:
   - Gegenstand/Seltenheit/gewöhnlich
   - Quelle/5e/xdmg
 aliases:
-  - Enduring Spellbook
   - "Enduring Spellbook"
+  - Enduring Spellbook
 linter-yaml-title-alias: Enduring Spellbook
 obsidianUIMode: preview
 ---

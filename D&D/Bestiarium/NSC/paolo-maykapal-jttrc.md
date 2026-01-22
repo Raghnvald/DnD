@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/jttrc
-  - Monster/HG/3
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/any-race
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Paolo Maykapal
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/3
+  - Monster/Typ/Humanoid/any-race
+  - Quelle/5e/jttrc
 aliases:
   - Paolo Maykapal
+linter-yaml-title-alias: Paolo Maykapal
 ---
 # [Paolo Maykapal](3-Mechanics\CLI\bestiary\npc/paolo-maykapal-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 138*  

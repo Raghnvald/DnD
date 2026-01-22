@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/wdmm
-  - Monster/HG/5
-  - Monster/Größe/Groß
-  - Monster/Typ/Untote
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Undead Shambling Mound
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/5
+  - Monster/Typ/Untote
+  - Quelle/5e/wdmm
 aliases:
   - Undead Shambling Mound
+linter-yaml-title-alias: Undead Shambling Mound
 ---
 # [Undead Shambling Mound](3-Mechanics\CLI\bestiary\undead/undead-shambling-mound-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 142*  

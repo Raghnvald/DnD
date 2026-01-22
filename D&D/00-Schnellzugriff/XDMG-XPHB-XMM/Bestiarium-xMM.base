@@ -1,0 +1,324 @@
+filters:
+  and:
+    - '!file.name.endsWith("-mm")'
+properties:
+  file.name:
+    displayName: Name
+views:
+  - type: table
+    name: Aberrationen
+    filters:
+      or:
+        - file.tags.contains("Monster/Typ/Aberration")
+        - Typ.startsWith("Aberration")
+    order:
+      - file.name
+      - Typ
+      - Größe
+      - HG
+      - Habitat
+      - status
+    columnSize:
+      file.name: 173
+      note.Typ: 108
+      note.Größe: 101
+      note.Habitat: 279
+    cardSize: 100
+    image: note.image
+    imageFit: contain
+    imageAspectRatio: 1
+    rowHeight: medium
+  - type: table
+    name: Drachen
+    filters:
+      or:
+        - file.tags.contains("Monster/Typ/Drache")
+        - Typ.startsWith("Drache")
+    order:
+      - file.name
+      - Typ
+      - Größe
+      - HG
+      - Habitat
+      - status
+    columnSize:
+      file.name: 197
+      note.Typ: 125
+      note.Größe: 101
+      note.Habitat: 279
+    cardSize: 100
+    image: note.image
+    imageFit: contain
+    imageAspectRatio: 1
+    rowHeight: medium
+  - type: table
+    name: Elementare
+    filters:
+      or:
+        - file.tags.contains("Monster/Typ/Elementar")
+        - Typ.startsWith("Elementar")
+    order:
+      - file.name
+      - Typ
+      - Größe
+      - HG
+      - Habitat
+      - status
+    columnSize:
+      file.name: 135
+      note.Typ: 124
+      note.Größe: 101
+    cardSize: 100
+    image: note.image
+    imageFit: contain
+    imageAspectRatio: 1
+    rowHeight: medium
+  - type: table
+    name: Feenwesen
+    filters:
+      or:
+        - Typ.startsWith("Feenwesen")
+        - file.tags.contains("Monster/Typ/Fee")
+    order:
+      - file.name
+      - Typ
+      - Größe
+      - HG
+      - Habitat
+      - status
+    columnSize:
+      file.name: 135
+      note.Typ: 124
+      note.Größe: 101
+    cardSize: 100
+    image: note.image
+    imageFit: contain
+    imageAspectRatio: 1
+    rowHeight: medium
+  - type: table
+    name: Himmlische
+    filters:
+      or:
+        - file.tags.contains("Monster/Typ/Himmlische")
+        - Typ.startsWith("Himmlisch")
+    order:
+      - file.name
+      - Typ
+      - Größe
+      - HG
+      - status
+    columnSize:
+      file.name: 135
+      note.Typ: 124
+      note.Größe: 101
+    cardSize: 100
+    image: note.image
+    imageFit: contain
+    imageAspectRatio: 1
+    rowHeight: medium
+  - type: table
+    name: Humanoide
+    filters:
+      or:
+        - file.tags.contains("Monster/Typ/Humanoid")
+        - Typ.startsWith("Humanoid")
+    order:
+      - file.name
+      - Typ
+      - Größe
+      - HG
+      - status
+      - Bezeichnung
+    sort:
+      - property: file.name
+        direction: ASC
+      - property: aliases
+        direction: ASC
+    columnSize:
+      file.name: 135
+      note.Typ: 124
+      note.Größe: 101
+    cardSize: 100
+    image: note.image
+    imageFit: contain
+    imageAspectRatio: 1
+    rowHeight: medium
+  - type: table
+    name: Konstrukte
+    filters:
+      or:
+        - file.tags.contains("Monster/Typ/Konstrukt")
+        - Typ.startsWith("Konstrukt")
+    order:
+      - file.name
+      - Typ
+      - Größe
+      - HG
+      - status
+    columnSize:
+      file.name: 135
+      note.Typ: 124
+      note.Größe: 101
+    cardSize: 100
+    image: note.image
+    imageFit: contain
+    imageAspectRatio: 1
+    rowHeight: medium
+  - type: table
+    name: Monstrositäten
+    filters:
+      or:
+        - file.tags.contains("Monster/Typ/Monstrosität")
+        - Typ.startsWith("Monstrosität")
+    order:
+      - file.name
+      - Typ
+      - Größe
+      - HG
+      - status
+    columnSize:
+      file.name: 135
+      note.Typ: 124
+      note.Größe: 101
+    cardSize: 100
+    image: note.image
+    imageFit: contain
+    imageAspectRatio: 1
+    rowHeight: medium
+  - type: table
+    name: Pflanzen
+    filters:
+      or:
+        - file.tags.contains("Monster/Typ/Pflanze")
+        - Typ.startsWith("Pflanze")
+    order:
+      - file.name
+      - Typ
+      - Größe
+      - HG
+      - status
+    columnSize:
+      file.name: 135
+      note.Typ: 124
+      note.Größe: 101
+    cardSize: 100
+    image: note.image
+    imageFit: contain
+    imageAspectRatio: 1
+    rowHeight: medium
+  - type: table
+    name: Riesen
+    filters:
+      or:
+        - file.tags.contains("Monster/Typ/Riese")
+        - Typ.startsWith("Riese")
+    order:
+      - file.name
+      - Typ
+      - Größe
+      - HG
+      - status
+    columnSize:
+      file.name: 135
+      note.Typ: 124
+      note.Größe: 101
+    cardSize: 100
+    image: note.image
+    imageFit: contain
+    imageAspectRatio: 1
+    rowHeight: medium
+  - type: table
+    name: Schleime
+    filters:
+      or:
+        - Typ.startsWith("Schleim")
+        - file.tags.contains("Monster/Typ/Schleim")
+    order:
+      - file.name
+      - Typ
+      - Größe
+      - HG
+      - Habitat
+      - status
+    columnSize:
+      file.name: 135
+      note.Typ: 124
+      note.Größe: 101
+    cardSize: 100
+    image: note.image
+    imageFit: contain
+    imageAspectRatio: 1
+    rowHeight: medium
+  - type: table
+    name: Tiere
+    filters:
+      or:
+        - file.tags.contains("Monster/Typ/Tier")
+        - Typ.startsWith("Tier")
+    order:
+      - file.name
+      - Typ
+      - Größe
+      - HG
+      - status
+      - aliases
+    sort:
+      - property: file.name
+        direction: ASC
+      - property: aliases
+        direction: ASC
+    columnSize:
+      file.name: 135
+      note.Typ: 124
+      note.Größe: 101
+    cardSize: 100
+    image: note.image
+    imageFit: contain
+    imageAspectRatio: 1
+    rowHeight: medium
+  - type: table
+    name: Unholde
+    filters:
+      or:
+        - file.tags.contains("Typ/Unhold")
+        - Typ.startsWith("Unhold")
+        - file.tags.contains("Monster/Typ/Unhold")
+    order:
+      - file.name
+      - Typ
+      - Größe
+      - HG
+      - Habitat
+      - status
+    columnSize:
+      file.name: 135
+      note.Typ: 124
+      note.Größe: 101
+    cardSize: 100
+    image: note.image
+    imageFit: contain
+    imageAspectRatio: 1
+    rowHeight: medium
+  - type: table
+    name: Untote
+    filters:
+      or:
+        - Typ.startsWith("Untoter")
+        - file.tags.contains("Monster/Typ/Untote")
+    order:
+      - file.name
+      - Typ
+      - Größe
+      - HG
+      - Habitat
+      - status
+    columnSize:
+      file.name: 134
+      note.Typ: 94
+      note.Größe: 101
+      note.Habitat: 279
+    cardSize: 100
+    image: note.image
+    imageFit: contain
+    imageAspectRatio: 1
+    rowHeight: medium

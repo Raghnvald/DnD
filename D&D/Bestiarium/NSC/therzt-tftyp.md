@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/tftyp
-  - Monster/HG/0
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/any-race
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Therzt
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/0
+  - Monster/Typ/Humanoid/any-race
+  - Quelle/5e/tftyp
 aliases:
   - Therzt
+linter-yaml-title-alias: Therzt
 ---
 # [Therzt](3-Mechanics\CLI\bestiary\npc/therzt-tftyp.md)
 *Source: Tales from the Yawning Portal p. 158*  

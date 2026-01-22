@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/wdh
-  - Monster/HG/5
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/half-orc
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Hrabbaz
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/5
+  - Monster/Typ/Humanoid/half-orc
+  - Quelle/5e/wdh
 aliases:
   - Hrabbaz
+linter-yaml-title-alias: Hrabbaz
 ---
 # [Hrabbaz](3-Mechanics\CLI\bestiary\npc/hrabbaz-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 205*  

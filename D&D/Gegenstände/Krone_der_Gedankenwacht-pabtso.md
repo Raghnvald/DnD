@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Krone der Gedankenwacht
+Bezeichnung: Mindguard Crown
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten

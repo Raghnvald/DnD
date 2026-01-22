@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/tftyp
-  - Monster/HG/3
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/any-race
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Shalendra Floshin
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/3
+  - Monster/Typ/Humanoid/any-race
+  - Quelle/5e/tftyp
 aliases:
   - Shalendra Floshin
+linter-yaml-title-alias: Shalendra Floshin
 ---
 # [Shalendra Floshin](3-Mechanics\CLI\bestiary\npc/shalendra-floshin-tftyp.md)
 *Source: Tales from the Yawning Portal p. 119*  

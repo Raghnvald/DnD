@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/skt
-  - Monster/HG/
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/shield-dwarf
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Ghelryn Foehammer
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/
+  - Monster/Typ/Humanoid/shield-dwarf
+  - Quelle/5e/skt
 aliases:
   - Ghelryn Foehammer
+linter-yaml-title-alias: Ghelryn Foehammer
 ---
 # [Ghelryn Foehammer](3-Mechanics\CLI\bestiary\npc/ghelryn-foehammer-skt.md)
 *Source: Storm King's Thunder p. 255*  

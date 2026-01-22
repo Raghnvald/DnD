@@ -10,8 +10,8 @@ tags:
   - Gegenstand/Zauberfokus
   - Quelle/5e/phb
 aliases:
-  - Zauberstab
   - Wand
+  - Zauberstab
 linter-yaml-title-alias: Zauberstab
 ---
 # Zauberstab

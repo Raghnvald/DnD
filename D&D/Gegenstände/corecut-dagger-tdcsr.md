@@ -1,19 +1,21 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Corecut Dagger
+Typ: Einfache Nahkampfwaffe
 tags:
-  - Quelle/5e/tdcsr
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
-  - Gegenstand/Waffe/Nahkampf
   - Gegenstand/Waffe/Einfach
+  - Gegenstand/Waffe/Nahkampf
+  - Quelle/5e/tdcsr
 aliases:
   - Corecut Dagger
+linter-yaml-title-alias: Corecut Dagger
+obsidianUIMode: preview
 ---
 # Corecut Dagger
 *Weapon ([dagger](/3-Mechanics/CLI/items/dagger-xphb.md)), cursed item, very rare (requires attunement)*  
-
 
 - **Damage**: 1d4 piercing
 - **Range**: 20/60

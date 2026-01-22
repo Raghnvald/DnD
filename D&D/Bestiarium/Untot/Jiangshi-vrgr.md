@@ -1,15 +1,15 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/vrgr
-  - Monster/HG/9
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Untote
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Jiangshi
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/9
+  - Monster/Typ/Untote
+  - Quelle/5e/vrgr
 aliases:
   - Jiangshi
+linter-yaml-title-alias: Jiangshi
 ---
 # [Jiangshi](3-Mechanics\CLI\bestiary\undead/jiangshi-vrgr.md)
 *Source: Van Richten's Guide to Ravenloft p. 236*  

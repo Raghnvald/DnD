@@ -1,19 +1,21 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Nightbringer
+Typ: Einfache Nahkampfwaffe
 tags:
-  - Quelle/5e/mcv2dc
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
-  - Gegenstand/Waffe/Nahkampf
   - Gegenstand/Waffe/Einfach
+  - Gegenstand/Waffe/Nahkampf
+  - Quelle/5e/mcv2dc
 aliases:
   - Nightbringer
+linter-yaml-title-alias: Nightbringer
+obsidianUIMode: preview
 ---
 # Nightbringer
 *Weapon (mace), legendary (requires attunement)*  
-
 
 - **Damage**: 1d6 bludgeoning
 - **Weight**: 4.0 lbs.

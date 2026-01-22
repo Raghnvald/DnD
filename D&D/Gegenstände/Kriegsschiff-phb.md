@@ -3,8 +3,8 @@ cssclasses:
   - json5e-item
 Bezeichnung: Warship
 tags:
-  - Gegenstand/Seltenheit/keine
   - Gegenstand/Fortbewegung/ship-water
+  - Gegenstand/Seltenheit/keine
   - Quelle/5e/dmg
 aliases:
   - Warship

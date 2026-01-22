@@ -2,20 +2,22 @@
 cssclasses: dnd5e-compendium
 Bezeichnung: Rüstung der Verwundbarkeit
 Typ: Rüstung
+Rüstung: Schwer
 Eigenschaften: erfordert Einstimmung
 Kst.: n/v
 Gew.: 32,5 kg
+RK: 18
+STR: 15
+Heiml.: Nachteil
 tags:
   - Gegenstand/Einstimmung
   - Gegenstand/Rüstung/Schwer
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/dmg
 aliases:
+  - Rüstung der Verwundbarkeit
   - Armor of Vulnerability
-Heiml.: Nachteil
-RK: 18
-Rüstung: Schwer
-STR: 15
+linter-yaml-title-alias: Rüstung der Verwundbarkeit
 ---
 # Rüstung der Verwundbarkeit
 *Rüstung (schwer, Ritterrüstung), selten (erfordert Einstimmung)*  

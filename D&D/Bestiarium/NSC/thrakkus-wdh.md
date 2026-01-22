@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/wdh
-  - Monster/HG/2
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/dragonborn
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Thrakkus
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/2
+  - Monster/Typ/Humanoid/dragonborn
+  - Quelle/5e/wdh
 aliases:
   - Thrakkus
+linter-yaml-title-alias: Thrakkus
 ---
 # [Thrakkus](3-Mechanics\CLI\bestiary\npc/thrakkus-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 89*  

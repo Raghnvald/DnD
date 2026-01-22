@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/toa
-  - Monster/HG/1
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/human
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Orvex Ocrammas
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/1
+  - Monster/Typ/Humanoid/human
+  - Quelle/5e/toa
 aliases:
   - Orvex Ocrammas
+linter-yaml-title-alias: Orvex Ocrammas
 ---
 # [Orvex Ocrammas](3-Mechanics\CLI\bestiary\npc/orvex-ocrammas-toa.md)
 *Source: Tomb of Annihilation p. 96*  

@@ -1,17 +1,16 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/bmt
-  - Monster/HG/3
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/minotaur
-  - Monster/Typ/Humanoid/warlock
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Brusipha
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/3
+  - Monster/Typ/Humanoid/minotaur
+  - Monster/Typ/Humanoid/warlock
+  - Quelle/5e/bmt
 aliases:
   - Brusipha
+linter-yaml-title-alias: Brusipha
 ---
 # [Brusipha](3-Mechanics\CLI\bestiary\npc/brusipha-bmt.md)
 *Source: The Book of Many Things p. 127*  

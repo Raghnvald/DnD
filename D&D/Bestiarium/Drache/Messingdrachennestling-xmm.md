@@ -1,19 +1,19 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/1
-  - Monster/Habitat/Wüste
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Drache/metallic
 statblock: inline
 statblock-link: "#^statblock"
-aliases:
-  - Brass Dragon Wyrmling
+Bezeichnung: Brass Dragon Wyrmling
 Typ: Drache (Metallisch)
 Größe: Mittelgroß
 HG: 1
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Wüste
+  - Monster/HG/1
+  - Monster/Typ/Drache/metallic
+  - Quelle/5e/xmm
+aliases:
+  - Brass Dragon Wyrmling
+linter-yaml-title-alias: Brass Dragon Wyrmling
 ---
 # [Brass Dragon Wyrmling](3-Mechanics\CLI\bestiary\dragon/brass-dragon-wyrmling-xmm.md)
 *Source: Monster Manual (2024) p. 54. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

@@ -1,18 +1,19 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Iron Ball
 tags:
-  - Quelle/5e/idrotf
   - Gegenstand/Seltenheit/unbekannt
-  - Gegenstand/Waffe/Fernkampf
   - Gegenstand/Waffe/Einfach
+  - Gegenstand/Waffe/Fernkampf
+  - Quelle/5e/idrotf
 aliases:
   - Iron Ball
+linter-yaml-title-alias: Iron Ball
+obsidianUIMode: preview
 ---
 # Iron Ball
 *Weapon*  
-
 
 - **Damage**: 1d4 bludgeoning
 - **Range**: 120

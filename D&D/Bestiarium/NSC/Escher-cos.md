@@ -1,22 +1,22 @@
 ---
-cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
-Bezeichnung: Escher
-tags:
-  - Quelle/5e/cos
-  - Monster/HG/5
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Untote
 statblock: inline
 statblock-link: "#^statblock"
-aliases:
-  - Escher
+Bezeichnung: Escher
 Typ: Untoter
 Größe: Mittelgroß
+HG: 5
 Habitat:
   - /
-HG: 5
 status: WIP
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/5
+  - Monster/Typ/Untote
+  - Quelle/5e/cos
+aliases:
+  - Escher
+linter-yaml-title-alias: Escher
 ---
 # Escher
 *Quelle:Fluch des Strahd S. 70*  

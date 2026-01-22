@@ -1,17 +1,18 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Yahcha
 tags:
-  - Quelle/5e/toa
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
+  - Quelle/5e/toa
 aliases:
   - Yahcha
+linter-yaml-title-alias: Yahcha
+obsidianUIMode: preview
 ---
 # Yahcha
 *Adventuring gear*  
-
 
 - **Cost**: 1 gp
 

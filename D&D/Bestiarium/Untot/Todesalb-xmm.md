@@ -1,18 +1,7 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/5
-  - Monster/Habitat/planar
-  - Monster/Habitat/shadowfell
-  - Monster/Habitat/Unterreich
-  - Monster/Größe/Klein-oder-Mittelgroß
-  - Monster/Typ/Untote
 statblock: inline
 statblock-link: "#^statblock"
-aliases:
-  - Wraith
+Bezeichnung: Wraith
 Typ: Untoter
 Größe: M oder S
 HG: 5
@@ -20,6 +9,17 @@ Habitat:
   - Planar (Schattensaum)
   - Unterreich
 status: WIP
+tags:
+  - Monster/Größe/Klein-oder-Mittelgroß
+  - Monster/Habitat/planar
+  - Monster/Habitat/shadowfell
+  - Monster/Habitat/Unterreich
+  - Monster/HG/5
+  - Monster/Typ/Untote
+  - Quelle/5e/xmm
+aliases:
+  - Wraith
+linter-yaml-title-alias: Wraith
 ---
 # [Wraith](3-Mechanics\CLI\bestiary\undead/wraith-xmm.md)
 *Source: Monster Manual (2024) p. 336. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

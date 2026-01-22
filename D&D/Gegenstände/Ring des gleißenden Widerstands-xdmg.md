@@ -7,8 +7,8 @@ tags:
   - Gegenstand/wundersam/Ring
   - Quelle/5e/xdmg
 aliases:
-  - Ring of Radiant Resistance
   - "Ring of Radiant Resistance"
+  - Ring of Radiant Resistance
 linter-yaml-title-alias: Ring of Radiant Resistance
 obsidianUIMode: preview
 ---

@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Gedankenkristall (Konzentriert)
+Bezeichnung: Mind Crystal (Heightened)
 tags:
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/pabtso

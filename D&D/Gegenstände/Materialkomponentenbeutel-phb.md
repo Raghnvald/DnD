@@ -8,8 +8,10 @@ tags:
   - Gegenstand/Ausrüstung
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
-aliases: 
-- "Component Pouch"
+aliases:
+  - Materialkomponentenbeutel
+  - "Component Pouch"
+linter-yaml-title-alias: Materialkomponentenbeutel
 ---
 # Materialkomponentenbeutel
 *Abenteuerausrüstung*

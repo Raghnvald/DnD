@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Obsidian Flint Dragon Plate
+Rüstung: Schwer
 tags:
   - Gegenstand/Rüstung/Schwer
   - Gegenstand/Seltenheit/legendär

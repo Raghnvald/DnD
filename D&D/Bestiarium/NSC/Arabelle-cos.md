@@ -1,13 +1,15 @@
 ---
-tags:
-  - Quelle/5e/cos
-  - Monster/HG/0
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/human
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Arabelle
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/0
+  - Monster/Typ/Humanoid/human
+  - Quelle/5e/cos
 aliases:
   - Arabelle
+linter-yaml-title-alias: Arabelle
 ---
 # Arabelle
 *Source: Curse of Strahd p. 38*  

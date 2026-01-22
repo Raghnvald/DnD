@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- Quelle/5e/ggr
-- Monster/HG/14
-- Monster/Größe/Mittelgroß
-- Monster/Typ/Untote
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Devkarin Lich
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/14
+  - Monster/Typ/Untote
+  - Quelle/5e/ggr
 aliases:
-- Devkarin Lich
+  - Devkarin Lich
+linter-yaml-title-alias: Devkarin Lich
 ---
 # [Devkarin Lich](3-Mechanics\CLI\bestiary\undead/devkarin-lich-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 198*  

@@ -1,18 +1,19 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Spell Bottle
 tags:
-  - Quelle/5e/egw
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
+  - Quelle/5e/egw
 aliases:
   - Spell Bottle
+linter-yaml-title-alias: Spell Bottle
+obsidianUIMode: preview
 ---
 # Spell Bottle
 *Wondrous item, legendary (requires attunement)*  
 ![](/3-Mechanics/CLI/items/img/spell-bottle.webp#right)
-
 
 This glass bottle can store one spell of up to 5th level at a time. When found, roll a `dice:d6|noform|noparens|avg` (`d6`) and subtract 1; the total determines the level of spell in the bottle (the DM chooses the spell, and 0 means the bottle is empty). A swirling blue vapor fills the bottle while it contains a spell.
 

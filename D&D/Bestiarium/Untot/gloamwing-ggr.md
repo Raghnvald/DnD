@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- Quelle/5e/ggr
-- Monster/HG/8
-- Monster/Größe/Groß
-- Monster/Typ/Untote
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Gloamwing
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/8
+  - Monster/Typ/Untote
+  - Quelle/5e/ggr
 aliases:
-- Gloamwing
+  - Gloamwing
+linter-yaml-title-alias: Gloamwing
 ---
 # [Gloamwing](3-Mechanics\CLI\bestiary\undead/gloamwing-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 215*  

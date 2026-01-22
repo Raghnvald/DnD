@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Shield of the Hidden Lord
+Rüstung: Schild
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Rüstung/Schild/

@@ -1,13 +1,15 @@
 ---
-tags:
-  - Quelle/5e/cos
-  - Monster/HG/1
-  - Monster/Größe/Winzig
-  - Monster/Typ/Unhold/devil
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Majesto
+tags:
+  - Monster/Größe/Winzig
+  - Monster/HG/1
+  - Monster/Typ/Unhold/devil
+  - Quelle/5e/cos
 aliases:
   - Majesto
+linter-yaml-title-alias: Majesto
 ---
 # Majesto
 *Source: Curse of Strahd p. 115*  

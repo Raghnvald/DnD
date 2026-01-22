@@ -1,23 +1,24 @@
 ---
-cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
-Name: Gwyn Erzsang
+statblock: inline
+statblock-link: "#^statblock"
+Bezeichnung: Gwyn Erzsang
 Typ: Humanoid (Zwerg)
 Größe: Mittelgroß
 HG: 1/4
 Habitat:
   - /
-status: completed
 image: image/gwyn-oresong-pabtso.webp
+status: completed
 tags:
-  - Quelle/5e/pabtso
-  - Monster/HG/1-4
   - Monster/Größe/Mittelgroß
+  - Monster/HG/1-4
   - Monster/Typ/Humanoid/any-race
-statblock: inline
-statblock-link: "#^statblock"
+  - Quelle/5e/pabtso
 aliases:
+  - Gwyn Erzsang
   - Gwyn Oresong
+linter-yaml-title-alias: Gwyn Erzsang
 ---
 # Gwyn Erzsang
 *Quelle: Die Tiefen von Phandelver: Der zersplitterte Obelisk S. 8*  

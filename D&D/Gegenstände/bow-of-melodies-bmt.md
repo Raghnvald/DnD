@@ -1,24 +1,25 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Bow of Melodies
 tags:
-  - Quelle/5e/bmt
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
-  - Gegenstand/Waffe/Kriegswaffe
-  - Gegenstand/Waffe/Fernkampf
   - Gegenstand/Waffe/Einfach
+  - Gegenstand/Waffe/Fernkampf
+  - Gegenstand/Waffe/Kriegswaffe
   - Gegenstand/wundersam/generic-variant
+  - Quelle/5e/bmt
 aliases:
   - Bow of Melodies
   - Longbow of Melodies
   - Shortbow of Melodies
+linter-yaml-title-alias: Bow of Melodies
+obsidianUIMode: preview
 ---
 # Bow of Melodies
 *Very rare (requires attunement)*  
 ![](/3-Mechanics/CLI/items/img/bow-of-melodies.webp#right)
-
 
 This bow has multiple strings and resembles a lyre or small harp. By strumming the strings while setting an arrow to the bow, you imbue the arrow with magic.
 
@@ -49,6 +50,5 @@ The melody you strum echoes loudly. On a hit, the target takes extra thunder dam
 - **Range**: 80/320
 - **Properties**: Ammunition, Two-Handed
 - **Weight**: 2.0 lbs.
-
 
 *Source: The Book of Many Things p. 66*

@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/tftyp
-  - Monster/HG/3
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Untote
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Torlin Silvershield
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/3
+  - Monster/Typ/Untote
+  - Quelle/5e/tftyp
 aliases:
   - Torlin Silvershield
+linter-yaml-title-alias: Torlin Silvershield
 ---
 # [Torlin Silvershield](3-Mechanics\CLI\bestiary\npc/torlin-silvershield-tftyp.md)
 *Source: Tales from the Yawning Portal p. 159*  

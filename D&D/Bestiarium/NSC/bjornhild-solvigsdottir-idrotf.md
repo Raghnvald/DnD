@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/idrotf
-  - Monster/HG/5
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/human
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Bjornhild Solvigsdottir
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/5
+  - Monster/Typ/Humanoid/human
+  - Quelle/5e/idrotf
 aliases:
   - Bjornhild Solvigsdottir
+linter-yaml-title-alias: Bjornhild Solvigsdottir
 ---
 # [Bjornhild Solvigsdottir](3-Mechanics\CLI\bestiary\npc/bjornhild-solvigsdottir-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 306*  

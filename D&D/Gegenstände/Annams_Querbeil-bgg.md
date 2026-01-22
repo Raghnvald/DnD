@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Adze of Annam
+Typ: Nahkampf-Kriegswaffe
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/Artefakt

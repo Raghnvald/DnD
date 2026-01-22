@@ -1,18 +1,18 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Potion of Mind Control
 tags:
-  - Quelle/5e/tftyp
   - Gegenstand/Seltenheit/variiert
   - Gegenstand/wundersam/Trank
+  - Quelle/5e/tftyp
 aliases:
   - Potion of Mind Control
+linter-yaml-title-alias: Potion of Mind Control
+obsidianUIMode: preview
 ---
 # Potion of Mind Control
 *Potion*  
-
-
 
 **Items in this group:**
 

@@ -1,18 +1,18 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Goggles of Object Reading
 tags:
-  - Quelle/5e/egw
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/ungewöhnlich
+  - Quelle/5e/egw
 aliases:
   - Goggles of Object Reading
+linter-yaml-title-alias: Goggles of Object Reading
+obsidianUIMode: preview
 ---
 # Goggles of Object Reading
 *Wondrous item, uncommon (requires attunement)*  
-
-
 
 These leather-framed goggles feature purple crystal lenses. While wearing the goggles, you have advantage on Intelligence ([Arcana](/3-Mechanics/CLI/skills.md#Arcana)) checks made to reveal information about a creature or object you can see.
 

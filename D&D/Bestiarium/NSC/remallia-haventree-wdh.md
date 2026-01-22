@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/wdh
-  - Monster/HG/9
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/elf
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Remallia Haventree
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/9
+  - Monster/Typ/Humanoid/elf
+  - Quelle/5e/wdh
 aliases:
   - Remallia Haventree
+linter-yaml-title-alias: Remallia Haventree
 ---
 # [Remallia Haventree](3-Mechanics\CLI\bestiary\npc/remallia-haventree-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 214*  

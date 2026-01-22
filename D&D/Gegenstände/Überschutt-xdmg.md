@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Whelm
+Typ: Nahkampf-Kriegswaffe
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/Artefakt

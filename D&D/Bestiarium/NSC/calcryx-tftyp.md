@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/tftyp
-  - Monster/HG/2
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Drache
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Calcryx
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/2
+  - Monster/Typ/Drache
+  - Quelle/5e/tftyp
 aliases:
   - Calcryx
+linter-yaml-title-alias: Calcryx
 ---
 # [Calcryx](3-Mechanics\CLI\bestiary\npc/calcryx-tftyp.md)
 *Source: Tales from the Yawning Portal p. 23*  

@@ -1,18 +1,18 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/1
-  - Monster/Habitat/Sumpf
-  - Monster/Habitat/Unterreich
-  - Monster/Habitat/Stadt
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Untote
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Lacedon Ghoul
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Stadt
+  - Monster/Habitat/Sumpf
+  - Monster/Habitat/Unterreich
+  - Monster/HG/1
+  - Monster/Typ/Untote
+  - Quelle/5e/xmm
 aliases:
   - Lacedon Ghoul
+linter-yaml-title-alias: Lacedon Ghoul
 ---
 # [Lacedon Ghoul](3-Mechanics\CLI\bestiary\undead/lacedon-ghoul-xmm.md)
 *Source: Monster Manual (2024) p. 132*  
@@ -31,7 +31,6 @@ Packs of ghouls haunt the rotten corners of the world, ravenously hunting for co
 > [!quote]  
 > 
 > On a plain of teeth, in a temple of filth, the starving king wastes no morsel. Every coffin a banquet. Every slab a platter. Now is the time of feasting!
-
 
 ```statblock
 "name": "Lacedon Ghoul (XMM)"

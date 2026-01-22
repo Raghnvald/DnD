@@ -6,6 +6,9 @@ tags:
   - Gegenstand/Ausrüstung/treasure-gemstone
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/dmg
+aliases:
+  - Jade
+linter-yaml-title-alias: Jade
 obsidianUIMode: preview
 ---
 # Jade

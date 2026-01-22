@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Sentinel Shield
+Rüstung: Schild
 tags:
   - Gegenstand/Rüstung/Schild/
   - Gegenstand/Seltenheit/ungewöhnlich

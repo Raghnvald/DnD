@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/wdmm
-  - Monster/HG/9
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/any-race
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Thwad Underbrew
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/9
+  - Monster/Typ/Humanoid/any-race
+  - Quelle/5e/wdmm
 aliases:
   - Thwad Underbrew
+linter-yaml-title-alias: Thwad Underbrew
 ---
 # [Thwad Underbrew](3-Mechanics\CLI\bestiary\npc/thwad-underbrew-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 204*  

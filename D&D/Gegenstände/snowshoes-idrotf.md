@@ -1,17 +1,18 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Snowshoes
 tags:
-  - Quelle/5e/idrotf
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
+  - Quelle/5e/idrotf
 aliases:
   - Snowshoes
+linter-yaml-title-alias: Snowshoes
+obsidianUIMode: preview
 ---
 # Snowshoes
 *Adventuring gear*  
-
 
 - **Cost**: 2 gp
 - **Weight**: 4.0 lbs.

@@ -11,8 +11,8 @@ tags:
   - Gegenstand/Waffe/Nahkampf
   - Quelle/5e/phb
 aliases:
-  - Streitaxt
   - "Battleaxe"
+  - Streitaxt
 linter-yaml-title-alias: Streitaxt
 ---
 # Streitaxt

@@ -1,22 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/vgm
-  - Monster/HG/2
-  - Monster/Habitat/Berg
-  - Monster/Habitat/Unterreich
-  - Monster/Habitat/Stadt
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Drache
 statblock: inline
 statblock-link: "#^statblock"
-aliases:
-  - Red Guard Drake
+Bezeichnung: Red Guard Drake
 Typ: Drache
 Größe: Mittelgroß
 HG: 2
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Berg
+  - Monster/Habitat/Stadt
+  - Monster/Habitat/Unterreich
+  - Monster/HG/2
+  - Monster/Typ/Drache
+  - Quelle/5e/vgm
+aliases:
+  - Red Guard Drake
+linter-yaml-title-alias: Red Guard Drake
 ---
 # [Red Guard Drake](3-Mechanics\CLI\bestiary\dragon/red-guard-drake-vgm.md)
 *Source: Volo's Guide to Monsters p. 158*  

@@ -1,12 +1,12 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Winged Ammunition
 tags:
-  - Quelle/5e/bmt
   - Gegenstand/Ausrüstung/ammunition
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/wundersam/generic-variant
+  - Quelle/5e/bmt
 aliases:
   - Winged Ammunition
   - Winged Arrow
@@ -14,11 +14,11 @@ aliases:
   - Winged Firearm Bullet
   - Winged Needle
   - Winged Sling Bullet
+linter-yaml-title-alias: Winged Ammunition
+obsidianUIMode: preview
 ---
 # Winged Ammunition
 *Ammunition, uncommon*  
-
-
 
 Ranged weapon attack rolls made with this ammunition ignore half and three-quarters cover. In addition, attacking at long range doesn't impose disadvantage on ranged weapon attack rolls made with this ammunition.
 
@@ -48,6 +48,5 @@ Ranged weapon attack rolls made with this ammunition ignore half and three-quart
 ### Winged Sling Bullet
 
 - **Weight**: 0.075 lbs.
-
 
 *Source: The Book of Many Things p. 69*

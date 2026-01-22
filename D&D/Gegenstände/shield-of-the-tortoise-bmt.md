@@ -1,14 +1,17 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Shield of the Tortoise
+Rüstung: Schild
 tags:
-  - Quelle/5e/bmt
   - Gegenstand/Einstimmung/required
-  - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/Rüstung/Schild/
+  - Gegenstand/Seltenheit/ungewöhnlich
+  - Quelle/5e/bmt
 aliases:
   - Shield of the Tortoise
+linter-yaml-title-alias: Shield of the Tortoise
+obsidianUIMode: preview
 ---
 # Shield of the Tortoise
 *Armor (shield), cursed item, uncommon (requires attunement)*  

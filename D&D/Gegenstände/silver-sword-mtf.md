@@ -1,20 +1,22 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Silver Sword
+Typ: Nahkampf-Kriegswaffe
 tags:
-  - Quelle/5e/mtf
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/unbekannt/magic
   - Gegenstand/tier/major
   - Gegenstand/Waffe/Kriegswaffe
   - Gegenstand/Waffe/Nahkampf
+  - Quelle/5e/mtf
 aliases:
   - Silver Sword
+linter-yaml-title-alias: Silver Sword
+obsidianUIMode: preview
 ---
 # Silver Sword
 *Weapon, major (requires attunement by a creature that has psionic ability)*  
-
 
 - **Damage**: 2d6 slashing
 - **Properties**: [Heavy](/3-Mechanics/CLI/item-properties.md#Heavy), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)

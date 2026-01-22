@@ -1,16 +1,17 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Abracadabrus
 tags:
-  - Quelle/5e/idrotf
   - Gegenstand/Seltenheit/sehr_selten
+  - Quelle/5e/idrotf
 aliases:
   - Abracadabrus
+linter-yaml-title-alias: Abracadabrus
+obsidianUIMode: preview
 ---
 # Abracadabrus
 *Wondrous item, very rare*  
-
 
 - **Weight**: 25.0 lbs.
 

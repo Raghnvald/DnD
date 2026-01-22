@@ -1,15 +1,15 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/bgdia
-  - Monster/HG/6
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/human
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Elliach
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/6
+  - Monster/Typ/Humanoid/human
+  - Quelle/5e/bgdia
 aliases:
   - Elliach
+linter-yaml-title-alias: Elliach
 ---
 # Elliach
 *Source: Baldur's Gate: Descent Into Avernus p. 130*  

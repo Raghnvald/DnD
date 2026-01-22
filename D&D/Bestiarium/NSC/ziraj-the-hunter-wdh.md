@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/wdh
-  - Monster/HG/8
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/half-orc
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Ziraj the Hunter
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/8
+  - Monster/Typ/Humanoid/half-orc
+  - Quelle/5e/wdh
 aliases:
   - Ziraj the Hunter
+linter-yaml-title-alias: Ziraj the Hunter
 ---
 # [Ziraj the Hunter](3-Mechanics\CLI\bestiary\npc/ziraj-the-hunter-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 201*  

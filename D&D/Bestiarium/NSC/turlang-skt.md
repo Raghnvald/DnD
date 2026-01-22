@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/skt
-  - Monster/HG/9
-  - Monster/Größe/Riesig
-  - Monster/Typ/Pflanze
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Turlang
+tags:
+  - Monster/Größe/Riesig
+  - Monster/HG/9
+  - Monster/Typ/Pflanze
+  - Quelle/5e/skt
 aliases:
   - Turlang
+linter-yaml-title-alias: Turlang
 ---
 # [Turlang](3-Mechanics\CLI\bestiary\npc/turlang-skt.md)
 *Source: Storm King's Thunder p. 107*  

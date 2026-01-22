@@ -6,8 +6,8 @@ tags:
   - Gegenstand/Seltenheit/gewöhnlich
   - Quelle/5e/xdmg
 aliases:
-  - Pole of Collapsing
   - "Pole of Collapsing"
+  - Pole of Collapsing
 linter-yaml-title-alias: Pole of Collapsing
 obsidianUIMode: preview
 ---

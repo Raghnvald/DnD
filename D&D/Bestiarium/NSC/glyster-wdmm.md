@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/wdmm
-  - Monster/HG/15
-  - Monster/Größe/Riesig
-  - Monster/Typ/Drache
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Glyster
+tags:
+  - Monster/Größe/Riesig
+  - Monster/HG/15
+  - Monster/Typ/Drache
+  - Quelle/5e/wdmm
 aliases:
   - Glyster
+linter-yaml-title-alias: Glyster
 ---
 # [Glyster](3-Mechanics\CLI\bestiary\npc/glyster-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 241*  

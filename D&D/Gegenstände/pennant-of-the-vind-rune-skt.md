@@ -1,18 +1,18 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Pennant of the Vind Rune
 tags:
-  - Quelle/5e/skt
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
+  - Quelle/5e/skt
 aliases:
   - Pennant of the Vind Rune
+linter-yaml-title-alias: Pennant of the Vind Rune
+obsidianUIMode: preview
 ---
 # Pennant of the Vind Rune
 *Wondrous item, very rare (requires attunement)*  
-
-
 
 This blue pennant is crafted from silk and is five feet long and whips about as if buffeted by a wind. The vind (wind) rune appears on its surface, looking almost like a cloud. The pennant has the following properties, which work only while it's on your person.
 

@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/cm
-  - Monster/HG/8
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/human
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Steel Crane
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/8
+  - Monster/Typ/Humanoid/human
+  - Quelle/5e/cm
 aliases:
   - Steel Crane
+linter-yaml-title-alias: Steel Crane
 ---
 # [Steel Crane](3-Mechanics\CLI\bestiary\npc/steel-crane-cm.md)
 *Source: Candlekeep Mysteries p. 164*  

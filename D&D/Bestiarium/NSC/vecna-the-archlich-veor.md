@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/veor
-  - Monster/HG/26
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Untote/wizard
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Vecna the Archlich
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/26
+  - Monster/Typ/Untote/wizard
+  - Quelle/5e/veor
 aliases:
   - Vecna the Archlich
+linter-yaml-title-alias: Vecna the Archlich
 ---
 # [Vecna the Archlich](3-Mechanics\CLI\bestiary\npc/vecna-the-archlich-veor.md)
 *Source: Vecna: Eve of Ruin p. 254*  

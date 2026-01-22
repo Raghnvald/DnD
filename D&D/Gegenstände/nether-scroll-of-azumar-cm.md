@@ -1,18 +1,18 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Nether Scroll of Azumar
 tags:
-  - Quelle/5e/cm
   - Gegenstand/Seltenheit/legendär
   - Gegenstand/wundersam/Schriftrolle
+  - Quelle/5e/cm
 aliases:
   - Nether Scroll of Azumar
+linter-yaml-title-alias: Nether Scroll of Azumar
+obsidianUIMode: preview
 ---
 # Nether Scroll of Azumar
 *Scroll, legendary*  
-
-
 
 Unlike most scrolls, a Nether Scroll of Azumar is not a consumable magic item. It takes 30 days of concentrated study—at least 8 hours per day—to attempt to understand this scroll. After completing this study, you must make a DC 25 Intelligence (Arcana) check. If this check fails, you take `dice:16d10|noform|noparens|avg` (`16d10`) psychic damage, and you can attempt the check again after another 30 days of concentrated study.
 

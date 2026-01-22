@@ -1,18 +1,18 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Secondhand Steal Trinket
 tags:
-  - Quelle/5e/bmt
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
+  - Quelle/5e/bmt
 aliases:
   - Secondhand Steal Trinket
+linter-yaml-title-alias: Secondhand Steal Trinket
+obsidianUIMode: preview
 ---
 # Secondhand Steal Trinket
 *Adventuring gear*  
-
-
 
 **Secondhand Steals**
 

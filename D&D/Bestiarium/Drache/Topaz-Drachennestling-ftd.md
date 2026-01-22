@@ -1,21 +1,21 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/ftd
-  - Monster/HG/2
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Drache/gem
 statblock: inline
 statblock-link: "#^statblock"
-aliases:
-  - Topaz Dragon Wyrmling
+Bezeichnung: Topaz Dragon Wyrmling
 Typ: Drache (Edelstein)
 Größe: Mittelgroß
 HG: 2
 Habitat:
   - /
 status: WIP
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/2
+  - Monster/Typ/Drache/gem
+  - Quelle/5e/ftd
+aliases:
+  - Topaz Dragon Wyrmling
+linter-yaml-title-alias: Topaz Dragon Wyrmling
 ---
 # [Topaz Dragon Wyrmling](3-Mechanics\CLI\bestiary\dragon/topaz-dragon-wyrmling-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 223*  

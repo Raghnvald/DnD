@@ -5,8 +5,8 @@ tags:
   - Gegenstand/Ausrüstung
   - Quelle/5e/phb
 aliases:
-  - Papier (ein Blatt)
   - Paper (one sheet)
+  - Papier (ein Blatt)
 linter-yaml-title-alias: Papier (ein Blatt)
 ---
 # Papier (ein Blatt)

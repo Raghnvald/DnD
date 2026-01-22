@@ -1,24 +1,25 @@
 ---
-cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
-Name: 
+statblock: inline
+statblock-link: "#^statblock"
+Bezeichnung: Flammenschädel
 Typ: Untoter
 Größe: Winzig
 HG: 4
 Habitat:
   - Unterreich
-status: completed
 image: image/flameskull-webp
+status: completed
 tags:
-  - Quelle/5e/mm
-  - Monster/HG/4
-  - Monster/Habitat/Unterreich
   - Monster/Größe/Winzig
+  - Monster/Habitat/Unterreich
+  - Monster/HG/4
   - Monster/Typ/Untote
-statblock: inline
-statblock-link: "#^statblock"
+  - Quelle/5e/mm
 aliases:
+  - Flammenschädel
   - Flameskull
+linter-yaml-title-alias: Flammenschädel
 ---
 # Flammenschädel
 *Quelle: Monsterhandbuch S. 316. Verfügbar im  Grundregelwerk (2014)*  

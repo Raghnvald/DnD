@@ -1,17 +1,17 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/3
-  - Monster/Habitat/Wüste
-  - Monster/Habitat/Sumpf
-  - Monster/Größe/Klein-oder-Mittelgroß
-  - Monster/Typ/Untote
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Mummy
+tags:
+  - Monster/Größe/Klein-oder-Mittelgroß
+  - Monster/Habitat/Sumpf
+  - Monster/Habitat/Wüste
+  - Monster/HG/3
+  - Monster/Typ/Untote
+  - Quelle/5e/xmm
 aliases:
   - Mummy
+linter-yaml-title-alias: Mummy
 ---
 # [Mummy](3-Mechanics\CLI\bestiary\undead/mummy-xmm.md)
 *Source: Monster Manual (2024) p. 219. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

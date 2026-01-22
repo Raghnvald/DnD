@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Lucent Destroyer
+Typ: Fernkampf-Kriegswaffe
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten

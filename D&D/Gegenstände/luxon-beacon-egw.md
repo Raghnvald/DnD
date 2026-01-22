@@ -1,17 +1,18 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Luxon Beacon
 tags:
-  - Quelle/5e/egw
   - Gegenstand/Seltenheit/legendär
+  - Quelle/5e/egw
 aliases:
   - Luxon Beacon
+linter-yaml-title-alias: Luxon Beacon
+obsidianUIMode: preview
 ---
 # Luxon Beacon
 *Wondrous item, legendary*  
 ![](/3-Mechanics/CLI/items/img/luxon-beacon.webp#right)
-
 
 This dodecahedron of faintly glowing crystal is heavier than it appears. A set of handles are affixed to its sides, and it pulsates and thrums when touched.
 

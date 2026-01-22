@@ -1,17 +1,18 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Residuum
 tags:
-  - Quelle/5e/tdcsr
   - Gegenstand/Ausrüstung/Handelsgut
   - Gegenstand/Seltenheit/unbekannt/magic
+  - Quelle/5e/tdcsr
 aliases:
   - Residuum
+linter-yaml-title-alias: Residuum
+obsidianUIMode: preview
 ---
 # Residuum
 *Trade good*  
-
 
 - **Cost**: 500 gp
 - **Weight**: 1.0 lbs.

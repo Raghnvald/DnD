@@ -1,17 +1,17 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Circlet of Wisdom
 tags:
-  - Quelle/5e/tdcsr
   - Gegenstand/Seltenheit/unbekannt/magic
+  - Quelle/5e/tdcsr
 aliases:
   - Circlet of Wisdom
+linter-yaml-title-alias: Circlet of Wisdom
+obsidianUIMode: preview
 ---
 # Circlet of Wisdom
 *Wondrous item*  
-
-
 
 > [!note]
 > Worn by [Keyleth, Voice of the Tempest](/3-Mechanics/CLI/bestiary/npc/keyleth-voice-of-the-tempest-tdcsr.md), increases her Wisdom score by +2.

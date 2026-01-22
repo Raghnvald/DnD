@@ -11,8 +11,8 @@ tags:
   - Gegenstand/Waffe/Nahkampf
   - Quelle/5e/phb
 aliases:
-  - Langschwert
   - "Longsword"
+  - Langschwert
 linter-yaml-title-alias: Langschwert
 ---
 # Langschwert

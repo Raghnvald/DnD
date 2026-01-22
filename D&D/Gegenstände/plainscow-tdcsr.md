@@ -1,17 +1,18 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Plainscow
 tags:
-  - Quelle/5e/tdcsr
   - Gegenstand/Ausrüstung/Reit-und-Lastentier
   - Gegenstand/Seltenheit/keine
+  - Quelle/5e/tdcsr
 aliases:
   - Plainscow
+linter-yaml-title-alias: Plainscow
+obsidianUIMode: preview
 ---
 # Plainscow
 *Mount*  
-
 
 - **Cost**: 200 gp
 

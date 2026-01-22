@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/cm
-  - Monster/HG/1-8
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/elf
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Varnyr
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/1-8
+  - Monster/Typ/Humanoid/elf
+  - Quelle/5e/cm
 aliases:
   - Varnyr
+linter-yaml-title-alias: Varnyr
 ---
 # [Varnyr](3-Mechanics\CLI\bestiary\npc/varnyr-cm.md)
 *Source: Candlekeep Mysteries p. 63*  

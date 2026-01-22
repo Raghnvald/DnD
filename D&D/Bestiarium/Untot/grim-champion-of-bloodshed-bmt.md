@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/bmt
-  - Monster/HG/20
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Untote
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Grim Champion of Bloodshed
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/20
+  - Monster/Typ/Untote
+  - Quelle/5e/bmt
 aliases:
   - Grim Champion of Bloodshed
+linter-yaml-title-alias: Grim Champion of Bloodshed
 ---
 # [Grim Champion of Bloodshed](3-Mechanics\CLI\bestiary\undead/grim-champion-of-bloodshed-bmt.md)
 *Source: The Book of Many Things p. 161*  

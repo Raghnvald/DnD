@@ -1,17 +1,17 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/15
-  - Monster/Habitat/Wüste
-  - Monster/Habitat/Sumpf
-  - Monster/Größe/Klein-oder-Mittelgroß
-  - Monster/Typ/Untote/cleric
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Mummy Lord
+tags:
+  - Monster/Größe/Klein-oder-Mittelgroß
+  - Monster/Habitat/Sumpf
+  - Monster/Habitat/Wüste
+  - Monster/HG/15
+  - Monster/Typ/Untote/cleric
+  - Quelle/5e/xmm
 aliases:
   - Mummy Lord
+linter-yaml-title-alias: Mummy Lord
 ---
 # [Mummy Lord](3-Mechanics\CLI\bestiary\undead/mummy-lord-xmm.md)
 *Source: Monster Manual (2024) p. 221. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

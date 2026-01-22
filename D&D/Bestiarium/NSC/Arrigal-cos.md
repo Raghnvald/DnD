@@ -1,13 +1,15 @@
 ---
-tags:
-  - Quelle/5e/cos
-  - Monster/HG/8
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/human
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Arrigal
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/8
+  - Monster/Typ/Humanoid/human
+  - Quelle/5e/cos
 aliases:
   - Arrigal
+linter-yaml-title-alias: Arrigal
 ---
 # Arrigal
 *Source: Curse of Strahd p. 121*  

@@ -1,19 +1,19 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mm
-  - Monster/HG/23
-  - Monster/Habitat/Berg
-  - Monster/Habitat/Stadt
-  - Monster/Größe/Gigantisch
-  - Monster/Typ/Drache
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Ancient Silver Dragon
+Typ: Drache
+status: WIP
+tags:
+  - Monster/Größe/Gigantisch
+  - Monster/Habitat/Berg
+  - Monster/Habitat/Stadt
+  - Monster/HG/23
+  - Monster/Typ/Drache
+  - Quelle/5e/mm
 aliases:
   - Ancient Silver Dragon
-status: WIP
-Typ: Drache
+linter-yaml-title-alias: Ancient Silver Dragon
 ---
 # [Ancient Silver Dragon](3-Mechanics\CLI\bestiary\dragon/ancient-silver-dragon.md)
 *Source: Monster Manual p. 116. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  

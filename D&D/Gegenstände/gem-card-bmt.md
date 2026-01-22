@@ -1,17 +1,18 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Gem Card
 tags:
-  - Quelle/5e/bmt
   - Gegenstand/Seltenheit/legendär
+  - Quelle/5e/bmt
 aliases:
   - Gem Card
+linter-yaml-title-alias: Gem Card
+obsidianUIMode: preview
 ---
 # Gem Card
 *Wondrous item, legendary*  
 ![](/3-Mechanics/CLI/items/img/05-gem.webp#right)
-
 
 This card holds one 6th-level spell (chosen by the DM). As an action, you can brandish this card and use it to cast the spell stored inside (spell attack bonus +9, save DC 17). Once this property is used, it can't be used again until the next dawn.
 

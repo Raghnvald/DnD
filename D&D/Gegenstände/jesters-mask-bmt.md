@@ -1,18 +1,20 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: "Jester's Mask"
 tags:
-  - Quelle/5e/bmt
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
+  - Quelle/5e/bmt
 aliases:
+  - "Jester's Mask"
   - Jester's Mask
+linter-yaml-title-alias: "Jester's Mask"
+obsidianUIMode: preview
 ---
 # Jester's Mask
 *Wondrous item, legendary (requires attunement by a bard, sorcerer, or warlock)*  
 ![](/3-Mechanics/CLI/items/img/jesters-mask.webp#right)
-
 
 This colorful, harlequin domino mask is edged with pearls. While wearing this mask, you gain the following benefits:
 

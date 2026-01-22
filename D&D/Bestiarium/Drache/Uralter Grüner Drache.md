@@ -1,16 +1,16 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mm
-  - Monster/HG/22
-  - Monster/Habitat/Wald
-  - Monster/Größe/Gigantisch
-  - Monster/Typ/Drache
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Ancient Green Dragon
+tags:
+  - Monster/Größe/Gigantisch
+  - Monster/Habitat/Wald
+  - Monster/HG/22
+  - Monster/Typ/Drache
+  - Quelle/5e/mm
 aliases:
   - Ancient Green Dragon
+linter-yaml-title-alias: Ancient Green Dragon
 ---
 # [Ancient Green Dragon](3-Mechanics\CLI\bestiary\dragon/ancient-green-dragon.md)
 *Source: Monster Manual p. 93. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  

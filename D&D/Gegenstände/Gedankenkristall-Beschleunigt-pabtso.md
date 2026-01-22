@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Gedankenkristall (Beschleunigt)
+Bezeichnung: Mind Crystal (Quickened)
 tags:
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/pabtso

@@ -1,18 +1,20 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Battering Shield
+Rüstung: Schild
 tags:
-  - Quelle/5e/egw
   - Gegenstand/Einstimmung/required
-  - Gegenstand/Seltenheit/selten
   - Gegenstand/Rüstung/Schild/
+  - Gegenstand/Seltenheit/selten
+  - Quelle/5e/egw
 aliases:
   - Battering Shield
+linter-yaml-title-alias: Battering Shield
+obsidianUIMode: preview
 ---
 # Battering Shield
 *Armor ([shield](/3-Mechanics/CLI/items/shield-xphb.md)), rare (requires attunement)*  
-
 
 - **Armor Class**: 2
 - **Weight**: 6.0 lbs.

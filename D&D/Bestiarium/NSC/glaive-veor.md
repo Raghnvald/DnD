@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/veor
-  - Monster/HG/11
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Konstrukt/warforged
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Glaive
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/11
+  - Monster/Typ/Konstrukt/warforged
+  - Quelle/5e/veor
 aliases:
   - Glaive
+linter-yaml-title-alias: Glaive
 ---
 # [Glaive](3-Mechanics\CLI\bestiary\npc/glaive-veor.md)
 *Source: Vecna: Eve of Ruin p. 81*  

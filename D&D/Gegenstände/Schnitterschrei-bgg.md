@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: "Reaper's Scream"
+Typ: Nahkampf-Kriegswaffe
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär

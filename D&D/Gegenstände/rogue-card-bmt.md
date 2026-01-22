@@ -1,17 +1,18 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Rogue Card
 tags:
-  - Quelle/5e/bmt
   - Gegenstand/Seltenheit/legendär
+  - Quelle/5e/bmt
 aliases:
   - Rogue Card
+linter-yaml-title-alias: Rogue Card
+obsidianUIMode: preview
 ---
 # Rogue Card
 *Wondrous item, legendary*  
 ![](/3-Mechanics/CLI/items/img/06-rogue.webp#right)
-
 
 When you hit a target with a weapon attack while holding this card, you can deal an extra `dice:6d6|noform|noparens|avg` (`6d6`) force damage to that target. Once this property is used, it can't be used again until the next dawn.
 

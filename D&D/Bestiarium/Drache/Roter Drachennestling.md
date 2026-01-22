@@ -1,21 +1,21 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mm
-  - Monster/HG/4
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Drache
 statblock: inline
 statblock-link: "#^statblock"
-aliases:
-  - Red Dragon Wyrmling
+Bezeichnung: Red Dragon Wyrmling
 Typ: Drache
 Größe: Mittelgroß
 HG: 4
-status: WIP
 Habitat:
   - /
+status: WIP
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/4
+  - Monster/Typ/Drache
+  - Quelle/5e/mm
+aliases:
+  - Red Dragon Wyrmling
+linter-yaml-title-alias: Red Dragon Wyrmling
 ---
 # [Red Dragon Wyrmling](3-Mechanics\CLI\bestiary\dragon/red-dragon-wyrmling.md)
 *Source: Monster Manual p. 98. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  

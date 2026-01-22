@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/bmt
-  - Monster/HG/14
-  - Monster/Größe/Groß
-  - Monster/Typ/Unhold/devil
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Hulgaz
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/14
+  - Monster/Typ/Unhold/devil
+  - Quelle/5e/bmt
 aliases:
   - Hulgaz
+linter-yaml-title-alias: Hulgaz
 ---
 # [Hulgaz](3-Mechanics\CLI\bestiary\npc/hulgaz-bmt.md)
 *Source: The Book of Many Things p. 169*  

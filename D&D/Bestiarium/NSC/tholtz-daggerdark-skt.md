@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/skt
-  - Monster/HG/12
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/human
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Tholtz Daggerdark
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/12
+  - Monster/Typ/Humanoid/human
+  - Quelle/5e/skt
 aliases:
   - Tholtz Daggerdark
+linter-yaml-title-alias: Tholtz Daggerdark
 ---
 # [Tholtz Daggerdark](3-Mechanics\CLI\bestiary\npc/tholtz-daggerdark-skt.md)
 *Source: Storm King's Thunder p. 221*  

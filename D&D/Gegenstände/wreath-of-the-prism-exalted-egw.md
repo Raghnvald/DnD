@@ -1,13 +1,15 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Wreath of the Prism (Exalted)
 tags:
-  - Quelle/5e/egw
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
+  - Quelle/5e/egw
 aliases:
   - Wreath of the Prism (Exalted)
+linter-yaml-title-alias: Wreath of the Prism (Exalted)
+obsidianUIMode: preview
 ---
 # Wreath of the Prism (Exalted)
 *Wondrous item, legendary (requires attunement)*  

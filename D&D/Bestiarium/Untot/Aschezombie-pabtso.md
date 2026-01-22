@@ -1,29 +1,30 @@
 ---
-cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
-Name: Aschezombie
+statblock: inline
+statblock-link: "#^statblock"
+Bezeichnung: Aschezombie
 Typ: Untoter
 Größe: Mittelgroß
 HG: 1/4
 Habitat:
   - /
-status:
 image: undead/token/ash-zombie-pabtso.webp
+status:
 tags:
-  - Quelle/5e/pabtso
-  - Monster/HG/1-4
   - Monster/Größe/Mittelgroß
+  - Monster/HG/1-4
   - Monster/Typ/Untote
-statblock: inline
-statblock-link: "#^statblock"
+  - Quelle/5e/pabtso
 aliases:
+  - Aschezombie
   - Ash Zombie
+linter-yaml-title-alias: Aschezombie
 ---
 # Aschezombie
 *Source: Phandelver and Below: The Shattered Obelisk p. 52*  
 
 ```statblock
-"name": "Aschezombie (PaBTSO)"
+"name": "Aschezombie"
 "image": "undead/token/ash-zombie-pabtso.webp"
 "source": "PaBTSO"
 "size": "Mittelgroß"

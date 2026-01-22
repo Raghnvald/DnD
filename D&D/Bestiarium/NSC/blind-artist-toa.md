@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/toa
-  - Monster/HG/0
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Untote
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Blind Artist
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/0
+  - Monster/Typ/Untote
+  - Quelle/5e/toa
 aliases:
   - Blind Artist
+linter-yaml-title-alias: Blind Artist
 ---
 # [Blind Artist](3-Mechanics\CLI\bestiary\npc/blind-artist-toa.md)
 *Source: Tomb of Annihilation p. 164*  

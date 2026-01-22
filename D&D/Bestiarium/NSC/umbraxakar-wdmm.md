@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/wdmm
-  - Monster/HG/15
-  - Monster/Größe/Riesig
-  - Monster/Typ/Drache
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Umbraxakar
+tags:
+  - Monster/Größe/Riesig
+  - Monster/HG/15
+  - Monster/Typ/Drache
+  - Quelle/5e/wdmm
 aliases:
   - Umbraxakar
+linter-yaml-title-alias: Umbraxakar
 ---
 # [Umbraxakar](3-Mechanics\CLI\bestiary\npc/umbraxakar-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 241*  

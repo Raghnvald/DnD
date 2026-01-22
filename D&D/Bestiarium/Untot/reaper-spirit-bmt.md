@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/bmt
-  - Monster/HG/
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Untote
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Reaper Spirit
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/
+  - Monster/Typ/Untote
+  - Quelle/5e/bmt
 aliases:
   - Reaper Spirit
+linter-yaml-title-alias: Reaper Spirit
 ---
 # [Reaper Spirit](3-Mechanics\CLI\bestiary\undead/reaper-spirit-bmt.md)
 *Source: The Book of Many Things p. 50*  

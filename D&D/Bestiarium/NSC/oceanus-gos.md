@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/gos
-  - Monster/HG/1-2
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/elf
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Oceanus
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/1-2
+  - Monster/Typ/Humanoid/elf
+  - Quelle/5e/gos
 aliases:
   - Oceanus
+linter-yaml-title-alias: Oceanus
 ---
 # [Oceanus](3-Mechanics\CLI\bestiary\npc/oceanus-gos.md)
 *Source: Ghosts of Saltmarsh p. 246*  

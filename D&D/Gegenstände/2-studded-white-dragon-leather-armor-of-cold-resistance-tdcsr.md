@@ -1,19 +1,21 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Studded White Dragon Leather Armor of Cold Resistance +2
+Rüstung: Leicht
 tags:
-  - Quelle/5e/tdcsr
-  - Gegenstand/Rüstung/Leicht
   - Gegenstand/Einstimmung/required
+  - Gegenstand/Rüstung/Leicht
   - Gegenstand/Seltenheit/unbekannt/magic
   - Gegenstand/tier/major
+  - Quelle/5e/tdcsr
 aliases:
   - +2 Studded White Dragon Leather Armor of Cold Resistance
+linter-yaml-title-alias: +2 Studded White Dragon Leather Armor of Cold Resistance
+obsidianUIMode: preview
 ---
-# +2 Studded White Dragon Leather Armor of Cold Resistance
+# Studded White Dragon Leather Armor of Cold Resistance +2
 *Light armor, major (requires attunement)*  
-
 
 - **Armor Class**: 12 + Dex modifier
 - **Weight**: 13.0 lbs.

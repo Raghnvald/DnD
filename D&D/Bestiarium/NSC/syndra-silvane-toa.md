@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/toa
-  - Monster/HG/12
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/human
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Syndra Silvane
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/12
+  - Monster/Typ/Humanoid/human
+  - Quelle/5e/toa
 aliases:
   - Syndra Silvane
+linter-yaml-title-alias: Syndra Silvane
 ---
 # [Syndra Silvane](3-Mechanics\CLI\bestiary\npc/syndra-silvane-toa.md)
 *Source: Tomb of Annihilation p. 8*  

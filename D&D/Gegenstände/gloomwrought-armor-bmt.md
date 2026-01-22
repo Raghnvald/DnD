@@ -1,15 +1,16 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Gloomwrought Armor
+Rüstung: Leicht, Mittel oder Schwer
 tags:
-  - Quelle/5e/bmt
-  - Gegenstand/Rüstung/Schwer
+  - Gegenstand/Einstimmung/required
   - Gegenstand/Rüstung/Leicht
   - Gegenstand/Rüstung/Mittel
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Rüstung/Schwer
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam/generic-variant
+  - Quelle/5e/bmt
 aliases:
   - Gloomwrought Armor
   - Gloomwrought Breastplate
@@ -25,11 +26,11 @@ aliases:
   - Gloomwrought Spiked Armor
   - Gloomwrought Splint Armor
   - Gloomwrought Studded Leather Armor
+linter-yaml-title-alias: Gloomwrought Armor
+obsidianUIMode: preview
 ---
 # Gloomwrought Armor
 *Rare (requires attunement)*  
-
-
 
 This intricate grayscale armor was forged in the Shadowfell and is infused with that plane's gloom.
 
@@ -127,6 +128,5 @@ This armor has 3 charges. You can expend a charge to cast the Calm Emotions spel
 
 - **Armor Class**: 12 + Dex modifier
 - **Weight**: 13.0 lbs.
-
 
 *Source: The Book of Many Things p. 67*

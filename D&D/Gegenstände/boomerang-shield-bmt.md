@@ -1,18 +1,20 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Boomerang Shield
+Rüstung: Schild
 tags:
-  - Quelle/5e/bmt
   - Gegenstand/Einstimmung/required
-  - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/Rüstung/Schild/
+  - Gegenstand/Seltenheit/ungewöhnlich
+  - Quelle/5e/bmt
 aliases:
   - Boomerang Shield
+linter-yaml-title-alias: Boomerang Shield
+obsidianUIMode: preview
 ---
 # Boomerang Shield
 *Armor (shield), uncommon (requires attunement)*  
-
 
 - **Armor Class**: 2
 - **Weight**: 6.0 lbs.

@@ -1,20 +1,21 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: +2 Ring of Protection
 tags:
-  - Quelle/5e/tdcsr
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
   - Gegenstand/tier/major
   - Gegenstand/wundersam/ring
+  - Quelle/5e/tdcsr
 aliases:
   - +2 Ring of Protection
+linter-yaml-title-alias: +2 Ring of Protection
+obsidianUIMode: preview
 ---
 # +2 Ring of Protection
 *Ring, major, rare (requires attunement)*  
 ![](/3-Mechanics/CLI/items/img/ring-of-protection.webp#right)
-
 
 You gain a +1 bonus to AC and saving throws while wearing this ring.
 

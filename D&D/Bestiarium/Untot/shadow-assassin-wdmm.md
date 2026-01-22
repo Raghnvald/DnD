@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/wdmm
-  - Monster/HG/9
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Untote
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Shadow Assassin
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/9
+  - Monster/Typ/Untote
+  - Quelle/5e/wdmm
 aliases:
   - Shadow Assassin
+linter-yaml-title-alias: Shadow Assassin
 ---
 # [Shadow Assassin](3-Mechanics\CLI\bestiary\undead/shadow-assassin-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 316*  

@@ -1,15 +1,15 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xphb
-  - Monster/HG/
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Untote
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Undead Spirit
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/
+  - Monster/Typ/Untote
+  - Quelle/5e/xphb
 aliases:
   - Undead Spirit
+linter-yaml-title-alias: Undead Spirit
 ---
 # [Undead Spirit](3-Mechanics\CLI\bestiary\undead/undead-spirit-xphb.md)
 *Source: Player's Handbook (2024) p. 328*  

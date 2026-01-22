@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/tdcsr
-  - Monster/HG/8
-  - Monster/Größe/Riesig
-  - Monster/Typ/Monstrosität
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Drynna Hydra
+tags:
+  - Monster/Größe/Riesig
+  - Monster/HG/8
+  - Monster/Typ/Monstrosität
+  - Quelle/5e/tdcsr
 aliases:
   - Drynna Hydra
+linter-yaml-title-alias: Drynna Hydra
 ---
 # [Drynna Hydra](3-Mechanics\CLI\bestiary\npc/drynna-hydra-tdcsr.md)
 *Source: Tal'Dorei Campaign Setting Reborn p. 66*  

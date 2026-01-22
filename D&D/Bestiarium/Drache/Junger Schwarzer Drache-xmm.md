@@ -1,16 +1,16 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/7
-  - Monster/Habitat/Sumpf
-  - Monster/Größe/Groß
-  - Monster/Typ/Drache/chromatic
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Young Black Dragon
+tags:
+  - Monster/Größe/Groß
+  - Monster/Habitat/Sumpf
+  - Monster/HG/7
+  - Monster/Typ/Drache/chromatic
+  - Quelle/5e/xmm
 aliases:
   - Young Black Dragon
+linter-yaml-title-alias: Young Black Dragon
 ---
 # [Young Black Dragon](3-Mechanics\CLI\bestiary\dragon/young-black-dragon-xmm.md)
 *Source: Monster Manual (2024) p. 38. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

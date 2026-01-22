@@ -1,18 +1,18 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Ythryn Mythallar
 tags:
-  - Quelle/5e/idrotf
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
+  - Quelle/5e/idrotf
 aliases:
   - Ythryn Mythallar
+linter-yaml-title-alias: Ythryn Mythallar
+obsidianUIMode: preview
 ---
 # Ythryn Mythallar
 *Wondrous item, legendary (requires attunement by a spellcaster)*  
-
-
 
 A mythallar looks like an enormous crystal ball held in an ornate cradle. The globe sheds bright light in a 300-foot radius and dim light for an additional 300 feet. The globe draws magic from the Weave that can be harnessed for various purposes. For example, Netherese mages used mythallars to keep their cities aloft and empower their magic items. The bigger the mythallar, the more magic it can hold. The largest mythallars are 150 feet in diameter.
 

@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/wdh
-  - Monster/HG/10
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/half-elf
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Victoro Cassalanter
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/10
+  - Monster/Typ/Humanoid/half-elf
+  - Quelle/5e/wdh
 aliases:
   - Victoro Cassalanter
+linter-yaml-title-alias: Victoro Cassalanter
 ---
 # [Victoro Cassalanter](3-Mechanics\CLI\bestiary\npc/victoro-cassalanter-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 218*  

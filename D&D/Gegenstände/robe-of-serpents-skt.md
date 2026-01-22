@@ -1,18 +1,18 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Robe of Serpents
 tags:
-  - Quelle/5e/skt
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/ungewöhnlich
+  - Quelle/5e/skt
 aliases:
   - Robe of Serpents
+linter-yaml-title-alias: Robe of Serpents
+obsidianUIMode: preview
 ---
 # Robe of Serpents
 *Wondrous item, uncommon (requires attunement)*  
-
-
 
 A robe of serpents is a stylish silk garment that is popular among wealthy nobles and retired assassins. The robe is emblazoned with `dice:1d4+3|noform|noparens|avg` (`1d4 + 3`) stylized serpents, all brightly colored.
 

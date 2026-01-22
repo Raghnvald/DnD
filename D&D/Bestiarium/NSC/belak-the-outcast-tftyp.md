@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/tftyp
-  - Monster/HG/2
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/human
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Belak the Outcast
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/2
+  - Monster/Typ/Humanoid/human
+  - Quelle/5e/tftyp
 aliases:
   - Belak the Outcast
+linter-yaml-title-alias: Belak the Outcast
 ---
 # [Belak the Outcast](3-Mechanics\CLI\bestiary\npc/belak-the-outcast-tftyp.md)
 *Source: Tales from the Yawning Portal p. 9*  

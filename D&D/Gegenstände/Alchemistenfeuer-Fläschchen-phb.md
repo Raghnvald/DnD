@@ -9,8 +9,8 @@ tags:
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Alchemistenfeuer (Flasche)
   - Alchemist's Fire (flask)
+  - Alchemistenfeuer (Flasche)
 linter-yaml-title-alias: Alchemistenfeuer (Flasche)
 ---
 # Alchemistenfeuer (Flasche)

@@ -1,17 +1,18 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Cataclysm Bolts
 tags:
-  - Quelle/5e/tdcsr
   - Gegenstand/Ausrüstung/ammunition
   - Gegenstand/Seltenheit/sehr_selten
+  - Quelle/5e/tdcsr
 aliases:
   - Cataclysm Bolts
+linter-yaml-title-alias: Cataclysm Bolts
+obsidianUIMode: preview
 ---
 # Cataclysm Bolts
 *Ammunition, very rare*  
-
 
 - **Weight**: 0.075 lbs.
 

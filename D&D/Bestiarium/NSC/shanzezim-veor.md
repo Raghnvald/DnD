@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/veor
-  - Monster/HG/11
-  - Monster/Größe/Groß
-  - Monster/Typ/Elementar
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Shanzezim
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/11
+  - Monster/Typ/Elementar
+  - Quelle/5e/veor
 aliases:
   - Shanzezim
+linter-yaml-title-alias: Shanzezim
 ---
 # [Shanzezim](3-Mechanics\CLI\bestiary\npc/shanzezim-veor.md)
 *Source: Vecna: Eve of Ruin*  

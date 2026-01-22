@@ -1,13 +1,15 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Grimoire Infinitus (Dormant)
 tags:
-  - Quelle/5e/egw
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
+  - Quelle/5e/egw
 aliases:
   - Grimoire Infinitus (Dormant)
+linter-yaml-title-alias: Grimoire Infinitus (Dormant)
+obsidianUIMode: preview
 ---
 # Grimoire Infinitus (Dormant)
 *Wondrous item, legendary (requires attunement by a wizard)*  

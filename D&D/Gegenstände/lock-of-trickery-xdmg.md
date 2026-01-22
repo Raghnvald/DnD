@@ -6,8 +6,8 @@ tags:
   - Gegenstand/Seltenheit/gewöhnlich
   - Quelle/5e/xdmg
 aliases:
-  - Lock of Trickery
   - "Lock of Trickery"
+  - Lock of Trickery
 linter-yaml-title-alias: Lock of Trickery
 obsidianUIMode: preview
 ---

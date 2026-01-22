@@ -1,19 +1,19 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/2
-  - Monster/Habitat/planar
-  - Monster/Habitat/shadowfell
-  - Monster/Habitat/Unterreich
-  - Monster/Habitat/Stadt
-  - Monster/Größe/Groß
-  - Monster/Typ/Untote
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Ogre Zombie
+tags:
+  - Monster/Größe/Groß
+  - Monster/Habitat/planar
+  - Monster/Habitat/shadowfell
+  - Monster/Habitat/Stadt
+  - Monster/Habitat/Unterreich
+  - Monster/HG/2
+  - Monster/Typ/Untote
+  - Quelle/5e/xmm
 aliases:
   - Ogre Zombie
+linter-yaml-title-alias: Ogre Zombie
 ---
 # [Ogre Zombie](3-Mechanics\CLI\bestiary\undead/ogre-zombie-xmm.md)
 *Source: Monster Manual (2024) p. 346. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
@@ -34,7 +34,6 @@ Zombies are usually created from Humanoid corpses, but the remains of other crea
 > [!quote] A quote from Account of the Night of the Walking Dead  
 > 
 > Then, by a spectacular crack of lightning, the figures came into view, moving slowly toward the village. Over driving winds a voice cried out, "The dead come for Marais d'Tarascon! An army of the walking dead!"
-
 
 ```statblock
 "name": "Ogre Zombie (XMM)"

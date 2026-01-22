@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/jttrc
-  - Monster/HG/11
-  - Monster/Größe/Groß
-  - Monster/Typ/Elementar
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Navid
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/11
+  - Monster/Typ/Elementar
+  - Quelle/5e/jttrc
 aliases:
   - Navid
+linter-yaml-title-alias: Navid
 ---
 # [Navid](3-Mechanics\CLI\bestiary\npc/navid-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 159*  

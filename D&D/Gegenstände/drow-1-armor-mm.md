@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Drow +1 Armor
+Rüstung: Leicht, Mittel oder Schwer
 tags:
   - Gegenstand/Rüstung/Leicht
   - Gegenstand/Rüstung/Mittel

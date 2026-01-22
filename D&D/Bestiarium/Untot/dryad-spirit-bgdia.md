@@ -1,15 +1,15 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/bgdia
-  - Monster/HG/4
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Untote
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Dryad Spirit
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/4
+  - Monster/Typ/Untote
+  - Quelle/5e/bgdia
 aliases:
   - Dryad Spirit
+linter-yaml-title-alias: Dryad Spirit
 ---
 # [Dryad Spirit](3-Mechanics\CLI\bestiary\undead/dryad-spirit-bgdia.md)
 *Source: Baldur's Gate: Descent Into Avernus p. 108*  

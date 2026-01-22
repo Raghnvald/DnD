@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/veor
-  - Monster/HG/21
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Untote
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: False Lich
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/21
+  - Monster/Typ/Untote
+  - Quelle/5e/veor
 aliases:
   - False Lich
+linter-yaml-title-alias: False Lich
 ---
 # [False Lich](3-Mechanics\CLI\bestiary\undead/false-lich-veor.md)
 *Source: Vecna: Eve of Ruin p. 220*  

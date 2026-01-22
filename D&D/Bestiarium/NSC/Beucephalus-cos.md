@@ -1,13 +1,15 @@
 ---
-tags:
-  - Quelle/5e/cos
-  - Monster/HG/3
-  - Monster/Größe/Groß
-  - Monster/Typ/Unhold
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Beucephalus
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/3
+  - Monster/Typ/Unhold
+  - Quelle/5e/cos
 aliases:
   - Beucephalus
+linter-yaml-title-alias: Beucephalus
 ---
 # Beucephalus
 *Source: Curse of Strahd p. 93*  

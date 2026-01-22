@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/tdcsr
-  - Monster/HG/5
-  - Monster/Größe/Groß
-  - Monster/Typ/Tier/brown-bear
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Trinket
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/5
+  - Monster/Typ/Tier/brown-bear
+  - Quelle/5e/tdcsr
 aliases:
   - Trinket
+linter-yaml-title-alias: Trinket
 ---
 # [Trinket](3-Mechanics\CLI\bestiary\npc/trinket-tdcsr.md)
 *Source: Tal'Dorei Campaign Setting Reborn p. 266*  

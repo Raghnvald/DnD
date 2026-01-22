@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mcv3mc
-  - Monster/HG/19
-  - Monster/Größe/Gigantisch
-  - Monster/Typ/Drache
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Ender Dragon
+tags:
+  - Monster/Größe/Gigantisch
+  - Monster/HG/19
+  - Monster/Typ/Drache
+  - Quelle/5e/mcv3mc
 aliases:
   - Ender Dragon
+linter-yaml-title-alias: Ender Dragon
 ---
 # [Ender Dragon](3-Mechanics\CLI\bestiary\dragon/ender-dragon-mcv3mc.md)
 *Source: Monstrous Compendium Volume 3: Minecraft Creatures p. 5*  

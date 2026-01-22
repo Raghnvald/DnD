@@ -10,8 +10,8 @@ tags:
   - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
-  - Amulett der Ebenen
   - Amulet of the Planes
+  - Amulett der Ebenen
 linter-yaml-title-alias: Amulett der Ebenen
 ---
 # Amulett der Ebenen

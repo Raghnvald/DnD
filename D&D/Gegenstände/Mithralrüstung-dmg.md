@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Mithral Armor
+Rüstung: Mittel oder Schwer
 tags:
   - Gegenstand/Rüstung/Mittel
   - Gegenstand/Rüstung/Schwer

@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/wdh
-  - Monster/HG/2
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/human
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Barnibus Blastwind
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/2
+  - Monster/Typ/Humanoid/human
+  - Quelle/5e/wdh
 aliases:
   - Barnibus Blastwind
+linter-yaml-title-alias: Barnibus Blastwind
 ---
 # [Barnibus Blastwind](3-Mechanics\CLI\bestiary\npc/barnibus-blastwind-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 195*  

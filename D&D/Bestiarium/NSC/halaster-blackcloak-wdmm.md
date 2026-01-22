@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/wdmm
-  - Monster/HG/23
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/human
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Halaster Blackcloak
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/23
+  - Monster/Typ/Humanoid/human
+  - Quelle/5e/wdmm
 aliases:
   - Halaster Blackcloak
+linter-yaml-title-alias: Halaster Blackcloak
 ---
 # [Halaster Blackcloak](3-Mechanics\CLI\bestiary\npc/halaster-blackcloak-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 310*  

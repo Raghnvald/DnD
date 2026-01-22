@@ -1,18 +1,18 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Deck of Many Things
 tags:
-  - Quelle/5e/bmt
   - Gegenstand/Seltenheit/legendär
   - Gegenstand/tier/major
+  - Quelle/5e/bmt
 aliases:
   - Deck of Many Things
+linter-yaml-title-alias: Deck of Many Things
+obsidianUIMode: preview
 ---
 # Deck of Many Things
 *Wondrous item, major, legendary*  
-
-
 
 A Deck of Many Things typically appears not as individual cards, but as a collection of cards characters can draw from. But this doesn't have to be true; you can give each card a property as a standalone item, so characters who find only one card can still enjoy this famed item and use the card on adventures.
 

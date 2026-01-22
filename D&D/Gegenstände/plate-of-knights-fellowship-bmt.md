@@ -1,18 +1,21 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: "Plate of Knight's Fellowship"
+Rüstung: Schwer
 tags:
-  - Quelle/5e/bmt
-  - Gegenstand/Rüstung/Schwer
   - Gegenstand/Einstimmung/required
+  - Gegenstand/Rüstung/Schwer
   - Gegenstand/Seltenheit/ungewöhnlich
+  - Quelle/5e/bmt
 aliases:
+  - "Plate of Knight's Fellowship"
   - Plate of Knight's Fellowship
+linter-yaml-title-alias: "Plate of Knight's Fellowship"
+obsidianUIMode: preview
 ---
 # Plate of Knight's Fellowship
 *Heavy armor (plate armor), uncommon (requires attunement)*  
-
 
 - **Armor Class**: 18
 - **Strength**: Requires 15 STR.

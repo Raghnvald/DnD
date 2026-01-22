@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/tftyp
-  - Monster/HG/9
-  - Monster/Größe/Riesig
-  - Monster/Typ/Riese
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Estia
+tags:
+  - Monster/Größe/Riesig
+  - Monster/HG/9
+  - Monster/Typ/Riese
+  - Quelle/5e/tftyp
 aliases:
   - Estia
+linter-yaml-title-alias: Estia
 ---
 # [Estia](3-Mechanics\CLI\bestiary\npc/estia-tftyp.md)
 *Source: Tales from the Yawning Portal p. 189*  

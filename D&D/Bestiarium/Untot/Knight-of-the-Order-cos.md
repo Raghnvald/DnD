@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/cos
-  - Monster/HG/5
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Untote
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Knight of the Order
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/5
+  - Monster/Typ/Untote
+  - Quelle/5e/cos
 aliases:
   - Knight of the Order
+linter-yaml-title-alias: Knight of the Order
 ---
 # [Knight of the Order](3-Mechanics\CLI\bestiary\undead/knight-of-the-order-cos.md)
 *Source: Curse of Strahd p. 139*  

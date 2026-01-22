@@ -1,16 +1,17 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Loadstone
 tags:
-  - Quelle/5e/tftyp
   - Gegenstand/Seltenheit/selten
+  - Quelle/5e/tftyp
 aliases:
   - Loadstone
+linter-yaml-title-alias: Loadstone
+obsidianUIMode: preview
 ---
 # Loadstone
 *Wondrous item, cursed item, rare*  
-
 
 - **Properties**: Cursed
 - **Weight**: 1.0 lbs.

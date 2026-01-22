@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Ring des Redners
+Bezeichnung: Ring of the Orator
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/ungewöhnlich

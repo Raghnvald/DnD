@@ -7,8 +7,8 @@ tags:
   - Gegenstand/wundersam/Trank
   - Quelle/5e/xdmg
 aliases:
-  - Potion of Cold Resistance
   - "Potion of Cold Resistance"
+  - Potion of Cold Resistance
 linter-yaml-title-alias: Potion of Cold Resistance
 obsidianUIMode: preview
 ---

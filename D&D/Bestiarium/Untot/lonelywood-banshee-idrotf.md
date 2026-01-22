@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/idrotf
-  - Monster/HG/4
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Untote
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Lonelywood Banshee
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/4
+  - Monster/Typ/Untote
+  - Quelle/5e/idrotf
 aliases:
   - Lonelywood Banshee
+linter-yaml-title-alias: Lonelywood Banshee
 ---
 # [Lonelywood Banshee](3-Mechanics\CLI\bestiary\undead/lonelywood-banshee-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 81*  

@@ -1,13 +1,15 @@
 ---
-tags:
-  - Quelle/5e/rot
-  - Monster/HG/30
-  - Monster/Größe/Gigantisch
-  - Monster/Typ/Unhold
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Tiamat
+tags:
+  - Monster/Größe/Gigantisch
+  - Monster/HG/30
+  - Monster/Typ/Unhold
+  - Quelle/5e/rot
 aliases:
   - Tiamat
+linter-yaml-title-alias: Tiamat
 ---
 # Tiamat
 *Source: The Rise of Tiamat p. 92, Baldur's Gate: Descent Into Avernus*  

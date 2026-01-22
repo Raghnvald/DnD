@@ -1,17 +1,18 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Lesser Hammock of Worlds
 tags:
-  - Quelle/5e/jttrc
   - Gegenstand/Seltenheit/legendär
+  - Quelle/5e/jttrc
 aliases:
   - Lesser Hammock of Worlds
+linter-yaml-title-alias: Lesser Hammock of Worlds
+obsidianUIMode: preview
 ---
 # Lesser Hammock of Worlds
 *Wondrous item, legendary*  
 ![](/3-Mechanics/CLI/items/img/hammock-of-worlds.webp#right)
-
 
 The Hammock of Worlds is a colorful hammock woven with traditional Ataguan designs.
 

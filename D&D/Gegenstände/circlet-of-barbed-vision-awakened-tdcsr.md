@@ -1,13 +1,15 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Circlet of Barbed Vision (Awakened)
 tags:
-  - Quelle/5e/tdcsr
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
+  - Quelle/5e/tdcsr
 aliases:
   - Circlet of Barbed Vision (Awakened)
+linter-yaml-title-alias: Circlet of Barbed Vision (Awakened)
+obsidianUIMode: preview
 ---
 # Circlet of Barbed Vision (Awakened)
 *Wondrous item, legendary (requires attunement by a creature of non-good alignment)*  

@@ -1,24 +1,24 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/3
-  - Monster/Habitat/Wald
-  - Monster/Habitat/Grasland
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Drache/metallic
 statblock: inline
 statblock-link: "#^statblock"
-aliases:
-  - Gold Dragon Wyrmling
-Größe: Mittelgroß
+Bezeichnung: Gold Dragon Wyrmling
 Typ: Drache (Metallisch)
+Größe: Mittelgroß
 HG: 3
-status: WIP
 Habitat:
   - Grasland
   - Wald
+status: WIP
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Grasland
+  - Monster/Habitat/Wald
+  - Monster/HG/3
+  - Monster/Typ/Drache/metallic
+  - Quelle/5e/xmm
+aliases:
+  - Gold Dragon Wyrmling
+linter-yaml-title-alias: Gold Dragon Wyrmling
 ---
 # [Gold Dragon Wyrmling](3-Mechanics\CLI\bestiary\dragon/gold-dragon-wyrmling-xmm.md)
 *Source: Monster Manual (2024) p. 144. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

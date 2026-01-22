@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/toa
-  - Monster/HG/7
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/half-elf
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Xandala
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/7
+  - Monster/Typ/Humanoid/half-elf
+  - Quelle/5e/toa
 aliases:
   - Xandala
+linter-yaml-title-alias: Xandala
 ---
 # [Xandala](3-Mechanics\CLI\bestiary\npc/xandala-toa.md)
 *Source: Tomb of Annihilation p. 236*  

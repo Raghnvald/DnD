@@ -1,14 +1,18 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: "Honor's Last Stand (Dormant)"
+Rüstung: Schild
 tags:
-  - Quelle/5e/tdcsr
   - Gegenstand/Einstimmung/required
-  - Gegenstand/Seltenheit/legendär
   - Gegenstand/Rüstung/Schild/
+  - Gegenstand/Seltenheit/legendär
+  - Quelle/5e/tdcsr
 aliases:
+  - "Honor's Last Stand (Dormant)"
   - Honor's Last Stand (Dormant)
+linter-yaml-title-alias: "Honor's Last Stand (Dormant)"
+obsidianUIMode: preview
 ---
 # Honor's Last Stand (Dormant)
 *Armor ([shield](/3-Mechanics/CLI/items/shield-xphb.md)), legendary (requires attunement by a creature of non-evil alignment)*  

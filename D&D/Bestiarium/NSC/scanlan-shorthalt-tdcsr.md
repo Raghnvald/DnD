@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/tdcsr
-  - Monster/HG/15
-  - Monster/Größe/Klein
-  - Monster/Typ/Humanoid/gnome
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Scanlan Shorthalt
+tags:
+  - Monster/Größe/Klein
+  - Monster/HG/15
+  - Monster/Typ/Humanoid/gnome
+  - Quelle/5e/tdcsr
 aliases:
   - Scanlan Shorthalt
+linter-yaml-title-alias: Scanlan Shorthalt
 ---
 # [Scanlan Shorthalt](3-Mechanics\CLI\bestiary\npc/scanlan-shorthalt-tdcsr.md)
 *Source: Tal'Dorei Campaign Setting Reborn p. 271*  

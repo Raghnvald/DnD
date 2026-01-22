@@ -1,17 +1,18 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Deck of Many More Things
 tags:
-  - Quelle/5e/bmt
   - Gegenstand/Seltenheit/legendär
+  - Quelle/5e/bmt
 aliases:
   - Deck of Many More Things
+linter-yaml-title-alias: Deck of Many More Things
+obsidianUIMode: preview
 ---
 # Deck of Many More Things
 *Wondrous item, legendary*  
 ![](/3-Mechanics/CLI/items/img/deck-of-many-more-things.webp#right)
-
 
 Over the centuries since the first Deck of Many Things was created, many have sought and failed to replicate it. But some have created new cards. These forty-four additional cards are known collectively as the Deck of Many More Things. (More information on creating new cards for this deck appears in chapter 2.)
 

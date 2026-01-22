@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/wdmm
-  - Monster/HG/0
-  - Monster/Größe/Riesig
-  - Monster/Typ/Tier
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Haungharassk
+tags:
+  - Monster/Größe/Riesig
+  - Monster/HG/0
+  - Monster/Typ/Tier
+  - Quelle/5e/wdmm
 aliases:
   - Haungharassk
+linter-yaml-title-alias: Haungharassk
 ---
 # [Haungharassk](3-Mechanics\CLI\bestiary\npc/haungharassk-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 258*  

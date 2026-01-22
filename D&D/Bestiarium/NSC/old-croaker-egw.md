@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/egw
-  - Monster/HG/1
-  - Monster/Größe/Groß
-  - Monster/Typ/Tier
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Old Croaker
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/1
+  - Monster/Typ/Tier
+  - Quelle/5e/egw
 aliases:
   - Old Croaker
+linter-yaml-title-alias: Old Croaker
 ---
 # [Old Croaker](3-Mechanics\CLI\bestiary\npc/old-croaker-egw.md)
 *Source: Explorer's Guide to Wildemount p. 240*  

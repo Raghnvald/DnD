@@ -1,15 +1,15 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/cos
-  - Monster/HG/1-2
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/dusk-elf
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Savid
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/1-2
+  - Monster/Typ/Humanoid/dusk-elf
+  - Quelle/5e/cos
 aliases:
   - Savid
+linter-yaml-title-alias: Savid
 ---
 # [Savid](3-Mechanics\CLI\bestiary\npc/savid-cos.md)
 *Source: Curse of Strahd p. 133*  

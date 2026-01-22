@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/wdh
-  - Monster/HG/2
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/water-genasi
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Avi
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/2
+  - Monster/Typ/Humanoid/water-genasi
+  - Quelle/5e/wdh
 aliases:
   - Avi
+linter-yaml-title-alias: Avi
 ---
 # [Avi](3-Mechanics\CLI\bestiary\npc/avi-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 32*  

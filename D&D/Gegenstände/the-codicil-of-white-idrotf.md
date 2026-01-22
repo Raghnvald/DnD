@@ -1,17 +1,18 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: The Codicil of White
 tags:
-  - Quelle/5e/idrotf
   - Gegenstand/Seltenheit/unbekannt/magic
+  - Quelle/5e/idrotf
 aliases:
   - The Codicil of White
+linter-yaml-title-alias: The Codicil of White
+obsidianUIMode: preview
 ---
 # The Codicil of White
 *Wondrous item*  
 ![](/3-Mechanics/CLI/items/img/the-codicil-of-white.webp#right)
-
 
 The Codicil of White is a tall, thin volume bound in white ermine fur over seasoned boards of white pine and sealed with a clasp and lock of tarnished silver. The book is cold to the touch, and the fur is worn about the edges from use. The twenty-seven pages within are of vellum painted with silver gilt on the outer edges. The whole is sewn to a leather binding with strips of sinews, making it quite durable.
 

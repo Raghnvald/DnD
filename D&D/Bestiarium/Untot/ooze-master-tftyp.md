@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/tftyp
-  - Monster/HG/10
-  - Monster/Größe/Riesig
-  - Monster/Typ/Untote
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Ooze Master
+tags:
+  - Monster/Größe/Riesig
+  - Monster/HG/10
+  - Monster/Typ/Untote
+  - Quelle/5e/tftyp
 aliases:
   - Ooze Master
+linter-yaml-title-alias: Ooze Master
 ---
 # [Ooze Master](3-Mechanics\CLI\bestiary\undead/ooze-master-tftyp.md)
 *Source: Tales from the Yawning Portal p. 241*  

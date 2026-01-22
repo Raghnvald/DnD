@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/gos
-  - Monster/HG/10
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/aberration
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Mr. Dory
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/10
+  - Monster/Typ/aberration
+  - Quelle/5e/gos
 aliases:
   - Mr. Dory
+linter-yaml-title-alias: Mr. Dory
 ---
 # [Mr. Dory](3-Mechanics\CLI\bestiary\npc/mr-dory-gos.md)
 *Source: Ghosts of Saltmarsh p. 246*  

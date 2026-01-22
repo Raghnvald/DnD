@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/egw
-  - Monster/HG/1
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Untote
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Husk Zombie
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/1
+  - Monster/Typ/Untote
+  - Quelle/5e/egw
 aliases:
   - Husk Zombie
+linter-yaml-title-alias: Husk Zombie
 ---
 # [Husk Zombie](3-Mechanics\CLI\bestiary\undead/husk-zombie-egw.md)
 *Source: Explorer's Guide to Wildemount p. 293*  

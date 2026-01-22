@@ -4,8 +4,8 @@ tags:
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/dmg
 aliases:
-  - Brazier of Commanding Fire Elementals
-linter-yaml-title-alias: Brazier of Commanding Fire Elementals
+  - Feuerschale der Feuerelementar-Herrschaft
+linter-yaml-title-alias: Feuerschale der Feuerelementar-Herrschaft
 ---
 # Feuerschale der Feuerelementar-Herrschaft
 *Wundersamer Gegenstand, rare*  

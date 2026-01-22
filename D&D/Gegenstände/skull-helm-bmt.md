@@ -1,18 +1,18 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Skull Helm
 tags:
-  - Quelle/5e/bmt
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
+  - Quelle/5e/bmt
 aliases:
   - Skull Helm
+linter-yaml-title-alias: Skull Helm
+obsidianUIMode: preview
 ---
 # Skull Helm
 *Wondrous item, very rare (requires attunement)*  
-
-
 
 While wearing this skull-shaped helm, you have resistance to cold, poison, and necrotic damage.
 

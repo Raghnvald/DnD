@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/gos
-  - Monster/HG/2
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/any-race
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Krell Grohlg
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/2
+  - Monster/Typ/Humanoid/any-race
+  - Quelle/5e/gos
 aliases:
   - Krell Grohlg
+linter-yaml-title-alias: Krell Grohlg
 ---
 # [Krell Grohlg](3-Mechanics\CLI\bestiary\npc/krell-grohlg-gos.md)
 *Source: Ghosts of Saltmarsh p. 92*  

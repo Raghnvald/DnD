@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/veor
-  - Monster/HG/8
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/gith
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Lysan
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/8
+  - Monster/Typ/Humanoid/gith
+  - Quelle/5e/veor
 aliases:
   - Lysan
+linter-yaml-title-alias: Lysan
 ---
 # [Lysan](3-Mechanics\CLI\bestiary\npc/lysan-veor.md)
 *Source: Vecna: Eve of Ruin*  

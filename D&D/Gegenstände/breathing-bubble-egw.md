@@ -1,17 +1,17 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Breathing Bubble
 tags:
-  - Quelle/5e/egw
   - Gegenstand/Seltenheit/gewöhnlich
+  - Quelle/5e/egw
 aliases:
   - Breathing Bubble
+linter-yaml-title-alias: Breathing Bubble
+obsidianUIMode: preview
 ---
 # Breathing Bubble
 *Wondrous item, common*  
-
-
 
 This translucent, bubble-like sphere has a slightly tacky outer surface, and you gain the item's benefits only while wearing it over your head like a helmet.
 

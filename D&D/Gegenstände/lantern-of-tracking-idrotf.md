@@ -1,17 +1,17 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Lantern of Tracking
 tags:
-  - Quelle/5e/idrotf
   - Gegenstand/Seltenheit/gewöhnlich
+  - Quelle/5e/idrotf
 aliases:
   - Lantern of Tracking
+linter-yaml-title-alias: Lantern of Tracking
+obsidianUIMode: preview
 ---
 # Lantern of Tracking
 *Wondrous item, common*  
-
-
 
 This hooded lantern burns for 6 hours on 1 pint of oil, shedding bright light in a 30-foot radius and dim light for an additional 30 feet.
 

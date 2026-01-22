@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/idrotf
-  - Monster/HG/1-8
-  - Monster/Größe/Klein
-  - Monster/Typ/Untote
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Icewind Kobold Zombie
+tags:
+  - Monster/Größe/Klein
+  - Monster/HG/1-8
+  - Monster/Typ/Untote
+  - Quelle/5e/idrotf
 aliases:
   - Icewind Kobold Zombie
+linter-yaml-title-alias: Icewind Kobold Zombie
 ---
 # [Icewind Kobold Zombie](3-Mechanics\CLI\bestiary\undead/icewind-kobold-zombie-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 297*  

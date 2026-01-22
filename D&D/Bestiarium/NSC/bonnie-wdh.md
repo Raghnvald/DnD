@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/wdh
-  - Monster/HG/4
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Monstrosität/shapechanger
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Bonnie
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/4
+  - Monster/Typ/Monstrosität/shapechanger
+  - Quelle/5e/wdh
 aliases:
   - Bonnie
+linter-yaml-title-alias: Bonnie
 ---
 # [Bonnie](3-Mechanics\CLI\bestiary\npc/bonnie-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 20*  
@@ -20,7 +19,6 @@ aliases:
 > [!quote]  
 > 
 > Many adventurers pass though the Yawning Portal on their way to greatness. All of them try the ale.
-
 
 ```statblock
 "name": "Bonnie (WDH)"

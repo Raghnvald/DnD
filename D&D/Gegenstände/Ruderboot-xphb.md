@@ -3,8 +3,8 @@ cssclasses:
   - json5e-item
 Bezeichnung: Rowboat
 tags:
-  - Gegenstand/Seltenheit/keine
   - Gegenstand/Fortbewegung/ship-water
+  - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Rowboat

@@ -1,18 +1,19 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Conch of Teleportation
 tags:
-  - Quelle/5e/skt
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
+  - Quelle/5e/skt
 aliases:
   - Conch of Teleportation
+linter-yaml-title-alias: Conch of Teleportation
+obsidianUIMode: preview
 ---
 # Conch of Teleportation
 *Wondrous item, very rare (requires attunement)*  
 ![](/3-Mechanics/CLI/items/img/conch-of-teleportation.webp#right)
-
 
 This item is an ordinary, albeit rather large, conch shell that has been inscribed with the uvar rune. The conch measures 2½ feet long and weighs 20 pounds.
 

@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/wdmm
-  - Monster/HG/16
-  - Monster/Größe/Groß
-  - Monster/Typ/Himmlische
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Fazrian
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/16
+  - Monster/Typ/Himmlische
+  - Quelle/5e/wdmm
 aliases:
   - Fazrian
+linter-yaml-title-alias: Fazrian
 ---
 # [Fazrian](3-Mechanics\CLI\bestiary\npc/fazrian-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 275*  

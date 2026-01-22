@@ -10,8 +10,8 @@ tags:
   - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
-  - Amulett der Gesundheit
   - Amulet of Health
+  - Amulett der Gesundheit
 linter-yaml-title-alias: Amulett der Gesundheit
 ---
 # Amulett der Gesundheit

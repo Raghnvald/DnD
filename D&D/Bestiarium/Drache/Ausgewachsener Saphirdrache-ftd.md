@@ -1,21 +1,21 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/ftd
-  - Monster/HG/15
-  - Monster/Größe/Riesig
-  - Monster/Typ/Drache/gem
 statblock: inline
 statblock-link: "#^statblock"
-aliases:
-  - Adult Sapphire Dragon
+Bezeichnung: Adult Sapphire Dragon
 Typ: Drache (Edelstein)
 Größe: Riesig
 HG: 15
 Habitat:
   - /
 status: WIP
+tags:
+  - Monster/Größe/Riesig
+  - Monster/HG/15
+  - Monster/Typ/Drache/gem
+  - Quelle/5e/ftd
+aliases:
+  - Adult Sapphire Dragon
+linter-yaml-title-alias: Adult Sapphire Dragon
 ---
 # [Adult Sapphire Dragon](3-Mechanics\CLI\bestiary\dragon/adult-sapphire-dragon-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 215*  

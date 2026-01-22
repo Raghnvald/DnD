@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/skt
-  - Monster/HG/7
-  - Monster/Größe/Riesig
-  - Monster/Typ/Riese
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Braxow
+tags:
+  - Monster/Größe/Riesig
+  - Monster/HG/7
+  - Monster/Typ/Riese
+  - Quelle/5e/skt
 aliases:
   - Braxow
+linter-yaml-title-alias: Braxow
 ---
 # [Braxow](3-Mechanics\CLI\bestiary\npc/braxow-skt.md)
 *Source: Storm King's Thunder p. 207*  

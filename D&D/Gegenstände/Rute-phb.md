@@ -10,8 +10,8 @@ tags:
   - Gegenstand/Zauberfokus
   - Quelle/5e/phb
 aliases:
-  - Rute
   - Rod
+  - Rute
 linter-yaml-title-alias: Rute
 ---
 # Rute

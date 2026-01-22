@@ -1,18 +1,18 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/1
-  - Monster/Habitat/Hügel
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Drache/metallic
 statblock: inline
 statblock-link: "#^statblock"
-aliases:
-  - Copper Dragon Wyrmling
+Bezeichnung: Copper Dragon Wyrmling
 Typ: Drache (Metallisch)
 Größe: Mittelgroß
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Hügel
+  - Monster/HG/1
+  - Monster/Typ/Drache/metallic
+  - Quelle/5e/xmm
+aliases:
+  - Copper Dragon Wyrmling
+linter-yaml-title-alias: Copper Dragon Wyrmling
 ---
 # [Copper Dragon Wyrmling](3-Mechanics\CLI\bestiary\dragon/copper-dragon-wyrmling-xmm.md)
 *Source: Monster Manual (2024) p. 78. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

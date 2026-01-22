@@ -1,17 +1,18 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: "Raven's Slumber"
 tags:
-  - Quelle/5e/tdcsr
   - Gegenstand/Seltenheit/sehr_selten
+  - Quelle/5e/tdcsr
 aliases:
+  - "Raven's Slumber"
   - Raven's Slumber
+linter-yaml-title-alias: "Raven's Slumber"
+obsidianUIMode: preview
 ---
 # Raven's Slumber
 *Wondrous item, very rare*  
-
-
 
 This black crystal pendant is a magical gateway to a small pocket dimension. You can use the pendant as an improvised weapon to make a melee or ranged weapon attack against a Large or smaller creature. On a hit, the target must succeed on a DC 10 Wisdom saving throw or be trapped within the crystal. A creature that wants to be trapped can intentionally fail this saving throw.
 

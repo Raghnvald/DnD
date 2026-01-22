@@ -1,15 +1,16 @@
 ---
-tags:
-  - Quelle/5e/pabtso
-  - Monster/HG/1-2
-  - Monster/Größe/Klein
-  - Monster/Typ/Humanoid/Gnom
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Rivibiddel
+tags:
+  - Monster/Größe/Klein
+  - Monster/HG/1-2
+  - Monster/Typ/Humanoid/Gnom
+  - Quelle/5e/pabtso
 aliases:
   - Rivibiddel
-Name: Rivibiddel
 Image: npc/token/rivibiddel-pabtso.webp
+linter-yaml-title-alias: Rivibiddel
 ---
 # Rivibiddel
 *Source: Phandelver and Below: The Shattered Obelisk p. 122*  

@@ -1,21 +1,21 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/ftd
-  - Monster/HG/14
-  - Monster/Größe/Riesig
-  - Monster/Typ/Drache/gem
 statblock: inline
 statblock-link: "#^statblock"
-aliases:
-  - Adult Emerald Dragon
+Bezeichnung: Adult Emerald Dragon
 Typ: Drache (Edelstein)
 Größe: Riesig
 HG: 14
 Habitat:
   - /
 status: WIP
+tags:
+  - Monster/Größe/Riesig
+  - Monster/HG/14
+  - Monster/Typ/Drache/gem
+  - Quelle/5e/ftd
+aliases:
+  - Adult Emerald Dragon
+linter-yaml-title-alias: Adult Emerald Dragon
 ---
 # [Adult Emerald Dragon](3-Mechanics\CLI\bestiary\dragon/adult-emerald-dragon-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 196*  

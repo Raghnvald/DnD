@@ -1,17 +1,18 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Robe of Summer
 tags:
-  - Quelle/5e/tftyp
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
+  - Quelle/5e/tftyp
 aliases:
   - Robe of Summer
+linter-yaml-title-alias: Robe of Summer
+obsidianUIMode: preview
 ---
 # Robe of Summer
 *Wondrous item, rare (requires attunement)*  
-
 
 - **Weight**: 1.0 lbs.
 

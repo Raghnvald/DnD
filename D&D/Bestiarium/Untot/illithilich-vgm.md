@@ -1,17 +1,16 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- Quelle/5e/vgm
-- Monster/HG/22
-- Monster/Habitat/Unterreich
-- Monster/Größe/Mittelgroß
-- Monster/Typ/Untote
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Illithilich
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Unterreich
+  - Monster/HG/22
+  - Monster/Typ/Untote
+  - Quelle/5e/vgm
 aliases:
-- Illithilich
+  - Illithilich
+linter-yaml-title-alias: Illithilich
 ---
 # [Illithilich](3-Mechanics\CLI\bestiary\undead/illithilich-vgm.md)
 *Source: Volo's Guide to Monsters p. 172*  

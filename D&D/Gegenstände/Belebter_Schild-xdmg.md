@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Animated Shield
+Rüstung: Schild
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Rüstung/Schild/

@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- Quelle/5e/ggr
-- Monster/HG/22
-- Monster/Größe/Mittelgroß
-- Monster/Typ/Untote
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Jarad Vod Savo
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/22
+  - Monster/Typ/Untote
+  - Quelle/5e/ggr
 aliases:
-- Jarad Vod Savo
+  - Jarad Vod Savo
+linter-yaml-title-alias: Jarad Vod Savo
 ---
 # [Jarad Vod Savo](3-Mechanics\CLI\bestiary\npc/jarad-vod-savo-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 235*  

@@ -1,17 +1,18 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Zabou
 tags:
-  - Quelle/5e/toa
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
+  - Quelle/5e/toa
 aliases:
   - Zabou
+linter-yaml-title-alias: Zabou
+obsidianUIMode: preview
 ---
 # Zabou
 *Adventuring gear*  
-
 
 - **Cost**: 10 gp
 

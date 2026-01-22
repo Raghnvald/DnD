@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- Quelle/5e/ggr
-- Monster/HG/8
-- Monster/Größe/Mittelgroß
-- Monster/Typ/Untote
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Obzedat Ghost
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/8
+  - Monster/Typ/Untote
+  - Quelle/5e/ggr
 aliases:
-- Obzedat Ghost
+  - Obzedat Ghost
+linter-yaml-title-alias: Obzedat Ghost
 ---
 # [Obzedat Ghost](3-Mechanics\CLI\bestiary\undead/obzedat-ghost-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 245*  

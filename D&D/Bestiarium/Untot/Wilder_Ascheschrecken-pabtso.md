@@ -1,23 +1,24 @@
 ---
-cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
-Name: Wilder Ascheschrecken
+statblock: inline
+statblock-link: "#^statblock"
+Bezeichnung: Wilder Ascheschrecken
 Typ: Untoter
 Größe: Mittelgroß
 HG: 5
 Habitat:
   - /
-status: WIP
 image: token/feral-ashenwight-pabtso.webp
+status: WIP
 tags:
-  - Quelle/5e/pabtso
-  - Monster/HG/5
   - Monster/Größe/Mittelgroß
+  - Monster/HG/5
   - Monster/Typ/Untote
-statblock: inline
-statblock-link: "#^statblock"
+  - Quelle/5e/pabtso
 aliases:
+  - Wilder Ascheschrecken
   - Feral Ashenwight
+linter-yaml-title-alias: Wilder Ascheschrecken
 ---
 # Wilder Ascheschrecken
 *Quelle: Die Tiefen von Phandelver: Der zersplitterte Obelisk S. 204*  

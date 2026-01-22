@@ -1,17 +1,18 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Willowshade Oil
 tags:
-  - Quelle/5e/egw
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
+  - Quelle/5e/egw
 aliases:
   - Willowshade Oil
+linter-yaml-title-alias: Willowshade Oil
+obsidianUIMode: preview
 ---
 # Willowshade Oil
 *Adventuring gear*  
-
 
 - **Cost**: 30 gp
 

@@ -1,13 +1,15 @@
 ---
-tags:
-  - Quelle/5e/cos
-  - Monster/HG/0
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/human
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Henrik van der Voort
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/0
+  - Monster/Typ/Humanoid/human
+  - Quelle/5e/cos
 aliases:
   - Henrik van der Voort
+linter-yaml-title-alias: Henrik van der Voort
 ---
 # Henrik van der Voort
 *Source: Curse of Strahd p. 116*  

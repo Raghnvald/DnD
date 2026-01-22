@@ -1,19 +1,21 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Ruinous Flail
+Typ: Nahkampf-Kriegswaffe
 tags:
-  - Quelle/5e/bmt
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
   - Gegenstand/Waffe/Kriegswaffe
   - Gegenstand/Waffe/Nahkampf
+  - Quelle/5e/bmt
 aliases:
   - Ruinous Flail
+linter-yaml-title-alias: Ruinous Flail
+obsidianUIMode: preview
 ---
 # Ruinous Flail
 *Weapon (flail), rare (requires attunement)*  
-
 
 - **Damage**: 1d8 bludgeoning
 - **Weight**: 2.0 lbs.

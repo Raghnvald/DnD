@@ -1,14 +1,14 @@
 ---
 cssclasses:
   - json5e-item
-Bezeichnung: Book
+Bezeichnung: Buch
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
-  - Book
-linter-yaml-title-alias: Book
+  - Buch
+linter-yaml-title-alias: Buch
 ---
 # Buch
 *Abenteuerausrüstung*  

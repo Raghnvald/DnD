@@ -1,19 +1,20 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: "Sage's Signet (Songbird)"
 tags:
-  - Quelle/5e/bmt
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam/ring
+  - Quelle/5e/bmt
 aliases:
+  - "Sage's Signet (Songbird)"
   - Sage's Signet (Songbird)
+linter-yaml-title-alias: "Sage's Signet (Songbird)"
+obsidianUIMode: preview
 ---
 # Sage's Signet (Songbird)
 *Ring, rare (requires attunement by a spellcaster)*  
-
-
 
 This gilded ring bears a beautiful engraving and is imbued with powers of keen wisdom and foresight. While wearing this ring, you can use an action to cast the Augury spell from the ring. Once you use the ring to cast the spell, the ring can't cast the spell again until the next dawn.
 

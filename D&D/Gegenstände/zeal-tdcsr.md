@@ -1,17 +1,18 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Zeal
 tags:
-  - Quelle/5e/tdcsr
   - Gegenstand/Ausrüstung/illegal-drug
   - Gegenstand/Seltenheit/unbekannt
+  - Quelle/5e/tdcsr
 aliases:
   - Zeal
+linter-yaml-title-alias: Zeal
+obsidianUIMode: preview
 ---
 # Zeal
 *Illegal drug*  
-
 
 - **Cost**: 150 gp
 

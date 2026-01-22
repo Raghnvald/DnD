@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/wdh
-  - Monster/HG/7
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/aberration
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Nihiloor
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/7
+  - Monster/Typ/aberration
+  - Quelle/5e/wdh
 aliases:
   - Nihiloor
+linter-yaml-title-alias: Nihiloor
 ---
 # [Nihiloor](3-Mechanics\CLI\bestiary\npc/nihiloor-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 212*  

@@ -6,8 +6,8 @@ tags:
   - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
-  - Zauberbuch der Ausdauer
   - Enduring Spellbook
+  - Zauberbuch der Ausdauer
 linter-yaml-title-alias: Zauberbuch der Ausdauer
 ---
 # Zauberbuch der Ausdauer

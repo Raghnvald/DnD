@@ -1,17 +1,18 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Wukka Nut
 tags:
-  - Quelle/5e/toa
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/unbekannt
+  - Quelle/5e/toa
 aliases:
   - Wukka Nut
+linter-yaml-title-alias: Wukka Nut
+obsidianUIMode: preview
 ---
 # Wukka Nut
 *Adventuring gear*  
-
 
 - **Cost**: 1 gp
 

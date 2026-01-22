@@ -1,24 +1,25 @@
 ---
-cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
-Bezeichnung:
+statblock: inline
+statblock-link: "#^statblock"
+Bezeichnung: Skelett
 Typ: Untoter
 Größe: Mittelgroß
 HG: 1/4
 Habitat:
   - Stadt
-status: completed
 image: image/skeleton.webp
+status: completed
 tags:
-  - Quelle/5e/mm
-  - Monster/HG/1-4
-  - Monster/Habitat/Stadt
   - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Stadt
+  - Monster/HG/1-4
   - Monster/Typ/Untote
-statblock: inline
-statblock-link: "#^statblock"
+  - Quelle/5e/mm
 aliases:
+  - Skelett
   - Skeleton
+linter-yaml-title-alias: Skelett
 ---
 # Skelett
 *Quelle: Monsterhandbuch S. 256. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*  

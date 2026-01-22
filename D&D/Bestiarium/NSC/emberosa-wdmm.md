@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/wdmm
-  - Monster/HG/9
-  - Monster/Größe/Riesig
-  - Monster/Typ/Riese
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Emberosa
+tags:
+  - Monster/Größe/Riesig
+  - Monster/HG/9
+  - Monster/Typ/Riese
+  - Quelle/5e/wdmm
 aliases:
   - Emberosa
+linter-yaml-title-alias: Emberosa
 ---
 # [Emberosa](3-Mechanics\CLI\bestiary\npc/emberosa-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 185*  

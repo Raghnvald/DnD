@@ -6,8 +6,8 @@ tags:
   - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
-  - Perle der Macht
   - Bead of Force
+  - Perle der Macht
 linter-yaml-title-alias: Perle der Macht
 ---
 # Perle der Macht

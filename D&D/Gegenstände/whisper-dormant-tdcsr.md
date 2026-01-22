@@ -1,15 +1,18 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Whisper (Dormant)
+Typ: Einfache Nahkampfwaffe
 tags:
-  - Quelle/5e/tdcsr
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
-  - Gegenstand/Waffe/Nahkampf
   - Gegenstand/Waffe/Einfach
+  - Gegenstand/Waffe/Nahkampf
+  - Quelle/5e/tdcsr
 aliases:
   - Whisper (Dormant)
+linter-yaml-title-alias: Whisper (Dormant)
+obsidianUIMode: preview
 ---
 # Whisper (Dormant)
 *Weapon ([dagger](/3-Mechanics/CLI/items/dagger-xphb.md)), legendary (requires attunement)*  

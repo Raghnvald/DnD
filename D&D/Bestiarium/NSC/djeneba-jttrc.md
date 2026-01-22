@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/jttrc
-  - Monster/HG/6
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/human
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Djeneba
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/6
+  - Monster/Typ/Humanoid/human
+  - Quelle/5e/jttrc
 aliases:
   - Djeneba
+linter-yaml-title-alias: Djeneba
 ---
 # [Djeneba](3-Mechanics\CLI\bestiary\npc/djeneba-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 173*  

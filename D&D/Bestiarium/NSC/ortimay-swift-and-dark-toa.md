@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/toa
-  - Monster/HG/2
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/any-race
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Ortimay Swift and Dark
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/2
+  - Monster/Typ/Humanoid/any-race
+  - Quelle/5e/toa
 aliases:
   - Ortimay Swift and Dark
+linter-yaml-title-alias: Ortimay Swift and Dark
 ---
 # [Ortimay Swift and Dark](3-Mechanics\CLI\bestiary\npc/ortimay-swift-and-dark-toa.md)
 *Source: Tomb of Annihilation p. 21*  

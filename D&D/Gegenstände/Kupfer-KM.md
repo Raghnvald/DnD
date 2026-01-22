@@ -5,8 +5,8 @@ tags:
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Kupfer (KM)
   - Copper (cp)
+  - Kupfer (KM)
 linter-yaml-title-alias: Kupfer (KM)
 ---
 # Kupfer (KM)

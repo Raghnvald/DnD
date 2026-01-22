@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/jttrc
-  - Monster/HG/1
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/any-race
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Samira Arah
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/1
+  - Monster/Typ/Humanoid/any-race
+  - Quelle/5e/jttrc
 aliases:
   - Samira Arah
+linter-yaml-title-alias: Samira Arah
 ---
 # [Samira Arah](3-Mechanics\CLI\bestiary\npc/samira-arah-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 68*  

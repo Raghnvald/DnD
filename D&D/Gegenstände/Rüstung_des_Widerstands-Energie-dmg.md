@@ -1,7 +1,8 @@
 ---
 cssclasses:
   - json5e-item
-Bezeichnung: Armor of Force Resistance
+Bezeichnung: Rüstung des Energie-Widerstands
+Rüstung: Leicht, Mittel oder Schwer
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Rüstung/Leicht
@@ -11,7 +12,7 @@ tags:
   - Gegenstand/wundersam/generic-variant
   - Quelle/5e/dmg
 aliases:
-  - Armor of Force Resistance
+  - Rüstung des Energie-Widerstands
   - Breastplate of Force Resistance
   - Chain Mail of Force Resistance
   - Chain Shirt of Force Resistance
@@ -25,7 +26,7 @@ aliases:
   - Spiked Armor of Force Resistance
   - Splint Armor of Force Resistance
   - Studded Leather Armor of Force Resistance
-linter-yaml-title-alias: Armor of Force Resistance
+linter-yaml-title-alias: Rüstung des Energie-Widerstands
 obsidianUIMode: preview
 ---
 # Rüstung des Energie-Widerstands

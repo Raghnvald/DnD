@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/jttrc
-  - Monster/HG/3
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/any-race
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Prince Simbon
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/3
+  - Monster/Typ/Humanoid/any-race
+  - Quelle/5e/jttrc
 aliases:
   - Prince Simbon
+linter-yaml-title-alias: Prince Simbon
 ---
 # [Prince Simbon](3-Mechanics\CLI\bestiary\npc/prince-simbon-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 94*  

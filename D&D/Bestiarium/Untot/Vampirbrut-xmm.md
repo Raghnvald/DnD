@@ -1,17 +1,7 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/5
-  - Monster/Habitat/Unterreich
-  - Monster/Habitat/Stadt
-  - Monster/Größe/Klein-oder-Mittelgroß
-  - Monster/Typ/Untote
 statblock: inline
 statblock-link: "#^statblock"
-aliases:
-  - Vampire Spawn
+Bezeichnung: Vampire Spawn
 Typ: Untoter
 Größe: M oder S
 HG: 5
@@ -19,6 +9,16 @@ Habitat:
   - Stadt
   - Unterreich
 status: WIP
+tags:
+  - Monster/Größe/Klein-oder-Mittelgroß
+  - Monster/Habitat/Stadt
+  - Monster/Habitat/Unterreich
+  - Monster/HG/5
+  - Monster/Typ/Untote
+  - Quelle/5e/xmm
+aliases:
+  - Vampire Spawn
+linter-yaml-title-alias: Vampire Spawn
 ---
 # [Vampire Spawn](3-Mechanics\CLI\bestiary\undead/vampire-spawn-xmm.md)
 *Source: Monster Manual (2024) p. 315. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
@@ -55,7 +55,6 @@ Vampires and vampire umbral lords create sanctuaries apart from the living, whet
 > [!quote] A quote from Astarion, Vampire Spawn  
 > 
 > Darling, you are simply delicious...
-
 
 ```statblock
 "name": "Vampire Spawn (XMM)"

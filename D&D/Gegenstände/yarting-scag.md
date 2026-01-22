@@ -1,18 +1,18 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Yarting
 tags:
-  - Quelle/5e/scag
   - Gegenstand/Ausrüstung/Instrument
   - Gegenstand/Seltenheit/keine
+  - Quelle/5e/scag
 aliases:
   - Yarting
+linter-yaml-title-alias: Yarting
+obsidianUIMode: preview
 ---
 # Yarting
 *Instrument*  
-
-
 
 A southern instrument from Amn and Calimshan that is a Faerûnian analog to the guitar. Numerous variations have spread across the continent.
 

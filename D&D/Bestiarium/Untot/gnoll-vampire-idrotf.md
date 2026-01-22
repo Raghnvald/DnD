@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/idrotf
-  - Monster/HG/8
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Untote/shapechanger
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Gnoll Vampire
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/8
+  - Monster/Typ/Untote/shapechanger
+  - Quelle/5e/idrotf
 aliases:
   - Gnoll Vampire
+linter-yaml-title-alias: Gnoll Vampire
 ---
 # [Gnoll Vampire](3-Mechanics\CLI\bestiary\undead/gnoll-vampire-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 290*  

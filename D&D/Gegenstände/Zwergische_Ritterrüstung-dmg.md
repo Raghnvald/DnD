@@ -1,20 +1,20 @@
 ---
 Bezeichnung: Dwarven Plate
 Typ: Rüstung
+Rüstung: Schwer
 Eigenschaften: n/v
 Kst.: n/v
 Gew.: 32,5 kg
+RK: 18
+STR: 15
+Heiml.: Nachteil
 tags:
   - Gegenstand/Rüstung/Schwer
   - Gegenstand/Seltenheit/sehr_selten
   - Quelle/5e/dmg
 aliases:
   - Dwarven Plate
-Heiml.: Nachteil
 linter-yaml-title-alias: Dwarven Plate
-RK: 18
-Rüstung: Schwer
-STR: 15
 ---
 # Dwarven Plate
 *Heavy armor ([plate armor](/3-Mechanics/CLI/items/plate-armor.md)), major, very rare*  

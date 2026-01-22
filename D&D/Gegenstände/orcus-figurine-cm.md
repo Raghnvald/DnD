@@ -1,17 +1,18 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Orcus Figurine
 tags:
-  - Quelle/5e/cm
   - Gegenstand/Seltenheit/unbekannt/magic
+  - Quelle/5e/cm
 aliases:
   - Orcus Figurine
+linter-yaml-title-alias: Orcus Figurine
+obsidianUIMode: preview
 ---
 # Orcus Figurine
 *Wondrous item*  
 ![](/3-Mechanics/CLI/items/img/orcus-figurine.webp#right)
-
 
 Carved from an ogre's petrified heart, the gray figurine depicts the Demon Prince of Undeath in ghastly detail, clutching his skull-topped wand in one hand and three severed heads by the hair in the other. The figurine smells like decaying flesh, and this scent is detectable out to a range of 5 feet.
 

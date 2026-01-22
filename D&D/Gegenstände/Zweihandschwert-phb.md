@@ -11,8 +11,8 @@ tags:
   - Gegenstand/Waffe/Nahkampf
   - Quelle/5e/phb
 aliases:
-  - Zweihandschwert
   - "Greatsword"
+  - Zweihandschwert
 linter-yaml-title-alias: Zweihandschwert
 ---
 # Zweihandschwert

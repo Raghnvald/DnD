@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/tftyp
-  - Monster/HG/1
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/any-race
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Drevin
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/1
+  - Monster/Typ/Humanoid/any-race
+  - Quelle/5e/tftyp
 aliases:
   - Drevin
+linter-yaml-title-alias: Drevin
 ---
 # [Drevin](3-Mechanics\CLI\bestiary\npc/drevin-tftyp.md)
 *Source: Tales from the Yawning Portal p. 126*  

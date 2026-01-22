@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Armor of Vulnerability (Bludgeoning)
+Rüstung: Schwer
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Rüstung/Schwer

@@ -1,15 +1,15 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/ftd
-  - Monster/HG/21
-  - Monster/Größe/Gigantisch
-  - Monster/Typ/Drache
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Ancient Moonstone Dragon
+tags:
+  - Monster/Größe/Gigantisch
+  - Monster/HG/21
+  - Monster/Typ/Drache
+  - Quelle/5e/ftd
 aliases:
   - Ancient Moonstone Dragon
+linter-yaml-title-alias: Ancient Moonstone Dragon
 ---
 # [Ancient Moonstone Dragon](3-Mechanics\CLI\bestiary\dragon/ancient-moonstone-dragon-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 211*  

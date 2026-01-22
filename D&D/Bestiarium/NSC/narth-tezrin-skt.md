@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/skt
-  - Monster/HG/
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/tethyrian-human
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Narth Tezrin
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/
+  - Monster/Typ/Humanoid/tethyrian-human
+  - Quelle/5e/skt
 aliases:
   - Narth Tezrin
+linter-yaml-title-alias: Narth Tezrin
 ---
 # [Narth Tezrin](3-Mechanics\CLI\bestiary\npc/narth-tezrin-skt.md)
 *Source: Storm King's Thunder p. 254*  

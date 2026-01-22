@@ -1,22 +1,22 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mm
-  - Monster/HG/2
-  - Monster/Habitat/Wald
-  - Monster/Größe/Winzig
-  - Monster/Typ/Drache
 statblock: inline
 statblock-link: "#^statblock"
-aliases:
-  - Faerie Dragon (Blue)
-Größe: Winzig
+Bezeichnung: Faerie Dragon (Blue)
 Typ: Drache
+Größe: Winzig
 HG: 2
-status: WIP
 Habitat:
   - Wald
+status: WIP
+tags:
+  - Monster/Größe/Winzig
+  - Monster/Habitat/Wald
+  - Monster/HG/2
+  - Monster/Typ/Drache
+  - Quelle/5e/mm
+aliases:
+  - Faerie Dragon (Blue)
+linter-yaml-title-alias: Faerie Dragon (Blue)
 ---
 # [Faerie Dragon (Blue)](3-Mechanics\CLI\bestiary\dragon/faerie-dragon-blue.md)
 *Source: Monster Manual p. 133*  

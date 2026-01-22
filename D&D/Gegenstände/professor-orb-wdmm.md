@@ -1,16 +1,17 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Professor Orb
 tags:
-  - Quelle/5e/wdmm
   - Gegenstand/Seltenheit/selten
+  - Quelle/5e/wdmm
 aliases:
   - Professor Orb
+linter-yaml-title-alias: Professor Orb
+obsidianUIMode: preview
 ---
 # Professor Orb
 *Wondrous item, rare*  
-
 
 - **Weight**: 5.0 lbs.
 

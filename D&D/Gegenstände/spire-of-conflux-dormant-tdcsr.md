@@ -1,15 +1,17 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Spire of Conflux (Dormant)
 tags:
-  - Quelle/5e/tdcsr
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
-  - Gegenstand/Waffe/Nahkampf
   - Gegenstand/Waffe/Einfach
+  - Gegenstand/Waffe/Nahkampf
+  - Quelle/5e/tdcsr
 aliases:
   - Spire of Conflux (Dormant)
+linter-yaml-title-alias: Spire of Conflux (Dormant)
+obsidianUIMode: preview
 ---
 # Spire of Conflux (Dormant)
 *Staff, weapon, legendary (requires attunement by a spellcaster)*  

@@ -1,17 +1,16 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/tftyp
-  - Monster/HG/5
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/human
-  - Monster/Typ/Humanoid/shapechanger
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Snarla
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/5
+  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/shapechanger
+  - Quelle/5e/tftyp
 aliases:
   - Snarla
+linter-yaml-title-alias: Snarla
 ---
 # [Snarla](3-Mechanics\CLI\bestiary\npc/snarla-tftyp.md)
 *Source: Tales from the Yawning Portal p. 102*  

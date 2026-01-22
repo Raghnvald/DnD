@@ -5,8 +5,8 @@ tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/xdmg
 aliases:
-  - Amulett des Schutzes gegen Ortung und Ausspähung
   - Amulet of Proof against Detection and Location
+  - Amulett des Schutzes gegen Ortung und Ausspähung
 linter-yaml-title-alias: Amulett des Schutzes gegen Ortung und Ausspähung
 ---
 # Amulett des Schutzes gegen Ortung und Ausspähung

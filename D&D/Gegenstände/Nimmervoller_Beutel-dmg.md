@@ -8,8 +8,8 @@ tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/dmg
 aliases:
-  - Nimmervoller Beutel
   - Bag of Holding
+  - Nimmervoller Beutel
 linter-yaml-title-alias: Nimmervoller Beutel
 ---
 # Nimmervoller Beutel

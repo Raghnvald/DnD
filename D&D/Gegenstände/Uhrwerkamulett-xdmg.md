@@ -6,8 +6,8 @@ tags:
   - Gegenstand/Seltenheit/gewöhnlich
   - Quelle/5e/xdmg
 aliases:
-  - Clockwork Amulet
   - "Clockwork Amulet"
+  - Clockwork Amulet
 linter-yaml-title-alias: Clockwork Amulet
 obsidianUIMode: preview
 ---

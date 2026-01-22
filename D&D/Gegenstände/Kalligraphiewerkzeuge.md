@@ -9,8 +9,8 @@ tags:
   - Gegenstand/Seltenheit/gewöhnlich
   - Quelle/5e/phb
 aliases:
-  - Kalligraphie-Bedarf
   - Calligrapher's Supplies
+  - Kalligraphie-Bedarf
 linter-yaml-title-alias: Kalligraphie-Bedarf
 ---
 # Kalligraphie-Bedarf

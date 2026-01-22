@@ -6,7 +6,9 @@ tags:
   - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
+  - Effizienter Köcher
   - Efficient Quiver
+linter-yaml-title-alias: Effizienter Köcher
 ---
 # Effizienter Köcher
 *Wondrous Item, major, uncommon*  

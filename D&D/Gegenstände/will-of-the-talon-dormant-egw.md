@@ -1,19 +1,21 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Will of the Talon (Dormant)
+Typ: Nahkampf-Kriegswaffe
 tags:
-  - Quelle/5e/egw
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/Artefakt
   - Gegenstand/Waffe/Kriegswaffe
   - Gegenstand/Waffe/Nahkampf
+  - Quelle/5e/egw
 aliases:
   - Will of the Talon (Dormant)
+linter-yaml-title-alias: Will of the Talon (Dormant)
+obsidianUIMode: preview
 ---
 # Will of the Talon (Dormant)
 *Weapon ([war pick](/3-Mechanics/CLI/items/war-pick-xphb.md)), artifact (requires attunement)*  
-
 
 - **Damage**: 1d8 piercing
 - **Properties**: [Vestige of Divergence](/3-Mechanics/CLI/item-properties.md#Vestige%20of%20Divergence)

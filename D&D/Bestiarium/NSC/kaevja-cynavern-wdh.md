@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/wdh
-  - Monster/HG/6
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/mulan-human
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Kaevja Cynavern
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/6
+  - Monster/Typ/Humanoid/mulan-human
+  - Quelle/5e/wdh
 aliases:
   - Kaevja Cynavern
+linter-yaml-title-alias: Kaevja Cynavern
 ---
 # [Kaevja Cynavern](3-Mechanics\CLI\bestiary\npc/kaevja-cynavern-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 158*  

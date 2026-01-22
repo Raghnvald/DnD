@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/tftyp
-  - Monster/HG/7
-  - Monster/Größe/Riesig
-  - Monster/Typ/Riese
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: The Keeper
+tags:
+  - Monster/Größe/Riesig
+  - Monster/HG/7
+  - Monster/Typ/Riese
+  - Quelle/5e/tftyp
 aliases:
   - The Keeper
+linter-yaml-title-alias: The Keeper
 ---
 # [The Keeper](3-Mechanics\CLI\bestiary\npc/the-keeper-tftyp.md)
 *Source: Tales from the Yawning Portal p. 173*  

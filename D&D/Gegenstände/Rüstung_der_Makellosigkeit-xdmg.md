@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Armor of Gleaming
+Rüstung: Leicht, Mittel oder Schwer
 tags:
   - Gegenstand/Rüstung/Leicht
   - Gegenstand/Rüstung/Mittel

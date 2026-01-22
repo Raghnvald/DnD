@@ -1,19 +1,19 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Blast Scepter
 tags:
-  - Quelle/5e/wdmm
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/wundersam/Rute
+  - Quelle/5e/wdmm
 aliases:
   - Blast Scepter
+linter-yaml-title-alias: Blast Scepter
+obsidianUIMode: preview
 ---
 # Blast Scepter
 *Rod, very rare (requires attunement)*  
-
-
 
 The Blast Scepter can be used as an arcane focus.
 

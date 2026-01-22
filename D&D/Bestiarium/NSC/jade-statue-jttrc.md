@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/jttrc
-  - Monster/HG/10
-  - Monster/Größe/Groß
-  - Monster/Typ/Konstrukt
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Jade Statue
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/10
+  - Monster/Typ/Konstrukt
+  - Quelle/5e/jttrc
 aliases:
   - Jade Statue
+linter-yaml-title-alias: Jade Statue
 ---
 # [Jade Statue](3-Mechanics\CLI\bestiary\npc/jade-statue-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 195*  

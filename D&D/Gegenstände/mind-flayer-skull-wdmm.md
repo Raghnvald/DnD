@@ -1,17 +1,17 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Mind Flayer Skull
 tags:
-  - Quelle/5e/wdmm
   - Gegenstand/Seltenheit/unbekannt/magic
   - Gegenstand/wundersam/other
+  - Quelle/5e/wdmm
 aliases:
   - Mind Flayer Skull
+linter-yaml-title-alias: Mind Flayer Skull
+obsidianUIMode: preview
 ---
 # Mind Flayer Skull
-
-
 
 While you have the skull in your possession, you are invisible to mind flayers, as is anything you are wearing or carrying.
 

@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Zephyr Armor
+Rüstung: Leicht
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Rüstung/Leicht

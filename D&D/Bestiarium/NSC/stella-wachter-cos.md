@@ -1,15 +1,15 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/cos
-  - Monster/HG/0
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/human
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Stella Wachter
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/0
+  - Monster/Typ/Humanoid/human
+  - Quelle/5e/cos
 aliases:
   - Stella Wachter
+linter-yaml-title-alias: Stella Wachter
 ---
 # [Stella Wachter](3-Mechanics\CLI\bestiary\npc/stella-wachter-cos.md)
 *Source: Curse of Strahd p. 113*  

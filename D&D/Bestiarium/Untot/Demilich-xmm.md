@@ -1,16 +1,16 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/18
-  - Monster/Habitat/Jedes
-  - Monster/Größe/Winzig
-  - Monster/Typ/Untote
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Demilich
+tags:
+  - Monster/Größe/Winzig
+  - Monster/Habitat/Jedes
+  - Monster/HG/18
+  - Monster/Typ/Untote
+  - Quelle/5e/xmm
 aliases:
   - Demilich
+linter-yaml-title-alias: Demilich
 ---
 # [Demilich](3-Mechanics\CLI\bestiary\undead/demilich-xmm.md)
 *Source: Monster Manual (2024) p. 96*  

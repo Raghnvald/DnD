@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/veor
-  - Monster/HG/1-8
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/human
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Indrina Lamsensettle
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/1-8
+  - Monster/Typ/Humanoid/human
+  - Quelle/5e/veor
 aliases:
   - Indrina Lamsensettle
+linter-yaml-title-alias: Indrina Lamsensettle
 ---
 # [Indrina Lamsensettle](3-Mechanics\CLI\bestiary\npc/indrina-lamsensettle-veor.md)
 *Source: Vecna: Eve of Ruin*  

@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/wdmm
-  - Monster/HG/4
-  - Monster/Größe/Winzig
-  - Monster/Typ/Untote
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Trenzia
+tags:
+  - Monster/Größe/Winzig
+  - Monster/HG/4
+  - Monster/Typ/Untote
+  - Quelle/5e/wdmm
 aliases:
   - Trenzia
+linter-yaml-title-alias: Trenzia
 ---
 # [Trenzia](3-Mechanics\CLI\bestiary\npc/trenzia-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 32*  

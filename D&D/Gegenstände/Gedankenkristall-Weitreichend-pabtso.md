@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Gedankenkristall (Weitreichend)
+Bezeichnung: Mind Crystal (Distant)
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/pabtso

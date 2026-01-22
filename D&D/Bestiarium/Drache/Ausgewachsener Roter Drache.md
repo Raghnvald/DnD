@@ -1,24 +1,24 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mm
-  - Monster/HG/17
-  - Monster/Habitat/Hügel
-  - Monster/Habitat/Berg
-  - Monster/Größe/Riesig
-  - Monster/Typ/Drache
 statblock: inline
 statblock-link: "#^statblock"
-aliases:
-  - Adult Red Dragon
+Bezeichnung: Adult Red Dragon
 Typ: Drache
 Größe: Riesig
 HG: 17
-status: WIP
 Habitat:
   - Berg
   - Hügel
+status: WIP
+tags:
+  - Monster/Größe/Riesig
+  - Monster/Habitat/Berg
+  - Monster/Habitat/Hügel
+  - Monster/HG/17
+  - Monster/Typ/Drache
+  - Quelle/5e/mm
+aliases:
+  - Adult Red Dragon
+linter-yaml-title-alias: Adult Red Dragon
 ---
 # [Adult Red Dragon](3-Mechanics\CLI\bestiary\dragon/adult-red-dragon.md)
 *Source: Monster Manual p. 98. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  

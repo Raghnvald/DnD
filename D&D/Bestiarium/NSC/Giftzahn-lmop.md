@@ -1,4 +1,7 @@
 ---
+statblock: inline
+statblock-link: "#^statblock"
+Bezeichnung: Giftzahn
 Typ: Drache
 Größe: Groß
 HG: 8
@@ -6,16 +9,15 @@ Habitat:
   - /
 status: WIP
 tags:
-  - Quelle/5e/lmop
-  - Monster/HG/8
   - Monster/Größe/Groß
+  - Monster/HG/8
   - Monster/Typ/Drache
-statblock: inline
-statblock-link: "#^statblock"
+  - Quelle/5e/lmop
 aliases:
+  - Giftzahn
   - Venomfang
-Name: Giftzahn
 Image: npc/token/venomfang-lmop.webp
+linter-yaml-title-alias: Giftzahn
 ---
 # Giftzahn
 *Quellen: Die verlorene Mine von Phandelver S. 63*  

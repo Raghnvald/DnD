@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/veor
-  - Monster/HG/13
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Untote/shapechanger
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Kaylan Renaudon
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/13
+  - Monster/Typ/Untote/shapechanger
+  - Quelle/5e/veor
 aliases:
   - Kaylan Renaudon
+linter-yaml-title-alias: Kaylan Renaudon
 ---
 # [Kaylan Renaudon](3-Mechanics\CLI\bestiary\npc/kaylan-renaudon-veor.md)
 *Source: Vecna: Eve of Ruin*  

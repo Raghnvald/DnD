@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/tftyp
-  - Monster/HG/8
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/elf
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Nedylene
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/8
+  - Monster/Typ/Humanoid/elf
+  - Quelle/5e/tftyp
 aliases:
   - Nedylene
+linter-yaml-title-alias: Nedylene
 ---
 # [Nedylene](3-Mechanics\CLI\bestiary\npc/nedylene-tftyp.md)
 *Source: Tales from the Yawning Portal p. 209*  

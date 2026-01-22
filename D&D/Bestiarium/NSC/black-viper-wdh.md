@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/wdh
-  - Monster/HG/5
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/human
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Black Viper
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/5
+  - Monster/Typ/Humanoid/human
+  - Quelle/5e/wdh
 aliases:
   - Black Viper
+linter-yaml-title-alias: Black Viper
 ---
 # [Black Viper](3-Mechanics\CLI\bestiary\npc/black-viper-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 196*  

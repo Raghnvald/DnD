@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/tftyp
-  - Monster/HG/1-2
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/orc
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Bandagh
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/1-2
+  - Monster/Typ/Humanoid/orc
+  - Quelle/5e/tftyp
 aliases:
   - Bandagh
+linter-yaml-title-alias: Bandagh
 ---
 # [Bandagh](3-Mechanics\CLI\bestiary\npc/bandagh-tftyp.md)
 *Source: Tales from the Yawning Portal p. 159*  

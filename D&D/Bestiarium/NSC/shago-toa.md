@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/toa
-  - Monster/HG/5
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/human
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Shago
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/5
+  - Monster/Typ/Humanoid/human
+  - Quelle/5e/toa
 aliases:
   - Shago
+linter-yaml-title-alias: Shago
 ---
 # [Shago](3-Mechanics\CLI\bestiary\npc/shago-toa.md)
 *Source: Tomb of Annihilation p. 35*  

@@ -1,17 +1,18 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Olisuba Leaf
 tags:
-  - Quelle/5e/egw
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
+  - Quelle/5e/egw
 aliases:
   - Olisuba Leaf
+linter-yaml-title-alias: Olisuba Leaf
+obsidianUIMode: preview
 ---
 # Olisuba Leaf
 *Adventuring gear*  
-
 
 - **Cost**: 50 gp
 

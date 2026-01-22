@@ -1,15 +1,15 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/cos
-  - Monster/HG/1
-  - Monster/Größe/Groß
-  - Monster/Typ/Tier
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Sangzor
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/1
+  - Monster/Typ/Tier
+  - Quelle/5e/cos
 aliases:
   - Sangzor
+linter-yaml-title-alias: Sangzor
 ---
 # [Sangzor](3-Mechanics\CLI\bestiary\npc/sangzor-cos.md)
 *Source: Curse of Strahd p. 160*  

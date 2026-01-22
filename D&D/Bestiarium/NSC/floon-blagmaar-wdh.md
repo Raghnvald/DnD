@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/wdh
-  - Monster/HG/0
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/human
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Floon Blagmaar
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/0
+  - Monster/Typ/Humanoid/human
+  - Quelle/5e/wdh
 aliases:
   - Floon Blagmaar
+linter-yaml-title-alias: Floon Blagmaar
 ---
 # [Floon Blagmaar](3-Mechanics\CLI\bestiary\npc/floon-blagmaar-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 202*  

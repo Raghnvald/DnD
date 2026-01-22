@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Gedankenkristall (Bedacht)
+Bezeichnung: Mind Crystal (Careful)
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/pabtso

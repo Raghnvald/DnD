@@ -1,13 +1,15 @@
 ---
-tags:
-  - Quelle/5e/mpmm
-  - Monster/HG/23
-  - Monster/Größe/Riesig
-  - Monster/Typ/Unhold/demon
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Juiblex
+tags:
+  - Monster/Größe/Riesig
+  - Monster/HG/23
+  - Monster/Typ/Unhold/demon
+  - Quelle/5e/mpmm
 aliases:
   - Juiblex
+linter-yaml-title-alias: Juiblex
 ---
 # Juiblex
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 160*  

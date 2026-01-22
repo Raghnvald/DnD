@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/wdmm
-  - Monster/HG/1
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/dwarf
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Deformed Duergar
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/1
+  - Monster/Typ/Humanoid/dwarf
+  - Quelle/5e/wdmm
 aliases:
   - Deformed Duergar
+linter-yaml-title-alias: Deformed Duergar
 ---
 # [Deformed Duergar](3-Mechanics\CLI\bestiary\npc/deformed-duergar-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 180*  

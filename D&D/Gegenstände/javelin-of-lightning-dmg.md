@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Javelin of Lightning
+Typ: Einfache Nahkampfwaffe
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/Waffe/Einfach

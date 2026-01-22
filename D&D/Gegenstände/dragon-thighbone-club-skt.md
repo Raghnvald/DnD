@@ -1,19 +1,21 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Dragon Thighbone Club
+Typ: Einfache Nahkampfwaffe
 tags:
-  - Quelle/5e/skt
   - Gegenstand/Einstimmung/optional
   - Gegenstand/Seltenheit/unbekannt/magic
-  - Gegenstand/Waffe/Nahkampf
   - Gegenstand/Waffe/Einfach
+  - Gegenstand/Waffe/Nahkampf
+  - Quelle/5e/skt
 aliases:
   - Dragon Thighbone Club
+linter-yaml-title-alias: Dragon Thighbone Club
+obsidianUIMode: preview
 ---
 # Dragon Thighbone Club
 *Weapon (greatclub) (attunement optional)*  
-
 
 - **Damage**: 1d8 bludgeoning
 - **Properties**: Two-Handed

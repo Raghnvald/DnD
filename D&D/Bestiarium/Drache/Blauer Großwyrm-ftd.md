@@ -1,21 +1,21 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/ftd
-  - Monster/HG/27
-  - Monster/Größe/Gigantisch
-  - Monster/Typ/Drache/chromatic
 statblock: inline
 statblock-link: "#^statblock"
-aliases:
-  - Blue Greatwyrm
-Größe: Gigantisch
+Bezeichnung: Blue Greatwyrm
 Typ: Drache (Chromatisch)
+Größe: Gigantisch
 HG: 27
-status: WIP
 Habitat:
   - /
+status: WIP
+tags:
+  - Monster/Größe/Gigantisch
+  - Monster/HG/27
+  - Monster/Typ/Drache/chromatic
+  - Quelle/5e/ftd
+aliases:
+  - Blue Greatwyrm
+linter-yaml-title-alias: Blue Greatwyrm
 ---
 # [Blue Greatwyrm](3-Mechanics\CLI\bestiary\dragon/blue-greatwyrm-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 168*  

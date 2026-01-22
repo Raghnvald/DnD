@@ -1,19 +1,20 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Sun Staff
 tags:
-  - Quelle/5e/bmt
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
-  - Gegenstand/Waffe/Nahkampf
   - Gegenstand/Waffe/Einfach
+  - Gegenstand/Waffe/Nahkampf
+  - Quelle/5e/bmt
 aliases:
   - Sun Staff
+linter-yaml-title-alias: Sun Staff
+obsidianUIMode: preview
 ---
 # Sun Staff
 *Staff, weapon, rare (requires attunement by a cleric, druid, or wizard)*  
-
 
 - **Damage**:
   - One-handed: 1d6 bludgeoning

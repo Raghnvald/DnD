@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/skt
-  - Monster/HG/4
-  - Monster/Größe/Groß
-  - Monster/Typ/Monstrosität
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Chief Kartha-Kaya
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/4
+  - Monster/Typ/Monstrosität
+  - Quelle/5e/skt
 aliases:
   - Chief Kartha-Kaya
+linter-yaml-title-alias: Chief Kartha-Kaya
 ---
 # [Chief Kartha-Kaya](3-Mechanics\CLI\bestiary\npc/chief-kartha-kaya-skt.md)
 *Source: Storm King's Thunder p. 173*  

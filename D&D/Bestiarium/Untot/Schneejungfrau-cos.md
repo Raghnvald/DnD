@@ -1,15 +1,15 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/cos
-  - Monster/HG/1
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Untote
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Snow Maiden
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/1
+  - Monster/Typ/Untote
+  - Quelle/5e/cos
 aliases:
   - Snow Maiden
+linter-yaml-title-alias: Snow Maiden
 ---
 # [Snow Maiden](3-Mechanics\CLI\bestiary\undead/snow-maiden-cos.md)
 *Source: Curse of Strahd p. 159*  

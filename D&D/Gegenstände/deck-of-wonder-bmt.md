@@ -1,17 +1,18 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Deck of Wonder
 tags:
-  - Quelle/5e/bmt
   - Gegenstand/Seltenheit/ungewöhnlich
+  - Quelle/5e/bmt
 aliases:
   - Deck of Wonder
+linter-yaml-title-alias: Deck of Wonder
+obsidianUIMode: preview
 ---
 # Deck of Wonder
 *Wondrous item, uncommon*  
 ![](/3-Mechanics/CLI/items/img/deck-of-wonder.webp#right)
-
 
 Created in the image of the Deck of Many Things, this deck of ivory or vellum cards bestows an assortment of minor benefits and penalties on those who draw from it. Most (75 percent) of these decks have only thirteen cards, but the rest have twenty-two.
 

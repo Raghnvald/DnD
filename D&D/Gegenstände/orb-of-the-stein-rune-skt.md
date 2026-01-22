@@ -1,17 +1,18 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Orb of the Stein Rune
 tags:
-  - Quelle/5e/skt
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
+  - Quelle/5e/skt
 aliases:
   - Orb of the Stein Rune
+linter-yaml-title-alias: Orb of the Stein Rune
+obsidianUIMode: preview
 ---
 # Orb of the Stein Rune
 *Wondrous item, rare (requires attunement)*  
-
 
 - **Weight**: 3.0 lbs.
 

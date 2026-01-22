@@ -1,22 +1,22 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/5
-  - Monster/Habitat/Jedes
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Drache
 statblock: inline
 statblock-link: "#^statblock"
-aliases:
-  - Half-Dragon
+Bezeichnung: Half-Dragon
 Typ: Drache
 Größe: Mittelgroß
 HG: 5
 Habitat:
   - Jedes
 status: WIP
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Jedes
+  - Monster/HG/5
+  - Monster/Typ/Drache
+  - Quelle/5e/xmm
+aliases:
+  - Half-Dragon
+linter-yaml-title-alias: Half-Dragon
 ---
 # [Half-Dragon](3-Mechanics\CLI\bestiary\dragon/half-dragon-xmm.md)
 *Source: Monster Manual (2024) p. 163. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
@@ -35,7 +35,6 @@ Half-dragons share personality traits and agendas with the dragon who spawned th
 > [!quote] A quote from Wyrmlord Azarr Kul, Half–Dragon  
 > 
 > What blessing demands more yet inspires greater works than the blood of Tiamat?
-
 
 ```statblock
 "name": "Half-Dragon (XMM)"

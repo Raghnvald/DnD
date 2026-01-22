@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/toa
-  - Monster/HG/8
-  - Monster/Größe/Riesig
-  - Monster/Typ/Riese
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Drufi
+tags:
+  - Monster/Größe/Riesig
+  - Monster/HG/8
+  - Monster/Typ/Riese
+  - Quelle/5e/toa
 aliases:
   - Drufi
+linter-yaml-title-alias: Drufi
 ---
 # [Drufi](3-Mechanics\CLI\bestiary\npc/drufi-toa.md)
 *Source: Tomb of Annihilation p. 64*  

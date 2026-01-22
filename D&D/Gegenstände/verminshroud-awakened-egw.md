@@ -1,17 +1,18 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Verminshroud (Awakened)
 tags:
-  - Quelle/5e/egw
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
+  - Quelle/5e/egw
 aliases:
   - Verminshroud (Awakened)
+linter-yaml-title-alias: Verminshroud (Awakened)
+obsidianUIMode: preview
 ---
 # Verminshroud (Awakened)
 *Wondrous item, legendary (requires attunement)*  
-
 
 - **Properties**: [Vestige of Divergence](/3-Mechanics/CLI/item-properties.md#Vestige%20of%20Divergence)
 

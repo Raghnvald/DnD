@@ -1,19 +1,7 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/1-2
-  - Monster/Habitat/planar
-  - Monster/Habitat/shadowfell
-  - Monster/Habitat/Unterreich
-  - Monster/Habitat/Stadt
-  - Monster/Größe/Groß
-  - Monster/Typ/Untote
 statblock: inline
 statblock-link: "#^statblock"
-aliases:
-  - Warhorse Skeleton
+Bezeichnung: Warhorse Skeleton
 Typ: Untoter
 Größe: Groß
 HG: 1/2
@@ -22,6 +10,18 @@ Habitat:
   - Stadt
   - Unterreich
 status: WIP
+tags:
+  - Monster/Größe/Groß
+  - Monster/Habitat/planar
+  - Monster/Habitat/shadowfell
+  - Monster/Habitat/Stadt
+  - Monster/Habitat/Unterreich
+  - Monster/HG/1-2
+  - Monster/Typ/Untote
+  - Quelle/5e/xmm
+aliases:
+  - Warhorse Skeleton
+linter-yaml-title-alias: Warhorse Skeleton
 ---
 # [Warhorse Skeleton](3-Mechanics\CLI\bestiary\undead/warhorse-skeleton-xmm.md)
 *Source: Monster Manual (2024) p. 282. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  

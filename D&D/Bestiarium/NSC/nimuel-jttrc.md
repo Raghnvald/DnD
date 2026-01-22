@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/jttrc
-  - Monster/HG/6
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/human
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Nimuel
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/6
+  - Monster/Typ/Humanoid/human
+  - Quelle/5e/jttrc
 aliases:
   - Nimuel
+linter-yaml-title-alias: Nimuel
 ---
 # [Nimuel](3-Mechanics\CLI\bestiary\npc/nimuel-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 136*  

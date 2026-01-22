@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/jttrc
-  - Monster/HG/9
-  - Monster/Größe/Riesig
-  - Monster/Typ/Riese
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Xocopol
+tags:
+  - Monster/Größe/Riesig
+  - Monster/HG/9
+  - Monster/Typ/Riese
+  - Quelle/5e/jttrc
 aliases:
   - Xocopol
+linter-yaml-title-alias: Xocopol
 ---
 # [Xocopol](3-Mechanics\CLI\bestiary\npc/xocopol-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 112*  

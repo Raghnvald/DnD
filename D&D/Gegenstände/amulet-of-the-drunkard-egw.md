@@ -1,17 +1,18 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Amulet of the Drunkard
 tags:
-  - Quelle/5e/egw
   - Gegenstand/Seltenheit/ungewöhnlich
+  - Quelle/5e/egw
 aliases:
   - Amulet of the Drunkard
+linter-yaml-title-alias: Amulet of the Drunkard
+obsidianUIMode: preview
 ---
 # Amulet of the Drunkard
 *Wondrous item, uncommon*  
 ![](/3-Mechanics/CLI/items/img/amulet-of-the-drunkard.webp#right)
-
 
 This amulet smells of old, ale-stained wood. While wearing it, you can regain `dice:4d4+4|noform|noparens|avg` (`4d4 + 4`) hit points when you drink a pint of beer, ale, mead, or wine. Once the amulet has restored hit points, it can't do so again until the next dawn.
 

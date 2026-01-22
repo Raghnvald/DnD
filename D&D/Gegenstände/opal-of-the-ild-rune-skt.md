@@ -1,18 +1,18 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Opal of the Ild Rune
 tags:
-  - Quelle/5e/skt
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
+  - Quelle/5e/skt
 aliases:
   - Opal of the Ild Rune
+linter-yaml-title-alias: Opal of the Ild Rune
+obsidianUIMode: preview
 ---
 # Opal of the Ild Rune
 *Wondrous item, rare (requires attunement)*  
-
-
 
 This triangular fire opal measures about three inches on each side and is half an inch thick. The ild (fire) rune shimmers within its core, causing it to be slightly warm to the touch. The opal has the following properties, which work only while it's on your person.
 

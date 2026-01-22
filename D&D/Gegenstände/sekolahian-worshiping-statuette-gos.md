@@ -1,17 +1,17 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Sekolahian Worshiping Statuette
 tags:
-  - Quelle/5e/gos
   - Gegenstand/Seltenheit/gewöhnlich
+  - Quelle/5e/gos
 aliases:
   - Sekolahian Worshiping Statuette
+linter-yaml-title-alias: Sekolahian Worshiping Statuette
+obsidianUIMode: preview
 ---
 # Sekolahian Worshiping Statuette
 *Wondrous item, common*  
-
-
 
 Skillfully carved from sandstone, this 1-foot-tall statuette depicts a shark twisting through the water with its mouth open. If any Tiny sea-dwelling animal is within 1 inch of the statuette's mouth, the shark flashes to life and deals 1 piercing damage to it. The shark can deal damage in this way no more than once per hour.
 

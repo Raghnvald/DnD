@@ -2,13 +2,14 @@
 cssclasses:
   - json5e-item
 Bezeichnung: +3 Shield
+Rüstung: Schild
 tags:
   - Gegenstand/Rüstung/Schild/
   - Gegenstand/Seltenheit/sehr_selten
   - Quelle/5e/xdmg
 aliases:
-  - +3 Shield
   - "+3 Shield"
+  - +3 Shield
 linter-yaml-title-alias: +3 Shield
 obsidianUIMode: preview
 ---

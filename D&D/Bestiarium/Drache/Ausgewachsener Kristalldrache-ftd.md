@@ -1,21 +1,21 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/ftd
-  - Monster/HG/12
-  - Monster/Größe/Riesig
-  - Monster/Typ/Drache/gem
 statblock: inline
 statblock-link: "#^statblock"
-aliases:
-  - Adult Crystal Dragon
+Bezeichnung: Adult Crystal Dragon
 Typ: Drache (Edelstein)
 Größe: Riesig
 HG: 12
 Habitat:
   - /
 status: WIP
+tags:
+  - Monster/Größe/Riesig
+  - Monster/HG/12
+  - Monster/Typ/Drache/gem
+  - Quelle/5e/ftd
+aliases:
+  - Adult Crystal Dragon
+linter-yaml-title-alias: Adult Crystal Dragon
 ---
 # [Adult Crystal Dragon](3-Mechanics\CLI\bestiary\dragon/adult-crystal-dragon-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 171*  

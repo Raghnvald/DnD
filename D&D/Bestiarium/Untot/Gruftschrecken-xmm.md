@@ -1,21 +1,21 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/3
-  - Monster/Habitat/Wüste
-  - Monster/Habitat/planar
-  - Monster/Habitat/shadowfell
-  - Monster/Habitat/Sumpf
-  - Monster/Habitat/Unterreich
-  - Monster/Habitat/Stadt
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Untote
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Wight
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/planar
+  - Monster/Habitat/shadowfell
+  - Monster/Habitat/Stadt
+  - Monster/Habitat/Sumpf
+  - Monster/Habitat/Unterreich
+  - Monster/Habitat/Wüste
+  - Monster/HG/3
+  - Monster/Typ/Untote
+  - Quelle/5e/xmm
 aliases:
   - Wight
+linter-yaml-title-alias: Wight
 ---
 # [Wight](3-Mechanics\CLI\bestiary\undead/wight-xmm.md)
 *Source: Monster Manual (2024) p. 332. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

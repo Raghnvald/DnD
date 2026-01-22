@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/veor
-  - Monster/HG/19
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Unhold/devil
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Khai Kiroth
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/19
+  - Monster/Typ/Unhold/devil
+  - Quelle/5e/veor
 aliases:
   - Khai Kiroth
+linter-yaml-title-alias: Khai Kiroth
 ---
 # [Khai Kiroth](3-Mechanics\CLI\bestiary\npc/khai-kiroth-veor.md)
 *Source: Vecna: Eve of Ruin*  

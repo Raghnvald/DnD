@@ -1,16 +1,17 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Cauldron of Plenty
 tags:
-  - Quelle/5e/idrotf
   - Gegenstand/Seltenheit/selten
+  - Quelle/5e/idrotf
 aliases:
   - Cauldron of Plenty
+linter-yaml-title-alias: Cauldron of Plenty
+obsidianUIMode: preview
 ---
 # Cauldron of Plenty
 *Wondrous item, rare*  
-
 
 - **Weight**: 50.0 lbs.
 

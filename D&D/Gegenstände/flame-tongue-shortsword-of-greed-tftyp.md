@@ -1,19 +1,21 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Flame Tongue Shortsword of Greed
+Typ: Nahkampf-Kriegswaffe
 tags:
-  - Quelle/5e/tftyp
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/unbekannt/magic
   - Gegenstand/Waffe/Kriegswaffe
   - Gegenstand/Waffe/Nahkampf
+  - Quelle/5e/tftyp
 aliases:
   - Flame Tongue Shortsword of Greed
+linter-yaml-title-alias: Flame Tongue Shortsword of Greed
+obsidianUIMode: preview
 ---
 # Flame Tongue Shortsword of Greed
 *Weapon (shortsword) (requires attunement)*  
-
 
 - **Damage**: 1d6 piercing
 - **Properties**: Finesse, Light

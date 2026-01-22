@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/wdh
-  - Monster/HG/
-  - Monster/Größe/Klein
-  - Monster/Typ/Humanoid/human
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Jenks
+tags:
+  - Monster/Größe/Klein
+  - Monster/HG/
+  - Monster/Typ/Humanoid/human
+  - Quelle/5e/wdh
 aliases:
   - Jenks
+linter-yaml-title-alias: Jenks
 ---
 # [Jenks](3-Mechanics\CLI\bestiary\npc/jenks-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 63*  

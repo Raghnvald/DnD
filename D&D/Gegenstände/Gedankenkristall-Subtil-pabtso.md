@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Gedankenkristall (Subtil)
+Bezeichnung: Mind Crystal (Subtle)
 tags:
   - Gegenstand/Seltenheit/gewöhnlich
   - Quelle/5e/pabtso

@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/tftyp
-  - Monster/HG/5
-  - Monster/Größe/Groß
-  - Monster/Typ/Monstrosität
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Xilonen
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/5
+  - Monster/Typ/Monstrosität
+  - Quelle/5e/tftyp
 aliases:
   - Xilonen
+linter-yaml-title-alias: Xilonen
 ---
 # [Xilonen](3-Mechanics\CLI\bestiary\npc/xilonen-tftyp.md)
 *Source: Tales from the Yawning Portal p. 83*  

@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/cos
-  - Monster/HG/1-4
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/human
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Donavich
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/1-4
+  - Monster/Typ/Humanoid/human
+  - Quelle/5e/cos
 aliases:
   - Donavich
+linter-yaml-title-alias: Donavich
 ---
 # [Donavich](3-Mechanics\CLI\bestiary\npc/donavich-cos.md)
 *Source: Curse of Strahd p. 46*  

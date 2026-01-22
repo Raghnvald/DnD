@@ -1,17 +1,16 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/veor
-  - Monster/HG/17
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Unhold/devil
-  - Monster/Typ/Unhold/wizard
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Nyssa Otellion
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/17
+  - Monster/Typ/Unhold/devil
+  - Monster/Typ/Unhold/wizard
+  - Quelle/5e/veor
 aliases:
   - Nyssa Otellion
+linter-yaml-title-alias: Nyssa Otellion
 ---
 # [Nyssa Otellion](3-Mechanics\CLI\bestiary\npc/nyssa-otellion-veor.md)
 *Source: Vecna: Eve of Ruin*  

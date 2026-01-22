@@ -1,15 +1,18 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Dagger of Denial
+Typ: Einfache Nahkampfwaffe
 tags:
-  - Quelle/5e/tdcsr
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
-  - Gegenstand/Waffe/Nahkampf
   - Gegenstand/Waffe/Einfach
+  - Gegenstand/Waffe/Nahkampf
+  - Quelle/5e/tdcsr
 aliases:
   - Dagger of Denial
+linter-yaml-title-alias: Dagger of Denial
+obsidianUIMode: preview
 ---
 # Dagger of Denial
 *Weapon ([dagger](/3-Mechanics/CLI/items/dagger-xphb.md)), rare (requires attunement)*  

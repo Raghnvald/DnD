@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/skt
-  - Monster/HG/13
-  - Monster/Größe/Riesig
-  - Monster/Typ/Riese
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Shaldoor
+tags:
+  - Monster/Größe/Riesig
+  - Monster/HG/13
+  - Monster/Typ/Riese
+  - Quelle/5e/skt
 aliases:
   - Shaldoor
+linter-yaml-title-alias: Shaldoor
 ---
 # [Shaldoor](3-Mechanics\CLI\bestiary\npc/shaldoor-skt.md)
 *Source: Storm King's Thunder p. 256*  

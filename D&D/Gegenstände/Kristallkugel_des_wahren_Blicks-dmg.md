@@ -1,14 +1,14 @@
 ---
 cssclasses:
   - json5e-item
-Bezeichnung: Crystal Ball of True Seeing
+Bezeichnung: Kristallkugel des wahren Blicks
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
   - Quelle/5e/dmg
 aliases:
-  - Crystal Ball of True Seeing
-linter-yaml-title-alias: Crystal Ball of True Seeing
+  - Kristallkugel des wahren Blicks
+linter-yaml-title-alias: Kristallkugel des wahren Blicks
 obsidianUIMode: preview
 ---
 # Kristallkugel des wahren Blicks

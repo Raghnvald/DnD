@@ -1,18 +1,18 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Azuremite
 tags:
-  - Quelle/5e/tdcsr
   - Gegenstand/Ausrüstung/illegal-drug
   - Gegenstand/Seltenheit/unbekannt/magic
+  - Quelle/5e/tdcsr
 aliases:
   - Azuremite
+linter-yaml-title-alias: Azuremite
+obsidianUIMode: preview
 ---
 # Azuremite
 *Illegal drug*  
-
-
 
 The ruins of this sprawling city are now known as the Crystalfen Caverns. These caves are home to scattered veins of [azuremite](/3-Mechanics/CLI/items/azuremite-tdcsr.md), a gorgeous blue crystal that formed from millennia of psychic energies existing near element deposits. Curious explorers who discovered the veins found that, when mined and refined into a fine dust, the [azuremite](/3-Mechanics/CLI/items/azuremite-tdcsr.md) powder is a strong mind-altering agent and induces temporary visions and other psychic phenomena.
 

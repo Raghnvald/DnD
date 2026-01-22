@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/toa
-  - Monster/HG/2
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/human
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Qawasha
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/2
+  - Monster/Typ/Humanoid/human
+  - Quelle/5e/toa
 aliases:
   - Qawasha
+linter-yaml-title-alias: Qawasha
 ---
 # [Qawasha](3-Mechanics\CLI\bestiary\npc/qawasha-toa.md)
 *Source: Tomb of Annihilation p. 35*  

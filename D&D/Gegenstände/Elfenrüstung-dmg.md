@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Elven Chain
+Rüstung: Mittel
 tags:
   - Gegenstand/Rüstung/Mittel
   - Gegenstand/Seltenheit/selten

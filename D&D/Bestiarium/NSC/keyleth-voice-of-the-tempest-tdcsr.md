@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/tdcsr
-  - Monster/HG/18
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/half-elf
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Keyleth, Voice of the Tempest
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/18
+  - Monster/Typ/Humanoid/half-elf
+  - Quelle/5e/tdcsr
 aliases:
   - Keyleth, Voice of the Tempest
+linter-yaml-title-alias: Keyleth, Voice of the Tempest
 ---
 # [Keyleth, Voice of the Tempest](3-Mechanics\CLI\bestiary\npc/keyleth-voice-of-the-tempest-tdcsr.md)
 *Source: Tal'Dorei Campaign Setting Reborn p. 263*  

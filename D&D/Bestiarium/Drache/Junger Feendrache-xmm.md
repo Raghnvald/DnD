@@ -1,22 +1,22 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/1
-  - Monster/Habitat/Wald
-  - Monster/Größe/Winzig
-  - Monster/Typ/Drache
 statblock: inline
 statblock-link: "#^statblock"
-aliases:
-  - Faerie Dragon Youth
+Bezeichnung: Faerie Dragon Youth
 Typ: Drache
 Größe: Winzig
 HG: 1
 Habitat:
   - Wald
 status: WIP
+tags:
+  - Monster/Größe/Winzig
+  - Monster/Habitat/Wald
+  - Monster/HG/1
+  - Monster/Typ/Drache
+  - Quelle/5e/xmm
+aliases:
+  - Faerie Dragon Youth
+linter-yaml-title-alias: Faerie Dragon Youth
 ---
 # [Faerie Dragon Youth](3-Mechanics\CLI\bestiary\dragon/faerie-dragon-youth-xmm.md)
 *Source: Monster Manual (2024) p. 117*  

@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/wdh
-  - Monster/HG/1
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/any-race
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Samara Strongbones
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/1
+  - Monster/Typ/Humanoid/any-race
+  - Quelle/5e/wdh
 aliases:
   - Samara Strongbones
+linter-yaml-title-alias: Samara Strongbones
 ---
 # [Samara Strongbones](3-Mechanics\CLI\bestiary\npc/samara-strongbones-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 104*  

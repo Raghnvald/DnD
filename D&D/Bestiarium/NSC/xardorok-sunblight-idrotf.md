@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/idrotf
-  - Monster/HG/5
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/dwarf
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Xardorok Sunblight
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/5
+  - Monster/Typ/Humanoid/dwarf
+  - Quelle/5e/idrotf
 aliases:
   - Xardorok Sunblight
+linter-yaml-title-alias: Xardorok Sunblight
 ---
 # [Xardorok Sunblight](3-Mechanics\CLI\bestiary\npc/xardorok-sunblight-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 287*  

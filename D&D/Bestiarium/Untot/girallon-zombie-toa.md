@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/toa
-  - Monster/HG/3
-  - Monster/Größe/Groß
-  - Monster/Typ/Untote
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Girallon Zombie
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/3
+  - Monster/Typ/Untote
+  - Quelle/5e/toa
 aliases:
   - Girallon Zombie
+linter-yaml-title-alias: Girallon Zombie
 ---
 # [Girallon Zombie](3-Mechanics\CLI\bestiary\undead/girallon-zombie-toa.md)
 *Source: Tomb of Annihilation p. 240*  

@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Statuette des Omens
+Bezeichnung: Statuette of Augury
 tags:
   - Gegenstand/Seltenheit/unbekannt/magic
   - Quelle/5e/pabtso

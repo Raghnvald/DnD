@@ -1,7 +1,8 @@
 ---
-cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
-Bezeichnung:
+statblock: inline
+statblock-link: "#^statblock"
+Bezeichnung: Ghul
 Typ: Untoter
 Größe: Mittelgroß
 HG: 1
@@ -9,20 +10,20 @@ Habitat:
   - Stadt
   - Sumpf
   - Unterreich
-status: completed
 image: image/ghoul.webp
+status: completed
 tags:
-  - Quelle/5e/mm
-  - Monster/Typ/Untote
   - Monster/Größe/Mittelgroß
-  - Monster/HG/1
   - Monster/Habitat/Stadt
   - Monster/Habitat/Sumpf
   - Monster/Habitat/Unterreich
-statblock: inline
-statblock-link: "#^statblock"
+  - Monster/HG/1
+  - Monster/Typ/Untote
+  - Quelle/5e/mm
 aliases:
+  - Ghul
   - Ghoul
+linter-yaml-title-alias: Ghul
 ---
 # Ghul
 *Quelle: Monsterhandbuch S. 133. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*  

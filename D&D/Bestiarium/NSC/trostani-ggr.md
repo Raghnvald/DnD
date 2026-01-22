@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- Quelle/5e/ggr
-- Monster/HG/18
-- Monster/Größe/Groß
-- Monster/Typ/Fee
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Trostani
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/18
+  - Monster/Typ/Fee
+  - Quelle/5e/ggr
 aliases:
-- Trostani
+  - Trostani
+linter-yaml-title-alias: Trostani
 ---
 # [Trostani](3-Mechanics\CLI\bestiary\npc/trostani-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 252*  

@@ -1,14 +1,14 @@
 ---
 cssclasses:
   - json5e-item
-Bezeichnung: Torch
+Bezeichnung: Fackel
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Torch
-linter-yaml-title-alias: Torch
+  - Fackel
+linter-yaml-title-alias: Fackel
 obsidianUIMode: preview
 ---
 # Fackel

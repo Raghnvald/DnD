@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/veor
-  - Monster/HG/15
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Untote
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Deathwolf
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/15
+  - Monster/Typ/Untote
+  - Quelle/5e/veor
 aliases:
   - Deathwolf
+linter-yaml-title-alias: Deathwolf
 ---
 # [Deathwolf](3-Mechanics\CLI\bestiary\undead/deathwolf-veor.md)
 *Source: Vecna: Eve of Ruin p. 217*  

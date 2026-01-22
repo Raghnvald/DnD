@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/bmt
-  - Monster/HG/18
-  - Monster/Größe/Riesig
-  - Monster/Typ/Unhold/yugoloth
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Malaxxix
+tags:
+  - Monster/Größe/Riesig
+  - Monster/HG/18
+  - Monster/Typ/Unhold/yugoloth
+  - Quelle/5e/bmt
 aliases:
   - Malaxxix
+linter-yaml-title-alias: Malaxxix
 ---
 # [Malaxxix](3-Mechanics\CLI\bestiary\npc/malaxxix-bmt.md)
 *Source: The Book of Many Things p. 173*  
@@ -50,7 +49,6 @@ Only Malaxxix can pilot this vehicle. If Malaxxix is slain, the palanquin crumbl
 > [!quote] A quote from Asteria  
 > 
 > Too many legs. Too loud. Makes my mind feel like it's melting.
-
 
 ```statblock
 "name": "Malaxxix (BMT)"

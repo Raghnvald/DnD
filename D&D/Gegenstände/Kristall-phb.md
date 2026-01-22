@@ -10,8 +10,8 @@ tags:
   - Gegenstand/Zauberfokus
   - Quelle/5e/phb
 aliases:
-  - Kristall
   - Crystal
+  - Kristall
 linter-yaml-title-alias: Kristall
 ---
 # Kristall

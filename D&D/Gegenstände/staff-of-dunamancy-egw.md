@@ -1,18 +1,19 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Staff of Dunamancy
 tags:
-  - Quelle/5e/egw
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/Waffe/Einfach
+  - Quelle/5e/egw
 aliases:
   - Staff of Dunamancy
+linter-yaml-title-alias: Staff of Dunamancy
+obsidianUIMode: preview
 ---
 # Staff of Dunamancy
 *Staff, weapon, very rare (requires attunement by a wizard)*  
-
 
 - **Damage**:
   - One-handed: 1d6 bludgeoning

@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Dragon Slayer
+Typ: Nahkampf-Kriegswaffe
 tags:
   - Gegenstand/Seltenheit/selten
   - Gegenstand/Waffe/Kriegswaffe

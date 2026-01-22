@@ -1,17 +1,18 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Menga leaves (1 ounce)
 tags:
-  - Quelle/5e/toa
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/unbekannt
+  - Quelle/5e/toa
 aliases:
   - Menga leaves (1 ounce)
+linter-yaml-title-alias: Menga leaves (1 ounce)
+obsidianUIMode: preview
 ---
 # Menga leaves (1 ounce)
 *Adventuring gear*  
-
 
 - **Cost**: 2 gp
 - **Weight**: 0.0625 lbs.

@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/cm
-  - Monster/HG/15
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Untote
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Fungal Servant
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/15
+  - Monster/Typ/Untote
+  - Quelle/5e/cm
 aliases:
   - Fungal Servant
+linter-yaml-title-alias: Fungal Servant
 ---
 # [Fungal Servant](3-Mechanics\CLI\bestiary\undead/fungal-servant-cm.md)
 *Source: Candlekeep Mysteries p. 217*  

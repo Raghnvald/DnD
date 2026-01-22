@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/jttrc
-  - Monster/HG/7
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Untote
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Haint
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/7
+  - Monster/Typ/Untote
+  - Quelle/5e/jttrc
 aliases:
   - Haint
+linter-yaml-title-alias: Haint
 ---
 # [Haint](3-Mechanics\CLI\bestiary\undead/haint-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 185*  

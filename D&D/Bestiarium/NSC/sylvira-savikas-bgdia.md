@@ -1,15 +1,15 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/bgdia
-  - Monster/HG/12
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/any-race
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Sylvira Savikas
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/12
+  - Monster/Typ/Humanoid/any-race
+  - Quelle/5e/bgdia
 aliases:
   - Sylvira Savikas
+linter-yaml-title-alias: Sylvira Savikas
 ---
 # [Sylvira Savikas](3-Mechanics\CLI\bestiary\npc/sylvira-savikas-bgdia.md)
 *Source: Baldur's Gate: Descent Into Avernus p. 46*  

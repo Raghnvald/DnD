@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Schlammglitschturm
+Bezeichnung: Mudslick Tower
 tags:
   - Gegenstand/Seltenheit/sehr_selten
   - Quelle/5e/pabtso

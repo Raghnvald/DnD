@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/wdh
-  - Monster/HG/3
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Monstrosität/shapechanger
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Willifort Crowelle
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/3
+  - Monster/Typ/Monstrosität/shapechanger
+  - Quelle/5e/wdh
 aliases:
   - Willifort Crowelle
+linter-yaml-title-alias: Willifort Crowelle
 ---
 # [Willifort Crowelle](3-Mechanics\CLI\bestiary\npc/willifort-crowelle-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 62*  

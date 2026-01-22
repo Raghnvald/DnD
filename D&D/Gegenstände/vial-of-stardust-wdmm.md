@@ -1,17 +1,17 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Vial of Stardust
 tags:
-  - Quelle/5e/wdmm
   - Gegenstand/Seltenheit/unbekannt
   - Gegenstand/wundersam/other
+  - Quelle/5e/wdmm
 aliases:
   - Vial of Stardust
+linter-yaml-title-alias: Vial of Stardust
+obsidianUIMode: preview
 ---
 # Vial of Stardust
-
-
 
 Any creature that sprinkles the contents of a Vial of Stardust over itself gains the ability to cast the dream spell once as an action (spell save DC 15), requiring no components.
 

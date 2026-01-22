@@ -1,18 +1,20 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
+Bezeichnung: Stachelrüstung
 Rüstung: Mittel
 tags:
   - Gegenstand/Rüstung/Mittel
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/scag
-aliases: 
-- "Spiked Armor"
+aliases:
+  - "Spiked Armor"
+  - Stachelrüstung
+linter-yaml-title-alias: Stachelrüstung
+obsidianUIMode: preview
 ---
-# Spiked Armor
+# Stachelrüstung
 *Medium armor*  
-
 
 - **Armor Class**: 14 + Dex modifier (max of +2)
 - **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.

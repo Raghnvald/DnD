@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/idrotf
-  - Monster/HG/10
-  - Monster/Größe/Groß
-  - Monster/Typ/Elementar
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Auril (Second Form)
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/10
+  - Monster/Typ/Elementar
+  - Quelle/5e/idrotf
 aliases:
   - Auril (Second Form)
+linter-yaml-title-alias: Auril (Second Form)
 ---
 # [Auril (Second Form)](3-Mechanics\CLI\bestiary\npc/auril-second-form-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 277*  

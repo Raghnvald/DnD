@@ -1,17 +1,16 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/veor
-  - Monster/HG/23
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/bard
-  - Monster/Typ/Humanoid/tiefling
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Windfall
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/23
+  - Monster/Typ/Humanoid/bard
+  - Monster/Typ/Humanoid/tiefling
+  - Quelle/5e/veor
 aliases:
   - Windfall
+linter-yaml-title-alias: Windfall
 ---
 # [Windfall](3-Mechanics\CLI\bestiary\npc/windfall-veor.md)
 *Source: Vecna: Eve of Ruin p. 153*  

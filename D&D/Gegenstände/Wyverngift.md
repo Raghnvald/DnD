@@ -10,8 +10,8 @@ tags:
   - Gegenstand/Seltenheit/gewöhnlich
   - Quelle/5e/dmg
 aliases:
-  - Wyverngift (Verletzung)
   - Wyvern Poison
+  - Wyverngift (Verletzung)
 linter-yaml-title-alias: Wyverngift (Verletzung)
 ---
 # Wyverngift (Verletzung)

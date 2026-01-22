@@ -5,8 +5,8 @@ tags:
   - Gegenstand/Ausrüstung
   - Quelle/5e/phb
 aliases:
-  - Kleidung, Kostüm
   - Costume Clothes
+  - Kleidung, Kostüm
 linter-yaml-title-alias: Kleidung, Kostüm
 ---
 # Kleidung, Kostüm

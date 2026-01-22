@@ -1,12 +1,12 @@
 ---
-Bezeichnung: Trank der psionischen Ausdauer
+Bezeichnung: Potion of Psionic Fortitude
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/wundersam/Trank
   - Quelle/5e/pabtso
 aliases:
-  - Potion of Psionic Fortitude
   - "Potion of Psionic Fortitude"
+  - Potion of Psionic Fortitude
 linter-yaml-title-alias: Potion of Psionic Fortitude
 ---
 # Potion of Psionic Fortitude

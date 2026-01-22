@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Blowgun
+Typ: Fernkampf-Kriegswaffe
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/Fernkampf

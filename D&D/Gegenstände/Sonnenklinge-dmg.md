@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Sun Blade
+Typ: Nahkampf-Kriegswaffe
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten

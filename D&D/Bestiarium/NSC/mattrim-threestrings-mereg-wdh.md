@@ -1,16 +1,16 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/wdh
-  - Monster/HG/2
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/human
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: 'Mattrim "Threestrings" Mereg'
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/2
+  - Monster/Typ/Humanoid/human
+  - Quelle/5e/wdh
 aliases:
+  - 'Mattrim "Threestrings" Mereg'
   - Mattrim "Threestrings" Mereg
+linter-yaml-title-alias: 'Mattrim "Threestrings" Mereg'
 ---
 # [Mattrim "Threestrings" Mereg](3-Mechanics\CLI\bestiary\npc/mattrim-threestrings-mereg-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 20*  
@@ -20,7 +20,6 @@ aliases:
 > [!quote]  
 > 
 > Anyone can play *The Three Flambinis* on a lute, but try playing it with just three strings!
-
 
 ```statblock
 "name": "Mattrim \"Threestrings\" Mereg (WDH)"

@@ -1,22 +1,22 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mm
-  - Monster/HG/15
-  - Monster/Habitat/Küste
-  - Monster/Größe/Riesig
-  - Monster/Typ/Drache
 statblock: inline
 statblock-link: "#^statblock"
-aliases:
-  - Adult Bronze Dragon
+Bezeichnung: Adult Bronze Dragon
 Typ: Drache
 Größe: Riesig
 HG: 15
 Habitat:
   - Küste
 status: WIP
+tags:
+  - Monster/Größe/Riesig
+  - Monster/Habitat/Küste
+  - Monster/HG/15
+  - Monster/Typ/Drache
+  - Quelle/5e/mm
+aliases:
+  - Adult Bronze Dragon
+linter-yaml-title-alias: Adult Bronze Dragon
 ---
 # [Adult Bronze Dragon](3-Mechanics\CLI\bestiary\dragon/adult-bronze-dragon.md)
 *Source: Monster Manual p. 108. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  

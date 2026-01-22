@@ -1,18 +1,18 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Ingot of the Skold Rune
 tags:
-  - Quelle/5e/skt
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
+  - Quelle/5e/skt
 aliases:
   - Ingot of the Skold Rune
+linter-yaml-title-alias: Ingot of the Skold Rune
+obsidianUIMode: preview
 ---
 # Ingot of the Skold Rune
 *Wondrous item, very rare (requires attunement)*  
-
-
 
 This appears to be a simple ingot of iron ore, about a foot long and a few inches across. Inspection of its surface reveals the faint, silvery outline of the skold (shield) rune. The ingot has the following properties, which work only while it's on your person.
 

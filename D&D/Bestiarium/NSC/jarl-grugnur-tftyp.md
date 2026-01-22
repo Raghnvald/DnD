@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/tftyp
-  - Monster/HG/9
-  - Monster/Größe/Riesig
-  - Monster/Typ/Riese
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Jarl Grugnur
+tags:
+  - Monster/Größe/Riesig
+  - Monster/HG/9
+  - Monster/Typ/Riese
+  - Quelle/5e/tftyp
 aliases:
   - Jarl Grugnur
+linter-yaml-title-alias: Jarl Grugnur
 ---
 # [Jarl Grugnur](3-Mechanics\CLI\bestiary\npc/jarl-grugnur-tftyp.md)
 *Source: Tales from the Yawning Portal p. 189*  

@@ -1,17 +1,7 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/16
-  - Monster/Habitat/Küste
-  - Monster/Habitat/Wüste
-  - Monster/Größe/Riesig
-  - Monster/Typ/Drache/chromatic
 statblock: inline
 statblock-link: "#^statblock"
-aliases:
-  - Adult Blue Dragon
+Bezeichnung: Adult Blue Dragon
 Typ: Drache (Chromatisch)
 Größe: Riesig
 HG: 16
@@ -19,6 +9,16 @@ Habitat:
   - Küste
   - Wüste
 status: WIP
+tags:
+  - Monster/Größe/Riesig
+  - Monster/Habitat/Küste
+  - Monster/Habitat/Wüste
+  - Monster/HG/16
+  - Monster/Typ/Drache/chromatic
+  - Quelle/5e/xmm
+aliases:
+  - Adult Blue Dragon
+linter-yaml-title-alias: Adult Blue Dragon
 ---
 # [Adult Blue Dragon](3-Mechanics\CLI\bestiary\dragon/adult-blue-dragon-xmm.md)
 *Source: Monster Manual (2024) p. 49. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

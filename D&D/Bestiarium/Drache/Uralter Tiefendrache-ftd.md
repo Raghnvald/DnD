@@ -1,17 +1,17 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/ftd
-  - Monster/HG/18
-  - Monster/Größe/Gigantisch
-  - Monster/Typ/Drache
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Ancient Deep Dragon
+Typ: Drache
+status: WIP
+tags:
+  - Monster/Größe/Gigantisch
+  - Monster/HG/18
+  - Monster/Typ/Drache
+  - Quelle/5e/ftd
 aliases:
   - Ancient Deep Dragon
-status: WIP
-Typ: Drache
+linter-yaml-title-alias: Ancient Deep Dragon
 ---
 # [Ancient Deep Dragon](3-Mechanics\CLI\bestiary\dragon/ancient-deep-dragon-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 173*  

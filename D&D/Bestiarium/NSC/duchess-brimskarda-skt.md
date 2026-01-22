@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/skt
-  - Monster/HG/9
-  - Monster/Größe/Riesig
-  - Monster/Typ/Riese
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Duchess Brimskarda
+tags:
+  - Monster/Größe/Riesig
+  - Monster/HG/9
+  - Monster/Typ/Riese
+  - Quelle/5e/skt
 aliases:
   - Duchess Brimskarda
+linter-yaml-title-alias: Duchess Brimskarda
 ---
 # [Duchess Brimskarda](3-Mechanics\CLI\bestiary\npc/duchess-brimskarda-skt.md)
 *Source: Storm King's Thunder p. 185*  

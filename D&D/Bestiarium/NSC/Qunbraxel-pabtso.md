@@ -1,16 +1,17 @@
 ---
-Name: Qunbraxel
-Image: npc/token/qunbraxel-pabtso.webp
-tags:
-  - Quelle/5e/pabtso
-  - Monster/HG/9
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Aberration/Gedankenschinder
-  - Monster/Typ/Aberration/Hexenmeister
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Qunbraxel
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/9
+  - Monster/Typ/Aberration/Gedankenschinder
+  - Monster/Typ/Aberration/Hexenmeister
+  - Quelle/5e/pabtso
 aliases:
   - Qunbraxel
+Image: npc/token/qunbraxel-pabtso.webp
+linter-yaml-title-alias: Qunbraxel
 ---
 # Qunbraxel
 *Source: Phandelver and Below: The Shattered Obelisk p. 135*  

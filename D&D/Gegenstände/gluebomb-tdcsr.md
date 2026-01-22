@@ -1,17 +1,18 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Gluebomb
 tags:
-  - Quelle/5e/tdcsr
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/explosive
+  - Quelle/5e/tdcsr
 aliases:
   - Gluebomb
+linter-yaml-title-alias: Gluebomb
+obsidianUIMode: preview
 ---
 # Gluebomb
 *Explosive*  
-
 
 - **Cost**: 50 gp
 

@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Dancing Sword
+Typ: Nahkampf-Kriegswaffe (generisch)
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten

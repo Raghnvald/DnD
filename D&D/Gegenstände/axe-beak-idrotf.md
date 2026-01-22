@@ -1,13 +1,15 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Axe Beak
 tags:
-  - Quelle/5e/idrotf
   - Gegenstand/Ausrüstung/Reit-und-Lastentier
   - Gegenstand/Seltenheit/keine
+  - Quelle/5e/idrotf
 aliases:
   - Axe Beak
+linter-yaml-title-alias: Axe Beak
+obsidianUIMode: preview
 ---
 # Axe Beak
 *Mount*  

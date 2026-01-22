@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/gos
-  - Monster/HG/3
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Untote
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Drowned Ascetic
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/3
+  - Monster/Typ/Untote
+  - Quelle/5e/gos
 aliases:
   - Drowned Ascetic
+linter-yaml-title-alias: Drowned Ascetic
 ---
 # [Drowned Ascetic](3-Mechanics\CLI\bestiary\undead/drowned-ascetic-gos.md)
 *Source: Ghosts of Saltmarsh p. 233*  

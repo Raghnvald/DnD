@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/skt
-  - Monster/HG/13
-  - Monster/Größe/Riesig
-  - Monster/Typ/Riese
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Imperator Uthor
+tags:
+  - Monster/Größe/Riesig
+  - Monster/HG/13
+  - Monster/Typ/Riese
+  - Quelle/5e/skt
 aliases:
   - Imperator Uthor
+linter-yaml-title-alias: Imperator Uthor
 ---
 # [Imperator Uthor](3-Mechanics\CLI\bestiary\npc/imperator-uthor-skt.md)
 *Source: Storm King's Thunder p. 209*  

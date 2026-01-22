@@ -1,13 +1,15 @@
 ---
-tags:
-  - Quelle/5e/bgdia
-  - Monster/HG/5
-  - Monster/Größe/Klein
-  - Monster/Typ/Himmlische
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Lulu
+tags:
+  - Monster/Größe/Klein
+  - Monster/HG/5
+  - Monster/Typ/Himmlische
+  - Quelle/5e/bgdia
 aliases:
   - Lulu
+linter-yaml-title-alias: Lulu
 ---
 # Lulu
 *Source: Baldur's Gate: Descent Into Avernus p. 5*  

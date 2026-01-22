@@ -1,17 +1,18 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Black Sap
 tags:
-  - Quelle/5e/egw
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
+  - Quelle/5e/egw
 aliases:
   - Black Sap
+linter-yaml-title-alias: Black Sap
+obsidianUIMode: preview
 ---
 # Black Sap
 *Adventuring gear*  
-
 
 - **Cost**: 300 gp
 

@@ -6,8 +6,8 @@ tags:
   - Gegenstand/Seltenheit/gewöhnlich
   - Quelle/5e/xdmg
 aliases:
-  - Tankard of Sobriety
   - "Tankard of Sobriety"
+  - Tankard of Sobriety
 linter-yaml-title-alias: Tankard of Sobriety
 obsidianUIMode: preview
 ---

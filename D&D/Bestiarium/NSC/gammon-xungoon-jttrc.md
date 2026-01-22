@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/jttrc
-  - Monster/HG/0
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/any-race
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Gammon Xungoon
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/0
+  - Monster/Typ/Humanoid/any-race
+  - Quelle/5e/jttrc
 aliases:
   - Gammon Xungoon
+linter-yaml-title-alias: Gammon Xungoon
 ---
 # [Gammon Xungoon](3-Mechanics\CLI\bestiary\npc/gammon-xungoon-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 20*  

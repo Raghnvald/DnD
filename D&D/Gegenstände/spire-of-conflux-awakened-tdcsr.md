@@ -1,15 +1,17 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Spire of Conflux (Awakened)
 tags:
-  - Quelle/5e/tdcsr
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
-  - Gegenstand/Waffe/Nahkampf
   - Gegenstand/Waffe/Einfach
+  - Gegenstand/Waffe/Nahkampf
+  - Quelle/5e/tdcsr
 aliases:
   - Spire of Conflux (Awakened)
+linter-yaml-title-alias: Spire of Conflux (Awakened)
+obsidianUIMode: preview
 ---
 # Spire of Conflux (Awakened)
 *Staff, weapon, legendary (requires attunement by a spellcaster)*  

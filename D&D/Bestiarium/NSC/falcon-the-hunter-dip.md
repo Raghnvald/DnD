@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/dip
-  - Monster/HG/4
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/human
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Falcon the Hunter
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/4
+  - Monster/Typ/Humanoid/human
+  - Quelle/5e/dip
 aliases:
   - Falcon the Hunter
+linter-yaml-title-alias: Falcon the Hunter
 ---
 # [Falcon the Hunter](3-Mechanics\CLI\bestiary\npc/falcon-the-hunter-dip.md)
 *Source: Dragon of Icespire Peak p. 56*  

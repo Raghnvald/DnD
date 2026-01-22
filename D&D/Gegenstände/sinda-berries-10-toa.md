@@ -1,17 +1,18 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Sinda berries (10)
 tags:
-  - Quelle/5e/toa
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/unbekannt
+  - Quelle/5e/toa
 aliases:
   - Sinda berries (10)
+linter-yaml-title-alias: Sinda berries (10)
+obsidianUIMode: preview
 ---
 # Sinda berries (10)
 *Adventuring gear*  
-
 
 - **Cost**: 5 gp
 

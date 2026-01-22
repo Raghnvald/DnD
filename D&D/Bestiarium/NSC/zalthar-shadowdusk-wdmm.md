@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/wdmm
-  - Monster/HG/17
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Untote
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Zalthar Shadowdusk
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/17
+  - Monster/Typ/Untote
+  - Quelle/5e/wdmm
 aliases:
   - Zalthar Shadowdusk
+linter-yaml-title-alias: Zalthar Shadowdusk
 ---
 # [Zalthar Shadowdusk](3-Mechanics\CLI\bestiary\npc/zalthar-shadowdusk-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 286*  

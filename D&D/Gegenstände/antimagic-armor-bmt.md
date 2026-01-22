@@ -1,15 +1,16 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Antimagic Armor
+Rüstung: Leicht, Mittel oder Schwer
 tags:
-  - Quelle/5e/bmt
-  - Gegenstand/Rüstung/Schwer
+  - Gegenstand/Einstimmung/required
   - Gegenstand/Rüstung/Leicht
   - Gegenstand/Rüstung/Mittel
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Rüstung/Schwer
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/wundersam/generic-variant
+  - Quelle/5e/bmt
 aliases:
   - Antimagic Armor
   - Antimagic Breastplate
@@ -25,11 +26,11 @@ aliases:
   - Antimagic Spiked Armor
   - Antimagic Splint Armor
   - Antimagic Studded Leather Armor
+linter-yaml-title-alias: Antimagic Armor
+obsidianUIMode: preview
 ---
 # Antimagic Armor
 *Very rare (requires attunement)*  
-
-
 
 While wearing this armor, you can use your reaction to give yourself advantage on a saving throw you make against a spell. Once this property is used, it can't be used again until the next dawn.
 
@@ -125,6 +126,5 @@ In addition, while you wear this armor, you can use it to cast Antimagic Field, 
 
 - **Armor Class**: 12 + Dex modifier
 - **Weight**: 13.0 lbs.
-
 
 *Source: The Book of Many Things p. 65*

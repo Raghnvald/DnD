@@ -1,18 +1,20 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: "Warrior's Passkey"
 tags:
-  - Quelle/5e/bmt
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
+  - Quelle/5e/bmt
 aliases:
+  - "Warrior's Passkey"
   - Warrior's Passkey
+linter-yaml-title-alias: "Warrior's Passkey"
+obsidianUIMode: preview
 ---
 # Warrior's Passkey
 *Wondrous item, rare (requires attunement)*  
 ![](/3-Mechanics/CLI/items/img/warriors-passkey.webp#right)
-
 
 This silver skeleton key is warm to the touch. While holding the key in its key form, you can use an action to cast the Knock spell from the key.
 

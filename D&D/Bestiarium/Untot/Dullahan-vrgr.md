@@ -1,15 +1,15 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/vrgr
-  - Monster/HG/10
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Untote
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Dullahan
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/10
+  - Monster/Typ/Untote
+  - Quelle/5e/vrgr
 aliases:
   - Dullahan
+linter-yaml-title-alias: Dullahan
 ---
 # [Dullahan](3-Mechanics\CLI\bestiary\undead/dullahan-vrgr.md)
 *Source: Van Richten's Guide to Ravenloft p. 233*  

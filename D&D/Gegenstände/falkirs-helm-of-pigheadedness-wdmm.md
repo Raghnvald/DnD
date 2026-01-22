@@ -1,17 +1,19 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: "Falkir's Helm of Pigheadedness"
 tags:
-  - Quelle/5e/wdmm
   - Gegenstand/Seltenheit/unbekannt/magic
   - Gegenstand/wundersam/other
+  - Quelle/5e/wdmm
 aliases:
+  - "Falkir's Helm of Pigheadedness"
   - Falkir's Helm of Pigheadedness
+linter-yaml-title-alias: "Falkir's Helm of Pigheadedness"
+obsidianUIMode: preview
 ---
 # Falkir's Helm of Pigheadedness
 *Other, cursed item*  
-
 
 - **Properties**: Cursed
 

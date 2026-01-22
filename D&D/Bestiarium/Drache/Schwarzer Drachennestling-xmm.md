@@ -1,22 +1,22 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/2
-  - Monster/Habitat/Sumpf
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Drache/chromatic
 statblock: inline
 statblock-link: "#^statblock"
-aliases:
-  - Black Dragon Wyrmling
+Bezeichnung: Black Dragon Wyrmling
 Typ: Drache (Chromatisch)
 Größe: Mittelgroß
 HG: 2
 Habitat:
   - Sumpf
 status: WIP
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Sumpf
+  - Monster/HG/2
+  - Monster/Typ/Drache/chromatic
+  - Quelle/5e/xmm
+aliases:
+  - Black Dragon Wyrmling
+linter-yaml-title-alias: Black Dragon Wyrmling
 ---
 # [Black Dragon Wyrmling](3-Mechanics\CLI\bestiary\dragon/black-dragon-wyrmling-xmm.md)
 *Source: Monster Manual (2024) p. 38. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

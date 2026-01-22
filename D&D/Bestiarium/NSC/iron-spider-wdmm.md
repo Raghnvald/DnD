@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/wdmm
-  - Monster/HG/
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Konstrukt
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Iron Spider
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/
+  - Monster/Typ/Konstrukt
+  - Quelle/5e/wdmm
 aliases:
   - Iron Spider
+linter-yaml-title-alias: Iron Spider
 ---
 # [Iron Spider](3-Mechanics\CLI\bestiary\npc/iron-spider-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 165*  

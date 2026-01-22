@@ -6,8 +6,8 @@ tags:
   - Gegenstand/Seltenheit/gewöhnlich
   - Quelle/5e/xdmg
 aliases:
-  - Cloak of Billowing
   - "Cloak of Billowing"
+  - Cloak of Billowing
 linter-yaml-title-alias: Cloak of Billowing
 obsidianUIMode: preview
 ---

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Nine Lives Stealer
+Typ: Nahkampf-Kriegswaffe
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten

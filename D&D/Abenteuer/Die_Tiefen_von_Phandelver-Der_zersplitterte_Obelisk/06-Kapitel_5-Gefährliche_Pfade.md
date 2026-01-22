@@ -66,9 +66,9 @@ $\quad$Harbin erzählt den Charakteren Folgendes:
 
 Harbin erkläft, dass das Dorf in der Abwesenheit der Charaktere von einer Reihe von Verbrechen heimgesucht wurde. Augenzeugen zufolge handelt es sich bei den Tätern wahrscheinlich um Goblins. Die Verbrechen haben zu Unruhen unter den Dörflern geführt, die von Harbin verlangen, Maßnahmen zum Schutz von Phandalin zu ergreifen. Harbin ist jedoch weder Ermittler noch Gesetzeshüter und ist von der Garstigkeit der Bevölkerung überwältigt. 
 
-$\quad$Er bittet die Charaktere, die vier Tatorte zu untersuchen, den Opfern so weit wie möglich zu helfen und einen Weg zu finden, die Täter endgültig zu stoppen. Außerdem behaupteter, es bereits selbst versucht zu haben, er könne jedoch nicht mit den zahlreichen Vorfällen Schritt halten. Ein erfolgreicher `SG-12-Weisheitswurf (Motiv erkennen)` offenbart jedoch, dass Harbin die Nachforschungen den Charakteren aufhalsen will, weil er zu viel Angst hat. 
+$\quad$Er bittet die Charaktere, die vier Tatorte zu untersuchen, den Opfern so weit wie möglich zu helfen und einen Weg zu finden, die Täter endgültig zu stoppen. Außerdem behaupteter, es bereits selbst versucht zu haben, er könne jedoch nicht mit den zahlreichen Vorfällen Schritt halten. Ein erfolgreicher `SG-12-Weisheitswurf` ([[01-Spielleiter/Fertigkeiten-phb#Motiv erkennen|Motiv erkennen]]) offenbart jedoch, dass Harbin die Nachforschungen den Charakteren aufhalsen will, weil er zu viel Angst hat. 
 
-$\quad$Harbin bietet jedem Charakter 50 GM im Voraus an und verspricht, jedem von ihnen nach Abschluss der Ermittlungen weitere 150 GM zu zahlen. Wenn ein Charakter Harbins Angst als Druckmittel nutzt und einen `SG-11-Charismawurf (Einschüchtern oder Überzeugen)` besteht, verdoppelt Harbin die Belohnung: jeweils 100 GM im Voraus und jeweils 300 GM nach Abschluss der Ermittlungen. 
+$\quad$Harbin bietet jedem Charakter 50 GM im Voraus an und verspricht, jedem von ihnen nach Abschluss der Ermittlungen weitere 150 GM zu zahlen. Wenn ein Charakter Harbins Angst als Druckmittel nutzt und einen `SG-11-Charismawurf` ([[01-Spielleiter/Fertigkeiten-phb#Einschüchtern|Einschüchtern]] oder [[01-Spielleiter/Fertigkeiten-phb#Überzeugen|Überzeugen]]) besteht, verdoppelt Harbin die Belohnung: jeweils 100 GM im Voraus und jeweils 300 GM nach Abschluss der Ermittlungen. 
 
 ### Verbrechen und Chaos
 
@@ -93,7 +93,7 @@ Während die Charaktere in Phandalin Untersuchungen anstellen, treffen sie mögl
 | d20   | Schabernack                                                                                                                                                                                                                                                           |
 | ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1     | Ein [[Goblin-Psi-Befehlshaber-pabtso\|Goblin-Psi-Befehlshaber]] entzündet rund um den Erlenblatt-Hofkleine Feuer, die drohen, die Ernte in Brand zu setzen.                                                                                                           |
-| 2     | Vier [[Goblin-mm\|Goblins]] umzingeln eine ältere Menschenfrau und versuchen, ihre Geldbörse zu stehlen. Die Frau (verwende den Wertekasten für [[Gemeiner\|Gemeine]]) kämpft aggressiv gegen die Goblins.                                                            |
+| 2     | Vier [[Goblin-mm\|Goblins]] umzingeln eine ältere Menschenfrau und versuchen, ihre Geldbörse zu stehlen. Die Frau (verwende den Wertekasten für [[Gemeiner-mm\|Gemeine]]) kämpft aggressiv gegen die Goblins.                                                            |
 | 3     | Drei [[Goblin-mm\|Goblins]] haben eine [[Ziege-mm\|Ziege]] gestohlen und versuchen, mit ihr wegzulaufen. Die [[Ziege-mm\|Ziege]] weigert sich jedoch.                                                                                                                 |
 | 4     | Zwei [[Goblin-Psi-Raufbold-pabtso\|Goblin-Psi-Raufbolde]] verstecken sich in den Bäumen des EdermathObstgartens. Die Goblins nutzen ihre Telepathie, um sich als Geister auszugeben und andere abzuschrecken, damit sie ungestört Äpfel stehlen können.               |
 | 5     | Fünf [[Goblin-mm\|Goblins]] werfen aus der Gasse hinter dem Gasthaus Steinhügel Abfall auf Passanten.                                                                                                                                                                 |
@@ -131,7 +131,7 @@ Gwyn ist neu in der Stadt und fühlt sich etwas verloren. Sie bittet Abenteurerg
 
 #### Gwyn Erzsang
 
-Gwyn ist eine neutral gute Zwerg-[[Akolyth|Akolythin]] aus der Stadt Niewinter. Sie ist ein paar Monate in Phandalin zu Besuch, um Zeit mit ihrer Schwester Eisa zu verbringen, die als Wirtin im Gasthaus arbeitet, und um Feldforschung in der Umgebung zu betreiben.
+Gwyn ist eine neutral gute Zwerg-[[Akolyth-mm|Akolythin]] aus der Stadt Niewinter. Sie ist ein paar Monate in Phandalin zu Besuch, um Zeit mit ihrer Schwester Eisa zu verbringen, die als Wirtin im Gasthaus arbeitet, und um Feldforschung in der Umgebung zu betreiben.
 
 $\quad$Gwyn hat von ihrer Schwester von den Verbrechen gehört und erkennt die Charaktere als die Gruppe, die den Untaten ein Ende setzen soll. Obwohl sie zugibt, dass sie im Kampf gegen Vandalen nicht viel ausrichten kann, bietet Gwyn der Gruppe ihre Hilfe an. Wenn ihr die Charaktere Hinweise bringen, kann sie ihnen bei der Aufklärung der Verbrechen helfen.
 
@@ -156,120 +156,120 @@ $\quad$Wenn die Charaktere bereit sind, können sie Gwyns Anweisungen folgen und
 
 Die Goblins haben die folgenden Verbrechen begangen, um die Obeliskensplitter zu bergen. All diese Vorfälle ereigneten sich in den letzten Tagen. Du kannst den genauen Zeitplan an deine Kampagne anpassen, aber jeder dieser Vorfälle sollte vor Kurzem stattgefunden haben, als die Charaktere nicht im Dorf waren.
 
-### Barthen's Well
+### Barthens Brunnen
 
-The well the goblins vandalized is located behind Barthen's Provisions. Years ago, the well was built using material scavenged from the nearby area—including an obelisk shard, which was used as the drum for the well's winch.
+Der Brunnen, den die [[Goblin-mm|Goblins]] zerstört haben, befindet sich hinter Barthens Proviant. Vor Jahren wurde der Brunnen mit Material aus der näheren Umgebung gebaut - darunter ein Obeliskensplitter, der als Trommel für die Seilwinde des Brunnens diente. 
 
-Recently, goblins came during the night to retrieve the obelisk shard, destroying the well in the process. But their raid was interrupted by Ander, one of Barthen's clerks. The goblins fled with the shard, jumping into the well and caving in a tunnel so they couldn't be followed to Zorzula's Rest. This escape, however, not only dammed the underground river that provided the well with its water but also awoke a grumpy otyugh that was feasting on refuse beneath the town.
+Vor Kurzem kamen in der Nacht [[Goblin-mm|Goblins]], um den Obeliskensplitter zu stehlen, und zerstörten dabei den Brunnen. Ihr Überfall wurde jedoch von Ander unterbrochen, einem von Barthens Angestellten. Die [[Goblin-mm|Goblins]] flohen mit dem Splitter, sprangen in den Brunnen und brachten einen Tunnel zum Einsturz, so dass sie niemand nach Zorzulas Ruh verfolgen kann. Diese Flucht staute jedoch nicht nur den unterirdischen Fluss, der den Brunnen mit Wasser versorgt, sondern weckte auch einen mürrischen [[Otyugh-mm|Otyugh]], der sich unter der Stadt an Abfall labt. 
 
-#### Crime Scene
+#### Tatort
 
-When the characters investigate this crime scene, read the following:
+Lies folgenden Text vor, wenn die Charaktere diesen Tatort untersuchen: 
 
 > [!readaloud] 
 > 
-> The modest red-brick well behind Barthen's Provisions is dilapidated and crumbling. The well's walls are toppled over. Chunks of brick and stone litter the nearby grass, and the well's roof is splintered and caved in. The well's winch and pulley have been smashed to pieces.
+> Der bescheidene Brunnen aus rotem Backstein hinter Barthens Proviant ist marode und baufällig. Sein oberirdischen Wände sind umgekippt, Ziegel- und Steinbrocken liegen im Gras um den Brunnen und sein Dach ist zersplittert und eingestürzt. Die Seilwinde und der Flaschenzug des Brunnens wurden in Stücke geschlagen. 
 ^1a7
 
-A character who inspects the well can make a DC 15 Intelligence ([Investigation](D&D/3-Mechanics/CLI/Fertigkeiten-phb.md#Investigation)) check. On a successful check, the character realizes that while most of the mechanism could be reassembled from the remaining pieces, the winch's drum is missing.
+Ein Charakter, der den Brunnen untersucht, kann einen SG-15-Intelligenzwurf  ([Investigation](01-Spielleiter/Fertigkeiten-phb.md#Nachforschun)) ausführen. Bei einem Erfolg stellt der Charakter fest, dass der Hauptteil des Mechanismus aus den verbleibenden Teilen repariert werden kann, jedoch die Trommel der Seilwinde fehlt. 
 
-Characters who have a passive Wisdom ([Perception](D&D/3-Mechanics/CLI/Fertigkeiten-phb.md#Perception)) score of 15 or higher also hear a low, gurgling growl coming from the well. A character who succeeds on a DC 17 Intelligence ([Nature](D&D/3-Mechanics/CLI/Fertigkeiten-phb.md#Nature)) check concludes that this growl is most likely coming from an irritated creature.
+Charaktere mit einem passiven Weisheitswert ([[01-Spielleiter/Fertigkeiten-phb.md#Wahrnehmung|Wahrnehmung]]) von mindestens `15` hören zudem ein leises, gurgelndes Knurren aus dem Brunnen. Ein Charakter, der einen erfolgreichen `SG-17-Intelligenzwurf` ([[01-Spielleiter/Fertigkeiten-phb.md#Naturkunde|Naturkunde]]) besteht, kommt zu dem Schluss, dass dieses Knurren wahrscheinlich von einer gereizten Kreatur stammt. 
 
-#### Talking to Ander
+#### Mit Ander sprechen
 
-Ander is a wide-eyed, fast-talking, teenage halfling [commoner](Gemeiner-xmm.md) who works as one of Barthen's clerks. He was taking stock of the store when the goblins destroyed the well. Ander is waiting at Barthen's Provisions to talk with the characters when they arrive. He reveals the following information:
+Ander ist ein blauäugiger, schnell sprechender halbwüchsiger Halbling ([[Gemeiner-mm|Gemeiner]]) und arbeitet als einer von Bartens Angestellten. Er befand sich gerade im Laden, als die Goblins den Brunnen zerstörten. Ander wartet bei Barthens Proviant, um bei ihrer Ankunft mit den Charakteren zu sprechen. Er gibt folgende Informationen preis: 
 
 ![Goblins destroyed Barthen'...](D&D/Abenteuer/Die_Tiefen_von_Phandelver-Der_zersplitterte_Obelisk/img/058-05-004-barthens-well.webp#center "Goblins destroyed Barthen's Well when they stole an obelisk shard from the winch")
 
-- **Base of Operations.** When Ander chased them off, he heard one of the vandals shout, "Hurry! Back to the Rest!" The vandals then jumped into the well to flee underground.  
-- **Description.** Ander describes the vandals as "strange folk, bit bigger than me, with long flat ears, big heads, and hands that glowed with strange magic."  
-- **Dry Well.** Since the attack, the well has been dry. Ander suspects the vandals dammed the well's water source during their escape.  
-- **Strange Behavior.** The vandals arrived at sundown. Strangely, they didn't go after any of the store's stock; instead, they immediately began destroying the well.  
+- **Operationsbasis:** Als Ander sie verjagte, rief einer von ihnen: ,,Schnell! Zurück zur Ruh!" Anschließend sprangen die Vandalen in den Brunnen und flüchteten unter die Erde. 
+- **Beschreibung:** Ander beschreibt die Vandalen als „seltsam, etwas größer als ich, mit langen, flachen Ohren, großen Köpfen, und Händen, die vor merkwürdiger Magie glühten."
+- **Trockener Brunnen:** Seit dem Angriff ist der Brunnen trocken. Ander vermutet, dass die Vandalen bei ihrer Flucht die Wasserquelle des Brunnens blockiert haben.
+- **Merkwürdiges Verhalten:** Die Vandalen kamen bei Sonnenuntergang. Seltsamerweise waren sie nicht hinter dem Lager des Ladens her. Stattdessen begannen sie sofort damit, den Brunnen zu zerstören. 
 
-##### The Clue
+##### Der Hinweis
 
-The goblins' comment about retreating to "the Rest" is a clue that could help the characters or [Gwyn Oresong](Gwyn_Erzsang-pabtso.md) determine the name of the goblins' outpost.
+Der Kommentar der Goblins über ihren Rückzug zur „Ruh" ist ein Hinweis und kann den Charakteren oder [[Gwyn_Erzsang-pabtso|Gwyn Erzsang]] dabei helfen, den Namen des Goblin-Außenpostens zu ermitteln. 
 
-##### Helping Ander
+##### Ander helfen
 
-Ander mentions that Barthen hopes the party will restore the well's water source, but Ander seems unenthused by the idea. If a character succeeds on a DC 13 Charisma ([Persuasion](D&D/3-Mechanics/CLI/Fertigkeiten-phb.md#Persuasion)) check, Ander reveals that every time he's drawn water from the well, he's also had vivid nightmares. Ander believes the well is cursed with bad luck and is happy it's out of service.
+Laut Ander hofft Barthen, dass die Abenteurergruppe die Wasserquelle des Brunnens wiederherstellen wird, aber Ander scheint von der Idee nicht begeistert zu sein. Wenn ein Charakter einen `SG-13-Charismawurf` ([[01-Spielleiter/Fertigkeiten-phb.md#Überzeugen|Überzeugen]]) besteht, verrät Ander, dass er immer, wenn er Wasser aus dem Brunnen schöpft, an Albträumen leidet. Ander glaubt, dass der Brunnen mit einem Fluch belegt wurde und ist froh, dass er nicht mehr in Betrieb ist. 
 
-Unbeknownst to Ander, the water's ill effects were caused by the shard in the winch. These effects no longer plague the well now that the shard is gone.
+Ander weiß nicht, dass die negativen Auswirkungen durch den Splitter in der Seilwinde verursacht wurden. Nun, da der Splitter fort ist, ist der Brunnen nicht mehr davon beeinträchtigt. 
 
-#### Encounter: Well Cavern
+#### Begegnung: Brunnenhöhle
 
-Should the characters wish to pursue the goblins or investigate the source of the well's blockage, a character can use rope to climb down into the well with a successful DC 10 Strength ([Athletics](D&D/3-Mechanics/CLI/Fertigkeiten-phb.md#Athletics)) check. If the characters don't have rope, Ander lends them some from the store's stock. On a successful check, a character climbs the 20 feet into the cavern below the well (map 5.1). On a failed check, a character falls, takes 7 (`2d6`) bludgeoning damage, and has the [prone](conditions-xphb.md#Prone) condition.
+Falls die Charaktere die Verfolgung der [[Goblin-mm|Goblins]] aufnehmen oder die Ursache für den blockierten Brunnen untersuchen wollen, kann ein Charakter mit einem Seil und einem erfolgreichen SG-10-Stärkewurf ([[01-Spielleiter/Fertigkeiten-phb.md#Athletik|Athletik]]) in den Brunnen hinabklettern. Wenn die Charaktere kein Seil haben, leiht Ander ihnen eins aus dem Lager des Ladens. Bei einem Erfolg klettert ein Charakter sechs Meter tief in die Höhle unter dem Brunnen (Karte 5.1). Scheitert der Wurf, stürzt der Charakter ab, erleidet 7 (`2W6`) Wuchtschaden und wird [[Zustände-phb#Liegend|umgestoßen]]. 
 
 > [!gallery]
 > ![Map 5.1: Well Cavern](D&D/Abenteuer/Die_Tiefen_von_Phandelver-Der_zersplitterte_Obelisk/img/059-map-5-01-well-cavern.webp#gallery)
 > ![Player Version](D&D/Abenteuer/Die_Tiefen_von_Phandelver-Der_zersplitterte_Obelisk/img/060-map-5-01-well-cavern-player.webp#gallery)
 
-When a character enters the cavern below the well, read or paraphrase the following:
+Lies die folgende Beschreibung vor oder formuliere sie frei, wenn ein Charakter die Höhle unter dem Brunnen betritt: 
 
 > [!readaloud] 
 > 
-> The smell of damp earth, tinged with acrid rot, fills your nose. What looks like the remains of an underground river snakes through this cavern, though a pile of dark rocks blocks its headstream. In the far corner is the source of that scent: a pile of carrion and sewage being dragged by a fleshy, three-legged creature.
+> Der Geruch feuchter Erde und beißender Fäulnis steigt dir in die Nase. Die Überreste eines unterirdischen Flusses schlängeln sich durch diese Höhle, wobei ein Haufen dunkler Steine den Quellfluss blockiert. In der hinteren Ecke befindet sich die Quelle dieses Geruchs: ein Haufen Aas und Abwasser, den eine fleischige, dreibeinige Kreatur hinter sich her zieht. 
 ^1ac
 
-An [otyugh](3-Mechanics/CLI/bestiary/aberration/otyugh-xmm.md) lurks in the cavern, feasting on a pile of trash it has gathered from the town above. A falling character immediately attracts the otyugh's attention; otherwise, a character must succeed on a DC 11 Dexterity ([Stealth](D&D/3-Mechanics/CLI/Fertigkeiten-phb.md#Stealth)) check to avoid the otyugh's notice. The otyugh is hostile to any creature it sees.
+In der Höhle lauert ein [[Otyugh-mm|Otyugh]] und labt sich an Abfall, den er aus dem Dorf an der Oberfläche gesammelt hat. Ein stürzender Charakter erregt sofort die Aufmerksamkeit des Otyugh. Andernfalls muss ein Charakter einen `SG-11-Geschicklichkeitswurf` ([[01-Spielleiter/Fertigkeiten-phb#Heimlichkeit|Heimlichkeit]]) bestehen, um unbemerkt zu bleiben. Der [[Otyugh-mm|Otyugh]] ist jeder Kreatur, die er sieht, feindlich gesinnt. 
 
-##### Cave-In
+##### Einsturz
 
-It takes 1 hour for a character to dig out the tunnel. If more characters help, the time it takes to dig out the tunnel decreases by 10 minutes per character, to a minimum of 10 minutes total.
+Ein Charakter braucht eine Stunde, um den Tunnel freizulegen. Helfen mehrere Charaktere, verringert sich die Zeit um zehn Minuten pro Charakter, bis auf mindestens zehn Minuten. 
 
-The cleared northern tunnel leads eastward to a mountainous outcropping near Zorzula's Rest, though the mining outpost itself isn't visible from the exit of the tunnel. At your discretion, the characters could enter Zorzula's Rest from this point, though they should investigate additional crime scenes first.
+Der freigeräumte nördliche Tunnel führt nach Osten zu einem Bergvorsprung in der Nähe von Zorzulas Ruh. Der Minenaußenposten selbst ist jedoch nicht vom Ausgang des Tunnels sichtbar. Nach deinem Ermessen können die Charaktere ab diesem Zeitpunkt Zorzulas Ruh betreten, allerdings sollten sie zunächst weitere Tatorte untersuchen. 
 
-### Miner's Exchange
+### Minenbörse 
 
-During initial construction of the Miner's Exchange, the miners of Phandalin embedded a sparkling shard of obsidian into the building's ceremonial cornerstone. Unbeknownst to them, this shard is part of the obelisk the Sawplee goblins seek. A few days ago, goblins used crude mining supplies stolen from the Miner's Exchange to hack the shard from the cornerstone, damaging the building's integrity. Now, the Miner's Exchange leans precariously, and members of the guild are desperate to repair it.
+Während der Errichtung der Minenbörse haben die Bergleute von Phandalin einen funkelnden Obsidiansplitter in den zeremoniellen Eckstein des Gebäudes eingebettet. Niemand weiß, dass dieser Splitter zum Obelisken gehört, nach dem die Sägezank-Goblins suchen. Vor ein paar Tagen hackten Goblins mit Werkzeugen, die sie aus der Minenbörse gestohlen hatten, den Splitter aus dem Eckstein und beschädigten so die Integrität des Gebäudes.Jetzt befindet sich die Minenbörse in einer gefährlichen Schieflage und die Mitglieder der Gilde versuchen verzweifelt, sie zu reparieren. 
 
-#### Crime Scene
+#### Tatort
 
-When the characters investigate this crime scene, read the following:
+Lies folgenden Text vor, wenn die Charaktere diesen Tatort untersuchen: 
 
 > [!readaloud] 
 > 
-> You hear the snapping of wood beams and grinding of stone as you near the Miner's Exchange, quickly followed by panicked shouts. The structure slants precariously as miners clamber around the building's foundation. Standing to one side is Guild Master Halia, her expression tense as she barks orders.
+> Als ihr euch der Minenbörse nähert, hört ihr das Knacken von Holzbalken und das Knirschen von Steinen, gefolgt von panischen Rufen. Die Struktur neigt sich gefährlich, während Bergleute um das Fundament des Gebäudes herumklettern. Daneben steht Gildenmeisterin Halia. Sie wirkt angespannt, während sie Befehle erteilt. 
 ^1b0
 
-Guild Master Halia Thornton leads the building repair efforts. If a character attempts to talk with Halia, the guild master says tersely that she'll be happy to talk after she's certain the building won't collapse.
+Gildenmeisterin Halia Domklafter leitet die Reparaturarbeiten am Gebäude. Wenn ein Charakter versucht, mit Halia zu sprechen, antwortet die Gildenmeisterin knapp, dass sie zuerst sicherstellen muss, dass das Gebäude nicht einstürzt. 
 
 ![The destruction of the cor...](D&D/Abenteuer/Die_Tiefen_von_Phandelver-Der_zersplitterte_Obelisk/img/061-05-005-miners-exchange-cornerstone.webp#center "The destruction of the cornerstone weakened the foundation of the Miner's Exchange")
 
-##### Repairing the Building
+##### Das Gebäude reparieren
 
-Any of the characters can help repair the Miner's Exchange. A character can help hold up the building's bulk, pass materials to the skilled masons repairing the structure, or use the materials to repair the damage. Each character helping must make a single DC 12 Strength check or DC 12 Dexterity check, whichever is appropriate. A character who attempts either check who also has proficiency in a relevant set of [artisan's tools](0-Handwerkszeug-xphb.md) (such as [mason's tools](Gegenstände/masons-tools-xphb.md)) has advantage on their check.
+Charaktere können bei der Reparatur der Minenbörse helfen. Ein Charakter kann das Gebäude stützen, den erfahrenen Steinmetzen Material reichen, damit sie die Struktur reparieren können, oder die Materialien zur Reparatur des Schadens verwenden.Jeder helfende Charakter muss je nach Situation einen `SG-12-Stärkewurf` oder einen `SG-12-Geschicklichkeitswurf` ausführen. Charaktere, die einen der beiden Würfe ausführen und zudem im Umgang mit entsprechendem [[0-Handwerkszeug-phb|Handwerkszeug]] - etwa mit [[Gegenstände/masons-tools|Maurerwerkzeug]] - geübt sind, sind bei dem Wurf im Vorteil. 
 
-As long as the characters make at least two successful checks, they help finish the repairs. If they don't, Halia grows frustrated. She chides the characters for getting in the way. Halia tells them not to bother her again until the miners are finished repairing the building.
+Sofern die Charaktere mindestens zwei Würfe bestehen, helfen sie dabei, die Reparaturen abzuschließen. Andernfalls wird Halia immer frustrierter. Sie schimpft mit den Charakteren, weil sie im Weg stehen, und weist sie an, sie nicht mehr zu belästigen, bis die Bergleute die Reparatur des Gebäudes abgeschlossen haben. 
 
-Alternatively, the characters can choose to help with the repair efforts in unconventional ways, using whatever magic or tools are at their disposal. Feel free to adjudicate these unconventional repair efforts as you see fit.
+Alternativ können die Charaktere auch auf unkonventionelle Weise bei der Reparatur helfen, indem sie ihnen zur Verfügung stehende Magie oder Werkzeuge verwenden. Du kannst bestimmen, wie diese unkonventionelle Reparatur aussehen soll. 
 
-#### Talking to Halia
+#### Mit Halia sprechen
 
-Once the Miner's Exchange has been repaired, Halia tells the characters what occurred. She gives them the following pieces of information:
+Sobald die Minenbörse repariert wurde, erzählt Halia den Charakteren, was passiert ist. Sie gibt ihnen folgende Informationen: 
 
-- **Lone Witness.** One evening, a group of goblins attacked the Miner's Exchange. Halia was the only one at the trading post at the time, as the rest of the guild members were drinking at the Sleeping Giant.  
-- **Stolen Stone.** Halia fought off the goblins to the best of her ability, but she couldn't stop them from taking a piece of the building's cornerstone.  
-- **Swapping Blows.** Halia was injured in the scuffle, so she couldn't pursue the goblins farther. She knows she hurt a few of the goblins badly, so they couldn't have gotten far.  
-- **Strange Magic.** During the fight, Halia swears one of the goblins pushed her with some kind of magical, invisible force.  
+- **Nur eine Zeugin:** Eines Abends griff eine Gruppe Goblins die Minenbörse an. Halia war zu dieser Zeit allein im Handelsposten, während sich die übrigen Gildenmitglieder im Schlafenden Riesen vergnügten.
+- **Gestohlener Stein:** Halia wehrte die Kobolde mit aller Kraft ab, konnte sie jedoch nicht davon abhalten, ein Stück des Ecksteins des Gebäudes zu stehlen.  
+- **Handgemenge** Halia wurde bei der Rauferei verletzt und konnte die Goblins nicht weiter verfolgen. Sie hat jedoch ein paar Goblins schwer verletzt, sodass sie nicht weit gekommen sein können. 
+- **Seltsame Magie:** Halia schwört, dass einer der Goblins sie während des Kampfes mit einer unsichtbaren Magie umgestoßen hat. 
 
-##### Following the Goblins
+##### Den Goblins folgen
 
-Halia has no idea why the goblins were interested in the building's cornerstone; she knows only that a strange "lucky stone" embedded into it is now missing.
+Halia hat keine Ahnung, warum die Goblins Interesse am Eckstein des Gebäudes haben. Sie weiß nur, dass ein darin eingebetteter, seltsamer ,,Glücksstein" jetzt fort ist. 
 
-If asked where the goblins fled, Halia points the characters toward the woods south of Phandalin.
+Auf die Frage, wohin die Goblins geflohen sind, weist Halia die Charaktere auf den Wald südlich von Phandalin. 
 
-#### Encounter: Goblin Camp
+#### Begegnung: Goblin-Lager
 
-The goblins that attacked the Miner's Exchange are camping in a clearing about an hour's walk from Phandalin. The uninjured goblins returned to Zorzula's Rest with the shard in tow, while the others stayed at the camp to patch themselves up.
+Die Goblins, die für den Angriff auf Minenbörse verantwortlich sind, haben ihr Lager auf einer Lichtung etwa eine Stunde Fußweg von Phandalin entfernt aufgeschlagen. Die unverletzten Goblins kehrten mit dem Splitter nach Zorzulas Ruh zurück, während die anderen im Lager zurückblieben, um ihre Wunden zu versorgen. 
 
 ![Map 5.2: Goblin Camp](D&D/Abenteuer/Die_Tiefen_von_Phandelver-Der_zersplitterte_Obelisk/img/062-05-006-map502-goblin-camp.webp#center)
 
-The makeshift camp, shown on map 5.2, consists of a few tents and a small fire. The camp is situated in the center of a small clearing. As the characters approach the camp, they overhear one of the goblins complaining about their leader in Common:
+Das behelfsmäßige Lager (siehe Karte 5.2) besteht aus ein paar Zelten und einem kleinen Feuer. Es befindet sich in der Mitte einer kleinen Lichtung. Wenn sich die Charaktere dem Lager nähern, hören sie, wie sich einer der Goblins in Gemeinsprache über ihren Anführer beschwert: 
 
 > [!readaloud] 
 > 
-> "Hope the others made it back, else Ruxithid's gonna have our heads!"
+> "Ich hoffe, die anderen haben es zurückgeschafft, sonst holt sich Ruxithid unsere Köpfe!"
 ^1b5
 
 Currently, three [goblin psi brawlers](Goblin-Psi-Raufbold-pabtso.md) remain at the camp. A character can avoid the goblins' notice by succeeding on a DC 16 Dexterity ([Stealth](D&D/3-Mechanics/CLI/Fertigkeiten-phb.md#Stealth)) check. Otherwise, the hostile goblins detect any creature that enters their camp. If one of the goblins is killed, the others try to surrender.

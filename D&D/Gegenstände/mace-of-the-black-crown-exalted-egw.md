@@ -1,15 +1,18 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Mace of the Black Crown (Exalted)
+Typ: Einfache Nahkampfwaffe
 tags:
-  - Quelle/5e/egw
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/Artefakt
-  - Gegenstand/Waffe/Nahkampf
   - Gegenstand/Waffe/Einfach
+  - Gegenstand/Waffe/Nahkampf
+  - Quelle/5e/egw
 aliases:
   - Mace of the Black Crown (Exalted)
+linter-yaml-title-alias: Mace of the Black Crown (Exalted)
+obsidianUIMode: preview
 ---
 # Mace of the Black Crown (Exalted)
 *Weapon ([mace](/3-Mechanics/CLI/items/mace-xphb.md)), artifact (requires attunement)*  

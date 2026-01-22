@@ -1,18 +1,19 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Deck of Dimensions
 tags:
-  - Quelle/5e/bmt
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
+  - Quelle/5e/bmt
 aliases:
   - Deck of Dimensions
+linter-yaml-title-alias: Deck of Dimensions
+obsidianUIMode: preview
 ---
 # Deck of Dimensions
 *Wondrous item, very rare (requires attunement)*  
 ![](/3-Mechanics/CLI/items/img/deck-of-dimensions.webp#right)
-
 
 The backs of the cards in this deck are decorated with intricate designs representing different planes of existence. The deck has 6 charges. While holding it, you can expend 1 or more of its charges to use the following properties:
 

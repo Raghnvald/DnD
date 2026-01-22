@@ -2,13 +2,14 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Chain Mail
+Rüstung: Schwer
 tags:
   - Gegenstand/Rüstung/Schwer
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Chain Mail
   - "Chain Mail"
+  - Chain Mail
 linter-yaml-title-alias: Chain Mail
 obsidianUIMode: preview
 ---

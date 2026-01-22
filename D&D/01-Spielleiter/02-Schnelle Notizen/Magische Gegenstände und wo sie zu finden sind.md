@@ -17,7 +17,7 @@ Du erhältst einen Bonus von +3 auf Angriffs- und Schadenswürfe, die mit dieser
 - [Rute der Absorption](../../05%20-%20Wikipedia/Gegenstände/rod-of-absorption.md)
 - [Ring des Schutzes](../../05%20-%20Wikipedia/Gegenstände/Ring-des-Schutzes.md)
 - [Umhang des Schutzes](Umhang%20des%20Schutzes.md)
-- [[Schild des Silbernen Drachen]]
+- [[Schild des Silbernen Drachen-old]]
 
 Nach CoS eher ratlos für Belohnung. Eventuell [[quaals-feather-token-tree]]? Mehrfach nutzbar?
 
@@ -26,7 +26,7 @@ Nach CoS eher ratlos für Belohnung. Eventuell [[quaals-feather-token-tree]]? Me
 
 # Astor
 - [Arcane Grimoire](Arcane-Grimoire)
-- [[Elfenrüstung]]
+- [[Elfenrüstung-old]]
 - [Verheerende Abhandlung](Fulminating-Treatise)
 - [[Zauberhut]]
 - [Robe des Erzmagiers](../../05%20-%20Wikipedia/Gegenstände/Robe-des-Erzmagiers.md)

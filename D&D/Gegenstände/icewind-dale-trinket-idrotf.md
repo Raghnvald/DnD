@@ -1,18 +1,19 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Icewind Dale Trinket
 tags:
-  - Quelle/5e/idrotf
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
+  - Quelle/5e/idrotf
 aliases:
   - Icewind Dale Trinket
+linter-yaml-title-alias: Icewind Dale Trinket
+obsidianUIMode: preview
 ---
 # Icewind Dale Trinket
 *Adventuring gear*  
 ![](/3-Mechanics/CLI/items/img/icewind-dale-trinket.webp#right)
-
 
 **Icewind Dale Trinkets**
 

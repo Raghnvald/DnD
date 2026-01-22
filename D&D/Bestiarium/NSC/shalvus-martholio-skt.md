@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/skt
-  - Monster/HG/
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/turami-human
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Shalvus Martholio
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/
+  - Monster/Typ/Humanoid/turami-human
+  - Quelle/5e/skt
 aliases:
   - Shalvus Martholio
+linter-yaml-title-alias: Shalvus Martholio
 ---
 # [Shalvus Martholio](3-Mechanics\CLI\bestiary\npc/shalvus-martholio-skt.md)
 *Source: Storm King's Thunder p. 250*  

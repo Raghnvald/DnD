@@ -7,8 +7,8 @@ tags:
   - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
-  - Kerze der Anrufung
   - Candle of Invocation
+  - Kerze der Anrufung
 linter-yaml-title-alias: Kerze der Anrufung
 ---
 # Kerze der Anrufung

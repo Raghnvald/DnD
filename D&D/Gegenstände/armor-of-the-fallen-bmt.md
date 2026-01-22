@@ -1,14 +1,15 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Armor of the Fallen
+Rüstung: Mittel oder Schwer
 tags:
-  - Quelle/5e/bmt
-  - Gegenstand/Rüstung/Schwer
-  - Gegenstand/Rüstung/Mittel
   - Gegenstand/Einstimmung/required
+  - Gegenstand/Rüstung/Mittel
+  - Gegenstand/Rüstung/Schwer
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/wundersam/generic-variant
+  - Quelle/5e/bmt
 aliases:
   - Armor of the Fallen
   - Breastplate of the Fallen
@@ -21,11 +22,12 @@ aliases:
   - Scale Mail of the Fallen
   - Spiked Armor of the Fallen
   - Splint Armor of the Fallen
+linter-yaml-title-alias: Armor of the Fallen
+obsidianUIMode: preview
 ---
 # Armor of the Fallen
 *Uncommon (requires attunement)*  
 ![](/3-Mechanics/CLI/items/img/armor-of-the-fallen.webp#right)
-
 
 While wearing this armor, you can use it to cast either Speak with Dead or Animate Dead. Once the armor has cast a spell in this way, it can't cast either spell until the next dawn.
 
@@ -102,6 +104,5 @@ Your soul keeps this armor together. If you die while you are attuned to the arm
 - **Strength**: Requires 15 STR.
 - **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
 - **Weight**: 60.0 lbs.
-
 
 *Source: The Book of Many Things p. 65*

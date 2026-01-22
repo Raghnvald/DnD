@@ -1,18 +1,15 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mm
-  - Monster/HG/6
-  - Monster/Habitat/Hügel
-  - Monster/Habitat/Berg
-  - Monster/Größe/Groß
-  - Monster/Typ/Drache
 statblock: inline
 statblock-link: "#^statblock"
-aliases:
-  - Wyvern
+Bezeichnung: Wyvern
 status: WIP
+tags:
+  - Monster/Größe/Groß
+  - Monster/Habitat/Berg
+  - Monster/Habitat/Hügel
+  - Monster/HG/6
+  - Monster/Typ/Drache
+  - Quelle/5e/mm
 ---
 # [Wyvern](3-Mechanics\CLI\bestiary\dragon/wyvern.md)
 *Source: Monster Manual p. 303. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  

@@ -6,8 +6,8 @@ tags:
   - Gegenstand/Seltenheit/gewöhnlich
   - Quelle/5e/xdmg
 aliases:
-  - Orb of Direction
   - "Orb of Direction"
+  - Orb of Direction
 linter-yaml-title-alias: Orb of Direction
 obsidianUIMode: preview
 ---

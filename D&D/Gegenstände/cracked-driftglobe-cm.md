@@ -1,16 +1,17 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Cracked Driftglobe
 tags:
-  - Quelle/5e/cm
   - Gegenstand/Seltenheit/ungewöhnlich
+  - Quelle/5e/cm
 aliases:
   - Cracked Driftglobe
+linter-yaml-title-alias: Cracked Driftglobe
+obsidianUIMode: preview
 ---
 # Cracked Driftglobe
 *Wondrous item, uncommon*  
-
 
 - **Weight**: 1.0 lbs.
 

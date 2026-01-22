@@ -1,19 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/vgm
-  - Monster/HG/2
-  - Monster/Habitat/Arktis
-  - Monster/Habitat/Stadt
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Drache
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: White Guard Drake
+status: WIP
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Arktis
+  - Monster/Habitat/Stadt
+  - Monster/HG/2
+  - Monster/Typ/Drache
+  - Quelle/5e/vgm
 aliases:
   - White Guard Drake
-status: WIP
+linter-yaml-title-alias: White Guard Drake
 ---
 # [White Guard Drake](3-Mechanics\CLI\bestiary\dragon/white-guard-drake-vgm.md)
 *Source: Volo's Guide to Monsters p. 158*  

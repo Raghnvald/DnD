@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/skt
-  - Monster/HG/0
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Riese
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Alastrah
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/0
+  - Monster/Typ/Riese
+  - Quelle/5e/skt
 aliases:
   - Alastrah
+linter-yaml-title-alias: Alastrah
 ---
 # [Alastrah](3-Mechanics\CLI\bestiary\npc/alastrah-skt.md)
 *Source: Storm King's Thunder p. 197*  

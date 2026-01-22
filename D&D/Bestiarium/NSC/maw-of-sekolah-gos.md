@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/gos
-  - Monster/HG/7
-  - Monster/Größe/Riesig
-  - Monster/Typ/Monstrosität
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Maw of Sekolah
+tags:
+  - Monster/Größe/Riesig
+  - Monster/HG/7
+  - Monster/Typ/Monstrosität
+  - Quelle/5e/gos
 aliases:
   - Maw of Sekolah
+linter-yaml-title-alias: Maw of Sekolah
 ---
 # [Maw of Sekolah](3-Mechanics\CLI\bestiary\npc/maw-of-sekolah-gos.md)
 *Source: Ghosts of Saltmarsh p. 244*  

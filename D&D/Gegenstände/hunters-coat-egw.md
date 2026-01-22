@@ -1,18 +1,21 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: "Hunter's Coat"
+Rüstung: Leicht
 tags:
-  - Quelle/5e/egw
-  - Gegenstand/Rüstung/Leicht
   - Gegenstand/Einstimmung/required
+  - Gegenstand/Rüstung/Leicht
   - Gegenstand/Seltenheit/sehr_selten
+  - Quelle/5e/egw
 aliases:
+  - "Hunter's Coat"
   - Hunter's Coat
+linter-yaml-title-alias: "Hunter's Coat"
+obsidianUIMode: preview
 ---
 # Hunter's Coat
 *Light armor ([leather armor](/3-Mechanics/CLI/items/leather-armor-xphb.md)), very rare (requires attunement)*  
-
 
 - **Armor Class**: 11 + Dex modifier
 - **Weight**: 10.0 lbs.

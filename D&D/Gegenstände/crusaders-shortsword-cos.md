@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: "Crusader's Shortsword"
+Typ: Nahkampf-Kriegswaffe
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/unbekannt/magic

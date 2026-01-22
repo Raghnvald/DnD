@@ -5,8 +5,8 @@ tags:
   - Gegenstand/Ausrüstung
   - Quelle/5e/phb
 aliases:
-  - Kreide (1 Stück)
   - Chalk (1 piece)
+  - Kreide (1 Stück)
 linter-yaml-title-alias: Kreide (1 Stück)
 ---
 # Kreide (1 Stück)

@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/veor
-  - Monster/HG/13
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Unhold
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Uvashar
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/13
+  - Monster/Typ/Unhold
+  - Quelle/5e/veor
 aliases:
   - Uvashar
+linter-yaml-title-alias: Uvashar
 ---
 # [Uvashar](3-Mechanics\CLI\bestiary\npc/uvashar-veor.md)
 *Source: Vecna: Eve of Ruin*  

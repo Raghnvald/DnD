@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/tftyp
-  - Monster/HG/8
-  - Monster/Größe/Riesig
-  - Monster/Typ/Riese
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Chief Nosnra
+tags:
+  - Monster/Größe/Riesig
+  - Monster/HG/8
+  - Monster/Typ/Riese
+  - Quelle/5e/tftyp
 aliases:
   - Chief Nosnra
+linter-yaml-title-alias: Chief Nosnra
 ---
 # [Chief Nosnra](3-Mechanics\CLI\bestiary\npc/chief-nosnra-tftyp.md)
 *Source: Tales from the Yawning Portal p. 170*  

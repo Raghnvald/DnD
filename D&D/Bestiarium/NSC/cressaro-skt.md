@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/skt
-  - Monster/HG/9
-  - Monster/Größe/Riesig
-  - Monster/Typ/Riese
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Cressaro
+tags:
+  - Monster/Größe/Riesig
+  - Monster/HG/9
+  - Monster/Typ/Riese
+  - Quelle/5e/skt
 aliases:
   - Cressaro
+linter-yaml-title-alias: Cressaro
 ---
 # [Cressaro](3-Mechanics\CLI\bestiary\npc/cressaro-skt.md)
 *Source: Storm King's Thunder p. 193*  

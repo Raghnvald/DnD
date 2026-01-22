@@ -1,16 +1,16 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/bmt
-  - Monster/HG/9
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Untote
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: "Gremorly's Ghost"
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/9
+  - Monster/Typ/Untote
+  - Quelle/5e/bmt
 aliases:
+  - "Gremorly's Ghost"
   - Gremorly's Ghost
+linter-yaml-title-alias: "Gremorly's Ghost"
 ---
 # [Gremorly's Ghost](3-Mechanics\CLI\bestiary\undead/gremorlys-ghost-bmt.md)
 *Source: The Book of Many Things p. 122*  

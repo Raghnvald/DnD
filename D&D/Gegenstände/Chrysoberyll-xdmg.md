@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Chrysoberyl
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone
@@ -9,7 +7,6 @@ tags:
 aliases:
   - Chrysoberyl
 linter-yaml-title-alias: Chrysoberyl
-obsidianUIMode: preview
 ---
 # Chrysoberyl
 *Treasure (gemstone)*  

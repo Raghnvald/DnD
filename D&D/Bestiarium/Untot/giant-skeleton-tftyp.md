@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/tftyp
-  - Monster/HG/7
-  - Monster/Größe/Riesig
-  - Monster/Typ/Untote
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Giant Skeleton
+tags:
+  - Monster/Größe/Riesig
+  - Monster/HG/7
+  - Monster/Typ/Untote
+  - Quelle/5e/tftyp
 aliases:
   - Giant Skeleton
+linter-yaml-title-alias: Giant Skeleton
 ---
 # [Giant Skeleton](3-Mechanics\CLI\bestiary\undead/giant-skeleton-tftyp.md)
 *Source: Tales from the Yawning Portal p. 236*  

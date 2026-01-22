@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/wdh
-  - Monster/HG/1-4
-  - Monster/Größe/Groß
-  - Monster/Typ/Tier
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Maxeene
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/1-4
+  - Monster/Typ/Tier
+  - Quelle/5e/wdh
 aliases:
   - Maxeene
+linter-yaml-title-alias: Maxeene
 ---
 # [Maxeene](3-Mechanics\CLI\bestiary\npc/maxeene-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 37*  

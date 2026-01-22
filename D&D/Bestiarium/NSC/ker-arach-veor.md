@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/veor
-  - Monster/HG/11
-  - Monster/Größe/Riesig
-  - Monster/Typ/Monstrosität
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Ker-arach
+tags:
+  - Monster/Größe/Riesig
+  - Monster/HG/11
+  - Monster/Typ/Monstrosität
+  - Quelle/5e/veor
 aliases:
   - Ker-arach
+linter-yaml-title-alias: Ker-arach
 ---
 # [Ker-arach](3-Mechanics\CLI\bestiary\npc/ker-arach-veor.md)
 *Source: Vecna: Eve of Ruin*  

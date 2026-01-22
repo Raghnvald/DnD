@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/egw
-  - Monster/HG/23
-  - Monster/Größe/Gigantisch
-  - Monster/Typ/Drache
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Karkethzerethzerus, the Sable Despoiler
+tags:
+  - Monster/Größe/Gigantisch
+  - Monster/HG/23
+  - Monster/Typ/Drache
+  - Quelle/5e/egw
 aliases:
   - Karkethzerethzerus, the Sable Despoiler
+linter-yaml-title-alias: Karkethzerethzerus, the Sable Despoiler
 ---
 # [Karkethzerethzerus, the Sable Despoiler](3-Mechanics\CLI\bestiary\npc/karkethzerethzerus-the-sable-despoiler-egw.md)
 *Source: Explorer's Guide to Wildemount p. 158*  

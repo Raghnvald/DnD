@@ -1,17 +1,18 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Mirror of Infinite Transpondence
 tags:
-  - Quelle/5e/tdcsr
   - Gegenstand/Seltenheit/sehr_selten
+  - Quelle/5e/tdcsr
 aliases:
   - Mirror of Infinite Transpondence
+linter-yaml-title-alias: Mirror of Infinite Transpondence
+obsidianUIMode: preview
 ---
 # Mirror of Infinite Transpondence
 *Wondrous item, very rare*  
 ![Mirror of Infinite Transpo...](/3-Mechanics/CLI/items/img/mirrortranspondence.webp#right "Mirror of Infinite Transpondence: a silver, handheld mirror with intricate designs all around. A face is carved at the top of the handle, and an eye at the top of the mirror. Inside the mirror is a picture of a stone tower with a wind-torn cloth peak.")
-
 
 These silver hand mirrors always come in pairs. When activated as an action, a mirror establishes a visual link with its paired mirror for 10 minutes, with the two mirrors acting as opposite sides of the same open window. The mirrors create this connection even if both are on different planes.
 

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Shield of the Blazing Dreadnought
+Rüstung: Schild
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Rüstung/Schild/

@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/toa
-  - Monster/HG/1-8
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/human
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Zhanthi
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/1-8
+  - Monster/Typ/Humanoid/human
+  - Quelle/5e/toa
 aliases:
   - Zhanthi
+linter-yaml-title-alias: Zhanthi
 ---
 # [Zhanthi](3-Mechanics\CLI\bestiary\npc/zhanthi-toa.md)
 *Source: Tomb of Annihilation p. 27*  

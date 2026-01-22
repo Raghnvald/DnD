@@ -11,8 +11,8 @@ tags:
   - Gegenstand/Waffe/Nahkampf
   - Quelle/5e/phb
 aliases:
-  - Streitkolben
   - Mace
+  - Streitkolben
 linter-yaml-title-alias: Streitkolben
 ---
 # Streitkolben

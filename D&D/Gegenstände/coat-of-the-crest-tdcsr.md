@@ -1,18 +1,18 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Coat of the Crest
 tags:
-  - Quelle/5e/tdcsr
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
+  - Quelle/5e/tdcsr
 aliases:
   - Coat of the Crest
+linter-yaml-title-alias: Coat of the Crest
+obsidianUIMode: preview
 ---
 # Coat of the Crest
 *Wondrous item, rare (requires attunement)*  
-
-
 
 This exquisite brocade coat is cut in a long, high-collared style popular among nobles of the Clovis Concord—a nation on the west coast of "Wildemount" whose stylish fashion is often mimicked in Tal'Dorei. Its shimmering lining hints at its magical properties. You gain a +1 bonus to AC while wearing this coat, which can be worn over light armor.
 

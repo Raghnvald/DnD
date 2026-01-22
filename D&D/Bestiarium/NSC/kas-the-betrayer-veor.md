@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/veor
-  - Monster/HG/23
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Untote/vampire
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Kas the Betrayer
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/23
+  - Monster/Typ/Untote/vampire
+  - Quelle/5e/veor
 aliases:
   - Kas the Betrayer
+linter-yaml-title-alias: Kas the Betrayer
 ---
 # [Kas the Betrayer](3-Mechanics\CLI\bestiary\npc/kas-the-betrayer-veor.md)
 *Source: Vecna: Eve of Ruin p. 244*  

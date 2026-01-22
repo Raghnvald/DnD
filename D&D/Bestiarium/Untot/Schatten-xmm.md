@@ -1,19 +1,19 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/1-2
-  - Monster/Habitat/planar
-  - Monster/Habitat/shadowfell
-  - Monster/Habitat/Unterreich
-  - Monster/Habitat/Stadt
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Untote
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Shadow
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/planar
+  - Monster/Habitat/shadowfell
+  - Monster/Habitat/Stadt
+  - Monster/Habitat/Unterreich
+  - Monster/HG/1-2
+  - Monster/Typ/Untote
+  - Quelle/5e/xmm
 aliases:
   - Shadow
+linter-yaml-title-alias: Shadow
 ---
 # [Shadow](3-Mechanics\CLI\bestiary\undead/shadow-xmm.md)
 *Source: Monster Manual (2024) p. 272. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

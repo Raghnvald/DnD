@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Armor of Vulnerability (Bludgeoning)
+Rüstung: Schwer
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Rüstung/Leicht

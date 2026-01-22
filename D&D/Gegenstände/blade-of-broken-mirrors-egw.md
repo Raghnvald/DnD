@@ -1,19 +1,21 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Blade of Broken Mirrors
+Typ: Einfache Nahkampfwaffe
 tags:
-  - Quelle/5e/egw
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/Artefakt
-  - Gegenstand/Waffe/Nahkampf
   - Gegenstand/Waffe/Einfach
+  - Gegenstand/Waffe/Nahkampf
+  - Quelle/5e/egw
 aliases:
   - Blade of Broken Mirrors
+linter-yaml-title-alias: Blade of Broken Mirrors
+obsidianUIMode: preview
 ---
 # Blade of Broken Mirrors
 *Weapon ([dagger](/3-Mechanics/CLI/items/dagger-xphb.md)), artifact (requires attunement by a humanoid)*  
-
 
 - **Damage**: 1d4 piercing
 - **Range**: 20/60

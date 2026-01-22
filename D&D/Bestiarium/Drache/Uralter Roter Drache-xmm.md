@@ -1,17 +1,17 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/24
-  - Monster/Habitat/Hügel
-  - Monster/Habitat/Berg
-  - Monster/Größe/Gigantisch
-  - Monster/Typ/Drache/chromatic
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Ancient Red Dragon
+tags:
+  - Monster/Größe/Gigantisch
+  - Monster/Habitat/Berg
+  - Monster/Habitat/Hügel
+  - Monster/HG/24
+  - Monster/Typ/Drache/chromatic
+  - Quelle/5e/xmm
 aliases:
   - Ancient Red Dragon
+linter-yaml-title-alias: Ancient Red Dragon
 ---
 # [Ancient Red Dragon](3-Mechanics\CLI\bestiary\dragon/ancient-red-dragon-xmm.md)
 *Source: Monster Manual (2024) p. 256. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

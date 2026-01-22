@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/toa
-  - Monster/HG/8
-  - Monster/Größe/Riesig
-  - Monster/Typ/Monstrosität
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: King of Feathers
+tags:
+  - Monster/Größe/Riesig
+  - Monster/HG/8
+  - Monster/Typ/Monstrosität
+  - Quelle/5e/toa
 aliases:
   - King of Feathers
+linter-yaml-title-alias: King of Feathers
 ---
 # [King of Feathers](3-Mechanics\CLI\bestiary\npc/king-of-feathers-toa.md)
 *Source: Tomb of Annihilation p. 106*  

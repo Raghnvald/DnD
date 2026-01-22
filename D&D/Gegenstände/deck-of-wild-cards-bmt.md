@@ -1,17 +1,17 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Deck of Wild Cards
 tags:
-  - Quelle/5e/bmt
   - Gegenstand/Seltenheit/sehr_selten
+  - Quelle/5e/bmt
 aliases:
   - Deck of Wild Cards
+linter-yaml-title-alias: Deck of Wild Cards
+obsidianUIMode: preview
 ---
 # Deck of Wild Cards
 *Wondrous item, very rare*  
-
-
 
 This deck of heavy vellum cards hums with the magic of the Elemental Chaos.
 

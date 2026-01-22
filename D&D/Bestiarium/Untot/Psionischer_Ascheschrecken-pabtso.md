@@ -1,23 +1,24 @@
 ---
-cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
-Name: Psionischer Ascheschrecken
+statblock: inline
+statblock-link: "#^statblock"
+Bezeichnung: Psionischer Ascheschrecken
 Typ: Untoter
 Größe: Mittelgroß
 HG: 7
 Habitat:
   - /
-status: WIP
 image: token/psionic-ashenwight-pabtso.webp
+status: WIP
 tags:
-  - Quelle/5e/pabtso
-  - Monster/HG/7
   - Monster/Größe/Mittelgroß
+  - Monster/HG/7
   - Monster/Typ/Untote
-statblock: inline
-statblock-link: "#^statblock"
+  - Quelle/5e/pabtso
 aliases:
+  - Psionischer Ascheschrecken
   - Psionic Ashenwight
+linter-yaml-title-alias: Psionischer Ascheschrecken
 ---
 # Psionischer Ascheschrecken
 *Quelle: Die Tiefen von Phandelver: Der zersplitterte Obelisk S. 204*  

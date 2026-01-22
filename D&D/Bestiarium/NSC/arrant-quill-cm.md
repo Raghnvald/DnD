@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/cm
-  - Monster/HG/11
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/human
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Arrant Quill
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/11
+  - Monster/Typ/Humanoid/human
+  - Quelle/5e/cm
 aliases:
   - Arrant Quill
+linter-yaml-title-alias: Arrant Quill
 ---
 # [Arrant Quill](3-Mechanics\CLI\bestiary\npc/arrant-quill-cm.md)
 *Source: Candlekeep Mysteries p. 157*  

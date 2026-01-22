@@ -1,19 +1,21 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Tearulai
+Typ: Nahkampf-Kriegswaffe
 tags:
-  - Quelle/5e/wdmm
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/Waffe/Kriegswaffe
   - Gegenstand/Waffe/Nahkampf
+  - Quelle/5e/wdmm
 aliases:
   - Tearulai
+linter-yaml-title-alias: Tearulai
+obsidianUIMode: preview
 ---
 # Tearulai
 *Weapon (longsword), very rare (requires attunement)*  
-
 
 - **Damage**:
   - One-handed: 1d8 slashing

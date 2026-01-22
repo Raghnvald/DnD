@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/veor
-  - Monster/HG/6
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Untote
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Black Rose Bearer
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/6
+  - Monster/Typ/Untote
+  - Quelle/5e/veor
 aliases:
   - Black Rose Bearer
+linter-yaml-title-alias: Black Rose Bearer
 ---
 # [Black Rose Bearer](3-Mechanics\CLI\bestiary\undead/black-rose-bearer-veor.md)
 *Source: Vecna: Eve of Ruin p. 208*  

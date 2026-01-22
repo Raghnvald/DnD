@@ -5,8 +5,8 @@ tags:
   - Gegenstand/Ausrüstung
   - Quelle/5e/phb
 aliases:
-  - Kette (3 Meter)
   - Chain (10 feet)
+  - Kette (3 Meter)
 linter-yaml-title-alias: Kette (3 Meter)
 ---
 # Kette (3 Meter)

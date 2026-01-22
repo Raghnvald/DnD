@@ -1,14 +1,15 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Last Stand Armor
+Rüstung: Leicht, Mittel oder Schwer
 tags:
-  - Quelle/5e/egw
-  - Gegenstand/Rüstung/Schwer
   - Gegenstand/Rüstung/Leicht
   - Gegenstand/Rüstung/Mittel
+  - Gegenstand/Rüstung/Schwer
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/wundersam/generic-variant
+  - Quelle/5e/egw
 aliases:
   - Last Stand Armor
   - Last Stand Breastplate
@@ -24,11 +25,11 @@ aliases:
   - Last Stand Spiked Armor
   - Last Stand Splint Armor
   - Last Stand Studded Leather Armor
+linter-yaml-title-alias: Last Stand Armor
+obsidianUIMode: preview
 ---
 # Last Stand Armor
 *Very rare*  
-
-
 
 You have a +1 bonus to AC while wearing this armor, which shimmers softly.
 
@@ -124,6 +125,5 @@ If you die while wearing the armor, it is destroyed, and each celestial, fey, an
 
 - **Armor Class**: 12 + Dex modifier
 - **Weight**: 13.0 lbs.
-
 
 *Source: Explorer's Guide to Wildemount p. 267*

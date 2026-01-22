@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/wdh
-  - Monster/HG/4
-  - Monster/Größe/Groß
-  - Monster/Typ/Riese
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Blinded Troll
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/4
+  - Monster/Typ/Riese
+  - Quelle/5e/wdh
 aliases:
   - Blinded Troll
+linter-yaml-title-alias: Blinded Troll
 ---
 # [Blinded Troll](3-Mechanics\CLI\bestiary\npc/blinded-troll-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 114*  

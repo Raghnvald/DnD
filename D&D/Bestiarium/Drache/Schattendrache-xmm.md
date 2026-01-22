@@ -1,18 +1,7 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/13
-  - Monster/Habitat/planar
-  - Monster/Habitat/shadowfell
-  - Monster/Habitat/Unterreich
-  - Monster/Größe/Riesig
-  - Monster/Typ/Drache
 statblock: inline
 statblock-link: "#^statblock"
-aliases:
-  - Shadow Dragon
+Bezeichnung: Shadow Dragon
 Typ: Drache
 Größe: Riesig
 HG: 13
@@ -20,6 +9,17 @@ Habitat:
   - Planar (Schattensaum)
   - Unterreich
 status: WIP
+tags:
+  - Monster/Größe/Riesig
+  - Monster/Habitat/planar
+  - Monster/Habitat/shadowfell
+  - Monster/Habitat/Unterreich
+  - Monster/HG/13
+  - Monster/Typ/Drache
+  - Quelle/5e/xmm
+aliases:
+  - Shadow Dragon
+linter-yaml-title-alias: Shadow Dragon
 ---
 # [Shadow Dragon](3-Mechanics\CLI\bestiary\dragon/shadow-dragon-xmm.md)
 *Source: Monster Manual (2024) p. 275*  
@@ -44,7 +44,6 @@ Shadow dragons lair in places of darkness and despair, such as accursed ruins, t
 > [!quote] A quote from Challenge Tempting Victims to the Lair of the Shadow Dragon Aurgloroasa  
 > 
 > If ye truly be adventurers of lore, seek the great shadowy wyrm who lairs beneath the Peaks of Thunder and return in triumph bearing aloft her fabled Eye of Shadow.
-
 
 ```statblock
 "name": "Shadow Dragon (XMM)"

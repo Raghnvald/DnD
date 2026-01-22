@@ -9,8 +9,8 @@ tags:
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Alchemistenausrüstung
   - Alchemist's Supplies
+  - Alchemistenausrüstung
 linter-yaml-title-alias: Alchemistenausrüstung
 ---
 # Alchemistenausrüstung

@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/toa
-  - Monster/HG/9
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/any-race
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Sekelok
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/9
+  - Monster/Typ/Humanoid/any-race
+  - Quelle/5e/toa
 aliases:
   - Sekelok
+linter-yaml-title-alias: Sekelok
 ---
 # [Sekelok](3-Mechanics\CLI\bestiary\npc/sekelok-toa.md)
 *Source: Tomb of Annihilation p. 120*  

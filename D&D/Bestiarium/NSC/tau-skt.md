@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/skt
-  - Monster/HG/2
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/shou-human
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Tau
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/2
+  - Monster/Typ/Humanoid/shou-human
+  - Quelle/5e/skt
 aliases:
   - Tau
+linter-yaml-title-alias: Tau
 ---
 # [Tau](3-Mechanics\CLI\bestiary\npc/tau-skt.md)
 *Source: Storm King's Thunder p. 103*  

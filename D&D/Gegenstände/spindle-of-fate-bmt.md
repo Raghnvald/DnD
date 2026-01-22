@@ -1,19 +1,20 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Spindle of Fate
 tags:
-  - Quelle/5e/bmt
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
   - Gegenstand/wundersam/wand
+  - Quelle/5e/bmt
 aliases:
   - Spindle of Fate
+linter-yaml-title-alias: Spindle of Fate
+obsidianUIMode: preview
 ---
 # Spindle of Fate
 *Wand, legendary (requires attunement)*  
 ![](/3-Mechanics/CLI/items/img/spindle-of-fate.webp#right)
-
 
 This wand is shaped like a drop spindle wrapped in red thread. The wand has 6 charges that can be used for the following properties:
 

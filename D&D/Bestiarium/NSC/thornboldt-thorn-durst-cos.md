@@ -1,15 +1,16 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/cos
-  - Monster/HG/3
-  - Monster/Größe/Klein
-  - Monster/Typ/Untote
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: 'Thornboldt "Thorn" Durst'
+tags:
+  - Monster/Größe/Klein
+  - Monster/HG/3
+  - Monster/Typ/Untote
+  - Quelle/5e/cos
 aliases:
+  - 'Thornboldt "Thorn" Durst'
   - Thornboldt "Thorn" Durst
+linter-yaml-title-alias: 'Thornboldt "Thorn" Durst'
 ---
 # [Thornboldt "Thorn" Durst](3-Mechanics\CLI\bestiary\npc/thornboldt-thorn-durst-cos.md)
 *Source: Curse of Strahd p. 217*  

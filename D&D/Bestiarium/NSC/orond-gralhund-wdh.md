@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/wdh
-  - Monster/HG/1-8
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/tethyrian-human
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Orond Gralhund
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/1-8
+  - Monster/Typ/Humanoid/tethyrian-human
+  - Quelle/5e/wdh
 aliases:
   - Orond Gralhund
+linter-yaml-title-alias: Orond Gralhund
 ---
 # [Orond Gralhund](3-Mechanics\CLI\bestiary\npc/orond-gralhund-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 213*  

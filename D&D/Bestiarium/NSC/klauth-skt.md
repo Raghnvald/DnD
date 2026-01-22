@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/skt
-  - Monster/HG/25
-  - Monster/Größe/Gigantisch
-  - Monster/Typ/Drache
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Klauth
+tags:
+  - Monster/Größe/Gigantisch
+  - Monster/HG/25
+  - Monster/Typ/Drache
+  - Quelle/5e/skt
 aliases:
   - Klauth
+linter-yaml-title-alias: Klauth
 ---
 # [Klauth](3-Mechanics\CLI\bestiary\npc/klauth-skt.md)
 *Source: Storm King's Thunder p. 95*  

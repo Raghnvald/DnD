@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/wdmm
-  - Monster/HG/14
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Untote/shapechanger
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Zorak Lightdrinker
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/14
+  - Monster/Typ/Untote/shapechanger
+  - Quelle/5e/wdmm
 aliases:
   - Zorak Lightdrinker
+linter-yaml-title-alias: Zorak Lightdrinker
 ---
 # [Zorak Lightdrinker](3-Mechanics\CLI\bestiary\npc/zorak-lightdrinker-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 204*  

@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Adamantrüstung
+Typ: Rüstung
+Rüstung: Mittel oder Schwer
 tags:
   - Gegenstand/Rüstung/Mittel
   - Gegenstand/Rüstung/Schwer
@@ -7,7 +9,6 @@ tags:
   - Gegenstand/wundersam/generic-variant
   - Quelle/5e/dmg
 aliases:
-  - Adamantrüstung
   - Adamantine Armor
   - Adamantine Breastplate
   - Adamantine Chain Mail
@@ -18,6 +19,7 @@ aliases:
   - Adamantine Scale Mail
   - Adamantine Spiked Armor
   - Adamantine Splint Armor
+  - Adamantrüstung
 linter-yaml-title-alias: Adamantrüstung
 ---
 # Adamantrüstung

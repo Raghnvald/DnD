@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- Quelle/5e/ggr
-- Monster/HG/1
-- Monster/Größe/Mittelgroß
-- Monster/Typ/Untote
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Indentured Spirit
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/1
+  - Monster/Typ/Untote
+  - Quelle/5e/ggr
 aliases:
-- Indentured Spirit
+  - Indentured Spirit
+linter-yaml-title-alias: Indentured Spirit
 ---
 # [Indentured Spirit](3-Mechanics\CLI\bestiary\undead/indentured-spirit-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 206*  

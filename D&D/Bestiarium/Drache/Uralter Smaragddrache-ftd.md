@@ -1,17 +1,17 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/ftd
-  - Monster/HG/21
-  - Monster/Größe/Gigantisch
-  - Monster/Typ/Drache/gem
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Ancient Emerald Dragon
+Typ: Drache (Edelstein)
+status: WIP
+tags:
+  - Monster/Größe/Gigantisch
+  - Monster/HG/21
+  - Monster/Typ/Drache/gem
+  - Quelle/5e/ftd
 aliases:
   - Ancient Emerald Dragon
-status: WIP
-Typ: Drache (Edelstein)
+linter-yaml-title-alias: Ancient Emerald Dragon
 ---
 # [Ancient Emerald Dragon](3-Mechanics\CLI\bestiary\dragon/ancient-emerald-dragon-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 195*  

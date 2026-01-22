@@ -1,20 +1,20 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/ftd
-  - Monster/HG/23
-  - Monster/Größe/Gigantisch
-  - Monster/Typ/Drache/gem
 statblock: inline
 statblock-link: "#^statblock"
-aliases:
-  - Ancient Amethyst Dragon
+Bezeichnung: Ancient Amethyst Dragon
 Typ: Drache
 Größe: Gigantisch
 HG: 23
 Habitat:
   - /
+tags:
+  - Monster/Größe/Gigantisch
+  - Monster/HG/23
+  - Monster/Typ/Drache/gem
+  - Quelle/5e/ftd
+aliases:
+  - Ancient Amethyst Dragon
+linter-yaml-title-alias: Ancient Amethyst Dragon
 ---
 # [Ancient Amethyst Dragon](3-Mechanics\CLI\bestiary\dragon/ancient-amethyst-dragon-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 160*  

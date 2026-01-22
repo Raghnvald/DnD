@@ -1,13 +1,15 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Titanstone Knuckles
 tags:
-  - Quelle/5e/tdcsr
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
+  - Quelle/5e/tdcsr
 aliases:
   - Titanstone Knuckles
+linter-yaml-title-alias: Titanstone Knuckles
+obsidianUIMode: preview
 ---
 # Titanstone Knuckles
 *Wondrous item, legendary (requires attunement)*  

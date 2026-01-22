@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/wdmm
-  - Monster/HG/12
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/any-race
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Valtagar Steelshadow
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/12
+  - Monster/Typ/Humanoid/any-race
+  - Quelle/5e/wdmm
 aliases:
   - Valtagar Steelshadow
+linter-yaml-title-alias: Valtagar Steelshadow
 ---
 # [Valtagar Steelshadow](3-Mechanics\CLI\bestiary\npc/valtagar-steelshadow-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 271*  

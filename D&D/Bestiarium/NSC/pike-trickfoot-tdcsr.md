@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/tdcsr
-  - Monster/HG/17
-  - Monster/Größe/Klein
-  - Monster/Typ/Humanoid/gnome
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Pike Trickfoot
+tags:
+  - Monster/Größe/Klein
+  - Monster/HG/17
+  - Monster/Typ/Humanoid/gnome
+  - Quelle/5e/tdcsr
 aliases:
   - Pike Trickfoot
+linter-yaml-title-alias: Pike Trickfoot
 ---
 # [Pike Trickfoot](3-Mechanics\CLI\bestiary\npc/pike-trickfoot-tdcsr.md)
 *Source: Tal'Dorei Campaign Setting Reborn p. 269*  

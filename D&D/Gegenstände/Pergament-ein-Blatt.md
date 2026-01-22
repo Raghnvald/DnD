@@ -5,8 +5,8 @@ tags:
   - Gegenstand/Ausrüstung
   - Quelle/5e/phb
 aliases:
-  - Pergament (ein Blatt)
   - Parchment (one sheet)
+  - Pergament (ein Blatt)
 linter-yaml-title-alias: Pergament (ein Blatt)
 ---
 # Pergament (ein Blatt)

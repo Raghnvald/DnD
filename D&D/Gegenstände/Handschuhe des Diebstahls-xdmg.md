@@ -6,8 +6,8 @@ tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/xdmg
 aliases:
-  - Gloves of Thievery
   - "Gloves of Thievery"
+  - Gloves of Thievery
 linter-yaml-title-alias: Gloves of Thievery
 obsidianUIMode: preview
 ---

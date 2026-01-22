@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/wdh
-  - Monster/HG/2
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/tiefling
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Tissina Khyret
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/2
+  - Monster/Typ/Humanoid/tiefling
+  - Quelle/5e/wdh
 aliases:
   - Tissina Khyret
+linter-yaml-title-alias: Tissina Khyret
 ---
 # [Tissina Khyret](3-Mechanics\CLI\bestiary\npc/tissina-khyret-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 116*  

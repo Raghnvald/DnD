@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/wdh
-  - Monster/HG/8
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Unhold/devil
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Osvaldo Cassalanter
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/8
+  - Monster/Typ/Unhold/devil
+  - Quelle/5e/wdh
 aliases:
   - Osvaldo Cassalanter
+linter-yaml-title-alias: Osvaldo Cassalanter
 ---
 # [Osvaldo Cassalanter](3-Mechanics\CLI\bestiary\npc/osvaldo-cassalanter-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 124*  

@@ -1,14 +1,13 @@
 ---
-cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
-Bezeichnung:
+Bezeichnung: Ausgewachsener Magnetitdrache-hgmh1
 Typ: Drache
 Größe: Riesig
 HG: 14
-status: WIP
 image:
+status: WIP
 tags:
-  - Quelle/5e/hgtmh1
   - Monster/Typ/Drache
-aliases: []
+  - Quelle/5e/hgtmh1
 ---
+# Ausgewachsener Magnetitdrache-hgmh1

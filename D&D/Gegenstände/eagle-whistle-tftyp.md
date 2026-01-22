@@ -1,16 +1,17 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Eagle Whistle
 tags:
-  - Quelle/5e/tftyp
   - Gegenstand/Seltenheit/selten
+  - Quelle/5e/tftyp
 aliases:
   - Eagle Whistle
+linter-yaml-title-alias: Eagle Whistle
+obsidianUIMode: preview
 ---
 # Eagle Whistle
 *Wondrous item, rare*  
-
 
 - **Weight**: 1.0 lbs.
 

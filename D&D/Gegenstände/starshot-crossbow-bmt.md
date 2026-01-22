@@ -1,26 +1,26 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Starshot Crossbow
 tags:
-  - Quelle/5e/bmt
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
-  - Gegenstand/Waffe/Kriegswaffe
-  - Gegenstand/Waffe/Fernkampf
   - Gegenstand/Waffe/Einfach
+  - Gegenstand/Waffe/Fernkampf
+  - Gegenstand/Waffe/Kriegswaffe
   - Gegenstand/wundersam/generic-variant
+  - Quelle/5e/bmt
 aliases:
   - Starshot Crossbow
   - Starshot Hand Crossbow
   - Starshot Heavy Crossbow
   - Starshot Light Crossbow
   - Starshot Light Repeating Crossbow
+linter-yaml-title-alias: Starshot Crossbow
+obsidianUIMode: preview
 ---
 # Starshot Crossbow
 *Rare (requires attunement)*  
-
-
 
 This crossbow is crafted from blackened wood, and its limbs bear pearl inlays depicting constellations. You ignore the loading property with this crossbow. If you load no ammunition in the weapon, it produces its own, automatically creating one piece of magic ammunition when you make a ranged attack with it. The ammunition created by the weapon vanishes the instant after it hits or misses a target. The crossbow has 3 charges and regains `dice:1d3|noform|noparens|avg` (`1d3`) expended charges daily at dawn.
 
@@ -65,6 +65,5 @@ The crossbow is decorated with three constellations. As a bonus action, you can 
 - **Range**: 40/160
 - **Properties**: Ammunition, Two-Handed
 - **Weight**: 5.0 lbs.
-
 
 *Source: The Book of Many Things p. 38*

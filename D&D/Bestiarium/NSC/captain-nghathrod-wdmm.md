@@ -1,16 +1,16 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/wdmm
-  - Monster/HG/8
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/aberration
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: "Captain N'ghathrod"
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/8
+  - Monster/Typ/aberration
+  - Quelle/5e/wdmm
 aliases:
+  - "Captain N'ghathrod"
   - Captain N'ghathrod
+linter-yaml-title-alias: "Captain N'ghathrod"
 ---
 # [Captain N'ghathrod](3-Mechanics\CLI\bestiary\npc/captain-nghathrod-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 250*  

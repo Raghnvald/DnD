@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/jttrc
-  - Monster/HG/2
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/human
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Kala Mabarin
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/2
+  - Monster/Typ/Humanoid/human
+  - Quelle/5e/jttrc
 aliases:
   - Kala Mabarin
+linter-yaml-title-alias: Kala Mabarin
 ---
 # [Kala Mabarin](3-Mechanics\CLI\bestiary\npc/kala-mabarin-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 70*  

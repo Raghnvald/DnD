@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/wdmm
-  - Monster/HG/6
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/human
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Preeta Kreepa
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/6
+  - Monster/Typ/Humanoid/human
+  - Quelle/5e/wdmm
 aliases:
   - Preeta Kreepa
+linter-yaml-title-alias: Preeta Kreepa
 ---
 # [Preeta Kreepa](3-Mechanics\CLI\bestiary\npc/preeta-kreepa-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 56*  

@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/toa
-  - Monster/HG/1
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/yuan-ti
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Salida
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/1
+  - Monster/Typ/Humanoid/yuan-ti
+  - Quelle/5e/toa
 aliases:
   - Salida
+linter-yaml-title-alias: Salida
 ---
 # [Salida](3-Mechanics\CLI\bestiary\npc/salida-toa.md)
 *Source: Tomb of Annihilation p. 35*  

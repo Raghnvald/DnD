@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/bmt
-  - Monster/HG/1
-  - Monster/Größe/Winzig
-  - Monster/Typ/Untote
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Harrow Hawk
+tags:
+  - Monster/Größe/Winzig
+  - Monster/HG/1
+  - Monster/Typ/Untote
+  - Quelle/5e/bmt
 aliases:
   - Harrow Hawk
+linter-yaml-title-alias: Harrow Hawk
 ---
 # [Harrow Hawk](3-Mechanics\CLI\bestiary\undead/harrow-hawk-bmt.md)
 *Source: The Book of Many Things p. 177*  

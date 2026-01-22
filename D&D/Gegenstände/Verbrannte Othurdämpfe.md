@@ -9,8 +9,8 @@ tags:
   - Gegenstand/Eigenschaft/Gift
   - Quelle/5e/dmg
 aliases:
-  - Verbrannte Othurdämpfe (Eingeatmet)
   - Burnt Othur Fumes
+  - Verbrannte Othurdämpfe (Eingeatmet)
 linter-yaml-title-alias: Verbrannte Othurdämpfe (Eingeatmet)
 ---
 # Verbrannte Othurdämpfe (Eingeatmet)

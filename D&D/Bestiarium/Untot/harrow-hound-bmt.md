@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/bmt
-  - Monster/HG/3
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Untote
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Harrow Hound
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/3
+  - Monster/Typ/Untote
+  - Quelle/5e/bmt
 aliases:
   - Harrow Hound
+linter-yaml-title-alias: Harrow Hound
 ---
 # [Harrow Hound](3-Mechanics\CLI\bestiary\undead/harrow-hound-bmt.md)
 *Source: The Book of Many Things p. 164*  

@@ -1,13 +1,15 @@
 ---
-tags:
-- Quelle/5e/ggr
-- Monster/HG/17
-- Monster/Größe/Mittelgroß
-- Monster/Typ/Monstrosität/shapechanger
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Lazav
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/17
+  - Monster/Typ/Monstrosität/shapechanger
+  - Quelle/5e/ggr
 aliases:
-- Lazav
+  - Lazav
+linter-yaml-title-alias: Lazav
 ---
 # Lazav
 *Source: Guildmasters' Guide to Ravnica p. 232*  

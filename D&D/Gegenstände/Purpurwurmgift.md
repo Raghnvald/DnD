@@ -9,8 +9,8 @@ tags:
   - Gegenstand/Eigenschaft/Gift
   - Quelle/5e/dmg
 aliases:
-  - Purpurwurmgift (Verletzung)
   - Purple Worm Poison
+  - Purpurwurmgift (Verletzung)
 linter-yaml-title-alias: Purpurwurmgift (Verletzung)
 ---
 # Purpurwurmgift (Verletzung)

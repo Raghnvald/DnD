@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/wdmm
-  - Monster/HG/9
-  - Monster/Größe/Groß
-  - Monster/Typ/Riese
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Sundeth
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/9
+  - Monster/Typ/Riese
+  - Quelle/5e/wdmm
 aliases:
   - Sundeth
+linter-yaml-title-alias: Sundeth
 ---
 # [Sundeth](3-Mechanics\CLI\bestiary\npc/sundeth-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 304*  

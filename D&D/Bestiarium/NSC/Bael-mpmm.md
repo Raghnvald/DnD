@@ -1,13 +1,15 @@
 ---
-tags:
-  - Quelle/5e/mpmm
-  - Monster/HG/19
-  - Monster/Größe/Groß
-  - Monster/Typ/Unhold/devil
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Bael
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/19
+  - Monster/Typ/Unhold/devil
+  - Quelle/5e/mpmm
 aliases:
   - Bael
+linter-yaml-title-alias: Bael
 ---
 # [Bael](3-Mechanics\CLI\bestiary\npc/bael-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 54*  

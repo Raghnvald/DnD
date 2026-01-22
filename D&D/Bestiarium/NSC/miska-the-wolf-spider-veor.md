@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/veor
-  - Monster/HG/24
-  - Monster/Größe/Riesig
-  - Monster/Typ/Unhold/demon
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Miska the Wolf-Spider
+tags:
+  - Monster/Größe/Riesig
+  - Monster/HG/24
+  - Monster/Typ/Unhold/demon
+  - Quelle/5e/veor
 aliases:
   - Miska the Wolf-Spider
+linter-yaml-title-alias: Miska the Wolf-Spider
 ---
 # [Miska the Wolf-Spider](3-Mechanics\CLI\bestiary\npc/miska-the-wolf-spider-veor.md)
 *Source: Vecna: Eve of Ruin p. 247*  

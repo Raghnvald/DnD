@@ -6,8 +6,8 @@ tags:
   - Gegenstand/Seltenheit/gewöhnlich
   - Quelle/5e/xdmg
 aliases:
-  - Dread Helm
   - "Dread Helm"
+  - Dread Helm
 linter-yaml-title-alias: Dread Helm
 obsidianUIMode: preview
 ---

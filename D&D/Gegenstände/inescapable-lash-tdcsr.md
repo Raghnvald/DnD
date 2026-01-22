@@ -1,19 +1,21 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Inescapable Lash
+Typ: Nahkampf-Kriegswaffe
 tags:
-  - Quelle/5e/tdcsr
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
   - Gegenstand/Waffe/Kriegswaffe
   - Gegenstand/Waffe/Nahkampf
+  - Quelle/5e/tdcsr
 aliases:
   - Inescapable Lash
+linter-yaml-title-alias: Inescapable Lash
+obsidianUIMode: preview
 ---
 # Inescapable Lash
 *Weapon ([whip](/3-Mechanics/CLI/items/whip-xphb.md)), rare (requires attunement)*  
-
 
 - **Damage**: 1d4 slashing
 - **Properties**: [Extended Reach](/3-Mechanics/CLI/item-properties.md#Extended%20Reach), [Finesse](/3-Mechanics/CLI/item-properties.md#Finesse)

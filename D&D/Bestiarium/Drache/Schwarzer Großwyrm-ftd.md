@@ -1,21 +1,21 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/ftd
-  - Monster/HG/27
-  - Monster/Größe/Gigantisch
-  - Monster/Typ/Drache/chromatic
 statblock: inline
 statblock-link: "#^statblock"
-aliases:
-  - Black Greatwyrm
+Bezeichnung: Black Greatwyrm
 Typ: Drache (Chromatisch)
 Größe: Gigantisch
 HG: 27
 Habitat:
   - /
 status: WIP
+tags:
+  - Monster/Größe/Gigantisch
+  - Monster/HG/27
+  - Monster/Typ/Drache/chromatic
+  - Quelle/5e/ftd
+aliases:
+  - Black Greatwyrm
+linter-yaml-title-alias: Black Greatwyrm
 ---
 # [Black Greatwyrm](3-Mechanics\CLI\bestiary\dragon/black-greatwyrm-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 168*  

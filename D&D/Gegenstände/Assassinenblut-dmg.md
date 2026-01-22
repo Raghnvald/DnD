@@ -10,8 +10,8 @@ tags:
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/dmg
 aliases:
-  - Assassinenblut
   - Assassin's Blood
+  - Assassinenblut
 linter-yaml-title-alias: Assassinenblut
 ---
 # Assassinenblut

@@ -2,13 +2,14 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Breastplate
+Rüstung: Mittel
 tags:
   - Gegenstand/Rüstung/Mittel
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
-  - Breastplate
   - "Breastplate"
+  - Breastplate
 linter-yaml-title-alias: Breastplate
 obsidianUIMode: preview
 ---

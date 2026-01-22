@@ -1,17 +1,16 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/veor
-  - Monster/HG/21
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/human
-  - Monster/Typ/Humanoid/wizard
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Alustriel Silverhand
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/21
+  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/wizard
+  - Quelle/5e/veor
 aliases:
   - Alustriel Silverhand
+linter-yaml-title-alias: Alustriel Silverhand
 ---
 # [Alustriel Silverhand](3-Mechanics\CLI\bestiary\npc/alustriel-silverhand-veor.md)
 *Source: Vecna: Eve of Ruin p. 242*  

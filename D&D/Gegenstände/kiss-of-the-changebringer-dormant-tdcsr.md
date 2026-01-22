@@ -1,13 +1,15 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Kiss of the Changebringer (Dormant)
 tags:
-  - Quelle/5e/tdcsr
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
+  - Quelle/5e/tdcsr
 aliases:
   - Kiss of the Changebringer (Dormant)
+linter-yaml-title-alias: Kiss of the Changebringer (Dormant)
+obsidianUIMode: preview
 ---
 # Kiss of the Changebringer (Dormant)
 *Wondrous item, legendary (requires attunement)*  

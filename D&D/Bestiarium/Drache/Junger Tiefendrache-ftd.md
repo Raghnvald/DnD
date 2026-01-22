@@ -1,15 +1,15 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/ftd
-  - Monster/HG/5
-  - Monster/Größe/Groß
-  - Monster/Typ/Drache
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Young Deep Dragon
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/5
+  - Monster/Typ/Drache
+  - Quelle/5e/ftd
 aliases:
   - Young Deep Dragon
+linter-yaml-title-alias: Young Deep Dragon
 ---
 # [Young Deep Dragon](3-Mechanics\CLI\bestiary\dragon/young-deep-dragon-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 175*  

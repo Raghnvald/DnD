@@ -9,8 +9,8 @@ tags:
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Fishing Tackle
-linter-yaml-title-alias: Fishing Tackle
+  - Angelausrüstung
+linter-yaml-title-alias: Angelausrüstung
 ---
 # Angelausrüstung
 *Adventuring gear*  

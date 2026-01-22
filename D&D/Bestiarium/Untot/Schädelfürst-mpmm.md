@@ -1,18 +1,18 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mpmm
-  - Monster/HG/15
-  - Monster/Habitat/Wüste
-  - Monster/Habitat/Sumpf
-  - Monster/Habitat/Unterreich
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Untote/sorcerer
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Skull Lord
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Sumpf
+  - Monster/Habitat/Unterreich
+  - Monster/Habitat/Wüste
+  - Monster/HG/15
+  - Monster/Typ/Untote/sorcerer
+  - Quelle/5e/mpmm
 aliases:
   - Skull Lord
+linter-yaml-title-alias: Skull Lord
 ---
 # [Skull Lord](3-Mechanics\CLI\bestiary\undead/skull-lord-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 220*  

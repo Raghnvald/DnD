@@ -1,15 +1,16 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Feywrought Armor
+Rüstung: Leicht, Mittel oder Schwer
 tags:
-  - Quelle/5e/bmt
-  - Gegenstand/Rüstung/Schwer
+  - Gegenstand/Einstimmung/required
   - Gegenstand/Rüstung/Leicht
   - Gegenstand/Rüstung/Mittel
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Rüstung/Schwer
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam/generic-variant
+  - Quelle/5e/bmt
 aliases:
   - Feywrought Armor
   - Feywrought Breastplate
@@ -25,11 +26,11 @@ aliases:
   - Feywrought Spiked Armor
   - Feywrought Splint Armor
   - Feywrought Studded Leather Armor
+linter-yaml-title-alias: Feywrought Armor
+obsidianUIMode: preview
 ---
 # Feywrought Armor
 *Rare (requires attunement)*  
-
-
 
 This colorful, flowery armor was forged in the Feywild and is infused with that plane's captivating magic.
 
@@ -127,6 +128,5 @@ This armor has 3 charges. You can use an action to expend a charge to cast the C
 
 - **Armor Class**: 12 + Dex modifier
 - **Weight**: 13.0 lbs.
-
 
 *Source: The Book of Many Things p. 67*

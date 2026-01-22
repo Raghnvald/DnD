@@ -1,18 +1,19 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Rod of Retribution
 tags:
-  - Quelle/5e/egw
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/wundersam/Rute
+  - Quelle/5e/egw
 aliases:
   - Rod of Retribution
+linter-yaml-title-alias: Rod of Retribution
+obsidianUIMode: preview
 ---
 # Rod of Retribution
 *Rod, uncommon (requires attunement)*  
-
 
 - **Weight**: 2.0 lbs.
 

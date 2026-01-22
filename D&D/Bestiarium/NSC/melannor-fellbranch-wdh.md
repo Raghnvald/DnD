@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/wdh
-  - Monster/HG/2
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/half-elf
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Melannor Fellbranch
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/2
+  - Monster/Typ/Humanoid/half-elf
+  - Quelle/5e/wdh
 aliases:
   - Melannor Fellbranch
+linter-yaml-title-alias: Melannor Fellbranch
 ---
 # [Melannor Fellbranch](3-Mechanics\CLI\bestiary\npc/melannor-fellbranch-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 36*  

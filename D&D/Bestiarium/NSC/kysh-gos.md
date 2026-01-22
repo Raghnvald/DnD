@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/gos
-  - Monster/HG/1
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/triton
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Kysh
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/1
+  - Monster/Typ/Humanoid/triton
+  - Quelle/5e/gos
 aliases:
   - Kysh
+linter-yaml-title-alias: Kysh
 ---
 # [Kysh](3-Mechanics\CLI\bestiary\npc/kysh-gos.md)
 *Source: Ghosts of Saltmarsh p. 240*  

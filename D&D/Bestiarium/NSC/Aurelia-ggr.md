@@ -1,13 +1,15 @@
 ---
-tags:
-- Quelle/5e/ggr
-- Monster/HG/23
-- Monster/Größe/Mittelgroß
-- Monster/Typ/Himmlische/Engel
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Aurelia
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/23
+  - Monster/Typ/Himmlische/Engel
+  - Quelle/5e/ggr
 aliases:
-- Aurelia
+  - Aurelia
+linter-yaml-title-alias: Aurelia
 ---
 # Aurelia
 *Source: Guildmasters' Guide to Ravnica p. 230*  

@@ -1,15 +1,15 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/cos
-  - Monster/HG/5
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Konstrukt
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Vasilka
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/5
+  - Monster/Typ/Konstrukt
+  - Quelle/5e/cos
 aliases:
   - Vasilka
+linter-yaml-title-alias: Vasilka
 ---
 # [Vasilka](3-Mechanics\CLI\bestiary\npc/vasilka-cos.md)
 *Source: Curse of Strahd p. 151*  

@@ -9,8 +9,8 @@ tags:
   - Gegenstand/Seltenheit/gewöhnlich
   - Quelle/5e/phb
 aliases:
-  - Futter (pro Tag)
   - Feed (per day)
+  - Futter (pro Tag)
 linter-yaml-title-alias: Futter (pro Tag)
 ---
 # Futter (pro Tag)

@@ -1,17 +1,18 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Wyrmskull Throne
 tags:
-  - Quelle/5e/skt
   - Gegenstand/Seltenheit/Artefakt
+  - Quelle/5e/skt
 aliases:
   - Wyrmskull Throne
+linter-yaml-title-alias: Wyrmskull Throne
+obsidianUIMode: preview
 ---
 # Wyrmskull Throne
 *Wondrous item, artifact*  
 ![](/3-Mechanics/CLI/items/img/wyrmskull-throne.webp#right)
-
 
 Built by dwarven gods and entrusted to the rulers of Shanatar, an ancient dwarven empire. The Wyrmskull Throne was a symbol of dwarven power and pride for ages untold. The throne hovers a foot off the ground and is a massive thing made of polished obsidian with oversized feet—the impaled skulls of four ancient blue dragons. Runes glisten in the carved obsidian winking to life with blue energy when the throne's powers are activated.
 

@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Copper Dragon Scale Mail
+Rüstung: Mittel
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Rüstung/Mittel

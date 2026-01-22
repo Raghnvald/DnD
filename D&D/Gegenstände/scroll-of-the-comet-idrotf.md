@@ -1,18 +1,18 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Scroll of the Comet
 tags:
-  - Quelle/5e/idrotf
   - Gegenstand/Seltenheit/legendär
   - Gegenstand/wundersam/Schriftrolle
+  - Quelle/5e/idrotf
 aliases:
   - Scroll of the Comet
+linter-yaml-title-alias: Scroll of the Comet
+obsidianUIMode: preview
 ---
 # Scroll of the Comet
 *Scroll, legendary*  
-
-
 
 By using an action to read the scroll, you cause a comet to fall from the sky and crash to the ground at a point you can see up to 1 mile away from you. You must be outdoors when you use the scroll, or nothing happens and the scroll is wasted.
 

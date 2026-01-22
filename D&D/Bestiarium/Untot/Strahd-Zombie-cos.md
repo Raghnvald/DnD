@@ -1,15 +1,15 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/cos
-  - Monster/HG/1
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Untote
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Strahd Zombie
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/1
+  - Monster/Typ/Untote
+  - Quelle/5e/cos
 aliases:
   - Strahd Zombie
+linter-yaml-title-alias: Strahd Zombie
 ---
 # [Strahd Zombie](3-Mechanics\CLI\bestiary\undead/strahd-zombie-cos.md)
 *Source: Curse of Strahd p. 241*  

@@ -1,19 +1,21 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Dagger of Blindsight
+Typ: Einfache Nahkampfwaffe
 tags:
-  - Quelle/5e/wdmm
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
-  - Gegenstand/Waffe/Nahkampf
   - Gegenstand/Waffe/Einfach
+  - Gegenstand/Waffe/Nahkampf
+  - Quelle/5e/wdmm
 aliases:
   - Dagger of Blindsight
+linter-yaml-title-alias: Dagger of Blindsight
+obsidianUIMode: preview
 ---
 # Dagger of Blindsight
 *Weapon (dagger), rare (requires attunement)*  
-
 
 - **Damage**: 1d4 piercing
 - **Range**: 20/60

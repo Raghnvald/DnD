@@ -1,16 +1,16 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/skt
-  - Monster/HG/4
-  - Monster/Größe/Riesig
-  - Monster/Typ/Untote
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: "Eigeron's Ghost"
+tags:
+  - Monster/Größe/Riesig
+  - Monster/HG/4
+  - Monster/Typ/Untote
+  - Quelle/5e/skt
 aliases:
+  - "Eigeron's Ghost"
   - Eigeron's Ghost
+linter-yaml-title-alias: "Eigeron's Ghost"
 ---
 # [Eigeron's Ghost](3-Mechanics\CLI\bestiary\npc/eigerons-ghost-skt.md)
 *Source: Storm King's Thunder p. 129*  

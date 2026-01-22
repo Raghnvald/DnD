@@ -3,6 +3,11 @@ model:
   kind: Table
   columns: []
 pluginVersion: 1.0.0
+formulas:
+  Untitled: link(file, Bezeichnung)
+properties:
+  formula.Untitled:
+    displayName: Name
 views:
   - type: table
     name: Table
@@ -10,8 +15,10 @@ views:
       and:
         - file.folder == "D&D/Zauber"
     order:
-      - file.name
+      - formula.Untitled
       - aliases
     sort:
+      - property: aliases
+        direction: ASC
       - property: file.name
         direction: ASC

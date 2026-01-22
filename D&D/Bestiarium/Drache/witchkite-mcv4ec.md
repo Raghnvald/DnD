@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mcv4ec
-  - Monster/HG/15
-  - Monster/Größe/Riesig
-  - Monster/Typ/Drache/warlock
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Witchkite
+tags:
+  - Monster/Größe/Riesig
+  - Monster/HG/15
+  - Monster/Typ/Drache/warlock
+  - Quelle/5e/mcv4ec
 aliases:
   - Witchkite
+linter-yaml-title-alias: Witchkite
 ---
 # [Witchkite](3-Mechanics\CLI\bestiary\dragon/witchkite-mcv4ec.md)
 *Source: Monstrous Compendium Volume 4: Eldraine Creatures*  

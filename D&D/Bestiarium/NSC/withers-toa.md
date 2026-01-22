@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/toa
-  - Monster/HG/4
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Untote
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Withers
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/4
+  - Monster/Typ/Untote
+  - Quelle/5e/toa
 aliases:
   - Withers
+linter-yaml-title-alias: Withers
 ---
 # [Withers](3-Mechanics\CLI\bestiary\npc/withers-toa.md)
 *Source: Tomb of Annihilation p. 145*  

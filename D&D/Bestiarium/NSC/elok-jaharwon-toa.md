@@ -1,17 +1,16 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/toa
-  - Monster/HG/4
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/human
-  - Monster/Typ/Humanoid/shapechanger
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Elok Jaharwon
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/4
+  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/shapechanger
+  - Quelle/5e/toa
 aliases:
   - Elok Jaharwon
+linter-yaml-title-alias: Elok Jaharwon
 ---
 # [Elok Jaharwon](3-Mechanics\CLI\bestiary\npc/elok-jaharwon-toa.md)
 *Source: Tomb of Annihilation p. 67*  

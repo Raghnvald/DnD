@@ -1,17 +1,17 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/ftd
-  - Monster/HG/2
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Drache/gem
 statblock: inline
 statblock-link: "#^statblock"
-aliases:
-  - Crystal Dragon Wyrmling
+Bezeichnung: Crystal Dragon Wyrmling
 Typ: Drache (Edelstein)
 Größe: Mittelgroß
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/2
+  - Monster/Typ/Drache/gem
+  - Quelle/5e/ftd
+aliases:
+  - Crystal Dragon Wyrmling
+linter-yaml-title-alias: Crystal Dragon Wyrmling
 ---
 # [Crystal Dragon Wyrmling](3-Mechanics\CLI\bestiary\dragon/crystal-dragon-wyrmling-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 172*  

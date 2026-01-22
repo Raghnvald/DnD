@@ -1,0 +1,39 @@
+filters:
+  and:
+    - '!file.name.endsWith("-xphb")'
+    - '!file.name.endsWith("-xdmg")'
+formulas:
+  Untitled 2: link(file, Bezeichnung)
+properties:
+  file.name:
+    displayName: Name
+  formula.Untitled 2:
+    displayName: Name
+views:
+  - type: table
+    name: Rüstungen
+    filters:
+      or:
+        - file.tags.contains("Gegenstand/Rüstung/Leicht")
+        - file.tags.contains("Gegenstand/Rüstung/Mittel")
+        - file.tags.contains("Gegenstand/Rüstung/Schwer")
+        - file.tags.contains("Gegenstand/Rüstung/Schild")
+    groupBy:
+      property: Rüstung
+      direction: ASC
+    order:
+      - formula.Untitled 2
+      - Kst.
+      - Gew.
+      - RK
+      - STR
+      - Heiml.
+      - Eigenschaften
+    sort:
+      - property: formula.Untitled 2
+        direction: ASC
+    columnSize:
+      note.Kst.: 88
+      note.RK: 150
+    markers: bullet
+    nestedProperties: false

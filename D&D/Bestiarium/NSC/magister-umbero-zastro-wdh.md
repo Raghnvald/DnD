@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/wdh
-  - Monster/HG/0
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/half-elf
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Magister Umbero Zastro
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/0
+  - Monster/Typ/Humanoid/half-elf
+  - Quelle/5e/wdh
 aliases:
   - Magister Umbero Zastro
+linter-yaml-title-alias: Magister Umbero Zastro
 ---
 # [Magister Umbero Zastro](3-Mechanics\CLI\bestiary\npc/magister-umbero-zastro-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 82*  

@@ -1,20 +1,20 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mpmm
-  - Monster/HG/3
-  - Monster/Habitat/Grasland
-  - Monster/Habitat/Sumpf
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Untote
 statblock: inline
 statblock-link: "#^statblock"
-aliases:
-  - Sword Wraith Warrior
+Bezeichnung: Sword Wraith Warrior
 Typ: Untoter
 Größe: Mittelgroß
 HG: 3
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Grasland
+  - Monster/Habitat/Sumpf
+  - Monster/HG/3
+  - Monster/Typ/Untote
+  - Quelle/5e/mpmm
+aliases:
+  - Sword Wraith Warrior
+linter-yaml-title-alias: Sword Wraith Warrior
 ---
 # [Sword Wraith Warrior](3-Mechanics\CLI\bestiary\undead/sword-wraith-warrior-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 239*  

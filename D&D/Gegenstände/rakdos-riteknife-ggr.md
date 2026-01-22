@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Rakdos Riteknife
+Typ: Einfache Nahkampfwaffe
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär

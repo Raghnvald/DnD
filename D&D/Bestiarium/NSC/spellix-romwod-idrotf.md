@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/idrotf
-  - Monster/HG/1-2
-  - Monster/Größe/Klein
-  - Monster/Typ/Humanoid/gnome
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Spellix Romwod
+tags:
+  - Monster/Größe/Klein
+  - Monster/HG/1-2
+  - Monster/Typ/Humanoid/gnome
+  - Quelle/5e/idrotf
 aliases:
   - Spellix Romwod
+linter-yaml-title-alias: Spellix Romwod
 ---
 # [Spellix Romwod](3-Mechanics\CLI\bestiary\npc/spellix-romwod-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 144*  

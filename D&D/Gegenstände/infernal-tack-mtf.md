@@ -1,18 +1,18 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Infernal Tack
 tags:
-  - Quelle/5e/mtf
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
+  - Quelle/5e/mtf
 aliases:
   - Infernal Tack
+linter-yaml-title-alias: Infernal Tack
+obsidianUIMode: preview
 ---
 # Infernal Tack
 *Wondrous item, legendary (requires attunement by a creature of evil alignment.)*  
-
-
 
 A rider binds a [nightmare](/3-Mechanics/CLI/bestiary/fiend/nightmare-xmm.md) to its service with infernal tack, which consists of a bridle, bit, reins, saddle, and stirrups, along with spurs that are worn by the rider. A nightmare equipped with infernal tack must serve whoever wears the spurs until the wearer dies or the tack is removed.
 

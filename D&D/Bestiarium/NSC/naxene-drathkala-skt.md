@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/skt
-  - Monster/HG/
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/turami-human
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Naxene Drathkala
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/
+  - Monster/Typ/Humanoid/turami-human
+  - Quelle/5e/skt
 aliases:
   - Naxene Drathkala
+linter-yaml-title-alias: Naxene Drathkala
 ---
 # [Naxene Drathkala](3-Mechanics\CLI\bestiary\npc/naxene-drathkala-skt.md)
 *Source: Storm King's Thunder p. 252*  

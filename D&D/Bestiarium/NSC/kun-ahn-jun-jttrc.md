@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/jttrc
-  - Monster/HG/1-8
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/human
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Kun Ahn-Jun
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/1-8
+  - Monster/Typ/Humanoid/human
+  - Quelle/5e/jttrc
 aliases:
   - Kun Ahn-Jun
+linter-yaml-title-alias: Kun Ahn-Jun
 ---
 # [Kun Ahn-Jun](3-Mechanics\CLI\bestiary\npc/kun-ahn-jun-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 81*  

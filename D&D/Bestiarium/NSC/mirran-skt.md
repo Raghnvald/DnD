@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/skt
-  - Monster/HG/13
-  - Monster/Größe/Riesig
-  - Monster/Typ/Riese
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Mirran
+tags:
+  - Monster/Größe/Riesig
+  - Monster/HG/13
+  - Monster/Typ/Riese
+  - Quelle/5e/skt
 aliases:
   - Mirran
+linter-yaml-title-alias: Mirran
 ---
 # [Mirran](3-Mechanics\CLI\bestiary\npc/mirran-skt.md)
 *Source: Storm King's Thunder p. 207*  

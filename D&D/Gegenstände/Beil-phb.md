@@ -11,8 +11,8 @@ tags:
   - Gegenstand/Waffe/Nahkampf
   - Quelle/5e/phb
 aliases:
-  - Handaxe
-linter-yaml-title-alias: Handaxe
+  - Beil
+linter-yaml-title-alias: Beil
 ---
 # Beil
 *Waffe*  

@@ -1,13 +1,16 @@
 ---
-tags:
-  - Quelle/5e/bgdia
-  - Monster/HG/14
-  - Monster/Größe/Gigantisch
-  - Monster/Typ/Unhold/demon
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: "Crokek'toeck"
+tags:
+  - Monster/Größe/Gigantisch
+  - Monster/HG/14
+  - Monster/Typ/Unhold/demon
+  - Quelle/5e/bgdia
 aliases:
+  - "Crokek'toeck"
   - Crokek'toeck
+linter-yaml-title-alias: "Crokek'toeck"
 ---
 # Crokek'toeck
 *Source: Baldur's Gate: Descent Into Avernus p. 231*  

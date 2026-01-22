@@ -1,18 +1,18 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Gloves of Soul Catching
 tags:
-  - Quelle/5e/cm
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
+  - Quelle/5e/cm
 aliases:
   - Gloves of Soul Catching
+linter-yaml-title-alias: Gloves of Soul Catching
+obsidianUIMode: preview
 ---
 # Gloves of Soul Catching
 *Wondrous item, legendary (requires attunement)*  
-
-
 
 Your Constitution score is 20 while you wear these gloves. This property of the gloves has no effect on you if your Constitution is already 20 or higher.
 

@@ -1,22 +1,22 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/2
-  - Monster/Habitat/Wald
-  - Monster/Größe/Winzig
-  - Monster/Typ/Drache
 statblock: inline
 statblock-link: "#^statblock"
-aliases:
-  - Faerie Dragon Adult
-Größe: Winzig
+Bezeichnung: Faerie Dragon Adult
 Typ: Drache
+Größe: Winzig
 HG: 2
 Habitat:
   - Wald
 status: WIP
+tags:
+  - Monster/Größe/Winzig
+  - Monster/Habitat/Wald
+  - Monster/HG/2
+  - Monster/Typ/Drache
+  - Quelle/5e/xmm
+aliases:
+  - Faerie Dragon Adult
+linter-yaml-title-alias: Faerie Dragon Adult
 ---
 # [Faerie Dragon Adult](3-Mechanics\CLI\bestiary\dragon/faerie-dragon-adult-xmm.md)
 *Source: Monster Manual (2024) p. 117*  

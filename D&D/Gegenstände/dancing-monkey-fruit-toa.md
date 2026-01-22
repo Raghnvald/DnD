@@ -1,16 +1,17 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Dancing Monkey Fruit
 tags:
-  - Quelle/5e/toa
   - Gegenstand/Seltenheit/unbekannt/magic
   - Gegenstand/wundersam/other
+  - Quelle/5e/toa
 aliases:
   - Dancing Monkey Fruit
+linter-yaml-title-alias: Dancing Monkey Fruit
+obsidianUIMode: preview
 ---
 # Dancing Monkey Fruit
-
 
 - **Cost**: 5 gp
 

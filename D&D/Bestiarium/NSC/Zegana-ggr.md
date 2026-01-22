@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- Quelle/5e/ggr
-- Monster/HG/16
-- Monster/Größe/Mittelgroß
-- Monster/Typ/Humanoid/merfolk
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Zegana
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/16
+  - Monster/Typ/Humanoid/merfolk
+  - Quelle/5e/ggr
 aliases:
-- Zegana
+  - Zegana
+linter-yaml-title-alias: Zegana
 ---
 # [Zegana](3-Mechanics\CLI\bestiary\npc/zegana-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 255*  

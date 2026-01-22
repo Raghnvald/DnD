@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/skt
-  - Monster/HG/2
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/half-elf
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Xolkin Alassandar
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/2
+  - Monster/Typ/Humanoid/half-elf
+  - Quelle/5e/skt
 aliases:
   - Xolkin Alassandar
+linter-yaml-title-alias: Xolkin Alassandar
 ---
 # [Xolkin Alassandar](3-Mechanics\CLI\bestiary\npc/xolkin-alassandar-skt.md)
 *Source: Storm King's Thunder p. 27*  

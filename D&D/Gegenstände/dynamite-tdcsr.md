@@ -1,17 +1,18 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Dynamite
 tags:
-  - Quelle/5e/tdcsr
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/explosive
+  - Quelle/5e/tdcsr
 aliases:
   - Dynamite
+linter-yaml-title-alias: Dynamite
+obsidianUIMode: preview
 ---
 # Dynamite
 *Explosive*  
-
 
 - **Damage**: 6d6 fire
 - **Range**: 30

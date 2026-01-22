@@ -1,17 +1,17 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/8
-  - Monster/Habitat/Küste
-  - Monster/Größe/Groß
-  - Monster/Typ/Drache/metallic
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Young Bronze Dragon
+status: WIP
+tags:
+  - Monster/Größe/Groß
+  - Monster/Habitat/Küste
+  - Monster/HG/8
+  - Monster/Typ/Drache/metallic
+  - Quelle/5e/xmm
 aliases:
   - Young Bronze Dragon
-status: WIP
+linter-yaml-title-alias: Young Bronze Dragon
 ---
 # [Young Bronze Dragon](3-Mechanics\CLI\bestiary\dragon/young-bronze-dragon-xmm.md)
 *Source: Monster Manual (2024) p. 58. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

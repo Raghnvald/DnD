@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Berserker Axe
+Typ: Nahkampf-Kriegswaffe
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten

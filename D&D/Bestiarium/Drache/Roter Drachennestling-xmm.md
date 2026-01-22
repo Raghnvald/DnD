@@ -1,24 +1,24 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/4
-  - Monster/Habitat/Hügel
-  - Monster/Habitat/Berg
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Drache/chromatic
 statblock: inline
 statblock-link: "#^statblock"
-aliases:
-  - Red Dragon Wyrmling
+Bezeichnung: Red Dragon Wyrmling
 Typ: Drache (Chromatisch)
 Größe: Mittelgroß
 HG: 4
-status: WIP
 Habitat:
   - Berg
   - Hügel
+status: WIP
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Berg
+  - Monster/Habitat/Hügel
+  - Monster/HG/4
+  - Monster/Typ/Drache/chromatic
+  - Quelle/5e/xmm
+aliases:
+  - Red Dragon Wyrmling
+linter-yaml-title-alias: Red Dragon Wyrmling
 ---
 # [Red Dragon Wyrmling](3-Mechanics\CLI\bestiary\dragon/red-dragon-wyrmling-xmm.md)
 *Source: Monster Manual (2024) p. 254. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

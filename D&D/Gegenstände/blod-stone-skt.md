@@ -1,18 +1,18 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Blod Stone
 tags:
-  - Quelle/5e/skt
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
+  - Quelle/5e/skt
 aliases:
   - Blod Stone
+linter-yaml-title-alias: Blod Stone
+obsidianUIMode: preview
 ---
 # Blod Stone
 *Wondrous item, rare (requires attunement)*  
-
-
 
 This diamond contains the blood of a creature—blood that appears in the form of the blod (blood) rune. While the item is on your person, you can use your action to divine the location of the creature nearest to you that is related to the blood in the item and that isn't undead. You sense the distance and direction of the creature relative to your location. The creature is either the one whose blood is in the item or a blood relative.
 

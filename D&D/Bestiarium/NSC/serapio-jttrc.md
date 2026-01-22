@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/jttrc
-  - Monster/HG/5
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Unhold/demon
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Serapio
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/5
+  - Monster/Typ/Unhold/demon
+  - Quelle/5e/jttrc
 aliases:
   - Serapio
+linter-yaml-title-alias: Serapio
 ---
 # [Serapio](3-Mechanics\CLI\bestiary\npc/serapio-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 61*  

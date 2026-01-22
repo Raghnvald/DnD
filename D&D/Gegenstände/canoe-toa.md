@@ -1,17 +1,18 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Canoe
 tags:
-  - Quelle/5e/toa
-  - Gegenstand/Seltenheit/keine
   - Gegenstand/Fortbewegung/ship-water
+  - Gegenstand/Seltenheit/keine
+  - Quelle/5e/toa
 aliases:
   - Canoe
+linter-yaml-title-alias: Canoe
+obsidianUIMode: preview
 ---
 # Canoe
 *Ship, vehicle (water)*  
-
 
 - **Cost**: 50 gp
 - **Weight**: 100.0 lbs.

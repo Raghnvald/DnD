@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Shield of the Silver Dragon
+Rüstung: Schild
 tags:
   - Gegenstand/Rüstung/Schild/
   - Gegenstand/Seltenheit/selten

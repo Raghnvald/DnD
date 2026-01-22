@@ -1,17 +1,16 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/jttrc
-  - Monster/HG/4
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/human
-  - Monster/Typ/Humanoid/shapechanger
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Dukha Bhatiyali
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/4
+  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/shapechanger
+  - Quelle/5e/jttrc
 aliases:
   - Dukha Bhatiyali
+linter-yaml-title-alias: Dukha Bhatiyali
 ---
 # [Dukha Bhatiyali](3-Mechanics\CLI\bestiary\npc/dukha-bhatiyali-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 124*  

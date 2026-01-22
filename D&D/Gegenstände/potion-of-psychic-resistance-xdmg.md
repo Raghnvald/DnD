@@ -7,8 +7,8 @@ tags:
   - Gegenstand/wundersam/Trank
   - Quelle/5e/xdmg
 aliases:
-  - Potion of Psychic Resistance
   - "Potion of Psychic Resistance"
+  - Potion of Psychic Resistance
 linter-yaml-title-alias: Potion of Psychic Resistance
 obsidianUIMode: preview
 ---

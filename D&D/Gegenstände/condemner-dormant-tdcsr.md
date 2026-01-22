@@ -1,15 +1,18 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Condemner (Dormant)
+Typ: Fernkampf-Kriegswaffe
 tags:
-  - Quelle/5e/tdcsr
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
-  - Gegenstand/Waffe/Kriegswaffe
   - Gegenstand/Waffe/Fernkampf
+  - Gegenstand/Waffe/Kriegswaffe
+  - Quelle/5e/tdcsr
 aliases:
   - Condemner (Dormant)
+linter-yaml-title-alias: Condemner (Dormant)
+obsidianUIMode: preview
 ---
 # Condemner (Dormant)
 *Weapon ([heavy crossbow](/3-Mechanics/CLI/items/heavy-crossbow-xphb.md)), legendary (requires attunement)*  

@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/idrotf
-  - Monster/HG/4
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/human
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Vellynne Harpell
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/4
+  - Monster/Typ/Humanoid/human
+  - Quelle/5e/idrotf
 aliases:
   - Vellynne Harpell
+linter-yaml-title-alias: Vellynne Harpell
 ---
 # [Vellynne Harpell](3-Mechanics\CLI\bestiary\npc/vellynne-harpell-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 273*  

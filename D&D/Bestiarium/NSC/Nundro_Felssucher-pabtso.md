@@ -1,23 +1,23 @@
 ---
-cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
-Name: Nundro Felssucher
+statblock: inline
+statblock-link: "#^statblock"
+Bezeichnung: Nundro Rockseeker
 Typ: Humanoid (Zwerg)
 Größe: Mittelgroß
 HG: 0
 Habitat:
   - /
-status: completed
 image: image/nundro-rockseeker-pabtso.webp
+status: completed
 tags:
-  - Quelle/5e/pabtso
-  - Monster/HG/0
   - Monster/Größe/Mittelgroß
+  - Monster/HG/0
   - Monster/Typ/Humanoid/any-race
-statblock: inline
-statblock-link: "#^statblock"
+  - Quelle/5e/pabtso
 aliases:
   - Nundro Rockseeker
+linter-yaml-title-alias: Nundro Rockseeker
 ---
 # Nundro Rockseeker
 *Source: Phandelver and Below: The Shattered Obelisk p. 73*  

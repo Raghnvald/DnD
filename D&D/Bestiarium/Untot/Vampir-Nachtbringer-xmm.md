@@ -1,17 +1,7 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/8
-  - Monster/Habitat/Unterreich
-  - Monster/Habitat/Stadt
-  - Monster/Größe/Klein-oder-Mittelgroß
-  - Monster/Typ/Untote
 statblock: inline
 statblock-link: "#^statblock"
-aliases:
-  - Vampire Nightbringer
+Bezeichnung: Vampire Nightbringer
 Typ: Untoter
 Größe: M oder S
 HG: 8
@@ -19,6 +9,16 @@ Habitat:
   - Stadt
   - Unterreich
 status: WIP
+tags:
+  - Monster/Größe/Klein-oder-Mittelgroß
+  - Monster/Habitat/Stadt
+  - Monster/Habitat/Unterreich
+  - Monster/HG/8
+  - Monster/Typ/Untote
+  - Quelle/5e/xmm
+aliases:
+  - Vampire Nightbringer
+linter-yaml-title-alias: Vampire Nightbringer
 ---
 # [Vampire Nightbringer](3-Mechanics\CLI\bestiary\undead/vampire-nightbringer-xmm.md)
 *Source: Monster Manual (2024) p. 316*  
@@ -55,7 +55,6 @@ Vampires and vampire umbral lords create sanctuaries apart from the living, whet
 > [!quote] A quote from Astarion, Vampire Spawn  
 > 
 > Darling, you are simply delicious...
-
 
 ```statblock
 "name": "Vampire Nightbringer (XMM)"

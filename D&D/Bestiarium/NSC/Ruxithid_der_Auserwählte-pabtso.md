@@ -1,19 +1,21 @@
 ---
-Name: Ruxithid der Auserwählte
+statblock: inline
+statblock-link: "#^statblock"
+Bezeichnung: Ruxithid der Auserwählte
 Typ: Aberration (Goblinoid)
 Größe: Mittelgroß
 HG: 5
-status: WIP
 image: ruxithid-the-chosen-pabtso.webp
+status: WIP
 tags:
-  - Quelle/5e/pabtso
-  - Monster/HG/5
   - Monster/Größe/Mittelgroß
+  - Monster/HG/5
   - Monster/Typ/Aberration/Goblinoid
-statblock: inline
-statblock-link: "#^statblock"
+  - Quelle/5e/pabtso
 aliases:
+  - Ruxithid der Auserwählte
   - Ruxithid the Chosen
+linter-yaml-title-alias: Ruxithid der Auserwählte
 ---
 # Ruxithid der Auserwählte
 *Quelle: Phandelver and Below: The Shattered Obelisk p. 99*  

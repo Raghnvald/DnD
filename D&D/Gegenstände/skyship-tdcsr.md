@@ -1,13 +1,15 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Skyship
 tags:
-  - Quelle/5e/tdcsr
-  - Gegenstand/Seltenheit/keine
   - Gegenstand/Fortbewegung/airship-air
+  - Gegenstand/Seltenheit/keine
+  - Quelle/5e/tdcsr
 aliases:
   - Skyship
+linter-yaml-title-alias: Skyship
+obsidianUIMode: preview
 ---
 # Skyship
 *Airship, vehicle (air)*  

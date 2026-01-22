@@ -9,8 +9,8 @@ tags:
   - Gegenstand/Eigenschaft/Gift
   - Quelle/5e/dmg
 aliases:
-  - Wahrheitsserum (Einnahme)
   - Truth Serum
+  - Wahrheitsserum (Einnahme)
 linter-yaml-title-alias: Wahrheitsserum (Einnahme)
 ---
 # Wahrheitsserum (Einnahme)

@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Gedankenkristall (Mächtig)
+Bezeichnung: Mind Crystal (Empowered)
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/pabtso

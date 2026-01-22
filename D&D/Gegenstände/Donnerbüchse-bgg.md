@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Thunderbuss
+Typ: Fernkampf-Kriegswaffe
 tags:
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/Waffe/Fernkampf

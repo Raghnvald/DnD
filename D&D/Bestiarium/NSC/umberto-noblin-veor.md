@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/veor
-  - Monster/HG/6
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/gnome
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Umberto Noblin
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/6
+  - Monster/Typ/Humanoid/gnome
+  - Quelle/5e/veor
 aliases:
   - Umberto Noblin
+linter-yaml-title-alias: Umberto Noblin
 ---
 # [Umberto Noblin](3-Mechanics\CLI\bestiary\npc/umberto-noblin-veor.md)
 *Source: Vecna: Eve of Ruin*  

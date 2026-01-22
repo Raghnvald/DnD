@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/skt
-  - Monster/HG/
-  - Monster/Größe/Klein
-  - Monster/Typ/Humanoid/strongheart-halfling
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Oren Yogilvy
+tags:
+  - Monster/Größe/Klein
+  - Monster/HG/
+  - Monster/Typ/Humanoid/strongheart-halfling
+  - Quelle/5e/skt
 aliases:
   - Oren Yogilvy
+linter-yaml-title-alias: Oren Yogilvy
 ---
 # [Oren Yogilvy](3-Mechanics\CLI\bestiary\npc/oren-yogilvy-skt.md)
 *Source: Storm King's Thunder p. 252*  

@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/cm
-  - Monster/HG/2
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/dragonborn
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Ram Sugar
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/2
+  - Monster/Typ/Humanoid/dragonborn
+  - Quelle/5e/cm
 aliases:
   - Ram Sugar
+linter-yaml-title-alias: Ram Sugar
 ---
 # [Ram Sugar](3-Mechanics\CLI\bestiary\npc/ram-sugar-cm.md)
 *Source: Candlekeep Mysteries p. 132*  

@@ -7,8 +7,8 @@ tags:
   - Gegenstand/Waffe/Nahkampf
   - Quelle/5e/pabtso
 aliases:
-  - Spinnenstab
   - Spider Staff
+  - Spinnenstab
 linter-yaml-title-alias: Spinnenstab
 ---
 # Spinnenstab

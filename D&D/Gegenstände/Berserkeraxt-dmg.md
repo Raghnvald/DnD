@@ -11,7 +11,9 @@ tags:
   - Gegenstand/Waffe/Nahkampf/Beliebig
   - Quelle/5e/dmg
 aliases:
+  - Berserkeraxt
   - Berserker Axe
+linter-yaml-title-alias: Berserkeraxt
 ---
 # Berserkeraxt
 _Waffe (beliebige Streitaxt, Zweihandaxt oder Hellebarde), selten (erfordert Einstimmung)_

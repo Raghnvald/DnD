@@ -4,8 +4,8 @@ tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/ftd
 aliases:
-  - Emerald Pen
   - "Emerald Pen"
+  - Emerald Pen
 linter-yaml-title-alias: Emerald Pen
 ---
 # Emerald Pen

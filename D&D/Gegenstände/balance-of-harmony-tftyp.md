@@ -1,16 +1,17 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Balance of Harmony
 tags:
-  - Quelle/5e/tftyp
   - Gegenstand/Seltenheit/ungewöhnlich
+  - Quelle/5e/tftyp
 aliases:
   - Balance of Harmony
+linter-yaml-title-alias: Balance of Harmony
+obsidianUIMode: preview
 ---
 # Balance of Harmony
 *Wondrous item, uncommon*  
-
 
 - **Weight**: 1.0 lbs.
 

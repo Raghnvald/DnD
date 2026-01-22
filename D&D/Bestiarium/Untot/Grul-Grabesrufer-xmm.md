@@ -1,18 +1,18 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/6
-  - Monster/Habitat/Sumpf
-  - Monster/Habitat/Unterreich
-  - Monster/Habitat/Stadt
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Untote
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Ghast Gravecaller
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Stadt
+  - Monster/Habitat/Sumpf
+  - Monster/Habitat/Unterreich
+  - Monster/HG/6
+  - Monster/Typ/Untote
+  - Quelle/5e/xmm
 aliases:
   - Ghast Gravecaller
+linter-yaml-title-alias: Ghast Gravecaller
 ---
 # [Ghast Gravecaller](3-Mechanics\CLI\bestiary\undead/ghast-gravecaller-xmm.md)
 *Source: Monster Manual (2024) p. 130*  

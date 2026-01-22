@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/tftyp
-  - Monster/HG/10
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Himmlische
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Lumalia
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/10
+  - Monster/Typ/Himmlische
+  - Quelle/5e/tftyp
 aliases:
   - Lumalia
+linter-yaml-title-alias: Lumalia
 ---
 # [Lumalia](3-Mechanics\CLI\bestiary\npc/lumalia-tftyp.md)
 *Source: Tales from the Yawning Portal p. 153*  

@@ -1,22 +1,22 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mm
-  - Monster/HG/13
-  - Monster/Habitat/Arktis
-  - Monster/Größe/Riesig
-  - Monster/Typ/Drache
 statblock: inline
 statblock-link: "#^statblock"
-aliases:
-  - Adult White Dragon
+Bezeichnung: Adult White Dragon
 Typ: Drache
 Größe: Riesig
 HG: 13
-status: WIP
 Habitat:
   - Arktis
+status: WIP
+tags:
+  - Monster/Größe/Riesig
+  - Monster/Habitat/Arktis
+  - Monster/HG/13
+  - Monster/Typ/Drache
+  - Quelle/5e/mm
+aliases:
+  - Adult White Dragon
+linter-yaml-title-alias: Adult White Dragon
 ---
 # [Adult White Dragon](3-Mechanics\CLI\bestiary\dragon/adult-white-dragon.md)
 *Source: Monster Manual p. 101. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  

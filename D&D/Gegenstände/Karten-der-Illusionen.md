@@ -5,8 +5,8 @@ tags:
   - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
-  - Karten der Illusionen
   - Deck of Illusions
+  - Karten der Illusionen
 linter-yaml-title-alias: Karten der Illusionen
 ---
 # Karten der Illusionen

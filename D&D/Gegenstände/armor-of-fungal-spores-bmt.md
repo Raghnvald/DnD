@@ -1,12 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Armor of Fungal Spores
+Rüstung: Mittel
 tags:
-  - Quelle/5e/bmt
   - Gegenstand/Rüstung/Mittel
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/wundersam/generic-variant
+  - Quelle/5e/bmt
 aliases:
   - Armor of Fungal Spores
   - Breastplate of Fungal Spores
@@ -15,11 +16,12 @@ aliases:
   - Hide Armor of Fungal Spores
   - Scale Mail of Fungal Spores
   - Spiked Armor of Fungal Spores
+linter-yaml-title-alias: Armor of Fungal Spores
+obsidianUIMode: preview
 ---
 # Armor of Fungal Spores
 *Uncommon*  
 ![](/3-Mechanics/CLI/items/img/armor-of-fungal-spores.webp#right)
-
 
 While wearing this armor, you can take a bonus action to make the armor emit poisonous spores, which fill a 10-foot-radius sphere centered on yourself. Each creature in that area must succeed on a DC 15 Constitution saving throw or have the poisoned condition until the end of your next turn. Once this property is used, it can't be used again until the next dawn.
 
@@ -63,6 +65,5 @@ While wearing this armor, you can take a bonus action to make the armor emit poi
 - **Armor Class**: 14 + Dex modifier (max of +2)
 - **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
 - **Weight**: 45.0 lbs.
-
 
 *Source: The Book of Many Things p. 65*

@@ -2,13 +2,14 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Half Plate Armor
+Rüstung: Mittel
 tags:
   - Gegenstand/Rüstung/Mittel
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Half Plate Armor
   - "Half Plate Armor"
+  - Half Plate Armor
 linter-yaml-title-alias: Half Plate Armor
 obsidianUIMode: preview
 ---

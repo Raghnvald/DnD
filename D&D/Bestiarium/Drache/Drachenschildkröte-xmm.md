@@ -1,24 +1,24 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/17
-  - Monster/Habitat/Küste
-  - Monster/Habitat/underwater
-  - Monster/Größe/Gigantisch
-  - Monster/Typ/Drache
 statblock: inline
 statblock-link: "#^statblock"
-aliases:
-  - Dragon Turtle
+Bezeichnung: Dragon Turtle
 Typ: Drache
 Größe: Gigantisch
+HG: 17
 Habitat:
   - Küste
   - Unterwasser
-HG: 17
 status: WIP
+tags:
+  - Monster/Größe/Gigantisch
+  - Monster/Habitat/Küste
+  - Monster/Habitat/underwater
+  - Monster/HG/17
+  - Monster/Typ/Drache
+  - Quelle/5e/xmm
+aliases:
+  - Dragon Turtle
+linter-yaml-title-alias: Dragon Turtle
 ---
 # [Dragon Turtle](3-Mechanics\CLI\bestiary\dragon/dragon-turtle-xmm.md)
 *Source: Monster Manual (2024) p. 103. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

@@ -1,15 +1,15 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/cos
-  - Monster/HG/1-4
-  - Monster/Größe/Klein
-  - Monster/Typ/Konstrukt
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Pidlwick II
+tags:
+  - Monster/Größe/Klein
+  - Monster/HG/1-4
+  - Monster/Typ/Konstrukt
+  - Quelle/5e/cos
 aliases:
   - Pidlwick II
+linter-yaml-title-alias: Pidlwick II
 ---
 # Pidlwick II
 *Quelle: Fluch des Strahd S. 236*  

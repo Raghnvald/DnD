@@ -1,13 +1,16 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: "Cabal's Ruin (Dormant)"
 tags:
-  - Quelle/5e/tdcsr
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
+  - Quelle/5e/tdcsr
 aliases:
+  - "Cabal's Ruin (Dormant)"
   - Cabal's Ruin (Dormant)
+linter-yaml-title-alias: "Cabal's Ruin (Dormant)"
+obsidianUIMode: preview
 ---
 # Cabal's Ruin (Dormant)
 *Wondrous item, legendary (requires attunement)*  

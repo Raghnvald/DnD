@@ -1,19 +1,21 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Silken Spite (Awakened)
+Typ: Nahkampf-Kriegswaffe
 tags:
-  - Quelle/5e/egw
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/Artefakt
   - Gegenstand/Waffe/Kriegswaffe
   - Gegenstand/Waffe/Nahkampf
+  - Quelle/5e/egw
 aliases:
   - Silken Spite (Awakened)
+linter-yaml-title-alias: Silken Spite (Awakened)
+obsidianUIMode: preview
 ---
 # Silken Spite (Awakened)
 *Weapon ([rapier](/3-Mechanics/CLI/items/rapier-xphb.md)), artifact (requires attunement)*  
-
 
 - **Damage**: 1d8 piercing
 - **Properties**: [Finesse](/3-Mechanics/CLI/item-properties.md#Finesse), [Vestige of Divergence](/3-Mechanics/CLI/item-properties.md#Vestige%20of%20Divergence)

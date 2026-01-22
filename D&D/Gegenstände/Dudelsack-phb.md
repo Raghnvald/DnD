@@ -10,7 +10,9 @@ tags:
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
+  - Dudelsack
   - Bagpipes
+linter-yaml-title-alias: Dudelsack
 ---
 # Dudelsack
 *Instrument*  

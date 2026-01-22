@@ -1,19 +1,21 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Stonemaker War Pick
+Typ: Nahkampf-Kriegswaffe
 tags:
-  - Quelle/5e/bmt
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/Waffe/Kriegswaffe
   - Gegenstand/Waffe/Nahkampf
+  - Quelle/5e/bmt
 aliases:
   - Stonemaker War Pick
+linter-yaml-title-alias: Stonemaker War Pick
+obsidianUIMode: preview
 ---
 # Stonemaker War Pick
 *Weapon (war pick), very rare (requires attunement)*  
-
 
 - **Damage**: 1d8 piercing
 - **Weight**: 2.0 lbs.

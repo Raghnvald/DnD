@@ -1,14 +1,13 @@
 ---
-cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
-Bezeichnung:
+Bezeichnung: Dragonling-hgmh1
 Typ: Drache
 Größe:
 HG:
-status: WIP
 image:
+status: WIP
 tags:
-  - Quelle/5e/hgtmh1
   - Monster/Typ/Drache
-aliases: []
+  - Quelle/5e/hgtmh1
 ---
+# Dragonling-hgmh1

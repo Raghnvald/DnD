@@ -1,15 +1,15 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/ftd
-  - Monster/HG/18
-  - Monster/Größe/Riesig
-  - Monster/Typ/Untote
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Hollow Dragon
+tags:
+  - Monster/Größe/Riesig
+  - Monster/HG/18
+  - Monster/Typ/Untote
+  - Quelle/5e/ftd
 aliases:
   - Hollow Dragon
+linter-yaml-title-alias: Hollow Dragon
 ---
 # [Hollow Dragon](3-Mechanics\CLI\bestiary\undead/hollow-dragon-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 206*  

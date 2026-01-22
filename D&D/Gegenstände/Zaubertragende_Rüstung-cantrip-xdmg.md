@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Enspelled Armor (Cantrip)
+Rüstung: Leicht, Mittel oder Schwer
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Rüstung/Leicht

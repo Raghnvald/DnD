@@ -1,22 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mcv1sc
-  - Monster/HG/15
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Untote
 statblock: inline
 statblock-link: "#^statblock"
-aliases:
-  - Eldritch Lich
+Bezeichnung: Eldritch Lich
 Typ: Untoter
 Größe: Mittelgroß
 HG: "15"
 Habitat:
   - /
 status: WIP
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/15
+  - Monster/Typ/Untote
+  - Quelle/5e/mcv1sc
+aliases:
+  - Eldritch Lich
+linter-yaml-title-alias: Eldritch Lich
 ---
 # [Eldritch Lich](3-Mechanics\CLI\bestiary\undead/eldritch-lich-mcv1sc.md)
 *Source: Monstrous Compendium Volume 1: Spelljammer Creatures p. 6*  

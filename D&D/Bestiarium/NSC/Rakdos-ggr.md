@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- Quelle/5e/ggr
-- Monster/HG/24
-- Monster/Größe/Riesig
-- Monster/Typ/Unhold/demon
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Rakdos
+tags:
+  - Monster/Größe/Riesig
+  - Monster/HG/24
+  - Monster/Typ/Unhold/demon
+  - Quelle/5e/ggr
 aliases:
-- Rakdos
+  - Rakdos
+linter-yaml-title-alias: Rakdos
 ---
 # [Rakdos](3-Mechanics\CLI\bestiary\npc/rakdos-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 247*  

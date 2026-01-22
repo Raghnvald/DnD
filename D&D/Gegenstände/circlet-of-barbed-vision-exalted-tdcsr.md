@@ -1,13 +1,15 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Circlet of Barbed Vision (Exalted)
 tags:
-  - Quelle/5e/tdcsr
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
+  - Quelle/5e/tdcsr
 aliases:
   - Circlet of Barbed Vision (Exalted)
+linter-yaml-title-alias: Circlet of Barbed Vision (Exalted)
+obsidianUIMode: preview
 ---
 # Circlet of Barbed Vision (Exalted)
 *Wondrous item, legendary (requires attunement by a creature of non-good alignment)*  

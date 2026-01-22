@@ -1,18 +1,18 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Black Crystal Tablet
 tags:
-  - Quelle/5e/wdmm
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
+  - Quelle/5e/wdmm
 aliases:
   - Black Crystal Tablet
+linter-yaml-title-alias: Black Crystal Tablet
+obsidianUIMode: preview
 ---
 # Black Crystal Tablet
 *Wondrous item, legendary (requires attunement by a creature that has proficiency in the Arcana skill)*  
-
-
 
 Any creature that attunes to the tablet must make a DC 20 Wisdom saving throw at the end of its next long rest. On a failed save, the creature becomes afflicted with a random form of long-term madness (see ""Madness"" in chapter 8 of the "Dungeon Master's Guide").
 

@@ -1,16 +1,16 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mm
-  - Monster/HG/8
-  - Monster/Habitat/Wald
-  - Monster/Größe/Groß
-  - Monster/Typ/Drache
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Young Green Dragon
+tags:
+  - Monster/Größe/Groß
+  - Monster/Habitat/Wald
+  - Monster/HG/8
+  - Monster/Typ/Drache
+  - Quelle/5e/mm
 aliases:
   - Young Green Dragon
+linter-yaml-title-alias: Young Green Dragon
 ---
 # [Young Green Dragon](3-Mechanics\CLI\bestiary\dragon/young-green-dragon.md)
 *Source: Monster Manual p. 94. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  

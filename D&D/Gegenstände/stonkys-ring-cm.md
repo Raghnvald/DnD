@@ -1,19 +1,20 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: "Stonky's ring"
 tags:
-  - Quelle/5e/cm
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/unbekannt/magic
   - Gegenstand/wundersam/ring
+  - Quelle/5e/cm
 aliases:
+  - "Stonky's ring"
   - Stonky's ring
+linter-yaml-title-alias: "Stonky's ring"
+obsidianUIMode: preview
 ---
 # Stonky's ring
 *Ring (requires attunement)*  
-
-
 
 While wearing this ring, you can cast the telekinesis spell at will, but you can target only objects that aren't being worn or carried.
 

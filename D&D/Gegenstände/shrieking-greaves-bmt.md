@@ -1,13 +1,15 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Shrieking Greaves
 tags:
-  - Quelle/5e/bmt
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
+  - Quelle/5e/bmt
 aliases:
   - Shrieking Greaves
+linter-yaml-title-alias: Shrieking Greaves
+obsidianUIMode: preview
 ---
 # Shrieking Greaves
 *Wondrous item, cursed item, rare (requires attunement)*  

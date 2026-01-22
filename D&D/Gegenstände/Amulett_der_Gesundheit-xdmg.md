@@ -9,8 +9,8 @@ tags:
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/xdmg
 aliases:
-  - Amulett der Gesundheit
   - Amulet of Health
+  - Amulett der Gesundheit
 linter-yaml-title-alias: Amulett der Gesundheit
 ---
 # Amulett der Gesundheit

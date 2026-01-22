@@ -1,21 +1,20 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/vgm
-  - Monster/HG/2
-  - Monster/Habitat/Sumpf
-  - Monster/Habitat/Stadt
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Drache
 statblock: inline
 statblock-link: "#^statblock"
-aliases:
-  - Black Guard Drake
+Bezeichnung: Black Guard Drake
 Typ: Drache
 Größe: Mittelgroß
 HG: 2
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Stadt
+  - Monster/Habitat/Sumpf
+  - Monster/HG/2
+  - Monster/Typ/Drache
+  - Quelle/5e/vgm
+aliases:
+  - Black Guard Drake
+linter-yaml-title-alias: Black Guard Drake
 ---
 # [Black Guard Drake](3-Mechanics\CLI\bestiary\dragon/black-guard-drake-vgm.md)
 *Source: Volo's Guide to Monsters p. 158*  

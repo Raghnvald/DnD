@@ -1,19 +1,7 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/5
-  - Monster/Habitat/planar
-  - Monster/Habitat/shadowfell
-  - Monster/Habitat/Unterreich
-  - Monster/Habitat/Stadt
-  - Monster/Größe/Groß
-  - Monster/Typ/Untote
 statblock: inline
 statblock-link: "#^statblock"
-aliases:
-  - Beholder Zombie
+Bezeichnung: Beholder Zombie
 Typ: Untoter
 Größe: Groß
 HG: 5
@@ -21,6 +9,18 @@ Habitat:
   - Planar (Schattensaum)
   - Unterreich
 status: WIP
+tags:
+  - Monster/Größe/Groß
+  - Monster/Habitat/planar
+  - Monster/Habitat/shadowfell
+  - Monster/Habitat/Stadt
+  - Monster/Habitat/Unterreich
+  - Monster/HG/5
+  - Monster/Typ/Untote
+  - Quelle/5e/xmm
+aliases:
+  - Beholder Zombie
+linter-yaml-title-alias: Beholder Zombie
 ---
 # [Beholder Zombie](3-Mechanics\CLI\bestiary\undead/beholder-zombie-xmm.md)
 *Source: Monster Manual (2024) p. 347*  
@@ -43,7 +43,6 @@ Zombies are usually created from Humanoid corpses, but the remains of other crea
 > [!quote] A quote from Account of the Night of the Walking Dead  
 > 
 > Then, by a spectacular crack of lightning, the figures came into view, moving slowly toward the village. Over driving winds a voice cried out, "The dead come for Marais d'Tarascon! An army of the walking dead!"
-
 
 ```statblock
 "name": "Beholder Zombie (XMM)"

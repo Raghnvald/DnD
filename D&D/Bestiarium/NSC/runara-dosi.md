@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/dosi
-  - Monster/HG/13
-  - Monster/Größe/Riesig
-  - Monster/Typ/Drache
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Runara
+tags:
+  - Monster/Größe/Riesig
+  - Monster/HG/13
+  - Monster/Typ/Drache
+  - Quelle/5e/dosi
 aliases:
   - Runara
+linter-yaml-title-alias: Runara
 ---
 # [Runara](3-Mechanics\CLI\bestiary\npc/runara-dosi.md)
 *Source: Dragons of Stormwreck Isle p. 40*  

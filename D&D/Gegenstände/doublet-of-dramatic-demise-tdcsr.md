@@ -1,17 +1,17 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Doublet of Dramatic Demise
 tags:
-  - Quelle/5e/tdcsr
   - Gegenstand/Seltenheit/gewöhnlich
+  - Quelle/5e/tdcsr
 aliases:
   - Doublet of Dramatic Demise
+linter-yaml-title-alias: Doublet of Dramatic Demise
+obsidianUIMode: preview
 ---
 # Doublet of Dramatic Demise
 *Wondrous item, common*  
-
-
 
 This striking satin jacket allows you to make the most of your dying moments. When you drop to 0 hit points while wearing this doublet, you do not fall [unconscious](/3-Mechanics/CLI/conditions.md#Unconscious). Instead, you are [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated) and your speed becomes 0, but you can speak and communicate.
 

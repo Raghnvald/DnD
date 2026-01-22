@@ -1,5 +1,6 @@
 ---
 Bezeichnung: +3 Armor
+Rüstung: Leicht, Mittel oder Schwer
 tags:
   - Gegenstand/Rüstung/Leicht
   - Gegenstand/Rüstung/Mittel

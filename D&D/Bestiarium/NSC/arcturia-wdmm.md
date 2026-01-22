@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/wdmm
-  - Monster/HG/21
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Untote
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Arcturia
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/21
+  - Monster/Typ/Untote
+  - Quelle/5e/wdmm
 aliases:
   - Arcturia
+linter-yaml-title-alias: Arcturia
 ---
 # [Arcturia](3-Mechanics\CLI\bestiary\npc/arcturia-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 296*  

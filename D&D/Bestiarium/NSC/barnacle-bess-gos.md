@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/gos
-  - Monster/HG/1-8
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Tier
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Barnacle Bess
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/1-8
+  - Monster/Typ/Tier
+  - Quelle/5e/gos
 aliases:
   - Barnacle Bess
+linter-yaml-title-alias: Barnacle Bess
 ---
 # [Barnacle Bess](3-Mechanics\CLI\bestiary\npc/barnacle-bess-gos.md)
 *Source: Ghosts of Saltmarsh p. 220*  

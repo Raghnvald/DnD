@@ -1,19 +1,21 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Javelin of Backbiting
+Typ: Einfache Nahkampfwaffe
 tags:
-  - Quelle/5e/tftyp
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
-  - Gegenstand/Waffe/Nahkampf
   - Gegenstand/Waffe/Einfach
+  - Gegenstand/Waffe/Nahkampf
+  - Quelle/5e/tftyp
 aliases:
   - Javelin of Backbiting
+linter-yaml-title-alias: Javelin of Backbiting
+obsidianUIMode: preview
 ---
 # Javelin of Backbiting
 *Weapon (javelin), cursed item, very rare (requires attunement)*  
-
 
 - **Damage**: 1d6 piercing
 - **Range**: 60/150

@@ -1,19 +1,21 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Bloodaxe
+Typ: Nahkampf-Kriegswaffe
 tags:
-  - Quelle/5e/egw
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/Waffe/Kriegswaffe
   - Gegenstand/Waffe/Nahkampf
+  - Quelle/5e/egw
 aliases:
   - Bloodaxe
+linter-yaml-title-alias: Bloodaxe
+obsidianUIMode: preview
 ---
 # Bloodaxe
 *Weapon ([greataxe](/3-Mechanics/CLI/items/greataxe-xphb.md)), very rare (requires attunement)*  
-
 
 - **Damage**: 1d12 slashing
 - **Properties**: [Heavy](/3-Mechanics/CLI/item-properties.md#Heavy), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)

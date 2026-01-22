@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/wdmm
-  - Monster/HG/
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Konstrukt
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Halaster Puppet
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/
+  - Monster/Typ/Konstrukt
+  - Quelle/5e/wdmm
 aliases:
   - Halaster Puppet
+linter-yaml-title-alias: Halaster Puppet
 ---
 # [Halaster Puppet](3-Mechanics\CLI\bestiary\npc/halaster-puppet-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 31*  

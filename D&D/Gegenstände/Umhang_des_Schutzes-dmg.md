@@ -6,8 +6,8 @@ tags:
   - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
-  - Umhang des Schutzes
   - Cloak of Protection
+  - Umhang des Schutzes
 linter-yaml-title-alias: Umhang des Schutzes
 ---
 # Umhang des Schutzes

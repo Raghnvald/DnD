@@ -1,17 +1,18 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Blight Ichor
 tags:
-  - Quelle/5e/egw
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
+  - Quelle/5e/egw
 aliases:
   - Blight Ichor
+linter-yaml-title-alias: Blight Ichor
+obsidianUIMode: preview
 ---
 # Blight Ichor
 *Adventuring gear*  
-
 
 - **Cost**: 200 gp
 

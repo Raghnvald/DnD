@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/jttrc
-  - Monster/HG/1-8
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/any-race
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Myx Nargis Ruba
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/1-8
+  - Monster/Typ/Humanoid/any-race
+  - Quelle/5e/jttrc
 aliases:
   - Myx Nargis Ruba
+linter-yaml-title-alias: Myx Nargis Ruba
 ---
 # [Myx Nargis Ruba](3-Mechanics\CLI\bestiary\npc/myx-nargis-ruba-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 71*  

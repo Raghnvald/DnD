@@ -1,19 +1,22 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: "Summer's Dance"
+Typ: Nahkampf-Kriegswaffe
 tags:
-  - Quelle/5e/tdcsr
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
   - Gegenstand/Waffe/Kriegswaffe
   - Gegenstand/Waffe/Nahkampf
+  - Quelle/5e/tdcsr
 aliases:
+  - "Summer's Dance"
   - Summer's Dance
+linter-yaml-title-alias: "Summer's Dance"
+obsidianUIMode: preview
 ---
 # Summer's Dance
 *Weapon ([scimitar](/3-Mechanics/CLI/items/scimitar-xphb.md)), rare (requires attunement)*  
-
 
 - **Damage**: 1d6 slashing
 - **Properties**: [Finesse](/3-Mechanics/CLI/item-properties.md#Finesse), [Light](/3-Mechanics/CLI/item-properties.md#Light)

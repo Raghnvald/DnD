@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/wdmm
-  - Monster/HG/0
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/human
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Rabbithead
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/0
+  - Monster/Typ/Humanoid/human
+  - Quelle/5e/wdmm
 aliases:
   - Rabbithead
+linter-yaml-title-alias: Rabbithead
 ---
 # [Rabbithead](3-Mechanics\CLI\bestiary\npc/rabbithead-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 295*  

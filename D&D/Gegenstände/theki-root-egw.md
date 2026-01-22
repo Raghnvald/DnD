@@ -1,17 +1,18 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Theki Root
 tags:
-  - Quelle/5e/egw
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
+  - Quelle/5e/egw
 aliases:
   - Theki Root
+linter-yaml-title-alias: Theki Root
+obsidianUIMode: preview
 ---
 # Theki Root
 *Adventuring gear*  
-
 
 - **Cost**: 3 gp
 

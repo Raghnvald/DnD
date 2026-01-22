@@ -1,17 +1,17 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: White Dragon Cape
 tags:
-  - Quelle/5e/tftyp
   - Gegenstand/Seltenheit/unbekannt/magic
   - Gegenstand/wundersam/other
+  - Quelle/5e/tftyp
 aliases:
   - White Dragon Cape
+linter-yaml-title-alias: White Dragon Cape
+obsidianUIMode: preview
 ---
 # White Dragon Cape
-
-
 
 You have resistance to cold damage while wearing this cape.
 

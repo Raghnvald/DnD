@@ -1,17 +1,17 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Deck of Miscellany
 tags:
-  - Quelle/5e/bmt
   - Gegenstand/Seltenheit/ungewöhnlich
+  - Quelle/5e/bmt
 aliases:
   - Deck of Miscellany
+linter-yaml-title-alias: Deck of Miscellany
+obsidianUIMode: preview
 ---
 # Deck of Miscellany
 *Wondrous item, uncommon*  
-
-
 
 This wooden box contains a set of thirty-two parchment cards.
 

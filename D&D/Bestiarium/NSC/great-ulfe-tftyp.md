@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/tftyp
-  - Monster/HG/2
-  - Monster/Größe/Groß
-  - Monster/Typ/Riese
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Great Ulfe
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/2
+  - Monster/Typ/Riese
+  - Quelle/5e/tftyp
 aliases:
   - Great Ulfe
+linter-yaml-title-alias: Great Ulfe
 ---
 # [Great Ulfe](3-Mechanics\CLI\bestiary\npc/great-ulfe-tftyp.md)
 *Source: Tales from the Yawning Portal p. 42*  

@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/wdh
-  - Monster/HG/9
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/human
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Mirt
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/9
+  - Monster/Typ/Humanoid/human
+  - Quelle/5e/wdh
 aliases:
   - Mirt
+linter-yaml-title-alias: Mirt
 ---
 # [Mirt](3-Mechanics\CLI\bestiary\npc/mirt-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 211*  

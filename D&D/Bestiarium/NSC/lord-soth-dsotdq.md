@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/dsotdq
-  - Monster/HG/19
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Untote/paladin
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Lord Soth
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/19
+  - Monster/Typ/Untote/paladin
+  - Quelle/5e/dsotdq
 aliases:
   - Lord Soth
+linter-yaml-title-alias: Lord Soth
 ---
 # [Lord Soth](3-Mechanics\CLI\bestiary\npc/lord-soth-dsotdq.md)
 *Source: Dragonlance: Shadow of the Dragon Queen p. 206, Vecna: Eve of Ruin*  

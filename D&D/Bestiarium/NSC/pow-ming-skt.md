@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/skt
-  - Monster/HG/6
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/human
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Pow Ming
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/6
+  - Monster/Typ/Humanoid/human
+  - Quelle/5e/skt
 aliases:
   - Pow Ming
+linter-yaml-title-alias: Pow Ming
 ---
 # [Pow Ming](3-Mechanics\CLI\bestiary\npc/pow-ming-skt.md)
 *Source: Storm King's Thunder p. 216*  

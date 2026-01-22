@@ -1,21 +1,21 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/ftd
-  - Monster/HG/11
-  - Monster/Größe/Riesig
-  - Monster/Typ/Drache
 statblock: inline
 statblock-link: "#^statblock"
-aliases:
-  - Adult Deep Dragon
+Bezeichnung: Adult Deep Dragon
 Typ: Drache
 Größe: Riesig
 HG: 11
 Habitat:
   - /
 status: WIP
+tags:
+  - Monster/Größe/Riesig
+  - Monster/HG/11
+  - Monster/Typ/Drache
+  - Quelle/5e/ftd
+aliases:
+  - Adult Deep Dragon
+linter-yaml-title-alias: Adult Deep Dragon
 ---
 # [Adult Deep Dragon](3-Mechanics\CLI\bestiary\dragon/adult-deep-dragon-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 174*  

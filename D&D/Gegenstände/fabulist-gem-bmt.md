@@ -1,18 +1,18 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Fabulist Gem
 tags:
-  - Quelle/5e/bmt
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/ungewöhnlich
+  - Quelle/5e/bmt
 aliases:
   - Fabulist Gem
+linter-yaml-title-alias: Fabulist Gem
+obsidianUIMode: preview
 ---
 # Fabulist Gem
 *Wondrous item, uncommon (requires attunement)*  
-
-
 
 This glittering red gem is commonly found embedded in a ring or brooch.
 

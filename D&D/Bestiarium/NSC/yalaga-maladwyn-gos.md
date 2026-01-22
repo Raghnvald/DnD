@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/gos
-  - Monster/HG/8
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Untote
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Yalaga Maladwyn
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/8
+  - Monster/Typ/Untote
+  - Quelle/5e/gos
 aliases:
   - Yalaga Maladwyn
+linter-yaml-title-alias: Yalaga Maladwyn
 ---
 # [Yalaga Maladwyn](3-Mechanics\CLI\bestiary\npc/yalaga-maladwyn-gos.md)
 *Source: Ghosts of Saltmarsh p. 226*  

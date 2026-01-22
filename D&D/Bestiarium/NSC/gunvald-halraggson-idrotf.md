@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/idrotf
-  - Monster/HG/5
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/human
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Gunvald Halraggson
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/5
+  - Monster/Typ/Humanoid/human
+  - Quelle/5e/idrotf
 aliases:
   - Gunvald Halraggson
+linter-yaml-title-alias: Gunvald Halraggson
 ---
 # [Gunvald Halraggson](3-Mechanics\CLI\bestiary\npc/gunvald-halraggson-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 305*  

@@ -1,18 +1,20 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Breastplate of Balance
+Rüstung: Mittel
 tags:
-  - Quelle/5e/bmt
-  - Gegenstand/Rüstung/Mittel
   - Gegenstand/Einstimmung/required
+  - Gegenstand/Rüstung/Mittel
   - Gegenstand/Seltenheit/selten
+  - Quelle/5e/bmt
 aliases:
   - Breastplate of Balance
+linter-yaml-title-alias: Breastplate of Balance
+obsidianUIMode: preview
 ---
 # Breastplate of Balance
 *Medium armor (breastplate), rare (requires attunement)*  
-
 
 - **Armor Class**: 14 + Dex modifier (max of +2)
 - **Weight**: 20.0 lbs.

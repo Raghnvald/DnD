@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/wdmm
-  - Monster/HG/12
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/human
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Vertrand Shadowdusk
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/12
+  - Monster/Typ/Humanoid/human
+  - Quelle/5e/wdmm
 aliases:
   - Vertrand Shadowdusk
+linter-yaml-title-alias: Vertrand Shadowdusk
 ---
 # [Vertrand Shadowdusk](3-Mechanics\CLI\bestiary\npc/vertrand-shadowdusk-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 282*  

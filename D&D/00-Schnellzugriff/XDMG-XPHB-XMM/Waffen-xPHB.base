@@ -1,0 +1,54 @@
+properties:
+  file.name:
+    displayName: Name
+views:
+  - type: table
+    name: Waffen
+    filters:
+      and:
+        - file.folder == "D&D/Gegenstände"
+        - file.tags.contains("Gegenstand/Waffe")
+    groupBy:
+      property: Typ
+      direction: ASC
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Nahkampfwaffen
+    filters:
+      or:
+        - Typ.contains("Einfache Nahkampfwaffe")
+        - Typ.contains("Nahkampf-Kriegswaffe")
+    groupBy:
+      property: Typ
+      direction: ASC
+    order:
+      - file.name
+      - Kst.
+      - Schaden
+      - Gew.
+      - Eigenschaften
+    sort: []
+    columnSize:
+      note.Kst.: 92
+      note.Schaden: 114
+  - type: table
+    name: Fernkampfwaffen
+    filters:
+      or:
+        - Typ.contains("Einfache Fernkampfwaffe")
+        - Typ.contains("Fernkampf-Kriegswaffe")
+    groupBy:
+      property: Typ
+      direction: ASC
+    order:
+      - file.name
+      - Kst.
+      - Schaden
+      - Schadensart
+      - Gew.
+      - Eigenschaften
+    sort:
+      - property: file.name
+        direction: ASC

@@ -7,8 +7,8 @@ tags:
   - Gegenstand/wundersam/Ring
   - Quelle/5e/xdmg
 aliases:
-  - Ring of Cold Resistance
   - "Ring of Cold Resistance"
+  - Ring of Cold Resistance
 linter-yaml-title-alias: Ring of Cold Resistance
 obsidianUIMode: preview
 ---

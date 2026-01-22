@@ -1,18 +1,18 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Potion of Mind Control (monster)
 tags:
-  - Quelle/5e/tftyp
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/wundersam/Trank
+  - Quelle/5e/tftyp
 aliases:
   - Potion of Mind Control (monster)
+linter-yaml-title-alias: Potion of Mind Control (monster)
+obsidianUIMode: preview
 ---
 # Potion of Mind Control (monster)
 *Potion, very rare*  
-
-
 
 When you drink a potion of mind control, you can cast a dominate spell (save DC 15) on a specific creature if you do so before the end of your next turn. If you don't, the potion is wasted.
 

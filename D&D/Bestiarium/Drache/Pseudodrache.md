@@ -1,21 +1,7 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mm
-  - Monster/HG/1-4
-  - Monster/Habitat/Küste
-  - Monster/Habitat/Wüste
-  - Monster/Habitat/Wald
-  - Monster/Habitat/Hügel
-  - Monster/Habitat/Berg
-  - Monster/Habitat/Stadt
-  - Monster/Größe/Winzig
-  - Monster/Typ/Drache
 statblock: inline
 statblock-link: "#^statblock"
-aliases:
-  - Pseudodragon
+Bezeichnung: Pseudodragon
 Typ: Drache
 Größe: Winzig
 HG: 1/4
@@ -27,6 +13,20 @@ Habitat:
   - Wald
   - Wüste
 status: WIP
+tags:
+  - Monster/Größe/Winzig
+  - Monster/Habitat/Berg
+  - Monster/Habitat/Hügel
+  - Monster/Habitat/Küste
+  - Monster/Habitat/Stadt
+  - Monster/Habitat/Wald
+  - Monster/Habitat/Wüste
+  - Monster/HG/1-4
+  - Monster/Typ/Drache
+  - Quelle/5e/mm
+aliases:
+  - Pseudodragon
+linter-yaml-title-alias: Pseudodragon
 ---
 # [Pseudodragon](3-Mechanics\CLI\bestiary\dragon/pseudodragon.md)
 *Source: Monster Manual p. 254. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  

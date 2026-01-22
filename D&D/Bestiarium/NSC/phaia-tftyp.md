@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/tftyp
-  - Monster/HG/9
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/human
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Phaia
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/9
+  - Monster/Typ/Humanoid/human
+  - Quelle/5e/tftyp
 aliases:
   - Phaia
+linter-yaml-title-alias: Phaia
 ---
 # [Phaia](3-Mechanics\CLI\bestiary\npc/phaia-tftyp.md)
 *Source: Tales from the Yawning Portal p. 132*  

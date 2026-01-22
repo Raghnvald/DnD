@@ -1,15 +1,15 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/cos
-  - Monster/HG/10
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/elf
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Rahadin
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/10
+  - Monster/Typ/Humanoid/elf
+  - Quelle/5e/cos
 aliases:
   - Rahadin
+linter-yaml-title-alias: Rahadin
 ---
 # [Rahadin](3-Mechanics\CLI\bestiary\npc/rahadin-cos.md)
 *Source: Curse of Strahd p. 237*  

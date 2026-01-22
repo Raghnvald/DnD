@@ -1,18 +1,18 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Corpse Slayer
 tags:
-  - Quelle/5e/egw
-  - Gegenstand/Zeitalter/Futuristisch
-  - Gegenstand/Zeitalter/Modern
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
+  - Gegenstand/Waffe/Einfach
+  - Gegenstand/Waffe/Fernkampf
   - Gegenstand/Waffe/Kriegswaffe
   - Gegenstand/Waffe/Nahkampf
-  - Gegenstand/Waffe/Fernkampf
-  - Gegenstand/Waffe/Einfach
   - Gegenstand/wundersam/generic-variant
+  - Gegenstand/Zeitalter/Futuristisch
+  - Gegenstand/Zeitalter/Modern
+  - Quelle/5e/egw
 aliases:
   - Corpse Slayer
   - Corpse Slayer Antimatter Rifle
@@ -66,11 +66,11 @@ aliases:
   - Corpse Slayer Warhammer
   - Corpse Slayer Whip
   - Corpse Slayer Yklwa
+linter-yaml-title-alias: Corpse Slayer
+obsidianUIMode: preview
 ---
 # Corpse Slayer
 *Rare (requires attunement)*  
-
-
 
 You gain a +1 bonus to attack and damage rolls made with this magic weapon.
 
@@ -471,6 +471,5 @@ When you hit an undead creature with an attack using this weapon, the attack dea
 - **Range**: 10/30
 - **Properties**: [Thrown](/3-Mechanics/CLI/item-properties.md#Thrown)
 - **Weight**: 3.0 lbs.
-
 
 *Source: Explorer's Guide to Wildemount p. 266*

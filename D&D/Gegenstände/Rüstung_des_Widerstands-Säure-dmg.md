@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Armor of Acid Resistance
+Rüstung: Leicht, Mittel oder Schwer
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Rüstung/Leicht

@@ -2,13 +2,14 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Scale Mail
+Rüstung: Mittel
 tags:
   - Gegenstand/Rüstung/Mittel
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Scale Mail
   - "Scale Mail"
+  - Scale Mail
 linter-yaml-title-alias: Scale Mail
 obsidianUIMode: preview
 ---

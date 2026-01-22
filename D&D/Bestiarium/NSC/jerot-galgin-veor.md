@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/veor
-  - Monster/HG/9
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Jerot Galgin
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/9
+  - Monster/Typ/Humanoid
+  - Quelle/5e/veor
 aliases:
   - Jerot Galgin
+linter-yaml-title-alias: Jerot Galgin
 ---
 # [Jerot Galgin](3-Mechanics\CLI\bestiary\npc/jerot-galgin-veor.md)
 *Source: Vecna: Eve of Ruin*  

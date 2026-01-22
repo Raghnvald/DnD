@@ -1,18 +1,18 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/7
-  - Monster/Habitat/Wald
-  - Monster/Habitat/Sumpf
-  - Monster/Habitat/Stadt
-  - Monster/Größe/Riesig
-  - Monster/Typ/Untote
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Graveyard Revenant
+tags:
+  - Monster/Größe/Riesig
+  - Monster/Habitat/Stadt
+  - Monster/Habitat/Sumpf
+  - Monster/Habitat/Wald
+  - Monster/HG/7
+  - Monster/Typ/Untote
+  - Quelle/5e/xmm
 aliases:
   - Graveyard Revenant
+linter-yaml-title-alias: Graveyard Revenant
 ---
 # [Graveyard Revenant](3-Mechanics\CLI\bestiary\undead/graveyard-revenant-xmm.md)
 *Source: Monster Manual (2024) p. 260*  

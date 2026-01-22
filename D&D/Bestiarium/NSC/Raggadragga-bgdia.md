@@ -1,16 +1,16 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/bgdia
-  - Monster/HG/4
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/human
-  - Monster/Typ/Humanoid/shapechanger
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Raggadragga
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/4
+  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/shapechanger
+  - Quelle/5e/bgdia
 aliases:
   - Raggadragga
+linter-yaml-title-alias: Raggadragga
 ---
 # [Raggadragga](3-Mechanics\CLI\bestiary\npc/raggadragga-bgdia.md)
 *Source: Baldur's Gate: Descent Into Avernus p. 87*  

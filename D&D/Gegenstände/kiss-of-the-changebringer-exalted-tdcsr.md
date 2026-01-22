@@ -1,13 +1,15 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Kiss of the Changebringer (Exalted)
 tags:
-  - Quelle/5e/tdcsr
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
+  - Quelle/5e/tdcsr
 aliases:
   - Kiss of the Changebringer (Exalted)
+linter-yaml-title-alias: Kiss of the Changebringer (Exalted)
+obsidianUIMode: preview
 ---
 # Kiss of the Changebringer (Exalted)
 *Wondrous item, legendary (requires attunement)*  

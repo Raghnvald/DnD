@@ -1,16 +1,17 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Night Caller
 tags:
-  - Quelle/5e/tftyp
   - Gegenstand/Seltenheit/ungewöhnlich
+  - Quelle/5e/tftyp
 aliases:
   - Night Caller
+linter-yaml-title-alias: Night Caller
+obsidianUIMode: preview
 ---
 # Night Caller
 *Wondrous item, uncommon*  
-
 
 - **Weight**: 1.0 lbs.
 

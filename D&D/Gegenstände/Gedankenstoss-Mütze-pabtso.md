@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Gedankenstoss-Mütze
+Bezeichnung: Mindblasting Cap
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten

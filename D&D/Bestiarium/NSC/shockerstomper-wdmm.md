@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/wdmm
-  - Monster/HG/14
-  - Monster/Größe/Gigantisch
-  - Monster/Typ/Konstrukt
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Shockerstomper
+tags:
+  - Monster/Größe/Gigantisch
+  - Monster/HG/14
+  - Monster/Typ/Konstrukt
+  - Quelle/5e/wdmm
 aliases:
   - Shockerstomper
+linter-yaml-title-alias: Shockerstomper
 ---
 # [Shockerstomper](3-Mechanics\CLI\bestiary\npc/shockerstomper-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 174*  

@@ -1,18 +1,19 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Staff of the Ivory Claw
 tags:
-  - Quelle/5e/egw
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
   - Gegenstand/Waffe/Einfach
+  - Quelle/5e/egw
 aliases:
   - Staff of the Ivory Claw
+linter-yaml-title-alias: Staff of the Ivory Claw
+obsidianUIMode: preview
 ---
 # Staff of the Ivory Claw
 *Staff, weapon, rare (requires attunement by a spellcaster)*  
-
 
 - **Damage**:
   - One-handed: 1d6 bludgeoning

@@ -1,13 +1,15 @@
 ---
-tags:
-  - Quelle/5e/bgdia
-  - Monster/HG/25
-  - Monster/Größe/Groß
-  - Monster/Typ/Unhold/devil
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Bel
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/25
+  - Monster/Typ/Unhold/devil
+  - Quelle/5e/bgdia
 aliases:
   - Bel
+linter-yaml-title-alias: Bel
 ---
 # Bel
 *Source: Baldur's Gate: Descent Into Avernus p. 115*  

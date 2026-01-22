@@ -1,18 +1,18 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Songhorn
 tags:
-  - Quelle/5e/scag
   - Gegenstand/Ausrüstung/Instrument
   - Gegenstand/Seltenheit/keine
+  - Quelle/5e/scag
 aliases:
   - Songhorn
+linter-yaml-title-alias: Songhorn
+obsidianUIMode: preview
 ---
 # Songhorn
 *Instrument*  
-
-
 
 A recorder, a simple type of flute, usually carved from wood.
 

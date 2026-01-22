@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/wdh
-  - Monster/HG/6
-  - Monster/Größe/Klein
-  - Monster/Typ/Humanoid/gnome
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Skeemo Weirdbottle
+tags:
+  - Monster/Größe/Klein
+  - Monster/HG/6
+  - Monster/Typ/Humanoid/gnome
+  - Quelle/5e/wdh
 aliases:
   - Skeemo Weirdbottle
+linter-yaml-title-alias: Skeemo Weirdbottle
 ---
 # [Skeemo Weirdbottle](3-Mechanics\CLI\bestiary\npc/skeemo-weirdbottle-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 200*  

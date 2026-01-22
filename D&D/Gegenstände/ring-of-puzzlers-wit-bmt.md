@@ -1,18 +1,19 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: "Ring of Puzzler's Wit"
 tags:
-  - Quelle/5e/bmt
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/wundersam/ring
+  - Quelle/5e/bmt
 aliases:
+  - "Ring of Puzzler's Wit"
   - Ring of Puzzler's Wit
+linter-yaml-title-alias: "Ring of Puzzler's Wit"
+obsidianUIMode: preview
 ---
 # Ring of Puzzler's Wit
 *Ring, uncommon*  
-
-
 
 This gold ring bears a fluorite stone and is enchanted to sharpen the wearer's mind.
 

@@ -1,17 +1,16 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/veor
-  - Monster/HG/3
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/human
-  - Monster/Typ/Humanoid/shapechanger
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Argentia Skywright
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/3
+  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/shapechanger
+  - Quelle/5e/veor
 aliases:
   - Argentia Skywright
+linter-yaml-title-alias: Argentia Skywright
 ---
 # [Argentia Skywright](3-Mechanics\CLI\bestiary\npc/argentia-skywright-veor.md)
 *Source: Vecna: Eve of Ruin*  

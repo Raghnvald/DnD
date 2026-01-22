@@ -6,8 +6,8 @@ tags:
   - Gegenstand/Seltenheit/gewöhnlich
   - Quelle/5e/xdmg
 aliases:
-  - Bead of Refreshment
   - "Bead of Refreshment"
+  - Bead of Refreshment
 linter-yaml-title-alias: Bead of Refreshment
 obsidianUIMode: preview
 ---

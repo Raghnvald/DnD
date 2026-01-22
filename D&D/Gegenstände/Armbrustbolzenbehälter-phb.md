@@ -9,7 +9,9 @@ tags:
   - Gegenstand/Seltenheit/gewöhnlich
   - Quelle/5e/phb
 aliases:
+  - Armbrustbolzenbehälter
   - Crossbow Bolt Case
+linter-yaml-title-alias: Armbrustbolzenbehälter
 ---
 # Armbrustbolzenbehälter
 *Abenteuerausrüstung*

@@ -1,20 +1,20 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/tdcsr
-  - Monster/HG/4
-  - Monster/Habitat/Küste
-  - Monster/Habitat/Wüste
-  - Monster/Habitat/Wald
-  - Monster/Habitat/Sumpf
-  - Monster/Größe/Groß
-  - Monster/Typ/Untote
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: "Vos'skyriss Serpentfolk Ghost"
+tags:
+  - Monster/Größe/Groß
+  - Monster/Habitat/Küste
+  - Monster/Habitat/Sumpf
+  - Monster/Habitat/Wald
+  - Monster/Habitat/Wüste
+  - Monster/HG/4
+  - Monster/Typ/Untote
+  - Quelle/5e/tdcsr
 aliases:
+  - "Vos'skyriss Serpentfolk Ghost"
   - Vos'skyriss Serpentfolk Ghost
+linter-yaml-title-alias: "Vos'skyriss Serpentfolk Ghost"
 ---
 # [Vos'skyriss Serpentfolk Ghost](3-Mechanics\CLI\bestiary\undead/vosskyriss-serpentfolk-ghost-tdcsr.md)
 *Source: Tal'Dorei Campaign Setting Reborn p. 258*  

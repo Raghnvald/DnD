@@ -1,18 +1,18 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/9
-  - Monster/Habitat/Küste
-  - Monster/Habitat/Wüste
-  - Monster/Größe/Groß
-  - Monster/Typ/Drache/chromatic
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Young Blue Dragon
+status: WIP
+tags:
+  - Monster/Größe/Groß
+  - Monster/Habitat/Küste
+  - Monster/Habitat/Wüste
+  - Monster/HG/9
+  - Monster/Typ/Drache/chromatic
+  - Quelle/5e/xmm
 aliases:
   - Young Blue Dragon
-status: WIP
+linter-yaml-title-alias: Young Blue Dragon
 ---
 # [Young Blue Dragon](3-Mechanics\CLI\bestiary\dragon/young-blue-dragon-xmm.md)
 *Source: Monster Manual (2024) p. 48. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

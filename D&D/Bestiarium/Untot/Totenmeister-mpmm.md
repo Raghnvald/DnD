@@ -1,16 +1,16 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mpmm
-  - Monster/HG/4
-  - Monster/Habitat/Stadt
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Untote/warlock
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Deathlock
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Stadt
+  - Monster/HG/4
+  - Monster/Typ/Untote/warlock
+  - Quelle/5e/mpmm
 aliases:
   - Deathlock
+linter-yaml-title-alias: Deathlock
 ---
 # [Deathlock](3-Mechanics\CLI\bestiary\undead/deathlock-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 86*  

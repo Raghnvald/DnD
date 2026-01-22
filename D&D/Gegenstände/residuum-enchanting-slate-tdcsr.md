@@ -1,17 +1,18 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Residuum Enchanting Slate
 tags:
-  - Quelle/5e/tdcsr
   - Gegenstand/Ausrüstung/Werkzeug
   - Gegenstand/Seltenheit/unbekannt/magic
+  - Quelle/5e/tdcsr
 aliases:
   - Residuum Enchanting Slate
+linter-yaml-title-alias: Residuum Enchanting Slate
+obsidianUIMode: preview
 ---
 # Residuum Enchanting Slate
 *Wondrous item, tool*  
-
 
 - **Cost**: 20,000 gp
 

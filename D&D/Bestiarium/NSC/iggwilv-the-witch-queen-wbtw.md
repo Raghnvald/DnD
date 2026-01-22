@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/wbtw
-  - Monster/HG/20
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Fee/wizard
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Iggwilv the Witch Queen
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/20
+  - Monster/Typ/Fee/wizard
+  - Quelle/5e/wbtw
 aliases:
   - Iggwilv the Witch Queen
+linter-yaml-title-alias: Iggwilv the Witch Queen
 ---
 # [Iggwilv the Witch Queen](3-Mechanics\CLI\bestiary\npc/iggwilv-the-witch-queen-wbtw.md)
 *Source: The Wild Beyond the Witchlight p. 205, Vecna: Eve of Ruin*  

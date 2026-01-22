@@ -1,21 +1,7 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/1-4
-  - Monster/Habitat/Küste
-  - Monster/Habitat/Wüste
-  - Monster/Habitat/Wald
-  - Monster/Habitat/Hügel
-  - Monster/Habitat/Berg
-  - Monster/Habitat/Stadt
-  - Monster/Größe/Winzig
-  - Monster/Typ/Drache
 statblock: inline
 statblock-link: "#^statblock"
-aliases:
-  - Pseudodragon
+Bezeichnung: Pseudodragon
 Typ: Drache
 Größe: Winzig
 HG: 1/4
@@ -27,6 +13,20 @@ Habitat:
   - Wald
   - Wüste
 status: WIP
+tags:
+  - Monster/Größe/Winzig
+  - Monster/Habitat/Berg
+  - Monster/Habitat/Hügel
+  - Monster/Habitat/Küste
+  - Monster/Habitat/Stadt
+  - Monster/Habitat/Wald
+  - Monster/Habitat/Wüste
+  - Monster/HG/1-4
+  - Monster/Typ/Drache
+  - Quelle/5e/xmm
+aliases:
+  - Pseudodragon
+linter-yaml-title-alias: Pseudodragon
 ---
 # [Pseudodragon](3-Mechanics\CLI\bestiary\dragon/pseudodragon-xmm.md)
 *Source: Monster Manual (2024) p. 249, Player's Handbook (2024) p. 354. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
@@ -65,7 +65,6 @@ Many pseudodragons prefer the finer things in life. These diminutive dragons mig
 > [!quote] A quote from Jallarzi, Pseudodragon's Companion  
 > 
 > If you want to keep a pseudodragon happy, get used to thinking of yourself as its familiar.
-
 
 ```statblock
 "name": "Pseudodragon (XMM)"

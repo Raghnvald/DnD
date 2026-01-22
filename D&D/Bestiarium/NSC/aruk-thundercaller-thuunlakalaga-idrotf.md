@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/idrotf
-  - Monster/HG/3
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/goliath
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Aruk Thundercaller Thuunlakalaga
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/3
+  - Monster/Typ/Humanoid/goliath
+  - Quelle/5e/idrotf
 aliases:
   - Aruk Thundercaller Thuunlakalaga
+linter-yaml-title-alias: Aruk Thundercaller Thuunlakalaga
 ---
 # [Aruk Thundercaller Thuunlakalaga](3-Mechanics\CLI\bestiary\npc/aruk-thundercaller-thuunlakalaga-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 169*  

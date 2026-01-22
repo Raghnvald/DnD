@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/toa
-  - Monster/HG/7
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/human
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Artus Cimber
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/7
+  - Monster/Typ/Humanoid/human
+  - Quelle/5e/toa
 aliases:
   - Artus Cimber
+linter-yaml-title-alias: Artus Cimber
 ---
 # [Artus Cimber](3-Mechanics\CLI\bestiary\npc/artus-cimber-toa.md)
 *Source: Tomb of Annihilation p. 212*  

@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/egw
-  - Monster/HG/2
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/any-race
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Hulil Lutan
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/2
+  - Monster/Typ/Humanoid/any-race
+  - Quelle/5e/egw
 aliases:
   - Hulil Lutan
+linter-yaml-title-alias: Hulil Lutan
 ---
 # [Hulil Lutan](3-Mechanics\CLI\bestiary\npc/hulil-lutan-egw.md)
 *Source: Explorer's Guide to Wildemount p. 240*  

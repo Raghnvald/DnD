@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/skt
-  - Monster/HG/15
-  - Monster/Größe/Riesig
-  - Monster/Typ/Drache
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Felgolos
+tags:
+  - Monster/Größe/Riesig
+  - Monster/HG/15
+  - Monster/Typ/Drache
+  - Quelle/5e/skt
 aliases:
   - Felgolos
+linter-yaml-title-alias: Felgolos
 ---
 # [Felgolos](3-Mechanics\CLI\bestiary\npc/felgolos-skt.md)
 *Source: Storm King's Thunder p. 192*  

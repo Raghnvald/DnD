@@ -1,19 +1,20 @@
 ---
-tags:
-  - Quelle/5e/pabtso
-  - Monster/HG/1
-  - Monster/Größe/Winzig
-  - Monster/Typ/Unhold/demon
 statblock: inline
 statblock-link: "#^statblock"
-aliases:
-  - Zeond
-Name: Zeond
-Image: npc/token/zeond-pabtso.webp
+Bezeichnung: Zeond
 Typ: Unhold (Dämon)
+HG: 1
 Habitat:
   - /
-HG: 1
+tags:
+  - Monster/Größe/Winzig
+  - Monster/HG/1
+  - Monster/Typ/Unhold/demon
+  - Quelle/5e/pabtso
+aliases:
+  - Zeond
+Image: npc/token/zeond-pabtso.webp
+linter-yaml-title-alias: Zeond
 ---
 # Zeond
 *Source: Phandelver and Below: The Shattered Obelisk p. 43*  

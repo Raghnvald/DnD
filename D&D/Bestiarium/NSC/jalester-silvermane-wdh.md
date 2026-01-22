@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/wdh
-  - Monster/HG/4
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/human
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Jalester Silvermane
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/4
+  - Monster/Typ/Humanoid/human
+  - Quelle/5e/wdh
 aliases:
   - Jalester Silvermane
+linter-yaml-title-alias: Jalester Silvermane
 ---
 # [Jalester Silvermane](3-Mechanics\CLI\bestiary\npc/jalester-silvermane-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 205*  

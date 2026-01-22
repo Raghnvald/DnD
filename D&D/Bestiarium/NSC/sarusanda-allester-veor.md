@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/veor
-  - Monster/HG/8
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/human
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Sarusanda Allester
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/8
+  - Monster/Typ/Humanoid/human
+  - Quelle/5e/veor
 aliases:
   - Sarusanda Allester
+linter-yaml-title-alias: Sarusanda Allester
 ---
 # [Sarusanda Allester](3-Mechanics\CLI\bestiary\npc/sarusanda-allester-veor.md)
 *Source: Vecna: Eve of Ruin*  

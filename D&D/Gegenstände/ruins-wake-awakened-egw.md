@@ -1,15 +1,19 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: "Ruin's Wake (Awakened)"
+Typ: Einfache Nahkampfwaffe
 tags:
-  - Quelle/5e/egw
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/Artefakt
-  - Gegenstand/Waffe/Nahkampf
   - Gegenstand/Waffe/Einfach
+  - Gegenstand/Waffe/Nahkampf
+  - Quelle/5e/egw
 aliases:
+  - "Ruin's Wake (Awakened)"
   - Ruin's Wake (Awakened)
+linter-yaml-title-alias: "Ruin's Wake (Awakened)"
+obsidianUIMode: preview
 ---
 # Ruin's Wake (Awakened)
 *Weapon ([spear](/3-Mechanics/CLI/items/spear-xphb.md)), artifact (requires attunement)*  

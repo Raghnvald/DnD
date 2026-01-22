@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/tftyp
-  - Monster/HG/6
-  - Monster/Größe/Groß
-  - Monster/Typ/Drache
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Reduced-Threat Wyvern
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/6
+  - Monster/Typ/Drache
+  - Quelle/5e/tftyp
 aliases:
   - Reduced-Threat Wyvern
+linter-yaml-title-alias: Reduced-Threat Wyvern
 ---
 # [Reduced-Threat Wyvern](3-Mechanics\CLI\bestiary\dragon/reduced-threat-wyvern-tftyp.md)
 *Source: Tales from the Yawning Portal p. 113*  

@@ -1,17 +1,18 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Hammock of Worlds
 tags:
-  - Quelle/5e/jttrc
   - Gegenstand/Seltenheit/legendär
+  - Quelle/5e/jttrc
 aliases:
   - Hammock of Worlds
+linter-yaml-title-alias: Hammock of Worlds
+obsidianUIMode: preview
 ---
 # Hammock of Worlds
 *Wondrous item, legendary*  
 ![](/3-Mechanics/CLI/items/img/hammock-of-worlds.webp#right)
-
 
 The Hammock of Worlds is a colorful hammock woven with traditional Ataguan designs. It can be used only by a member of the order known as the Green Doctors.
 

@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/wdh
-  - Monster/HG/8
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/dwarf
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Istrid Horn
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/8
+  - Monster/Typ/Humanoid/dwarf
+  - Quelle/5e/wdh
 aliases:
   - Istrid Horn
+linter-yaml-title-alias: Istrid Horn
 ---
 # [Istrid Horn](3-Mechanics\CLI\bestiary\npc/istrid-horn-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 199*  

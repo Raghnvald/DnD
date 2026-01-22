@@ -9,8 +9,8 @@ tags:
   - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
-  - Hewards praktischer Rucksack
   - Heward's Handy Haversack
+  - Hewards praktischer Rucksack
 linter-yaml-title-alias: Hewards praktischer Rucksack
 ---
 # Hewards praktischer Rucksack

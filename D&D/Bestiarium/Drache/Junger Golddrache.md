@@ -1,17 +1,17 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mm
-  - Monster/HG/10
-  - Monster/Habitat/Wald
-  - Monster/Habitat/Grasland
-  - Monster/Größe/Groß
-  - Monster/Typ/Drache
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Young Gold Dragon
+tags:
+  - Monster/Größe/Groß
+  - Monster/Habitat/Grasland
+  - Monster/Habitat/Wald
+  - Monster/HG/10
+  - Monster/Typ/Drache
+  - Quelle/5e/mm
 aliases:
   - Young Gold Dragon
+linter-yaml-title-alias: Young Gold Dragon
 ---
 # [Young Gold Dragon](3-Mechanics\CLI\bestiary\dragon/young-gold-dragon.md)
 *Source: Monster Manual p. 115. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  

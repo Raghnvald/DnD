@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/toa
-  - Monster/HG/2
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/aarakocra
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Asharra
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/2
+  - Monster/Typ/Humanoid/aarakocra
+  - Quelle/5e/toa
 aliases:
   - Asharra
+linter-yaml-title-alias: Asharra
 ---
 # [Asharra](3-Mechanics\CLI\bestiary\npc/asharra-toa.md)
 *Source: Tomb of Annihilation p. 69*  

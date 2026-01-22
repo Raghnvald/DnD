@@ -9,8 +9,8 @@ tags:
   - Gegenstand/wundersam/Schriftrolle
   - Quelle/5e/dmg
 aliases:
-  - Zauberschriftrolle (Zaubergrad 3)
   - Spell Scroll (3rd Level)
+  - Zauberschriftrolle (Zaubergrad 3)
 linter-yaml-title-alias: Zauberschriftrolle (Zaubergrad 3)
 ---
 # Zauberschriftrolle (Zaubergrad 3)

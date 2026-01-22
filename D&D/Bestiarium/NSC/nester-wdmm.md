@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/wdmm
-  - Monster/HG/12
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Untote
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Nester
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/12
+  - Monster/Typ/Untote
+  - Quelle/5e/wdmm
 aliases:
   - Nester
+linter-yaml-title-alias: Nester
 ---
 # [Nester](3-Mechanics\CLI\bestiary\npc/nester-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 131*  

@@ -1,15 +1,15 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/cos
-  - Monster/HG/1-4
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/mongrelfolk
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Otto Belview
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/1-4
+  - Monster/Typ/Humanoid/mongrelfolk
+  - Quelle/5e/cos
 aliases:
   - Otto Belview
+linter-yaml-title-alias: Otto Belview
 ---
 # [Otto Belview](3-Mechanics\CLI\bestiary\npc/otto-belview-cos.md)
 *Source: Curse of Strahd p. 147*  

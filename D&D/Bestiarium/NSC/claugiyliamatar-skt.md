@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/skt
-  - Monster/HG/22
-  - Monster/Größe/Gigantisch
-  - Monster/Typ/Drache
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Claugiyliamatar
+tags:
+  - Monster/Größe/Gigantisch
+  - Monster/HG/22
+  - Monster/Typ/Drache
+  - Quelle/5e/skt
 aliases:
   - Claugiyliamatar
+linter-yaml-title-alias: Claugiyliamatar
 ---
 # [Claugiyliamatar](3-Mechanics\CLI\bestiary\npc/claugiyliamatar-skt.md)
 *Source: Storm King's Thunder p. 96, Storm Lord's Wrath*  

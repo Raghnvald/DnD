@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/veor
-  - Monster/HG/9
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Monstrosität
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Kevetta Dolindar
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/9
+  - Monster/Typ/Monstrosität
+  - Quelle/5e/veor
 aliases:
   - Kevetta Dolindar
+linter-yaml-title-alias: Kevetta Dolindar
 ---
 # [Kevetta Dolindar](3-Mechanics\CLI\bestiary\npc/kevetta-dolindar-veor.md)
 *Source: Vecna: Eve of Ruin*  

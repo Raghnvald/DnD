@@ -1,17 +1,18 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Sled Dog
 tags:
-  - Quelle/5e/idrotf
   - Gegenstand/Ausrüstung/Reit-und-Lastentier
   - Gegenstand/Seltenheit/keine
+  - Quelle/5e/idrotf
 aliases:
   - Sled Dog
+linter-yaml-title-alias: Sled Dog
+obsidianUIMode: preview
 ---
 # Sled Dog
 *Mount*  
-
 
 - **Cost**: 50 gp
 

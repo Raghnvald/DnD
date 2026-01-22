@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Mace of Smiting
+Typ: Einfache Nahkampfwaffe
 tags:
   - Gegenstand/Seltenheit/selten
   - Gegenstand/Waffe/Einfach

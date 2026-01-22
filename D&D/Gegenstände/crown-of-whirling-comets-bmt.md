@@ -1,18 +1,19 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Crown of Whirling Comets
 tags:
-  - Quelle/5e/bmt
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
+  - Quelle/5e/bmt
 aliases:
   - Crown of Whirling Comets
+linter-yaml-title-alias: Crown of Whirling Comets
+obsidianUIMode: preview
 ---
 # Crown of Whirling Comets
 *Wondrous item, very rare (requires attunement)*  
 ![](/3-Mechanics/CLI/items/img/crown-of-whirling-comets.webp#right)
-
 
 This delicate silver tiara is decorated with stellar iconography. While you wear the crown, the gems on the tiara's points detach and closely orbit your head.
 

@@ -1,19 +1,21 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Fate Cutter Shears
+Typ: Einfache Nahkampfwaffe
 tags:
-  - Quelle/5e/bmt
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
-  - Gegenstand/Waffe/Nahkampf
   - Gegenstand/Waffe/Einfach
+  - Gegenstand/Waffe/Nahkampf
+  - Quelle/5e/bmt
 aliases:
   - Fate Cutter Shears
+linter-yaml-title-alias: Fate Cutter Shears
+obsidianUIMode: preview
 ---
 # Fate Cutter Shears
 *Weapon (dagger), very rare (requires attunement)*  
-
 
 - **Damage**: 1d4 piercing
 - **Range**: 20/60

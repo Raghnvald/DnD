@@ -1,22 +1,22 @@
 ---
 Bezeichnung: Belebter Schild
 Typ: Rüstung
+Rüstung: Schild
 Eigenschaften: Erfordert Einstimmung
 Kst.: /
 Gew.: 3,0 kg
+RK: 2
+STR: n/v
+Heiml.: n/v
 tags:
   - Gegenstand/Einstimmung
   - Gegenstand/Rüstung/Schild
   - Gegenstand/Seltenheit/sehr_selten
   - Quelle/5e/dmg
 aliases:
-  - Belebter Schild
   - Animated Shield
-Heiml.: n/v
+  - Belebter Schild
 linter-yaml-title-alias: Belebter Schild
-RK: 2
-Rüstung: Schild
-STR: n/v
 ---
 # Belebter Schild
 *Rüstung (Schild), sehr selten (erfordert Einstimmung)*  

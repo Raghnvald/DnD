@@ -1,15 +1,17 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Rod of Seven Parts
 tags:
-  - Quelle/5e/veor
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/Artefakt
   - Gegenstand/Waffe/Einfach
   - Gegenstand/wundersam/Rute
+  - Quelle/5e/veor
 aliases:
   - Rod of Seven Parts
+linter-yaml-title-alias: Rod of Seven Parts
+obsidianUIMode: preview
 ---
 # Rod of Seven Parts
 *Weapon (quarterstaff), rod, artifact (requires attunement)*  
@@ -67,6 +69,5 @@ The only way to destroy the Rod of Seven Parts is to immerse the assembled rod i
 A piece of the rod may be temporarily destroyed in this way, but each piece re-forms one year after it has succumbed. A re-formed piece teleports to a random place in the multiverse.
 
 ![A piece of the Rod of Seven Parts](/3-Mechanics/CLI/items/img/rod-of-seven-parts-piece.webp#center)
-
 
 *Source: Vecna: Eve of Ruin p. 8*

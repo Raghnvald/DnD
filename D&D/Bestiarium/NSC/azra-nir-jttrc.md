@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/jttrc
-  - Monster/HG/1-4
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/any-race
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Azra Nir
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/1-4
+  - Monster/Typ/Humanoid/any-race
+  - Quelle/5e/jttrc
 aliases:
   - Azra Nir
+linter-yaml-title-alias: Azra Nir
 ---
 # [Azra Nir](3-Mechanics\CLI\bestiary\npc/azra-nir-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 74*  

@@ -1,21 +1,21 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/cos
-  - Monster/HG/7
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Untote
 statblock: inline
 statblock-link: "#^statblock"
-aliases:
-  - Vladimir Horngaard
+Bezeichnung: Vladimir Horngaard
 Typ: Untoter
 Größe: Mittelgroß
 HG: 7
 Habitat:
   - Stadt
 status: WIP
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/7
+  - Monster/Typ/Untote
+  - Quelle/5e/cos
+aliases:
+  - Vladimir Horngaard
+linter-yaml-title-alias: Vladimir Horngaard
 ---
 # [Vladimir Horngaard](3-Mechanics\CLI\bestiary\npc/vladimir-horngaard-cos.md)
 *Source: Curse of Strahd p. 241*  

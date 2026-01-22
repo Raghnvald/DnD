@@ -9,8 +9,8 @@ tags:
   - Gegenstand/Seltenheit/gewöhnlich
   - Quelle/5e/phb
 aliases:
-  - Stück Fleisch
   - Chunk of Meat
+  - Stück Fleisch
 linter-yaml-title-alias: Stück Fleisch
 ---
 # Stück Fleisch

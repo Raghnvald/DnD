@@ -1,21 +1,21 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mm
-  - Monster/HG/2
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Drache
 statblock: inline
 statblock-link: "#^statblock"
-aliases:
-  - Silver Dragon Wyrmling
+Bezeichnung: Silver Dragon Wyrmling
 Typ: Drache (Metallisch)
 Größe: Mittelgroß
 HG: 2
 Habitat:
   - /
 status: WIP
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/2
+  - Monster/Typ/Drache
+  - Quelle/5e/mm
+aliases:
+  - Silver Dragon Wyrmling
+linter-yaml-title-alias: Silver Dragon Wyrmling
 ---
 # [Silver Dragon Wyrmling](3-Mechanics\CLI\bestiary\dragon/silver-dragon-wyrmling.md)
 *Source: Monster Manual p. 118. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  

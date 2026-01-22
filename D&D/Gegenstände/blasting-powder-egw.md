@@ -1,18 +1,18 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Blasting Powder
 tags:
-  - Quelle/5e/egw
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
+  - Quelle/5e/egw
 aliases:
   - Blasting Powder
+linter-yaml-title-alias: Blasting Powder
+obsidianUIMode: preview
 ---
 # Blasting Powder
 *Adventuring gear*  
-
-
 
 This volatile alchemical powder comes in a small pouch. When ignited by an open flame or a fuse, the powder explodes. Each creature within 5 feet of the exploding pouch must make a DC 13 Dexterity saving throw, taking `dice:3d6|noform|noparens|avg` (`3d6`) bludgeoning damage on a failed save, or half as much damage on a successful one.
 

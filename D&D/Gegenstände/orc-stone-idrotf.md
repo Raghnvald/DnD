@@ -1,18 +1,18 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Orc Stone
 tags:
-  - Quelle/5e/idrotf
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/ungewöhnlich
+  - Quelle/5e/idrotf
 aliases:
   - Orc Stone
+linter-yaml-title-alias: Orc Stone
+obsidianUIMode: preview
 ---
 # Orc Stone
 *Wondrous item, uncommon (requires attunement by a recipient only)*  
-
-
 
 I saved the life of an orc, who gave me a stone with the symbol of the Many-Arrows tribe (a humanoid skull pierced by three arrows) carved into it. The stone is an uncommon magic item that requires attunement, and only I can attune to it.
 

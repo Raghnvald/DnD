@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/bgg
-  - Monster/HG/10
-  - Monster/Größe/Riesig
-  - Monster/Typ/Untote
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Frostmourn
+tags:
+  - Monster/Größe/Riesig
+  - Monster/HG/10
+  - Monster/Typ/Untote
+  - Quelle/5e/bgg
 aliases:
   - Frostmourn
+linter-yaml-title-alias: Frostmourn
 ---
 # [Frostmourn](3-Mechanics\CLI\bestiary\undead/frostmourn-bgg.md)
 *Source: Bigby Presents: Glory of the Giants p. 147*  

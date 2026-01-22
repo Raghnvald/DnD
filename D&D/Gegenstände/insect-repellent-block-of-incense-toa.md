@@ -1,17 +1,18 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Insect Repellent (block of incense)
 tags:
-  - Quelle/5e/toa
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
+  - Quelle/5e/toa
 aliases:
   - Insect Repellent (block of incense)
+linter-yaml-title-alias: Insect Repellent (block of incense)
+obsidianUIMode: preview
 ---
 # Insect Repellent (block of incense)
 *Adventuring gear*  
-
 
 - **Cost**: 1 sp
 

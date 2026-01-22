@@ -2,14 +2,14 @@
 Bezeichnung: Entdeckerausrüstung
 Typ: Ausrüstungspaket
 Eigenschaften: n/v
-Gew.: 29,5 kg
 Kst.: 10 GM
+Gew.: 29,5 kg
 tags:
-- Quelle/5e/phb
-- Gegenstand/Ausrüstung
-- Gegenstand/Seltenheit/gewöhnlich
+  - Gegenstand/Ausrüstung
+  - Gegenstand/Seltenheit/gewöhnlich
+  - Quelle/5e/phb
 aliases:
-- Explorer's Pack
+  - Explorer's Pack
 ---
 # Entdeckerausrüstung
 *gewöhnliche Abenteuerausrüstung*  

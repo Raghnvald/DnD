@@ -1,18 +1,20 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Shield of the Uven Rune
+Rüstung: Schild
 tags:
-  - Quelle/5e/wdmm
   - Gegenstand/Einstimmung/required
-  - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/Rüstung/Schild/
+  - Gegenstand/Seltenheit/sehr_selten
+  - Quelle/5e/wdmm
 aliases:
   - Shield of the Uven Rune
+linter-yaml-title-alias: Shield of the Uven Rune
+obsidianUIMode: preview
 ---
 # Shield of the Uven Rune
 *Armor (shield), very rare (requires attunement)*  
-
 
 - **Armor Class**: 2
 - **Weight**: 6.0 lbs.

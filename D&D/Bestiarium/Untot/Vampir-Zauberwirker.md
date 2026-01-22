@@ -1,22 +1,22 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mm
-  - Monster/HG/15
-  - Monster/Habitat/Stadt
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Untote/shapechanger
 statblock: inline
 statblock-link: "#^statblock"
-aliases:
-  - Vampire Spellcaster
+Bezeichnung: Vampire Spellcaster
 Typ: Untoter (Gestaltwandler)
 Größe: Mittelgroß
 HG: 15
 Habitat:
   - Stadt
 status: WIP
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Stadt
+  - Monster/HG/15
+  - Monster/Typ/Untote/shapechanger
+  - Quelle/5e/mm
+aliases:
+  - Vampire Spellcaster
+linter-yaml-title-alias: Vampire Spellcaster
 ---
 # [Vampire Spellcaster](3-Mechanics\CLI\bestiary\undead/vampire-spellcaster.md)
 *Source: Monster Manual p. 298*  
@@ -64,7 +64,6 @@ A vampire chooses a grand yet defensible location for its lair, such as a castle
 > [!quote] A quote from Count Strahd von Zarovich  
 > 
 > I am The Ancient, I am The Land. My beginnings are lost in the darkness of the past. I was the warrior, I was good and just. I thundered across the land like the wrath of a just god, but the war years and the killing years wore down my soul as the wind wears down stone into sand.
-
 
 ```statblock
 "name": "Vampire Spellcaster"

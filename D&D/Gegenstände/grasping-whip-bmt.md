@@ -1,18 +1,20 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Grasping Whip
+Typ: Nahkampf-Kriegswaffe
 tags:
-  - Quelle/5e/bmt
   - Gegenstand/Seltenheit/selten
   - Gegenstand/Waffe/Kriegswaffe
   - Gegenstand/Waffe/Nahkampf
+  - Quelle/5e/bmt
 aliases:
   - Grasping Whip
+linter-yaml-title-alias: Grasping Whip
+obsidianUIMode: preview
 ---
 # Grasping Whip
 *Weapon (whip), rare*  
-
 
 - **Damage**: 1d4 slashing
 - **Properties**: Finesse, Reach

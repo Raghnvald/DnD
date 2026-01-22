@@ -1,16 +1,16 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/cos
-  - Monster/HG/2
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/human
-  - Monster/Typ/Humanoid/shapechanger
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Urwin Martikov
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/2
+  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/shapechanger
+  - Quelle/5e/cos
 aliases:
   - Urwin Martikov
+linter-yaml-title-alias: Urwin Martikov
 ---
 # [Urwin Martikov](3-Mechanics\CLI\bestiary\npc/urwin-martikov-cos.md)
 *Source: Curse of Strahd p. 98*  

@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mcv2dc
-  - Monster/HG/22
-  - Monster/Größe/Riesig
-  - Monster/Typ/Drache/adult-chromatic
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Ember
+tags:
+  - Monster/Größe/Riesig
+  - Monster/HG/22
+  - Monster/Typ/Drache/adult-chromatic
+  - Quelle/5e/mcv2dc
 aliases:
   - Ember
+linter-yaml-title-alias: Ember
 ---
 # [Ember](3-Mechanics\CLI\bestiary\npc/ember-mcv2dc.md)
 *Source: Monstrous Compendium Volume 2: Dragonlance Creatures p. 5*  

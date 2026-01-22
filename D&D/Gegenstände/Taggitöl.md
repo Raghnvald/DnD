@@ -9,8 +9,8 @@ tags:
   - Gegenstand/Eigenschaft/Gift
   - Quelle/5e/dmg
 aliases:
-  - Taggitöl (Kontakt)
   - Oil of Taggit
+  - Taggitöl (Kontakt)
 linter-yaml-title-alias: Taggitöl (Kontakt)
 ---
 # Taggitöl (Kontakt)

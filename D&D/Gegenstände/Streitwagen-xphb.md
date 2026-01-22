@@ -3,8 +3,8 @@ cssclasses:
   - json5e-item
 Bezeichnung: Chariot
 tags:
-  - Gegenstand/Seltenheit/keine
   - Gegenstand/Fortbewegung/land
+  - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Chariot

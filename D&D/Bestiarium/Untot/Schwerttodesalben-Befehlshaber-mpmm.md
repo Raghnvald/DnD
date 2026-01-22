@@ -1,20 +1,20 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mpmm
-  - Monster/HG/8
-  - Monster/Habitat/Grasland
-  - Monster/Habitat/Sumpf
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Untote
 statblock: inline
 statblock-link: "#^statblock"
-aliases:
-  - Sword Wraith Commander
+Bezeichnung: Sword Wraith Commander
 Typ: Untoter
 Größe: Mittelgroß
 HG: 8
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Grasland
+  - Monster/Habitat/Sumpf
+  - Monster/HG/8
+  - Monster/Typ/Untote
+  - Quelle/5e/mpmm
+aliases:
+  - Sword Wraith Commander
+linter-yaml-title-alias: Sword Wraith Commander
 ---
 # [Sword Wraith Commander](3-Mechanics\CLI\bestiary\undead/sword-wraith-commander-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 239*  

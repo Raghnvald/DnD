@@ -2,19 +2,19 @@
 cssclasses: dnd5e-compendium
 Bezeichnung: Ritterrüstung
 Typ: Rüstung
+Rüstung: Schwer
 Eigenschaften: n/v
 Kst.: 1.500 GM
 Gew.: 32,5 kg
+RK: 18
+STR: 15
+Heiml.: Nachteil
 tags:
   - Gegenstand/Rüstung/Schwer
   - Gegenstand/Seltenheit/gewöhnlich
   - Quelle/5e/phb
 aliases:
   - Plate Armor
-Heiml.: Nachteil
-RK: 18
-Rüstung: Schwer
-STR: 15
 ---
 # Ritterrüstung
 *Rüstung (schwer), gewöhnlich*  

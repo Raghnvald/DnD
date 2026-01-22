@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Glaive
+Typ: Nahkampf-Kriegswaffe
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/Kriegswaffe

@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/tftyp
-  - Monster/HG/3
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Untote
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Hedrun Arnsfirth
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/3
+  - Monster/Typ/Untote
+  - Quelle/5e/tftyp
 aliases:
   - Hedrun Arnsfirth
+linter-yaml-title-alias: Hedrun Arnsfirth
 ---
 # [Hedrun Arnsfirth](3-Mechanics\CLI\bestiary\npc/hedrun-arnsfirth-tftyp.md)
 *Source: Tales from the Yawning Portal p. 160*  

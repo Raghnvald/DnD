@@ -1,15 +1,16 @@
 ---
-Name: Ontharyx
-Image: npc/token/ontharyx-pabtso.webp
-tags:
-  - Quelle/5e/pabtso
-  - Monster/HG/4
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Aberration
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Ontharyx
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/4
+  - Monster/Typ/Aberration
+  - Quelle/5e/pabtso
 aliases:
   - Ontharyx
+Image: npc/token/ontharyx-pabtso.webp
+linter-yaml-title-alias: Ontharyx
 ---
 # Ontharyx
 *Source: Phandelver and Below: The Shattered Obelisk p. 115*  

@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Brauereivorräte
+Bezeichnung: "Brewer's Supplies"
 Typ: Werkzeug
 Eigenschaften: n/v 
 Kst.: 20 GM

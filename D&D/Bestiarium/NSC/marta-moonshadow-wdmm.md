@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/wdmm
-  - Monster/HG/6
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/any-race
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Marta Moonshadow
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/6
+  - Monster/Typ/Humanoid/any-race
+  - Quelle/5e/wdmm
 aliases:
   - Marta Moonshadow
+linter-yaml-title-alias: Marta Moonshadow
 ---
 # [Marta Moonshadow](3-Mechanics\CLI\bestiary\npc/marta-moonshadow-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 46*  

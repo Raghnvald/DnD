@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- Quelle/5e/ggr
-- Monster/HG/8
-- Monster/Größe/Mittelgroß
-- Monster/Typ/Untote
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Blood Drinker Vampire
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/8
+  - Monster/Typ/Untote
+  - Quelle/5e/ggr
 aliases:
-- Blood Drinker Vampire
+  - Blood Drinker Vampire
+linter-yaml-title-alias: Blood Drinker Vampire
 ---
 # [Blood Drinker Vampire](3-Mechanics\CLI\bestiary\undead/blood-drinker-vampire-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 223*  

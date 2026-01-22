@@ -1,17 +1,18 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Rain Catcher
 tags:
-  - Quelle/5e/toa
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
+  - Quelle/5e/toa
 aliases:
   - Rain Catcher
+linter-yaml-title-alias: Rain Catcher
+obsidianUIMode: preview
 ---
 # Rain Catcher
 *Adventuring gear*  
-
 
 - **Cost**: 1 gp
 - **Weight**: 5.0 lbs.

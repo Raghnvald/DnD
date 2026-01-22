@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Dart
+Typ: Einfache Fernkampfwaffe
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/Einfach

@@ -7,8 +7,8 @@ tags:
   - Gegenstand/wundersam/Trank
   - Quelle/5e/xdmg
 aliases:
-  - Potion of Necrotic Resistance
   - "Potion of Necrotic Resistance"
+  - Potion of Necrotic Resistance
 linter-yaml-title-alias: Potion of Necrotic Resistance
 obsidianUIMode: preview
 ---

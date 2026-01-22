@@ -1,19 +1,21 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Korolnor Scepter
+Typ: Einfache Nahkampfwaffe
 tags:
-  - Quelle/5e/skt
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
-  - Gegenstand/Waffe/Nahkampf
   - Gegenstand/Waffe/Einfach
+  - Gegenstand/Waffe/Nahkampf
+  - Quelle/5e/skt
 aliases:
   - Korolnor Scepter
+linter-yaml-title-alias: Korolnor Scepter
+obsidianUIMode: preview
 ---
 # Korolnor Scepter
 *Weapon (club), legendary (requires attunement)*  
-
 
 - **Damage**: 1d4 bludgeoning
 - **Properties**: Light

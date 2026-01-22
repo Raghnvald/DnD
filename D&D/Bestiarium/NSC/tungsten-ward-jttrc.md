@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/jttrc
-  - Monster/HG/1-4
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/human
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Tungsten Ward
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/1-4
+  - Monster/Typ/Humanoid/human
+  - Quelle/5e/jttrc
 aliases:
   - Tungsten Ward
+linter-yaml-title-alias: Tungsten Ward
 ---
 # [Tungsten Ward](3-Mechanics\CLI\bestiary\npc/tungsten-ward-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 38*  

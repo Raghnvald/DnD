@@ -1,21 +1,21 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/ftd
-  - Monster/HG/28
-  - Monster/Größe/Gigantisch
-  - Monster/Typ/Drache/metallic
 statblock: inline
 statblock-link: "#^statblock"
-aliases:
-  - Brass Greatwyrm
+Bezeichnung: Brass Greatwyrm
 Typ: Drache (Metallisch)
 Größe: Gigantisch
 HG: 28
 Habitat:
   - /
 status: WIP
+tags:
+  - Monster/Größe/Gigantisch
+  - Monster/HG/28
+  - Monster/Typ/Drache/metallic
+  - Quelle/5e/ftd
+aliases:
+  - Brass Greatwyrm
+linter-yaml-title-alias: Brass Greatwyrm
 ---
 # [Brass Greatwyrm](3-Mechanics\CLI\bestiary\dragon/brass-greatwyrm-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 208*  
@@ -38,7 +38,6 @@ Metallic greatwyrms are among the largest creatures in the multiverse, overshado
 > [!quote] A quote from Fizban  
 > 
 > Call me biased, but the "great" part of "metallic greatwyrm" feels a little redundant. It goes without saying.
-
 
 ```statblock
 "name": "Brass Greatwyrm (FTD)"

@@ -1,14 +1,14 @@
 ---
 cssclasses:
   - json5e-item
-Bezeichnung: Crystal Ball
+Bezeichnung: Kristallkugel
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
   - Quelle/5e/dmg
 aliases:
-  - Crystal Ball
-linter-yaml-title-alias: Crystal Ball
+  - Kristallkugel
+linter-yaml-title-alias: Kristallkugel
 obsidianUIMode: preview
 ---
 # Kristallkugel

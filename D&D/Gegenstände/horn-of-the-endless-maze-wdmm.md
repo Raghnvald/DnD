@@ -1,16 +1,17 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Horn of the Endless Maze
 tags:
-  - Quelle/5e/wdmm
   - Gegenstand/Seltenheit/selten
+  - Quelle/5e/wdmm
 aliases:
   - Horn of the Endless Maze
+linter-yaml-title-alias: Horn of the Endless Maze
+obsidianUIMode: preview
 ---
 # Horn of the Endless Maze
 *Wondrous item, rare*  
-
 
 - **Weight**: 2.0 lbs.
 

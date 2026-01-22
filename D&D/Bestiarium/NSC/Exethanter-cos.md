@@ -1,21 +1,21 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/cos
-  - Monster/HG/10
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Untote
 statblock: inline
 statblock-link: "#^statblock"
-aliases:
-  - Exethanter
+Bezeichnung: Exethanter
 Typ: Untoter
 Größe: Mittelgroß
 HG: 10
 Habitat:
   - /
 status: WIP
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/10
+  - Monster/Typ/Untote
+  - Quelle/5e/cos
+aliases:
+  - Exethanter
+linter-yaml-title-alias: Exethanter
 ---
 # [Exethanter](3-Mechanics\CLI\bestiary\npc/exethanter-cos.md)
 *Source: Curse of Strahd p. 189*  

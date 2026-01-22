@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/veor
-  - Monster/HG/10
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Untote
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Mirror Shade
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/10
+  - Monster/Typ/Untote
+  - Quelle/5e/veor
 aliases:
   - Mirror Shade
+linter-yaml-title-alias: Mirror Shade
 ---
 # [Mirror Shade](3-Mechanics\CLI\bestiary\undead/mirror-shade-veor.md)
 *Source: Vecna: Eve of Ruin p. 226*  

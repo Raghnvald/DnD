@@ -1,23 +1,23 @@
 ---
-cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
-Name: Ogerzombie
+statblock: inline
+statblock-link: "#^statblock"
+Bezeichnung: Ogre Zombie
 Typ: Untoter
 Größe: Groß
 HG: 2
 Habitat:
   - /
-status: completed
 image: image/ogre-zombie.webp
+status: completed
 tags:
-  - Quelle/5e/mm
-  - Monster/HG/2
   - Monster/Größe/Groß
+  - Monster/HG/2
   - Monster/Typ/Untote
-statblock: inline
-statblock-link: "#^statblock"
+  - Quelle/5e/mm
 aliases:
   - Ogre Zombie
+linter-yaml-title-alias: Ogre Zombie
 ---
 # [Ogre Zombie](3-Mechanics\CLI\bestiary\undead/ogre-zombie.md)
 *Source: Monster Manual p. 316. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
@@ -50,7 +50,6 @@ Ein Zombie muss nicht atmen, essen, trinken oder schlafen.
 
 > [!quote] Fonkin Muldgipfel, über Freundschaft 
 > Nachdem Beek gestorben war, wirkten wir [[Tote_beleben-phb|Tote beleben]] auf seinen Leichnam. Es hat eine Weile Spaß gemacht, aber der Zombie begann richtig übel zu stinken, also haben wir ihn mit Öl übergossen und angezündet. Beek hätte es saukomisch gefunden.
-
 
 ```statblock
 name: Ogerzombie

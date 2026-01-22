@@ -1,15 +1,15 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/cos
-  - Monster/HG/1-4
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/mongrelfolk
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Zygfrek Belview
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/1-4
+  - Monster/Typ/Humanoid/mongrelfolk
+  - Quelle/5e/cos
 aliases:
   - Zygfrek Belview
+linter-yaml-title-alias: Zygfrek Belview
 ---
 # [Zygfrek Belview](3-Mechanics\CLI\bestiary\npc/zygfrek-belview-cos.md)
 *Source: Curse of Strahd p. 148*  

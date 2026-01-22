@@ -1,21 +1,21 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/ftd
-  - Monster/HG/15
-  - Monster/Größe/Riesig
-  - Monster/Typ/Drache
 statblock: inline
 statblock-link: "#^statblock"
-aliases:
-  - Adult Moonstone Dragon
+Bezeichnung: Adult Moonstone Dragon
 Typ: Drache
 Größe: Riesig
 HG: 15
 Habitat:
   - /
 status: WIP
+tags:
+  - Monster/Größe/Riesig
+  - Monster/HG/15
+  - Monster/Typ/Drache
+  - Quelle/5e/ftd
+aliases:
+  - Adult Moonstone Dragon
+linter-yaml-title-alias: Adult Moonstone Dragon
 ---
 # [Adult Moonstone Dragon](3-Mechanics\CLI\bestiary\dragon/adult-moonstone-dragon-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 212*  

@@ -5,7 +5,9 @@ tags:
   - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
+  - Bohnenbeutel
   - Bag of Beans
+linter-yaml-title-alias: Bohnenbeutel
 ---
 # Bohnenbeutel
 *Wundersamer Gegenstand, selten*  

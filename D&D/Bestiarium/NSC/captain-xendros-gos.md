@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/gos
-  - Monster/HG/2
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/any-race
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Captain Xendros
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/2
+  - Monster/Typ/Humanoid/any-race
+  - Quelle/5e/gos
 aliases:
   - Captain Xendros
+linter-yaml-title-alias: Captain Xendros
 ---
 # [Captain Xendros](3-Mechanics\CLI\bestiary\npc/captain-xendros-gos.md)
 *Source: Ghosts of Saltmarsh p. 14*  

@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Armschienen der Flinkheit
+Bezeichnung: Bracers of Celerity
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten

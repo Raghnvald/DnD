@@ -1,16 +1,16 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/14
-  - Monster/Habitat/Unterreich
-  - Monster/Größe/Groß
-  - Monster/Typ/Untote/beholder
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Death Tyrant
+tags:
+  - Monster/Größe/Groß
+  - Monster/Habitat/Unterreich
+  - Monster/HG/14
+  - Monster/Typ/Untote/beholder
+  - Quelle/5e/xmm
 aliases:
   - Death Tyrant
+linter-yaml-title-alias: Death Tyrant
 ---
 # [Death Tyrant](3-Mechanics\CLI\bestiary\undead/death-tyrant-xmm.md)
 *Source: Monster Manual (2024) p. 95*  
@@ -35,7 +35,6 @@ Death tyrants often lurk deep in the Underdark, in the tunnel-mazes they occupie
 > [!quote] A quote from Journal of Jastus Hollowquill, explorer of Undermountain  
 > 
 > A cluster of tiny lights descended from a dark crevice in the ceiling. These motes cast an eerie glow on the great, alien skull that hung beneath them.
-
 
 ```statblock
 "name": "Death Tyrant (XMM)"

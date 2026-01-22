@@ -1,16 +1,16 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/6
-  - Monster/Habitat/Wüste
-  - Monster/Größe/Groß
-  - Monster/Typ/Drache/metallic
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Young Brass Dragon
+tags:
+  - Monster/Größe/Groß
+  - Monster/Habitat/Wüste
+  - Monster/HG/6
+  - Monster/Typ/Drache/metallic
+  - Quelle/5e/xmm
 aliases:
   - Young Brass Dragon
+linter-yaml-title-alias: Young Brass Dragon
 ---
 # [Young Brass Dragon](3-Mechanics\CLI\bestiary\dragon/young-brass-dragon-xmm.md)
 *Source: Monster Manual (2024) p. 54. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

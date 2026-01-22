@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/tftyp
-  - Monster/HG/0
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/any-race
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Ashdra
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/0
+  - Monster/Typ/Humanoid/any-race
+  - Quelle/5e/tftyp
 aliases:
   - Ashdra
+linter-yaml-title-alias: Ashdra
 ---
 # [Ashdra](3-Mechanics\CLI\bestiary\npc/ashdra-tftyp.md)
 *Source: Tales from the Yawning Portal p. 158*  

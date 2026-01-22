@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/idrotf
-  - Monster/HG/5
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/human
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Hengar Aesnvaard
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/5
+  - Monster/Typ/Humanoid/human
+  - Quelle/5e/idrotf
 aliases:
   - Hengar Aesnvaard
+linter-yaml-title-alias: Hengar Aesnvaard
 ---
 # [Hengar Aesnvaard](3-Mechanics\CLI\bestiary\npc/hengar-aesnvaard-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 215*  

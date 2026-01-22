@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/veor
-  - Monster/HG/6
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/human
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Sarcelle Malinosh
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/6
+  - Monster/Typ/Humanoid/human
+  - Quelle/5e/veor
 aliases:
   - Sarcelle Malinosh
+linter-yaml-title-alias: Sarcelle Malinosh
 ---
 # [Sarcelle Malinosh](3-Mechanics\CLI\bestiary\npc/sarcelle-malinosh-veor.md)
 *Source: Vecna: Eve of Ruin*  

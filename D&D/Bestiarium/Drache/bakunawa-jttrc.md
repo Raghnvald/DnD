@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/jttrc
-  - Monster/HG/12
-  - Monster/Größe/Gigantisch
-  - Monster/Typ/Drache
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Bakunawa
+tags:
+  - Monster/Größe/Gigantisch
+  - Monster/HG/12
+  - Monster/Typ/Drache
+  - Quelle/5e/jttrc
 aliases:
   - Bakunawa
+linter-yaml-title-alias: Bakunawa
 ---
 # [Bakunawa](3-Mechanics\CLI\bestiary\dragon/bakunawa-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 147*  

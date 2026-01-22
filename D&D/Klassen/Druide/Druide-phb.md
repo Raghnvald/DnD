@@ -108,7 +108,7 @@ War dein Druide schon immer ein Abenteurer auf Wander schaft oder verbrachte er 
 
 Du kannst einen Druiden schnell erschaffen, indem du diesen Vorschlä gen folgst:
 
-Setze deinen höchsten Attributswert auf Weisheit, den zweithöchsten auf Konstitution. Wähle zusätzlich den Hintergrund [[Hintergründe/hermit-phb|Einsiedler]].
+Setze deinen höchsten Attributswert auf Weisheit, den zweithöchsten auf Konstitution. Wähle zusätzlich den Hintergrund [[Einsiedler-phb|Einsiedler]].
 
 > [!note] Heilige Pflanzen und Hölzer
 > 

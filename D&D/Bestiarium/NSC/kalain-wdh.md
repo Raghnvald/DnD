@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/wdh
-  - Monster/HG/2
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/half-elf
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Kalain
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/2
+  - Monster/Typ/Humanoid/half-elf
+  - Quelle/5e/wdh
 aliases:
   - Kalain
+linter-yaml-title-alias: Kalain
 ---
 # [Kalain](3-Mechanics\CLI\bestiary\npc/kalain-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 89*  

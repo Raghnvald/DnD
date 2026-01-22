@@ -11,8 +11,8 @@ tags:
   - Gegenstand/wundersam/Zauberstab
   - Quelle/5e/dmg
 aliases:
-  - Zauberstab des Kriegsmagiers +2
   - Wand of the War Mage +2
+  - Zauberstab des Kriegsmagiers +2
 linter-yaml-title-alias: Zauberstab des Kriegsmagiers +2
 ---
 # Zauberstab des Kriegsmagiers +2

@@ -6,13 +6,13 @@ tags:
   - Gegenstand/wundersam/generic-variant
   - Quelle/5e/xge
 aliases:
-  - Adamantmunition
   - Adamantine Ammunition
   - Adamantine Arrow
   - Adamantine Bolt
   - Adamantine Firearm Bullet
   - Adamantine Needle
   - Adamantine Sling Bullet
+  - Adamantmunition
 linter-yaml-title-alias: Adamantmunition
 ---
 # Adamantmunition

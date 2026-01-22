@@ -1,16 +1,17 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Orb of Gonging
 tags:
-  - Quelle/5e/wdmm
   - Gegenstand/Seltenheit/gewöhnlich
+  - Quelle/5e/wdmm
 aliases:
   - Orb of Gonging
+linter-yaml-title-alias: Orb of Gonging
+obsidianUIMode: preview
 ---
 # Orb of Gonging
 *Wondrous item, common*  
-
 
 - **Weight**: 5.0 lbs.
 

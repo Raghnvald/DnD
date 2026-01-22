@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- Quelle/5e/ggr
-- Monster/HG/10
-- Monster/Größe/Mittelgroß
-- Monster/Typ/Untote
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Nightveil Specter
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/10
+  - Monster/Typ/Untote
+  - Quelle/5e/ggr
 aliases:
-- Nightveil Specter
+  - Nightveil Specter
+linter-yaml-title-alias: Nightveil Specter
 ---
 # [Nightveil Specter](3-Mechanics\CLI\bestiary\undead/nightveil-specter-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 215*  

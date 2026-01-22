@@ -1,18 +1,20 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Hide of the Feral Guardian (Awakened)
+Rüstung: Leicht
 tags:
-  - Quelle/5e/egw
-  - Gegenstand/Rüstung/Leicht
   - Gegenstand/Einstimmung/required
+  - Gegenstand/Rüstung/Leicht
   - Gegenstand/Seltenheit/legendär
+  - Quelle/5e/egw
 aliases:
   - Hide of the Feral Guardian (Awakened)
+linter-yaml-title-alias: Hide of the Feral Guardian (Awakened)
+obsidianUIMode: preview
 ---
 # Hide of the Feral Guardian (Awakened)
 *Light armor ([studded leather armor](/3-Mechanics/CLI/items/studded-leather-armor-xphb.md)), legendary (requires attunement)*  
-
 
 - **Armor Class**: 12 + Dex modifier
 - **Properties**: [Vestige of Divergence](/3-Mechanics/CLI/item-properties.md#Vestige%20of%20Divergence)

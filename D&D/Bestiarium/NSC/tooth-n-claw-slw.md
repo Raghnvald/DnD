@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/slw
-  - Monster/HG/3
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Unhold
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Tooth-N-Claw
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/3
+  - Monster/Typ/Unhold
+  - Quelle/5e/slw
 aliases:
   - Tooth-N-Claw
+linter-yaml-title-alias: Tooth-N-Claw
 ---
 # [Tooth-N-Claw](3-Mechanics\CLI\bestiary\npc/tooth-n-claw-slw.md)
 *Source: Storm Lord's Wrath*  

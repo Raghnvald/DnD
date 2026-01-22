@@ -1,19 +1,21 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Waythe
+Typ: Nahkampf-Kriegswaffe
 tags:
-  - Quelle/5e/tftyp
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
   - Gegenstand/Waffe/Kriegswaffe
   - Gegenstand/Waffe/Nahkampf
+  - Quelle/5e/tftyp
 aliases:
   - Waythe
+linter-yaml-title-alias: Waythe
+obsidianUIMode: preview
 ---
 # Waythe
 *Weapon (greatsword), legendary (requires attunement)*  
-
 
 - **Damage**: 2d6 slashing
 - **Properties**: Heavy, Two-Handed

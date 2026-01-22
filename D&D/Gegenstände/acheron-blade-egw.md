@@ -1,14 +1,13 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-item
+Bezeichnung: Acheron Blade
+Typ: Nahkampf-Kriegswaffe
 tags:
-  - Quelle/5e/egw
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
   - Gegenstand/Waffe/Kriegswaffe
   - Gegenstand/Waffe/Nahkampf
   - Gegenstand/wundersam/generic-variant
+  - Quelle/5e/egw
 aliases:
   - Acheron Blade
   - Acheron Blade Double-Bladed Scimitar
@@ -17,11 +16,10 @@ aliases:
   - Acheron Blade Rapier
   - Acheron Blade Scimitar
   - Acheron Blade Shortsword
+linter-yaml-title-alias: Acheron Blade
 ---
 # Acheron Blade
 *Rare (requires attunement)*  
-
-
 
 The black blade of this sword is crafted from a mysterious arcane alloy. You gain a +1 bonus to attack and damage rolls made with this magic weapon. While the sword is on your person, you are immune to effects that turn undead.
 
@@ -78,6 +76,5 @@ When you hit a creature with an attack using this weapon, you can fill the targe
 - **Damage**: 1d6 piercing
 - **Properties**: [Finesse](/3-Mechanics/CLI/item-properties.md#Finesse), [Light](/3-Mechanics/CLI/item-properties.md#Light)
 - **Weight**: 2.0 lbs.
-
 
 *Source: Explorer's Guide to Wildemount p. 265*

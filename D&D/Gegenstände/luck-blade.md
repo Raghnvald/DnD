@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Luck Blade
+Typ: Nahkampf-Kriegswaffe (generisch)
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär

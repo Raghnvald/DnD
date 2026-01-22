@@ -1,15 +1,17 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: "Fool's Blade"
+Typ: Nahkampf-Kriegswaffe
 tags:
-  - Quelle/5e/bmt
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/Waffe/Kriegswaffe
   - Gegenstand/Waffe/Nahkampf
   - Gegenstand/wundersam/generic-variant
+  - Quelle/5e/bmt
 aliases:
+  - "Fool's Blade"
   - Fool's Blade
   - Fool's Double-Bladed Scimitar
   - Fool's Greatsword
@@ -17,11 +19,11 @@ aliases:
   - Fool's Rapier
   - Fool's Scimitar
   - Fool's Shortsword
+linter-yaml-title-alias: "Fool's Blade"
+obsidianUIMode: preview
 ---
 # Fool's Blade
 *Very rare (requires attunement)*  
-
-
 
 This weapon appears ordinary, but it bears strong illusion magic that allows its wielder to skillfully deceive opponents.
 
@@ -75,6 +77,5 @@ You have a +2 bonus to attack and damage rolls made with this magic weapon. Whil
 - **Damage**: 1d6 piercing
 - **Properties**: Finesse, Light
 - **Weight**: 2.0 lbs.
-
 
 *Source: The Book of Many Things p. 36*

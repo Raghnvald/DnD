@@ -9,8 +9,8 @@ tags:
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Bier (Faß, 4L)
   - Ale (Gallon)
+  - Bier (Faß, 4L)
 linter-yaml-title-alias: Bier (Faß, 4L)
 ---
 # Bier (Faß, 4L)

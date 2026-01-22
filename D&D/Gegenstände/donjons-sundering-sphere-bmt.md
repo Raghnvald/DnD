@@ -1,18 +1,19 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: "Donjon's Sundering Sphere"
 tags:
-  - Quelle/5e/bmt
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
+  - Quelle/5e/bmt
 aliases:
+  - "Donjon's Sundering Sphere"
   - Donjon's Sundering Sphere
+linter-yaml-title-alias: "Donjon's Sundering Sphere"
+obsidianUIMode: preview
 ---
 # Donjon's Sundering Sphere
 *Wondrous item, rare (requires attunement)*  
-
-
 
 This marble-size crystal sphere glows with extraplanar energy.
 

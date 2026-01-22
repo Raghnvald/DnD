@@ -1,23 +1,24 @@
 ---
-cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
-tags:
-  - Quelle/5e/mpmm
-  - Monster/HG/10
-  - Monster/Habitat/Unterreich
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Untote/mind-flayer
-  - Monster/Typ/Untote/wizard
 statblock: inline
 statblock-link: "#^statblock"
-aliases:
-  - Alhoon
+Bezeichnung: Alhoon
 Typ: Untoter
-status: WIP
 Größe: Mittelgroß
 HG: 10
 Habitat:
   - Unterreich
+status: WIP
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Unterreich
+  - Monster/HG/10
+  - Monster/Typ/Untote/mind-flayer
+  - Monster/Typ/Untote/wizard
+  - Quelle/5e/mpmm
+aliases:
+  - Alhoon
+linter-yaml-title-alias: Alhoon
 ---
 # [Alhoon](3-Mechanics\CLI\bestiary\undead/alhoon-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 43*  
@@ -49,7 +50,7 @@ The undeath conferred by a periapt of mind trapping lasts only so long as the li
 Destroying a periapt of mind trapping consigns those trapped within it to oblivion, and thus alhoons often work together to create elaborate protections for their periapt and their preferred ritual site. Sometimes a single alhoon is entrusted with the periapt of mind trapping, but this is a dangerous proposition. Anyone who holds the periapt gains advantage on attacks, saving throws, and checks against the alhoons associated with its creation, and those alhoons in turn suffer disadvantage on attacks, saving throws, and checks against the holder. In addition, the holder can telepathically communicate with any sacrificed soul trapped within, and alhoons within the periapt can speak telepathically with the holder. A creature carrying the periapt can't prevent communication from alhoons but can silence trapped souls.
 
 ```statblock
-"name": "Alhoon (MPMM)"
+"name": "Alhoon"
 "size": "Medium"
 "type": "undead"
 "subtype": "mind flayer, wizard"

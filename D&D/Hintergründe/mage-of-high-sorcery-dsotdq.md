@@ -1,0 +1,1 @@
+%% ERROR: io.quarkus.qute.TemplateException: Rendering error: Property "aliases" not found on the base object "dev.ebullient.convert.tools.dnd5e.qute.QuteBackground" in expression {resource.aliases} %%

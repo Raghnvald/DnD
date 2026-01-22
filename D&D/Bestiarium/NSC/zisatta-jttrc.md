@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/jttrc
-  - Monster/HG/1-8
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/merfolk
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Zisatta
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/1-8
+  - Monster/Typ/Humanoid/merfolk
+  - Quelle/5e/jttrc
 aliases:
   - Zisatta
+linter-yaml-title-alias: Zisatta
 ---
 # [Zisatta](3-Mechanics\CLI\bestiary\npc/zisatta-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 177*  

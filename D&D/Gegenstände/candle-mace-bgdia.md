@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Candle Mace
+Typ: Einfache Nahkampfwaffe
 tags:
   - Gegenstand/Seltenheit/unbekannt/magic
   - Gegenstand/Waffe/Einfach

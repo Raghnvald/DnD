@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/skt
-  - Monster/HG/5
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/human
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Hydia Moonmusk
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/5
+  - Monster/Typ/Humanoid/human
+  - Quelle/5e/skt
 aliases:
   - Hydia Moonmusk
+linter-yaml-title-alias: Hydia Moonmusk
 ---
 # [Hydia Moonmusk](3-Mechanics\CLI\bestiary\npc/hydia-moonmusk-skt.md)
 *Source: Storm King's Thunder p. 148*  

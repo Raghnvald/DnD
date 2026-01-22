@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/veor
-  - Monster/HG/13
-  - Monster/Größe/Riesig
-  - Monster/Typ/Drache
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Orinix
+tags:
+  - Monster/Größe/Riesig
+  - Monster/HG/13
+  - Monster/Typ/Drache
+  - Quelle/5e/veor
 aliases:
   - Orinix
+linter-yaml-title-alias: Orinix
 ---
 # [Orinix](3-Mechanics\CLI\bestiary\npc/orinix-veor.md)
 *Source: Vecna: Eve of Ruin*  

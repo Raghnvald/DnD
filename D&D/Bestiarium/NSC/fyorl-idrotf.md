@@ -1,16 +1,16 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/idrotf
-  - Monster/HG/0
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/aberration
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: "F'yorl"
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/0
+  - Monster/Typ/aberration
+  - Quelle/5e/idrotf
 aliases:
+  - "F'yorl"
   - F'yorl
+linter-yaml-title-alias: "F'yorl"
 ---
 # [F'yorl](3-Mechanics\CLI\bestiary\npc/fyorl-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 183*  

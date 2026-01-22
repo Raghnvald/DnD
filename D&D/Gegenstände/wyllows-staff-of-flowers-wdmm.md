@@ -1,18 +1,20 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: "Wyllow's Staff of Flowers"
 tags:
-  - Quelle/5e/wdmm
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/gewöhnlich
   - Gegenstand/Waffe/Einfach
+  - Quelle/5e/wdmm
 aliases:
+  - "Wyllow's Staff of Flowers"
   - Wyllow's Staff of Flowers
+linter-yaml-title-alias: "Wyllow's Staff of Flowers"
+obsidianUIMode: preview
 ---
 # Wyllow's Staff of Flowers
 *Staff, weapon, common (requires attunement)*  
-
 
 - **Damage**:
   - One-handed: 1d6 bludgeoning

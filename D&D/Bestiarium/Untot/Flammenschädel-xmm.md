@@ -1,22 +1,22 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/4
-  - Monster/Habitat/Unterreich
-  - Monster/Größe/Winzig
-  - Monster/Typ/Untote
 statblock: inline
 statblock-link: "#^statblock"
-aliases:
-  - Flameskull
+Bezeichnung: Flameskull
 Typ: Untoter
 Größe: Winzig
 HG: 4
 Habitat:
   - Unterreich
 status: WIP
+tags:
+  - Monster/Größe/Winzig
+  - Monster/Habitat/Unterreich
+  - Monster/HG/4
+  - Monster/Typ/Untote
+  - Quelle/5e/xmm
+aliases:
+  - Flameskull
+linter-yaml-title-alias: Flameskull
 ---
 # [Flameskull](3-Mechanics\CLI\bestiary\undead/flameskull-xmm.md)
 *Source: Monster Manual (2024) p. 120*  
@@ -47,7 +47,6 @@ Flameskulls take various forms, from skulls with humanlike features to ones with
 > [!quote] A quote from Trenzia, Undermountain Flameskull  
 > 
 > I never cared for warmth. I never needed a body. My will is enough, and my work will be the legacy that makes my every sacrifice worthwhile!
-
 
 ```statblock
 "name": "Flameskull (XMM)"

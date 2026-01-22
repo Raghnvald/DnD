@@ -1,15 +1,15 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/bgdia
-  - Monster/HG/1-4
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/kenku
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Chukka
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/1-4
+  - Monster/Typ/Humanoid/kenku
+  - Quelle/5e/bgdia
 aliases:
   - Chukka
+linter-yaml-title-alias: Chukka
 ---
 # Chukka
 *Source: Baldur's Gate: Descent Into Avernus p. 83*  

@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/skt
-  - Monster/HG/13
-  - Monster/Größe/Riesig
-  - Monster/Typ/Riese
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Princess Serissa
+tags:
+  - Monster/Größe/Riesig
+  - Monster/HG/13
+  - Monster/Typ/Riese
+  - Quelle/5e/skt
 aliases:
   - Princess Serissa
+linter-yaml-title-alias: Princess Serissa
 ---
 # [Princess Serissa](3-Mechanics\CLI\bestiary\npc/princess-serissa-skt.md)
 *Source: Storm King's Thunder p. 209*  

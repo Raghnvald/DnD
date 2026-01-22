@@ -1,17 +1,18 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Telescopic Transporter
 tags:
-  - Quelle/5e/bmt
   - Gegenstand/Seltenheit/legendär
+  - Quelle/5e/bmt
 aliases:
   - Telescopic Transporter
+linter-yaml-title-alias: Telescopic Transporter
+obsidianUIMode: preview
 ---
 # Telescopic Transporter
 *Wondrous item, legendary*  
 ![](/3-Mechanics/CLI/items/img/telescopic-transporter.webp#right)
-
 
 This enormous telescope allows you to view distant celestial objects, including stars, Wildspace systems, and Astral Sea phenomena like the cities of deities or the petrified husks of dead gods.
 

@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/wdh
-  - Monster/HG/1-8
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/dwarf
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Ott Steeltoes
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/1-8
+  - Monster/Typ/Humanoid/dwarf
+  - Quelle/5e/wdh
 aliases:
   - Ott Steeltoes
+linter-yaml-title-alias: Ott Steeltoes
 ---
 # [Ott Steeltoes](3-Mechanics\CLI\bestiary\npc/ott-steeltoes-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 214*  

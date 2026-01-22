@@ -2,13 +2,14 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Splint Armor
+Rüstung: Schwer
 tags:
   - Gegenstand/Rüstung/Schwer
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Splint Armor
   - "Splint Armor"
+  - Splint Armor
 linter-yaml-title-alias: Splint Armor
 obsidianUIMode: preview
 ---

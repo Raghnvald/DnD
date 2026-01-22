@@ -1,17 +1,18 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Moorbounder
 tags:
-  - Quelle/5e/egw
   - Gegenstand/Ausrüstung/Reit-und-Lastentier
   - Gegenstand/Seltenheit/keine
+  - Quelle/5e/egw
 aliases:
   - Moorbounder
+linter-yaml-title-alias: Moorbounder
+obsidianUIMode: preview
 ---
 # Moorbounder
 *Mount*  
-
 
 - **Cost**: 400 gp
 

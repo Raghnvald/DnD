@@ -1,21 +1,21 @@
 ---
 Bezeichnung: Beschlagene Lederrüstung
 Typ: Rüstung
+Rüstung: Leicht
 Eigenschaften: /
 Kst.: 45 GM
 Gew.: 7,5 kg
+RK: 12 + GES
+STR: /
+Heiml.: /
 tags:
   - Gegenstand/Rüstung/Leicht
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Beschlagene Lederrüstung
   - "Studded Leather Armor"
-Heiml.: /
+  - Beschlagene Lederrüstung
 linter-yaml-title-alias: Beschlagene Lederrüstung
-RK: 12 + GES
-Rüstung: Leicht
-STR: /
 ---
 # Beschlagene Lederrüstung
 *Leichte Rüstung*  

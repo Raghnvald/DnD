@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/veor
-  - Monster/HG/21
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Untote
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Rerak
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/21
+  - Monster/Typ/Untote
+  - Quelle/5e/veor
 aliases:
   - Rerak
+linter-yaml-title-alias: Rerak
 ---
 # [Rerak](3-Mechanics\CLI\bestiary\npc/rerak-veor.md)
 *Source: Vecna: Eve of Ruin*  

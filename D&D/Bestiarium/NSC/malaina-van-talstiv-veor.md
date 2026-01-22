@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/veor
-  - Monster/HG/8
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/human
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Malaina van Talstiv
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/8
+  - Monster/Typ/Humanoid/human
+  - Quelle/5e/veor
 aliases:
   - Malaina van Talstiv
+linter-yaml-title-alias: Malaina van Talstiv
 ---
 # [Malaina van Talstiv](3-Mechanics\CLI\bestiary\npc/malaina-van-talstiv-veor.md)
 *Source: Vecna: Eve of Ruin*  

@@ -1,17 +1,17 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Faerie Dust
 tags:
-  - Quelle/5e/skt
   - Gegenstand/Seltenheit/unbekannt/magic
   - Gegenstand/wundersam/other
+  - Quelle/5e/skt
 aliases:
   - Faerie Dust
+linter-yaml-title-alias: Faerie Dust
+obsidianUIMode: preview
 ---
 # Faerie Dust
-
-
 
 A pinch of this dust can substitute for the material components of any enchantment spell of 3rd level or lower. If a pinch of faerie dust is sprinkled on a creature, roll percentile dice and consult the Faerie Dust table to determine the effect.
 

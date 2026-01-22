@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/skt
-  - Monster/HG/9
-  - Monster/Größe/Riesig
-  - Monster/Typ/Riese
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Vaal
+tags:
+  - Monster/Größe/Riesig
+  - Monster/HG/9
+  - Monster/Typ/Riese
+  - Quelle/5e/skt
 aliases:
   - Vaal
+linter-yaml-title-alias: Vaal
 ---
 # [Vaal](3-Mechanics\CLI\bestiary\npc/vaal-skt.md)
 *Source: Storm King's Thunder p. 207*  

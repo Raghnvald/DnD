@@ -1,15 +1,18 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Greater Silver Sword
+Typ: Nahkampf-Kriegswaffe
 tags:
-  - Quelle/5e/mtf
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
   - Gegenstand/Waffe/Kriegswaffe
   - Gegenstand/Waffe/Nahkampf
+  - Quelle/5e/mtf
 aliases:
   - Greater Silver Sword
+linter-yaml-title-alias: Greater Silver Sword
+obsidianUIMode: preview
 ---
 # Greater Silver Sword
 *Weapon ([greatsword](/3-Mechanics/CLI/items/greatsword-xphb.md)), legendary (requires attunement by a creature that has psionic ability)*  

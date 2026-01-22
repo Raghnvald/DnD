@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/tce
-  - Monster/HG/17
-  - Monster/Größe/Riesig
-  - Monster/Typ/Drache
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Adult Red Dracolich
+tags:
+  - Monster/Größe/Riesig
+  - Monster/HG/17
+  - Monster/Typ/Drache
+  - Quelle/5e/tce
 aliases:
   - Adult Red Dracolich
+linter-yaml-title-alias: Adult Red Dracolich
 ---
 # [Adult Red Dracolich](3-Mechanics\CLI\bestiary\dragon/adult-red-dracolich-tce.md)
 *Source: Tasha's Cauldron of Everything p. 137*  

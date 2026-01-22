@@ -8,13 +8,13 @@ tags:
 - Die Gruppe hat einen Auftrag von [[Gundren_Felssucher-pabtso|Gundren Steinsucher]] angenommen, in welchem sie ihn in [[3-Mechanics/CLI/adventures/lost-mine-of-phandelver/3-phandalin|Phandalin]] antreffen sollten. Er habe etwas gefunden, vermag jedoch keine genauen Infos zu teilen. Die Gruppe sollte jedoch seinen Karren nach [[3-Mechanics/CLI/adventures/lost-mine-of-phandelver/3-phandalin|Phandalin]] bringen.
 - [[Gundren_Felssucher-pabtso|Gundren]] wurde auf dem Weg überfallen und gefangen genommen.
 - Die Gruppe hat nur den Ort des Überfalls gefunden. Von [[Gundren_Felssucher-pabtso|Gundren]] war keine Spur.
-- Nach einiger Suche haben die drei Abenteurer den Unterschlupf der Goblins gefunden. Dort gefangen war [[Sildar Hallwinter-pabtso|Sildar Hallwinter]] - Begleiter von [[Gundren_Felssucher-pabtso|Gundren]], welche jedoch nach dem Hinterhalt durch die Goblins getrennt wurden.
+- Nach einiger Suche haben die drei Abenteurer den Unterschlupf der Goblins gefunden. Dort gefangen war [[Sildar_Hallwinter-pabtso|Sildar Hallwinter]] - Begleiter von [[Gundren_Felssucher-pabtso|Gundren]], welche jedoch nach dem Hinterhalt durch die Goblins getrennt wurden.
 - Im Goblinlager haben sie auch diverse Schweine gefunden, welche wahrscheinlich als Nahrung gehalten wurden. Astor konnte nicht anders und hat sie befreit - eines davon begleitet die Gruppe bis zum heutigen Tag.
 
 ## Kapitel 2
 - In [[3-Mechanics/CLI/adventures/lost-mine-of-phandelver/3-phandalin|Phandalin]] angekommen wurde die Gruppe darauf aufmerksam gemacht, dass die Gruppierung der Rotbrenner-Banditen für Ärger in der nahen Umgebung sorgt.
 - Die Banditen haben sich zu diesem Zeitpunkt im Tresendar-Anwesen nieder gelassen.
-- Angeführt wurden die Rotbrand von [[Iarno Glasstaff Albrek-pabtso|Iarno Albrek]] - ehemaliger Freund und Verbündeter von [[Sildar Hallwinter-pabtso|Sildar Hallwinter]]. Beide waren Mitglieder im [[Rat der Grafen]].
+- Angeführt wurden die Rotbrand von [[Iarno_Glasstaff_Albrek-pabtso|Iarno Albrek]] - ehemaliger Freund und Verbündeter von [[Sildar_Hallwinter-pabtso|Sildar Hallwinter]]. Beide waren Mitglieder im [[Rat der Grafen]].
 - Iarno hat sich dem Rat der Grafen abgewandt weil (Grund noch raus suchen)
 - Im Anwesen ist die Gruppe auch in einem tiefen Riss im Boden auf einen [[3-Mechanics/CLI/bestiary/aberration/nothic]] getroffen, welchen die Gruppe liebevoll "Glubbschi" nannte.
 

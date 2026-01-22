@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/toa
-  - Monster/HG/8
-  - Monster/Größe/Riesig
-  - Monster/Typ/Untote
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Tyrannosaurus Zombie
+tags:
+  - Monster/Größe/Riesig
+  - Monster/HG/8
+  - Monster/Typ/Untote
+  - Quelle/5e/toa
 aliases:
   - Tyrannosaurus Zombie
+linter-yaml-title-alias: Tyrannosaurus Zombie
 ---
 # [Tyrannosaurus Zombie](3-Mechanics\CLI\bestiary\undead/tyrannosaurus-zombie-toa.md)
 *Source: Tomb of Annihilation p. 241*  

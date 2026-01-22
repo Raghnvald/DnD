@@ -10,8 +10,8 @@ tags:
   - Gegenstand/wundersam/Zauberstab
   - Quelle/5e/dmg
 aliases:
-  - Zauberstab der magischen Geschosse
   - Wand of Magic Missiles
+  - Zauberstab der magischen Geschosse
 linter-yaml-title-alias: Zauberstab der magischen Geschosse
 ---
 # Zauberstab der magischen Geschosse

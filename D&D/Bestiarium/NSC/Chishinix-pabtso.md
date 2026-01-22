@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/pabtso
-  - Monster/HG/11
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/aberration
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Chishinix
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/11
+  - Monster/Typ/aberration
+  - Quelle/5e/pabtso
 aliases:
   - Chishinix
+linter-yaml-title-alias: Chishinix
 ---
 # [Chishinix](3-Mechanics\CLI\bestiary\npc/chishinix-pabtso.md)
 *Source: Phandelver and Below: The Shattered Obelisk p. 194*  

@@ -1,16 +1,16 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/egw
-  - Monster/HG/3
-  - Monster/Größe/Klein
-  - Monster/Typ/Humanoid/goblinoid
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: "Bol'bara"
+tags:
+  - Monster/Größe/Klein
+  - Monster/HG/3
+  - Monster/Typ/Humanoid/goblinoid
+  - Quelle/5e/egw
 aliases:
+  - "Bol'bara"
   - Bol'bara
+linter-yaml-title-alias: "Bol'bara"
 ---
 # [Bol'bara](3-Mechanics\CLI\bestiary\npc/bolbara-egw.md)
 *Source: Explorer's Guide to Wildemount p. 261*  

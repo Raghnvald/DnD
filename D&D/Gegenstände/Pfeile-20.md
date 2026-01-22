@@ -6,8 +6,8 @@ tags:
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Pfeile (20)
   - Arrows (20)
+  - Pfeile (20)
 linter-yaml-title-alias: Pfeile (20)
 ---
 # Pfeile (20)

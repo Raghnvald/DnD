@@ -1,14 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Bloodseeker Ammunition
 tags:
-  - Quelle/5e/bmt
-  - Gegenstand/Zeitalter/Futuristisch
   - Gegenstand/Ausrüstung/ammunition
   - Gegenstand/Ausrüstung/ammunition-firearm
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/wundersam/generic-variant
+  - Gegenstand/Zeitalter/Futuristisch
+  - Quelle/5e/bmt
 aliases:
   - Bloodseeker Ammunition
   - Bloodseeker Arrow
@@ -17,11 +17,11 @@ aliases:
   - Bloodseeker Firearm Bullet
   - Bloodseeker Needle
   - Bloodseeker Sling Bullet
+linter-yaml-title-alias: Bloodseeker Ammunition
+obsidianUIMode: preview
 ---
 # Bloodseeker Ammunition
 *Ammunition, very rare*  
-
-
 
 Ranged attack rolls made with this ammunition have advantage against any creature that doesn't have all its hit points.
 
@@ -56,6 +56,5 @@ Ranged attack rolls made with this ammunition have advantage against any creatur
 ### Bloodseeker Sling Bullet
 
 - **Weight**: 0.075 lbs.
-
 
 *Source: The Book of Many Things p. 66*

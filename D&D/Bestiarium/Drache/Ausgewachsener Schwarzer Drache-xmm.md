@@ -1,22 +1,22 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/14
-  - Monster/Habitat/Sumpf
-  - Monster/Größe/Riesig
-  - Monster/Typ/Drache/chromatic
 statblock: inline
 statblock-link: "#^statblock"
-aliases:
-  - Adult Black Dragon
+Bezeichnung: Adult Black Dragon
 Typ: Drache (Chromatisch)
 Größe: Riesig
 HG: 14
 Habitat:
   - Sumpf
 status: WIP
+tags:
+  - Monster/Größe/Riesig
+  - Monster/Habitat/Sumpf
+  - Monster/HG/14
+  - Monster/Typ/Drache/chromatic
+  - Quelle/5e/xmm
+aliases:
+  - Adult Black Dragon
+linter-yaml-title-alias: Adult Black Dragon
 ---
 # [Adult Black Dragon](3-Mechanics\CLI\bestiary\dragon/adult-black-dragon-xmm.md)
 *Source: Monster Manual (2024) p. 39. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

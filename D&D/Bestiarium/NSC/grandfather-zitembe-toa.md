@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/toa
-  - Monster/HG/2
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/human
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Grandfather Zitembe
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/2
+  - Monster/Typ/Humanoid/human
+  - Quelle/5e/toa
 aliases:
   - Grandfather Zitembe
+linter-yaml-title-alias: Grandfather Zitembe
 ---
 # [Grandfather Zitembe](3-Mechanics\CLI\bestiary\npc/grandfather-zitembe-toa.md)
 *Source: Tomb of Annihilation p. 20*  

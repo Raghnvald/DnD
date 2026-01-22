@@ -1,18 +1,19 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Wand of Entangle
 tags:
-  - Quelle/5e/tftyp
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/wundersam/wand
+  - Quelle/5e/tftyp
 aliases:
   - Wand of Entangle
+linter-yaml-title-alias: Wand of Entangle
+obsidianUIMode: preview
 ---
 # Wand of Entangle
 *Wand, uncommon (requires attunement by a spellcaster)*  
-
 
 - **Weight**: 1.0 lbs.
 

@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Lash of Immolation
+Typ: Nahkampf-Kriegswaffe
 tags:
   - Gegenstand/Seltenheit/selten
   - Gegenstand/Waffe/Kriegswaffe

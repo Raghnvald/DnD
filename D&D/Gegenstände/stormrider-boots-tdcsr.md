@@ -1,17 +1,17 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Stormrider Boots
 tags:
-  - Quelle/5e/tdcsr
   - Gegenstand/Seltenheit/selten
+  - Quelle/5e/tdcsr
 aliases:
   - Stormrider Boots
+linter-yaml-title-alias: Stormrider Boots
+obsidianUIMode: preview
 ---
 # Stormrider Boots
 *Wondrous item, rare*  
-
-
 
 These dark leather boots look to be of common make, but a subtle pattern of swirling storm clouds upon their soles suggests the potency of their enchantment. You can activate these boots as part of your movement, gaining the following benefits until the end of your turn:
 

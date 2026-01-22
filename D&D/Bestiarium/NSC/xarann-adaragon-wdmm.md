@@ -1,16 +1,16 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/wdmm
-  - Monster/HG/8
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/any-race
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: "Xarann A'Daragon"
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/8
+  - Monster/Typ/Humanoid/any-race
+  - Quelle/5e/wdmm
 aliases:
+  - "Xarann A'Daragon"
   - Xarann A'Daragon
+linter-yaml-title-alias: "Xarann A'Daragon"
 ---
 # [Xarann A'Daragon](3-Mechanics\CLI\bestiary\npc/xarann-adaragon-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 145*  

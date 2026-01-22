@@ -1,18 +1,18 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Shard of the Ise Rune
 tags:
-  - Quelle/5e/skt
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
+  - Quelle/5e/skt
 aliases:
   - Shard of the Ise Rune
+linter-yaml-title-alias: Shard of the Ise Rune
+obsidianUIMode: preview
 ---
 # Shard of the Ise Rune
 *Wondrous item, very rare (requires attunement)*  
-
-
 
 This shard of ice is long and slender, roughly the size of a dagger. The ise (ice) rune glows within it. The shard has the following properties, which work only while it's on your person.
 

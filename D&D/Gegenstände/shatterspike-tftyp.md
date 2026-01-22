@@ -1,19 +1,21 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Shatterspike
+Typ: Nahkampf-Kriegswaffe
 tags:
-  - Quelle/5e/tftyp
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/Waffe/Kriegswaffe
   - Gegenstand/Waffe/Nahkampf
+  - Quelle/5e/tftyp
 aliases:
   - Shatterspike
+linter-yaml-title-alias: Shatterspike
+obsidianUIMode: preview
 ---
 # Shatterspike
 *Weapon (longsword), uncommon (requires attunement)*  
-
 
 - **Damage**:
   - One-handed: 1d8 slashing

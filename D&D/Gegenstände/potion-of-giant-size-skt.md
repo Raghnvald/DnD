@@ -1,18 +1,18 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Potion of Giant Size
 tags:
-  - Quelle/5e/skt
   - Gegenstand/Seltenheit/legendär
   - Gegenstand/wundersam/Trank
+  - Quelle/5e/skt
 aliases:
   - Potion of Giant Size
+linter-yaml-title-alias: Potion of Giant Size
+obsidianUIMode: preview
 ---
 # Potion of Giant Size
 *Potion, legendary*  
-
-
 
 When you drink this potion, you become Huge for 24 hours if you are Medium or smaller, otherwise the potion does nothing. For that duration, your Strength becomes 25, if it isn't already higher, and your hit point maximum is doubled (your current hit points are doubled when you drink the potion). In addition, the reach of your melee attacks increases by 5 feet.
 

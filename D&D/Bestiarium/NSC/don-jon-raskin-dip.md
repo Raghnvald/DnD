@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/dip
-  - Monster/HG/1-2
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/human
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Don-Jon Raskin
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/1-2
+  - Monster/Typ/Humanoid/human
+  - Quelle/5e/dip
 aliases:
   - Don-Jon Raskin
+linter-yaml-title-alias: Don-Jon Raskin
 ---
 # [Don-Jon Raskin](3-Mechanics\CLI\bestiary\npc/don-jon-raskin-dip.md)
 *Source: Dragon of Icespire Peak p. 56*  

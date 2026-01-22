@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Hammer of Thunderbolts
+Typ: Nahkampf-Kriegswaffe
 tags:
   - Gegenstand/Seltenheit/legendär
   - Gegenstand/Waffe/Kriegswaffe

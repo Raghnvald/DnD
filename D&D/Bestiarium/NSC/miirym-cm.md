@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/cm
-  - Monster/HG/22
-  - Monster/Größe/Groß
-  - Monster/Typ/Untote
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Miirym
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/22
+  - Monster/Typ/Untote
+  - Quelle/5e/cm
 aliases:
   - Miirym
+linter-yaml-title-alias: Miirym
 ---
 # [Miirym](3-Mechanics\CLI\bestiary\npc/miirym-cm.md)
 *Source: Candlekeep Mysteries p. 16*  

@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/wdmm
-  - Monster/HG/12
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/aberration
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Berlain Shadowdusk
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/12
+  - Monster/Typ/aberration
+  - Quelle/5e/wdmm
 aliases:
   - Berlain Shadowdusk
+linter-yaml-title-alias: Berlain Shadowdusk
 ---
 # [Berlain Shadowdusk](3-Mechanics\CLI\bestiary\npc/berlain-shadowdusk-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 283*  

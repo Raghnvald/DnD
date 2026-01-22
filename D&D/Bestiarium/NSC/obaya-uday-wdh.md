@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/wdh
-  - Monster/HG/2
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/human
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Obaya Uday
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/2
+  - Monster/Typ/Humanoid/human
+  - Quelle/5e/wdh
 aliases:
   - Obaya Uday
+linter-yaml-title-alias: Obaya Uday
 ---
 # [Obaya Uday](3-Mechanics\CLI\bestiary\npc/obaya-uday-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 20*  
@@ -20,7 +19,6 @@ aliases:
 > [!quote]  
 > 
 > The wonders of Waterdeep are something to behold. I tell you, I've never seen so much money in my life!
-
 
 ```statblock
 "name": "Obaya Uday (WDH)"

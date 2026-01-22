@@ -1,12 +1,12 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Dried Leech
 tags:
-  - Quelle/5e/bmt
   - Gegenstand/Ausrüstung/ammunition
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/wundersam/generic-variant
+  - Quelle/5e/bmt
 aliases:
   - Dried Leech
   - Dried Leech Arrow
@@ -14,11 +14,11 @@ aliases:
   - Dried Leech Firearm Bullet
   - Dried Leech Needle
   - Dried Leech Sling Bullet
+linter-yaml-title-alias: Dried Leech
+obsidianUIMode: preview
 ---
 # Dried Leech
 *Ammunition, uncommon*  
-
-
 
 This leech has been dried and imbued with a mote of animating magic. If you hit a creature with a ranged attack roll using this ammunition, the leech springs to life and sinks its teeth into the target, dealing `dice:1d4|noform|noparens|avg` (`1d4`) piercing damage at the start of each of the target's turns. If the leech deals at least 10 damage or the target dies, the leech falls off. A creature, including the target, can use its action to detach the leech. Once a leech is no longer attached to its target, the leech dies and is no longer magical.
 
@@ -48,6 +48,5 @@ This leech has been dried and imbued with a mote of animating magic. If you hit 
 ### Dried Leech Sling Bullet
 
 - **Weight**: 0.075 lbs.
-
 
 *Source: The Book of Many Things p. 67*

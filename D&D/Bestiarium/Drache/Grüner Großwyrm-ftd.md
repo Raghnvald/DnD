@@ -1,20 +1,20 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/ftd
-  - Monster/HG/27
-  - Monster/Größe/Gigantisch
-  - Monster/Typ/Drache/chromatic
 statblock: inline
 statblock-link: "#^statblock"
-aliases:
-  - Green Greatwyrm
-status: WIP
-Habitat:
-  - /
+Bezeichnung: Green Greatwyrm
 Typ: Drache (Chromatisch)
 Größe: Gigantisch
+Habitat:
+  - /
+status: WIP
+tags:
+  - Monster/Größe/Gigantisch
+  - Monster/HG/27
+  - Monster/Typ/Drache/chromatic
+  - Quelle/5e/ftd
+aliases:
+  - Green Greatwyrm
+linter-yaml-title-alias: Green Greatwyrm
 ---
 # [Green Greatwyrm](3-Mechanics\CLI\bestiary\dragon/green-greatwyrm-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 168*  

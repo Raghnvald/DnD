@@ -1,5 +1,6 @@
 ---
-Bezeichnung: Leuchtende Kriegspicke
+Bezeichnung: Luminous War Pick
+Typ: Nahkampf-Kriegswaffe
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten

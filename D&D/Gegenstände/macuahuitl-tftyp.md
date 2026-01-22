@@ -1,18 +1,20 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Macuahuitl
+Typ: Nahkampf-Kriegswaffe
 tags:
-  - Quelle/5e/tftyp
   - Gegenstand/Seltenheit/unbekannt/magic
   - Gegenstand/Waffe/Kriegswaffe
   - Gegenstand/Waffe/Nahkampf
+  - Quelle/5e/tftyp
 aliases:
   - Macuahuitl
+linter-yaml-title-alias: Macuahuitl
+obsidianUIMode: preview
 ---
 # Macuahuitl
 *Weapon (longsword)*  
-
 
 - **Damage**:
   - One-handed: 1d8 slashing

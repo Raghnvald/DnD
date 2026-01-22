@@ -24,7 +24,7 @@ wer sich in der Nähe der Ruinen des Alten Eulenbrunnens herumtreibt.
 
 **Wyvernkuppe.** Stadtvorsteher Harbin Wester will, dass die Charaktere ein Orklager in der Nähe der Wyvernkuppe aufsuchen und die Orks aus der Gegend vertreiben.
 
-**Burg Cragmaw** [[Bestiarium/NSC/Sildar Hallwinter-pabtso|Sildar Hallwinter]] will, dass die Charaktere Burg Cragmaw finden und [[Gundren_Felssucher-pabtso|Gundren Felssucher]] suchen, den Zwerg retten und seine Karte bergen.
+**Burg Cragmaw** [[Sildar_Hallwinter-pabtso|Sildar Hallwinter]] will, dass die Charaktere Burg Cragmaw finden und [[Gundren_Felssucher-pabtso|Gundren Felssucher]] suchen, den Zwerg retten und seine Karte bergen.
 
 All diese möglichen Questen haben ihren eigenen Abschnitt in diesem Teil des Abenteuers. Die Charaktere können lange genug in Phandalin bleiben, um sich zu erholen und Vorräte zu erwerben. Wenn sie fertig sind, lass sie eine Geschichte wählen, der sie folgen wollen, und mach mit dem entsprechenden Ort weiter.
 
@@ -60,7 +60,7 @@ $\quad$Wenn es zu einer Begegnung kommt, erhalten die Abenteuer EP, wenn sie die
 | -            | 4              | `1W4 + 1` [[Ghul-mm\|Ghule]]                     |
 | 3-4          | -              | 1 [[Oger\|Oger]]                              |
 | 5-6          | 5              | Cragmaw [[Goblin-mm\|Goblin]]-Bande              |
-| 7-8          | 6              | [[Bestiarium/humanoid/Hobgoblin\|Hobgoblin]]-Trupp               |
+| 7-8          | 6              | [[Hobgoblin-mm\|Hobgoblin]]-Trupp               |
 | 9-10         | 7-8            | [[Bestiarium/humanoid/Grottenschrat-mm\|Grottenschrat]]-Kundschafter |
 | 11           | 9-10           | `1W4 + 2` [[Wolf-mm\|Wölfe]]                     |
 | 12           | 11-12          | 1 [[Eulenbär\|Eulenbär]]                      |
@@ -68,8 +68,8 @@ $\quad$Wenn es zu einer Begegnung kommt, erhalten die Abenteuer EP, wenn sie die
 ##### Cragmaw [[Goblin-mm|Goblin-mm]]-Bande
 Diese Bande von Cragmaw-Marodeuren besteht aus `2W4` [[Goblin-mm|Goblins]], die von einem [[Goblin-Boss-mm|Goblin-Boss-mm]] angeführt werden. Sie kennen den Standort der Burg Cragmaw und können den Weg weisen, wenn sie gefangen genommen und bedroht werden. Der Boss hat einen [[Beutel]], der `1W10` <font color="#B87333">Kupfermünzen</font> und `1W10` <font color="Silver">Silbermünzen</font> enthält.
 
-##### [[Bestiarium/humanoid/Hobgoblin|Hobgoblin]]-Trupp
-Dieser Trupp von `1W4 + 3` [[Bestiarium/humanoid/Hobgoblin|Hobgoblins]] ist auf der Suche nach den Abenteurern, in der Hoffnung, ein von der Spinne ausgesetztes Kopfgeld zu kassieren. Einer der Hobgoblins trägt eine grob gezeichnete Skizze eines Gruppenmitglieds bei sich, auf der „25 Goldstücke für diesen hier“ und das Symbol einer Spinne gekritzelt sind.
+##### [[Hobgoblin-mm|Hobgoblin]]-Trupp
+Dieser Trupp von `1W4 + 3` [[Hobgoblin-mm|Hobgoblins]] ist auf der Suche nach den Abenteurern, in der Hoffnung, ein von der Spinne ausgesetztes Kopfgeld zu kassieren. Einer der Hobgoblins trägt eine grob gezeichnete Skizze eines Gruppenmitglieds bei sich, auf der „25 Goldstücke für diesen hier“ und das Symbol einer Spinne gekritzelt sind.
 
 ##### [[Bestiarium/humanoid/Grottenschrat-mm|Grottenschrat]]-Kundschafter
 Diese beiden [[Bestiarium/humanoid/Grottenschrat-mm|Grottenschrate]] gehören zu der Gruppe, die am Wyvern-Tor stationiert ist. Wenn sie umherziehen, suchen sie nach Reisenden, die sie überfallen können.
@@ -323,7 +323,7 @@ Wenn sich die Charaktere diesem Gebiet nähern, lest Folgendes vor:
 
 Die Türen zu dieser Hütte sind von innen vergittert und können nur mit einem erfolgreichen Wurf auf `Stärke (SG 20)` geöffnet werden. Die Fensterläden sind ebenfalls von innen verriegelt und können mit einem erfolgreichen Wurf auf `Stärke (SG 15)` geöffnet werden.
 
-Sechs menschliche [[Bestiarium/humanoid/Kultist|Kultisten]] verstecken sich in dem Haus. Jeweils vier halten Wache (zwei in jedem Raum) in Acht-Stunden-Schichten, während die anderen in der größeren Kammer ruhen. Die Kultisten tragen schwarze Umhänge, die so geschnitten sind, dass sie Drachenflügeln ähneln, und schwarze Ledermasken mit stilisierten Drachenhörnern. Neben der Gemeinsprache sprechen die Kultisten auch Drakonisch.
+Sechs menschliche [[Kultist-mm|Kultisten]] verstecken sich in dem Haus. Jeweils vier halten Wache (zwei in jedem Raum) in Acht-Stunden-Schichten, während die anderen in der größeren Kammer ruhen. Die Kultisten tragen schwarze Umhänge, die so geschnitten sind, dass sie Drachenflügeln ähneln, und schwarze Ledermasken mit stilisierten Drachenhörnern. Neben der Gemeinsprache sprechen die Kultisten auch Drakonisch.
 
 Das Innere des Hauses ist staubig und mit Spinnweben übersät. Die einzigen Einrichtungsgegenstände sind ein kleiner Ofen, ein Tisch, zwei Stühle und eine Koje (die sich die Kultisten teilen).
 
@@ -401,7 +401,7 @@ Die Haupttore zwischen den Bereichen [[#C1 Eingang zur Burg|C1]] und [[#C2 Gefan
 #### C2: Fallenbesetzte Halle
 Die Türen im Norden und Süden sind verschlossen, und die südliche Halle ist teilweise von einem Schutthaufen verdeckt. Im Osten endet ein breiter Korridor in zwei weiteren Türen, die nach Süden und Osten führen. Der Korridor ist mit staubigem Schutt und heruntergefallenem Putz von einem teilweisen Einsturz der Decke übersät.
 
-Wenn die [[Goblin-mm|Goblin-mm]]-Wachen in Bereich [[#C3 Bogenschützenposten|C3]] den Alarm ausgelöst haben, rennen die [[Goblin-mm|Goblins]] und [[Bestiarium/Humanoid/Hobgoblin|Hobgoblins]] in den Bereichen [[#C4 Ruinierte Quartiere|C4]] und [[#C6 Hobgoblin-Quartiere|C6]] gleichzeitig durch die Nord- und Südtür. Sie greifen aus beiden Richtungen an und versuchen, die Abenteurer zu überwältigen und sie aus der Burg zu vertreiben.
+Wenn die [[Goblin-mm|Goblin-mm]]-Wachen in Bereich [[#C3 Bogenschützenposten|C3]] den Alarm ausgelöst haben, rennen die [[Goblin-mm|Goblins]] und [[Hobgoblin-mm|Hobgoblins]] in den Bereichen [[#C4 Ruinierte Quartiere|C4]] und [[#C6 Hobgoblin-Quartiere|C6]] gleichzeitig durch die Nord- und Südtür. Sie greifen aus beiden Richtungen an und versuchen, die Abenteurer zu überwältigen und sie aus der Burg zu vertreiben.
 
 **Falle.** Der staubige Putz und die Trümmer vor der Tür, die zu Bereich [[#C8 Dunkle Halle|C8]] führt, verbergen einen kupfernen Stolperdraht, der mit in der zerstörten Decke versteckten Stecknadeln verbunden ist. Um den Stolperdraht zu entdecken, muss der Bereich abgesucht werden und eine erfolgreiche Probe auf `Weisheit (Wahrnehmung) (SG 20)` abgelegt werden. Einmal entdeckt, kann der Stolperdraht leicht umgangen und entschärft werden (keine Fähigkeitsprüfung erforderlich).
 
@@ -438,9 +438,9 @@ Karawanen, die von den Cragmaws auf der Hohen Straße und dem Triboar-Pfad über
 >[!readaloud] 
 > Vier einfache Strohpaletten und Bettrollen sind auf dem Boden dieser Baracke aufgereiht. An den Wänden sind Waffen aufgehängt: Speere, Schwerter, Morgensterne und mehr. Die Nordwand weist Schäden auf, aber der Boden ist von Schutt befreit. Auf den Schlafsäcken sitzen vier gelangweilte, rothäutige Humanoide.
 
-Vier [[Bestiarium/Humanoid/Hobgoblin|Hobgoblins]] sind in diesem Raum einquartiert. Da ihre Goblin-Nachbarn ständig in Kämpfe verwickelt sind, achten sie nicht auf den Lärm in den Bereichen [[#C2 Gefangene Halle|C2]] und [[#C3 Bogenschützenposten|C3]]. Sie verteidigen ihren Turm jedoch schnell, wenn Eindringlinge auftauchen, oder reagieren auf einen von den Goblin-Wachen ausgelösten Alarm.
+Vier [[Hobgoblin-mm|Hobgoblins]] sind in diesem Raum einquartiert. Da ihre Goblin-Nachbarn ständig in Kämpfe verwickelt sind, achten sie nicht auf den Lärm in den Bereichen [[#C2 Gefangene Halle|C2]] und [[#C3 Bogenschützenposten|C3]]. Sie verteidigen ihren Turm jedoch schnell, wenn Eindringlinge auftauchen, oder reagieren auf einen von den Goblin-Wachen ausgelösten Alarm.
 
-Die Cragmaws sind eine gemischte Gruppe von Goblinoiden, mit einer Handvoll [[Bestiarium/Humanoid/Grottenschrat-mm|Grottenschraten]], die über eine größere Anzahl miserabler [[Goblin-mm|Goblins]] und ein paar [[Bestiarium/Humanoid/Hobgoblin|Hobgoblins]] herrschen. Die [[Bestiarium/Humanoid/Hobgoblin|Hobgoblins]] planen, die [[Bestiarium/Humanoid/Grottenschrat-mm|Grottenschrate]] eines Tages loszuwerden und die Herrschaft zu übernehmen, aber im Moment sind die [[Bestiarium/Humanoid/Grottenschrat-mm|Grottenschrate]] eine zu starke Bedrohung.
+Die Cragmaws sind eine gemischte Gruppe von Goblinoiden, mit einer Handvoll [[Bestiarium/Humanoid/Grottenschrat-mm|Grottenschraten]], die über eine größere Anzahl miserabler [[Goblin-mm|Goblins]] und ein paar [[Hobgoblin-mm|Hobgoblins]] herrschen. Die [[Hobgoblin-mm|Hobgoblins]] planen, die [[Bestiarium/Humanoid/Grottenschrat-mm|Grottenschrate]] eines Tages loszuwerden und die Herrschaft zu übernehmen, aber im Moment sind die [[Bestiarium/Humanoid/Grottenschrat-mm|Grottenschrate]] eine zu starke Bedrohung.
 
 **Schätze.** An den Wänden sind fünf [[Gegenstände/Speer-phb|Speere]], vier [[Gegenstände/Langschwert-phb|Langschwerter]], drei [[Gegenstände/Morgenstern-phb|Morgensterne]], zwei [[Gegenstände/Zweihandschwert-phb|Zweihandschwerter]] und ein [[Kampfstab-phb|Kampfstab]] befestigt. Keine der Waffen ist magisch, aber der [[Gegenstände/Kampfstab-phb|Kampfstab]] ist mit stilisierten Federn graviert. Der [[Gegenstände/Kampfstab-phb|Kampfstab]] ist überraschend leicht (0,5 kg.) und allein für die Handwerkskunst 10 <font color="Gold">Goldmünzen</font> wert.
 
@@ -497,7 +497,7 @@ Eine staubige Plane verdeckt den nördlichen Eingang zu diesem Bereich und fügt
 >[!readaloud] 
 > Vier gepanzerte Humanoide stehen um ein steinernes Kohlenfeuer, das in der Mitte dieser kleinen Kaserne glüht. Vier Strohpaletten säumen die Ostwand. Die Wand im Süden ist eingestürzt, aber eine verbarrikadierte Tür in diese Richtung steht noch. Eine Tür in besserem Zustand führt nach Westen, während in einem Torbogen im Norden ein Vorhang hängt.
 
-In diesem Raum stehen vier [[Bestiarium/humanoid/Hobgoblin|Hobgoblin]]-Wachen. Sie halten von der Schießscharte aus Wache, so dass jeder Charakter, der sich außerhalb der Ostseite des Schlosses herumschleicht, wahrscheinlich entdeckt und angegriffen wird. Die [[Bestiarium/humanoid/Hobgoblin|Hobgoblins]] sind klug, zäh und König Grol gegenüber loyal. Zu Beginn des Kampfes rennt ein [[Bestiarium/humanoid/Hobgoblin|Hobgoblin]] los, um den König in Gebiet [[#C14 Das Königsquartier|C14]] zu warnen, und kehrt 2 Runden später zurück, um sich wieder in den Kampf zu stürzen.
+In diesem Raum stehen vier [[Hobgoblin-mm|Hobgoblin]]-Wachen. Sie halten von der Schießscharte aus Wache, so dass jeder Charakter, der sich außerhalb der Ostseite des Schlosses herumschleicht, wahrscheinlich entdeckt und angegriffen wird. Die [[Hobgoblin-mm|Hobgoblins]] sind klug, zäh und König Grol gegenüber loyal. Zu Beginn des Kampfes rennt ein [[Hobgoblin-mm|Hobgoblin]] los, um den König in Gebiet [[#C14 Das Königsquartier|C14]] zu warnen, und kehrt 2 Runden später zurück, um sich wieder in den Kampf zu stürzen.
 
 Dieser Bereich diente einst den ursprünglichen Bewohnern der Burg als Stube, doch die verrotteten Einrichtungsgegenstände wurden von den Cragmaws abgebaut und als Brennholz verwendet.
 
@@ -531,7 +531,7 @@ Wenn die Bösewichte gewarnt worden sind, dass ein Angriff bevorsteht, dann vers
 
 **Nordwestraum.** Dieser zum Teil eingestürzte Raum war früher ein gemütliches Badezimmer. Hier steht immer noch eine große Badewanne, die von den aktuellen Bewohnern der Burg nicht verwendet wird. 
 
-**Bewusstloser Zwerg.** In der südwestlichen Ecke des Raums liegt [[Gundren_Felssucher-pabtso|Gundren Felssucher]], ein zwergischer [[Bestiarium/humanoid/Gemeiner|Gemeiner]]. Er ist bewusstlos, aber mit 0 Trefferpunkten stabil. 
+**Bewusstloser Zwerg.** In der südwestlichen Ecke des Raums liegt [[Gundren_Felssucher-pabtso|Gundren Felssucher]], ein zwergischer [[Gemeiner-mm|Gemeiner]]. Er ist bewusstlos, aber mit 0 Trefferpunkten stabil. 
 
 ## Was passiert als nächstes?
 Wenn Gundren Felssucher die Situation in Burg Cragmaw überlebt, dankt er den Charakteren und bittet sie, ihn zurück nach Phandalin zu eskortieren und dann zur Wellenhallhöhle zu gehen, um herauszufinden, was mit seinen Brüdern Nundro und Tharden passiert ist. Er weiß, dass jemand namens die Schwarze Spinne seine Gefangennahme geplant hat und hofft, dass die Charaktere den Bösewicht aufhalten können. Bei der Rückkehr nach Phandalin bietet Gundren jedem Charakter 25 GM für ihre Dienste an und verspricht 10% vom Gewinn der Mine, sobald diese in Betrieb genommen worden ist. 

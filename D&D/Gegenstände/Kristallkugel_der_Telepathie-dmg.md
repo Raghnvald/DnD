@@ -1,14 +1,14 @@
 ---
 cssclasses:
   - json5e-item
-Bezeichnung: Crystal Ball of Telepathy
+Bezeichnung: Kristallkugel der Telepathie
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
   - Quelle/5e/dmg
 aliases:
-  - Crystal Ball of Telepathy
-linter-yaml-title-alias: Crystal Ball of Telepathy
+  - Kristallkugel der Telepathie
+linter-yaml-title-alias: Kristallkugel der Telepathie
 obsidianUIMode: preview
 ---
 # Kristallkugel der Telepathie

@@ -1,16 +1,16 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/3
-  - Monster/Habitat/Jedes
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Untote
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Swarm of Crawling Claws
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Jedes
+  - Monster/HG/3
+  - Monster/Typ/Untote
+  - Quelle/5e/xmm
 aliases:
   - Swarm of Crawling Claws
+linter-yaml-title-alias: Swarm of Crawling Claws
 ---
 # [Swarm of Crawling Claws](3-Mechanics\CLI\bestiary\undead/swarm-of-crawling-claws-xmm.md)
 *Source: Monster Manual (2024) p. 83. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
@@ -29,7 +29,6 @@ Crawling claws are severed hands that move and act of their own murderous accord
 > [!quote] A quote from Ansolm Haas  
 > 
 > Is it possible for any creature, any living being, to be inherently evil? Such an assertion may itself facilitate the committing of evil acts. By defining a person as evil, we give them free rein to behave as they will, absolving them from the wickedness of their words and the evil of their hands.
-
 
 ```statblock
 "name": "Swarm of Crawling Claws (XMM)"

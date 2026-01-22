@@ -1,16 +1,16 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/cos
-  - Monster/HG/5
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Untote
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Volenta Popofsky
+status: WIP
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/5
+  - Monster/Typ/Untote
+  - Quelle/5e/cos
 aliases:
   - Volenta Popofsky
-status: WIP
+linter-yaml-title-alias: Volenta Popofsky
 ---
 # [Volenta Popofsky](3-Mechanics\CLI\bestiary\npc/volenta-popofsky-cos.md)
 *Source: Curse of Strahd p. 93*  

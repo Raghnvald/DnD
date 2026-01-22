@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/cm
-  - Monster/HG/13
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/human
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Bak Mei
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/13
+  - Monster/Typ/Humanoid/human
+  - Quelle/5e/cm
 aliases:
   - Bak Mei
+linter-yaml-title-alias: Bak Mei
 ---
 # [Bak Mei](3-Mechanics\CLI\bestiary\npc/bak-mei-cm.md)
 *Source: Candlekeep Mysteries p. 168*  

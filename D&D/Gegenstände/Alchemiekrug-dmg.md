@@ -17,8 +17,6 @@ linter-yaml-title-alias: Alchemiekrug
 *Wundersamer Gegenstand, ungewöhnlich*
 <img src="alchemy-jug.webp" align="right" width="150">
 
-*Quellen: Spielleiterhandbuch S. 150*
-
 - **Gewicht**: 6,0 kg.
 
 Dieser Keramikkrug scheint in der Lage zu sein, 4 Liter Flüssigkeit zu fassen, und er wiegt 12 Pfund, egal ob voll oder leer. Man kann schwappende Geräusche hören, wenn der Krug geschüttelt wird, selbst wenn er eigentlich leer ist.

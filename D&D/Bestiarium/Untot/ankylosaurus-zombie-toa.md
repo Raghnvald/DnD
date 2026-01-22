@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/toa
-  - Monster/HG/3
-  - Monster/Größe/Riesig
-  - Monster/Typ/Untote
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Ankylosaurus Zombie
+tags:
+  - Monster/Größe/Riesig
+  - Monster/HG/3
+  - Monster/Typ/Untote
+  - Quelle/5e/toa
 aliases:
   - Ankylosaurus Zombie
+linter-yaml-title-alias: Ankylosaurus Zombie
 ---
 # [Ankylosaurus Zombie](3-Mechanics\CLI\bestiary\undead/ankylosaurus-zombie-toa.md)
 *Source: Tomb of Annihilation p. 240*  

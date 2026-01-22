@@ -1,14 +1,17 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Plate of the Dawnmartyr
+Rüstung: Schwer
 tags:
-  - Quelle/5e/tdcsr
-  - Gegenstand/Rüstung/Schwer
   - Gegenstand/Einstimmung/required
+  - Gegenstand/Rüstung/Schwer
   - Gegenstand/Seltenheit/legendär
+  - Quelle/5e/tdcsr
 aliases:
   - Plate of the Dawnmartyr
+linter-yaml-title-alias: Plate of the Dawnmartyr
+obsidianUIMode: preview
 ---
 # Plate of the Dawnmartyr
 *Heavy armor ([plate armor](/3-Mechanics/CLI/items/plate-armor-xphb.md)), legendary (requires attunement)*  

@@ -1,17 +1,17 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Arcane Cannon
 tags:
-  - Quelle/5e/egw
   - Gegenstand/Seltenheit/sehr_selten
+  - Quelle/5e/egw
 aliases:
   - Arcane Cannon
+linter-yaml-title-alias: Arcane Cannon
+obsidianUIMode: preview
 ---
 # Arcane Cannon
 *Wondrous item, very rare*  
-
-
 
 This Large cannon is imbued with magic. It requires no ammunition and doesn't need to be loaded. It takes one action to aim the cannon and one action to fire it. After the cannon has fired, it must recharge for 5 minutes before it can be fired again.
 

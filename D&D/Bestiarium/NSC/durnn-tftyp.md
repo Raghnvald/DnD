@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/tftyp
-  - Monster/HG/1
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/goblinoid
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Durnn
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/1
+  - Monster/Typ/Humanoid/goblinoid
+  - Quelle/5e/tftyp
 aliases:
   - Durnn
+linter-yaml-title-alias: Durnn
 ---
 # [Durnn](3-Mechanics\CLI\bestiary\npc/durnn-tftyp.md)
 *Source: Tales from the Yawning Portal p. 25*  

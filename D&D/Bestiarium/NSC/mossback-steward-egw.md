@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/egw
-  - Monster/HG/8
-  - Monster/Größe/Gigantisch
-  - Monster/Typ/Monstrosität
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Mossback Steward
+tags:
+  - Monster/Größe/Gigantisch
+  - Monster/HG/8
+  - Monster/Typ/Monstrosität
+  - Quelle/5e/egw
 aliases:
   - Mossback Steward
+linter-yaml-title-alias: Mossback Steward
 ---
 # [Mossback Steward](3-Mechanics\CLI\bestiary\npc/mossback-steward-egw.md)
 *Source: Explorer's Guide to Wildemount p. 256*  

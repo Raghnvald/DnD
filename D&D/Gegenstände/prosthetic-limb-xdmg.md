@@ -6,8 +6,8 @@ tags:
   - Gegenstand/Seltenheit/gewöhnlich
   - Quelle/5e/xdmg
 aliases:
-  - Prosthetic Limb
   - "Prosthetic Limb"
+  - Prosthetic Limb
 linter-yaml-title-alias: Prosthetic Limb
 obsidianUIMode: preview
 ---

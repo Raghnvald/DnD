@@ -1,16 +1,17 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Pearl of Undead Detection
 tags:
-  - Quelle/5e/wdmm
   - Gegenstand/Seltenheit/unbekannt/magic
   - Gegenstand/wundersam/other
+  - Quelle/5e/wdmm
 aliases:
   - Pearl of Undead Detection
+linter-yaml-title-alias: Pearl of Undead Detection
+obsidianUIMode: preview
 ---
 # Pearl of Undead Detection
-
 
 - **Cost**: 500 gp
 

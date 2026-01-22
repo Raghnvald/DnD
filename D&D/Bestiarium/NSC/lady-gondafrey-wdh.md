@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/wdh
-  - Monster/HG/2
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Elementar
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Lady Gondafrey
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/2
+  - Monster/Typ/Elementar
+  - Quelle/5e/wdh
 aliases:
   - Lady Gondafrey
+linter-yaml-title-alias: Lady Gondafrey
 ---
 # [Lady Gondafrey](3-Mechanics\CLI\bestiary\npc/lady-gondafrey-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 152*  

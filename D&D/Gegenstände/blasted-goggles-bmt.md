@@ -1,18 +1,18 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Blasted Goggles
 tags:
-  - Quelle/5e/bmt
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/ungewöhnlich
+  - Quelle/5e/bmt
 aliases:
   - Blasted Goggles
+linter-yaml-title-alias: Blasted Goggles
+obsidianUIMode: preview
 ---
 # Blasted Goggles
 *Wondrous item, uncommon (requires attunement)*  
-
-
 
 These tinker's goggles have 3 charges. As an action, you can expend 1 charge to shoot a beam of fiery light from the goggles at a creature you can see within 120 feet of yourself. The target must succeed on a DC 15 Dexterity saving throw or take `dice:3d6|noform|noparens|avg` (`3d6`) fire damage. The goggles regain `dice:1d3|noform|noparens|avg` (`1d3`) expended charges daily at dawn.
 

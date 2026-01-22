@@ -1,17 +1,18 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Orb of the Veil
 tags:
-  - Quelle/5e/egw
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
+  - Quelle/5e/egw
 aliases:
   - Orb of the Veil
+linter-yaml-title-alias: Orb of the Veil
+obsidianUIMode: preview
 ---
 # Orb of the Veil
 *Wondrous item, cursed item, very rare (requires attunement)*  
-
 
 - **Properties**: [Cursed](/3-Mechanics/CLI/item-properties.md#Cursed%20Items)
 - **Weight**: 3.0 lbs.

@@ -1,17 +1,18 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Stink Bomb
 tags:
-  - Quelle/5e/tdcsr
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/explosive
+  - Quelle/5e/tdcsr
 aliases:
   - Stink Bomb
+linter-yaml-title-alias: Stink Bomb
+obsidianUIMode: preview
 ---
 # Stink Bomb
 *Explosive*  
-
 
 - **Cost**: 25 gp
 

@@ -1,21 +1,21 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/ftd
-  - Monster/HG/16
-  - Monster/Größe/Riesig
-  - Monster/Typ/Drache/gem
 statblock: inline
 statblock-link: "#^statblock"
-aliases:
-  - Adult Amethyst Dragon
+Bezeichnung: Adult Amethyst Dragon
 Typ: Drache (Edelstein)
 Größe: Riesig
 HG: 16
 Habitat:
   - /
 status: WIP
+tags:
+  - Monster/Größe/Riesig
+  - Monster/HG/16
+  - Monster/Typ/Drache/gem
+  - Quelle/5e/ftd
+aliases:
+  - Adult Amethyst Dragon
+linter-yaml-title-alias: Adult Amethyst Dragon
 ---
 # [Adult Amethyst Dragon](3-Mechanics\CLI\bestiary\dragon/adult-amethyst-dragon-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 161*  

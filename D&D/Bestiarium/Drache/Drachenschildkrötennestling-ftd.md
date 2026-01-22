@@ -1,21 +1,21 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/ftd
-  - Monster/HG/4
-  - Monster/Größe/Groß
-  - Monster/Typ/Drache
 statblock: inline
 statblock-link: "#^statblock"
-aliases:
-  - Dragon Turtle Wyrmling
+Bezeichnung: Dragon Turtle Wyrmling
 Typ: Drache
 Größe: Groß
 HG: 4
 Habitat:
   - /
 status: WIP
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/4
+  - Monster/Typ/Drache
+  - Quelle/5e/ftd
+aliases:
+  - Dragon Turtle Wyrmling
+linter-yaml-title-alias: Dragon Turtle Wyrmling
 ---
 # [Dragon Turtle Wyrmling](3-Mechanics\CLI\bestiary\dragon/dragon-turtle-wyrmling-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 192*  

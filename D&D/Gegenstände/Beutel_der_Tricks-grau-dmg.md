@@ -5,8 +5,8 @@ tags:
   - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
-  - Trickbeutel, grau
   - Bag of Tricks, Gray
+  - Trickbeutel, grau
 linter-yaml-title-alias: Trickbeutel, grau
 ---
 # Trickbeutel, grau

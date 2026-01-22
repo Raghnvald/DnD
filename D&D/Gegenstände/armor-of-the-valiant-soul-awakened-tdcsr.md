@@ -1,14 +1,17 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Armor of the Valiant Soul (Awakened)
+Rüstung: Mittel
 tags:
-  - Quelle/5e/tdcsr
-  - Gegenstand/Rüstung/Mittel
   - Gegenstand/Einstimmung/required
+  - Gegenstand/Rüstung/Mittel
   - Gegenstand/Seltenheit/legendär
+  - Quelle/5e/tdcsr
 aliases:
   - Armor of the Valiant Soul (Awakened)
+linter-yaml-title-alias: Armor of the Valiant Soul (Awakened)
+obsidianUIMode: preview
 ---
 # Armor of the Valiant Soul (Awakened)
 *Medium armor ([scale mail](/3-Mechanics/CLI/items/scale-mail-xphb.md)), legendary (requires attunement)*  

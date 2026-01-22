@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Mind Carapace Armor
+Rüstung: Schwer
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Rüstung/Schwer

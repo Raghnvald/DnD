@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/wdh
-  - Monster/HG/13
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/human
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Manshoon
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/13
+  - Monster/Typ/Humanoid/human
+  - Quelle/5e/wdh
 aliases:
   - Manshoon
+linter-yaml-title-alias: Manshoon
 ---
 # [Manshoon](3-Mechanics\CLI\bestiary\npc/manshoon-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 209*  

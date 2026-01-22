@@ -1,16 +1,17 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Professor Skant
 tags:
-  - Quelle/5e/idrotf
   - Gegenstand/Seltenheit/selten
+  - Quelle/5e/idrotf
 aliases:
   - Professor Skant
+linter-yaml-title-alias: Professor Skant
+obsidianUIMode: preview
 ---
 # Professor Skant
 *Wondrous item, rare*  
-
 
 - **Weight**: 5.0 lbs.
 

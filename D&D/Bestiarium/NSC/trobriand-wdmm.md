@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/wdmm
-  - Monster/HG/22
-  - Monster/Größe/Groß
-  - Monster/Typ/Konstrukt
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Trobriand
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/22
+  - Monster/Typ/Konstrukt
+  - Quelle/5e/wdmm
 aliases:
   - Trobriand
+linter-yaml-title-alias: Trobriand
 ---
 # [Trobriand](3-Mechanics\CLI\bestiary\npc/trobriand-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 294*  

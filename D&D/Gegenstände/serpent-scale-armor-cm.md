@@ -1,17 +1,19 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Serpent Scale Armor
+Rüstung: Mittel
 tags:
-  - Quelle/5e/cm
   - Gegenstand/Rüstung/Mittel
   - Gegenstand/Seltenheit/ungewöhnlich
+  - Quelle/5e/cm
 aliases:
   - Serpent Scale Armor
+linter-yaml-title-alias: Serpent Scale Armor
+obsidianUIMode: preview
 ---
 # Serpent Scale Armor
 *Medium armor (scale mail), uncommon*  
-
 
 - **Armor Class**: 14 + Dex modifier (max of +2)
 - **Weight**: 45.0 lbs.

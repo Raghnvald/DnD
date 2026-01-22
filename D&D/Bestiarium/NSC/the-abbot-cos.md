@@ -1,15 +1,15 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/cos
-  - Monster/HG/10
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Himmlische
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: The Abbot
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/10
+  - Monster/Typ/Himmlische
+  - Quelle/5e/cos
 aliases:
   - The Abbot
+linter-yaml-title-alias: The Abbot
 ---
 # [The Abbot](3-Mechanics\CLI\bestiary\npc/the-abbot-cos.md)
 *Source: Curse of Strahd p. 151*  

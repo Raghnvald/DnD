@@ -1,16 +1,16 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/cm
-  - Monster/HG/2
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/tabaxi
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: "K'Tulah"
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/2
+  - Monster/Typ/Humanoid/tabaxi
+  - Quelle/5e/cm
 aliases:
+  - "K'Tulah"
   - K'Tulah
+linter-yaml-title-alias: "K'Tulah"
 ---
 # [K'Tulah](3-Mechanics\CLI\bestiary\npc/ktulah-cm.md)
 *Source: Candlekeep Mysteries p. 64*  

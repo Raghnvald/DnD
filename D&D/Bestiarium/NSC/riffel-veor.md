@@ -1,17 +1,16 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/veor
-  - Monster/HG/3
-  - Monster/Größe/Klein
-  - Monster/Typ/Humanoid/human
-  - Monster/Typ/Humanoid/shapechanger
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Riffel
+tags:
+  - Monster/Größe/Klein
+  - Monster/HG/3
+  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/shapechanger
+  - Quelle/5e/veor
 aliases:
   - Riffel
+linter-yaml-title-alias: Riffel
 ---
 # [Riffel](3-Mechanics\CLI\bestiary\npc/riffel-veor.md)
 *Source: Vecna: Eve of Ruin*  

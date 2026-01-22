@@ -1,18 +1,17 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Forcebreaker Weapon
 tags:
-  - Quelle/5e/bmt
   - Gegenstand/Ausrüstung/Zauberfokus
   - Gegenstand/Seltenheit/sehr_selten
+  - Gegenstand/Waffe/Einfach
+  - Gegenstand/Waffe/Fernkampf
   - Gegenstand/Waffe/Kriegswaffe
   - Gegenstand/Waffe/Nahkampf
-  - Gegenstand/Waffe/Fernkampf
-  - Gegenstand/Waffe/Einfach
   - Gegenstand/wundersam/generic-variant
+  - Quelle/5e/bmt
 aliases:
-  - Forcebreaker Weapon
   - Forcebreaker Club
   - Forcebreaker Flail
   - Forcebreaker Greatclub
@@ -23,12 +22,13 @@ aliases:
   - Forcebreaker Sling
   - Forcebreaker Staff
   - Forcebreaker Warhammer
+  - Forcebreaker Weapon
   - Forcebreaker Wooden Staff
+linter-yaml-title-alias: Forcebreaker Weapon
+obsidianUIMode: preview
 ---
 # Forcebreaker Weapon
 *Very rare*  
-
-
 
 You gain a +2 bonus to attack and damage rolls made with this magic weapon.
 
@@ -119,6 +119,5 @@ This weapon was crafted to destroy structures made of force, such as those creat
   - Two-handed: 1d8 bludgeoning
 - **Properties**: Versatile
 - **Weight**: 4.0 lbs.
-
 
 *Source: The Book of Many Things p. 67*

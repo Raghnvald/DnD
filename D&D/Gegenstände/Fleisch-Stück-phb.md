@@ -1,14 +1,14 @@
 ---
 cssclasses:
   - json5e-item
-Bezeichnung: Chunk of Meat
+Bezeichnung: Fleisch, Stück
 tags:
   - Gegenstand/Ausrüstung/Essen-und-Trinken
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Chunk of Meat
-linter-yaml-title-alias: Chunk of Meat
+  - Fleisch, Stück
+linter-yaml-title-alias: Fleisch, Stück
 obsidianUIMode: preview
 ---
 # Fleisch, Stück

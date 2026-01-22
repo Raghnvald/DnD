@@ -1,14 +1,14 @@
 ---
 cssclasses:
   - json5e-item
-Bezeichnung: Crystal Ball of Mind Reading
+Bezeichnung: Kristallkugel des Gedankenlesens
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
   - Quelle/5e/dmg
 aliases:
-  - Crystal Ball of Mind Reading
-linter-yaml-title-alias: Crystal Ball of Mind Reading
+  - Kristallkugel des Gedankenlesens
+linter-yaml-title-alias: Kristallkugel des Gedankenlesens
 obsidianUIMode: preview
 ---
 # Kristallkugel des Gedankenlesens

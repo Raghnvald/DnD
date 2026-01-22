@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/veor
-  - Monster/HG/2
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/any-race
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Eldon Keyward
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/2
+  - Monster/Typ/Humanoid/any-race
+  - Quelle/5e/veor
 aliases:
   - Eldon Keyward
+linter-yaml-title-alias: Eldon Keyward
 ---
 # [Eldon Keyward](3-Mechanics\CLI\bestiary\npc/eldon-keyward-veor.md)
 *Source: Vecna: Eve of Ruin*  

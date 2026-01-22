@@ -1,15 +1,15 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mpmm
-  - Monster/HG/3
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Untote/warlock
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Deathlock Wight
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/3
+  - Monster/Typ/Untote/warlock
+  - Quelle/5e/mpmm
 aliases:
   - Deathlock Wight
+linter-yaml-title-alias: Deathlock Wight
 ---
 # [Deathlock Wight](3-Mechanics\CLI\bestiary\undead/deathlock-wight-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 87*  

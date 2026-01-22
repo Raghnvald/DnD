@@ -1,21 +1,21 @@
 ---
 Bezeichnung: Gefütterte Rüstung
 Typ: Rüstung
+Rüstung: Leicht
 Eigenschaften: n/v
 Kst.: 5 GM
 Gew.: 4,0 kg
+RK: 11 + GES
+STR: n/v
+Heiml.: Nachteil
 tags:
   - Gegenstand/Rüstung/Leicht
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Gefütterte Rüstung
   - "Padded Armor"
-Heiml.: Nachteil
+  - Gefütterte Rüstung
 linter-yaml-title-alias: Gefütterte Rüstung
-RK: 11 + GES
-Rüstung: Leicht
-STR: n/v
 ---
 # Gefütterte Rüstung
 *Leichte Rüstung* 

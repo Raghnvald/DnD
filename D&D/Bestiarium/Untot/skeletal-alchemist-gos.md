@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/gos
-  - Monster/HG/1-2
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Untote
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Skeletal Alchemist
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/1-2
+  - Monster/Typ/Untote
+  - Quelle/5e/gos
 aliases:
   - Skeletal Alchemist
+linter-yaml-title-alias: Skeletal Alchemist
 ---
 # [Skeletal Alchemist](3-Mechanics\CLI\bestiary\undead/skeletal-alchemist-gos.md)
 *Source: Ghosts of Saltmarsh p. 253*  

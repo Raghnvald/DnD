@@ -1,25 +1,24 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/vgm
-  - Monster/HG/2
-  - Monster/Habitat/Wüste
-  - Monster/Habitat/Stadt
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Drache
 statblock: inline
 statblock-link: "#^statblock"
-aliases:
-  - Blue Guard Drake
+Bezeichnung: Blue Guard Drake
 Typ: Drache
 Größe: Mittelgroß
 HG: 2
-status: WIP
 Habitat:
   - Stadt
   - Wüste
+status: WIP
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Stadt
+  - Monster/Habitat/Wüste
+  - Monster/HG/2
+  - Monster/Typ/Drache
+  - Quelle/5e/vgm
+aliases:
+  - Blue Guard Drake
+linter-yaml-title-alias: Blue Guard Drake
 ---
 # [Blue Guard Drake](3-Mechanics\CLI\bestiary\dragon/blue-guard-drake-vgm.md)
 *Source: Volo's Guide to Monsters p. 158*  

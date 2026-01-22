@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/gos
-  - Monster/HG/2
-  - Monster/Größe/Groß
-  - Monster/Typ/Untote
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Skeletal Swarm
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/2
+  - Monster/Typ/Untote
+  - Quelle/5e/gos
 aliases:
   - Skeletal Swarm
+linter-yaml-title-alias: Skeletal Swarm
 ---
 # [Skeletal Swarm](3-Mechanics\CLI\bestiary\undead/skeletal-swarm-gos.md)
 *Source: Ghosts of Saltmarsh p. 254*  

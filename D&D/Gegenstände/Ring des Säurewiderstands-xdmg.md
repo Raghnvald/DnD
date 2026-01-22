@@ -7,8 +7,8 @@ tags:
   - Gegenstand/wundersam/Ring
   - Quelle/5e/xdmg
 aliases:
-  - Ring of Acid Resistance
   - "Ring of Acid Resistance"
+  - Ring of Acid Resistance
 linter-yaml-title-alias: Ring of Acid Resistance
 obsidianUIMode: preview
 ---

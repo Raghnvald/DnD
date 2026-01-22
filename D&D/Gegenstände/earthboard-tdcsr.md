@@ -1,17 +1,18 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Earthboard
 tags:
-  - Quelle/5e/tdcsr
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
+  - Quelle/5e/tdcsr
 aliases:
   - Earthboard
+linter-yaml-title-alias: Earthboard
+obsidianUIMode: preview
 ---
 # Earthboard
 *Wondrous item, rare (requires attunement)*  
-
 
 - **Weight**: 40.0 lbs.
 

@@ -1,22 +1,22 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mm
-  - Monster/HG/2
-  - Monster/Habitat/Wald
-  - Monster/Größe/Winzig
-  - Monster/Typ/Drache
 statblock: inline
 statblock-link: "#^statblock"
-aliases:
-  - Faerie Dragon (Indigo)
+Bezeichnung: Faerie Dragon (Indigo)
 Typ: Drache
 Größe: Winzig
+HG: 2
 Habitat:
   - Wald
-HG: 2
 status: WIP
+tags:
+  - Monster/Größe/Winzig
+  - Monster/Habitat/Wald
+  - Monster/HG/2
+  - Monster/Typ/Drache
+  - Quelle/5e/mm
+aliases:
+  - Faerie Dragon (Indigo)
+linter-yaml-title-alias: Faerie Dragon (Indigo)
 ---
 # [Faerie Dragon (Indigo)](3-Mechanics\CLI\bestiary\dragon/faerie-dragon-indigo.md)
 *Source: Monster Manual p. 133*  

@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/egw
-  - Monster/HG/1-2
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/elf
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Ishel
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/1-2
+  - Monster/Typ/Humanoid/elf
+  - Quelle/5e/egw
 aliases:
   - Ishel
+linter-yaml-title-alias: Ishel
 ---
 # [Ishel](3-Mechanics\CLI\bestiary\npc/ishel-egw.md)
 *Source: Explorer's Guide to Wildemount p. 231*  

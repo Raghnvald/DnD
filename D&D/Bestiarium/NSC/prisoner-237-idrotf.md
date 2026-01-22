@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/idrotf
-  - Monster/HG/1
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/human
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Prisoner 237
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/1
+  - Monster/Typ/Humanoid/human
+  - Quelle/5e/idrotf
 aliases:
   - Prisoner 237
+linter-yaml-title-alias: Prisoner 237
 ---
 # [Prisoner 237](3-Mechanics\CLI\bestiary\npc/prisoner-237-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 160*  

@@ -1,17 +1,17 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Jade Serpent Staff
 tags:
-  - Quelle/5e/wdmm
   - Gegenstand/Seltenheit/unbekannt/magic
   - Gegenstand/wundersam/other
+  - Quelle/5e/wdmm
 aliases:
   - Jade Serpent Staff
+linter-yaml-title-alias: Jade Serpent Staff
+obsidianUIMode: preview
 ---
 # Jade Serpent Staff
-
-
 
 This staff is broken into five pieces, each worth 100 gp for the jade alone. The entire staff can be restored with mending cantrips; each casting of the spell repairs one break in the staff. If the staff is made whole, it transforms from an object into an animated jade serpent that has the statistics of a [giant poisonous snake](/3-Mechanics/CLI/bestiary/beast/giant-poisonous-snake.md), with these changes:
 

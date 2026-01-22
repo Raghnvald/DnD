@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/tftyp
-  - Monster/HG/1
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Untote
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Lacedon
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/1
+  - Monster/Typ/Untote
+  - Quelle/5e/tftyp
 aliases:
   - Lacedon
+linter-yaml-title-alias: Lacedon
 ---
 # [Lacedon](3-Mechanics\CLI\bestiary\undead/lacedon-tftyp.md)
 *Source: Tales from the Yawning Portal p. 147, Explorer's Guide to Wildemount*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Stonebreaker's Breastplate"
+Rüstung: Mittel
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Rüstung/Mittel

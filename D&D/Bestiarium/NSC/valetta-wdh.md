@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/wdh
-  - Monster/HG/2
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/dragonborn
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Valetta
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/2
+  - Monster/Typ/Humanoid/dragonborn
+  - Quelle/5e/wdh
 aliases:
   - Valetta
+linter-yaml-title-alias: Valetta
 ---
 # [Valetta](3-Mechanics\CLI\bestiary\npc/valetta-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 47*  

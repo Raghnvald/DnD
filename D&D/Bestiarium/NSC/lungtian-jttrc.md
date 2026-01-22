@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/jttrc
-  - Monster/HG/1
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Fee
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Lungtian
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/1
+  - Monster/Typ/Fee
+  - Quelle/5e/jttrc
 aliases:
   - Lungtian
+linter-yaml-title-alias: Lungtian
 ---
 # [Lungtian](3-Mechanics\CLI\bestiary\npc/lungtian-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 136*  

@@ -1,17 +1,17 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/ftd
-  - Monster/HG/28
-  - Monster/Größe/Gigantisch
-  - Monster/Typ/Drache/metallic
 statblock: inline
 statblock-link: "#^statblock"
-aliases:
-  - Copper Greatwyrm
+Bezeichnung: Copper Greatwyrm
 Typ: Drache (Metallisch)
 Größe: Gigantisch
+tags:
+  - Monster/Größe/Gigantisch
+  - Monster/HG/28
+  - Monster/Typ/Drache/metallic
+  - Quelle/5e/ftd
+aliases:
+  - Copper Greatwyrm
+linter-yaml-title-alias: Copper Greatwyrm
 ---
 # [Copper Greatwyrm](3-Mechanics\CLI\bestiary\dragon/copper-greatwyrm-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 208*  
@@ -34,7 +34,6 @@ Metallic greatwyrms are among the largest creatures in the multiverse, overshado
 > [!quote] A quote from Fizban  
 > 
 > Call me biased, but the "great" part of "metallic greatwyrm" feels a little redundant. It goes without saying.
-
 
 ```statblock
 "name": "Copper Greatwyrm (FTD)"

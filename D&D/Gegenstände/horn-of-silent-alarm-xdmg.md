@@ -6,8 +6,8 @@ tags:
   - Gegenstand/Seltenheit/gewöhnlich
   - Quelle/5e/xdmg
 aliases:
-  - Horn of Silent Alarm
   - "Horn of Silent Alarm"
+  - Horn of Silent Alarm
 linter-yaml-title-alias: Horn of Silent Alarm
 obsidianUIMode: preview
 ---

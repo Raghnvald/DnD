@@ -1,23 +1,24 @@
 ---
-cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
-Bezeichnung:
+statblock: inline
+statblock-link: "#^statblock"
+Bezeichnung: Phantomkrieger
 Typ: Untoter
 Größe: Mittelgroß
 HG: 3
 Habitat:
   - Stadt
-status: WIP
 image:
+status: WIP
 tags:
-  - Quelle/5e/cos
-  - Monster/HG/3
   - Monster/Größe/Mittelgroß
+  - Monster/HG/3
   - Monster/Typ/Untote
-statblock: inline
-statblock-link: "#^statblock"
+  - Quelle/5e/cos
 aliases:
+  - Phantomkrieger
   - Phantom Warrior
+linter-yaml-title-alias: Phantomkrieger
 ---
 # Phantomkrieger
 *Quellen: Fluch des Strahd S. 235*  

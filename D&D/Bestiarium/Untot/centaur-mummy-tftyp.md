@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/tftyp
-  - Monster/HG/6
-  - Monster/Größe/Groß
-  - Monster/Typ/Untote
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Centaur Mummy
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/6
+  - Monster/Typ/Untote
+  - Quelle/5e/tftyp
 aliases:
   - Centaur Mummy
+linter-yaml-title-alias: Centaur Mummy
 ---
 # [Centaur Mummy](3-Mechanics\CLI\bestiary\undead/centaur-mummy-tftyp.md)
 *Source: Tales from the Yawning Portal p. 231*  

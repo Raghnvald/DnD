@@ -1,21 +1,23 @@
 ---
-tags:
-  - Quelle/5e/pabtso
-  - Monster/HG/3
-  - Monster/Größe/Winzig
-  - Monster/Typ/Aberration
 statblock: inline
 statblock-link: "#^statblock"
-aliases:
-  - Chishinix' Head
-Name: Chishinix' Kopf
-Image: npc/token/chishinix-head-pabtso.webp
+Bezeichnung: "Chishinix' Head"
 Typ: Aberration
 Größe: Winzig
+HG: 3
 Habitat:
   - /
-HG: 3
 status: WIP
+tags:
+  - Monster/Größe/Winzig
+  - Monster/HG/3
+  - Monster/Typ/Aberration
+  - Quelle/5e/pabtso
+aliases:
+  - "Chishinix' Head"
+  - Chishinix' Head
+Image: npc/token/chishinix-head-pabtso.webp
+linter-yaml-title-alias: "Chishinix' Head"
 ---
 # Chishinix' Head
 *Source: Phandelver and Below: The Shattered Obelisk p. 194*  

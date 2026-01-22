@@ -1,21 +1,21 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/cos
-  - Monster/HG/5
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Untote
 statblock: inline
 statblock-link: "#^statblock"
-aliases:
-  - Doru
+Bezeichnung: Doru
 Typ: Untoter
 Größe: Mittelgroß
 HG: 5
 Habitat:
   - /
 status: WIP
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/5
+  - Monster/Typ/Untote
+  - Quelle/5e/cos
+aliases:
+  - Doru
+linter-yaml-title-alias: Doru
 ---
 # Doru
 *Source: Curse of Strahd p. 47*  

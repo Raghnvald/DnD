@@ -1,16 +1,16 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/21
-  - Monster/Habitat/Jedes
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Untote/wizard
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Lich
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Jedes
+  - Monster/HG/21
+  - Monster/Typ/Untote/wizard
+  - Quelle/5e/xmm
 aliases:
   - Lich
+linter-yaml-title-alias: Lich
 ---
 # [Lich](3-Mechanics\CLI\bestiary\undead/lich-xmm.md)
 *Source: Monster Manual (2024) p. 196. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
@@ -57,7 +57,6 @@ Liches create secluded libraries of magical lore and arcane laboratories hidden 
 > [!quote] A quote from Rudolph van Richten  
 > 
 > Ambition can become an addiction of the mind and spirit. It builds beyond a driving flame into an insidious inferno that burns a mage hollow until only the desire for more magical power remains
-
 
 ```statblock
 "name": "Lich (XMM)"

@@ -5,8 +5,8 @@ tags:
   - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
-  - Handschuhe des Diebstahls
   - Gloves of Thievery
+  - Handschuhe des Diebstahls
 linter-yaml-title-alias: Handschuhe des Diebstahls
 ---
 # Handschuhe des Diebstahls

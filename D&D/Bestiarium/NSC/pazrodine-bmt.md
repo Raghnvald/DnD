@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/bmt
-  - Monster/HG/21
-  - Monster/Größe/Gigantisch
-  - Monster/Typ/Drache/moonstone
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Pazrodine
+tags:
+  - Monster/Größe/Gigantisch
+  - Monster/HG/21
+  - Monster/Typ/Drache/moonstone
+  - Quelle/5e/bmt
 aliases:
   - Pazrodine
+linter-yaml-title-alias: Pazrodine
 ---
 # [Pazrodine](3-Mechanics\CLI\bestiary\npc/pazrodine-bmt.md)
 *Source: The Book of Many Things p. 113*  

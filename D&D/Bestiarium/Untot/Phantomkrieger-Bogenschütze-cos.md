@@ -1,15 +1,15 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/cos
-  - Monster/HG/3
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Untote
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Phantom Warrior (Archer)
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/3
+  - Monster/Typ/Untote
+  - Quelle/5e/cos
 aliases:
   - Phantom Warrior (Archer)
+linter-yaml-title-alias: Phantom Warrior (Archer)
 ---
 # [Phantom Warrior (Archer)](3-Mechanics\CLI\bestiary\undead/phantom-warrior-archer-cos.md)
 *Source: Curse of Strahd p. 142*  

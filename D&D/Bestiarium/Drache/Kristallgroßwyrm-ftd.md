@@ -1,17 +1,17 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/ftd
-  - Monster/HG/26
-  - Monster/Größe/Gigantisch
-  - Monster/Typ/Drache/gem
 statblock: inline
 statblock-link: "#^statblock"
-aliases:
-  - Crystal Greatwyrm
+Bezeichnung: Crystal Greatwyrm
 Typ: Drache (Edelstein)
 Größe: Gigantisch
+tags:
+  - Monster/Größe/Gigantisch
+  - Monster/HG/26
+  - Monster/Typ/Drache/gem
+  - Quelle/5e/ftd
+aliases:
+  - Crystal Greatwyrm
+linter-yaml-title-alias: Crystal Greatwyrm
 ---
 # [Crystal Greatwyrm](3-Mechanics\CLI\bestiary\dragon/crystal-greatwyrm-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 201*  
@@ -28,7 +28,6 @@ Gem greatwyrms' ascension transforms their bodies to appear as crystal, their sc
 > [!quote] A quote from Fizban  
 > 
 > The thing I miss most about Sardior is the thing no gem greatwyrm will ever reproduce: the witty anecdotes. Which were, I grant you, mostly about me.
-
 
 ```statblock
 "name": "Crystal Greatwyrm (FTD)"

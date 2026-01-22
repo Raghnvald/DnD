@@ -9,8 +9,8 @@ tags:
   - Gegenstand/wundersam/Schriftrolle
   - Quelle/5e/dmg
 aliases:
-  - Zauberschriftrolle (Zaubergrad 9)
   - Spell Scroll (7th Level)
+  - Zauberschriftrolle (Zaubergrad 9)
 linter-yaml-title-alias: Zauberschriftrolle (Zaubergrad 9)
 ---
 # Zauberschriftrolle (Zaubergrad 9)

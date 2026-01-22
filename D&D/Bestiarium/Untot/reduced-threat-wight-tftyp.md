@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/tftyp
-  - Monster/HG/3
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Untote
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Reduced-Threat Wight
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/3
+  - Monster/Typ/Untote
+  - Quelle/5e/tftyp
 aliases:
   - Reduced-Threat Wight
+linter-yaml-title-alias: Reduced-Threat Wight
 ---
 # [Reduced-Threat Wight](3-Mechanics\CLI\bestiary\undead/reduced-threat-wight-tftyp.md)
 *Source: Tales from the Yawning Portal p. 113*  

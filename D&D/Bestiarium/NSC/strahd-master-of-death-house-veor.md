@@ -1,17 +1,16 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/veor
-  - Monster/HG/15
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Untote/vampire
-  - Monster/Typ/Untote/wizard
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Strahd, Master of Death House
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/15
+  - Monster/Typ/Untote/vampire
+  - Monster/Typ/Untote/wizard
+  - Quelle/5e/veor
 aliases:
   - Strahd, Master of Death House
+linter-yaml-title-alias: Strahd, Master of Death House
 ---
 # [Strahd, Master of Death House](3-Mechanics\CLI\bestiary\npc/strahd-master-of-death-house-veor.md)
 *Source: Vecna: Eve of Ruin p. 251*  

@@ -1,15 +1,16 @@
 ---
-tags:
-  - Quelle/5e/pabtso
-  - Monster/HG/11
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Aberration
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Hashutu
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/11
+  - Monster/Typ/Aberration
+  - Quelle/5e/pabtso
 aliases:
   - Hashutu
-Name: Hashutu
 Image: npc/token/hashutu-pabtso.webp
+linter-yaml-title-alias: Hashutu
 ---
 # Hashutu
 *Source: Phandelver and Below: The Shattered Obelisk p. 194*  

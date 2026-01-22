@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/skt
-  - Monster/HG/1-8
-  - Monster/Größe/Klein
-  - Monster/Typ/Humanoid/human
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Orok
+tags:
+  - Monster/Größe/Klein
+  - Monster/HG/1-8
+  - Monster/Typ/Humanoid/human
+  - Quelle/5e/skt
 aliases:
   - Orok
+linter-yaml-title-alias: Orok
 ---
 # [Orok](3-Mechanics\CLI\bestiary\npc/orok-skt.md)
 *Source: Storm King's Thunder p. 115*  

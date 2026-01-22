@@ -1,5 +1,5 @@
 ---
-Bezeichnung: "# Stab"
+Bezeichnung: Stab
 Typ: Arkaner Fokus
 Schaden: 1W6 Wucht
 Eigenschaften: Vielseitig (1W8)
@@ -12,11 +12,11 @@ tags:
   - Gegenstand/Zauberfokus
   - Quelle/5e/phb
 aliases:
-  - "# Stab"
+  - Stab
   - Staff
-linter-yaml-title-alias: "# Stab"
+linter-yaml-title-alias: Stab
 ---
-# # Stab
+# Stab
 *Stab, Waffe, Zauberfokus*
 
 - **Schaden**:

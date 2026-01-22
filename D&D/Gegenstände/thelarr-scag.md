@@ -1,18 +1,18 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Thelarr
 tags:
-  - Quelle/5e/scag
   - Gegenstand/Ausrüstung/Instrument
   - Gegenstand/Seltenheit/keine
+  - Quelle/5e/scag
 aliases:
   - Thelarr
+linter-yaml-title-alias: Thelarr
+obsidianUIMode: preview
 ---
 # Thelarr
 *Instrument*  
-
-
 
 Also known as a whistlecane, a simple and easy-to-make wind instrument cut from a reed. They are so simple, in fact, that skilled bards frequently make and give them away to children—to the parents' delight or regret.
 

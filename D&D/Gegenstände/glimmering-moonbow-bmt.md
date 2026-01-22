@@ -1,24 +1,24 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Glimmering Moonbow
 tags:
-  - Quelle/5e/bmt
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
-  - Gegenstand/Waffe/Kriegswaffe
-  - Gegenstand/Waffe/Fernkampf
   - Gegenstand/Waffe/Einfach
+  - Gegenstand/Waffe/Fernkampf
+  - Gegenstand/Waffe/Kriegswaffe
   - Gegenstand/wundersam/generic-variant
+  - Quelle/5e/bmt
 aliases:
-  - Glimmering Moonbow
   - Glimmering Moon Longbow
   - Glimmering Moon Shortbow
+  - Glimmering Moonbow
+linter-yaml-title-alias: Glimmering Moonbow
+obsidianUIMode: preview
 ---
 # Glimmering Moonbow
 *Rare (requires attunement)*  
-
-
 
 This silver-and-black bow is engraved with the phases of the moon. You gain a +1 bonus to attack and damage rolls made with this magic weapon.
 
@@ -43,6 +43,5 @@ While wielding this magic bow, you can use a bonus action to enter a semi-incorp
 - **Range**: 80/320
 - **Properties**: Ammunition, Two-Handed
 - **Weight**: 2.0 lbs.
-
 
 *Source: The Book of Many Things p. 36*

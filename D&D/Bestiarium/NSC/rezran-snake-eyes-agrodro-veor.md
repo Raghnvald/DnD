@@ -1,16 +1,16 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/veor
-  - Monster/HG/15
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Unhold/devil
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: 'Rezran "Snake Eyes" Agrodro'
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/15
+  - Monster/Typ/Unhold/devil
+  - Quelle/5e/veor
 aliases:
+  - 'Rezran "Snake Eyes" Agrodro'
   - Rezran "Snake Eyes" Agrodro
+linter-yaml-title-alias: 'Rezran "Snake Eyes" Agrodro'
 ---
 # [Rezran "Snake Eyes" Agrodro](3-Mechanics\CLI\bestiary\npc/rezran-snake-eyes-agrodro-veor.md)
 *Source: Vecna: Eve of Ruin*  

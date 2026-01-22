@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Armor of Force Resistance
+Rüstung: Leicht, Mittel oder Schwer
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Rüstung/Leicht

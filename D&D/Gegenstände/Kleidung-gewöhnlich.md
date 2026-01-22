@@ -8,8 +8,8 @@ tags:
   - Gegenstand/Ausrüstung
   - Quelle/5e/phb
 aliases:
-  - Kleidung, gewöhnlich
   - Common Clothes
+  - Kleidung, gewöhnlich
 Aktiv: true
 linter-yaml-title-alias: Kleidung, gewöhnlich
 Menge: "1"

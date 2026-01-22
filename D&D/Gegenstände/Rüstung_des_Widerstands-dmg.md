@@ -6,8 +6,8 @@ tags:
   - Gegenstand/wundersam/generic-variant
   - Quelle/5e/dmg
 aliases:
-  - Armor of Resistance
-linter-yaml-title-alias: Armor of Resistance
+  - Rüstung des Widerstands
+linter-yaml-title-alias: Rüstung des Widerstands
 ---
 # Rüstung des Widerstands
 *Rüstung (leicht, mittelschwer oder schwer), selten (benötigt Einstimmung)*  

@@ -1,18 +1,18 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Claw of the Wyrm Rune
 tags:
-  - Quelle/5e/skt
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
+  - Quelle/5e/skt
 aliases:
   - Claw of the Wyrm Rune
+linter-yaml-title-alias: Claw of the Wyrm Rune
+obsidianUIMode: preview
 ---
 # Claw of the Wyrm Rune
 *Wondrous item, rare (requires attunement)*  
-
-
 
 This dragon's claw has been covered with a coat of molten silver, upon which has been inscribed the wyrm (dragon) rune. The claw has the following properties.
 

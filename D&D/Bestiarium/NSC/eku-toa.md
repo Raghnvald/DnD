@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/toa
-  - Monster/HG/4
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Himmlische
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Eku
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/4
+  - Monster/Typ/Himmlische
+  - Quelle/5e/toa
 aliases:
   - Eku
+linter-yaml-title-alias: Eku
 ---
 # [Eku](3-Mechanics\CLI\bestiary\npc/eku-toa.md)
 *Source: Tomb of Annihilation p. 34*  

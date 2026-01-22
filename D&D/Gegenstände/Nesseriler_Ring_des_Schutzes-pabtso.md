@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Nesseriler Ring des Schutzes
+Bezeichnung: Netherese Ring of Protection
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten

@@ -1,17 +1,18 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Sage Card
 tags:
-  - Quelle/5e/bmt
   - Gegenstand/Seltenheit/legendär
+  - Quelle/5e/bmt
 aliases:
   - Sage Card
+linter-yaml-title-alias: Sage Card
+obsidianUIMode: preview
 ---
 # Sage Card
 *Wondrous item, legendary*  
 ![](/3-Mechanics/CLI/items/img/07-sage.webp#right)
-
 
 As an action, you can brandish this card and use it to cast the Contact Other Plane spell. When you cast the spell in this way, your questions are answered by the mysterious figure depicted on the card. Once this property is used, it can't be used again until the next dawn.
 

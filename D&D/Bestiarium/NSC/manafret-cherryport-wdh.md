@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/wdh
-  - Monster/HG/6
-  - Monster/Größe/Klein
-  - Monster/Typ/Humanoid/lightfoot-halfling
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Manafret Cherryport
+tags:
+  - Monster/Größe/Klein
+  - Monster/HG/6
+  - Monster/Typ/Humanoid/lightfoot-halfling
+  - Quelle/5e/wdh
 aliases:
   - Manafret Cherryport
+linter-yaml-title-alias: Manafret Cherryport
 ---
 # [Manafret Cherryport](3-Mechanics\CLI\bestiary\npc/manafret-cherryport-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 149*  

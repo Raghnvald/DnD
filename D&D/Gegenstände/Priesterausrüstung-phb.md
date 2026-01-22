@@ -5,8 +5,8 @@ tags:
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Priesterausrüstung
   - Priest's Pack
+  - Priesterausrüstung
 linter-yaml-title-alias: Priesterausrüstung
 ---
 # Priesterausrüstung

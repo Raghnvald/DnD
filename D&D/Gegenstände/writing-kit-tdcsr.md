@@ -1,18 +1,18 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Writing Kit
 tags:
-  - Quelle/5e/tdcsr
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
+  - Quelle/5e/tdcsr
 aliases:
   - Writing Kit
+linter-yaml-title-alias: Writing Kit
+obsidianUIMode: preview
 ---
 # Writing Kit
 *Adventuring gear*  
-
-
 
 Includes:
 

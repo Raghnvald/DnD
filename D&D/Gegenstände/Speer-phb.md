@@ -11,8 +11,8 @@ tags:
   - Gegenstand/Waffe/Nahkampf
   - Quelle/5e/phb
 aliases:
-  - Speer
   - "Spear"
+  - Speer
 linter-yaml-title-alias: Speer
 ---
 # Speer

@@ -2,13 +2,14 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Hide Armor
+Rüstung: Mittel
 tags:
   - Gegenstand/Rüstung/Mittel
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Hide Armor
   - "Hide Armor"
+  - Hide Armor
 linter-yaml-title-alias: Hide Armor
 obsidianUIMode: preview
 ---

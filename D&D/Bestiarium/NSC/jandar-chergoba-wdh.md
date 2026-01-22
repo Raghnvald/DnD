@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/wdh
-  - Monster/HG/2
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/tiefling
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Jandar Chergoba
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/2
+  - Monster/Typ/Humanoid/tiefling
+  - Quelle/5e/wdh
 aliases:
   - Jandar Chergoba
+linter-yaml-title-alias: Jandar Chergoba
 ---
 # [Jandar Chergoba](3-Mechanics\CLI\bestiary\npc/jandar-chergoba-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 116*  

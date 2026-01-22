@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: +2 Shield
+Rüstung: Schild
 tags:
   - Gegenstand/Rüstung/Schild/
   - Gegenstand/Seltenheit/selten

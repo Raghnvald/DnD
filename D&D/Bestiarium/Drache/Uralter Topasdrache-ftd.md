@@ -1,17 +1,17 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/ftd
-  - Monster/HG/20
-  - Monster/Größe/Gigantisch
-  - Monster/Typ/Drache/gem
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Ancient Topaz Dragon
+Typ: Drache (Edelstein)
+status: WIP
+tags:
+  - Monster/Größe/Gigantisch
+  - Monster/HG/20
+  - Monster/Typ/Drache/gem
+  - Quelle/5e/ftd
 aliases:
   - Ancient Topaz Dragon
-status: WIP
-Typ: Drache (Edelstein)
+linter-yaml-title-alias: Ancient Topaz Dragon
 ---
 # [Ancient Topaz Dragon](3-Mechanics\CLI\bestiary\dragon/ancient-topaz-dragon-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 220*  

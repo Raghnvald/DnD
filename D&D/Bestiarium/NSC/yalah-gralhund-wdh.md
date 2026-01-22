@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/wdh
-  - Monster/HG/1-8
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/tethyrian-human
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Yalah Gralhund
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/1-8
+  - Monster/Typ/Humanoid/tethyrian-human
+  - Quelle/5e/wdh
 aliases:
   - Yalah Gralhund
+linter-yaml-title-alias: Yalah Gralhund
 ---
 # [Yalah Gralhund](3-Mechanics\CLI\bestiary\npc/yalah-gralhund-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 220*  

@@ -1,15 +1,15 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/cos
-  - Monster/HG/12
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/dusk-elf
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Patrina Velikovna
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/12
+  - Monster/Typ/Humanoid/dusk-elf
+  - Quelle/5e/cos
 aliases:
   - Patrina Velikovna
+linter-yaml-title-alias: Patrina Velikovna
 ---
 # [Patrina Velikovna](3-Mechanics\CLI\bestiary\npc/patrina-velikovna-cos.md)
 *Source: Curse of Strahd p. 89*  

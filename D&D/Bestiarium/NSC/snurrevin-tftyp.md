@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/tftyp
-  - Monster/HG/2
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/dwarf
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Snurrevin
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/2
+  - Monster/Typ/Humanoid/dwarf
+  - Quelle/5e/tftyp
 aliases:
   - Snurrevin
+linter-yaml-title-alias: Snurrevin
 ---
 # [Snurrevin](3-Mechanics\CLI\bestiary\npc/snurrevin-tftyp.md)
 *Source: Tales from the Yawning Portal p. 53*  

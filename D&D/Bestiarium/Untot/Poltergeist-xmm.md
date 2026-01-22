@@ -1,17 +1,17 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/2
-  - Monster/Habitat/Unterreich
-  - Monster/Habitat/Stadt
-  - Monster/Größe/Klein-oder-Mittelgroß
-  - Monster/Typ/Untote
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Poltergeist
+tags:
+  - Monster/Größe/Klein-oder-Mittelgroß
+  - Monster/Habitat/Stadt
+  - Monster/Habitat/Unterreich
+  - Monster/HG/2
+  - Monster/Typ/Untote
+  - Quelle/5e/xmm
 aliases:
   - Poltergeist
+linter-yaml-title-alias: Poltergeist
 ---
 # [Poltergeist](3-Mechanics\CLI\bestiary\undead/poltergeist-xmm.md)
 *Source: Monster Manual (2024) p. 246*  

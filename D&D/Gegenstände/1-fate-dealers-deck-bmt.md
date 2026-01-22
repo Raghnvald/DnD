@@ -1,18 +1,20 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: "+1 Fate Dealer's Deck"
 tags:
-  - Quelle/5e/bmt
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
+  - Quelle/5e/bmt
 aliases:
+  - "+1 Fate Dealer's Deck"
   - +1 Fate Dealer's Deck
+linter-yaml-title-alias: "+1 Fate Dealer's Deck"
+obsidianUIMode: preview
 ---
 # +1 Fate Dealer's Deck
 *Wondrous item, rare (requires attunement by a cleric or paladin)*  
 ![](/3-Mechanics/CLI/items/img/fate-dealers-deck.webp#right)
-
 
 The backs of these cards are inscribed with glyphs representing the Inner Planes, the Outer Planes, or the holy symbols of various deities. While holding this deck, you can use it as a spellcasting focus, and you gain a +1 bonus to spell attack rolls and to your spell save DC.
 

@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Hunting Rifle
+Typ: Fernkampf-Kriegswaffe
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/Fernkampf

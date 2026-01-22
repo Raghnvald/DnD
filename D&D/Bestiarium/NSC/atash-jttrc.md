@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/jttrc
-  - Monster/HG/21
-  - Monster/Größe/Groß
-  - Monster/Typ/Himmlische
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Atash
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/21
+  - Monster/Typ/Himmlische
+  - Quelle/5e/jttrc
 aliases:
   - Atash
+linter-yaml-title-alias: Atash
 ---
 # [Atash](3-Mechanics\CLI\bestiary\npc/atash-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 166*  

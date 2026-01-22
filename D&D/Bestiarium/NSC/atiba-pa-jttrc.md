@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/jttrc
-  - Monster/HG/2
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/human
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Atiba-Pa
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/2
+  - Monster/Typ/Humanoid/human
+  - Quelle/5e/jttrc
 aliases:
   - Atiba-Pa
+linter-yaml-title-alias: Atiba-Pa
 ---
 # [Atiba-Pa](3-Mechanics\CLI\bestiary\npc/atiba-pa-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 171*  

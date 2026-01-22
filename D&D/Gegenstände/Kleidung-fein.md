@@ -5,8 +5,8 @@ tags:
   - Gegenstand/Ausrüstung
   - Quelle/5e/phb
 aliases:
-  - Kleidung, fein
   - Fine Clothes
+  - Kleidung, fein
 linter-yaml-title-alias: Kleidung, fein
 ---
 # Kleidung, fein

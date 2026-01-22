@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/gos
-  - Monster/HG/9
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Untote
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Drowned Master
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/9
+  - Monster/Typ/Untote
+  - Quelle/5e/gos
 aliases:
   - Drowned Master
+linter-yaml-title-alias: Drowned Master
 ---
 # [Drowned Master](3-Mechanics\CLI\bestiary\undead/drowned-master-gos.md)
 *Source: Ghosts of Saltmarsh p. 235*  

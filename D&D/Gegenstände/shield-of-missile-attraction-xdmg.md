@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Shield of Missile Attraction
+Rüstung: Schild
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Rüstung/Schild/

@@ -1,21 +1,21 @@
 ---
 Bezeichnung: Breastplate
 Typ: Rüstung
+Rüstung: Mittel
 Eigenschaften: n/v
 Kst.: 400 GM
 Gew.: 10,0 kg
+RK: 14 + GES (max +2)
+STR: n/v
+Heiml.: n/v
 tags:
   - Gegenstand/Rüstung/Mittel
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Breastplate
   - "Breastplate"
-Heiml.: n/v
+  - Breastplate
 linter-yaml-title-alias: Breastplate
-RK: 14 + GES (max +2)
-Rüstung: Mittel
-STR: n/v
 ---
 # Breastplate
 *Medium armor*  

@@ -10,8 +10,8 @@ tags:
   - Gegenstand/wundersam/Zauberstab
   - Quelle/5e/dmg
 aliases:
-  - Zauberstab der Magieerkennung
   - Wand of Magic Detection
+  - Zauberstab der Magieerkennung
 linter-yaml-title-alias: Zauberstab der Magieerkennung
 ---
 # Zauberstab der Magieerkennung

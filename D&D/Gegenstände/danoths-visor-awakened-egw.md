@@ -1,13 +1,16 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: "Danoth's Visor (Awakened)"
 tags:
-  - Quelle/5e/egw
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
+  - Quelle/5e/egw
 aliases:
+  - "Danoth's Visor (Awakened)"
   - Danoth's Visor (Awakened)
+linter-yaml-title-alias: "Danoth's Visor (Awakened)"
+obsidianUIMode: preview
 ---
 # Danoth's Visor (Awakened)
 *Wondrous item, legendary (requires attunement)*  

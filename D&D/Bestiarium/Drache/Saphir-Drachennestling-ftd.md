@@ -1,21 +1,21 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/ftd
-  - Monster/HG/3
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Drache/gem
 statblock: inline
 statblock-link: "#^statblock"
-aliases:
-  - Sapphire Dragon Wyrmling
+Bezeichnung: Sapphire Dragon Wyrmling
 Typ: Drache (Edelstein)
 Größe: Mittelgroß
 HG: 3
 Habitat:
   - /
 status: WIP
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/3
+  - Monster/Typ/Drache/gem
+  - Quelle/5e/ftd
+aliases:
+  - Sapphire Dragon Wyrmling
+linter-yaml-title-alias: Sapphire Dragon Wyrmling
 ---
 # [Sapphire Dragon Wyrmling](3-Mechanics\CLI\bestiary\dragon/sapphire-dragon-wyrmling-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 216*  

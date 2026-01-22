@@ -1,15 +1,16 @@
 ---
-tags:
-  - Quelle/5e/pabtso
-  - Monster/HG/9
-  - Monster/Größe/Groß
-  - Monster/Typ/Unhold/yugoloth
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Nellik
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/9
+  - Monster/Typ/Unhold/yugoloth
+  - Quelle/5e/pabtso
 aliases:
   - Nellik
-Name: Nellik
 Image: npc/token/nellik-pabtso.webp
+linter-yaml-title-alias: Nellik
 ---
 # Nellik
 *Source: Phandelver and Below: The Shattered Obelisk p. 193*  

@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/idrotf
-  - Monster/HG/2
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/human
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Mjenir
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/2
+  - Monster/Typ/Humanoid/human
+  - Quelle/5e/idrotf
 aliases:
   - Mjenir
+linter-yaml-title-alias: Mjenir
 ---
 # [Mjenir](3-Mechanics\CLI\bestiary\npc/mjenir-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 215*  

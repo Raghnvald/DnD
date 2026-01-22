@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/bmt
-  - Monster/HG/2
-  - Monster/Größe/Klein
-  - Monster/Typ/Fee/goblinoid
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Oddlewin
+tags:
+  - Monster/Größe/Klein
+  - Monster/HG/2
+  - Monster/Typ/Fee/goblinoid
+  - Quelle/5e/bmt
 aliases:
   - Oddlewin
+linter-yaml-title-alias: Oddlewin
 ---
 # [Oddlewin](3-Mechanics\CLI\bestiary\npc/oddlewin-bmt.md)
 *Source: The Book of Many Things p. 111*  

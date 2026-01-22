@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/wdmm
-  - Monster/HG/5
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/elf
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Shunn Shurreth
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/5
+  - Monster/Typ/Humanoid/elf
+  - Quelle/5e/wdmm
 aliases:
   - Shunn Shurreth
+linter-yaml-title-alias: Shunn Shurreth
 ---
 # [Shunn Shurreth](3-Mechanics\CLI\bestiary\npc/shunn-shurreth-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 33*  

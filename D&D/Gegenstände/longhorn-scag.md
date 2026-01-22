@@ -1,18 +1,18 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Longhorn
 tags:
-  - Quelle/5e/scag
   - Gegenstand/Ausrüstung/Instrument
   - Gegenstand/Seltenheit/keine
+  - Quelle/5e/scag
 aliases:
   - Longhorn
+linter-yaml-title-alias: Longhorn
+obsidianUIMode: preview
 ---
 # Longhorn
 *Instrument*  
-
-
 
 A Faerûnian flute of sophisticated make, found only in areas with skilled artisans, as in great cities or elven enclaves.
 

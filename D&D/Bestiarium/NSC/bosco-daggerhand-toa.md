@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/toa
-  - Monster/HG/1-2
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/human
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Bosco Daggerhand
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/1-2
+  - Monster/Typ/Humanoid/human
+  - Quelle/5e/toa
 aliases:
   - Bosco Daggerhand
+linter-yaml-title-alias: Bosco Daggerhand
 ---
 # [Bosco Daggerhand](3-Mechanics\CLI\bestiary\npc/bosco-daggerhand-toa.md)
 *Source: Tomb of Annihilation p. 68*  

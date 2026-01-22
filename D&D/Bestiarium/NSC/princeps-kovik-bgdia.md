@@ -1,15 +1,15 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/bgdia
-  - Monster/HG/8
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Unhold/devil
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Princeps Kovik
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/8
+  - Monster/Typ/Unhold/devil
+  - Quelle/5e/bgdia
 aliases:
   - Princeps Kovik
+linter-yaml-title-alias: Princeps Kovik
 ---
 # [Princeps Kovik](3-Mechanics\CLI\bestiary\npc/princeps-kovik-bgdia.md)
 *Source: Baldur's Gate: Descent Into Avernus p. 91*  

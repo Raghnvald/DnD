@@ -1,14 +1,14 @@
 ---
 cssclasses:
   - json5e-item
-Bezeichnung: Malice
+Bezeichnung: Bosheit
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/dmg
 aliases:
-  - Malice
-linter-yaml-title-alias: Malice
+  - Bosheit
+linter-yaml-title-alias: Bosheit
 obsidianUIMode: preview
 ---
 # Bosheit

@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/wdmm
-  - Monster/HG/21
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Untote
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Ezzat
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/21
+  - Monster/Typ/Untote
+  - Quelle/5e/wdmm
 aliases:
   - Ezzat
+linter-yaml-title-alias: Ezzat
 ---
 # [Ezzat](3-Mechanics\CLI\bestiary\npc/ezzat-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 262*  

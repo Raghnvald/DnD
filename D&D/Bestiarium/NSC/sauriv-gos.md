@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/gos
-  - Monster/HG/1-8
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/any-race
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Sauriv
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/1-8
+  - Monster/Typ/Humanoid/any-race
+  - Quelle/5e/gos
 aliases:
   - Sauriv
+linter-yaml-title-alias: Sauriv
 ---
 # [Sauriv](3-Mechanics\CLI\bestiary\npc/sauriv-gos.md)
 *Source: Ghosts of Saltmarsh p. 79*  

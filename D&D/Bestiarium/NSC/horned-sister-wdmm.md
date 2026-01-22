@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/wdmm
-  - Monster/HG/6
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/any-race
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Horned Sister
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/6
+  - Monster/Typ/Humanoid/any-race
+  - Quelle/5e/wdmm
 aliases:
   - Horned Sister
+linter-yaml-title-alias: Horned Sister
 ---
 # [Horned Sister](3-Mechanics\CLI\bestiary\npc/horned-sister-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 118*  

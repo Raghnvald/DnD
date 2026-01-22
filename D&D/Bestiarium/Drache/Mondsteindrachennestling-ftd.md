@@ -1,21 +1,21 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/ftd
-  - Monster/HG/2
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Drache
 statblock: inline
 statblock-link: "#^statblock"
-aliases:
-  - Moonstone Dragon Wyrmling
+Bezeichnung: Moonstone Dragon Wyrmling
 Typ: Drache
 Größe: Mittelgroß
 HG: 2
-status: WIP
 Habitat:
   - /
+status: WIP
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/2
+  - Monster/Typ/Drache
+  - Quelle/5e/ftd
+aliases:
+  - Moonstone Dragon Wyrmling
+linter-yaml-title-alias: Moonstone Dragon Wyrmling
 ---
 # [Moonstone Dragon Wyrmling](3-Mechanics\CLI\bestiary\dragon/moonstone-dragon-wyrmling-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 213*  

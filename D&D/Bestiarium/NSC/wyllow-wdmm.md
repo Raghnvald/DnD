@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/wdmm
-  - Monster/HG/12
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/any-race
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Wyllow
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/12
+  - Monster/Typ/Humanoid/any-race
+  - Quelle/5e/wdmm
 aliases:
   - Wyllow
+linter-yaml-title-alias: Wyllow
 ---
 # [Wyllow](3-Mechanics\CLI\bestiary\npc/wyllow-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 70*  

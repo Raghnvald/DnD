@@ -1,13 +1,15 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Wraps of Dyamak (Dormant)
 tags:
-  - Quelle/5e/tdcsr
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
+  - Quelle/5e/tdcsr
 aliases:
   - Wraps of Dyamak (Dormant)
+linter-yaml-title-alias: Wraps of Dyamak (Dormant)
+obsidianUIMode: preview
 ---
 # Wraps of Dyamak (Dormant)
 *Wondrous item, legendary (requires attunement by a monk)*  

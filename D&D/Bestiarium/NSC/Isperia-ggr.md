@@ -1,13 +1,15 @@
 ---
-tags:
-- Quelle/5e/ggr
-- Monster/HG/21
-- Monster/Größe/Gigantisch
-- Monster/Typ/Monstrosität
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Isperia
+tags:
+  - Monster/Größe/Gigantisch
+  - Monster/HG/21
+  - Monster/Typ/Monstrosität
+  - Quelle/5e/ggr
 aliases:
-- Isperia
+  - Isperia
+linter-yaml-title-alias: Isperia
 ---
 # Isperia
 *Source: Guildmasters' Guide to Ravnica p. 227*  

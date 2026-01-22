@@ -1,21 +1,21 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/ftd
-  - Monster/HG/24
-  - Monster/Größe/Gigantisch
-  - Monster/Typ/Drache
 statblock: inline
 statblock-link: "#^statblock"
-aliases:
-  - Ancient Dragon Turtle
+Bezeichnung: Ancient Dragon Turtle
 Typ: Drache
 Größe: Gigantisch
 HG: 24
 Habitat:
   - /
 status: WIP
+tags:
+  - Monster/Größe/Gigantisch
+  - Monster/HG/24
+  - Monster/Typ/Drache
+  - Quelle/5e/ftd
+aliases:
+  - Ancient Dragon Turtle
+linter-yaml-title-alias: Ancient Dragon Turtle
 ---
 # [Ancient Dragon Turtle](3-Mechanics\CLI\bestiary\dragon/ancient-dragon-turtle-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 191*  

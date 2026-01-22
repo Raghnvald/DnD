@@ -9,8 +9,8 @@ tags:
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Crowbar
-linter-yaml-title-alias: Crowbar
+  - Brechstange
+linter-yaml-title-alias: Brechstange
 ---
 # Brechstange
 *Abenteuerausrüstung*  

@@ -1,17 +1,18 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Soothsalts
 tags:
-  - Quelle/5e/egw
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
+  - Quelle/5e/egw
 aliases:
   - Soothsalts
+linter-yaml-title-alias: Soothsalts
+obsidianUIMode: preview
 ---
 # Soothsalts
 *Adventuring gear*  
-
 
 - **Cost**: 150 gp
 

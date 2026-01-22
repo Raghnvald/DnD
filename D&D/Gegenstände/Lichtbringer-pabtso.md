@@ -1,5 +1,6 @@
 ---
-Bezeichnung: Lichtbringer
+Bezeichnung: Lightbringer
+Typ: Einfache Nahkampfwaffe
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/Waffe/Einfach

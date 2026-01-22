@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/toa
-  - Monster/HG/21
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Untote
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Valindra Shadowmantle
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/21
+  - Monster/Typ/Untote
+  - Quelle/5e/toa
 aliases:
   - Valindra Shadowmantle
+linter-yaml-title-alias: Valindra Shadowmantle
 ---
 # [Valindra Shadowmantle](3-Mechanics\CLI\bestiary\npc/valindra-shadowmantle-toa.md)
 *Source: Tomb of Annihilation p. 58*  

@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/bgg
-  - Monster/HG/11
-  - Monster/Größe/Riesig
-  - Monster/Typ/Untote
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Firegaunt
+tags:
+  - Monster/Größe/Riesig
+  - Monster/HG/11
+  - Monster/Typ/Untote
+  - Quelle/5e/bgg
 aliases:
   - Firegaunt
+linter-yaml-title-alias: Firegaunt
 ---
 # [Firegaunt](3-Mechanics\CLI\bestiary\undead/firegaunt-bgg.md)
 *Source: Bigby Presents: Glory of the Giants p. 137*  

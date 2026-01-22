@@ -1,13 +1,15 @@
 ---
-tags:
-  - Quelle/5e/cos
-  - Monster/HG/5
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Unhold
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Morgantha
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/5
+  - Monster/Typ/Unhold
+  - Quelle/5e/cos
 aliases:
   - Morgantha
+linter-yaml-title-alias: Morgantha
 ---
 # Morgantha
 *Source: Curse of Strahd p. 48*  

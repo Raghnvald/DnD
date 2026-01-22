@@ -1,16 +1,16 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/bgdia
-  - Monster/HG/5
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/human
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Ulder Ravengard
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/5
+  - Monster/Typ/Humanoid/human
+  - Quelle/5e/bgdia
 aliases:
-  - Ulder Ravengard
   - Ulder Rabenwacht
+  - Ulder Ravengard
+linter-yaml-title-alias: Ulder Ravengard
 ---
 # [Ulder Ravengard](3-Mechanics\CLI\bestiary\npc/ulder-ravengard-bgdia.md)
 *Source: Baldur's Gate: Descent Into Avernus p. 70*  

@@ -1,17 +1,16 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/17
-  - Monster/Habitat/any
-  - Monster/Größe/Unbekannt
-  - Monster/Typ/Untote
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Dracolich
+tags:
+  - Monster/Größe/Unbekannt
+  - Monster/Habitat/any
+  - Monster/HG/17
+  - Monster/Typ/Untote
+  - Quelle/5e/xmm
 aliases:
   - Dracolich
+linter-yaml-title-alias: Dracolich
 ---
 # [Dracolich](3-Mechanics\CLI\bestiary\undead/dracolich-xmm.md)
 *Source: Monster Manual (2024) p. 102*  
@@ -54,7 +53,6 @@ A dracolich lurks in a corrupted version of the lair it had in life.
 > [!quote] A quote from Sammaster the Fallen's translation of The Chronicle of Years to Come  
 > 
 > And naught will be left save shattered thrones with no rulers. But the dead dragons shall rule the world entire...
-
 
 ```statblock
 "name": "Dracolich (XMM)"

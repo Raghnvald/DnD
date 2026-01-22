@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Sword of Answering (Last Quip)
+Typ: Nahkampf-Kriegswaffe
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär

@@ -1,17 +1,16 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mcv2dc
-  - Monster/HG/17
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/cleric
-  - Monster/Typ/Humanoid/human
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Verminaard
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/17
+  - Monster/Typ/Humanoid/cleric
+  - Monster/Typ/Humanoid/human
+  - Quelle/5e/mcv2dc
 aliases:
   - Verminaard
+linter-yaml-title-alias: Verminaard
 ---
 # [Verminaard](3-Mechanics\CLI\bestiary\npc/verminaard-mcv2dc.md)
 *Source: Monstrous Compendium Volume 2: Dragonlance Creatures p. 15*  

@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/toa
-  - Monster/HG/5
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/saurial
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Dragonbait
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/5
+  - Monster/Typ/Humanoid/saurial
+  - Quelle/5e/toa
 aliases:
   - Dragonbait
+linter-yaml-title-alias: Dragonbait
 ---
 # [Dragonbait](3-Mechanics\CLI\bestiary\npc/dragonbait-toa.md)
 *Source: Tomb of Annihilation p. 218*  

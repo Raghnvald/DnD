@@ -1,16 +1,16 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/wdh
-  - Monster/HG/2
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/tiefling
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: 'Laiba "Nana" Rosse'
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/2
+  - Monster/Typ/Humanoid/tiefling
+  - Quelle/5e/wdh
 aliases:
+  - 'Laiba "Nana" Rosse'
   - Laiba "Nana" Rosse
+linter-yaml-title-alias: 'Laiba "Nana" Rosse'
 ---
 # [Laiba "Nana" Rosse](3-Mechanics\CLI\bestiary\npc/laiba-nana-rosse-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 116*  

@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/dosi
-  - Monster/HG/2
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/human
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Varnoth
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/2
+  - Monster/Typ/Humanoid/human
+  - Quelle/5e/dosi
 aliases:
   - Varnoth
+linter-yaml-title-alias: Varnoth
 ---
 # [Varnoth](3-Mechanics\CLI\bestiary\npc/varnoth-dosi.md)
 *Source: Dragons of Stormwreck Isle p. 47*  

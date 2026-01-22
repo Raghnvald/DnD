@@ -9,8 +9,8 @@ tags:
   - Gegenstand/Seltenheit/gewöhnlich
   - Quelle/5e/phb
 aliases:
-  - Gewöhnlicher Wein (Karaffe)
   - Common Wine (Pitcher)
+  - Gewöhnlicher Wein (Karaffe)
 linter-yaml-title-alias: Gewöhnlicher Wein (Karaffe)
 ---
 # Gewöhnlicher Wein (Karaffe)

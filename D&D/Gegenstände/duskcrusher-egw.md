@@ -1,15 +1,18 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Duskcrusher
+Typ: Nahkampf-Kriegswaffe
 tags:
-  - Quelle/5e/egw
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/Waffe/Kriegswaffe
   - Gegenstand/Waffe/Nahkampf
+  - Quelle/5e/egw
 aliases:
   - Duskcrusher
+linter-yaml-title-alias: Duskcrusher
+obsidianUIMode: preview
 ---
 # Duskcrusher
 *Weapon ([warhammer](/3-Mechanics/CLI/items/warhammer-xphb.md)), very rare (requires attunement)*  

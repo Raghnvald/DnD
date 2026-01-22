@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/tftyp
-  - Monster/HG/1-4
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Tier
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Guthash
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/1-4
+  - Monster/Typ/Tier
+  - Quelle/5e/tftyp
 aliases:
   - Guthash
+linter-yaml-title-alias: Guthash
 ---
 # [Guthash](3-Mechanics\CLI\bestiary\npc/guthash-tftyp.md)
 *Source: Tales from the Yawning Portal p. 21*  

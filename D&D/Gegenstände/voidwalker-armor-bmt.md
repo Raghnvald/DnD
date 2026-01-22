@@ -1,18 +1,20 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Voidwalker Armor
+Rüstung: Leicht
 tags:
-  - Quelle/5e/bmt
-  - Gegenstand/Rüstung/Leicht
   - Gegenstand/Einstimmung/required
+  - Gegenstand/Rüstung/Leicht
   - Gegenstand/Seltenheit/selten
+  - Quelle/5e/bmt
 aliases:
   - Voidwalker Armor
+linter-yaml-title-alias: Voidwalker Armor
+obsidianUIMode: preview
 ---
 # Voidwalker Armor
 *Light armor (studded leather armor), cursed item, rare (requires attunement)*  
-
 
 - **Armor Class**: 12 + Dex modifier
 - **Properties**: Cursed

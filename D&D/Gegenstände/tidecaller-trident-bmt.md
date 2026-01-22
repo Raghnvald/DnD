@@ -1,19 +1,21 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Tidecaller Trident
+Typ: Nahkampf-Kriegswaffe
 tags:
-  - Quelle/5e/bmt
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/Waffe/Kriegswaffe
   - Gegenstand/Waffe/Nahkampf
+  - Quelle/5e/bmt
 aliases:
   - Tidecaller Trident
+linter-yaml-title-alias: Tidecaller Trident
+obsidianUIMode: preview
 ---
 # Tidecaller Trident
 *Weapon (trident), very rare (requires attunement)*  
-
 
 - **Damage**:
   - One-handed: 1d6 piercing

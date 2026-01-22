@@ -1,17 +1,18 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Hell Hound Cloak
 tags:
-  - Quelle/5e/tftyp
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
+  - Quelle/5e/tftyp
 aliases:
   - Hell Hound Cloak
+linter-yaml-title-alias: Hell Hound Cloak
+obsidianUIMode: preview
 ---
 # Hell Hound Cloak
 *Wondrous item, cursed item, rare (requires attunement)*  
-
 
 - **Properties**: Cursed
 - **Weight**: 1.0 lbs.

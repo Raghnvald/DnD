@@ -1,15 +1,15 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/bgdia
-  - Monster/HG/12
-  - Monster/Größe/Winzig
-  - Monster/Typ/Tier
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Traxigor
+tags:
+  - Monster/Größe/Winzig
+  - Monster/HG/12
+  - Monster/Typ/Tier
+  - Quelle/5e/bgdia
 aliases:
   - Traxigor
+linter-yaml-title-alias: Traxigor
 ---
 # [Traxigor](3-Mechanics\CLI\bestiary\npc/traxigor-bgdia.md)
 *Source: Baldur's Gate: Descent Into Avernus p. 50*  

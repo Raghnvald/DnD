@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/jttrc
-  - Monster/HG/1-2
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/human
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Lady Dre
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/1-2
+  - Monster/Typ/Humanoid/human
+  - Quelle/5e/jttrc
 aliases:
   - Lady Dre
+linter-yaml-title-alias: Lady Dre
 ---
 # [Lady Dre](3-Mechanics\CLI\bestiary\npc/lady-dre-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 37*  

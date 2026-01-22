@@ -1,19 +1,20 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Spear of Backbiting
 tags:
-  - Quelle/5e/tftyp
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
-  - Gegenstand/Waffe/Nahkampf
   - Gegenstand/Waffe/Einfach
+  - Gegenstand/Waffe/Nahkampf
+  - Quelle/5e/tftyp
 aliases:
   - Spear of Backbiting
+linter-yaml-title-alias: Spear of Backbiting
+obsidianUIMode: preview
 ---
 # Spear of Backbiting
 *Weapon (spear), cursed item, very rare (requires attunement)*  
-
 
 - **Damage**:
   - One-handed: 1d6 piercing

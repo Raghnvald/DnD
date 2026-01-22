@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Mace of Disruption
+Typ: Einfache Nahkampfwaffe
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten

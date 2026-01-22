@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/veor
-  - Monster/HG/6
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/any-race
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Grottenelle Stonecutter
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/6
+  - Monster/Typ/Humanoid/any-race
+  - Quelle/5e/veor
 aliases:
   - Grottenelle Stonecutter
+linter-yaml-title-alias: Grottenelle Stonecutter
 ---
 # [Grottenelle Stonecutter](3-Mechanics\CLI\bestiary\npc/grottenelle-stonecutter-veor.md)
 *Source: Vecna: Eve of Ruin*  

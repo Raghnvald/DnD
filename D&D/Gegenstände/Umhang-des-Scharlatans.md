@@ -6,8 +6,8 @@ tags:
   - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
-  - Umhang des Scharlatans
   - Cape of the Mountebank
+  - Umhang des Scharlatans
 linter-yaml-title-alias: Umhang des Scharlatans
 ---
 # Umhang des Scharlatans

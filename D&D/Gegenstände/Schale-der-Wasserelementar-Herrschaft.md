@@ -6,8 +6,8 @@ tags:
   - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
-  - Schale der Wasserelementar-Herrschaft
   - Bowl of Commanding Water Elementals
+  - Schale der Wasserelementar-Herrschaft
 linter-yaml-title-alias: Schale der Wasserelementar-Herrschaft
 ---
 # Schale der Wasserelementar-Herrschaft

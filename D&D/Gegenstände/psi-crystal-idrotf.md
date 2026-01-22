@@ -1,18 +1,19 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Psi Crystal
 tags:
-  - Quelle/5e/idrotf
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/ungewöhnlich
+  - Quelle/5e/idrotf
 aliases:
   - Psi Crystal
+linter-yaml-title-alias: Psi Crystal
+obsidianUIMode: preview
 ---
 # Psi Crystal
 *Wondrous item, uncommon (requires attunement by a creature with an intelligence score of 3 or higher)*  
 ![](/3-Mechanics/CLI/items/img/psi-crystal.webp#right)
-
 
 This crystal grants you telepathy for as long as you remain attuned to it. See the "introduction of the Monster Manual" for rules on how this telepathy works.
 

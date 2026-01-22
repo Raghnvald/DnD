@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Armor of Vulnerability (Slashing)
+Rüstung: Schwer
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Rüstung/Schwer

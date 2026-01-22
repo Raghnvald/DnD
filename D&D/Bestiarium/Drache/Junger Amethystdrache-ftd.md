@@ -1,16 +1,16 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/ftd
-  - Monster/HG/9
-  - Monster/Größe/Groß
-  - Monster/Typ/Drache/gem
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Young Amethyst Dragon
+status: WIP
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/9
+  - Monster/Typ/Drache/gem
+  - Quelle/5e/ftd
 aliases:
   - Young Amethyst Dragon
-status: WIP
+linter-yaml-title-alias: Young Amethyst Dragon
 ---
 # [Young Amethyst Dragon](3-Mechanics\CLI\bestiary\dragon/young-amethyst-dragon-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 161*  

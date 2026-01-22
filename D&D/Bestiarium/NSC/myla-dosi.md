@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/dosi
-  - Monster/HG/1-4
-  - Monster/Größe/Klein
-  - Monster/Typ/Humanoid
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Myla
+tags:
+  - Monster/Größe/Klein
+  - Monster/HG/1-4
+  - Monster/Typ/Humanoid
+  - Quelle/5e/dosi
 aliases:
   - Myla
+linter-yaml-title-alias: Myla
 ---
 # [Myla](3-Mechanics\CLI\bestiary\npc/myla-dosi.md)
 *Source: Dragons of Stormwreck Isle p. 9*  

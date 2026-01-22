@@ -1,16 +1,16 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/wdh
-  - Monster/HG/0
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/half-elf
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: 'Talisolvanar "Tally" Fellbranch'
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/0
+  - Monster/Typ/Humanoid/half-elf
+  - Quelle/5e/wdh
 aliases:
+  - 'Talisolvanar "Tally" Fellbranch'
   - Talisolvanar "Tally" Fellbranch
+linter-yaml-title-alias: 'Talisolvanar "Tally" Fellbranch'
 ---
 # [Talisolvanar "Tally" Fellbranch](3-Mechanics\CLI\bestiary\npc/talisolvanar-tally-fellbranch-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 32*  

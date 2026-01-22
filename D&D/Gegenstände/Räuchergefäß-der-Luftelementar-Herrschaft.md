@@ -6,8 +6,8 @@ tags:
   - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
-  - Rauchfass der Luftelementar-Herrschaft
   - Censer of Controlling Air Elementals
+  - Rauchfass der Luftelementar-Herrschaft
 linter-yaml-title-alias: Rauchfass der Luftelementar-Herrschaft
 ---
 #  Rauchfass der Luftelementar-Herrschaft

@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/cm
-  - Monster/HG/17
-  - Monster/Größe/Gigantisch
-  - Monster/Typ/Drache
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Dragon Tortoise
+tags:
+  - Monster/Größe/Gigantisch
+  - Monster/HG/17
+  - Monster/Typ/Drache
+  - Quelle/5e/cm
 aliases:
   - Dragon Tortoise
+linter-yaml-title-alias: Dragon Tortoise
 ---
 # [Dragon Tortoise](3-Mechanics\CLI\bestiary\dragon/dragon-tortoise-cm.md)
 *Source: Candlekeep Mysteries p. 205*  

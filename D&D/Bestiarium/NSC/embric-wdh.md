@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/wdh
-  - Monster/HG/2
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/fire-genasi
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Embric
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/2
+  - Monster/Typ/Humanoid/fire-genasi
+  - Quelle/5e/wdh
 aliases:
   - Embric
+linter-yaml-title-alias: Embric
 ---
 # [Embric](3-Mechanics\CLI\bestiary\npc/embric-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 32*  

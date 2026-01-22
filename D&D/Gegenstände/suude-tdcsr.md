@@ -1,18 +1,18 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Suude
 tags:
-  - Quelle/5e/tdcsr
   - Gegenstand/Ausrüstung/illegal-drug
   - Gegenstand/Seltenheit/unbekannt/magic
+  - Quelle/5e/tdcsr
 aliases:
   - Suude
+linter-yaml-title-alias: Suude
+obsidianUIMode: preview
 ---
 # Suude
 *Illegal drug*  
-
-
 
 Exandria's most infamous drug, [suude](/3-Mechanics/CLI/items/suude-tdcsr.md) is a glittering powder made from "residuum". It was first developed by power-hungry archmages in the "Age of Arcanum" as an incense burned to enhance focus during ritual spellcasting. The secret to its refinement has been lost and rediscovered a variety of times since the "Calamity", and many different types of [suude](/3-Mechanics/CLI/items/suude-tdcsr.md) have been developed by arcanists in search of ever-greater power. It has terrible addictive and mentally degenerative properties, even when used sparingly.
 

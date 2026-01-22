@@ -1,17 +1,17 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Wraps of Unarmed Prowess
 tags:
-  - Quelle/5e/bmt
   - Gegenstand/Seltenheit/ungewöhnlich
+  - Quelle/5e/bmt
 aliases:
   - Wraps of Unarmed Prowess
+linter-yaml-title-alias: Wraps of Unarmed Prowess
+obsidianUIMode: preview
 ---
 # Wraps of Unarmed Prowess
 *Wondrous item, uncommon*  
-
-
 
 **Items in this group:**
 

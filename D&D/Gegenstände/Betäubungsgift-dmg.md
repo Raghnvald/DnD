@@ -9,7 +9,9 @@ tags:
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/dmg
 aliases:
+  - Betäubungsgift
   - Torpor
+linter-yaml-title-alias: Betäubungsgift
 ---
 # Betäubungsgift
 *Abenteuerausrüstung, Gift (Einnahme)*  

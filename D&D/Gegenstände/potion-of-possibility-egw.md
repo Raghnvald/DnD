@@ -1,18 +1,18 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Potion of Possibility
 tags:
-  - Quelle/5e/egw
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/wundersam/Trank
+  - Quelle/5e/egw
 aliases:
   - Potion of Possibility
+linter-yaml-title-alias: Potion of Possibility
+obsidianUIMode: preview
 ---
 # Potion of Possibility
 *Potion, very rare*  
-
-
 
 When you drink this clear potion, you gain two Fragments of Possibility, each of which looks like a Tiny, grayish bead of energy that follows you around, staying within 1 foot of you at all times. Each fragment lasts for 8 hours or until used.
 

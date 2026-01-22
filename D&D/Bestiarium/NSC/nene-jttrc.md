@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/jttrc
-  - Monster/HG/0
-  - Monster/Größe/Winzig
-  - Monster/Typ/Fee
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Nene
+tags:
+  - Monster/Größe/Winzig
+  - Monster/HG/0
+  - Monster/Typ/Fee
+  - Quelle/5e/jttrc
 aliases:
   - Nene
+linter-yaml-title-alias: Nene
 ---
 # [Nene](3-Mechanics\CLI\bestiary\npc/nene-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 205*  

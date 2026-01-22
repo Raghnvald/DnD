@@ -1,13 +1,15 @@
 ---
-tags:
-  - Quelle/5e/vrgr
-  - Monster/HG/5
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Fee/Elf
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Isolde
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/5
+  - Monster/Typ/Fee/Elf
+  - Quelle/5e/vrgr
 aliases:
   - Isolde
+linter-yaml-title-alias: Isolde
 ---
 # Isolde
 *Source: Van Richten's Guide to Ravenloft p. 86*  

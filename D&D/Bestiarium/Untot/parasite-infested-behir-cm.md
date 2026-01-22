@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/cm
-  - Monster/HG/11
-  - Monster/Größe/Riesig
-  - Monster/Typ/Untote
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Parasite-infested Behir
+tags:
+  - Monster/Größe/Riesig
+  - Monster/HG/11
+  - Monster/Typ/Untote
+  - Quelle/5e/cm
 aliases:
   - Parasite-infested Behir
+linter-yaml-title-alias: Parasite-infested Behir
 ---
 # [Parasite-infested Behir](3-Mechanics\CLI\bestiary\undead/parasite-infested-behir-cm.md)
 *Source: Candlekeep Mysteries p. 220*  

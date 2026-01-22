@@ -1,20 +1,20 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/ftd
-  - Monster/HG/10
-  - Monster/Größe/Riesig
-  - Monster/Typ/Drache
 statblock: inline
 statblock-link: "#^statblock"
-aliases:
-  - Young Dragon Turtle
-Habitat:
-  - /
+Bezeichnung: Young Dragon Turtle
 Typ: Drache
 Größe: Riesig
+Habitat:
+  - /
 status: WIP
+tags:
+  - Monster/Größe/Riesig
+  - Monster/HG/10
+  - Monster/Typ/Drache
+  - Quelle/5e/ftd
+aliases:
+  - Young Dragon Turtle
+linter-yaml-title-alias: Young Dragon Turtle
 ---
 # [Young Dragon Turtle](3-Mechanics\CLI\bestiary\dragon/young-dragon-turtle-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 192*  

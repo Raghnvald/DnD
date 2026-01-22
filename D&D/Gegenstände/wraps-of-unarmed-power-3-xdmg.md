@@ -6,8 +6,8 @@ tags:
   - Gegenstand/Seltenheit/sehr_selten
   - Quelle/5e/xdmg
 aliases:
-  - +3 Wraps of Unarmed Power
   - "+3 Wraps of Unarmed Power"
+  - +3 Wraps of Unarmed Power
 linter-yaml-title-alias: +3 Wraps of Unarmed Power
 obsidianUIMode: preview
 ---

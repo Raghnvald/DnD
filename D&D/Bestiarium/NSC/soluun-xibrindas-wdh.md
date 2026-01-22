@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/wdh
-  - Monster/HG/4
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/elf
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Soluun Xibrindas
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/4
+  - Monster/Typ/Humanoid/elf
+  - Quelle/5e/wdh
 aliases:
   - Soluun Xibrindas
+linter-yaml-title-alias: Soluun Xibrindas
 ---
 # [Soluun Xibrindas](3-Mechanics\CLI\bestiary\npc/soluun-xibrindas-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 202*  

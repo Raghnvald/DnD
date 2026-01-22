@@ -1,20 +1,20 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xphb
-  - Monster/HG/
-  - Monster/Größe/Groß
-  - Monster/Typ/Drache
 statblock: inline
 statblock-link: "#^statblock"
-aliases:
-  - Draconic Spirit
+Bezeichnung: Draconic Spirit
 Typ: Drache
 Größe: Groß
-status: WIP
 Habitat:
   - /
+status: WIP
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/
+  - Monster/Typ/Drache
+  - Quelle/5e/xphb
+aliases:
+  - Draconic Spirit
+linter-yaml-title-alias: Draconic Spirit
 ---
 # [Draconic Spirit](3-Mechanics\CLI\bestiary\dragon/draconic-spirit-xphb.md)
 *Source: Player's Handbook (2024) p. 325*  

@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/veor
-  - Monster/HG/19
-  - Monster/Größe/Riesig
-  - Monster/Typ/Unhold/demon
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Camlash
+tags:
+  - Monster/Größe/Riesig
+  - Monster/HG/19
+  - Monster/Typ/Unhold/demon
+  - Quelle/5e/veor
 aliases:
   - Camlash
+linter-yaml-title-alias: Camlash
 ---
 # [Camlash](3-Mechanics\CLI\bestiary\npc/camlash-veor.md)
 *Source: Vecna: Eve of Ruin p. 181*  

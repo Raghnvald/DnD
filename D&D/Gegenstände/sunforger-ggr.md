@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Sunforger
+Typ: Nahkampf-Kriegswaffe
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten

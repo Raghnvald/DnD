@@ -2,13 +2,14 @@
 cssclasses:
   - json5e-item
 Bezeichnung: +2 Shield
+Rüstung: Schild
 tags:
   - Gegenstand/Rüstung/Schild/
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/xdmg
 aliases:
-  - +2 Shield
   - "+2 Shield"
+  - +2 Shield
 linter-yaml-title-alias: +2 Shield
 obsidianUIMode: preview
 ---

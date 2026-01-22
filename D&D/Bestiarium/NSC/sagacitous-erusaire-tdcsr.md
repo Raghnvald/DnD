@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/tdcsr
-  - Monster/HG/10
-  - Monster/Größe/Groß
-  - Monster/Typ/Monstrosität
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Sagacitous Erusaire
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/10
+  - Monster/Typ/Monstrosität
+  - Quelle/5e/tdcsr
 aliases:
   - Sagacitous Erusaire
+linter-yaml-title-alias: Sagacitous Erusaire
 ---
 # [Sagacitous Erusaire](3-Mechanics\CLI\bestiary\npc/sagacitous-erusaire-tdcsr.md)
 *Source: Tal'Dorei Campaign Setting Reborn p. 122*  

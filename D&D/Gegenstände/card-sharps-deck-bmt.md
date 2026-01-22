@@ -1,17 +1,18 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: "Card Sharp's Deck"
 tags:
-  - Quelle/5e/bmt
   - Gegenstand/Seltenheit/ungewöhnlich
+  - Quelle/5e/bmt
 aliases:
+  - "Card Sharp's Deck"
   - Card Sharp's Deck
+linter-yaml-title-alias: "Card Sharp's Deck"
+obsidianUIMode: preview
 ---
 # Card Sharp's Deck
 *Wondrous item, uncommon*  
-
-
 
 The cards of this deck shimmer around the edges. While holding this deck, you can use the following properties:
 

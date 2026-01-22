@@ -1,18 +1,20 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Draconic Longsword
+Typ: Nahkampf-Kriegswaffe
 tags:
-  - Quelle/5e/toa
   - Gegenstand/Seltenheit/unbekannt/magic
   - Gegenstand/Waffe/Kriegswaffe
   - Gegenstand/Waffe/Nahkampf
+  - Quelle/5e/toa
 aliases:
   - Draconic Longsword
+linter-yaml-title-alias: Draconic Longsword
+obsidianUIMode: preview
 ---
 # Draconic Longsword
 *Weapon (longsword)*  
-
 
 - **Damage**:
   - One-handed: 1d8 slashing

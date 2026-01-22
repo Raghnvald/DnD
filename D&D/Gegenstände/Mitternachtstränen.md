@@ -9,8 +9,8 @@ tags:
   - Gegenstand/Eigenschaft/Gift
   - Quelle/5e/dmg
 aliases:
-  - Mitternachtstränen (Einnahme)
   - Midnight Tears
+  - Mitternachtstränen (Einnahme)
 linter-yaml-title-alias: Mitternachtstränen (Einnahme)
 ---
 # Mitternachtstränen (Einnahme)

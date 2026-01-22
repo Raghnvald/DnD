@@ -1,17 +1,18 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Insect Repellent (greasy salve)
 tags:
-  - Quelle/5e/toa
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
+  - Quelle/5e/toa
 aliases:
   - Insect Repellent (greasy salve)
+linter-yaml-title-alias: Insect Repellent (greasy salve)
+obsidianUIMode: preview
 ---
 # Insect Repellent (greasy salve)
 *Adventuring gear*  
-
 
 - **Cost**: 1 gp
 

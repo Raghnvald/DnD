@@ -1,16 +1,16 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/wdh
-  - Monster/HG/4
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/elf
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: "Fel'rekt Lafeen"
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/4
+  - Monster/Typ/Humanoid/elf
+  - Quelle/5e/wdh
 aliases:
+  - "Fel'rekt Lafeen"
   - Fel'rekt Lafeen
+linter-yaml-title-alias: "Fel'rekt Lafeen"
 ---
 # [Fel'rekt Lafeen](3-Mechanics\CLI\bestiary\npc/felrekt-lafeen-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 67*  

@@ -1,16 +1,16 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/wdmm
-  - Monster/HG/1-4
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/troglodyte
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: "Kol'daan"
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/1-4
+  - Monster/Typ/Humanoid/troglodyte
+  - Quelle/5e/wdmm
 aliases:
+  - "Kol'daan"
   - Kol'daan
+linter-yaml-title-alias: "Kol'daan"
 ---
 # [Kol'daan](3-Mechanics\CLI\bestiary\npc/koldaan-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 155*  

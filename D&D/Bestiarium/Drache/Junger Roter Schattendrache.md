@@ -1,16 +1,16 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mm
-  - Monster/HG/13
-  - Monster/Habitat/Unterreich
-  - Monster/Größe/Groß
-  - Monster/Typ/Drache
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Young Red Shadow Dragon
+tags:
+  - Monster/Größe/Groß
+  - Monster/Habitat/Unterreich
+  - Monster/HG/13
+  - Monster/Typ/Drache
+  - Quelle/5e/mm
 aliases:
   - Young Red Shadow Dragon
+linter-yaml-title-alias: Young Red Shadow Dragon
 ---
 # [Young Red Shadow Dragon](3-Mechanics\CLI\bestiary\dragon/young-red-shadow-dragon.md)
 *Source: Monster Manual p. 85*  

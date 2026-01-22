@@ -12,8 +12,8 @@ tags:
   - Klasse/Paladin
   - Quelle/5e/phb
 aliases:
-  - Amulett
   - Amulet
+  - Amulett
 linter-yaml-title-alias: Amulett
 ---
 # Amulett

@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/veor
-  - Monster/HG/8
-  - Monster/Größe/Riesig
-  - Monster/Typ/Untote
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Bone Roc
+tags:
+  - Monster/Größe/Riesig
+  - Monster/HG/8
+  - Monster/Typ/Untote
+  - Quelle/5e/veor
 aliases:
   - Bone Roc
+linter-yaml-title-alias: Bone Roc
 ---
 # [Bone Roc](3-Mechanics\CLI\bestiary\undead/bone-roc-veor.md)
 *Source: Vecna: Eve of Ruin p. 211*  

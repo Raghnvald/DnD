@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/egw
-  - Monster/HG/3
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Untote
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Ferol Sal
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/3
+  - Monster/Typ/Untote
+  - Quelle/5e/egw
 aliases:
   - Ferol Sal
+linter-yaml-title-alias: Ferol Sal
 ---
 # [Ferol Sal](3-Mechanics\CLI\bestiary\npc/ferol-sal-egw.md)
 *Source: Explorer's Guide to Wildemount p. 249*  

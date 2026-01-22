@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Longbow of the Healing Hearth
+Typ: Fernkampf-Kriegswaffe
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär

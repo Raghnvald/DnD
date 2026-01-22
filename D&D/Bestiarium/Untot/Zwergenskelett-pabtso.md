@@ -1,21 +1,23 @@
 ---
-tags:
-  - Quelle/5e/pabtso
-  - Monster/HG/1-2
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Untote
 statblock: inline
 statblock-link: "#^statblock"
-aliases:
-  - Dwarf Skeleton
-Name: Zwergenskelett
-Image: undead/token/dwarf-skeleton-pabtso.webp
+Bezeichnung: Zwergenskelett
 Typ: Untoter
 Größe: Mittelgroß
 HG: 1/2
 Habitat:
   - /
 status: WIP
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/1-2
+  - Monster/Typ/Untote
+  - Quelle/5e/pabtso
+aliases:
+  - Zwergenskelett
+  - Dwarf Skeleton
+Image: undead/token/dwarf-skeleton-pabtso.webp
+linter-yaml-title-alias: Zwergenskelett
 ---
 # Zwergenskelett
 *Quellen: Phandelver and Below: The Shattered Obelisk S. 123*  

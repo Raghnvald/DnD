@@ -1,17 +1,18 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Stone of Ill Luck
 tags:
-  - Quelle/5e/tftyp
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/ungewöhnlich
+  - Quelle/5e/tftyp
 aliases:
   - Stone of Ill Luck
+linter-yaml-title-alias: Stone of Ill Luck
+obsidianUIMode: preview
 ---
 # Stone of Ill Luck
 *Wondrous item, cursed item, uncommon (requires attunement)*  
-
 
 - **Properties**: Cursed
 - **Weight**: 1.0 lbs.

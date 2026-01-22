@@ -4,8 +4,8 @@ tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/bgg
 aliases:
-  - Prehistoric Figurine of Wondrous Power, Pyrite Plesiosaurus
   - "Prehistoric Figurine of Wondrous Power, Pyrite Plesiosaurus"
+  - Prehistoric Figurine of Wondrous Power, Pyrite Plesiosaurus
 linter-yaml-title-alias: Prehistoric Figurine of Wondrous Power, Pyrite Plesiosaurus
 ---
 # Prehistoric Figurine of Wondrous Power, Pyrite Plesiosaurus

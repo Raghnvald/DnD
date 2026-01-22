@@ -3,8 +3,8 @@ cssclasses:
   - json5e-item
 Bezeichnung: Airship
 tags:
-  - Gegenstand/Seltenheit/keine
   - Gegenstand/Fortbewegung/airship-air
+  - Gegenstand/Seltenheit/keine
   - Quelle/5e/dmg
 aliases:
   - Airship

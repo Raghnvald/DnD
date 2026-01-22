@@ -1,15 +1,15 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mm
-  - Monster/HG/17
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Untote
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Death Knight
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/17
+  - Monster/Typ/Untote
+  - Quelle/5e/mm
 aliases:
   - Death Knight
+linter-yaml-title-alias: Death Knight
 ---
 # [Death Knight](3-Mechanics\CLI\bestiary\undead/death-knight.md)
 *Source: Monster Manual p. 47*  

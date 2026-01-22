@@ -1,17 +1,16 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/toa
-  - Monster/HG/4
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Monstrosität/shapechanger
-  - Monster/Typ/Monstrosität/yuan-ti
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Fenthaza
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/4
+  - Monster/Typ/Monstrosität/shapechanger
+  - Monster/Typ/Monstrosität/yuan-ti
+  - Quelle/5e/toa
 aliases:
   - Fenthaza
+linter-yaml-title-alias: Fenthaza
 ---
 # [Fenthaza](3-Mechanics\CLI\bestiary\npc/fenthaza-toa.md)
 *Source: Tomb of Annihilation p. 113*  

@@ -1,16 +1,16 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/wdh
-  - Monster/HG/7
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/elf
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: "Nar'l Xibrindas"
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/7
+  - Monster/Typ/Humanoid/elf
+  - Quelle/5e/wdh
 aliases:
+  - "Nar'l Xibrindas"
   - Nar'l Xibrindas
+linter-yaml-title-alias: "Nar'l Xibrindas"
 ---
 # [Nar'l Xibrindas](3-Mechanics\CLI\bestiary\npc/narl-xibrindas-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 211*  

@@ -5,8 +5,8 @@ tags:
   - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
-  - Trickbeutel, rostfarben
   - Bag of Tricks, Rust
+  - Trickbeutel, rostfarben
 linter-yaml-title-alias: Trickbeutel, rostfarben
 ---
 # Trickbeutel, rostfarben

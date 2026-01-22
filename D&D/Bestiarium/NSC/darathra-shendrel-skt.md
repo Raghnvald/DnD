@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/skt
-  - Monster/HG/
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/chondathan-human
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Darathra Shendrel
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/
+  - Monster/Typ/Humanoid/chondathan-human
+  - Quelle/5e/skt
 aliases:
   - Darathra Shendrel
+linter-yaml-title-alias: Darathra Shendrel
 ---
 # [Darathra Shendrel](3-Mechanics\CLI\bestiary\npc/darathra-shendrel-skt.md)
 *Source: Storm King's Thunder p. 253*  

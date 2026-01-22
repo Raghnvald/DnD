@@ -1,18 +1,20 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Baleful Talon
+Typ: Einfache Nahkampfwaffe
 tags:
-  - Quelle/5e/bmt
   - Gegenstand/Seltenheit/sehr_selten
-  - Gegenstand/Waffe/Nahkampf
   - Gegenstand/Waffe/Einfach
+  - Gegenstand/Waffe/Nahkampf
+  - Quelle/5e/bmt
 aliases:
   - Baleful Talon
+linter-yaml-title-alias: Baleful Talon
+obsidianUIMode: preview
 ---
 # Baleful Talon
 *Weapon (dagger), very rare*  
-
 
 - **Damage**: 1d4 piercing
 - **Range**: 20/60

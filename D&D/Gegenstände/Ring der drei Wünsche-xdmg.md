@@ -7,8 +7,8 @@ tags:
   - Gegenstand/wundersam/Ring
   - Quelle/5e/xdmg
 aliases:
-  - Ring of Three Wishes
   - "Ring of Three Wishes"
+  - Ring of Three Wishes
 linter-yaml-title-alias: Ring of Three Wishes
 obsidianUIMode: preview
 ---

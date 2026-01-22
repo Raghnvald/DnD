@@ -1,13 +1,16 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: "Infiltrator's Key"
 tags:
-  - Quelle/5e/egw
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
+  - Quelle/5e/egw
 aliases:
+  - "Infiltrator's Key"
   - Infiltrator's Key
+linter-yaml-title-alias: "Infiltrator's Key"
+obsidianUIMode: preview
 ---
 # Infiltrator's Key
 *Wondrous item, legendary (requires attunement)*  

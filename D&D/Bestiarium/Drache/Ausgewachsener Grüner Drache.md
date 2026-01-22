@@ -1,22 +1,22 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mm
-  - Monster/HG/15
-  - Monster/Habitat/Wald
-  - Monster/Größe/Riesig
-  - Monster/Typ/Drache
 statblock: inline
 statblock-link: "#^statblock"
-aliases:
-  - Adult Green Dragon
+Bezeichnung: Adult Green Dragon
 Typ: Drache
 Größe: Riesig
 HG: 15
-status: WIP
 Habitat:
   - Wald
+status: WIP
+tags:
+  - Monster/Größe/Riesig
+  - Monster/Habitat/Wald
+  - Monster/HG/15
+  - Monster/Typ/Drache
+  - Quelle/5e/mm
+aliases:
+  - Adult Green Dragon
+linter-yaml-title-alias: Adult Green Dragon
 ---
 # [Adult Green Dragon](3-Mechanics\CLI\bestiary\dragon/adult-green-dragon.md)
 *Source: Monster Manual p. 94. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  

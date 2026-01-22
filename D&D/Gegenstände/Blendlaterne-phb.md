@@ -11,8 +11,8 @@ tags:
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Bullseye Lantern
-linter-yaml-title-alias: Bullseye Lantern
+  - Blendlaterne
+linter-yaml-title-alias: Blendlaterne
 obsidianUIMode: preview
 ---
 # Blendlaterne

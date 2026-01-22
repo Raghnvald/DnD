@@ -1,21 +1,21 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/ftd
-  - Monster/HG/13
-  - Monster/Größe/Riesig
-  - Monster/Typ/Drache/gem
 statblock: inline
 statblock-link: "#^statblock"
-aliases:
-  - Adult Topaz Dragon
+Bezeichnung: Adult Topaz Dragon
 Typ: Drache (Edelstein)
 Größe: Riesig
 HG: 13
 Habitat:
   - /
 status: WIP
+tags:
+  - Monster/Größe/Riesig
+  - Monster/HG/13
+  - Monster/Typ/Drache/gem
+  - Quelle/5e/ftd
+aliases:
+  - Adult Topaz Dragon
+linter-yaml-title-alias: Adult Topaz Dragon
 ---
 # [Adult Topaz Dragon](3-Mechanics\CLI\bestiary\dragon/adult-topaz-dragon-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 221*  

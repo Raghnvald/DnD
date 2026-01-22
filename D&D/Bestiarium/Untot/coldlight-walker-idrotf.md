@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/idrotf
-  - Monster/HG/5
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Untote
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Coldlight Walker
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/5
+  - Monster/Typ/Untote
+  - Quelle/5e/idrotf
 aliases:
   - Coldlight Walker
+linter-yaml-title-alias: Coldlight Walker
 ---
 # [Coldlight Walker](3-Mechanics\CLI\bestiary\undead/coldlight-walker-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 284*  

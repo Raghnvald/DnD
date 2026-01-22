@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/wdh
-  - Monster/HG/0
-  - Monster/Größe/Klein
-  - Monster/Typ/Humanoid/strongheart-halfling
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Bepis Honeymaker
+tags:
+  - Monster/Größe/Klein
+  - Monster/HG/0
+  - Monster/Typ/Humanoid/strongheart-halfling
+  - Quelle/5e/wdh
 aliases:
   - Bepis Honeymaker
+linter-yaml-title-alias: Bepis Honeymaker
 ---
 # [Bepis Honeymaker](3-Mechanics\CLI\bestiary\npc/bepis-honeymaker-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 112*  

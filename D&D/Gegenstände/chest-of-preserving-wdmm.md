@@ -1,16 +1,17 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Chest of Preserving
 tags:
-  - Quelle/5e/wdmm
   - Gegenstand/Seltenheit/gewöhnlich
+  - Quelle/5e/wdmm
 aliases:
   - Chest of Preserving
+linter-yaml-title-alias: Chest of Preserving
+obsidianUIMode: preview
 ---
 # Chest of Preserving
 *Wondrous item, common*  
-
 
 - **Weight**: 25.0 lbs.
 

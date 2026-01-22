@@ -1,17 +1,17 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Dodecahedron of Doom
 tags:
-  - Quelle/5e/wdmm
   - Gegenstand/Seltenheit/selten
+  - Quelle/5e/wdmm
 aliases:
   - Dodecahedron of Doom
+linter-yaml-title-alias: Dodecahedron of Doom
+obsidianUIMode: preview
 ---
 # Dodecahedron of Doom
 *Wondrous item, rare*  
-
-
 
 This twelve-sided metal die is 12 inches across and bears the numbers 1 through 12 engraved on its pentagonal sides. The dodecahedron contains arcane clockwork mechanisms that whir and click whenever the die is cast.
 

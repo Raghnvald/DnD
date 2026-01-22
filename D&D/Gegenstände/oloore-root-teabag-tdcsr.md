@@ -1,17 +1,18 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Oloore Root Teabag
 tags:
-  - Quelle/5e/tdcsr
   - Gegenstand/Ausrüstung/illegal-drug
   - Gegenstand/Seltenheit/unbekannt
+  - Quelle/5e/tdcsr
 aliases:
   - Oloore Root Teabag
+linter-yaml-title-alias: Oloore Root Teabag
+obsidianUIMode: preview
 ---
 # Oloore Root Teabag
 *Illegal drug*  
-
 
 - **Cost**: 100 gp
 

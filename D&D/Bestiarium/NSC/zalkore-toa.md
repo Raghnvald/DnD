@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/toa
-  - Monster/HG/6
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Monstrosität
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Zalkoré
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/6
+  - Monster/Typ/Monstrosität
+  - Quelle/5e/toa
 aliases:
   - Zalkoré
+linter-yaml-title-alias: Zalkoré
 ---
 # [Zalkoré](3-Mechanics\CLI\bestiary\npc/zalkore-toa.md)
 *Source: Tomb of Annihilation p. 79*  

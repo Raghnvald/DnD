@@ -6,8 +6,8 @@ tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/xdmg
 aliases:
-  - Circlet of Blasting
   - "Circlet of Blasting"
+  - Circlet of Blasting
 linter-yaml-title-alias: Circlet of Blasting
 obsidianUIMode: preview
 ---

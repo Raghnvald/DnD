@@ -1,17 +1,18 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Tej
 tags:
-  - Quelle/5e/toa
   - Gegenstand/Ausrüstung/Essen-und-Trinken
   - Gegenstand/Seltenheit/keine
+  - Quelle/5e/toa
 aliases:
   - Tej
+linter-yaml-title-alias: Tej
+obsidianUIMode: preview
 ---
 # Tej
 *Food and drink*  
-
 
 - **Weight**: 5.0 lbs.
 

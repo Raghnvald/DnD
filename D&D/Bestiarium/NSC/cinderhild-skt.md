@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/skt
-  - Monster/HG/2
-  - Monster/Größe/Groß
-  - Monster/Typ/Riese
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Cinderhild
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/2
+  - Monster/Typ/Riese
+  - Quelle/5e/skt
 aliases:
   - Cinderhild
+linter-yaml-title-alias: Cinderhild
 ---
 # [Cinderhild](3-Mechanics\CLI\bestiary\npc/cinderhild-skt.md)
 *Source: Storm King's Thunder p. 182*  

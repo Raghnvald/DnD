@@ -6,8 +6,8 @@ tags:
   - Gegenstand/Seltenheit/gewöhnlich
   - Quelle/5e/phb
 aliases:
-  - Metallkugeln (Beutel mit 1000)
   - Ball Bearings (bag of 1,000)
+  - Metallkugeln (Beutel mit 1000)
 linter-yaml-title-alias: Metallkugeln (Beutel mit 1000)
 ---
 # Metallkugeln (Beutel mit 1000)

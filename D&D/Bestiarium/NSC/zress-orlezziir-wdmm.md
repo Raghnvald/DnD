@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/wdmm
-  - Monster/HG/9
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/elf
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Zress Orlezziir
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/9
+  - Monster/Typ/Humanoid/elf
+  - Quelle/5e/wdmm
 aliases:
   - Zress Orlezziir
+linter-yaml-title-alias: Zress Orlezziir
 ---
 # [Zress Orlezziir](3-Mechanics\CLI\bestiary\npc/zress-orlezziir-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 136*  

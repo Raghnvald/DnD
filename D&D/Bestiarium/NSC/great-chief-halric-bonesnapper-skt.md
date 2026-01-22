@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/skt
-  - Monster/HG/2
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/human
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Great Chief Halric Bonesnapper
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/2
+  - Monster/Typ/Humanoid/human
+  - Quelle/5e/skt
 aliases:
   - Great Chief Halric Bonesnapper
+linter-yaml-title-alias: Great Chief Halric Bonesnapper
 ---
 # [Great Chief Halric Bonesnapper](3-Mechanics\CLI\bestiary\npc/great-chief-halric-bonesnapper-skt.md)
 *Source: Storm King's Thunder p. 89*  

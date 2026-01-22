@@ -1,17 +1,17 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Dust of Deliciousness
 tags:
-  - Quelle/5e/egw
   - Gegenstand/Seltenheit/ungewöhnlich
+  - Quelle/5e/egw
 aliases:
   - Dust of Deliciousness
+linter-yaml-title-alias: Dust of Deliciousness
+obsidianUIMode: preview
 ---
 # Dust of Deliciousness
 *Wondrous item, uncommon*  
-
-
 
 This reddish brown dust can be sprinkled over any edible substance to greatly improve the flavor. The dust also dulls the eater's senses: anyone eating food treated with this dust has disadvantage on Wisdom ability checks and Wisdom saving throws for 1 hour. There is enough dust to flavor six servings.
 

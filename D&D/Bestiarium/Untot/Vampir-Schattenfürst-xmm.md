@@ -1,17 +1,7 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/15
-  - Monster/Habitat/Unterreich
-  - Monster/Habitat/Stadt
-  - Monster/Größe/Klein-oder-Mittelgroß
-  - Monster/Typ/Untote
 statblock: inline
 statblock-link: "#^statblock"
-aliases:
-  - Vampire Umbral Lord
+Bezeichnung: Vampire Umbral Lord
 Typ: Untoter
 Größe: M oder S
 HG: 15
@@ -19,6 +9,16 @@ Habitat:
   - Stadt
   - Unterreich
 status: WIP
+tags:
+  - Monster/Größe/Klein-oder-Mittelgroß
+  - Monster/Habitat/Stadt
+  - Monster/Habitat/Unterreich
+  - Monster/HG/15
+  - Monster/Typ/Untote
+  - Quelle/5e/xmm
+aliases:
+  - Vampire Umbral Lord
+linter-yaml-title-alias: Vampire Umbral Lord
 ---
 # [Vampire Umbral Lord](3-Mechanics\CLI\bestiary\undead/vampire-umbral-lord-xmm.md)
 *Source: Monster Manual (2024) p. 318*  
@@ -55,7 +55,6 @@ Vampires and vampire umbral lords create sanctuaries apart from the living, whet
 > [!quote] A quote from Astarion, Vampire Spawn  
 > 
 > Darling, you are simply delicious...
-
 
 ```statblock
 "name": "Vampire Umbral Lord (XMM)"

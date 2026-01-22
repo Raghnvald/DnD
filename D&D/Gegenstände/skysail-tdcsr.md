@@ -1,15 +1,17 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Skysail
 tags:
-  - Quelle/5e/tdcsr
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
-  - Gegenstand/Waffe/Nahkampf
   - Gegenstand/Waffe/Einfach
+  - Gegenstand/Waffe/Nahkampf
+  - Quelle/5e/tdcsr
 aliases:
   - Skysail
+linter-yaml-title-alias: Skysail
+obsidianUIMode: preview
 ---
 # Skysail
 *Wondrous item, weapon ([quarterstaff](/3-Mechanics/CLI/items/quarterstaff-xphb.md)), rare (requires attunement)*  

@@ -1,17 +1,18 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Ryath Root
 tags:
-  - Quelle/5e/toa
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/unbekannt
+  - Quelle/5e/toa
 aliases:
   - Ryath Root
+linter-yaml-title-alias: Ryath Root
+obsidianUIMode: preview
 ---
 # Ryath Root
 *Adventuring gear*  
-
 
 - **Cost**: 50 gp
 

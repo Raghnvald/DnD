@@ -1,16 +1,16 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/wdh
-  - Monster/HG/1-4
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/half-orc
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: "Grum'shar"
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/1-4
+  - Monster/Typ/Humanoid/half-orc
+  - Quelle/5e/wdh
 aliases:
+  - "Grum'shar"
   - Grum'shar
+linter-yaml-title-alias: "Grum'shar"
 ---
 # [Grum'shar](3-Mechanics\CLI\bestiary\npc/grumshar-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 29*  

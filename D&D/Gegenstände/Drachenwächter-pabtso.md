@@ -1,5 +1,6 @@
 ---
-Bezeichnung: Drachenwächter
+Bezeichnung: Dragonguard
+Rüstung: Mittel
 tags:
   - Gegenstand/Rüstung/Mittel
   - Gegenstand/Seltenheit/selten

@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/veor
-  - Monster/HG/9
-  - Monster/Größe/Riesig
-  - Monster/Typ/Pflanze
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Redbud
+tags:
+  - Monster/Größe/Riesig
+  - Monster/HG/9
+  - Monster/Typ/Pflanze
+  - Quelle/5e/veor
 aliases:
   - Redbud
+linter-yaml-title-alias: Redbud
 ---
 # [Redbud](3-Mechanics\CLI\bestiary\npc/redbud-veor.md)
 *Source: Vecna: Eve of Ruin*  

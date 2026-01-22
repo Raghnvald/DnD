@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/skt
-  - Monster/HG/
-  - Monster/Größe/Riesig
-  - Monster/Typ/Pflanze
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Lifferlas
+tags:
+  - Monster/Größe/Riesig
+  - Monster/HG/
+  - Monster/Typ/Pflanze
+  - Quelle/5e/skt
 aliases:
   - Lifferlas
+linter-yaml-title-alias: Lifferlas
 ---
 # [Lifferlas](3-Mechanics\CLI\bestiary\npc/lifferlas-skt.md)
 *Source: Storm King's Thunder p. 250*  

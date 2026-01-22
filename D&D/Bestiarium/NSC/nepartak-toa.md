@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/toa
-  - Monster/HG/4
-  - Monster/Größe/Winzig
-  - Monster/Typ/Untote
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Nepartak
+tags:
+  - Monster/Größe/Winzig
+  - Monster/HG/4
+  - Monster/Typ/Untote
+  - Quelle/5e/toa
 aliases:
   - Nepartak
+linter-yaml-title-alias: Nepartak
 ---
 # [Nepartak](3-Mechanics\CLI\bestiary\npc/nepartak-toa.md)
 *Source: Tomb of Annihilation p. 137*  

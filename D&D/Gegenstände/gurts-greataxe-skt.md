@@ -1,19 +1,22 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: "Gurt's Greataxe"
+Typ: Nahkampf-Kriegswaffe
 tags:
-  - Quelle/5e/skt
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
   - Gegenstand/Waffe/Kriegswaffe
   - Gegenstand/Waffe/Nahkampf
+  - Quelle/5e/skt
 aliases:
+  - "Gurt's Greataxe"
   - Gurt's Greataxe
+linter-yaml-title-alias: "Gurt's Greataxe"
+obsidianUIMode: preview
 ---
 # Gurt's Greataxe
 *Weapon (greataxe), legendary (requires attunement)*  
-
 
 - **Damage**: 3d12 slashing
 - **Properties**: Heavy, Two-Handed

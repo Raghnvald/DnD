@@ -2,9 +2,13 @@
 cssclasses: dnd5e-compendium
 Bezeichnung: Dämonenrüstung
 Typ: Rüstung
+Rüstung: Schwer
 Eigenschaften: erfordert Einstimmung
 Kst.: n/v
 Gew.: 32,5 kg
+RK: 18
+STR: 15
+Heiml.: Nachteil
 tags:
   - Gegenstand/Einstimmung
   - Gegenstand/Rüstung/Schwer
@@ -12,10 +16,6 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Demon Armor
-Heiml.: Nachteil
-RK: 18
-Rüstung: Schwer
-STR: 15
 ---
 # Dämonenrüstung
 *Rüstung (Ritterrüstung), sehr selten (erfordert Einstimmung)*  

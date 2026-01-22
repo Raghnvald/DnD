@@ -1,13 +1,16 @@
 ---
-tags:
-  - Quelle/5e/mpmm
-  - Monster/HG/23
-  - Monster/Größe/Groß
-  - Monster/Typ/Unhold/demon
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: "Fraz-Urb'luu"
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/23
+  - Monster/Typ/Unhold/demon
+  - Quelle/5e/mpmm
 aliases:
+  - "Fraz-Urb'luu"
   - Fraz-Urb'luu
+linter-yaml-title-alias: "Fraz-Urb'luu"
 ---
 # Fraz-Urb'luu
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 129*  

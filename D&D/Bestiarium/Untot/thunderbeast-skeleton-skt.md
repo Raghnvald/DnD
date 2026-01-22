@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/skt
-  - Monster/HG/3
-  - Monster/Größe/Riesig
-  - Monster/Typ/Untote
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Thunderbeast Skeleton
+tags:
+  - Monster/Größe/Riesig
+  - Monster/HG/3
+  - Monster/Typ/Untote
+  - Quelle/5e/skt
 aliases:
   - Thunderbeast Skeleton
+linter-yaml-title-alias: Thunderbeast Skeleton
 ---
 # [Thunderbeast Skeleton](3-Mechanics\CLI\bestiary\undead/thunderbeast-skeleton-skt.md)
 *Source: Storm King's Thunder p. 99*  

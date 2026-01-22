@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/jttrc
-  - Monster/HG/2
-  - Monster/Größe/Groß
-  - Monster/Typ/Untote
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Dinosaur Skeleton
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/2
+  - Monster/Typ/Untote
+  - Quelle/5e/jttrc
 aliases:
   - Dinosaur Skeleton
+linter-yaml-title-alias: Dinosaur Skeleton
 ---
 # [Dinosaur Skeleton](3-Mechanics\CLI\bestiary\undead/dinosaur-skeleton-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 57*  

@@ -1,17 +1,16 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/bmt
-  - Monster/HG/18
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Monstrosität/druid
-  - Monster/Typ/Monstrosität/medusa
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Euryale
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/18
+  - Monster/Typ/Monstrosität/druid
+  - Monster/Typ/Monstrosität/medusa
+  - Quelle/5e/bmt
 aliases:
   - Euryale
+linter-yaml-title-alias: Euryale
 ---
 # [Euryale](3-Mechanics\CLI\bestiary\npc/euryale-bmt.md)
 *Source: The Book of Many Things p. 189*  

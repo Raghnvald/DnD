@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/dosi
-  - Monster/HG/1
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/human
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Tarak
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/1
+  - Monster/Typ/Humanoid/human
+  - Quelle/5e/dosi
 aliases:
   - Tarak
+linter-yaml-title-alias: Tarak
 ---
 # [Tarak](3-Mechanics\CLI\bestiary\npc/tarak-dosi.md)
 *Source: Dragons of Stormwreck Isle p. 47*  

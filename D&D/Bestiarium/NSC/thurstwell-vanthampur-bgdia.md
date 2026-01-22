@@ -1,15 +1,15 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/bgdia
-  - Monster/HG/1-8
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/human
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Thurstwell Vanthampur
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/1-8
+  - Monster/Typ/Humanoid/human
+  - Quelle/5e/bgdia
 aliases:
   - Thurstwell Vanthampur
+linter-yaml-title-alias: Thurstwell Vanthampur
 ---
 # [Thurstwell Vanthampur](3-Mechanics\CLI\bestiary\npc/thurstwell-vanthampur-bgdia.md)
 *Source: Baldur's Gate: Descent Into Avernus p. 34*  

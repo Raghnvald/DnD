@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mcv4ec
-  - Monster/HG/12
-  - Monster/Größe/Riesig
-  - Monster/Typ/Untote
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Specter of Night
+tags:
+  - Monster/Größe/Riesig
+  - Monster/HG/12
+  - Monster/Typ/Untote
+  - Quelle/5e/mcv4ec
 aliases:
   - Specter of Night
+linter-yaml-title-alias: Specter of Night
 ---
 # [Specter of Night](3-Mechanics\CLI\bestiary\undead/specter-of-night-mcv4ec.md)
 *Source: Monstrous Compendium Volume 4: Eldraine Creatures*  

@@ -1,17 +1,18 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Bracelet of Rock Magic
 tags:
-  - Quelle/5e/tftyp
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
+  - Quelle/5e/tftyp
 aliases:
   - Bracelet of Rock Magic
+linter-yaml-title-alias: Bracelet of Rock Magic
+obsidianUIMode: preview
 ---
 # Bracelet of Rock Magic
 *Wondrous item, cursed item, very rare (requires attunement)*  
-
 
 - **Properties**: Cursed
 - **Weight**: 1.0 lbs.

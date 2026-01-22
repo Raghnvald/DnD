@@ -1,17 +1,17 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Vox Seeker
 tags:
-  - Quelle/5e/egw
   - Gegenstand/Seltenheit/gewöhnlich
+  - Quelle/5e/egw
 aliases:
   - Vox Seeker
+linter-yaml-title-alias: Vox Seeker
+obsidianUIMode: preview
 ---
 # Vox Seeker
 *Wondrous item, common*  
-
-
 
 This clockwork device resembles a metal crab the size of a dinner plate. Every action used to wind up the device allows it to operate for 1 minute, to a maximum of 10 minutes. While operational, the item uses the accompanying [Vox Seeker](/3-Mechanics/CLI/bestiary/construct/vox-seeker-egw.md) stat block. This automaton is under the DM's control. A vox seeker reduced to 0 hit points is destroyed.
 

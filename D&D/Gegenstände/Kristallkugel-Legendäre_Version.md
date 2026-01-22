@@ -1,14 +1,14 @@
 ---
 cssclasses:
   - json5e-item
-Bezeichnung: Crystal Ball (Legendary Version)
+Bezeichnung: Kristallkugel (Legendäre Version)
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
   - Quelle/5e/dmg
 aliases:
-  - Crystal Ball (Legendary Version)
-linter-yaml-title-alias: Crystal Ball (Legendary Version)
+  - Kristallkugel (Legendäre Version)
+linter-yaml-title-alias: Kristallkugel (Legendäre Version)
 ---
 # Kristallkugel (Legendäre Version)
 *Wundersamer Gegenstand, legendär (benötigt Einstimmung)*  

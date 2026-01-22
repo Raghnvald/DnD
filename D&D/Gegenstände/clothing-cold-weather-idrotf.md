@@ -1,17 +1,18 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Clothing, cold weather
 tags:
-  - Quelle/5e/idrotf
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
+  - Quelle/5e/idrotf
 aliases:
   - Clothing, cold weather
+linter-yaml-title-alias: Clothing, cold weather
+obsidianUIMode: preview
 ---
 # Clothing, cold weather
 *Adventuring gear*  
-
 
 - **Cost**: 10 gp
 - **Weight**: 5.0 lbs.

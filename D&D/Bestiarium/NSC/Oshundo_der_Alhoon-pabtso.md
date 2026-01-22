@@ -1,16 +1,17 @@
 ---
-Name: Oshundo der Alhoon
-Image: npc/token/oshundo-the-alhoon-pabtso.webp
-tags:
-  - Quelle/5e/pabtso
-  - Monster/HG/10
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Untote/mind-flayer
-  - Monster/Typ/Untote/wizard
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Oshundo the Alhoon
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/10
+  - Monster/Typ/Untote/mind-flayer
+  - Monster/Typ/Untote/wizard
+  - Quelle/5e/pabtso
 aliases:
   - Oshundo the Alhoon
+Image: npc/token/oshundo-the-alhoon-pabtso.webp
+linter-yaml-title-alias: Oshundo the Alhoon
 ---
 # Oshundo the Alhoon
 *Source: Phandelver and Below: The Shattered Obelisk p. 153*  

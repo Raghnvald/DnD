@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/gos
-  - Monster/HG/1
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/human
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Sanbalet
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/1
+  - Monster/Typ/Humanoid/human
+  - Quelle/5e/gos
 aliases:
   - Sanbalet
+linter-yaml-title-alias: Sanbalet
 ---
 # [Sanbalet](3-Mechanics\CLI\bestiary\npc/sanbalet-gos.md)
 *Source: Ghosts of Saltmarsh p. 252*  

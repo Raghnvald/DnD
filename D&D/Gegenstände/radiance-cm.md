@@ -1,19 +1,19 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Radiance
 tags:
-  - Quelle/5e/cm
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/unbekannt/magic
   - Gegenstand/wundersam/wand
+  - Quelle/5e/cm
 aliases:
   - Radiance
+linter-yaml-title-alias: Radiance
+obsidianUIMode: preview
 ---
 # Radiance
 *Wand (requires attunement by a spellcaster)*  
-
-
 
 While holding this wand, you gain a +1 bonus to spell attack rolls. In addition, you ignore half cover when making a spell attack. Radiance is in the form of an exquisite golden hand mirror.
 

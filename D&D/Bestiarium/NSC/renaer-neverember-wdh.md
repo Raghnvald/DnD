@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/wdh
-  - Monster/HG/3
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/illuskan-human
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Renaer Neverember
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/3
+  - Monster/Typ/Humanoid/illuskan-human
+  - Quelle/5e/wdh
 aliases:
   - Renaer Neverember
+linter-yaml-title-alias: Renaer Neverember
 ---
 # [Renaer Neverember](3-Mechanics\CLI\bestiary\npc/renaer-neverember-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 215*  

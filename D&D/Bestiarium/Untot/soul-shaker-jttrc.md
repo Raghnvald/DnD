@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/jttrc
-  - Monster/HG/4
-  - Monster/Größe/Groß
-  - Monster/Typ/Untote
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Soul Shaker
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/4
+  - Monster/Typ/Untote
+  - Quelle/5e/jttrc
 aliases:
   - Soul Shaker
+linter-yaml-title-alias: Soul Shaker
 ---
 # [Soul Shaker](3-Mechanics\CLI\bestiary\undead/soul-shaker-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 47*  

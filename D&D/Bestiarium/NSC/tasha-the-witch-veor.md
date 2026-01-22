@@ -1,17 +1,16 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/veor
-  - Monster/HG/19
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/human
-  - Monster/Typ/Humanoid/wizard
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Tasha the Witch
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/19
+  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/wizard
+  - Quelle/5e/veor
 aliases:
   - Tasha the Witch
+linter-yaml-title-alias: Tasha the Witch
 ---
 # [Tasha the Witch](3-Mechanics\CLI\bestiary\npc/tasha-the-witch-veor.md)
 *Source: Vecna: Eve of Ruin p. 252*  

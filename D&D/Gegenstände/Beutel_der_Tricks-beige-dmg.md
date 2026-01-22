@@ -5,8 +5,8 @@ tags:
   - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
-  - Trickbeutel, beige
   - Bag of Tricks, Tan
+  - Trickbeutel, beige
 linter-yaml-title-alias: Trickbeutel, beige
 ---
 # Trickbeutel, beige

@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/wdmm
-  - Monster/HG/5
-  - Monster/Größe/Groß
-  - Monster/Typ/Untote
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Nerozar the Defeated
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/5
+  - Monster/Typ/Untote
+  - Quelle/5e/wdmm
 aliases:
   - Nerozar the Defeated
+linter-yaml-title-alias: Nerozar the Defeated
 ---
 # [Nerozar the Defeated](3-Mechanics\CLI\bestiary\npc/nerozar-the-defeated-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 52*  

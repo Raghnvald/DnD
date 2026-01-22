@@ -7,8 +7,8 @@ tags:
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xdmg
 aliases:
-  - Flaschenverschluss-Korken, geprägt mit Blattgold und mit Amethysten besetzt
   - Bottle stopper cork embossed with gold leaf and set with amethysts
+  - Flaschenverschluss-Korken, geprägt mit Blattgold und mit Amethysten besetzt
 linter-yaml-title-alias: Flaschenverschluss-Korken, geprägt mit Blattgold und mit Amethysten besetzt
 obsidianUIMode: preview
 ---

@@ -1,24 +1,25 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Clockwork Armor
+Rüstung: Schwer
 tags:
-  - Quelle/5e/bmt
-  - Gegenstand/Rüstung/Schwer
   - Gegenstand/Einstimmung/required
+  - Gegenstand/Rüstung/Schwer
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/wundersam/generic-variant
+  - Quelle/5e/bmt
 aliases:
   - Clockwork Armor
   - Clockwork Chain Mail
   - Clockwork Plate Armor
   - Clockwork Ring Mail
   - Clockwork Splint Armor
+linter-yaml-title-alias: Clockwork Armor
+obsidianUIMode: preview
 ---
 # Clockwork Armor
 *Very rare (requires attunement)*  
-
-
 
 The outside surface and internal joints of this armor whir with interlocking gears, drawing on the orderly magic of the plane of Mechanus.
 
@@ -56,6 +57,5 @@ The armor has 4 charges. If you make a `dice:d20|noform|noparens|avg` (`d20`) ro
 - **Strength**: Requires 15 STR.
 - **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
 - **Weight**: 60.0 lbs.
-
 
 *Source: The Book of Many Things p. 67*

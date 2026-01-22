@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mcv4ec
-  - Monster/HG/5
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Untote
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Deathless Rider
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/5
+  - Monster/Typ/Untote
+  - Quelle/5e/mcv4ec
 aliases:
   - Deathless Rider
+linter-yaml-title-alias: Deathless Rider
 ---
 # [Deathless Rider](3-Mechanics\CLI\bestiary\undead/deathless-rider-mcv4ec.md)
 *Source: Monstrous Compendium Volume 4: Eldraine Creatures*  
@@ -26,7 +25,6 @@ A typical deathless rider's mount is a warhorse skeleton, though some lich-knigh
 > [!quote] A quote from Scalan, Edgewall innkeeper  
 > 
 > Headed to the wilds? Beware the dead riders who serve the Shadow Queen.
-
 
 ```statblock
 "name": "Deathless Rider (MCV4EC)"

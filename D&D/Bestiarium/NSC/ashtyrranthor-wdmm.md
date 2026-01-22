@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/wdmm
-  - Monster/HG/17
-  - Monster/Größe/Riesig
-  - Monster/Typ/Drache
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Ashtyrranthor
+tags:
+  - Monster/Größe/Riesig
+  - Monster/HG/17
+  - Monster/Typ/Drache
+  - Quelle/5e/wdmm
 aliases:
   - Ashtyrranthor
+linter-yaml-title-alias: Ashtyrranthor
 ---
 # [Ashtyrranthor](3-Mechanics\CLI\bestiary\npc/ashtyrranthor-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 210*  

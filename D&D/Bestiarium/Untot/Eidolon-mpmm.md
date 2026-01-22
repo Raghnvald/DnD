@@ -1,21 +1,7 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mpmm
-  - Monster/HG/12
-  - Monster/Habitat/Küste
-  - Monster/Habitat/Wüste
-  - Monster/Habitat/Wald
-  - Monster/Habitat/Grasland
-  - Monster/Habitat/Berg
-  - Monster/Habitat/Stadt
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Untote
 statblock: inline
 statblock-link: "#^statblock"
-aliases:
-  - Eidolon
+Bezeichnung: Eidolon
 Typ: Untoter
 Größe: Mittelgroß
 HG: "12"
@@ -27,6 +13,20 @@ Habitat:
   - Wald
   - Wüste
 status: WIP
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Berg
+  - Monster/Habitat/Grasland
+  - Monster/Habitat/Küste
+  - Monster/Habitat/Stadt
+  - Monster/Habitat/Wald
+  - Monster/Habitat/Wüste
+  - Monster/HG/12
+  - Monster/Typ/Untote
+  - Quelle/5e/mpmm
+aliases:
+  - Eidolon
+linter-yaml-title-alias: Eidolon
 ---
 # [Eidolon](3-Mechanics\CLI\bestiary\undead/eidolon-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 114*  

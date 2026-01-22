@@ -1,17 +1,18 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Fates Card
 tags:
-  - Quelle/5e/bmt
   - Gegenstand/Seltenheit/legendär
+  - Quelle/5e/bmt
 aliases:
   - Fates Card
+linter-yaml-title-alias: Fates Card
+obsidianUIMode: preview
 ---
 # Fates Card
 *Wondrous item, legendary*  
 ![](/3-Mechanics/CLI/decks/img/deck-of-many-things-08-fates.webp#right)
-
 
 As a bonus action, you can brandish this card at one willing creature you can see within 30 feet of yourself, granting the creature a brief glimpse of the future. Until the start of your next turn, the creature has advantage on attack rolls, ability checks, and saving throws. Additionally, other creatures have disadvantage on attack rolls against the target for the duration. Once this property is used, it can't be used again until the next dawn.
 

@@ -9,8 +9,8 @@ tags:
   - Gegenstand/Seltenheit/gewöhnlich
   - Quelle/5e/phb
 aliases:
-  - Cow
   - "Cow"
+  - Cow
 linter-yaml-title-alias: Cow
 ---
 # Cow

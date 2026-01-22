@@ -1,18 +1,18 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-item
+Bezeichnung: Flamefriend Lantern
 tags:
-  - Quelle/5e/tdcsr
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
+  - Quelle/5e/tdcsr
 aliases:
   - Flamefriend Lantern
+linter-yaml-title-alias: Flamefriend Lantern
+obsidianUIMode: preview
 ---
 # Flamefriend Lantern
 *Wondrous item, rare (requires attunement)*  
-
-
 
 > [!quote] A quote from Talus Naj  
 > 

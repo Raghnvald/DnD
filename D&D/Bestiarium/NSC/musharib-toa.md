@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/toa
-  - Monster/HG/1
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/dwarf
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Musharib
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/1
+  - Monster/Typ/Humanoid/dwarf
+  - Quelle/5e/toa
 aliases:
   - Musharib
+linter-yaml-title-alias: Musharib
 ---
 # [Musharib](3-Mechanics\CLI\bestiary\npc/musharib-toa.md)
 *Source: Tomb of Annihilation p. 34*  

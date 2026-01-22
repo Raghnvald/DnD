@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/skt
-  - Monster/HG/0
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Riese
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Kaaltar
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/0
+  - Monster/Typ/Riese
+  - Quelle/5e/skt
 aliases:
   - Kaaltar
+linter-yaml-title-alias: Kaaltar
 ---
 # [Kaaltar](3-Mechanics\CLI\bestiary\npc/kaaltar-skt.md)
 *Source: Storm King's Thunder p. 197*  

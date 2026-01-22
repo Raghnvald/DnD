@@ -2,6 +2,14 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Bronze Dragon Scale Mail
+Typ: Rüstung
+Rüstung: Mittel
+Eigenschaften: n/v
+Kst.: 4.000 GM
+Gew.: 20,0 kg
+RK: 14 + GES (max +2)
+STR: n/v
+Heiml.: Nachteil
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Rüstung/Mittel

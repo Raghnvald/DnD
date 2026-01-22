@@ -4,8 +4,8 @@ tags:
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/bgg
 aliases:
-  - Prehistoric Figurine of Wondrous Power, Kyanite Pteranodon
   - "Prehistoric Figurine of Wondrous Power, Kyanite Pteranodon"
+  - Prehistoric Figurine of Wondrous Power, Kyanite Pteranodon
 linter-yaml-title-alias: Prehistoric Figurine of Wondrous Power, Kyanite Pteranodon
 ---
 # Prehistoric Figurine of Wondrous Power, Kyanite Pteranodon

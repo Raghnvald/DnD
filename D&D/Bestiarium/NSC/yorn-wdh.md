@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/wdh
-  - Monster/HG/1-2
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/half-orc
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Yorn
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/1-2
+  - Monster/Typ/Humanoid/half-orc
+  - Quelle/5e/wdh
 aliases:
   - Yorn
+linter-yaml-title-alias: Yorn
 ---
 # [Yorn](3-Mechanics\CLI\bestiary\npc/yorn-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 150*  

@@ -1,17 +1,17 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mm
-  - Monster/HG/21
-  - Monster/Habitat/Sumpf
-  - Monster/Größe/Gigantisch
-  - Monster/Typ/Drache
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Ancient Black Dragon
+Typ: Drache
+tags:
+  - Monster/Größe/Gigantisch
+  - Monster/Habitat/Sumpf
+  - Monster/HG/21
+  - Monster/Typ/Drache
+  - Quelle/5e/mm
 aliases:
   - Ancient Black Dragon
-Typ: Drache
+linter-yaml-title-alias: Ancient Black Dragon
 ---
 # [Ancient Black Dragon](3-Mechanics\CLI\bestiary\dragon/ancient-black-dragon.md)
 *Source: Monster Manual p. 87. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  

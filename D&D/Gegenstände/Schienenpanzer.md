@@ -2,19 +2,19 @@
 cssclasses: dnd5e-compendium
 Bezeichnung: Schienenpanzer
 Typ: Rüstung
+Rüstung: Schwer
 Eigenschaften: n/v
 Kst.: 200 GM
 Gew.: 30,0 kg
+RK: 17
+STR: 15
+Heiml.: Nachteil
 tags:
   - Gegenstand/Rüstung/Schwer
   - Gegenstand/Seltenheit/gewöhnlich
   - Quelle/5e/phb
 aliases:
   - Splint Armor
-Heiml.: Nachteil
-RK: 17
-Rüstung: Schwer
-STR: 15
 ---
 # Schienenpanzer
 *Rüstung (schwer), gewöhnlich*  

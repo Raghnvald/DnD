@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Mace of Terror
+Typ: Einfache Nahkampfwaffe
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten

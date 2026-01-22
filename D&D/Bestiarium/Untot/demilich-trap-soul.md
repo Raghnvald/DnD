@@ -1,15 +1,15 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mm
-  - Monster/HG/21
-  - Monster/Größe/Winzig
-  - Monster/Typ/Untote
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Demilich (Trap Soul)
+tags:
+  - Monster/Größe/Winzig
+  - Monster/HG/21
+  - Monster/Typ/Untote
+  - Quelle/5e/mm
 aliases:
   - Demilich (Trap Soul)
+linter-yaml-title-alias: Demilich (Trap Soul)
 ---
 # [Demilich (Trap Soul)](3-Mechanics\CLI\bestiary\undead/demilich-trap-soul.md)
 *Source: Monster Manual p. 48*  

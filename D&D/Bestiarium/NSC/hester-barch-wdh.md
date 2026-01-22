@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/wdh
-  - Monster/HG/1-4
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/human
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Hester Barch
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/1-4
+  - Monster/Typ/Humanoid/human
+  - Quelle/5e/wdh
 aliases:
   - Hester Barch
+linter-yaml-title-alias: Hester Barch
 ---
 # [Hester Barch](3-Mechanics\CLI\bestiary\npc/hester-barch-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 83*  

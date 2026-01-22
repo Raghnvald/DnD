@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/skt
-  - Monster/HG/
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/illuskan-human
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Beldora
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/
+  - Monster/Typ/Humanoid/illuskan-human
+  - Quelle/5e/skt
 aliases:
   - Beldora
+linter-yaml-title-alias: Beldora
 ---
 # [Beldora](3-Mechanics\CLI\bestiary\npc/beldora-skt.md)
 *Source: Storm King's Thunder p. 249*  

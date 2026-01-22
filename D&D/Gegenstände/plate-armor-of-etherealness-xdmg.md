@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Plate Armor of Etherealness
+Rüstung: Schwer
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Rüstung/Schwer

@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Frost Brand
+Typ: Nahkampf-Kriegswaffe
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten

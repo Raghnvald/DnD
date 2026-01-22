@@ -6,8 +6,8 @@ tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/xdmg
 aliases:
-  - Bag of Tricks
   - "Bag of Tricks"
+  - Bag of Tricks
 linter-yaml-title-alias: Bag of Tricks
 obsidianUIMode: preview
 ---

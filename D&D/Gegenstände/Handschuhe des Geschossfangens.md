@@ -7,8 +7,8 @@ tags:
   - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
-  - Handschuhe-des-Geschossfangens
   - Gloves of Missile Snaring
+  - Handschuhe-des-Geschossfangens
 linter-yaml-title-alias: Handschuhe-des-Geschossfangens
 ---
 # Handschuhe-des-Geschossfangens
