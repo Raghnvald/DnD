@@ -1,15 +1,14 @@
 ---
 cssclasses:
   - json5e-item
-Bezeichnung: "Assassin's Blood"
+Bezeichnung: Assassin's Blood
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xdmg
 aliases:
-  - "Assassin's Blood"
   - Assassin's Blood
-linter-yaml-title-alias: "Assassin's Blood"
+linter-yaml-title-alias: Assassin's Blood
 ---
 # Assassin's Blood
 *Adventuring gear, poison (ingested)*  

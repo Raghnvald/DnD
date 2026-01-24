@@ -11,7 +11,6 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Amulet of Proof against Detection and Location
-  - Amulett des Schutzes gegen Ortung und Ausspähung
 linter-yaml-title-alias: Amulett des Schutzes gegen Ortung und Ausspähung
 ---
 # Amulett des Schutzes gegen Ortung und Ausspähung

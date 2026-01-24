@@ -2,6 +2,29 @@ filters:
   and:
     - '!file.name.endsWith("-xphb")'
     - '!file.name.endsWith("-xdmg")'
+    - '!file.name.endsWith("-egw")'
+    - '!file.name.endsWith("-tdcsr")'
+    - '!file.name.endsWith("-bmt")'
+    - '!file.name.endsWith("-cm")'
+    - and:
+        - '!file.name.contains("-Drachenschuppen-P")'
+        - '!file.name.contains("_Drachenschuppen-P")'
+        - and:
+            - '!file.name.contains("des_Widerstands-b")'
+            - '!file.name.contains("des_Widerstands-e")'
+            - '!file.name.contains("des_Widerstands-f")'
+            - '!file.name.contains("des_Widerstands-g")'
+            - '!file.name.contains("des_Widerstands-k")'
+            - '!file.name.contains("des_Widerstands-n")'
+            - '!file.name.contains("des_Widerstands-p")'
+            - '!file.name.contains("des_Widerstands-s")'
+            - '!file.name.contains("der_Verwundbarkeit-h")'
+            - '!file.name.contains("der_Verwundbarkeit-s")'
+            - '!file.name.contains("der_Verwundbarkeit-w")'
+            - and:
+                - '!file.name.contains("1")'
+                - '!file.name.contains("2")'
+                - '!file.name.contains("3")'
 formulas:
   Untitled: link(file.asLink(),icon(“receipt”))
   Untitled 2: link(file, Bezeichnung)
@@ -24,7 +47,10 @@ views:
       direction: ASC
     order:
       - formula.Untitled 2
-    sort: []
+      - file.name
+    sort:
+      - property: formula.Untitled 2
+        direction: ASC
     columnSize:
       note.Kst.: 88
       note.RK: 150

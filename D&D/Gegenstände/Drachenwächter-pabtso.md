@@ -1,6 +1,13 @@
 ---
-Bezeichnung: Dragonguard
+Bezeichnung: Drachenwächter
+Typ: Rüstung
 Rüstung: Mittel
+Eigenschaften: /
+Kst.: /
+Gew.: 10,0 kg
+RK: 14 + GES (max +2)
+STR: /
+Heiml.: /
 tags:
   - Gegenstand/Rüstung/Mittel
   - Gegenstand/Seltenheit/selten
@@ -9,11 +16,11 @@ aliases:
   - Dragonguard
 linter-yaml-title-alias: Dragonguard
 ---
-# Dragonguard
-*Medium armor ([breastplate](Brustplatte-xphb.md)), rare*  
+# Drachenwächter
+*Rüstung ([[Brustplatte-phb|Brustplatte]]), selten*  
 
-- **Armor Class**: 14 + Dex modifier (max of +2)
-- **Weight**: 20.0 lbs.
+- **Rüstungsklasse**: 14 + GES (max +2)
+- **Gewicht:** 10,0 kg
 
 You have a +1 bonus to AC while wearing this armor.
 

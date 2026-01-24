@@ -11,7 +11,6 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Assassin's Blood
-  - Assassinenblut
 linter-yaml-title-alias: Assassinenblut
 ---
 # Assassinenblut

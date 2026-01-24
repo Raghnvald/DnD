@@ -1,8 +1,13 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Scale Mail
+Bezeichnung: Schuppenpanzer
+Typ: Rüstung
 Rüstung: Mittel
+Eigenschaften: /
+Kst.: 50 GM
+Gew.: 22,5 kg
+RK: 14 + GES (max +2)
+STR: /
+Heiml.: /
 tags:
   - Gegenstand/Rüstung/Mittel
   - Gegenstand/Seltenheit/keine
@@ -11,15 +16,14 @@ aliases:
   - "Scale Mail"
   - Scale Mail
 linter-yaml-title-alias: Scale Mail
-obsidianUIMode: preview
 ---
-# Scale Mail
-*Medium armor*  
+# Schuppenpanzer
+*Rüstung (mittelschwer), gewöhnlich*  
 
-- **Armor Class**: 14 + Dex modifier (max of +2)
-- **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
-- **Cost**: 50 gp
-- **Weight**: 45.0 lbs.
+- **Rüstungsklasse**: 14 + GES (max +2)
+- **Heimlichkeit:** Nachteil
+- **Kosten:** 50 Goldmünzen
+- **Gewicht:** 22,5 kg
 
 This armor consists of a coat and leggings (and perhaps a separate skirt) of leather covered with overlapping pieces of metal, much like the scales of a fish. The suit includes gauntlets.
 

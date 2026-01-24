@@ -10,8 +10,7 @@ tags:
   - Gegenstand/Seltenheit/gewöhnlich
   - Quelle/5e/phb
 aliases:
-  - "Basic Poison (vial)"
-  - Giftphiole, einfach
+  - Basic Poison (vial)
 linter-yaml-title-alias: Giftphiole, einfach
 ---
 # Giftphiole, einfach

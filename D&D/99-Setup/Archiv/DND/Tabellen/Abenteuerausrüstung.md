@@ -33,7 +33,7 @@ _Quellen:_ Spielerhandbuch
 | [[Totem]]                                                                        |     1 GM |              — |
 | [[Eibenzauberstab]]                                                              |    10 GM |        0,5 kg. |
 |                                                                                  |          |                |
-| [[Eimer]]                                                                        |     5 KM |        1,0 kg. |
+| [[Eimer-old]]                                                                        |     5 KM |        1,0 kg. |
 | [[Eisenstacheln-10\|Eisenstachel (10)]]                                          |     1 GM |        2,5 kg. |
 | [[Enterhaken]]                                                                   |     2 GM |        2,0 kg. |
 | [[Fackel]]                                                                       |     1 KM |        0,5 kg. |
@@ -41,12 +41,12 @@ _Quellen:_ Spielerhandbuch
 | [[Fass]]                                                                         |     2 GM |       35,0 kg. |
 | [[Fernglas]]                                                                     | 1,000 GM |        0,5 kg. |
 | [Flasche, Glas](Glasflasche.md)                                                  |     2 GM |        1,0 kg. |
-| [[Becher]] oder [[Humpen]]                                                       |     2 KM |        0,5 kg. |
+| [[Becher-old]] oder [[Humpen]]                                                       |     2 KM |        0,5 kg. |
 | [[Flaschenzug]]                                                                  |     1 GM |        2,5 kg. |
 | [[Gegengiftphiole]]                                                              |    50 GM |              — |
 | [[Giftmischerwerkzeug]]                                                          |    50 GM |        1,0 kg. |
 | [Giftphiole, einfach](Giftphiole-einfach.md)                      |   100 GM |              — |
-| [[Glocke]]                                                                       |     1 GM |              — |
+| [[Glocke-old]]                                                                       |     1 GM |              — |
 | [[Hammer]]                                                                       |     1 GM |        1,5 kg. |
 | [Hammer, Vorschlaghammer](Vorschlaghammer.md)                     |     2 GM |        5,0 kg. |
 | [[Handschellen]]                                                                 |     2 GM |        3,0 kg. |
@@ -58,19 +58,19 @@ _Quellen:_ Spielerhandbuch
 |                                                                                  |          |                |
 | [Heiltrank](Heiltrank.md)                                         |    50 GM |       0,25 kg. |
 | [Jagdfalle](Jagdfalle.md)                                         |     5 GM |       17,5 kg. |
-| [Kerze](Kerze.md)                                                 |     1 KM |              — |
-| [Kette (3 Meter)](Kette-3-Meter.md)                               |     5 GM |        5,0 kg. |
+| [Kerze-old](Kerze-old.md)                                                 |     1 KM |              — |
+| [Kette (3 Meter)](Kette-3-Meter-old.md)                               |     5 GM |        5,0 kg. |
 | [Kleidung, fein](Kleidung-fein.md)                                |    15 GM |        3,0 kg. |
 | [Kleidung, für Reisen](Kleidung-für-Reisen.md)                    |     2 GM |        2,0 kg. |
-| [Kleidung, gewöhnlich](Kleidung-gewöhnlich.md)                    |     5 SM |        1,5 kg. |
+| [Kleidung, gewöhnlich](Kleidung-gewöhnlich-old.md)                    |     5 SM |        1,5 kg. |
 | [Kleidung, Kostüm](Kleidung-Kostüm.md)                            |     5 GM |        2,0 kg. |
-| [Kletterausrüstung](Kletterausrüstung.md)                         |    25 GM |        6,0 kg. |
+| [Kletterausrüstung-old](Kletterausrüstung-old.md)                         |    25 GM |        6,0 kg. |
 | [Kletterhaken](Kletterhaken.md)                                   |     5 KM |      0,125 kg. |
 | [Köcher](Köcher.md)                                               |     1 GM |        0,5 kg. |
-| [Korb](Korb.md)                                                   |     4 SM |        1,0 kg. |
+| [Korb-old](Korb-old.md)                                                   |     4 SM |        1,0 kg. |
 | [Krähenfüße (Beutel mit 20)](Krähenfüße-Beutel-mit-20.md)         |     1 GM |        1,0 kg. |
 | [Kräuterkunde-Ausrüstung](Kräuterkunde-Ausrüstung.md)               |     5 GM |        1,5 kg. |
-| [Kreide (1 Stück)](Kreide-1-Stück.md)                             |     1 KM |              — |
+| [Kreide (1 Stück)](Kreide-1-Stück-old.md)                             |     1 KM |              — |
 | [Tonkrug](Tonkrug.md) oder [Karaffe](Karaffe.md)                                 |     2 KM |        2,0 kg. |
 | [Lampe](Lampe.md)                                                 |     5 SM |        0,5 kg. |
 | [Laterne (abdeckbar)](Abdeckbare-Laterne.md)                                   |     5 GM |        1,0 kg. |
@@ -97,9 +97,9 @@ _Quellen:_ Spielerhandbuch
 | [Rucksack](../Gegenstände/Rucksack.md)                                           |     2 GM |       2,5 kg.. |
 | [sack](sack.md)                                                   |     1 KM |       0,25 kg. |
 | [Sanduhr](Sanduhr.md)                                             |    25 GM |        0,5 kg. |
-| [Säurephiole](Säurephiole.md)                                     |    25 GM |        0,5 kg. |
+| [Säurephiole-phb](Säurephiole-phb.md)                                     |    25 GM |        0,5 kg. |
 | [Schaufel](Schaufel.md)                                           |     2 GM |        2,5 kg. |
-| [Schlafsack](Schlafsack.md)                                       |     1 GM |        3,5 kg. |
+| [Schlafsack-old](Schlafsack-old.md)                                       |     1 GM |        3,5 kg. |
 | [Schloss](Schloss.md)                                             |    10 GM |        0,5 kg. |
 | [Schreibfeder](ink-pen.md)                                        |     2 KM |              — |
 | [Seife](Seife.md)                                                 |     2 KM |              — |
@@ -113,7 +113,7 @@ _Quellen:_ Spielerhandbuch
 | [Stange (3 Meter)](pole-10-foot.md)                               |     5 KM |        3,5 kg. |
 | [Tinte (Flasche, 30 ml)](ink-1-ounce-bottle.md)                   |    10 GM |              — |
 | [Topf (Eisen)](iron-pot-phb.md)                                       |     2 GM |        5,0 kg. |
-| [Kiste](Kiste.md)                                                                |     5 GM |       12,5 kg. |
+| [Kiste-old](Kiste-old.md)                                                                |     5 GM |       12,5 kg. |
 | [Verkleidungsausrüstung](Verkleidungsausrüstung.md)               |    25 GM |        1,5 kg. |
 | [Waage, (Kaufmannswaage)](Kaufmannswaage-phb.md)                     |     5 GM |        1,5 kg. |
 | [Wasserschlauch](Wasserschlauch.md)                               |     2 SM | 2,5 kg. (voll) |

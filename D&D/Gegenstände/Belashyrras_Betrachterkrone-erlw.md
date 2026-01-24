@@ -1,15 +1,14 @@
 ---
 cssclasses:
   - json5e-item
-Bezeichnung: "Belashyrra's Beholder Crown"
+Bezeichnung: Belashyrra's Beholder Crown
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
   - Quelle/5e/erlw
 aliases:
-  - "Belashyrra's Beholder Crown"
   - Belashyrra's Beholder Crown
-linter-yaml-title-alias: "Belashyrra's Beholder Crown"
+linter-yaml-title-alias: Belashyrra's Beholder Crown
 obsidianUIMode: preview
 ---
 # Belashyrra's Beholder Crown

@@ -10,7 +10,6 @@ tags:
   - Quelle/5e/xdmg
 aliases:
   - Amulet of Health
-  - Amulett der Gesundheit
 linter-yaml-title-alias: Amulett der Gesundheit
 ---
 # Amulett der Gesundheit

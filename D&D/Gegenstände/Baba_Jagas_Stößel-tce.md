@@ -1,5 +1,5 @@
 ---
-Bezeichnung: "Baba Yaga's Pestle"
+Bezeichnung: Baba Yaga's Pestle
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/Artefakt
@@ -7,9 +7,8 @@ tags:
   - Gegenstand/Waffe/Nahkampf
   - Quelle/5e/tce
 aliases:
-  - "Baba Yaga's Pestle"
   - Baba Yaga's Pestle
-linter-yaml-title-alias: "Baba Yaga's Pestle"
+linter-yaml-title-alias: Baba Yaga's Pestle
 ---
 # Baba Yaga's Pestle
 *Weapon ([quarterstaff](/3-Mechanics/CLI/items/quarterstaff-xphb.md)), artifact (requires attunement)*  

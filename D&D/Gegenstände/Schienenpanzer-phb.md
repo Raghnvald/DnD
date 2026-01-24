@@ -1,8 +1,13 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Splint Armor
+Bezeichnung: Schienenpanzer
+Typ: Rüstung
 Rüstung: Schwer
+Eigenschaften: n/v
+Kst.: 200 GM
+Gew.: 30,0 kg
+RK: 17
+STR: 15
+Heiml.: Nachteil
 tags:
   - Gegenstand/Rüstung/Schwer
   - Gegenstand/Seltenheit/keine
@@ -11,17 +16,16 @@ aliases:
   - "Splint Armor"
   - Splint Armor
 linter-yaml-title-alias: Splint Armor
-obsidianUIMode: preview
 ---
-# Splint Armor
-*Heavy armor*  
+# Schienenpanzer
+*Schwere Rüstung*  
 
-- **Armor Class**: 17
-- **Strength**: Requires 15 STR.
-- **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
-- **Cost**: 200 gp
-- **Weight**: 60.0 lbs.
+- **Rüstungsklasse**: 17
+- **Stärke:** 15
+- **Heimlichkeit:** Nachteil
+- **Kosten:** 200 Goldmünzen
+- **Gewicht:** 30,0 kg
 
-This armor is made of narrow vertical strips of metal riveted to a backing of leather that is worn over cloth padding. Flexible chain mail protects the joints.
+Diese Rüstung besteht aus schmalen, länglichen Metallstreifen, die auf eine Lederschicht genietet sind und über einer wattierten Kleidungsschicht getragen werden. Ein flexibler Kettenpanzer schützt die Gelenke.
 
 *Quellen: Spielerhandbuch S. 144. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)* 

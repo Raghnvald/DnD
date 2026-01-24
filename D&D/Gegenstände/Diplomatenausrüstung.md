@@ -26,7 +26,7 @@ _Quellen:_ Spielerhandbuch
 
 Beinhaltet:
 
-- eine [[Kiste]]
+- eine [[Kiste-old]]
 - 2 [[Karten-oder-Schriftrollenbehälter|Behälter für Karten und Schriftrollen]]  
 - ein Satz [[Kleidung-fein|feiner Kleidung]]  
 - eine [Flasche mit Tinte](ink-1-ounce-bottle.md)  

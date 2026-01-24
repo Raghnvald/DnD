@@ -2,6 +2,12 @@
 Bezeichnung: Adamantrüstung
 Typ: Rüstung
 Rüstung: Mittel oder Schwer
+Eigenschaften: /
+Kst.: /
+Gew.: /
+RK: /
+STR: /
+Heiml.: /
 tags:
   - Gegenstand/Rüstung/Mittel
   - Gegenstand/Rüstung/Schwer

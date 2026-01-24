@@ -1,10 +1,10 @@
 ---
 Bezeichnung: Berserkeraxt
-Typ: Beliebige Nahkampfwaffe
-Schaden: variabel
-Eigenschaften: variabel
-Kst.: n/v
-Gew.: n/a
+Typ: Nahkampf-Kriegswaffe (generisch)
+Schaden: /
+Eigenschaften: /
+Kst.: /
+Gew.: /
 tags:
   - Gegenstand/Einstimmung
   - Gegenstand/Seltenheit/selten
@@ -19,12 +19,14 @@ linter-yaml-title-alias: Berserkeraxt
 _Waffe (beliebige Streitaxt, Zweihandaxt oder Hellebarde), selten (erfordert Einstimmung)_
 <img src="berserker-axe.webp" align="right" width="150">
 
-Du erhältst einen Bonus von +1 auf Angriffs- und Schadenswürfe, die du mit dieser magischen Waffe ausführst. Wenn du auf diese Waffe eingestimmt bist, erhöht sich dein Trefferpunktemaximum außerdem für jede Stufe, die du erreicht hast, um 1.
+Du erhältst einen Bonus von +1 auf Angriffs- und Schadenswürfe, die mit dieser magischen Waffe ausgeführt werden. Darüber hinaus erhöht sich dein Trefferpunktemaximum, während du auf diese Waffe eingestimmt bist, um 1 für jede Stufe, die du erreicht hast.
 
-## Fluch
-Diese Axt ist verflucht, und wenn du dich auf sie einstimmst, geht der Fluch auf dich über. Solange du verflucht bist, bist du nicht bereit, dich von der Axt zu trennen. Du behältst sie stets in Reichweite. Außerdem bist du bei Angriffswürfen mit anderen Waffen als dieser im Nachteil, es sei denn, es befinden sich im Abstand von bis zu 18 Metern von dir keine Gegner, die du sehen oder hören kannst.
+## Verflucht
+Diese Axt ist verflucht, und dich darauf einzustimmen, verbreitet den Fluch auf dich. Solange du verflucht bleibst, bist du nicht bereit, dich von der Axt zu trennen und hältst sie zu allen Zeiten in deiner Nähe. Du hast einen Nachteil auf Angriffs- und Schadenswürfe, die du mit anderen Waffen als dieser tätigst, es sei denn, es befindet sich kein Feind innerhalb von 18 Meter zu dir, den du sehen oder hören kannst.
 
-Wenn eine feindlich gesinnte Kreatur dir Schaden zufügt, während du die Axt besitzt, musst du einen SG-15-Weisheitsrettungswurf bestehen, oder du wirst rasend. Während du rasend bist, musst du deine Aktion in jeder Runde verwenden, um die Kreatur, die dir am nächsten ist, mit der Axt anzugreifen. Falls zu deiner Angriffsaktion zusätzliche Angriffe gehören, verwendest du diese zusätzlichen Angriffe. Wenn du dein aktuelles Ziel niedergestreckt hast, gehst du zur zweitnächsten Kreatur über. Wenn du mehrere mögliche Ziele hast, greifst du zufällig eins davon an. Du bist rasend, bist du deinen Zug beginnst, ohne dass sich Kreaturen im Abstand von bis zu 18 Metern von dir befinden, die du sehen oder hören kannst.
+Immer, wenn eine feindliche Kreatur dir Schaden zufügt, während die Axt in deinem Besitz ist, musst du einen `Weisheitsrettungswurf` gegen `SG 15` schaffen oder du wirst zum Berserker. Während du ein Berserker bist, musst du jede Aktion benutzen, um die Kreatur anzugreifen, die sich am nächsten zu dir und deiner Axt befindet. Wenn du zusätzliche Angriffe ausführen kannst als Teil der Angriffsaktion, verwendest du diese zusätzlichen Angriffe, um die nächste Kreatur anzugreifen, insofern du dein aktuelles Ziel zu Boden gebracht hast. Wenn du mehrere mögliche Ziele hast, greifst du willkürlich eins davon an.
+
+Du bist solange Berserker, bis sich keine Kreaturen innerhalb von 18 Meter zu dir befinden, die du sehen oder hören kannst.
 
 **Applicable Weapons:**
 

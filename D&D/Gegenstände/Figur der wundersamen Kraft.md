@@ -75,4 +75,4 @@ Diese Onyxfigur eines Hundes kann für bis zu 6 Stunden zu einer Dogge werden. D
 Diese Serpentinfigur einer Eule kann für bis zu 8 Stunden zu einer Rieseneule werden. Wenn sie benutzt wurde, kann sie nicht erneut verwendet werden, bis 2 Tage verstrichen sind. Die Eule kann telepathisch mit dir kommunizieren, wenn ihr beide auf derselben Ebene seid.
 
 ## Silber-Rabe (ungewöhnlich)
-Diese Silberfigur eines Raben kann bis zu 12 Stunden zu einem Raben werden. Wenn sie benutzt wurde, kann sie nicht erneut verwendet werden, bis 2 Tage verstrichen sind. Während sie in Rabenform ist, erlaubt dir, die Figur nach Belieben den Zauber [[Tierbote]] zu wirken.
+Diese Silberfigur eines Raben kann bis zu 12 Stunden zu einem Raben werden. Wenn sie benutzt wurde, kann sie nicht erneut verwendet werden, bis 2 Tage verstrichen sind. Während sie in Rabenform ist, erlaubt dir, die Figur nach Belieben den Zauber [[Tierbote-old]] zu wirken.

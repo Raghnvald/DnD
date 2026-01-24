@@ -10,7 +10,6 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Ale (Mug)
-  - Bier (Humpen)
 linter-yaml-title-alias: Bier (Humpen)
 ---
 # Bier (Humpen)

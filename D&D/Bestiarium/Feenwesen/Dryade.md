@@ -143,7 +143,7 @@ forest
 > 
 > **jeweils 1/Tag**: [Rindenhaut-phb](Rindenhaut-phb.md), [Lautloses Gehen](Kompendium/Zauber/Lautloses-Gehen.md), [Shillelagh-phb](Shillelagh-phb.md)
 > 
-> **jeweils 3/Tag**: [Gute_Beeren-old](Gute_Beeren-old.md), [Spurloses Gehen-old](Spurloses%20Gehen-old.md)
+> **jeweils 3/Tag**: [Gute_Beeren-old](Gute_Beeren-old.md), [Spurloses_Gehen-old](Spurloses_Gehen-old.md)
 > ## Aktionen
 > 
 > ***Keule.*** *Melee Weapon Attack:* +2 to hit (+6 to hit with shillelagh), reach 5 ft., one target. *Hit:* 2 (`1W4`) bludgeoning damage, or 8 (`1W8 + 4`) bludgeoning damage with shillelagh.

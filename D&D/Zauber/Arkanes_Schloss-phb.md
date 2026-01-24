@@ -32,7 +32,7 @@ linter-yaml-title-alias: Arkanes Schloss
 - **Komponenten:** V, G, M (Goldstaub im Wert von mindestens 25 Gold, den der Zauberspruch verbraucht)
 - **Wirkungsdauer:** bis der Zauber gebannt wird
 
-Du berührst eine geschlossene Tür, ein Fenster, Tor, eine Kiste oder einen anderen Eingang, der für die Wirkungsdauer versiegelt wird. Du und andere Kreaturen, die du beim Wirken des Zaubers festlegst, können den Gegenstand normal öffnen. Du kannst auch ein Passwort festlegen, dass den Zauber für 1 Minute unterdrückt, wenn es innerhalb von 1,5 m um den Gegenstand ausgesprochen wird. Ansonsten ist der Durchgang nicht zu passieren, bis er zerstört oder der Zauber gebannt wird. [[Klopfen]] auf den Gegenstand zu wirken, unterdrückt [[Arkanes_Schloss-phb]] für 10 Minuten.
+Du berührst eine geschlossene Tür, ein Fenster, Tor, eine Kiste oder einen anderen Eingang, der für die Wirkungsdauer versiegelt wird. Du und andere Kreaturen, die du beim Wirken des Zaubers festlegst, können den Gegenstand normal öffnen. Du kannst auch ein Passwort festlegen, dass den Zauber für 1 Minute unterdrückt, wenn es innerhalb von 1,5 m um den Gegenstand ausgesprochen wird. Ansonsten ist der Durchgang nicht zu passieren, bis er zerstört oder der Zauber gebannt wird. [[Klopfen-phb]] auf den Gegenstand zu wirken, unterdrückt [[Arkanes_Schloss-phb]] für 10 Minuten.
 
 Solange der Gegenstand von diesem Zauber betroffen wird, ist er schwieriger zu zerstören oder aufzubrechen: Der SG eines Wurfes, um den Gegenstand zu zerbrechen oder zu knacken, steigt um 10.
 

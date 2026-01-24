@@ -6,7 +6,6 @@ tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/xdmg
 aliases:
-  - "+1 Wraps of Unarmed Power"
   - +1 Wraps of Unarmed Power
 linter-yaml-title-alias: +1 Wraps of Unarmed Power
 obsidianUIMode: preview

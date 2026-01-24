@@ -1,13 +1,12 @@
 ---
-Bezeichnung: "Bigby's Beneficent Bracelet"
+Bezeichnung: Bigby's Beneficent Bracelet
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/Artefakt
   - Quelle/5e/bgg
 aliases:
-  - "Bigby's Beneficent Bracelet"
   - Bigby's Beneficent Bracelet
-linter-yaml-title-alias: "Bigby's Beneficent Bracelet"
+linter-yaml-title-alias: Bigby's Beneficent Bracelet
 ---
 # Bigby's Beneficent Bracelet
 *Wondrous item, artifact (requires attunement)*  

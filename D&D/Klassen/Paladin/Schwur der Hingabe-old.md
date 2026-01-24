@@ -53,7 +53,7 @@ Auf den angegebenen Paladinstufen erhältst du die folgenden Schwurzauber.
 | 5 | [[Schwache Genesung]], [[Zone der Wahrheit]] |
 | 9 | [[Leuchtfeuer_der_Hoffnung-phb]], [[Magie_bannen-old]] |
 | 13 | [[Bewegungsfreiheit]], [[Hüter des Glaubens]] |
-| 17 | [[Heiliges_Gespräch]], [[Flammenschlag-phb]] |
+| 17 | [[Heiliges_Gespräch-old]], [[Flammenschlag-phb]] |
 ^oath-of-devotion-spells
 
 ### Göttliche Macht fokussieren (Stufe 3)

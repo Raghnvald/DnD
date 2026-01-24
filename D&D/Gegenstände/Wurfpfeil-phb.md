@@ -1,7 +1,5 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Dart
+Bezeichnung: Wurfpfeil
 Typ: Einfache Fernkampfwaffe
 tags:
   - Gegenstand/Seltenheit/keine
@@ -11,9 +9,8 @@ tags:
 aliases:
   - Dart
 linter-yaml-title-alias: Dart
-obsidianUIMode: preview
 ---
-# Dart
+# Wurfpfeil
 *Weapon*  
 
 - **Damage**: 1d4 piercing

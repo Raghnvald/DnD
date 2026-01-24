@@ -2,12 +2,12 @@
 Bezeichnung: Kettenhemd
 Typ: Rüstung
 Rüstung: Mittel
-Eigenschaften: n/v
+Eigenschaften: /
 Kst.: 50 GM
 Gew.: 10,0 kg
 RK: 13 + GES (max +2)
-STR: n/v
-Heiml.: n/v
+STR: /
+Heiml.: /
 tags:
   - Gegenstand/Rüstung/Mittel
   - Gegenstand/Seltenheit/keine

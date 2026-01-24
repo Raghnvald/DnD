@@ -2,12 +2,12 @@
 Bezeichnung: "Lederrüstung "
 Typ: Rüstung
 Rüstung: Leicht
-Eigenschaften: n/v
+Eigenschaften: /
 Kst.: 10 GM
 Gew.: 5,0 kg
 RK: 11 + GES
-STR: n/v
-Heiml.: n/v
+STR: /
+Heiml.: /
 tags:
   - Gegenstand/Rüstung/Leicht
   - Gegenstand/Seltenheit/keine

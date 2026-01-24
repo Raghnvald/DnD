@@ -1,7 +1,18 @@
 ---
 Bezeichnung: Rüstung des Widerstands
+Typ: Rüstung
+Rüstung: Leicht, Mittel oder Schwer
+Eigenschaften: /
+Kst.: /
+Gew.: /
+RK: /
+STR: /
+Heiml.: /
 tags:
   - Gegenstand/Einstimmung/required
+  - Gegenstand/Rüstung/Leicht
+  - Gegenstand/Rüstung/Mittel
+  - Gegenstand/Rüstung/Schwer
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam/generic-variant
   - Quelle/5e/dmg
@@ -12,6 +23,7 @@ linter-yaml-title-alias: Rüstung des Widerstands
 # Rüstung des Widerstands
 *Rüstung (leicht, mittelschwer oder schwer), selten (benötigt Einstimmung)*  
 ![](Gegenstände/img/armor-of-resistance.webp#right)
+
 
 Du hast Resistenz gegen eine Schadensart, solange du diese Rüstung trägst. Der SL bestimmt die Schadensart oder wählt sie nach der folgenden Tabelle zufällig aus.
 

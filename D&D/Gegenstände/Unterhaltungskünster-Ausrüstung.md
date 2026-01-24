@@ -27,9 +27,9 @@ _Quellen:_ Spielerhandbuch
 Beinhaltet:
 
 - ein [Rucksack-phb](Rucksack-phb.md)  
-- ein [Schlafsack](Schlafsack.md)  
+- ein [Schlafsack-old](Schlafsack-old.md)  
 - 2 [Verkleidungsausrüstungen](Kleidung-Kostüm.md)  
-- 5 [Kerzen](Kerze.md)  
+- 5 [Kerzen](Kerze-old.md)  
 - 5 [Tagesrationen](Tagesration.md)  
 - ein [Wasserschlauch](Wasserschlauch.md)  
 - ein [Verkleidungsausrüstung](Verkleidungsausrüstung.md) 

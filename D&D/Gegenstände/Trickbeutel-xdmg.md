@@ -1,24 +1,20 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Bag of Tricks
+Bezeichnung: Trickbeutel
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/xdmg
 aliases:
-  - "Bag of Tricks"
   - Bag of Tricks
 linter-yaml-title-alias: Bag of Tricks
-obsidianUIMode: preview
 ---
-# Bag of Tricks
-*Wondrous item, uncommon*  
-![](/3-Mechanics/CLI/items/img/bag-of-tricks.webp#right)
+# Trickbeutel
+*Wundersamer Gegenstand, ungewöhnlich*  
+<img src="bag-of-tricks.webp" align="right" width="150">
 
 **Items in this group:**
 
-- [Bag of Tricks, Gray](/3-Mechanics/CLI/items/bag-of-tricks-gray-xdmg.md)
-- [Bag of Tricks, Rust](/3-Mechanics/CLI/items/bag-of-tricks-rust-xdmg.md)
-- [Bag of Tricks, Tan](/3-Mechanics/CLI/items/bag-of-tricks-tan-xdmg.md)
+- [[Trickbeutel-grau-xdmg|Trickbeutel, grau]]
+- [[Trickbeutel-rost-xdmg|Trickbeutel, rostfarben]]
+- [[Trickbeutel-beige-xdmg|Trickbeutel, beige]]
 
 *Source: Dungeon Master's Guide (2024) p. 234. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

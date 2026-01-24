@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Armor of Safeguarding
+Bezeichnung: Rüstung des Bewahrens
 Rüstung: Schwer
 tags:
   - Gegenstand/Einstimmung/required
@@ -15,7 +15,7 @@ aliases:
   - Splint Armor of Safeguarding
 linter-yaml-title-alias: Armor of Safeguarding
 ---
-# Armor of Safeguarding
+# Rüstung des Bewahrens
 *Very rare (requires attunement)*  
 
 Set in the center of this armor's chest is a citrine engraved with the shield rune.

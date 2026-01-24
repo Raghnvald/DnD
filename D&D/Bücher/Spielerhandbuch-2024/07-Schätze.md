@@ -809,7 +809,7 @@ Wenn sein Träger sich weigert, den Forderungen des Gegenstands nachzukommen, ka
 | 23-24 | [Elementarjuwel](Gegenstände/.md)                                                                                                                                                  |
 | 29-30 | [Figur der wundersamen Kraft (Silberner Rabe)](Figur_der_wundersamen_Kraft-Silber-Rabe-dmg.md)                                                                             |
 | 09    | [Fliegender Besen](05%20-%20Wikipedia/Gegenstände/Fliegender-Besen.md)                                                                                                                                |
-| 00    | [Geflügelte Stiefel](Geflügelte%20Stiefel-dmg.md)                                                                                                                                  |
+| 00    | [Geflügelte Stiefel](Geflügelte_Stiefel-dmg.md)                                                                                                                                  |
 | 41-42 | [Halskette der Anpassung](Halskette%20der%20Anpassung-dmg.md)                                                                                                                   |
 | 36    | [Helm der Telepathie](05%20-%20Wikipedia/Gegenstände/helm-of-telepathy.md)                                                                                                                            |
 | 35    | [Helm des Sprachenverstehens](05%20-%20Wikipedia/Gegenstände/Helm-des-Sprachenverstehens.md)                                                                                                          |

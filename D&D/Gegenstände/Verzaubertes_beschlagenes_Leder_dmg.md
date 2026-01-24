@@ -1,8 +1,13 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Glamoured Studded Leather
+Bezeichnung: Verzaubertes beschlagenes Leder
+Typ: Rüstung
 Rüstung: Leicht
+Eigenschaften: /
+Kst.: 45 GM
+Gew.: 7,5 kg
+RK: 12 + GES
+STR: /
+Heiml.: /
 tags:
   - Gegenstand/Rüstung/Leicht
   - Gegenstand/Seltenheit/selten
@@ -10,14 +15,15 @@ tags:
 aliases:
   - Glamoured Studded Leather
 linter-yaml-title-alias: Glamoured Studded Leather
-obsidianUIMode: preview
 ---
-# Glamoured Studded Leather
-*Light armor, major, rare*  
+# Verzaubertes beschlagenes Leder
+*Rüstung ([[Beschlagene_Lederrüstung-phb|beschlagenes Leder]]), selten*  
 
-- **Armor Class**: 12 + Dex modifier
-- **Weight**: 13.0 lbs.
+- **Rüstungsklasse**: 12 + GES Modifikator
+- **Gewicht**: 7,5 kg.
 
-While wearing this armor, you gain a +1 bonus to AC. You can also use a bonus action to speak the armor's command word and cause the armor to assume the appearance of a normal set of clothing or some other kind of armor. You decide what it looks like, including color, style, and accessories, but the armor retains its normal bulk and weight. The illusory appearance lasts until you use this property again or remove the armor.
+Während du diese Rüstung trägst, hast du einen Bonus von + 1 auf deine Rüstungsklasse.
+
+$\quad$Du kannst als eine Bonusaktion das Befehlswort der Rüstung sprechen und bewirken, dass die Rüstung das Aussehen eines normalen Kleidungsstückes oder das einer anderen Rüstung annimmt. Du bestimmst, wie sie aussehen soll, inklusive Farbe, Stil und Accessoires, aber die Rüstung behält ihre normale Größe und ihr normales Gewicht. Die illusionäre Erscheinung bleibt bestehen, bis du die Eigenschaft erneut auslöst oder die Rüstung entfernst.
 
 *Source: Dungeon Master's Guide p. 172. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

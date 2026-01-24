@@ -1,8 +1,13 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Sapphire Buckler
+Bezeichnung: Saphirbeschützer
+Typ: Rüstung
 Rüstung: Schild
+Eigenschaften: /
+Kst.: /
+Gew.: 3,0 kg
+RK: 2
+STR: /
+Heiml.: /
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Rüstung/Schild/
@@ -12,14 +17,14 @@ aliases:
   - Sapphire Buckler
 linter-yaml-title-alias: Sapphire Buckler
 ---
-# Sapphire Buckler
-*Armor ([shield](/3-Mechanics/CLI/items/shield-xphb.md)), very rare (requires attunement)*  
+# Saphirbeschützer
+*Rüstung ([[Gegenstände/Schild-phb|Schild]]), sehr selten (erfordert Einstimmung)*  
 
-- **Armor Class**: 2
-- **Weight**: 6.0 lbs.
+- **Rüstungsklasse**: 2
+- **Gewicht**: 3,0 kg.
 
-This crystalline blue shield is fashioned from a sapphire dragon's scale and is created to aid in rooting out the influence of Aberrations. While wielding the shield, you have resistance to psychic and thunder damage. Also, when you take damage from a creature that is within 5 feet of you, you can use your reaction to deal `2d6` thunder damage to that creature.
+Dieser kristalline blaue Schild ist aus der Schuppe eines Saphirdrachen gefertigt und für den Kampf gegen Aberrationen geschaffen. Solange du den Schild führst, bist du gegen psychischen und Schallschaden resistent. Wenn du außerdem Schaden durch eine Kreatur im Abstand von bis zu 1,5 Metern von dir erleidest, kannst du deine Reaktion nutzen, um der Kreatur `2W6` Schallschaden zuzufügen.
 
-As an action, you can use the shield to help you locate Aberrations until the end of your next turn. If any Aberrations are within 1 mile of you, the shield emits a low humming tone for a moment, and you know the direction of all Aberrations within that range. Once this property is used, it can't be used again until the next dawn.
+$\quad$Als Aktion kannst du bis zum Ende deines nächsten Zugs den Schild nutzen, um Aberrationen zu finden. Wenn sich im Abstand von bis zu 1,6 Kilometern von dir Aberrationen befinden, gibt der Schild kurz ein tiefes Summen von sich, und du kennst die Richtung aller Aberrationen innerhalb dieses Bereichs. Hast du diese Eigenschaft verwendet, kannst du dies erst im nächsten Morgengrauen erneut tun.
 
 *Source: Fizban's Treasury of Dragons p. 24*

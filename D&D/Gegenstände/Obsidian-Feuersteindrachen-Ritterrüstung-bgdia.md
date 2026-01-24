@@ -1,7 +1,5 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Obsidian Flint Dragon Plate
+Bezeichnung: Obsidian-Feuersteindrachen-Ritterrüstung
 Rüstung: Schwer
 tags:
   - Gegenstand/Rüstung/Schwer
@@ -11,7 +9,7 @@ aliases:
   - Obsidian Flint Dragon Plate
 linter-yaml-title-alias: Obsidian Flint Dragon Plate
 ---
-# Obsidian Flint Dragon Plate
+# Obsidian-Feuersteindrachen-Ritterrüstung
 *Heavy armor ([plate armor](/3-Mechanics/CLI/items/plate-armor-xphb.md)), legendary*  
 
 - **Armor Class**: 18

@@ -6,8 +6,8 @@ Eigenschaften: Erfordert Einstimmung
 Kst.: /
 Gew.: 3,0 kg
 RK: 2
-STR: n/v
-Heiml.: n/v
+STR: /
+Heiml.: /
 tags:
   - Gegenstand/Einstimmung
   - Gegenstand/Rüstung/Schild
@@ -19,13 +19,12 @@ aliases:
 linter-yaml-title-alias: Belebter Schild
 ---
 # Belebter Schild
-*Rüstung (Schild), sehr selten (erfordert Einstimmung)*  
+*Rüstung ([[Gegenstände/Schild-phb|Schild]]), sehr selten (erfordert Einstimmung)*  
 <img src="animated-shield.webp" align="right" width="150">
 
 - **Rüstungsklasse**: 2
-- **Kosten:** 6.000 Goldmünzen
 - **Gewicht:** 3,0 kg
 
-Während du diesen Schild hältst, kannst du sein Befehlswort als Bonusaktion sprechen, um ihn zum Leben zu erwecken. Der Schild springt in die Luft und schwebt in deinem Bereich, um dich zu schützen, als würdest du ihn halten, wobei deine Hände frei bleiben. Der Schild bleibt 1 Minute lang belebt, bis du eine Bonusaktion verwendest, um diesen Effekt zu beenden, oder bis du [handlungsunfähig](rules/conditions.md#incapacitated) wirst oder stirbst, woraufhin der Schild auf den Boden oder in deine Hand fällt, falls du eine frei hast.
+Während du diesen Schild trägst, kannst du als eine Bonusaktion sein Befehlswort sprechen, um ihn zu beleben. Der Schild wird dann in die Luft springen und in deiner Präsenz schweben, um dich zu schützen, als ob du ihn halten würdest, wobei er deine Hände frei lässt. Der Schild bleibt 1 Minute lang belebt, oder bis du eine Bonusaktion nutzt, um den Effekt zu beenden, oder bis du [[01-Spielleiter/Zustände-phb#Kampfunfähig|kampfunfähig]] wirst oder stirbst, woraufhin der Schild zu Boden oder, insofern eine frei ist, in deine Hand fallen wird.
 
 *Quelle: Spielleiterhandbuch S. 151. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span>*

@@ -10,7 +10,6 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Alchemist's Supplies
-  - Alchemistenausrüstung
 linter-yaml-title-alias: Alchemistenausrüstung
 ---
 # Alchemistenausrüstung

@@ -27,7 +27,7 @@ _Quellen:_ Spielerhandbuch
 Beinhaltet:
 
 - a [Rucksack-phb](Rucksack-phb.md)  
-- a [Schlafsack](Schlafsack.md)  
+- a [Schlafsack-old](Schlafsack-old.md)  
 - a [mess kit](D&D/05%20-%20Wikipedia/Gegenstände/mess-kit.md)  
 - a [Zunderkästchen](Zunderkästchen.md)  
 - 10 [torches](Fackel.md)  

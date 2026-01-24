@@ -1,13 +1,12 @@
 ---
-Bezeichnung: "Alchemist's Fire"
+Bezeichnung: Alchemist's Fire
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
-  - "Alchemist's Fire"
   - Alchemist's Fire
-linter-yaml-title-alias: "Alchemist's Fire"
+linter-yaml-title-alias: Alchemist's Fire
 ---
 # Alchemist's Fire
 *Adventuring gear*  

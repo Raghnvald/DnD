@@ -1,13 +1,12 @@
 ---
-Bezeichnung: "Baba Yaga's Mortar and Pestle"
+Bezeichnung: Baba Yaga's Mortar and Pestle
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/Artefakt
   - Quelle/5e/tce
 aliases:
-  - "Baba Yaga's Mortar and Pestle"
   - Baba Yaga's Mortar and Pestle
-linter-yaml-title-alias: "Baba Yaga's Mortar and Pestle"
+linter-yaml-title-alias: Baba Yaga's Mortar and Pestle
 ---
 # Baba Yaga's Mortar and Pestle
 *Wondrous item, artifact (requires attunement)*  

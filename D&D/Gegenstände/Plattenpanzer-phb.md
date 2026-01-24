@@ -1,25 +1,28 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Half Plate Armor
+Bezeichnung: Plattenpanzer
+Typ: Rüstung
 Rüstung: Mittel
+Eigenschaften: /
+Kst.: 750 GM
+Gew.: 20,0 kg
+RK: 14 + GES (max +2)
+STR: /
+Heiml.: /
 tags:
   - Gegenstand/Rüstung/Mittel
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - "Half Plate Armor"
   - Half Plate Armor
 linter-yaml-title-alias: Half Plate Armor
-obsidianUIMode: preview
 ---
-# Half Plate Armor
-*Medium armor*  
+# Plattenpanzer
+*Rüstung (mittelschwer), gewöhnlich*  
 
-- **Armor Class**: 15 + Dex modifier (max of +2)
-- **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
-- **Cost**: 750 gp
-- **Weight**: 40.0 lbs.
+- **Rüstungsklasse**: 15 + GES (max +2)
+- **Heimlichkeit:** Nachteil
+- **Kosten:** 750 Goldmünzen
+- **Gewicht:** 20,0 kg
 
 Ein Plattenpanzer besteht aus geformten Metallplatten, die den Großteil des Körpers bedecken. Die Beine werden allerdings nur durch einfache Beinschienen geschützt, die mit Lederriemen befestigt sind.
 

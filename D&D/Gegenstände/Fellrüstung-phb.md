@@ -1,8 +1,13 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Hide Armor
+Bezeichnung: Fellrüstung
+Typ: Rüstung
 Rüstung: Mittel
+Eigenschaften: /
+Kst.: 10 GM
+Gew.: 6,0 kg
+RK: 14 + GES (max +2)
+STR: /
+Heiml.: /
 tags:
   - Gegenstand/Rüstung/Mittel
   - Gegenstand/Seltenheit/keine
@@ -11,14 +16,13 @@ aliases:
   - "Hide Armor"
   - Hide Armor
 linter-yaml-title-alias: Hide Armor
-obsidianUIMode: preview
 ---
-# Hide Armor
-*Medium armor*  
+# Fellrüstung
+*Rüstung (mittelschwer), gewöhnlich*  
 
-- **Armor Class**: 12 + Dex modifier (max of +2)
-- **Cost**: 10 gp
-- **Weight**: 12.0 lbs.
+- **Rüstungsklasse**: 12 + GES (max +2)
+- **Kosten:** 10 Goldmünzen
+- **Gewicht:** 6,0 kg
 
 This crude armor consists of thick furs and pelts. It is commonly worn by barbarian tribes, evil humanoids, and other folk who lack access to the tools and materials needed to create better armor.
 

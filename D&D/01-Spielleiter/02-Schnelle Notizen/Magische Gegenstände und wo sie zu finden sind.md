@@ -3,7 +3,7 @@
 - [[Elfenumhang]]
 - [Stiefel der Elfen](../../05%20-%20Wikipedia/Gegenstände/Stiefel-der-Elfen.md)
 - [Handschuhe der Diebeskunst](../../05%20-%20Wikipedia/Gegenstände/Handschuhe-des-Diebstahls.md)
-- [[Kurzschwert des Kreuzritters]]
+- [[Kurzschwert des Kreuzritters-old]]
 
 Nach CoS eventuell das Sonnenschwert "entfernen", dafür einen schattenhaften Fuchs, welcher sich in eine psychische Waffe (Langschwert oder Kurzschwert?) mit ähnlichen Effekten verwandeln kann?
 

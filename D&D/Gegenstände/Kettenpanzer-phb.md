@@ -1,7 +1,5 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Chain Mail
+Bezeichnung: Kettenpanzer
 Rüstung: Schwer
 tags:
   - Gegenstand/Rüstung/Schwer
@@ -13,7 +11,7 @@ aliases:
 linter-yaml-title-alias: Chain Mail
 obsidianUIMode: preview
 ---
-# Chain Mail
+# Kettenpanzer
 *Heavy armor*  
 
 - **Armor Class**: 16

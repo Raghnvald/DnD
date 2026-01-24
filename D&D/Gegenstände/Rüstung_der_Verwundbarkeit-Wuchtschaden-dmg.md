@@ -1,6 +1,13 @@
 ---
-Bezeichnung: Armor of Vulnerability (Bludgeoning)
+Bezeichnung: Rüstung der Verwundbarkeit (Wucht)
+Typ: Rüstung
 Rüstung: Schwer
+Eigenschaften: erfordert Einstimmung
+Kst.: n/v
+Gew.: 32,5 kg
+RK: 18
+STR: 15
+Heiml.: Nachteil
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Rüstung/Schwer
@@ -10,19 +17,19 @@ aliases:
   - Armor of Vulnerability (Bludgeoning)
 linter-yaml-title-alias: Armor of Vulnerability (Bludgeoning)
 ---
-# Armor of Vulnerability (Bludgeoning)
-*Heavy armor ([plate armor](/3-Mechanics/CLI/items/plate-armor.md)), cursed item, major, rare (requires attunement)*  
+# Rüstung der Verwundbarkeit (Wucht)
+Rüstung ([[Ritterrüstung-phb|Ritterrüstung]]), selten (benötigt Einstimmung)
 
-- **Armor Class**: 18
-- **Properties**: [Cursed](/3-Mechanics/CLI/item-properties.md#Cursed%20Items)
-- **Strength**: Requires 15 STR.
-- **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
-- **Weight**: 65.0 lbs.
+- **Rüstungsklasse**: 18
+- **Properties**: [Verflucht](Gegenstandseigenschaften-phb#Verfluchte%20Gegenstände)
+- **Stärke:** 15
+- **Heimlichkeit:** Nachteil
+- **Gewicht:** 32,5 kg
 
-While wearing this armor, you have resistance to bludgeoning damage.
+Während du diese Rüstung trägst, hast du Resistenz gegen Wuchtschaden. 
 
-## Curse
+## Verflucht
 
-This armor is cursed, a fact that is revealed only when an [identify](/3-Mechanics/CLI/spells/identify.md) spell is cast on the armor or you attune to it. Attuning to the armor curses you until you are targeted by the [remove curse](/3-Mechanics/CLI/spells/remove-curse.md) spell or similar magic; removing the armor fails to end the curse. While cursed you have vulnerability to piercing and slashing damage.
+Diese Rüstung ist verflucht, was nur herausgefunden werden kann, wenn ein [[Identifizieren-phb|Identifizieren]] Zauber darauf gewirkt wird oder während einer Einstimmung. Wenn du dich darauf einstimmt, wirst du verflucht, bis du Ziel eines [[Fluch_brechen-phb|Fluch brechen]]-Zaubers oder ähnlicher Magie wirst; die Rüstung abzulegen, kann den Fluch nicht brechen. Während du verflucht bist, hast du Anfälligkeit gegenüber Hieb- und Stichschaden.
 
-*Source: Dungeon Master's Guide p. 152. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+*Quelle: Spielleiterhandbuch S. 183. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

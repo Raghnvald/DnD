@@ -15,7 +15,7 @@ views:
       and:
         - file.folder == "D&D/Zauber"
     order:
-      - formula.Untitled
+      - file.name
       - aliases
     sort:
       - property: aliases

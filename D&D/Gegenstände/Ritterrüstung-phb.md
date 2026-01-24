@@ -1,7 +1,5 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Plate Armor
+Bezeichnung: Ritterrüstung
 Rüstung: Schwer
 tags:
   - Gegenstand/Rüstung/Schwer
@@ -13,7 +11,7 @@ aliases:
 linter-yaml-title-alias: Plate Armor
 obsidianUIMode: preview
 ---
-# Plate Armor
+# Ritterrüstung
 *Heavy armor*  
 
 - **Armor Class**: 18

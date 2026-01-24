@@ -5,7 +5,6 @@ tags:
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Heiliges Symbol
   - Holy Symbol
 linter-yaml-title-alias: Heiliges Symbol
 ---

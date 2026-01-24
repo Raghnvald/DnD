@@ -10,7 +10,6 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Alchemist's Fire (flask)
-  - Alchemistenfeuer (Flasche)
 linter-yaml-title-alias: Alchemistenfeuer (Flasche)
 ---
 # Alchemistenfeuer (Flasche)

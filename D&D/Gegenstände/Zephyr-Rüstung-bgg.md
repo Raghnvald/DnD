@@ -1,8 +1,13 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Zephyr Armor
+Bezeichnung: Zephyr-Rüstung
+Typ: Rüstung
 Rüstung: Leicht
+Eigenschaften: /
+Kst.: /
+Gew.: /
+RK: /
+STR: /
+Heiml.: /
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Rüstung/Leicht
@@ -15,9 +20,8 @@ aliases:
   - Zephyr Padded Armor
   - Zephyr Studded Leather Armor
 linter-yaml-title-alias: Zephyr Armor
-obsidianUIMode: preview
 ---
-# Zephyr Armor
+# Zephyr-Rüstung
 *Rare (requires attunement)*  
 
 This fine set of white-and-silver armor bears the wind rune upon its chest.

@@ -13,10 +13,10 @@ aliases:
 | Item                                              |   Cost |    Weight |
 | ------------------------------------------------- | ------:| ---------:|
 | Barding                                           |     ×4 |        ×2 |
-| [Geschirr und Zaumzeug](../Gegenstände/Geschirr-und-Zaumzeug.md) |   2 GM |   0,5 kg. |
-| [Karren](../Gegenstände/Karren.md)                               |  15 GM | 100,0 kg. |
-| [Kutsche](../Gegenstände/Kutsche.md)                             | 100 GM | 300,0 kg. |
-| [Streitwagen](../Gegenstände/Streitwagen.md)                     | 250 GM |  50,0 kg. |
+| [Geschirr und Zaumzeug](Geschirr-und-Zaumzeug-old.md) |   2 GM |   0,5 kg. |
+| [Karren-old](Karren-old.md)                               |  15 GM | 100,0 kg. |
+| [Kutsche-old](Kutsche-old.md)                             | 100 GM | 300,0 kg. |
+| [Streitwagen-old](Streitwagen-old.md)                     | 250 GM |  50,0 kg. |
 | Tierfutter (pro Tag)                              |   5 KM |   5,0 kg. |
 | *Saddle*                                          |        |           |
 | [Exotic](Exotischer%20Sattel.md)                        |  60 GM |  20,0 kg. |

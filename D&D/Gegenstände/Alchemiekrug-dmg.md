@@ -9,7 +9,6 @@ tags:
   - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
-  - Alchemiekrug
   - Alchemy Jug
 linter-yaml-title-alias: Alchemiekrug
 ---

@@ -1,6 +1,13 @@
 ---
-Bezeichnung: Armor of Vulnerability
+Bezeichnung: Rüstung der Verwundbarkeit
+Typ: Rüstung
 Rüstung: Schwer
+Eigenschaften: erfordert Einstimmung
+Kst.: n/v
+Gew.: 32,5 kg
+RK: 18
+STR: 15
+Heiml.: Nachteil
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Rüstung/Schwer
@@ -10,19 +17,19 @@ aliases:
   - Armor of Vulnerability
 linter-yaml-title-alias: Armor of Vulnerability
 ---
-# Armor of Vulnerability
-*Heavy armor ([plate armor](/3-Mechanics/CLI/items/plate-armor.md)), cursed item, major, rare (requires attunement)*  
+# Rüstung der Verwundbarkeit
+Rüstung ([[Ritterrüstung-phb|Ritterrüstung]]), selten (benötigt Einstimmung)
 
-- **Armor Class**: 18
-- **Properties**: [Cursed](/3-Mechanics/CLI/item-properties.md#Cursed%20Items)
-- **Strength**: Requires 15 STR.
-- **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
-- **Weight**: 65.0 lbs.
+- **Rüstungsklasse**: 18
+- **Eigenschaften**: [[Gegenstandseigenschaften-phb#Verfluchte Gegenstände|Verflucht]]
+- **Stärke:** 15
+- **Heimlichkeit:** Nachteil
+- **Gewicht:** 32,5 kg
 
-**Items in this group:**
+**Gegenstände in dieser Gruppe:**
 
-- [Armor of Vulnerability (Bludgeoning)](/3-Mechanics/CLI/items/armor-of-vulnerability-bludgeoning.md)
-- [Armor of Vulnerability (Piercing)](/3-Mechanics/CLI/items/armor-of-vulnerability-piercing.md)
-- [Armor of Vulnerability (Slashing)](/3-Mechanics/CLI/items/armor-of-vulnerability-slashing.md)
+- [Rüstung der Verwundbarkeit (Hieb)](Rüstung_der_Verwundbarkeit-Hiebschaden-dmg)
+- [Rüstung der Verwundbarkeit (Stich)](Rüstung_der_Verwundbarkeit-Stichschaden-dmg)
+- [Rüstung der Verwundbarkeit (Wucht)](Rüstung_der_Verwundbarkeit-Wuchtschaden-dmg)
 
-*Source: Dungeon Master's Guide p. 152*
+*Quelle: Spielleiterhandbuch S. 183*

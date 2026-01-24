@@ -2,6 +2,23 @@ filters:
   and:
     - '!file.name.endsWith("-xphb")'
     - '!file.name.endsWith("-xdmg")'
+    - '!file.name.endsWith("-egw")'
+    - '!file.name.endsWith("-tdcsr")'
+    - '!file.name.endsWith("-bmt")'
+    - '!file.name.endsWith("-cm")'
+    - and:
+        - '!file.name.contains("1")'
+        - '!file.name.contains("2")'
+        - '!file.name.contains("3")'
+    - and:
+        - '!file.name.contains("der_Antwort-a")'
+        - '!file.name.contains("der_Antwort-b")'
+        - '!file.name.contains("der_Antwort-e")'
+        - '!file.name.contains("der_Antwort-k")'
+        - '!file.name.contains("der_Antwort-l")'
+        - '!file.name.contains("der_Antwort-s")'
+        - '!file.name.contains("der_Antwort-u")'
+        - '!file.name.contains("der_Antwort-w")'
 formulas:
   Untitled: link(file, Bezeichnung)
 properties:
@@ -21,9 +38,13 @@ views:
       direction: ASC
     order:
       - formula.Untitled
+      - file.name
     sort:
-      - property: file.name
+      - property: formula.Untitled
         direction: ASC
+      - property: file.name
+        direction: DESC
+    columnSize: {}
   - type: table
     name: Nahkampfwaffen
     filters:

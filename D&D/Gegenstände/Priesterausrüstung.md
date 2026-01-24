@@ -28,7 +28,7 @@ Beinhaltet:
 
 - ein [[Rucksack-phb]]
 - eine [[Decke]]
-- 10 [[Kerze|Kerzen]]
+- 10 [[Kerze-old|Kerzen]]
 - ein [[Zunderkästchen]]
 - eine Opferbüchse
 - 2 Blöcke Räucherwerk

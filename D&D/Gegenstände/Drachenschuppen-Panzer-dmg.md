@@ -1,14 +1,12 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Dragon Scale Mail
+Bezeichnung: Drachenschuppen-Panzer
 Typ: Rüstung
 Rüstung: Mittel
-Eigenschaften: n/v
-Kst.: 4.000 GM
+Eigenschaften: /
+Kst.: /
 Gew.: 20,0 kg
 RK: 14 + GES (max +2)
-STR: n/v
+STR: /
 Heiml.: Nachteil
 tags:
   - Gegenstand/Einstimmung/required
@@ -18,27 +16,26 @@ tags:
 aliases:
   - Dragon Scale Mail
 linter-yaml-title-alias: Dragon Scale Mail
-obsidianUIMode: preview
 ---
-# Dragon Scale Mail
-*Medium armor, major, very rare (requires attunement)*  
-![](/3-Mechanics/CLI/items/img/dragon-scale-mail.webp#right)
+# Drachenschuppen-Panzer
+*Rüstung ([[Schuppenpanzer-phb|Schuppenpanzer]]), sehr selten (erfordert Einstimmung)*  
+<img src="dragon-scale-mail.webp" align="right" width="150">
 
-- **Armor Class**: 14 + Dex modifier (max of +2)
-- **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
-- **Weight**: 45.0 lbs.
+- **Rüstungsklasse**: 14 + GES (maximal +2)
+- **Heimlichkeit:** Nachteil
+- **Gewicht**: 22,5 kg.
 
-**Items in this group:**
+**Gegenstände in dieser Gruppe:**
 
-- [Black Dragon Scale Mail](/3-Mechanics/CLI/items/black-dragon-scale-mail.md)
-- [Blue Dragon Scale Mail](/3-Mechanics/CLI/items/blue-dragon-scale-mail.md)
-- [Brass Dragon Scale Mail](/3-Mechanics/CLI/items/brass-dragon-scale-mail.md)
-- [Bronze Dragon Scale Mail](/3-Mechanics/CLI/items/bronze-dragon-scale-mail.md)
-- [Copper Dragon Scale Mail](/3-Mechanics/CLI/items/copper-dragon-scale-mail.md)
-- [Gold Dragon Scale Mail](/3-Mechanics/CLI/items/gold-dragon-scale-mail.md)
-- [Green Dragon Scale Mail](/3-Mechanics/CLI/items/green-dragon-scale-mail.md)
-- [Red Dragon Scale Mail](/3-Mechanics/CLI/items/red-dragon-scale-mail.md)
-- [Silver Dragon Scale Mail](/3-Mechanics/CLI/items/silver-dragon-scale-mail.md)
-- [White Dragon Scale Mail](/3-Mechanics/CLI/items/white-dragon-scale-mail.md)
+- [Blauer Drachenschuppen-Panzer](Blauer_Drachenschuppen-Panzer-dmg)
+- [Bronze-Drachenschuppen-Panzer](Bronze-Drachenschuppen-Panzer-dmg)
+- [Gold Dragon Scale Mail](Gold-Drachenschuppen-Panzer-dmg)
+- [Green Dragon Scale Mail](Grüner_Drachenschuppen-Panzer-dmg)
+- [Copper Dragon Scale Mail](Kupfer-Drachenschuppen-Panzer-dmg)
+- [Brass Dragon Scale Mail](Messing-Drachenschuppen-Panzer-dmg)
+- [Red Dragon Scale Mail](Roter_Drachenschuppen-Panzer-dmg)
+- [Schwarzer Drachenschuppen-Panzer](Schwarzer_Drachenschuppen-Panzer-dmg)
+- [Silver Dragon Scale Mail](Silber-Drachenschuppen-Panzer-dmg)
+- [White Dragon Scale Mail](Weißer_Drachenschuppen-Panzer-dmg)
 
-*Source: Dungeon Master's Guide p. 165. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+*Quelle: Spielleiterhandbuch S. 156. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*Schild

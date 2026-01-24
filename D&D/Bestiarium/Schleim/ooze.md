@@ -7,7 +7,7 @@ cssclasses:
 # Index of Ooze
 
 - [Adult Oblex](Ausgewachsener_Oblex-mpmm.md)
-- [Bag Jelly](./bag-jelly-bgg.md)
+- [Bag Jelly](Beutelgallerte-bgg.md)
 - [Black Pudding](./black-pudding-xmm.md)
 - [Blob of Annihilation](./blob-of-annihilation-xmm.md)
 - [Dragonblood Ooze](./dragonblood-ooze-ftd.md)

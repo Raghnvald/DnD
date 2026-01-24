@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Shield of the Blazing Dreadnought
+Bezeichnung: Schild des lodernden Schlächters
 Rüstung: Schild
 tags:
   - Gegenstand/Einstimmung/required
@@ -10,7 +10,7 @@ aliases:
   - Shield of the Blazing Dreadnought
 linter-yaml-title-alias: Shield of the Blazing Dreadnought
 ---
-# Shield of the Blazing Dreadnought
+# Schild des lodernden Schlächters
 *Armor (shield), legendary (requires attunement)*  
 
 - **Armor Class**: 2

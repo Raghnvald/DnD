@@ -1,8 +1,13 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Ring Mail
+Bezeichnung: Ringpanzer
+Typ: Rüstung
 Rüstung: Schwer
+Eigenschaften: n/v
+Kst.: 1.500 GM
+Gew.: 32,5 kg
+RK: 18
+STR: 15
+Heiml.: Nachteil
 tags:
   - Gegenstand/Rüstung/Schwer
   - Gegenstand/Seltenheit/keine
@@ -11,16 +16,15 @@ aliases:
   - "Ring Mail"
   - Ring Mail
 linter-yaml-title-alias: Ring Mail
-obsidianUIMode: preview
 ---
-# Ring Mail
-*Heavy armor*  
+# Ringpanzer
+*Schwere Rüstung*  
 
-- **Armor Class**: 14
-- **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
-- **Cost**: 30 gp
-- **Weight**: 40.0 lbs.
+- **Rüstungsklasse**: 14
+- **Heimlichkeit:** Nachteil
+- **Kosten:** 30 Goldmünzen
+- **Gewicht:** 20,0 kg
 
-This armor is leather armor with heavy rings sewn into it. The rings help reinforce the armor against blows from swords and axes. Ring mail is inferior to chain mail, and it's usually worn only by those who can't afford better armor.
+Diese Rüstung ist eine Lederrüstung, in die schwere Ringe eingenäht wurden. Die Ringe helfen, die Rüstung gegen Schwert- und Axthiebe zu verstärken. Ringpanzer sind weniger effektiv als Kettenpanzer und werden üblicherweise von jenen getragen, die sich keine bessere Rüstung leisten können.
 
 *Quellen: Spielerhandbuch S. 144. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)* 

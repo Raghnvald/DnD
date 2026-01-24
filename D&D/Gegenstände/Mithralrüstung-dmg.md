@@ -1,8 +1,13 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Mithral Armor
+Bezeichnung: Mithralrüstung
+Typ: Rüstung
 Rüstung: Mittel oder Schwer
+Eigenschaften: /
+Kst.: /
+Gew.: /
+RK: /
+STR: /
+Heiml.: /
 tags:
   - Gegenstand/Rüstung/Mittel
   - Gegenstand/Rüstung/Schwer
@@ -21,9 +26,8 @@ aliases:
   - Mithral Spiked Armor
   - Mithral Splint Armor
 linter-yaml-title-alias: Mithral Armor
-obsidianUIMode: preview
 ---
-# Mithral Armor
+# Mithralrüstung
 *Minor, uncommon*  
 
 Mithral is a light, flexible metal. A mithral chain shirt or breastplate can be worn under normal clothes. If the armor normally imposes disadvantage on Dexterity ([Stealth](/3-Mechanics/CLI/skills.md#Stealth)) checks or has a Strength requirement, the mithral version of the armor doesn't.

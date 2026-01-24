@@ -1,8 +1,13 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Sentinel Shield
+Bezeichnung: Wächterschild
+Typ: Rüstung
 Rüstung: Schild
+Eigenschaften: /
+Kst.: /
+Gew.: 3,0 kg
+RK: 2
+STR: /
+Heiml.: /
 tags:
   - Gegenstand/Rüstung/Schild/
   - Gegenstand/Seltenheit/ungewöhnlich
@@ -10,14 +15,13 @@ tags:
 aliases:
   - Sentinel Shield
 linter-yaml-title-alias: Sentinel Shield
-obsidianUIMode: preview
 ---
-# Sentinel Shield
-*Armor ([shield](/3-Mechanics/CLI/items/shield.md)), major, uncommon*  
+# Wächterschild
+*Rüstung ([[Gegenstände/Schild-phb|Schild]]), ungewöhnlich*  
 
-- **Armor Class**: 2
-- **Weight**: 6.0 lbs.
+- **Rüstungsklasse**: 2
+- **Gewicht**: 3,0 kg.
 
-While holding this shield, you have advantage on initiative rolls and Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) checks. The shield is emblazoned with a symbol of an eye.
+Während du diesen Schild trägst, hast du einen Vorteil bei Würfen auf Weisheit ([[01-Spielleiter/Fertigkeiten-phb#Wahrnehmung|Wahrnehmung]]). Auf dem Schild prangt ein Symbol in Form eines Auges.
 
-*Source: Dungeon Master's Guide p. 199*
+*Quelle: Spielleiterhandbuch S. 199*

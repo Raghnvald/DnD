@@ -1,8 +1,13 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Living Armor
+Bezeichnung: Lebende Rüstung
+Typ: Rüstung
 Rüstung: Leicht, Mittel oder Schwer
+Eigenschaften: /
+Kst.: /
+Gew.: /
+RK: /
+STR: /
+Heiml.: /
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Rüstung/Leicht
@@ -27,9 +32,8 @@ aliases:
   - Living Splint Armor
   - Living Studded Leather Armor
 linter-yaml-title-alias: Living Armor
-obsidianUIMode: preview
 ---
-# Living Armor
+# Lebende Rüstung
 *Very rare (requires attunement)*  
 
 This hideous armor is formed from black chitin, beneath which veins pulse and red sinews glisten. To attune to this item, you must wear it for the entire attunement period, during which tendrils on the inside burrow into you.

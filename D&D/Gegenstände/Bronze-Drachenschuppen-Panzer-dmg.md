@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Bronze Dragon Scale Mail
 Typ: Rüstung
 Rüstung: Mittel
@@ -20,15 +18,18 @@ aliases:
 linter-yaml-title-alias: Bronze Dragon Scale Mail
 obsidianUIMode: preview
 ---
-# Bronze Dragon Scale Mail
-*Medium armor, major, very rare (requires attunement)*  
+# Bronze-Drachenschuppen-Panzer
+*Rüstung ([[Schuppenpanzer-phb|Schuppenpanzer]]), sehr selten (erfordert Einstimmung)*  
+<img src="dragon-scale-mail.webp" align="right" width="150">
 
-- **Armor Class**: 14 + Dex modifier (max of +2)
-- **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
-- **Weight**: 45.0 lbs.
+- **Rüstungsklasse**: 14 + GES (maximal +2)
+- **Heimlichkeit:** Nachteil
+- **Gewicht**: 22,5 kg.
 
-Dragon scale mail is made of the scales of one kind of dragon. Sometimes dragons collect their cast-off scales and gift them to humanoids. Other times, hunters carefully skin and preserve the hide of a dead dragon. In either case, dragon scale mail is highly valued. While wearing this armor, you gain a +1 bonus to AC, you have advantage on saving throws against the Frightful Presence and breath weapons of dragons, and you have resistance to lightning damage.
+Ein Drachenschuppenpanzer besteht aus den Schuppen einer einzelnen Drachenart. In manchen Fällen sammeln Drachen ihre abgeworfenen Schuppen und schenken sie Humanoiden. In anderen Fällen häuten Jäger einen toten Drachen und machen seine Haut vorsichtig haltbar. Unabhängig von ihrer Herkunft sind Drachenschuppenpanzer extrem wertvoll. 
 
-Additionally, you can focus your senses as an action to magically discern the distance and direction to the closest bronze dragon within 30 miles of you. This special action can't be used again until the next dawn.
+Wenn du diese Rüstung trägst, erhältst du einen Bonus von +1 auf deine RK, du bist bei Rettungswürfen gegen die Furchterregende Präsenz und die Odemwaffen von Drachen im Vorteil und bist gegen Blitzschaden resistent. 
 
-*Source: Dungeon Master's Guide p. 165. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+Außerdem kannst du dich als Aktion konzentrieren und auf magische Weise die Entfernung und Richtung des nächsten Bronze-Drachen im Abstand von bis zu 48 Kilometern von dir erspüren. Diese besondere Aktion kann erst im nächsten Morgengrauen wiederverwendet werden. 
+
+*Quelle: Spielleiterhandbuch S. 156. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

@@ -1,8 +1,13 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Demon Armor
+Bezeichnung: Dämonenrüstung
+Typ: Rüstung
 Rüstung: Schwer
+Eigenschaften: erfordert Einstimmung
+Kst.: n/v
+Gew.: 32,5 kg
+RK: 18
+STR: 15
+Heiml.: Nachteil
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Rüstung/Schwer
@@ -11,22 +16,21 @@ tags:
 aliases:
   - Demon Armor
 linter-yaml-title-alias: Demon Armor
-obsidianUIMode: preview
 ---
 # Demon Armor
-*Heavy armor, cursed item, major, very rare (requires attunement)*  
-![](/3-Mechanics/CLI/items/img/demon-armor.webp#right)
+*Rüstung ([[Ritterrüstung-phb|Ritterrüstung]]), sehr selten (erfordert Einstimmung)*  
+<img src="demon-armor.webp" align="right" width="150">
 
-- **Armor Class**: 18
-- **Properties**: [Cursed](/3-Mechanics/CLI/item-properties.md#Cursed%20Items)
-- **Strength**: Requires 15 STR.
-- **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
-- **Weight**: 65.0 lbs.
+- **Rüstungsklasse**: 18
+- **Eigenschaften**: [Verflucht](Gegenstandseigenschaften-phb#Cursed%20Items)
+- **Stärke:** 15
+- **Heimlichkeit:** Nachteil
+- **Gewicht:** 32,5 kg
 
-While wearing this armor, you gain a +1 bonus to AC, and you can understand and speak Abyssal. In addition, the armor's clawed gauntlets turn unarmed strikes with your hands into magic weapons that deal slashing damage, with a +1 bonus to attack and damage rolls and a damage die of `1d8`.
+Während du diese Rüstung trägst, erhältst du einen Bonus von + 1 auf deine Rüstungsklasse und du kannst Abyssisch sprechen und verstehen. Zusätzlich sorgen die Klauenhandschuhe der Rüstung dafür, dass unbewaffnete Angriffe mit deiner Hand zu magischen Waffen werden, die Hiebschaden verursachen mit einem Bonus von + 1 auf Angriffs- und Schadenswürfe und einem Schadenswürfel von `1W8`.
 
-## Curse
+## Verflucht
 
-Once you don this cursed armor, you can't doff it unless you are targeted by the [remove curse](/3-Mechanics/CLI/spells/remove-curse.md) spell or similar magic. While wearing the armor, you have disadvantage on attack rolls against demons and on saving throws against their spells and special abilities.
+Sobald du diese verfluchte Rüstung anlegst, kannst du sie nicht mehr ablegen, es sei denn durch den Zauber [[Fluch_brechen-phb|Fluch brechen]] oder eine ähnliche Magie. Während du diese Rüstung trägst, hast du einen Nachteil auf Angriffswürfe gegen Dämonen und auf Rettungswürfe gegen deren Zauber und spezielle Fähigkeiten.
 
 *Source: Dungeon Master's Guide p. 165. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

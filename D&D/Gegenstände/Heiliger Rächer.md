@@ -1,10 +1,10 @@
 ---
 Bezeichnung: Heiliger Rächer
-Typ: Beliebige Nahkampfwaffe
-Schaden: variabel
-Eigenschaften: variabel
-Kst.: n/v
-Gew.: n/a
+Typ: Nahkampf-Kriegswaffe (generisch)
+Schaden: /
+Eigenschaften: /
+Kst.: /
+Gew.: /
 tags:
   - Gegenstand/Einstimmung/Paladin
   - Gegenstand/Seltenheit/legendär

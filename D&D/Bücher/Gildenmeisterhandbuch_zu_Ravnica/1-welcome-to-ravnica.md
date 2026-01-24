@@ -10,7 +10,7 @@ aliases:
 # Welcome to Ravnica
 *Source: Guildmasters' Guide to Ravnica, p. 6* 
 
-![](/3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/000-intro01.webp#center)
+![](img/000-intro01.webp#center)
 
 From the back of her soaring roc, a sky knight surveys the spire-studded cityscape below. As the morning fog dissipates under the chill autumn sun, the city spreads out as far as she can see: lofty cathedrals, squat courthouses, towering apartments, sprawling tenements, cobblestone plazas, and broken ruins where once-majestic buildings have crumbled to rubble. She imagines the teeming masses below her: humans, elves, vedalken, minotaurs, goblins, loxodons, and other peoples, as some of them rise to greet the morning and others retire after a hard night of work or play. They are the reason she is here: sworn to protect them, she leads a flight of roc riders toward the fires raging in Precinct Three. Soldiers on the ground will put out the flames, while it's her job to deal with their source: the dragon she can just make out, clinging to the spire of a distant tower. Standing in her stirrups and raising her sword, she turns her mount toward the dragon, ready to battle once again for the sake of Ravnica.
 

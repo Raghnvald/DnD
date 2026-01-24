@@ -18,7 +18,7 @@ aliases:
 | [Beil](../Gegenstände/Beil.md)                        |   5 GM | `1W6` Hiebschaden   |   1,0kg. | Leicht, Wurfwaffe (Reichweite 6/18 Meter)                      |
 | [Dolch](../Gegenstände/Dolch.md)                      |   2 GM | `1W4` Stichschaden  |   0,5kg. | Finesse, Leicht, Wurfwaffe (Reichweite 6/18 Meter)             |
 | [Kampfstab](../Gegenstände/Kampfstab.md)              |   2 SM | `1W6` Wuchtschaden  |   2,0kg. | Vielseitig (`1W8`)                                             |
-| [Knüppel](../Gegenstände/Knüppel.md)                  |   1 SM | `1W4` Wuchtschaden  |   1,0kg. | Leicht                                                         |
+| [Knüppel-old](Knüppel-old.md)                  |   1 SM | `1W4` Wuchtschaden  |   1,0kg. | Leicht                                                         |
 | [Leichter-Hammer](Leichter-Hammer.md)  |   2 GM | `1W4` Wuchtschaden  |   1,0kg. | Leicht, Wurfwaffe (Reichweite 6/18 Meter)                      |
 | [Sichel](../Gegenstände/Sichel.md)                    |   1 GM | `1W4` Hiebschaden   |   1,0kg. | Leicht                                                         |
 | [Speer](../Gegenstände/Speer.md)                      |   1 GM | `1W6` Stichschaden  |   1,5kg. | Vielseitig (`1W8`), Wurfwaffe (Reichweite 6/18 Meter)          |
@@ -45,7 +45,7 @@ aliases:
 | [Peitsche](../Gegenstände/Peitsche.md)                    |   2 GM | `1W4` Hiebschaden   |  1,5 kg. | Finesse, Weitreichend                                          |
 | [Pike](../Gegenstände/Pike.md)                        |   5 GM | `1W10` Stichschaden |  9,0 kg. | Schwer, Weitreichend, Zweihändig                               |
 | [Rapier](../Gegenstände/Rapier.md)                    |  25 GM | `1W8` Stichschaden  |  1,0 kg. | Finesse                                                        |
-| [[../Gegenstände/Streitaxt]]              |  10 GM | `1W8` Hiebschaden   |  2,0 kg. | Vielseitig (`1W10`)                                            |
+| [[Streitaxt-old]]              |  10 GM | `1W8` Hiebschaden   |  2,0 kg. | Vielseitig (`1W10`)                                            |
 | [Zweihandaxt](../Gegenstände/Zweihandaxt.md)          |  30 GM | `1W12` Hiebschaden  |  3,5 kg. | Schwer, Zweihändig                                             |
 | [Zweihandhammer](../Gegenstände/Zweihandhammer.md)              |  10 GM | `2W6` Wuchtschaden  |  5,5 kg. | Schwer, Zweihändig                                             |
 | [Zweihandschwert](../Gegenstände/Zweihandschwert.md)       |  50 GM | `2W6` Hiebschaden   |  3,0 kg. | Schwer, Zweihändig                                             |

@@ -1,15 +1,14 @@
 ---
 cssclasses:
   - json5e-item
-Bezeichnung: "Knave's Eye Patch"
+Bezeichnung: Knave's Eye Patch
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/wdh
 aliases:
-  - "Knave's Eye Patch"
   - Knave's Eye Patch
-linter-yaml-title-alias: "Knave's Eye Patch"
+linter-yaml-title-alias: Knave's Eye Patch
 obsidianUIMode: preview
 ---
 # Knave's Eye Patch

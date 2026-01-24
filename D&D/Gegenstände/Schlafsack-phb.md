@@ -1,7 +1,9 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Bedroll
+Bezeichnung: Schlafsack
+Typ: Abenteuerausrüstung
+Eigenschaften: n/v 
+Kst.: 1 GM
+Gew.: 3,5 kg
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
@@ -9,7 +11,8 @@ tags:
 aliases:
   - Bedroll
 linter-yaml-title-alias: Bedroll
-obsidianUIMode: preview
+Aktiv: false
+Menge: "1"
 ---
 # Bedroll
 *Adventuring gear*  

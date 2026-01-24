@@ -1,8 +1,13 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Mizzium Armor
+Typ: Rüstung
 Rüstung: Mittel oder Schwer
+Eigenschaften: /
+Kst.: /
+Gew.: /
+RK: /
+STR: /
+Heiml.: /
 tags:
   - Gegenstand/Rüstung/Mittel
   - Gegenstand/Rüstung/Schwer
@@ -21,7 +26,6 @@ aliases:
   - Mizzium Spiked Armor
   - Mizzium Splint Armor
 linter-yaml-title-alias: Mizzium Armor
-obsidianUIMode: preview
 ---
 # Mizzium Armor
 *Rare*  

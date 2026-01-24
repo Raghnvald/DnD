@@ -1,16 +1,15 @@
 ---
 cssclasses:
   - json5e-item
-Bezeichnung: "+2 Rhythm-Maker's Drum"
+Bezeichnung: +2 Rhythm-Maker's Drum
 tags:
   - Gegenstand/Ausrüstung/Instrument
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/tce
 aliases:
-  - "+2 Rhythm-Maker's Drum"
   - +2 Rhythm-Maker's Drum
-linter-yaml-title-alias: "+2 Rhythm-Maker's Drum"
+linter-yaml-title-alias: +2 Rhythm-Maker's Drum
 ---
 # +2 Rhythm-Maker's Drum
 *Wondrous item, instrument, rare (requires attunement by a bard)*  

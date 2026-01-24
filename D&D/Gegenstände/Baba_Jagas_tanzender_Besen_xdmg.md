@@ -1,13 +1,12 @@
 ---
-Bezeichnung: "Baba Yaga's Dancing Broom"
+Bezeichnung: Baba Yaga's Dancing Broom
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/xdmg
 aliases:
-  - "Baba Yaga's Dancing Broom"
   - Baba Yaga's Dancing Broom
-linter-yaml-title-alias: "Baba Yaga's Dancing Broom"
+linter-yaml-title-alias: Baba Yaga's Dancing Broom
 ---
 # Baba Yaga's Dancing Broom
 *Wondrous item, uncommon (requires attunement)*  

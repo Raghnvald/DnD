@@ -24,4 +24,4 @@ _Quellen:_ Spielerhandbuch
 - **Gewicht**: 0,5 kg.
 - **Kosten**: 1 Goldmünzen
 
-In einen Köcher passen bis zu 20 [[Pfeil|Pfeile]].
+In einen Köcher passen bis zu 20 [[Pfeil-phb|Pfeile]].

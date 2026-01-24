@@ -1,8 +1,13 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Armor of Invulnerability
+Bezeichnung: Rüstung der Unverwundbarkeit
+Typ: Rüstung
 Rüstung: Schwer
+Eigenschaften: erfordert Einstimmung
+Kst.: 18.000 GM
+Gew.: 32,5 kg
+RK: 18
+STR: 15
+Heiml.: Nachteil
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Rüstung/Schwer
@@ -11,17 +16,16 @@ tags:
 aliases:
   - Armor of Invulnerability
 linter-yaml-title-alias: Armor of Invulnerability
-obsidianUIMode: preview
 ---
-# Armor of Invulnerability
-*Heavy armor ([plate armor](/3-Mechanics/CLI/items/plate-armor.md)), major, legendary (requires attunement)*  
-![](/3-Mechanics/CLI/items/img/armor-of-invulnerability.webp#right)
+# Rüstung der Unverwundbarkeit
+Rüstung ([[Ritterrüstung-phb|Ritterrüstung]]), selten (benötigt Einstimmung)
+<img src="img/armor-of-invulnerability.webp" align="right" width="150">
 
-- **Armor Class**: 18
-- **Strength**: Requires 15 STR.
-- **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
-- **Weight**: 65.0 lbs.
+- **Rüstungsklasse**: 18
+- **Stärke:** 15
+- **Heimlichkeit:** Nachteil
+- **Gewicht:** 32,5 kg
 
-You have resistance to nonmagical damage while you wear this armor. Additionally, you can use an action to make yourself immune to nonmagical damage for 10 minutes or until you are no longer wearing the armor. Once this special action is used, it can't be used again until the next dawn.
+Du hast Resistenz gegen nicht-magisch en Schaden, solange du die se Rüstung trägst. Zusätzlich kannst du eine Aktion aufbrauchen, um dich immun gegenüber nicht-magischem Schaden zu machen, für 10 Minuten oder bis du die Rüstung ausziehst. Sobald diese Spezialaktion genutzt wurde, kann sie bis zur nächsten Morgendämmerung nicht noch einmal eingesetzt werden.
 
 *Source: Dungeon Master's Guide p. 152. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

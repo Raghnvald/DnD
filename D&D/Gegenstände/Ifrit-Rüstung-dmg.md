@@ -1,7 +1,5 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Efreeti Chain
+Bezeichnung: Ifrit-Rüstung
 Rüstung: Schwer
 tags:
   - Gegenstand/Einstimmung/required
@@ -13,7 +11,7 @@ aliases:
 linter-yaml-title-alias: Efreeti Chain
 obsidianUIMode: preview
 ---
-# Efreeti Chain
+# Ifrit-Rüstung
 *Heavy armor ([chain mail](/3-Mechanics/CLI/items/chain-mail.md)), major, legendary (requires attunement)*  
 ![](/3-Mechanics/CLI/items/img/efreeti-chain.webp#right)
 

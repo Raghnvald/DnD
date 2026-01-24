@@ -1,23 +1,27 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: +2 Shield
+Bezeichnung: Schild +2
+Typ: Rüstung
 Rüstung: Schild
+Eigenschaften: /
+Kst.: /
+Gew.: 3,0 kg
+RK: 2
+STR: /
+Heiml.: /
 tags:
   - Gegenstand/Rüstung/Schild/
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/dmg
 aliases:
   - +2 Shield
-linter-yaml-title-alias: +2 Shield
-obsidianUIMode: preview
+linter-yaml-title-alias: Schild +2
 ---
-# +2 Shield
-*Armor ([shield](/3-Mechanics/CLI/items/shield.md)), major, rare*  
+# Schild +2
+*Rüstung ([[Gegenstände/Schild-phb|Schild]]), selten*  
 
-- **Armor Class**: 2
-- **Weight**: 6.0 lbs.
+- **Rüstungsklasse**: 2
+- **Gewicht**: 3,0 kg.
 
-While holding this shield, you have a +2 bonus to AC. This bonus is in addition to the shield's normal bonus to AC.
+Während du diesen Schild trägst, hast du einen +2 Bonus auf deine Rüstungsklasse. Dieser Bonus gilt zusätzlich zu dem normalen RK-Bonus des Schilds.
 
 *Source: Dungeon Master's Guide p. 200. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

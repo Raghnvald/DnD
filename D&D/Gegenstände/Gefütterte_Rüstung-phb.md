@@ -2,11 +2,11 @@
 Bezeichnung: Gefütterte Rüstung
 Typ: Rüstung
 Rüstung: Leicht
-Eigenschaften: n/v
+Eigenschaften: /
 Kst.: 5 GM
 Gew.: 4,0 kg
 RK: 11 + GES
-STR: n/v
+STR: /
 Heiml.: Nachteil
 tags:
   - Gegenstand/Rüstung/Leicht

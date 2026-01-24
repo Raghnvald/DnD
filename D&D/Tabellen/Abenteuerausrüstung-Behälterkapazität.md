@@ -12,14 +12,14 @@ aliases:
 
 | Behälter                                         | Kapazität                                   |
 | ------------------------------------------------ | ------------------------------------------- |
-| [[Becher]] oder [[Humpen]]                       | 0,5 Liter Flüssigkeit                       |
+| [[Becher-old]] oder [[Humpen]]                       | 0,5 Liter Flüssigkeit                       |
 | [[Beutel]]                                       | 5,6 Liter/3 Kilogramm Ausrüstung            |
-| [[Eimer]]                                        | 12 Liter Flüssigkeit, 14 Liter Feststoffe   |
+| [[Eimer-old]]                                        | 12 Liter Flüssigkeit, 14 Liter Feststoffe   |
 | [[Eisentopf]]                                    | 4 Liter Flüssigkeit                         |
 | [[Fass]]                                         | 160 Liter Flüssigkeit, 132 Liter Feststoffe |
 | [[Glasflasche]]                                  | 1,5 Liter Flüssigkeit                       |
-| [[Kiste]]                                        | 336 Liter/150 Kilogramm Ausrüstung          |
-| [[Korb]]                                         | 56 Liter/20 Kilogramm Ausrüstung            |
+| [[Kiste-old]]                                        | 336 Liter/150 Kilogramm Ausrüstung          |
+| [[Korb-old]]                                         | 56 Liter/20 Kilogramm Ausrüstung            |
 | [[Phiole]]                                       | 120 Milliliter Flüssigkeit                  |
 | [[Rucksack-phb]]*                                    | 28 Liter/15 Kilogramm Ausrüstung            |
 | [[Sack]]                                         | 28 Liter/15 Kilogramm Ausrüstung            |

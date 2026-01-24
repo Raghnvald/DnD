@@ -1,7 +1,7 @@
 ---
 cssclasses:
   - json5e-item
-Bezeichnung: "Executioner's Axe"
+Bezeichnung: Executioner's Axe
 tags:
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/Waffe/Einfach
@@ -10,13 +10,12 @@ tags:
   - Gegenstand/wundersam/generic-variant
   - Quelle/5e/xdmg
 aliases:
-  - "Executioner's Axe"
   - Executioner's Axe
   - Executioner's Battleaxe
   - Executioner's Greataxe
   - Executioner's Halberd
   - Executioner's Handaxe
-linter-yaml-title-alias: "Executioner's Axe"
+linter-yaml-title-alias: Executioner's Axe
 ---
 # Executioner's Axe
 *Very rare*  

@@ -1,13 +1,12 @@
 ---
-Bezeichnung: "Alchemist's Supplies"
+Bezeichnung: Alchemist's Supplies
 tags:
   - Gegenstand/Ausrüstung/Werkzeug
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
-  - "Alchemist's Supplies"
   - Alchemist's Supplies
-linter-yaml-title-alias: "Alchemist's Supplies"
+linter-yaml-title-alias: Alchemist's Supplies
 ---
 # Alchemist's Supplies
 *Artisan's tools*  

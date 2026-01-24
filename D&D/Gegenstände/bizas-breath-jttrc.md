@@ -1,15 +1,14 @@
 ---
 cssclasses:
   - json5e-item
-Bezeichnung: "Biza's Breath"
+Bezeichnung: Biza's Breath
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/jttrc
 aliases:
-  - "Biza's Breath"
   - Biza's Breath
-linter-yaml-title-alias: "Biza's Breath"
+linter-yaml-title-alias: Biza's Breath
 obsidianUIMode: preview
 ---
 # Biza's Breath
