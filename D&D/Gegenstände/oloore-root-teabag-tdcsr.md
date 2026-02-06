@@ -9,7 +9,6 @@ tags:
 aliases:
   - Oloore Root Teabag
 linter-yaml-title-alias: Oloore Root Teabag
-obsidianUIMode: preview
 ---
 # Oloore Root Teabag
 *Illegal drug*  

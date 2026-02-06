@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Sword of Life Stealing
-Typ: Nahkampf-Kriegswaffe (generisch)
+Kategorie: Nahkampf-Kriegswaffe (generisch)
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
@@ -19,7 +19,6 @@ aliases:
   - Shortsword of Life Stealing
   - Sword of Life Stealing
 linter-yaml-title-alias: Sword of Life Stealing
-obsidianUIMode: preview
 ---
 # Sword of Life Stealing
 *Major, rare (requires attunement)*  

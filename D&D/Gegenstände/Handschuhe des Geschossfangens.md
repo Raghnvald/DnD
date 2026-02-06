@@ -8,7 +8,6 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Gloves of Missile Snaring
-  - Handschuhe-des-Geschossfangens
 linter-yaml-title-alias: Handschuhe-des-Geschossfangens
 ---
 # Handschuhe-des-Geschossfangens

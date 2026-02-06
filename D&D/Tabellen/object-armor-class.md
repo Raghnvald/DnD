@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Quelle/5e/dmg
+  - Quelle/5e/dmg
 aliases:
-- Object Armor Class
+  - Object Armor Class
 ---
 # Object Armor Class
 *Source: Dungeon Master's Guide p. 246. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>* 

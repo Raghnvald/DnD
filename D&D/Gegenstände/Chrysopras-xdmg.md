@@ -9,7 +9,6 @@ tags:
 aliases:
   - Chrysoprase
 linter-yaml-title-alias: Chrysoprase
-obsidianUIMode: preview
 ---
 # Chrysoprase
 *Treasure (gemstone)*  

@@ -9,7 +9,6 @@ tags:
 aliases:
   - Ladder
 linter-yaml-title-alias: Ladder
-obsidianUIMode: preview
 ---
 # Ladder
 *Adventuring gear*  

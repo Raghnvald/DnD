@@ -1,7 +1,9 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Exotic Saddle
+Bezeichnung: Exotischer Sattel
+Kategorie: Zaumzeug, Harnisch und gezogene Fahrzeuge
+Eigenschaften: /
+Kst.: 60 GM
+Gew.: 20,0 kg
 tags:
   - Gegenstand/Ausrüstung/tack-and-harness
   - Gegenstand/Seltenheit/keine
@@ -9,14 +11,13 @@ tags:
 aliases:
   - Exotic Saddle
 linter-yaml-title-alias: Exotic Saddle
-obsidianUIMode: preview
 ---
-# Exotic Saddle
-*Tack and harness*  
+# Exotischer Sattel
+*Zaumzeug und Harnisch*  
 
-- **Cost**: 60 gp
-- **Weight**: 40.0 lbs.
+- **Kosten**: 60 GM
+- **Gewicht**: 20,0 kg.
 
-An exotic saddle is required for riding any aquatic or flying mount.
+Ein exotischer Sattel wird zum Reiten von fliegenden oder Wasserreittieren benötigt.
 
-*Source: Player's Handbook p. 157. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+*Quelle: Spielerhandbuch S. 157. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*

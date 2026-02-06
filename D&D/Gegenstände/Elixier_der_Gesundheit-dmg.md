@@ -9,7 +9,6 @@ tags:
 aliases:
   - Elixir of Health
 linter-yaml-title-alias: Elixir of Health
-obsidianUIMode: preview
 ---
 # Elixir of Health
 *Potion, minor, rare*  

@@ -9,7 +9,6 @@ tags:
 aliases:
   - Potion of Necrotic Resistance
 linter-yaml-title-alias: Potion of Necrotic Resistance
-obsidianUIMode: preview
 ---
 # Potion of Necrotic Resistance
 *Potion, minor, uncommon*  

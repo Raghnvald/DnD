@@ -1,12 +1,12 @@
 ---
 cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
-Bezeichnung: 
-Typ: 
-Größe: 
-HG: 
+Bezeichnung:
+Kategorie:
+Größe:
+HG:
 status:
-image: 
+image:
 tags:
   - Quelle/
   - Monster/HG/

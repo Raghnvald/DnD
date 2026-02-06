@@ -1,8 +1,8 @@
 ---
 cssclasses:
   - json5e-item
-Bezeichnung: Shatterspike
-Typ: Nahkampf-Kriegswaffe
+Bezeichnung: Schmetterdorn
+Kategorie: Nahkampf-Kriegswaffe
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/ungewöhnlich
@@ -12,7 +12,6 @@ tags:
 aliases:
   - Shatterspike
 linter-yaml-title-alias: Shatterspike
-obsidianUIMode: preview
 ---
 # Shatterspike
 *Weapon (longsword), uncommon (requires attunement)*  

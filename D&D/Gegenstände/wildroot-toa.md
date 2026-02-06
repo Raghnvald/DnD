@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Wildroot
+Kategorie: Abenteuerausrüstung
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/unbekannt
@@ -9,7 +10,6 @@ tags:
 aliases:
   - Wildroot
 linter-yaml-title-alias: Wildroot
-obsidianUIMode: preview
 ---
 # Wildroot
 *Adventuring gear*  

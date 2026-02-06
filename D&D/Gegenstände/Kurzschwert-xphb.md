@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Shortsword
-Typ: Nahkampf-Kriegswaffe
+Kategorie: Nahkampf-Kriegswaffe
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/Kriegswaffe
@@ -11,7 +11,6 @@ tags:
 aliases:
   - Shortsword
 linter-yaml-title-alias: Shortsword
-obsidianUIMode: preview
 ---
 # Shortsword
 *Weapon*  

@@ -9,7 +9,6 @@ tags:
 aliases:
   - Coral
 linter-yaml-title-alias: Coral
-obsidianUIMode: preview
 ---
 # Coral
 *Treasure (gemstone)*  

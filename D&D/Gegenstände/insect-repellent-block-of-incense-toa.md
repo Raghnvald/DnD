@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Insect Repellent (block of incense)
+Kategorie: Abenteuerausrüstung
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
@@ -9,7 +10,6 @@ tags:
 aliases:
   - Insect Repellent (block of incense)
 linter-yaml-title-alias: Insect Repellent (block of incense)
-obsidianUIMode: preview
 ---
 # Insect Repellent (block of incense)
 *Adventuring gear*  

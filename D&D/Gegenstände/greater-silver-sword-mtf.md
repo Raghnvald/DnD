@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Greater Silver Sword
-Typ: Nahkampf-Kriegswaffe
+Kategorie: Nahkampf-Kriegswaffe
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -12,7 +12,6 @@ tags:
 aliases:
   - Greater Silver Sword
 linter-yaml-title-alias: Greater Silver Sword
-obsidianUIMode: preview
 ---
 # Greater Silver Sword
 *Weapon ([greatsword](/3-Mechanics/CLI/items/greatsword-xphb.md)), legendary (requires attunement by a creature that has psionic ability)*  

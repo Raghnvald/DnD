@@ -2,7 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Zombie
-Typ: Untoter
+Kategorie: Untoter
 Größe: Mittelgroß
 HG: 1/4
 Habitat:

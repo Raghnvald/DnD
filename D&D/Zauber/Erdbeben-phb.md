@@ -19,7 +19,6 @@ classes:
 aliases:
   - Earthquake
 linter-yaml-title-alias: Earthquake
-obsidianUIMode: preview
 ---
 # Earthquake
 *8th-level, Evocation*  

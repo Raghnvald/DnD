@@ -21,7 +21,6 @@ classes:
 aliases:
   - Protection from Poison
 linter-yaml-title-alias: Protection from Poison
-obsidianUIMode: preview
 ---
 # Protection from Poison
 *2nd-level, Abjuration*  

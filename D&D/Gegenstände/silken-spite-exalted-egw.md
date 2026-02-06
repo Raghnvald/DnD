@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Silken Spite (Exalted)
-Typ: Nahkampf-Kriegswaffe
+Kategorie: Nahkampf-Kriegswaffe
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/Artefakt
@@ -12,7 +12,6 @@ tags:
 aliases:
   - Silken Spite (Exalted)
 linter-yaml-title-alias: Silken Spite (Exalted)
-obsidianUIMode: preview
 ---
 # Silken Spite (Exalted)
 *Weapon ([rapier](/3-Mechanics/CLI/items/rapier-xphb.md)), artifact (requires attunement)*  

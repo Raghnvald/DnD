@@ -9,7 +9,6 @@ tags:
 aliases:
   - Matchless Pipe
 linter-yaml-title-alias: Matchless Pipe
-obsidianUIMode: preview
 ---
 # Matchless Pipe
 

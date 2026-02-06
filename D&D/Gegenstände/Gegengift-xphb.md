@@ -9,7 +9,6 @@ tags:
 aliases:
   - Antitoxin
 linter-yaml-title-alias: Antitoxin
-obsidianUIMode: preview
 ---
 # Antitoxin
 *Adventuring gear*  

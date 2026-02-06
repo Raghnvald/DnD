@@ -8,7 +8,6 @@ tags:
 aliases:
   - Puzzle Card
 linter-yaml-title-alias: Puzzle Card
-obsidianUIMode: preview
 ---
 # Puzzle Card
 *Wondrous item, legendary*  

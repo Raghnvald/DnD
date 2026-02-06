@@ -10,7 +10,6 @@ tags:
 aliases:
   - Javelin
 linter-yaml-title-alias: Javelin
-obsidianUIMode: preview
 ---
 # Javelin
 *Weapon*  

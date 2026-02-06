@@ -9,7 +9,6 @@ tags:
 aliases:
   - Embroidered silk handkerchief
 linter-yaml-title-alias: Embroidered silk handkerchief
-obsidianUIMode: preview
 ---
 # Embroidered silk handkerchief
 *Treasure (art object)*  

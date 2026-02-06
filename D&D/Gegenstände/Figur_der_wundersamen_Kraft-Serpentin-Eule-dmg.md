@@ -8,7 +8,6 @@ tags:
 aliases:
   - Figurine of Wondrous Power, Serpentine Owl
 linter-yaml-title-alias: Figurine of Wondrous Power, Serpentine Owl
-obsidianUIMode: preview
 ---
 # Figurine of Wondrous Power, Serpentine Owl
 *Wondrous item, major, rare*  

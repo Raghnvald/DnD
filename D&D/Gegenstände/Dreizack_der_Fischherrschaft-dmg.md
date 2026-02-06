@@ -1,6 +1,6 @@
 ---
-Bezeichnung: Trident of Fish Command
-Typ: Nahkampf-Kriegswaffe
+Bezeichnung: Dreizack der Fischherrschaft
+Kategorie: Nahkampf-Kriegswaffe
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/ungewöhnlich

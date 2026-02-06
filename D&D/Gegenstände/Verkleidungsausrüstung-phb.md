@@ -1,7 +1,9 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Disguise Kit
+Bezeichnung: Verkleidungsausrüstung
+Kategorie: Werkzeug
+Eigenschaften: /
+Kst.: 25 GM
+Gew.: 1,0 kg
 tags:
   - Gegenstand/Ausrüstung/Werkzeug
   - Gegenstand/Seltenheit/keine
@@ -9,14 +11,15 @@ tags:
 aliases:
   - Disguise Kit
 linter-yaml-title-alias: Disguise Kit
-obsidianUIMode: preview
+Aktiv: false
+Menge: "1"
 ---
-# Disguise Kit
-*Tool*  
+# Verkleidungsausrüstung
+*Werkzeug*
 
-- **Cost**: 25 gp
-- **Weight**: 3.0 lbs.
+- **Kosten**: 25 Goldmünzen
+- **Gewicht:** 1,0 kg.
 
-This pouch of cosmetics, hair dye, and small props lets you create disguises that change your physical appearance. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to create a visual disguise.
+Dieser Beutel mit Schminke, Haarfärbemitteln und kleinen Requisiten lässt dich Verkleidungen entwerfen, die dein Äußeres verändern. Bist du im Umgang mit diesem Werkzeug geübt, darfst du deinen Übungsbonus auf alle Attributs- und Fertigkeitswürfe addieren, wenn du dich äußerlich verkleidest.
 
-*Source: Player's Handbook p. 154, Xanathar's Guide to Everything p. 81. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+*Quelle: Spielerhandbuch S. 154, Xanathars Ratgeber für Alles S. 81. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*

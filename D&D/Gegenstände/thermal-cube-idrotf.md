@@ -8,7 +8,6 @@ tags:
 aliases:
   - Thermal Cube
 linter-yaml-title-alias: Thermal Cube
-obsidianUIMode: preview
 ---
 # Thermal Cube
 *Wondrous item, common*  

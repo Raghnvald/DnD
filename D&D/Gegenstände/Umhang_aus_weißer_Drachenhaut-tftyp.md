@@ -9,7 +9,6 @@ tags:
 aliases:
   - White Dragon Cape
 linter-yaml-title-alias: White Dragon Cape
-obsidianUIMode: preview
 ---
 # White Dragon Cape
 

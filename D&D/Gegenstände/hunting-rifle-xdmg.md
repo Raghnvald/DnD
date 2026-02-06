@@ -11,7 +11,6 @@ tags:
 aliases:
   - Hunting Rifle
 linter-yaml-title-alias: Hunting Rifle
-obsidianUIMode: preview
 ---
 # Hunting Rifle
 *Weapon*  

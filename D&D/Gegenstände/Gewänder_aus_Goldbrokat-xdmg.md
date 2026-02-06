@@ -9,7 +9,6 @@ tags:
 aliases:
   - Cloth-of-gold vestments
 linter-yaml-title-alias: Cloth-of-gold vestments
-obsidianUIMode: preview
 ---
 # Cloth-of-gold vestments
 *Treasure (art object)*  

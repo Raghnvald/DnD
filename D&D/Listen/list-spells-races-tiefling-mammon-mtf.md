@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Zauber/list/subrace/tiefling-mammon
+  - Zauber/list/subrace/tiefling-mammon
 aliases:
-- Spells for Tiefling (Mammon)
+  - Spells for Tiefling (Mammon)
 ---
 # Spells for Tiefling (Mammon)
 

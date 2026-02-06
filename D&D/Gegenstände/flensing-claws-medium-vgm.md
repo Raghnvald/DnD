@@ -9,7 +9,6 @@ tags:
 aliases:
   - Flensing Claws (Medium)
 linter-yaml-title-alias: Flensing Claws (Medium)
-obsidianUIMode: preview
 ---
 # Flensing Claws (Medium)
 

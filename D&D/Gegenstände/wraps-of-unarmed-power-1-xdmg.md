@@ -8,7 +8,6 @@ tags:
 aliases:
   - +1 Wraps of Unarmed Power
 linter-yaml-title-alias: +1 Wraps of Unarmed Power
-obsidianUIMode: preview
 ---
 # +1 Wraps of Unarmed Power
 *Wondrous item, uncommon*  

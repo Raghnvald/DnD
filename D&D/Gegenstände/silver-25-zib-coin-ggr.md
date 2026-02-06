@@ -9,7 +9,6 @@ tags:
 aliases:
   - Silver 25-Zib Coin
 linter-yaml-title-alias: Silver 25-Zib Coin
-obsidianUIMode: preview
 ---
 # Silver 25-Zib Coin
 *Treasure (coinage)*  

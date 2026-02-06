@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Orb of Shielding
+Kategorie: Wundersamer Gegenstand
 tags:
   - Gegenstand/Ausrüstung/Zauberfokus
   - Gegenstand/Einstimmung/required
@@ -10,7 +11,6 @@ tags:
 aliases:
   - Orb of Shielding
 linter-yaml-title-alias: Orb of Shielding
-obsidianUIMode: preview
 ---
 # Orb of Shielding
 *Wondrous item, spellcasting focus, common (requires attunement)*  

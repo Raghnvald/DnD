@@ -9,7 +9,6 @@ tags:
 aliases:
   - Gaming Set
 linter-yaml-title-alias: Gaming Set
-obsidianUIMode: preview
 ---
 # Gaming Set
 *Gaming set*  

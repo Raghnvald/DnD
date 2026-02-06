@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Identifizieren
+Zaubergrad: 1
 Zeitaufwand: 1 Minute
 Reichweite: Berührung
 Komponenten: V, G, M

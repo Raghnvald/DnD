@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Quelle/5e/vgm
+  - Quelle/5e/vgm
 aliases:
-- Random Hag Minions; Servants
+  - Random Hag Minions; Servants
 ---
 # Random Hag Minions; Servants
 *Source: Volo's Guide to Monsters p. 61* 

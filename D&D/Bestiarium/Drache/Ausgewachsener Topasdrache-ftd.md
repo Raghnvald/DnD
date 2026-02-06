@@ -2,7 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Adult Topaz Dragon
-Typ: Drache (Edelstein)
+Kategorie: Drache (Edelstein)
 Größe: Riesig
 HG: 13
 Habitat:

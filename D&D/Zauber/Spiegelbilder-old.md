@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spiegelbilder
+Zaubergrad: 2
 Zeitaufwand: 1 Aktion
 Reichweite: selbst
 Komponenten: V, G

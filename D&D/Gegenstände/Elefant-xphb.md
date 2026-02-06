@@ -9,7 +9,6 @@ tags:
 aliases:
   - Elephant
 linter-yaml-title-alias: Elephant
-obsidianUIMode: preview
 ---
 # Elephant
 *Mount*  

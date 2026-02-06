@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Silver ewer
+Kategorie: Kunstobjekt
 tags:
   - Gegenstand/Ausrüstung/treasure-art-object
   - Gegenstand/Seltenheit/keine
@@ -9,7 +10,6 @@ tags:
 aliases:
   - Silver ewer
 linter-yaml-title-alias: Silver ewer
-obsidianUIMode: preview
 ---
 # Silver ewer
 *Treasure (art object)*  

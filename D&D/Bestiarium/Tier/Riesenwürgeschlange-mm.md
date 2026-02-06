@@ -2,7 +2,7 @@
 cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
 Name: Riesenwürgeschlange
-Typ: Tier
+Kategorie: Tier
 Größe: Groß
 HG: 2
 Habitat:

@@ -25,7 +25,6 @@ classes:
 aliases:
   - Remove Curse
 linter-yaml-title-alias: Remove Curse
-obsidianUIMode: preview
 ---
 # Remove Curse
 *3rd-level, Abjuration*  

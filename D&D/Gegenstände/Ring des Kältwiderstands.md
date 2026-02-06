@@ -10,7 +10,6 @@ tags:
 aliases:
   - Ring of Cold Resistance
 linter-yaml-title-alias: Ring of Cold Resistance
-obsidianUIMode: preview
 ---
 # Ring of Cold Resistance
 *Ring, major, rare (requires attunement)*  

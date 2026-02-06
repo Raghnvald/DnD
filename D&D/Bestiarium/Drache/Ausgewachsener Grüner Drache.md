@@ -2,7 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Adult Green Dragon
-Typ: Drache
+Kategorie: Drache
 Größe: Riesig
 HG: 15
 Habitat:

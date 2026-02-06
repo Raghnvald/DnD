@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Zauber/list/optfeature/sculptor-of-flesh
+  - Zauber/list/optfeature/sculptor-of-flesh
 aliases:
-- Spells for Sculptor of Flesh
+  - Spells for Sculptor of Flesh
 ---
 # Spells for Sculptor of Flesh
 

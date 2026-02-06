@@ -1,8 +1,8 @@
 ---
 cssclasses:
   - json5e-item
-Bezeichnung: Trident
-Typ: Nahkampf-Kriegswaffe
+Bezeichnung: Dreizack
+Kategorie: Nahkampf-Kriegswaffe
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/Kriegswaffe
@@ -11,7 +11,6 @@ tags:
 aliases:
   - Trident
 linter-yaml-title-alias: Trident
-obsidianUIMode: preview
 ---
 # Trident
 *Weapon*  

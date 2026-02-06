@@ -8,7 +8,6 @@ tags:
 aliases:
   - Dust of Dryness
 linter-yaml-title-alias: Dust of Dryness
-obsidianUIMode: preview
 ---
 # Dust of Dryness
 *Wondrous item, minor, uncommon*  

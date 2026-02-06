@@ -9,7 +9,6 @@ tags:
 aliases:
   - Garnet
 linter-yaml-title-alias: Garnet
-obsidianUIMode: preview
 ---
 # Garnet
 *Treasure (gemstone)*  

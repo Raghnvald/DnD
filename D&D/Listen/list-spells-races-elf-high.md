@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Zauber/list/subrace/elf-high
+  - Zauber/list/subrace/elf-high
 aliases:
-- Spells for Elf (High)
+  - Spells for Elf (High)
 ---
 # Spells for Elf (High)
 

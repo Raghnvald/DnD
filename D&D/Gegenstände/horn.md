@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Horn
+Kategorie: Werkzeug
 tags:
   - Gegenstand/Ausrüstung/Instrument
   - Gegenstand/Seltenheit/keine
@@ -9,7 +10,6 @@ tags:
 aliases:
   - Horn
 linter-yaml-title-alias: Horn
-obsidianUIMode: preview
 ---
 # Horn
 *Instrument*  

@@ -9,7 +9,6 @@ tags:
 aliases:
   - Banded Agate
 linter-yaml-title-alias: Banded Agate
-obsidianUIMode: preview
 ---
 # Banded Agate
 *Treasure (gemstone)*  

@@ -9,7 +9,6 @@ tags:
 aliases:
   - Common Wine (bottle)
 linter-yaml-title-alias: Common Wine (bottle)
-obsidianUIMode: preview
 ---
 # Common Wine (bottle)
 *Food and drink*  

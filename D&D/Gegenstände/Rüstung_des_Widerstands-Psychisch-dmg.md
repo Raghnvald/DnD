@@ -27,7 +27,6 @@ aliases:
   - Splint Armor of Psychic Resistance
   - Studded Leather Armor of Psychic Resistance
 linter-yaml-title-alias: Armor of Psychic Resistance
-obsidianUIMode: preview
 ---
 # Armor of Psychic Resistance
 *Major, rare (requires attunement)*  

@@ -9,7 +9,6 @@ tags:
 aliases:
   - Crossbow Bolt Case
 linter-yaml-title-alias: Crossbow Bolt Case
-obsidianUIMode: preview
 ---
 # Crossbow Bolt Case
 *Adventuring gear*  

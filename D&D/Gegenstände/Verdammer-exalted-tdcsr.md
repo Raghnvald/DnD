@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Condemner (Exalted)
-Typ: Fernkampf-Kriegswaffe
+Kategorie: Fernkampf-Kriegswaffe
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -12,7 +12,6 @@ tags:
 aliases:
   - Condemner (Exalted)
 linter-yaml-title-alias: Condemner (Exalted)
-obsidianUIMode: preview
 ---
 # Condemner (Exalted)
 *Weapon ([heavy crossbow](/3-Mechanics/CLI/items/heavy-crossbow-xphb.md)), legendary (requires attunement)*  

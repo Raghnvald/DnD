@@ -9,7 +9,6 @@ tags:
 aliases:
   - Brooch of Living Essence
 linter-yaml-title-alias: Brooch of Living Essence
-obsidianUIMode: preview
 ---
 # Brooch of Living Essence
 *Wondrous item, uncommon (requires attunement)*  

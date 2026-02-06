@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Orb of Shielding (Shavarran Chert)
+Kategorie: Wundersamer Gegenstand
 tags:
   - Gegenstand/Ausrüstung/Zauberfokus
   - Gegenstand/Einstimmung/required
@@ -13,7 +14,6 @@ aliases:
   - Shavarran Chert Crystal
   - Shavarran Chert Orb
 linter-yaml-title-alias: Orb of Shielding (Shavarran Chert)
-obsidianUIMode: preview
 ---
 # Orb of Shielding (Shavarran Chert)
 *Wondrous item, common (requires attunement)*  

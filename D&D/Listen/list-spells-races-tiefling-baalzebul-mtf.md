@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Zauber/list/subrace/tiefling-baalzebul
+  - Zauber/list/subrace/tiefling-baalzebul
 aliases:
-- Spells for Tiefling (Baalzebul)
+  - Spells for Tiefling (Baalzebul)
 ---
 # Spells for Tiefling (Baalzebul)
 

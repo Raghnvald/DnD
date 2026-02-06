@@ -1,6 +1,6 @@
 ---
 Bezeichnung: Seide (1 Quadratmeter)
-Typ: Handelsware
+Kategorie: Handelsware
 Eigenschaften: n/v
 Kst.: 10 GM
 Gew.: n/v

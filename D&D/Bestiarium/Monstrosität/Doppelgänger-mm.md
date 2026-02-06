@@ -2,7 +2,7 @@
 cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
 Name: Doppelgänger
-Typ: Monstrosität
+Kategorie: Monstrosität
 Größe: Mittelgroß
 HG: 3
 Habitat:

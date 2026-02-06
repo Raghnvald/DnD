@@ -9,7 +9,6 @@ tags:
 aliases:
   - Carved ivory statuette
 linter-yaml-title-alias: Carved ivory statuette
-obsidianUIMode: preview
 ---
 # Carved ivory statuette
 *Treasure (art object)*  

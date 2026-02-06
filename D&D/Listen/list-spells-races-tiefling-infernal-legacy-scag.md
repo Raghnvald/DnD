@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Zauber/list/subrace/tiefling-infernal-legacy
+  - Zauber/list/subrace/tiefling-infernal-legacy
 aliases:
-- Spells for Tiefling (Infernal Legacy)
+  - Spells for Tiefling (Infernal Legacy)
 ---
 # Spells for Tiefling (Infernal Legacy)
 

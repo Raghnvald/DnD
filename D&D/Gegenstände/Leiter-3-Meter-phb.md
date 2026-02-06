@@ -9,7 +9,6 @@ tags:
 aliases:
   - Ladder (10-foot)
 linter-yaml-title-alias: Ladder (10-foot)
-obsidianUIMode: preview
 ---
 # Ladder (10-foot)
 *Adventuring gear*  

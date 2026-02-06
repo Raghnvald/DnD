@@ -1,10 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- ttrpg-cli/compendium/src/5e/dsotdq
+  - ttrpg-cli/compendium/src/5e/dsotdq
 aliases:
-- Chapter 2: Prelude to War
+  - Chapter 2: Prelude to War
 ---
 # Chapter 2: Prelude to War
 *Source: Dragonlance: Shadow of the Dragon Queen, p. 37* 

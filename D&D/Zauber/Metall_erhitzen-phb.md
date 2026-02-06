@@ -15,7 +15,6 @@ classes:
 aliases:
   - Heat Metal
 linter-yaml-title-alias: Heat Metal
-obsidianUIMode: preview
 ---
 # Heat Metal
 *2nd-level, Transmutation*  

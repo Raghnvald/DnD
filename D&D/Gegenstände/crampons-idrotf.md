@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Crampons
+Kategorie: Abenteuerausrüstung
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
@@ -9,7 +10,6 @@ tags:
 aliases:
   - Crampons
 linter-yaml-title-alias: Crampons
-obsidianUIMode: preview
 ---
 # Crampons
 *Adventuring gear*  

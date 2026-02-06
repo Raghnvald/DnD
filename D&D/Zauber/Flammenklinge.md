@@ -14,7 +14,6 @@ classes:
 aliases:
   - Flame Blade
 linter-yaml-title-alias: Flame Blade
-obsidianUIMode: preview
 ---
 # Flame Blade
 *2nd-level, Evocation*  

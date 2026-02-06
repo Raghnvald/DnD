@@ -9,7 +9,6 @@ tags:
 aliases:
   - Badge of the Watch
 linter-yaml-title-alias: Badge of the Watch
-obsidianUIMode: preview
 ---
 # Badge of the Watch
 *Wondrous item, rare (requires attunement)*  

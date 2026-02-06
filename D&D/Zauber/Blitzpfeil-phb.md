@@ -13,7 +13,6 @@ classes:
 aliases:
   - Lightning Arrow
 linter-yaml-title-alias: Lightning Arrow
-obsidianUIMode: preview
 ---
 # Lightning Arrow
 *3rd-level, Transmutation*  

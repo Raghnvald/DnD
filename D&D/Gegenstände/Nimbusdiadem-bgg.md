@@ -9,7 +9,6 @@ tags:
 aliases:
   - Nimbus Coronet
 linter-yaml-title-alias: Nimbus Coronet
-obsidianUIMode: preview
 ---
 # Nimbus Coronet
 *Wondrous item, very rare (requires attunement)*  

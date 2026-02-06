@@ -1,6 +1,6 @@
 ---
-Bezeichnung: Streitkolben des Terrors
-Typ: Einfache Nahkampfwaffe
+Bezeichnung: Streitkolben des Terrors-old
+Kategorie: Einfache Nahkampfwaffe
 Schaden: 1W6 Wucht
 Eigenschaften: erfordert Einstimmung
 Kst.: n/v

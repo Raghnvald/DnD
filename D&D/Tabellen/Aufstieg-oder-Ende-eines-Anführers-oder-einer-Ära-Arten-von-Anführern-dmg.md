@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Quelle/5e/dmg
+  - Quelle/5e/dmg
 aliases:
-- Rise or Fall of a Leader or an Era; Leader Types
+  - Rise or Fall of a Leader or an Era; Leader Types
 ---
 # Aufstieg oder Ende eines Anführers oder einer Ära; Arten von Anführern
 *Quellen: Spielleiterhandbuch S. 27* 

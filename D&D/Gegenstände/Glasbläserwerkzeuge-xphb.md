@@ -1,15 +1,14 @@
 ---
 cssclasses:
   - json5e-item
-Bezeichnung: "Glassblower's Tools"
+Bezeichnung: Glassblower's Tools
 tags:
   - Gegenstand/Ausrüstung/Werkzeug
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
-  - "Glassblower's Tools"
   - Glassblower's Tools
-linter-yaml-title-alias: "Glassblower's Tools"
+linter-yaml-title-alias: Glassblower's Tools
 ---
 # Glassblower's Tools
 *Artisan's tools*  

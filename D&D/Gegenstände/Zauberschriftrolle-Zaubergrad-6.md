@@ -1,6 +1,6 @@
 ---
 Bezeichnung: Zauberschriftrolle (Zaubergrad 6)
-Typ: Schriftrolle
+Kategorie: Schriftrolle
 Eigenschaften: n/v
 Kst.: 40.000 GM
 Gew.: n/v

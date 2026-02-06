@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-feat
+  - json5e-feat
 tags:
-- Quelle/5e/xphb
-- Kompendium/Optionales/ei
+  - Quelle/5e/xphb
+  - Kompendium/Optionales/ei
 aliases:
-- Lessons of the First Ones
+  - Lessons of the First Ones
 ---
 # Lessons of the First Ones
 *Source: Player's Handbook (2024) p. 156*  

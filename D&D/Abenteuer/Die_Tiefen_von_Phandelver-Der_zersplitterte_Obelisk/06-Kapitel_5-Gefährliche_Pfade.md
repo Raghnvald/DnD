@@ -238,7 +238,7 @@ Gildenmeisterin Halia Domklafter leitet die Reparaturarbeiten am Gebäude. Wenn 
 
 ##### Das Gebäude reparieren
 
-Charaktere können bei der Reparatur der Minenbörse helfen. Ein Charakter kann das Gebäude stützen, den erfahrenen Steinmetzen Material reichen, damit sie die Struktur reparieren können, oder die Materialien zur Reparatur des Schadens verwenden.Jeder helfende Charakter muss je nach Situation einen `SG-12-Stärkewurf` oder einen `SG-12-Geschicklichkeitswurf` ausführen. Charaktere, die einen der beiden Würfe ausführen und zudem im Umgang mit entsprechendem [[0-Handwerkszeug-phb|Handwerkszeug]] - etwa mit [[Gegenstände/masons-tools|Maurerwerkzeug]] - geübt sind, sind bei dem Wurf im Vorteil. 
+Charaktere können bei der Reparatur der Minenbörse helfen. Ein Charakter kann das Gebäude stützen, den erfahrenen Steinmetzen Material reichen, damit sie die Struktur reparieren können, oder die Materialien zur Reparatur des Schadens verwenden.Jeder helfende Charakter muss je nach Situation einen `SG-12-Stärkewurf` oder einen `SG-12-Geschicklichkeitswurf` ausführen. Charaktere, die einen der beiden Würfe ausführen und zudem im Umgang mit entsprechendem [[0-Handwerkszeug-phb|Handwerkszeug]] - etwa mit [[Maurerwerkzeuge-phb|Maurerwerkzeug]] - geübt sind, sind bei dem Wurf im Vorteil. 
 
 Sofern die Charaktere mindestens zwei Würfe bestehen, helfen sie dabei, die Reparaturen abzuschließen. Andernfalls wird Halia immer frustrierter. Sie schimpft mit den Charakteren, weil sie im Weg stehen, und weist sie an, sie nicht mehr zu belästigen, bis die Bergleute die Reparatur des Gebäudes abgeschlossen haben. 
 
@@ -272,164 +272,164 @@ Das behelfsmäßige Lager (siehe Karte 5.2) besteht aus ein paar Zelten und eine
 > "Ich hoffe, die anderen haben es zurückgeschafft, sonst holt sich Ruxithid unsere Köpfe!"
 ^1b5
 
-Currently, three [goblin psi brawlers](Goblin-Psi-Raufbold-pabtso.md) remain at the camp. A character can avoid the goblins' notice by succeeding on a DC 16 Dexterity ([Stealth](D&D/3-Mechanics/CLI/Fertigkeiten-phb.md#Stealth)) check. Otherwise, the hostile goblins detect any creature that enters their camp. If one of the goblins is killed, the others try to surrender.
+Derzeit befinden sich drei [[Goblin-Psi-Raufbold-pabtso|Goblin-Psi-Raufbolde]]  im Lager. Mit einem erfolgreichen `SG-16-Geschicklichkeitswurf` ([[01-Spielleiter/Fertigkeiten-phb#Heimlichkeit|Heimlichkeit]]) können Charaktere der Aufmerksamkeit der Goblins entgehen. Andernfalls entdecken die feindlich gesinnten Goblins jede Kreatur, die ihr Lager betritt. Wenn ein Goblin getötet wird, ergeben sich die anderen.
 
-##### The Clue
+##### Der Hinweis
 
-Eavesdropping on the camped goblins reveals that the goblin leader's name is Ruxithid. This is a clue that can help the characters or [Gwyn Oresong](Gwyn_Erzsang-pabtso.md) discover the truth.
+Wenn sie die Goblins im Lager belauschen, erfahren die Charaktere, dass der Name ihres Anführers Ruxithid lautet. Dieser Hinweis kann den Charakteren oder [[Gwyn_Erzsang-pabtso|Gwyn Erzsang]] helfen, die Wahrheit aufzudecken.
 
-##### Interrogating the Goblins
+##### Die Goblins verhören
 
-If any of the goblins are captured or [charmed](conditions-xphb.md#Charmed), the characters can take the goblins to Phandalin for questioning. See the "What the Goblins Know" section under "Townmaster's Plight" for the different pieces of information the characters can glean from the goblins. What happens to captured goblins is up to you and the players. If the characters ask, Harbin Wester reluctantly holds the goblins in the jail cells at the Townmaster's Hall until the characters can uncover what's going on.
+Wenn Goblins gefangen genommen oder [[Zustände-phb#Bezaubert|bezaubert]] werden, können die Charaktere sie zum Verhör zurück nach Phandalin bringen. Im Abschnitt „Was die Goblins wissen" unter „Die Misere des Bürgermeisters" findest du die Informationen, die Charaktere von den Goblins erfahren können. Was mit gefangenen Goblins passiert, liegt bei dir und den Spielern. Wenn die Charaktere darum bitten, hält Harbin Wester die Goblins widerwillig in den Arrestzellen im Rathaus fest, bis die Charaktere ihre Untersuchungen abschließen.
 
-### Shrine of Luck
+### Der Schrein des Glücks
 
-Built from material scavenged from the surrounding wilds, the Shrine of Luck consists of a strange assemblage of rocks and stones. Unbeknownst to the townspeople, one such stone in the shrine originated from the obelisk. This small, obsidian shard was a centerpiece in the shrine's archway for years until a band of goblins came in the wee hours of the morning and plucked it from its perch. This caused the entire arch to collapse atop the shrine, damaging it.
+Der Schrein des Glücks wurde mit Materialien aus der umliegenden Wildnis erbaut und besteht aus einer seltsamen Ansammlung von Felsen und Steinen. Die Dörfler wissen nicht, dass einer dieser Steine von dem Obelisken stammt. Dieser kleine Obsidiansplitter war jahrelang das Mittelstück im Torbogen des Schreins, bis in den frühen Morgenstunden eine Gruppe von Goblins kam und ihn von seinem Platz stahl. Dadurch stürzte der gesamte Bogen über dem Schrein ein und beschädigte ihn.
 
-#### Crime Scene
+#### Tatort
 
-When the characters investigate this crime scene, read the following:
+Lies folgenden Text vor, wenn die Charaktere diesen Tatort untersuchen:
 
 > [!readaloud] 
 > 
-> Once a striking cairn of colorful rocks and offerings to Tymora, this shrine now looks precarious. You see two figures attempting to move some of the shrine's larger rocks: the elf Sister Garaele and a human girl no more than ten years old.
+> Dieser Schrein war einst ein bunter Hügel aus Steinen und Opfergaben für Tymora - jetzt wirkt er wacklig. Zwei Gestalten versuchen, einige größere Steine des Schreins zu bewegen: die Elfe Schwester Garaele und ein Menschenmädchen, das nicht älter als zehn Jahre ist.
 ^1ba
 
-The young girl working alongside Sister Garaele is Tamara Stonehill, the daughter of innkeeper Toblen Stonehill. Early one morning, Tamara visited the Shrine of Luck to pray with her mother, Trilena. However, as they were walking up, part of the shrine collapsed, and three small creatures—the goblins—hurried away from the rubble carrying a stone. Tamara and Trilena have since been helping Sister Garaele rebuild the shrine; Tamara is sorting through smaller chunks of rubble to find still-usable pieces, while Trilena is retrieving food and water at the Stonehill Inn.
+Das junge Mädchen an der Seite von Schwester Garaele ist Tamara Steinhügel, die Tochter des Gastwirts Toblen Steinhügel. Eines frühen Morgens besuchte Tamara den Schrein des Glücks, um mit ihrer Mutter Trilena zu beten. Als sie sich ihm jedoch näherten, stürzte ein Teil des Schreins ein und drei kleine Kreaturen - die Goblins - eilten mit einem Stein aus den Trümmern davon. Seitdem helfen Tamara und Trilena Schwester Garaele dabei, den Schrein wiederaufzubauen. Tamara durchsucht die Trümmer nach Material, das noch verwendet werden kann, während Trilena Essen und Wasser vom Gasthaus Steinhügel bringt.
 
-![Goblins damaged the Shrine...](D&D/Abenteuer/Die_Tiefen_von_Phandelver-Der_zersplitterte_Obelisk/img/063-05-007-shrine-of-luck.webp#center "Goblins damaged the Shrine of Luck when they removed the obelisk shard from the pinnacle of the arch")
+![Goblins damaged the Shrine...](Die_Tiefen_von_Phandelver-Der_zersplitterte_Obelisk/img/063-05-007-shrine-of-luck.webp#center "Goblins damaged the Shrine of Luck when they removed the obelisk shard from the pinnacle of the arch")
 
-##### Sister Garaele
+##### Schwester Garaele
 
-Sister Garaele returned to Phandalin from a Harper mission a few hours after the shrine was vandalized. As such, she knows little about what occurred. If asked for information, she refers the characters to Trilena and Tamara.
+Schwester Garaele kehrte wenige Stunden nach der Zerstörung des Schreins von einer Mission der Harfner nach Phandalin zurück. Daher weiß sie wenig darüber, was geschehen ist. Wenn die Charaktere sie nach Informationen fragen, verweist sie auf Trilena und Tamara.
 
-Regardless, Garaele is visibly upset that the shrine has been desecrated. She gladly accepts any offers of help to rebuild and rededicate the shrine. A character can try to help by making a DC 15 Wisdom ([Survival](D&D/3-Mechanics/CLI/Fertigkeiten-phb.md#Survival)), Wisdom ([Religion](D&D/3-Mechanics/CLI/Fertigkeiten-phb.md#Religion)), or Dexterity ([Acrobatics](D&D/3-Mechanics/CLI/Fertigkeiten-phb.md#Acrobatics)) check. On a failed check, the shrine crumbles more, and the character takes 2 (`1d4`) bludgeoning damage from falling rocks.
+$\quad$Ungeachtet dessen ist Garaele sichtlich aufgebracht über die Schändung des Schreins. Sie nimmt jegliche Hilfsangebote zum Wiederaufbau und zur erneuten Weihung des Schreins an. Ein Charakter, der helfen will, kann einen `SG-15-Weisheitheitswurf` ([[01-Spielleiter/Fertigkeiten-phb#Überlebenskunst|Überlebenskunst]] oder [[01-Spielleiter/Fertigkeiten-phb#Religion|Religion]]) oder einen `SG-15-Geschicklichkeitswurf` ([[01-Spielleiter/Fertigkeiten-phb#Akrobatik|Akrobatik]]) ausführen. Scheitert der Wurf, stürzt der Schrein weiter ein und der Charakter erleidet 2 (`1W4`) Wuchtschaden durch herabfallende Steine.
 
-After three successful checks, the shrine is repaired.
+$\quad$Nach drei erfolgreichen Würfen ist der Schrein repariert.
 
-##### Investigating the Scene
+##### Den Tatort untersuchen
 
-Map 5.3 shows the shrine and the surrounding area. Characters searching the shrine for clues find a broken mining pick among the rubble; small, hastily made footprints leading down a nearby alley; and the glint of an axe embedded in the wall of one of the nearby buildings.
+Karte 5.3 zeigt den Schrein und seine Umgebung. Charaktere, die den Schrein nach Hinweisen untersuchen, finden in den Trümmern Folgendes: eine kaputte Spitzhacke, kleine, hastige Fußspuren, die in eine nahegelegene Gasse führen, und das Glitzern einer Axt, die in der Wand eines nahegelegenen Gebäudes steckt.
 
-##### The Clue
+##### Der Hinweis
 
-A character who examines the axe and succeeds on a DC 17 Intelligence ([History](D&D/3-Mechanics/CLI/Fertigkeiten-phb.md#History)) check recognizes the runes etched into the axe as duergar in origin. [Gwyn Oresong](Gwyn_Erzsang-pabtso.md) recognizes the runes' origin immediately, and the axe is a clue that can help her lead the characters to Zorzula's Rest.
+Ein Charakter, der die Axt untersucht und einen `SG-17-Intelligenzwurf` ([[01-Spielleiter/Fertigkeiten-phb#Geschichte|Geschichte]]) besteht, erkennt, dass die in die Axt eingravierten Runen von den Duergar stammen. [[Gwyn_Erzsang-pabtso|Gwyn Erzsang]] erkennt den Ursprung der Runen sofort. Die Axt ist ein Hinweis, der ihr helfen kann, die Charaktere zu Zorzulas Ruh zu führen.
 
 > [!gallery]
 > ![Map 5.3: Phandalin Alleys](D&D/Abenteuer/Die_Tiefen_von_Phandelver-Der_zersplitterte_Obelisk/img/064-map-5-03-phandalin-alleys.webp#gallery)
 > ![Player Version](D&D/Abenteuer/Die_Tiefen_von_Phandelver-Der_zersplitterte_Obelisk/img/065-map-5-03-phandalin-alleys-player.webp#gallery)
 
-#### Talking to Tamara
+#### Mit Tamara sprechen
 
-Tamara, a precocious ten-year-old, is focused on rebuilding the shrine. A character can convince her to answer questions while she's working by succeeding on a DC 14 Charisma ([Persuasion](D&D/3-Mechanics/CLI/Fertigkeiten-phb.md#Persuasion)) check. Once the shrine has been repaired, Tamara answers the characters' questions freely.
+Tamara, eine altkluge Zehnjährige, konzentriert sich auf den Wiederaufbau des Schreins. Ein Charakter, der einen `SG-14-Charismawurf` ([[01-Spielleiter/Fertigkeiten-phb#Überzeugen|Überzeugen]]) besteht, kann sie dazu überreden, während ihrer Arbeit Fragen zu beantworten. Sobald der Schrein repariert wurde, beantwortet Tamara die Fragen der Charaktere bereitwillig.
 
-Tamara knows the following pieces of information:
+$\quad$Tamara weiß die folgenden Informationen:
 
-- **Regular Worship.** Trilena and Tamara visited the shrine at dawn to make their weekly offering to Tymora, only to see the shrine suddenly cave in.  
-- **Small Shadows.** Both Trilena and Tamara saw three squat shadows hurry away from the shrine after it fell. Tamara swears she also heard a gaggle of shrill voices just before it fell, though she didn't understand the language the voices were speaking.  
-- **Stolen Centerpiece.** Based on how the stones fell, Tamara figures that someone must have taken the centerpiece of the shrine's rock archway without replacing it. She remarks that the stone was a very pretty, shimmery black color.  
+- **Regelmäßige Besucher.** Trilena und Tamara haben den Schrein im Morgengrauen besucht, um Tymora ihre wöchentliche Opfergabe darzubringen. Sie mussten mitansehen, wie der Schrein plötzlich einstürzte.  
+- **Kleine Schatten.** Trilena und Tamara sahen beide, wie drei untersetzte Schatten nach dem Einsturz vom Schrein flohen. Tamara schwört, dass sie kurz vor dem Einsturz auch schrille Stimmen gehört habe. Sie verstand jedoch die Sprache nicht.
+- **Gestohlenes Mittelstück.** Anhand dessen, wie die Steine gefallen sind, vermutet Tamara, dass jemand das Mittelstück des Torbogens entfernt haben muss. Sie merkt an, dass der Stein eine hübsche, schimmernde schwarze Farbe hatte.
 
-Being worshipers of Tymora, both Trilena and Tamara can explain the shrine's significance and traditions to the characters if they aren't yet aware.
+Als Anhänger von Tymora können sowohl Trilena als auch Tamara den Charakteren die Bedeutung und Traditionen des Schreins erklären, falls sie diese nicht kennen.
 
-### Sleeping Giant
+### Zum schlafenden Riesen
 
 ![Goblins smashed the bar at...](D&D/Abenteuer/Die_Tiefen_von_Phandelver-Der_zersplitterte_Obelisk/img/066-05-008-sleeping-giant-bar.webp#center "Goblins smashed the bar at the Sleeping Giant and stole an obelisk shard")
 
-With the Redbrands' operation curtailed by the characters, the Sleeping Giant is no longer a meeting place for criminals. Most townsfolk are still wary of the place, though a few have started coming to the tavern for cheaper drinks.
+Da die Charaktere die Operation der Rotbrenner vereitelt haben, ist der Schlafende Riese nunmehr kein Treffpunkt für Kriminelle mehr. Die meisten Dörfler sind immer noch misstrauisch, obwohl einige für günstiges Gebräu in die Schenke kommen.
 
-Beyond its connection to the Redbrands, the Sleeping Giant is known for its collection of curios, amassed from travelers visiting Phandalin. One such curio was embedded in the bar itself: a near-spherical piece of glittering obsidian. Local myth says it is a piece of the [petrified](conditions-xphb.md#Petrified) giant that gave the tavern its name. In reality, this is an obelisk shard.
+$\quad$Über seine Verbindung zu den Rotbrennern hinaus ist der Schlafende Riese für seine Kuriositätensammlung bekannt, die von Besuchern von Phandalin gesammelt wurde. Eine dieser Kuriositäten war in die Theke eingebettet: ein beinahe kugelförmiges, glitzerndes Obsidianstück. Der Legende nach handelt es sich um ein Stück des [[Zustände-phb#Versteinert|versteinerten]] Riesen, nach dem die Schenke benannt ist. In Wirklichkeit handelt es sich um einen Obeliskensplitter.
 
-During the night, a band of goblins broke into the Sleeping Giant, smashed the bar to extract the obelisk shard, and ransacked the kitchen. The bar's owner, a dwarf named Grista, chased the goblins away, but not before the tavern sustained significant damage.
+$\quad$In der Nacht brach eine Gruppe Goblins in die Schenke ein, zerstörte die Theke, nahm den Obeliskensplitter an sich, und plünderte die Küche. Die Besitzerin der Schenke, eine Zwergin namens Grista, hat die Goblins verjagt, allerdings wurde die Theke davor bereits stark beschädigt.
 
-#### Crime Scene
+#### Tatort
 
-When the characters investigate this crime scene, read the following:
+Lies folgenden Text vor, wenn die Charaktere diesen Tatort untersuchen:
 
 > [!readaloud] 
 > 
-> The taproom of the Sleeping Giant is quiet, save for the occasional thunk of tankard against table. The bar itself is in shambles, the wooden stiles smashed to splinters and the top split in half. Nevertheless, a tall purple tiefling works behind the broken counter, diligently cleaning mugs and plates under the watchful eye of the surly dwarf owner, Grista.
+> Der Schankraum ist bis auf das gelegentliche Klopfen eines Bierkrugs auf Holz still. Die Theke selbst liegt in Trümmern: Von den Holzpfosten sind nur Splitter übrig, und der Tresen wurde in zwei Hälften gespalten. Dennoch arbeitet ein großer violetter Tiefling hinter der kaputten Theke und reinigt fleißig Krüge und Teller unter den wachsamen Augen der mürrischen Zwergenbesitzerin Grista.
 ^1c1
 
-Grista gruffly greets the characters. The dwarf makes it clear that she despises Harbin and his attempts to govern the town, but she wants the criminals who destroyed her bar brought to justice. She gives the characters free rein to poke around the tavern as necessary.
+Grista grüßt die Charaktere schroff. Die Zwergin macht deutlich, dass sie Harbin und seine angebliche Stadtverwaltung verachtet. Sie will jedoch, dass die Kriminellen, die ihre Theke zerstört haben, zur Rechenschaft gezogen werden. Die Charaktere dürfen sich nach Belieben in der Schenke umsehen.
 
-The only other individual in the Sleeping Giant is the bartender, a nervous tiefling named Wheel-of-Fortune, who is a new arrival in Phandalin.
+Die einzige andere Person im Schlafenden Riesen steht hinter der Theke: ein nervöser [[Tiefling-phb|Tiefling]] namens Schicksalsrad, ein Neuankömmling in Phandalin.
 
-##### Investigating the Bar
+##### Die Theke untersuchen
 
-The bar is in splinters, and the tavern's lockbox has been broken open and looted. Characters who investigate the bar spot crudely carved pieces of graffiti under the counter.
+Die Theke liegt in Trümmern und das Schließfach der Schenke wurde aufgebrochen und geplündert. Bei der Untersuchung der Theke entdecken die Charaktere ein grob geschnitztes Graffiti unter dem Tresen.
 
-##### The Clue
+##### Der Hinweis
 
-The legible parts of the graffiti read, "Zorz ws here." This is intended to say, "Zorzula was here," and the goblins left the graffiti in reference to Zorzula's Rest. The graffiti is a clue that can help the characters or [Gwyn Oresong](Gwyn_Erzsang-pabtso.md) pinpoint the goblins' lair.
+Der einzig lesbare Teil des Graffitis besagt: ,,Zorz war hier." Der Satz sollte „Zorzula war hier" lauten. Die Goblins haben das Graffiti in Anspielung auf Zorzulas Ruh hinterlassen. Das Graffiti ist ein Hinweis, der den Charakteren oder [[Gwyn_Erzsang-pabtso|Gwyn Erzsang]] helfen kann, das Versteck der Goblins zu finden.
 
-##### Investigating the Kitchen
+##### Die Küche untersuchen
 
-The Sleeping Giant's kitchen area suffered less damage than the bar, but many of the barrels and crates of foodstuffs have been ransacked. A character who succeeds on a DC 15 Wisdom ([Perception](D&D/3-Mechanics/CLI/Fertigkeiten-phb.md#Perception)) check while scanning the kitchen notices a trail of stray copper and silver pieces on the ground. These coins, stolen from the tavern's lockbox, spilled from the goblins' bag as Grista chased them away.
+Der Küchenbereich der Schenke wurde weniger beschädigt als die Theke, aber viele der Fässer und Kisten mit Lebensmitteln wurden geplündert. Ein Charakter, der beim Durchsuchen der Küche einen `SG-15-Weisheitswurf` ([[01-Spielleiter/Fertigkeiten-phb#Wahrnehmung|Wahrnehmung]]) besteht, bemerkt eine Spur vereinzelter Kupfer- und Silbermünzen auf dem Boden. Diese Münzen wurden aus dem Schließfach der Schenke gestohlen und fielen aus dem Beutel der Goblins, als Grista sie verjagte.
 
-There is a total of 5 sp and 7 cp. Following the trail of coins leads to the tavern's fireplace, through which the goblins fled. Checking out the roof triggers the "Encounter: Rooftop Stash" section.
+Es sind insgesamt 5 SM und 7 KM. Die Spur aus Münzen führt zum Kamin der Schenke, durch den die Goblins geflohen sind. Eine Untersuchung des Dachs löst den Abschnitt „Begegnung: Versteck auf dem Dach" aus.
 
-#### Talking to Wheel-of-Fortune
+#### Mit Schicksalsrat sprechen 
 
-Wheel-of-Fortune tries their best to help the characters and offers the characters free drinks. If a character accepts a drink from Wheel-of-Fortune, read or paraphrase the following:
+Schicksalsrad hilft den Charakteren so gut wie möglich und bietet ihnen kostenloses Gebräu an. Lies die folgende Beschreibung vor oder formuliere sie frei, wenn ein Charakter ein Glas von Schicksalsrad annimmt:
 
 > [!readaloud] 
 > 
-> In a smooth motion, Wheel-of-Fortune grabs a clean mug and fills it to the brim. Before handing it to you, the tiefling moves to tap the mug against the counter, only to stop mid-motion and blush sheepishly.
+> Mit einer fließenden Bewegung nimmt Schicksalsrad einen sauberen Krug und füllt ihn bis zum Rand. Bevor Schicksalsrad euch das Getränkt reicht, klopft der Tiefling mit dem Krug auf die Theke, hält jedoch mitten in der Bewegung ein und errötet verlegen.
 ^1c6
 
-Wheel-of-Fortune explains that there used to be a large shard of black stone embedded in the counter, but it's been missing ever since the raid occurred. The stone supposedly brought good luck, and every time they served a drink, Wheel-of-Fortune would tap the mug against the stone.
+Schicksalsrad erklärt, dass in der Theke ein großer schwarzer Steinsplitter eingebettet war, der jedoch seit dem Überfall verschwunden ist. Der Stein brachte angeblich Glück, und immer, wenn Schicksalsrad ein Getränk serviert, klopft der Tiefling den Krug zuerst gegen den Stein.
 
-A character who succeeds on a DC 12 Wisdom ([Insight](D&D/3-Mechanics/CLI/Fertigkeiten-phb.md#Insight)) check intuits that Wheel-of-Fortune is hiding something. When pressed, Wheel-of-Fortune explains that every drink they poured ended up being slightly "off" in some way: the ale often caused a headache, and the mead shimmered with an oil-slick iridescence. Wheel-of-Fortune doesn't know how this keeps happening and is embarrassed by their ineptitude, believing they're cursed. (Unbeknownst to them, close proximity to the obelisk shard in the counter caused the ill effects.)
+$\quad$Ein Charakter, der einen `SG-12-Weisheitswurf` ([[01-Spielleiter/Fertigkeiten-phb#Motiv erkennen|Motiv erkennen]]) besteht, erkennt, dass Schicksalsrad etwas verbergen will. Auf Nachhaken hin erklärt Schicksalsrad, dass jedes eingeschenkte Getränk auf irgendeine Weise „seltsam" ist: Das Bier verursacht oft Kopfschmerzen und der Met schimmert wie ÖL Schicksalsrad weiß nicht, warum das immer wieder passiert, und schämt sich. Der Tiefling glaubt, verflucht zu sein und diese Tatsache verursacht zu haben. (Schicksalsrad weiß jedoch nicht, dass der Obeliskensplitter in der Theke für die Nebenwirkungen verantwortlich war.)
 
-Wheel-of-Fortune wasn't present when the goblins raided the tavern. If asked about the raiders, the tiefling directs the characters to speak with Grista.
+$\quad$Schicksalsrad war beim Überfall der Goblins auf die Schenke nicht anwesend. Wenn die Abenteurer nach den Plünderern fragen, verweist Schicksalsrad sie auf Grista.
 
-#### Talking to Grista
+#### Mit Grista sprechen
 
-Grista grudgingly shares the following information:
+Grista teilt widerwillig folgende Informationen mit:
 
-- **Awakened Rudely.** Grista awoke to the sound of wood being shattered. When she finally climbed downstairs, she saw a group of five small creatures destroying the bar and ransacking the kitchen.  
-- **Churlish Children.** Grista initially mistook the creatures for misbehaving children due to their stature, but then she noticed their long, flat ears and sharpened teeth. They also all carried weapons.  
-- **Damaged Bar.** Much to Grista's surprise, the creatures didn't steal much food; instead, they focused on destroying the bar.  
-- **Fled When Chased.** She chased the creatures from the bar with a broom. When she did, several of the creatures fled through the fireplace and climbed up the chimney.  
+- **Unsanftes Erwachen.** Grista erwachte durch das Geräusch von zersplitterndem Holz. Als sie schließlich die Treppe hinunterstieg, sah sie fünf kleine Kreaturen, die die Theke zerstörten und die Küche plünderten.
+- **Ungehobelte Kinder.** Grista hielt die Kreaturen aufgrund ihrer Statur zunächst für unartige Kinder, doch dann fielen ihr ihre langen, flachen Ohren und scharfen Zähne auf. Sie trugen außerdem Waffen bei sich.
+- **Beschädigte Theke.** Zu Gristas Überraschung haben die Kreaturen kaum Lebensmittel gestohlen und sich stattdessen darauf konzentriert, die Theke zu zerstören.
+- **Flucht bei Verfolgung.** Grista verjagte die Kreaturen mit einem Besen von der Theke. Dabei flohen einige Kreaturen durch den Kamin und kletterten den Schornstein hinauf.
 
-Grista didn't recognize the creatures as goblins. If asked about the black stone once embedded in the counter, Grista claims it has no special properties.
+Grista konnte die Kreaturen nicht als Goblins erkennen. Auf die Frage nach dem schwarzen Stein, der einst in die Theke eingelassen war, behauptet Grista, er habe keine besonderen Eigenschaften.
 
-#### Encounter: Rooftop Stash
+#### Begegnung: Versteck auf dem Dach
 
-When the goblins fled, they accidentally dropped the bag of stolen coins on the roof. Now, three of the goblins have returned to retrieve the bag. Use map 5.4 for this encounter.
+Bei ihrer Flucht ließen die Goblins versehentlich den Beutel mit den gestohlenen Münzen auf dem Dach fallen. Jetzt sind drei Goblins zurückgekehrt, um den Beutel zu holen. Verwende für diese Begegnung Karte 5.4.
 
 > [!gallery]
 > ![Map 5.4: Rooftop Stash](D&D/Abenteuer/Die_Tiefen_von_Phandelver-Der_zersplitterte_Obelisk/img/067-map-5-04-rooftop-stash.webp#gallery)
 > ![Player Version](D&D/Abenteuer/Die_Tiefen_von_Phandelver-Der_zersplitterte_Obelisk/img/068-map-5-04-rooftop-stash-player.webp#gallery)
 
-If a character follows the trail of coins to the roof, or when the characters decide to finish their investigation at the Sleeping Giant, read or paraphrase the following:
+Lies die folgende Beschreibung vor oder formuliere sie frei, wenn ein Charakter der Spur aus Münzen auf das Dach folgt, oder wenn die Charaktere beschließen, dass ihre Nachforschungen im Schlafenden Riesen beendet sind:
 
 > [!readaloud] 
 > 
-> A shrill shriek echoes from the roof of the Sleeping Giant. You see three goblin figures standing atop the building, muscles tensed in surprise. Green energy crackles around the fists of two of the goblins. The third wields a blade of the same energy and hefts a large cloth sack over her shoulder.
+> Ein schriller Schrei hallt vom Dach der Schenke wider. Ihr seht drei Goblins, die auf dem Dach des Gebäudes stehen. Ihre Muskeln sind vor Überraschung angespannt. Grüne Energie knistert um die Fäuste zweier Goblins. Der dritte schwingt eine Klinge mit der gleichen Energie und trägt einen großen Stoffbeutel über der Schulter.
 ^1c9
 
-The goblin holding the sword and the sack is a [goblin psi commander](Goblin-Psi-Befehlshaber-pabtso.md), and the other two goblins are [goblin psi brawlers](Goblin-Psi-Raufbold-pabtso.md). All three goblins attack once spotted.
+Bei dem Goblin mit dem Schwert und dem Beutel handelt es sich um eine [[Goblin-Psi-Befehlshaber-pabtso|Goblin-Psi-Befehlshaberin]]. Die anderen beiden Goblins sind [[Goblin-Psi-Raufbold-pabtso|Goblin-Psi-Raufbolde]]. Alle drei Goblins greifen an, sobald sie entdeckt werden.
 
-During the ensuing combat, the goblins do their best to stay on the roof of the two-story tavern, using the high ground to their advantage.
+$\quad$Während des darauffolgenden Kampfes versuchen die Goblins, auf dem Dach der zweistöckigen Schenke zu bleiben und die Anhöhe zu ihrem Vorteil zu nutzen.
 
-Once one of the goblins has been defeated, the remaining goblins flee, ditching the bag of coins.
+$\quad$Sobald einer von ihnen besiegt wurde, fliehen die übrigen Goblins und lassen den Beutel mit den Münzen zurück.
 
-##### Treasure
+##### Schätze
 
-The bag contains most of the tavern's weekly profit: 10 gp, 14 sp, and 17 cp. If the characters retrieve the bag from the goblins and return it to Grista, she is grateful. She offers the characters free meals for a week for their help, though the food isn't the greatest.
+Der Beutel enthält einen Großteil des wöchentlichen Profits der Schenke: 10 GM, 14 SM und 17 KM. Wenn die Charaktere den Beutel von den Goblins holen und Grista zurückgeben, ist sie ihnen dankbar. Sie bietet den Charakteren eine Woche lang kostenlose Mahlzeiten für ihre Hilfe an, obwohl das Essen nicht das Beste ist.
 
-## Zorzula's Rest
+## Zorzulas Ruh
 
-Zorzula's Rest is an ancient duergar mining outpost located in one of the Sword Mountains east of Phandalin. The meaning of its name has been lost to time, though some history books mention a powerful duergar leader named Zorzula, who commanded mining operations throughout the Sword Mountains. However, duergar control of the outpost ceased centuries ago when Zorzula's Rest was overtaken by mind flayers.
+Bei Zorzulas Ruh handelt es sich um einen uralten Duergar-Minenaußenposten in den Schwertbergen östlich von Phandalin. Die Bedeutung des Namens ist im Laufe der Zeit verloren gegangen. In Geschichtsbüchern wird jedoch ein mächtiger Duergar-Anführer namens Zorzula erwähnt, der Bergbaubetriebe im den gesamten Schwertbergen befehligte. Die Duergar mussten die Kontrolle über den Außenposten jedoch vor Jahrhunderten abgeben, als Zorzulas Ruh von Gedankenschindern eingenommen wurde.
 
-After conquering the outpost, the illithids reigned over the area for decades, even at one point housing an elder brain within the outpost's underground sanctum. Eventually, the mind flayer colony also abandoned the outpost when their underground empire fell, but echoes of their presence still cling there.
+Nach der Eroberung des Außenpostens herrschten die Illithiden jahrzehntelang über das Gebiet. Sie beherbergten sogar ein Ältestengehirn im unterirdischen Heiligtum des Außenpostens. Als ihr unterirdisches Reich zerfiel, verließ die Kolonie der Gedankenschinder den Außenposten. Die Echos ihrer Anwesenheit sind jedoch immer noch zu spüren.
 
-Zorzula's Rest is still the home of an enclave of secretive goblins who call themselves the Sawplees. These goblins have inhabited the outpost for generations, with some of their number displaying psionic abilities that trace to the aberrant influence of the mind flayers who also once lived there. Only recently have the goblins ventured beyond the outpost and ransacked nearby areas.
+Zorzulas Ruh wird von einer Enklave geheimnisvoller Goblins bewohnt, die sich Sägezank-Goblins nennen. Diese Goblins bewohnen den Außenposten seit Generationen und einige von ihnen verfügen über psionische Fähigkeiten, die auf den abnormalen Einfluss der einst dort lebenden Gedankenschinder zurückzuführen sind. Erst kürzlich haben sich die Goblins über den Außenposten hinausgewagt und plündern umliegende Gebiete.
 
-This effort is helmed by a goblin named [Ruxithid the Chosen](Ruxithid_der_Auserwählte-pabtso.md), who receives orders telepathically using a special crystal from his "mighty gods"—actually the group of mind flayers at the heart of this adventure. (See the "Indigo Sanctum" section for more.) Ruxithid incorrectly believes these specific mind flayers are the source of some of the goblins' psionic abilities, and he believes that these "gods" will reward him handsomely for his obedience.
+Diese Exkursionen werden von einem Goblin namens [[Ruxithid_der_Auserwählte-pabtso|Ruxithid der Auserwählte]] geleitet. Dank eines besonderen Kristalls erhält er telepathisch Befehle von seinen „mächtigen Göttern" - der Gruppe von Gedankenschindern, die im Mittelpunkt dieses Abenteuers stehen. (Siehe Abschnitt „Indigoblaues Heiligtum" für weitere Informationen). Ruxithid nimmt fälschlicherweise an, dass diese Gedankenschinder die Quelle der psionischen Fähigkeiten der Goblins sind. Er glaubt auch, dass diese „Götter" ihn für seinen Gehorsam reich belohnen werden.
 
-In addition to retrieving the Netherese obelisk shards, Ruxithid and his goblins are also tasked with acquiring offerings for their gods in the form of townspeople from Phandalin. Some of these kidnap victims are in deeper parts of the Underdark (see later chapters), though a few are held within the depths of the outpost.
+Neben der Beschaffung der nesserilischen Obeliskensplitter sollen Ruxithid und seine Goblins auch Opfergaben für ihre Götter in Form von Dörflern aus Phandalin darbringen. Einige dieser Entführungsopfer befinden sich tiefer im Unterreich (siehe spätere Kapitel), andere werden jedoch in den Tiefen des Außenpostens festgehalten.
 
 ### Approaching the Outpost
 

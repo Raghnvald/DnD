@@ -2,7 +2,6 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Glaive
-Typ: Nahkampf-Kriegswaffe
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/Kriegswaffe
@@ -11,7 +10,6 @@ tags:
 aliases:
   - Glaive
 linter-yaml-title-alias: Glaive
-obsidianUIMode: preview
 ---
 # Glaive
 *Weapon*  

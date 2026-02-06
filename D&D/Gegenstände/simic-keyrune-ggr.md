@@ -9,7 +9,6 @@ tags:
 aliases:
   - Simic Keyrune
 linter-yaml-title-alias: Simic Keyrune
-obsidianUIMode: preview
 ---
 # Simic Keyrune
 *Wondrous item, uncommon (requires attunement by a member of the Simic guild)*  

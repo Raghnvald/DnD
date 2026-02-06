@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Zauber/list/background/orzhov-representative
+  - Zauber/list/background/orzhov-representative
 aliases:
-- Spells for Orzhov Representative
+  - Spells for Orzhov Representative
 ---
 # Spells for Orzhov Representative
 

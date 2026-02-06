@@ -17,7 +17,7 @@ HG: 0
 Habitat:
   - Stadt
   - Unterreich
-Typ: Aberration
+Kategorie: Aberration
 status: WIP
 ---
 # [Cranium Rat](3-Mechanics\CLI\bestiary\aberration/cranium-rat-mpmm.md)

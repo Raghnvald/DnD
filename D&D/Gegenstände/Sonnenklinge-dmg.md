@@ -1,8 +1,8 @@
 ---
 cssclasses:
   - json5e-item
-Bezeichnung: Sun Blade
-Typ: Nahkampf-Kriegswaffe
+Bezeichnung: Sonnenklinge
+Kategorie: Nahkampf-Kriegswaffe
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
@@ -12,7 +12,6 @@ tags:
 aliases:
   - Sun Blade
 linter-yaml-title-alias: Sun Blade
-obsidianUIMode: preview
 ---
 # Sun Blade
 *Weapon ([longsword](/3-Mechanics/CLI/items/longsword.md)), major, rare (requires attunement)*  

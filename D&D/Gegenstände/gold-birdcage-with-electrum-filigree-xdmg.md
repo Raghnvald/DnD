@@ -9,7 +9,6 @@ tags:
 aliases:
   - Gold birdcage with electrum filigree
 linter-yaml-title-alias: Gold birdcage with electrum filigree
-obsidianUIMode: preview
 ---
 # Gold birdcage with electrum filigree
 *Treasure (art object)*  

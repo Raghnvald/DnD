@@ -1,7 +1,5 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Kategorie: Monster
 tags:
 - Quelle/5e/bgg
 aliases:

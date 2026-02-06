@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Instrument of the Bards, Anstruth Harp
+Kategorie: Wundersamer Gegenstand
 tags:
   - Gegenstand/Ausrüstung/Instrument
   - Gegenstand/Einstimmung/required
@@ -10,7 +11,6 @@ tags:
 aliases:
   - Instrument of the Bards, Anstruth Harp
 linter-yaml-title-alias: Instrument of the Bards, Anstruth Harp
-obsidianUIMode: preview
 ---
 # Instrument of the Bards, Anstruth Harp
 *Wondrous item, instrument, major, very rare (requires attunement by a bard)*  

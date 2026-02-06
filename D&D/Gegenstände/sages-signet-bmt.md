@@ -1,17 +1,16 @@
 ---
 cssclasses:
   - json5e-item
-Bezeichnung: "Sage's Signet"
+Bezeichnung: Sage's Signet
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/variiert
   - Gegenstand/wundersam/ring
   - Quelle/5e/bmt
 aliases:
-  - "Sage's Signet"
   - Sage's Signet
-linter-yaml-title-alias: "Sage's Signet"
-obsidianUIMode: preview
+  - Sage's Signet
+linter-yaml-title-alias: Sage's Signet
 ---
 # Sage's Signet
 *Ring (requires attunement by a spellcaster)*  

@@ -1,7 +1,7 @@
 ---
 cssclasses:
   - json5e-item
-Bezeichnung: "Deathwalker's Ward (Exalted)"
+Bezeichnung: Deathwalker's Ward (Exalted)
 Rüstung: Leicht
 tags:
   - Gegenstand/Einstimmung/required
@@ -9,10 +9,8 @@ tags:
   - Gegenstand/Seltenheit/legendär
   - Quelle/5e/tdcsr
 aliases:
-  - "Deathwalker's Ward (Exalted)"
   - Deathwalker's Ward (Exalted)
-linter-yaml-title-alias: "Deathwalker's Ward (Exalted)"
-obsidianUIMode: preview
+linter-yaml-title-alias: Deathwalker's Ward (Exalted)
 ---
 # Deathwalker's Ward (Exalted)
 *Light armor ([studded leather armor](/3-Mechanics/CLI/items/studded-leather-armor-xphb.md)), legendary (requires attunement)*  

@@ -9,7 +9,6 @@ tags:
 aliases:
   - Chalk (1 piece)
 linter-yaml-title-alias: Chalk (1 piece)
-obsidianUIMode: preview
 ---
 # Chalk (1 piece)
 *Adventuring gear*  

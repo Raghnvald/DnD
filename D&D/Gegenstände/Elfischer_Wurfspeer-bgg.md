@@ -1,7 +1,8 @@
 ---
 cssclasses:
   - json5e-item
-Bezeichnung: Elven Thrower
+Bezeichnung: Elfischer Wurfspeer
+Kategorie: Einfache Nahkampfwaffe
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
@@ -11,7 +12,6 @@ tags:
 aliases:
   - Elven Thrower
 linter-yaml-title-alias: Elven Thrower
-obsidianUIMode: preview
 ---
 # Elven Thrower
 *Weapon (spear), very rare (requires attunement by a elf)*  

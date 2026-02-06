@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Crossbow Bolt of Slaying
+Kategorie: Munition
 tags:
   - Gegenstand/Ausrüstung/ammunition
   - Gegenstand/Seltenheit/sehr_selten
@@ -9,7 +10,6 @@ tags:
 aliases:
   - Crossbow Bolt of Slaying
 linter-yaml-title-alias: Crossbow Bolt of Slaying
-obsidianUIMode: preview
 ---
 # Crossbow Bolt of Slaying
 *Ammunition, minor, very rare*  

@@ -9,7 +9,6 @@ tags:
 aliases:
   - Chalcedony
 linter-yaml-title-alias: Chalcedony
-obsidianUIMode: preview
 ---
 # Chalcedony
 *Treasure (gemstone)*  

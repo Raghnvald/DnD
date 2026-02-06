@@ -9,7 +9,6 @@ tags:
 aliases:
   - Argonnessen Trinket
 linter-yaml-title-alias: Argonnessen Trinket
-obsidianUIMode: preview
 ---
 # Argonnessen Trinket
 *Adventuring gear*  

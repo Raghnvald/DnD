@@ -17,7 +17,6 @@ classes:
 aliases:
   - Dispel Evil and Good
 linter-yaml-title-alias: Dispel Evil and Good
-obsidianUIMode: preview
 ---
 # Dispel Evil and Good
 *5th-level, Abjuration*  

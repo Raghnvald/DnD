@@ -9,7 +9,6 @@ tags:
 aliases:
   - Menga leaves (1 ounce)
 linter-yaml-title-alias: Menga leaves (1 ounce)
-obsidianUIMode: preview
 ---
 # Menga leaves (1 ounce)
 *Adventuring gear*  

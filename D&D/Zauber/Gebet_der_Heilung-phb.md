@@ -15,7 +15,6 @@ classes:
 aliases:
   - Prayer of Healing
 linter-yaml-title-alias: Prayer of Healing
-obsidianUIMode: preview
 ---
 # Prayer of Healing
 *2nd-level, Evocation*  

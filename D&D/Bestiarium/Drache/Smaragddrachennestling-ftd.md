@@ -2,7 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Emerald Dragon Wyrmling
-Typ: Drache (Edelstein)
+Kategorie: Drache (Edelstein)
 Größe: Mittelgroß
 HG: 2
 Habitat:

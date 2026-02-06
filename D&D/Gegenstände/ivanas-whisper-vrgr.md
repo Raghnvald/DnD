@@ -1,15 +1,15 @@
 ---
 cssclasses:
   - json5e-item
-Bezeichnung: "Ivana's Whisper"
+Bezeichnung: Ivana's Whisper
+Kategorie: Gift
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/unbekannt
   - Quelle/5e/vrgr
 aliases:
-  - "Ivana's Whisper"
   - Ivana's Whisper
-linter-yaml-title-alias: "Ivana's Whisper"
+linter-yaml-title-alias: Ivana's Whisper
 ---
 # Ivana's Whisper
 *Adventuring gear, poison (inhaled)*  

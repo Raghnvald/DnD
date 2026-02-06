@@ -2,7 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Flameskull
-Typ: Untoter
+Kategorie: Untoter
 Größe: Winzig
 HG: 4
 Habitat:

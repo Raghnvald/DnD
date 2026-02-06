@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Yarting
+Kategorie: Werkzeug
 tags:
   - Gegenstand/Ausrüstung/Instrument
   - Gegenstand/Seltenheit/keine
@@ -9,7 +10,6 @@ tags:
 aliases:
   - Yarting
 linter-yaml-title-alias: Yarting
-obsidianUIMode: preview
 ---
 # Yarting
 *Instrument*  

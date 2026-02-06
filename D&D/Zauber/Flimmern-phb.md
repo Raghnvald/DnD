@@ -25,7 +25,6 @@ classes:
 aliases:
   - Blink
 linter-yaml-title-alias: Blink
-obsidianUIMode: preview
 ---
 # Blink
 *3rd-level, Transmutation*  

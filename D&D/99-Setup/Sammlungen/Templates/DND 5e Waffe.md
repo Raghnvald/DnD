@@ -1,17 +1,17 @@
 ---
-Bezeichnung: 
-Typ: Nahkampf-Kriegswaffe
-Schaden: 
-Eigenschaften: 
-Kst.: 
-Gew.: 
+Bezeichnung:
+Kategorie: Nahkampf-Kriegswaffe
+Schaden:
+Eigenschaften:
+Kst.:
+Gew.:
 tags:
   - Gegenstand/Ausrüstung
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
   - 
-linter-yaml-title-alias: 
+linter-yaml-title-alias:
 ---
 # Name
 **Nahkampf-Kriegswaffe*  

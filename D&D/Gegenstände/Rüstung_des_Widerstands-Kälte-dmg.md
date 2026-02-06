@@ -27,7 +27,6 @@ aliases:
   - Splint Armor of Cold Resistance
   - Studded Leather Armor of Cold Resistance
 linter-yaml-title-alias: Armor of Cold Resistance
-obsidianUIMode: preview
 ---
 # Armor of Cold Resistance
 *Major, rare (requires attunement)*  

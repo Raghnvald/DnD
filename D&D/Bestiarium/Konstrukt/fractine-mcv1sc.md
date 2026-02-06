@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- Quelle/5e/mcv1sc
-- Monster/HG/9
-- Monster/Größe/Groß
-- Monster/Typ/Konstrukt
+  - Quelle/5e/mcv1sc
+  - Monster/HG/9
+  - Monster/Größe/Groß
+  - Monster/Typ/Konstrukt
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Fractine
+  - Fractine
 ---
 # [Fractine](3-Mechanics\CLI\bestiary\construct/fractine-mcv1sc.md)
 *Source: Monstrous Compendium Volume 1: Spelljammer Creatures p. 7*  

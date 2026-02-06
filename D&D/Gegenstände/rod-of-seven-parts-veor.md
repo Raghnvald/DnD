@@ -11,7 +11,6 @@ tags:
 aliases:
   - Rod of Seven Parts
 linter-yaml-title-alias: Rod of Seven Parts
-obsidianUIMode: preview
 ---
 # Rod of Seven Parts
 *Weapon (quarterstaff), rod, artifact (requires attunement)*  

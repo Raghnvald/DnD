@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Maul
-Typ: Nahkampf-Kriegswaffe
+Kategorie: Nahkampf-Kriegswaffe
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/Kriegswaffe
@@ -11,7 +11,6 @@ tags:
 aliases:
   - Maul
 linter-yaml-title-alias: Maul
-obsidianUIMode: preview
 ---
 # Maul
 *Weapon*  

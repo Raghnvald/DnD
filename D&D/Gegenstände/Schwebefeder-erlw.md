@@ -8,7 +8,6 @@ tags:
 aliases:
   - Feather Token
 linter-yaml-title-alias: Feather Token
-obsidianUIMode: preview
 ---
 # Feather Token
 *Wondrous item, common*  

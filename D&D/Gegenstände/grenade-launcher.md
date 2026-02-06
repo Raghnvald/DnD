@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Grenade Launcher
+Kategorie: Abenteuerausrüstung
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
@@ -10,7 +11,6 @@ tags:
 aliases:
   - Grenade Launcher
 linter-yaml-title-alias: Grenade Launcher
-obsidianUIMode: preview
 ---
 # Grenade Launcher
 *Adventuring gear*  

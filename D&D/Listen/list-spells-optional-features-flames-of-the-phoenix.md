@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Zauber/list/optfeature/flames-of-the-phoenix
+  - Zauber/list/optfeature/flames-of-the-phoenix
 aliases:
-- Spells for Flames of the Phoenix
+  - Spells for Flames of the Phoenix
 ---
 # Spells for Flames of the Phoenix
 

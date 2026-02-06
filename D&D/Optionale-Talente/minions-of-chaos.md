@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-feat
+  - json5e-feat
 tags:
-- Quelle/5e/phb
-- Kompendium/Optionales/ei
+  - Quelle/5e/phb
+  - Kompendium/Optionales/ei
 aliases:
-- Minions of Chaos
+  - Minions of Chaos
 ---
 # Minions of Chaos
 *Source: Player's Handbook p. 111. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  

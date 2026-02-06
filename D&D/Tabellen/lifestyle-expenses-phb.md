@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Quelle/5e/phb
+  - Quelle/5e/phb
 aliases:
-- Lifestyle Expenses
+  - Lifestyle Expenses
 ---
 # Lifestyle Expenses
 *Source: Player's Handbook p. 157* 

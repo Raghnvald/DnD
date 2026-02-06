@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Manacles
+Kategorie: Abenteuerausrüstung
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
@@ -9,7 +10,6 @@ tags:
 aliases:
   - Manacles
 linter-yaml-title-alias: Manacles
-obsidianUIMode: preview
 ---
 # Manacles
 *Adventuring gear*  

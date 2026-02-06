@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Zauber/list/subclass/arcane-archer
+  - Zauber/list/subclass/arcane-archer
 aliases:
-- Spells for Arcane Archer
+  - Spells for Arcane Archer
 ---
 # Spells for Arcane Archer
 

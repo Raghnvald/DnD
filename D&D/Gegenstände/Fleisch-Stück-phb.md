@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Fleisch, Stück
+Kategorie: Essen und Trinken
 tags:
   - Gegenstand/Ausrüstung/Essen-und-Trinken
   - Gegenstand/Seltenheit/keine
@@ -9,7 +10,6 @@ tags:
 aliases:
   - Fleisch, Stück
 linter-yaml-title-alias: Fleisch, Stück
-obsidianUIMode: preview
 ---
 # Fleisch, Stück
 *Food and drink*  

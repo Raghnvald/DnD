@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Gloves of Thievery
-  - Handschuhe des Diebstahls
 linter-yaml-title-alias: Handschuhe des Diebstahls
 ---
 # Handschuhe des Diebstahls

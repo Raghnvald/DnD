@@ -1,8 +1,8 @@
 ---
 cssclasses:
   - json5e-item
-Bezeichnung: Flame Tongue Shortsword of Greed
-Typ: Nahkampf-Kriegswaffe
+Bezeichnung: Kurzschwert der Flammenzunge der Gier
+Kategorie: Nahkampf-Kriegswaffe
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/unbekannt/magic
@@ -12,7 +12,6 @@ tags:
 aliases:
   - Flame Tongue Shortsword of Greed
 linter-yaml-title-alias: Flame Tongue Shortsword of Greed
-obsidianUIMode: preview
 ---
 # Flame Tongue Shortsword of Greed
 *Weapon (shortsword) (requires attunement)*  

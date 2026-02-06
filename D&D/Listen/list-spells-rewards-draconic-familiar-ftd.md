@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Zauber/list/reward/draconic-familiar
+  - Zauber/list/reward/draconic-familiar
 aliases:
-- Spells for Draconic Familiar
+  - Spells for Draconic Familiar
 ---
 # Spells for Draconic Familiar
 

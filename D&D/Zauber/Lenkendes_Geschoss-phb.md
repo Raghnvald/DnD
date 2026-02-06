@@ -16,7 +16,6 @@ classes:
 aliases:
   - Guiding Bolt
 linter-yaml-title-alias: Guiding Bolt
-obsidianUIMode: preview
 ---
 # Guiding Bolt
 *1st-level, Evocation*  

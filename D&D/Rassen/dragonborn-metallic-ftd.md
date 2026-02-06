@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-race
+  - json5e-race
 tags:
-- Quelle/5e/ftd
-- Rasse/dragonborn/metallic
+  - Quelle/5e/ftd
+  - Rasse/dragonborn/metallic
 aliases:
-- Dragonborn (Metallic)
+  - Dragonborn (Metallic)
 ---
 # Dragonborn (Metallic)
 *Source: Fizban's Treasury of Dragons p. 12*  

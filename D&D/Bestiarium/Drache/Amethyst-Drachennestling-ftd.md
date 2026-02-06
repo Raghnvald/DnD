@@ -2,7 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Amethyst Dragon Wyrmling
-Typ: Drache (Edelstein)
+Kategorie: Drache (Edelstein)
 Größe: Mittelgroß
 HG: 4
 Habitat:

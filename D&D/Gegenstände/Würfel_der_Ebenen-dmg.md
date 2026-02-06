@@ -8,7 +8,6 @@ tags:
 aliases:
   - Cubic Gate
 linter-yaml-title-alias: Cubic Gate
-obsidianUIMode: preview
 ---
 # Cubic Gate
 *Wondrous item, major, legendary*  

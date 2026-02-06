@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Zabou
+Kategorie: Abenteuerausrüstung
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
@@ -9,7 +10,6 @@ tags:
 aliases:
   - Zabou
 linter-yaml-title-alias: Zabou
-obsidianUIMode: preview
 ---
 # Zabou
 *Adventuring gear*  

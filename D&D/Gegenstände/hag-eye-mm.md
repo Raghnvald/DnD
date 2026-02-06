@@ -9,7 +9,6 @@ tags:
 aliases:
   - Hag Eye
 linter-yaml-title-alias: Hag Eye
-obsidianUIMode: preview
 ---
 # Hag Eye
 

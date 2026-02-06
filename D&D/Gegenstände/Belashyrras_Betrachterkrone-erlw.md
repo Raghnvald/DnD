@@ -9,7 +9,6 @@ tags:
 aliases:
   - Belashyrra's Beholder Crown
 linter-yaml-title-alias: Belashyrra's Beholder Crown
-obsidianUIMode: preview
 ---
 # Belashyrra's Beholder Crown
 *Wondrous item, legendary (requires attunement)*  

@@ -17,7 +17,6 @@ classes:
 aliases:
   - Teleport
 linter-yaml-title-alias: Teleport
-obsidianUIMode: preview
 ---
 # Teleport
 *7th-level, Conjuration*  

@@ -9,7 +9,6 @@ tags:
 aliases:
   - Jeweled anklet
 linter-yaml-title-alias: Jeweled anklet
-obsidianUIMode: preview
 ---
 # Jeweled anklet
 *Treasure (art object)*  

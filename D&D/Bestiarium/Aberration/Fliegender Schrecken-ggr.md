@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- Quelle/5e/ggr
-- Monster/HG/3
-- Monster/Größe/Mittelgroß
-- Monster/Typ/Aberration
+  - Quelle/5e/ggr
+  - Monster/HG/3
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/Aberration
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Flying Horror
+  - Flying Horror
 ---
 # [Flying Horror](3-Mechanics\CLI\bestiary\aberration/flying-horror-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 203*  

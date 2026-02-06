@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Quelle/5e/bgg
+  - Quelle/5e/bgg
 aliases:
-- Into the Giant Realms
+  - Into the Giant Realms
 ---
 # Into the Giant Realms
 *Source: Bigby Presents: Glory of the Giants p. 58* 

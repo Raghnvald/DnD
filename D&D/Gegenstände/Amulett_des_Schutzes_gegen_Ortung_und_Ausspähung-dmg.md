@@ -1,6 +1,6 @@
 ---
 Bezeichnung: Amulett des Schutzes gegen Ortung und Ausspähung
-Typ: Wundersamer Gegenstand
+Kategorie: Wundersamer Gegenstand
 Eigenschaften: erfordert Einstimmung
 Kst.: /
 Gew.: 0,5 kg

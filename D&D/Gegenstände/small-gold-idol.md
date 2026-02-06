@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Small gold idol
+Kategorie: Kunstobjekt
 tags:
   - Gegenstand/Ausrüstung/treasure-art-object
   - Gegenstand/Seltenheit/keine
@@ -9,7 +10,6 @@ tags:
 aliases:
   - Small gold idol
 linter-yaml-title-alias: Small gold idol
-obsidianUIMode: preview
 ---
 # Small gold idol
 *Treasure (art object)*  

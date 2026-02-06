@@ -8,7 +8,6 @@ tags:
 aliases:
   - Jester Card
 linter-yaml-title-alias: Jester Card
-obsidianUIMode: preview
 ---
 # Jester Card
 *Wondrous item, legendary*  

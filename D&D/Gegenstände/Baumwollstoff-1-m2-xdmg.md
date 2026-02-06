@@ -9,7 +9,6 @@ tags:
 aliases:
   - Cotton Cloth (1 sq. yd.)
 linter-yaml-title-alias: Cotton Cloth (1 sq. yd.)
-obsidianUIMode: preview
 ---
 # Cotton Cloth (1 sq. yd.)
 *Trade good*  

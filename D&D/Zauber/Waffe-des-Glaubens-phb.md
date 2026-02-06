@@ -19,7 +19,6 @@ classes:
 aliases:
   - Spiritual Weapon
 linter-yaml-title-alias: Spiritual Weapon
-obsidianUIMode: preview
 ---
 # Spiritual Weapon
 *2nd-level, Evocation*  

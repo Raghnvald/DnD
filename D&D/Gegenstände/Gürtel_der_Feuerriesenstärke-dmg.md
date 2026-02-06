@@ -9,7 +9,6 @@ tags:
 aliases:
   - Belt of Fire Giant Strength
 linter-yaml-title-alias: Belt of Fire Giant Strength
-obsidianUIMode: preview
 ---
 # Belt of Fire Giant Strength
 *Wondrous item, major, very rare (requires attunement)*  

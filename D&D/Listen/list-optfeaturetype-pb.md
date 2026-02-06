@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Quelle/5e/phb
+  - Quelle/5e/phb
 aliases:
-- Pact Boon
+  - Pact Boon
 ---
 # Pact Boon
 *Source: Player's Handbook, Tasha's Cauldron of Everything p. 71. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>* 

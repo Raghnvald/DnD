@@ -1,6 +1,6 @@
 ---
 Bezeichnung: Handbuch der körperlichen Gesundheit
-Typ: Wundersamer Gegenstand
+Kategorie: Wundersamer Gegenstand
 Eigenschaften: n/v
 Kst.: n/v
 Gew.: 2,5 kg

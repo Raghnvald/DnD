@@ -9,7 +9,6 @@ tags:
 aliases:
   - Turquoise
 linter-yaml-title-alias: Turquoise
-obsidianUIMode: preview
 ---
 # Turquoise
 *Treasure (gemstone)*  

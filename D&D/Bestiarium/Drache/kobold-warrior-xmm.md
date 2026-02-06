@@ -2,7 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Kobold Warrior
-Typ: Drache
+Kategorie: Drache
 Größe: Klein
 HG: 1/8
 tags:

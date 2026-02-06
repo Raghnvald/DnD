@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Copper Alms-Coin
+Kategorie: Währung
 tags:
   - Gegenstand/Ausrüstung/treasure-coinage
   - Gegenstand/Seltenheit/keine
@@ -9,7 +10,6 @@ tags:
 aliases:
   - Copper Alms-Coin
 linter-yaml-title-alias: Copper Alms-Coin
-obsidianUIMode: preview
 ---
 # Copper Alms-Coin
 *Treasure (coinage)*  

@@ -9,7 +9,6 @@ tags:
 aliases:
   - Ceremonial gold armor with black pearls
 linter-yaml-title-alias: Ceremonial gold armor with black pearls
-obsidianUIMode: preview
 ---
 # Ceremonial gold armor with black pearls
 *Treasure (art object)*  

@@ -1,8 +1,8 @@
 ---
 cssclasses:
   - json5e-item
-Bezeichnung: Lash of Immolation
-Typ: Nahkampf-Kriegswaffe
+Bezeichnung: Peitsche der Verbrennung
+Kategorie: Nahkampf-Kriegswaffe
 tags:
   - Gegenstand/Seltenheit/selten
   - Gegenstand/Waffe/Kriegswaffe
@@ -11,7 +11,6 @@ tags:
 aliases:
   - Lash of Immolation
 linter-yaml-title-alias: Lash of Immolation
-obsidianUIMode: preview
 ---
 # Lash of Immolation
 *Weapon (whip), rare*  

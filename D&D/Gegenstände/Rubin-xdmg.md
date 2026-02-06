@@ -9,7 +9,6 @@ tags:
 aliases:
   - Ruby
 linter-yaml-title-alias: Ruby
-obsidianUIMode: preview
 ---
 # Ruby
 *Treasure (gemstone)*  

@@ -1,6 +1,5 @@
 ---
 Bezeichnung: Heiltrank
-Typ: Trank
 Eigenschaften: n/v
 Kst.: 50 GM
 Gew.: 0,25 kg
@@ -9,7 +8,6 @@ tags:
   - Gegenstand/wundersam/Trank
   - Quelle/5e/dmg
 aliases:
-  - Heiltrank
   - Potion of Healing
 linter-yaml-title-alias: Heiltrank
 ---

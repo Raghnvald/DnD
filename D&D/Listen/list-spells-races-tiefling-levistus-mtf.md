@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Zauber/list/subrace/tiefling-levistus
+  - Zauber/list/subrace/tiefling-levistus
 aliases:
-- Spells for Tiefling (Levistus)
+  - Spells for Tiefling (Levistus)
 ---
 # Spells for Tiefling (Levistus)
 

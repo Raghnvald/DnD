@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Condemner (Awakened)
-Typ: Fernkampf-Kriegswaffe
+Kategorie: Fernkampf-Kriegswaffe
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -12,7 +12,6 @@ tags:
 aliases:
   - Condemner (Awakened)
 linter-yaml-title-alias: Condemner (Awakened)
-obsidianUIMode: preview
 ---
 # Condemner (Awakened)
 *Weapon ([heavy crossbow](/3-Mechanics/CLI/items/heavy-crossbow-xphb.md)), legendary (requires attunement)*  

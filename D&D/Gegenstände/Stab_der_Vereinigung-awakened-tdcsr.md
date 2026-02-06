@@ -11,7 +11,6 @@ tags:
 aliases:
   - Spire of Conflux (Awakened)
 linter-yaml-title-alias: Spire of Conflux (Awakened)
-obsidianUIMode: preview
 ---
 # Spire of Conflux (Awakened)
 *Staff, weapon, legendary (requires attunement by a spellcaster)*  

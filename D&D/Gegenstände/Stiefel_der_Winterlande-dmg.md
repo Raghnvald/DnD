@@ -9,7 +9,6 @@ tags:
 aliases:
   - Boots of the Winterlands
 linter-yaml-title-alias: Boots of the Winterlands
-obsidianUIMode: preview
 ---
 # Boots of the Winterlands
 *Wondrous item, major, uncommon (requires attunement)*  

@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Artisan's Tools
-  - Handwerkszeug
 linter-yaml-title-alias: Handwerkszeug
 ---
 # Handwerkszeug
@@ -14,7 +13,7 @@ linter-yaml-title-alias: Handwerkszeug
 
 **Items in this group:**
 
-- [[Alchemistenausrüstung-phb]]
+- [[Alchemistenlabor-phb]]
 - [[Brauereizubehör]]
 - [Calligrapher's Supplies](/3-Mechanics/CLI/items/calligraphers-supplies.md)
 - [Carpenter's Tools](/3-Mechanics/CLI/items/carpenters-tools.md)

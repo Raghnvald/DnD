@@ -8,7 +8,6 @@ tags:
 aliases:
   - Amulet of the Drunkard
 linter-yaml-title-alias: Amulet of the Drunkard
-obsidianUIMode: preview
 ---
 # Amulet of the Drunkard
 *Wondrous item, uncommon*  

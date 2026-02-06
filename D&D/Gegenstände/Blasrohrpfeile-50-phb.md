@@ -9,7 +9,6 @@ tags:
 aliases:
   - Blowgun Needles (50)
 linter-yaml-title-alias: Blowgun Needles (50)
-obsidianUIMode: preview
 ---
 # Blowgun Needles (50)
 *Ammunition*  

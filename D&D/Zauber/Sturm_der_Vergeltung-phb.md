@@ -15,7 +15,6 @@ classes:
 aliases:
   - Storm of Vengeance
 linter-yaml-title-alias: Storm of Vengeance
-obsidianUIMode: preview
 ---
 # Storm of Vengeance
 *9th-level, Conjuration*  

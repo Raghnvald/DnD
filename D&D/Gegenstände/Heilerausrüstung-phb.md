@@ -1,24 +1,24 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: "Healer's Kit"
+Bezeichnung: Heilerausrüstung
+Kategorie: Abenteuerausrüstung
+Eigenschaften: /
+Kst.: 5 GM
+Gew.: 1,5 kg
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - "Healer's Kit"
   - Healer's Kit
-linter-yaml-title-alias: "Healer's Kit"
-obsidianUIMode: preview
+linter-yaml-title-alias: Healer's Kit
 ---
-# Healer's Kit
-*Adventuring gear*  
-![](/3-Mechanics/CLI/items/img/healers-kit.webp#right)
+# Heilerausrüstung
+*Abenteuerausrüstung*
+<img src="healers-kit.webp" align="right" width="150">
 
-- **Cost**: 5 gp
-- **Weight**: 3.0 lbs.
+- **Kosten**: 5 GM
+- **Gewicht**: 1,5 k.g.
 
-This kit is a leather pouch containing bandages, salves, and splints. The kit has ten uses. As an action, you can expend one use of the kit to stabilize a creature that has 0 hit points, without needing to make a Wisdom ([Medicine](/3-Mechanics/CLI/skills.md#Medicine)) check.
+Dieses Set ist ein Lederbeutel, der Bandagen, Salben und Schienen enthält. Es reicht für zehn Anwendungen. Als Aktion kannst du eine Anwendung aufbrauchen, um eine Kreatur mit O Trefferpunkten zu stabilisieren, ohne dass du einen Wurf auf Weisheit ([[D&D/01-Spielleiter/Fertigkeiten-phb#Heilkunde|Heilkunde]]) ablegen musst.
 
-*Source: Player's Handbook p. 151. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+*Quelle: Spielerhandbuch S. 151. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*

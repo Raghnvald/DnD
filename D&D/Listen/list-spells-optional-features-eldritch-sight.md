@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Zauber/list/optfeature/eldritch-sight
+  - Zauber/list/optfeature/eldritch-sight
 aliases:
-- Spells for Eldritch Sight
+  - Spells for Eldritch Sight
 ---
 # Spells for Eldritch Sight
 

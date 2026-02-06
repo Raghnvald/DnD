@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Quelle/5e/tce
+  - Quelle/5e/tce
 aliases:
-- Solution; Remembered Names
+  - Solution; Remembered Names
 ---
 # Solution; Remembered Names
 *Source: Tasha's Cauldron of Everything p. 187* 

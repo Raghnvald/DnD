@@ -8,7 +8,6 @@ tags:
 aliases:
   - Gloves of Thievery
 linter-yaml-title-alias: Gloves of Thievery
-obsidianUIMode: preview
 ---
 # Gloves of Thievery
 *Wondrous item, major, uncommon*  

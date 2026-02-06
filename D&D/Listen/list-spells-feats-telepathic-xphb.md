@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Zauber/list/feat/telepathic
+  - Zauber/list/feat/telepathic
 aliases:
-- Spells for Telepathic
+  - Spells for Telepathic
 ---
 # Spells for Telepathic
 

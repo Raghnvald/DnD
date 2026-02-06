@@ -8,7 +8,6 @@ tags:
 aliases:
   - Carpet of Flying
 linter-yaml-title-alias: Carpet of Flying
-obsidianUIMode: preview
 ---
 # Carpet of Flying
 *Wondrous item, major, very rare*  

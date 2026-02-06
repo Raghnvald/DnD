@@ -21,7 +21,6 @@ classes:
 aliases:
   - Fire Shield
 linter-yaml-title-alias: Fire Shield
-obsidianUIMode: preview
 ---
 # Fire Shield
 *4th-level, Evocation*  

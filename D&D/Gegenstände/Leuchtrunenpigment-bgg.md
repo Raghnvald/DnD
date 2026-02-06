@@ -6,10 +6,8 @@ tags:
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/bgg
 aliases:
-  - "Glowrune Pigment"
   - Glowrune Pigment
 linter-yaml-title-alias: Glowrune Pigment
-obsidianUIMode: preview
 ---
 # Glowrune Pigment
 *Wondrous item, rare*  

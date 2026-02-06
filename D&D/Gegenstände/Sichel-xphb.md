@@ -10,7 +10,6 @@ tags:
 aliases:
   - Sickle
 linter-yaml-title-alias: Sickle
-obsidianUIMode: preview
 ---
 # Sickle
 *Weapon*  

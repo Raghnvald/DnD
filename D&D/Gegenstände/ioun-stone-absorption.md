@@ -9,7 +9,6 @@ tags:
 aliases:
   - Ioun Stone, Absorption
 linter-yaml-title-alias: Ioun Stone, Absorption
-obsidianUIMode: preview
 ---
 # Ioun Stone, Absorption
 *Wondrous item, major, very rare (requires attunement)*  

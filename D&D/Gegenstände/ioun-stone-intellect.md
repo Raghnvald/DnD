@@ -9,7 +9,6 @@ tags:
 aliases:
   - Ioun Stone, Intellect
 linter-yaml-title-alias: Ioun Stone, Intellect
-obsidianUIMode: preview
 ---
 # Ioun Stone, Intellect
 *Wondrous item, major, very rare (requires attunement)*  

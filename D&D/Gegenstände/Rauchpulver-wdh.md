@@ -8,7 +8,6 @@ tags:
 aliases:
   - Smokepowder
 linter-yaml-title-alias: Smokepowder
-obsidianUIMode: preview
 ---
 # Smokepowder
 *Wondrous item, uncommon*  

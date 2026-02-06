@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Quelle/5e/mm
+  - Quelle/5e/mm
 aliases:
-- New Action: Breath Weapon
+  - New Action: Breath Weapon
 ---
 # New Action: Breath Weapon
 *Source: Monster Manual p. 180* 

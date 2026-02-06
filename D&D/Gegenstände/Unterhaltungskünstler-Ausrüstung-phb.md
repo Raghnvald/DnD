@@ -1,18 +1,18 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: "Entertainer's Pack"
+Bezeichnung: Unterhaltungskünstler-Ausrüstung
+Kategorie: Ausrüstungspaket
+Eigenschaften: /
+Kst.: 40 GM
+Gew.: 19,0 kg
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - "Entertainer's Pack"
   - Entertainer's Pack
-linter-yaml-title-alias: "Entertainer's Pack"
-obsidianUIMode: preview
+linter-yaml-title-alias: Entertainer's Pack
 ---
-# Entertainer's Pack
+# Unterhaltungskünstler-Ausrüstung
 *Adventuring gear*  
 
 - **Cost**: 40 gp

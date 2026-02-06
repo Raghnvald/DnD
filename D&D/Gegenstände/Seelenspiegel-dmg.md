@@ -8,7 +8,6 @@ tags:
 aliases:
   - Mirror of Life Trapping
 linter-yaml-title-alias: Mirror of Life Trapping
-obsidianUIMode: preview
 ---
 # Mirror of Life Trapping
 *Wondrous item, major, very rare*  

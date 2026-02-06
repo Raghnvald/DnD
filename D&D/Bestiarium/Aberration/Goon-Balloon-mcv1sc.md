@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- Quelle/5e/mcv1sc
-- Monster/HG/1-8
-- Monster/Größe/Mittelgroß
-- Monster/Typ/Aberration
+  - Quelle/5e/mcv1sc
+  - Monster/HG/1-8
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/Aberration
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Goon Balloon
+  - Goon Balloon
 ---
 # [Goon Balloon](3-Mechanics\CLI\bestiary\aberration/goon-balloon-mcv1sc.md)
 *Source: Monstrous Compendium Volume 1: Spelljammer Creatures p. 9*  

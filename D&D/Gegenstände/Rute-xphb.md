@@ -9,7 +9,6 @@ tags:
 aliases:
   - Rod
 linter-yaml-title-alias: Rod
-obsidianUIMode: preview
 ---
 # Rod
 *Spellcasting focus*  

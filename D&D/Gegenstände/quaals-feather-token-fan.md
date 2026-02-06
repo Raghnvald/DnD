@@ -1,15 +1,13 @@
 ---
 cssclasses:
   - json5e-item
-Bezeichnung: "Quaal's Feather Token, Fan"
+Bezeichnung: Quaal's Feather Token, Fan
 tags:
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/dmg
 aliases:
-  - "Quaal's Feather Token, Fan"
   - Quaal's Feather Token, Fan
-linter-yaml-title-alias: "Quaal's Feather Token, Fan"
-obsidianUIMode: preview
+linter-yaml-title-alias: Quaal's Feather Token, Fan
 ---
 # Quaal's Feather Token, Fan
 *Wondrous item, minor, rare*  

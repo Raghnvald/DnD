@@ -2,7 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Sword Wraith Commander
-Typ: Untoter
+Kategorie: Untoter
 Größe: Mittelgroß
 HG: 8
 tags:

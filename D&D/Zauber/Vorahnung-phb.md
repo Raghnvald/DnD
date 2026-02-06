@@ -16,7 +16,6 @@ classes:
 aliases:
   - Augury
 linter-yaml-title-alias: Vorahnung
-obsidianUIMode: preview
 ---
 # Vorahnung
 *Erkenntnismagie des 2. Grades (Ritual)*

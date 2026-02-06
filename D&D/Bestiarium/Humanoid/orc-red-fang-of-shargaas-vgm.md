@@ -1,21 +1,20 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- Quelle/5e/vgm
-- Monster/HG/3
-- Monster/Habitat/Wald
-- Monster/Habitat/Hügel
-- Monster/Habitat/Berg
-- Monster/Habitat/Unterreich
-- Monster/Habitat/Stadt
-- Monster/Größe/Mittelgroß
-- Monster/Typ/Humanoid/orc
+  - Quelle/5e/vgm
+  - Monster/HG/3
+  - Monster/Habitat/Wald
+  - Monster/Habitat/Hügel
+  - Monster/Habitat/Berg
+  - Monster/Habitat/Unterreich
+  - Monster/Habitat/Stadt
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/Humanoid/orc
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Orc Red Fang of Shargaas
+  - Orc Red Fang of Shargaas
 ---
 # [Orc Red Fang of Shargaas](3-Mechanics\CLI\bestiary\humanoid/orc-red-fang-of-shargaas-vgm.md)
 *Source: Volo's Guide to Monsters p. 185*  

@@ -1,16 +1,14 @@
 ---
 cssclasses:
   - json5e-item
-Bezeichnung: "Butcher's Bib"
+Bezeichnung: Butcher's Bib
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/egw
 aliases:
-  - "Butcher's Bib"
   - Butcher's Bib
-linter-yaml-title-alias: "Butcher's Bib"
-obsidianUIMode: preview
+linter-yaml-title-alias: Butcher's Bib
 ---
 # Butcher's Bib
 *Wondrous item, rare (requires attunement)*  

@@ -9,7 +9,6 @@ tags:
 aliases:
   - Barrel
 linter-yaml-title-alias: Barrel
-obsidianUIMode: preview
 ---
 # Barrel
 *Adventuring gear*  

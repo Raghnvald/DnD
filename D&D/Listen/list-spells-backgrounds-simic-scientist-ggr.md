@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Zauber/list/background/simic-scientist
+  - Zauber/list/background/simic-scientist
 aliases:
-- Spells for Simic Scientist
+  - Spells for Simic Scientist
 ---
 # Spells for Simic Scientist
 

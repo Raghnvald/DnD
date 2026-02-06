@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/xphb
 aliases:
   - Druidic Focus
-  - Druidischer Fokus
 linter-yaml-title-alias: Druidischer Fokus
 ---
 # Druidischer Fokus

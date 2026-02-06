@@ -9,7 +9,6 @@ tags:
 aliases:
   - Mournland Trinket
 linter-yaml-title-alias: Mournland Trinket
-obsidianUIMode: preview
 ---
 # Mournland Trinket
 *Adventuring gear*  

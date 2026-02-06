@@ -9,7 +9,6 @@ tags:
 aliases:
   - Explosive Seed
 linter-yaml-title-alias: Explosive Seed
-obsidianUIMode: preview
 ---
 # Explosive Seed
 *Adventuring gear*  

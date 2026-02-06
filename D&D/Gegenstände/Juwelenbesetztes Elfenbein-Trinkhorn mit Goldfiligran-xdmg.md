@@ -9,7 +9,6 @@ tags:
 aliases:
   - Bejeweled ivory drinking horn with gold filigree
 linter-yaml-title-alias: Bejeweled ivory drinking horn with gold filigree
-obsidianUIMode: preview
 ---
 # Bejeweled ivory drinking horn with gold filigree
 *Treasure (art object)*  

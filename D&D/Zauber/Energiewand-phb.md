@@ -15,7 +15,6 @@ classes:
 aliases:
   - Wall of Force
 linter-yaml-title-alias: Wall of Force
-obsidianUIMode: preview
 ---
 # Wall of Force
 *5th-level, Evocation*  

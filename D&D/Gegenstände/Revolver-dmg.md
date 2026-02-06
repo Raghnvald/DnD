@@ -1,6 +1,6 @@
 ---
 Bezeichnung: Revolver
-Typ: Fernkampf-Kriegswaffe
+Kategorie: Fernkampf-Kriegswaffe
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/Fernkampf

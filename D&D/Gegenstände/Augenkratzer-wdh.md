@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Eyescratch
+Kategorie: Gift
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
@@ -9,7 +10,6 @@ tags:
 aliases:
   - Eyescratch
 linter-yaml-title-alias: Eyescratch
-obsidianUIMode: preview
 ---
 # Eyescratch
 *Adventuring gear, poison (contact)*  

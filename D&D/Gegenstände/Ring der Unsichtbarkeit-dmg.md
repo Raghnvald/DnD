@@ -1,6 +1,6 @@
 ---
 Bezeichnung: Ring of Invisibility
-Typ: Ring
+Kategorie: Ring
 Eigenschaften: erfordert Einstimmung
 Kst.: n/v
 Gew.: n/v

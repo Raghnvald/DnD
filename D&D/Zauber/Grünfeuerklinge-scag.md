@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Grünfeuerklinge
+Zaubergrad: 0 (Zaubertrick)
 Zeitaufwand: 1 Aktion
 Reichweite: 1,5 m
 Komponenten: V, M

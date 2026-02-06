@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Zauber/list/optfeature/fiendish-vigor
+  - Zauber/list/optfeature/fiendish-vigor
 aliases:
-- Spells for Fiendish Vigor
+  - Spells for Fiendish Vigor
 ---
 # Spells for Fiendish Vigor
 

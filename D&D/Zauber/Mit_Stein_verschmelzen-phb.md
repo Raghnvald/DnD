@@ -20,7 +20,6 @@ classes:
 aliases:
   - Meld into Stone
 linter-yaml-title-alias: Meld into Stone
-obsidianUIMode: preview
 ---
 # Meld into Stone
 *3rd-level, Transmutation (ritual)*  

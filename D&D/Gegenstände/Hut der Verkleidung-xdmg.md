@@ -9,7 +9,6 @@ tags:
 aliases:
   - Hat of Disguise
 linter-yaml-title-alias: Hat of Disguise
-obsidianUIMode: preview
 ---
 # Hat of Disguise
 *Wondrous item, uncommon (requires attunement)*  

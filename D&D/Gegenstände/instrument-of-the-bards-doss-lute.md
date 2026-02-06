@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Instrument of the Bards, Doss Lute
+Kategorie: Wundersamer Gegenstand
 tags:
   - Gegenstand/Ausrüstung/Instrument
   - Gegenstand/Einstimmung/required
@@ -10,7 +11,6 @@ tags:
 aliases:
   - Instrument of the Bards, Doss Lute
 linter-yaml-title-alias: Instrument of the Bards, Doss Lute
-obsidianUIMode: preview
 ---
 # Instrument of the Bards, Doss Lute
 *Wondrous item, instrument, major, uncommon (requires attunement by a bard)*  

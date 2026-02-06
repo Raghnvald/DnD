@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Quelle/5e/cos
+  - Quelle/5e/cos
 aliases:
-- Poster Map
+  - Poster Map
 ---
 # Poster Map
 *Source: Curse of Strahd, p. 257* 

@@ -15,7 +15,6 @@ classes:
 aliases:
   - Cordon of Arrows
 linter-yaml-title-alias: Cordon of Arrows
-obsidianUIMode: preview
 ---
 # Cordon of Arrows
 *2nd-level, Transmutation*  

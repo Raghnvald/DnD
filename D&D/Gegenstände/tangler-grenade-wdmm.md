@@ -9,7 +9,6 @@ tags:
 aliases:
   - Tangler Grenade
 linter-yaml-title-alias: Tangler Grenade
-obsidianUIMode: preview
 ---
 # Tangler Grenade
 

@@ -9,7 +9,6 @@ tags:
 aliases:
   - Ythryn Mythallar
 linter-yaml-title-alias: Ythryn Mythallar
-obsidianUIMode: preview
 ---
 # Ythryn Mythallar
 *Wondrous item, legendary (requires attunement by a spellcaster)*  

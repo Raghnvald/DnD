@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Longbow of the Healing Hearth
-Typ: Fernkampf-Kriegswaffe
+Kategorie: Fernkampf-Kriegswaffe
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -12,7 +12,6 @@ tags:
 aliases:
   - Longbow of the Healing Hearth
 linter-yaml-title-alias: Longbow of the Healing Hearth
-obsidianUIMode: preview
 ---
 # Longbow of the Healing Hearth
 *Weapon (longbow), legendary (requires attunement)*  

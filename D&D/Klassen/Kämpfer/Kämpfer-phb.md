@@ -8,7 +8,6 @@ tags:
 aliases:
   - Fighter
 linter-yaml-title-alias: Fighter
-obsidianUIMode: preview
 ---
 # Fighter
 *Source: Player's Handbook p. 70. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  

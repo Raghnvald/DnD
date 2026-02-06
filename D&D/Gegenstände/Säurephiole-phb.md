@@ -1,7 +1,7 @@
 ---
 Bezeichnung: Säurephiole
-Typ: Abenteuerausrüstung
-Eigenschaften: n/v
+Kategorie: Abenteuerausrüstung
+Eigenschaften: /
 Kst.: 25 GM
 Gew.: 0,5 kg
 tags:

@@ -1,6 +1,6 @@
 ---
 Bezeichnung: Zauberschriftrolle (Zaubergrad 2)
-Typ: Schriftrolle
+Kategorie: Schriftrolle
 Eigenschaften: n/v
 Kst.: 400 GM
 Gew.: n/v

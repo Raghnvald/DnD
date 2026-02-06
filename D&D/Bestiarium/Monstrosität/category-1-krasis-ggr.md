@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- Quelle/5e/ggr
-- Monster/HG/1
-- Monster/Größe/Mittelgroß
-- Monster/Typ/Monstrosität
+  - Quelle/5e/ggr
+  - Monster/HG/1
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/Monstrosität
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Category 1 Krasis
+  - Category 1 Krasis
 ---
 # [Category 1 Krasis](3-Mechanics\CLI\bestiary\monstrosity/category-1-krasis-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 210*  

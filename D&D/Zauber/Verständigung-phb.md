@@ -23,7 +23,6 @@ classes:
 aliases:
   - Sending
 linter-yaml-title-alias: Sending
-obsidianUIMode: preview
 ---
 # Sending
 *3rd-level, Evocation*  

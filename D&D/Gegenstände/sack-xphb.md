@@ -9,7 +9,6 @@ tags:
 aliases:
   - Sack
 linter-yaml-title-alias: Sack
-obsidianUIMode: preview
 ---
 # Sack
 *Adventuring gear*  

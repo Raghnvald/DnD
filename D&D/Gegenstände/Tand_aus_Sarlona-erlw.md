@@ -9,7 +9,6 @@ tags:
 aliases:
   - Sarlona Trinket
 linter-yaml-title-alias: Sarlona Trinket
-obsidianUIMode: preview
 ---
 # Sarlona Trinket
 *Adventuring gear*  

@@ -9,7 +9,6 @@ tags:
 aliases:
   - Rations
 linter-yaml-title-alias: Rations
-obsidianUIMode: preview
 ---
 # Rations
 *Adventuring gear*  

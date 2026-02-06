@@ -10,7 +10,6 @@ tags:
 aliases:
   - Golgari Guild Signet
 linter-yaml-title-alias: Golgari Guild Signet
-obsidianUIMode: preview
 ---
 # Golgari Guild Signet
 *Ring, uncommon (requires attunement)*  

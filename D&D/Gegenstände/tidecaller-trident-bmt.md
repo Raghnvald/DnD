@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Tidecaller Trident
-Typ: Nahkampf-Kriegswaffe
+Kategorie: Nahkampf-Kriegswaffe
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
@@ -12,7 +12,6 @@ tags:
 aliases:
   - Tidecaller Trident
 linter-yaml-title-alias: Tidecaller Trident
-obsidianUIMode: preview
 ---
 # Tidecaller Trident
 *Weapon (trident), very rare (requires attunement)*  

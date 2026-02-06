@@ -15,7 +15,6 @@ classes:
 aliases:
   - Guards and Wards
 linter-yaml-title-alias: Guards and Wards
-obsidianUIMode: preview
 ---
 # Guards and Wards
 *6th-level, Abjuration*  

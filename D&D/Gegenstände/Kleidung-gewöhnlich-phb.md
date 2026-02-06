@@ -1,7 +1,6 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Common Clothes
+Bezeichnung: Kleidung, gewöhnlich
+Kategorie: Abenteuerausrüstung
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
@@ -9,7 +8,6 @@ tags:
 aliases:
   - Common Clothes
 linter-yaml-title-alias: Common Clothes
-obsidianUIMode: preview
 ---
 # Common Clothes
 *Adventuring gear*  

@@ -9,7 +9,6 @@ tags:
 aliases:
   - Pony
 linter-yaml-title-alias: Pony
-obsidianUIMode: preview
 ---
 # Pony
 *Mount*  

@@ -15,7 +15,6 @@ classes:
 aliases:
   - Blade Barrier
 linter-yaml-title-alias: Blade Barrier
-obsidianUIMode: preview
 ---
 # Blade Barrier
 *6th-level, Evocation*  

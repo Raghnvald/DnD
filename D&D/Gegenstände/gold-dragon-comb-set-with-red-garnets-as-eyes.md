@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Gold dragon comb set with red garnets as eyes
+Kategorie: Kunstobjekt
 tags:
   - Gegenstand/Ausrüstung/treasure-art-object
   - Gegenstand/Seltenheit/keine
@@ -9,7 +10,6 @@ tags:
 aliases:
   - Gold dragon comb set with red garnets as eyes
 linter-yaml-title-alias: Gold dragon comb set with red garnets as eyes
-obsidianUIMode: preview
 ---
 # Gold dragon comb set with red garnets as eyes
 *Treasure (art object)*  

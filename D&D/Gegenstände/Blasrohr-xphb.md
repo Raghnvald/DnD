@@ -10,7 +10,6 @@ tags:
 aliases:
   - Blowgun
 linter-yaml-title-alias: Blowgun
-obsidianUIMode: preview
 ---
 # Blowgun
 *Weapon*  

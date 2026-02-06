@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Imbued Wood (Kythrian Manchineel)
+Kategorie: Wundersamer Gegenstand
 tags:
   - Gegenstand/Ausrüstung/Zauberfokus
   - Gegenstand/Einstimmung/required
@@ -15,7 +16,6 @@ aliases:
   - Kythrian Manchineel Staff
   - Kythrian Manchineel Wand
 linter-yaml-title-alias: Imbued Wood (Kythrian Manchineel)
-obsidianUIMode: preview
 ---
 # Imbued Wood (Kythrian Manchineel)
 *Wondrous item, common (requires attunement)*  

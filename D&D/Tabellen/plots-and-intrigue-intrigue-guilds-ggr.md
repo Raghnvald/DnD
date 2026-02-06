@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Quelle/5e/ggr
+  - Quelle/5e/ggr
 aliases:
-- Plots and Intrigue; Intrigue Guilds
+  - Plots and Intrigue; Intrigue Guilds
 ---
 # Plots and Intrigue; Intrigue Guilds
 *Source: Guildmasters' Guide to Ravnica p. 124* 

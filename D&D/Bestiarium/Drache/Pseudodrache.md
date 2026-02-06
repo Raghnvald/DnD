@@ -2,7 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Pseudodragon
-Typ: Drache
+Kategorie: Drache
 Größe: Winzig
 HG: 1/4
 Habitat:

@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Quelle/5e/tce
+  - Quelle/5e/tce
 aliases:
-- Unearthly Roads; Unearthly Road Keys
+  - Unearthly Roads; Unearthly Road Keys
 ---
 # Unearthly Roads; Unearthly Road Keys
 *Source: Tasha's Cauldron of Everything p. 169* 

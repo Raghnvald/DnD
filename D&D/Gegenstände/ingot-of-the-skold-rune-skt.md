@@ -9,7 +9,6 @@ tags:
 aliases:
   - Ingot of the Skold Rune
 linter-yaml-title-alias: Ingot of the Skold Rune
-obsidianUIMode: preview
 ---
 # Ingot of the Skold Rune
 *Wondrous item, very rare (requires attunement)*  

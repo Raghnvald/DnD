@@ -2,7 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Faerie Dragon (Blue)
-Typ: Drache
+Kategorie: Drache
 Größe: Winzig
 HG: 2
 Habitat:

@@ -31,7 +31,6 @@ classes:
 aliases:
   - Misty Step
 linter-yaml-title-alias: Misty Step
-obsidianUIMode: preview
 ---
 # Misty Step
 *2nd-level, Conjuration*  

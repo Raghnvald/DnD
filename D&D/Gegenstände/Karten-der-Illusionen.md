@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Deck of Illusions
-  - Karten der Illusionen
 linter-yaml-title-alias: Karten der Illusionen
 ---
 # Karten der Illusionen
@@ -23,7 +22,7 @@ $\quad$ Die Illusion dauert an, bis die Karte bewegt oder die Illusion vertriebe
 | ----- | ----------- | -------------------------------------------------------------------------------- |
 | 1     | Herz Ass    | [Roter Drache](Ausgewachsener%20Roter%20Drache.md)                                      |
 | 2     | Herz König  | [Ritter](D&D/05%20-%20Wikipedia/Bestiarium/Q-R/Ritter.md) und vier [Wachen](Wache-old.md)              |
-| 3     | Herz Dame   | [Sukkubus](Sukkubus.md) oder [Inkubus](D&D/05%20-%20Wikipedia/Bestiarium/I-J/Inkubus.md)               |
+| 3     | Herz Dame   | [Sukkubus-mm](Sukkubus-mm.md) oder [Inkubus](D&D/05%20-%20Wikipedia/Bestiarium/I-J/Inkubus.md)               |
 | 4     | Herz Bube   | [Druiden](Druiden.md)                                                    |
 | 5     | Herz Zehn   | [Wolkenriesen](D&D/05%20-%20Wikipedia/Bestiarium/W-X/Wolkenriese.md)                                            |
 | 6     | Herz Neun   | [Ettin](D&D/05%20-%20Wikipedia/Bestiarium/E-F/Ettin.md)                                                         |

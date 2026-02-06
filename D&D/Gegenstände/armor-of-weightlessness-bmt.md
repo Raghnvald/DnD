@@ -27,7 +27,6 @@ aliases:
   - Splint Armor of Weightlessness
   - Studded Leather Armor of Weightlessness
 linter-yaml-title-alias: Armor of Weightlessness
-obsidianUIMode: preview
 ---
 # Armor of Weightlessness
 *Uncommon (requires attunement)*  

@@ -9,7 +9,6 @@ tags:
 aliases:
   - Helm of Perfect Potential
 linter-yaml-title-alias: Helm of Perfect Potential
-obsidianUIMode: preview
 ---
 # Helm of Perfect Potential
 *Wondrous item, artifact (requires attunement)*  

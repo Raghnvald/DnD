@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Sledgehammer
+Kategorie: Abenteuerausrüstung
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
@@ -9,7 +10,6 @@ tags:
 aliases:
   - Sledgehammer
 linter-yaml-title-alias: Sledgehammer
-obsidianUIMode: preview
 ---
 # Sledgehammer
 *Adventuring gear*  

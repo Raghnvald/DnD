@@ -1,6 +1,6 @@
 ---
 Name: Goblin
-Typ: Humanoid (Goblinoid)
+Kategorie: Humanoid (Goblinoid)
 Größe: Klein
 HG: 1/2
 status: WIP

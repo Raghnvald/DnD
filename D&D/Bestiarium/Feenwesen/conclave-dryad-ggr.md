@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- Quelle/5e/ggr
-- Monster/HG/9
-- Monster/Größe/Mittelgroß
-- Monster/Typ/Fee
+  - Quelle/5e/ggr
+  - Monster/HG/9
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/Fee
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Conclave Dryad
+  - Conclave Dryad
 ---
 # [Conclave Dryad](3-Mechanics\CLI\bestiary\fey/conclave-dryad-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 194*  

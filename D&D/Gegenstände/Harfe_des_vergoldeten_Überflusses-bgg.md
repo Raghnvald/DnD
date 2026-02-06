@@ -9,7 +9,6 @@ tags:
 aliases:
   - Harp of Gilded Plenty
 linter-yaml-title-alias: Harp of Gilded Plenty
-obsidianUIMode: preview
 ---
 # Harp of Gilded Plenty
 *Wondrous item, legendary (requires attunement)*  

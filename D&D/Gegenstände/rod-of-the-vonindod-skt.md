@@ -10,7 +10,6 @@ tags:
 aliases:
   - Rod of the Vonindod
 linter-yaml-title-alias: Rod of the Vonindod
-obsidianUIMode: preview
 ---
 # Rod of the Vonindod
 *Rod, rare (requires attunement)*  

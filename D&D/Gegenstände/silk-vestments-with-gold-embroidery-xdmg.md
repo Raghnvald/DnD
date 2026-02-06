@@ -9,7 +9,6 @@ tags:
 aliases:
   - Silk vestments with gold embroidery
 linter-yaml-title-alias: Silk vestments with gold embroidery
-obsidianUIMode: preview
 ---
 # Silk vestments with gold embroidery
 *Treasure (art object)*  

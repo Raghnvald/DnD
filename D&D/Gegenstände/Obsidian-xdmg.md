@@ -9,7 +9,6 @@ tags:
 aliases:
   - Obsidian
 linter-yaml-title-alias: Obsidian
-obsidianUIMode: preview
 ---
 # Obsidian
 *Treasure (gemstone)*  

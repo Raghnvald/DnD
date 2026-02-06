@@ -19,7 +19,6 @@ classes:
 aliases:
   - Rope Trick
 linter-yaml-title-alias: Rope Trick
-obsidianUIMode: preview
 ---
 # Rope Trick
 *2nd-level, Transmutation*  

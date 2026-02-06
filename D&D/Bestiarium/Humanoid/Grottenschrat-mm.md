@@ -2,7 +2,7 @@
 cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
 Name: Grottenschrat
-Typ: Humanoid
+Kategorie: Humanoid
 Größe: Mittelgroß
 HG: 1
 Habitat:

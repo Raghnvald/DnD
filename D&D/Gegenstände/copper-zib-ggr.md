@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Copper Zib
+Kategorie: Währung
 tags:
   - Gegenstand/Ausrüstung/treasure-coinage
   - Gegenstand/Seltenheit/keine
@@ -9,7 +10,6 @@ tags:
 aliases:
   - Copper Zib
 linter-yaml-title-alias: Copper Zib
-obsidianUIMode: preview
 ---
 # Copper Zib
 *Treasure (coinage)*  

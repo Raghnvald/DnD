@@ -1,6 +1,6 @@
 ---
 Bezeichnung: Drachenwächter
-Typ: Rüstung
+Kategorie: Rüstung
 Rüstung: Mittel
 Eigenschaften: /
 Kst.: /

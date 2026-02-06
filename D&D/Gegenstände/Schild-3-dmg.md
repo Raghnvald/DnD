@@ -1,6 +1,6 @@
 ---
 Bezeichnung: Schild +3
-Typ: Rüstung
+Kategorie: Rüstung
 Rüstung: Schild
 Eigenschaften: /
 Kst.: /

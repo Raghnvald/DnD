@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- Quelle/5e/ggr
-- Monster/HG/13
-- Monster/Größe/Gigantisch
-- Monster/Typ/Monstrosität
+  - Quelle/5e/ggr
+  - Monster/HG/13
+  - Monster/Größe/Gigantisch
+  - Monster/Typ/Monstrosität
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Skyswimmer
+  - Skyswimmer
 ---
 # [Skyswimmer](3-Mechanics\CLI\bestiary\monstrosity/skyswimmer-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 220*  

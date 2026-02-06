@@ -9,7 +9,6 @@ tags:
 aliases:
   - Immovable Rod
 linter-yaml-title-alias: Immovable Rod
-obsidianUIMode: preview
 ---
 # Immovable Rod
 *Rod, minor, uncommon*  

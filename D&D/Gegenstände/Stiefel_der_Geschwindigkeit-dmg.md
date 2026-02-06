@@ -9,7 +9,6 @@ tags:
 aliases:
   - Boots of Speed
 linter-yaml-title-alias: Boots of Speed
-obsidianUIMode: preview
 ---
 # Boots of Speed
 *Wondrous item, major, rare (requires attunement)*  

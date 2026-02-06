@@ -1,6 +1,10 @@
 ---
 Bezeichnung: Wurfpfeil
-Typ: Einfache Fernkampfwaffe
+Kategorie: Einfache Fernkampfwaffe
+Schaden: 1W6 Stich
+Eigenschaften: Geschosse, Zweihändig
+Kst.: 5 KM
+Gew.: 0,125 kg.
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/Einfach
@@ -11,12 +15,12 @@ aliases:
 linter-yaml-title-alias: Dart
 ---
 # Wurfpfeil
-*Weapon*  
+*Waffe*  
 
-- **Damage**: 1d4 piercing
-- **Range**: 20/60
-- **Properties**: [Finesse](/3-Mechanics/CLI/item-properties.md#Finesse), [Thrown](/3-Mechanics/CLI/item-properties.md#Thrown)
-- **Cost**: 5 cp
-- **Weight**: 0.25 lbs.
+- **Schaden**: 1d4 Stich
+- **Reichweite**: 6/18
+- **Eigenschaften**: [[Gegenstandseigenschaften-phb#Finesse|Finesse]], [[Gegenstandseigenschaften-phb#Wurfwaffe|Wurfwaffe]]
+- **Kosten**: 5 KM
+- **Gewicht**: 0.125 kg.
 
-*Source: Player's Handbook p. 149. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+*Quellen: Spielerhandbuch S. 149 Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)* 

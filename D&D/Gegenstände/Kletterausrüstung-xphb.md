@@ -1,15 +1,14 @@
 ---
 cssclasses:
   - json5e-item
-Bezeichnung: "Climber's Kit"
+Bezeichnung: Climber's Kit
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
-  - "Climber's Kit"
   - Climber's Kit
-linter-yaml-title-alias: "Climber's Kit"
+linter-yaml-title-alias: Climber's Kit
 ---
 # Climber's Kit
 *Adventuring gear*  

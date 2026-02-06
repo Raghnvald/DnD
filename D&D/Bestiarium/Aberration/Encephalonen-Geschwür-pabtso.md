@@ -10,7 +10,7 @@ aliases:
   - Encephalon Cluster
 Habitat:
   - /
-Typ: Aberration
+Kategorie: Aberration
 Name: Encephalon Cluster
 Image: aberration/token/encephalon-cluster-pabtso.webp
 Größe: Groß

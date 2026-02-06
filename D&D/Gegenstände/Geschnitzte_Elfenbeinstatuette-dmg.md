@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Carved ivory statuette
+Kategorie: Kunstobjekt
 tags:
   - Gegenstand/Ausrüstung/treasure-art-object
   - Gegenstand/Seltenheit/keine
@@ -9,7 +10,6 @@ tags:
 aliases:
   - Carved ivory statuette
 linter-yaml-title-alias: Carved ivory statuette
-obsidianUIMode: preview
 ---
 # Carved ivory statuette
 *Treasure (art object)*  

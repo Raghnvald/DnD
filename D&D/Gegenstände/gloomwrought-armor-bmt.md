@@ -27,7 +27,6 @@ aliases:
   - Gloomwrought Splint Armor
   - Gloomwrought Studded Leather Armor
 linter-yaml-title-alias: Gloomwrought Armor
-obsidianUIMode: preview
 ---
 # Gloomwrought Armor
 *Rare (requires attunement)*  

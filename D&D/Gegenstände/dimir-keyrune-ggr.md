@@ -9,7 +9,6 @@ tags:
 aliases:
   - Dimir Keyrune
 linter-yaml-title-alias: Dimir Keyrune
-obsidianUIMode: preview
 ---
 # Dimir Keyrune
 *Wondrous item, very rare (requires attunement by a member of the Dimir guild)*  

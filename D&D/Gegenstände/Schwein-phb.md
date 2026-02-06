@@ -1,7 +1,9 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Pig
+Bezeichnung: Schwein
+Kategorie: Handelsgut
+Eigenschaften: /
+Kst.: 3 GM
+Gew.: /
 tags:
   - Gegenstand/Ausrüstung/Handelsgut
   - Gegenstand/Seltenheit/keine
@@ -9,11 +11,10 @@ tags:
 aliases:
   - Pig
 linter-yaml-title-alias: Pig
-obsidianUIMode: preview
 ---
-# Pig
-*Trade good*  
+# Schwein
+*Handelsgut*  
 
-- **Cost**: 3 gp
+- **Kosten**: 3 GM
 
-*Source: Player's Handbook p. 157. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+*Quelle: Spielerhandbuch S. 157. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*

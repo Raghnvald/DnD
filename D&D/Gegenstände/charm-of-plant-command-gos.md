@@ -9,7 +9,6 @@ tags:
 aliases:
   - Charm of Plant Command
 linter-yaml-title-alias: Charm of Plant Command
-obsidianUIMode: preview
 ---
 # Charm of Plant Command
 *Wondrous item, rare (requires attunement)*  

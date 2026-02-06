@@ -10,7 +10,7 @@ statblock: inline
 statblock-link: "#^statblock"
 aliases:
   - Azer
-Typ: Elementar
+Kategorie: Elementar
 Größe: Mittelgroß
 ---
 # [Azer](3-Mechanics\CLI\bestiary\elemental/azer.md)

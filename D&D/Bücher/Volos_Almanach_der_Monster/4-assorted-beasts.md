@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Quelle/5e/vgm
+  - Quelle/5e/vgm
 aliases:
-- Assorted Beasts
+  - Assorted Beasts
 ---
 # Assorted Beasts
 *Source: Volo's Guide to Monsters* 

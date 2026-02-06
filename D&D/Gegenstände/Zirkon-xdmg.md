@@ -9,7 +9,6 @@ tags:
 aliases:
   - Zircon
 linter-yaml-title-alias: Zircon
-obsidianUIMode: preview
 ---
 # Zircon
 *Treasure (gemstone)*  

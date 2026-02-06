@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-race
+  - json5e-race
 tags:
-- Quelle/5e/phb
-- Rasse/tiefling
+  - Quelle/5e/phb
+  - Rasse/tiefling
 aliases:
-- Tiefling
+  - Tiefling
 ---
 # Tiefling
 *Source: Player's Handbook p. 42. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  

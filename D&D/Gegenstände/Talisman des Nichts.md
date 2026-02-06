@@ -9,7 +9,6 @@ tags:
 aliases:
   - Talisman of the Sphere
 linter-yaml-title-alias: Talisman of the Sphere
-obsidianUIMode: preview
 ---
 # Talisman of the Sphere
 *Wondrous item, major, legendary (requires attunement)*  

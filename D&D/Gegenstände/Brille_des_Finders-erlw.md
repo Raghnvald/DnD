@@ -1,16 +1,14 @@
 ---
 cssclasses:
   - json5e-item
-Bezeichnung: "Finder's Goggles"
+Bezeichnung: Finder's Goggles
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/erlw
 aliases:
-  - "Finder's Goggles"
   - Finder's Goggles
-linter-yaml-title-alias: "Finder's Goggles"
-obsidianUIMode: preview
+linter-yaml-title-alias: Finder's Goggles
 ---
 # Finder's Goggles
 *Wondrous item, uncommon (requires attunement by a creature with the Mark of Finding)*  

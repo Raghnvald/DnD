@@ -9,7 +9,6 @@ tags:
 aliases:
   - Potion of Hill Giant Strength
 linter-yaml-title-alias: Potion of Hill Giant Strength
-obsidianUIMode: preview
 ---
 # Potion of Hill Giant Strength
 *Potion, minor, uncommon*  

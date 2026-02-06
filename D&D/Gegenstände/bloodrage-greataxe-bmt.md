@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Bloodrage Greataxe
-Typ: Nahkampf-Kriegswaffe
+Kategorie: Nahkampf-Kriegswaffe
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/Waffe/Kriegswaffe
@@ -11,7 +11,6 @@ tags:
 aliases:
   - Bloodrage Greataxe
 linter-yaml-title-alias: Bloodrage Greataxe
-obsidianUIMode: preview
 ---
 # Bloodrage Greataxe
 *Weapon (greataxe), uncommon*  

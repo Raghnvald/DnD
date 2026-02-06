@@ -10,7 +10,6 @@ tags:
 aliases:
   - Radiance
 linter-yaml-title-alias: Radiance
-obsidianUIMode: preview
 ---
 # Radiance
 *Wand (requires attunement by a spellcaster)*  

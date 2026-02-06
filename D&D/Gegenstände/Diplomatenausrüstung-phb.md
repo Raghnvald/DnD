@@ -1,18 +1,18 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: "Diplomat's Pack"
+Bezeichnung: Diplomatenausrüstung
+Kategorie: Ausrüstungspaket
+Eigenschaften: /
+Kst.: 39 GM
+Gew.: 18,0 kg.
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - "Diplomat's Pack"
   - Diplomat's Pack
-linter-yaml-title-alias: "Diplomat's Pack"
-obsidianUIMode: preview
+linter-yaml-title-alias: Diplomat's Pack
 ---
-# Diplomat's Pack
+# Diplomatenausrüstung
 *Adventuring gear*  
 
 - **Cost**: 39 gp

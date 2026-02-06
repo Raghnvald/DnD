@@ -9,7 +9,6 @@ tags:
 aliases:
   - Whitestone
 linter-yaml-title-alias: Whitestone
-obsidianUIMode: preview
 ---
 # Whitestone
 *Trade good*  

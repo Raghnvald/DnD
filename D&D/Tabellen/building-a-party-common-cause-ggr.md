@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Quelle/5e/ggr
+  - Quelle/5e/ggr
 aliases:
-- Building a Party; Common Cause
+  - Building a Party; Common Cause
 ---
 # Building a Party; Common Cause
 *Source: Guildmasters' Guide to Ravnica p. 11* 

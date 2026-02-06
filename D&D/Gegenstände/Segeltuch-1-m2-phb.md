@@ -9,7 +9,6 @@ tags:
 aliases:
   - Canvas (1 sq. yd.)
 linter-yaml-title-alias: Canvas (1 sq. yd.)
-obsidianUIMode: preview
 ---
 # Canvas (1 sq. yd.)
 *Trade good*  

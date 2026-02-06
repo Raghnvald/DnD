@@ -1,7 +1,9 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Barding
+Bezeichnung: Rossharnisch
+Kategorie: Zaumzeug, Harnisch und gezogene Fahrzeuge
+Eigenschaften: /
+Kst.: /
+Gew.: /
 tags:
   - Gegenstand/Ausrüstung/tack-and-harness
   - Gegenstand/Seltenheit/keine
@@ -23,10 +25,10 @@ aliases:
   - Studded Leather Barding
 linter-yaml-title-alias: Barding
 ---
-# Barding
-*Tack and harness*  
+# Rossharnisch
+*Zaumzeug und Harnisch*  
 
-Barding is armor designed to protect an animal's head, neck, chest, and body. Any type of armor shown on the Armor table in this chapter can be purchased as barding. The cost is four times the equivalent armor made for humanoids, and it weighs twice as much.
+Hierbei handelt es sich um eine Rüstung, die dafür entworfen wurde, Kopf, Nacken, Brust und Körper eines Reittieres zu schützen. Jede Art von Rüstung, die in der Rüstungstabelle aufgeführt ist, kann als Rossharnisch angefertigt werden. Die Kosten entsprechen dem vierfachen Preis für Humanoide und das Gewicht ist doppelt so hoch. Nicht nur Pferde können einen Rossharnisch tragen.
 
 **Variants**:
 - [Breastplate Barding](#Breastplate%20Barding)

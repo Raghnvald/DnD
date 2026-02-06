@@ -11,7 +11,7 @@ statblock-link: "#^statblock"
 aliases:
   - Blue Slaad
 Größe: Groß
-Typ: Aberration
+Kategorie: Aberration
 HG: 7
 Habitat:
   - /

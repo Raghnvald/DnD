@@ -1,18 +1,18 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: "Dungeoneer's Pack"
+Bezeichnung: Gewölbeforscherausrüstung
+Kategorie: Ausrüstungspaket
+Eigenschaften: /
+Kst.: 12 GM
+Gew.: 30,0 kg
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - "Dungeoneer's Pack"
   - Dungeoneer's Pack
-linter-yaml-title-alias: "Dungeoneer's Pack"
-obsidianUIMode: preview
+linter-yaml-title-alias: Dungeoneer's Pack
 ---
-# Dungeoneer's Pack
+# Gewölbeforscherausrüstung
 *Adventuring gear*  
 
 - **Cost**: 12 gp

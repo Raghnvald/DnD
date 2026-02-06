@@ -8,7 +8,6 @@ tags:
 aliases:
   - Rope of Climbing
 linter-yaml-title-alias: Rope of Climbing
-obsidianUIMode: preview
 ---
 # Rope of Climbing
 *Wondrous item, minor, uncommon*  

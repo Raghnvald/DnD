@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Zauber/list/subclass/light-domain
+  - Zauber/list/subclass/light-domain
 aliases:
-- Spells for Light Domain
+  - Spells for Light Domain
 ---
 # Spells for Light Domain
 

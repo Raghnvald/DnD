@@ -10,7 +10,6 @@ tags:
 aliases:
   - Staff
 linter-yaml-title-alias: Staff
-obsidianUIMode: preview
 ---
 # Staff
 *Staff, weapon, spellcasting focus*  

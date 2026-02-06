@@ -9,7 +9,6 @@ tags:
 aliases:
   - Gloves of Missile Snaring
 linter-yaml-title-alias: Gloves of Missile Snaring
-obsidianUIMode: preview
 ---
 # Gloves of Missile Snaring
 *Wondrous item, major, uncommon (requires attunement)*  

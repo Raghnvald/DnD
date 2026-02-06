@@ -9,7 +9,6 @@ tags:
 aliases:
   - Yew Wand
 linter-yaml-title-alias: Yew Wand
-obsidianUIMode: preview
 ---
 # Yew Wand
 *Spellcasting focus*  

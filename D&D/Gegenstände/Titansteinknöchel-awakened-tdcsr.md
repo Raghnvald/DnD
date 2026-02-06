@@ -9,7 +9,6 @@ tags:
 aliases:
   - Titanstone Knuckles (Awakened)
 linter-yaml-title-alias: Titanstone Knuckles (Awakened)
-obsidianUIMode: preview
 ---
 # Titanstone Knuckles (Awakened)
 *Wondrous item, legendary (requires attunement)*  

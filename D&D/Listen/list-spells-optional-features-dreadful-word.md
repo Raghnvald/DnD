@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Zauber/list/optfeature/dreadful-word
+  - Zauber/list/optfeature/dreadful-word
 aliases:
-- Spells for Dreadful Word
+  - Spells for Dreadful Word
 ---
 # Spells for Dreadful Word
 

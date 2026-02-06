@@ -10,7 +10,6 @@ tags:
 aliases:
   - Orzhov Guild Signet
 linter-yaml-title-alias: Orzhov Guild Signet
-obsidianUIMode: preview
 ---
 # Orzhov Guild Signet
 *Ring, uncommon (requires attunement)*  

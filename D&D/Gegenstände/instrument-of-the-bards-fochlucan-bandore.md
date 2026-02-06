@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Instrument of the Bards, Fochlucan Bandore
+Kategorie: Wundersamer Gegenstand
 tags:
   - Gegenstand/Ausrüstung/Instrument
   - Gegenstand/Einstimmung/required
@@ -10,7 +11,6 @@ tags:
 aliases:
   - Instrument of the Bards, Fochlucan Bandore
 linter-yaml-title-alias: Instrument of the Bards, Fochlucan Bandore
-obsidianUIMode: preview
 ---
 # Instrument of the Bards, Fochlucan Bandore
 *Wondrous item, instrument, major, uncommon (requires attunement by a bard)*  

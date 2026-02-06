@@ -8,10 +8,8 @@ tags:
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
-  - "Breastplate"
   - Breastplate
 linter-yaml-title-alias: Breastplate
-obsidianUIMode: preview
 ---
 # Breastplate
 *Medium armor*  

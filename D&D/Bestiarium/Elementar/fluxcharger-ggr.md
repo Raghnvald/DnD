@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- Quelle/5e/ggr
-- Monster/HG/7
-- Monster/Größe/Groß
-- Monster/Typ/Elementar
+  - Quelle/5e/ggr
+  - Monster/HG/7
+  - Monster/Größe/Groß
+  - Monster/Typ/Elementar
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Fluxcharger
+  - Fluxcharger
 ---
 # [Fluxcharger](3-Mechanics\CLI\bestiary\elemental/fluxcharger-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 208*  

@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-feat
+  - json5e-feat
 tags:
-- Quelle/5e/xphb
-- Kompendium/Optionales/mv-b
+  - Quelle/5e/xphb
+  - Kompendium/Optionales/mv-b
 aliases:
-- Tactical Assessment
+  - Tactical Assessment
 ---
 # Tactical Assessment
 *Source: Player's Handbook (2024) p. 95*  

@@ -9,7 +9,6 @@ tags:
 aliases:
   - Vial of Stardust
 linter-yaml-title-alias: Vial of Stardust
-obsidianUIMode: preview
 ---
 # Vial of Stardust
 

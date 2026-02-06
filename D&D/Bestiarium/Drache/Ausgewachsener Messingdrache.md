@@ -2,7 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Adult Brass Dragon
-Typ: Drache
+Kategorie: Drache
 Größe: Riesig
 HG: 13
 Habitat:

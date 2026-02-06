@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Zauber/list/background/izzet-engineer
+  - Zauber/list/background/izzet-engineer
 aliases:
-- Spells for Izzet Engineer
+  - Spells for Izzet Engineer
 ---
 # Spells for Izzet Engineer
 

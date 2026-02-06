@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Vial
+Kategorie: Abenteuerausrüstung
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
@@ -9,7 +10,6 @@ tags:
 aliases:
   - Vial
 linter-yaml-title-alias: Vial
-obsidianUIMode: preview
 ---
 # Vial
 *Adventuring gear*  

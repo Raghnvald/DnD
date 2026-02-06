@@ -1,7 +1,9 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Chest
+Bezeichnung: Kiste
+Kategorie: Behälter
+Eigenschaften: /
+Kst.: 5 GM
+Gew.: 12,5 kg
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
@@ -9,14 +11,13 @@ tags:
 aliases:
   - Chest
 linter-yaml-title-alias: Chest
-obsidianUIMode: preview
 ---
-# Chest
-*Adventuring gear*  
+# Kiste
+*Abenteuerausrüstung*  
 
-- **Cost**: 5 gp
-- **Weight**: 25.0 lbs.
+- **Kosten**: 5 GM
+- **Gewicht**: 12,5 kg.
 
-A chest holds 12 cubic feet or 300 pounds of gear.
+Eine Kiste fasst 340 Liter oder 150,0 kg. Ausrüstung. 
 
-*Source: Player's Handbook p. 153. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+*Quelle: Spielerhandbuch S. 153. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*

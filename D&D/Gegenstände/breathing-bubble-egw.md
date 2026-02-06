@@ -8,7 +8,6 @@ tags:
 aliases:
   - Breathing Bubble
 linter-yaml-title-alias: Breathing Bubble
-obsidianUIMode: preview
 ---
 # Breathing Bubble
 *Wondrous item, common*  

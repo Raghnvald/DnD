@@ -9,7 +9,6 @@ tags:
 aliases:
   - Mule
 linter-yaml-title-alias: Mule
-obsidianUIMode: preview
 ---
 # Mule
 *Mount*  

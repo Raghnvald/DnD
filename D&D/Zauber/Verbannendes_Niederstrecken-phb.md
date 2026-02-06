@@ -15,7 +15,6 @@ classes:
 aliases:
   - Banishing Smite
 linter-yaml-title-alias: Banishing Smite
-obsidianUIMode: preview
 ---
 # Banishing Smite
 *5th-level, Abjuration*  

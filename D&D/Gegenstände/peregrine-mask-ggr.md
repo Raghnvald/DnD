@@ -9,7 +9,6 @@ tags:
 aliases:
   - Peregrine Mask
 linter-yaml-title-alias: Peregrine Mask
-obsidianUIMode: preview
 ---
 # Peregrine Mask
 *Wondrous item, very rare (requires attunement)*  

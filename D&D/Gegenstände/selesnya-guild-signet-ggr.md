@@ -10,7 +10,6 @@ tags:
 aliases:
   - Selesnya Guild Signet
 linter-yaml-title-alias: Selesnya Guild Signet
-obsidianUIMode: preview
 ---
 # Selesnya Guild Signet
 *Ring, uncommon (requires attunement)*  

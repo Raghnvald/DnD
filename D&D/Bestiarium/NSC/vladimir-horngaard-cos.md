@@ -2,7 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Vladimir Horngaard
-Typ: Untoter
+Kategorie: Untoter
 Größe: Mittelgroß
 HG: 7
 Habitat:

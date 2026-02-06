@@ -10,7 +10,6 @@ tags:
 aliases:
   - Psychic Blade
 linter-yaml-title-alias: Psychic Blade
-obsidianUIMode: preview
 ---
 # Psychic Blade
 *Weapon*  

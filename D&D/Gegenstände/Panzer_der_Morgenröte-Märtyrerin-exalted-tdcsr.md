@@ -11,7 +11,6 @@ tags:
 aliases:
   - Plate of the Dawnmartyr (Exalted)
 linter-yaml-title-alias: Plate of the Dawnmartyr (Exalted)
-obsidianUIMode: preview
 ---
 # Plate of the Dawnmartyr (Exalted)
 *Heavy armor ([plate armor](/3-Mechanics/CLI/items/plate-armor-xphb.md)), legendary (requires attunement)*  

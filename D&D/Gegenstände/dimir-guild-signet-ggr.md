@@ -10,7 +10,6 @@ tags:
 aliases:
   - Dimir Guild Signet
 linter-yaml-title-alias: Dimir Guild Signet
-obsidianUIMode: preview
 ---
 # Dimir Guild Signet
 *Ring, uncommon (requires attunement)*  

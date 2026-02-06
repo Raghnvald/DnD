@@ -9,7 +9,6 @@ tags:
 aliases:
   - Diamond
 linter-yaml-title-alias: Diamond
-obsidianUIMode: preview
 ---
 # Diamond
 *Treasure (gemstone)*  

@@ -1,6 +1,6 @@
 ---
 Bezeichnung: Zauberstab der magischen Geschosse
-Typ: Zauberstab
+Kategorie: Zauberstab
 Eigenschaften: n/v
 Kst.: n/v
 Gew.: 0,5 kg

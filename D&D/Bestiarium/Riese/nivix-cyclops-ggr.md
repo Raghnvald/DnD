@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- Quelle/5e/ggr
-- Monster/HG/8
-- Monster/Größe/Groß
-- Monster/Typ/Riese
+  - Quelle/5e/ggr
+  - Monster/HG/8
+  - Monster/Größe/Groß
+  - Monster/Typ/Riese
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Nivix Cyclops
+  - Nivix Cyclops
 ---
 # [Nivix Cyclops](3-Mechanics\CLI\bestiary\giant/nivix-cyclops-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 216*  

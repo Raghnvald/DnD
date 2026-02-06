@@ -1,15 +1,13 @@
 ---
 cssclasses:
   - json5e-item
-Bezeichnung: "Hook of Fisher's Delight"
+Bezeichnung: Hook of Fisher's Delight
 tags:
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/idrotf
 aliases:
-  - "Hook of Fisher's Delight"
   - Hook of Fisher's Delight
-linter-yaml-title-alias: "Hook of Fisher's Delight"
-obsidianUIMode: preview
+linter-yaml-title-alias: Hook of Fisher's Delight
 ---
 # Hook of Fisher's Delight
 *Wondrous item, rare*  

@@ -9,7 +9,6 @@ tags:
 aliases:
   - Bloodstone
 linter-yaml-title-alias: Bloodstone
-obsidianUIMode: preview
 ---
 # Bloodstone
 *Treasure (gemstone)*  

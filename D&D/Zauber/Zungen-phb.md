@@ -25,7 +25,6 @@ classes:
 aliases:
   - Tongues
 linter-yaml-title-alias: Tongues
-obsidianUIMode: preview
 ---
 # Tongues
 *3rd-level, Divination*  

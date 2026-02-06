@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Bob
-Typ: Nahkampf-Kriegswaffe
+Kategorie: Nahkampf-Kriegswaffe
 tags:
   - Gegenstand/Seltenheit/unbekannt/magic
   - Gegenstand/Waffe/Kriegswaffe
@@ -11,7 +11,6 @@ tags:
 aliases:
   - Bob
 linter-yaml-title-alias: Bob
-obsidianUIMode: preview
 ---
 # Bob
 *Weapon (battleaxe)*  

@@ -1,7 +1,6 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Fackel
+Kategorie: Abenteuerausrüstung
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
@@ -9,7 +8,6 @@ tags:
 aliases:
   - Fackel
 linter-yaml-title-alias: Fackel
-obsidianUIMode: preview
 ---
 # Fackel
 *Abenteuerausrüstung*  

@@ -28,9 +28,9 @@ Nach CoS eher ratlos für Belohnung. Eventuell [[quaals-feather-token-tree]]? Me
 - [Arcane Grimoire](Arcane-Grimoire)
 - [[Elfenrüstung-old]]
 - [Verheerende Abhandlung](Fulminating-Treatise)
-- [[Zauberhut]]
+- [[Zauberhut-old]]
 - [Robe des Erzmagiers](../../05%20-%20Wikipedia/Gegenstände/Robe-des-Erzmagiers.md)
-- [Stab des Magus](Zauberstecken%20der%20Magi.md)
+- [Stab des Magus](Zauberstecken_der_Magi-dmg.md)
 
 Nach CoS den Folianten "entfernen", dafür ein vergleichbares Zauberbuch bzw Foliant? [[tome-of-the-stilled-tongue]]?
 

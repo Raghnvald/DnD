@@ -17,7 +17,6 @@ classes:
 aliases:
   - Meteor Swarm
 linter-yaml-title-alias: Meteor Swarm
-obsidianUIMode: preview
 ---
 # Meteor Swarm
 *9th-level, Evocation*  

@@ -9,7 +9,6 @@ tags:
 aliases:
   - Fine Clothes
 linter-yaml-title-alias: Fine Clothes
-obsidianUIMode: preview
 ---
 # Fine Clothes
 *Adventuring gear*  

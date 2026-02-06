@@ -1,7 +1,11 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Donkey
+Bezeichnung: Esel
+Kategorie: Reit- und Lastentier
+Eigenschaften: /
+Kst.: 8 GM
+Gew.: /
+Bew.: 12 m
+Traglast: 420 Pfd.
 tags:
   - Gegenstand/Ausrüstung/Reit-und-Lastentier
   - Gegenstand/Seltenheit/keine
@@ -9,11 +13,10 @@ tags:
 aliases:
   - Donkey
 linter-yaml-title-alias: Donkey
-obsidianUIMode: preview
 ---
-# Donkey
-*Mount*  
+# Esel
+*Reit- und Lasttiere*  
 
-- **Cost**: 8 gp
+- **Kosten**: 8 GM
 
-*Source: Player's Handbook p. 157. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+*Quelle: Spielerhandbuch S. 157. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*

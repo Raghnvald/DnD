@@ -9,7 +9,6 @@ tags:
 aliases:
   - Carved wooden harp with ivory inlay and zircon gems
 linter-yaml-title-alias: Carved wooden harp with ivory inlay and zircon gems
-obsidianUIMode: preview
 ---
 # Carved wooden harp with ivory inlay and zircon gems
 *Treasure (art object)*  

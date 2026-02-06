@@ -6,10 +6,8 @@ tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/xdmg
 aliases:
-  - "Cap of Water Breathing"
   - Cap of Water Breathing
 linter-yaml-title-alias: Cap of Water Breathing
-obsidianUIMode: preview
 ---
 # Cap of Water Breathing
 *Wondrous item, uncommon*  

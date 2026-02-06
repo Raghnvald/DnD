@@ -3,7 +3,7 @@ prefer-view: edit-source read
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Phantomkrieger
-Typ: Untoter
+Kategorie: Untoter
 Größe: Mittelgroß
 HG: 3
 Habitat:

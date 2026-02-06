@@ -8,7 +8,6 @@ tags:
 aliases:
   - Carpet of Flying, 3 ft. × 5 ft.
 linter-yaml-title-alias: Carpet of Flying, 3 ft. × 5 ft.
-obsidianUIMode: preview
 ---
 # Carpet of Flying, 3 ft. × 5 ft.
 *Wondrous item, major, very rare*  

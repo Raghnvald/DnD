@@ -2,7 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Juvenile Shadow Dragon
-Typ: Drache
+Kategorie: Drache
 Größe: Mittelgroß
 HG: 4
 Habitat:

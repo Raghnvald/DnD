@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Lance
-Typ: Nahkampf-Kriegswaffe
+Kategorie: Nahkampf-Kriegswaffe
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/Kriegswaffe
@@ -11,7 +11,6 @@ tags:
 aliases:
   - Lance
 linter-yaml-title-alias: Lance
-obsidianUIMode: preview
 ---
 # Lance
 *Weapon*  

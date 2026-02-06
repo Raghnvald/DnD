@@ -10,7 +10,6 @@ tags:
 aliases:
   - Handaxe
 linter-yaml-title-alias: Handaxe
-obsidianUIMode: preview
 ---
 # Handaxe
 *Weapon*  

@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Sword of Wounding
-Typ: Nahkampf-Kriegswaffe (generisch)
+Kategorie: Nahkampf-Kriegswaffe (generisch)
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
@@ -19,7 +19,6 @@ aliases:
   - Shortsword of Wounding
   - Sword of Wounding
 linter-yaml-title-alias: Sword of Wounding
-obsidianUIMode: preview
 ---
 # Sword of Wounding
 *Major, rare (requires attunement)*  

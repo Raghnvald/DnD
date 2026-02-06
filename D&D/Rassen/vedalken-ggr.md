@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-race
+  - json5e-race
 tags:
-- Quelle/5e/ggr
-- Rasse/vedalken
+  - Quelle/5e/ggr
+  - Rasse/vedalken
 aliases:
-- Vedalken
+  - Vedalken
 ---
 # Vedalken
 *Source: Guildmasters' Guide to Ravnica p. 21*  

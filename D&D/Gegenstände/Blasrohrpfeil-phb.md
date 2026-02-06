@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Blowgun Needle
+Kategorie: Munition
 tags:
   - Gegenstand/Ausrüstung/ammunition
   - Gegenstand/Seltenheit/keine
@@ -9,7 +10,6 @@ tags:
 aliases:
   - Blowgun Needle
 linter-yaml-title-alias: Blowgun Needle
-obsidianUIMode: preview
 ---
 # Blowgun Needle
 *Ammunition*  

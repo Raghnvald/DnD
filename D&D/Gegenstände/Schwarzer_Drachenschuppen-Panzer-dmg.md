@@ -1,6 +1,6 @@
 ---
 Bezeichnung: Schwarzer Drachenschuppen-Panzer
-Typ: Rüstung
+Kategorie: Rüstung
 Rüstung: Mittel
 Eigenschaften: n/v
 Kst.: /

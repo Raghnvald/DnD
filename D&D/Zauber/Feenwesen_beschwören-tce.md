@@ -17,7 +17,6 @@ classes:
 aliases:
   - Conjure Fey
 linter-yaml-title-alias: Conjure Fey
-obsidianUIMode: preview
 ---
 # Conjure Fey
 *6th-level, Conjuration*  

@@ -10,7 +10,6 @@ tags:
 aliases:
   - Staff of the Forgotten One
 linter-yaml-title-alias: Staff of the Forgotten One
-obsidianUIMode: preview
 ---
 # Stab des Vergessenen
 *Staff, weapon, artifact (requires attunement by a sorcerer, warlock, or wizard)*  

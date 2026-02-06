@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Quelle/5e/dmg
+  - Quelle/5e/dmg
 aliases:
-- Cataclysmic Disasters
+  - Cataclysmic Disasters
 ---
 # Katastrophales Unglück
 *Quellen: Spielleiterhandbuch S. 28* 

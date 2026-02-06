@@ -9,7 +9,6 @@ tags:
 aliases:
   - Ioun Stone, Strength
 linter-yaml-title-alias: Ioun Stone, Strength
-obsidianUIMode: preview
 ---
 # Ioun Stone, Strength
 *Wondrous item, major, very rare (requires attunement)*  

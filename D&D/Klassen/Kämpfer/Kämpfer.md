@@ -51,10 +51,10 @@ You are proficient with the following items, in addition to any proficiencies pr
 
 You begin play with the following equipment, in addition to any equipment provided by your background.
 
--   (a) [chain mail](../../../Gegenstände/Kettenpanzer.md) or (b) [leather armor](../../../Gegenstände/Lederrüstung.md), [Langbogen](../../../Gegenstände/Langbogen.md), and [20 arrows](../../../Gegenstände/Pfeile-20.md)
+-   (a) [chain mail](../../../Gegenstände/Kettenpanzer.md) or (b) [leather armor](../../../Gegenstände/Lederrüstung.md), [Langbogen](../../../Gegenstände/Langbogen.md), and [20 arrows](Pfeile-20-phb.md)
 -   (a) a martial weapon and a [shield](Dungeons%20&%20Dragons/Wikipedia%20der%20Vergessenen%20Reiche/Kompendium%20der%20Vergessenen%20Reiche/Gegenst%C3%A4nde/shield.md) or (b) two martial weapons
 -   (a) a [light crossbow](../../../Gegenstände/Armbrust-leicht.md) and [20 bolts](Armbrustbolzen-20-phb.md) or (b) two [handaxes](../../../Gegenstände/Beil.md)
--   (a) a [dungeoneer's pack](../../../Gegenstände/Gewölbeforscherausrüstung.md) or (b) an [explorer's pack](../../../Gegenstände/Entdeckerausrüstung.md)
+-   (a) a [dungeoneer's pack](../../../Gegenstände/Gewölbeforscherausrüstung.md) or (b) an [explorer's pack](Entdeckerausrüstung-old.md)
 
 Alternatively, you may start with 5W4 × 10 gp and choose your own equipment.
 

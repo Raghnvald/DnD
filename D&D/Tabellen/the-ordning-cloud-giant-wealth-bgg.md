@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Quelle/5e/bgg
+  - Quelle/5e/bgg
 aliases:
-- The Ordning; Cloud Giant Wealth
+  - The Ordning; Cloud Giant Wealth
 ---
 # The Ordning; Cloud Giant Wealth
 *Source: Bigby Presents: Glory of the Giants p. 24* 

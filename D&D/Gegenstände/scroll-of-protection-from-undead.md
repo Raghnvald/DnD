@@ -9,7 +9,6 @@ tags:
 aliases:
   - Scroll of Protection from Undead
 linter-yaml-title-alias: Scroll of Protection from Undead
-obsidianUIMode: preview
 ---
 # Scroll of Protection from Undead
 *Scroll, minor, rare*  

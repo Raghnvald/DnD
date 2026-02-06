@@ -9,7 +9,6 @@ tags:
 aliases:
   - Belt of Frost Giant Strength
 linter-yaml-title-alias: Belt of Frost Giant Strength
-obsidianUIMode: preview
 ---
 # Belt of Frost Giant Strength
 *Wondrous item, major, very rare (requires attunement)*  

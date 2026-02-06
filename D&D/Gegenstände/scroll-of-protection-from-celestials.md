@@ -9,7 +9,6 @@ tags:
 aliases:
   - Scroll of Protection from Celestials
 linter-yaml-title-alias: Scroll of Protection from Celestials
-obsidianUIMode: preview
 ---
 # Scroll of Protection from Celestials
 *Scroll, minor, rare*  

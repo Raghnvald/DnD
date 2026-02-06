@@ -9,7 +9,6 @@ tags:
 aliases:
   - Silver Bar (5-pound)
 linter-yaml-title-alias: Silver Bar (5-pound)
-obsidianUIMode: preview
 ---
 # Silver Bar (5-pound)
 *Trade bar*  

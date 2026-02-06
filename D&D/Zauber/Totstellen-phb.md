@@ -24,7 +24,6 @@ classes:
 aliases:
   - Feign Death
 linter-yaml-title-alias: Feign Death
-obsidianUIMode: preview
 ---
 # Feign Death
 *3rd-level, Necromancy (ritual)*  

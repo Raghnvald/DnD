@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Resistenz
+Zaubergrad: 0 (Zaubertrick)
 Zeitaufwand: Berührung
 Reichweite: 9 Meter
 Komponenten: V, G, M

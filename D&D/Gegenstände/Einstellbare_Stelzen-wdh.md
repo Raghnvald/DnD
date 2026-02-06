@@ -9,7 +9,6 @@ tags:
 aliases:
   - Adjustable Stilts
 linter-yaml-title-alias: Adjustable Stilts
-obsidianUIMode: preview
 ---
 # Adjustable Stilts
 

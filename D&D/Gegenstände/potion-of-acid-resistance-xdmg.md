@@ -7,10 +7,9 @@ tags:
   - Gegenstand/wundersam/Trank
   - Quelle/5e/xdmg
 aliases:
-  - "Potion of Acid Resistance"
+  - Potion of Acid Resistance
   - Potion of Acid Resistance
 linter-yaml-title-alias: Potion of Acid Resistance
-obsidianUIMode: preview
 ---
 # Potion of Acid Resistance
 *Potion, uncommon*  

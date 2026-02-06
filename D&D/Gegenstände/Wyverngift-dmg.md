@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Wyvern Poison
+Kategorie: Gift
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
@@ -9,7 +10,6 @@ tags:
 aliases:
   - Wyvern Poison
 linter-yaml-title-alias: Wyvern Poison
-obsidianUIMode: preview
 ---
 # Wyvern Poison
 *Adventuring gear, poison (injury)*  

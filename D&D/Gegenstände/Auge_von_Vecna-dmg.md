@@ -9,7 +9,6 @@ tags:
 aliases:
   - Eye of Vecna
 linter-yaml-title-alias: Eye of Vecna
-obsidianUIMode: preview
 ---
 # Eye of Vecna
 *Wondrous item, artifact (requires attunement)*  

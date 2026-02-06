@@ -1,17 +1,16 @@
 ---
 cssclasses:
   - json5e-item
-Bezeichnung: "Stonky's ring"
+Bezeichnung: Stonky's ring
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/unbekannt/magic
   - Gegenstand/wundersam/ring
   - Quelle/5e/cm
 aliases:
-  - "Stonky's ring"
   - Stonky's ring
-linter-yaml-title-alias: "Stonky's ring"
-obsidianUIMode: preview
+  - Stonky's ring
+linter-yaml-title-alias: Stonky's ring
 ---
 # Stonky's ring
 *Ring (requires attunement)*  

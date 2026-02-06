@@ -19,7 +19,6 @@ classes:
 aliases:
   - Fire Storm
 linter-yaml-title-alias: Fire Storm
-obsidianUIMode: preview
 ---
 # Fire Storm
 *7th-level, Evocation*  

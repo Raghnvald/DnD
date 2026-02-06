@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Silver necklace with a gemstone pendant
+Kategorie: Kunstobjekt
 tags:
   - Gegenstand/Ausrüstung/treasure-art-object
   - Gegenstand/Seltenheit/keine
@@ -9,7 +10,6 @@ tags:
 aliases:
   - Silver necklace with a gemstone pendant
 linter-yaml-title-alias: Silver necklace with a gemstone pendant
-obsidianUIMode: preview
 ---
 # Silver necklace with a gemstone pendant
 *Treasure (art object)*  

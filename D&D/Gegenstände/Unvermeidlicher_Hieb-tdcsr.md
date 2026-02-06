@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Inescapable Lash
-Typ: Nahkampf-Kriegswaffe
+Kategorie: Nahkampf-Kriegswaffe
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
@@ -12,7 +12,6 @@ tags:
 aliases:
   - Inescapable Lash
 linter-yaml-title-alias: Inescapable Lash
-obsidianUIMode: preview
 ---
 # Inescapable Lash
 *Weapon ([whip](/3-Mechanics/CLI/items/whip-xphb.md)), rare (requires attunement)*  

@@ -9,7 +9,6 @@ tags:
 aliases:
   - Opal of the Ild Rune
 linter-yaml-title-alias: Opal of the Ild Rune
-obsidianUIMode: preview
 ---
 # Opal of the Ild Rune
 *Wondrous item, rare (requires attunement)*  

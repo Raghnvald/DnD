@@ -9,7 +9,6 @@ tags:
 aliases:
   - Belt of Hill Giant Strength
 linter-yaml-title-alias: Belt of Hill Giant Strength
-obsidianUIMode: preview
 ---
 # Belt of Hill Giant Strength
 *Wondrous item, rare (requires attunement)*  

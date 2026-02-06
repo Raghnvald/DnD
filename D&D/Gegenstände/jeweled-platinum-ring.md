@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Jeweled platinum ring
+Kategorie: Kunstobjekt
 tags:
   - Gegenstand/Ausrüstung/treasure-art-object
   - Gegenstand/Seltenheit/keine
@@ -9,7 +10,6 @@ tags:
 aliases:
   - Jeweled platinum ring
 linter-yaml-title-alias: Jeweled platinum ring
-obsidianUIMode: preview
 ---
 # Jeweled platinum ring
 *Treasure (art object)*  

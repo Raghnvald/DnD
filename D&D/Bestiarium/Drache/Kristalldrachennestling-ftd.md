@@ -2,7 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Crystal Dragon Wyrmling
-Typ: Drache (Edelstein)
+Kategorie: Drache (Edelstein)
 Größe: Mittelgroß
 tags:
   - Monster/Größe/Mittelgroß

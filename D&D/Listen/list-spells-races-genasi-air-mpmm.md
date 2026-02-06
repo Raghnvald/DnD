@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Zauber/list/subrace/genasi-air
+  - Zauber/list/subrace/genasi-air
 aliases:
-- Spells for Genasi (Air)
+  - Spells for Genasi (Air)
 ---
 # Spells for Genasi (Air)
 

@@ -10,7 +10,6 @@ tags:
 aliases:
   - Spindle of Fate
 linter-yaml-title-alias: Spindle of Fate
-obsidianUIMode: preview
 ---
 # Spindle of Fate
 *Wand, legendary (requires attunement)*  

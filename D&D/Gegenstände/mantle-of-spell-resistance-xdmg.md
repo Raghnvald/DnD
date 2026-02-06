@@ -9,7 +9,6 @@ tags:
 aliases:
   - Mantle of Spell Resistance
 linter-yaml-title-alias: Mantle of Spell Resistance
-obsidianUIMode: preview
 ---
 # Mantle of Spell Resistance
 *Wondrous item, rare (requires attunement)*  

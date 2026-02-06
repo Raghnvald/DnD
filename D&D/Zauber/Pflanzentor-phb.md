@@ -15,7 +15,6 @@ classes:
 aliases:
   - Transport via Plants
 linter-yaml-title-alias: Transport via Plants
-obsidianUIMode: preview
 ---
 # Transport via Plants
 *6th-level, Conjuration*  

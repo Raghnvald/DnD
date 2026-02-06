@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Jeweled gold crown
+Kategorie: Kunstobjekt
 tags:
   - Gegenstand/Ausrüstung/treasure-art-object
   - Gegenstand/Seltenheit/keine
@@ -9,7 +10,6 @@ tags:
 aliases:
   - Jeweled gold crown
 linter-yaml-title-alias: Jeweled gold crown
-obsidianUIMode: preview
 ---
 # Jeweled gold crown
 *Treasure (art object)*  

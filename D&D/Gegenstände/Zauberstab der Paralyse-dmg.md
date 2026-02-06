@@ -10,7 +10,6 @@ tags:
 aliases:
   - Wand of Paralysis
 linter-yaml-title-alias: Wand of Paralysis
-obsidianUIMode: preview
 ---
 # Wand of Paralysis
 *Wand, major, rare (requires attunement by a spellcaster)*  

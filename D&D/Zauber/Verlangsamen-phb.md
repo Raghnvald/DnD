@@ -24,7 +24,6 @@ classes:
 aliases:
   - Slow
 linter-yaml-title-alias: Slow
-obsidianUIMode: preview
 ---
 # Slow
 *3rd-level, Transmutation*  

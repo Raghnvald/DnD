@@ -1,7 +1,5 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Mind Lash
+Bezeichnung: Gedankengeissel
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
@@ -10,9 +8,8 @@ tags:
 aliases:
   - Mind Lash
 linter-yaml-title-alias: Mind Lash
-obsidianUIMode: preview
 ---
-# Mind Lash
+# Gedankengeissel
 *Melee weapon, rare (requires attunement by a mind flayer)*  
 
 - **Damage**: 1d4 slashing

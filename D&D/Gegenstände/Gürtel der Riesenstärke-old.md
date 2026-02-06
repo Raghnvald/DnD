@@ -1,6 +1,6 @@
 ---
 Bezeichnung: Gürtel der Riesenstärke
-Typ: Wundersamer Gegenstand
+Kategorie: Wundersamer Gegenstand
 Eigenschaften: n/v
 Kst.: n/v
 Gew.: n/v

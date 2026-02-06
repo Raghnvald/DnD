@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Ryath Root
+Kategorie: Abenteuerausrüstung
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/unbekannt
@@ -9,7 +10,6 @@ tags:
 aliases:
   - Ryath Root
 linter-yaml-title-alias: Ryath Root
-obsidianUIMode: preview
 ---
 # Ryath Root
 *Adventuring gear*  

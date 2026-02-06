@@ -23,7 +23,6 @@ classes:
 aliases:
   - Major Image
 linter-yaml-title-alias: Major Image
-obsidianUIMode: preview
 ---
 # Major Image
 *3rd-level, Illusion*  

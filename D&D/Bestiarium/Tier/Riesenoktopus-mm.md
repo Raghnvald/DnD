@@ -2,7 +2,7 @@
 cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
 Name: Riesenoktopus
-Typ: Tier
+Kategorie: Tier
 Größe: Groß
 HG: 1
 Habitat:

@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Quelle/5e/ggr
+  - Quelle/5e/ggr
 aliases:
-- Chapter 3: The Tenth District
+  - Chapter 3: The Tenth District
 ---
 # Chapter 3: The Tenth District
 *Source: Guildmasters' Guide to Ravnica, p. 99* 

@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Zauber/list/background/boros-legionnaire
+  - Zauber/list/background/boros-legionnaire
 aliases:
-- Spells for Boros Legionnaire
+  - Spells for Boros Legionnaire
 ---
 # Spells for Boros Legionnaire
 

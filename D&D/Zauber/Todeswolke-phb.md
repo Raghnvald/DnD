@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Todeswolke
 Zaubergrad: 5
-Zeitaufwand: 
-Reichweite: 
-Komponenten: 
-Wirkungsdauer: 
-Angriff: 
-Schaden: 
+Zeitaufwand:
+Reichweite:
+Komponenten:
+Wirkungsdauer:
+Angriff:
+Schaden:
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide/circle-of-the-land/underdark
@@ -25,7 +25,6 @@ classes:
 aliases:
   - Cloudkill
 linter-yaml-title-alias: Todeswolke
-obsidianUIMode: preview
 ---
 # Todeswolke
 *Beschwörung des 5. Grades*

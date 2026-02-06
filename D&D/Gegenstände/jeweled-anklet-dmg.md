@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Jeweled anklet
+Kategorie: Kunstobjekt
 tags:
   - Gegenstand/Ausrüstung/treasure-art-object
   - Gegenstand/Seltenheit/keine
@@ -9,7 +10,6 @@ tags:
 aliases:
   - Jeweled anklet
 linter-yaml-title-alias: Jeweled anklet
-obsidianUIMode: preview
 ---
 # Jeweled anklet
 *Treasure (art object)*  

@@ -26,7 +26,6 @@ classes:
 aliases:
   - Fireball
 linter-yaml-title-alias: Fireball
-obsidianUIMode: preview
 ---
 # Fireball
 *Hervorrufung des 3. Grades*  

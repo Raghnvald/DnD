@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-spell
 Bezeichnung: Klopfen
+Zaubergrad: 2
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Magier
@@ -19,7 +20,6 @@ classes:
   - Wizard
 aliases:
   - Knock
-obsidianUIMode: preview
 ---
 # Klopfen
 *Verwandlung des 2. Grades*  

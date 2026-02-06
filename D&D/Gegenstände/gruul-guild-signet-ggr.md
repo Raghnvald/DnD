@@ -10,7 +10,6 @@ tags:
 aliases:
   - Gruul Guild Signet
 linter-yaml-title-alias: Gruul Guild Signet
-obsidianUIMode: preview
 ---
 # Gruul Guild Signet
 *Ring, uncommon (requires attunement)*  

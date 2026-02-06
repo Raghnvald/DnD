@@ -1,16 +1,15 @@
 ---
 cssclasses:
   - json5e-item
-Bezeichnung: "Illuminator's Tattoo"
+Bezeichnung: Illuminator's Tattoo
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/gewöhnlich
   - Gegenstand/wundersam/tattoo
   - Quelle/5e/tce
 aliases:
-  - "Illuminator's Tattoo"
   - Illuminator's Tattoo
-linter-yaml-title-alias: "Illuminator's Tattoo"
+linter-yaml-title-alias: Illuminator's Tattoo
 ---
 # Illuminator's Tattoo
 *Wondrous item (tattoo), common (requires attunement)*  

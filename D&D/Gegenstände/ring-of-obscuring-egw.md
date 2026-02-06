@@ -10,7 +10,6 @@ tags:
 aliases:
   - Ring of Obscuring
 linter-yaml-title-alias: Ring of Obscuring
-obsidianUIMode: preview
 ---
 # Ring of Obscuring
 *Ring, uncommon (requires attunement)*  

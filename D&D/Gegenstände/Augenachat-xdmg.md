@@ -9,7 +9,6 @@ tags:
 aliases:
   - Eye Agate
 linter-yaml-title-alias: Eye Agate
-obsidianUIMode: preview
 ---
 # Eye Agate
 *Treasure (gemstone)*  

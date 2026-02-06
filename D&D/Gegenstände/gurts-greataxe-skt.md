@@ -1,8 +1,8 @@
 ---
 cssclasses:
   - json5e-item
-Bezeichnung: "Gurt's Greataxe"
-Typ: Nahkampf-Kriegswaffe
+Bezeichnung: Gurt's Greataxe
+Kategorie: Nahkampf-Kriegswaffe
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -10,10 +10,8 @@ tags:
   - Gegenstand/Waffe/Nahkampf
   - Quelle/5e/skt
 aliases:
-  - "Gurt's Greataxe"
   - Gurt's Greataxe
-linter-yaml-title-alias: "Gurt's Greataxe"
-obsidianUIMode: preview
+linter-yaml-title-alias: Gurt's Greataxe
 ---
 # Gurt's Greataxe
 *Weapon (greataxe), legendary (requires attunement)*  

@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: The Incantations of Iriolarthas
+Kategorie: Abenteuerausrüstung
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/unbekannt
@@ -9,7 +10,6 @@ tags:
 aliases:
   - The Incantations of Iriolarthas
 linter-yaml-title-alias: The Incantations of Iriolarthas
-obsidianUIMode: preview
 ---
 # The Incantations of Iriolarthas
 *Adventuring gear*  

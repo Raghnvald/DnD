@@ -27,7 +27,6 @@ classes:
 aliases:
   - Control Water
 linter-yaml-title-alias: Control Water
-obsidianUIMode: preview
 ---
 # Control Water
 *4th-level, Transmutation*  

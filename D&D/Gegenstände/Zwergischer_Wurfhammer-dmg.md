@@ -1,8 +1,8 @@
 ---
 cssclasses:
   - json5e-item
-Bezeichnung: Dwarven Thrower
-Typ: Nahkampf-Kriegswaffe
+Bezeichnung: Zwergischer Wurfhammer
+Kategorie: Nahkampf-Kriegswaffe
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
@@ -12,7 +12,6 @@ tags:
 aliases:
   - Dwarven Thrower
 linter-yaml-title-alias: Dwarven Thrower
-obsidianUIMode: preview
 ---
 # Dwarven Thrower
 *Weapon ([warhammer](/3-Mechanics/CLI/items/warhammer.md)), major, very rare (requires attunement by a dwarf)*  

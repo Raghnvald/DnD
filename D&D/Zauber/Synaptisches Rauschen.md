@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Synaptisches Rauschen
+Zaubergrad: 5
 Zeitaufwand: 1 Aktion
 Reichweite: 36 Meter
 Komponenten: V, G

@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Sword of Answering (Replier)
-Typ: Nahkampf-Kriegswaffe
+Kategorie: Nahkampf-Kriegswaffe
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -12,7 +12,6 @@ tags:
 aliases:
   - Sword of Answering (Replier)
 linter-yaml-title-alias: Sword of Answering (Replier)
-obsidianUIMode: preview
 ---
 # Sword of Answering (Replier)
 *Weapon ([longsword](/3-Mechanics/CLI/items/longsword.md)), major, legendary (requires attunement by a neutral creature)*  

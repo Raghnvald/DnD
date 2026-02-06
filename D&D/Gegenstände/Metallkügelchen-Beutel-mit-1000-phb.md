@@ -9,7 +9,6 @@ tags:
 aliases:
   - Ball Bearings (bag of 1,000)
 linter-yaml-title-alias: Ball Bearings (bag of 1,000)
-obsidianUIMode: preview
 ---
 # Ball Bearings (bag of 1,000)
 *Adventuring gear*  

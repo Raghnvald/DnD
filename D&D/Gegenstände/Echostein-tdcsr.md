@@ -8,7 +8,6 @@ tags:
 aliases:
   - Echo Stone
 linter-yaml-title-alias: Echo Stone
-obsidianUIMode: preview
 ---
 # Echo Stone
 *Wondrous item, uncommon*  

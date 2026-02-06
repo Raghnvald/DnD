@@ -8,9 +8,7 @@ tags:
   - Quelle/5e/xdmg
 aliases:
   - Bottle stopper cork embossed with gold leaf and set with amethysts
-  - Flaschenverschluss-Korken, geprägt mit Blattgold und mit Amethysten besetzt
 linter-yaml-title-alias: Flaschenverschluss-Korken, geprägt mit Blattgold und mit Amethysten besetzt
-obsidianUIMode: preview
 ---
 # Flaschenverschluss-Korken, geprägt mit Blattgold und mit Amethysten besetzt
 *Treasure (art object)*  

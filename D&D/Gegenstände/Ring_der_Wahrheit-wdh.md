@@ -10,7 +10,6 @@ tags:
 aliases:
   - Ring of Truth Telling
 linter-yaml-title-alias: Ring of Truth Telling
-obsidianUIMode: preview
 ---
 # Ring of Truth Telling
 *Ring, uncommon (requires attunement)*  

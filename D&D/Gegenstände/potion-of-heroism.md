@@ -9,7 +9,6 @@ tags:
 aliases:
   - Potion of Heroism
 linter-yaml-title-alias: Potion of Heroism
-obsidianUIMode: preview
 ---
 # Potion of Heroism
 *Potion, minor, rare*  

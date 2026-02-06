@@ -9,7 +9,6 @@ tags:
 aliases:
   - Dice Set
 linter-yaml-title-alias: Dice Set
-obsidianUIMode: preview
 ---
 # Dice Set
 *Gaming set*  

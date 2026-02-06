@@ -9,7 +9,6 @@ tags:
 aliases:
   - Orb of the Stein Rune
 linter-yaml-title-alias: Orb of the Stein Rune
-obsidianUIMode: preview
 ---
 # Orb of the Stein Rune
 *Wondrous item, rare (requires attunement)*  

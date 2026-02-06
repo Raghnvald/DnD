@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-hazard
+  - json5e-hazard
 tags:
-- Quelle/5e/dmg
-- Kompendium/Bedrohung/gen
+  - Quelle/5e/dmg
+  - Kompendium/Bedrohung/gen
 aliases:
-- Improvised Damage
+  - Improvised Damage
 ---
 # Improvised Damage
 *Generic Hazard*  

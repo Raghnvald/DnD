@@ -2,7 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Young Sea Serpent
-Typ: Drache
+Kategorie: Drache
 Größe: Riesig
 HG: 8
 Habitat:

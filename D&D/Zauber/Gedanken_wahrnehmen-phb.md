@@ -23,7 +23,6 @@ classes:
 aliases:
   - Detect Thoughts
 linter-yaml-title-alias: Detect Thoughts
-obsidianUIMode: preview
 ---
 # Detect Thoughts
 *2nd-level, Divination*  

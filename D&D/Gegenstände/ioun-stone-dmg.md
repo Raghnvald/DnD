@@ -9,7 +9,6 @@ tags:
 aliases:
   - Ioun Stone
 linter-yaml-title-alias: Ioun Stone
-obsidianUIMode: preview
 ---
 # Ioun Stone
 *Wondrous item (requires attunement)*  

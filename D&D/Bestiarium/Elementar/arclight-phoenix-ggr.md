@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-monster
 tags:
@@ -11,7 +10,7 @@ statblock: inline
 statblock-link: "#^statblock"
 aliases:
   - Arclight Phoenix
-Typ: Elementar
+Kategorie: Elementar
 Größe: Mittelgroß
 ---
 # [Arclight Phoenix](3-Mechanics\CLI\bestiary\elemental/arclight-phoenix-ggr.md)

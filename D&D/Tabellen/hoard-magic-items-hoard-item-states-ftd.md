@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Quelle/5e/ftd
+  - Quelle/5e/ftd
 aliases:
-- Hoard Magic Items; Hoard Item States
+  - Hoard Magic Items; Hoard Item States
 ---
 # Hoard Magic Items; Hoard Item States
 *Source: Fizban's Treasury of Dragons p. 25* 

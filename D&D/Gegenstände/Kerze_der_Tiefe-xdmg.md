@@ -6,10 +6,8 @@ tags:
   - Gegenstand/Seltenheit/gewöhnlich
   - Quelle/5e/xdmg
 aliases:
-  - "Candle of the Deep"
   - Candle of the Deep
 linter-yaml-title-alias: Candle of the Deep
-obsidianUIMode: preview
 ---
 # Candle of the Deep
 *Wondrous item, common*  

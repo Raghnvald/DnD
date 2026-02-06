@@ -1,12 +1,11 @@
 ---
-cssclasses: json5e-item
-Bezeichnung: "Gegengiftphiole "
+Bezeichnung: Gegengiftphiole
+Kategorie: Abenteuerausrüstung
 tags:
   - Gegenstand/Ausrüstung
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - "Gegengiftphiole "
   - Antitoxin (vial)
 linter-yaml-title-alias: "Gegengiftphiole "
 ---

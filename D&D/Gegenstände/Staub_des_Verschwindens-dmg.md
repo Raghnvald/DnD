@@ -8,7 +8,6 @@ tags:
 aliases:
   - Dust of Disappearance
 linter-yaml-title-alias: Dust of Disappearance
-obsidianUIMode: preview
 ---
 # Dust of Disappearance
 *Wondrous item, minor, uncommon*  

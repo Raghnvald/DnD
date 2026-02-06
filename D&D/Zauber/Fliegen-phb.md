@@ -24,7 +24,6 @@ classes:
 aliases:
   - Fly
 linter-yaml-title-alias: Fly
-obsidianUIMode: preview
 ---
 # Fly
 *3rd-level, Transmutation*  

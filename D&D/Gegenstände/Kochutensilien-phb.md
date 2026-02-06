@@ -1,21 +1,21 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: "Cook's Utensils"
+Bezeichnung: Kochutensilien
+Kategorie: Werkzeug
+Eigenschaften: /
+Kst.: 1 GM
+Gew.: 4,0 kg
 tags:
   - Gegenstand/Ausrüstung/Werkzeug
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - "Cook's Utensils"
   - Cook's Utensils
-linter-yaml-title-alias: "Cook's Utensils"
-obsidianUIMode: preview
+linter-yaml-title-alias: Cook's Utensils
 ---
-# Cook's Utensils
-*Artisan's tools*  
+# Kochutensilien
+*Handwerkszeug*
 
-- **Cost**: 1 gp
-- **Weight**: 8.0 lbs.
+- **Kosten**: 1 GM
+- **Gewicht**: 4,0 kg.
 
-*Source: Player's Handbook p. 154, Xanathar's Guide to Everything p. 80. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+*Quelle: Spielerhandbuch S. 154, Xanathars Ratgeber für Alles S. 80. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*

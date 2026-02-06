@@ -1,6 +1,6 @@
 ---
 Bezeichnung: Plattenpanzer
-Typ: Rüstung
+Kategorie: Rüstung
 Rüstung: Mittel
 Eigenschaften: /
 Kst.: 750 GM

@@ -21,7 +21,6 @@ classes:
 aliases:
   - Hallow
 linter-yaml-title-alias: Weihen
-obsidianUIMode: preview
 ---
 # Weihen
 _Hervorrufung des 5. Grades*

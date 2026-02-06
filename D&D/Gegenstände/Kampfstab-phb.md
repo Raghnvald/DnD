@@ -1,7 +1,10 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Quarterstaff
+Bezeichnung: Kampfstab
+Kategorie: Einfache Nahkampfwaffe
+Schaden: 1W6 Wucht
+Eigenschaften: Vielseitig
+Kst.: 2 SM
+Gew.: 2,0 kg
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/Einfach
@@ -10,16 +13,15 @@ tags:
 aliases:
   - Quarterstaff
 linter-yaml-title-alias: Quarterstaff
-obsidianUIMode: preview
 ---
-# Quarterstaff
-*Weapon*  
+# Kampfstab
+*Waffe*  
 
-- **Damage**:
-  - One-handed: 1d6 bludgeoning
-  - Two-handed: 1d8 bludgeoning
-- **Properties**: [Versatile](/3-Mechanics/CLI/item-properties.md#Versatile)
-- **Cost**: 2 sp
-- **Weight**: 4.0 lbs.
+- **Schaden**:
+  - Einhändig: 1d6 Wucht
+  - Zweihändig: 1d8 Wucht
+- **Eigenschaften**: [[Gegenstandseigenschaften-phb#Vielseitig|Vielseitig]]
+- **Kosten**: 2 SM
+- **Gewicht**: 2,0 kg.
 
-*Source: Player's Handbook p. 149. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+*Quellen: Spielerhandbuch S. 149 Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)* 

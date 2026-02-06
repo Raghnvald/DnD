@@ -9,7 +9,6 @@ tags:
 aliases:
   - Slumbering Dragon-Touched Focus
 linter-yaml-title-alias: Slumbering Dragon-Touched Focus
-obsidianUIMode: preview
 ---
 # Slumbering Dragon-Touched Focus
 *Wondrous item, uncommon (requires attunement by a spellcaster)*  

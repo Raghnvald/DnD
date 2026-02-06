@@ -9,7 +9,6 @@ tags:
 aliases:
   - Grimoire Infinitus (Awakened)
 linter-yaml-title-alias: Grimoire Infinitus (Awakened)
-obsidianUIMode: preview
 ---
 # Grimoire Infinitus (Awakened)
 *Wondrous item, legendary (requires attunement by a wizard)*  

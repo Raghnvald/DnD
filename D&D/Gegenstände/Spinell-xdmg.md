@@ -9,7 +9,6 @@ tags:
 aliases:
   - Spinel
 linter-yaml-title-alias: Spinel
-obsidianUIMode: preview
 ---
 # Spinel
 *Treasure (gemstone)*  

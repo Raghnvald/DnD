@@ -9,7 +9,6 @@ tags:
 aliases:
   - Muroosa Balm
 linter-yaml-title-alias: Muroosa Balm
-obsidianUIMode: preview
 ---
 # Muroosa Balm
 *Adventuring gear*  

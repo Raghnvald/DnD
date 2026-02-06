@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- Quelle/5e/ggr
-- Monster/HG/9
-- Monster/Größe/Groß
-- Monster/Typ/Aberration
+  - Quelle/5e/ggr
+  - Monster/HG/9
+  - Monster/Größe/Groß
+  - Monster/Typ/Aberration
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Shadow Horror
+  - Shadow Horror
 ---
 # [Shadow Horror](3-Mechanics\CLI\bestiary\aberration/shadow-horror-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 205*  

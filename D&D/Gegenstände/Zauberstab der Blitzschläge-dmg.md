@@ -10,7 +10,6 @@ tags:
 aliases:
   - Wand of Lightning Bolts
 linter-yaml-title-alias: Wand of Lightning Bolts
-obsidianUIMode: preview
 ---
 # Wand of Lightning Bolts
 *Wand, major, rare (requires attunement by a spellcaster)*  

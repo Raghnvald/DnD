@@ -9,7 +9,6 @@ tags:
 aliases:
   - Ginger
 linter-yaml-title-alias: Ginger
-obsidianUIMode: preview
 ---
 # Ginger
 *Trade good*  

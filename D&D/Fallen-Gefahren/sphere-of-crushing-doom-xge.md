@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-hazard
+  - json5e-hazard
 tags:
-- Quelle/5e/xge
-- Kompendium/Bedrohung/cmpx
+  - Quelle/5e/xge
+  - Kompendium/Bedrohung/cmpx
 aliases:
-- Sphere of Crushing Doom
+  - Sphere of Crushing Doom
 ---
 # Sphere of Crushing Doom
 *Generic Hazard*  

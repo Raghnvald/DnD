@@ -19,7 +19,6 @@ classes:
 aliases:
   - Nystul's Magic Aura
 linter-yaml-title-alias: Nystul's Magic Aura
-obsidianUIMode: preview
 ---
 # Nystul's Magic Aura
 *2nd-level, Illusion*  

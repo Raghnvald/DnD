@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Zauber/list/feat/fey-teleportation
+  - Zauber/list/feat/fey-teleportation
 aliases:
-- Spells for Fey Teleportation
+  - Spells for Fey Teleportation
 ---
 # Spells for Fey Teleportation
 

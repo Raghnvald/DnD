@@ -2,7 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Zeond
-Typ: Unhold (Dämon)
+Kategorie: Unhold (Dämon)
 HG: 1
 Habitat:
   - /

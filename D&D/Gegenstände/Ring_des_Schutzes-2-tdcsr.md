@@ -11,7 +11,6 @@ tags:
 aliases:
   - +2 Ring of Protection
 linter-yaml-title-alias: +2 Ring of Protection
-obsidianUIMode: preview
 ---
 # +2 Ring of Protection
 *Ring, major, rare (requires attunement)*  

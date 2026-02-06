@@ -1,15 +1,14 @@
 ---
 cssclasses:
   - json5e-item
-Bezeichnung: "Raven's Slumber"
+Bezeichnung: Raven's Slumber
 tags:
   - Gegenstand/Seltenheit/sehr_selten
   - Quelle/5e/tdcsr
 aliases:
-  - "Raven's Slumber"
   - Raven's Slumber
-linter-yaml-title-alias: "Raven's Slumber"
-obsidianUIMode: preview
+  - Raven's Slumber
+linter-yaml-title-alias: Raven's Slumber
 ---
 # Raven's Slumber
 *Wondrous item, very rare*  

@@ -1,7 +1,7 @@
 ---
 Bezeichnung: Flöte des Unheimlichen
-Typ: Wundersamer Gegenstand
-Eigenschaften: n/v
+Kategorie: Wundersamer Gegenstand
+Eigenschaften: /
 Kst.: n/v
 Gew.: 1,0 kg
 tags:

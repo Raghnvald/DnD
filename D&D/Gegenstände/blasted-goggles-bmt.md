@@ -9,7 +9,6 @@ tags:
 aliases:
   - Blasted Goggles
 linter-yaml-title-alias: Blasted Goggles
-obsidianUIMode: preview
 ---
 # Blasted Goggles
 *Wondrous item, uncommon (requires attunement)*  

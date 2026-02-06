@@ -19,7 +19,6 @@ classes:
 aliases:
   - Reverse Gravity
 linter-yaml-title-alias: Reverse Gravity
-obsidianUIMode: preview
 ---
 # Reverse Gravity
 *7th-level, Transmutation*  

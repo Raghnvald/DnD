@@ -1,10 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- ttrpg-cli/compendium/src/5e/dsotdq
+  - ttrpg-cli/compendium/src/5e/dsotdq
 aliases:
-- Chapter 4: Shadow of War
+  - Chapter 4: Shadow of War
 ---
 # Chapter 4: Shadow of War
 *Source: Dragonlance: Shadow of the Dragon Queen, p. 77* 

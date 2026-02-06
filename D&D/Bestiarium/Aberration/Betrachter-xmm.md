@@ -11,7 +11,7 @@ statblock: inline
 statblock-link: "#^statblock"
 aliases:
   - Beholder
-Typ: Aberration
+Kategorie: Aberration
 Größe: Groß
 Habitat:
   - Unterreich

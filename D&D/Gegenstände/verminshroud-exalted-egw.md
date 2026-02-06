@@ -9,7 +9,6 @@ tags:
 aliases:
   - Verminshroud (Exalted)
 linter-yaml-title-alias: Verminshroud (Exalted)
-obsidianUIMode: preview
 ---
 # Verminshroud (Exalted)
 *Wondrous item, legendary (requires attunement)*  

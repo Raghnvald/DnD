@@ -19,7 +19,6 @@ classes:
 aliases:
   - Raise Dead
 linter-yaml-title-alias: Raise Dead
-obsidianUIMode: preview
 ---
 # Raise Dead
 *5th-level, Necromancy*  

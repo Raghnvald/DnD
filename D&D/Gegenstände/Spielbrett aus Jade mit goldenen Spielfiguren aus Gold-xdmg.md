@@ -9,7 +9,6 @@ tags:
 aliases:
   - Jade game board with gold playing pieces
 linter-yaml-title-alias: Jade game board with gold playing pieces
-obsidianUIMode: preview
 ---
 # Jade game board with gold playing pieces
 *Treasure (art object)*  

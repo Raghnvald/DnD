@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Drum
+Kategorie: Werkzeug
 tags:
   - Gegenstand/Ausrüstung/Instrument
   - Gegenstand/Seltenheit/keine
@@ -9,7 +10,6 @@ tags:
 aliases:
   - Drum
 linter-yaml-title-alias: Drum
-obsidianUIMode: preview
 ---
 # Drum
 *Instrument*  

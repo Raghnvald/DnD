@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-race
+  - json5e-race
 tags:
-- Quelle/5e/phb
-- Rasse/halfling/lightfoot
+  - Quelle/5e/phb
+  - Rasse/halfling/lightfoot
 aliases:
-- Halfling (Lightfoot)
+  - Halfling (Lightfoot)
 ---
 # Halfling (Lightfoot)
 *Source: Player's Handbook p. 28. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  

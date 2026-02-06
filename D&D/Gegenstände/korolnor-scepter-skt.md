@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Korolnor Scepter
-Typ: Einfache Nahkampfwaffe
+Kategorie: Einfache Nahkampfwaffe
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -12,7 +12,6 @@ tags:
 aliases:
   - Korolnor Scepter
 linter-yaml-title-alias: Korolnor Scepter
-obsidianUIMode: preview
 ---
 # Korolnor Scepter
 *Weapon (club), legendary (requires attunement)*  

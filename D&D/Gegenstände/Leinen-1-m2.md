@@ -1,6 +1,5 @@
 ---
 Bezeichnung: Leinen (1 Quadratmeter)
-Typ: Handelsware
 Eigenschaften: n/v
 Kst.: 5 GM
 Gew.: n/v

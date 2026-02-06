@@ -1,16 +1,16 @@
 ---
 cssclasses:
   - json5e-item
-Bezeichnung: "Merchant's Scale"
+Bezeichnung: Merchant's Scale
+Kategorie: Abenteuerausrüstung
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - "Merchant's Scale"
   - Merchant's Scale
-linter-yaml-title-alias: "Merchant's Scale"
-obsidianUIMode: preview
+  - Merchant's Scale
+linter-yaml-title-alias: Merchant's Scale
 ---
 # Merchant's Scale
 *Adventuring gear*  

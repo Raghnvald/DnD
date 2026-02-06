@@ -1,16 +1,15 @@
 ---
 cssclasses:
   - json5e-item
-Bezeichnung: "Master's Amulet"
+Bezeichnung: Master's Amulet
 tags:
   - Gegenstand/Seltenheit/unbekannt/magic
   - Gegenstand/wundersam/other
   - Quelle/5e/mm
 aliases:
-  - "Master's Amulet"
   - Master's Amulet
-linter-yaml-title-alias: "Master's Amulet"
-obsidianUIMode: preview
+  - Master's Amulet
+linter-yaml-title-alias: Master's Amulet
 ---
 # Master's Amulet
 

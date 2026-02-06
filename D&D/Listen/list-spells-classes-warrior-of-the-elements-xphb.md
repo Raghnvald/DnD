@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Zauber/list/subclass/warrior-of-the-elements
+  - Zauber/list/subclass/warrior-of-the-elements
 aliases:
-- Spells for Warrior of the Elements
+  - Spells for Warrior of the Elements
 ---
 # Spells for Warrior of the Elements
 

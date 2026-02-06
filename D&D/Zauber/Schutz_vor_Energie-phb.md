@@ -33,7 +33,6 @@ classes:
 aliases:
   - Protection from Energy
 linter-yaml-title-alias: Protection from Energy
-obsidianUIMode: preview
 ---
 # Protection from Energy
 *3rd-level, Abjuration*  

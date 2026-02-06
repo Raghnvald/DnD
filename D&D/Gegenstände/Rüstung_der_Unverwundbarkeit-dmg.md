@@ -1,6 +1,6 @@
 ---
 Bezeichnung: Rüstung der Unverwundbarkeit
-Typ: Rüstung
+Kategorie: Rüstung
 Rüstung: Schwer
 Eigenschaften: erfordert Einstimmung
 Kst.: 18.000 GM

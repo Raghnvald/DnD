@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-race
+  - json5e-race
 tags:
-- Quelle/5e/phb
-- Rasse/elf/drow
+  - Quelle/5e/phb
+  - Rasse/elf/drow
 aliases:
-- Elf (Drow)
+  - Elf (Drow)
 ---
 # Elf (Drow)
 *Source: Player's Handbook p. 24*  

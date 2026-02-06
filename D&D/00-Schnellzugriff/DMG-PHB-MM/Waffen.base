@@ -3,7 +3,6 @@ filters:
     - '!file.name.endsWith("-xphb")'
     - '!file.name.endsWith("-xdmg")'
     - '!file.name.endsWith("-egw")'
-    - '!file.name.endsWith("-tdcsr")'
     - '!file.name.endsWith("-bmt")'
     - '!file.name.endsWith("-cm")'
     - and:
@@ -34,7 +33,7 @@ views:
         - file.folder == "D&D/Gegenstände"
         - file.tags.contains("Gegenstand/Waffe")
     groupBy:
-      property: Typ
+      property: Kategorie
       direction: ASC
     order:
       - formula.Untitled
@@ -42,8 +41,6 @@ views:
     sort:
       - property: formula.Untitled
         direction: ASC
-      - property: file.name
-        direction: DESC
     columnSize: {}
   - type: table
     name: Nahkampfwaffen

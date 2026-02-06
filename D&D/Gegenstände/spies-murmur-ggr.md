@@ -1,16 +1,15 @@
 ---
 cssclasses:
   - json5e-item
-Bezeichnung: "Spies' Murmur"
+Bezeichnung: Spies' Murmur
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/ggr
 aliases:
-  - "Spies' Murmur"
   - Spies' Murmur
-linter-yaml-title-alias: "Spies' Murmur"
-obsidianUIMode: preview
+  - Spies' Murmur
+linter-yaml-title-alias: Spies' Murmur
 ---
 # Spies' Murmur
 *Wondrous item, uncommon (requires attunement)*  

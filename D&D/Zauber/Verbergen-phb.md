@@ -15,7 +15,6 @@ classes:
 aliases:
   - Sequester
 linter-yaml-title-alias: Sequester
-obsidianUIMode: preview
 ---
 # Sequester
 *7th-level, Transmutation*  

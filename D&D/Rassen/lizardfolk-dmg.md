@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-race
+  - json5e-race
 tags:
-- Quelle/5e/dmg
-- Rasse/lizardfolk
+  - Quelle/5e/dmg
+  - Rasse/lizardfolk
 aliases:
-- Lizardfolk
+  - Lizardfolk
 ---
 # Lizardfolk
 *Source: Dungeon Master's Guide p. 282*  

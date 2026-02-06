@@ -17,7 +17,6 @@ classes:
 aliases:
   - Moonbeam
 linter-yaml-title-alias: Moonbeam
-obsidianUIMode: preview
 ---
 # Moonbeam
 *2nd-level, Evocation*  

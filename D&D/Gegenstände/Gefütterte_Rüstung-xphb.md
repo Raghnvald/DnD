@@ -8,10 +8,9 @@ tags:
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
-  - "Padded Armor"
+  - Padded Armor
   - Padded Armor
 linter-yaml-title-alias: Padded Armor
-obsidianUIMode: preview
 ---
 # Padded Armor
 *Light armor*  

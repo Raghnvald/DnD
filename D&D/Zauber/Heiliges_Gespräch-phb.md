@@ -18,7 +18,6 @@ classes:
 aliases:
   - Commune
 linter-yaml-title-alias: Commune
-obsidianUIMode: preview
 ---
 # Commune
 *5th-level, Divination (ritual)*  

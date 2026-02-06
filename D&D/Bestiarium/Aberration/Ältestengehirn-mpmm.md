@@ -11,7 +11,7 @@ statblock: inline
 statblock-link: "#^statblock"
 aliases:
   - Elder Brain
-Typ: Aberration (Gedankenschinder)
+Kategorie: Aberration (Gedankenschinder)
 Größe: Groß
 HG: 14
 Habitat:

@@ -9,7 +9,6 @@ tags:
 aliases:
   - Tiger Eye
 linter-yaml-title-alias: Tiger Eye
-obsidianUIMode: preview
 ---
 # Tiger Eye
 *Treasure (gemstone)*  

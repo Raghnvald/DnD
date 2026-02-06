@@ -3,7 +3,7 @@ prefer-view: edit-source read
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Mormesk der Todesalb
-Typ: Untot
+Kategorie: Untot
 Größe: Mittelgroß
 HG: 5
 Habitat:

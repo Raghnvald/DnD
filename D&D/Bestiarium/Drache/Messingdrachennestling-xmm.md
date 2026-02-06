@@ -2,7 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Brass Dragon Wyrmling
-Typ: Drache (Metallisch)
+Kategorie: Drache (Metallisch)
 Größe: Mittelgroß
 HG: 1
 tags:

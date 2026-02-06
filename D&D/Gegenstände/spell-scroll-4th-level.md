@@ -9,7 +9,6 @@ tags:
 aliases:
   - Spell Scroll (4th Level)
 linter-yaml-title-alias: Spell Scroll (4th Level)
-obsidianUIMode: preview
 ---
 # Spell Scroll (4th Level)
 *Scroll, minor, rare*  

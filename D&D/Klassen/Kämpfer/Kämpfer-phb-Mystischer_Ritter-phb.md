@@ -8,7 +8,6 @@ tags:
 aliases:
   - Eldritch Knight
 linter-yaml-title-alias: Eldritch Knight
-obsidianUIMode: preview
 ---
 # Eldritch Knight
 *[Fighter](Kämpfer-phb.md): Martial Archetype*  

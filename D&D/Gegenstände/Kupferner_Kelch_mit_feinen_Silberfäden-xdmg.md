@@ -9,7 +9,6 @@ tags:
 aliases:
   - Copper chalice with silver filigree
 linter-yaml-title-alias: Copper chalice with silver filigree
-obsidianUIMode: preview
 ---
 # Copper chalice with silver filigree
 *Treasure (art object)*  

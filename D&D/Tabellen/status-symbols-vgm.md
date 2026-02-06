@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Quelle/5e/vgm
+  - Quelle/5e/vgm
 aliases:
-- Status Symbols
+  - Status Symbols
 ---
 # Status Symbols
 *Source: Volo's Guide to Monsters p. 42* 

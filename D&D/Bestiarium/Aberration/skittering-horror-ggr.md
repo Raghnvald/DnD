@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- Quelle/5e/ggr
-- Monster/HG/15
-- Monster/Größe/Riesig
-- Monster/Typ/Aberration
+  - Quelle/5e/ggr
+  - Monster/HG/15
+  - Monster/Größe/Riesig
+  - Monster/Typ/Aberration
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Skittering Horror
+  - Skittering Horror
 ---
 # [Skittering Horror](3-Mechanics\CLI\bestiary\aberration/skittering-horror-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 205*  

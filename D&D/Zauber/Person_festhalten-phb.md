@@ -32,7 +32,6 @@ classes:
 aliases:
   - Hold Person
 linter-yaml-title-alias: Hold Person
-obsidianUIMode: preview
 ---
 # Hold Person
 *2nd-level, Enchantment*  

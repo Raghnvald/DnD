@@ -9,7 +9,6 @@ tags:
 aliases:
   - Block and Tackle
 linter-yaml-title-alias: Block and Tackle
-obsidianUIMode: preview
 ---
 # Block and Tackle
 *Adventuring gear*  

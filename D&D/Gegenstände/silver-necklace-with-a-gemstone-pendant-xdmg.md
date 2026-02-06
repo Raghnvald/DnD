@@ -9,7 +9,6 @@ tags:
 aliases:
   - Silver necklace with a gemstone pendant
 linter-yaml-title-alias: Silver necklace with a gemstone pendant
-obsidianUIMode: preview
 ---
 # Silver necklace with a gemstone pendant
 *Treasure (art object)*  

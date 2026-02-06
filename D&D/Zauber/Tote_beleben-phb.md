@@ -25,7 +25,6 @@ classes:
 aliases:
   - Animate Dead
 linter-yaml-title-alias: Animate Dead
-obsidianUIMode: preview
 ---
 # Animate Dead
 *3rd-level, Necromancy*  

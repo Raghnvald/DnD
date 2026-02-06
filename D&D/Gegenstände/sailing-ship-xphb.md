@@ -3,13 +3,12 @@ cssclasses:
   - json5e-item
 Bezeichnung: Sailing Ship
 tags:
-  - Gegenstand/Fortbewegung/ship-water
+  - Gegenstand/Ausrüstung/Fahrzeug
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Sailing Ship
 linter-yaml-title-alias: Sailing Ship
-obsidianUIMode: preview
 ---
 # Sailing Ship
 *Ship, vehicle (water)*  

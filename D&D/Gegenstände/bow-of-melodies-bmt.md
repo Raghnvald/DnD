@@ -15,7 +15,6 @@ aliases:
   - Longbow of Melodies
   - Shortbow of Melodies
 linter-yaml-title-alias: Bow of Melodies
-obsidianUIMode: preview
 ---
 # Bow of Melodies
 *Very rare (requires attunement)*  

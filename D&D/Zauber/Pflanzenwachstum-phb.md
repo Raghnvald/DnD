@@ -25,7 +25,6 @@ classes:
 aliases:
   - Plant Growth
 linter-yaml-title-alias: Plant Growth
-obsidianUIMode: preview
 ---
 # Plant Growth
 *3rd-level, Transmutation*  

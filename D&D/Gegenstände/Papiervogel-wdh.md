@@ -8,7 +8,6 @@ tags:
 aliases:
   - Paper Bird
 linter-yaml-title-alias: Paper Bird
-obsidianUIMode: preview
 ---
 # Paper Bird
 *Wondrous item, uncommon*  

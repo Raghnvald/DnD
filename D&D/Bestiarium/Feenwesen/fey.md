@@ -1,8 +1,7 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
-- json5e-index
+  - json5e-note
+  - json5e-index
 ---
 # Index of Fey
 
@@ -12,12 +11,12 @@ cssclasses:
 - [Bheur Hag](Bheur-Vettel-mpmm.md)
 - [Blink Dog](./blink-dog-xmm.md)
 - [Boggle](Boggel-mpmm.md)
-- [Bugbear Stalker](./bugbear-stalker-xmm.md)
-- [Bugbear Warrior](./bugbear-warrior-xmm.md)
-- [Bullywug Bog Sage](./bullywug-bog-sage-xmm.md)
-- [Bullywug Warrior](./bullywug-warrior-xmm.md)
-- [Centaur Trooper](./centaur-trooper-xmm.md)
-- [Centaur Warden](./centaur-warden-xmm.md)
+- [Bugbear Stalker](Grottenschratpirscher-xmm.md)
+- [Bugbear Warrior](Grottenschratkrieger-xmm.md)
+- [Bullywug Bog Sage](Bullywug-Sumpfweiser-xmm.md)
+- [Bullywug Warrior](Bullywug-Krieger-xmm.md)
+- [Centaur Trooper](Zentaurensoldat-xmm.md)
+- [Centaur Warden](Zentaurenaufseher-xmm.md)
 - [Conclave Dryad](./conclave-dryad-ggr.md)
 - [Darkling Elder](./darkling-elder-mpmm.md)
 - [Darkling](./darkling-mpmm.md)
@@ -32,27 +31,27 @@ cssclasses:
 - [Giant Lynx](Riesenluchs-bgg.md)
 - [Giant Ox](Riesenochse-bgg.md)
 - [Giant Ram](Riesenwidder-bgg.md)
-- [Goblin Boss](./goblin-boss-xmm.md)
-- [Goblin Hexer](./goblin-hexer-xmm.md)
-- [Goblin Minion](./goblin-minion-xmm.md)
-- [Goblin Warrior](./goblin-warrior-xmm.md)
+- [Goblin Boss](Goblin-Boss-xmm.md)
+- [Goblin Hexer](Goblin-Hexer-xmm.md)
+- [Goblin Minion](Goblin-Scherge-xmm.md)
+- [Goblin Warrior](Goblin-Krieger-xmm.md)
 - [Green Hag](./green-hag-xmm.md)
 - [Grinning Cat](Grinsekatze-bgg.md)
-- [Hobgoblin Captain](./hobgoblin-captain-xmm.md)
+- [Hobgoblin Captain](Hobgoblin-Hauptmann-xmm.md)
 - [Hobgoblin Devastator](Hobgoblin-Verwüster-mpmm.md)
 - [Hobgoblin Iron Shadow](Hobgoblin-Eisenschatten-mpmm.md)
-- [Hobgoblin Warlord](./hobgoblin-warlord-xmm.md)
-- [Hobgoblin Warrior](./hobgoblin-warrior-xmm.md)
+- [Hobgoblin Warlord](Hobgoblin-Kriegsherr-xmm.md)
+- [Hobgoblin Warrior](Hobgoblin-Krieger-xmm.md)
 - [Korred](./korred-mpmm.md)
 - [Meenlock](Meenlock-mpmm.md)
 - [Nilbog](Nilbog-mpmm.md)
 - [Otherworldly Steed (Fey)](./otherworldly-steed-fey-xphb.md)
-- [Pixie Wonderbringer](./pixie-wonderbringer-xmm.md)
+- [Pixie Wonderbringer](Pixie-Wunderwirker-xmm.md)
 - [Pixie](./pixie-xmm.md)
 - [Quickling](Flinkling-mpmm.md)
 - [Redcap](./redcap-mpmm.md)
 - [Reflection](./reflection-tce.md)
-- [Satyr Revelmaster](./satyr-revelmaster-xmm.md)
+- [Satyr Revelmaster](Satyr-Festmeister-xmm.md)
 - [Satyr](./satyr-xmm.md)
 - [Sea Fury](./sea-fury-egw.md)
 - [Sea Hag](./sea-hag-xmm.md)

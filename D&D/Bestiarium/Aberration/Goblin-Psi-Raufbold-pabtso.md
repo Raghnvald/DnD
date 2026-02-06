@@ -2,7 +2,7 @@
 cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
 Name: Goblin-Psi-Raufbold
-Typ: Aberration (Goblinoid)
+Kategorie: Aberration (Goblinoid)
 Größe: Klein
 HG: 2
 Habitat:

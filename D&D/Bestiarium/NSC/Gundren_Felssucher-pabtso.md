@@ -3,7 +3,7 @@ prefer-view: edit-source read
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Gundren Felssucher
-Typ: Humanoid (Zwerg)
+Kategorie: Humanoid (Zwerg)
 Größe: Mittelgroß
 HG: 0
 Habitat:

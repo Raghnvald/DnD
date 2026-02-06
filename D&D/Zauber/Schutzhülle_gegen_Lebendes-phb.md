@@ -17,7 +17,6 @@ classes:
 aliases:
   - Antilife Shell
 linter-yaml-title-alias: Antilife Shell
-obsidianUIMode: preview
 ---
 # Antilife Shell
 *5th-level, Abjuration*  

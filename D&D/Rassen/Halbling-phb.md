@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-race
+  - json5e-race
 tags:
-- Quelle/5e/phb
-- Rasse/halfling
+  - Quelle/5e/phb
+  - Rasse/halfling
 aliases:
-- Halfling
+  - Halfling
 ---
 # Halfling
 *Source: Player's Handbook p. 26. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  

@@ -1,6 +1,6 @@
 ---
 Bezeichnung: Kettenhemd
-Typ: Rüstung
+Kategorie: Rüstung
 Rüstung: Mittel
 Eigenschaften: /
 Kst.: 50 GM
@@ -13,8 +13,7 @@ tags:
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - "Chain Shirt"
-  - Kettenhemd
+  - Chain Shirt
 linter-yaml-title-alias: Kettenhemd
 ---
 # Kettenhemd

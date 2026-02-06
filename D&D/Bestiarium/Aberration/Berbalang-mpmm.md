@@ -11,7 +11,7 @@ statblock: inline
 statblock-link: "#^statblock"
 aliases:
   - Berbalang
-Typ: Aberration
+Kategorie: Aberration
 Größe: Mittelgroß
 HG: 2
 Habitat:

@@ -15,7 +15,6 @@ classes:
 aliases:
   - Word of Recall
 linter-yaml-title-alias: Word of Recall
-obsidianUIMode: preview
 ---
 # Word of Recall
 *6th-level, Conjuration*  

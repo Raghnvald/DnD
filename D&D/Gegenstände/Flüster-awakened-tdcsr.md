@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Whisper (Awakened)
-Typ: Einfache Nahkampfwaffe
+Kategorie: Einfache Nahkampfwaffe
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -12,7 +12,6 @@ tags:
 aliases:
   - Whisper (Awakened)
 linter-yaml-title-alias: Whisper (Awakened)
-obsidianUIMode: preview
 ---
 # Whisper (Awakened)
 *Weapon ([dagger](/3-Mechanics/CLI/items/dagger-xphb.md)), legendary (requires attunement)*  

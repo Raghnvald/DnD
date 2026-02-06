@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- Quelle/5e/ggr
-- Monster/HG/3
-- Monster/Größe/Mittelgroß
-- Monster/Typ/Humanoid/any-race
+  - Quelle/5e/ggr
+  - Monster/HG/3
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/Humanoid/any-race
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Precognitive Mage
+  - Precognitive Mage
 ---
 # [Precognitive Mage](3-Mechanics\CLI\bestiary\humanoid/precognitive-mage-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 228*  

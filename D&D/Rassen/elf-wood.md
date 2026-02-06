@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-race
+  - json5e-race
 tags:
-- Quelle/5e/phb
-- Rasse/elf/wood
+  - Quelle/5e/phb
+  - Rasse/elf/wood
 aliases:
-- Elf (Wood)
+  - Elf (Wood)
 ---
 # Elf (Wood)
 *Source: Player's Handbook p. 24. Available in the Basic Rules (2014)*  

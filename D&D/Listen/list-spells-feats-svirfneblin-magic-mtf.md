@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Zauber/list/feat/svirfneblin-magic
+  - Zauber/list/feat/svirfneblin-magic
 aliases:
-- Spells for Svirfneblin Magic
+  - Spells for Svirfneblin Magic
 ---
 # Spells for Svirfneblin Magic
 

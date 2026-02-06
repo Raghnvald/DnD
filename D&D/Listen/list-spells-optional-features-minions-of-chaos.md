@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Zauber/list/optfeature/minions-of-chaos
+  - Zauber/list/optfeature/minions-of-chaos
 aliases:
-- Spells for Minions of Chaos
+  - Spells for Minions of Chaos
 ---
 # Spells for Minions of Chaos
 

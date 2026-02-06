@@ -9,7 +9,6 @@ tags:
 aliases:
   - Candle
 linter-yaml-title-alias: Candle
-obsidianUIMode: preview
 ---
 # Candle
 *Adventuring gear*  

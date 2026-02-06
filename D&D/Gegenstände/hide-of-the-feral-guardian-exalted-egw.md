@@ -11,7 +11,6 @@ tags:
 aliases:
   - Hide of the Feral Guardian (Exalted)
 linter-yaml-title-alias: Hide of the Feral Guardian (Exalted)
-obsidianUIMode: preview
 ---
 # Hide of the Feral Guardian (Exalted)
 *Light armor ([studded leather armor](/3-Mechanics/CLI/items/studded-leather-armor-xphb.md)), legendary (requires attunement)*  

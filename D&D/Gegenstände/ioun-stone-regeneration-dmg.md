@@ -9,7 +9,6 @@ tags:
 aliases:
   - Ioun Stone, Regeneration
 linter-yaml-title-alias: Ioun Stone, Regeneration
-obsidianUIMode: preview
 ---
 # Ioun Stone, Regeneration
 *Wondrous item, major, legendary (requires attunement)*  

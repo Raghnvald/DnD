@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Grovelthrash (Dormant)
-Typ: Nahkampf-Kriegswaffe
+Kategorie: Nahkampf-Kriegswaffe
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/Artefakt
@@ -12,7 +12,6 @@ tags:
 aliases:
   - Grovelthrash (Dormant)
 linter-yaml-title-alias: Grovelthrash (Dormant)
-obsidianUIMode: preview
 ---
 # Grovelthrash (Dormant)
 *Weapon ([warhammer](/3-Mechanics/CLI/items/warhammer-xphb.md)), artifact (requires attunement)*  

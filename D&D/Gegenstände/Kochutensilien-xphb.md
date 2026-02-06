@@ -1,16 +1,14 @@
 ---
 cssclasses:
   - json5e-item
-Bezeichnung: "Cook's Utensils"
+Bezeichnung: Cook's Utensils
 tags:
   - Gegenstand/Ausrüstung/Werkzeug
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
-  - "Cook's Utensils"
   - Cook's Utensils
-linter-yaml-title-alias: "Cook's Utensils"
-obsidianUIMode: preview
+linter-yaml-title-alias: Cook's Utensils
 ---
 # Cook's Utensils
 *Artisan's tools*  

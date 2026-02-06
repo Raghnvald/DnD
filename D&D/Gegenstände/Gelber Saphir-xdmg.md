@@ -9,7 +9,6 @@ tags:
 aliases:
   - Yellow Sapphire
 linter-yaml-title-alias: Yellow Sapphire
-obsidianUIMode: preview
 ---
 # Yellow Sapphire
 *Treasure (gemstone)*  

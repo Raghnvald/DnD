@@ -17,7 +17,6 @@ classes:
 aliases:
   - Conjure Woodland Beings
 linter-yaml-title-alias: Conjure Woodland Beings
-obsidianUIMode: preview
 ---
 # Conjure Woodland Beings
 *4th-level, Conjuration*  

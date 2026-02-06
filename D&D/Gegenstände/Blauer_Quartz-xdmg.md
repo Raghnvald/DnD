@@ -9,7 +9,6 @@ tags:
 aliases:
   - Blue Quartz
 linter-yaml-title-alias: Blue Quartz
-obsidianUIMode: preview
 ---
 # Blue Quartz
 *Treasure (gemstone)*  

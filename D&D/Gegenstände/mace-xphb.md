@@ -10,7 +10,6 @@ tags:
 aliases:
   - Mace
 linter-yaml-title-alias: Mace
-obsidianUIMode: preview
 ---
 # Mace
 *Weapon*  

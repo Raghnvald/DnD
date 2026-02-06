@@ -1,7 +1,7 @@
 ---
 cssclasses: dnd5e-compendium
 Bezeichnung: Dudelsack
-Typ: Instrument
+Kategorie: Werkzeug
 Eigenschaften: n/v
 Kst.: 30 GM
 Gew.: 3,0 kg
@@ -10,7 +10,6 @@ tags:
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Dudelsack
   - Bagpipes
 linter-yaml-title-alias: Dudelsack
 ---

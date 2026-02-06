@@ -2,7 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Adult Blue Dragon
-Typ: Drache (Chromatisch)
+Kategorie: Drache (Chromatisch)
 Größe: Riesig
 HG: 16
 Habitat:

@@ -9,7 +9,6 @@ tags:
 aliases:
   - Potion of Force Resistance
 linter-yaml-title-alias: Potion of Force Resistance
-obsidianUIMode: preview
 ---
 # Potion of Force Resistance
 *Potion, minor, uncommon*  

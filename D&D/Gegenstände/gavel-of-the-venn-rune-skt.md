@@ -9,7 +9,6 @@ tags:
 aliases:
   - Gavel of the Venn Rune
 linter-yaml-title-alias: Gavel of the Venn Rune
-obsidianUIMode: preview
 ---
 # Gavel of the Venn Rune
 *Wondrous item, rare (requires attunement)*  

@@ -10,7 +10,6 @@ tags:
 aliases:
   - Wand of Fireballs
 linter-yaml-title-alias: Wand of Fireballs
-obsidianUIMode: preview
 ---
 # Wand of Fireballs
 *Wand, major, rare (requires attunement by a spellcaster)*  

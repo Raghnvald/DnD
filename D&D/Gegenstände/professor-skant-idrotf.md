@@ -8,7 +8,6 @@ tags:
 aliases:
   - Professor Skant
 linter-yaml-title-alias: Professor Skant
-obsidianUIMode: preview
 ---
 # Professor Skant
 *Wondrous item, rare*  

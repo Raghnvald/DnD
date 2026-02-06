@@ -9,7 +9,6 @@ tags:
 aliases:
   - Component Pouch
 linter-yaml-title-alias: Component Pouch
-obsidianUIMode: preview
 ---
 # Component Pouch
 *Adventuring gear*  

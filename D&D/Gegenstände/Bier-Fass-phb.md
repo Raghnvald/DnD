@@ -1,9 +1,9 @@
 ---
 Bezeichnung: Bier (Faß, 4L)
-Typ: Essen und Trinken
-Eigenschaften: n/v
+Kategorie: Essen und Trinken
+Eigenschaften: /
 Kst.: 2 SM
-Gew.: n/v
+Gew.: /
 tags:
   - Gegenstand/Ausrüstung/Essen-und-Trinken
   - Gegenstand/Seltenheit/keine

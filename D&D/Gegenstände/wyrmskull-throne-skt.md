@@ -8,7 +8,6 @@ tags:
 aliases:
   - Wyrmskull Throne
 linter-yaml-title-alias: Wyrmskull Throne
-obsidianUIMode: preview
 ---
 # Wyrmskull Throne
 *Wondrous item, artifact*  

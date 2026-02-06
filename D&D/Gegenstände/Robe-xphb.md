@@ -9,7 +9,6 @@ tags:
 aliases:
   - Robe
 linter-yaml-title-alias: Robe
-obsidianUIMode: preview
 ---
 # Robe
 *Adventuring gear*  

@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- Quelle/5e/ggr
-- Monster/HG/12
-- Monster/Größe/Riesig
-- Monster/Typ/Unhold/demon
+  - Quelle/5e/ggr
+  - Monster/HG/12
+  - Monster/Größe/Riesig
+  - Monster/Typ/Unhold/demon
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Sire of Insanity
+  - Sire of Insanity
 ---
 # [Sire of Insanity](3-Mechanics\CLI\bestiary\fiend/sire-of-insanity-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 197*  

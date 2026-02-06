@@ -8,10 +8,9 @@ tags:
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
-  - "Scale Mail"
+  - Scale Mail
   - Scale Mail
 linter-yaml-title-alias: Scale Mail
-obsidianUIMode: preview
 ---
 # Scale Mail
 *Medium armor*  

@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-spell
 Bezeichnung: Demiplane
+Zaubergrad: 8
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Hexenmeister
@@ -16,7 +17,6 @@ classes:
 aliases:
   - Demiplane
 linter-yaml-title-alias: Demiplane
-obsidianUIMode: preview
 ---
 # Demiplane
 *8th-level, Conjuration*  

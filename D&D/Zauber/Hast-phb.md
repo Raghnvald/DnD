@@ -25,7 +25,6 @@ classes:
 aliases:
   - Haste
 linter-yaml-title-alias: Haste
-obsidianUIMode: preview
 ---
 # Haste
 *3rd-level, Transmutation*  

@@ -8,7 +8,6 @@ tags:
 aliases:
   - Mirror of Infinite Transpondence
 linter-yaml-title-alias: Mirror of Infinite Transpondence
-obsidianUIMode: preview
 ---
 # Mirror of Infinite Transpondence
 *Wondrous item, very rare*  

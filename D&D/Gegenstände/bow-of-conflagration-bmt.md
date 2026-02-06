@@ -15,7 +15,6 @@ aliases:
   - Longbow of Conflagration
   - Shortbow of Conflagration
 linter-yaml-title-alias: Bow of Conflagration
-obsidianUIMode: preview
 ---
 # Bow of Conflagration
 *Rare (requires attunement)*  

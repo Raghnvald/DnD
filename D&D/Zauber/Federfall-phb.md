@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Federfall
+Zaubergrad: 1
 Zeitaufwand: 1 Reaktion*
 Reichweite: 18 Meter
 Komponenten: V, M

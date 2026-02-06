@@ -2,7 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Dragon Turtle Wyrmling
-Typ: Drache
+Kategorie: Drache
 Größe: Groß
 HG: 4
 Habitat:

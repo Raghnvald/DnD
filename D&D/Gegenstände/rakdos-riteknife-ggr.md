@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Rakdos Riteknife
-Typ: Einfache Nahkampfwaffe
+Kategorie: Einfache Nahkampfwaffe
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -12,7 +12,6 @@ tags:
 aliases:
   - Rakdos Riteknife
 linter-yaml-title-alias: Rakdos Riteknife
-obsidianUIMode: preview
 ---
 # Rakdos Riteknife
 *Weapon (dagger), legendary (requires attunement)*  

@@ -15,7 +15,6 @@ classes:
 aliases:
   - Contingency
 linter-yaml-title-alias: Contingency
-obsidianUIMode: preview
 ---
 # Contingency
 *6th-level, Evocation*  

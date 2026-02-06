@@ -1,7 +1,7 @@
 ---
 prefer-view: edit-source read
 Bezeichnung: Junger Magnetitdrache-hgmh1
-Typ: Drache
+Kategorie: Drache
 Größe:
 HG:
 image:

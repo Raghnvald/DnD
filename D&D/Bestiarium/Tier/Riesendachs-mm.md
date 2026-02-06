@@ -2,7 +2,7 @@
 cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
 Name: Riesendachs
-Typ: Tier
+Kategorie: Tier
 Größe: Mittelgroß
 HG: 1/4
 Habitat:

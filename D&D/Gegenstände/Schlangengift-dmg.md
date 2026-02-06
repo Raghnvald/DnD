@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Serpent Venom
+Kategorie: Gift
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
@@ -9,7 +10,6 @@ tags:
 aliases:
   - Serpent Venom
 linter-yaml-title-alias: Serpent Venom
-obsidianUIMode: preview
 ---
 # Serpent Venom
 *Adventuring gear, poison (injury)*  

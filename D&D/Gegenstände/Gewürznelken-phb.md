@@ -1,7 +1,9 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Cloves
+Bezeichnung: Gewürznelken
+Kategorie: Handelsgut
+Eigenschaften: /
+Kst.: 3 GM
+Gew.: 0,5 kg
 tags:
   - Gegenstand/Ausrüstung/Handelsgut
   - Gegenstand/Seltenheit/keine
@@ -9,12 +11,11 @@ tags:
 aliases:
   - Cloves
 linter-yaml-title-alias: Cloves
-obsidianUIMode: preview
 ---
-# Cloves
-*Trade good*  
+# Gewürznelken
+*Handelsgut*  
 
-- **Cost**: 3 gp
-- **Weight**: 1.0 lbs.
+- **Kosten**: 3 GM
+- **Gewicht**: 0,5 kg.
 
-*Source: Player's Handbook p. 157. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+*Quelle: Spielerhandbuch S. 157. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*

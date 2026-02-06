@@ -1,10 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- ttrpg-cli/compendium/src/5e/dsotdq
+  - ttrpg-cli/compendium/src/5e/dsotdq
 aliases:
-- Chapter 6: City of Lost Names
+  - Chapter 6: City of Lost Names
 ---
 # Chapter 6: City of Lost Names
 *Source: Dragonlance: Shadow of the Dragon Queen, p. 135* 

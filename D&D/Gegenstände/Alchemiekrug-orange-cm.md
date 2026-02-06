@@ -8,7 +8,6 @@ tags:
 aliases:
   - Alchemy Jug (Orange)
 linter-yaml-title-alias: Alchemy Jug (Orange)
-obsidianUIMode: preview
 ---
 # Alchemy Jug (Orange)
 *Wondrous item, uncommon*  

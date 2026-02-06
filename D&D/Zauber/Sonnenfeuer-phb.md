@@ -19,7 +19,6 @@ classes:
 aliases:
   - Sunburst
 linter-yaml-title-alias: Sunburst
-obsidianUIMode: preview
 ---
 # Sunburst
 *8th-level, Evocation*  

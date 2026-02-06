@@ -18,7 +18,6 @@ classes:
 aliases:
   - Goodberry
 linter-yaml-title-alias: Goodberry
-obsidianUIMode: preview
 ---
 # Goodberry
 *1st-level, Transmutation*  

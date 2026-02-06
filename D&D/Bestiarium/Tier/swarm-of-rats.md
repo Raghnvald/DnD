@@ -2,7 +2,7 @@
 cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
 Bezeichnung: Schwarm von Ratten
-Typ: Bestie
+Kategorie: Bestie
 Größe: Mittelgroß
 HG: 1/4
 status:

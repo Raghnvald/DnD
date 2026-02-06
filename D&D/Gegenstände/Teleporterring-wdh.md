@@ -9,7 +9,6 @@ tags:
 aliases:
   - Teleporter Ring
 linter-yaml-title-alias: Teleporter Ring
-obsidianUIMode: preview
 ---
 # Teleporter Ring
 *Ring*  

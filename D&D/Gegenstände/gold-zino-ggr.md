@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Gold Zino
+Kategorie: Währung
 tags:
   - Gegenstand/Ausrüstung/treasure-coinage
   - Gegenstand/Seltenheit/keine
@@ -9,7 +10,6 @@ tags:
 aliases:
   - Gold Zino
 linter-yaml-title-alias: Gold Zino
-obsidianUIMode: preview
 ---
 # Gold Zino
 *Treasure (coinage)*  

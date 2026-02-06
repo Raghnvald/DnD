@@ -31,7 +31,6 @@ classes:
   - Wizard
 aliases:
   - Darkness
-obsidianUIMode: preview
 ---
 # Dunkelheit
 *Hervorrufung des 2. Grades*  

@@ -9,7 +9,6 @@ tags:
 aliases:
   - Eye patch decorated with tiny blue sapphires and moonstones
 linter-yaml-title-alias: Eye patch decorated with tiny blue sapphires and moonstones
-obsidianUIMode: preview
 ---
 # Eye patch decorated with tiny blue sapphires and moonstones
 *Treasure (art object)*  

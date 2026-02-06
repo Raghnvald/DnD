@@ -19,7 +19,6 @@ classes:
 aliases:
   - Grasping Vine
 linter-yaml-title-alias: Grasping Vine
-obsidianUIMode: preview
 ---
 # Grasping Vine
 *4th-level, Conjuration*  

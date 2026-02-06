@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Flute
+Kategorie: Werkzeug
 tags:
   - Gegenstand/Ausrüstung/Instrument
   - Gegenstand/Seltenheit/keine
@@ -9,7 +10,6 @@ tags:
 aliases:
   - Flute
 linter-yaml-title-alias: Flute
-obsidianUIMode: preview
 ---
 # Flute
 *Instrument*  

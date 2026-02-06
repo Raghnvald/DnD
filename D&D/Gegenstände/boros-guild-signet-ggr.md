@@ -10,7 +10,6 @@ tags:
 aliases:
   - Boros Guild Signet
 linter-yaml-title-alias: Boros Guild Signet
-obsidianUIMode: preview
 ---
 # Boros Guild Signet
 *Ring, uncommon (requires attunement)*  

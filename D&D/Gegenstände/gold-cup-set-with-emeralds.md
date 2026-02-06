@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Gold cup set with emeralds
+Kategorie: Kunstobjekt
 tags:
   - Gegenstand/Ausrüstung/treasure-art-object
   - Gegenstand/Seltenheit/keine
@@ -9,7 +10,6 @@ tags:
 aliases:
   - Gold cup set with emeralds
 linter-yaml-title-alias: Gold cup set with emeralds
-obsidianUIMode: preview
 ---
 # Gold cup set with emeralds
 *Treasure (art object)*  

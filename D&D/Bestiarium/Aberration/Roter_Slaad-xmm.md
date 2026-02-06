@@ -2,8 +2,8 @@
 cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
 Bezeichnung: Roter Slaad
-Typ: Aberration
-Größe: Groß 
+Kategorie: Aberration
+Größe: Groß
 HG: 5
 Habitat: Planar (Limbo)
 status: WIP

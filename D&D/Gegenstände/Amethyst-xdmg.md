@@ -9,7 +9,6 @@ tags:
 aliases:
   - Amethyst
 linter-yaml-title-alias: Amethyst
-obsidianUIMode: preview
 ---
 # Amethyst
 *Treasure (gemstone)*  

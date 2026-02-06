@@ -9,7 +9,6 @@ tags:
 aliases:
   - Talisman of Pure Good
 linter-yaml-title-alias: Talisman of Pure Good
-obsidianUIMode: preview
 ---
 # Talisman of Pure Good
 *Wondrous item, major, legendary (requires attunement by a creature of good alignment)*  

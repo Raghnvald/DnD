@@ -20,7 +20,6 @@ classes:
 aliases:
   - Beast Sense
 linter-yaml-title-alias: Beast Sense
-obsidianUIMode: preview
 ---
 # Beast Sense
 *2nd-level, Divination (ritual)*  

@@ -10,7 +10,7 @@ statblock: inline
 statblock-link: "#^statblock"
 aliases:
   - Death Slaad
-Typ: Aberration (Gestaltwandler)
+Kategorie: Aberration (Gestaltwandler)
 ---
 # [Death Slaad](3-Mechanics\CLI\bestiary\aberration/death-slaad.md)
 *Source: Monster Manual p. 278*  

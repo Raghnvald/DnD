@@ -1,7 +1,9 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Banded Agate
+Bezeichnung: Gebänderter Achat
+Kategorie: Edelstein
+Eigenschaften: /
+Kst.: 10 GM
+Gew.: /
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone
   - Gegenstand/Seltenheit/keine
@@ -9,13 +11,12 @@ tags:
 aliases:
   - Banded Agate
 linter-yaml-title-alias: Banded Agate
-obsidianUIMode: preview
 ---
-# Banded Agate
-*Treasure (gemstone)*  
+# Gebänderter Achat
+*Schatz (Edelstein)*  
 
-- **Cost**: 10 gp
+- **Kosten**: 10 GM
 
-A translucent striped brown, blue, white, or red gemstone.
+Ein lichtdurchlässiger, braun, blau, weiß, oder rot gestreifter Edelstein.
 
-*Source: Dungeon Master's Guide p. 134*
+*Quelle: Spielleiterhandbuch S. 134*

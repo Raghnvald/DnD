@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Sunforger
-Typ: Nahkampf-Kriegswaffe
+Kategorie: Nahkampf-Kriegswaffe
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
@@ -12,7 +12,6 @@ tags:
 aliases:
   - Sunforger
 linter-yaml-title-alias: Sunforger
-obsidianUIMode: preview
 ---
 # Sunforger
 *Weapon (warhammer), rare (requires attunement)*  

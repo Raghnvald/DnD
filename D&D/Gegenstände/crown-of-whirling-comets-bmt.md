@@ -9,7 +9,6 @@ tags:
 aliases:
   - Crown of Whirling Comets
 linter-yaml-title-alias: Crown of Whirling Comets
-obsidianUIMode: preview
 ---
 # Crown of Whirling Comets
 *Wondrous item, very rare (requires attunement)*  

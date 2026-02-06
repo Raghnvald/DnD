@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Zauber/list/subclass/circle-of-the-land
+  - Zauber/list/subclass/circle-of-the-land
 aliases:
-- Spells for Circle of the Land
+  - Spells for Circle of the Land
 ---
 # Spells for Circle of the Land
 

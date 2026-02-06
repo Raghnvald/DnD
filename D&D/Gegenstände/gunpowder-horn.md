@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Gunpowder Horn
+Kategorie: Explosives
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/explosive
@@ -10,7 +11,6 @@ tags:
 aliases:
   - Gunpowder Horn
 linter-yaml-title-alias: Gunpowder Horn
-obsidianUIMode: preview
 ---
 # Gunpowder Horn
 *Explosive*  

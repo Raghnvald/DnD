@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Zauber/list/reward/echo-of-dragonsight
+  - Zauber/list/reward/echo-of-dragonsight
 aliases:
-- Spells for Echo of Dragonsight
+  - Spells for Echo of Dragonsight
 ---
 # Spells for Echo of Dragonsight
 

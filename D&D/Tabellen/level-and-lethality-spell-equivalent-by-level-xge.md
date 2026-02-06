@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Quelle/5e/xge
+  - Quelle/5e/xge
 aliases:
-- Level and Lethality; Spell Equivalent by Level
+  - Level and Lethality; Spell Equivalent by Level
 ---
 # Level and Lethality; Spell Equivalent by Level
 *Source: Xanathar's Guide to Everything p. 116* 

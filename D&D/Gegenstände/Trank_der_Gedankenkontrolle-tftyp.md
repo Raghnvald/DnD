@@ -9,7 +9,6 @@ tags:
 aliases:
   - Potion of Mind Control
 linter-yaml-title-alias: Potion of Mind Control
-obsidianUIMode: preview
 ---
 # Potion of Mind Control
 *Potion*  

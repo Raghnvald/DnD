@@ -8,7 +8,6 @@ tags:
 aliases:
   - Abracadabrus
 linter-yaml-title-alias: Abracadabrus
-obsidianUIMode: preview
 ---
 # Abracadabrus
 *Wondrous item, very rare*  

@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Quelle/5e/xdmg
+  - Quelle/5e/xdmg
 aliases:
-- Special Purpose; Sentient Item's Senses
+  - Special Purpose; Sentient Item's Senses
 ---
 # Special Purpose; Sentient Item's Senses
 *Source: Dungeon Master's Guide (2024) p. 226* 

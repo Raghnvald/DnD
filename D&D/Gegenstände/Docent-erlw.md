@@ -9,7 +9,6 @@ tags:
 aliases:
   - Docent
 linter-yaml-title-alias: Docent
-obsidianUIMode: preview
 ---
 # Docent
 *Wondrous item, rare (requires attunement by a warforged)*  

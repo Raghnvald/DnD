@@ -10,7 +10,6 @@ tags:
 aliases:
   - Serpent Scale Armor
 linter-yaml-title-alias: Serpent Scale Armor
-obsidianUIMode: preview
 ---
 # Serpent Scale Armor
 *Medium armor (scale mail), uncommon*  

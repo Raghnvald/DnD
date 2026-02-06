@@ -19,7 +19,6 @@ classes:
 aliases:
   - Finger of Death
 linter-yaml-title-alias: Finger of Death
-obsidianUIMode: preview
 ---
 # Finger of Death
 *7th-level, Necromancy*  

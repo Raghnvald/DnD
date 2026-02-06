@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-race
+  - json5e-race
 tags:
-- Quelle/5e/vgm
-- Rasse/goblin
+  - Quelle/5e/vgm
+  - Rasse/goblin
 aliases:
-- Goblin
+  - Goblin
 ---
 # Goblin
 *Source: Volo's Guide to Monsters p. 119*  

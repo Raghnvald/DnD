@@ -66,7 +66,6 @@ aliases:
   - Whip of Certain Death
   - Yklwa of Certain Death
 linter-yaml-title-alias: Weapon of Certain Death
-obsidianUIMode: preview
 ---
 # Weapon of Certain Death
 *Rare*  

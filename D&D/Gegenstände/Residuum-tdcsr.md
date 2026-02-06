@@ -9,7 +9,6 @@ tags:
 aliases:
   - Residuum
 linter-yaml-title-alias: Residuum
-obsidianUIMode: preview
 ---
 # Residuum
 *Trade good*  

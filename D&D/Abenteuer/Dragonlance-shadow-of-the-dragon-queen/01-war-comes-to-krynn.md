@@ -1,10 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- ttrpg-cli/compendium/src/5e/dsotdq
+  - ttrpg-cli/compendium/src/5e/dsotdq
 aliases:
-- War Comes to Krynn
+  - War Comes to Krynn
 ---
 # War Comes to Krynn
 *Source: Dragonlance: Shadow of the Dragon Queen, p. 4* 

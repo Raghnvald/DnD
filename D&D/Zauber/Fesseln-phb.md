@@ -15,7 +15,6 @@ classes:
 aliases:
   - Enthrall
 linter-yaml-title-alias: Enthrall
-obsidianUIMode: preview
 ---
 # Enthrall
 *2nd-level, Enchantment*  

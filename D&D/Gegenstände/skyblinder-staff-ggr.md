@@ -10,7 +10,6 @@ tags:
 aliases:
   - Skyblinder Staff
 linter-yaml-title-alias: Skyblinder Staff
-obsidianUIMode: preview
 ---
 # Skyblinder Staff
 *Staff, weapon, uncommon (requires attunement)*  

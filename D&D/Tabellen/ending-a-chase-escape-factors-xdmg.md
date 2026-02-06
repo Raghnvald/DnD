@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Quelle/5e/xdmg
+  - Quelle/5e/xdmg
 aliases:
-- Ending a Chase; Escape Factors
+  - Ending a Chase; Escape Factors
 ---
 # Ending a Chase; Escape Factors
 *Source: Dungeon Master's Guide (2024) p. 53* 

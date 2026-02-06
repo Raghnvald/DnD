@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Hourglass
+Kategorie: Abenteuerausrüstung
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
@@ -9,7 +10,6 @@ tags:
 aliases:
   - Hourglass
 linter-yaml-title-alias: Hourglass
-obsidianUIMode: preview
 ---
 # Hourglass
 *Adventuring gear*  

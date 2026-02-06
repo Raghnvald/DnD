@@ -2,7 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Adult White Dragon
-Typ: Drache (Chromatisch)
+Kategorie: Drache (Chromatisch)
 Größe: Riesig
 HG: 13
 Habitat:

@@ -9,7 +9,6 @@ tags:
 aliases:
   - Hempen Rope (50 feet)
 linter-yaml-title-alias: Hempen Rope (50 feet)
-obsidianUIMode: preview
 ---
 # Hempen Rope (50 feet)
 *Adventuring gear*  

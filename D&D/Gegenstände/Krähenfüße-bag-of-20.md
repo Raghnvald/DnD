@@ -9,7 +9,6 @@ tags:
 aliases:
   - Caltrops (bag of 20)
 linter-yaml-title-alias: Caltrops (bag of 20)
-obsidianUIMode: preview
 ---
 # Caltrops (bag of 20)
 *Adventuring gear*  

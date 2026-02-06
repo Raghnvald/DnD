@@ -8,10 +8,9 @@ tags:
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/scag
 aliases:
-  - "Spiked Armor"
+  - Spiked Armor
   - Stachelrüstung
 linter-yaml-title-alias: Stachelrüstung
-obsidianUIMode: preview
 ---
 # Stachelrüstung
 *Medium armor*  

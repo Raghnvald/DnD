@@ -1,7 +1,9 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Chrysoberyl
+Bezeichnung: Chrysoberyll
+Kategorie: Edelstein
+Eigenschaften: /
+Kst.: 100 GM
+Gew.: /
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone
   - Gegenstand/Seltenheit/keine
@@ -9,13 +11,12 @@ tags:
 aliases:
   - Chrysoberyl
 linter-yaml-title-alias: Chrysoberyl
-obsidianUIMode: preview
 ---
-# Chrysoberyl
-*Treasure (gemstone)*  
+# Chrysoberyll
+*Schatz (Edelstein)*  
 
-- **Cost**: 100 gp
+- **Kosten**: 100 GM
 
-A transparent yellow-green to pale green gemstone.
+Ein durchsichtiger, gelb-grünlich bis blass grüner Edelstein.
 
-*Source: Dungeon Master's Guide p. 134*
+*Quelle: Spielleiterhandbuch S. 134*

@@ -42,7 +42,6 @@ aliases:
   - Oceanic Weapon
   - Oceanic Yklwa
 linter-yaml-title-alias: Oceanic Weapon
-obsidianUIMode: preview
 ---
 # Oceanic Weapon
 *Rare (requires attunement)*  

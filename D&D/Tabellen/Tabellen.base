@@ -3,17 +3,52 @@ model:
   kind: Table
   columns: []
 pluginVersion: 1.0.0
+formulas:
+  Bezeichnung: link(file, Bezeichnung)
 views:
-  - type: table
-    name: Table
+  - type: list
+    name: Noch zu bearbeiten
     filters:
       and:
-        - file.folder == "D&D/Tabellen"
+        - file.folder.contains("D&D/Tabellen")
+        - Kategorie.isEmpty()
+        - file.ext == "md"
     order:
       - file.name
-      - aliases
+      - file.folder
     sort:
       - property: aliases
         direction: ASC
     columnSize:
       file.name: 564
+  - type: list
+    name: Bastion
+    filters:
+      and:
+        - file.folder.contains("D&D/Tabellen")
+        - Kategorie == "Bastion"
+    order:
+      - formula.Bezeichnung
+  - type: list
+    name: Charakterentwicklung
+    filters:
+      and:
+        - file.folder.contains("D&D/Tabellen")
+        - Kategorie == "Charakterentwicklung"
+    order:
+      - file.name
+      - formula.Bezeichnung
+  - type: list
+    name: Drachen
+    filters:
+      and:
+        - file.folder.contains("D&D/Tabellen")
+        - Kategorie == "Drachen"
+  - type: list
+    name: Namen
+    filters:
+      and:
+        - file.folder.contains("D&D/Tabellen")
+        - Kategorie == "Namen"
+    order:
+      - formula.Bezeichnung

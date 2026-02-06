@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Zulkoon
+Kategorie: Werkzeug
 tags:
   - Gegenstand/Ausrüstung/Instrument
   - Gegenstand/Seltenheit/keine
@@ -9,7 +10,6 @@ tags:
 aliases:
   - Zulkoon
 linter-yaml-title-alias: Zulkoon
-obsidianUIMode: preview
 ---
 # Zulkoon
 *Instrument*  

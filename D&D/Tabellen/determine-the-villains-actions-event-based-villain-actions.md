@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Quelle/5e/dmg
+  - Quelle/5e/dmg
 aliases:
-- Determine the Villain's Actions; Event-Based Villain Actions
+  - Determine the Villain's Actions; Event-Based Villain Actions
 ---
 # Determine the Villain's Actions; Event-Based Villain Actions
 *Source: Dungeon Master's Guide p. 75* 

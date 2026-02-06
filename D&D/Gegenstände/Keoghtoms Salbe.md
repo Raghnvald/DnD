@@ -1,15 +1,13 @@
 ---
 cssclasses:
   - json5e-item
-Bezeichnung: "Keoghtom's Ointment"
+Bezeichnung: Keoghtom's Ointment
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/dmg
 aliases:
-  - "Keoghtom's Ointment"
   - Keoghtom's Ointment
-linter-yaml-title-alias: "Keoghtom's Ointment"
-obsidianUIMode: preview
+linter-yaml-title-alias: Keoghtom's Ointment
 ---
 # Keoghtom's Ointment
 *Wondrous item, minor, uncommon*  

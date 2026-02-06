@@ -1,20 +1,19 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- Quelle/5e/vgm
-- Monster/HG/3
-- Monster/Habitat/Wüste
-- Monster/Habitat/Wald
-- Monster/Habitat/Sumpf
-- Monster/Größe/Mittelgroß
-- Monster/Typ/Monstrosität/shapechanger
-- Monster/Typ/Monstrosität/yuan-ti
+  - Quelle/5e/vgm
+  - Monster/HG/3
+  - Monster/Habitat/Wüste
+  - Monster/Habitat/Wald
+  - Monster/Habitat/Sumpf
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/Monstrosität/shapechanger
+  - Monster/Typ/Monstrosität/yuan-ti
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Yuan-ti Malison (Type 4)
+  - Yuan-ti Malison (Type 4)
 ---
 # [Yuan-ti Malison (Type 4)](3-Mechanics\CLI\bestiary\monstrosity/yuan-ti-malison-type-4-vgm.md)
 *Source: Volo's Guide to Monsters p. 96*  

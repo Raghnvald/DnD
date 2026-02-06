@@ -11,7 +11,6 @@ tags:
 aliases:
   - Breastplate of Balance
 linter-yaml-title-alias: Breastplate of Balance
-obsidianUIMode: preview
 ---
 # Breastplate of Balance
 *Medium armor (breastplate), rare (requires attunement)*  

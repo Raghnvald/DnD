@@ -8,7 +8,6 @@ tags:
 aliases:
   - Cauldron of Plenty
 linter-yaml-title-alias: Cauldron of Plenty
-obsidianUIMode: preview
 ---
 # Cauldron of Plenty
 *Wondrous item, rare*  

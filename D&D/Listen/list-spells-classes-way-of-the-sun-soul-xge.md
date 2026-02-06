@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Zauber/list/subclass/way-of-the-sun-soul
+  - Zauber/list/subclass/way-of-the-sun-soul
 aliases:
-- Spells for Way of the Sun Soul
+  - Spells for Way of the Sun Soul
 ---
 # Spells for Way of the Sun Soul
 

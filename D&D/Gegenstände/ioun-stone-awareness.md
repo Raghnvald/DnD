@@ -9,7 +9,6 @@ tags:
 aliases:
   - Ioun Stone, Awareness
 linter-yaml-title-alias: Ioun Stone, Awareness
-obsidianUIMode: preview
 ---
 # Ioun Stone, Awareness
 *Wondrous item, major, rare (requires attunement)*  

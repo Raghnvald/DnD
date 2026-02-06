@@ -15,7 +15,6 @@ classes:
 aliases:
   - Reincarnate
 linter-yaml-title-alias: Reincarnate
-obsidianUIMode: preview
 ---
 # Reincarnate
 *5th-level, Transmutation*  

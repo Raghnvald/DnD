@@ -1,6 +1,6 @@
 ---
 Bezeichnung: Köcher
-Typ: Behälter
+Kategorie: Behälter
 Eigenschaften: n/v
 Kst.: 1 GM
 Gew.: 0,5 kg

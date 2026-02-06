@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Arrow of Slaying
+Kategorie: Munition
 tags:
   - Gegenstand/Ausrüstung/ammunition
   - Gegenstand/Seltenheit/sehr_selten
@@ -9,7 +10,6 @@ tags:
 aliases:
   - Arrow of Slaying
 linter-yaml-title-alias: Arrow of Slaying
-obsidianUIMode: preview
 ---
 # Arrow of Slaying
 *Ammunition, minor, very rare*  

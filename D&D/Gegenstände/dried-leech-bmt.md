@@ -15,7 +15,6 @@ aliases:
   - Dried Leech Needle
   - Dried Leech Sling Bullet
 linter-yaml-title-alias: Dried Leech
-obsidianUIMode: preview
 ---
 # Dried Leech
 *Ammunition, uncommon*  

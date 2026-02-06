@@ -1,9 +1,9 @@
 ---
 Bezeichnung: Loaf of Bread
-Typ: Essen und Trinken
-Eigenschaften: n/v
+Kategorie: Essen und Trinken
+Eigenschaften: /
 Kst.: 2 KM
-Gew.: n/v
+Gew.: /
 tags:
   - Gegenstand/Ausrüstung/Essen-und-Trinken
   - Gegenstand/Seltenheit/keine

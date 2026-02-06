@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-spell
 Bezeichnung: Flaming Sphere
+Zaubergrad: 2
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide
@@ -22,7 +23,6 @@ classes:
 aliases:
   - Flaming Sphere
 linter-yaml-title-alias: Flaming Sphere
-obsidianUIMode: preview
 ---
 # Flaming Sphere
 *2nd-level, Conjuration*  

@@ -18,7 +18,6 @@ classes:
 aliases:
   - Healing Word
 linter-yaml-title-alias: Healing Word
-obsidianUIMode: preview
 ---
 # Healing Word
 *1st-level, Evocation*  

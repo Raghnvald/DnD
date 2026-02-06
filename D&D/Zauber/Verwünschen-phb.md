@@ -16,7 +16,6 @@ classes:
 aliases:
   - Hex
 linter-yaml-title-alias: Hex
-obsidianUIMode: preview
 ---
 # Hex
 *1st-level, Enchantment*  

@@ -9,7 +9,6 @@ tags:
 aliases:
   - Crowbar
 linter-yaml-title-alias: Crowbar
-obsidianUIMode: preview
 ---
 # Crowbar
 *Adventuring gear*  

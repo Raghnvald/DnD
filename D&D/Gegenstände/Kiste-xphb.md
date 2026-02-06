@@ -9,7 +9,6 @@ tags:
 aliases:
   - Chest
 linter-yaml-title-alias: Chest
-obsidianUIMode: preview
 ---
 # Chest
 *Adventuring gear*  

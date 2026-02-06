@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Zauber/list/optfeature/undying-servitude
+  - Zauber/list/optfeature/undying-servitude
 aliases:
-- Spells for Undying Servitude
+  - Spells for Undying Servitude
 ---
 # Spells for Undying Servitude
 

@@ -1,7 +1,7 @@
 ---
 prefer-view: edit-source read
 Bezeichnung: Uralter Magnetitdrache-hgmh1
-Typ: Drache
+Kategorie: Drache
 Größe: Gigantisch
 HG:
 image:

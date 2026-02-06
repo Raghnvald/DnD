@@ -9,7 +9,6 @@ tags:
 aliases:
   - Candle of Invocation
 linter-yaml-title-alias: Candle of Invocation
-obsidianUIMode: preview
 ---
 # Candle of Invocation
 *Wondrous item, major, very rare (requires attunement)*  

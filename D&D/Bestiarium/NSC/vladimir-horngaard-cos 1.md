@@ -2,7 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Wladimir Horngaard
-Typ: Untoter
+Kategorie: Untoter
 Größe: Mittelgroß
 HG: 7
 Habitat:
@@ -46,7 +46,7 @@ Wladimir Horngaard hat die Spielwerte eines Wiedergängers mit den folgenden Mod
 - Seine Rüstungsklasse ist 17 (Plattenpanzer).
 - Er hat 192 Trefferpunkte.
 - Er spricht Drakonisch und Gemeinsprache.
-- Wladimir führt ein [[Zweihandschwert]] +2 mit einem Heft, das geformt ist, um silbernen Drachenschwingen zu ähneln, und einem Knauf in der Form eines silbernen Drachenkopfes, der einen schwarzen Opal zwischen seinen Zähnen umklammert. Als eine Aktion kann er zwei Angriffe mit dem Schwert ausführen {+9 zum Treffen). Es verursacht `20` (`4W6 + 6`) Hiebschaden bei einem Treffer. Gegen Strahd verursacht Wladimir zusätzlich `14` (`4W6`) Hiebschaden mit der Waffe.
+- Wladimir führt ein [[Zweihandschwert-old]] +2 mit einem Heft, das geformt ist, um silbernen Drachenschwingen zu ähneln, und einem Knauf in der Form eines silbernen Drachenkopfes, der einen schwarzen Opal zwischen seinen Zähnen umklammert. Als eine Aktion kann er zwei Angriffe mit dem Schwert ausführen {+9 zum Treffen). Es verursacht `20` (`4W6 + 6`) Hiebschaden bei einem Treffer. Gegen Strahd verursacht Wladimir zusätzlich `14` (`4W6`) Hiebschaden mit der Waffe.
 - Wladimir hat einen Herausforderungsgrad von 7 (2.900 EP).
 
 ##  Charakteristika von Wladimir Horngaard

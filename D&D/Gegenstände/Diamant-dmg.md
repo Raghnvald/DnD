@@ -1,7 +1,9 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Diamond
+Bezeichnung: Diamant
+Kategorie: Edelstein
+Eigenschaften: /
+Kst.: 5.000 GM
+Gew.: /
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone
   - Gegenstand/Seltenheit/keine
@@ -9,13 +11,12 @@ tags:
 aliases:
   - Diamond
 linter-yaml-title-alias: Diamond
-obsidianUIMode: preview
 ---
-# Diamond
-*Treasure (gemstone)*  
+# Diamant
+*Schatz (Edelstein)*  
 
-- **Cost**: 5,000 gp
+- **Kosten**: 5.000 GM
 
-A transparent blue-white, canary, pink, brown, or blue gemstone.
+Ein durchsichtiger, blau-weißer, kanariengelber, rosaner, brauner oder blauer Edelstein
 
-*Source: Dungeon Master's Guide p. 134*
+*Quelle: Spielleiterhandbuch S. 134*

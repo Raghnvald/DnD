@@ -9,7 +9,6 @@ tags:
 aliases:
   - Nether Scroll of Azumar
 linter-yaml-title-alias: Nether Scroll of Azumar
-obsidianUIMode: preview
 ---
 # Nether Scroll of Azumar
 *Scroll, legendary*  

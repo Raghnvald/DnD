@@ -1,8 +1,8 @@
 ---
 cssclasses:
   - json5e-item
-Bezeichnung: Scimitar
-Typ: Nahkampf-Kriegswaffe
+Bezeichnung: Krummsäbel
+Kategorie: Nahkampf-Kriegswaffe
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/Kriegswaffe
@@ -11,7 +11,6 @@ tags:
 aliases:
   - Scimitar
 linter-yaml-title-alias: Scimitar
-obsidianUIMode: preview
 ---
 # Scimitar
 *Weapon*  

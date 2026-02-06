@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Subrasse/half-elf-mark-of-storm
+  - Subrasse/half-elf-mark-of-storm
 aliases:
-- Spells for Half-Elf (Mark of Storm)
+  - Spells for Half-Elf (Mark of Storm)
 ---
 # Spells for Half-Elf (Mark of Storm)
 

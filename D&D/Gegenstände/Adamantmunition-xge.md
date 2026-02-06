@@ -1,5 +1,9 @@
 ---
 Bezeichnung: Adamantmunition
+Kategorie: Munition
+Eigenschaften: Munition
+Kst.: /
+Gew.: /
 tags:
   - Gegenstand/Ausrüstung/ammunition
   - Gegenstand/Seltenheit/unbekannt

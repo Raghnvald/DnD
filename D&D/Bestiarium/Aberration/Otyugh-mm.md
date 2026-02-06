@@ -2,7 +2,7 @@
 cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
 Name: Otyugh
-Typ: Aberration
+Kategorie: Aberration
 Größe: Groß
 HG: 5
 Habitat:

@@ -26,7 +26,6 @@ classes:
 aliases:
   - Gaseous Form
 linter-yaml-title-alias: Gaseous Form
-obsidianUIMode: preview
 ---
 # Gaseous Form
 *3rd-level, Transmutation*  

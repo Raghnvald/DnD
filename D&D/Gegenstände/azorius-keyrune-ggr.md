@@ -9,7 +9,6 @@ tags:
 aliases:
   - Azorius Keyrune
 linter-yaml-title-alias: Azorius Keyrune
-obsidianUIMode: preview
 ---
 # Azorius Keyrune
 *Wondrous item, rare (requires attunement by a member of the Azorius guild)*  

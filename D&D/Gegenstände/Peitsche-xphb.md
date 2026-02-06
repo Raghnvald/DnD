@@ -2,7 +2,6 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Whip
-Typ: Nahkampf-Kriegswaffe
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/Kriegswaffe
@@ -11,7 +10,6 @@ tags:
 aliases:
   - Whip
 linter-yaml-title-alias: Whip
-obsidianUIMode: preview
 ---
 # Whip
 *Weapon*  

@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Lute
+Kategorie: Werkzeug
 tags:
   - Gegenstand/Ausrüstung/Instrument
   - Gegenstand/Seltenheit/keine
@@ -9,7 +10,6 @@ tags:
 aliases:
   - Lute
 linter-yaml-title-alias: Lute
-obsidianUIMode: preview
 ---
 # Lute
 *Instrument*  

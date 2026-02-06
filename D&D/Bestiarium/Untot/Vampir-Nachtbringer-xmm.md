@@ -2,7 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Vampire Nightbringer
-Typ: Untoter
+Kategorie: Untoter
 Größe: M oder S
 HG: 8
 Habitat:

@@ -7,10 +7,9 @@ tags:
   - Gegenstand/wundersam/Ring
   - Quelle/5e/xdmg
 aliases:
-  - "Ring of Lightning Resistance"
+  - Ring of Lightning Resistance
   - Ring of Lightning Resistance
 linter-yaml-title-alias: Ring of Lightning Resistance
-obsidianUIMode: preview
 ---
 # Ring of Lightning Resistance
 *Ring, rare*  

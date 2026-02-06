@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Gold circlet set with four aquamarines
+Kategorie: Kunstobjekt
 tags:
   - Gegenstand/Ausrüstung/treasure-art-object
   - Gegenstand/Seltenheit/keine
@@ -9,7 +10,6 @@ tags:
 aliases:
   - Gold circlet set with four aquamarines
 linter-yaml-title-alias: Gold circlet set with four aquamarines
-obsidianUIMode: preview
 ---
 # Gold circlet set with four aquamarines
 *Treasure (art object)*  

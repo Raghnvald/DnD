@@ -2,7 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Exethanter
-Typ: Untoter
+Kategorie: Untoter
 Größe: Mittelgroß
 HG: 10
 Habitat:

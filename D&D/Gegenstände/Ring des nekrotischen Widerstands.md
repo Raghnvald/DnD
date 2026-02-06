@@ -10,7 +10,6 @@ tags:
 aliases:
   - Ring of Necrotic Resistance
 linter-yaml-title-alias: Ring of Necrotic Resistance
-obsidianUIMode: preview
 ---
 # Ring of Necrotic Resistance
 *Ring, major, rare (requires attunement)*  

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-class
 tags:
@@ -52,7 +51,7 @@ aliases:
 
 - **Rüstungen**: [[Gegenstandsarten-phb#Leichte Rüstung|Leichte Rüstung]], [[Gegenstandsarten-phb#Mittelschwere Rüstung|Mittelschwere Rüstung]], [[Gegenstandsarten-phb#Schild|Schilde]] (Druiden tragen keine Rüstungen oder Schilde, die aus Metall sind)
 - **Waffen**: [[Dolch-phb|Dolche]], [[Kampfstab-phb|Kampfstäbe]], [[Knüppel-phb|Knüppel]], [[Krummsäbel-phb|Krummsäbel]], [[Schleuder-phb|Schleudern]], [[Sichel-phb|Sicheln]], [[Speer-phb|Speere]], [[Streitkolben-phb|Streitkolben]], [[Wurfpfeil-phb|Wurfpfeile]] und [[Wurfspeer-phb|Wurfspeere]]
-- **Werkzeuge**: [[Kräuterkunde-Ausrüstung-phb|Kräuterkunde-Ausrüstung]] 
+- **Werkzeuge**: [[Kräuterkundeausrüstung-phb|Kräuterkunde-Ausrüstung]] 
 - **Rettungswürfe**: Intelligenz, Weisheit
 - **Fertigkeiten**: zwei nach Wahl: [[01-Spielleiter/Fertigkeiten-phb#Arkane Kunde|Arkane Kunde]], [[01-Spielleiter/Fertigkeiten-phb#Heilkunde|Heilkunde]], [[01-Spielleiter/Fertigkeiten-phb#Mit Tieren umgehen|Mit Tieren umgehen]], [[01-Spielleiter/Fertigkeiten-phb#Motiv erkennen|Motiv erkennen]], [[01-Spielleiter/Fertigkeiten-phb#Naturkunde|Naturkunde]], [[01-Spielleiter/Fertigkeiten-phb#Religion|Religion]], [[01-Spielleiter/Fertigkeiten-phb#Überlebenskunst|Überlebenskunst]], [[01-Spielleiter/Fertigkeiten-phb#Wahrnehmung|Wahrnehmung]] 
 

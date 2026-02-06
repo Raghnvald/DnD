@@ -9,7 +9,6 @@ tags:
 aliases:
   - Selesnya Keyrune
 linter-yaml-title-alias: Selesnya Keyrune
-obsidianUIMode: preview
 ---
 # Selesnya Keyrune
 *Wondrous item, rare (requires attunement by a member of the Selesnya guild)*  

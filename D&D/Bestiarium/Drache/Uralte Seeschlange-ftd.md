@@ -2,7 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Ancient Sea Serpent
-Typ: Drache
+Kategorie: Drache
 Größe: Gigantisch
 HG: 14
 Habitat:

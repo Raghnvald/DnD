@@ -1,6 +1,6 @@
 ---
 Bezeichnung: Fellrüstung
-Typ: Rüstung
+Kategorie: Rüstung
 Rüstung: Mittel
 Eigenschaften: /
 Kst.: 10 GM
@@ -13,7 +13,6 @@ tags:
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - "Hide Armor"
   - Hide Armor
 linter-yaml-title-alias: Hide Armor
 ---

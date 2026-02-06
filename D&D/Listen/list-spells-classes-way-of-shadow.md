@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Zauber/list/subclass/way-of-shadow
+  - Zauber/list/subclass/way-of-shadow
 aliases:
-- Spells for Way of Shadow
+  - Spells for Way of Shadow
 ---
 # Spells for Way of Shadow
 

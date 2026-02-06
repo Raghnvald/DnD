@@ -8,7 +8,6 @@ tags:
 aliases:
   - Folding Boat
 linter-yaml-title-alias: Folding Boat
-obsidianUIMode: preview
 ---
 # Folding Boat
 *Wondrous item, minor, rare*  

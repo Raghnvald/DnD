@@ -1,6 +1,7 @@
 ---
 cssclasses: json5e-spell
 Bezeichnung: Steinwand
+Zaubergrad: 5
 tags:
   - Klasse/Druide
   - Klasse/Magier

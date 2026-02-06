@@ -1,7 +1,9 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Block and Tackle
+Bezeichnung: Flaschenzug
+Kategorie: Abenteuerausrüstung
+Eigenschaften: /
+Kst.: 1 GM
+Gew.: 2,5 kg
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
@@ -9,9 +11,8 @@ tags:
 aliases:
   - Block and Tackle
 linter-yaml-title-alias: Block and Tackle
-obsidianUIMode: preview
 ---
-# Block and Tackle
+# Flaschenzug
 *Adventuring gear*  
 
 - **Cost**: 1 gp

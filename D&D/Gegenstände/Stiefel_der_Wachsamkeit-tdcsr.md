@@ -8,7 +8,6 @@ tags:
 aliases:
   - Boots of the Vigilant
 linter-yaml-title-alias: Boots of the Vigilant
-obsidianUIMode: preview
 ---
 # Boots of the Vigilant
 *Wondrous item, uncommon*  

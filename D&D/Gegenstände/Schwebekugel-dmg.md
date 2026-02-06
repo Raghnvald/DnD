@@ -8,7 +8,6 @@ tags:
 aliases:
   - Driftglobe
 linter-yaml-title-alias: Driftglobe
-obsidianUIMode: preview
 ---
 # Driftglobe
 *Wondrous item, minor, uncommon*  

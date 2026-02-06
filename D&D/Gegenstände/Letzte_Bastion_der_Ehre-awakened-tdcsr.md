@@ -1,7 +1,7 @@
 ---
 cssclasses:
   - json5e-item
-Bezeichnung: "Honor's Last Stand (Awakened)"
+Bezeichnung: Honor's Last Stand (Awakened)
 Rüstung: Schild
 tags:
   - Gegenstand/Einstimmung/required
@@ -9,10 +9,8 @@ tags:
   - Gegenstand/Seltenheit/legendär
   - Quelle/5e/tdcsr
 aliases:
-  - "Honor's Last Stand (Awakened)"
   - Honor's Last Stand (Awakened)
-linter-yaml-title-alias: "Honor's Last Stand (Awakened)"
-obsidianUIMode: preview
+linter-yaml-title-alias: Honor's Last Stand (Awakened)
 ---
 # Honor's Last Stand (Awakened)
 *Armor ([shield](/3-Mechanics/CLI/items/shield-xphb.md)), legendary (requires attunement by a creature of non-evil alignment)*  

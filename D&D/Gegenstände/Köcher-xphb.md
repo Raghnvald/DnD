@@ -9,7 +9,6 @@ tags:
 aliases:
   - Quiver
 linter-yaml-title-alias: Quiver
-obsidianUIMode: preview
 ---
 # Quiver
 *Adventuring gear*  

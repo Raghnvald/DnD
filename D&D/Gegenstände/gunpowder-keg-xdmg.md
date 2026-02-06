@@ -9,7 +9,6 @@ tags:
 aliases:
   - Gunpowder (keg)
 linter-yaml-title-alias: Gunpowder (keg)
-obsidianUIMode: preview
 ---
 # Gunpowder (keg)
 *Explosive*  

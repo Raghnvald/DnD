@@ -1,6 +1,6 @@
 ---
 Bezeichnung: Belebter Schild
-Typ: Rüstung
+Kategorie: Rüstung
 Rüstung: Schild
 Eigenschaften: Erfordert Einstimmung
 Kst.: /
@@ -15,7 +15,6 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Animated Shield
-  - Belebter Schild
 linter-yaml-title-alias: Belebter Schild
 ---
 # Belebter Schild

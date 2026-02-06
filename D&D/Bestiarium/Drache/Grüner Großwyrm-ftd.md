@@ -2,7 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Green Greatwyrm
-Typ: Drache (Chromatisch)
+Kategorie: Drache (Chromatisch)
 Größe: Gigantisch
 Habitat:
   - /

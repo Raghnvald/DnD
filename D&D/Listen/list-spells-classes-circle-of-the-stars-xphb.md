@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Zauber/list/subclass/circle-of-the-stars
+  - Zauber/list/subclass/circle-of-the-stars
 aliases:
-- Spells for Circle of the Stars
+  - Spells for Circle of the Stars
 ---
 # Spells for Circle of the Stars
 

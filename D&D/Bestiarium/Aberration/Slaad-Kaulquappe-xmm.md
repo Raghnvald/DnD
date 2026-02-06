@@ -2,12 +2,12 @@
 cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
 Bezeichnung: Slaad-Kaulquappe
-Typ: Aberration
+Kategorie: Aberration
 Größe: Winzig
 HG: 1/8
 Habitat: Planar (Limbo)
 status: WIP
-image: 
+image:
 tags:
   - Quelle/5e/xmm
   - Monster/HG/1-8

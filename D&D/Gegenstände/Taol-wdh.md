@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Taol
+Kategorie: Währung
 tags:
   - Gegenstand/Ausrüstung/treasure-coinage
   - Gegenstand/Seltenheit/keine
@@ -9,7 +10,6 @@ tags:
 aliases:
   - Taol
 linter-yaml-title-alias: Taol
-obsidianUIMode: preview
 ---
 # Taol
 *Treasure (coinage)*  

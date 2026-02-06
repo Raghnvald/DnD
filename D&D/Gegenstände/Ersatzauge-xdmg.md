@@ -6,10 +6,8 @@ tags:
   - Gegenstand/Seltenheit/gewöhnlich
   - Quelle/5e/xdmg
 aliases:
-  - "Ersatz Eye"
   - Ersatz Eye
 linter-yaml-title-alias: Ersatz Eye
-obsidianUIMode: preview
 ---
 # Ersatz Eye
 *Wondrous item, common*  

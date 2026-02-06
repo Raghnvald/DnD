@@ -12,7 +12,7 @@ statblock: inline
 statblock-link: "#^statblock"
 aliases:
   - Derro
-Typ: Aberration
+Kategorie: Aberration
 Größe: Klein
 HG: 1/4
 status: WIP

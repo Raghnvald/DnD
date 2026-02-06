@@ -8,7 +8,6 @@ tags:
 aliases:
   - Shiftweave
 linter-yaml-title-alias: Shiftweave
-obsidianUIMode: preview
 ---
 # Shiftweave
 *Wondrous item, common*  

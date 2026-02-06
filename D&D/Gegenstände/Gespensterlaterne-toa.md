@@ -9,7 +9,6 @@ tags:
 aliases:
   - Ghost Lantern
 linter-yaml-title-alias: Ghost Lantern
-obsidianUIMode: preview
 ---
 # Gespensterlaterne
 *Wondrous item, rare (requires attunement)*  

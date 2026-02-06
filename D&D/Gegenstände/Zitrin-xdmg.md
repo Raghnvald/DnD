@@ -9,7 +9,6 @@ tags:
 aliases:
   - Citrine
 linter-yaml-title-alias: Citrine
-obsidianUIMode: preview
 ---
 # Citrine
 *Treasure (gemstone)*  

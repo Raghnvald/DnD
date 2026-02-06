@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Two-Person Tent
+Kategorie: Abenteuerausrüstung
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
@@ -9,7 +10,6 @@ tags:
 aliases:
   - Two-Person Tent
 linter-yaml-title-alias: Two-Person Tent
-obsidianUIMode: preview
 ---
 # Two-Person Tent
 *Adventuring gear*  

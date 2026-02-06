@@ -15,7 +15,6 @@ classes:
 aliases:
   - Weird
 linter-yaml-title-alias: Weird
-obsidianUIMode: preview
 ---
 # Weird
 *9th-level, Illusion*  

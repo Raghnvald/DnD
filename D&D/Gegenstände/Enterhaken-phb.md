@@ -1,7 +1,6 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Grappling Hook
+Bezeichnung: Enterhaken
+Kategorie: Abenteuerausrüstung
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
@@ -9,9 +8,8 @@ tags:
 aliases:
   - Grappling Hook
 linter-yaml-title-alias: Grappling Hook
-obsidianUIMode: preview
 ---
-# Grappling Hook
+# Enterhaken
 *Adventuring gear*  
 
 - **Cost**: 2 gp

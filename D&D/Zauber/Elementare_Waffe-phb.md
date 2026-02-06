@@ -15,7 +15,6 @@ classes:
 aliases:
   - Elemental Weapon
 linter-yaml-title-alias: Elemental Weapon
-obsidianUIMode: preview
 ---
 # Elemental Weapon
 *3rd-level, Transmutation*  

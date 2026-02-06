@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Energy Cell
+Kategorie: Munition
 tags:
   - Gegenstand/Ausrüstung/ammunition-firearm
   - Gegenstand/Seltenheit/keine

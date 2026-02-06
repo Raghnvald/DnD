@@ -9,7 +9,6 @@ tags:
 aliases:
   - Sardonyx
 linter-yaml-title-alias: Sardonyx
-obsidianUIMode: preview
 ---
 # Sardonyx
 *Treasure (gemstone)*  

@@ -9,7 +9,6 @@ tags:
 aliases:
   - Black Pearl
 linter-yaml-title-alias: Black Pearl
-obsidianUIMode: preview
 ---
 # Black Pearl
 *Treasure (gemstone)*  

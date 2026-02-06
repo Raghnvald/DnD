@@ -1,7 +1,9 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Hematite
+Bezeichnung: Hämatit
+Kategorie: Edelstein
+Eigenschaften: /
+Kst.: 10 GM
+Gew.: /
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone
   - Gegenstand/Seltenheit/keine
@@ -9,13 +11,12 @@ tags:
 aliases:
   - Hematite
 linter-yaml-title-alias: Hematite
-obsidianUIMode: preview
 ---
-# Hematite
-*Treasure (gemstone)*  
+# Hämatit
+*Schatz (Edelstein)*  
 
-- **Cost**: 10 gp
+- **Kosten**: 10 GM
 
-An opaque gray-black gemstone.
+Ein undurchsichtiger, grau-schwarzer Edelstein.
 
-*Source: Dungeon Master's Guide p. 134*
+*Quelle: Spielleiterhandbuch S. 134*

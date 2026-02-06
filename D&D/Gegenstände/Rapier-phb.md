@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Rapier
-Typ: Nahkampf-Kriegswaffe
+Kategorie: Nahkampf-Kriegswaffe
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/Kriegswaffe
@@ -11,7 +11,6 @@ tags:
 aliases:
   - Rapier
 linter-yaml-title-alias: Rapier
-obsidianUIMode: preview
 ---
 # Rapier
 *Weapon*  

@@ -9,7 +9,6 @@ tags:
 aliases:
   - Icewind Dale Trinket
 linter-yaml-title-alias: Icewind Dale Trinket
-obsidianUIMode: preview
 ---
 # Icewind Dale Trinket
 *Adventuring gear*  

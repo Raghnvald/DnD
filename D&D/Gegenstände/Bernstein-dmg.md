@@ -1,7 +1,9 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Amber
+Bezeichnung: Bernstein
+Kategorie: Edelstein
+Eigenschaften: /
+Kst.: 100 GM
+Gew.: /
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone
   - Gegenstand/Seltenheit/keine
@@ -9,13 +11,12 @@ tags:
 aliases:
   - Amber
 linter-yaml-title-alias: Amber
-obsidianUIMode: preview
 ---
-# Amber
-*Treasure (gemstone)*  
+# Bernstein
+*Schatz (Edelstein)*  
 
-- **Cost**: 100 gp
+- **Kosten**: 100 GM
 
-A transparent watery gold to rich gold gemstone.
+Ein durchsichtiger, verwaschen goldener bis kräftig goldener Edelstein.
 
-*Source: Dungeon Master's Guide p. 134*
+*Quelle: Spielleiterhandbuch S. 134*

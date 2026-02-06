@@ -9,7 +9,6 @@ tags:
 aliases:
   - Potion of Animal Friendship
 linter-yaml-title-alias: Potion of Animal Friendship
-obsidianUIMode: preview
 ---
 # Potion of Animal Friendship
 *Potion, minor, uncommon*  

@@ -27,7 +27,6 @@ aliases:
   - Splint Armor of Necrotic Resistance
   - Studded Leather Armor of Necrotic Resistance
 linter-yaml-title-alias: Armor of Necrotic Resistance
-obsidianUIMode: preview
 ---
 # Armor of Necrotic Resistance
 *Major, rare (requires attunement)*  

@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-race
+  - json5e-race
 tags:
-- Quelle/5e/vgm
-- Rasse/tabaxi
+  - Quelle/5e/vgm
+  - Rasse/tabaxi
 aliases:
-- Tabaxi
+  - Tabaxi
 ---
 # Tabaxi
 *Source: Volo's Guide to Monsters p. 113*  

@@ -8,7 +8,6 @@ tags:
 aliases:
   - Figurine of Wondrous Power
 linter-yaml-title-alias: Figurine of Wondrous Power
-obsidianUIMode: preview
 ---
 # Figurine of Wondrous Power
 *Wondrous item*  

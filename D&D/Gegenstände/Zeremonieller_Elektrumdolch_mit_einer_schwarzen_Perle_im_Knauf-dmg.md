@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Ceremonial electrum dagger with a black pearl in the pommel
+Kategorie: Kunstobjekt
 tags:
   - Gegenstand/Ausrüstung/treasure-art-object
   - Gegenstand/Seltenheit/keine
@@ -9,7 +10,6 @@ tags:
 aliases:
   - Ceremonial electrum dagger with a black pearl in the pommel
 linter-yaml-title-alias: Ceremonial electrum dagger with a black pearl in the pommel
-obsidianUIMode: preview
 ---
 # Ceremonial electrum dagger with a black pearl in the pommel
 *Treasure (art object)*  

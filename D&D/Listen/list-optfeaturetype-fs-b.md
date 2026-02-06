@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Quelle/5e/xge
+  - Quelle/5e/xge
 aliases:
-- Fighting Style, Bard
+  - Fighting Style, Bard
 ---
 # Fighting Style, Bard
 *Source: Xanathar's Guide to Everything, Player's Handbook* 

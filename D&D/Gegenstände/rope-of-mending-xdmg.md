@@ -6,10 +6,9 @@ tags:
   - Gegenstand/Seltenheit/gewöhnlich
   - Quelle/5e/xdmg
 aliases:
-  - "Rope of Mending"
+  - Rope of Mending
   - Rope of Mending
 linter-yaml-title-alias: Rope of Mending
-obsidianUIMode: preview
 ---
 # Rope of Mending
 *Wondrous item, common*  

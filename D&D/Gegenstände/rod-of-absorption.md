@@ -10,7 +10,6 @@ tags:
 aliases:
   - Rod of Absorption
 linter-yaml-title-alias: Rod of Absorption
-obsidianUIMode: preview
 ---
 # Rod of Absorption
 *Rod, major, very rare (requires attunement)*  

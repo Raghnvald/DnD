@@ -16,7 +16,6 @@ aliases:
   - Clockwork Ring Mail
   - Clockwork Splint Armor
 linter-yaml-title-alias: Clockwork Armor
-obsidianUIMode: preview
 ---
 # Clockwork Armor
 *Very rare (requires attunement)*  

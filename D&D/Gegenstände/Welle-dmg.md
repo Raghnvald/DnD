@@ -1,8 +1,8 @@
 ---
 cssclasses:
   - json5e-item
-Bezeichnung: Wave
-Typ: Nahkampf-Kriegswaffe
+Bezeichnung: Welle
+Kategorie: Nahkampf-Kriegswaffe
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -12,7 +12,6 @@ tags:
 aliases:
   - Wave
 linter-yaml-title-alias: Wave
-obsidianUIMode: preview
 ---
 # Wave
 *Weapon ([trident](/3-Mechanics/CLI/items/trident.md)), legendary (requires attunement by a creature that worships a god of the sea)*  

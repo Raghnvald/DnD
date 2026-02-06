@@ -9,7 +9,6 @@ tags:
 aliases:
   - Soul Bag
 linter-yaml-title-alias: Soul Bag
-obsidianUIMode: preview
 ---
 # Soul Bag
 *Very rare*  

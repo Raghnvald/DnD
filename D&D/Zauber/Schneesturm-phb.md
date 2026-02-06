@@ -27,7 +27,6 @@ classes:
 aliases:
   - Sleet Storm
 linter-yaml-title-alias: Sleet Storm
-obsidianUIMode: preview
 ---
 # Sleet Storm
 *3rd-level, Conjuration*  

@@ -15,7 +15,6 @@ classes:
 aliases:
   - Awaken
 linter-yaml-title-alias: Erwecken
-obsidianUIMode: preview
 ---
 # Erwecken
 *Verwandlung des 5. Grades*  

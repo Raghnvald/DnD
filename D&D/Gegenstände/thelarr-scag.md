@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Thelarr
+Kategorie: Werkzeug
 tags:
   - Gegenstand/Ausrüstung/Instrument
   - Gegenstand/Seltenheit/keine
@@ -9,7 +10,6 @@ tags:
 aliases:
   - Thelarr
 linter-yaml-title-alias: Thelarr
-obsidianUIMode: preview
 ---
 # Thelarr
 *Instrument*  

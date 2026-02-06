@@ -1,8 +1,8 @@
 ---
 cssclasses:
   - json5e-item
-Bezeichnung: Scimitar of Speed
-Typ: Nahkampf-Kriegswaffe
+Bezeichnung: Krummsäbel der Geschwindigkeit
+Kategorie: Nahkampf-Kriegswaffe
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
@@ -12,7 +12,6 @@ tags:
 aliases:
   - Scimitar of Speed
 linter-yaml-title-alias: Scimitar of Speed
-obsidianUIMode: preview
 ---
 # Scimitar of Speed
 *Weapon ([scimitar](/3-Mechanics/CLI/items/scimitar.md)), major, very rare (requires attunement)*  

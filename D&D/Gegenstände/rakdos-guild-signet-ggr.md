@@ -10,7 +10,6 @@ tags:
 aliases:
   - Rakdos Guild Signet
 linter-yaml-title-alias: Rakdos Guild Signet
-obsidianUIMode: preview
 ---
 # Rakdos Guild Signet
 *Ring, uncommon (requires attunement)*  

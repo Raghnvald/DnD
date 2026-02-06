@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-race
+  - json5e-race
 tags:
-- Quelle/5e/ggr
-- Rasse/centaur
+  - Quelle/5e/ggr
+  - Rasse/centaur
 aliases:
-- Centaur
+  - Centaur
 ---
 # Centaur
 *Source: Guildmasters' Guide to Ravnica p. 15*  

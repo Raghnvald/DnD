@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Sword of Sharpness
-Typ: Nahkampf-Kriegswaffe (generisch)
+Kategorie: Nahkampf-Kriegswaffe (generisch)
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten

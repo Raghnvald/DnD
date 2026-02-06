@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Quelle/5e/phb
+  - Quelle/5e/phb
 aliases:
-- Ability Checks; Typical Difficulty Classes
+  - Ability Checks; Typical Difficulty Classes
 ---
 # Ability Checks; Typical Difficulty Classes
 *Source: Player's Handbook p. 174. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)* 

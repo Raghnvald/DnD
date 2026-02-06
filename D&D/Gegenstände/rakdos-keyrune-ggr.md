@@ -9,7 +9,6 @@ tags:
 aliases:
   - Rakdos Keyrune
 linter-yaml-title-alias: Rakdos Keyrune
-obsidianUIMode: preview
 ---
 # Rakdos Keyrune
 *Wondrous item, uncommon (requires attunement by a member of the Rakdos guild)*  

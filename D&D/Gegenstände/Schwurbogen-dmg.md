@@ -1,8 +1,8 @@
 ---
 cssclasses:
   - json5e-item
-Bezeichnung: Oathbow
-Typ: Fernkampf-Kriegswaffe
+Bezeichnung: Schwurbogen
+Kategorie: Fernkampf-Kriegswaffe
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
@@ -12,7 +12,6 @@ tags:
 aliases:
   - Oathbow
 linter-yaml-title-alias: Oathbow
-obsidianUIMode: preview
 ---
 # Oathbow
 *Weapon ([longbow](/3-Mechanics/CLI/items/longbow.md)), major, very rare (requires attunement)*  

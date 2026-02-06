@@ -9,7 +9,6 @@ tags:
 aliases:
   - Shrieking Greaves
 linter-yaml-title-alias: Shrieking Greaves
-obsidianUIMode: preview
 ---
 # Shrieking Greaves
 *Wondrous item, cursed item, rare (requires attunement)*  

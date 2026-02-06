@@ -9,7 +9,6 @@ tags:
 aliases:
   - Potion of Possibility
 linter-yaml-title-alias: Potion of Possibility
-obsidianUIMode: preview
 ---
 # Potion of Possibility
 *Potion, very rare*  

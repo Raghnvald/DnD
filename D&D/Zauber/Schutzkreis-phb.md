@@ -25,7 +25,6 @@ classes:
 aliases:
   - Magic Circle
 linter-yaml-title-alias: Magic Circle
-obsidianUIMode: preview
 ---
 # Magic Circle
 *3rd-level, Abjuration*  

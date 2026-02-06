@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-race
+  - json5e-race
 tags:
-- Quelle/5e/ggr
-- Rasse/simic-hybrid
+  - Quelle/5e/ggr
+  - Rasse/simic-hybrid
 aliases:
-- Simic Hybrid
+  - Simic Hybrid
 ---
 # Simic Hybrid
 *Source: Guildmasters' Guide to Ravnica p. 20*  

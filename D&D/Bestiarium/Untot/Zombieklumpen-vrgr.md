@@ -2,7 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Zombie Clot
-Typ: Untoter
+Kategorie: Untoter
 Größe: Riesig
 HG: 6
 Habitat:

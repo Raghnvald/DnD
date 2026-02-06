@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Duskcrusher
-Typ: Nahkampf-Kriegswaffe
+Kategorie: Nahkampf-Kriegswaffe
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
@@ -12,7 +12,6 @@ tags:
 aliases:
   - Duskcrusher
 linter-yaml-title-alias: Duskcrusher
-obsidianUIMode: preview
 ---
 # Duskcrusher
 *Weapon ([warhammer](/3-Mechanics/CLI/items/warhammer-xphb.md)), very rare (requires attunement)*  

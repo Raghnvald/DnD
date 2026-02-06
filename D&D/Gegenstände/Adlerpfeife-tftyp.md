@@ -8,7 +8,6 @@ tags:
 aliases:
   - Eagle Whistle
 linter-yaml-title-alias: Eagle Whistle
-obsidianUIMode: preview
 ---
 # Eagle Whistle
 *Wondrous item, rare*  

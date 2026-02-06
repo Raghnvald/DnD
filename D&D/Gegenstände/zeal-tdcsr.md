@@ -9,7 +9,6 @@ tags:
 aliases:
   - Zeal
 linter-yaml-title-alias: Zeal
-obsidianUIMode: preview
 ---
 # Zeal
 *Illegal drug*  

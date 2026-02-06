@@ -9,7 +9,6 @@ tags:
 aliases:
   - Spyglass
 linter-yaml-title-alias: Spyglass
-obsidianUIMode: preview
 ---
 # Spyglass
 *Adventuring gear*  

@@ -19,7 +19,6 @@ classes:
 aliases:
   - Mass Cure Wounds
 linter-yaml-title-alias: Mass Cure Wounds
-obsidianUIMode: preview
 ---
 # Mass Cure Wounds
 *5th-level, Evocation*  

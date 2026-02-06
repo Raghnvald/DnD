@@ -9,7 +9,6 @@ tags:
 aliases:
   - +2 Fate Dealer's Deck
 linter-yaml-title-alias: +2 Fate Dealer's Deck
-obsidianUIMode: preview
 ---
 # +2 Fate Dealer's Deck
 *Wondrous item, very rare (requires attunement by a cleric or paladin)*  

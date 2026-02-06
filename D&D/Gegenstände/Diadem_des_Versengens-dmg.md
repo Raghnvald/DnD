@@ -8,7 +8,6 @@ tags:
 aliases:
   - Diadem des Versengens
 linter-yaml-title-alias: Diadem des Versengens
-obsidianUIMode: preview
 ---
 # Diadem des Versengens
 *Wundersamer Gegenstand, ungewöhnlich*  

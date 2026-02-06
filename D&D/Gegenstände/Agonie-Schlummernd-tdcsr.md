@@ -1,8 +1,8 @@
 ---
 cssclasses:
   - json5e-item
-Bezeichnung: Agony (Dormant)
-Typ: Nahkampf-Kriegswaffe
+Bezeichnung: Agony (Schlummernd)
+Kategorie: Nahkampf-Kriegswaffe
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -12,7 +12,6 @@ tags:
 aliases:
   - Agony (Dormant)
 linter-yaml-title-alias: Agony (Dormant)
-obsidianUIMode: preview
 ---
 # Agony (Dormant)
 *Weapon ([flail](/3-Mechanics/CLI/items/flail-xphb.md)), legendary (requires attunement by a creature of non-good alignment)*  

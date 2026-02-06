@@ -15,7 +15,6 @@ classes:
 aliases:
   - Tsunami
 linter-yaml-title-alias: Tsunami
-obsidianUIMode: preview
 ---
 # Tsunami
 *8th-level, Conjuration*  

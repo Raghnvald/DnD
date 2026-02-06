@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-hazard
+  - json5e-hazard
 tags:
-- Quelle/5e/xge
-- Kompendium/Bedrohung/smpl
+  - Quelle/5e/xge
+  - Kompendium/Bedrohung/smpl
 aliases:
-- Net Trap
+  - Net Trap
 ---
 # Net Trap
 *Generic Hazard*  

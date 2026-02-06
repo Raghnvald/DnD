@@ -71,12 +71,12 @@ Die Bastion eines Charakters hat anfangs zwei GratisBasiseinrichtungen, die der 
 
 ### Basiseinrichtungen
 
-- [Esszimmer](Bastionen/Esszimmer)
-- [Innenhof](Bastionen/Innenhof)
-- [Küche](Bastionen/Küche)
-- [Lagerraum](Bastionen/Lagerraum)
-- [Schlafzimmer](Bastionen/Schlafzimmer)
-- [Wohnzimmer](Bastionen/Wohnzimmer)
+- [Esszimmer](Esszimmer.md)
+- [Innenhof](Innenhof.md)
+- [Küche](Küche.md)
+- [Lagerraum](Lagerraum.md)
+- [Schlafzimmer](Schlafzimmer.md)
+- [Wohnzimmer](Wohnzimmer.md)
 
 Basiseinrichtungen verfügen über nichtmagische Möbel und Ausstattungen, die zur Einrichtung passen.
 

@@ -11,7 +11,6 @@ tags:
 aliases:
   - Voidwalker Armor
 linter-yaml-title-alias: Voidwalker Armor
-obsidianUIMode: preview
 ---
 # Voidwalker Armor
 *Light armor (studded leather armor), cursed item, rare (requires attunement)*  

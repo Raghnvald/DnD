@@ -19,7 +19,6 @@ classes:
 aliases:
   - Gate
 linter-yaml-title-alias: Gate
-obsidianUIMode: preview
 ---
 # Gate
 *9th-level, Conjuration*  

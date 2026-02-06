@@ -1,7 +1,7 @@
 ---
 cssclasses: dnd5e-compendium
 Bezeichnung: Ritterrüstung
-Typ: Rüstung
+Kategorie: Rüstung
 Rüstung: Schwer
 Eigenschaften: n/v
 Kst.: 1.500 GM

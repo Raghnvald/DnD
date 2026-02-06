@@ -27,7 +27,6 @@ aliases:
   - Feywrought Splint Armor
   - Feywrought Studded Leather Armor
 linter-yaml-title-alias: Feywrought Armor
-obsidianUIMode: preview
 ---
 # Feywrought Armor
 *Rare (requires attunement)*  

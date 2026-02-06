@@ -9,7 +9,6 @@ tags:
 aliases:
   - Shard of the Ise Rune
 linter-yaml-title-alias: Shard of the Ise Rune
-obsidianUIMode: preview
 ---
 # Shard of the Ise Rune
 *Wondrous item, very rare (requires attunement)*  

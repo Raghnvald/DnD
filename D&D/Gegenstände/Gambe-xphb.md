@@ -9,7 +9,6 @@ tags:
 aliases:
   - Viol
 linter-yaml-title-alias: Viol
-obsidianUIMode: preview
 ---
 # Viol
 *Instrument*  

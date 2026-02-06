@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Gold jewelry box with platinum filigree
+Kategorie: Kunstobjekt
 tags:
   - Gegenstand/Ausrüstung/treasure-art-object
   - Gegenstand/Seltenheit/keine
@@ -9,7 +10,6 @@ tags:
 aliases:
   - Gold jewelry box with platinum filigree
 linter-yaml-title-alias: Gold jewelry box with platinum filigree
-obsidianUIMode: preview
 ---
 # Gold jewelry box with platinum filigree
 *Treasure (art object)*  

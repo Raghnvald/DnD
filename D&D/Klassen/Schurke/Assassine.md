@@ -10,7 +10,7 @@ _Quelle:_ Spielerhandbuch
 Du konzentrierst dein Training auf die grausame Kunst des Tötens. Es gibt sehr unterschiedliche Schurken, die diesem Archetyp angehören: Auftragsmörder, Spione, Kopfgeldjäger und sogar speziell erwählte Priester, die ausgebildet werden, um die Feinde ihrer Gottheit auszulöschen. Heimlichkeit, Gift und Verkleidung helfen dir, deine Gegner mit tödlicher Effizienz zu eliminieren.
 
 #### Zusätzliche Übung
-Bei der Wahl dieses Archetyps auf der 3. Stufe wirst du geübt im Umgang mit der [[Verkleidungsausrüstung]] und dem [[Giftmischerwerkzeug]].
+Bei der Wahl dieses Archetyps auf der 3. Stufe wirst du geübt im Umgang mit der [[Verkleidungsausrüstung]] und dem [[Giftmischerausrüstung-old]].
 
 #### Attentat
 Ebenfalls ab der 3. Stufe bist du am tödlichsten, wenn du deine Feinde kalt erwischst. Du bist im Vorteil, bei Angriffswürfen gegen Kreaturen, die in diesem Kampf noch keinen Zug ausgeführt haben. Ausserdem ist jeder Treffer, den du gegen einen überraschten Gegner erzielst, ein kritischer Treffer.

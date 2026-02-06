@@ -1,6 +1,6 @@
 ---
 Bezeichnung: Ringpanzer
-Typ: Rüstung
+Kategorie: Rüstung
 Rüstung: Schwer
 Eigenschaften: n/v
 Kst.: 1.500 GM
@@ -13,7 +13,7 @@ tags:
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - "Ring Mail"
+  - Ring Mail
   - Ring Mail
 linter-yaml-title-alias: Ring Mail
 ---

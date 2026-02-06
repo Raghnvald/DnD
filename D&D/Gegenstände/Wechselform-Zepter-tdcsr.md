@@ -8,7 +8,6 @@ tags:
 aliases:
   - Rod of Mercurial Form
 linter-yaml-title-alias: Rod of Mercurial Form
-obsidianUIMode: preview
 ---
 # Rod of Mercurial Form
 *Wondrous item, uncommon*  

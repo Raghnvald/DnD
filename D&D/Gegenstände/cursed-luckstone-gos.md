@@ -9,7 +9,6 @@ tags:
 aliases:
   - Cursed Luckstone
 linter-yaml-title-alias: Cursed Luckstone
-obsidianUIMode: preview
 ---
 # Cursed Luckstone
 *Wondrous item, cursed item, uncommon (requires attunement)*  

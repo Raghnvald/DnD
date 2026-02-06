@@ -8,7 +8,6 @@ tags:
 aliases:
   - Horseshoes of Speed
 linter-yaml-title-alias: Horseshoes of Speed
-obsidianUIMode: preview
 ---
 # Horseshoes of Speed
 *Wondrous item, minor, rare*  

@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Truth Serum
+Kategorie: Gift
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
@@ -9,7 +10,6 @@ tags:
 aliases:
   - Truth Serum
 linter-yaml-title-alias: Truth Serum
-obsidianUIMode: preview
 ---
 # Truth Serum
 *Adventuring gear, poison (ingested)*  

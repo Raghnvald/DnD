@@ -11,7 +11,6 @@ tags:
 aliases:
   - Sun Staff
 linter-yaml-title-alias: Sun Staff
-obsidianUIMode: preview
 ---
 # Sun Staff
 *Staff, weapon, rare (requires attunement by a cleric, druid, or wizard)*  

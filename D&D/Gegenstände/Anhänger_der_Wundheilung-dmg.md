@@ -1,6 +1,6 @@
 ---
 Bezeichnung: Anhänger der Wundheilung
-Typ: Wundersamer Gegenstand
+Kategorie: Wundersamer Gegenstand
 Eigenschaften: erfordert Einstimmung
 Kst.: /
 Gew.: 0,5 kg
@@ -9,7 +9,6 @@ tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/dmg
 aliases:
-  - Anhänger der Wundheilung
   - Periapt of Wound Closure
 linter-yaml-title-alias: Anhänger der Wundheilung
 ---

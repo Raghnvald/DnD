@@ -1,7 +1,7 @@
 ---
 Bezeichnung: Angelausrüstung
-Typ: Abenteuerausrüstung
-Eigenschaften: n/v
+Kategorie: Abenteuerausrüstung
+Eigenschaften: /
 Kst.: 1 GM
 Gew.: 2,0 kg
 tags:

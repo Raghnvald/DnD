@@ -9,7 +9,6 @@ tags:
 aliases:
   - Psi Crystal
 linter-yaml-title-alias: Psi Crystal
-obsidianUIMode: preview
 ---
 # Psi Crystal
 *Wondrous item, uncommon (requires attunement by a creature with an intelligence score of 3 or higher)*  

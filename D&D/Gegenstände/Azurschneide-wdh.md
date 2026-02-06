@@ -1,8 +1,8 @@
 ---
 cssclasses:
   - json5e-item
-Bezeichnung: Azuredge
-Typ: Nahkampf-Kriegswaffe
+Bezeichnung: Azurschneide
+Kategorie: Nahkampf-Kriegswaffe
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -12,7 +12,6 @@ tags:
 aliases:
   - Azuredge
 linter-yaml-title-alias: Azuredge
-obsidianUIMode: preview
 ---
 # Azuredge
 *Weapon (battleaxe), legendary (requires attunement)*  

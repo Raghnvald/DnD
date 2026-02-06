@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Zauber/list/subrace/elf-pallid
+  - Zauber/list/subrace/elf-pallid
 aliases:
-- Spells for Elf (Pallid)
+  - Spells for Elf (Pallid)
 ---
 # Spells for Elf (Pallid)
 

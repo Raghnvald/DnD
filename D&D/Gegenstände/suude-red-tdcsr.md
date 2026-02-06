@@ -9,7 +9,6 @@ tags:
 aliases:
   - Suude (Red)
 linter-yaml-title-alias: Suude (Red)
-obsidianUIMode: preview
 ---
 # Suude (Red)
 *Illegal drug*  

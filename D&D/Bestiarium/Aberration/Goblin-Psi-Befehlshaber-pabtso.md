@@ -1,6 +1,6 @@
 ---
 Name: Goblin-Psi-Befehlshaber
-Typ: Aberration (Goblinoid)
+Kategorie: Aberration (Goblinoid)
 Größe: Klein
 HG: 4
 status: WIP

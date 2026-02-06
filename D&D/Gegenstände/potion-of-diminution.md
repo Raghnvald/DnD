@@ -9,7 +9,6 @@ tags:
 aliases:
   - Potion of Diminution
 linter-yaml-title-alias: Potion of Diminution
-obsidianUIMode: preview
 ---
 # Potion of Diminution
 *Potion, minor, rare*  

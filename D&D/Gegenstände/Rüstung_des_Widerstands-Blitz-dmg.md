@@ -27,7 +27,6 @@ aliases:
   - Splint Armor of Lightning Resistance
   - Studded Leather Armor of Lightning Resistance
 linter-yaml-title-alias: Armor of Lightning Resistance
-obsidianUIMode: preview
 ---
 # Armor of Lightning Resistance
 *Major, rare (requires attunement)*  

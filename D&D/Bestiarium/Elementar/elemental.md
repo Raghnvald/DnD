@@ -1,13 +1,12 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
-- json5e-index
+  - json5e-note
+  - json5e-index
 ---
 # Index of Elemental
 
 - [Aarakocra Aeromancer](./aarakocra-aeromancer-xmm.md)
-- [Aarakocra Skirmisher](./aarakocra-skirmisher-xmm.md)
+- [Aarakocra Skirmisher](Aarakocra-Scharmützler-xmm.md)
 - [Air Elemental Myrmidon](./air-elemental-myrmidon-mpmm.md)
 - [Air Elemental](./air-elemental-xmm.md)
 - [Animated Breath](./animated-breath-ftd.md)
@@ -32,7 +31,7 @@ cssclasses:
 - [Earth Elemental](./earth-elemental-xmm.md)
 - [Efreeti](./efreeti-xmm.md)
 - [Elder Tempest](./elder-tempest-mpmm.md)
-- [Elemental Cataclysm](./elemental-cataclysm-xmm.md)
+- [Elemental Cataclysm](Elementarer_Kataklysmus-xmm.md)
 - [Elemental Spirit (Air)](./elemental-spirit-air-xphb.md)
 - [Elemental Spirit (Earth)](./elemental-spirit-earth-xphb.md)
 - [Elemental Spirit (Fire)](./elemental-spirit-fire-xphb.md)
@@ -45,7 +44,7 @@ cssclasses:
 - [Flail Snail](Flegelschnecke-mpmm.md)
 - [Fluxcharger](./fluxcharger-ggr.md)
 - [Frost Salamander](./frost-salamander-mpmm.md)
-- [Galeb Duhr](./galeb-duhr-xmm.md)
+- [Galeb Duhr](Galeb_Duhr-xmm.md)
 - [Galvanice Weird](./galvanice-weird-ggr.md)
 - [Gargoyle](./gargoyle-xmm.md)
 - [Giant Strider](Riesenschreiter-mpmm.md)
@@ -58,7 +57,7 @@ cssclasses:
 - [Magma Landshark](./magma-landshark-tdcsr.md)
 - [Magma Mephit](./magma-mephit-xmm.md)
 - [Magmin](./magmin-xmm.md)
-- [Marid](./marid-xmm.md)
+- [Marid](Marid-xmm.md)
 - [Merfolk Skirmisher](./merfolk-skirmisher-xmm.md)
 - [Merfolk Wavebender](./merfolk-wavebender-xmm.md)
 - [Mist Hulk](Nebelkoloss-bgg.md)
@@ -73,7 +72,7 @@ cssclasses:
 - [Steam Mephit](./steam-mephit-xmm.md)
 - [Water Elemental Myrmidon](./water-elemental-myrmidon-mpmm.md)
 - [Water Elemental](./water-elemental-xmm.md)
-- [Water Weird](./water-weird-xmm.md)
+- [Water Weird](Wassergeist-xmm.md)
 - [Wildfire Spirit](./wildfire-spirit-tce.md)
 - [Xorn](./xorn-xmm.md)
 - [Young Magma Landshark](./young-magma-landshark-tdcsr.md)

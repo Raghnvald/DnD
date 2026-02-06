@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-race
+  - json5e-race
 tags:
-- Quelle/5e/vgm
-- Rasse/orc
+  - Quelle/5e/vgm
+  - Rasse/orc
 aliases:
-- Orc
+  - Orc
 ---
 # Orc
 *Source: Volo's Guide to Monsters p. 120*  

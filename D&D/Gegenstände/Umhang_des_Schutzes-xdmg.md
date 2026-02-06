@@ -9,7 +9,6 @@ tags:
 aliases:
   - Cloak of Protection
 linter-yaml-title-alias: Cloak of Protection
-obsidianUIMode: preview
 ---
 # Cloak of Protection
 *Wondrous item, uncommon (requires attunement)*  

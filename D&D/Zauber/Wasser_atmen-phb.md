@@ -28,7 +28,6 @@ classes:
 aliases:
   - Water Breathing
 linter-yaml-title-alias: Water Breathing
-obsidianUIMode: preview
 ---
 # Water Breathing
 *3rd-level, Transmutation (ritual)*  

@@ -9,7 +9,6 @@ tags:
 aliases:
   - Potion of Fire Giant Strength
 linter-yaml-title-alias: Potion of Fire Giant Strength
-obsidianUIMode: preview
 ---
 # Potion of Fire Giant Strength
 *Potion, minor, rare*  

@@ -22,7 +22,6 @@ classes:
 aliases:
   - Blur
 linter-yaml-title-alias: Verschwimmen
-obsidianUIMode: preview
 ---
 # Verschwimmen
 *Illusion des 2. Grades*

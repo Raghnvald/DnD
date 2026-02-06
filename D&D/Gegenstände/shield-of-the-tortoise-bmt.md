@@ -11,7 +11,6 @@ tags:
 aliases:
   - Shield of the Tortoise
 linter-yaml-title-alias: Shield of the Tortoise
-obsidianUIMode: preview
 ---
 # Shield of the Tortoise
 *Armor (shield), cursed item, uncommon (requires attunement)*  

@@ -9,7 +9,6 @@ tags:
 aliases:
   - Mistral Mantle
 linter-yaml-title-alias: Mistral Mantle
-obsidianUIMode: preview
 ---
 # Mistral Mantle
 *Wondrous item, very rare (requires attunement)*  

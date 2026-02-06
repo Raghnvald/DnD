@@ -9,7 +9,6 @@ tags:
 aliases:
   - Potion of Gaseous Form
 linter-yaml-title-alias: Potion of Gaseous Form
-obsidianUIMode: preview
 ---
 # Potion of Gaseous Form
 *Potion, minor, rare*  

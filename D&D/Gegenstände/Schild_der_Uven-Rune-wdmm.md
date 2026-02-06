@@ -1,6 +1,6 @@
 ---
 Bezeichnung: Schild der Uven-Rune
-Typ: Rüstung
+Kategorie: Rüstung
 Rüstung: Schild
 Eigenschaften: Erfordert Einstimmung
 Kst.: /

@@ -9,7 +9,6 @@ tags:
 aliases:
   - Talisman of Ultimate Evil
 linter-yaml-title-alias: Talisman of Ultimate Evil
-obsidianUIMode: preview
 ---
 # Talisman of Ultimate Evil
 *Wondrous item, major, legendary (requires attunement by a creature of evil alignment)*  

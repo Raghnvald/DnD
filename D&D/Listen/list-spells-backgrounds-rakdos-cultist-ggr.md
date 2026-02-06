@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Zauber/list/background/rakdos-cultist
+  - Zauber/list/background/rakdos-cultist
 aliases:
-- Spells for Rakdos Cultist
+  - Spells for Rakdos Cultist
 ---
 # Spells for Rakdos Cultist
 

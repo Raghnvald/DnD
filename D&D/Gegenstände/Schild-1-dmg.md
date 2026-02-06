@@ -1,6 +1,6 @@
 ---
 Bezeichnung: Schild +1
-Typ: Rüstung
+Kategorie: Rüstung
 Rüstung: Schild
 Eigenschaften: /
 Kst.: /

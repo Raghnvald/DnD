@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Imbued Wood (Irian Rosewood)
+Kategorie: Wundersamer Gegenstand
 tags:
   - Gegenstand/Ausrüstung/Zauberfokus
   - Gegenstand/Einstimmung/required
@@ -15,7 +16,6 @@ aliases:
   - Irian Rosewood Staff
   - Irian Rosewood Wand
 linter-yaml-title-alias: Imbued Wood (Irian Rosewood)
-obsidianUIMode: preview
 ---
 # Imbued Wood (Irian Rosewood)
 *Wondrous item, common (requires attunement)*  

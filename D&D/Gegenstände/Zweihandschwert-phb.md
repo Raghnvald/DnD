@@ -1,6 +1,6 @@
 ---
 Bezeichnung: Zweihandschwert
-Typ: Nahkampf-Kriegswaffe
+Kategorie: Nahkampf-Kriegswaffe
 Schaden: 2W6 Hieb
 Eigenschaften: Schwer, Zweihändig
 Kst.: 50 GM
@@ -11,8 +11,7 @@ tags:
   - Gegenstand/Waffe/Nahkampf
   - Quelle/5e/phb
 aliases:
-  - "Greatsword"
-  - Zweihandschwert
+  - Greatsword
 linter-yaml-title-alias: Zweihandschwert
 ---
 # Zweihandschwert

@@ -9,7 +9,6 @@ tags:
 aliases:
   - Map or Scroll Case
 linter-yaml-title-alias: Map or Scroll Case
-obsidianUIMode: preview
 ---
 # Map or Scroll Case
 *Adventuring gear*  

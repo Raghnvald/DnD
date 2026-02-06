@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-race
+  - json5e-race
 tags:
-- Quelle/5e/dmg
-- Rasse/aasimar
+  - Quelle/5e/dmg
+  - Rasse/aasimar
 aliases:
-- Aasimar
+  - Aasimar
 ---
 # Aasimar
 *Source: Dungeon Master's Guide p. 286*  

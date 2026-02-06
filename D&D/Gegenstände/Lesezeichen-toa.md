@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Lesezeichen
-Typ: Einfache Nahkampfwaffe
+Kategorie: Einfache Nahkampfwaffe
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -12,7 +12,6 @@ tags:
 aliases:
   - Bookmark
 linter-yaml-title-alias: Bookmark
-obsidianUIMode: preview
 ---
 # Lesezeichen
 *Weapon (dagger), legendary (requires attunement)*  

@@ -9,7 +9,6 @@ tags:
 aliases:
   - Gold cup set with emeralds
 linter-yaml-title-alias: Gold cup set with emeralds
-obsidianUIMode: preview
 ---
 # Gold cup set with emeralds
 *Treasure (art object)*  

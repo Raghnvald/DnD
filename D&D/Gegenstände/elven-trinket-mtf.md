@@ -9,7 +9,6 @@ tags:
 aliases:
   - Elven Trinket
 linter-yaml-title-alias: Elven Trinket
-obsidianUIMode: preview
 ---
 # Elven Trinket
 *Adventuring gear*  

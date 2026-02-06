@@ -8,7 +8,6 @@ tags:
 aliases:
   - Star Card
 linter-yaml-title-alias: Star Card
-obsidianUIMode: preview
 ---
 # Star Card
 *Wondrous item, legendary*  

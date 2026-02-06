@@ -2,7 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Ancient Emerald Dragon
-Typ: Drache (Edelstein)
+Kategorie: Drache (Edelstein)
 status: WIP
 tags:
   - Monster/Größe/Gigantisch

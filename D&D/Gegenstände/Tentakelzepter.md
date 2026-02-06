@@ -10,7 +10,6 @@ tags:
 aliases:
   - Tentacle Rod
 linter-yaml-title-alias: Tentacle Rod
-obsidianUIMode: preview
 ---
 # Tentacle Rod
 *Rod, major, rare (requires attunement)*  

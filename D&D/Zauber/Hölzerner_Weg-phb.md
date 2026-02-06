@@ -23,7 +23,6 @@ classes:
 aliases:
   - Tree Stride
 linter-yaml-title-alias: Tree Stride
-obsidianUIMode: preview
 ---
 # Tree Stride
 *5th-level, Conjuration*  

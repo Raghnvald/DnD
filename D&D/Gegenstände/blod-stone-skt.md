@@ -9,7 +9,6 @@ tags:
 aliases:
   - Blod Stone
 linter-yaml-title-alias: Blod Stone
-obsidianUIMode: preview
 ---
 # Blod Stone
 *Wondrous item, rare (requires attunement)*  

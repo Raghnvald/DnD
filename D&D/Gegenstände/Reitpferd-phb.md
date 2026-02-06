@@ -1,7 +1,11 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Riding Horse
+Bezeichnung: Reitpferd
+Kategorie: Reit- und Lastentier
+Eigenschaften: /
+Kst.: 75 GM
+Gew.: /
+Bew.: 18 m
+Traglast: 480 Pfd.
 tags:
   - Gegenstand/Ausrüstung/Reit-und-Lastentier
   - Gegenstand/Seltenheit/keine
@@ -9,11 +13,10 @@ tags:
 aliases:
   - Riding Horse
 linter-yaml-title-alias: Riding Horse
-obsidianUIMode: preview
 ---
-# Riding Horse
-*Mount*  
+# Reitpferd
+*Reit- und Lasttiere*  
 
-- **Cost**: 75 gp
+- **Kosten**: 75 GM
 
-*Source: Player's Handbook p. 157. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+*Quelle: Spielerhandbuch S. 157. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*

@@ -1,7 +1,9 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Emerald
+Bezeichnung: Smaragd
+Kategorie: Edelstein
+Eigenschaften: /
+Kst.: 1.000 GM
+Gew.: /
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone
   - Gegenstand/Seltenheit/keine
@@ -9,13 +11,12 @@ tags:
 aliases:
   - Emerald
 linter-yaml-title-alias: Emerald
-obsidianUIMode: preview
 ---
-# Emerald
-*Treasure (gemstone)*  
+# Smaragd
+*Schatz (Edelstein)*  
 
-- **Cost**: 1,000 gp
+- **Kosten**: 1.000 GM
 
-A transparent deep bright green gemstone.
+Ein durchsichtiger Edelstein in dunklem, leuchtenden Grün.
 
-*Source: Dungeon Master's Guide p. 134*
+*Quelle: Spielleiterhandbuch S. 134*

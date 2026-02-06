@@ -9,7 +9,6 @@ tags:
 aliases:
   - Orb of Skoraeus
 linter-yaml-title-alias: Orb of Skoraeus
-obsidianUIMode: preview
 ---
 # Orb of Skoraeus
 *Wondrous item, legendary (requires attunement by a spellcaster)*  

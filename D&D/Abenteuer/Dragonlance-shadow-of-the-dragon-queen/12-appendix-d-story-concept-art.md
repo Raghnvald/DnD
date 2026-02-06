@@ -1,10 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- ttrpg-cli/compendium/src/5e/dsotdq
+  - ttrpg-cli/compendium/src/5e/dsotdq
 aliases:
-- Appendix D: Story Concept Art
+  - Appendix D: Story Concept Art
 ---
 # Appendix D: Story Concept Art
 *Source: Dragonlance: Shadow of the Dragon Queen, p. 220* 

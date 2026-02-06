@@ -10,7 +10,6 @@ tags:
 aliases:
   - Ring of Thunder Resistance
 linter-yaml-title-alias: Ring of Thunder Resistance
-obsidianUIMode: preview
 ---
 # Ring of Thunder Resistance
 *Ring, major, rare (requires attunement)*  

@@ -9,7 +9,6 @@ tags:
 aliases:
   - Sunbeam Compass
 linter-yaml-title-alias: Sunbeam Compass
-obsidianUIMode: preview
 ---
 # Sunbeam Compass
 *Wondrous item, other*  

@@ -32,7 +32,6 @@ classes:
 aliases:
   - Stoneskin
 linter-yaml-title-alias: Stoneskin
-obsidianUIMode: preview
 ---
 # Stoneskin
 *4th-level, Abjuration*  

@@ -9,7 +9,6 @@ tags:
 aliases:
   - Blue Spinel
 linter-yaml-title-alias: Blue Spinel
-obsidianUIMode: preview
 ---
 # Blue Spinel
 *Treasure (gemstone)*  

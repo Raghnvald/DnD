@@ -27,7 +27,6 @@ classes:
 aliases:
   - Locate Object
 linter-yaml-title-alias: Locate Object
-obsidianUIMode: preview
 ---
 # Locate Object
 *2nd-level, Divination*  

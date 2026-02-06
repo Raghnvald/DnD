@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Cape of the Mountebank
-  - Umhang des Scharlatans
 linter-yaml-title-alias: Umhang des Scharlatans
 ---
 # Umhang des Scharlatans

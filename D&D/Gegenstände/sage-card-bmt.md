@@ -8,7 +8,6 @@ tags:
 aliases:
   - Sage Card
 linter-yaml-title-alias: Sage Card
-obsidianUIMode: preview
 ---
 # Sage Card
 *Wondrous item, legendary*  

@@ -2,7 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Eidolon
-Typ: Untoter
+Kategorie: Untoter
 Größe: Mittelgroß
 HG: "12"
 Habitat:

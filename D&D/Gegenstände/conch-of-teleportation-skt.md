@@ -9,7 +9,6 @@ tags:
 aliases:
   - Conch of Teleportation
 linter-yaml-title-alias: Conch of Teleportation
-obsidianUIMode: preview
 ---
 # Conch of Teleportation
 *Wondrous item, very rare (requires attunement)*  

@@ -9,7 +9,6 @@ tags:
 aliases:
   - Wraps of Dyamak
 linter-yaml-title-alias: Wraps of Dyamak
-obsidianUIMode: preview
 ---
 # Wraps of Dyamak
 *Wondrous item, legendary (requires attunement by a monk)*  

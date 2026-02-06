@@ -9,7 +9,6 @@ tags:
 aliases:
   - Horn
 linter-yaml-title-alias: Horn
-obsidianUIMode: preview
 ---
 # Horn
 *Instrument*  

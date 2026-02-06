@@ -19,7 +19,6 @@ classes:
 aliases:
   - Revivify
 linter-yaml-title-alias: Revivify
-obsidianUIMode: preview
 ---
 # Revivify
 *3rd-level, Necromancy*  

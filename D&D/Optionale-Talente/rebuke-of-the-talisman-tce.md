@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-feat
+  - json5e-feat
 tags:
-- Quelle/5e/tce
-- Kompendium/Optionales/ei
+  - Quelle/5e/tce
+  - Kompendium/Optionales/ei
 aliases:
-- Rebuke of the Talisman
+  - Rebuke of the Talisman
 ---
 # Rebuke of the Talisman
 *Source: Tasha's Cauldron of Everything p. 71*  

@@ -8,7 +8,6 @@ tags:
 aliases:
   - Professor Orb
 linter-yaml-title-alias: Professor Orb
-obsidianUIMode: preview
 ---
 # Professor Orb
 *Wondrous item, rare*  

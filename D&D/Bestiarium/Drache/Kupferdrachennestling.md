@@ -2,7 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Copper Dragon Wyrmling
-Typ: Drache
+Kategorie: Drache
 Größe: Mittelgroß
 tags:
   - Monster/Größe/Mittelgroß

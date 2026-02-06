@@ -8,7 +8,6 @@ tags:
 aliases:
   - Horizon Puzzle Cube
 linter-yaml-title-alias: Horizon Puzzle Cube
-obsidianUIMode: preview
 ---
 # Horizon Puzzle Cube
 *Wondrous item*  

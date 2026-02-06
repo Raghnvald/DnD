@@ -8,7 +8,6 @@ tags:
 aliases:
   - Rope of Entanglement
 linter-yaml-title-alias: Rope of Entanglement
-obsidianUIMode: preview
 ---
 # Rope of Entanglement
 *Wondrous item, major, rare*  

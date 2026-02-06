@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Zauber/list/subclass/psi-warrior
+  - Zauber/list/subclass/psi-warrior
 aliases:
-- Spells for Psi Warrior
+  - Spells for Psi Warrior
 ---
 # Spells for Psi Warrior
 

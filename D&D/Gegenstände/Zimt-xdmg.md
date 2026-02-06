@@ -9,7 +9,6 @@ tags:
 aliases:
   - Cinnamon
 linter-yaml-title-alias: Cinnamon
-obsidianUIMode: preview
 ---
 # Cinnamon
 *Trade good*  

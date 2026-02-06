@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Imbued Wood (Shavarran Birch)
+Kategorie: Wundersamer Gegenstand
 tags:
   - Gegenstand/Ausrüstung/Zauberfokus
   - Gegenstand/Einstimmung/required
@@ -15,7 +16,6 @@ aliases:
   - Shavarran Birch Staff
   - Shavarran Birch Wand
 linter-yaml-title-alias: Imbued Wood (Shavarran Birch)
-obsidianUIMode: preview
 ---
 # Imbued Wood (Shavarran Birch)
 *Wondrous item, common (requires attunement)*  

@@ -10,7 +10,6 @@ tags:
 aliases:
   - Club
 linter-yaml-title-alias: Club
-obsidianUIMode: preview
 ---
 # Club
 *Weapon*  

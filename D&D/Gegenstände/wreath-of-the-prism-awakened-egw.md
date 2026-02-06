@@ -9,7 +9,6 @@ tags:
 aliases:
   - Wreath of the Prism (Awakened)
 linter-yaml-title-alias: Wreath of the Prism (Awakened)
-obsidianUIMode: preview
 ---
 # Wreath of the Prism (Awakened)
 *Wondrous item, legendary (requires attunement)*  

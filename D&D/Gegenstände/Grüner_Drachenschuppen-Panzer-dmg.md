@@ -11,7 +11,6 @@ tags:
 aliases:
   - Green Dragon Scale Mail
 linter-yaml-title-alias: Green Dragon Scale Mail
-obsidianUIMode: preview
 ---
 # Green Dragon Scale Mail
 *Medium armor, major, very rare (requires attunement)*  

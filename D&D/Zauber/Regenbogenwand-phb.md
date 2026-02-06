@@ -15,7 +15,6 @@ classes:
 aliases:
   - Prismatic Wall
 linter-yaml-title-alias: Prismatic Wall
-obsidianUIMode: preview
 ---
 # Prismatic Wall
 *9th-level, Abjuration*  

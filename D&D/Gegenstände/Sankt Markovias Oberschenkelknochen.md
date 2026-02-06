@@ -1,6 +1,6 @@
 ---
 Bezeichnung: Sankt Markovias Oberschenkelknochen
-Typ: Einfache Nahkampfwaffe
+Kategorie: Einfache Nahkampfwaffe
 Schaden: 1W6 Wucht
 Eigenschaften: erfordert Einstimmung
 Kst.: n/v

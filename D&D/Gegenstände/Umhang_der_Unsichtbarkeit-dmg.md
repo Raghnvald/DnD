@@ -9,7 +9,6 @@ tags:
 aliases:
   - Cloak of Invisibility
 linter-yaml-title-alias: Cloak of Invisibility
-obsidianUIMode: preview
 ---
 # Cloak of Invisibility
 *Wondrous item, major, legendary (requires attunement)*  

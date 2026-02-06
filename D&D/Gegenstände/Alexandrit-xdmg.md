@@ -9,7 +9,6 @@ tags:
 aliases:
   - Alexandrite
 linter-yaml-title-alias: Alexandrite
-obsidianUIMode: preview
 ---
 # Alexandrite
 *Treasure (gemstone)*  

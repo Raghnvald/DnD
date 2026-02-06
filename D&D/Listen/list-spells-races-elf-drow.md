@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Zauber/list/subrace/elf-drow
+  - Zauber/list/subrace/elf-drow
 aliases:
-- Spells for Elf (Drow)
+  - Spells for Elf (Drow)
 ---
 # Spells for Elf (Drow)
 

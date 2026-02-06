@@ -9,7 +9,6 @@ tags:
 aliases:
   - Flensing Claws (Large)
 linter-yaml-title-alias: Flensing Claws (Large)
-obsidianUIMode: preview
 ---
 # Flensing Claws (Large)
 

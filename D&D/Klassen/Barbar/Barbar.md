@@ -81,9 +81,9 @@ Du bist geübt im Umgang mit den folgenden Dingen, zusätzlich zu allen Übungen
 
 Du beginnst mit folgender Ausrüstung, zuzüglich zur Ausrüstung, die du über deinen Hintergrund erhältst:
 
--   (_a_) eine [Zweihandaxt](../../../Gegenstände/Zweihandaxt.md) oder (_b_) eine beliebige Nahkampf-Kriegswaffe
+-   (_a_) eine [Zweihandaxt-old](Zweihandaxt-old.md) oder (_b_) eine beliebige Nahkampf-Kriegswaffe
 -   (_a_) zwei [Beile](../../../Gegenstände/Beil.md) oder (_b_) eine beliebige einfache Waffe
--   Eine [Entdeckerausrüstung](../../../Gegenstände/Entdeckerausrüstung.md) und vier [Wurfspeere](../../../Gegenstände/Wurfspeer.md)
+-   Eine [Entdeckerausrüstung-old](Entdeckerausrüstung-old.md) und vier [Wurfspeere](Wurfspeer-old.md)
 
 Alternativ kannst du mit 2W4 × 10 Gold beginnen und deine eigene Ausrüstung wählen.
 

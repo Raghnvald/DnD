@@ -1,6 +1,6 @@
 ---
 Bezeichnung: Alchemiekrug
-Typ: Wundersamer Gegenstand
+Kategorie: Wundersamer Gegenstand
 Eigenschaften: n/v
 Kst.: n/v
 Gew.: 6,0 kg

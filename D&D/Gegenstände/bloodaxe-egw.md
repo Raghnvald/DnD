@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Bloodaxe
-Typ: Nahkampf-Kriegswaffe
+Kategorie: Nahkampf-Kriegswaffe
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
@@ -12,7 +12,6 @@ tags:
 aliases:
   - Bloodaxe
 linter-yaml-title-alias: Bloodaxe
-obsidianUIMode: preview
 ---
 # Bloodaxe
 *Weapon ([greataxe](/3-Mechanics/CLI/items/greataxe-xphb.md)), very rare (requires attunement)*  

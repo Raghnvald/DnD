@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Jade game board with solid gold playing pieces
+Kategorie: Kunstobjekt
 tags:
   - Gegenstand/Ausrüstung/treasure-art-object
   - Gegenstand/Seltenheit/keine
@@ -9,7 +10,6 @@ tags:
 aliases:
   - Jade game board with solid gold playing pieces
 linter-yaml-title-alias: Jade game board with solid gold playing pieces
-obsidianUIMode: preview
 ---
 # Jade game board with solid gold playing pieces
 *Treasure (art object)*  

@@ -1,6 +1,6 @@
 ---
 Bezeichnung: Trank des Widerstands
-Typ: Trank
+Kategorie: Trank
 Eigenschaften: n/v
 Kst.: 200 GM
 Gew.: 0,25 kg

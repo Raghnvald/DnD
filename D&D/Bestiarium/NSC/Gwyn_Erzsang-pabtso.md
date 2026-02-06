@@ -3,7 +3,7 @@ prefer-view: edit-source read
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Gwyn Erzsang
-Typ: Humanoid (Zwerg)
+Kategorie: Humanoid (Zwerg)
 Größe: Mittelgroß
 HG: 1/4
 Habitat:

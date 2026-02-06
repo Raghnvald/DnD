@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-race
+  - json5e-race
 tags:
-- Quelle/5e/vgm
-- Rasse/yuan-ti-pureblood
+  - Quelle/5e/vgm
+  - Rasse/yuan-ti-pureblood
 aliases:
-- Yuan-ti Pureblood
+  - Yuan-ti Pureblood
 ---
 # Yuan-ti Pureblood
 *Source: Volo's Guide to Monsters p. 120*  

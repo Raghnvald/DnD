@@ -9,7 +9,6 @@ tags:
 aliases:
   - Vial
 linter-yaml-title-alias: Vial
-obsidianUIMode: preview
 ---
 # Vial
 *Adventuring gear*  

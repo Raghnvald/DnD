@@ -1,7 +1,7 @@
 ---
 Bezeichnung: Zauberstab
-Typ: Arkaner Fokus
-Eigenschaften: n/v
+Kategorie: Arkaner Fokus
+Eigenschaften: /
 Kst.: 10 GM
 Gew.: 0,5 kg
 tags:

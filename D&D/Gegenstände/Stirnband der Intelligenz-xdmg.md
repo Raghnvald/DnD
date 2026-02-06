@@ -9,7 +9,6 @@ tags:
 aliases:
   - Headband of Intellect
 linter-yaml-title-alias: Headband of Intellect
-obsidianUIMode: preview
 ---
 # Headband of Intellect
 *Wondrous item, uncommon (requires attunement)*  

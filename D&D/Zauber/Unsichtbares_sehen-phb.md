@@ -21,7 +21,6 @@ classes:
 aliases:
   - See Invisibility
 linter-yaml-title-alias: See Invisibility
-obsidianUIMode: preview
 ---
 # See Invisibility
 *2nd-level, Divination*  

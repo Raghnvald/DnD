@@ -36,7 +36,6 @@ aliases:
   - Whip Armblade
   - Yklwa Armblade
 linter-yaml-title-alias: Armblade
-obsidianUIMode: preview
 ---
 # Armblade
 *Common (requires attunement by a warforged)*  

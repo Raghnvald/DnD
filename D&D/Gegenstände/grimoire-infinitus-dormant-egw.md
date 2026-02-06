@@ -9,7 +9,6 @@ tags:
 aliases:
   - Grimoire Infinitus (Dormant)
 linter-yaml-title-alias: Grimoire Infinitus (Dormant)
-obsidianUIMode: preview
 ---
 # Grimoire Infinitus (Dormant)
 *Wondrous item, legendary (requires attunement by a wizard)*  

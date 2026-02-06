@@ -9,7 +9,6 @@ tags:
 aliases:
   - Ioun Stone, Insight
 linter-yaml-title-alias: Ioun Stone, Insight
-obsidianUIMode: preview
 ---
 # Ioun Stone, Insight
 *Wondrous item, major, very rare (requires attunement)*  

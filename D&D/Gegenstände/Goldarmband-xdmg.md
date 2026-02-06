@@ -9,7 +9,6 @@ tags:
 aliases:
   - Gold bracelet
 linter-yaml-title-alias: Gold bracelet
-obsidianUIMode: preview
 ---
 # Gold bracelet
 *Treasure (art object)*  

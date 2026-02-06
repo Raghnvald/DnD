@@ -11,7 +11,6 @@ tags:
 aliases:
   - Gold Dragon Scale Mail
 linter-yaml-title-alias: Gold Dragon Scale Mail
-obsidianUIMode: preview
 ---
 # Gold Dragon Scale Mail
 *Medium armor, major, very rare (requires attunement)*  

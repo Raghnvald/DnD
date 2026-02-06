@@ -9,7 +9,6 @@ tags:
 aliases:
   - Willowshade Oil
 linter-yaml-title-alias: Willowshade Oil
-obsidianUIMode: preview
 ---
 # Willowshade Oil
 *Adventuring gear*  

@@ -1,10 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- ttrpg-cli/compendium/src/5e/dsotdq
+  - ttrpg-cli/compendium/src/5e/dsotdq
 aliases:
-- Chapter 7: Siege of Kalaman
+  - Chapter 7: Siege of Kalaman
 ---
 # Chapter 7: Siege of Kalaman
 *Source: Dragonlance: Shadow of the Dragon Queen, p. 161* 

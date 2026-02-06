@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Baleful Talon
-Typ: Einfache Nahkampfwaffe
+Kategorie: Einfache Nahkampfwaffe
 tags:
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/Waffe/Einfach
@@ -11,7 +11,6 @@ tags:
 aliases:
   - Baleful Talon
 linter-yaml-title-alias: Baleful Talon
-obsidianUIMode: preview
 ---
 # Baleful Talon
 *Weapon (dagger), very rare*  

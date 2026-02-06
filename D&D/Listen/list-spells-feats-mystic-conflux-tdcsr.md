@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Zauber/list/feat/mystic-conflux
+  - Zauber/list/feat/mystic-conflux
 aliases:
-- Spells for Mystic Conflux
+  - Spells for Mystic Conflux
 ---
 # Spells for Mystic Conflux
 

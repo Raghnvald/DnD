@@ -9,7 +9,6 @@ tags:
 aliases:
   - Arcane Propulsion Arm
 linter-yaml-title-alias: Arcane Propulsion Arm
-obsidianUIMode: preview
 ---
 # Arcane Propulsion Arm
 *Wondrous item, very rare (requires attunement by a creature missing a hand or an arm)*  

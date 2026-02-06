@@ -8,7 +8,6 @@ tags:
 aliases:
   - Decanter of Endless Water
 linter-yaml-title-alias: Decanter of Endless Water
-obsidianUIMode: preview
 ---
 # Decanter of Endless Water
 *Wondrous item, minor, uncommon*  

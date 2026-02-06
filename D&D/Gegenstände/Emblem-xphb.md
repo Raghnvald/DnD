@@ -9,7 +9,6 @@ tags:
 aliases:
   - Emblem
 linter-yaml-title-alias: Emblem
-obsidianUIMode: preview
 ---
 # Emblem
 *Spellcasting focus*  

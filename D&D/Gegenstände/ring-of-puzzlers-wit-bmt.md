@@ -1,16 +1,15 @@
 ---
 cssclasses:
   - json5e-item
-Bezeichnung: "Ring of Puzzler's Wit"
+Bezeichnung: Ring of Puzzler's Wit
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/wundersam/ring
   - Quelle/5e/bmt
 aliases:
-  - "Ring of Puzzler's Wit"
   - Ring of Puzzler's Wit
-linter-yaml-title-alias: "Ring of Puzzler's Wit"
-obsidianUIMode: preview
+  - Ring of Puzzler's Wit
+linter-yaml-title-alias: Ring of Puzzler's Wit
 ---
 # Ring of Puzzler's Wit
 *Ring, uncommon*  

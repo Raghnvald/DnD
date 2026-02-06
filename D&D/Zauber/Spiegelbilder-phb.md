@@ -27,7 +27,6 @@ classes:
 aliases:
   - Mirror Image
 linter-yaml-title-alias: Mirror Image
-obsidianUIMode: preview
 ---
 # Mirror Image
 *2nd-level, Illusion*  

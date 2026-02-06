@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Quelle/5e/bgg
+  - Quelle/5e/bgg
 aliases:
-- The Ordning; Stone Giant Artistry
+  - The Ordning; Stone Giant Artistry
 ---
 # The Ordning; Stone Giant Artistry
 *Source: Bigby Presents: Glory of the Giants p. 24* 

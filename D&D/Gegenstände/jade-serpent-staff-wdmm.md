@@ -9,7 +9,6 @@ tags:
 aliases:
   - Jade Serpent Staff
 linter-yaml-title-alias: Jade Serpent Staff
-obsidianUIMode: preview
 ---
 # Jade Serpent Staff
 

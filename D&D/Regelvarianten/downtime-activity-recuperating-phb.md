@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Quelle/5e/phb
+  - Quelle/5e/phb
 aliases:
-- Downtime Activity: Recuperating
+  - Downtime Activity: Recuperating
 ---
 # Downtime Activity: Recuperating
 *Source: Player's Handbook p. 187* 

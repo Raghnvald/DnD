@@ -10,7 +10,6 @@ tags:
 aliases:
   - Staff of Dunamancy
 linter-yaml-title-alias: Staff of Dunamancy
-obsidianUIMode: preview
 ---
 # Staff of Dunamancy
 *Staff, weapon, very rare (requires attunement by a wizard)*  

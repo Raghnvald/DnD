@@ -9,7 +9,6 @@ tags:
 aliases:
   - Lapis Lazuli
 linter-yaml-title-alias: Lapis Lazuli
-obsidianUIMode: preview
 ---
 # Lapis Lazuli
 *Treasure (gemstone)*  

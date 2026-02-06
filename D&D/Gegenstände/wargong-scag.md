@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Wargong
+Kategorie: Werkzeug
 tags:
   - Gegenstand/Ausrüstung/Instrument
   - Gegenstand/Seltenheit/keine
@@ -9,7 +10,6 @@ tags:
 aliases:
   - Wargong
 linter-yaml-title-alias: Wargong
-obsidianUIMode: preview
 ---
 # Wargong
 *Instrument*  

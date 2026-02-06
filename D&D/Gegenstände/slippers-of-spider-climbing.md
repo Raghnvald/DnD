@@ -9,7 +9,6 @@ tags:
 aliases:
   - Slippers of Spider Climbing
 linter-yaml-title-alias: Slippers of Spider Climbing
-obsidianUIMode: preview
 ---
 # Slippers of Spider Climbing
 *Wondrous item, major, uncommon (requires attunement)*  

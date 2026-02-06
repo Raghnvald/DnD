@@ -1,9 +1,9 @@
 ---
-Bezeichnung: 
-Typ: 
-Eigenschaften: 
-Kst.: 
-Gew.: 
+Bezeichnung:
+Kategorie:
+Eigenschaften:
+Kst.:
+Gew.:
 tags:
   - Gegenstand/Ausrüstung
   - Gegenstand/Seltenheit/keine

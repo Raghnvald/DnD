@@ -9,7 +9,6 @@ tags:
 aliases:
   - Pan Flute
 linter-yaml-title-alias: Pan Flute
-obsidianUIMode: preview
 ---
 # Pan Flute
 *Instrument*  

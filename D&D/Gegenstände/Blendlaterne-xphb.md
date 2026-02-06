@@ -9,7 +9,6 @@ tags:
 aliases:
   - Bullseye Lantern
 linter-yaml-title-alias: Bullseye Lantern
-obsidianUIMode: preview
 ---
 # Bullseye Lantern
 *Adventuring gear*  

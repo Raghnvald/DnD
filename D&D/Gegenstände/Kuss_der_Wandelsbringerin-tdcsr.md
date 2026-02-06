@@ -9,7 +9,6 @@ tags:
 aliases:
   - Kiss of the Changebringer
 linter-yaml-title-alias: Kiss of the Changebringer
-obsidianUIMode: preview
 ---
 # Kiss of the Changebringer
 *Wondrous item, legendary (requires attunement)*  

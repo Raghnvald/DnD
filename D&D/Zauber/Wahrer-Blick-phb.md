@@ -21,7 +21,6 @@ classes:
 aliases:
   - True Seeing
 linter-yaml-title-alias: True Seeing
-obsidianUIMode: preview
 ---
 # True Seeing
 *6th-level, Divination*  

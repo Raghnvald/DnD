@@ -8,7 +8,6 @@ tags:
 aliases:
   - Arcane Cannon
 linter-yaml-title-alias: Arcane Cannon
-obsidianUIMode: preview
 ---
 # Arcane Cannon
 *Wondrous item, very rare*  

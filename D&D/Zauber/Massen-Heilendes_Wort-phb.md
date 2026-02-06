@@ -15,7 +15,6 @@ classes:
 aliases:
   - Mass Healing Word
 linter-yaml-title-alias: Mass Healing Word
-obsidianUIMode: preview
 ---
 # Mass Healing Word
 *3rd-level, Evocation*  

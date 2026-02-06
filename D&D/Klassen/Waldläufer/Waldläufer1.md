@@ -84,9 +84,9 @@ You are proficient with the following items, in addition to any proficiencies pr
 You begin play with the following equipment, in addition to any equipment provided by your background.
 
 - (a) [scale mail](Schuppenpanzer-old.md) or (b) [leather armor](../../Gegenstände/Lederrüstung.md)  
-- (a) two [shortswords](../../Gegenstände/Kurzschwert.md) or (b) two simple melee weapons  
-- (a) a [dungeoneer's pack](../../Gegenstände/Gewölbeforscherausrüstung.md) or (b) an [explorer's pack](../../Gegenstände/Entdeckerausrüstung.md)  
-- A [Langbogen](../../Gegenstände/Langbogen.md) and a [Köcher](../../Gegenstände/Köcher.md) of [20 arrows](../../Gegenstände/Pfeile-20.md)  
+- (a) two [shortswords](Kurzschwert-old.md) or (b) two simple melee weapons  
+- (a) a [dungeoneer's pack](../../Gegenstände/Gewölbeforscherausrüstung.md) or (b) an [explorer's pack](Entdeckerausrüstung-old.md)  
+- A [Langbogen](../../Gegenstände/Langbogen.md) and a [Köcher](../../Gegenstände/Köcher.md) of [20 arrows](Pfeile-20-phb.md)  
 
 Alternatively, you may start with 5W4 × 10 gp and choose your own equipment.
 

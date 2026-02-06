@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Embroidered glove set with jewel chips
+Kategorie: Kunstobjekt
 tags:
   - Gegenstand/Ausrüstung/treasure-art-object
   - Gegenstand/Seltenheit/keine
@@ -9,7 +10,6 @@ tags:
 aliases:
   - Embroidered glove set with jewel chips
 linter-yaml-title-alias: Embroidered glove set with jewel chips
-obsidianUIMode: preview
 ---
 # Embroidered glove set with jewel chips
 *Treasure (art object)*  

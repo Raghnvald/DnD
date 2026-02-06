@@ -17,7 +17,6 @@ aliases:
   - Scale Mail of Fungal Spores
   - Spiked Armor of Fungal Spores
 linter-yaml-title-alias: Armor of Fungal Spores
-obsidianUIMode: preview
 ---
 # Armor of Fungal Spores
 *Uncommon*  

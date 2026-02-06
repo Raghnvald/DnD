@@ -1,7 +1,9 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Citrine
+Bezeichnung: Zitrin
+Kategorie: Edelstein
+Eigenschaften: /
+Kst.: 50 GM
+Gew.: /
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone
   - Gegenstand/Seltenheit/keine
@@ -9,13 +11,12 @@ tags:
 aliases:
   - Citrine
 linter-yaml-title-alias: Citrine
-obsidianUIMode: preview
 ---
-# Citrine
-*Treasure (gemstone)*  
+# Zitrin
+*Schatz (Edelstein)*  
 
-- **Cost**: 50 gp
+- **Kosten**: 50 GM
 
-A transparent pale yellow-brown gemstone.
+Ein durchsichtiger, blass gelb-bräunlicher Edelstein
 
-*Source: Dungeon Master's Guide p. 134*
+*Quelle: Spielleiterhandbuch S. 134*

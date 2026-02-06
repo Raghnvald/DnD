@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Steel Mirror
+Kategorie: Abenteuerausrüstung
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
@@ -9,7 +10,6 @@ tags:
 aliases:
   - Steel Mirror
 linter-yaml-title-alias: Steel Mirror
-obsidianUIMode: preview
 ---
 # Steel Mirror
 *Adventuring gear*  

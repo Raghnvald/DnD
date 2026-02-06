@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Snowshoes
+Kategorie: Abenteuerausrüstung
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
@@ -9,7 +10,6 @@ tags:
 aliases:
   - Snowshoes
 linter-yaml-title-alias: Snowshoes
-obsidianUIMode: preview
 ---
 # Snowshoes
 *Adventuring gear*  

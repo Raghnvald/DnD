@@ -9,7 +9,6 @@ tags:
 aliases:
   - Pig
 linter-yaml-title-alias: Pig
-obsidianUIMode: preview
 ---
 # Pig
 *Trade good*  

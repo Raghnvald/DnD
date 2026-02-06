@@ -27,7 +27,6 @@ aliases:
   - Splint Armor of Fire Resistance
   - Studded Leather Armor of Fire Resistance
 linter-yaml-title-alias: Armor of Fire Resistance
-obsidianUIMode: preview
 ---
 # Armor of Fire Resistance
 *Major, rare (requires attunement)*  

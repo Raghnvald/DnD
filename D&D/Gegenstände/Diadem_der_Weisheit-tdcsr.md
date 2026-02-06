@@ -8,7 +8,6 @@ tags:
 aliases:
   - Circlet of Wisdom
 linter-yaml-title-alias: Circlet of Wisdom
-obsidianUIMode: preview
 ---
 # Circlet of Wisdom
 *Wondrous item*  

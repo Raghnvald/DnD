@@ -25,7 +25,6 @@ aliases:
   - Forcebreaker Weapon
   - Forcebreaker Wooden Staff
 linter-yaml-title-alias: Forcebreaker Weapon
-obsidianUIMode: preview
 ---
 # Forcebreaker Weapon
 *Very rare*  

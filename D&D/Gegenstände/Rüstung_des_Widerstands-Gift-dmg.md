@@ -27,7 +27,6 @@ aliases:
   - Splint Armor of Poison Resistance
   - Studded Leather Armor of Poison Resistance
 linter-yaml-title-alias: Armor of Poison Resistance
-obsidianUIMode: preview
 ---
 # Armor of Poison Resistance
 *Major, rare (requires attunement)*  

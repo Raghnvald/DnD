@@ -8,7 +8,6 @@ tags:
 aliases:
   - Cracked Driftglobe
 linter-yaml-title-alias: Cracked Driftglobe
-obsidianUIMode: preview
 ---
 # Cracked Driftglobe
 *Wondrous item, uncommon*  

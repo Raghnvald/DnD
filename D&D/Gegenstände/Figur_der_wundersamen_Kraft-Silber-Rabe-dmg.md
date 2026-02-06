@@ -8,7 +8,6 @@ tags:
 aliases:
   - Figurine of Wondrous Power, Silver Raven
 linter-yaml-title-alias: Figurine of Wondrous Power, Silver Raven
-obsidianUIMode: preview
 ---
 # Figurine of Wondrous Power, Silver Raven
 *Wondrous item, major, uncommon*  

@@ -3,7 +3,7 @@ prefer-view: edit-source read
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Ogre Zombie
-Typ: Untoter
+Kategorie: Untoter
 Größe: Groß
 HG: 2
 Habitat:

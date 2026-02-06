@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-feat
+  - json5e-feat
 tags:
-- Quelle/5e/phb
-- Kompendium/Optionales/ed
+  - Quelle/5e/phb
+  - Kompendium/Optionales/ed
 aliases:
-- Fist of Four Thunders
+  - Fist of Four Thunders
 ---
 # Fist of Four Thunders
 *Source: Player's Handbook p. 81*  

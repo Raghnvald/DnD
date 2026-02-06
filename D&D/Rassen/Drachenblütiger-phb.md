@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-race
+  - json5e-race
 tags:
-- Quelle/5e/phb
-- Rasse/dragonborn
+  - Quelle/5e/phb
+  - Rasse/dragonborn
 aliases:
-- Dragonborn
+  - Dragonborn
 ---
 # Dragonborn
 *Source: Player's Handbook p. 32. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  

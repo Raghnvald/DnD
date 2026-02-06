@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Segelschiff
-Typ: Wasserfahrzeug
+Kategorie: Luft- und Wasserfahrzeug
 Eigenschaften: 3,00 km/h
 Kst.: 10.000 GM
 Gew.: n/v
 tags:
-  - Gegenstand/Ausrüstung/Wasserfahrzeug
+  - Gegenstand/Ausrüstung/Fahrzeug
   - Quelle/5e/phb
 aliases:
   - Sailing Ship

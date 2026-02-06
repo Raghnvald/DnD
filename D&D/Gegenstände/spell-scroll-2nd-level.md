@@ -9,7 +9,6 @@ tags:
 aliases:
   - Spell Scroll (2nd Level)
 linter-yaml-title-alias: Spell Scroll (2nd Level)
-obsidianUIMode: preview
 ---
 # Spell Scroll (2nd Level)
 *Scroll, minor, uncommon*  

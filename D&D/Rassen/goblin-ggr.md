@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-race
+  - json5e-race
 tags:
-- Quelle/5e/ggr
-- Rasse/goblin
+  - Quelle/5e/ggr
+  - Rasse/goblin
 aliases:
-- Goblin
+  - Goblin
 ---
 # Goblin
 *Source: Guildmasters' Guide to Ravnica p. 16*  

@@ -19,7 +19,6 @@ classes:
 aliases:
   - Control Weather
 linter-yaml-title-alias: Control Weather
-obsidianUIMode: preview
 ---
 # Control Weather
 *8th-level, Transmutation*  

@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-feat
+  - json5e-feat
 tags:
-- Quelle/5e/tce
-- Kompendium/Optionales/mv-b
+  - Quelle/5e/tce
+  - Kompendium/Optionales/mv-b
 aliases:
-- Grappling Strike
+  - Grappling Strike
 ---
 # Grappling Strike
 *Source: Tasha's Cauldron of Everything p. 42*  

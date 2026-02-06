@@ -1,6 +1,6 @@
 ---
 Bezeichnung: Schild des Verborgenen Herschers
-Typ: Rüstung
+Kategorie: Rüstung
 Rüstung: Schild
 Eigenschaften: /
 Kst.: /

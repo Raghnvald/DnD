@@ -10,7 +10,6 @@ tags:
 aliases:
   - Ring of Warmth
 linter-yaml-title-alias: Ring of Warmth
-obsidianUIMode: preview
 ---
 # Ring of Warmth
 *Ring, major, uncommon (requires attunement)*  

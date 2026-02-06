@@ -8,7 +8,6 @@ tags:
 aliases:
   - Horn of the Endless Maze
 linter-yaml-title-alias: Horn of the Endless Maze
-obsidianUIMode: preview
 ---
 # Horn of the Endless Maze
 *Wondrous item, rare*  

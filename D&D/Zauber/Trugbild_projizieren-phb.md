@@ -15,7 +15,6 @@ classes:
 aliases:
   - Project Image
 linter-yaml-title-alias: Project Image
-obsidianUIMode: preview
 ---
 # Project Image
 *7th-level, Illusion*  

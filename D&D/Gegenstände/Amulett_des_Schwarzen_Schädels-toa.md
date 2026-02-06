@@ -9,7 +9,6 @@ tags:
 aliases:
   - Amulet of the Black Skull
 linter-yaml-title-alias: Amulet of the Black Skull
-obsidianUIMode: preview
 ---
 # Amulett des Schwarzen Schädels
 *Wondrous item, very rare (requires attunement)*  

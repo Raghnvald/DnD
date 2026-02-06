@@ -14,7 +14,6 @@ classes:
 aliases:
   - Entangle
 linter-yaml-title-alias: Verstricken
-obsidianUIMode: preview
 ---
 # Verstricken
 *Beschwörung des 1. Grades*

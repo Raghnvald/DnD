@@ -9,7 +9,6 @@ tags:
 aliases:
   - Clockwork Dog
 linter-yaml-title-alias: Clockwork Dog
-obsidianUIMode: preview
 ---
 # Clockwork Dog
 

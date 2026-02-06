@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- Quelle/5e/vgm
-- Monster/HG/7
-- Monster/Größe/Mittelgroß
-- Monster/Typ/Humanoid/any-race
+  - Quelle/5e/vgm
+  - Monster/HG/7
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/Humanoid/any-race
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Booyahg Slave of the Fiend
+  - Booyahg Slave of the Fiend
 ---
 # [Booyahg Slave of the Fiend](3-Mechanics\CLI\bestiary\humanoid/booyahg-slave-of-the-fiend-vgm.md)
 *Source: Volo's Guide to Monsters p. 42*  

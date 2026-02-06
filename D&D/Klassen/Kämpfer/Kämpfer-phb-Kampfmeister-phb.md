@@ -8,7 +8,6 @@ tags:
 aliases:
   - Battle Master
 linter-yaml-title-alias: Battle Master
-obsidianUIMode: preview
 ---
 # Battle Master
 *[Fighter](Kämpfer-phb.md): Martial Archetype*  

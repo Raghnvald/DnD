@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-hazard
+  - json5e-hazard
 tags:
-- Quelle/5e/tce
-- Kompendium/Bedrohung/wld
+  - Quelle/5e/tce
+  - Kompendium/Bedrohung/wld
 aliases:
-- Falling into Water
+  - Falling into Water
 ---
 # Falling into Water
 *Wilderness Hazard*  

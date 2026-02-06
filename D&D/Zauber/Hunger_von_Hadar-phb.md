@@ -15,7 +15,6 @@ classes:
 aliases:
   - Hunger of Hadar
 linter-yaml-title-alias: Hunger of Hadar
-obsidianUIMode: preview
 ---
 # Hunger of Hadar
 *3rd-level, Conjuration*  

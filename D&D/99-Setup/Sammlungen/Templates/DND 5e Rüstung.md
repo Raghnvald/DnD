@@ -1,20 +1,20 @@
 ---
-Bezeichnung: 
-Typ: 
-Rüstung: 
-Eigenschaften: 
-Kst.: 
-Gew.: 
-RK: 
-STR: 
-Heiml.: 
+Bezeichnung:
+Kategorie:
+Rüstung:
+Eigenschaften:
+Kst.:
+Gew.:
+RK:
+STR:
+Heiml.:
 tags:
   - Gegenstand/Ausrüstung
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
   - 
-linter-yaml-title-alias: 
+linter-yaml-title-alias:
 ---
 # Name
 *Leichte Rüstung*  

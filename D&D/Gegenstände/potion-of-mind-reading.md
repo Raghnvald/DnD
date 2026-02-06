@@ -9,7 +9,6 @@ tags:
 aliases:
   - Potion of Mind Reading
 linter-yaml-title-alias: Potion of Mind Reading
-obsidianUIMode: preview
 ---
 # Potion of Mind Reading
 *Potion, minor, rare*  

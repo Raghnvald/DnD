@@ -1,8 +1,8 @@
 ---
 cssclasses:
   - json5e-item
-Bezeichnung: Thunderbuss
-Typ: Fernkampf-Kriegswaffe
+Bezeichnung: Donnerbüchse
+Kategorie: Fernkampf-Kriegswaffe
 tags:
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/Waffe/Fernkampf
@@ -12,7 +12,6 @@ tags:
 aliases:
   - Thunderbuss
 linter-yaml-title-alias: Thunderbuss
-obsidianUIMode: preview
 ---
 # Thunderbuss
 *Weapon (pistol), very rare*  

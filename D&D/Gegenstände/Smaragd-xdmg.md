@@ -9,7 +9,6 @@ tags:
 aliases:
   - Emerald
 linter-yaml-title-alias: Emerald
-obsidianUIMode: preview
 ---
 # Emerald
 *Treasure (gemstone)*  

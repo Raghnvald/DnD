@@ -10,7 +10,6 @@ tags:
 aliases:
   - Ring of Psychic Resistance
 linter-yaml-title-alias: Ring of Psychic Resistance
-obsidianUIMode: preview
 ---
 # Ring of Psychic Resistance
 *Ring, major, rare (requires attunement)*  

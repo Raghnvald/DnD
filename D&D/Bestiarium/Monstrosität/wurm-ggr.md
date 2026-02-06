@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- Quelle/5e/ggr
-- Monster/HG/14
-- Monster/Größe/Riesig
-- Monster/Typ/Monstrosität
+  - Quelle/5e/ggr
+  - Monster/HG/14
+  - Monster/Größe/Riesig
+  - Monster/Typ/Monstrosität
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Wurm
+  - Wurm
 ---
 # [Wurm](3-Mechanics\CLI\bestiary\monstrosity/wurm-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 225*  

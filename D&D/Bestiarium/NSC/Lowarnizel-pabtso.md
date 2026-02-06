@@ -2,7 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Lowarnizel
-Typ: Drache (Edelstein)
+Kategorie: Drache (Edelstein)
 Größe: Groß
 HG: 9
 Habitat:

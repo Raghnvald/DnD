@@ -21,7 +21,6 @@ classes:
 aliases:
   - Spike Growth
 linter-yaml-title-alias: Spike Growth
-obsidianUIMode: preview
 ---
 # Spike Growth
 *2nd-level, Transmutation*  

@@ -10,7 +10,6 @@ tags:
 aliases:
   - Simic Guild Signet
 linter-yaml-title-alias: Simic Guild Signet
-obsidianUIMode: preview
 ---
 # Simic Guild Signet
 *Ring, uncommon (requires attunement)*  

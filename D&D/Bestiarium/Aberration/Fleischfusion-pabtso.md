@@ -13,7 +13,7 @@ aliases:
 Name: Fleischfusion
 Image: aberration/token/flesh-meld-pabtso.webp
 Größe: Riesig
-Typ: Aberration
+Kategorie: Aberration
 Habitat:
   - /
 HG: 7

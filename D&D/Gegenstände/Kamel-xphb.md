@@ -9,7 +9,6 @@ tags:
 aliases:
   - Camel
 linter-yaml-title-alias: Camel
-obsidianUIMode: preview
 ---
 # Camel
 *Mount*  

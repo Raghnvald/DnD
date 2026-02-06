@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Quelle/5e/xge
+  - Quelle/5e/xge
 aliases:
-- Secondary Tables; Crime
+  - Secondary Tables; Crime
 ---
 # Secondary Tables; Crime
 *Source: Xanathar's Guide to Everything p. 70* 

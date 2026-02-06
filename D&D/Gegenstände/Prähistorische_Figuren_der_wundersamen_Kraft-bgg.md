@@ -6,7 +6,6 @@ tags:
 aliases:
   - Prehistoric Figurine of Wondrous Power
 linter-yaml-title-alias: Prehistoric Figurine of Wondrous Power
-obsidianUIMode: preview
 ---
 # Prehistoric Figurine of Wondrous Power
 *Wondrous item*  

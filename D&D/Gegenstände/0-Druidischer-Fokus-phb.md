@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Druidic Focus
-  - Druidischer Fokus
 linter-yaml-title-alias: Druidischer Fokus
 ---
 # Druidischer Fokus
@@ -14,7 +13,7 @@ linter-yaml-title-alias: Druidischer Fokus
 
 **Gegenstände in dieser Gruppe:**
 
-- [[Eibenzauberstab]]
+- [[Eibenzauberstab-phb]]
 - [[Holzstab]]
 - [[Mistelzweigsprössling-phb|Mistelzweigsprössling]]
 - [[Totem]]

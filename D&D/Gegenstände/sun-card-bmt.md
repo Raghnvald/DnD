@@ -8,7 +8,6 @@ tags:
 aliases:
   - Sun Card
 linter-yaml-title-alias: Sun Card
-obsidianUIMode: preview
 ---
 # Sun Card
 *Wondrous item, legendary*  

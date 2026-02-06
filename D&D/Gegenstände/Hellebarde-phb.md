@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Halberd
-Typ: Nahkampf-Kriegswaffe
+Kategorie: Nahkampf-Kriegswaffe
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/Kriegswaffe
@@ -11,7 +11,6 @@ tags:
 aliases:
   - Halberd
 linter-yaml-title-alias: Halberd
-obsidianUIMode: preview
 ---
 # Halberd
 *Weapon*  

@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Pyremaul (Exalted)
-Typ: Nahkampf-Kriegswaffe
+Kategorie: Nahkampf-Kriegswaffe
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -12,7 +12,6 @@ tags:
 aliases:
   - Pyremaul (Exalted)
 linter-yaml-title-alias: Pyremaul (Exalted)
-obsidianUIMode: preview
 ---
 # Pyremaul (Exalted)
 *Weapon ([maul](/3-Mechanics/CLI/items/maul-xphb.md)), legendary (requires attunement)*  

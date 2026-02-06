@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Blowgun
-Typ: Fernkampf-Kriegswaffe
+Kategorie: Fernkampf-Kriegswaffe
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/Fernkampf
@@ -11,7 +11,6 @@ tags:
 aliases:
   - Blowgun
 linter-yaml-title-alias: Blowgun
-obsidianUIMode: preview
 ---
 # Blowgun
 *Weapon*  

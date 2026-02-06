@@ -15,7 +15,6 @@ classes:
 aliases:
   - Glibness
 linter-yaml-title-alias: Glibness
-obsidianUIMode: preview
 ---
 # Glibness
 *8th-level, Transmutation*  

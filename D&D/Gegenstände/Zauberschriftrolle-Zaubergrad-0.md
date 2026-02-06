@@ -1,6 +1,6 @@
 ---
 Bezeichnung: Zauberschriftrolle (Zaubertrick)
-Typ: Schriftrolle
+Kategorie: Schriftrolle
 Eigenschaften: n/v
 Kst.: 100 GM
 Gew.: n/v

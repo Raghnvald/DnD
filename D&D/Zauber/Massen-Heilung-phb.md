@@ -15,7 +15,6 @@ classes:
 aliases:
   - Mass Heal
 linter-yaml-title-alias: Mass Heal
-obsidianUIMode: preview
 ---
 # Mass Heal
 *9th-level, Evocation*  

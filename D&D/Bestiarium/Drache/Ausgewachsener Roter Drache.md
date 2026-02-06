@@ -2,7 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Adult Red Dragon
-Typ: Drache
+Kategorie: Drache
 Größe: Riesig
 HG: 17
 Habitat:

@@ -1,6 +1,6 @@
 ---
 Bezeichnung: Wächterschild
-Typ: Rüstung
+Kategorie: Rüstung
 Rüstung: Schild
 Eigenschaften: /
 Kst.: /

@@ -1,6 +1,6 @@
 ---
 Bezeichnung: Schuppenpanzer
-Typ: Rüstung
+Kategorie: Rüstung
 Rüstung: Mittel
 Eigenschaften: /
 Kst.: 50 GM
@@ -13,7 +13,7 @@ tags:
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - "Scale Mail"
+  - Scale Mail
   - Scale Mail
 linter-yaml-title-alias: Scale Mail
 ---

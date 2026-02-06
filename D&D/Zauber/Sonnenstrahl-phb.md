@@ -19,7 +19,6 @@ classes:
 aliases:
   - Sunbeam
 linter-yaml-title-alias: Sunbeam
-obsidianUIMode: preview
 ---
 # Sunbeam
 *6th-level, Evocation*  

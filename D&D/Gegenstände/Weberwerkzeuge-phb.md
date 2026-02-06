@@ -1,21 +1,21 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: "Weaver's Tools"
+Bezeichnung: Weberwerkzeuge
+Kategorie: Werkzeug
+Eigenschaften: /
+Kst.: 1 GM
+Gew.: 2,5 kg
 tags:
   - Gegenstand/Ausrüstung/Werkzeug
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - "Weaver's Tools"
   - Weaver's Tools
-linter-yaml-title-alias: "Weaver's Tools"
-obsidianUIMode: preview
+linter-yaml-title-alias: Weaver's Tools
 ---
-# Weaver's Tools
-*Artisan's tools*  
+# Weberwerkzeuge
+*Handwerkszeug*
 
-- **Cost**: 1 gp
-- **Weight**: 5.0 lbs.
+- **Kosten**: 1 GM
+- **Gewicht**: 2,5 kg.
 
-*Source: Player's Handbook p. 154, Xanathar's Guide to Everything p. 85. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+*Quelle: Spielerhandbuch S. 154, Xanathars Ratgeber für Alles S. 85. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*

@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Brass mug with jade inlay
+Kategorie: Kunstobjekt
 tags:
   - Gegenstand/Ausrüstung/treasure-art-object
   - Gegenstand/Seltenheit/keine
@@ -9,7 +10,6 @@ tags:
 aliases:
   - Brass mug with jade inlay
 linter-yaml-title-alias: Brass mug with jade inlay
-obsidianUIMode: preview
 ---
 # Brass mug with jade inlay
 *Treasure (art object)*  

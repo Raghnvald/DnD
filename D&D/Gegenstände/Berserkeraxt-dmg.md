@@ -1,6 +1,6 @@
 ---
 Bezeichnung: Berserkeraxt
-Typ: Nahkampf-Kriegswaffe (generisch)
+Kategorie: Nahkampf-Kriegswaffe (generisch)
 Schaden: /
 Eigenschaften: /
 Kst.: /
@@ -11,7 +11,6 @@ tags:
   - Gegenstand/Waffe/Nahkampf/Beliebig
   - Quelle/5e/dmg
 aliases:
-  - Berserkeraxt
   - Berserker Axe
 linter-yaml-title-alias: Berserkeraxt
 ---

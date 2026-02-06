@@ -17,7 +17,6 @@ classes:
 aliases:
   - Destructive Wave
 linter-yaml-title-alias: Destructive Wave
-obsidianUIMode: preview
 ---
 # Destructive Wave
 *5th-level, Evocation*  

@@ -9,7 +9,6 @@ tags:
 aliases:
   - Faerie Dust
 linter-yaml-title-alias: Faerie Dust
-obsidianUIMode: preview
 ---
 # Faerie Dust
 

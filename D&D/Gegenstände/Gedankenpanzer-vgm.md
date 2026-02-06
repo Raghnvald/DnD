@@ -1,5 +1,4 @@
 ---
-
 Bezeichnung: Gedankenpanzer
 Rüstung: Schwer
 tags:
@@ -15,7 +14,6 @@ aliases:
   - Mind Carapace Ring Mail
   - Mind Carapace Splint Armor
 linter-yaml-title-alias: Mind Carapace Armor
-obsidianUIMode: preview
 ---
 # Gedankenpanzer
 *Uncommon (requires attunement by a specific individual)*  

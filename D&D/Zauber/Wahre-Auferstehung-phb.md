@@ -17,7 +17,6 @@ classes:
 aliases:
   - True Resurrection
 linter-yaml-title-alias: True Resurrection
-obsidianUIMode: preview
 ---
 # True Resurrection
 *9th-level, Necromancy*  

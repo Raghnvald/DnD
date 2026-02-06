@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Insect Repellent (greasy salve)
+Kategorie: Abenteuerausrüstung
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
@@ -9,7 +10,6 @@ tags:
 aliases:
   - Insect Repellent (greasy salve)
 linter-yaml-title-alias: Insect Repellent (greasy salve)
-obsidianUIMode: preview
 ---
 # Insect Repellent (greasy salve)
 *Adventuring gear*  

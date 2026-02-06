@@ -11,7 +11,6 @@ tags:
 aliases:
   - Skysail
 linter-yaml-title-alias: Skysail
-obsidianUIMode: preview
 ---
 # Skysail
 *Wondrous item, weapon ([quarterstaff](/3-Mechanics/CLI/items/quarterstaff-xphb.md)), rare (requires attunement)*  

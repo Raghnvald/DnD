@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: +3 Moon Sickle
-Typ: Einfache Nahkampfwaffe
+Kategorie: Einfache Nahkampfwaffe
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten

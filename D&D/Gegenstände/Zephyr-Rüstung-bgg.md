@@ -1,6 +1,6 @@
 ---
 Bezeichnung: Zephyr-Rüstung
-Typ: Rüstung
+Kategorie: Rüstung
 Rüstung: Leicht
 Eigenschaften: /
 Kst.: /

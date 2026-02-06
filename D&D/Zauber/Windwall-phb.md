@@ -19,7 +19,6 @@ classes:
 aliases:
   - Wind Wall
 linter-yaml-title-alias: Wind Wall
-obsidianUIMode: preview
 ---
 # Wind Wall
 *3rd-level, Evocation*  

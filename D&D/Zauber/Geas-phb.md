@@ -21,7 +21,6 @@ classes:
 aliases:
   - Geas
 linter-yaml-title-alias: Geas
-obsidianUIMode: preview
 ---
 # Geas
 *5th-level, Enchantment*  

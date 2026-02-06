@@ -10,7 +10,6 @@ tags:
 aliases:
   - +3 Shield
 linter-yaml-title-alias: +3 Shield
-obsidianUIMode: preview
 ---
 # +3 Shield
 *Armor ([shield](/3-Mechanics/CLI/items/shield-xphb.md)), very rare*  

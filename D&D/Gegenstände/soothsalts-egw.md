@@ -9,7 +9,6 @@ tags:
 aliases:
   - Soothsalts
 linter-yaml-title-alias: Soothsalts
-obsidianUIMode: preview
 ---
 # Soothsalts
 *Adventuring gear*  

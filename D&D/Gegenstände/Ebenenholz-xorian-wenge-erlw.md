@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Imbued Wood (Xorian Wenge)
+Kategorie: Wundersamer Gegenstand
 tags:
   - Gegenstand/Ausrüstung/Zauberfokus
   - Gegenstand/Einstimmung/required
@@ -15,7 +16,6 @@ aliases:
   - Xorian Wenge Staff
   - Xorian Wenge Wand
 linter-yaml-title-alias: Imbued Wood (Xorian Wenge)
-obsidianUIMode: preview
 ---
 # Imbued Wood (Xorian Wenge)
 *Wondrous item, common (requires attunement)*  

@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Zauber/list/subclass/shadow-magic
+  - Zauber/list/subclass/shadow-magic
 aliases:
-- Spells for Shadow Magic
+  - Spells for Shadow Magic
 ---
 # Spells for Shadow Magic
 

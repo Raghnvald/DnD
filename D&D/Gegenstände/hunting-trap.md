@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Hunting Trap
+Kategorie: Abenteuerausrüstung
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
@@ -9,7 +10,6 @@ tags:
 aliases:
   - Hunting Trap
 linter-yaml-title-alias: Hunting Trap
-obsidianUIMode: preview
 ---
 # Hunting Trap
 *Adventuring gear*  

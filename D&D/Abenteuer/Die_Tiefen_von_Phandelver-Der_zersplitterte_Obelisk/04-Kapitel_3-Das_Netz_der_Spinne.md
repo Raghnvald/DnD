@@ -186,9 +186,9 @@ Diese Hütte hat bessere Zeiten gesehen.
 >[!readaloud] 
 > Im Schatten eines alten Baumes hockt eine verfallene Steinhütte ohne Dach. Unkraut wuchert hier überall.
 
-Zwei [[Zweigplage|Zweigplagen]] verstecken sich zwischen dem Unkraut an der offenen Tür der Hütte. Lege einen Wurf auf `Geschicklichkeit (Heimlichkeit)`  für die Plagen ab, und vergleiche das Ergebnis mit dem passiven Wert in `Weisheit (Wahrnehmung)` der Charaktere, um zu bestimmen, ob die Plagen bemerkt werden.
+Zwei [[Zweigplage-mm|Zweigplagen]] verstecken sich zwischen dem Unkraut an der offenen Tür der Hütte. Lege einen Wurf auf `Geschicklichkeit (Heimlichkeit)`  für die Plagen ab, und vergleiche das Ergebnis mit dem passiven Wert in `Weisheit (Wahrnehmung)` der Charaktere, um zu bestimmen, ob die Plagen bemerkt werden.
 
-$\quad$Die [[Zweigplage|Plagen]] greifen nicht von selbst an (außer in Selbstverteidigung), aber kommen schnell jedem [[Zweigplage|Zweigplagen]]  in Bereich [[#U2 Zerstörte Hütten|U2]] zu Hilfe, wenn es zu einem Kampf kommt.
+$\quad$Die [[Zweigplage-mm|Plagen]] greifen nicht von selbst an (außer in Selbstverteidigung), aber kommen schnell jedem [[Zweigplage-mm|Zweigplagen]]  in Bereich [[#U2 Zerstörte Hütten|U2]] zu Hilfe, wenn es zu einem Kampf kommt.
 
 #### U2: Zerstörte Hütten
 Wind und Wetter haben hier ihre Arbeit verrichtet und es ist wenig von diesen Häusern oder ihrem ehemaligen Inhalt übrig geblieben.
@@ -196,9 +196,9 @@ Wind und Wetter haben hier ihre Arbeit verrichtet und es ist wenig von diesen H�
 >[!readaloud] 
 > Diese zerstörten, nebeneinander liegenden Hütten sehen so aus, als wären sie einmal das Zuhause von wohlhabenden Ladenbesitzern oder erfolgreichen Bauern gewesen. Alles was noch übrig ist sind eingestürzte Mauern und Haufen aus Schutt. Mehrere junge Bäume sind in den Ruinen gewachsen.
 
-Das Unterholz birgt eine tödliche Bedrohung — sechs [[Zweigplage|Zweigplagen]], die zwischen den normalen Pflanzen lauern. Um sie zu bemerken, ist ein erfolgreicher Wurf auf `Weisheit (Wahrnehmung)` gegen die `Geschicklichkeit (Heimlichkeit)` der Plagen notwendig.
+Das Unterholz birgt eine tödliche Bedrohung — sechs [[Zweigplage-mm|Zweigplagen]], die zwischen den normalen Pflanzen lauern. Um sie zu bemerken, ist ein erfolgreicher Wurf auf `Weisheit (Wahrnehmung)` gegen die `Geschicklichkeit (Heimlichkeit)` der Plagen notwendig.
 
-$\quad$Diese Pflanzenmonster sind hungrig und kämpfen, bis sie zerstört werden. Eine Runde nach dem Angriff schließen sich die [[Zweigplage|Plagen]] aus Bereich [[#U1 Westlichste Hütte|U1]] dem Kampf an.
+$\quad$Diese Pflanzenmonster sind hungrig und kämpfen, bis sie zerstört werden. Eine Runde nach dem Angriff schließen sich die [[Zweigplage-mm|Plagen]] aus Bereich [[#U1 Westlichste Hütte|U1]] dem Kampf an.
 
 ### Schätze 
 Ein Kaufmann, der einst hier lebte, hatte eine Truhe voller Münzen unter den Steinfliesen seines Hauses verborgen. Eine gründliche Durchsuchung des Innenraums der östlichen Hütte und ein erfolgreicher Wurf auf `Weisheit (Wahrnehmung) (SG 10)` offenbart die alte Truhe zwischen den Wurzeln eines Baumes, der durch das Haus gewachsen ist. In der Truhe befinden sich 700 <font color="#B87333">Kupfermünzen</font>, 160 <font color="Silver">Silbermünzen</font> und 90 <font color="Gold">Goldmünzen</font>.
@@ -237,9 +237,9 @@ Wenn die Charaktere sie aus irgendeinem Grund angreifen, verwandelt sich Reidoth
 >[!readaloud] 
 > Die Ruine sieht aus, als wäre sie einmal ein Bauernhaus gewesen. Jetzt ist sie fast ganz von einem dichten Dickicht verschluckt worden und Bäume wachsen aus dem zerstörten Fundament. Der Weg führt noch ein Stück weiter nach Süden und endet in einem überwucherten Feld.
 
-Das Gestrüpp östlich der Ruine ist mit 12 [[Zweigplage|Zweigplagen]] und 2 [[Nadelplage|Nadelplagen]] bewachsen. Jede Störung im verfallenen Bauernhaus (z.B. wenn Charaktere in den Trümmern herumwühlen) zieht den Zorn der Plagen auf sich.
+Das Gestrüpp östlich der Ruine ist mit 12 [[Zweigplage-mm|Zweigplagen]] und 2 [[Nadelplage|Nadelplagen]] bewachsen. Jede Störung im verfallenen Bauernhaus (z.B. wenn Charaktere in den Trümmern herumwühlen) zieht den Zorn der Plagen auf sich.
 
-3 Runden lang steuern jeweils zwei der [[Zweigplage|Zweigplagen]]  auf die Südtür und zwei weitere auf die Nordtür zu. In Runde 3 folgen die [[Nadelplage|Nadelplagen]], die sich jeweils auf einen anderen Eingang zubewegen. Sie sind furchtlos und greifen an, bis sie zerstört sind.
+3 Runden lang steuern jeweils zwei der [[Zweigplage-mm|Zweigplagen]]  auf die Südtür und zwei weitere auf die Nordtür zu. In Runde 3 folgen die [[Nadelplage|Nadelplagen]], die sich jeweils auf einen anderen Eingang zubewegen. Sie sind furchtlos und greifen an, bis sie zerstört sind.
 
 #### U6: Zerstörter Laden
 >[!readaloud] 
@@ -253,7 +253,7 @@ Zwei [[Riesenspinne-mm|Riesenspinnen]] lauern in dem Gebäude und verstecken sic
 
 Es ist schwierig, um die Spinnweben herumzukommen, weil sich auf der Nordseite der Straße ein Dickicht befindet. Wenn man das Gebäude im Süden umgeht, gelangt man zu den [[Bestiarium/plant/Zweigplagen im Gebiet [[#U5 Zerstörtes Bauernhaus|U5]].
 
-**Schatz.** Die Leiche eines unglücklichen Abenteurers liegt in Spinnenseide eingehüllt in der westlichen Hälfte des Gebäudes. Der Körper ist verschrumpelt und ausgetrocknet, aber es scheint ein männlicher Elf gewesen zu sein. Der Leichnam trägt eine [[Gegenstände/Lederrüstung-phb|Lederrüstung]]+1 und ein [[Kurzschwert]] in der Scheide an seiner Hüfte. Eine sorgfältige Durchsuchung ergibt auch einen [[Gegenstände/Heiltrank-dmg|Heiltrank]] in einer Gürteltasche, zusammen mit 23 <font color="Gold">Goldmünzen</font> und 35 <font color="Silver">Silbermünzen</font>.
+**Schatz.** Die Leiche eines unglücklichen Abenteurers liegt in Spinnenseide eingehüllt in der westlichen Hälfte des Gebäudes. Der Körper ist verschrumpelt und ausgetrocknet, aber es scheint ein männlicher Elf gewesen zu sein. Der Leichnam trägt eine [[Gegenstände/Lederrüstung-phb|Lederrüstung]]+1 und ein [[Kurzschwert-old]] in der Scheide an seiner Hüfte. Eine sorgfältige Durchsuchung ergibt auch einen [[Gegenstände/Heiltrank-dmg|Heiltrank]] in einer Gürteltasche, zusammen mit 23 <font color="Gold">Goldmünzen</font> und 35 <font color="Silver">Silbermünzen</font>.
 
 #### U7: Drachenturm
 >[!readaloud] 
@@ -309,7 +309,7 @@ Das Innere des Gebäudes ist noch möbliert, und im Hauptraum gibt es eine Leite
 >[!readaloud] 
 > Das Innere dieser Ruine ist mit Trümmerhaufen übersät. In einer Ecke steht ein kaputter Webstuhl.
 
-Vier [[Zweigplage|Zweigplagen]] lauern im Dickicht südlich der Ruine, während sich zwei [[Nadelplage|Nadelplagen]] in den Bäumen auf der Ostseite der Gasse verstecken. Ein Charakter, der sich in einem Umkreis von 3 Meter um einen oder mehrere Plagen befindet, kann einen Wurf auf `Weisheit (Wahrnehmung) (SG 13)` ablegen, um die Anwesenheit der Kreaturen bei einem erfolgreichen Test zu entdecken. Andernfalls greifen die Plagen an, wenn sich ein Charakter ihnen bis auf 1,5 Meter nähert.
+Vier [[Zweigplage-mm|Zweigplagen]] lauern im Dickicht südlich der Ruine, während sich zwei [[Nadelplage|Nadelplagen]] in den Bäumen auf der Ostseite der Gasse verstecken. Ein Charakter, der sich in einem Umkreis von 3 Meter um einen oder mehrere Plagen befindet, kann einen Wurf auf `Weisheit (Wahrnehmung) (SG 13)` ablegen, um die Anwesenheit der Kreaturen bei einem erfolgreichen Test zu entdecken. Andernfalls greifen die Plagen an, wenn sich ein Charakter ihnen bis auf 1,5 Meter nähert.
 
 **Entwicklung.** Alle lauten Geräusche hier alarmieren die Kultisten im Bereich [[#U13 Hütte der Drachenkultisten|U13]], die vorsichtig nachforschen.
 
@@ -432,7 +432,7 @@ Karawanen, die von den Cragmaws auf der Hohen Straße und dem Triboar-Pfad über
 
 **Ermutigender Branntwein.** Während die meisten Fässer mit Pökelfleisch gefüllt sind, ist ein kleines Fass mit einem außergewöhnlichen Zwergen-Branntwein gefüllt, den die [[Goblin-mm|Goblins]] nicht bemerkt haben, weil er unter den Plunder gemischt war. Das Fässchen enthält eine ungefähre Füllmenge von zwanzig Gläsern. Ein Charakter, der ein Glas Branntwein trinkt, erhält 1 temporären Trefferpunkt, aber ein Charakter, der zwei oder mehr Gläser innerhalb von 1 Stunde trinkt, erleidet für 1 Stunde den Zustand „[[01. Grundregelwerk 2014/Anhang PH-A#Vergiftet|vergiftet]]“.
 
-**Sildar's Ausrüstung.** Zu den Ausrüstungsgegenständen, die sich unter den Vorräten befinden, gehören ein blutiges [[Gegenstände/Kettenhemd-phb|Kettenhemd]], ein [[Gegenstände/Kurzschwert|Kurzschwert]] in einer Lederscheide, eine [[Gegenstände/Schwere Armbrust-phb|schwere Armbrust]] und ein [[Gegenstände/Langschwert-phb|Langschwert]], in dessen Griff das Emblem von Neverwinter eingearbeitet ist. Das [[Gegenstände/Kettenhemd-phb|Kettenhemd]] und die Waffen sind Eigentum von Sildar Hallwinter. Keiner dieser Gegenstände ist magisch, aber Sildar ist dankbar, wenn ihm wenigstens sein [[Gegenstände/Langschwert-phb|Langschwert]] zurückgegeben wird.
+**Sildar's Ausrüstung.** Zu den Ausrüstungsgegenständen, die sich unter den Vorräten befinden, gehören ein blutiges [[Gegenstände/Kettenhemd-phb|Kettenhemd]], ein [[Kurzschwert-old|Kurzschwert]] in einer Lederscheide, eine [[Schwere_Armbrust-phb|schwere Armbrust]] und ein [[Gegenstände/Langschwert-phb|Langschwert]], in dessen Griff das Emblem von Neverwinter eingearbeitet ist. Das [[Gegenstände/Kettenhemd-phb|Kettenhemd]] und die Waffen sind Eigentum von Sildar Hallwinter. Keiner dieser Gegenstände ist magisch, aber Sildar ist dankbar, wenn ihm wenigstens sein [[Gegenstände/Langschwert-phb|Langschwert]] zurückgegeben wird.
 
 #### C6: Hobgoblin-Quartiere
 >[!readaloud] 

@@ -17,7 +17,6 @@ classes:
 aliases:
   - Spirit Guardians
 linter-yaml-title-alias: Spirit Guardians
-obsidianUIMode: preview
 ---
 # Spirit Guardians
 *3rd-level, Conjuration*  

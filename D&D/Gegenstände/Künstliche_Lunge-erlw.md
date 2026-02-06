@@ -9,7 +9,6 @@ tags:
 aliases:
   - Ventilating Lungs
 linter-yaml-title-alias: Ventilating Lungs
-obsidianUIMode: preview
 ---
 # Ventilating Lungs
 *Wondrous item, rare (requires attunement)*  

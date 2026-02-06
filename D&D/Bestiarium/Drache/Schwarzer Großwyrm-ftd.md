@@ -2,7 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Black Greatwyrm
-Typ: Drache (Chromatisch)
+Kategorie: Drache (Chromatisch)
 Größe: Gigantisch
 HG: 27
 Habitat:

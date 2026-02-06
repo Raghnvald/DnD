@@ -9,7 +9,6 @@ tags:
 aliases:
   - Efreeti Chain
 linter-yaml-title-alias: Efreeti Chain
-obsidianUIMode: preview
 ---
 # Ifrit-Rüstung
 *Heavy armor ([chain mail](/3-Mechanics/CLI/items/chain-mail.md)), major, legendary (requires attunement)*  

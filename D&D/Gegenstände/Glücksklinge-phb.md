@@ -1,6 +1,6 @@
 ---
 Bezeichnung: Glücksklinge
-Typ: Nahkampf-Kriegswaffe (generisch)
+Kategorie: Nahkampf-Kriegswaffe (generisch)
 Schaden: /
 Eigenschaften: /
 Kst.: /
@@ -21,7 +21,6 @@ aliases:
   - Luck Blade Scimitar
   - Luck Blade Shortsword
 linter-yaml-title-alias: Luck Blade
-obsidianUIMode: preview
 ---
 # Luck Blade
 *Major, legendary (requires attunement)*  

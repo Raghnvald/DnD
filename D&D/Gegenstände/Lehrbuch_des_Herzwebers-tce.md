@@ -1,15 +1,14 @@
 ---
 cssclasses:
   - json5e-item
-Bezeichnung: "Heart Weaver's Primer"
+Bezeichnung: Heart Weaver's Primer
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/tce
 aliases:
-  - "Heart Weaver's Primer"
   - Heart Weaver's Primer
-linter-yaml-title-alias: "Heart Weaver's Primer"
+linter-yaml-title-alias: Heart Weaver's Primer
 ---
 # Heart Weaver's Primer
 *Wondrous item, rare (requires attunement by a wizard)*  

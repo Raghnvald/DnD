@@ -1,6 +1,6 @@
 ---
-Bezeichnung: Adze of Annam
-Typ: Nahkampf-Kriegswaffe
+Bezeichnung: Annams Querbeil
+Kategorie: Nahkampf-Kriegswaffe
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/Artefakt

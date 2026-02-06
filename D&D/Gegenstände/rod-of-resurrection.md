@@ -10,7 +10,6 @@ tags:
 aliases:
   - Rod of Resurrection
 linter-yaml-title-alias: Rod of Resurrection
-obsidianUIMode: preview
 ---
 # Rod of Resurrection
 *Rod, major, legendary (requires attunement by a cleric, druid, or paladin)*  

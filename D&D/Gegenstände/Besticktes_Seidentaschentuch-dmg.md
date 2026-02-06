@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Embroidered silk handkerchief
+Kategorie: Kunstobjekt
 tags:
   - Gegenstand/Ausrüstung/treasure-art-object
   - Gegenstand/Seltenheit/keine
@@ -9,7 +10,6 @@ tags:
 aliases:
   - Embroidered silk handkerchief
 linter-yaml-title-alias: Embroidered silk handkerchief
-obsidianUIMode: preview
 ---
 # Embroidered silk handkerchief
 *Treasure (art object)*  

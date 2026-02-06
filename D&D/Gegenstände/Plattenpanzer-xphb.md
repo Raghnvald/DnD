@@ -8,10 +8,8 @@ tags:
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
-  - "Half Plate Armor"
   - Half Plate Armor
 linter-yaml-title-alias: Half Plate Armor
-obsidianUIMode: preview
 ---
 # Half Plate Armor
 *Medium armor*  

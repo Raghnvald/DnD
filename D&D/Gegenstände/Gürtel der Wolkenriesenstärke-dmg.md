@@ -9,7 +9,6 @@ tags:
 aliases:
   - Belt of Cloud Giant Strength
 linter-yaml-title-alias: Belt of Cloud Giant Strength
-obsidianUIMode: preview
 ---
 # Belt of Cloud Giant Strength
 *Wondrous item, major, legendary (requires attunement)*  

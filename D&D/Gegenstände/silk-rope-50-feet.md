@@ -9,7 +9,6 @@ tags:
 aliases:
   - Silk Rope (50 feet)
 linter-yaml-title-alias: Silk Rope (50 feet)
-obsidianUIMode: preview
 ---
 # Silk Rope (50 feet)
 *Adventuring gear*  

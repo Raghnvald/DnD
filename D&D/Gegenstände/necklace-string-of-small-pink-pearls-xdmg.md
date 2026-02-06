@@ -9,7 +9,6 @@ tags:
 aliases:
   - Necklace string of small pink pearls
 linter-yaml-title-alias: Necklace string of small pink pearls
-obsidianUIMode: preview
 ---
 # Necklace string of small pink pearls
 *Treasure (art object)*  

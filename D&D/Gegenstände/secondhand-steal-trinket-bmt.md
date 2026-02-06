@@ -9,7 +9,6 @@ tags:
 aliases:
   - Secondhand Steal Trinket
 linter-yaml-title-alias: Secondhand Steal Trinket
-obsidianUIMode: preview
 ---
 # Secondhand Steal Trinket
 *Adventuring gear*  

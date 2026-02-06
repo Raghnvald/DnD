@@ -8,7 +8,6 @@ tags:
 aliases:
   - Horn of Blasting
 linter-yaml-title-alias: Horn of Blasting
-obsidianUIMode: preview
 ---
 # Horn of Blasting
 *Wondrous item, major, rare*  

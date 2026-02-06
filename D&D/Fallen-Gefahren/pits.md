@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-hazard
+  - json5e-hazard
 tags:
-- Quelle/5e/dmg
-- Kompendium/Bedrohung/mech
+  - Quelle/5e/dmg
+  - Kompendium/Bedrohung/mech
 aliases:
-- Pits
+  - Pits
 ---
 # Pits
 *Mechanical Trap*  

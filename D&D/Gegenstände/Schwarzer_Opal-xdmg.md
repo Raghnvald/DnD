@@ -9,7 +9,6 @@ tags:
 aliases:
   - Black Opal
 linter-yaml-title-alias: Black Opal
-obsidianUIMode: preview
 ---
 # Black Opal
 *Treasure (gemstone)*  

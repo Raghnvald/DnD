@@ -10,7 +10,6 @@ tags:
 aliases:
   - Summon Draconic Spirit
 linter-yaml-title-alias: Summon Draconic Spirit
-obsidianUIMode: preview
 ---
 # Summon Draconic Spirit
 *5th-level, Conjuration*  

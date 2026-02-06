@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Zauber/list/subclass/drakewarden
+  - Zauber/list/subclass/drakewarden
 aliases:
-- Spells for Drakewarden
+  - Spells for Drakewarden
 ---
 # Spells for Drakewarden
 

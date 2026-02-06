@@ -10,7 +10,6 @@ tags:
 aliases:
   - Voyager Staff
 linter-yaml-title-alias: Voyager Staff
-obsidianUIMode: preview
 ---
 # Voyager Staff
 *Staff, weapon, very rare (requires attunement by a spellcaster)*  

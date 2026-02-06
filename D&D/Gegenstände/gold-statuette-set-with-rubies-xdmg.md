@@ -9,7 +9,6 @@ tags:
 aliases:
   - Gold statuette set with rubies
 linter-yaml-title-alias: Gold statuette set with rubies
-obsidianUIMode: preview
 ---
 # Gold statuette set with rubies
 *Treasure (art object)*  

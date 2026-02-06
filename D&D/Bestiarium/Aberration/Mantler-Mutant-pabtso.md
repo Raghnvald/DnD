@@ -10,7 +10,7 @@ aliases:
   - Cloaker Mutate
 Größe: Groß
 HG: 10
-Typ: Aberration
+Kategorie: Aberration
 status: WIP
 Name: Mantler-Mutant
 Image: aberration/token/cloaker-mutate-pabtso.webp

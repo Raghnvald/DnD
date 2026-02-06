@@ -9,7 +9,6 @@ tags:
 aliases:
   - Chicken
 linter-yaml-title-alias: Chicken
-obsidianUIMode: preview
 ---
 # Chicken
 *Trade good*  

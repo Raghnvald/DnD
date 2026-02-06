@@ -8,7 +8,6 @@ tags:
 aliases:
   - Rogue Card
 linter-yaml-title-alias: Rogue Card
-obsidianUIMode: preview
 ---
 # Rogue Card
 *Wondrous item, legendary*  

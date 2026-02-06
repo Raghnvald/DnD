@@ -1,8 +1,8 @@
 ---
 cssclasses:
   - json5e-item
-Bezeichnung: Lucent Destroyer
-Typ: Fernkampf-Kriegswaffe
+Bezeichnung: Strahlender Zerstörer
+Kategorie: Fernkampf-Kriegswaffe
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
@@ -13,7 +13,6 @@ tags:
 aliases:
   - Lucent Destroyer
 linter-yaml-title-alias: Lucent Destroyer
-obsidianUIMode: preview
 ---
 # Lucent Destroyer
 *Weapon (musket), very rare (requires attunement)*  

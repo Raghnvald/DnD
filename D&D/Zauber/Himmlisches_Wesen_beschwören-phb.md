@@ -15,7 +15,6 @@ classes:
 aliases:
   - Conjure Celestial
 linter-yaml-title-alias: Conjure Celestial
-obsidianUIMode: preview
 ---
 # Conjure Celestial
 *7th-level, Conjuration*  

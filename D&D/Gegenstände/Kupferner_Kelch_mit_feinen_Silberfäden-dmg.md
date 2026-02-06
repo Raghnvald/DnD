@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Copper chalice with silver filigree
+Kategorie: Kunstobjekt
 tags:
   - Gegenstand/Ausrüstung/treasure-art-object
   - Gegenstand/Seltenheit/keine
@@ -9,7 +10,6 @@ tags:
 aliases:
   - Copper chalice with silver filigree
 linter-yaml-title-alias: Copper chalice with silver filigree
-obsidianUIMode: preview
 ---
 # Copper chalice with silver filigree
 *Treasure (art object)*  

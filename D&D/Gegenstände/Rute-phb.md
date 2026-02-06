@@ -1,7 +1,7 @@
 ---
 Bezeichnung: Rute
-Typ: Arkaner Fokus
-Eigenschaften: n/v
+Kategorie: Arkaner Fokus
+Eigenschaften: /
 Kst.: 10 GM
 Gew.: 1,0 kg
 tags:

@@ -17,7 +17,6 @@ classes:
 aliases:
   - Delayed Blast Fireball
 linter-yaml-title-alias: Delayed Blast Fireball
-obsidianUIMode: preview
 ---
 # Delayed Blast Fireball
 *7th-level, Evocation*  

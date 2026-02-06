@@ -23,7 +23,6 @@ classes:
 aliases:
   - Ray of Enfeeblement
 linter-yaml-title-alias: Ray of Enfeeblement
-obsidianUIMode: preview
 ---
 # Ray of Enfeeblement
 *2nd-level, Necromancy*  

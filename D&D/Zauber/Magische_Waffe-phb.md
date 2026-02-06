@@ -23,7 +23,6 @@ classes:
 aliases:
   - Magic Weapon
 linter-yaml-title-alias: Magic Weapon
-obsidianUIMode: preview
 ---
 # Magic Weapon
 *2nd-level, Transmutation*  

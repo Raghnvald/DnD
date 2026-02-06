@@ -9,7 +9,6 @@ tags:
 aliases:
   - Fire Opal
 linter-yaml-title-alias: Fire Opal
-obsidianUIMode: preview
 ---
 # Fire Opal
 *Treasure (gemstone)*  

@@ -1,7 +1,7 @@
 ---
 cssclasses:
   - json5e-item
-Bezeichnung: "Weapon of Throne's Command"
+Bezeichnung: Weapon of Throne's Command
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
@@ -13,7 +13,7 @@ tags:
   - Gegenstand/Zeitalter/Modern
   - Quelle/5e/bmt
 aliases:
-  - "Weapon of Throne's Command"
+  - Weapon of Throne's Command
   - Antimatter Rifle of Throne's Command
   - Automatic Rifle of Throne's Command
   - Battleaxe of Throne's Command
@@ -50,8 +50,7 @@ aliases:
   - Warhammer of Throne's Command
   - Weapon of Throne's Command
   - Whip of Throne's Command
-linter-yaml-title-alias: "Weapon of Throne's Command"
-obsidianUIMode: preview
+linter-yaml-title-alias: Weapon of Throne's Command
 ---
 # Weapon of Throne's Command
 *Very rare (requires attunement)*  

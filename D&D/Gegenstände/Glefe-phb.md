@@ -1,8 +1,10 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Glaive
-Typ: Nahkampf-Kriegswaffe
+Bezeichnung: Glefe
+Kategorie: Nahkampf-Kriegswaffe
+Schaden: 1W10 Hieb
+Eigenschaften: Schwer, weitreichend, zweihändig
+Kst.: 20 GM
+Gew.: 3,0 kg
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/Kriegswaffe
@@ -11,14 +13,13 @@ tags:
 aliases:
   - Glaive
 linter-yaml-title-alias: Glaive
-obsidianUIMode: preview
 ---
-# Glaive
-*Weapon*  
+# Glefe
+*Waffe*  
 
-- **Damage**: 1d10 slashing
-- **Properties**: [Heavy](/3-Mechanics/CLI/item-properties.md#Heavy), [Reach](/3-Mechanics/CLI/item-properties.md#Reach), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
-- **Cost**: 20 gp
-- **Weight**: 6.0 lbs.
+- **Schaden**: 1d10 Hieb
+- **Eigenschaften**: [[Gegenstandseigenschaften-phb#Schwer|Schwer]], [[Gegenstandseigenschaften-phb#Weitreichend|Weitreichend]], [[Gegenstandseigenschaften-phb#Zweihändig|Zweihändig]]
+- **Kosten**: 20 GM
+- **Gewicht**: 3,0 kg.
 
 *Source: Player's Handbook p. 149. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

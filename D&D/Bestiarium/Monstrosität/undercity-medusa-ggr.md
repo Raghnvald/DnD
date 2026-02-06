@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- Quelle/5e/ggr
-- Monster/HG/6
-- Monster/Größe/Mittelgroß
-- Monster/Typ/Monstrosität
+  - Quelle/5e/ggr
+  - Monster/HG/6
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/Monstrosität
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Undercity Medusa
+  - Undercity Medusa
 ---
 # [Undercity Medusa](3-Mechanics\CLI\bestiary\monstrosity/undercity-medusa-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 222*  

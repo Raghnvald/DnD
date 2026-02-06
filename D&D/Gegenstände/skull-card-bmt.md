@@ -8,7 +8,6 @@ tags:
 aliases:
   - Skull Card
 linter-yaml-title-alias: Skull Card
-obsidianUIMode: preview
 ---
 # Skull Card
 *Wondrous item, legendary*  

@@ -2,7 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Adult Deep Dragon
-Typ: Drache
+Kategorie: Drache
 Größe: Riesig
 HG: 11
 Habitat:

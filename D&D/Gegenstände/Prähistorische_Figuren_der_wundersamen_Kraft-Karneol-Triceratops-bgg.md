@@ -4,10 +4,9 @@ tags:
   - Gegenstand/Seltenheit/sehr_selten
   - Quelle/5e/bgg
 aliases:
-  - "Prehistoric Figurine of Wondrous Power, Carnelian Triceratops"
+  - Prehistoric Figurine of Wondrous Power, Carnelian Triceratops
   - Prehistoric Figurine of Wondrous Power, Carnelian Triceratops
 linter-yaml-title-alias: Prehistoric Figurine of Wondrous Power, Carnelian Triceratops
-obsidianUIMode: preview
 ---
 # Prehistoric Figurine of Wondrous Power, Carnelian Triceratops
 *Wondrous item, very rare*  

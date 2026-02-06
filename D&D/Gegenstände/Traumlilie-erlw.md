@@ -9,7 +9,6 @@ tags:
 aliases:
   - Dreamlily
 linter-yaml-title-alias: Dreamlily
-obsidianUIMode: preview
 ---
 # Dreamlily
 

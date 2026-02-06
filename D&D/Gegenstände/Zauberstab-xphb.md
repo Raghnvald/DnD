@@ -9,7 +9,6 @@ tags:
 aliases:
   - Wand
 linter-yaml-title-alias: Wand
-obsidianUIMode: preview
 ---
 # Wand
 *Spellcasting focus*  

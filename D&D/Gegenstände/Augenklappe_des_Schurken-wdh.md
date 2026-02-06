@@ -9,7 +9,6 @@ tags:
 aliases:
   - Knave's Eye Patch
 linter-yaml-title-alias: Knave's Eye Patch
-obsidianUIMode: preview
 ---
 # Knave's Eye Patch
 *Wondrous item, rare (requires attunement)*  

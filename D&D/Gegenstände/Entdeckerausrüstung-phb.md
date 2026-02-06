@@ -1,18 +1,18 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: "Explorer's Pack"
+Bezeichnung: Entdeckerausrüstung
+Kategorie: Ausrüstungspaket
+Eigenschaften: /
+Kst.: 10 GM
+Gew.: 29,5 kg
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - "Explorer's Pack"
   - Explorer's Pack
-linter-yaml-title-alias: "Explorer's Pack"
-obsidianUIMode: preview
+linter-yaml-title-alias: Explorer's Pack
 ---
-# Explorer's Pack
+# Entdeckerausrüstung
 *Adventuring gear*  
 
 - **Cost**: 10 gp

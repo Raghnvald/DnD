@@ -7,10 +7,9 @@ tags:
   - Gegenstand/wundersam/Trank
   - Quelle/5e/xdmg
 aliases:
-  - "Potion of Pugilism"
+  - Potion of Pugilism
   - Potion of Pugilism
 linter-yaml-title-alias: Potion of Pugilism
-obsidianUIMode: preview
 ---
 # Potion of Pugilism
 *Potion, uncommon*  

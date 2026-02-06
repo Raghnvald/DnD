@@ -24,7 +24,6 @@ classes:
 aliases:
   - Nondetection
 linter-yaml-title-alias: Nondetection
-obsidianUIMode: preview
 ---
 # Nondetection
 *3rd-level, Abjuration*  

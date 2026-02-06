@@ -24,7 +24,6 @@ classes:
 aliases:
   - Hold Monster
 linter-yaml-title-alias: Hold Monster
-obsidianUIMode: preview
 ---
 # Hold Monster
 *5th-level, Enchantment*  

@@ -9,7 +9,6 @@ tags:
 aliases:
   - Embroidered silk and velvet mantle set with numerous moonstones
 linter-yaml-title-alias: Embroidered silk and velvet mantle set with numerous moonstones
-obsidianUIMode: preview
 ---
 # Embroidered silk and velvet mantle set with numerous moonstones
 *Treasure (art object)*  

@@ -9,7 +9,6 @@ tags:
 aliases:
   - Potion of Invisibility
 linter-yaml-title-alias: Potion of Invisibility
-obsidianUIMode: preview
 ---
 # Potion of Invisibility
 *Potion, minor, very rare*  

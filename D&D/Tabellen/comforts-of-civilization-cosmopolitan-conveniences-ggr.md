@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Quelle/5e/ggr
+  - Quelle/5e/ggr
 aliases:
-- Comforts of Civilization; Cosmopolitan Conveniences
+  - Comforts of Civilization; Cosmopolitan Conveniences
 ---
 # Comforts of Civilization; Cosmopolitan Conveniences
 *Source: Guildmasters' Guide to Ravnica p. 9* 

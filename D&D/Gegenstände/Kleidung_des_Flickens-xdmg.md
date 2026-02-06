@@ -6,10 +6,8 @@ tags:
   - Gegenstand/Seltenheit/gewöhnlich
   - Quelle/5e/xdmg
 aliases:
-  - "Clothes of Mending"
   - Clothes of Mending
 linter-yaml-title-alias: Clothes of Mending
-obsidianUIMode: preview
 ---
 # Clothes of Mending
 *Wondrous item, common*  

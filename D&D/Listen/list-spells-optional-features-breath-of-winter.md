@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Zauber/list/optfeature/breath-of-winter
+  - Zauber/list/optfeature/breath-of-winter
 aliases:
-- Spells for Breath of Winter
+  - Spells for Breath of Winter
 ---
 # Spells for Breath of Winter
 

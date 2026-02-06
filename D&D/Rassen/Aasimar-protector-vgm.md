@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-race
+  - json5e-race
 tags:
-- Quelle/5e/vgm
-- Rasse/aasimar/protector
+  - Quelle/5e/vgm
+  - Rasse/aasimar/protector
 aliases:
-- Aasimar (Protector)
+  - Aasimar (Protector)
 ---
 # Aasimar (Protector)
 *Source: Volo's Guide to Monsters p. 105*  

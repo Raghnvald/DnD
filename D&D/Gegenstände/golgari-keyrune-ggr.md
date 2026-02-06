@@ -9,7 +9,6 @@ tags:
 aliases:
   - Golgari Keyrune
 linter-yaml-title-alias: Golgari Keyrune
-obsidianUIMode: preview
 ---
 # Golgari Keyrune
 *Wondrous item, very rare (requires attunement by a member of the Golgari guild)*  

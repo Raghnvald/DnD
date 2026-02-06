@@ -15,7 +15,6 @@ classes:
 aliases:
   - Find Steed
 linter-yaml-title-alias: Find Steed
-obsidianUIMode: preview
 ---
 # Find Steed
 *2nd-level, Conjuration*  

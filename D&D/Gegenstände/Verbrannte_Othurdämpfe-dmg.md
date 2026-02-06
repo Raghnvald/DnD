@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Burnt Othur Fumes
+Kategorie: Gift
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
@@ -9,7 +10,6 @@ tags:
 aliases:
   - Burnt Othur Fumes
 linter-yaml-title-alias: Burnt Othur Fumes
-obsidianUIMode: preview
 ---
 # Burnt Othur Fumes
 *Adventuring gear, poison (inhaled)*  

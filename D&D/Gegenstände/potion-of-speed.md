@@ -9,7 +9,6 @@ tags:
 aliases:
   - Potion of Speed
 linter-yaml-title-alias: Potion of Speed
-obsidianUIMode: preview
 ---
 # Potion of Speed
 *Potion, minor, very rare*  

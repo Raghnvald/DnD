@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- Quelle/5e/ggr
-- Monster/HG/1-4
-- Monster/Größe/Mittelgroß
-- Monster/Typ/Humanoid/any-race
+  - Quelle/5e/ggr
+  - Monster/HG/1-4
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/Humanoid/any-race
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Frontline Medic
+  - Frontline Medic
 ---
 # [Frontline Medic](3-Mechanics\CLI\bestiary\humanoid/frontline-medic-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 231*  

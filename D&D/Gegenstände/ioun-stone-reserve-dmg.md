@@ -9,7 +9,6 @@ tags:
 aliases:
   - Ioun Stone, Reserve
 linter-yaml-title-alias: Ioun Stone, Reserve
-obsidianUIMode: preview
 ---
 # Ioun Stone, Reserve
 *Wondrous item, major, rare (requires attunement)*  

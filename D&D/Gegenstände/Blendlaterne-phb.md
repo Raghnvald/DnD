@@ -2,8 +2,8 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Blendlaterne
-Typ: Abenteuerausrüstung
-Eigenschaften: n/v
+Kategorie: Abenteuerausrüstung
+Eigenschaften: /
 Kst.: 10 GM
 Gew.: 1,0 kg
 tags:
@@ -13,7 +13,6 @@ tags:
 aliases:
   - Blendlaterne
 linter-yaml-title-alias: Blendlaterne
-obsidianUIMode: preview
 ---
 # Blendlaterne
 *Abenteuerausrüstung*  

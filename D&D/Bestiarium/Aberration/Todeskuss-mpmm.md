@@ -11,7 +11,7 @@ statblock: inline
 statblock-link: "#^statblock"
 aliases:
   - Death Kiss
-Typ: Aberration (Betrachter)
+Kategorie: Aberration (Betrachter)
 ---
 # [Death Kiss](3-Mechanics\CLI\bestiary\aberration/death-kiss-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 85*  

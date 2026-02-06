@@ -1,6 +1,6 @@
 ---
 Bezeichnung: Schild +2
-Typ: Rüstung
+Kategorie: Rüstung
 Rüstung: Schild
 Eigenschaften: /
 Kst.: /

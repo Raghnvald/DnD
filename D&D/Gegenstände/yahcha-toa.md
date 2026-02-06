@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Yahcha
+Kategorie: Abenteuerausrüstung
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
@@ -9,7 +10,6 @@ tags:
 aliases:
   - Yahcha
 linter-yaml-title-alias: Yahcha
-obsidianUIMode: preview
 ---
 # Yahcha
 *Adventuring gear*  

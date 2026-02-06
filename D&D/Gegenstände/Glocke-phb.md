@@ -1,7 +1,9 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Bell
+Bezeichnung: Glocke
+Kategorie: Abenteuerausrüstung
+Eigenschaften: /
+Kst.: 1 GM
+Gew.: /
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
@@ -9,7 +11,6 @@ tags:
 aliases:
   - Bell
 linter-yaml-title-alias: Bell
-obsidianUIMode: preview
 ---
 # Bell
 *Adventuring gear*  

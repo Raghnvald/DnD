@@ -1,8 +1,8 @@
 ---
 cssclasses:
   - json5e-item
-Bezeichnung: "Fool's Blade"
-Typ: Nahkampf-Kriegswaffe
+Bezeichnung: Fool's Blade
+Kategorie: Nahkampf-Kriegswaffe
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
@@ -11,7 +11,6 @@ tags:
   - Gegenstand/wundersam/generic-variant
   - Quelle/5e/bmt
 aliases:
-  - "Fool's Blade"
   - Fool's Blade
   - Fool's Double-Bladed Scimitar
   - Fool's Greatsword
@@ -19,8 +18,7 @@ aliases:
   - Fool's Rapier
   - Fool's Scimitar
   - Fool's Shortsword
-linter-yaml-title-alias: "Fool's Blade"
-obsidianUIMode: preview
+linter-yaml-title-alias: Fool's Blade
 ---
 # Fool's Blade
 *Very rare (requires attunement)*  

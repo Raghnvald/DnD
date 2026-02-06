@@ -9,7 +9,6 @@ tags:
 aliases:
   - Helm of the Scavenger
 linter-yaml-title-alias: Helm of the Scavenger
-obsidianUIMode: preview
 ---
 # Helm of the Scavenger
 *Wondrous item, legendary (requires attunement by a spellcaster)*  

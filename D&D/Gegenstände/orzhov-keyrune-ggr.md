@@ -9,7 +9,6 @@ tags:
 aliases:
   - Orzhov Keyrune
 linter-yaml-title-alias: Orzhov Keyrune
-obsidianUIMode: preview
 ---
 # Orzhov Keyrune
 *Wondrous item, rare (requires attunement by a member of the Orzhov guild)*  

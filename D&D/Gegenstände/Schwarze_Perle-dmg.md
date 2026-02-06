@@ -1,7 +1,9 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Black Pearl
+Bezeichnung: Schwarze Perle
+Kategorie: Edelstein
+Eigenschaften: /
+Kst.: 500 GM
+Gew.: /
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone
   - Gegenstand/Seltenheit/keine
@@ -9,13 +11,12 @@ tags:
 aliases:
   - Black Pearl
 linter-yaml-title-alias: Black Pearl
-obsidianUIMode: preview
 ---
-# Black Pearl
-*Treasure (gemstone)*  
+# Schwarze Perle
+*Schatz (Edelstein)*  
 
-- **Cost**: 500 gp
+- **Kosten**: 500 GM
 
-An opaque pure black gemstone.
+Ein undurchsichtiger Edelstein in reinem Schwarz.
 
-*Source: Dungeon Master's Guide p. 134*
+*Quelle: Spielleiterhandbuch S. 134*

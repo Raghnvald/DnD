@@ -9,7 +9,6 @@ tags:
 aliases:
   - Circlet of Barbed Vision
 linter-yaml-title-alias: Circlet of Barbed Vision
-obsidianUIMode: preview
 ---
 # Circlet of Barbed Vision
 *Wondrous item, legendary (requires attunement by a creature of non-good alignment)*  

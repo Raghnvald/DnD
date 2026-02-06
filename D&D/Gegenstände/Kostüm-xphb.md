@@ -9,7 +9,6 @@ tags:
 aliases:
   - Costume
 linter-yaml-title-alias: Costume
-obsidianUIMode: preview
 ---
 # Costume
 *Adventuring gear*  

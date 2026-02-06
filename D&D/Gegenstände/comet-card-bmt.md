@@ -8,7 +8,6 @@ tags:
 aliases:
   - Comet Card
 linter-yaml-title-alias: Comet Card
-obsidianUIMode: preview
 ---
 # Comet Card
 *Wondrous item, legendary*  

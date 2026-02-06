@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Zauber/list/optfeature/tricksters-escape
+  - Zauber/list/optfeature/tricksters-escape
 aliases:
-- Spells for Trickster's Escape
+  - Spells for Trickster's Escape
 ---
 # Spells for Trickster's Escape
 

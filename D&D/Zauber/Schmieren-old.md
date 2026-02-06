@@ -1,6 +1,7 @@
 ---
 cssclasses: json5e-spell
 Bezeichnung: Schmieren
+Zaubergrad: 1
 status: WIP
 tags:
   - Klasse/Magier

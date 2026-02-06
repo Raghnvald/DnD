@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Zauber/list/optfeature/bewitching-whispers
+  - Zauber/list/optfeature/bewitching-whispers
 aliases:
-- Spells for Bewitching Whispers
+  - Spells for Bewitching Whispers
 ---
 # Spells for Bewitching Whispers
 

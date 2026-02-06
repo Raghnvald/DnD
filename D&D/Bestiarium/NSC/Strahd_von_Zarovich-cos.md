@@ -3,7 +3,7 @@ prefer-view: edit-source read
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Strahd von Zarovich
-Typ: Untoter (Gestaltwandler)
+Kategorie: Untoter (Gestaltwandler)
 Größe: Mittelgroß
 HG: 15
 Habitat:

@@ -8,7 +8,6 @@ tags:
 aliases:
   - Bead of Force
 linter-yaml-title-alias: Bead of Force
-obsidianUIMode: preview
 ---
 # Bead of Force
 *Wondrous item, minor, rare*  

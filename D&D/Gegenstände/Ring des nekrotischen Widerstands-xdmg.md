@@ -7,10 +7,9 @@ tags:
   - Gegenstand/wundersam/Ring
   - Quelle/5e/xdmg
 aliases:
-  - "Ring of Necrotic Resistance"
+  - Ring of Necrotic Resistance
   - Ring of Necrotic Resistance
 linter-yaml-title-alias: Ring of Necrotic Resistance
-obsidianUIMode: preview
 ---
 # Ring of Necrotic Resistance
 *Ring, rare*  

@@ -7,10 +7,9 @@ tags:
   - Gegenstand/wundersam/Ring
   - Quelle/5e/xdmg
 aliases:
-  - "Ring of Psychic Resistance"
+  - Ring of Psychic Resistance
   - Ring of Psychic Resistance
 linter-yaml-title-alias: Ring of Psychic Resistance
-obsidianUIMode: preview
 ---
 # Ring of Psychic Resistance
 *Ring, rare*  

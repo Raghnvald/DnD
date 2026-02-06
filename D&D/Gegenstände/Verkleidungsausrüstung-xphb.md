@@ -9,7 +9,6 @@ tags:
 aliases:
   - Disguise Kit
 linter-yaml-title-alias: Disguise Kit
-obsidianUIMode: preview
 ---
 # Disguise Kit
 *Tool*  

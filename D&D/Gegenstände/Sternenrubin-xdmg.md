@@ -9,7 +9,6 @@ tags:
 aliases:
   - Star Ruby
 linter-yaml-title-alias: Star Ruby
-obsidianUIMode: preview
 ---
 # Star Ruby
 *Treasure (gemstone)*  

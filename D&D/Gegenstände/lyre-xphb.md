@@ -9,7 +9,6 @@ tags:
 aliases:
   - Lyre
 linter-yaml-title-alias: Lyre
-obsidianUIMode: preview
 ---
 # Lyre
 *Instrument*  

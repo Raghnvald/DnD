@@ -8,7 +8,6 @@ tags:
 aliases:
   - Champion
 linter-yaml-title-alias: Champion
-obsidianUIMode: preview
 ---
 # Champion
 *[Fighter](Kämpfer-phb.md): Martial Archetype*  

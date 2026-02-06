@@ -2,7 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Eldritch Lich
-Typ: Untoter
+Kategorie: Untoter
 Größe: Mittelgroß
 HG: "15"
 Habitat:

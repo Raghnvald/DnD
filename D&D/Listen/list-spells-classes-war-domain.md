@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Zauber/list/subclass/war-domain
+  - Zauber/list/subclass/war-domain
 aliases:
-- Spells for War Domain
+  - Spells for War Domain
 ---
 # Spells for War Domain
 

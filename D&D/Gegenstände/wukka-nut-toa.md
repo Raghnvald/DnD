@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Wukka Nut
+Kategorie: Abenteuerausrüstung
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/unbekannt
@@ -9,7 +10,6 @@ tags:
 aliases:
   - Wukka Nut
 linter-yaml-title-alias: Wukka Nut
-obsidianUIMode: preview
 ---
 # Wukka Nut
 *Adventuring gear*  

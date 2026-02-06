@@ -17,7 +17,6 @@ classes:
 aliases:
   - Time Stop
 linter-yaml-title-alias: Time Stop
-obsidianUIMode: preview
 ---
 # Time Stop
 *9th-level, Transmutation*  

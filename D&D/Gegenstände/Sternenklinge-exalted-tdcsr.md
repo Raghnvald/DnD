@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Star Razor (Exalted)
-Typ: Nahkampf-Kriegswaffe
+Kategorie: Nahkampf-Kriegswaffe
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -12,7 +12,6 @@ tags:
 aliases:
   - Star Razor (Exalted)
 linter-yaml-title-alias: Star Razor (Exalted)
-obsidianUIMode: preview
 ---
 # Star Razor (Exalted)
 *Weapon ([longsword](/3-Mechanics/CLI/items/longsword-xphb.md)), legendary (requires attunement)*  

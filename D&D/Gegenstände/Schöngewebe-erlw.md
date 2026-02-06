@@ -8,7 +8,6 @@ tags:
 aliases:
   - Glamerweave
 linter-yaml-title-alias: Glamerweave
-obsidianUIMode: preview
 ---
 # Glamerweave
 *Wondrous item*  

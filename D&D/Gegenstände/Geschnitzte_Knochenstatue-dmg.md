@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Carved bone statuette
+Kategorie: Kunstobjekt
 tags:
   - Gegenstand/Ausrüstung/treasure-art-object
   - Gegenstand/Seltenheit/keine
@@ -9,7 +10,6 @@ tags:
 aliases:
   - Carved bone statuette
 linter-yaml-title-alias: Carved bone statuette
-obsidianUIMode: preview
 ---
 # Carved bone statuette
 *Treasure (art object)*  

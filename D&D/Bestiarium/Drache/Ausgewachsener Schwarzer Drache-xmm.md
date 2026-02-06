@@ -2,7 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Adult Black Dragon
-Typ: Drache (Chromatisch)
+Kategorie: Drache (Chromatisch)
 Größe: Riesig
 HG: 14
 Habitat:

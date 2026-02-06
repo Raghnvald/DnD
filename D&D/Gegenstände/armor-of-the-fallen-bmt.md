@@ -23,7 +23,6 @@ aliases:
   - Spiked Armor of the Fallen
   - Splint Armor of the Fallen
 linter-yaml-title-alias: Armor of the Fallen
-obsidianUIMode: preview
 ---
 # Armor of the Fallen
 *Uncommon (requires attunement)*  

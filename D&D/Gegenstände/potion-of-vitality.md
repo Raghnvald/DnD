@@ -9,7 +9,6 @@ tags:
 aliases:
   - Potion of Vitality
 linter-yaml-title-alias: Potion of Vitality
-obsidianUIMode: preview
 ---
 # Potion of Vitality
 *Potion, minor, very rare*  

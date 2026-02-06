@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Quelle/5e/bgg
+  - Quelle/5e/bgg
 aliases:
-- Howling Iceberg Tunnels
+  - Howling Iceberg Tunnels
 ---
 # Howling Iceberg Tunnels
 *Source: Bigby Presents: Glory of the Giants p. 88* 

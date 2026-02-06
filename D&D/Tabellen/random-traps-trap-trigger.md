@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Quelle/5e/dmg
+  - Quelle/5e/dmg
 aliases:
-- Random Traps; Trap Trigger
+  - Random Traps; Trap Trigger
 ---
 # Random Traps; Trap Trigger
 *Source: Dungeon Master's Guide p. 297* 

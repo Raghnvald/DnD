@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Bosheit
+Kategorie: Gift
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
@@ -9,7 +10,6 @@ tags:
 aliases:
   - Bosheit
 linter-yaml-title-alias: Bosheit
-obsidianUIMode: preview
 ---
 # Bosheit
 *Abenteuerausrüstung, Gift (Eingeatmet)*  

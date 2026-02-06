@@ -8,7 +8,6 @@ tags:
 aliases:
   - Cleansing Stone
 linter-yaml-title-alias: Cleansing Stone
-obsidianUIMode: preview
 ---
 # Cleansing Stone
 *Wondrous item, common*  

@@ -9,7 +9,6 @@ tags:
 aliases:
   - Scroll of Protection from Elementals
 linter-yaml-title-alias: Scroll of Protection from Elementals
-obsidianUIMode: preview
 ---
 # Scroll of Protection from Elementals
 *Scroll, minor, rare*  

@@ -9,7 +9,6 @@ tags:
 aliases:
   - Gold idol
 linter-yaml-title-alias: Gold idol
-obsidianUIMode: preview
 ---
 # Gold idol
 *Treasure (art object)*  

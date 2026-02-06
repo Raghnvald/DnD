@@ -9,7 +9,6 @@ tags:
 aliases:
   - Charred Wand of Magic Missiles
 linter-yaml-title-alias: Charred Wand of Magic Missiles
-obsidianUIMode: preview
 ---
 # Charred Wand of Magic Missiles
 *Wand, uncommon*  

@@ -1,7 +1,9 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Topaz
+Bezeichnung: Topas
+Kategorie: Edelstein
+Eigenschaften: /
+Kst.: 500 GM
+Gew.: /
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone
   - Gegenstand/Seltenheit/keine
@@ -9,13 +11,12 @@ tags:
 aliases:
   - Topaz
 linter-yaml-title-alias: Topaz
-obsidianUIMode: preview
 ---
-# Topaz
-*Treasure (gemstone)*  
+# Topas
+*Schatz (Edelstein)*  
 
-- **Cost**: 500 gp
+- **Kosten**: 500 GM
 
-A transparent golden yellow gemstone.
+Ein durchsichtiger, goldgelber Edelstein.
 
-*Source: Dungeon Master's Guide p. 134*
+*Quelle: Spielleiterhandbuch S. 134*

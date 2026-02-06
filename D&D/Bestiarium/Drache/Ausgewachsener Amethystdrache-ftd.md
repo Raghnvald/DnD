@@ -2,7 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Adult Amethyst Dragon
-Typ: Drache (Edelstein)
+Kategorie: Drache (Edelstein)
 Größe: Riesig
 HG: 16
 Habitat:

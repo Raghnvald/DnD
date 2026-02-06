@@ -2,7 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Black Dragon Wyrmling
-Typ: Drache
+Kategorie: Drache
 Größe: Mittelgroß
 HG: 2
 Habitat:

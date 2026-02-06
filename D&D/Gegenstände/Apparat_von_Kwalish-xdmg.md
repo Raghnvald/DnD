@@ -1,6 +1,6 @@
 ---
 Bezeichnung: Apparat von Kwalish
-Typ: Wundersamer Gegenstand
+Kategorie: Wundersamer Gegenstand
 Eigenschaften: /
 Kst.: /
 Gew.: 250,0 kg
@@ -8,7 +8,6 @@ tags:
   - Gegenstand/Seltenheit/legendär
   - Quelle/5e/xdmg
 aliases:
-  - Apparat von Kwalish
   - Apparatus of Kwalish
 linter-yaml-title-alias: Apparat von Kwalish
 ---

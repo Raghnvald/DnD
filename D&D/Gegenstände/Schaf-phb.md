@@ -1,7 +1,9 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Sheep
+Bezeichnung: Schaf
+Kategorie: Handelsgut
+Eigenschaften: /
+Kst.: 2 GM
+Gew.: /
 tags:
   - Gegenstand/Ausrüstung/Handelsgut
   - Gegenstand/Seltenheit/keine
@@ -9,11 +11,10 @@ tags:
 aliases:
   - Sheep
 linter-yaml-title-alias: Sheep
-obsidianUIMode: preview
 ---
-# Sheep
-*Trade good*  
+# Schaf
+*Handelsgut*  
 
-- **Cost**: 2 gp
+- **Kosten**: 2 GM
 
-*Source: Player's Handbook p. 157. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+*Quelle: Spielerhandbuch S. 157. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*

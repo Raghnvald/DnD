@@ -2,7 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Young Dragon Turtle
-Typ: Drache
+Kategorie: Drache
 Größe: Riesig
 Habitat:
   - /

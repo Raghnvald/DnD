@@ -9,7 +9,6 @@ tags:
 aliases:
   - Deck of Oracles
 linter-yaml-title-alias: Deck of Oracles
-obsidianUIMode: preview
 ---
 # Deck of Oracles
 *Wondrous item, rare (requires attunement)*  

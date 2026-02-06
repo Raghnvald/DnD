@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Small gold statuette set with rubies
+Kategorie: Kunstobjekt
 tags:
   - Gegenstand/Ausrüstung/treasure-art-object
   - Gegenstand/Seltenheit/keine
@@ -9,7 +10,6 @@ tags:
 aliases:
   - Small gold statuette set with rubies
 linter-yaml-title-alias: Small gold statuette set with rubies
-obsidianUIMode: preview
 ---
 # Small gold statuette set with rubies
 *Treasure (art object)*  

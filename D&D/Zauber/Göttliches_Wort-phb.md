@@ -15,7 +15,6 @@ classes:
 aliases:
   - Divine Word
 linter-yaml-title-alias: Divine Word
-obsidianUIMode: preview
 ---
 # Divine Word
 *7th-level, Evocation*  

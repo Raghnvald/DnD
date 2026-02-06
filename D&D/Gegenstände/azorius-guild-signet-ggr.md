@@ -10,7 +10,6 @@ tags:
 aliases:
   - Azorius Guild Signet
 linter-yaml-title-alias: Azorius Guild Signet
-obsidianUIMode: preview
 ---
 # Azorius Guild Signet
 *Ring, uncommon (requires attunement)*  

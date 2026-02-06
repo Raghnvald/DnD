@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Zauber/list/subrace/half-elf-drow-descent
+  - Zauber/list/subrace/half-elf-drow-descent
 aliases:
-- Spells for Half-Elf (Drow Descent)
+  - Spells for Half-Elf (Drow Descent)
 ---
 # Spells for Half-Elf (Drow Descent)
 

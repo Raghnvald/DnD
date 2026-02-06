@@ -3,13 +3,12 @@ cssclasses:
   - json5e-item
 Bezeichnung: Keelboat
 tags:
-  - Gegenstand/Fortbewegung/ship-water
+  - Gegenstand/Ausrüstung/Fahrzeug
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Keelboat
 linter-yaml-title-alias: Keelboat
-obsidianUIMode: preview
 ---
 # Keelboat
 *Ship, vehicle (water)*  

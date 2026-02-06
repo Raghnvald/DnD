@@ -9,7 +9,6 @@ tags:
 aliases:
   - Lute
 linter-yaml-title-alias: Lute
-obsidianUIMode: preview
 ---
 # Lute
 *Instrument*  

@@ -1,7 +1,7 @@
 ---
 Bezeichnung: Abdeckbare Laterne
-Typ: Abenteuerausrüstung
-Eigenschaften: n/v
+Kategorie: Abenteuerausrüstung
+Eigenschaften: /
 Kst.: 5 GM
 Gew.: 1,0 kg
 tags:
@@ -9,7 +9,6 @@ tags:
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Abdeckbare Laterne
   - Hooded Lantern
 linter-yaml-title-alias: Abdeckbare Laterne
 ---

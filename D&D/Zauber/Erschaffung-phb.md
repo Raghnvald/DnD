@@ -17,7 +17,6 @@ classes:
 aliases:
   - Creation
 linter-yaml-title-alias: Creation
-obsidianUIMode: preview
 ---
 # Creation
 *5th-level, Illusion*  

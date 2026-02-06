@@ -1,6 +1,6 @@
 ---
 Bezeichnung: Figur der wundersamen Kraft
-Typ: Wundersamer Gegenstand
+Kategorie: Wundersamer Gegenstand
 Eigenschaften: n/v
 Kst.: n/v
 Gew.: n/v

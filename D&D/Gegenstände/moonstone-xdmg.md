@@ -9,7 +9,6 @@ tags:
 aliases:
   - Moonstone
 linter-yaml-title-alias: Moonstone
-obsidianUIMode: preview
 ---
 # Moonstone
 *Treasure (gemstone)*  

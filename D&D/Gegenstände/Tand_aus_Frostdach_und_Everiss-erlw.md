@@ -9,7 +9,6 @@ tags:
 aliases:
   - Frostfell and Everice Trinket
 linter-yaml-title-alias: Frostfell and Everice Trinket
-obsidianUIMode: preview
 ---
 # Frostfell and Everice Trinket
 *Adventuring gear*  

@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-hazard
+  - json5e-hazard
 tags:
-- Quelle/5e/dmg
-- Kompendium/Bedrohung/wth
+  - Quelle/5e/dmg
+  - Kompendium/Bedrohung/wth
 aliases:
-- Strong Wind
+  - Strong Wind
 ---
 # Strong Wind
 *Weather*  

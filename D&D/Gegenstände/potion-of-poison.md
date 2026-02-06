@@ -9,7 +9,6 @@ tags:
 aliases:
   - Potion of Poison
 linter-yaml-title-alias: Potion of Poison
-obsidianUIMode: preview
 ---
 # Potion of Poison
 *Potion, minor, uncommon*  

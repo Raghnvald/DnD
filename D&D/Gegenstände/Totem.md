@@ -1,9 +1,9 @@
 ---
 Bezeichnung: Totem
-Typ: Druidischer Fokus
-Eigenschaften: n/v
+Kategorie: Druidischer Fokus
+Eigenschaften: /
 Kst.: 1 GM
-Gew.: n/v
+Gew.: /
 tags:
   - Gegenstand/Ausrüstung/Zauberfokus
   - Gegenstand/Seltenheit/keine

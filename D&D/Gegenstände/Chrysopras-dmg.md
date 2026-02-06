@@ -1,7 +1,9 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Chrysoprase
+Bezeichnung: Chrysopras
+Kategorie: Edelstein
+Eigenschaften: /
+Kst.: 50 GM
+Gew.: /
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone
   - Gegenstand/Seltenheit/keine
@@ -9,13 +11,12 @@ tags:
 aliases:
   - Chrysoprase
 linter-yaml-title-alias: Chrysoprase
-obsidianUIMode: preview
 ---
-# Chrysoprase
-*Treasure (gemstone)*  
+# Chrysopras
+*Schatz (Edelstein)*  
 
-- **Cost**: 50 gp
+- **Kosten**: 50 GM
 
-A translucent green gemstone.
+Ein lichtdurchlässiger, grüner Edelstein.
 
-*Source: Dungeon Master's Guide p. 134*
+*Quelle: Spielleiterhandbuch S. 134*

@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Imbued Wood (Fernian Ash)
+Kategorie: Wundersamer Gegenstand
 tags:
   - Gegenstand/Ausrüstung/Zauberfokus
   - Gegenstand/Einstimmung/required
@@ -15,7 +16,6 @@ aliases:
   - Fernian Ash Wand
   - Imbued Wood (Fernian Ash)
 linter-yaml-title-alias: Imbued Wood (Fernian Ash)
-obsidianUIMode: preview
 ---
 # Imbued Wood (Fernian Ash)
 *Wondrous item, common (requires attunement)*  

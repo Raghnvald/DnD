@@ -15,7 +15,6 @@ classes:
 aliases:
   - Mordenkainen's Sword
 linter-yaml-title-alias: Mordenkainen's Sword
-obsidianUIMode: preview
 ---
 # Mordenkainen's Sword
 *7th-level, Evocation*  

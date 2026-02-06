@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - tag-bubble
-obsidianUIMode: reading
 level: 6
 proficiency_bonus:
 hp: 57

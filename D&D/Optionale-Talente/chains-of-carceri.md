@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-feat
+  - json5e-feat
 tags:
-- Quelle/5e/phb
-- Kompendium/Optionales/ei
+  - Quelle/5e/phb
+  - Kompendium/Optionales/ei
 aliases:
-- Chains of Carceri
+  - Chains of Carceri
 ---
 # Chains of Carceri
 *Source: Player's Handbook p. 110. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  

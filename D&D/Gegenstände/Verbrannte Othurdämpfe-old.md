@@ -1,9 +1,9 @@
 ---
 Bezeichnung: Verbrannte Othurdämpfe (Eingeatmet)
-Typ: Gift
+Kategorie: Gift
 Eigenschaften: Gift
 Kst.: 500 GM
-Gew.: n/v
+Gew.: /
 tags:
   - Gegenstand/Ausrüstung/Gift
   - Gegenstand/Eigenschaft/Gift

@@ -1,7 +1,9 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Candle
+Bezeichnung: Kerze
+Kategorie: Abenteuerausrüstung
+Eigenschaften: /
+Kst.: 1 KM
+Gew.: /
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
@@ -9,9 +11,8 @@ tags:
 aliases:
   - Candle
 linter-yaml-title-alias: Candle
-obsidianUIMode: preview
 ---
-# Candle
+# Kerze
 *Adventuring gear*  
 
 - **Cost**: 1 cp

@@ -9,7 +9,6 @@ tags:
 aliases:
   - Purple Worm Poison
 linter-yaml-title-alias: Purple Worm Poison
-obsidianUIMode: preview
 ---
 # Purple Worm Poison
 *Adventuring gear, poison (injury)*  

@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Shawm
+Kategorie: Werkzeug
 tags:
   - Gegenstand/Ausrüstung/Instrument
   - Gegenstand/Seltenheit/keine
@@ -9,7 +10,6 @@ tags:
 aliases:
   - Shawm
 linter-yaml-title-alias: Shawm
-obsidianUIMode: preview
 ---
 # Shawm
 *Instrument*  

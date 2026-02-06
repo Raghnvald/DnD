@@ -8,7 +8,6 @@ tags:
 aliases:
   - Speaking Stone
 linter-yaml-title-alias: Speaking Stone
-obsidianUIMode: preview
 ---
 # Speaking Stone
 *Wondrous item, very rare*  

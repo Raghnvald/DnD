@@ -2,7 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Aspect of Bahamut
-Typ: Drache (Metallisch)
+Kategorie: Drache (Metallisch)
 Größe: Gigantisch
 HG: 30
 Habitat:

@@ -1,16 +1,15 @@
 ---
 cssclasses:
   - json5e-item
-Bezeichnung: "Warrior's Passkey"
+Bezeichnung: Warrior's Passkey
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/bmt
 aliases:
-  - "Warrior's Passkey"
   - Warrior's Passkey
-linter-yaml-title-alias: "Warrior's Passkey"
-obsidianUIMode: preview
+  - Warrior's Passkey
+linter-yaml-title-alias: Warrior's Passkey
 ---
 # Warrior's Passkey
 *Wondrous item, rare (requires attunement)*  

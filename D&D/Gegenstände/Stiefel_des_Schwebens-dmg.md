@@ -9,7 +9,6 @@ tags:
 aliases:
   - Boots of Levitation
 linter-yaml-title-alias: Boots of Levitation
-obsidianUIMode: preview
 ---
 # Boots of Levitation
 *Wondrous item, major, rare (requires attunement)*  

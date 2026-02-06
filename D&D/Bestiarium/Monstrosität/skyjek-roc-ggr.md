@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- Quelle/5e/ggr
-- Monster/HG/2
-- Monster/Größe/Groß
-- Monster/Typ/Monstrosität
+  - Quelle/5e/ggr
+  - Monster/HG/2
+  - Monster/Größe/Groß
+  - Monster/Typ/Monstrosität
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Skyjek Roc
+  - Skyjek Roc
 ---
 # [Skyjek Roc](3-Mechanics\CLI\bestiary\monstrosity/skyjek-roc-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 219*  

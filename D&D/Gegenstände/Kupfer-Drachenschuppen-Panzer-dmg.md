@@ -11,7 +11,6 @@ tags:
 aliases:
   - Copper Dragon Scale Mail
 linter-yaml-title-alias: Copper Dragon Scale Mail
-obsidianUIMode: preview
 ---
 # Copper Dragon Scale Mail
 *Medium armor, major, very rare (requires attunement)*  

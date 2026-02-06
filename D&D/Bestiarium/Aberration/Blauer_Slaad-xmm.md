@@ -12,7 +12,7 @@ statblock: inline
 statblock-link: "#^statblock"
 aliases:
   - Blue Slaad
-Typ: Aberration
+Kategorie: Aberration
 Habitat:
   - Planar (Limbo)
 Größe: Groß

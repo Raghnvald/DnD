@@ -8,7 +8,6 @@ tags:
 aliases:
   - Wheel of Wind and Water
 linter-yaml-title-alias: Wheel of Wind and Water
-obsidianUIMode: preview
 ---
 # Wheel of Wind and Water
 *Wondrous item, uncommon*  

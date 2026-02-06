@@ -9,7 +9,6 @@ tags:
 aliases:
   - Potion of Storm Giant Strength
 linter-yaml-title-alias: Potion of Storm Giant Strength
-obsidianUIMode: preview
 ---
 # Potion of Storm Giant Strength
 *Potion, minor, legendary*  

@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Zauber/list/subclass/moon-domain
+  - Zauber/list/subclass/moon-domain
 aliases:
-- Spells for Moon Domain
+  - Spells for Moon Domain
 ---
 # Spells for Moon Domain
 

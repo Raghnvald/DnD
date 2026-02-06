@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Imbued Wood (Lamannian Oak)
+Kategorie: Wundersamer Gegenstand
 tags:
   - Gegenstand/Ausrüstung/Zauberfokus
   - Gegenstand/Einstimmung/required
@@ -15,7 +16,6 @@ aliases:
   - Lamannian Oak Staff
   - Lamannian Oak Wand
 linter-yaml-title-alias: Imbued Wood (Lamannian Oak)
-obsidianUIMode: preview
 ---
 # Imbued Wood (Lamannian Oak)
 *Wondrous item, common (requires attunement)*  

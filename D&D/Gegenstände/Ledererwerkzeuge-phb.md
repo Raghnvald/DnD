@@ -1,21 +1,21 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: "Leatherworker's Tools"
+Bezeichnung: Ledererwerkzeuge
+Kategorie: Werkzeug
+Eigenschaften: /
+Kst.: 5 GM
+Gew.: 2,5 kg
 tags:
   - Gegenstand/Ausrüstung/Werkzeug
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - "Leatherworker's Tools"
   - Leatherworker's Tools
-linter-yaml-title-alias: "Leatherworker's Tools"
-obsidianUIMode: preview
+linter-yaml-title-alias: Leatherworker's Tools
 ---
-# Leatherworker's Tools
-*Artisan's tools*  
+# Ledererwerkzeuge
+*Handwerkszeug*
 
-- **Cost**: 5 gp
-- **Weight**: 5.0 lbs.
+- **Kosten**: 5 GM
+- **Gewicht**: 2,5 kg.
 
-*Source: Player's Handbook p. 154, Xanathar's Guide to Everything p. 82. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+*Quelle: Spielerhandbuch S. 154, Xanathars Ratgeber für Alles S. 82. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*

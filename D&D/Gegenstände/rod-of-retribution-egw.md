@@ -10,7 +10,6 @@ tags:
 aliases:
   - Rod of Retribution
 linter-yaml-title-alias: Rod of Retribution
-obsidianUIMode: preview
 ---
 # Rod of Retribution
 *Rod, uncommon (requires attunement)*  

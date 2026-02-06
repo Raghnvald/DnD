@@ -1,15 +1,14 @@
 ---
 cssclasses:
   - json5e-item
-Bezeichnung: "Harkon's Bite"
+Bezeichnung: Harkon's Bite
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/vrgr
 aliases:
-  - "Harkon's Bite"
   - Harkon's Bite
-linter-yaml-title-alias: "Harkon's Bite"
+linter-yaml-title-alias: Harkon's Bite
 ---
 # Harkon's Bite
 *Wondrous item, cursed item, uncommon (requires attunement)*  

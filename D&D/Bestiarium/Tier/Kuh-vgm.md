@@ -1,17 +1,16 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- Quelle/5e/vgm
-- Monster/HG/1-4
-- Monster/Habitat/Grasland
-- Monster/Größe/Groß
-- Monster/Typ/Tier
+  - Quelle/5e/vgm
+  - Monster/HG/1-4
+  - Monster/Habitat/Grasland
+  - Monster/Größe/Groß
+  - Monster/Typ/Tier
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Cow
+  - Cow
 ---
 # [Cow](3-Mechanics\CLI\bestiary\beast/cow-vgm.md)
 *Source: Volo's Guide to Monsters p. 207*  

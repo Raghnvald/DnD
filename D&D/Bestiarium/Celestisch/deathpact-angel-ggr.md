@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- Quelle/5e/ggr
-- Monster/HG/14
-- Monster/Größe/Mittelgroß
-- Monster/Typ/Himmlische
+  - Quelle/5e/ggr
+  - Monster/HG/14
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/Himmlische
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Deathpact Angel
+  - Deathpact Angel
 ---
 # [Deathpact Angel](3-Mechanics\CLI\bestiary\celestial/deathpact-angel-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 192*  

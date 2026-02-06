@@ -2,7 +2,7 @@
 cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
 Name: Abberanter Eiferer
-Typ: Aberration
+Kategorie: Aberration
 Größe: Mittelgroß
 HG: 8
 Habitat:

@@ -13,5 +13,5 @@ views:
       - file.name
       - aliases
     sort:
-      - property: aliases
+      - property: file.name
         direction: ASC

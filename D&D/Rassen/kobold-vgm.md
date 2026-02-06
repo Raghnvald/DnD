@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-race
+  - json5e-race
 tags:
-- Quelle/5e/vgm
-- Rasse/kobold
+  - Quelle/5e/vgm
+  - Rasse/kobold
 aliases:
-- Kobold
+  - Kobold
 ---
 # Kobold
 *Source: Volo's Guide to Monsters p. 119*  

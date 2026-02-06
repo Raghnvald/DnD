@@ -6,10 +6,8 @@ tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/xdmg
 aliases:
-  - "Goggles of Night"
   - Goggles of Night
 linter-yaml-title-alias: Goggles of Night
-obsidianUIMode: preview
 ---
 # Goggles of Night
 *Wondrous item, uncommon*  

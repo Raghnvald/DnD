@@ -18,7 +18,6 @@ aliases:
   - Bloodseeker Needle
   - Bloodseeker Sling Bullet
 linter-yaml-title-alias: Bloodseeker Ammunition
-obsidianUIMode: preview
 ---
 # Bloodseeker Ammunition
 *Ammunition, very rare*  

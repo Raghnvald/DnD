@@ -3,13 +3,12 @@ cssclasses:
   - json5e-item
 Bezeichnung: Skyship
 tags:
-  - Gegenstand/Fortbewegung/airship-air
+  - Gegenstand/Ausrüstung/Fahrzeug
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/egw
 aliases:
   - Skyship
 linter-yaml-title-alias: Skyship
-obsidianUIMode: preview
 ---
 # Skyship
 *Airship, vehicle (air)*  

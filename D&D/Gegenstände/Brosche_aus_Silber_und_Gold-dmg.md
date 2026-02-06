@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Silver and gold brooch
+Kategorie: Kunstobjekt
 tags:
   - Gegenstand/Ausrüstung/treasure-art-object
   - Gegenstand/Seltenheit/keine
@@ -9,7 +10,6 @@ tags:
 aliases:
   - Silver and gold brooch
 linter-yaml-title-alias: Silver and gold brooch
-obsidianUIMode: preview
 ---
 # Silver and gold brooch
 *Treasure (art object)*  

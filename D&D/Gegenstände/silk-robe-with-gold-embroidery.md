@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Silk robe with gold embroidery
+Kategorie: Kunstobjekt
 tags:
   - Gegenstand/Ausrüstung/treasure-art-object
   - Gegenstand/Seltenheit/keine
@@ -9,7 +10,6 @@ tags:
 aliases:
   - Silk robe with gold embroidery
 linter-yaml-title-alias: Silk robe with gold embroidery
-obsidianUIMode: preview
 ---
 # Silk robe with gold embroidery
 *Treasure (art object)*  

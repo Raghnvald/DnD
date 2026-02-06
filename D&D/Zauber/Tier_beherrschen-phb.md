@@ -23,7 +23,6 @@ classes:
 aliases:
   - Dominate Beast
 linter-yaml-title-alias: Dominate Beast
-obsidianUIMode: preview
 ---
 # Dominate Beast
 *4th-level, Enchantment*  

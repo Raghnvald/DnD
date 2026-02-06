@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Lash of Shadows (Exalted)
-Typ: Nahkampf-Kriegswaffe
+Kategorie: Nahkampf-Kriegswaffe
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/Artefakt
@@ -12,7 +12,6 @@ tags:
 aliases:
   - Lash of Shadows (Exalted)
 linter-yaml-title-alias: Lash of Shadows (Exalted)
-obsidianUIMode: preview
 ---
 # Lash of Shadows (Exalted)
 *Weapon ([whip](/3-Mechanics/CLI/items/whip-xphb.md)), artifact (requires attunement)*  

@@ -9,7 +9,6 @@ tags:
 aliases:
   - Watchful Helm
 linter-yaml-title-alias: Watchful Helm
-obsidianUIMode: preview
 ---
 # Watchful Helm
 *Wondrous item, very rare (requires attunement)*  

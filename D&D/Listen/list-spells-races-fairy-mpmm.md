@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Zauber/list/race/fairy
+  - Zauber/list/race/fairy
 aliases:
-- Spells for Fairy
+  - Spells for Fairy
 ---
 # Spells for Fairy
 

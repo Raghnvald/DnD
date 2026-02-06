@@ -18,7 +18,7 @@ Dein Fokus richtet sich auf Personen und auf den Einfluss und die Geheimnisse, �
 | 17.           | Seele der Täuschung                     |
 
 #### Meister der Intrige
-Wenn du auf der 3. Stufe diesen Archetyp wählst, erhältst du Übung im Umgang mit der [Kleidung-Kostüm](../Gegenst%C3%A4nde/Kleidung-Kost%C3%BCm.md), der [Fälscherausrüstung](../../../Gegenstände/Fälscherausrüstung.md) und einem Spiel deiner Wahl. Du erlernst außerdem zwei Sprachen deiner Wahl.
+Wenn du auf der 3. Stufe diesen Archetyp wählst, erhältst du Übung im Umgang mit der [Kleidung-Kostüm](../Gegenst%C3%A4nde/Kleidung-Kost%C3%BCm.md), der [Fälscherausrüstung-old](Fälscherausrüstung-old.md) und einem Spiel deiner Wahl. Du erlernst außerdem zwei Sprachen deiner Wahl.
 
 Zudem kannst du die Sprachmuster und den Akzent einer Kreatur überzeugend nachahmen, wenn du sie mindestens 1 Minute lang sprechen hören kannst. So kannst du dich als Muttersprachler eines bestimmten Landes ausgeben, vorausgesetzt du sprichst die entsprechende Sprache.
 

@@ -9,7 +9,6 @@ tags:
 aliases:
   - Jeweled gold crown
 linter-yaml-title-alias: Jeweled gold crown
-obsidianUIMode: preview
 ---
 # Jeweled gold crown
 *Treasure (art object)*  

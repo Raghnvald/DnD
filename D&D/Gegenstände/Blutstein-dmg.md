@@ -1,7 +1,9 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Bloodstone
+Bezeichnung: Blutstein
+Kategorie: Edelstein
+Eigenschaften: /
+Kst.: 50 GM
+Gew.: /
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone
   - Gegenstand/Seltenheit/keine
@@ -9,13 +11,12 @@ tags:
 aliases:
   - Bloodstone
 linter-yaml-title-alias: Bloodstone
-obsidianUIMode: preview
 ---
-# Bloodstone
-*Treasure (gemstone)*  
+# Blutstein
+*Schatz (Edelstein)*  
 
-- **Cost**: 50 gp
+- **Kosten**: 50 GM
 
-An opaque dark gray with red flecks gemstone.
+Ein undurchsichtiger, dunkelgrauer Edelstein mit roten Flecken.
 
-*Source: Dungeon Master's Guide p. 134*
+*Quelle: Spielleiterhandbuch S. 134*

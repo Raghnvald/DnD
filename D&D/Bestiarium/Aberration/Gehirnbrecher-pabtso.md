@@ -12,7 +12,7 @@ aliases:
   - Brain Breaker
 Name: Gehirnbrecher
 Image: aberration/token/brain-breaker-pabtso.webp
-Typ: Aberration (Gedankenschinder)
+Kategorie: Aberration (Gedankenschinder)
 Größe: Groß
 HG: 12
 Habitat:

@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-race
+  - json5e-race
 tags:
-- Quelle/5e/vgm
-- Rasse/kenku
+  - Quelle/5e/vgm
+  - Rasse/kenku
 aliases:
-- Kenku
+  - Kenku
 ---
 # Kenku
 *Source: Volo's Guide to Monsters p. 109*  

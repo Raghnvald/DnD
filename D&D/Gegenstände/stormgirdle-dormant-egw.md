@@ -9,7 +9,6 @@ tags:
 aliases:
   - Stormgirdle (Dormant)
 linter-yaml-title-alias: Stormgirdle (Dormant)
-obsidianUIMode: preview
 ---
 # Stormgirdle (Dormant)
 *Wondrous item, legendary (requires attunement)*  

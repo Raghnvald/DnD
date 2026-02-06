@@ -15,7 +15,6 @@ classes:
 aliases:
   - Simulacrum
 linter-yaml-title-alias: Simulacrum
-obsidianUIMode: preview
 ---
 # Simulacrum
 *7th-level, Illusion*  

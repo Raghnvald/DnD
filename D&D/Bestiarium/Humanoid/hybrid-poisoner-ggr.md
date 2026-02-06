@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- Quelle/5e/ggr
-- Monster/HG/1
-- Monster/Größe/Mittelgroß
-- Monster/Typ/Humanoid/simic-hybrid
+  - Quelle/5e/ggr
+  - Monster/HG/1
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/Humanoid/simic-hybrid
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Hybrid Poisoner
+  - Hybrid Poisoner
 ---
 # [Hybrid Poisoner](3-Mechanics\CLI\bestiary\humanoid/hybrid-poisoner-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 217*  

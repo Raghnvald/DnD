@@ -23,7 +23,6 @@ classes:
 aliases:
   - Pass without Trace
 linter-yaml-title-alias: Pass without Trace
-obsidianUIMode: preview
 ---
 # Pass without Trace
 *2nd-level, Abjuration*  

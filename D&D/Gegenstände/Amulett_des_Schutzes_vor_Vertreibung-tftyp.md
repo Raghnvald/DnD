@@ -9,7 +9,6 @@ tags:
 aliases:
   - Amulet of Protection from Turning
 linter-yaml-title-alias: Amulet of Protection from Turning
-obsidianUIMode: preview
 ---
 # Amulet of Protection from Turning
 *Wondrous item, rare (requires attunement)*  

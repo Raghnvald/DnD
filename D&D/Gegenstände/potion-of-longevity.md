@@ -9,7 +9,6 @@ tags:
 aliases:
   - Potion of Longevity
 linter-yaml-title-alias: Potion of Longevity
-obsidianUIMode: preview
 ---
 # Potion of Longevity
 *Potion, minor, very rare*  

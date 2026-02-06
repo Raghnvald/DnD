@@ -28,7 +28,6 @@ classes:
 aliases:
   - Daylight
 linter-yaml-title-alias: Daylight
-obsidianUIMode: preview
 ---
 # Daylight
 *3rd-level, Evocation*  

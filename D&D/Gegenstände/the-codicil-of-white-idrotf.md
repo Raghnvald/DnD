@@ -8,7 +8,6 @@ tags:
 aliases:
   - The Codicil of White
 linter-yaml-title-alias: The Codicil of White
-obsidianUIMode: preview
 ---
 # The Codicil of White
 *Wondrous item*  

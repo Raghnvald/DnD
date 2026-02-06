@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-feat
+  - json5e-feat
 tags:
-- Quelle/5e/xphb
-- Kompendium/Optionales/mm
+  - Quelle/5e/xphb
+  - Kompendium/Optionales/mm
 aliases:
-- Seeking Spell
+  - Seeking Spell
 ---
 # Seeking Spell
 *Source: Player's Handbook (2024) p. 142*  

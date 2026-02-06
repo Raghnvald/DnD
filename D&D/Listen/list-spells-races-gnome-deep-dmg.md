@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Zauber/list/race/gnome-deep
+  - Zauber/list/race/gnome-deep
 aliases:
-- Spells for Gnome (Deep)
+  - Spells for Gnome (Deep)
 ---
 # Spells for Gnome (Deep)
 

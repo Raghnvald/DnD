@@ -1,8 +1,6 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Javelin
-Typ: Einfache Nahkampfwaffe
+Bezeichnung: Wurfspeer
+Kategorie: Einfache Nahkampfwaffe
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/Einfach
@@ -11,9 +9,8 @@ tags:
 aliases:
   - Javelin
 linter-yaml-title-alias: Javelin
-obsidianUIMode: preview
 ---
-# Javelin
+# Wurfspeer
 *Weapon*  
 
 - **Damage**: 1d6 piercing

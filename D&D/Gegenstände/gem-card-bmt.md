@@ -8,7 +8,6 @@ tags:
 aliases:
   - Gem Card
 linter-yaml-title-alias: Gem Card
-obsidianUIMode: preview
 ---
 # Gem Card
 *Wondrous item, legendary*  

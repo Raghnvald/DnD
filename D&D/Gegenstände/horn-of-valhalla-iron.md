@@ -8,7 +8,6 @@ tags:
 aliases:
   - Horn of Valhalla, Iron
 linter-yaml-title-alias: Horn of Valhalla, Iron
-obsidianUIMode: preview
 ---
 # Horn of Valhalla, Iron
 *Wondrous item, major, legendary*  

@@ -19,7 +19,6 @@ classes:
 aliases:
   - Move Earth
 linter-yaml-title-alias: Move Earth
-obsidianUIMode: preview
 ---
 # Move Earth
 *6th-level, Transmutation*  

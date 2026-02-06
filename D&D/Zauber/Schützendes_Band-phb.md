@@ -15,7 +15,6 @@ classes:
 aliases:
   - Warding Bond
 linter-yaml-title-alias: Warding Bond
-obsidianUIMode: preview
 ---
 # Warding Bond
 *2nd-level, Abjuration*  

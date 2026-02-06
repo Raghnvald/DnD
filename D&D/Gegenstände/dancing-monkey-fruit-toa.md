@@ -9,7 +9,6 @@ tags:
 aliases:
   - Dancing Monkey Fruit
 linter-yaml-title-alias: Dancing Monkey Fruit
-obsidianUIMode: preview
 ---
 # Dancing Monkey Fruit
 

@@ -1,15 +1,13 @@
 ---
 cssclasses:
   - json5e-item
-Bezeichnung: "Quaal's Feather Token, Swan Boat"
+Bezeichnung: Quaal's Feather Token, Swan Boat
 tags:
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/dmg
 aliases:
-  - "Quaal's Feather Token, Swan Boat"
   - Quaal's Feather Token, Swan Boat
-linter-yaml-title-alias: "Quaal's Feather Token, Swan Boat"
-obsidianUIMode: preview
+linter-yaml-title-alias: Quaal's Feather Token, Swan Boat
 ---
 # Quaal's Feather Token, Swan Boat
 *Wondrous item, minor, rare*  

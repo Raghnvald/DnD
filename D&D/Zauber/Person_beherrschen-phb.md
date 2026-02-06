@@ -25,7 +25,6 @@ classes:
 aliases:
   - Dominate Person
 linter-yaml-title-alias: Dominate Person
-obsidianUIMode: preview
 ---
 # Dominate Person
 *5th-level, Enchantment*  

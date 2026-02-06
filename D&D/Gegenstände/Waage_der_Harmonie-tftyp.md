@@ -8,7 +8,6 @@ tags:
 aliases:
   - Balance of Harmony
 linter-yaml-title-alias: Balance of Harmony
-obsidianUIMode: preview
 ---
 # Balance of Harmony
 *Wondrous item, uncommon*  

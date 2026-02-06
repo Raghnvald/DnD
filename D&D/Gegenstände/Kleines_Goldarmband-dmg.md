@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Small gold bracelet
+Kategorie: Kunstobjekt
 tags:
   - Gegenstand/Ausrüstung/treasure-art-object
   - Gegenstand/Seltenheit/keine
@@ -9,7 +10,6 @@ tags:
 aliases:
   - Small gold bracelet
 linter-yaml-title-alias: Small gold bracelet
-obsidianUIMode: preview
 ---
 # Small gold bracelet
 *Treasure (art object)*  

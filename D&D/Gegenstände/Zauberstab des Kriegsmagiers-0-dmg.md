@@ -10,7 +10,6 @@ tags:
 aliases:
   - Wand of the War Mage
 linter-yaml-title-alias: Wand of the War Mage
-obsidianUIMode: preview
 ---
 # Wand of the War Mage
 *Wand, major (requires attunement by a spellcaster)*  

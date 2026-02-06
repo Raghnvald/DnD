@@ -6,10 +6,8 @@ tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/xdmg
 aliases:
-  - "Boots of Elvenkind"
   - Boots of Elvenkind
 linter-yaml-title-alias: Boots of Elvenkind
-obsidianUIMode: preview
 ---
 # Boots of Elvenkind
 *Wondrous item, uncommon*  

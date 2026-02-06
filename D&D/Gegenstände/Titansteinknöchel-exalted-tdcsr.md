@@ -9,7 +9,6 @@ tags:
 aliases:
   - Titanstone Knuckles (Exalted)
 linter-yaml-title-alias: Titanstone Knuckles (Exalted)
-obsidianUIMode: preview
 ---
 # Titanstone Knuckles (Exalted)
 *Wondrous item, legendary (requires attunement)*  

@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-race
+  - json5e-race
 tags:
-- Quelle/5e/phb
-- Rasse/dwarf/mountain
+  - Quelle/5e/phb
+  - Rasse/dwarf/mountain
 aliases:
-- Dwarf (Mountain)
+  - Dwarf (Mountain)
 ---
 # Dwarf (Mountain)
 *Source: Player's Handbook p. 20. Available in the Basic Rules (2014)*  

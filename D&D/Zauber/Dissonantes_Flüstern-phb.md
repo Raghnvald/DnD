@@ -14,7 +14,6 @@ classes:
 aliases:
   - Dissonant Whispers
 linter-yaml-title-alias: Dissonantes Flüstern
-obsidianUIMode: preview
 ---
 # Dissonantes Flüstern
 *Hervorrufung des 1. Grades*

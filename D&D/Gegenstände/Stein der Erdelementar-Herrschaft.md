@@ -8,7 +8,6 @@ tags:
 aliases:
   - Stone of Controlling Earth Elementals
 linter-yaml-title-alias: Stone of Controlling Earth Elementals
-obsidianUIMode: preview
 ---
 # Stone of Controlling Earth Elementals
 *Wondrous item, major, rare*  

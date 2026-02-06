@@ -17,7 +17,6 @@ aliases:
   - Starshot Light Crossbow
   - Starshot Light Repeating Crossbow
 linter-yaml-title-alias: Starshot Crossbow
-obsidianUIMode: preview
 ---
 # Starshot Crossbow
 *Rare (requires attunement)*  

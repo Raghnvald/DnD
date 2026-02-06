@@ -1,10 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- ttrpg-cli/compendium/src/5e/dsotdq
+  - ttrpg-cli/compendium/src/5e/dsotdq
 aliases:
-- Chapter 1: Character Creation
+  - Chapter 1: Character Creation
 ---
 # Chapter 1: Character Creation
 *Source: Dragonlance: Shadow of the Dragon Queen, p. 21* 

@@ -9,7 +9,6 @@ tags:
 aliases:
   - Pennant of the Vind Rune
 linter-yaml-title-alias: Pennant of the Vind Rune
-obsidianUIMode: preview
 ---
 # Pennant of the Vind Rune
 *Wondrous item, very rare (requires attunement)*  

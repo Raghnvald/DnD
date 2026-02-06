@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-deity
+  - json5e-deity
 tags:
-- Quelle/5e/xdmg
-- Kompendium/Götter/greyhawk
-aliases: 
-- Tharizdun
+  - Quelle/5e/xdmg
+  - Kompendium/Götter/greyhawk
+aliases:
+  - Tharizdun
 ---
 # Tharizdun
 *Source: Dungeon Master's Guide (2024) p. 148* 

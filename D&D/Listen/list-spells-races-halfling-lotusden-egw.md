@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Zauber/list/subrace/halfling-lotusden
+  - Zauber/list/subrace/halfling-lotusden
 aliases:
-- Spells for Halfling (Lotusden)
+  - Spells for Halfling (Lotusden)
 ---
 # Spells for Halfling (Lotusden)
 

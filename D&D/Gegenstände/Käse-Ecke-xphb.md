@@ -9,7 +9,6 @@ tags:
 aliases:
   - Cheese (wedge)
 linter-yaml-title-alias: Cheese (wedge)
-obsidianUIMode: preview
 ---
 # Cheese (wedge)
 *Food and drink*  

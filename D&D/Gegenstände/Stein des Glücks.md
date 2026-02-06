@@ -9,7 +9,6 @@ tags:
 aliases:
   - Stone of Good Luck
 linter-yaml-title-alias: Stone of Good Luck
-obsidianUIMode: preview
 ---
 # Stone of Good Luck
 *Wondrous item, major, uncommon (requires attunement)*  

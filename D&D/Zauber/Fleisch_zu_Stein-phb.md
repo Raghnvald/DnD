@@ -17,7 +17,6 @@ classes:
 aliases:
   - Flesh to Stone
 linter-yaml-title-alias: Flesh to Stone
-obsidianUIMode: preview
 ---
 # Flesh to Stone
 *6th-level, Transmutation*  

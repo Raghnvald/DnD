@@ -8,7 +8,6 @@ tags:
 aliases:
   - Throne Card
 linter-yaml-title-alias: Throne Card
-obsidianUIMode: preview
 ---
 # Throne Card
 *Wondrous item, legendary*  

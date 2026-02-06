@@ -9,7 +9,6 @@ tags:
 aliases:
   - Scroll of Protection from Fey
 linter-yaml-title-alias: Scroll of Protection from Fey
-obsidianUIMode: preview
 ---
 # Scroll of Protection from Fey
 *Scroll, minor, rare*  

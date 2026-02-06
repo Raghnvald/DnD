@@ -8,7 +8,6 @@ tags:
 aliases:
   - Key Card
 linter-yaml-title-alias: Key Card
-obsidianUIMode: preview
 ---
 # Key Card
 *Wondrous item, legendary*  

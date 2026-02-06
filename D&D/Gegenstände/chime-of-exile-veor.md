@@ -8,7 +8,6 @@ tags:
 aliases:
   - Chime of Exile
 linter-yaml-title-alias: Chime of Exile
-obsidianUIMode: preview
 ---
 # Chime of Exile
 *Wondrous item, very rare*  

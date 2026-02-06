@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Zauber/list/subrace/genasi-water
+  - Zauber/list/subrace/genasi-water
 aliases:
-- Spells for Genasi (Water)
+  - Spells for Genasi (Water)
 ---
 # Spells for Genasi (Water)
 

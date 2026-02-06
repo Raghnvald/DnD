@@ -9,7 +9,6 @@ tags:
 aliases:
   - Potion of Superior Healing
 linter-yaml-title-alias: Potion of Superior Healing
-obsidianUIMode: preview
 ---
 # Potion of Superior Healing
 *Potion, minor, rare*  

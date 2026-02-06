@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Dynamite (stick)
+Kategorie: Explosives
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/explosive
@@ -10,7 +11,6 @@ tags:
 aliases:
   - Dynamite (stick)
 linter-yaml-title-alias: Dynamite (stick)
-obsidianUIMode: preview
 ---
 # Dynamite (stick)
 *Explosive*  

@@ -9,7 +9,6 @@ tags:
 aliases:
   - Silver ewer
 linter-yaml-title-alias: Silver ewer
-obsidianUIMode: preview
 ---
 # Silver ewer
 *Treasure (art object)*  

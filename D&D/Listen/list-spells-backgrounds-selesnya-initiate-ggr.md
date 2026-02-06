@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Zauber/list/background/selesnya-initiate
+  - Zauber/list/background/selesnya-initiate
 aliases:
-- Spells for Selesnya Initiate
+  - Spells for Selesnya Initiate
 ---
 # Spells for Selesnya Initiate
 

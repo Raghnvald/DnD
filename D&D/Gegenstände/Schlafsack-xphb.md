@@ -9,7 +9,6 @@ tags:
 aliases:
   - Bedroll
 linter-yaml-title-alias: Bedroll
-obsidianUIMode: preview
 ---
 # Bedroll
 *Adventuring gear*  

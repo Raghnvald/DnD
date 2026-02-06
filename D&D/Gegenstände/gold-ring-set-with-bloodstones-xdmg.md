@@ -9,7 +9,6 @@ tags:
 aliases:
   - Gold ring set with bloodstones
 linter-yaml-title-alias: Gold ring set with bloodstones
-obsidianUIMode: preview
 ---
 # Gold ring set with bloodstones
 *Treasure (art object)*  

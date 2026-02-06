@@ -9,7 +9,6 @@ tags:
 aliases:
   - Silver chalice set with moonstones
 linter-yaml-title-alias: Silver chalice set with moonstones
-obsidianUIMode: preview
 ---
 # Silver chalice set with moonstones
 *Treasure (art object)*  

@@ -9,7 +9,6 @@ tags:
 aliases:
   - Ioun Stone, Mastery
 linter-yaml-title-alias: Ioun Stone, Mastery
-obsidianUIMode: preview
 ---
 # Ioun Stone, Mastery
 *Wondrous item, major, legendary (requires attunement)*  

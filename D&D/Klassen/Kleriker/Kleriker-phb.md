@@ -59,8 +59,8 @@ Du beginnst mit der folgenden Ausrüstung, zusätzlich zu der, die Du durch dein
 
 - (a) ein [[Streitkolben-phb|Streitkolben]] oder (b) ein [[Gegenstände/Kriegshammer-phb|Kriegshammer]] (falls im Umgang geübt)
 - (a) Ein [[Gegenstände/Schuppenpanzer-phb|Schuppenpanzer]], (b) eine [[Gegenstände/Lederrüstung-phb|Lederrüstung]] oder (c) ein [[Gegenstände/Kettenpanzer-phb|Kettenpanzer]] (falls im Umgang geübt)
-- (a) Eine [[Gegenstände/Leichte-Armbrust-phb|Leichte Armbrust]] mit [[Gegenstände/Armbrustbolzen-20-phb|20 Bolzen]] oder (b) eine einfache Waffe
-- (a) Eine [[Gegenstände/Priesterausrüstung-phb|Priesterausrüstung]] oder (b) eine [[Gegenstände/Entdeckerausrüstung|Entdeckerausrüstung]]
+- (a) Eine [[Armbrust-Leicht-phb|Leichte Armbrust]] mit [[Gegenstände/Armbrustbolzen-20-phb|20 Bolzen]] oder (b) eine einfache Waffe
+- (a) Eine [[Gegenstände/Priesterausrüstung-phb|Priesterausrüstung]] oder (b) eine [[Entdeckerausrüstung-old|Entdeckerausrüstung]]
 - Ein [[Gegenstände/Schild|Schild]] und ein [[Gegenstände/0-Heiliges-Symbol-phb|Heiliges Symbol]]
 
 Alternatively, you may start with 5d4 × 10 gp to buy your own equipment.

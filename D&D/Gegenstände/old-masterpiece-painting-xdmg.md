@@ -9,7 +9,6 @@ tags:
 aliases:
   - Old masterpiece painting
 linter-yaml-title-alias: Old masterpiece painting
-obsidianUIMode: preview
 ---
 # Old masterpiece painting
 *Treasure (art object)*  

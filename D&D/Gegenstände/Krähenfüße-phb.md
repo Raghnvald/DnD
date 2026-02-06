@@ -1,7 +1,9 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Caltrop
+Bezeichnung: Krähenfüße
+Kategorie: Abenteuerausrüstung
+Eigenschaften: /
+Kst.: 5 KM
+Gew.: 0,05 kg
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
@@ -10,7 +12,7 @@ aliases:
   - Caltrop
 linter-yaml-title-alias: Caltrop
 ---
-# Caltrop
+# Krähenfüße
 *Adventuring gear*  
 
 - **Cost**: 5 cp

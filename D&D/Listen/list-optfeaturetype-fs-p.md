@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Quelle/5e/phb
+  - Quelle/5e/phb
 aliases:
-- Fighting Style, Paladin
+  - Fighting Style, Paladin
 ---
 # Fighting Style, Paladin
 *Source: Player's Handbook, Tasha's Cauldron of Everything. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>* 

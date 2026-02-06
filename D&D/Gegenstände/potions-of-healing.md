@@ -9,7 +9,6 @@ tags:
 aliases:
   - Potions of Healing
 linter-yaml-title-alias: Potions of Healing
-obsidianUIMode: preview
 ---
 # Potions of Healing
 *Potion*  

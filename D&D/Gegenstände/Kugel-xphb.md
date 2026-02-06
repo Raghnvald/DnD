@@ -9,7 +9,6 @@ tags:
 aliases:
   - Orb
 linter-yaml-title-alias: Orb
-obsidianUIMode: preview
 ---
 # Orb
 *Spellcasting focus*  

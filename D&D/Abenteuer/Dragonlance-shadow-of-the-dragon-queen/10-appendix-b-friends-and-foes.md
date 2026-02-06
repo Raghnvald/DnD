@@ -1,10 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- ttrpg-cli/compendium/src/5e/dsotdq
+  - ttrpg-cli/compendium/src/5e/dsotdq
 aliases:
-- Appendix B: Friends and Foes
+  - Appendix B: Friends and Foes
 ---
 # Appendix B: Friends and Foes
 *Source: Dragonlance: Shadow of the Dragon Queen, p. 191* 

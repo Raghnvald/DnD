@@ -9,7 +9,6 @@ tags:
 aliases:
   - Riding Saddle
 linter-yaml-title-alias: Riding Saddle
-obsidianUIMode: preview
 ---
 # Riding Saddle
 *Tack and harness*  

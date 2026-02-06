@@ -27,7 +27,6 @@ aliases:
   - Splint Armor of Thunder Resistance
   - Studded Leather Armor of Thunder Resistance
 linter-yaml-title-alias: Armor of Thunder Resistance
-obsidianUIMode: preview
 ---
 # Armor of Thunder Resistance
 *Major, rare (requires attunement)*  

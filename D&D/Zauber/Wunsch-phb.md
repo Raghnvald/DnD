@@ -17,7 +17,6 @@ classes:
 aliases:
   - Wish
 linter-yaml-title-alias: Wunsch
-obsidianUIMode: preview
 ---
 # Wunsch
 *Beschwörung des 9. Grades*

@@ -19,7 +19,6 @@ classes:
 aliases:
   - Mordenkainen's Faithful Hound
 linter-yaml-title-alias: Mordenkainen's Faithful Hound
-obsidianUIMode: preview
 ---
 # Mordenkainen's Faithful Hound
 *4th-level, Conjuration*  

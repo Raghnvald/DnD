@@ -8,7 +8,6 @@ tags:
 aliases:
   - Night Caller
 linter-yaml-title-alias: Night Caller
-obsidianUIMode: preview
 ---
 # Night Caller
 *Wondrous item, uncommon*  

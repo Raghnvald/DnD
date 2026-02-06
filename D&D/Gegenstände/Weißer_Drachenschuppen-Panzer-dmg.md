@@ -11,7 +11,6 @@ tags:
 aliases:
   - White Dragon Scale Mail
 linter-yaml-title-alias: White Dragon Scale Mail
-obsidianUIMode: preview
 ---
 # White Dragon Scale Mail
 *Medium armor, major, very rare (requires attunement)*  

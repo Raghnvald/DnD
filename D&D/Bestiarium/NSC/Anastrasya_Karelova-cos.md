@@ -3,7 +3,7 @@ prefer-view: edit-source read
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Anastrasya Karelova
-Typ: Untoter (Gestaltwandler)
+Kategorie: Untoter (Gestaltwandler)
 Größe: Mittelgroß
 HG: 5
 Habitat:

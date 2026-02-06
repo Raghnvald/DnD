@@ -2,7 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Giftzahn
-Typ: Drache
+Kategorie: Drache
 Größe: Groß
 HG: 8
 Habitat:

@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Zauber/list/background/golgari-agent
+  - Zauber/list/background/golgari-agent
 aliases:
-- Spells for Golgari Agent
+  - Spells for Golgari Agent
 ---
 # Spells for Golgari Agent
 

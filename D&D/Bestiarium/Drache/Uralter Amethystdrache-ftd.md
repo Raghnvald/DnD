@@ -2,7 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Ancient Amethyst Dragon
-Typ: Drache
+Kategorie: Drache
 Größe: Gigantisch
 HG: 23
 Habitat:

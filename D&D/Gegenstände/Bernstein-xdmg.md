@@ -9,7 +9,6 @@ tags:
 aliases:
   - Amber
 linter-yaml-title-alias: Amber
-obsidianUIMode: preview
 ---
 # Amber
 *Treasure (gemstone)*  

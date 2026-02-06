@@ -9,7 +9,6 @@ tags:
 aliases:
   - Cloak of Displacement
 linter-yaml-title-alias: Cloak of Displacement
-obsidianUIMode: preview
 ---
 # Cloak of Displacement
 *Wondrous item, major, rare (requires attunement)*  

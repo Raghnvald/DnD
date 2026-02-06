@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Potion of Acid Resistance
+Kategorie: Trank
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/wundersam/Trank
@@ -9,7 +10,6 @@ tags:
 aliases:
   - Potion of Acid Resistance
 linter-yaml-title-alias: Potion of Acid Resistance
-obsidianUIMode: preview
 ---
 # Potion of Acid Resistance
 *Potion, minor, uncommon*  

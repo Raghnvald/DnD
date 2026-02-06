@@ -2,7 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Sword Wraith Warrior
-Typ: Untoter
+Kategorie: Untoter
 Größe: Mittelgroß
 HG: 3
 tags:

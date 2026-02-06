@@ -2,7 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Ancient Dragon Turtle
-Typ: Drache
+Kategorie: Drache
 Größe: Gigantisch
 HG: 24
 Habitat:

@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- Quelle/5e/mcv1sc
-- Monster/HG/3
-- Monster/Größe/Winzig
-- Monster/Typ/Aberration
+  - Quelle/5e/mcv1sc
+  - Monster/HG/3
+  - Monster/Größe/Winzig
+  - Monster/Typ/Aberration
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Puppeteer Parasite
+  - Puppeteer Parasite
 ---
 # [Puppeteer Parasite](3-Mechanics\CLI\bestiary\aberration/puppeteer-parasite-mcv1sc.md)
 *Source: Monstrous Compendium Volume 1: Spelljammer Creatures p. 11*  

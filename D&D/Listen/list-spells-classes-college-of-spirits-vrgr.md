@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Zauber/list/subclass/college-of-spirits
+  - Zauber/list/subclass/college-of-spirits
 aliases:
-- Spells for College of Spirits
+  - Spells for College of Spirits
 ---
 # Spells for College of Spirits
 

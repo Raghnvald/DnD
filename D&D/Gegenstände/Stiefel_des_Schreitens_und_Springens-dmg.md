@@ -9,7 +9,6 @@ tags:
 aliases:
   - Boots of Striding and Springing
 linter-yaml-title-alias: Boots of Striding and Springing
-obsidianUIMode: preview
 ---
 # Boots of Striding and Springing
 *Wondrous item, major, uncommon (requires attunement)*  

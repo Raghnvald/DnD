@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Iron Ball
+Kategorie: Einfache Fernkampfwaffe
 tags:
   - Gegenstand/Seltenheit/unbekannt
   - Gegenstand/Waffe/Einfach
@@ -10,7 +11,6 @@ tags:
 aliases:
   - Iron Ball
 linter-yaml-title-alias: Iron Ball
-obsidianUIMode: preview
 ---
 # Iron Ball
 *Weapon*  

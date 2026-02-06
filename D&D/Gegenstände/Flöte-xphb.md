@@ -9,7 +9,6 @@ tags:
 aliases:
   - Flute
 linter-yaml-title-alias: Flute
-obsidianUIMode: preview
 ---
 # Flute
 *Instrument*  

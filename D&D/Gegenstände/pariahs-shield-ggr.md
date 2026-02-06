@@ -1,7 +1,7 @@
 ---
 cssclasses:
   - json5e-item
-Bezeichnung: "Pariah's Shield"
+Bezeichnung: Pariah's Shield
 Rüstung: Schild
 tags:
   - Gegenstand/Einstimmung/required
@@ -9,10 +9,9 @@ tags:
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/ggr
 aliases:
-  - "Pariah's Shield"
   - Pariah's Shield
-linter-yaml-title-alias: "Pariah's Shield"
-obsidianUIMode: preview
+  - Pariah's Shield
+linter-yaml-title-alias: Pariah's Shield
 ---
 # Pariah's Shield
 *Armor (shield), rare (requires attunement)*  

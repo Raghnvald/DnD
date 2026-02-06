@@ -8,7 +8,6 @@ tags:
 aliases:
   - Dimensional Shackles
 linter-yaml-title-alias: Dimensional Shackles
-obsidianUIMode: preview
 ---
 # Dimensional Shackles
 *Wondrous item, major, rare*  

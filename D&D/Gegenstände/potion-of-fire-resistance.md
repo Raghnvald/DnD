@@ -9,7 +9,6 @@ tags:
 aliases:
   - Potion of Fire Resistance
 linter-yaml-title-alias: Potion of Fire Resistance
-obsidianUIMode: preview
 ---
 # Potion of Fire Resistance
 *Potion, minor, uncommon*  

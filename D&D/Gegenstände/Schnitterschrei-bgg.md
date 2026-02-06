@@ -1,8 +1,8 @@
 ---
 cssclasses:
   - json5e-item
-Bezeichnung: "Reaper's Scream"
-Typ: Nahkampf-Kriegswaffe
+Bezeichnung: Schnitterschrei
+Kategorie: Nahkampf-Kriegswaffe
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -10,10 +10,9 @@ tags:
   - Gegenstand/Waffe/Nahkampf
   - Quelle/5e/bgg
 aliases:
-  - "Reaper's Scream"
   - Reaper's Scream
-linter-yaml-title-alias: "Reaper's Scream"
-obsidianUIMode: preview
+  - Reaper's Scream
+linter-yaml-title-alias: Reaper's Scream
 ---
 # Reaper's Scream
 *Weapon (morningstar), legendary (requires attunement)*  

@@ -1,15 +1,14 @@
 ---
 cssclasses:
   - json5e-item
-Bezeichnung: "Diplomat's Pack"
+Bezeichnung: Diplomat's Pack
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
-  - "Diplomat's Pack"
   - Diplomat's Pack
-linter-yaml-title-alias: "Diplomat's Pack"
+linter-yaml-title-alias: Diplomat's Pack
 ---
 # Diplomat's Pack
 *Adventuring gear*  

@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Macuahuitl
-Typ: Nahkampf-Kriegswaffe
+Kategorie: Nahkampf-Kriegswaffe
 tags:
   - Gegenstand/Seltenheit/unbekannt/magic
   - Gegenstand/Waffe/Kriegswaffe
@@ -11,7 +11,6 @@ tags:
 aliases:
   - Macuahuitl
 linter-yaml-title-alias: Macuahuitl
-obsidianUIMode: preview
 ---
 # Macuahuitl
 *Weapon (longsword)*  

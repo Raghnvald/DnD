@@ -9,7 +9,6 @@ tags:
 aliases:
   - Mind Flayer Skull
 linter-yaml-title-alias: Mind Flayer Skull
-obsidianUIMode: preview
 ---
 # Mind Flayer Skull
 

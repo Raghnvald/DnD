@@ -3,13 +3,12 @@ cssclasses:
   - json5e-item
 Bezeichnung: Carriage
 tags:
-  - Gegenstand/Fortbewegung/land
+  - Gegenstand/Ausrüstung/Fahrzeug
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Carriage
 linter-yaml-title-alias: Carriage
-obsidianUIMode: preview
 ---
 # Carriage
 *Vehicle (land)*  

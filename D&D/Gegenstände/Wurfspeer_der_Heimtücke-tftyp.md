@@ -1,8 +1,6 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Javelin of Backbiting
-Typ: Einfache Nahkampfwaffe
+Bezeichnung: Wurfspeer der Heimtücke
+Kategorie: Einfache Nahkampfwaffe
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
@@ -12,9 +10,8 @@ tags:
 aliases:
   - Javelin of Backbiting
 linter-yaml-title-alias: Javelin of Backbiting
-obsidianUIMode: preview
 ---
-# Javelin of Backbiting
+# Wurfspeer der Heimtücke
 *Weapon (javelin), cursed item, very rare (requires attunement)*  
 
 - **Damage**: 1d6 piercing

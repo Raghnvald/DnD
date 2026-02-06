@@ -9,7 +9,6 @@ tags:
 aliases:
   - Lock
 linter-yaml-title-alias: Lock
-obsidianUIMode: preview
 ---
 # Lock
 *Adventuring gear*  

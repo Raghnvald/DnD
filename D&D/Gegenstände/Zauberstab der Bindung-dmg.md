@@ -10,7 +10,6 @@ tags:
 aliases:
   - Wand of Binding
 linter-yaml-title-alias: Wand of Binding
-obsidianUIMode: preview
 ---
 # Wand of Binding
 *Wand, major, rare (requires attunement by a spellcaster)*  

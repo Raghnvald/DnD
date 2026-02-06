@@ -17,7 +17,6 @@ classes:
 aliases:
   - Calm Emotions
 linter-yaml-title-alias: Calm Emotions
-obsidianUIMode: preview
 ---
 # Calm Emotions
 *2nd-level, Enchantment*  

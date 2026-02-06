@@ -1,7 +1,7 @@
 ---
 Bezeichnung: Amulett
-Typ: Heiliges Symbol
-Eigenschaften: n/v
+Kategorie: Heiliges Symbol
+Eigenschaften: /
 Kst.: 5 GM
 Gew.: 0,5 kg
 tags:
@@ -13,7 +13,6 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Amulet
-  - Amulett
 linter-yaml-title-alias: Amulett
 ---
 # Amulett

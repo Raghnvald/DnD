@@ -1,7 +1,7 @@
 ---
 prefer-view: edit-source read
 Bezeichnung: Ausgewachsener Magnetitdrache-hgmh1
-Typ: Drache
+Kategorie: Drache
 Größe: Riesig
 HG: 14
 image:

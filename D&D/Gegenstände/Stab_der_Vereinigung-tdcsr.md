@@ -11,7 +11,6 @@ tags:
 aliases:
   - Spire of Conflux
 linter-yaml-title-alias: Spire of Conflux
-obsidianUIMode: preview
 ---
 # Spire of Conflux
 *Staff, weapon, legendary (requires attunement by a spellcaster)*  

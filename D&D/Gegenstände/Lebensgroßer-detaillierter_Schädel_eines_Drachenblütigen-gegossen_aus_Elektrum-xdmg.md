@@ -9,7 +9,6 @@ tags:
 aliases:
   - Detailed, life-sized dragonborn skull cast in electrum
 linter-yaml-title-alias: Detailed, life-sized dragonborn skull cast in electrum
-obsidianUIMode: preview
 ---
 # Detailed, life-sized dragonborn skull cast in electrum
 *Treasure (art object)*  

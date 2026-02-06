@@ -9,7 +9,6 @@ tags:
 aliases:
   - Black Crystal Tablet
 linter-yaml-title-alias: Black Crystal Tablet
-obsidianUIMode: preview
 ---
 # Black Crystal Tablet
 *Wondrous item, legendary (requires attunement by a creature that has proficiency in the Arcana skill)*  

@@ -10,7 +10,6 @@ tags:
 aliases:
   - Ring of Winter
 linter-yaml-title-alias: Ring of Winter
-obsidianUIMode: preview
 ---
 # Ring des Winters
 *Ring, artifact (requires attunement)*  

@@ -10,7 +10,6 @@ tags:
 aliases:
   - Shortbow
 linter-yaml-title-alias: Shortbow
-obsidianUIMode: preview
 ---
 # Shortbow
 *Weapon*  

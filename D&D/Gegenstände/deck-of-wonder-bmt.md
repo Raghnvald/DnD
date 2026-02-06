@@ -8,7 +8,6 @@ tags:
 aliases:
   - Deck of Wonder
 linter-yaml-title-alias: Deck of Wonder
-obsidianUIMode: preview
 ---
 # Deck of Wonder
 *Wondrous item, uncommon*  

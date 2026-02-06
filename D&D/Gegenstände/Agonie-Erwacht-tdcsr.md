@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Agony (Awakened)
-Typ: Nahkampf-Kriegswaffe
+Kategorie: Nahkampf-Kriegswaffe
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -12,7 +12,6 @@ tags:
 aliases:
   - Agony (Awakened)
 linter-yaml-title-alias: Agony (Awakened)
-obsidianUIMode: preview
 ---
 # Agony (Awakened)
 *Weapon ([flail](/3-Mechanics/CLI/items/flail-xphb.md)), legendary (requires attunement by a creature of non-good alignment)*  

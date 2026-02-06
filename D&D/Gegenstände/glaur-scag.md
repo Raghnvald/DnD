@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Glaur
+Kategorie: Werkzeug
 tags:
   - Gegenstand/Ausrüstung/Instrument
   - Gegenstand/Seltenheit/keine
@@ -9,7 +10,6 @@ tags:
 aliases:
   - Glaur
 linter-yaml-title-alias: Glaur
-obsidianUIMode: preview
 ---
 # Glaur
 *Instrument*  

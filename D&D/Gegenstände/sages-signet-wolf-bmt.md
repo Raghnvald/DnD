@@ -1,17 +1,16 @@
 ---
 cssclasses:
   - json5e-item
-Bezeichnung: "Sage's Signet (Wolf)"
+Bezeichnung: Sage's Signet (Wolf)
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/wundersam/ring
   - Quelle/5e/bmt
 aliases:
-  - "Sage's Signet (Wolf)"
   - Sage's Signet (Wolf)
-linter-yaml-title-alias: "Sage's Signet (Wolf)"
-obsidianUIMode: preview
+  - Sage's Signet (Wolf)
+linter-yaml-title-alias: Sage's Signet (Wolf)
 ---
 # Sage's Signet (Wolf)
 *Ring, very rare (requires attunement by a spellcaster)*  

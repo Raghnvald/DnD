@@ -10,7 +10,6 @@ tags:
 aliases:
   - Sling
 linter-yaml-title-alias: Sling
-obsidianUIMode: preview
 ---
 # Sling
 *Weapon*  

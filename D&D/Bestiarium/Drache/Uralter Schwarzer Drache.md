@@ -2,7 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Ancient Black Dragon
-Typ: Drache
+Kategorie: Drache
 tags:
   - Monster/Größe/Gigantisch
   - Monster/Habitat/Sumpf

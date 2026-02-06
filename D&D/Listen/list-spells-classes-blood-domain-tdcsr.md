@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Zauber/list/subclass/blood-domain
+  - Zauber/list/subclass/blood-domain
 aliases:
-- Spells for Blood Domain
+  - Spells for Blood Domain
 ---
 # Spells for Blood Domain
 

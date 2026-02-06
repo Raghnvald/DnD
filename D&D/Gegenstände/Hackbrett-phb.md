@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Dulcimer
+Kategorie: Werkzeug
 tags:
   - Gegenstand/Ausrüstung/Instrument
   - Gegenstand/Seltenheit/keine
@@ -9,7 +10,6 @@ tags:
 aliases:
   - Dulcimer
 linter-yaml-title-alias: Dulcimer
-obsidianUIMode: preview
 ---
 # Dulcimer
 *Instrument*  

@@ -1,21 +1,21 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: "Tinker's Tools"
+Bezeichnung: Tüftlerwerkzeuge
+Kategorie: Werkzeug
+Eigenschaften: /
+Kst.: 50 GM
+Gew.: 5,0 kg
 tags:
   - Gegenstand/Ausrüstung/Werkzeug
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - "Tinker's Tools"
   - Tinker's Tools
-linter-yaml-title-alias: "Tinker's Tools"
-obsidianUIMode: preview
+linter-yaml-title-alias: Tinker's Tools
 ---
-# Tinker's Tools
-*Artisan's tools*  
+# Tüftlerwerkzeuge
+*Handwerkszeug*
 
-- **Cost**: 50 gp
-- **Weight**: 10.0 lbs.
+- **Kosten**: 50 GM
+- **Gewicht**: 5,0 kg.
 
-*Source: Player's Handbook p. 154, Xanathar's Guide to Everything p. 84. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+*Quelle: Spielerhandbuch S. 154, Xanathars Ratgeber für Alles S. 84. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*

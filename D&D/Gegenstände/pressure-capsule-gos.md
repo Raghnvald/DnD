@@ -8,7 +8,6 @@ tags:
 aliases:
   - Pressure Capsule
 linter-yaml-title-alias: Pressure Capsule
-obsidianUIMode: preview
 ---
 # Pressure Capsule
 *Wondrous item, common*  

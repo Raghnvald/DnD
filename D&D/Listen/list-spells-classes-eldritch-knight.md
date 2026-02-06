@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Zauber/list/subclass/eldritch-knight
+  - Zauber/list/subclass/eldritch-knight
 aliases:
-- Spells for Eldritch Knight
+  - Spells for Eldritch Knight
 ---
 # Spells for Eldritch Knight
 

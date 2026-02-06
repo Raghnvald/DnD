@@ -10,7 +10,7 @@ statblock: inline
 statblock-link: "#^statblock"
 aliases:
   - Aberrant Spirit
-Typ: Aberration
+Kategorie: Aberration
 Größe: Mittelgroß
 status: WIP
 HG: /

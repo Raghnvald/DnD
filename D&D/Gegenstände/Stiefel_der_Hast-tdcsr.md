@@ -9,7 +9,6 @@ tags:
 aliases:
   - Boots of Haste
 linter-yaml-title-alias: Boots of Haste
-obsidianUIMode: preview
 ---
 # Boots of Haste
 *Wondrous item, very rare (requires attunement)*  

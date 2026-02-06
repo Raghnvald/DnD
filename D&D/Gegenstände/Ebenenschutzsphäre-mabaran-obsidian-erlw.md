@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Orb of Shielding (Mabaran Obsidian)
+Kategorie: Wundersamer Gegenstand
 tags:
   - Gegenstand/Ausrüstung/Zauberfokus
   - Gegenstand/Einstimmung/required
@@ -13,7 +14,6 @@ aliases:
   - Mabaran Obsidian Orb
   - Orb of Shielding (Mabaran Obsidian)
 linter-yaml-title-alias: Orb of Shielding (Mabaran Obsidian)
-obsidianUIMode: preview
 ---
 # Orb of Shielding (Mabaran Obsidian)
 *Wondrous item, common (requires attunement)*  

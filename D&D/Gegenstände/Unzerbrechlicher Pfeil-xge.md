@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Unbreakable Arrow
+Kategorie: Munition
 tags:
   - Gegenstand/Ausrüstung/ammunition
   - Gegenstand/Seltenheit/gewöhnlich
@@ -9,7 +10,6 @@ tags:
 aliases:
   - Unbreakable Arrow
 linter-yaml-title-alias: Unbreakable Arrow
-obsidianUIMode: preview
 ---
 # Unbreakable Arrow
 *Ammunition, minor, common*  

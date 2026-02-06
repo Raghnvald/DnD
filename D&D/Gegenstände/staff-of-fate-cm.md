@@ -11,7 +11,6 @@ tags:
 aliases:
   - Staff of Fate
 linter-yaml-title-alias: Staff of Fate
-obsidianUIMode: preview
 ---
 # Staff of Fate
 *Staff, weapon (quarterstaff), very rare (requires attunement)*  

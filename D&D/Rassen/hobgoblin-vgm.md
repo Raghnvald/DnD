@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-race
+  - json5e-race
 tags:
-- Quelle/5e/vgm
-- Rasse/hobgoblin
+  - Quelle/5e/vgm
+  - Rasse/hobgoblin
 aliases:
-- Hobgoblin
+  - Hobgoblin
 ---
 # Hobgoblin
 *Source: Volo's Guide to Monsters p. 119*  

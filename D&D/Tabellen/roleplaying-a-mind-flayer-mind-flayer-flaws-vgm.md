@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Quelle/5e/vgm
+  - Quelle/5e/vgm
 aliases:
-- Roleplaying a Mind Flayer; Mind Flayer Flaws
+  - Roleplaying a Mind Flayer; Mind Flayer Flaws
 ---
 # Roleplaying a Mind Flayer; Mind Flayer Flaws
 *Source: Volo's Guide to Monsters p. 74* 

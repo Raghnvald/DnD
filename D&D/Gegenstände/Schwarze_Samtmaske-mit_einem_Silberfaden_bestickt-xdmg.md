@@ -9,7 +9,6 @@ tags:
 aliases:
   - Black velvet mask stitched with silver thread
 linter-yaml-title-alias: Black velvet mask stitched with silver thread
-obsidianUIMode: preview
 ---
 # Black velvet mask stitched with silver thread
 *Treasure (art object)*  

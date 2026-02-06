@@ -9,7 +9,6 @@ tags:
 aliases:
   - Potion of Fire Breath
 linter-yaml-title-alias: Potion of Fire Breath
-obsidianUIMode: preview
 ---
 # Potion of Fire Breath
 *Potion, minor, uncommon*  

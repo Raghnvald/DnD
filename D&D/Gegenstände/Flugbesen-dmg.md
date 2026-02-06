@@ -8,7 +8,6 @@ tags:
 aliases:
   - Broom of Flying
 linter-yaml-title-alias: Broom of Flying
-obsidianUIMode: preview
 ---
 # Broom of Flying
 *Wondrous item, major, uncommon*  

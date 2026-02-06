@@ -1,7 +1,9 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Blue Spinel
+Bezeichnung: Blauer Spinell
+Kategorie: Edelstein
+Eigenschaften: /
+Kst.: 500 GM
+Gew.: /
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone
   - Gegenstand/Seltenheit/keine
@@ -9,13 +11,12 @@ tags:
 aliases:
   - Blue Spinel
 linter-yaml-title-alias: Blue Spinel
-obsidianUIMode: preview
 ---
-# Blue Spinel
-*Treasure (gemstone)*  
+# Blauer Spinell
+*Schatz (Edelstein)*  
 
-- **Cost**: 500 gp
+- **Kosten**: 500 GM
 
-A transparent deep blue gemstone.
+Ein durchsichtiger, dunkelblauer Edelstein.
 
-*Source: Dungeon Master's Guide p. 134*
+*Quelle: Spielleiterhandbuch S. 134*

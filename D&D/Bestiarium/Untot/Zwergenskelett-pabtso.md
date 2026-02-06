@@ -2,7 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Zwergenskelett
-Typ: Untoter
+Kategorie: Untoter
 Größe: Mittelgroß
 HG: 1/2
 Habitat:

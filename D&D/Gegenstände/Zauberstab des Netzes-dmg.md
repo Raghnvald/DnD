@@ -10,7 +10,6 @@ tags:
 aliases:
   - Wand of Web
 linter-yaml-title-alias: Wand of Web
-obsidianUIMode: preview
 ---
 # Wand of Web
 *Wand, major, uncommon (requires attunement by a spellcaster)*  

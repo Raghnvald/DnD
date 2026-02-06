@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Box of turquoise animal figurines
+Kategorie: Kunstobjekt
 tags:
   - Gegenstand/Ausrüstung/treasure-art-object
   - Gegenstand/Seltenheit/keine
@@ -9,7 +10,6 @@ tags:
 aliases:
   - Box of turquoise animal figurines
 linter-yaml-title-alias: Box of turquoise animal figurines
-obsidianUIMode: preview
 ---
 # Box of turquoise animal figurines
 *Treasure (art object)*  

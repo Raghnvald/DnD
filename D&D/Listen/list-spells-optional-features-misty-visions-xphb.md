@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Zauber/list/optfeature/misty-visions
+  - Zauber/list/optfeature/misty-visions
 aliases:
-- Spells for Misty Visions
+  - Spells for Misty Visions
 ---
 # Spells for Misty Visions
 

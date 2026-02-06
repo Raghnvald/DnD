@@ -9,7 +9,6 @@ tags:
 aliases:
   - Sprig of Mistletoe
 linter-yaml-title-alias: Sprig of Mistletoe
-obsidianUIMode: preview
 ---
 # Sprig of Mistletoe
 *Spellcasting focus*  

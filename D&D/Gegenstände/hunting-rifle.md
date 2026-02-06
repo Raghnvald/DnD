@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Hunting Rifle
-Typ: Fernkampf-Kriegswaffe
+Kategorie: Fernkampf-Kriegswaffe
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/Fernkampf
@@ -12,7 +12,6 @@ tags:
 aliases:
   - Hunting Rifle
 linter-yaml-title-alias: Hunting Rifle
-obsidianUIMode: preview
 ---
 # Hunting Rifle
 *Weapon*  

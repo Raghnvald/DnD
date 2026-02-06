@@ -8,7 +8,6 @@ tags:
 aliases:
   - Loadstone
 linter-yaml-title-alias: Loadstone
-obsidianUIMode: preview
 ---
 # Loadstone
 *Wondrous item, cursed item, rare*  

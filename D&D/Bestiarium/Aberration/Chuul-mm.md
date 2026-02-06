@@ -11,7 +11,7 @@ statblock: inline
 statblock-link: "#^statblock"
 aliases:
   - Chuul
-Typ: Aberration
+Kategorie: Aberration
 Größe: Groß
 HG: 4
 Habitat:

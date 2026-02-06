@@ -23,7 +23,6 @@ classes:
 aliases:
   - Flame Strike
 linter-yaml-title-alias: Flame Strike
-obsidianUIMode: preview
 ---
 # Flame Strike
 *5th-level, Evocation*  

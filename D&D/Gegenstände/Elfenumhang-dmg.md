@@ -9,7 +9,6 @@ tags:
 aliases:
   - Cloak of Elvenkind
 linter-yaml-title-alias: Cloak of Elvenkind
-obsidianUIMode: preview
 ---
 # Cloak of Elvenkind
 *Wondrous item, major, uncommon (requires attunement)*  

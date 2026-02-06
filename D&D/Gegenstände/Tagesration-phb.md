@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Rations (1 day)
+Kategorie: Essen und Trinken
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
@@ -9,7 +10,6 @@ tags:
 aliases:
   - Rations (1 day)
 linter-yaml-title-alias: Rations (1 day)
-obsidianUIMode: preview
 ---
 # Rations (1 day)
 *Adventuring gear*  

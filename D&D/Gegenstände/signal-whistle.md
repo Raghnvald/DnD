@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Signal Whistle
+Kategorie: Abenteuerausrüstung
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
@@ -9,7 +10,6 @@ tags:
 aliases:
   - Signal Whistle
 linter-yaml-title-alias: Signal Whistle
-obsidianUIMode: preview
 ---
 # Signal Whistle
 *Adventuring gear*  

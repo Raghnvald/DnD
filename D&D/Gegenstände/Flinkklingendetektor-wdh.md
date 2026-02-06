@@ -9,7 +9,6 @@ tags:
 aliases:
   - Nimblewright Detector
 linter-yaml-title-alias: Nimblewright Detector
-obsidianUIMode: preview
 ---
 # Nimblewright Detector
 

@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-feat
+  - json5e-feat
 tags:
-- Quelle/5e/phb
-- Kompendium/Optionales/ed
+  - Quelle/5e/phb
+  - Kompendium/Optionales/ed
 aliases:
-- Breath of Winter
+  - Breath of Winter
 ---
 # Breath of Winter
 *Source: Player's Handbook p. 81*  

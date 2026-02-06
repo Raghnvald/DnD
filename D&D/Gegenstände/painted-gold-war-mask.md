@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Painted gold war mask
+Kategorie: Kunstobjekt
 tags:
   - Gegenstand/Ausrüstung/treasure-art-object
   - Gegenstand/Seltenheit/keine
@@ -9,7 +10,6 @@ tags:
 aliases:
   - Painted gold war mask
 linter-yaml-title-alias: Painted gold war mask
-obsidianUIMode: preview
 ---
 # Painted gold war mask
 *Treasure (art object)*  

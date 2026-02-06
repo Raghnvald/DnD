@@ -2,7 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Red Guard Drake
-Typ: Drache
+Kategorie: Drache
 Größe: Mittelgroß
 HG: 2
 tags:

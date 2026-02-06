@@ -17,7 +17,6 @@ classes:
 aliases:
   - Passwall
 linter-yaml-title-alias: Passwall
-obsidianUIMode: preview
 ---
 # Passwall
 *5th-level, Transmutation*  

@@ -13,7 +13,6 @@ classes:
 aliases:
   - Hail of Thorns
 linter-yaml-title-alias: Hail of Thorns
-obsidianUIMode: preview
 ---
 # Dornenhagel
 *Beschwörung des 1. Grades*

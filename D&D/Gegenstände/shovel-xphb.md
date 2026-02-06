@@ -9,7 +9,6 @@ tags:
 aliases:
   - Shovel
 linter-yaml-title-alias: Shovel
-obsidianUIMode: preview
 ---
 # Shovel
 *Adventuring gear*  

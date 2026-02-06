@@ -23,7 +23,6 @@ classes:
 aliases:
   - Vampiric Touch
 linter-yaml-title-alias: Vampiric Touch
-obsidianUIMode: preview
 ---
 # Vampiric Touch
 *3rd-level, Necromancy*  

@@ -15,7 +15,6 @@ classes:
 aliases:
   - Otiluke's Freezing Sphere
 linter-yaml-title-alias: Otiluke's Freezing Sphere
-obsidianUIMode: preview
 ---
 # Otiluke's Freezing Sphere
 *6th-level, Evocation*  

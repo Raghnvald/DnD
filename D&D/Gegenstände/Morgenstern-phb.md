@@ -1,6 +1,6 @@
 ---
 Bezeichnung: Morgenstern
-Typ: Nahkampf-Kriegswaffe
+Kategorie: Nahkampf-Kriegswaffe
 Schaden: 1W8 Stich
 Eigenschaften: n/v
 Kst.: 15 GM
@@ -11,7 +11,7 @@ tags:
   - Gegenstand/Waffe/Nahkampf
   - Quelle/5e/phb
 aliases:
-  - "Morningstar"
+  - Morningstar
   - Morgenstern
 linter-yaml-title-alias: Morgenstern
 ---

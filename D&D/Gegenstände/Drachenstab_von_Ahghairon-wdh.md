@@ -10,7 +10,6 @@ tags:
 aliases:
   - Dragonstaff of Ahghairon
 linter-yaml-title-alias: Dragonstaff of Ahghairon
-obsidianUIMode: preview
 ---
 # Dragonstaff of Ahghairon
 *Staff, weapon, legendary (requires attunement)*  

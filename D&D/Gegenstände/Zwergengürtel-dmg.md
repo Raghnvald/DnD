@@ -9,7 +9,6 @@ tags:
 aliases:
   - Belt of Dwarvenkind
 linter-yaml-title-alias: Belt of Dwarvenkind
-obsidianUIMode: preview
 ---
 # Belt of Dwarvenkind
 *Wondrous item, major, rare (requires attunement)*  

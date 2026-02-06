@@ -28,7 +28,6 @@ classes:
 aliases:
   - Confusion
 linter-yaml-title-alias: Confusion
-obsidianUIMode: preview
 ---
 # Confusion
 *4th-level, Enchantment*  

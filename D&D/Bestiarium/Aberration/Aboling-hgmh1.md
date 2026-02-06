@@ -2,7 +2,7 @@
 cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
 Bezeichnung:
-Typ: Aberration
+Kategorie: Aberration
 Größe: Winzig
 HG: 1/8
 status: WIP

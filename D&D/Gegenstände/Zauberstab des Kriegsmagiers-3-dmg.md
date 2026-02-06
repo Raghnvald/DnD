@@ -10,7 +10,6 @@ tags:
 aliases:
   - +3 Wand of the War Mage
 linter-yaml-title-alias: +3 Wand of the War Mage
-obsidianUIMode: preview
 ---
 # +3 Wand of the War Mage
 *Wand, major, very rare (requires attunement by a spellcaster)*  

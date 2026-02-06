@@ -1,14 +1,13 @@
 ---
 cssclasses:
   - json5e-item
-Bezeichnung: "Veteran's Cane"
+Bezeichnung: Veteran's Cane
 tags:
   - Gegenstand/Seltenheit/gewöhnlich
   - Quelle/5e/xdmg
 aliases:
-  - "Veteran's Cane"
-linter-yaml-title-alias: "Veteran's Cane"
-obsidianUIMode: preview
+  - Veteran's Cane
+linter-yaml-title-alias: Veteran's Cane
 ---
 # Veteran's Cane
 *Wondrous item, common*  

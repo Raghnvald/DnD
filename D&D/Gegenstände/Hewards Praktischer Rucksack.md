@@ -1,6 +1,6 @@
 ---
 Bezeichnung: Hewards praktischer Rucksack
-Typ: Wundersamer Gegenstand
+Kategorie: Wundersamer Gegenstand
 Eigenschaften: n/v
 Kst.: n/v
 Gew.: 2,5 kg
@@ -10,7 +10,6 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Heward's Handy Haversack
-  - Hewards praktischer Rucksack
 linter-yaml-title-alias: Hewards praktischer Rucksack
 ---
 # Hewards praktischer Rucksack

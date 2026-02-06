@@ -9,7 +9,6 @@ tags:
 aliases:
   - Stormgirdle (Awakened)
 linter-yaml-title-alias: Stormgirdle (Awakened)
-obsidianUIMode: preview
 ---
 # Stormgirdle (Awakened)
 *Wondrous item, legendary (requires attunement)*  

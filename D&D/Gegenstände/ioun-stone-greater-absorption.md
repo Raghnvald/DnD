@@ -9,7 +9,6 @@ tags:
 aliases:
   - Ioun Stone, Greater Absorption
 linter-yaml-title-alias: Ioun Stone, Greater Absorption
-obsidianUIMode: preview
 ---
 # Ioun Stone, Greater Absorption
 *Wondrous item, major, legendary (requires attunement)*  

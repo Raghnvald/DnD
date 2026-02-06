@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- Quelle/5e/ggr
-- Monster/HG/6
-- Monster/Größe/Groß
-- Monster/Typ/Riese
+  - Quelle/5e/ggr
+  - Monster/HG/6
+  - Monster/Größe/Groß
+  - Monster/Typ/Riese
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Orzhov Giant
+  - Orzhov Giant
 ---
 # [Orzhov Giant](3-Mechanics\CLI\bestiary\giant/orzhov-giant-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 202*  

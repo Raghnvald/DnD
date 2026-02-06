@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Übergroßer Langbogen
-Typ: Fernkampf-Kriegswaffe
+Kategorie: Fernkampf-Kriegswaffe
 tags:
   - Gegenstand/Seltenheit/unbekannt
   - Gegenstand/Waffe/Fernkampf
@@ -12,7 +12,6 @@ aliases:
   - Oversized Longbow
   - Übergroßer Langbogen
 linter-yaml-title-alias: Übergroßer Langbogen
-obsidianUIMode: preview
 ---
 # Übergroßer Langbogen
 *Weapon*  

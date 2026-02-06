@@ -17,7 +17,6 @@ classes:
 aliases:
   - Find the Path
 linter-yaml-title-alias: Find the Path
-obsidianUIMode: preview
 ---
 # Find the Path
 *6th-level, Divination*  

@@ -9,7 +9,6 @@ tags:
 aliases:
   - Hell Hound Cloak
 linter-yaml-title-alias: Hell Hound Cloak
-obsidianUIMode: preview
 ---
 # Hell Hound Cloak
 *Wondrous item, cursed item, rare (requires attunement)*  

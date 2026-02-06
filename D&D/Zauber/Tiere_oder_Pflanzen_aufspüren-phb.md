@@ -18,7 +18,6 @@ classes:
 aliases:
   - Locate Animals or Plants
 linter-yaml-title-alias: Locate Animals or Plants
-obsidianUIMode: preview
 ---
 # Locate Animals or Plants
 *2nd-level, Divination (ritual)*  

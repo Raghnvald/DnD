@@ -1,9 +1,9 @@
 ---
 Bezeichnung: Purpurwurmgift (Verletzung)
-Typ: Gift
+Kategorie: Gift
 Eigenschaften: Gift
 Kst.: 2.000 GM
-Gew.: n/v
+Gew.: /
 tags:
   - Gegenstand/Ausrüstung/Gift
   - Gegenstand/Eigenschaft/Gift

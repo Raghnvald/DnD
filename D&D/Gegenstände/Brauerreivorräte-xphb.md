@@ -1,16 +1,14 @@
 ---
 cssclasses:
   - json5e-item
-Bezeichnung: "Brewer's Supplies"
+Bezeichnung: Brewer's Supplies
 tags:
   - Gegenstand/Ausrüstung/Werkzeug
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
-  - "Brewer's Supplies"
   - Brewer's Supplies
-linter-yaml-title-alias: "Brewer's Supplies"
-obsidianUIMode: preview
+linter-yaml-title-alias: Brewer's Supplies
 ---
 # Brewer's Supplies
 *Artisan's tools*  

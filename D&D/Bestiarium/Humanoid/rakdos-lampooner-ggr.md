@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- Quelle/5e/ggr
-- Monster/HG/2
-- Monster/Größe/Mittelgroß
-- Monster/Typ/Humanoid/any-race
+  - Quelle/5e/ggr
+  - Monster/HG/2
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/Humanoid/any-race
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Rakdos Lampooner
+  - Rakdos Lampooner
 ---
 # [Rakdos Lampooner](3-Mechanics\CLI\bestiary\humanoid/rakdos-lampooner-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 248*  

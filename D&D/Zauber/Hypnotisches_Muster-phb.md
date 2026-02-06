@@ -23,7 +23,6 @@ classes:
 aliases:
   - Hypnotic Pattern
 linter-yaml-title-alias: Hypnotic Pattern
-obsidianUIMode: preview
 ---
 # Hypnotic Pattern
 *3rd-level, Illusion*  

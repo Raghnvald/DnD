@@ -9,7 +9,6 @@ tags:
 aliases:
   - Potion of Comprehension
 linter-yaml-title-alias: Potion of Comprehension
-obsidianUIMode: preview
 ---
 # Potion of Comprehension
 *Potion, common*  

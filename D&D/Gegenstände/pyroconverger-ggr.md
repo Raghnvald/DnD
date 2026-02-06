@@ -9,7 +9,6 @@ tags:
 aliases:
   - Pyroconverger
 linter-yaml-title-alias: Pyroconverger
-obsidianUIMode: preview
 ---
 # Pyroconverger
 *Wondrous item, uncommon (requires attunement)*  

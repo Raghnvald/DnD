@@ -8,7 +8,6 @@ tags:
 aliases:
   - Horn of Valhalla
 linter-yaml-title-alias: Horn of Valhalla
-obsidianUIMode: preview
 ---
 # Horn of Valhalla
 *Wondrous item*  

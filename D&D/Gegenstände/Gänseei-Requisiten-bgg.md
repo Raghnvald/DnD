@@ -9,7 +9,6 @@ tags:
 aliases:
   - Goose Egg Trinket
 linter-yaml-title-alias: Goose Egg Trinket
-obsidianUIMode: preview
 ---
 # Goose Egg Trinket
 *Adventuring gear*  

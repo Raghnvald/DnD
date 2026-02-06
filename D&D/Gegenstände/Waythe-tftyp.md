@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Waythe
-Typ: Nahkampf-Kriegswaffe
+Kategorie: Nahkampf-Kriegswaffe
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -12,7 +12,6 @@ tags:
 aliases:
   - Waythe
 linter-yaml-title-alias: Waythe
-obsidianUIMode: preview
 ---
 # Waythe
 *Weapon (greatsword), legendary (requires attunement)*  

@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Zauber/list/subrace/tiefling-hellfire
+  - Zauber/list/subrace/tiefling-hellfire
 aliases:
-- Spells for Tiefling (Hellfire)
+  - Spells for Tiefling (Hellfire)
 ---
 # Spells for Tiefling (Hellfire)
 

@@ -9,7 +9,6 @@ tags:
 aliases:
   - Painted gold war mask
 linter-yaml-title-alias: Painted gold war mask
-obsidianUIMode: preview
 ---
 # Painted gold war mask
 *Treasure (art object)*  

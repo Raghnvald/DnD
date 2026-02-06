@@ -2,7 +2,6 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Halberd
-Typ: Nahkampf-Kriegswaffe
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/Kriegswaffe

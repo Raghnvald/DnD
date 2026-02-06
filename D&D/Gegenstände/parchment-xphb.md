@@ -9,7 +9,6 @@ tags:
 aliases:
   - Parchment
 linter-yaml-title-alias: Parchment
-obsidianUIMode: preview
 ---
 # Parchment
 *Adventuring gear*  

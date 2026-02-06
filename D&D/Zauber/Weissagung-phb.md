@@ -18,7 +18,6 @@ classes:
 aliases:
   - Divination
 linter-yaml-title-alias: Divination
-obsidianUIMode: preview
 ---
 # Divination
 *4th-level, Divination (ritual)*  

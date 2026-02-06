@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Will of the Talon (Awakened)
-Typ: Nahkampf-Kriegswaffe
+Kategorie: Nahkampf-Kriegswaffe
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/Artefakt
@@ -12,7 +12,6 @@ tags:
 aliases:
   - Will of the Talon (Awakened)
 linter-yaml-title-alias: Will of the Talon (Awakened)
-obsidianUIMode: preview
 ---
 # Will of the Talon (Awakened)
 *Weapon ([war pick](/3-Mechanics/CLI/items/war-pick-xphb.md)), artifact (requires attunement)*  

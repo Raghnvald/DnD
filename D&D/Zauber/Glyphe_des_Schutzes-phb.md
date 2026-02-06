@@ -21,7 +21,6 @@ classes:
 aliases:
   - Glyph of Warding
 linter-yaml-title-alias: Glyph of Warding
-obsidianUIMode: preview
 ---
 # Glyph of Warding
 *3rd-level, Abjuration*  

@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Spyglass
+Kategorie: Abenteuerausrüstung
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
@@ -9,7 +10,6 @@ tags:
 aliases:
   - Spyglass
 linter-yaml-title-alias: Spyglass
-obsidianUIMode: preview
 ---
 # Spyglass
 *Adventuring gear*  

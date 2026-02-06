@@ -8,7 +8,6 @@ tags:
 aliases:
   - Survival Mantle
 linter-yaml-title-alias: Survival Mantle
-obsidianUIMode: preview
 ---
 # Überlebensmantel
 *Medium armor*  

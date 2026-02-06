@@ -9,7 +9,6 @@ tags:
 aliases:
   - Belt of Storm Giant Strength
 linter-yaml-title-alias: Belt of Storm Giant Strength
-obsidianUIMode: preview
 ---
 # Belt of Storm Giant Strength
 *Wondrous item, legendary (requires attunement)*  

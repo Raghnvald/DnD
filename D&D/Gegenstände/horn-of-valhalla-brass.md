@@ -8,7 +8,6 @@ tags:
 aliases:
   - Horn of Valhalla, Brass
 linter-yaml-title-alias: Horn of Valhalla, Brass
-obsidianUIMode: preview
 ---
 # Horn of Valhalla, Brass
 *Wondrous item, major, rare*  

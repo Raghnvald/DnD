@@ -25,7 +25,6 @@ classes:
 aliases:
   - Crown of Madness
 linter-yaml-title-alias: Crown of Madness
-obsidianUIMode: preview
 ---
 # Crown of Madness
 *2nd-level, Enchantment*  

@@ -9,7 +9,6 @@ tags:
 aliases:
   - Cube of Force
 linter-yaml-title-alias: Cube of Force
-obsidianUIMode: preview
 ---
 # Cube of Force
 *Wondrous item, major, rare (requires attunement)*  

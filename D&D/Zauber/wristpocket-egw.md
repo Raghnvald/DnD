@@ -1,7 +1,7 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-spell
+Zaubergrad: 2
 tags:
   - Quelle/5e/egw
   - Zauber/Grad/2

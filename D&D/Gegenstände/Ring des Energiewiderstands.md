@@ -10,7 +10,6 @@ tags:
 aliases:
   - Ring of Force Resistance
 linter-yaml-title-alias: Ring of Force Resistance
-obsidianUIMode: preview
 ---
 # Ring of Force Resistance
 *Ring, major, rare (requires attunement)*  

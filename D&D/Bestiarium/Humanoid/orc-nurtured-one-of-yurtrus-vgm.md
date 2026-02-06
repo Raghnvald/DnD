@@ -1,21 +1,20 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- Quelle/5e/vgm
-- Monster/HG/1-2
-- Monster/Habitat/Wald
-- Monster/Habitat/Grasland
-- Monster/Habitat/Hügel
-- Monster/Habitat/Berg
-- Monster/Habitat/Unterreich
-- Monster/Größe/Mittelgroß
-- Monster/Typ/Humanoid/orc
+  - Quelle/5e/vgm
+  - Monster/HG/1-2
+  - Monster/Habitat/Wald
+  - Monster/Habitat/Grasland
+  - Monster/Habitat/Hügel
+  - Monster/Habitat/Berg
+  - Monster/Habitat/Unterreich
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/Humanoid/orc
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Orc Nurtured One of Yurtrus
+  - Orc Nurtured One of Yurtrus
 ---
 # [Orc Nurtured One of Yurtrus](3-Mechanics\CLI\bestiary\humanoid/orc-nurtured-one-of-yurtrus-vgm.md)
 *Source: Volo's Guide to Monsters p. 184*  

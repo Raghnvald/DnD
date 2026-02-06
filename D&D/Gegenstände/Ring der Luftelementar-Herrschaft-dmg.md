@@ -10,7 +10,6 @@ tags:
 aliases:
   - Ring of Air Elemental Command
 linter-yaml-title-alias: Ring of Air Elemental Command
-obsidianUIMode: preview
 ---
 # Ring of Air Elemental Command
 *Ring, major, legendary (requires attunement)*  

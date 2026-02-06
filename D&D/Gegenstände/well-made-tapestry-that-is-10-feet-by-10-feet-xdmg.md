@@ -9,7 +9,6 @@ tags:
 aliases:
   - Well-made tapestry that is 10 feet by 10 feet
 linter-yaml-title-alias: Well-made tapestry that is 10 feet by 10 feet
-obsidianUIMode: preview
 ---
 # Well-made tapestry that is 10 feet by 10 feet
 *Treasure (art object)*  

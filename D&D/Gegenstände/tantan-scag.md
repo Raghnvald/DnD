@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Tantan
+Kategorie: Werkzeug
 tags:
   - Gegenstand/Ausrüstung/Instrument
   - Gegenstand/Seltenheit/keine
@@ -9,7 +10,6 @@ tags:
 aliases:
   - Tantan
 linter-yaml-title-alias: Tantan
-obsidianUIMode: preview
 ---
 # Tantan
 *Instrument*  

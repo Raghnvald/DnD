@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Orb of Shielding (Risian Shale)
+Kategorie: Wundersamer Gegenstand
 tags:
   - Gegenstand/Ausrüstung/Zauberfokus
   - Gegenstand/Einstimmung/required
@@ -13,7 +14,6 @@ aliases:
   - Risian Shale Crystal
   - Risian Shale Orb
 linter-yaml-title-alias: Orb of Shielding (Risian Shale)
-obsidianUIMode: preview
 ---
 # Orb of Shielding (Risian Shale)
 *Wondrous item, common (requires attunement)*  

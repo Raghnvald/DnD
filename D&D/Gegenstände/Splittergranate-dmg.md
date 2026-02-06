@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Fragmentation Grenade
+Kategorie: Explosives
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/explosive
@@ -10,7 +11,6 @@ tags:
 aliases:
   - Fragmentation Grenade
 linter-yaml-title-alias: Fragmentation Grenade
-obsidianUIMode: preview
 ---
 # Fragmentation Grenade
 *Explosive*  

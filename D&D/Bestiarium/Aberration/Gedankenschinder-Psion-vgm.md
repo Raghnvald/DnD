@@ -1,17 +1,16 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- Quelle/5e/vgm
-- Monster/HG/8
-- Monster/Habitat/Unterreich
-- Monster/Größe/Mittelgroß
-- Monster/Typ/Aberration
+  - Quelle/5e/vgm
+  - Monster/HG/8
+  - Monster/Habitat/Unterreich
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/Aberration
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Mind Flayer Psion
+  - Mind Flayer Psion
 ---
 # [Mind Flayer Psion](3-Mechanics\CLI\bestiary\aberration/mind-flayer-psion-vgm.md)
 *Source: Volo's Guide to Monsters p. 71*  

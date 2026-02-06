@@ -9,7 +9,6 @@ tags:
 aliases:
   - Residuum Enchanting Slate
 linter-yaml-title-alias: Residuum Enchanting Slate
-obsidianUIMode: preview
 ---
 # Residuum Enchanting Slate
 *Wondrous item, tool*  

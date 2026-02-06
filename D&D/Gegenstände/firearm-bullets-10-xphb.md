@@ -9,7 +9,6 @@ tags:
 aliases:
   - Firearm Bullets (10)
 linter-yaml-title-alias: Firearm Bullets (10)
-obsidianUIMode: preview
 ---
 # Firearm Bullets (10)
 *Ammunition*  

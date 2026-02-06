@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-spell
 Bezeichnung: Summon Construct
+Zaubergrad: 4
 tags:
   - Klasse/Barde
   - Klasse/Magier

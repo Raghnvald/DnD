@@ -9,7 +9,6 @@ tags:
 aliases:
   - Verminshroud (Dormant)
 linter-yaml-title-alias: Verminshroud (Dormant)
-obsidianUIMode: preview
 ---
 # Verminshroud (Dormant)
 *Wondrous item, legendary (requires attunement)*  

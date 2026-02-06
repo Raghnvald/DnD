@@ -9,7 +9,6 @@ tags:
 aliases:
   - Platinum bracelet set with an emerald
 linter-yaml-title-alias: Platinum bracelet set with an emerald
-obsidianUIMode: preview
 ---
 # Platinum bracelet set with an emerald
 *Treasure (art object)*  

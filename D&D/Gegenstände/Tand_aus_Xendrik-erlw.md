@@ -1,16 +1,15 @@
 ---
 cssclasses:
   - json5e-item
-Bezeichnung: "Xen'drik Trinket"
+Bezeichnung: Xen'drik Trinket
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/erlw
 aliases:
-  - "Xen'drik Trinket"
   - Xen'drik Trinket
-linter-yaml-title-alias: "Xen'drik Trinket"
-obsidianUIMode: preview
+  - Xen'drik Trinket
+linter-yaml-title-alias: Xen'drik Trinket
 ---
 # Xen'drik Trinket
 *Adventuring gear*  

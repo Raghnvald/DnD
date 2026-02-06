@@ -9,7 +9,6 @@ tags:
 aliases:
   - Moorbounder
 linter-yaml-title-alias: Moorbounder
-obsidianUIMode: preview
 ---
 # Moorbounder
 *Mount*  

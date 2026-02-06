@@ -2,7 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Vampire Spawn
-Typ: Untoter
+Kategorie: Untoter
 Größe: M oder S
 HG: 5
 Habitat:

@@ -2,7 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Zombie Plague Spreader
-Typ: Untoter
+Kategorie: Untoter
 Größe: Mittelgroß
 HG: 4
 Habitat:

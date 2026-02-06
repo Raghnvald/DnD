@@ -17,7 +17,6 @@ classes:
 aliases:
   - Crusader's Mantle
 linter-yaml-title-alias: Crusader's Mantle
-obsidianUIMode: preview
 ---
 # Crusader's Mantle
 *3rd-level, Evocation*  

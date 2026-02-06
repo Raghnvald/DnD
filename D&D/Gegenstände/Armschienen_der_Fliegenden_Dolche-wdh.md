@@ -9,7 +9,6 @@ tags:
 aliases:
   - Bracer of Flying Daggers
 linter-yaml-title-alias: Bracer of Flying Daggers
-obsidianUIMode: preview
 ---
 # Bracer of Flying Daggers
 *Wondrous item, rare (requires attunement)*  

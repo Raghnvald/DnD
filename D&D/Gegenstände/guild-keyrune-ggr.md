@@ -9,7 +9,6 @@ tags:
 aliases:
   - Guild Keyrune
 linter-yaml-title-alias: Guild Keyrune
-obsidianUIMode: preview
 ---
 # Guild Keyrune
 *Wondrous item (requires attunement by a member of the relevant guild)*  

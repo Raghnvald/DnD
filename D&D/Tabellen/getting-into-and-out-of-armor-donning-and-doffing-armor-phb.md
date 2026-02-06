@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Quelle/5e/phb
+  - Quelle/5e/phb
 aliases:
-- Getting Into and Out of Armor; Donning and Doffing Armor
+  - Getting Into and Out of Armor; Donning and Doffing Armor
 ---
 # Getting Into and Out of Armor; Donning and Doffing Armor
 *Source: Player's Handbook p. 146. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)* 

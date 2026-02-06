@@ -11,7 +11,6 @@ tags:
 aliases:
   - Armor of the Valiant Soul
 linter-yaml-title-alias: Armor of the Valiant Soul
-obsidianUIMode: preview
 ---
 # Armor of the Valiant Soul
 *Medium armor ([scale mail](/3-Mechanics/CLI/items/scale-mail-xphb.md)), legendary (requires attunement)*  

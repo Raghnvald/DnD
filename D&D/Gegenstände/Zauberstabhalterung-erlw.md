@@ -9,7 +9,6 @@ tags:
 aliases:
   - Wand Sheath
 linter-yaml-title-alias: Wand Sheath
-obsidianUIMode: preview
 ---
 # Wand Sheath
 *Wondrous item, common (requires attunement by a warforged)*  

@@ -1,20 +1,22 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Carriage
+Bezeichnung: Kutsche
+Kategorie: Zaumzeug, Harnisch und gezogene Fahrzeuge
+Eigenschaften: /
+Kst.: 100 GM
+Gew.: 300,0 kg
 tags:
-  - Gegenstand/Fortbewegung/land
+  - Gegenstand/Ausrüstung
+  - Gegenstand/Ausrüstung/Fahrzeug/Land
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
   - Carriage
 linter-yaml-title-alias: Carriage
-obsidianUIMode: preview
 ---
-# Carriage
-*Vehicle (land)*  
+# Kutsche
+*Fahrzeug (Land)*  
 
-- **Cost**: 100 gp
-- **Weight**: 600.0 lbs.
+- **Kosten**: 100 GM
+- **Gewicht**: 300,0 kg
 
-*Source: Player's Handbook p. 157. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+*Quelle: Spielerhandbuch S. 157. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*

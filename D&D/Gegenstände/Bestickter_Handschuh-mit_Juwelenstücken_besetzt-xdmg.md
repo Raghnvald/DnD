@@ -9,7 +9,6 @@ tags:
 aliases:
   - Embroidered glove set with jewel chips
 linter-yaml-title-alias: Embroidered glove set with jewel chips
-obsidianUIMode: preview
 ---
 # Embroidered glove set with jewel chips
 *Treasure (art object)*  

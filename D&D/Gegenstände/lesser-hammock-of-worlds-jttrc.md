@@ -8,7 +8,6 @@ tags:
 aliases:
   - Lesser Hammock of Worlds
 linter-yaml-title-alias: Lesser Hammock of Worlds
-obsidianUIMode: preview
 ---
 # Lesser Hammock of Worlds
 *Wondrous item, legendary*  

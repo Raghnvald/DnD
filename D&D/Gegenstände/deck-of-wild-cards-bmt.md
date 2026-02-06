@@ -8,7 +8,6 @@ tags:
 aliases:
   - Deck of Wild Cards
 linter-yaml-title-alias: Deck of Wild Cards
-obsidianUIMode: preview
 ---
 # Deck of Wild Cards
 *Wondrous item, very rare*  

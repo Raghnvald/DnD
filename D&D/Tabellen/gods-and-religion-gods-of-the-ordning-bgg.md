@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Quelle/5e/bgg
+  - Quelle/5e/bgg
 aliases:
-- Gods and Religion; Gods of the Ordning
+  - Gods and Religion; Gods of the Ordning
 ---
 # Gods and Religion; Gods of the Ordning
 *Source: Bigby Presents: Glory of the Giants p. 27* 

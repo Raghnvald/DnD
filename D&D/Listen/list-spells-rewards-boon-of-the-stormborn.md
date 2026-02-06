@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Zauber/list/reward/boon-of-the-stormborn
+  - Zauber/list/reward/boon-of-the-stormborn
 aliases:
-- Spells for Boon of the Stormborn
+  - Spells for Boon of the Stormborn
 ---
 # Spells for Boon of the Stormborn
 

@@ -1,0 +1,64 @@
+model:
+  version: 1
+  kind: Table
+  columns: []
+pluginVersion: 1.0.0
+formulas:
+  Bezeichnung: link(file, Bezeichnung)
+views:
+  - type: table
+    name: Testung
+    filters:
+      and:
+        - file.folder.contains("D&D/Tabellen")
+        - Kategorie.isEmpty()
+        - file.ext == "md"
+    groupBy:
+      property: Kategorie
+      direction: ASC
+    order:
+      - file.name
+      - file.folder
+  - type: list
+    name: Bastion
+    filters:
+      and:
+        - file.folder.contains("D&D/Tabellen")
+        - Kategorie == "Bastion"
+    order:
+      - formula.Bezeichnung
+    sort:
+      - property: Bezeichnung
+        direction: ASC
+    indentProperties: false
+  - type: table
+    name: Charakterentwicklung
+    filters:
+      and:
+        - file.folder.contains("D&D/Tabellen")
+        - Kategorie == "Charakterentwicklung"
+  - type: table
+    name: Drachen
+    order:
+      - file.name
+      - formula.Bezeichnung
+  - type: table
+    name: Monster
+    filters:
+      and:
+        - file.folder == "D&D/Tabellen"
+        - Kategorie == "Monster"
+  - type: list
+    name: Namen
+    filters:
+      and:
+        - file.folder.contains("D&D/Tabellen")
+        - Kategorie == "Namen"
+    groupBy:
+      property: Kategorie
+      direction: ASC
+    order:
+      - formula.Bezeichnung
+    sort:
+      - property: formula.Bezeichnung
+        direction: ASC

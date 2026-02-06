@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Zauber/list/subrace/tiefling-zariel
+  - Zauber/list/subrace/tiefling-zariel
 aliases:
-- Spells for Tiefling (Zariel)
+  - Spells for Tiefling (Zariel)
 ---
 # Spells for Tiefling (Zariel)
 

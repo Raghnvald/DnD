@@ -10,7 +10,6 @@ tags:
 aliases:
   - Horned Ring
 linter-yaml-title-alias: Horned Ring
-obsidianUIMode: preview
 ---
 # Horned Ring
 *Ring, very rare (requires attunement)*  

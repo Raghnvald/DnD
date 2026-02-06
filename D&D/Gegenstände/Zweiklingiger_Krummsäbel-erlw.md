@@ -1,8 +1,8 @@
 ---
 cssclasses:
   - json5e-item
-Bezeichnung: Double-Bladed Scimitar
-Typ: Nahkampf-Kriegswaffe
+Bezeichnung: Zweiklingiger Krummsäbel
+Kategorie: Nahkampf-Kriegswaffe
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/Kriegswaffe
@@ -11,7 +11,6 @@ tags:
 aliases:
   - Double-Bladed Scimitar
 linter-yaml-title-alias: Double-Bladed Scimitar
-obsidianUIMode: preview
 ---
 # Double-Bladed Scimitar
 *Weapon*  

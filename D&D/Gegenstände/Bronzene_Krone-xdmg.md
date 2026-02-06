@@ -9,7 +9,6 @@ tags:
 aliases:
   - Bronze crown
 linter-yaml-title-alias: Bronze crown
-obsidianUIMode: preview
 ---
 # Bronze crown
 *Treasure (art object)*  

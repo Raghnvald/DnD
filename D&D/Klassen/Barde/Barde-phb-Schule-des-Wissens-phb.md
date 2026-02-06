@@ -8,7 +8,6 @@ tags:
 aliases:
   - College of Lore
 linter-yaml-title-alias: College of Lore
-obsidianUIMode: preview
 ---
 # College of Lore
 *[Bard](Barde-phb.md): Bard College*  

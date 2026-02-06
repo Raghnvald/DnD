@@ -1,16 +1,14 @@
 ---
 cssclasses:
   - json5e-item
-Bezeichnung: "Cabal's Ruin (Exalted)"
+Bezeichnung: Cabal's Ruin (Exalted)
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
   - Quelle/5e/tdcsr
 aliases:
-  - "Cabal's Ruin (Exalted)"
   - Cabal's Ruin (Exalted)
-linter-yaml-title-alias: "Cabal's Ruin (Exalted)"
-obsidianUIMode: preview
+linter-yaml-title-alias: Cabal's Ruin (Exalted)
 ---
 # Cabal's Ruin (Exalted)
 *Wondrous item, legendary (requires attunement)*  

@@ -15,7 +15,6 @@ classes:
 aliases:
   - Holy Aura
 linter-yaml-title-alias: Holy Aura
-obsidianUIMode: preview
 ---
 # Holy Aura
 *8th-level, Abjuration*  

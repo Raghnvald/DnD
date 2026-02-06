@@ -1,7 +1,9 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Carnelian
+Bezeichnung: Karneol
+Kategorie: Edelstein
+Eigenschaften: /
+Kst.: 50 GM
+Gew.: /
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone
   - Gegenstand/Seltenheit/keine
@@ -9,13 +11,12 @@ tags:
 aliases:
   - Carnelian
 linter-yaml-title-alias: Carnelian
-obsidianUIMode: preview
 ---
-# Carnelian
-*Treasure (gemstone)*  
+# Karneol
+*Schatz (Edelstein)*  
 
-- **Cost**: 50 gp
+- **Kosten**: 50 GM
 
-An opaque orange to red-brown gemstone.
+Ein undurchsichtiger, orange bis rotbrauner Edelstein
 
-*Source: Dungeon Master's Guide p. 134*
+*Quelle: Spielleiterhandbuch S. 134*

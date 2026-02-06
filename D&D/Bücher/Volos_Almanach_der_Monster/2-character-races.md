@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Quelle/5e/vgm
+  - Quelle/5e/vgm
 aliases:
-- Character Races
+  - Character Races
 ---
 # Character Races
 *Source: Volo's Guide to Monsters, p. 103* 

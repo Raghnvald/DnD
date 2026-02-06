@@ -17,7 +17,6 @@ classes:
 aliases:
   - True Polymorph
 linter-yaml-title-alias: True Polymorph
-obsidianUIMode: preview
 ---
 # True Polymorph
 *9th-level, Transmutation*  

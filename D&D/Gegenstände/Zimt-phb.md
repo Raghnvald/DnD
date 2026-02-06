@@ -1,7 +1,9 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Cinnamon
+Bezeichnung: Zimt
+Kategorie: Handelsgut
+Eigenschaften: /
+Kst.: 2 GM
+Gew.: 0,5 kg
 tags:
   - Gegenstand/Ausrüstung/Handelsgut
   - Gegenstand/Seltenheit/keine
@@ -9,12 +11,11 @@ tags:
 aliases:
   - Cinnamon
 linter-yaml-title-alias: Cinnamon
-obsidianUIMode: preview
 ---
-# Cinnamon
-*Trade good*  
+# Zimt
+*Handelsgut*  
 
-- **Cost**: 2 gp
-- **Weight**: 1.0 lbs.
+- **Kosten**: 2 GM
+- **Gewicht**: 0,5 kg.
 
-*Source: Player's Handbook p. 157. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+*Quelle: Spielerhandbuch S. 157. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*

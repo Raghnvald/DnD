@@ -25,7 +25,6 @@ classes:
 aliases:
   - Spider Climb
 linter-yaml-title-alias: Spider Climb
-obsidianUIMode: preview
 ---
 # Spider Climb
 *2nd-level, Transmutation*  

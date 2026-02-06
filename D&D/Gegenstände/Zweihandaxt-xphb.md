@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Greataxe
-Typ: Nahkampf-Kriegswaffe
+Kategorie: Nahkampf-Kriegswaffe
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/Kriegswaffe
@@ -11,7 +11,6 @@ tags:
 aliases:
   - Greataxe
 linter-yaml-title-alias: Greataxe
-obsidianUIMode: preview
 ---
 # Greataxe
 *Weapon*  

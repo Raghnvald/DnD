@@ -9,7 +9,6 @@ tags:
 aliases:
   - Crystal Ball
 linter-yaml-title-alias: Crystal Ball
-obsidianUIMode: preview
 ---
 # Crystal Ball
 *Wondrous item, very rare (requires attunement)*  

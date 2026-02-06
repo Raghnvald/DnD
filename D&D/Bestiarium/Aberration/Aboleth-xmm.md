@@ -12,7 +12,7 @@ statblock: inline
 statblock-link: "#^statblock"
 aliases:
   - Aboleth
-Typ: Aberration
+Kategorie: Aberration
 Größe: Groß
 HG: 10
 Habitat:

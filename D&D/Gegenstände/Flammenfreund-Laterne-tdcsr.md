@@ -9,7 +9,6 @@ tags:
 aliases:
   - Flamefriend Lantern
 linter-yaml-title-alias: Flamefriend Lantern
-obsidianUIMode: preview
 ---
 # Flamefriend Lantern
 *Wondrous item, rare (requires attunement)*  

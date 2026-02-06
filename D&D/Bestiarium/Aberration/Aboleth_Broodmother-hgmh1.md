@@ -2,7 +2,7 @@
 cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
 Bezeichnung:
-Typ: Aberration
+Kategorie: Aberration
 Größe: Groß
 HG: 16
 status: WIP

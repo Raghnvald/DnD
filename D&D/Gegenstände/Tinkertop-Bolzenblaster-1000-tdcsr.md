@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Tinkertop Boltblaster 1000
-Typ: Fernkampf-Kriegswaffe
+Kategorie: Fernkampf-Kriegswaffe
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
@@ -12,7 +12,6 @@ tags:
 aliases:
   - Tinkertop Boltblaster 1000
 linter-yaml-title-alias: Tinkertop Boltblaster 1000
-obsidianUIMode: preview
 ---
 # Tinkertop Boltblaster 1000
 *Weapon ([hand crossbow](/3-Mechanics/CLI/items/hand-crossbow-xphb.md)), very rare (requires attunement)*  

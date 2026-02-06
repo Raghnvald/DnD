@@ -1,16 +1,15 @@
 ---
 cssclasses:
   - json5e-item
-Bezeichnung: "Rogue's Mantle"
+Bezeichnung: Rogue's Mantle
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/bmt
 aliases:
-  - "Rogue's Mantle"
   - Rogue's Mantle
-linter-yaml-title-alias: "Rogue's Mantle"
-obsidianUIMode: preview
+  - Rogue's Mantle
+linter-yaml-title-alias: Rogue's Mantle
 ---
 # Rogue's Mantle
 *Wondrous item, rare (requires attunement)*  

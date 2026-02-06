@@ -26,7 +26,6 @@ aliases:
   - Last Stand Splint Armor
   - Last Stand Studded Leather Armor
 linter-yaml-title-alias: Last Stand Armor
-obsidianUIMode: preview
 ---
 # Last Stand Armor
 *Very rare*  

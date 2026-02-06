@@ -1,6 +1,6 @@
 ---
 Bezeichnung: Amulett der Ebenen
-Typ: Wundersamer Gegenstand
+Kategorie: Wundersamer Gegenstand
 Eigenschaften: erfordert Einstimmung
 Kst.: 160.000 GM
 Gew.: 0,5 kg
@@ -11,7 +11,6 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Amulet of the Planes
-  - Amulett der Ebenen
 linter-yaml-title-alias: Amulett der Ebenen
 ---
 # Amulett der Ebenen

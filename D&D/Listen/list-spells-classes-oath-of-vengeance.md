@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Zauber/list/subclass/oath-of-vengeance
+  - Zauber/list/subclass/oath-of-vengeance
 aliases:
-- Spells for Oath of Vengeance
+  - Spells for Oath of Vengeance
 ---
 # Spells for Oath of Vengeance
 

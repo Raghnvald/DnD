@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- Quelle/5e/ggr
-- Monster/HG/1-4
-- Monster/Größe/Klein
-- Monster/Typ/Konstrukt
+  - Quelle/5e/ggr
+  - Monster/HG/1-4
+  - Monster/Größe/Klein
+  - Monster/Typ/Konstrukt
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Servitor Thrull
+  - Servitor Thrull
 ---
 # [Servitor Thrull](3-Mechanics\CLI\bestiary\construct/servitor-thrull-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 221*  

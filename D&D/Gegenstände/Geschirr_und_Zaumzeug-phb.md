@@ -1,7 +1,7 @@
 ---
 Bezeichnung: Geschirr und Zaumzeug
-Typ: Zaumzeug, Harnisch und gezogene Fahrzeuge
-Eigenschaften: n/v
+Kategorie: Zaumzeug, Harnisch und gezogene Fahrzeuge
+Eigenschaften: /
 Kst.: 2 GM
 Gew.: 0,5 kg
 tags:
@@ -12,10 +12,10 @@ aliases:
   - Bit and bridle
 linter-yaml-title-alias: Bit and bridle
 ---
-# Bit and bridle
-*Tack and harness*  
+# Geschirr und Zaumzeug
+*Zaumzeug und Harnisch*  
 
-- **Cost**: 2 gp
-- **Weight**: 1.0 lbs.
+- **Kosten**: 2 GM
+- **Gewicht**: 0,5 kg.
 
-*Source: Player's Handbook p. 157. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+*Quelle: Spielerhandbuch S. 157. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*

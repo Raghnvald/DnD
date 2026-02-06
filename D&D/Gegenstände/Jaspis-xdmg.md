@@ -9,7 +9,6 @@ tags:
 aliases:
   - Jasper
 linter-yaml-title-alias: Jasper
-obsidianUIMode: preview
 ---
 # Jasper
 *Treasure (gemstone)*  

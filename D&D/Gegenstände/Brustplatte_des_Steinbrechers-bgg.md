@@ -1,6 +1,6 @@
 ---
 Bezeichnung: Brustplatte des Steinbrechers
-Typ: Rüstung
+Kategorie: Rüstung
 Rüstung: Mittel
 Eigenschaften: /
 Kst.: /
@@ -15,7 +15,7 @@ tags:
   - Quelle/5e/bgg
 aliases:
   - Stonebreaker's Breastplate
-linter-yaml-title-alias: "Stonebreaker's Breastplate"
+linter-yaml-title-alias: Stonebreaker's Breastplate
 ---
 # Brustplatte des Steinbrechers
 *Medium armor (breastplate), legendary (requires attunement)*  

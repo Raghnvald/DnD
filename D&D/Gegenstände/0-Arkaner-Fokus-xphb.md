@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/xphb
 aliases:
   - Arcane Focus
-  - Arkaner Fokus
 linter-yaml-title-alias: Arkaner Fokus
 ---
 # Arkaner Fokus

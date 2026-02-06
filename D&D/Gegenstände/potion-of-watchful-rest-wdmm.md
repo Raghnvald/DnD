@@ -9,7 +9,6 @@ tags:
 aliases:
   - Potion of Watchful Rest
 linter-yaml-title-alias: Potion of Watchful Rest
-obsidianUIMode: preview
 ---
 # Potion of Watchful Rest
 *Potion, common*  

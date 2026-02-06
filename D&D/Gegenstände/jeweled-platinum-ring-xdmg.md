@@ -9,7 +9,6 @@ tags:
 aliases:
   - Jeweled platinum ring
 linter-yaml-title-alias: Jeweled platinum ring
-obsidianUIMode: preview
 ---
 # Jeweled platinum ring
 *Treasure (art object)*  

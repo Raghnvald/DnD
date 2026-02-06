@@ -1,6 +1,7 @@
 ---
 cssclasses: json5e-spell
 Bezeichnung: Schweben
+Zaubergrad: 2
 tags:
   - Klasse/Magier
   - Klasse/Zauberer

@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Verbannung
 Zaubergrad: 4
-Zeitaufwand: 
-Reichweite: 
-Komponenten: 
-Wirkungsdauer: 
-Angriff: 
-Schaden: 
+Zeitaufwand:
+Reichweite:
+Komponenten:
+Wirkungsdauer:
+Angriff:
+Schaden:
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Hexenmeister
@@ -33,7 +33,6 @@ classes:
 aliases:
   - Banishment
 linter-yaml-title-alias: Verbannung
-obsidianUIMode: preview
 ---
 # Verbannung
 *Bann des 4. Grad*

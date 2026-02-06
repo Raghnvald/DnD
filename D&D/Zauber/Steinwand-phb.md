@@ -22,7 +22,6 @@ classes:
 aliases:
   - Wall of Stone
 linter-yaml-title-alias: Wall of Stone
-obsidianUIMode: preview
 ---
 # Wall of Stone
 *5th-level, Evocation*  

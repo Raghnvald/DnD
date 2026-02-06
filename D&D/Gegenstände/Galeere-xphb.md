@@ -3,13 +3,12 @@ cssclasses:
   - json5e-item
 Bezeichnung: Galley
 tags:
-  - Gegenstand/Fortbewegung/ship-water
+  - Gegenstand/Ausrüstung/Fahrzeug
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Galley
 linter-yaml-title-alias: Galley
-obsidianUIMode: preview
 ---
 # Galley
 *Ship, vehicle (water)*  

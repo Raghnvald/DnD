@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Silver chalice set with moonstones
+Kategorie: Kunstobjekt
 tags:
   - Gegenstand/Ausrüstung/treasure-art-object
   - Gegenstand/Seltenheit/keine
@@ -9,7 +10,6 @@ tags:
 aliases:
   - Silver chalice set with moonstones
 linter-yaml-title-alias: Silver chalice set with moonstones
-obsidianUIMode: preview
 ---
 # Silver chalice set with moonstones
 *Treasure (art object)*  

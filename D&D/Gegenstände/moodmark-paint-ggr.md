@@ -6,10 +6,9 @@ tags:
   - Gegenstand/Seltenheit/gewöhnlich
   - Quelle/5e/ggr
 aliases:
-  - "Moodmark Paint"
+  - Moodmark Paint
   - Moodmark Paint
 linter-yaml-title-alias: Moodmark Paint
-obsidianUIMode: preview
 ---
 # Moodmark Paint
 *Wondrous item, common*  

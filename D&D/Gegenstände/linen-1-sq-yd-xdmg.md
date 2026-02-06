@@ -9,7 +9,6 @@ tags:
 aliases:
   - Linen (1 sq. yd.)
 linter-yaml-title-alias: Linen (1 sq. yd.)
-obsidianUIMode: preview
 ---
 # Linen (1 sq. yd.)
 *Trade good*  

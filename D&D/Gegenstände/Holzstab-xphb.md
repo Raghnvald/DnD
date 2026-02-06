@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Wooden Staff
 tags:
   - Gegenstand/Ausrüstung/Zauberfokus
@@ -10,7 +8,6 @@ tags:
 aliases:
   - Wooden Staff
 linter-yaml-title-alias: Wooden Staff
-obsidianUIMode: preview
 ---
 # Wooden Staff
 *Weapon, spellcasting focus*  

@@ -21,7 +21,6 @@ classes:
 aliases:
   - Death Ward
 linter-yaml-title-alias: Death Ward
-obsidianUIMode: preview
 ---
 # Death Ward
 *4th-level, Abjuration*  

@@ -8,7 +8,6 @@ tags:
 aliases:
   - Luxon Beacon
 linter-yaml-title-alias: Luxon Beacon
-obsidianUIMode: preview
 ---
 # Luxon Beacon
 *Wondrous item, legendary*  

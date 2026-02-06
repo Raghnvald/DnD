@@ -9,7 +9,6 @@ tags:
 aliases:
   - Scroll of the Comet
 linter-yaml-title-alias: Scroll of the Comet
-obsidianUIMode: preview
 ---
 # Scroll of the Comet
 *Scroll, legendary*  

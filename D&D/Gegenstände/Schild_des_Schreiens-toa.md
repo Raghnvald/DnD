@@ -1,6 +1,6 @@
 ---
 Bezeichnung: Schild des Schreiens
-Typ: Rüstung
+Kategorie: Rüstung
 Rüstung: Schild
 Eigenschaften: /
 Kst.: /

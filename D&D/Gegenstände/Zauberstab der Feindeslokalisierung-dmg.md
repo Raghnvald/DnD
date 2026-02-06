@@ -10,7 +10,6 @@ tags:
 aliases:
   - Wand of Enemy Detection
 linter-yaml-title-alias: Wand of Enemy Detection
-obsidianUIMode: preview
 ---
 # Wand of Enemy Detection
 *Wand, major, rare (requires attunement)*  

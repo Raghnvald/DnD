@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Mess Kit
+Kategorie: Abenteuerausrüstung
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
@@ -9,7 +10,6 @@ tags:
 aliases:
   - Mess Kit
 linter-yaml-title-alias: Mess Kit
-obsidianUIMode: preview
 ---
 # Mess Kit
 *Adventuring gear*  

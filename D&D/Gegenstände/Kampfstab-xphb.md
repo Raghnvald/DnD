@@ -10,7 +10,6 @@ tags:
 aliases:
   - Quarterstaff
 linter-yaml-title-alias: Quarterstaff
-obsidianUIMode: preview
 ---
 # Quarterstaff
 *Weapon*  

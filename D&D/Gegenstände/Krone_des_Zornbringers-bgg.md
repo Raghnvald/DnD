@@ -9,7 +9,6 @@ tags:
 aliases:
   - Crown of the Wrath Bringer
 linter-yaml-title-alias: Crown of the Wrath Bringer
-obsidianUIMode: preview
 ---
 # Crown of the Wrath Bringer
 *Wondrous item, rare (requires attunement)*  

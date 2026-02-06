@@ -10,7 +10,6 @@ tags:
 aliases:
   - Ring of Radiant Resistance
 linter-yaml-title-alias: Ring of Radiant Resistance
-obsidianUIMode: preview
 ---
 # Ring of Radiant Resistance
 *Ring, major, rare (requires attunement)*  

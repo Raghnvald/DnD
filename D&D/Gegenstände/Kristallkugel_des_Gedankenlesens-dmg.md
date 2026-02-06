@@ -9,7 +9,6 @@ tags:
 aliases:
   - Kristallkugel des Gedankenlesens
 linter-yaml-title-alias: Kristallkugel des Gedankenlesens
-obsidianUIMode: preview
 ---
 # Kristallkugel des Gedankenlesens
 *Wundersamer Gegenstand, legendär (benötigt Einstimmung)*  

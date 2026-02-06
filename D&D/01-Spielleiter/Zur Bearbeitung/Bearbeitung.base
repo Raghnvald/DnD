@@ -1,0 +1,41 @@
+model:
+  version: 1
+  kind: Table
+  columns: []
+pluginVersion: 1.0.0
+filters:
+  and:
+    - '!file.name.containsAny("-xphb", "-xdmg", "-tce", "-xge", "-scag", "-egw", "-bmt", "-idrotf", "-bgg", "-ftd", "-tftyp", "-wdh", "-erlw", "-tdcsr", "-jttrc", "-pabtso", "-cm", "-wdmm", "-skt", "-ggr", "-toa", "-gos", "-veor", "-cos", "-vgm", "-bgdia", "-vrgr", "-xmm", "-mm", "-mtf", "-mpmm", "-hgmh1", "-mcv4ec", "-wbtw", "-mcv1sc", "-lmop", "-mcv2dc", "-dsotdq", "-mcv3mc")'
+    - '!file.ext.containsAny("webp", "base")'
+views:
+  - type: table
+    name: Gegenstände
+    filters:
+      and:
+        - file.folder == "D&D/Gegenstände"
+        - '!file.name.contains("-phb")'
+        - '!file.name.endsWith("-dmg")'
+        - '!file.name.endsWith("-old")'
+    order:
+      - file.name
+      - aliases
+  - type: table
+    name: Monster
+    filters:
+      and:
+        - file.folder.contains("D&D/Bestiarium")
+        - '!file.name.contains("-phb")'
+        - '!file.name.endsWith("-dmg")'
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Zauber
+    filters:
+      and:
+        - file.folder == "D&D/Zauber"
+        - '!file.name.contains("-phb")'
+        - '!file.name.endsWith("-dmg")'
+    sort:
+      - property: file.name
+        direction: ASC

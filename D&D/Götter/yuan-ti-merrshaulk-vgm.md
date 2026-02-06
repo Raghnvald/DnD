@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-deity
+  - json5e-deity
 tags:
-- Quelle/5e/vgm
-- Kompendium/Götter/yuan-ti
-aliases: 
-- Merrshaulk
+  - Quelle/5e/vgm
+  - Kompendium/Götter/yuan-ti
+aliases:
+  - Merrshaulk
 ---
 # Merrshaulk
 *Source: Volo's Guide to Monsters p. 94* 

@@ -9,7 +9,6 @@ tags:
 aliases:
   - Bucket
 linter-yaml-title-alias: Bucket
-obsidianUIMode: preview
 ---
 # Bucket
 *Adventuring gear*  

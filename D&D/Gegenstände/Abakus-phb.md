@@ -1,7 +1,7 @@
 ---
 Bezeichnung: Abakus
-Typ: Abenteuerausrüstung
-Eigenschaften: n/v
+Kategorie: Abenteuerausrüstung
+Eigenschaften: /
 Kst.: 2 GM
 Gew.: 1,0 kg
 tags:

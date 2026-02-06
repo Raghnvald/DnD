@@ -9,7 +9,6 @@ tags:
 aliases:
   - Cow
 linter-yaml-title-alias: Cow
-obsidianUIMode: preview
 ---
 # Cow
 *Trade good*  

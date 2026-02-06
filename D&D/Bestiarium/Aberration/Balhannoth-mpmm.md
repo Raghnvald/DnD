@@ -13,7 +13,7 @@ statblock: inline
 statblock-link: "#^statblock"
 aliases:
   - Balhannoth
-Typ: Aberration
+Kategorie: Aberration
 Größe: Groß
 Habitat:
   - Berg

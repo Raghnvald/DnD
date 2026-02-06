@@ -15,7 +15,6 @@ classes:
 aliases:
   - Harm
 linter-yaml-title-alias: Harm
-obsidianUIMode: preview
 ---
 # Harm
 *6th-level, Necromancy*  

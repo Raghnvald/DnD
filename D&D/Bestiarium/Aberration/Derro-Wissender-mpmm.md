@@ -11,7 +11,7 @@ statblock: inline
 statblock-link: "#^statblock"
 aliases:
   - Derro Savant
-Typ: Aberration (Zauberer)
+Kategorie: Aberration (Zauberer)
 Größe: Klein
 HG: 3
 status: WIP

@@ -9,7 +9,6 @@ tags:
 aliases:
   - Blanket
 linter-yaml-title-alias: Blanket
-obsidianUIMode: preview
 ---
 # Blanket
 *Adventuring gear*  

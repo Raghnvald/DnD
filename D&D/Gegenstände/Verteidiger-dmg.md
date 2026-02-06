@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Defender
-Typ: Nahkampf-Kriegswaffe (generisch)
+Kategorie: Nahkampf-Kriegswaffe (generisch)
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -19,7 +19,6 @@ aliases:
   - Defender Scimitar
   - Defender Shortsword
 linter-yaml-title-alias: Defender
-obsidianUIMode: preview
 ---
 # Defender
 *Major, legendary (requires attunement)*  

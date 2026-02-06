@@ -1,6 +1,6 @@
 ---
 Bezeichnung: Brustplatte
-Typ: Rüstung
+Kategorie: Rüstung
 Rüstung: Mittel
 Eigenschaften: /
 Kst.: 400 GM

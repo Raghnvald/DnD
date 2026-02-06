@@ -8,7 +8,6 @@ tags:
 aliases:
   - Censer of Controlling Air Elementals
 linter-yaml-title-alias: Censer of Controlling Air Elementals
-obsidianUIMode: preview
 ---
 # Censer of Controlling Air Elementals
 *Wondrous item, major, rare*  

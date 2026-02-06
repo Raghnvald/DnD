@@ -1,6 +1,6 @@
 ---
 Bezeichnung: Bronze Dragon Scale Mail
-Typ: Rüstung
+Kategorie: Rüstung
 Rüstung: Mittel
 Eigenschaften: n/v
 Kst.: 4.000 GM
@@ -16,7 +16,6 @@ tags:
 aliases:
   - Bronze Dragon Scale Mail
 linter-yaml-title-alias: Bronze Dragon Scale Mail
-obsidianUIMode: preview
 ---
 # Bronze-Drachenschuppen-Panzer
 *Rüstung ([[Schuppenpanzer-phb|Schuppenpanzer]]), sehr selten (erfordert Einstimmung)*  

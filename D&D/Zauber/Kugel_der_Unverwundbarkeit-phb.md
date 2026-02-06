@@ -17,7 +17,6 @@ classes:
 aliases:
   - Globe of Invulnerability
 linter-yaml-title-alias: Globe of Invulnerability
-obsidianUIMode: preview
 ---
 # Globe of Invulnerability
 *6th-level, Abjuration*  

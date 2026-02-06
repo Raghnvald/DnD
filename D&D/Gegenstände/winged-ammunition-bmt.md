@@ -15,7 +15,6 @@ aliases:
   - Winged Needle
   - Winged Sling Bullet
 linter-yaml-title-alias: Winged Ammunition
-obsidianUIMode: preview
 ---
 # Winged Ammunition
 *Ammunition, uncommon*  

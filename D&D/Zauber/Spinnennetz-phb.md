@@ -23,7 +23,6 @@ classes:
 aliases:
   - Web
 linter-yaml-title-alias: Web
-obsidianUIMode: preview
 ---
 # Web
 *2nd-level, Conjuration*  

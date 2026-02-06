@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Quelle/5e/vgm
+  - Quelle/5e/vgm
 aliases:
-- Roleplaying a Yuan-ti; Yuan-ti Personality Traits
+  - Roleplaying a Yuan-ti; Yuan-ti Personality Traits
 ---
 # Roleplaying a Yuan-ti; Yuan-ti Personality Traits
 *Source: Volo's Guide to Monsters p. 98* 

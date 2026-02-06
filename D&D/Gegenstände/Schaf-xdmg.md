@@ -9,7 +9,6 @@ tags:
 aliases:
   - Sheep
 linter-yaml-title-alias: Sheep
-obsidianUIMode: preview
 ---
 # Sheep
 *Trade good*  

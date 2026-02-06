@@ -17,7 +17,6 @@ classes:
 aliases:
   - Teleportation Circle
 linter-yaml-title-alias: Teleportation Circle
-obsidianUIMode: preview
 ---
 # Teleportation Circle
 *5th-level, Conjuration*  

@@ -9,7 +9,6 @@ tags:
 aliases:
   - Belt of Giant Strength
 linter-yaml-title-alias: Belt of Giant Strength
-obsidianUIMode: preview
 ---
 # Belt of Giant Strength
 *Wondrous item (requires attunement)*  

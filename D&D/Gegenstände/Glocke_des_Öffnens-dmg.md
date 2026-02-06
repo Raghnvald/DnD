@@ -1,23 +1,20 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Chime of Opening
+Bezeichnung: Glocke des Öffnens
 tags:
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/dmg
 aliases:
   - Chime of Opening
 linter-yaml-title-alias: Chime of Opening
-obsidianUIMode: preview
 ---
-# Chime of Opening
+# Glocke des Öffnens
 *Wondrous item, minor, rare*  
-![](/3-Mechanics/CLI/items/img/chime-of-opening.webp#right)
+![](img/chime-of-opening.webp#right)
 
 - **Weight**: 1.0 lbs.
 
-This hollow metal tube measures about 1 foot long and weighs 1 pound. You can strike it as an action, pointing it at an object within 120 feet of you that can be opened, such as a door, lid, or lock. The chime issues a clear tone, and one lock or latch on the object opens unless the sound can't reach the object. If no locks or latches remain, the object itself opens.
+Dieses hohle Metallgefäß misst ungefähr 30 Zentimeter und wiegt 1 Pfund. Du kannst eine Aktion verwenden, um es zu schlagen und auf ein Objekt innerhalb von 36 Metern von dir zu zeigen, welches wie eine Tür, ein Deckel oder ein Schloss geöffnet werden kann. Die Glocke gibt einen klaren Ton von sich, und ein Schloss oder Deckel öffnet sich daraufhin, es sei denn, der Klang kann das Objekt nicht erreichen. Wenn keine Schlösser oder Deckel verbleiben, öffnet sich das Objekt selbst. 
 
-The chime can be used ten times. After the tenth time it cracks and becomes useless.
+Die Glocke kann zehnmal benutzt werden. Nach dem zehnten Mal zerbricht die Glocke und wird nutzlos. 
 
 *Source: Dungeon Master's Guide p. 158. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

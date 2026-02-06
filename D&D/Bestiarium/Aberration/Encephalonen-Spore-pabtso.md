@@ -10,7 +10,7 @@ aliases:
   - Encephalon Gemmule
 Habitat:
   - /
-Typ: Aberration
+Kategorie: Aberration
 Name: Encephalon Gemmule
 Image: aberration/token/encephalon-gemmule-pabtso.webp
 Größe: Winzig

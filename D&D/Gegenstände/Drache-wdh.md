@@ -1,7 +1,8 @@
 ---
 cssclasses:
   - json5e-item
-Bezeichnung: Dragon
+Bezeichnung: Drache-Münze
+Kategorie: Währung
 tags:
   - Gegenstand/Ausrüstung/treasure-coinage
   - Gegenstand/Seltenheit/keine
@@ -9,7 +10,6 @@ tags:
 aliases:
   - Dragon
 linter-yaml-title-alias: Dragon
-obsidianUIMode: preview
 ---
 # Dragon
 *Treasure (coinage)*  

@@ -184,7 +184,7 @@ $\quad$ Wenn Strahd sieht oder von einem Schergen erfährt, dass der Foliant in 
 Die hier beschriebenen magischen Gegenstände können signifikante Rollen im Abenteuer spielen, so sie gefunden werden.
 
 ### Blutspeer
-_Waffe ([Speer](Speer.md)), ungewöhnlich (benötigt Einstimmung)_
+_Waffe ([Speer-old](Speer-old.md)), ungewöhnlich (benötigt Einstimmung)_
 
 Kavan war ein ruchloser Häuptling, dessen Stamm Jahrhunderte vor der Ankunft von Strahd von Zarowitsch im Balinokgebirge lebte. Obwohl er sehr wohl am Leben war, hatte Kavan einige Charakterzüge mit Vampiren gemeinsam: er schlief bei Tag und jagte bei Nacht, er trank das Blut seiner Beute und lebte unterirdisch. In der Schlacht führte er einen blutbefleckten Speer. Dieser war der erste Blutspeer, eine Waffe, die das Leben derer entzieht, die sie tötet und dieses Leben auf seinen Träger überträgt, und damit diesem Individuum die Ausdauer einflößt, um weiterzukämpfen.
 $\quad$ Wenn du mit einem Nahkampfangriff mit diesem Speer triffst und die Trefferpunkte des Ziels auf `0` reduzierst, erhältst du `2W6` temporäre Trefferpunkte.
@@ -227,7 +227,7 @@ $\quad$ Erfüllt von aus rechtschaffenem Sieg geborener Zuversicht rückte Marko
 $\quad$ Die Essenz von Markovias Heiligkeit wanderte zum Teil in ihre Knochen, während der Rest ihrer Leiche verweste. Ihr verbleibender Oberschenkelknochen ist mit einer Macht durchsetzt, die schreckliche Verletzungen bei Untaten verursacht.
 
 ### Sonnenschwert
-_Waffe ([Langschwert](Langschwert.md)), legendär (benötigt Einstimmung)_
+_Waffe ([Langschwert-old](Langschwert-old.md)), legendär (benötigt Einstimmung)_
 
 Das _Sonnenschwert_ ist eine einzigartige Klinge, die einst im Besitz von Strahds Bruder war, Sergej von Zarowitsch. In seiner ursprünglichen Form hatte sie ein Heft und eine Parierstange aus Platin, und eine dünne Kristallklinge so hart wie Stahl.
 $\quad$ Strahd beschäftigte nach Sergejs Tod einen mächtigen Zauberer namens Khazan, um die Waffe zu zerstören. Der erste Teil des Prozesses machte es nötig, das Heft von der Klinge zu trennen, was Khazan bewerkstelligte. Während Khazan damit beschäftigt war, die Klinge zu zerstören, stahl sein Lehrling das Heft und floh. Khazan fand später den verstümmelten Leichnam seines Lehrlings im Swalitischen Wald, aber das Heft war nirgends zu finden. Um den Zorn des Vampirs zu vermeiden, erzählte Khazan Strahd, dass die gesamte Waffe zerstört worden wäre.

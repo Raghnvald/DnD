@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-feat
+  - json5e-feat
 tags:
-- Quelle/5e/tce
-- Kompendium/Optionales/ai
+  - Quelle/5e/tce
+  - Kompendium/Optionales/ai
 aliases:
-- Boots of the Winding Path
+  - Boots of the Winding Path
 ---
 # Boots of the Winding Path
 *Source: Tasha's Cauldron of Everything p. 21*  

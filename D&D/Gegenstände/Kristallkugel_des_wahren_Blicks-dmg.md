@@ -9,7 +9,6 @@ tags:
 aliases:
   - Kristallkugel des wahren Blicks
 linter-yaml-title-alias: Kristallkugel des wahren Blicks
-obsidianUIMode: preview
 ---
 # Kristallkugel des wahren Blicks
 *Wundersamer Gegenstand, legendär (benötigt Einstimmung)*  

@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Basic Poison (vial)
+Kategorie: Gift
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
@@ -9,7 +10,6 @@ tags:
 aliases:
   - Basic Poison (vial)
 linter-yaml-title-alias: Basic Poison (vial)
-obsidianUIMode: preview
 ---
 # Basic Poison (vial)
 *Adventuring gear, poison*  

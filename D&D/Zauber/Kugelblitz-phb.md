@@ -17,7 +17,6 @@ classes:
 aliases:
   - Chain Lightning
 linter-yaml-title-alias: Chain Lightning
-obsidianUIMode: preview
 ---
 # Chain Lightning
 *6th-level, Evocation*  

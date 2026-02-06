@@ -9,7 +9,6 @@ tags:
 aliases:
   - Gold Bar (5-pound)
 linter-yaml-title-alias: Gold Bar (5-pound)
-obsidianUIMode: preview
 ---
 # Gold Bar (5-pound)
 *Trade bar*  

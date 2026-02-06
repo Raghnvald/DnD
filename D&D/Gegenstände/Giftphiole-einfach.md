@@ -1,9 +1,9 @@
 ---
 Bezeichnung: Giftphiole, einfach
-Typ: Gift
+Kategorie: Gift
 Eigenschaften: Gift
 Kst.: 100 GM
-Gew.: n/v
+Gew.: /
 tags:
   - Gegenstand/Ausrüstung/Gift
   - Gegenstand/Eigenschaft/Gift

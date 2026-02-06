@@ -9,7 +9,6 @@ tags:
 aliases:
   - Handheld mirror set in a painted wooden frame
 linter-yaml-title-alias: Handheld mirror set in a painted wooden frame
-obsidianUIMode: preview
 ---
 # Handheld mirror set in a painted wooden frame
 *Treasure (art object)*  

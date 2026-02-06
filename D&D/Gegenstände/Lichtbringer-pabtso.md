@@ -1,6 +1,10 @@
 ---
-Bezeichnung: Lightbringer
-Typ: Einfache Nahkampfwaffe
+Bezeichnung: Lichtbringer
+Kategorie: Einfache Nahkampfwaffe
+Schaden: 1W6 Wucht
+Eigenschaften: /
+Kst.: /
+Gew.: 2,0 kg
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/Waffe/Einfach
@@ -10,11 +14,11 @@ aliases:
   - Lightbringer
 linter-yaml-title-alias: Lightbringer
 ---
-# Lightbringer
-*Weapon ([mace](Gegenstände/mace-xphb.md)), uncommon*  
+# Lichtbringer
+*Waffe ([[Streitkolben-phb|Streitkolben]]), ungewöhnlich*  
 
-- **Damage**: 1d6 bludgeoning
-- **Weight**: 4.0 lbs.
+- **Schaden**: 1d6 Wucht
+- **Gewicht**: 4.0 lbs.
 
 You have a +1 bonus to attack and damage rolls made with this magic weapon.
 

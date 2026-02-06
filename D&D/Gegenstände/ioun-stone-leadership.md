@@ -9,7 +9,6 @@ tags:
 aliases:
   - Ioun Stone, Leadership
 linter-yaml-title-alias: Ioun Stone, Leadership
-obsidianUIMode: preview
 ---
 # Ioun Stone, Leadership
 *Wondrous item, major, very rare (requires attunement)*  

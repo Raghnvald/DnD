@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Orb of Shielding (Kythrian Skarn)
+Kategorie: Wundersamer Gegenstand
 tags:
   - Gegenstand/Ausrüstung/Zauberfokus
   - Gegenstand/Einstimmung/required
@@ -13,7 +14,6 @@ aliases:
   - Kythrian Skarn Orb
   - Orb of Shielding (Kythrian Skarn)
 linter-yaml-title-alias: Orb of Shielding (Kythrian Skarn)
-obsidianUIMode: preview
 ---
 # Orb of Shielding (Kythrian Skarn)
 *Wondrous item, common (requires attunement)*  

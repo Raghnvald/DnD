@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Hand Drum
+Kategorie: Werkzeug
 tags:
   - Gegenstand/Ausrüstung/Instrument
   - Gegenstand/Seltenheit/keine
@@ -9,7 +10,6 @@ tags:
 aliases:
   - Hand Drum
 linter-yaml-title-alias: Hand Drum
-obsidianUIMode: preview
 ---
 # Hand Drum
 *Instrument*  

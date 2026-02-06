@@ -1,15 +1,14 @@
 ---
 cssclasses:
   - json5e-item
-Bezeichnung: "Carpenter's Tools"
+Bezeichnung: Carpenter's Tools
 tags:
   - Gegenstand/Ausrüstung/Werkzeug
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
-  - "Carpenter's Tools"
   - Carpenter's Tools
-linter-yaml-title-alias: "Carpenter's Tools"
+linter-yaml-title-alias: Carpenter's Tools
 ---
 # Carpenter's Tools
 *Artisan's tools*  

@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Quelle/5e/xge
+  - Quelle/5e/xge
 aliases:
-- Distribution by Rarity; Magic Items Awarded by Tier
+  - Distribution by Rarity; Magic Items Awarded by Tier
 ---
 # Distribution by Rarity; Magic Items Awarded by Tier
 *Source: Xanathar's Guide to Everything p. 135* 

@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-race
+  - json5e-race
 tags:
-- Quelle/5e/ggr
-- Rasse/minotaur
+  - Quelle/5e/ggr
+  - Rasse/minotaur
 aliases:
-- Minotaur
+  - Minotaur
 ---
 # Minotaur
 *Source: Guildmasters' Guide to Ravnica p. 18*  

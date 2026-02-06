@@ -8,7 +8,6 @@ tags:
 aliases:
   - Flames Card
 linter-yaml-title-alias: Flames Card
-obsidianUIMode: preview
 ---
 # Flames Card
 *Wondrous item, legendary*  

@@ -9,7 +9,6 @@ tags:
 aliases:
   - Signal Whistle
 linter-yaml-title-alias: Signal Whistle
-obsidianUIMode: preview
 ---
 # Signal Whistle
 *Adventuring gear*  

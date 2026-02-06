@@ -19,7 +19,6 @@ classes:
 aliases:
   - Dream
 linter-yaml-title-alias: Dream
-obsidianUIMode: preview
 ---
 # Dream
 *5th-level, Illusion*  

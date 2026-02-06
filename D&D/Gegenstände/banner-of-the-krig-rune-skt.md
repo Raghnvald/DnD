@@ -9,7 +9,6 @@ tags:
 aliases:
   - Banner of the Krig Rune
 linter-yaml-title-alias: Banner of the Krig Rune
-obsidianUIMode: preview
 ---
 # Banner of the Krig Rune
 *Wondrous item, rare (requires attunement)*  

@@ -9,7 +9,6 @@ tags:
 aliases:
   - Azurite
 linter-yaml-title-alias: Azurite
-obsidianUIMode: preview
 ---
 # Azurite
 *Treasure (gemstone)*  

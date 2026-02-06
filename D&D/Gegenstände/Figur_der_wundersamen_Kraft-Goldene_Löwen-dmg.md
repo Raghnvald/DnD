@@ -8,7 +8,6 @@ tags:
 aliases:
   - Figurine of Wondrous Power, Golden Lions
 linter-yaml-title-alias: Figurine of Wondrous Power, Golden Lions
-obsidianUIMode: preview
 ---
 # Figurine of Wondrous Power, Golden Lions
 *Wondrous item, major, rare*  

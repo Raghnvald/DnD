@@ -9,7 +9,6 @@ tags:
 aliases:
   - Warhorse
 linter-yaml-title-alias: Warhorse
-obsidianUIMode: preview
 ---
 # Warhorse
 *Mount*  

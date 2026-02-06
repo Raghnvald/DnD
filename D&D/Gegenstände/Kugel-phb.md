@@ -1,7 +1,7 @@
 ---
 Bezeichnung: Kugel
-Typ: Arkaner Fokus
-Eigenschaften: n/v
+Kategorie: Arkaner Fokus
+Eigenschaften: /
 Kst.: 20 GM
 Gew.: 1,5 kg
 tags:
@@ -10,7 +10,6 @@ tags:
   - Gegenstand/Zauberfokus
   - Quelle/5e/phb
 aliases:
-  - Kugel
   - Orb
 linter-yaml-title-alias: Kugel
 ---

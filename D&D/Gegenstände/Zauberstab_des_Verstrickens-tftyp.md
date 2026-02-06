@@ -10,7 +10,6 @@ tags:
 aliases:
   - Wand of Entangle
 linter-yaml-title-alias: Wand of Entangle
-obsidianUIMode: preview
 ---
 # Wand of Entangle
 *Wand, uncommon (requires attunement by a spellcaster)*  

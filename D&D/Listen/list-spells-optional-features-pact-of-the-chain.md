@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Zauber/list/optfeature/pact-of-the-chain
+  - Zauber/list/optfeature/pact-of-the-chain
 aliases:
-- Spells for Pact of the Chain
+  - Spells for Pact of the Chain
 ---
 # Spells for Pact of the Chain
 

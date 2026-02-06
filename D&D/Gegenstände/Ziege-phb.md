@@ -1,7 +1,9 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Goat
+Bezeichnung: Ziege
+Kategorie: Handelsgut
+Eigenschaften: /
+Kst.: 1 GM
+Gew.: /
 tags:
   - Gegenstand/Ausrüstung/Handelsgut
   - Gegenstand/Seltenheit/keine
@@ -9,11 +11,10 @@ tags:
 aliases:
   - Goat
 linter-yaml-title-alias: Goat
-obsidianUIMode: preview
 ---
-# Goat
-*Trade good*  
+# Ziege
+*Handelsgut*  
 
-- **Cost**: 1 gp
+- **Kosten**: 1 GM
 
-*Source: Player's Handbook p. 157. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+*Quelle: Spielerhandbuch S. 157. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*

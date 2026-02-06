@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Needle of Mending
-Typ: Einfache Nahkampfwaffe
+Kategorie: Einfache Nahkampfwaffe
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
@@ -12,7 +12,6 @@ tags:
 aliases:
   - Needle of Mending
 linter-yaml-title-alias: Needle of Mending
-obsidianUIMode: preview
 ---
 # Needle of Mending
 *Weapon ([dagger](/3-Mechanics/CLI/items/dagger-xphb.md)), rare (requires attunement)*  

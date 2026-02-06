@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Zauber/list/race/yuan-ti
+  - Zauber/list/race/yuan-ti
 aliases:
-- Spells for Yuan-Ti
+  - Spells for Yuan-Ti
 ---
 # Spells for Yuan-Ti
 

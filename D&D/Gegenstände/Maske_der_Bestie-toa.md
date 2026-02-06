@@ -8,7 +8,6 @@ tags:
 aliases:
   - Mask of the Beast
 linter-yaml-title-alias: Mask of the Beast
-obsidianUIMode: preview
 ---
 # Maske der Bestie
 *Wondrous item, uncommon*  

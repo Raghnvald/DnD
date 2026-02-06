@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-feat
+  - json5e-feat
 tags:
-- Quelle/5e/xphb
-- Kompendium/Optionales/ei
+  - Quelle/5e/xphb
+  - Kompendium/Optionales/ei
 aliases:
-- Master of Myriad Forms
+  - Master of Myriad Forms
 ---
 # Master of Myriad Forms
 *Source: Player's Handbook (2024) p. 156. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  

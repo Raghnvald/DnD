@@ -9,7 +9,6 @@ tags:
 aliases:
   - Salt
 linter-yaml-title-alias: Salt
-obsidianUIMode: preview
 ---
 # Salt
 *Trade good*  

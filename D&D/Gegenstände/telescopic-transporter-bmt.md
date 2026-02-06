@@ -8,7 +8,6 @@ tags:
 aliases:
   - Telescopic Transporter
 linter-yaml-title-alias: Telescopic Transporter
-obsidianUIMode: preview
 ---
 # Telescopic Transporter
 *Wondrous item, legendary*  

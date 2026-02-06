@@ -1,7 +1,9 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Jade
+Kategorie: Edelstein
+Eigenschaften: /
+Kst.: 100 GM
+Gew.: /
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone
   - Gegenstand/Seltenheit/keine
@@ -9,13 +11,12 @@ tags:
 aliases:
   - Jade
 linter-yaml-title-alias: Jade
-obsidianUIMode: preview
 ---
 # Jade
-*Treasure (gemstone)*  
+*Schatz (Edelstein)*  
 
-- **Cost**: 100 gp
+- **Kosten**: 100 GM
 
-A translucent light green, deep green, or white gemstone.
+Ein lichtdurchlässiger, hellgrüner, dunkelgrüner oder weißer Edelstein.
 
-*Source: Dungeon Master's Guide p. 134*
+*Quelle: Spielleiterhandbuch S. 134*

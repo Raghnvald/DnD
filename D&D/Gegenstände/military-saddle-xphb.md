@@ -9,7 +9,6 @@ tags:
 aliases:
   - Military Saddle
 linter-yaml-title-alias: Military Saddle
-obsidianUIMode: preview
 ---
 # Military Saddle
 *Tack and harness*  

@@ -1,8 +1,7 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
-- json5e-index
+  - json5e-note
+  - json5e-index
 ---
 # Index of Giant
 
@@ -62,7 +61,7 @@ cssclasses:
 - [Sunder Shaman](./sunder-shaman-ggr.md)
 - [The Bagman](Der_Beutelmann-vrgr.md)
 - [Troll Amalgam](./troll-amalgam-bgg.md)
-- [Troll Limb](./troll-limb-xmm.md)
+- [Troll Limb](Trollgliedmaßen-xmm.md)
 - [Troll Mutate](./troll-mutate-bgg.md)
 - [Troll](./troll-xmm.md)
 - [Venom Troll](./venom-troll-mpmm.md)

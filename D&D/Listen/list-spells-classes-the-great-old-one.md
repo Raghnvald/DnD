@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Zauber/list/subclass/the-great-old-one
+  - Zauber/list/subclass/the-great-old-one
 aliases:
-- Spells for The Great Old One
+  - Spells for The Great Old One
 ---
 # Spells for The Great Old One
 

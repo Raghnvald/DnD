@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- Quelle/5e/mcv1sc
-- Monster/HG/1-8
-- Monster/Größe/Mittelgroß
-- Monster/Typ/Pflanze
+  - Quelle/5e/mcv1sc
+  - Monster/HG/1-8
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/Pflanze
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Gadabout
+  - Gadabout
 ---
 # [Gadabout](3-Mechanics\CLI\bestiary\plant/gadabout-mcv1sc.md)
 *Source: Monstrous Compendium Volume 1: Spelljammer Creatures p. 8*  

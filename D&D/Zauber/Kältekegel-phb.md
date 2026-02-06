@@ -20,7 +20,6 @@ classes:
 aliases:
   - Cone of Cold
 linter-yaml-title-alias: Cone of Cold
-obsidianUIMode: preview
 ---
 # Cone of Cold
 *5th-level, Evocation*  

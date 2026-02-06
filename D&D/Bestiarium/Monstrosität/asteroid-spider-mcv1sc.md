@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- Quelle/5e/mcv1sc
-- Monster/HG/15
-- Monster/Größe/Gigantisch
-- Monster/Typ/Monstrosität
+  - Quelle/5e/mcv1sc
+  - Monster/HG/15
+  - Monster/Größe/Gigantisch
+  - Monster/Typ/Monstrosität
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Asteroid Spider
+  - Asteroid Spider
 ---
 # [Asteroid Spider](3-Mechanics\CLI\bestiary\monstrosity/asteroid-spider-mcv1sc.md)
 *Source: Monstrous Compendium Volume 1: Spelljammer Creatures p. 3*  

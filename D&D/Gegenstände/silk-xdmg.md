@@ -9,7 +9,6 @@ tags:
 aliases:
   - Silk
 linter-yaml-title-alias: Silk
-obsidianUIMode: preview
 ---
 # Silk
 *Trade good*  

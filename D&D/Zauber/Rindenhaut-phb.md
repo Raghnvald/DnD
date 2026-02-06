@@ -21,7 +21,6 @@ classes:
 aliases:
   - Barkskin
 linter-yaml-title-alias: Rindenhaut
-obsidianUIMode: preview
 ---
 # Rindenhaut
 *Verwandlung des 2. Grades*

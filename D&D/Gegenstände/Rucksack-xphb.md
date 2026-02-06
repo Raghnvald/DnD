@@ -9,7 +9,6 @@ tags:
 aliases:
   - Backpack
 linter-yaml-title-alias: Backpack
-obsidianUIMode: preview
 ---
 # Backpack
 *Adventuring gear*  

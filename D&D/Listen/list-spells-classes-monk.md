@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Zauber/list/class/monk
+  - Zauber/list/class/monk
 aliases:
-- Monk Spells
+  - Monk Spells
 ---
 # Monk Spells
 

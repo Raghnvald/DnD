@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-race
+  - json5e-race
 tags:
-- Quelle/5e/phb
-- Rasse/dwarf/hill
+  - Quelle/5e/phb
+  - Rasse/dwarf/hill
 aliases:
-- Dwarf (Hill)
+  - Dwarf (Hill)
 ---
 # Dwarf (Hill)
 *Source: Player's Handbook p. 20. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  

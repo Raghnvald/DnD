@@ -1,6 +1,6 @@
 ---
 Bezeichnung: Blauer Drachenschuppen-Panzer
-Typ: Rüstung
+Kategorie: Rüstung
 Rüstung: Mittel
 Eigenschaften: n/v
 Kst.: 4.000 GM

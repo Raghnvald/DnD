@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Axe Beak
+Kategorie: Reit- und Lastentier
 tags:
   - Gegenstand/Ausrüstung/Reit-und-Lastentier
   - Gegenstand/Seltenheit/keine
@@ -9,7 +10,6 @@ tags:
 aliases:
   - Axe Beak
 linter-yaml-title-alias: Axe Beak
-obsidianUIMode: preview
 ---
 # Axe Beak
 *Mount*  

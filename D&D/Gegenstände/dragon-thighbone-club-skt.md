@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Dragon Thighbone Club
-Typ: Einfache Nahkampfwaffe
+Kategorie: Einfache Nahkampfwaffe
 tags:
   - Gegenstand/Einstimmung/optional
   - Gegenstand/Seltenheit/unbekannt/magic
@@ -12,7 +12,6 @@ tags:
 aliases:
   - Dragon Thighbone Club
 linter-yaml-title-alias: Dragon Thighbone Club
-obsidianUIMode: preview
 ---
 # Dragon Thighbone Club
 *Weapon (greatclub) (attunement optional)*  

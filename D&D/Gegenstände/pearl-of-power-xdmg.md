@@ -9,7 +9,6 @@ tags:
 aliases:
   - Pearl of Power
 linter-yaml-title-alias: Pearl of Power
-obsidianUIMode: preview
 ---
 # Pearl of Power
 *Wondrous item, uncommon (requires attunement by a spellcaster)*  

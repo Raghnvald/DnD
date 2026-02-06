@@ -2,7 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Adult Gold Dragon
-Typ: Drache (Metallisch)
+Kategorie: Drache (Metallisch)
 Größe: Riesig
 HG: 17
 Habitat:

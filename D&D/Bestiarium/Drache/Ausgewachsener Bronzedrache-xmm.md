@@ -2,7 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Adult Bronze Dragon
-Typ: Drache (Metallisch)
+Kategorie: Drache (Metallisch)
 Größe: Riesig
 HG: 15
 Habitat:

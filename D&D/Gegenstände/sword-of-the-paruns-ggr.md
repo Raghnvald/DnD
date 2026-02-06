@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Sword of the Paruns
-Typ: Nahkampf-Kriegswaffe
+Kategorie: Nahkampf-Kriegswaffe
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
@@ -12,7 +12,6 @@ tags:
 aliases:
   - Sword of the Paruns
 linter-yaml-title-alias: Sword of the Paruns
-obsidianUIMode: preview
 ---
 # Sword of the Paruns
 *Weapon (longsword), very rare (requires attunement)*  

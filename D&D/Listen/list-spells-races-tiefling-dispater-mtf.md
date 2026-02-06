@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Zauber/list/subrace/tiefling-dispater
+  - Zauber/list/subrace/tiefling-dispater
 aliases:
-- Spells for Tiefling (Dispater)
+  - Spells for Tiefling (Dispater)
 ---
 # Spells for Tiefling (Dispater)
 

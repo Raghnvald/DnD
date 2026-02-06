@@ -10,7 +10,6 @@ tags:
 aliases:
   - Ring of Feather Falling
 linter-yaml-title-alias: Ring of Feather Falling
-obsidianUIMode: preview
 ---
 # Ring of Feather Falling
 *Ring, rare (requires attunement)*  

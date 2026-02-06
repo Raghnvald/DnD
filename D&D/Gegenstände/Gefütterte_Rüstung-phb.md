@@ -1,6 +1,6 @@
 ---
 Bezeichnung: Gefütterte Rüstung
-Typ: Rüstung
+Kategorie: Rüstung
 Rüstung: Leicht
 Eigenschaften: /
 Kst.: 5 GM
@@ -13,7 +13,7 @@ tags:
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - "Padded Armor"
+  - Padded Armor
   - Gefütterte Rüstung
 linter-yaml-title-alias: Gefütterte Rüstung
 ---

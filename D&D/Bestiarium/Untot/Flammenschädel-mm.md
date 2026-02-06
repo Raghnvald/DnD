@@ -3,7 +3,7 @@ prefer-view: edit-source read
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Flammenschädel
-Typ: Untoter
+Kategorie: Untoter
 Größe: Winzig
 HG: 4
 Habitat:

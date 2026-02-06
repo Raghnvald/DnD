@@ -9,7 +9,6 @@ tags:
 aliases:
   - Brooch of Shielding
 linter-yaml-title-alias: Brooch of Shielding
-obsidianUIMode: preview
 ---
 # Brooch of Shielding
 *Wondrous item, major, uncommon (requires attunement)*  

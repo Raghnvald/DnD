@@ -9,7 +9,6 @@ tags:
 aliases:
   - Flour
 linter-yaml-title-alias: Flour
-obsidianUIMode: preview
 ---
 # Flour
 *Trade good*  

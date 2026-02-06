@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Quelle/5e/ggr
+  - Quelle/5e/ggr
 aliases:
-- Currency: Zibs and Zinos; Ravnica Currency
+  - Currency: Zibs and Zinos; Ravnica Currency
 ---
 # Currency: Zibs and Zinos; Ravnica Currency
 *Source: Guildmasters' Guide to Ravnica p. 9* 

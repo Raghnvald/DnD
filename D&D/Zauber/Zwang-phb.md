@@ -14,7 +14,6 @@ classes:
 aliases:
   - Compulsion
 linter-yaml-title-alias: Compulsion
-obsidianUIMode: preview
 ---
 # Compulsion
 *4th-level, Enchantment*  

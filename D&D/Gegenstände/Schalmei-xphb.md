@@ -9,7 +9,6 @@ tags:
 aliases:
   - Shawm
 linter-yaml-title-alias: Shawm
-obsidianUIMode: preview
 ---
 # Shawm
 *Instrument*  

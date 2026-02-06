@@ -9,7 +9,6 @@ tags:
 aliases:
   - Draft Horse
 linter-yaml-title-alias: Draft Horse
-obsidianUIMode: preview
 ---
 # Draft Horse
 *Mount*  

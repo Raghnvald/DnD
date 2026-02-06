@@ -9,7 +9,6 @@ tags:
 aliases:
   - Bell
 linter-yaml-title-alias: Bell
-obsidianUIMode: preview
 ---
 # Bell
 *Adventuring gear*  

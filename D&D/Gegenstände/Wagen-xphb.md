@@ -3,13 +3,12 @@ cssclasses:
   - json5e-item
 Bezeichnung: Wagon
 tags:
-  - Gegenstand/Fortbewegung/land
+  - Gegenstand/Ausrüstung/Fahrzeug
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Wagon
 linter-yaml-title-alias: Wagon
-obsidianUIMode: preview
 ---
 # Wagon
 *Vehicle (land)*  

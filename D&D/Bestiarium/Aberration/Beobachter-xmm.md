@@ -11,7 +11,7 @@ statblock: inline
 statblock-link: "#^statblock"
 aliases:
   - Spectator
-Typ: Aberration (Betrachter)
+Kategorie: Aberration (Betrachter)
 Habitat:
   - Unterreich
 Größe: Mittelgroß

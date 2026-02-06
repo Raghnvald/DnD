@@ -9,7 +9,6 @@ tags:
 aliases:
   - Stabling (per day)
 linter-yaml-title-alias: Stabling (per day)
-obsidianUIMode: preview
 ---
 # Stabling (per day)
 *Tack and harness*  

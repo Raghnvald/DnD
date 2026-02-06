@@ -9,7 +9,6 @@ tags:
 aliases:
   - Potion of Resistance
 linter-yaml-title-alias: Potion of Resistance
-obsidianUIMode: preview
 ---
 # Potion of Resistance
 *Potion, minor, uncommon*  

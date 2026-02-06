@@ -1,6 +1,6 @@
 ---
 Bezeichnung: Hellebarde
-Typ: Nahkampf-Kriegswaffe
+Kategorie: Nahkampf-Kriegswaffe
 Schaden: 1W10 Hieb
 Eigenschaften: Schwer, weitreichend, zweihändig
 Kst.: 20 GM

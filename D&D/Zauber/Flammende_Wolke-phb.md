@@ -17,7 +17,6 @@ classes:
 aliases:
   - Incendiary Cloud
 linter-yaml-title-alias: Incendiary Cloud
-obsidianUIMode: preview
 ---
 # Incendiary Cloud
 *8th-level, Conjuration*  

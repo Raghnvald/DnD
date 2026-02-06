@@ -20,7 +20,6 @@ classes:
 aliases:
   - Forbiddance
 linter-yaml-title-alias: Zutritt verwehren
-obsidianUIMode: preview
 ---
 # Zutritt verwehren
 _Bann des 6. Grades_

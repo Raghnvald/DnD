@@ -15,7 +15,6 @@ classes:
 aliases:
   - Clone
 linter-yaml-title-alias: Clone
-obsidianUIMode: preview
 ---
 # Clone
 *8th-level, Necromancy*  

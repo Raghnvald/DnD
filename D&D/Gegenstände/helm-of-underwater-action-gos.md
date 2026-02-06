@@ -9,7 +9,6 @@ tags:
 aliases:
   - Helm of Underwater Action
 linter-yaml-title-alias: Helm of Underwater Action
-obsidianUIMode: preview
 ---
 # Helm of Underwater Action
 *Wondrous item, uncommon (requires attunement)*  

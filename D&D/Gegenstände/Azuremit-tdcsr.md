@@ -9,7 +9,6 @@ tags:
 aliases:
   - Azuremite
 linter-yaml-title-alias: Azuremite
-obsidianUIMode: preview
 ---
 # Azuremite
 *Illegal drug*  

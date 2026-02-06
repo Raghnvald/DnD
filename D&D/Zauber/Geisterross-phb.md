@@ -20,7 +20,6 @@ classes:
 aliases:
   - Phantom Steed
 linter-yaml-title-alias: Phantom Steed
-obsidianUIMode: preview
 ---
 # Phantom Steed
 *3rd-level, Illusion (ritual)*  

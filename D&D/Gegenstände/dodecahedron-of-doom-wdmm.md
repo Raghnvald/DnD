@@ -8,7 +8,6 @@ tags:
 aliases:
   - Dodecahedron of Doom
 linter-yaml-title-alias: Dodecahedron of Doom
-obsidianUIMode: preview
 ---
 # Dodecahedron of Doom
 *Wondrous item, rare*  

@@ -10,7 +10,6 @@ tags:
 aliases:
   - Blackstaff
 linter-yaml-title-alias: Blackstaff
-obsidianUIMode: preview
 ---
 # Blackstaff
 *Staff, weapon, legendary (requires attunement by the Blackstaff heir, who must be a wizard)*  

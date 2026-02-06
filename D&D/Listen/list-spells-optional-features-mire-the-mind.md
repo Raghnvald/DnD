@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Zauber/list/optfeature/mire-the-mind
+  - Zauber/list/optfeature/mire-the-mind
 aliases:
-- Spells for Mire the Mind
+  - Spells for Mire the Mind
 ---
 # Spells for Mire the Mind
 

@@ -9,7 +9,6 @@ tags:
 aliases:
   - Fine gold chain set with a fire opal
 linter-yaml-title-alias: Fine gold chain set with a fire opal
-obsidianUIMode: preview
 ---
 # Fine gold chain set with a fire opal
 *Treasure (art object)*  

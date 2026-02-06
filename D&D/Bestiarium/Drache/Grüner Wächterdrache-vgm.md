@@ -2,7 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Green Guard Drake
-Typ: Drache
+Kategorie: Drache
 Größe: Mittelgroß
 Habitat:
   - Stadt

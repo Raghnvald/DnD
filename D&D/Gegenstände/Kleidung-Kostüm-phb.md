@@ -1,7 +1,6 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Costume Clothes
+Bezeichnung: Kleidung, Kostüm
+Kategorie: Abenteuerausrüstung
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
@@ -9,7 +8,6 @@ tags:
 aliases:
   - Costume Clothes
 linter-yaml-title-alias: Costume Clothes
-obsidianUIMode: preview
 ---
 # Costume Clothes
 *Adventuring gear*  

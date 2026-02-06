@@ -9,7 +9,6 @@ tags:
 aliases:
   - Quartz
 linter-yaml-title-alias: Quartz
-obsidianUIMode: preview
 ---
 # Quartz
 *Treasure (gemstone)*  

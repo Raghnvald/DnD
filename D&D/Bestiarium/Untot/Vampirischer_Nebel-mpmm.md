@@ -2,7 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Vampiric Mist
-Typ: Untoter
+Kategorie: Untoter
 Größe: Mittelgroß
 HG: 3
 status: WIP

@@ -9,7 +9,6 @@ tags:
 aliases:
   - Robe of Summer
 linter-yaml-title-alias: Robe of Summer
-obsidianUIMode: preview
 ---
 # Robe of Summer
 *Wondrous item, rare (requires attunement)*  

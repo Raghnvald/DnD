@@ -1,7 +1,9 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Coral
+Bezeichnung: Koralle
+Kategorie: Edelstein
+Eigenschaften: /
+Kst.: 100 GM
+Gew.: /
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone
   - Gegenstand/Seltenheit/keine
@@ -9,13 +11,12 @@ tags:
 aliases:
   - Coral
 linter-yaml-title-alias: Coral
-obsidianUIMode: preview
 ---
-# Coral
-*Treasure (gemstone)*  
+# Koralle
+*Schatz (Edelstein)*  
 
-- **Cost**: 100 gp
+- **Kosten**: 100 GM
 
-An opaque crimson gemstone.
+Ein undurchsichtiger, purpurner Edelstein.
 
-*Source: Dungeon Master's Guide p. 134*
+*Quelle: Spielleiterhandbuch S. 134*

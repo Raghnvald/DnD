@@ -9,7 +9,6 @@ tags:
 aliases:
   - Earthboard
 linter-yaml-title-alias: Earthboard
-obsidianUIMode: preview
 ---
 # Earthboard
 *Wondrous item, rare (requires attunement)*  

@@ -1,4 +1,0 @@
----
-Bezeichnung: Sendesteine
----
-# Sendesteine

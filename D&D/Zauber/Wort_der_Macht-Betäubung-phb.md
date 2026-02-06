@@ -19,7 +19,6 @@ classes:
 aliases:
   - Power Word Stun
 linter-yaml-title-alias: Power Word Stun
-obsidianUIMode: preview
 ---
 # Power Word Stun
 *8th-level, Enchantment*  

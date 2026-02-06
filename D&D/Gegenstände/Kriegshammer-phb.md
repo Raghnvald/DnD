@@ -1,6 +1,6 @@
 ---
 Bezeichnung: Kriegshammer
-Typ: Nahkampf-Kriegswaffe
+Kategorie: Nahkampf-Kriegswaffe
 Schaden: 1W8 Wucht
 Eigenschaften: Vielseitig (1W10)
 Kst.: 15 GM

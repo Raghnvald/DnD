@@ -9,7 +9,6 @@ tags:
 aliases:
   - Cataclysm Bolts
 linter-yaml-title-alias: Cataclysm Bolts
-obsidianUIMode: preview
 ---
 # Cataclysm Bolts
 *Ammunition, very rare*  

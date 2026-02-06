@@ -24,7 +24,6 @@ classes:
 aliases:
   - Bestow Curse
 linter-yaml-title-alias: Bestow Curse
-obsidianUIMode: preview
 ---
 # Bestow Curse
 *3rd-level, Necromancy*  

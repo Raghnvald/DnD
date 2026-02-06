@@ -11,7 +11,6 @@ tags:
 aliases:
   - Boomerang Shield
 linter-yaml-title-alias: Boomerang Shield
-obsidianUIMode: preview
 ---
 # Boomerang Shield
 *Armor (shield), uncommon (requires attunement)*  

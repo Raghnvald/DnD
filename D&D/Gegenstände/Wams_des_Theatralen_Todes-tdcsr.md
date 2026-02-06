@@ -8,7 +8,6 @@ tags:
 aliases:
   - Doublet of Dramatic Demise
 linter-yaml-title-alias: Doublet of Dramatic Demise
-obsidianUIMode: preview
 ---
 # Doublet of Dramatic Demise
 *Wondrous item, common*  

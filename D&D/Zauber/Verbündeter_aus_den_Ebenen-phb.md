@@ -15,7 +15,6 @@ classes:
 aliases:
   - Planar Ally
 linter-yaml-title-alias: Planar Ally
-obsidianUIMode: preview
 ---
 # Planar Ally
 *6th-level, Conjuration*  

@@ -1,6 +1,6 @@
 ---
 Bezeichnung: Dwarven Plate
-Typ: Rüstung
+Kategorie: Rüstung
 Rüstung: Schwer
 Eigenschaften: n/v
 Kst.: n/v

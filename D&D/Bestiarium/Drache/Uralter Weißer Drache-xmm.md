@@ -2,7 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Ancient White Dragon
-Typ: Drache (Chromatisch)
+Kategorie: Drache (Chromatisch)
 status: WIP
 tags:
   - Monster/Größe/Gigantisch

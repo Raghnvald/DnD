@@ -9,7 +9,6 @@ tags:
 aliases:
   - Reliquary
 linter-yaml-title-alias: Reliquary
-obsidianUIMode: preview
 ---
 # Reliquary
 *Spellcasting focus*  

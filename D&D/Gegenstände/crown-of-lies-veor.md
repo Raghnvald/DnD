@@ -9,7 +9,6 @@ tags:
 aliases:
   - Crown of Lies
 linter-yaml-title-alias: Crown of Lies
-obsidianUIMode: preview
 ---
 # Crown of Lies
 *Wondrous item, artifact (requires attunement)*  

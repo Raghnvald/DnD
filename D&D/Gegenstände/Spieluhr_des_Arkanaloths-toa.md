@@ -1,16 +1,14 @@
 ---
 cssclasses:
   - json5e-item
-Bezeichnung: "Arcanaloth's Music Box"
+Bezeichnung: Arcanaloth's Music Box
 tags:
   - Gegenstand/Seltenheit/unbekannt/magic
   - Gegenstand/wundersam/other
   - Quelle/5e/toa
 aliases:
-  - "Arcanaloth's Music Box"
   - Arcanaloth's Music Box
-linter-yaml-title-alias: "Arcanaloth's Music Box"
-obsidianUIMode: preview
+linter-yaml-title-alias: Arcanaloth's Music Box
 ---
 # Arcanaloth's Music Box
 

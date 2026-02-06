@@ -2,7 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Ruxithid der Auserwählte
-Typ: Aberration (Goblinoid)
+Kategorie: Aberration (Goblinoid)
 Größe: Mittelgroß
 HG: 5
 image: ruxithid-the-chosen-pabtso.webp

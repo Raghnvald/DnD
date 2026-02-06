@@ -9,7 +9,6 @@ tags:
 aliases:
   - Gold music box
 linter-yaml-title-alias: Gold music box
-obsidianUIMode: preview
 ---
 # Gold music box
 *Treasure (art object)*  

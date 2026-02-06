@@ -1,6 +1,6 @@
 ---
 Bezeichnung: Trank der Überlegenen Heilung
-Typ: Trank
+Kategorie: Trank
 Eigenschaften: n/v
 Kst.: 2.000 GM
 Gew.: 0,25 kg

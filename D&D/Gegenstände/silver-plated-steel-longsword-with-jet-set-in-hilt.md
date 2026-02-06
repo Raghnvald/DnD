@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Silver-plated steel longsword with jet set in hilt
+Kategorie: Kunstobjekt
 tags:
   - Gegenstand/Ausrüstung/treasure-art-object
   - Gegenstand/Seltenheit/keine
@@ -9,7 +10,6 @@ tags:
 aliases:
   - Silver-plated steel longsword with jet set in hilt
 linter-yaml-title-alias: Silver-plated steel longsword with jet set in hilt
-obsidianUIMode: preview
 ---
 # Silver-plated steel longsword with jet set in hilt
 *Treasure (art object)*  

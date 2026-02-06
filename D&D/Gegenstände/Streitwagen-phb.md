@@ -1,20 +1,21 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Chariot
+Bezeichnung: Streitwagen
+Kategorie: Zaumzeug, Harnisch und gezogene Fahrzeuge
+Eigenschaften: /
+Kst.: 250 GM
+Gew.: 50,0 kg
 tags:
-  - Gegenstand/Fortbewegung/land
+  - Gegenstand/Ausrüstung/Fahrzeug/Land
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
   - Chariot
 linter-yaml-title-alias: Chariot
-obsidianUIMode: preview
 ---
-# Chariot
-*Vehicle (land)*  
+# Streitwagen
+*Fahrzeug (Land)*
 
-- **Cost**: 250 gp
-- **Weight**: 100.0 lbs.
+- **Kosten**: 250 GM
+- **Gewicht**: 50,0 kg.
 
-*Source: Player's Handbook p. 157, Mythic Odysseys of Theros p. 196. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+*Quelle: Spielerhandbuch S. 157, Mythic Odysseys of Theros p. 196. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*

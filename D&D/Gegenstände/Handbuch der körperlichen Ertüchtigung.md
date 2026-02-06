@@ -1,7 +1,7 @@
 ---
 Bezeichnung: Handbuch der körperlichen Ertüchtigung
-Typ: Wundersamer Gegenstand
-Eigenschaften: 
+Kategorie: Wundersamer Gegenstand
+Eigenschaften:
 Kst.: n/v
 Gew.: 2,5 kg
 tags:

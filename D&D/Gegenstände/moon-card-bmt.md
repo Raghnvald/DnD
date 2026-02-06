@@ -8,7 +8,6 @@ tags:
 aliases:
   - Moon Card
 linter-yaml-title-alias: Moon Card
-obsidianUIMode: preview
 ---
 # Moon Card
 *Wondrous item, legendary*  

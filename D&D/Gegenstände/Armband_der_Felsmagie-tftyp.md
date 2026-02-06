@@ -9,7 +9,6 @@ tags:
 aliases:
   - Bracelet of Rock Magic
 linter-yaml-title-alias: Bracelet of Rock Magic
-obsidianUIMode: preview
 ---
 # Bracelet of Rock Magic
 *Wondrous item, cursed item, very rare (requires attunement)*  

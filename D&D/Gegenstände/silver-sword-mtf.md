@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Silver Sword
-Typ: Nahkampf-Kriegswaffe
+Kategorie: Nahkampf-Kriegswaffe
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/unbekannt/magic
@@ -13,7 +13,6 @@ tags:
 aliases:
   - Silver Sword
 linter-yaml-title-alias: Silver Sword
-obsidianUIMode: preview
 ---
 # Silver Sword
 *Weapon, major (requires attunement by a creature that has psionic ability)*  

@@ -9,7 +9,6 @@ tags:
 aliases:
   - Peridot
 linter-yaml-title-alias: Peridot
-obsidianUIMode: preview
 ---
 # Peridot
 *Treasure (gemstone)*  

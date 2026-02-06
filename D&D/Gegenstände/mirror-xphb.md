@@ -9,7 +9,6 @@ tags:
 aliases:
   - Mirror
 linter-yaml-title-alias: Mirror
-obsidianUIMode: preview
 ---
 # Mirror
 *Adventuring gear*  

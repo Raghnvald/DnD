@@ -3,13 +3,12 @@ cssclasses:
   - json5e-item
 Bezeichnung: Chariot
 tags:
-  - Gegenstand/Fortbewegung/land
+  - Gegenstand/Ausrüstung/Fahrzeug
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Chariot
 linter-yaml-title-alias: Chariot
-obsidianUIMode: preview
 ---
 # Chariot
 *Vehicle (land)*  

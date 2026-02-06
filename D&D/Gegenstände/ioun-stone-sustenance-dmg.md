@@ -9,7 +9,6 @@ tags:
 aliases:
   - Ioun Stone, Sustenance
 linter-yaml-title-alias: Ioun Stone, Sustenance
-obsidianUIMode: preview
 ---
 # Ioun Stone, Sustenance
 *Wondrous item, major, rare (requires attunement)*  

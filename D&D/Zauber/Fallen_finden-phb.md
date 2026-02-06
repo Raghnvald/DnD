@@ -19,7 +19,6 @@ classes:
 aliases:
   - Find Traps
 linter-yaml-title-alias: Find Traps
-obsidianUIMode: preview
 ---
 # Find Traps
 *2nd-level, Divination*  

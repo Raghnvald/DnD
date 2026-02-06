@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Zauber/list/subclass/oath-of-devotion
+  - Zauber/list/subclass/oath-of-devotion
 aliases:
-- Spells for Oath of Devotion
+  - Spells for Oath of Devotion
 ---
 # Spells for Oath of Devotion
 

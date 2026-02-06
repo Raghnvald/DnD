@@ -29,7 +29,6 @@ classes:
 aliases:
   - Locate Creature
 linter-yaml-title-alias: Locate Creature
-obsidianUIMode: preview
 ---
 # Locate Creature
 *4th-level, Divination*  

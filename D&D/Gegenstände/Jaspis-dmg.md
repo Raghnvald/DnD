@@ -1,7 +1,9 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Jasper
+Bezeichnung: Jaspis
+Kategorie: Edelstein
+Eigenschaften: /
+Kst.: 50 GM
+Gew.: /
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone
   - Gegenstand/Seltenheit/keine
@@ -9,13 +11,12 @@ tags:
 aliases:
   - Jasper
 linter-yaml-title-alias: Jasper
-obsidianUIMode: preview
 ---
-# Jasper
-*Treasure (gemstone)*  
+# Jaspis
+*Schatz (Edelstein)*  
 
-- **Cost**: 50 gp
+- **Kosten**: 50 GM
 
-An opaque blue, black, or brown gemstone.
+Ein undurchsichtiger, blauer, schwarzer oder brauner Edelstein.
 
-*Source: Dungeon Master's Guide p. 134*
+*Quelle: Spielleiterhandbuch S. 134*

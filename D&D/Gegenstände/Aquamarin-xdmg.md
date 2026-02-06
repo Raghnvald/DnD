@@ -9,7 +9,6 @@ tags:
 aliases:
   - Aquamarine
 linter-yaml-title-alias: Aquamarine
-obsidianUIMode: preview
 ---
 # Aquamarine
 *Treasure (gemstone)*  

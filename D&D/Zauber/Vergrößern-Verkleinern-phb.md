@@ -21,7 +21,6 @@ classes:
 aliases:
   - Enlarge/Reduce
 linter-yaml-title-alias: Enlarge/Reduce
-obsidianUIMode: preview
 ---
 # Enlarge/Reduce
 *2nd-level, Transmutation*  

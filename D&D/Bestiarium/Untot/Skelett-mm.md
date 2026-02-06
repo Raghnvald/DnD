@@ -3,7 +3,7 @@ prefer-view: edit-source read
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Skelett
-Typ: Untoter
+Kategorie: Untoter
 Größe: Mittelgroß
 HG: 1/4
 Habitat:

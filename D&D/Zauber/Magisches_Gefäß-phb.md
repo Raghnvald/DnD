@@ -15,7 +15,6 @@ classes:
 aliases:
   - Magic Jar
 linter-yaml-title-alias: Magic Jar
-obsidianUIMode: preview
 ---
 # Magic Jar
 *6th-level, Necromancy*  

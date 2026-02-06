@@ -2,7 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Vampire Umbral Lord
-Typ: Untoter
+Kategorie: Untoter
 Größe: M oder S
 HG: 15
 Habitat:

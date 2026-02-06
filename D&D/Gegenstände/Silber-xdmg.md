@@ -1,6 +1,6 @@
 ---
 Bezeichnung: Silber
-Typ: Handelsware
+Kategorie: Handelsware
 Eigenschaften: n/v
 Kst.: 5 GM
 Gew.: 0,5 kg

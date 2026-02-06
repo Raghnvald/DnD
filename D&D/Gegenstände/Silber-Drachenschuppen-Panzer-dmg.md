@@ -11,7 +11,6 @@ tags:
 aliases:
   - Silver Dragon Scale Mail
 linter-yaml-title-alias: Silver Dragon Scale Mail
-obsidianUIMode: preview
 ---
 # Silver Dragon Scale Mail
 *Medium armor, major, very rare (requires attunement)*  

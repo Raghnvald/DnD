@@ -1,8 +1,8 @@
 ---
 statblock: inline
 statblock-link: "#^statblock"
-Bezeichnung: "Chishinix' Head"
-Typ: Aberration
+Bezeichnung: Chishinix' Head
+Kategorie: Aberration
 Größe: Winzig
 HG: 3
 Habitat:
@@ -14,10 +14,10 @@ tags:
   - Monster/Typ/Aberration
   - Quelle/5e/pabtso
 aliases:
-  - "Chishinix' Head"
+  - Chishinix' Head
   - Chishinix' Head
 Image: npc/token/chishinix-head-pabtso.webp
-linter-yaml-title-alias: "Chishinix' Head"
+linter-yaml-title-alias: Chishinix' Head
 ---
 # Chishinix' Head
 *Source: Phandelver and Below: The Shattered Obelisk p. 194*  

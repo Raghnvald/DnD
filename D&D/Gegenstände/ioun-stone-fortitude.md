@@ -9,7 +9,6 @@ tags:
 aliases:
   - Ioun Stone, Fortitude
 linter-yaml-title-alias: Ioun Stone, Fortitude
-obsidianUIMode: preview
 ---
 # Ioun Stone, Fortitude
 *Wondrous item, major, very rare (requires attunement)*  

@@ -7,10 +7,9 @@ tags:
   - Gegenstand/wundersam/Trank
   - Quelle/5e/xdmg
 aliases:
-  - "Potion of Comprehension"
+  - Potion of Comprehension
   - Potion of Comprehension
 linter-yaml-title-alias: Potion of Comprehension
-obsidianUIMode: preview
 ---
 # Potion of Comprehension
 *Potion, common*  

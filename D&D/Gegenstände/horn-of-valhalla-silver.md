@@ -8,7 +8,6 @@ tags:
 aliases:
   - Horn of Valhalla, Silver
 linter-yaml-title-alias: Horn of Valhalla, Silver
-obsidianUIMode: preview
 ---
 # Horn of Valhalla, Silver
 *Wondrous item, major, rare*  

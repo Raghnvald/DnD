@@ -9,7 +9,6 @@ tags:
 aliases:
   - Statuette of Saint Markovia
 linter-yaml-title-alias: Statuette of Saint Markovia
-obsidianUIMode: preview
 ---
 # Statuette of Saint Markovia
 

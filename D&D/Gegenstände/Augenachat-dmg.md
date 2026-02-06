@@ -1,7 +1,9 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Eye Agate
+Bezeichnung: Augenachat
+Kategorie: Edelstein
+Eigenschaften: /
+Kst.: 10 GM
+Gew.: /
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone
   - Gegenstand/Seltenheit/keine
@@ -9,13 +11,12 @@ tags:
 aliases:
   - Eye Agate
 linter-yaml-title-alias: Eye Agate
-obsidianUIMode: preview
 ---
-# Eye Agate
-*Treasure (gemstone)*  
+# Augenachat
+*Schatz (Edelstein)*  
 
-- **Cost**: 10 gp
+- **Kosten**: 10 GM
 
-A translucent circles of gray, white, brown, blue, or green gemstone.
+Ein lichtdurchlässiger Edelstein mit grauen, weißen, braunen, blauen, oder grünen Kreisen.
 
-*Source: Dungeon Master's Guide p. 134*
+*Quelle: Spielleiterhandbuch S. 134*

@@ -1,15 +1,14 @@
 ---
 cssclasses:
   - json5e-item
-Bezeichnung: "Burglar's Pack"
+Bezeichnung: Burglar's Pack
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
-  - "Burglar's Pack"
   - Burglar's Pack
-linter-yaml-title-alias: "Burglar's Pack"
+linter-yaml-title-alias: Burglar's Pack
 ---
 # Burglar's Pack
 *Adventuring gear*  

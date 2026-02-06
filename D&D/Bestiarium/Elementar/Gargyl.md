@@ -2,7 +2,7 @@
 cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
 Bezeichnung: Gargyl
-Typ: Elementar
+Kategorie: Elementar
 Größe: Mittelgroß
 HG: 2
 status:

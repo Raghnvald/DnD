@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Zauber/list/background/gruul-anarch
+  - Zauber/list/background/gruul-anarch
 aliases:
-- Spells for Gruul Anarch
+  - Spells for Gruul Anarch
 ---
 # Spells for Gruul Anarch
 

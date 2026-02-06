@@ -1,6 +1,6 @@
 ---
 Bezeichnung: Pfeil-fangender Schild
-Typ: Rüstung
+Kategorie: Rüstung
 Rüstung: Schild
 Eigenschaften: erfordert Einstimmung
 Kst.: /

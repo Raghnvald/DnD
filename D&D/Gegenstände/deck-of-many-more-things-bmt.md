@@ -8,7 +8,6 @@ tags:
 aliases:
   - Deck of Many More Things
 linter-yaml-title-alias: Deck of Many More Things
-obsidianUIMode: preview
 ---
 # Deck of Many More Things
 *Wondrous item, legendary*  

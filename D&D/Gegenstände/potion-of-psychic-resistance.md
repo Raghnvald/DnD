@@ -9,7 +9,6 @@ tags:
 aliases:
   - Potion of Psychic Resistance
 linter-yaml-title-alias: Potion of Psychic Resistance
-obsidianUIMode: preview
 ---
 # Potion of Psychic Resistance
 *Potion, minor, uncommon*  

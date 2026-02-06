@@ -1,5 +1,9 @@
 ---
-Bezeichnung: Aquamarine
+Bezeichnung: Aquamarin
+Kategorie: Edelstein
+Eigenschaften: /
+Kst.: 500 GM
+Gew.: /
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone
   - Gegenstand/Seltenheit/keine
@@ -8,11 +12,11 @@ aliases:
   - Aquamarine
 linter-yaml-title-alias: Aquamarine
 ---
-# Aquamarine
-*Treasure (gemstone)*  
+# Aquamarin
+*Schatz (Edelstein)*  
 
-- **Cost**: 500 gp
+- **Kosten**: 500 GM
 
-A transparent pale blue-green gemstone.
+Ein durchsichtiger, blass blau-grüner Edelstein.
 
-*Source: Dungeon Master's Guide p. 134*
+*Quelle: Spielleiterhandbuch S. 134*

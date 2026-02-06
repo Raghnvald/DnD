@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Quelle/5e/xge
+  - Quelle/5e/xge
 aliases:
-- Crafting Magic Items; Magic Item Ingredients
+  - Crafting Magic Items; Magic Item Ingredients
 ---
 # Crafting Magic Items; Magic Item Ingredients
 *Source: Xanathar's Guide to Everything p. 128* 

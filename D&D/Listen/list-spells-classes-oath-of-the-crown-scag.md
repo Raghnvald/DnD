@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Zauber/list/subclass/oath-of-the-crown
+  - Zauber/list/subclass/oath-of-the-crown
 aliases:
-- Spells for Oath of the Crown
+  - Spells for Oath of the Crown
 ---
 # Spells for Oath of the Crown
 

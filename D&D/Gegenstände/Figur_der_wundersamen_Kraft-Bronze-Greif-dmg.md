@@ -8,7 +8,6 @@ tags:
 aliases:
   - Figurine of Wondrous Power, Bronze Griffon
 linter-yaml-title-alias: Figurine of Wondrous Power, Bronze Griffon
-obsidianUIMode: preview
 ---
 # Figurine of Wondrous Power, Bronze Griffon
 *Wondrous item, major, rare*  

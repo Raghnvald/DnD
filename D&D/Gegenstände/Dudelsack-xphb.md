@@ -9,7 +9,6 @@ tags:
 aliases:
   - Bagpipes
 linter-yaml-title-alias: Bagpipes
-obsidianUIMode: preview
 ---
 # Bagpipes
 *Instrument*  

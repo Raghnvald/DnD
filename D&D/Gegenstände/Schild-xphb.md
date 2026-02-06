@@ -1,6 +1,6 @@
 ---
 Bezeichnung: Schild
-Typ: Rüstung
+Kategorie: Rüstung
 Rüstung: Schild
 Eigenschaften: n/v
 Kst.: 10 GM
@@ -13,7 +13,7 @@ tags:
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
-  - "Shield"
+  - Shield
   - Schild
 linter-yaml-title-alias: Schild
 ---

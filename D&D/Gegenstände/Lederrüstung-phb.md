@@ -1,6 +1,6 @@
 ---
 Bezeichnung: "Lederrüstung "
-Typ: Rüstung
+Kategorie: Rüstung
 Rüstung: Leicht
 Eigenschaften: /
 Kst.: 10 GM
@@ -13,7 +13,7 @@ tags:
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - "Leather Armor"
+  - Leather Armor
   - "Lederrüstung "
 linter-yaml-title-alias: "Lederrüstung "
 ---

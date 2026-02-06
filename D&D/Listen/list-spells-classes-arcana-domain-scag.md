@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Zauber/list/subclass/arcana-domain
+  - Zauber/list/subclass/arcana-domain
 aliases:
-- Spells for Arcana Domain
+  - Spells for Arcana Domain
 ---
 # Spells for Arcana Domain
 

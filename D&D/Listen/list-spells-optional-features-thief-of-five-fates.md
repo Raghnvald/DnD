@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Zauber/list/optfeature/thief-of-five-fates
+  - Zauber/list/optfeature/thief-of-five-fates
 aliases:
-- Spells for Thief of Five Fates
+  - Spells for Thief of Five Fates
 ---
 # Spells for Thief of Five Fates
 

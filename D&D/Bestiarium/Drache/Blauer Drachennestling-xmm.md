@@ -2,7 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Blue Dragon Wyrmling
-Typ: Drache (Chromatisch)
+Kategorie: Drache (Chromatisch)
 Größe: Mittelgroß
 HG: 3
 Habitat:

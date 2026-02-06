@@ -10,7 +10,6 @@ tags:
 aliases:
   - Ring of Mind Shielding
 linter-yaml-title-alias: Ring of Mind Shielding
-obsidianUIMode: preview
 ---
 # Ring of Mind Shielding
 *Ring, major, uncommon (requires attunement)*  

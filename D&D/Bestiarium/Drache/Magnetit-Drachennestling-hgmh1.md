@@ -1,7 +1,7 @@
 ---
 prefer-view: edit-source read
 Bezeichnung: Magnetit-Drachennestling-hgmh1
-Typ: Drache
+Kategorie: Drache
 Größe: Mittelgroß
 HG:
 image:

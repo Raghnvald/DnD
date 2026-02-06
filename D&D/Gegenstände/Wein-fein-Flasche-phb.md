@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Fine Wine (bottle)
+Kategorie: Essen und Trinken
 tags:
   - Gegenstand/Ausrüstung/Essen-und-Trinken
   - Gegenstand/Seltenheit/keine
@@ -9,7 +10,6 @@ tags:
 aliases:
   - Fine Wine (bottle)
 linter-yaml-title-alias: Fine Wine (bottle)
-obsidianUIMode: preview
 ---
 # Fine Wine (bottle)
 *Food and drink*  

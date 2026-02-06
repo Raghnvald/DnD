@@ -9,7 +9,6 @@ tags:
 aliases:
   - Bomb
 linter-yaml-title-alias: Bomb
-obsidianUIMode: preview
 ---
 # Bomb
 *Explosive*  

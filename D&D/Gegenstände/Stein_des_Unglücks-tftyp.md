@@ -9,7 +9,6 @@ tags:
 aliases:
   - Stone of Ill Luck
 linter-yaml-title-alias: Stone of Ill Luck
-obsidianUIMode: preview
 ---
 # Stone of Ill Luck
 *Wondrous item, cursed item, uncommon (requires attunement)*  

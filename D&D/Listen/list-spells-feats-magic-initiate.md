@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Zauber/list/feat/magic-initiate
+  - Zauber/list/feat/magic-initiate
 aliases:
-- Spells for Magic Initiate
+  - Spells for Magic Initiate
 ---
 # Spells for Magic Initiate
 

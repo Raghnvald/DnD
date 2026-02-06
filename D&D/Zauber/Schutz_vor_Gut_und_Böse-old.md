@@ -1,6 +1,7 @@
 ---
 cssclasses: json5e-spell
 Bezeichnung: Schutz vor Gut und Böse
+Zaubergrad: 1
 status: WIP
 tags:
   - Klasse/Hexenmeister

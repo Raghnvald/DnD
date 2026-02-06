@@ -9,7 +9,6 @@ tags:
 aliases:
   - Living Gloves
 linter-yaml-title-alias: Living Gloves
-obsidianUIMode: preview
 ---
 # Living Gloves
 *Wondrous item, uncommon (requires attunement)*  

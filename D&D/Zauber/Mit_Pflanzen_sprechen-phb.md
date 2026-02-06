@@ -17,7 +17,6 @@ classes:
 aliases:
   - Speak with Plants
 linter-yaml-title-alias: Speak with Plants
-obsidianUIMode: preview
 ---
 # Speak with Plants
 *3rd-level, Transmutation*  

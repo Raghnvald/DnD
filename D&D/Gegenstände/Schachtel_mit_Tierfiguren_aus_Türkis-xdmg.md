@@ -9,7 +9,6 @@ tags:
 aliases:
   - Box of turquoise animal figurines
 linter-yaml-title-alias: Box of turquoise animal figurines
-obsidianUIMode: preview
 ---
 # Box of turquoise animal figurines
 *Treasure (art object)*  

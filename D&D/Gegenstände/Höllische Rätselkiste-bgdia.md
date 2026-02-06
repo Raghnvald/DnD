@@ -6,7 +6,6 @@ tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/bgdia
 aliases:
-  - Höllische Rätselkiste
   - Infernal Puzzle Box
 linter-yaml-title-alias: Infernal Puzzle Box
 ---

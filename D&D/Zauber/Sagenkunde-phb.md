@@ -19,7 +19,6 @@ classes:
 aliases:
   - Legend Lore
 linter-yaml-title-alias: Legend Lore
-obsidianUIMode: preview
 ---
 # Legend Lore
 *5th-level, Divination*  

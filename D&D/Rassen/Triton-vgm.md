@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-race
+  - json5e-race
 tags:
-- Quelle/5e/vgm
-- Rasse/triton
+  - Quelle/5e/vgm
+  - Rasse/triton
 aliases:
-- Triton
+  - Triton
 ---
 # Triton
 *Source: Volo's Guide to Monsters p. 115*  

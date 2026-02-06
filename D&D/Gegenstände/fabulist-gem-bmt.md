@@ -9,7 +9,6 @@ tags:
 aliases:
   - Fabulist Gem
 linter-yaml-title-alias: Fabulist Gem
-obsidianUIMode: preview
 ---
 # Fabulist Gem
 *Wondrous item, uncommon (requires attunement)*  

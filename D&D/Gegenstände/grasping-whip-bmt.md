@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Grasping Whip
-Typ: Nahkampf-Kriegswaffe
+Kategorie: Nahkampf-Kriegswaffe
 tags:
   - Gegenstand/Seltenheit/selten
   - Gegenstand/Waffe/Kriegswaffe
@@ -11,7 +11,6 @@ tags:
 aliases:
   - Grasping Whip
 linter-yaml-title-alias: Grasping Whip
-obsidianUIMode: preview
 ---
 # Grasping Whip
 *Weapon (whip), rare*  

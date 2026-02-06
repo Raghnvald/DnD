@@ -9,7 +9,6 @@ tags:
 aliases:
   - Potion of Greater Healing
 linter-yaml-title-alias: Potion of Greater Healing
-obsidianUIMode: preview
 ---
 # Potion of Greater Healing
 *Potion, minor, uncommon*  

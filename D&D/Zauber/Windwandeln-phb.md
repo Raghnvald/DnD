@@ -15,7 +15,6 @@ classes:
 aliases:
   - Wind Walk
 linter-yaml-title-alias: Wind Walk
-obsidianUIMode: preview
 ---
 # Wind Walk
 *6th-level, Transmutation*  

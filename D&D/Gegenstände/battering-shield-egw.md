@@ -11,7 +11,6 @@ tags:
 aliases:
   - Battering Shield
 linter-yaml-title-alias: Battering Shield
-obsidianUIMode: preview
 ---
 # Battering Shield
 *Armor ([shield](/3-Mechanics/CLI/items/shield-xphb.md)), rare (requires attunement)*  

@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Quelle/5e/dmg
+  - Quelle/5e/dmg
 aliases:
-- Doors; Beyond a Door
+  - Doors; Beyond a Door
 ---
 # Doors; Beyond a Door
 *Source: Dungeon Master's Guide p. 291* 

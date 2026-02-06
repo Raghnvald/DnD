@@ -1,16 +1,15 @@
 ---
 cssclasses:
   - json5e-item
-Bezeichnung: "Scribe's Pen"
+Bezeichnung: Scribe's Pen
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/gewöhnlich
   - Quelle/5e/erlw
 aliases:
-  - "Scribe's Pen"
   - Scribe's Pen
-linter-yaml-title-alias: "Scribe's Pen"
-obsidianUIMode: preview
+  - Scribe's Pen
+linter-yaml-title-alias: Scribe's Pen
 ---
 # Scribe's Pen
 *Wondrous item, common (requires attunement by a creature with the Mark of Scribing)*  

@@ -9,7 +9,6 @@ tags:
 aliases:
   - Star Sapphire
 linter-yaml-title-alias: Star Sapphire
-obsidianUIMode: preview
 ---
 # Star Sapphire
 *Treasure (gemstone)*  

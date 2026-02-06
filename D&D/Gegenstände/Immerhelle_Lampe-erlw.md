@@ -8,7 +8,6 @@ tags:
 aliases:
   - Everbright Lantern
 linter-yaml-title-alias: Everbright Lantern
-obsidianUIMode: preview
 ---
 # Everbright Lantern
 *Wondrous item, common*  

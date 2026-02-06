@@ -8,7 +8,6 @@ tags:
 aliases:
   - Necklace of Fireballs
 linter-yaml-title-alias: Necklace of Fireballs
-obsidianUIMode: preview
 ---
 # Necklace of Fireballs
 *Wondrous item, minor, rare*  

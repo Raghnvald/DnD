@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Whisper (Exalted)
-Typ: Einfache Nahkampfwaffe
+Kategorie: Einfache Nahkampfwaffe
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -12,7 +12,6 @@ tags:
 aliases:
   - Whisper (Exalted)
 linter-yaml-title-alias: Whisper (Exalted)
-obsidianUIMode: preview
 ---
 # Whisper (Exalted)
 *Weapon ([dagger](/3-Mechanics/CLI/items/dagger-xphb.md)), legendary (requires attunement)*  

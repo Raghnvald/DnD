@@ -1,7 +1,7 @@
 ---
 cssclasses:
   - json5e-item
-Bezeichnung: "Hunter's Coat"
+Bezeichnung: Hunter's Coat
 Rüstung: Leicht
 tags:
   - Gegenstand/Einstimmung/required
@@ -9,10 +9,8 @@ tags:
   - Gegenstand/Seltenheit/sehr_selten
   - Quelle/5e/egw
 aliases:
-  - "Hunter's Coat"
   - Hunter's Coat
-linter-yaml-title-alias: "Hunter's Coat"
-obsidianUIMode: preview
+linter-yaml-title-alias: Hunter's Coat
 ---
 # Hunter's Coat
 *Light armor ([leather armor](/3-Mechanics/CLI/items/leather-armor-xphb.md)), very rare (requires attunement)*  

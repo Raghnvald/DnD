@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Yklwa
-Typ: Einfache Nahkampfwaffe
+Kategorie: Einfache Nahkampfwaffe
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/Einfach
@@ -11,7 +11,6 @@ tags:
 aliases:
   - Yklwa
 linter-yaml-title-alias: Yklwa
-obsidianUIMode: preview
 ---
 # Yklwa
 *Weapon*  

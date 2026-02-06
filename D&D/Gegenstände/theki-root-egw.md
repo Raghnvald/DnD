@@ -9,7 +9,6 @@ tags:
 aliases:
   - Theki Root
 linter-yaml-title-alias: Theki Root
-obsidianUIMode: preview
 ---
 # Theki Root
 *Adventuring gear*  

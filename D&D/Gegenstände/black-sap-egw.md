@@ -9,7 +9,6 @@ tags:
 aliases:
   - Black Sap
 linter-yaml-title-alias: Black Sap
-obsidianUIMode: preview
 ---
 # Black Sap
 *Adventuring gear*  

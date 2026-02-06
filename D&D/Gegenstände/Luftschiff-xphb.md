@@ -3,13 +3,12 @@ cssclasses:
   - json5e-item
 Bezeichnung: Airship
 tags:
-  - Gegenstand/Fortbewegung/airship-air
+  - Gegenstand/Ausrüstung/Fahrzeug
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Airship
 linter-yaml-title-alias: Airship
-obsidianUIMode: preview
 ---
 # Airship
 *Airship, vehicle (air)*  

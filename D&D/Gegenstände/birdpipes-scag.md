@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Birdpipes
+Kategorie: Werkzeug
 tags:
   - Gegenstand/Ausrüstung/Instrument
   - Gegenstand/Seltenheit/keine
@@ -9,7 +10,6 @@ tags:
 aliases:
   - Birdpipes
 linter-yaml-title-alias: Birdpipes
-obsidianUIMode: preview
 ---
 # Birdpipes
 *Instrument*  

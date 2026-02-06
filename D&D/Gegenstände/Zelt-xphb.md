@@ -9,7 +9,6 @@ tags:
 aliases:
   - Tent
 linter-yaml-title-alias: Tent
-obsidianUIMode: preview
 ---
 # Tent
 *Adventuring gear*  

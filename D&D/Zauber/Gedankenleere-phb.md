@@ -15,7 +15,6 @@ classes:
 aliases:
   - Mind Blank
 linter-yaml-title-alias: Mind Blank
-obsidianUIMode: preview
 ---
 # Mind Blank
 *8th-level, Abjuration*  

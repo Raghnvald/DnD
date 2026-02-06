@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Orb of Shielding (Xorian Marble)
+Kategorie: Wundersamer Gegenstand
 tags:
   - Gegenstand/Ausrüstung/Zauberfokus
   - Gegenstand/Einstimmung/required
@@ -13,7 +14,6 @@ aliases:
   - Xorian Marble Crystal
   - Xorian Marble Orb
 linter-yaml-title-alias: Orb of Shielding (Xorian Marble)
-obsidianUIMode: preview
 ---
 # Orb of Shielding (Xorian Marble)
 *Wondrous item, common (requires attunement)*  

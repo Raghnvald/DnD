@@ -1,15 +1,13 @@
 ---
 cssclasses:
   - json5e-item
-Bezeichnung: "Card Sharp's Deck"
+Bezeichnung: Card Sharp's Deck
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/bmt
 aliases:
-  - "Card Sharp's Deck"
   - Card Sharp's Deck
-linter-yaml-title-alias: "Card Sharp's Deck"
-obsidianUIMode: preview
+linter-yaml-title-alias: Card Sharp's Deck
 ---
 # Card Sharp's Deck
 *Wondrous item, uncommon*  

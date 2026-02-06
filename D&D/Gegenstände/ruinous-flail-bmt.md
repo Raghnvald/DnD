@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Ruinous Flail
-Typ: Nahkampf-Kriegswaffe
+Kategorie: Nahkampf-Kriegswaffe
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
@@ -12,7 +12,6 @@ tags:
 aliases:
   - Ruinous Flail
 linter-yaml-title-alias: Ruinous Flail
-obsidianUIMode: preview
 ---
 # Ruinous Flail
 *Weapon (flail), rare (requires attunement)*  

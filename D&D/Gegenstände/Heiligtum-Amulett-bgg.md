@@ -9,7 +9,6 @@ tags:
 aliases:
   - Sanctum Amulet
 linter-yaml-title-alias: Sanctum Amulet
-obsidianUIMode: preview
 ---
 # Sanctum Amulet
 *Wondrous item, very rare (requires attunement)*  

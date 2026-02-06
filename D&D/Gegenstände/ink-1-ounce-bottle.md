@@ -9,7 +9,6 @@ tags:
 aliases:
   - Ink (1-ounce bottle)
 linter-yaml-title-alias: Ink (1-ounce bottle)
-obsidianUIMode: preview
 ---
 # Ink (1-ounce bottle)
 *Adventuring gear*  

@@ -9,7 +9,6 @@ tags:
 aliases:
   - Mizzium Apparatus
 linter-yaml-title-alias: Mizzium Apparatus
-obsidianUIMode: preview
 ---
 # Mizzium Apparatus
 *Wondrous item, uncommon (requires attunement by a sorcerer, warlock, or wizard)*  

@@ -9,7 +9,6 @@ tags:
 aliases:
   - Writing Kit
 linter-yaml-title-alias: Writing Kit
-obsidianUIMode: preview
 ---
 # Writing Kit
 *Adventuring gear*  

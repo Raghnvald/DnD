@@ -9,7 +9,6 @@ tags:
 aliases:
   - Rod of Security
 linter-yaml-title-alias: Rod of Security
-obsidianUIMode: preview
 ---
 # Rod of Security
 *Rod, major, very rare*  

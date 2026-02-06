@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- Quelle/5e/ggr
-- Monster/HG/11
-- Monster/Größe/Groß
-- Monster/Typ/Monstrosität
+  - Quelle/5e/ggr
+  - Monster/HG/11
+  - Monster/Größe/Groß
+  - Monster/Typ/Monstrosität
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Sphinx of Judgment
+  - Sphinx of Judgment
 ---
 # [Sphinx of Judgment](3-Mechanics\CLI\bestiary\monstrosity/sphinx-of-judgment-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 183*  

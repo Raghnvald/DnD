@@ -15,7 +15,7 @@ statblock: inline
 statblock-link: "#^statblock"
 aliases:
   - Elder Tempest
-Typ: Elementar
+Kategorie: Elementar
 Größe: Gigantisch
 ---
 # [Elder Tempest](3-Mechanics\CLI\bestiary\elemental/elder-tempest-mpmm.md)

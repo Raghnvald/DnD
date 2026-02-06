@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Zauber/list/feat/ritual-caster
+  - Zauber/list/feat/ritual-caster
 aliases:
-- Spells for Ritual Caster
+  - Spells for Ritual Caster
 ---
 # Spells for Ritual Caster
 

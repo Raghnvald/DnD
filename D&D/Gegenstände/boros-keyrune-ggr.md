@@ -9,7 +9,6 @@ tags:
 aliases:
   - Boros Keyrune
 linter-yaml-title-alias: Boros Keyrune
-obsidianUIMode: preview
 ---
 # Boros Keyrune
 *Wondrous item, rare (requires attunement by a member of the Boros guild)*  

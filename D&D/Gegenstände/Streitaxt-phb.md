@@ -1,6 +1,6 @@
 ---
 Bezeichnung: Streitaxt
-Typ: Nahkampf-Kriegswaffe
+Kategorie: Nahkampf-Kriegswaffe
 Schaden: 1W8 Hieb
 Eigenschaften: Vielseitig (1W10)
 Kst.: 10 GM
@@ -11,8 +11,7 @@ tags:
   - Gegenstand/Waffe/Nahkampf
   - Quelle/5e/phb
 aliases:
-  - "Battleaxe"
-  - Streitaxt
+  - Battleaxe
 linter-yaml-title-alias: Streitaxt
 ---
 # Streitaxt

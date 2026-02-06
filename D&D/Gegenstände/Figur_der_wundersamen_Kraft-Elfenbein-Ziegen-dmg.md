@@ -8,7 +8,6 @@ tags:
 aliases:
   - Figurine of Wondrous Power, Ivory Goats
 linter-yaml-title-alias: Figurine of Wondrous Power, Ivory Goats
-obsidianUIMode: preview
 ---
 # Figurine of Wondrous Power, Ivory Goats
 *Wondrous item, major, rare*  

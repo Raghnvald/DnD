@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Drachenodem
+Zaubergrad: 2
 Zeitaufwand: 1 Bonusaktion
 Reichweite: Berührung
 Komponenten: V, G, M

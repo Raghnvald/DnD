@@ -8,7 +8,6 @@ tags:
 aliases:
   - Talons Card
 linter-yaml-title-alias: Talons Card
-obsidianUIMode: preview
 ---
 # Talons Card
 *Wondrous item, legendary*  

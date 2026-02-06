@@ -9,7 +9,6 @@ tags:
 aliases:
   - Spell Scroll
 linter-yaml-title-alias: Spell Scroll
-obsidianUIMode: preview
 ---
 # Spell Scroll
 *Scroll*  

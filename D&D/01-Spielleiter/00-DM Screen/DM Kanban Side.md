@@ -53,7 +53,7 @@ views:
 > ![[Fertigkeitsproben-dmg#^ability-checks]]
 
 > [!tldr]- Fertigkeiten
-> ![[D&D/Tabellen/Fertigkeiten-phb#^ability-skills]]
+> ![[D&D/Tabellen/Charakterentwicklung/Fertigkeiten-phb#^ability-skills]]
 
 > [!tldr]- Attributswürfe
 > [[01. Grundregelwerk 2014/07-Attributswerte-verwenden#Attributswürfe|Attributswürfe]]

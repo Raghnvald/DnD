@@ -10,7 +10,6 @@ tags:
 aliases:
   - Ring of Poison Resistance
 linter-yaml-title-alias: Ring of Poison Resistance
-obsidianUIMode: preview
 ---
 # Ring of Poison Resistance
 *Ring, major, rare (requires attunement)*  

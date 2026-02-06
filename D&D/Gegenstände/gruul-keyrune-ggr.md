@@ -9,7 +9,6 @@ tags:
 aliases:
   - Gruul Keyrune
 linter-yaml-title-alias: Gruul Keyrune
-obsidianUIMode: preview
 ---
 # Gruul Keyrune
 *Wondrous item, rare (requires attunement by a member of the Gruul guild)*  

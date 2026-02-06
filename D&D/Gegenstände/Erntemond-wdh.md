@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Harbor Moon
+Kategorie: Währung
 tags:
   - Gegenstand/Ausrüstung/treasure-coinage
   - Gegenstand/Seltenheit/keine
@@ -9,7 +10,6 @@ tags:
 aliases:
   - Harbor Moon
 linter-yaml-title-alias: Harbor Moon
-obsidianUIMode: preview
 ---
 # Harbor Moon
 *Treasure (coinage)*  

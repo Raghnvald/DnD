@@ -1,7 +1,7 @@
 ---
 Bezeichnung: Decke
-Typ: Abenteuerausrüstung
-Eigenschaften: n/v
+Kategorie: Abenteuerausrüstung
+Eigenschaften: /
 Kst.: 5 SM
 Gew.: 1,5 kg
 tags:

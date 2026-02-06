@@ -9,7 +9,6 @@ tags:
 aliases:
   - Claw of the Wyrm Rune
 linter-yaml-title-alias: Claw of the Wyrm Rune
-obsidianUIMode: preview
 ---
 # Claw of the Wyrm Rune
 *Wondrous item, rare (requires attunement)*  

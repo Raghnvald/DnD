@@ -13,7 +13,6 @@ classes:
 aliases:
   - Power Word Heal
 linter-yaml-title-alias: Power Word Heal
-obsidianUIMode: preview
 ---
 # Power Word Heal
 *9th-level, Evocation*  

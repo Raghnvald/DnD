@@ -8,7 +8,6 @@ tags:
 aliases:
   - Figurine of Wondrous Power, Ebony Fly
 linter-yaml-title-alias: Figurine of Wondrous Power, Ebony Fly
-obsidianUIMode: preview
 ---
 # Figurine of Wondrous Power, Ebony Fly
 *Wondrous item, major, rare*  

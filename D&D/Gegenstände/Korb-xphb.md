@@ -9,7 +9,6 @@ tags:
 aliases:
   - Basket
 linter-yaml-title-alias: Basket
-obsidianUIMode: preview
 ---
 # Basket
 *Adventuring gear*  

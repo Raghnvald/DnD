@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-spell
 Bezeichnung: Summon Beast
+Zaubergrad: 2
 tags:
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens

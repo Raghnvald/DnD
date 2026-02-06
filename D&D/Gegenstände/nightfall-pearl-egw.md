@@ -9,7 +9,6 @@ tags:
 aliases:
   - Nightfall Pearl
 linter-yaml-title-alias: Nightfall Pearl
-obsidianUIMode: preview
 ---
 # Nightfall Pearl
 *Wondrous item, legendary (requires attunement)*  

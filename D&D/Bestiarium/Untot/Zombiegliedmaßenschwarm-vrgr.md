@@ -2,7 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Swarm of Zombie Limbs
-Typ: Untoter
+Kategorie: Untoter
 Größe: Mittelgroß
 HG: 1
 Habitat:

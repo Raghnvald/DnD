@@ -1,6 +1,6 @@
 ---
 Bezeichnung: Mizzium Armor
-Typ: Rüstung
+Kategorie: Rüstung
 Rüstung: Mittel oder Schwer
 Eigenschaften: /
 Kst.: /

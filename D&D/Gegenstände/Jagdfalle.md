@@ -1,6 +1,7 @@
 ---
 cssclasses: json5e-item
 Bezeichnung: Jagdfalle
+Kategorie: Abenteuerausrüstung
 tags:
   - Gegenstand/Ausrüstung
   - Quelle/5e/phb

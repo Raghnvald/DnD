@@ -15,7 +15,6 @@ classes:
 aliases:
   - Programmed Illusion
 linter-yaml-title-alias: Programmed Illusion
-obsidianUIMode: preview
 ---
 # Programmed Illusion
 *6th-level, Illusion*  

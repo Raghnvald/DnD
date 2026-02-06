@@ -1,16 +1,15 @@
 ---
 cssclasses:
   - json5e-item
-Bezeichnung: "Wayfarer's Boots"
+Bezeichnung: Wayfarer's Boots
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/bgg
 aliases:
-  - "Wayfarer's Boots"
   - Wayfarer's Boots
-linter-yaml-title-alias: "Wayfarer's Boots"
-obsidianUIMode: preview
+  - Wayfarer's Boots
+linter-yaml-title-alias: Wayfarer's Boots
 ---
 # Wayfarer's Boots
 *Wondrous item, rare (requires attunement)*  

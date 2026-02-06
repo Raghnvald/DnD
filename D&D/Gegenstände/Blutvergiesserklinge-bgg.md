@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Bloodshed Blade
-Typ: Nahkampf-Kriegswaffe (generisch)
+Kategorie: Nahkampf-Kriegswaffe (generisch)
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
@@ -19,7 +19,6 @@ aliases:
   - Bloodshed Scimitar
   - Bloodshed Shortsword
 linter-yaml-title-alias: Bloodshed Blade
-obsidianUIMode: preview
 ---
 # Bloodshed Blade
 *Very rare (requires attunement)*  

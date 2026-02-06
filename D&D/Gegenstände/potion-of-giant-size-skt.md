@@ -9,7 +9,6 @@ tags:
 aliases:
   - Potion of Giant Size
 linter-yaml-title-alias: Potion of Giant Size
-obsidianUIMode: preview
 ---
 # Potion of Giant Size
 *Potion, legendary*  

@@ -1,21 +1,21 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: "Carpenter's Tools"
+Bezeichnung: Schreinerwerkzeuge
+Kategorie: Werkzeug
+Eigenschaften: /
+Kst.: 8 GM
+Gew.: 3,0 kg
 tags:
   - Gegenstand/Ausrüstung/Werkzeug
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - "Carpenter's Tools"
   - Carpenter's Tools
-linter-yaml-title-alias: "Carpenter's Tools"
-obsidianUIMode: preview
+linter-yaml-title-alias: Carpenter's Tools
 ---
-# Carpenter's Tools
-*Artisan's tools*  
+# Schreinerwerkzeuge
+*Handwerkszeug*
 
-- **Cost**: 8 gp
-- **Weight**: 6.0 lbs.
+- **Kosten**: 8 GM
+- **Gewicht**: 3,0 kg.
 
-*Source: Player's Handbook p. 154, Xanathar's Guide to Everything p. 80. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+*Quelle: Spielerhandbuch S. 154, Xanathars Ratgeber für Alles S. 80. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*

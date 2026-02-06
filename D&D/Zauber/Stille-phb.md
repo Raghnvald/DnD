@@ -22,7 +22,6 @@ classes:
 aliases:
   - Silence
 linter-yaml-title-alias: Silence
-obsidianUIMode: preview
 ---
 # Silence
 *2nd-level, Illusion (ritual)*  

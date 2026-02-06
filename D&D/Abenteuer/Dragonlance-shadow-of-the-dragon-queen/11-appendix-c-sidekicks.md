@@ -1,10 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- ttrpg-cli/compendium/src/5e/dsotdq
+  - ttrpg-cli/compendium/src/5e/dsotdq
 aliases:
-- Appendix C: Sidekicks
+  - Appendix C: Sidekicks
 ---
 # Appendix C: Sidekicks
 *Source: Dragonlance: Shadow of the Dragon Queen, p. 210* 

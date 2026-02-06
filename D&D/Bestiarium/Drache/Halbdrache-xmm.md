@@ -2,7 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Half-Dragon
-Typ: Drache
+Kategorie: Drache
 Größe: Mittelgroß
 HG: 5
 Habitat:

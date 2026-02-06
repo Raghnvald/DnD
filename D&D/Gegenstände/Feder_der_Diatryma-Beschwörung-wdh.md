@@ -9,7 +9,6 @@ tags:
 aliases:
   - Feather of Diatryma Summoning
 linter-yaml-title-alias: Feather of Diatryma Summoning
-obsidianUIMode: preview
 ---
 # Feather of Diatryma Summoning
 *Wondrous item, rare (requires attunement)*  

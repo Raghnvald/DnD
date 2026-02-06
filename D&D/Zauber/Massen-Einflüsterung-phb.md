@@ -19,7 +19,6 @@ classes:
 aliases:
   - Mass Suggestion
 linter-yaml-title-alias: Mass Suggestion
-obsidianUIMode: preview
 ---
 # Mass Suggestion
 *6th-level, Enchantment*  

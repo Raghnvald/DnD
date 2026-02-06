@@ -1,7 +1,9 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Black Sapphire
+Bezeichnung: Schwarzer Saphir
+Kategorie: Edelstein
+Eigenschaften: /
+Kst.: 5.000 GM
+Gew.: /
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone
   - Gegenstand/Seltenheit/keine
@@ -9,13 +11,12 @@ tags:
 aliases:
   - Black Sapphire
 linter-yaml-title-alias: Black Sapphire
-obsidianUIMode: preview
 ---
-# Black Sapphire
-*Treasure (gemstone)*  
+# Schwarzer Saphir
+*Schatz (Edelstein)*  
 
-- **Cost**: 5,000 gp
+- **Kosten**: 5.000 GM
 
-A translucent lustrous black with glowing highlights gemstone.
+Ein lichtdurchlässiger, strahlend schwarzer Edelstein, mit leuchtenden Highlights.
 
-*Source: Dungeon Master's Guide p. 134*
+*Quelle: Spielleiterhandbuch S. 134*

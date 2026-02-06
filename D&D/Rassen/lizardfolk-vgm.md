@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-race
+  - json5e-race
 tags:
-- Quelle/5e/vgm
-- Rasse/lizardfolk
+  - Quelle/5e/vgm
+  - Rasse/lizardfolk
 aliases:
-- Lizardfolk
+  - Lizardfolk
 ---
 # Lizardfolk
 *Source: Volo's Guide to Monsters p. 111*  

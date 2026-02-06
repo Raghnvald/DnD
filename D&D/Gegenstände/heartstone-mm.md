@@ -9,7 +9,6 @@ tags:
 aliases:
   - Heartstone
 linter-yaml-title-alias: Heartstone
-obsidianUIMode: preview
 ---
 # Heartstone
 *Very rare*  

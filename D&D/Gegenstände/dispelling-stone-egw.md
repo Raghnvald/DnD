@@ -8,7 +8,6 @@ tags:
 aliases:
   - Dispelling Stone
 linter-yaml-title-alias: Dispelling Stone
-obsidianUIMode: preview
 ---
 # Dispelling Stone
 *Wondrous item, very rare*  

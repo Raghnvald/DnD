@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Gold ring set with bloodstones
+Kategorie: Kunstobjekt
 tags:
   - Gegenstand/Ausrüstung/treasure-art-object
   - Gegenstand/Seltenheit/keine
@@ -9,7 +10,6 @@ tags:
 aliases:
   - Gold ring set with bloodstones
 linter-yaml-title-alias: Gold ring set with bloodstones
-obsidianUIMode: preview
 ---
 # Gold ring set with bloodstones
 *Treasure (art object)*  

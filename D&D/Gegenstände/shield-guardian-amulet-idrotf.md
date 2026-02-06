@@ -9,7 +9,6 @@ tags:
 aliases:
   - Shield Guardian Amulet
 linter-yaml-title-alias: Shield Guardian Amulet
-obsidianUIMode: preview
 ---
 # Shield Guardian Amulet
 *Wondrous item, rare (requires attunement by a humanoid)*  

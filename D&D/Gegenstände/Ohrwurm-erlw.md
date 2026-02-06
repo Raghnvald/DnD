@@ -9,7 +9,6 @@ tags:
 aliases:
   - Earworm
 linter-yaml-title-alias: Earworm
-obsidianUIMode: preview
 ---
 # Earworm
 *Wondrous item, uncommon (requires attunement)*  

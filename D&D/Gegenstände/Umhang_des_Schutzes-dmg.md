@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Cloak of Protection
-  - Umhang des Schutzes
 linter-yaml-title-alias: Umhang des Schutzes
 ---
 # Umhang des Schutzes

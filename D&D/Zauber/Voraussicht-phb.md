@@ -19,7 +19,6 @@ classes:
 aliases:
   - Foresight
 linter-yaml-title-alias: Foresight
-obsidianUIMode: preview
 ---
 # Foresight
 *9th-level, Divination*  

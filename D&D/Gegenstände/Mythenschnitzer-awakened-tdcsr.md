@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Mythcarver (Awakened)
-Typ: Nahkampf-Kriegswaffe
+Kategorie: Nahkampf-Kriegswaffe
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -12,7 +12,6 @@ tags:
 aliases:
   - Mythcarver (Awakened)
 linter-yaml-title-alias: Mythcarver (Awakened)
-obsidianUIMode: preview
 ---
 # Mythcarver (Awakened)
 *Weapon ([longsword](/3-Mechanics/CLI/items/longsword-xphb.md)), legendary (requires attunement by a bard)*  

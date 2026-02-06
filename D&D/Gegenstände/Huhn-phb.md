@@ -1,7 +1,9 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Chicken
+Bezeichnung: Huhn
+Kategorie: Handelsgut
+Eigenschaften: /
+Kst.: 1 SM
+Gew.: /
 tags:
   - Gegenstand/Ausrüstung/Handelsgut
   - Gegenstand/Seltenheit/keine
@@ -9,11 +11,10 @@ tags:
 aliases:
   - Chicken
 linter-yaml-title-alias: Chicken
-obsidianUIMode: preview
 ---
-# Chicken
-*Trade good*  
+# Huhn
+*Handelsgut*  
 
-- **Cost**: 2 cp
+- **Kosten**: 2 KM
 
-*Source: Player's Handbook p. 157. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+*Quelle: Spielerhandbuch S. 157. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*

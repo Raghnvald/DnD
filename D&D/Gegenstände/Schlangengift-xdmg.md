@@ -9,7 +9,6 @@ tags:
 aliases:
   - Serpent Venom
 linter-yaml-title-alias: Serpent Venom
-obsidianUIMode: preview
 ---
 # Serpent Venom
 *Adventuring gear, poison (injury)*  

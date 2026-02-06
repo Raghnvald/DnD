@@ -9,7 +9,6 @@ tags:
 aliases:
   - Khyber Trinket
 linter-yaml-title-alias: Khyber Trinket
-obsidianUIMode: preview
 ---
 # Khyber Trinket
 *Adventuring gear*  

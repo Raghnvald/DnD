@@ -1,7 +1,9 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Blue Sapphire
+Bezeichnung: Blauer Saphir
+Kategorie: Edelstein
+Eigenschaften: /
+Kst.: 1.000 GM
+Gew.: /
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone
   - Gegenstand/Seltenheit/keine
@@ -9,13 +11,12 @@ tags:
 aliases:
   - Blue Sapphire
 linter-yaml-title-alias: Blue Sapphire
-obsidianUIMode: preview
 ---
-# Blue Sapphire
-*Treasure (gemstone)*  
+# Blauer Saphir
+*Schatz (Edelstein)*  
 
-- **Cost**: 1,000 gp
+- **Kosten**: 1.000 GM
 
-A transparent blue-white to medium blue gemstone.
+Ein durchsichtiger, blau-weiß bis mittelblauer Edelstein
 
-*Source: Dungeon Master's Guide p. 134*
+*Quelle: Spielleiterhandbuch S. 134*

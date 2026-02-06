@@ -15,7 +15,6 @@ classes:
 aliases:
   - Staggering Smite
 linter-yaml-title-alias: Wankendmachendes Niederstrecken
-obsidianUIMode: preview
 ---
 # Wankendmachendes Niederstrecken
 *Hervorrufung des 4. Grades*

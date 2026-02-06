@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Zauber/list/subrace/elf-eladrin
+  - Zauber/list/subrace/elf-eladrin
 aliases:
-- Spells for Elf (Eladrin)
+  - Spells for Elf (Eladrin)
 ---
 # Spells for Elf (Eladrin)
 

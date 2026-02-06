@@ -2,7 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Sapphire Dragon Wyrmling
-Typ: Drache (Edelstein)
+Kategorie: Drache (Edelstein)
 Größe: Mittelgroß
 HG: 3
 Habitat:

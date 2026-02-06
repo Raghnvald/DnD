@@ -8,7 +8,6 @@ tags:
 aliases:
   - Pipe of Remembrance
 linter-yaml-title-alias: Pipe of Remembrance
-obsidianUIMode: preview
 ---
 # Pipe of Remembrance
 *Wondrous item, common*  

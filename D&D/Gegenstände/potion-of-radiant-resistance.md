@@ -9,7 +9,6 @@ tags:
 aliases:
   - Potion of Radiant Resistance
 linter-yaml-title-alias: Potion of Radiant Resistance
-obsidianUIMode: preview
 ---
 # Potion of Radiant Resistance
 *Potion, minor, uncommon*  

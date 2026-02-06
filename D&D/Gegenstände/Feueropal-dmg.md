@@ -1,7 +1,9 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Fire Opal
+Bezeichnung: Feueropal
+Kategorie: Edelstein
+Eigenschaften: /
+Kst.: 1.000 GM
+Gew.: /
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone
   - Gegenstand/Seltenheit/keine
@@ -9,13 +11,12 @@ tags:
 aliases:
   - Fire Opal
 linter-yaml-title-alias: Fire Opal
-obsidianUIMode: preview
 ---
-# Fire Opal
-*Treasure (gemstone)*  
+# Feueropal
+*Schatz (Edelstein)*  
 
-- **Cost**: 1,000 gp
+- **Kosten**: 1.000 GM
 
-A translucent fiery red gemstone.
+Ein lichtdurchlässiger, feurig-roter Edelstein.
 
-*Source: Dungeon Master's Guide p. 134*
+*Quelle: Spielleiterhandbuch S. 134*

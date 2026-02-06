@@ -13,7 +13,6 @@ classes:
 aliases:
   - Branding Smite
 linter-yaml-title-alias: Branding Smite
-obsidianUIMode: preview
 ---
 # Brandmarkendes Niederstrecken
 *Hervorrufung des 2. Grades*

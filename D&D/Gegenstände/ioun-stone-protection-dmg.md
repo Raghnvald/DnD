@@ -9,7 +9,6 @@ tags:
 aliases:
   - Ioun Stone, Protection
 linter-yaml-title-alias: Ioun Stone, Protection
-obsidianUIMode: preview
 ---
 # Ioun Stone, Protection
 *Wondrous item, major, rare (requires attunement)*  

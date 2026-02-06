@@ -1,7 +1,9 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Barrel
+Bezeichnung: Fass
+Kategorie: Behälter
+Eigenschaften: /
+Kst.: 2 GM
+Gew.: 35,0 kg
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
@@ -9,14 +11,13 @@ tags:
 aliases:
   - Barrel
 linter-yaml-title-alias: Barrel
-obsidianUIMode: preview
 ---
-# Barrel
-*Adventuring gear*  
+# Fass
+*Abenteuerausrüstung*
 
-- **Cost**: 2 gp
-- **Weight**: 70.0 lbs.
+- **Kosten**: 2 GM
+- **Gewicht**: 35,0 kg.
 
-Ein Fass hat ein Fassungsvermögen für 150 Liter Flüssigkeit oder 0,1 Kubikmeter feste Stoffe.
+Ein Fass hat ein Fassungsvermögen von 160 Liter für Flüssigkeit oder feste Stoffe.
 
-*Source: Player's Handbook p. 153. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+*Quelle: Spielerhandbuch S. 153. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*

@@ -8,7 +8,6 @@ tags:
 aliases:
   - Horseshoes of a Zephyr
 linter-yaml-title-alias: Horseshoes of a Zephyr
-obsidianUIMode: preview
 ---
 # Horseshoes of a Zephyr
 *Wondrous item, minor, very rare*  

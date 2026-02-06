@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Quelle/5e/xmm
+  - Quelle/5e/xmm
 aliases:
-- Proficiency Bonus by Challenge Rating
+  - Proficiency Bonus by Challenge Rating
 ---
 # Proficiency Bonus by Challenge Rating
 *Source: Monster Manual (2024) p. 8. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 

@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Zauber/list/subclass/runechild
+  - Zauber/list/subclass/runechild
 aliases:
-- Spells for Runechild
+  - Spells for Runechild
 ---
 # Spells for Runechild
 

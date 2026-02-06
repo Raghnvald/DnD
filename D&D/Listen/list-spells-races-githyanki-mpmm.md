@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Zauber/list/race/githyanki
+  - Zauber/list/race/githyanki
 aliases:
-- Spells for Githyanki
+  - Spells for Githyanki
 ---
 # Spells for Githyanki
 

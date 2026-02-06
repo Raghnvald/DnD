@@ -8,10 +8,8 @@ tags:
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
-  - "Hide Armor"
   - Hide Armor
 linter-yaml-title-alias: Hide Armor
-obsidianUIMode: preview
 ---
 # Hide Armor
 *Medium armor*  

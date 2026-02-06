@@ -8,7 +8,6 @@ tags:
 aliases:
   - Knight Card
 linter-yaml-title-alias: Knight Card
-obsidianUIMode: preview
 ---
 # Knight Card
 *Wondrous item, legendary*  

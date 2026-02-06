@@ -9,7 +9,6 @@ tags:
 aliases:
   - Blasting Powder
 linter-yaml-title-alias: Blasting Powder
-obsidianUIMode: preview
 ---
 # Blasting Powder
 *Adventuring gear*  

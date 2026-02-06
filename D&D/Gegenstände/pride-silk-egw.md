@@ -9,7 +9,6 @@ tags:
 aliases:
   - Pride Silk
 linter-yaml-title-alias: Pride Silk
-obsidianUIMode: preview
 ---
 # Pride Silk
 *Adventuring gear*  

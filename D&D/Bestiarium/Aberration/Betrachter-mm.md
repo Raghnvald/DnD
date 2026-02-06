@@ -15,7 +15,7 @@ Habitat:
   - Unterreich
 HG: 13
 Größe: Groß
-Typ: Aberration
+Kategorie: Aberration
 status: WIP
 ---
 # [Beholder](3-Mechanics\CLI\bestiary\aberration/beholder.md)

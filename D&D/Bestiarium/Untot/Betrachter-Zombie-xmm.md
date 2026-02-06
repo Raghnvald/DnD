@@ -2,7 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Beholder Zombie
-Typ: Untoter
+Kategorie: Untoter
 Größe: Groß
 HG: 5
 Habitat:

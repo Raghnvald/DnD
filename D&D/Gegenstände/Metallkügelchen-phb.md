@@ -1,7 +1,9 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Ball Bearing
+Bezeichnung: Metallkügelchen
+Kategorie: Abenteuerausrüstung
+Eigenschaften: /
+Kst.: /
+Gew.: 0,001 kg
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
@@ -9,9 +11,8 @@ tags:
 aliases:
   - Ball Bearing
 linter-yaml-title-alias: Ball Bearing
-obsidianUIMode: preview
 ---
-# Ball Bearing
+# Metallkügelchen
 *Adventuring gear*  
 
 - **Weight**: 0.002 lbs.

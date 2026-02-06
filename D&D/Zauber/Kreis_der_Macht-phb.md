@@ -15,7 +15,6 @@ classes:
 aliases:
   - Circle of Power
 linter-yaml-title-alias: Circle of Power
-obsidianUIMode: preview
 ---
 # Circle of Power
 *5th-level, Abjuration*  

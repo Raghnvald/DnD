@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Lyre of Building
+Kategorie: Wundersamer Gegenstand
 tags:
   - Gegenstand/Ausrüstung/Instrument
   - Gegenstand/Einstimmung/required

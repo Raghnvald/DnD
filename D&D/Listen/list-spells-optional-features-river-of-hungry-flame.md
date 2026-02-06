@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Zauber/list/optfeature/river-of-hungry-flame
+  - Zauber/list/optfeature/river-of-hungry-flame
 aliases:
-- Spells for River of Hungry Flame
+  - Spells for River of Hungry Flame
 ---
 # Spells for River of Hungry Flame
 

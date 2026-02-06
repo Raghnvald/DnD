@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-race
+  - json5e-race
 tags:
-- Quelle/5e/vgm
-- Rasse/aasimar/scourge
+  - Quelle/5e/vgm
+  - Rasse/aasimar/scourge
 aliases:
-- Aasimar (Scourge)
+  - Aasimar (Scourge)
 ---
 # Aasimar (Scourge)
 *Source: Volo's Guide to Monsters p. 105*  

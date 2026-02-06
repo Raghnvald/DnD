@@ -3,7 +3,7 @@ prefer-view: edit-source read
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Escher
-Typ: Untoter
+Kategorie: Untoter
 Größe: Mittelgroß
 HG: 5
 Habitat:

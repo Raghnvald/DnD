@@ -2,14 +2,14 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Canoe
+Kategorie: Luft- und Wasserfahrzeug
 tags:
-  - Gegenstand/Fortbewegung/ship-water
+  - Gegenstand/Ausrüstung/Fahrzeug
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/toa
 aliases:
   - Canoe
 linter-yaml-title-alias: Canoe
-obsidianUIMode: preview
 ---
 # Canoe
 *Ship, vehicle (water)*  

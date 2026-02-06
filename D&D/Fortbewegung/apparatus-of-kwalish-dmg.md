@@ -1,14 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-vehicle
+  - json5e-vehicle
 tags:
-- Quelle/5e/dmg
-- Gegenstand/Fortbewegung/size/large
-- Gegenstand/Fortbewegung/terrain/sea
-- Gegenstand/Fortbewegung/type/object
+  - Quelle/5e/dmg
+  - Gegenstand/Fortbewegung/size/large
+  - Gegenstand/Fortbewegung/terrain/sea
+  - Gegenstand/Fortbewegung/type/object
 aliases:
-- Apparatus of Kwalish
+  - Apparatus of Kwalish
 ---
 # Apparatus of Kwalish
 %%-- Embedded content starts on the next line. --%%

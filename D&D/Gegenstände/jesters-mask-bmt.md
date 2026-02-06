@@ -1,16 +1,15 @@
 ---
 cssclasses:
   - json5e-item
-Bezeichnung: "Jester's Mask"
+Bezeichnung: Jester's Mask
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
   - Quelle/5e/bmt
 aliases:
-  - "Jester's Mask"
   - Jester's Mask
-linter-yaml-title-alias: "Jester's Mask"
-obsidianUIMode: preview
+  - Jester's Mask
+linter-yaml-title-alias: Jester's Mask
 ---
 # Jester's Mask
 *Wondrous item, legendary (requires attunement by a bard, sorcerer, or warlock)*  

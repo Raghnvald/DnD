@@ -1,16 +1,15 @@
 ---
 cssclasses:
   - json5e-item
-Bezeichnung: "Miner's Pick"
+Bezeichnung: Miner's Pick
+Kategorie: Abenteuerausrüstung
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - "Miner's Pick"
   - Miner's Pick
-linter-yaml-title-alias: "Miner's Pick"
-obsidianUIMode: preview
+linter-yaml-title-alias: Miner's Pick
 ---
 # Miner's Pick
 *Adventuring gear*  

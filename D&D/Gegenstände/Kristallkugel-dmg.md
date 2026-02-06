@@ -9,7 +9,6 @@ tags:
 aliases:
   - Kristallkugel
 linter-yaml-title-alias: Kristallkugel
-obsidianUIMode: preview
 ---
 # Kristallkugel
 *Wundersamer Gegenstand, sehr selten (benötigt Einstimmung)*  

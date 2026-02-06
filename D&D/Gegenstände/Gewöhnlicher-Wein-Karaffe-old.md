@@ -1,6 +1,6 @@
 ---
 Bezeichnung: Gewöhnlicher Wein (Karaffe)
-Typ: Essen und Trinken
+Kategorie: Essen und Trinken
 Eigenschaften: n/v
 Kst.: 2 SM
 Gew.: n/v
@@ -10,7 +10,6 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Common Wine (Pitcher)
-  - Gewöhnlicher Wein (Karaffe)
 linter-yaml-title-alias: Gewöhnlicher Wein (Karaffe)
 ---
 # Gewöhnlicher Wein (Karaffe)

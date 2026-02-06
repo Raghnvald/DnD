@@ -6,10 +6,8 @@ tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/xdmg
 aliases:
-  - "Helm of Comprehending Languages"
   - Helm of Comprehending Languages
 linter-yaml-title-alias: Helm of Comprehending Languages
-obsidianUIMode: preview
 ---
 # Helm of Comprehending Languages
 *Wondrous item, uncommon*  

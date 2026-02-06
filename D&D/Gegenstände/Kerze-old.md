@@ -1,6 +1,6 @@
 ---
 Bezeichnung: Kerze
-Typ: Abenteuerausrüstung
+Kategorie: Abenteuerausrüstung
 Eigenschaften: n/v
 Kst.: 5 SM
 Gew.: n/v

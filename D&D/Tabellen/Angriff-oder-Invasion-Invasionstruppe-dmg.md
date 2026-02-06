@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Quelle/5e/dmg
+  - Quelle/5e/dmg
 aliases:
-- Assault or Invasion; Invading Forces
+  - Assault or Invasion; Invading Forces
 ---
 # Angriff oder Invasion; Invasionstruppe
 *Quellen: Spielleiterhandbuch S. 29* 

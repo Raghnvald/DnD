@@ -9,7 +9,6 @@ tags:
 aliases:
   - Gilded royal coach or funeral barge
 linter-yaml-title-alias: Gilded royal coach or funeral barge
-obsidianUIMode: preview
 ---
 # Gilded royal coach or funeral barge
 *Treasure (art object)*  

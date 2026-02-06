@@ -6,10 +6,9 @@ tags:
   - Gegenstand/Seltenheit/gewöhnlich
   - Quelle/5e/xdmg
 aliases:
-  - "Pole of Angling"
+  - Pole of Angling
   - Pole of Angling
 linter-yaml-title-alias: Pole of Angling
-obsidianUIMode: preview
 ---
 # Pole of Angling
 *Wondrous item, common*  

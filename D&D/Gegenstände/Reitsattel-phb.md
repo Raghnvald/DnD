@@ -1,7 +1,9 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Riding Saddle
+Bezeichnung: Reitsattel
+Kategorie: Zaumzeug, Harnisch und gezogene Fahrzeuge
+Eigenschaften: /
+Kst.: 10 GM
+Gew.: 12,5 kg
 tags:
   - Gegenstand/Ausrüstung/tack-and-harness
   - Gegenstand/Seltenheit/keine
@@ -9,12 +11,11 @@ tags:
 aliases:
   - Riding Saddle
 linter-yaml-title-alias: Riding Saddle
-obsidianUIMode: preview
 ---
-# Riding Saddle
-*Tack and harness*  
+# Reitsattel
+*Zaumzeug und Harnisch*  
 
-- **Cost**: 10 gp
-- **Weight**: 25.0 lbs.
+- **Kosten**: 10 GM
+- **Gewicht**: 12,5 kg.
 
-*Source: Player's Handbook p. 157. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+*Quelle: Spielerhandbuch S. 157. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*

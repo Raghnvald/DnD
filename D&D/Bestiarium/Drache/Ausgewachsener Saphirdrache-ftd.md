@@ -2,7 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Adult Sapphire Dragon
-Typ: Drache (Edelstein)
+Kategorie: Drache (Edelstein)
 Größe: Riesig
 HG: 15
 Habitat:

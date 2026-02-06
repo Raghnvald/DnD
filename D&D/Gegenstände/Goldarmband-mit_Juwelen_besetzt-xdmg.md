@@ -9,7 +9,6 @@ tags:
 aliases:
   - Bejeweled gold bracelet
 linter-yaml-title-alias: Bejeweled gold bracelet
-obsidianUIMode: preview
 ---
 # Bejeweled gold bracelet
 *Treasure (art object)*  

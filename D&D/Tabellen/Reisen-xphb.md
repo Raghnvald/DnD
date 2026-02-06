@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Quelle/5e/xphb
+  - Quelle/5e/xphb
 aliases:
-- Travel
+  - Travel
 ---
 # Travel
 *Source: Player's Handbook (2024) p. 231* 

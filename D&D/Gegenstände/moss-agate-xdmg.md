@@ -9,7 +9,6 @@ tags:
 aliases:
   - Moss Agate
 linter-yaml-title-alias: Moss Agate
-obsidianUIMode: preview
 ---
 # Moss Agate
 *Treasure (gemstone)*  

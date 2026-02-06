@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-itemorb-of-shielding
 Bezeichnung: Orb of Shielding (Fernian Basalt)
+Kategorie: Wundersamer Gegenstand
 tags:
   - Gegenstand/Ausrüstung/Zauberfokus
   - Gegenstand/Einstimmung/required
@@ -13,7 +14,6 @@ aliases:
   - Fernian Basalt Orb
   - Orb of Shielding (Fernian Basalt)
 linter-yaml-title-alias: Orb of Shielding (Fernian Basalt)
-obsidianUIMode: preview
 ---
 # Orb of Shielding (Fernian Basalt)
 *Wondrous item, common (requires attunement)*  

@@ -3,13 +3,12 @@ cssclasses:
   - json5e-item
 Bezeichnung: Cart
 tags:
-  - Gegenstand/Fortbewegung/land
+  - Gegenstand/Ausrüstung/Fahrzeug
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Cart
 linter-yaml-title-alias: Cart
-obsidianUIMode: preview
 ---
 # Cart
 *Vehicle (land)*  

@@ -11,7 +11,6 @@ tags:
 aliases:
   - Scorpion Armor
 linter-yaml-title-alias: Scorpion Armor
-obsidianUIMode: preview
 ---
 # Skorpionrüstung
 *Heavy armor, cursed item, rare (requires attunement)*  

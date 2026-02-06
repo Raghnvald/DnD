@@ -1,7 +1,9 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Dice Set
+Bezeichnung: Satz Würfel
+Kategorie: Werkzeug
+Eigenschaften: /
+Kst.: 1 SM
+Gew.: /
 tags:
   - Gegenstand/Ausrüstung/Spielset
   - Gegenstand/Seltenheit/keine
@@ -9,11 +11,10 @@ tags:
 aliases:
   - Dice Set
 linter-yaml-title-alias: Dice Set
-obsidianUIMode: preview
 ---
-# Dice Set
-*Gaming set*  
+# Satz Würfel
+*Spiel*  
 
-- **Cost**: 1 sp
+- **Kosten**: 1 SM
 
-*Source: Player's Handbook p. 154. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+*Quelle: Spielerhandbuch S. 154. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*

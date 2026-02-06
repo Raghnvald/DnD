@@ -1,15 +1,14 @@
 ---
 Bezeichnung: Betäubungsgift
-Typ: Gift
+Kategorie: Gift
 Eigenschaften: Gift
 Kst.: 600 GM
-Gew.: n/v
+Gew.: /
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/dmg
 aliases:
-  - Betäubungsgift
   - Torpor
 linter-yaml-title-alias: Betäubungsgift
 ---

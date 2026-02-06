@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Small mirror set in a painted wooden frame
+Kategorie: Kunstobjekt
 tags:
   - Gegenstand/Ausrüstung/treasure-art-object
   - Gegenstand/Seltenheit/keine
@@ -9,7 +10,6 @@ tags:
 aliases:
   - Small mirror set in a painted wooden frame
 linter-yaml-title-alias: Small mirror set in a painted wooden frame
-obsidianUIMode: preview
 ---
 # Small mirror set in a painted wooden frame
 *Treasure (art object)*  

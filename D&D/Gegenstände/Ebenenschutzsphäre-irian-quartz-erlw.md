@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Orb of Shielding (Irian Quartz)
+Kategorie: Wundersamer Gegenstand
 tags:
   - Gegenstand/Ausrüstung/Zauberfokus
   - Gegenstand/Einstimmung/required
@@ -13,7 +14,6 @@ aliases:
   - Irian Quartz Orb
   - Orb of Shielding (Irian Quartz)
 linter-yaml-title-alias: Orb of Shielding (Irian Quartz)
-obsidianUIMode: preview
 ---
 # Orb of Shielding (Irian Quartz)
 *Wondrous item, common (requires attunement)*  

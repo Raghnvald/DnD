@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Dart
-Typ: Einfache Fernkampfwaffe
+Kategorie: Einfache Fernkampfwaffe
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/Einfach
@@ -11,7 +11,6 @@ tags:
 aliases:
   - Dart
 linter-yaml-title-alias: Dart
-obsidianUIMode: preview
 ---
 # Dart
 *Weapon*  

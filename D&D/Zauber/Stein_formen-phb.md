@@ -25,7 +25,6 @@ classes:
 aliases:
   - Stone Shape
 linter-yaml-title-alias: Stone Shape
-obsidianUIMode: preview
 ---
 # Stone Shape
 *4th-level, Transmutation*  

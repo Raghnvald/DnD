@@ -1,6 +1,6 @@
 ---
 Bezeichnung: Ikone von Ravenloft
-Typ: Wundersamer Gegenstand
+Kategorie: Wundersamer Gegenstand
 Eigenschaften: erfordert Einstimmung durch eine Kreatur guter Gesinnung
 Kst.: n/v
 Gew.: 5,0 kg

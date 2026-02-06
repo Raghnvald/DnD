@@ -10,7 +10,6 @@ tags:
 aliases:
   - Staff of the Ivory Claw
 linter-yaml-title-alias: Staff of the Ivory Claw
-obsidianUIMode: preview
 ---
 # Staff of the Ivory Claw
 *Staff, weapon, rare (requires attunement by a spellcaster)*  

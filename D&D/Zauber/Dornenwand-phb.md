@@ -15,7 +15,6 @@ classes:
 aliases:
   - Wall of Thorns
 linter-yaml-title-alias: Wall of Thorns
-obsidianUIMode: preview
 ---
 # Dornenwand
 *Beschwörung des 6. Grades*

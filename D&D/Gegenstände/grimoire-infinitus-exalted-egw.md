@@ -9,7 +9,6 @@ tags:
 aliases:
   - Grimoire Infinitus (Exalted)
 linter-yaml-title-alias: Grimoire Infinitus (Exalted)
-obsidianUIMode: preview
 ---
 # Grimoire Infinitus (Exalted)
 *Wondrous item, legendary (requires attunement by a wizard)*  

@@ -8,7 +8,6 @@ tags:
 aliases:
   - Donjon Card
 linter-yaml-title-alias: Donjon Card
-obsidianUIMode: preview
 ---
 # Donjon Card
 *Wondrous item, legendary*  

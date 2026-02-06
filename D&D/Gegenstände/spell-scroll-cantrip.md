@@ -9,7 +9,6 @@ tags:
 aliases:
   - Spell Scroll (Cantrip)
 linter-yaml-title-alias: Spell Scroll (Cantrip)
-obsidianUIMode: preview
 ---
 # Spell Scroll (Cantrip)
 *Scroll, minor, common*  

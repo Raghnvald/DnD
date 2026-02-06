@@ -19,7 +19,6 @@ classes:
 aliases:
   - Create Food and Water
 linter-yaml-title-alias: Create Food and Water
-obsidianUIMode: preview
 ---
 # Create Food and Water
 *3rd-level, Conjuration*  

@@ -3,13 +3,12 @@ cssclasses:
   - json5e-item
 Bezeichnung: Rowboat
 tags:
-  - Gegenstand/Fortbewegung/ship-water
+  - Gegenstand/Ausrüstung/Fahrzeug
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Rowboat
 linter-yaml-title-alias: Rowboat
-obsidianUIMode: preview
 ---
 # Rowboat
 *Ship, vehicle (water)*  

@@ -44,7 +44,7 @@ Du sprichst schändliche Worte aus, um einen Dämon aus dem Chaos des Abyss zu b
 | 3-4 | Vier Dämonen mit HG 1/2 oder geringer |
 | 5-6 | Acht Dämonen mit HG 1/4 oder geringer |
 
-Der SL wählt die Dämonen aus, wie zum Beispiel [[D&D/Bestiarium/Unhold/manes|Manes]] oder [[D&D/Bestiarium/Unhold/Dretch|Dretchs]], und du wählst den unbesetzten Bereich, den du innerhalb der Reichweite sehen kannst, wo sie erscheinen werden. Ein beschworener Dämon verschwindet, wenn seine Trefferpunkte auf 0 Trefferpunkte reduziert werden oder wenn der Zauber endet
+Der SL wählt die Dämonen aus, wie zum Beispiel [[Mane-mm|Manes]] oder [[Dretch-mm|Dretchs]], und du wählst den unbesetzten Bereich, den du innerhalb der Reichweite sehen kannst, wo sie erscheinen werden. Ein beschworener Dämon verschwindet, wenn seine Trefferpunkte auf 0 Trefferpunkte reduziert werden oder wenn der Zauber endet
 
 Die Dämonen sind allen Kreaturen gegenüber feindlich gesinnt, einschließlich dir. Würfle die Initiative für die Dämonengruppe als Ganzes, welche ihre eigenen Züge hat. Die Dämonen verfolgen und attackieren nach bestem Vermögen die nächsten Nicht-Dämonen.
 

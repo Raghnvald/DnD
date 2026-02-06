@@ -9,7 +9,6 @@ tags:
 aliases:
   - Wand of Secrets
 linter-yaml-title-alias: Wand of Secrets
-obsidianUIMode: preview
 ---
 # Wand of Secrets
 *Wand, minor, uncommon*  

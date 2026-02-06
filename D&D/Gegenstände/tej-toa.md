@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Tej
+Kategorie: Essen und Trinken
 tags:
   - Gegenstand/Ausrüstung/Essen-und-Trinken
   - Gegenstand/Seltenheit/keine
@@ -9,7 +10,6 @@ tags:
 aliases:
   - Tej
 linter-yaml-title-alias: Tej
-obsidianUIMode: preview
 ---
 # Tej
 *Food and drink*  

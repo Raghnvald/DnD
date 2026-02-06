@@ -9,7 +9,6 @@ tags:
 aliases:
   - Copper
 linter-yaml-title-alias: Copper
-obsidianUIMode: preview
 ---
 # Copper
 *Trade good*  

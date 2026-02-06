@@ -8,7 +8,6 @@ tags:
 aliases:
   - Bag of Devouring
 linter-yaml-title-alias: Bag of Devouring
-obsidianUIMode: preview
 ---
 # Bag of Devouring
 *Wondrous item, minor, very rare*  

@@ -9,7 +9,6 @@ tags:
 aliases:
   - Plainscow
 linter-yaml-title-alias: Plainscow
-obsidianUIMode: preview
 ---
 # Plainscow
 *Mount*  

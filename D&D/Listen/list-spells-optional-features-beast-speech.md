@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Zauber/list/optfeature/beast-speech
+  - Zauber/list/optfeature/beast-speech
 aliases:
-- Spells for Beast Speech
+  - Spells for Beast Speech
 ---
 # Spells for Beast Speech
 

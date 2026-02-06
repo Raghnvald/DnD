@@ -10,7 +10,6 @@ tags:
 aliases:
   - Ring of Telekinesis
 linter-yaml-title-alias: Ring of Telekinesis
-obsidianUIMode: preview
 ---
 # Ring of Telekinesis
 *Ring, major, very rare (requires attunement)*  

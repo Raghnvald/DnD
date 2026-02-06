@@ -9,7 +9,6 @@ tags:
 aliases:
   - Potion of Maximum Power
 linter-yaml-title-alias: Potion of Maximum Power
-obsidianUIMode: preview
 ---
 # Potion of Maximum Power
 *Potion, rare*  

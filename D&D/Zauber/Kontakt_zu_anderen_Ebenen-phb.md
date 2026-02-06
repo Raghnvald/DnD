@@ -18,7 +18,6 @@ classes:
 aliases:
   - Contact Other Plane
 linter-yaml-title-alias: Contact Other Plane
-obsidianUIMode: preview
 ---
 # Contact Other Plane
 *5th-level, Divination (ritual)*  

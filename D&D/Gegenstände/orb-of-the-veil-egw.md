@@ -9,7 +9,6 @@ tags:
 aliases:
   - Orb of the Veil
 linter-yaml-title-alias: Orb of the Veil
-obsidianUIMode: preview
 ---
 # Orb of the Veil
 *Wondrous item, cursed item, very rare (requires attunement)*  

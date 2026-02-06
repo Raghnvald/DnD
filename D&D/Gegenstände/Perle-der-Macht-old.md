@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Bead of Force
-  - Perle der Macht
 linter-yaml-title-alias: Perle der Macht
 ---
 # Perle der Macht

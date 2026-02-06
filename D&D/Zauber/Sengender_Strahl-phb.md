@@ -25,7 +25,6 @@ classes:
 aliases:
   - Scorching Ray
 linter-yaml-title-alias: Scorching Ray
-obsidianUIMode: preview
 ---
 # Scorching Ray
 *2nd-level, Evocation*  

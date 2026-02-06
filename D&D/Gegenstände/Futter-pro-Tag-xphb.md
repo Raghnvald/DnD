@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Feed (per day)
 tags:
   - Gegenstand/Ausrüstung/tack-and-harness
@@ -9,7 +7,6 @@ tags:
 aliases:
   - Feed (per day)
 linter-yaml-title-alias: Feed (per day)
-obsidianUIMode: preview
 ---
 # Feed (per day)
 *Tack and harness*  

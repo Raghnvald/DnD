@@ -8,7 +8,6 @@ tags:
 aliases:
   - Stormrider Boots
 linter-yaml-title-alias: Stormrider Boots
-obsidianUIMode: preview
 ---
 # Stormrider Boots
 *Wondrous item, rare*  

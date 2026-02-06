@@ -1,7 +1,9 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Chalcedony
+Bezeichnung: Chalcedon
+Kategorie: Edelstein
+Eigenschaften: /
+Kst.: 50 GM
+Gew.: /
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone
   - Gegenstand/Seltenheit/keine
@@ -9,13 +11,12 @@ tags:
 aliases:
   - Chalcedony
 linter-yaml-title-alias: Chalcedony
-obsidianUIMode: preview
 ---
-# Chalcedony
-*Treasure (gemstone)*  
+# Chalcedon
+*Schatz (Edelstein)*  
 
-- **Cost**: 50 gp
+- **Kosten**: 50 GM
 
-An opaque white gemstone.
+Ein undurchsichtiger, weißer Edelstein.
 
-*Source: Dungeon Master's Guide p. 134*
+*Quelle: Spielleiterhandbuch S. 134*

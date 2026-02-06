@@ -8,10 +8,9 @@ tags:
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
-  - "Splint Armor"
+  - Splint Armor
   - Splint Armor
 linter-yaml-title-alias: Splint Armor
-obsidianUIMode: preview
 ---
 # Splint Armor
 *Heavy armor*  

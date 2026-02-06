@@ -1,6 +1,6 @@
 ---
 Bezeichnung: Zauberstab der Magieerkennung
-Typ: Zauberstab
+Kategorie: Zauberstab
 Eigenschaften: erfordert Einstimmung durch einen Zauberwirker
 Kst.: 400 GM
 Gew.: 0,5 kg

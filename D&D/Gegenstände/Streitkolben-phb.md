@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Streitkolben
-Typ: Einfache Nahkampfwaffe
+Kategorie: Einfache Nahkampfwaffe
 Schaden: 1W6 Wucht
 Eigenschaften: /
 Kst.: 5 GM
 Gew.: 2,0 kg
 tags:
-  - Gegenstand/Seltenheit/keine
+  - 5 GMGegenstand/Seltenheit/keine
   - Gegenstand/Waffe/Einfach
   - Gegenstand/Waffe/Nahkampf
   - Quelle/5e/phb

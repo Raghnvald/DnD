@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Quelle/5e/bgg
+  - Quelle/5e/bgg
 aliases:
-- Fire Giant Bag Contents; Fire Giant Bag Items
+  - Fire Giant Bag Contents; Fire Giant Bag Items
 ---
 # Fire Giant Bag Contents; Fire Giant Bag Items
 *Source: Bigby Presents: Glory of the Giants p. 106* 

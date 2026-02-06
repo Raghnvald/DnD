@@ -9,7 +9,6 @@ tags:
 aliases:
   - Robe of Serpents
 linter-yaml-title-alias: Robe of Serpents
-obsidianUIMode: preview
 ---
 # Robe of Serpents
 *Wondrous item, uncommon (requires attunement)*  

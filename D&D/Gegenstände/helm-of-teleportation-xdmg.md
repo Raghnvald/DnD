@@ -9,7 +9,6 @@ tags:
 aliases:
   - Helm of Teleportation
 linter-yaml-title-alias: Helm of Teleportation
-obsidianUIMode: preview
 ---
 # Helm of Teleportation
 *Wondrous item, rare (requires attunement)*  

@@ -9,7 +9,6 @@ tags:
 aliases:
   - Goat
 linter-yaml-title-alias: Goat
-obsidianUIMode: preview
 ---
 # Goat
 *Trade good*  

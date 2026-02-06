@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Obsidian statuette with gold fittings and inlay
+Kategorie: Kunstobjekt
 tags:
   - Gegenstand/Ausrüstung/treasure-art-object
   - Gegenstand/Seltenheit/keine
@@ -9,7 +10,6 @@ tags:
 aliases:
   - Obsidian statuette with gold fittings and inlay
 linter-yaml-title-alias: Obsidian statuette with gold fittings and inlay
-obsidianUIMode: preview
 ---
 # Obsidian statuette with gold fittings and inlay
 *Treasure (art object)*  

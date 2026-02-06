@@ -7,10 +7,9 @@ tags:
   - Gegenstand/wundersam/Trank
   - Quelle/5e/xdmg
 aliases:
-  - "Potion of Thunder Resistance"
+  - Potion of Thunder Resistance
   - Potion of Thunder Resistance
 linter-yaml-title-alias: Potion of Thunder Resistance
-obsidianUIMode: preview
 ---
 # Potion of Thunder Resistance
 *Potion, uncommon*  

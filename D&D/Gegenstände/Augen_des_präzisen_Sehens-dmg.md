@@ -1,18 +1,15 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Eyes of Minute Seeing
+Bezeichnung: Augen des präzisen Sehens
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/dmg
 aliases:
   - Eyes of Minute Seeing
 linter-yaml-title-alias: Eyes of Minute Seeing
-obsidianUIMode: preview
 ---
-# Eyes of Minute Seeing
-*Wondrous item, minor, uncommon*  
+# Augen des präzisen Sehens
+*Wundersamer Gegenstand, ungewöhnlich *  
 
-These crystal lenses fit over the eyes. While wearing them, you can see much better than normal out to a range of 1 foot. You have advantage on Intelligence ([Investigation](/3-Mechanics/CLI/skills.md#Investigation)) checks that rely on sight while searching an area or studying an object within that range.
+Diese Kristall-Linsen passen über die Augen. Während du sie trägst, kannst du innerhalb von 30 Zentimetern wesentlich besser als normal sehen. Du hast einen Vorteil bei Würfen auf Intelligenz ([[01-Spielleiter/Fertigkeiten-phb#Nachforschungen|Nachforschungen]]), die von der Sehkraft abhängig sind, während du ein Gebiet oder ein Objekt innerhalb dieser Reichweite untersuchst. 
 
 *Source: Dungeon Master's Guide p. 168. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

@@ -9,7 +9,6 @@ tags:
 aliases:
   - Stone of Golorr
 linter-yaml-title-alias: Stone of Golorr
-obsidianUIMode: preview
 ---
 # Stone of Golorr
 *Wondrous item, artifact (requires attunement)*  

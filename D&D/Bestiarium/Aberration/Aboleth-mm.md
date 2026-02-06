@@ -2,7 +2,7 @@
 cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
 Bezeichnung: Aboleth
-Typ: Aberration
+Kategorie: Aberration
 Größe: Groß
 HG: 10
 status: WIP

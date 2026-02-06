@@ -8,7 +8,6 @@ tags:
 aliases:
   - Deck of Miscellany
 linter-yaml-title-alias: Deck of Miscellany
-obsidianUIMode: preview
 ---
 # Deck of Miscellany
 *Wondrous item, uncommon*  

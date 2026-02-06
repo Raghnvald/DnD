@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- Quelle/5e/mcv1sc
-- Monster/HG/2
-- Monster/Größe/Klein
-- Monster/Typ/Konstrukt
+  - Quelle/5e/mcv1sc
+  - Monster/HG/2
+  - Monster/Größe/Klein
+  - Monster/Typ/Konstrukt
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Clockwork Horror
+  - Clockwork Horror
 ---
 # [Clockwork Horror](3-Mechanics\CLI\bestiary\construct/clockwork-horror-mcv1sc.md)
 *Source: Monstrous Compendium Volume 1: Spelljammer Creatures p. 4*  

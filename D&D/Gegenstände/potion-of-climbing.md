@@ -9,7 +9,6 @@ tags:
 aliases:
   - Potion of Climbing
 linter-yaml-title-alias: Potion of Climbing
-obsidianUIMode: preview
 ---
 # Potion of Climbing
 *Potion, minor, common*  

@@ -7,10 +7,9 @@ tags:
   - Gegenstand/wundersam/Trank
   - Quelle/5e/xdmg
 aliases:
-  - "Potion of Supreme Healing"
+  - Potion of Supreme Healing
   - Potion of Supreme Healing
 linter-yaml-title-alias: Potion of Supreme Healing
-obsidianUIMode: preview
 ---
 # Potion of Supreme Healing
 *Potion, very rare*  

@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Shard
+Kategorie: Währung
 tags:
   - Gegenstand/Ausrüstung/treasure-coinage
   - Gegenstand/Seltenheit/keine
@@ -9,7 +10,6 @@ tags:
 aliases:
   - Shard
 linter-yaml-title-alias: Shard
-obsidianUIMode: preview
 ---
 # Shard
 *Treasure (coinage)*  

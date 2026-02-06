@@ -9,7 +9,6 @@ tags:
 aliases:
   - Propeller Helm
 linter-yaml-title-alias: Propeller Helm
-obsidianUIMode: preview
 ---
 # Propeller Helm
 *Wondrous item, uncommon (requires attunement by a small humanoid)*  

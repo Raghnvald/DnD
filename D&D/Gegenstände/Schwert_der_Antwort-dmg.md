@@ -1,6 +1,6 @@
 ---
 Bezeichnung: Schwert der Antwort
-Typ: Nahkampf-Kriegswaffe
+Kategorie: Nahkampf-Kriegswaffe
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär

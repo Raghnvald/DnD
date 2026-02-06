@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Quelle/5e/xphb
+  - Quelle/5e/xphb
 aliases:
-- Death Saving Throw
+  - Death Saving Throw
 ---
 # Death Saving Throw
 *Source: Player's Handbook (2024) p. 365. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 

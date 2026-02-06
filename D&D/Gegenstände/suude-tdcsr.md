@@ -9,7 +9,6 @@ tags:
 aliases:
   - Suude
 linter-yaml-title-alias: Suude
-obsidianUIMode: preview
 ---
 # Suude
 *Illegal drug*  

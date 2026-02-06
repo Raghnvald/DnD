@@ -9,7 +9,6 @@ tags:
 aliases:
   - Topaz
 linter-yaml-title-alias: Topaz
-obsidianUIMode: preview
 ---
 # Topaz
 *Treasure (gemstone)*  

@@ -9,7 +9,6 @@ tags:
 aliases:
   - Gluebomb
 linter-yaml-title-alias: Gluebomb
-obsidianUIMode: preview
 ---
 # Gluebomb
 *Explosive*  

@@ -2,7 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Adult Silver Dragon
-Typ: Drache (Metallisch)
+Kategorie: Drache (Metallisch)
 Größe: Riesig
 HG: 16
 Habitat:

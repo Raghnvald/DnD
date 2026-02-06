@@ -9,7 +9,6 @@ tags:
 aliases:
   - Verminshroud (Awakened)
 linter-yaml-title-alias: Verminshroud (Awakened)
-obsidianUIMode: preview
 ---
 # Verminshroud (Awakened)
 *Wondrous item, legendary (requires attunement)*  

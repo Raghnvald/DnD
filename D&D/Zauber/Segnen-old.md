@@ -1,6 +1,7 @@
 ---
 cssclasses: json5e-spell
 Bezeichnung: Segnen
+Zaubergrad: 1
 tags:
   - Klasse/Kleriker
   - Klasse/Paladin

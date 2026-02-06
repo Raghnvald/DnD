@@ -9,7 +9,6 @@ tags:
 aliases:
   - Gold circlet set with four aquamarines
 linter-yaml-title-alias: Gold circlet set with four aquamarines
-obsidianUIMode: preview
 ---
 # Gold circlet set with four aquamarines
 *Treasure (art object)*  

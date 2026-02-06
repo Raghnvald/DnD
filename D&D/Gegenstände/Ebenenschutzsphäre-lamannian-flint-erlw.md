@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Orb of Shielding (Lamannian Flint)
+Kategorie: Wundersamer Gegenstand
 tags:
   - Gegenstand/Ausrüstung/Zauberfokus
   - Gegenstand/Einstimmung/required
@@ -13,7 +14,6 @@ aliases:
   - Lamannian Flint Orb
   - Orb of Shielding (Lamannian Flint)
 linter-yaml-title-alias: Orb of Shielding (Lamannian Flint)
-obsidianUIMode: preview
 ---
 # Orb of Shielding (Lamannian Flint)
 *Wondrous item, common (requires attunement)*  

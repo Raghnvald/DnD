@@ -1,14 +1,13 @@
 ---
 cssclasses:
   - json5e-item
-Bezeichnung: "Heward's Handy Spice Pouch"
+Bezeichnung: Heward's Handy Spice Pouch
 tags:
   - Gegenstand/Seltenheit/gewöhnlich
   - Quelle/5e/xdmg
 aliases:
-  - "Heward's Handy Spice Pouch"
-linter-yaml-title-alias: "Heward's Handy Spice Pouch"
-obsidianUIMode: preview
+  - Heward's Handy Spice Pouch
+linter-yaml-title-alias: Heward's Handy Spice Pouch
 ---
 # Heward's Handy Spice Pouch
 *Wondrous item, common*  

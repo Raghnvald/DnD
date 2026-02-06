@@ -8,7 +8,6 @@ tags:
 aliases:
   - Void Card
 linter-yaml-title-alias: Void Card
-obsidianUIMode: preview
 ---
 # Void Card
 *Wondrous item, legendary*  

@@ -19,7 +19,6 @@ classes:
 aliases:
   - Mordenkainen's Private Sanctum
 linter-yaml-title-alias: Mordenkainen's Private Sanctum
-obsidianUIMode: preview
 ---
 # Mordenkainen's Private Sanctum
 *4th-level, Abjuration*  

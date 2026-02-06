@@ -17,7 +17,6 @@ classes:
 aliases:
   - Symbol
 linter-yaml-title-alias: Symbol
-obsidianUIMode: preview
 ---
 # Symbol
 *7th-level, Abjuration*  

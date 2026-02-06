@@ -9,7 +9,6 @@ tags:
 aliases:
   - Stink Bomb
 linter-yaml-title-alias: Stink Bomb
-obsidianUIMode: preview
 ---
 # Stink Bomb
 *Explosive*  

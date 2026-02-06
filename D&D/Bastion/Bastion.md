@@ -1,0 +1,42 @@
+---
+cssclasses:
+  - json5e-note
+  - json5e-index
+---
+# Index of Bastions
+
+- [Arcane Study](Arkane_Studierstube.md)
+- [Archive](Archiv.md)
+- [Armory](Rüstkammer.md)
+- [Barrack](Kaserne.md)
+- [Bedroom](Schlafzimmer.md)
+- [Courtyard](Innenhof.md)
+- [Demiplane](Halbebene.md)
+- [Dining Room](Esszimmer.md)
+- [Gaming Hall](Spielsalon.md)
+- [Garden](Garten.md)
+- [Greenhouse](Gewächshaus.md)
+- [Guildhall](Gildenhalle.md)
+- [Kitchen](Küche.md)
+- [Laboratory](Labor.md)
+- [Library](Bibliothek.md)
+- [Meditation Chamber](Meditationskammer.md)
+- [Menagerie](Menagerie.md)
+- [Observatory](Observatorium.md)
+- [Parlor](Wohnzimmer.md)
+- [Pub](Taverne.md)
+- [Reliquary](Reliquienschrein.md)
+- [Sacristy](Sakristei.md)
+- [Sanctuary](Heiligtum.md)
+- [Sanctum](Sanktum.md)
+- [Scriptorium](Schreibstube.md)
+- [Smithy](Schmiede.md)
+- [Stable](Stall.md)
+- [Storage](Lagerraum.md)
+- [Storehouse](Lagerhaus.md)
+- [Teleportation Circle](Kreis_der_Teleportation.md)
+- [Theater](Theater.md)
+- [Training Area](Übungsbereich.md)
+- [Trophy Room](Trophäenraum.md)
+- [War Room](Einsatzzentrale.md)
+- [Workshop](Werkstatt.md)

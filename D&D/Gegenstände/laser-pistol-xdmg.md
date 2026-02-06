@@ -11,7 +11,6 @@ tags:
 aliases:
   - Laser Pistol
 linter-yaml-title-alias: Laser Pistol
-obsidianUIMode: preview
 ---
 # Laser Pistol
 *Weapon*  

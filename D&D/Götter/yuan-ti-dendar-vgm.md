@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-deity
+  - json5e-deity
 tags:
-- Quelle/5e/vgm
-- Kompendium/Götter/yuan-ti
-aliases: 
-- Dendar
+  - Quelle/5e/vgm
+  - Kompendium/Götter/yuan-ti
+aliases:
+  - Dendar
 ---
 # Dendar
 *Source: Volo's Guide to Monsters p. 93* 

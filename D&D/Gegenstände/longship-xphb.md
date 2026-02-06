@@ -3,13 +3,12 @@ cssclasses:
   - json5e-item
 Bezeichnung: Longship
 tags:
-  - Gegenstand/Fortbewegung/ship-water
+  - Gegenstand/Ausrüstung/Fahrzeug
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Longship
 linter-yaml-title-alias: Longship
-obsidianUIMode: preview
 ---
 # Longship
 *Ship, vehicle (water)*  

@@ -9,7 +9,6 @@ tags:
 aliases:
   - Scroll of Tarrasque Summoning
 linter-yaml-title-alias: Scroll of Tarrasque Summoning
-obsidianUIMode: preview
 ---
 # Scroll of Tarrasque Summoning
 *Scroll, legendary*  

@@ -1,7 +1,7 @@
 ---
 Bezeichnung: Buch
-Typ: Abenteuerausrüstung
-Eigenschaften: n/v
+Kategorie: Abenteuerausrüstung
+Eigenschaften: /
 Kst.: 25 GM
 Gew.: 2,5 kg
 tags:

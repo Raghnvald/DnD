@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-race
+  - json5e-race
 tags:
-- Quelle/5e/dmg
-- Rasse/merfolk
+  - Quelle/5e/dmg
+  - Rasse/merfolk
 aliases:
-- Merfolk
+  - Merfolk
 ---
 # Merfolk
 *Source: Dungeon Master's Guide p. 282*  

@@ -9,7 +9,6 @@ tags:
 aliases:
   - Sinda berries (10)
 linter-yaml-title-alias: Sinda berries (10)
-obsidianUIMode: preview
 ---
 # Sinda berries (10)
 *Adventuring gear*  

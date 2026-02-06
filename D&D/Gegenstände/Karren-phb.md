@@ -1,20 +1,22 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Cart
+Bezeichnung: Karren
+Kategorie: Zaumzeug, Harnisch und gezogene Fahrzeuge
+Eigenschaften: /
+Kst.: 15 GM
+Gew.: 100,0 kg
 tags:
-  - Gegenstand/Fortbewegung/land
+  - Gegenstand/Ausrüstung
+  - Gegenstand/Ausrüstung/Fahrzeug/Land
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
   - Cart
 linter-yaml-title-alias: Cart
-obsidianUIMode: preview
 ---
-# Cart
-*Vehicle (land)*  
+# Karren
+*Fahrzeug (Land)*
 
-- **Cost**: 15 gp
-- **Weight**: 200.0 lbs.
+- **Kosten**: 15 GM
+- **Gewicht**: 100,0 kg.
 
-*Source: Player's Handbook p. 157. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+*Quelle: Spielerhandbuch S. 157. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*

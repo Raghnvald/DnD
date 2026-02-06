@@ -1,8 +1,8 @@
 ---
 Bezeichnung: Beil
-Typ: Einfache Nahkampfwaffe
+Kategorie: Einfache Nahkampfwaffe
 Schaden: 1W6 Hieb
-Eigenschaften: Leicht, Wurfwaffe (Reichweite 6/18)
+Eigenschaften: Leicht, Wurfwaffe
 Kst.: 5 GM
 Gew.: 1,0 kg
 tags:
@@ -23,5 +23,4 @@ linter-yaml-title-alias: Beil
 - **Kosten**: 5 Goldmünzen
 - **Gewicht:** 1,0 kg
 
-*Source: Player's Handbook p. 149. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
-Handaxe
+*Quellen: Spielerhandbuch S. 149 Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)* 

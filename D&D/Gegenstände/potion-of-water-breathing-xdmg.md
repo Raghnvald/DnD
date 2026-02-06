@@ -7,10 +7,9 @@ tags:
   - Gegenstand/wundersam/Trank
   - Quelle/5e/xdmg
 aliases:
-  - "Potion of Water Breathing"
+  - Potion of Water Breathing
   - Potion of Water Breathing
 linter-yaml-title-alias: Potion of Water Breathing
-obsidianUIMode: preview
 ---
 # Potion of Water Breathing
 *Potion, uncommon*  

@@ -25,7 +25,6 @@ classes:
 aliases:
   - Clairvoyance
 linter-yaml-title-alias: Clairvoyance
-obsidianUIMode: preview
 ---
 # Clairvoyance
 *3rd-level, Divination*  

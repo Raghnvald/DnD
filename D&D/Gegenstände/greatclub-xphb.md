@@ -10,7 +10,6 @@ tags:
 aliases:
   - Greatclub
 linter-yaml-title-alias: Greatclub
-obsidianUIMode: preview
 ---
 # Greatclub
 *Weapon*  

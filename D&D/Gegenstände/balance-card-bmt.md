@@ -8,7 +8,6 @@ tags:
 aliases:
   - Balance Card
 linter-yaml-title-alias: Balance Card
-obsidianUIMode: preview
 ---
 # Balance Card
 *Wondrous item, legendary*  

@@ -9,7 +9,6 @@ tags:
 aliases:
   - Fine Wine (bottle)
 linter-yaml-title-alias: Fine Wine (bottle)
-obsidianUIMode: preview
 ---
 # Fine Wine (bottle)
 *Food and drink*  

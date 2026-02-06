@@ -8,7 +8,6 @@ tags:
 aliases:
   - Chest of Preserving
 linter-yaml-title-alias: Chest of Preserving
-obsidianUIMode: preview
 ---
 # Chest of Preserving
 *Wondrous item, common*  

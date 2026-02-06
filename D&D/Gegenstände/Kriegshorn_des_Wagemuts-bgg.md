@@ -6,10 +6,9 @@ tags:
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/bgg
 aliases:
-  - "War Horn of Valor"
+  - War Horn of Valor
   - War Horn of Valor
 linter-yaml-title-alias: War Horn of Valor
-obsidianUIMode: preview
 ---
 # War Horn of Valor
 *Wondrous item, rare*  

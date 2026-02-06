@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-feat
+  - json5e-feat
 tags:
-- Quelle/5e/xge
-- Kompendium/Optionales/as
+  - Quelle/5e/xge
+  - Kompendium/Optionales/as
 aliases:
-- Shadow Arrow
+  - Shadow Arrow
 ---
 # Shadow Arrow
 *Source: Xanathar's Guide to Everything p. 30*  

@@ -1,7 +1,9 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Black Opal
+Bezeichnung: Schwarzer Opal
+Kategorie: Edelstein
+Eigenschaften: /
+Kst.: 1.000 GM
+Gew.: /
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone
   - Gegenstand/Seltenheit/keine
@@ -9,13 +11,12 @@ tags:
 aliases:
   - Black Opal
 linter-yaml-title-alias: Black Opal
-obsidianUIMode: preview
 ---
-# Black Opal
-*Treasure (gemstone)*  
+# Schwarzer Opal
+*Schatz (Edelstein)*  
 
-- **Cost**: 1,000 gp
+- **Kosten**: 1.000 GM
 
-A translucent dark green with black mottling and golden flecks gemstone.
+Ein lichtdurchlässiger, dunkelgrüner Edelstein mit schwarzer Marmorierung und goldenen Flecken.
 
-*Source: Dungeon Master's Guide p. 134*
+*Quelle: Spielleiterhandbuch S. 134*

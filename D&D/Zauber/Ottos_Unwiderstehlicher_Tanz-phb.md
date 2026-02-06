@@ -15,7 +15,6 @@ classes:
 aliases:
   - Otto's Irresistible Dance
 linter-yaml-title-alias: Otto's Irresistible Dance
-obsidianUIMode: preview
 ---
 # Otto's Irresistible Dance
 *6th-level, Enchantment*  

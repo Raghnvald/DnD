@@ -9,7 +9,6 @@ tags:
 aliases:
   - Paper
 linter-yaml-title-alias: Paper
-obsidianUIMode: preview
 ---
 # Paper
 *Adventuring gear*  

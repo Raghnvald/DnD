@@ -11,7 +11,6 @@ tags:
 aliases:
   - Red Dragon Scale Mail
 linter-yaml-title-alias: Red Dragon Scale Mail
-obsidianUIMode: preview
 ---
 # Red Dragon Scale Mail
 *Medium armor, major, very rare (requires attunement)*  

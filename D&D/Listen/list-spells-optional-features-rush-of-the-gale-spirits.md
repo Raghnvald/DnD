@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Zauber/list/optfeature/rush-of-the-gale-spirits
+  - Zauber/list/optfeature/rush-of-the-gale-spirits
 aliases:
-- Spells for Rush of the Gale Spirits
+  - Spells for Rush of the Gale Spirits
 ---
 # Spells for Rush of the Gale Spirits
 

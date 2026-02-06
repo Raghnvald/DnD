@@ -9,7 +9,6 @@ tags:
 aliases:
   - Kristallkugel der Telepathie
 linter-yaml-title-alias: Kristallkugel der Telepathie
-obsidianUIMode: preview
 ---
 # Kristallkugel der Telepathie
 *Wundersamer Gegenstand, legendär (benötigt Einstimmung)*  

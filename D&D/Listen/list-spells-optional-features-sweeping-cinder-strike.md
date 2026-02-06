@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Zauber/list/optfeature/sweeping-cinder-strike
+  - Zauber/list/optfeature/sweeping-cinder-strike
 aliases:
-- Spells for Sweeping Cinder Strike
+  - Spells for Sweeping Cinder Strike
 ---
 # Spells for Sweeping Cinder Strike
 

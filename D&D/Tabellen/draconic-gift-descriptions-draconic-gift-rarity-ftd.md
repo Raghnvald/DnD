@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Quelle/5e/ftd
+  - Quelle/5e/ftd
 aliases:
-- Draconic Gift Descriptions; Draconic Gift Rarity
+  - Draconic Gift Descriptions; Draconic Gift Rarity
 ---
 # Draconic Gift Descriptions; Draconic Gift Rarity
 *Source: Fizban's Treasury of Dragons p. 28* 

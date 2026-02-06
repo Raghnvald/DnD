@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Sun
+Kategorie: Währung
 tags:
   - Gegenstand/Ausrüstung/treasure-coinage
   - Gegenstand/Seltenheit/keine
@@ -9,7 +10,6 @@ tags:
 aliases:
   - Sun
 linter-yaml-title-alias: Sun
-obsidianUIMode: preview
 ---
 # Sun
 *Treasure (coinage)*  

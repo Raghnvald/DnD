@@ -1,6 +1,6 @@
 ---
 Bezeichnung: Schild der Weitsicht
-Typ: Rüstung
+Kategorie: Rüstung
 Rüstung: Schild
 Eigenschaften: /
 Kst.: /

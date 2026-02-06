@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Ink Pen
+Kategorie: Abenteuerausrüstung
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
@@ -9,7 +10,6 @@ tags:
 aliases:
   - Ink Pen
 linter-yaml-title-alias: Ink Pen
-obsidianUIMode: preview
 ---
 # Ink Pen
 *Adventuring gear*  

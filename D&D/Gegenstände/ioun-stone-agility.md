@@ -9,7 +9,6 @@ tags:
 aliases:
   - Ioun Stone, Agility
 linter-yaml-title-alias: Ioun Stone, Agility
-obsidianUIMode: preview
 ---
 # Ioun Stone, Agility
 *Wondrous item, major, very rare (requires attunement)*  

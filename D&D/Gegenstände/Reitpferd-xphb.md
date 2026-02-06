@@ -9,7 +9,6 @@ tags:
 aliases:
   - Riding Horse
 linter-yaml-title-alias: Riding Horse
-obsidianUIMode: preview
 ---
 # Riding Horse
 *Mount*  

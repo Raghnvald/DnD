@@ -67,7 +67,6 @@ aliases:
   - Corpse Slayer Whip
   - Corpse Slayer Yklwa
 linter-yaml-title-alias: Corpse Slayer
-obsidianUIMode: preview
 ---
 # Corpse Slayer
 *Rare (requires attunement)*  

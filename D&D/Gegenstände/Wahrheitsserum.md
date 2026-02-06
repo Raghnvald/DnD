@@ -1,9 +1,9 @@
 ---
 Bezeichnung: Wahrheitsserum (Einnahme)
-Typ: Gift
+Kategorie: Gift
 Eigenschaften: Gift
 Kst.: 150 GM
-Gew.: n/v
+Gew.: /
 tags:
   - Gegenstand/Ausrüstung/Gift
   - Gegenstand/Eigenschaft/Gift

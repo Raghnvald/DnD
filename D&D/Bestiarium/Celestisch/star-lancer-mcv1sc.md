@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- Quelle/5e/mcv1sc
-- Monster/HG/2
-- Monster/Größe/Groß
-- Monster/Typ/Himmlische
+  - Quelle/5e/mcv1sc
+  - Monster/HG/2
+  - Monster/Größe/Groß
+  - Monster/Typ/Himmlische
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Star Lancer
+  - Star Lancer
 ---
 # [Star Lancer](3-Mechanics\CLI\bestiary\celestial/star-lancer-mcv1sc.md)
 *Source: Monstrous Compendium Volume 1: Spelljammer Creatures p. 12*  

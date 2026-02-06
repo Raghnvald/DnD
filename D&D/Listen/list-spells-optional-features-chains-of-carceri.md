@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Zauber/list/optfeature/chains-of-carceri
+  - Zauber/list/optfeature/chains-of-carceri
 aliases:
-- Spells for Chains of Carceri
+  - Spells for Chains of Carceri
 ---
 # Spells for Chains of Carceri
 

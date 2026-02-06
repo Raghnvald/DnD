@@ -15,7 +15,6 @@ classes:
 aliases:
   - Telepathy
 linter-yaml-title-alias: Telepathy
-obsidianUIMode: preview
 ---
 # Telepathy
 *8th-level, Evocation*  

@@ -28,7 +28,6 @@ classes:
 aliases:
   - Wall of Fire
 linter-yaml-title-alias: Wall of Fire
-obsidianUIMode: preview
 ---
 # Wall of Fire
 *4th-level, Evocation*  

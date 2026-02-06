@@ -19,7 +19,6 @@ classes:
 aliases:
   - Beacon of Hope
 linter-yaml-title-alias: Beacon of Hope
-obsidianUIMode: preview
 ---
 # Beacon of Hope
 *Bann des 3. Grades*

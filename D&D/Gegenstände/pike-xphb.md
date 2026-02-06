@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Pike
-Typ: Nahkampf-Kriegswaffe
+Kategorie: Nahkampf-Kriegswaffe
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/Kriegswaffe
@@ -11,7 +11,6 @@ tags:
 aliases:
   - Pike
 linter-yaml-title-alias: Pike
-obsidianUIMode: preview
 ---
 # Pike
 *Weapon*  

@@ -1,23 +1,23 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: "Climber's Kit"
+Bezeichnung: Kletterausrüstung
+Kategorie: Abenteuerausrüstung
+Eigenschaften: /
+Kst.: 25 GM
+Gew.: 6,0 kg
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - "Climber's Kit"
   - Climber's Kit
-linter-yaml-title-alias: "Climber's Kit"
-obsidianUIMode: preview
+linter-yaml-title-alias: Climber's Kit
 ---
-# Climber's Kit
-*Adventuring gear*  
+# Kletterausrüstung
+*Abenteuerausrüstung*
 
-- **Cost**: 25 gp
-- **Weight**: 12.0 lbs.
+- **Kosten**: 25 GM
+- **Gewicht**: 6,0 k.g.
 
-A climber's kit includes special pitons, boot tips, gloves, and a harness. You can use the climber's kit as an action to anchor yourself; when you do, you can't fall more than 25 feet from the point where you anchored yourself, and you can't climb more than 25 feet away from that point without undoing the anchor.
+Eine Kletterausrüstung beinhaltet spezielle Felshaken, Steigeisen, Handschuhe und einen Klettergurt. Als Aktion kannst du die Kletterausrüstung nutzen, um dich in einer Wand zu verankern. Von dem Punkt, an dem du dich verankert hast, kannst du nicht tiefer als 7,50 m fallen und dich nicht weiter als 7,50 m entfernen, ohne die Verankerung zu lösen.
 
-*Source: Player's Handbook p. 151. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+*Quelle: Spielerhandbuch S. 151. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*

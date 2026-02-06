@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Quelle/5e/bgg
+  - Quelle/5e/bgg
 aliases:
-- Rejecting the Ordning
+  - Rejecting the Ordning
 ---
 # Rejecting the Ordning
 *Source: Bigby Presents: Glory of the Giants p. 26* 

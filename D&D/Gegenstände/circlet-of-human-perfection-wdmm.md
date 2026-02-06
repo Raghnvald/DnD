@@ -10,7 +10,6 @@ tags:
 aliases:
   - Circlet of Human Perfection
 linter-yaml-title-alias: Circlet of Human Perfection
-obsidianUIMode: preview
 ---
 # Circlet of Human Perfection
 *Uncommon (requires attunement by a humanoid)*  

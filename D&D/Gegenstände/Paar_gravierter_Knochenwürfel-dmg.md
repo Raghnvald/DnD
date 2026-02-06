@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Pair of engraved bone dice
+Kategorie: Kunstobjekt
 tags:
   - Gegenstand/Ausrüstung/treasure-art-object
   - Gegenstand/Seltenheit/keine
@@ -9,7 +10,6 @@ tags:
 aliases:
   - Pair of engraved bone dice
 linter-yaml-title-alias: Pair of engraved bone dice
-obsidianUIMode: preview
 ---
 # Pair of engraved bone dice
 *Treasure (art object)*  

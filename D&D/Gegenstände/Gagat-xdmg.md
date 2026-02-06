@@ -9,7 +9,6 @@ tags:
 aliases:
   - Jet
 linter-yaml-title-alias: Jet
-obsidianUIMode: preview
 ---
 # Jet
 *Treasure (gemstone)*  

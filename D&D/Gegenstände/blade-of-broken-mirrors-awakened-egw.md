@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Blade of Broken Mirrors (Awakened)
-Typ: Einfache Nahkampfwaffe
+Kategorie: Einfache Nahkampfwaffe
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/Artefakt
@@ -12,7 +12,6 @@ tags:
 aliases:
   - Blade of Broken Mirrors (Awakened)
 linter-yaml-title-alias: Blade of Broken Mirrors (Awakened)
-obsidianUIMode: preview
 ---
 # Blade of Broken Mirrors (Awakened)
 *Weapon ([dagger](/3-Mechanics/CLI/items/dagger-xphb.md)), artifact (requires attunement by a humanoid)*  

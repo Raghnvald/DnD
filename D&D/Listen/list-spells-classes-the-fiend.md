@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Zauber/list/subclass/the-fiend
+  - Zauber/list/subclass/the-fiend
 aliases:
-- Spells for The Fiend
+  - Spells for The Fiend
 ---
 # Spells for The Fiend
 

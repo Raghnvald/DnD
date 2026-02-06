@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Mace of the Black Crown (Dormant)
-Typ: Einfache Nahkampfwaffe
+Kategorie: Einfache Nahkampfwaffe
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/Artefakt
@@ -12,7 +12,6 @@ tags:
 aliases:
   - Mace of the Black Crown (Dormant)
 linter-yaml-title-alias: Mace of the Black Crown (Dormant)
-obsidianUIMode: preview
 ---
 # Mace of the Black Crown (Dormant)
 *Weapon ([mace](/3-Mechanics/CLI/items/mace-xphb.md)), artifact (requires attunement)*  

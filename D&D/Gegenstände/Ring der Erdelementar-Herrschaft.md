@@ -10,7 +10,6 @@ tags:
 aliases:
   - Ring of Earth Elemental Command
 linter-yaml-title-alias: Ring of Earth Elemental Command
-obsidianUIMode: preview
 ---
 # Ring of Earth Elemental Command
 *Ring, major, legendary (requires attunement)*  

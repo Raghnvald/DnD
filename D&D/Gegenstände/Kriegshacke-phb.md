@@ -1,8 +1,8 @@
 ---
 cssclasses:
   - json5e-item
-Bezeichnung: War Pick
-Typ: Nahkampf-Kriegswaffe
+Bezeichnung: Kriegshacke
+Kategorie: Nahkampf-Kriegswaffe
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/Kriegswaffe
@@ -11,7 +11,6 @@ tags:
 aliases:
   - War Pick
 linter-yaml-title-alias: War Pick
-obsidianUIMode: preview
 ---
 # War Pick
 *Weapon*  

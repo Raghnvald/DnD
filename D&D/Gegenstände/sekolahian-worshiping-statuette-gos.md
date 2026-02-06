@@ -8,7 +8,6 @@ tags:
 aliases:
   - Sekolahian Worshiping Statuette
 linter-yaml-title-alias: Sekolahian Worshiping Statuette
-obsidianUIMode: preview
 ---
 # Sekolahian Worshiping Statuette
 *Wondrous item, common*  

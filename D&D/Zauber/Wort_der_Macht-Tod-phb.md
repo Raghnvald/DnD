@@ -19,7 +19,6 @@ classes:
 aliases:
   - Power Word Kill
 linter-yaml-title-alias: Power Word Kill
-obsidianUIMode: preview
 ---
 # Power Word Kill
 *9th-level, Enchantment*  

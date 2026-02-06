@@ -21,7 +21,6 @@ classes:
 aliases:
   - Evard's Black Tentacles
 linter-yaml-title-alias: Evard's Black Tentacles
-obsidianUIMode: preview
 ---
 # Evard's Black Tentacles
 *4th-level, Conjuration*  

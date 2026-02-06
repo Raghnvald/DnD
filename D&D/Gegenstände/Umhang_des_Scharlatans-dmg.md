@@ -8,7 +8,6 @@ tags:
 aliases:
   - Cape of the Mountebank
 linter-yaml-title-alias: Cape of the Mountebank
-obsidianUIMode: preview
 ---
 # Cape of the Mountebank
 *Wondrous item, major, rare*  

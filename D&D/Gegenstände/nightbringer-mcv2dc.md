@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Nightbringer
-Typ: Einfache Nahkampfwaffe
+Kategorie: Einfache Nahkampfwaffe
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -12,7 +12,6 @@ tags:
 aliases:
   - Nightbringer
 linter-yaml-title-alias: Nightbringer
-obsidianUIMode: preview
 ---
 # Nightbringer
 *Weapon (mace), legendary (requires attunement)*  

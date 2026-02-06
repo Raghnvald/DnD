@@ -1,6 +1,7 @@
 ---
 cssclasses: json5e-spell
 Bezeichnung: Tierbote
+Zaubergrad: 2
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide

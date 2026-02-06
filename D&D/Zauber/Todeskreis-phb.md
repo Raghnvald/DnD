@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Todeskreis
 Zaubergrad: 6
-Zeitaufwand: 
-Reichweite: 
-Komponenten: 
-Wirkungsdauer: 
-Angriff: 
-Schaden: 
+Zeitaufwand:
+Reichweite:
+Komponenten:
+Wirkungsdauer:
+Angriff:
+Schaden:
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Hexenmeister
@@ -23,7 +23,6 @@ classes:
 aliases:
   - Circle of Death
 linter-yaml-title-alias: Todeskreis
-obsidianUIMode: preview
 ---
 # Todeskreis
 *Nekromantie des 6. Grades* 

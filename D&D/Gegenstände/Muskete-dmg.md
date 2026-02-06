@@ -1,6 +1,6 @@
 ---
-Bezeichnung: Musket
-Typ: Fernkampf-Kriegswaffe
+Bezeichnung: Muskete
+Kategorie: Fernkampf-Kriegswaffe
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/Fernkampf

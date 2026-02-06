@@ -17,7 +17,7 @@ Habitat:
   - Küste
   - Sumpf
   - Unterreich
-Typ: Aberration
+Kategorie: Aberration
 Größe: Groß
 HG: 4
 status: WIP

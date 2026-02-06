@@ -3,13 +3,12 @@ cssclasses:
   - json5e-item
 Bezeichnung: Warship
 tags:
-  - Gegenstand/Fortbewegung/ship-water
+  - Gegenstand/Ausrüstung/Fahrzeug
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Warship
 linter-yaml-title-alias: Warship
-obsidianUIMode: preview
 ---
 # Warship
 *Ship, vehicle (water)*  

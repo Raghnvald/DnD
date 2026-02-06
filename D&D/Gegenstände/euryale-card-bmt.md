@@ -8,7 +8,6 @@ tags:
 aliases:
   - Euryale Card
 linter-yaml-title-alias: Euryale Card
-obsidianUIMode: preview
 ---
 # Euryale Card
 *Wondrous item, legendary*  

@@ -2,7 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Emerald Greatwyrm
-Typ: Drache (Edelstein)
+Kategorie: Drache (Edelstein)
 Größe: Gigantisch
 HG: 26
 Habitat:

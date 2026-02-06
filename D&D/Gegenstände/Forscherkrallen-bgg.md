@@ -1,16 +1,14 @@
 ---
 cssclasses:
   - json5e-item
-Bezeichnung: "Delver's Claws"
+Bezeichnung: Delver's Claws
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/bgg
 aliases:
-  - "Delver's Claws"
   - Delver's Claws
-linter-yaml-title-alias: "Delver's Claws"
-obsidianUIMode: preview
+linter-yaml-title-alias: Delver's Claws
 ---
 # Delver's Claws
 *Wondrous item, rare (requires attunement)*  

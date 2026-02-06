@@ -9,7 +9,6 @@ tags:
 aliases:
   - Bundle of sheet music representing the lost dirges of a famous composer
 linter-yaml-title-alias: Bundle of sheet music representing the lost dirges of a famous composer
-obsidianUIMode: preview
 ---
 # Bundle of sheet music representing the lost dirges of a famous composer
 *Treasure (art object)*  

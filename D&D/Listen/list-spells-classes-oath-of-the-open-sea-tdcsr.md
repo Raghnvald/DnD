@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Zauber/list/subclass/oath-of-the-open-sea
+  - Zauber/list/subclass/oath-of-the-open-sea
 aliases:
-- Spells for Oath of the Open Sea
+  - Spells for Oath of the Open Sea
 ---
 # Spells for Oath of the Open Sea
 

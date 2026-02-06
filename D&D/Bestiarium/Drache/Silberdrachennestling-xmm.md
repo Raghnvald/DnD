@@ -2,7 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Silver Dragon Wyrmling
-Typ: Drache (Metallisch)
+Kategorie: Drache (Metallisch)
 Größe: Mittelgroß
 HG: 2
 Habitat:

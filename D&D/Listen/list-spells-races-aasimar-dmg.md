@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Zauber/list/race/aasimar
+  - Zauber/list/race/aasimar
 aliases:
-- Spells for Aasimar
+  - Spells for Aasimar
 ---
 # Spells for Aasimar
 

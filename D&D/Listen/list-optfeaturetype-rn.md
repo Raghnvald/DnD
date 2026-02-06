@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Quelle/5e/tce
+  - Quelle/5e/tce
 aliases:
-- Rune Knight Rune
+  - Rune Knight Rune
 ---
 # Rune Knight Rune
 *Source: Tasha's Cauldron of Everything* 

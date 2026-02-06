@@ -21,7 +21,6 @@ classes:
 aliases:
   - Conjure Minor Elementals
 linter-yaml-title-alias: Conjure Minor Elementals
-obsidianUIMode: preview
 ---
 # Conjure Minor Elementals
 *4th-level, Conjuration*  

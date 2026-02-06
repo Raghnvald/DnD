@@ -9,7 +9,6 @@ tags:
 aliases:
   - Aerenal Trinket
 linter-yaml-title-alias: Aerenal Trinket
-obsidianUIMode: preview
 ---
 # Aerenal Trinket
 *Adventuring gear*  

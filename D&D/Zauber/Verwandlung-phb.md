@@ -26,7 +26,6 @@ classes:
 aliases:
   - Polymorph
 linter-yaml-title-alias: Polymorph
-obsidianUIMode: preview
 ---
 # Polymorph
 *4th-level, Transmutation*  

@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Quelle/5e/mm
+  - Quelle/5e/mm
 aliases:
-- Hit Points; Hit Dice by Size
+  - Hit Points; Hit Dice by Size
 ---
 # Hit Points; Hit Dice by Size
 *Source: Monster Manual p. 7* 

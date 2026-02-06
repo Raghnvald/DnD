@@ -2,7 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Adult Crystal Dragon
-Typ: Drache (Edelstein)
+Kategorie: Drache (Edelstein)
 Größe: Riesig
 HG: 12
 Habitat:

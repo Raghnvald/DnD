@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Rain Catcher
+Kategorie: Abenteuerausrüstung
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
@@ -9,7 +10,6 @@ tags:
 aliases:
   - Rain Catcher
 linter-yaml-title-alias: Rain Catcher
-obsidianUIMode: preview
 ---
 # Rain Catcher
 *Adventuring gear*  

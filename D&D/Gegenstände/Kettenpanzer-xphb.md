@@ -8,10 +8,8 @@ tags:
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
-  - "Chain Mail"
   - Chain Mail
 linter-yaml-title-alias: Chain Mail
-obsidianUIMode: preview
 ---
 # Chain Mail
 *Heavy armor*  

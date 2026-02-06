@@ -8,7 +8,6 @@ tags:
 aliases:
   - Dust of Deliciousness
 linter-yaml-title-alias: Dust of Deliciousness
-obsidianUIMode: preview
 ---
 # Dust of Deliciousness
 *Wondrous item, uncommon*  

@@ -9,7 +9,6 @@ tags:
 aliases:
   - Brass mug with jade inlay
 linter-yaml-title-alias: Brass mug with jade inlay
-obsidianUIMode: preview
 ---
 # Brass mug with jade inlay
 *Treasure (art object)*  

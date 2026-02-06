@@ -9,7 +9,6 @@ tags:
 aliases:
   - Blight Ichor
 linter-yaml-title-alias: Blight Ichor
-obsidianUIMode: preview
 ---
 # Blight Ichor
 *Adventuring gear*  

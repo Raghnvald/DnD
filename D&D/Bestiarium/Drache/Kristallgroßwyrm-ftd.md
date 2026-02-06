@@ -2,7 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Crystal Greatwyrm
-Typ: Drache (Edelstein)
+Kategorie: Drache (Edelstein)
 Größe: Gigantisch
 tags:
   - Monster/Größe/Gigantisch

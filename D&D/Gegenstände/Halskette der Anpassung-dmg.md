@@ -9,7 +9,6 @@ tags:
 aliases:
   - Necklace of Adaptation
 linter-yaml-title-alias: Necklace of Adaptation
-obsidianUIMode: preview
 ---
 # Necklace of Adaptation
 *Wondrous item, major, uncommon (requires attunement)*  

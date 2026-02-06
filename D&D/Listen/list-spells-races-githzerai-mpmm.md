@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Zauber/list/race/githzerai
+  - Zauber/list/race/githzerai
 aliases:
-- Spells for Githzerai
+  - Spells for Githzerai
 ---
 # Spells for Githzerai
 

@@ -1,7 +1,7 @@
 ---
 prefer-view: edit-source read
 Bezeichnung: Beschreibung
-Typ: Untoter
+Kategorie: Untoter
 Größe: Mittelgroß
 HG: 4
 Habitat: Jedes

@@ -1,7 +1,9 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Bucket
+Bezeichnung: Eimer
+Kategorie: Behälter
+Eigenschaften: /
+Kst.: 2 KM
+Gew.: 1,0 kg
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
@@ -9,14 +11,13 @@ tags:
 aliases:
   - Bucket
 linter-yaml-title-alias: Bucket
-obsidianUIMode: preview
 ---
-# Bucket
-*Adventuring gear*  
+# Eimer
+*Abenteuerausrüstung*  
 
-- **Cost**: 5 cp
-- **Weight**: 2.0 lbs.
+- **Kosten**: 2 KM
+- **Gewicht**: 1,0 kg.
 
-A bucket holds 3 gallons of liquid or ½ cubic foot of solids.
+Ein Eimer fasst 12,0 Liter.
 
-*Source: Player's Handbook p. 153. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+*Quelle: Spielerhandbuch S. 153. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*

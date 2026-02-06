@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Zauber/list/race/firbolg
+  - Zauber/list/race/firbolg
 aliases:
-- Spells for Firbolg
+  - Spells for Firbolg
 ---
 # Spells for Firbolg
 

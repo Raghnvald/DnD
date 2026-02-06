@@ -17,7 +17,6 @@ classes:
 aliases:
   - Shapechange
 linter-yaml-title-alias: Shapechange
-obsidianUIMode: preview
 ---
 # Shapechange
 *9th-level, Transmutation*  

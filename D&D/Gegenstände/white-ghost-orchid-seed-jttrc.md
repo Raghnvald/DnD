@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: White Ghost Orchid Seed
+Kategorie: Abenteuerausrüstung
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
@@ -9,7 +10,6 @@ tags:
 aliases:
   - White Ghost Orchid Seed
 linter-yaml-title-alias: White Ghost Orchid Seed
-obsidianUIMode: preview
 ---
 # White Ghost Orchid Seed
 *Adventuring gear*  

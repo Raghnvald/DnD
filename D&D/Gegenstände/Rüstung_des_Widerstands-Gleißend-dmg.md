@@ -27,7 +27,6 @@ aliases:
   - Splint Armor of Radiant Resistance
   - Studded Leather Armor of Radiant Resistance
 linter-yaml-title-alias: Armor of Radiant Resistance
-obsidianUIMode: preview
 ---
 # Armor of Radiant Resistance
 *Major, rare (requires attunement)*  

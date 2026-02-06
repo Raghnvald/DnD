@@ -19,7 +19,6 @@ classes:
 aliases:
   - Feeblemind
 linter-yaml-title-alias: Feeblemind
-obsidianUIMode: preview
 ---
 # Feeblemind
 *8th-level, Enchantment*  

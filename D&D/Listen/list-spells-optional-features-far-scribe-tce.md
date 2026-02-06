@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Zauber/list/optfeature/far-scribe
+  - Zauber/list/optfeature/far-scribe
 aliases:
-- Spells for Far Scribe
+  - Spells for Far Scribe
 ---
 # Spells for Far Scribe
 

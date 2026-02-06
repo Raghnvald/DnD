@@ -7,10 +7,9 @@ tags:
   - Gegenstand/wundersam/Ring
   - Quelle/5e/xdmg
 aliases:
-  - "Ring of Force Resistance"
+  - Ring of Force Resistance
   - Ring of Force Resistance
 linter-yaml-title-alias: Ring of Force Resistance
-obsidianUIMode: preview
 ---
 # Ring of Force Resistance
 *Ring, rare*  

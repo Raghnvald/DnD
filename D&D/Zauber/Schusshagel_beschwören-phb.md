@@ -15,7 +15,6 @@ classes:
 aliases:
   - Conjure Barrage
 linter-yaml-title-alias: Conjure Barrage
-obsidianUIMode: preview
 ---
 # Conjure Barrage
 *3rd-level, Conjuration*  

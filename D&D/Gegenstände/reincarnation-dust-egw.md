@@ -8,7 +8,6 @@ tags:
 aliases:
   - Reincarnation Dust
 linter-yaml-title-alias: Reincarnation Dust
-obsidianUIMode: preview
 ---
 # Reincarnation Dust
 *Wondrous item, very rare*  

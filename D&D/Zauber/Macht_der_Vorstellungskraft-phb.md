@@ -25,7 +25,6 @@ classes:
 aliases:
   - Phantasmal Force
 linter-yaml-title-alias: Phantasmal Force
-obsidianUIMode: preview
 ---
 # Phantasmal Force
 *2nd-level, Illusion*  

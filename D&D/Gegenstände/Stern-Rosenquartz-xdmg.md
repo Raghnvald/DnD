@@ -9,7 +9,6 @@ tags:
 aliases:
   - Star rose quartz
 linter-yaml-title-alias: Star rose quartz
-obsidianUIMode: preview
 ---
 # Star rose quartz
 *Treasure (gemstone)*  

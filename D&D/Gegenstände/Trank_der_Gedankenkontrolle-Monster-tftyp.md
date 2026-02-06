@@ -9,7 +9,6 @@ tags:
 aliases:
   - Potion of Mind Control (monster)
 linter-yaml-title-alias: Potion of Mind Control (monster)
-obsidianUIMode: preview
 ---
 # Potion of Mind Control (monster)
 *Potion, very rare*  

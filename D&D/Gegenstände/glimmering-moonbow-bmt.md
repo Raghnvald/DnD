@@ -15,7 +15,6 @@ aliases:
   - Glimmering Moon Shortbow
   - Glimmering Moonbow
 linter-yaml-title-alias: Glimmering Moonbow
-obsidianUIMode: preview
 ---
 # Glimmering Moonbow
 *Rare (requires attunement)*  

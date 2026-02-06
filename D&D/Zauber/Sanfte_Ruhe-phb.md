@@ -22,7 +22,6 @@ classes:
 aliases:
   - Gentle Repose
 linter-yaml-title-alias: Gentle Repose
-obsidianUIMode: preview
 ---
 # Gentle Repose
 *2nd-level, Necromancy (ritual)*  

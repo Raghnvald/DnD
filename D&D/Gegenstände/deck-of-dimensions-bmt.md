@@ -9,7 +9,6 @@ tags:
 aliases:
   - Deck of Dimensions
 linter-yaml-title-alias: Deck of Dimensions
-obsidianUIMode: preview
 ---
 # Deck of Dimensions
 *Wondrous item, very rare (requires attunement)*  

@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Zauber/list/subrace/tiefling-mephistopheles
+  - Zauber/list/subrace/tiefling-mephistopheles
 aliases:
-- Spells for Tiefling (Mephistopheles)
+  - Spells for Tiefling (Mephistopheles)
 ---
 # Spells for Tiefling (Mephistopheles)
 

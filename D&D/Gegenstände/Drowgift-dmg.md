@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Drow Poison
+Kategorie: Gift
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
@@ -9,7 +10,6 @@ tags:
 aliases:
   - Drow Poison
 linter-yaml-title-alias: Drow Poison
-obsidianUIMode: preview
 ---
 # Drow Poison
 *Adventuring gear, poison (injury)*  

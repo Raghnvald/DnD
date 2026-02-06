@@ -9,7 +9,6 @@ tags:
 aliases:
   - Gloves of Soul Catching
 linter-yaml-title-alias: Gloves of Soul Catching
-obsidianUIMode: preview
 ---
 # Gloves of Soul Catching
 *Wondrous item, legendary (requires attunement)*  

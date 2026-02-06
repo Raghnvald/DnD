@@ -1,6 +1,6 @@
 ---
 Bezeichnung: Karaffe des endlosen Wassers
-Typ: Wundersamer Gegenstand
+Kategorie: Wundersamer Gegenstand
 Eigenschaften: n/v
 Kst.: n/v
 Gew.: 1,0 kg

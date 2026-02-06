@@ -22,7 +22,6 @@ classes:
 aliases:
   - Levitate
 linter-yaml-title-alias: Levitate
-obsidianUIMode: preview
 ---
 # Levitate
 *2nd-level, Transmutation*  

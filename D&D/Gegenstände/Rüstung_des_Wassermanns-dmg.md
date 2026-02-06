@@ -1,6 +1,6 @@
 ---
 Bezeichnung: Rüstung des Wassermanns
-Typ: Rüstung
+Kategorie: Rüstung
 Rüstung: Leicht, Mittel oder Schwer
 Eigenschaften: /
 Kst.: /
@@ -16,7 +16,7 @@ tags:
   - Gegenstand/wundersam/generic-variant
   - Quelle/5e/dmg
 aliases:
-  - "Mariner's Armor"
+  - Mariner's Armor
   - Mariner's Armor
   - Mariner's Breastplate
   - Mariner's Chain Mail
@@ -31,8 +31,7 @@ aliases:
   - Mariner's Spiked Armor
   - Mariner's Splint Armor
   - Mariner's Studded Leather Armor
-linter-yaml-title-alias: "Mariner's Armor"
-obsidianUIMode: preview
+linter-yaml-title-alias: Mariner's Armor
 ---
 # Rüstung des Wassermanns
 *Rüstung (leicht, mittelschwer oder schwer), ungewöhnlich*  

@@ -9,7 +9,6 @@ tags:
 aliases:
   - Black Sapphire
 linter-yaml-title-alias: Black Sapphire
-obsidianUIMode: preview
 ---
 # Black Sapphire
 *Treasure (gemstone)*  

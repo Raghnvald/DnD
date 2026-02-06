@@ -2,7 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Vampire
-Typ: Untoter (Gestaltwandler)
+Kategorie: Untoter (Gestaltwandler)
 Größe: Mittelgroß
 HG: 13
 Habitat:

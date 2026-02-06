@@ -30,7 +30,6 @@ classes:
 aliases:
   - Lesser Restoration
 linter-yaml-title-alias: Lesser Restoration
-obsidianUIMode: preview
 ---
 # Lesser Restoration
 *2nd-level, Abjuration*  

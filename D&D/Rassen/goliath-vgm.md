@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-race
+  - json5e-race
 tags:
-- Quelle/5e/vgm
-- Rasse/goliath
+  - Quelle/5e/vgm
+  - Rasse/goliath
 aliases:
-- Goliath
+  - Goliath
 ---
 # Goliath
 *Source: Volo's Guide to Monsters p. 108*  

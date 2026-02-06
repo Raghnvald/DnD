@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Hammer of Runic Focus
-Typ: Nahkampf-Kriegswaffe
+Kategorie: Nahkampf-Kriegswaffe
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
@@ -12,7 +12,6 @@ tags:
 aliases:
   - Hammer of Runic Focus
 linter-yaml-title-alias: Hammer of Runic Focus
-obsidianUIMode: preview
 ---
 # Hammer of Runic Focus
 *Weapon (warhammer), very rare (requires attunement)*  

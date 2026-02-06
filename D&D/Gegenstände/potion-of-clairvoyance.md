@@ -9,7 +9,6 @@ tags:
 aliases:
   - Potion of Clairvoyance
 linter-yaml-title-alias: Potion of Clairvoyance
-obsidianUIMode: preview
 ---
 # Potion of Clairvoyance
 *Potion, minor, rare*  

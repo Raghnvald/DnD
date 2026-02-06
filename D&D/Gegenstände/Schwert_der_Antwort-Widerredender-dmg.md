@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Sword of Answering (Back Talker)
-Typ: Nahkampf-Kriegswaffe
+Kategorie: Nahkampf-Kriegswaffe
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -12,7 +12,6 @@ tags:
 aliases:
   - Sword of Answering (Back Talker)
 linter-yaml-title-alias: Sword of Answering (Back Talker)
-obsidianUIMode: preview
 ---
 # Sword of Answering (Back Talker)
 *Weapon ([longsword](/3-Mechanics/CLI/items/longsword.md)), major, legendary (requires attunement by a chaotic evil creature)*  

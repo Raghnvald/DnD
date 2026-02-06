@@ -6,10 +6,8 @@ tags:
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - "Chain Mail"
   - Chain Mail
 linter-yaml-title-alias: Chain Mail
-obsidianUIMode: preview
 ---
 # Kettenpanzer
 *Heavy armor*  

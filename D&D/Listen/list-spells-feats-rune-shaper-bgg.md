@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Zauber/list/feat/rune-shaper
+  - Zauber/list/feat/rune-shaper
 aliases:
-- Spells for Rune Shaper
+  - Spells for Rune Shaper
 ---
 # Spells for Rune Shaper
 

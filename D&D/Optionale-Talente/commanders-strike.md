@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-feat
+  - json5e-feat
 tags:
-- Quelle/5e/phb
-- Kompendium/Optionales/mv-b
+  - Quelle/5e/phb
+  - Kompendium/Optionales/mv-b
 aliases:
-- Commander's Strike
+  - Commander's Strike
 ---
 # Commander's Strike
 *Source: Player's Handbook p. 74*  

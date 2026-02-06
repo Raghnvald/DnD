@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Signet Ring
+Kategorie: Abenteuerausrüstung
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
@@ -9,7 +10,6 @@ tags:
 aliases:
   - Signet Ring
 linter-yaml-title-alias: Signet Ring
-obsidianUIMode: preview
 ---
 # Signet Ring
 *Adventuring gear*  

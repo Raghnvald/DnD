@@ -17,7 +17,6 @@ classes:
 aliases:
   - Conjure Animals
 linter-yaml-title-alias: Conjure Animals
-obsidianUIMode: preview
 ---
 # Conjure Animals
 *3rd-level, Conjuration*  

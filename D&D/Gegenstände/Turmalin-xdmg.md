@@ -9,7 +9,6 @@ tags:
 aliases:
   - Tourmaline
 linter-yaml-title-alias: Tourmaline
-obsidianUIMode: preview
 ---
 # Tourmaline
 *Treasure (gemstone)*  

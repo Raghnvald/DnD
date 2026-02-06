@@ -19,7 +19,6 @@ classes:
 aliases:
   - Fabricate
 linter-yaml-title-alias: Fabricate
-obsidianUIMode: preview
 ---
 # Fabricate
 *4th-level, Transmutation*  

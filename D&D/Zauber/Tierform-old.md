@@ -1,6 +1,7 @@
 ---
 cssclasses: json5e-spell
 Bezeichnung: Tierform
+Zaubergrad: 8
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide

@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Magnifying Glass
+Kategorie: Abenteuerausrüstung
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
@@ -9,7 +10,6 @@ tags:
 aliases:
   - Magnifying Glass
 linter-yaml-title-alias: Magnifying Glass
-obsidianUIMode: preview
 ---
 # Magnifying Glass
 *Adventuring gear*  

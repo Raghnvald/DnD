@@ -1,5 +1,5 @@
 ---
-obsidianUIMode: preview
+Zaubergrad: 3
 cssclasses:
   - json5e-spell
 tags:

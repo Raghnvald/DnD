@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Wand of Orcus
+Kategorie: Zauberstab
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/Artefakt
@@ -12,7 +13,6 @@ tags:
 aliases:
   - Wand of Orcus
 linter-yaml-title-alias: Wand of Orcus
-obsidianUIMode: preview
 ---
 # Wand of Orcus
 *Weapon ([mace](/3-Mechanics/CLI/items/mace.md)), wand, artifact (requires attunement)*  

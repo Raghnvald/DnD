@@ -1,8 +1,10 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Club
-Typ: Einfache Nahkampfwaffe
+Bezeichnung: Knüppel
+Kategorie: Einfache Nahkampfwaffe
+Schaden: 1W4 Wucht
+Eigenschaften: Leicht
+Kst.: 1 SM
+Gew.: 1,0 kg
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/Einfach
@@ -11,14 +13,13 @@ tags:
 aliases:
   - Club
 linter-yaml-title-alias: Club
-obsidianUIMode: preview
 ---
-# Club
-*Weapon*  
+# Knüppel
+*Waffe*  
 
-- **Damage**: 1d4 bludgeoning
-- **Properties**: [Light](/3-Mechanics/CLI/item-properties.md#Light)
-- **Cost**: 1 sp
-- **Weight**: 2.0 lbs.
+- **Schaden**: 1d4 Wucht
+- **Eigenschaften**: [[Gegenstandseigenschaften-phb#Leicht|Leicht]]
+- **Kosten**: 1 Silbermünze
+- **Gewicht**: 2.0 lbs.
 
-*Source: Player's Handbook p. 149. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+*Quelle: Spielerhandbuch S. 149. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

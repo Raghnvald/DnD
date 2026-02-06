@@ -17,7 +17,6 @@ classes:
 aliases:
   - Modify Memory
 linter-yaml-title-alias: Modify Memory
-obsidianUIMode: preview
 ---
 # Modify Memory
 *5th-level, Enchantment*  

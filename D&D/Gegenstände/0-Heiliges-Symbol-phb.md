@@ -16,5 +16,5 @@ linter-yaml-title-alias: Heiliges Symbol
 **Gegenstände in dieser Gruppe:**
 
 - [[Amulett-phb]]
-- [[Emblem]]
-- [[Reliquie]]
+- [[Emblem-phb]]
+- [[Reliquie-phb]]

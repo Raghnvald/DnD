@@ -10,7 +10,6 @@ tags:
 aliases:
   - Sling of Giant Felling
 linter-yaml-title-alias: Sling of Giant Felling
-obsidianUIMode: preview
 ---
 # Sling of Giant Felling
 *Weapon (sling), uncommon*  

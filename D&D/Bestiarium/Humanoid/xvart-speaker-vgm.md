@@ -1,18 +1,17 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- Quelle/5e/vgm
-- Monster/HG/1-8
-- Monster/Habitat/Hügel
-- Monster/Habitat/Unterreich
-- Monster/Größe/Klein
-- Monster/Typ/Humanoid/xvart
+  - Quelle/5e/vgm
+  - Monster/HG/1-8
+  - Monster/Habitat/Hügel
+  - Monster/Habitat/Unterreich
+  - Monster/Größe/Klein
+  - Monster/Typ/Humanoid/xvart
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Xvart Speaker
+  - Xvart Speaker
 ---
 # [Xvart Speaker](3-Mechanics\CLI\bestiary\humanoid/xvart-speaker-vgm.md)
 *Source: Volo's Guide to Monsters p. 200*  

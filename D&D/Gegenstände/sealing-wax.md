@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Sealing Wax
+Kategorie: Abenteuerausrüstung
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
@@ -9,7 +10,6 @@ tags:
 aliases:
   - Sealing Wax
 linter-yaml-title-alias: Sealing Wax
-obsidianUIMode: preview
 ---
 # Sealing Wax
 *Adventuring gear*  

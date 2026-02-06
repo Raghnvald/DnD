@@ -1,8 +1,8 @@
 ---
 cssclasses:
   - json5e-item
-Bezeichnung: Flail of Tiamat
-Typ: Nahkampf-Kriegswaffe
+Bezeichnung: Flegel von Tiamat
+Kategorie: Nahkampf-Kriegswaffe
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär

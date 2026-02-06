@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Zauber/list/optfeature/eternal-mountain-defense
+  - Zauber/list/optfeature/eternal-mountain-defense
 aliases:
-- Spells for Eternal Mountain Defense
+  - Spells for Eternal Mountain Defense
 ---
 # Spells for Eternal Mountain Defense
 

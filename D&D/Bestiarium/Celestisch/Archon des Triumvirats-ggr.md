@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- Quelle/5e/ggr
-- Monster/HG/14
-- Monster/Größe/Mittelgroß
-- Monster/Typ/Himmlische
+  - Quelle/5e/ggr
+  - Monster/HG/14
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/Himmlische
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Archon of the Triumvirate
+  - Archon of the Triumvirate
 ---
 # [Archon of the Triumvirate](3-Mechanics\CLI\bestiary\celestial/archon-of-the-triumvirate-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 192*  

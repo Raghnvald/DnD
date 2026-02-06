@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Imbued Wood (Mabaran Ebony)
+Kategorie: Wundersamer Gegenstand
 tags:
   - Gegenstand/Ausrüstung/Zauberfokus
   - Gegenstand/Einstimmung/required
@@ -15,7 +16,6 @@ aliases:
   - Mabaran Ebony Staff
   - Mabaran Ebony Wand
 linter-yaml-title-alias: Imbued Wood (Mabaran Ebony)
-obsidianUIMode: preview
 ---
 # Imbued Wood (Mabaran Ebony)
 *Wondrous item, common (requires attunement)*  

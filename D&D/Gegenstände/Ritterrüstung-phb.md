@@ -6,10 +6,9 @@ tags:
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - "Plate Armor"
+  - Plate Armor
   - Plate Armor
 linter-yaml-title-alias: Plate Armor
-obsidianUIMode: preview
 ---
 # Ritterrüstung
 *Heavy armor*  

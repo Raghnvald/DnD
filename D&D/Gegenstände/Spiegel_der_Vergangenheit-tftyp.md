@@ -8,7 +8,6 @@ tags:
 aliases:
   - Mirror of the Past
 linter-yaml-title-alias: Mirror of the Past
-obsidianUIMode: preview
 ---
 # Mirror of the Past
 *Wondrous item, rare*  

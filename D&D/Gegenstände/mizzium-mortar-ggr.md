@@ -6,10 +6,9 @@ tags:
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/ggr
 aliases:
-  - "Mizzium Mortar"
+  - Mizzium Mortar
   - Mizzium Mortar
 linter-yaml-title-alias: Mizzium Mortar
-obsidianUIMode: preview
 ---
 # Mizzium Mortar
 *Wondrous item, rare*  

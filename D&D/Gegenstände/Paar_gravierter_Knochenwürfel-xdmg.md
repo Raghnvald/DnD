@@ -9,7 +9,6 @@ tags:
 aliases:
   - Pair of engraved bone dice
 linter-yaml-title-alias: Pair of engraved bone dice
-obsidianUIMode: preview
 ---
 # Pair of engraved bone dice
 *Treasure (art object)*  

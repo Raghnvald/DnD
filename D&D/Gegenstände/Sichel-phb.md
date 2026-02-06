@@ -1,8 +1,6 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Sickle
-Typ: Einfache Nahkampfwaffe
+Bezeichnung: Sichel
+Kategorie: Einfache Nahkampfwaffe
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/Einfach
@@ -11,9 +9,8 @@ tags:
 aliases:
   - Sickle
 linter-yaml-title-alias: Sickle
-obsidianUIMode: preview
 ---
-# Sickle
+# Sichel
 *Weapon*  
 
 - **Damage**: 1d4 slashing

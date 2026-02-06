@@ -1,7 +1,9 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Basket
+Bezeichnung: Korb
+Kategorie: Behälter
+Eigenschaften: /
+Kst.: 2 SM
+Gew.: 2,5 kg
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
@@ -9,14 +11,15 @@ tags:
 aliases:
   - Basket
 linter-yaml-title-alias: Basket
-obsidianUIMode: preview
 ---
-# Basket
-*Adventuring gear*  
+# Korb
+*Abenteuerausrüstung*
 
-- **Cost**: 4 sp
-- **Weight**: 2.0 lbs.
+- **Kosten**: 4 SM
+- **Gewicht**: 1,0 kg.
 
 A basket holds 2 cubic feet or 40 pounds of gear.
 
-*Source: Player's Handbook p. 153. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+Ein Korb fasst 60 Liter oder 20,0 kg. Ausrüstung.
+
+*Quelle: Spielerhandbuch S. 153. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*

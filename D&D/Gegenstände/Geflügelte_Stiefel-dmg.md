@@ -9,7 +9,6 @@ tags:
 aliases:
   - Winged Boots
 linter-yaml-title-alias: Winged Boots
-obsidianUIMode: preview
 ---
 # Winged Boots
 *Wondrous item, major, uncommon (requires attunement)*  

@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Quelle/5e/vgm
+  - Quelle/5e/vgm
 aliases:
-- Roleplaying a Giant; Giant Flaws
+  - Roleplaying a Giant; Giant Flaws
 ---
 # Roleplaying a Giant; Giant Flaws
 *Source: Volo's Guide to Monsters p. 23* 

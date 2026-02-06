@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Zauber/list/subclass/path-of-the-ancestral-guardian
+  - Zauber/list/subclass/path-of-the-ancestral-guardian
 aliases:
-- Spells for Path of the Ancestral Guardian
+  - Spells for Path of the Ancestral Guardian
 ---
 # Spells for Path of the Ancestral Guardian
 

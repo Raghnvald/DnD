@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Instrument of the Bards
+Kategorie: Wundersamer Gegenstand
 tags:
   - Gegenstand/Ausrüstung/Instrument
   - Gegenstand/Einstimmung/required
@@ -10,7 +11,6 @@ tags:
 aliases:
   - Instrument of the Bards
 linter-yaml-title-alias: Instrument of the Bards
-obsidianUIMode: preview
 ---
 # Instrument of the Bards
 *Wondrous item, instrument (requires attunement by a bard)*  

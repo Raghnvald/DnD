@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Zauber/list/subclass/path-of-the-wild-heart
+  - Zauber/list/subclass/path-of-the-wild-heart
 aliases:
-- Spells for Path of the Wild Heart
+  - Spells for Path of the Wild Heart
 ---
 # Spells for Path of the Wild Heart
 

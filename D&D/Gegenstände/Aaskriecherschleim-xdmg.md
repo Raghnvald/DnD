@@ -5,7 +5,6 @@ tags:
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xdmg
 aliases:
-  - Aaskriecherschleim
   - Carrion Crawler Mucus
 linter-yaml-title-alias: Aaskriecherschleim
 ---

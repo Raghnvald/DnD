@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Viol
+Kategorie: Werkzeug
 tags:
   - Gegenstand/Ausrüstung/Instrument
   - Gegenstand/Seltenheit/keine
@@ -9,7 +10,6 @@ tags:
 aliases:
   - Viol
 linter-yaml-title-alias: Viol
-obsidianUIMode: preview
 ---
 # Viol
 *Instrument*  

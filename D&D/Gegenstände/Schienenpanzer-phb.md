@@ -1,6 +1,6 @@
 ---
 Bezeichnung: Schienenpanzer
-Typ: Rüstung
+Kategorie: Rüstung
 Rüstung: Schwer
 Eigenschaften: n/v
 Kst.: 200 GM
@@ -13,7 +13,7 @@ tags:
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - "Splint Armor"
+  - Splint Armor
   - Splint Armor
 linter-yaml-title-alias: Splint Armor
 ---

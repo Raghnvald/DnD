@@ -9,7 +9,6 @@ tags:
 aliases:
   - Izzet Keyrune
 linter-yaml-title-alias: Izzet Keyrune
-obsidianUIMode: preview
 ---
 # Izzet Keyrune
 *Wondrous item, rare (requires attunement by a member of the Izzet guild)*  

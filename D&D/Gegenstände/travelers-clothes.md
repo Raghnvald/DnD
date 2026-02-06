@@ -1,16 +1,15 @@
 ---
 cssclasses:
   - json5e-item
-Bezeichnung: "Traveler's Clothes"
+Bezeichnung: Traveler's Clothes
+Kategorie: Abenteuerausrüstung
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - "Traveler's Clothes"
   - Traveler's Clothes
-linter-yaml-title-alias: "Traveler's Clothes"
-obsidianUIMode: preview
+linter-yaml-title-alias: Traveler's Clothes
 ---
 # Traveler's Clothes
 *Adventuring gear*  

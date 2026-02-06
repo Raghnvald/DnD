@@ -1,18 +1,18 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: "Scholar's Pack"
+Bezeichnung: Gelehrtenausrüstung
+Kategorie: Ausrüstungspaket
+Eigenschaften: /
+Kst.: 40 GM
+Gew.: 5,0 kg
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - "Scholar's Pack"
   - Scholar's Pack
-linter-yaml-title-alias: "Scholar's Pack"
-obsidianUIMode: preview
+linter-yaml-title-alias: Scholar's Pack
 ---
-# Scholar's Pack
+# Gelehrtenausrüstung
 *Adventuring gear*  
 
 - **Cost**: 40 gp

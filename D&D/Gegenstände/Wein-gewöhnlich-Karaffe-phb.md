@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Common Wine (pitcher)
+Kategorie: Essen und Trinken
 tags:
   - Gegenstand/Ausrüstung/Essen-und-Trinken
   - Gegenstand/Seltenheit/keine
@@ -9,7 +10,6 @@ tags:
 aliases:
   - Common Wine (pitcher)
 linter-yaml-title-alias: Common Wine (pitcher)
-obsidianUIMode: preview
 ---
 # Common Wine (pitcher)
 *Food and drink*  

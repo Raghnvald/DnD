@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-feat
+  - json5e-feat
 tags:
-- Quelle/5e/phb
-- Kompendium/Optionales/mm
+  - Quelle/5e/phb
+  - Kompendium/Optionales/mm
 aliases:
-- Subtle Spell
+  - Subtle Spell
 ---
 # Subtle Spell
 *Source: Player's Handbook p. 102. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  

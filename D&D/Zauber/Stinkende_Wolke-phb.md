@@ -25,7 +25,6 @@ classes:
 aliases:
   - Stinking Cloud
 linter-yaml-title-alias: Stinking Cloud
-obsidianUIMode: preview
 ---
 # Stinking Cloud
 *3rd-level, Conjuration*  

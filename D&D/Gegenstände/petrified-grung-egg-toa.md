@@ -10,7 +10,6 @@ tags:
 aliases:
   - Petrified Grung Egg
 linter-yaml-title-alias: Petrified Grung Egg
-obsidianUIMode: preview
 ---
 # Petrified Grung Egg
 *(Requires attunement by a spellcaster)*  

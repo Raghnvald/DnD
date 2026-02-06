@@ -8,7 +8,6 @@ tags:
 aliases:
   - Dust of Sneezing and Choking
 linter-yaml-title-alias: Dust of Sneezing and Choking
-obsidianUIMode: preview
 ---
 # Dust of Sneezing and Choking
 *Wondrous item, minor, uncommon*  

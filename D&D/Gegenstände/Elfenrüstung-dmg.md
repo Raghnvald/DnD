@@ -1,6 +1,5 @@
 ---
 Bezeichnung: Elfenrüstung
-Typ: Rüstung
 Rüstung: Mittel
 Eigenschaften: /
 Kst.: /

@@ -19,7 +19,6 @@ classes:
 aliases:
   - Telekinesis
 linter-yaml-title-alias: Telekinesis
-obsidianUIMode: preview
 ---
 # Telekinesis
 *5th-level, Transmutation*  

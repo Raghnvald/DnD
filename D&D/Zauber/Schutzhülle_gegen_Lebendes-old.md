@@ -1,6 +1,7 @@
 ---
 cssclasses: json5e-spell
 Bezeichnung: Schutzhülle gegen Lebendes
+Zaubergrad: 5
 tags:
   - Klasse/Druide
   - Quelle/5e/phb

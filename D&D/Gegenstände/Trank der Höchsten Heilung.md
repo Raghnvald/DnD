@@ -1,6 +1,6 @@
 ---
 Bezeichnung: Trank der Höchsten Heilung
-Typ: Trank
+Kategorie: Trank
 Eigenschaften: n/v
 Kst.: 20.000 GM
 Gew.: 0,25 kg

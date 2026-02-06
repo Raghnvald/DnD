@@ -4,11 +4,11 @@ prefer-view: edit-source read
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Death Slaad
-Typ: Aberration (Gestaltwandler)
+Kategorie: Aberration (Gestaltwandler)
 Größe: Mittelgroß
 HG: 10
 Habitat: Planar (LimbosWenn))
-image: 
+image:
 status: WIP
 tags:
   - Monster/Größe/Mittelgroß

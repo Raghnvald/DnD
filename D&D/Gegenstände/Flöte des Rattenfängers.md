@@ -1,8 +1,8 @@
 ---
 cssclasses: dnd5e-compendium
 Bezeichnung: Flöte des Rattenfängers
-Typ: Instrument
-Eigenschaften: erfordert Einstimmung
+Kategorie: Wundersamer Gegenstand
+Eigenschaften: /
 Kst.: n/v
 Gew.: 1,0 kg
 tags:

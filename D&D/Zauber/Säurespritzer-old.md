@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Säurespritzer
+Zaubergrad: 0 (Zaubertrick)
 Zeitaufwand: 1 Aktion
 Reichweite: 18 Meter
 Komponenten: V, G

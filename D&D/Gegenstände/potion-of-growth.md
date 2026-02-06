@@ -9,7 +9,6 @@ tags:
 aliases:
   - Potion of Growth
 linter-yaml-title-alias: Potion of Growth
-obsidianUIMode: preview
 ---
 # Potion of Growth
 *Potion, minor, uncommon*  

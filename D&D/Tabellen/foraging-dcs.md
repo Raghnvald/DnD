@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Quelle/5e/dmg
+  - Quelle/5e/dmg
 aliases:
-- Foraging DCs
+  - Foraging DCs
 ---
 # Foraging DCs
 *Source: Dungeon Master's Guide p. 111* 

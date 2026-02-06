@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Imbued Wood (Risian Pine)
+Kategorie: Wundersamer Gegenstand
 tags:
   - Gegenstand/Ausrüstung/Zauberfokus
   - Gegenstand/Einstimmung/required
@@ -15,7 +16,6 @@ aliases:
   - Risian Pine Staff
   - Risian Pine Wand
 linter-yaml-title-alias: Imbued Wood (Risian Pine)
-obsidianUIMode: preview
 ---
 # Imbued Wood (Risian Pine)
 *Wondrous item, common (requires attunement)*  

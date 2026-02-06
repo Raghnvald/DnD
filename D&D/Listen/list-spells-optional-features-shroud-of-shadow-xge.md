@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Zauber/list/optfeature/shroud-of-shadow
+  - Zauber/list/optfeature/shroud-of-shadow
 aliases:
-- Spells for Shroud of Shadow
+  - Spells for Shroud of Shadow
 ---
 # Spells for Shroud of Shadow
 

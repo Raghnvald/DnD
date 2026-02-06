@@ -9,7 +9,6 @@ tags:
 aliases:
   - Hematite
 linter-yaml-title-alias: Hematite
-obsidianUIMode: preview
 ---
 # Hematite
 *Treasure (gemstone)*  

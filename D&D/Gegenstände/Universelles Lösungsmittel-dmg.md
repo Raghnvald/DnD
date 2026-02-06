@@ -8,7 +8,6 @@ tags:
 aliases:
   - Universal Solvent
 linter-yaml-title-alias: Universal Solvent
-obsidianUIMode: preview
 ---
 # Universal Solvent
 *Wondrous item, minor, legendary*  

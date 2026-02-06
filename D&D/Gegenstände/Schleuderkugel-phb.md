@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Sling Bullet
+Kategorie: Munition
 tags:
   - Gegenstand/Ausrüstung/ammunition
   - Gegenstand/Seltenheit/keine

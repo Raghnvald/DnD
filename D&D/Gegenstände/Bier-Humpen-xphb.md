@@ -9,7 +9,6 @@ tags:
 aliases:
   - Ale (mug)
 linter-yaml-title-alias: Ale (mug)
-obsidianUIMode: preview
 ---
 # Ale (mug)
 *Food and drink*  

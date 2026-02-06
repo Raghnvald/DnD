@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Quelle/5e/vgm
+  - Quelle/5e/vgm
 aliases:
-- Physical Characteristics; Beholder Mouth Shape and Size
+  - Physical Characteristics; Beholder Mouth Shape and Size
 ---
 # Physical Characteristics; Beholder Mouth Shape and Size
 *Source: Volo's Guide to Monsters p. 8* 

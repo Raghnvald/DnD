@@ -11,7 +11,7 @@ statblock-link: "#^statblock"
 aliases:
   - Elder Brain Dragon
 Größe: Gigantisch
-Typ: Aberration
+Kategorie: Aberration
 HG: 22
 status: WIP
 ---

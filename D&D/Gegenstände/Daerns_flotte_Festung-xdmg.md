@@ -1,13 +1,12 @@
 ---
-Bezeichnung: "Daern's Instant Fortress"
+Bezeichnung: Daern's Instant Fortress
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/xdmg
 aliases:
-  - "Daern's Instant Fortress"
   - Daern's Instant Fortress
-linter-yaml-title-alias: "Daern's Instant Fortress"
+linter-yaml-title-alias: Daern's Instant Fortress
 ---
 # Daern's Instant Fortress
 *Wondrous item, rare (requires attunement)*  

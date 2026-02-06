@@ -19,7 +19,6 @@ classes:
 aliases:
   - Create Undead
 linter-yaml-title-alias: Create Undead
-obsidianUIMode: preview
 ---
 # Create Undead
 *6th-level, Necromancy*  

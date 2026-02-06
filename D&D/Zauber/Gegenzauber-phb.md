@@ -23,7 +23,6 @@ classes:
 aliases:
   - Counterspell
 linter-yaml-title-alias: Counterspell
-obsidianUIMode: preview
 ---
 # Counterspell
 *3rd-level, Abjuration*  

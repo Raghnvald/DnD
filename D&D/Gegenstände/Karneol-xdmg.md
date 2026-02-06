@@ -9,7 +9,6 @@ tags:
 aliases:
   - Carnelian
 linter-yaml-title-alias: Carnelian
-obsidianUIMode: preview
 ---
 # Carnelian
 *Treasure (gemstone)*  

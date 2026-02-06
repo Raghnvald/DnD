@@ -1,7 +1,9 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Amethyst
+Kategorie: Edelstein
+Eigenschaften: /
+Kst.: 100 GM
+Gew.: /
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone
   - Gegenstand/Seltenheit/keine
@@ -9,13 +11,12 @@ tags:
 aliases:
   - Amethyst
 linter-yaml-title-alias: Amethyst
-obsidianUIMode: preview
 ---
 # Amethyst
-*Treasure (gemstone)*  
+*Schatz (Edelstein)*  
 
-- **Cost**: 100 gp
+- **Kosten**: 100 GM
 
-A transparent deep purple gemstone.
+Ein durchsichtiger, dunkellila Edelstein.
 
-*Source: Dungeon Master's Guide p. 134*
+*Quelle: Spielleiterhandbuch S. 134*

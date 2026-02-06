@@ -25,7 +25,6 @@ classes:
 aliases:
   - Insect Plague
 linter-yaml-title-alias: Insect Plague
-obsidianUIMode: preview
 ---
 # Insect Plague
 *5th-level, Conjuration*  

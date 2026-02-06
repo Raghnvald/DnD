@@ -9,7 +9,6 @@ tags:
 aliases:
   - Cloak of the Bat
 linter-yaml-title-alias: Cloak of the Bat
-obsidianUIMode: preview
 ---
 # Cloak of the Bat
 *Wondrous item, major, rare (requires attunement)*  

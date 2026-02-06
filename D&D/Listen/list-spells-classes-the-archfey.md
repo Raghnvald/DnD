@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Zauber/list/subclass/the-archfey
+  - Zauber/list/subclass/the-archfey
 aliases:
-- Spells for The Archfey
+  - Spells for The Archfey
 ---
 # Spells for The Archfey
 

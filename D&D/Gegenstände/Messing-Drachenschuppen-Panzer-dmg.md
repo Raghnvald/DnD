@@ -11,7 +11,6 @@ tags:
 aliases:
   - Brass Dragon Scale Mail
 linter-yaml-title-alias: Brass Dragon Scale Mail
-obsidianUIMode: preview
 ---
 # Brass Dragon Scale Mail
 *Medium armor, major, very rare (requires attunement)*  

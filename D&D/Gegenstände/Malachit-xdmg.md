@@ -9,7 +9,6 @@ tags:
 aliases:
   - Malachite
 linter-yaml-title-alias: Malachite
-obsidianUIMode: preview
 ---
 # Malachite
 *Treasure (gemstone)*  

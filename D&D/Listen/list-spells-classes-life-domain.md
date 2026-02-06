@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Zauber/list/subclass/life-domain
+  - Zauber/list/subclass/life-domain
 aliases:
-- Spells for Life Domain
+  - Spells for Life Domain
 ---
 # Spells for Life Domain
 

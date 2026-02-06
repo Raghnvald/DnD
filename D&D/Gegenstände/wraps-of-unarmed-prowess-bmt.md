@@ -8,7 +8,6 @@ tags:
 aliases:
   - Wraps of Unarmed Prowess
 linter-yaml-title-alias: Wraps of Unarmed Prowess
-obsidianUIMode: preview
 ---
 # Wraps of Unarmed Prowess
 *Wondrous item, uncommon*  

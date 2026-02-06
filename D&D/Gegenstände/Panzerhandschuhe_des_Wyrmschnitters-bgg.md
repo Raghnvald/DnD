@@ -9,7 +9,6 @@ tags:
 aliases:
   - Wyrmreaver Gauntlets
 linter-yaml-title-alias: Wyrmreaver Gauntlets
-obsidianUIMode: preview
 ---
 # Wyrmreaver Gauntlets
 *Wondrous item, very rare (requires attunement)*  

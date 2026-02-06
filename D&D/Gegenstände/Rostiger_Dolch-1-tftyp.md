@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Junky +1 Dagger
-Typ: Einfache Nahkampfwaffe
+Kategorie: Einfache Nahkampfwaffe
 tags:
   - Gegenstand/Seltenheit/unbekannt/magic
   - Gegenstand/Waffe/Einfach
@@ -11,7 +11,6 @@ tags:
 aliases:
   - Junky +1 Dagger
 linter-yaml-title-alias: Junky +1 Dagger
-obsidianUIMode: preview
 ---
 # Rostiger Dolch +1
 *Weapon (dagger)*  

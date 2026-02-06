@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Holy Water (flask)
+Kategorie: Abenteuerausrüstung
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
@@ -9,7 +10,6 @@ tags:
 aliases:
   - Holy Water (flask)
 linter-yaml-title-alias: Holy Water (flask)
-obsidianUIMode: preview
 ---
 # Holy Water (flask)
 *Adventuring gear*  

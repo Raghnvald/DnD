@@ -18,7 +18,6 @@ classes:
 aliases:
   - Create or Destroy Water
 linter-yaml-title-alias: Create or Destroy Water
-obsidianUIMode: preview
 ---
 # Create or Destroy Water
 *1st-level, Transmutation*  

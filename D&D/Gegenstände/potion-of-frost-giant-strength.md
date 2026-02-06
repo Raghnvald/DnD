@@ -9,7 +9,6 @@ tags:
 aliases:
   - Potion of Frost Giant Strength
 linter-yaml-title-alias: Potion of Frost Giant Strength
-obsidianUIMode: preview
 ---
 # Potion of Frost Giant Strength
 *Potion, minor, rare*  

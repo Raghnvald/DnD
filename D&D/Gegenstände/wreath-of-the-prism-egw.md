@@ -9,7 +9,6 @@ tags:
 aliases:
   - Wreath of the Prism
 linter-yaml-title-alias: Wreath of the Prism
-obsidianUIMode: preview
 ---
 # Wreath of the Prism
 *Wondrous item, legendary (requires attunement)*  

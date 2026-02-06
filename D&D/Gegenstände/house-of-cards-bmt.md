@@ -8,7 +8,6 @@ tags:
 aliases:
   - House of Cards
 linter-yaml-title-alias: House of Cards
-obsidianUIMode: preview
 ---
 # House of Cards
 *Wondrous item, uncommon*  

@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- Quelle/5e/ggr
-- Monster/HG/4
-- Monster/Größe/Mittelgroß
-- Monster/Typ/Elementar
+  - Quelle/5e/ggr
+  - Monster/HG/4
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/Elementar
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Blistercoil Weird
+  - Blistercoil Weird
 ---
 # [Blistercoil Weird](3-Mechanics\CLI\bestiary\elemental/blistercoil-weird-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 207*  

@@ -8,7 +8,6 @@ tags:
 aliases:
   - Lantern of Tracking
 linter-yaml-title-alias: Lantern of Tracking
-obsidianUIMode: preview
 ---
 # Lantern of Tracking
 *Wondrous item, common*  

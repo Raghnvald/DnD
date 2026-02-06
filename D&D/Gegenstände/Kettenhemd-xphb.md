@@ -8,10 +8,8 @@ tags:
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
-  - "Chain Shirt"
   - Chain Shirt
 linter-yaml-title-alias: Chain Shirt
-obsidianUIMode: preview
 ---
 # Chain Shirt
 *Medium armor*  

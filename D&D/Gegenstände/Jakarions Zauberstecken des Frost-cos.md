@@ -1,16 +1,16 @@
 ---
 cssclasses:
   - json5e-item
-Bezeichnung: "Jakarion's Staff of Frost"
+Bezeichnung: Jakarion's Staff of Frost
+Kategorie: Zauberstecken
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/Waffe/Einfach
   - Quelle/5e/cos
 aliases:
-  - "Jakarion's Staff of Frost"
   - Jakarion's Staff of Frost
-linter-yaml-title-alias: "Jakarion's Staff of Frost"
+linter-yaml-title-alias: Jakarion's Staff of Frost
 ---
 # Jakarion's Staff of Frost
 *Staff, weapon, very rare (requires attunement by a druid, sorcerer, warlock, or wizard)*  

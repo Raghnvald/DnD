@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Zauber/list/subrace/tiefling-devils-tongue
+  - Zauber/list/subrace/tiefling-devils-tongue
 aliases:
-- Spells for Tiefling (Devil's Tongue)
+  - Spells for Tiefling (Devil's Tongue)
 ---
 # Spells for Tiefling (Devil's Tongue)
 

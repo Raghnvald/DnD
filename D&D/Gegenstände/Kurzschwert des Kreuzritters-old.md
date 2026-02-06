@@ -1,6 +1,6 @@
 ---
-Bezeichnung: Kurzschwert des Kreuzritters
-Typ: Nahkampf-Kriegswaffe
+Bezeichnung: Kurzschwert des Kreuzritters-old
+Kategorie: Nahkampf-Kriegswaffe
 Schaden: 1W6+1 Stich
 Eigenschaften: Finesse, Leicht
 Kst.: n/v

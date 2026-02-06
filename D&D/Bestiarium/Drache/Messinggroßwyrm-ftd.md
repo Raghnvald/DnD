@@ -2,7 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Brass Greatwyrm
-Typ: Drache (Metallisch)
+Kategorie: Drache (Metallisch)
 Größe: Gigantisch
 HG: 28
 Habitat:

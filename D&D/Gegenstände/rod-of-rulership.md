@@ -10,7 +10,6 @@ tags:
 aliases:
   - Rod of Rulership
 linter-yaml-title-alias: Rod of Rulership
-obsidianUIMode: preview
 ---
 # Rod of Rulership
 *Rod, major, rare (requires attunement)*  

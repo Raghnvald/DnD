@@ -9,7 +9,6 @@ tags:
 aliases:
   - Goggles of Object Reading
 linter-yaml-title-alias: Goggles of Object Reading
-obsidianUIMode: preview
 ---
 # Goggles of Object Reading
 *Wondrous item, uncommon (requires attunement)*  

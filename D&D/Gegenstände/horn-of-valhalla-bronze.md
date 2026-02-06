@@ -8,7 +8,6 @@ tags:
 aliases:
   - Horn of Valhalla, Bronze
 linter-yaml-title-alias: Horn of Valhalla, Bronze
-obsidianUIMode: preview
 ---
 # Horn of Valhalla, Bronze
 *Wondrous item, major, very rare*  

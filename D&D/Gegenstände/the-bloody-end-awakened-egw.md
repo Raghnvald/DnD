@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: The Bloody End (Awakened)
-Typ: Nahkampf-Kriegswaffe
+Kategorie: Nahkampf-Kriegswaffe
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/Artefakt
@@ -12,7 +12,6 @@ tags:
 aliases:
   - The Bloody End (Awakened)
 linter-yaml-title-alias: The Bloody End (Awakened)
-obsidianUIMode: preview
 ---
 # The Bloody End (Awakened)
 *Weapon ([morningstar](/3-Mechanics/CLI/items/morningstar-xphb.md)), artifact (requires attunement)*  

@@ -1,7 +1,9 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Blue Quartz
+Bezeichnung: Blauer Quartz
+Kategorie: Edelstein
+Eigenschaften: /
+Kst.: 10 GM
+Gew.: /
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone
   - Gegenstand/Seltenheit/keine
@@ -9,13 +11,12 @@ tags:
 aliases:
   - Blue Quartz
 linter-yaml-title-alias: Blue Quartz
-obsidianUIMode: preview
 ---
-# Blue Quartz
-*Treasure (gemstone)*  
+# Blauer Quartz
+*Schatz (Edelstein)*  
 
-- **Cost**: 10 gp
+- **Kosten**: 10 GM
 
-A transparent pale blue gemstone.
+Ein durchsichtiger, blass-blauer Edelstein.
 
-*Source: Dungeon Master's Guide p. 134*
+*Quelle: Spielleiterhandbuch S. 134*

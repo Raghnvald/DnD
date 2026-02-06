@@ -17,7 +17,6 @@ classes:
 aliases:
   - Greater Restoration
 linter-yaml-title-alias: Greater Restoration
-obsidianUIMode: preview
 ---
 # Vollständige Genesung
 _Bann des 5. Grades*

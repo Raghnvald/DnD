@@ -1,7 +1,6 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Fine Clothes
+Bezeichnung: Kleidung, fein
+Kategorie: Abenteuerausrüstung
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
@@ -9,9 +8,8 @@ tags:
 aliases:
   - Fine Clothes
 linter-yaml-title-alias: Fine Clothes
-obsidianUIMode: preview
 ---
-# Fine Clothes
+# Kleidung, fein
 *Adventuring gear*  
 
 - **Cost**: 15 gp

@@ -9,7 +9,6 @@ tags:
 aliases:
   - Portable Ram
 linter-yaml-title-alias: Portable Ram
-obsidianUIMode: preview
 ---
 # Portable Ram
 *Adventuring gear*  

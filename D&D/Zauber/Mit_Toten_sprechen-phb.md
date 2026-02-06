@@ -18,7 +18,6 @@ classes:
 aliases:
   - Speak with Dead
 linter-yaml-title-alias: Speak with Dead
-obsidianUIMode: preview
 ---
 # Speak with Dead
 *3rd-level, Necromancy*  

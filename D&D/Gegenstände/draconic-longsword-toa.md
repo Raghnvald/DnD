@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Draconic Longsword
-Typ: Nahkampf-Kriegswaffe
+Kategorie: Nahkampf-Kriegswaffe
 tags:
   - Gegenstand/Seltenheit/unbekannt/magic
   - Gegenstand/Waffe/Kriegswaffe
@@ -11,7 +11,6 @@ tags:
 aliases:
   - Draconic Longsword
 linter-yaml-title-alias: Draconic Longsword
-obsidianUIMode: preview
 ---
 # Draconic Longsword
 *Weapon (longsword)*  

@@ -9,7 +9,6 @@ tags:
 aliases:
   - Pearl of Undead Detection
 linter-yaml-title-alias: Pearl of Undead Detection
-obsidianUIMode: preview
 ---
 # Pearl of Undead Detection
 

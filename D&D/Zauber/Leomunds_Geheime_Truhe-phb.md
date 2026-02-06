@@ -19,7 +19,6 @@ classes:
 aliases:
   - Leomund's Secret Chest
 linter-yaml-title-alias: Leomund's Secret Chest
-obsidianUIMode: preview
 ---
 # Leomund's Secret Chest
 *4th-level, Conjuration*  

@@ -1,6 +1,6 @@
 ---
 Bezeichnung: Rüstung der Verwundbarkeit (Stich)
-Typ: Rüstung
+Kategorie: Rüstung
 Rüstung: Schwer
 Eigenschaften: erfordert Einstimmung
 Kst.: n/v

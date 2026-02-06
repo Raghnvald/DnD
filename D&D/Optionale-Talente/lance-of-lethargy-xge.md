@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-feat
+  - json5e-feat
 tags:
-- Quelle/5e/xge
-- Kompendium/Optionales/ei
+  - Quelle/5e/xge
+  - Kompendium/Optionales/ei
 aliases:
-- Lance of Lethargy
+  - Lance of Lethargy
 ---
 # Lance of Lethargy
 *Source: Xanathar's Guide to Everything p. 57*  

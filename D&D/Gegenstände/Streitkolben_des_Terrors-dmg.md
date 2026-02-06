@@ -1,0 +1,29 @@
+---
+Bezeichnung: Streitkolben des Terrors
+Kategorie: Einfache Nahkampfwaffe
+Schaden: 1W6 Wucht
+Eigenschaften: /
+Kst.: /
+Gew.: 2,0 kg
+tags:
+  - Gegenstand/Einstimmung/required
+  - Gegenstand/Seltenheit/selten
+  - Gegenstand/Waffe/Einfach
+  - Gegenstand/Waffe/Nahkampf
+  - Quelle/5e/dmg
+aliases:
+  - Mace of Terror
+linter-yaml-title-alias: Mace of Terror
+---
+# Streitkolben des Terrors
+*Weapon ([mace](/3-Mechanics/CLI/items/mace.md)), major, rare (requires attunement)*  
+![](/3-Mechanics/CLI/items/img/mace-of-terror.webp#right)
+
+- **Schaden**: 1d6 Wucht
+- **Gewicht**: 4.0 lbs.
+
+This magic weapon has 3 charges. While holding it, you can use an action and expend 1 charge to release a wave of terror. Each creature of your choice in a 30-foot radius extending from you must succeed on a DC 15 Wisdom saving throw or become [frightened](/3-Mechanics/CLI/conditions.md#Frightened) of you for 1 minute. While it is [frightened](/3-Mechanics/CLI/conditions.md#Frightened) in this way, a creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 30 feet of you. It also can't take reactions. For its action it can use only the [Dash](/3-Mechanics/CLI/actions.md#Dash) action or try to escape from an effect that prevents it from moving. If it has nowhere it can move, the creature can use the [Dodge](/3-Mechanics/CLI/actions.md#Dodge) action. At the end of each of its turns, a creature can repeat the saving throw, ending the effect on itself on a success.
+
+The mace regains `1d3` expended charges daily at dawn.
+
+*Source: Dungeon Master's Guide p. 180. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Caltrops (bag of 20)
-  - Krähenfüße (Beutel mit 20)
 linter-yaml-title-alias: Krähenfüße (Beutel mit 20)
 ---
 # Krähenfüße (Beutel mit 20)

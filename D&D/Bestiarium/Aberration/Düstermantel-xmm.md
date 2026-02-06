@@ -11,7 +11,7 @@ statblock: inline
 statblock-link: "#^statblock"
 aliases:
   - Darkmantle
-Typ: Aberration
+Kategorie: Aberration
 Größe: Klein
 HG: 1/2
 ---

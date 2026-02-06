@@ -15,7 +15,6 @@ classes:
 aliases:
   - Mordenkainen's Magnificent Mansion
 linter-yaml-title-alias: Mordenkainen's Magnificent Mansion
-obsidianUIMode: preview
 ---
 # Mordenkainen's Magnificent Mansion
 *7th-level, Conjuration*  

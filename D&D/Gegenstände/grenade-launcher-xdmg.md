@@ -10,7 +10,6 @@ tags:
 aliases:
   - Grenade Launcher
 linter-yaml-title-alias: Grenade Launcher
-obsidianUIMode: preview
 ---
 # Grenade Launcher
 *Adventuring gear*  

@@ -9,7 +9,6 @@ tags:
 aliases:
   - Dulcimer
 linter-yaml-title-alias: Dulcimer
-obsidianUIMode: preview
 ---
 # Dulcimer
 *Instrument*  

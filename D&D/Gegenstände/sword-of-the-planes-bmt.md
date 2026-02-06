@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Sword of the Planes
-Typ: Nahkampf-Kriegswaffe (generisch)
+Kategorie: Nahkampf-Kriegswaffe (generisch)
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -19,7 +19,6 @@ aliases:
   - Shortsword of the Planes
   - Sword of the Planes
 linter-yaml-title-alias: Sword of the Planes
-obsidianUIMode: preview
 ---
 # Sword of the Planes
 *Legendary (requires attunement)*  

@@ -8,7 +8,6 @@ tags:
 aliases:
   - Spellshard
 linter-yaml-title-alias: Spellshard
-obsidianUIMode: preview
 ---
 # Spellshard
 *Wondrous item, common*  

@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-hazard
+  - json5e-hazard
 tags:
-- Quelle/5e/dmg
-- Kompendium/Bedrohung/wth
+  - Quelle/5e/dmg
+  - Kompendium/Bedrohung/wth
 aliases:
-- Extreme Heat
+  - Extreme Heat
 ---
 # Extreme Heat
 *Weather*  

@@ -25,7 +25,6 @@ classes:
 aliases:
   - Invisibility
 linter-yaml-title-alias: Invisibility
-obsidianUIMode: preview
 ---
 # Invisibility
 *2nd-level, Illusion*  

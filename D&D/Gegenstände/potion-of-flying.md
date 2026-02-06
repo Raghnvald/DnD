@@ -9,7 +9,6 @@ tags:
 aliases:
   - Potion of Flying
 linter-yaml-title-alias: Potion of Flying
-obsidianUIMode: preview
 ---
 # Potion of Flying
 *Potion, minor, very rare*  

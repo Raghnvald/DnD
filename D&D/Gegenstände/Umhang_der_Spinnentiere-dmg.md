@@ -9,7 +9,6 @@ tags:
 aliases:
   - Cloak of Arachnida
 linter-yaml-title-alias: Cloak of Arachnida
-obsidianUIMode: preview
 ---
 # Cloak of Arachnida
 *Wondrous item, major, very rare (requires attunement)*  

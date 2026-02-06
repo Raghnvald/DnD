@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-hazard
+  - json5e-hazard
 tags:
-- Quelle/5e/dmg
-- Kompendium/Bedrohung/wld
+  - Quelle/5e/dmg
+  - Kompendium/Bedrohung/wld
 aliases:
-- Quicksand
+  - Quicksand
 ---
 # Quicksand
 *Wilderness Hazard*  

@@ -10,7 +10,6 @@ tags:
 aliases:
   - Blast Scepter
 linter-yaml-title-alias: Blast Scepter
-obsidianUIMode: preview
 ---
 # Blast Scepter
 *Rod, very rare (requires attunement)*  

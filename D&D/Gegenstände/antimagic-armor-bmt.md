@@ -27,7 +27,6 @@ aliases:
   - Antimagic Splint Armor
   - Antimagic Studded Leather Armor
 linter-yaml-title-alias: Antimagic Armor
-obsidianUIMode: preview
 ---
 # Antimagic Armor
 *Very rare (requires attunement)*  

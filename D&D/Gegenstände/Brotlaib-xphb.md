@@ -9,7 +9,6 @@ tags:
 aliases:
   - Bread (loaf)
 linter-yaml-title-alias: Bread (loaf)
-obsidianUIMode: preview
 ---
 # Bread (loaf)
 *Food and drink*  

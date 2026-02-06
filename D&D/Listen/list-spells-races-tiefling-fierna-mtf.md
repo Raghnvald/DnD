@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Zauber/list/subrace/tiefling-fierna
+  - Zauber/list/subrace/tiefling-fierna
 aliases:
-- Spells for Tiefling (Fierna)
+  - Spells for Tiefling (Fierna)
 ---
 # Spells for Tiefling (Fierna)
 

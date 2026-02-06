@@ -1,6 +1,6 @@
 ---
 Bezeichnung: Trank der Riesenstärke
-Typ: Trank
+Kategorie: Trank
 Eigenschaften: n/v
 Kst.: n/v
 Gew.: 0,25 kg

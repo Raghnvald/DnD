@@ -11,7 +11,7 @@ statblock: inline
 statblock-link: "#^statblock"
 aliases:
   - Mind Flayer
-Typ:
+Kategorie:
 ---
 # [Mind Flayer](3-Mechanics\CLI\bestiary\aberration/mind-flayer.md)
 *Source: Monster Manual p. 222*  

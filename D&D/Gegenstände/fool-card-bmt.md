@@ -8,7 +8,6 @@ tags:
 aliases:
   - Fool Card
 linter-yaml-title-alias: Fool Card
-obsidianUIMode: preview
 ---
 # Fool Card
 *Wondrous item, legendary*  

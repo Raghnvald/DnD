@@ -8,7 +8,6 @@ tags:
 aliases:
   - Bead of Nourishment
 linter-yaml-title-alias: Bead of Nourishment
-obsidianUIMode: preview
 ---
 # Bead of Nourishment
 *Wondrous item, common*  

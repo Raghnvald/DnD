@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Zauber/list/subclass/oath-of-the-ancients
+  - Zauber/list/subclass/oath-of-the-ancients
 aliases:
-- Spells for Oath of the Ancients
+  - Spells for Oath of the Ancients
 ---
 # Spells for Oath of the Ancients
 

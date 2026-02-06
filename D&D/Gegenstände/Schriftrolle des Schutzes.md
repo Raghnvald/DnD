@@ -1,6 +1,6 @@
 ---
 Bezeichnung: Schriftrolle des Schutzes
-Typ: Schriftrolle
+Kategorie: Schriftrolle
 Eigenschaften: n/v
 Kst.: 2.000 GM
 Gew.: n/v

@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Zauber/list/race/aarakocra
+  - Zauber/list/race/aarakocra
 aliases:
-- Spells for Aarakocra
+  - Spells for Aarakocra
 ---
 # Spells for Aarakocra
 

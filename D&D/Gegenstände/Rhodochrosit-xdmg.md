@@ -9,7 +9,6 @@ tags:
 aliases:
   - Rhodochrosite
 linter-yaml-title-alias: Rhodochrosite
-obsidianUIMode: preview
 ---
 # Rhodochrosite
 *Treasure (gemstone)*  

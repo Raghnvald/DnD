@@ -8,7 +8,6 @@ tags:
 aliases:
   - Ruin Card
 linter-yaml-title-alias: Ruin Card
-obsidianUIMode: preview
 ---
 # Ruin Card
 *Wondrous item, legendary*  

@@ -1,9 +1,9 @@
 ---
-Bezeichnung: Assassinenblut
-Typ: Gift
+Bezeichnung: Assassinenblut (Einnahme)
+Kategorie: Gift
 Eigenschaften: Gift
 Kst.: 150 GM
-Gew.: n/v
+Gew.: /
 tags:
   - Gegenstand/Ausrüstung/Gift
   - Gegenstand/Eigenschaft/Gift

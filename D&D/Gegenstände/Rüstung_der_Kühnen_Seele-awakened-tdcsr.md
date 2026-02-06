@@ -11,7 +11,6 @@ tags:
 aliases:
   - Armor of the Valiant Soul (Awakened)
 linter-yaml-title-alias: Armor of the Valiant Soul (Awakened)
-obsidianUIMode: preview
 ---
 # Armor of the Valiant Soul (Awakened)
 *Medium armor ([scale mail](/3-Mechanics/CLI/items/scale-mail-xphb.md)), legendary (requires attunement)*  

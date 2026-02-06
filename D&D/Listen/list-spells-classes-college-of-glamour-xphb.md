@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Zauber/list/subclass/college-of-glamour
+  - Zauber/list/subclass/college-of-glamour
 aliases:
-- Spells for College of Glamour
+  - Spells for College of Glamour
 ---
 # Spells for College of Glamour
 

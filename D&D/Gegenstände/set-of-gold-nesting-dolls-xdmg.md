@@ -9,7 +9,6 @@ tags:
 aliases:
   - Set of gold nesting dolls
 linter-yaml-title-alias: Set of gold nesting dolls
-obsidianUIMode: preview
 ---
 # Set of gold nesting dolls
 *Treasure (art object)*  

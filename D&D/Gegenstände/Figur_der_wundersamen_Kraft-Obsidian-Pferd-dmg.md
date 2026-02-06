@@ -8,7 +8,6 @@ tags:
 aliases:
   - Figurine of Wondrous Power, Obsidian Steed
 linter-yaml-title-alias: Figurine of Wondrous Power, Obsidian Steed
-obsidianUIMode: preview
 ---
 # Figurine of Wondrous Power, Obsidian Steed
 *Wondrous item, major, very rare*  

@@ -27,7 +27,6 @@ aliases:
   - Splint Armor of Force Resistance
   - Studded Leather Armor of Force Resistance
 linter-yaml-title-alias: Rüstung des Energie-Widerstands
-obsidianUIMode: preview
 ---
 # Rüstung des Energie-Widerstands
 *Major, rare (requires attunement)*  

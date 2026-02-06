@@ -10,7 +10,6 @@ tags:
 aliases:
   - Ring of Shooting Stars
 linter-yaml-title-alias: Ring of Shooting Stars
-obsidianUIMode: preview
 ---
 # Ring of Shooting Stars
 *Ring, major, very rare (requires attunement outdoors at night)*  

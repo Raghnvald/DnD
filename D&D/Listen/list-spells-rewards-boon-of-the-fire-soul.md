@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Zauber/list/reward/boon-of-the-fire-soul
+  - Zauber/list/reward/boon-of-the-fire-soul
 aliases:
-- Spells for Boon of the Fire Soul
+  - Spells for Boon of the Fire Soul
 ---
 # Spells for Boon of the Fire Soul
 

@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-hazard
+  - json5e-hazard
 tags:
-- Quelle/5e/dmg
+  - Quelle/5e/dmg
 aliases:
-- Yellow Mold
+  - Yellow Mold
 ---
 # Yellow Mold
 *Generic Hazard*  

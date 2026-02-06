@@ -1,7 +1,9 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Quiver
+Bezeichnung: Köcher
+Kategorie: Behälter
+Eigenschaften: /
+Kst.: 1 GM
+Gew.: 0,5 kg
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
@@ -9,14 +11,13 @@ tags:
 aliases:
   - Quiver
 linter-yaml-title-alias: Quiver
-obsidianUIMode: preview
 ---
-# Quiver
-*Adventuring gear*  
+# Köcher
+*Abenteuerausrüstung*  
 
-- **Cost**: 1 gp
-- **Weight**: 1.0 lbs.
+- **Kosten**: 1 GM
+- **Gewicht**: 0,5 kg.
 
-A quiver can hold up to 20 [arrows](/3-Mechanics/CLI/items/arrow.md).
+Ein Köcher fasst bis zu 20 [[Pfeil-phb|Pfeile]].
 
-*Source: Player's Handbook p. 153. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+*Quelle: Spielerhandbuch S. 151. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*

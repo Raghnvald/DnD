@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-race
+  - json5e-race
 tags:
-- Quelle/5e/ftd
-- Rasse/dragonborn/chromatic
+  - Quelle/5e/ftd
+  - Rasse/dragonborn/chromatic
 aliases:
-- Dragonborn (Chromatic)
+  - Dragonborn (Chromatic)
 ---
 # Dragonborn (Chromatic)
 *Source: Fizban's Treasury of Dragons p. 10*  

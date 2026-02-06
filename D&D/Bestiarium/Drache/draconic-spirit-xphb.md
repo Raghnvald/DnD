@@ -2,7 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Draconic Spirit
-Typ: Drache
+Kategorie: Drache
 Größe: Groß
 Habitat:
   - /

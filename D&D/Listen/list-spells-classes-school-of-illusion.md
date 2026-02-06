@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Zauber/list/subclass/school-of-illusion
+  - Zauber/list/subclass/school-of-illusion
 aliases:
-- Spells for School of Illusion
+  - Spells for School of Illusion
 ---
 # Spells for School of Illusion
 

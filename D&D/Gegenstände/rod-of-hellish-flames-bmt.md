@@ -10,7 +10,6 @@ tags:
 aliases:
   - Rod of Hellish Flames
 linter-yaml-title-alias: Rod of Hellish Flames
-obsidianUIMode: preview
 ---
 # Rod of Hellish Flames
 *Rod, very rare (requires attunement by a spellcaster)*  

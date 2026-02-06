@@ -9,7 +9,6 @@ tags:
 aliases:
   - Drum
 linter-yaml-title-alias: Drum
-obsidianUIMode: preview
 ---
 # Drum
 *Instrument*  

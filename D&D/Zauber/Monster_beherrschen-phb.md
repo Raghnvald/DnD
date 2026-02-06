@@ -19,7 +19,6 @@ classes:
 aliases:
   - Dominate Monster
 linter-yaml-title-alias: Dominate Monster
-obsidianUIMode: preview
 ---
 # Dominate Monster
 *8th-level, Enchantment*  

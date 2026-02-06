@@ -9,7 +9,6 @@ tags:
 aliases:
   - Coat of the Crest
 linter-yaml-title-alias: Coat of the Crest
-obsidianUIMode: preview
 ---
 # Coat of the Crest
 *Wondrous item, rare (requires attunement)*  

@@ -8,10 +8,9 @@ tags:
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
-  - "Ring Mail"
+  - Ring Mail
   - Ring Mail
 linter-yaml-title-alias: Ring Mail
-obsidianUIMode: preview
 ---
 # Ring Mail
 *Heavy armor*  

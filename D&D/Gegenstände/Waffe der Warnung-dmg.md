@@ -69,7 +69,6 @@ aliases:
   - Whip of Warning
   - Yklwa of Warning
 linter-yaml-title-alias: Weapon of Warning
-obsidianUIMode: preview
 ---
 # Weapon of Warning
 *Major, uncommon (requires attunement)*  

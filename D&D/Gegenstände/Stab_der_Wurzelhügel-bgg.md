@@ -11,7 +11,6 @@ tags:
 aliases:
   - Staff of the Rooted Hills
 linter-yaml-title-alias: Staff of the Rooted Hills
-obsidianUIMode: preview
 ---
 # Staff of the Rooted Hills
 *Staff, weapon, rare (requires attunement)*  

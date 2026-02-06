@@ -1,6 +1,6 @@
 ---
 Bezeichnung: Rüstung des Widerstands
-Typ: Rüstung
+Kategorie: Rüstung
 Rüstung: Leicht, Mittel oder Schwer
 Eigenschaften: /
 Kst.: /

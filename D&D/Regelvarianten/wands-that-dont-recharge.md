@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Quelle/5e/dmg
+  - Quelle/5e/dmg
 aliases:
-- Wands That Don't Recharge
+  - Wands That Don't Recharge
 ---
 # Wands That Don't Recharge
 *Source: Dungeon Master's Guide p. 141* 

@@ -9,7 +9,6 @@ tags:
 aliases:
   - Potion of Mind Control (beast)
 linter-yaml-title-alias: Potion of Mind Control (beast)
-obsidianUIMode: preview
 ---
 # Potion of Mind Control (beast)
 *Potion, rare*  

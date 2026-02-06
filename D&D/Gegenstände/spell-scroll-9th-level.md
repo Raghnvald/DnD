@@ -9,7 +9,6 @@ tags:
 aliases:
   - Spell Scroll (9th Level)
 linter-yaml-title-alias: Spell Scroll (9th Level)
-obsidianUIMode: preview
 ---
 # Spell Scroll (9th Level)
 *Scroll, minor, legendary*  

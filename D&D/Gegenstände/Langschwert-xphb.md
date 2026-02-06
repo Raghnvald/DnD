@@ -2,7 +2,6 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Longsword
-Typ: Nahkampf-Kriegswaffe
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/Kriegswaffe
@@ -11,7 +10,6 @@ tags:
 aliases:
   - Longsword
 linter-yaml-title-alias: Longsword
-obsidianUIMode: preview
 ---
 # Longsword
 *Weapon*  

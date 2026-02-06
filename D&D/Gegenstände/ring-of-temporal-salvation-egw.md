@@ -10,7 +10,6 @@ tags:
 aliases:
   - Ring of Temporal Salvation
 linter-yaml-title-alias: Ring of Temporal Salvation
-obsidianUIMode: preview
 ---
 # Ring of Temporal Salvation
 *Ring, rare (requires attunement)*  

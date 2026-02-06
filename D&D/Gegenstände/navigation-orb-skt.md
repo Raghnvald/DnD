@@ -9,7 +9,6 @@ tags:
 aliases:
   - Navigation Orb
 linter-yaml-title-alias: Navigation Orb
-obsidianUIMode: preview
 ---
 # Navigation Orb
 *Wondrous item, very rare (requires attunement)*  

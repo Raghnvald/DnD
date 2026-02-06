@@ -9,7 +9,6 @@ tags:
 aliases:
   - Giant Trinket
 linter-yaml-title-alias: Giant Trinket
-obsidianUIMode: preview
 ---
 # Giant Trinket
 *Adventuring gear*  

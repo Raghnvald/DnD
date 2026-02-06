@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- Quelle/5e/ggr
-- Monster/HG/6
-- Monster/Größe/Riesig
-- Monster/Typ/Riese
+  - Quelle/5e/ggr
+  - Monster/HG/6
+  - Monster/Größe/Riesig
+  - Monster/Typ/Riese
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Bloodfray Giant
+  - Bloodfray Giant
 ---
 # [Bloodfray Giant](3-Mechanics\CLI\bestiary\giant/bloodfray-giant-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 200*  

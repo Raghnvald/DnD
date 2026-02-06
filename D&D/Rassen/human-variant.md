@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-race
+  - json5e-race
 tags:
-- Quelle/5e/phb
-- Rasse/human/variant
+  - Quelle/5e/phb
+  - Rasse/human/variant
 aliases:
-- Human (Variant)
+  - Human (Variant)
 ---
 # Human (Variant)
 *Source: Player's Handbook p. 31. Available in the Basic Rules (2014)*  

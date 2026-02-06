@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Zauber/list/race/triton
+  - Zauber/list/race/triton
 aliases:
-- Spells for Triton
+  - Spells for Triton
 ---
 # Spells for Triton
 

@@ -2,8 +2,8 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Beutel
-Typ: Behälter
-Eigenschaften: n/v
+Kategorie: Behälter
+Eigenschaften: /
 Kst.: 5 SM
 Gew.: 0,5 kg
 tags:
@@ -13,7 +13,6 @@ tags:
 aliases:
   - Pouch
 linter-yaml-title-alias: Beutel
-obsidianUIMode: preview
 ---
 # Beutel
 *Abenteuerausrüstung*  
@@ -23,4 +22,6 @@ obsidianUIMode: preview
 
 Ein Stoff- oder Lederbeutel fasst (neben anderen Dingen) bis zu 20 [[Schleuderkugel-phb|Schleuderkugeln]] oder 50 [[Blasrohrpfeil-phb|Blasrohrpfeile]]. Ein [[Materialkomponentenbeutel-phb|Materialkomponentenbeutel]], den man für Zauber verwendet, wird separat beschrieben.
 
-*Source: Player's Handbook p. 153. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+Ein Beutel fasst 6 Liter oder 3 kg. Ausrüstung.
+
+*Quelle: Spielerhandbuch S. 153. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*

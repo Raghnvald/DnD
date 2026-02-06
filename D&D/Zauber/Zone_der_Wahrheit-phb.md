@@ -19,7 +19,6 @@ classes:
 aliases:
   - Zone of Truth
 linter-yaml-title-alias: Zone of Truth
-obsidianUIMode: preview
 ---
 # Zone of Truth
 *2nd-level, Enchantment*  

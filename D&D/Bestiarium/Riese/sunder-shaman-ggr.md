@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- Quelle/5e/ggr
-- Monster/HG/10
-- Monster/Größe/Riesig
-- Monster/Typ/Riese
+  - Quelle/5e/ggr
+  - Monster/HG/10
+  - Monster/Größe/Riesig
+  - Monster/Typ/Riese
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Sunder Shaman
+  - Sunder Shaman
 ---
 # [Sunder Shaman](3-Mechanics\CLI\bestiary\giant/sunder-shaman-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 202*  

@@ -9,7 +9,6 @@ tags:
 aliases:
   - Wyvern Poison
 linter-yaml-title-alias: Wyvern Poison
-obsidianUIMode: preview
 ---
 # Wyvern Poison
 *Adventuring gear, poison (injury)*  

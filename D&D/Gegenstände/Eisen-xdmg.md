@@ -9,7 +9,6 @@ tags:
 aliases:
   - Iron
 linter-yaml-title-alias: Iron
-obsidianUIMode: preview
 ---
 # Iron
 *Trade good*  

@@ -1,7 +1,7 @@
 ---
 cssclasses:
   - json5e-item
-Bezeichnung: "Euryale's Aegis"
+Bezeichnung: Euryale's Aegis
 Rüstung: Schild
 tags:
   - Gegenstand/Einstimmung/required
@@ -9,10 +9,8 @@ tags:
   - Gegenstand/Seltenheit/legendär
   - Quelle/5e/bmt
 aliases:
-  - "Euryale's Aegis"
   - Euryale's Aegis
-linter-yaml-title-alias: "Euryale's Aegis"
-obsidianUIMode: preview
+linter-yaml-title-alias: Euryale's Aegis
 ---
 # Euryale's Aegis
 *Armor (shield), legendary (requires attunement)*  

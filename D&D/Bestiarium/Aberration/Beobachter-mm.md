@@ -2,7 +2,7 @@
 cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
 Name: Beobachter
-Typ: Aberration
+Kategorie: Aberration
 Größe: Mittelgroß
 HG: 3
 Habitat:

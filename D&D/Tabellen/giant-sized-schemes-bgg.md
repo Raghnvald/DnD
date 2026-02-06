@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Quelle/5e/bgg
+  - Quelle/5e/bgg
 aliases:
-- Giant-Sized Schemes
+  - Giant-Sized Schemes
 ---
 # Giant-Sized Schemes
 *Source: Bigby Presents: Glory of the Giants p. 57* 

@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-feat
+  - json5e-feat
 tags:
-- Quelle/5e/tce
-- Kompendium/Optionales/ai
+  - Quelle/5e/tce
+  - Kompendium/Optionales/ai
 aliases:
-- Enhanced Defense
+  - Enhanced Defense
 ---
 # Enhanced Defense
 *Source: Tasha's Cauldron of Everything p. 21*  

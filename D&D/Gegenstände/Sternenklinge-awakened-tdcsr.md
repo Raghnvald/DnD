@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Star Razor (Awakened)
-Typ: Nahkampf-Kriegswaffe
+Kategorie: Nahkampf-Kriegswaffe
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -12,7 +12,6 @@ tags:
 aliases:
   - Star Razor (Awakened)
 linter-yaml-title-alias: Star Razor (Awakened)
-obsidianUIMode: preview
 ---
 # Star Razor (Awakened)
 *Weapon ([longsword](/3-Mechanics/CLI/items/longsword-xphb.md)), legendary (requires attunement)*  

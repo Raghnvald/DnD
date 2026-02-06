@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- Quelle/5e/mcv1sc
-- Monster/HG/7
-- Monster/Größe/Gigantisch
-- Monster/Typ/Pflanze
+  - Quelle/5e/mcv1sc
+  - Monster/HG/7
+  - Monster/Größe/Gigantisch
+  - Monster/Typ/Pflanze
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Yggdrasti
+  - Yggdrasti
 ---
 # [Yggdrasti](3-Mechanics\CLI\bestiary\plant/yggdrasti-mcv1sc.md)
 *Source: Monstrous Compendium Volume 1: Spelljammer Creatures p. 13*  

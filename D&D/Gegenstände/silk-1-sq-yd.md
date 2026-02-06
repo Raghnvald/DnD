@@ -9,7 +9,6 @@ tags:
 aliases:
   - Silk (1 sq. yd.)
 linter-yaml-title-alias: Silk (1 sq. yd.)
-obsidianUIMode: preview
 ---
 # Silk (1 sq. yd.)
 *Trade good*  

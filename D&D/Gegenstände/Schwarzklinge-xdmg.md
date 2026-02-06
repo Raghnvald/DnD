@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Blackrazor
-Typ: Nahkampf-Kriegswaffe
+Kategorie: Nahkampf-Kriegswaffe
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/Artefakt

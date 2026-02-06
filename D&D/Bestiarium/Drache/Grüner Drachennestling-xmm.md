@@ -2,7 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Green Dragon Wyrmling
-Typ: Drache (Chromatisch)
+Kategorie: Drache (Chromatisch)
 Größe: Mittelgroß
 Habitat:
   - Wald

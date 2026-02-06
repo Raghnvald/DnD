@@ -8,7 +8,6 @@ tags:
 aliases:
   - Vox Seeker
 linter-yaml-title-alias: Vox Seeker
-obsidianUIMode: preview
 ---
 # Vox Seeker
 *Wondrous item, common*  

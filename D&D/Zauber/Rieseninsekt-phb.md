@@ -15,7 +15,6 @@ classes:
 aliases:
   - Giant Insect
 linter-yaml-title-alias: Giant Insect
-obsidianUIMode: preview
 ---
 # Giant Insect
 *4th-level, Transmutation*  

@@ -8,7 +8,6 @@ tags:
 aliases:
   - Fates Card
 linter-yaml-title-alias: Fates Card
-obsidianUIMode: preview
 ---
 # Fates Card
 *Wondrous item, legendary*  

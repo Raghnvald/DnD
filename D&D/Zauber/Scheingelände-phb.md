@@ -25,7 +25,6 @@ classes:
 aliases:
   - Hallucinatory Terrain
 linter-yaml-title-alias: Hallucinatory Terrain
-obsidianUIMode: preview
 ---
 # Hallucinatory Terrain
 *4th-level, Illusion*  

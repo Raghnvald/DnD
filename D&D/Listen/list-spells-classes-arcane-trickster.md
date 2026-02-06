@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Zauber/list/subclass/arcane-trickster
+  - Zauber/list/subclass/arcane-trickster
 aliases:
-- Spells for Arcane Trickster
+  - Spells for Arcane Trickster
 ---
 # Spells for Arcane Trickster
 

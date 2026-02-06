@@ -2,16 +2,15 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Ebenenholzfokus
+Kategorie: Wundersamer Gegenstand
 tags:
   - Gegenstand/Ausrüstung/Zauberfokus
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/gewöhnlich
   - Quelle/5e/erlw
 aliases:
-  - Ebenenholzfokus
   - Imbued Wood Focus
 linter-yaml-title-alias: Ebenenholzfokus
-obsidianUIMode: preview
 ---
 # Ebenenholzfokus
 *Wundersamer Gegenstand, Zauberfokus, gewöhnlich (erfordert Einstimmung)*  

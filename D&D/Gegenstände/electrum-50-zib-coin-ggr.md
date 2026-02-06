@@ -9,7 +9,6 @@ tags:
 aliases:
   - Electrum 50-Zib Coin
 linter-yaml-title-alias: Electrum 50-Zib Coin
-obsidianUIMode: preview
 ---
 # Electrum 50-Zib Coin
 *Treasure (coinage)*  

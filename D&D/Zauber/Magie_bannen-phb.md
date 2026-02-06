@@ -33,7 +33,6 @@ classes:
 aliases:
   - Dispel Magic
 linter-yaml-title-alias: Dispel Magic
-obsidianUIMode: preview
 ---
 # Dispel Magic
 *3rd-level, Abjuration*  

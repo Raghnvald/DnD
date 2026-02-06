@@ -1,8 +1,8 @@
 ---
 cssclasses:
   - json5e-item
-Bezeichnung: Dragon Slayer
-Typ: Nahkampf-Kriegswaffe
+Bezeichnung: Drachentöter
+Kategorie: Nahkampf-Kriegswaffe
 tags:
   - Gegenstand/Seltenheit/selten
   - Gegenstand/Waffe/Kriegswaffe
@@ -18,7 +18,6 @@ aliases:
   - Dragon Slayer Scimitar
   - Dragon Slayer Shortsword
 linter-yaml-title-alias: Dragon Slayer
-obsidianUIMode: preview
 ---
 # Dragon Slayer
 *Major, rare*  

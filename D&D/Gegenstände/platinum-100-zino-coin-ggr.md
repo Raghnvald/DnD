@@ -9,7 +9,6 @@ tags:
 aliases:
   - Platinum 100-Zino Coin
 linter-yaml-title-alias: Platinum 100-Zino Coin
-obsidianUIMode: preview
 ---
 # Platinum 100-Zino Coin
 *Treasure (coinage)*  

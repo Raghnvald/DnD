@@ -10,7 +10,6 @@ tags:
 aliases:
   - Ring of Regeneration
 linter-yaml-title-alias: Ring of Regeneration
-obsidianUIMode: preview
 ---
 # Ring of Regeneration
 *Ring, major, very rare (requires attunement)*  

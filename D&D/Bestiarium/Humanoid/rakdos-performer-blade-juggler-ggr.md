@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- Quelle/5e/ggr
-- Monster/HG/1
-- Monster/Größe/Mittelgroß
-- Monster/Typ/Humanoid/any-race
+  - Quelle/5e/ggr
+  - Monster/HG/1
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/Humanoid/any-race
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Rakdos Performer, Blade Juggler
+  - Rakdos Performer, Blade Juggler
 ---
 # [Rakdos Performer, Blade Juggler](3-Mechanics\CLI\bestiary\humanoid/rakdos-performer-blade-juggler-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 249*  

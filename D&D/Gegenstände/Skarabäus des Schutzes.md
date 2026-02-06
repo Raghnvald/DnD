@@ -9,7 +9,6 @@ tags:
 aliases:
   - Scarab of Protection
 linter-yaml-title-alias: Scarab of Protection
-obsidianUIMode: preview
 ---
 # Scarab of Protection
 *Wondrous item, major, legendary (requires attunement)*  

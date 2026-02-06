@@ -8,7 +8,6 @@ tags:
 aliases:
   - Coin of Delving
 linter-yaml-title-alias: Coin of Delving
-obsidianUIMode: preview
 ---
 # Coin of Delving
 *Wondrous item, common*  

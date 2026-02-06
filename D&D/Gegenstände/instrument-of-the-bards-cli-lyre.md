@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Instrument of the Bards, Cli Lyre
+Kategorie: Wundersamer Gegenstand
 tags:
   - Gegenstand/Ausrüstung/Instrument
   - Gegenstand/Einstimmung/required
@@ -10,7 +11,6 @@ tags:
 aliases:
   - Instrument of the Bards, Cli Lyre
 linter-yaml-title-alias: Instrument of the Bards, Cli Lyre
-obsidianUIMode: preview
 ---
 # Instrument of the Bards, Cli Lyre
 *Wondrous item, instrument, major, rare (requires attunement by a bard)*  

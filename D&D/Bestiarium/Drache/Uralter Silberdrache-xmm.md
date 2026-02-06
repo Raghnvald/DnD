@@ -2,7 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Ancient Silver Dragon
-Typ: Drache (Metallisch)
+Kategorie: Drache (Metallisch)
 status: WIP
 tags:
   - Monster/Größe/Gigantisch

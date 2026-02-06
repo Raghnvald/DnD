@@ -9,7 +9,6 @@ tags:
 aliases:
   - Gold jewelry box with platinum filigree
 linter-yaml-title-alias: Gold jewelry box with platinum filigree
-obsidianUIMode: preview
 ---
 # Gold jewelry box with platinum filigree
 *Treasure (art object)*  

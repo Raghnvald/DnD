@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- Quelle/5e/ggr
-- Monster/HG/1-2
-- Monster/Größe/Mittelgroß
-- Monster/Typ/Humanoid/kraul
+  - Quelle/5e/ggr
+  - Monster/HG/1-2
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/Humanoid/kraul
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Kraul Warrior
+  - Kraul Warrior
 ---
 # [Kraul Warrior](3-Mechanics\CLI\bestiary\humanoid/kraul-warrior-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 213*  

@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Longhorn
+Kategorie: Werkzeug
 tags:
   - Gegenstand/Ausrüstung/Instrument
   - Gegenstand/Seltenheit/keine
@@ -9,7 +10,6 @@ tags:
 aliases:
   - Longhorn
 linter-yaml-title-alias: Longhorn
-obsidianUIMode: preview
 ---
 # Longhorn
 *Instrument*  

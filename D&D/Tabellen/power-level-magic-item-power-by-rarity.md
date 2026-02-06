@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Quelle/5e/dmg
+  - Quelle/5e/dmg
 aliases:
-- Power Level; Magic Item Power by Rarity
+  - Power Level; Magic Item Power by Rarity
 ---
 # Power Level; Magic Item Power by Rarity
 *Source: Dungeon Master's Guide p. 285* 

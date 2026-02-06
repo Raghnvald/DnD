@@ -1,7 +1,7 @@
 ---
 Bezeichnung: Schlafsack
-Typ: Abenteuerausrüstung
-Eigenschaften: n/v 
+Kategorie: Abenteuerausrüstung
+Eigenschaften: /
 Kst.: 1 GM
 Gew.: 3,5 kg
 tags:

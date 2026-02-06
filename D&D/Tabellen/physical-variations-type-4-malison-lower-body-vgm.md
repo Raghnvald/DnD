@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Quelle/5e/vgm
+  - Quelle/5e/vgm
 aliases:
-- Physical Variations; Type 4 Malison: Lower Body
+  - Physical Variations; Type 4 Malison: Lower Body
 ---
 # Physical Variations; Type 4 Malison: Lower Body
 *Source: Volo's Guide to Monsters p. 97* 

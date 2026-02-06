@@ -10,7 +10,6 @@ tags:
 aliases:
   - Rod of Alertness
 linter-yaml-title-alias: Rod of Alertness
-obsidianUIMode: preview
 ---
 # Rod of Alertness
 *Rod, major, very rare (requires attunement)*  

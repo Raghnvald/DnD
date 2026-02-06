@@ -1,7 +1,9 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Adamantine Bar
+Bezeichnung: Adamantbarren
+Kategorie: Handelsgut
+Eigenschaften: /
+Kst.: 1.000 GM
+Gew.: 5,0 kg
 tags:
   - Gegenstand/Ausrüstung/Handelsgut
   - Gegenstand/Seltenheit/keine
@@ -9,12 +11,11 @@ tags:
 aliases:
   - Adamantine Bar
 linter-yaml-title-alias: Adamantine Bar
-obsidianUIMode: preview
 ---
-# Adamantine Bar
-*Trade good*  
+# Adamantbarren
+*Handelsgut*  
 
-- **Cost**: 1,000 gp
-- **Weight**: 10.0 lbs.
+- **Kosten**: 1.000 GM
+- **Gewicht**: 5,0 kg.
 
-*Source: Waterdeep: Dragon Heist p. 90*
+*Quelle: Waterdeep: Drachenraub S. 90*

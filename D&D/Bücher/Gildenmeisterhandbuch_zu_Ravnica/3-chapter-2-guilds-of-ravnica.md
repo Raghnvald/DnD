@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Quelle/5e/ggr
+  - Quelle/5e/ggr
 aliases:
-- Chapter 2: Guilds of Ravnica
+  - Chapter 2: Guilds of Ravnica
 ---
 # Chapter 2: Guilds of Ravnica
 *Source: Guildmasters' Guide to Ravnica, p. 29* 
 
-![](/3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/014-201.webp#center)
+![](img/014-201.webp#center)
 
 The ten guilds are the lifeblood of Ravnica, making up the foundation of its society. They are voluntary associations led by guildmasters, but that's the extent of their resemblance to the craft and merchant guilds found on most Dungeons & Dragons worlds. They include many different kinds of organizations:
 
@@ -108,7 +107,7 @@ As you're playing a character associated with one of the guilds, think about you
 
 Some adventurers do exactly what they're told, spending their careers doing the bidding of their guild superiors. Most adventuring characters, though, prefer more independence. You can roll a `d6` or choose from the options in the table below to establish a reason for the freedom enjoyed by your character.
 
-![Membership and Independence](/3-Mechanics/CLI/tables/membership-and-independence-ggr.md)
+![Membership and Independence](membership-and-independence-ggr)
 
 ### Changing Guilds
 
@@ -126,7 +125,7 @@ Your new guild doesn't give you any benefits that assume prior knowledge or expe
 
 ## Azorius Senate
 
-![](/3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/015-202.webp#center)
+![](img/015-202.webp#center)
 
 > [!quote] A quote from Doug Beyer  
 > 
@@ -294,7 +293,7 @@ Of course, whenever the members of another guild decide to operate within the la
 
 ## Boros Legion
 
-![](/3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/019-206.webp#center)
+![](img/019-206.webp#center)
 
 > [!quote] A quote from Doug Beyer  
 > 
@@ -342,7 +341,7 @@ Consider the Boros Legion for your character if one or more of the following sen
 - Smiting foes with holy radiance fills you with righteous joy.  
 - You want to protect the innocent and fight for justice.  
 
-![](/3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/020-207.webp#center)
+![](img/020-207.webp#center)
 
 #### Joining the Boros Legion
 
@@ -512,7 +511,7 @@ In your guild role, you engage in surveillance, theft, sabotage, infiltration, a
 
 If you are a spellcaster (perhaps a wizard specialized in the School of Divination, Enchantment, or Illusion), you have the skills needed to join the ranks of the most feared spellcasters on Ravnica: House Dimir's mind mages. Your basic work and role is the same as any other spy's, but you can learn to pull thoughts and memories from a person's mind, use a target's own thoughts against them, attack your foes' psyches directly to create delusions, or scour enemy minds clean.
 
-![](/3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/025-212.webp#center)
+![](img/025-212.webp#center)
 
 The [Dimir Operative](/3-Mechanics/CLI/backgrounds/dimir-operative-ggr.md) background is available for characters who are part of the Dimir guild.
 
@@ -522,7 +521,7 @@ House Dimir might send an adventuring party on missions focused on stealth and s
 
 #### Rank and Renown
 
-![](/3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/026-213.webp#center)
+![](img/026-213.webp#center)
 
 As you gain renown within House Dimir, you will be rewarded with missions of increasing importance. No formal ranks exist for you to progress through, but certain thresholds of renown indicate improvements in your standing within the guild. Perhaps most important, according to the philosophy of House Dimir, higher standing brings greater knowledge of the inner workings of Ravnica and the guild.
 

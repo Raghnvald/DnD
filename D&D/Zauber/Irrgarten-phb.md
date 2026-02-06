@@ -15,7 +15,6 @@ classes:
 aliases:
   - Maze
 linter-yaml-title-alias: Maze
-obsidianUIMode: preview
 ---
 # Maze
 *8th-level, Conjuration*  

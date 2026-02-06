@@ -1,8 +1,8 @@
 ---
 cssclasses:
   - json5e-item
-Bezeichnung: Blackrazor
-Typ: Nahkampf-Kriegswaffe
+Bezeichnung: Schwarzklinge
+Kategorie: Nahkampf-Kriegswaffe
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -12,7 +12,6 @@ tags:
 aliases:
   - Blackrazor
 linter-yaml-title-alias: Blackrazor
-obsidianUIMode: preview
 ---
 # Blackrazor
 *Weapon ([greatsword](/3-Mechanics/CLI/items/greatsword.md)), legendary (requires attunement by a creature of non-lawful alignment)*  

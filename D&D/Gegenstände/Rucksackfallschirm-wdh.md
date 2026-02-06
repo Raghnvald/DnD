@@ -9,7 +9,6 @@ tags:
 aliases:
   - Backpack Parachute
 linter-yaml-title-alias: Backpack Parachute
-obsidianUIMode: preview
 ---
 # Backpack Parachute
 

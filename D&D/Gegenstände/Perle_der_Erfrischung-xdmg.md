@@ -7,9 +7,7 @@ tags:
   - Quelle/5e/xdmg
 aliases:
   - Bead of Refreshment
-  - Flaschenverschluss-Korken, geprägt mit Blattgold und mit Amethysten besetzt
 linter-yaml-title-alias: Bead of Refreshment
-obsidianUIMode: preview
 ---
 # Bead of Refreshment
 *Wondrous item, common*  

@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Zauber/list/feat/telekinetic
+  - Zauber/list/feat/telekinetic
 aliases:
-- Spells for Telekinetic
+  - Spells for Telekinetic
 ---
 # Spells for Telekinetic
 

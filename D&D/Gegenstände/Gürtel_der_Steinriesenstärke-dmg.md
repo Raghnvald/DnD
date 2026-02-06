@@ -9,7 +9,6 @@ tags:
 aliases:
   - Belt of Stone Giant Strength
 linter-yaml-title-alias: Belt of Stone Giant Strength
-obsidianUIMode: preview
 ---
 # Belt of Stone Giant Strength
 *Wondrous item, major, very rare (requires attunement)*  

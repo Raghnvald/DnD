@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Quelle/5e/dmg
+  - Quelle/5e/dmg
 aliases:
-- Becoming Lost; Wilderness Navigation
+  - Becoming Lost; Wilderness Navigation
 ---
 # Becoming Lost; Wilderness Navigation
 *Source: Dungeon Master's Guide p. 111* 

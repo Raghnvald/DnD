@@ -1,15 +1,14 @@
 ---
 Bezeichnung: Blasse Tinktur (Einnahme)
-Typ: Gift
+Kategorie: Gift
 Eigenschaften: Gift
 Kst.: 250 GM
-Gew.: n/v
+Gew.: /
 tags:
   - Gegenstand/Ausrüstung/Gift
   - Gegenstand/Eigenschaft/Gift
   - Quelle/5e/dmg
 aliases:
-  - Blasse Tinktur (Einnahme)
   - Pale Tincture
 linter-yaml-title-alias: Blasse Tinktur (Einnahme)
 ---

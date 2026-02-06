@@ -19,7 +19,6 @@ classes:
 aliases:
   - Phantasmal Killer
 linter-yaml-title-alias: Phantasmal Killer
-obsidianUIMode: preview
 ---
 # Phantasmal Killer
 *4th-level, Illusion*  

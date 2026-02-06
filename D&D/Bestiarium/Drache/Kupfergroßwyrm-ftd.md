@@ -2,7 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Copper Greatwyrm
-Typ: Drache (Metallisch)
+Kategorie: Drache (Metallisch)
 Größe: Gigantisch
 tags:
   - Monster/Größe/Gigantisch

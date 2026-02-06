@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Biza's Breath
+Kategorie: Gift
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
@@ -9,7 +10,6 @@ tags:
 aliases:
   - Biza's Breath
 linter-yaml-title-alias: Biza's Breath
-obsidianUIMode: preview
 ---
 # Biza's Breath
 *Adventuring gear, poison (inhaled)*  

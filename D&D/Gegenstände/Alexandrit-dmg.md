@@ -1,5 +1,9 @@
 ---
-Bezeichnung: Alexandrite
+Bezeichnung: Alexandrit
+Kategorie: Edelstein
+Eigenschaften: /
+Kst.: 500 GM
+Gew.: /
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone
   - Gegenstand/Seltenheit/keine
@@ -8,11 +12,11 @@ aliases:
   - Alexandrite
 linter-yaml-title-alias: Alexandrite
 ---
-# Alexandrite
-*Treasure (gemstone)*  
+# Alexandrit
+*Schatz (Edelstein)*  
 
-- **Cost**: 500 gp
+- **Kosten**: 500 GM
 
-A transparent dark green gemstone.
+Ein transparenter, dunkelgrüner Edelstein.
 
-*Source: Dungeon Master's Guide p. 134*
+*Quelle: Spielleiterhandbuch S. 134*

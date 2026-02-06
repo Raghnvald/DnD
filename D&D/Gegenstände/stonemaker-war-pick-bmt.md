@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Stonemaker War Pick
-Typ: Nahkampf-Kriegswaffe
+Kategorie: Nahkampf-Kriegswaffe
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
@@ -12,7 +12,6 @@ tags:
 aliases:
   - Stonemaker War Pick
 linter-yaml-title-alias: Stonemaker War Pick
-obsidianUIMode: preview
 ---
 # Stonemaker War Pick
 *Weapon (war pick), very rare (requires attunement)*  

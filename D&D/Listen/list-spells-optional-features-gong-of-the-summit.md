@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Zauber/list/optfeature/gong-of-the-summit
+  - Zauber/list/optfeature/gong-of-the-summit
 aliases:
-- Spells for Gong of the Summit
+  - Spells for Gong of the Summit
 ---
 # Spells for Gong of the Summit
 

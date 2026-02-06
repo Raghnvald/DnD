@@ -2,7 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Kobold Dragonshield
-Typ: Drache
+Kategorie: Drache
 Größe: Klein
 HG: 1
 tags:

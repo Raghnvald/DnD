@@ -21,7 +21,6 @@ classes:
 aliases:
   - Guardian of Faith
 linter-yaml-title-alias: Guardian of Faith
-obsidianUIMode: preview
 ---
 # Guardian of Faith
 *4th-level, Conjuration*  

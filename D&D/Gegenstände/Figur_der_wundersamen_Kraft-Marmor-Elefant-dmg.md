@@ -8,7 +8,6 @@ tags:
 aliases:
   - Figurine of Wondrous Power, Marble Elephant
 linter-yaml-title-alias: Figurine of Wondrous Power, Marble Elephant
-obsidianUIMode: preview
 ---
 # Figurine of Wondrous Power, Marble Elephant
 *Wondrous item, major, rare*  

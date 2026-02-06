@@ -9,7 +9,6 @@ tags:
 aliases:
   - Green Copper Ewer
 linter-yaml-title-alias: Green Copper Ewer
-obsidianUIMode: preview
 ---
 # Green Copper Ewer
 

@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Zauber/list/background/dimir-operative
+  - Zauber/list/background/dimir-operative
 aliases:
-- Spells for Dimir Operative
+  - Spells for Dimir Operative
 ---
 # Spells for Dimir Operative
 

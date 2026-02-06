@@ -9,7 +9,6 @@ tags:
 aliases:
   - Gold
 linter-yaml-title-alias: Gold
-obsidianUIMode: preview
 ---
 # Gold
 *Trade good*  

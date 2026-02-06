@@ -1,16 +1,14 @@
 ---
 cssclasses:
   - json5e-item
-Bezeichnung: "Charlatan's Die"
+Bezeichnung: Charlatan's Die
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/gewöhnlich
   - Quelle/5e/xdmg
 aliases:
-  - "Charlatan's Die"
   - Charlatan's Die
-linter-yaml-title-alias: "Charlatan's Die"
-obsidianUIMode: preview
+linter-yaml-title-alias: Charlatan's Die
 ---
 # Charlatan's Die
 *Wondrous item, common (requires attunement)*  

@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Zauber/list/subrace/genasi-earth
+  - Zauber/list/subrace/genasi-earth
 aliases:
-- Spells for Genasi (Earth)
+  - Spells for Genasi (Earth)
 ---
 # Spells for Genasi (Earth)
 

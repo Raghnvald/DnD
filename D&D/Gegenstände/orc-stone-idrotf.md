@@ -9,7 +9,6 @@ tags:
 aliases:
   - Orc Stone
 linter-yaml-title-alias: Orc Stone
-obsidianUIMode: preview
 ---
 # Orc Stone
 *Wondrous item, uncommon (requires attunement by a recipient only)*  

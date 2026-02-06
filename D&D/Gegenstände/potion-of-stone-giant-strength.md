@@ -9,7 +9,6 @@ tags:
 aliases:
   - Potion of Stone Giant Strength
 linter-yaml-title-alias: Potion of Stone Giant Strength
-obsidianUIMode: preview
 ---
 # Potion of Stone Giant Strength
 *Potion, minor, rare*  

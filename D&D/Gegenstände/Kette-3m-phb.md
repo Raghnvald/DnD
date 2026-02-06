@@ -9,7 +9,6 @@ tags:
 aliases:
   - Chain (10 feet)
 linter-yaml-title-alias: Chain (10 feet)
-obsidianUIMode: preview
 ---
 # Chain (10 feet)
 *Adventuring gear*  

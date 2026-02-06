@@ -15,7 +15,6 @@ classes:
 aliases:
   - Conjure Volley
 linter-yaml-title-alias: Conjure Volley
-obsidianUIMode: preview
 ---
 # Conjure Volley
 *5th-level, Conjuration*  

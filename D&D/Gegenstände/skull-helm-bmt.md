@@ -9,7 +9,6 @@ tags:
 aliases:
   - Skull Helm
 linter-yaml-title-alias: Skull Helm
-obsidianUIMode: preview
 ---
 # Skull Helm
 *Wondrous item, very rare (requires attunement)*  

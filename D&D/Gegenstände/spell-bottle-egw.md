@@ -9,7 +9,6 @@ tags:
 aliases:
   - Spell Bottle
 linter-yaml-title-alias: Spell Bottle
-obsidianUIMode: preview
 ---
 # Spell Bottle
 *Wondrous item, legendary (requires attunement)*  

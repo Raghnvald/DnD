@@ -23,7 +23,6 @@ classes:
 aliases:
   - Fear
 linter-yaml-title-alias: Fear
-obsidianUIMode: preview
 ---
 # Fear
 *3rd-level, Illusion*  

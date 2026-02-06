@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- Quelle/5e/ggr
-- Monster/HG/1-2
-- Monster/Größe/Klein
-- Monster/Typ/Unhold/demon
+  - Quelle/5e/ggr
+  - Monster/HG/1-2
+  - Monster/Größe/Klein
+  - Monster/Typ/Unhold/demon
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Cackler
+  - Cackler
 ---
 # [Cackler](3-Mechanics\CLI\bestiary\fiend/cackler-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 195*  

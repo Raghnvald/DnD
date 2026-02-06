@@ -1,18 +1,18 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: "Burglar's Pack"
+Bezeichnung: Einbrecherausrüstung
+Kategorie: Ausrüstungspaket
+Eigenschaften: /
+Kst.: 16 GM
+Gew.: 22,25 kg
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - "Burglar's Pack"
   - Burglar's Pack
-linter-yaml-title-alias: "Burglar's Pack"
-obsidianUIMode: preview
+linter-yaml-title-alias: Burglar's Pack
 ---
-# Burglar's Pack
+# Einbrecherausrüstung
 *Adventuring gear*  
 
 - **Cost**: 16 gp

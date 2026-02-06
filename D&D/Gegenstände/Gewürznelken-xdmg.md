@@ -9,7 +9,6 @@ tags:
 aliases:
   - Cloves
 linter-yaml-title-alias: Cloves
-obsidianUIMode: preview
 ---
 # Cloves
 *Trade good*  

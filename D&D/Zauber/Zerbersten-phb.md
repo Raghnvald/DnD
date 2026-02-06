@@ -26,7 +26,6 @@ classes:
 aliases:
   - Shatter
 linter-yaml-title-alias: Shatter
-obsidianUIMode: preview
 ---
 # Shatter
 *2nd-level, Evocation*  

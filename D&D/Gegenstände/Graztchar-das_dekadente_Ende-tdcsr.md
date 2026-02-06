@@ -1,8 +1,8 @@
 ---
 cssclasses:
   - json5e-item
-Bezeichnung: "Graz'tchar, the Decadent End"
-Typ: Nahkampf-Kriegswaffe
+Bezeichnung: Graz'tchar, the Decadent End
+Kategorie: Nahkampf-Kriegswaffe
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -10,10 +10,8 @@ tags:
   - Gegenstand/Waffe/Nahkampf
   - Quelle/5e/tdcsr
 aliases:
-  - "Graz'tchar, the Decadent End"
   - Graz'tchar, the Decadent End
-linter-yaml-title-alias: "Graz'tchar, the Decadent End"
-obsidianUIMode: preview
+linter-yaml-title-alias: Graz'tchar, the Decadent End
 ---
 # Graz'tchar, the Decadent End
 *Weapon ([greatsword](/3-Mechanics/CLI/items/greatsword-xphb.md)), legendary (requires attunement)*  

@@ -8,7 +8,6 @@ tags:
 aliases:
   - Sending Stones
 linter-yaml-title-alias: Sending Stones
-obsidianUIMode: preview
 ---
 # Sending Stones
 *Wondrous item, minor, uncommon*  

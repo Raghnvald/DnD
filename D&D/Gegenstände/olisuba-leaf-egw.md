@@ -9,7 +9,6 @@ tags:
 aliases:
   - Olisuba Leaf
 linter-yaml-title-alias: Olisuba Leaf
-obsidianUIMode: preview
 ---
 # Olisuba Leaf
 *Adventuring gear*  

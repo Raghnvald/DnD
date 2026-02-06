@@ -8,7 +8,6 @@ tags:
 aliases:
   - Orb of Gonging
 linter-yaml-title-alias: Orb of Gonging
-obsidianUIMode: preview
 ---
 # Orb of Gonging
 *Wondrous item, common*  

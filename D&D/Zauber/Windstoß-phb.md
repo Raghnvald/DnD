@@ -26,7 +26,6 @@ classes:
 aliases:
   - Gust of Wind
 linter-yaml-title-alias: Gust of Wind
-obsidianUIMode: preview
 ---
 # Gust of Wind
 *2nd-level, Evocation*  

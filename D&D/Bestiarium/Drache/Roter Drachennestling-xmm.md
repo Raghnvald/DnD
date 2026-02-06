@@ -2,7 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Red Dragon Wyrmling
-Typ: Drache (Chromatisch)
+Kategorie: Drache (Chromatisch)
 Größe: Mittelgroß
 HG: 4
 Habitat:

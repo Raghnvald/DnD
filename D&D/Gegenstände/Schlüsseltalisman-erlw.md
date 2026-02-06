@@ -9,7 +9,6 @@ tags:
 aliases:
   - Keycharm
 linter-yaml-title-alias: Keycharm
-obsidianUIMode: preview
 ---
 # Keycharm
 *Wondrous item, common (requires attunement by a creature with the Mark of Warding)*  

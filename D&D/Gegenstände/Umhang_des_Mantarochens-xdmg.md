@@ -9,7 +9,6 @@ tags:
 aliases:
   - Cloak of the Manta Ray
 linter-yaml-title-alias: Cloak of the Manta Ray
-obsidianUIMode: preview
 ---
 # Cloak of the Manta Ray
 *Wondrous item, uncommon (requires attunement)*  

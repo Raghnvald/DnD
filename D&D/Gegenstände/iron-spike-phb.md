@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Iron Spike
+Kategorie: Abenteuerausrüstung
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
@@ -9,7 +10,6 @@ tags:
 aliases:
   - Iron Spike
 linter-yaml-title-alias: Iron Spike
-obsidianUIMode: preview
 ---
 # Iron Spike
 *Adventuring gear*  

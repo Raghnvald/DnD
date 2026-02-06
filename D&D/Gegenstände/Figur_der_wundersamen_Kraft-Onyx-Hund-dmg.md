@@ -8,7 +8,6 @@ tags:
 aliases:
   - Figurine of Wondrous Power, Onyx Dog
 linter-yaml-title-alias: Figurine of Wondrous Power, Onyx Dog
-obsidianUIMode: preview
 ---
 # Figurine of Wondrous Power, Onyx Dog
 *Wondrous item, major, rare*  

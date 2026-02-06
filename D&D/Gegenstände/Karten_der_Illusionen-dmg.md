@@ -8,7 +8,6 @@ tags:
 aliases:
   - Deck of Illusions
 linter-yaml-title-alias: Deck of Illusions
-obsidianUIMode: preview
 ---
 # Deck of Illusions
 *Wondrous item, major, uncommon*  

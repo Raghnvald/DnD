@@ -9,7 +9,6 @@ tags:
 aliases:
   - Exotic Saddle
 linter-yaml-title-alias: Exotic Saddle
-obsidianUIMode: preview
 ---
 # Exotic Saddle
 *Tack and harness*  

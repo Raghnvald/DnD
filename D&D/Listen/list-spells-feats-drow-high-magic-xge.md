@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Zauber/list/feat/drow-high-magic
+  - Zauber/list/feat/drow-high-magic
 aliases:
-- Spells for Drow High Magic
+  - Spells for Drow High Magic
 ---
 # Spells for Drow High Magic
 

@@ -9,7 +9,6 @@ tags:
 aliases:
   - Map
 linter-yaml-title-alias: Map
-obsidianUIMode: preview
 ---
 # Map
 *Adventuring gear*  

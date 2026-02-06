@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Fenthras (Awakened)
-Typ: Fernkampf-Kriegswaffe
+Kategorie: Fernkampf-Kriegswaffe
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -12,7 +12,6 @@ tags:
 aliases:
   - Fenthras (Awakened)
 linter-yaml-title-alias: Fenthras (Awakened)
-obsidianUIMode: preview
 ---
 # Fenthras (Awakened)
 *Weapon ([longbow](/3-Mechanics/CLI/items/longbow-xphb.md)), legendary (requires attunement)*  

@@ -1,23 +1,22 @@
 ---
-Bezeichnung: "Daern's Instant Fortress"
+Bezeichnung: Daerns flotte Festung
 tags:
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/dmg
 aliases:
-  - "Daern's Instant Fortress"
   - Daern's Instant Fortress
 linter-yaml-title-alias: "Daern's Instant Fortress"
 ---
 # Daern's Instant Fortress
 *Wondrous item, major, rare*  
-![](/3-Mechanics/CLI/items/img/daerns-instant-fortress.webp#right)
+![](img/daerns-instant-fortress.webp#right)
 
-You can use an action to place this 1-inch metal cube on the ground and speak its command word. The cube rapidly grows into a fortress that remains until you use an action to speak the command word that dismisses it, which works only if the fortress is empty.
+Du kannst eine Aktion aufwenden, um diesen 2,5 Zentimeter breiten Metallwürfel auf dem Boden zu platzieren und sein Befehlswort zu sprechen. Der Würfel wächst daraufhin schnell zu einer Festung heran, die bestehen bleibt, bis du eine Aktion aufwendest, um das Befehlswort auszusprechen, welches die Festung wegschickt, was nur funktioniert, wenn die Festung leer ist. 
 
-The fortress is a square tower, 20 feet on a side and 30 feet high, with arrow slits on all sides and a battlement atop it. Its interior is divided into two floors. with a ladder running along one wall to connect them. The ladder ends at a trapdoor leading to the roof. When activated, the tower has a small door on the side facing you. The door opens only at your command, which you can speak as a bonus action. It is immune to the [knock](/3-Mechanics/CLI/spells/knock.md) spell and similar magic, such as that of a [chime of opening](/3-Mechanics/CLI/items/chime-of-opening.md).
+Die Festung ist ein quadratischer Turm, 6 Meter auf einer Seite und 9 Meter hoch, mit Pfeilschlitzen auf allen Seiten und einer Brustwehr darauf. Ihr Inneres ist in zwei Etagen aufgeteilt, die durch eine Leiter entlang einer Wand verbunden sind. Die Leiter endet an einer Falltür, die zum Dach führt. Wenn sie aktiviert ist, hat die Festung eine kleine Tür auf der Seite, die dir zugewandt ist. Die Tür öffnet sich nur auf deinen Befehl, den du als Bonusaktion aussprechen kannst. 
 
-Each creature in the area where the fortress appears must make a DC 15 Dexterity saving throw, taking `10d10` bludgeoning damage on a failed save, or half as much damage on a successful one. In either case, the creature is pushed to an unoccupied space outside but next to the fortress. Objects in the area that aren't being worn or carried take this damage and are pushed automatically.
+Die Festung ist immun gegen den Zauber [[Klopfen-phb|Klopfen]] und ähnliche Magie, wie die einer [[Glocke_des_Öffnens-dmg|Glocke des Öffnens]]. 
 
-The tower is made of adamantine, and its magic prevents it from being tipped over. The roof, the door, and the walls each have 100 hit points, immunity to damage from nonmagical weapons excluding siege weapons, and resistance to all other damage. Only a [wish](/3-Mechanics/CLI/spells/wish.md) spell can repair the fortress (this use of the spell counts as replicating a spell of 8th level or lower). Each casting of [wish](/3-Mechanics/CLI/spells/wish.md) causes the roof, the door, or one wall to regain 50 hit points.
+Jede Kreatur, die sich in dem Bereich befindet, wo die Festung erscheint, muss einen `Geschicklichkeitsrettungswurf` gegen `SG 15` durchführen. Bei einem Fehlschlag nimmt sie `10W10` Wuchtschaden oder die Hälfte dieses Schadens bei einem erfolgreichen Wurf. In beiden Fällen wird die Kreatur zu einem freien Platz außerhalb dieses Bereichs geschoben. Objekte, die sich in dem Bereich befinden und die nicht getragen werden oder sich am Körper befinden, nehmen den Schaden und werden automatisch verschoben. Der Turm ist aus Adamant, und seine Magie verhindert. dass er umgekippt wird. Das Dach, die Tür und die Wände haben jeweils 100 Trefferpunkte, Immunität gegenüber Schäden von nicht-magischen Waffen - Belagerungswaffen ausgeschlossen - und Resistenz gegen alle anderen Schäden. Nur ein [[Wunsch-phb|Wunsch]]-Zauber kann die Festung reparieren (diese Verwendung des Zauberspruchs gilt als Anwendung eines Zaubers auf Grad 8 oder niedriger). Jedes Wirken von [[Wunsch-phb|Wunsch]] lässt das Dach, die Tür oder eine Wand 50 Trefferpunkte wiederherstellen. 
 
 *Source: Dungeon Master's Guide p. 160. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> (as "Instant Fortress")*

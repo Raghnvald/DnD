@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Warhammer
-Typ: Nahkampf-Kriegswaffe
+Kategorie: Nahkampf-Kriegswaffe
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/Kriegswaffe
@@ -11,7 +11,6 @@ tags:
 aliases:
   - Warhammer
 linter-yaml-title-alias: Warhammer
-obsidianUIMode: preview
 ---
 # Warhammer
 *Weapon*  

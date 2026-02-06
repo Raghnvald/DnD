@@ -9,7 +9,6 @@ tags:
 aliases:
   - Infernal Tack
 linter-yaml-title-alias: Infernal Tack
-obsidianUIMode: preview
 ---
 # Infernal Tack
 *Wondrous item, legendary (requires attunement by a creature of evil alignment.)*  

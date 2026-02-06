@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Zauber/list/reward/boon-of-dimensional-travel
+  - Zauber/list/reward/boon-of-dimensional-travel
 aliases:
-- Spells for Boon of Dimensional Travel
+  - Spells for Boon of Dimensional Travel
 ---
 # Spells for Boon of Dimensional Travel
 

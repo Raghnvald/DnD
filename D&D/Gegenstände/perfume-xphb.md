@@ -9,7 +9,6 @@ tags:
 aliases:
   - Perfume
 linter-yaml-title-alias: Perfume
-obsidianUIMode: preview
 ---
 # Perfume
 *Adventuring gear*  

@@ -8,7 +8,6 @@ tags:
 aliases:
   - Boots of Elvenkind
 linter-yaml-title-alias: Boots of Elvenkind
-obsidianUIMode: preview
 ---
 # Boots of Elvenkind
 *Wondrous item, major, uncommon*  

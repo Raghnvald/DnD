@@ -10,7 +10,6 @@ tags:
 aliases:
   - Ring of Acid Resistance
 linter-yaml-title-alias: Ring of Acid Resistance
-obsidianUIMode: preview
 ---
 # Ring of Acid Resistance
 *Ring, major, rare (requires attunement)*  

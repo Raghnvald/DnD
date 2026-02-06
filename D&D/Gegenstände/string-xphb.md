@@ -9,7 +9,6 @@ tags:
 aliases:
   - String
 linter-yaml-title-alias: String
-obsidianUIMode: preview
 ---
 # String
 *Adventuring gear*  

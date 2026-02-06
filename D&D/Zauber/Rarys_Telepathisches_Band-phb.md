@@ -16,7 +16,6 @@ classes:
 aliases:
   - Rary's Telepathic Bond
 linter-yaml-title-alias: Rary's Telepathic Bond
-obsidianUIMode: preview
 ---
 # Rary's Telepathic Bond
 *5th-level, Divination (ritual)*  

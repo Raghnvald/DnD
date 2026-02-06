@@ -11,7 +11,6 @@ tags:
 aliases:
   - Rod of Lordly Might
 linter-yaml-title-alias: Rod of Lordly Might
-obsidianUIMode: preview
 ---
 # Rod of Lordly Might
 *Rod ([mace](/3-Mechanics/CLI/items/mace.md)), melee weapon ([mace](/3-Mechanics/CLI/items/mace.md)), major, legendary (requires attunement)*  

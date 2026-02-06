@@ -9,7 +9,6 @@ tags:
 aliases:
   - Silver and gold brooch
 linter-yaml-title-alias: Silver and gold brooch
-obsidianUIMode: preview
 ---
 # Silver and gold brooch
 *Treasure (art object)*  

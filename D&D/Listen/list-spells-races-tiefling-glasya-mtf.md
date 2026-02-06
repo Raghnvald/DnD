@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Zauber/list/subrace/tiefling-glasya
+  - Zauber/list/subrace/tiefling-glasya
 aliases:
-- Spells for Tiefling (Glasya)
+  - Spells for Tiefling (Glasya)
 ---
 # Spells for Tiefling (Glasya)
 

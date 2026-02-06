@@ -1,6 +1,6 @@
 ---
 Bezeichnung: Heiliges Symbol der Raben
-Typ: Wundersamer Gegenstand
+Kategorie: Wundersamer Gegenstand
 Eigenschaften: erfordert Einstimmung
 Kst.: n/v
 Gew.: n/v

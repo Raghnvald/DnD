@@ -9,7 +9,6 @@ tags:
 aliases:
   - Ox
 linter-yaml-title-alias: Ox
-obsidianUIMode: preview
 ---
 # Ox
 *Trade good*  

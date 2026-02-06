@@ -9,7 +9,6 @@ tags:
 aliases:
   - Onyx
 linter-yaml-title-alias: Onyx
-obsidianUIMode: preview
 ---
 # Onyx
 *Treasure (gemstone)*  

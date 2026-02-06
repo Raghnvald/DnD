@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Zauber/list/optfeature/one-with-shadows
+  - Zauber/list/optfeature/one-with-shadows
 aliases:
-- Spells for One with Shadows
+  - Spells for One with Shadows
 ---
 # Spells for One with Shadows
 

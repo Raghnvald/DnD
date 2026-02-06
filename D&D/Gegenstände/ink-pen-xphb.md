@@ -9,7 +9,6 @@ tags:
 aliases:
   - Ink Pen
 linter-yaml-title-alias: Ink Pen
-obsidianUIMode: preview
 ---
 # Ink Pen
 *Adventuring gear*  

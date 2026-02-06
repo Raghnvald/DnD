@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses:
   - json5e-vehicle
 tags:

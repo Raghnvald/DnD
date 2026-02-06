@@ -9,7 +9,6 @@ tags:
 aliases:
   - Crystal
 linter-yaml-title-alias: Crystal
-obsidianUIMode: preview
 ---
 # Crystal
 *Spellcasting focus*  

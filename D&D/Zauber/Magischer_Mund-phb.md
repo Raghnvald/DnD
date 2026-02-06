@@ -20,7 +20,6 @@ classes:
 aliases:
   - Magic Mouth
 linter-yaml-title-alias: Magic Mouth
-obsidianUIMode: preview
 ---
 # Magic Mouth
 *2nd-level, Illusion (ritual)*  

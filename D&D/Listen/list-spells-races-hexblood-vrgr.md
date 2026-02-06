@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Zauber/list/race/hexblood
+  - Zauber/list/race/hexblood
 aliases:
-- Spells for Hexblood
+  - Spells for Hexblood
 ---
 # Spells for Hexblood
 

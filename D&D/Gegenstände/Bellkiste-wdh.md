@@ -9,7 +9,6 @@ tags:
 aliases:
   - Barking Box
 linter-yaml-title-alias: Barking Box
-obsidianUIMode: preview
 ---
 # Barking Box
 

@@ -17,7 +17,6 @@ classes:
 aliases:
   - Heal
 linter-yaml-title-alias: Heal
-obsidianUIMode: preview
 ---
 # Heal
 *6th-level, Evocation*  

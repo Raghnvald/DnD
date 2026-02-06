@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Fate Cutter Shears
-Typ: Einfache Nahkampfwaffe
+Kategorie: Einfache Nahkampfwaffe
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
@@ -12,7 +12,6 @@ tags:
 aliases:
   - Fate Cutter Shears
 linter-yaml-title-alias: Fate Cutter Shears
-obsidianUIMode: preview
 ---
 # Fate Cutter Shears
 *Weapon (dagger), very rare (requires attunement)*  

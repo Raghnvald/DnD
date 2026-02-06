@@ -1,6 +1,6 @@
 ---
 Bezeichnung: Nimmervoller Beutel
-Typ: Wundersamer Gegenstand
+Kategorie: Wundersamer Gegenstand
 Eigenschaften: n/v
 Kst.: n/v
 Gew.: 2,5 kg
@@ -9,7 +9,6 @@ tags:
   - Quelle/5e/xdmg
 aliases:
   - Bag of Holding
-  - Nimmervoller Beutel
 linter-yaml-title-alias: Nimmervoller Beutel
 ---
 # Nimmervoller Beutel

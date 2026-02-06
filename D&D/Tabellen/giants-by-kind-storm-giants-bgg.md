@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Quelle/5e/bgg
+  - Quelle/5e/bgg
 aliases:
-- Giants by Kind; Storm Giants
+  - Giants by Kind; Storm Giants
 ---
 # Giants by Kind; Storm Giants
 *Source: Bigby Presents: Glory of the Giants p. 188* 

@@ -2,7 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Warhorse Skeleton
-Typ: Untoter
+Kategorie: Untoter
 Größe: Groß
 HG: 1/2
 Habitat:

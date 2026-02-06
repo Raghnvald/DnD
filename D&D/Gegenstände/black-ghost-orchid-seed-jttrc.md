@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Black Ghost Orchid Seed
+Kategorie: Abenteuerausrüstung
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
@@ -9,7 +10,6 @@ tags:
 aliases:
   - Black Ghost Orchid Seed
 linter-yaml-title-alias: Black Ghost Orchid Seed
-obsidianUIMode: preview
 ---
 # Black Ghost Orchid Seed
 *Adventuring gear*  

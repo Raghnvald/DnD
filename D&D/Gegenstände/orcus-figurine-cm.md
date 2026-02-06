@@ -8,7 +8,6 @@ tags:
 aliases:
   - Orcus Figurine
 linter-yaml-title-alias: Orcus Figurine
-obsidianUIMode: preview
 ---
 # Orcus Figurine
 *Wondrous item*  

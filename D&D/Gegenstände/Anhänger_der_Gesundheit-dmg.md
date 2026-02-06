@@ -1,6 +1,6 @@
 ---
 Bezeichnung: Anhänger der Gesundheit
-Typ: Wundersamer Gegenstand
+Kategorie: Wundersamer Gegenstand
 Eigenschaften: /
 Kst.: /
 Gew.: 0,5 kg
@@ -8,7 +8,6 @@ tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/dmg
 aliases:
-  - Anhänger der Gesundheit
   - Periapt of Health
 linter-yaml-title-alias: Anhänger der Gesundheit
 ---

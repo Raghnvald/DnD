@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Zauber/list/optfeature/visions-of-distant-realms
+  - Zauber/list/optfeature/visions-of-distant-realms
 aliases:
-- Spells for Visions of Distant Realms
+  - Spells for Visions of Distant Realms
 ---
 # Spells for Visions of Distant Realms
 

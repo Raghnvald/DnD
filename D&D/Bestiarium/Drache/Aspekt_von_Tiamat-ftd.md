@@ -2,7 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Aspect of Tiamat
-Typ: Drache (Chromatisch)
+Kategorie: Drache (Chromatisch)
 Größe: Gigantisch
 HG: 30
 Habitat:

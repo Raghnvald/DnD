@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Sword of Answering (Last Quip)
-Typ: Nahkampf-Kriegswaffe
+Kategorie: Nahkampf-Kriegswaffe
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -12,7 +12,6 @@ tags:
 aliases:
   - Sword of Answering (Last Quip)
 linter-yaml-title-alias: Sword of Answering (Last Quip)
-obsidianUIMode: preview
 ---
 # Sword of Answering (Last Quip)
 *Weapon ([longsword](/3-Mechanics/CLI/items/longsword.md)), major, legendary (requires attunement by a chaotic neutral creature)*  

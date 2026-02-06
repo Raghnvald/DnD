@@ -2,7 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Faerie Dragon (Yellow)
-Typ: Drache
+Kategorie: Drache
 Größe: Winzig
 HG: 1
 Habitat:

@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Spear of Backbiting
+Kategorie: Einfache Nahkampfwaffe
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
@@ -11,7 +12,6 @@ tags:
 aliases:
   - Spear of Backbiting
 linter-yaml-title-alias: Spear of Backbiting
-obsidianUIMode: preview
 ---
 # Spear of Backbiting
 *Weapon (spear), cursed item, very rare (requires attunement)*  

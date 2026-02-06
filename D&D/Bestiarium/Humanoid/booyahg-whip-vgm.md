@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- Quelle/5e/vgm
-- Monster/HG/1-4
-- Monster/Größe/Klein
-- Monster/Typ/Humanoid/goblinoid
+  - Quelle/5e/vgm
+  - Monster/HG/1-4
+  - Monster/Größe/Klein
+  - Monster/Typ/Humanoid/goblinoid
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Booyahg Whip
+  - Booyahg Whip
 ---
 # [Booyahg Whip](3-Mechanics\CLI\bestiary\humanoid/booyahg-whip-vgm.md)
 *Source: Volo's Guide to Monsters p. 42*  

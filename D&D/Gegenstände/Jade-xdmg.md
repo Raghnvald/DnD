@@ -9,7 +9,6 @@ tags:
 aliases:
   - Jade
 linter-yaml-title-alias: Jade
-obsidianUIMode: preview
 ---
 # Jade
 *Treasure (gemstone)*  

@@ -10,7 +10,6 @@ tags:
 aliases:
   - Ring of Water Elemental Command
 linter-yaml-title-alias: Ring of Water Elemental Command
-obsidianUIMode: preview
 ---
 # Ring of Water Elemental Command
 *Ring, major, legendary (requires attunement)*  

@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-feat
+  - json5e-feat
 tags:
-- Quelle/5e/xphb
-- Kompendium/Optionales/ei
+  - Quelle/5e/xphb
+  - Kompendium/Optionales/ei
 aliases:
-- Eldritch Smite
+  - Eldritch Smite
 ---
 # Eldritch Smite
 *Source: Player's Handbook (2024) p. 155*  

@@ -11,7 +11,7 @@ statblock-link: "#^statblock"
 aliases:
   - Eyedrake
 Größe: Groß
-Typ: Aberration
+Kategorie: Aberration
 HG: 8
 status: WIP
 Habitat:

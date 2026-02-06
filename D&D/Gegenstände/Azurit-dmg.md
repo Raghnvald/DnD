@@ -1,7 +1,9 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Azurite
+Bezeichnung: Azurit
+Kategorie: Edelstein
+Eigenschaften: /
+Kst.: 10 GM
+Gew.: /
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone
   - Gegenstand/Seltenheit/keine
@@ -9,13 +11,12 @@ tags:
 aliases:
   - Azurite
 linter-yaml-title-alias: Azurite
-obsidianUIMode: preview
 ---
-# Azurite
-*Treasure (gemstone)*  
+# Azurit
+*Schatz (Edelstein)*  
 
-- **Cost**: 10 gp
+- **Kosten**: 10 GM
 
-An opaque mottled deep blue gemstone.
+Ein undurchsichtiger, tiefblau gefleckter Edelstein.
 
-*Source: Dungeon Master's Guide p. 134*
+*Quelle: Spielleiterhandbuch S. 134*

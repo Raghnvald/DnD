@@ -10,7 +10,6 @@ tags:
 aliases:
   - Wand of Wonder
 linter-yaml-title-alias: Wand of Wonder
-obsidianUIMode: preview
 ---
 # Wand of Wonder
 *Wand, major, rare (requires attunement by a spellcaster)*  

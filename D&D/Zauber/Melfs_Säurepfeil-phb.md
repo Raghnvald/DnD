@@ -21,7 +21,6 @@ classes:
 aliases:
   - Melf's Acid Arrow
 linter-yaml-title-alias: Melf's Acid Arrow
-obsidianUIMode: preview
 ---
 # Melf's Acid Arrow
 *2nd-level, Evocation*  

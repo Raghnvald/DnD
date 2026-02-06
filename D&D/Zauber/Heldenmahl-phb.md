@@ -17,7 +17,6 @@ classes:
 aliases:
   - Heroes' Feast
 linter-yaml-title-alias: Heroes' Feast
-obsidianUIMode: preview
 ---
 # Heroes' Feast
 *6th-level, Conjuration*  

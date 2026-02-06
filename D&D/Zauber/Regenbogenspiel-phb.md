@@ -17,7 +17,6 @@ classes:
 aliases:
   - Prismatic Spray
 linter-yaml-title-alias: Prismatic Spray
-obsidianUIMode: preview
 ---
 # Prismatic Spray
 *7th-level, Evocation*  

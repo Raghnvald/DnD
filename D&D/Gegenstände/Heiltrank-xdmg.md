@@ -5,7 +5,6 @@ tags:
   - Gegenstand/wundersam/Trank
   - Quelle/5e/xdmg
 aliases:
-  - Heiltrank
   - Potion of Healing
 linter-yaml-title-alias: Heiltrank
 ---

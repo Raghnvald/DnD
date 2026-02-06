@@ -19,7 +19,6 @@ classes:
 aliases:
   - Otiluke's Resilient Sphere
 linter-yaml-title-alias: Otiluke's Resilient Sphere
-obsidianUIMode: preview
 ---
 # Otiluke's Resilient Sphere
 *4th-level, Evocation*  

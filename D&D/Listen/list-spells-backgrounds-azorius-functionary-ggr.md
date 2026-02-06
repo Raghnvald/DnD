@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Zauber/list/background/azorius-functionary
+  - Zauber/list/background/azorius-functionary
 aliases:
-- Spells for Azorius Functionary
+  - Spells for Azorius Functionary
 ---
 # Spells for Azorius Functionary
 

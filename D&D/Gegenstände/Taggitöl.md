@@ -1,9 +1,9 @@
 ---
 Bezeichnung: Taggitöl (Kontakt)
-Typ: Gift
+Kategorie: Gift
 Eigenschaften: Gift
 Kst.: 400 GM
-Gew.: n/v
+Gew.: /
 tags:
   - Gegenstand/Ausrüstung/Gift
   - Gegenstand/Eigenschaft/Gift

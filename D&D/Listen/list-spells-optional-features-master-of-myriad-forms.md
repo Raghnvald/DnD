@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Zauber/list/optfeature/master-of-myriad-forms
+  - Zauber/list/optfeature/master-of-myriad-forms
 aliases:
-- Spells for Master of Myriad Forms
+  - Spells for Master of Myriad Forms
 ---
 # Spells for Master of Myriad Forms
 

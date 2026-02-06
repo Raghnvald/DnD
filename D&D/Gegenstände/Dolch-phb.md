@@ -1,8 +1,10 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Dagger
-Typ: Einfache Nahkampfwaffe
+Bezeichnung: Dolch
+Kategorie: Einfache Nahkampfwaffe
+Schaden: 1W4 Stich
+Eigenschaften: Finesse, Leicht, Wurfwaffe
+Kst.: 2 GM
+Gew.: 0,5 kg
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/Einfach
@@ -11,15 +13,16 @@ tags:
 aliases:
   - Dagger
 linter-yaml-title-alias: Dagger
-obsidianUIMode: preview
+Aktiv: false
+Menge: "1"
 ---
-# Dagger
-*Weapon*  
+# Dolch
+*Waffe*  
 
-- **Damage**: 1d4 piercing
-- **Range**: 20/60
-- **Properties**: [Finesse](/3-Mechanics/CLI/item-properties.md#Finesse), [Light](/3-Mechanics/CLI/item-properties.md#Light), [Thrown](/3-Mechanics/CLI/item-properties.md#Thrown)
-- **Cost**: 2 gp
-- **Weight**: 1.0 lbs.
+- **Schaden**: 1d4 Stich
+- **Reichweite**: 6/18
+- **Eigenschaften**: [[Gegenstandseigenschaften-phb#Finesse|Finesse]], [[Gegenstandseigenschaften-phb#Leicht|Leicht]], [[Gegenstandseigenschaften-phb#Wurfwaffe|Wurfwaffe]]
+- **Kosten**: 2 GM
+- **Gewicht**: 1.0 lbs.
 
-*Source: Player's Handbook p. 149. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+*Quellen: Spielerhandbuch S. 149 Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)* 

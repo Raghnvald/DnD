@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- Zauber/list/race/tiefling-base
+  - Zauber/list/race/tiefling-base
 aliases:
-- Spells for Tiefling (Base)
+  - Spells for Tiefling (Base)
 ---
 # Spells for Tiefling (Base)
 
