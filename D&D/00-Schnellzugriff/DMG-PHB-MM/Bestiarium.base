@@ -1,9 +1,16 @@
 filters:
   and:
-    - '!file.name.endsWith("-xmm")'
+    - '!file.name.containsAny("-xdmg", "-xphb", "-xmm")'
+formulas:
+  Bezeichnung: link(file, Bezeichnung)
+  Name: link(file, Name)
 properties:
   file.name:
     displayName: Name
+  formula.Bezeichnung:
+    displayName: Name
+  note.Kategorie:
+    displayName: Typ
 views:
   - type: table
     name: Aberrationen
@@ -12,12 +19,15 @@ views:
         - file.tags.contains("Monster/Typ/Aberration")
         - Typ.startsWith("Aberration")
     order:
-      - file.name
-      - Typ
+      - formula.Bezeichnung
+      - Kategorie
       - Größe
       - HG
       - Habitat
       - status
+    sort:
+      - property: formula.Bezeichnung
+        direction: ASC
     columnSize:
       file.name: 173
       note.Typ: 108
@@ -35,12 +45,15 @@ views:
         - file.tags.contains("Monster/Typ/Drache")
         - Typ.startsWith("Drache")
     order:
-      - file.name
+      - formula.Name
       - Typ
       - Größe
       - HG
       - Habitat
       - status
+    sort:
+      - property: formula.Name
+        direction: ASC
     columnSize:
       file.name: 197
       note.Typ: 125

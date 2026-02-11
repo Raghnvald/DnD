@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/egw
-  - Monster/HG/1
-  - Monster/Größe/Klein
-  - Monster/Typ/aberration
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Core Spawn Crawler
+tags:
+  - Monster/Größe/Klein
+  - Monster/HG/1
+  - Monster/Typ/aberration
+  - Quelle/5e/egw
 aliases:
   - Core Spawn Crawler
 ---

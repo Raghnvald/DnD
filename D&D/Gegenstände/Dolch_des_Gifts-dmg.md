@@ -13,6 +13,7 @@ tags:
 aliases:
   - Dagger of Venom
 linter-yaml-title-alias: Dagger of Venom
+Einstimmung: /
 ---
 # Dolch des Gifts
 *Waffe ([[Dolch-phb|Dolch]]), selten*

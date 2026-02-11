@@ -1,15 +1,14 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mpmm
-  - Monster/HG/4
-  - Monster/Habitat/Hügel
-  - Monster/Habitat/Unterreich
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Aberration/Hexenmeister
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Neogi Master
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Hügel
+  - Monster/Habitat/Unterreich
+  - Monster/HG/4
+  - Monster/Typ/Aberration/Hexenmeister
+  - Quelle/5e/mpmm
 aliases:
   - Neogi Master
 ---

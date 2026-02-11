@@ -1,8 +1,13 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Voidwalker Armor
+Bezeichnung: Voidwalker Armor-bmt
+Kategorie: Rüstung
 Rüstung: Leicht
+Eigenschaften: Verflucht
+Kst.: /
+Gew.: 6,5 kg
+RK: 12 + GES
+STR: /
+Heiml.: /
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Rüstung/Leicht

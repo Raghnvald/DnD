@@ -1,15 +1,14 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/1
-  - Monster/Habitat/Küste
-  - Monster/Habitat/Unterreich
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Aberration
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Kuo-toa Whip
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Küste
+  - Monster/Habitat/Unterreich
+  - Monster/HG/1
+  - Monster/Typ/Aberration
+  - Quelle/5e/xmm
 aliases:
   - Kuo-toa Whip
 ---
@@ -74,7 +73,6 @@ Kuo-toa typically organize their communities around sites they believe to be imp
 > [!quote] A quote from Tak Merakin, Harbor Master of the Styes  
 > 
 > When the Corpse Moon rises and the Chum-Tide washes in, up rise the Gogglers from their pits beneath the waves. Burbling and noisome they come, fishing night's shores as we do dawn's waves.
-
 
 ```statblock
 "name": "Kuo-toa Whip (XMM)"

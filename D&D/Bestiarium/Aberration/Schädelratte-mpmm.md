@@ -1,24 +1,23 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mpmm
-  - Monster/HG/0
-  - Monster/Habitat/Unterreich
-  - Monster/Habitat/Stadt
-  - Monster/Größe/Winzig
-  - Monster/Typ/Aberration
 statblock: inline
 statblock-link: "#^statblock"
-aliases:
-  - Cranium Rat
+Bezeichnung: Cranium Rat
+Kategorie: Aberration
 Größe: Winzig
 HG: 0
 Habitat:
   - Stadt
   - Unterreich
-Kategorie: Aberration
 status: WIP
+tags:
+  - Monster/Größe/Winzig
+  - Monster/Habitat/Stadt
+  - Monster/Habitat/Unterreich
+  - Monster/HG/0
+  - Monster/Typ/Aberration
+  - Quelle/5e/mpmm
+aliases:
+  - Cranium Rat
 ---
 # [Cranium Rat](3-Mechanics\CLI\bestiary\aberration/cranium-rat-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 83*  

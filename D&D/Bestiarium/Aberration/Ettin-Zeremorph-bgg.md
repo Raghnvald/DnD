@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/bgg
-  - Monster/HG/8
-  - Monster/Größe/Groß
-  - Monster/Typ/aberration
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Ettin Ceremorph
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/8
+  - Monster/Typ/aberration
+  - Quelle/5e/bgg
 aliases:
   - Ettin Ceremorph
 ---

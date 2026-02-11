@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mm
-  - Monster/HG/5
-  - Monster/Größe/Groß
-  - Monster/Typ/Aberration
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Red Slaad
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/5
+  - Monster/Typ/Aberration
+  - Quelle/5e/mm
 aliases:
   - Red Slaad
 ---
@@ -52,7 +51,6 @@ Some slaadi can transform into the humanoid creatures from which they were origi
 > [!quote]  
 > 
 > Embedded in a slaad's brain is a magic gem. Acquire it, and the slaad is yours to command.
-
 
 ```statblock
 "name": "Red Slaad"

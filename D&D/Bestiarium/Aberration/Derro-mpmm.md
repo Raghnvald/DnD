@@ -1,21 +1,20 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mpmm
-  - Monster/HG/1-4
-  - Monster/Habitat/Berg
-  - Monster/Habitat/Unterreich
-  - Monster/Größe/Klein
-  - Monster/Typ/Aberration
 statblock: inline
 statblock-link: "#^statblock"
-aliases:
-  - Derro
+Bezeichnung: Derro
 Kategorie: Aberration
 Größe: Klein
 HG: 1/4
 status: WIP
+tags:
+  - Monster/Größe/Klein
+  - Monster/Habitat/Berg
+  - Monster/Habitat/Unterreich
+  - Monster/HG/1-4
+  - Monster/Typ/Aberration
+  - Quelle/5e/mpmm
+aliases:
+  - Derro
 ---
 # [Derro](3-Mechanics\CLI\bestiary\aberration/derro-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 91*  

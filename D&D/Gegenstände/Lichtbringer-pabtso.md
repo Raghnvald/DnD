@@ -1,7 +1,7 @@
 ---
 Bezeichnung: Lichtbringer
 Kategorie: Einfache Nahkampfwaffe
-Schaden: 1W6 Wucht
+Schaden: 1d6 Wucht
 Eigenschaften: /
 Kst.: /
 Gew.: 2,0 kg
@@ -13,6 +13,7 @@ tags:
 aliases:
   - Lightbringer
 linter-yaml-title-alias: Lightbringer
+Einstimmung: /
 ---
 # Lichtbringer
 *Waffe ([[Streitkolben-phb|Streitkolben]]), ungewöhnlich*  
@@ -20,8 +21,8 @@ linter-yaml-title-alias: Lightbringer
 - **Schaden**: 1d6 Wucht
 - **Gewicht**: 4.0 lbs.
 
-You have a +1 bonus to attack and damage rolls made with this magic weapon.
+Du hast einen +1 Bonus auf Angriffs- und Schadenswürfe, die mit dieser Waffe ausgeführt werden
 
-This weapon, known as Lightbringer, was made for a cleric of Lathander, the god of dawn. The head of the mace is shaped like a sunburst and is made of solid brass. The mace glows as bright as a torch when its wielder commands. While glowing, the mace deals an extra `1d6` radiant damage to Undead creatures.
+Diese Waffe, bekannt als Lichtbringer, wurde für einen Kleriker des Lathander, dem Gott der Morgenröte, angefertigt. Sein Kopf hat die Form von Sonnenfeuer und er besteht aus massivem Messing. Wenn sein Träger es befiehlt, leuchtet er so hell wie eine Fackel. Im leuchtenden Zustand bewirkt der Streitkolben bei untoten Kreaturen zusätzlich `1W6` gleißenden Schaden.
 
-*Source: Phandelver and Below: The Shattered Obelisk p. 72*
+*Quelle: Die Tiefen von Phandelver: Der zersplitterte Obelisk S. 72*

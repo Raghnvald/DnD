@@ -1,7 +1,8 @@
 ---
 cssclasses:
   - json5e-item
-Bezeichnung: Khyber Trinket
+Bezeichnung: Tand aus Khyber
+Kategorie: Abenteuerausrüstung
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine

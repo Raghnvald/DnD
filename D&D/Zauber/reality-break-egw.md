@@ -11,7 +11,7 @@ aliases:
 ---
 # Reality Break
 *8th-level, Conjuration*  
-![](/3-Mechanics/CLI/spells/img/reality-break.webp#right)
+![](img/reality-break.webp#right)
 
 - **Casting time:** 1 Action
 - **Range:** 60 feet

@@ -1,15 +1,14 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mpmm
-  - Monster/HG/1-4
-  - Monster/Habitat/Berg
-  - Monster/Habitat/Sumpf
-  - Monster/Größe/Klein
-  - Monster/Typ/Aberration
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Star Spawn Grue
+tags:
+  - Monster/Größe/Klein
+  - Monster/Habitat/Berg
+  - Monster/Habitat/Sumpf
+  - Monster/HG/1-4
+  - Monster/Typ/Aberration
+  - Quelle/5e/mpmm
 aliases:
   - Star Spawn Grue
 ---

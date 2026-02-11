@@ -1,7 +1,5 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Spire of Conflux
+Bezeichnung: Stab der Vereinigung
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär

@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/2
-  - Monster/Habitat/Unterreich
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Aberration
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Nothic
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Unterreich
+  - Monster/HG/2
+  - Monster/Typ/Aberration
+  - Quelle/5e/xmm
 aliases:
   - Nothic
 ---
@@ -29,7 +28,6 @@ Some nothics seek to end the curse that warped them into their bizarre forms, bu
 > [!quote]  
 > 
 > Deeper. Deeper and Deeper. Deeper and creeper. Creeping they come. Up from the place that isn't a place. They come to feed. Feed on what I know. So I hide. I hide away. Away in the secret dark. Secret and dark, like all that I know I shouldn't know!
-
 
 ```statblock
 "name": "Nothic (XMM)"

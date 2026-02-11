@@ -1,7 +1,7 @@
 ---
 cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
-Name: Grick
+Bezeichnung: Grick
 Kategorie: Monstrosität
 Größe: Mittelgroß
 HG: 2

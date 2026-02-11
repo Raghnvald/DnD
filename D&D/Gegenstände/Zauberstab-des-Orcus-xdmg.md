@@ -14,7 +14,7 @@ aliases:
 linter-yaml-title-alias: Wand of Orcus
 ---
 # Wand of Orcus
-*Weapon ([mace](/3-Mechanics/CLI/items/mace-xphb.md)), wand, artifact (requires attunement)*  
+*Weapon ([mace](Streitkolben-xphb)), wand, artifact (requires attunement)*  
 ![](/3-Mechanics/CLI/items/img/wand-of-orcus.webp#right)
 
 - **Damage**: 1d6 bludgeoning
@@ -28,7 +28,7 @@ Any creature besides Orcus that tries to attune to the wand makes a DC 17 Consti
 
 ## Magic Weapon
 
-You can wield the wand as a magic [Mace](/3-Mechanics/CLI/items/mace-xphb.md) that grants a +3 bonus to attack rolls and damage rolls made with it. The wand deals an extra `2d12` Necrotic damage on a hit.
+You can wield the wand as a magic [Mace](Streitkolben-xphb) that grants a +3 bonus to attack rolls and damage rolls made with it. The wand deals an extra `2d12` Necrotic damage on a hit.
 
 ## Random Properties
 

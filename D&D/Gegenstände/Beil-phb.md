@@ -13,6 +13,7 @@ tags:
 aliases:
   - Beil
 linter-yaml-title-alias: Beil
+Einstimmung: /
 ---
 # Beil
 *Waffe*  

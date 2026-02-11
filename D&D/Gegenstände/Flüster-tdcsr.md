@@ -1,8 +1,7 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Whisper
+Bezeichnung: Flüster
 Kategorie: Einfache Nahkampfwaffe
+Einstimmung: erfordert
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär

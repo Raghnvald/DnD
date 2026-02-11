@@ -15,6 +15,7 @@ aliases:
 linter-yaml-title-alias: Kurzbogen
 RW: 24m / 96m
 Schadensart: Stichschaden
+Einstimmung: /
 ---
 # Kurzbogen
 *Einfache Fernkampfwaffe*  

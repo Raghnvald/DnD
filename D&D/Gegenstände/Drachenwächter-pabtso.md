@@ -22,10 +22,10 @@ linter-yaml-title-alias: Dragonguard
 - **Rüstungsklasse**: 14 + GES (max +2)
 - **Gewicht:** 10,0 kg
 
-You have a +1 bonus to AC while wearing this armor.
+Du hast einen +1 Bonus auf die Rüstungsklasse, während du diese Rüstung trägst.
 
-This breastplate has a gold dragon motif worked into its design. Created for a human hero of old Neverwinter named Tergon, it grants its wearer advantage on saving throws against the breath weapons of Dragons.
+Diese Brustplatte wird von einem Golddrachen-Motiv geziert. Sie wurde für den menschlichen Helden Tergon aus dem alten Niewinter angefertigt und gewährt ihrem Träger Vorteil bei Rettungswürfen gegen die Odemwaffen von Drachen.
 
-This armor consists of a fitted metal chest piece worn with supple leather. Although it leaves the legs and arms relatively unprotected, this armor provides good protection for the wearer's vital organs while leaving the wearer relatively unencumbered.
+Diese Rüstung besteht aus einem maßgefertigten Brustpanzer aus Metall, der mit weichem Leder getragen wird. Arme und Beine des Trägers bleiben zwar relativ ungeschützt, doch diese Rüstung schützt die lebenswichtigen Organe des Trägers, ohne dessen Bewegungsfreiheit allzu sehr einzuschränken.
 
-*Source: Phandelver and Below: The Shattered Obelisk p. 72*
+*Quelle: Die Tiefen von Phandelver: Der zersplitterte Obelisk S. 72*

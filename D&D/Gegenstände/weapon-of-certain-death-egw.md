@@ -1,7 +1,8 @@
 ---
 cssclasses:
   - json5e-item
-Bezeichnung: Weapon of Certain Death
+Bezeichnung: Weapon of Certain Death-egw
+Kategorie: Beliebige Waffe
 tags:
   - Gegenstand/Seltenheit/selten
   - Gegenstand/Waffe/Einfach

@@ -12,7 +12,7 @@ aliases:
 linter-yaml-title-alias: Mace of Smiting
 ---
 # Mace of Smiting
-*Weapon ([mace](/3-Mechanics/CLI/items/mace-xphb.md)), rare*  
+*Weapon ([mace](Streitkolben-xphb)), rare*  
 ![](/3-Mechanics/CLI/items/img/mace-of-smiting.webp#right)
 
 - **Damage**: 1d6 bludgeoning

@@ -1,14 +1,14 @@
 ---
-cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
-Bezeichnung:
+Bezeichnung: Dreamholder-hgmh1
 Kategorie: Aberration
 Größe:
 HG:
-status:
 image:
+status:
 tags:
-  - Quelle/5e/hgtmh1
   - Monster/Typ/Aberration
+  - Quelle/5e/hgtmh1
 aliases: []
 ---
+# Dreamholder-hgmh1

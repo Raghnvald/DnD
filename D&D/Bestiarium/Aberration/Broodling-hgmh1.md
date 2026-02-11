@@ -1,14 +1,14 @@
 ---
-cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
-Bezeichnung:
+Bezeichnung: Broodling-hgmh1
 Kategorie: Aberration
 Größe: Winzig
 HG: 1/2
-status: WIP
 image:
+status: WIP
 tags:
-  - Quelle/5e/hgtmh1
   - Monster/Typ/Aberration
+  - Quelle/5e/hgtmh1
 aliases: []
 ---
+# Broodling-hgmh1

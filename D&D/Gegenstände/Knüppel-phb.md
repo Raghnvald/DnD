@@ -13,6 +13,7 @@ tags:
 aliases:
   - Club
 linter-yaml-title-alias: Club
+Einstimmung: /
 ---
 # Knüppel
 *Waffe*  

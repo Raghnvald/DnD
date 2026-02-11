@@ -1,18 +1,18 @@
 ---
-tags:
-  - Quelle/5e/pabtso
-  - Monster/HG/10
-  - Monster/Größe/Groß
-  - Monster/Typ/Aberration
 statblock: inline
 statblock-link: "#^statblock"
-aliases:
-  - Cloaker Mutate
+Bezeichnung: Cloaker Mutate
+Kategorie: Aberration
 Größe: Groß
 HG: 10
-Kategorie: Aberration
 status: WIP
-Name: Mantler-Mutant
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/10
+  - Monster/Typ/Aberration
+  - Quelle/5e/pabtso
+aliases:
+  - Cloaker Mutate
 Image: aberration/token/cloaker-mutate-pabtso.webp
 ---
 # Cloaker Mutate

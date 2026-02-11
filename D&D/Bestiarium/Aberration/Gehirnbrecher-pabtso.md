@@ -1,23 +1,21 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/pabtso
-  - Monster/HG/12
-  - Monster/Größe/Groß
-  - Monster/Typ/Aberration/Gedankenschinder
 statblock: inline
 statblock-link: "#^statblock"
-aliases:
-  - Brain Breaker
-Name: Gehirnbrecher
-Image: aberration/token/brain-breaker-pabtso.webp
+Bezeichnung: Brain Breaker
 Kategorie: Aberration (Gedankenschinder)
 Größe: Groß
 HG: 12
 Habitat:
   - /
 status: WIP
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/12
+  - Monster/Typ/Aberration/Gedankenschinder
+  - Quelle/5e/pabtso
+aliases:
+  - Brain Breaker
+Image: aberration/token/brain-breaker-pabtso.webp
 ---
 # Brain Breaker
 *Source: Phandelver and Below: The Shattered Obelisk p. 199*  

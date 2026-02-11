@@ -13,6 +13,7 @@ tags:
 aliases:
   - Light Crossbow
 linter-yaml-title-alias: Light Crossbow
+Einstimmung: /
 ---
 # Leichte Armbrust
 *Waffe*  

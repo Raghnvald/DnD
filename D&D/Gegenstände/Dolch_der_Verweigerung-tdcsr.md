@@ -1,8 +1,11 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Dagger of Denial
+Bezeichnung: Dolch der Verweigerung
 Kategorie: Einfache Nahkampfwaffe
+Schaden: 1W4 Stich
+Eigenschaften: Finesse, Leicht, Wurfwaffe
+Einstimmung: erfordert
+Kst.: /
+Gew.: 0,5 kg
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
@@ -11,16 +14,16 @@ tags:
   - Quelle/5e/tdcsr
 aliases:
   - Dagger of Denial
-linter-yaml-title-alias: Dagger of Denial
+linter-yaml-title-alias: Dolch der Verweigerung
 ---
-# Dagger of Denial
+# Dolch der Verweigerung
 *Weapon ([dagger](/3-Mechanics/CLI/items/dagger-xphb.md)), rare (requires attunement)*  
 ![The Dagger of Denial: a lo...](/3-Mechanics/CLI/items/img/daggerofdenial.webp#right "The Dagger of Denial: a long, thin pointed silver dagger with an ivory coloured hilt crossing in front of an ivory sheath with a silver ends.")
 
-- **Damage**: 1d4 piercing
-- **Range**: 20/60
-- **Properties**: [Finesse](/3-Mechanics/CLI/item-properties.md#Finesse), [Light](/3-Mechanics/CLI/item-properties.md#Light), [Thrown](/3-Mechanics/CLI/item-properties.md#Thrown)
-- **Weight**: 1.0 lbs.
+- **Schaden**: 1d4 Stich
+- **Reichweite**: 6/18
+- **Eigenschaften**: [[Gegenstandseigenschaften-phb#Finesse|Finesse]], [[Gegenstandseigenschaften-phb#Leicht|Leicht]], [[Gegenstandseigenschaften-phb#Wurfwaffe|Wurfwaffe]]
+- **Gewicht**: 1.0 lbs.
 
 This silver stiletto blade bears intricate grooves that spiral from its tip to its ivory hilt and handle. You gain a +2 bonus to attack and damage rolls made with this magic weapon.
 

@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/tftyp
-  - Monster/HG/5
-  - Monster/Größe/Groß
-  - Monster/Typ/aberration
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Reduced-Threat Otyugh
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/5
+  - Monster/Typ/aberration
+  - Quelle/5e/tftyp
 aliases:
   - Reduced-Threat Otyugh
 ---

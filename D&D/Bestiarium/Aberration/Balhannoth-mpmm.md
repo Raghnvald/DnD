@@ -1,26 +1,25 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mpmm
-  - Monster/HG/11
-  - Monster/Habitat/Küste
-  - Monster/Habitat/Berg
-  - Monster/Habitat/Unterreich
-  - Monster/Größe/Groß
-  - Monster/Typ/Aberration
 statblock: inline
 statblock-link: "#^statblock"
-aliases:
-  - Balhannoth
+Bezeichnung: Balhannoth
 Kategorie: Aberration
 Größe: Groß
+HG: 11
 Habitat:
   - Berg
   - Küste
   - Unterreich
-HG: 11
 status: WIP
+tags:
+  - Monster/Größe/Groß
+  - Monster/Habitat/Berg
+  - Monster/Habitat/Küste
+  - Monster/Habitat/Unterreich
+  - Monster/HG/11
+  - Monster/Typ/Aberration
+  - Quelle/5e/mpmm
+aliases:
+  - Balhannoth
 ---
 # [Balhannoth](3-Mechanics\CLI\bestiary\aberration/balhannoth-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 55*  

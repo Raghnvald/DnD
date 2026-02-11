@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/vrgr
-  - Monster/HG/19
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Aberration
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Lesser Star Spawn Emissary
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/19
+  - Monster/Typ/Aberration
+  - Quelle/5e/vrgr
 aliases:
   - Lesser Star Spawn Emissary
 ---

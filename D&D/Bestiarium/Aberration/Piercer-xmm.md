@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/1-2
-  - Monster/Habitat/Unterreich
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Aberration
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Piercer
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Unterreich
+  - Monster/HG/1-2
+  - Monster/Typ/Aberration
+  - Quelle/5e/xmm
 aliases:
   - Piercer
 ---
@@ -29,7 +28,6 @@ Piercers are the larval form of ropers. Young piercers seek to move as far from 
 > [!quote]  
 > 
 > Rule 8: Never trust a stalactite
-
 
 ```statblock
 "name": "Piercer (XMM)"

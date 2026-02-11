@@ -1,22 +1,21 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/3
-  - Monster/Habitat/Unterreich
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Aberration/Betrachter
 statblock: inline
 statblock-link: "#^statblock"
-aliases:
-  - Spectator
+Bezeichnung: Spectator
 Kategorie: Aberration (Betrachter)
-Habitat:
-  - Unterreich
 Größe: Mittelgroß
 HG: 3
+Habitat:
+  - Unterreich
 status: WIP
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Unterreich
+  - Monster/HG/3
+  - Monster/Typ/Aberration/Betrachter
+  - Quelle/5e/xmm
+aliases:
+  - Spectator
 ---
 # [Spectator](3-Mechanics\CLI\bestiary\aberration/spectator-xmm.md)
 *Source: Monster Manual (2024) p. 289*  

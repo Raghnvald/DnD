@@ -1,21 +1,20 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xphb
-  - Monster/HG/
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Aberration
 statblock: inline
 statblock-link: "#^statblock"
-aliases:
-  - Aberrant Spirit (Beholderkin)
+Bezeichnung: Aberrant Spirit (Beholderkin)
 Kategorie: Aberration
 Größe: Mittelgroß
-status: WIP
 HG: /
 Habitat:
   - /
+status: WIP
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/
+  - Monster/Typ/Aberration
+  - Quelle/5e/xphb
+aliases:
+  - Aberrant Spirit (Beholderkin)
 ---
 # [Aberrant Spirit (Beholderkin)](3-Mechanics\CLI\bestiary\aberration/aberrant-spirit-beholderkin-xphb.md)
 *Source: Player's Handbook (2024) p. 322*  

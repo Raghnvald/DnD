@@ -1,7 +1,6 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Armblade
+Bezeichnung: Armklinge
+Kategorie: Beliebig, Nahkampfwaffe
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/gewöhnlich
@@ -39,7 +38,7 @@ linter-yaml-title-alias: Armblade
 ---
 # Armblade
 *Common (requires attunement by a warforged)*  
-![](/3-Mechanics/CLI/items/img/armblade.webp#right)
+![](img/armblade.webp#right)
 
 An armblade is a magic weapon that attaches to your arm, becoming inseparable from you as long as you're attuned to it. To attune to this item, you must hold it against your forearm for the entire attunement period.
 

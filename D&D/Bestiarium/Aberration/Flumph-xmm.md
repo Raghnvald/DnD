@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/1-8
-  - Monster/Habitat/Unterreich
-  - Monster/Größe/Klein
-  - Monster/Typ/Aberration
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Flumph
+tags:
+  - Monster/Größe/Klein
+  - Monster/Habitat/Unterreich
+  - Monster/HG/1-8
+  - Monster/Typ/Aberration
+  - Quelle/5e/xmm
 aliases:
   - Flumph
 ---

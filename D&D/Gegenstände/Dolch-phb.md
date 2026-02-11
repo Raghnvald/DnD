@@ -3,6 +3,7 @@ Bezeichnung: Dolch
 Kategorie: Einfache Nahkampfwaffe
 Schaden: 1W4 Stich
 Eigenschaften: Finesse, Leicht, Wurfwaffe
+Einstimmung: /
 Kst.: 2 GM
 Gew.: 0,5 kg
 tags:
@@ -12,8 +13,8 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Dagger
-linter-yaml-title-alias: Dagger
 Aktiv: false
+linter-yaml-title-alias: Dagger
 Menge: "1"
 ---
 # Dolch

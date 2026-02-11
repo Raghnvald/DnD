@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mpmm
-  - Monster/HG/6
-  - Monster/Habitat/Unterreich
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Aberration/Betrachter
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Gauth
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Unterreich
+  - Monster/HG/6
+  - Monster/Typ/Aberration/Betrachter
+  - Quelle/5e/mpmm
 aliases:
   - Gauth
 ---

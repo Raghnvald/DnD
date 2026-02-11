@@ -1,7 +1,8 @@
 ---
 cssclasses:
   - json5e-item
-Bezeichnung: Bow of Melodies
+Bezeichnung: Bow of Melodies-bmt
+Kategorie: Beliebig, Bogen
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten

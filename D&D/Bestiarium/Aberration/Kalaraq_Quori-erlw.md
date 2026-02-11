@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/erlw
-  - Monster/HG/19
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/aberration
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Kalaraq Quori
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/19
+  - Monster/Typ/aberration
+  - Quelle/5e/erlw
 aliases:
   - Kalaraq Quori
 ---

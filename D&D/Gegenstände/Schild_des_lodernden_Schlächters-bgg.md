@@ -1,6 +1,14 @@
 ---
 Bezeichnung: Schild des lodernden Schlächters
+Kategorie: Rüstung
 Rüstung: Schild
+Eigenschaften: /
+Einstimmung: erfordert
+Kst.: /
+Gew.: 3,0 kg
+RK: 2
+STR: /
+Heiml.: /
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Rüstung/Schild/

@@ -1,8 +1,9 @@
 ---
 cssclasses:
   - json5e-item
-Bezeichnung: Spear of Backbiting
+Bezeichnung: Speer der Heimtücke
 Kategorie: Einfache Nahkampfwaffe
+Einstimmung: erfordert
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten

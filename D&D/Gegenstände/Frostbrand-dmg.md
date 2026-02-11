@@ -1,6 +1,6 @@
 ---
 Bezeichnung: Frostbrand
-Kategorie: Nahkampf-Kriegswaffe (generisch)
+Kategorie: Nahkampf-Kriegswaffe (beliebiges Schwert)
 Schaden: /
 Eigenschaften: /
 Kst.: /
@@ -8,7 +8,8 @@ Gew.: /
 tags:
   - Gegenstand/Einstimmung
   - Gegenstand/Seltenheit/selten
-  - Gegenstand/Waffe/Nahkampf/Beliebig
+  - Gegenstand/Waffe/Kriegswaffe
+  - Gegenstand/Waffe/Nahkampf
   - Quelle/5e/dmg
 aliases:
   - Frost Brand

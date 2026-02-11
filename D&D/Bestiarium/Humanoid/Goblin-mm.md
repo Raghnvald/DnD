@@ -1,5 +1,5 @@
 ---
-Name: Goblin
+Bezeichnung: Goblin
 Kategorie: Humanoid (Goblinoid)
 Größe: Klein
 HG: 1/2

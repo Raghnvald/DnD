@@ -1,6 +1,11 @@
 ---
 Bezeichnung: Wurfspeer
 Kategorie: Einfache Nahkampfwaffe
+Schaden: 1W6 Stich
+Eigenschaften: Wurfwaffe
+Einstimmung: /
+Kst.: 5 SM
+Gew.: 1,0 kg
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/Einfach
@@ -11,12 +16,12 @@ aliases:
 linter-yaml-title-alias: Javelin
 ---
 # Wurfspeer
-*Weapon*  
+*Waffe*  
 
-- **Damage**: 1d6 piercing
-- **Range**: 30/120
-- **Properties**: [Thrown](/3-Mechanics/CLI/item-properties.md#Thrown)
-- **Cost**: 5 sp
-- **Weight**: 2.0 lbs.
+- **Schaden**: 1d6 Stich
+- **Reichweite**: 9/36
+- **Eigenschaften**: [[Gegenstandseigenschaften-phb#Wurfwaffe|Wurfwaffe]]
+- **Kosten**: 5 SM
+- **Gewicht:** 1,0 kg
 
 *Source: Player's Handbook p. 149. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

@@ -1,17 +1,17 @@
 ---
-Name: "Gwyn"
-Rasse: "Vulpin"
-Klasse: "Schurke"
-Unterklasse: "Seelenklinge"
+Bezeichnung: Gwyn
+Rasse: Vulpin
+Klasse: Schurke
+Unterklasse: Seelenklinge
 Level: 10
 hp: 67
 ac: 16
 modifier: 5
-pW: "10+5"
+pW: 10+5
 ZR: n/v
-Talente: "Aufmerksam"
+Talente: Aufmerksam
 tags:
-- player
+  - player
 ---
 passive Weisheit 10
 

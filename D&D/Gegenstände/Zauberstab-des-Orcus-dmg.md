@@ -1,7 +1,7 @@
 ---
 cssclasses:
   - json5e-item
-Bezeichnung: Wand of Orcus
+Bezeichnung: Zauberstab des Orcus
 Kategorie: Zauberstab
 tags:
   - Gegenstand/Einstimmung/required

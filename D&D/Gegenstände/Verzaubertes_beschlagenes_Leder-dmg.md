@@ -26,4 +26,4 @@ Während du diese Rüstung trägst, hast du einen Bonus von + 1 auf deine Rüstu
 
 $\quad$Du kannst als eine Bonusaktion das Befehlswort der Rüstung sprechen und bewirken, dass die Rüstung das Aussehen eines normalen Kleidungsstückes oder das einer anderen Rüstung annimmt. Du bestimmst, wie sie aussehen soll, inklusive Farbe, Stil und Accessoires, aber die Rüstung behält ihre normale Größe und ihr normales Gewicht. Die illusionäre Erscheinung bleibt bestehen, bis du die Eigenschaft erneut auslöst oder die Rüstung entfernst.
 
-*Source: Dungeon Master's Guide p. 172. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+*Quelle: Spielleiterhandbuch S. 172. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span>*

@@ -1,22 +1,21 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mm
-  - Monster/HG/4
-  - Monster/Habitat/Unterreich
-  - Monster/Größe/Groß
-  - Monster/Typ/Aberration
 statblock: inline
 statblock-link: "#^statblock"
-aliases:
-  - Chuul
+Bezeichnung: Chuul
 Kategorie: Aberration
 Größe: Groß
 HG: 4
 Habitat:
   - Unterreich
 status: WIP
+tags:
+  - Monster/Größe/Groß
+  - Monster/Habitat/Unterreich
+  - Monster/HG/4
+  - Monster/Typ/Aberration
+  - Quelle/5e/mm
+aliases:
+  - Chuul
 ---
 # [Chuul](3-Mechanics\CLI\bestiary\aberration/chuul.md)
 *Source: Monster Manual p. 40. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  

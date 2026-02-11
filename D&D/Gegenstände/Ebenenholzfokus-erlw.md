@@ -7,6 +7,7 @@ tags:
   - Gegenstand/Ausrüstung/Zauberfokus
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/gewöhnlich
+  - Gegenstand/wundersam
   - Quelle/5e/erlw
 aliases:
   - Imbued Wood Focus
@@ -23,9 +24,9 @@ $\quad$Verwendet man diesen Gegenstand als Zauberfokus beim Wirken eines Zaubers
 
 | Holzsorte | Schadensart |
 |------|-------------|
-| [Fernische Esche](Ebenenholz-fernian-ash-erlw.md) | Feuer |
-| [Irianisches Rosenholz](Ebenenholz-irian-rosewood-erlw.md) | Gleißend |
-| [Kythrische Manchinele](Ebenenholz-kythrian-manchineel-erlw.md) | Säure oder Gift |
+| [Fernische Esche](Ebenenholz-Fernische_Esche-erlw.md) | Feuer |
+| [Irianisches Rosenholz](Ebenenholz-Irianisches_Rosenholz-erlw.md) | Gleißend |
+| [Kythrische Manchinele](Ebenenholz-Kythrische_Machinele-erlw.md) | Säure oder Gift |
 | [Lamannische Eiche](Ebenenholz-lamannian-oak-erlw.md) | Blitz oder Schall |
 | [Mabarisches Ebenholz](Ebenenholz-mabaran-ebony-erlw.md) | Nekrotisch |
 | [Risiansche Pinie](Ebenenholz-risian-pine-erlw.md) | Kälte |

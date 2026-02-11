@@ -1,14 +1,14 @@
 ---
-tags:
-  - Quelle/5e/pabtso
-  - Monster/HG/4
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Aberration
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Humanoid Mutate
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/4
+  - Monster/Typ/Aberration
+  - Quelle/5e/pabtso
 aliases:
   - Humanoid Mutate
-Name: Humanoider Mutant
 Image: aberration/token/humanoid-mutate-pabtso.webp
 ---
 # Humanoid Mutate

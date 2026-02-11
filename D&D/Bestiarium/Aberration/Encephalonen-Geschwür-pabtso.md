@@ -1,20 +1,20 @@
 ---
-tags:
-  - Quelle/5e/pabtso
-  - Monster/HG/10
-  - Monster/Größe/Groß
-  - Monster/Typ/Aberration
 statblock: inline
 statblock-link: "#^statblock"
-aliases:
-  - Encephalon Cluster
-Habitat:
-  - /
+Bezeichnung: Encephalon Cluster
 Kategorie: Aberration
-Name: Encephalon Cluster
-Image: aberration/token/encephalon-cluster-pabtso.webp
 Größe: Groß
 HG: 10
+Habitat:
+  - /
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/10
+  - Monster/Typ/Aberration
+  - Quelle/5e/pabtso
+aliases:
+  - Encephalon Cluster
+Image: aberration/token/encephalon-cluster-pabtso.webp
 ---
 # Encephalon Cluster
 *Source: Phandelver and Below: The Shattered Obelisk p. 205*  

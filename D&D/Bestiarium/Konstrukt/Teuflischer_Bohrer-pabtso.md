@@ -8,7 +8,7 @@ statblock: inline
 statblock-link: "#^statblock"
 aliases:
   - Fiendish Auger
-Name: Teuflischer Bohrer
+Bezeichnung: Teuflischer Bohrer
 Image: construct/token/fiendish-auger-pabtso.webp
 ---
 # Fiendish Auger

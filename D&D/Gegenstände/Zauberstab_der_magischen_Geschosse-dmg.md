@@ -24,4 +24,4 @@ Der Zauberstab hat 7 Ladungen. Während du ihn hältst, kannst du eine Aktion ve
 
 $\quad$Der Zauberstab erhält zu jeder Morgendämmerung `1W6 + 1` verbrauchte Ladungen zurück. Wenn du die letzte Ladung des Zauberstabs verbrauchst, wirf einen `W20`. Bei einer 1 zerbröckelt der Zauberstab zu Asche und ist zerstört.
 
-*Source: Dungeon Master's Guide p. 211. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+*Quellen: Spielleiterhandbuch S. 211. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)* 

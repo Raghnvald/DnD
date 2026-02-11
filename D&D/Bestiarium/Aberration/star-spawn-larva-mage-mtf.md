@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mtf
-  - Monster/HG/16
-  - Monster/Habitat/Berg
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/aberration
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Star Spawn Larva Mage
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Berg
+  - Monster/HG/16
+  - Monster/Typ/aberration
+  - Quelle/5e/mtf
 aliases:
   - Star Spawn Larva Mage
 ---

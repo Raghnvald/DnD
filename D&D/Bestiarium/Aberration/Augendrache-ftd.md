@@ -1,21 +1,20 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/ftd
-  - Monster/HG/8
-  - Monster/Größe/Groß
-  - Monster/Typ/Aberration
 statblock: inline
 statblock-link: "#^statblock"
-aliases:
-  - Eyedrake
-Größe: Groß
+Bezeichnung: Eyedrake
 Kategorie: Aberration
+Größe: Groß
 HG: 8
-status: WIP
 Habitat:
   - /
+status: WIP
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/8
+  - Monster/Typ/Aberration
+  - Quelle/5e/ftd
+aliases:
+  - Eyedrake
 ---
 # [Eyedrake](3-Mechanics\CLI\bestiary\aberration/eyedrake-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 199*  

@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mcv1sc
-  - Monster/HG/3
-  - Monster/Größe/Winzig
-  - Monster/Typ/Aberration
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Puppeteer Parasite
+tags:
+  - Monster/Größe/Winzig
+  - Monster/HG/3
+  - Monster/Typ/Aberration
+  - Quelle/5e/mcv1sc
 aliases:
   - Puppeteer Parasite
 ---

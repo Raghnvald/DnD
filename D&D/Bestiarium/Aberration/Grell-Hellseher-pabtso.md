@@ -1,16 +1,14 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/pabtso
-  - Monster/HG/4
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Aberration
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Grell Psychic
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/4
+  - Monster/Typ/Aberration
+  - Quelle/5e/pabtso
 aliases:
   - Grell Psychic
-Name: Grell-Hellseher
 Image: aberration/token/grell-psychic-pabtso.webp
 ---
 # Grell Psychic

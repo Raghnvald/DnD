@@ -1,7 +1,7 @@
 ---
 cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
-Name: Riesenwürgeschlange
+Bezeichnung: Riesenwürgeschlange
 Kategorie: Tier
 Größe: Groß
 HG: 2

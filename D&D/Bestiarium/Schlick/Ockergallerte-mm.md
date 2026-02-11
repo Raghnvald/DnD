@@ -1,7 +1,7 @@
 ---
 cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
-Name: Ockergallerte
+Bezeichnung: Ockergallerte
 Kategorie: Schleim
 Größe: Groß
 HG: 2

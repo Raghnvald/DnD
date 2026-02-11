@@ -1,17 +1,17 @@
 ---
-Name: Goblin-Psi-Befehlshaber
+statblock: inline
+statblock-link: "#^statblock"
+Bezeichnung: Goblin-Psi-Befehlshaber
 Kategorie: Aberration (Goblinoid)
 Größe: Klein
 HG: 4
-status: WIP
 image: goblin-psi-commander-pabtso.webp
+status: WIP
 tags:
-  - Quelle/5e/pabtso
-  - Monster/HG/4
   - Monster/Größe/Klein
+  - Monster/HG/4
   - Monster/Typ/Aberration/Goblinoid
-statblock: inline
-statblock-link: "#^statblock"
+  - Quelle/5e/pabtso
 aliases:
   - Goblin Psi Commander
 ---

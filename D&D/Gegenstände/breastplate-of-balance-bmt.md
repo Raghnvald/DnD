@@ -1,7 +1,7 @@
 ---
 cssclasses:
   - json5e-item
-Bezeichnung: Breastplate of Balance
+Bezeichnung: Breastplate of Balance-bmt
 Rüstung: Mittel
 tags:
   - Gegenstand/Einstimmung/required

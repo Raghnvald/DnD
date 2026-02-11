@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Bösartige Waffe
+Kategorie: Beliebige Waffe
 tags:
   - Gegenstand/Seltenheit/selten
   - Gegenstand/Waffe/Einfach

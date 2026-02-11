@@ -1,8 +1,6 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Sword of Life Stealing
-Kategorie: Nahkampf-Kriegswaffe (generisch)
+Bezeichnung: Schwert des Lebensentzugs
+Kategorie: Nahkampf-Kriegswaffe (beliebiges Schwert)
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten

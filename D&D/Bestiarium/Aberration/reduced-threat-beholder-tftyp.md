@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/tftyp
-  - Monster/HG/13
-  - Monster/Größe/Groß
-  - Monster/Typ/aberration
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Reduced-Threat Beholder
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/13
+  - Monster/Typ/aberration
+  - Quelle/5e/tftyp
 aliases:
   - Reduced-Threat Beholder
 ---

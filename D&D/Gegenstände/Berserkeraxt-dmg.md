@@ -1,6 +1,6 @@
 ---
 Bezeichnung: Berserkeraxt
-Kategorie: Nahkampf-Kriegswaffe (generisch)
+Kategorie: Nahkampf-Kriegswaffe (beliebige Axt)
 Schaden: /
 Eigenschaften: /
 Kst.: /

@@ -1,8 +1,13 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Deathwalker's Ward
+Bezeichnung: Gewand des Todeswandlers
+Kategorie: Rüstung
 Rüstung: Leicht
+Eigenschaften: /
+Kst.: /
+Gew.: 6,5 kg
+RK: 12 + GES
+STR: /
+Heiml.: Nachteil
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Rüstung/Leicht
@@ -12,20 +17,20 @@ aliases:
   - Deathwalker's Ward
 linter-yaml-title-alias: Deathwalker's Ward
 ---
-# Deathwalker's Ward
-*Light armor ([studded leather armor](/3-Mechanics/CLI/items/studded-leather-armor-xphb.md)), legendary (requires attunement)*  
-![Black leather armor with i...](/3-Mechanics/CLI/items/img/deathwalkersward.webp#right "Black leather armor with intricate embroidery, the shoulders consisting of black raven feathers.")
+# Gewand des Todeswandlers
+*Leichte Rüstung ([[Beschlagene_Lederrüstung-phb|studded leather armor]]), Legendär (benötigt Einstimmung)*  
+![Black leather armor with i...](img/deathwalkersward.webp#right "Black leather armor with intricate embroidery, the shoulders consisting of black raven feathers.")
 
-- **Armor Class**: 12 + Dex modifier
-- **Properties**: [Vestige of Divergence](/3-Mechanics/CLI/item-properties.md#Vestige%20of%20Divergence)
-- **Weight**: 13.0 lbs.
+- **Rüstungsklasse**: 12 + GES Modifikator
+- **Eigenschaften**: [Vestige of Divergence](Gegenstandseigenschaften-phb#Vestige%20of%20Divergence)
+- **Gewicht**: 6,5 kg
 
-This beautiful black leather armor is covered in intricate scrollwork, and has a mantle bearing the black feathers of [The Matron of Ravens](/3-Mechanics/CLI/deities/exandria-the-matron-of-ravens-tdcsr.md). Legends say that it has been worn by a number of that deity's champions over the centuries—most recently, [Vax'ildan of Vox Machina](/3-Mechanics/CLI/bestiary/celestial/champion-of-ravens-tdcsr.md).
+This beautiful black leather armor is covered in intricate scrollwork, and has a mantle bearing the black feathers of [The Matron of Ravens](exandria-the-matron-of-ravens-tdcsr). Legends say that it has been worn by a number of that deity's champions over the centuries—most recently, [Vax'ildan of Vox Machina](champion-of-ravens-tdcsr).
 
 **Items in this group:**
 
-- [Deathwalker's Ward (Dormant)](/3-Mechanics/CLI/items/deathwalkers-ward-dormant-tdcsr.md)
-- [Deathwalker's Ward (Awakened)](/3-Mechanics/CLI/items/deathwalkers-ward-awakened-tdcsr.md)
-- [Deathwalker's Ward (Exalted)](/3-Mechanics/CLI/items/deathwalkers-ward-exalted-tdcsr.md)
+- [[Gewand_des_Todeswandlers-Schlummernd-tdcsr|Gewand des Todeswandlers (Schlummernd)]]
+- [[Gewand_des_Todeswandlers-Erwacht-tdcsr|Gewand des Todeswandlers (Erwacht)]]
+- [[Gewand_des_Todeswandlers-Erhaben-tdcsr|Gewand des Todeswandlers (Erhaben)]]
 
 *Source: Tal'Dorei Campaign Setting Reborn p. 204*

@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/idrotf
-  - Monster/HG/5
-  - Monster/Größe/Klein
-  - Monster/Typ/aberration
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Gnome Ceremorph
+tags:
+  - Monster/Größe/Klein
+  - Monster/HG/5
+  - Monster/Typ/aberration
+  - Quelle/5e/idrotf
 aliases:
   - Gnome Ceremorph
 ---

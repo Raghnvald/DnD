@@ -1,15 +1,14 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/3
-  - Monster/Habitat/astral
-  - Monster/Habitat/planar
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Aberration/Gith
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Githyanki Warrior
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/astral
+  - Monster/Habitat/planar
+  - Monster/HG/3
+  - Monster/Typ/Aberration/Gith
+  - Quelle/5e/xmm
 aliases:
   - Githyanki Warrior
 ---

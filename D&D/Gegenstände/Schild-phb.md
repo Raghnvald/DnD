@@ -2,7 +2,7 @@
 Bezeichnung: Schild
 Kategorie: Rüstung
 Rüstung: Schild
-Eigenschaften: n/v
+Eigenschaften: /
 Kst.: 10 GM
 Gew.: 3,0 kg
 RK: 2

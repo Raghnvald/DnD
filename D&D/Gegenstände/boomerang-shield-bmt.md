@@ -1,7 +1,7 @@
 ---
 cssclasses:
   - json5e-item
-Bezeichnung: Boomerang Shield
+Bezeichnung: Boomerang Shield-bmt
 Rüstung: Schild
 tags:
   - Gegenstand/Einstimmung/required

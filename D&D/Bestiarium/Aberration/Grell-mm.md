@@ -1,20 +1,19 @@
 ---
-cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
+statblock: inline
+statblock-link: "#^statblock"
 Bezeichnung: Grell
 Kategorie: Aberration
 Größe: Mittelgroß
 HG: 3
-status:
 image: token/Grell.webp
+status:
 tags:
-  - Quelle/5e/mm
-  - Monster/HG/3
-  - Monster/Habitat/Unterreich
   - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Unterreich
+  - Monster/HG/3
   - Monster/Typ/Aberration
-statblock: inline
-statblock-link: "#^statblock"
+  - Quelle/5e/mm
 aliases:
   - Grell
 ---
@@ -40,7 +39,6 @@ A grell will sometimes allow adventurers to wage war on the other monstrous inha
 > [!quote] A quote from An adventurer's account of a grell attack in Khyber, published in The Korranberg Chronicle  
 > 
 > Our intrepid rogue climbed up the shaft to secure a rope. There was a gasp, and the rope fell. We never saw her again.
-
 
 ```statblock
 "name": "Grell"

@@ -14,7 +14,6 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Studded Leather Armor
-  - Beschlagene Lederrüstung
 linter-yaml-title-alias: Beschlagene Lederrüstung
 ---
 # Beschlagene Lederrüstung

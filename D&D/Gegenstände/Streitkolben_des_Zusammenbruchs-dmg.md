@@ -3,6 +3,7 @@ Bezeichnung: Streitkolben des Zusammenbruchs
 Kategorie: Einfache Nahkampfwaffe
 Schaden: 1W6 Wucht
 Eigenschaften: /
+Einstimmung: erfordert
 Kst.: /
 Gew.: 2,0 kg
 tags:

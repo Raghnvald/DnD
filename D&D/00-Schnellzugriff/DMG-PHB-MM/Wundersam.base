@@ -1,3 +1,11 @@
+filters:
+  and:
+    - '!file.name.containsAny("-xdmg", "-xphb", "-xmm")'
+    - '!file.name.containsAny("-Schlummernd-", "-Erhaben-", "-Erwacht-", "-Awakened-", "-Dormant-", "-Exalted-", "-Ahn-", "-Erwachend-", "-Erweckt-")'
+    - '!file.name.containsAny("1", "2", "3", "4", "5", "6", "7", "8", "9", "0")'
+    - '!file.name.containsAny("-Blitz-", "-Energie-", "-Feuer-", "-Gift-", "-Gleißend-", "-Kälte-", "-Nekrotisch-", "-Psychisch-", "-Säure-", "-Schall-")'
+formulas:
+  Name: link(file, Bezeichnung)
 views:
   - type: table
     name: Wundersame Gegenstände
@@ -14,14 +22,42 @@ views:
       property: Kategorie
       direction: ASC
     order:
-      - file.name
-      - Typ
+      - formula.Name
       - Kst.
       - Gew.
       - Eigenschaften
+    sort:
+      - property: formula.Name
+        direction: ASC
     columnSize:
-      note.Typ: 102
-      note.Kst.: 117
+      note.Kst.: 97
+      note.Gew.: 76
+    image: note.IMAGE
+    imageAspectRatio: 1
+    cardSize: 100
+    imageFit: contain
+  - type: table
+    name: Wundersame Gegenstände 2
+    filters:
+      or:
+        - file.tags.contains("Gegenstand/wundersam")
+        - file.tags.contains("Gegenstand/wundersam/Ring")
+        - file.tags.contains("Gegenstand/wundersam/Rute")
+        - file.tags.contains("Gegenstand/wundersam/Stab")
+        - file.tags.contains("Gegenstand/wundersam/Trank")
+        - file.tags.contains("Gegenstand/wundersam/Zauberstab")
+        - file.tags.contains("Gegenstand/wundersam/Schriftrolle")
+    groupBy:
+      property: Kategorie
+      direction: ASC
+    order:
+      - formula.Name
+      - file.name
+    sort:
+      - property: formula.Name
+        direction: ASC
+    columnSize:
+      note.Kst.: 97
       note.Gew.: 76
     image: note.IMAGE
     imageAspectRatio: 1

@@ -1,7 +1,7 @@
 ---
 cssclasses:
   - json5e-item
-Bezeichnung: Sun Staff
+Bezeichnung: Sun Staff-bmt
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten

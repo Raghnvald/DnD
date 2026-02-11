@@ -1,6 +1,13 @@
 ---
 Bezeichnung: Kettenpanzer
+Kategorie: Rüstung
 Rüstung: Schwer
+Eigenschaften: /
+Kst.: 75 GM
+Gew.: 27,5 kg
+RK: 16
+STR: 13
+Heiml.: Nachteil
 tags:
   - Gegenstand/Rüstung/Schwer
   - Gegenstand/Seltenheit/keine
@@ -10,13 +17,13 @@ aliases:
 linter-yaml-title-alias: Chain Mail
 ---
 # Kettenpanzer
-*Heavy armor*  
+*Schwere Rüstung*
 
-- **Armor Class**: 16
-- **Strength**: Requires 13 STR.
-- **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
-- **Cost**: 75 gp
-- **Weight**: 55.0 lbs.
+- **Rüstungsklasse**: 16
+- **Stärke:** 13
+- **Heimlichkeit:** Nachteil
+- **Kosten:** 75 Goldmünzen
+- **Gewicht:** 27,5 kg
 
 Made of interlocking metal rings, chain mail includes a layer of quilted fabric worn underneath the mail to prevent chafing and to cushion the impact of blows. The suit includes gauntlets.
 

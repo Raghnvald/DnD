@@ -1,8 +1,13 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Skorpionrüstung
+Kategorie: Rüstung
 Rüstung: Schwer
+Eigenschaften: Verflucht
+Kst.: /
+Gew.: 32,5 kg
+RK: 18
+STR: 15
+Heiml.: /
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Rüstung/Schwer
@@ -20,7 +25,7 @@ linter-yaml-title-alias: Scorpion Armor
 - **Strength**: Requires 15 STR.
 - **Weight**: 65.0 lbs.
 
-This suit of plate armor is fashioned from [giant scorpion](/3-Mechanics/CLI/bestiary/beast/giant-scorpion.md) chitin. While wearing this armor, you gain the following benefits:
+This suit of plate armor is fashioned from [giant scorpion](Tier/Riesenskorpion-mm) chitin. While wearing this armor, you gain the following benefits:
 
 - The armor improves your combat readiness, granting you a +5 bonus to initiative as long as you aren't incapacitated.  
 - The armor doesn't impose disadvantage on your Dexterity (Stealth) checks.  

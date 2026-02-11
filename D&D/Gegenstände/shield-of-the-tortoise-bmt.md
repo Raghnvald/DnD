@@ -1,7 +1,7 @@
 ---
 cssclasses:
   - json5e-item
-Bezeichnung: Shield of the Tortoise
+Bezeichnung: Shield of the Tortoise-bmt
 Rüstung: Schild
 tags:
   - Gegenstand/Einstimmung/required

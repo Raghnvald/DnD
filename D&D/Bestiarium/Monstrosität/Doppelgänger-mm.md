@@ -1,7 +1,7 @@
 ---
 cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
-Name: Doppelgänger
+Bezeichnung: Doppelgänger
 Kategorie: Monstrosität
 Größe: Mittelgroß
 HG: 3

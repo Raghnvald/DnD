@@ -1,6 +1,14 @@
 ---
 Bezeichnung: Rüstung des Bewahrens
+Kategorie: Rüstung
 Rüstung: Schwer
+Eigenschaften: /
+Einstimmung: erfordert
+Kst.: /
+Gew.: /
+RK: /
+STR: /
+Heiml.: /
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Rüstung/Schwer
@@ -26,37 +34,37 @@ While wearing this armor, your hit point maximum increases by an amount equal to
 
 As an action, you can invoke the armor's rune to cast the beacon of hope spell with it; the spell has a duration of 1 minute and doesn't require concentration. Once the rune has been invoked, it can't be invoked again until the next dawn.
 
-**Variants**:
-- [Chain Mail of Safeguarding](#Chain%20Mail%20of%20Safeguarding)
-- [Plate Armor of Safeguarding](#Plate%20Armor%20of%20Safeguarding)
-- [Ring Mail of Safeguarding](#Ring%20Mail%20of%20Safeguarding)
-- [Splint Armor of Safeguarding](#Splint%20Armor%20of%20Safeguarding)
+**Varianten**:
+- [Kettenpanzer des Bewahrens](#Kettenpanzer%20des%20Bewahrens)
+- [Ringpanzer des Bewahrens](#Ringpanzer%20des%20Bewahrens)
+- [Ritterrüstung des Bewahrens](#Ritterrüstung%20des%20Bewahrens)
+- [Schienenpanzer des Bewahrens](#Schienenpanzer%20des%20Bewahrens)
 
-### Chain Mail of Safeguarding
+### Kettenpanzer des Bewahrens
 
-- **Armor Class**: 16
-- **Strength**: Requires 13 STR.
-- **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
-- **Weight**: 55.0 lbs.
+- **Rüstungsklasse**: 16
+- **Stärke:** 13
+- **Heimlichkeit:** Nachteil
+- **Gewicht:** 27,5 kg
 
-### Plate Armor of Safeguarding
+### Ringpanzer des Bewahrens
 
-- **Armor Class**: 18
-- **Strength**: Requires 15 STR.
-- **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
-- **Weight**: 65.0 lbs.
+- **Rüstungsklasse**: 14
+- **Heimlichkeit:** Nachteil
+- **Gewicht:** 20,0 kg
 
-### Ring Mail of Safeguarding
+### Ritterrüstung des Bewahrens
 
-- **Armor Class**: 14
-- **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
-- **Weight**: 40.0 lbs.
+- **Rüstungsklasse**: 18
+- **Stärke:** 15
+- **Heimlichkeit:** Nachteil
+- **Gewicht:** 32,5 kg
 
-### Splint Armor of Safeguarding
+### Schienenpanzer des Bewahrens
 
-- **Armor Class**: 17
-- **Strength**: Requires 15 STR.
-- **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
-- **Weight**: 60.0 lbs.
+- **Rüstungsklasse**: 17
+- **Stärke:** 15
+- **Heimlichkeit:** Nachteil
+- **Gewicht:** 30,0 kg
 
 *Source: Bigby Presents: Glory of the Giants p. 111*

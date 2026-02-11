@@ -1,7 +1,7 @@
 ---
 cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
-Name: Riesendachs
+Bezeichnung: Riesendachs
 Kategorie: Tier
 Größe: Mittelgroß
 HG: 1/4

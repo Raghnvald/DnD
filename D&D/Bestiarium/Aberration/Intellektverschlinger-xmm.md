@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/2
-  - Monster/Habitat/Unterreich
-  - Monster/Größe/Winzig
-  - Monster/Typ/Aberration
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Intellect Devourer
+tags:
+  - Monster/Größe/Winzig
+  - Monster/Habitat/Unterreich
+  - Monster/HG/2
+  - Monster/Typ/Aberration
+  - Quelle/5e/xmm
 aliases:
   - Intellect Devourer
 ---
@@ -27,7 +26,6 @@ Intellect devourers serve their mind flayer creators by consuming other creature
 > [!quote] A quote from Johana Grethe, Account of the Stormport Shock  
 > 
 > I know Durgan, and that wasn't Durgan. It was like something was wearing Durgan... like some sort of suit... a Durgan suit.
-
 
 ```statblock
 "name": "Intellect Devourer (XMM)"

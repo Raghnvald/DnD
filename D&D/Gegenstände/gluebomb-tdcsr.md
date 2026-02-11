@@ -2,6 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Gluebomb
+Kategorie: Explosives 
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/explosive

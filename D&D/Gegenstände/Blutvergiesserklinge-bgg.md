@@ -1,8 +1,6 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Bloodshed Blade
-Kategorie: Nahkampf-Kriegswaffe (generisch)
+Bezeichnung: Blutvergiesserklinge
+Kategorie: Nahkampf-Kriegswaffe (beliebiges Schwert)
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten

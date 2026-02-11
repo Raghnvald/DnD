@@ -1,17 +1,16 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mpmm
-  - Monster/HG/10
-  - Monster/Habitat/Unterreich
-  - Monster/Größe/Groß
-  - Monster/Typ/Aberration/Betrachter
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Death Kiss
+Kategorie: Aberration (Betrachter)
+tags:
+  - Monster/Größe/Groß
+  - Monster/Habitat/Unterreich
+  - Monster/HG/10
+  - Monster/Typ/Aberration/Betrachter
+  - Quelle/5e/mpmm
 aliases:
   - Death Kiss
-Kategorie: Aberration (Betrachter)
 ---
 # [Death Kiss](3-Mechanics\CLI\bestiary\aberration/death-kiss-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 85*  

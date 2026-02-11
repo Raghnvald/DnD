@@ -2,8 +2,9 @@
 Bezeichnung: Rüstung der Verwundbarkeit
 Kategorie: Rüstung
 Rüstung: Schwer
-Eigenschaften: erfordert Einstimmung
-Kst.: n/v
+Eigenschaften: /
+Einstimmung: erfordert
+Kst.: /
 Gew.: 32,5 kg
 RK: 18
 STR: 15
@@ -18,7 +19,7 @@ aliases:
 linter-yaml-title-alias: Armor of Vulnerability
 ---
 # Rüstung der Verwundbarkeit
-Rüstung ([[Ritterrüstung-phb|Ritterrüstung]]), selten (benötigt Einstimmung)
+*Rüstung ([[Ritterrüstung-phb|Ritterrüstung]]), selten (benötigt Einstimmung)*
 
 - **Rüstungsklasse**: 18
 - **Eigenschaften**: [[Gegenstandseigenschaften-phb#Verfluchte Gegenstände|Verflucht]]

@@ -1,15 +1,15 @@
 ---
-Name: Otyugh-Mutant
-Image: aberration/token/otyugh-mutate-pabtso.webp
-tags:
-  - Quelle/5e/pabtso
-  - Monster/HG/6
-  - Monster/Größe/Groß
-  - Monster/Typ/Aberration
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Otyugh Mutate
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/6
+  - Monster/Typ/Aberration
+  - Quelle/5e/pabtso
 aliases:
   - Otyugh Mutate
+Image: aberration/token/otyugh-mutate-pabtso.webp
 ---
 # Otyugh Mutate
 *Source: Phandelver and Below: The Shattered Obelisk p. 213*  

@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mpmm
-  - Monster/HG/13
-  - Monster/Habitat/Unterreich
-  - Monster/Größe/Gigantisch
-  - Monster/Typ/Aberration
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Neothelid
+tags:
+  - Monster/Größe/Gigantisch
+  - Monster/Habitat/Unterreich
+  - Monster/HG/13
+  - Monster/Typ/Aberration
+  - Quelle/5e/mpmm
 aliases:
   - Neothelid
 ---

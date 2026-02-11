@@ -1,8 +1,7 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Dragon Thighbone Club
 Kategorie: Einfache Nahkampfwaffe
+Einstimmung: optional
 tags:
   - Gegenstand/Einstimmung/optional
   - Gegenstand/Seltenheit/unbekannt/magic

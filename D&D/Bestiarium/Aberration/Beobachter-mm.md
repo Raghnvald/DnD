@@ -1,22 +1,21 @@
 ---
-cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
-Name: Beobachter
+statblock: inline
+statblock-link: "#^statblock"
+Bezeichnung: Beobachter
 Kategorie: Aberration
 Größe: Mittelgroß
 HG: 3
 Habitat:
   - Unterreich
-status: completed
 image: image/spectator
+status: completed
 tags:
-  - Quelle/5e/mm
-  - Monster/HG/3
-  - Monster/Habitat/Unterreich
   - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Unterreich
+  - Monster/HG/3
   - Monster/Typ/Aberration
-statblock: inline
-statblock-link: "#^statblock"
+  - Quelle/5e/mm
 aliases:
   - Spectator
 ---

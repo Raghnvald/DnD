@@ -1,6 +1,10 @@
 ---
 Bezeichnung: Wurfspeer der Blitze
 Kategorie: Einfache Nahkampfwaffe
+Schaden: 1W6 Stich
+Eigenschaften: Wurfwaffe
+Kst.: /
+Gew.: 1,0 kg
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/Waffe/Einfach
@@ -11,13 +15,13 @@ aliases:
 linter-yaml-title-alias: Javelin of Lightning
 ---
 # Wurfspeer der Blitze
-*Weapon ([javelin](/3-Mechanics/CLI/items/javelin.md)), major, uncommon*  
-![](/3-Mechanics/CLI/items/img/javelin-of-lightning.webp#right)
+*Waffe ([[Wurfspeer-phb|Wurfspeer]]), ungewöhnlich*
+<img src="javelin-of-lightning.webp" align="right" width="150">
 
-- **Damage**: 1d6 piercing
-- **Range**: 30/120
-- **Properties**: [Thrown](/3-Mechanics/CLI/item-properties.md#Thrown)
-- **Weight**: 2.0 lbs.
+- **Schaden:** 1d6 Stich
+- **Reichweite**: 9/36
+- **Eigenschaften**: [[Gegenstandseigenschaften-phb#Wurfwaffe|Wurfwaffe]]
+- **Gewicht:** 1,0 kg
 
 This javelin is a magic weapon. When you hurl it and speak its command word, it transforms into a bolt of lightning, forming a line 5 feet wide that extends out from you to a target within 120 feet. Each creature in the line excluding you and the target must make a DC 13 Dexterity saving throw, taking `4d6` lightning damage on a failed save, and half as much damage on a successful one. The lightning bolt turns back into a javelin when it reaches the target. Make a ranged weapon attack against the target. On a hit, the target takes damage from the javelin plus `4d6` lightning damage.
 

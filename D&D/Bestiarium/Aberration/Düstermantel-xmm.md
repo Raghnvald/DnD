@@ -1,19 +1,18 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/1-2
-  - Monster/Habitat/Unterreich
-  - Monster/Größe/Klein
-  - Monster/Typ/Aberration
 statblock: inline
 statblock-link: "#^statblock"
-aliases:
-  - Darkmantle
+Bezeichnung: Darkmantle
 Kategorie: Aberration
 Größe: Klein
 HG: 1/2
+tags:
+  - Monster/Größe/Klein
+  - Monster/Habitat/Unterreich
+  - Monster/HG/1-2
+  - Monster/Typ/Aberration
+  - Quelle/5e/xmm
+aliases:
+  - Darkmantle
 ---
 # [Darkmantle](3-Mechanics\CLI\bestiary\aberration/darkmantle-xmm.md)
 *Source: Monster Manual (2024) p. 90. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
@@ -32,7 +31,6 @@ Darkmantles share similarities with piercers and ropers and often hunt near thos
 > [!quote] A quote from S. Wakeman, Underdark Explorer  
 > 
 > Just assume there's no such thing as a stalactite.
-
 
 ```statblock
 "name": "Darkmantle (XMM)"

@@ -21,7 +21,7 @@ aliases:
 | &emsp;[Handaxe](/3-Mechanics/CLI/items/handaxe-xphb.md)           | 5 gp   | 1d6 slashing    | 2 lb.   | Light, thrown (range 20/60)           |
 | &emsp;[Javelin](/3-Mechanics/CLI/items/javelin-xphb.md)           | 5 sp   | 1d6 piercing    | 2 lb.   | Thrown (range 30/120)                 |
 | &emsp;[Light hammer](/3-Mechanics/CLI/items/light-hammer-xphb.md) | 2 gp   | 1d4 bludgeoning | 2 lb.   | Light, thrown (range 20/60)           |
-| &emsp;[Mace](/3-Mechanics/CLI/items/mace-xphb.md)                 | 5 gp   | 1d6 bludgeoning | 4 lb.   | —                                     |
+| &emsp;[Mace](Streitkolben-phb)                                    | 5 gp   | 1d6 bludgeoning | 4 lb.   | —                                     |
 | &emsp;[Quarterstaff](/3-Mechanics/CLI/items/quarterstaff-xphb.md) | 2 sp   | 1d6 bludgeoning | 4 lb.   | Versatile (1d8)                       |
 | &emsp;[Sickle](/3-Mechanics/CLI/items/sickle-xphb.md)             | 1 gp   | 1d4 slashing    | 2 lb.   | Light                                 |
 | &emsp;[Spear](/3-Mechanics/CLI/items/spear-xphb.md)               | 1 gp   | 1d6 piercing    | 3 lb.   | Thrown (range 20/60), versatile (1d8) |

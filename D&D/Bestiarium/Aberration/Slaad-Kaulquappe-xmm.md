@@ -1,22 +1,21 @@
 ---
-cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
-Bezeichnung: Slaad-Kaulquappe
+statblock: inline
+statblock-link: "#^statblock"
+Bezeichnung: Slaad Tadpole
 Kategorie: Aberration
 Größe: Winzig
 HG: 1/8
 Habitat: Planar (Limbo)
-status: WIP
 image:
+status: WIP
 tags:
-  - Quelle/5e/xmm
-  - Monster/HG/1-8
+  - Monster/Größe/Winzig
   - Monster/Habitat/limbo
   - Monster/Habitat/planar
-  - Monster/Größe/Winzig
+  - Monster/HG/1-8
   - Monster/Typ/Aberration
-statblock: inline
-statblock-link: "#^statblock"
+  - Quelle/5e/xmm
 aliases:
   - Slaad Tadpole
 ---
@@ -46,7 +45,6 @@ Slaadi have no formal society. Rather, strong slaadi dominate weaker ones. Blue 
 > [!quote] A quote from Jebeel Sloom  
 > 
 > Fight a slaad and lose, the story's over. Fight a slaad and win, there's a thousand more standing in line just to prove they're tougher.
-
 
 ```statblock
 "name": "Slaad Tadpole (XMM)"

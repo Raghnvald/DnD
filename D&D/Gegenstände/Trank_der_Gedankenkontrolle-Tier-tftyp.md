@@ -1,7 +1,7 @@
 ---
 cssclasses:
   - json5e-item
-Bezeichnung: Potion of Mind Control (beast)
+Bezeichnung: Trank der Gedankenkontrolle (Tier)
 tags:
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam/Trank

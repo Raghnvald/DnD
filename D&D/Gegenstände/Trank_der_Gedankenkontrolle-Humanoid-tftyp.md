@@ -1,7 +1,5 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Potion of Mind Control (humanoid)
+Bezeichnung: Trank der Gedankenkontrolle (Humanoid)
 tags:
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam/Trank

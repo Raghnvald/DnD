@@ -1,7 +1,7 @@
 ---
 cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
-Name: Violetter Pilz
+Bezeichnung: Violetter Pilz
 Kategorie: Pflanze
 Größe: Mittelgroß
 HG: 1/4

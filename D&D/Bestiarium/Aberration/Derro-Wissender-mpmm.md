@@ -1,20 +1,19 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mpmm
-  - Monster/HG/3
-  - Monster/Habitat/Unterreich
-  - Monster/Größe/Klein
-  - Monster/Typ/Aberration/Zauberer
 statblock: inline
 statblock-link: "#^statblock"
-aliases:
-  - Derro Savant
+Bezeichnung: Derro Savant
 Kategorie: Aberration (Zauberer)
 Größe: Klein
 HG: 3
 status: WIP
+tags:
+  - Monster/Größe/Klein
+  - Monster/Habitat/Unterreich
+  - Monster/HG/3
+  - Monster/Typ/Aberration/Zauberer
+  - Quelle/5e/mpmm
+aliases:
+  - Derro Savant
 ---
 # [Derro Savant](3-Mechanics\CLI\bestiary\aberration/derro-savant-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 92*  

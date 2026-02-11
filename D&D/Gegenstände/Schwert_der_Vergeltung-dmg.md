@@ -1,8 +1,6 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Sword of Vengeance
-Kategorie: Nahkampf-Kriegswaffe (generisch)
+Bezeichnung: Schwert der Vergeltung
+Kategorie: Nahkampf-Kriegswaffe (beliebiges Schwert)
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/ungewöhnlich

@@ -54,7 +54,7 @@ aliases:
 - **Weapon Proficiencies**: Simple weapons
 - **Armor Training**: [Light armor](/3-Mechanics/CLI/item-types.md#Light%20Armor), [Medium armor](/3-Mechanics/CLI/item-types.md#Medium%20Armor), and [Shields](/3-Mechanics/CLI/items/shield-xphb.md)
 
-**Starting Equipment:** *Choose A or B:* (A) [Chain Shirt](/3-Mechanics/CLI/items/chain-shirt-xphb.md), [Shield](/3-Mechanics/CLI/items/shield-xphb.md), [Mace](/3-Mechanics/CLI/items/mace-xphb.md), [Holy Symbol](/3-Mechanics/CLI/items/holy-symbol-xphb.md), [Priest's Pack](/3-Mechanics/CLI/items/priests-pack-xphb.md), 7 GP; or (B) 110 GP
+**Starting Equipment:** *Choose A or B:* (A) [Chain Shirt](/3-Mechanics/CLI/items/chain-shirt-xphb.md), [Shield](/3-Mechanics/CLI/items/shield-xphb.md), [Mace](Streitkolben-xphb), [Holy Symbol](/3-Mechanics/CLI/items/holy-symbol-xphb.md), [Priest's Pack](/3-Mechanics/CLI/items/priests-pack-xphb.md), 7 GP; or (B) 110 GP
 
 ## Multiclassing Cleric
 

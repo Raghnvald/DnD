@@ -1,7 +1,7 @@
 ---
 cssclasses:
   - json5e-item
-Bezeichnung: Honor's Last Stand
+Bezeichnung: Letzte Bastion der Ehre
 Rüstung: Schild
 tags:
   - Gegenstand/Einstimmung/required

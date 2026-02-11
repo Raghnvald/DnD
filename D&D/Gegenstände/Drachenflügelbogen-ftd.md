@@ -1,7 +1,6 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Dragon Wing Bow
+Bezeichnung: Drachenflügelbogen
+Kategorie: Beliebig, Bogen
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
@@ -16,7 +15,7 @@ aliases:
   - Dragon Wing Shortbow
 linter-yaml-title-alias: Dragon Wing Bow
 ---
-# Dragon Wing Bow
+# Drachenflügelbogen
 *Rare (requires attunement)*  
 
 The limb tips of this magic bow are shaped like a dragon's wings, and the weapon is infused with the essence of a chromatic, gem, or metallic dragon's breath. When you hit with an attack roll using this magic bow, the target takes an extra `1d6` damage of the same type as the breath infused in the bow—acid, cold, fire, force, lightning, necrotic, poison, psychic, radiant, or thunder.

@@ -1,7 +1,7 @@
 ---
 cssclasses:
   - json5e-item
-Bezeichnung: Euryale's Aegis
+Bezeichnung: Euryale's Aegis-bmt
 Rüstung: Schild
 tags:
   - Gegenstand/Einstimmung/required

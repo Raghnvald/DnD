@@ -3,6 +3,7 @@ Bezeichnung: Dolch des Gitarrensolos
 Kategorie: Einfache Nahkampfwaffe
 Schaden: 1W4 Stich
 Eigenschaften: Finesse, Leicht, Wurfwaffe
+Einstimmung: /
 Kst.: 750 GM
 Gew.: 0,5 kg
 tags:

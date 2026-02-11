@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/bam
-  - Monster/HG/18
-  - Monster/Größe/Gigantisch
-  - Monster/Typ/aberration
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Cosmic Horror
+tags:
+  - Monster/Größe/Gigantisch
+  - Monster/HG/18
+  - Monster/Typ/aberration
+  - Quelle/5e/bam
 aliases:
   - Cosmic Horror
 ---

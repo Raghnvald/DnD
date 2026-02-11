@@ -13,6 +13,7 @@ tags:
 aliases:
   - Dart
 linter-yaml-title-alias: Dart
+Einstimmung: /
 ---
 # Wurfpfeil
 *Waffe*  

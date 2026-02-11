@@ -1,7 +1,6 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Giant Slayer
+Bezeichnung: Riesentöter
+Kategorie: Beliebig, Nahkampfwaffe
 tags:
   - Gegenstand/Seltenheit/selten
   - Gegenstand/Waffe/Einfach

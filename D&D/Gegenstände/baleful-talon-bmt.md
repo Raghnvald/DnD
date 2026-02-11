@@ -1,7 +1,7 @@
 ---
 cssclasses:
   - json5e-item
-Bezeichnung: Baleful Talon
+Bezeichnung: Baleful Talon-bmt
 Kategorie: Einfache Nahkampfwaffe
 tags:
   - Gegenstand/Seltenheit/sehr_selten
@@ -11,6 +11,7 @@ tags:
 aliases:
   - Baleful Talon
 linter-yaml-title-alias: Baleful Talon
+Einstimmung: /
 ---
 # Baleful Talon
 *Weapon (dagger), very rare*  

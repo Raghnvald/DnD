@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/egw
-  - Monster/HG/15
-  - Monster/Größe/Gigantisch
-  - Monster/Typ/aberration
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Core Spawn Worm
+tags:
+  - Monster/Größe/Gigantisch
+  - Monster/HG/15
+  - Monster/Typ/aberration
+  - Quelle/5e/egw
 aliases:
   - Core Spawn Worm
 ---

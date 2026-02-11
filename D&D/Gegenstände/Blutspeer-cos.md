@@ -14,6 +14,7 @@ tags:
 aliases:
   - Blood Spear
 linter-yaml-title-alias: Blood Spear
+Einstimmung: /
 ---
 # Blutspeer
 *Waffe ([[Speer-phb|Speer]], ungewöhnlich (erfordert Einstimmung)*

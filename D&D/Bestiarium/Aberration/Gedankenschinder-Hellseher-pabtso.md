@@ -1,14 +1,14 @@
 ---
-tags:
-  - Quelle/5e/pabtso
-  - Monster/HG/11
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Aberration
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Mind Flayer Clairvoyant
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/11
+  - Monster/Typ/Aberration
+  - Quelle/5e/pabtso
 aliases:
   - Mind Flayer Clairvoyant
-Name: Gedankenschinder-Hellseher
 Image: aberration/token/mind-flayer-clairvoyant-pabtso.webp
 ---
 # Mind Flayer Clairvoyant

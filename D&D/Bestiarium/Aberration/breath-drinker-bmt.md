@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/bmt
-  - Monster/HG/14
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/aberration
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Breath Drinker
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/14
+  - Monster/Typ/aberration
+  - Quelle/5e/bmt
 aliases:
   - Breath Drinker
 ---

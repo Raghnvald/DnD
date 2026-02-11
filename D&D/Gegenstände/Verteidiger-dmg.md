@@ -1,8 +1,6 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Defender
-Kategorie: Nahkampf-Kriegswaffe (generisch)
+Bezeichnung: Verteidiger
+Kategorie: Nahkampf-Kriegswaffe (beliebiges Schwert)
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär

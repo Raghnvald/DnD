@@ -1,5 +1,4 @@
 ---
-cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
 statblock: inline
 statblock-link: "#^statblock"

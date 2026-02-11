@@ -2,7 +2,8 @@
 Bezeichnung: Belebter Schild
 Kategorie: Rüstung
 Rüstung: Schild
-Eigenschaften: Erfordert Einstimmung
+Eigenschaften: /
+Einstimmung: erfordert
 Kst.: /
 Gew.: 3,0 kg
 RK: 2

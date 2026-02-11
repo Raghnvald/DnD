@@ -1,8 +1,11 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Streitkolben des Niederstreckens
 Kategorie: Einfache Nahkampfwaffe
+Schaden: 1W6 Wucht
+Eigenschaften: /
+Einstimmung: /
+Kst.: /
+Gew.: 2,0 kg
 tags:
   - Gegenstand/Seltenheit/selten
   - Gegenstand/Waffe/Einfach
@@ -13,15 +16,15 @@ aliases:
 linter-yaml-title-alias: Mace of Smiting
 ---
 # Mace of Smiting
-*Weapon ([mace](/3-Mechanics/CLI/items/mace.md)), major, rare*  
-![](/3-Mechanics/CLI/items/img/mace-of-smiting.webp#right)
+*Weapon ([[Streikolben-phb|Streitkolben]]), major, rare*
+<img src="mace-of-smiting.webp" align="right" width="150">
 
-- **Damage**: 1d6 bludgeoning
-- **Weight**: 4.0 lbs.
+- **Schaden:** 1d6 Wucht
+- **Gewicht:** 2,0 kg
 
-You gain a +1 bonus to attack and damage rolls made with this magic weapon. The bonus increases to +3 when you use the mace to attack a construct.
+Du erhältst einen Bonus von +1 auf Angriffs- und Schadenswürfe, die du mit dieser magischen Waffe ausführst. Der Bonus erhöht sich auf +3, wenn du ein Konstrukt mit dem Streitkolben angreifst.
 
-When you roll a 20 on an attack roll made with this weapon, the target takes an extra 7 bludgeoning damage, or an extra 14 bludgeoning damage if it's a construct. If a construct has 25 hit points or fewer after taking this damage, it is destroyed.
+Wenn du bei einem Angriffswurf mit dieser Waffe eine 20 würfelst, erleidet das Ziel zusätzlich `7` Wuchtschaden. Wenn das Ziel ein Konstrukt ist, erleidet es `14` Wuchtschaden. Wenn ein Konstrukt nach Erleiden des Schadens nur noch höchstens 25 Trefferpunkte hat, wird es zerstört.
 
 > [!note]
 > Note: According to the SRD, it is an extra `2d6` and `4d6` bludgeoning damage, although this is incorrect (https://rpg.stackexchange.com/a/174522/53884).

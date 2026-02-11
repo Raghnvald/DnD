@@ -1,8 +1,8 @@
 ---
-Name: "Lucan Leuchtmoos"
-Rasse: "Elf"
-Klasse: "Druide"
-Unterklasse: "Zirkel des Mondes"
+Bezeichnung: Lucan Leuchtmoos
+Rasse: Elf
+Klasse: Druide
+Unterklasse: Zirkel des Mondes
 hp: 69
 ac: 19
 modifier: 2
@@ -11,7 +11,7 @@ RK: 19
 pW: "13"
 ZR: "15"
 tags:
-- player
+  - player
 ---
 # Lucan
 

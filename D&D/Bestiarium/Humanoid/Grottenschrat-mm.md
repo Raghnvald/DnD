@@ -1,7 +1,7 @@
 ---
 cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
-Name: Grottenschrat
+Bezeichnung: Grottenschrat
 Kategorie: Humanoid
 Größe: Mittelgroß
 HG: 1
@@ -46,7 +46,6 @@ name: Grottenschrat
 image: token/bugbear.webp
 source:
   - MM
-  - EGW
 size: Medium
 type: Humanoid
 subtype: goblinoid
@@ -69,7 +68,7 @@ skillsaves:
     "desc": "+6"
   - name: <STATBLOCK-MARKDOWN-LINK>01-Spielleiter/Fertigkeiten-phb#Überleben|Überleben<STATBLOCK-MARKDOWN-LINK>
     "desc": "+2"
-senses: senses: <STATBLOCK-MARKDOWN-LINK>01-Spielleiter/Sinne-phb#Dunkelsicht|Dunkelsicht<STATBLOCK-MARKDOWN-LINK> 18 Meter, passive Wahrnehmung 10
+senses: <STATBLOCK-MARKDOWN-LINK>01-Spielleiter/Sinne-phb#Dunkelsicht|Dunkelsicht<STATBLOCK-MARKDOWN-LINK> 18 Meter, passive Wahrnehmung 10
 languages: Gemeinsprache, Goblinisch
 cr: "1"
 traits:

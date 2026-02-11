@@ -1,14 +1,14 @@
 ---
-tags:
-  - Quelle/5e/pabtso
-  - Monster/HG/15
-  - Monster/Größe/Riesig
-  - Monster/Typ/Aberration/Gedankenschinder
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Refraction of Ilvaash
+tags:
+  - Monster/Größe/Riesig
+  - Monster/HG/15
+  - Monster/Typ/Aberration/Gedankenschinder
+  - Quelle/5e/pabtso
 aliases:
   - Refraction of Ilvaash
-Name: Refraktion von Ilvaash
 Image: aberration/token/refraction-of-ilvaash-pabtso.webp
 ---
 # Refraction of Ilvaash

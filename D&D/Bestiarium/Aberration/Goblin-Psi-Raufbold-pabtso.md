@@ -1,21 +1,20 @@
 ---
-cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
-Name: Goblin-Psi-Raufbold
+statblock: inline
+statblock-link: "#^statblock"
+Bezeichnung: Goblin-Psi-Raufbold
 Kategorie: Aberration (Goblinoid)
 Größe: Klein
 HG: 2
 Habitat:
   - /
-status: completed
 image: image/goblin-psi-brawler-pabtso.webp
+status: completed
 tags:
-  - Quelle/5e/pabtso
-  - Monster/HG/2
   - Monster/Größe/Klein
+  - Monster/HG/2
   - Monster/Typ/Aberration/Goblinoid
-statblock: inline
-statblock-link: "#^statblock"
+  - Quelle/5e/pabtso
 aliases:
   - Goblin Psi Brawler
 ---

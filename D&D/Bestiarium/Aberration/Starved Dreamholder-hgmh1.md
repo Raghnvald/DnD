@@ -1,15 +1,14 @@
 ---
-cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
-Bezeichnung:
+Bezeichnung: Starved Dreamholder-hgmh1
 Kategorie: Aberration
 Größe:
 HG:
-status:
 image:
+status:
 tags:
-  - Quelle/5e/hgtmh1
   - Monster/Typ/Aberration
-aliases:
-  -
+  - Quelle/5e/hgtmh1
+aliases: []
 ---
+# Starved Dreamholder-hgmh1

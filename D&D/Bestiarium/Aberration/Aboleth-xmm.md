@@ -1,17 +1,7 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/10
-  - Monster/Habitat/Unterreich
-  - Monster/Habitat/underwater
-  - Monster/Größe/Groß
-  - Monster/Typ/Aberration
 statblock: inline
 statblock-link: "#^statblock"
-aliases:
-  - Aboleth
+Bezeichnung: Aboleth
 Kategorie: Aberration
 Größe: Groß
 HG: 10
@@ -19,6 +9,16 @@ Habitat:
   - Unterreich
   - Unterwasser
 status: WIP
+tags:
+  - Monster/Größe/Groß
+  - Monster/Habitat/underwater
+  - Monster/Habitat/Unterreich
+  - Monster/HG/10
+  - Monster/Typ/Aberration
+  - Quelle/5e/xmm
+aliases:
+  - Aboleth
+Image: token/aboleth-xmm.webp
 ---
 # [Aboleth](3-Mechanics\CLI\bestiary\aberration/aboleth-xmm.md)
 *Source: Monster Manual (2024) p. 12. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

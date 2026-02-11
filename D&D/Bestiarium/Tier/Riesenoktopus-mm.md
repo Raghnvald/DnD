@@ -1,7 +1,7 @@
 ---
 cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
-Name: Riesenoktopus
+Bezeichnung: Riesenoktopus
 Kategorie: Tier
 Größe: Groß
 HG: 1

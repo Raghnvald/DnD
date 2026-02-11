@@ -1,15 +1,15 @@
 ---
-Name: Augenkugel
-Image: aberration/token/oculorb-pabtso.webp
-tags:
-  - Quelle/5e/pabtso
-  - Monster/HG/9
-  - Monster/Größe/Groß
-  - Monster/Typ/Aberration
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Oculorb
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/9
+  - Monster/Typ/Aberration
+  - Quelle/5e/pabtso
 aliases:
   - Oculorb
+Image: aberration/token/oculorb-pabtso.webp
 ---
 # Oculorb
 *Source: Phandelver and Below: The Shattered Obelisk p. 214*  

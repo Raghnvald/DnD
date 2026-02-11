@@ -1,7 +1,7 @@
 ---
 cssclasses:
   - json5e-item
-Bezeichnung: Pariah's Shield
+Bezeichnung: Pariah's Shield-ggr
 Rüstung: Schild
 tags:
   - Gegenstand/Einstimmung/required

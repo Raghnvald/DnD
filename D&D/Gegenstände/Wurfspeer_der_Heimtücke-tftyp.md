@@ -1,6 +1,11 @@
 ---
 Bezeichnung: Wurfspeer der Heimtücke
 Kategorie: Einfache Nahkampfwaffe
+Schaden: 1W6 Stich
+Eigenschaften: Wurfwaffe
+Einstimmung: /
+Kst.: /
+Gew.: 1,0 kg
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
@@ -12,12 +17,12 @@ aliases:
 linter-yaml-title-alias: Javelin of Backbiting
 ---
 # Wurfspeer der Heimtücke
-*Weapon (javelin), cursed item, very rare (requires attunement)*  
+*Waffe ([[Wurfspeer-phb|Wurfspeer]]), cursed item, very rare (requires attunement)*  
 
-- **Damage**: 1d6 piercing
-- **Range**: 60/150
-- **Properties**: Cursed, Thrown
-- **Weight**: 2.0 lbs.
+- **Schaden**: 1d6 Stich
+- **Reichweite**: 18/45
+- **Eigenschaften**: [[Gegenstandseigenschaften-phb#Verfluchte Gegenstände|Verflucht]], [[Gegenstandseigenschaften-phb#Wurfwaffe|Wurfwaffe]]
+- **Gewicht:** 1,0 kg
 
 You gain a +2 bonus to attack and damage rolls made with this magic weapon. When you throw it, its normal and long ranges both increase by 30 feet, and it deals one extra die of damage on a hit. After you throw it and it hits or misses, it flies back to your hand immediately.
 

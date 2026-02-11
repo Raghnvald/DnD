@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/vrgr
-  - Monster/HG/21
-  - Monster/Größe/Riesig
-  - Monster/Typ/Aberration
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Greater Star Spawn Emissary
+tags:
+  - Monster/Größe/Riesig
+  - Monster/HG/21
+  - Monster/Typ/Aberration
+  - Quelle/5e/vrgr
 aliases:
   - Greater Star Spawn Emissary
 ---

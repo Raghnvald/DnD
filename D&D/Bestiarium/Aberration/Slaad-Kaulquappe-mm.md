@@ -1,11 +1,12 @@
 ---
-tags:
-  - Quelle/5e/mm
-  - Monster/HG/1-8
-  - Monster/Größe/Winzig
-  - Monster/Typ/Aberration
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Slaad Tadpole
+tags:
+  - Monster/Größe/Winzig
+  - Monster/HG/1-8
+  - Monster/Typ/Aberration
+  - Quelle/5e/mm
 aliases:
   - Slaad Tadpole
 ---
@@ -48,7 +49,6 @@ Some slaadi can transform into the humanoid creatures from which they were origi
 > [!quote]  
 > 
 > Embedded in a slaad's brain is a magic gem. Acquire it, and the slaad is yours to command.
-
 
 ```statblock
 "name": "Slaad Tadpole"

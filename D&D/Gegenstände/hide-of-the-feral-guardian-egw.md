@@ -1,8 +1,14 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Hide of the Feral Guardian
+Bezeichnung: Hide of the Feral Guardian-egw
+Kategorie: Rüstung
 Rüstung: Leicht
+Eigenschaften: /
+Einstimmung: erfordert
+Kst.: /
+Gew.: 6,5 kg
+RK: 12 + GES
+STR: /
+Heiml.: /
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Rüstung/Leicht
@@ -13,7 +19,7 @@ aliases:
 linter-yaml-title-alias: Hide of the Feral Guardian
 ---
 # Hide of the Feral Guardian
-*Light armor ([studded leather armor](/3-Mechanics/CLI/items/studded-leather-armor-xphb.md)), legendary (requires attunement)*  
+*Light armor ([studded leather armor](Beschlagene_Lederrüstung-xphb)), legendary (requires attunement)*  
 
 - **Armor Class**: 12 + Dex modifier
 - **Properties**: [Vestige of Divergence](/3-Mechanics/CLI/item-properties.md#Vestige%20of%20Divergence)

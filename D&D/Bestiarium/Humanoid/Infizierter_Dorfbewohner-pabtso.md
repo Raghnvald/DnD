@@ -8,7 +8,7 @@ statblock: inline
 statblock-link: "#^statblock"
 aliases:
   - Infected Townsperson
-Name: Infizierter Dorfbewohner
+Bezeichnung: Infizierter Dorfbewohner
 Image: humanoid/token/infected-townsperson-pabtso.webp
 ---
 # Infected Townsperson

@@ -1,7 +1,6 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Hellfire Weapon
+Bezeichnung: Höllenfeuerwaffe
+Kategorie: Beliebige Waffe
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/Waffe/Einfach

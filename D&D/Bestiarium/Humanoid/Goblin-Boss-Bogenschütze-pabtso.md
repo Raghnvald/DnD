@@ -10,7 +10,7 @@ statblock: inline
 statblock-link: "#^statblock"
 aliases:
   - Goblin Boss Archer
-Name: Goblin-Boss-Bogenschütze
+Bezeichnung: Goblin-Boss-Bogenschütze
 Image: humanoid/token/goblin-boss-archer-pabtso.webp
 ---
 # Goblin Boss Archer

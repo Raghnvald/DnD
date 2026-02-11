@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/cm
-  - Monster/HG/2
-  - Monster/Größe/Klein
-  - Monster/Typ/Aberration/Gestaltwandler
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Gingwatzim
+tags:
+  - Monster/Größe/Klein
+  - Monster/HG/2
+  - Monster/Typ/Aberration/Gestaltwandler
+  - Quelle/5e/cm
 aliases:
   - Gingwatzim
 ---

@@ -1,7 +1,8 @@
 ---
 cssclasses:
   - json5e-item
-Bezeichnung: Argonnessen Trinket
+Bezeichnung: Tand aus Argonnessen
+Kategorie: Abenteuerausrüstung
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine

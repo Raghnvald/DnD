@@ -3,6 +3,7 @@ Bezeichnung: Dolch der Blindsicht
 Kategorie: Einfache Nahkampfwaffe
 Schaden: 1W4 Stich
 Eigenschaften: Finesse, Leicht, Wurfwaffe
+Einstimmung: erfordert
 Kst.: /
 Gew.: 0,5 kg
 tags:

@@ -1,24 +1,23 @@
 ---
-cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
+statblock: inline
+statblock-link: "#^statblock"
 Bezeichnung: Aboleth
 Kategorie: Aberration
 Größe: Groß
 HG: 10
-status: WIP
-image:
-tags:
-  - Quelle/5e/mm
-  - Monster/HG/10
-  - Monster/Habitat/Unterreich
-  - Monster/Größe/Groß
-  - Monster/Typ/Aberration
-statblock: inline
-statblock-link: "#^statblock"
-aliases:
-  - Aboleth
 Habitat:
   - Unterreich
+image: token/aboleth.webp
+status: WIP
+tags:
+  - Monster/Größe/Groß
+  - Monster/Habitat/Unterreich
+  - Monster/HG/10
+  - Monster/Typ/Aberration
+  - Quelle/5e/mm
+aliases:
+  - Aboleth
 ---
 # [Aboleth](3-Mechanics\CLI\bestiary\aberration/aboleth.md)
 *Source: Monster Manual p. 13. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  

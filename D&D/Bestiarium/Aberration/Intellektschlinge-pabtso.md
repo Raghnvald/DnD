@@ -1,14 +1,14 @@
 ---
-tags:
-  - Quelle/5e/pabtso
-  - Monster/HG/8
-  - Monster/Größe/Klein
-  - Monster/Typ/Aberration
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Intellect Snare
+tags:
+  - Monster/Größe/Klein
+  - Monster/HG/8
+  - Monster/Typ/Aberration
+  - Quelle/5e/pabtso
 aliases:
   - Intellect Snare
-Name: Intellektschlinge
 Image: aberration/token/intellect-snare-pabtso.webp
 ---
 # Intellect Snare

@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/jttrc
-  - Monster/HG/9
-  - Monster/Größe/Groß
-  - Monster/Typ/aberration
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Whistler
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/9
+  - Monster/Typ/aberration
+  - Quelle/5e/jttrc
 aliases:
   - Whistler
 ---

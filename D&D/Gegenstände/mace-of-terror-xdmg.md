@@ -13,7 +13,7 @@ aliases:
 linter-yaml-title-alias: Mace of Terror
 ---
 # Mace of Terror
-*Weapon ([mace](/3-Mechanics/CLI/items/mace-xphb.md)), rare (requires attunement)*  
+*Weapon ([mace](Streitkolben-xphb)), rare (requires attunement)*  
 ![](/3-Mechanics/CLI/items/img/mace-of-terror.webp#right)
 
 - **Damage**: 1d6 bludgeoning

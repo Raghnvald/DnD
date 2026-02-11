@@ -1,22 +1,21 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mm
-  - Monster/HG/13
-  - Monster/Habitat/Unterreich
-  - Monster/Größe/Groß
-  - Monster/Typ/Aberration
 statblock: inline
 statblock-link: "#^statblock"
-aliases:
-  - Beholder
+Bezeichnung: Beholder
+Kategorie: Aberration
+Größe: Groß
+HG: 13
 Habitat:
   - Unterreich
-HG: 13
-Größe: Groß
-Kategorie: Aberration
 status: WIP
+tags:
+  - Monster/Größe/Groß
+  - Monster/Habitat/Unterreich
+  - Monster/HG/13
+  - Monster/Typ/Aberration
+  - Quelle/5e/mm
+aliases:
+  - Beholder
 ---
 # [Beholder](3-Mechanics\CLI\bestiary\aberration/beholder.md)
 *Source: Monster Manual p. 28*  

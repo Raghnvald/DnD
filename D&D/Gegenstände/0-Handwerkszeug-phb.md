@@ -13,8 +13,8 @@ linter-yaml-title-alias: Handwerkszeug
 
 **Items in this group:**
 
-- [[Alchemistenlabor-phb]]
-- [[Brauereizubehör]]
+- [[Alchemistenlabor-phb|Alchemistenlabor]]
+- [[Brauereivorräte-phb|Brauereivorräte]]
 - [Calligrapher's Supplies](/3-Mechanics/CLI/items/calligraphers-supplies.md)
 - [Carpenter's Tools](/3-Mechanics/CLI/items/carpenters-tools.md)
 - [Cartographer's Tools](/3-Mechanics/CLI/items/cartographers-tools.md)

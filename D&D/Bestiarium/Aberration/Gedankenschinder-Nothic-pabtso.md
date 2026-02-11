@@ -1,14 +1,14 @@
 ---
-tags:
-  - Quelle/5e/pabtso
-  - Monster/HG/2
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Aberration
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Mind Flayer Nothic
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/2
+  - Monster/Typ/Aberration
+  - Quelle/5e/pabtso
 aliases:
   - Mind Flayer Nothic
-Name: Gedankenschinder-Nothic
 Image: aberration/token/mind-flayer-nothic-pabtso.webp
 ---
 # Mind Flayer Nothic

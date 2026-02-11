@@ -1,16 +1,14 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/pabtso
-  - Monster/HG/8
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Aberration
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Mind Flayer Prophet
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/8
+  - Monster/Typ/Aberration
+  - Quelle/5e/pabtso
 aliases:
   - Mind Flayer Prophet
-Name: Gedankenschinder-Prophet
 Image: aberration/token/mind-flayer-prophet-pabtso.webp
 ---
 # Mind Flayer Prophet

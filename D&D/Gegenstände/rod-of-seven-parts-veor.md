@@ -2,10 +2,12 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Rod of Seven Parts
+Kategorie: Einfache Nahkampfwaffe 
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/Artefakt
   - Gegenstand/Waffe/Einfach
+  - Gegenstand/Waffe/Nahkampf
   - Gegenstand/wundersam/Rute
   - Quelle/5e/veor
 aliases:

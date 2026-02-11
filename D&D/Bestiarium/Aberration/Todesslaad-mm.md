@@ -1,16 +1,15 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mm
-  - Monster/HG/10
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Aberration/Gestaltwandler
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Death Slaad
+Kategorie: Aberration (Gestaltwandler)
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/10
+  - Monster/Typ/Aberration/Gestaltwandler
+  - Quelle/5e/mm
 aliases:
   - Death Slaad
-Kategorie: Aberration (Gestaltwandler)
 ---
 # [Death Slaad](3-Mechanics\CLI\bestiary\aberration/death-slaad.md)
 *Source: Monster Manual p. 278*  
@@ -53,7 +52,6 @@ Some slaadi can transform into the humanoid creatures from which they were origi
 > [!quote]  
 > 
 > Embedded in a slaad's brain is a magic gem. Acquire it, and the slaad is yours to command.
-
 
 ```statblock
 "name": "Death Slaad"

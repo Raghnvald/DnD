@@ -2,7 +2,8 @@
 Bezeichnung: Pfeil-fangender Schild
 Kategorie: Rüstung
 Rüstung: Schild
-Eigenschaften: erfordert Einstimmung
+Eigenschaften: /
+Einstimmung: erfordert
 Kst.: /
 Gew.: 3,0 kg
 RK: 2

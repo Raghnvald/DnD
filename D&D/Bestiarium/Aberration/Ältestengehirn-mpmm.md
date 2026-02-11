@@ -1,22 +1,21 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mpmm
-  - Monster/HG/14
-  - Monster/Habitat/Unterreich
-  - Monster/Größe/Groß
-  - Monster/Typ/Aberration/Gedankenschinder
 statblock: inline
 statblock-link: "#^statblock"
-aliases:
-  - Elder Brain
+Bezeichnung: Elder Brain
 Kategorie: Aberration (Gedankenschinder)
 Größe: Groß
 HG: 14
 Habitat:
   - Unterreich
 status: WIP
+tags:
+  - Monster/Größe/Groß
+  - Monster/Habitat/Unterreich
+  - Monster/HG/14
+  - Monster/Typ/Aberration/Gedankenschinder
+  - Quelle/5e/mpmm
+aliases:
+  - Elder Brain
 ---
 # [Elder Brain](3-Mechanics\CLI\bestiary\aberration/elder-brain-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 120, Phandelver and Below: The Shattered Obelisk*  

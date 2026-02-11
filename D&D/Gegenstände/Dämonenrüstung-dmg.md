@@ -2,7 +2,8 @@
 Bezeichnung: Dämonenrüstung
 Kategorie: Rüstung
 Rüstung: Schwer
-Eigenschaften: erfordert Einstimmung
+Eigenschaften: /
+Einstimmung: erfordert
 Kst.: n/v
 Gew.: 32,5 kg
 RK: 18

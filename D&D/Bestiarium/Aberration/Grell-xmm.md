@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/3
-  - Monster/Habitat/Unterreich
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Aberration
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Grell
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Unterreich
+  - Monster/HG/3
+  - Monster/Typ/Aberration
+  - Quelle/5e/xmm
 aliases:
   - Grell
 ---
@@ -43,7 +42,6 @@ Many grells pursue methods of traveling between worlds and planes of existence. 
 > [!quote] A quote from Evard  
 > 
 > For meal, my hunger grinds within my teeth. For might, my hunger clenches in my grip. But for what we're told we mustn't know, my hunger snaps a raptor's beak and makes my mind a muscle that knows only how to chew.
-
 
 ```statblock
 "name": "Grell (XMM)"

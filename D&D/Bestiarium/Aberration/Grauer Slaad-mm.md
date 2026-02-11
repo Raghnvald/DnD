@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mm
-  - Monster/HG/9
-  - Monster/Habitat/Stadt
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Aberration/Gestaltwandler
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Gray Slaad
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Stadt
+  - Monster/HG/9
+  - Monster/Typ/Aberration/Gestaltwandler
+  - Quelle/5e/mm
 aliases:
   - Gray Slaad
 ---
@@ -55,7 +54,6 @@ Some slaadi can transform into the humanoid creatures from which they were origi
 > [!quote]  
 > 
 > Embedded in a slaad's brain is a magic gem. Acquire it, and the slaad is yours to command.
-
 
 ```statblock
 "name": "Gray Slaad"

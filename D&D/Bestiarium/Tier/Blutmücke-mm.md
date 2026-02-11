@@ -1,7 +1,7 @@
 ---
 cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
-Name: Blutmücke
+Bezeichnung: Blutmücke
 Kategorie: Tier
 Größe: Winzig
 HG: 1/8

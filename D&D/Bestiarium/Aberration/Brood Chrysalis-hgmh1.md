@@ -1,14 +1,14 @@
 ---
-cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
-Bezeichnung:
+Bezeichnung: Brood Chrysalis-hgmh1
 Kategorie: Aberration
 Größe: Riesig
 HG: 12
-status: WIP
 image:
+status: WIP
 tags:
-  - Quelle/5e/hgtmh1
   - Monster/Typ/Aberration
+  - Quelle/5e/hgtmh1
 aliases: []
 ---
+# Brood Chrysalis-hgmh1

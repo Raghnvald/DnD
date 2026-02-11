@@ -1,7 +1,8 @@
 ---
 cssclasses:
   - json5e-item
-Bezeichnung: Sling of Giant Felling
+Bezeichnung: Sling of Giant Felling-bmt
+Kategorie: Einfache Fernkampfwaffe
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/Waffe/Einfach

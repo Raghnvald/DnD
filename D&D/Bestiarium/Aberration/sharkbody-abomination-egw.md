@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/egw
-  - Monster/HG/2
-  - Monster/Größe/Groß
-  - Monster/Typ/aberration
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Sharkbody Abomination
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/2
+  - Monster/Typ/aberration
+  - Quelle/5e/egw
 aliases:
   - Sharkbody Abomination
 ---

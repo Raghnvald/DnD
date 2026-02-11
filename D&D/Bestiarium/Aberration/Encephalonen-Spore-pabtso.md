@@ -1,20 +1,20 @@
 ---
-tags:
-  - Quelle/5e/pabtso
-  - Monster/HG/3
-  - Monster/Größe/Winzig
-  - Monster/Typ/Aberration
 statblock: inline
 statblock-link: "#^statblock"
-aliases:
-  - Encephalon Gemmule
-Habitat:
-  - /
+Bezeichnung: Encephalon Gemmule
 Kategorie: Aberration
-Name: Encephalon Gemmule
-Image: aberration/token/encephalon-gemmule-pabtso.webp
 Größe: Winzig
 HG: 3
+Habitat:
+  - /
+tags:
+  - Monster/Größe/Winzig
+  - Monster/HG/3
+  - Monster/Typ/Aberration
+  - Quelle/5e/pabtso
+aliases:
+  - Encephalon Gemmule
+Image: aberration/token/encephalon-gemmule-pabtso.webp
 ---
 # Encephalon Gemmule
 *Source: Phandelver and Below: The Shattered Obelisk p. 206*  

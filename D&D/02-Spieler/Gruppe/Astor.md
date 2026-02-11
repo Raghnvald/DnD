@@ -1,5 +1,5 @@
 ---
-Name: Astor Doodle Dash
+Bezeichnung: Astor Doodle Dash
 Rasse:
 Klasse: Magier
 Unterklasse:

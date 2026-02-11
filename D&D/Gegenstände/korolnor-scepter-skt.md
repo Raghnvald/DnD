@@ -1,8 +1,7 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Korolnor Scepter
 Kategorie: Einfache Nahkampfwaffe
+Einstimmung: erfordert
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär

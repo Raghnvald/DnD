@@ -1,15 +1,14 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/9
-  - Monster/Habitat/limbo
-  - Monster/Habitat/planar
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Aberration
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Grauer Slaad
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/limbo
+  - Monster/Habitat/planar
+  - Monster/HG/9
+  - Monster/Typ/Aberration
+  - Quelle/5e/xmm
 aliases:
   - Gray Slaad
 ---

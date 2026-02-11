@@ -1,22 +1,21 @@
 ---
-cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
-Name: Otyugh
+statblock: inline
+statblock-link: "#^statblock"
+Bezeichnung: Otyugh
 Kategorie: Aberration
 Größe: Groß
 HG: 5
 Habitat:
   - Unterreich
-status: WIP
 image: image/otyugh-webp
+status: WIP
 tags:
-  - Quelle/5e/mm
-  - Monster/HG/5
-  - Monster/Habitat/Unterreich
   - Monster/Größe/Groß
+  - Monster/Habitat/Unterreich
+  - Monster/HG/5
   - Monster/Typ/Aberration
-statblock: inline
-statblock-link: "#^statblock"
+  - Quelle/5e/mm
 aliases:
   - Otyugh
 ---

@@ -1,7 +1,8 @@
 ---
 cssclasses:
   - json5e-item
-Bezeichnung: Weapon of Throne's Command
+Bezeichnung: Weapon of Throne's Command-bmt
+Kategorie: Beliebige Waffe 
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten

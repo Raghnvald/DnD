@@ -1,21 +1,20 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mm
-  - Monster/HG/7
-  - Monster/Größe/Groß
-  - Monster/Typ/Aberration
 statblock: inline
 statblock-link: "#^statblock"
-aliases:
-  - Blue Slaad
-Größe: Groß
+Bezeichnung: Blue Slaad
 Kategorie: Aberration
+Größe: Groß
 HG: 7
 Habitat:
   - /
 status: WIP
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/7
+  - Monster/Typ/Aberration
+  - Quelle/5e/mm
+aliases:
+  - Blue Slaad
 ---
 # [Blue Slaad](3-Mechanics\CLI\bestiary\aberration/blue-slaad.md)
 *Source: Monster Manual p. 276*  
@@ -58,7 +57,6 @@ Some slaadi can transform into the humanoid creatures from which they were origi
 > [!quote]  
 > 
 > Embedded in a slaad's brain is a magic gem. Acquire it, and the slaad is yours to command.
-
 
 ```statblock
 "name": "Blue Slaad"

@@ -38,7 +38,8 @@ views:
     sort:
       - property: formula.Untitled
         direction: ASC
-    columnSize: {}
+    columnSize:
+      note.Kst.: 99
     markers: bullet
     nestedProperties: false
     imageFit: contain

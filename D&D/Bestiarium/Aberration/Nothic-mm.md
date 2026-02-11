@@ -1,21 +1,20 @@
 ---
-cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
-Bezeichnung:
+statblock: inline
+statblock-link: "#^statblock"
+Bezeichnung: Nothic
 Kategorie: Aberration
 Größe: Mittelgroß
 HG: 2
 Habitat: Unterreich
-status:
 image:
+status:
 tags:
-  - Quelle/5e/mm
-  - Monster/HG/2
-  - Monster/Habitat/Unterreich
   - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Unterreich
+  - Monster/HG/2
   - Monster/Typ/Aberration
-statblock: inline
-statblock-link: "#^statblock"
+  - Quelle/5e/mm
 aliases:
   - Nothic
 ---

@@ -2,7 +2,8 @@
 Bezeichnung: Rüstung der Unverwundbarkeit
 Kategorie: Rüstung
 Rüstung: Schwer
-Eigenschaften: erfordert Einstimmung
+Eigenschaften: /
+Einstimmung: erfordert
 Kst.: 18.000 GM
 Gew.: 32,5 kg
 RK: 18
@@ -18,7 +19,7 @@ aliases:
 linter-yaml-title-alias: Armor of Invulnerability
 ---
 # Rüstung der Unverwundbarkeit
-Rüstung ([[Ritterrüstung-phb|Ritterrüstung]]), selten (benötigt Einstimmung)
+*Rüstung ([[Ritterrüstung-phb|Ritterrüstung]]), selten (benötigt Einstimmung)*
 <img src="img/armor-of-invulnerability.webp" align="right" width="150">
 
 - **Rüstungsklasse**: 18

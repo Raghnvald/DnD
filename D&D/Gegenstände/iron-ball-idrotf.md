@@ -11,6 +11,7 @@ tags:
 aliases:
   - Iron Ball
 linter-yaml-title-alias: Iron Ball
+Einstimmung: /
 ---
 # Iron Ball
 *Weapon*  

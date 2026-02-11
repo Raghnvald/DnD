@@ -2,7 +2,7 @@
 Bezeichnung: Ringpanzer
 Kategorie: Rüstung
 Rüstung: Schwer
-Eigenschaften: n/v
+Eigenschaften: /
 Kst.: 1.500 GM
 Gew.: 32,5 kg
 RK: 18

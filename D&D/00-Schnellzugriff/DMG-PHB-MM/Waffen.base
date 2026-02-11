@@ -1,23 +1,9 @@
 filters:
   and:
-    - '!file.name.endsWith("-xphb")'
-    - '!file.name.endsWith("-xdmg")'
-    - '!file.name.endsWith("-egw")'
-    - '!file.name.endsWith("-bmt")'
-    - '!file.name.endsWith("-cm")'
-    - and:
-        - '!file.name.contains("1")'
-        - '!file.name.contains("2")'
-        - '!file.name.contains("3")'
-    - and:
-        - '!file.name.contains("der_Antwort-a")'
-        - '!file.name.contains("der_Antwort-b")'
-        - '!file.name.contains("der_Antwort-e")'
-        - '!file.name.contains("der_Antwort-k")'
-        - '!file.name.contains("der_Antwort-l")'
-        - '!file.name.contains("der_Antwort-s")'
-        - '!file.name.contains("der_Antwort-u")'
-        - '!file.name.contains("der_Antwort-w")'
+    - '!file.name.containsAny("1", "2", "3")'
+    - '!file.name.containsAny("-xdmg", "-xphb", "-xmm")'
+    - '!file.name.containsAny("Antwort-a", "Antwort-b", "Antwort-e", "Antwort-k", "Antwort-l", "Antwort-s", "Antwort-u", "Antwort-w")'
+    - '!file.name.containsAny("-Schlummernd-", "-Erhaben-", "-Erwacht-", "-Awakened-", "-Dormant-", "-Exalted-", "-Ahn-", "-Erwachend-", "-Erweckt-")'
 formulas:
   Untitled: link(file, Bezeichnung)
 properties:
@@ -38,7 +24,13 @@ views:
     order:
       - formula.Untitled
       - file.name
+      - Kst.
+      - Gew.
+      - Eigenschaften
+      - Einstimmung
     sort:
+      - property: file.name
+        direction: ASC
       - property: formula.Untitled
         direction: ASC
     columnSize: {}

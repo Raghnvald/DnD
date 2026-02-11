@@ -13,6 +13,7 @@ tags:
 aliases:
   - Quarterstaff
 linter-yaml-title-alias: Quarterstaff
+Einstimmung: /
 ---
 # Kampfstab
 *Waffe*  

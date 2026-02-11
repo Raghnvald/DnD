@@ -1,7 +1,7 @@
 ---
 cssclasses:
   - json5e-item
-Bezeichnung: Armor of the Fallen
+Bezeichnung: Armor of the Fallen-bmt
 Rüstung: Mittel oder Schwer
 tags:
   - Gegenstand/Einstimmung/required

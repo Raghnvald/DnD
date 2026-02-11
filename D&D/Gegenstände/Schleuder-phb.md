@@ -13,6 +13,7 @@ tags:
 aliases:
   - Sling
 linter-yaml-title-alias: Sling
+Einstimmung: /
 ---
 # Schleuder
 *Waffe*  

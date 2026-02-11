@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/bmt
-  - Monster/HG/17
-  - Monster/Größe/Klein-oder-Mittelgroß
-  - Monster/Typ/aberration
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Otherworldly Corrupter
+tags:
+  - Monster/Größe/Klein-oder-Mittelgroß
+  - Monster/HG/17
+  - Monster/Typ/aberration
+  - Quelle/5e/bmt
 aliases:
   - Otherworldly Corrupter
 ---

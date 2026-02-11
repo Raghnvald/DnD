@@ -13,6 +13,7 @@ tags:
 aliases:
   - Light Hammer
 linter-yaml-title-alias: Light Hammer
+Einstimmung: /
 ---
 # Leichter Hammer
 *Waffe*  

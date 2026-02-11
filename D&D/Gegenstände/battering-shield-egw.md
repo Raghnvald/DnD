@@ -1,7 +1,7 @@
 ---
 cssclasses:
   - json5e-item
-Bezeichnung: Battering Shield
+Bezeichnung: Battering Shield-egw
 Rüstung: Schild
 tags:
   - Gegenstand/Einstimmung/required

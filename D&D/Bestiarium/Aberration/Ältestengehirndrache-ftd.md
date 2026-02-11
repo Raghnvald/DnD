@@ -1,19 +1,18 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/ftd
-  - Monster/HG/22
-  - Monster/Größe/Gigantisch
-  - Monster/Typ/Aberration
 statblock: inline
 statblock-link: "#^statblock"
-aliases:
-  - Elder Brain Dragon
-Größe: Gigantisch
+Bezeichnung: Elder Brain Dragon
 Kategorie: Aberration
+Größe: Gigantisch
 HG: 22
 status: WIP
+tags:
+  - Monster/Größe/Gigantisch
+  - Monster/HG/22
+  - Monster/Typ/Aberration
+  - Quelle/5e/ftd
+aliases:
+  - Elder Brain Dragon
 ---
 # [Elder Brain Dragon](3-Mechanics\CLI\bestiary\aberration/elder-brain-dragon-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 194*  

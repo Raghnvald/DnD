@@ -1,15 +1,14 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/16
-  - Monster/Habitat/astral
-  - Monster/Habitat/planar
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Aberration/Gith
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Githyanki Dracomancer
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/astral
+  - Monster/Habitat/planar
+  - Monster/HG/16
+  - Monster/Typ/Aberration/Gith
+  - Quelle/5e/xmm
 aliases:
   - Githyanki Dracomancer
 ---

@@ -1,7 +1,7 @@
 ---
 cssclasses:
   - json5e-item
-Bezeichnung: Gulthias Staff
+Bezeichnung: Gulthias-Stecken
 Kategorie: Zauberstecken
 tags:
   - Gegenstand/Einstimmung/required

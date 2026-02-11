@@ -1,15 +1,14 @@
 ---
-cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
-Bezeichnung:
+Bezeichnung: Glutted Dreamholder-hgmh1
 Kategorie: Aberration
 Größe: Mittelgroß
 HG:
-status:
 image:
+status:
 tags:
-  - Quelle/5e/hgtmh1
   - Monster/Typ/Aberration
-aliases:
-  -
+  - Quelle/5e/hgtmh1
+aliases: []
 ---
+# Glutted Dreamholder-hgmh1

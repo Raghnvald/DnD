@@ -1,6 +1,13 @@
 ---
 Bezeichnung: Ritterrüstung der Körperlosigkeit
+Kategorie: Rüstung
 Rüstung: Schwer
+Eigenschaften: /
+Kst.: /
+Gew.: 32,5 kg
+RK: 18
+STR: 15
+Heiml.: Nachteil
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Rüstung/Schwer
@@ -11,13 +18,15 @@ aliases:
 linter-yaml-title-alias: Plate Armor of Etherealness
 ---
 # Ritterrüstung der Körperlosigkeit
-*Heavy armor ([plate armor](/3-Mechanics/CLI/items/plate-armor.md)), major, legendary (requires attunement)*  
+*Rüstung ([[Ritterrüstung-phb|Ritterrüstung]]), legendär (benötigt Einstimmung)*
 
-- **Armor Class**: 18
-- **Strength**: Requires 15 STR.
-- **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
-- **Weight**: 65.0 lbs.
+- **Rüstungsklasse**: 18
+- **Stärke:** 15
+- **Heimlichkeit:** Nachteil
+- **Gewicht:** 32,5 kg
 
-While you're wearing this armor, you can speak its command word as an action to gain the effect of the [etherealness](/3-Mechanics/CLI/spells/etherealness.md) spell, which lasts for 10 minutes or until you remove the armor or use an action to speak the command word again. This property of the armor can't be used again until the next dawn.
+Während du diese Rüstung trägst, kannst du als Aktion ihr Befehlswort sprechen und den Effekt des Zaubers [[Ätherische_Gestalten-phb|Ätherische Gestalten]] erhalten, der 10 Minuten andauert oder bis du die Rüstung ablegst, oder bis du mit einer Aktion das Befehlswort erneut sprichst.
+
+$\quad$Die Eigenschaft der Rüstung kann vor der nächsten Morgendämmerung nicht erneut verwendet werden.
 
 *Source: Dungeon Master's Guide p. 185. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

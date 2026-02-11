@@ -1,6 +1,14 @@
 ---
 Bezeichnung: Ifrit-Rüstung
+Kategorie: Rüstung
 Rüstung: Schwer
+Eigenschaften: /
+Einstimmung: erfordert
+Kst.: /
+Gew.: 27,5 kg
+RK: 16
+STR: 13
+Heiml.: Nachteil
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Rüstung/Schwer
@@ -11,14 +19,14 @@ aliases:
 linter-yaml-title-alias: Efreeti Chain
 ---
 # Ifrit-Rüstung
-*Heavy armor ([chain mail](/3-Mechanics/CLI/items/chain-mail.md)), major, legendary (requires attunement)*  
-![](/3-Mechanics/CLI/items/img/efreeti-chain.webp#right)
+*Rüstung ([[Kettenpanzer-phb|Kettenpanzer]]), legendär (benötigt Einstimmung)*
+<img src="img/efreeti-chain.webp" align="right" width="150">
 
-- **Armor Class**: 16
-- **Strength**: Requires 13 STR.
-- **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
-- **Weight**: 55.0 lbs.
+- **Rüstungsklasse**: 16
+- **Stärke:** 13
+- **Heimlichkeit:** Nachteil
+- **Gewicht:** 27,5 kg
 
-While wearing this armor, you gain a +3 bonus to AC, you are immune to fire damage, and you can understand and speak Primordial. In addition, you can stand on and walk across molten rock as if it were solid ground.
+Während du diese Rüstung trägst; hast du einen Bonus von +3 auf deine Rüstungsklasse, bist immun gegen Feuerschaden und kannst Urtümlich verstehen und sprechen. Zusätzlich kannst du auf flüssigem Gestein stehen und laufen als wäre es fester Untergrund.
 
 *Source: Dungeon Master's Guide p. 167*

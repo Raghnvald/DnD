@@ -1,14 +1,14 @@
 ---
-tags:
-  - Quelle/5e/pabtso
-  - Monster/HG/11
-  - Monster/Größe/Groß
-  - Monster/Typ/Aberration/Gedankenschinder
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Infected Elder Brain
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/11
+  - Monster/Typ/Aberration/Gedankenschinder
+  - Quelle/5e/pabtso
 aliases:
   - Infected Elder Brain
-Name: Infiziertes Ältestengehirn
 Image: aberration/token/infected-elder-brain-pabtso.webp
 ---
 # Infected Elder Brain

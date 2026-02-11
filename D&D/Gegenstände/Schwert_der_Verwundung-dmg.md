@@ -1,8 +1,6 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Sword of Wounding
-Kategorie: Nahkampf-Kriegswaffe (generisch)
+Bezeichnung: Schwert der Verwundung
+Kategorie: Nahkampf-Kriegswaffe (beliebiges Schwert)
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten

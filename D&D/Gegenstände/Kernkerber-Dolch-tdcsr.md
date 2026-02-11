@@ -1,8 +1,7 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Corecut Dagger
+Bezeichnung: Kernkerber-Dolch
 Kategorie: Einfache Nahkampfwaffe
+Einstimmung: erfordert
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten

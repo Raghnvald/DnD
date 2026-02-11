@@ -1,9 +1,9 @@
 ---
-Bezeichnung: Dwarven Plate
+Bezeichnung: Zwergische Ritterrüstung
 Kategorie: Rüstung
 Rüstung: Schwer
-Eigenschaften: n/v
-Kst.: n/v
+Eigenschaften: /
+Kst.: /
 Gew.: 32,5 kg
 RK: 18
 STR: 15
@@ -17,7 +17,7 @@ aliases:
 linter-yaml-title-alias: Dwarven Plate
 ---
 # Dwarven Plate
-*Heavy armor ([plate armor](/3-Mechanics/CLI/items/plate-armor.md)), major, very rare*  
+*Heavy armor ([plate armor](Ritterrüstung-phb)), major, very rare*  
 
 <img src="dwarven-plate.webp" align="right" width="150">
 

@@ -1,7 +1,7 @@
 ---
 cssclasses:
   - json5e-item
-Bezeichnung: Clockwork Armor
+Bezeichnung: Clockwork Armor-bmt
 Rüstung: Schwer
 tags:
   - Gegenstand/Einstimmung/required

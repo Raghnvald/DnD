@@ -2,9 +2,11 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Topaz Annihilator
+Kategorie: Fernkampf-Kriegswaffe
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
+  - Gegenstand/Waffe/Kriegswaffe
   - Gegenstand/Waffe/Fernkampf
   - Quelle/5e/ftd
 aliases:

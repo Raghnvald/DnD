@@ -1,22 +1,20 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/pabtso
-  - Monster/HG/7
-  - Monster/Größe/Riesig
-  - Monster/Typ/Aberration
 statblock: inline
 statblock-link: "#^statblock"
-aliases:
-  - Flesh Meld
-Name: Fleischfusion
-Image: aberration/token/flesh-meld-pabtso.webp
-Größe: Riesig
+Bezeichnung: Flesh Meld
 Kategorie: Aberration
+Größe: Riesig
+HG: 7
 Habitat:
   - /
-HG: 7
+tags:
+  - Monster/Größe/Riesig
+  - Monster/HG/7
+  - Monster/Typ/Aberration
+  - Quelle/5e/pabtso
+aliases:
+  - Flesh Meld
+Image: aberration/token/flesh-meld-pabtso.webp
 ---
 # Flesh Meld
 *Source: Phandelver and Below: The Shattered Obelisk p. 207*  

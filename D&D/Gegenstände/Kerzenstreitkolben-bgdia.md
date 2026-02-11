@@ -13,6 +13,7 @@ tags:
 aliases:
   - Candle Mace
 linter-yaml-title-alias: Candle Mace
+Einstimmung: /
 ---
 # Kerzenstreitkolben
 *Waffe ([[Streitkolben-phb|Streitkolben]])*

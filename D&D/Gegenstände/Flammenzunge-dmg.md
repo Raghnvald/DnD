@@ -1,6 +1,6 @@
 ---
 Bezeichnung: Flammenzunge
-Kategorie: Nahkampf-Kriegswaffe (generisch)
+Kategorie: Nahkampf-Kriegswaffe (beliebiges Schwert)
 Schaden: /
 Eigenschaften: /
 Kst.: /

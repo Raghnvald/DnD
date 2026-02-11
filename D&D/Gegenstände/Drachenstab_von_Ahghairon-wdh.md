@@ -1,7 +1,5 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Dragonstaff of Ahghairon
+Bezeichnung: Drachenstab von Ahghairon
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär

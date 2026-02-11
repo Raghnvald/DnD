@@ -1,7 +1,7 @@
 ---
 cssclasses:
   - json5e-item
-Bezeichnung: Fragmentation Grenade
+Bezeichnung: Splittergranate
 Kategorie: Explosives
 tags:
   - Gegenstand/Seltenheit/keine

@@ -8,7 +8,7 @@ statblock: inline
 statblock-link: "#^statblock"
 aliases:
   - Redbrand Ruffian
-Name: Rotbrenner-Schläger
+Bezeichnung: Rotbrenner-Schläger
 Image: humanoid/token/redbrand-ruffian-pabtso.webp
 ---
 # Rotbrenner-Schläger

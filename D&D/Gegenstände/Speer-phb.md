@@ -2,7 +2,8 @@
 Bezeichnung: Speer
 Kategorie: Einfache Nahkampfwaffe
 Schaden: 1W6 Stich
-Eigenschaften: Vielseitig (1W8), Wurfwaffe (Reichweite 6/18)
+Eigenschaften: Vielseitig, Wurfwaffe
+Einstimmung: /
 Kst.: 1 GM
 Gew.: 1,5 kg
 tags:
@@ -12,7 +13,6 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Spear
-  - Speer
 linter-yaml-title-alias: Speer
 ---
 # Speer
@@ -22,7 +22,7 @@ linter-yaml-title-alias: Speer
   - Einhändig: 1d6 Stich
   - Zweihändig: 1d8 Stich
 - **Range**: 6/18
-- **Properties**: [Vielseitig](/3-Mechanics/CLI/item-properties.md#Versatile), [Wurfwaffe](/3-Mechanics/CLI/item-properties.md#Thrown)
+- **Properties**: [[Gegenstandseigenschaften-phb#Vielseitig|Vielseitig]], [[Gegenstandseigenschaften-phb#Wurfwaffe|Wurfwaffe]]
 - **Kosten**: 1 GM
 - **Gewicht**: 1,5 kg.
 

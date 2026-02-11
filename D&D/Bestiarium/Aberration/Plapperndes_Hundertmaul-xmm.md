@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/2
-  - Monster/Habitat/Unterreich
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Aberration
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Gibbering Mouther
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Unterreich
+  - Monster/HG/2
+  - Monster/Typ/Aberration
+  - Quelle/5e/xmm
 aliases:
   - Gibbering Mouther
 ---
@@ -41,7 +40,6 @@ Gibbering mouthers come into being in various unpleasant ways. Roll on or choose
 > [!quote]  
 > 
 > Alas, the Elder Elves made a fatal mistake. When the Dragon's Tear comet next returned, the Vast Gate—still keyed to the Far Realm of alien entities—linked to the comet and opened again. And what emerged, ululating profanities, sang unnameable hungers into an unguarded world.
-
 
 ```statblock
 "name": "Gibbering Mouther (XMM)"

@@ -1,7 +1,7 @@
 ---
 cssclasses:
   - json5e-item
-Bezeichnung: Plate of Knight's Fellowship
+Bezeichnung: Plate of Knight's Fellowship-bmt
 Rüstung: Schwer
 tags:
   - Gegenstand/Einstimmung/required

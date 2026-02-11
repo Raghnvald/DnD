@@ -1,5 +1,5 @@
 ---
-Name: Psionic Shambling Mound
+Bezeichnung: Psionic Shambling Mound
 Image: plant/token/psionic-shambling-mound-pabtso.webp
 tags:
   - Quelle/5e/pabtso

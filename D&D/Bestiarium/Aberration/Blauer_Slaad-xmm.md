@@ -1,23 +1,22 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/7
-  - Monster/Habitat/limbo
-  - Monster/Habitat/planar
-  - Monster/Größe/Groß
-  - Monster/Typ/Aberration
 statblock: inline
 statblock-link: "#^statblock"
-aliases:
-  - Blue Slaad
+Bezeichnung: Blue Slaad
 Kategorie: Aberration
-Habitat:
-  - Planar (Limbo)
 Größe: Groß
 HG: 7
+Habitat:
+  - Planar (Limbo)
 status: WIP
+tags:
+  - Monster/Größe/Groß
+  - Monster/Habitat/limbo
+  - Monster/Habitat/planar
+  - Monster/HG/7
+  - Monster/Typ/Aberration
+  - Quelle/5e/xmm
+aliases:
+  - Blue Slaad
 ---
 # [Blue Slaad](3-Mechanics\CLI\bestiary\aberration/blue-slaad-xmm.md)
 *Source: Monster Manual (2024) p. 285*  
@@ -45,7 +44,6 @@ Slaadi have no formal society. Rather, strong slaadi dominate weaker ones. Blue 
 > [!quote] A quote from Jebeel Sloom  
 > 
 > Fight a slaad and lose, the story's over. Fight a slaad and win, there's a thousand more standing in line just to prove they're tougher.
-
 
 ```statblock
 "name": "Blue Slaad (XMM)"

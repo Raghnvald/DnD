@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mm
-  - Monster/HG/2
-  - Monster/Habitat/Unterreich
-  - Monster/Größe/Winzig
-  - Monster/Typ/Aberration
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Intellect Devourer
+tags:
+  - Monster/Größe/Winzig
+  - Monster/Habitat/Unterreich
+  - Monster/HG/2
+  - Monster/Typ/Aberration
+  - Quelle/5e/mm
 aliases:
   - Intellect Devourer
 ---
@@ -28,7 +27,6 @@ An intellect devourer consumes a creature's mind and memories, then turns the ho
 > [!quote] A quote from Qorik el-Slurrk, mind flayer  
 > 
 > Don't cry. We have no intention of eating your brain. In fact, your brain is going on a wonderful journey!
-
 
 ```statblock
 "name": "Intellect Devourer"

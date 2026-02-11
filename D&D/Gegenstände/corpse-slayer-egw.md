@@ -1,7 +1,8 @@
 ---
 cssclasses:
   - json5e-item
-Bezeichnung: Corpse Slayer
+Bezeichnung: Corpse Slayer-egw
+Kategorie: Beliebige Waffe
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten

@@ -8,7 +8,7 @@ statblock: inline
 statblock-link: "#^statblock"
 aliases:
   - Evil Mage
-Name: Böser Magier
+Bezeichnung: Böser Magier
 Image: humanoid/token/evil-mage-lmop.webp
 ---
 # Evil Mage

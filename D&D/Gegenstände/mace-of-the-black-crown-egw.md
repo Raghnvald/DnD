@@ -3,6 +3,7 @@ cssclasses:
   - json5e-item
 Bezeichnung: Mace of the Black Crown
 Kategorie: Einfache Nahkampfwaffe
+Einstimmung: erfordert
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/Artefakt
@@ -14,7 +15,7 @@ aliases:
 linter-yaml-title-alias: Mace of the Black Crown
 ---
 # Mace of the Black Crown
-*Weapon ([mace](/3-Mechanics/CLI/items/mace-xphb.md)), artifact (requires attunement)*  
+*Weapon ([mace](Streitkolben-xphb)), artifact (requires attunement)*  
 ![](/3-Mechanics/CLI/items/img/mace-of-the-black-crown.webp#right)
 
 - **Damage**: 1d6 bludgeoning

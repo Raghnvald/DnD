@@ -1,8 +1,7 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Fate Cutter Shears
+Bezeichnung: Fate Cutter Shears-bmt
 Kategorie: Einfache Nahkampfwaffe
+Einstimmung: erfordert
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten

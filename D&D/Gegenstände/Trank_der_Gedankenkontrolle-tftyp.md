@@ -1,7 +1,5 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Potion of Mind Control
+Bezeichnung: Trank der Gedankenkontrolle
 tags:
   - Gegenstand/Seltenheit/variiert
   - Gegenstand/wundersam/Trank

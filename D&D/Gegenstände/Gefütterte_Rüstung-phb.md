@@ -14,7 +14,6 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Padded Armor
-  - Gefütterte Rüstung
 linter-yaml-title-alias: Gefütterte Rüstung
 ---
 # Gefütterte Rüstung

@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/vgm
-  - Monster/HG/1-2
-  - Monster/Habitat/Unterreich
-  - Monster/Größe/Winzig
-  - Monster/Typ/aberration
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Gazer
+tags:
+  - Monster/Größe/Winzig
+  - Monster/Habitat/Unterreich
+  - Monster/HG/1-2
+  - Monster/Typ/aberration
+  - Quelle/5e/vgm
 aliases:
   - Gazer
 ---

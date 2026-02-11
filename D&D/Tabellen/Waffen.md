@@ -34,7 +34,7 @@ aliases:
 | [Dreizack-old](Dreizack-old.md)                 |   5 GM | `1W6` Stichschaden  |  2,0 kg. | Wurfwaffe (Reichweite 6/18 Meter), Vielseitig (`1W8`)          |
 | [Flegel-old](Flegel-old.md)                     |  10 GM | `1W8` Wuchtschaden  |  1,0 kg. | —                                                              |
 | [Glefe-old](Glefe-old.md)                     |  20 GM | `1W10` Hiebschaden  |  3,0 kg. | Schwer, Weitreichend, Zweihändig                               |
-| [Hellebarde](../Gegenstände/Hellebarde.md)               |  20 GM | `1W10` Hiebschaden  |  3,0 kg. | Schwer, Weitreichend, Zweihändig                               |
+| [Hellebarde-old](Hellebarde-old.md)               |  20 GM | `1W10` Hiebschaden  |  3,0 kg. | Schwer, Weitreichend, Zweihändig                               |
 | [Kriegshammer-old](Kriegshammer-old.md)           |  15 GM | `1W8` Wuchtschaden  |  1,0 kg. | Vielseitig (`1W10`)                                            |
 | [Kriegspicke](../Gegenstände/Kriegspicke.md)             |   5 GM | `1W8` Stichschaden  |  1,0 kg. | —                                                              |
 | [Krummsäbel-old](Krummsäbel-old.md)              |  25 GM | `1W6` Hiebschaden   |  1,5 kg. | Finesse, Leicht                                                |

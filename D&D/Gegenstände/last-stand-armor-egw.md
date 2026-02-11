@@ -1,7 +1,5 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Last Stand Armor
+Bezeichnung: Last Stand Armor-egw
 Rüstung: Leicht, Mittel oder Schwer
 tags:
   - Gegenstand/Rüstung/Leicht

@@ -5,6 +5,7 @@ Bezeichnung: Dragon Vessel
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/variiert
+  - Gegenstand/wundersam
   - Quelle/5e/ftd
 aliases:
   - Dragon Vessel

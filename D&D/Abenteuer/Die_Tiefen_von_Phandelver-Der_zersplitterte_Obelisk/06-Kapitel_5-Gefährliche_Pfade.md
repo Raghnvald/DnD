@@ -171,7 +171,7 @@ Lies folgenden Text vor, wenn die Charaktere diesen Tatort untersuchen:
 > Der bescheidene Brunnen aus rotem Backstein hinter Barthens Proviant ist marode und baufällig. Sein oberirdischen Wände sind umgekippt, Ziegel- und Steinbrocken liegen im Gras um den Brunnen und sein Dach ist zersplittert und eingestürzt. Die Seilwinde und der Flaschenzug des Brunnens wurden in Stücke geschlagen. 
 ^1a7
 
-Ein Charakter, der den Brunnen untersucht, kann einen SG-15-Intelligenzwurf  ([Investigation](01-Spielleiter/Fertigkeiten-phb.md#Nachforschun)) ausführen. Bei einem Erfolg stellt der Charakter fest, dass der Hauptteil des Mechanismus aus den verbleibenden Teilen repariert werden kann, jedoch die Trommel der Seilwinde fehlt. 
+Ein Charakter, der den Brunnen untersucht, kann einen `SG-15-Intelligenzwurf`  ([Investigation](01-Spielleiter/Fertigkeiten-phb.md#Nachforschun)) ausführen. Bei einem Erfolg stellt der Charakter fest, dass der Hauptteil des Mechanismus aus den verbleibenden Teilen repariert werden kann, jedoch die Trommel der Seilwinde fehlt. 
 
 Charaktere mit einem passiven Weisheitswert ([[01-Spielleiter/Fertigkeiten-phb.md#Wahrnehmung|Wahrnehmung]]) von mindestens `15` hören zudem ein leises, gurgelndes Knurren aus dem Brunnen. Ein Charakter, der einen erfolgreichen `SG-17-Intelligenzwurf` ([[01-Spielleiter/Fertigkeiten-phb.md#Naturkunde|Naturkunde]]) besteht, kommt zu dem Schluss, dass dieses Knurren wahrscheinlich von einer gereizten Kreatur stammt. 
 
@@ -198,7 +198,7 @@ Ander weiß nicht, dass die negativen Auswirkungen durch den Splitter in der Sei
 
 #### Begegnung: Brunnenhöhle
 
-Falls die Charaktere die Verfolgung der [[Goblin-mm|Goblins]] aufnehmen oder die Ursache für den blockierten Brunnen untersuchen wollen, kann ein Charakter mit einem Seil und einem erfolgreichen SG-10-Stärkewurf ([[01-Spielleiter/Fertigkeiten-phb.md#Athletik|Athletik]]) in den Brunnen hinabklettern. Wenn die Charaktere kein Seil haben, leiht Ander ihnen eins aus dem Lager des Ladens. Bei einem Erfolg klettert ein Charakter sechs Meter tief in die Höhle unter dem Brunnen (Karte 5.1). Scheitert der Wurf, stürzt der Charakter ab, erleidet 7 (`2W6`) Wuchtschaden und wird [[Zustände-phb#Liegend|umgestoßen]]. 
+Falls die Charaktere die Verfolgung der [[Goblin-mm|Goblins]] aufnehmen oder die Ursache für den blockierten Brunnen untersuchen wollen, kann ein Charakter mit einem Seil und einem erfolgreichen `SG-10-Stärkewurf` ([[01-Spielleiter/Fertigkeiten-phb.md#Athletik|Athletik]]) in den Brunnen hinabklettern. Wenn die Charaktere kein Seil haben, leiht Ander ihnen eins aus dem Lager des Ladens. Bei einem Erfolg klettert ein Charakter sechs Meter tief in die Höhle unter dem Brunnen (Karte 5.1). Scheitert der Wurf, stürzt der Charakter ab, erleidet 7 (`2W6`) Wuchtschaden und wird [[Zustände-phb#Liegend|umgestoßen]]. 
 
 > [!gallery]
 > ![Map 5.1: Well Cavern](D&D/Abenteuer/Die_Tiefen_von_Phandelver-Der_zersplitterte_Obelisk/img/059-map-5-01-well-cavern.webp#gallery)

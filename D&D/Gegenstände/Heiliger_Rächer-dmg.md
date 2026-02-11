@@ -2,7 +2,7 @@
 cssclasses:
   - json5e-item
 Bezeichnung: Heiliger Rächer
-Kategorie: Nahkampf-Kriegswaffe
+Kategorie: Nahkampf-Kriegswaffe (beliebiges Schwert)
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär

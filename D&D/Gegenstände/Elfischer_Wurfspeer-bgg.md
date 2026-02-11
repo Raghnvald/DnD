@@ -1,8 +1,7 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Elfischer Wurfspeer
 Kategorie: Einfache Nahkampfwaffe
+Einstimmung: erfordert (Elf)
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten

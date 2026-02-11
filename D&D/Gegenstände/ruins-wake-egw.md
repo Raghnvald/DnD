@@ -3,6 +3,7 @@ cssclasses:
   - json5e-item
 Bezeichnung: Ruin's Wake
 Kategorie: Einfache Nahkampfwaffe
+Einstimmung: erfordert
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/Artefakt

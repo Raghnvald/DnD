@@ -1,8 +1,14 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Hunter's Coat
+Bezeichnung: Hunter's Coat-egw
+Kategorie: Rüstung
 Rüstung: Leicht
+Eigenschaften: /
+Einstimmung: erfordert
+Kst.: /
+Gew.: 5,0 kg
+RK: 11 + GES
+STR: /
+Heiml.: /
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Rüstung/Leicht
@@ -13,7 +19,7 @@ aliases:
 linter-yaml-title-alias: Hunter's Coat
 ---
 # Hunter's Coat
-*Light armor ([leather armor](/3-Mechanics/CLI/items/leather-armor-xphb.md)), very rare (requires attunement)*  
+*Light armor ([leather armor](Lederrüstung-xphb)), very rare (requires attunement)*  
 
 - **Armor Class**: 11 + Dex modifier
 - **Weight**: 10.0 lbs.

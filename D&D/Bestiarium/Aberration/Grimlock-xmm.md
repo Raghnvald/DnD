@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/1-4
-  - Monster/Habitat/Unterreich
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Aberration
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Grimlock
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Unterreich
+  - Monster/HG/1-4
+  - Monster/Typ/Aberration
+  - Quelle/5e/xmm
 aliases:
   - Grimlock
 ---
@@ -41,7 +40,6 @@ Roll on or choose a result from the Grimlock Tasks table to inspire how grimlock
 > [!quote] A quote from Aljayera, Underdark Seer  
 > 
 > We thought we'd discovered a new people living deeper than we believed possible. The truth was something far worse.
-
 
 ```statblock
 "name": "Grimlock (XMM)"

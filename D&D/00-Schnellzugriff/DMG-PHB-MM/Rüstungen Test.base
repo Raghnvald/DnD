@@ -47,7 +47,6 @@ views:
       direction: ASC
     order:
       - formula.Untitled 2
-      - file.name
     sort:
       - property: formula.Untitled 2
         direction: ASC

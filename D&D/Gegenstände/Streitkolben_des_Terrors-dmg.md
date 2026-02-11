@@ -3,6 +3,7 @@ Bezeichnung: Streitkolben des Terrors
 Kategorie: Einfache Nahkampfwaffe
 Schaden: 1W6 Wucht
 Eigenschaften: /
+Einstimmung: erfordert
 Kst.: /
 Gew.: 2,0 kg
 tags:
@@ -16,8 +17,8 @@ aliases:
 linter-yaml-title-alias: Mace of Terror
 ---
 # Streitkolben des Terrors
-*Weapon ([mace](/3-Mechanics/CLI/items/mace.md)), major, rare (requires attunement)*  
-![](/3-Mechanics/CLI/items/img/mace-of-terror.webp#right)
+*Waffe ([[Streitkolben-phb|Streitkolben]]), selten (erfordert Einstimmung)*  
+<img src="mace-of-terror.webp" align="right" width="150">
 
 - **Schaden**: 1d6 Wucht
 - **Gewicht**: 4.0 lbs.

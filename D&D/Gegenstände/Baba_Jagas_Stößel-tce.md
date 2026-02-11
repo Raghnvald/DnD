@@ -1,5 +1,11 @@
 ---
-Bezeichnung: Baba Yaga's Pestle
+Bezeichnung: Baba Jagas Stößel
+Kategorie: Einfache Nahkampfwaffe
+Schaden: 1W6 Wucht
+Eigenschaften: Vielseitig
+Einstimmung: erfordert
+Kst.: /
+Gew.: 2,0 kg
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/Artefakt
@@ -11,7 +17,7 @@ aliases:
 linter-yaml-title-alias: Baba Yaga's Pestle
 ---
 # Baba Yaga's Pestle
-*Weapon ([quarterstaff](/3-Mechanics/CLI/items/quarterstaff-xphb.md)), artifact (requires attunement)*  
+*Waffe ([[Kampfstab-phb|Kampfstab]], artifact (requires attunement)*  
 
 - **Damage**:
   - One-handed: 1d6 bludgeoning

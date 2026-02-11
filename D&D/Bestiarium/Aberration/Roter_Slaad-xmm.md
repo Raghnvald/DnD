@@ -1,22 +1,21 @@
 ---
-cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
-Bezeichnung: Roter Slaad
+statblock: inline
+statblock-link: "#^statblock"
+Bezeichnung: Red Slaad
 Kategorie: Aberration
 Größe: Groß
 HG: 5
 Habitat: Planar (Limbo)
-status: WIP
 image:
+status: WIP
 tags:
-  - Quelle/5e/xmm
-  - Monster/HG/5
+  - Monster/Größe/Groß
   - Monster/Habitat/limbo
   - Monster/Habitat/planar
-  - Monster/Größe/Groß
+  - Monster/HG/5
   - Monster/Typ/Aberration
-statblock: inline
-statblock-link: "#^statblock"
+  - Quelle/5e/xmm
 aliases:
   - Red Slaad
 ---
@@ -46,7 +45,6 @@ Slaadi have no formal society. Rather, strong slaadi dominate weaker ones. Blue 
 > [!quote] A quote from Jebeel Sloom  
 > 
 > Fight a slaad and lose, the story's over. Fight a slaad and win, there's a thousand more standing in line just to prove they're tougher.
-
 
 ```statblock
 "name": "Red Slaad (XMM)"

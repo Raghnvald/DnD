@@ -1,13 +1,12 @@
 ---
-Name: Nezznar die Schwarze Spinne
-Image: npc/token/nezznar-the-spider-pabtso.webp
+Bezeichnung: Nezznar die Schwarze Spinne
+Image: token/nezznar-the-spider-pabtso.webp
 Typ: Humanoid (Elf, Magier)
 Größe: Mittelgroß
 HG: 2
 Habitat:
   - /
 status: completed
-Image: image/nezznar-the-spider-webp
 tags:
   - Quelle/5e/pabtso
   - Monster/HG/2
@@ -28,7 +27,7 @@ Die Spinne will die Wellenhallhöhle für sich selbst und unternimmt alles, dami
 
 ```statblock
 name: Nezznar die Schwarze Spinne
-image: npc/token/nezznar-the-spider-pabtso.webp
+image: token/nezznar-the-spider-pabtso.webp
 source: PaBTSO
 size: Mittelgroß
 type: Humanoid

@@ -1,15 +1,14 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/12
-  - Monster/Habitat/limbo
-  - Monster/Habitat/planar
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Aberration/Gith
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Githzerai Psion
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/limbo
+  - Monster/Habitat/planar
+  - Monster/HG/12
+  - Monster/Typ/Aberration/Gith
+  - Quelle/5e/xmm
 aliases:
   - Githzerai Psion
 ---
@@ -50,7 +49,6 @@ Characters might be drawn into conflicts involving githzerai and githyanki in va
 > [!quote] A quote from Zaerith Menyar-Ag-Gith, Githzerai Leader  
 > 
 > We githzerai crave a challenge, so that when Zerthimon returns, he shall find us ready. Thus we traveled to howling Limbo to make our new home.
-
 
 ```statblock
 "name": "Githzerai Psion (XMM)"

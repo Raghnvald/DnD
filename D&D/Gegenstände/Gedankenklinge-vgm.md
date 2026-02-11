@@ -1,6 +1,6 @@
 ---
 Bezeichnung: Gedankenklinge
-Kategorie: Nahkampf-Kriegswaffe (generisch)
+Kategorie: Nahkampf-Kriegswaffe (beliebiges Schwert)
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten

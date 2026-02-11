@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mpmm
-  - Monster/HG/9
-  - Monster/Habitat/Unterreich
-  - Monster/Größe/Groß
-  - Monster/Typ/Aberration/Gedankenschinder
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Ulitharid
+tags:
+  - Monster/Größe/Groß
+  - Monster/Habitat/Unterreich
+  - Monster/HG/9
+  - Monster/Typ/Aberration/Gedankenschinder
+  - Quelle/5e/mpmm
 aliases:
   - Ulitharid
 ---

@@ -1,7 +1,8 @@
 ---
 cssclasses:
   - json5e-item
-Bezeichnung: Oceanic Weapon
+Bezeichnung: Ozeanwaffe
+Kategorie: Beliebige Waffe
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten

@@ -1,22 +1,21 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mpmm
-  - Monster/HG/2
-  - Monster/Habitat/Wüste
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Aberration
 statblock: inline
 statblock-link: "#^statblock"
-aliases:
-  - Berbalang
+Bezeichnung: Berbalang
 Kategorie: Aberration
 Größe: Mittelgroß
 HG: 2
 Habitat:
   - Wüste
 status: WIP
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Wüste
+  - Monster/HG/2
+  - Monster/Typ/Aberration
+  - Quelle/5e/mpmm
+aliases:
+  - Berbalang
 ---
 # [Berbalang](3-Mechanics\CLI\bestiary\aberration/berbalang-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 61*  
