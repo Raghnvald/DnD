@@ -1,7 +1,7 @@
 ---
 statblock: inline
 statblock-link: "#^statblock"
-Bezeichnung: Refraction of Ilvaash
+Bezeichnung: Refraktion von Ilvaash
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/15
@@ -11,7 +11,7 @@ aliases:
   - Refraction of Ilvaash
 Image: aberration/token/refraction-of-ilvaash-pabtso.webp
 ---
-# Refraction of Ilvaash
+# Refraktion von Ilvaash
 *Source: Phandelver and Below: The Shattered Obelisk p. 197*  
 
 Ilvaash was formed from the remains of the mind flayer god Ilsensine, the God-Brain. When Ilsensine left the Far Realm to establish a divine domain elsewhere, pieces of the God-Brain sloughed away and awoke to sentience. This is Ilvaash, the Dissonant Psyche.

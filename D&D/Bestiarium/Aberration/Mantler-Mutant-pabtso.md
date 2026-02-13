@@ -1,7 +1,7 @@
 ---
 statblock: inline
 statblock-link: "#^statblock"
-Bezeichnung: Cloaker Mutate
+Bezeichnung: Mantler-Mutant
 Kategorie: Aberration
 Größe: Groß
 HG: 10
@@ -15,7 +15,7 @@ aliases:
   - Cloaker Mutate
 Image: aberration/token/cloaker-mutate-pabtso.webp
 ---
-# Cloaker Mutate
+# Mantler Mutant
 *Source: Phandelver and Below: The Shattered Obelisk p. 212*  
 
 The malign energy of the Far Realm causes a cloaker to merge with the rotted corpse of its last meal, resulting in a hideous puppeteering Aberration. The cloaker mutate shrouds its actions in a miasma of phantasmic duplicates. It uses the corpse melded to its underside to absorb damage and to strike at prey.

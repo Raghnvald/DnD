@@ -1,7 +1,7 @@
 ---
 cssclasses:
   - json5e-item
-Bezeichnung: Canoe
+Bezeichnung: Kanu
 Kategorie: Luft- und Wasserfahrzeug
 tags:
   - Gegenstand/Ausrüstung/Fahrzeug

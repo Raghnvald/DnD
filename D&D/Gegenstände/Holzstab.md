@@ -1,6 +1,6 @@
 ---
 Bezeichnung: Holzstab
-Kategorie: Druidischer Fokus
+Kategorie: Fokus, Druidisch
 Schaden: 1W6 Wucht
 Eigenschaften: Vielseitig
 Kst.: 5 GM

@@ -1,7 +1,7 @@
 ---
 statblock: inline
 statblock-link: "#^statblock"
-Bezeichnung: Humanoid Mutate
+Bezeichnung: Humanoider Mutant
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/4
@@ -11,7 +11,7 @@ aliases:
   - Humanoid Mutate
 Image: aberration/token/humanoid-mutate-pabtso.webp
 ---
-# Humanoid Mutate
+# Humanoider Mutant
 *Source: Phandelver and Below: The Shattered Obelisk p. 212*  
 
 When the influence of the Far Realm affects Humanoids, the resulting creature might be a thing of nightmares. Multitudinous webbed wings sprout haphazardly along this mutate's body. Its skin becomes clammy and as smooth as a salamander's.

@@ -1,7 +1,7 @@
 ---
 statblock: inline
 statblock-link: "#^statblock"
-Bezeichnung: Brain Breaker
+Bezeichnung: Gehirnbrecher
 Kategorie: Aberration (Gedankenschinder)
 Größe: Groß
 HG: 12
@@ -17,7 +17,7 @@ aliases:
   - Brain Breaker
 Image: aberration/token/brain-breaker-pabtso.webp
 ---
-# Brain Breaker
+# Gehirnbrecher
 *Source: Phandelver and Below: The Shattered Obelisk p. 199*  
 
 Brain breakers look like giant brains with stout legs, and they wear steel armor made from interlocked links of Ilvaash's runes (knots of tentacles, brains, and jagged lines reminiscent of jaws).

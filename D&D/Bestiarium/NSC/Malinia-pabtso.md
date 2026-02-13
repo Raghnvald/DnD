@@ -63,6 +63,6 @@ linter-yaml-title-alias: Malinia
     "name": "Defensive Flight"
 "source":
   - "PaBTSO"
-"image": "npc/token/malinia-pabtso.webp"
+"image": "token/malinia-pabtso.webp"
 ```
 ^statblock

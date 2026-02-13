@@ -1,6 +1,6 @@
 ---
 Bezeichnung: Stab
-Kategorie: Arkaner Fokus
+Kategorie: Fokus, Arkan
 Schaden: 1W6 Wucht
 Eigenschaften: Vielseitig
 Kst.: 5 GM

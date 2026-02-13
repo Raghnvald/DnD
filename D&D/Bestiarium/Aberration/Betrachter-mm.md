@@ -1,7 +1,7 @@
 ---
 statblock: inline
 statblock-link: "#^statblock"
-Bezeichnung: Beholder
+Bezeichnung: Betrachter
 Kategorie: Aberration
 Größe: Groß
 HG: 13
@@ -17,7 +17,7 @@ tags:
 aliases:
   - Beholder
 ---
-# [Beholder](3-Mechanics\CLI\bestiary\aberration/beholder.md)
+# Betrachter
 *Source: Monster Manual p. 28*  
 
 One glance at a beholder is enough to assess its foul and otherworldly nature. Aggressive, hateful, and greedy, these aberrations dismiss all other creatures as lesser beings, toying with them or destroying them as they choose.

@@ -1,7 +1,7 @@
 ---
 statblock: inline
 statblock-link: "#^statblock"
-Bezeichnung: Blue Slaad
+Bezeichnung: Blauer Slaad
 Kategorie: Aberration
 Größe: Groß
 HG: 7
@@ -16,7 +16,7 @@ tags:
 aliases:
   - Blue Slaad
 ---
-# [Blue Slaad](3-Mechanics\CLI\bestiary\aberration/blue-slaad.md)
+# Blauer Slaad
 *Source: Monster Manual p. 276*  
 
 The bone hooks that protrude from the back of a blue slaad's hands inflict a terrible transformative disease on humanoids wounded by them. This infection, called chaos phage, transforms its victim into a fully grown red slaad—or green slaad if the host was a spellcaster able to cast 3rd level spells or higher.

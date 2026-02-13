@@ -1,6 +1,6 @@
 ---
 Bezeichnung: Mistelzweigsprössling
-Kategorie: Druidischer Fokus
+Kategorie: Fokus, Druidisch
 Eigenschaften: n/v
 Kst.: 1 GM
 Gew.: n/v

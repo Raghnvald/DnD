@@ -1,7 +1,7 @@
 ---
 statblock: inline
 statblock-link: "#^statblock"
-Bezeichnung: Derro Savant
+Bezeichnung: Derro-Wissender
 Kategorie: Aberration (Zauberer)
 Größe: Klein
 HG: 3
@@ -15,7 +15,7 @@ tags:
 aliases:
   - Derro Savant
 ---
-# [Derro Savant](3-Mechanics\CLI\bestiary\aberration/derro-savant-mpmm.md)
+# Derro-Wissender
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 92*  
 
 > [!quote] A quote from Mordenkainen  

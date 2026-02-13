@@ -1,7 +1,7 @@
 ---
 statblock: inline
 statblock-link: "#^statblock"
-Bezeichnung: Gray Slaad
+Bezeichnung: Grauer Slaad
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Stadt
@@ -11,7 +11,7 @@ tags:
 aliases:
   - Gray Slaad
 ---
-# [Gray Slaad](3-Mechanics\CLI\bestiary\aberration/gray-slaad.md)
+# Grauer Slaad
 *Source: Monster Manual p. 277*  
 
 Outside of Limbo, gray slaadi act as living extensions of the will of their masters, the death slaadi. A gray slaad journeys to the Material Plane on errands of doom, often taking humanoid form. A gray slaad learns how to master the use of a greatsword and imbue it with its own innate magic.

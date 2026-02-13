@@ -1,7 +1,7 @@
 ---
 cssclasses:
   - json5e-item
-Bezeichnung: Airship
+Bezeichnung: Luftschiff
 Kategorie: Luft- und Wasserfahrzeug
 tags:
   - Gegenstand/Ausrüstung/Fahrzeug

@@ -1,7 +1,7 @@
 ---
 statblock: inline
 statblock-link: "#^statblock"
-Bezeichnung: Cloaker
+Bezeichnung: Mantler
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Unterreich
@@ -11,7 +11,7 @@ tags:
 aliases:
   - Cloaker
 ---
-# [Cloaker](3-Mechanics\CLI\bestiary\aberration/cloaker.md)
+# Mantler
 *Source: Monster Manual p. 41. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 Cloakers earned their names for the resemblance they bear to dark leathery cloaks. Lurking in remote dungeons and caves, these stealthy predators wait to slay lone or injured prey stumbling through the darkness.

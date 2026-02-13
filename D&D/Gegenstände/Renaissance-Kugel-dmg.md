@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Renaissance Bullet
+Bezeichnung: Renaissance-Kugel
 Kategorie: Munition
 tags:
   - Gegenstand/Ausrüstung/ammunition-firearm

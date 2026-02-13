@@ -1,7 +1,7 @@
 ---
 statblock: inline
 statblock-link: "#^statblock"
-Bezeichnung: Neogi Master
+Bezeichnung: Neogi-Meister
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Hügel
@@ -12,7 +12,7 @@ tags:
 aliases:
   - Neogi Master
 ---
-# [Neogi Master](3-Mechanics\CLI\bestiary\aberration/neogi-master-mpmm.md)
+# Neogi-Meister
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 192*  
 
 Neogi masters use magic, as a result of a pact between neogi and aberrant entities they met during their journey from their home world. These entities—known by such names as Acamar, Caiphon, Gibbeth, and Hadar—resemble stars and embody the essence of evil.

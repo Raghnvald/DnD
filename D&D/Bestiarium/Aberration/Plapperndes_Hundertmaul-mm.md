@@ -1,7 +1,7 @@
 ---
 statblock: inline
 statblock-link: "#^statblock"
-Bezeichnung: Gibbering Mouther
+Bezeichnung: Plapperndes Hundertmaul
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Unterreich
@@ -11,7 +11,7 @@ tags:
 aliases:
   - Gibbering Mouther
 ---
-# [Gibbering Mouther](3-Mechanics\CLI\bestiary\aberration/gibbering-mouther.md)
+# Plapperndes Hundertmaul
 *Source: Monster Manual p. 157. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 Of all the terrors created by foul sorcery, gibbering mouthers are among the most wicked and depraved. This creature is the composite eyes, mouths, and liquefied matter of its former victims. Driven to insanity by the destruction of their bodies and absorption into the mouther, those victims gibber incoherent madness, forced to consume everything in reach.

@@ -1,7 +1,7 @@
 ---
 statblock: inline
 statblock-link: "#^statblock"
-Bezeichnung: Grell Psychic
+Bezeichnung: Grell-Hellseher
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/4
@@ -11,7 +11,7 @@ aliases:
   - Grell Psychic
 Image: aberration/token/grell-psychic-pabtso.webp
 ---
-# Grell Psychic
+# Grell-Hellseher
 *Source: Phandelver and Below: The Shattered Obelisk p. 145*  
 
 ```statblock

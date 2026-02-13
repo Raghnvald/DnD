@@ -1,6 +1,6 @@
 ---
 Bezeichnung: Eibenzauberstab
-Kategorie: Druidischer Fokus
+Kategorie: Fokus, Druidisch
 Eigenschaften: /
 Kst.: 10 GM
 Gew.: 0,5 kg

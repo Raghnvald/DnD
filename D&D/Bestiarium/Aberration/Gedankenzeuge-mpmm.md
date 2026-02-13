@@ -1,7 +1,7 @@
 ---
 statblock: inline
 statblock-link: "#^statblock"
-Bezeichnung: Mindwitness
+Bezeichnung: Gedankenzeuge
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Unterreich
@@ -11,7 +11,7 @@ tags:
 aliases:
   - Mindwitness
 ---
-# [Mindwitness](3-Mechanics\CLI\bestiary\aberration/mindwitness-mpmm.md)
+# Gedankenzeuge
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 181*  
 
 If a beholder is [stunned](/3-Mechanics/CLI/conditions.md#Stunned) and brought to the brine pool of an elder brain, the beholder can be converted into a mindwitness. This alters some of its eye rays and transforms four of its eyestalks into tentacles similar to a mind flayer's. The mindwitness is psychically imprinted with devotion to the elder brain and submission to illithid commands.

@@ -1,7 +1,7 @@
 ---
 statblock: inline
 statblock-link: "#^statblock"
-Bezeichnung: Elder Brain Dragon
+Bezeichnung: Ältestengehirndrache
 Kategorie: Aberration
 Größe: Gigantisch
 HG: 22
@@ -14,7 +14,7 @@ tags:
 aliases:
   - Elder Brain Dragon
 ---
-# [Elder Brain Dragon](3-Mechanics\CLI\bestiary\aberration/elder-brain-dragon-ftd.md)
+# Ältestengehirndrache
 *Source: Fizban's Treasury of Dragons p. 194*  
 
 One of the few consolations available to those who must contend with a mind flayer colony is the limit of its reach, which spreads only as far as the influence of the colony's elder brain. But this small solace withers away when a colony manages to capture a dragon. Teams of mind flayers bind the dragon, which is subject to a gruesome transformation as the elder brain latches onto the dragon's back and digs its tentacles into the dragon's brain. An elder brain dragon is the nightmarish result.

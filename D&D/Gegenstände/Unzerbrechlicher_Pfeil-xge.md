@@ -1,7 +1,5 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Unbreakable Arrow
+Bezeichnung: Unzerbrechlicher Pfeil
 Kategorie: Munition
 tags:
   - Gegenstand/Ausrüstung/ammunition

@@ -1,6 +1,6 @@
 ---
 Bezeichnung: Totem
-Kategorie: Druidischer Fokus
+Kategorie: Fokus, Druidisch
 Eigenschaften: /
 Kst.: 1 GM
 Gew.: /

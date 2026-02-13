@@ -1,7 +1,5 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Blowgun Needle
+Bezeichnung: Blasrohrpfeil
 Kategorie: Munition
 tags:
   - Gegenstand/Ausrüstung/ammunition

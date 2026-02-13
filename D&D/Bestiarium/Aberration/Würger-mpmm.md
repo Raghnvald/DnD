@@ -1,7 +1,7 @@
 ---
 statblock: inline
 statblock-link: "#^statblock"
-Bezeichnung: Choker
+Bezeichnung: Würger
 tags:
   - Monster/Größe/Klein
   - Monster/Habitat/Berg
@@ -13,7 +13,7 @@ tags:
 aliases:
   - Choker
 ---
-# [Choker](3-Mechanics\CLI\bestiary\aberration/choker-mpmm.md)
+# Würger
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 76*  
 
 The choker is a subterranean predator far more dangerous than its small size and spindly, rubbery limbs would suggest.

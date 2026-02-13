@@ -1,7 +1,5 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Fine Wine (bottle)
+Bezeichnung: Feiner Wein (Flasche)
 Kategorie: Essen und Trinken
 tags:
   - Gegenstand/Ausrüstung/Essen-und-Trinken

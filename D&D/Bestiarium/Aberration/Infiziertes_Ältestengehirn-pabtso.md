@@ -1,7 +1,7 @@
 ---
 statblock: inline
 statblock-link: "#^statblock"
-Bezeichnung: Infected Elder Brain
+Bezeichnung: Infiziertes Ältestengehirn
 tags:
   - Monster/Größe/Groß
   - Monster/HG/11
@@ -11,7 +11,7 @@ aliases:
   - Infected Elder Brain
 Image: aberration/token/infected-elder-brain-pabtso.webp
 ---
-# Infected Elder Brain
+# Infiziertes Ältestengehirn
 *Source: Phandelver and Below: The Shattered Obelisk p. 159*  
 
 The Far Realm has tainted the elder brain that fuels Illithinoch's mind flayers.

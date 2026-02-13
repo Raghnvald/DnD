@@ -1,6 +1,6 @@
 ---
 Bezeichnung: Rute
-Kategorie: Arkaner Fokus
+Kategorie: Fokus, Arkan
 Eigenschaften: /
 Kst.: 10 GM
 Gew.: 1,0 kg

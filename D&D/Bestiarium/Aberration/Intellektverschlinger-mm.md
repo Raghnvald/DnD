@@ -1,7 +1,7 @@
 ---
 statblock: inline
 statblock-link: "#^statblock"
-Bezeichnung: Intellect Devourer
+Bezeichnung: Intellektverschlinger
 tags:
   - Monster/Größe/Winzig
   - Monster/Habitat/Unterreich
@@ -11,7 +11,7 @@ tags:
 aliases:
   - Intellect Devourer
 ---
-# [Intellect Devourer](3-Mechanics\CLI\bestiary\aberration/intellect-devourer.md)
+# Intellektverschlinger
 *Source: Monster Manual p. 191*  
 
 An intellect devourer resembles a walking brain protected by a crusty covering and set on bestial clawed legs. This foul aberration feeds on the intelligence of sentient creatures, taking over a victim's body on behalf of its mind flayer masters.

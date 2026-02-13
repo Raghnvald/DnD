@@ -1,7 +1,5 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Common Wine (pitcher)
+Bezeichnung: Gewöhnlicher Wein (Karaffe)
 Kategorie: Essen und Trinken
 tags:
   - Gegenstand/Ausrüstung/Essen-und-Trinken

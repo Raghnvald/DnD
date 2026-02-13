@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Loaf of Bread
+Bezeichnung: Brotlaib
 Kategorie: Essen und Trinken
 Eigenschaften: /
 Kst.: 2 KM

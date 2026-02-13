@@ -1,7 +1,7 @@
 ---
 statblock: inline
 statblock-link: "#^statblock"
-Bezeichnung: Encephalon Cluster
+Bezeichnung: Encephalonen-Geschwür
 Kategorie: Aberration
 Größe: Groß
 HG: 10
@@ -16,7 +16,7 @@ aliases:
   - Encephalon Cluster
 Image: aberration/token/encephalon-cluster-pabtso.webp
 ---
-# Encephalon Cluster
+# Encephalonen-Geschwür
 *Source: Phandelver and Below: The Shattered Obelisk p. 205*  
 
 An encephalon cluster pays no heed to an elder brain or its mind flayer progenitors. This grotesque creature shambles through dark and forgotten caverns, spewing warped progeny so it can multiply. As such, many mind flayers view encephalon clusters as insidious viruses. If left unchecked, a single encephalon cluster can quickly become a gorging menace that can overrun an entire mind flayer colony.

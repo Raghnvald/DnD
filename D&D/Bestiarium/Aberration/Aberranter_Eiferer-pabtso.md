@@ -7,7 +7,7 @@ Größe: Mittelgroß
 HG: 8
 Habitat:
   - /
-status: WIP
+status: Statblock partially done
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/8

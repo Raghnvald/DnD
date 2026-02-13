@@ -1,5 +1,4 @@
 ---
-prefer-view: edit-source read
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Beobachter
@@ -8,7 +7,7 @@ Größe: Mittelgroß
 HG: 3
 Habitat:
   - Unterreich
-image: image/spectator
+image: token/spectator.webp
 status: completed
 tags:
   - Monster/Größe/Mittelgroß

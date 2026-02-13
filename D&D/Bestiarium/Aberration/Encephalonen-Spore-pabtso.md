@@ -1,7 +1,7 @@
 ---
 statblock: inline
 statblock-link: "#^statblock"
-Bezeichnung: Encephalon Gemmule
+Bezeichnung: Encephalonen-Spore
 Kategorie: Aberration
 Größe: Winzig
 HG: 3
@@ -14,9 +14,9 @@ tags:
   - Quelle/5e/pabtso
 aliases:
   - Encephalon Gemmule
-Image: aberration/token/encephalon-gemmule-pabtso.webp
+Image: token/encephalon-gemmule-pabtso.webp
 ---
-# Encephalon Gemmule
+# Encephalonen-Spore
 *Source: Phandelver and Below: The Shattered Obelisk p. 206*  
 
 Due to the influence of the Far Realm, the eggs within an encephalon cluster no longer hatch into illithid tadpoles. Instead, when one of an encephalon cluster's eggs reaches maturity, it is ejected from the mass as an encephalon gemmule.

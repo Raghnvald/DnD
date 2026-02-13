@@ -1,7 +1,7 @@
 ---
 statblock: inline
 statblock-link: "#^statblock"
-Bezeichnung: Red Slaad
+Bezeichnung: Roter Slaad
 tags:
   - Monster/Größe/Groß
   - Monster/HG/5
@@ -10,7 +10,7 @@ tags:
 aliases:
   - Red Slaad
 ---
-# [Red Slaad](3-Mechanics\CLI\bestiary\aberration/red-slaad.md)
+# Roter Slaad 
 *Source: Monster Manual p. 276*  
 
 When a red slaad claws a humanoid creature, it can inject an egg from a gland under one of its claws. The egg works its way into its host and gestates, eventually forming a slaad tadpole. Such a tadpole then eats its way out of the host's body, feeds on the host's remains, and then seeks any other fresh meat it can find. The tadpole transforms into a fully grown blue slaad-or green slaad if the host had the ability to cast 3rd level spells or higher-within `2d12` hours.

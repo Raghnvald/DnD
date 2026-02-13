@@ -4,41 +4,41 @@ tags:
 aliases:
   - Chapter 5: Paths of Peril
 ---
-# Chapter 5: Paths of Peril
-*Source: Phandelver and Below: The Shattered Obelisk, p. 77* 
+# Kapitel 5: Gefährliche Pfade
+*Quelle: Die Tiefen von Phandelver: Der zersplitterte Obelisk, S. 77*
 
 Als die Charaktere nach ihren eigenen Abenteuern in der Wellenhallhöhle nach Phandalin zurückkehren, befindet sich das Dorf in Aufruhr. Diebstahl, Vandalismus und Gewalt plagen Phandalin - die Übeltäter sind eine Gruppe von Goblins, von denen einige seltsame psionische Kräfte besitzen. Diese Goblins haben ihr Ziel im Hintergrund der bisherigen Kapitel verfolgt (siehe „Die Geschichte der Goblins" weiter unten). Ihr Bestreben ist nun zur Hauptgeschichte des Abenteuers geworden. 
 
 $\quad$Bürgermeister Harbin Wester ist verzweifelt und weiß nicht, wie er den Opfern helfen oder gar die Übeltäter finden und aufhalten kann. Er bittet die Charaktere, die Tatorte zu untersuchen, die Schuldigen zu finden und den Vorfällen ein Ende zu setzen. Diese Aufgabe führt die Charaktere schließlich zur Basis der Goblins tief unter der Erde - in einen alten Duergar-Minenaußenposten namens Zorzulas Ruh. Dort erhält ein Goblin-Anführer, der sich [[Ruxithid_der_Auserwählte-pabtso|Ruxithid der Auserwählte]] nennt, Befehle von mächtigen Gebietern. 
 
-![When the heroes return to ...](D&D/Abenteuer/Die_Tiefen_von_Phandelver-Der_zersplitterte_Obelisk/img/055-05-001-ch5-splash.webp#center "When the heroes return to Phandalin, a different group of goblins is terrorizing the townspeople")
+![Als die Charaktere nach Phandalin zurückkehren, terrorisiert eine andere Gruppe von Goblins die Dörfler](Die_Tiefen_von_Phandelver-Der_zersplitterte_Obelisk/img/055-05-001-ch5-splash.webp#center "When the heroes return to Phandalin, a different group of goblins is terrorizing the townspeople")
 
 ## Das Kapitel leiten
 
-Dieses Kapitel lässt sich in zwei Teile gliedern: die Ermittlungen rund um Phandalin und die Jagd nach Ruxithid. 
+Dieses Kapitel lässt sich in zwei Teile gliedern: die Ermittlungen rund um Phandalin und die Jagd nach [[Ruxithid_der_Auserwählte-pabtso|Ruxithid]]. 
 
-$\quad$Die Goblins haben vier verschiedene Tatorte hinterlassen, die die Charaktere in beliebiger Reihenfolge untersuchen können. An jedem Tatort gibt es mindestens einen Zeugen und eine mögliche Kampfbegegnung. An diesen Tatorten können die Charaktere genügend Hinweise sammeln, die sie zu Ruxithid, dem Anführer der Goblins, führen. Ohne ihn sollten die Untaten der Goblins ein Ende haben. 
+$\quad$Die Goblins haben vier verschiedene Tatorte hinterlassen, die die Charaktere in beliebiger Reihenfolge untersuchen können. An jedem Tatort gibt es mindestens einen Zeugen und eine mögliche Kampfbegegnung. An diesen Tatorten können die Charaktere genügend Hinweise sammeln, die sie zu [[Ruxithid_der_Auserwählte-pabtso|Ruxithid]], dem Anführer der Goblins, führen. Ohne ihn sollten die Untaten der Goblins ein Ende haben. 
 
-$\quad$Die Verfolgung von Ruxithid führt die Charaktere nach Zorzulas Ruh. Dieser Abschnitt ist ein klassisches Gewölbe-Abenteuer voller seltsamer Geheimnisse, die es zu entdecken gilt - und gefährlicher Feinde, die es zu bekämpfen gilt. 
+$\quad$Die Verfolgung von [[Ruxithid_der_Auserwählte-pabtso|Ruxithid]] führt die Charaktere nach Zorzulas Ruh. Dieser Abschnitt ist ein klassisches Gewölbe-Abenteuer voller seltsamer Geheimnisse, die es zu entdecken gilt - und gefährlicher Feinde, die es zu bekämpfen gilt. 
 
 ### Charakterentwicklung 
 
 Die Charaktere sollten die 5. Stufe erreicht haben, wenn das Kapitel beginnt. In diesem Kapitel können Charaktere maximal bis zur 7. Stufe aufsteigen. Der Stufenaufstieg wird wie folgt gehandhabt: 
 
-- Die Charaktere steigen eine Stufe auf, wenn sie den Standort von Zorzulas Ruh entdecken und beschließen, dort [[Ruxithid_der_Auserwählte-pabtso|Ruxithid dem Auserwählten]] und den SägezankGoblins entgegenzutreten. 
-- Die Charaktere steigen eine Stufe auf, wenn sie Ruxithid besiegen und von einem größeren, unheilvolleren Plan erfahren.   
+- Die Charaktere steigen eine Stufe auf, wenn sie den Standort von Zorzulas Ruh entdecken und beschließen, dort [[Ruxithid_der_Auserwählte-pabtso|Ruxithid dem Auserwählten]] und den Sägezank-Goblins entgegenzutreten. 
+- Die Charaktere steigen eine Stufe auf, wenn sie [[Ruxithid_der_Auserwählte-pabtso|Ruxithid]] besiegen und von einem größeren, unheilvolleren Plan erfahren.   
 
 ### Die Geschichte der Goblins
 
 Die Goblins im Mittelpunkt dieses Kapitels sind Teil einer Enklave, deren Vorfahren seit Generationen einen verlassenen Duergar-Minenaußenposten namens Zorzulas Ruh bewohnen. Vor Jahrhunderten wurde der Außenposten von Gedankenschindern erobert. Die Goblins dort waren den seltsamen Kräften der Illithiden ausgesetzt, wodurch eine Untergruppe von Goblins ungewöhnliche psionische Kräfte entwickelte. Die Gedankenschinder zogen schließlich ab, aber die Goblins blieben abgeschottet vom Rest der Welt zurück, bis die Gedankenschinder-Fanatiker sie vor Kurzem aufsuchten. Einige der Nachkommen dieser Goblins besitzen psionische Kräfte, wie die [[Goblin-Psi-Befehlshaber-pabtso|Goblin-Psi-Befehlshaber]] und [[Goblin-Psi-Raufbold-pabtso|Goblin-Psi-Raufbolde]] in ihren Reihen beweisen. Die Goblins nennen sich selbst „Sägezank": eine vereinfachte Form des Wortes für ,,Goblin" im Dialekt der Illithiden der Tiefensprache. 
 
-$\quad$In den letzten Wochen hat der Anführer der Sägezank-Goblins einen geheimnisvollen Edelstein gefunden. [[Ruxithid_der_Auserwählte-pabtso|Ruxithid der Auserwählte]] weiß nicht, dass eine neue Gruppe Gedankenschinder-Fanatiker, die Macht aus dem Fernen Reich beziehen, ihm den Edelstein untergeschoben haben. Der Edelstein ermöglicht es Ruxithid, telepathisch mit den Gedankenschindern zu kommunizieren, die er für Götter hält. Die Gedankenschinder fordern, dass Ruxithids Goblins besondere schwarze Steinsplitter von einem uralten Obelisken finden, der einst in der Wildnis außerhalb von Phandalin errichtet wurde. Der Obelisk stammt aus dem uralten nesserilischen Imperium und soll über transformative Fähigkeiten verfügen. Die Goblins wissen jedoch nur sehr wenig über seine Eigenschaften oder seine Geschichte. Sie wissen nur, dass ihre „Götter" einige der Obeliskensplitter nach Phandalin zurückverfolgt haben, die Splitter für einen höheren Zweck begehren und die Hilfe der Sägezank-Goblins fordern. 
+$\quad$In den letzten Wochen hat der Anführer der Sägezank-Goblins einen geheimnisvollen Edelstein gefunden. [[Ruxithid_der_Auserwählte-pabtso|Ruxithid der Auserwählte]] weiß nicht, dass eine neue Gruppe Gedankenschinder-Fanatiker, die Macht aus dem Fernen Reich beziehen, ihm den Edelstein untergeschoben haben. Der Edelstein ermöglicht es [[Ruxithid_der_Auserwählte-pabtso|Ruxithid]], telepathisch mit den Gedankenschindern zu kommunizieren, die er für Götter hält. Die Gedankenschinder fordern, dass [[Ruxithid_der_Auserwählte-pabtso|Ruxithids]] Goblins besondere schwarze Steinsplitter von einem uralten Obelisken finden, der einst in der Wildnis außerhalb von Phandalin errichtet wurde. Der Obelisk stammt aus dem uralten nesserilischen Imperium und soll über transformative Fähigkeiten verfügen. Die Goblins wissen jedoch nur sehr wenig über seine Eigenschaften oder seine Geschichte. Sie wissen nur, dass ihre „Götter" einige der Obeliskensplitter nach Phandalin zurückverfolgt haben, die Splitter für einen höheren Zweck begehren und die Hilfe der Sägezank-Goblins fordern. 
 
 $\quad$Während sie mit ihrem Schutzherren aus dem Femen Reich kommunizieren, haben die Gedankenschinder erfahren, dass vier Obeliskensplitter seit Ewigkeiten in der Region von Phandalin versteckt sind. (Mehr über die Geschichte der Gedankenschinder findest du in den folgenden Kapiteln.) Die Jagd nach den Splittern ist der Auslöser für die Raubzüge der Goblins. Viele der Kobolde nutzen jedoch einfach aus Spaß die Gelegenheit, um im Dorf Chaos anzurichten. 
 
 ## Die Misere des Bürgermeisters 
 
-![Terrified and angry, the t...](D&D/Abenteuer/Die_Tiefen_von_Phandelver-Der_zersplitterte_Obelisk/img/056-05-002-angry-townspeople.webp#center "Terrified and angry, the townspeople demand that Townmaster Harbin Wester take action to stop the recent crimes")
+![Die verängstigten und zornigen Dörfler verlangen, dass Bürgermeister Harbin Wester Maßnahmen ergreift, um die Verbrechen zu stoppen.](Die_Tiefen_von_Phandelver-Der_zersplitterte_Obelisk/img/056-05-002-angry-townspeople.webp#center "Terrified and angry, the townspeople demand that Townmaster Harbin Wester take action to stop the recent crimes")
 
 Lies folgenden Text vor, wenn die Charaktere nach der Konfrontation in der Wellenhallhöhle nach Phandalin zurückkehren: 
 
@@ -127,7 +127,7 @@ $\quad$Nachdem die Charaktere mindestens einen Tatort untersucht haben, lies die
 
 Gwyn ist neu in der Stadt und fühlt sich etwas verloren. Sie bittet Abenteurergruppe, ihr den Weg zum Gasthaus Steinhügel zu weisen.
 
-![Gwyn Oresong](Die_Tiefen_von_Phandelver-Der_zersplitterte_Obelisk/img/057-05-003-gwyn-oresong.webp#center)
+![Gwyn Erzsang](Die_Tiefen_von_Phandelver-Der_zersplitterte_Obelisk/img/057-05-003-gwyn-oresong.webp#center)
 
 #### Gwyn Erzsang
 
@@ -179,7 +179,7 @@ Charaktere mit einem passiven Weisheitswert ([[01-Spielleiter/Fertigkeiten-phb.m
 
 Ander ist ein blauäugiger, schnell sprechender halbwüchsiger Halbling ([[Gemeiner-mm|Gemeiner]]) und arbeitet als einer von Bartens Angestellten. Er befand sich gerade im Laden, als die Goblins den Brunnen zerstörten. Ander wartet bei Barthens Proviant, um bei ihrer Ankunft mit den Charakteren zu sprechen. Er gibt folgende Informationen preis: 
 
-![Goblins destroyed Barthen'...](D&D/Abenteuer/Die_Tiefen_von_Phandelver-Der_zersplitterte_Obelisk/img/058-05-004-barthens-well.webp#center "Goblins destroyed Barthen's Well when they stole an obelisk shard from the winch")
+![Goblins haben Barthens Brunnen beim Diebstahl eines Obeliskensplitters aus der Seilwinde zerstört.](D&D/Abenteuer/Die_Tiefen_von_Phandelver-Der_zersplitterte_Obelisk/img/058-05-004-barthens-well.webp#center "Goblins destroyed Barthen's Well when they stole an obelisk shard from the winch")
 
 - **Operationsbasis:** Als Ander sie verjagte, rief einer von ihnen: ,,Schnell! Zurück zur Ruh!" Anschließend sprangen die Vandalen in den Brunnen und flüchteten unter die Erde. 
 - **Beschreibung:** Ander beschreibt die Vandalen als „seltsam, etwas größer als ich, mit langen, flachen Ohren, großen Köpfen, und Händen, die vor merkwürdiger Magie glühten."
@@ -234,7 +234,7 @@ Lies folgenden Text vor, wenn die Charaktere diesen Tatort untersuchen:
 
 Gildenmeisterin Halia Domklafter leitet die Reparaturarbeiten am Gebäude. Wenn ein Charakter versucht, mit Halia zu sprechen, antwortet die Gildenmeisterin knapp, dass sie zuerst sicherstellen muss, dass das Gebäude nicht einstürzt. 
 
-![The destruction of the cor...](D&D/Abenteuer/Die_Tiefen_von_Phandelver-Der_zersplitterte_Obelisk/img/061-05-005-miners-exchange-cornerstone.webp#center "The destruction of the cornerstone weakened the foundation of the Miner's Exchange")
+![Die Zerstörung des Ecksteins hat das Fundament der Minenbörse geschwächt.](D&D/Abenteuer/Die_Tiefen_von_Phandelver-Der_zersplitterte_Obelisk/img/061-05-005-miners-exchange-cornerstone.webp#center "The destruction of the cornerstone weakened the foundation of the Miner's Exchange")
 
 ##### Das Gebäude reparieren
 
@@ -297,7 +297,7 @@ Lies folgenden Text vor, wenn die Charaktere diesen Tatort untersuchen:
 
 Das junge Mädchen an der Seite von Schwester Garaele ist Tamara Steinhügel, die Tochter des Gastwirts Toblen Steinhügel. Eines frühen Morgens besuchte Tamara den Schrein des Glücks, um mit ihrer Mutter Trilena zu beten. Als sie sich ihm jedoch näherten, stürzte ein Teil des Schreins ein und drei kleine Kreaturen - die Goblins - eilten mit einem Stein aus den Trümmern davon. Seitdem helfen Tamara und Trilena Schwester Garaele dabei, den Schrein wiederaufzubauen. Tamara durchsucht die Trümmer nach Material, das noch verwendet werden kann, während Trilena Essen und Wasser vom Gasthaus Steinhügel bringt.
 
-![Goblins damaged the Shrine...](Die_Tiefen_von_Phandelver-Der_zersplitterte_Obelisk/img/063-05-007-shrine-of-luck.webp#center "Goblins damaged the Shrine of Luck when they removed the obelisk shard from the pinnacle of the arch")
+![Goblins haben beim Entfernen des Obeliskensplitters aus seinem Bogen den Schrein des Glücks beschädigt.](Die_Tiefen_von_Phandelver-Der_zersplitterte_Obelisk/img/063-05-007-shrine-of-luck.webp#center "Goblins damaged the Shrine of Luck when they removed the obelisk shard from the pinnacle of the arch")
 
 ##### Schwester Garaele
 
@@ -333,7 +333,7 @@ Als Anhänger von Tymora können sowohl Trilena als auch Tamara den Charakteren 
 
 ### Zum schlafenden Riesen
 
-![Goblins smashed the bar at...](D&D/Abenteuer/Die_Tiefen_von_Phandelver-Der_zersplitterte_Obelisk/img/066-05-008-sleeping-giant-bar.webp#center "Goblins smashed the bar at the Sleeping Giant and stole an obelisk shard")
+![Goblins haben die Theke im Schlafenden Riesen zerstört und einen Obeliskensplitter gestohlen.](D&D/Abenteuer/Die_Tiefen_von_Phandelver-Der_zersplitterte_Obelisk/img/066-05-008-sleeping-giant-bar.webp#center "Goblins smashed the bar at the Sleeping Giant and stole an obelisk shard")
 
 Da die Charaktere die Operation der Rotbrenner vereitelt haben, ist der Schlafende Riese nunmehr kein Treffpunkt für Kriminelle mehr. Die meisten Dörfler sind immer noch misstrauisch, obwohl einige für günstiges Gebräu in die Schenke kommen.
 
@@ -423,230 +423,232 @@ Der Beutel enthält einen Großteil des wöchentlichen Profits der Schenke: 10 G
 
 Bei Zorzulas Ruh handelt es sich um einen uralten Duergar-Minenaußenposten in den Schwertbergen östlich von Phandalin. Die Bedeutung des Namens ist im Laufe der Zeit verloren gegangen. In Geschichtsbüchern wird jedoch ein mächtiger Duergar-Anführer namens Zorzula erwähnt, der Bergbaubetriebe im den gesamten Schwertbergen befehligte. Die Duergar mussten die Kontrolle über den Außenposten jedoch vor Jahrhunderten abgeben, als Zorzulas Ruh von Gedankenschindern eingenommen wurde.
 
-Nach der Eroberung des Außenpostens herrschten die Illithiden jahrzehntelang über das Gebiet. Sie beherbergten sogar ein Ältestengehirn im unterirdischen Heiligtum des Außenpostens. Als ihr unterirdisches Reich zerfiel, verließ die Kolonie der Gedankenschinder den Außenposten. Die Echos ihrer Anwesenheit sind jedoch immer noch zu spüren.
+$\quad$Nach der Eroberung des Außenpostens herrschten die Illithiden jahrzehntelang über das Gebiet. Sie beherbergten sogar ein Ältestengehirn im unterirdischen Heiligtum des Außenpostens. Als ihr unterirdisches Reich zerfiel, verließ die Kolonie der Gedankenschinder den Außenposten. Die Echos ihrer Anwesenheit sind jedoch immer noch zu spüren.
 
-Zorzulas Ruh wird von einer Enklave geheimnisvoller Goblins bewohnt, die sich Sägezank-Goblins nennen. Diese Goblins bewohnen den Außenposten seit Generationen und einige von ihnen verfügen über psionische Fähigkeiten, die auf den abnormalen Einfluss der einst dort lebenden Gedankenschinder zurückzuführen sind. Erst kürzlich haben sich die Goblins über den Außenposten hinausgewagt und plündern umliegende Gebiete.
+$\quad$Zorzulas Ruh wird von einer Enklave geheimnisvoller Goblins bewohnt, die sich Sägezank-Goblins nennen. Diese Goblins bewohnen den Außenposten seit Generationen und einige von ihnen verfügen über psionische Fähigkeiten, die auf den abnormalen Einfluss der einst dort lebenden Gedankenschinder zurückzuführen sind. Erst kürzlich haben sich die Goblins über den Außenposten hinausgewagt und plündern umliegende Gebiete.
 
-Diese Exkursionen werden von einem Goblin namens [[Ruxithid_der_Auserwählte-pabtso|Ruxithid der Auserwählte]] geleitet. Dank eines besonderen Kristalls erhält er telepathisch Befehle von seinen „mächtigen Göttern" - der Gruppe von Gedankenschindern, die im Mittelpunkt dieses Abenteuers stehen. (Siehe Abschnitt „Indigoblaues Heiligtum" für weitere Informationen). Ruxithid nimmt fälschlicherweise an, dass diese Gedankenschinder die Quelle der psionischen Fähigkeiten der Goblins sind. Er glaubt auch, dass diese „Götter" ihn für seinen Gehorsam reich belohnen werden.
+$\quad$Diese Exkursionen werden von einem Goblin namens [[Ruxithid_der_Auserwählte-pabtso|Ruxithid der Auserwählte]] geleitet. Dank eines besonderen Kristalls erhält er telepathisch Befehle von seinen „mächtigen Göttern" - der Gruppe von Gedankenschindern, die im Mittelpunkt dieses Abenteuers stehen. (Siehe Abschnitt „Indigoblaues Heiligtum" für weitere Informationen). Ruxithid nimmt fälschlicherweise an, dass diese Gedankenschinder die Quelle der psionischen Fähigkeiten der Goblins sind. Er glaubt auch, dass diese „Götter" ihn für seinen Gehorsam reich belohnen werden.
 
-Neben der Beschaffung der nesserilischen Obeliskensplitter sollen Ruxithid und seine Goblins auch Opfergaben für ihre Götter in Form von Dörflern aus Phandalin darbringen. Einige dieser Entführungsopfer befinden sich tiefer im Unterreich (siehe spätere Kapitel), andere werden jedoch in den Tiefen des Außenpostens festgehalten.
+$\quad$Neben der Beschaffung der nesserilischen Obeliskensplitter sollen Ruxithid und seine Goblins auch Opfergaben für ihre Götter in Form von Dörflern aus Phandalin darbringen. Einige dieser Entführungsopfer befinden sich tiefer im Unterreich (siehe spätere Kapitel), andere werden jedoch in den Tiefen des Außenpostens festgehalten.
 
-### Approaching the Outpost
+### Beim Aussenposten akommen
 
-Once the characters learn the location of Zorzula's Rest from [Gwyn Oresong](Gwyn_Erzsang-pabtso.md), the journey to the outpost is easy. Zorzula's Rest is a day's travel from Phandalin. When the characters near the outpost, read or paraphrase the following:
+Sobald die Charaktere von [[Gwyn_Erzsang-pabtso|Gwyn Erzsang]] erfahren, wo sich Zorzulas Ruh befindet, ist die Reise dorthin einfach. Zorzulas Ruh ist eine Tagesreise von Phandalin entfernt. Lies die folgende Beschreibung vor oder formuliere sie frei, sobald sich die Charaktere dem Außenposten nähern.
 
 > [!readaloud] 
 > 
-> Slowly, the mountainous terrain begins to change. Gray gravel darkens to ash-black, and shrubbery becomes dry and sparse. Instead of the brisk cold of most mountain peaks, the air starts to warm.
+> Die Berglandschaft verändert sich langsam. Graues Geröll wird schwarz wie Asche und Sträucher sind nunmehr trocken und spärlich. Statt der klirrenden Kälte, die auf den meisten Berggipfeln herrscht, wird die Luft allmählich wärmer.
 > 
-> Ahead of you rises a tall cliff face, in which is set a pair of forbidding obsidian doors: the entrance to Zorzula's Rest.
+> Vor euch erhebt sich eine hohe Felswand, in die zwei ehrfurchtgebietende Türen aus Obsidian eingelassen sind: der Eingang zu Zorzulas Ruh.
 ^1cd
 
-Zorzula's Rest, depicted on map 5.5, is housed within the massive mountain. There are three potential points of entry into Zorzula's Rest: the front doors (area Z1), the hot spring vent (area Z6), or the pantry tunnel (area Z9). A character can discover the spring vent and pantry tunnel by scouting the area and succeeding on a DC 16 Wisdom ([Perception](D&D/3-Mechanics/CLI/Fertigkeiten-phb.md#Perception)) check. The characters also might know about the pantry tunnel entry from their investigations in Phandalin.
+Zorzulas Ruh (Karte 5.5) befindet sich im Innern des massiven Berges. Es gibt drei mögliche Eingänge zu Zorzulas Ruh: die Eingangstüren (Bereich Z1), der Lüftungsschacht der heißen Quelle (Bereich Z6) oder der Tunnel zur Speisekammer (Bereich Z9). Charaktere können den Lüftungsschacht und den Tunnel entdecken, wenn sie die Umgebung auskundschaften und einen `SG-16-Weisheitswurf` ([[01-Spielleiter/Fertigkeiten-phb#Wahrnehmung|Wahrnehmung]]) bestehen. Möglicherweise wissen sie auch durch ihre Ermittlungen in Phandalin von dem Tunnel zur Speisekammer.
 
-### Features of Zorzula's Rest
+### Merkmale von Zorzulas Ruh
 
-Zorzula's Rest has the following noteworthy features.
+Zorzulas Ruh weist die folgenden besonderen Merkmale auf:
 
-#### Sulfuric Lava
+#### Schwefelhaltige Lava
 
-The outpost is built atop a sulfuric lava spring. The sulfur colors the lava bluish-purple and fills the air with toxic fumes. A creature that breathes in the area's fumes must succeed on a DC 10 Constitution saving throw or gain the [poisoned](conditions-xphb.md#Poisoned) condition for 1 hour. Creatures with resistance or immunity to poison damage automatically succeed on this saving throw. A creature who succeeds on this saving throw is immune to the effects of the area's toxic fumes for 24 hours. All creatures that reside in Zorzula's Rest are immune to the fumes.
+Der Außenposten wurde auf einer schwefelhaltigen Lavaquelle errichtet. Der Schwefel färbt die Lava bläulichviolett und erfüllt die Luft mit giftigen Dämpfen. Eine Kreatur, die die Dämpfe im Gebiet einatmet, muss einen `SG-10-Konstitutionsrettungswurf` bestehen, oder sie ist sie eine Stunde lang [[Zustände-phb#Vergiftet|vergiftet]]. Kreaturen, die gegen Giftschaden resistent oder immun sind, bestehen diesen Rettungswurf automatisch. Eine Kreatur, die diesen Rettungswurf besteht, ist 24 Stunden lang gegen die giftigen Dämpfe in diesem Gebiet immun. Alle Kreaturen, die in Zorzulas Ruh hausen, sind gegen die Dämpfe ebenfalls immun.
 
-#### Walls and Floors
+#### Wände und Böden
 
-The walls and floors of the outpost are made of gray igneous stone. The mining tunnels carve through packed earth and rocky sediment.
+Die Wände und Böden des Außenpostens bestehen aus grauem Vulkangestein. Die Bergwerkstunnel verlaufen durch festgestampfte Erde und felsiges Sediment.
 
-#### Ceilings
+#### Decken
 
-Unless otherwise stated, room ceilings are 15 feet high and vaulted, and tunnel ceilings are 10 feet high and flat.
+Sofern nicht anders angegeben, sind die Decken in Räumen 4,5 Meter hoch und gewölbt. Tunneldecken sind drei Meter hoch und flach.
 
-#### Lighting
+#### Beleuchtung
 
-Geometric grooves are carved into the outpost's ceiling and walls. The grooves allow lava to flow through and illuminate the outpost's interior with dim blue light. The mining tunnels are dark unless otherwise noted.
+In die Decke und Wände des Außenpostens sind geometrische Rillen eingegraben. Lava fließt durch die Rillen und taucht das Innere des Außenpostens in schwaches blaues Licht. Sofern nicht anders angegeben, sind die Bergwerkstunnel dunkel.
 
 > [!note] 
 > 
-> Tunnels Galore!
+> Überall Tunnel!
 > 
-> Map 5.5 and the corresponding location descriptions detail the main areas of the mining tunnels. However, several smaller, splinter tunnels branch off these areas. These tunnels were once used in the ancient duergar's mining operations, but now lay abandoned.
+> Auf Karte 5.5 und den dazugehörigen Beschreibungen sind die Hauptbereiche der Bergwerkstunnel aufgeführt. Von diesen Bereichen zweigen jedoch mehrere kleinere Tunnel ab. Diese Tunnel wurden einst für den alten Duergar-Bergbaubetrieb genutzt, sind heutzutage aber verlassen.
 > 
-> The contents of these splinter tunnels is unimportant to the bulk of the adventure. If the characters want to explore these areas, feel free to fill these additional tunnels with whatever treasure or monsters you see fit.
+> Der Inhalt dieser kleinen Tunnel ist für den Hauptteil des Abenteuers unwichtig. Falls die Charaktere diese Bereiche erkunden wollen, kannst du diese zusätzlichen Tunnel gerne beliebig mit Schätzen oder Monstern füllen.
 ^1d3
 
-### Zorzula's Rest Locations
+### Orte in Zorzulas Ruh 
 
-The following locations are keyed to map 5.5.
+Folgende Orte sind auf Karte 5.5 vermerkt:
 
 > [!gallery]
-> ![Map 5.5: Zorzula's Rest](D&D/Abenteuer/Die_Tiefen_von_Phandelver-Der_zersplitterte_Obelisk/img/069-map-5-05-zorzulas-rest.webp#gallery)
-> ![Player Version](D&D/Abenteuer/Die_Tiefen_von_Phandelver-Der_zersplitterte_Obelisk/img/070-map-5-05-zorzulas-rest-player.webp#gallery)
+> ![Map 5.5: Zorzula's Rest](Die_Tiefen_von_Phandelver-Der_zersplitterte_Obelisk/img/069-map-5-05-zorzulas-rest.webp#gallery)
+> ![Player Version](Die_Tiefen_von_Phandelver-Der_zersplitterte_Obelisk/img/070-map-5-05-zorzulas-rest-player.webp#gallery)
 
-#### Z1: Entrance
+#### Z1: Eingang
 
 > [!readaloud] 
 > 
-> The towering stone double door before you is free of ornamentation. Two arrow slits, one on each side of the door and each about 10 feet above the ground, guard the entrance.
+> Die hoch aufragende, steinerne Doppeltür vor euch weist keine Verzierungen auf. Zwei Schießscharten bewachen den Eingang, eine auf jeder Seite der Tür und jeweils etwa drei Meter über dem Boden.
 ^1d6
 
-The entry door is unlocked but closed and is too heavy to push open except with 1 minute of effort, though a [knock](/3-Mechanics/CLI/spells/knock-xphb.md) spell or similar magic opens it with ease. Pulling a lever in area Z2 causes the doors to swing inward, stone grinding against stone.
+Die schwere Eingangstür ist nicht verschlossen, aber geschlossen. Sie lässt sich nur mit einer Minute Arbeitsaufwand öffnen - der Zauber [[Klopfen-phb|Klopfen]] oder ähnliche Magie öffnet sie hingegen mit Leichtigkeit. Durch Ziehen eines Hebels in Bereich [[#Z2 Vestibül|Z2]] schwingen die Türen mit dem Knirschen von Stein auf Stein nach innen auf.
 
-##### Arrow Slits
+##### Z1: Schießscharten
 
-Two [goblin psi commanders](/3-Mechanics/CLI/bestiary/aberration/goblin-psi-commander-pabtso.md) are positioned at the entrance's arrow slits. The arrow slits are 10 feet above the ground and can be reached from inside Zorzula's Rest via the spiral staircases in area Z2. The parapet shown on map 5.5 in area Z2 connects the two arrow slits, which grant all of the creatures on the ledge three-quarters cover against attacks made from outside the outpost.
+Hinter den Schießscharten am Eingang sind zwei [[Goblin-Psi-Befehlshaber-pabtso|Goblin-Psi-Befehlshaber]] stationiert. Die Schießscharten befinden sich drei Meter über dem Boden und sind über die Wendeltreppen in Bereich [[#Z2 Vestibül|Z2]] mit dem Innern von Zorzulas Ruh verbunden. Die auf Karte 5.5 in Bereich [[#Z2 Vestibül|Z2]] dargestellte Brüstung verbindet die beiden Schießscharten, die allen Kreaturen auf dem Vorsprung Dreivierteldeckung vor Angriffen von außerhalb des Außenpostens bieten.
 
-The goblins are cautious of outsiders but gullible, and they resent Ruxithid for putting them on guard duty. A character can convince the goblins to open the door with either a successful DC 15 Charisma ([Deception](/3-Mechanics/CLI/skills.md#Deception) or [Persuasion](/3-Mechanics/CLI/skills.md#Persuasion)) check or a bribe worth at least 25 gp. If the characters threaten violence, the goblins attack. Three rounds later, reinforcements from area Z3 arrive.
+$\quad$Die Goblins sind Fremden gegenüber misstrauisch, aber leichtgläubig. Sie nehmen es Ruxithid übel, dass sie zum Wachdienst verdonnert wurden. Charaktere können die Goblins davon überzeugen, die Tür zu öffnen, indem sie entweder einen `SG-15-Charismawurf` ([[01-Spielleiter/Fertigkeiten-phb#Täuschen|Täuschen]] oder [[01-Spielleiter/Fertigkeiten-phb#Überzeugen|Überzeugen]]) bestehen oder ihnen mindestens 25 GM Bestechungsgeld anbieten. Drohen die Charaktere mit Gewalt, greifen die Goblins an. Drei Runden später trifft Verstärkung aus Bereich [[#Z3 Speisehalle|Z3]] ein.
 
-#### Z2: Vestibule
+#### Z2: Vestibül
 
 > [!readaloud] 
 > 
-> Dim blue light bathes the outpost's humid interior as spiral staircases rise along this area's northern walls. Distantly, you hear the faint sound of chatter and utensils clattering on dishes.
+> Schwaches blaues Licht erhellt das feuchte Innere des Außenpostens. An den Nordwänden dieses Bereichs führen Wendeltreppen nach oben. Aus der Ferne hört ihr leises Geplapper und klapperndes Geschirr.
 ^1d9
 
-On either side of the door stands a thin spiral staircase, which ascends to one of the arrow slits guarding the entrance, as described in area Z1. The parapet that runs underneath the arrow slits includes a lever that opens the double door. The lever is directly above the doors.
+Auf beiden Seiten der Tür befindet sich eine dünne Wendeltreppe, die zu einer der Schießscharten neben dem Eingang hinaufführt, wie in Bereich [[#Z1 Eingang|Z1]] beschrieben. Auf der Brüstung unterhalb der Schießscharten befindet sich ein Hebel, der die Doppeltür öffnet. Der Hebel ist direkt über der Tür.
 
-#### Z3: Mess Hall
+#### Z3: Speisehalle
 
 > [!readaloud] 
 > 
-> Blue-tinted lava flows through geometric carvings that run along the walls' top edges, bathing the room in eerie light. Three rectangular stone tables stretch the length of the room along with several sets of stone benches. A handful of goblins sit at these tables, shoveling gritty white porridge into their mouths.
+> Bläuliche Lava fließt durch geometrische Reliefs an den oberen Kanten der Wände entlang und taucht den Raum in unheimliches Licht. Drei rechteckige Steintische und mehrere Steinbänke erstrecken sich über die gesamte Länge des Raums. An den Tischen sitzen einige Goblins und schaufeln sich grobkörnigen weißen Brei in den Mund.
 > 
-> On one side of the room, a window provides a view of the outpost kitchen.
+> Auf einer Seite des Raums gibt ein Fenster den Blick auf die Küche des Außenpostens frei.
 ^1db
 
-At any time, `2d4` [goblins](/3-Mechanics/CLI/bestiary/fey/goblin-warrior-xmm.md) eat in the mess hall, along with `1d6` [goblin psi brawlers](/3-Mechanics/CLI/bestiary/aberration/goblin-psi-brawler-pabtso.md) and `1d4` [goblin psi commanders](/3-Mechanics/CLI/bestiary/aberration/goblin-psi-commander-pabtso.md).
+In der Speisehalle essen jederzeit `2W4` [[Goblin-mm|Goblins]] zusammen mit `1W6` [[Goblin-Psi-Raufbold-pabtso|Goblin-Psi-Raufbolden]] und `1W4` [[Goblin-Psi-Befehlshaber-pabtso|Goblin-Psi-Befehlshabern]].
 
-If they notice an intruder in the mess hall, the goblins panic and attack. The goblins attempt to overwhelm any intruder with sheer numbers, aiming to subdue instead of kill. If all characters are reduced to 0 hit points, they wake up as prisoners inside the Indigo Sanctum's left wing (see the "Sanctum Showdown" section) alongside Phandalin's kidnap victims. Characters who enter the mess hall disguised as goblins can make a DC 15 Charisma ([Deception](/3-Mechanics/CLI/skills.md#Deception)) check, passing through unnoticed on a successful check.
+Wenn sie Eindringlinge in der Speisehalle bemerken, geraten die [[Goblin-mm|Goblins]] in Panik und greifen an. Die [[Goblin-mm|Goblins]] versuchen, Eindringlinge mit ihrer schieren Anzahl abzuwehren, und zielen darauf ab, sie zu überwältigen, anstatt sie zu töten. Wenn die Trefferpunkte aller Charaktere auf 0 sinken, wachen sie als Gefangene im linken Flügel des Indigoblauen Heiligtums (siehe Abschnitt [[#Konfrontation im Heiligtum|„Konfrontation im Heiligtum"]]) neben Phandalins Entführungsopfern auf. Charaktere, die die Speisehalle als [[Goblin-mm|Goblins]] verkleidet betreten, können einen `SG-15-Charismawurf` ([[01-Spielleiter/Fertigkeiten-phb#Täuschen|Täuschen]]) ausführen. Bei einem Erfolg können sie unbemerkt passieren.
 
-A character can attempt to keep the goblins from attacking by making a DC 13 Charisma ([Intimidation](/3-Mechanics/CLI/skills.md#Intimidation) or [Persuasion](/3-Mechanics/CLI/skills.md#Persuasion)) check. On a successful check, the goblins cease fighting but remain wary of the party. The goblins then attempt to broker a deal with the characters, allowing the party to traverse the outpost if they take care of the monsters haunting the outpost's forge (area Z7).
+$\quad$Ein Charakter kann versuchen, die Goblins vom Angriff abzuhalten, indem er einen `SG-13-Charismawurf` ([[01-Spielleiter/Fertigkeiten-phb#Einschüchtern|Einschüchtern]] oder [[01-Spielleiter/Fertigkeiten-phb#Überzeugen|Überzeugen]]) ausführt. Bei einem Erfolg brechen die [[Goblin-mm|Goblins]] den Angriff ab, bleiben der Abenteurergruppe gegenüber jedoch argwöhnisch. Anschließend versuchen die [[Goblin-mm|Goblins]], einen Kompromiss auszuhandeln: Sie erlauben der Abenteurergruppe, den Außenposten zu durchqueren, wenn sie sich um die Monster kümmern, die die Schmiede des Außenpostens heimsuchen (Bereich [[#Z7 Aussichts-Schmiede|Z7]]).
 
-#### Z4: Bunks
+#### Z4: Schlafkammer
 
-The door to the bunks is unlocked and ajar.
+Die Tür zur Schlafkammer ist unverschlossen und angelehnt.
 
 > [!readaloud] 
 > 
-> Snoring fills this room. Numerous messy bunk beds line the walls, their sheets crumpled. A dark opening in the west wall reveals an empty shaft framed with a metal truss.
+> Schnarchen erfüllt diesen Raum. Zahlreiche unordentliche Betten säumen die Wände. Ihre Laken sind zerknittert. Eine dunkle Öffnung in der Westwand gibt den Blick auf einen leeren Schacht mit einem Metallgitter frei.
 ^1dd
 
-At any given time, `1d6` [goblin psi brawlers](/3-Mechanics/CLI/bestiary/aberration/goblin-psi-brawler-pabtso.md) sleep in the bunks. Characters who enter the room must succeed on a DC 17 Dexterity ([Stealth](/3-Mechanics/CLI/skills.md#Stealth)) check to avoid waking the goblins.
+Dort schlafen jederzeit `1W6` [[Goblin-Psi-Raufbold-pabtso|Goblin-Psi-Raufbolde]]. Charaktere, die den Raum betreten, müssen einen `SG-17-Geschicklichkeitswurf` ([[01-Spielleiter/Fertigkeiten-phb#Heimlichkeit|Heimlichkeit]]) bestehen, um die [[Goblin-mm|Goblins]] nicht aufzuwecken.
 
-If awoken, the goblins in the bunks flee and call for help. However, a character who succeeds on a DC 16 Charisma ([Intimidation](/3-Mechanics/CLI/skills.md#Intimidation) or [Persuasion](/3-Mechanics/CLI/skills.md#Persuasion)) check can convince the goblins to be quiet and not mention the party's presence to others—on the condition that the characters help the goblins by defeating the monsters in the forge (area Z7).
+Wenn die [[Goblin-mm|Goblins]] in den Betten aufwachen, fliehen sie und rufen um Hilfe. Ein Charakter, der einen `SG-16- Charismawurf` ([[01-Spielleiter/Fertigkeiten-phb#Einschüchtern|Einschüchtern]] oder [[01-Spielleiter/Fertigkeiten-phb#Überzeugen|Überzeugen]]) besteht, kann die [[Goblin-mm|Goblins]] jedoch überreden, still zu sein und die Anwesenheit der Abenteurergruppe geheim zu halten - unter der Bedingung, dass die Charaktere die Monster in der Schmiede besiegen (Bereich [[#Z7 Aussichts-Schmiede|Z7]]).
 
-If asked about Ruxithid, the goblins state that he's probably in the blue room communing with the mighty gods that gave him and the other psionic goblins their powers. This refers to the Indigo Sanctum, which is across the bridge (area Z19). The goblins aren't aware of any more details regarding Ruxithid's grand plan.
+$\quad$Wenn sie nach [[Ruxithid_der_Auserwählte-pabtso|Ruxithid]] gefragt werden, geben die [[Goblin-mm|Goblins]] an, dass er sich wahrscheinlich im blauen Raum aufhält. Dort kommuniziert er mit den mächtigen Göttern, die ihm und den anderen psionischen [[Goblin-mm|Goblins]] ihre Kräfte verliehen haben. Gemeint ist das Indigoblaue Heiligtum, das sich auf der anderen Seite der Brücke befindet (Bereich [[#Z19 Übergang zum Heiligtum|Z19]]). Die [[Goblin-mm|Goblins]] kennen keine weiteren Einzelheiten über [[Ruxithid_der_Auserwählte-pabtso|Ruxithids]] großen Plan.
 
-##### Mine Shaft
+##### Z4: Minenschaft
 
-The gap in the west wall opens into a shaft that descends 30 feet. This shaft once held a magical lift that the duergar miners used as transport into the mining tunnels, but the lift has since fallen into disrepair.
+Das Loch in der Westwand führt zu einem Schacht, der neun Meter tief hinabführt. In diesem Schacht befand sich einst ein magischer Aufzug, den die Duergar-Minenarbeiter zum Transport in die Bergwerkstunnel genutzt haben. Seitdem ist der Aufzug jedoch verfallen.
 
-A character who inspects the lift and succeeds on a DC 10 Intelligence ([Investigation](/3-Mechanics/CLI/skills.md#Investigation)) check uncovers the lift's broken mechanisms as well as its former power source: a dull and cracked shard of iridescent crystal that occasionally sparks with magical energy. Any character proficient in the [Arcana](/3-Mechanics/CLI/skills.md#Arcana) skill can tell that the crystal can be recharged by touching it and expending a spell slot of 1st level or higher. The mechanisms in turn can be repaired with a successful DC 16 Intelligence ([Arcana](/3-Mechanics/CLI/skills.md#Arcana)) check; if the character has proficiency with [tinker's tools](/3-Mechanics/CLI/items/tinkers-tools-xphb.md), this check is made with advantage.
+Ein Charakter, der den Aufzug untersucht und einen `SG-10-Intelligenzwurf` ([[01-Spielleiter/Fertigkeiten-phb#Nachforschungen|Nachforschungen]]) besteht, entdeckt den kaputten Mechanismus des Aufzugs und seine ehemalige Energiequelle: eine trübe, gesprungene, schillernde Kristallscherbe, die gelegentlich mit magischer Energie funkelt. Charaktere, die in [[01-Spielleiter/Fertigkeiten-phb#Arkane Kunde|Arkane Kunde]] geübt sind, erkennen, dass der Kristall wiederaufgeladen werden kann. Dies geschieht durch Berührung und den Verbrauch eines Zauberplatzes des 1. Grades oder höher. Der Mechanismus kann wiederum mit einem erfolgreichen `SG-16-Intelligenzwurf` ([[01-Spielleiter/Fertigkeiten-phb#Arkane Kunde|Arkane Kunde]]) repariert werden. Ist der entsprechende Charakter im Umgang mit [[Tüftlerwerkzeuge-phb|Tüftlerwerkzeug]] geübt, ist er bei diesem Wurf im Vorteil.
 
-Once repaired, the lift continuously moves between the bunks and the mining tunnels, with a 1-minute stop at each location.
+$\quad$Wenn er repariert wurde, fährt der Aufzug kontinuierlich zwischen der Schlafkammer und den Bergwerkstunneln hin und her. An jedem Stopp bleibt er eine Minute lang stehen.
 
-#### Z5: Latrines
+#### Z5: Latrinen
 
 > [!readaloud] 
 > 
-> The reek of waste wafts from these latrines. The walls here are lined with long wooden benches with equidistant holes, which empty into a large trench. In the center of the room is a long trough filled with murky water.
+> Der Gestank von Unrat weht aus diesen Latrinen. An den Wänden befinden sich lange Holzbänke mit Löchern, die in einen großen Graben münden. In der Mitte des Raums befindet sich ein langer Trog mit trübem Wasser.
 ^1e0
 
-The waste from the latrines has stagnated here.
+Der Unrat aus den Latrinen wurde lange nicht mehr entsorgt.
 
-##### Secret Door
+##### Z5: Geheimtür
 
-Characters who have a passive Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) score of 13 or higher notice a slight depression in the latrine's northwest corner. Pushing on this depression reveals the entrance into the outpost's hidden hot spring (area Z6).
+Charaktere mit einem passiven Weisheitswert ([[01-Spielleiter/Fertigkeiten-phb#Wahrnehmung|Wahrnehmung]]) von mindestens 13 bemerken eine leichte Vertiefung in der nordwestlichen Ecke der Latrine. Drückt man auf diese Vertiefung, öffnet sich der Eingang zur versteckten heißen Quelle des Außenpostens (Bereich [[#Z6 Heisse Quelle|Z6]]).
 
-#### Z6: Hot Spring
+#### Z6: Heisse Quelle
 
 > [!readaloud] 
 > 
-> A large, natural pool brimming with turquoise water burbles at the center of this chamber. Steam coils off the water's surface, rising to a vent in the cave ceiling. The water itself sparkles with an inviting, tranquil glow.
+> In der Mitte dieser Kammer plätschert ein großer, natürlicher Teich mit türkis blauem Wasser. Dampf steigt von der Wasseroberfläche auf und verschwindet in einer Öffnung in der Decke. Das Wasser selbst glitzert friedlich und einladend.
 ^1e3
 
-The hot spring has magical restorative properties that were used by the ancient duergar who inhabited the outpost. The entrance was sealed away by the mind flayers (who despised the hot spring), but the goblins have since unearthed it, though the entrance is still hidden in area Z5.
+Die heiße Quelle verfügt über magische, regenerierende Eigenschaften, die bereits von den uralten Duergar genutzt wurden, die den Außenposten bewohnten. Der Eingang wurde von den Gedankenschindern, die die heiße Quelle verabscheuten, versiegelt, aber die Goblins haben ihn wieder freigelegt. Der Eingang ist jedoch immer noch in Bereich [[#Z5 Latrinen|Z5]] versteckt.
 
-The hot spring is 15 feet deep. For every 10 minutes a creature spends submerged in the hot spring, that creature regains 3 (`1d6`) hit points.
+$\quad$Die heiße Quelle ist 4,5 Meter tief. Pro zehn Minuten, die eine Kreatur in der heißen Quelle verbringt, erhält sie 3 (`1W6`) Trefferpunkte zurück.
 
-##### Vent
+##### Z6: Luftschacht
 
-Located 40 feet above the hot spring's surface is a vent in the mountainside, which allows the steam to escape. Characters can use this vent as an alternate exit from or entrance to Zorzula's Rest. A successful DC 18 Strength ([Athletics](/3-Mechanics/CLI/skills.md#Athletics)) check is needed to climb toward and into the vent.
+Zwölf Meter über der Oberfläche der heißen Quelle befindet sich ein Luftschacht am Berghang, durch den der Dampf entweichen kann. Charaktere können diesen Schacht als alternativen Ausgang oder Eingang zu Zorzulas Ruh nutzen. Um den Schacht zu erreichen und hindurchzuklettern wird ein erfolgreicher `SG-18-Stärkewurf` ([[01-Spielleiter/Fertigkeiten-phb#Athletik|Athletik]]) benötigt.
 
-#### Z7: Overlook Forge
+#### Z7: Aussichts-Schmiede
 
-![In Overlook Forge, undead ...](/3-Mechanics/CLI/adventures/phandelver-and-below-the-shattered-obelisk/img/071-05-009-overlook-forge-undead.webp#center "In Overlook Forge, undead artisans mimic the tasks they undertook in life. They are hostile to any who disturb them")
+![In der Aussichts-Schmiede gehen untote Handwerker der Arbeit ihres einstigen Lebens nach. Sie sind jedem feindlich gesinnt, der sie stört.](Die_Tiefen_von_Phandelver-Der_zersplitterte_Obelisk/img/071-05-009-overlook-forge-undead.webp#center "In Overlook Forge, undead artisans mimic the tasks they undertook in life. They are hostile to any who disturb them")
 
-The Sawplee goblins have barricaded the entrance to the forge because they're afraid of the monsters lurking there. Characters who have a passive Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) score of 12 or higher hear a low moaning sound and shuffling footsteps right outside the door.
+Die Sägezank-Goblins haben den Eingang zur Schmiede verbarrikadiert, da sie Angst vor den dort lauernden Monstern haben. Charaktere mit einem passiven Weisheitswert ([[01-Spielleiter/Fertigkeiten-phb#Wahrnehmung|Wahrnehmung]]) von mindestens 12 hören ein klagendes Stöhnen und schlurfende Schritte direkt vor der Tür.
 
-A character must succeed on a DC 12 Strength ([Athletics](/3-Mechanics/CLI/skills.md#Athletics)) check to remove the barricade.The three figures are [feral ashenwights](/3-Mechanics/CLI/bestiary/undead/feral-ashenwight-pabtso.md), undead spirits who perished in the mind flayers' takeover. The ashenwights are hostile and attack immediately.
+$\quad$Ein Charakter muss einen `SG-12-Stärkewurf` ([[01-Spielleiter/Fertigkeiten-phb#Athletik|Athletik]]) bestehen, um die Barrikade zu entfernen.
 
 > [!readaloud] 
 > 
-> Floor-to-ceiling glass windows overlook a churning lava sea. Three large, blackened anvils stand in a row, and unfinished pieces of weaponry and armor litter the room. Above, a stationary conveyor of buckets casts ominous shadows across the forge floor.
+> Vom Boden bis zur Decke reichende Glasfenster geben den Blick auf ein wogendes Lavameer frei. Drei große, geschwärzte Ambosse stehen in einer Reihe. Halbfertige Waffen- und Rüstungsteile liegen in der Kammer verstreut. Von der Decke wirft ein stationäres Eimer-Förderband unheilvolle Schatten auf den Boden der Schmiede.
 > 
-> Standing at each of the anvils is what appears to be an ashen husk of a gray-skinned dwarf. All three pantomime metalwork in eerie synchronization. As they turn toward you, they brandish sharp chunks of black rock. With gasping, angry cries, the figures surge forward.
+> An jedem Amboss steht etwas, das wie eine aschene Hülle eines grauhäutigen Zwergs aussieht. Alle drei ahmen Metallarbeiten in unheimlicher Synchronisation nach. Als sie sich euch zuwenden, schwingen sie scharfe schwarze Felsbrocken. Mit wütenden Schreien stürzen die Gestalten nach vorne.
 ^1e6
 
-##### Bucket Conveyor
+Bei den drei Gestalten handelt es sich um [[Wilder_Ascheschrecken-pabtso|wilde Ascheschrecken]], untote Geister, die bei der Machtübernahme der [[Gedankenschinder-mm|Gedankenschinder]] ums Leben kamen. Die [[Wilder_Ascheschrecken-pabtso|Ascheschrecken]] sind feindlich gesinnt und greifen sofort an.
 
-The buckets hanging from the forge's ceiling are part of a conveyor system built to transfer ore to the forge from the mining tunnels below. The conveyor system is currently broken.
+##### Z7: Eimer-Förderband
 
-A character who inspects the area and succeeds on a DC 10 Intelligence ([Investigation](/3-Mechanics/CLI/skills.md#Investigation)) check uncovers the conveyor system's broken mechanisms as well as its dull power crystal. This crystal is the same kind as the one in area Z4, and it and the broken mechanisms can be repaired in the same ways. Any character proficient in the [Arcana](/3-Mechanics/CLI/skills.md#Arcana) skill can tell that a crystal can be recharged by touching it and expending a spell slot of 1st level or higher.
+Die Eimer, die von der Decke der Schmiede hängen, gehören zu einer Förderanlage, das Erz aus den darunter liegenden Bergwerkstunneln zur Schmiede transportiert. Die Förderanlage ist derzeit kaputt.
 
-Once recharged, the buckets continuously move between the forge and the mining tunnels' storage chamber (area Z18). A character attempting to climb up and ride the moving buckets must succeed on a DC 15 Dexterity ([Acrobatics](/3-Mechanics/CLI/skills.md#Acrobatics)) check or fall 20 feet to forge's floor, taking 7 (`2d6`) bludgeoning damage. The forge has a tall stepladder used to access the buckets' contents.
+$\quad$Ein Charakter, der den Bereich untersucht und einen `SG-10-Intelligenzwurf` ([[01-Spielleiter/Fertigkeiten-phb#Nachforschungen|Nachforschungen]]) besteht, entdeckt den defekten Mechanismus der Förderanlage sowie den trüben Energiekristall. Die Art dieses Kristalls entspricht dem in Bereich [[#Z4 Schlafkammer|Z4]]. Er kann genau wie der kaputte Mechanismus auf die gleiche Art repariert werden. Charaktere, die in [[01-Spielleiter/Fertigkeiten-phb#Arkaner Kunde|Arkaner Kunde]] geübt sind, erkennen, dass der Kristall wiederaufgeladen werden kann. Dies geschieht durch Berührung und den Verbrauch eines Zauberplatzes des 1. Grades oder höher.
 
-##### Treasure
+$\quad$Wenn sie wieder aufgeladen wurden, bewegen sich die Eimer kontinuierlich zwischen der Schmiede und dem Lagerraum der Bergwerkstunnel (Bereich [[#Z18 Lagerraum|Z18]]) hin und her. Ein Charakter, der versucht, hinaufzuklettern und auf den sich bewegenden Eimern zu fahren, muss einen `SG-15-Geschicklichkeitswurf` ([[01-Spielleiter/Fertigkeiten-phb#Akrobatik|Akrobatik]]) bestehen. Scheitert der Wurf, stürzt er auf den Boden der Schmiede und erleidet 7 (`2W6`) Wuchtschaden. Die Schmiede verfügt über eine hohe Trittleiter, über die man auf den Inhalt der Eimer zugreifen kann.
 
-Numerous weapons and armor pieces are scattered about the forge. A character who succeeds on a DC 13 Intelligence ([Investigation](/3-Mechanics/CLI/skills.md#Investigation)) check finds one of the following items. If the check succeeds by 3 or more, the character finds two items, instead of one. You can choose which item a character finds:
+##### Z7: Schätze
 
-- A [longsword](/3-Mechanics/CLI/items/longsword-xphb.md) decorated with shimmering filigree, worth 200 gp  
-- A bronze [breastplate](/3-Mechanics/CLI/items/breastplate-xphb.md) studded with quartz, worth 500 gp  
-- A gold-tipped [javelin of lightning](/3-Mechanics/CLI/items/javelin-of-lightning-xdmg.md)  
-- A set of delicate silver [bracers of archery](/3-Mechanics/CLI/items/bracers-of-archery-xdmg.md)  
+In der Schmiede liegen zahlreiche Waffen und Rüstungsteile verstreut. Ein Charakter, der einen `SG-13-Intelligenzwurf` ([[01-Spielleiter/Fertigkeiten-phb#Nachforschungen|Nachforschungen]]) besteht, findet einen der folgenden Gegenstände. Liegt das Ergebnis um mindestens 3 höher als der SG, findet der Charakter stattdessen zwei Gegenstände. Du bestimmst, welchen Gegenstand ein Charakter findet:
 
-#### Z8: Kitchen
+- Ein mit schimmerndem Filigran verziertes [[Langschwert-phb|Langschwert]] im Wert von 200 GM.
+- Eine mit Quarz beschlagene, bronzene [[Brustplatte-phb|Brustplatte]] im Wert von 500 GM.
+- Ein [[Wurfspeer_der_Blitze-dmg|Wurfspeer des Blitzes]] mit einer Goldspitze.
+- [[Armschienen_des_Bogenschützen-dmg|Armschienen des Bogenschützen]] aus feinem Silber.
+
+#### Z8: Küche
 
 > [!readaloud] 
 > 
-> Strips of unidentifiable dried meat and herbs dangle from the ceiling of this kitchen. A squat iron stove stands to the side, its insides glowing with still-smoldering coals. Burlap sacks filled with grain and vegetables are scattered about the floor.
+> Nicht identifizierbare Streifen von Trockenfleisch und Kräuter hängen an der Decke dieser Küche. An der Seite steht ein gedrungener Eisenofen, in dem noch einige Kohlen glimmen. Auf dem Boden liegen Leinensäcke mit Getreide und Gemüse.
 > 
-> A faint snuffling echoes from around the corner, and you see a hulking badger burrowing its face hungrily into a sack of food. The badger looks at you, snorts with happy friendliness, and returns to its meal.
+> Ein leises Schnüffeln ertönt um die Ecke. Ihr seht einen riesigen Dachs, der sein Gesicht hungrig in einem Sack mit Lebensmitteln vergräbt. Der Dachs blickt zu euch auf, schnaubt freundlich und widmet sich dann wieder seiner Mahlzeit.
 ^1ea
 
-A window in the west hall allows the mess hall to be viewed from the kitchen, and vice versa. The [giant badger](/3-Mechanics/CLI/bestiary/beast/giant-badger-xmm.md) snuffling through the kitchen is the goblin enclave's unofficial pet. A dirty rope holds a crude name tag around the giant badger's neck; the name tag says "Bessie" in Goblin.
+Von einem Fenster in der westlichen Wand kann man in die Küche blicken und umgekehrt. Der [[Riesendachs-mm|Riesendachs]], der durch die Küche schnüffelt, ist das inoffizielle Haustier der Goblin-Enklave. An einem schmutzigen Seil um seinen Hals hängt ein primitives Namensschild, auf dem in Goblinisch „Bessie" steht.
 
-Bessie burrowed into the outpost through the pantry one day and has been the enclave's "best girl" ever since. She's friendly to all and loves belly rubs.
+$\quad$Bessie grub sich eines Tages durch die Speisekammer in den Außenposten und ist seitdem das „brave Mädchen" der Enklave. Sie ist allen gegenüber freundlich gesinnt und liebt es, am Bauch gekrault zu werden.
 
-#### Z9: Pantry
+#### Z9: Vorratskammer
 
 > [!readaloud] 
 > 
-> The stone of the outpost gives way to a floor of cool, packed earth. Barrels and crates crowd the space, and the smell of mildew is thick in the air. A small tunnel has been dug through the back of the pantry.
+> Der Steinboden des Außenpostens weicht kühler, fester Erde. Der Raum ist mit Fässern und Kisten vollgepackt - der Geruch von Schimmel liegt in der Luft. Durch die Rückseite der Speisekammer wurde ein kleiner Tunnel gegraben.
 ^1ec
 
-Most of the food in here is stale and half-eaten.
+Die meisten Lebensmittel in der Kammer sind schal und halb aufgegessen.
 
-##### Treasure
+##### Z9: Schätze
 
-A character who searches the pantry and succeeds on a DC 15 Intelligence ([Investigation](/3-Mechanics/CLI/skills.md#Investigation)) check finds two [potions of greater healing](/3-Mechanics/CLI/items/potion-of-greater-healing-xdmg.md) and one [potion of psionic fortitude](/3-Mechanics/CLI/items/potion-of-psionic-fortitude-pabtso.md) sitting behind dusty bottles of sour wine.
+Ein Charakter, der die Speisekammer untersucht und einen `SG-15-Intelligenzwurf` ([[01-Spielleiter/Fertigkeiten-phb#Nachforschungen|Nachforschungen]]) besteht, findet hinter staubigen Flaschen sauren Weins zwei [[Tränke_der_Mächtigen_Heilung-dmg|Tränke der Mächtigen Heilung]] und einen [[Trank_der_psionischen_Ausdauer-pabtso|Trank der psionischen Ausdauer]].
 
-##### Tunnel
+##### Z9: Tunnel
 
-In the back of the pantry is the tunnel Bessie the badger dug. This tunnel leads outside the outpost and can be used as an alternate entrance.
+An der Rückseite der Speisekammer befindet sich der Tunnel, den Bessie der Dachs gegraben hat. Dieser Tunnel führt nach draußen und kann als alternativer Eingang zum Außenposten genutzt werden.
 
-A Medium creature can crawl through the tunnel without squeezing.
+$\quad$Eine mittelgroße Kreatur kann problemlos durch den Tunnel kriechen.
 
-#### Z10: Captain's Suite
+#### Z10: Gemach des Vorstehers
 
 Once reserved for the captain of the mining expedition, this private bedroom now serves as Ruxithid's personal quarters. The door to the suite is locked, but a character can use [thieves' tools](/3-Mechanics/CLI/items/thieves-tools-xphb.md) to try to pick the lock, doing so with a successful a DC 15 Dexterity check. Alternatively, a character can force open the door with a successful DC 15 Strength ([Athletics](/3-Mechanics/CLI/skills.md#Athletics)) check. Ruxithid, found in the Indigo Sanctum later in this chapter, has a key. The goblin leader doesn't allow any others access to this room.
 
 > [!readaloud] 
 > 
-> These personal quarters contain a large, plush, four-poster bed covered in silk sheets. Stone shelves bearing books and ornamental ceramic jars line the walls alongside dust-covered banners embroidered with Dwarven runes. In one corner stands an elegant mahogany desk, on top of which is a map and several crumpled notes.
+> Dieses Privatgemach verfügt über ein üppiges Baldachinbett mit seidenen Laken. Steinregale mit Büchern und dekorativen Keramikgefäßen säumen die Wände neben staubbedeckten Bannern, die mit Zwergenrunen bestickt sind. In einer Ecke steht ein eleganter Mahagonischreibtisch, auf dem eine Karte und mehrere zerknitterte Notizen liegen.
 ^1f0
 
 The map on the desk is a copy of the map found in Ruxithid's war room (see the "Sanctum Showdown" section), but it's missing the location labels. While inspecting the room, characters who have a passive Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) score of 15 or higher also notice a faint murmuring coming from one of the ceramic jars—a smooth, onyx-black jar with geometric engravings inlaid with blue gemstones—displayed in the bookcase.
 
-##### Murmuring Jar
+##### Z10: Flüsterndes Gefäß
 
 The murmuring jar is actually a canopic jar that holds the soul of a neutral duergar named [Hjoldak Hollowhelm](/3-Mechanics/CLI/bestiary/npc/hjoldak-hollowhelm-pabtso.md), the last mining captain of Zorzula's Rest. Hjoldak's soul was imprisoned in the jar by the mind flayers when they overtook the outpost; he has remained trapped in the jar ever since.
 
@@ -654,117 +656,117 @@ Hjoldak can see normally while trapped in the jar and can still speak, though hi
 
 The jar is sealed with an intricate puzzle lock, requiring the body and lid of the jar to be moved at the exact right place and angle to open. A character can open the lock by succeeding on a DC 15 Intelligence ([Investigation](/3-Mechanics/CLI/skills.md#Investigation)) check. Characters can also attempt to break the jar open by making a DC 20 Strength ([Athletics](/3-Mechanics/CLI/skills.md#Athletics)) check, smashing the jar on a success. Once freed, Hjoldak's soul manifests as a peaceful [psionic ashenwight](/3-Mechanics/CLI/bestiary/undead/psionic-ashenwight-pabtso.md).
 
-![Hjoldak](/3-Mechanics/CLI/adventures/phandelver-and-below-the-shattered-obelisk/img/072-05-010-hjoldak.webp#center)
+![Hjoldak Hohlhelm](Die_Tiefen_von_Phandelver-Der_zersplitterte_Obelisk/img/072-05-010-hjoldak.webp#center)
 
-##### Hjoldak's Help
+##### Z10: Hjoldaks Hilfe
 
-Hjoldak knows the outpost's layout, including the hidden rooms. If freed, he happily serves as a guide for the characters. Hjoldak also knows how to fix the elevator, bucket conveyor, and mine carts in the complex.
+Hjoldak kennt den Grundriss des Außenpostens, einschließlich versteckter Räume. Wenn er befreit wird, führt er die Charaktere gerne herum. Hjoldak weiß zudem, wie man den Aufzug, das EimerFörderband und die Minenwagen im Komplex repariert.
 
-If asked about Ruxithid and the goblins, Hjoldak admits that he doesn't know much about their plans. He explains that Ruxithid's stays in this room have become increasing infrequent. Whenever Ruxithid comes, the goblin always seems distracted, poring over scraps of paper and then leaving in a manic rush. Hjoldak surmises that the goblin leader must be planning or working somewhere deeper within the outpost.
+Auf die Frage nach Ruxithid und die Goblins hin gibt Hjordak zu, dass er nicht viel über ihre Pläne weiß. Er erklärt, dass Ruxithid sich immer seltener in seinen Gemächern aufhält. Wenn Ruxithid dort ist, scheint er abgelenkt zu sein, brütet über Notizen und eilt dann hektisch davon. Hjoldak vermutet, dass der GoblinAnführer irgendwo tiefer im Außenposten an seinen Plänen arbeitet.
 
-##### Treasure
+##### Z10: Schätze
 
-The room has two hidden stashes of treasure: a smaller compartment in the bed frame, and a larger vault. Hjoldak knows the location of both stashes as well as how to open them.
+Im Raum befinden sich zwei Verstecke mit Schätzen: ein kleineres Fach im Bettrahmen und ein größerer Tresor. Hjoldak kennt den Standort beider Verstecke und weiß, wie man sie öffnet.
 
 The bed frame's compartment was used to store weapons and other means of defense in case of an emergency. A character must succeed on a DC 20 Intelligence ([Investigation](/3-Mechanics/CLI/skills.md#Investigation)) check to find the outline of the bed frame's compartment. Pushing the compartment's panel opens it; inside is a [dagger of venom](/3-Mechanics/CLI/items/dagger-of-venom-xdmg.md) and an [emerald elemental gem](/3-Mechanics/CLI/items/elemental-gem-emerald-xdmg.md).
 
-##### Secret Door
+##### Z10: Geheimtür
 
 Any character who examines the north wall and succeeds on a DC 16 Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) check notices a small section of wall engraved with four Dwarvish runes. The runes are (from left to right) "storm," "death," "light," and "wind." These runes are the key to opening the room's hidden vault (area Z11).
 
-The runes must be tapped in the correct order to open the vault. The correct order is the same as the runes' order on the wall, from left to right: storm, death, light, and wind. If a creature taps the runes in the wrong order, the vault's trap triggers, and the creature must make a DC 15 Dexterity saving throw. On a failed save, the creature takes damage that varies depending on the last rune the creature tapped:
+Um den Tresor zu öffnen, müssen die Runen in der richtigen Reihenfolge angetippt werden. Die richtige Reihenfolge entspricht der Reihenfolge der Runen an der Wand, von links nach rechts: Sturm, Tod, Licht und Wind. Wenn eine Kreatur die Runen in der falschen Reihenfolge berührt, wird die Falle des Tresors ausgelöst und die Kreatur muss einen `SG-15- Geschicklichkeitsrettungswurf` ausführen. Scheitert der Wurf, erleidet die Kreatur Schaden anhand der letzten Rune, die sie berührt hat:
 
-- **Death.** 13 (`3d8`) necrotic damage  
-- **Light.** 13 (`3d8`) radiant damage  
-- **Storm.** 13 (`3d8`) lightning damage  
-- **Wind.** 13 (`3d8`) force damage  
+- **Licht**: 13 (`3W8`) gleißender Schaden 
+- **Sturm**: 13 (`3W8`) Blitzschaden 
+- **Tod**: 13 (`3W8`) nekrotischer Schaden 
+- **Wind**: 13 (`3W8`) Energieschaden
 
-Once the correct sequence has been tapped, the secret door in the wall opens, revealing area Z11.
+Sobald die richtige Reihenfolge angetippt wurde, öffnet sich die Geheimtür in der Wand zu Bereich Zl 1.
 
-#### Z11: Vault
+#### Z11: Tresor
 
 > [!readaloud] 
 > 
-> The stale air in this vault indicates it hasn't been opened in many years. Inside is a dust-covered assortment of coins, gemstones, and cloth.
+> Die abgestandene Luft in diesem Tresorraum deutet darauf hin, dass er seit vielen Jahren nicht geöffnet wurde. Im Inneren befinden sich staubbedeckte Münzen, Edelsteine und Stoffe.
 ^1f6
 
-##### Treasure
+##### Z11: Schätze
 
 The vault contains a multitude of ancient duergar coins—56 pp, 350 gp, 189 sp, and 304 cp—as well as four pieces of [jade](/3-Mechanics/CLI/items/jade-xdmg.md) worth 100 gp each and one large [peridot](/3-Mechanics/CLI/items/peridot-xdmg.md) stone worth 500 gp. Additionally, folded neatly against the wall are three richly woven but dusty duergar tapestries worth 75 gp each and a velvet brocade worth 145 gp.
 
-#### Z12: Mining Tunnels Entrance
+#### Z12: Eingang zu den Bergwerkstunneln
 
 > [!readaloud] 
 > 
-> This small chamber of dirt and stone holds the entrances to three tunnels, leading northeast, east, and southeast, respectively. A shaft leads to the upper level.
+> In dieser kleinen Kammer aus Erde und Stein befinden sich Eingänge zu drei Tunneln, die nach Nordosten, Osten und Südosten führen. Ein Schacht führt zur oberen Ebene.
 ^1f9
 
-The mine shaft is 30 feet long and ascends to the outpost's bunks (area Z4). If the characters fixed the elevator in the bunks, they can use it to reach the outpost level.
+Der Minenschacht ist neun Meter lang und führt zur Schlafkammer des Außenpostens (Bereich Z4). Wenn die Charaktere den Aufzug bei der Schlafkammer repariert haben, können sie damit den Außenposten erreichen.
 
-#### Z13: Mine Cart Maintenance Chamber
+#### Z13: Minenwagen-Wartungskammer
 
 > [!readaloud] 
 > 
-> A rickety set of tracks runs the length of this chamber. Half a dozen rusty mine carts sit unused on these tracks, wheels bent and cobwebs blanketing the trolleys. The ground is littered with ancient refuse, and open crates filled with dust-covered tools line the cavern walls. Propped against these crates are three skeletons, their skulls shattered and caved in.
+> Ein baufälliges Schienensystem verläuft durch die gesamte Kammer. Ein halbes Dutzend rostiger Minenwagen steht ungenutzt auf den Gleisen. Ihre Räder sind verbogen und Spinnweben bedecken die Wagen. Der Boden ist mit uraltem Müll übersät und offene Kisten voller staubiger Werkzeuge säumen die 1 Höhlenwände. An diesen Kisten lehnen drei Skelette, i deren Schädel eingeschlagen wurden.
 ^1fb
 
 The bones are the remains of three duergar, ghastly remnants of the illithids' invasion long ago. A character who studies the bodies and succeeds on a DC 16 Intelligence ([Arcana](/3-Mechanics/CLI/skills.md#Arcana)) or Wisdom ([Medicine](/3-Mechanics/CLI/skills.md#Medicine)) check realizes that the crushed skulls are indicative of mind flayers' brain extractions.
 
-##### Mine Carts
+##### Z13: Minenwagen
 
 The mine carts are in disrepair and roll squeakily along the track. Each mine cart is meant to be self-propelled. A character who examines the mine carts and succeeds on a DC 10 Intelligence ([Investigation](/3-Mechanics/CLI/skills.md#Investigation)) check uncovers the carts' main propulsion mechanism: dull pieces of the same iridescent crystal material used to power the elevator in area Z4 and the bucket conveyor in area Z7. Any character proficient in the [Arcana](/3-Mechanics/CLI/skills.md#Arcana) skill can tell that a crystal can be recharged by touching it and expending a spell slot of 1st level or higher.
 
-Once the carts have been recharged, a character can pull a track switch and transfer the fixed mine carts onto the main track. The main track runs in a circle, passing through the storage chamber (area Z18), the strip mine (area Z15), and the crystal cavern (area Z14).
+Sobald die Wagen wiederaufgeladen sind, kann ein Charakter eine Weiche betätigen und die Minenwagen auf das Hauptgleis versetzen. Das Hauptgleis verläuft im Kreis und führt durch den Lagerraum (Bereich Z18), den Tagebau (Bereich Z15) und die Kristallhöhle (Bereich Z14).
 
-##### Treasure
+##### Z13: Schätze
 
 The goblins have already looted the coin pouches of the skeletons. However, a character who succeeds on a DC 15 Intelligence ([Investigation](/3-Mechanics/CLI/skills.md#Investigation)) check can recover a cobweb-covered pair of [bracers of celerity](/3-Mechanics/CLI/items/bracers-of-celerity-pabtso.md) from one of the duergar.
 
-#### Z14: Crystal Cavern
+#### Z14: Kristallhöhle
 
 > [!readaloud] 
 > 
-> The tunnel opens to a twenty-foot-high, cylindrical chamber. The cavern looks like the inside of a geode, the walls encrusted with crystals that spark and glow. A mine cart track spirals around the cavern before plunging deeper into the mountain.
+> Der Tunnel führt zu einer sechs Meter hohen, zylindrischen Kammer. Die Höhle sieht wie das Innere einer Geode aus: die Wände sind mit funkelnden Kristallen überzogen. Lorengleise verlaufen spiralförmig um die Höhle herum und führen dann tiefer in den Berg.
 ^1ff
 
 Three [gricks](/3-Mechanics/CLI/bestiary/aberration/grick-xmm.md) hide among the rocks and crystals, waiting to ambush potential prey.
 
 The first time the characters enter this cavern, every character must make a DC 16 Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) check. On a failed check, a character is surprised by the gricks as the creatures attack.
 
-![The gricks in the crystal ...](/3-Mechanics/CLI/adventures/phandelver-and-below-the-shattered-obelisk/img/073-05-011-crystal-cavern-grick.webp#center "The gricks in the crystal cavern look eerily like their surroundings")
+![Die Gricks in der Kristallhöhle sehen ihrer Umgebung unheimlich ähnlich.](Die_Tiefen_von_Phandelver-Der_zersplitterte_Obelisk/img/073-05-011-crystal-cavern-grick.webp#center "The gricks in the crystal cavern look eerily like their surroundings")
 
-##### Crystals
+##### Z14: Kristalle
 
-The iridescent crystal spires that cover the cavern spark with magical energy. The crystals can be harvested to power various machinery in the outpost, such as the lift in area Z4, the bucket conveyor in area Z7, and the mine carts in area Z13.
+Die schillernden Kristallsäulen in der Höhle funkeln vor magischer Energie. Die Kristalle können abgebaut werden, um verschiedene Maschinen im Außenposten anzutreiben, wie etwa den Aufzug in Bereich Z4, das Eimer-Förderband in Bereich Z7 und die Minenwagen in Bereich Z13.
 
-Characters can attempt to mine the crystal spires that line the walls. Each crystal spire has AC 15, 25 hit points, and immunity to poison and psychic damage. When a character deals damage to a spire, the character must succeed on a DC 16 Dexterity saving throw or take 5 (`2d4`) force damage, as the crystals' magical energy lashes back at the character.
+Charaktere können versuchen, die Kristallsäulen an den Wänden abzubauen.Jede Kristallsäule besitzt eine RK von 15, 25 Trefferpunkte und ist gegen Gift und psychischen Schaden immun. Wenn ein Charakter bei einer Säule Schaden bewirkt, muss der Charakter einen SG-16-Geschicklichkeitsrettungswurf bestehen, oder er erleidet 5 (`2W4`) Energieschaden, wenn die magische Energie der Kristalle auf ihn zurückschlägt.
 
-Once a spire has been reduced to 0 hit points, it shatters into `1d6` salvageable shards. Each shard can be used as a spellcasting focus, and these shards can be used to replace the drained shards of the elevator, bucket conveyor, and mine carts in lieu of recharging them with spell slots. The shards are worth 15 gp each to a spellcaster.
+Sobald die Trefferpunkte einer Säule auf 0 sinken, zersplittert sie in `1W6` wiederverwertbare Splitter. Jeder Splitter kann als Zauberfokus verwendet werden. Zudem können sie die leeren Splitter beim Aufzug, beim EimerFörderband und bei den Minenwagen ersetzen, so dass keine Zauberplätze genutzt werden müssen. Die Splitter sind Zauberwirkern jeweils 15 GM wert.
 
-##### Mine Carts
+##### Z14: Minenwagen
 
-The mine cart track runs through the crystal cavern, entering from the cliff mine (area Z15) before spiraling downward through the cavern. When the mine carts enter the cavern, they slow but don't stop completely, which allows materials to be loaded safely.
+Die Gleise verlaufen durch die Kristallhöhle. Sie beginnen an der Klippe (Bereich Z15) und führen dann spiralförmig nach unten durch die Höhle. Wenn die Minenwagen in die Höhle fahren, werden sie langsamer, damit Materialien sicher aufgeladen werden können, halten aber nicht an.
 
-#### Z15: Cliff Strip Mine
+#### Z15: Klippen-Tagebau
 
 > [!readaloud] 
 > 
-> Three levels of wooden scaffolding line this thirty-foot-tall cliff of dark stone. On the bottommost scaffolding are six figures digging at the rock face. Along the length of the cliff runs an elevated set of rickety mine cart tracks.
+> Drei Ebenen aus Holzgerüsten säumen diese neun Meter hohe Klippe aus dunklem Stein. Auf dem untersten Gerüst graben sechs Gestalten an der Felswand. Entlang der Klippe verlaufen erhöhte, wackelige Gleise.
 ^203
 
 Three [feral ashenwights](/3-Mechanics/CLI/bestiary/undead/feral-ashenwight-pabtso.md) and three [psionic ashenwights](/3-Mechanics/CLI/bestiary/undead/psionic-ashenwight-pabtso.md) occupy the cliff's lowest scaffolding. They mimic the mining they did in life, clawing at the rock in search of precious material.
 
 Fixated on the rock wall, the feral ashenwights become hostile toward anyone who attacks them. The psionic ashenwights are aware of their surroundings and have seen Ruxithid and his entourage pass through the mine numerous times. A character can convince the psionic ashenwights to divulge where Ruxithid went by succeeding on a DC 15 Charisma ([Persuasion](/3-Mechanics/CLI/skills.md#Persuasion)) check or by offering coins or gems worth at least 50 gp total. The psionic ashenwights direct the characters to the sanctum crossing (area Z19).
 
-##### Mine Carts
+##### Z15: Minenwagen
 
-The mine carts run along tracks atop the upper tier of scaffolding.
+Die Minenwagen fahren auf Gleisen auf der oberen Ebene des Gerüsts.
 
-#### Z16: Cesspit
+#### Z16: Jauchegrube
 
 > [!readaloud] 
 > 
-> The acrid scent of sewage bombards your senses. The tunnel opens to reveal a cavern flooded with wastewater. Dripping stalactites partially obscure a lumbering mass of black chitin and translucent pale skin, lapping up the sewage hungrily.
+> Der beißende Geruch von Abwasser bombardiert eure Sinne. Der Tunnel führt zu einer mit Schmutzwasser überfluteten Höhle. Tropfende Stalaktiten schränken die Sicht auf eine schwerfällige Masse aus schwarzem Chitin und blasser, durchscheinender Haut ein , die sich gierig am Abwasser labt.
 ^206
 
 The creature is an [otyugh mutate](/3-Mechanics/CLI/bestiary/aberration/otyugh-mutate-pabtso.md). Long ago, duergar miners captured and brought several otyughs from the Underdark to serve as a convenient way to dispose of the outpost's waste. The otyughs survived the mind flayers' attack, continuing to feast on the remains and waste of the illithids' prisoners; however, the aberrant energy exuded by the mind flayers warped the otyughs and their descendants. Now this mutated otyugh gorges itself on the goblin enclave's sewage.
@@ -773,41 +775,41 @@ A character who succeeds on a DC 15 Intelligence ([Arcana](/3-Mechanics/CLI/skil
 
 Characters who wish to avoid the otyugh mutate's notice must succeed on a DC 12 Dexterity ([Stealth](/3-Mechanics/CLI/skills.md#Stealth)) check. If the otyugh mutate notices an intruder in its den, it becomes hostile and attacks.
 
-##### Treasure
+##### Z16: Schätze
 
 The otyugh mutate's translucent skin provides a window into its stomach. Characters who have a passive Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) score of 14 or higher notice the glint of opalescent metal swirling around in its gut; this is a [luminous war pick](/3-Mechanics/CLI/items/luminous-war-pick-pabtso.md) that the otyugh mutate accidentally swallowed while feasting on the corpse of a goblin. The magic item can be easily retrieved from the otyugh mutate's body once it has been slain.
 
-#### Z17: Shrine to Ilsensine
+#### Z17: Ilsensine-Schrein
 
 > [!readaloud] 
 > 
-> This sparse cavern contains the statue of a heroic dwarf wearing ceremonial armor, but the monument is broken into large chunks. The statue's decapitated head is lying on the floor. Scrawled into the statue's base is a strange symbol. Smears of a strange, dark, dripping fluid mar the iconography.
+> In dieser kargen Höhle befindet sich die Statue eines heldenhaften Zwergs in zeremonieller Rüstung. Das Denkmal ist jedoch in große Stücke zerbrochen. Der Kopf der Statue liegt auf dem Boden. In den Sockel der Statue wu rde ein seltsames Symbol gekritzelt. Schlieren eine r merkwürdigen dunklen, tropfenden Flüssigkeit verunstalten die Ikonografie.
 ^209
 
 A character who succeeds on a DC 17 Intelligence ([Religion](/3-Mechanics/CLI/skills.md#Religion)) check recognizes the iconography of the defaced shrine as that of Ilsensine, the patron deity of the illithid empire. The shrine was built atop a broken duergar statue, and someone has recently defaced it.
 
-After Ruxithid assumed leadership of the enclave, a group of goblins discovered the shrine and destroyed it. If any of the goblins are asked why they destroyed the shrine, they emphatically insist that they loathe the shrine's presence, but they are unable to elaborate further. (Unbeknownst to them, this compulsion to destroy the shrine stems from Ruxithid's connection to Ilvaash, a Far Realm godlet who despises Ilsensine.)
+Nachdem Ruxithid die Führung der Enklave übernommen hatte, entdeckten ein paar Goblins den Schrein und zerstörten ihn. Werden die Goblins gefragt, warum sie den Schrein zerstört haben, beharren sie darauf, dass sie die Anwesenheit des Schreins verabscheuen. Sie erläutern dies jedoch nicht näher. (Sie wissen nicht, dass der Drang zur Zerstörung des Schreins auf Ruxithids Verbindung zu Ilvaash zurückzuführen ist, einer Gottheit aus dem Fernen Reich, die Ilsensine verachtet.)
 
-##### Evil Energy
+##### Z17: Böse Energie
 
 This monument is now infused with evil Far Realm energy. The first time a character touches or examines the shrine, the character must make a DC 20 Charisma saving throw. On a failed save, the character is plagued by a piercing headache, and whenever the character closes or opens their eyes, they briefly see a flash of shadowy, alien tendrils creeping at the edge of their vision. Additionally, the character has vulnerability to psychic damage. The effect lasts until it is ended by a spell or magical effect that lifts a curse, such as [greater restoration](/3-Mechanics/CLI/spells/greater-restoration-xphb.md) or [remove curse](/3-Mechanics/CLI/spells/remove-curse-xphb.md).
 
-##### Treasure
+##### Z17: Schätze
 
 A character who interacts with the shrine and succeeds on a DC 15 Intelligence ([Investigation](/3-Mechanics/CLI/skills.md#Investigation)) check finds a [ring of mind shielding](/3-Mechanics/CLI/items/ring-of-mind-shielding-xdmg.md) in the rubble, left long ago during the mind flayers' reign as an offering to Ilsensine.
 
-#### Z18: Storage Chamber
+#### Z18: Lagerraum
 
 > [!readaloud] 
 > 
-> Stacks of crates fill this chamber. Some are half-covered by dusty tarps that barely hide the ore within, while others are nailed shut. The creak of metal echoes from a conveyor of buckets that runs from the floor of the cavern to a hole near the ceiling. A set of mine cart tracks pass through the northwest end of the cavern.
+> In dieser Kammer stapeln sich Kisten . Einige sind zur Hälfte mit staubigen Planen abgedeckt, die das Erz darin kaum verbergen. Andere sind zugenagelt. Das Ächzen von Metall hallt von einem Eimer-Förderband wider, das vom Boden der Höhle zu einem Loch nahe der Decke führt. Durch das nordwestliche Ende der Höhle verlaufen Gleise.
 > 
-> A massive, conical iron drill, its insides roaring alight with blazing red fire, charges toward you with a piercing screech.
+> Ein riesiger, kegelförmiger Eisenbohrer, dessen Inneres mit loderndem, rotem Feuer brennt, stürmt mit einem durchdringenden Kreischen auf euch zu.
 ^20d
 
 The iron drill is a [fiendish auger](/3-Mechanics/CLI/bestiary/construct/fiendish-auger-pabtso.md), a remnant of the ancient duergar mining operation. It attacks the characters who enter the chamber.
 
-##### Treasure
+##### Z18: Schätze
 
 In total, the various open crates around the chamber hold 30 pounds of unrefined iron ore. Characters can take this ore to the smith in Phandalin, who can refine the ore into seven iron ingots worth 25 gp each.
 
@@ -817,146 +819,146 @@ Additionally, three smaller, sealed crates are situated around the chamber. Each
 - Four large chunks of blue quartz, worth 30 gp each  
 - A fist-sized amethyst worth 250 gp  
 
-##### Bucket Conveyor
+##### Z18: Eimer-Förderband
 
 If the characters repaired the bucket conveyor system in the forge (area Z7), they can use the buckets to move between the mining level and the outpost level. A character attempting to ride the buckets must succeed on a DC 15 Dexterity ([Acrobatics](/3-Mechanics/CLI/skills.md#Acrobatics)) check or fall 10 feet to chamber floor, taking 3 (`1d6`) bludgeoning damage.
 
-##### Mine Carts
+##### Z18: Minenwagen
 
 The mine cart track runs through the storage chamber. The mine carts automatically slow—but do not stop completely—when they enter the chamber, allowing materials to be loaded safely.
 
-#### Z19: Sanctum Crossing
+#### Z19: Übergang zum Heiligtum
 
 > [!readaloud] 
 > 
-> The thick heat of the churning lava below washes over the stone bridge. At the far end is an obsidian pyramid. Its faces bear relief carvings of ancient dwarves feasting, celebrating, and tending to their injured. Its vertices are carved with intricate geometric patterns inlaid with silver. A recessed double door stands before the pyramid. The door's faces are adorned with runes and circular channels glowing faintly with green energy.
+> Die drückende Hitze brodelnder Lava strömt über die Steinbrücke. Am anderen Ende befindet sich eine Obsidianpyramide. Auf ihr befinden sich Reliefs von uralten Zwergen, die feiern und sich um ihre Verletzten kümmern. Ihre Eckpunkte sind mit komplizierten geometrischen Mustern aus Si lber verziert. Vor der Pyramide steht eine eingelassene Doppeltür. Die Tür ist mit Runen und kreisförmigen Rinnen verziert, die schwach vor grüner Energie leuchten.
 ^212
 
-The bridge and ledge before the sanctum's entrance are both 20 feet above the lava.
+Die Brücke und der Felsvorsprung vor dem Eingang des Heiligtums befinden sich beide sechs Meter über der Lava.
 
-##### Sanctum Door
+##### Z19: Tür zum Heiligtum
 
 The door to the sanctum elevator is sealed. The circular engravings on the door form a magical lock that can be opened only with psionic energy. A character who studies the door and succeeds on a DC 15 Intelligence ([Arcana](/3-Mechanics/CLI/skills.md#Arcana)) check discerns the nature of the door's lock; if a character can read Dwarvish, the character makes this check with advantage since the door's magical runes are of dwarven origin.
 
-The lock is a Small magical object that has AC 12, 30 hit points, and immunity to all damage except psychic damage. As damage is dealt to the lock, the engraving's glowing green energy steadily becomes brighter. When the lock is reduced to 0 hit points, the door to the sanctum slides open. The lock and doors remain open for 10 minutes, after which they seal again.
+Bei dem Schloss handelt es sich um einen kleinen magischen Gegenstand. Es besitzt eine RK von 12, 30 Trefferpunkte und ist bis auf psychischen Schaden gegen alle Schadensarten immun. Wenn dem Schloss Schaden zugefügt wird, leuchtet die grüne Energie der Gravierung immer heller. Wenn die Trefferpunkte des Schlosses auf O sinken, öffnet sich die Tür zum Heiligtum. Das Schloss und die Tür bleiben zehn Minuten lang offen - danach sind sie wieder versiegelt.
 
 If the characters can't deal psychic damage to the lock, they can attempt to convince a goblin psi brawler or goblin psi commander to do so by succeeding on a DC 12 Charisma ([Intimidation](/3-Mechanics/CLI/skills.md#Intimidation) or [Persuasion](/3-Mechanics/CLI/skills.md#Persuasion)) check (or they can bribe or charm the goblins). They can also open the lock with a successful DC 18 Dexterity check using [thieves' tools](/3-Mechanics/CLI/items/thieves-tools-xphb.md).
 
-The lock and doors can be easily opened from the inside. The doors lead to a 15-foot-diameter circular stone platform that automatically moves between the sanctum crossing and the sanctum itself. The platform ascends and descends continuously, with a 1-minute stop at each location. It takes the platform 30 seconds to travel the 30-foot vertical drop between the crossing and the sanctum interior.
+Das Schloss und die Türen lassen sich leicht von innen öffnen. Die Tür führt zu einer kreisrunden Steinplattform mit 4,5 Metern Durchmesser, die sich automatisch zwischen dem Übergang und dem Heiligtum bewegt. Die Plattform fährt kontinuierlich auf und ab, wobei sie an jedem Ort eine Minute lang pausiert. Die Plattform benötigt 30 Sekunden für den Höhenunterschied von neun Metern zwischen dem Übergang und dem Inneren des Heiligtums.
 
-## Indigo Sanctum
+## Indigoblaues Heiligtum
 
-During the days of the duergar mining operation, the Indigo Sanctum of Zorzula's Rest served as a sacred hall. Hidden deep within the recesses of the mountain, the Indigo Sanctum was a place of rest, rejuvenation, and safety for duergar and their allies alike.
+Während des Duergar-Bergbaubetriebs diente das Indigoblaue Heiligtum in Zorzulas Ruh als heilige Halle. Es liegt tief im Berg versteckt und war ein Ort der Rast, Erholung und Sicherheit für die Duergar und ihre Verbündeten.
 
-However, when the mind flayers conquered the mining outpost, they perverted the sanctum for their own malevolent designs. What was once a blessed hall became the home for the colony's elder brain. Long after the mind flayers left the mining outpost, the psionic remnants of their presence still cling to the sanctum like a disease.
+Als die Gedankenschinder jedoch den Minenaußenposten eroberten, pervertierten sie das Heiligtum für ihre eigenen bösen Zwecke. Die einst gesegnete Halle wurde zur Heimat des Ältestengehirns der Kolonie. Lange nachdem die Gedankenschinder den Minenaußenposten verlassen haben, haften die psionischen Überbleibsel ihrer Anwesenheit immer noch wie eine Krankheit am Heiligtum.
 
-Recently, Sawplee leader Ruxithid entered this sanctum. When he did, he came to the attention of a group of Far Realm–worshiping mind flayers, who were studying the region in search of a capital for their new mind flayer empire. Once they settled upon Phandalin as their target—and the shattered Netherese obelisk as the conduit for their scheme—the group enchanted a crystal to serve as a telepathic link between themselves and Ruxithid.
+Ruxithid, der Sägezank-Anführer, betrat vor Kurzem dieses Heiligtum und erregte die Aufmerksamkeit einer Gruppe von Gedankenschindern, die das Feme Reich verehren. Sie waren in der Region auf der Suche nach einem Hauptsitz für ihr neues GedankenschinderImperium. Nachdem sie sich für Phandalin und den zerstörten nesserilischen Obelisken als Medium für ihre Pläne entschieden hatten, verzauberte die Gruppe einen Kristall, der als telepathische Verbindung zwischen ihnen und Ruxithid dienen sollte.
 
-An underling of the mind flayer fanatics then left the crystal for the goblin leader to find. Once Ruxithid embedded the crystal into his brain, the goblin leader heard the mind flayer fanatics' psychic voices in his mind and believed he was communing with gods. They instructed Ruxithid to find the lost pieces of the shattered Netherese obelisk, instigating the Sawplees' crimes in Phandalin.
+Ein Untergebener der Gedankenschinder-Fanatiker stellte anschließend sicher, dass der Goblin-Anführer den Kristall auch fand. Kaum, dass Ruxithid den Kristall in sein Gehirn eingebettet hatte, hörte er die psychischen Stimmen der Gedankenschinder-Fanatiker in seinem Kopf und glaubte, er würde mit den Göttern sprechen. Die Fanatiker beauftragten Ruxithid damit, die verlorenen Splitter des zerbrochenen nesserilischen Obelisken zu finden, und leiteten so die Verbrechen der Sägezank-Goblins in Phandalin ein.
 
-Now, Ruxithid meditates in his sanctum, communing with his mighty psychic overlords as he plans the next steps of his mission.
+Jetzt meditiert Ruxithid in seinem Heiligtum und kommuniziert mit seinen mächtigen psychischen Gebietern, während er die nächsten Schritte seiner Mission plant.
 
-### Entering the Sanctum
+### Das Heiligtum betreten
 
-When the characters enter the sanctum, read or paraphrase the following:
+Wenn die Charaktere das Heiligtum betreten, lies die folgende Beschreibung vor oder formuliere sie frei:
 
 > [!readaloud] 
 > 
-> The doors of the lift open to reveal a massive sanctum built of obsidian stone. Two waterfalls of lava cascade down either side of the sanctum's entrance, casting eerie light on the vaulted ceiling. At the opposite end of the sanctum looms a towering statue of a dwarven woman. Cracks race along her arms, and half her face is smashed, but the faint image of a kindly smile remains.
+> Die Türen des Aufzugs öffnen sich zu einem riesigen Heiligtum aus Obsid ian . Zu beiden Seiten des Eingangs ergießen sich Wasserfälle aus Lava und werfen ein unheimliches Licht auf die gewölbte Decke. Am gegenüberliegenden Ende des Heiligtums steht die gewaltige Statue einer Zwergin . Ihre Arme sind von Rissen übersäht, und obwohl ihr Gesicht halb zerschmettert ist, zeichnet sich dort der blasse Eindruck eines freundl ichen Lächelns ab.
 ^216
 
-The sanctum is made of polished obsidian stone, with vaulted ceilings that are 20 feet high. The interior of the sanctum is depicted on map 5.6.
+Das Heiligtum besteht aus poliertem Obsidian. Die gewölbte Decke reicht sechs Meter nach oben. Das Innere des Heiligtums ist auf Karte 5.6 dargestellt.
 
 > [!gallery]
-> ![Map 5.6: Indigo Sanctum](/3-Mechanics/CLI/adventures/phandelver-and-below-the-shattered-obelisk/img/074-map-5-06-indigo-sanctum.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/phandelver-and-below-the-shattered-obelisk/img/075-map-5-06-indigo-sanctum-player.webp#gallery)
+> ![Map 5.6: Indigo Sanctum](Die_Tiefen_von_Phandelver-Der_zersplitterte_Obelisk/img/074-map-5-06-indigo-sanctum.webp#gallery)
+> ![Player Version](Die_Tiefen_von_Phandelver-Der_zersplitterte_Obelisk/img/075-map-5-06-indigo-sanctum-player.webp#gallery)
 
 [Ruxithid the Chosen](/3-Mechanics/CLI/bestiary/npc/ruxithid-the-chosen-pabtso.md) stands on the mezzanine behind the statue. When the characters confront Ruxithid, read the following:
 
 > [!readaloud] 
 > 
-> This goblinoid figure is taller and broader than the other goblins you've encountered, and a gnarled crystal has split his skull open to reveal his brain. He turns, eyes and veins glowing an otherworldly green, and beckons to you.
+> Dieser Goblin ist größer und breiter als die anderen Goblins, denen ihr begegnet seid. Ein knorriger Kristall hat seinen Schädel gespalten, so dass sein Gehirn sichtbar ist. Er dreht sich um und winkt euch heran. Seine Augen und Adern leuchten in einem außerweltlichen Grün.
 ^217
 
-#### Ruxithid the Chosen
+#### Ruxithid der Auserwählte
 
 The goblin standing on the sanctum mezzanine is [Ruxithid the Chosen](/3-Mechanics/CLI/bestiary/npc/ruxithid-the-chosen-pabtso.md). Ruxithid's psionic abilities afford him a measure of rudimentary clairvoyance around the outpost, and thus the goblin leader is already aware of the characters' presence before they arrive.
 
-![Ruxithid the Chosen](/3-Mechanics/CLI/adventures/phandelver-and-below-the-shattered-obelisk/img/076-05-012-ruxithid-the-chosen.webp#center)
+![Ruxithid the Chosen](Die_Tiefen_von_Phandelver-Der_zersplitterte_Obelisk/img/076-05-012-ruxithid-the-chosen.webp#center)
 
 Ruxithid speaks in an unnaturally calm, sing-song voice. At first, he attempts to be cordial to the characters. Unaware that his "mighty gods" are actually mind flayers, Ruxithid explains that he is a divine harbinger and that his quest for these shards is intended to bring about a metamorphosis of the Material Plane. However, any character who succeeds on a DC 16 Wisdom ([Insight](/3-Mechanics/CLI/skills.md#Insight)) check notices the peculiar way Ruxithid's eyes roll back into his head as he speaks: a telling sign that the goblin is having a second conversation within his mind, and that the words he speaks aren't entirely his own.
 
-### Sanctum Showdown
+### Konfrontation im Heiligtum
 
-If the characters show no sign of joining Ruxithid, or if any of them threaten violence, Ruxithid becomes hostile. Read or paraphrase the following:
+Wenn die Charaktere keine Anzeichen dafür zeigen, sich Ruxithid anzuschließen, oder wenn sie mit Gewalt drohen, wird Ruxithid feindlich gesinnt. Lies die folgende Beschreibung vor oder formuliere sie frei:
 
 > [!readaloud] 
 > 
-> Green light pulses from Ruxithid's chest and races to the massive dwarven statue. Like a parasite, the light burrows into the statue's shattered face, seeping through its cracks. The statue lurches forward, still smiling, while Ruxithid commands it to kill you.
+> Grünes Licht pulsiert aus Ruxithids Brust und rast zur massiven Zwergenstatue. Das Licht gräbt sich wie ein Parasit in ihr zerschmettertes Gesicht und dringt durch die Risse. Die Statue taumelt vorwärts und lächelt immer noch, als Ruxithid ihr befiehlt, euch zu töten .
 ^21a
 
 The statue is a [shield guardian](/3-Mechanics/CLI/bestiary/construct/shield-guardian-xmm.md) under Ruxithid's control and fights alongside its master. The shield guardian stores a [phantasmal killer](/3-Mechanics/CLI/spells/phantasmal-killer-xphb.md) spell from its original duergar creator and Ruxithid can command the Construct to cast it. If this fight seems too easy for the party, add two [goblin psi brawlers](/3-Mechanics/CLI/bestiary/aberration/goblin-psi-brawler-pabtso.md), who rush from Zorzula's Rest to join the combat in 3 rounds.
 
-During the fight, Ruxithid uses his psionic flight to hover above the fray, darting in to make attacks while commanding the shield guardian (and the two other goblins, if they're also present) to take the brunt of the damage. Ruxithid fights to the death, but when he is reduced to 0 hit points, the shield guardian becomes inanimate and the other goblins, if present, surrender.
+Während des Kampfs nutzt Ruxithid seine psionischen Kräfte, um über dem Getümmel zu schweben. Er fliegt hinab, um Angriffe auszuführen, während er dem Schildwächter - und den beiden anderen Goblins, sofern sie ebenfalls anwesend sind - befiehlt, das größten Teil des Schadens einzustecken. Ruxithid kämpft bis zum Tod. Wenn seine Trefferpunkte jedoch auf O sinken, wird der Schildwächter unbelebt und die anderen Goblins - falls anwesend - ergeben sich.
 
-#### A Disturbing Truth Revealed
+#### Eine verstörende Wahrheit kommt ans Licht
 
-If Ruxithid is slain, read the following:
+Lies folgenden Text vor, wenn Ruxithid getötet wird:
 
 > [!readaloud] 
 > 
-> Ruxithid falls to the ground, and his crystalline brain splits asunder. The sanctum fills with a cacophony, like thousands of voices crying at once. Three voices emerge, speaking in discordant unison.
+> Ruxithid fällt zu Boden und sein kristallines Gehirn zerbirst. Das Heiligtum wird von einer Kakophonie erfüllt, so als würden tausende von Stimmen gleichzeitig aufschreien. Drei Stimmen stechen hervor und sprechen in unharmonischem Einklang.
 ^21c
 
-The voices hiss:
+Die Stimmen zischen:
 
 > [!readaloud] 
 > 
-> "So you have succeeded. Good. The four shards shall arrive here soon. Now three remain to be found. You know your task, little one. Collect the shards from Talhundereth, the Crypt of the Talhund, and Gibbet Crossing, and bring them to us. You shall be reborn greater than you can imagine, and Phandalin shall become ours."
+> "Es ist Euch also gelungen. Gut. Die vier Splitter werden bald hier eintreffen. Jetzt verbleiben noch drei. Ihr kennt Eure Aufgabe, kleiner Goblin. Sammelt die Splitter in Talhundereth, in der Talhund-Gruft und in Galgenkreuz und bringt sie zu uns. Ihr werdet mächtiger wiedergeboren , als Ihr es Euch vorstellen könnt, und Phandalin wird uns gehören."
 ^21d
 
-The mind flayer fanatics psionically charged the crystal and used it to telepathically communicate with Ruxithid as well as store important messages for him. After the message plays aloud, the crystal loses its light and becomes mundane.
+Die Gedankenschinder-Fanatiker haben den Kristall psionisch aufgeladen und genutzt, um telepathisch mit Ruxithid zu kommunizieren und wichtige Nachrichten für ihn zu hinterlassen. Nachdem die Botschaft erklungen ist, verliert der Kristall sein Licht und wird trüb.
 
-The message that plays for the characters upon Ruxithid's demise is the mind flayers' last command to him: find and deliver the three other obelisk shards hidden within Talhundereth, the Crypt of the Talhund, and Gibbet Crossing (more information about these locations can be found in the next chapter).
+Die Nachricht, die nach Ruxithids Ableben für die Charaktere ertönt, ist der letzte Befehl der Gedankenschinder an ihn: Er soll die verbleibenden drei Obeliskensplitter in Talhundereth, der Talhund-Gruft und in Galgenkreuz finden und hierherbringen (weitere Informationen zu diesen Orten findest du in den folgenden Kapiteln).
 
 Any character who hears the message can make a DC 13 Intelligence ([Religion](/3-Mechanics/CLI/skills.md#Religion)) check. On a successful check, the character realizes that the message's tone as well as the means of communication are unlike any known divine tradition—this is some other kind of powerful entity or group of entities, posing as gods to accomplish their malign ends.
 
-##### Key
+##### Schlüssel
 
 Ruxithid carries a key to his personal quarters (area Z10 in Zorzula's Rest).
 
-![](/3-Mechanics/CLI/adventures/phandelver-and-below-the-shattered-obelisk/img/077-05-013-hostage.webp#center)
+![](Die_Tiefen_von_Phandelver-Der_zersplitterte_Obelisk/img/077-05-013-hostage.webp#center)
 
-##### Hostage Room
+##### Geiselraum
 
-The goblins used the west wing of the sanctum to hold their kidnap victims. Most of the victims were transported elsewhere to serve as "offerings for the gods" (or food for the mind flayers), but some victims were deemed unfit and left to starve within the sanctum's depths.
+Die Goblins benutzen den Westflügel des Heiligtums für die Entführungsopfer. Die meisten von ihnen wurden als „Opfergaben für die Götter" - beziehungsweise als Nahrung für die Gedankenschinder - an einen anderen Ort gebracht. Einige wurden jedoch für untauglich erachtet und in den Tiefen des Heiligtums dem Hungertod überlassen.
 
 There are three hostages here, and all use the [commoner](/3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md) stat block. They are Dareth Grint, a human farmer who is Townmaster Harbin Wester's second cousin; Paulina Previne, a human stable hand who occasionally works at the Stonehill Inn; and Tumblewick Rollins, a gnome apothecary,
 
-They are sickly and barely conscious, and the goblins didn't explain much to them. Thus, they can recall only a few things about their time as prisoners:
+Sie sind kränklich und kaum bei Bewusstsein. Die Goblins haben ihnen nicht viel erklärt. Daher können sie sich nur an wenige Dinge aus ihrer Zeit als Gefangene erinnern:
 
 - **Stone Pillar.** The goblins were fixated on reassembling some kind of stone pillar.  
 - **Victims Elsewhere.** More victims were here at one point. However, those victims were taken somewhere else by the goblins for a "special purpose."  
 - **War Room.** Ruxithid used the east wing of the sanctum as his war room.  
 
-##### War Room
+##### Einsatzzentrale
 
-The east wing of the sanctum serves as Ruxithid's war room, where he arranges the various expeditions to retrieve the obelisk shards.
+Im Ostflügel des Heiligtums befindet sich Ruxithids Einsatzzentrale, wo er die verschiedenen Expeditionen zur Bergung der Obeliskensplitter organisiert.
 
-A character who investigates this room finds a crudely drawn map of the region on the central table, with messy arrows and scrawled labels reading "Gibbet Crossing," "Crypt of the Talhund," and "Talhundereth." (See the Goblins' Map handout in chapter 6 for a representation of this map.)
+Charaktere, die diesen Raum untersuchen, finden auf dem Tisch in der Mitte eine grobe Karte der Region mit unordentlichen Pfeilen und gekritzelten Beschriftungen wie „Galgenkreuz", ,,Talhund-Gruft" und „Talhundereth". (Diese Karte der Sägezank-Goblins ist im Infomaterial für Spieler in Kapitel 6 zu finden.)
 
 A character who succeeds on a DC 15 Intelligence ([Investigation](/3-Mechanics/CLI/skills.md#Investigation)) check also discovers a rough sketch of a broken obelisk made of dark stone. Four of the broken chunks in the drawing are crossed out, while three are circled. This is a sketch of the Netherese obelisk, with the four crossed-out pieces corresponding to the shards found in Phandalin and the three circled pieces corresponding to the three pieces left to find. Ruxithid's overlords described the obelisk to him and used powers drawn from the Far Realm to roughly locate the obelisk's scattered pieces.
 
-##### The Sawplee Goblins
+##### Die Sägezank-Goblins
 
-Although Ruxithid was their leader, the Sawplee goblins aren't particularly loyal to him. Ruxithid ruled through fear and put the goblins into harm's way for his own selfish quest for power.
+Obwohl Ruxithid ihr Anführer war, sind die Sägezank-Goblins ihm gegenüber nicht besonders loyal. Ruxithid führte eine Schreckensherrschaft und brachte die Goblins für sein selbstsüchtiges Streben nach Macht in Gefahr.
 
-Without their wicked leader to push them, the goblins are peaceful and curious, if mischievous. It's up to the characters how they want to handle the Sawplee goblins. The townspeople of Phandalin dislike the goblins, but the characters can broker an easy peace if they wish for hostilities between the Sawplees and the townspeople to end.
+Ohne ihren bösen Anführer sind die Goblins friedlich und neugierig, neigen jedoch zum Schabernack. Es liegt an den Charakteren, wie sie mit den Sägezank-Goblins umgehen wollen. Die Dörfler in Phandalin mögen die Goblins nicht, aber die Charaktere können einen Frieden zwischen den beiden aushandeln, wenn sie wollen, dass die Feindseligkeiten zwischen den Sägezank-Goblins und den Dörflern enden.
 
-## What's Next?
+## Was kommt als Nächstes?
 
-After defeating Ruxithid and learning that there are larger, more sinister forces at play, the characters should realize Phandalin is in danger. They'll likely wish to return to Phandalin to rest and plan their next moves. If the players need a nudge in this direction, remind them that the kidnap victims in the sanctum need food and medical attention as soon as possible. The survivors may not be strong enough to make the journey to Phandalin themselves, requiring the characters to escort them to town. Upon their return to Phandalin, Harbin pays the characters the agreed upon amount and thanks them deeply for their assistance.
+Nachdem sie Ruxithid besiegt und erfahren haben, dass größere, finsterere Mächte im Spiel sind, sollten die Charaktere erkennen, dass Phandalin in Gefahr ist. Sie wollen wahrscheinlich nach Phandalin zurückkehren, um zu rasten und ihre nächsten Schritte zu planen. Wenn die Spieler einen Anstoß brauchen, erinnere sie daran, dass die Entführungsopfer im Heiligtum so schnell wie möglich Nahrung und medizinische Hilfe benötigen. Die Überlebenden sind möglicherweise zu schwach, um allein nach Phandalin zu reisen, so dass die Charaktere sie begleiten müssen. Bei ihrer Rückkehr nach Phandalin zahlt Harbin den Charakteren den vereinbarten Betrag und dankt ihnen für ihre Hilfe.
 
-Regardless of the characters' choices during this part of the adventure, the goblins have already delivered four obelisk shards from Phandalin to the mind flayers. The adventure now becomes a race against the clock to find the remaining three shards.
+Unabhängig von den Entscheidungen der Charaktere in diesem Teil des Abenteuers haben die Goblins den Gedankenschindern bereits vier Obeliskensplitter aus Phandalin ausgehändigt. Das Abenteuer wird nun zu einem Wettlauf gegen die Zeit, um die verbleibenden drei Splitter zu finden.
 
-![The next step of the chara...](/3-Mechanics/CLI/adventures/phandelver-and-below-the-shattered-obelisk/img/078-05-014-caverns-underneath-phandalin.webp#center "The next step of the characters' journey will take them deep into the caverns underneath Phandalin")
+![Der nächste Schritt ihres Abenteuers führt die Charaktere tief in die Höhlen unter Phandalin.](Die_Tiefen_von_Phandelver-Der_zersplitterte_Obelisk/img/078-05-014-caverns-underneath-phandalin.webp#center "The next step of the characters' journey will take them deep into the caverns underneath Phandalin")

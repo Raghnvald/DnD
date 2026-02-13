@@ -1,7 +1,7 @@
 ---
 statblock: inline
 statblock-link: "#^statblock"
-Bezeichnung: Shadow Horror
+Bezeichnung: Schattenschrecken
 tags:
   - Monster/Größe/Groß
   - Monster/HG/9
@@ -10,7 +10,7 @@ tags:
 aliases:
   - Shadow Horror
 ---
-# [Shadow Horror](3-Mechanics\CLI\bestiary\aberration/shadow-horror-ggr.md)
+# Schattenschrecken
 *Source: Guildmasters' Guide to Ravnica p. 205*  
 
 ## Horrors and Madness

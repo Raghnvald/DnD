@@ -1,7 +1,5 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Robes
+Bezeichnung: Roben
 Kategorie: Abenteuerausrüstung
 tags:
   - Gegenstand/Ausrüstung/

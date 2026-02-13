@@ -1,6 +1,6 @@
 ---
 Bezeichnung: Zauberstab
-Kategorie: Arkaner Fokus
+Kategorie: Fokus, Arkan
 Eigenschaften: /
 Kst.: 10 GM
 Gew.: 0,5 kg

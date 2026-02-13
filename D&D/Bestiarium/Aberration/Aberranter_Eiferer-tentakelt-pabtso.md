@@ -1,7 +1,7 @@
 ---
 statblock: inline
 statblock-link: "#^statblock"
-Bezeichnung: Aberrant Zealot (Tentacled)
+Bezeichnung: Aberranter Eiferer (Tentakelt)
 Kategorie: Aberration
 Größe: Mittelgroß
 HG: 8
@@ -15,9 +15,9 @@ tags:
   - Quelle/5e/pabtso
 aliases:
   - Aberrant Zealot (Tentacled)
-Image: aberration/token/aberrant-zealot-tentacled-pabtso.webp
+Image: token/aberrant-zealot-tentacled-pabtso.webp
 ---
-# Aberrant Zealot (Tentacled)
+# Aberranter Eiferer (Tentakelt)
 *Source: Phandelver and Below: The Shattered Obelisk p. 181*  
 
 ```statblock

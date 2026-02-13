@@ -1,7 +1,7 @@
 ---
 statblock: inline
 statblock-link: "#^statblock"
-Bezeichnung: Chishinix' Head
+Bezeichnung: Chishinix' Kopf
 Kategorie: Aberration
 Größe: Winzig
 HG: 3
@@ -15,11 +15,10 @@ tags:
   - Quelle/5e/pabtso
 aliases:
   - Chishinix' Head
-  - Chishinix' Head
 Image: npc/token/chishinix-head-pabtso.webp
 linter-yaml-title-alias: Chishinix' Head
 ---
-# Chishinix' Head
+# Chishinix' Kopf
 *Source: Phandelver and Below: The Shattered Obelisk p. 194*  
 
 ```statblock

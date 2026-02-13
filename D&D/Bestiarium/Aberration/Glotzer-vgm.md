@@ -1,7 +1,7 @@
 ---
 statblock: inline
 statblock-link: "#^statblock"
-Bezeichnung: Gazer
+Bezeichnung: Glotzer (VgM)
 tags:
   - Monster/Größe/Winzig
   - Monster/Habitat/Unterreich
@@ -11,7 +11,7 @@ tags:
 aliases:
   - Gazer
 ---
-# [Gazer](3-Mechanics\CLI\bestiary\aberration/gazer-vgm.md)
+# Glotzer
 *Source: Volo's Guide to Monsters p. 126, Waterdeep: Dragon Heist*  
 
 A gazer is a tiny manifestation of a beholder's dreams. It resembles the beholder who dreamed it into existence, but its body is only 8 inches wide, and it has only four eyestalks. It follows its creator like a devoted, aggressive puppy, and sometimes small packs of these creatures patrol their master's lair for vermin to kill and lone creatures to harass.

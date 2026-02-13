@@ -1,6 +1,6 @@
 ---
 Bezeichnung: Emblem
-Kategorie: Heiliges Symbol
+Kategorie: Fokus, Heiliges Symbol
 Eigenschaften: /
 Kst.: 5 GM
 Gew.: 0,5 kg

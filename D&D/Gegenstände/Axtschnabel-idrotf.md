@@ -1,8 +1,11 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Axe Beak
+Bezeichnung: Axtschnabel
 Kategorie: Reit- und Lastentier
+Eigenschaften: /
+Kst.: 50 GM
+Gew.: /
+Bew.: 15 m
+Traglast: 420 Pfd.
 tags:
   - Gegenstand/Ausrüstung/Reit-und-Lastentier
   - Gegenstand/Seltenheit/keine

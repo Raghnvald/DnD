@@ -106,7 +106,7 @@ _Quellen:_ Spielerhandbuch
 | [Seil, Hanf (15 Meter)](hempen-rope-50-feet.md)                   |     1 GM |        5,0 kg. |
 | [Seil, Seide (15 Meter)](silk-rope-50-feet.md)                    |    10 GM |        2,5 kg. |
 | [Siegelring](Siegelring-phb.md)                                      |     5 GM |              — |
-| [Siegelwachs](sealing-wax.md)                                     |     5 SM |              — |
+| [Siegelwachs](sealing-wax-phb.md)                                     |     5 SM |              — |
 | [Signalpfeife](signal-whistle.md)                                 |     5 KM |              — |
 | [Spiegel (Stahl)](steel-mirror.md)                                |     5 GM |       0,25 kg. |
 | [Spitzhacke](miners-pick.md)                                      |     2 GM |       5,0 kg.. |

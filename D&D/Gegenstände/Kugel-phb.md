@@ -1,6 +1,6 @@
 ---
 Bezeichnung: Kugel
-Kategorie: Arkaner Fokus
+Kategorie: Fokus, Arkan
 Eigenschaften: /
 Kst.: 20 GM
 Gew.: 1,5 kg

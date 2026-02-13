@@ -1,7 +1,7 @@
 ---
 statblock: inline
 statblock-link: "#^statblock"
-Bezeichnung: Death Kiss
+Bezeichnung: Todeskuss
 Kategorie: Aberration (Betrachter)
 tags:
   - Monster/Größe/Groß
@@ -12,7 +12,7 @@ tags:
 aliases:
   - Death Kiss
 ---
-# [Death Kiss](3-Mechanics\CLI\bestiary\aberration/death-kiss-mpmm.md)
+# Todeskuss
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 85*  
 
 A death kiss is a lesser beholder that can come into being when a true beholder has a vivid nightmare about losing blood. Its coloration and shape resemble those of the beholder that dreamed it into existence, but its hue is more muted, and instead of magical eye rays, it has ten long tentacles, each ending in a mouth full of teeth. It can speak through any of its tentacle-maws in a high-pitched, nasal voice.

@@ -1,8 +1,9 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Rations (1 day)
+Bezeichnung: Tagesration
 Kategorie: Essen und Trinken
+Eigenschaften: /
+Kst.: 5 SM
+Gew.: 1,0 kg.
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine

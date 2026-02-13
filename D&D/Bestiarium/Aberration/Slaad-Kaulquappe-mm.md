@@ -1,7 +1,7 @@
 ---
 statblock: inline
 statblock-link: "#^statblock"
-Bezeichnung: Slaad Tadpole
+Bezeichnung: Slaad-Kaulquappe
 tags:
   - Monster/Größe/Winzig
   - Monster/HG/1-8
@@ -10,7 +10,7 @@ tags:
 aliases:
   - Slaad Tadpole
 ---
-# [Slaad Tadpole](3-Mechanics\CLI\bestiary\aberration/slaad-tadpole.md)
+# Slaad-Kaulquappe
 *Source: Monster Manual p. 276*  
 
 ## Slaadi

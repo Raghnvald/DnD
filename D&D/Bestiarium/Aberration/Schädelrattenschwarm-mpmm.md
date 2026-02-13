@@ -1,7 +1,7 @@
 ---
 statblock: inline
 statblock-link: "#^statblock"
-Bezeichnung: Swarm of Cranium Rats
+Bezeichnung: Schädelrattenschwarm
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Stadt
@@ -12,7 +12,7 @@ tags:
 aliases:
   - Swarm of Cranium Rats
 ---
-# [Swarm of Cranium Rats](3-Mechanics\CLI\bestiary\aberration/swarm-of-cranium-rats-mpmm.md)
+# Schädelrattenschwarm
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 83*  
 
 ## Cranium Rat
