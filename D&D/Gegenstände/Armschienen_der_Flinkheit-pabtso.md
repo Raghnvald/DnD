@@ -1,18 +1,18 @@
 ---
-Bezeichnung: Bracers of Celerity
+Bezeichnung: Armschienen der Flinkheit
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/pabtso
 aliases:
   - Bracers of Celerity
-linter-yaml-title-alias: Bracers of Celerity
+linter-yaml-title-alias: Armschienen der Flinkheit
 ---
-# Bracers of Celerity
-*Wondrous item, rare (requires attunement)*  
+# Armschienen der Flinkheit
+*Wundersamer Gegenstand, selten (erfordert Einstimmung)*  
 
-This pair of lightweight bronze bracers is lined with soft, purple velvet and engraved with swirling designs.
+Diese leichten Armschienen aus Bronze sind mit weichem, purpurrotem Samt gefüttert und mit gravierten Wirbelmustern verziert.
 
-While you're wearing these bracers, all your speeds increase by 10 feet, and you have advantage on saving throws you make to avoid or end the paralyzed or restrained condition on yourself.
+Wenn du diese Armschienen trägst, erhöhen sich all deine Bewegungsraten um drei Meter, und du bist bei Rettungswürfen, die du ausführst, um nicht [[Zustände-phb#Gelähmt|gelähmt]] oder [[Zustände-phb#Festgesetzt|festgesetzt]] zu werden oder diese Zustände zu beenden, im Vorteil.
 
-*Source: Phandelver and Below: The Shattered Obelisk p. 217*
+*Quelle: Die Tiefen von Phandelver: Der zersplitterte Obelisk S. 217*

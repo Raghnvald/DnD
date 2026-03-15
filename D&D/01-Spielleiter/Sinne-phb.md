@@ -14,7 +14,7 @@ Eine Kreatur mit Blindsicht kann ihre Umgebung innerhalb eines bestimmten Bereic
 ## Dunkelsicht
 *Quellen: Spielerhandbuch S. 183. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)* 
 
-If you have Darkvision, you can see in [Dim Light](/3-Mechanics/CLI/variant-rules/dim-light-xphb.md) within a specified range as if it were [Bright Light](/3-Mechanics/CLI/variant-rules/bright-light-xphb.md) and in [Darkness](/3-Mechanics/CLI/variant-rules/darkness-xphb.md) within that range as if it were [Dim Light](/3-Mechanics/CLI/variant-rules/dim-light-xphb.md). You discern colors in that [Darkness](/3-Mechanics/CLI/variant-rules/darkness-xphb.md) only as shades of gray.
+Innerhalb einer festgelegten Reichweite behandeln Kreaturen dämmriges Licht wie helles Licht und Dunkelheit wie dämmriges Licht. Dabei sind sie jedoch nicht in der Lage, Farben wahrzunehmen, in Dunkelheit sehen sie nur Abstufungen von Grau.
 
 ## Tremorsense
 _Source: Player's Handbook (2024) p. 377. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_

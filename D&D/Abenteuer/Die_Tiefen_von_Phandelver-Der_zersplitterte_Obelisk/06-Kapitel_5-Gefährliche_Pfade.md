@@ -602,7 +602,7 @@ In der Schmiede liegen zahlreiche Waffen und Rüstungsteile verstreut. Ein Chara
 
 - Ein mit schimmerndem Filigran verziertes [[Langschwert-phb|Langschwert]] im Wert von 200 GM.
 - Eine mit Quarz beschlagene, bronzene [[Brustplatte-phb|Brustplatte]] im Wert von 500 GM.
-- Ein [[Wurfspeer_der_Blitze-dmg|Wurfspeer des Blitzes]] mit einer Goldspitze.
+- Ein [[Wurfspeer_des_Blitzes-dmg|Wurfspeer des Blitzes]] mit einer Goldspitze.
 - [[Armschienen_des_Bogenschützen-dmg|Armschienen des Bogenschützen]] aus feinem Silber.
 
 #### Z8: Küche
@@ -629,7 +629,7 @@ Die meisten Lebensmittel in der Kammer sind schal und halb aufgegessen.
 
 ##### Z9: Schätze
 
-Ein Charakter, der die Speisekammer untersucht und einen `SG-15-Intelligenzwurf` ([[01-Spielleiter/Fertigkeiten-phb#Nachforschungen|Nachforschungen]]) besteht, findet hinter staubigen Flaschen sauren Weins zwei [[Tränke_der_Mächtigen_Heilung-dmg|Tränke der Mächtigen Heilung]] und einen [[Trank_der_psionischen_Ausdauer-pabtso|Trank der psionischen Ausdauer]].
+Ein Charakter, der die Speisekammer untersucht und einen `SG-15-Intelligenzwurf` ([[01-Spielleiter/Fertigkeiten-phb#Nachforschungen|Nachforschungen]]) besteht, findet hinter staubigen Flaschen sauren Weins zwei [[Trank_der_Mächtigen_Heilung-dmg|Tränke der Mächtigen Heilung]] und einen [[Trank_der_psionischen_Ausdauer-pabtso|Trank der psionischen Ausdauer]].
 
 ##### Z9: Tunnel
 
@@ -639,22 +639,22 @@ $\quad$Eine mittelgroße Kreatur kann problemlos durch den Tunnel kriechen.
 
 #### Z10: Gemach des Vorstehers
 
-Once reserved for the captain of the mining expedition, this private bedroom now serves as Ruxithid's personal quarters. The door to the suite is locked, but a character can use [thieves' tools](/3-Mechanics/CLI/items/thieves-tools-xphb.md) to try to pick the lock, doing so with a successful a DC 15 Dexterity check. Alternatively, a character can force open the door with a successful DC 15 Strength ([Athletics](/3-Mechanics/CLI/skills.md#Athletics)) check. Ruxithid, found in the Indigo Sanctum later in this chapter, has a key. The goblin leader doesn't allow any others access to this room.
+Dieses private Schlafzimmer war einst dem Vorsteher der Bergbauexpedition vorbehalten und dient heute als Privatquartier von Ruxithid. Die Tür zum Quartier ist verschlossen. Ein Charakter kann [[Diebeswerkzeug-phb|Diebeswerkzeug]] einsetzen, um das Schloss mit einem erfolgreichen `SG-15-Geschicklichkeitswurf` zu knacken. Alternativ kann ein Charakter die Tür mit einem erfolgreichen `SG-15-Stärkewurf` ([[01-Spielleiter/Fertigkeiten-phb#Athletik|Athletik]]) aufbrechen. Ruxithid, der sich im Indigoblauen Heiligtum (weiter hinten in diesem Kapitel) befindet, hat einen Schlüssel. Der Goblin-Anführer erlaubt niemandem sonst den Zutritt zu seinem Gemach.
 
 > [!readaloud] 
 > 
 > Dieses Privatgemach verfügt über ein üppiges Baldachinbett mit seidenen Laken. Steinregale mit Büchern und dekorativen Keramikgefäßen säumen die Wände neben staubbedeckten Bannern, die mit Zwergenrunen bestickt sind. In einer Ecke steht ein eleganter Mahagonischreibtisch, auf dem eine Karte und mehrere zerknitterte Notizen liegen.
 ^1f0
 
-The map on the desk is a copy of the map found in Ruxithid's war room (see the "Sanctum Showdown" section), but it's missing the location labels. While inspecting the room, characters who have a passive Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) score of 15 or higher also notice a faint murmuring coming from one of the ceramic jars—a smooth, onyx-black jar with geometric engravings inlaid with blue gemstones—displayed in the bookcase.
+Die Karte auf dem Schreibtisch ist eine Kopie der Karte in Ruxithids Einsatzzentrale (siehe Abschnitt „Konfrontation im Heiligtum"), sie hat jedoch keine Ortsbeschriftungen. Bei der Untersuchung des Raums bemerken Charaktere mit einem passiven Weisheitswert ([[01-Spielleiter/Fertigkeiten-phb#Wahrnehmung|Wahrnehmung]]) von mindestens 15 zudem ein Flüstern aus einem der Keramikgefäße, die auf dem Bücherregal des Raums stehen - ein glattes, schwarzes Onyx-Gefäß mit geometrischen Gravierungen, in die blaue Edelsteine eingelegt sind.
 
 ##### Z10: Flüsterndes Gefäß
 
-The murmuring jar is actually a canopic jar that holds the soul of a neutral duergar named [Hjoldak Hollowhelm](/3-Mechanics/CLI/bestiary/npc/hjoldak-hollowhelm-pabtso.md), the last mining captain of Zorzula's Rest. Hjoldak's soul was imprisoned in the jar by the mind flayers when they overtook the outpost; he has remained trapped in the jar ever since.
+Bei dem flüsternden Gefäß handelt es sich um eine Kanope, in der sich die Seele eines neutralen Duergar namens [[Hjoldak_Hollowhelm-pabtso|Hjoldak Hohlhelm ]]befindet - dem letzten Vorsteher von Zorzulas Ruh. Hohlhelms Seele wurde von den Gedankenschindern im Gefäß eingesperrt, als sie den Außenposten eingenommen hatten. Seitdem ist er darin gefangen.
 
-Hjoldak can see normally while trapped in the jar and can still speak, though his voice comes out no louder than a whisper. Upon seeing the characters enter the room, he attempts to grab their attention (he has been attempting to get Ruxithid's attention for years now, to no avail). If the characters stop to listen to him, he desperately explains his plight and asks the characters to free him. He also claims to know the goblins' plan and offers to aid the characters. However, a character who succeeds on a DC 13 Wisdom ([Insight](/3-Mechanics/CLI/skills.md#Insight)) check intuits that while his offer of help is earnest, Hjoldak knows less than he claims.
+$\quad$Hjoldak kann im Gefäß normal sehen und immer noch sprechen, seine Stimme ist jedoch nicht lauter als ein Flüstern. Sobald die Charaktere die Gemächer betreten, versucht er, ihre Aufmerksamkeit zu erregen. (Er bat seit Jahren dasselbe mit Ruxithid versucht, allerdings erfolglos.) Wenn die Charaktere innehalten und ihm zuhören, erklärt er verzweifelt seine Notlage und bittet die Charaktere, ihn zu befreien. Er behauptet auch, den Plan der Goblins zu kennen und bietet den Charakteren seine Hilfe an. Ein Charakter, der einen `SG-13-Weisheitswurf` ([[01-Spielleiter/Fertigkeiten-phb#Motiv erkennen|Motiv erkennen]]) besteht, ahnt jedoch, dass Hjoldaks Hilfsangebot zwar ernst gemeint ist, er jedoch weniger weiß, als er behauptet.
 
-The jar is sealed with an intricate puzzle lock, requiring the body and lid of the jar to be moved at the exact right place and angle to open. A character can open the lock by succeeding on a DC 15 Intelligence ([Investigation](/3-Mechanics/CLI/skills.md#Investigation)) check. Characters can also attempt to break the jar open by making a DC 20 Strength ([Athletics](/3-Mechanics/CLI/skills.md#Athletics)) check, smashing the jar on a success. Once freed, Hjoldak's soul manifests as a peaceful [psionic ashenwight](/3-Mechanics/CLI/bestiary/undead/psionic-ashenwight-pabtso.md).
+$\quad$Das Gefäß ist mit einem komplizierten Rätselschloss versehen: Der Hauptteil und der Deckel müssen an genau der richtigen Stelle und im korrekten Winkel bewegt werden, um es zu öffnen. Ein Charakter kann das Schloss mit einem erfolgreichen `SG-15-Intelligenzwurf` ([[01-Spielleiter/Fertigkeiten-phb#Nachforschungen|Nachforschungen]]) öffnen. Charaktere können zudem versuchen, das Gefäß aufzubrechen, indem sie einen SG-20-Stärkewurf (Athletik) ausführen. Bei einem Erfolg zerschmettern sie das Gefäß. Sobald Hjoldaks Seele befreit ist, manifestiert sie sich als friedlicher [[Psionischer_Ascheschrecken-pabtso|psionischer Ascheschrecken]].
 
 ![Hjoldak Hohlhelm](Die_Tiefen_von_Phandelver-Der_zersplitterte_Obelisk/img/072-05-010-hjoldak.webp#center)
 
@@ -662,19 +662,19 @@ The jar is sealed with an intricate puzzle lock, requiring the body and lid of t
 
 Hjoldak kennt den Grundriss des Außenpostens, einschließlich versteckter Räume. Wenn er befreit wird, führt er die Charaktere gerne herum. Hjoldak weiß zudem, wie man den Aufzug, das EimerFörderband und die Minenwagen im Komplex repariert.
 
-Auf die Frage nach Ruxithid und die Goblins hin gibt Hjordak zu, dass er nicht viel über ihre Pläne weiß. Er erklärt, dass Ruxithid sich immer seltener in seinen Gemächern aufhält. Wenn Ruxithid dort ist, scheint er abgelenkt zu sein, brütet über Notizen und eilt dann hektisch davon. Hjoldak vermutet, dass der GoblinAnführer irgendwo tiefer im Außenposten an seinen Plänen arbeitet.
+$\quad$Auf die Frage nach Ruxithid und die Goblins hin gibt Hjordak zu, dass er nicht viel über ihre Pläne weiß. Er erklärt, dass Ruxithid sich immer seltener in seinen Gemächern aufhält. Wenn Ruxithid dort ist, scheint er abgelenkt zu sein, brütet über Notizen und eilt dann hektisch davon. Hjoldak vermutet, dass der GoblinAnführer irgendwo tiefer im Außenposten an seinen Plänen arbeitet.
 
 ##### Z10: Schätze
 
 Im Raum befinden sich zwei Verstecke mit Schätzen: ein kleineres Fach im Bettrahmen und ein größerer Tresor. Hjoldak kennt den Standort beider Verstecke und weiß, wie man sie öffnet.
 
-The bed frame's compartment was used to store weapons and other means of defense in case of an emergency. A character must succeed on a DC 20 Intelligence ([Investigation](/3-Mechanics/CLI/skills.md#Investigation)) check to find the outline of the bed frame's compartment. Pushing the compartment's panel opens it; inside is a [dagger of venom](/3-Mechanics/CLI/items/dagger-of-venom-xdmg.md) and an [emerald elemental gem](/3-Mechanics/CLI/items/elemental-gem-emerald-xdmg.md).
+Das Fach im Bettrahmen diente zur Aufbewahrung von Waffen und anderen Verteidigungsmaßnahmen für den Notfall. Einern Charakter muss einen `SG-20- Intelligenzwurf` ([[01-Spielleiter/Fertigkeiten-phb#Nachforschungen|Nachforschungen]]) bestehen, um den Umriss des Fachs im Bettrahmen zu finden. Wenn man auf die Klappe drückt, öffnet sich das Fach. Darin befinden sich ein [[Dolch_des_Gifts-dmg|Dolch des Gifts]] und ein [[Elementarer_Edelstein-dmg|Elementarer Edelstein]] in [[Elementarer_Edelstein-Smaragd-dmg|Smaragdform]].
 
 ##### Z10: Geheimtür
 
-Any character who examines the north wall and succeeds on a DC 16 Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) check notices a small section of wall engraved with four Dwarvish runes. The runes are (from left to right) "storm," "death," "light," and "wind." These runes are the key to opening the room's hidden vault (area Z11).
+Ein Charakter, der die Nordwand untersucht und einen `SG-16-Weisheitswurf` ([[01-Spielleiter/Fertigkeiten-phb#Wahrnehmung|Wahrnehmung]]) besteht, bemerkt einen kleinen Abschnitt an der Wand, in den vier Zwergenrunen eingraviert sind. Die Runen lauten (von links nach rechts): ,,Sturm", ,,Tod", ,,Licht" und „Wind". Diese Runen sind der Schlüssel zum Öffnen des versteckten Tresors (Bereich Z11).
 
-Um den Tresor zu öffnen, müssen die Runen in der richtigen Reihenfolge angetippt werden. Die richtige Reihenfolge entspricht der Reihenfolge der Runen an der Wand, von links nach rechts: Sturm, Tod, Licht und Wind. Wenn eine Kreatur die Runen in der falschen Reihenfolge berührt, wird die Falle des Tresors ausgelöst und die Kreatur muss einen `SG-15- Geschicklichkeitsrettungswurf` ausführen. Scheitert der Wurf, erleidet die Kreatur Schaden anhand der letzten Rune, die sie berührt hat:
+$\quad$Um den Tresor zu öffnen, müssen die Runen in der richtigen Reihenfolge angetippt werden. Die richtige Reihenfolge entspricht der Reihenfolge der Runen an der Wand, von links nach rechts: Sturm, Tod, Licht und Wind. Wenn eine Kreatur die Runen in der falschen Reihenfolge berührt, wird die Falle des Tresors ausgelöst und die Kreatur muss einen `SG-15- Geschicklichkeitsrettungswurf` ausführen. Scheitert der Wurf, erleidet die Kreatur Schaden anhand der letzten Rune, die sie berührt hat:
 
 - **Licht**: 13 (`3W8`) gleißender Schaden 
 - **Sturm**: 13 (`3W8`) Blitzschaden 
@@ -692,7 +692,7 @@ Sobald die richtige Reihenfolge angetippt wurde, öffnet sich die Geheimtür in 
 
 ##### Z11: Schätze
 
-The vault contains a multitude of ancient duergar coins—56 pp, 350 gp, 189 sp, and 304 cp—as well as four pieces of [jade](/3-Mechanics/CLI/items/jade-xdmg.md) worth 100 gp each and one large [peridot](/3-Mechanics/CLI/items/peridot-xdmg.md) stone worth 500 gp. Additionally, folded neatly against the wall are three richly woven but dusty duergar tapestries worth 75 gp each and a velvet brocade worth 145 gp.
+Im Tresor befinden sich zahlreiche uralte Duergar-Münzen (56 PM, 350 GM, 189 SM und 304 KM) sowie vier [[Jade-dmg|Jadebrocken]] im Wert von jeweils 100 GM und ein großer [[Peridot-dmg|Peridot]] im Wert von 500 GM. Zudem lehnen drei prächtig gewebte, aber staubige Duergar-Wandteppiche im Wert von jeweils 75 GM und ein Samtbrokat im Wert von 145 GM an der Wand.
 
 #### Z12: Eingang zu den Bergwerkstunneln
 
@@ -710,17 +710,17 @@ Der Minenschacht ist neun Meter lang und führt zur Schlafkammer des Außenposte
 > Ein baufälliges Schienensystem verläuft durch die gesamte Kammer. Ein halbes Dutzend rostiger Minenwagen steht ungenutzt auf den Gleisen. Ihre Räder sind verbogen und Spinnweben bedecken die Wagen. Der Boden ist mit uraltem Müll übersät und offene Kisten voller staubiger Werkzeuge säumen die 1 Höhlenwände. An diesen Kisten lehnen drei Skelette, i deren Schädel eingeschlagen wurden.
 ^1fb
 
-The bones are the remains of three duergar, ghastly remnants of the illithids' invasion long ago. A character who studies the bodies and succeeds on a DC 16 Intelligence ([Arcana](/3-Mechanics/CLI/skills.md#Arcana)) or Wisdom ([Medicine](/3-Mechanics/CLI/skills.md#Medicine)) check realizes that the crushed skulls are indicative of mind flayers' brain extractions.
+Bei den Knochen handelt es sich um die Gebeine von drei Duergar, grausige Überreste der Invasion der Illithiden. Ein Charakter, der die Überreste untersucht und einen `SG-16-Intelligenzwurf` ([[01-Spielleiter/Fertigkeiten-phb#Arkane Kunde|Arkane Kunde]]) oder einen `SG-16- Weisheitswurf` ([[01-Spielleiter/Fertigkeiten-phb#Heilkunde|Heilkunde]]) besteht, erkennt, dass die zerschmetterten Schädel auf Gehirnentnahmen durch Gedankenschinder hinweisen.
 
 ##### Z13: Minenwagen
 
-The mine carts are in disrepair and roll squeakily along the track. Each mine cart is meant to be self-propelled. A character who examines the mine carts and succeeds on a DC 10 Intelligence ([Investigation](/3-Mechanics/CLI/skills.md#Investigation)) check uncovers the carts' main propulsion mechanism: dull pieces of the same iridescent crystal material used to power the elevator in area Z4 and the bucket conveyor in area Z7. Any character proficient in the [Arcana](/3-Mechanics/CLI/skills.md#Arcana) skill can tell that a crystal can be recharged by touching it and expending a spell slot of 1st level or higher.
+Die Minenwagen sind verwahrlost und rollen quietschend über die Gleise. Jeder Minenwagen soll selbstfahrend sein. Ein Charakter, der die Minenwagen untersucht und einen `SG-10-Intelligenzwurf` ([[01-Spielleiter/Fertigkeiten-phb#Nachforschungen|Nachforschungen]]) besteht, entdeckt ihren Hauptantriebsmechanismus: getrübte Teile desselben schimmernden Kristalls, defden Aufzug in Bereich Z4 und das EimerFörderband in Bereich Z7 antreibt. Charaktere, die in [[01-Spielleiter/Fertigkeiten-phb#Arkaner Kunde|Arkaner Kunde]] geübt sind, erkennen, dass der Kristall wiederaufgeladen werden kann. Dies geschieht durch Berührung und den Verbrauch eines Zauberplatzes des 1. Grades oder höher.
 
-Sobald die Wagen wiederaufgeladen sind, kann ein Charakter eine Weiche betätigen und die Minenwagen auf das Hauptgleis versetzen. Das Hauptgleis verläuft im Kreis und führt durch den Lagerraum (Bereich Z18), den Tagebau (Bereich Z15) und die Kristallhöhle (Bereich Z14).
+$\quad$Sobald die Wagen wiederaufgeladen sind, kann ein Charakter eine Weiche betätigen und die Minenwagen auf das Hauptgleis versetzen. Das Hauptgleis verläuft im Kreis und führt durch den Lagerraum (Bereich Z18), den Tagebau (Bereich Z15) und die Kristallhöhle (Bereich Z14).
 
 ##### Z13: Schätze
 
-The goblins have already looted the coin pouches of the skeletons. However, a character who succeeds on a DC 15 Intelligence ([Investigation](/3-Mechanics/CLI/skills.md#Investigation)) check can recover a cobweb-covered pair of [bracers of celerity](/3-Mechanics/CLI/items/bracers-of-celerity-pabtso.md) from one of the duergar.
+Die Goblins haben bereits die Geldbeutel der Skelette geplündert. Ein Charakter, der einen `SG-15- Intelligenzwurf` ([[01-Spielleiter/Fertigkeiten-phb#Nachforschungen|Nachforschungen]]) besteht, findet bei einem der Duergar jedoch von Spinnweben bedeckte [[Armschienen_der_Flinkheit-pabtso|Armschienen der Flinkheit]].
 
 #### Z14: Kristallhöhle
 
@@ -729,9 +729,9 @@ The goblins have already looted the coin pouches of the skeletons. However, a ch
 > Der Tunnel führt zu einer sechs Meter hohen, zylindrischen Kammer. Die Höhle sieht wie das Innere einer Geode aus: die Wände sind mit funkelnden Kristallen überzogen. Lorengleise verlaufen spiralförmig um die Höhle herum und führen dann tiefer in den Berg.
 ^1ff
 
-Three [gricks](/3-Mechanics/CLI/bestiary/aberration/grick-xmm.md) hide among the rocks and crystals, waiting to ambush potential prey.
+Drei [[Grick-mm|Gricks]] verstecken sich hier zwischen Felsen und Kristallen und warten darauf, mögliche Beute zu überfallen.
 
-The first time the characters enter this cavern, every character must make a DC 16 Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) check. On a failed check, a character is surprised by the gricks as the creatures attack.
+Wenn die Charaktere die Höhle zum ersten Mal betreten, muss jeder Charakter einen `SG-16-Weisheitswurf` ([[01-Spielleiter/Fertigkeiten-phb#Wahrnehmung|Wahrnehmung]]) ausführen. Scheitert der Wurf, ist der Charakter von den Angriffen der Gricks überrascht.
 
 ![Die Gricks in der Kristallhöhle sehen ihrer Umgebung unheimlich ähnlich.](Die_Tiefen_von_Phandelver-Der_zersplitterte_Obelisk/img/073-05-011-crystal-cavern-grick.webp#center "The gricks in the crystal cavern look eerily like their surroundings")
 
@@ -739,9 +739,9 @@ The first time the characters enter this cavern, every character must make a DC 
 
 Die schillernden Kristallsäulen in der Höhle funkeln vor magischer Energie. Die Kristalle können abgebaut werden, um verschiedene Maschinen im Außenposten anzutreiben, wie etwa den Aufzug in Bereich Z4, das Eimer-Förderband in Bereich Z7 und die Minenwagen in Bereich Z13.
 
-Charaktere können versuchen, die Kristallsäulen an den Wänden abzubauen.Jede Kristallsäule besitzt eine RK von 15, 25 Trefferpunkte und ist gegen Gift und psychischen Schaden immun. Wenn ein Charakter bei einer Säule Schaden bewirkt, muss der Charakter einen SG-16-Geschicklichkeitsrettungswurf bestehen, oder er erleidet 5 (`2W4`) Energieschaden, wenn die magische Energie der Kristalle auf ihn zurückschlägt.
+Charaktere können versuchen, die Kristallsäulen an den Wänden abzubauen.Jede Kristallsäule besitzt eine RK von 15, 25 Trefferpunkte und ist gegen Gift und psychischen Schaden immun. Wenn ein Charakter bei einer Säule Schaden bewirkt, muss der Charakter einen `SG-16-Geschicklichkeitsrettungswurf` bestehen, oder er erleidet 5 (`2W4`) Energieschaden, wenn die magische Energie der Kristalle auf ihn zurückschlägt.
 
-Sobald die Trefferpunkte einer Säule auf 0 sinken, zersplittert sie in `1W6` wiederverwertbare Splitter. Jeder Splitter kann als Zauberfokus verwendet werden. Zudem können sie die leeren Splitter beim Aufzug, beim EimerFörderband und bei den Minenwagen ersetzen, so dass keine Zauberplätze genutzt werden müssen. Die Splitter sind Zauberwirkern jeweils 15 GM wert.
+Sobald die Trefferpunkte einer Säule auf 0 sinken, zersplittert sie in `1W6` wiederverwertbare Splitter. Jeder Splitter kann als Zauberfokus verwendet werden. Zudem können sie die leeren Splitter beim Aufzug, beim Eimer-Förderband und bei den Minenwagen ersetzen, so dass keine Zauberplätze genutzt werden müssen. Die Splitter sind Zauberwirkern jeweils 15 GM wert.
 
 ##### Z14: Minenwagen
 
@@ -754,9 +754,9 @@ Die Gleise verlaufen durch die Kristallhöhle. Sie beginnen an der Klippe (Berei
 > Drei Ebenen aus Holzgerüsten säumen diese neun Meter hohe Klippe aus dunklem Stein. Auf dem untersten Gerüst graben sechs Gestalten an der Felswand. Entlang der Klippe verlaufen erhöhte, wackelige Gleise.
 ^203
 
-Three [feral ashenwights](/3-Mechanics/CLI/bestiary/undead/feral-ashenwight-pabtso.md) and three [psionic ashenwights](/3-Mechanics/CLI/bestiary/undead/psionic-ashenwight-pabtso.md) occupy the cliff's lowest scaffolding. They mimic the mining they did in life, clawing at the rock in search of precious material.
+Drei [[Wilder_Ascheschrecken-pabtso|wilde Ascheschrecken]] und drei [[Psionischer_Ascheschrecken-pabtso|psionische Ascheschrecken]] besetzen das unterste Gerüst der Klippe. Sie ahmen den Bergbau nach, den sie im Leben betrieben haben, indem sie auf der Suche nach Edelsteinen an den Felsen kratzen.
 
-Fixated on the rock wall, the feral ashenwights become hostile toward anyone who attacks them. The psionic ashenwights are aware of their surroundings and have seen Ruxithid and his entourage pass through the mine numerous times. A character can convince the psionic ashenwights to divulge where Ruxithid went by succeeding on a DC 15 Charisma ([Persuasion](/3-Mechanics/CLI/skills.md#Persuasion)) check or by offering coins or gems worth at least 50 gp total. The psionic ashenwights direct the characters to the sanctum crossing (area Z19).
+Die [[Wilder_Ascheschrecken-pabtso|wilden Ascheschrecken]] konzentrieren sich auf die Felswand und werden allen gegenüber feindlich gesinnt, die sie angreifen. Die [[Psionischer_Ascheschrecken-pabtso|psionischen Ascheschrecken]] sind sich ihrer Umgebung bewusst und haben [[Ruxithid_der_Auserwählte-pabtso|Ruxithid]] und sein Gefolge oft durch die Mine gehen sehen. Ein Charakter kann die psionischen Ascheschrecken mit einem `SG-15-Charismawurf` ([[01-Spielleiter/Fertigkeiten-phb#Überzeugen|Überzeugen]]) überreden, den Aufenthaltsort von [[Ruxithid_der_Auserwählte-pabtso|Ruxithid]] zu verraten. Ein Angebot von Münzen oder Edelsteinen im Gesamtwert von mindestens 50 GM hat denselben Effekt. Die [[Psionischer_Ascheschrecken-pabtso|psionischen Ascheschrecken]] weisen den Charakteren den Weg zum Übergang ins Heiligtum (Bereich Z19).
 
 ##### Z15: Minenwagen
 
@@ -769,34 +769,34 @@ Die Minenwagen fahren auf Gleisen auf der oberen Ebene des Gerüsts.
 > Der beißende Geruch von Abwasser bombardiert eure Sinne. Der Tunnel führt zu einer mit Schmutzwasser überfluteten Höhle. Tropfende Stalaktiten schränken die Sicht auf eine schwerfällige Masse aus schwarzem Chitin und blasser, durchscheinender Haut ein , die sich gierig am Abwasser labt.
 ^206
 
-The creature is an [otyugh mutate](/3-Mechanics/CLI/bestiary/aberration/otyugh-mutate-pabtso.md). Long ago, duergar miners captured and brought several otyughs from the Underdark to serve as a convenient way to dispose of the outpost's waste. The otyughs survived the mind flayers' attack, continuing to feast on the remains and waste of the illithids' prisoners; however, the aberrant energy exuded by the mind flayers warped the otyughs and their descendants. Now this mutated otyugh gorges itself on the goblin enclave's sewage.
+Bei der Kreatur handelt es sich um einen [[Otyugh-Mutant-pabtso|Otyugh-Mutanten]]. Vor langer Zeit haben Duergar-Minenarbeiter mehrere [[Otyugh-mm|Otyughs]] aus dem Unterreich gefangen und sie als praktische Abfallentsorger hierhergebracht. Die [[Otyugh-mm|Otyughs]] überlebten den Angriff der [[Gedankenschinder-mm|Gedankenschinder]] und ernährten sich weiterhin von den Überresten und Abfällen der Gefangenen der Illithiden. Allerdings verzerrte die aberrante Energie der Gedankenschinder die [[Otyugh-mm|Otyughs]] und ihre Nachkommen. Nun labt sich dieser mutierte [[Otyugh-mm|Otyugh]] am Abwasser der Goblin-Enklave.
 
-A character who succeeds on a DC 15 Intelligence ([Arcana](/3-Mechanics/CLI/skills.md#Arcana)) check recognizes the creature's den habits and diet as those of an otyugh, though its physical appearance is radically altered. Any character who encountered the otyugh beneath Barthen's well in Phandalin makes this check with advantage.
+Ein Charakter, der einen `SG-15-Intelligenzwurf` ([[01-Spielleiter/Fertigkeiten-phb#Arkane Kunde|Arkane Kunde]]) besteht, erkennt in den Gewohnheiten und der Ernährung der Kreatur einen [[Otyugh-mm|Otyugh]], obwohl sich sein Aussehen radikal verändert hat. Charaktere, die dem [[Otyugh-mm|Otyugh]] unter Barthens Brunnen in Phandalin begegnet sind, sind bei diesem Wurf im Vorteil.
 
-Characters who wish to avoid the otyugh mutate's notice must succeed on a DC 12 Dexterity ([Stealth](/3-Mechanics/CLI/skills.md#Stealth)) check. If the otyugh mutate notices an intruder in its den, it becomes hostile and attacks.
+Wenn Charaktere der Aufmerksamkeit des [[Otyugh-Mutant-pabtso|Otyugh-Mutanten]] entgehen wollen, müssen sie einen `SG-12-Geschicklichkeitswurf` ([[01-Spielleiter/Fertigkeiten-phb#Heimlichkeit|Heimlichkeit]]) bestehen. Bemerkt der [[Otyugh-Mutant-pabtso|Otyugh-Mutant]] Eindringlinge in seiner Höhle, wird er feindlich gesinnt und greift an.
 
 ##### Z16: Schätze
 
-The otyugh mutate's translucent skin provides a window into its stomach. Characters who have a passive Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) score of 14 or higher notice the glint of opalescent metal swirling around in its gut; this is a [luminous war pick](/3-Mechanics/CLI/items/luminous-war-pick-pabtso.md) that the otyugh mutate accidentally swallowed while feasting on the corpse of a goblin. The magic item can be easily retrieved from the otyugh mutate's body once it has been slain.
+Durch die durchscheinende Haut des Otyughs kann man in seinen Magen sehen. Charaktere mit einem passiven Weisheitswert ([[01-Spielleiter/Fertigkeiten-phb#Wahrnehmung|Wahrnehmung]]) von mindestens 14 bemerken glitzerndes Metall in seinem Bauch. Dabei handelt es sich um eine [[Leuchtende_Kriegspicke-pabtso|Leuchtende Kriegspicke]]. Der [[Otyugh-Mutant-pabtso|Otyugh-Mutant]] hat sie aus Versehen verschluckt, als er sich an der Leiche eines [[Goblin-mm|Goblins]] labte. Der magische Gegenstand kann leicht aus dem Körper des [[Otyugh-Mutant-pabtso|Otyugh-Mutanten]] geborgen werden, sobald dieser tot ist.
 
 #### Z17: Ilsensine-Schrein
 
 > [!readaloud] 
 > 
-> In dieser kargen Höhle befindet sich die Statue eines heldenhaften Zwergs in zeremonieller Rüstung. Das Denkmal ist jedoch in große Stücke zerbrochen. Der Kopf der Statue liegt auf dem Boden. In den Sockel der Statue wu rde ein seltsames Symbol gekritzelt. Schlieren eine r merkwürdigen dunklen, tropfenden Flüssigkeit verunstalten die Ikonografie.
+> In dieser kargen Höhle befindet sich die Statue eines heldenhaften Zwergs in zeremonieller Rüstung. Das Denkmal ist jedoch in große Stücke zerbrochen. Der Kopf der Statue liegt auf dem Boden. In den Sockel der Statue wurde ein seltsames Symbol gekritzelt. Schlieren eine r merkwürdigen dunklen, tropfenden Flüssigkeit verunstalten die Ikonografie.
 ^209
 
-A character who succeeds on a DC 17 Intelligence ([Religion](/3-Mechanics/CLI/skills.md#Religion)) check recognizes the iconography of the defaced shrine as that of Ilsensine, the patron deity of the illithid empire. The shrine was built atop a broken duergar statue, and someone has recently defaced it.
+Ein Charakter, der einen `SG-17-Intelligenzwurf` ([[01-Spielleiter/Fertigkeiten-phb#Religion|Religion]]) besteht, erkennt anhand der Ikonografie auf dem verunstalteten Schrein, dass er Ilsensine gewidmet ist, dem Schutzgott des Illithidenimperiums. Der Schrein wurde auf einer zerbrochenen Duergar-Statue errichtet und kürzlich von jemandem verunstaltet.
 
-Nachdem Ruxithid die Führung der Enklave übernommen hatte, entdeckten ein paar Goblins den Schrein und zerstörten ihn. Werden die Goblins gefragt, warum sie den Schrein zerstört haben, beharren sie darauf, dass sie die Anwesenheit des Schreins verabscheuen. Sie erläutern dies jedoch nicht näher. (Sie wissen nicht, dass der Drang zur Zerstörung des Schreins auf Ruxithids Verbindung zu Ilvaash zurückzuführen ist, einer Gottheit aus dem Fernen Reich, die Ilsensine verachtet.)
+Nachdem [[Ruxithid_der_Auserwählte-pabtso|Ruxithid]] die Führung der Enklave übernommen hatte, entdeckten ein paar [[Goblin-mm|Goblins]] den Schrein und zerstörten ihn. Werden die [[Goblin-mm|Goblins]] gefragt, warum sie den Schrein zerstört haben, beharren sie darauf, dass sie die Anwesenheit des Schreins verabscheuen. Sie erläutern dies jedoch nicht näher. (Sie wissen nicht, dass der Drang zur Zerstörung des Schreins auf [[Ruxithid_der_Auserwählte-pabtso|Ruxithids]] Verbindung zu Ilvaash zurückzuführen ist, einer Gottheit aus dem Fernen Reich, die Ilsensine verachtet.)
 
 ##### Z17: Böse Energie
 
-This monument is now infused with evil Far Realm energy. The first time a character touches or examines the shrine, the character must make a DC 20 Charisma saving throw. On a failed save, the character is plagued by a piercing headache, and whenever the character closes or opens their eyes, they briefly see a flash of shadowy, alien tendrils creeping at the edge of their vision. Additionally, the character has vulnerability to psychic damage. The effect lasts until it is ended by a spell or magical effect that lifts a curse, such as [greater restoration](/3-Mechanics/CLI/spells/greater-restoration-xphb.md) or [remove curse](/3-Mechanics/CLI/spells/remove-curse-xphb.md).
+Dieses Denkmal ist jetzt mit böser Energie aus dem Fernen Reich durchdrungen. Wenn ein Charakter den Schrein zum ersten Mal berührt oder untersucht, muss er einen `SG-20-Charismarettungswurf` ausführen. Scheitert der Wurf, leidet der Charakter unter stechenden Kopfschmerzen. Immer, wenn der Charakter die Augen schließt oder öffnet, blitzen schattenhafte, fremdartige Tentakel am Rande seines Sichtfelds auf. Zudem ist der Charakter anfällig für psychischen Schaden. Der Effekt hält an, bis er von einem Zauber oder magischem Effekt beendet wird, der einen Fluch aufhebt, beispielsweise [[Vollständige_Genesung-phb|Vollständige Genesung]] oder [[Fluch_brechen-phb|Fluch brechen]].
 
 ##### Z17: Schätze
 
-A character who interacts with the shrine and succeeds on a DC 15 Intelligence ([Investigation](/3-Mechanics/CLI/skills.md#Investigation)) check finds a [ring of mind shielding](/3-Mechanics/CLI/items/ring-of-mind-shielding-xdmg.md) in the rubble, left long ago during the mind flayers' reign as an offering to Ilsensine.
+Ein Charakter, der den Schrein untersucht und einen `SG-15-Intelligenzwurf` ([[01-Spielleiter/Fertigkeiten-phb#Nachforschungen|Nachforschungen]]) besteht, findet in den Trümmern einen [[Ring_der_Gedankenabschirmung-dmg|Ring der Gedankenabschirmung]], der vor langer Zeit während der Herrschaft der [[Gedankenschinder-mm|Gedankenschinder]] als Opfergabe für Ilsensine dargebracht wurde.
 
 #### Z18: Lagerraum
 
@@ -807,25 +807,25 @@ A character who interacts with the shrine and succeeds on a DC 15 Intelligence (
 > Ein riesiger, kegelförmiger Eisenbohrer, dessen Inneres mit loderndem, rotem Feuer brennt, stürmt mit einem durchdringenden Kreischen auf euch zu.
 ^20d
 
-The iron drill is a [fiendish auger](/3-Mechanics/CLI/bestiary/construct/fiendish-auger-pabtso.md), a remnant of the ancient duergar mining operation. It attacks the characters who enter the chamber.
+Beim Eisenbohrer handelt es sich um einen [[Teuflischer_Bohrer-pabtso|teuflischen Bohrer]], einem Überbleibsel des alten Duergar-Bergbaubetriebs. Er greift an, sobald die Charaktere die Kammer betreten.
 
 ##### Z18: Schätze
 
-In total, the various open crates around the chamber hold 30 pounds of unrefined iron ore. Characters can take this ore to the smith in Phandalin, who can refine the ore into seven iron ingots worth 25 gp each.
+Die offenen Kisten in der Kammer enthalten insgesamt 15 Kilogramm rohes Eisenerz. Charaktere können dieses Erz zur Schmiedin in Phandalin bringen, die es zu sieben Eisenbarren im Wert von jeweils 25 GM schmelzen kann.
 
-Additionally, three smaller, sealed crates are situated around the chamber. Each crate can be pried open with a successful DC 12 Strength ([Athletics](/3-Mechanics/CLI/skills.md#Athletics)) check. These crates contain the following:
+Zudem befinden sich in der Kammer drei kleinere, versiegelte Kisten. Die Kisten lassen sich mit einem erfolgreichen `SG-12-Stärkewurf` ([[01-Spielleiter/Fertigkeiten-phb#Athletik|Athletik]]) aufbrechen. In den Kisten befindet sich Folgendes:
 
-- A translucent, light-blue crystal shard veined with indigo light ([gem of brightness](/3-Mechanics/CLI/items/gem-of-brightness-xdmg.md))  
-- Four large chunks of blue quartz, worth 30 gp each  
-- A fist-sized amethyst worth 250 gp  
+- Ein durchscheinender, hellblauer Kristall mit indigoblauen Lichtadern ([[Edelstein_der_Helligkeit-dmg|Edelstein der Helligkeit]]).
+- Vier große Stücke Blauquarz im Wert von jeweils 30 GM.
+- Ein faustgroßer [[Amethyst-dmg|Amethyst]] im Wert von 250 GM.
 
 ##### Z18: Eimer-Förderband
 
-If the characters repaired the bucket conveyor system in the forge (area Z7), they can use the buckets to move between the mining level and the outpost level. A character attempting to ride the buckets must succeed on a DC 15 Dexterity ([Acrobatics](/3-Mechanics/CLI/skills.md#Acrobatics)) check or fall 10 feet to chamber floor, taking 3 (`1d6`) bludgeoning damage.
+Wenn die Charaktere das Eimer-Förderband in der Schmiede (Bereich Z7) repariert haben, können sie sich auf den Eimern zwischen der Mine und dem Außenposten bewegen. Charaktere, die versuchen, auf den Eimern zu fahren, müssen einen `SG-15-Geschicklichkeitswurf` ([[01-Spielleiter/Fertigkeiten-phb#Akrobatik|Akrobatik]]) bestehen. Scheitert der Wurf, stürzen sie drei Meter tief auf den Boden und erleiden 3 (`2W6`) Wuchtschaden.
 
 ##### Z18: Minenwagen
 
-The mine cart track runs through the storage chamber. The mine carts automatically slow—but do not stop completely—when they enter the chamber, allowing materials to be loaded safely.
+Die Gleise der Minenwagen verlaufen durch den Lagerraum. Wenn die Minenwagen in die Kammer fahren, werden sie automatisch langsamer, damit Materialien sicher aufgeladen werden können, halten aber nicht an.
 
 #### Z19: Übergang zum Heiligtum
 
@@ -838,11 +838,11 @@ Die Brücke und der Felsvorsprung vor dem Eingang des Heiligtums befinden sich b
 
 ##### Z19: Tür zum Heiligtum
 
-The door to the sanctum elevator is sealed. The circular engravings on the door form a magical lock that can be opened only with psionic energy. A character who studies the door and succeeds on a DC 15 Intelligence ([Arcana](/3-Mechanics/CLI/skills.md#Arcana)) check discerns the nature of the door's lock; if a character can read Dwarvish, the character makes this check with advantage since the door's magical runes are of dwarven origin.
+Die Tür zum Aufzug des Heiligtums ist versiegelt. Die kreisförmigen Gravuren auf der Tür bilden ein magisches Schloss, das nur mit psionischer Energie geöffnet werden kann. Ein Charakter, der die Tür untersucht und einen `SG-15-Intelligenzwurf` ([[01-Spielleiter/Fertigkeiten-phb#Arkane Kunde|Arkane Kunde]]) besteht, erkennt die Art des Schlosses. Wenn ein Charakter Zwergisch lesen kann, ist er bei diesem Wurf im Vorteil, da die magischen Runen auf der Tür zwergischen Ursprungs sind.
 
 Bei dem Schloss handelt es sich um einen kleinen magischen Gegenstand. Es besitzt eine RK von 12, 30 Trefferpunkte und ist bis auf psychischen Schaden gegen alle Schadensarten immun. Wenn dem Schloss Schaden zugefügt wird, leuchtet die grüne Energie der Gravierung immer heller. Wenn die Trefferpunkte des Schlosses auf O sinken, öffnet sich die Tür zum Heiligtum. Das Schloss und die Tür bleiben zehn Minuten lang offen - danach sind sie wieder versiegelt.
 
-If the characters can't deal psychic damage to the lock, they can attempt to convince a goblin psi brawler or goblin psi commander to do so by succeeding on a DC 12 Charisma ([Intimidation](/3-Mechanics/CLI/skills.md#Intimidation) or [Persuasion](/3-Mechanics/CLI/skills.md#Persuasion)) check (or they can bribe or charm the goblins). They can also open the lock with a successful DC 18 Dexterity check using [thieves' tools](/3-Mechanics/CLI/items/thieves-tools-xphb.md).
+Wenn die Charaktere dem Schloss keinen psychischen Schaden zufügen können, können sie versuchen, einen [[Goblin-Psi-Raufbold-pabtso|Goblin-Psi-Raufbold]] oder einen [[Goblin-Psi-Befehlshaber-pabtso|Goblin-Psi-Befehlshaber]] zu überreden. Dazu wird ein erfolgreicher `SG-12-Charismawurf` ([[01-Spielleiter/Fertigkeiten-phb#Einschüchtern|Einschüchtern]] oder [[01-Spielleiter/Fertigkeiten-phb#Überzeugen|Überzeugen]]) benötigt. Alternativ können die Goblins bestochen oder bezaubert werden. Sie können das Schloss auch mit [[Diebeswerkzeug]] und einem erfolgreichen `SG-18- Geschicklichkeitswurf` öffnen.
 
 Das Schloss und die Türen lassen sich leicht von innen öffnen. Die Tür führt zu einer kreisrunden Steinplattform mit 4,5 Metern Durchmesser, die sich automatisch zwischen dem Übergang und dem Heiligtum bewegt. Die Plattform fährt kontinuierlich auf und ab, wobei sie an jedem Ort eine Minute lang pausiert. Die Plattform benötigt 30 Sekunden für den Höhenunterschied von neun Metern zwischen dem Übergang und dem Inneren des Heiligtums.
 
@@ -882,11 +882,11 @@ Das Heiligtum besteht aus poliertem Obsidian. Die gewölbte Decke reicht sechs M
 
 #### Ruxithid der Auserwählte
 
-The goblin standing on the sanctum mezzanine is [Ruxithid the Chosen](/3-Mechanics/CLI/bestiary/npc/ruxithid-the-chosen-pabtso.md). Ruxithid's psionic abilities afford him a measure of rudimentary clairvoyance around the outpost, and thus the goblin leader is already aware of the characters' presence before they arrive.
+Bei dem Goblin auf der Zwischenebene des Heiligtums handelt es sich um [[Ruxithid_der_Auserwählte-pabtso|Ruxithid den Auserwählten]]. Ruxithids psionische Fähigkeiten verleihen ihm eine rudimentäre Hellsichtigkeit rund um den Außenposten. Daher ist sich der GoblinAnführer der Anwesenheit der Charaktere bereits vor ihrer Ankunft bewusst.
 
 ![Ruxithid the Chosen](Die_Tiefen_von_Phandelver-Der_zersplitterte_Obelisk/img/076-05-012-ruxithid-the-chosen.webp#center)
 
-Ruxithid speaks in an unnaturally calm, sing-song voice. At first, he attempts to be cordial to the characters. Unaware that his "mighty gods" are actually mind flayers, Ruxithid explains that he is a divine harbinger and that his quest for these shards is intended to bring about a metamorphosis of the Material Plane. However, any character who succeeds on a DC 16 Wisdom ([Insight](/3-Mechanics/CLI/skills.md#Insight)) check notices the peculiar way Ruxithid's eyes roll back into his head as he speaks: a telling sign that the goblin is having a second conversation within his mind, and that the words he speaks aren't entirely his own.
+Ruxithid spricht mit einer unnatürlich ruhigen, singenden Stimme. Zunächst versucht er, den Charakteren gegenüber die Etikette zu wahren. Ruxithid weiß nicht, dass seine „mächtigen Götter" in Wirklichkeit Gedankenschinder sind. Er erklärt, dass er ein göttlicher Vorbote ist und dass seine Suche nach den Splittern eine Metamorphose der materiellen Ebene herbeiführen wird. Ein Charakter, der einen `SG-16-Weisheitswurf` ([[01-Spielleiter/Fertigkeiten-phb#Motiv erkennen|Motiv erkennen]]) besteht, bemerkt jedoch, wie Ruxithids Augen beim Sprechen in seinen Kopf zurückrollen: ein deutliches Zeichen dafür, dass der Goblin ein zweites Gespräch in seinem Kopf führt und dass die Worte, die er spricht, nicht ganz seine eigenen sind.
 
 ### Konfrontation im Heiligtum
 
@@ -897,7 +897,7 @@ Wenn die Charaktere keine Anzeichen dafür zeigen, sich Ruxithid anzuschließen,
 > Grünes Licht pulsiert aus Ruxithids Brust und rast zur massiven Zwergenstatue. Das Licht gräbt sich wie ein Parasit in ihr zerschmettertes Gesicht und dringt durch die Risse. Die Statue taumelt vorwärts und lächelt immer noch, als Ruxithid ihr befiehlt, euch zu töten .
 ^21a
 
-The statue is a [shield guardian](/3-Mechanics/CLI/bestiary/construct/shield-guardian-xmm.md) under Ruxithid's control and fights alongside its master. The shield guardian stores a [phantasmal killer](/3-Mechanics/CLI/spells/phantasmal-killer-xphb.md) spell from its original duergar creator and Ruxithid can command the Construct to cast it. If this fight seems too easy for the party, add two [goblin psi brawlers](/3-Mechanics/CLI/bestiary/aberration/goblin-psi-brawler-pabtso.md), who rush from Zorzula's Rest to join the combat in 3 rounds.
+Bei der Statue handelt es sich um einen [[Schildwächter-mm|Schildwächter]], der unter Ruxithids Kontrolle steht und an Seite seines Meisters kämpft. Der [[Schildwächter-mm|Schildwächter]] bewahrt den Zauber [[Tödliches_Phantom-phb|Tödliches Phantom]] von seinem ursprünglichen Duergar-Schöpfer auf. Ruxithid kann dem Konstrukt befehlen, ihn zu wirken. Wenn dieser Kampf zu einfach für die Abenteurergruppe scheint, füge zwei [[Goblin-Psi-Raufbold-pabtso|Goblin-Psi-Raufbolde]] hinzu, die aus Zorzulas Ruh herbeieilen und sich in drei Runden dem Kampf anschließen.
 
 Während des Kampfs nutzt Ruxithid seine psionischen Kräfte, um über dem Getümmel zu schweben. Er fliegt hinab, um Angriffe auszuführen, während er dem Schildwächter - und den beiden anderen Goblins, sofern sie ebenfalls anwesend sind - befiehlt, das größten Teil des Schadens einzustecken. Ruxithid kämpft bis zum Tod. Wenn seine Trefferpunkte jedoch auf O sinken, wird der Schildwächter unbelebt und die anderen Goblins - falls anwesend - ergeben sich.
 
@@ -921,11 +921,11 @@ Die Gedankenschinder-Fanatiker haben den Kristall psionisch aufgeladen und genut
 
 Die Nachricht, die nach Ruxithids Ableben für die Charaktere ertönt, ist der letzte Befehl der Gedankenschinder an ihn: Er soll die verbleibenden drei Obeliskensplitter in Talhundereth, der Talhund-Gruft und in Galgenkreuz finden und hierherbringen (weitere Informationen zu diesen Orten findest du in den folgenden Kapiteln).
 
-Any character who hears the message can make a DC 13 Intelligence ([Religion](/3-Mechanics/CLI/skills.md#Religion)) check. On a successful check, the character realizes that the message's tone as well as the means of communication are unlike any known divine tradition—this is some other kind of powerful entity or group of entities, posing as gods to accomplish their malign ends.
+Jeder Charaktere, der diese Nachricht hört, kann einen `SG-13-Intelligenzwurf` ([[01-Spielleiter/Fertigkeiten-phb#Religion|Religion]]) ausführen. Bei einem Erfolg erkennt der Charaktere, dass der Ton und der Kommunikationsweg keiner bekannten göttlichen Tradition entspricht - es handelt sich um eine andere mächtige Entität oder Gruppe von Entitäten, die sich als Gottheiten ausgeben, um ihren bösartigen Zwecken nachzugehen
 
 ##### Schlüssel
 
-Ruxithid carries a key to his personal quarters (area Z10 in Zorzula's Rest).
+Ruxithid trägt einen Schlüssel zu seinem Gemach (Bereich Z10 in Zorzulas Ruh) bei sich.
 
 ![](Die_Tiefen_von_Phandelver-Der_zersplitterte_Obelisk/img/077-05-013-hostage.webp#center)
 
@@ -933,13 +933,13 @@ Ruxithid carries a key to his personal quarters (area Z10 in Zorzula's Rest).
 
 Die Goblins benutzen den Westflügel des Heiligtums für die Entführungsopfer. Die meisten von ihnen wurden als „Opfergaben für die Götter" - beziehungsweise als Nahrung für die Gedankenschinder - an einen anderen Ort gebracht. Einige wurden jedoch für untauglich erachtet und in den Tiefen des Heiligtums dem Hungertod überlassen.
 
-There are three hostages here, and all use the [commoner](/3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md) stat block. They are Dareth Grint, a human farmer who is Townmaster Harbin Wester's second cousin; Paulina Previne, a human stable hand who occasionally works at the Stonehill Inn; and Tumblewick Rollins, a gnome apothecary,
+Hier befinden sich drei Geiseln. Alle nutzen den Wertekasten von [[Gemeiner-mm|Gemeinen]]. Es handelt sich um Dareth Grint, einen menschlichen Bauern und Cousin zweiten Grads von Bürgermeister Harbin Wester, Paulina Previne, eine menschliche Stallmagd, die gelegentlich im Gasthaus Steinhügel arbeitet, und Tumblewick Rollins, ein Gnomenapotheker.
 
 Sie sind kränklich und kaum bei Bewusstsein. Die Goblins haben ihnen nicht viel erklärt. Daher können sie sich nur an wenige Dinge aus ihrer Zeit als Gefangene erinnern:
 
-- **Stone Pillar.** The goblins were fixated on reassembling some kind of stone pillar.  
-- **Victims Elsewhere.** More victims were here at one point. However, those victims were taken somewhere else by the goblins for a "special purpose."  
-- **War Room.** Ruxithid used the east wing of the sanctum as his war room.  
+- **Steinsäule.** Die Goblins waren darauf fixiert, eine Art Steinsäule wieder zusammenzusetzen.
+- **Opfer andernorts.** Es gab hier mehr Geiseln. Diese wurden jedoch von den Goblins für einen „besonderen Zweck" an einen anderen Ort gebracht.
+- **Einsatzzentrale.** Ruxithid benutzt den Ostflügel des Heiligtums als seine Einsatzzentrale.
 
 ##### Einsatzzentrale
 
@@ -947,7 +947,7 @@ Im Ostflügel des Heiligtums befindet sich Ruxithids Einsatzzentrale, wo er die 
 
 Charaktere, die diesen Raum untersuchen, finden auf dem Tisch in der Mitte eine grobe Karte der Region mit unordentlichen Pfeilen und gekritzelten Beschriftungen wie „Galgenkreuz", ,,Talhund-Gruft" und „Talhundereth". (Diese Karte der Sägezank-Goblins ist im Infomaterial für Spieler in Kapitel 6 zu finden.)
 
-A character who succeeds on a DC 15 Intelligence ([Investigation](/3-Mechanics/CLI/skills.md#Investigation)) check also discovers a rough sketch of a broken obelisk made of dark stone. Four of the broken chunks in the drawing are crossed out, while three are circled. This is a sketch of the Netherese obelisk, with the four crossed-out pieces corresponding to the shards found in Phandalin and the three circled pieces corresponding to the three pieces left to find. Ruxithid's overlords described the obelisk to him and used powers drawn from the Far Realm to roughly locate the obelisk's scattered pieces.
+Ein Charakter, der einen `SG-15-Intelligenzwurf` ([[01-Spielleiter/Fertigkeiten-phb#Nachforschungen|Nachforschungen]]) besteht, entdeckt außerdem eine grobe Skizze eines zerbrochenen Obelisken aus dunklem Stein. Vier zerbrochene Stücke in der Zeichnung sind durchgestrichen, drei sind eingekreist. Dies ist eine Skizze des nesserilischen Obelisken. Die vier durchgestrichenen Stücke entsprechen den in Phandalin gefundenen Splittern, die drei eingekreisten Stücke denen, die es noch zu finden gilt. Ruxithids Gebieter beschrieben ihm den Obelisken und nutzten Kräfte aus dem Fernen Reich, um die ungefähren Standorte der Splitter zu finden.
 
 ##### Die Sägezank-Goblins
 

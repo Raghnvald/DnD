@@ -5,7 +5,9 @@ Bezeichnung: Ruxithid der Auserwählte
 Kategorie: Aberration (Goblinoid)
 Größe: Mittelgroß
 HG: 5
-image: ruxithid-the-chosen-pabtso.webp
+Habitat:
+  - /
+image: token/ruxithid-the-chosen-pabtso.webp
 status: WIP
 tags:
   - Monster/Größe/Mittelgroß
@@ -13,7 +15,6 @@ tags:
   - Monster/Typ/Aberration/Goblinoid
   - Quelle/5e/pabtso
 aliases:
-  - Ruxithid der Auserwählte
   - Ruxithid the Chosen
 linter-yaml-title-alias: Ruxithid der Auserwählte
 ---

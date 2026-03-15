@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Cloak of the Bat
 tags:
   - Gegenstand/Einstimmung/required
@@ -10,11 +8,11 @@ aliases:
   - Cloak of the Bat
 linter-yaml-title-alias: Cloak of the Bat
 ---
-# Cloak of the Bat
-*Wondrous item, major, rare (requires attunement)*  
+# Umhang der Fledermaus 
+*Wundersamer Gegenstand, selten (erfordert Einstimmung)*  
 
-While wearing this cloak, you have advantage on Dexterity ([Stealth](/3-Mechanics/CLI/skills.md#Stealth)) checks. In an area of dim light or darkness, you can grip the edges of the cloak with both hands and use it to fly at a speed of 40 feet. If you ever fail to grip the cloak's edges while flying in this way, or if you are no longer in dim light or darkness, you lose this flying speed.
+Beim Tragen dieses Umhangs hast du einen Vorteil bei Würfen auf Geschicklichkeit ([[01-Spielleiter/Fertigkeiten-phb#Heimlichkeit|Heimlichkeit]]). In einem Bereich von dämmrigem Licht oder Dunkelheit kannst du die Ränder des Umhangs mit beiden Händen ergreifen, um auf diese Weise mit einer Bewegungsrate von 12 Metern zu fliegen. Wenn du die Ränder des Umhangs beim Fliegen nicht fassen kannst oder dich nicht mehr in dämmrigem Licht oder Dunkelheit befindest, verlierst du die Flugbewegungsrate. 
 
-While wearing the cloak in an area of dim light or darkness, you can use your action to cast [polymorph](/3-Mechanics/CLI/spells/polymorph.md) on yourself, transforming into a [bat](/3-Mechanics/CLI/bestiary/beast/bat.md). While you are in the form of the [bat](/3-Mechanics/CLI/bestiary/beast/bat.md), you retain your Intelligence, Wisdom, and Charisma scores. The cloak can't be used this way again until the next dawn.
+Beim Tragen des Umhangs in einem Bereich von dämmrigem Licht oder Dunkelheit kannst du eine Aktion verwenden, um [[Verwandlung-phb|Verwandlung]] auf dich zu wirken und dich in eine [[Fledermaus-xmm|Fledermaus]] zu verwandeln. Während du in der Gestalt der [[Fledermaus-xmm|Fledermaus]] bist, behältst du deine Intelligenz-, Weisheit-, und Charismawerte. Der Umhang kann bis zur nächsten Morgendämmerung nicht mehr auf diese Art benutzt werden. 
 
 *Source: Dungeon Master's Guide p. 159. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

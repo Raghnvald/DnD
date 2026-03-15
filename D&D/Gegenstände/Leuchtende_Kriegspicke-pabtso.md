@@ -12,14 +12,14 @@ aliases:
 linter-yaml-title-alias: Luminous War Pick
 ---
 # Luminous War Pick
-*Weapon ([war pick](Kriegshacke-xphb.md)), rare (requires attunement)*  
-![](Gegenstände/img/luminous-war-pick.webp#right)
+*Waffe ([Kriegshacke](Kriegshacke-xphb.md)), selten (erfordert Einstimmung)*  
+![](img/luminous-war-pick.webp#right)
 
-- **Damage**: 1d8 piercing
-- **Weight**: 2.0 lbs.
+- **Schaden**: 1d8 Stich
+- **Gewicht**: 1,5 kg.
 
-The haft of this war pick is inlaid with crushed pearlescent stones that imbue the weapon with a faint luminescence. You gain a +1 bonus to attack and damage rolls made with this war pick.
+Der Stiel dieser Kriegspicke ist mit Intarsien aus zerstoßenen perlmuttartigen Steinen geschmückt, die die Waffe schwach leuchten lassen. Du erhältst einen Bonus von + 1 auf Angriffs- und Schadenswürfe, die du mit dieser Kriegspicke ausführst.
 
-While wielding the war pick, you can use a bonus action to cast the [daylight](/3-Mechanics/CLI/spells/daylight-xphb.md) spell, choosing a point on the war pick. Once you use this bonus action, it can't be used again until the next dawn.
+Wenn du die Kriegspicke führst, kannst du als Bonusaktion den Zauber [[Tageslicht-phb|Tageslicht]] wirken, wobei du einen Punkt auf der Kriegspicke bestimmst. Nachdem du diese Bonusaktion verwendet hast, kannst du sie erst im nächsten Morgengrauen erneut verwenden.
 
-*Source: Phandelver and Below: The Shattered Obelisk p. 217*
+*Quelle: Die Tiefen von Phandelver: Der zersplitterte Obelisk S. 220*

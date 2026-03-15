@@ -28,3 +28,8 @@ If you can attune to this item, you can use it as a spellbook and an arcane focu
 While attuned to the book, you can remove the tongue from the book's cover. If you do so, all spells written in the book are permanently erased.
 
 Vecna watches anyone using this tome. He can also write cryptic messages in the book. These messages appear at midnight and fade away after they are read.
+
+
+---
+
+Gem of Seeing

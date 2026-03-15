@@ -1,7 +1,14 @@
 ---
 statblock: inline
 statblock-link: "#^statblock"
-Bezeichnung: Otyugh Mutate
+Bezeichnung: Otyugh-Mutant
+Kategorie: Aberration
+Größe: Groß
+HG: 6
+Habitat:
+  - /
+image: token/otyugh-mutate-pabtso.webp
+status: completed
 tags:
   - Monster/Größe/Groß
   - Monster/HG/6
@@ -11,84 +18,63 @@ aliases:
   - Otyugh Mutate
 Image: aberration/token/otyugh-mutate-pabtso.webp
 ---
-# Otyugh Mutate
-*Source: Phandelver and Below: The Shattered Obelisk p. 213*  
+# Otyugh-Mutant
+*Quelle: Die Tieffen von Phandelver: Der zersplitterte Obelisk S. 213*  
 
-Rising from piles of carrion and filth exposed to Far Realm energy, an otyugh mutate grows chitinous, jet-black plating over its limbs. The plates contrast sharply with the translucent, almost ghostly, appearance of its flesh, which provides a grotesque window into the virulent refuse the otyugh recently consumed.
+Ein Otyugh-Mutant kann aus Abfall- und Aashaufen entstehen, die der Energie des Femen Reichs ausgesetzt sind. Diese Mutanten entwickeln tiefschwarze Chitinpanzerplatten an ihren Gliedmaßen. Im Gegensatz zu den Panzerplatten sind die Muskeln glasig und fast geisterhaft. Durch diese grotesken Fenster ins Innere des Otyugh kann man einen grotesken Blick auf den giftigen Abfall erhaschen, den er gefressen hat.
 
-## Mutates
+## Mutanten
 
-A creature exposed to the strange energy of the Far Realm risks developing mutations. Such a creature undergoes a metamorphosis as the powers of the Far Realm rewrite the fundamentals of the creature's existence.
+Wenn eine Kreatur der mysteriösen Energie des Fernen Reichs ausgesetzt ist, kann es zu Mutationen kommen. Wenn die Kräfte des Fernen Reichs die Grundbausteine einer solchen Kreatur umformen, beginnt eine Metamorphose.
 
-Any creature can become a mutate and transform to exhibit physical characteristics associated with the Far Realm. Some creatures become mutates after prolonged exposure to Far Realm energy or magic drawn from that strange plane. Others deliberately change themselves, seeking to embrace the fell powers they worship. Creatures that become mutates often inexplicably change back to their previous forms once the Far Realm influence abates.
+$\quad$Jede beliebige Kreatur kann zum Mutanten werden und körperliche Merkmale entwickeln, die aus den Fernen Reich stammen. Manche Kreaturen werden zu Mutanten, wenn sie über längere Zeit der Energie des Fernen Reichs oder von dort stammender Magie ausgesetzt sind. Andere verändern sich willentlich - sie begrüßen und verehren die finsteren Mächte. Kreaturen, die zu Mutanten werden, kehren in vielen Fällen wieder zu ihrer ursprünglichen Form zurück, sobald der Einfluss des Fernen Reichs nachlässt.
 
-Forcing a transformation on creatures inexplicably fails, though evil forces—such as the mind flayer empire of old—have conducted much research on the topic. For centuries, mind flayers have tried to create armies of mutates to sweep through the Underdark. However, their efforts always proved fruitless, and eventually the mind flayers gave up their schemes.
+$\quad$Unerklärlicherweise scheitern jegliche Versuche, Kreaturen zu solchen Transformationen zu zwingen - auch wenn böse Mächte wie das alte Imperium der Gedankenschinder diese Möglichkeit gründlich erforscht haben. Seit Jahrhunderten versuchen die Gedankenschinder, Mutantenarmeen zu erschaffen, um das Unterreich zu überrollen. Ihre Anstrengungen erwiesen sich jedoch immer als erfolglos, und irgendwann gaben die Gedankenschinder ihre Pläne auf.
 
-Several common types of mutates exist. The individuals with stat blocks presented in this section are found in the preceding adventure, although other mutates exist. Some creatures are more prone to becoming Far Realm mutates, such as the cloaker and otyugh.
+$\quad$Es gibt mehrere verbreitete Mutantenarten. Die in diesem Abschnitt enthaltenen Wertekästen kommen im vorliegenden Abenteuer vor, es existieren jedoch auch andere Mutanten. Manche Kreaturen neigen eher dazu, zu Mutanten des Fernen Reichs zu werden. Das gilt zum Beispiel für den Mantler und den Otyugh auf den folgenden Seiten.
 
-Mutates often gain psionic abilities, grow wings, become covered in otherworldly slime, or exhibit other unsettling traits. Specific mutated creatures are further described in appendix A.
+$\quad$Mutanten erlangen häufig psionische Fähigkeiten, Flügel, eine Hülle aus außerweltlichem Schleim oder andere verstörende Eigenschaften. Spezifisch mutierte Kreaturen werden in den folgenden Abschnitten näher beschrieben.
 
 ```statblock
-"name": "Otyugh Mutate (PaBTSO)"
-"size": "Large"
-"type": "aberration"
-"alignment": "typically  Neutral"
-"ac": !!int "16"
-"ac_class": "natural armor"
-"hp": !!int "76"
-"hit_dice": "8d10 + 32"
-"modifier": !!int "0"
-"stats":
-  - !!int "19"
-  - !!int "11"
-  - !!int "18"
-  - !!int "10"
-  - !!int "15"
-  - !!int "6"
-"speed": "30 ft."
-"saves":
-  - "strength": !!int "7"
-  - "constitution": !!int "7"
-"damage_immunities": "poison"
-"condition_immunities": "[poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 12"
-"languages": "Otyugh, telepathy 120 ft."
-"cr": "6"
-"traits":
-  - "desc": "Noxious gas from the mutate's digestion of previous meals spews from\
-      \ its mouth. At the start of the mutate's turn, each creature within 5 feet\
-      \ of it must succeed on a DC 15 Constitution saving throw or take 3 (1d6) poison\
-      \ damage."
-    "name": "Virulent Breath"
-"actions":
-  - "desc": "The mutate makes two Bite or Tentacle attacks. It can replace one of\
-      \ these attacks with Chitin Slam."
-    "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 13\
-      \ (2d8 + 4) piercing damage. If the target is a creature, it must succeed on\
-      \ a DC 15 Constitution saving throw or have the [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)\
-      \ condition. Every 24 hours that elapse, the target must repeat the saving throw,\
-      \ reducing its hit point maximum by 5 (1d10) on a failure. On a successful save,\
-      \ the target is no longer [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned).\
-      \ The target dies if its hit point maximum is reduced to 0. This reduction to\
-      \ the target's hit point maximum lasts until it no longer has the [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)\
-      \ condition."
-    "name": "Bite"
-  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:* 13\
-      \ (2d8 + 4) bludgeoning damage, and if the target is a Medium or smaller creature,\
-      \ it has the [grappled](/3-Mechanics/CLI/conditions.md#Grappled) condition (escape\
-      \ DC 15) and the [restrained](/3-Mechanics/CLI/conditions.md#Restrained) condition\
-      \ until this grapple ends. The mutate has two tentacles that can grapple one\
-      \ target each."
-    "name": "Tentacle"
-  - "desc": "The mutate targets one creature it is grappling, slamming the creature\
-      \ against its chitinous plating. The creature must succeed on a DC 15 Constitution\
-      \ saving throw or take 16 (3d10) bludgeoning damage and have the [stunned](/3-Mechanics/CLI/conditions.md#Stunned)\
-      \ condition until the end of the mutate's next turn."
-    "name": "Chitin Slam"
-"source":
-  - "PaBTSO"
-"image": "aberration/token/otyugh-mutate-pabtso.webp"
+name: Otyugh-Mutant
+image: token/otyugh-mutate-pabtso.webp
+source:
+  - PaBTSO
+size: Groß
+type: Aberration
+alignment: normalerweite neutral
+ac: 16
+ac_class: natürliche Rüstung
+hp: 76
+hit_dice: 8d10 + 32
+modifier: 0
+stats:
+  - 19
+  - 11
+  - 18
+  - 10
+  - 15
+  - 6
+speed: 9 m
+saves:
+  - Stärke: 7
+  - Konstitution: 7
+damage_immunities: Gift
+condition_immunities: <STATBLOCK-MARKDOWN-LINK>Zustände-phb#Vergiftet|vergiftet<STATBLOCK-MARKDOWN-LINK>
+senses: <STATBLOCK-MARKDOWN-LINK>Sinne-phb#Dunkelsicht|Dunkelsicht<STATBLOCK-MARKDOWN-LINK> 36 m, passive Wahrnehmung 12
+languages: Otyugh, Telepathie auf 36 m
+cr: "6"
+traits:
+  - name: Giftatem
+    desc: "Aus dem Verdauungstrakt des Mutanten quellen giftige Gase hervor. Zu Beginn des Zugs des Mutanten muss jede Kreatur im Abstand von bis zu 1,5 Metern von ihm einen `SG-15-Konstitutionsrettungswurf` bestehen, oder sie erleidet 3 (1d6) Giftschaden."
+actions:
+  - name: Mehrfachangriff
+    desc: Der Mutant führt zwei Biss- oder Tentakelangriffe aus. Er kann einen dieser Angriffe durch einen Chitinhieb ersetzen.
+  - name: Biss
+    desc: "*Nahkampf-Waffenangriff:* +7 zum Treffen, Reichweite 1,5 m, ein Ziel. *Treffer:* 13 (2d8 + 4) Stichschaden. Wenn das Ziel eine Kreatur ist, muss es einen `SG-15-Konstitutionsrettungswurf` bestehen, oder es ist <STATBLOCK-MARKDOWN-LINK>Zustände-phb#Vergiftet|vergiftet<STATBLOCK-MARKDOWN-LINK>. Nach jeweils 24 Stunden muss das Ziel den Rettungswurf wiederholen. Scheitert der Wurf, wird sein Trefferpunktemaximum um 5 (1d10) verringert. Bei einem erfolgreichen Rettungswurf ist das Ziel nicht mehr <STATBLOCK-MARKDOWN-LINK>Zustände-phb#Vergiftet|vergiftet<STATBLOCK-MARKDOWN-LINK>. Diese Verringerung des Trefferpunktemaximums des Ziels hält an, bis es nicht mehr <STATBLOCK-MARKDOWN-LINK>Zustände-phb#Vergiftet|vergiftet<STATBLOCK-MARKDOWN-LINK> ist."
+  - name: Tentakel
+    desc: "*Nahkampf-Waffenangriff:* +7 zum Treffen, Reichweite 3 m, ein Ziel. *Treffer:* 13 (2d8 + 4) Wuchtschaden. Wenn das Ziel eine höchstens mittelgroße Kreatur ist, wird es <STATBLOCK-MARKDOWN-LINK>Zustände-phb#Gepackt|gepackt<STATBLOCK-MARKDOWN-LINK> (Rettungswurf-SG 15) und ist <STATBLOCK-MARKDOWN-LINK>Zustände-phb#Festgesetzt|festgesetzt<STATBLOCK-MARKDOWN-LINK> bis es nicht mehr gepackt ist. Der Mutant hat zwei Tentakel, die jeweils ein Ziel packen können."
+  - name: Chitinhieb
+    desc: "Der Mutant zielt auf eine Kreatur, die er gepackt hat und schmettert sie gegen seine Chitinpanzerung. er gepackt hat und schmettert sie gegen seine Chitinpanzerung. Die Kreatur muss einen `SG-15-Konstitutionsrettungswurf` bestehen, oder sie erleidet 16 (3d10) Wuchtschaden und ist bis zum Ende des nächsten Zugs des Mutanten <STATBLOCK-MARKDOWN-LINK>Zustände-phb#Betäubt|betäubt<STATBLOCK-MARKDOWN-LINK>."
 ```
 ^statblock

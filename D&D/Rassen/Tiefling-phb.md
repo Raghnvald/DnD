@@ -9,7 +9,7 @@ aliases:
 ---
 # Tiefling
 *Source: Player's Handbook p. 42. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
-![](/3-Mechanics/CLI/races/img/tiefling.webp#right)
+![](img/tiefling.webp#right)
 
 - **Ability Scores**: cha +2 int +1
 - **Size**: Medium

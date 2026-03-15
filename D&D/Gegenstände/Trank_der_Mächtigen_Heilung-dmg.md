@@ -1,18 +1,16 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Potion of Greater Healing
+Bezeichnung: Trank der Mächtigen Heilung
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/wundersam/Trank
   - Quelle/5e/dmg
 aliases:
   - Potion of Greater Healing
-linter-yaml-title-alias: Potion of Greater Healing
+linter-yaml-title-alias: Trank der Mächtigen Heilung
 ---
-# Potion of Greater Healing
-*Potion, minor, uncommon*  
+# Trank der Mächtigen Heilung
+*Trank, ungewöhnlich*  
 
-You regain `4d4 + 4` hit points when you drink this potion. The potion's red liquid glimmers when agitated.
+Ein Charakter, der die magische rote Flüssigkeit aus der Phiole trinkt, erhält `4W4 + 4` Trefferpunkte zurück. Den Trank zu trinken oder zu verabreichen, benötigt eine Aktion.
 
-*Source: Dungeon Master's Guide p. 187. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+*Quelle: Spielleiterhandbuch S. 166. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span>*

@@ -1,6 +1,12 @@
 ---
 Bezeichnung: Revolver
 Kategorie: Fernkampf-Kriegswaffe
+Schaden: 2d8 Stich
+Eigenschaften: Geschosse, Nachladen (6 Schuss)
+Einstimmung: /
+RW: 12m /36m
+Kst.: /
+Gew.: 1,5 kg.
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/Fernkampf
@@ -12,11 +18,11 @@ aliases:
 linter-yaml-title-alias: Revolver
 ---
 # Revolver
-*Weapon*  
+*Waffe*  
 
-- **Damage**: 2d8 piercing
-- **Range**: 40/120
-- **Properties**: [Ammunition](/3-Mechanics/CLI/item-properties.md#Ammunition), [Reload](/3-Mechanics/CLI/item-properties.md#Reload)
-- **Weight**: 3.0 lbs.
+- **Schaden**: 2d8 Stich
+- **Reichweite**: 12/36
+- **Eigenschaften**:  [Geschosse](Gegenstandseigenschaften-phb#Geschosse), [Nachladen](Gegenstandseigenschaften-phb#Nachladen)
+- **Gewicht**: 3.0 lbs.
 
 *Source: Dungeon Master's Guide p. 268*

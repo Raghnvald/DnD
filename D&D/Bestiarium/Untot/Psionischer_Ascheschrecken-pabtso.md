@@ -65,15 +65,15 @@ actions:
   - name: Mehrfachangriff
     desc: Der Ascheschrecken führt zwei Nekrotischer-Splitter-Angriffe aus. Er setzt auch seine Psionische Krone ein, falls sie verfügbar ist.
   - name: Nekrotischer Splitter
-    desc: "*Melee  or Ranged Weapon Attack:* +7 to hit, reach 5 ft. or range 60 ft., one target. *Hit:* 7 (1d6 + 4) piercing damage plus 9 (2d8) necrotic damage. If the target is a creature, it has disadvantage on the next attack roll it makes before the end of its next turn."
+    desc: "*Nahkampf- oder Fernkampf-Waffenangriff:* +7 zum Treffen, Reichweite 1,5 m oder 18 m, ein Ziel. *Treffer:* 7 (1d6 + 4) Stichschaden plus 9 (2d8) nekrotischer Schaden. Wenn das Ziel eine Kreatur ist, ist es bei seinem nächsten Angriffswurf vor dem Ende seines nächsten Zugs im Nachteil."
   - name: Psionische Krone (Aufladung 5-6)
-    desc: The ashenwight wreathes the head of a creature it can see within 60 feet of itself with a crown of jagged, spectral crystals. The target must succeed on a DC 14 Wisdom saving throw or have the <STATBLOCK-MARKDOWN-LINK>/3-Mechanics/CLI/conditions.md#Charmed|charmed<STATBLOCK-MARKDOWN-LINK> condition for 1 minute. While <STATBLOCK-MARKDOWN-LINK>/3-Mechanics/CLI/conditions.md#Charmed|charmed<STATBLOCK-MARKDOWN-LINK> in this way, the target's thoughts are sluggish; it can't take reactions, its speed is halved, and it takes 9 (2d8) psychic damage at the start of each of its turns. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+    desc: "Der Ascheschrecken bekränzt den Kopf einer Kreatur, die er im Abstand von bis zu 18 Metern von sich sehen kann, mit einer Krone aus spitzen, geisterhaften Kristallen. Das Ziel muss einen `SG-14- Weisheitsrettungswurf` bestehen, oder es ist eine Minute lang <STATBLOCK-MARKDOWN-LINK>Zustände-phb#Bezaubert|bezaubert<STATBLOCK-MARKDOWN-LINK>. Während es auf diese Weise <STATBLOCK-MARKDOWN-LINK>Zustände-phb#Bezaubert|bezaubert<STATBLOCK-MARKDOWN-LINK> ist, sind die Gedanken des Ziels verlangsamt. Es kann keine Reaktionen verwenden, seine Bewegungsrate ist halbiert und es erleidet zu Beginn jedes seiner Züge 9 (2d8) psychischen Schaden. Das Ziel kann den Rettungswurf am Ende jedes seiner Züge wiederholen und den Effekt bei einem Erfolg beenden."
   - name: Zauberwirken (Psionik)
     desc: |-
-      The ashenwight casts one of the following spells, requiring no spellcasting components and using Intelligence as the spellcasting ability (spell save DC 14):
+      Der Ascheschrecken wirkt einen der folgenden Zauber. Er benötigt dazu keine Komponenten und verwendet Intelligenz als Attribut zum Zauberwirken (Zauberrettungswurf-SC 14):
 
-      **At will:** <STATBLOCK-MARKDOWN-LINK>/3-Mechanics/CLI/spells/mage-hand-xphb.md|mage hand<STATBLOCK-MARKDOWN-LINK> (the hand is invisible)
+      **Beliebig oft:** <STATBLOCK-MARKDOWN-LINK>Magierhand-phb|Magierhand<STATBLOCK-MARKDOWN-LINK> (die Hand ist unsichtbar)
 
-      **1/day:** <STATBLOCK-MARKDOWN-LINK>/3-Mechanics/CLI/spells/calm-emotions-xphb.md|calm emotions<STATBLOCK-MARKDOWN-LINK>
+      **1-mal täglich:** <STATBLOCK-MARKDOWN-LINK>Gefühle_besänftigen-phb|Gefühle besänftigen<STATBLOCK-MARKDOWN-LINK>
 ```
 ^statblock

@@ -40,7 +40,8 @@ Wenn ein Beobachter seinen Dienst erfüllt hat, kann er tun, was er möchte. Vie
 ```statblock
 name: Beobachter
 image: token/spectator.webp
-source: MM
+source:
+  - MM
 size: Mittelgroß
 type: Aberration
 alignment: Rechtschaffen böse

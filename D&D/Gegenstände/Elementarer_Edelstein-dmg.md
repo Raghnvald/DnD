@@ -7,15 +7,15 @@ aliases:
   - Elemental Gem
 linter-yaml-title-alias: Elemental Gem
 ---
-# Elemental Gem
-*Wondrous item, minor, uncommon*  
-![](/3-Mechanics/CLI/items/img/elemental-gem.webp#right)
+# Elementarer Edelstein
+*Wundersamer Gegenstand, ungewöhnlich*  
+![](img/elemental-gem.webp#right)
 
-**Items in this group:**
+**Gegenstände in dieser Gruppe:**
 
-- [Elemental Gem, Blue Sapphire](/3-Mechanics/CLI/items/elemental-gem-blue-sapphire.md)
-- [Elemental Gem, Emerald](/3-Mechanics/CLI/items/elemental-gem-emerald.md)
-- [Elemental Gem, Red Corundum](/3-Mechanics/CLI/items/elemental-gem-red-corundum.md)
-- [Elemental Gem, Yellow Diamond](/3-Mechanics/CLI/items/elemental-gem-yellow-diamond.md)
+- [[Elementarer_Edelstein-Blauer_Saphir-dmg|Elementarer Edelstein, Blauer Saphir]]
+- [[Elementarer_Edelstein-Gelber_Diamant-dmg|Elementarer Edelstein, Gelber Diamant]]
+- [[Elementarer_Edelstein-Roter_Korund-dmg|Elementarer Edelstein, Roter Korund]]
+- [[Elementarer_Edelstein-Smaragd-dmg|Elementarer Edelstein, Smaragd]]
 
-*Source: Dungeon Master's Guide p. 167*
+*Quelle: Spielleiterhandbuch S. 158*

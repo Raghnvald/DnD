@@ -15,14 +15,6 @@ tags:
 ---
 # Lucan
 
-![[odjn87_135749343.pdf]]
-
-<iframe
-width="500"
-height="600"
-src=https://www.dndbeyond.com/characters/135749343>
-</iframe>
-
 # Ring
 
 ## Ring der Feuerelementar-Herrschaft
@@ -37,3 +29,7 @@ If you help slay a [fire elemental](/3-Mechanics/CLI/bestiary/elemental/fire-ele
 
 - You are immune to fire damage.  
 - You can cast the following spells from the ring, expending the necessary number of charges: [burning hands](/3-Mechanics/CLI/spells/burning-hands.md) (1 charge), [fireball](/3-Mechanics/CLI/spells/fireball.md) (2 charges), and [wall of fire](/3-Mechanics/CLI/spells/wall-of-fire.md) (3 charges).  
+
+---
+
+Cloak of the Bat

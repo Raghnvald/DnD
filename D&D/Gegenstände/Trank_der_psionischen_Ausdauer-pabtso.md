@@ -1,19 +1,18 @@
 ---
-Bezeichnung: Potion of Psionic Fortitude
+Bezeichnung: Trank der Psionischen Ausdauer
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/wundersam/Trank
   - Quelle/5e/pabtso
 aliases:
-  - "Potion of Psionic Fortitude"
   - Potion of Psionic Fortitude
-linter-yaml-title-alias: Potion of Psionic Fortitude
+linter-yaml-title-alias: Trank der Psionischen Ausdauer
 ---
-# Potion of Psionic Fortitude
-*Potion, uncommon*  
+# Trank der Psionischen Ausdauer
+*Trank, ungewöhnlich*  
 
-When you drink this potion, you have advantage for 1 hour on saving throws you make to avoid or end the charmed or stunned condition on yourself.
+Wenn du diesen Trank trinkst, bist du eine Stunde lang bei Rettungswürfen im Vorteil, die du ausführst, um nicht bezaubert oder betäubt zu werden.
 
-This black potion swirls with shimmering flecks of pink and purple.
+In diesem schwarzen Trank wirbeln schimmernde rosa und violette Flecken.
 
-*Source: Phandelver and Below: The Shattered Obelisk p. 219*
+*Quelle: Die Tiefen von Phandelver: Der zersplitterte Obelisk S. 220*

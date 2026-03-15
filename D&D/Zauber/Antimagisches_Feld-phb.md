@@ -45,9 +45,9 @@ $\quad$**Magische Gegenstände**: Die Eigenschaften und Kräfte von magischen Ge
 
 $\quad$Bei einer magischen Waffe gilt dies, wenn sie gegen ein Ziel in der Sphäre verwendet oder von einem Angreifer in der Sphäre geführt wird. Verlässt eine magische Waffe oder ein magisches Projektil die Sphäre vollständig (beispielsweise wenn ein magischer Pfeil auf ein Ziel außerhalb der Sphäre abgefeuert oder ein magischer Speer geworfen wird), wird die Magie des Gegenstands außerhalb der Sphäre nicht länger unterdrückt.
 
-$\quad$**Magische Bewegung**: Teleportation und Reisen durch die Ebenen funktionieren in der Sphäre nicht, gleichgültig ob die Sphäre das Ziel oder der Startpunkt dieser magischen Reise ist. Ein Portal an einen anderen Ort, eine Welt oder Existenzebene sowie Offnungen in einen auflerdimensionalen Raum, wie sie vom Zauber Seiltrick erschaffen werden, schließen sich für die Dauer, die sie sich in der Sphäre befinden.
+$\quad$**Magische Bewegung**: Teleportation und Reisen durch die Ebenen funktionieren in der Sphäre nicht, gleichgültig ob die Sphäre das Ziel oder der Startpunkt dieser magischen Reise ist. Ein Portal an einen anderen Ort, eine Welt oder Existenzebene sowie Öffnungen in einen außerdimensionalen Raum, wie sie vom Zauber Seiltrick erschaffen werden, schließen sich für die Dauer, die sie sich in der Sphäre befinden.
 
-$\quad$**Kreaturen und Gegenstände**: Kreaturen oder Gegenstände, die auf magische Weise erschaffen oder beschworen wurden, hö ren in der Sphäre kurzzeitig auf zu existieren. Sie erscheinen sofort wieder, wenn der Ort, an dem sie sich zuletzt befanden, nicht mehr von der Sphäre bedeckt wird.
+$\quad$**Kreaturen und Gegenstände**: Kreaturen oder Gegenstände, die auf magische Weise erschaffen oder beschworen wurden, hören in der Sphäre kurzzeitig auf zu existieren. Sie erscheinen sofort wieder, wenn der Ort, an dem sie sich zuletzt befanden, nicht mehr von der Sphäre bedeckt wird.
 
 $\quad$**Magie bannen**: Zauber und magische Effekte wie Magie bannen haben in der Sphäre keine Auswirkungen. Gleicher maßen können sich die Sphären, die von zwei verschie denen Anfiinagischen Feldern erschaffen werden, nicht gegenseitig aufheben.
 

@@ -19,7 +19,7 @@ Du erhältst einen Bonus von +3 auf Angriffs- und Schadenswürfe, die mit dieser
 - [Umhang des Schutzes](Umhang%20des%20Schutzes.md)
 - [[Schild des Silbernen Drachen-old]]
 
-Nach CoS eher ratlos für Belohnung. Eventuell [[quaals-feather-token-tree]]? Mehrfach nutzbar?
+Nach CoS eher ratlos für Belohnung. Eventuell [[Quaals_Feder-Baum-dmg]]? Mehrfach nutzbar?
 
 ## Wunsch
 - egal, Hauptsache besser

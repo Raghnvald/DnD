@@ -27,8 +27,9 @@ IDEAL: Menschen. Ich liebe es, wenn die Menschen sich freuen wenn ich spiele. Da
 BOND: Jemand hat mein wertvolles Instrument gestohlen und eines Tages werde ich es zurück haben.
 FLAW: Ich habe mal einen Witz über einen Adeligen gemacht, der nun meinen Kopf will. Es war ein Fehler den ich wahrscheinlich wiederholen werde.
 IMAGE:
-ammo1: 0
-ammo2:
+ammo1: 6
+ammo2: 6
+ammo3: 92
 AC1: false
 AC2: true
 AC3: false
@@ -133,6 +134,7 @@ SP9-4: false
 SP9-5: false
 SP9-6: false
 SP9-7: false
+slider1:
 ---
 # **Fayn**
 
@@ -320,7 +322,7 @@ items:
 > | Übungsart | Beschreibung  |
 > | ----------------- | ------------------- |
 > | **Rüstung** |  Leichte Rüstung   |
-> | **Waffen** | Einfache Waffen, Handarmbrust, Kurzschwert, Langschwert, Pistole, Rapier  |
+> | **Waffen** | Einfache Waffen, Handarmbrust, Kurzschwert, Langschwert, Rapier, Revolver |
 > | **Werkzeuge** |  Dudelsack, Flöte, Laute, Leier, Verkleidungsausrüstung   |
 > | **Sprachen** | Gemeinsprache, Elfisch, Zwergisch |
 > | **Anderes** | |
@@ -330,17 +332,19 @@ items:
 
 ## Waffen 
 
-| Gegenstand               | Reichweite  | ATK Bonus | Schaden    | *Eigenschaften / Notizen*  |
-| ------------------------ | ----------- | --------- | ---------- | -------------------------- |
-| [[Dolch-phb\|Dolch]]     | 1,5m/6m/18m | STR/GES   | 1d4 Stich  | Finesse, Leicht, Wurfwaffe |
-| [[Pistole-dmg\|Pistole]] | 9m/27m      | GES       | 1d10 Stich | Geschosse, Laden           |
-| [[Pistole-dmg\|Pistole]] | 9m/27m      | GES       | 1d10 Stich | Geschosse, Laden           | 
-| [[Rapier-phb\|Rapier]]   | 1,5m        | STR/GES   | 1d8 Stich  | Finesse                    |
+| Gegenstand                   | Reichweite  | ATK Bonus | Schaden   | *Eigenschaften / Notizen*       |
+| ---------------------------- | ----------- | --------- | --------- | ------------------------------- |
+| [[Dolch-phb\|Dolch]]         | 1,5m/6m/18m | STR/GES   | 1d4 Stich | Finesse, Leicht, Wurfwaffe      |
+| [[Rapier-phb\|Rapier]]       | 1,5m        | STR/GES   | 1d8 Stich | Finesse                         |
+| [[Revolver-dmg\|Revolver 1]] | 12m/36m     | GES       | 2d8 Stich | Geschosse, Nachladen (6 Schuss) |
+| [[Revolver-dmg\|Revolver 2]] | 12m/36m     | GES       | 2d8 Stich | Geschosse, Nachladen (6 Schuss) |
 
-| Munitionsart     | Anzahl                                             |
-| ---------------- | -------------------------------------------------- |
-| Kugeln (Pistole) | `INPUT[number(class(wider),placeholder(0)):ammo1]` |
-|                  | `INPUT[number(class(wider),placeholder(0)):ammo2]` |
+| Munitionsart        | Anzahl                                             |
+| ------------------- | -------------------------------------------------- |
+| Kugeln (Revolver 1) | `INPUT[number(class(wider),placeholder(0)):ammo1]` |
+| Kugeln (Revolver 2) | `INPUT[number(class(wider),placeholder(0)):ammo2]` |
+| Kugeln (Gesamt)     | `INPUT[number(class(wider),placeholder(0)):ammo3]` |
+
 ## Rüstung
 
 | Ausgerüstet         | Gegenstand                         | Reichweite | RK Bonus | Art     | *Eigenschaften / Notizen* |

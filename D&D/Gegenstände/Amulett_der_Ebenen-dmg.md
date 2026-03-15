@@ -15,7 +15,7 @@ linter-yaml-title-alias: Amulett der Ebenen
 ---
 # Amulett der Ebenen
 *Wundersamer Gegenstand, sehr selten (erfordert Einstimmung)*  
-<img src="Amulett-der-Ebenen.webp" align="right" width="150">
+<img src="amulet-of-the-planes.webp" align="right" width="150">
 
 - **Gewicht**: 0.5 kg.
 

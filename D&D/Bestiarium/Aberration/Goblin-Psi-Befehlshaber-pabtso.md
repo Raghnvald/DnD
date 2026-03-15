@@ -5,6 +5,8 @@ Bezeichnung: Goblin-Psi-Befehlshaber
 Kategorie: Aberration (Goblinoid)
 Größe: Klein
 HG: 4
+Habitat:
+  - /
 image: goblin-psi-commander-pabtso.webp
 status: WIP
 tags:

@@ -1,8 +1,10 @@
 ---
-cssclasses:
-  - json5e-spell
-Bezeichnung: Calm Emotions
+Bezeichnung: Gefühle besänftigen
 Zaubergrad: 2
+Zeitaufwand: 1 Aktion
+Reichweite: 18 Meter
+Komponenten: V, G
+Wirkungsdauer: K, <1 Minute
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Kleriker
@@ -16,22 +18,21 @@ classes:
   - Warlock (The Archfey)
 aliases:
   - Calm Emotions
-linter-yaml-title-alias: Calm Emotions
+linter-yaml-title-alias: Gefühle besänftigen
 ---
-# Calm Emotions
-*2nd-level, Enchantment*  
+# Gefühle besänftigen
+*Verzauberung des 2. Grades*  
 
-- **Casting time:** 1 Action
-- **Range:** 60 feet
-- **Components:** V, S
-- **Duration:** Concentration, up to 1 minute
+- **Zeitaufwand:** 1 Aktion
+- **Reichweite:** 18 m
+- **Komponenten:** V, G
+- **Wirkungsdauer:** Konzentration, bis zu 1 Minute
 
-You attempt to suppress strong emotions in a group of people. Each humanoid in a 20-foot-radius sphere centered on a point you choose within range must make a Charisma saving throw; a creature can choose to fail this saving throw if it wishes. If a creature fails its saving throw, choose one of the following two effects.
+Du versuchst, starke Empfindungen in einer Personengruppe zu unterdrücken. Alle humanoiden Kreaturen innerhalb einer Sphäre mit einem Radius von 6 m, zentriert um einen Punkt deiner Wahl in Reichweite, müssen einen Charismarettungswurf ablegen.Jede betroffene Kreatur kann diesen Rettungswurf freiwillig nicht bestehen. Bei einem Misserfolg wählst du einen der folgenden zwei Effekte:
 
-You can suppress any effect causing a target to be [charmed](/3-Mechanics/CLI/conditions.md#Charmed) or [frightened](/3-Mechanics/CLI/conditions.md#Frightened). When this spell ends, any suppressed effect resumes, provided that its duration has not expired in the meantime.
+- Du unterdrückst jeden Effekt, der ein Ziel [[Zustände-phb#Bezaubert|bezaubert]] oder [[Zustände-phb#Verängstigt|verängstigt]]. Wenn dein Zauber endet, tritt der unterdrückte Effekt wieder in Kraft, vorausgesetzt seine Wirkung ist in der Zwischenzeit nicht beendet.
+- Du machst ein Ziel gleichgültig gegenüber Kreaturen deiner Wahl, denen es feindlich gesonnen ist. Diese Gleichgültigkeit endet, wenn das Ziel angegriffen wird, durch einen Zauber Schaden erleidet oder sieht, wie einer seiner Verbündeten verletzt wird. Endet der Zauber, wird die Kreatur wieder feindselig, wenn der SL nichts anderes festlegt.
 
-Alternatively, you can make a target indifferent about creatures of your choice that it is hostile toward. This indifference ends if the target is attacked or harmed by a spell or if it witnesses any of its friends being harmed. When the spell ends, the creature becomes hostile again, unless the DM rules otherwise.
+**Klassen**: [Barde (Magische Geheimnisse)](Listen/list-spells-classes-bard.md); [Hexenmeister (Die Erzfee)](Listen/list-spells-classes-the-archfey.md); [Kleriker](Listen/list-spells-classes-cleric.md)
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Warlock (The Archfey)](/3-Mechanics/CLI/lists/list-spells-classes-the-archfey.md)
-
-*Source: Player's Handbook p. 221. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+*Quelle: Spielerhandbuch S. 234. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span>*

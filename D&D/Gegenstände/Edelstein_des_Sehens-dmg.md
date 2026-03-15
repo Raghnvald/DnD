@@ -8,14 +8,14 @@ aliases:
   - Gem of Seeing
 linter-yaml-title-alias: Gem of Seeing
 ---
-# Gem of Seeing
-*Wondrous item, major, rare (requires attunement)*  
-![](/3-Mechanics/CLI/items/img/gem-of-seeing.webp#right)
+# Edelstein des Sehens
+*Wundersamer Gegenstand, selten (erfordert Einstimmung)*  
+<img src="img/gem-of-seeing.webp#" align="right" width="150">
 
-- **Weight**: 1.0 lbs.
+- **Gewicht**: 0,5 kg.
 
-This gem has 3 charges. As an action, you can speak the gem's command word and expend 1 charge. For the next 10 minutes, you have [truesight](/3-Mechanics/CLI/senses.md#Truesight) out to 120 feet when you peer through the gem.
+Dieser Edelstein hat 3 Ladungen. Als eine Aktion kannst du das Befehlswort des Edelsteins sprechen und 1 Ladung verbrauchen. Für die nächsten 10 Minuten, hast du [[Sinne-phb#Wahre Sicht|Wahren Blick]] auf bis zu 36 Meter, wenn du durch den Edelstein schaust. 
 
-The gem regains `1d3` expended charges daily at dawn.
+Der Edelstein regeneriert zu jeder Morgendämmerung `1W3` Ladungen. 
 
 *Source: Dungeon Master's Guide p. 172. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

@@ -4,12 +4,12 @@ tags:
 aliases:
   - Arcana - Rare
 ---
-# Arcana - Rare
+# Arcana - Selten
 *Source: Dungeon Master's Guide (2024) p. 326* 
 
 **Arcana - Rare**
 
-| dice: 1d100 | Item |
+| 1d100 | Gegenstand |
 |-------------|------|
 | 01 | [Bag of Beans](/3-Mechanics/CLI/items/bag-of-beans-xdmg.md) |
 | 02–03 | [Bead of Force](/3-Mechanics/CLI/items/bead-of-force-xdmg.md) |
@@ -20,14 +20,14 @@ aliases:
 | 10 | [Censer of Controlling Air Elementals](/3-Mechanics/CLI/items/censer-of-controlling-air-elementals-xdmg.md) |
 | 11–12 | [Chime of Opening](/3-Mechanics/CLI/items/chime-of-opening-xdmg.md) |
 | 13–14 | [Cloak of Displacement](/3-Mechanics/CLI/items/cloak-of-displacement-xdmg.md) |
-| 15–16 | [Cloak of the Bat](/3-Mechanics/CLI/items/cloak-of-the-bat-xdmg.md) |
+| 15–16 | [[Umhang_der_Fledermaus-xdmg\|Cloak of the Bat]] |
 | 17 | [Cube of Force](/3-Mechanics/CLI/items/cube-of-force-xdmg.md) |
 | 18 | [Cube of Summoning](/3-Mechanics/CLI/items/cube-of-summoning-xdmg.md) |
 | 19 | [Daern's Instant Fortress](/3-Mechanics/CLI/items/daerns-instant-fortress-xdmg.md) |
 | 20–21 | [Enspelled Staff](/3-Mechanics/CLI/items/enspelled-staff-xdmg.md) (level 2 or 3 spell) |
 | 22–23 | [Figurine of Wondrous Power](/3-Mechanics/CLI/items/figurine-of-wondrous-power-xdmg.md) ([bronze griffon](/3-Mechanics/CLI/items/figurine-of-wondrous-power-bronze-griffon-xdmg.md), [ebony fly](/3-Mechanics/CLI/items/figurine-of-wondrous-power-ebony-fly-xdmg.md), [golden lions](/3-Mechanics/CLI/items/figurine-of-wondrous-power-golden-lions-xdmg.md), [ivory goats](/3-Mechanics/CLI/items/figurine-of-wondrous-power-ivory-goats-xdmg.md), [marble elephant](/3-Mechanics/CLI/items/figurine-of-wondrous-power-marble-elephant-xdmg.md), [onyx dog](/3-Mechanics/CLI/items/figurine-of-wondrous-power-onyx-dog-xdmg.md), or [serpentine owl](/3-Mechanics/CLI/items/figurine-of-wondrous-power-serpentine-owl-xdmg.md)) |
 | 24–25 | [Folding Boat](/3-Mechanics/CLI/items/folding-boat-xdmg.md) |
-| 26–27 | [Gem of Seeing](/3-Mechanics/CLI/items/gem-of-seeing-xdmg.md) |
+| 26–27 | [[Edelstein_des_Sehens-xdmg\|Gem of Seeing]] |
 | 28 | [Helm of Teleportation](/3-Mechanics/CLI/items/helm-of-teleportation-xdmg.md) |
 | 29–30 | [Heward's Handy Haversack](/3-Mechanics/CLI/items/hewards-handy-haversack-xdmg.md) |
 | 31–32 | [Horseshoes of Speed](/3-Mechanics/CLI/items/horseshoes-of-speed-xdmg.md) |

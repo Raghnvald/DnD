@@ -1,50 +1,55 @@
 ---
-cssclasses:
-  - json5e-monster
+statblock: inline
+statblock-link: "#^statblock"
+Bezeichnung: Zugpferd
+Kategorie: Tier
+Größe: Groß
+HG: 1/4
+Habitat:
+  - Stadt
+image: token/draft-horse.webp
+status: WIP
 tags:
   - Quelle/5e/mm
   - Monster/HG/1-4
   - Monster/Habitat/Stadt
   - Monster/Größe/Groß
   - Monster/Typ/Tier
-statblock: inline
-statblock-link: "#^statblock"
 aliases:
   - Draft Horse
 ---
-# [Draft Horse](3-Mechanics\CLI\bestiary\beast/draft-horse.md)
-*Source: Monster Manual p. 321. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+# Zugpferd
+*Quelle: Monsterhandbuch S. 341. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*
 
 ```statblock
-"name": "Draft Horse"
-"size": "Large"
-"type": "beast"
-"alignment": "Unaligned"
-"ac": !!int "10"
-"hp": !!int "19"
-"hit_dice": "3d10 + 3"
-"modifier": !!int "0"
-"stats":
-  - !!int "18"
-  - !!int "10"
-  - !!int "12"
-  - !!int "2"
-  - !!int "11"
-  - !!int "7"
-"speed": "40 ft."
-"senses": "passive Perception 10"
-"languages": ""
-"cr": "1/4"
-"actions":
-  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 9 (2d4\
-      \ + 4) bludgeoning damage."
-    "name": "Hooves"
-"source":
-  - "MM"
-"image": "/3-Mechanics/CLI/bestiary/beast/token/draft-horse.webp"
+name: Zugpferd
+image: token/draft-horse.webp
+source:
+  - MM
+size: Groß
+type: Tier
+alignment: gesinnungslos
+ac: 10
+hp: 19
+hit_dice: 3d10 + 3
+modifier: 0
+stats:
+  - 18
+  - 10
+  - 12
+  - 2
+  - 11
+  - 7
+speed: 12 m
+senses: passive Wahrnehmung 10
+languages: ""
+cr: 1/4
+actions:
+  - name: Hufe
+    desc: "*Nahkampf-Waffenangriff:* +6 zum Treffen, Reichweite 1,5 m, ein Ziel. *Treffer:* 9 (2d4 + 4) Wuchtschaden."
 ```
 ^statblock
 
-## Environment
+## Vorkommen
 
-urban
+Stadt

@@ -1,8 +1,10 @@
 ---
-cssclasses:
-  - json5e-spell
-Bezeichnung: Remove Curse
+Bezeichnung: Fluch brechen
 Zaubergrad: 3
+Zeitaufwand: 1 Aktion
+Reichweite: Berührung
+Komponenten: V, G
+Wirkungsdauer: Unmittelbar
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Hexenmeister
@@ -24,18 +26,18 @@ classes:
   - Wizard
 aliases:
   - Remove Curse
-linter-yaml-title-alias: Remove Curse
+linter-yaml-title-alias: Fluch brechen
 ---
-# Remove Curse
-*3rd-level, Abjuration*  
+# Fluch brechen
+*Bann des 3. Grades*  
 
-- **Casting time:** 1 Action
-- **Range:** Touch
-- **Components:** V, S
-- **Duration:** Instantaneous
+- **Zeitaufwand:** 1 Aktion
+- **Reichweite:** Berührung
+- **Komponenten:** V, G
+- **Wirkungsdauer:** Unmittelbar
 
-At your touch, all curses affecting one creature or object end. If the object is a cursed magic item, its curse remains, but the spell breaks its owner's attunement to the object so it can be removed or discarded.
+Auf deine Berührung hin enden alle Flüche, die eine Kreatur oder einen Gegenstand betreffen. Ist der verfluchte Gegenstand magisch, bleibt der Fluch bestehen, aber der Zauber bricht die Einstimmung des Besitzers mit dem Gegenstand, sodass dieser abgelegt oder weggeworfen werden kann.
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Fighter (Eldritch Knight)](/3-Mechanics/CLI/lists/list-spells-classes-eldritch-knight.md); [Paladin](/3-Mechanics/CLI/lists/list-spells-classes-paladin.md); [Rogue (Arcane Trickster)](/3-Mechanics/CLI/lists/list-spells-classes-arcane-trickster.md); [Warlock](/3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Klassen**: [Barde (Magische Geheimnisse)](Listen/list-spells-classes-bard.md); [Hexenmeister](Listen/list-spells-classes-warlock.md); [Kämpfer (Mystischer Ritter)](Listen/list-spells-classes-eldritch-knight.md); [Kleriker](Listen/list-spells-classes-cleric.md); [Magier](Listen/list-spells-classes-wizard.md); [Paladin](Listen/list-spells-classes-paladin.md); [Schurke (Arkaner Betrüger)](Listen/list-spells-classes-arcane-trickster.md)
 
-*Source: Player's Handbook p. 271. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+*Quelle: Spielerhandbuch S. 232. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*

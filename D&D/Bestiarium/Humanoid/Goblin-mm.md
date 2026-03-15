@@ -1,8 +1,12 @@
 ---
+statblock: inline
+statblock-link: "#^statblock"
 Bezeichnung: Goblin
 Kategorie: Humanoid (Goblinoid)
 Größe: Klein
 HG: 1/2
+Habitat:
+  - Stadt
 status: WIP
 image: token/goblin.webp
 tags:
@@ -14,8 +18,6 @@ tags:
   - Monster/Habitat/Wald
   - Monster/Größe/Klein
   - Monster/Typ/Humanoid/goblinoid
-statblock: inline
-statblock-link: "#^statblock"
 aliases:
   - Goblin
 ---
