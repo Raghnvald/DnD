@@ -1,10 +1,9 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Gelf Darkhearth
 tags:
-  - Quelle/5e/mtf
-  - Kompendium/Götter/gnome
   - Kompendium/Götter/Domäne/war
+  - Kompendium/Götter/gnome
+  - Quelle/5e/mtf
 aliases:
   - Gelf Darkhearth
 ---

@@ -1,7 +1,5 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Schmetterdorn
+Bezeichnung: Shatterspike
 Kategorie: Nahkampf-Kriegswaffe
 tags:
   - Gegenstand/Einstimmung/required

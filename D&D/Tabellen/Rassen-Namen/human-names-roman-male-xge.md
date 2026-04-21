@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Human Names – Roman, Male
 tags:
   - Quelle/5e/xge
 aliases:

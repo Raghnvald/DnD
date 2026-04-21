@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Grappling Hook
 tags:
   - Gegenstand/Ausrüstung/

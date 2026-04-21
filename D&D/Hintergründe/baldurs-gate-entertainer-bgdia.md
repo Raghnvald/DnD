@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-background
+Bezeichnung: "Baldur's Gate Entertainer"
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/bgdia
@@ -9,7 +8,6 @@ aliases:
 ---
 # Baldur's Gate Entertainer
 *Source: Baldur's Gate: Descent Into Avernus p. 202, Player's Handbook p. 130*  
-
 
 - **Skill Proficiencies.** [Acrobatics](/3-Mechanics/CLI/skills.md#Acrobatics), [Performance](/3-Mechanics/CLI/skills.md#Performance)  
 - **Tool Proficiencies.** [Disguise kit](/3-Mechanics/CLI/items/disguise-kit-xphb.md), one type of musical instrument  

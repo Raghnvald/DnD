@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Gloom Stalker
 tags:
   - Zauber/list/subclass/gloom-stalker
 aliases:

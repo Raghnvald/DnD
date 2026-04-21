@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Chapter 8: Forge of the Fire Giants"
 tags:
   - Quelle/5e/skt
 aliases:

@@ -1,10 +1,10 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Wyrmreaver Gauntlets
+Kategorie: Wundersamer Gegenstand 
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
+  - Gegenstand/wundersam
   - Quelle/5e/bgg
 aliases:
   - Wyrmreaver Gauntlets

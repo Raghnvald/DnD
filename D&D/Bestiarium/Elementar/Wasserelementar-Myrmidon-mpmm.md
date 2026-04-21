@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mpmm
-  - Monster/HG/7
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Elementar
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Water Elemental Myrmidon
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/7
+  - Monster/Typ/Elementar
+  - Quelle/5e/mpmm
 aliases:
   - Water Elemental Myrmidon
 ---

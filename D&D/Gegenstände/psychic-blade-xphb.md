@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Psychic Blade
 tags:
   - Gegenstand/Seltenheit/keine

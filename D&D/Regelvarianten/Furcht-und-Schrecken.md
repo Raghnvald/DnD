@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Fear and Horror
 tags:
   - Quelle/5e/dmg
 aliases:

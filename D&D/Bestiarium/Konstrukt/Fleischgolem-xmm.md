@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/5
-  - Monster/Habitat/Jedes
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Konstrukt
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Flesh Golem
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Jedes
+  - Monster/HG/5
+  - Monster/Typ/Konstrukt
+  - Quelle/5e/xmm
 aliases:
   - Flesh Golem
 ---
@@ -41,7 +40,6 @@ Flesh golems appear in varied forms. Roll on or choose a result from the Flesh G
 > [!quote] A quote from Viktra Mordenheim, Darklord of Lamordia  
 > 
 > The barrier between the mortal and the divine lies shattered—open is the mold for new gods. It was I who invaded the divine. Not with a spear but with a stitch. Not with my heresies but with my heart.
-
 
 ```statblock
 "name": "Flesh Golem (XMM)"

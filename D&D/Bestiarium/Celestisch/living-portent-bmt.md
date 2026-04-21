@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/bmt
-  - Monster/HG/3
-  - Monster/Größe/Klein-oder-Mittelgroß
-  - Monster/Typ/Himmlische
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Living Portent
+tags:
+  - Monster/Größe/Klein-oder-Mittelgroß
+  - Monster/HG/3
+  - Monster/Typ/Himmlische
+  - Quelle/5e/bmt
 aliases:
   - Living Portent
 ---

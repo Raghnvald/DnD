@@ -1,11 +1,10 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Nuada
 tags:
-  - Quelle/5e/phb
   - Kompendium/Götter/celtic
   - Kompendium/Götter/Domäne/order
   - Kompendium/Götter/Domäne/war
+  - Quelle/5e/phb
 aliases:
   - Nuada
 ---

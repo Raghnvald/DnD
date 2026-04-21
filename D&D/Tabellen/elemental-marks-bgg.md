@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Elemental Marks
 tags:
   - Quelle/5e/bgg
 aliases:

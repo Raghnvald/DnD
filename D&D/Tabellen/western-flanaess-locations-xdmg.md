@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Western Flanaess Locations
 tags:
   - Quelle/5e/xdmg
 aliases:

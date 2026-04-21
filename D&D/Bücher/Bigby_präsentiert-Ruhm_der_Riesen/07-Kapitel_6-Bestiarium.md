@@ -1,8 +1,9 @@
 ---
+Bezeichnung: "Chapter 6: Bestiary"
 tags:
-- Quelle/5e/bgg
+  - Quelle/5e/bgg
 aliases:
-- Chapter 6: Bestiary
+  - Chapter 6: Bestiary
 ---
 # Chapter 6: Bestiary
 *Source: Bigby Presents: Glory of the Giants, p. 119* 

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-race
+Bezeichnung: Tiefling (Asmodeus)
 tags:
   - Quelle/5e/mtf
   - Rasse/tiefling/asmodeus

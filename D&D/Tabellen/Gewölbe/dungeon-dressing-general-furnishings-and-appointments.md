@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Dungeon Dressing; General Furnishings and Appointments
 tags:
   - Quelle/5e/dmg
 aliases:

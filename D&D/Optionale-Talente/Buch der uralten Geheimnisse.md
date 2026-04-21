@@ -1,9 +1,10 @@
 ---
+Bezeichnung: Buch der uralten Geheimnisse
 tags:
-- Quelle/5e/phb
-- Kompendium/Optionales/Anrufungen
+  - Kompendium/Optionales/Anrufungen
+  - Quelle/5e/phb
 aliases:
-- Book of Ancient Secrets
+  - Book of Ancient Secrets
 ---
 # Buch der uralten Geheimnisse
 _Quellen:_ Spielerhandbuch

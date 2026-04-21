@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Reverse Gravity
 Zaubergrad: 7
 tags:

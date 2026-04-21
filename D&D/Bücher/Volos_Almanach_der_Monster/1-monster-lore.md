@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Monster Lore
 tags:
   - Quelle/5e/vgm
 aliases:

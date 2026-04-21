@@ -1,16 +1,15 @@
 ---
-cssclasses:
-  - json5e-monster
+statblock: inline
+statblock-link: "#^statblock"
+Bezeichnung: Succubus
 tags:
-  - Quelle/5e/xmm
-  - Monster/HG/4
+  - Monster/Größe/Mittelgroß
   - Monster/Habitat/lower
   - Monster/Habitat/planar
   - Monster/Habitat/Stadt
-  - Monster/Größe/Mittelgroß
+  - Monster/HG/4
   - Monster/Typ/Unhold
-statblock: inline
-statblock-link: "#^statblock"
+  - Quelle/5e/xmm
 aliases:
   - Succubus
 ---

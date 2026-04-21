@@ -14,8 +14,8 @@ tags:
   - Monster/Typ/Untote
   - Quelle/5e/pabtso
 aliases:
-  - Zwergenskelett
   - Dwarf Skeleton
+  - Zwergenskelett
 Image: undead/token/dwarf-skeleton-pabtso.webp
 linter-yaml-title-alias: Zwergenskelett
 ---

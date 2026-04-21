@@ -1,15 +1,14 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/6
-  - Monster/Habitat/Hügel
-  - Monster/Habitat/Berg
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Elementar
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Galeb Duhr
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Berg
+  - Monster/Habitat/Hügel
+  - Monster/HG/6
+  - Monster/Typ/Elementar
+  - Quelle/5e/xmm
 aliases:
   - Galeb Duhr
 ---

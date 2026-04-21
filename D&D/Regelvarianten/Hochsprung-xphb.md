@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: High Jump
 tags:
   - Quelle/5e/xphb
 aliases:

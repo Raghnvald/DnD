@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Manacles
 Kategorie: Abenteuerausrüstung
 tags:

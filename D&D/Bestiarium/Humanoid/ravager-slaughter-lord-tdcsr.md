@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/tdcsr
-  - Monster/HG/9
-  - Monster/Habitat/Grasland
-  - Monster/Größe/Groß
-  - Monster/Typ/Humanoid/any
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Ravager Slaughter Lord
+tags:
+  - Monster/Größe/Groß
+  - Monster/Habitat/Grasland
+  - Monster/HG/9
+  - Monster/Typ/Humanoid/any
+  - Quelle/5e/tdcsr
 aliases:
   - Ravager Slaughter Lord
 ---

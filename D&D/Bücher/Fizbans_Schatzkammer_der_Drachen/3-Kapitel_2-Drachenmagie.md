@@ -1,4 +1,5 @@
 ---
+Bezeichnung: Dragon Magic
 tags:
   - Quelle/5e/ftd
 aliases:

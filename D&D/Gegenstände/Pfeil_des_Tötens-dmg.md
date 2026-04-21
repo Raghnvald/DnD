@@ -1,7 +1,5 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Pfeil des Tötens
+Bezeichnung: Arrow of Slaying
 Kategorie: Munition
 tags:
   - Gegenstand/Ausrüstung/ammunition

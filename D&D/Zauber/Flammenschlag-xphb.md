@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Flame Strike
 tags:
   - Klasse/Barde

@@ -1,15 +1,14 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mpmm
-  - Monster/HG/3
-  - Monster/Habitat/Küste
-  - Monster/Habitat/underwater
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Fee
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Dolphin Delighter
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Küste
+  - Monster/Habitat/underwater
+  - Monster/HG/3
+  - Monster/Typ/Fee
+  - Quelle/5e/mpmm
 aliases:
   - Dolphin Delighter
 ---

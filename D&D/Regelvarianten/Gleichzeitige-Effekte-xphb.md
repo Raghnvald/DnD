@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Simultaneous Effects
 tags:
   - Quelle/5e/xphb
 aliases:

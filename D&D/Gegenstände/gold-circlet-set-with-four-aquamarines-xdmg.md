@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Gold circlet set with four aquamarines
 tags:
   - Gegenstand/Ausrüstung/treasure-art-object

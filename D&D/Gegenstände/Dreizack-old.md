@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Dreizack-old
+Bezeichnung: Dreizack
 Kategorie: Nahkampf-Kriegswaffe
 Schaden: 1W6 Stich
 Eigenschaften: Vielseitig (1W8), Wurfwaffe (Reichweite 6/18)

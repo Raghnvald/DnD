@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mpmm
-  - Monster/HG/18
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Unhold/devil
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Amnizu
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/18
+  - Monster/Typ/Unhold/devil
+  - Quelle/5e/mpmm
 aliases:
   - Amnizu
 ---

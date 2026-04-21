@@ -1,4 +1,5 @@
 ---
+Bezeichnung: Stufenbereiche; Charakteraufstieg
 tags:
   - Quelle/5e/xphb
 aliases:

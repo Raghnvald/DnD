@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Macuahuitl
 Kategorie: Nahkampf-Kriegswaffe
 tags:

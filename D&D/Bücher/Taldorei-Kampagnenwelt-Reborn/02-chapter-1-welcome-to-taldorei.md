@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Chapter 1: Welcome to Tal'Dorei"
 tags:
   - Quelle/5e/tdcsr
 aliases:

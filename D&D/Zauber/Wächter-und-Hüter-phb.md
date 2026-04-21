@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Guards and Wards
 Zaubergrad: 6
 tags:

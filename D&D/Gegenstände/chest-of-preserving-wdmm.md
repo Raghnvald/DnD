@@ -1,7 +1,6 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Chest of Preserving
+Kategorie: Wundersamer Gegenstand
 tags:
   - Gegenstand/Seltenheit/gewöhnlich
   - Quelle/5e/wdmm

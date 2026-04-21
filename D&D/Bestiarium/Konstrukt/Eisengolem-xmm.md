@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/16
-  - Monster/Habitat/Jedes
-  - Monster/Größe/Groß
-  - Monster/Typ/Konstrukt
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Iron Golem
+tags:
+  - Monster/Größe/Groß
+  - Monster/Habitat/Jedes
+  - Monster/HG/16
+  - Monster/Typ/Konstrukt
+  - Quelle/5e/xmm
 aliases:
   - Iron Golem
 ---

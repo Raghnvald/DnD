@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Cloak of the Bat
 tags:
   - Gegenstand/Einstimmung/required

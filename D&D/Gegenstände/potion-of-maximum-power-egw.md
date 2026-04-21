@@ -1,7 +1,6 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Potion of Maximum Power
+Kategorie: Trank
 tags:
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam/Trank

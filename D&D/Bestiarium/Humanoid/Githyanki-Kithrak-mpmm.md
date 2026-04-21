@@ -1,16 +1,15 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mpmm
-  - Monster/HG/12
-  - Monster/Habitat/Wüste
-  - Monster/Habitat/Berg
-  - Monster/Habitat/Stadt
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/gith
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: "Githyanki Kith'rak"
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Berg
+  - Monster/Habitat/Stadt
+  - Monster/Habitat/Wüste
+  - Monster/HG/12
+  - Monster/Typ/Humanoid/gith
+  - Quelle/5e/mpmm
 aliases:
   - Githyanki Kith'rak
 ---

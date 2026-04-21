@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: D20 Test
 tags:
   - Quelle/5e/xphb
 aliases:

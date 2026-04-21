@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Deities of Eberron; 3
 tags:
   - Quelle/5e/erlw
 aliases:

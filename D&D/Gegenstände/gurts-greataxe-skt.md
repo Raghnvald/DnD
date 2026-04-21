@@ -1,7 +1,5 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Gurt's Greataxe
+Bezeichnung: "Gurt's Greataxe"
 Kategorie: Nahkampf-Kriegswaffe
 tags:
   - Gegenstand/Einstimmung/required

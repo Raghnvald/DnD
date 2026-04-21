@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Tome of Leadership and Influence
 tags:
   - Gegenstand/Seltenheit/sehr_selten

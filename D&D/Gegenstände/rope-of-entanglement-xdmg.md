@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Rope of Entanglement
 tags:
   - Gegenstand/Seltenheit/selten

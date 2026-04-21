@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Meld into Stone
 Zaubergrad: 3
 tags:

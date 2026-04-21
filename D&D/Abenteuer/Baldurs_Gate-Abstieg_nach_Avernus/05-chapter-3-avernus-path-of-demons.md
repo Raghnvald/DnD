@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Chapter 3: Avernus - Path of Demons"
 tags:
   - Quelle/5e/bgdia
 aliases:

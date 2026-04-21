@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Summon Elemental
 tags:
   - Klasse/Barde

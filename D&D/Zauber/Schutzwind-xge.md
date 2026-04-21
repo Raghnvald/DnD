@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Warding Wind
+Bezeichnung: Schutzwind
 Zaubergrad: 2
 Zeitaufwand: 1 Aktion
 Reichweite: selbst
@@ -15,8 +15,8 @@ tags:
   - Klasse/Schurke/Arkaner-Betrüger
   - Klasse/Zauberer
   - Quelle/5e/xge
-  - Subklasse/Mystischer-Ritter
   - Subklasse/evoker
+  - Subklasse/Mystischer-Ritter
   - Zauber/Grad/2
   - Zauber/Schule/Hervorrufung
 classes:

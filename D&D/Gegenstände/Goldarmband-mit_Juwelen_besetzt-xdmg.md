@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Bejeweled gold bracelet
 tags:
   - Gegenstand/Ausrüstung/treasure-art-object

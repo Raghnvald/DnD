@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/1-4
-  - Monster/Habitat/Wald
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Tier
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Giant Badger
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Wald
+  - Monster/HG/1-4
+  - Monster/Typ/Tier
+  - Quelle/5e/xmm
 aliases:
   - Giant Badger
 ---

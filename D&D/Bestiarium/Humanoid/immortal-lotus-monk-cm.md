@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/cm
-  - Monster/HG/5
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Immortal Lotus Monk
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/5
+  - Monster/Typ/Humanoid
+  - Quelle/5e/cm
 aliases:
   - Immortal Lotus Monk
 ---

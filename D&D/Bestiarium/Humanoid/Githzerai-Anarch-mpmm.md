@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mpmm
-  - Monster/HG/16
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/gith
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Githzerai Anarch
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/16
+  - Monster/Typ/Humanoid/gith
+  - Quelle/5e/mpmm
 aliases:
   - Githzerai Anarch
 ---

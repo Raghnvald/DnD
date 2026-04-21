@@ -1,16 +1,15 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mpmm
-  - Monster/HG/1
-  - Monster/Habitat/Wald
-  - Monster/Habitat/Hügel
-  - Monster/Habitat/Unterreich
-  - Monster/Größe/Klein
-  - Monster/Typ/Fee/Goblinoid
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Nilbog
+tags:
+  - Monster/Größe/Klein
+  - Monster/Habitat/Hügel
+  - Monster/Habitat/Unterreich
+  - Monster/Habitat/Wald
+  - Monster/HG/1
+  - Monster/Typ/Fee/Goblinoid
+  - Quelle/5e/mpmm
 aliases:
   - Nilbog
 ---

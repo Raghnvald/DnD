@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Embroidered silk and velvet mantle set with numerous moonstones
 tags:
   - Gegenstand/Ausrüstung/treasure-art-object

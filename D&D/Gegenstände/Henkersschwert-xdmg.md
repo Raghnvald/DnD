@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Vorpal Sword
 Kategorie: Nahkampf-Kriegswaffe
 tags:

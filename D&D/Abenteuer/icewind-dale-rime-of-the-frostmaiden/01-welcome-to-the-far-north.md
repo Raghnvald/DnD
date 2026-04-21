@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Welcome to the Far North
 tags:
   - Quelle/5e/idrotf
 aliases:

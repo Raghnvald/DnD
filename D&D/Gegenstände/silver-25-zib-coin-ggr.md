@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Silver 25-Zib Coin
 tags:
   - Gegenstand/Ausrüstung/treasure-coinage

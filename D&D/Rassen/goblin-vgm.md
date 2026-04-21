@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-race
+Bezeichnung: Goblin
 tags:
   - Quelle/5e/vgm
   - Rasse/goblin

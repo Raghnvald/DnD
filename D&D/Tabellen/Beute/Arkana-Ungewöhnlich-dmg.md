@@ -1,4 +1,5 @@
 ---
+Bezeichnung: Arcana - Uncommon
 tags:
   - Quelle/5e/xdmg
 aliases:

@@ -1,15 +1,14 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mpmm
-  - Monster/HG/1-4
-  - Monster/Habitat/Wald
-  - Monster/Habitat/Sumpf
-  - Monster/Größe/Klein
-  - Monster/Typ/Pflanze
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Vegepygmy
+tags:
+  - Monster/Größe/Klein
+  - Monster/Habitat/Sumpf
+  - Monster/Habitat/Wald
+  - Monster/HG/1-4
+  - Monster/Typ/Pflanze
+  - Quelle/5e/mpmm
 aliases:
   - Vegepygmy
 ---

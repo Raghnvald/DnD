@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-background
+Bezeichnung: Custom Background
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/phb
@@ -10,11 +9,9 @@ aliases:
 # Custom Background
 *Source: Player's Handbook p. 126*  
 
-
 - **Skill Proficiencies.** Two of your choice  
 - **Languages and Tool Proficiencies.** Two of your choice  
 - **Equipment.** The equipment package from any background  
-
 
 ## Feature: Choose a Feature
 

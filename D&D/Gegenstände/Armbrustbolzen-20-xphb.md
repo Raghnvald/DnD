@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Bolts (20)
 tags:
   - Gegenstand/Ausrüstung/ammunition

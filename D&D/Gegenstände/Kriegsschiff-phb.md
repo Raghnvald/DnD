@@ -4,13 +4,13 @@ Kategorie: Luft- und Wasserfahrzeug
 Eigenschaften: /
 Kst.: 25.000 GM
 Gew.: /
-Bew.: 3,75 km/h
 tags:
   - Gegenstand/Ausrüstung/Fahrzeug/Wasser
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/dmg
 aliases:
   - Warship
+Bew.: 3,75 km/h
 linter-yaml-title-alias: Warship
 ---
 # Kriegsschiff

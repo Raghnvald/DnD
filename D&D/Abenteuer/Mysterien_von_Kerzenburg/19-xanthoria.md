@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Xanthoria
 tags:
   - Quelle/5e/cm
 aliases:

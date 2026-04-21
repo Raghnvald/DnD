@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Kandlekeep Dekonstruktion
 tags:
   - Quelle/5e/cm
 aliases:

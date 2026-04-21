@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/bmt
-  - Monster/HG/11
-  - Monster/Größe/Klein-oder-Mittelgroß
-  - Monster/Typ/Fee
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Enchanting Infiltrator
+tags:
+  - Monster/Größe/Klein-oder-Mittelgroß
+  - Monster/HG/11
+  - Monster/Typ/Fee
+  - Quelle/5e/bmt
 aliases:
   - Enchanting Infiltrator
 ---

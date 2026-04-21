@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/gos
-  - Monster/HG/3
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/bullywug
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Bullywug Royal
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/3
+  - Monster/Typ/Humanoid/bullywug
+  - Quelle/5e/gos
 aliases:
   - Bullywug Royal
 ---

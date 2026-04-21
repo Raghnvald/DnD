@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Chapter 5: Escape from Avernus"
 tags:
   - Quelle/5e/bgdia
 aliases:

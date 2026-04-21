@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Belt of Hill Giant Strength
 tags:
   - Gegenstand/Einstimmung/required

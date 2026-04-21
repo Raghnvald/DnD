@@ -1,7 +1,5 @@
 ---
-cssclasses:
-  - json5e-spell
-Bezeichnung: Tasha's Bubbling Cauldron
+Bezeichnung: "Tasha's Bubbling Cauldron"
 tags:
   - Klasse/Barde
   - Klasse/Hexenmeister

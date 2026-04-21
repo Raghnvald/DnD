@@ -1,4 +1,5 @@
 ---
+Bezeichnung: "5: Sinister Names"
 tags:
   - Quelle/5e/xdmg
 aliases:

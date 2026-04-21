@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Random Tricks; Trick Objects
 tags:
   - Quelle/5e/dmg
 aliases:

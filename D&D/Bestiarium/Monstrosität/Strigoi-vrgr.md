@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/vrgr
-  - Monster/HG/4
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Monstrosität
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Strigoi
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/4
+  - Monster/Typ/Monstrosität
+  - Quelle/5e/vrgr
 aliases:
   - Strigoi
 ---

@@ -1,15 +1,14 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/7
-  - Monster/Habitat/Wald
-  - Monster/Habitat/Stadt
-  - Monster/Größe/Groß
-  - Monster/Typ/Unhold
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Oni
+tags:
+  - Monster/Größe/Groß
+  - Monster/Habitat/Stadt
+  - Monster/Habitat/Wald
+  - Monster/HG/7
+  - Monster/Typ/Unhold
+  - Quelle/5e/xmm
 aliases:
   - Oni
 ---

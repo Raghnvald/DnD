@@ -1,9 +1,9 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Knight Card
+Kategorie: Wundersamer Gegenstand 
 tags:
   - Gegenstand/Seltenheit/legendär
+  - Gegenstand/wundersam
   - Quelle/5e/bmt
 aliases:
   - Knight Card

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Peace Domain
 tags:
   - Zauber/list/subclass/peace-domain
 aliases:

@@ -1,16 +1,15 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mm
-  - Monster/HG/3
-  - Monster/Habitat/Wald
-  - Monster/Habitat/Hügel
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/human
-  - Monster/Typ/Humanoid/shapechanger
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Werewolf
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Hügel
+  - Monster/Habitat/Wald
+  - Monster/HG/3
+  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/shapechanger
+  - Quelle/5e/mm
 aliases:
   - Werewolf
 ---

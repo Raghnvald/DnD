@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Githzerai Anarch
 tags:
-  - Quelle/5e/mpmm
   - Monster/legendary-group
+  - Quelle/5e/mpmm
 aliases:
   - Githzerai Anarch
 ---

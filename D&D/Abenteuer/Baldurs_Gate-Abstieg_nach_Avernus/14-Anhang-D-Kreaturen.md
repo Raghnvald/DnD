@@ -1,5 +1,7 @@
 ---
-tags: [Quelle/5e/bgdia]
+Bezeichnung: "Appendix D: Creatures"
+tags:
+  - Quelle/5e/bgdia
 ---
 # Appendix D: Creatures
 *Source: Baldur's Gate: Descent Into Avernus, p. 228* 

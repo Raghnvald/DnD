@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Factions and Societies
 tags:
   - Quelle/5e/egw
 aliases:

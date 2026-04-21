@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/ggr
-  - Monster/HG/14
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Himmlische
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Deathpact Angel
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/14
+  - Monster/Typ/Himmlische
+  - Quelle/5e/ggr
 aliases:
   - Deathpact Angel
 ---

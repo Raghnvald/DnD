@@ -1,13 +1,10 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Ring of Swimming
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/wundersam/Ring
   - Quelle/5e/xdmg
 aliases:
-  - Ring of Swimming
   - Ring of Swimming
 linter-yaml-title-alias: Ring of Swimming
 ---

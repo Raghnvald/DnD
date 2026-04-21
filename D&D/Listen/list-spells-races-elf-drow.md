@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Elf (Drow)
 tags:
   - Zauber/list/subrace/elf-drow
 aliases:

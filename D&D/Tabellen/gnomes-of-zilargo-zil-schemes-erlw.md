@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Gnomes of Zilargo; Zil Schemes
 tags:
   - Quelle/5e/erlw
 aliases:

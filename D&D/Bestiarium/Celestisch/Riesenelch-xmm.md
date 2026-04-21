@@ -1,16 +1,15 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/2
-  - Monster/Habitat/Wald
-  - Monster/Habitat/Grasland
-  - Monster/Habitat/Hügel
-  - Monster/Größe/Riesig
-  - Monster/Typ/Himmlische
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Giant Elk
+tags:
+  - Monster/Größe/Riesig
+  - Monster/Habitat/Grasland
+  - Monster/Habitat/Hügel
+  - Monster/Habitat/Wald
+  - Monster/HG/2
+  - Monster/Typ/Himmlische
+  - Quelle/5e/xmm
 aliases:
   - Giant Elk
 ---

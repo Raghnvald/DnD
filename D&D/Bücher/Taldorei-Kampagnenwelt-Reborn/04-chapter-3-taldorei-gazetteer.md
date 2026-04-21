@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Chapter 3: Tal'Dorei Gazetteer"
 tags:
   - Quelle/5e/tdcsr
 aliases:

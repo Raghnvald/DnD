@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Spike Growth
 tags:
   - Klasse/Barde

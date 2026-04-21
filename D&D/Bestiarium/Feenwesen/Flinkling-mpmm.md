@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mpmm
-  - Monster/HG/1
-  - Monster/Habitat/Wald
-  - Monster/Größe/Winzig
-  - Monster/Typ/Fee
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Quickling
+tags:
+  - Monster/Größe/Winzig
+  - Monster/Habitat/Wald
+  - Monster/HG/1
+  - Monster/Typ/Fee
+  - Quelle/5e/mpmm
 aliases:
   - Quickling
 ---

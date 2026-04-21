@@ -1,5 +1,4 @@
 ---
-cssclasses: json5e-spell
 Bezeichnung: Leomunds Winzige Hütte
 tags:
   - Klasse/Barde

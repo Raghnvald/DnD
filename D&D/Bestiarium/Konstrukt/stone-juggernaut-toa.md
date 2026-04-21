@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/toa
-  - Monster/HG/12
-  - Monster/Größe/Groß
-  - Monster/Typ/Konstrukt
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Stone Juggernaut
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/12
+  - Monster/Typ/Konstrukt
+  - Quelle/5e/toa
 aliases:
   - Stone Juggernaut
 ---

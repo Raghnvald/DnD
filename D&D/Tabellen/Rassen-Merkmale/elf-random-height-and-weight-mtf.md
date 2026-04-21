@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Elf Random Height and Weight
 tags:
   - Quelle/5e/mtf
 aliases:

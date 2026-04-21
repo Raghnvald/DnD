@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Pair of engraved bone dice
 tags:
   - Gegenstand/Ausrüstung/treasure-art-object

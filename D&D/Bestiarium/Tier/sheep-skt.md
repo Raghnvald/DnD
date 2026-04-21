@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/skt
-  - Monster/HG/0
-  - Monster/Größe/Klein
-  - Monster/Typ/Tier
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Sheep
+tags:
+  - Monster/Größe/Klein
+  - Monster/HG/0
+  - Monster/Typ/Tier
+  - Quelle/5e/skt
 aliases:
   - Sheep
 ---

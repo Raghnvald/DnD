@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Appendix B: Death House"
 tags:
   - Quelle/5e/cos
 aliases:

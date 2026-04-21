@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-race
+Bezeichnung: Hobgoblin
 tags:
   - Quelle/5e/dmg
   - Rasse/hobgoblin
@@ -9,7 +8,6 @@ aliases:
 ---
 # Hobgoblin
 *Source: Dungeon Master's Guide p. 282*  
-
 
 - **Ability Scores**: None
 - **Size**: Medium

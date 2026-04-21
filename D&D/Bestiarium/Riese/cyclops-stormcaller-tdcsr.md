@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/tdcsr
-  - Monster/HG/10
-  - Monster/Habitat/Berg
-  - Monster/Größe/Groß
-  - Monster/Typ/Riese
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Cyclops Stormcaller
+tags:
+  - Monster/Größe/Groß
+  - Monster/Habitat/Berg
+  - Monster/HG/10
+  - Monster/Typ/Riese
+  - Quelle/5e/tdcsr
 aliases:
   - Cyclops Stormcaller
 ---

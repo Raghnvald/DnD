@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Preparing Spells; Spell Preparation by Class
 tags:
   - Quelle/5e/xphb
 aliases:

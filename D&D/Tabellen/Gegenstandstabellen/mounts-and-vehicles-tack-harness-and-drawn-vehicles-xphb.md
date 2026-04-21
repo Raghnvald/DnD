@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Mounts and Vehicles; Tack, Harness, and Drawn Vehicles
 tags:
   - Quelle/5e/xphb
 aliases:

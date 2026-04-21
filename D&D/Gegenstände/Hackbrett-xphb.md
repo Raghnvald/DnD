@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Dulcimer
 tags:
   - Gegenstand/Ausrüstung/Instrument

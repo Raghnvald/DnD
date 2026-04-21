@@ -1,7 +1,5 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Cartographer's Tools
+Bezeichnung: "Cartographer's Tools"
 tags:
   - Gegenstand/Ausrüstung/Werkzeug
   - Gegenstand/Seltenheit/keine

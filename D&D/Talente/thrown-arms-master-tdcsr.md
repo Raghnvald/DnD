@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-feat
+Bezeichnung: Thrown Arms Master
 tags:
-  - Quelle/5e/tdcsr
   - Kompendium/Talent
+  - Quelle/5e/tdcsr
 aliases:
   - Thrown Arms Master
 ---

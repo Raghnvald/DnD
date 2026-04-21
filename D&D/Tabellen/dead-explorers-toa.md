@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Dead Explorers
 tags:
   - Quelle/5e/toa
 aliases:

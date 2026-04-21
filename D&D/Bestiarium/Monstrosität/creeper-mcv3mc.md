@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mcv3mc
-  - Monster/HG/1-2
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Monstrosität
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Creeper
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/1-2
+  - Monster/Typ/Monstrosität
+  - Quelle/5e/mcv3mc
 aliases:
   - Creeper
 ---

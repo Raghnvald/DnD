@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Kammern; Kammer
 tags:
   - Quelle/5e/dmg
 aliases:

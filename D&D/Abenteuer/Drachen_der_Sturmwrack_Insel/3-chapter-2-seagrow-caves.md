@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Chapter 2: Seagrow Caves"
 tags:
   - Quelle/5e/dosi
 aliases:

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Triton
 tags:
   - Zauber/list/race/triton
 aliases:

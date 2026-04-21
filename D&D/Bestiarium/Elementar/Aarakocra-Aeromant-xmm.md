@@ -1,20 +1,19 @@
 ---
-cssclasses:
-  - json5e-monster
+statblock: inline
+statblock-link: "#^statblock"
+Bezeichnung: Aarakocra Aeromancer
+Kategorie: Elementar
+Größe: Mittelgroß
 tags:
-  - Quelle/5e/xmm
-  - Monster/HG/4
+  - Monster/Größe/Mittelgroß
   - Monster/Habitat/air
   - Monster/Habitat/Berg
   - Monster/Habitat/planar
-  - Monster/Größe/Mittelgroß
+  - Monster/HG/4
   - Monster/Typ/Elementar
-statblock: inline
-statblock-link: "#^statblock"
+  - Quelle/5e/xmm
 aliases:
   - Aarakocra Aeromancer
-Kategorie: Elementar
-Größe: Mittelgroß
 ---
 # [Aarakocra Aeromancer](3-Mechanics\CLI\bestiary\elemental/aarakocra-aeromancer-xmm.md)
 *Source: Monster Manual (2024) p. 10*  

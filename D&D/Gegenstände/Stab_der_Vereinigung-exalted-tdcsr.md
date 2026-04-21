@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Spire of Conflux (Exalted)
 tags:
   - Gegenstand/Einstimmung/required

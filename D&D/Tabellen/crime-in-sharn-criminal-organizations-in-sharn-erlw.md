@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Crime in Sharn; Criminal Organizations in Sharn
 tags:
   - Quelle/5e/erlw
 aliases:

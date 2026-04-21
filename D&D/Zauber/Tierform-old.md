@@ -1,5 +1,4 @@
 ---
-cssclasses: json5e-spell
 Bezeichnung: Tierform
 Zaubergrad: 8
 tags:

@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Sea Fury
 tags:
-  - Quelle/5e/egw
   - Monster/legendary-group
+  - Quelle/5e/egw
 aliases:
   - Sea Fury
 ---

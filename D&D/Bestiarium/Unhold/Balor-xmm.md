@@ -1,15 +1,14 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/19
-  - Monster/Habitat/abyss
-  - Monster/Habitat/planar
-  - Monster/Größe/Riesig
-  - Monster/Typ/Unhold/demon
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Balor
+tags:
+  - Monster/Größe/Riesig
+  - Monster/Habitat/abyss
+  - Monster/Habitat/planar
+  - Monster/HG/19
+  - Monster/Typ/Unhold/demon
+  - Quelle/5e/xmm
 aliases:
   - Balor
 ---

@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Bloodstone
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone

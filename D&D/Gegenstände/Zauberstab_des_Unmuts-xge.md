@@ -1,7 +1,6 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Wand of Scowls
+Kategorie: Zauberstab
 tags:
   - Gegenstand/Seltenheit/gewöhnlich
   - Gegenstand/wundersam/Zauberstab

@@ -1,17 +1,16 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/0
-  - Monster/Habitat/Wüste
-  - Monster/Habitat/Wald
-  - Monster/Habitat/Grasland
-  - Monster/Habitat/Hügel
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Tier
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Hyena
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Grasland
+  - Monster/Habitat/Hügel
+  - Monster/Habitat/Wald
+  - Monster/Habitat/Wüste
+  - Monster/HG/0
+  - Monster/Typ/Tier
+  - Quelle/5e/xmm
 aliases:
   - Hyena
 ---

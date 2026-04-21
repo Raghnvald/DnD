@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Creating Quick Monster Stats; Monster Statistics by Challenge Rating
 tags:
   - Quelle/5e/dmg
 aliases:

@@ -1,18 +1,17 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/2
-  - Monster/Habitat/Arktis
-  - Monster/Habitat/Küste
-  - Monster/Habitat/Grasland
-  - Monster/Habitat/Hügel
-  - Monster/Habitat/Berg
-  - Monster/Größe/Groß
-  - Monster/Typ/Monstrosität
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Griffon
+tags:
+  - Monster/Größe/Groß
+  - Monster/Habitat/Arktis
+  - Monster/Habitat/Berg
+  - Monster/Habitat/Grasland
+  - Monster/Habitat/Hügel
+  - Monster/Habitat/Küste
+  - Monster/HG/2
+  - Monster/Typ/Monstrosität
+  - Quelle/5e/xmm
 aliases:
   - Griffon
 ---
@@ -45,7 +44,6 @@ Countless tales surround griffons. Roll on or choose a result from the Griffon T
 > [!quote] A quote from Sildar Hallwinter, retired member of the Waterdeep Griffon Cavalry  
 > 
 > People think we flew high over the city to avoid weather vanes and laundry lines and whatnot. Truth is, if the griffons smelled how much horse meat trotted just below, folks would have worse than joy-flying mages and stirges to worry about!
-
 
 ```statblock
 "name": "Griffon (XMM)"

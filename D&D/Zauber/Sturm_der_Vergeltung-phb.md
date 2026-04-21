@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Storm of Vengeance
 Zaubergrad: 9
 tags:

@@ -1,7 +1,5 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Schauerlicher Tand (CoS)
+Bezeichnung: Trinket
 Kategorie: Abenteuerausrüstung
 tags:
   - Gegenstand/Ausrüstung/

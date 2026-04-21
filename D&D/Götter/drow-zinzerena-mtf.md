@@ -1,10 +1,9 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Zinzerena
 tags:
-  - Quelle/5e/mtf
-  - Kompendium/Götter/drow
   - Kompendium/Götter/Domäne/trickery
+  - Kompendium/Götter/drow
+  - Quelle/5e/mtf
 aliases:
   - Zinzerena
 ---

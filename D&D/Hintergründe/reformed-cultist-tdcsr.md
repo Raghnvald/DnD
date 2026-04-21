@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-background
+Bezeichnung: Reformed Cultist
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/tdcsr
@@ -9,7 +8,6 @@ aliases:
 ---
 # Reformed Cultist
 *Source: Tal'Dorei Campaign Setting Reborn p. 185*  
-
 
 - **Skill Proficiencies.** [Deception](/3-Mechanics/CLI/skills.md#Deception) and [Religion](/3-Mechanics/CLI/skills.md#Religion)  
 - **Languages.** One of your choice  

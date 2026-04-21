@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Chapter 6: Old Bonegrinder"
 tags:
   - Quelle/5e/cos
 aliases:

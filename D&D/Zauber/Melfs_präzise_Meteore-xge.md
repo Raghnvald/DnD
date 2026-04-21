@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Melf's Minute Meteors
+Bezeichnung: "Melf's Minute Meteors"
 Zaubergrad: 3
 Zeitaufwand:
 Reichweite:
@@ -13,8 +13,8 @@ tags:
   - Klasse/Schurke/Arkaner-Betrüger
   - Klasse/Zauberer
   - Quelle/5e/xge
-  - Subklasse/Mystischer-Ritter
   - Subklasse/evoker
+  - Subklasse/Mystischer-Ritter
   - Zauber/Grad/3
   - Zauber/Schule/Hervorrufung
 classes:

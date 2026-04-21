@@ -1,7 +1,6 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Oil of Sharpness
+Kategorie: Trank
 tags:
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/wundersam/Trank

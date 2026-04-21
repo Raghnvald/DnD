@@ -1,8 +1,9 @@
 ---
+Bezeichnung: "Appendix B: Adventure Hooks"
 tags:
-- Quelle/5e/bgg
+  - Quelle/5e/bgg
 aliases:
-- Appendix B: Adventure Hooks
+  - Appendix B: Adventure Hooks
 ---
 # Appendix B: Adventure Hooks
 *Source: Bigby Presents: Glory of the Giants, p. 192* 

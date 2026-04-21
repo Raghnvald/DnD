@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/bgg
-  - Monster/HG/25
-  - Monster/Größe/Gigantisch
-  - Monster/Typ/Riese/titan
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Scion of Surtur
+tags:
+  - Monster/Größe/Gigantisch
+  - Monster/HG/25
+  - Monster/Typ/Riese/titan
+  - Quelle/5e/bgg
 aliases:
   - Scion of Surtur
 ---

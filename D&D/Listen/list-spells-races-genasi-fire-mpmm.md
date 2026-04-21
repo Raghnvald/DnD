@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Genasi (Fire)
 tags:
   - Zauber/list/subrace/genasi-fire
 aliases:

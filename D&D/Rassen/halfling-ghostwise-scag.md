@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-race
+Bezeichnung: Halfling (Ghostwise)
 tags:
   - Quelle/5e/scag
   - Rasse/halfling/ghostwise

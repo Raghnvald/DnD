@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Prismatic Spray
 tags:
   - Klasse/Barde

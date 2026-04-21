@@ -1,10 +1,9 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Rillifane Rallathil
 tags:
-  - Quelle/5e/mtf
-  - Kompendium/Götter/elven
   - Kompendium/Götter/Domäne/nature
+  - Kompendium/Götter/elven
+  - Quelle/5e/mtf
 aliases:
   - Rillifane Rallathil
 ---

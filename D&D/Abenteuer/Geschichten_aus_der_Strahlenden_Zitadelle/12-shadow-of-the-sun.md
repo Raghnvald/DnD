@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Shadow of the Sun
 tags:
   - Quelle/5e/jttrc
 aliases:

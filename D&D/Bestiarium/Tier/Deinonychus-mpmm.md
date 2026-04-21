@@ -1,16 +1,15 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mpmm
-  - Monster/HG/1
-  - Monster/Habitat/Wald
-  - Monster/Habitat/Grasland
-  - Monster/Habitat/Hügel
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Tier/dinosaur
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Deinonychus
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Grasland
+  - Monster/Habitat/Hügel
+  - Monster/Habitat/Wald
+  - Monster/HG/1
+  - Monster/Typ/Tier/dinosaur
+  - Quelle/5e/mpmm
 aliases:
   - Deinonychus
 ---

@@ -1,14 +1,12 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Phantasmal Killer
 tags:
   - Klasse/Barde
   - Klasse/Magier
   - Klasse/Schurke/Arkaner-Betrüger
   - Quelle/5e/xphb
-  - Subklasse/Mystischer-Ritter
   - Subklasse/illusionist
+  - Subklasse/Mystischer-Ritter
   - Subklasse/the-genie/dao
   - Subklasse/the-hexblade
   - Zauber/Grad/4

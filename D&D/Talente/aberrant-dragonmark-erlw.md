@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-feat
+Bezeichnung: Aberrant Dragonmark
 tags:
-  - Quelle/5e/erlw
   - Kompendium/Talent
+  - Quelle/5e/erlw
 aliases:
   - Aberrant Dragonmark
 ---

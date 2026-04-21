@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/erlw
-  - Monster/HG/1-2
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Fee
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Valenar Hound
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/1-2
+  - Monster/Typ/Fee
+  - Quelle/5e/erlw
 aliases:
   - Valenar Hound
 ---

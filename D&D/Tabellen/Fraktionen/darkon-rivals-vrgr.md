@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Darkon Rivals
 tags:
   - Quelle/5e/vrgr
 aliases:

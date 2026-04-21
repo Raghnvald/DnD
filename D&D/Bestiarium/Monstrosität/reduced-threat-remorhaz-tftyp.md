@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/tftyp
-  - Monster/HG/11
-  - Monster/Größe/Groß
-  - Monster/Typ/Monstrosität
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Reduced-Threat Remorhaz
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/11
+  - Monster/Typ/Monstrosität
+  - Quelle/5e/tftyp
 aliases:
   - Reduced-Threat Remorhaz
 ---

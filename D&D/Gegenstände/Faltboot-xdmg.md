@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Folding Boat
 tags:
   - Gegenstand/Seltenheit/selten

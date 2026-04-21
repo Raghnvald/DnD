@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/bgg
-  - Monster/HG/18
-  - Monster/Größe/Riesig
-  - Monster/Typ/Riese/cleric
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Fire Giant Forgecaller
+tags:
+  - Monster/Größe/Riesig
+  - Monster/HG/18
+  - Monster/Typ/Riese/cleric
+  - Quelle/5e/bgg
 aliases:
   - Fire Giant Forgecaller
 ---

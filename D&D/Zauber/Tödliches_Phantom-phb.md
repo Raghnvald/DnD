@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Phantasmal Killer
 Zaubergrad: 4
 tags:

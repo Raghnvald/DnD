@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Platinum 10-Zino Coin
 tags:
   - Gegenstand/Ausrüstung/treasure-coinage

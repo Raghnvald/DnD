@@ -22,9 +22,9 @@ tags:
   - Subklasse/abjurer
   - Subklasse/clockwork-sorcery
   - Subklasse/divine-soul/neutrality
-  - Subklasse/Mystischer-Ritter
   - Subklasse/horizon-walker
   - Subklasse/monster-slayer
+  - Subklasse/Mystischer-Ritter
   - Zauber/Grad/1
   - Zauber/Schule/Bann
 classes:

@@ -1,8 +1,10 @@
 ---
 Bezeichnung: Augen des Adlers
+Kategorie: Wundersamer Gegenstand
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/ungewöhnlich
+  - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
   - Eyes of the Eagle

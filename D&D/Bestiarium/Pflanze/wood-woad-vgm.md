@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/vgm
-  - Monster/HG/5
-  - Monster/Habitat/Wald
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Pflanze
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Wood Woad
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Wald
+  - Monster/HG/5
+  - Monster/Typ/Pflanze
+  - Quelle/5e/vgm
 aliases:
   - Wood Woad
 ---

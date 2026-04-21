@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-background
+Bezeichnung: Myriad Operative (Criminal)
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/egw
@@ -9,7 +8,6 @@ aliases:
 ---
 # Myriad Operative (Criminal)
 *Source: Explorer's Guide to Wildemount p. 203*  
-
 
 - **Skill Proficiencies.** [Deception](/3-Mechanics/CLI/skills.md#Deception), [Stealth](/3-Mechanics/CLI/skills.md#Stealth)  
 - **Tool Proficiencies.** One type of gaming set, [thieves' tools](/3-Mechanics/CLI/items/thieves-tools-xphb.md)  

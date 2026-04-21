@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: "Tasha's Mind Whip"
 Zaubergrad: 2
 tags:

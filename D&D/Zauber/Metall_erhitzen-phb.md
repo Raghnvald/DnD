@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Heat Metal
 Zaubergrad: 2
 tags:

@@ -1,5 +1,7 @@
 ---
-tags: [Quelle/5e/dmg]
+Bezeichnung: "Anhang A: Zufällige Gewölbe"
+tags:
+  - Quelle/5e/dmg
 ---
 # Anhang A: Zufällige Gewölbe
 

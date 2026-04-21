@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Wandering the Mists
 tags:
   - Quelle/5e/vrgr
 aliases:

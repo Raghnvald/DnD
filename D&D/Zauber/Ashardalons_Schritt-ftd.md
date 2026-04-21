@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Ashardalon's Stride
+Bezeichnung: "Ashardalon's Stride"
 Zaubergrad: 3
 Zeitaufwand:
 Reichweite:
@@ -7,10 +7,10 @@ Komponenten:
 Wirkungsdauer:
 Angriff:
 tags:
+  - Klasse/Artifizient
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
   - Klasse/Magier
-  - Klasse/Artifizient
   - Klasse/Schurke/Arkaner-Betrüger
   - Klasse/Waldläufer
   - Klasse/Zauberer

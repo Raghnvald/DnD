@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-reward
+Bezeichnung: Observatory Charm
 tags:
-  - Quelle/5e/xdmg
   - Kompendium/Belohnung/charm
+  - Quelle/5e/xdmg
 aliases:
   - Observatory Charm
 ---

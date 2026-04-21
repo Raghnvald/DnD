@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Gnome (Forest)
 tags:
   - Zauber/list/subrace/gnome-forest
 aliases:

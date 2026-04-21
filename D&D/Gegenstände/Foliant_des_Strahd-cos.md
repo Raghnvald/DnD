@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Tome of Strahd
 Kategorie: Abenteuerausrüstung
 tags:

@@ -1,7 +1,5 @@
 ---
-cssclasses:
-  - json5e-spell
-Bezeichnung: Mordenkainen's Private Sanctum
+Bezeichnung: "Mordenkainen's Private Sanctum"
 Zaubergrad: 4
 tags:
   - Klasse/Barde/Magische-Geheimnisse

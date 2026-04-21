@@ -1,7 +1,6 @@
 ---
+Bezeichnung: Pulse Wave
 Zaubergrad: 3
-cssclasses:
-  - json5e-spell
 tags:
   - Quelle/5e/egw
   - Zauber/Grad/3
@@ -11,7 +10,6 @@ aliases:
 ---
 # Pulse Wave
 *3rd-level, Evocation*  
-
 
 - **Casting time:** 1 Action
 - **Range:** Self (30-foot Cone)

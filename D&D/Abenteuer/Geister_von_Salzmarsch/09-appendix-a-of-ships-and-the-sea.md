@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Appendix A: Of Ships and the Sea"
 tags:
   - Quelle/5e/gos
 aliases:

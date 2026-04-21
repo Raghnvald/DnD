@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Half-Orc Names – Female
 tags:
   - Quelle/5e/xge
 aliases:

@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-class
+Bezeichnung: Circle of the Land
 tags:
-  - Quelle/5e/xphb
   - Klasse/Druide/land
+  - Quelle/5e/xphb
 aliases:
   - Circle of the Land
 ---
@@ -41,7 +40,6 @@ aliases:
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 

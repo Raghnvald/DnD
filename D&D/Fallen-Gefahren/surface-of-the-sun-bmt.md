@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-hazard
+Bezeichnung: Surface of the Sun
 tags:
-  - Quelle/5e/bmt
   - Kompendium/Bedrohung/mag
+  - Quelle/5e/bmt
 aliases:
   - Surface of the Sun
 ---

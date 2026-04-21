@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Captain N'ghathrod"
 tags:
-  - Quelle/5e/wdmm
   - Monster/legendary-group
+  - Quelle/5e/wdmm
 aliases:
   - Captain N'ghathrod
 ---

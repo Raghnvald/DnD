@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Creating an Amethyst Dragon; Amethyst Dragon Ideals
 tags:
   - Quelle/5e/ftd
 aliases:

@@ -1,7 +1,6 @@
 ---
+Bezeichnung: Immovable Object
 Zaubergrad: 2
-cssclasses:
-  - json5e-spell
 tags:
   - Quelle/5e/egw
   - Zauber/Grad/2
@@ -11,7 +10,6 @@ aliases:
 ---
 # Immovable Object
 *2nd-level, Transmutation*  
-
 
 - **Casting time:** 1 Action
 - **Range:** Touch

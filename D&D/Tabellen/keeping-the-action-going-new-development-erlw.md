@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Keeping the Action Going; New Development
 tags:
   - Quelle/5e/erlw
 aliases:

@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/vrgr
-  - Monster/HG/8
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Inquisitor of the Tome
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/8
+  - Monster/Typ/Humanoid
+  - Quelle/5e/vrgr
 aliases:
   - Inquisitor of the Tome
 ---

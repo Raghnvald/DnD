@@ -1,10 +1,10 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Blasted Goggles
+Kategorie: Wundersamer Gegenstand
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/ungewöhnlich
+  - Gegenstand/wundersam
   - Quelle/5e/bmt
 aliases:
   - Blasted Goggles

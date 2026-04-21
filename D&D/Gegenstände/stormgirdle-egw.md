@@ -1,10 +1,10 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Stormgirdle
+Kategorie: Wundersamer Gegenstand 
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
+  - Gegenstand/wundersam
   - Quelle/5e/egw
 aliases:
   - Stormgirdle

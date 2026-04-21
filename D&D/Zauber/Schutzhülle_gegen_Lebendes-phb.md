@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Antilife Shell
 Zaubergrad: 5
 tags:

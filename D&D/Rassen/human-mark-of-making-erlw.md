@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-race
+Bezeichnung: Human (Mark of Making)
 tags:
   - Quelle/5e/erlw
   - Rasse/human/mark-of-making
@@ -9,7 +8,6 @@ aliases:
 ---
 # Human (Mark of Making)
 *Source: Eberron: Rising from the Last War p. 45*  
-
 
 - **Ability Scores**: Apply +1 to one of Strength, Dexterity, Constitution, Wisdom, or Charisma.
 - **Size**: Medium

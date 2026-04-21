@@ -1,6 +1,10 @@
 ---
-tags: [Klasse/Hexenmeister, Quelle/5e/phb]
-aliases: [Warlock]
+Bezeichnung: Hexenmeister
+tags:
+  - Klasse/Hexenmeister
+  - Quelle/5e/phb
+aliases:
+  - Warlock
 ---
 # Hexenmeister
 _Quelle: SRD / Grundregelwerk / Spielerhandbuch_

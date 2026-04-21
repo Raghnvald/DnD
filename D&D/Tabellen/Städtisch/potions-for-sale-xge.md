@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Potions for Sale
 tags:
   - Quelle/5e/xge
 aliases:

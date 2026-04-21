@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: The Stormlord
 tags:
-  - Quelle/5e/tdcsr
-  - Kompendium/Götter/exandria
   - Kompendium/Götter/Domäne/tempest
   - Kompendium/Götter/Domäne/war
+  - Kompendium/Götter/exandria
+  - Quelle/5e/tdcsr
 aliases:
-  - The Stormlord
   - Kord
+  - The Stormlord
 ---
 # The Stormlord
 *Source: Tal'Dorei Campaign Setting Reborn p. 30* 

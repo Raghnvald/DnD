@@ -11,8 +11,8 @@ tags:
   - Monster/Typ/Untote
   - Quelle/5e/mm
 aliases:
-  - Beschreibung
   - Banshee
+  - Beschreibung
 linter-yaml-title-alias: Beschreibung
 ---
 

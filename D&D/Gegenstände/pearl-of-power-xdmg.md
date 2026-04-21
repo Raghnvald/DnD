@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Pearl of Power
 tags:
   - Gegenstand/Einstimmung/required

@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Destructive Wave
 tags:
   - Klasse/Kleriker/tempest-domain

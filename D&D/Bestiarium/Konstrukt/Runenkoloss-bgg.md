@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/bgg
-  - Monster/HG/21
-  - Monster/Größe/Gigantisch
-  - Monster/Typ/Konstrukt
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Runic Colossus
+tags:
+  - Monster/Größe/Gigantisch
+  - Monster/HG/21
+  - Monster/Typ/Konstrukt
+  - Quelle/5e/bgg
 aliases:
   - Runic Colossus
 ---

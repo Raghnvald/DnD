@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Jeweled gold crown
 tags:
   - Gegenstand/Ausrüstung/treasure-art-object

@@ -1,9 +1,10 @@
 ---
+Bezeichnung: Auge des Runenwächters
 tags:
-- Quelle/5e/phb
-- Kompendium/Optionales/Anrufungen
+  - Kompendium/Optionales/Anrufungen
+  - Quelle/5e/phb
 aliases:
-- Eyes of the Rune Keeper
+  - Eyes of the Rune Keeper
 ---
 # Auge des Runenwächters
 _Quellen:_ Spielerhandbuch

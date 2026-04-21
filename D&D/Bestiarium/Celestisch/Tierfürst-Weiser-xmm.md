@@ -1,15 +1,14 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/20
-  - Monster/Habitat/beastlands
-  - Monster/Habitat/planar
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Himmlische
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Animal Lord; Sage
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/beastlands
+  - Monster/Habitat/planar
+  - Monster/HG/20
+  - Monster/Typ/Himmlische
+  - Quelle/5e/xmm
 aliases:
   - Animal Lord; Sage
 ---

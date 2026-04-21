@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Crime Syndicate Contacts; Syndicate Contact
 tags:
   - Quelle/5e/erlw
 aliases:

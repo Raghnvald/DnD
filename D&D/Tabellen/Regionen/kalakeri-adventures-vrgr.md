@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Kalakeri Adventures
 tags:
   - Quelle/5e/vrgr
 aliases:

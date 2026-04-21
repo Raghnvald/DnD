@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-race
+Bezeichnung: Kenku
 tags:
   - Quelle/5e/dmg
   - Rasse/kenku
@@ -9,7 +8,6 @@ aliases:
 ---
 # Kenku
 *Source: Dungeon Master's Guide p. 282*  
-
 
 - **Ability Scores**: dex +2
 - **Size**: Medium

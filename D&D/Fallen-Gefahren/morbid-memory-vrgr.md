@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-hazard
+Bezeichnung: Morbid Memory
 tags:
-  - Quelle/5e/vrgr
   - Kompendium/Bedrohung/haunt
+  - Quelle/5e/vrgr
 aliases:
   - Morbid Memory
 ---

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Circle of Spores
 tags:
   - Zauber/list/subclass/circle-of-spores
 aliases:

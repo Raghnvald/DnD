@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Jakarions Zauberstecken des Fros
+Bezeichnung: "Jakarion's Staff of Frost"
 Kategorie: Zauberstecken
 tags:
   - Gegenstand/Einstimmung/required

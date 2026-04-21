@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Darkvision
+Bezeichnung: Dunkelsicht
 Zaubergrad: 2
 Zeitaufwand:
 Reichweite:

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Eldritch Sight
 tags:
   - Zauber/list/optfeature/eldritch-sight
 aliases:

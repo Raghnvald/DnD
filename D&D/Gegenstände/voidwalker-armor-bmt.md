@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Voidwalker Armor-bmt
+Bezeichnung: Voidwalker Armor
 Kategorie: Rüstung
 Rüstung: Leicht
 Eigenschaften: Verflucht

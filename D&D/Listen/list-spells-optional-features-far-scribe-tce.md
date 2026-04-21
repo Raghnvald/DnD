@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Far Scribe
 tags:
   - Zauber/list/optfeature/far-scribe
 aliases:

@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mm
-  - Monster/HG/16
-  - Monster/Größe/Groß
-  - Monster/Typ/Himmlische
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Planetar
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/16
+  - Monster/Typ/Himmlische
+  - Quelle/5e/mm
 aliases:
   - Planetar
 ---

@@ -1,10 +1,10 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Black Crystal Tablet
+Kategorie: Wundersamer Gegenstand
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
+  - Gegenstand/wundersam
   - Quelle/5e/wdmm
 aliases:
   - Black Crystal Tablet

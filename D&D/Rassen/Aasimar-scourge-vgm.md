@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-race
+Bezeichnung: Aasimar (Scourge)
 tags:
   - Quelle/5e/vgm
   - Rasse/aasimar/scourge

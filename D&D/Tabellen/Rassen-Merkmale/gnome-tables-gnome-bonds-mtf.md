@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Gnome Tables; Gnome Bonds
 tags:
   - Quelle/5e/mtf
 aliases:

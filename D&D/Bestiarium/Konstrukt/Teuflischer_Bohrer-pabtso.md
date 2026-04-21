@@ -1,14 +1,14 @@
 ---
-tags:
-  - Quelle/5e/pabtso
-  - Monster/HG/5
-  - Monster/Größe/Riesig
-  - Monster/Typ/Konstrukt
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Fiendish Auger
+tags:
+  - Monster/Größe/Riesig
+  - Monster/HG/5
+  - Monster/Typ/Konstrukt
+  - Quelle/5e/pabtso
 aliases:
   - Fiendish Auger
-Bezeichnung: Teuflischer Bohrer
 Image: construct/token/fiendish-auger-pabtso.webp
 ---
 # Fiendish Auger

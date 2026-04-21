@@ -1,15 +1,14 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/15
-  - Monster/Habitat/Wüste
-  - Monster/Habitat/Unterreich
-  - Monster/Größe/Gigantisch
-  - Monster/Typ/Monstrosität
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Purple Worm
+tags:
+  - Monster/Größe/Gigantisch
+  - Monster/Habitat/Unterreich
+  - Monster/Habitat/Wüste
+  - Monster/HG/15
+  - Monster/Typ/Monstrosität
+  - Quelle/5e/xmm
 aliases:
   - Purple Worm
 ---
@@ -28,7 +27,6 @@ Titanic purple worms burrow through the earth and sand. Ever ravenous, they devo
 > [!quote] A quote from Morrikan d'Kundarak  
 > 
 > Purple worms alone are bad enough, but the blasted monsters have a knack for unearthing things that are even worse!
-
 
 ```statblock
 "name": "Purple Worm (XMM)"

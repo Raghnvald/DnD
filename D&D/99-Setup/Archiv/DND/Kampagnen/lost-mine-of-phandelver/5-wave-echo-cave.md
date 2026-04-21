@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Wave Echo Cave
 tags:
   - Quelle/5e/lmop
 aliases:

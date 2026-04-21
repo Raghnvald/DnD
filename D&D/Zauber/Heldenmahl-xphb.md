@@ -1,7 +1,5 @@
 ---
-cssclasses:
-  - json5e-spell
-Bezeichnung: Heroes' Feast
+Bezeichnung: "Heroes' Feast"
 tags:
   - Klasse/Barde
   - Klasse/Druide

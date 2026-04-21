@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/jttrc
-  - Monster/HG/2
-  - Monster/Größe/Klein
-  - Monster/Typ/Monstrosität
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Aurumvorax
+tags:
+  - Monster/Größe/Klein
+  - Monster/HG/2
+  - Monster/Typ/Monstrosität
+  - Quelle/5e/jttrc
 aliases:
   - Aurumvorax
 ---

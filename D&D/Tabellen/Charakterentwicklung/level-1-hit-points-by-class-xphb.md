@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Level 1 Hit Points by Class
 tags:
   - Quelle/5e/xphb
 aliases:

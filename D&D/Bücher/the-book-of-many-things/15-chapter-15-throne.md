@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Chapter 15: Throne"
 tags:
   - Quelle/5e/bmt
 aliases:

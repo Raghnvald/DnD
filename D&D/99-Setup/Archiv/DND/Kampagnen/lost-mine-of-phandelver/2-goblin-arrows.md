@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Goblin Arrows
 tags:
   - Quelle/5e/lmop
 aliases:

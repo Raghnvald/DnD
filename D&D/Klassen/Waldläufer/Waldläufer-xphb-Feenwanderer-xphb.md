@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-class
+Bezeichnung: Fey Wanderer
 tags:
-  - Quelle/5e/xphb
   - Klasse/Waldläufer/fey-wanderer
+  - Quelle/5e/xphb
 aliases:
   - Fey Wanderer
 ---
@@ -41,7 +40,6 @@ aliases:
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 

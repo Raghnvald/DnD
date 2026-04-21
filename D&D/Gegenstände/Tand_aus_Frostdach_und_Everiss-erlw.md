@@ -1,7 +1,5 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Tand aus Frostdach und Everiss
+Bezeichnung: Frostfell and Everice Trinket
 Kategorie: Abenteuerausrüstung
 tags:
   - Gegenstand/Ausrüstung/

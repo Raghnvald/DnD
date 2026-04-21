@@ -1,4 +1,5 @@
 ---
+Bezeichnung: Schule der Tragödie
 tags:
   - Klasse/Barde
   - Quelle/5e/tdcsr

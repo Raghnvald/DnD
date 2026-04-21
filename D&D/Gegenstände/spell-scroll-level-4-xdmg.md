@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Spell Scroll (Level 4)
 tags:
   - Gegenstand/Seltenheit/selten

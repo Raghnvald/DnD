@@ -1,11 +1,10 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Valkur
 tags:
-  - Quelle/5e/scag
-  - Kompendium/Götter/faerunian
   - Kompendium/Götter/Domäne/tempest
   - Kompendium/Götter/Domäne/war
+  - Kompendium/Götter/faerunian
+  - Quelle/5e/scag
 aliases:
   - Valkur
 ---

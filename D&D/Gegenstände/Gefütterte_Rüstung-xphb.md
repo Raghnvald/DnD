@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Padded Armor
 Rüstung: Leicht
 tags:
@@ -8,7 +6,6 @@ tags:
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
-  - Padded Armor
   - Padded Armor
 linter-yaml-title-alias: Padded Armor
 ---

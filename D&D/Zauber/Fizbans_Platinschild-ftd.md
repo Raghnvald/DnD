@@ -1,7 +1,5 @@
 ---
-cssclasses:
-  - json5e-spell
-Bezeichnung: Fizban's Platinum Shield
+Bezeichnung: "Fizban's Platinum Shield"
 Zaubergrad: 6
 tags:
   - Klasse/Barde

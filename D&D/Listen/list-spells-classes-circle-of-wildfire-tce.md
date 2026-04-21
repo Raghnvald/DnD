@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Circle of Wildfire
 tags:
   - Zauber/list/subclass/circle-of-wildfire
 aliases:

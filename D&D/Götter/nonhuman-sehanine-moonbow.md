@@ -1,10 +1,9 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Sehanine Moonbow
 tags:
-  - Quelle/5e/phb
-  - Kompendium/Götter/nonhuman
   - Kompendium/Götter/Domäne/knowledge
+  - Kompendium/Götter/nonhuman
+  - Quelle/5e/phb
 aliases:
   - Sehanine Moonbow
 ---

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Thelanis, the Faerie Court; Thelanis Manifest Zone Features
 tags:
   - Quelle/5e/erlw
 aliases:

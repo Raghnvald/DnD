@@ -1,7 +1,6 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Cursed Luckstone
+Kategorie: Wundersamer Gegenstand
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/ungewöhnlich

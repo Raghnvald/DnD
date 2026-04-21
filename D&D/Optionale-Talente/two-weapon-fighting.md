@@ -1,11 +1,10 @@
 ---
-cssclasses:
-  - json5e-feat
+Bezeichnung: Two-Weapon Fighting
 tags:
-  - Quelle/5e/phb
   - Kompendium/Optionales/fs-b
   - Kompendium/Optionales/fs-f
   - Kompendium/Optionales/fs-r
+  - Quelle/5e/phb
 aliases:
   - Two-Weapon Fighting
 ---

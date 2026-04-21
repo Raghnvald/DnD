@@ -1,3 +1,7 @@
+---
+Bezeichnung: Das Ferne Reich
+---
+# Das Ferne Reich
 Halbebenen sind kleine Ebenen die entweder in anderen Ebenen liegen oder komplett ausserhalb der bekannten Ebenen liegen.
 
 Das Ferne Reich

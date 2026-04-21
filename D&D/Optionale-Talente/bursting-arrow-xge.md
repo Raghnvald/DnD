@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-feat
+Bezeichnung: Bursting Arrow
 tags:
-  - Quelle/5e/xge
   - Kompendium/Optionales/as
+  - Quelle/5e/xge
 aliases:
   - Bursting Arrow
 ---

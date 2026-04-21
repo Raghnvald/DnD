@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Sword of Answering (Scather)
 Kategorie: Nahkampf-Kriegswaffe
 tags:

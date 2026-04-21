@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mpmm
-  - Monster/HG/1-2
-  - Monster/Habitat/Unterreich
-  - Monster/Größe/Klein
-  - Monster/Typ/Monstrosität
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Chitine
+tags:
+  - Monster/Größe/Klein
+  - Monster/Habitat/Unterreich
+  - Monster/HG/1-2
+  - Monster/Typ/Monstrosität
+  - Quelle/5e/mpmm
 aliases:
   - Chitine
 ---

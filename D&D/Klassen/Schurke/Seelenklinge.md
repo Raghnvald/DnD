@@ -1,6 +1,10 @@
 ---
-tags: [Klasse/Schurke, Quelle/5e/tce]
-aliases: [Soulknife]
+Bezeichnung: Seelenklinge
+tags:
+  - Klasse/Schurke
+  - Quelle/5e/tce
+aliases:
+  - Soulknife
 ---
 # Seelenklinge
 _[[Schurke]]_: Schurkenarchetyp

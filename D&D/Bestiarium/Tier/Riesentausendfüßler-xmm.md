@@ -1,15 +1,14 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/1-4
-  - Monster/Habitat/Unterreich
-  - Monster/Habitat/Stadt
-  - Monster/Größe/Klein
-  - Monster/Typ/Tier
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Giant Centipede
+tags:
+  - Monster/Größe/Klein
+  - Monster/Habitat/Stadt
+  - Monster/Habitat/Unterreich
+  - Monster/HG/1-4
+  - Monster/Typ/Tier
+  - Quelle/5e/xmm
 aliases:
   - Giant Centipede
 ---

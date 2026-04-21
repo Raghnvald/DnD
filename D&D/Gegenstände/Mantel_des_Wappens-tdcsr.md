@@ -1,10 +1,10 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Coat of the Crest
+Kategorie: Wundersamer Gegenstand 
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
+  - Gegenstand/wundersam
   - Quelle/5e/tdcsr
 aliases:
   - Coat of the Crest

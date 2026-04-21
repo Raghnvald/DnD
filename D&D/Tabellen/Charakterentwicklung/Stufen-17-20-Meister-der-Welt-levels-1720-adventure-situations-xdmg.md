@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Levels 17–20: Masters of the World; Levels 17–20 Adventure Situations"
 tags:
   - Quelle/5e/xdmg
 aliases:

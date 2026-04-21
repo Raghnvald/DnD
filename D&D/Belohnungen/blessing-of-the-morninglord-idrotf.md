@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-reward
+Bezeichnung: Blessing of the Morninglord
 tags:
-  - Quelle/5e/idrotf
   - Kompendium/Belohnung/blessing
+  - Quelle/5e/idrotf
 aliases:
   - Blessing of the Morninglord
 ---

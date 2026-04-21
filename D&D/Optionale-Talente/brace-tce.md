@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-feat
+Bezeichnung: Brace
 tags:
-  - Quelle/5e/tce
   - Kompendium/Optionales/mv-b
+  - Quelle/5e/tce
 aliases:
   - Brace
 ---

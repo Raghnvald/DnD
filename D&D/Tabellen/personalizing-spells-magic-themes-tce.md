@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Personalizing Spells; Magic Themes
 tags:
   - Quelle/5e/tce
 aliases:

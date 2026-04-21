@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Streitkolben des Niederstreckens
+Bezeichnung: Mace of Smiting
 Kategorie: Einfache Nahkampfwaffe
 Schaden: 1W6 Wucht
 Eigenschaften: /

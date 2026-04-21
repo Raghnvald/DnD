@@ -1,5 +1,5 @@
 ---
-cssclasses: json5e-note
+Bezeichnung: "Chapter 15: Xonthal's Tower"
 tags:
   - Quelle/5e/rot
 aliases:

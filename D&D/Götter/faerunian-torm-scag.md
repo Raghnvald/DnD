@@ -1,15 +1,14 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Torm
 tags:
-  - Quelle/5e/scag
-  - Kompendium/Götter/faerunian
   - Kompendium/Götter/Domäne/war
+  - Kompendium/Götter/faerunian
+  - Quelle/5e/scag
 aliases:
-  - Torm
+  - The Hand of Righteousness
   - The Loyal Fury
   - The True
-  - The Hand of Righteousness
+  - Torm
 ---
 # Torm
 *Source: Sword Coast Adventurer's Guide p. 21* 

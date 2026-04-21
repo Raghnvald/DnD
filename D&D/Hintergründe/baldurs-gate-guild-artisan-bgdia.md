@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-background
+Bezeichnung: "Baldur's Gate Guild Artisan"
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/bgdia
@@ -9,7 +8,6 @@ aliases:
 ---
 # Baldur's Gate Guild Artisan
 *Source: Baldur's Gate: Descent Into Avernus p. 204, Player's Handbook p. 132*  
-
 
 - **Skill Proficiencies.** [Insight](/3-Mechanics/CLI/skills.md#Insight), [Persuasion](/3-Mechanics/CLI/skills.md#Persuasion)  
 - **Tool Proficiencies.** One type of artisan's tools  

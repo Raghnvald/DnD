@@ -1,11 +1,10 @@
 ---
-cssclasses:
-  - json5e-feat
+Bezeichnung: Defense
 tags:
-  - Quelle/5e/phb
   - Kompendium/Optionales/fs-f
   - Kompendium/Optionales/fs-p
   - Kompendium/Optionales/fs-r
+  - Quelle/5e/phb
 aliases:
   - Defense
 ---

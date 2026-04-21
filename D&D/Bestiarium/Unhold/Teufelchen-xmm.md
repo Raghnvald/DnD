@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/1
-  - Monster/Habitat/Jedes
-  - Monster/Größe/Winzig
-  - Monster/Typ/Unhold/devil
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Imp
+tags:
+  - Monster/Größe/Winzig
+  - Monster/Habitat/Jedes
+  - Monster/HG/1
+  - Monster/Typ/Unhold/devil
+  - Quelle/5e/xmm
 aliases:
   - Imp
 ---
@@ -29,7 +28,6 @@ Imps without masters delight in manipulating other creatures and inflating their
 > [!quote] A quote from Skeever, Imp Servant of Firan Zal'Honan  
 > 
 > I can tell you what I know, but wouldn't you rather I tell you what'll let you do what you know you're going to do anyway?
-
 
 ```statblock
 "name": "Imp (XMM)"

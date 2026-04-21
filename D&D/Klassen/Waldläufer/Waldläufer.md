@@ -1,7 +1,12 @@
 ---
-tags: [Klasse/Waldläufer, Quelle/5e/phb]
-aliases: [Ranger]
+Bezeichnung: Waldläufer
+tags:
+  - Klasse/Waldläufer
+  - Quelle/5e/phb
+aliases:
+  - Ranger
 ---
+# Waldläufer
 Waldläufer
 ==========
 
@@ -71,7 +76,6 @@ Hit Points
 *   **Hit Points at First Level:** 10 + CON
     
 *   **Hit Points at Higher Levels:** add 5 OR 1W10 + CON (minimum of 1)
-    
 
 Starting Ranger
 ---------------
@@ -87,7 +91,6 @@ You are proficient with the following items, in addition to any proficiencies pr
 *   **Tools**: none
     
 *   **Skills**: Choose 3 from _Animal Handling_, _Athletics_, _Insight_, _Investigation_, _Nature_, _Perception_, _Stealth_, _Survival_
-    
 
 You begin play with the following equipment, in addition to any equipment provided by your background.
 
@@ -98,7 +101,6 @@ You begin play with the following equipment, in addition to any equipment provid
 *   (a) a [dungeoneer's pack](../../../Gegenstände/Gewölbeforscherausrüstung.md) or (b) an [explorer's pack](Entdeckerausrüstung-old.md)
     
 *   A [Langbogen](../../../Gegenstände/Langbogen.md) and a [Köcher](../../../Gegenstände/Köcher.md) of [20 arrows](Pfeile-20-phb.md)
-    
 
 Alternatively, you may start with 5W4 × 10 gp and choose your own equipment.
 
@@ -110,7 +112,6 @@ To multiclass as a Ranger, you must meet the following prerequisites:
 *   Dexterity 13
     
 *   Wisdom 13
-    
 
 You gain the following proficiencies:
 
@@ -121,7 +122,6 @@ You gain the following proficiencies:
 *   **Tools**: none
     
 *   **Skills**: Choose 1 from _Animal Handling_, _Athletics_, _Insight_, _Investigation_, _Nature_, _Perception_, _Stealth_, _Survival_
-    
 
 Ranger
 ------
@@ -261,7 +261,6 @@ While traveling for an hour or more in your favored terrain, you gain the follow
 *   When you forage, you find twice as much food as you normally would.
     
 *   While tracking other creatures, you also learn their exact number, their sizes, and how long ago they passed through the area.
-    
 
 You choose additional favored terrain types at 6th and 10th level.
 
@@ -276,7 +275,6 @@ At 2nd level, you adopt a particular style of fighting as your specialty. Choose
 *   [Dueling](../../Optionale%20Talente/Duellieren.md)
     
 *   [Two-Weapon Fighting](../../Optionale%20Talente/Zwei-Waffen-Kampf.md)
-    
 
 ### Spellcasting (Level 2)
 

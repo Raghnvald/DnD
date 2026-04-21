@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mcv4ec
-  - Monster/HG/6
-  - Monster/Größe/Groß
-  - Monster/Typ/Monstrosität
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Witchstalker
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/6
+  - Monster/Typ/Monstrosität
+  - Quelle/5e/mcv4ec
 aliases:
   - Witchstalker
 ---

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Salted Legacy
 tags:
   - Quelle/5e/jttrc
 aliases:

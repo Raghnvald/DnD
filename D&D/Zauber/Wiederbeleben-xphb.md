@@ -1,8 +1,7 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Revivify
 tags:
+  - Klasse/Artifizient
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
   - Klasse/Druide
@@ -10,7 +9,6 @@ tags:
   - Klasse/Kleriker
   - Klasse/Kleriker/grave-domain
   - Klasse/Kleriker/life-domain
-  - Klasse/Artifizient
   - Klasse/paladin
   - Klasse/Waldläufer
   - Quelle/5e/xphb

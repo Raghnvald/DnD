@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Pass without Trace
 tags:
   - Klasse/Barde

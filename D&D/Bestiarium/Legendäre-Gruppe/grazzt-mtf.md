@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Graz'zt"
 tags:
-  - Quelle/5e/mtf
   - Monster/legendary-group
+  - Quelle/5e/mtf
 aliases:
   - Graz'zt
 ---

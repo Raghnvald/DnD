@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Months and Festivals; Days of the Week
 tags:
   - Quelle/5e/xdmg
 aliases:

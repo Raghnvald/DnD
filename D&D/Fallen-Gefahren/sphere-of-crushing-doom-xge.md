@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-hazard
+Bezeichnung: Sphere of Crushing Doom
 tags:
-  - Quelle/5e/xge
   - Kompendium/Bedrohung/cmpx
+  - Quelle/5e/xge
 aliases:
   - Sphere of Crushing Doom
 ---

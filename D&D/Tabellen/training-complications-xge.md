@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Training Complications
 tags:
   - Quelle/5e/xge
 aliases:

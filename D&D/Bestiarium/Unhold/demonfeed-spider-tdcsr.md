@@ -1,15 +1,14 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/tdcsr
-  - Monster/HG/8
-  - Monster/Habitat/Wald
-  - Monster/Habitat/Unterreich
-  - Monster/Größe/Groß
-  - Monster/Typ/Unhold
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Demonfeed Spider
+tags:
+  - Monster/Größe/Groß
+  - Monster/Habitat/Unterreich
+  - Monster/Habitat/Wald
+  - Monster/HG/8
+  - Monster/Typ/Unhold
+  - Quelle/5e/tdcsr
 aliases:
   - Demonfeed Spider
 ---

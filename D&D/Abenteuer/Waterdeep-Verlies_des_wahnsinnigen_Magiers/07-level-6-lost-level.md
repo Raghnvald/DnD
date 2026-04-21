@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Level 6: Lost Level"
 tags:
   - Quelle/5e/wdmm
 aliases:

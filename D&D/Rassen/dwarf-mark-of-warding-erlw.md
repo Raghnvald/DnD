@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-race
+Bezeichnung: Dwarf (Mark of Warding)
 tags:
   - Quelle/5e/erlw
   - Rasse/dwarf/mark-of-warding
@@ -9,7 +8,6 @@ aliases:
 ---
 # Dwarf (Mark of Warding)
 *Source: Eberron: Rising from the Last War p. 51*  
-
 
 - **Ability Scores**: int +1
 - **Size**: Medium

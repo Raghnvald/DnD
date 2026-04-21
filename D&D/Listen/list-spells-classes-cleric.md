@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Cleric Spells
 tags:
   - Zauber/list/class/cleric
 aliases:

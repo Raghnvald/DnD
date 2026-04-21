@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-feat
+Bezeichnung: Wave of Rolling Earth
 tags:
-  - Quelle/5e/phb
   - Kompendium/Optionales/ed
+  - Quelle/5e/phb
 aliases:
   - Wave of Rolling Earth
 ---

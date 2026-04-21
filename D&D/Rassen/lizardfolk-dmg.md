@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-race
+Bezeichnung: Lizardfolk
 tags:
   - Quelle/5e/dmg
   - Rasse/lizardfolk
@@ -9,7 +8,6 @@ aliases:
 ---
 # Lizardfolk
 *Source: Dungeon Master's Guide p. 282*  
-
 
 - **Ability Scores**: str +2 int -2
 - **Size**: Medium

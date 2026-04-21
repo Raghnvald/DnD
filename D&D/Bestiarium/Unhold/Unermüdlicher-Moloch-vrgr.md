@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/vrgr
-  - Monster/HG/12
-  - Monster/Größe/Groß
-  - Monster/Typ/Unhold
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Relentless Juggernaut
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/12
+  - Monster/Typ/Unhold
+  - Quelle/5e/vrgr
 aliases:
   - Relentless Juggernaut
 ---

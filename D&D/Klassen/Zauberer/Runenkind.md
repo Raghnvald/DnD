@@ -1,4 +1,5 @@
 ---
+Bezeichnung: Runenkind
 tags:
   - Klasse/Zauberer
   - Quelle/5e/tdcsr

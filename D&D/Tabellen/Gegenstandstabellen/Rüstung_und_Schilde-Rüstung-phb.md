@@ -1,4 +1,5 @@
 ---
+Bezeichnung: Rüstung und Schilde; Rüstungen
 tags:
   - Quelle/5e/phb
 aliases:

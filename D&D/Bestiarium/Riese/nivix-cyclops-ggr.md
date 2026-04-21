@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/ggr
-  - Monster/HG/8
-  - Monster/Größe/Groß
-  - Monster/Typ/Riese
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Nivix Cyclops
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/8
+  - Monster/Typ/Riese
+  - Quelle/5e/ggr
 aliases:
   - Nivix Cyclops
 ---

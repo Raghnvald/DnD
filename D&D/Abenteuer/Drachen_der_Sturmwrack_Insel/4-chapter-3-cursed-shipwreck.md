@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Chapter 3: Cursed Shipwreck"
 tags:
   - Quelle/5e/dosi
 aliases:

@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/1-2
-  - Monster/Habitat/Wald
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Pflanze
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Vine Blight
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Wald
+  - Monster/HG/1-2
+  - Monster/Typ/Pflanze
+  - Quelle/5e/xmm
 aliases:
   - Vine Blight
 ---
@@ -31,7 +30,6 @@ Blights are malicious plants that sprout from deep-rooted evil. Their gnarled fo
 > [!quote] A quote from Belak the Outcast, Druid of the Twilight Grove  
 > 
 > It lives, though it looks dead. In an age long past, someone staked a vampire to the earth on this very spot. The wooden stake was yet green and took root. And so grew the Gulthias Tree, reverberating with primal power.
-
 
 ```statblock
 "name": "Vine Blight (XMM)"

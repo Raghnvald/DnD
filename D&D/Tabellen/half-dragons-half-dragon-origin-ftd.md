@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Half-Dragons; Half-Dragon Origin
 tags:
   - Quelle/5e/ftd
 aliases:

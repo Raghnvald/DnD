@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/ftd
-  - Monster/HG/5
-  - Monster/Größe/Groß
-  - Monster/Typ/Schleim
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Dragonblood Ooze
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/5
+  - Monster/Typ/Schleim
+  - Quelle/5e/ftd
 aliases:
   - Dragonblood Ooze
 ---

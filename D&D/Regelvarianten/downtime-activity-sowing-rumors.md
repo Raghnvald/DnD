@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Downtime Activity: Sowing Rumors"
 tags:
   - Quelle/5e/dmg
 aliases:

@@ -1,12 +1,11 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Tiamat
 tags:
-  - Quelle/5e/egw
-  - Kompendium/Götter/exandria
   - Kompendium/Götter/Domäne/order
   - Kompendium/Götter/Domäne/trickery
   - Kompendium/Götter/Domäne/war
+  - Kompendium/Götter/exandria
+  - Quelle/5e/egw
 aliases:
   - Tiamat
 ---

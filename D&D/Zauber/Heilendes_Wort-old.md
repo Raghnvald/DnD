@@ -1,5 +1,4 @@
 ---
-cssclasses: json5e-spell
 Bezeichnung: Heilendes Wort
 status: WIP
 tags:

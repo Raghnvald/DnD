@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Medicine; Healing Services
 tags:
   - Quelle/5e/erlw
 aliases:

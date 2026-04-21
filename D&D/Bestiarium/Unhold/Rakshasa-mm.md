@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mm
-  - Monster/HG/13
-  - Monster/Habitat/Stadt
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Unhold
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Rakshasa
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Stadt
+  - Monster/HG/13
+  - Monster/Typ/Unhold
+  - Quelle/5e/mm
 aliases:
   - Rakshasa
 ---
@@ -34,7 +33,6 @@ Like devils, rakshasas killed in the Nine Hells are forever destroyed.
 > Slay me once, shame on you.
 > 
 > Slay me twice, shame on me.
-
 
 ```statblock
 "name": "Rakshasa"

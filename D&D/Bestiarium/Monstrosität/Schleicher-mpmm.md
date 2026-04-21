@@ -1,18 +1,17 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mpmm
-  - Monster/HG/1-2
-  - Monster/Habitat/Küste
-  - Monster/Habitat/Wald
-  - Monster/Habitat/Sumpf
-  - Monster/Habitat/Unterreich
-  - Monster/Habitat/Stadt
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Monstrosität
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Skulk
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Küste
+  - Monster/Habitat/Stadt
+  - Monster/Habitat/Sumpf
+  - Monster/Habitat/Unterreich
+  - Monster/Habitat/Wald
+  - Monster/HG/1-2
+  - Monster/Typ/Monstrosität
+  - Quelle/5e/mpmm
 aliases:
   - Skulk
 ---

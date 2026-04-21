@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-class
+Bezeichnung: Wild Magic
 tags:
-  - Quelle/5e/phb
   - Klasse/Zauberer/wild
+  - Quelle/5e/phb
 aliases:
   - Wild Magic
 ---
@@ -41,7 +40,6 @@ aliases:
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 

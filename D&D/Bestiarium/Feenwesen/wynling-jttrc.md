@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/jttrc
-  - Monster/HG/1-2
-  - Monster/Größe/Winzig
-  - Monster/Typ/Fee
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Wynling
+tags:
+  - Monster/Größe/Winzig
+  - Monster/HG/1-2
+  - Monster/Typ/Fee
+  - Quelle/5e/jttrc
 aliases:
   - Wynling
 ---

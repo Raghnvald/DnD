@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Elixir of Health
 tags:
   - Gegenstand/Seltenheit/selten

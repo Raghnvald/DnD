@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Phantom Steed
 Zaubergrad: 3
 tags:

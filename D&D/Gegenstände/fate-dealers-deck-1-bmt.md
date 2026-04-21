@@ -1,7 +1,6 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: +1 Fate Dealer's Deck
+Bezeichnung: "+1 Fate Dealer's Deck"
+Kategorie: Wundersamer Gegenstand
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten

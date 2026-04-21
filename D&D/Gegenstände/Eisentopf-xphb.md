@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Iron Pot
 tags:
   - Gegenstand/Ausrüstung/

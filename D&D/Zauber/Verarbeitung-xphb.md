@@ -1,12 +1,10 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Fabricate
 tags:
+  - Klasse/Artifizient
   - Klasse/Barde
   - Klasse/Kleriker/forge-domain
   - Klasse/Magier
-  - Klasse/Artifizient
   - Klasse/Schurke/Arkaner-Betrüger
   - Quelle/5e/xphb
   - Subklasse/Mystischer-Ritter

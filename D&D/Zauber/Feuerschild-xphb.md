@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Fire Shield
 tags:
   - Klasse/Barde
@@ -13,9 +11,9 @@ tags:
   - Quelle/5e/xphb
   - Subklasse/armorer
   - Subklasse/battle-smith
-  - Subklasse/Mystischer-Ritter
   - Subklasse/evoker
   - Subklasse/fiend-patron
+  - Subklasse/Mystischer-Ritter
   - Subklasse/the-genie/efreeti
   - Zauber/Grad/4
   - Zauber/Schule/Hervorrufung

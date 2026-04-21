@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/bgg
-  - Monster/HG/13
-  - Monster/Größe/Gigantisch
-  - Monster/Typ/Monstrosität/dinosaur
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Altisaur
+tags:
+  - Monster/Größe/Gigantisch
+  - Monster/HG/13
+  - Monster/Typ/Monstrosität/dinosaur
+  - Quelle/5e/bgg
 aliases:
   - Altisaur
 ---

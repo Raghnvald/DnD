@@ -1,11 +1,10 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Balder
 tags:
-  - Quelle/5e/phb
-  - Kompendium/Götter/norse
   - Kompendium/Götter/Domäne/life
   - Kompendium/Götter/Domäne/light
+  - Kompendium/Götter/norse
+  - Quelle/5e/phb
 aliases:
   - Balder
 ---

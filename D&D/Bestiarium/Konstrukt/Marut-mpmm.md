@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mpmm
-  - Monster/HG/25
-  - Monster/Größe/Groß
-  - Monster/Typ/Konstrukt/inevitable
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Marut
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/25
+  - Monster/Typ/Konstrukt/inevitable
+  - Quelle/5e/mpmm
 aliases:
   - Marut
 ---

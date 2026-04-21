@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-bastion
+Bezeichnung: Reliquary
 tags:
   - Kompendium/Bastion
   - Quelle/5e/xdmg

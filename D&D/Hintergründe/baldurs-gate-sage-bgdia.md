@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-background
+Bezeichnung: "Baldur's Gate Sage"
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/bgdia
@@ -9,7 +8,6 @@ aliases:
 ---
 # Baldur's Gate Sage
 *Source: Baldur's Gate: Descent Into Avernus p. 204, Player's Handbook p. 137*  
-
 
 - **Skill Proficiencies.** [Arcana](/3-Mechanics/CLI/skills.md#Arcana), [History](/3-Mechanics/CLI/skills.md#History)  
 - **Languages.** Two of your choice  

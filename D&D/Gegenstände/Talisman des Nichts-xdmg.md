@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Talisman of the Sphere
 tags:
   - Gegenstand/Einstimmung/required

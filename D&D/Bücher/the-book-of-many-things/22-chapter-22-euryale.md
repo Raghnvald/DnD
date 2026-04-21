@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Chapter 22: Euryale"
 tags:
   - Quelle/5e/bmt
 aliases:

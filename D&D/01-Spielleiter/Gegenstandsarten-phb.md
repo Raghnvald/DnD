@@ -1,7 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
-  - bases-no-toolbar
+Bezeichnung: Gegenstandsarten
 tags:
   - Quelle/5e/dmg
   - Quelle/5e/phb

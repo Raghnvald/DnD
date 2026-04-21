@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Manual of Gainful Exercise
 tags:
   - Gegenstand/Seltenheit/sehr_selten

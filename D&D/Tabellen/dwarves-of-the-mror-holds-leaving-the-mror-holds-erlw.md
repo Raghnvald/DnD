@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Dwarves of the Mror Holds; Leaving the Mror Holds
 tags:
   - Quelle/5e/erlw
 aliases:

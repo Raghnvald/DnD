@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Heiltrank
+Kategorie: Trank
 Eigenschaften: n/v
 Kst.: 50 GM
 Gew.: 0,25 kg

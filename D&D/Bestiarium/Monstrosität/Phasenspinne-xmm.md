@@ -1,21 +1,20 @@
 ---
-cssclasses:
-  - json5e-monster
+statblock: inline
+statblock-link: "#^statblock"
+Bezeichnung: Phase Spider
 tags:
-  - Quelle/5e/xmm
-  - Monster/HG/3
-  - Monster/Habitat/Wüste
+  - Monster/Größe/Groß
   - Monster/Habitat/ethereal
-  - Monster/Habitat/Wald
   - Monster/Habitat/Grasland
   - Monster/Habitat/Hügel
   - Monster/Habitat/planar
-  - Monster/Habitat/Unterreich
   - Monster/Habitat/Stadt
-  - Monster/Größe/Groß
+  - Monster/Habitat/Unterreich
+  - Monster/Habitat/Wald
+  - Monster/Habitat/Wüste
+  - Monster/HG/3
   - Monster/Typ/Monstrosität
-statblock: inline
-statblock-link: "#^statblock"
+  - Quelle/5e/xmm
 aliases:
   - Phase Spider
 ---
@@ -36,7 +35,6 @@ Phase spiders are more intelligent than mundane spiders, but most are cowards. T
 > [!quote] A quote from Marcus Wands, Doubtful Authority  
 > 
 > Some sages say you unknowingly occupy the same ethereally coterminous point as a phase spider an average of four times each year.
-
 
 ```statblock
 "name": "Phase Spider (XMM)"

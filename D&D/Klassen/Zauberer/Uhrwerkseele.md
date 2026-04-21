@@ -1,6 +1,10 @@
 ---
-tags: [Klasse/Zauberer, Quelle/5e/tce]
-aliases: [Clockwork Soul]
+Bezeichnung: Uhrwerkseele
+tags:
+  - Klasse/Zauberer
+  - Quelle/5e/tce
+aliases:
+  - Clockwork Soul
 ---
 # Uhrwerkseele
 _[[Zauberer]]_: Magische Herkunft

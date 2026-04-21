@@ -1,7 +1,5 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Gänseei-Requisiten
+Bezeichnung: Goose Egg Trinket
 Kategorie: Abenteuerausrüstung
 tags:
   - Gegenstand/Ausrüstung/

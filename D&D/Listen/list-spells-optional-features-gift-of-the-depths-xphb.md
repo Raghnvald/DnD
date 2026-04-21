@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Gift of the Depths
 tags:
   - Zauber/list/optfeature/gift-of-the-depths
 aliases:

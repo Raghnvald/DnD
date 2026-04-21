@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Ammunition (Varies); Ammunition
 tags:
   - Quelle/5e/xphb
 aliases:

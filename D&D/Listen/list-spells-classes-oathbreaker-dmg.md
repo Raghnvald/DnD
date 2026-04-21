@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Oathbreaker
 tags:
   - Zauber/list/subclass/oathbreaker
 aliases:

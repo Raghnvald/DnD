@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Connected Creatures; Ancient Topaz Dragon Connections
 tags:
   - Quelle/5e/ftd
 aliases:

@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Dust of Sneezing and Choking
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich

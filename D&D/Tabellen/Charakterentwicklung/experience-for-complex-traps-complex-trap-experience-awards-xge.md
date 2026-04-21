@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Experience for Complex Traps; Complex Trap Experience Awards
 tags:
   - Quelle/5e/xge
 aliases:

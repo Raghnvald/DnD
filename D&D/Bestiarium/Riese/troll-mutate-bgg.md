@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/bgg
-  - Monster/HG/7
-  - Monster/Größe/Groß
-  - Monster/Typ/Riese
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Troll Mutate
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/7
+  - Monster/Typ/Riese
+  - Quelle/5e/bgg
 aliases:
   - Troll Mutate
 ---
@@ -29,7 +28,6 @@ Trolls' rapid healing makes them subject to bizarre mutations, particularly when
 > [!quote] A quote from Diancastra  
 > 
 > Excellent. But these trolls are loathsome.
-
 
 ```statblock
 "name": "Troll Mutate (BGG)"

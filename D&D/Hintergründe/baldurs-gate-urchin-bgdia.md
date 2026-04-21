@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-background
+Bezeichnung: "Baldur's Gate Urchin"
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/bgdia
@@ -9,7 +8,6 @@ aliases:
 ---
 # Baldur's Gate Urchin
 *Source: Baldur's Gate: Descent Into Avernus p. 204, Player's Handbook p. 141*  
-
 
 - **Skill Proficiencies.** [Sleight of Hand](/3-Mechanics/CLI/skills.md#Sleight%20of%20Hand), [Stealth](/3-Mechanics/CLI/skills.md#Stealth)  
 - **Tool Proficiencies.** [Disguise kit](/3-Mechanics/CLI/items/disguise-kit-xphb.md), [Thieves' tools](/3-Mechanics/CLI/items/thieves-tools-xphb.md)  

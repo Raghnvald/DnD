@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Sword of Answering (Squelcher)
 Kategorie: Nahkampf-Kriegswaffe
 tags:

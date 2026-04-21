@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Hunger of Hadar
 tags:
   - Klasse/Hexenmeister

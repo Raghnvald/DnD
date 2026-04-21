@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Staff of Fire
 tags:
   - Gegenstand/Einstimmung/required

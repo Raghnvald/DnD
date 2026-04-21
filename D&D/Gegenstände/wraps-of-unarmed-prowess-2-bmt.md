@@ -1,9 +1,9 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: +2 Wraps of Unarmed Prowess
+Kategorie: Wundersamer Gegenstand 
 tags:
   - Gegenstand/Seltenheit/selten
+  - Gegenstand/wundersam
   - Quelle/5e/bmt
 aliases:
   - +2 Wraps of Unarmed Prowess

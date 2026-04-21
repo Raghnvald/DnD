@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Attack on the Wayside Inn
 tags:
   - Quelle/5e/slw
 aliases:

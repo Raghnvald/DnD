@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Dragon Turtle Adventures; Dragon Turtle Adventure Hooks
 tags:
   - Quelle/5e/ftd
 aliases:

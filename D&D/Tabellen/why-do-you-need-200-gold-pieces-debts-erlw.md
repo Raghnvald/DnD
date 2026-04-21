@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Why Do You Need 200 Gold Pieces?; Debts
 tags:
   - Quelle/5e/erlw
 aliases:

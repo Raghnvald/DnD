@@ -1,5 +1,5 @@
 ---
-Bezeichnung:
+Bezeichnung: Name
 Kategorie: Nahkampf-Kriegswaffe
 Schaden:
 Eigenschaften:
@@ -9,8 +9,7 @@ tags:
   - Gegenstand/Ausrüstung
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
-aliases:
-  - 
+aliases: []
 linter-yaml-title-alias:
 ---
 # Name

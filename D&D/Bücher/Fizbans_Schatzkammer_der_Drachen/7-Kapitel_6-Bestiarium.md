@@ -1,4 +1,5 @@
 ---
+Bezeichnung: Bestiary
 tags:
   - Quelle/5e/ftd
 aliases:

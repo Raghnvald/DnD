@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Downtime Activity: Crafting"
 tags:
   - Quelle/5e/phb
 aliases:

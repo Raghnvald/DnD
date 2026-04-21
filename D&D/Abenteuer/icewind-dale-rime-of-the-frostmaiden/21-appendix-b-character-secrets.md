@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Appendix B: Character Secrets"
 tags:
   - Quelle/5e/idrotf
 aliases:

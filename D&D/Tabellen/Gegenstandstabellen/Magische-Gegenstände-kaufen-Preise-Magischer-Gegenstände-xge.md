@@ -1,8 +1,9 @@
 ---
+Bezeichnung: Magische Gegenstände kaufen, Preise für Magische Gegenstände
 tags:
-- Quelle/5e/xge
+  - Quelle/5e/xge
 aliases:
-- Buying a Magic Item; Magic Item Price
+  - Buying a Magic Item; Magic Item Price
 ---
 # Magische Gegenstände kaufen, Preise für Magische Gegenstände
 *Quelle: Xanathars Ratgeber für Alles S. 126* 

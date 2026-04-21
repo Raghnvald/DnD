@@ -1,15 +1,14 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mpmm
-  - Monster/HG/2
-  - Monster/Habitat/Berg
-  - Monster/Habitat/Unterreich
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Konstrukt/Zwerg
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Duergar Hammerer
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Berg
+  - Monster/Habitat/Unterreich
+  - Monster/HG/2
+  - Monster/Typ/Konstrukt/Zwerg
+  - Quelle/5e/mpmm
 aliases:
   - Duergar Hammerer
 ---

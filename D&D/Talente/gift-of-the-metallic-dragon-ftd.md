@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-feat
+Bezeichnung: Gift of the Metallic Dragon
 tags:
-  - Quelle/5e/ftd
   - Kompendium/Talent
+  - Quelle/5e/ftd
 aliases:
   - Gift of the Metallic Dragon
 ---

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-background
+Bezeichnung: Gilden-/Zunfthandwerker (Gildenkaufmann) (Variante)
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/phb
@@ -9,7 +8,6 @@ aliases:
 ---
 # Gilden-/Zunfthandwerker (Gildenkaufmann) (Variante)
 *Source: Player's Handbook p. 133*  
-
 
 - **Skill Proficiencies.** [Insight](/3-Mechanics/CLI/skills.md#Insight), [Persuasion](/3-Mechanics/CLI/skills.md#Persuasion)  
 - **Tool Proficiencies.** One type of artisan's tools, or [navigator's tools](/3-Mechanics/CLI/items/navigators-tools-xphb.md), or an additional language  

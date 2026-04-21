@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Roben
+Bezeichnung: Robes
 Kategorie: Abenteuerausrüstung
 tags:
   - Gegenstand/Ausrüstung/

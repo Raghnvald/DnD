@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Lash of Shadows (Dormant)
 Kategorie: Nahkampf-Kriegswaffe
 tags:

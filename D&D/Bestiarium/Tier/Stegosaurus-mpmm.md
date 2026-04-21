@@ -1,15 +1,14 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mpmm
-  - Monster/HG/4
-  - Monster/Habitat/Wald
-  - Monster/Habitat/Grasland
-  - Monster/Größe/Riesig
-  - Monster/Typ/Tier/dinosaur
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Stegosaurus
+tags:
+  - Monster/Größe/Riesig
+  - Monster/Habitat/Grasland
+  - Monster/Habitat/Wald
+  - Monster/HG/4
+  - Monster/Typ/Tier/dinosaur
+  - Quelle/5e/mpmm
 aliases:
   - Stegosaurus
 ---

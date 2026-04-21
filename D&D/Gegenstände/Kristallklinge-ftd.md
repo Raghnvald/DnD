@@ -1,7 +1,5 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Kristallklinge
+Bezeichnung: Crystal Blade
 Kategorie: Nahkampf-Kriegswaffe
 tags:
   - Gegenstand/Einstimmung/required

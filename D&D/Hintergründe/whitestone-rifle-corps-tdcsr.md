@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-background
+Bezeichnung: Whitestone Rifle Corps
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/tdcsr

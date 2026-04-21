@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Heroes of Destiny; Sage Destinies
 tags:
   - Quelle/5e/bmt
 aliases:

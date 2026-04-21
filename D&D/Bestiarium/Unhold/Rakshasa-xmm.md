@@ -1,16 +1,15 @@
 ---
-cssclasses:
-  - json5e-monster
+statblock: inline
+statblock-link: "#^statblock"
+Bezeichnung: Rakshasa
 tags:
-  - Quelle/5e/xmm
-  - Monster/HG/13
+  - Monster/Größe/Mittelgroß
   - Monster/Habitat/nine-hells
   - Monster/Habitat/planar
   - Monster/Habitat/Stadt
-  - Monster/Größe/Mittelgroß
+  - Monster/HG/13
   - Monster/Typ/Unhold
-statblock: inline
-statblock-link: "#^statblock"
+  - Quelle/5e/xmm
 aliases:
   - Rakshasa
 ---

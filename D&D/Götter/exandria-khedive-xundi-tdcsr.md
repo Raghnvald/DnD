@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Khedive Xundi
 tags:
-  - Quelle/5e/tdcsr
   - Kompendium/Götter/exandria
+  - Quelle/5e/tdcsr
 aliases:
   - Khedive Xundi
 ---

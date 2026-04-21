@@ -1,7 +1,5 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Ebenenschutzsphäre
+Bezeichnung: Orb of Shielding
 Kategorie: Wundersamer Gegenstand
 tags:
   - Gegenstand/Ausrüstung/Zauberfokus

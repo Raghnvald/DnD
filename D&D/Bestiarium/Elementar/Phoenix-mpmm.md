@@ -1,15 +1,14 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mpmm
-  - Monster/HG/16
-  - Monster/Habitat/Wüste
-  - Monster/Habitat/Berg
-  - Monster/Größe/Gigantisch
-  - Monster/Typ/Elementar
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Phoenix
+tags:
+  - Monster/Größe/Gigantisch
+  - Monster/Habitat/Berg
+  - Monster/Habitat/Wüste
+  - Monster/HG/16
+  - Monster/Typ/Elementar
+  - Quelle/5e/mpmm
 aliases:
   - Phoenix
 ---

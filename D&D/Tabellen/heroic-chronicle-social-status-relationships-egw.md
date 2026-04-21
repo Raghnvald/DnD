@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Heroic Chronicle; Social Status Relationships
 tags:
   - Quelle/5e/egw
 aliases:

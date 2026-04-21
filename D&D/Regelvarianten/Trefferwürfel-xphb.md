@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Hit Point Dice
 tags:
   - Quelle/5e/xphb
 aliases:

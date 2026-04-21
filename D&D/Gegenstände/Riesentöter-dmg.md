@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Riesentöter
+Bezeichnung: Giant Slayer
 Kategorie: Beliebig, Nahkampfwaffe
 tags:
   - Gegenstand/Seltenheit/selten

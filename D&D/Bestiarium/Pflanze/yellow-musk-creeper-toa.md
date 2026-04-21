@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/toa
-  - Monster/HG/2
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Pflanze
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Yellow Musk Creeper
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/2
+  - Monster/Typ/Pflanze
+  - Quelle/5e/toa
 aliases:
   - Yellow Musk Creeper
 ---

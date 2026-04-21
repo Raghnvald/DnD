@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Ladder (10-foot)
 tags:
   - Gegenstand/Ausrüstung/

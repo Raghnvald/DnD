@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Passages; Passage Width
 tags:
   - Quelle/5e/dmg
 aliases:

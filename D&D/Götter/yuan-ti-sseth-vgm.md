@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Sseth
 tags:
-  - Quelle/5e/vgm
   - Kompendium/Götter/yuan-ti
+  - Quelle/5e/vgm
 aliases:
   - Sseth
 ---

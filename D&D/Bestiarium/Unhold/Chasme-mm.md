@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mm
-  - Monster/HG/6
-  - Monster/Größe/Groß
-  - Monster/Typ/Unhold/demon
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Chasme
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/6
+  - Monster/Typ/Unhold/demon
+  - Quelle/5e/mm
 aliases:
   - Chasme
 ---
@@ -183,7 +182,6 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 > [!quote] A quote from From the Demonomicon of Iggwilv  
 > 
 > Demons are painfully difficult to summon and control. It is not a burden for the weak of heart or the weak of spirit.
-
 
 ```statblock
 "name": "Chasme"

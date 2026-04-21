@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/jttrc
-  - Monster/HG/4
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Monstrosität
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Aurumvorax Den Leader
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/4
+  - Monster/Typ/Monstrosität
+  - Quelle/5e/jttrc
 aliases:
   - Aurumvorax Den Leader
 ---

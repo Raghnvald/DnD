@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Crystal Dragon Treasures; Crystal Dragon Art Objects
 tags:
   - Quelle/5e/ftd
 aliases:

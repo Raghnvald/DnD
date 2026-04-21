@@ -1,11 +1,11 @@
 ---
-cssclasses: json5e-deity
+Bezeichnung: Torm, Gott der Tapferkeit und Selbstaufopferung
 tags:
-  - Quelle/5e/phb
   - Kompendium/Götter
+  - Kompendium/Götter/Domäne/Krieg
   - Kompendium/Götter/Gesinnung/Rechtschaffen_Gut
   - Kompendium/Götter/Pantheon/Faerun
-  - Kompendium/Götter/Domäne/Krieg
+  - Quelle/5e/phb
 aliases:
   - Torm
 ---

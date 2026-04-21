@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-reward
+Bezeichnung: Charm of Ruin
 tags:
-  - Quelle/5e/bmt
   - Kompendium/Belohnung/charm
+  - Quelle/5e/bmt
 aliases:
   - Charm of Ruin
 ---

@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Tasha's Caustic Brew
+Bezeichnung: "Tasha's Caustic Brew"
 Zaubergrad: 1
 Zeitaufwand:
 Reichweite:
@@ -8,17 +8,17 @@ Wirkungsdauer:
 Angriff:
 Schaden:
 tags:
+  - Klasse/Artifizient
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
   - Klasse/Magier
-  - Klasse/Artifizient
   - Klasse/Schurke/Arkaner-Betrüger
   - Klasse/Zauberer
   - Kompendium/Talent/artificer-initiate
   - Kompendium/Talent/magic-initiate/wizard-spells
   - Quelle/5e/tce
-  - Subklasse/Mystischer-Ritter
   - Subklasse/evoker
+  - Subklasse/Mystischer-Ritter
   - Zauber/Grad/1
   - Zauber/Schule/Hervorrufung
 classes:

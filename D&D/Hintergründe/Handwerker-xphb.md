@@ -1,4 +1,5 @@
 ---
+Bezeichnung: Artisan
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/xphb

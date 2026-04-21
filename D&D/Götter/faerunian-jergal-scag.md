@@ -1,16 +1,15 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Jergal
 tags:
-  - Quelle/5e/scag
-  - Kompendium/Götter/faerunian
   - Kompendium/Götter/Domäne/death
   - Kompendium/Götter/Domäne/knowledge
+  - Kompendium/Götter/faerunian
+  - Quelle/5e/scag
 aliases:
   - Jergal
+  - The Bleak Seneschal
   - The Final Scribe
   - The Pitiless One
-  - The Bleak Seneschal
 ---
 # Jergal
 *Source: Sword Coast Adventurer's Guide p. 21* 

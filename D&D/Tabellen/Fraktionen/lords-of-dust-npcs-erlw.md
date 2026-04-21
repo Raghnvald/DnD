@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Lords of Dust NPCs
 tags:
   - Quelle/5e/erlw
 aliases:

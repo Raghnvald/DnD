@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Armor of Resistance
 tags:
   - Gegenstand/Einstimmung/required

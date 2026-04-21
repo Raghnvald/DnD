@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Aberrant Sorcery
 tags:
   - Zauber/list/subclass/aberrant-sorcery
 aliases:

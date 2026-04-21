@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Human Names – Niger-Congo, Male
 tags:
   - Quelle/5e/xge
 aliases:

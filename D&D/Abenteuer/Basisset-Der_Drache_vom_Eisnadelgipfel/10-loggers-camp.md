@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Loggers' Camp"
 tags:
   - Quelle/5e/dip
 aliases:

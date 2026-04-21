@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Against the Giants
 tags:
   - Quelle/5e/bgg
 aliases:

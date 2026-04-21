@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: The Role of Dreams; Dream Adventures
 tags:
   - Quelle/5e/erlw
 aliases:

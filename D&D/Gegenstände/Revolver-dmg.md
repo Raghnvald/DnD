@@ -4,7 +4,6 @@ Kategorie: Fernkampf-Kriegswaffe
 Schaden: 2d8 Stich
 Eigenschaften: Geschosse, Nachladen (6 Schuss)
 Einstimmung: /
-RW: 12m /36m
 Kst.: /
 Gew.: 1,5 kg.
 tags:
@@ -16,6 +15,7 @@ tags:
 aliases:
   - Revolver
 linter-yaml-title-alias: Revolver
+RW: 12m /36m
 ---
 # Revolver
 *Waffe*  

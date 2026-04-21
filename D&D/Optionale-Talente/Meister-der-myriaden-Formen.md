@@ -1,8 +1,8 @@
 ---
-cssclasses: json5e-note
+Bezeichnung: Meister der myriaden Formen
 tags:
-  - Quelle/5e/phb
   - Kompendium/Optionales/Anrufungen
+  - Quelle/5e/phb
 aliases:
   - Master of Myriad Forms
 ---

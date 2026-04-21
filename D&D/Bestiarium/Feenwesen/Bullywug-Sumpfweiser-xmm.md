@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/4
-  - Monster/Habitat/Sumpf
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Fee
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Bullywug Bog Sage
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Sumpf
+  - Monster/HG/4
+  - Monster/Typ/Fee
+  - Quelle/5e/xmm
 aliases:
   - Bullywug Bog Sage
 ---

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Downtime Activity: Running a Business"
 tags:
   - Quelle/5e/dmg
 aliases:

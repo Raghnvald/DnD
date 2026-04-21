@@ -1,9 +1,10 @@
 ---
+Bezeichnung: Scharfer Verstand
 tags:
-- Quelle/5e/phb
-aliases:
-- 
+  - Quelle/5e/phb
+aliases: []
 ---
+# Scharfer Verstand
 ### Scharfer Verstand
 
 Du besitzt einen Verstand, der sich Zeiten, Richtungen und Einzelheiten besonders gut einprägen kann. Du erhältst diese Vorzüge:

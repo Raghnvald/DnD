@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Dungeon Decay; States of Ruin
 tags:
   - Quelle/5e/xdmg
 aliases:

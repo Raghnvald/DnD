@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Recurring Expenses; Maintenance Costs
 tags:
   - Quelle/5e/dmg
 aliases:

@@ -1,12 +1,11 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Isis
 tags:
-  - Quelle/5e/phb
-  - Kompendium/Götter/egyptian
   - Kompendium/Götter/Domäne/arcana
   - Kompendium/Götter/Domäne/knowledge
   - Kompendium/Götter/Domäne/life
+  - Kompendium/Götter/egyptian
+  - Quelle/5e/phb
 aliases:
   - Isis
 ---

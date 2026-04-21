@@ -1,9 +1,9 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Robe of Useful Items
+Kategorie: Wundersamer Gegenstand 
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
+  - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
   - Robe of Useful Items

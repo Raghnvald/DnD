@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Fairy
 tags:
   - Zauber/list/race/fairy
 aliases:

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Engraved Wards; Hidecarved Wards
 tags:
   - Quelle/5e/ftd
 aliases:

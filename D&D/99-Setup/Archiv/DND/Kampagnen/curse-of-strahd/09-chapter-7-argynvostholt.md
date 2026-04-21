@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Chapter 7: Argynvostholt"
 tags:
   - Quelle/5e/cos
 aliases:

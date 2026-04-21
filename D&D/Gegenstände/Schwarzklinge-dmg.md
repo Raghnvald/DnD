@@ -1,7 +1,5 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Schwarzklinge
+Bezeichnung: Blackrazor
 Kategorie: Nahkampf-Kriegswaffe
 tags:
   - Gegenstand/Einstimmung/required

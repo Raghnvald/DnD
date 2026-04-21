@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Creatures of the Mournland; Monstrous Mutations
 tags:
   - Quelle/5e/erlw
 aliases:

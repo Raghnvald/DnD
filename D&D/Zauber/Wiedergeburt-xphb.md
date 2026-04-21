@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Reincarnate
 tags:
   - Klasse/Barde

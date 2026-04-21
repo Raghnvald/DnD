@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: True Polymorph
 tags:
   - Klasse/Barde

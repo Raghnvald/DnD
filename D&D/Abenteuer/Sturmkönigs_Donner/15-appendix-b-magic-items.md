@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Appendix B: Magic Items"
 tags:
   - Quelle/5e/skt
 aliases:
@@ -11,7 +10,7 @@ aliases:
 
 The magic items that are introduced in this adventure are detailed here in alphabetical order.
 
-- [Banner of the Krig Rune](/3-Mechanics/CLI/items/banner-of-the-krig-rune-skt.md)  
+- [Banner of the Krig Rune](banner-of-the-krig-rune-skt.md)  
 - [Blod Stone](/3-Mechanics/CLI/items/blod-stone-skt.md)  
 - [Claw of the Wyrm Rune](/3-Mechanics/CLI/items/claw-of-the-wyrm-rune-skt.md)  
 - [Conch of Teleportation](/3-Mechanics/CLI/items/conch-of-teleportation-skt.md)  

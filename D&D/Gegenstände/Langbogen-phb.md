@@ -1,7 +1,5 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Langbogen
+Bezeichnung: Longbow
 Kategorie: Fernkampf-Kriegswaffe
 tags:
   - Gegenstand/Seltenheit/keine

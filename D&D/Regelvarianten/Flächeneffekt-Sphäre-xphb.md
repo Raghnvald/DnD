@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Sphere [Area of Effect]
 tags:
   - Quelle/5e/xphb
 aliases:

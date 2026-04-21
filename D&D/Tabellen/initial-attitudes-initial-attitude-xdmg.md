@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Initial Attitudes; Initial Attitude
 tags:
   - Quelle/5e/xdmg
 aliases:

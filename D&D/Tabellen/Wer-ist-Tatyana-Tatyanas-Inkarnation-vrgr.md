@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Who Is Tatyana?; Tatyana's Incarnation"
 tags:
   - Quelle/5e/vrgr
 aliases:

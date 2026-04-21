@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-feat
+Bezeichnung: Stone Rune
 tags:
-  - Quelle/5e/tce
   - Kompendium/Optionales/rn
+  - Quelle/5e/tce
 aliases:
   - Stone Rune
 ---

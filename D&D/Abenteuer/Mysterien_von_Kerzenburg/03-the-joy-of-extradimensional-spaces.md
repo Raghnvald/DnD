@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: The Joy of Extradimensional Spaces
 tags:
   - Quelle/5e/cm
 aliases:

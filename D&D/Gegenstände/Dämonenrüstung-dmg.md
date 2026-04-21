@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Dämonenrüstung
+Bezeichnung: Demon Armor
 Kategorie: Rüstung
 Rüstung: Schwer
 Eigenschaften: /

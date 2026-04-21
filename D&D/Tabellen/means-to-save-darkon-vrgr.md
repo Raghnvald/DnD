@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Means to Save Darkon
 tags:
   - Quelle/5e/vrgr
 aliases:

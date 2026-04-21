@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Bronze Dragon Adventures; Bronze Dragon Adventure Hooks
 tags:
   - Quelle/5e/ftd
 aliases:

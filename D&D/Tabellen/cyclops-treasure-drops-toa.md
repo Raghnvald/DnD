@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Cyclops; Treasure Drops
 tags:
   - Quelle/5e/toa
 aliases:

@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Polymorph
 Zaubergrad: 4
 tags:

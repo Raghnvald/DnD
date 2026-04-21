@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Creating a Bronze Dragon; Bronze Dragon Spellcasting
 tags:
   - Quelle/5e/ftd
 aliases:

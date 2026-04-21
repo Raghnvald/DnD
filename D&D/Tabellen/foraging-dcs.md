@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Foraging DCs
 tags:
   - Quelle/5e/dmg
 aliases:

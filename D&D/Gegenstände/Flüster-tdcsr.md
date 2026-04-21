@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Flüster
+Bezeichnung: Whisper
 Kategorie: Einfache Nahkampfwaffe
 Einstimmung: erfordert
 tags:

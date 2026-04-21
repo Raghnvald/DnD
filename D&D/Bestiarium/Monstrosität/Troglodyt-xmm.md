@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/1-4
-  - Monster/Habitat/Unterreich
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Monstrosität
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Troglodyte
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Unterreich
+  - Monster/HG/1-4
+  - Monster/Typ/Monstrosität
+  - Quelle/5e/xmm
 aliases:
   - Troglodyte
 ---
@@ -29,7 +28,6 @@ Troglodytes prefer to ambush prey and can change their scale color to blend in w
 > [!quote] A quote from Caarey Gelthik, Ghast  
 > 
 > Smells fine to me.
-
 
 ```statblock
 "name": "Troglodyte (XMM)"

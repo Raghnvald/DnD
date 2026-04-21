@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Forest Encounter Deck
 tags:
   - Quelle/5e/bmt
 aliases:

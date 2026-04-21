@@ -1,7 +1,7 @@
 ---
 statblock: inline
 statblock-link: "#^statblock"
-Bezeichnung: Roter Slaad
+Bezeichnung: "Roter Slaad "
 tags:
   - Monster/Größe/Groß
   - Monster/HG/5

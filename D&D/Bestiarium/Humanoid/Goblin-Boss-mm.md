@@ -1,17 +1,16 @@
 ---
-cssclasses:
-  - json5e-monster
+statblock: inline
+statblock-link: "#^statblock"
+Bezeichnung: Goblin Boss
 tags:
-  - Quelle/5e/mm
-  - Monster/HG/1
-  - Monster/Habitat/Wald
+  - Monster/Größe/Klein
   - Monster/Habitat/Grasland
   - Monster/Habitat/Hügel
   - Monster/Habitat/Unterreich
-  - Monster/Größe/Klein
+  - Monster/Habitat/Wald
+  - Monster/HG/1
   - Monster/Typ/Humanoid/goblinoid
-statblock: inline
-statblock-link: "#^statblock"
+  - Quelle/5e/mm
 aliases:
   - Goblin Boss
 ---
@@ -51,7 +50,6 @@ Maglubiyet, der Mächtige, der Fürst der Tiefe und Dunkelheit, ist der höchste
 > [!quote] Goblinisch für "Wir kapitulieren!" (sagen sie zumindest)  
 > 
 > **Bree-Yark!**
-
 
 ```statblock
 name: Goblin-Boss

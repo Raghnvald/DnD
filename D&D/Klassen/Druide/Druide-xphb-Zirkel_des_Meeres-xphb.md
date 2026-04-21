@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-class
+Bezeichnung: Circle of the Sea
 tags:
-  - Quelle/5e/xphb
   - Klasse/Druide/sea
+  - Quelle/5e/xphb
 aliases:
   - Circle of the Sea
 ---
@@ -41,7 +40,6 @@ aliases:
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 

@@ -1,5 +1,5 @@
 ---
-cssclasses: json5e-note
+Bezeichnung: Trefferpunkte eines Gegenstands
 tags:
   - Quelle/5e/dmg
 aliases:

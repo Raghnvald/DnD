@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-race
+Bezeichnung: Yuan-Ti
 tags:
   - Quelle/5e/mpmm
   - Rasse/yuan-ti

@@ -16,8 +16,8 @@ tags:
   - Kompendium/Talent/magic-initiate/cleric-spells
   - Quelle/5e/xphb
   - Subklasse/celestial-patron
-  - Subklasse/Schule-des-Wissens
   - Subklasse/divine-soul/good
+  - Subklasse/Schule-des-Wissens
   - Zauber/Grad/1
   - Zauber/Schule/Hervorrufung
 classes:

@@ -1,7 +1,6 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Danoth's Visor (Dormant)
+Bezeichnung: "Danoth's Visor (Dormant)"
+Kategorie: Wundersamer Gegenstand
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär

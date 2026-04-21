@@ -1,16 +1,15 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mpmm
-  - Monster/HG/4
-  - Monster/Habitat/Wald
-  - Monster/Habitat/Grasland
-  - Monster/Habitat/Hügel
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Fee/Goblinoid
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Hobgoblin Devastator
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Grasland
+  - Monster/Habitat/Hügel
+  - Monster/Habitat/Wald
+  - Monster/HG/4
+  - Monster/Typ/Fee/Goblinoid
+  - Quelle/5e/mpmm
 aliases:
   - Hobgoblin Devastator
 ---

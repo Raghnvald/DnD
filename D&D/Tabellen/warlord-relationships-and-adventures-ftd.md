@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Warlord; Relationships and Adventures
 tags:
   - Quelle/5e/ftd
 aliases:

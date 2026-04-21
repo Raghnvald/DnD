@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Wayfarer's Boots
+Bezeichnung: "Wayfarer's Boots"
+Kategorie: Wundersamer Gegenstand 
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
+  - Gegenstand/wundersam
   - Quelle/5e/bgg
 aliases:
-  - Wayfarer's Boots
   - Wayfarer's Boots
 linter-yaml-title-alias: Wayfarer's Boots
 ---

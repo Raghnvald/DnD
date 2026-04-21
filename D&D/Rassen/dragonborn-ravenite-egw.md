@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-race
+Bezeichnung: Dragonborn (Ravenite)
 tags:
   - Quelle/5e/egw
   - Rasse/dragonborn/ravenite

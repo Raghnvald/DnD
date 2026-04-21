@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/idrotf
-  - Monster/HG/4
-  - Monster/Größe/Riesig
-  - Monster/Typ/Tier
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Giant Walrus
+tags:
+  - Monster/Größe/Riesig
+  - Monster/HG/4
+  - Monster/Typ/Tier
+  - Quelle/5e/idrotf
 aliases:
   - Giant Walrus
 ---

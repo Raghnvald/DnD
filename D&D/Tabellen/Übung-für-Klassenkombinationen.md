@@ -1,5 +1,5 @@
 ---
-cssclasses: json5e-note
+Bezeichnung: Übung für Klassenkombinationen
 tags:
   - Quelle/5e/phb
 aliases:
@@ -24,6 +24,5 @@ aliases:
 | [[../Charakteroptionen/Klassen/Schurke]] | Leichte Rüstung, eine Fertigkeit aus der Liste dieser Klasse, [Diebeswerkzeug](../Gegenstände/Diebeswerkzeug.md) |
 | [[../Charakteroptionen/Klassen/Waldläufer]] | Leichte und mittelschwere Rüstung, Schilde, einfache Waffen, Kriegswaffen, eine Fertigkeit aus der Liste dieser Klasse |
 | [[../Charakteroptionen/Klassen/Zauberer]] | — |
-
 
 ^multiclassing-proficiencies

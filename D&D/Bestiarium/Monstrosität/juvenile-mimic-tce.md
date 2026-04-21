@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/tce
-  - Monster/HG/0
-  - Monster/Größe/Winzig
-  - Monster/Typ/Monstrosität/shapechanger
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Juvenile Mimic
+tags:
+  - Monster/Größe/Winzig
+  - Monster/HG/0
+  - Monster/Typ/Monstrosität/shapechanger
+  - Quelle/5e/tce
 aliases:
   - Juvenile Mimic
 ---

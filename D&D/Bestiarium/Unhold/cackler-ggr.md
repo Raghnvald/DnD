@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/ggr
-  - Monster/HG/1-2
-  - Monster/Größe/Klein
-  - Monster/Typ/Unhold/demon
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Cackler
+tags:
+  - Monster/Größe/Klein
+  - Monster/HG/1-2
+  - Monster/Typ/Unhold/demon
+  - Quelle/5e/ggr
 aliases:
   - Cackler
 ---

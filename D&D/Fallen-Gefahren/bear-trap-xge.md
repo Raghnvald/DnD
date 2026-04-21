@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-hazard
+Bezeichnung: Bear Trap
 tags:
-  - Quelle/5e/xge
   - Kompendium/Bedrohung/smpl
+  - Quelle/5e/xge
 aliases:
   - Bear Trap
 ---

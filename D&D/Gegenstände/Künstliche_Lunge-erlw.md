@@ -1,10 +1,10 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Ventilating Lungs
+Kategorie: Wundersamer Gegenstand 
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
+  - Gegenstand/wundersam
   - Quelle/5e/erlw
 aliases:
   - Ventilating Lungs

@@ -1,17 +1,16 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mpmm
-  - Monster/HG/10
-  - Monster/Habitat/Wüste
-  - Monster/Habitat/Berg
-  - Monster/Habitat/Stadt
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/gith
-  - Monster/Typ/Humanoid/wizard
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Githyanki Gish
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Berg
+  - Monster/Habitat/Stadt
+  - Monster/Habitat/Wüste
+  - Monster/HG/10
+  - Monster/Typ/Humanoid/gith
+  - Monster/Typ/Humanoid/wizard
+  - Quelle/5e/mpmm
 aliases:
   - Githyanki Gish
 ---

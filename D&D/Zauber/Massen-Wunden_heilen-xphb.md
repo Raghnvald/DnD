@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Mass Cure Wounds
 tags:
   - Klasse/Barde

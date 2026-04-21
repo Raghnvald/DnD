@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Starting Equipment; Starting Wealth by Class
 tags:
   - Quelle/5e/phb
 aliases:

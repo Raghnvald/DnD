@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Divine Word
 tags:
   - Klasse/Barde

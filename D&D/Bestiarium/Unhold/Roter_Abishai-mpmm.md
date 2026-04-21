@@ -1,15 +1,14 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mpmm
-  - Monster/HG/19
-  - Monster/Habitat/Berg
-  - Monster/Habitat/Stadt
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Unhold/devil
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Red Abishai
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Berg
+  - Monster/Habitat/Stadt
+  - Monster/HG/19
+  - Monster/Typ/Unhold/devil
+  - Quelle/5e/mpmm
 aliases:
   - Red Abishai
 ---

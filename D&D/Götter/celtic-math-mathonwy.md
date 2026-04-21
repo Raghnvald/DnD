@@ -1,11 +1,10 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Math Mathonwy
 tags:
-  - Quelle/5e/phb
   - Kompendium/Götter/celtic
   - Kompendium/Götter/Domäne/arcana
   - Kompendium/Götter/Domäne/knowledge
+  - Quelle/5e/phb
 aliases:
   - Math Mathonwy
 ---

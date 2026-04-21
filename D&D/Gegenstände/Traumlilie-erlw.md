@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Dreamlily
 tags:
   - Gegenstand/Seltenheit/keine

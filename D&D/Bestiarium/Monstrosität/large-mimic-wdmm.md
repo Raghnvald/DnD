@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/wdmm
-  - Monster/HG/2
-  - Monster/Größe/Groß
-  - Monster/Typ/Monstrosität/shapechanger
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Large Mimic
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/2
+  - Monster/Typ/Monstrosität/shapechanger
+  - Quelle/5e/wdmm
 aliases:
   - Large Mimic
 ---

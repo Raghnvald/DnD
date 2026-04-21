@@ -1,10 +1,9 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Shargaas
 tags:
-  - Quelle/5e/vgm
-  - Kompendium/Götter/orc
   - Kompendium/Götter/Domäne/trickery
+  - Kompendium/Götter/orc
+  - Quelle/5e/vgm
 aliases:
   - Shargaas
 ---

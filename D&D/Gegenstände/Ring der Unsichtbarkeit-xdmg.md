@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Ring of Invisibility
 tags:
   - Gegenstand/Einstimmung/required

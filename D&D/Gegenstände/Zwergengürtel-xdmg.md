@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Belt of Dwarvenkind
 tags:
   - Gegenstand/Einstimmung/required

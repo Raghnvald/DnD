@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Ring of Elemental Command (Water)
 tags:
   - Gegenstand/Einstimmung/required

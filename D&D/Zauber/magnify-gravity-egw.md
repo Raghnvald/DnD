@@ -1,7 +1,6 @@
 ---
+Bezeichnung: Magnify Gravity
 Zaubergrad: 1
-cssclasses:
-  - json5e-spell
 tags:
   - Quelle/5e/egw
   - Zauber/Grad/1
@@ -11,7 +10,6 @@ aliases:
 ---
 # Magnify Gravity
 *1st-level, Transmutation*  
-
 
 - **Casting time:** 1 Action
 - **Range:** 60 feet

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-background
+Bezeichnung: Rakdos Cultist
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/ggr
@@ -9,7 +8,6 @@ aliases:
 ---
 # Rakdos Cultist
 *Source: Guildmasters' Guide to Ravnica p. 79*  
-
 
 - **Skill Proficiencies.** Acrobatics, Performance  
 - **Tool Proficiencies.** One type of musical instrument  

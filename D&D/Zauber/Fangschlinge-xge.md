@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Snare
+Bezeichnung: Fangschlinge
 Zaubergrad: 1
 Zeitaufwand: 1 Minute
 Reichweite: Berührung
@@ -8,11 +8,11 @@ Wirkungsdauer: 8 Stunden
 Angriff: GES
 Schaden: Festgesetzt
 tags:
+  - Klasse/Artifizient
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
   - Klasse/Druide
   - Klasse/Magier
-  - Klasse/Artifizient
   - Klasse/Schurke/Arkaner-Betrüger
   - Klasse/Waldläufer
   - Kompendium/Talent/artificer-initiate

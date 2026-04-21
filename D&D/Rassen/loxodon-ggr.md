@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-race
+Bezeichnung: Loxodon
 tags:
   - Quelle/5e/ggr
   - Rasse/loxodon

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Other Adventure Hooks; Dimir Adventure Hooks
 tags:
   - Quelle/5e/ggr
 aliases:

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Selesnya Initiate
 tags:
   - Zauber/list/background/selesnya-initiate
 aliases:

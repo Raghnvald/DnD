@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Amethyst Dragon Adventures; Amethyst Dragon Adventure Hooks
 tags:
   - Quelle/5e/ftd
 aliases:

@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-class
+Bezeichnung: Path of the Totem Warrior
 tags:
-  - Quelle/5e/phb
   - Klasse/Barbar/totem-warrior
+  - Quelle/5e/phb
 aliases:
   - Path of the Totem Warrior
 ---
@@ -41,7 +40,6 @@ aliases:
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 

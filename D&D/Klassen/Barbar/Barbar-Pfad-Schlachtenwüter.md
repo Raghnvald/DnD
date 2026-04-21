@@ -1,7 +1,12 @@
 ---
-tags: [Klasse/Barbar/Schlachtenwüter, Quelle/5e/scag]
-aliases: [Path of the Battlerager]
+Bezeichnung: Barbar-Pfad-Schlachtenwüter
+tags:
+  - Klasse/Barbar/Schlachtenwüter
+  - Quelle/5e/scag
+aliases:
+  - Path of the Battlerager
 ---
+# Barbar-Pfad-Schlachtenwüter
 Pfad des Schlachtenwüters
 =========================
 

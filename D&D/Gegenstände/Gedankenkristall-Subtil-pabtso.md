@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Mind Crystal (Subtle)
+Kategorie: Wundersamer Gegenstand
 tags:
   - Gegenstand/Seltenheit/gewöhnlich
   - Quelle/5e/pabtso

@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-reward
+Bezeichnung: Charm of Invisibility
 tags:
-  - Quelle/5e/idrotf
   - Kompendium/Belohnung/charm
+  - Quelle/5e/idrotf
 aliases:
   - Charm of Invisibility
 ---

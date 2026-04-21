@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Darkon Allies
 tags:
   - Quelle/5e/vrgr
 aliases:

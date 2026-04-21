@@ -1,16 +1,15 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Waukeen
 tags:
-  - Quelle/5e/scag
-  - Kompendium/Götter/faerunian
   - Kompendium/Götter/Domäne/knowledge
   - Kompendium/Götter/Domäne/trickery
+  - Kompendium/Götter/faerunian
+  - Quelle/5e/scag
 aliases:
-  - Waukeen
   - Our Lady of Gold
   - The Coinmaiden
   - The Merchant's Friend
+  - Waukeen
 ---
 # Waukeen
 *Source: Sword Coast Adventurer's Guide p. 21* 

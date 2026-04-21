@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Fireball
 tags:
   - Quelle/5e/wdh
 aliases:

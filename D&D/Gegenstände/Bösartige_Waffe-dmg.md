@@ -13,6 +13,7 @@ tags:
   - Gegenstand/Zeitalter/Renaissance
   - Quelle/5e/dmg
 aliases:
+  - Bösartige Waffe
   - Vicious Antimatter Rifle
   - Vicious Automatic Pistol
   - Vicious Automatic Rifle
@@ -62,7 +63,6 @@ aliases:
   - Vicious Trident
   - Vicious War Pick
   - Vicious Warhammer
-  - Bösartige Waffe
   - Vicious Whip
   - Vicious Yklwa
 linter-yaml-title-alias: Bösartige Waffe

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Maestro's Fall"
 tags:
   - Quelle/5e/wdh
 aliases:

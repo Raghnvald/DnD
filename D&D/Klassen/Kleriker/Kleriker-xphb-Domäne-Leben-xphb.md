@@ -1,10 +1,9 @@
 ---
-cssclasses:
-  - json5e-class
+Bezeichnung: Life Domain
 tags:
-  - Quelle/5e/xphb
-  - Kompendium/Götter/Domäne/life
   - Klasse/Kleriker/life
+  - Kompendium/Götter/Domäne/life
+  - Quelle/5e/xphb
 aliases:
   - Life Domain
 ---
@@ -42,7 +41,6 @@ aliases:
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 

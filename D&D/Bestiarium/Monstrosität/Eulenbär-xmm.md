@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/3
-  - Monster/Habitat/Wald
-  - Monster/Größe/Groß
-  - Monster/Typ/Monstrosität
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Owlbear
+tags:
+  - Monster/Größe/Groß
+  - Monster/Habitat/Wald
+  - Monster/HG/3
+  - Monster/Typ/Monstrosität
+  - Quelle/5e/xmm
 aliases:
   - Owlbear
 ---

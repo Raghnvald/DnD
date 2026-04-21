@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Chapter 1: A Great Upheaval"
 tags:
   - Quelle/5e/skt
 aliases:

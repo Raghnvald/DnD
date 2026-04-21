@@ -1,10 +1,9 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Trithereon
 tags:
-  - Quelle/5e/phb
-  - Kompendium/Götter/greyhawk
   - Kompendium/Götter/Domäne/war
+  - Kompendium/Götter/greyhawk
+  - Quelle/5e/phb
 aliases:
   - Trithereon
 ---

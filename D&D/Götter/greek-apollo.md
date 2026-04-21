@@ -1,12 +1,11 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Apollo
 tags:
-  - Quelle/5e/phb
-  - Kompendium/Götter/greek
   - Kompendium/Götter/Domäne/knowledge
   - Kompendium/Götter/Domäne/life
   - Kompendium/Götter/Domäne/light
+  - Kompendium/Götter/greek
+  - Quelle/5e/phb
 aliases:
   - Apollo
 ---

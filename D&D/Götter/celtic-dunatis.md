@@ -1,10 +1,9 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Dunatis
 tags:
-  - Quelle/5e/phb
   - Kompendium/Götter/celtic
   - Kompendium/Götter/Domäne/nature
+  - Quelle/5e/phb
 aliases:
   - Dunatis
 ---

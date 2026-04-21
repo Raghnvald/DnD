@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Scholarly Standing
 tags:
   - Quelle/5e/erlw
 aliases:

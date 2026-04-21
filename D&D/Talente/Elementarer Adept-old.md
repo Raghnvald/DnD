@@ -1,3 +1,6 @@
+---
+Bezeichnung: Elementarer Adept
+---
 # Elementarer Adept
 
 _Voraussetzung: Die Fähigkeit, mindestens einen Zauber zu wirken._

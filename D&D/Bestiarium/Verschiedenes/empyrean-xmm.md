@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/23
-  - Monster/Habitat/Jedes
-  - Monster/Größe/Riesig
-  - Monster/Typ/Himmlische/titan
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Empyrean
+tags:
+  - Monster/Größe/Riesig
+  - Monster/Habitat/Jedes
+  - Monster/HG/23
+  - Monster/Typ/Himmlische/titan
+  - Quelle/5e/xmm
 aliases:
   - Empyrean
 ---
@@ -43,7 +42,6 @@ Empyreans are the spawn of deities. While not gods themselves, they possess divi
 > [!quote] A quote from Kopoha, Scion of Storms  
 > 
 > One day I might be the god of storms—mind countless followers, answer prayers, change whole worlds—but, until then, I do what I please.
-
 
 ```statblock
 "name": "Empyrean (XMM)"

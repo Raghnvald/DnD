@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Detailed, life-sized dragonborn skull cast in electrum
 tags:
   - Gegenstand/Ausrüstung/treasure-art-object

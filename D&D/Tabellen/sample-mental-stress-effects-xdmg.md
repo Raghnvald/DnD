@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Sample Mental Stress Effects
 tags:
   - Quelle/5e/xdmg
 aliases:

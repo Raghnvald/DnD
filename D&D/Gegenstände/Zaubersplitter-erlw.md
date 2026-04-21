@@ -1,9 +1,9 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Spellshard
+Kategorie: Wundersamer Gegenstand 
 tags:
   - Gegenstand/Seltenheit/gewöhnlich
+  - Gegenstand/wundersam
   - Quelle/5e/erlw
 aliases:
   - Spellshard

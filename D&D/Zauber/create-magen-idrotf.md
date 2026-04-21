@@ -1,7 +1,6 @@
 ---
+Bezeichnung: Create Magen
 Zaubergrad: 7
-cssclasses:
-  - json5e-spell
 tags:
   - Quelle/5e/idrotf
   - Zauber/Grad/7
@@ -11,7 +10,6 @@ aliases:
 ---
 # Create Magen
 *7th-level, Transmutation*  
-
 
 - **Casting time:** 1 hour
 - **Range:** Touch

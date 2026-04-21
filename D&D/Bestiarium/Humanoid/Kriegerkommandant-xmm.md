@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/10
-  - Monster/Habitat/Jedes
-  - Monster/Größe/Klein-oder-Mittelgroß
-  - Monster/Typ/Humanoid
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Warrior Commander
+tags:
+  - Monster/Größe/Klein-oder-Mittelgroß
+  - Monster/Habitat/Jedes
+  - Monster/HG/10
+  - Monster/Typ/Humanoid
+  - Quelle/5e/xmm
 aliases:
   - Warrior Commander
 ---
@@ -47,7 +46,6 @@ Roll on or choose a result from the Warrior Roles table to inspire the creation 
 > [!quote] A quote from Minsc, Hero of Baldur's Gate  
 > 
 > Make way, evil! I'm armed to the teeth and packing a hamster!
-
 
 ```statblock
 "name": "Warrior Commander (XMM)"

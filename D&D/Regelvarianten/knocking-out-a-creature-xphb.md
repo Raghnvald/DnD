@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Knocking Out a Creature
 tags:
   - Quelle/5e/xphb
 aliases:

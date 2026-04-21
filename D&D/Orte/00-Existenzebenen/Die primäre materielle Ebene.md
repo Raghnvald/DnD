@@ -1,3 +1,7 @@
+---
+Bezeichnung: Die primäre materielle Ebene
+---
+# Die primäre materielle Ebene
 
 Basis Informationen
 Ebenentyp	

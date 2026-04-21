@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Neue Organisation
 tags:
   - Quelle/5e/dmg
 aliases:

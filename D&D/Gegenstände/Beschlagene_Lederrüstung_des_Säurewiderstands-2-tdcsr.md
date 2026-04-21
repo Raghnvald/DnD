@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Beschlagene Lederrüstung des Säurewiderstands +2
+Bezeichnung: Studded Leather Armor of Acid Resistance +2
 Rüstung: Leicht
 tags:
   - Gegenstand/Einstimmung/required

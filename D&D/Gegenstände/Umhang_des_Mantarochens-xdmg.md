@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Cloak of the Manta Ray
 tags:
   - Gegenstand/Einstimmung/required

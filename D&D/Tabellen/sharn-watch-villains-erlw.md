@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Sharn Watch Villains
 tags:
   - Quelle/5e/erlw
 aliases:

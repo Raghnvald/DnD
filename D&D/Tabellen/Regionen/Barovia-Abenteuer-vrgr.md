@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Barovia Adventures
 tags:
   - Quelle/5e/vrgr
 aliases:

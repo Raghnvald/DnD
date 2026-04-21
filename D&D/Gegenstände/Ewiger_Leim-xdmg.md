@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Sovereign Glue
 tags:
   - Gegenstand/Seltenheit/legendär

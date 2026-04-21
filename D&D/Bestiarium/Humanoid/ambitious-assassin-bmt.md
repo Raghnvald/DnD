@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/bmt
-  - Monster/HG/5
-  - Monster/Größe/Klein-oder-Mittelgroß
-  - Monster/Typ/Humanoid
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Ambitious Assassin
+tags:
+  - Monster/Größe/Klein-oder-Mittelgroß
+  - Monster/HG/5
+  - Monster/Typ/Humanoid
+  - Quelle/5e/bmt
 aliases:
   - Ambitious Assassin
 ---

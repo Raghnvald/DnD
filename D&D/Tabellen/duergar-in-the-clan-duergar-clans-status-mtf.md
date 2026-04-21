@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Duergar in the Clan; Duergar Clan's Status"
 tags:
   - Quelle/5e/mtf
 aliases:

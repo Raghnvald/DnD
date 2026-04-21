@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Bloodrage Greataxe
 Kategorie: Nahkampf-Kriegswaffe
 tags:

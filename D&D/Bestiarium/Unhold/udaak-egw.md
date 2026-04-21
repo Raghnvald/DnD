@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/egw
-  - Monster/HG/16
-  - Monster/Größe/Gigantisch
-  - Monster/Typ/Unhold
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Udaak
+tags:
+  - Monster/Größe/Gigantisch
+  - Monster/HG/16
+  - Monster/Typ/Unhold
+  - Quelle/5e/egw
 aliases:
   - Udaak
 ---

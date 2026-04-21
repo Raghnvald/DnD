@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Coins; Coin Values
 tags:
   - Quelle/5e/xphb
 aliases:

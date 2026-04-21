@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/9
-  - Monster/Habitat/Berg
-  - Monster/Größe/Riesig
-  - Monster/Typ/Riese
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Cloud Giant
+tags:
+  - Monster/Größe/Riesig
+  - Monster/Habitat/Berg
+  - Monster/HG/9
+  - Monster/Typ/Riese
+  - Quelle/5e/xmm
 aliases:
   - Cloud Giant
 ---

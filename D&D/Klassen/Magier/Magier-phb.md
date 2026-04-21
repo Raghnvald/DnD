@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-class
+Bezeichnung: Wizard
 tags:
   - Klasse/Magier
   - Quelle/5e/phb

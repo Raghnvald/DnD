@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/egw
-  - Monster/HG/7
-  - Monster/Größe/Riesig
-  - Monster/Typ/Monstrosität
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Swavain Basilisk
+tags:
+  - Monster/Größe/Riesig
+  - Monster/HG/7
+  - Monster/Typ/Monstrosität
+  - Quelle/5e/egw
 aliases:
   - Swavain Basilisk
 ---

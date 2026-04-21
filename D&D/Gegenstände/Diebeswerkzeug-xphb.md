@@ -1,13 +1,10 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Thieves' Tools
+Bezeichnung: "Thieves' Tools"
 tags:
   - Gegenstand/Ausrüstung/Werkzeug
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
-  - Thieves' Tools
   - Thieves' Tools
 linter-yaml-title-alias: Thieves' Tools
 ---

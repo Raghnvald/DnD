@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/gos
-  - Monster/HG/1
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/merfolk
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Merfolk Salvager
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/1
+  - Monster/Typ/Humanoid/merfolk
+  - Quelle/5e/gos
 aliases:
   - Merfolk Salvager
 ---

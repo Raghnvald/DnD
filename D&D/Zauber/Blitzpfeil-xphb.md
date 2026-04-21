@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Lightning Arrow
 tags:
   - Klasse/Waldläufer

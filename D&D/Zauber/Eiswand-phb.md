@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Wall of Ice
+Bezeichnung: Eiswand
 Zaubergrad: 6
 Zeitaufwand: 
 Reichweite: 

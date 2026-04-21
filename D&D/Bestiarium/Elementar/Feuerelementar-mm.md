@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mm
-  - Monster/HG/5
-  - Monster/Habitat/Wüste
-  - Monster/Größe/Groß
-  - Monster/Typ/Elementar
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Fire Elemental
+tags:
+  - Monster/Größe/Groß
+  - Monster/Habitat/Wüste
+  - Monster/HG/5
+  - Monster/Typ/Elementar
+  - Quelle/5e/mm
 aliases:
   - Fire Elemental
 ---

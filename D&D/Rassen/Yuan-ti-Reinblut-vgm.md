@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-race
+Bezeichnung: Yuan-ti Pureblood
 tags:
   - Quelle/5e/vgm
   - Rasse/yuan-ti-pureblood

@@ -1,7 +1,5 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Letzte Bastion der Ehre
+Bezeichnung: "Honor's Last Stand"
 Rüstung: Schild
 tags:
   - Gegenstand/Einstimmung/required

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Arcana Domain
 tags:
   - Zauber/list/subclass/arcana-domain
 aliases:

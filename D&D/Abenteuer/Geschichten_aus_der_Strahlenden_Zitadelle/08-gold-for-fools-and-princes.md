@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Gold for Fools and Princes
 tags:
   - Quelle/5e/jttrc
 aliases:

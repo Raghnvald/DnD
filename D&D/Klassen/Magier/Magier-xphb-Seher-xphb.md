@@ -1,7 +1,8 @@
 ---
+Bezeichnung: Diviner
 tags:
-  - Quelle/5e/xphb
   - Klasse/Magier/diviner
+  - Quelle/5e/xphb
 aliases:
   - Diviner
 ---
@@ -39,7 +40,6 @@ aliases:
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 

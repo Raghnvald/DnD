@@ -1,7 +1,6 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Deck of Wild Cards
+Kategorie: Wundersamer Gegenstand
 tags:
   - Gegenstand/Seltenheit/sehr_selten
   - Quelle/5e/bmt

@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Giant Slayer
 tags:
   - Gegenstand/Ausrüstung/Zauberfokus

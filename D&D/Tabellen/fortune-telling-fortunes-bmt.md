@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Fortune-Telling; Fortunes
 tags:
   - Quelle/5e/bmt
 aliases:

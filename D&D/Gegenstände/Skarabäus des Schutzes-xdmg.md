@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Scarab of Protection
 tags:
   - Gegenstand/Einstimmung/required

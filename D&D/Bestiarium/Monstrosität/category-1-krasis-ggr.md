@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/ggr
-  - Monster/HG/1
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Monstrosität
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Category 1 Krasis
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/1
+  - Monster/Typ/Monstrosität
+  - Quelle/5e/ggr
 aliases:
   - Category 1 Krasis
 ---

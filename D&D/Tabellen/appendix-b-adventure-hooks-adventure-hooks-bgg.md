@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Appendix B: Adventure Hooks; Adventure Hooks"
 tags:
   - Quelle/5e/bgg
 aliases:

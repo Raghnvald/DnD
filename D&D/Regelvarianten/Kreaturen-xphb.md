@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Creature
 tags:
   - Quelle/5e/xphb
 aliases:

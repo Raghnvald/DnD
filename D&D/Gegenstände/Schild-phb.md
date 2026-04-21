@@ -13,8 +13,8 @@ tags:
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Shield
   - Schild
+  - Shield
 linter-yaml-title-alias: Schild
 ---
 # Schild

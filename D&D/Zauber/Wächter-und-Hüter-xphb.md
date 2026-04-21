@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Guards and Wards
 tags:
   - Klasse/Barde

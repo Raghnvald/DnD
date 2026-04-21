@@ -1,17 +1,16 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/4
-  - Monster/Habitat/Wüste
-  - Monster/Habitat/Wald
-  - Monster/Habitat/Grasland
-  - Monster/Habitat/Hügel
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Unhold
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Gnoll Fang of Yeenoghu
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Grasland
+  - Monster/Habitat/Hügel
+  - Monster/Habitat/Wald
+  - Monster/Habitat/Wüste
+  - Monster/HG/4
+  - Monster/Typ/Unhold
+  - Quelle/5e/xmm
 aliases:
   - Gnoll Fang of Yeenoghu
 ---
@@ -32,7 +31,6 @@ The first gnolls arose from hyenas that fed on flesh tainted by the Abyss. Their
 > [!quote] A quote from Iggwilv  
 > 
 > Yeenoghu claims gnolls not as his brood but as maggots purposefully released to infest a despised carcass. They are a pernicious rot the Beast of Butchery spreads across mortal worlds. Whatever they once were, they were remade and are now his.
-
 
 ```statblock
 "name": "Gnoll Fang of Yeenoghu (XMM)"

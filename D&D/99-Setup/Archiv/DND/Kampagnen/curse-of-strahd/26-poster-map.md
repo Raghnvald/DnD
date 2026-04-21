@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Poster Map
 tags:
   - Quelle/5e/cos
 aliases:

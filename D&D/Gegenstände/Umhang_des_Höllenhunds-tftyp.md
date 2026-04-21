@@ -1,10 +1,10 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Hell Hound Cloak
+Kategorie: Wundersamer Gegenstand 
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
+  - Gegenstand/wundersam
   - Quelle/5e/tftyp
 aliases:
   - Hell Hound Cloak

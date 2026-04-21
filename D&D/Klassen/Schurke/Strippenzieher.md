@@ -1,6 +1,10 @@
 ---
-tags: [Klasse/Schurke, Quelle/5e/xge]
-aliases: [Mastermind]
+Bezeichnung: Strippenzieher
+tags:
+  - Klasse/Schurke
+  - Quelle/5e/xge
+aliases:
+  - Mastermind
 ---
 # Strippenzieher
 _[[Schurke]]_: Schurkenarchetyp

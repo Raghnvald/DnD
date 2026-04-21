@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Eye and Hand of Vecna
 tags:
   - Gegenstand/Einstimmung/required

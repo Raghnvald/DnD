@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Orcs of the Shadow Marches; Leaving the Shadow Marches
 tags:
   - Quelle/5e/erlw
 aliases:

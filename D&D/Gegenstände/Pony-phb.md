@@ -4,15 +4,15 @@ Kategorie: Reit- und Lastentier
 Eigenschaften: /
 Kst.: 30 GM
 Gew.: /
-Bew.: 12 m
-Traglast: 225 Pfd.
 tags:
   - Gegenstand/Ausrüstung/Reit-und-Lastentier
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
   - Pony
+Bew.: 12 m
 linter-yaml-title-alias: Pony
+Traglast: 225 Pfd.
 ---
 # Pony
 *Reit- und Lasttiere*  

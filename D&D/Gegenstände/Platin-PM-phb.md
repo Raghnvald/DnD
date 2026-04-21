@@ -1,7 +1,5 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Platin-Münze (PM)
+Bezeichnung: Platin (PM)
 Kategorie: Währung
 tags:
   - Gegenstand/Ausrüstung/treasure-coinage

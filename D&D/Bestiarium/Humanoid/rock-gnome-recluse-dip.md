@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/dip
-  - Monster/HG/1-4
-  - Monster/Größe/Klein
-  - Monster/Typ/Humanoid/gnome
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Rock Gnome Recluse
+tags:
+  - Monster/Größe/Klein
+  - Monster/HG/1-4
+  - Monster/Typ/Humanoid/gnome
+  - Quelle/5e/dip
 aliases:
   - Rock Gnome Recluse
 ---

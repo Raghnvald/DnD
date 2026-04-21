@@ -1,7 +1,5 @@
 ---
-cssclasses:
-  - json5e-spell
-Bezeichnung: Heroes' Feast
+Bezeichnung: "Heroes' Feast"
 Zaubergrad: 6
 tags:
   - Klasse/Barde/Magische-Geheimnisse

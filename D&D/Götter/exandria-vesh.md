@@ -1,11 +1,10 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Vesh
 tags:
-  - Quelle/5e/egw
-  - Kompendium/Götter/exandria
   - Kompendium/Götter/Domäne/death
   - Kompendium/Götter/Domäne/life
+  - Kompendium/Götter/exandria
+  - Quelle/5e/egw
 aliases:
   - Vesh
 ---

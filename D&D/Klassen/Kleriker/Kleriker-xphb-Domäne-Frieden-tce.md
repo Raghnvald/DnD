@@ -1,10 +1,9 @@
 ---
-cssclasses:
-  - json5e-class
+Bezeichnung: Peace Domain
 tags:
-  - Quelle/5e/tce
-  - Kompendium/Götter/Domäne/peace
   - Klasse/Kleriker/peace
+  - Kompendium/Götter/Domäne/peace
+  - Quelle/5e/tce
 aliases:
   - Peace Domain
 ---
@@ -42,7 +41,6 @@ aliases:
 > </tbody></table>
 
 ^class-progression
-
 
 > [!caution] Mixed edition content
 > This subclass is from a different game edition. You will need to do some adjustment to resolve differences.

@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Energiezelle
+Bezeichnung: Energy Cell
 Kategorie: Munition
 tags:
   - Gegenstand/Ausrüstung/ammunition-firearm

@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/bgg
-  - Monster/HG/9
-  - Monster/Größe/Gigantisch
-  - Monster/Typ/Monstrosität/dinosaur
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Ceratops
+tags:
+  - Monster/Größe/Gigantisch
+  - Monster/HG/9
+  - Monster/Typ/Monstrosität/dinosaur
+  - Quelle/5e/bgg
 aliases:
   - Ceratops
 ---

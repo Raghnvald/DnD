@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Psychische Winde
 tags:
   - Quelle/5e/dmg
 aliases:

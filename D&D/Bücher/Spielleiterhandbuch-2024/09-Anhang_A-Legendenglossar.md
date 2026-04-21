@@ -1,4 +1,5 @@
 ---
+Bezeichnung: "Appendix A: Lore Glossary"
 tags:
   - Quelle/5e/xdmg
 aliases:

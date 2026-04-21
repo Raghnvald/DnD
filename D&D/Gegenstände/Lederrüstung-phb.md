@@ -13,8 +13,8 @@ tags:
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Leather Armor
   - "Lederrüstung "
+  - Leather Armor
 linter-yaml-title-alias: "Lederrüstung "
 ---
 # Lederrüstung 

@@ -1,15 +1,14 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: The Arch Heart
 tags:
-  - Quelle/5e/tdcsr
-  - Kompendium/Götter/exandria
   - Kompendium/Götter/Domäne/arcana
   - Kompendium/Götter/Domäne/light
   - Kompendium/Götter/Domäne/nature
+  - Kompendium/Götter/exandria
+  - Quelle/5e/tdcsr
 aliases:
-  - The Arch Heart
   - Corellon
+  - The Arch Heart
 ---
 # The Arch Heart
 *Source: Tal'Dorei Campaign Setting Reborn p. 29* 

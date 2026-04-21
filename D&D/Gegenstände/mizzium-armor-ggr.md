@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Mizzium Armor-ggr
+Bezeichnung: Mizzium Armor
 Kategorie: Rüstung
 Rüstung: Mittel oder Schwer
 Eigenschaften: /

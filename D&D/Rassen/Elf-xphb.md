@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-race
+Bezeichnung: Elf
 tags:
   - Quelle/5e/xphb
   - Rasse/elf
@@ -73,6 +72,5 @@ High elves have been infused with the magic of crossings between the Feywild and
 ### Wood Elves
 
 Wood elves carry the magic of primeval forests within themselves. They are known by many other names, including wild elves, green elves, and forest elves. Grugach are reclusive wood elves of the Greyhawk setting, while the Kagonesti and the Tairnadal are wood elves of the Dragonlance and Eberron settings, respectively.
-
 
 ![A ship departs from a city built by high elves](/3-Mechanics/CLI/races/img/148-05-022-elf-city.webp#center)

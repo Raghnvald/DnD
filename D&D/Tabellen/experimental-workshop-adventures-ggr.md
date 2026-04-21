@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Experimental Workshop Adventures
 tags:
   - Quelle/5e/ggr
 aliases:

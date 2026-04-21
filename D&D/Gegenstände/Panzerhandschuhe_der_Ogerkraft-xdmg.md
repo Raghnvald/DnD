@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Gauntlets of Ogre Power
 tags:
   - Gegenstand/Einstimmung/required

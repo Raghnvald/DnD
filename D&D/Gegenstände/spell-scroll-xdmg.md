@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Spell Scroll
 tags:
   - Gegenstand/Seltenheit/variiert

@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-class
+Bezeichnung: War Magic
 tags:
-  - Quelle/5e/xge
   - Klasse/Magier/war
+  - Quelle/5e/xge
 aliases:
   - War Magic
 ---
@@ -41,7 +40,6 @@ aliases:
 > </tbody></table>
 
 ^class-progression
-
 
 > [!caution] Mixed edition content
 > This subclass is from a different game edition. You will need to do some adjustment to resolve differences.

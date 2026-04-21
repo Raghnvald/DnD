@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Command Amulet
 tags:
   - Gegenstand/Seltenheit/unbekannt/magic

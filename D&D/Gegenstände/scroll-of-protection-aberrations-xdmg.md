@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Scroll of Protection (Aberrations)
 tags:
   - Gegenstand/Seltenheit/selten

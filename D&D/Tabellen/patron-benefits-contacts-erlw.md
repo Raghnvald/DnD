@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Patron Benefits; Contacts
 tags:
   - Quelle/5e/erlw
 aliases:

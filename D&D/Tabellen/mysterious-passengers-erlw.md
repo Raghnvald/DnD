@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Mysterious Passengers
 tags:
   - Quelle/5e/erlw
 aliases:

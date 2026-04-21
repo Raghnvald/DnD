@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Burrow Speed
 tags:
   - Quelle/5e/xphb
 aliases:

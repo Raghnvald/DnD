@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Bomb
 tags:
   - Gegenstand/Seltenheit/keine

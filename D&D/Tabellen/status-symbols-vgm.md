@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Status Symbols
 tags:
   - Quelle/5e/vgm
 aliases:

@@ -1,11 +1,10 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Alathrien Druanna
 tags:
-  - Quelle/5e/mtf
-  - Kompendium/Götter/elven
   - Kompendium/Götter/Domäne/arcana
   - Kompendium/Götter/Domäne/knowledge
+  - Kompendium/Götter/elven
+  - Quelle/5e/mtf
 aliases:
   - Alathrien Druanna
 ---

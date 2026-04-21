@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-reward
+Bezeichnung: Dark Gift of Delban, the Star of Ice and Hate
 tags:
-  - Quelle/5e/cos
   - Kompendium/Belohnung/charm
+  - Quelle/5e/cos
 aliases:
   - Dark Gift of Delban, the Star of Ice and Hate
 ---

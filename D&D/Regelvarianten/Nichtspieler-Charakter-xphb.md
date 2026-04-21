@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Nonplayer Character
 tags:
   - Quelle/5e/xphb
 aliases:

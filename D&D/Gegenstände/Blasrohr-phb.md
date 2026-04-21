@@ -1,7 +1,5 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Blasrohr
+Bezeichnung: Blowgun
 Kategorie: Fernkampf-Kriegswaffe
 tags:
   - Gegenstand/Seltenheit/keine

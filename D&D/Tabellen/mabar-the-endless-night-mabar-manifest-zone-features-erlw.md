@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Mabar, the Endless Night; Mabar Manifest Zone Features
 tags:
   - Quelle/5e/erlw
 aliases:

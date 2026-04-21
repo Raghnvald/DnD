@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Drow Deities (The Dark Seldarine)
 tags:
   - Quelle/5e/mtf
 aliases:

@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/ggr
-  - Monster/HG/13
-  - Monster/Größe/Gigantisch
-  - Monster/Typ/Monstrosität
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Skyswimmer
+tags:
+  - Monster/Größe/Gigantisch
+  - Monster/HG/13
+  - Monster/Typ/Monstrosität
+  - Quelle/5e/ggr
 aliases:
   - Skyswimmer
 ---

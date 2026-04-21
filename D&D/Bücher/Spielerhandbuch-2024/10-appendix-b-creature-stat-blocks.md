@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Appendix B: Creature Stat Blocks"
 tags:
   - Quelle/5e/xphb
 aliases:

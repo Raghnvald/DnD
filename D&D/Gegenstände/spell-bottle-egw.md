@@ -1,10 +1,10 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Spell Bottle
+Kategorie: Wundersamer Gegenstand 
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
+  - Gegenstand/wundersam
   - Quelle/5e/egw
 aliases:
   - Spell Bottle

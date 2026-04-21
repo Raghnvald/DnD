@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/egw
-  - Monster/HG/3
-  - Monster/Größe/Groß
-  - Monster/Typ/Monstrosität
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Allowak Yeti
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/3
+  - Monster/Typ/Monstrosität
+  - Quelle/5e/egw
 aliases:
   - Allowak Yeti
 ---

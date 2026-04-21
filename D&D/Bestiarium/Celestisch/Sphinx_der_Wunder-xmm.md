@@ -1,16 +1,15 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/1
-  - Monster/Habitat/Wüste
-  - Monster/Habitat/planar
-  - Monster/Habitat/upper
-  - Monster/Größe/Winzig
-  - Monster/Typ/Himmlische
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Sphinx of Wonder
+tags:
+  - Monster/Größe/Winzig
+  - Monster/Habitat/planar
+  - Monster/Habitat/upper
+  - Monster/Habitat/Wüste
+  - Monster/HG/1
+  - Monster/Typ/Himmlische
+  - Quelle/5e/xmm
 aliases:
   - Sphinx of Wonder
 ---

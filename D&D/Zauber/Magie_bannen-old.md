@@ -7,12 +7,12 @@ Wirkungsdauer: unmittelbar
 Angriff: n/a
 Schaden: Kontrolle
 tags:
+  - Klasse/Artifizient
   - Klasse/Barde
   - Klasse/Druide
   - Klasse/Hexenmeister
   - Klasse/Kleriker
   - Klasse/Magier
-  - Klasse/Artifizient
   - Klasse/Paladin
   - Klasse/Zauberer
   - Quelle/5e/phb

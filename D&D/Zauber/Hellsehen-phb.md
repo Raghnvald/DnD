@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Clairvoyance
 Zaubergrad: 3
 tags:

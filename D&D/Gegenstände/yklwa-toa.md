@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Yklwa
 Kategorie: Einfache Nahkampfwaffe
 tags:

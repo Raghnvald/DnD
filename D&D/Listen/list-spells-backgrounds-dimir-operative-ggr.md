@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Dimir Operative
 tags:
   - Zauber/list/background/dimir-operative
 aliases:

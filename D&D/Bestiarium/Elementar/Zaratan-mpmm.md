@@ -1,19 +1,18 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mpmm
-  - Monster/HG/22
-  - Monster/Habitat/Wüste
-  - Monster/Habitat/Wald
-  - Monster/Habitat/Grasland
-  - Monster/Habitat/Hügel
-  - Monster/Habitat/Berg
-  - Monster/Habitat/Unterreich
-  - Monster/Größe/Gigantisch
-  - Monster/Typ/Elementar
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Zaratan
+tags:
+  - Monster/Größe/Gigantisch
+  - Monster/Habitat/Berg
+  - Monster/Habitat/Grasland
+  - Monster/Habitat/Hügel
+  - Monster/Habitat/Unterreich
+  - Monster/Habitat/Wald
+  - Monster/Habitat/Wüste
+  - Monster/HG/22
+  - Monster/Typ/Elementar
+  - Quelle/5e/mpmm
 aliases:
   - Zaratan
 ---

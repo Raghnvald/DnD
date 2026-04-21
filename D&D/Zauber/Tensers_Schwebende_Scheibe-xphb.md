@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Tenser's Floating Disk
+Bezeichnung: "Tenser's Floating Disk"
 Zaubergrad: 1
 Zeitaufwand:
 Reichweite:

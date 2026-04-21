@@ -1,6 +1,10 @@
 ---
-tags: [Klasse/Zauberer, Quelle/5e/phb]
-aliases: [Storm Sorcery]
+Bezeichnung: Sturmzauberei
+tags:
+  - Klasse/Zauberer
+  - Quelle/5e/phb
+aliases:
+  - Storm Sorcery
 ---
 # Sturmzauberei
 _[[Zauberer]]_: Magische Herkunft

@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/idrotf
-  - Monster/HG/3
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/goliath
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Goliath Warrior
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/3
+  - Monster/Typ/Humanoid/goliath
+  - Quelle/5e/idrotf
 aliases:
   - Goliath Warrior
 ---

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-deck
+Bezeichnung: Sidekick Cards
 tags:
   - Quelle/5e/dip
 aliases:

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-background
+Bezeichnung: Investigator
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/vrgr

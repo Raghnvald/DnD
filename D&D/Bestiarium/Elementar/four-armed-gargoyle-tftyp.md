@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/tftyp
-  - Monster/HG/2
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Elementar
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Four-Armed Gargoyle
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/2
+  - Monster/Typ/Elementar
+  - Quelle/5e/tftyp
 aliases:
   - Four-Armed Gargoyle
 ---

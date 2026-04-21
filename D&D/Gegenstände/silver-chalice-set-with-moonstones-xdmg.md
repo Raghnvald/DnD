@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Silver chalice set with moonstones
 tags:
   - Gegenstand/Ausrüstung/treasure-art-object

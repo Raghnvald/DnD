@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/skt
-  - Monster/HG/2
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/human
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Uthgardt Shaman (Thunderbeast)
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/2
+  - Monster/Typ/Humanoid/human
+  - Quelle/5e/skt
 aliases:
   - Uthgardt Shaman (Thunderbeast)
 ---

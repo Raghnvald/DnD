@@ -9,10 +9,10 @@ Schaden: Utility
 status:
   - completed
 tags:
+  - Klasse/Artifizient
   - Klasse/Barde
   - Klasse/Hexenmeister
   - Klasse/Magier
-  - Klasse/Artifizient
   - Klasse/Zauberer
   - Quelle/5e/phb
   - Zauber/Grad/0

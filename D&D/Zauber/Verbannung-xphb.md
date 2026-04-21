@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Banishment
 tags:
   - Klasse/Barde
@@ -15,9 +13,9 @@ tags:
   - Quelle/5e/xphb
   - Subklasse/abjurer
   - Subklasse/divine-soul/good
-  - Subklasse/Mystischer-Ritter
   - Subklasse/horizon-walker
   - Subklasse/monster-slayer
+  - Subklasse/Mystischer-Ritter
   - Zauber/Grad/4
   - Zauber/Schule/Bann
 classes:

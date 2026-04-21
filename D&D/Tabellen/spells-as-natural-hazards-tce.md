@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells as Natural Hazards
 tags:
   - Quelle/5e/tce
 aliases:

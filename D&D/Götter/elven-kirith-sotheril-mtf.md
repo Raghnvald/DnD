@@ -1,11 +1,10 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Kirith Sotheril
 tags:
-  - Quelle/5e/mtf
-  - Kompendium/Götter/elven
   - Kompendium/Götter/Domäne/knowledge
   - Kompendium/Götter/Domäne/trickery
+  - Kompendium/Götter/elven
+  - Quelle/5e/mtf
 aliases:
   - Kirith Sotheril
 ---

@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-feat
+Bezeichnung: Sweeping Cinder Strike
 tags:
-  - Quelle/5e/phb
   - Kompendium/Optionales/ed
+  - Quelle/5e/phb
 aliases:
   - Sweeping Cinder Strike
 ---

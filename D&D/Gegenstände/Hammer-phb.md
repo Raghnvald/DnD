@@ -1,8 +1,9 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Hammer
 Kategorie: Abenteuerausrüstung
+Eigenschaften: /
+Kst.: 1 GM
+Gew.: 1,5 kg
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine

@@ -1,17 +1,16 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mpmm
-  - Monster/HG/8
-  - Monster/Habitat/Küste
-  - Monster/Habitat/Wald
-  - Monster/Habitat/Grasland
-  - Monster/Habitat/Hügel
-  - Monster/Größe/Groß
-  - Monster/Typ/Unhold/demon
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Shoosuva
+tags:
+  - Monster/Größe/Groß
+  - Monster/Habitat/Grasland
+  - Monster/Habitat/Hügel
+  - Monster/Habitat/Küste
+  - Monster/Habitat/Wald
+  - Monster/HG/8
+  - Monster/Typ/Unhold/demon
+  - Quelle/5e/mpmm
 aliases:
   - Shoosuva
 ---

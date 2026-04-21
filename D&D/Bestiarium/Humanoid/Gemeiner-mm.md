@@ -16,17 +16,17 @@ Habitat:
 image: token/commoner.webp
 status: WIP
 tags:
-  - Quelle/5e/mm
-  - Monster/HG/0
+  - Monster/Größe/Mittelgroß
   - Monster/Habitat/Arktis
-  - Monster/Habitat/Küste
-  - Monster/Habitat/Wüste
-  - Monster/Habitat/Wald
   - Monster/Habitat/Grasland
   - Monster/Habitat/Hügel
+  - Monster/Habitat/Küste
   - Monster/Habitat/Stadt
-  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Wald
+  - Monster/Habitat/Wüste
+  - Monster/HG/0
   - Monster/Typ/Humanoid/jede-rasse
+  - Quelle/5e/mm
 aliases:
   - Commoner
 ---

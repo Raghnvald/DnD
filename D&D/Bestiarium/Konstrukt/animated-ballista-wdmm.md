@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/wdmm
-  - Monster/HG/2
-  - Monster/Größe/Groß
-  - Monster/Typ/Konstrukt
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Animated Ballista
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/2
+  - Monster/Typ/Konstrukt
+  - Quelle/5e/wdmm
 aliases:
   - Animated Ballista
 ---

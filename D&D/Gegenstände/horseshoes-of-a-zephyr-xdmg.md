@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Horseshoes of a Zephyr
 tags:
   - Gegenstand/Seltenheit/sehr_selten

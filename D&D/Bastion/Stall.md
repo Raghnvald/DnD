@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-bastion
+Bezeichnung: Stable
 tags:
   - Kompendium/Bastion
   - Quelle/5e/xdmg

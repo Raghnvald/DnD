@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: The Ordning; Fire Giant Skill
 tags:
   - Quelle/5e/bgg
 aliases:

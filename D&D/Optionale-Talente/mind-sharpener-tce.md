@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-feat
+Bezeichnung: Mind Sharpener
 tags:
-  - Quelle/5e/tce
   - Kompendium/Optionales/ai
+  - Quelle/5e/tce
 aliases:
   - Mind Sharpener
 ---

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Paladin Spells
 tags:
   - Zauber/list/class/paladin
 aliases:

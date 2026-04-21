@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Customizing a Living Spell; Living Spell Customization
 tags:
   - Quelle/5e/erlw
 aliases:

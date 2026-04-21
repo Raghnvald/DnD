@@ -1,16 +1,15 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mpmm
-  - Monster/HG/2
-  - Monster/Habitat/Grasland
-  - Monster/Habitat/Hügel
-  - Monster/Habitat/Berg
-  - Monster/Größe/Groß
-  - Monster/Typ/Riese
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Ogre Howdah
+tags:
+  - Monster/Größe/Groß
+  - Monster/Habitat/Berg
+  - Monster/Habitat/Grasland
+  - Monster/Habitat/Hügel
+  - Monster/HG/2
+  - Monster/Typ/Riese
+  - Quelle/5e/mpmm
 aliases:
   - Ogre Howdah
 ---

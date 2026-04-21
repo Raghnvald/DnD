@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: White Dragon Cape
 tags:
   - Gegenstand/Seltenheit/unbekannt/magic

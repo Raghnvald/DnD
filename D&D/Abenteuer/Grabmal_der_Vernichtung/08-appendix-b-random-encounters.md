@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Appendix B: Random Encounters"
 tags:
   - Quelle/5e/toa
 aliases:

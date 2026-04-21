@@ -1,9 +1,9 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Decanter of Endless Water
+Kategorie: Wundersamer Gegenstand 
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
+  - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
   - Decanter of Endless Water

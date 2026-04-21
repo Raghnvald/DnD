@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Backstory; Favorite Foods (Western Wynandir)
 tags:
   - Quelle/5e/egw
 aliases:

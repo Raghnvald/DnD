@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Herbalism Kit
 tags:
   - Gegenstand/Ausrüstung/Werkzeug

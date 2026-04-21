@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Omu Encounters
 tags:
   - Quelle/5e/toa
 aliases:

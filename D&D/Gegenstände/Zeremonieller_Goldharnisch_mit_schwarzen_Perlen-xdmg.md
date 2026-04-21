@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Ceremonial gold armor with black pearls
 tags:
   - Gegenstand/Ausrüstung/treasure-art-object

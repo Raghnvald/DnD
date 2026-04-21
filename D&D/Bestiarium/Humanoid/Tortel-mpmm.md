@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mpmm
-  - Monster/HG/1-4
-  - Monster/Habitat/Küste
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Tortle
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Küste
+  - Monster/HG/1-4
+  - Monster/Typ/Humanoid
+  - Quelle/5e/mpmm
 aliases:
   - Tortle
 ---

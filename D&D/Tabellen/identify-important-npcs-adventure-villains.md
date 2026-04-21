@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Identify Important NPCs; Adventure Villains
 tags:
   - Quelle/5e/dmg
 aliases:

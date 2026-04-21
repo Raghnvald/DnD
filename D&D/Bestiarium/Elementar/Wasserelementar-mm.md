@@ -1,16 +1,15 @@
 ---
-cssclasses:
-  - json5e-monster
+statblock: inline
+statblock-link: "#^statblock"
+Bezeichnung: Water Elemental
 tags:
-  - Quelle/5e/mm
-  - Monster/HG/5
+  - Monster/Größe/Groß
   - Monster/Habitat/Küste
   - Monster/Habitat/Sumpf
   - Monster/Habitat/underwater
-  - Monster/Größe/Groß
+  - Monster/HG/5
   - Monster/Typ/Elementar
-statblock: inline
-statblock-link: "#^statblock"
+  - Quelle/5e/mm
 aliases:
   - Water Elemental
 ---

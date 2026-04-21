@@ -8,11 +8,11 @@ Wirkungsdauer:
 Angriff:
 Schaden:
 tags:
+  - Klasse/Artifizient
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
   - Klasse/Kleriker/trickery-domain
   - Klasse/Magier
-  - Klasse/Artifizient
   - Klasse/Schurke/Arkaner-Betrüger
   - Klasse/Zauberer
   - Kompendium/Talent/artificer-initiate
@@ -23,9 +23,9 @@ tags:
   - Rasse/firbolg
   - Rasse/gnome-deep
   - Rasse/hexblood
-  - Subklasse/Mystischer-Ritter
   - Subklasse/gloom-stalker
   - Subklasse/illusionist
+  - Subklasse/Mystischer-Ritter
   - Zauber/Grad/1
   - Zauber/optfeature/mask-of-many-faces
   - Zauber/Schule/Illusion

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Appendix E: Player Handouts"
 tags:
   - Quelle/5e/toa
 aliases:

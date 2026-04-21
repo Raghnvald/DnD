@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Sylvan Talon
 tags:
   - Gegenstand/Einstimmung/required

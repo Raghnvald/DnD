@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Trank der Psionischen Ausdauer
+Kategorie: Trank
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/wundersam/Trank

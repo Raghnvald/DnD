@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Shapechange
 tags:
   - Klasse/Barde

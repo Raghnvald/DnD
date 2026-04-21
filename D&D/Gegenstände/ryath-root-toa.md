@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Ryath Root
 Kategorie: Abenteuerausrüstung
 tags:

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for The Undying
 tags:
   - Zauber/list/subclass/the-undying
 aliases:

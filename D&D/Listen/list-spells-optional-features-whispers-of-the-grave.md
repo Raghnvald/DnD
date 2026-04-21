@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Whispers of the Grave
 tags:
   - Zauber/list/optfeature/whispers-of-the-grave
 aliases:

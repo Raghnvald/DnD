@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Breath of Winter
 tags:
   - Zauber/list/optfeature/breath-of-winter
 aliases:

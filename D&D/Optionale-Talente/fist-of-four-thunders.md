@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-feat
+Bezeichnung: Fist of Four Thunders
 tags:
-  - Quelle/5e/phb
   - Kompendium/Optionales/ed
+  - Quelle/5e/phb
 aliases:
   - Fist of Four Thunders
 ---

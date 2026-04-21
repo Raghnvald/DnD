@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Chapter 4: Destruction's Light"
 tags:
   - Quelle/5e/idrotf
 aliases:

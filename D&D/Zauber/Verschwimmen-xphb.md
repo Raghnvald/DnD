@@ -1,19 +1,17 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Blur
 tags:
+  - Klasse/Artifizient
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
   - Klasse/Druide/circle-of-the-land/arid-land
   - Klasse/Magier
-  - Klasse/Artifizient
   - Klasse/Schurke/Arkaner-Betrüger
   - Klasse/Zauberer
   - Quelle/5e/xphb
   - Rasse/gnome-deep
-  - Subklasse/Mystischer-Ritter
   - Subklasse/illusionist
+  - Subklasse/Mystischer-Ritter
   - Subklasse/the-genie/marid
   - Subklasse/the-hexblade
   - Zauber/Grad/2

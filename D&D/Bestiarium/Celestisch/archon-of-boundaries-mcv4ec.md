@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mcv4ec
-  - Monster/HG/15
-  - Monster/Größe/Riesig
-  - Monster/Typ/Himmlische
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Archon of Boundaries
+tags:
+  - Monster/Größe/Riesig
+  - Monster/HG/15
+  - Monster/Typ/Himmlische
+  - Quelle/5e/mcv4ec
 aliases:
   - Archon of Boundaries
 ---
@@ -23,7 +22,6 @@ Sometimes knights of the realm get the idea that they can expand the borders of 
 > [!quote] A quote from Chulane, Teller of Tales  
 > 
 > A winged dawn dispels the terror of night.
-
 
 ```statblock
 "name": "Archon of Boundaries (MCV4EC)"

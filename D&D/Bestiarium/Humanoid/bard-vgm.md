@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/vgm
-  - Monster/HG/2
-  - Monster/Habitat/Stadt
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/any-race
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Bard
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Stadt
+  - Monster/HG/2
+  - Monster/Typ/Humanoid/any-race
+  - Quelle/5e/vgm
 aliases:
   - Bard
 ---

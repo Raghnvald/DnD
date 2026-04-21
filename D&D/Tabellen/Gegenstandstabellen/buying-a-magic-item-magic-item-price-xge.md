@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Buying a Magic Item; Magic Item Price
 tags:
   - Quelle/5e/xge
 aliases:

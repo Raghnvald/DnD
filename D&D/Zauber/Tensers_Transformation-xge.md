@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Tenser's Transformation
+Bezeichnung: "Tenser's Transformation"
 Zaubergrad: 6
 Zeitaufwand:
 Reichweite:

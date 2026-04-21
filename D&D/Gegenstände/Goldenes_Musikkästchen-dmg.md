@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Gold music box
 Kategorie: Kunstobjekt
 tags:

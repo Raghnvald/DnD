@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-background
+Bezeichnung: Mercenary Veteran
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/scag
@@ -9,7 +8,6 @@ aliases:
 ---
 # Mercenary Veteran
 *Source: Sword Coast Adventurer's Guide p. 152*  
-
 
 - **Skill Proficiencies.** [Athletics](/3-Mechanics/CLI/skills.md#Athletics), [Persuasion](/3-Mechanics/CLI/skills.md#Persuasion)  
 - **Tool Proficiencies.** One type of gaming set, vehicles (land)  

@@ -1,10 +1,10 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Orb of Dragonkind
+Kategorie: Wundersamer Gegenstand 
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/Artefakt
+  - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
   - Orb of Dragonkind

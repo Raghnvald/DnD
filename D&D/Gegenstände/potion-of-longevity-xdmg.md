@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Potion of Longevity
 tags:
   - Gegenstand/Seltenheit/sehr_selten

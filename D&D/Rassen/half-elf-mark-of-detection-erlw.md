@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-race
+Bezeichnung: Half-Elf (Mark of Detection)
 tags:
   - Quelle/5e/erlw
   - Rasse/half-elf/mark-of-detection
@@ -9,7 +8,6 @@ aliases:
 ---
 # Half-Elf (Mark of Detection)
 *Source: Eberron: Rising from the Last War p. 40*  
-
 
 - **Ability Scores**: Apply +1 to one of Strength, Dexterity, Constitution, Intelligence, or Charisma.
 - **Size**: Medium

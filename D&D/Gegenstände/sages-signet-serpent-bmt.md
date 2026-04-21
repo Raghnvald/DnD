@@ -1,14 +1,12 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Sage's Signet (Serpent)
+Bezeichnung: "Sage's Signet (Serpent)"
+Kategorie: Ring
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam/ring
   - Quelle/5e/bmt
 aliases:
-  - Sage's Signet (Serpent)
   - Sage's Signet (Serpent)
 linter-yaml-title-alias: Sage's Signet (Serpent)
 ---

@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Summon Undead
 Zaubergrad: 3
 tags:

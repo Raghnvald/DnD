@@ -1,8 +1,10 @@
 ---
-Bezeichnung: Bigby's Beneficent Bracelet
+Bezeichnung: "Bigby's Beneficent Bracelet"
+Kategorie: Wundersamer Gegenstand
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/Artefakt
+  - Gegenstand/wundersam
   - Quelle/5e/bgg
 aliases:
   - Bigby's Beneficent Bracelet

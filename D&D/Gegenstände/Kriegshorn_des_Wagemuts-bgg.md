@@ -1,12 +1,11 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: War Horn of Valor
+Kategorie: Wundersamer Gegenstand 
 tags:
   - Gegenstand/Seltenheit/selten
+  - Gegenstand/wundersam
   - Quelle/5e/bgg
 aliases:
-  - War Horn of Valor
   - War Horn of Valor
 linter-yaml-title-alias: War Horn of Valor
 ---

@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-feat
+Bezeichnung: Cloak of Flies
 tags:
-  - Quelle/5e/xge
   - Kompendium/Optionales/ei
+  - Quelle/5e/xge
 aliases:
   - Cloak of Flies
 ---

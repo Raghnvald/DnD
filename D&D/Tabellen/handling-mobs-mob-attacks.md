@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Handling Mobs; Mob Attacks
 tags:
   - Quelle/5e/dmg
 aliases:

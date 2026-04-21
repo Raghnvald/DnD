@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Coral
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone

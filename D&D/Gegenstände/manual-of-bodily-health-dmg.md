@@ -1,9 +1,9 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Manual of Bodily Health
+Kategorie: Wundersamer Gegenstand 
 tags:
   - Gegenstand/Seltenheit/sehr_selten
+  - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
   - Manual of Bodily Health

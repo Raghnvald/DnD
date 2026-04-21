@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Knowledge Domain
 tags:
   - Zauber/list/subclass/knowledge-domain
 aliases:

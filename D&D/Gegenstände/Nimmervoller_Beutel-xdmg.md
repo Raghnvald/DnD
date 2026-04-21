@@ -6,6 +6,7 @@ Kst.: n/v
 Gew.: 2,5 kg
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
+  - Gegenstand/wundersam
   - Quelle/5e/xdmg
 aliases:
   - Bag of Holding

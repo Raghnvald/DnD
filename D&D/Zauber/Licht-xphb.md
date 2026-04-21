@@ -8,11 +8,11 @@ Wirkungsdauer:
 Angriff:
 Schaden:
 tags:
+  - Klasse/Artifizient
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
   - Klasse/Kleriker
   - Klasse/Magier
-  - Klasse/Artifizient
   - Klasse/Schurke/Arkaner-Betrüger
   - Klasse/Zauberer
   - Kompendium/Talent/artificer-initiate
@@ -24,8 +24,8 @@ tags:
   - Rasse/kobold
   - Subklasse/celestial-patron
   - Subklasse/divine-soul/good
-  - Subklasse/Mystischer-Ritter
   - Subklasse/evoker
+  - Subklasse/Mystischer-Ritter
   - Zauber/Grad/0
   - Zauber/optfeature/pact-of-the-tome
   - Zauber/Schule/Hervorrufung

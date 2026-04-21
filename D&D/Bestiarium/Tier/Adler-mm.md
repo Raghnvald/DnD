@@ -1,17 +1,16 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mm
-  - Monster/HG/0
-  - Monster/Habitat/Küste
-  - Monster/Habitat/Grasland
-  - Monster/Habitat/Hügel
-  - Monster/Habitat/Berg
-  - Monster/Größe/Klein
-  - Monster/Typ/Tier
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Eagle
+tags:
+  - Monster/Größe/Klein
+  - Monster/Habitat/Berg
+  - Monster/Habitat/Grasland
+  - Monster/Habitat/Hügel
+  - Monster/Habitat/Küste
+  - Monster/HG/0
+  - Monster/Typ/Tier
+  - Quelle/5e/mm
 aliases:
   - Eagle
 ---

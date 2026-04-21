@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Enchanted Springs; Enchanted Spring Effects
 tags:
   - Quelle/5e/tce
 aliases:

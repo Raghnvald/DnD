@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Tiefling (Zariel)
 tags:
   - Zauber/list/subrace/tiefling-zariel
 aliases:

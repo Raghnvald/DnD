@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Secret Doors
 tags:
   - Quelle/5e/xdmg
 aliases:

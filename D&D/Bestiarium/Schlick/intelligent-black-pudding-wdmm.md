@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/wdmm
-  - Monster/HG/4
-  - Monster/Größe/Groß
-  - Monster/Typ/Schleim
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Intelligent Black Pudding
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/4
+  - Monster/Typ/Schleim
+  - Quelle/5e/wdmm
 aliases:
   - Intelligent Black Pudding
 ---

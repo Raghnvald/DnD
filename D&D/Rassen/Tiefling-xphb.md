@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-race
+Bezeichnung: Tiefling
 tags:
   - Quelle/5e/xphb
   - Rasse/tiefling
@@ -59,7 +58,6 @@ Tieflings who have the chthonic legacy feel not only the tug of Carceri but also
 ### Infernal
 
 The infernal legacy connects tieflings not only to Gehenna but also the Nine Hells and the raging battlefields of Acheron. Horns, spines, tails, golden eyes, and a faint odor of sulfur or smoke are common physical features of such tieflings, most of whom trace their ancestry to devils.
-
 
 > [!gallery]
 ![Infernal Tiefling, Chthoni...](/3-Mechanics/CLI/races/img/156-05-029-infernal-chthonic-abyssal.webp "Infernal Tiefling, Chthonic Tiefling, Abyssal Tiefling")

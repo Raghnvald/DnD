@@ -1,11 +1,10 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Njord
 tags:
-  - Quelle/5e/phb
-  - Kompendium/Götter/norse
   - Kompendium/Götter/Domäne/nature
   - Kompendium/Götter/Domäne/tempest
+  - Kompendium/Götter/norse
+  - Quelle/5e/phb
 aliases:
   - Njord
 ---

@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Conjure Minor Elementals
 Zaubergrad: 4
 tags:

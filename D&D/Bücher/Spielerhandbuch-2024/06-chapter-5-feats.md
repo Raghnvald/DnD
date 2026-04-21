@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Chapter 5: Feats"
 tags:
   - Quelle/5e/xphb
 aliases:

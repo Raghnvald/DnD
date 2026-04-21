@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-hazard
+Bezeichnung: Planar Effects
 tags:
-  - Quelle/5e/xdmg
   - Kompendium/Bedrohung/env
+  - Quelle/5e/xdmg
 aliases:
   - Planar Effects
 ---

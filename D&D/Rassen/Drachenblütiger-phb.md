@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-race
+Bezeichnung: Dragonborn
 tags:
   - Quelle/5e/phb
   - Rasse/dragonborn

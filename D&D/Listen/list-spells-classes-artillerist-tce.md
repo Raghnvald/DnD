@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Artillerist
 tags:
   - Zauber/list/subclass/artillerist
 aliases:

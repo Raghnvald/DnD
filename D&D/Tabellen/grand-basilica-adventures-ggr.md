@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Grand Basilica Adventures
 tags:
   - Quelle/5e/ggr
 aliases:

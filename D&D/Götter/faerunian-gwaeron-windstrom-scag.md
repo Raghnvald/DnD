@@ -1,15 +1,14 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Gwaeron Windstrom
 tags:
-  - Quelle/5e/scag
-  - Kompendium/Götter/faerunian
   - Kompendium/Götter/Domäne/knowledge
   - Kompendium/Götter/Domäne/nature
+  - Kompendium/Götter/faerunian
+  - Quelle/5e/scag
 aliases:
   - Gwaeron Windstrom
-  - The Mouth of Mielikki
   - The Master Tracker
+  - The Mouth of Mielikki
   - The Tracker Never Led Astray
 ---
 # Gwaeron Windstrom

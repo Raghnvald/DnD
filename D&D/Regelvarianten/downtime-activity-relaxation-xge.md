@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Downtime Activity: Relaxation"
 tags:
   - Quelle/5e/xge
 aliases:

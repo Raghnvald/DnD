@@ -1,7 +1,6 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Spindle of Fate
+Kategorie: Zauberstab
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär

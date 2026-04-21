@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mm
-  - Monster/HG/5
-  - Monster/Habitat/Unterreich
-  - Monster/Größe/Groß
-  - Monster/Typ/Elementar
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Salamander
+tags:
+  - Monster/Größe/Groß
+  - Monster/Habitat/Unterreich
+  - Monster/HG/5
+  - Monster/Typ/Elementar
+  - Quelle/5e/mm
 aliases:
   - Salamander
 ---

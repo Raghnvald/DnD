@@ -1,21 +1,19 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Invisibility
 tags:
+  - Klasse/Artifizient
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
   - Klasse/Hexenmeister
   - Klasse/Kleriker/trickery-domain
   - Klasse/Magier
-  - Klasse/Artifizient
   - Klasse/Schurke/Arkaner-Betrüger
   - Klasse/Zauberer
   - Kompendium/Talent/shadow-touched
   - Quelle/5e/xphb
   - Rasse/duergar
-  - Subklasse/Mystischer-Ritter
   - Subklasse/illusionist
+  - Subklasse/Mystischer-Ritter
   - Zauber/Grad/2
   - Zauber/optfeature/one-with-shadows
   - Zauber/optfeature/shroud-of-shadow

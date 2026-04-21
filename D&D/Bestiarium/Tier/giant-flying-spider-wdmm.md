@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/wdmm
-  - Monster/HG/1
-  - Monster/Größe/Groß
-  - Monster/Typ/Tier
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Giant Flying Spider
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/1
+  - Monster/Typ/Tier
+  - Quelle/5e/wdmm
 aliases:
   - Giant Flying Spider
 ---

@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Glibness
 Zaubergrad: 8
 tags:

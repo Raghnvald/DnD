@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Appendix D: Dungeon Key"
 tags:
   - Quelle/5e/wdmm
 aliases:

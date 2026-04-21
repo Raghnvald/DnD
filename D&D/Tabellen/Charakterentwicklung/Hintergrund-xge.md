@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Hintergrund
 tags:
   - Quelle/5e/xge
 aliases:

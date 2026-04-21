@@ -1,12 +1,11 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Bahamut
 tags:
-  - Quelle/5e/egw
-  - Kompendium/Götter/exandria
   - Kompendium/Götter/Domäne/life
   - Kompendium/Götter/Domäne/order
   - Kompendium/Götter/Domäne/war
+  - Kompendium/Götter/exandria
+  - Quelle/5e/egw
 aliases:
   - Bahamut
 ---

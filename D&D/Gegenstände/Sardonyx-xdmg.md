@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Sardonyx
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone

@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: "Yolande's Regal Presence"
 tags:
   - Klasse/Barde

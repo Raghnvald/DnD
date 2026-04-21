@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-race
+Bezeichnung: Vedalken
 tags:
   - Quelle/5e/ggr
   - Rasse/vedalken

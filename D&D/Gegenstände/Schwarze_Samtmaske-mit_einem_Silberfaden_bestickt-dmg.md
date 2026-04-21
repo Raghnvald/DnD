@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Black velvet mask stitched with silver thread
 Kategorie: Kunstobjekt
 tags:

@@ -1,7 +1,6 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Cracked Driftglobe
+Kategorie: Wundersamer Gegenstand
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/cm

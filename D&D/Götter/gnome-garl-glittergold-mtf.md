@@ -1,10 +1,9 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Garl Glittergold
 tags:
-  - Quelle/5e/mtf
-  - Kompendium/Götter/gnome
   - Kompendium/Götter/Domäne/trickery
+  - Kompendium/Götter/gnome
+  - Quelle/5e/mtf
 aliases:
   - Garl Glittergold
 ---

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Chapter 5: Game Master's Toolkit"
 tags:
   - Quelle/5e/tdcsr
 aliases:

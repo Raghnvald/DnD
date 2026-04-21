@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Moonstone Dragon Treasures; Moonstone Dragon Art Objects
 tags:
   - Quelle/5e/ftd
 aliases:

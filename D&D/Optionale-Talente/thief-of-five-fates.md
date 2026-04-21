@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-feat
+Bezeichnung: Thief of Five Fates
 tags:
-  - Quelle/5e/phb
   - Kompendium/Optionales/ei
+  - Quelle/5e/phb
 aliases:
   - Thief of Five Fates
 ---

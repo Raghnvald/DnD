@@ -1,7 +1,9 @@
 ---
-Bezeichnung: Bag of Tricks, Gray
+Bezeichnung: Trickbeutel, grau
+Kategorie: Wundersamer Gegenstand 
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
+  - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
   - Bag of Tricks, Gray

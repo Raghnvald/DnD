@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Monsters and Motivations; Monster Motivation
 tags:
   - Quelle/5e/dmg
 aliases:

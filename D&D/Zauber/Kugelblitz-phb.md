@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Chain Lightning
 Zaubergrad: 6
 tags:

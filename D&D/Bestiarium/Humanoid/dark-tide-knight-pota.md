@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/pota
-  - Monster/HG/3
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/human
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Dark Tide Knight
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/3
+  - Monster/Typ/Humanoid/human
+  - Quelle/5e/pota
 aliases:
   - Dark Tide Knight
 ---

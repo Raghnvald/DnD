@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-reward
+Bezeichnung: Blessing of Understanding
 tags:
-  - Quelle/5e/xdmg
   - Kompendium/Belohnung/blessing
+  - Quelle/5e/xdmg
 aliases:
   - Blessing of Understanding
 ---

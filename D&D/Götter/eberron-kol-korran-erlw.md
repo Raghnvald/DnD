@@ -1,10 +1,9 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Kol Korran
 tags:
-  - Quelle/5e/erlw
-  - Kompendium/Götter/eberron
   - Kompendium/Götter/Domäne/trickery
+  - Kompendium/Götter/eberron
+  - Quelle/5e/erlw
 aliases:
   - Kol Korran
 ---

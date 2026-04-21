@@ -1,15 +1,14 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mpmm
-  - Monster/HG/10
-  - Monster/Habitat/Arktis
-  - Monster/Habitat/Wald
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Fee/Elf
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Winter Eladrin
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Arktis
+  - Monster/Habitat/Wald
+  - Monster/HG/10
+  - Monster/Typ/Fee/Elf
+  - Quelle/5e/mpmm
 aliases:
   - Winter Eladrin
 ---

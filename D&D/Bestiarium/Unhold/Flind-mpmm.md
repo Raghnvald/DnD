@@ -1,17 +1,16 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mpmm
-  - Monster/HG/9
-  - Monster/Habitat/Küste
-  - Monster/Habitat/Wald
-  - Monster/Habitat/Grasland
-  - Monster/Habitat/Hügel
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Unhold/gnoll
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Flind
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Grasland
+  - Monster/Habitat/Hügel
+  - Monster/Habitat/Küste
+  - Monster/Habitat/Wald
+  - Monster/HG/9
+  - Monster/Typ/Unhold/gnoll
+  - Quelle/5e/mpmm
 aliases:
   - Flind
 ---

@@ -1,8 +1,10 @@
 ---
-tags: [Quelle/5e/dmg]
+Bezeichnung: NPC Generator
+tags:
+  - Quelle/5e/dmg
 ---
+# NPC Generator
 import argparse
-
 
 parser = argparse.ArgumentParser(description='Converts a list into a diceroller-formatted md table', prog='txt2dice')
 parser.add_argument('input', help='The file to convert to markdown!')

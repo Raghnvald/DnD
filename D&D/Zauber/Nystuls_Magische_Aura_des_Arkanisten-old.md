@@ -1,6 +1,5 @@
 ---
-cssclasses: json5e-spell
-Bezeichnung: Nystul's Magische Aura des Arkanisten
+Bezeichnung: "Nystul's Magische Aura des Arkanisten"
 tags:
   - Klasse/Magier
   - Quelle/5e/phb

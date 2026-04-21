@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-race
+Bezeichnung: Tortle
 tags:
   - Quelle/5e/ttp
   - Rasse/tortle

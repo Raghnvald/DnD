@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Philter of Love
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich

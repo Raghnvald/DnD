@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Red Dragon Adventures; Red Dragon Adventure Hooks
 tags:
   - Quelle/5e/ftd
 aliases:

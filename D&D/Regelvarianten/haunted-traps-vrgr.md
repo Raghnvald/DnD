@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Haunted Traps
 tags:
   - Quelle/5e/vrgr
 aliases:

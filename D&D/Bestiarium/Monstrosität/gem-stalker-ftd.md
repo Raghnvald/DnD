@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/ftd
-  - Monster/HG/5
-  - Monster/Größe/Groß
-  - Monster/Typ/Monstrosität
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Gem Stalker
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/5
+  - Monster/Typ/Monstrosität
+  - Quelle/5e/ftd
 aliases:
   - Gem Stalker
 ---

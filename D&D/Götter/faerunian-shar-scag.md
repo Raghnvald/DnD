@@ -1,16 +1,15 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Shar
 tags:
-  - Quelle/5e/scag
-  - Kompendium/Götter/faerunian
   - Kompendium/Götter/Domäne/death
   - Kompendium/Götter/Domäne/trickery
+  - Kompendium/Götter/faerunian
+  - Quelle/5e/scag
 aliases:
-  - Shar
-  - The Mistress of the Night
-  - The Dark Lady
   - Our Lady of Loss
+  - Shar
+  - The Dark Lady
+  - The Mistress of the Night
 ---
 # Shar
 *Source: Sword Coast Adventurer's Guide p. 21* 

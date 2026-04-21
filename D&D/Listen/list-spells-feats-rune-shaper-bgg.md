@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Rune Shaper
 tags:
   - Zauber/list/feat/rune-shaper
 aliases:

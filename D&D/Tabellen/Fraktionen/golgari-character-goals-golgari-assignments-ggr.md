@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Golgari Character Goals; Golgari Assignments
 tags:
   - Quelle/5e/ggr
 aliases:

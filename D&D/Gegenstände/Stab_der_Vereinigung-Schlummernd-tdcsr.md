@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Spire of Conflux (Dormant)
 tags:
   - Gegenstand/Einstimmung/required

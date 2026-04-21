@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-race
+Bezeichnung: Human (Mark of Sentinel)
 tags:
   - Quelle/5e/erlw
   - Rasse/human/mark-of-sentinel
@@ -9,7 +8,6 @@ aliases:
 ---
 # Human (Mark of Sentinel)
 *Source: Eberron: Rising from the Last War p. 48*  
-
 
 - **Ability Scores**: con +2 wis +1
 - **Size**: Medium

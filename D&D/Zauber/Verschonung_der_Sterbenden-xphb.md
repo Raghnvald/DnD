@@ -8,13 +8,13 @@ Wirkungsdauer:
 Angriff:
 Schaden:
 tags:
+  - Klasse/Artifizient
   - Klasse/Barde/Schule-des-Wissens
   - Klasse/Druide
   - Klasse/Kleriker
   - Klasse/Kleriker/death-domain
   - Klasse/Kleriker/grave-domain
   - Klasse/Kleriker/nature-domain
-  - Klasse/Artifizient
   - Kompendium/Talent/artificer-initiate
   - Kompendium/Talent/blessed-warrior
   - Kompendium/Talent/druidic-warrior

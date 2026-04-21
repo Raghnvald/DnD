@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Level 14: Arcturiadoom"
 tags:
   - Quelle/5e/wdmm
 aliases:

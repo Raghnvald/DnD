@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Chapter 8: The Styes"
 tags:
   - Quelle/5e/gos
 aliases:

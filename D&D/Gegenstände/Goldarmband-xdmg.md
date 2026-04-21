@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Gold bracelet
 tags:
   - Gegenstand/Ausrüstung/treasure-art-object

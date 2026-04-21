@@ -1,4 +1,5 @@
 ---
+Bezeichnung: "<center>Teil 3: Das Netz der Spinne</center>"
 tags:
   - Quelle/5e/pabtso
 aliases:
@@ -58,12 +59,12 @@ $\quad$Wenn es zu einer Begegnung kommt, erhalten die Abenteuer EP, wenn sie die
 | ------------ | -------------- | ---------------------------------------------- |
 | 1-2          | 1-3            | `1W4 + 2` [[Blutmücke-mm\|Blutmücken]]           |
 | -            | 4              | `1W4 + 1` [[Ghul-mm\|Ghule]]                     |
-| 3-4          | -              | 1 [[Oger\|Oger]]                              |
+| 3-4          | -              | 1 [[Oger-mm\|Oger]]                              |
 | 5-6          | 5              | Cragmaw [[Goblin-mm\|Goblin]]-Bande              |
 | 7-8          | 6              | [[Hobgoblin-mm\|Hobgoblin]]-Trupp               |
 | 9-10         | 7-8            | [[Bestiarium/humanoid/Grottenschrat-mm\|Grottenschrat]]-Kundschafter |
 | 11           | 9-10           | `1W4 + 2` [[Wolf-mm\|Wölfe]]                     |
-| 12           | 11-12          | 1 [[Eulenbär\|Eulenbär]]                      |
+| 12           | 11-12          | 1 [[Eulenbär-mm\|Eulenbär]]                      |
 
 ##### Cragmaw [[Goblin-mm|Goblin-mm]]-Bande
 Diese Bande von Cragmaw-Marodeuren besteht aus `2W4` [[Goblin-mm|Goblins]], die von einem [[Goblin-Boss-mm|Goblin-Boss-mm]] angeführt werden. Sie kennen den Standort der Burg Cragmaw und können den Weg weisen, wenn sie gefangen genommen und bedroht werden. Der Boss hat einen [[Beutel]], der `1W10` <font color="#B87333">Kupfermünzen</font> und `1W10` <font color="Silver">Silbermünzen</font> enthält.
@@ -138,7 +139,7 @@ $\quad$Kost schweigt allerdings über den Grund für seine Anwesenheit in der Re
 - Er will der [[Todesfee-mm|Todesfee]] Agatha eine Frage stellen: „Wie lautet der Name des Magiers, der den Turm am Alten Eulenbrunnen gebaut hat?“ Kost will nicht den Zorn der [[Todesfee-mm|Todesfee]] riskieren, aber die Charaktere könnten die Frage für ihn stellen. (Agatha kennt die Antwort: Arthindol.)
 
 ### Schätze 
-In Hamun Kosts Zelt befindet sich bequeme Reiseausrüstung, darunter ein Feldbett, ein Stuhl, ein Schreibtisch, Vorräte und eine Truhe voller Kleider. In der Truhe befindet sich ein Lederbeutel mit 35 <font color="Silver">Silbermünzen</font>, 20 <font color="SkyBlue">Elektrummünzen</font>, 20 <font color="Gold">Goldmünzen</font>, 5 Platinmünzen und einer Perle (100 GM). Ausserdem ein ein [[Gegenstände/Heiltrank-dmg|Heiltrank]], eine [[Zauberschriftrolle-Zaubergrad-2|Zauberschriftrolle]] der [[Dunkelheit-phb|Dunkelheit]] in einer Knochenröhre und eine kleine juwelenbesetzte Schachtel im Wert von 25 <font color="Gold">Goldmünzen</font>.
+In Hamun Kosts Zelt befindet sich bequeme Reiseausrüstung, darunter ein Feldbett, ein Stuhl, ein Schreibtisch, Vorräte und eine Truhe voller Kleider. In der Truhe befindet sich ein Lederbeutel mit 35 <font color="Silver">Silbermünzen</font>, 20 <font color="SkyBlue">Elektrummünzen</font>, 20 <font color="Gold">Goldmünzen</font>, 5 Platinmünzen und einer Perle (100 GM). Ausserdem ein ein [[Gegenstände/Heiltrank-dmg|Heiltrank]], eine [[Zauberschriftrolle-Zaubergrad-2-old|Zauberschriftrolle]] der [[Dunkelheit-phb|Dunkelheit]] in einer Knochenröhre und eine kleine juwelenbesetzte Schachtel im Wert von 25 <font color="Gold">Goldmünzen</font>.
 
 $\quad$Das Schmuckkästchen enthält die bisher interessanteste Entdeckung des roten Zauberers: einen [[Ring_des_Schutzes-dmg|Ring des Schutzes]] aus dem alten Netheril. Der Ring ist aus einem einzigen Stück mystischen grünen Glases gefertigt, das stärker als Stahl ist. Er hat die zusätzliche Eigenschaft, dass der Träger weniger Gefahr läuft, etwas fallen zu lassen oder zu verlieren, das er in der Hand hält, an der er den Ring trägt. Der Träger erhält einen +4-Bonus auf Schutzwürfe oder Überprüfungen, um zu verhindern, dass er einen Gegenstand in dieser Hand fallen lässt oder entwaffnet wird.
 
@@ -237,9 +238,9 @@ Wenn die Charaktere sie aus irgendeinem Grund angreifen, verwandelt sich Reidoth
 >[!readaloud] 
 > Die Ruine sieht aus, als wäre sie einmal ein Bauernhaus gewesen. Jetzt ist sie fast ganz von einem dichten Dickicht verschluckt worden und Bäume wachsen aus dem zerstörten Fundament. Der Weg führt noch ein Stück weiter nach Süden und endet in einem überwucherten Feld.
 
-Das Gestrüpp östlich der Ruine ist mit 12 [[Zweigplage-mm|Zweigplagen]] und 2 [[Nadelplage|Nadelplagen]] bewachsen. Jede Störung im verfallenen Bauernhaus (z.B. wenn Charaktere in den Trümmern herumwühlen) zieht den Zorn der Plagen auf sich.
+Das Gestrüpp östlich der Ruine ist mit 12 [[Zweigplage-mm|Zweigplagen]] und 2 [[Nadelplage-mm|Nadelplagen]] bewachsen. Jede Störung im verfallenen Bauernhaus (z.B. wenn Charaktere in den Trümmern herumwühlen) zieht den Zorn der Plagen auf sich.
 
-3 Runden lang steuern jeweils zwei der [[Zweigplage-mm|Zweigplagen]]  auf die Südtür und zwei weitere auf die Nordtür zu. In Runde 3 folgen die [[Nadelplage|Nadelplagen]], die sich jeweils auf einen anderen Eingang zubewegen. Sie sind furchtlos und greifen an, bis sie zerstört sind.
+3 Runden lang steuern jeweils zwei der [[Zweigplage-mm|Zweigplagen]]  auf die Südtür und zwei weitere auf die Nordtür zu. In Runde 3 folgen die [[Nadelplage-mm|Nadelplagen]], die sich jeweils auf einen anderen Eingang zubewegen. Sie sind furchtlos und greifen an, bis sie zerstört sind.
 
 #### U6: Zerstörter Laden
 >[!readaloud] 
@@ -309,7 +310,7 @@ Das Innere des Gebäudes ist noch möbliert, und im Hauptraum gibt es eine Leite
 >[!readaloud] 
 > Das Innere dieser Ruine ist mit Trümmerhaufen übersät. In einer Ecke steht ein kaputter Webstuhl.
 
-Vier [[Zweigplage-mm|Zweigplagen]] lauern im Dickicht südlich der Ruine, während sich zwei [[Nadelplage|Nadelplagen]] in den Bäumen auf der Ostseite der Gasse verstecken. Ein Charakter, der sich in einem Umkreis von 3 Meter um einen oder mehrere Plagen befindet, kann einen Wurf auf `Weisheit (Wahrnehmung) (SG 13)` ablegen, um die Anwesenheit der Kreaturen bei einem erfolgreichen Test zu entdecken. Andernfalls greifen die Plagen an, wenn sich ein Charakter ihnen bis auf 1,5 Meter nähert.
+Vier [[Zweigplage-mm|Zweigplagen]] lauern im Dickicht südlich der Ruine, während sich zwei [[Nadelplage-mm|Nadelplagen]] in den Bäumen auf der Ostseite der Gasse verstecken. Ein Charakter, der sich in einem Umkreis von 3 Meter um einen oder mehrere Plagen befindet, kann einen Wurf auf `Weisheit (Wahrnehmung) (SG 13)` ablegen, um die Anwesenheit der Kreaturen bei einem erfolgreichen Test zu entdecken. Andernfalls greifen die Plagen an, wenn sich ein Charakter ihnen bis auf 1,5 Meter nähert.
 
 **Entwicklung.** Alle lauten Geräusche hier alarmieren die Kultisten im Bereich [[#U13 Hütte der Drachenkultisten|U13]], die vorsichtig nachforschen.
 
@@ -513,7 +514,7 @@ Die Cragmaws glauben, dass es in diesem Turm spukt, aber sie irren sich. Der Rau
 
 Dieser Raum war einst eine Bibliothek und eine Werkstatt, aber von seinem ursprünglichen Inhalt ist nichts mehr erhalten.
 
-**Schatz.** The grell's nest in the upper part of the tower contains a battered wooden chest the monster found in the wreckage of the room below. Die Truhe ist vom Boden aus schwer zu sehen, sodass ein erfolgreicher Wurf auf `Weisheit (Wahrnehmung)` gegen `SG 15` notwendig ist. Um den Vorsprung, auf dem die Kiste ruht, zu erklimmen ist ein Wurf auf `Stärke (Athletik) (SG 15)` notwendig. Die Truhe ist nicht verschlossen und enthält 90 Elektrummünzen, 120 Goldmünzen, einen [[Gegenstände/Heiltrank-dmg|Heiltrank]], eine [[Gegenstände/spell-scroll-2nd-level|Schriftrolle]] der [[Zauber/Stille-phb|Stille]] und eine [[Gegenstände/spell-scroll-3rd-level|Schriftrolle]] des [[Zauber/Wiederbeleben-phb|Wiederbelebens]]. 
+**Schatz.** The grell's nest in the upper part of the tower contains a battered wooden chest the monster found in the wreckage of the room below. Die Truhe ist vom Boden aus schwer zu sehen, sodass ein erfolgreicher Wurf auf `Weisheit (Wahrnehmung)` gegen `SG 15` notwendig ist. Um den Vorsprung, auf dem die Kiste ruht, zu erklimmen ist ein Wurf auf `Stärke (Athletik) (SG 15)` notwendig. Die Truhe ist nicht verschlossen und enthält 90 Elektrummünzen, 120 Goldmünzen, einen [[Gegenstände/Heiltrank-dmg|Heiltrank]], eine [[spell-scroll-2nd-level-dmg|Schriftrolle]] der [[Zauber/Stille-phb|Stille]] und eine [[spell-scroll-3rd-level-dmg|Schriftrolle]] des [[Zauber/Wiederbeleben-phb|Wiederbelebens]]. 
 
 #### C14: Das Königsgemach
 Jeder Charakter, der an der Tür lauscht, hört zwei Stimmen in einer hitzigen Diskussion - eine laute, knurrende Stimme, die eine Bezahlung für etwas fordert, und eine seidenweiche Antwort.

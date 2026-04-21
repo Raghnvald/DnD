@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-race
+Bezeichnung: Human (Mark of Handling)
 tags:
   - Quelle/5e/erlw
   - Rasse/human/mark-of-handling
@@ -9,7 +8,6 @@ aliases:
 ---
 # Human (Mark of Handling)
 *Source: Eberron: Rising from the Last War p. 42*  
-
 
 - **Ability Scores**: Apply +1 to one of Strength, Dexterity, Constitution, Intelligence, or Charisma.
 - **Size**: Medium

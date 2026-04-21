@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Feywrought Armor-bmt
+Bezeichnung: Feywrought Armor
 Rüstung: Leicht, Mittel oder Schwer
 tags:
   - Gegenstand/Einstimmung/required

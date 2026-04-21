@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: The Ordning; Cloud Giant Wealth
 tags:
   - Quelle/5e/bgg
 aliases:

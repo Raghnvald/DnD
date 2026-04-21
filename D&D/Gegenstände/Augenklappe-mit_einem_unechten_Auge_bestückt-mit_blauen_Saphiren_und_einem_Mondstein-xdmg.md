@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Eye patch decorated with tiny blue sapphires and moonstones
 tags:
   - Gegenstand/Ausrüstung/treasure-art-object

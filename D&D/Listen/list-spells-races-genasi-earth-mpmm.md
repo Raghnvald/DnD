@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Genasi (Earth)
 tags:
   - Zauber/list/subrace/genasi-earth
 aliases:

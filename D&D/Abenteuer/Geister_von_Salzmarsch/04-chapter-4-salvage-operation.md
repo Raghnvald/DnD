@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Chapter 4: Salvage Operation"
 tags:
   - Quelle/5e/gos
 aliases:

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "The Spider's Web"
 tags:
   - Quelle/5e/lmop
 aliases:

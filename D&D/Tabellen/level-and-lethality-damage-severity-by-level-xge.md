@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Level and Lethality; Damage Severity by Level
 tags:
   - Quelle/5e/xge
 aliases:

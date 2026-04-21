@@ -1,6 +1,9 @@
 ---
-tags: [Quelle/5e/phb]
-aliases: ["Half-Orc"]
+Bezeichnung: Halbork
+tags:
+  - Quelle/5e/phb
+aliases:
+  - "Half-Orc"
 ---
 # Halbork
 *Quelle: SRD / Grundregelwerk*  

@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mcv2dc
-  - Monster/HG/1
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Riese
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Irda Seeker
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/1
+  - Monster/Typ/Riese
+  - Quelle/5e/mcv2dc
 aliases:
   - Irda Seeker
 ---

@@ -1,8 +1,11 @@
 ---
-tags: [Quelle/5e/dmg]
+Bezeichnung: Umrechnung Fassungsvermögen
+tags:
+  - Quelle/5e/dmg
 Feet: 10
 Meter: 0
 ---
+# Umrechnung Fassungsvermögen
 
 ***WIP***
 
@@ -36,7 +39,6 @@ Meter: 0
 | 72    | 240  |
 | 96    | 320  |
 | 108   | 360  |
-
 
 1/5 cubic foot/6 pounds of gear = 5,6 Liter/3 Kilogramm Ausrüstung
 1 cubic foot/30 pounds of gear = 28 Liter/15 Kilogramm Ausrüstung

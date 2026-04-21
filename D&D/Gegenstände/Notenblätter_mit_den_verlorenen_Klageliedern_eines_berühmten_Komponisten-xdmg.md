@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Bundle of sheet music representing the lost dirges of a famous composer
 tags:
   - Gegenstand/Ausrüstung/treasure-art-object

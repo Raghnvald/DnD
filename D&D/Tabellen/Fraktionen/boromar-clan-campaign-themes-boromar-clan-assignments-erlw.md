@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Boromar Clan Campaign Themes; Boromar Clan Assignments
 tags:
   - Quelle/5e/erlw
 aliases:

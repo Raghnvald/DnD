@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-race
+Bezeichnung: Human (Mark of Finding)
 tags:
   - Quelle/5e/erlw
   - Rasse/human/mark-of-finding
@@ -9,7 +8,6 @@ aliases:
 ---
 # Human (Mark of Finding)
 *Source: Eberron: Rising from the Last War p. 41*  
-
 
 - **Ability Scores**: con +1 wis +2
 - **Size**: Medium

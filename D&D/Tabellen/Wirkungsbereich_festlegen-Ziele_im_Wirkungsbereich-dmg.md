@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Wirkungsbereich festlegen; Ziele im Wirkungsbereich
 tags:
   - Quelle/5e/dmg
 aliases:

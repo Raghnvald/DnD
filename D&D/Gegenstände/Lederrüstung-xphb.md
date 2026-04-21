@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Leather Armor
 Rüstung: Leicht
 tags:
@@ -8,7 +6,6 @@ tags:
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
-  - Leather Armor
   - Leather Armor
 linter-yaml-title-alias: Leather Armor
 ---

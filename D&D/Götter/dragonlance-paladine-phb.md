@@ -1,11 +1,10 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Paladine
 tags:
-  - Quelle/5e/phb
-  - Kompendium/Götter/dragonlance
   - Kompendium/Götter/Domäne/peace
   - Kompendium/Götter/Domäne/war
+  - Kompendium/Götter/dragonlance
+  - Quelle/5e/phb
 aliases:
   - Paladine
 ---

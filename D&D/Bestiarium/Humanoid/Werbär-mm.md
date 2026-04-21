@@ -1,17 +1,16 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mm
-  - Monster/HG/5
-  - Monster/Habitat/Arktis
-  - Monster/Habitat/Wald
-  - Monster/Habitat/Hügel
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/human
-  - Monster/Typ/Humanoid/shapechanger
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Werebear
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Arktis
+  - Monster/Habitat/Hügel
+  - Monster/Habitat/Wald
+  - Monster/HG/5
+  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/shapechanger
+  - Quelle/5e/mm
 aliases:
   - Werebear
 ---

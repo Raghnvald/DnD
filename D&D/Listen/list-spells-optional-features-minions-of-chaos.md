@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Minions of Chaos
 tags:
   - Zauber/list/optfeature/minions-of-chaos
 aliases:

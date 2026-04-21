@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Random Settlements; Known For Its...
 tags:
   - Quelle/5e/dmg
 aliases:

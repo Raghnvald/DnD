@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-background
+Bezeichnung: Selesnya Initiate
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/ggr
@@ -9,7 +8,6 @@ aliases:
 ---
 # Selesnya Initiate
 *Source: Guildmasters' Guide to Ravnica p. 86*  
-
 
 - **Skill Proficiencies.** Nature, Persuasion  
 - **Tool Proficiencies.** One type of artisan's tools or one musical instrument  

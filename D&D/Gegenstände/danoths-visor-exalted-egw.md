@@ -1,7 +1,6 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Danoth's Visor (Exalted)
+Bezeichnung: "Danoth's Visor (Exalted)"
+Kategorie: Wundersamer Gegenstand
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-race
+Bezeichnung: Aarakocra
 tags:
   - Quelle/5e/dmg
   - Rasse/aarakocra
@@ -9,7 +8,6 @@ aliases:
 ---
 # Aarakocra
 *Source: Dungeon Master's Guide p. 282*  
-
 
 - **Ability Scores**: dex +2 wis +2
 - **Size**: Medium

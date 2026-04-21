@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Downtime Activity: Buying a Magic Item"
 tags:
   - Quelle/5e/xge
 aliases:

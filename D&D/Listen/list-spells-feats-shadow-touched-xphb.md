@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Shadow-Touched
 tags:
   - Zauber/list/feat/shadow-touched
 aliases:

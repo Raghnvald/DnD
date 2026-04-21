@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Talona
 tags:
-  - Quelle/5e/scag
-  - Kompendium/Götter/faerunian
   - Kompendium/Götter/Domäne/death
+  - Kompendium/Götter/faerunian
+  - Quelle/5e/scag
 aliases:
-  - Talona
   - Lady of Poison
   - Mistress of Disease
+  - Talona
   - The Plague-crone
 ---
 # Talona

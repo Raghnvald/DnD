@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Sins of Our Elders
 tags:
   - Quelle/5e/jttrc
 aliases:

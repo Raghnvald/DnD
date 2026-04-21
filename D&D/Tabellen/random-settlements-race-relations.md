@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Random Settlements; Race Relations
 tags:
   - Quelle/5e/dmg
 aliases:

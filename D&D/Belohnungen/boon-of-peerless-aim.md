@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-reward
+Bezeichnung: Boon of Peerless Aim
 tags:
-  - Quelle/5e/dmg
   - Kompendium/Belohnung/boon
+  - Quelle/5e/dmg
 aliases:
   - Boon of Peerless Aim
 ---

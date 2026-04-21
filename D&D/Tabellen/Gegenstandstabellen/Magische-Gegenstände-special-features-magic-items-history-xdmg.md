@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Magic Item Special Features; Magic Item's History"
 tags:
   - Quelle/5e/xdmg
 aliases:

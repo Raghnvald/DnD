@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Path of the Totem Warrior
 tags:
   - Zauber/list/subclass/path-of-the-totem-warrior
 aliases:

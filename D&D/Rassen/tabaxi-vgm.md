@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-race
+Bezeichnung: Tabaxi
 tags:
   - Quelle/5e/vgm
   - Rasse/tabaxi

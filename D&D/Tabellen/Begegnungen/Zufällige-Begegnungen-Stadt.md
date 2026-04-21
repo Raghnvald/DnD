@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Random Urban Encounters
 tags:
   - Quelle/5e/dmg
 aliases:

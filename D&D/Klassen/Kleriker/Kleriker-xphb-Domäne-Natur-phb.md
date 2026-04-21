@@ -1,10 +1,9 @@
 ---
-cssclasses:
-  - json5e-class
+Bezeichnung: Nature Domain
 tags:
-  - Quelle/5e/phb
-  - Kompendium/Götter/Domäne/nature
   - Klasse/Kleriker/nature
+  - Kompendium/Götter/Domäne/nature
+  - Quelle/5e/phb
 aliases:
   - Nature Domain
 ---
@@ -42,7 +41,6 @@ aliases:
 > </tbody></table>
 
 ^class-progression
-
 
 > [!caution] Mixed edition content
 > This subclass is from a different game edition. You will need to do some adjustment to resolve differences.

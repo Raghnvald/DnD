@@ -1,15 +1,14 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Mystra
 tags:
-  - Quelle/5e/scag
-  - Kompendium/Götter/faerunian
   - Kompendium/Götter/Domäne/arcana
   - Kompendium/Götter/Domäne/knowledge
+  - Kompendium/Götter/faerunian
+  - Quelle/5e/scag
 aliases:
   - Mystra
-  - The Lady of Mysteries
   - Our Lady of Spells
+  - The Lady of Mysteries
   - The Mother of All Magic
 ---
 # Mystra

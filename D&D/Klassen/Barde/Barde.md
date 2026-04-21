@@ -1,6 +1,10 @@
 ---
-tags: [Klasse/Barde, Quelle/5e/phb]
-aliases: [Bard]
+Bezeichnung: Barde
+tags:
+  - Klasse/Barde
+  - Quelle/5e/phb
+aliases:
+  - Bard
 ---
 # Barde
 _Quelle: Grundregelwerk / Spielerhandbuch_

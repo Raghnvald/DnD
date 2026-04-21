@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "The Soul's Shape; Ankhtepot's Soul"
 tags:
   - Quelle/5e/vrgr
 aliases:

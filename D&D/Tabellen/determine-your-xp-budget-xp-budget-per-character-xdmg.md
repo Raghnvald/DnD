@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Determine Your XP Budget; XP Budget per Character
 tags:
   - Quelle/5e/xdmg
 aliases:

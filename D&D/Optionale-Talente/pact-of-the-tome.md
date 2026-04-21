@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-feat
+Bezeichnung: Pact of the Tome
 tags:
-  - Quelle/5e/phb
   - Kompendium/Optionales/pb
+  - Quelle/5e/phb
 aliases:
   - Pact of the Tome
 ---

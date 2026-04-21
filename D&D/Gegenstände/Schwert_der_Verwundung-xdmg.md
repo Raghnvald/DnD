@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Sword of Wounding
 Kategorie: Nahkampf-Kriegswaffe (generisch)
 tags:

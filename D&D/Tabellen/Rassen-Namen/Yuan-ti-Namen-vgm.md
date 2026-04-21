@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Yuan-ti Names
 tags:
   - Quelle/5e/vgm
 aliases:

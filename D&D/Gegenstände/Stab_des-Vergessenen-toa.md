@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Stab des Vergessenen
 tags:
   - Gegenstand/Einstimmung/required

@@ -17,8 +17,8 @@ tags:
   - Klasse/Zauberer
   - Quelle/5e/xphb
   - Rasse/yuan-ti
-  - Subklasse/Mystischer-Ritter
   - Subklasse/fiend-patron
+  - Subklasse/Mystischer-Ritter
   - Zauber/Grad/2
   - Zauber/Schule/Verzauberung
 classes:

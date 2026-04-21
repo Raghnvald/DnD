@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-race
+Bezeichnung: Deep Gnome
 tags:
   - Quelle/5e/mpmm
   - Rasse/deep-gnome

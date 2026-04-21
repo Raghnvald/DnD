@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-background
+Bezeichnung: Urban Bounty Hunter
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/scag
@@ -9,7 +8,6 @@ aliases:
 ---
 # Urban Bounty Hunter
 *Source: Sword Coast Adventurer's Guide p. 153*  
-
 
 - **Skill Proficiencies.** Choose two from among [Deception](/3-Mechanics/CLI/skills.md#Deception), [Insight](/3-Mechanics/CLI/skills.md#Insight), [Persuasion](/3-Mechanics/CLI/skills.md#Persuasion), and [Stealth](/3-Mechanics/CLI/skills.md#Stealth)  
 - **Tool Proficiencies.** Choose two from among one type of gaming set, one musical instrument, and [thieves' tools](/3-Mechanics/CLI/items/thieves-tools-xphb.md)  

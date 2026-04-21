@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Trickery Domain
 tags:
   - Zauber/list/subclass/trickery-domain
 aliases:

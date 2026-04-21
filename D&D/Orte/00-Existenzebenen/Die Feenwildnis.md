@@ -1,3 +1,7 @@
+---
+Bezeichnung: Die Feenwildnis
+---
+# Die Feenwildnis
 ![[../../../../../99 - Setup/Files/Bildersammlung/Banner/Feenwildnis.jpg]]
 
 Die Parallelebenen sind das Abbild (oder das Echo) der materielle Ebene bzw. der Welt. Es gibt zum einem die Feenwildnis und zum anderem den Schattensaum. Zu beiden Welten gibt es konkrete Verbindungen und Portale von und zu Toril und Abeir.

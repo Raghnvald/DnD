@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Antimaterie-Gewehr
+Bezeichnung: Antimatter Rifle
 Kategorie: Fernkampf-Kriegswaffe
 tags:
   - Gegenstand/Seltenheit/keine

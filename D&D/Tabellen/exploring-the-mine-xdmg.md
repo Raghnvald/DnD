@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Exploring the Mine
 tags:
   - Quelle/5e/xdmg
 aliases:

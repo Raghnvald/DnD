@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/egw
-  - Monster/HG/3
-  - Monster/Größe/Groß
-  - Monster/Typ/Unhold/devil
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Nergaliid
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/3
+  - Monster/Typ/Unhold/devil
+  - Quelle/5e/egw
 aliases:
   - Nergaliid
 ---

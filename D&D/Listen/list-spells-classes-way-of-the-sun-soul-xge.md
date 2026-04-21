@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Way of the Sun Soul
 tags:
   - Zauber/list/subclass/way-of-the-sun-soul
 aliases:

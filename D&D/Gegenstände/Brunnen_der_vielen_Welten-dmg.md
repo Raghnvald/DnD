@@ -1,7 +1,9 @@
 ---
 Bezeichnung: Well of Many Worlds
+Kategorie: Wundersamer Gegenstand
 tags:
   - Gegenstand/Seltenheit/legendär
+  - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
   - Well of Many Worlds

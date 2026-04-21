@@ -1,7 +1,8 @@
 ---
+Bezeichnung: Illusionist
 tags:
-  - Quelle/5e/xphb
   - Klasse/Magier/illusionist
+  - Quelle/5e/xphb
 aliases:
   - Illusionist
 ---
@@ -39,7 +40,6 @@ aliases:
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Tiefling (Asmodeus)
 tags:
   - Zauber/list/subrace/tiefling-asmodeus
 aliases:

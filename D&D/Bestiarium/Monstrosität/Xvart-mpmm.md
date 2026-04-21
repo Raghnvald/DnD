@@ -1,15 +1,14 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mpmm
-  - Monster/HG/1-8
-  - Monster/Habitat/Hügel
-  - Monster/Habitat/Unterreich
-  - Monster/Größe/Klein
-  - Monster/Typ/Monstrosität
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Xvart
+tags:
+  - Monster/Größe/Klein
+  - Monster/Habitat/Hügel
+  - Monster/Habitat/Unterreich
+  - Monster/HG/1-8
+  - Monster/Typ/Monstrosität
+  - Quelle/5e/mpmm
 aliases:
   - Xvart
 ---

@@ -1,15 +1,14 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mpmm
-  - Monster/HG/12
-  - Monster/Habitat/Berg
-  - Monster/Habitat/Unterreich
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/dwarf
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Duergar Despot
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Berg
+  - Monster/Habitat/Unterreich
+  - Monster/HG/12
+  - Monster/Typ/Humanoid/dwarf
+  - Quelle/5e/mpmm
 aliases:
   - Duergar Despot
 ---

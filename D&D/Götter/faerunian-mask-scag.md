@@ -1,10 +1,9 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Mask
 tags:
-  - Quelle/5e/scag
-  - Kompendium/Götter/faerunian
   - Kompendium/Götter/Domäne/trickery
+  - Kompendium/Götter/faerunian
+  - Quelle/5e/scag
 aliases:
   - Mask
   - The Lord of Shadows

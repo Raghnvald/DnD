@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Mind Crystal (Heightened)
+Kategorie: Wundersamer Gegenstand
 tags:
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/pabtso

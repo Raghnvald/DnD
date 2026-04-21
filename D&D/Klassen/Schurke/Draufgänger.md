@@ -1,6 +1,10 @@
 ---
-tags: [Klasse/Schurke, Quelle/5e/xge]
-aliases: [Thief]
+Bezeichnung: Draufgänger
+tags:
+  - Klasse/Schurke
+  - Quelle/5e/xge
+aliases:
+  - Thief
 ---
 # Draufgänger
 _[[Schurke]]_: Schurkenarchetyp

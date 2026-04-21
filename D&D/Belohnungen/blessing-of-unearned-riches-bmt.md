@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-reward
+Bezeichnung: Blessing of Unearned Riches
 tags:
-  - Quelle/5e/bmt
   - Kompendium/Belohnung/blessing
+  - Quelle/5e/bmt
 aliases:
   - Blessing of Unearned Riches
 ---

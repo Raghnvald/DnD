@@ -20,13 +20,13 @@ tags:
   - Quelle/5e/xphb
   - Subklasse/armorer
   - Subklasse/artillerist
-  - Subklasse/Mystischer-Ritter
   - Subklasse/evoker
+  - Subklasse/Mystischer-Ritter
   - Subklasse/the-fathomless
   - Subklasse/the-genie/djinni
+  - Zauber/Belohnung/boon-of-the-stormborn
   - Zauber/Grad/1
   - Zauber/optfeature/fist-of-four-thunders
-  - Zauber/Belohnung/boon-of-the-stormborn
   - Zauber/Schule/Hervorrufung
 classes:
   - Artificer (Armorer)

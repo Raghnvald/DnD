@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Items in a Giant's Bag"
 tags:
   - Quelle/5e/skt
 aliases:

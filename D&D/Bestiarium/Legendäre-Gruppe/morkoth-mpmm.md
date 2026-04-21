@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Morkoth
 tags:
-  - Quelle/5e/mpmm
   - Monster/legendary-group
+  - Quelle/5e/mpmm
 aliases:
   - Morkoth
 ---

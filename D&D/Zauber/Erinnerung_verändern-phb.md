@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Modify Memory
 Zaubergrad: 5
 tags:

@@ -1,11 +1,9 @@
 ---
-cssclasses:
-  - json5e-spell
-Bezeichnung: Leomund's Secret Chest
+Bezeichnung: "Leomund's Secret Chest"
 tags:
+  - Klasse/Artifizient
   - Klasse/Barde
   - Klasse/Magier
-  - Klasse/Artifizient
   - Klasse/Schurke/Arkaner-Betrüger
   - Quelle/5e/xphb
   - Subklasse/Mystischer-Ritter

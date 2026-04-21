@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Missing Patrol
 tags:
   - Quelle/5e/slw
 aliases:

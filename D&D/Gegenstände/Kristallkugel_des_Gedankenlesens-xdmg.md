@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Crystal Ball of Mind Reading
 tags:
   - Gegenstand/Einstimmung/required

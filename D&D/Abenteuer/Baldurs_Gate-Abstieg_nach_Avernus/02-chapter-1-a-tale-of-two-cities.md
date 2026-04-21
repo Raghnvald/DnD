@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Chapter 1: A Tale of Two Cities"
 tags:
   - Quelle/5e/bgdia
 aliases:

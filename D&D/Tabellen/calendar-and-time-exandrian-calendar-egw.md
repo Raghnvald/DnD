@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Calendar and Time; Exandrian Calendar
 tags:
   - Quelle/5e/egw
 aliases:

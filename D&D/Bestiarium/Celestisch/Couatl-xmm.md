@@ -1,17 +1,16 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/4
-  - Monster/Habitat/Wüste
-  - Monster/Habitat/Wald
-  - Monster/Habitat/Grasland
-  - Monster/Habitat/Stadt
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Himmlische
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Couatl
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Grasland
+  - Monster/Habitat/Stadt
+  - Monster/Habitat/Wald
+  - Monster/Habitat/Wüste
+  - Monster/HG/4
+  - Monster/Typ/Himmlische
+  - Quelle/5e/xmm
 aliases:
   - Couatl
 ---

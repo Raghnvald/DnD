@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mm
-  - Monster/HG/1
-  - Monster/Größe/Winzig
-  - Monster/Typ/Unhold/devil
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Imp
+tags:
+  - Monster/Größe/Winzig
+  - Monster/HG/1
+  - Monster/Typ/Unhold/devil
+  - Quelle/5e/mm
 aliases:
   - Imp
 ---

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Welcome to the Radiant Citadel
 tags:
   - Quelle/5e/jttrc
 aliases:

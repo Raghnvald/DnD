@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Copper Dragon Treasures; Copper Dragon Art Objects
 tags:
   - Quelle/5e/ftd
 aliases:

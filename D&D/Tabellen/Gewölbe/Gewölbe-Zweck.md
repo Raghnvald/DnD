@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Dungeon Purpose
 tags:
   - Quelle/5e/dmg
 aliases:

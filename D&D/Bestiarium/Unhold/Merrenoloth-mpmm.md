@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mpmm
-  - Monster/HG/3
-  - Monster/Habitat/Küste
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Unhold/yugoloth
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Merrenoloth
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Küste
+  - Monster/HG/3
+  - Monster/Typ/Unhold/yugoloth
+  - Quelle/5e/mpmm
 aliases:
   - Merrenoloth
 ---

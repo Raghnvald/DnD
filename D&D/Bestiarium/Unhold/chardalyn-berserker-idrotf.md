@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/idrotf
-  - Monster/HG/4
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Unhold
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Chardalyn Berserker
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/4
+  - Monster/Typ/Unhold
+  - Quelle/5e/idrotf
 aliases:
   - Chardalyn Berserker
 ---

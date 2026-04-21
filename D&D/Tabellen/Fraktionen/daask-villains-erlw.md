@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Daask Villains
 tags:
   - Quelle/5e/erlw
 aliases:

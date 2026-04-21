@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Ebenenholz (Irianisches Rosenholz)
+Bezeichnung: Imbued Wood (Irian Rosewood)
 Kategorie: Wundersamer Gegenstand
 tags:
   - Gegenstand/Ausrüstung/Zauberfokus

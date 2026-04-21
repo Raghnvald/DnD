@@ -1,7 +1,5 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Schwarzstab
+Bezeichnung: Blackstaff
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär

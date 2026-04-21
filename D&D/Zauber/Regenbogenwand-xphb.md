@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Prismatic Wall
 tags:
   - Klasse/Barde

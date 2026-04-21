@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Buried Dynasty
 tags:
   - Quelle/5e/jttrc
 aliases:

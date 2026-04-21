@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Fraz-Urb'luu"
 tags:
-  - Quelle/5e/mtf
   - Monster/legendary-group
+  - Quelle/5e/mtf
 aliases:
   - Fraz-Urb'luu
 ---

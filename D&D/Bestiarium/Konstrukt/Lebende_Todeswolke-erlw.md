@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/erlw
-  - Monster/HG/7
-  - Monster/Größe/Groß
-  - Monster/Typ/Konstrukt
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Living Cloudkill
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/7
+  - Monster/Typ/Konstrukt
+  - Quelle/5e/erlw
 aliases:
   - Living Cloudkill
 ---

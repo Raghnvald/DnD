@@ -1,7 +1,5 @@
 ---
-cssclasses:
-  - json5e-spell
-Bezeichnung: Melf's Acid Arrow
+Bezeichnung: "Melf's Acid Arrow"
 tags:
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
@@ -9,8 +7,8 @@ tags:
   - Klasse/Schurke/Arkaner-Betrüger
   - Quelle/5e/xphb
   - Subklasse/Alchemist
-  - Subklasse/Mystischer-Ritter
   - Subklasse/evoker
+  - Subklasse/Mystischer-Ritter
   - Zauber/Grad/2
   - Zauber/Schule/Hervorrufung
 classes:

@@ -8,10 +8,10 @@ Wirkungsdauer:
 Angriff:
 Schaden:
 tags:
+  - Klasse/Artifizient
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
   - Klasse/Magier
-  - Klasse/Artifizient
   - Klasse/Schurke/Arkaner-Betrüger
   - Klasse/Zauberer
   - Kompendium/Talent/artificer-initiate
@@ -19,8 +19,8 @@ tags:
   - Quelle/5e/xphb
   - Rasse/elf/drow
   - Rasse/kobold
-  - Subklasse/Mystischer-Ritter
   - Subklasse/illusionist
+  - Subklasse/Mystischer-Ritter
   - Zauber/Grad/0
   - Zauber/optfeature/pact-of-the-tome
   - Zauber/Schule/Illusion

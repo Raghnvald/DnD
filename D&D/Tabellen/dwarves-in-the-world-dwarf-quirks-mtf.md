@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Dwarves in the World; Dwarf Quirks
 tags:
   - Quelle/5e/mtf
 aliases:

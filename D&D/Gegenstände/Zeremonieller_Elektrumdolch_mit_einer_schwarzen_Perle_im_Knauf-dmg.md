@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Ceremonial electrum dagger with a black pearl in the pommel
 Kategorie: Kunstobjekt
 tags:

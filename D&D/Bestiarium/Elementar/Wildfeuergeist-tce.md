@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/tce
-  - Monster/HG/
-  - Monster/Größe/Klein
-  - Monster/Typ/Elementar
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Wildfire Spirit
+tags:
+  - Monster/Größe/Klein
+  - Monster/HG/
+  - Monster/Typ/Elementar
+  - Quelle/5e/tce
 aliases:
   - Wildfire Spirit
 ---

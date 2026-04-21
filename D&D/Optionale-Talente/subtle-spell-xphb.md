@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-feat
+Bezeichnung: Subtle Spell
 tags:
-  - Quelle/5e/xphb
   - Kompendium/Optionales/mm
+  - Quelle/5e/xphb
 aliases:
   - Subtle Spell
 ---

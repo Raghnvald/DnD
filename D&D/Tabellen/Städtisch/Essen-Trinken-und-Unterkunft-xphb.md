@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Food, Drink, and Lodging
 tags:
   - Quelle/5e/xphb
 aliases:

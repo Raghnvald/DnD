@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Random Settlements; Ruler's Status"
 tags:
   - Quelle/5e/dmg
 aliases:

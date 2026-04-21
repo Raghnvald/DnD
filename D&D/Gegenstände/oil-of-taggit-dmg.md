@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Oil of Taggit
 Kategorie: Gift
 tags:

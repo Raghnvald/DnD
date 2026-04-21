@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Eye Agate
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone

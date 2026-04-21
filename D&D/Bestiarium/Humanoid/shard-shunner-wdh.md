@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/wdh
-  - Monster/HG/2
-  - Monster/Größe/Klein
-  - Monster/Typ/Humanoid/halfling
-  - Monster/Typ/Humanoid/shapechanger
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Shard Shunner
+tags:
+  - Monster/Größe/Klein
+  - Monster/HG/2
+  - Monster/Typ/Humanoid/halfling
+  - Monster/Typ/Humanoid/shapechanger
+  - Quelle/5e/wdh
 aliases:
   - Shard Shunner
 ---

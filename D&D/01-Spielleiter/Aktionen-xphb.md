@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Actions
 tags:
   - Quelle/5e/dmg
   - Quelle/5e/phb

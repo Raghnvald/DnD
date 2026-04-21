@@ -1,10 +1,9 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Sheyanna Flaxenstrand
 tags:
-  - Quelle/5e/mtf
-  - Kompendium/Götter/gnome
   - Kompendium/Götter/Domäne/light
+  - Kompendium/Götter/gnome
+  - Quelle/5e/mtf
 aliases:
   - Sheyanna Flaxenstrand
 ---

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-background
+Bezeichnung: Fisher
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/gos
@@ -9,7 +8,6 @@ aliases:
 ---
 # Fisher
 *Source: Ghosts of Saltmarsh p. 29*  
-
 
 - **Skill Proficiencies.** History, Survival  
 - **Languages.** One of your choice  

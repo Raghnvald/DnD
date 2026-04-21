@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Suggestion
+Bezeichnung: Einflüsterung
 Zaubergrad: 2
 Zeitaufwand:
 Reichweite:

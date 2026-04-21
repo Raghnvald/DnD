@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Darkon's Salvation"
 tags:
   - Quelle/5e/vrgr
 aliases:

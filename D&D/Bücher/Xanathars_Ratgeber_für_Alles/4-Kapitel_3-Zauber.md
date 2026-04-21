@@ -1,4 +1,5 @@
 ---
+Bezeichnung: Zauber
 tags:
   - Quelle/5e/xge
 aliases:

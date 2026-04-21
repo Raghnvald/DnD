@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-race
+Bezeichnung: Changeling
 tags:
   - Quelle/5e/erlw
   - Rasse/changeling
@@ -72,6 +71,5 @@ A changeling might use a different name for each mask and persona and adopt new 
 Changelings have a fluid relationship with gender, seeing it as one characteristic to change among many.
 
 **Changeling Names**: Aunn, Bin, Cas, Dox, Fie, Hars, Jin, Lam, Mas, Nix, Ot, Paik, Ruz, Sim, Toox, Vil, Yug
-
 
 ![](/3-Mechanics/CLI/races/img/changeling-001.webp#center)

@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Gold jewelry box with platinum filigree
 Kategorie: Kunstobjekt
 tags:

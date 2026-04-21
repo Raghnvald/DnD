@@ -1,16 +1,14 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Malaxxix
 tags:
-  - Quelle/5e/bmt
   - Monster/legendary-group
+  - Quelle/5e/bmt
 aliases:
   - Malaxxix
 ---
 # Malaxxix
 
 ## Lair Actions
-
 
 In its lair on initiative count 20 (losing initiative ties), Malaxxix can take one of the following lair actions; Malaxxix can't take the same lair action two rounds in a row:
 
@@ -19,7 +17,6 @@ In its lair on initiative count 20 (losing initiative ties), Malaxxix can take o
 - **Surge.** Malaxxix commands the palanquin to move up to its speed.  
 
 ## Regional Effects
-
 
 The region around the Unborn Palanquin is warped by its presence, creating the following effects:
 

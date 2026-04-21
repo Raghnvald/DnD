@@ -9,8 +9,8 @@ Schaden: 1d8 Kälte
 status:
   - completed
 tags:
-  - Klasse/Magier
   - Klasse/Artifizient
+  - Klasse/Magier
   - Klasse/Zauberer
   - Quelle/5e/phb
   - Zauber/Grad/0

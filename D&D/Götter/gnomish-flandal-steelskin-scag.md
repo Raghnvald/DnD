@@ -1,10 +1,9 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Flandal Steelskin
 tags:
-  - Quelle/5e/scag
-  - Kompendium/Götter/gnomish
   - Kompendium/Götter/Domäne/knowledge
+  - Kompendium/Götter/gnomish
+  - Quelle/5e/scag
 aliases:
   - Flandal Steelskin
 ---

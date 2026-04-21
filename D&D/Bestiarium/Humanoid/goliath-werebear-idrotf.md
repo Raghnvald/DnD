@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/idrotf
-  - Monster/HG/8
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/goliath
-  - Monster/Typ/Humanoid/shapechanger
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Goliath Werebear
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/8
+  - Monster/Typ/Humanoid/goliath
+  - Monster/Typ/Humanoid/shapechanger
+  - Quelle/5e/idrotf
 aliases:
   - Goliath Werebear
 ---

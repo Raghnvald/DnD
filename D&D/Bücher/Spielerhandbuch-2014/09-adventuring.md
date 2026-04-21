@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Adventuring
 tags:
   - Quelle/5e/phb
 aliases:

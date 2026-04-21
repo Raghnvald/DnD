@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Index of Artists
 tags:
   - Quelle/5e/tdcsr
 aliases:

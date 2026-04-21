@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/10
-  - Monster/Habitat/Jedes
-  - Monster/Größe/Groß
-  - Monster/Typ/Konstrukt
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Stone Golem
+tags:
+  - Monster/Größe/Groß
+  - Monster/Habitat/Jedes
+  - Monster/HG/10
+  - Monster/Typ/Konstrukt
+  - Quelle/5e/xmm
 aliases:
   - Stone Golem
 ---
@@ -41,7 +40,6 @@ Stone golems are typically created to protect places of significance to a group,
 > [!quote]  
 > 
 > Exercise discernment when deciding the golem's appearance, as your creation is likely to long outlive its model.
-
 
 ```statblock
 "name": "Stone Golem (XMM)"

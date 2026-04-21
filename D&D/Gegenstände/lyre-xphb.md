@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Lyre
 tags:
   - Gegenstand/Ausrüstung/Instrument

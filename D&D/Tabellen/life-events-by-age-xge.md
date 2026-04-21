@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Life Events by Age
 tags:
   - Quelle/5e/xge
 aliases:

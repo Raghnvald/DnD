@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Eberron Crafting Complications
 tags:
   - Quelle/5e/erlw
 aliases:

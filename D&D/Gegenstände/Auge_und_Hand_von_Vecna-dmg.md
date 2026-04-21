@@ -1,10 +1,10 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Eye and Hand of Vecna
+Kategorie: Wundersamer Gegenstand
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/Artefakt
+  - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
   - Eye and Hand of Vecna

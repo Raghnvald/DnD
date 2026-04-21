@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Carved wooden harp with ivory inlay and zircon gems
 tags:
   - Gegenstand/Ausrüstung/treasure-art-object

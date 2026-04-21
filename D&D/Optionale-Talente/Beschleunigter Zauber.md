@@ -1,9 +1,10 @@
 ---
+Bezeichnung: Beschleunigter Zauber
 tags:
-- Quelle/5e/phb
-- Kompendium/Optionales/Metamagie
+  - Kompendium/Optionales/Metamagie
+  - Quelle/5e/phb
 aliases:
-- Quickened Spell
+  - Quickened Spell
 ---
 # Beschleunigter Zauber
 _Quellen:_ Spielerhandbuch

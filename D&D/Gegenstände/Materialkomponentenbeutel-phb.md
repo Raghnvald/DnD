@@ -9,8 +9,8 @@ tags:
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Materialkomponentenbeutel
   - Component Pouch
+  - Materialkomponentenbeutel
 linter-yaml-title-alias: Materialkomponentenbeutel
 ---
 # Materialkomponentenbeutel

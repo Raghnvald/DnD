@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Magische Gegenstände kaufen; Magische Gegenstände kaufen
 tags:
   - Quelle/5e/xge
 aliases:

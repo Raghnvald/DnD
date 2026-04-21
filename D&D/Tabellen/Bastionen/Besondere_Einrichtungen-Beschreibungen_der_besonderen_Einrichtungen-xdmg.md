@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Besondere Einrichtungen - Beschreibungen
+Bezeichnung: "Besondere Einrichtungen: Beschreibungen der besonderen Einrichtungen"
 Kategorie: Bastion
 tags:
   - Quelle/5e/xdmg

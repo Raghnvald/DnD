@@ -1,16 +1,15 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: The Everlight
 tags:
-  - Quelle/5e/tdcsr
-  - Kompendium/Götter/exandria
   - Kompendium/Götter/Domäne/life
   - Kompendium/Götter/Domäne/light
   - Kompendium/Götter/Domäne/peace
+  - Kompendium/Götter/exandria
+  - Quelle/5e/tdcsr
 aliases:
-  - The Everlight
-  - Sarenrae
   - Raei
+  - Sarenrae
+  - The Everlight
 ---
 # The Everlight
 *Source: Tal'Dorei Campaign Setting Reborn p. 32* 

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: The Celtic Pantheon; Celtic Deities
 tags:
   - Quelle/5e/phb
 aliases:

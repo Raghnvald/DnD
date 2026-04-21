@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: The Greek Pantheon; Greek Deities
 tags:
   - Quelle/5e/phb
 aliases:

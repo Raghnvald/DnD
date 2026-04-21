@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Swarmkeeper
 tags:
   - Zauber/list/subclass/swarmkeeper
 aliases:

@@ -1,7 +1,5 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Ruin's Wake (Exalted)
+Bezeichnung: "Ruin's Wake (Exalted)"
 Kategorie: Einfache Nahkampfwaffe
 tags:
   - Gegenstand/Einstimmung/required
@@ -10,7 +8,6 @@ tags:
   - Gegenstand/Waffe/Nahkampf
   - Quelle/5e/egw
 aliases:
-  - Ruin's Wake (Exalted)
   - Ruin's Wake (Exalted)
 linter-yaml-title-alias: Ruin's Wake (Exalted)
 ---

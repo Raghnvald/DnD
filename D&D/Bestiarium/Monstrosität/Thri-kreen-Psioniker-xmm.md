@@ -1,15 +1,14 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/8
-  - Monster/Habitat/Wüste
-  - Monster/Habitat/Grasland
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Monstrosität
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Thri-kreen Psion
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Grasland
+  - Monster/Habitat/Wüste
+  - Monster/HG/8
+  - Monster/Typ/Monstrosität
+  - Quelle/5e/xmm
 aliases:
   - Thri-kreen Psion
 ---
@@ -30,7 +29,6 @@ Thri-kreen are mantis-like wanderers who harness their innate camouflage and psy
 > [!quote] A quote from Ka'Cha, Thri-kreen Knowledge Hunter  
 > 
 > I would tell you now the tale of the first Ka'Cha, the first thri-kreen who knew and taught the truth: that the clutch is all.
-
 
 ```statblock
 "name": "Thri-kreen Psion (XMM)"

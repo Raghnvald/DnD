@@ -1,11 +1,11 @@
 ---
-cssclasses: json5e-deity
+Bezeichnung: Myrkul, Gott des Todes
 tags:
-  - Quelle/5e/phb
   - Kompendium/Götter
+  - Kompendium/Götter/Domäne/Tod
   - Kompendium/Götter/Gesinnung/Neutral_Böse
   - Kompendium/Götter/Pantheon/Faerun
-  - Kompendium/Götter/Domäne/Tod
+  - Quelle/5e/phb
 aliases:
   - Myrkul
 ---

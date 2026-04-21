@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-reward
+Bezeichnung: "Fortune's Grace"
 tags:
-  - Quelle/5e/tdcsr
   - Kompendium/Belohnung/blessing
+  - Quelle/5e/tdcsr
 aliases:
   - Fortune's Grace
 ---

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Bewitching Whispers
 tags:
   - Zauber/list/optfeature/bewitching-whispers
 aliases:

@@ -1,7 +1,6 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Trank der Gedankenkontrolle (Tier)
+Bezeichnung: Potion of Mind Control (beast)
+Kategorie: Trank
 tags:
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam/Trank

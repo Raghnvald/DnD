@@ -1,7 +1,5 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Feder
+Bezeichnung: Nib
 Kategorie: Währung
 tags:
   - Gegenstand/Ausrüstung/treasure-coinage

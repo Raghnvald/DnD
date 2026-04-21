@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Sword of the Paruns
 Kategorie: Nahkampf-Kriegswaffe
 tags:

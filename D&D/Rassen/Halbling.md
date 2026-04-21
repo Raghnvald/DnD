@@ -1,6 +1,9 @@
 ---
-tags: [Quelle/5e/phb]
-aliases: ["Halfling"]
+Bezeichnung: Halbling
+tags:
+  - Quelle/5e/phb
+aliases:
+  - "Halfling"
 ---
 # Halbling
 *Quelle: SRD / Grundregelwerk*  

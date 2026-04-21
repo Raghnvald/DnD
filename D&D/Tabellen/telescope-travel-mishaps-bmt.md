@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Telescope Travel Mishaps
 tags:
   - Quelle/5e/bmt
 aliases:

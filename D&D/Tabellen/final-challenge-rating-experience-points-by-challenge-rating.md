@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Final Challenge Rating; Experience Points by Challenge Rating
 tags:
   - Quelle/5e/dmg
 aliases:

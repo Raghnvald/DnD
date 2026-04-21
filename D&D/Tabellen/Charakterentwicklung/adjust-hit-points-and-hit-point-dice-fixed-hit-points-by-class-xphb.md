@@ -1,4 +1,5 @@
 ---
+Bezeichnung: Adjust Hit Points and Hit Point Dice; Fixed Hit Points by Class
 Kategorie: Charakterentwicklung
 tags:
   - Quelle/5e/xphb

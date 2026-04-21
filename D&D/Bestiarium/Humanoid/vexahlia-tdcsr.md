@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/tdcsr
-  - Monster/HG/18
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/half-elf
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: "Vex'ahlia"
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/18
+  - Monster/Typ/Humanoid/half-elf
+  - Quelle/5e/tdcsr
 aliases:
   - Vex'ahlia
 ---

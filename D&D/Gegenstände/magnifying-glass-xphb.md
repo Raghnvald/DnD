@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Magnifying Glass
 tags:
   - Gegenstand/Ausrüstung/

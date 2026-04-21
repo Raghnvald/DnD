@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/wdmm
-  - Monster/HG/11
-  - Monster/Größe/Riesig
-  - Monster/Typ/Konstrukt
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Animated Statue of Lolth
+tags:
+  - Monster/Größe/Riesig
+  - Monster/HG/11
+  - Monster/Typ/Konstrukt
+  - Quelle/5e/wdmm
 aliases:
   - Animated Statue of Lolth
 ---

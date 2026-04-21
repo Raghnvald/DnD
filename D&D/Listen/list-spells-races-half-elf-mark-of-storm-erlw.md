@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Half-Elf (Mark of Storm)
 tags:
   - Subrasse/half-elf-mark-of-storm
 aliases:

@@ -1,9 +1,11 @@
 ---
+Bezeichnung: Umrechnung Entfernung
 tags:
   - Quelle/5e/dmg
 Feet: 150
 Meter: 0
 ---
+# Umrechnung Entfernung
 | Type | Input                | Meter               |
 | ---- | -------------------- | ------------------- |
 | Feet | `INPUT[number:Feet]` | `VIEW[{Feet}/10*3]` |

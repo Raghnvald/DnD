@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Transmutation Spells
 tags:
   - Zauber/list/school/transmutation
 aliases:

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Connected Creatures; Young Dragon Turtle Connections
 tags:
   - Quelle/5e/ftd
 aliases:

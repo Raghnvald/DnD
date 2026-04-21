@@ -1,11 +1,10 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Sarula Iliene
 tags:
-  - Quelle/5e/mtf
-  - Kompendium/Götter/elven
   - Kompendium/Götter/Domäne/tempest
   - Kompendium/Götter/Domäne/trickery
+  - Kompendium/Götter/elven
+  - Quelle/5e/mtf
 aliases:
   - Sarula Iliene
 ---

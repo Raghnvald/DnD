@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Creating a White Dragon; White Dragon Personality Traits
 tags:
   - Quelle/5e/ftd
 aliases:

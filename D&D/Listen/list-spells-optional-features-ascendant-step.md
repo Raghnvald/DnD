@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Ascendant Step
 tags:
   - Zauber/list/optfeature/ascendant-step
 aliases:

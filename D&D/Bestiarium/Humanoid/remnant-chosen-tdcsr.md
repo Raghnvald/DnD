@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/tdcsr
-  - Monster/HG/12
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/any
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Remnant Chosen
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/12
+  - Monster/Typ/Humanoid/any
+  - Quelle/5e/tdcsr
 aliases:
   - Remnant Chosen
 ---

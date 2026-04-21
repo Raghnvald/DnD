@@ -1,15 +1,14 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mm
-  - Monster/HG/1
-  - Monster/Habitat/Wald
-  - Monster/Habitat/Hügel
-  - Monster/Größe/Groß
-  - Monster/Typ/Tier
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Dire Wolf
+tags:
+  - Monster/Größe/Groß
+  - Monster/Habitat/Hügel
+  - Monster/Habitat/Wald
+  - Monster/HG/1
+  - Monster/Typ/Tier
+  - Quelle/5e/mm
 aliases:
   - Dire Wolf
 ---

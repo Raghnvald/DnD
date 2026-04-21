@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Dragon Season
 tags:
   - Quelle/5e/wdh
 aliases:

@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-feat
+Bezeichnung: Gong of the Summit
 tags:
-  - Quelle/5e/phb
   - Kompendium/Optionales/ed
+  - Quelle/5e/phb
 aliases:
   - Gong of the Summit
 ---

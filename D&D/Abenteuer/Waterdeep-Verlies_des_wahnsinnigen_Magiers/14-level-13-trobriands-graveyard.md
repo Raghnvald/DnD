@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Level 13: Trobriand's Graveyard"
 tags:
   - Quelle/5e/wdmm
 aliases:

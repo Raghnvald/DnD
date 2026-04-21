@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Celestial Patron
 tags:
   - Zauber/list/subclass/celestial-patron
 aliases:

@@ -1,4 +1,5 @@
 ---
+Bezeichnung: "Chapter 6: Cosmology"
 tags:
   - Quelle/5e/xdmg
 aliases:

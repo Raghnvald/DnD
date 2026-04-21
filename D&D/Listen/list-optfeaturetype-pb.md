@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Pact Boon
 tags:
   - Quelle/5e/phb
 aliases:

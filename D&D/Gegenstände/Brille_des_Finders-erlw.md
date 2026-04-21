@@ -1,10 +1,10 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Finder's Goggles
+Bezeichnung: "Finder's Goggles"
+Kategorie: Wundersamer Gegenstand
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/ungewöhnlich
+  - Gegenstand/wundersam
   - Quelle/5e/erlw
 aliases:
   - Finder's Goggles

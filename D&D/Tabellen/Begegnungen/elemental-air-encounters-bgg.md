@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Elemental Air Encounters
 tags:
   - Quelle/5e/bgg
 aliases:

@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Gold locket with a painted portrait inside
 Kategorie: Kunstobjekt
 tags:

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Random Settlements; Current Calamity
 tags:
   - Quelle/5e/dmg
 aliases:

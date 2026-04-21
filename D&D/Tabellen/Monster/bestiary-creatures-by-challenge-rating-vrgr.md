@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Bestiary; Creatures by Challenge Rating
 tags:
   - Quelle/5e/vrgr
 aliases:

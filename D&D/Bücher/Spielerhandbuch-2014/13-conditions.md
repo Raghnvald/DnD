@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Conditions
 tags:
   - Quelle/5e/phb
 aliases:

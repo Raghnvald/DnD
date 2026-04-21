@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Insect Plague
 tags:
   - Klasse/Barde

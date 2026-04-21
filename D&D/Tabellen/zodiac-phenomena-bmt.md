@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Zodiac Phenomena
 tags:
   - Quelle/5e/bmt
 aliases:

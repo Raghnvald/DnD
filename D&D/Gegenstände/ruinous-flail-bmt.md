@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Ruinous Flail
 Kategorie: Nahkampf-Kriegswaffe
 tags:

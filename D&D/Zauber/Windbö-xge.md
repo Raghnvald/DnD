@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Gust
+Bezeichnung: Windbö
 Zaubergrad: 0 (Zaubertrick)
 Zeitaufwand: 1 Aktion
 Reichweite: 9 Meter

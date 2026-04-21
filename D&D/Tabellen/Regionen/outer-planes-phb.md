@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Outer Planes
 tags:
   - Quelle/5e/phb
 aliases:

@@ -1,3 +1,7 @@
+---
+Bezeichnung: Der Wiedergänger - Notizen und Reiseroute
+---
+# Der Wiedergänger - Notizen und Reiseroute
 Die Entfernung zwischen [[Festum, Krone des Perlenmeers|Festum]] und [[Neersand, der letzte Hafen|Neersand]] beträgt ca. 130 Meilen über die Handelsroute der "[[Küstenstraße von Festum nach Neersand|Küstenstraße]]".
 Dabei sind immer wieder kleinere Siedlungen auf der Strecke anzutreffen.
 

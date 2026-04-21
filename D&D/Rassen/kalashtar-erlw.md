@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-race
+Bezeichnung: Kalashtar
 tags:
   - Quelle/5e/erlw
   - Rasse/kalashtar
@@ -100,6 +99,5 @@ Kalashtar orphans are unlikely to know the name of their spirit and take names f
 **Quori Names**: Ashana, Ashtai, Ishara, Hareth, Khad, Kosh, Melk, Nari, Tana, Tari, Tash, Ulad, Vakri, Vash
 
 **Kalashtar Names**: Coratash, Dalavash, Dolishara, Halakosh, Khoratari, Koratana, Lanhareth, Molavakri, Nevitash, Sorashana, Torashtai, Valakhad, Vishara
-
 
 ![](/3-Mechanics/CLI/races/img/kalashtar-001.webp#center)

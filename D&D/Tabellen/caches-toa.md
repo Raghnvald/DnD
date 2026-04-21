@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Caches
 tags:
   - Quelle/5e/toa
 aliases:

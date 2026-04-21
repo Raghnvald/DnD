@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mcv4ec
-  - Monster/HG/5
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/human
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Dunbarrow Witch
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/5
+  - Monster/Typ/Humanoid/human
+  - Quelle/5e/mcv4ec
 aliases:
   - Dunbarrow Witch
 ---

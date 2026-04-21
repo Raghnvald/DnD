@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Concluding the Siege; Zombie Siege Climax
 tags:
   - Quelle/5e/vrgr
 aliases:

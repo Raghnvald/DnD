@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-feat
+Bezeichnung: Keen Mind
 tags:
-  - Quelle/5e/xphb
   - Kompendium/Talent
+  - Quelle/5e/xphb
 aliases:
   - Keen Mind
 ---

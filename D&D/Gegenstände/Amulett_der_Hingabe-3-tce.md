@@ -1,8 +1,10 @@
 ---
 Bezeichnung: +3 Amulet of the Devout
+Kategorie: Wundersamer Gegenstand
 tags:
   - Gegenstand/Einstimmung
   - Gegenstand/Seltenheit/sehr_selten
+  - Gegenstand/wundersam
   - Quelle/5e/tce
 aliases:
   - +3 Amulet of the Devout

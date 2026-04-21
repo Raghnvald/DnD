@@ -1,14 +1,12 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Lesser Restoration
 tags:
+  - Klasse/Artifizient
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
   - Klasse/Druide
   - Klasse/Kleriker
   - Klasse/Kleriker/life-domain
-  - Klasse/Artifizient
   - Klasse/paladin
   - Klasse/Waldläufer
   - Quelle/5e/xphb

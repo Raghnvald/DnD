@@ -3,6 +3,7 @@ Bezeichnung: Kampfstab
 Kategorie: Einfache Nahkampfwaffe
 Schaden: 1W6 Wucht
 Eigenschaften: Vielseitig
+Einstimmung: /
 Kst.: 2 SM
 Gew.: 2,0 kg
 tags:
@@ -13,7 +14,6 @@ tags:
 aliases:
   - Quarterstaff
 linter-yaml-title-alias: Quarterstaff
-Einstimmung: /
 ---
 # Kampfstab
 *Waffe*  

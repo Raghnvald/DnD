@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/toa
-  - Monster/HG/1-4
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/tabaxi
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Tabaxi Minstrel
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/1-4
+  - Monster/Typ/Humanoid/tabaxi
+  - Quelle/5e/toa
 aliases:
   - Tabaxi Minstrel
 ---

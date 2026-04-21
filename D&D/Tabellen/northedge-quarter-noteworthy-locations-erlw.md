@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Northedge Quarter: Noteworthy Locations"
 tags:
   - Quelle/5e/erlw
 aliases:

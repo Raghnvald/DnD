@@ -1,12 +1,13 @@
 ---
-tags:
-  - Quelle/5e/mm
-  - Monster/HG/1-8
-  - Monster/Habitat/Wald
-  - Monster/Größe/Klein
-  - Monster/Typ/Pflanze
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Zweigplage
+tags:
+  - Monster/Größe/Klein
+  - Monster/Habitat/Wald
+  - Monster/HG/1-8
+  - Monster/Typ/Pflanze
+  - Quelle/5e/mm
 aliases:
   - Twig Blight
 ---
@@ -40,7 +41,6 @@ Plagen sind unabhängige Kreaturen, doch die meisten stehen unter dem Einfluss e
 > [!quote]  
 > 
 > Siehe das Vermächtnis von Gulthias, dem Vampir: Pflanzen mit einer Vorliebe für Blut.
-
 
 ```statblock
 "name": "Twig Blight"

@@ -1,11 +1,11 @@
 ---
-cssclasses: json5e-deity
+Bezeichnung: Akadi, Göttin der Luft
 tags:
-  - Quelle/5e/phb
   - Kompendium/Götter
+  - Kompendium/Götter/Domäne/Licht
   - Kompendium/Götter/Gesinnung/Neutral
   - Kompendium/Götter/Pantheon/Faerun
-  - Kompendium/Götter/Domäne/Licht
+  - Quelle/5e/phb
 aliases:
   - Kossuth
 ---

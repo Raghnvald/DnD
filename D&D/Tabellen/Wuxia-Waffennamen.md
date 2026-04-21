@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Wuxia Weapon Names
 tags:
   - Quelle/5e/dmg
 aliases:

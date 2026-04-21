@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Der Zweck von Kammern; Gewölbe: Hort"
 tags:
   - Quelle/5e/dmg
 aliases:

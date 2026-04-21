@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Haunted Hoards; Unfinished Business
 tags:
   - Quelle/5e/ftd
 aliases:

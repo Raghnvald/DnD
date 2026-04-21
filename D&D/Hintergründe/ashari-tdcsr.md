@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-background
+Bezeichnung: Ashari
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/tdcsr
@@ -9,7 +8,6 @@ aliases:
 ---
 # Ashari
 *Source: Tal'Dorei Campaign Setting Reborn p. 180*  
-
 
 - **Skill Proficiencies.** [Nature](/3-Mechanics/CLI/skills.md#Nature), plus your choice of [Arcana](/3-Mechanics/CLI/skills.md#Arcana) or [Survival](/3-Mechanics/CLI/skills.md#Survival)  
 - **Tool Proficiencies.** [Herbalism Kit](/3-Mechanics/CLI/items/herbalism-kit-xphb.md)  

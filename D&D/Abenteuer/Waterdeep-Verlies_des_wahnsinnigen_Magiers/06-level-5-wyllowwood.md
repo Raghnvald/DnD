@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Level 5: Wyllowwood"
 tags:
   - Quelle/5e/wdmm
 aliases:

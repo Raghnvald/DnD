@@ -1,7 +1,9 @@
 ---
 Bezeichnung: Prehistoric Figurine of Wondrous Power, Kyanite Pteranodon
+Kategorie: Wundersamer Gegenstand 
 tags:
   - Gegenstand/Seltenheit/selten
+  - Gegenstand/wundersam
   - Quelle/5e/bgg
 aliases:
   - "Prehistoric Figurine of Wondrous Power, Kyanite Pteranodon"

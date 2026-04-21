@@ -1,13 +1,10 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Potion of Psychic Resistance
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/wundersam/Trank
   - Quelle/5e/xdmg
 aliases:
-  - Potion of Psychic Resistance
   - Potion of Psychic Resistance
 linter-yaml-title-alias: Potion of Psychic Resistance
 ---

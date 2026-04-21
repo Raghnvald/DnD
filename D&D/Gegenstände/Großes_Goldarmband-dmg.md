@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Large gold bracelet
 Kategorie: Kunstobjekt
 tags:

@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/tftyp
-  - Monster/HG/2
-  - Monster/Größe/Gigantisch
-  - Monster/Typ/Konstrukt
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Gargantuan Rug of Smothering
+tags:
+  - Monster/Größe/Gigantisch
+  - Monster/HG/2
+  - Monster/Typ/Konstrukt
+  - Quelle/5e/tftyp
 aliases:
   - Gargantuan Rug of Smothering
 ---

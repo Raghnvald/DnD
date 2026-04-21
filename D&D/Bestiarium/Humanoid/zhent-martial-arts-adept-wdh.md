@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/wdh
-  - Monster/HG/3
-  - Monster/Größe/Klein
-  - Monster/Typ/Humanoid/lightfoot-halfling
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Zhent Martial Arts Adept
+tags:
+  - Monster/Größe/Klein
+  - Monster/HG/3
+  - Monster/Typ/Humanoid/lightfoot-halfling
+  - Quelle/5e/wdh
 aliases:
   - Zhent Martial Arts Adept
 ---

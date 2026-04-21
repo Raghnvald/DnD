@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Common Glamerweave
 tags:
   - Gegenstand/Seltenheit/gewöhnlich

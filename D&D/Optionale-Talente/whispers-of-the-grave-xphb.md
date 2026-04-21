@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-feat
+Bezeichnung: Whispers of the Grave
 tags:
-  - Quelle/5e/xphb
   - Kompendium/Optionales/ei
+  - Quelle/5e/xphb
 aliases:
   - Whispers of the Grave
 ---

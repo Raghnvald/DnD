@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Iron Flask
 tags:
   - Gegenstand/Seltenheit/legendär

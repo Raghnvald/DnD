@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Dust Devil
+Bezeichnung: Staubteufel
 Zaubergrad: 2
 Zeitaufwand: 1 Aktion
 Reichweite: 18 Meter

@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/idrotf
-  - Monster/HG/1-4
-  - Monster/Größe/Klein
-  - Monster/Typ/Monstrosität
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Young Griffon (Small)
+tags:
+  - Monster/Größe/Klein
+  - Monster/HG/1-4
+  - Monster/Typ/Monstrosität
+  - Quelle/5e/idrotf
 aliases:
   - Young Griffon (Small)
 ---

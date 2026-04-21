@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-class
+Bezeichnung: The Archfey
 tags:
-  - Quelle/5e/phb
   - Klasse/Hexenmeister/archfey
+  - Quelle/5e/phb
 aliases:
   - The Archfey
 ---
@@ -41,7 +40,6 @@ aliases:
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 

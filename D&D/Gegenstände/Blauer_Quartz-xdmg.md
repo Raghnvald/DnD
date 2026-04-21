@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Blue Quartz
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone

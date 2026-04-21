@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Pride Silk Outfit
 tags:
   - Gegenstand/Ausrüstung/

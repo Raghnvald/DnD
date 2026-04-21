@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Jeweled platinum ring
 tags:
   - Gegenstand/Ausrüstung/treasure-art-object

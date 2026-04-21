@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Roleplaying an Orc; Orc Ideals
 tags:
   - Quelle/5e/vgm
 aliases:

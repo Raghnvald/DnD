@@ -1,6 +1,10 @@
 ---
-tags: [Klasse/Schurke, Quelle/5e/phb]
-aliases: [Assassin]
+Bezeichnung: Assassine
+tags:
+  - Klasse/Schurke
+  - Quelle/5e/phb
+aliases:
+  - Assassin
 ---
 # Assassine
 _[[Schurke]]_: Schurkenarchetyp

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Connected Creatures; Young Amethyst Dragon Connections
 tags:
   - Quelle/5e/ftd
 aliases:

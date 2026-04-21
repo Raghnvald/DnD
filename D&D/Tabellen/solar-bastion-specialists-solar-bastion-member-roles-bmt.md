@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Solar Bastion Specialists; Solar Bastion Member Roles
 tags:
   - Quelle/5e/bmt
 aliases:

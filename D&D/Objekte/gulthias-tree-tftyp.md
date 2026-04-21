@@ -1,10 +1,9 @@
 ---
-cssclasses:
-  - json5e-object
+Bezeichnung: Gulthias Tree
 tags:
-  - Quelle/5e/tftyp
   - Kompendium/Objekt/size/gargantuan
   - Kompendium/Objekt/type/unknown
+  - Quelle/5e/tftyp
 aliases:
   - Gulthias Tree
 ---

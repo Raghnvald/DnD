@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/6
-  - Monster/Habitat/Arktis
-  - Monster/Größe/Riesig
-  - Monster/Typ/Tier
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Mammoth
+tags:
+  - Monster/Größe/Riesig
+  - Monster/Habitat/Arktis
+  - Monster/HG/6
+  - Monster/Typ/Tier
+  - Quelle/5e/xmm
 aliases:
   - Mammoth
 ---

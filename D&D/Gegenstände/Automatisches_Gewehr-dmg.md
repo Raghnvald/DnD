@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Automatisches Gewehr
+Bezeichnung: Automatic Rifle
 Kategorie: Fernkampf-Kriegswaffe
 tags:
   - Gegenstand/Seltenheit/keine

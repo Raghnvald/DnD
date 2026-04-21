@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Customizing Your Origin
 tags:
   - Quelle/5e/tce
 aliases:

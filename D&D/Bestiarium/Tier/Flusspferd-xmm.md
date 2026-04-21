@@ -1,16 +1,15 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/4
-  - Monster/Habitat/Wald
-  - Monster/Habitat/Grasland
-  - Monster/Habitat/Sumpf
-  - Monster/Größe/Groß
-  - Monster/Typ/Tier
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Hippopotamus
+tags:
+  - Monster/Größe/Groß
+  - Monster/Habitat/Grasland
+  - Monster/Habitat/Sumpf
+  - Monster/Habitat/Wald
+  - Monster/HG/4
+  - Monster/Typ/Tier
+  - Quelle/5e/xmm
 aliases:
   - Hippopotamus
 ---

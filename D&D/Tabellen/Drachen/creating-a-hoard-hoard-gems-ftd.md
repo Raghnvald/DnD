@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Creating a Hoard; Hoard Gems
 tags:
   - Quelle/5e/ftd
 aliases:

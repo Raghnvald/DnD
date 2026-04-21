@@ -1,7 +1,5 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Weapon of Throne's Command-bmt
+Bezeichnung: "Weapon of Throne's Command"
 Kategorie: Beliebige Waffe 
 tags:
   - Gegenstand/Einstimmung/required
@@ -14,7 +12,6 @@ tags:
   - Gegenstand/Zeitalter/Modern
   - Quelle/5e/bmt
 aliases:
-  - Weapon of Throne's Command
   - Antimatter Rifle of Throne's Command
   - Automatic Rifle of Throne's Command
   - Battleaxe of Throne's Command

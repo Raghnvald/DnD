@@ -1,4 +1,5 @@
 ---
+Bezeichnung: Armaments - Rare
 tags:
   - Quelle/5e/xdmg
 aliases:

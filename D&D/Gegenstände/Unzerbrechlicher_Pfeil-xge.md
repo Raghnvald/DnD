@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Unzerbrechlicher Pfeil
+Bezeichnung: Unbreakable Arrow
 Kategorie: Munition
 tags:
   - Gegenstand/Ausrüstung/ammunition

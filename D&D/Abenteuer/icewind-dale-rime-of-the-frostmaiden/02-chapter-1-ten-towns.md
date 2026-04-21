@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Chapter 1: Ten-Towns"
 tags:
   - Quelle/5e/idrotf
 aliases:

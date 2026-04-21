@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Chapter 6: Equipment"
 tags:
   - Quelle/5e/xphb
 aliases:

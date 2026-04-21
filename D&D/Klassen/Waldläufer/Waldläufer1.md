@@ -1,5 +1,5 @@
 ---
-cssclasses: json5e-class
+Bezeichnung: Waldläufer
 tags:
   - Klasse/Waldläufer
   - Quelle/5e/phb

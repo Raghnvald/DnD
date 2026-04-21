@@ -37,7 +37,7 @@ _Beschwörung des 1. Grades (Ritual)_
 - **Komponenten:** V, G, M (Holzkohle, Weihrauch und Kräuter im Wert von 10 GM, die in einer Feuerschale aus Messing von Flammen verzehrt werden)
 - **Wirkungsdauer:** Unmittelbar
 
-Du erhältst die Dienste eines Vertrauten, eines Geistes, der die Gestalt eines der folgenden Tiere deiner Wahl annimmt: [[Eidechse-mm]], [[Eule]], [[Falke]], Fisch ([[D&D/Bestiarium/Tier/quipper|Quipper]]), [[Fledermaus]], [[Frosch|Kröte]] , [[Giftschlange]], [[Katze]], [[Krabbe]], [[Oktopus]], [[Rabe-mm]], [[Ratte-mm]], [[Seepferdchen-mm]], [[Spinne-mm]] oder [[Wiesel-mm]]. Der Vertraute erscheint in einem nicht besetzten Bereich in Reichweite und besitzt die Spielwerte der ausgewählten Gestalt, ist jedoch ein himmlisches Wesen, ein Feenwesen oder ein Unhold (deine Wahl) und kein Tier.
+Du erhältst die Dienste eines Vertrauten, eines Geistes, der die Gestalt eines der folgenden Tiere deiner Wahl annimmt: [[Eidechse-mm]], [[Eule-mm]], [[Falke-mm]], Fisch ([[D&D/Bestiarium/Tier/quipper|Quipper]]), [[Fledermaus-mm]], [[Frosch-mm|Kröte]] , [[Giftschlange-mm]], [[Katze-mm]], [[Krabbe-mm]], [[Oktopus]], [[Rabe-mm]], [[Ratte-mm]], [[Seepferdchen-mm]], [[Spinne-mm]] oder [[Wiesel-mm]]. Der Vertraute erscheint in einem nicht besetzten Bereich in Reichweite und besitzt die Spielwerte der ausgewählten Gestalt, ist jedoch ein himmlisches Wesen, ein Feenwesen oder ein Unhold (deine Wahl) und kein Tier.
 
 $\quad$Dein Vertrauter agiert unabhängig von dir, folgt aber immer deinen Befehlen. Im Kampf würfelt er seine eigene Initiative und handelt selbstständig. Ein Vertrauter kann nicht angreifen, aber alle anderen Aktionen ausführen.
 

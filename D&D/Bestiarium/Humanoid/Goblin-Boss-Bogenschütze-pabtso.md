@@ -1,16 +1,14 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/pabtso
-  - Monster/HG/1
-  - Monster/Größe/Klein
-  - Monster/Typ/Humanoid/goblinoid
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Goblin Boss Archer
+tags:
+  - Monster/Größe/Klein
+  - Monster/HG/1
+  - Monster/Typ/Humanoid/goblinoid
+  - Quelle/5e/pabtso
 aliases:
   - Goblin Boss Archer
-Bezeichnung: Goblin-Boss-Bogenschütze
 Image: humanoid/token/goblin-boss-archer-pabtso.webp
 ---
 # Goblin Boss Archer

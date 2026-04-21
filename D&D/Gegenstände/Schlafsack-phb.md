@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Schlafsack
+Bezeichnung: Bedroll
 Kategorie: Abenteuerausrüstung
 Eigenschaften: /
 Kst.: 1 GM
@@ -10,8 +10,8 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Bedroll
-linter-yaml-title-alias: Bedroll
 Aktiv: false
+linter-yaml-title-alias: Bedroll
 Menge: "1"
 ---
 # Bedroll

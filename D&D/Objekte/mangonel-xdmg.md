@@ -1,10 +1,9 @@
 ---
-cssclasses:
-  - json5e-object
+Bezeichnung: Mangonel
 tags:
-  - Quelle/5e/xdmg
   - Kompendium/Objekt/size/large
   - Kompendium/Objekt/type/siege-weapon
+  - Quelle/5e/xdmg
 aliases:
   - Mangonel
 ---

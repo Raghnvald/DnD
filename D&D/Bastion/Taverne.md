@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-bastion
+Bezeichnung: Pub
 tags:
   - Kompendium/Bastion
   - Quelle/5e/xdmg

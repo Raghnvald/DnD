@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Berserker Axe
 Kategorie: Nahkampf-Kriegswaffe
 tags:

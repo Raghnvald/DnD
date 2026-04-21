@@ -1,15 +1,14 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mm
-  - Monster/HG/0
-  - Monster/Habitat/Wald
-  - Monster/Habitat/Hügel
-  - Monster/Größe/Klein
-  - Monster/Typ/Tier
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Baboon
+tags:
+  - Monster/Größe/Klein
+  - Monster/Habitat/Hügel
+  - Monster/Habitat/Wald
+  - Monster/HG/0
+  - Monster/Typ/Tier
+  - Quelle/5e/mm
 aliases:
   - Baboon
 ---

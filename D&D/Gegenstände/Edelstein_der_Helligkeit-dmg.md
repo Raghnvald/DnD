@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Gem of Brightness
+Kategorie: Wundersamer Gegenstand
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/dmg

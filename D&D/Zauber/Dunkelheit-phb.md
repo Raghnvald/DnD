@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Dunkelheit
 Zaubergrad: 2
 tags:

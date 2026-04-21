@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Figurine of Wondrous Power, Silver Raven
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich

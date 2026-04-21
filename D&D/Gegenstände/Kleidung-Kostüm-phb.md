@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Kleidung, Kostüm
+Bezeichnung: Costume Clothes
 Kategorie: Abenteuerausrüstung
 tags:
   - Gegenstand/Ausrüstung/

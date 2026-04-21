@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: War-Torn Survivor; War-Torn Villains
 tags:
   - Quelle/5e/erlw
 aliases:

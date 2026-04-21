@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mm
-  - Monster/HG/3
-  - Monster/Habitat/underwater
-  - Monster/Größe/Riesig
-  - Monster/Typ/Tier
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Killer Whale
+tags:
+  - Monster/Größe/Riesig
+  - Monster/Habitat/underwater
+  - Monster/HG/3
+  - Monster/Typ/Tier
+  - Quelle/5e/mm
 aliases:
   - Killer Whale
 ---

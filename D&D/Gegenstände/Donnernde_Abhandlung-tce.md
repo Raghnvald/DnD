@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Fulminating Treatise
+Kategorie: Wundersamer Gegenstand
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten

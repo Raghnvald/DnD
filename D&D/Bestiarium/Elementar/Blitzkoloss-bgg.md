@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/bgg
-  - Monster/HG/9
-  - Monster/Größe/Groß
-  - Monster/Typ/Elementar
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Lightning Hulk
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/9
+  - Monster/Typ/Elementar
+  - Quelle/5e/bgg
 aliases:
   - Lightning Hulk
 ---

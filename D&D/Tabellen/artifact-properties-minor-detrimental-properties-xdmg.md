@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Artifact Properties; Minor Detrimental Properties
 tags:
   - Quelle/5e/xdmg
 aliases:

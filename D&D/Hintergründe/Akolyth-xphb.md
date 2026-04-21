@@ -1,4 +1,5 @@
 ---
+Bezeichnung: Acolyte
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/xphb

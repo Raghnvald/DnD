@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/wbtw
-  - Monster/HG/1-8
-  - Monster/Größe/Klein
-  - Monster/Typ/Monstrosität
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Displacer Beast Kitten
+tags:
+  - Monster/Größe/Klein
+  - Monster/HG/1-8
+  - Monster/Typ/Monstrosität
+  - Quelle/5e/wbtw
 aliases:
   - Displacer Beast Kitten
 ---

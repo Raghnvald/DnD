@@ -1,7 +1,9 @@
 ---
 Bezeichnung: Prehistoric Figurine of Wondrous Power, Jasper Tyrannosaurus Rex
+Kategorie: Wundersamer Gegenstand 
 tags:
   - Gegenstand/Seltenheit/legendär
+  - Gegenstand/wundersam
   - Quelle/5e/bgg
 aliases:
   - "Prehistoric Figurine of Wondrous Power, Jasper Tyrannosaurus Rex"

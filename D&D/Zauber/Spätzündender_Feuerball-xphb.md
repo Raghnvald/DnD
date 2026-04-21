@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Delayed Blast Fireball
 tags:
   - Klasse/Barde

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: A Sample Pantheon; Dawn War Deities
 tags:
   - Quelle/5e/dmg
 aliases:

@@ -1,15 +1,14 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/1
-  - Monster/Habitat/lower
-  - Monster/Habitat/planar
-  - Monster/Größe/Groß
-  - Monster/Typ/Unhold
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Swarm of Larvae
+tags:
+  - Monster/Größe/Groß
+  - Monster/Habitat/lower
+  - Monster/Habitat/planar
+  - Monster/HG/1
+  - Monster/Typ/Unhold
+  - Quelle/5e/xmm
 aliases:
   - Swarm of Larvae
 ---

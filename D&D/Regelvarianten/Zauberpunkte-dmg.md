@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spell Points
 tags:
   - Quelle/5e/dmg
 aliases:

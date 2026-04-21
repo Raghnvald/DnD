@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Visions of Distant Realms
 tags:
   - Zauber/list/optfeature/visions-of-distant-realms
 aliases:

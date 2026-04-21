@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Lesezeichen
 Kategorie: Einfache Nahkampfwaffe
 Einstimmung: erfordert

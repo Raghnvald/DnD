@@ -13,9 +13,9 @@ linter-yaml-title-alias: Druidischer Fokus
 
 **Gegenstände in dieser Gruppe:**
 
-- [[Eibenzauberstab-phb]]
-- [[Holzstab]]
+- [[Eibenzauberstab-phb|Eibenzauberstab]]
+- [[Holzstab-phb|Holzstab]]
 - [[Mistelzweigsprössling-phb|Mistelzweigsprössling]]
-- [[Totem]]
+- [[Totem-phb]]
 
 *Quelle: Spielerhandbuch S. 151*

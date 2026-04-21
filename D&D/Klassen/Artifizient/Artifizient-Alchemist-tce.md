@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-class
+Bezeichnung: Alchemist
 tags:
-  - Quelle/5e/tce
   - Klasse/Artifizient/alchemist
+  - Quelle/5e/tce
 aliases:
   - Alchemist
 ---
@@ -41,7 +40,6 @@ aliases:
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 

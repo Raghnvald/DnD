@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Symbol
 Zaubergrad: 7
 tags:

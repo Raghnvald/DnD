@@ -1,4 +1,5 @@
 ---
+Bezeichnung: "Anhang B: Magische Gegenstände"
 tags:
   - Quelle/5e/pabtso
 aliases:

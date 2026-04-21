@@ -1,10 +1,9 @@
 ---
-cssclasses:
-  - json5e-object
+Bezeichnung: Unborn Palanquin
 tags:
-  - Quelle/5e/bmt
   - Kompendium/Objekt/size/gargantuan
   - Kompendium/Objekt/type/unknown
+  - Quelle/5e/bmt
 aliases:
   - Unborn Palanquin
 ---

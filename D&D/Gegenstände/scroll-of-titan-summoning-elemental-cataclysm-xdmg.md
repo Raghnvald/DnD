@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Scroll of Titan Summoning (Elemental Cataclysm)
 tags:
   - Gegenstand/Seltenheit/legendär

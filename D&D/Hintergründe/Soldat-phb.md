@@ -1,4 +1,5 @@
 ---
+Bezeichnung: Soldier
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/phb
@@ -7,7 +8,6 @@ aliases:
 ---
 # Soldier
 *Source: Player's Handbook p. 140. Available in the Basic Rules (2014)*  
-
 
 - **Skill Proficiencies.** [Athletics](/3-Mechanics/CLI/skills.md#Athletics), [Intimidation](/3-Mechanics/CLI/skills.md#Intimidation)  
 - **Tool Proficiencies.** One type of gaming set, vehicles (land)  

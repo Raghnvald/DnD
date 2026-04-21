@@ -1,20 +1,19 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mm
-  - Monster/HG/1-2
-  - Monster/Habitat/Arktis
-  - Monster/Habitat/Wald
-  - Monster/Habitat/Grasland
-  - Monster/Habitat/Hügel
-  - Monster/Habitat/Berg
-  - Monster/Habitat/Sumpf
-  - Monster/Habitat/Unterreich
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/orc
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Orc
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Arktis
+  - Monster/Habitat/Berg
+  - Monster/Habitat/Grasland
+  - Monster/Habitat/Hügel
+  - Monster/Habitat/Sumpf
+  - Monster/Habitat/Unterreich
+  - Monster/Habitat/Wald
+  - Monster/HG/1-2
+  - Monster/Typ/Humanoid/orc
+  - Quelle/5e/mm
 aliases:
   - Orc
 ---

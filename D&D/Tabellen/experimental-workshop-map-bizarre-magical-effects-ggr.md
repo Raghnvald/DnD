@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Experimental Workshop Map; Bizarre Magical Effects
 tags:
   - Quelle/5e/ggr
 aliases:

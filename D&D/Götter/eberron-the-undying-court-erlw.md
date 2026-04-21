@@ -1,12 +1,11 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: The Undying Court
 tags:
-  - Quelle/5e/erlw
-  - Kompendium/Götter/eberron
   - Kompendium/Götter/Domäne/grave
   - Kompendium/Götter/Domäne/knowledge
   - Kompendium/Götter/Domäne/life
+  - Kompendium/Götter/eberron
+  - Quelle/5e/erlw
 aliases:
   - The Undying Court
 ---

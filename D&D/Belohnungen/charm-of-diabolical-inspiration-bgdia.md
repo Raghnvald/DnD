@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-reward
+Bezeichnung: Charm of Diabolical Inspiration
 tags:
-  - Quelle/5e/bgdia
   - Kompendium/Belohnung/charm
+  - Quelle/5e/bgdia
 aliases:
   - Charm of Diabolical Inspiration
 ---

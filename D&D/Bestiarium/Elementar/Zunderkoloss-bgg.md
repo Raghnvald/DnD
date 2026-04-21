@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/bgg
-  - Monster/HG/7
-  - Monster/Größe/Groß
-  - Monster/Typ/Elementar
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Cinder Hulk
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/7
+  - Monster/Typ/Elementar
+  - Quelle/5e/bgg
 aliases:
   - Cinder Hulk
 ---

@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/idrotf
-  - Monster/HG/8
-  - Monster/Größe/Riesig
-  - Monster/Typ/Monstrosität
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Telepathic Pentacle
+tags:
+  - Monster/Größe/Riesig
+  - Monster/HG/8
+  - Monster/Typ/Monstrosität
+  - Quelle/5e/idrotf
 aliases:
   - Telepathic Pentacle
 ---

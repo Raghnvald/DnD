@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Welcome to Ravenloft
 tags:
   - Quelle/5e/vrgr
 aliases:

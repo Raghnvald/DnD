@@ -1,7 +1,5 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Scherbe
+Bezeichnung: Shard
 Kategorie: Währung
 tags:
   - Gegenstand/Ausrüstung/treasure-coinage

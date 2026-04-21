@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Embroidered glove set with jewel chips
 Kategorie: Kunstobjekt
 tags:

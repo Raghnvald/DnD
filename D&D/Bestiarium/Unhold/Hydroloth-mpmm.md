@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mpmm
-  - Monster/HG/9
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Unhold/yugoloth
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Hydroloth
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/9
+  - Monster/Typ/Unhold/yugoloth
+  - Quelle/5e/mpmm
 aliases:
   - Hydroloth
 ---

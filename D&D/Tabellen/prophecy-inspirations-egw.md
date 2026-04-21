@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Prophecy Inspirations
 tags:
   - Quelle/5e/egw
 aliases:

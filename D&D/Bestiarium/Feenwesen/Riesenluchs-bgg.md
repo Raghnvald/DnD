@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/bgg
-  - Monster/HG/1-2
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Fee
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Giant Lynx
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/1-2
+  - Monster/Typ/Fee
+  - Quelle/5e/bgg
 aliases:
   - Giant Lynx
 ---
@@ -27,7 +26,6 @@ Frost and cloud giants sometimes befriend giant lynxes and treat them as beloved
 > [!quote] A quote from Diancastra  
 > 
 > When you see a giant lynx staring into space, you can be quite sure it's looking at something that isn't there. Or at a ghost.
-
 
 ```statblock
 "name": "Giant Lynx (BGG)"

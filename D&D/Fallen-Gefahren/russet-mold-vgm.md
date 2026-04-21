@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-hazard
+Bezeichnung: Russet Mold
 tags:
   - Quelle/5e/vgm
 aliases:

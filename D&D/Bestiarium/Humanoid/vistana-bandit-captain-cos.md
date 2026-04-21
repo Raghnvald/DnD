@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/cos
-  - Monster/HG/2
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/any-race
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Vistana Bandit Captain
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/2
+  - Monster/Typ/Humanoid/any-race
+  - Quelle/5e/cos
 aliases:
   - Vistana Bandit Captain
 ---

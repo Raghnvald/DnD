@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Adjustable Stilts
 tags:
   - Gegenstand/Seltenheit/unbekannt

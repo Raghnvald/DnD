@@ -1,5 +1,5 @@
 ---
-cssclasses: json5e-note
+Bezeichnung: Langfristiger Wahnsinn
 tags:
   - Quelle/5e/dmg
 aliases:

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Gods of Greyhawk
 tags:
   - Quelle/5e/xdmg
 aliases:

@@ -1,15 +1,14 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mpmm
-  - Monster/HG/4
-  - Monster/Habitat/Wüste
-  - Monster/Habitat/Stadt
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Unhold/demon
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Dybbuk
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Stadt
+  - Monster/Habitat/Wüste
+  - Monster/HG/4
+  - Monster/Typ/Unhold/demon
+  - Quelle/5e/mpmm
 aliases:
   - Dybbuk
 ---

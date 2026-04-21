@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Silk vestments with gold embroidery
 tags:
   - Gegenstand/Ausrüstung/treasure-art-object

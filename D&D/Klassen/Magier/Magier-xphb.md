@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-class
+Bezeichnung: Wizard
 tags:
   - Klasse/Magier
   - Quelle/5e/xphb
@@ -54,7 +53,6 @@ aliases:
 - **Weapon Proficiencies**: Simple weapons
 
 **Starting Equipment:** *Choose A or B:* (A) 2 [Daggers](/3-Mechanics/CLI/items/dagger-xphb.md), [Arcane Focus](/3-Mechanics/CLI/items/arcane-focus-xphb.md) ([Quarterstaff](/3-Mechanics/CLI/items/quarterstaff-xphb.md)), [Robe](/3-Mechanics/CLI/items/robe-xphb.md), Spellbook, [Scholar's Pack](/3-Mechanics/CLI/items/scholars-pack-xphb.md), and 5 GP; or (B) 55 GP
-
 
 ## Wizard
 

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-background
+Bezeichnung: Entertainer (Gladiator) (Variant)
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/phb
@@ -9,7 +8,6 @@ aliases:
 ---
 # Entertainer (Gladiator) (Variant)
 *Source: Player's Handbook p. 131*  
-
 
 - **Skill Proficiencies.** [Acrobatics](/3-Mechanics/CLI/skills.md#Acrobatics), [Performance](/3-Mechanics/CLI/skills.md#Performance)  
 - **Tool Proficiencies.** [Disguise kit](/3-Mechanics/CLI/items/disguise-kit-xphb.md), one type of musical instrument  

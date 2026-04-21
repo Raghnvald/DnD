@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Special Features; What Is a Detail from Its History?
 tags:
   - Quelle/5e/dmg
 aliases:

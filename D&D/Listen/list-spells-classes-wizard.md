@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Wizard Spells
 tags:
   - Zauber/list/class/wizard
 aliases:

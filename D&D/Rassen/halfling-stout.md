@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-race
+Bezeichnung: Halfling (Stout)
 tags:
   - Quelle/5e/phb
   - Rasse/halfling/stout

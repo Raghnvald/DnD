@@ -1,6 +1,6 @@
 ---
-cssclasses: json5e-item
 Bezeichnung: Kerze der Anrufung
+Kategorie: Wundersamer Gegenstand
 tags:
   - Gegenstand/Einstimmung
   - Gegenstand/Seltenheit/sehr_selten

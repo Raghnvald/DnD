@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/wdmm
-  - Monster/HG/12
-  - Monster/Größe/Riesig
-  - Monster/Typ/Konstrukt
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Mad Golem
+tags:
+  - Monster/Größe/Riesig
+  - Monster/HG/12
+  - Monster/Typ/Konstrukt
+  - Quelle/5e/wdmm
 aliases:
   - Mad Golem
 ---

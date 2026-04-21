@@ -1,10 +1,9 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Lolth
 tags:
-  - Quelle/5e/phb
-  - Kompendium/Götter/nonhuman
   - Kompendium/Götter/Domäne/trickery
+  - Kompendium/Götter/nonhuman
+  - Quelle/5e/phb
 aliases:
   - Lolth
 ---

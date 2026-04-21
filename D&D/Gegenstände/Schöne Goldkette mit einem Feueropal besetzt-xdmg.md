@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Fine gold chain set with a fire opal
 tags:
   - Gegenstand/Ausrüstung/treasure-art-object

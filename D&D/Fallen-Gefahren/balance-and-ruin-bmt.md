@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-hazard
+Bezeichnung: Balance and Ruin
 tags:
-  - Quelle/5e/bmt
   - Kompendium/Bedrohung/mech
+  - Quelle/5e/bmt
 aliases:
   - Balance and Ruin
 ---

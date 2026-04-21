@@ -1,13 +1,11 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Lord's Ensemble
+Bezeichnung: "Lord's Ensemble"
+Kategorie: Wundersamer Gegenstand
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
   - Quelle/5e/wdh
 aliases:
-  - Lord's Ensemble
   - Lord's Ensemble
 linter-yaml-title-alias: Lord's Ensemble
 ---

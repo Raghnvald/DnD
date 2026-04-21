@@ -1,10 +1,9 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Solinari
 tags:
-  - Quelle/5e/phb
-  - Kompendium/Götter/dragonlance
   - Kompendium/Götter/Domäne/arcana
+  - Kompendium/Götter/dragonlance
+  - Quelle/5e/phb
 aliases:
   - Solinari
 ---

@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/cm
-  - Monster/HG/8
-  - Monster/Größe/Groß
-  - Monster/Typ/Monstrosität
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Corrupted Avatar of Lurue
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/8
+  - Monster/Typ/Monstrosität
+  - Quelle/5e/cm
 aliases:
   - Corrupted Avatar of Lurue
 ---

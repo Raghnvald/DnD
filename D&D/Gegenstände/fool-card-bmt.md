@@ -1,7 +1,6 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Fool Card
+Kategorie: Wundersamer Gegenstand
 tags:
   - Gegenstand/Seltenheit/legendär
   - Quelle/5e/bmt

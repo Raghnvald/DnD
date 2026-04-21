@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Rope of Climbing
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich

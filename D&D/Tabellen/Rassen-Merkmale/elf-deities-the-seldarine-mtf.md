@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Elf Deities (The Seldarine)
 tags:
   - Quelle/5e/mtf
 aliases:

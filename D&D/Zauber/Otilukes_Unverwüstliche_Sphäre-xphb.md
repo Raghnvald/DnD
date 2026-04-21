@@ -1,12 +1,10 @@
 ---
-cssclasses:
-  - json5e-spell
-Bezeichnung: Otiluke's Resilient Sphere
+Bezeichnung: "Otiluke's Resilient Sphere"
 tags:
+  - Klasse/Artifizient
   - Klasse/Barde
   - Klasse/Kleriker/peace-domain
   - Klasse/Magier
-  - Klasse/Artifizient
   - Klasse/Paladin/Schwur-der-Läuterung
   - Klasse/Schurke/Arkaner-Betrüger
   - Quelle/5e/xphb

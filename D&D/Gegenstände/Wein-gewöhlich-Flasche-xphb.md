@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Common Wine (bottle)
 tags:
   - Gegenstand/Ausrüstung/Essen-und-Trinken

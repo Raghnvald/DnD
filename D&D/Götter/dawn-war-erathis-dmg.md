@@ -1,11 +1,10 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Erathis
 tags:
-  - Quelle/5e/dmg
   - Kompendium/Götter/dawn-war
   - Kompendium/Götter/Domäne/knowledge
   - Kompendium/Götter/Domäne/order
+  - Quelle/5e/dmg
 aliases:
   - Erathis
 ---

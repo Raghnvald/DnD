@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Watch Your Step!; Falling in Sharn
 tags:
   - Quelle/5e/erlw
 aliases:

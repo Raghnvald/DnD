@@ -1,15 +1,14 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Silvanus
 tags:
-  - Quelle/5e/scag
-  - Kompendium/Götter/faerunian
   - Kompendium/Götter/Domäne/nature
+  - Kompendium/Götter/faerunian
+  - Quelle/5e/scag
 aliases:
-  - Silvanus
   - Oak Father
-  - The Old Oak
   - Old Father Tree
+  - Silvanus
+  - The Old Oak
 ---
 # Silvanus
 *Source: Sword Coast Adventurer's Guide p. 21* 

@@ -1,15 +1,14 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: The Knowing Mentor
 tags:
-  - Quelle/5e/tdcsr
-  - Kompendium/Götter/exandria
   - Kompendium/Götter/Domäne/arcana
   - Kompendium/Götter/Domäne/knowledge
   - Kompendium/Götter/Domäne/twilight
+  - Kompendium/Götter/exandria
+  - Quelle/5e/tdcsr
 aliases:
-  - The Knowing Mentor
   - Ioun
+  - The Knowing Mentor
 ---
 # The Knowing Mentor
 *Source: Tal'Dorei Campaign Setting Reborn p. 30* 

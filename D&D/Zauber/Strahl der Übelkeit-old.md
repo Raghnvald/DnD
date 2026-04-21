@@ -1,5 +1,4 @@
 ---
-cssclasses: json5e-spell
 Bezeichnung: Strahl der Übelkeit
 Zaubergrad: 1
 status: WIP

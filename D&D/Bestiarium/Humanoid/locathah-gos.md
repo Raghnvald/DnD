@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/gos
-  - Monster/HG/1-2
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/locathah
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Locathah
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/1-2
+  - Monster/Typ/Humanoid/locathah
+  - Quelle/5e/gos
 aliases:
   - Locathah
 ---

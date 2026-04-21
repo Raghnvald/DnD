@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/vgm
-  - Monster/HG/6
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/any-race
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Booyahg Booyahg Booyahg
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/6
+  - Monster/Typ/Humanoid/any-race
+  - Quelle/5e/vgm
 aliases:
   - Booyahg Booyahg Booyahg
 ---

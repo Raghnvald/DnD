@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mpmm
-  - Monster/HG/3
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Unhold/demon
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Bulezau
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/3
+  - Monster/Typ/Unhold/demon
+  - Quelle/5e/mpmm
 aliases:
   - Bulezau
 ---

@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/11
-  - Monster/Habitat/Unterreich
-  - Monster/Größe/Riesig
-  - Monster/Typ/Monstrosität
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Behir
+tags:
+  - Monster/Größe/Riesig
+  - Monster/Habitat/Unterreich
+  - Monster/HG/11
+  - Monster/Typ/Monstrosität
+  - Quelle/5e/xmm
 aliases:
   - Behir
 ---
@@ -31,7 +30,6 @@ Behirs live in sprawling cave systems and elaborate ruins where they can make th
 > [!quote] A quote from Lludd, Behir  
 > 
 > You wouldn't believe all the great stuff I've swallowed! Now just climb on in here, and you can keep whatever you find.
-
 
 ```statblock
 "name": "Behir (XMM)"

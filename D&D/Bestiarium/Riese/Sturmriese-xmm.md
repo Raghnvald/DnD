@@ -1,15 +1,14 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/13
-  - Monster/Habitat/Küste
-  - Monster/Habitat/underwater
-  - Monster/Größe/Riesig
-  - Monster/Typ/Riese
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Storm Giant
+tags:
+  - Monster/Größe/Riesig
+  - Monster/Habitat/Küste
+  - Monster/Habitat/underwater
+  - Monster/HG/13
+  - Monster/Typ/Riese
+  - Quelle/5e/xmm
 aliases:
   - Storm Giant
 ---

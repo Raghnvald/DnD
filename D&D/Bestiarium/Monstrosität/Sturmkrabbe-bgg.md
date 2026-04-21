@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/bgg
-  - Monster/HG/11
-  - Monster/Größe/Gigantisch
-  - Monster/Typ/Monstrosität
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Storm Crab
+tags:
+  - Monster/Größe/Gigantisch
+  - Monster/HG/11
+  - Monster/Typ/Monstrosität
+  - Quelle/5e/bgg
 aliases:
   - Storm Crab
 ---
@@ -21,7 +20,6 @@ Giants on some worlds claim Stronmaus or one of his children created storm crabs
 > [!quote] A quote from Bigby  
 > 
 > Given all the weird things that swim in the deep ocean, who am I to complain about a colossal crab with a poison stinger that can knock you away with a high-speed jet of water?
-
 
 ```statblock
 "name": "Storm Crab (BGG)"

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Chapter 2: Guilds of Ravnica"
 tags:
   - Quelle/5e/ggr
 aliases:

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: A World of Your Own
 tags:
   - Quelle/5e/dmg
 aliases:

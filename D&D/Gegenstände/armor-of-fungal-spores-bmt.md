@@ -1,7 +1,5 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Armor of Fungal Spores-bmt
+Bezeichnung: Armor of Fungal Spores
 Rüstung: Mittel
 tags:
   - Gegenstand/Rüstung/Mittel

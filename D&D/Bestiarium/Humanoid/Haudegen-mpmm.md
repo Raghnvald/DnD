@@ -1,15 +1,14 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mpmm
-  - Monster/HG/3
-  - Monster/Habitat/Küste
-  - Monster/Habitat/Stadt
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Swashbuckler
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Küste
+  - Monster/Habitat/Stadt
+  - Monster/HG/3
+  - Monster/Typ/Humanoid
+  - Quelle/5e/mpmm
 aliases:
   - Swashbuckler
 ---

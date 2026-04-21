@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Shavarath, the Battleground; Shavarath Manifest Zone Features
 tags:
   - Quelle/5e/erlw
 aliases:

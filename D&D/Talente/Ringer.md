@@ -1,8 +1,8 @@
 ---
+Bezeichnung: Ringer
 tags:
-- Quelle/5e/phb
-aliases:
-- 
+  - Quelle/5e/phb
+aliases: []
 ---
 # Ringer
 **Voraussetzung**: Stärke 13 oder höher.

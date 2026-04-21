@@ -1,13 +1,10 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Potter's Tools
+Bezeichnung: "Potter's Tools"
 tags:
   - Gegenstand/Ausrüstung/Werkzeug
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
-  - Potter's Tools
   - Potter's Tools
 linter-yaml-title-alias: Potter's Tools
 ---

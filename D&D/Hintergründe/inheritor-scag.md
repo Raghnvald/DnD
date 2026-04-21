@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-background
+Bezeichnung: Inheritor
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/scag
@@ -9,7 +8,6 @@ aliases:
 ---
 # Inheritor
 *Source: Sword Coast Adventurer's Guide p. 150*  
-
 
 - **Skill Proficiencies.** [Survival](/3-Mechanics/CLI/skills.md#Survival), plus one from among [Arcana](/3-Mechanics/CLI/skills.md#Arcana), [History](/3-Mechanics/CLI/skills.md#History), and [Religion](/3-Mechanics/CLI/skills.md#Religion)  
 - **Languages.** Any one of your choice  

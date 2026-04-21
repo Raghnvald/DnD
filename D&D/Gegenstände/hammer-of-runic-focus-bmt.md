@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Hammer of Runic Focus
 Kategorie: Nahkampf-Kriegswaffe
 tags:

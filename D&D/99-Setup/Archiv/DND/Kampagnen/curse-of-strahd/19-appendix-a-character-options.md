@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Appendix A: Character Options"
 tags:
   - Quelle/5e/cos
 aliases:

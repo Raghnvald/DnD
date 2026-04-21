@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-feat
+Bezeichnung: Strike of the Giants
 tags:
-  - Quelle/5e/bgg
   - Kompendium/Talent
+  - Quelle/5e/bgg
 aliases:
   - Strike of the Giants
 ---

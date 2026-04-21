@@ -1,11 +1,10 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: The Blood of Vol
 tags:
-  - Quelle/5e/phb
-  - Kompendium/Götter/eberron
   - Kompendium/Götter/Domäne/death
   - Kompendium/Götter/Domäne/life
+  - Kompendium/Götter/eberron
+  - Quelle/5e/phb
 aliases:
   - The Blood of Vol
 ---

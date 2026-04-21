@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Laser Pistol
 Kategorie: Fernkampf-Kriegswaffe
 tags:

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Adventuring Options; Firearms
 tags:
   - Quelle/5e/dmg
 aliases:

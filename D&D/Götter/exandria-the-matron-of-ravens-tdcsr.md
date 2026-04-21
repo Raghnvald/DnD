@@ -1,15 +1,14 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: The Matron of Ravens
 tags:
-  - Quelle/5e/tdcsr
-  - Kompendium/Götter/exandria
   - Kompendium/Götter/Domäne/death
   - Kompendium/Götter/Domäne/grave
   - Kompendium/Götter/Domäne/twilight
+  - Kompendium/Götter/exandria
+  - Quelle/5e/tdcsr
 aliases:
-  - The Matron of Ravens
   - Raven Queen
+  - The Matron of Ravens
 ---
 # The Matron of Ravens
 *Source: Tal'Dorei Campaign Setting Reborn p. 32* 

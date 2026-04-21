@@ -1,7 +1,5 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Blade of Broken Mirrors-egw
+Bezeichnung: Blade of Broken Mirrors
 Kategorie: Einfache Nahkampfwaffe
 Einstimmung: erfordert
 tags:

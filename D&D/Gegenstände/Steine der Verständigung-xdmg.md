@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Sending Stones
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich

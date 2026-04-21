@@ -1,12 +1,9 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Lock of Trickery
 tags:
   - Gegenstand/Seltenheit/gewöhnlich
   - Quelle/5e/xdmg
 aliases:
-  - Lock of Trickery
   - Lock of Trickery
 linter-yaml-title-alias: Lock of Trickery
 ---

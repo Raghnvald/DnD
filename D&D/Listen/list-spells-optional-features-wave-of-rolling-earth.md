@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Wave of Rolling Earth
 tags:
   - Zauber/list/optfeature/wave-of-rolling-earth
 aliases:

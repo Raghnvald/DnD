@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-feat
+Bezeichnung: Fury of the Frost Giant
 tags:
-  - Quelle/5e/bgg
   - Kompendium/Talent
+  - Quelle/5e/bgg
 aliases:
   - Fury of the Frost Giant
 ---

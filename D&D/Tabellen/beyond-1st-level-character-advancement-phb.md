@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Beyond 1st Level; Character Advancement
 tags:
   - Quelle/5e/phb
 aliases:

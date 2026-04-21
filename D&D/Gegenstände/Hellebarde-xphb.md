@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Halberd
 tags:
   - Gegenstand/Seltenheit/keine

@@ -1,11 +1,10 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Sheela Peryroyl
 tags:
-  - Quelle/5e/mtf
-  - Kompendium/Götter/halfling
   - Kompendium/Götter/Domäne/nature
   - Kompendium/Götter/Domäne/tempest
+  - Kompendium/Götter/halfling
+  - Quelle/5e/mtf
 aliases:
   - Sheela Peryroyl
 ---

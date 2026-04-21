@@ -1,15 +1,14 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/8
-  - Monster/Habitat/Arktis
-  - Monster/Habitat/Berg
-  - Monster/Größe/Riesig
-  - Monster/Typ/Riese
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Frost Giant
+tags:
+  - Monster/Größe/Riesig
+  - Monster/Habitat/Arktis
+  - Monster/Habitat/Berg
+  - Monster/HG/8
+  - Monster/Typ/Riese
+  - Quelle/5e/xmm
 aliases:
   - Frost Giant
 ---
@@ -30,7 +29,6 @@ Frost giants often travel far to find food and goods. This leads many to become 
 > [!quote] A quote from Jarl Grugnur, Frost Giant  
 > 
 > The small folk have barely anything worth looting, so they shouldn't much mind when we take it from them.
-
 
 ```statblock
 "name": "Frost Giant (XMM)"

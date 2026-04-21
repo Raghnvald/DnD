@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Oath of Conquest
 tags:
   - Zauber/list/subclass/oath-of-conquest
 aliases:

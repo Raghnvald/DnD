@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Psychic Wind Psychic Effects
 tags:
   - Quelle/5e/xdmg
 aliases:

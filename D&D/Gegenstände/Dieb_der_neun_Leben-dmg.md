@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Dieb der neun Leben
+Bezeichnung: Nine Lives Stealer
 Kategorie: Nahkampf-Kriegswaffe
 tags:
   - Gegenstand/Einstimmung/required

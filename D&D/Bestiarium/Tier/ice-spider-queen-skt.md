@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/skt
-  - Monster/HG/2
-  - Monster/Größe/Groß
-  - Monster/Typ/Tier
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Ice Spider Queen
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/2
+  - Monster/Typ/Tier
+  - Quelle/5e/skt
 aliases:
   - Ice Spider Queen
 ---

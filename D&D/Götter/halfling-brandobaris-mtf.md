@@ -1,10 +1,9 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Brandobaris
 tags:
-  - Quelle/5e/mtf
-  - Kompendium/Götter/halfling
   - Kompendium/Götter/Domäne/trickery
+  - Kompendium/Götter/halfling
+  - Quelle/5e/mtf
 aliases:
   - Brandobaris
 ---

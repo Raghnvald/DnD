@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Appendix C: Magic Items"
 tags:
   - Quelle/5e/bgdia
 aliases:

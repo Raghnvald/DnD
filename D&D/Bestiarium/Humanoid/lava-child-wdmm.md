@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/wdmm
-  - Monster/HG/3
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/lava-child
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Lava Child
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/3
+  - Monster/Typ/Humanoid/lava-child
+  - Quelle/5e/wdmm
 aliases:
   - Lava Child
 ---

@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mpmm
-  - Monster/HG/11
-  - Monster/Habitat/Berg
-  - Monster/Größe/Riesig
-  - Monster/Typ/Riese
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Cloud Giant Smiling One
+tags:
+  - Monster/Größe/Riesig
+  - Monster/Habitat/Berg
+  - Monster/HG/11
+  - Monster/Typ/Riese
+  - Quelle/5e/mpmm
 aliases:
   - Cloud Giant Smiling One
 ---

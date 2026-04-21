@@ -1,14 +1,12 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Greater Restoration
 tags:
+  - Klasse/Artifizient
   - Klasse/Barde
   - Klasse/Druide
   - Klasse/Kleriker
   - Klasse/Kleriker/life-domain
   - Klasse/Kleriker/peace-domain
-  - Klasse/Artifizient
   - Klasse/paladin
   - Klasse/Waldläufer
   - Quelle/5e/xphb

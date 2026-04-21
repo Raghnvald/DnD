@@ -1,4 +1,5 @@
 ---
+Bezeichnung: Elegy for the First World
 tags:
   - Quelle/5e/ftd
 aliases:

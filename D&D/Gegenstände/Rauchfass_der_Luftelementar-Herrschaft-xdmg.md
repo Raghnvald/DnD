@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Censer of Controlling Air Elementals
 tags:
   - Gegenstand/Seltenheit/selten

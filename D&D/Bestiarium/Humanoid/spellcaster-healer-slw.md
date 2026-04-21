@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/slw
-  - Monster/HG/
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/healer
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Spellcaster (Healer)
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/
+  - Monster/Typ/Humanoid/healer
+  - Quelle/5e/slw
 aliases:
   - Spellcaster (Healer)
 ---

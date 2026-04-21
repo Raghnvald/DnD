@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-background
+Bezeichnung: Azorius Functionary
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/ggr
@@ -9,7 +8,6 @@ aliases:
 ---
 # Azorius Functionary
 *Source: Guildmasters' Guide to Ravnica p. 33*  
-
 
 - **Skill Proficiencies.** Insight, Intimidation  
 - **Languages.** Two of your choice  

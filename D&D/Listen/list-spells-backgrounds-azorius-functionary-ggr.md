@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Azorius Functionary
 tags:
   - Zauber/list/background/azorius-functionary
 aliases:

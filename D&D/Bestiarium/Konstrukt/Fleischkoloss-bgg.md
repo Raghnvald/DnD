@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/bgg
-  - Monster/HG/20
-  - Monster/Größe/Gigantisch
-  - Monster/Typ/Konstrukt
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Flesh Colossus
+tags:
+  - Monster/Größe/Gigantisch
+  - Monster/HG/20
+  - Monster/Typ/Konstrukt
+  - Quelle/5e/bgg
 aliases:
   - Flesh Colossus
 ---

@@ -1,14 +1,14 @@
 ---
-tags:
-  - Quelle/5e/pabtso
-  - Monster/HG/1-2
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Rotbrenner-Schläger
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/1-2
+  - Monster/Typ/Humanoid
+  - Quelle/5e/pabtso
 aliases:
   - Redbrand Ruffian
-Bezeichnung: Rotbrenner-Schläger
 Image: humanoid/token/redbrand-ruffian-pabtso.webp
 ---
 # Rotbrenner-Schläger

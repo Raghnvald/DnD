@@ -1,11 +1,10 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: The Mockery
 tags:
-  - Quelle/5e/erlw
-  - Kompendium/Götter/eberron
   - Kompendium/Götter/Domäne/trickery
   - Kompendium/Götter/Domäne/war
+  - Kompendium/Götter/eberron
+  - Quelle/5e/erlw
 aliases:
   - The Mockery
 ---

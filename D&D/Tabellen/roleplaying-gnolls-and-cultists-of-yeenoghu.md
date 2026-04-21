@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Roleplaying Gnolls and Cultists of Yeenoghu
 tags:
   - Quelle/5e/vgm
 aliases:

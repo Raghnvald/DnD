@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Dragon Characters; Dragon Flaws and Secrets
 tags:
   - Quelle/5e/ftd
 aliases:

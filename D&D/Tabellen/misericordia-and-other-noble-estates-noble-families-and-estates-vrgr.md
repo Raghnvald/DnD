@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Misericordia and Other Noble Estates; Noble Families and Estates
 tags:
   - Quelle/5e/vrgr
 aliases:

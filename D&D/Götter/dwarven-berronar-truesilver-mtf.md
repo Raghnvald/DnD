@@ -1,12 +1,11 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Berronar Truesilver
 tags:
-  - Quelle/5e/mtf
-  - Kompendium/Götter/dwarven
   - Kompendium/Götter/Domäne/life
   - Kompendium/Götter/Domäne/light
   - Kompendium/Götter/Domäne/peace
+  - Kompendium/Götter/dwarven
+  - Quelle/5e/mtf
 aliases:
   - Berronar Truesilver
 ---

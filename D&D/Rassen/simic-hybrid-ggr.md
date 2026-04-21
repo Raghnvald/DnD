@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-race
+Bezeichnung: Simic Hybrid
 tags:
   - Quelle/5e/ggr
   - Rasse/simic-hybrid

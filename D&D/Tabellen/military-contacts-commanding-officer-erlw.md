@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Military Contacts; Commanding Officer
 tags:
   - Quelle/5e/erlw
 aliases:

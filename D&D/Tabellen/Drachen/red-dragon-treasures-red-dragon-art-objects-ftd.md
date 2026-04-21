@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Red Dragon Treasures; Red Dragon Art Objects
 tags:
   - Quelle/5e/ftd
 aliases:

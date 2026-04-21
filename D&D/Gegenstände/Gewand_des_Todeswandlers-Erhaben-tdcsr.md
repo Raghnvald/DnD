@@ -1,7 +1,5 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Deathwalker's Ward (Exalted)
+Bezeichnung: "Deathwalker's Ward (Exalted)"
 Rüstung: Leicht
 tags:
   - Gegenstand/Einstimmung/required

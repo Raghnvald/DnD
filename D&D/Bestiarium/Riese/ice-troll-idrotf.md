@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/idrotf
-  - Monster/HG/8
-  - Monster/Größe/Groß
-  - Monster/Typ/Riese
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Ice Troll
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/8
+  - Monster/Typ/Riese
+  - Quelle/5e/idrotf
 aliases:
   - Ice Troll
 ---

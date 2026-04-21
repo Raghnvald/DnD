@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: What Happens Next?; Skyway Street Events
 tags:
   - Quelle/5e/erlw
 aliases:

@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/egw
-  - Monster/HG/9
-  - Monster/Größe/Riesig
-  - Monster/Typ/Pflanze
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Animated Tree
+tags:
+  - Monster/Größe/Riesig
+  - Monster/HG/9
+  - Monster/Typ/Pflanze
+  - Quelle/5e/egw
 aliases:
   - Animated Tree
 ---

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Dragon Turtle Treasures; Dragon Turtle Art Objects
 tags:
   - Quelle/5e/ftd
 aliases:

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Mask of Many Faces
 tags:
   - Zauber/list/optfeature/mask-of-many-faces
 aliases:

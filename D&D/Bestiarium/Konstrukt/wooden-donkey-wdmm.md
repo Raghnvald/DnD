@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/wdmm
-  - Monster/HG/1-8
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Konstrukt
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Wooden Donkey
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/1-8
+  - Monster/Typ/Konstrukt
+  - Quelle/5e/wdmm
 aliases:
   - Wooden Donkey
 ---

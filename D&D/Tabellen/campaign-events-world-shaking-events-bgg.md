@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Campaign Events; World-Shaking Events
 tags:
   - Quelle/5e/bgg
 aliases:

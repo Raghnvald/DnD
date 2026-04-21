@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Halfling (Lotusden)
 tags:
   - Zauber/list/subrace/halfling-lotusden
 aliases:

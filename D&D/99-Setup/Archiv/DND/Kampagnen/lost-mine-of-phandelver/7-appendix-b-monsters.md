@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Appendix B: Monsters"
 tags:
   - Quelle/5e/lmop
 aliases:

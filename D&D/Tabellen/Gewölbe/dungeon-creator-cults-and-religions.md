@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Dungeon Creator; Cults and Religions
 tags:
   - Quelle/5e/dmg
 aliases:

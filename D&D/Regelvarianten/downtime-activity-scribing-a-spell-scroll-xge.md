@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Downtime Activity: Scribing a Spell Scroll"
 tags:
   - Quelle/5e/xge
 aliases:

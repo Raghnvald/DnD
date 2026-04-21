@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-race
+Bezeichnung: Reborn
 tags:
   - Quelle/5e/vrgr
   - Rasse/reborn

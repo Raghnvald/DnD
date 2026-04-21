@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Star Ruby
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone

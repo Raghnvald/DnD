@@ -1,9 +1,10 @@
 ---
+Bezeichnung: Fürchterliches Wort
 tags:
-- Quelle/5e/phb
-- Kompendium/Optionales/Anrufungen
+  - Kompendium/Optionales/Anrufungen
+  - Quelle/5e/phb
 aliases:
-- Dreadful Word
+  - Dreadful Word
 ---
 # Fürchterliches Wort
 *Quelle: SRD / Grundregelwerk / Spielerhandbuch*  

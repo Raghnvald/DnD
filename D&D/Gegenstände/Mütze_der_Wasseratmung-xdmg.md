@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Cap of Water Breathing
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich

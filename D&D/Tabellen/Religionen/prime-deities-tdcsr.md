@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Prime Deities
 tags:
   - Quelle/5e/tdcsr
 aliases:

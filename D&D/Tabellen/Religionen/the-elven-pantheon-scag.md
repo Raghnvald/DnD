@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: The Elven Pantheon
 tags:
   - Quelle/5e/scag
 aliases:

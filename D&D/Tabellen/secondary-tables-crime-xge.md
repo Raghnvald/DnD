@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Secondary Tables; Crime
 tags:
   - Quelle/5e/xge
 aliases:

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Hell of a Summer
 tags:
   - Quelle/5e/wdh
 aliases:

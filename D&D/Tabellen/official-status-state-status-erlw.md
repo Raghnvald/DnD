@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Official Status; State Status
 tags:
   - Quelle/5e/erlw
 aliases:

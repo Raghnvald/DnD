@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells
 tags:
   - Quelle/5e/tce
 aliases:

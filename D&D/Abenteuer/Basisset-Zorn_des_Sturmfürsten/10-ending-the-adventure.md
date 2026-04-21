@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Ending the Adventure
 tags:
   - Quelle/5e/slw
 aliases:

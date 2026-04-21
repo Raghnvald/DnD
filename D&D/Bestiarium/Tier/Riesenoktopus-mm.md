@@ -1,22 +1,21 @@
 ---
-cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
+statblock: inline
+statblock-link: "#^statblock"
 Bezeichnung: Riesenoktopus
 Kategorie: Tier
 Größe: Groß
 HG: 1
 Habitat:
   - Unterwasser
-status: completed
 image: image/giant-octopus.webp
+status: completed
 tags:
-  - Quelle/5e/mm
-  - Monster/HG/1
-  - Monster/Habitat/underwater
   - Monster/Größe/Groß
+  - Monster/Habitat/underwater
+  - Monster/HG/1
   - Monster/Typ/Tier
-statblock: inline
-statblock-link: "#^statblock"
+  - Quelle/5e/mm
 aliases:
   - Giant Octopus
 ---

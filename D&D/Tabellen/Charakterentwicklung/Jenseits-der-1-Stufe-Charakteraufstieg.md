@@ -1,5 +1,5 @@
 ---
-cssclasses: json5e-note
+Bezeichnung: Jenseits der 1. Stufe; Charakteraufstieg
 tags:
   - Quelle/5e/phb
 aliases:

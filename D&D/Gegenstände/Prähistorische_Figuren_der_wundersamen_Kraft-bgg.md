@@ -1,7 +1,9 @@
 ---
 Bezeichnung: Prehistoric Figurine of Wondrous Power
+Kategorie: Wundersamer Gegenstand 
 tags:
   - Gegenstand/Seltenheit/variiert
+  - Gegenstand/wundersam
   - Quelle/5e/bgg
 aliases:
   - Prehistoric Figurine of Wondrous Power

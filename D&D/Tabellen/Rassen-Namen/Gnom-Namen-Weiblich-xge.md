@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Gnome Names – Female
 tags:
   - Quelle/5e/xge
 aliases:

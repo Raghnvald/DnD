@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Fiend Patron
 tags:
   - Zauber/list/subclass/fiend-patron
 aliases:

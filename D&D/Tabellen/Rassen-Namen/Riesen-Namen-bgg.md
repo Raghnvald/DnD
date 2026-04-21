@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Giants' Names"
 tags:
   - Quelle/5e/bgg
 aliases:

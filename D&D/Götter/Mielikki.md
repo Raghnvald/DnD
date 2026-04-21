@@ -1,11 +1,11 @@
 ---
-cssclasses: json5e-deity
+Bezeichnung: Mielikki, Göttin der Wälder
 tags:
-  - Quelle/5e/phb
   - Kompendium/Götter
+  - Kompendium/Götter/Domäne/Natur
   - Kompendium/Götter/Gesinnung/Neutral_Gut
   - Kompendium/Götter/Pantheon/Faerun
-  - Kompendium/Götter/Domäne/Natur
+  - Quelle/5e/phb
 aliases:
   - Mielikki
 ---

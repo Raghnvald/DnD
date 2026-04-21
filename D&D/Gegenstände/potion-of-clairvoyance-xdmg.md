@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Potion of Clairvoyance
 tags:
   - Gegenstand/Seltenheit/selten

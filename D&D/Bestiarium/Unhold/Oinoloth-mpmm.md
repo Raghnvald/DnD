@@ -1,15 +1,14 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mpmm
-  - Monster/HG/12
-  - Monster/Habitat/Wüste
-  - Monster/Habitat/Unterreich
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Unhold/yugoloth
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Oinoloth
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Unterreich
+  - Monster/Habitat/Wüste
+  - Monster/HG/12
+  - Monster/Typ/Unhold/yugoloth
+  - Quelle/5e/mpmm
 aliases:
   - Oinoloth
 ---

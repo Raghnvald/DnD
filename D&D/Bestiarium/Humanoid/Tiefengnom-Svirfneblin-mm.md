@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mm
-  - Monster/HG/1-2
-  - Monster/Habitat/Unterreich
-  - Monster/Größe/Klein
-  - Monster/Typ/Humanoid/gnome
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Deep Gnome (Svirfneblin)
+tags:
+  - Monster/Größe/Klein
+  - Monster/Habitat/Unterreich
+  - Monster/HG/1-2
+  - Monster/Typ/Humanoid/gnome
+  - Quelle/5e/mm
 aliases:
   - Deep Gnome (Svirfneblin)
 ---

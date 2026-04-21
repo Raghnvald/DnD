@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/toa
-  - Monster/HG/1-2
-  - Monster/Größe/Groß
-  - Monster/Typ/Tier
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Jaculi
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/1-2
+  - Monster/Typ/Tier
+  - Quelle/5e/toa
 aliases:
   - Jaculi
 ---

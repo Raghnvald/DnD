@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/erlw
-  - Monster/HG/11
-  - Monster/Größe/Groß
-  - Monster/Typ/Himmlische
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Radiant Idol
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/11
+  - Monster/Typ/Himmlische
+  - Quelle/5e/erlw
 aliases:
   - Radiant Idol
 ---

@@ -1,10 +1,9 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Oghma
 tags:
-  - Quelle/5e/phb
   - Kompendium/Götter/celtic
   - Kompendium/Götter/Domäne/knowledge
+  - Quelle/5e/phb
 aliases:
   - Oghma
 ---

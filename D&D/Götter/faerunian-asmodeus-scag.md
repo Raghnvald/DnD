@@ -1,17 +1,16 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Asmodeus
 tags:
-  - Quelle/5e/scag
-  - Kompendium/Götter/faerunian
   - Kompendium/Götter/Domäne/knowledge
   - Kompendium/Götter/Domäne/order
   - Kompendium/Götter/Domäne/trickery
+  - Kompendium/Götter/faerunian
+  - Quelle/5e/scag
 aliases:
   - Asmodeus
-  - The Lord of the Ninth
-  - The Cloven
   - Old Hoof and Horn
+  - The Cloven
+  - The Lord of the Ninth
 ---
 # Asmodeus
 *Source: Sword Coast Adventurer's Guide p. 21* 

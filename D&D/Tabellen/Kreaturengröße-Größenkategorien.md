@@ -1,5 +1,5 @@
 ---
-cssclasses: json5e-note
+Bezeichnung: Kreaturengröße; Größenkategorien
 tags:
   - Quelle/5e/phb
 aliases:

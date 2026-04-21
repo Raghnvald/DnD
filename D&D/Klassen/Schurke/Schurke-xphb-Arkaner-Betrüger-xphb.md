@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-class
+Bezeichnung: Arcane Trickster
 tags:
-  - Quelle/5e/xphb
   - Klasse/Schurke/Arkaner-Betrüger
+  - Quelle/5e/xphb
 aliases:
   - Arcane Trickster
 ---
@@ -41,7 +40,6 @@ aliases:
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 

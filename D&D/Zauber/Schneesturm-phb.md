@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Sleet Storm
 Zaubergrad: 3
 tags:

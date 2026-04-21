@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Assassinenblut (Einnahme)
+Bezeichnung: Assassinenblut
 Kategorie: Gift
 Eigenschaften: Gift
 Kst.: 150 GM

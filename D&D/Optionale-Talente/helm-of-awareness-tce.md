@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-feat
+Bezeichnung: Helm of Awareness
 tags:
-  - Quelle/5e/tce
   - Kompendium/Optionales/ai
+  - Quelle/5e/tce
 aliases:
   - Helm of Awareness
 ---

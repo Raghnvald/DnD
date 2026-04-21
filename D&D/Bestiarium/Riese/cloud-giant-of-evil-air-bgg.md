@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/bgg
-  - Monster/HG/12
-  - Monster/Größe/Riesig
-  - Monster/Typ/Riese
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Cloud Giant of Evil Air
+tags:
+  - Monster/Größe/Riesig
+  - Monster/HG/12
+  - Monster/Typ/Riese
+  - Quelle/5e/bgg
 aliases:
   - Cloud Giant of Evil Air
 ---

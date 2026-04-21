@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Schwert der Verwundung
+Bezeichnung: Sword of Wounding
 Kategorie: Nahkampf-Kriegswaffe (beliebiges Schwert)
 tags:
   - Gegenstand/Einstimmung/required

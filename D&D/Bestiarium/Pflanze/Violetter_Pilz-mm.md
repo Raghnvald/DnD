@@ -1,22 +1,21 @@
 ---
-cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
+statblock: inline
+statblock-link: "#^statblock"
 Bezeichnung: Violetter Pilz
 Kategorie: Pflanze
 Größe: Mittelgroß
 HG: 1/4
 Habitat:
   - Unterreich
-status: completed
 image: image/violet-fungus.webp
+status: completed
 tags:
-  - Quelle/5e/mm
-  - Monster/HG/1-4
-  - Monster/Habitat/Unterreich
   - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Unterreich
+  - Monster/HG/1-4
   - Monster/Typ/Pflanze
-statblock: inline
-statblock-link: "#^statblock"
+  - Quelle/5e/mm
 aliases:
   - Violet Fungus
 ---

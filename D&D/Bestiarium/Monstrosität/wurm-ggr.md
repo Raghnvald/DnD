@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/ggr
-  - Monster/HG/14
-  - Monster/Größe/Riesig
-  - Monster/Typ/Monstrosität
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Wurm
+tags:
+  - Monster/Größe/Riesig
+  - Monster/HG/14
+  - Monster/Typ/Monstrosität
+  - Quelle/5e/ggr
 aliases:
   - Wurm
 ---

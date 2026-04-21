@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Tyrants Campaign Themes; Tyrants Assignments
 tags:
   - Quelle/5e/erlw
 aliases:

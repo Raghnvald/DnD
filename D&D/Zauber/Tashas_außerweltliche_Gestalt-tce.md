@@ -1,7 +1,5 @@
 ---
-cssclasses:
-  - json5e-spell
-Bezeichnung: Tasha's Otherworldly Guise
+Bezeichnung: "Tasha's Otherworldly Guise"
 Zaubergrad: 6
 tags:
   - Klasse/Barde

@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Conjure Animals
 Zaubergrad: 3
 tags:

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Dwarves and Duergar
 tags:
   - Quelle/5e/mtf
 aliases:

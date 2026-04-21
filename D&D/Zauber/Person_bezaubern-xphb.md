@@ -9,8 +9,8 @@ Angriff:
 Schaden:
 tags:
   - Klasse/Barde
-  - Klasse/Barde/Schule-des-Zauberbanns
   - Klasse/Barde/Schule-des-Wissens
+  - Klasse/Barde/Schule-des-Zauberbanns
   - Klasse/Druide
   - Klasse/Hexenmeister
   - Klasse/Kleriker/trickery-domain
@@ -20,8 +20,8 @@ tags:
   - Kompendium/Talent/fey-touched
   - Kompendium/Talent/magic-initiate/wizard-spells
   - Quelle/5e/xphb
-  - Subklasse/Mystischer-Ritter
   - Subklasse/fey-wanderer
+  - Subklasse/Mystischer-Ritter
   - Zauber/Grad/1
   - Zauber/Schule/Verzauberung
 classes:

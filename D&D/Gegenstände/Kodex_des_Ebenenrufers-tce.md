@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Planecaller's Codex"
+Kategorie: Wundersamer Gegenstand 
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
+  - Gegenstand/wundersam
   - Quelle/5e/tce
 aliases:
   - "Planecaller's Codex"

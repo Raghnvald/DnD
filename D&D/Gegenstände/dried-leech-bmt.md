@@ -1,7 +1,6 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Dried Leech
+Kategorie: Munition
 tags:
   - Gegenstand/Ausrüstung/ammunition
   - Gegenstand/Seltenheit/ungewöhnlich

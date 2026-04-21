@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: The Ordning; Stone Giant Artistry
 tags:
   - Quelle/5e/bgg
 aliases:

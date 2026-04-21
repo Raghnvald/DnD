@@ -1,7 +1,5 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Bow of Conflagration-bmt
+Bezeichnung: Bow of Conflagration
 Kategorie: Beliebig, Bogen
 tags:
   - Gegenstand/Einstimmung/required

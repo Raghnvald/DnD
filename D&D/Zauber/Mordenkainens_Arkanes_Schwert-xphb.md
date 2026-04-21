@@ -1,7 +1,5 @@
 ---
-cssclasses:
-  - json5e-spell
-Bezeichnung: Mordenkainen's Sword
+Bezeichnung: "Mordenkainen's Sword"
 tags:
   - Klasse/Barde
   - Klasse/Magier

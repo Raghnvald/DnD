@@ -1,16 +1,15 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/4
-  - Monster/Habitat/Wald
-  - Monster/Habitat/Grasland
-  - Monster/Habitat/Hügel
-  - Monster/Größe/Klein-oder-Mittelgroß
-  - Monster/Typ/Monstrosität/lycanthrope
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Wereboar
+tags:
+  - Monster/Größe/Klein-oder-Mittelgroß
+  - Monster/Habitat/Grasland
+  - Monster/Habitat/Hügel
+  - Monster/Habitat/Wald
+  - Monster/HG/4
+  - Monster/Typ/Monstrosität/lycanthrope
+  - Quelle/5e/xmm
 aliases:
   - Wereboar
 ---

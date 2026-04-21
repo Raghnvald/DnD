@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Diagonal Movement
 tags:
   - Quelle/5e/xdmg
 aliases:

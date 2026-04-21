@@ -1,7 +1,5 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Flegel
+Bezeichnung: Flail
 Kategorie: Nahkampf-Kriegswaffe
 tags:
   - Gegenstand/Seltenheit/keine

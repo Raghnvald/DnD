@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Chapter 11: Van Richten's Tower"
 tags:
   - Quelle/5e/cos
 aliases:

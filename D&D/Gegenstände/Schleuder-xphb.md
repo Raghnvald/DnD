@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Sling
 tags:
   - Gegenstand/Seltenheit/keine

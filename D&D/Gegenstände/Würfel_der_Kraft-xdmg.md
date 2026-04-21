@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Cube of Force
 tags:
   - Gegenstand/Einstimmung/required

@@ -1,10 +1,9 @@
 ---
-cssclasses:
-  - json5e-object
+Bezeichnung: Siege Tower
 tags:
-  - Quelle/5e/dmg
   - Kompendium/Objekt/size/gargantuan
   - Kompendium/Objekt/type/siege-weapon
+  - Quelle/5e/dmg
 aliases:
   - Siege Tower
 ---

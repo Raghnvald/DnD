@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Dread Helm
 tags:
   - Gegenstand/Seltenheit/gewöhnlich

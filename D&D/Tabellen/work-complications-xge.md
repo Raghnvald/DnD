@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Work Complications
 tags:
   - Quelle/5e/xge
 aliases:

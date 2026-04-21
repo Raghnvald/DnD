@@ -8,13 +8,13 @@ Wirkungsdauer: Unmittelbar
 Angriff: KON
 Schaden: 1d6
 tags:
+  - Klasse/Artifizient
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
   - Klasse/Druide
   - Klasse/Hexenmeister
   - Klasse/Kleriker/nature-domain
   - Klasse/Magier
-  - Klasse/Artifizient
   - Klasse/Schurke/Arkaner-Betrüger
   - Klasse/Zauberer
   - Kompendium/Talent/artificer-initiate
@@ -24,8 +24,8 @@ tags:
   - Quelle/5e/xphb
   - Rasse/Elf/Hochelf
   - Rasse/Kobold
-  - Subklasse/Mystischer-Ritter
   - Subklasse/evoker
+  - Subklasse/Mystischer-Ritter
   - Zauber/Grad/0
   - Zauber/optfeature/pact-of-the-tome
   - Zauber/Schule/Hervorrufung

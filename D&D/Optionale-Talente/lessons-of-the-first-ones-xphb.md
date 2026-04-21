@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-feat
+Bezeichnung: Lessons of the First Ones
 tags:
-  - Quelle/5e/xphb
   - Kompendium/Optionales/ei
+  - Quelle/5e/xphb
 aliases:
   - Lessons of the First Ones
 ---

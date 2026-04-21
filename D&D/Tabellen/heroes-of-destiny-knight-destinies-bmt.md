@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Heroes of Destiny; Knight Destinies
 tags:
   - Quelle/5e/bmt
 aliases:

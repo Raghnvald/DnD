@@ -1,7 +1,5 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Sonne
+Bezeichnung: Sun
 Kategorie: Währung
 tags:
   - Gegenstand/Ausrüstung/treasure-coinage

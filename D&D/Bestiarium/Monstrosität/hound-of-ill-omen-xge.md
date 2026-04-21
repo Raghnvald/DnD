@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xge
-  - Monster/HG/1
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Monstrosität
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Hound of Ill Omen
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/1
+  - Monster/Typ/Monstrosität
+  - Quelle/5e/xge
 aliases:
   - Hound of Ill Omen
 ---

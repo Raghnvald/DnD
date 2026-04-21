@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Transportation; Travel Services
 tags:
   - Quelle/5e/erlw
 aliases:

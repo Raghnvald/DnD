@@ -1,11 +1,10 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Fharlanghn
 tags:
-  - Quelle/5e/phb
-  - Kompendium/Götter/greyhawk
   - Kompendium/Götter/Domäne/knowledge
   - Kompendium/Götter/Domäne/trickery
+  - Kompendium/Götter/greyhawk
+  - Quelle/5e/phb
 aliases:
   - Fharlanghn
 ---

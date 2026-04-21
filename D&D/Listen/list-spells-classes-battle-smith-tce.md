@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Battle Smith
 tags:
   - Zauber/list/subclass/battle-smith
 aliases:

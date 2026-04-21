@@ -1,7 +1,6 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: "Potion of Dragon's Majesty"
+Kategorie: Trank
 tags:
   - Gegenstand/Seltenheit/legendär
   - Gegenstand/wundersam/Trank

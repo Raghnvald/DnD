@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Dungeon Delve Guilds
 tags:
   - Quelle/5e/ggr
 aliases:

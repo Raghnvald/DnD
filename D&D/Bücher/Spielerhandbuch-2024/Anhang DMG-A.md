@@ -1,5 +1,7 @@
 ---
-tags: [Quelle/5e/dmg]
+Bezeichnung: "Appendix A: Lore Glossary"
+tags:
+  - Quelle/5e/dmg
 ---
 # Appendix A: Lore Glossary
 This appendix provides brief descriptions for many of the D&D game’s most famous heroes, villains, creatures, locations, and materials. The entries are presented in alphabetical order.

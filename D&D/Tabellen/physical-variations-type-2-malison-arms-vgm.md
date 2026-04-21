@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Physical Variations; Type 2 Malison: Arms"
 tags:
   - Quelle/5e/vgm
 aliases:

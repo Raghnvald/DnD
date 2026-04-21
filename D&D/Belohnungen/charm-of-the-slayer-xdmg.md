@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-reward
+Bezeichnung: Charm of the Slayer
 tags:
-  - Quelle/5e/xdmg
   - Kompendium/Belohnung/charm
+  - Quelle/5e/xdmg
 aliases:
   - Charm of the Slayer
 ---

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Topaz Dragon Treasures; Topaz Dragon Art Objects
 tags:
   - Quelle/5e/ftd
 aliases:

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Simic Scientist
 tags:
   - Zauber/list/background/simic-scientist
 aliases:

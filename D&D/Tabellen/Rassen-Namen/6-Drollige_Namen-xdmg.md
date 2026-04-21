@@ -1,4 +1,5 @@
 ---
+Bezeichnung: "6: Whimsical Names"
 tags:
   - Quelle/5e/xdmg
 aliases:

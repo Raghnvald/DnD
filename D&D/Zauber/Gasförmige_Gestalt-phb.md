@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Gaseous Form
 Zaubergrad: 3
 tags:

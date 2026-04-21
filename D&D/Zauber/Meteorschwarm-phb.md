@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Meteor Swarm
 Zaubergrad: 9
 tags:

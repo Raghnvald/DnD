@@ -1,7 +1,5 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Elfischer Artefakte
+Bezeichnung: Elven Trinket
 Kategorie: Abenteuerausrüstung
 tags:
   - Gegenstand/Ausrüstung/

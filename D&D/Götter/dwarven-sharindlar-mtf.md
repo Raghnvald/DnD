@@ -1,10 +1,9 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Sharindlar
 tags:
-  - Quelle/5e/mtf
-  - Kompendium/Götter/dwarven
   - Kompendium/Götter/Domäne/life
+  - Kompendium/Götter/dwarven
+  - Quelle/5e/mtf
 aliases:
   - Sharindlar
 ---

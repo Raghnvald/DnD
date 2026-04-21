@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Feiner Wein (Flasche)
+Bezeichnung: Fine Wine (bottle)
 Kategorie: Essen und Trinken
 tags:
   - Gegenstand/Ausrüstung/Essen-und-Trinken

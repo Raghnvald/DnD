@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mpmm
-  - Monster/HG/6
-  - Monster/Habitat/Stadt
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Conjurer Wizard
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Stadt
+  - Monster/HG/6
+  - Monster/Typ/Humanoid
+  - Quelle/5e/mpmm
 aliases:
   - Conjurer Wizard
 ---

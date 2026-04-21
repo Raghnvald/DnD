@@ -1,9 +1,10 @@
 ---
+Bezeichnung: Elfische Genauigkeit-old
 tags:
-- Quelle/5e/phb
-aliases:
-- 
+  - Quelle/5e/phb
+aliases: []
 ---
+# Elfische Genauigkeit-old
 ### Elfische Genauigkeit
 
 _Voraussetzung: Elf oder Halb-Elf_

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Flames of the Phoenix
 tags:
   - Zauber/list/optfeature/flames-of-the-phoenix
 aliases:

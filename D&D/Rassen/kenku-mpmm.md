@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-race
+Bezeichnung: Kenku
 tags:
   - Quelle/5e/mpmm
   - Rasse/kenku

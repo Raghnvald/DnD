@@ -1,10 +1,9 @@
 ---
-cssclasses:
-  - json5e-class
+Bezeichnung: Death Domain
 tags:
-  - Quelle/5e/dmg
-  - Kompendium/Götter/Domäne/death
   - Klasse/Kleriker/death
+  - Kompendium/Götter/Domäne/death
+  - Quelle/5e/dmg
 aliases:
   - Death Domain
 ---
@@ -42,7 +41,6 @@ aliases:
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Religious Order Contacts; Order Contact
 tags:
   - Quelle/5e/erlw
 aliases:

@@ -1,13 +1,11 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Wall of Stone
 tags:
+  - Klasse/Artifizient
   - Klasse/Barde
   - Klasse/Druide
   - Klasse/Druide/circle-of-the-land/arid-land
   - Klasse/Magier
-  - Klasse/Artifizient
   - Klasse/Zauberer
   - Quelle/5e/xphb
   - Subklasse/evoker

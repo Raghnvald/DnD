@@ -1,5 +1,4 @@
 ---
-cssclasses: json5e-spell
 Bezeichnung: Fluch brechen
 tags:
   - Klasse/Hexenmeister

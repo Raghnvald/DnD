@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Schatz
 tags:
   - Quelle/5e/xdmg
 aliases:

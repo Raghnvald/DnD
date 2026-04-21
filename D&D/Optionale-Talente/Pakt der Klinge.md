@@ -1,10 +1,11 @@
 ---
+Bezeichnung: Pakt der Klinge
 tags:
-- Quelle/5e/phb
-- Klasse/Hexenmeister
-- Kompendium/Optionales/Pakt
-aliases: 
-- Pact of the Blade
+  - Klasse/Hexenmeister
+  - Kompendium/Optionales/Pakt
+  - Quelle/5e/phb
+aliases:
+  - Pact of the Blade
 ---
 # Pakt der Klinge
 _Quelle:_ Spielerhandbuch

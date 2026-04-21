@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-background
+Bezeichnung: "Baldur's Gate Folk Hero"
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/bgdia
@@ -9,7 +8,6 @@ aliases:
 ---
 # Baldur's Gate Folk Hero
 *Source: Baldur's Gate: Descent Into Avernus p. 204, Player's Handbook p. 131*  
-
 
 - **Skill Proficiencies.** [Animal Handling](/3-Mechanics/CLI/skills.md#Animal%20Handling), [Survival](/3-Mechanics/CLI/skills.md#Survival)  
 - **Tool Proficiencies.** One type of artisan's tools, vehicles (land)  

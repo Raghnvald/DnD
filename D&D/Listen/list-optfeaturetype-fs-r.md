@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Fighting Style, Ranger
 tags:
   - Quelle/5e/phb
 aliases:

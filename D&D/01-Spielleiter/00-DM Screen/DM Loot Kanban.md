@@ -1,10 +1,10 @@
 ---
-
+Bezeichnung: DM Loot Kanban
 tags:
   - Quelle/5e/dmg
 kanban-plugin: board
-
 ---
+# DM Loot Kanban
 
 ## ![[RandomGensTitleBar.webp]]
 
@@ -19,7 +19,6 @@ kanban-plugin: board
 - [ ] **[[05 - Wikipedia/Regularien/2024/03. Spielleiterhandbuch/07. Schätze#Tabellen für Arkanes|Arkana-Legendär]]:**
 	`dice: [](2024/03. Spielleiterhandbuch/07. Schätze.md#^Arkana-legendary)`
 
-
 ## ![[RandomGensTitleBar.webp]]
 
 - [ ] **[[05 - Wikipedia/Regularien/2024/03. Spielleiterhandbuch/07. Schätze#Tabellen für Gerätschaften|Gerätschaften-Gewöhnlich]]:**
@@ -32,7 +31,6 @@ kanban-plugin: board
 	`dice: [](2024/03. Spielleiterhandbuch/07. Schätze.md#^implements-very-rare)`
 - [ ] **[[05 - Wikipedia/Regularien/2024/03. Spielleiterhandbuch/07. Schätze#Tabellen für Gerätschaften|Gerätschaften-Legendär]]:**
 	`dice: [](2024/03. Spielleiterhandbuch/07. Schätze.md#^implements-legendary)`
-
 
 ## ![[RandomGensTitleBar.webp]]
 
@@ -47,7 +45,6 @@ kanban-plugin: board
 - [ ] **[[05 - Wikipedia/Regularien/2024/03. Spielleiterhandbuch/07. Schätze#Tabellen für Relikte|Relikte-Legendär]]:**
 	`dice: [](2024/03. Spielleiterhandbuch/07. Schätze.md#^relics-legendary)`
 
-
 ## ![[RandomGensTitleBar.webp]]
 
 - [ ] **[[05 - Wikipedia/Regularien/2024/03. Spielleiterhandbuch/07. Schätze#Tabellen für Rüstungsgüter|Rüstungsgüter-Gewöhnlich]]:**
@@ -60,9 +57,6 @@ kanban-plugin: board
 	`dice: [](2024/03. Spielleiterhandbuch/07. Schätze.md#^armaments-very-rare)`
 - [ ] **[[05 - Wikipedia/Regularien/2024/03. Spielleiterhandbuch/07. Schätze#Tabellen für Rüstungsgüter|Rüstungsgüter-Legendär]]:**
 	`dice: [](2024/03. Spielleiterhandbuch/07. Schätze.md#^armaments-legendary)`
-
-
-
 
 %% kanban:settings
 ```

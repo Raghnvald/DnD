@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Dungeon Dressing; Utensils and Personal Items
 tags:
   - Quelle/5e/dmg
 aliases:

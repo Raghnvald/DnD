@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Chapter 1: Dragon's Rest"
 tags:
   - Quelle/5e/dosi
 aliases:

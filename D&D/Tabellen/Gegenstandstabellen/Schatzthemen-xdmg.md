@@ -1,8 +1,9 @@
 ---
+Bezeichnung: Schatzthemen
 tags:
-- Quelle/5e/xdmg
+  - Quelle/5e/xdmg
 aliases:
-- Treasure Themes
+  - Treasure Themes
 ---
 # Schatzthemen
 *Quelle: Spielleiterhandbuch (2024), S. 213* 

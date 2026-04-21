@@ -1,15 +1,14 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/0
-  - Monster/Habitat/Küste
-  - Monster/Habitat/underwater
-  - Monster/Größe/Winzig
-  - Monster/Typ/Tier
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Crab
+tags:
+  - Monster/Größe/Winzig
+  - Monster/Habitat/Küste
+  - Monster/Habitat/underwater
+  - Monster/HG/0
+  - Monster/Typ/Tier
+  - Quelle/5e/xmm
 aliases:
   - Crab
 ---

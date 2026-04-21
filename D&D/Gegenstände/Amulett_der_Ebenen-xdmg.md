@@ -2,11 +2,12 @@
 Bezeichnung: Amulett der Ebenen
 Kategorie: Wundersamer Gegenstand
 Eigenschaften: erfordert Einstimmung
-Kst.: 160.000 GM
+Kst.: /
 Gew.: 0,5 kg
 tags:
   - Gegenstand/Einstimmung
   - Gegenstand/Seltenheit/sehr_selten
+  - Gegenstand/wundersam
   - Quelle/5e/xdmg
 aliases:
   - Amulet of the Planes

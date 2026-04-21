@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/wdmm
-  - Monster/HG/1-4
-  - Monster/Größe/Klein
-  - Monster/Typ/Konstrukt
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Crystal Battleaxe
+tags:
+  - Monster/Größe/Klein
+  - Monster/HG/1-4
+  - Monster/Typ/Konstrukt
+  - Quelle/5e/wdmm
 aliases:
   - Crystal Battleaxe
 ---

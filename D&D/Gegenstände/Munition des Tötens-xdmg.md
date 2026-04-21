@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Ammunition of Slaying
 tags:
   - Gegenstand/Ausrüstung/ammunition

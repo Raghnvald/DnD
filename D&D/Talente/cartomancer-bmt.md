@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-feat
+Bezeichnung: Cartomancer
 tags:
-  - Quelle/5e/bmt
   - Kompendium/Talent
+  - Quelle/5e/bmt
 aliases:
   - Cartomancer
 ---

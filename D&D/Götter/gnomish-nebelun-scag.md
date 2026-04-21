@@ -1,11 +1,10 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Nebelun
 tags:
-  - Quelle/5e/scag
-  - Kompendium/Götter/gnomish
   - Kompendium/Götter/Domäne/knowledge
   - Kompendium/Götter/Domäne/trickery
+  - Kompendium/Götter/gnomish
+  - Quelle/5e/scag
 aliases:
   - Nebelun
 ---

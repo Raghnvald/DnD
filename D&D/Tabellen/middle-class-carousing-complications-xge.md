@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Middle-Class Carousing Complications
 tags:
   - Quelle/5e/xge
 aliases:

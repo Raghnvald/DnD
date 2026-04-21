@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Level 4: Twisted Caverns"
 tags:
   - Quelle/5e/wdmm
 aliases:

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Secrets
 tags:
   - Quelle/5e/erlw
 aliases:

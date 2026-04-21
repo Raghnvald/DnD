@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: A Normal Day in Leilon
 tags:
   - Quelle/5e/slw
 aliases:

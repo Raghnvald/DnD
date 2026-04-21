@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Eiselcross Encounters: Levels 17–20"
 tags:
   - Quelle/5e/egw
 aliases:

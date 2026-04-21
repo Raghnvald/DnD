@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/idrotf
-  - Monster/HG/8
-  - Monster/Größe/Klein
-  - Monster/Typ/Konstrukt
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Living Blade of Disaster
+tags:
+  - Monster/Größe/Klein
+  - Monster/HG/8
+  - Monster/Typ/Konstrukt
+  - Quelle/5e/idrotf
 aliases:
   - Living Blade of Disaster
 ---

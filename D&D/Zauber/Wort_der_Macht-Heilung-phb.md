@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Power Word Heal
 Zaubergrad: 9
 tags:

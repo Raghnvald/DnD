@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Summon Lesser Demons
+Bezeichnung: Beschwörung schwacher Dämonen
 Zaubergrad: 3
 Zeitaufwand: 1 Aktion
 Reichweite: 18 Meter

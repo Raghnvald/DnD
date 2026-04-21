@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/bgdia
-  - Monster/HG/4
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/human
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Master of Souls
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/4
+  - Monster/Typ/Humanoid/human
+  - Quelle/5e/bgdia
 aliases:
   - Master of Souls
 ---

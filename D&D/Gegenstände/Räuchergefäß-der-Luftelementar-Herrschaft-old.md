@@ -1,6 +1,6 @@
 ---
-cssclasses: json5e-item
 Bezeichnung: Rauchfass der Luftelementar-Herrschaft
+Kategorie: Wundersamer Gegenstand
 tags:
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam

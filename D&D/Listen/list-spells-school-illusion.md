@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Illusion Spells
 tags:
   - Zauber/list/school/illusion
 aliases:

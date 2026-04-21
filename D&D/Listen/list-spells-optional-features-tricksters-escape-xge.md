@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Spells for Trickster's Escape"
 tags:
   - Zauber/list/optfeature/tricksters-escape
 aliases:

@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Wukka Nut
 Kategorie: Abenteuerausrüstung
 tags:

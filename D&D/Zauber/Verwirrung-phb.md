@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Confusion
 Zaubergrad: 4
 tags:

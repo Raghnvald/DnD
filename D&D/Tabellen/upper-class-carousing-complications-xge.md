@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Upper-Class Carousing Complications
 tags:
   - Quelle/5e/xge
 aliases:

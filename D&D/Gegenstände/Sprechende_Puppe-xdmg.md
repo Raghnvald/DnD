@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Talking Doll
 tags:
   - Gegenstand/Einstimmung/required

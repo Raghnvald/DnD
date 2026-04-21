@@ -1,11 +1,10 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Segojan Earthcaller
 tags:
-  - Quelle/5e/mtf
-  - Kompendium/Götter/gnome
   - Kompendium/Götter/Domäne/grave
   - Kompendium/Götter/Domäne/light
+  - Kompendium/Götter/gnome
+  - Quelle/5e/mtf
 aliases:
   - Segojan Earthcaller
 ---

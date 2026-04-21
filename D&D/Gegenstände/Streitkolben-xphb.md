@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Mace
 tags:
   - Gegenstand/Seltenheit/keine

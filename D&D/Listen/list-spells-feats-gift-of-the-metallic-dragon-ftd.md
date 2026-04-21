@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Gift of the Metallic Dragon
 tags:
   - Zauber/list/feat/gift-of-the-metallic-dragon
 aliases:

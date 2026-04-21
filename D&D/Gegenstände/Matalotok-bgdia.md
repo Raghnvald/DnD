@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Matalotok
 Kategorie: Nahkampf-Kriegswaffe
 tags:

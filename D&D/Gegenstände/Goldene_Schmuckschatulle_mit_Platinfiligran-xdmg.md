@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Gold jewelry box with platinum filigree
 tags:
   - Gegenstand/Ausrüstung/treasure-art-object

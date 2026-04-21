@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Talenta Halflings; Halfling Quirks
 tags:
   - Quelle/5e/erlw
 aliases:

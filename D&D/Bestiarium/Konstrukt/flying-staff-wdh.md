@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/wdh
-  - Monster/HG/1-4
-  - Monster/Größe/Klein
-  - Monster/Typ/Konstrukt
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Flying Staff
+tags:
+  - Monster/Größe/Klein
+  - Monster/HG/1-4
+  - Monster/Typ/Konstrukt
+  - Quelle/5e/wdh
 aliases:
   - Flying Staff
 ---

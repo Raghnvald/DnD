@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Zeal
 tags:
   - Gegenstand/Ausrüstung/illegal-drug

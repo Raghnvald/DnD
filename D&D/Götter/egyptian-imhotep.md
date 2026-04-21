@@ -1,10 +1,9 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Imhotep
 tags:
-  - Quelle/5e/phb
-  - Kompendium/Götter/egyptian
   - Kompendium/Götter/Domäne/knowledge
+  - Kompendium/Götter/egyptian
+  - Quelle/5e/phb
 aliases:
   - Imhotep
 ---

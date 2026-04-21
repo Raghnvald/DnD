@@ -1,7 +1,6 @@
 ---
+Bezeichnung: "Fortune's Favor"
 Zaubergrad: 2
-cssclasses:
-  - json5e-spell
 tags:
   - Quelle/5e/egw
   - Zauber/Grad/2
@@ -11,7 +10,6 @@ aliases:
 ---
 # Fortune's Favor
 *2nd-level, Divination*  
-
 
 - **Casting time:** 1 minute
 - **Range:** 60 feet

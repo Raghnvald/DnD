@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Druidic Focus (Varies); Druidic Focuses
 tags:
   - Quelle/5e/xphb
 aliases:

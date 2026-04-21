@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Grasping Whip
 Kategorie: Nahkampf-Kriegswaffe
 tags:

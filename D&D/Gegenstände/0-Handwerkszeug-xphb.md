@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Artisan's Tools
+Bezeichnung: "Artisan's Tools"
 tags:
   - Gegenstand/Ausrüstung/Werkzeug
   - Gegenstand/Seltenheit/keine

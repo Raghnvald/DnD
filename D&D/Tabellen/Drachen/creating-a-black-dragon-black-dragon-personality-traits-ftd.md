@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Creating a Black Dragon; Black Dragon Personality Traits
 tags:
   - Quelle/5e/ftd
 aliases:

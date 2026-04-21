@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Monster Lists
 tags:
   - Quelle/5e/xmm
 aliases:

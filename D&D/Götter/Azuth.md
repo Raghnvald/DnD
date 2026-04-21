@@ -1,12 +1,12 @@
 ---
-cssclasses: json5e-deity
+Bezeichnung: Azuth, Gott der Magier
 tags:
-  - Quelle/5e/phb
   - Kompendium/Götter
-  - Kompendium/Götter/Gesinnung/Rechtschaffen_Neutral
-  - Kompendium/Götter/Pantheon/Faerun
   - Kompendium/Götter/Domäne/Arkana
   - Kompendium/Götter/Domäne/Wissen
+  - Kompendium/Götter/Gesinnung/Rechtschaffen_Neutral
+  - Kompendium/Götter/Pantheon/Faerun
+  - Quelle/5e/phb
 aliases:
   - Azuth
 ---

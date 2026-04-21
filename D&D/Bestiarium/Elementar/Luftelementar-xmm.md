@@ -1,17 +1,16 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/5
-  - Monster/Habitat/air
-  - Monster/Habitat/Wüste
-  - Monster/Habitat/Berg
-  - Monster/Habitat/planar
-  - Monster/Größe/Groß
-  - Monster/Typ/Elementar
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Air Elemental
+tags:
+  - Monster/Größe/Groß
+  - Monster/Habitat/air
+  - Monster/Habitat/Berg
+  - Monster/Habitat/planar
+  - Monster/Habitat/Wüste
+  - Monster/HG/5
+  - Monster/Typ/Elementar
+  - Quelle/5e/xmm
 aliases:
   - Air Elemental
 ---

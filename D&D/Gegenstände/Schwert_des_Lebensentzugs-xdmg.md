@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Sword of Life Stealing
 Kategorie: Nahkampf-Kriegswaffe (generisch)
 tags:

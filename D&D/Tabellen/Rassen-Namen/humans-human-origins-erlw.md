@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Humans; Human Origins
 tags:
   - Quelle/5e/erlw
 aliases:

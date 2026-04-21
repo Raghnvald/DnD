@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Mystic Conflux
 tags:
   - Zauber/list/feat/mystic-conflux
 aliases:

@@ -1,16 +1,15 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/vgm
-  - Monster/HG/2
-  - Monster/Habitat/Küste
-  - Monster/Habitat/Hügel
-  - Monster/Habitat/Berg
-  - Monster/Größe/Riesig
-  - Monster/Typ/Tier
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Quetzalcoatlus
+tags:
+  - Monster/Größe/Riesig
+  - Monster/Habitat/Berg
+  - Monster/Habitat/Hügel
+  - Monster/Habitat/Küste
+  - Monster/HG/2
+  - Monster/Typ/Tier
+  - Quelle/5e/vgm
 aliases:
   - Quetzalcoatlus
 ---

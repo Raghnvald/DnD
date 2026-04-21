@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Crown of Madness
 tags:
   - Klasse/Barde

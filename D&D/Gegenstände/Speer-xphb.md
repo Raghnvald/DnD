@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Spear
 tags:
   - Gegenstand/Seltenheit/keine

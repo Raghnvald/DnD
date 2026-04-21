@@ -1,9 +1,10 @@
 ---
+Bezeichnung: Dieb der fünf Schicksale
 tags:
-- Quelle/5e/phb
-- Kompendium/Optionales/Anrufungen
+  - Kompendium/Optionales/Anrufungen
+  - Quelle/5e/phb
 aliases:
-- Thief of Five Fates
+  - Thief of Five Fates
 ---
 # Dieb der fünf Schicksale
 _Quellen:_ Spielerhandbuch

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Appendix E: Infernal Rapture Menu"
 tags:
   - Quelle/5e/bgdia
 aliases:

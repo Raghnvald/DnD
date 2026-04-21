@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Elf Tables; Elf (Non-drow) Adventurer Story Hooks
 tags:
   - Quelle/5e/mtf
 aliases:

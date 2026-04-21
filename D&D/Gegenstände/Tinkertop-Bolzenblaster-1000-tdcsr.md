@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Tinkertop Boltblaster 1000
 Kategorie: Fernkampf-Kriegswaffe
 tags:

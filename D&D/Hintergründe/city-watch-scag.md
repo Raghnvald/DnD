@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-background
+Bezeichnung: City Watch
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/scag
@@ -9,7 +8,6 @@ aliases:
 ---
 # City Watch
 *Source: Sword Coast Adventurer's Guide p. 145*  
-
 
 - **Skill Proficiencies.** [Athletics](/3-Mechanics/CLI/skills.md#Athletics), [Insight](/3-Mechanics/CLI/skills.md#Insight)  
 - **Languages.** Any two of your choice  

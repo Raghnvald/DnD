@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Githzerai
 tags:
   - Zauber/list/race/githzerai
 aliases:

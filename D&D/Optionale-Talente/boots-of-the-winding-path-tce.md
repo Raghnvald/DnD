@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-feat
+Bezeichnung: Boots of the Winding Path
 tags:
-  - Quelle/5e/tce
   - Kompendium/Optionales/ai
+  - Quelle/5e/tce
 aliases:
   - Boots of the Winding Path
 ---

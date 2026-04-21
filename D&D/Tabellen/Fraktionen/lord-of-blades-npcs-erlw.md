@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Lord of Blades NPCs
 tags:
   - Quelle/5e/erlw
 aliases:

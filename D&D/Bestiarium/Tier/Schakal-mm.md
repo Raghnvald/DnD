@@ -1,15 +1,14 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mm
-  - Monster/HG/0
-  - Monster/Habitat/Wüste
-  - Monster/Habitat/Grasland
-  - Monster/Größe/Klein
-  - Monster/Typ/Tier
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Jackal
+tags:
+  - Monster/Größe/Klein
+  - Monster/Habitat/Grasland
+  - Monster/Habitat/Wüste
+  - Monster/HG/0
+  - Monster/Typ/Tier
+  - Quelle/5e/mm
 aliases:
   - Jackal
 ---

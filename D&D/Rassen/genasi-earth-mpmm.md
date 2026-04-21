@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-race
+Bezeichnung: Genasi (Earth)
 tags:
   - Quelle/5e/mpmm
   - Rasse/genasi/earth

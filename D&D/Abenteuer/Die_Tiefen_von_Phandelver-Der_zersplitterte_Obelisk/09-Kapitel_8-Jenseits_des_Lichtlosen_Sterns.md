@@ -1,4 +1,5 @@
 ---
+Bezeichnung: "Chapter 8: Beyond a Lightless Star"
 aliases:
   - Chapter 8: Beyond a Lightless Star
 ---

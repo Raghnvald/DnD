@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Grave Domain
 tags:
   - Zauber/list/subclass/grave-domain
 aliases:

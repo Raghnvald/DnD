@@ -1,7 +1,6 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Ring of Spell Turning
+Kategorie: Ring
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär

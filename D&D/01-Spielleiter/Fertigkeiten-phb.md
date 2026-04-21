@@ -1,4 +1,5 @@
 ---
+Bezeichnung: Fertigkeiten
 tags:
   - Quelle/5e/phb
 aliases:

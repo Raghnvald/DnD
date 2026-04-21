@@ -1,5 +1,7 @@
 ---
-tags: [Quelle/5e/dmg]
+Bezeichnung: "Kapitel 1: Die Grundlage"
+tags:
+  - Quelle/5e/dmg
 ---
 # Kapitel 1: Die Grundlage
 
@@ -584,11 +586,7 @@ Wenn Sie das Gefühl haben, dass Sie Ihren Teil der Abmachung einhalten, Ihre Sp
 
 Legt eine Richtlinie für Regeldiskussionen am Tisch fest. Einigen Gruppen macht es nichts aus, das Spiel zu unterbrechen, während sie unterschiedliche Auslegungen einer Regel diskutieren. Andere ziehen es vor, dem Spielleiter die Entscheidung zu überlassen und weiterzuspielen. Wenn ihr ein Regelproblem während des Spiels überseht, macht euch eine Notiz und kommt später darauf zurück.
 
-  
-
 Manche Spieler benutzen die Regeln gerne, um gegen Ihre Entscheidungen zu argumentieren. Solche Spieler können zwar hilfreich sein, wenn du nicht weiterkommst oder einen Regelfehler machst, der leicht zu korrigieren ist, aber Spieler, die zu oft mit den Regeln argumentieren, können den Spielfluss stören.
-
-  
 
 Wenn ein Spieler das Spiel unterbrechen möchte, um eine bestimmte Regel oder einen Verweis zu finden, können Sie den Spieler auffordern, danach zu suchen, während Sie und die anderen Spieler das Spiel fortsetzen. Die Spielfigur dieses Spielers wird so lange aus dem Spiel genommen, wie es nötig ist. Die Monster greifen die Figur nicht an, und die Figur führt im Kampf die Aktion „Ausweichen“ aus, bis der Spieler wieder zur Gruppe stößt. Diese Lösung ermöglicht es den anderen Spielern, weiterzuspielen, anstatt dass ein Spieler das Spiel unterbricht.
 
@@ -596,11 +594,7 @@ Wenn ein Spieler das Spiel unterbrechen möchte, um eine bestimmte Regel oder ei
 
 Ermutigen Sie die Spieler, ihre Charaktere innerhalb der Grenzen dessen zu spielen, was die Charaktere wissen und verstehen. Es kann hilfreich sein, die Unterscheidung zwischen Spieler- und Charakterwissen beizubehalten, indem man die Spieler einfach fragt: „Was denken eure Charaktere?“
 
-  
-
 Anachronistisches Denken ist ein weiterer möglicher Fallstrick. Sie müssen die Spieler vielleicht daran erinnern, dass ihre Charaktere nicht wissen, wie man Dinge herstellt, die es in der Spielwelt nicht gibt, wie z. B. moderne Schusswaffen oder Antibiotika, und dass sie nicht über das Wissen der Spieler über moderne Wissenschaft verfügen (die im Spieluniversum möglicherweise ohnehin nicht anwendbar ist).
-
-  
 
 Ebenso kann es vorkommen, dass ein Spieler mit dem veröffentlichten Abenteuer, das Sie spielen, vertraut ist oder das Monsterhandbuch in- und auswendig kennt. Ermutigen Sie den Spieler, dieses Wissen von dem seines Charakters getrennt zu halten und den anderen Spielern zu erlauben, es durch das Spiel zu entdecken.
 
@@ -608,11 +602,7 @@ Ebenso kann es vorkommen, dass ein Spieler mit dem veröffentlichten Abenteuer, 
 
 Viele Menschen spielen D&D, weil sie mit ihren Charakteren Dinge tun können, die sie im wirklichen Leben nicht tun können - Monster bekämpfen, Zaubersprüche wirken und so weiter. Für einige Spieler bedeutet dies jedoch, dass sie in Städten Chaos anrichten oder ihre Verbündeten verraten. Was sie im Spiel wollen, hat nichts mit heroischen Abenteuern zu tun, sondern damit, die Spielregeln zu nutzen, um asoziale Fantasien auszuleben.
 
-  
-
 Wenn dieses Verhalten in Ihrem Spiel auftritt, ist es vielleicht an der Zeit, das Gespräch über die Art des Spiels, das Sie spielen wollen, wieder aufzunehmen. Wenn es nur ein Spieler ist, der den Ärger verursacht, ist es durchaus angebracht, ein Ultimatum zu stellen: Ein unkontrollierter Spieler, der weiterhin mit der Gruppe spielen möchte, muss aufhören zu stören und als Teil eines Teams spielen. Lassen Sie es nicht zu, dass sich Spieler mit der Ausrede „das würde mein Charakter auch so machen“ gegenüber den anderen Spielern dumm anstellen.
-
-  
 
 Böse Charaktere. Spieler, die böse Charaktere spielen wollen, wollen vielleicht asoziales Verhalten im Spiel ausüben. Wenn ein Spieler um die Erlaubnis bittet, einen bösen Charakter zu spielen, oder bereits mit einem solchen Charakter an den Tisch kommt, solltet ihr mit dem Spieler darüber sprechen, was er vorhat, und sicherstellen, dass seine Pläne mit den Erwartungen der Gruppe an euer Spiel übereinstimmen. Manchmal möchte ein Spieler aus guten (und nicht störenden) Gründen einen bösen Charakter spielen, und manchmal beschließt eine ganze Gruppe, dass es Spaß machen könnte, gemeinsam böse Charaktere zu spielen. Das sind alles gültige Optionen, solange sich alle darüber einig sind, wie die Kampagne ablaufen soll.
 
@@ -620,25 +610,15 @@ Böse Charaktere. Spieler, die böse Charaktere spielen wollen, wollen vielleich
 
 Manche Spieler genießen es, die D&D-Regeln zu studieren und nach optimalen Kombinationen zu suchen. Diese Art des Optimierens ist Teil des Spiels (siehe „Kenne deine Spieler“ in Kapitel 2), aber es kann eine Grenze zum Ausnutzen überschreiten und den Spaß der anderen beeinträchtigen.
 
-  
-
 Im Umgang mit dieser Art von Regelausbeutung ist es wichtig, klare Erwartungen zu formulieren. Behalten Sie diese Grundsätze im Hinterkopf:
 
-  
-
 Regeln sind keine Physik. Die Spielregeln sollen für ein unterhaltsames Spielerlebnis sorgen und nicht die physikalischen Gesetze der D&amp;D-Welt beschreiben, geschweige denn die der realen Welt. Lass die Spieler nicht argumentieren, dass eine Eimerbrigade gewöhnlicher Menschen einen Speer auf Lichtgeschwindigkeit beschleunigen kann, indem sie alle die Aktion „Bereit“ verwenden, um den Speer an die nächste Person in der Reihe weiterzugeben. Die Aktion „Bereit“ erleichtert heldenhaftes Handeln; sie definiert nicht die physikalischen Grenzen dessen, was in einer 6-Sekunden-Kampfrunde passieren kann.
-
-  
 
 Das Spiel ist keine Wirtschaft. Die Spielregeln sind nicht dazu gedacht, eine realistische Wirtschaft zu modellieren, und Spieler, die nach Schlupflöchern suchen, die es ihnen ermöglichen, durch Kombinationen von Zaubern unendlichen Reichtum zu erzeugen, nutzen die Regeln aus.
 
 Kampf ist für Feinde. Einige Regeln gelten nur während des Kampfes oder während ein Charakter in der Reihenfolge der Initiative handelt. Lass die Spieler sich nicht gegenseitig oder hilflose Kreaturen angreifen, um diese Regeln zu aktivieren.
 
-  
-
 Regeln beruhen auf gutgläubiger Interpretation. Die Regeln gehen davon aus, dass jeder, der die Regeln liest und auslegt, die Interessen der Gruppe im Auge hat und die Regeln in diesem Lichte liest.
-
-  
 
 Die Erläuterung dieser Grundsätze kann dazu beitragen, die Ausbeutung der Spieler in Schach zu halten. Wenn ein Spieler hartnäckig versucht, die Spielregeln zu verdrehen, sollten Sie mit diesem Spieler außerhalb des Spiels ein Gespräch führen und ihn bitten, damit aufzuhören.
 

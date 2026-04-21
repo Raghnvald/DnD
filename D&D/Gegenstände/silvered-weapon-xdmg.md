@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Silvered Weapon
 tags:
   - Gegenstand/Ausrüstung/Zauberfokus

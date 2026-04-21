@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Necromancy Spells
 tags:
   - Zauber/list/school/necromancy
 aliases:

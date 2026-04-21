@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-background
+Bezeichnung: Volstrucker Agent
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/egw

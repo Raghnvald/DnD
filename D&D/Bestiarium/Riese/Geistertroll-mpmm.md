@@ -1,17 +1,16 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mpmm
-  - Monster/HG/11
-  - Monster/Habitat/Küste
-  - Monster/Habitat/Wald
-  - Monster/Habitat/Sumpf
-  - Monster/Habitat/Unterreich
-  - Monster/Größe/Groß
-  - Monster/Typ/Riese
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Spirit Troll
+tags:
+  - Monster/Größe/Groß
+  - Monster/Habitat/Küste
+  - Monster/Habitat/Sumpf
+  - Monster/Habitat/Unterreich
+  - Monster/Habitat/Wald
+  - Monster/HG/11
+  - Monster/Typ/Riese
+  - Quelle/5e/mpmm
 aliases:
   - Spirit Troll
 ---

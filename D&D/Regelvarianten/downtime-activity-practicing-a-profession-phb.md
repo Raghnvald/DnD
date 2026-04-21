@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Downtime Activity: Practicing a Profession"
 tags:
   - Quelle/5e/phb
 aliases:

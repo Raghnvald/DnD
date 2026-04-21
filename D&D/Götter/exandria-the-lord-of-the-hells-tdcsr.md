@@ -1,16 +1,15 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: The Lord of the Hells
 tags:
-  - Quelle/5e/tdcsr
-  - Kompendium/Götter/exandria
   - Kompendium/Götter/Domäne/order
   - Kompendium/Götter/Domäne/trickery
   - Kompendium/Götter/Domäne/war
+  - Kompendium/Götter/exandria
+  - Quelle/5e/tdcsr
 aliases:
+  - Asmodeus
   - The Lord of the Hells
   - The Lord of the Nine Hells
-  - Asmodeus
 ---
 # The Lord of the Hells
 *Source: Tal'Dorei Campaign Setting Reborn p. 34* 

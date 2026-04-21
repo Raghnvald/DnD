@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/9
-  - Monster/Habitat/Stadt
-  - Monster/Größe/Groß
-  - Monster/Typ/Konstrukt
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Clay Golem
+tags:
+  - Monster/Größe/Groß
+  - Monster/Habitat/Stadt
+  - Monster/HG/9
+  - Monster/Typ/Konstrukt
+  - Quelle/5e/xmm
 aliases:
   - Clay Golem
 ---

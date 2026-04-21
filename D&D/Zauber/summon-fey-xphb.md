@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Summon Fey
 tags:
   - Klasse/Barde
@@ -11,9 +9,9 @@ tags:
   - Klasse/Schurke/Arkaner-Betrüger
   - Klasse/Waldläufer
   - Quelle/5e/xphb
-  - Subklasse/Mystischer-Ritter
   - Subklasse/fey-wanderer
   - Subklasse/illusionist
+  - Subklasse/Mystischer-Ritter
   - Zauber/Grad/3
   - Zauber/Schule/Beschwörung
 classes:

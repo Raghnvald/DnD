@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Arms of the Betrayers Destruction
 tags:
   - Quelle/5e/egw
 aliases:

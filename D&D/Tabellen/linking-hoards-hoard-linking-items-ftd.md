@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Linking Hoards; Hoard Linking Items
 tags:
   - Quelle/5e/ftd
 aliases:

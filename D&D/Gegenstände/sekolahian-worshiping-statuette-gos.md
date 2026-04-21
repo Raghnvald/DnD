@@ -1,9 +1,9 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Sekolahian Worshiping Statuette
+Kategorie: Wundersamer Gegenstand 
 tags:
   - Gegenstand/Seltenheit/gewöhnlich
+  - Gegenstand/wundersam
   - Quelle/5e/gos
 aliases:
   - Sekolahian Worshiping Statuette

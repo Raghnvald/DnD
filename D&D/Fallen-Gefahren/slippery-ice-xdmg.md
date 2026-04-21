@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-hazard
+Bezeichnung: Slippery Ice
 tags:
-  - Quelle/5e/xdmg
   - Kompendium/Bedrohung/env
+  - Quelle/5e/xdmg
 aliases:
   - Slippery Ice
 ---

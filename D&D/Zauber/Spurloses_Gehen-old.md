@@ -1,5 +1,4 @@
 ---
-cssclasses: json5e-spell
 Bezeichnung: Spurloses Gehen
 Zaubergrad: 2
 tags:

@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Needle of Mending
 Kategorie: Einfache Nahkampfwaffe
 Einstimmung: erfordert

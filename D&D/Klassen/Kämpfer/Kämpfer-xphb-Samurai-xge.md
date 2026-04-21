@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-class
 Bezeichnung: Samurai
 tags:
   - Klasse/Kämpfer/samurai

@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Glücksklinge
+Bezeichnung: Luck Blade
 Kategorie: Nahkampf-Kriegswaffe (beliebiges Schwert)
 Schaden: /
 Eigenschaften: /

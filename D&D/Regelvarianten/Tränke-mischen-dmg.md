@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Mixing Potions
 tags:
   - Quelle/5e/dmg
 aliases:

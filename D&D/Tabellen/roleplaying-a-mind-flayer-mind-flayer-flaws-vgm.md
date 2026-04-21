@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Roleplaying a Mind Flayer; Mind Flayer Flaws
 tags:
   - Quelle/5e/vgm
 aliases:

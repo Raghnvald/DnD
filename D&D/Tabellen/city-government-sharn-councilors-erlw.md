@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: City Government; Sharn Councilors
 tags:
   - Quelle/5e/erlw
 aliases:

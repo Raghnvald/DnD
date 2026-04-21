@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-feat
+Bezeichnung: One with Shadows
 tags:
-  - Quelle/5e/xphb
   - Kompendium/Optionales/ei
+  - Quelle/5e/xphb
 aliases:
   - One with Shadows
 ---

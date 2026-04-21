@@ -1,10 +1,9 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Garl Glittergold
 tags:
-  - Quelle/5e/scag
-  - Kompendium/Götter/gnomish
   - Kompendium/Götter/Domäne/trickery
+  - Kompendium/Götter/gnomish
+  - Quelle/5e/scag
 aliases:
   - Garl Glittergold
 ---

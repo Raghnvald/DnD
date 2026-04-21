@@ -7,17 +7,17 @@ Größe: Klein
 HG: 1/2
 Habitat:
   - Stadt
-status: WIP
 image: token/goblin.webp
+status: WIP
 tags:
-  - Quelle/5e/mm
-  - Monster/HG/1-4
+  - Monster/Größe/Klein
   - Monster/Habitat/Grasland
   - Monster/Habitat/Hügel
   - Monster/Habitat/Unterreich
   - Monster/Habitat/Wald
-  - Monster/Größe/Klein
+  - Monster/HG/1-4
   - Monster/Typ/Humanoid/goblinoid
+  - Quelle/5e/mm
 aliases:
   - Goblin
 ---

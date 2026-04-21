@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Monsters by Habitat; Any Habitat Monsters
 tags:
   - Quelle/5e/xmm
 aliases:

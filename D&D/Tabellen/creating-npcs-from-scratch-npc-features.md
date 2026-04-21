@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Creating NPCs from Scratch; NPC Features
 tags:
   - Quelle/5e/dmg
 aliases:

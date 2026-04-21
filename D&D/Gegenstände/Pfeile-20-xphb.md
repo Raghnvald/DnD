@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Arrows (20)
 tags:
   - Gegenstand/Ausrüstung/ammunition

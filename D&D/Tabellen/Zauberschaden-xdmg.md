@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spell Damage
 tags:
   - Quelle/5e/xdmg
 aliases:

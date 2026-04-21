@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/wdh
-  - Monster/HG/1-4
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Konstrukt
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Swarm of Books
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/1-4
+  - Monster/Typ/Konstrukt
+  - Quelle/5e/wdh
 aliases:
   - Swarm of Books
 ---

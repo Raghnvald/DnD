@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mm
-  - Monster/HG/3
-  - Monster/Habitat/Grasland
-  - Monster/Größe/Riesig
-  - Monster/Typ/Tier
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Ankylosaurus
+tags:
+  - Monster/Größe/Riesig
+  - Monster/Habitat/Grasland
+  - Monster/HG/3
+  - Monster/Typ/Tier
+  - Quelle/5e/mm
 aliases:
   - Ankylosaurus
 ---

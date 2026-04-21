@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-background
+Bezeichnung: "Baldur's Gate Criminal"
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/bgdia

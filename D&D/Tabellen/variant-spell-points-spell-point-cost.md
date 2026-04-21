@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Variant: Spell Points; Spell Point Cost"
 tags:
   - Quelle/5e/dmg
 aliases:

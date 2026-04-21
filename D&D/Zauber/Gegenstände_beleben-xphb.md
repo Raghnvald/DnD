@@ -1,12 +1,10 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Animate Objects
 tags:
+  - Klasse/Artifizient
   - Klasse/Barde
   - Klasse/Kleriker/forge-domain
   - Klasse/Magier
-  - Klasse/Artifizient
   - Klasse/Zauberer
   - Quelle/5e/xphb
   - Zauber/Grad/5

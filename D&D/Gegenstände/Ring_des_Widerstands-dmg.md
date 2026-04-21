@@ -1,7 +1,6 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Ring of Resistance
+Kategorie: Ring
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten

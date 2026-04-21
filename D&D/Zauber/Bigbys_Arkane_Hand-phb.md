@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Bigby's Hand
+Bezeichnung: "Bigby's Hand"
 Zaubergrad: 5
 Zeitaufwand:
 Reichweite:

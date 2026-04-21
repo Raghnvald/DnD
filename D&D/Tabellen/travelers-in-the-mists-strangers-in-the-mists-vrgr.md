@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Travelers in the Mists; Strangers in the Mists
 tags:
   - Quelle/5e/vrgr
 aliases:

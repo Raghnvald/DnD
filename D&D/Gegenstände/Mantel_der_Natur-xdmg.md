@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: "Nature's Mantle"
 tags:
   - Gegenstand/Einstimmung/required

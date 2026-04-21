@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Planar Effects
 tags:
   - Quelle/5e/dmg
 aliases:

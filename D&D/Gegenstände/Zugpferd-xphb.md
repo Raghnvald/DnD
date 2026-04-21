@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Draft Horse
 tags:
   - Gegenstand/Ausrüstung/Reit-und-Lastentier

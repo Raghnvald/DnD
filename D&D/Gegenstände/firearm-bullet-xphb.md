@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Firearm Bullet
 tags:
   - Gegenstand/Ausrüstung/ammunition

@@ -1,7 +1,5 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Schwurbogen
+Bezeichnung: Oathbow
 Kategorie: Fernkampf-Kriegswaffe
 tags:
   - Gegenstand/Einstimmung/required

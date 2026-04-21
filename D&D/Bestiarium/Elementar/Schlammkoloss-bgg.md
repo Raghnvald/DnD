@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/bgg
-  - Monster/HG/3
-  - Monster/Größe/Groß
-  - Monster/Typ/Elementar
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Mud Hulk
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/3
+  - Monster/Typ/Elementar
+  - Quelle/5e/bgg
 aliases:
   - Mud Hulk
 ---
@@ -21,7 +20,6 @@ A mud hulk vaguely resembles its ancestors, but its body consists of wet mud tha
 > [!quote] A quote from Bigby  
 > 
 > Well, while you're mourning, that thing is trying to engulf me in mud! Pardon me while I interpose a hand to keep it away from me.
-
 
 ```statblock
 "name": "Mud Hulk (BGG)"

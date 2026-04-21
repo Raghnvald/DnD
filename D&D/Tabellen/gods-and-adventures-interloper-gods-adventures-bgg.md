@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Gods and Adventures; Interloper Gods Adventures
 tags:
   - Quelle/5e/bgg
 aliases:

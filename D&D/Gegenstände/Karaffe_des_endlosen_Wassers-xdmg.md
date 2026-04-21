@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Decanter of Endless Water
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich

@@ -1,15 +1,14 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mm
-  - Monster/HG/1-4
-  - Monster/Habitat/Wald
-  - Monster/Habitat/Stadt
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/kenku
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Kenku
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Stadt
+  - Monster/Habitat/Wald
+  - Monster/HG/1-4
+  - Monster/Typ/Humanoid/kenku
+  - Quelle/5e/mm
 aliases:
   - Kenku
 ---
@@ -37,7 +36,6 @@ All kenku pine for the ability to fly, and thus the punishments they mete out to
 > [!quote] A quote from Endroth Knag, City Watch corporal in Waterdeep  
 > 
 > If you hear a baby crying in an alley, walk the other way. That's my advice to you.
-
 
 ```statblock
 "name": "Kenku"

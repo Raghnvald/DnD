@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Warrior of Shadow
 tags:
   - Zauber/list/subclass/warrior-of-shadow
 aliases:

@@ -1,11 +1,10 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: The Crawling King
 tags:
-  - Quelle/5e/tdcsr
-  - Kompendium/Götter/exandria
   - Kompendium/Götter/Domäne/death
   - Kompendium/Götter/Domäne/trickery
+  - Kompendium/Götter/exandria
+  - Quelle/5e/tdcsr
 aliases:
   - The Crawling King
   - Torog

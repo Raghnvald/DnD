@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mcv4ec
-  - Monster/HG/13
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Fee
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: High Fae Noble
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/13
+  - Monster/Typ/Fee
+  - Quelle/5e/mcv4ec
 aliases:
   - High Fae Noble
 ---

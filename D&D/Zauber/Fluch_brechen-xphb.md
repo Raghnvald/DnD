@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Remove Curse
 tags:
   - Klasse/Barde

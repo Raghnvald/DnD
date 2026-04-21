@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Ring of Protection
+Kategorie: Ring
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten

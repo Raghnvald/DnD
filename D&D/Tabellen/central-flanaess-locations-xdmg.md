@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Central Flanaess Locations
 tags:
   - Quelle/5e/xdmg
 aliases:

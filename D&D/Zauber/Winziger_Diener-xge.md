@@ -8,10 +8,10 @@ Wirkungsdauer: 8 Stunden
 Angriff:
 Schaden: Utility
 tags:
+  - Klasse/Artifizient
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
   - Klasse/Magier
-  - Klasse/Artifizient
   - Klasse/Schurke/Arkaner-Betrüger
   - Quelle/5e/xge
   - Subklasse/Mystischer-Ritter

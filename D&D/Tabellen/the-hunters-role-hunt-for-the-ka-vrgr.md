@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "The Hunters' Role; Hunt for the Ka"
 tags:
   - Quelle/5e/vrgr
 aliases:

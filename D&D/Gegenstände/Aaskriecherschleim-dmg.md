@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Aaskriecherschleim (Kontakt)
+Bezeichnung: Aaskriecherschleim
 Kategorie: Gift
 Eigenschaften: Gift
 Kst.: 200 GM

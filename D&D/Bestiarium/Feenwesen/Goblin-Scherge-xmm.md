@@ -1,20 +1,19 @@
 ---
-cssclasses:
-  - json5e-monster
+statblock: inline
+statblock-link: "#^statblock"
+Bezeichnung: Goblin Minion
 tags:
-  - Quelle/5e/xmm
-  - Monster/HG/1-8
+  - Monster/Größe/Klein
   - Monster/Habitat/acheron
   - Monster/Habitat/feywild
-  - Monster/Habitat/Wald
   - Monster/Habitat/Grasland
   - Monster/Habitat/Hügel
   - Monster/Habitat/planar
   - Monster/Habitat/Unterreich
-  - Monster/Größe/Klein
+  - Monster/Habitat/Wald
+  - Monster/HG/1-8
   - Monster/Typ/Fee/Goblinoid
-statblock: inline
-statblock-link: "#^statblock"
+  - Quelle/5e/xmm
 aliases:
   - Goblin Minion
 ---
@@ -39,7 +38,6 @@ The deity Maglubiyet claims to be the god of goblins, hobgoblins, and bugbears, 
 > [!quote] A quote from Approximate translation from Goblin to Common: "Hey, rube!"  
 > 
 > Bree-yark!
-
 
 ```statblock
 "name": "Goblin Minion (XMM)"

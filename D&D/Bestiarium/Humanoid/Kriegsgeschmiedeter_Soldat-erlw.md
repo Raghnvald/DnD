@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/erlw
-  - Monster/HG/1
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/warforged
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Warforged Soldier
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/1
+  - Monster/Typ/Humanoid/warforged
+  - Quelle/5e/erlw
 aliases:
   - Warforged Soldier
 ---

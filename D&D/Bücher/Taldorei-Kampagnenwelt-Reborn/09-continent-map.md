@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Continent Map
 tags:
   - Quelle/5e/tdcsr
 aliases:

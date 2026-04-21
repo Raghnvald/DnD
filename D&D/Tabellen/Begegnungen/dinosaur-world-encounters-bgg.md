@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Dinosaur World Encounters
 tags:
   - Quelle/5e/bgg
 aliases:

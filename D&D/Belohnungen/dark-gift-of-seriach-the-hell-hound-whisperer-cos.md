@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-reward
+Bezeichnung: Dark Gift of Seriach, the Hell Hound Whisperer
 tags:
-  - Quelle/5e/cos
   - Kompendium/Belohnung/charm
+  - Quelle/5e/cos
 aliases:
   - Dark Gift of Seriach, the Hell Hound Whisperer
 ---

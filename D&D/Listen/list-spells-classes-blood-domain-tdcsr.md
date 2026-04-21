@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Blood Domain
 tags:
   - Zauber/list/subclass/blood-domain
 aliases:

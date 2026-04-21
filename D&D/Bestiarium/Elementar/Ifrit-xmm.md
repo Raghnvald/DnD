@@ -1,16 +1,15 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/11
-  - Monster/Habitat/Wüste
-  - Monster/Habitat/fire
-  - Monster/Habitat/planar
-  - Monster/Größe/Groß
-  - Monster/Typ/Elementar/genie
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Efreeti
+tags:
+  - Monster/Größe/Groß
+  - Monster/Habitat/fire
+  - Monster/Habitat/planar
+  - Monster/Habitat/Wüste
+  - Monster/HG/11
+  - Monster/Typ/Elementar/genie
+  - Quelle/5e/xmm
 aliases:
   - Efreeti
 ---
@@ -31,7 +30,6 @@ On many worlds, efreet dwell in sweltering deserts and volcanic regions. Those t
 > [!quote] A quote from Veyisvexvayn, Magma Mephit Herald  
 > 
 > Imagine seas of platinum and liquid flame, the Crimson Pillar with fires hot enough to sear the gods, and the infinite delights of the City of Brass. Now imagine what my master offers...
-
 
 ```statblock
 "name": "Efreeti (XMM)"

@@ -1,12 +1,11 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Dol Arrah
 tags:
-  - Quelle/5e/erlw
-  - Kompendium/Götter/eberron
   - Kompendium/Götter/Domäne/light
   - Kompendium/Götter/Domäne/twilight
   - Kompendium/Götter/Domäne/war
+  - Kompendium/Götter/eberron
+  - Quelle/5e/erlw
 aliases:
   - Dol Arrah
 ---

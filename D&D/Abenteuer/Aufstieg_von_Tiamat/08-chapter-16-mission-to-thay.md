@@ -1,5 +1,5 @@
 ---
-cssclasses: json5e-note
+Bezeichnung: "Chapter 16: Mission to Thay"
 tags:
   - Quelle/5e/rot
 aliases:

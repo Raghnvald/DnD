@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Glocke
+Bezeichnung: Bell
 Kategorie: Abenteuerausrüstung
 Eigenschaften: /
 Kst.: 1 GM

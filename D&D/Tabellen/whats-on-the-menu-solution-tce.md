@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "What's on the Menu Solution"
 tags:
   - Quelle/5e/tce
 aliases:

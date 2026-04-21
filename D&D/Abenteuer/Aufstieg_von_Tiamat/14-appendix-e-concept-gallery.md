@@ -1,5 +1,5 @@
 ---
-cssclasses: json5e-note
+Bezeichnung: "Appendix E: Concept Gallery"
 tags:
   - Quelle/5e/rot
 aliases:

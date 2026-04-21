@@ -1,7 +1,5 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Krummsäbel
+Bezeichnung: Scimitar
 Kategorie: Nahkampf-Kriegswaffe
 tags:
   - Gegenstand/Seltenheit/keine

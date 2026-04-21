@@ -8,11 +8,11 @@ Wirkungsdauer:
 Angriff:
 Schaden:
 tags:
+  - Klasse/Artifizient
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
   - Klasse/Kleriker
   - Klasse/Kleriker/peace-domain
-  - Klasse/Artifizient
   - Klasse/Paladin/Schwur-der-Läuterung
   - Kompendium/Talent/artificer-initiate
   - Kompendium/Talent/magic-initiate/cleric-spells

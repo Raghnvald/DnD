@@ -1,5 +1,4 @@
 ---
-cssclasses: json5e-spell
 Bezeichnung: Nebelschritt
 tags:
   - Klasse/Hexenmeister

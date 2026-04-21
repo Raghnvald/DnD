@@ -1,7 +1,5 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Drachentöter
+Bezeichnung: Dragon Slayer
 Kategorie: Nahkampf-Kriegswaffe
 tags:
   - Gegenstand/Seltenheit/selten

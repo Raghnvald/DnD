@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Physical Variations; Yuan-ti Scale Pattern
 tags:
   - Quelle/5e/vgm
 aliases:

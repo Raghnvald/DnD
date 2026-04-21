@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Shadow Dragon Treasures; Shadow Dragon Art Objects
 tags:
   - Quelle/5e/ftd
 aliases:

@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/tftyp
-  - Monster/HG/1-2
-  - Monster/Größe/Klein
-  - Monster/Typ/Monstrosität
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Reduced-Threat Darkmantle
+tags:
+  - Monster/Größe/Klein
+  - Monster/HG/1-2
+  - Monster/Typ/Monstrosität
+  - Quelle/5e/tftyp
 aliases:
   - Reduced-Threat Darkmantle
 ---

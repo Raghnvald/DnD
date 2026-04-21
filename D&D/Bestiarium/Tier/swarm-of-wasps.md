@@ -1,20 +1,19 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mm
-  - Monster/HG/1-2
-  - Monster/Habitat/Wüste
-  - Monster/Habitat/Wald
-  - Monster/Habitat/Grasland
-  - Monster/Habitat/Hügel
-  - Monster/Habitat/Sumpf
-  - Monster/Habitat/Unterreich
-  - Monster/Habitat/Stadt
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Tier
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Swarm of Wasps
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Grasland
+  - Monster/Habitat/Hügel
+  - Monster/Habitat/Stadt
+  - Monster/Habitat/Sumpf
+  - Monster/Habitat/Unterreich
+  - Monster/Habitat/Wald
+  - Monster/Habitat/Wüste
+  - Monster/HG/1-2
+  - Monster/Typ/Tier
+  - Quelle/5e/mm
 aliases:
   - Swarm of Wasps
 ---

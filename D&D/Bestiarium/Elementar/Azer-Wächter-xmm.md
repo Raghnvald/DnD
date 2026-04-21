@@ -1,19 +1,18 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/2
-  - Monster/Habitat/fire
-  - Monster/Habitat/Berg
-  - Monster/Habitat/planar
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Elementar
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Azer Sentinel
+Kategorie: Elementar
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Berg
+  - Monster/Habitat/fire
+  - Monster/Habitat/planar
+  - Monster/HG/2
+  - Monster/Typ/Elementar
+  - Quelle/5e/xmm
 aliases:
   - Azer Sentinel
-Kategorie: Elementar
 ---
 # [Azer Sentinel](3-Mechanics\CLI\bestiary\elemental/azer-sentinel-xmm.md)
 *Source: Monster Manual (2024) p. 25. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-race
+Bezeichnung: Aarakocra
 tags:
   - Quelle/5e/mpmm
   - Rasse/aarakocra

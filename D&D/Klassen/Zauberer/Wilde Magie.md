@@ -1,6 +1,10 @@
 ---
-tags: [Klasse/Zauberer, Quelle/5e/phb]
-aliases: [Wild Magic]
+Bezeichnung: Wilde Magie
+tags:
+  - Klasse/Zauberer
+  - Quelle/5e/phb
+aliases:
+  - Wild Magic
 ---
 # Wilde Magie
 _[[Zauberer]]_: Magische Herkunft

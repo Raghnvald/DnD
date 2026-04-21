@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: House Tarkanan; Tarkanan Contacts
 tags:
   - Quelle/5e/erlw
 aliases:

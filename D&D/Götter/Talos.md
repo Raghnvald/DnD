@@ -1,11 +1,11 @@
 ---
-cssclasses: json5e-deity
+Bezeichnung: Talos, Gott der Stürme
 tags:
-  - Quelle/5e/phb
   - Kompendium/Götter
+  - Kompendium/Götter/Domäne/Sturm
   - Kompendium/Götter/Gesinnung/Chaotisch_Böse
   - Kompendium/Götter/Pantheon/Faerun
-  - Kompendium/Götter/Domäne/Sturm
+  - Quelle/5e/phb
 aliases:
   - Talos
 ---

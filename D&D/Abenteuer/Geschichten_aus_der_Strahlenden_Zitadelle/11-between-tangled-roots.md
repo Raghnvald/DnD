@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Between Tangled Roots
 tags:
   - Quelle/5e/jttrc
 aliases:

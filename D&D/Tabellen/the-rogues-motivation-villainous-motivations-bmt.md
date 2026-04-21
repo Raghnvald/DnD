@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "The Rogue's Motivation; Villainous Motivations"
 tags:
   - Quelle/5e/bmt
 aliases:

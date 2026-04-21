@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-class
+Bezeichnung: Thief
 tags:
-  - Quelle/5e/phb
   - Klasse/Schurke/Dieb
+  - Quelle/5e/phb
 aliases:
   - Thief
 ---
@@ -41,7 +40,6 @@ aliases:
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 

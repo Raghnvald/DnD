@@ -1,16 +1,15 @@
 ---
+Bezeichnung: Freedom of the Winds
 Zaubergrad: 5
-cssclasses:
-  - json5e-spell
 tags:
-  - Quelle/5e/tdcsr
   - Klasse/Barde
   - Klasse/Druide
   - Klasse/Waldläufer
   - Klasse/Zauberer
+  - Quelle/5e/tdcsr
+  - Subklasse/oath-of-the-open-sea
   - Zauber/Grad/5
   - Zauber/Schule/Bann
-  - Subklasse/oath-of-the-open-sea
 classes:
   - Bard
   - Druid
@@ -22,7 +21,6 @@ aliases:
 ---
 # Freedom of the Winds
 *5th-level, Abjuration*  
-
 
 - **Casting time:** 1 Action
 - **Range:** Self

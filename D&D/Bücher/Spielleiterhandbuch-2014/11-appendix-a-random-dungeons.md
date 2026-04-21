@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Appendix A: Random Dungeons"
 tags:
   - Quelle/5e/dmg
 aliases:

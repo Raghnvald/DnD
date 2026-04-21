@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/vgm
-  - Monster/HG/1-4
-  - Monster/Habitat/Wald
-  - Monster/Größe/Klein
-  - Monster/Typ/Humanoid/grung
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Grung (Blue)
+tags:
+  - Monster/Größe/Klein
+  - Monster/Habitat/Wald
+  - Monster/HG/1-4
+  - Monster/Typ/Humanoid/grung
+  - Quelle/5e/vgm
 aliases:
   - Grung (Blue)
 ---

@@ -1,11 +1,10 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Arms of the Betrayers
 tags:
-  - Quelle/5e/egw
-  - Kompendium/Götter/exandria
   - Kompendium/Götter/Domäne/death
   - Kompendium/Götter/Domäne/war
+  - Kompendium/Götter/exandria
+  - Quelle/5e/egw
 aliases:
   - Arms of the Betrayers
 ---

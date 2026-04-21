@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Garnet
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone

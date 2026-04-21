@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Guild Character Objectives
 tags:
   - Quelle/5e/ggr
 aliases:

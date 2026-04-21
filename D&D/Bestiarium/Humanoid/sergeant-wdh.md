@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/wdh
-  - Monster/HG/1-8
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/any-race
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Sergeant
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/1-8
+  - Monster/Typ/Humanoid/any-race
+  - Quelle/5e/wdh
 aliases:
   - Sergeant
 ---

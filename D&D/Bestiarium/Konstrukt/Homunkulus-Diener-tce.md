@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/tce
-  - Monster/HG/
-  - Monster/Größe/Winzig
-  - Monster/Typ/Konstrukt
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Homunculus Servant
+tags:
+  - Monster/Größe/Winzig
+  - Monster/HG/
+  - Monster/Typ/Konstrukt
+  - Quelle/5e/tce
 aliases:
   - Homunculus Servant
 ---

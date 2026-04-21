@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Crampons
 Kategorie: Abenteuerausrüstung
 tags:

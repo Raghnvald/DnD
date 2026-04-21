@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Brass Dragon Treasures; Brass Dragon Art Objects
 tags:
   - Quelle/5e/ftd
 aliases:

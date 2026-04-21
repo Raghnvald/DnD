@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Fire Giant Bag Contents; Fire Giant Bag Items
 tags:
   - Quelle/5e/bgg
 aliases:

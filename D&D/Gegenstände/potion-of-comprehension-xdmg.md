@@ -1,13 +1,10 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Potion of Comprehension
 tags:
   - Gegenstand/Seltenheit/gewöhnlich
   - Gegenstand/wundersam/Trank
   - Quelle/5e/xdmg
 aliases:
-  - Potion of Comprehension
   - Potion of Comprehension
 linter-yaml-title-alias: Potion of Comprehension
 ---

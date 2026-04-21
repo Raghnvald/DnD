@@ -1,5 +1,5 @@
 ---
-cssclasses: json5e-note
+Bezeichnung: "Chapter 9: Council of Waterdeep"
 tags:
   - Quelle/5e/rot
 aliases:

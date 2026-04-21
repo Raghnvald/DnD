@@ -1,9 +1,9 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Thermal Cube
+Kategorie: Wundersamer Gegenstand 
 tags:
   - Gegenstand/Seltenheit/gewöhnlich
+  - Gegenstand/wundersam
   - Quelle/5e/idrotf
 aliases:
   - Thermal Cube

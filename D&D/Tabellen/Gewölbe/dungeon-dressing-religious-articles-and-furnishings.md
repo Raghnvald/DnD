@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Dungeon Dressing; Religious Articles and Furnishings
 tags:
   - Quelle/5e/dmg
 aliases:

@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Ball Bearings
 tags:
   - Gegenstand/Ausrüstung/

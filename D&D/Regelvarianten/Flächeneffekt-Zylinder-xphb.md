@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Cylinder [Area of Effect]
 tags:
   - Quelle/5e/xphb
 aliases:

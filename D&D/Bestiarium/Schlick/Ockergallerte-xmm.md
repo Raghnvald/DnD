@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/2
-  - Monster/Habitat/Unterreich
-  - Monster/Größe/Groß
-  - Monster/Typ/Schleim
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Ochre Jelly
+tags:
+  - Monster/Größe/Groß
+  - Monster/Habitat/Unterreich
+  - Monster/HG/2
+  - Monster/Typ/Schleim
+  - Quelle/5e/xmm
 aliases:
   - Ochre Jelly
 ---

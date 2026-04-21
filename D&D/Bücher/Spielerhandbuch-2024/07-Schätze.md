@@ -1,5 +1,7 @@
 ---
-tags: [Quelle/5e/dmg]
+Bezeichnung: "Kapitel 7: Schätze"
+tags:
+  - Quelle/5e/dmg
 ---
 # Kapitel 7: Schätze
 
@@ -441,7 +443,6 @@ Manche magische Gegenstände erlauben es dem Benutzer, einen Zauber von dem Gege
 
 Ein magischer Gegenstand kann erfordern, dass der Benutzer seine eigene Zauberwirkfähigkeit verwendet, wenn er einen Zauber von dem Gegenstand auswirkt. Wenn der Benutzer mehr als eine Zauberwirkfähigkeit besitzt, wählt der Benutzer, welche er mit dem Gegenstand verwendet. Wenn der Benutzer keine Zauberwirkfähigkeit besitzt, ist sein Zauberwirkfähigkeitsmodifikator +0 für den Gegenstand, und der Übungsbonus des Benutzers wird angewendet.
 
-
 #### Ladungen
 Manche magische Gegenstände haben Ladungen, die aufgewendet werden müssen, um ihre Eigenschaften zu aktivieren. Die Anzahl der verbleibenden Ladungen eines Gegenstands wird enthüllt, wenn der Zauber _Identifizieren_ auf ihn gewirkt wird. Eine Kreatur, die auf einen Gegenstand eingestimmt ist, weiß, wie viele Ladungen der Gegenstand hat und wie viele er wiedererlangt.
 
@@ -612,7 +613,6 @@ Ein Artefakt kann bis zu vier geringe nützliche Eigenschaften und zwei bedeuten
 | 91–00     | Während du auf das Artefakt eingestimmt bist, erhältst du einen +1 Bonus auf die Rüstungsklasse.                                                                                                                                                                             |
 
 ##### Größere Nützliche Eigenschaften
-
 
 | **1W100** | **Eigenschaft**                                                                                                                                                                                                                                                              |
 | --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -787,7 +787,7 @@ Wenn sein Träger sich weigert, den Forderungen des Gegenstands nachzukommen, ka
 | 73–75 | [Trank des Kletterns](05%20-%20Wikipedia/Gegenstände/Trank-des-Kletterns.md)                                                                                                     |
 | 76–78 | [Trank des Verstehens](Trank-des-Verstehens.md)                                                                                                   |
 | 79–80 | [Zauberbuch der Ausdauer](05%20-%20Wikipedia/Gegenstände/Zauberbuch-der-Ausdauer.md)                                                                                             |
-| 81–94 | Zauberschriftrolle ([Zaubertrick](Zauberschriftrolle-Zaubergrad-0.md) oder Zauber des [1. Grades](05%20-%20Wikipedia/Gegenstände/Zauberschriftrolle-Zaubergrad-1.md)) |
+| 81–94 | Zauberschriftrolle ([Zaubertrick](Zauberschriftrolle-Zaubergrad-0-old.md) oder Zauber des [1. Grades](05%20-%20Wikipedia/Gegenstände/Zauberschriftrolle-Zaubergrad-1.md)) |
 | 95–97 | [Zauberstab des Dirigierens-old](Zauberstab%20des%20Dirigierens-old.md)                                                                                       |
 | 98–00 | [Zauberstab der Pyrotechnik](05%20-%20Wikipedia/Gegenstände/Zauberstab-der-Pyrotechnik.md)                                                                                       |
 ^Arkana-common
@@ -810,7 +810,7 @@ Wenn sein Träger sich weigert, den Forderungen des Gegenstands nachzukommen, ka
 | 29-30 | [Figur der wundersamen Kraft (Silberner Rabe)](Figur_der_wundersamen_Kraft-Silber-Rabe-dmg.md)                                                                             |
 | 09    | [Fliegender Besen](05%20-%20Wikipedia/Gegenstände/Fliegender-Besen.md)                                                                                                                                |
 | 00    | [Geflügelte Stiefel](Geflügelte_Stiefel-dmg.md)                                                                                                                                  |
-| 41-42 | [Halskette der Anpassung](Halskette%20der%20Anpassung-dmg.md)                                                                                                                   |
+| 41-42 | [Halskette der Anpassung](Halskette_der_Anpassung-dmg.md)                                                                                                                   |
 | 36    | [Helm der Telepathie](05%20-%20Wikipedia/Gegenstände/helm-of-telepathy.md)                                                                                                                            |
 | 35    | [Helm des Sprachenverstehens](05%20-%20Wikipedia/Gegenstände/Helm-des-Sprachenverstehens.md)                                                                                                          |
 | 32    | [Hexenauge](Hexenauge.md)                                                                                                                                              |
@@ -841,7 +841,7 @@ Wenn sein Träger sich weigert, den Forderungen des Gegenstands nachzukommen, ka
 | 21    | [Staub der Trockenheit](05%20-%20Wikipedia/Gegenstände/Staub-der-Trockenheit.md)                                                                                                                      |
 | 22    | [Staub des Niesens und Erstickens](05%20-%20Wikipedia/Gegenstände/Staub-des-Niesens-und-Erstickens.md)                                                                                                |
 | 19-20 | [Staub des Verschwindens](05%20-%20Wikipedia/Gegenstände/Staub-des-Verschwindens.md)                                                                                                                  |
-| 34    | [Stirnband des Intellekts](Stirnband%20der%20Intelligenz.md)                                                                                                                   |
+| 34    | [Stirnband des Intellekts](Stirnband%20der%20Intelligenz-dmg.md)                                                                                                                   |
 | 11    | [Stirnreif des Sprengens](05%20-%20Wikipedia/Gegenstände/Stirnreif-des-Sprengens.md)                                                                                                                  |
 | 48-49 | [Trank der Tierfreundschaft](05%20-%20Wikipedia/Gegenstände/Trank-der-Tierfreundschaft.md)                                                                                                            |
 | 50-51 | [Trank des Feueratems](Gegenstände/Trank-des-Feueratems.md)                                                                                                                        |
@@ -900,7 +900,7 @@ Wenn sein Träger sich weigert, den Forderungen des Gegenstands nachzukommen, ka
 | 50-51 | [Stab des Pakthüters +2](Gegenstände/.md)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | 52-53 | [Stab des Verdorrens](Gegenstände/.md)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 | 54    | [Stein_der_Erdelementar-Herrschaft-dmg](Stein_der_Erdelementar-Herrschaft-dmg.md)                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| 55    | [Tragbares Loch](Tragbares%20Loch.md)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| 55    | [Tragbares Loch-old](Tragbares%20Loch-old.md)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | 56-57 | [Trank der Hellsichtigkeit](Gegenstände/.md)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 | 58    | Trank der Riesenstärke ([Feuer](Trank%20der%20Riesenstärke.md))                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 | 59-60 | Trank der Riesenstärke ([Frost](Trank%20der%20Frostriesenstärke.md) oder [Stein](Trank%20der%20Steinriesenstärke.md))                                                                                                                                                                                                                                                                                                                                                                                                                            |
@@ -996,7 +996,7 @@ Wenn sein Träger sich weigert, den Forderungen des Gegenstands nachzukommen, ka
 | 58-61 | [Souveräner Leim](05%20-%20Wikipedia/Gegenstände/sovereign-glue.md)                                                  |
 | 62    | [Sphäre der Vernichtung](Sphäre_des_Nichts-dmg.md)                                           |
 | 63    | [Stab des Magus](Zauberstecken_der_Magi-dmg.md)                                                 |
-| 64-66 | [Talisman der Sphäre](Talisman%20des%20Nichts.md)                                              |
+| 64-66 | [Talisman der Sphäre](Talisman%20des%20Nichts-dmg.md)                                              |
 | 67-74 | Trank der Riesenstärke ([Sturm](Trank%20der%20Sturmriesenstärke.md))                                   |
 | 75-78 | [Universelles Lösungsmittel](05%20-%20Wikipedia/Gegenstände/Universelles-Lösungsmittel.md)                                       |
 | 79-82 | [Verzauberter Stab](Verzauberter-Stab.md) (Zauber der Stufe 6, 7 oder 8)                 |

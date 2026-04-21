@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mpmm
-  - Monster/HG/16
-  - Monster/Größe/Riesig
-  - Monster/Typ/Konstrukt
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Hellfire Engine
+tags:
+  - Monster/Größe/Riesig
+  - Monster/HG/16
+  - Monster/Typ/Konstrukt
+  - Quelle/5e/mpmm
 aliases:
   - Hellfire Engine
 ---

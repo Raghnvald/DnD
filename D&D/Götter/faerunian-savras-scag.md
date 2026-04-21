@@ -1,16 +1,15 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Savras
 tags:
-  - Quelle/5e/scag
-  - Kompendium/Götter/faerunian
   - Kompendium/Götter/Domäne/arcana
   - Kompendium/Götter/Domäne/knowledge
+  - Kompendium/Götter/faerunian
+  - Quelle/5e/scag
 aliases:
+  - Divination's Lord
   - Savras
   - The All-Seeing
   - The Third Eye
-  - Divination's Lord
 ---
 # Savras
 *Source: Sword Coast Adventurer's Guide p. 21* 

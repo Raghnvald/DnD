@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Ability Score Point Costs
 tags:
   - Quelle/5e/xphb
 aliases:

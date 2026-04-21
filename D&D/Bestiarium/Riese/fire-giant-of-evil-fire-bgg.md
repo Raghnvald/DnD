@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/bgg
-  - Monster/HG/10
-  - Monster/Größe/Riesig
-  - Monster/Typ/Riese
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Fire Giant of Evil Fire
+tags:
+  - Monster/Größe/Riesig
+  - Monster/HG/10
+  - Monster/Typ/Riese
+  - Quelle/5e/bgg
 aliases:
   - Fire Giant of Evil Fire
 ---

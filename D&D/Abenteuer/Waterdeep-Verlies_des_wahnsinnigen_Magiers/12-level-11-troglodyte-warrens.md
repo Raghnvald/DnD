@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Level 11: Troglodyte Warrens"
 tags:
   - Quelle/5e/wdmm
 aliases:

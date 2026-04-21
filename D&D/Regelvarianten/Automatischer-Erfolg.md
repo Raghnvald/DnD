@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Automatic Success
 tags:
   - Quelle/5e/dmg
 aliases:

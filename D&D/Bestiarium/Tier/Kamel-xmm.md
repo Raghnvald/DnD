@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/1-8
-  - Monster/Habitat/Wüste
-  - Monster/Größe/Groß
-  - Monster/Typ/Tier
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Camel
+tags:
+  - Monster/Größe/Groß
+  - Monster/Habitat/Wüste
+  - Monster/HG/1-8
+  - Monster/Typ/Tier
+  - Quelle/5e/xmm
 aliases:
   - Camel
 ---

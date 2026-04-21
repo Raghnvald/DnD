@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-reward
+Bezeichnung: Charm of the Mirage
 tags:
-  - Quelle/5e/cm
   - Kompendium/Belohnung/charm
+  - Quelle/5e/cm
 aliases:
   - Charm of the Mirage
 ---

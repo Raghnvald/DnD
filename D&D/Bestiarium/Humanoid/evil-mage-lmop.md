@@ -1,14 +1,14 @@
 ---
-tags:
-  - Quelle/5e/lmop
-  - Monster/HG/1
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/human
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Evil Mage
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/1
+  - Monster/Typ/Humanoid/human
+  - Quelle/5e/lmop
 aliases:
   - Evil Mage
-Bezeichnung: Böser Magier
 Image: humanoid/token/evil-mage-lmop.webp
 ---
 # Evil Mage

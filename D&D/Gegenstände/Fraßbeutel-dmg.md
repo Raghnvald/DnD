@@ -1,7 +1,6 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Bag of Devouring
+Kategorie: Wundersamer Gegenstand
 tags:
   - Gegenstand/Seltenheit/sehr_selten
   - Quelle/5e/dmg

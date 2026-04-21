@@ -1,5 +1,4 @@
 ---
-cssclasses: json5e-spell
 Bezeichnung: Schwache Elementare beschwören
 Zaubergrad: 4
 tags:

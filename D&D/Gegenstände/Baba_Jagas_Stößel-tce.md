@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Baba Jagas Stößel
+Bezeichnung: "Baba Yaga's Pestle"
 Kategorie: Einfache Nahkampfwaffe
 Schaden: 1W6 Wucht
 Eigenschaften: Vielseitig

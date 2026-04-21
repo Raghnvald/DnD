@@ -1,8 +1,9 @@
 ---
+Bezeichnung: Glücksspielergebnisse
 tags:
-- Quelle/5e/xge
+  - Quelle/5e/xge
 aliases:
-- Gambling Results
+  - Gambling Results
 ---
 # Glücksspielergebnisse
 *Quellen: Xanathars Ratgeber für Alles S. 130* 

@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Painted gold war mask
 tags:
   - Gegenstand/Ausrüstung/treasure-art-object

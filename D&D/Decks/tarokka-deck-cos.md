@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-deck
+Bezeichnung: Tarokka Deck
 tags:
   - Quelle/5e/cos
 aliases:

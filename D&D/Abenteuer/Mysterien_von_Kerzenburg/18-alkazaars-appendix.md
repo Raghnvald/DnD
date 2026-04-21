@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Alkazaar's Appendix"
 tags:
   - Quelle/5e/cm
 aliases:

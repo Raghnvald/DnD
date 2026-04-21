@@ -1,17 +1,16 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Helm
 tags:
-  - Quelle/5e/scag
-  - Kompendium/Götter/faerunian
   - Kompendium/Götter/Domäne/life
   - Kompendium/Götter/Domäne/light
   - Kompendium/Götter/Domäne/twilight
+  - Kompendium/Götter/faerunian
+  - Quelle/5e/scag
 aliases:
-  - Helm
-  - The Watcher
   - He of the Unsleeping Eyes
+  - Helm
   - The Vigilant One
+  - The Watcher
 ---
 # Helm
 *Source: Sword Coast Adventurer's Guide p. 21, Tasha's Cauldron of Everything p. 34* 

@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/idrotf
-  - Monster/HG/4
-  - Monster/Größe/Groß
-  - Monster/Typ/Konstrukt
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: "Living Bigby's Hand"
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/4
+  - Monster/Typ/Konstrukt
+  - Quelle/5e/idrotf
 aliases:
   - Living Bigby's Hand
 ---

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Tall Tales
 tags:
   - Quelle/5e/bgg
 aliases:

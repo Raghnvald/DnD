@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Wave
 Kategorie: Nahkampf-Kriegswaffe
 tags:

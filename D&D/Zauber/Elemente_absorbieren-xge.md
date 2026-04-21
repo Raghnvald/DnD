@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Absorb Elements
+Bezeichnung: Elemente absorbieren
 Zaubergrad: 1
 Zeitaufwand: 1 Reaktion*
 Reichweite: 27 Meter
@@ -9,11 +9,11 @@ Angriff: n/v
 Schaden: n/v
 status:
 tags:
+  - Klasse/Artifizient
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
   - Klasse/Druide
   - Klasse/Magier
-  - Klasse/Artifizient
   - Klasse/Schurke/Arkaner-Betrüger
   - Klasse/Waldläufer
   - Klasse/Zauberer

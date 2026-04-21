@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Infernal Puzzle Box
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich

@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Armor of Weightlessness-bmt
+Bezeichnung: Armor of Weightlessness
 Rüstung: Leicht, Mittel oder Schwer
 tags:
   - Gegenstand/Einstimmung/required

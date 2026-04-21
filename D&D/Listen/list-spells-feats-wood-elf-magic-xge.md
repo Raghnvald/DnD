@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Wood Elf Magic
 tags:
   - Zauber/list/feat/wood-elf-magic
 aliases:

@@ -1,11 +1,10 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Darahl Tilvenar
 tags:
-  - Quelle/5e/mtf
-  - Kompendium/Götter/elven
   - Kompendium/Götter/Domäne/forge
   - Kompendium/Götter/Domäne/light
+  - Kompendium/Götter/elven
+  - Quelle/5e/mtf
 aliases:
   - Darahl Tilvenar
 ---

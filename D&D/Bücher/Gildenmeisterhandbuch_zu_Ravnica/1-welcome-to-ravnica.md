@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Welcome to Ravnica
 tags:
   - Quelle/5e/ggr
 aliases:

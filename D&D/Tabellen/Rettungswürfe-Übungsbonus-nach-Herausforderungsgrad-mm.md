@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Saving Throws; Proficiency Bonus by Challenge Rating
 tags:
   - Quelle/5e/mm
 aliases:

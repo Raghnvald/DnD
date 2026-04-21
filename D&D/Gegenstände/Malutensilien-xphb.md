@@ -1,13 +1,10 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Painter's Supplies
+Bezeichnung: "Painter's Supplies"
 tags:
   - Gegenstand/Ausrüstung/Werkzeug
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
-  - Painter's Supplies
   - Painter's Supplies
 linter-yaml-title-alias: Painter's Supplies
 ---

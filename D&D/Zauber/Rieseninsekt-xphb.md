@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Giant Insect
 tags:
   - Klasse/Barde

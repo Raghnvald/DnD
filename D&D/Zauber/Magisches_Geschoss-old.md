@@ -1,5 +1,4 @@
 ---
-cssclasses: json5e-spell
 Bezeichnung: Magische Geschosse
 status: WIP
 tags:

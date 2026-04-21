@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Writing Kit
 tags:
   - Gegenstand/Ausrüstung/

@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Skyship
 tags:
   - Gegenstand/Ausrüstung/Fahrzeug

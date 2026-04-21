@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Lash of Shadows (Awakened)
 Kategorie: Nahkampf-Kriegswaffe
 tags:

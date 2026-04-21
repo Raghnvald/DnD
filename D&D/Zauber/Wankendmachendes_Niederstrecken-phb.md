@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Wankendmachendes Niederstrecken
 Zaubergrad: 4
 tags:

@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-class
+Bezeichnung: School of Conjuration
 tags:
-  - Quelle/5e/phb
   - Klasse/Magier/conjuration
+  - Quelle/5e/phb
 aliases:
   - School of Conjuration
 ---
@@ -41,7 +40,6 @@ aliases:
 > </tbody></table>
 
 ^class-progression
-
 
 > [!caution] Mixed edition content
 > This subclass is from a different game edition. You will need to do some adjustment to resolve differences.

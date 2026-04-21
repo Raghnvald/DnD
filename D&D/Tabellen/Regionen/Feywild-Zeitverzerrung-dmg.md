@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Zeitverzerrung im Feywild
 tags:
   - Quelle/5e/dmg
 aliases:

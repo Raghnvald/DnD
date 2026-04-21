@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Tal'Dorei Campaign Setting Reborn"
 tags:
   - Quelle/5e/tdcsr
 aliases:

@@ -1,10 +1,9 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Chemosh
 tags:
-  - Quelle/5e/phb
-  - Kompendium/Götter/dragonlance
   - Kompendium/Götter/Domäne/death
+  - Kompendium/Götter/dragonlance
+  - Quelle/5e/phb
 aliases:
   - Chemosh
 ---

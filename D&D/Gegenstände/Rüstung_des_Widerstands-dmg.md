@@ -24,7 +24,6 @@ linter-yaml-title-alias: Rüstung des Widerstands
 *Rüstung (leicht, mittelschwer oder schwer), selten (benötigt Einstimmung)*  
 ![](Gegenstände/img/armor-of-resistance.webp#right)
 
-
 Du hast Resistenz gegen eine Schadensart, solange du diese Rüstung trägst. Der SL bestimmt die Schadensart oder wählt sie nach der folgenden Tabelle zufällig aus.
 
 | W10 | Schadensart |

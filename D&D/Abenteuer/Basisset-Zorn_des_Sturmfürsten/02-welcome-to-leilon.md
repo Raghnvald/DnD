@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Welcome to Leilon
 tags:
   - Quelle/5e/slw
 aliases:

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Membership and Independence
 tags:
   - Quelle/5e/ggr
 aliases:

@@ -1,10 +1,9 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Tharizdun
 tags:
-  - Quelle/5e/phb
-  - Kompendium/Götter/greyhawk
   - Kompendium/Götter/Domäne/trickery
+  - Kompendium/Götter/greyhawk
+  - Quelle/5e/phb
 aliases:
   - Tharizdun
 ---

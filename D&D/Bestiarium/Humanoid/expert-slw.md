@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/slw
-  - Monster/HG/
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Expert
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/
+  - Monster/Typ/Humanoid
+  - Quelle/5e/slw
 aliases:
   - Expert
 ---

@@ -1,6 +1,9 @@
 ---
-tags: [Quelle/5e/phb]
-aliases: ["Gnome"]
+Bezeichnung: Gnom
+tags:
+  - Quelle/5e/phb
+aliases:
+  - "Gnome"
 ---
 # Gnom
 *Quelle: SRD / Grundregelwerk*  

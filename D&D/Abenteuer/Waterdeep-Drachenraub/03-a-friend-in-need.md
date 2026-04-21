@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: A Friend in Need
 tags:
   - Quelle/5e/wdh
 aliases:

@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/23
-  - Monster/Habitat/Jedes
-  - Monster/Größe/Gigantisch
-  - Monster/Typ/Schleim/Titan
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Blob of Annihilation
+tags:
+  - Monster/Größe/Gigantisch
+  - Monster/Habitat/Jedes
+  - Monster/HG/23
+  - Monster/Typ/Schleim/Titan
+  - Quelle/5e/xmm
 aliases:
   - Blob of Annihilation
 ---

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Lost Memories; Suppressed Memories
 tags:
   - Quelle/5e/vrgr
 aliases:

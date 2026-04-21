@@ -1,8 +1,8 @@
 ---
+Bezeichnung: Defensiver Duellant
 tags:
-- Quelle/5e/phb
-aliases:
-- 
+  - Quelle/5e/phb
+aliases: []
 ---
 # Defensiver Duellant
 

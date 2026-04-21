@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Hexblood
 tags:
   - Zauber/list/race/hexblood
 aliases:

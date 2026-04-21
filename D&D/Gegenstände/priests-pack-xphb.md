@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: "Priest's Pack"
 tags:
   - Gegenstand/Ausrüstung/

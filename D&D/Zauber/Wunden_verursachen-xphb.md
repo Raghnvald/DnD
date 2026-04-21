@@ -14,8 +14,8 @@ tags:
   - Kompendium/Talent/magic-initiate/cleric-spells
   - Kompendium/Talent/shadow-touched
   - Quelle/5e/xphb
-  - Subklasse/Schule-des-Wissens
   - Subklasse/divine-soul/evil
+  - Subklasse/Schule-des-Wissens
   - Zauber/Grad/1
   - Zauber/Schule/Nekromantie
 classes:

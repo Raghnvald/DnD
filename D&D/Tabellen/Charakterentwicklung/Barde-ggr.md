@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Bard
 tags:
   - Quelle/5e/ggr
 aliases:

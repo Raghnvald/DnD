@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Chapter 4: The Chosen Path"
 tags:
   - Quelle/5e/skt
 aliases:

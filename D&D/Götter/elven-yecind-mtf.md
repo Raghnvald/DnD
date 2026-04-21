@@ -1,11 +1,10 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: "Ye'Cind"
 tags:
-  - Quelle/5e/mtf
-  - Kompendium/Götter/elven
   - Kompendium/Götter/Domäne/life
   - Kompendium/Götter/Domäne/trickery
+  - Kompendium/Götter/elven
+  - Quelle/5e/mtf
 aliases:
   - Ye'Cind
 ---

@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Imbued Wood (Risian Pine)
 Kategorie: Wundersamer Gegenstand
 tags:

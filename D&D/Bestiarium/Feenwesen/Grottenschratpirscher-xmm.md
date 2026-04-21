@@ -1,18 +1,17 @@
 ---
-cssclasses:
-  - json5e-monster
+statblock: inline
+statblock-link: "#^statblock"
+Bezeichnung: Bugbear Stalker
 tags:
-  - Quelle/5e/xmm
-  - Monster/HG/3
+  - Monster/Größe/Mittelgroß
   - Monster/Habitat/feywild
-  - Monster/Habitat/Wald
   - Monster/Habitat/Grasland
   - Monster/Habitat/planar
   - Monster/Habitat/Unterreich
-  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Wald
+  - Monster/HG/3
   - Monster/Typ/Fee/Goblinoid
-statblock: inline
-statblock-link: "#^statblock"
+  - Quelle/5e/xmm
 aliases:
   - Bugbear Stalker
 ---

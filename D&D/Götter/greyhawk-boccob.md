@@ -1,11 +1,10 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Boccob
 tags:
-  - Quelle/5e/phb
-  - Kompendium/Götter/greyhawk
   - Kompendium/Götter/Domäne/arcana
   - Kompendium/Götter/Domäne/knowledge
+  - Kompendium/Götter/greyhawk
+  - Quelle/5e/phb
 aliases:
   - Boccob
 ---

@@ -1,11 +1,10 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: The Traveler
 tags:
-  - Quelle/5e/phb
-  - Kompendium/Götter/eberron
   - Kompendium/Götter/Domäne/knowledge
   - Kompendium/Götter/Domäne/trickery
+  - Kompendium/Götter/eberron
+  - Quelle/5e/phb
 aliases:
   - The Traveler
 ---

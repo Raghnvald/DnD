@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Variant: Training to Gain Levels; Training to Gain Levels"
 tags:
   - Quelle/5e/xdmg
 aliases:

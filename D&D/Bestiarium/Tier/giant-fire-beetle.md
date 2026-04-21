@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mm
-  - Monster/HG/0
-  - Monster/Habitat/Unterreich
-  - Monster/Größe/Klein
-  - Monster/Typ/Tier
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Giant Fire Beetle
+tags:
+  - Monster/Größe/Klein
+  - Monster/Habitat/Unterreich
+  - Monster/HG/0
+  - Monster/Typ/Tier
+  - Quelle/5e/mm
 aliases:
   - Giant Fire Beetle
 ---

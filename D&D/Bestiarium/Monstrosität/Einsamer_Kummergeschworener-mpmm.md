@@ -1,18 +1,17 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mpmm
-  - Monster/HG/9
-  - Monster/Habitat/Küste
-  - Monster/Habitat/Wüste
-  - Monster/Habitat/Berg
-  - Monster/Habitat/Unterreich
-  - Monster/Habitat/Stadt
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Monstrosität
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Lonely Sorrowsworn
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Berg
+  - Monster/Habitat/Küste
+  - Monster/Habitat/Stadt
+  - Monster/Habitat/Unterreich
+  - Monster/Habitat/Wüste
+  - Monster/HG/9
+  - Monster/Typ/Monstrosität
+  - Quelle/5e/mpmm
 aliases:
   - Lonely Sorrowsworn
 ---

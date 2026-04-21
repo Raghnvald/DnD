@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/egw
-  - Monster/HG/4
-  - Monster/Größe/Groß
-  - Monster/Typ/Monstrosität
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Merrow Shallowpriest
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/4
+  - Monster/Typ/Monstrosität
+  - Quelle/5e/egw
 aliases:
   - Merrow Shallowpriest
 ---

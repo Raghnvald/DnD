@@ -1,11 +1,10 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Surtur
 tags:
-  - Quelle/5e/phb
-  - Kompendium/Götter/nonhuman
   - Kompendium/Götter/Domäne/knowledge
   - Kompendium/Götter/Domäne/war
+  - Kompendium/Götter/nonhuman
+  - Quelle/5e/phb
 aliases:
   - Surtur
 ---

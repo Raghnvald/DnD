@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Calm Emotions
 tags:
   - Klasse/Barde

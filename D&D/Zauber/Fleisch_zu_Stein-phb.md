@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Flesh to Stone
 Zaubergrad: 6
 tags:

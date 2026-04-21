@@ -1,9 +1,9 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Stormrider Boots
+Kategorie: Wundersamer Gegenstand 
 tags:
   - Gegenstand/Seltenheit/selten
+  - Gegenstand/wundersam
   - Quelle/5e/tdcsr
 aliases:
   - Stormrider Boots

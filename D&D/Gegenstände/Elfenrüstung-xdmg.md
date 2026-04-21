@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Elven Chain
 Rüstung: Mittel oder Schwer
 tags:

@@ -1,19 +1,18 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mm
-  - Monster/HG/2
-  - Monster/Habitat/Stadt
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/any-race
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Cult Fanatic
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Stadt
+  - Monster/HG/2
+  - Monster/Typ/Humanoid/any-race
+  - Quelle/5e/mm
 aliases:
   - Cult Fanatic
 ---
 # [Cult Fanatic](3-Mechanics\CLI\bestiary\humanoid/cult-fanatic.md)
-*Source: Monster Manual p. 345. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+*Source: Monster Manual p. 345, Explorer's Guide to Wildemount. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 Fanatics are often part of a cult's leadership, using their charisma and dogma to influence and prey on those of weak will. Most are interested in personal power above all else
 
@@ -24,7 +23,7 @@ Fanatics are often part of a cult's leadership, using their charisma and dogma t
 "subtype": "any race"
 "alignment": "Any Non-Good alignment"
 "ac": !!int "13"
-"ac_class": "[leather armor](/3-Mechanics/CLI/items/leather-armor.md)"
+"ac_class": "leather armor"
 "hp": !!int "33"
 "hit_dice": "6d8 + 6"
 "modifier": !!int "2"
@@ -37,11 +36,11 @@ Fanatics are often part of a cult's leadership, using their charisma and dogma t
   - !!int "14"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Deception](/3-Mechanics/CLI/skills.md#Deception)"
+  - "name": "Deception"
     "desc": "+4"
-  - "name": "[Persuasion](/3-Mechanics/CLI/skills.md#Persuasion)"
+  - "name": "Persuasion"
     "desc": "+4"
-  - "name": "[Religion](/3-Mechanics/CLI/skills.md#Religion)"
+  - "name": "Religion"
     "desc": "+2"
 "senses": "passive Perception 11"
 "languages": "any one language (usually Common)"
@@ -49,15 +48,11 @@ Fanatics are often part of a cult's leadership, using their charisma and dogma t
 "traits":
   - "desc": "The fanatic is a 4th-level spellcaster. Its spellcasting ability is Wisdom\
       \ (spell save DC 11, +3 to hit with spell attacks). The fanatic has the following\
-      \ cleric spells prepared:\n\n**Cantrips (at will):** [light](/3-Mechanics/CLI/spells/light.md),\
-      \ [sacred flame](/3-Mechanics/CLI/spells/sacred-flame.md), [thaumaturgy](/3-Mechanics/CLI/spells/thaumaturgy.md)\n\
-      \n**1st level (4 slots):** [command](/3-Mechanics/CLI/spells/command.md), [inflict\
-      \ wounds](/3-Mechanics/CLI/spells/inflict-wounds.md), [shield of faith](/3-Mechanics/CLI/spells/shield-of-faith.md)\n\
-      \n**2nd level (3 slots):** [hold person](/3-Mechanics/CLI/spells/hold-person.md),\
-      \ [spiritual weapon](/3-Mechanics/CLI/spells/spiritual-weapon.md)"
+      \ cleric spells prepared:\n\n**Cantrips (at will):** light, sacred flame, thaumaturgy\n\
+      \n**1st level (4 slots):** command, inflict wounds, shield of faith\n\n**2nd\
+      \ level (3 slots):** hold person, spiritual weapon"
     "name": "Spellcasting"
-  - "desc": "The fanatic has advantage on saving throws against being [charmed](/3-Mechanics/CLI/conditions.md#Charmed)\
-      \ or [frightened](/3-Mechanics/CLI/conditions.md#Frightened)."
+  - "desc": "The fanatic has advantage on saving throws against being charmed or frightened."
     "name": "Dark Devotion"
 "actions":
   - "desc": "The fanatic makes two melee attacks."
@@ -67,6 +62,7 @@ Fanatics are often part of a cult's leadership, using their charisma and dogma t
     "name": "Dagger"
 "source":
   - "MM"
+  - "EGW"
 "image": "/3-Mechanics/CLI/bestiary/humanoid/token/cult-fanatic.webp"
 ```
 ^statblock

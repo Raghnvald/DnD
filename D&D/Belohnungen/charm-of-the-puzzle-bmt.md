@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-reward
+Bezeichnung: Charm of the Puzzle
 tags:
-  - Quelle/5e/bmt
   - Kompendium/Belohnung/charm
+  - Quelle/5e/bmt
 aliases:
   - Charm of the Puzzle
 ---

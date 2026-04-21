@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-race
+Bezeichnung: Skeleton
 tags:
   - Quelle/5e/dmg
   - Rasse/skeleton
@@ -9,7 +8,6 @@ aliases:
 ---
 # Skeleton
 *Source: Dungeon Master's Guide p. 282*  
-
 
 - **Ability Scores**: dex +2 int -4 cha -4
 - **Type**: undead

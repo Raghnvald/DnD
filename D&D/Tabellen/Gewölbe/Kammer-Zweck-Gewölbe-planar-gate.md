@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Chamber Purpose; Dungeon: Planar Gate"
 tags:
   - Quelle/5e/dmg
 aliases:

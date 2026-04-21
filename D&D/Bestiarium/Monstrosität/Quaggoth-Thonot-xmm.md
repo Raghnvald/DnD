@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/3
-  - Monster/Habitat/Unterreich
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Monstrosität
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Quaggoth Thonot
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Unterreich
+  - Monster/HG/3
+  - Monster/Typ/Monstrosität
+  - Quelle/5e/xmm
 aliases:
   - Quaggoth Thonot
 ---

@@ -1,11 +1,11 @@
 ---
-cssclasses: json5e-deity
+Bezeichnung: Cyric, Gott der Lügen
 tags:
-  - Quelle/5e/phb
   - Kompendium/Götter
+  - Kompendium/Götter/Domäne/List
   - Kompendium/Götter/Gesinnung/Chaotisch_Böse
   - Kompendium/Götter/Pantheon/Faerun
-  - Kompendium/Götter/Domäne/List
+  - Quelle/5e/phb
 aliases:
   - Cyric
 ---

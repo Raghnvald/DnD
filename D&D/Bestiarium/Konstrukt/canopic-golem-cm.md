@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/cm
-  - Monster/HG/13
-  - Monster/Größe/Groß
-  - Monster/Typ/Konstrukt
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Canopic Golem
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/13
+  - Monster/Typ/Konstrukt
+  - Quelle/5e/cm
 aliases:
   - Canopic Golem
 ---

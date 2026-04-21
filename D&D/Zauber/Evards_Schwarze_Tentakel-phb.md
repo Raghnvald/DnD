@@ -1,7 +1,5 @@
 ---
-cssclasses:
-  - json5e-spell
-Bezeichnung: Evard's Black Tentacles
+Bezeichnung: "Evard's Black Tentacles"
 Zaubergrad: 4
 tags:
   - Klasse/Barde/Magische-Geheimnisse

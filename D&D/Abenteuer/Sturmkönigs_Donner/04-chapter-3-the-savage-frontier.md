@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Chapter 3: The Savage Frontier"
 tags:
   - Quelle/5e/skt
 aliases:

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Aussterben oder Auszehrung
 tags:
   - Quelle/5e/dmg
 aliases:

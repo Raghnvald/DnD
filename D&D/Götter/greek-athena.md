@@ -1,12 +1,11 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Athena
 tags:
-  - Quelle/5e/phb
-  - Kompendium/Götter/greek
   - Kompendium/Götter/Domäne/knowledge
   - Kompendium/Götter/Domäne/order
   - Kompendium/Götter/Domäne/war
+  - Kompendium/Götter/greek
+  - Quelle/5e/phb
 aliases:
   - Athena
 ---

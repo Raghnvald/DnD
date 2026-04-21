@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Determine the Party's Goals; Event-Based Goals"
 tags:
   - Quelle/5e/dmg
 aliases:

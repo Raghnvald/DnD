@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for The Fathomless
 tags:
   - Zauber/list/subclass/the-fathomless
 aliases:

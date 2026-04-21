@@ -1,13 +1,10 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Potion of Supreme Healing
 tags:
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/wundersam/Trank
   - Quelle/5e/xdmg
 aliases:
-  - Potion of Supreme Healing
   - Potion of Supreme Healing
 linter-yaml-title-alias: Potion of Supreme Healing
 ---

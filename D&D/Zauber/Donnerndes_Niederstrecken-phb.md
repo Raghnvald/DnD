@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Thunderous Smite
+Bezeichnung: Donnerdes Niederstrecken
 Zaubergrad: 1
 Zeitaufwand: 
 Reichweite: 

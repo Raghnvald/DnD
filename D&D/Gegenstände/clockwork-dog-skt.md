@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Clockwork Dog
 tags:
   - Gegenstand/Seltenheit/unbekannt/magic

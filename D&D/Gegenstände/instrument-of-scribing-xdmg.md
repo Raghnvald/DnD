@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Instrument of Scribing
 tags:
   - Gegenstand/Seltenheit/gewöhnlich

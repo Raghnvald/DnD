@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Laser Rifle
 Kategorie: Fernkampf-Kriegswaffe
 tags:

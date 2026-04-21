@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Tracking DCs
 tags:
   - Quelle/5e/dmg
 aliases:

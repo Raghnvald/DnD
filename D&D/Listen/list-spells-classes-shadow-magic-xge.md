@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Shadow Magic
 tags:
   - Zauber/list/subclass/shadow-magic
 aliases:

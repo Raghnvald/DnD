@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-race
+Bezeichnung: Warforged
 tags:
   - Quelle/5e/erlw
   - Rasse/warforged
@@ -111,6 +110,5 @@ Warforged often display an odd personality trait or two, given how new they are 
 Most warforged were assigned numerical designations for use in military service. Many of them adopted nicknames, often given to them by their comrades. As independent individuals, some have chosen new names as a way to express their path in life. A few take on human names, often the name of a fallen friend or mentor.
 
 **Warforged Names**: Anchor, Banner, Bastion, Blade, Blue, Bow, Cart, Church, Crunch, Crystal, Dagger, Dent, Five, Glaive, Hammer, Iron, Lucky, Mace, Oak, Onyx, Pants, Pierce, Red, Rod, Rusty, Scout, Seven, Shield, Slash, Smith, Spike, Temple, Vault, Wall
-
 
 ![](/3-Mechanics/CLI/races/img/warforged-001.webp#center)

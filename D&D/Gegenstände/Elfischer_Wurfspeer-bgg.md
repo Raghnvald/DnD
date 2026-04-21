@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Elfischer Wurfspeer
+Bezeichnung: Elven Thrower
 Kategorie: Einfache Nahkampfwaffe
 Einstimmung: erfordert (Elf)
 tags:

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: The Book of Inner Alchemy
 tags:
   - Quelle/5e/cm
 aliases:

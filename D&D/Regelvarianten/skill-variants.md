@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Skill Variants
 tags:
   - Quelle/5e/dmg
 aliases:

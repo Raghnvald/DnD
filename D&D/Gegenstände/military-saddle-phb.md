@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Military Saddle
 Kategorie: Zaumzeug, Harnisch und gezogene Fahrzeuge
 tags:

@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/1-2
-  - Monster/Habitat/Grasland
-  - Monster/Größe/Klein
-  - Monster/Typ/Monstrosität
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Cockatrice
+tags:
+  - Monster/Größe/Klein
+  - Monster/Habitat/Grasland
+  - Monster/HG/1-2
+  - Monster/Typ/Monstrosität
+  - Quelle/5e/xmm
 aliases:
   - Cockatrice
 ---

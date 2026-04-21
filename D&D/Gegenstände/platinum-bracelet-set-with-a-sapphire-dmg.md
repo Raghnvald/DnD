@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Platinum bracelet set with a sapphire
 Kategorie: Kunstobjekt
 tags:

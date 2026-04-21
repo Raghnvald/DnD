@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Choose a Class; Class Overview
 tags:
   - Quelle/5e/xphb
 aliases:

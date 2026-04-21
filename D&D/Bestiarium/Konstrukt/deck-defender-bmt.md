@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/bmt
-  - Monster/HG/
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Konstrukt
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Deck Defender
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/
+  - Monster/Typ/Konstrukt
+  - Quelle/5e/bmt
 aliases:
   - Deck Defender
 ---

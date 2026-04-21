@@ -1,16 +1,14 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Rope Trick
 tags:
+  - Klasse/Artifizient
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
   - Klasse/Magier
-  - Klasse/Artifizient
   - Klasse/Schurke/Arkaner-Betrüger
   - Quelle/5e/xphb
-  - Subklasse/Mystischer-Ritter
   - Subklasse/gloom-stalker
+  - Subklasse/Mystischer-Ritter
   - Zauber/Grad/2
   - Zauber/Schule/Verwandlung
 classes:

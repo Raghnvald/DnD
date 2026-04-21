@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Storm Giant Quintessent
 tags:
-  - Quelle/5e/vgm
   - Monster/legendary-group
+  - Quelle/5e/vgm
 aliases:
   - Storm Giant Quintessent
 ---

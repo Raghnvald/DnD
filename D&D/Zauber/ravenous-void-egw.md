@@ -1,7 +1,6 @@
 ---
+Bezeichnung: Ravenous Void
 Zaubergrad: 9
-cssclasses:
-  - json5e-spell
 tags:
   - Quelle/5e/egw
   - Zauber/Grad/9
@@ -11,7 +10,6 @@ aliases:
 ---
 # Ravenous Void
 *9th-level, Evocation*  
-
 
 - **Casting time:** 1 Action
 - **Range:** 1000 feet

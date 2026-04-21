@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/gos
-  - Monster/HG/8
-  - Monster/Größe/Groß
-  - Monster/Typ/Konstrukt
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Vampiric Jade Statue
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/8
+  - Monster/Typ/Konstrukt
+  - Quelle/5e/gos
 aliases:
   - Vampiric Jade Statue
 ---

@@ -4,15 +4,15 @@ Kategorie: Reit- und Lastentier
 Eigenschaften: /
 Kst.: 8 GM
 Gew.: /
-Bew.: 12 m
-Traglast: 420 Pfd.
 tags:
   - Gegenstand/Ausrüstung/Reit-und-Lastentier
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
   - Donkey
+Bew.: 12 m
 linter-yaml-title-alias: Donkey
+Traglast: 420 Pfd.
 ---
 # Esel
 *Reit- und Lasttiere*  

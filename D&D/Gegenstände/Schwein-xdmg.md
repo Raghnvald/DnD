@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Pig
 tags:
   - Gegenstand/Ausrüstung/Handelsgut

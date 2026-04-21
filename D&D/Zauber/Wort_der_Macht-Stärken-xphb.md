@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Power Word Fortify
 tags:
   - Klasse/Barde

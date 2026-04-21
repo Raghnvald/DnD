@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Dancing Sword
 Kategorie: Nahkampf-Kriegswaffe (generisch)
 tags:

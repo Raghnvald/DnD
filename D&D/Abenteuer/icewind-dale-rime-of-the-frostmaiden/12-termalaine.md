@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Termalaine
 tags:
   - Quelle/5e/idrotf
 aliases:

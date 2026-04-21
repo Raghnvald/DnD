@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Orb of Shielding (Kythrian Skarn)
 Kategorie: Wundersamer Gegenstand
 tags:

@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Spare the Dying
+Bezeichnung: Verschonung der Sterbenden
 Zaubergrad: 0 (Zaubertrick)
 Zeitaufwand: 
 Reichweite: 

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-class
+Bezeichnung: Monk
 tags:
   - Klasse/Mönch
   - Quelle/5e/xphb
@@ -55,7 +54,6 @@ aliases:
 - **Tool Proficiencies**: Choose one type of [Artisan's Tools](/3-Mechanics/CLI/items/artisans-tools-xphb.md) or [Musical Instrument](/3-Mechanics/CLI/items/musical-instrument-xphb.md)
 
 **Starting Equipment:** *Choose A or B:* (A) [Spear](/3-Mechanics/CLI/items/spear-xphb.md), 5 [Daggers](/3-Mechanics/CLI/items/dagger-xphb.md), [Artisan's Tools](/3-Mechanics/CLI/items/artisans-tools-xphb.md) or [Musical Instrument](/3-Mechanics/CLI/items/musical-instrument-xphb.md) chosen for the tool proficiency above, [Explorer's Pack](/3-Mechanics/CLI/items/explorers-pack-xphb.md), and 11 GP; or (B) 50 GP
-
 
 ## Monk
 

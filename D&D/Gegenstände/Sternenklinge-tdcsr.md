@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Star Razor
 Kategorie: Nahkampf-Kriegswaffe
 tags:

@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Beacon of Hope
 tags:
   - Klasse/Barde

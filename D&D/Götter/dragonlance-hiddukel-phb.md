@@ -1,10 +1,9 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Hiddukel
 tags:
-  - Quelle/5e/phb
-  - Kompendium/Götter/dragonlance
   - Kompendium/Götter/Domäne/trickery
+  - Kompendium/Götter/dragonlance
+  - Quelle/5e/phb
 aliases:
   - Hiddukel
 ---

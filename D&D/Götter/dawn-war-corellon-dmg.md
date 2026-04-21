@@ -1,10 +1,9 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Corellon
 tags:
-  - Quelle/5e/dmg
   - Kompendium/Götter/dawn-war
   - Kompendium/Götter/Domäne/light
+  - Quelle/5e/dmg
 aliases:
   - Corellon
 ---

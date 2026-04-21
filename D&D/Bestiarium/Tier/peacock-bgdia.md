@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/bgdia
-  - Monster/HG/0
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Tier
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Peacock
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/0
+  - Monster/Typ/Tier
+  - Quelle/5e/bgdia
 aliases:
   - Peacock
 ---

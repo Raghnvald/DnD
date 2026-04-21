@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-class
+Bezeichnung: The Undead
 tags:
-  - Quelle/5e/vrgr
   - Klasse/Hexenmeister/undead
+  - Quelle/5e/vrgr
 aliases:
   - The Undead
 ---
@@ -41,7 +40,6 @@ aliases:
 > </tbody></table>
 
 ^class-progression
-
 
 > [!caution] Mixed edition content
 > This subclass is from a different game edition. You will need to do some adjustment to resolve differences.

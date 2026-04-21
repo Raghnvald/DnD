@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-class
+Bezeichnung: Cleric
 tags:
   - Klasse/Kleriker
   - Quelle/5e/xphb

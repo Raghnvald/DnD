@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mpmm
-  - Monster/HG/5
-  - Monster/Habitat/Stadt
-  - Monster/Größe/Groß
-  - Monster/Typ/Monstrosität
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Banderhobb
+tags:
+  - Monster/Größe/Groß
+  - Monster/Habitat/Stadt
+  - Monster/HG/5
+  - Monster/Typ/Monstrosität
+  - Quelle/5e/mpmm
 aliases:
   - Banderhobb
 ---

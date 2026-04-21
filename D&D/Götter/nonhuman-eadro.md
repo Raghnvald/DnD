@@ -1,11 +1,10 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Eadro
 tags:
-  - Quelle/5e/phb
-  - Kompendium/Götter/nonhuman
   - Kompendium/Götter/Domäne/nature
   - Kompendium/Götter/Domäne/tempest
+  - Kompendium/Götter/nonhuman
+  - Quelle/5e/phb
 aliases:
   - Eadro
 ---

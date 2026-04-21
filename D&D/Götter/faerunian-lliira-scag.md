@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Lliira
 tags:
-  - Quelle/5e/scag
-  - Kompendium/Götter/faerunian
   - Kompendium/Götter/Domäne/life
+  - Kompendium/Götter/faerunian
+  - Quelle/5e/scag
 aliases:
+  - Joybringer
   - Lliira
   - Our Lady of Joy
-  - Joybringer
   - The Mistress of Revels
 ---
 # Lliira

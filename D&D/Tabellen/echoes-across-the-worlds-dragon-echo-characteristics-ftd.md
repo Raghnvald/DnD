@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Echoes across the Worlds; Dragon Echo Characteristics
 tags:
   - Quelle/5e/ftd
 aliases:

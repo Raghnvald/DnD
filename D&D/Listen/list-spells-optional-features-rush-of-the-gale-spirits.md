@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Rush of the Gale Spirits
 tags:
   - Zauber/list/optfeature/rush-of-the-gale-spirits
 aliases:

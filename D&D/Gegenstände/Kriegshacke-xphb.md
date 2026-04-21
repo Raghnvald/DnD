@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: War Pick
 Kategorie: Nahkampf-Kriegswaffe
 tags:

@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Cloak of Arachnida
 tags:
   - Gegenstand/Einstimmung/required

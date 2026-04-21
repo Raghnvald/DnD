@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Types of Reporting; Journalistic Focus
 tags:
   - Quelle/5e/erlw
 aliases:

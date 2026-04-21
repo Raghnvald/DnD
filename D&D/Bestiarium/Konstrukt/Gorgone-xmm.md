@@ -1,16 +1,15 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/5
-  - Monster/Habitat/Wald
-  - Monster/Habitat/Grasland
-  - Monster/Habitat/Hügel
-  - Monster/Größe/Groß
-  - Monster/Typ/Konstrukt
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Gorgon
+tags:
+  - Monster/Größe/Groß
+  - Monster/Habitat/Grasland
+  - Monster/Habitat/Hügel
+  - Monster/Habitat/Wald
+  - Monster/HG/5
+  - Monster/Typ/Konstrukt
+  - Quelle/5e/xmm
 aliases:
   - Gorgon
 ---
@@ -49,7 +48,6 @@ Those who create gorgons strive to give them purposefully obscure command keys. 
 > [!quote] A quote from Lum the Maestro  
 > 
 > Notable among my eccentric ancestor's scattered designs was a schematic of a swamp-dwelling bovine monster and an ominous note: "Do better."
-
 
 ```statblock
 "name": "Gorgon (XMM)"

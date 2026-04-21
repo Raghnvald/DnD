@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Shrine of Savras
 tags:
   - Quelle/5e/dip
 aliases:

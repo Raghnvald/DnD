@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Draconic Familiar
 tags:
   - Zauber/list/reward/draconic-familiar
 aliases:

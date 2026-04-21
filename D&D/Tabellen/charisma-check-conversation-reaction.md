@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Charisma Check; Conversation Reaction
 tags:
   - Quelle/5e/dmg
 aliases:

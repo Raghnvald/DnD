@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Blue Dragon Treasures; Blue Dragon Art Objects
 tags:
   - Quelle/5e/ftd
 aliases:

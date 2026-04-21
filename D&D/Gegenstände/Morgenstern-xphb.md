@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Morningstar
 tags:
   - Gegenstand/Seltenheit/keine

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-race
+Bezeichnung: Elf (Wood)
 tags:
   - Quelle/5e/phb
   - Rasse/elf/wood

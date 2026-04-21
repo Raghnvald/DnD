@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Create Undead
 tags:
   - Klasse/Barde

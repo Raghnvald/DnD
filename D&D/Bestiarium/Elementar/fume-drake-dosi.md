@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/dosi
-  - Monster/HG/1-4
-  - Monster/Größe/Klein
-  - Monster/Typ/Elementar
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Fume Drake
+tags:
+  - Monster/Größe/Klein
+  - Monster/HG/1-4
+  - Monster/Typ/Elementar
+  - Quelle/5e/dosi
 aliases:
   - Fume Drake
 ---

@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-class
+Bezeichnung: The Great Old One
 tags:
-  - Quelle/5e/phb
   - Klasse/Hexenmeister/great-old-one
+  - Quelle/5e/phb
 aliases:
   - The Great Old One
 ---
@@ -41,7 +40,6 @@ aliases:
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 

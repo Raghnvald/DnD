@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Gate-Towns of the Outlands
 tags:
   - Quelle/5e/xdmg
 aliases:

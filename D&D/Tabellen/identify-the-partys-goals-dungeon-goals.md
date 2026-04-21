@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Identify the Party's Goals; Dungeon Goals"
 tags:
   - Quelle/5e/dmg
 aliases:

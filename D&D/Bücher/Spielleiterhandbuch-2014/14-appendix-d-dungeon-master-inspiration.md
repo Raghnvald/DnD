@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Appendix D: Dungeon Master Inspiration"
 tags:
   - Quelle/5e/dmg
 aliases:

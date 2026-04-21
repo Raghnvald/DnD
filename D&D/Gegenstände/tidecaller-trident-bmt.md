@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Tidecaller Trident
 Kategorie: Nahkampf-Kriegswaffe
 tags:

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Clench of the North Wind
 tags:
   - Zauber/list/optfeature/clench-of-the-north-wind
 aliases:

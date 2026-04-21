@@ -1,5 +1,6 @@
 ---
-Bezeichnung: Gem of Seeing
+Bezeichnung: Edelstein des Sehens
+Kategorie: Wundersamer Gegenstand
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten

@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/erlw
-  - Monster/HG/8
-  - Monster/Größe/Riesig
-  - Monster/Typ/Konstrukt
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Warforged Titan
+tags:
+  - Monster/Größe/Riesig
+  - Monster/HG/8
+  - Monster/Typ/Konstrukt
+  - Quelle/5e/erlw
 aliases:
   - Warforged Titan
 ---

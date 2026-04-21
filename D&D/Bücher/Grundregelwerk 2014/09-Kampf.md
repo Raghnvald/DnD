@@ -1,4 +1,5 @@
 ---
+Bezeichnung: Der Kampfablauf
 tags: []
 ---
 # Der Kampfablauf

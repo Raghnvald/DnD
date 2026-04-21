@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Middle Dura; Bazaar Merchants
 tags:
   - Quelle/5e/erlw
 aliases:

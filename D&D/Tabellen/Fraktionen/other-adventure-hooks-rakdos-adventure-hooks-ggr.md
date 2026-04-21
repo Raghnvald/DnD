@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Other Adventure Hooks; Rakdos Adventure Hooks
 tags:
   - Quelle/5e/ggr
 aliases:

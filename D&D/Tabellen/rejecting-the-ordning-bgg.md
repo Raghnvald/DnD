@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Rejecting the Ordning
 tags:
   - Quelle/5e/bgg
 aliases:

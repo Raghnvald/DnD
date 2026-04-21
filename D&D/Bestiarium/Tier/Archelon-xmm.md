@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/4
-  - Monster/Habitat/underwater
-  - Monster/Größe/Riesig
-  - Monster/Typ/Tier/dinosaur
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Archelon
+tags:
+  - Monster/Größe/Riesig
+  - Monster/Habitat/underwater
+  - Monster/HG/4
+  - Monster/Typ/Tier/dinosaur
+  - Quelle/5e/xmm
 aliases:
   - Archelon
 ---

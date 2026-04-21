@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Connected Creatures; Ancient Dragon Turtle Connections
 tags:
   - Quelle/5e/ftd
 aliases:

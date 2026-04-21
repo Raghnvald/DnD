@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/wdmm
-  - Monster/HG/4
-  - Monster/Größe/Groß
-  - Monster/Typ/Elementar
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Poison Weird
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/4
+  - Monster/Typ/Elementar
+  - Quelle/5e/wdmm
 aliases:
   - Poison Weird
 ---

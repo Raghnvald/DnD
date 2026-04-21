@@ -1,7 +1,5 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Plate of Knight's Fellowship-bmt
+Bezeichnung: "Plate of Knight's Fellowship"
 Rüstung: Schwer
 tags:
   - Gegenstand/Einstimmung/required
@@ -9,7 +7,6 @@ tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/bmt
 aliases:
-  - Plate of Knight's Fellowship
   - Plate of Knight's Fellowship
 linter-yaml-title-alias: Plate of Knight's Fellowship
 ---

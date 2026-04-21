@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mpmm
-  - Monster/HG/16
-  - Monster/Habitat/Stadt
-  - Monster/Größe/Groß
-  - Monster/Typ/Konstrukt
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Steel Predator
+tags:
+  - Monster/Größe/Groß
+  - Monster/Habitat/Stadt
+  - Monster/HG/16
+  - Monster/Typ/Konstrukt
+  - Quelle/5e/mpmm
 aliases:
   - Steel Predator
 ---

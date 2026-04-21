@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Dream of the Blue Veil
 Zaubergrad: 7
 tags:

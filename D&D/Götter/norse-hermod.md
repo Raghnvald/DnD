@@ -1,10 +1,9 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Hermod
 tags:
-  - Quelle/5e/phb
-  - Kompendium/Götter/norse
   - Kompendium/Götter/Domäne/trickery
+  - Kompendium/Götter/norse
+  - Quelle/5e/phb
 aliases:
   - Hermod
 ---

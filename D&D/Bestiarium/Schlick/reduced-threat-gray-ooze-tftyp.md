@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/tftyp
-  - Monster/HG/1-2
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Schleim
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Reduced-Threat Gray Ooze
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/1-2
+  - Monster/Typ/Schleim
+  - Quelle/5e/tftyp
 aliases:
   - Reduced-Threat Gray Ooze
 ---

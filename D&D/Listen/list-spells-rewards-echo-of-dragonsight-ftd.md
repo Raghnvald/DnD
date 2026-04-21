@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Echo of Dragonsight
 tags:
   - Zauber/list/reward/echo-of-dragonsight
 aliases:

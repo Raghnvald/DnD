@@ -1,15 +1,14 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Selûne
 tags:
-  - Quelle/5e/scag
-  - Kompendium/Götter/faerunian
   - Kompendium/Götter/Domäne/knowledge
   - Kompendium/Götter/Domäne/life
   - Kompendium/Götter/Domäne/twilight
+  - Kompendium/Götter/faerunian
+  - Quelle/5e/scag
 aliases:
-  - Selûne
   - Our Lady of Silver
+  - Selûne
   - The Moonmaiden
   - The Night White Lady
 ---

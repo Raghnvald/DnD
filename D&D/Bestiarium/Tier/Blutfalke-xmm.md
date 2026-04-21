@@ -1,19 +1,18 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/1-8
-  - Monster/Habitat/Arktis
-  - Monster/Habitat/Küste
-  - Monster/Habitat/Wald
-  - Monster/Habitat/Grasland
-  - Monster/Habitat/Hügel
-  - Monster/Habitat/Berg
-  - Monster/Größe/Klein
-  - Monster/Typ/Tier
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Blood Hawk
+tags:
+  - Monster/Größe/Klein
+  - Monster/Habitat/Arktis
+  - Monster/Habitat/Berg
+  - Monster/Habitat/Grasland
+  - Monster/Habitat/Hügel
+  - Monster/Habitat/Küste
+  - Monster/Habitat/Wald
+  - Monster/HG/1-8
+  - Monster/Typ/Tier
+  - Quelle/5e/xmm
 aliases:
   - Blood Hawk
 ---

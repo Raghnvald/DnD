@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Chapter 7: Spells"
 tags:
   - Quelle/5e/xphb
 aliases:

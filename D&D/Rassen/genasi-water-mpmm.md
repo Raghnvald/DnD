@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-race
+Bezeichnung: Genasi (Water)
 tags:
   - Quelle/5e/mpmm
   - Rasse/genasi/water

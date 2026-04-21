@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Gloomwrought Armor-bmt
+Bezeichnung: Gloomwrought Armor
 Rüstung: Leicht, Mittel oder Schwer
 tags:
   - Gegenstand/Einstimmung/required

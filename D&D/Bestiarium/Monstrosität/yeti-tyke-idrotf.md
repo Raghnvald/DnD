@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/idrotf
-  - Monster/HG/1-8
-  - Monster/Größe/Klein
-  - Monster/Typ/Monstrosität
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Yeti Tyke
+tags:
+  - Monster/Größe/Klein
+  - Monster/HG/1-8
+  - Monster/Typ/Monstrosität
+  - Quelle/5e/idrotf
 aliases:
   - Yeti Tyke
 ---

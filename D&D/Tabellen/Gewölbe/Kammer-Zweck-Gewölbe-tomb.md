@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Chamber Purpose; Dungeon: Tomb"
 tags:
   - Quelle/5e/dmg
 aliases:

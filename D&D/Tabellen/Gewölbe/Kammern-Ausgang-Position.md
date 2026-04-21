@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Chambers; Position des Ausgangs
 tags:
   - Quelle/5e/dmg
 aliases:

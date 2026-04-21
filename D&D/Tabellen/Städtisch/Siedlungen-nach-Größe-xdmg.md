@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Settlements by Size
 tags:
   - Quelle/5e/xdmg
 aliases:

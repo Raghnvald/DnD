@@ -11,8 +11,8 @@ tags:
   - Gegenstand/Waffe/Nahkampf
   - Quelle/5e/phb
 aliases:
-  - Morningstar
   - Morgenstern
+  - Morningstar
 linter-yaml-title-alias: Morgenstern
 ---
 # Morgenstern

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Appendix C: Secrets Deck"
 tags:
   - Quelle/5e/wdmm
 aliases:

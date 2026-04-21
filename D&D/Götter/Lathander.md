@@ -1,12 +1,12 @@
 ---
-cssclasses: json5e-deity
+Bezeichnung: Lathander, Gott der Morgendämmerung und der Erneuerung
 tags:
-  - Quelle/5e/phb
   - Kompendium/Götter
-  - Kompendium/Götter/Gesinnung/Neutral_Gut
-  - Kompendium/Götter/Pantheon/Faerun
   - Kompendium/Götter/Domäne/Leben
   - Kompendium/Götter/Domäne/Licht
+  - Kompendium/Götter/Gesinnung/Neutral_Gut
+  - Kompendium/Götter/Pantheon/Faerun
+  - Quelle/5e/phb
 aliases:
   - Lathander
 ---

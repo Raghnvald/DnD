@@ -1,11 +1,10 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Elebrin Liothiel
 tags:
-  - Quelle/5e/mtf
-  - Kompendium/Götter/elven
   - Kompendium/Götter/Domäne/life
   - Kompendium/Götter/Domäne/nature
+  - Kompendium/Götter/elven
+  - Quelle/5e/mtf
 aliases:
   - Elebrin Liothiel
 ---

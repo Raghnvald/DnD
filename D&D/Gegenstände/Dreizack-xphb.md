@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Trident
 tags:
   - Gegenstand/Seltenheit/keine

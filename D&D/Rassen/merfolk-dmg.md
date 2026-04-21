@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-race
+Bezeichnung: Merfolk
 tags:
   - Quelle/5e/dmg
   - Rasse/merfolk
@@ -9,7 +8,6 @@ aliases:
 ---
 # Merfolk
 *Source: Dungeon Master's Guide p. 282*  
-
 
 - **Ability Scores**: None
 - **Size**: Medium

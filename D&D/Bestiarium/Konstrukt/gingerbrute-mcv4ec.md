@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mcv4ec
-  - Monster/HG/1-2
-  - Monster/Größe/Winzig
-  - Monster/Typ/Konstrukt
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Gingerbrute
+tags:
+  - Monster/Größe/Winzig
+  - Monster/HG/1-2
+  - Monster/Typ/Konstrukt
+  - Quelle/5e/mcv4ec
 aliases:
   - Gingerbrute
 ---
@@ -23,7 +22,6 @@ The same magic that animates a gingerbrute also makes it extra scrumptious. Thos
 > [!quote] A quote from Todwin Mallow, now-destitute baker  
 > 
 > The unlabeled vial was not vanilla extract after all.
-
 
 ```statblock
 "name": "Gingerbrute (MCV4EC)"

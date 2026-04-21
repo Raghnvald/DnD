@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Skeleton Keys Solution
 tags:
   - Quelle/5e/tce
 aliases:

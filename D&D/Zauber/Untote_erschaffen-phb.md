@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Create Undead
 Zaubergrad: 6
 tags:

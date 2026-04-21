@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Blue Dragon Scale Mail
 Rüstung: Mittel
 tags:

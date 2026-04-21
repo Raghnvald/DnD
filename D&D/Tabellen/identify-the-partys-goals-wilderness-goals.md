@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Identify the Party's Goals; Wilderness Goals"
 tags:
   - Quelle/5e/dmg
 aliases:

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: The Villain You Know; Villain You Know
 tags:
   - Quelle/5e/erlw
 aliases:

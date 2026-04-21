@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Orb of Shielding (Irian Quartz)
 Kategorie: Wundersamer Gegenstand
 tags:

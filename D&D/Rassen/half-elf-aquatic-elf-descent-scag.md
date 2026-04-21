@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-race
+Bezeichnung: Half-Elf (Aquatic Elf Descent)
 tags:
   - Quelle/5e/scag
   - Rasse/half-elf/aquatic-elf-descent
@@ -9,7 +8,6 @@ aliases:
 ---
 # Half-Elf (Aquatic Elf Descent)
 *Source: Sword Coast Adventurer's Guide p. 116*  
-
 
 - **Ability Scores**: Apply +1 to one of Strength, Dexterity, Constitution, Intelligence, or Wisdom.
 - **Size**: Medium

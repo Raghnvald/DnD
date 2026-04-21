@@ -1,6 +1,7 @@
 ---
-cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
+statblock: inline
+statblock-link: "#^statblock"
 Bezeichnung: Doppelgänger
 Kategorie: Monstrosität
 Größe: Mittelgroß
@@ -8,17 +9,15 @@ HG: 3
 Habitat:
   - Stadt
   - Unterreich
-status: completed
 image: image/doppelganger-webp
+status: completed
 tags:
-  - Quelle/5e/mm
-  - Monster/HG/3
-  - Monster/Habitat/Unterreich
-  - Monster/Habitat/Stadt
   - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Stadt
+  - Monster/Habitat/Unterreich
+  - Monster/HG/3
   - Monster/Typ/Monstrosität/shapechanger
-statblock: inline
-statblock-link: "#^statblock"
+  - Quelle/5e/mm
 aliases:
   - Doppelganger
 ---

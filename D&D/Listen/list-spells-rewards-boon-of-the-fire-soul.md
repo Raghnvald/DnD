@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Boon of the Fire Soul
 tags:
   - Zauber/list/reward/boon-of-the-fire-soul
 aliases:

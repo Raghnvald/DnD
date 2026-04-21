@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Move Earth
 Zaubergrad: 6
 tags:

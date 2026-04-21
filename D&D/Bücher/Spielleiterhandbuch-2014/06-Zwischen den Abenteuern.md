@@ -1,5 +1,7 @@
 ---
-tags: [Quelle/5e/dmg]
+Bezeichnung: "Kapitel 6: Zwischen den Abenteuern"
+tags:
+  - Quelle/5e/dmg
 ---
 # Kapitel 6: Zwischen den Abenteuern
 

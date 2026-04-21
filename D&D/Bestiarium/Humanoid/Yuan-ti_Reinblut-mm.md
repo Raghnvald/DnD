@@ -1,17 +1,16 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mm
-  - Monster/HG/1
-  - Monster/Habitat/Wüste
-  - Monster/Habitat/Wald
-  - Monster/Habitat/Sumpf
-  - Monster/Habitat/Stadt
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/yuan-ti
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Yuan-ti Pureblood
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Stadt
+  - Monster/Habitat/Sumpf
+  - Monster/Habitat/Wald
+  - Monster/Habitat/Wüste
+  - Monster/HG/1
+  - Monster/Typ/Humanoid/yuan-ti
+  - Quelle/5e/mm
 aliases:
   - Yuan-ti Pureblood
 ---
@@ -60,7 +59,6 @@ Yuan-ti life revolves around their temples, yet yuan-ti don't love the gods they
 > [!quote] A quote from From Masters of the Forbidden City by Codo Vidak  
 > 
 > The yuan-ti cast off their humanity long ago, and with it, their sanity.
-
 
 ```statblock
 "name": "Yuan-ti Pureblood"

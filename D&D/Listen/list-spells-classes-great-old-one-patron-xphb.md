@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Great Old One Patron
 tags:
   - Zauber/list/subclass/great-old-one-patron
 aliases:

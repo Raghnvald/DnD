@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Armor of Lightning Resistance
 Rüstung: Leicht, Mittel oder Schwer
 tags:

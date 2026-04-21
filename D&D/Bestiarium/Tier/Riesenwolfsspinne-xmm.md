@@ -1,18 +1,17 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/1-4
-  - Monster/Habitat/Küste
-  - Monster/Habitat/Wüste
-  - Monster/Habitat/Wald
-  - Monster/Habitat/Grasland
-  - Monster/Habitat/Hügel
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Tier
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Giant Wolf Spider
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Grasland
+  - Monster/Habitat/Hügel
+  - Monster/Habitat/Küste
+  - Monster/Habitat/Wald
+  - Monster/Habitat/Wüste
+  - Monster/HG/1-4
+  - Monster/Typ/Tier
+  - Quelle/5e/xmm
 aliases:
   - Giant Wolf Spider
 ---

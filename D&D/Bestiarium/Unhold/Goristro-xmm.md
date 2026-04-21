@@ -1,15 +1,14 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/17
-  - Monster/Habitat/abyss
-  - Monster/Habitat/planar
-  - Monster/Größe/Riesig
-  - Monster/Typ/Unhold/demon
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Goristro
+tags:
+  - Monster/Größe/Riesig
+  - Monster/Habitat/abyss
+  - Monster/Habitat/planar
+  - Monster/HG/17
+  - Monster/Typ/Unhold/demon
+  - Quelle/5e/xmm
 aliases:
   - Goristro
 ---
@@ -30,7 +29,6 @@ Goristros resemble hunched, primeval minotaurs bearing the scars of Abyssal wars
 > [!quote] A quote from Mellagorus the Pit Fiend  
 > 
 > Plot and strategize, bait and scheme, but hubris is no armor against ruin incarnate, and greater beings than you have fallen under the onslaught of the Abyss.
-
 
 ```statblock
 "name": "Goristro (XMM)"

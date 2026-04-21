@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Party Formation; Party Origin
 tags:
   - Quelle/5e/tce
 aliases:

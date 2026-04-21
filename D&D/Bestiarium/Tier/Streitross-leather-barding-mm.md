@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mm
-  - Monster/HG/1-2
-  - Monster/Habitat/Stadt
-  - Monster/Größe/Groß
-  - Monster/Typ/Tier
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Warhorse (Leather Barding)
+tags:
+  - Monster/Größe/Groß
+  - Monster/Habitat/Stadt
+  - Monster/HG/1-2
+  - Monster/Typ/Tier
+  - Quelle/5e/mm
 aliases:
   - Warhorse (Leather Barding)
 ---

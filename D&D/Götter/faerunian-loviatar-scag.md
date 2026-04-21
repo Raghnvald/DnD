@@ -1,10 +1,9 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Loviatar
 tags:
-  - Quelle/5e/scag
-  - Kompendium/Götter/faerunian
   - Kompendium/Götter/Domäne/death
+  - Kompendium/Götter/faerunian
+  - Quelle/5e/scag
 aliases:
   - Loviatar
   - The Maiden of Pain

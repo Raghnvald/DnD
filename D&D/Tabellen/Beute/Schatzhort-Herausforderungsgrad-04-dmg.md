@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Treasure Hoard: Challenge 0—4"
 tags:
   - Quelle/5e/dmg
 aliases:

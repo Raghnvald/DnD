@@ -1,5 +1,4 @@
 ---
-cssclasses: dnd5e-compendium
 Bezeichnung: Dudelsack
 Kategorie: Werkzeug
 Eigenschaften: n/v

@@ -1,7 +1,5 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Elektrum-Münze (EM)
+Bezeichnung: Elektrum (EM)
 Kategorie: Währung
 tags:
   - Gegenstand/Ausrüstung/treasure-coinage

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: The Shifting of the Seasons; The Calendar of Harptos
 tags:
   - Quelle/5e/scag
 aliases:

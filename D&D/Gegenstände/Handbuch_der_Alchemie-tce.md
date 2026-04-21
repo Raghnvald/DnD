@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Alchemical Compendium
 tags:
   - Gegenstand/Einstimmung/required

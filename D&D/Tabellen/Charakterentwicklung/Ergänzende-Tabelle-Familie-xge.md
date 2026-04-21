@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Ergänzende Tabelle; Family
 tags:
   - Quelle/5e/xge
 aliases:

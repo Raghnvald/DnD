@@ -1,5 +1,4 @@
 ---
-cssclasses: json5e-spell
 Bezeichnung: Heiliges Gespräch
 tags:
   - Klasse/Kleriker

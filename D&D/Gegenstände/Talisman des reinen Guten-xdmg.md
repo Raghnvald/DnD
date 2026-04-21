@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Talisman of Pure Good
 tags:
   - Gegenstand/Einstimmung/required

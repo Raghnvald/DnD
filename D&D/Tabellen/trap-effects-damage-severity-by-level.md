@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Trap Effects; Damage Severity by Level
 tags:
   - Quelle/5e/dmg
 aliases:

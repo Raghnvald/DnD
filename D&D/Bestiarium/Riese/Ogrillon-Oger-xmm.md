@@ -1,21 +1,20 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/1
-  - Monster/Habitat/Arktis
-  - Monster/Habitat/Wüste
-  - Monster/Habitat/Wald
-  - Monster/Habitat/Grasland
-  - Monster/Habitat/Hügel
-  - Monster/Habitat/Berg
-  - Monster/Habitat/Sumpf
-  - Monster/Habitat/Unterreich
-  - Monster/Größe/Groß
-  - Monster/Typ/Riese
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Ogrillon Ogre
+tags:
+  - Monster/Größe/Groß
+  - Monster/Habitat/Arktis
+  - Monster/Habitat/Berg
+  - Monster/Habitat/Grasland
+  - Monster/Habitat/Hügel
+  - Monster/Habitat/Sumpf
+  - Monster/Habitat/Unterreich
+  - Monster/Habitat/Wald
+  - Monster/Habitat/Wüste
+  - Monster/HG/1
+  - Monster/Typ/Riese
+  - Quelle/5e/xmm
 aliases:
   - Ogrillon Ogre
 ---

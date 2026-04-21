@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-background
+Bezeichnung: Haunted One
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/vrgr

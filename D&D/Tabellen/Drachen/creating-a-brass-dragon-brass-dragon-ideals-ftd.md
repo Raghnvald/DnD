@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Creating a Brass Dragon; Brass Dragon Ideals
 tags:
   - Quelle/5e/ftd
 aliases:

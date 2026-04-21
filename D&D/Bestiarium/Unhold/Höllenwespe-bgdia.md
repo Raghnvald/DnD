@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/bgdia
-  - Monster/HG/5
-  - Monster/Größe/Groß
-  - Monster/Typ/Unhold
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Hellwasp
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/5
+  - Monster/Typ/Unhold
+  - Quelle/5e/bgdia
 aliases:
   - Hellwasp
 ---

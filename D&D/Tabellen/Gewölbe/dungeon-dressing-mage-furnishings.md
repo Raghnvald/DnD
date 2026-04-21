@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Dungeon Dressing; Mage Furnishings
 tags:
   - Quelle/5e/dmg
 aliases:

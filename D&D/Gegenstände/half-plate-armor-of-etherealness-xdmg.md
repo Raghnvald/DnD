@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Half Plate Armor of Etherealness
 Rüstung: Mittel
 tags:

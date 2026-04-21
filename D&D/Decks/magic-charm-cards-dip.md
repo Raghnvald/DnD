@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-deck
+Bezeichnung: Magic Charm Cards
 tags:
   - Quelle/5e/dip
 aliases:

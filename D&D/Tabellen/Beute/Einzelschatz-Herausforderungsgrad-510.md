@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Individual Treasure: Challenge 5—10"
 tags:
   - Quelle/5e/dmg
 aliases:

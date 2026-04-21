@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: The Blood War
 tags:
   - Quelle/5e/mtf
 aliases:

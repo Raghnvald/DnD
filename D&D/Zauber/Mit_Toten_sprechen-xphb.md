@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Speak with Dead
 tags:
   - Klasse/Barde

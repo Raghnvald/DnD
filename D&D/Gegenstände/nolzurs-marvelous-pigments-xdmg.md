@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: "Nolzur's Marvelous Pigments"
 tags:
   - Gegenstand/Seltenheit/sehr_selten

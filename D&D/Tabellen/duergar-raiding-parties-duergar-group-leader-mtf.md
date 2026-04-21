@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Duergar Raiding Parties; Duergar Group Leader
 tags:
   - Quelle/5e/mtf
 aliases:

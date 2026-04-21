@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Call Lightning
+Bezeichnung: Blitze herbeirufen
 Zaubergrad: 3
 Zeitaufwand: 1 Aktion
 Reichweite: 36 Meter

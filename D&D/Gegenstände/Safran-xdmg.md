@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Saffron
 tags:
   - Gegenstand/Ausrüstung/Handelsgut

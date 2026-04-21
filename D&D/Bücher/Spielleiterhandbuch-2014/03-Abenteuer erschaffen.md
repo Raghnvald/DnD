@@ -1,5 +1,7 @@
 ---
-tags: [Quelle/5e/dmg]
+Bezeichnung: "Kapitel 3: Abenteuer erschaffen"
+tags:
+  - Quelle/5e/dmg
 ---
 # Kapitel 3: Abenteuer erschaffen
 

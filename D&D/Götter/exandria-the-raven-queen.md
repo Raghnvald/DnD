@@ -1,11 +1,10 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: The Raven Queen
 tags:
-  - Quelle/5e/egw
-  - Kompendium/Götter/exandria
   - Kompendium/Götter/Domäne/death
   - Kompendium/Götter/Domäne/grave
+  - Kompendium/Götter/exandria
+  - Quelle/5e/egw
 aliases:
   - The Raven Queen
 ---

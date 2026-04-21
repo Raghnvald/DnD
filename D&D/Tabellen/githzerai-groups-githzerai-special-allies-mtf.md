@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Githzerai Groups; Githzerai Special Allies
 tags:
   - Quelle/5e/mtf
 aliases:

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Food and Water Needs
 tags:
   - Quelle/5e/dmg
 aliases:

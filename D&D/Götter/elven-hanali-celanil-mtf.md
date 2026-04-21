@@ -1,10 +1,9 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Hanali Celanil
 tags:
-  - Quelle/5e/mtf
-  - Kompendium/Götter/elven
   - Kompendium/Götter/Domäne/life
+  - Kompendium/Götter/elven
+  - Quelle/5e/mtf
 aliases:
   - Hanali Celanil
 ---

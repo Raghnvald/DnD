@@ -1,7 +1,6 @@
 ---
+Bezeichnung: Gravity Fissure
 Zaubergrad: 6
-cssclasses:
-  - json5e-spell
 tags:
   - Quelle/5e/egw
   - Zauber/Grad/6
@@ -11,7 +10,6 @@ aliases:
 ---
 # Gravity Fissure
 *6th-level, Evocation*  
-
 
 - **Casting time:** 1 Action
 - **Range:** Self (100-foot Line)

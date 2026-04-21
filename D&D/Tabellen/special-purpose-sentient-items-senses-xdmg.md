@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Special Purpose; Sentient Item's Senses"
 tags:
   - Quelle/5e/xdmg
 aliases:

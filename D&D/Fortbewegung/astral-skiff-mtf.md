@@ -1,11 +1,10 @@
 ---
-cssclasses:
-  - json5e-vehicle
+Bezeichnung: Astral Skiff
 tags:
-  - Quelle/5e/mtf
   - Gegenstand/Fortbewegung/size/huge
   - Gegenstand/Fortbewegung/terrain/air
   - Gegenstand/Fortbewegung/type/ship
+  - Quelle/5e/mtf
 aliases:
   - Astral Skiff
 ---

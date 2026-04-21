@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Random Traps; Trap Trigger
 tags:
   - Quelle/5e/dmg
 aliases:

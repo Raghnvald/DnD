@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-feat
+Bezeichnung: Repelling Blast
 tags:
-  - Quelle/5e/phb
   - Kompendium/Optionales/ei
+  - Quelle/5e/phb
 aliases:
   - Repelling Blast
 ---

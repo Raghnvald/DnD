@@ -1,11 +1,10 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Cyrrollalee
 tags:
-  - Quelle/5e/mtf
-  - Kompendium/Götter/halfling
   - Kompendium/Götter/Domäne/life
   - Kompendium/Götter/Domäne/peace
+  - Kompendium/Götter/halfling
+  - Quelle/5e/mtf
 aliases:
   - Cyrrollalee
 ---

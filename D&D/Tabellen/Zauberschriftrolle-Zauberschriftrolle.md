@@ -1,8 +1,9 @@
 ---
+Bezeichnung: Zauberschriftrolle; Zauberschriftrolle
 tags:
-- Quelle/5e/dmg
+  - Quelle/5e/dmg
 aliases:
-- Spell Scrolls; Spell Scroll
+  - Spell Scrolls; Spell Scroll
 ---
 # Zauberschriftrolle; Zauberschriftrolle
 *Quelle: SRD / Grundregelwerk*

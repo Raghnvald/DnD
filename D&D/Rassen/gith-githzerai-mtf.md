@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-race
+Bezeichnung: Gith (Githzerai)
 tags:
   - Quelle/5e/mtf
   - Rasse/gith/githzerai
@@ -9,7 +8,6 @@ aliases:
 ---
 # Gith (Githzerai)
 *Source: Mordenkainen's Tome of Foes p. 96*  
-
 
 - **Ability Scores**: wis +2
 - **Size**: Medium

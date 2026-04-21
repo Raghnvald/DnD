@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-race
+Bezeichnung: Orc
 tags:
   - Quelle/5e/vgm
   - Rasse/orc

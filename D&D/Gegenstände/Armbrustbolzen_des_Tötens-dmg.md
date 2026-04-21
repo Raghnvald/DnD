@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Armbrustbolzen des Tötens
+Bezeichnung: Crossbow Bolt of Slaying
 Kategorie: Munition
 tags:
   - Gegenstand/Ausrüstung/ammunition

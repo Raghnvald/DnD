@@ -1,13 +1,11 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Elemental Weapon
 tags:
+  - Klasse/Artifizient
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
   - Klasse/Druide
   - Klasse/Kleriker/forge-domain
-  - Klasse/Artifizient
   - Klasse/paladin
   - Klasse/Waldläufer
   - Quelle/5e/xphb

@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/bgg
-  - Monster/HG/12
-  - Monster/Größe/Riesig
-  - Monster/Typ/Riese
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Fomorian Warlock of the Dark
+tags:
+  - Monster/Größe/Riesig
+  - Monster/HG/12
+  - Monster/Typ/Riese
+  - Quelle/5e/bgg
 aliases:
   - Fomorian Warlock of the Dark
 ---

@@ -1,8 +1,8 @@
 ---
+Bezeichnung: Schauspieler
 tags:
-- Quelle/5e/phb
-aliases:
-- 
+  - Quelle/5e/phb
+aliases: []
 ---
 # Schauspieler
 Da du geübt in Nachahmung und Darstellung bist, erhältst du die folgenden Vorzüge:

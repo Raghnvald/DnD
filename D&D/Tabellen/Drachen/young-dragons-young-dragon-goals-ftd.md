@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Young Dragons; Young Dragon Goals
 tags:
   - Quelle/5e/ftd
 aliases:

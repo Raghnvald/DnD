@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Dissonant Whispers
 tags:
   - Klasse/Barde

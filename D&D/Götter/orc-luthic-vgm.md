@@ -1,11 +1,10 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Luthic
 tags:
-  - Quelle/5e/vgm
-  - Kompendium/Götter/orc
   - Kompendium/Götter/Domäne/life
   - Kompendium/Götter/Domäne/nature
+  - Kompendium/Götter/orc
+  - Quelle/5e/vgm
 aliases:
   - Luthic
 ---

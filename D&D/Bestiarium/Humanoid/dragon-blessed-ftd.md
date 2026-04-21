@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/ftd
-  - Monster/HG/5
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Dragon Blessed
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/5
+  - Monster/Typ/Humanoid
+  - Quelle/5e/ftd
 aliases:
   - Dragon Blessed
 ---

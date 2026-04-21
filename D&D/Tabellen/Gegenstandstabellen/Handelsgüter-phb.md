@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Trade Goods
 tags:
   - Quelle/5e/phb
 aliases:

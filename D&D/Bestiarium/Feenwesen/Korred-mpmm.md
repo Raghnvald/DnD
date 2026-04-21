@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mpmm
-  - Monster/HG/7
-  - Monster/Habitat/Wald
-  - Monster/Größe/Klein
-  - Monster/Typ/Fee
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Korred
+tags:
+  - Monster/Größe/Klein
+  - Monster/Habitat/Wald
+  - Monster/HG/7
+  - Monster/Typ/Fee
+  - Quelle/5e/mpmm
 aliases:
   - Korred
 ---

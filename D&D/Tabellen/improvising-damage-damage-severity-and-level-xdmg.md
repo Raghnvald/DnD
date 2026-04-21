@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Improvising Damage; Damage Severity and Level
 tags:
   - Quelle/5e/xdmg
 aliases:

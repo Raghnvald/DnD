@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-class
+Bezeichnung: Wild Magic Sorcery
 tags:
-  - Quelle/5e/xphb
   - Klasse/Zauberer/wild-magic
+  - Quelle/5e/xphb
 aliases:
   - Wild Magic Sorcery
 ---
@@ -41,7 +40,6 @@ aliases:
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 

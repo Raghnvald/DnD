@@ -1,15 +1,14 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/13
-  - Monster/Habitat/abyss
-  - Monster/Habitat/planar
-  - Monster/Größe/Groß
-  - Monster/Typ/Unhold/demon
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Nalfeshnee
+tags:
+  - Monster/Größe/Groß
+  - Monster/Habitat/abyss
+  - Monster/Habitat/planar
+  - Monster/HG/13
+  - Monster/Typ/Unhold/demon
+  - Quelle/5e/xmm
 aliases:
   - Nalfeshnee
 ---
@@ -30,7 +29,6 @@ Many nalfeshnees view themselves as prospective demon lords and seek to conquer 
 > [!quote] A quote from Mordenkainen  
 > 
 > The Blood War—that ageless clash between devils and demons—helps ensure the balance of the multiverse. At times it makes unlikely allies, but never delude yourself into believing there's a lesser of two evil. I won't be thanking a demon for every day I'm spared a devil's lash.
-
 
 ```statblock
 "name": "Nalfeshnee (XMM)"

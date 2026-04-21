@@ -1,17 +1,16 @@
 ---
+Bezeichnung: Watery Sphere
 Zaubergrad: 4
-cssclasses:
-  - json5e-spell
 tags:
-  - Quelle/5e/xge
   - Klasse/Barde
   - Klasse/Druide
-  - Klasse/Zauberer
   - Klasse/Magier
-  - Zauber/Grad/4
-  - Zauber/Schule/Beschwörung
+  - Klasse/Zauberer
+  - Quelle/5e/xge
   - Subklasse/Arkaner-Betrüger
   - Subklasse/Mystischer-Ritter
+  - Zauber/Grad/4
+  - Zauber/Schule/Beschwörung
 classes:
   - Bard
   - Druid
@@ -24,7 +23,6 @@ aliases:
 ---
 # Watery Sphere
 *4th-level, Conjuration*  
-
 
 - **Casting time:** 1 Action
 - **Range:** 90 feet

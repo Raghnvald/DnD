@@ -1,10 +1,10 @@
 ---
-Bezeichnung: Basiseinrichtung erweitern
+Bezeichnung: Basiseinrichtungen erweitern
 Kategorie: Bastion
 tags:
-- Quelle/5e/xdmg
+  - Quelle/5e/xdmg
 aliases:
-- Enlarging Basic Facilities
+  - Enlarging Basic Facilities
 ---
 # Basiseinrichtungen erweitern
 *Quelle: Spielleiterhandbuch (2024), S. 335* 

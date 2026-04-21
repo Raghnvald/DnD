@@ -1,11 +1,10 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: The Traveler
 tags:
-  - Quelle/5e/egw
-  - Kompendium/Götter/exandria
   - Kompendium/Götter/Domäne/nature
   - Kompendium/Götter/Domäne/trickery
+  - Kompendium/Götter/exandria
+  - Quelle/5e/egw
 aliases:
   - The Traveler
 ---

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Roleplaying a Giant; Giant Personality Traits
 tags:
   - Quelle/5e/vgm
 aliases:

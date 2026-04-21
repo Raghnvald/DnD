@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-hazard
+Bezeichnung: Sphere of Annihilation
 tags:
-  - Quelle/5e/dmg
   - Kompendium/Bedrohung/mag
+  - Quelle/5e/dmg
 aliases:
   - Sphere of Annihilation
 ---

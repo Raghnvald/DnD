@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Bring It to an End; Adventure Climax
 tags:
   - Quelle/5e/xdmg
 aliases:

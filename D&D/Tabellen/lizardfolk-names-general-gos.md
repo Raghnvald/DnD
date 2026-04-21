@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Lizardfolk Names – General
 tags:
   - Quelle/5e/gos
 aliases:

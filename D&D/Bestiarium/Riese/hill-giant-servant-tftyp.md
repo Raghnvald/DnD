@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/tftyp
-  - Monster/HG/2
-  - Monster/Größe/Groß
-  - Monster/Typ/Riese
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Hill Giant Servant
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/2
+  - Monster/Typ/Riese
+  - Quelle/5e/tftyp
 aliases:
   - Hill Giant Servant
 ---

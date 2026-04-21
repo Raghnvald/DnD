@@ -1,4 +1,5 @@
 ---
+Bezeichnung: Platzhalter für Abschnitt Objekte
 tags: []
 ---
 # Platzhalter für Abschnitt Objekte

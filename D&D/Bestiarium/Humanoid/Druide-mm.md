@@ -1,22 +1,21 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mm
-  - Monster/HG/2
-  - Monster/Habitat/Arktis
-  - Monster/Habitat/Küste
-  - Monster/Habitat/Wüste
-  - Monster/Habitat/Wald
-  - Monster/Habitat/Grasland
-  - Monster/Habitat/Hügel
-  - Monster/Habitat/Berg
-  - Monster/Habitat/Sumpf
-  - Monster/Habitat/Unterreich
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/any-race
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Druid
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Arktis
+  - Monster/Habitat/Berg
+  - Monster/Habitat/Grasland
+  - Monster/Habitat/Hügel
+  - Monster/Habitat/Küste
+  - Monster/Habitat/Sumpf
+  - Monster/Habitat/Unterreich
+  - Monster/Habitat/Wald
+  - Monster/Habitat/Wüste
+  - Monster/HG/2
+  - Monster/Typ/Humanoid/any-race
+  - Quelle/5e/mm
 aliases:
   - Druid
 ---

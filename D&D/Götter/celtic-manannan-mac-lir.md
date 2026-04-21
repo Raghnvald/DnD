@@ -1,11 +1,10 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Manannan mac Lir
 tags:
-  - Quelle/5e/phb
   - Kompendium/Götter/celtic
   - Kompendium/Götter/Domäne/nature
   - Kompendium/Götter/Domäne/tempest
+  - Quelle/5e/phb
 aliases:
   - Manannan mac Lir
 ---

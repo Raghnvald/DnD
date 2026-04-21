@@ -1,16 +1,15 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mpmm
-  - Monster/HG/1
-  - Monster/Habitat/Hügel
-  - Monster/Habitat/Berg
-  - Monster/Habitat/Unterreich
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Elementar
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Firenewt Warlock of Imix
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Berg
+  - Monster/Habitat/Hügel
+  - Monster/Habitat/Unterreich
+  - Monster/HG/1
+  - Monster/Typ/Elementar
+  - Quelle/5e/mpmm
 aliases:
   - Firenewt Warlock of Imix
 ---

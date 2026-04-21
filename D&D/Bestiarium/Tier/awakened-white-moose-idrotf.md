@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/idrotf
-  - Monster/HG/3
-  - Monster/Größe/Groß
-  - Monster/Typ/Tier
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Awakened White Moose
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/3
+  - Monster/Typ/Tier
+  - Quelle/5e/idrotf
 aliases:
   - Awakened White Moose
 ---

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Shadow Dragon Adventures; Shadow Dragon Adventure Hooks
 tags:
   - Quelle/5e/ftd
 aliases:

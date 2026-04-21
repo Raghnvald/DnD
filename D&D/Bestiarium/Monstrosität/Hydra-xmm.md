@@ -1,15 +1,14 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/8
-  - Monster/Habitat/Küste
-  - Monster/Habitat/Sumpf
-  - Monster/Größe/Riesig
-  - Monster/Typ/Monstrosität
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Hydra
+tags:
+  - Monster/Größe/Riesig
+  - Monster/Habitat/Küste
+  - Monster/Habitat/Sumpf
+  - Monster/HG/8
+  - Monster/Typ/Monstrosität
+  - Quelle/5e/xmm
 aliases:
   - Hydra
 ---

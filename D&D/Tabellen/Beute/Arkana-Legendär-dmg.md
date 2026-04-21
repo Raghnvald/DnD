@@ -1,4 +1,5 @@
 ---
+Bezeichnung: Arcana - Legendary
 tags:
   - Quelle/5e/xdmg
 aliases:

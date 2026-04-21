@@ -1,5 +1,5 @@
 ---
-cssclasses: json5e-note
+Bezeichnung: "Appendix B: Council Scorecard"
 tags:
   - Quelle/5e/rot
 aliases:

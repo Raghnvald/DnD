@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/tdcsr
-  - Monster/HG/27
-  - Monster/Größe/Gigantisch
-  - Monster/Typ/Konstrukt
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Forge Guardian
+tags:
+  - Monster/Größe/Gigantisch
+  - Monster/HG/27
+  - Monster/Typ/Konstrukt
+  - Quelle/5e/tdcsr
 aliases:
   - Forge Guardian
 ---

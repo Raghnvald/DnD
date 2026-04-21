@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-reward
+Bezeichnung: Scaled Toughness
 tags:
-  - Quelle/5e/ftd
   - Kompendium/Belohnung/draconic-gift
+  - Quelle/5e/ftd
 aliases:
   - Scaled Toughness
 ---

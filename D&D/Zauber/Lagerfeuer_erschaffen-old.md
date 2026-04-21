@@ -9,10 +9,10 @@ Schaden: 1d8 Feuer
 status:
   - completed
 tags:
+  - Klasse/Artifizient
   - Klasse/Druide
   - Klasse/Hexenmeister
   - Klasse/Magier
-  - Klasse/Artifizient
   - Klasse/Zauberer
   - Quelle/5e/xge
   - Zauber/Grad/0

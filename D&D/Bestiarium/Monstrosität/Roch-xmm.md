@@ -1,18 +1,17 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/11
-  - Monster/Habitat/Arktis
-  - Monster/Habitat/Küste
-  - Monster/Habitat/Wüste
-  - Monster/Habitat/Hügel
-  - Monster/Habitat/Berg
-  - Monster/Größe/Gigantisch
-  - Monster/Typ/Monstrosität
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Roc
+tags:
+  - Monster/Größe/Gigantisch
+  - Monster/Habitat/Arktis
+  - Monster/Habitat/Berg
+  - Monster/Habitat/Hügel
+  - Monster/Habitat/Küste
+  - Monster/Habitat/Wüste
+  - Monster/HG/11
+  - Monster/Typ/Monstrosität
+  - Quelle/5e/xmm
 aliases:
   - Roc
 ---

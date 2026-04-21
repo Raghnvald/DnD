@@ -1,12 +1,11 @@
 ---
-cssclasses:
-  - json5e-feat
+Bezeichnung: Dueling
 tags:
-  - Quelle/5e/phb
   - Kompendium/Optionales/fs-b
   - Kompendium/Optionales/fs-f
   - Kompendium/Optionales/fs-p
   - Kompendium/Optionales/fs-r
+  - Quelle/5e/phb
 aliases:
   - Dueling
 ---

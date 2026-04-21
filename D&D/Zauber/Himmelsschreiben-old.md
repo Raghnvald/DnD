@@ -7,10 +7,10 @@ Wirkungsdauer: K, <1 Stunde
 Angriff: n/v
 Schaden: Kommunikation
 tags:
+  - Klasse/Artifizient
   - Klasse/Barde
   - Klasse/Druide
   - Klasse/Magier
-  - Klasse/Artifizient
   - Quelle/5e/xge
   - Zauber/Grad/2
   - Zauber/Original/Skywrite

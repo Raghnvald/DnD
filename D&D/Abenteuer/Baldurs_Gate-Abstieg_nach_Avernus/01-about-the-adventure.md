@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: About the Adventure
 tags:
   - Quelle/5e/bgdia
 aliases:

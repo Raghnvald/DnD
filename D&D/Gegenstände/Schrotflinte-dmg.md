@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Schrotflinte
+Bezeichnung: Shotgun
 Kategorie: Fernkampf-Kriegswaffe
 tags:
   - Gegenstand/Seltenheit/keine

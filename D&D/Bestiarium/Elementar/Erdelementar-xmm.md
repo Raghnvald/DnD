@@ -1,17 +1,16 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/5
-  - Monster/Habitat/earth
-  - Monster/Habitat/Berg
-  - Monster/Habitat/planar
-  - Monster/Habitat/Unterreich
-  - Monster/Größe/Groß
-  - Monster/Typ/Elementar
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Earth Elemental
+tags:
+  - Monster/Größe/Groß
+  - Monster/Habitat/Berg
+  - Monster/Habitat/earth
+  - Monster/Habitat/planar
+  - Monster/Habitat/Unterreich
+  - Monster/HG/5
+  - Monster/Typ/Elementar
+  - Quelle/5e/xmm
 aliases:
   - Earth Elemental
 ---
@@ -46,7 +45,6 @@ Earth elementals are typically made of more than dirt. While an elemental's comp
 > [!quote] A quote from Kabril the Perfect Compass, Ruler of Dao  
 > 
 > The foundations of our homes, the strength of our weapons, the vaults of our greatest secrets—earth is nothing less than the grip of reality itself. It is the mightiest element. This cannot be denied.
-
 
 ```statblock
 "name": "Earth Elemental (XMM)"

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Githzerai Groups; Githzerai Group Leader
 tags:
   - Quelle/5e/mtf
 aliases:

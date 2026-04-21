@@ -1,4 +1,5 @@
 ---
+Bezeichnung: "Kapitel 8: Bastionen"
 tags:
   - Quelle/5e/xdmg
 aliases:

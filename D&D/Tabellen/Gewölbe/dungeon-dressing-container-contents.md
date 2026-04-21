@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Dungeon Dressing; Container Contents
 tags:
   - Quelle/5e/dmg
 aliases:

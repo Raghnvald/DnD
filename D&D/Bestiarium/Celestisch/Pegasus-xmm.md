@@ -1,18 +1,17 @@
 ---
-cssclasses:
-  - json5e-monster
+statblock: inline
+statblock-link: "#^statblock"
+Bezeichnung: Pegasus
 tags:
-  - Quelle/5e/xmm
-  - Monster/HG/2
-  - Monster/Habitat/Wald
+  - Monster/Größe/Groß
   - Monster/Habitat/Grasland
   - Monster/Habitat/Hügel
   - Monster/Habitat/planar
   - Monster/Habitat/upper
-  - Monster/Größe/Groß
+  - Monster/Habitat/Wald
+  - Monster/HG/2
   - Monster/Typ/Himmlische
-statblock: inline
-statblock-link: "#^statblock"
+  - Quelle/5e/xmm
 aliases:
   - Pegasus
 ---
@@ -43,7 +42,6 @@ Pegasi are hunted by servants of evil, leading many of these winged steeds to fl
 > [!quote] A quote from Yolande, Queen of Celene  
 > 
 > Pegasi are the cherished steeds of our creator, Corellon. To see one is a blessing, but to ride one proves nothing less than the love of the gods.
-
 
 ```statblock
 "name": "Pegasus (XMM)"

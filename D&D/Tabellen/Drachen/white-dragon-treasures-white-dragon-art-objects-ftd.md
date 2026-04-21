@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: White Dragon Treasures; White Dragon Art Objects
 tags:
   - Quelle/5e/ftd
 aliases:

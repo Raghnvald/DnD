@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Downtime Activity: Gaining Renown"
 tags:
   - Quelle/5e/dmg
 aliases:

@@ -1,11 +1,10 @@
 ---
-cssclasses:
-  - json5e-vehicle
+Bezeichnung: Warship
 tags:
-  - Quelle/5e/gos
   - Gegenstand/Fortbewegung/size/gargantuan
   - Gegenstand/Fortbewegung/terrain/sea
   - Gegenstand/Fortbewegung/type/ship
+  - Quelle/5e/gos
 aliases:
   - Warship
 ---

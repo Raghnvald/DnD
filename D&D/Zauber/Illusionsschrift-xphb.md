@@ -17,8 +17,8 @@ tags:
   - Kompendium/Talent/ritual-caster
   - Kompendium/Talent/shadow-touched
   - Quelle/5e/xphb
-  - Subklasse/Mystischer-Ritter
   - Subklasse/illusionist
+  - Subklasse/Mystischer-Ritter
   - Zauber/Grad/1
   - Zauber/optfeature/book-of-ancient-secrets
   - Zauber/optfeature/pact-of-the-tome

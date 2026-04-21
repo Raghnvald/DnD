@@ -1,16 +1,15 @@
 ---
-cssclasses:
-  - json5e-monster
+statblock: inline
+statblock-link: "#^statblock"
+Bezeichnung: Salamander Fire Snake
 tags:
-  - Quelle/5e/xmm
-  - Monster/HG/1
+  - Monster/Größe/Mittelgroß
   - Monster/Habitat/fire
   - Monster/Habitat/planar
   - Monster/Habitat/Unterreich
-  - Monster/Größe/Mittelgroß
+  - Monster/HG/1
   - Monster/Typ/Elementar
-statblock: inline
-statblock-link: "#^statblock"
+  - Quelle/5e/xmm
 aliases:
   - Salamander Fire Snake
 ---
@@ -33,7 +32,6 @@ Salamanders are typically content to dwell on the Elemental Plane of Fire, creat
 > [!quote] A quote from Filiag Highthumbs  
 > 
 > The salamanders of the Elemental Plane of Fire delight in meeting visitors from other realms. For them, every stranger is a potential addition to their fiery artistry. Don't fall for their flattery, no matter how beautifully they say you'll burn.
-
 
 ```statblock
 "name": "Salamander Fire Snake (XMM)"

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Solution; Potential Passwords
 tags:
   - Quelle/5e/tce
 aliases:

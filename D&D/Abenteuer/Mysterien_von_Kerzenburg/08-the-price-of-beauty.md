@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: The Price of Beauty
 tags:
   - Quelle/5e/cm
 aliases:

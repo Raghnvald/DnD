@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Hunter's Coat-egw
+Bezeichnung: "Hunter's Coat"
 Kategorie: Rüstung
 Rüstung: Leicht
 Eigenschaften: /

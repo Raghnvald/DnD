@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Star rose quartz
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone

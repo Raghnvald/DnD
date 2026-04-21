@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-feat
+Bezeichnung: Mask of Many Faces
 tags:
-  - Quelle/5e/xphb
   - Kompendium/Optionales/ei
+  - Quelle/5e/xphb
 aliases:
   - Mask of Many Faces
 ---

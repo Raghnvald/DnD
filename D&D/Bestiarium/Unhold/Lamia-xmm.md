@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/4
-  - Monster/Habitat/Wüste
-  - Monster/Größe/Groß
-  - Monster/Typ/Unhold
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Lamia
+tags:
+  - Monster/Größe/Groß
+  - Monster/Habitat/Wüste
+  - Monster/HG/4
+  - Monster/Typ/Unhold
+  - Quelle/5e/xmm
 aliases:
   - Lamia
 ---

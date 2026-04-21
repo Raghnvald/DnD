@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Stage Two: Outbreak; Stage Two Encounters"
 tags:
   - Quelle/5e/vrgr
 aliases:

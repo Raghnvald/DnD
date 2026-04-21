@@ -1,7 +1,8 @@
 ---
+Bezeichnung: Fiend Patron
 tags:
-  - Quelle/5e/xphb
   - Klasse/Hexenmeister/fiend
+  - Quelle/5e/xphb
 aliases:
   - Fiend Patron
 ---
@@ -39,7 +40,6 @@ aliases:
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 

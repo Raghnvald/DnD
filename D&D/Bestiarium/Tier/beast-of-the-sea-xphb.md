@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xphb
-  - Monster/HG/
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Tier
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Beast of the Sea
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/
+  - Monster/Typ/Tier
+  - Quelle/5e/xphb
 aliases:
   - Beast of the Sea
 ---

@@ -1,3 +1,7 @@
+---
+Bezeichnung: DND Formatierung
+---
+# DND Formatierung
 ## Attributsfarben
 
 ### Stärke
@@ -145,7 +149,6 @@ party: Default
 creatures:
   - 1: Young blue Dragon
 ```
-
 
 ### Schaden pro Runde
 1d4: 2,5

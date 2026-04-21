@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Tower of Storms
 tags:
   - Quelle/5e/dip
 aliases:

@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-feat
+Bezeichnung: War Caster
 tags:
-  - Quelle/5e/xphb
   - Kompendium/Talent
+  - Quelle/5e/xphb
 aliases:
   - War Caster
 ---

@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Grimoire Infinitus (Awakened)
 tags:
   - Gegenstand/Einstimmung/required

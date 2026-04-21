@@ -1,8 +1,9 @@
 ---
+Bezeichnung: "Chapter 5: Giant Treasures"
 tags:
-- Quelle/5e/bgg
+  - Quelle/5e/bgg
 aliases:
-- Chapter 5: Giant Treasures
+  - Chapter 5: Giant Treasures
 ---
 # Chapter 5: Giant Treasures
 *Source: Bigby Presents: Glory of the Giants, p. 105* 

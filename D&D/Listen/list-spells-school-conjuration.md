@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Conjuration Spells
 tags:
   - Zauber/list/school/conjuration
 aliases:

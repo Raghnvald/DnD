@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-race
+Bezeichnung: Dragonborn (Gem)
 tags:
   - Quelle/5e/ftd
   - Rasse/dragonborn/gem

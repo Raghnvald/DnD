@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Supplemental Tables; Cause of Death
 tags:
   - Quelle/5e/xge
 aliases:

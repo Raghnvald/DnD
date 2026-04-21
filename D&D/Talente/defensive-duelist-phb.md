@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-feat
+Bezeichnung: Defensive Duelist
 tags:
-  - Quelle/5e/phb
   - Kompendium/Talent
+  - Quelle/5e/phb
 aliases:
   - Defensive Duelist
 ---

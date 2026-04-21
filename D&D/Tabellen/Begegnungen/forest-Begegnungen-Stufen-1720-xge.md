@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Forest Encounters (Levels 17—20)
 tags:
   - Quelle/5e/xge
 aliases:

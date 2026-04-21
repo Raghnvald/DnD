@@ -1,17 +1,16 @@
 ---
+Bezeichnung: Freedom of the Waves
 Zaubergrad: 3
-cssclasses:
-  - json5e-spell
 tags:
-  - Quelle/5e/tdcsr
   - Klasse/Barde
   - Klasse/Druide
   - Klasse/Waldläufer
   - Klasse/Zauberer
-  - Zauber/Grad/3
-  - Zauber/Schule/Beschwörung
+  - Quelle/5e/tdcsr
   - Subklasse/college-of-lore
   - Subklasse/oath-of-the-open-sea
+  - Zauber/Grad/3
+  - Zauber/Schule/Beschwörung
 classes:
   - Bard
   - Bard (College of Lore)
@@ -24,7 +23,6 @@ aliases:
 ---
 # Freedom of the Waves
 *3rd-level, Conjuration*  
-
 
 - **Casting time:** 1 Action
 - **Range:** 120 feet

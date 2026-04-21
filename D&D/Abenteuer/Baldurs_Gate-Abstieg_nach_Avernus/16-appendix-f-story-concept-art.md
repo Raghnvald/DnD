@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Appendix F: Story Concept Art"
 tags:
   - Quelle/5e/bgdia
 aliases:

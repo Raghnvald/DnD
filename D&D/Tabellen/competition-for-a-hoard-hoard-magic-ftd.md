@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Competition for a Hoard; Hoard Magic
 tags:
   - Quelle/5e/ftd
 aliases:

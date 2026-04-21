@@ -1,12 +1,12 @@
 ---
-cssclasses: json5e-deity
+Bezeichnung: Shar, Göttin der Dunkelheit und des Verlustes
 tags:
-  - Quelle/5e/phb
   - Kompendium/Götter
+  - Kompendium/Götter/Domäne/List
+  - Kompendium/Götter/Domäne/Tod
   - Kompendium/Götter/Gesinnung/Neutral_Böse
   - Kompendium/Götter/Pantheon/Faerun
-  - Kompendium/Götter/Domäne/Tod
-  - Kompendium/Götter/Domäne/List
+  - Quelle/5e/phb
 aliases:
   - Shar
 ---

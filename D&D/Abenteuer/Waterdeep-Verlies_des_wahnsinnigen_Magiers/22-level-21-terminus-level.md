@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Level 21: Terminus Level"
 tags:
   - Quelle/5e/wdmm
 aliases:

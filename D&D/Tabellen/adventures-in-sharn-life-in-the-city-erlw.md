@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Adventures in Sharn; Life in the City
 tags:
   - Quelle/5e/erlw
 aliases:

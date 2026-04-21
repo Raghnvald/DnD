@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Control Weather
 Zaubergrad: 8
 tags:

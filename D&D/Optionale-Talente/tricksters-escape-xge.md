@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-feat
+Bezeichnung: "Trickster's Escape"
 tags:
-  - Quelle/5e/xge
   - Kompendium/Optionales/ei
+  - Quelle/5e/xge
 aliases:
   - Trickster's Escape
 ---

@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-class
+Bezeichnung: The Fiend
 tags:
-  - Quelle/5e/phb
   - Klasse/Hexenmeister/fiend
+  - Quelle/5e/phb
 aliases:
   - The Fiend
 ---
@@ -41,7 +40,6 @@ aliases:
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 

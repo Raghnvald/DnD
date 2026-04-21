@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/tftyp
-  - Monster/HG/4
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/human
-  - Monster/Typ/Humanoid/shapechanger
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Werejaguar
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/4
+  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/shapechanger
+  - Quelle/5e/tftyp
 aliases:
   - Werejaguar
 ---

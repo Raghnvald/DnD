@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Blue Dragon Adventures; Blue Dragon Adventure Hooks
 tags:
   - Quelle/5e/ftd
 aliases:

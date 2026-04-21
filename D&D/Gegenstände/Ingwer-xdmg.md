@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Ginger
 tags:
   - Gegenstand/Ausrüstung/Handelsgut

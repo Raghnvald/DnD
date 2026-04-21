@@ -1,15 +1,14 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/vgm
-  - Monster/HG/1
-  - Monster/Habitat/Wald
-  - Monster/Habitat/Sumpf
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Pflanze
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Thorny
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Sumpf
+  - Monster/Habitat/Wald
+  - Monster/HG/1
+  - Monster/Typ/Pflanze
+  - Quelle/5e/vgm
 aliases:
   - Thorny
 ---

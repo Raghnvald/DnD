@@ -1,8 +1,9 @@
 ---
+Bezeichnung: Eltern eines Tieflings
 tags:
-- Quelle/5e/xge
+  - Quelle/5e/xge
 aliases:
-- Tiefling Parents
+  - Tiefling Parents
 ---
 # Eltern eines Tieflings
 *Quellen: Xanathars Ratgeber für Alles S. 62* 

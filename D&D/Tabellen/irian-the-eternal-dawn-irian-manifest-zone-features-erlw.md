@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Irian, the Eternal Dawn; Irian Manifest Zone Features
 tags:
   - Quelle/5e/erlw
 aliases:

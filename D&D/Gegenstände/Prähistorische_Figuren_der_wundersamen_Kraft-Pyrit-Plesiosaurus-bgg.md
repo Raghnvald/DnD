@@ -1,7 +1,9 @@
 ---
 Bezeichnung: Prehistoric Figurine of Wondrous Power, Pyrite Plesiosaurus
+Kategorie: Wundersamer Gegenstand 
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
+  - Gegenstand/wundersam
   - Quelle/5e/bgg
 aliases:
   - "Prehistoric Figurine of Wondrous Power, Pyrite Plesiosaurus"

@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: True Polymorph
 Zaubergrad: 9
 tags:

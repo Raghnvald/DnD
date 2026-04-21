@@ -1,11 +1,10 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Keptolo
 tags:
-  - Quelle/5e/mtf
-  - Kompendium/Götter/drow
   - Kompendium/Götter/Domäne/nature
   - Kompendium/Götter/Domäne/trickery
+  - Kompendium/Götter/drow
+  - Quelle/5e/mtf
 aliases:
   - Keptolo
 ---

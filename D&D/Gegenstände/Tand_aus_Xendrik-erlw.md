@@ -1,14 +1,11 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Tand aus Xen'drik
+Bezeichnung: "Xen'drik Trinket"
 Kategorie: Abenteuerausrüstung
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/erlw
 aliases:
-  - Xen'drik Trinket
   - Xen'drik Trinket
 linter-yaml-title-alias: Xen'drik Trinket
 ---

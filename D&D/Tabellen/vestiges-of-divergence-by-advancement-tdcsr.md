@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Vestiges of Divergence by Advancement
 tags:
   - Quelle/5e/tdcsr
 aliases:

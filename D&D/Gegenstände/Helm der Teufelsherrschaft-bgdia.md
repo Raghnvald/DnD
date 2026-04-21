@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Helm of Devil Command
 tags:
   - Gegenstand/Einstimmung/required

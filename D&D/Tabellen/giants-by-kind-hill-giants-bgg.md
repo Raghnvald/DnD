@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Giants by Kind; Hill Giants
 tags:
   - Quelle/5e/bgg
 aliases:

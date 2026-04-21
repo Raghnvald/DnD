@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Black Dragon Treasures; Black Dragon Art Objects
 tags:
   - Quelle/5e/ftd
 aliases:

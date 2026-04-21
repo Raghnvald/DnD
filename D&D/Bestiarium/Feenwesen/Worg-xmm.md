@@ -1,18 +1,17 @@
 ---
-cssclasses:
-  - json5e-monster
+statblock: inline
+statblock-link: "#^statblock"
+Bezeichnung: Worg
 tags:
-  - Quelle/5e/xmm
-  - Monster/HG/1-2
+  - Monster/Größe/Groß
   - Monster/Habitat/feywild
-  - Monster/Habitat/Wald
   - Monster/Habitat/Grasland
   - Monster/Habitat/Hügel
   - Monster/Habitat/planar
-  - Monster/Größe/Groß
+  - Monster/Habitat/Wald
+  - Monster/HG/1-2
   - Monster/Typ/Fee
-statblock: inline
-statblock-link: "#^statblock"
+  - Quelle/5e/xmm
 aliases:
   - Worg
 ---

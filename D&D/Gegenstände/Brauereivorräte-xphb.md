@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Brewer's Supplies
+Bezeichnung: "Brewer's Supplies"
 tags:
   - Gegenstand/Ausrüstung/Werkzeug
   - Gegenstand/Seltenheit/keine

@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Shield Guardian Amulet
 tags:
   - Gegenstand/Einstimmung/required

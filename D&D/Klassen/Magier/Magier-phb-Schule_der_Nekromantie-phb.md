@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-class
+Bezeichnung: School of Necromancy
 tags:
-  - Quelle/5e/phb
   - Klasse/Magier/necromancy
+  - Quelle/5e/phb
 aliases:
   - School of Necromancy
 ---
@@ -41,7 +40,6 @@ aliases:
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 

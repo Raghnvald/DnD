@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Shades of Evil; Morally Ambiguous Villains
 tags:
   - Quelle/5e/erlw
 aliases:

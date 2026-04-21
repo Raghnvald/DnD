@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/ftd
-  - Monster/HG/1-8
-  - Monster/Größe/Winzig
-  - Monster/Typ/Monstrosität
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Hoard Scarab
+tags:
+  - Monster/Größe/Winzig
+  - Monster/HG/1-8
+  - Monster/Typ/Monstrosität
+  - Quelle/5e/ftd
 aliases:
   - Hoard Scarab
 ---

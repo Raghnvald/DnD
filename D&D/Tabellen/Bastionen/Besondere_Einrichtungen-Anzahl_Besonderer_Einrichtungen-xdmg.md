@@ -1,10 +1,10 @@
 ---
-Bezeichnung: Besondere Einrichtungen - Anzahl
+Bezeichnung: "Besondere Einrichtungen: Anzahl Besonderer Einrichtungen"
 Kategorie: Bastion
 tags:
-- Quelle/5e/xdmg
+  - Quelle/5e/xdmg
 aliases:
-- Special Facilities; Special Facility Acquisition
+  - Special Facilities; Special Facility Acquisition
 ---
 # Besondere Einrichtungen: Anzahl Besonderer Einrichtungen
 *Quelle: Spielleiterhandbuch (2024), S. 335* 

@@ -1,8 +1,9 @@
 ---
-Bezeichnung: Leichte Armrbrust
+Bezeichnung: Leichte Armbrust
 Kategorie: Einfache Fernkampfwaffe
 Schaden: 1W8 Stich
 Eigenschaften: Geschosse, Laden, Zweihändig
+Einstimmung: /
 Kst.: 25 GM
 Gew.: 2,5 kg.
 tags:
@@ -13,7 +14,6 @@ tags:
 aliases:
   - Light Crossbow
 linter-yaml-title-alias: Light Crossbow
-Einstimmung: /
 ---
 # Leichte Armbrust
 *Waffe*  

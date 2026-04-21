@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-background
+Bezeichnung: Orzhov Representative
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/ggr
@@ -9,7 +8,6 @@ aliases:
 ---
 # Orzhov Representative
 *Source: Guildmasters' Guide to Ravnica p. 72*  
-
 
 - **Skill Proficiencies.** Intimidation, Religion  
 - **Languages.** Two of your choice  

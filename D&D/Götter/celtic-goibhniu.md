@@ -1,12 +1,11 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Goibhniu
 tags:
-  - Quelle/5e/phb
   - Kompendium/Götter/celtic
   - Kompendium/Götter/Domäne/forge
   - Kompendium/Götter/Domäne/knowledge
   - Kompendium/Götter/Domäne/life
+  - Quelle/5e/phb
 aliases:
   - Goibhniu
 ---

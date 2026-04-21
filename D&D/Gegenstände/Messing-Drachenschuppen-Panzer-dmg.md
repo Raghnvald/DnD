@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Brass Dragon Scale Mail
 Rüstung: Mittel
 tags:

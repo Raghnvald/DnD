@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Mind Crystal (Careful)
+Kategorie: Wundersamer Gegenstand
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/pabtso

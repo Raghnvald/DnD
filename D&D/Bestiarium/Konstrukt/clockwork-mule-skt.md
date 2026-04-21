@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/skt
-  - Monster/HG/1-8
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Konstrukt
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Clockwork Mule
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/1-8
+  - Monster/Typ/Konstrukt
+  - Quelle/5e/skt
 aliases:
   - Clockwork Mule
 ---

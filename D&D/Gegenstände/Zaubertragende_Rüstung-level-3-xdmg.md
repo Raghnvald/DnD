@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Enspelled Armor (Level 3)
 Rüstung: Leicht, Mittel oder Schwer
 tags:

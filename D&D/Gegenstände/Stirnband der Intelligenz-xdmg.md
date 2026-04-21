@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Headband of Intellect
 tags:
   - Gegenstand/Einstimmung/required

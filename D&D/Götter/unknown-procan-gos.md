@@ -1,10 +1,9 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Procan
 tags:
-  - Quelle/5e/gos
-  - Kompendium/Götter/unknown
   - Kompendium/Götter/Domäne/tempest
+  - Kompendium/Götter/unknown
+  - Quelle/5e/gos
 aliases:
   - Procan
 ---

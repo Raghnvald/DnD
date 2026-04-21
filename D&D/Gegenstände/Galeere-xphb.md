@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Galley
 tags:
   - Gegenstand/Ausrüstung/Fahrzeug

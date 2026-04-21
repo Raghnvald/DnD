@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Syrania, the Azure Sky; Syrania Manifest Zone Features
 tags:
   - Quelle/5e/erlw
 aliases:

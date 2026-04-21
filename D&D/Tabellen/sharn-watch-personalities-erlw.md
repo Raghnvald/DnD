@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Sharn Watch Personalities
 tags:
   - Quelle/5e/erlw
 aliases:

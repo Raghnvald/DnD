@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Warlock Spells
 tags:
   - Zauber/list/class/warlock
 aliases:

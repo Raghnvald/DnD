@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for The Undead
 tags:
   - Zauber/list/subclass/the-undead
 aliases:

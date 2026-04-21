@@ -1,8 +1,8 @@
 ---
+Bezeichnung: Index der Talente
 tags:
-- Quelle/5e/phb
-aliases:
-- 
+  - Quelle/5e/phb
+aliases: []
 ---
 # Index der Talente
 
@@ -15,8 +15,6 @@ Dein Körper hat begonnen, sich auf außergewöhnliche Weise sehr gut daran zu g
 - _Erhöhe deinen Konstitutionswert um 1 Punkt bis auf ein Maximum von 20 Punkten._
 - _Wenn eine Kreatur eine Heilerausrüstung verwendet, um dich zu stablisieren, wenn du am Sterben bist, erhältst du außerdem Trefferpunkte in Höhe deines Übungs-Modifikators zurück._
 - _Immer wenn du Trefferpunkte als Resultat eines Zaubers, Tranks oder eine Klassenfähigkeit zurückerhältst, erhältst du zusätzliche Trefferpunkte in Höhe deines Übungs-Bonus zurück._
-
-
 
 ### Aufmerksam
 
@@ -59,8 +57,6 @@ Dank deines ausgiebigen Trainings mit dem Bogen erhältst du folgende Vorzüge:
 - _Du kannst deinen Bogen für einen Nahkampfwaffenangriff verwenden, in dem du einen Pfeil als Waffe verwendest. Behandle diese Waffe wie eine Waffe mit der Eigenschaft Finesse, die 1W4 Stichschaden verursacht. Du kannst den Bogen mit den gleichen Werten für Gelegenheitsangriffe verwenden._
 - _Einmal in deinem Zug, wenn du einen Fernkampfwaffenangriff mit einem Bogen durchführst, kannst du zwei Pfeile abfeuern statt einen. Beide Pfeile addieren nur die Hälfte deines Geschicklichkeits-Modifikators auf den Schaden. Diese Schüsse können verschiedene Gegner zum Ziel nehmen und ihre Angriffswürfe werden separat geworfen. Ein anderes Ziel muss sich innerhalb von 1,5m vom ursprünglichen Ziel befinden._
 
-
-
 ### Dolchmeisterschaft
 
 Dolche sind am tödlichsten, wenn sie verborgen sind. Du erhältst die folgenden Vorzüge:
@@ -96,7 +92,6 @@ Du bist an Raufereien gewöhnt und fähig, mit allem zu kämpfen, was dir gerade
 - Deine waffenlosen Schläge benutzen einen _W6_ beim Schadenswurf.
 - Wenn du eine Kreatur in deinem Zug mit einer improvisierten Waffen oder einem waffenlosen Schlag triffst, kannst du deine Bonusaktion verwenden, um zu versuchen, das Ziel zu packen.
 
-
 ### Magiertöter
 
 Du hast Techniken geübt, die im Nahkampf gegen Zauberwirker hilfreich sind und erhältst dadurch folgende Vorzüge:
@@ -112,8 +107,6 @@ Du hast ein Kampftraining absolviert, das dir erlaubt, spezielle Kampfmanöver a
 - Du lernst zwei Manöver deiner Wahl, die dem Kampfmeister-Archetypen in der Kämpferklasse zur Verfügung stehen. Wenn das Kampfmanöver, das du anwendest, vom Ziel einen Rettungswurf verlangt, um Effekten des Manövers zu widerstehen, ist der SG des Rettungswurfs gleich 8 + dein Übungsbonus + dein Stärke- oder Geschicklichkeitsmodifikator (deine Wahl).
 - Du erhältst _zwei_ W6-Überlegenheitswürfel (_hast du bereits Überlegenheitswürfel, erhältst du stattdessen zwei mehr_). Diese Würfel werden verwendet, um deine Manöver zu stärken. Ein Überlegenheitswürfel wird durch die Anwendung verbraucht, und du erhältst alle verbrauchten Überlegenheitswürfel nach Beenden einer kurzen oder langen Rast zurück.
 
-
-
 ### Peitschenmeister
 
 Du hast die Wege und Feinheiten dieser exotischen Waffe gemeistert. Du erhältst die folgenden Vorzüge:
@@ -121,7 +114,6 @@ Du hast die Wege und Feinheiten dieser exotischen Waffe gemeistert. Du erhältst
 - _Wenn du mit einem Nahkampfangriff mit einer Peitsche triffst, fügst du zusätzliche 1W4 Schaden des Schadenstyps der Peitsche zu._
 - _Während du eine Peitsche trägst, provozieren andere Kreaturen einen Gelegenheitsangriff von dir, wenn sie deine Reichweite betreten._
 - _Du hast Vorteil auf Attributswürfe und Angriffe, die du machst, um Gegner zu entwaffen oder zu packen, wenn du eine Peitsche als Teil des Wurfs oder Angriffs verwendest._
-
 
 ### Scharfschütze
 
@@ -164,8 +156,6 @@ Du erhältst die folgenden Vorzüge, wenn du eine Glefe, Hellebarde, Pike, einen
 - Wenn du die Angriffsaktion wählst und nur mit einer oben genannten Waffe angreifst, kannst du deine Bonusaktion aufwenden, um einen weiteren Angriff mit dem anderen Ende der Waffe auszuführen. Dieser Angriff verwendet denselben Attributsmodifikator wie der erste Angriff. Der Schaden der Waffe für diesen Angriff ist ein W4 und verursacht Wuchtschaden.
 - Solange du eine der oben genannten Waffen führst, provozieren andere Kreaturen einen Gelegenheitsangriff durch dich, wenn sie sich in Reichweite der Waffe begeben.
 
-
-
 ### Wächter
 
 Du hast die Technik gemeistert, jegliche Lücke in der Verteidigung deines Gegners zu nutzen und erhältst folgende Vorzüge:
@@ -201,10 +191,7 @@ Du hast die Kunst der Wurfwaffen gemeistert. Du erhältst die folgenden Vorzüge
 - _Wenn du einen Fernkampfangriff mit einer geworfenen Waffe ablegst, kannst du sofort eine Wurfwaffe ziehen._
 - _Einmal pro Zug, wenn du einen Fernkampfangriff mit einer geworfenen Waffe gegen eine Kreatur abgelegt hast, die maximale eine Größenkategorie größer ist als du, kannst du dich entscheiden, deine Waffe mit besonders großer Kraft zu werfen. Wenn der Angriff trifft, muss das Ziel einen Stärke-Rettungswurf ablegen (SG = 8 + dein Übungsbonus + dein Stärke-Modifikator). Bei einem Misserfolg erhält die Kreatur den Zustand Liegend._
 
-
-
 ## Rüstungstalente
-
 
 ### Mittelschwer Gerüstet
 
@@ -214,8 +201,6 @@ Du hast den Umgang mit Mittelschwerer Rüstung und Schilden trainiert, wodurch d
 
 - Erhöhe deinen Stärke- oder Geschicklichkeitswert um einen Punkt bis auf ein Maximum von 20 Punkten.
 - Du bist im Umgang mit Mittelschweren Rüstungen und Schilden geübt.
-
-
 
 ### Meister der leichten Rüstungen
 
@@ -237,8 +222,6 @@ Du hast geübt, dich in Mittelschweren Rüstungen zu bewegen und erhältst die f
 - Mittelschwere Rüstungen zu tragen, verleiht dir keinen Nachteil bei Würfen auf Heimlichkeit.
 - Wenn du Mittelschwere Rüstungen trägst und eine Geschicklichkeit von 16 oder mehr besitzt, darfst du drei anstatt nur zwei Punkte auf deine Rüstungsklasse addieren.
 
-
-
 ## Magietalente
 
 ### Blitzartiger Abruf
@@ -253,8 +236,6 @@ _Voraussetzung: Das Zauberwirken-Merkmal der Barden-, Hexenmeister- Waldläufer-
 Wenn du in Not bist, kannst du deine eigene Lebensenergie anzapfen, um Magie zu kanalisieren.
 
 _Als Bonusaktion kannst du einen Zauberplatz bis zum 5. Grad erhalten, indem du entsprechend des Grades des Zauberplatzes Trefferwürfel ausgibst. Wirf die Trefferwürfel (ohne deinen Konstitutions-Modifikator zu addieren), und verringere deine aktuellen TP um das Ergebnis. Dieser TP-Verlust zählt nicht als Schaden, kann in keiner Weise verringert oder negiert werden, ignoriert temporäre TP und löst keinen Konzentrations-Wurf aus. Wenn dich der Verlust auf 0 TP reduzieren würde, bleibst du stattdessen bei 1 TP und erhältst keinen Zauberplatz._
-
-
 
 ### Kampferprobter Zauberwirker
 
@@ -291,8 +272,6 @@ Unzählige Stunden wurden damit verbracht, deinen Verstand zu schulen, damit du 
 ### Begabt
 - _Erhöhe einen beliebigen Attributswert um 1 Punkt bis auf ein Maximum von 20 Punkten._
 - Du bis in einer beliebigen Kombination aus _zwei_ Fertigkeiten und/oder Werkzeugen deiner Wahl geübt.
-
-
 
 ### Alchemist
 
@@ -355,8 +334,6 @@ Du hast eine Gabe, neue Dinge zu lernen. Du erhältst die folgenden Vorzüge:
 
 - Du erhältst Übung in einer Fertigkeit, einem Werkzeug und einer Sprache deiner Wahl.
 - Wähle eine Fertigkeit, in der du geübt bist. Du erhältst Expertise in dieser Fertigkeit, was bedeutet, dass dein Übungsbonus für jeden Attributswurf mit dieser Fertigkeit verdoppelt wird. Die Fertigkeit, die du wählst, darf nicht bereits von einem Merkmal profitieren, dass den Übungsbonus für diese Fertigkeit verdoppelt.
-
-
 
 ### Untersetzte Beweglichkeit
 

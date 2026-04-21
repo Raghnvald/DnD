@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-race
+Bezeichnung: Goblin
 tags:
   - Quelle/5e/dmg
   - Rasse/goblin
@@ -9,7 +8,6 @@ aliases:
 ---
 # Goblin
 *Source: Dungeon Master's Guide p. 282*  
-
 
 - **Ability Scores**: str -2 dex +2
 - **Size**: Small

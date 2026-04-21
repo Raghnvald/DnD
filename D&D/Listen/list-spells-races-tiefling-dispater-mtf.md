@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Tiefling (Dispater)
 tags:
   - Zauber/list/subrace/tiefling-dispater
 aliases:

@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/11
-  - Monster/Habitat/Jedes
-  - Monster/Größe/Klein-oder-Mittelgroß
-  - Monster/Typ/Humanoid
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Bandit Crime Lord
+tags:
+  - Monster/Größe/Klein-oder-Mittelgroß
+  - Monster/Habitat/Jedes
+  - Monster/HG/11
+  - Monster/Typ/Humanoid
+  - Quelle/5e/xmm
 aliases:
   - Bandit Crime Lord
 ---

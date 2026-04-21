@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-hazard
+Bezeichnung: Demon Ichor
 tags:
   - Quelle/5e/bgdia
 aliases:

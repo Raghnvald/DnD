@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/idrotf
-  - Monster/HG/10
-  - Monster/Größe/Riesig
-  - Monster/Typ/Konstrukt
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Tomb Tapper
+tags:
+  - Monster/Größe/Riesig
+  - Monster/HG/10
+  - Monster/Typ/Konstrukt
+  - Quelle/5e/idrotf
 aliases:
   - Tomb Tapper
 ---

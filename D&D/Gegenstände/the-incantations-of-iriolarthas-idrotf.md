@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: The Incantations of Iriolarthas
 Kategorie: Abenteuerausrüstung
 tags:

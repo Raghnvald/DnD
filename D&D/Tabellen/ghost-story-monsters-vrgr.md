@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Ghost Story Monsters
 tags:
   - Quelle/5e/vrgr
 aliases:

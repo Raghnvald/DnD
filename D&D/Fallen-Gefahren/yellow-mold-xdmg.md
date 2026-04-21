@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-hazard
+Bezeichnung: Yellow Mold
 tags:
   - Quelle/5e/xdmg
 aliases:

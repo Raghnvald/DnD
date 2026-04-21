@@ -1,7 +1,5 @@
 ---
-cssclasses:
-  - json5e-spell
-Bezeichnung: Rary's Telepathic Bond
+Bezeichnung: "Rary's Telepathic Bond"
 Zaubergrad: 5
 tags:
   - Klasse/Barde/Magische-Geheimnisse

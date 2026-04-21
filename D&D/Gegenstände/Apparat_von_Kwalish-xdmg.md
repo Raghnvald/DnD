@@ -6,6 +6,7 @@ Kst.: /
 Gew.: 250,0 kg
 tags:
   - Gegenstand/Seltenheit/legendär
+  - Gegenstand/wundersam
   - Quelle/5e/xdmg
 aliases:
   - Apparatus of Kwalish

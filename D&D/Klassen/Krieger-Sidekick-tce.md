@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-class
+Bezeichnung: Warrior Sidekick
 tags:
   - Klasse/warrior-sidekick
   - Quelle/5e/tce
@@ -54,7 +53,6 @@ aliases:
 - **Weapons**: All simple and martial weapons if [humanoid](#Bonus%20Proficiencies%20(Level%201))
 - **Tools**: none
 - **Skills**: Two skills of your choice from the following list: [Acrobatics](/3-Mechanics/CLI/skills.md#Acrobatics), [Animal Handling](/3-Mechanics/CLI/skills.md#Animal%20Handling), [Athletics](/3-Mechanics/CLI/skills.md#Athletics), [Intimidation](/3-Mechanics/CLI/skills.md#Intimidation), [Nature](/3-Mechanics/CLI/skills.md#Nature), [Perception](/3-Mechanics/CLI/skills.md#Perception), and [Survival](/3-Mechanics/CLI/skills.md#Survival).
-
 
 ## Warrior Sidekick
 

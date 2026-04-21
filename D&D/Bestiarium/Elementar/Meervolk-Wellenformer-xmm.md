@@ -1,15 +1,14 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/6
-  - Monster/Habitat/Küste
-  - Monster/Habitat/underwater
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Elementar
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Merfolk Wavebender
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Küste
+  - Monster/Habitat/underwater
+  - Monster/HG/6
+  - Monster/Typ/Elementar
+  - Quelle/5e/xmm
 aliases:
   - Merfolk Wavebender
 ---

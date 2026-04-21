@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Derro Madness
 tags:
   - Quelle/5e/mtf
 aliases:

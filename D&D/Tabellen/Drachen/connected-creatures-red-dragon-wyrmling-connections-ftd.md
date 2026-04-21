@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Connected Creatures; Red Dragon Wyrmling Connections
 tags:
   - Quelle/5e/ftd
 aliases:

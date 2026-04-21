@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/bgg
-  - Monster/HG/17
-  - Monster/Größe/Riesig
-  - Monster/Typ/Riese/cleric
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Frost Giant Ice Shaper
+tags:
+  - Monster/Größe/Riesig
+  - Monster/HG/17
+  - Monster/Typ/Riese/cleric
+  - Quelle/5e/bgg
 aliases:
   - Frost Giant Ice Shaper
 ---

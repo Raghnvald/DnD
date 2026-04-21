@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Quarterstaff
 tags:
   - Gegenstand/Seltenheit/keine

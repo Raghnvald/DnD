@@ -1,8 +1,9 @@
 ---
+Bezeichnung: ElternParents
 tags:
-- Quelle/5e/xge
+  - Quelle/5e/xge
 aliases:
-- Parents
+  - Parents
 ---
 # ElternParents
 *Quellen: Xanathars Ratgeber für Alles S. 62* 

@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/wdmm
-  - Monster/HG/2
-  - Monster/Größe/Klein
-  - Monster/Typ/Humanoid/goblinoid
-  - Monster/Typ/Humanoid/shapechanger
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Werebat
+tags:
+  - Monster/Größe/Klein
+  - Monster/HG/2
+  - Monster/Typ/Humanoid/goblinoid
+  - Monster/Typ/Humanoid/shapechanger
+  - Quelle/5e/wdmm
 aliases:
   - Werebat
 ---

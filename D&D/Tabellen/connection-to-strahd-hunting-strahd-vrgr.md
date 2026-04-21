@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Connection to Strahd; Hunting Strahd
 tags:
   - Quelle/5e/vrgr
 aliases:

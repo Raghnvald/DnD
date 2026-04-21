@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Treasure; Orc Trophies
 tags:
   - Quelle/5e/vgm
 aliases:

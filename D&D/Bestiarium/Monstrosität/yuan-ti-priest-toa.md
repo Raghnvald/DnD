@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/toa
-  - Monster/HG/3
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Monstrosität/shapechanger
-  - Monster/Typ/Monstrosität/yuan-ti
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Yuan-ti Priest
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/3
+  - Monster/Typ/Monstrosität/shapechanger
+  - Monster/Typ/Monstrosität/yuan-ti
+  - Quelle/5e/toa
 aliases:
   - Yuan-ti Priest
 ---

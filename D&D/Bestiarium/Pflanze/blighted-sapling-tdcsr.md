@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/tdcsr
-  - Monster/HG/
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Pflanze
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Blighted Sapling
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/
+  - Monster/Typ/Pflanze
+  - Quelle/5e/tdcsr
 aliases:
   - Blighted Sapling
 ---

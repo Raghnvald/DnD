@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Swift Quiver
 tags:
   - Klasse/Waldläufer

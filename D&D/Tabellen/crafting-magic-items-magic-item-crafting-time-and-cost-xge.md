@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Crafting Magic Items; Magic Item Crafting Time and Cost
 tags:
   - Quelle/5e/xge
 aliases:

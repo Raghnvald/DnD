@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Unarmed Strike
 tags:
   - Quelle/5e/xphb
 aliases:

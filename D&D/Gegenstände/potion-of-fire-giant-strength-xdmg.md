@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Potion of Fire Giant Strength
 tags:
   - Gegenstand/Seltenheit/selten

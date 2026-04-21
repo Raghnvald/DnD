@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Everbright Lantern
 tags:
   - Gegenstand/Seltenheit/gewöhnlich

@@ -8,10 +8,10 @@ Wirkungsdauer: 8 Stunden
 Angriff: n/v
 Schaden: n/v
 tags:
+  - Klasse/Artifizient
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
   - Klasse/Magier
-  - Klasse/Artifizient
   - Klasse/Paladin/oath-of-the-watchers
   - Klasse/Schurke/Arkaner-Betrüger
   - Klasse/Waldläufer

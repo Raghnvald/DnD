@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Mournland Villains
 tags:
   - Quelle/5e/erlw
 aliases:

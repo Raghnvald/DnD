@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Object
 tags:
   - Quelle/5e/xphb
 aliases:

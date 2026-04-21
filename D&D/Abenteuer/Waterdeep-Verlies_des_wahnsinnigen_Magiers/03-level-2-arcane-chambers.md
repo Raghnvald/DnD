@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Level 2: Arcane Chambers"
 tags:
   - Quelle/5e/wdmm
 aliases:

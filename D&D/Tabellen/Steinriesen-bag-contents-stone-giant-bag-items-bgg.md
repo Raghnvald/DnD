@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Stone Giant Bag Contents; Stone Giant Bag Items
 tags:
   - Quelle/5e/bgg
 aliases:

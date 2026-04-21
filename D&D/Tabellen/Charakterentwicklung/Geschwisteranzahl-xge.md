@@ -1,8 +1,9 @@
 ---
+Bezeichnung: Geschwisteranzahl
 tags:
-- Quelle/5e/xge
+  - Quelle/5e/xge
 aliases:
-- Number of Siblings
+  - Number of Siblings
 ---
 # Geschwisteranzahl
 *Quelle: Xanathars Ratgeber für Alles S. 62* 

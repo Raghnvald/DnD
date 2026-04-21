@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Warrior of the Elements
 tags:
   - Zauber/list/subclass/warrior-of-the-elements
 aliases:

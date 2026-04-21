@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mm
-  - Monster/HG/1-2
-  - Monster/Habitat/underwater
-  - Monster/Größe/Groß
-  - Monster/Typ/Tier
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Giant Sea Horse
+tags:
+  - Monster/Größe/Groß
+  - Monster/Habitat/underwater
+  - Monster/HG/1-2
+  - Monster/Typ/Tier
+  - Quelle/5e/mm
 aliases:
   - Giant Sea Horse
 ---

@@ -1,15 +1,14 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/vgm
-  - Monster/HG/1-4
-  - Monster/Habitat/Küste
-  - Monster/Habitat/Sumpf
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Tier
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Dimetrodon
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Küste
+  - Monster/Habitat/Sumpf
+  - Monster/HG/1-4
+  - Monster/Typ/Tier
+  - Quelle/5e/vgm
 aliases:
   - Dimetrodon
 ---

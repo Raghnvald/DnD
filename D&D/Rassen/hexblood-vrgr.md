@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-race
+Bezeichnung: Hexblood
 tags:
   - Quelle/5e/vrgr
   - Rasse/hexblood

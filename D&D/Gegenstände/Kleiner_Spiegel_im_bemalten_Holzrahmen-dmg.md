@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Small mirror set in a painted wooden frame
 Kategorie: Kunstobjekt
 tags:

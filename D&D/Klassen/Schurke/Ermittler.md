@@ -1,6 +1,10 @@
 ---
-tags: [Klasse/Schurke, Quelle/5e/xge]
-aliases: [Inquisitive]
+Bezeichnung: Ermittler
+tags:
+  - Klasse/Schurke
+  - Quelle/5e/xge
+aliases:
+  - Inquisitive
 ---
 # Ermittler
 _[[Schurke]]_: Schurkenarchetyp

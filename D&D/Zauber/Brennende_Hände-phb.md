@@ -17,9 +17,9 @@ tags:
   - Quelle/5e/phb
   - Subklasse/Mystischer-Ritter
   - Subklasse/the-fiend
+  - Zauber/Belohnung/boon-of-the-fire-soul
   - Zauber/Grad/1
   - Zauber/optfeature/sweeping-cinder-strike
-  - Zauber/Belohnung/boon-of-the-fire-soul
   - Zauber/Schule/Hervorrufung
 classes:
   - Bard (Magical Secrets)

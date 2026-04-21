@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-race
+Bezeichnung: Hobgoblin
 tags:
   - Quelle/5e/mpmm
   - Rasse/hobgoblin

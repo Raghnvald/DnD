@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/ftd
-  - Monster/HG/11
-  - Monster/Größe/Riesig
-  - Monster/Typ/Monstrosität
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Dracohydra
+tags:
+  - Monster/Größe/Riesig
+  - Monster/HG/11
+  - Monster/Typ/Monstrosität
+  - Quelle/5e/ftd
 aliases:
   - Dracohydra
 ---

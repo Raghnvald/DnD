@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Shape Water
+Bezeichnung: Wasser formen
 Zaubergrad: 0 (Zaubertrick)
 Zeitaufwand: 1 Aktion
 Reichweite: 9 Meter (Würfel von 1,5m)

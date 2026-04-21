@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mm
-  - Monster/HG/2
-  - Monster/Habitat/Unterreich
-  - Monster/Größe/Groß
-  - Monster/Typ/Monstrosität
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Carrion Crawler
+tags:
+  - Monster/Größe/Groß
+  - Monster/Habitat/Unterreich
+  - Monster/HG/2
+  - Monster/Typ/Monstrosität
+  - Quelle/5e/mm
 aliases:
   - Carrion Crawler
 ---

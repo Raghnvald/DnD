@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Heirs of Dhakaan Adventure Hooks
 tags:
   - Quelle/5e/erlw
 aliases:

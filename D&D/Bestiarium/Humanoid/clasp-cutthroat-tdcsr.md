@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/tdcsr
-  - Monster/HG/3
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/any
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Clasp Cutthroat
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/3
+  - Monster/Typ/Humanoid/any
+  - Quelle/5e/tdcsr
 aliases:
   - Clasp Cutthroat
 ---
@@ -35,7 +34,6 @@ When the thieves and assassins of the "Clasp" need to acquire additional funds o
 > [!quote] A quote from Gethrude Lael  
 > 
 > Just because we of the Clasp are heroes these days doesn't mean we won't slit your throat in a heartbeat if you cross us. Heroism is good up on the streets of Emon, but it don't mean much when you're down here in the Grotto.
-
 
 ```statblock
 "name": "Clasp Cutthroat (TDCSR)"

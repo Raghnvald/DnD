@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Gatekeeper Seal Adventures
 tags:
   - Quelle/5e/erlw
 aliases:

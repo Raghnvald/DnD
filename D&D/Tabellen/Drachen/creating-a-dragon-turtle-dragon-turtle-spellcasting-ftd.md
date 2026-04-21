@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Creating a Dragon Turtle; Dragon Turtle Spellcasting
 tags:
   - Quelle/5e/ftd
 aliases:

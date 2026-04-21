@@ -10,11 +10,11 @@ Habitat:
 image: token/draft-horse.webp
 status: WIP
 tags:
-  - Quelle/5e/mm
-  - Monster/HG/1-4
-  - Monster/Habitat/Stadt
   - Monster/Größe/Groß
+  - Monster/Habitat/Stadt
+  - Monster/HG/1-4
   - Monster/Typ/Tier
+  - Quelle/5e/mm
 aliases:
   - Draft Horse
 ---

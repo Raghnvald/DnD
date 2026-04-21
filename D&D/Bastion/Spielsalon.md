@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-bastion
+Bezeichnung: Gaming Hall
 tags:
   - Kompendium/Bastion
   - Quelle/5e/xdmg

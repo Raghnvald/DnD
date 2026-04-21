@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Enterhaken
 Kategorie: Abenteuerausrüstung
+Eigenschaften: /
+Kst.: 2 GM
+Gew.: 2,0 kg
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine

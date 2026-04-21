@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Raise Dead
 tags:
   - Klasse/Barde

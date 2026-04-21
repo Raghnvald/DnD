@@ -1,13 +1,10 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Potion of Water Breathing
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/wundersam/Trank
   - Quelle/5e/xdmg
 aliases:
-  - Potion of Water Breathing
   - Potion of Water Breathing
 linter-yaml-title-alias: Potion of Water Breathing
 ---

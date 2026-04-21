@@ -1,10 +1,10 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Stone of Golorr
+Kategorie: Wundersamer Gegenstand 
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/Artefakt
+  - Gegenstand/wundersam
   - Quelle/5e/wdh
 aliases:
   - Stone of Golorr

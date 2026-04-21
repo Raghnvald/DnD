@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/2
-  - Monster/Habitat/Jedes
-  - Monster/Größe/Klein-oder-Mittelgroß
-  - Monster/Typ/Humanoid
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Berserker
+tags:
+  - Monster/Größe/Klein-oder-Mittelgroß
+  - Monster/Habitat/Jedes
+  - Monster/HG/2
+  - Monster/Typ/Humanoid
+  - Quelle/5e/xmm
 aliases:
   - Berserker
 ---

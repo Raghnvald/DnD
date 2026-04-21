@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-feat
+Bezeichnung: "Commander's Strike"
 tags:
-  - Quelle/5e/phb
   - Kompendium/Optionales/mv-b
+  - Quelle/5e/phb
 aliases:
   - Commander's Strike
 ---

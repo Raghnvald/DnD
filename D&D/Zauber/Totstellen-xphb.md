@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Feign Death
 tags:
   - Klasse/Barde

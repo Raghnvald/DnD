@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mcv1sc
-  - Monster/HG/7
-  - Monster/Größe/Gigantisch
-  - Monster/Typ/Pflanze
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Yggdrasti
+tags:
+  - Monster/Größe/Gigantisch
+  - Monster/HG/7
+  - Monster/Typ/Pflanze
+  - Quelle/5e/mcv1sc
 aliases:
   - Yggdrasti
 ---

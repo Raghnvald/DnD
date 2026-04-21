@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Printable Assets
 tags:
   - Quelle/5e/dip
 aliases:

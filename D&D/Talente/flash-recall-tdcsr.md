@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-feat
+Bezeichnung: Flash Recall
 tags:
-  - Quelle/5e/tdcsr
   - Kompendium/Talent
+  - Quelle/5e/tdcsr
 aliases:
   - Flash Recall
 ---

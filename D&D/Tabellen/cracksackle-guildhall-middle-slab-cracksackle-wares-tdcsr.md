@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Cracksackle Guildhall (Middle Slab); Cracksackle Wares
 tags:
   - Quelle/5e/tdcsr
 aliases:

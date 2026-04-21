@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Boromar Villains
 tags:
   - Quelle/5e/erlw
 aliases:

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Rank, Status, and Title
 tags:
   - Quelle/5e/vgm
 aliases:

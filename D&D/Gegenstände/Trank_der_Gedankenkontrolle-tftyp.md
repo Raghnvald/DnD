@@ -1,5 +1,6 @@
 ---
-Bezeichnung: Trank der Gedankenkontrolle
+Bezeichnung: Potion of Mind Control
+Kategorie: Trank
 tags:
   - Gegenstand/Seltenheit/variiert
   - Gegenstand/wundersam/Trank

@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Schwert der Schärfe
+Bezeichnung: Sword of Sharpness
 Kategorie: Nahkampf-Kriegswaffe (beliebiges Schwert)
 tags:
   - Gegenstand/Einstimmung/required

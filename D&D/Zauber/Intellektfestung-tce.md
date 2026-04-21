@@ -1,14 +1,12 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Intellect Fortress
 Zaubergrad: 3
 tags:
+  - Klasse/Artifizient
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
   - Klasse/Hexenmeister
   - Klasse/Magier
-  - Klasse/Artifizient
   - Klasse/Schurke/Arkaner-Betrüger
   - Klasse/Zauberer
   - Quelle/5e/tce

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Everyone Has Regrets; Regrets
 tags:
   - Quelle/5e/erlw
 aliases:

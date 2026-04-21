@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Globe of Invulnerability
 Zaubergrad: 6
 tags:

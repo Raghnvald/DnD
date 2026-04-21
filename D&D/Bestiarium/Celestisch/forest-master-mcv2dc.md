@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mcv2dc
-  - Monster/HG/8
-  - Monster/Größe/Groß
-  - Monster/Typ/Himmlische/unicorn
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Forest Master
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/8
+  - Monster/Typ/Himmlische/unicorn
+  - Quelle/5e/mcv2dc
 aliases:
   - Forest Master
 ---

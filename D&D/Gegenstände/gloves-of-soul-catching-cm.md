@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Gloves of Soul Catching
 tags:
   - Gegenstand/Einstimmung/required

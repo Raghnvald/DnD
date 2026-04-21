@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Tymora
 tags:
-  - Quelle/5e/scag
-  - Kompendium/Götter/faerunian
   - Kompendium/Götter/Domäne/trickery
+  - Kompendium/Götter/faerunian
+  - Quelle/5e/scag
 aliases:
-  - Tymora
   - Lady Luck
   - Our Smiling Lady
+  - Tymora
 ---
 # Tymora
 *Source: Sword Coast Adventurer's Guide p. 21* 

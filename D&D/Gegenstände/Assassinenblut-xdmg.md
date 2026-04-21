@@ -1,7 +1,5 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Assassin's Blood
+Bezeichnung: "Assassin's Blood"
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine

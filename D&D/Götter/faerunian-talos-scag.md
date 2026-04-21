@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Talos
 tags:
-  - Quelle/5e/scag
-  - Kompendium/Götter/faerunian
   - Kompendium/Götter/Domäne/tempest
+  - Kompendium/Götter/faerunian
+  - Quelle/5e/scag
 aliases:
-  - Talos
   - Stormlord
+  - Talos
   - The Destroyer
 ---
 # Talos

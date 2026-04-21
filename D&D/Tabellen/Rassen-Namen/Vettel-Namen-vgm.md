@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Hag Names
 tags:
   - Quelle/5e/vgm
 aliases:

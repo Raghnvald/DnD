@@ -1,8 +1,10 @@
 ---
 Bezeichnung: +2 Amulet of the Devout
+Kategorie: Wundersamer Gegenstand
 tags:
   - Gegenstand/Einstimmung
   - Gegenstand/Seltenheit/selten
+  - Gegenstand/wundersam
   - Quelle/5e/tce
 aliases:
   - +2 Amulet of the Devout

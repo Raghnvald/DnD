@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-race
+Bezeichnung: Dwarf (Duergar)
 tags:
   - Quelle/5e/mtf
   - Rasse/dwarf/duergar
@@ -9,7 +8,6 @@ aliases:
 ---
 # Dwarf (Duergar)
 *Source: Mordenkainen's Tome of Foes p. 81*  
-
 
 - **Ability Scores**: str +1
 - **Size**: Medium

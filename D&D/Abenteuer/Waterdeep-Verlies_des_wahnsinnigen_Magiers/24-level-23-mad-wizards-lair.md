@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Level 23: Mad Wizard's Lair"
 tags:
   - Quelle/5e/wdmm
 aliases:

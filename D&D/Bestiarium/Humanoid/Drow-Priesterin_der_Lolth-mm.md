@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mm
-  - Monster/HG/8
-  - Monster/Habitat/Unterreich
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/elf
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Drow Priestess of Lolth
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Unterreich
+  - Monster/HG/8
+  - Monster/Typ/Humanoid/elf
+  - Quelle/5e/mm
 aliases:
   - Drow Priestess of Lolth
 ---
@@ -71,7 +70,6 @@ Distilled from spider venom and the flora of the Underdark, poison can be found 
 > [!quote] A quote from Nelar Autumnwell, elf cleric of Corellon Larethian  
 > 
 > Such depravity. Such terrifying cruelty. They are the vile poison that plagues all elvenkind.
-
 
 ```statblock
 "name": "Drow Priestess of Lolth"

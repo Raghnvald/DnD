@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Scroll of Protection (Elementals)
 tags:
   - Gegenstand/Seltenheit/selten

@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Summon Draconic Spirit
 Zaubergrad: 5
 tags:

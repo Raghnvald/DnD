@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Simic Character Goals; Simic Assignments
 tags:
   - Quelle/5e/ggr
 aliases:

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Umhang des Schutzes
+Kategorie: Wundersamer Gegenstand
 tags:
   - Gegenstand/Einstimmung
   - Gegenstand/Seltenheit/ungewöhnlich

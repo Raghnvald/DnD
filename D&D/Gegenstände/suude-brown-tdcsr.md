@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Suude (Brown)
 tags:
   - Gegenstand/Ausrüstung/illegal-drug

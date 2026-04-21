@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Chapter 9: Castle of the Cloud Giants"
 tags:
   - Quelle/5e/skt
 aliases:

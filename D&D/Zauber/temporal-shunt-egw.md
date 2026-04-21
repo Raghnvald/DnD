@@ -1,7 +1,6 @@
 ---
+Bezeichnung: Temporal Shunt
 Zaubergrad: 5
-cssclasses:
-  - json5e-spell
 tags:
   - Quelle/5e/egw
   - Zauber/Grad/5
@@ -11,7 +10,6 @@ aliases:
 ---
 # Temporal Shunt
 *5th-level, Transmutation*  
-
 
 - **Casting time:** 1 Reaction
 - **Range:** 120 feet

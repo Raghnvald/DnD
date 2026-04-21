@@ -1,15 +1,14 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Deneir
 tags:
-  - Quelle/5e/scag
-  - Kompendium/Götter/faerunian
   - Kompendium/Götter/Domäne/arcana
   - Kompendium/Götter/Domäne/knowledge
+  - Kompendium/Götter/faerunian
+  - Quelle/5e/scag
 aliases:
   - Deneir
-  - The Lord of All Glyphs and Images
   - The First Scribe
+  - The Lord of All Glyphs and Images
   - The Scribe of Oghma
 ---
 # Deneir

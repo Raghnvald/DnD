@@ -8,13 +8,13 @@ Wirkungsdauer:
 Angriff:
 Schaden:
 tags:
+  - Klasse/Artifizient
   - Klasse/Barde
   - Klasse/Druide
   - Klasse/Druide/circle-of-the-moon
   - Klasse/Druide/circle-of-wildfire
   - Klasse/Kleriker
   - Klasse/Kleriker/life-domain
-  - Klasse/Artifizient
   - Klasse/paladin
   - Klasse/Waldläufer
   - Kompendium/Talent/artificer-initiate
@@ -22,8 +22,8 @@ tags:
   - Kompendium/Talent/magic-initiate/druid-spells
   - Quelle/5e/xphb
   - Subklasse/celestial-patron
-  - Subklasse/Schule-des-Wissens
   - Subklasse/divine-soul/good
+  - Subklasse/Schule-des-Wissens
   - Zauber/Grad/1
   - Zauber/Schule/Bann
 classes:

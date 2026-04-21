@@ -1,12 +1,13 @@
 ---
+Bezeichnung: Tyr, Gott der Gerechtigkeit
 tags:
-- Quelle/5e/phb
-- Kompendium/Götter
-- Kompendium/Götter/Gesinnung/Rechtschaffen_Gut
-- Kompendium/Götter/Pantheon/Faerun
-- Kompendium/Götter/Domäne/Krieg
+  - Kompendium/Götter
+  - Kompendium/Götter/Domäne/Krieg
+  - Kompendium/Götter/Gesinnung/Rechtschaffen_Gut
+  - Kompendium/Götter/Pantheon/Faerun
+  - Quelle/5e/phb
 aliases:
-- Tyr
+  - Tyr
 ---
 # Tyr, Gott der Gerechtigkeit
 _Grimmkiefer, der Verstümmelte Gott, der Gerechte_

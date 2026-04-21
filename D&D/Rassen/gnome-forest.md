@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-race
+Bezeichnung: Gnome (Forest)
 tags:
   - Quelle/5e/phb
   - Rasse/gnome/forest

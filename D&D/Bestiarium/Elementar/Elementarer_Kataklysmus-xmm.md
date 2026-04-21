@@ -1,20 +1,19 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/22
-  - Monster/Habitat/elemental-chaos
-  - Monster/Habitat/planar
-  - Monster/Größe/Gigantisch
-  - Monster/Typ/Elementar/Titan
 statblock: inline
 statblock-link: "#^statblock"
-aliases:
-  - Elemental Cataclysm
+Bezeichnung: Elemental Cataclysm
 Kategorie: Elementar (Titan)
 Größe: Gigantisch
 HG: 22
+tags:
+  - Monster/Größe/Gigantisch
+  - Monster/Habitat/elemental-chaos
+  - Monster/Habitat/planar
+  - Monster/HG/22
+  - Monster/Typ/Elementar/Titan
+  - Quelle/5e/xmm
+aliases:
+  - Elemental Cataclysm
 ---
 # [Elemental Cataclysm](3-Mechanics\CLI\bestiary\elemental/elemental-cataclysm-xmm.md)
 *Source: Monster Manual (2024) p. 111*  

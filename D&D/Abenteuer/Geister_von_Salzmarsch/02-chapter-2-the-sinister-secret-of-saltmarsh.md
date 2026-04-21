@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Chapter 2: The Sinister Secret of Saltmarsh"
 tags:
   - Quelle/5e/gos
 aliases:

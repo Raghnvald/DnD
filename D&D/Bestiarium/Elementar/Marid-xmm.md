@@ -1,17 +1,16 @@
 ---
-cssclasses:
-  - json5e-monster
+statblock: inline
+statblock-link: "#^statblock"
+Bezeichnung: Marid
 tags:
-  - Quelle/5e/xmm
-  - Monster/HG/11
+  - Monster/Größe/Groß
   - Monster/Habitat/Küste
   - Monster/Habitat/planar
   - Monster/Habitat/underwater
   - Monster/Habitat/water
-  - Monster/Größe/Groß
+  - Monster/HG/11
   - Monster/Typ/Elementar/genie
-statblock: inline
-statblock-link: "#^statblock"
+  - Quelle/5e/xmm
 aliases:
   - Marid
 ---

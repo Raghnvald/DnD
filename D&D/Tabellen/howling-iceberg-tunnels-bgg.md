@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Howling Iceberg Tunnels
 tags:
   - Quelle/5e/bgg
 aliases:

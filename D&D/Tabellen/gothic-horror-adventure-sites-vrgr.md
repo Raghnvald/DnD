@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Gothic Horror Adventure Sites
 tags:
   - Quelle/5e/vrgr
 aliases:

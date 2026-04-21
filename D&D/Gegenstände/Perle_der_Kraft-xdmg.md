@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Bead of Force
 tags:
   - Gegenstand/Seltenheit/selten

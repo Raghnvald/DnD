@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-feat
+Bezeichnung: Misty Visions
 tags:
-  - Quelle/5e/xphb
   - Kompendium/Optionales/ei
+  - Quelle/5e/xphb
 aliases:
   - Misty Visions
 ---

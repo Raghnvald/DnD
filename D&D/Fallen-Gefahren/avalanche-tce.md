@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-hazard
+Bezeichnung: Avalanche
 tags:
-  - Quelle/5e/tce
   - Kompendium/Bedrohung/wld
+  - Quelle/5e/tce
 aliases:
   - Avalanche
 ---

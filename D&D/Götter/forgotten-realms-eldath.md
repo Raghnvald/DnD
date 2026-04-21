@@ -1,12 +1,11 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Eldath
 tags:
-  - Quelle/5e/phb
-  - Kompendium/Götter/forgotten-realms
   - Kompendium/Götter/Domäne/life
   - Kompendium/Götter/Domäne/nature
   - Kompendium/Götter/Domäne/peace
+  - Kompendium/Götter/forgotten-realms
+  - Quelle/5e/phb
 aliases:
   - Eldath
 ---

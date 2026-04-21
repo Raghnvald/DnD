@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/egw
-  - Monster/HG/12
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Fee
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Sea Fury
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/12
+  - Monster/Typ/Fee
+  - Quelle/5e/egw
 aliases:
   - Sea Fury
 ---

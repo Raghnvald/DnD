@@ -1,15 +1,14 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mpmm
-  - Monster/HG/5
-  - Monster/Habitat/Wald
-  - Monster/Habitat/Grasland
-  - Monster/Größe/Gigantisch
-  - Monster/Typ/Tier/dinosaur
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Brontosaurus
+tags:
+  - Monster/Größe/Gigantisch
+  - Monster/Habitat/Grasland
+  - Monster/Habitat/Wald
+  - Monster/HG/5
+  - Monster/Typ/Tier/dinosaur
+  - Quelle/5e/mpmm
 aliases:
   - Brontosaurus
 ---

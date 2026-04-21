@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mcv4ec
-  - Monster/HG/3
-  - Monster/Größe/Groß
-  - Monster/Typ/Riese/druid
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Ogre Chitterlord
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/3
+  - Monster/Typ/Riese/druid
+  - Quelle/5e/mcv4ec
 aliases:
   - Ogre Chitterlord
 ---

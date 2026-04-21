@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Draconic Gift Descriptions; Draconic Gift Rarity
 tags:
   - Quelle/5e/ftd
 aliases:

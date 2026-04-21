@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: House Status; Group Status
 tags:
   - Quelle/5e/erlw
 aliases:

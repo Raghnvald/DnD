@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Resistance
 tags:
   - Quelle/5e/xphb
 aliases:

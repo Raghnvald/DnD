@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Waterdeep: Dungeon of the Mad Mage"
 tags:
   - Quelle/5e/wdmm
 aliases:

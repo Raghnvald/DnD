@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Genasi (Air)
 tags:
   - Zauber/list/subrace/genasi-air
 aliases:

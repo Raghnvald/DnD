@@ -1,15 +1,14 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mpmm
-  - Monster/HG/1-4
-  - Monster/Habitat/Wald
-  - Monster/Habitat/Grasland
-  - Monster/Größe/Winzig
-  - Monster/Typ/Tier/dinosaur
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Velociraptor
+tags:
+  - Monster/Größe/Winzig
+  - Monster/Habitat/Grasland
+  - Monster/Habitat/Wald
+  - Monster/HG/1-4
+  - Monster/Typ/Tier/dinosaur
+  - Quelle/5e/mpmm
 aliases:
   - Velociraptor
 ---

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Ability Modifier; Attack Roll Abilities
 tags:
   - Quelle/5e/xphb
 aliases:

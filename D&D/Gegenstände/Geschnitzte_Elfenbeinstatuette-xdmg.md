@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Carved ivory statuette
 tags:
   - Gegenstand/Ausrüstung/treasure-art-object

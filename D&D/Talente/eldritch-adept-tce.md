@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-feat
+Bezeichnung: Eldritch Adept
 tags:
-  - Quelle/5e/tce
   - Kompendium/Talent
+  - Quelle/5e/tce
 aliases:
   - Eldritch Adept
 ---

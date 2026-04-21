@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: "Lolth's Sting"
 tags:
   - Gegenstand/Ausrüstung/

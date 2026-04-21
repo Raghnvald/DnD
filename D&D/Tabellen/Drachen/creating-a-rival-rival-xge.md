@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Creating a Rival; Rival
 tags:
   - Quelle/5e/xge
 aliases:

@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-feat
+Bezeichnung: Martial Adept
 tags:
-  - Quelle/5e/phb
   - Kompendium/Talent
+  - Quelle/5e/phb
 aliases:
   - Martial Adept
 ---

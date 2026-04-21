@@ -1,11 +1,10 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Rao
 tags:
-  - Quelle/5e/phb
-  - Kompendium/Götter/greyhawk
   - Kompendium/Götter/Domäne/knowledge
   - Kompendium/Götter/Domäne/peace
+  - Kompendium/Götter/greyhawk
+  - Quelle/5e/phb
 aliases:
   - Rao
 ---

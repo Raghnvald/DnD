@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Duergar in the World; Duergar Adventurer Story Hooks
 tags:
   - Quelle/5e/mtf
 aliases:

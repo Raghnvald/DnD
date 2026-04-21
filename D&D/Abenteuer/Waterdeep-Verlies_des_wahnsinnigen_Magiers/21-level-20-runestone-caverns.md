@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Level 20: Runestone Caverns"
 tags:
   - Quelle/5e/wdmm
 aliases:

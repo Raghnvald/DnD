@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Dwarves on the Move; Group Leader
 tags:
   - Quelle/5e/mtf
 aliases:

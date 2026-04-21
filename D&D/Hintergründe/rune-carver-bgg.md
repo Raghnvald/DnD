@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-background
+Bezeichnung: Rune Carver
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/bgg

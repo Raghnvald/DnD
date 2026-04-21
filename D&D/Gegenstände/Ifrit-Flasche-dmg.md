@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Efreeti Bottle
 tags:
   - Gegenstand/Seltenheit/sehr_selten

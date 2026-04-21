@@ -1,4 +1,5 @@
 ---
+Bezeichnung: "Chapter 3: DM's Toolbox"
 tags:
   - Quelle/5e/xdmg
 aliases:

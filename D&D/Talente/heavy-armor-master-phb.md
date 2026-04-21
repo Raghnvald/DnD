@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-feat
+Bezeichnung: Heavy Armor Master
 tags:
-  - Quelle/5e/phb
   - Kompendium/Talent
+  - Quelle/5e/phb
 aliases:
   - Heavy Armor Master
 ---

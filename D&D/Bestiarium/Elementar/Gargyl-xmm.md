@@ -1,15 +1,14 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/2
-  - Monster/Habitat/Unterreich
-  - Monster/Habitat/Stadt
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Elementar
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Gargoyle
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Stadt
+  - Monster/Habitat/Unterreich
+  - Monster/HG/2
+  - Monster/Typ/Elementar
+  - Quelle/5e/xmm
 aliases:
   - Gargoyle
 ---
@@ -60,7 +59,6 @@ Gargoyles seek to ambush foes or creatures that trespass on their territories. W
 > [!quote] A quote from Tiv, Scholar of the Elemental Planes  
 > 
 > Where evil passes in the Elemental Plane of Earth, it stains the rock and spoils the soil. Malice vanishes amid other elements, but in the dismal dark, the wicked shape it into nightmares.
-
 
 ```statblock
 "name": "Gargoyle (XMM)"

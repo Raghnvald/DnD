@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Animals
 tags:
   - Quelle/5e/xmm
 aliases:

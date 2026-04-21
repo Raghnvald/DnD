@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/bgdia
-  - Monster/HG/0
-  - Monster/Größe/Winzig
-  - Monster/Typ/Monstrosität
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Tressym
+tags:
+  - Monster/Größe/Winzig
+  - Monster/HG/0
+  - Monster/Typ/Monstrosität
+  - Quelle/5e/bgdia
 aliases:
   - Tressym
 ---

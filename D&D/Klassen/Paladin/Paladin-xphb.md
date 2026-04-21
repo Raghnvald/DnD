@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-class
+Bezeichnung: Paladin
 tags:
   - Klasse/paladin
   - Quelle/5e/xphb

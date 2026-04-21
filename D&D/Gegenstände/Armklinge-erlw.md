@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Armklinge
+Bezeichnung: Armblade
 Kategorie: Beliebig, Nahkampfwaffe
 tags:
   - Gegenstand/Einstimmung/required

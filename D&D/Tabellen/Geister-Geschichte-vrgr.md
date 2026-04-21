@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Ghost's History"
 tags:
   - Quelle/5e/vrgr
 aliases:

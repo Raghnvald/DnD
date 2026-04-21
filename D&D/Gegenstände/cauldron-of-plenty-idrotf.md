@@ -1,7 +1,6 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Cauldron of Plenty
+Kategorie: Wundersamer Gegenstand
 tags:
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/idrotf

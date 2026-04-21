@@ -1,16 +1,15 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/17
-  - Monster/Habitat/Wüste
-  - Monster/Habitat/planar
-  - Monster/Habitat/upper
-  - Monster/Größe/Groß
-  - Monster/Typ/Himmlische
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Sphinx of Valor
+tags:
+  - Monster/Größe/Groß
+  - Monster/Habitat/planar
+  - Monster/Habitat/upper
+  - Monster/Habitat/Wüste
+  - Monster/HG/17
+  - Monster/Typ/Himmlische
+  - Quelle/5e/xmm
 aliases:
   - Sphinx of Valor
 ---

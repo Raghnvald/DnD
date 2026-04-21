@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-class
+Bezeichnung: Monk
 tags:
   - Klasse/Mönch
   - Quelle/5e/phb

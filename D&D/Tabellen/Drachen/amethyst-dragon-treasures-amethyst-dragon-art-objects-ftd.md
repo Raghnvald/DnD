@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Amethyst Dragon Treasures; Amethyst Dragon Art Objects
 tags:
   - Quelle/5e/ftd
 aliases:

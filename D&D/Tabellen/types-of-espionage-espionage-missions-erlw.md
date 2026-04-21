@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Types of Espionage; Espionage Missions
 tags:
   - Quelle/5e/erlw
 aliases:

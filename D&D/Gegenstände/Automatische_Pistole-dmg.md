@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Automatische Pistole
+Bezeichnung: Automatic Pistol
 Kategorie: Fernkampf-Kriegswaffe
 tags:
   - Gegenstand/Seltenheit/keine

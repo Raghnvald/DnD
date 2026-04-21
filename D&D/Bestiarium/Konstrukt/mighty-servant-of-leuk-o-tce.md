@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/tce
-  - Monster/HG/
-  - Monster/Größe/Riesig
-  - Monster/Typ/Konstrukt
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Mighty Servant of Leuk-o
+tags:
+  - Monster/Größe/Riesig
+  - Monster/HG/
+  - Monster/Typ/Konstrukt
+  - Quelle/5e/tce
 aliases:
   - Mighty Servant of Leuk-o
 ---

@@ -1,7 +1,6 @@
 ---
+Bezeichnung: Spirit of Death
 Zaubergrad: 4
-cssclasses:
-  - json5e-spell
 tags:
   - Quelle/5e/bmt
   - Zauber/Grad/4
@@ -11,7 +10,6 @@ aliases:
 ---
 # Spirit of Death
 *4th-level, Necromancy*  
-
 
 - **Casting time:** 1 Action
 - **Range:** 60 feet

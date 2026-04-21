@@ -1,12 +1,12 @@
 ---
-cssclasses: json5e-deity
+Bezeichnung: Selune, Göttin des Mondes
 tags:
-  - Quelle/5e/phb
   - Kompendium/Götter
+  - Kompendium/Götter/Domäne/Leben
+  - Kompendium/Götter/Domäne/Wissen
   - Kompendium/Götter/Gesinnung/Chaotisch_Gut
   - Kompendium/Götter/Pantheon/Faerun
-  - Kompendium/Götter/Domäne/Wissen
-  - Kompendium/Götter/Domäne/Leben
+  - Quelle/5e/phb
 aliases:
   - Selune
 ---

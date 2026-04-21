@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Schwert der Vergeltung
+Bezeichnung: Sword of Vengeance
 Kategorie: Nahkampf-Kriegswaffe (beliebiges Schwert)
 tags:
   - Gegenstand/Einstimmung/required

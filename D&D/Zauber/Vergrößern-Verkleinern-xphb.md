@@ -1,13 +1,11 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Enlarge/Reduce
 tags:
+  - Klasse/Artifizient
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
   - Klasse/Druide
   - Klasse/Magier
-  - Klasse/Artifizient
   - Klasse/Schurke/Arkaner-Betrüger
   - Klasse/Zauberer
   - Quelle/5e/xphb

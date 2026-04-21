@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Cosmic Horror Settings
 tags:
   - Quelle/5e/vrgr
 aliases:

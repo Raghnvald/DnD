@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Solution; Remembered Names
 tags:
   - Quelle/5e/tce
 aliases:

@@ -1,7 +1,5 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Tand aus Aerenal
+Bezeichnung: Aerenal Trinket
 Kategorie: Abenteuerausrüstung
 tags:
   - Gegenstand/Ausrüstung/

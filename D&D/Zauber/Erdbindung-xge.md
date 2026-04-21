@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Earthbind
+Bezeichnung: Erdbindung
 Zaubergrad: 2
 Zeitaufwand:
 Reichweite:

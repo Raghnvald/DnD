@@ -1,11 +1,10 @@
 ---
-cssclasses:
-  - json5e-vehicle
+Bezeichnung: "Devil's Ride"
 tags:
-  - Quelle/5e/bgdia
   - Gegenstand/Fortbewegung/size/large
   - Gegenstand/Fortbewegung/terrain/land
   - Gegenstand/Fortbewegung/type/infernal-war-machine
+  - Quelle/5e/bgdia
 aliases:
   - Devil's Ride
 ---

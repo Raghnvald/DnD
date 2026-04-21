@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Sapphire Dragon Adventures; Sapphire Dragon Adventure Hooks
 tags:
   - Quelle/5e/ftd
 aliases:

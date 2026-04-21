@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/wdh
-  - Monster/HG/18
-  - Monster/Größe/Gigantisch
-  - Monster/Typ/Konstrukt
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Walking Statue of Waterdeep
+tags:
+  - Monster/Größe/Gigantisch
+  - Monster/HG/18
+  - Monster/Typ/Konstrukt
+  - Quelle/5e/wdh
 aliases:
   - Walking Statue of Waterdeep
 ---

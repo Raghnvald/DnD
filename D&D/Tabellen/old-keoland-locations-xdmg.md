@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Old Keoland Locations
 tags:
   - Quelle/5e/xdmg
 aliases:

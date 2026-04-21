@@ -1,16 +1,15 @@
 ---
-cssclasses:
-  - json5e-monster
+statblock: inline
+statblock-link: "#^statblock"
+Bezeichnung: Axe Beak
 tags:
-  - Quelle/5e/xmm
-  - Monster/HG/1-4
+  - Monster/Größe/Groß
   - Monster/Habitat/Arktis
   - Monster/Habitat/Grasland
   - Monster/Habitat/Hügel
-  - Monster/Größe/Groß
+  - Monster/HG/1-4
   - Monster/Typ/Monstrosität
-statblock: inline
-statblock-link: "#^statblock"
+  - Quelle/5e/xmm
 aliases:
   - Axe Beak
 ---
@@ -33,7 +32,6 @@ Axe beaks are difficult to train, but those hatched and raised in captivity can 
 > [!quote] A quote from Batley Summerfoot, Adventurer  
 > 
 > The thing's got an axe for a face and a giant, angry rooster for everything else—of course I want to ride it!
-
 
 ```statblock
 "name": "Axe Beak (XMM)"

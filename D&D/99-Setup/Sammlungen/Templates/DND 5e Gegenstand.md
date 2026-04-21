@@ -1,5 +1,5 @@
 ---
-Bezeichnung:
+Bezeichnung: Name
 Kategorie:
 Eigenschaften:
 Kst.:
@@ -8,8 +8,7 @@ tags:
   - Gegenstand/Ausrüstung
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
-aliases:
-  - 
+aliases: []
 linter-yaml-title-alias: Abakus
 ---
 # Name

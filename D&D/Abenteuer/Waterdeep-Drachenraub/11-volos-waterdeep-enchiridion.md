@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Volo's Waterdeep Enchiridion"
 tags:
   - Quelle/5e/wdh
 aliases:

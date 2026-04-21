@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Antimagic Armor-bmt
+Bezeichnung: Antimagic Armor
 Rüstung: Leicht, Mittel oder Schwer
 tags:
   - Gegenstand/Einstimmung/required

@@ -1,7 +1,6 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Ring of Animal Influence
+Kategorie: Ring
 tags:
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam/Ring

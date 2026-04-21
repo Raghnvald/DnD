@@ -1,16 +1,15 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mpmm
-  - Monster/HG/2
-  - Monster/Habitat/Wald
-  - Monster/Habitat/Sumpf
-  - Monster/Habitat/Stadt
-  - Monster/Größe/Klein
-  - Monster/Typ/Fee
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Meenlock
+tags:
+  - Monster/Größe/Klein
+  - Monster/Habitat/Stadt
+  - Monster/Habitat/Sumpf
+  - Monster/Habitat/Wald
+  - Monster/HG/2
+  - Monster/Typ/Fee
+  - Quelle/5e/mpmm
 aliases:
   - Meenlock
 ---

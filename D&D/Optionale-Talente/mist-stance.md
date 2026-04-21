@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-feat
+Bezeichnung: Mist Stance
 tags:
-  - Quelle/5e/phb
   - Kompendium/Optionales/ed
+  - Quelle/5e/phb
 aliases:
   - Mist Stance
 ---

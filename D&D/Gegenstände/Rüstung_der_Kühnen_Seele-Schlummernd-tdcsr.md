@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Armor of the Valiant Soul (Dormant)
 Rüstung: Mittel
 tags:

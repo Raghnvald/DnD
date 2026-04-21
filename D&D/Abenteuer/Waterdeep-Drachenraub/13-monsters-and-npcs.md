@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Monsters and NPCs
 tags:
   - Quelle/5e/wdh
 aliases:

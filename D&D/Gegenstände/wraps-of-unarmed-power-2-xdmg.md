@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: +2 Wraps of Unarmed Power
 tags:
   - Gegenstand/Seltenheit/selten

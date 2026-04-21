@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-reward
+Bezeichnung: Boon of Spell Mastery
 tags:
-  - Quelle/5e/dmg
   - Kompendium/Belohnung/boon
+  - Quelle/5e/dmg
 aliases:
   - Boon of Spell Mastery
 ---

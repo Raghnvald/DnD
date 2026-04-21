@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Gods and Religion; Gods of the Ordning
 tags:
   - Quelle/5e/bgg
 aliases:

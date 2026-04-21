@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/bgg
-  - Monster/HG/5
-  - Monster/Größe/Groß
-  - Monster/Typ/Elementar
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Rime Hulk
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/5
+  - Monster/Typ/Elementar
+  - Quelle/5e/bgg
 aliases:
   - Rime Hulk
 ---
@@ -21,7 +20,6 @@ Smaller and weaker than their ancestors, rime hulks are roughly formed masses of
 > [!quote] A quote from Bigby  
 > 
 > In all seriousness, though, it's best not to get caught up in what these hulks were or might have become had things gone differently for them. They're dangerous, and most of them do not wish you well. Act accordingly.
-
 
 ```statblock
 "name": "Rime Hulk (BGG)"

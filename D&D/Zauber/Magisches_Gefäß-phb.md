@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Magic Jar
 Zaubergrad: 6
 tags:

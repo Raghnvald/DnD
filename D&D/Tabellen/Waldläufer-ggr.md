@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Ranger
 tags:
   - Quelle/5e/ggr
 aliases:

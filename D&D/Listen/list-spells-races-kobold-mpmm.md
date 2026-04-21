@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Kobold
 tags:
   - Zauber/list/race/kobold
 aliases:

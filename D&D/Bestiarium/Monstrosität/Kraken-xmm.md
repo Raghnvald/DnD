@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/23
-  - Monster/Habitat/underwater
-  - Monster/Größe/Gigantisch
-  - Monster/Typ/Monstrosität/titan
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Kraken
+tags:
+  - Monster/Größe/Gigantisch
+  - Monster/Habitat/underwater
+  - Monster/HG/23
+  - Monster/Typ/Monstrosität/titan
+  - Quelle/5e/xmm
 aliases:
   - Kraken
 ---
@@ -49,7 +48,6 @@ Kraken lairs tend to be sunken temples, eldritch ritual sites, or primeval place
 > [!quote] A quote from Malfeore Serrang  
 > 
 > A kraken dreams of casting its tentacles into the heavens and strangling that which birthed it, and when its dream exceeds its reach, it settles for the occasional passing ship.
-
 
 ```statblock
 "name": "Kraken (XMM)"

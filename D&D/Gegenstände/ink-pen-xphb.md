@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Ink Pen
 tags:
   - Gegenstand/Ausrüstung/

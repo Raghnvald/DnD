@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/6
-  - Monster/Habitat/Stadt
-  - Monster/Größe/Groß
-  - Monster/Typ/Elementar
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Invisible Stalker
+tags:
+  - Monster/Größe/Groß
+  - Monster/Habitat/Stadt
+  - Monster/HG/6
+  - Monster/Typ/Elementar
+  - Quelle/5e/xmm
 aliases:
   - Invisible Stalker
 ---
@@ -41,7 +40,6 @@ In rare cases, an invisible stalker lingers in the world without a spellcaster c
 > [!quote]  
 > 
 > As detectives, we seek truth by eliminating the impossible, ever mindful that the impossible might also be seeking to eliminate us.
-
 
 ```statblock
 "name": "Invisible Stalker (XMM)"

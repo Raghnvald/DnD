@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Monster Relationships
 tags:
   - Quelle/5e/xge
 aliases:

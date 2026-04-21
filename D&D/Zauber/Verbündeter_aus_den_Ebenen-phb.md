@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Planar Ally
 Zaubergrad: 6
 tags:

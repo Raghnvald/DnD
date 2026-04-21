@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/skt
-  - Monster/HG/1-8
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/aarakocra
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Aarakocra Simulacrum
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/1-8
+  - Monster/Typ/Humanoid/aarakocra
+  - Quelle/5e/skt
 aliases:
   - Aarakocra Simulacrum
 ---

@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Angharradh
 tags:
-  - Quelle/5e/mtf
-  - Kompendium/Götter/elven
   - Kompendium/Götter/Domäne/knowledge
   - Kompendium/Götter/Domäne/life
   - Kompendium/Götter/Domäne/peace
   - Kompendium/Götter/Domäne/war
+  - Kompendium/Götter/elven
+  - Quelle/5e/mtf
 aliases:
   - Angharradh
 ---

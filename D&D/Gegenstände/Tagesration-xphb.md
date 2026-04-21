@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Rations
 tags:
   - Gegenstand/Ausrüstung/

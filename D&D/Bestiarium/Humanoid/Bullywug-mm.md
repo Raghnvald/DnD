@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mm
-  - Monster/HG/1-4
-  - Monster/Habitat/Sumpf
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/bullywug
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Bullywug
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Sumpf
+  - Monster/HG/1-4
+  - Monster/Typ/Humanoid/bullywug
+  - Quelle/5e/mm
 aliases:
   - Bullywug
 ---

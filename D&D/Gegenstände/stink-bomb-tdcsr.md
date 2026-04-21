@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Stink Bomb
 Kategorie: Explosives 
 tags:

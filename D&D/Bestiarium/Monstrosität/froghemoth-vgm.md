@@ -1,15 +1,14 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/vgm
-  - Monster/HG/10
-  - Monster/Habitat/Sumpf
-  - Monster/Habitat/Unterreich
-  - Monster/Größe/Riesig
-  - Monster/Typ/Monstrosität
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Froghemoth
+tags:
+  - Monster/Größe/Riesig
+  - Monster/Habitat/Sumpf
+  - Monster/Habitat/Unterreich
+  - Monster/HG/10
+  - Monster/Typ/Monstrosität
+  - Quelle/5e/vgm
 aliases:
   - Froghemoth
 ---

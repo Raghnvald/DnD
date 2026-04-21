@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Random Magic Items - Arcana
 tags:
   - Quelle/5e/xdmg
 aliases:

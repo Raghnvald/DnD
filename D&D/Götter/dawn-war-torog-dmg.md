@@ -1,10 +1,9 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Torog
 tags:
-  - Quelle/5e/dmg
   - Kompendium/Götter/dawn-war
   - Kompendium/Götter/Domäne/death
+  - Quelle/5e/dmg
 aliases:
   - Torog
 ---

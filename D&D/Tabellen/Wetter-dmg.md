@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Weather
 tags:
   - Quelle/5e/dmg
 aliases:

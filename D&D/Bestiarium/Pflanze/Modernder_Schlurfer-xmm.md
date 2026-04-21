@@ -1,15 +1,14 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/5
-  - Monster/Habitat/Wald
-  - Monster/Habitat/Sumpf
-  - Monster/Größe/Groß
-  - Monster/Typ/Pflanze
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Shambling Mound
+tags:
+  - Monster/Größe/Groß
+  - Monster/Habitat/Sumpf
+  - Monster/Habitat/Wald
+  - Monster/HG/5
+  - Monster/Typ/Pflanze
+  - Quelle/5e/xmm
 aliases:
   - Shambling Mound
 ---

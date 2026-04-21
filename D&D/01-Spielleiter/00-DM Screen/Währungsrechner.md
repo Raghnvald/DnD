@@ -1,5 +1,7 @@
 ---
-tags: [Quelle/5e/cos]
+Bezeichnung: Amount
+tags:
+  - Quelle/5e/cos
 CoinsCopper: 0
 CoinsElectrum: 1
 CoinsGold: 0

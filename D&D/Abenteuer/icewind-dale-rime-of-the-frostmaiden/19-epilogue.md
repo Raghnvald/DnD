@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Epilogue
 tags:
   - Quelle/5e/idrotf
 aliases:

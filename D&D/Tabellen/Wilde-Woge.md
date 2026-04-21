@@ -1,5 +1,5 @@
 ---
-cssclasses: json5e-note
+Bezeichnung: Wilde Woge
 tags:
   - Quelle/5e/tce
 aliases:

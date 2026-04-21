@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Chapter 4: Castle Ravenloft"
 tags:
   - Quelle/5e/cos
 aliases:

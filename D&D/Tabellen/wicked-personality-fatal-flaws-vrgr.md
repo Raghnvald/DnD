@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Wicked Personality; Fatal Flaws
 tags:
   - Quelle/5e/vrgr
 aliases:

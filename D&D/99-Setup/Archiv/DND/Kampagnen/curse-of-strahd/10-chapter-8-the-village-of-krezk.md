@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Chapter 8: The Village of Krezk"
 tags:
   - Quelle/5e/cos
 aliases:

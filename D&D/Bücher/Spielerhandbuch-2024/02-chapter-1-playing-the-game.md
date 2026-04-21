@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Chapter 1: Playing the Game"
 tags:
   - Quelle/5e/xphb
 aliases:

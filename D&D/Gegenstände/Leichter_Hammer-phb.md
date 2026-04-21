@@ -3,6 +3,7 @@ Bezeichnung: Leichter Hammer
 Kategorie: Einfache Nahkampfwaffe
 Schaden: 1W4 Wucht
 Eigenschaften: Leicht, Wurfwaffe
+Einstimmung: /
 Kst.: 2 GM
 Gew.: 1,0 kg
 tags:
@@ -13,7 +14,6 @@ tags:
 aliases:
   - Light Hammer
 linter-yaml-title-alias: Light Hammer
-Einstimmung: /
 ---
 # Leichter Hammer
 *Waffe*  

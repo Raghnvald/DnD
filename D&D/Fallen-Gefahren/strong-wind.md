@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-hazard
+Bezeichnung: Strong Wind
 tags:
-  - Quelle/5e/dmg
   - Kompendium/Bedrohung/wth
+  - Quelle/5e/dmg
 aliases:
   - Strong Wind
 ---

@@ -1,17 +1,16 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/ggr
-  - Monster/HG/12
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Elementar
 statblock: inline
 statblock-link: "#^statblock"
-aliases:
-  - Arclight Phoenix
+Bezeichnung: Arclight Phoenix
 Kategorie: Elementar
 Größe: Mittelgroß
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/12
+  - Monster/Typ/Elementar
+  - Quelle/5e/ggr
+aliases:
+  - Arclight Phoenix
 ---
 # [Arclight Phoenix](3-Mechanics\CLI\bestiary\elemental/arclight-phoenix-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 193*  

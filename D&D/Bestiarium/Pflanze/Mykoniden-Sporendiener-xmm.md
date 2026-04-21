@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/1
-  - Monster/Habitat/Unterreich
-  - Monster/Größe/Klein-oder-Mittelgroß
-  - Monster/Typ/Pflanze
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Myconid Spore Servant
+tags:
+  - Monster/Größe/Klein-oder-Mittelgroß
+  - Monster/Habitat/Unterreich
+  - Monster/HG/1
+  - Monster/Typ/Pflanze
+  - Quelle/5e/xmm
 aliases:
   - Myconid Spore Servant
 ---

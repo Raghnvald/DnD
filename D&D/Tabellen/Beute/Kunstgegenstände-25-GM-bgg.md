@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: 25 gp Art Objects
 tags:
   - Quelle/5e/bgg
 aliases:

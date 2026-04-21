@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Fear Effects; Sample Fear DCs
 tags:
   - Quelle/5e/xdmg
 aliases:

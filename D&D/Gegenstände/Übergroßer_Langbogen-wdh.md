@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Übergroßer Langbogen
 Kategorie: Fernkampf-Kriegswaffe
 tags:

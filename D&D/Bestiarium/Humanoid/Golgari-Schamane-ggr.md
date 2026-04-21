@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/ggr
-  - Monster/HG/5
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/elf
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Golgari Shaman
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/5
+  - Monster/Typ/Humanoid/elf
+  - Quelle/5e/ggr
 aliases:
   - Golgari Shaman
 ---

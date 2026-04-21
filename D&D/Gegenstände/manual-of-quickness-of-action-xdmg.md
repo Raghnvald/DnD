@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Manual of Quickness of Action
 tags:
   - Gegenstand/Seltenheit/sehr_selten

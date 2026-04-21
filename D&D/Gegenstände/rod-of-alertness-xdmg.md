@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Rod of Alertness
 tags:
   - Gegenstand/Einstimmung/required

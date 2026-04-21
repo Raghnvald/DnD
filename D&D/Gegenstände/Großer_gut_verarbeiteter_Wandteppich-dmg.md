@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Large well-made tapestry
 Kategorie: Kunstobjekt
 tags:

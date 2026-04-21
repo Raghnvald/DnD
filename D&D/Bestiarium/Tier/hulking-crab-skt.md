@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/skt
-  - Monster/HG/5
-  - Monster/Größe/Riesig
-  - Monster/Typ/Tier
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Hulking Crab
+tags:
+  - Monster/Größe/Riesig
+  - Monster/HG/5
+  - Monster/Typ/Tier
+  - Quelle/5e/skt
 aliases:
   - Hulking Crab
 ---

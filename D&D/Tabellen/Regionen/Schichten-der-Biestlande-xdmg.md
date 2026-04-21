@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Layers of the Beastlands
 tags:
   - Quelle/5e/xdmg
 aliases:

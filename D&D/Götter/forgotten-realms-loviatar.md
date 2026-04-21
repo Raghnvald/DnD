@@ -1,10 +1,9 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Loviatar
 tags:
-  - Quelle/5e/phb
-  - Kompendium/Götter/forgotten-realms
   - Kompendium/Götter/Domäne/death
+  - Kompendium/Götter/forgotten-realms
+  - Quelle/5e/phb
 aliases:
   - Loviatar
 ---

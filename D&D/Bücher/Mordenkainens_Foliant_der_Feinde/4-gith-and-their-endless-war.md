@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Gith and Their Endless War
 tags:
   - Quelle/5e/mtf
 aliases:

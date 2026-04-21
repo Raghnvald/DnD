@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Misty Visions
 tags:
   - Zauber/list/optfeature/misty-visions
 aliases:

@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/jttrc
-  - Monster/HG/6
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/any-race
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Ashen Heir Mage
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/6
+  - Monster/Typ/Humanoid/any-race
+  - Quelle/5e/jttrc
 aliases:
   - Ashen Heir Mage
 ---

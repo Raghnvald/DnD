@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Chromatic Orb
+Bezeichnung: Chromatische-Kugel
 Zaubergrad: 1
 Zeitaufwand:
 Reichweite:

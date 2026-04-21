@@ -1,15 +1,14 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/13
-  - Monster/Habitat/lower
-  - Monster/Habitat/planar
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Unhold/yugoloth
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Ultroloth
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/lower
+  - Monster/Habitat/planar
+  - Monster/HG/13
+  - Monster/Typ/Unhold/yugoloth
+  - Quelle/5e/xmm
 aliases:
   - Ultroloth
 ---

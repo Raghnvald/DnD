@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Pact of the Tome
 tags:
   - Zauber/list/optfeature/pact-of-the-tome
 aliases:

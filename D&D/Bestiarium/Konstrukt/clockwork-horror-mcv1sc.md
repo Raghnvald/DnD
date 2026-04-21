@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mcv1sc
-  - Monster/HG/2
-  - Monster/Größe/Klein
-  - Monster/Typ/Konstrukt
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Clockwork Horror
+tags:
+  - Monster/Größe/Klein
+  - Monster/HG/2
+  - Monster/Typ/Konstrukt
+  - Quelle/5e/mcv1sc
 aliases:
   - Clockwork Horror
 ---

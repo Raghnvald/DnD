@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-background
+Bezeichnung: Simic Scientist
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/ggr
@@ -9,7 +8,6 @@ aliases:
 ---
 # Simic Scientist
 *Source: Guildmasters' Guide to Ravnica p. 93*  
-
 
 - **Skill Proficiencies.** Arcana, Medicine  
 - **Languages.** Two of your choice  

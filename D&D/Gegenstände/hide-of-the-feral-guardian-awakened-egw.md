@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Hide of the Feral Guardian (Awakened)
 Rüstung: Leicht
 tags:

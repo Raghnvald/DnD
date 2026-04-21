@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Ring of the Ram
 tags:
   - Gegenstand/Einstimmung/required

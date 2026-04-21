@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Flame Blade
 tags:
   - Klasse/Barde

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Wetter; 2
 tags:
   - Quelle/5e/xdmg
 aliases:

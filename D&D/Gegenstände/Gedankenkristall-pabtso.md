@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Mind Crystal
+Kategorie: Wundersamer Gegenstand
 tags:
   - Gegenstand/Seltenheit/variiert
   - Quelle/5e/pabtso

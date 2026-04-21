@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Swim Speed
 tags:
   - Quelle/5e/xphb
 aliases:

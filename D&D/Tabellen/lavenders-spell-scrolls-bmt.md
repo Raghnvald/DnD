@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Lavender's Spell Scrolls"
 tags:
   - Quelle/5e/bmt
 aliases:

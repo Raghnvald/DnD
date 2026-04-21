@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Gold statuette set with rubies
 tags:
   - Gegenstand/Ausrüstung/treasure-art-object

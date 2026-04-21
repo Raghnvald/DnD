@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Above and Below Sharn: Important Districts"
 tags:
   - Quelle/5e/erlw
 aliases:

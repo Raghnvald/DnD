@@ -1,7 +1,5 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Zweiklingiger Krummsäbel
+Bezeichnung: Double-Bladed Scimitar
 Kategorie: Nahkampf-Kriegswaffe
 tags:
   - Gegenstand/Seltenheit/keine

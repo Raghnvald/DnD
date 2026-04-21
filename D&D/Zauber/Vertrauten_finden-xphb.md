@@ -17,11 +17,11 @@ tags:
   - Kompendium/Talent/ritual-caster
   - Quelle/5e/xphb
   - Subklasse/Mystischer-Ritter
+  - Zauber/Belohnung/draconic-familiar
   - Zauber/Grad/1
   - Zauber/optfeature/book-of-ancient-secrets
   - Zauber/optfeature/pact-of-the-chain
   - Zauber/optfeature/pact-of-the-tome
-  - Zauber/Belohnung/draconic-familiar
   - Zauber/Ritual
   - Zauber/Schule/Beschwörung
 classes:

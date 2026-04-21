@@ -1,6 +1,7 @@
 ---
-cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
+statblock: inline
+statblock-link: "#^statblock"
 Bezeichnung: Riesenwürgeschlange
 Kategorie: Tier
 Größe: Groß
@@ -11,20 +12,18 @@ Habitat:
   - Unterwasser
   - Wald
   - Wüste
-status: completed
 image: image/giant-constrictor-snake-webp
+status: completed
 tags:
-  - Quelle/5e/mm
-  - Monster/HG/2
-  - Monster/Habitat/Wüste
-  - Monster/Habitat/Wald
-  - Monster/Habitat/Sumpf
-  - Monster/Habitat/Unterreich
-  - Monster/Habitat/underwater
   - Monster/Größe/Riesig
+  - Monster/Habitat/Sumpf
+  - Monster/Habitat/underwater
+  - Monster/Habitat/Unterreich
+  - Monster/Habitat/Wald
+  - Monster/Habitat/Wüste
+  - Monster/HG/2
   - Monster/Typ/Tier
-statblock: inline
-statblock-link: "#^statblock"
+  - Quelle/5e/mm
 aliases:
   - Giant Constrictor Snake
 ---

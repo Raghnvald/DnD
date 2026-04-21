@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Boots of Striding and Springing
 tags:
   - Gegenstand/Einstimmung/required

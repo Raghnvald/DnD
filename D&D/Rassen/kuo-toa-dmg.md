@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-race
+Bezeichnung: Kuo-Toa
 tags:
   - Quelle/5e/dmg
   - Rasse/kuo-toa
@@ -9,7 +8,6 @@ aliases:
 ---
 # Kuo-Toa
 *Source: Dungeon Master's Guide p. 282*  
-
 
 - **Ability Scores**: None
 - **Size**: Medium

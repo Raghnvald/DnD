@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Sovereign Quests
 tags:
   - Quelle/5e/tce
 aliases:

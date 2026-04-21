@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Appendix A: Dungeon Denizens"
 tags:
   - Quelle/5e/wdmm
 aliases:

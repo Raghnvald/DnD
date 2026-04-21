@@ -8,12 +8,12 @@ Wirkungsdauer:
 Angriff:
 Schaden:
 tags:
+  - Klasse/Artifizient
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
   - Klasse/Kleriker/forge-domain
   - Klasse/Kleriker/knowledge-domain
   - Klasse/Magier
-  - Klasse/Artifizient
   - Klasse/Schurke/Arkaner-Betrüger
   - Kompendium/Talent/artificer-initiate
   - Kompendium/Talent/fey-touched

@@ -1,14 +1,12 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Sage's Signet (Bear)
+Bezeichnung: "Sage's Signet (Bear)"
+Kategorie: Ring
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/wundersam/ring
   - Quelle/5e/bmt
 aliases:
-  - Sage's Signet (Bear)
   - Sage's Signet (Bear)
 linter-yaml-title-alias: Sage's Signet (Bear)
 ---

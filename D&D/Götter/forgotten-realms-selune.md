@@ -1,12 +1,11 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Selûne
 tags:
-  - Quelle/5e/phb
-  - Kompendium/Götter/forgotten-realms
   - Kompendium/Götter/Domäne/knowledge
   - Kompendium/Götter/Domäne/life
   - Kompendium/Götter/Domäne/twilight
+  - Kompendium/Götter/forgotten-realms
+  - Quelle/5e/phb
 aliases:
   - Selûne
 ---

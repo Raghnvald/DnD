@@ -1,10 +1,9 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: The Keeper
 tags:
-  - Quelle/5e/phb
-  - Kompendium/Götter/eberron
   - Kompendium/Götter/Domäne/death
+  - Kompendium/Götter/eberron
+  - Quelle/5e/phb
 aliases:
   - The Keeper
 ---

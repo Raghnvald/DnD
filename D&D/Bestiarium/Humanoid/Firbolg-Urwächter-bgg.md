@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/bgg
-  - Monster/HG/4
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/druid
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Firbolg Primeval Warden
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/4
+  - Monster/Typ/Humanoid/druid
+  - Quelle/5e/bgg
 aliases:
   - Firbolg Primeval Warden
 ---

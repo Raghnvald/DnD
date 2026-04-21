@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/bgg
-  - Monster/HG/1
-  - Monster/Größe/Groß
-  - Monster/Typ/Fee
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Giant Ram
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/1
+  - Monster/Typ/Fee
+  - Quelle/5e/bgg
 aliases:
   - Giant Ram
 ---

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: The Planes of Existence
 tags:
   - Quelle/5e/phb
 aliases:

@@ -7,11 +7,11 @@ Komponenten:
 Wirkungsdauer:
 Angriff:
 tags:
+  - Klasse/Artifizient
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
   - Klasse/Druide
   - Klasse/Kleriker
-  - Klasse/Artifizient
   - Klasse/Waldläufer
   - Klasse/Zauberer
   - Quelle/5e/xphb

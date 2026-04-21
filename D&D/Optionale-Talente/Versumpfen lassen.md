@@ -1,9 +1,10 @@
 ---
+Bezeichnung: Versumpfen lassen
 tags:
-- Quelle/5e/phb
-- Kompendium/Optionales/Anrufungen
+  - Kompendium/Optionales/Anrufungen
+  - Quelle/5e/phb
 aliases:
-- Mire the Mind
+  - Mire the Mind
 ---
 # Versumpfen lassen
 _Quellen:_ Spielerhandbuch

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Stage Three: Illness; Stage Three Encounters"
 tags:
   - Quelle/5e/vrgr
 aliases:

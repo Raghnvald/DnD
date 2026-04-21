@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Frost Brand
 Kategorie: Nahkampf-Kriegswaffe
 tags:

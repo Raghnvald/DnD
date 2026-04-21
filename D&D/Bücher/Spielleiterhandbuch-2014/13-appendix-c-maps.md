@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Appendix C: Maps"
 tags:
   - Quelle/5e/dmg
 aliases:

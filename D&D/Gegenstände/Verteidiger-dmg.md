@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Verteidiger
+Bezeichnung: Defender
 Kategorie: Nahkampf-Kriegswaffe (beliebiges Schwert)
 tags:
   - Gegenstand/Einstimmung/required

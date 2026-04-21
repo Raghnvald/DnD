@@ -1,8 +1,8 @@
 ---
-cssclasses: json5e-note
+Bezeichnung: Gedankenblick
 tags:
-  - Quelle/5e/phb
   - Kompendium/Optionales/Anrufungen
+  - Quelle/5e/phb
 aliases:
   - Gaze of Two Minds
 ---

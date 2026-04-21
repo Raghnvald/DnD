@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mm
-  - Monster/HG/5
-  - Monster/Habitat/Stadt
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Unhold
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Cambion
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Stadt
+  - Monster/HG/5
+  - Monster/Typ/Unhold
+  - Quelle/5e/mm
 aliases:
   - Cambion
 ---
@@ -32,7 +31,6 @@ The demon lord Graz'zt is fond of procreating with humanoids who have made pacts
 > [!quote] A quote from Baba Yaga  
 > 
 > They crawl from their mother's wombs to spread corruption throughout the multiverse. What's not to love?
-
 
 ```statblock
 "name": "Cambion"

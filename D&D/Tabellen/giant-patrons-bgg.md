@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Giant Patrons
 tags:
   - Quelle/5e/bgg
 aliases:

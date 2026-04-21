@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/8
-  - Monster/Habitat/Grasland
-  - Monster/Größe/Groß
-  - Monster/Typ/Monstrosität
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Cockatrice Regent
+tags:
+  - Monster/Größe/Groß
+  - Monster/Habitat/Grasland
+  - Monster/HG/8
+  - Monster/Typ/Monstrosität
+  - Quelle/5e/xmm
 aliases:
   - Cockatrice Regent
 ---

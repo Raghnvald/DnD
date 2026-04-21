@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Blade Barrier
 Zaubergrad: 6
 tags:

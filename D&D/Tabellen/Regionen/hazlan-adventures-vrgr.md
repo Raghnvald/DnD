@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Hazlan Adventures
 tags:
   - Quelle/5e/vrgr
 aliases:

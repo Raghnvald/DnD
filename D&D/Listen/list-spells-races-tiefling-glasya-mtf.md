@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Tiefling (Glasya)
 tags:
   - Zauber/list/subrace/tiefling-glasya
 aliases:

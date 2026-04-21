@@ -1,12 +1,13 @@
 ---
+Bezeichnung: Silvanus, Gott der Wilden Natur
 tags:
-- Quelle/5e/phb
-- Kompendium/Götter
-- Kompendium/Götter/Gesinnung/Neutral
-- Kompendium/Götter/Pantheon/Faerun
-- Kompendium/Götter/Domäne/Natur
+  - Kompendium/Götter
+  - Kompendium/Götter/Domäne/Natur
+  - Kompendium/Götter/Gesinnung/Neutral
+  - Kompendium/Götter/Pantheon/Faerun
+  - Quelle/5e/phb
 aliases:
-- Silvanus
+  - Silvanus
 ---
 # Silvanus, Gott der Wilden Natur
 _Eichenvater, die Alte Eiche, Alter Baumvater_

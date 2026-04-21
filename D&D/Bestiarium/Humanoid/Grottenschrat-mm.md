@@ -1,6 +1,7 @@
 ---
-cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
+statblock: inline
+statblock-link: "#^statblock"
 Bezeichnung: Grottenschrat
 Kategorie: Humanoid
 Größe: Mittelgroß
@@ -9,18 +10,16 @@ Habitat:
   - Grasland
   - Unterreich
   - Wald
-status: completed
 image: image/bugbear.webp
+status: completed
 tags:
-  - Quelle/5e/mm
-  - Monster/HG/1
+  - Monster/Größe/Mittelgroß
   - Monster/Habitat/Grasland
   - Monster/Habitat/Unterreich
   - Monster/Habitat/Wald
-  - Monster/Größe/Mittelgroß
+  - Monster/HG/1
   - Monster/Typ/Humanoid/goblinoid
-statblock: inline
-statblock-link: "#^statblock"
+  - Quelle/5e/mm
 aliases:
   - Bugbear
 ---

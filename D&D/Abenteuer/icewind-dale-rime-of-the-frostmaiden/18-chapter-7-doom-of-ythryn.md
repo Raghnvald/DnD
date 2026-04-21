@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Chapter 7: Doom of Ythryn"
 tags:
   - Quelle/5e/idrotf
 aliases:

@@ -1,5 +1,5 @@
 ---
-cssclasses: json5e-note
+Bezeichnung: "Appendix D: Monsters"
 tags:
   - Quelle/5e/rot
 aliases:

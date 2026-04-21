@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Gaming Set
 tags:
   - Gegenstand/Ausrüstung/Spielset

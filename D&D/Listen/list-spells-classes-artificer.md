@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Artificer Spells
 tags:
   - Zauber/list/class/artificer
 aliases:

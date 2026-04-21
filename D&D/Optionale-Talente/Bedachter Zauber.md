@@ -1,9 +1,10 @@
 ---
+Bezeichnung: Bedachter Zauber
 tags:
-- Quelle/5e/phb
-- Kompendium/Optionales/Metamagie
+  - Kompendium/Optionales/Metamagie
+  - Quelle/5e/phb
 aliases:
-- Careful Spell
+  - Careful Spell
 ---
 # Bedachter Zauber
 _Quellen:_ Spielerhandbuch

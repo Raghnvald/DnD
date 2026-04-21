@@ -1,11 +1,11 @@
 ---
-cssclasses: json5e-deity
+Bezeichnung: Tempus, Gott des Krieges
 tags:
-  - Quelle/5e/phb
   - Kompendium/Götter
+  - Kompendium/Götter/Domäne/Krieg
   - Kompendium/Götter/Gesinnung/Neutral
   - Kompendium/Götter/Pantheon/Faerun
-  - Kompendium/Götter/Domäne/Krieg
+  - Quelle/5e/phb
 aliases:
   - Tempus
 ---

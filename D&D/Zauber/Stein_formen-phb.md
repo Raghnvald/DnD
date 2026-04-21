@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Stone Shape
 Zaubergrad: 4
 tags:

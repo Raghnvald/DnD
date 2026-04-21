@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Appendix B: Monster Lists"
 tags:
   - Quelle/5e/dmg
 aliases:

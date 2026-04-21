@@ -1,18 +1,17 @@
 ---
-cssclasses:
-  - json5e-monster
+statblock: inline
+statblock-link: "#^statblock"
+Bezeichnung: Water Elemental
 tags:
-  - Quelle/5e/xmm
-  - Monster/HG/5
+  - Monster/Größe/Groß
   - Monster/Habitat/Küste
   - Monster/Habitat/planar
   - Monster/Habitat/Sumpf
   - Monster/Habitat/underwater
   - Monster/Habitat/water
-  - Monster/Größe/Groß
+  - Monster/HG/5
   - Monster/Typ/Elementar
-statblock: inline
-statblock-link: "#^statblock"
+  - Quelle/5e/xmm
 aliases:
   - Water Elemental
 ---
@@ -43,7 +42,6 @@ Water elementals' shapes are influenced by the liquid bodies in which they form.
 > [!quote] A quote from Kalbari, Mother of Foam, Ruler of Marids  
 > 
 > Water: greatest of the elements in might and form. A tsunami's torrent. A blizzard's claws. A parent's tears. What is not moved by water?
-
 
 ```statblock
 "name": "Water Elemental (XMM)"

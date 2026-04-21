@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Monster Research
 tags:
   - Quelle/5e/tce
 aliases:

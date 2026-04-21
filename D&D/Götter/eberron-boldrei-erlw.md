@@ -1,12 +1,11 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Boldrei
 tags:
-  - Quelle/5e/erlw
-  - Kompendium/Götter/eberron
   - Kompendium/Götter/Domäne/life
   - Kompendium/Götter/Domäne/peace
   - Kompendium/Götter/Domäne/twilight
+  - Kompendium/Götter/eberron
+  - Quelle/5e/erlw
 aliases:
   - Boldrei
 ---

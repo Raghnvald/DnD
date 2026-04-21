@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Book of the Raven
 tags:
   - Quelle/5e/cm
 aliases:

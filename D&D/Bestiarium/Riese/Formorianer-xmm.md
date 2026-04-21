@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/8
-  - Monster/Habitat/Unterreich
-  - Monster/Größe/Riesig
-  - Monster/Typ/Riese
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Fomorian
+tags:
+  - Monster/Größe/Riesig
+  - Monster/Habitat/Unterreich
+  - Monster/HG/8
+  - Monster/Typ/Riese
+  - Quelle/5e/xmm
 aliases:
   - Fomorian
 ---
@@ -37,7 +36,6 @@ Once infamous for their magical aptitude, fomorians are giants afflicted with a 
 > [!quote] A quote from Bigby  
 > 
 > All-Father Annam banished his son, Karontor, for Karontor's part in the fomorian assault on the Feywild. That day, the ordning—the hierarchy of the giants and their gods—changed forever, and the fomorians were part of it no more.
-
 
 ```statblock
 "name": "Fomorian (XMM)"

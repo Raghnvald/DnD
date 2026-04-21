@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Duergar Raiding Parties; Duergar Purpose of Raid
 tags:
   - Quelle/5e/mtf
 aliases:

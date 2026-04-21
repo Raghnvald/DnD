@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Undercity Mansion Adventures
 tags:
   - Quelle/5e/ggr
 aliases:

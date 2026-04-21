@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Time Stop
 Zaubergrad: 9
 tags:

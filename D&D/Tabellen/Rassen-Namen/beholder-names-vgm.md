@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Beholder Names
 tags:
   - Quelle/5e/vgm
 aliases:

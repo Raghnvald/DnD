@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: The Canopic Being
 tags:
   - Quelle/5e/cm
 aliases:

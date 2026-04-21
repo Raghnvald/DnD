@@ -1,24 +1,23 @@
 ---
-cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
-Bezeichnung:
+statblock: inline
+statblock-link: "#^statblock"
+Bezeichnung: Riesenspinne
 Kategorie: Bestie
 Größe:
 HG:
-status:
 image:
+status:
 tags:
-  - Quelle/5e/mm
-  - Monster/HG/1
-  - Monster/Habitat/Wüste
-  - Monster/Habitat/Wald
+  - Monster/Größe/Groß
+  - Monster/Habitat/Stadt
   - Monster/Habitat/Sumpf
   - Monster/Habitat/Unterreich
-  - Monster/Habitat/Stadt
-  - Monster/Größe/Groß
+  - Monster/Habitat/Wald
+  - Monster/Habitat/Wüste
+  - Monster/HG/1
   - Monster/Typ/Tier
-statblock: inline
-statblock-link: "#^statblock"
+  - Quelle/5e/mm
 aliases:
   - Giant Spider
 ---

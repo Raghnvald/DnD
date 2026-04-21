@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Pact of the Chain
 tags:
   - Zauber/list/optfeature/pact-of-the-chain
 aliases:

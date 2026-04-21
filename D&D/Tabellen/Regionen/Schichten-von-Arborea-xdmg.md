@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Layers of Arborea
 tags:
   - Quelle/5e/xdmg
 aliases:

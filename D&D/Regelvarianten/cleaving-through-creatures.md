@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Cleaving Through Creatures
 tags:
   - Quelle/5e/dmg
 aliases:

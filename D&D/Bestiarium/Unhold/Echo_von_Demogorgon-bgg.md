@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/bgg
-  - Monster/HG/6
-  - Monster/Größe/Groß
-  - Monster/Typ/Unhold/demon
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Echo of Demogorgon
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/6
+  - Monster/Typ/Unhold/demon
+  - Quelle/5e/bgg
 aliases:
   - Echo of Demogorgon
 ---

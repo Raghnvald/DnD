@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Staff of the Woodlands
 Kategorie: Zauberstecken
 tags:

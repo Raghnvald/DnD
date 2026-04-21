@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: "Wakened Dragon's Wrath Weapon"
 tags:
   - Gegenstand/Einstimmung/required

@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/egw
-  - Monster/HG/10
-  - Monster/Größe/Groß
-  - Monster/Typ/Konstrukt
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Gearkeeper Construct
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/10
+  - Monster/Typ/Konstrukt
+  - Quelle/5e/egw
 aliases:
   - Gearkeeper Construct
 ---

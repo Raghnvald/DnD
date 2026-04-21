@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-background
+Bezeichnung: Boros Legionnaire
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/ggr
@@ -9,7 +8,6 @@ aliases:
 ---
 # Boros Legionnaire
 *Source: Guildmasters' Guide to Ravnica p. 40*  
-
 
 - **Skill Proficiencies.** Athletics, Intimidation  
 - **Tool Proficiencies.** One type of gaming set  

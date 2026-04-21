@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Ersatz Eye
 tags:
   - Gegenstand/Seltenheit/gewöhnlich

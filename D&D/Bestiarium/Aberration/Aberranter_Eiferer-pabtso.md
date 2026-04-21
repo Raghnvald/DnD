@@ -15,7 +15,7 @@ tags:
   - Quelle/5e/pabtso
 aliases:
   - Aberrant Zealot
-Image: aberration/token/aberrant-zealot-pabtso.webp
+Image: Aberration/token/aberrant-zealot-pabtso.webp
 ---
 # Abberanter Eiferer
 *Source: Phandelver and Below: The Shattered Obelisk p. 203*  

@@ -1,11 +1,10 @@
 ---
-cssclasses:
-  - json5e-vehicle
+Bezeichnung: Venatrix
 tags:
-  - Quelle/5e/veor
   - Gegenstand/Fortbewegung/size/gargantuan
   - Gegenstand/Fortbewegung/terrain/land
   - Gegenstand/Fortbewegung/type/infernal-war-machine
+  - Quelle/5e/veor
 aliases:
   - Venatrix
 ---

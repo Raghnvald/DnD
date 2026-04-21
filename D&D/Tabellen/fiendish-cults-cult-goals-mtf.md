@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Fiendish Cults; Cult Goals
 tags:
   - Quelle/5e/mtf
 aliases:

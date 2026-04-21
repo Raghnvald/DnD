@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Elf (High)
 tags:
   - Zauber/list/subrace/elf-high
 aliases:

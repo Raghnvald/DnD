@@ -1,8 +1,8 @@
 ---
-cssclasses: json5e-note
+Bezeichnung: Unheimliche Sicht
 tags:
-  - Quelle/5e/phb
   - Kompendium/Optionales/Anrufungen
+  - Quelle/5e/phb
 aliases:
   - Eldritch Sight
 ---

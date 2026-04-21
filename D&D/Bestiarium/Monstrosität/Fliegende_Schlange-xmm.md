@@ -1,16 +1,15 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/1-8
-  - Monster/Habitat/Wüste
-  - Monster/Habitat/Wald
-  - Monster/Habitat/Grasland
-  - Monster/Größe/Winzig
-  - Monster/Typ/Monstrosität
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Flying Snake
+tags:
+  - Monster/Größe/Winzig
+  - Monster/Habitat/Grasland
+  - Monster/Habitat/Wald
+  - Monster/Habitat/Wüste
+  - Monster/HG/1-8
+  - Monster/Typ/Monstrosität
+  - Quelle/5e/xmm
 aliases:
   - Flying Snake
 ---

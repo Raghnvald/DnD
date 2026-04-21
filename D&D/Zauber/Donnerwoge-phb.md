@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Thunderwave
+Bezeichnung: Donnerwoge
 Zaubergrad: 1
 Zeitaufwand: 1 Aktion
 Reichweite: selbst (Würfel von 4,5 m)
@@ -17,9 +17,9 @@ tags:
   - Kompendium/Talent/magic-initiate/wizard-spells
   - Quelle/5e/phb
   - Subklasse/Mystischer-Ritter
+  - Zauber/Belohnung/boon-of-the-stormborn
   - Zauber/Grad/1
   - Zauber/optfeature/fist-of-four-thunders
-  - Zauber/Belohnung/boon-of-the-stormborn
   - Zauber/Schule/Hervorrufung
 classes:
   - Bard (Magical Secrets)

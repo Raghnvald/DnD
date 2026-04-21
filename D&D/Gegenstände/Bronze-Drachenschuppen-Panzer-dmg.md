@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Bronze Dragon Scale Mail
+Bezeichnung: Bronze-Drachenschuppen-Panzer
 Kategorie: Rüstung
 Rüstung: Mittel
 Eigenschaften: n/v

@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Chauntea
 tags:
-  - Quelle/5e/scag
-  - Kompendium/Götter/faerunian
   - Kompendium/Götter/Domäne/life
+  - Kompendium/Götter/faerunian
+  - Quelle/5e/scag
 aliases:
   - Chauntea
-  - The Great Mother
   - The Grain Goddess
+  - The Great Mother
 ---
 # Chauntea
 *Source: Sword Coast Adventurer's Guide p. 21* 

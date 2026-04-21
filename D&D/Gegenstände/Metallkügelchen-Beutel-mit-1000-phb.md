@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Ball Bearings (bag of 1,000)
 tags:
   - Gegenstand/Ausrüstung/

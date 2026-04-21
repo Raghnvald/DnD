@@ -1,18 +1,17 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/vgm
-  - Monster/HG/1-2
-  - Monster/Habitat/Wald
-  - Monster/Habitat/Grasland
-  - Monster/Habitat/Hügel
-  - Monster/Habitat/Berg
-  - Monster/Habitat/Unterreich
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/orc
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Orc Nurtured One of Yurtrus
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Berg
+  - Monster/Habitat/Grasland
+  - Monster/Habitat/Hügel
+  - Monster/Habitat/Unterreich
+  - Monster/Habitat/Wald
+  - Monster/HG/1-2
+  - Monster/Typ/Humanoid/orc
+  - Quelle/5e/vgm
 aliases:
   - Orc Nurtured One of Yurtrus
 ---
@@ -30,7 +29,6 @@ In addition, orcs have special relationships with two creatures that are sometim
 > [!quote] A quote from Elminster  
 > 
 > An orc life is a god-ridden life. Luthic's at birth, Luthic's at death, and striving to prove themselves to Gruumsh in between.
-
 
 ```statblock
 "name": "Orc Nurtured One of Yurtrus (VGM)"

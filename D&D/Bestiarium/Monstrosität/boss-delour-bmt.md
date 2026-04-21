@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/bmt
-  - Monster/HG/9
-  - Monster/Größe/Klein
-  - Monster/Typ/Monstrosität
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Boss Delour
+tags:
+  - Monster/Größe/Klein
+  - Monster/HG/9
+  - Monster/Typ/Monstrosität
+  - Quelle/5e/bmt
 aliases:
   - Boss Delour
 ---

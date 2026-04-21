@@ -1,5 +1,5 @@
 ---
-cssclasses: json5e-note
+Bezeichnung: Frozen Sick
 tags:
   - Quelle/5e/fs
 aliases:

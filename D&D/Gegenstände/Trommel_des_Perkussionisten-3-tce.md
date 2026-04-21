@@ -1,11 +1,11 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: +3 Rhythm-Maker's Drum
+Bezeichnung: "+3 Rhythm-Maker's Drum"
+Kategorie: Wundersamer Gegenstand 
 tags:
   - Gegenstand/Ausrüstung/Instrument
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
+  - Gegenstand/wundersam
   - Quelle/5e/tce
 aliases:
   - +3 Rhythm-Maker's Drum

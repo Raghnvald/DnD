@@ -1,7 +1,5 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Drache-Münze
+Bezeichnung: Dragon
 Kategorie: Währung
 tags:
   - Gegenstand/Ausrüstung/treasure-coinage

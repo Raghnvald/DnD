@@ -1,10 +1,9 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Bast
 tags:
-  - Quelle/5e/phb
-  - Kompendium/Götter/egyptian
   - Kompendium/Götter/Domäne/war
+  - Kompendium/Götter/egyptian
+  - Quelle/5e/phb
 aliases:
   - Bast
 ---

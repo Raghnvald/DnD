@@ -1,11 +1,10 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Kiaransalee
 tags:
-  - Quelle/5e/mtf
-  - Kompendium/Götter/drow
   - Kompendium/Götter/Domäne/arcana
   - Kompendium/Götter/Domäne/death
+  - Kompendium/Götter/drow
+  - Quelle/5e/mtf
 aliases:
   - Kiaransalee
 ---

@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Goggles of Object Reading
 tags:
   - Gegenstand/Einstimmung/required

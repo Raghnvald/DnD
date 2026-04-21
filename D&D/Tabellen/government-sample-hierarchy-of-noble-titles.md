@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Government; Sample Hierarchy of Noble Titles
 tags:
   - Quelle/5e/dmg
 aliases:

@@ -1,5 +1,4 @@
 ---
-cssclasses: json5e-spell
 Bezeichnung: Segnen
 Zaubergrad: 1
 tags:

@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Forgery Kit
 tags:
   - Gegenstand/Ausrüstung/Werkzeug

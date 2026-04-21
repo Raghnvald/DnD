@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Circlet of Blasting
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich

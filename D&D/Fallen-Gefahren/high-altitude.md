@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-hazard
+Bezeichnung: High Altitude
 tags:
-  - Quelle/5e/dmg
   - Kompendium/Bedrohung/env
+  - Quelle/5e/dmg
 aliases:
   - High Altitude
 ---

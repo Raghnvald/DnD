@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/bgg
-  - Monster/HG/3
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Goliath Giant-Kin
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/3
+  - Monster/Typ/Humanoid
+  - Quelle/5e/bgg
 aliases:
   - Goliath Giant-Kin
 ---
@@ -23,7 +22,6 @@ Though they are not part of the ordning, goliath giant-kin often revere the divi
 > [!quote] A quote from Diancastra  
 > 
 > Few things bring me as much delight as goliaths who strive to celebrate their connection to the magnificent history of giants. When they sing me hymns, their voices are sweetest.
-
 
 ```statblock
 "name": "Goliath Giant-Kin (BGG)"

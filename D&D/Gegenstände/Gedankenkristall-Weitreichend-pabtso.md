@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Mind Crystal (Distant)
+Kategorie: Wundersamer Gegenstand
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/pabtso

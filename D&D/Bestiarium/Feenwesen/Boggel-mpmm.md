@@ -1,17 +1,16 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mpmm
-  - Monster/HG/1-8
-  - Monster/Habitat/Wald
-  - Monster/Habitat/Hügel
-  - Monster/Habitat/Unterreich
-  - Monster/Habitat/Stadt
-  - Monster/Größe/Klein
-  - Monster/Typ/Fee
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Boggle
+tags:
+  - Monster/Größe/Klein
+  - Monster/Habitat/Hügel
+  - Monster/Habitat/Stadt
+  - Monster/Habitat/Unterreich
+  - Monster/Habitat/Wald
+  - Monster/HG/1-8
+  - Monster/Typ/Fee
+  - Quelle/5e/mpmm
 aliases:
   - Boggle
 ---

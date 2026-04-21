@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Gruul Villains
 tags:
   - Quelle/5e/ggr
 aliases:

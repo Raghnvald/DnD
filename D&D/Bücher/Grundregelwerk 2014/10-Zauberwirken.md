@@ -1,4 +1,5 @@
 ---
+Bezeichnung: Was ist ein Zauber?
 tags: []
 ---
 Magie durchdringt Fantasy-Spielwelten. Meistens tritt sie in Form von Zaubern auf. Dieser Abschnitt enthält die Regeln zum Zauberwirken. Verschiedene Charakterklassen haben unterschiedliche Arten, ihre Zauber zu lernen und vorzubereiten. Monster nutzen Magie auf einzigartige Weise. Unabhängig von ihrer Quelle folgen Zauber den hier aufgeführten Regeln.
@@ -66,8 +67,6 @@ Manche Zauber können als Reaktion gewirkt werden. Das Wirken dieser Zauber daue
 Bestimmte Zauber (beispielsweise solche, die als Ritual gewirkt werden) sind zeitaufwändiger: Das Wirken dauert mehrere Minuten oder sogar Stunden. Wenn du einen Zauber mit einem größeren Zeitaufwand als eine Aktion oder Reaktion wirkst, musst du in jedem Zug deine Aktion zum Wirken verwenden und während dieser Zeit deine [[#Konzentration]] aufrechterhalten. Wenn deine Konzentration unterbrochen wird, schlägt der Zauber fehl, aber der Zauberplatz wird nicht verbraucht. Wenn du den Zauber erneut wirken willst, musst du von vorne beginnen.
 
 ## Reichweite
-
-
 
 ## Komponenten
 

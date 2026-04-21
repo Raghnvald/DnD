@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Conjure Barrage
 Zaubergrad: 3
 tags:

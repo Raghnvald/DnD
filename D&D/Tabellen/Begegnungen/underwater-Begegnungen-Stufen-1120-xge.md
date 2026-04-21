@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Underwater Encounters (Levels 11—20)
 tags:
   - Quelle/5e/xge
 aliases:

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-class
+Bezeichnung: Spellcaster Sidekick
 tags:
   - Klasse/spellcaster-sidekick
   - Quelle/5e/tce
@@ -54,7 +53,6 @@ aliases:
 - **Weapons**: All simple weapons if [humanoid](#Bonus%20Proficiencies%20(Level%201))
 - **Tools**: none
 - **Skills**: Two skills of your choice from the following list: [Arcana](/3-Mechanics/CLI/skills.md#Arcana), [History](/3-Mechanics/CLI/skills.md#History), [Insight](/3-Mechanics/CLI/skills.md#Insight), [Investigation](/3-Mechanics/CLI/skills.md#Investigation), [Medicine](/3-Mechanics/CLI/skills.md#Medicine), [Performance](/3-Mechanics/CLI/skills.md#Performance), [Persuasion](/3-Mechanics/CLI/skills.md#Persuasion), and [Religion](/3-Mechanics/CLI/skills.md#Religion).
-
 
 ## Spellcaster Sidekick
 

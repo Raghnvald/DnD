@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-feat
+Bezeichnung: Ember of the Fire Giant
 tags:
-  - Quelle/5e/bgg
   - Kompendium/Talent
+  - Quelle/5e/bgg
 aliases:
   - Ember of the Fire Giant
 ---

@@ -1,15 +1,13 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Dispel Magic
 tags:
+  - Klasse/Artifizient
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
   - Klasse/Druide
   - Klasse/Hexenmeister
   - Klasse/Kleriker
   - Klasse/Magier
-  - Klasse/Artifizient
   - Klasse/paladin
   - Klasse/Paladin/Schwur-der-Hingabe
   - Klasse/Schurke/Arkaner-Betrüger

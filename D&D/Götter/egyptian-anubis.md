@@ -1,12 +1,11 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Anubis
 tags:
-  - Quelle/5e/phb
-  - Kompendium/Götter/egyptian
   - Kompendium/Götter/Domäne/death
   - Kompendium/Götter/Domäne/grave
   - Kompendium/Götter/Domäne/order
+  - Kompendium/Götter/egyptian
+  - Quelle/5e/phb
 aliases:
   - Anubis
 ---

@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Spell Scroll (Level 3)
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich

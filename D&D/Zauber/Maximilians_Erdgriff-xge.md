@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Maximilian's Earthen Grasp
+Bezeichnung: "Maximilian's Earthen Grasp"
 Zaubergrad: 2
 Zeitaufwand:
 Reichweite:

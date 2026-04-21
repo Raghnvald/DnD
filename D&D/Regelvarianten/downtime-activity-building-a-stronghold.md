@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Downtime Activity: Building a Stronghold"
 tags:
   - Quelle/5e/dmg
 aliases:

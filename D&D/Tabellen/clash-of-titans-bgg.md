@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Clash of Titans
 tags:
   - Quelle/5e/bgg
 aliases:

@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/jttrc
-  - Monster/HG/13
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Himmlische
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Pari
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/13
+  - Monster/Typ/Himmlische
+  - Quelle/5e/jttrc
 aliases:
   - Pari
 ---

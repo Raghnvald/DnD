@@ -1,13 +1,12 @@
 ---
+Bezeichnung: Sapping Sting
 Zaubergrad: 0 (Zaubertrick)
-cssclasses:
-  - json5e-spell
 tags:
   - Quelle/5e/egw
+  - Subklasse/death-domain
   - Zauber/Grad/0
   - Zauber/optfeature/pact-of-the-tome
   - Zauber/Schule/Nekromantie
-  - Subklasse/death-domain
 classes:
   - Cleric (Death Domain)
 aliases:
@@ -15,7 +14,6 @@ aliases:
 ---
 # Sapping Sting
 *cantrip, Necromancy*  
-
 
 - **Casting time:** 1 Action
 - **Range:** 30 feet

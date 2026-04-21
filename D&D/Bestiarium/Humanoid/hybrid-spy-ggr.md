@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/ggr
-  - Monster/HG/1-2
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/simic-hybrid
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Hybrid Spy
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/1-2
+  - Monster/Typ/Humanoid/simic-hybrid
+  - Quelle/5e/ggr
 aliases:
   - Hybrid Spy
 ---

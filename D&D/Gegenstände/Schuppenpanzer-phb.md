@@ -14,7 +14,6 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Scale Mail
-  - Scale Mail
 linter-yaml-title-alias: Scale Mail
 ---
 # Schuppenpanzer

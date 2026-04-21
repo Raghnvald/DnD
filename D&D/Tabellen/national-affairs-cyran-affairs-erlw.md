@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: National Affairs; Cyran Affairs
 tags:
   - Quelle/5e/erlw
 aliases:

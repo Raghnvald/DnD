@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Scion of Stronmaus
 tags:
-  - Quelle/5e/bgg
   - Monster/legendary-group
+  - Quelle/5e/bgg
 aliases:
   - Scion of Stronmaus
 ---

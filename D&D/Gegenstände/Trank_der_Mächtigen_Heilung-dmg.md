@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Trank der Mächtigen Heilung
+Kategorie: Trank
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/wundersam/Trank

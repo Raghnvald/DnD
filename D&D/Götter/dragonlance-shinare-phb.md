@@ -1,11 +1,10 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Shinare
 tags:
-  - Quelle/5e/phb
-  - Kompendium/Götter/dragonlance
   - Kompendium/Götter/Domäne/knowledge
   - Kompendium/Götter/Domäne/trickery
+  - Kompendium/Götter/dragonlance
+  - Quelle/5e/phb
 aliases:
   - Shinare
 ---

@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Earth Tremor
+Bezeichnung: Erdrütteln
 Zaubergrad: 1
 Zeitaufwand: 1 Aktion
 Reichweite: 3 Meter
@@ -17,8 +17,8 @@ tags:
   - Klasse/Zauberer
   - Kompendium/Talent/magic-initiate/wizard-spells
   - Quelle/5e/xge
-  - Subklasse/Mystischer-Ritter
   - Subklasse/evoker
+  - Subklasse/Mystischer-Ritter
   - Zauber/Grad/1
   - Zauber/Schule/Hervorrufung
 classes:

@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-class
+Bezeichnung: Drakewarden
 tags:
-  - Quelle/5e/ftd
   - Klasse/Waldläufer/drakewarden
+  - Quelle/5e/ftd
 aliases:
   - Drakewarden
 ---
@@ -41,7 +40,6 @@ aliases:
 > </tbody></table>
 
 ^class-progression
-
 
 > [!caution] Mixed edition content
 > This subclass is from a different game edition. You will need to do some adjustment to resolve differences.

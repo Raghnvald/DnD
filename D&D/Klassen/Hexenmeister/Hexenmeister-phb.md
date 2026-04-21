@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-class
+Bezeichnung: Warlock
 tags:
   - Klasse/Hexenmeister
   - Quelle/5e/phb

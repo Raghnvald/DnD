@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for The Genie
 tags:
   - Zauber/list/subclass/the-genie
 aliases:

@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Chalk (1 piece)
 tags:
   - Gegenstand/Ausrüstung/

@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: +3 Shield
 Rüstung: Schild
 tags:

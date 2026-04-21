@@ -1,7 +1,5 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Waffe der Warnung
+Bezeichnung: Weapon of Warning
 Kategorie: Beliebige Waffe
 tags:
   - Gegenstand/Einstimmung/required

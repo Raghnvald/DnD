@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/bgg
-  - Monster/HG/5
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/cleric
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Firbolg Wanderer
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/5
+  - Monster/Typ/Humanoid/cleric
+  - Quelle/5e/bgg
 aliases:
   - Firbolg Wanderer
 ---

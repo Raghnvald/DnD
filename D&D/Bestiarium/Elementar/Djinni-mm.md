@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mm
-  - Monster/HG/11
-  - Monster/Habitat/Küste
-  - Monster/Größe/Groß
-  - Monster/Typ/Elementar
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Djinni
+tags:
+  - Monster/Größe/Groß
+  - Monster/Habitat/Küste
+  - Monster/HG/11
+  - Monster/Typ/Elementar
+  - Quelle/5e/mm
 aliases:
   - Djinni
 ---

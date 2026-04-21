@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Chapter 3: Avernus - Other Locations"
 tags:
   - Quelle/5e/bgdia
 aliases:

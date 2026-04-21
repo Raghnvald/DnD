@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Drow High Magic
 tags:
   - Zauber/list/feat/drow-high-magic
 aliases:

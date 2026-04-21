@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-class
+Bezeichnung: Path of the Beast
 tags:
-  - Quelle/5e/tce
   - Klasse/Barbar/beast
+  - Quelle/5e/tce
 aliases:
   - Path of the Beast
 ---
@@ -41,7 +40,6 @@ aliases:
 > </tbody></table>
 
 ^class-progression
-
 
 > [!caution] Mixed edition content
 > This subclass is from a different game edition. You will need to do some adjustment to resolve differences.

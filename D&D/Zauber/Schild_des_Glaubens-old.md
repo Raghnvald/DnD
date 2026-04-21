@@ -1,5 +1,4 @@
 ---
-cssclasses: json5e-spell
 Bezeichnung: Schild des Glaubens
 Zaubergrad: 1
 tags:

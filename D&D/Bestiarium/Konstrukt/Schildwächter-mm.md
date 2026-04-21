@@ -10,11 +10,11 @@ Habitat:
 image: token/shield-guardian.webp
 status: WIP
 tags:
-  - Quelle/5e/mm
-  - Monster/HG/7
-  - Monster/Habitat/Stadt
   - Monster/Größe/Groß
+  - Monster/Habitat/Stadt
+  - Monster/HG/7
   - Monster/Typ/Konstrukt
+  - Quelle/5e/mm
 aliases:
   - Shield Guardian
 ---

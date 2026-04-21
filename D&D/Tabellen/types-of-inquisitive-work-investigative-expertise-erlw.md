@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Types of Inquisitive Work; Investigative Expertise
 tags:
   - Quelle/5e/erlw
 aliases:

@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/wdh
-  - Monster/HG/0
-  - Monster/Größe/Winzig
-  - Monster/Typ/Tier
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Falcon
+tags:
+  - Monster/Größe/Winzig
+  - Monster/HG/0
+  - Monster/Typ/Tier
+  - Quelle/5e/wdh
 aliases:
   - Falcon
 ---

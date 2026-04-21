@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Conjure Celestial
 Zaubergrad: 7
 tags:

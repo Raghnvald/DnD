@@ -1,3 +1,7 @@
+---
+Bezeichnung: Item Card Template
+---
+# Item Card Template
 
 > [!recite|alt-line txt-s nmg clean collapse nbrd clear bg-yellow]- Item Example
 > **Quantity:** 1x

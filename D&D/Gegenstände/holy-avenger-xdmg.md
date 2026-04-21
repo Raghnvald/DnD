@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Holy Avenger
 tags:
   - Gegenstand/Ausrüstung/Zauberfokus

@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Confusion
 tags:
   - Klasse/Barde
@@ -13,8 +11,8 @@ tags:
   - Klasse/Schurke/Arkaner-Betrüger
   - Klasse/Zauberer
   - Quelle/5e/xphb
-  - Subklasse/Mystischer-Ritter
   - Subklasse/great-old-one-patron
+  - Subklasse/Mystischer-Ritter
   - Zauber/Grad/4
   - Zauber/optfeature/dreadful-word
   - Zauber/Schule/Verzauberung

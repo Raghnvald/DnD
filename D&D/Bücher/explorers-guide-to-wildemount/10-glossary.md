@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Glossary
 tags:
   - Quelle/5e/egw
 aliases:

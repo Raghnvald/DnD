@@ -1,11 +1,10 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Gruumsh
 tags:
-  - Quelle/5e/vgm
-  - Kompendium/Götter/orc
   - Kompendium/Götter/Domäne/tempest
   - Kompendium/Götter/Domäne/war
+  - Kompendium/Götter/orc
+  - Quelle/5e/vgm
 aliases:
   - Gruumsh
 ---

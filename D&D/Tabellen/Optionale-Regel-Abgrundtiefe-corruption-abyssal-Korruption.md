@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Optional Rule: Abyssal Corruption; Abyssal Corruption"
 tags:
   - Quelle/5e/dmg
 aliases:

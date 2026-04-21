@@ -1,8 +1,10 @@
 ---
 Bezeichnung: Far Realm Shard
+Kategorie: Wundersamer Gegenstand 
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
+  - Gegenstand/wundersam
   - Quelle/5e/tce
 aliases:
   - Far Realm Shard

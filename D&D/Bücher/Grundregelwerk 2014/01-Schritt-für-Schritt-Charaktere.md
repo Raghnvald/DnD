@@ -1,4 +1,5 @@
 ---
+Bezeichnung: 1. Wähle eine Rasse
 tags: []
 ---
 # 1. Wähle eine Rasse
@@ -44,7 +45,6 @@ Rettungswurf-GC für Zauber, die du wirkst (in jeder Zauberklassenbeschreibung e
 Deine Klasse bestimmt deine Waffenfertigkeiten, deine Rettungswurf-Fertigkeiten und einige deiner Fertigkeits- und Werkzeugfertigkeiten. (Fertigkeiten werden in "Verwendung von Fähigkeitswerten", Werkzeuge in "Ausrüstung" beschrieben.) Dein Hintergrund gibt dir zusätzliche Fertigkeits- und Werkzeugfertigkeiten, und einige Rassen geben dir weitere Fertigkeiten. Achte darauf, alle diese Fertigkeiten sowie deinen Fertigkeitsbonus auf deinem Charakterbogen zu notieren.
 
 Dein Fertigkeitsbonus kann nicht mehr als einmal zu einem einzelnen Würfelwurf oder einer anderen Zahl hinzugefügt werden. Gelegentlich kann dein Fertigkeitsbonus modifiziert werden (verdoppelt oder halbiert, zum Beispiel), bevor du ihn anwendest. Wenn eine Umständlichkeit darauf hindeutet, dass dein Fertigkeitsbonus mehr als einmal auf denselben Wurf angewendet werden soll oder dass er mehr als einmal multipliziert werden soll, fügst du ihn dennoch nur einmal hinzu, multiplizierst ihn nur einmal und halbierst ihn nur einmal.
-
 
 # 3. Bestimme Fähigkeitswerte
 Vieles von dem, was dein Charakter im Spiel tut, hängt von seinen oder ihren sechs Fähigkeiten ab: Stärke, Geschicklichkeit, Konstitution, Intelligenz, Weisheit und Charisma. Jede Fähigkeit hat einen Wert, den du auf deinem Charakterbogen notierst.

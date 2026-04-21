@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Renown in Kalakeri
 tags:
   - Quelle/5e/vrgr
 aliases:

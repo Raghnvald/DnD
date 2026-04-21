@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Worldroot Circle Adventures
 tags:
   - Quelle/5e/bgg
 aliases:

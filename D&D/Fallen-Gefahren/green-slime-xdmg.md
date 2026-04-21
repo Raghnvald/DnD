@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-hazard
+Bezeichnung: Green Slime
 tags:
   - Quelle/5e/xdmg
 aliases:

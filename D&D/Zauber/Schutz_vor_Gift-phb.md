@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Protection from Poison
 Zaubergrad: 2
 tags:

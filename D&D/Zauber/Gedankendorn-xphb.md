@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Mind Spike
 tags:
   - Klasse/Barde

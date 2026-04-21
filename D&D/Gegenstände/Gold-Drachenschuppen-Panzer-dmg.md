@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Gold Dragon Scale Mail
 Rüstung: Mittel
 tags:

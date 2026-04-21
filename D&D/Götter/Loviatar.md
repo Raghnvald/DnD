@@ -1,11 +1,11 @@
 ---
-cssclasses: json5e-deity
+Bezeichnung: Loviatar, Göttin der Schmerzen
 tags:
-  - Quelle/5e/phb
   - Kompendium/Götter
+  - Kompendium/Götter/Domäne/Tod
   - Kompendium/Götter/Gesinnung/Rechtschaffen_Böse
   - Kompendium/Götter/Pantheon/Faerun
-  - Kompendium/Götter/Domäne/Tod
+  - Quelle/5e/phb
 aliases:
   - Loviatar
 ---

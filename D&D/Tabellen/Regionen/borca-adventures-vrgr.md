@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Borca Adventures
 tags:
   - Quelle/5e/vrgr
 aliases:

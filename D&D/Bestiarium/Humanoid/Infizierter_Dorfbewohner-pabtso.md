@@ -1,14 +1,14 @@
 ---
-tags:
-  - Quelle/5e/pabtso
-  - Monster/HG/2
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/any-race
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Infected Townsperson
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/2
+  - Monster/Typ/Humanoid/any-race
+  - Quelle/5e/pabtso
 aliases:
   - Infected Townsperson
-Bezeichnung: Infizierter Dorfbewohner
 Image: humanoid/token/infected-townsperson-pabtso.webp
 ---
 # Infected Townsperson

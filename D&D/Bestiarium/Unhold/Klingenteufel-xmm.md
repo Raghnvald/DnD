@@ -1,15 +1,14 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/5
-  - Monster/Habitat/nine-hells
-  - Monster/Habitat/planar
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Unhold/devil
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Barbed Devil
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/nine-hells
+  - Monster/Habitat/planar
+  - Monster/HG/5
+  - Monster/Typ/Unhold/devil
+  - Quelle/5e/xmm
 aliases:
   - Barbed Devil
 ---

@@ -9,8 +9,8 @@ tags:
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Buch
   - Book
+  - Buch
 linter-yaml-title-alias: Buch
 ---
 # Buch

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Fist of Four Thunders
 tags:
   - Zauber/list/optfeature/fist-of-four-thunders
 aliases:

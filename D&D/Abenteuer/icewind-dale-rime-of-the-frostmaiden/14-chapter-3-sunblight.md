@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Chapter 3: Sunblight"
 tags:
   - Quelle/5e/idrotf
 aliases:

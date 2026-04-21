@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-reward
+Bezeichnung: The Blessed of Corellon
 tags:
-  - Quelle/5e/mtf
   - Kompendium/Belohnung/other
+  - Quelle/5e/mtf
 aliases:
   - The Blessed of Corellon
 ---

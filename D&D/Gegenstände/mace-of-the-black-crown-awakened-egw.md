@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Mace of the Black Crown (Awakened)
 Kategorie: Einfache Nahkampfwaffe
 tags:

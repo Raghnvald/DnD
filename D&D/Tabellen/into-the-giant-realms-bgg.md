@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Into the Giant Realms
 tags:
   - Quelle/5e/bgg
 aliases:

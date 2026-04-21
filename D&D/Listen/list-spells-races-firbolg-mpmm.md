@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Firbolg
 tags:
   - Zauber/list/race/firbolg
 aliases:

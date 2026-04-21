@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Bag of Devouring
 tags:
   - Gegenstand/Seltenheit/sehr_selten

@@ -1,8 +1,9 @@
 ---
+Bezeichnung: Ergänzende Tabelle; Abwesendes Elternteil
 tags:
-- Quelle/5e/xge
+  - Quelle/5e/xge
 aliases:
-- Supplemental Tables; Absent Parent
+  - Supplemental Tables; Absent Parent
 ---
 # Ergänzende Tabelle; Abwesendes Elternteil
 *Quellen: Xanathars Ratgeber für Alles S. 63* 

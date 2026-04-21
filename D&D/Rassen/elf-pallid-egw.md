@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-race
+Bezeichnung: Elf (Pallid)
 tags:
   - Quelle/5e/egw
   - Rasse/elf/pallid

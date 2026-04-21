@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Order of the Emerald Claw NPCs; Emerald Claw NPCs
 tags:
   - Quelle/5e/erlw
 aliases:

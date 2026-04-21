@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Orzhov Character Goals; Orzhov Assignments
 tags:
   - Quelle/5e/ggr
 aliases:

@@ -1,10 +1,10 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Scaled Ornament
+Kategorie: Wundersamer Gegenstand 
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/variiert
+  - Gegenstand/wundersam
   - Quelle/5e/ftd
 aliases:
   - Scaled Ornament

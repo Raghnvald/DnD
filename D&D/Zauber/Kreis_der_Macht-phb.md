@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Circle of Power
 Zaubergrad: 5
 tags:

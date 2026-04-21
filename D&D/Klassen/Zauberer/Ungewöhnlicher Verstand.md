@@ -1,6 +1,10 @@
 ---
-tags: [Klasse/Zauberer, Quelle/5e/tce]
-aliases: [Abberant Mind]
+Bezeichnung: Ungewöhnlicher Verstand
+tags:
+  - Klasse/Zauberer
+  - Quelle/5e/tce
+aliases:
+  - Abberant Mind
 ---
 # Ungewöhnlicher Verstand
 _[[Zauberer]]_: Magische Herkunft

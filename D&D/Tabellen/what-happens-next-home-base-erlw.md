@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: What Happens Next?; Home Base
 tags:
   - Quelle/5e/erlw
 aliases:

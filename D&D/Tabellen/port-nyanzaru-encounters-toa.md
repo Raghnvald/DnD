@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Port Nyanzaru Encounters
 tags:
   - Quelle/5e/toa
 aliases:

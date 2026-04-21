@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mm
-  - Monster/HG/4
-  - Monster/Habitat/Stadt
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Unhold/shapechanger
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Incubus
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Stadt
+  - Monster/HG/4
+  - Monster/Typ/Unhold/shapechanger
+  - Quelle/5e/mm
 aliases:
   - Incubus
 ---

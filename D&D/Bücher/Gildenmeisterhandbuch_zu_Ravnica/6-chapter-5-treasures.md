@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Chapter 5: Treasures"
 tags:
   - Quelle/5e/ggr
 aliases:

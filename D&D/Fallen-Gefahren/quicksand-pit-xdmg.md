@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-hazard
+Bezeichnung: Quicksand Pit
 tags:
   - Quelle/5e/xdmg
 aliases:

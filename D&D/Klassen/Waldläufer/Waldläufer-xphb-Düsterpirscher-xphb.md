@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-class
+Bezeichnung: Gloom Stalker
 tags:
-  - Quelle/5e/xphb
   - Klasse/Waldläufer/gloom-stalker
+  - Quelle/5e/xphb
 aliases:
   - Gloom Stalker
 ---
@@ -41,7 +40,6 @@ aliases:
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 

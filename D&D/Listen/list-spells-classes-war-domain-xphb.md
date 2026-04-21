@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for War Domain
 tags:
   - Zauber/list/subclass/war-domain
 aliases:

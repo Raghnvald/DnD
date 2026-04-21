@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Deep Ethereal; Ethereal Curtains
 tags:
   - Quelle/5e/xdmg
 aliases:

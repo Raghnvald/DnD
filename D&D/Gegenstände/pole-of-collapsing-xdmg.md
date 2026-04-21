@@ -1,12 +1,9 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Pole of Collapsing
 tags:
   - Gegenstand/Seltenheit/gewöhnlich
   - Quelle/5e/xdmg
 aliases:
-  - Pole of Collapsing
   - Pole of Collapsing
 linter-yaml-title-alias: Pole of Collapsing
 ---

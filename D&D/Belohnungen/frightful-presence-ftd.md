@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-reward
+Bezeichnung: Frightful Presence
 tags:
-  - Quelle/5e/ftd
   - Kompendium/Belohnung/draconic-gift
+  - Quelle/5e/ftd
 aliases:
   - Frightful Presence
 ---

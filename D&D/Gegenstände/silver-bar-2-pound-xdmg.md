@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Silver Bar (2-pound)
 tags:
   - Gegenstand/Ausrüstung/trade-bar

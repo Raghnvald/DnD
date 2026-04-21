@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Appendix B: Nonplayer Characters"
 tags:
   - Quelle/5e/mm
 aliases:

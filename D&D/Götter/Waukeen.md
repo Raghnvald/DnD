@@ -1,13 +1,14 @@
 ---
+Bezeichnung: Waukeen, Göttin des Handels
 tags:
-- Quelle/5e/phb
-- Kompendium/Götter
-- Kompendium/Götter/Gesinnung/Neutral
-- Kompendium/Götter/Pantheon/Faerun
-- Kompendium/Götter/Domäne/Wissen
-- Kompendium/Götter/Domäne/List
+  - Kompendium/Götter
+  - Kompendium/Götter/Domäne/List
+  - Kompendium/Götter/Domäne/Wissen
+  - Kompendium/Götter/Gesinnung/Neutral
+  - Kompendium/Götter/Pantheon/Faerun
+  - Quelle/5e/phb
 aliases:
-- Waukeen
+  - Waukeen
 ---
 # Waukeen, Göttin des Handels
 _Unsere Dame des Goldes, die Münzmaid, Kaufmannsfreund_

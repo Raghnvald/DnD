@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mcv1sc
-  - Monster/HG/1-8
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Pflanze
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Gadabout
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/1-8
+  - Monster/Typ/Pflanze
+  - Quelle/5e/mcv1sc
 aliases:
   - Gadabout
 ---

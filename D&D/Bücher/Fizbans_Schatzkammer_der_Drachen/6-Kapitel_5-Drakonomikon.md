@@ -1,4 +1,5 @@
 ---
+Bezeichnung: Draconomicon
 tags:
   - Quelle/5e/ftd
 aliases:

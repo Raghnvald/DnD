@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Star Razor (Dormant)
 Kategorie: Nahkampf-Kriegswaffe
 tags:

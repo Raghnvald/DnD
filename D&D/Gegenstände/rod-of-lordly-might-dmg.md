@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Rod of Lordly Might
 Kategorie: Einfache Nahkampfwaffe 
 tags:

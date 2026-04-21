@@ -1,8 +1,10 @@
 ---
 Bezeichnung: +3 Arcane Grimoire
+Kategorie: Wundersamer Gegenstand
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
+  - Gegenstand/wundersam
   - Quelle/5e/tce
 aliases:
   - +3 Arcane Grimoire

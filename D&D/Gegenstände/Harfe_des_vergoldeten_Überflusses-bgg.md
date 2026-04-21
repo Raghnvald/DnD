@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Harp of Gilded Plenty
 tags:
   - Gegenstand/Einstimmung/required

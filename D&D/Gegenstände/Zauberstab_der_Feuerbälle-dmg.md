@@ -1,7 +1,6 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Wand of Fireballs
+Kategorie: Zauberstab
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten

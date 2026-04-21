@@ -1,12 +1,12 @@
 ---
-cssclasses: json5e-deity
+Bezeichnung: Jergal, Schreiber der Toten
 tags:
-  - Quelle/5e/phb
   - Kompendium/Götter
+  - Kompendium/Götter/Domäne/Tod
+  - Kompendium/Götter/Domäne/Wissen
   - Kompendium/Götter/Gesinnung/Rechtschaffen_Neutral
   - Kompendium/Götter/Pantheon/Faerun
-  - Kompendium/Götter/Domäne/Wissen
-  - Kompendium/Götter/Domäne/Tod
+  - Quelle/5e/phb
 aliases:
   - Jergal
 ---

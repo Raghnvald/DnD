@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Using a Map; Map Travel Pace
 tags:
   - Quelle/5e/dmg
 aliases:

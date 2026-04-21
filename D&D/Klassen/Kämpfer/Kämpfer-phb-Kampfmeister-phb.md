@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-class
 Bezeichnung: Battle Master
 tags:
   - Klasse/Kämpfer/battle-master

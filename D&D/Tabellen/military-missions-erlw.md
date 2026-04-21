@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Military Missions
 tags:
   - Quelle/5e/erlw
 aliases:

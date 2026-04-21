@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Speaking Stone
 tags:
   - Gegenstand/Seltenheit/sehr_selten

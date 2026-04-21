@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-background
+Bezeichnung: Faceless
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/bgdia
@@ -9,7 +8,6 @@ aliases:
 ---
 # Faceless
 *Source: Baldur's Gate: Descent Into Avernus p. 203*  
-
 
 - **Skill Proficiencies.** [Deception](/3-Mechanics/CLI/skills.md#Deception), [Intimidation](/3-Mechanics/CLI/skills.md#Intimidation)  
 - **Tool Proficiencies.** [Disguise kit](/3-Mechanics/CLI/items/disguise-kit-xphb.md)  

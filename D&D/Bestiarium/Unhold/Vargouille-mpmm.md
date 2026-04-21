@@ -1,16 +1,15 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mpmm
-  - Monster/HG/1
-  - Monster/Habitat/Wüste
-  - Monster/Habitat/Sumpf
-  - Monster/Habitat/Unterreich
-  - Monster/Größe/Winzig
-  - Monster/Typ/Unhold
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Vargouille
+tags:
+  - Monster/Größe/Winzig
+  - Monster/Habitat/Sumpf
+  - Monster/Habitat/Unterreich
+  - Monster/Habitat/Wüste
+  - Monster/HG/1
+  - Monster/Typ/Unhold
+  - Quelle/5e/mpmm
 aliases:
   - Vargouille
 ---

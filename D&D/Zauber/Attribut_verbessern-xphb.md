@@ -7,12 +7,12 @@ Komponenten:
 Wirkungsdauer:
 Angriff:
 tags:
+  - Klasse/Artifizient
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
   - Klasse/Druide
   - Klasse/Kleriker
   - Klasse/Magier
-  - Klasse/Artifizient
   - Klasse/Paladin/oath-of-glory
   - Klasse/Schurke/Arkaner-Betrüger
   - Klasse/Waldläufer

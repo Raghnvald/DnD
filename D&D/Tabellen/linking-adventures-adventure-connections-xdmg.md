@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Linking Adventures; Adventure Connections
 tags:
   - Quelle/5e/xdmg
 aliases:

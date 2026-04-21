@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Bag of Tricks, Rust
+Bezeichnung: Trickbeutel, rostfarben
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/xdmg

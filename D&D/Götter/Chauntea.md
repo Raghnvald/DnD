@@ -1,11 +1,11 @@
 ---
-cssclasses: json5e-deity
+Bezeichnung: Chauntea, Göttin der Landwirtschaft
 tags:
-  - Quelle/5e/phb
   - Kompendium/Götter
+  - Kompendium/Götter/Domäne/Leben
   - Kompendium/Götter/Gesinnung/Neutral_Gut
   - Kompendium/Götter/Pantheon/Faerun
-  - Kompendium/Götter/Domäne/Leben
+  - Quelle/5e/phb
 aliases:
   - Chauntea
 ---

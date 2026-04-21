@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for College of Glamour
 tags:
   - Zauber/list/subclass/college-of-glamour
 aliases:

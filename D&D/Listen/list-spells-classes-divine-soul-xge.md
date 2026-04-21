@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Divine Soul
 tags:
   - Zauber/list/subclass/divine-soul
 aliases:

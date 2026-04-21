@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Fear
 tags:
   - Klasse/Barde
@@ -12,9 +10,9 @@ tags:
   - Klasse/Zauberer
   - Quelle/5e/xphb
   - Subklasse/draconic-sorcery
-  - Subklasse/Mystischer-Ritter
   - Subklasse/gloom-stalker
   - Subklasse/illusionist
+  - Subklasse/Mystischer-Ritter
   - Zauber/Grad/3
   - Zauber/Schule/Illusion
 classes:

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Physical Characteristics; Beholder Teeth Shape
 tags:
   - Quelle/5e/vgm
 aliases:

@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Protection from Energy
 Zaubergrad: 3
 tags:

@@ -1,10 +1,9 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Freya
 tags:
-  - Quelle/5e/phb
-  - Kompendium/Götter/norse
   - Kompendium/Götter/Domäne/life
+  - Kompendium/Götter/norse
+  - Quelle/5e/phb
 aliases:
   - Freya
 ---

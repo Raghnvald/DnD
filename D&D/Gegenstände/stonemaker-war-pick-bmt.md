@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Stonemaker War Pick
 Kategorie: Nahkampf-Kriegswaffe
 tags:

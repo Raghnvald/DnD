@@ -1,22 +1,21 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mpmm
-  - Monster/HG/23
-  - Monster/Habitat/Arktis
-  - Monster/Habitat/Küste
-  - Monster/Habitat/Grasland
-  - Monster/Habitat/Hügel
-  - Monster/Habitat/Berg
-  - Monster/Größe/Gigantisch
-  - Monster/Typ/Elementar
 statblock: inline
 statblock-link: "#^statblock"
-aliases:
-  - Elder Tempest
+Bezeichnung: Elder Tempest
 Kategorie: Elementar
 Größe: Gigantisch
+tags:
+  - Monster/Größe/Gigantisch
+  - Monster/Habitat/Arktis
+  - Monster/Habitat/Berg
+  - Monster/Habitat/Grasland
+  - Monster/Habitat/Hügel
+  - Monster/Habitat/Küste
+  - Monster/HG/23
+  - Monster/Typ/Elementar
+  - Quelle/5e/mpmm
+aliases:
+  - Elder Tempest
 ---
 # [Elder Tempest](3-Mechanics\CLI\bestiary\elemental/elder-tempest-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 121*  

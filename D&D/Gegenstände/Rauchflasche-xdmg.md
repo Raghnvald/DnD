@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Eversmoking Bottle
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich

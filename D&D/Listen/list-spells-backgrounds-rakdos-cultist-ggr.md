@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Rakdos Cultist
 tags:
   - Zauber/list/background/rakdos-cultist
 aliases:

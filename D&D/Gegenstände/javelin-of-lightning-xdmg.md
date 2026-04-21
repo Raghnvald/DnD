@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Javelin of Lightning
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich

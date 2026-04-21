@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Ring of Mind Shielding
 tags:
   - Gegenstand/Einstimmung/required

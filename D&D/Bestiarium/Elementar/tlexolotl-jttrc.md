@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/jttrc
-  - Monster/HG/10
-  - Monster/Größe/Riesig
-  - Monster/Typ/Elementar
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Tlexolotl
+tags:
+  - Monster/Größe/Riesig
+  - Monster/HG/10
+  - Monster/Typ/Elementar
+  - Quelle/5e/jttrc
 aliases:
   - Tlexolotl
 ---

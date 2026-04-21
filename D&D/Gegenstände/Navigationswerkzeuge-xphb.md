@@ -1,13 +1,10 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Navigator's Tools
+Bezeichnung: "Navigator's Tools"
 tags:
   - Gegenstand/Ausrüstung/Werkzeug
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
-  - Navigator's Tools
   - Navigator's Tools
 linter-yaml-title-alias: Navigator's Tools
 ---

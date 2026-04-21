@@ -1,15 +1,14 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mpmm
-  - Monster/HG/1
-  - Monster/Habitat/Berg
-  - Monster/Habitat/Unterreich
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/dwarf
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Duergar Soulblade
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Berg
+  - Monster/Habitat/Unterreich
+  - Monster/HG/1
+  - Monster/Typ/Humanoid/dwarf
+  - Quelle/5e/mpmm
 aliases:
   - Duergar Soulblade
 ---

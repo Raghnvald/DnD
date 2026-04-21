@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/wdmm
-  - Monster/HG/
-  - Monster/Größe/Winzig
-  - Monster/Typ/Konstrukt
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Animated Wand
+tags:
+  - Monster/Größe/Winzig
+  - Monster/HG/
+  - Monster/Typ/Konstrukt
+  - Quelle/5e/wdmm
 aliases:
   - Animated Wand
 ---

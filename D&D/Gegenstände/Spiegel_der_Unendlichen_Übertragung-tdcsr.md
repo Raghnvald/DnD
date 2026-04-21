@@ -1,9 +1,9 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Mirror of Infinite Transpondence
+Kategorie: Wundersamer Gegenstand 
 tags:
   - Gegenstand/Seltenheit/sehr_selten
+  - Gegenstand/wundersam
   - Quelle/5e/tdcsr
 aliases:
   - Mirror of Infinite Transpondence

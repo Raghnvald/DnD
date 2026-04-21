@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mm
-  - Monster/HG/14
-  - Monster/Größe/Groß
-  - Monster/Typ/Unhold/devil
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Ice Devil
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/14
+  - Monster/Typ/Unhold/devil
+  - Quelle/5e/mm
 aliases:
   - Ice Devil
 ---

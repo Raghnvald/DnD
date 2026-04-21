@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Random Encounters; Ruin Encounters
 tags:
   - Quelle/5e/bmt
 aliases:

@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Condemner (Exalted)
 Kategorie: Fernkampf-Kriegswaffe
 tags:

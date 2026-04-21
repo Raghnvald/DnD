@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Star Razor (Exalted)
 Kategorie: Nahkampf-Kriegswaffe
 tags:

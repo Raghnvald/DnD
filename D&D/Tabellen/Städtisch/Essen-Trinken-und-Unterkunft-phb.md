@@ -1,4 +1,5 @@
 ---
+Bezeichnung: Essen, Trinken und Unterkunft
 tags:
   - Quelle/5e/phb
 aliases:

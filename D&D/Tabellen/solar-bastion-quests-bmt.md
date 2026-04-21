@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Solar Bastion Quests
 tags:
   - Quelle/5e/bmt
 aliases:

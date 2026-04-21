@@ -1,10 +1,9 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Ezra
 tags:
-  - Quelle/5e/vrgr
-  - Kompendium/Götter/unknown
   - Kompendium/Götter/Domäne/unknown
+  - Kompendium/Götter/unknown
+  - Quelle/5e/vrgr
 aliases:
   - Ezra
 ---

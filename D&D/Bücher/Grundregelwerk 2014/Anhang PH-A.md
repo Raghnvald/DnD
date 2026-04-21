@@ -1,4 +1,5 @@
 ---
+Bezeichnung: Zustände
 tags: []
 ---
 # Zustände

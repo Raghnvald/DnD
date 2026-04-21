@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: School of Magic; Schools of Magic
 tags:
   - Quelle/5e/xphb
 aliases:

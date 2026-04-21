@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "A Dragon's Curse; Hoard Curse Effects"
 tags:
   - Quelle/5e/ftd
 aliases:

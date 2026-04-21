@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Holy Aura
 tags:
   - Klasse/Barde

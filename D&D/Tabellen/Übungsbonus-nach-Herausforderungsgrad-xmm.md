@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Proficiency Bonus by Challenge Rating
 tags:
   - Quelle/5e/xmm
 aliases:

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Power Level; Magic Item Power by Rarity
 tags:
   - Quelle/5e/xdmg
 aliases:

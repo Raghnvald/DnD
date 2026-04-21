@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "The Nightsea's Succor"
 tags:
   - Quelle/5e/jttrc
 aliases:

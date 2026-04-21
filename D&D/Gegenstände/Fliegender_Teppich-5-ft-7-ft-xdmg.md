@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Carpet of Flying, 5 ft. × 7 ft.
 tags:
   - Gegenstand/Seltenheit/sehr_selten

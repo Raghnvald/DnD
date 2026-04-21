@@ -1,7 +1,5 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Zweihandaxt
+Bezeichnung: Greataxe
 Kategorie: Nahkampf-Kriegswaffe
 tags:
   - Gegenstand/Seltenheit/keine

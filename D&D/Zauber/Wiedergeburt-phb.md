@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Reincarnate
 Zaubergrad: 5
 tags:

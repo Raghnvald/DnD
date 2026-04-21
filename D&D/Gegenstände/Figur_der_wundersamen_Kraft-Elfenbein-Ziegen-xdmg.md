@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Figurine of Wondrous Power, Ivory Goats
 tags:
   - Gegenstand/Seltenheit/selten

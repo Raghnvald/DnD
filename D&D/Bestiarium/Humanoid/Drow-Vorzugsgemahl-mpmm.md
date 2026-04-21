@@ -1,15 +1,14 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mpmm
-  - Monster/HG/18
-  - Monster/Habitat/Unterreich
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/elf
-  - Monster/Typ/Humanoid/wizard
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Drow Favored Consort
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Unterreich
+  - Monster/HG/18
+  - Monster/Typ/Humanoid/elf
+  - Monster/Typ/Humanoid/wizard
+  - Quelle/5e/mpmm
 aliases:
   - Drow Favored Consort
 ---

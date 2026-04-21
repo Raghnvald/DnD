@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-background
+Bezeichnung: Folk Hero
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/phb
@@ -9,7 +8,6 @@ aliases:
 ---
 # Folk Hero
 *Source: Player's Handbook p. 131. Available in the Basic Rules (2014)*  
-
 
 - **Skill Proficiencies.** [Animal Handling](/3-Mechanics/CLI/skills.md#Animal%20Handling), [Survival](/3-Mechanics/CLI/skills.md#Survival)  
 - **Tool Proficiencies.** One type of artisan's tools, vehicles (land)  

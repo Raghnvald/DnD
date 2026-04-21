@@ -1,10 +1,10 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Belashyrra's Beholder Crown
+Bezeichnung: "Belashyrra's Beholder Crown"
+Kategorie: Wundersamer Gegenstand
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
+  - Gegenstand/wundersam
   - Quelle/5e/erlw
 aliases:
   - Belashyrra's Beholder Crown

@@ -1,7 +1,5 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Ruin's Wake
+Bezeichnung: "Ruin's Wake"
 Kategorie: Einfache Nahkampfwaffe
 Einstimmung: erfordert
 tags:
@@ -11,7 +9,6 @@ tags:
   - Gegenstand/Waffe/Nahkampf
   - Quelle/5e/egw
 aliases:
-  - Ruin's Wake
   - Ruin's Wake
 linter-yaml-title-alias: Ruin's Wake
 ---

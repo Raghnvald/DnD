@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Famous Story
 tags:
   - Quelle/5e/erlw
 aliases:

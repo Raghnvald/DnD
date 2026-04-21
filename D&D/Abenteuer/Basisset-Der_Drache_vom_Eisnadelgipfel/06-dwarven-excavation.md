@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Dwarven Excavation
 tags:
   - Quelle/5e/dip
 aliases:

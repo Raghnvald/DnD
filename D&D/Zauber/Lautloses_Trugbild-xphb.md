@@ -16,8 +16,8 @@ tags:
   - Kompendium/Talent/magic-initiate/wizard-spells
   - Kompendium/Talent/shadow-touched
   - Quelle/5e/xphb
-  - Subklasse/Mystischer-Ritter
   - Subklasse/illusionist
+  - Subklasse/Mystischer-Ritter
   - Zauber/Grad/1
   - Zauber/optfeature/misty-visions
   - Zauber/Schule/Illusion

@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Bead of Refreshment
 tags:
   - Gegenstand/Seltenheit/gewöhnlich

@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-feat
+Bezeichnung: Quickened Spell
 tags:
-  - Quelle/5e/xphb
   - Kompendium/Optionales/mm
+  - Quelle/5e/xphb
 aliases:
   - Quickened Spell
 ---

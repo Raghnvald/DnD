@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Player Characters as Vampires
 tags:
   - Quelle/5e/mm
 aliases:

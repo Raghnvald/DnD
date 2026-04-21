@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Robe of Stars
 tags:
   - Gegenstand/Einstimmung/required

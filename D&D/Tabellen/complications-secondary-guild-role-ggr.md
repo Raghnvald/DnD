@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Complications; Secondary Guild Role
 tags:
   - Quelle/5e/ggr
 aliases:

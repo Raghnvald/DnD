@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Chapter 12: The Wizard of Wines"
 tags:
   - Quelle/5e/cos
 aliases:

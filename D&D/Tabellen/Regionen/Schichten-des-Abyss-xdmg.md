@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Schichten des Abyss
 tags:
   - Quelle/5e/xdmg
 aliases:

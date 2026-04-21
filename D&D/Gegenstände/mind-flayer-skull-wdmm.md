@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Mind Flayer Skull
 tags:
   - Gegenstand/Seltenheit/unbekannt/magic

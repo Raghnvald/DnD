@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mcv2dc
-  - Monster/HG/5
-  - Monster/Größe/Klein
-  - Monster/Typ/Humanoid
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Nevermind Gnome Mastermind
+tags:
+  - Monster/Größe/Klein
+  - Monster/HG/5
+  - Monster/Typ/Humanoid
+  - Quelle/5e/mcv2dc
 aliases:
   - Nevermind Gnome Mastermind
 ---

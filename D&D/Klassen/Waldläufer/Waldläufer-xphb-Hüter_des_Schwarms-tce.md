@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-class
+Bezeichnung: Swarmkeeper
 tags:
-  - Quelle/5e/tce
   - Klasse/Waldläufer/swarmkeeper
+  - Quelle/5e/tce
 aliases:
   - Swarmkeeper
 ---
@@ -41,7 +40,6 @@ aliases:
 > </tbody></table>
 
 ^class-progression
-
 
 > [!caution] Mixed edition content
 > This subclass is from a different game edition. You will need to do some adjustment to resolve differences.

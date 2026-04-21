@@ -1,15 +1,14 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: The Dawnfather
 tags:
-  - Quelle/5e/tdcsr
-  - Kompendium/Götter/exandria
   - Kompendium/Götter/Domäne/life
   - Kompendium/Götter/Domäne/light
   - Kompendium/Götter/Domäne/nature
+  - Kompendium/Götter/exandria
+  - Quelle/5e/tdcsr
 aliases:
-  - The Dawnfather
   - Pelor
+  - The Dawnfather
 ---
 # The Dawnfather
 *Source: Tal'Dorei Campaign Setting Reborn p. 32* 

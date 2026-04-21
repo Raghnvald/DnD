@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-background
+Bezeichnung: Far Traveler
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/scag
@@ -9,7 +8,6 @@ aliases:
 ---
 # Far Traveler
 *Source: Sword Coast Adventurer's Guide p. 148*  
-
 
 - **Skill Proficiencies.** [Insight](/3-Mechanics/CLI/skills.md#Insight), [Perception](/3-Mechanics/CLI/skills.md#Perception)  
 - **Tool Proficiencies.** Any one musical instrument or gaming set of your choice, likely something native to your homeland  

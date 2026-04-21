@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Last Stand Armor-egw
+Bezeichnung: Last Stand Armor
 Rüstung: Leicht, Mittel oder Schwer
 tags:
   - Gegenstand/Rüstung/Leicht

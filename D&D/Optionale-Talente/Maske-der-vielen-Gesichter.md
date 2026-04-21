@@ -1,8 +1,8 @@
 ---
-cssclasses: json5e-note
+Bezeichnung: Maske der vielen Gesichter
 tags:
-  - Quelle/5e/phb
   - Kompendium/Optionales/Anrufungen
+  - Quelle/5e/phb
 aliases:
   - Mask of Many Faces
 ---

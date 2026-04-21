@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Rod of Security
 tags:
   - Gegenstand/Seltenheit/sehr_selten

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Treasure Hoard: Challenge 11—16"
 tags:
   - Quelle/5e/dmg
 aliases:

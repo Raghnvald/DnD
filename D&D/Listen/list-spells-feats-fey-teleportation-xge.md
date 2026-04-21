@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Fey Teleportation
 tags:
   - Zauber/list/feat/fey-teleportation
 aliases:

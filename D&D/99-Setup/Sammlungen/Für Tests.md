@@ -1,3 +1,7 @@
+---
+Bezeichnung: Für Tests
+---
+# Für Tests
 ## Obstgarten Edermath
 Daran Edermath ist ein Drow-Abenteurer im Ruhestand. Er lebt in einem ordentlichen kleinen Häuschen neben einer Apfelplantage, die vor langer Zeit verwildert ist, und er arbeitet daran, das Unterholz zu entfernen und die Plantage wieder zu pflegen. Daran ist weit über fünfhundert Jahre alt und hat viele Jahre als Marschall und Herold in den Ländern der Drachenküste, weit im Süden, gearbeitet. Als er in den Ruhestand ging, kehrte er in die Region Neverwinter zurück, seine ursprüngliche Heimat.
 

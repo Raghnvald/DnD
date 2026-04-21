@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Gruul Anarch
 tags:
   - Zauber/list/background/gruul-anarch
 aliases:

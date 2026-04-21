@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Chapter 13: Star"
 tags:
   - Quelle/5e/bmt
 aliases:

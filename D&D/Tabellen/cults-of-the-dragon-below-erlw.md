@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Cults of the Dragon Below
 tags:
   - Quelle/5e/erlw
 aliases:

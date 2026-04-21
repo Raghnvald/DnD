@@ -1,15 +1,14 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Leira
 tags:
-  - Quelle/5e/scag
-  - Kompendium/Götter/faerunian
   - Kompendium/Götter/Domäne/trickery
+  - Kompendium/Götter/faerunian
+  - Quelle/5e/scag
 aliases:
   - Leira
-  - The Lady of the Mists
   - Mistshadow
   - The Lady of Deception
+  - The Lady of the Mists
 ---
 # Leira
 *Source: Sword Coast Adventurer's Guide p. 21* 

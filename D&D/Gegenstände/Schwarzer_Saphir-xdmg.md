@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Black Sapphire
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-race
+Bezeichnung: Grimlock
 tags:
   - Quelle/5e/dmg
   - Rasse/grimlock
@@ -9,7 +8,6 @@ aliases:
 ---
 # Grimlock
 *Source: Dungeon Master's Guide p. 282*  
-
 
 - **Ability Scores**: str +2 cha -2
 - **Size**: Medium

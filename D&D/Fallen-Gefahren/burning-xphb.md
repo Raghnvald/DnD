@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-hazard
+Bezeichnung: Burning
 tags:
   - Quelle/5e/xphb
 aliases:

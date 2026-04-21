@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-feat
+Bezeichnung: Grasp of Hadar
 tags:
-  - Quelle/5e/xge
   - Kompendium/Optionales/ei
+  - Quelle/5e/xge
 aliases:
   - Grasp of Hadar
 ---

@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Backpack Parachute
 tags:
   - Gegenstand/Seltenheit/unbekannt

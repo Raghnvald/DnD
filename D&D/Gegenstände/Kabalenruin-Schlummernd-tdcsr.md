@@ -1,10 +1,10 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Cabal's Ruin (Dormant)
+Bezeichnung: "Cabal's Ruin (Dormant)"
+Kategorie: Wundersamer Gegenstand 
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
+  - Gegenstand/wundersam
   - Quelle/5e/tdcsr
 aliases:
   - Cabal's Ruin (Dormant)

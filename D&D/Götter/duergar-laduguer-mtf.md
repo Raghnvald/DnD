@@ -1,11 +1,10 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Laduguer
 tags:
-  - Quelle/5e/mtf
-  - Kompendium/Götter/duergar
   - Kompendium/Götter/Domäne/death
   - Kompendium/Götter/Domäne/forge
+  - Kompendium/Götter/duergar
+  - Quelle/5e/mtf
 aliases:
   - Laduguer
 ---

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Random Buildings; Religious Building
 tags:
   - Quelle/5e/dmg
 aliases:

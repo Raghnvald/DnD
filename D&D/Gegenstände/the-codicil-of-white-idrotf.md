@@ -1,9 +1,9 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: The Codicil of White
+Kategorie: Wundersamer Gegenstand 
 tags:
   - Gegenstand/Seltenheit/unbekannt/magic
+  - Gegenstand/wundersam
   - Quelle/5e/idrotf
 aliases:
   - The Codicil of White

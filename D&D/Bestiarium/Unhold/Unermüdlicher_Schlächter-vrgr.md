@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/vrgr
-  - Monster/HG/8
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Unhold
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Relentless Slasher
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/8
+  - Monster/Typ/Unhold
+  - Quelle/5e/vrgr
 aliases:
   - Relentless Slasher
 ---

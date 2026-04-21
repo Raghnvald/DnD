@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mcv2dc
-  - Monster/HG/2
-  - Monster/Größe/Klein
-  - Monster/Typ/Humanoid
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Nevermind Gnome Inventor
+tags:
+  - Monster/Größe/Klein
+  - Monster/HG/2
+  - Monster/Typ/Humanoid
+  - Quelle/5e/mcv2dc
 aliases:
   - Nevermind Gnome Inventor
 ---

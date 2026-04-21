@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-class
+Bezeichnung: Draconic Bloodline
 tags:
-  - Quelle/5e/phb
   - Klasse/Zauberer/draconic
+  - Quelle/5e/phb
 aliases:
   - Draconic Bloodline
 ---
@@ -41,7 +40,6 @@ aliases:
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 

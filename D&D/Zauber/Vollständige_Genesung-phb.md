@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Greater Restoration
+Bezeichnung: Vollständige Genesung
 Zaubergrad: 5
 Zeitaufwand: 1 Aktion
 Reichweite: Berührung

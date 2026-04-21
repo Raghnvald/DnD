@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: The Fiend of Hollow Mine
 tags:
   - Quelle/5e/jttrc
 aliases:

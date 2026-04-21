@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Foul Weather at Wayside
 tags:
   - Quelle/5e/slw
 aliases:

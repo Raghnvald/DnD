@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/30
-  - Monster/Habitat/Stadt
-  - Monster/Größe/Gigantisch
-  - Monster/Typ/Monstrosität/titan
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Tarrasque
+tags:
+  - Monster/Größe/Gigantisch
+  - Monster/Habitat/Stadt
+  - Monster/HG/30
+  - Monster/Typ/Monstrosität/titan
+  - Quelle/5e/xmm
 aliases:
   - Tarrasque
 ---

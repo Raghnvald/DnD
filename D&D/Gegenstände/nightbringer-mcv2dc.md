@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Nightbringer
 Kategorie: Einfache Nahkampfwaffe
 tags:

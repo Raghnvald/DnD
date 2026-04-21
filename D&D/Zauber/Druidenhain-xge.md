@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Druid Grove
+Bezeichnung: Druidenhain
 Zaubergrad: 6
 Zeitaufwand:
 Reichweite:
@@ -45,7 +45,7 @@ You can fill any number of 5-foot squares on the ground that aren't filled with 
 
 ## Hüter des Hains
 
-Du kannst bis zu vier Bäume im Bereich animieren, was sie sich aus dem Boden entwurzeln lässt. Diese Bäume haben dieselben Spielwerte wie [[Erwachter Baum|erwachte Bäume]], welche im Monsterhandbuch erscheinen, nur dass sie nicht sprechen können und ihre Rinde mit Druidensymbolen bedeckt ist. Wenn irgendeine Kreatur, die diesen Effekten gegenüber nicht immun ist, den geschützten Bereich betritt, werden die Hüter des Hains kämpfen, bis die Eindringlinge entweder vertrieben oder erschlagen sind. Die Hüter des Hains gehorchen, während du dich im Bereich aufhältst auch deinen wörtlichen Befehlen (das erfordert keine Aktion deinerseits). Wenn du den Hütern des Hains keine Befehle erteilst und keine Eindringlinge zugegen sind, werden sie nichts tun. Die Hüter des Hains können den geschützten Bereich nicht verlassen. Wenn der Zauber endet, verschwindet die Magie, welche sie belebt, und die Bäume verwurzeln sich wieder, sofern möglich.
+Du kannst bis zu vier Bäume im Bereich animieren, was sie sich aus dem Boden entwurzeln lässt. Diese Bäume haben dieselben Spielwerte wie [[Erwachter_Baum-mm|erwachte Bäume]], welche im Monsterhandbuch erscheinen, nur dass sie nicht sprechen können und ihre Rinde mit Druidensymbolen bedeckt ist. Wenn irgendeine Kreatur, die diesen Effekten gegenüber nicht immun ist, den geschützten Bereich betritt, werden die Hüter des Hains kämpfen, bis die Eindringlinge entweder vertrieben oder erschlagen sind. Die Hüter des Hains gehorchen, während du dich im Bereich aufhältst auch deinen wörtlichen Befehlen (das erfordert keine Aktion deinerseits). Wenn du den Hütern des Hains keine Befehle erteilst und keine Eindringlinge zugegen sind, werden sie nichts tun. Die Hüter des Hains können den geschützten Bereich nicht verlassen. Wenn der Zauber endet, verschwindet die Magie, welche sie belebt, und die Bäume verwurzeln sich wieder, sofern möglich.
 
 ## Zusätzlicher Zaubereffekt
 

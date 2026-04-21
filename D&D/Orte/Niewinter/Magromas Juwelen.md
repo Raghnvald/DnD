@@ -1,1 +1,5 @@
+---
+Bezeichnung: Magromas Juwelen
+---
+# Magromas Juwelen
 Ein vernarbter, grobschlächtiger Halbork (Don der Juwelier) verkauft fein gearbeiteten Schmuck. Wenn er sich im Gespräch befindet, enthüllt er, dass er die barbarischen Wege seines Volkes nur aufgrund von Gruppenzwang eingeschlagen hat. Schließlich begab er sich auf Abenteuer und beschloss dann, seinem lebenslangen Hobby nachzugehen, Ringe, Halsketten und ähnliches zu fertigen. Sein Clan muss inzwischen glauben, dass er lange tot ist.

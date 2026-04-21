@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-race
+Bezeichnung: Shadar-Kai
 tags:
   - Quelle/5e/mpmm
   - Rasse/shadar-kai

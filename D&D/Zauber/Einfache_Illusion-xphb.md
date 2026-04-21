@@ -18,8 +18,8 @@ tags:
   - Quelle/5e/xphb
   - Rasse/elf/high-elf
   - Rasse/kobold
-  - Subklasse/Mystischer-Ritter
   - Subklasse/illusionist
+  - Subklasse/Mystischer-Ritter
   - Subklasse/warrior-of-shadow
   - Zauber/Grad/0
   - Zauber/optfeature/pact-of-the-tome

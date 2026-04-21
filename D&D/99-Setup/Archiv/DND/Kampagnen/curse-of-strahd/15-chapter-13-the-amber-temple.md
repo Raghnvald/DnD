@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Chapter 13: The Amber Temple"
 tags:
   - Quelle/5e/cos
 aliases:

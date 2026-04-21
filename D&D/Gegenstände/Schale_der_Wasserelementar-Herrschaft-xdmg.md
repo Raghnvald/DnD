@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Bowl of Commanding Water Elementals
 tags:
   - Gegenstand/Seltenheit/selten

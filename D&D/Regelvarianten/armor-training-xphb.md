@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Armor Training
 tags:
   - Quelle/5e/xphb
 aliases:

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Step-by-Step Characters
 tags:
   - Quelle/5e/phb
 aliases:

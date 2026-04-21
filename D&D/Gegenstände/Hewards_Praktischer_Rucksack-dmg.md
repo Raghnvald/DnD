@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Heward's Handy Haversack
+Bezeichnung: "Hewards Praktischer Rucksack "
 tags:
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/dmg

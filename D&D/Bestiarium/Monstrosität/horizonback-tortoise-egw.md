@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/egw
-  - Monster/HG/8
-  - Monster/Größe/Gigantisch
-  - Monster/Typ/Monstrosität
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Horizonback Tortoise
+tags:
+  - Monster/Größe/Gigantisch
+  - Monster/HG/8
+  - Monster/Typ/Monstrosität
+  - Quelle/5e/egw
 aliases:
   - Horizonback Tortoise
 ---

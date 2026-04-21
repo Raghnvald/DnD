@@ -1,3 +1,6 @@
+---
+Bezeichnung: Meister der schweren Rüstungen
+---
 # Meister der schweren Rüstungen
 
 _Voraussetzung: Geübt im Umgang mit Schweren Rüstungen_

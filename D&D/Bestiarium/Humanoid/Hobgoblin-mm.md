@@ -1,18 +1,17 @@
 ---
-cssclasses:
-  - json5e-monster
+statblock: inline
+statblock-link: "#^statblock"
+Bezeichnung: Hobgoblin
 tags:
-  - Quelle/5e/mm
-  - Monster/HG/1-2
-  - Monster/Habitat/Wüste
-  - Monster/Habitat/Wald
+  - Monster/Größe/Mittelgroß
   - Monster/Habitat/Grasland
   - Monster/Habitat/Hügel
   - Monster/Habitat/Unterreich
-  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Wald
+  - Monster/Habitat/Wüste
+  - Monster/HG/1-2
   - Monster/Typ/Humanoid/goblinoid
-statblock: inline
-statblock-link: "#^statblock"
+  - Quelle/5e/mm
 aliases:
   - Hobgoblin
 ---
@@ -74,7 +73,6 @@ Hobgoblins worship Maglubiyet the Mighty One, the greater god of goblinoids. As 
 > Acheron! Acheron!
 > 
 > Victory is ours!
-
 
 ```statblock
 "name": "Hobgoblin"

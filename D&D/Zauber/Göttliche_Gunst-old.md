@@ -1,5 +1,4 @@
 ---
-cssclasses: json5e-spell
 Bezeichnung: Göttliche Gunst
 tags:
   - Klasse/Paladin

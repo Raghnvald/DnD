@@ -1,8 +1,10 @@
 ---
-Bezeichnung: Baba Yaga's Mortar and Pestle
+Bezeichnung: "Baba Yaga's Mortar and Pestle"
+Kategorie: Wundersamer Gegenstand
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/Artefakt
+  - Gegenstand/wundersam
   - Quelle/5e/tce
 aliases:
   - Baba Yaga's Mortar and Pestle

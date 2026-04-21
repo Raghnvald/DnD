@@ -1,16 +1,15 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/1-4
-  - Monster/Habitat/Arktis
-  - Monster/Habitat/Wald
-  - Monster/Habitat/Hügel
-  - Monster/Größe/Groß
-  - Monster/Typ/Himmlische
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Giant Owl
+tags:
+  - Monster/Größe/Groß
+  - Monster/Habitat/Arktis
+  - Monster/Habitat/Hügel
+  - Monster/Habitat/Wald
+  - Monster/HG/1-4
+  - Monster/Typ/Himmlische
+  - Quelle/5e/xmm
 aliases:
   - Giant Owl
 ---

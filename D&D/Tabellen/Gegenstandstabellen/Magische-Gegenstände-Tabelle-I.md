@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Magic Item Table I
 tags:
   - Quelle/5e/dmg
 aliases:

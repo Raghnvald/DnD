@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Central Plateau: Noteworthy Locations"
 tags:
   - Quelle/5e/erlw
 aliases:

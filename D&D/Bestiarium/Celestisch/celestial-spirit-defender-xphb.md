@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xphb
-  - Monster/HG/
-  - Monster/Größe/Groß
-  - Monster/Typ/Himmlische
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Celestial Spirit (Defender)
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/
+  - Monster/Typ/Himmlische
+  - Quelle/5e/xphb
 aliases:
   - Celestial Spirit (Defender)
 ---

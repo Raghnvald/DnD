@@ -1,10 +1,9 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Thrym
 tags:
-  - Quelle/5e/phb
-  - Kompendium/Götter/norse
   - Kompendium/Götter/Domäne/war
+  - Kompendium/Götter/norse
+  - Quelle/5e/phb
 aliases:
   - Thrym
 ---

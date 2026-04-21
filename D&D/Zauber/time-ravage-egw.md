@@ -1,7 +1,6 @@
 ---
+Bezeichnung: Time Ravage
 Zaubergrad: 9
-cssclasses:
-  - json5e-spell
 tags:
   - Quelle/5e/egw
   - Zauber/Grad/9
@@ -11,7 +10,6 @@ aliases:
 ---
 # Time Ravage
 *9th-level, Necromancy*  
-
 
 - **Casting time:** 1 Action
 - **Range:** 90 feet

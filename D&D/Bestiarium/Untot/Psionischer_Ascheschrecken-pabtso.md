@@ -16,8 +16,8 @@ tags:
   - Monster/Typ/Untote
   - Quelle/5e/pabtso
 aliases:
-  - Psionischer Ascheschrecken
   - Psionic Ashenwight
+  - Psionischer Ascheschrecken
 linter-yaml-title-alias: Psionischer Ascheschrecken
 ---
 # Psionischer Ascheschrecken

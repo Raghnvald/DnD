@@ -10,9 +10,9 @@ views:
       and:
         - file.folder == "D&D/Bestiarium/Aberration"
         - file.ext == "md"
-    image: note.Image
+    image: note.IMAGE
     imageFit: contain
-    cardSize: 130
+    cardSize: 120
   - type: table
     name: Aberrationen 2
     filters:

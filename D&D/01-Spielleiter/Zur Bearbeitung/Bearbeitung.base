@@ -5,8 +5,8 @@ model:
 pluginVersion: 1.0.0
 filters:
   and:
-    - '!file.name.containsAny("-xphb", "-xdmg", "-tce", "-xge", "-scag", "-egw", "-bmt", "-idrotf", "-bgg", "-ftd", "-tftyp", "-wdh", "-erlw", "-tdcsr", "-jttrc", "-pabtso", "-cm", "-wdmm", "-skt", "-ggr", "-toa", "-gos", "-veor", "-cos", "-vgm", "-bgdia", "-vrgr", "-xmm", "-mm", "-mtf", "-mpmm", "-hgmh1", "-mcv4ec", "-wbtw", "-mcv1sc", "-lmop", "-mcv2dc", "-dsotdq", "-mcv3mc")'
-    - '!file.ext.containsAny("webp", "base")'
+    - '!file.name.containsAny("-xphb", "-xdmg", "-tce", "-xge", "-scag", "-egw", "-bmt", "-idrotf", "-bgg", "-ftd", "-tftyp", "-wdh", "-erlw", "-tdcsr", "-jttrc", "-pabtso", "-cm", "-wdmm", "-skt", "-ggr", "-toa", "-gos", "-veor", "-cos", "-vgm", "-bgdia", "-vrgr", "-xmm", "-mm", "-mtf", "-mpmm", "-hgmh1", "-mcv4ec", "-wbtw", "-mcv1sc", "-lmop", "-mcv2dc", "-dsotdq", "-mcv3mc", "-dip")'
+    - '!file.ext.containsAny("webp", "base", "png")'
 views:
   - type: table
     name: Gegenstände

@@ -1,7 +1,5 @@
 ---
-cssclasses:
-  - json5e-spell
-Bezeichnung: Otiluke's Resilient Sphere
+Bezeichnung: "Otiluke's Resilient Sphere"
 Zaubergrad: 4
 tags:
   - Klasse/Barde/Magische-Geheimnisse

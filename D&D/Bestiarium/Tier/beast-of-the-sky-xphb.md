@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xphb
-  - Monster/HG/
-  - Monster/Größe/Klein
-  - Monster/Typ/Tier
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Beast of the Sky
+tags:
+  - Monster/Größe/Klein
+  - Monster/HG/
+  - Monster/Typ/Tier
+  - Quelle/5e/xphb
 aliases:
   - Beast of the Sky
 ---

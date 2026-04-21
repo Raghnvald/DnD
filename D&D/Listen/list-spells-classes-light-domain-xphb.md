@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Light Domain
 tags:
   - Zauber/list/subclass/light-domain
 aliases:

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Unearthly Roads; Unearthly Road Keys
 tags:
   - Quelle/5e/tce
 aliases:

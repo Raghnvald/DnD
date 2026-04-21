@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Action Options
 tags:
   - Quelle/5e/dmg
 aliases:

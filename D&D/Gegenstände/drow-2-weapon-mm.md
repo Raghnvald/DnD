@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Drow +2 Weapon
 tags:
   - Gegenstand/Seltenheit/unbekannt/magic

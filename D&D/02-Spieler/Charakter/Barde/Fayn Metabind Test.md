@@ -1,3 +1,6 @@
+---
+Bezeichnung: Rassenmerkmale
+---
 --
 Type: Player
 Art: "![[Fayn-Steampunk.jpg]]"
@@ -317,7 +320,6 @@ Der Kontakt mit der Magie der Feenwelt hat dich verändert und gewährt dir die 
 
 - Charisma +1
 
-
 Your exposure to the Feywild’s magic has changed you, granting you the following benefits:
 
 Increase your Intelligence, Wisdom, or Charisma score by 1, to a maximum of 20.
@@ -491,7 +493,6 @@ views:
 | 1.  |      |      |            |         |        |
 | 2.  |      |      |            |         |        |
 | 3.  |      |      |            |         |        |
-
 
 ---
 

@@ -1,4 +1,7 @@
-
+---
+Bezeichnung: Strategische Bewegung
+---
+# Strategische Bewegung
 
 DND WIKI
 DND WIKI
@@ -73,46 +76,37 @@ Night orchid
 
 Forgotten Realms Wiki
 
-
 Broken Vessel
 
 Hollow Knight Wiki
-
 
 R Key
 
 Binding of Isaac: Rebirth Wiki
 
-
 Abyss
 
 Hollow Knight Wiki
-
 
 Watcher Knight
 
 Hollow Knight Wiki
 
-
 King's Brand
 
 Hollow Knight Wiki
-
 
 Royal Waterways
 
 Hollow Knight Wiki
 
-
 Ancient Basin
 
 Hollow Knight Wiki
 
-
 Vault 4
 
 Fallout Wiki
-
 
 Zinogre
 

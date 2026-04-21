@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Underground Quirks
 tags:
   - Quelle/5e/bgg
 aliases:

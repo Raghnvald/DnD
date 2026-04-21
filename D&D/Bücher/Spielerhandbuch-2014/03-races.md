@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Races
 tags:
   - Quelle/5e/phb
 aliases:

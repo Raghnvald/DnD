@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Expertise
 tags:
   - Quelle/5e/xphb
 aliases:

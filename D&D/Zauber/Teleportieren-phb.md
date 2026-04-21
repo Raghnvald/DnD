@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Teleport
 Zaubergrad: 7
 tags:

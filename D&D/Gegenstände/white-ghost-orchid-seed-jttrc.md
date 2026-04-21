@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: White Ghost Orchid Seed
 Kategorie: Abenteuerausrüstung
 tags:

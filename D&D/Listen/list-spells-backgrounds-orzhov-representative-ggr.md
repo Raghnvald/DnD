@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Orzhov Representative
 tags:
   - Zauber/list/background/orzhov-representative
 aliases:

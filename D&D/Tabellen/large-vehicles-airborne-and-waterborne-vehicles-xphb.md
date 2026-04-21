@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Large Vehicles; Airborne and Waterborne Vehicles
 tags:
   - Quelle/5e/xphb
 aliases:

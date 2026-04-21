@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Beyond Barovia; Lost Tatyana
 tags:
   - Quelle/5e/vrgr
 aliases:

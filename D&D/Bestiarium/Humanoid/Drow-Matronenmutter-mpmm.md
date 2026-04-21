@@ -1,15 +1,14 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mpmm
-  - Monster/HG/20
-  - Monster/Habitat/Unterreich
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/cleric
-  - Monster/Typ/Humanoid/elf
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Drow Matron Mother
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Unterreich
+  - Monster/HG/20
+  - Monster/Typ/Humanoid/cleric
+  - Monster/Typ/Humanoid/elf
+  - Quelle/5e/mpmm
 aliases:
   - Drow Matron Mother
 ---

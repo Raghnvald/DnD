@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Silver ewer
 tags:
   - Gegenstand/Ausrüstung/treasure-art-object

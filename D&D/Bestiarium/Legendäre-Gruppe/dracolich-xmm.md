@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Dracolich
 tags:
-  - Quelle/5e/xmm
   - Monster/legendary-group
+  - Quelle/5e/xmm
 aliases:
   - Dracolich
 ---

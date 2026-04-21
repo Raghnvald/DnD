@@ -1,15 +1,14 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mm
-  - Monster/HG/2
-  - Monster/Habitat/Wald
-  - Monster/Habitat/Grasland
-  - Monster/Größe/Groß
-  - Monster/Typ/Monstrosität
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Centaur
+tags:
+  - Monster/Größe/Groß
+  - Monster/Habitat/Grasland
+  - Monster/Habitat/Wald
+  - Monster/HG/2
+  - Monster/Typ/Monstrosität
+  - Quelle/5e/mm
 aliases:
   - Centaur
 ---
@@ -33,7 +32,6 @@ Despite their reclusive nature, centaurs trade with elves and with the caravans 
 > [!quote] A quote from Batley Summerfoot, a halfling adventurer who never read Hooves of Fury by Irvil Grayborn of Sundown  
 > 
 > I hear centaurs make excellent mounts!
-
 
 ```statblock
 "name": "Centaur"

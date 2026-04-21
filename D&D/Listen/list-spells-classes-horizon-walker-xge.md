@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Horizon Walker
 tags:
   - Zauber/list/subclass/horizon-walker
 aliases:

@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/ggr
-  - Monster/HG/1-8
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/merfolk
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Simic Merfolk
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/1-8
+  - Monster/Typ/Humanoid/merfolk
+  - Quelle/5e/ggr
 aliases:
   - Simic Merfolk
 ---

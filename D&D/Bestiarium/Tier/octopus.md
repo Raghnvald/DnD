@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mm
-  - Monster/HG/0
-  - Monster/Größe/Klein
-  - Monster/Typ/Tier
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Octopus
+tags:
+  - Monster/Größe/Klein
+  - Monster/HG/0
+  - Monster/Typ/Tier
+  - Quelle/5e/mm
 aliases:
   - Octopus
 ---

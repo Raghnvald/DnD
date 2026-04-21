@@ -1,7 +1,5 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Hook of Fisher's Delight
+Bezeichnung: "Hook of Fisher's Delight"
 tags:
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/idrotf

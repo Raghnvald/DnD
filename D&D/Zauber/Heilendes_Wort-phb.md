@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Healing Word
 Zaubergrad: 1
 tags:

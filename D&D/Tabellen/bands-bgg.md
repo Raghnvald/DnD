@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Bands
 tags:
   - Quelle/5e/bgg
 aliases:

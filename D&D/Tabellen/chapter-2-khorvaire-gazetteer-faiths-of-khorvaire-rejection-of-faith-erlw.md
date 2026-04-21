@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Chapter 2: Khorvaire Gazetteer - Faiths of Khorvaire; Rejection of Faith"
 tags:
   - Quelle/5e/erlw
 aliases:

@@ -1,15 +1,14 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/vgm
-  - Monster/HG/1-8
-  - Monster/Habitat/Hügel
-  - Monster/Habitat/Unterreich
-  - Monster/Größe/Klein
-  - Monster/Typ/Humanoid/xvart
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Xvart Speaker
+tags:
+  - Monster/Größe/Klein
+  - Monster/Habitat/Hügel
+  - Monster/Habitat/Unterreich
+  - Monster/HG/1-8
+  - Monster/Typ/Humanoid/xvart
+  - Quelle/5e/vgm
 aliases:
   - Xvart Speaker
 ---

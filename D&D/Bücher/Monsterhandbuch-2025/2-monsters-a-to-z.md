@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Monsters A to Z
 tags:
   - Quelle/5e/xmm
 aliases:

@@ -1,7 +1,5 @@
 ---
-cssclasses:
-  - json5e-spell
-Bezeichnung: Evard's Black Tentacles
+Bezeichnung: "Evard's Black Tentacles"
 tags:
   - Klasse/Barde
   - Klasse/Magier

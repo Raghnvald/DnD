@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/cm
-  - Monster/HG/1
-  - Monster/Größe/Groß
-  - Monster/Typ/Konstrukt
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Animated Chained Library
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/1
+  - Monster/Typ/Konstrukt
+  - Quelle/5e/cm
 aliases:
   - Animated Chained Library
 ---

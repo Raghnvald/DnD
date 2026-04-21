@@ -1,11 +1,10 @@
 ---
-cssclasses:
-  - json5e-vehicle
+Bezeichnung: Rowboat
 tags:
-  - Quelle/5e/gos
   - Gegenstand/Fortbewegung/size/large
   - Gegenstand/Fortbewegung/terrain/sea
   - Gegenstand/Fortbewegung/type/ship
+  - Quelle/5e/gos
 aliases:
   - Rowboat
 ---

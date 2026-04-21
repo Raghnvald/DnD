@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Scribe a Scroll Complications
 tags:
   - Quelle/5e/xge
 aliases:

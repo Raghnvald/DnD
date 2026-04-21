@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Creature Size on Squares and Hexes; Creature Size and Space
 tags:
   - Quelle/5e/dmg
 aliases:

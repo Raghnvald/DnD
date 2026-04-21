@@ -1,16 +1,14 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Hierophant Medusa
 tags:
-  - Quelle/5e/bmt
   - Monster/legendary-group
+  - Quelle/5e/bmt
 aliases:
   - Hierophant Medusa
 ---
 # Hierophant Medusa
 
 ## Lair Actions
-
 
 On initiative count 20 (losing initiative ties), the medusa can take one of the following lair actions; the medusa can't take the same lair action two rounds in a row:
 
@@ -19,7 +17,6 @@ On initiative count 20 (losing initiative ties), the medusa can take one of the 
 - **Undulating Surface.** Solid surfaces within the lair ripple like a snake's coils. Up to three creatures the medusa can see within the lair can move up to 30 feet along solid surfaces without provoking opportunity attacks. If a creature moves along a surface such as a ceiling with no way to remain there (for example, sufficient handholds), it falls at the end of this movement.  
 
 ## Regional Effects
-
 
 The region containing a medusa's lair is altered by the medusa's presence, creating one or more of the following effects:
 

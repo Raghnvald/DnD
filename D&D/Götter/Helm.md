@@ -1,12 +1,12 @@
 ---
-cssclasses: json5e-deity
+Bezeichnung: Helm, Gott der Wachsamkeit
 tags:
-  - Quelle/5e/phb
   - Kompendium/Götter
-  - Kompendium/Götter/Gesinnung/Rechtschaffen_Neutral
-  - Kompendium/Götter/Pantheon/Faerun
   - Kompendium/Götter/Domäne/Leben
   - Kompendium/Götter/Domäne/Licht
+  - Kompendium/Götter/Gesinnung/Rechtschaffen_Neutral
+  - Kompendium/Götter/Pantheon/Faerun
+  - Quelle/5e/phb
 aliases:
   - Helm
 ---

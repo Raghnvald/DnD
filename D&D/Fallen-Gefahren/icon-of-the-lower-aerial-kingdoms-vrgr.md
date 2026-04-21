@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-hazard
+Bezeichnung: Icon of the Lower Aerial Kingdoms
 tags:
-  - Quelle/5e/vrgr
   - Kompendium/Bedrohung/haunt
+  - Quelle/5e/vrgr
 aliases:
   - Icon of the Lower Aerial Kingdoms
 ---

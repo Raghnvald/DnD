@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Ability Modifier; Saving Throw Examples
 tags:
   - Quelle/5e/xphb
 aliases:

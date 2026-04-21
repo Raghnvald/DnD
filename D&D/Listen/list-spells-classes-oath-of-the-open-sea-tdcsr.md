@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Oath of the Open Sea
 tags:
   - Zauber/list/subclass/oath-of-the-open-sea
 aliases:

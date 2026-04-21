@@ -1,13 +1,11 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Heat Metal
 tags:
+  - Klasse/Artifizient
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
   - Klasse/Druide
   - Klasse/Kleriker/forge-domain
-  - Klasse/Artifizient
   - Quelle/5e/xphb
   - Zauber/Grad/2
   - Zauber/Schule/Verwandlung

@@ -1,4 +1,5 @@
 ---
+Bezeichnung: "3: Lyrical Names"
 tags:
   - Quelle/5e/xdmg
 aliases:

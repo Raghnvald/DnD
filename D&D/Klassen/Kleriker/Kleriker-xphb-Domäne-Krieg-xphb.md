@@ -1,10 +1,9 @@
 ---
-cssclasses:
-  - json5e-class
+Bezeichnung: War Domain
 tags:
-  - Quelle/5e/xphb
-  - Kompendium/Götter/Domäne/war
   - Klasse/Kleriker/war
+  - Kompendium/Götter/Domäne/war
+  - Quelle/5e/xphb
 aliases:
   - War Domain
 ---
@@ -42,7 +41,6 @@ aliases:
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 

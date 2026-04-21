@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/1-4
-  - Monster/Habitat/Jedes
-  - Monster/Größe/Klein-oder-Mittelgroß
-  - Monster/Typ/Humanoid/cleric
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Priest Acolyte
+tags:
+  - Monster/Größe/Klein-oder-Mittelgroß
+  - Monster/Habitat/Jedes
+  - Monster/HG/1-4
+  - Monster/Typ/Humanoid/cleric
+  - Quelle/5e/xmm
 aliases:
   - Priest Acolyte
 ---
@@ -47,7 +46,6 @@ Roll on or choose a result from the Priest Roles table to inspire different sort
 > [!quote]  
 > 
 > Shining One, light my hours. Enkindle my soul, and inspire my deeds. Chase the shadows from my path, and let me walk in your brilliance.
-
 
 ```statblock
 "name": "Priest Acolyte (XMM)"

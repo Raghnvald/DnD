@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Diagonals
 tags:
   - Quelle/5e/dmg
 aliases:

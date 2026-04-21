@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-reward
+Bezeichnung: "Obo'laka"
 tags:
-  - Quelle/5e/toa
   - Kompendium/Belohnung/inhabitation
+  - Quelle/5e/toa
 aliases:
   - Obo'laka
 ---

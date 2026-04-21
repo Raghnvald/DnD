@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Setting the Stage; Story Opening
 tags:
   - Quelle/5e/erlw
 aliases:

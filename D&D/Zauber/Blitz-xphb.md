@@ -17,8 +17,8 @@ tags:
   - Klasse/Zauberer
   - Quelle/5e/xphb
   - Subklasse/armorer
-  - Subklasse/Mystischer-Ritter
   - Subklasse/evoker
+  - Subklasse/Mystischer-Ritter
   - Subklasse/the-fathomless
   - Zauber/Grad/3
   - Zauber/Schule/Hervorrufung

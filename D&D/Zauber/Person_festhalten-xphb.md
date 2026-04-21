@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Hold Person
 tags:
   - Klasse/Barde

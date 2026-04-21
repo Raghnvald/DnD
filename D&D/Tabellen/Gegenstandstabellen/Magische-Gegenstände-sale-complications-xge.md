@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Magic Item Sale Complications
 tags:
   - Quelle/5e/xge
 aliases:

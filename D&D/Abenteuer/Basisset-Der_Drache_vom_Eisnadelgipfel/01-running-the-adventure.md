@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Running the Adventure
 tags:
   - Quelle/5e/dip
 aliases:

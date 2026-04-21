@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Adult Dragons; Adult Dragon Goals
 tags:
   - Quelle/5e/ftd
 aliases:

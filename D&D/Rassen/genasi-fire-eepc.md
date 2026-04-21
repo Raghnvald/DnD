@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-race
+Bezeichnung: Genasi (Fire)
 tags:
   - Quelle/5e/eepc
   - Rasse/genasi/fire

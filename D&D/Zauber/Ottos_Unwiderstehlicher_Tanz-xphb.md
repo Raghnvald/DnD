@@ -1,7 +1,5 @@
 ---
-cssclasses:
-  - json5e-spell
-Bezeichnung: Otto's Irresistible Dance
+Bezeichnung: "Otto's Irresistible Dance"
 tags:
   - Klasse/Barde
   - Klasse/Magier

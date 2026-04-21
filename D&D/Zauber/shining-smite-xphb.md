@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Shining Smite
 tags:
   - Klasse/paladin

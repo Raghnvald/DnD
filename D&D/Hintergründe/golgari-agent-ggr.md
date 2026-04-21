@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-background
+Bezeichnung: Golgari Agent
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/ggr
@@ -9,7 +8,6 @@ aliases:
 ---
 # Golgari Agent
 *Source: Guildmasters' Guide to Ravnica p. 53*  
-
 
 - **Skill Proficiencies.** Nature, Survival  
 - **Tool Proficiencies.** Poisoner's kit  

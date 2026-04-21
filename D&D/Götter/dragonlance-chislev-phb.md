@@ -1,10 +1,9 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Chislev
 tags:
-  - Quelle/5e/phb
-  - Kompendium/Götter/dragonlance
   - Kompendium/Götter/Domäne/nature
+  - Kompendium/Götter/dragonlance
+  - Quelle/5e/phb
 aliases:
   - Chislev
 ---

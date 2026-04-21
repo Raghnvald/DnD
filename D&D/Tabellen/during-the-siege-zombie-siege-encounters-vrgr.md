@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: During the Siege; Zombie Siege Encounters
 tags:
   - Quelle/5e/vrgr
 aliases:

@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Bag of Beans
 tags:
   - Gegenstand/Seltenheit/selten

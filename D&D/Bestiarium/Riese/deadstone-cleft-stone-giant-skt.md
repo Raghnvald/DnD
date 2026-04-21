@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/skt
-  - Monster/HG/7
-  - Monster/Größe/Riesig
-  - Monster/Typ/Riese
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Deadstone Cleft Stone Giant
+tags:
+  - Monster/Größe/Riesig
+  - Monster/HG/7
+  - Monster/Typ/Riese
+  - Quelle/5e/skt
 aliases:
   - Deadstone Cleft Stone Giant
 ---

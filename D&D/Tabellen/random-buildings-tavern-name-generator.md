@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Random Buildings; Tavern Name Generator
 tags:
   - Quelle/5e/dmg
 aliases:

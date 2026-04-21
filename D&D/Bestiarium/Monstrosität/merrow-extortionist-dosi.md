@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/dosi
-  - Monster/HG/1
-  - Monster/Größe/Groß
-  - Monster/Typ/Monstrosität
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Merrow Extortionist
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/1
+  - Monster/Typ/Monstrosität
+  - Quelle/5e/dosi
 aliases:
   - Merrow Extortionist
 ---

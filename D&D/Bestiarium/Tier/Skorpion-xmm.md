@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/0
-  - Monster/Habitat/Wüste
-  - Monster/Größe/Winzig
-  - Monster/Typ/Tier
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Scorpion
+tags:
+  - Monster/Größe/Winzig
+  - Monster/Habitat/Wüste
+  - Monster/HG/0
+  - Monster/Typ/Tier
+  - Quelle/5e/xmm
 aliases:
   - Scorpion
 ---

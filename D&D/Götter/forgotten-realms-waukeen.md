@@ -1,11 +1,10 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Waukeen
 tags:
-  - Quelle/5e/phb
-  - Kompendium/Götter/forgotten-realms
   - Kompendium/Götter/Domäne/knowledge
   - Kompendium/Götter/Domäne/trickery
+  - Kompendium/Götter/forgotten-realms
+  - Quelle/5e/phb
 aliases:
   - Waukeen
 ---

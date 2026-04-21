@@ -1,11 +1,10 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Artemis
 tags:
-  - Quelle/5e/phb
-  - Kompendium/Götter/greek
   - Kompendium/Götter/Domäne/life
   - Kompendium/Götter/Domäne/nature
+  - Kompendium/Götter/greek
+  - Quelle/5e/phb
 aliases:
   - Artemis
 ---

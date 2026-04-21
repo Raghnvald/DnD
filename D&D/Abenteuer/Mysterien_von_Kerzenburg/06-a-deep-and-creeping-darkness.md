@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: A Deep and Creeping Darkness
 tags:
   - Quelle/5e/cm
 aliases:

@@ -19,8 +19,8 @@ tags:
   - Klasse/Zauberer
   - Quelle/5e/xphb
   - Subklasse/artillerist
-  - Subklasse/Mystischer-Ritter
   - Subklasse/evoker
+  - Subklasse/Mystischer-Ritter
   - Zauber/Grad/4
   - Zauber/Schule/Hervorrufung
 classes:

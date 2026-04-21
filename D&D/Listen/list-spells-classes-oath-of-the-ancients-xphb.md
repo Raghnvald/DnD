@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Oath of the Ancients
 tags:
   - Zauber/list/subclass/oath-of-the-ancients
 aliases:

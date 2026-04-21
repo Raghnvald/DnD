@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Pyremaul (Dormant)
 Kategorie: Nahkampf-Kriegswaffe
 tags:

@@ -1,15 +1,14 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mpmm
-  - Monster/HG/9
-  - Monster/Habitat/Unterreich
-  - Monster/Habitat/Stadt
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/elf
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Shadar-kai Gloom Weaver
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Stadt
+  - Monster/Habitat/Unterreich
+  - Monster/HG/9
+  - Monster/Typ/Humanoid/elf
+  - Quelle/5e/mpmm
 aliases:
   - Shadar-kai Gloom Weaver
 ---

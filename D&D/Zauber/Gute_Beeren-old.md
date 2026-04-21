@@ -1,5 +1,4 @@
 ---
-cssclasses: json5e-spell
 Bezeichnung: Gute Beeren
 tags:
   - Klasse/Druide

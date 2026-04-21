@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Gold 5-Zino Coin
 Kategorie: Währung
 tags:

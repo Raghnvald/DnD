@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Riverine
 tags:
-  - Quelle/5e/jttrc
   - Monster/legendary-group
+  - Quelle/5e/jttrc
 aliases:
   - Riverine
 ---
@@ -11,14 +10,12 @@ aliases:
 
 ## Lair Actions
 
-
 On initiative count 20 (losing initiative ties), the riverine can take one of the following lair actions; the riverine can't take the same lair action two rounds in a row:
 
 - **Phantasmal Mist.** The riverine creates fog around a creature it can see within 120 feet of it. The target must succeed on a DC 17 Wisdom saving throw or take `dice:1d10|noform|noparens|avg|text(5)` (`1d10`) psychic damage and be frightened of the riverine until the end of the target's next turn.  
 - **River's Fury.** The riverine conjures swampy ground that briefly covers the ground in a 20-foot square the riverine can see within 120 feet of itself. That area becomes difficult terrain until initiative count 20 on the next round. Any creature, other than the riverine, that enters the affected area or starts its turn there takes `dice:2d6|noform|noparens|avg|text(7)` (`2d6`) cold damage.  
 
 ## Regional Effects
-
 
 The region containing a riverine's lair flourishes under the magic of the riverine's presence, which creates one or more of the following effects:
 

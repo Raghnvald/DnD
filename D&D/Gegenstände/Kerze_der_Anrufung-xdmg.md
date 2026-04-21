@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Candle of Invocation
 tags:
   - Gegenstand/Einstimmung/required

@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Cone of Cold
 Zaubergrad: 5
 tags:

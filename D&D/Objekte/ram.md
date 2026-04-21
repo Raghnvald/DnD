@@ -1,10 +1,9 @@
 ---
-cssclasses:
-  - json5e-object
+Bezeichnung: Ram
 tags:
-  - Quelle/5e/dmg
   - Kompendium/Objekt/size/large
   - Kompendium/Objekt/type/siege-weapon
+  - Quelle/5e/dmg
 aliases:
   - Ram
 ---

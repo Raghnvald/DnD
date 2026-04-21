@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Flensing Claws
 tags:
   - Gegenstand/Seltenheit/unbekannt

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Gem Shards
 tags:
   - Quelle/5e/bmt
 aliases:

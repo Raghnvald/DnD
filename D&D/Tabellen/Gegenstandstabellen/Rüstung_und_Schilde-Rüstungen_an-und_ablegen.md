@@ -1,5 +1,5 @@
 ---
-cssclasses: json5e-note
+Bezeichnung: Rüstung und Schilde; Rüstungen an- und ablegen
 tags:
   - Quelle/5e/phb
 aliases:

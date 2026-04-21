@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Enduring Spellbook
 tags:
   - Gegenstand/Seltenheit/gewöhnlich

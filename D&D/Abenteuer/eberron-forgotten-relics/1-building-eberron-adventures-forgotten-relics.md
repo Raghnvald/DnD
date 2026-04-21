@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Building Eberron Adventures - Forgotten Relics
 tags:
   - Quelle/5e/efr
 aliases:

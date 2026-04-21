@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Matchless Pipe
 tags:
   - Gegenstand/Seltenheit/unbekannt

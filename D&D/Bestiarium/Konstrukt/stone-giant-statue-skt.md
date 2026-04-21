@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/skt
-  - Monster/HG/0
-  - Monster/Größe/Riesig
-  - Monster/Typ/Konstrukt
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Stone Giant Statue
+tags:
+  - Monster/Größe/Riesig
+  - Monster/HG/0
+  - Monster/Typ/Konstrukt
+  - Quelle/5e/skt
 aliases:
   - Stone Giant Statue
 ---

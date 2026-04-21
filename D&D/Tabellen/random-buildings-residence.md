@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Random Buildings; Residence
 tags:
   - Quelle/5e/dmg
 aliases:

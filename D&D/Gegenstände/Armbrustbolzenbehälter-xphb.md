@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Crossbow Bolt Case
 tags:
   - Gegenstand/Ausrüstung/

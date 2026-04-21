@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-feat
+Bezeichnung: Vigor of the Hill Giant
 tags:
-  - Quelle/5e/bgg
   - Kompendium/Talent
+  - Quelle/5e/bgg
 aliases:
   - Vigor of the Hill Giant
 ---

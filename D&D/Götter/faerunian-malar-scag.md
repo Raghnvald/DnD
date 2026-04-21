@@ -1,10 +1,9 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Malar
 tags:
-  - Quelle/5e/scag
-  - Kompendium/Götter/faerunian
   - Kompendium/Götter/Domäne/nature
+  - Kompendium/Götter/faerunian
+  - Quelle/5e/scag
 aliases:
   - Malar
   - The Beastlord

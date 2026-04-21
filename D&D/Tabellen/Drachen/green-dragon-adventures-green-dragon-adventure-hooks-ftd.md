@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Green Dragon Adventures; Green Dragon Adventure Hooks
 tags:
   - Quelle/5e/ftd
 aliases:

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Eltern eines Halborks
 tags:
   - Quelle/5e/xge
 aliases:

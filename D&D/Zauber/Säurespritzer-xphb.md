@@ -8,10 +8,10 @@ Wirkungsdauer:
 Angriff:
 Schaden:
 tags:
+  - Klasse/Artifizient
   - Klasse/Druide/circle-of-the-land/tropical-land
   - Klasse/Kleriker/arcana-domain
   - Klasse/Magier
-  - Klasse/Artifizient
   - Klasse/Schurke/Arkaner-Betrüger
   - Klasse/Zauberer
   - Kompendium/Hintergrund/simic-scientist
@@ -20,9 +20,9 @@ tags:
   - Quelle/5e/xphb
   - Rasse/elf/high-elf
   - Rasse/kobold
-  - Subklasse/Schule-des-Wissens
-  - Subklasse/Mystischer-Ritter
   - Subklasse/evoker
+  - Subklasse/Mystischer-Ritter
+  - Subklasse/Schule-des-Wissens
   - Subrasse/genasi-water
   - Subrasse/half-elf-moon-elf-or-sun-elf-descent
   - Zauber/Grad/0

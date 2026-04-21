@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/tdcsr
-  - Monster/HG/18
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/human
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Percival de Rolo
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/18
+  - Monster/Typ/Humanoid/human
+  - Quelle/5e/tdcsr
 aliases:
   - Percival de Rolo
 ---

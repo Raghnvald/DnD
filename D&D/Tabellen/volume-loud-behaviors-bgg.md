@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Volume; Loud Behaviors
 tags:
   - Quelle/5e/bgg
 aliases:

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-class
+Bezeichnung: Barbarian
 tags:
   - Klasse/Barbar
   - Quelle/5e/phb

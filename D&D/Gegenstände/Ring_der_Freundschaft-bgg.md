@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Ring of Amity
+Kategorie: Ring
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten

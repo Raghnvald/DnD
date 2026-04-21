@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-background
+Bezeichnung: Dimir Operative
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/ggr
@@ -9,7 +8,6 @@ aliases:
 ---
 # Dimir Operative
 *Source: Guildmasters' Guide to Ravnica p. 46*  
-
 
 - **Skill Proficiencies.** Deception, Stealth  
 - **Tool Proficiencies.** Disguise kit  

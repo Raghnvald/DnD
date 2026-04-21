@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Baba Yaga's Dancing Broom
+Bezeichnung: "Baba Yaga's Dancing Broom"
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/ungewöhnlich

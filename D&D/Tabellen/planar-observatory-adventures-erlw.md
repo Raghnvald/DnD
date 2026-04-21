@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Planar Observatory Adventures
 tags:
   - Quelle/5e/erlw
 aliases:

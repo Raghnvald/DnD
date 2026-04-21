@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Bread (loaf)
 tags:
   - Gegenstand/Ausrüstung/Essen-und-Trinken

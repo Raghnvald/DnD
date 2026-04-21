@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Trap Effects; Trap Save DCs and Attack Bonuses
 tags:
   - Quelle/5e/dmg
 aliases:

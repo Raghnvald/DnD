@@ -1,16 +1,15 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mpmm
-  - Monster/HG/1-4
-  - Monster/Habitat/Sumpf
-  - Monster/Habitat/Unterreich
-  - Monster/Habitat/Stadt
-  - Monster/Größe/Klein
-  - Monster/Typ/Monstrosität
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Wretched Sorrowsworn
+tags:
+  - Monster/Größe/Klein
+  - Monster/Habitat/Stadt
+  - Monster/Habitat/Sumpf
+  - Monster/Habitat/Unterreich
+  - Monster/HG/1-4
+  - Monster/Typ/Monstrosität
+  - Quelle/5e/mpmm
 aliases:
   - Wretched Sorrowsworn
 ---

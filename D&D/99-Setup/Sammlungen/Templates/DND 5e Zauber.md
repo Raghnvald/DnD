@@ -1,5 +1,5 @@
 ---
-Bezeichnung: 
+Bezeichnung: Name
 Zaubergrad: 
 Zeitaufwand: 
 Reichweite: 
@@ -19,8 +19,7 @@ tags:
 classes:
   - Barde
   - Barde (Schule des Wissens)
-aliases:
-  - 
+aliases: []
 linter-yaml-title-alias: 
 ---
 # Name

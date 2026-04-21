@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/11
-  - Monster/Habitat/Arktis
-  - Monster/Größe/Riesig
-  - Monster/Typ/Monstrosität
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Remorhaz
+tags:
+  - Monster/Größe/Riesig
+  - Monster/Habitat/Arktis
+  - Monster/HG/11
+  - Monster/Typ/Monstrosität
+  - Quelle/5e/xmm
 aliases:
   - Remorhaz
 ---

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Serving an Immortal; Immortal Missions
 tags:
   - Quelle/5e/erlw
 aliases:

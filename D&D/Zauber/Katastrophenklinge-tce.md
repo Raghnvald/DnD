@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Blade of Disaster
 Zaubergrad: 9
 tags:

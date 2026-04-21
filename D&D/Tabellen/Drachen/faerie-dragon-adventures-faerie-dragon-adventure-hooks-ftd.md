@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Faerie Dragon Adventures; Faerie Dragon Adventure Hooks
 tags:
   - Quelle/5e/ftd
 aliases:

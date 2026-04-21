@@ -17,7 +17,6 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Mariner's Armor
-  - Mariner's Armor
   - Mariner's Breastplate
   - Mariner's Chain Mail
   - Mariner's Chain Shirt

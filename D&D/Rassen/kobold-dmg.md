@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-race
+Bezeichnung: Kobold
 tags:
   - Quelle/5e/dmg
   - Rasse/kobold
@@ -9,7 +8,6 @@ aliases:
 ---
 # Kobold
 *Source: Dungeon Master's Guide p. 282*  
-
 
 - **Ability Scores**: dex +2 str -4
 - **Size**: Small

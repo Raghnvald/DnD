@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Circlet of Human Perfection
 tags:
   - Gegenstand/Einstimmung/required

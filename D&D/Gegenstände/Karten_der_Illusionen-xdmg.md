@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Deck of Illusions
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich

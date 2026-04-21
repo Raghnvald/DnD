@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Adventures; Darklord Interactions
 tags:
   - Quelle/5e/vrgr
 aliases:

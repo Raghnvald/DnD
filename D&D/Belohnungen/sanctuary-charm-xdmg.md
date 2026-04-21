@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-reward
+Bezeichnung: Sanctuary Charm
 tags:
-  - Quelle/5e/xdmg
   - Kompendium/Belohnung/charm
+  - Quelle/5e/xdmg
 aliases:
   - Sanctuary Charm
 ---

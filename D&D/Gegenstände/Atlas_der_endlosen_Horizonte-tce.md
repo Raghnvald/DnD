@@ -1,8 +1,10 @@
 ---
 Bezeichnung: Atlas of Endless Horizons
+Kategorie: Wundersamer Gegenstand
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
+  - Gegenstand/wundersam
   - Quelle/5e/tce
 aliases:
   - Atlas of Endless Horizons

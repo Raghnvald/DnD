@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Fey-Touched
 tags:
   - Zauber/list/feat/fey-touched
 aliases:

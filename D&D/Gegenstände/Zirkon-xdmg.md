@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Zircon
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone

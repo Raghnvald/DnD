@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: 25 GM Kunstgegenstände
 tags:
   - Quelle/5e/xdmg
 aliases:

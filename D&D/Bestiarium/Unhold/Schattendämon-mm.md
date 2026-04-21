@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mm
-  - Monster/HG/4
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Unhold/demon
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Shadow Demon
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/4
+  - Monster/Typ/Unhold/demon
+  - Quelle/5e/mm
 aliases:
   - Shadow Demon
 ---
@@ -187,7 +186,6 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 > [!quote] A quote from From the Demonomicon of Iggwilv  
 > 
 > Demons are painfully difficult to summon and control. It is not a burden for the weak of heart or the weak of spirit.
-
 
 ```statblock
 "name": "Shadow Demon"

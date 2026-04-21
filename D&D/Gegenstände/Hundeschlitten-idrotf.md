@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Hundeschlitten
+Bezeichnung: Dogsled
 Kategorie: Zaumzeug, Harnisch und gezogene Fahrzeuge
 Eigenschaften: /
 Kst.: 20 GM

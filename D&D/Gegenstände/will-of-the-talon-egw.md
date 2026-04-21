@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Will of the Talon
 Kategorie: Nahkampf-Kriegswaffe
 tags:

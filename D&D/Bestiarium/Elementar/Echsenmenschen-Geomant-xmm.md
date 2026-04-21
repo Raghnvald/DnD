@@ -1,15 +1,14 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/2
-  - Monster/Habitat/Wald
-  - Monster/Habitat/Sumpf
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Elementar
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Lizardfolk Geomancer
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Sumpf
+  - Monster/Habitat/Wald
+  - Monster/HG/2
+  - Monster/Typ/Elementar
+  - Quelle/5e/xmm
 aliases:
   - Lizardfolk Geomancer
 ---

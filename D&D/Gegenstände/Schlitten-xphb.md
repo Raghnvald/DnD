@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Sled
 tags:
   - Gegenstand/Ausrüstung/Fahrzeug

@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Perfume of Bewitching
 tags:
   - Gegenstand/Seltenheit/gewöhnlich

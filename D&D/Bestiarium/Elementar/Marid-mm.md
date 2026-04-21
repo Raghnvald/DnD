@@ -1,15 +1,14 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mm
-  - Monster/HG/11
-  - Monster/Habitat/Küste
-  - Monster/Habitat/underwater
-  - Monster/Größe/Groß
-  - Monster/Typ/Elementar
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Marid
+tags:
+  - Monster/Größe/Groß
+  - Monster/Habitat/Küste
+  - Monster/Habitat/underwater
+  - Monster/HG/11
+  - Monster/Typ/Elementar
+  - Quelle/5e/mm
 aliases:
   - Marid
 ---
@@ -43,7 +42,6 @@ Marids are champion tale-tellers, whose favorite legends emphasize the prowess o
 > [!quote] A quote from Kesto Brighteyes, Gnome Proprietor of the Parted Veil, a bookshop in Sigil  
 > 
 > The marid poured out of the flask like water and said, 'Your wish is my command.' The halfling, overjoyed, wished for immortality, so the marid polymorphed him into a fish that flopped around humorously until, finally, it expired. It's a cautionary tale that has survived through the ages, so I suppose the halfling got his wish.
-
 
 ```statblock
 "name": "Marid"

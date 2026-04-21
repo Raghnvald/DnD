@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/tftyp
-  - Monster/HG/3
-  - Monster/Größe/Riesig
-  - Monster/Typ/Tier
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Amphisbaena
+tags:
+  - Monster/Größe/Riesig
+  - Monster/HG/3
+  - Monster/Typ/Tier
+  - Quelle/5e/tftyp
 aliases:
   - Amphisbaena
 ---

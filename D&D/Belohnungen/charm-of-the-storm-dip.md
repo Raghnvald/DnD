@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-reward
+Bezeichnung: Charm of the Storm
 tags:
-  - Quelle/5e/dip
   - Kompendium/Belohnung/charm
+  - Quelle/5e/dip
 aliases:
   - Charm of the Storm
 ---

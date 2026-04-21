@@ -1,10 +1,9 @@
 ---
-cssclasses:
-  - json5e-class
+Bezeichnung: Light Domain
 tags:
-  - Quelle/5e/xphb
-  - Kompendium/Götter/Domäne/light
   - Klasse/Kleriker/light
+  - Kompendium/Götter/Domäne/light
+  - Quelle/5e/xphb
 aliases:
   - Light Domain
 ---
@@ -42,7 +41,6 @@ aliases:
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 

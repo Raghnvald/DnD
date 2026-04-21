@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Rumors—Precinct Four
 tags:
   - Quelle/5e/ggr
 aliases:

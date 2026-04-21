@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Indefinite Madness
 tags:
   - Quelle/5e/dmg
 aliases:

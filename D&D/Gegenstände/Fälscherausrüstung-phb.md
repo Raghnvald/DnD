@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Fälschersausrüstung
+Bezeichnung: Fälschungsausrüstung
 Kategorie: Werkzeug
 Eigenschaften: /
 Kst.: 15 GM

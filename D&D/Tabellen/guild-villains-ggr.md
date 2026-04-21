@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Guild Villains
 tags:
   - Quelle/5e/ggr
 aliases:

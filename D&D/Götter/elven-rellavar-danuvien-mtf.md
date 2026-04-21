@@ -1,10 +1,9 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Rellavar Danuvien
 tags:
-  - Quelle/5e/mtf
-  - Kompendium/Götter/elven
   - Kompendium/Götter/Domäne/tempest
+  - Kompendium/Götter/elven
+  - Quelle/5e/mtf
 aliases:
   - Rellavar Danuvien
 ---

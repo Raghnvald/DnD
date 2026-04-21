@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Myrkul
 tags:
-  - Quelle/5e/scag
-  - Kompendium/Götter/faerunian
   - Kompendium/Götter/Domäne/death
+  - Kompendium/Götter/faerunian
+  - Quelle/5e/scag
 aliases:
   - Myrkul
-  - The Lord of Bones
   - Old Lord Skull
+  - The Lord of Bones
   - The Reaper
 ---
 # Myrkul

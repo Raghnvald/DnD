@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mpmm
-  - Monster/HG/1-4
-  - Monster/Habitat/Unterreich
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Tier/cattle
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Deep Rothé
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Unterreich
+  - Monster/HG/1-4
+  - Monster/Typ/Tier/cattle
+  - Quelle/5e/mpmm
 aliases:
   - Deep Rothé
 ---

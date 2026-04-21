@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Book of Ancient Secrets
 tags:
   - Zauber/list/optfeature/book-of-ancient-secrets
 aliases:

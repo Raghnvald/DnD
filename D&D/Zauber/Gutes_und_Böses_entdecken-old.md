@@ -1,5 +1,4 @@
 ---
-cssclasses: json5e-spell
 Bezeichnung: Detect Evil and Good
 tags:
   - Klasse/Kleriker

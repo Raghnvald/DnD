@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Rogue's Mantle
+Bezeichnung: "Rogue's Mantle"
+Kategorie: Wundersamer Gegenstand 
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
+  - Gegenstand/wundersam
   - Quelle/5e/bmt
 aliases:
-  - Rogue's Mantle
   - Rogue's Mantle
 linter-yaml-title-alias: Rogue's Mantle
 ---

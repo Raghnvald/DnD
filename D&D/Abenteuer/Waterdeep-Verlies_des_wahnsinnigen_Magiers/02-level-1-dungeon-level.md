@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Level 1: Dungeon Level"
 tags:
   - Quelle/5e/wdmm
 aliases:

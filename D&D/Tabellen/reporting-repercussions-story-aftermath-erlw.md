@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Reporting Repercussions; Story Aftermath
 tags:
   - Quelle/5e/erlw
 aliases:

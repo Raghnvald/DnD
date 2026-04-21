@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-background
+Bezeichnung: Einsiedler
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/xphb

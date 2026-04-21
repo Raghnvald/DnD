@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Inheritors of the First World Adventure Hooks
 tags:
   - Quelle/5e/ftd
 aliases:

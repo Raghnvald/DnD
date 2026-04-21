@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Arrow-Catching Shield
 Rüstung: Schild
 tags:

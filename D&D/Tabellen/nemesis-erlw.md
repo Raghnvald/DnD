@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Nemesis
 tags:
   - Quelle/5e/erlw
 aliases:

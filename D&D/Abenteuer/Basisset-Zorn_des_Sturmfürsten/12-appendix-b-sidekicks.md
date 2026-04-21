@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Appendix B: Sidekicks"
 tags:
   - Quelle/5e/slw
 aliases:

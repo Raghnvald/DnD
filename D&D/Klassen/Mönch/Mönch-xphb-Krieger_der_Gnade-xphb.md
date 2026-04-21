@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-class
+Bezeichnung: Warrior of Mercy
 tags:
-  - Quelle/5e/xphb
   - Klasse/Mönch/mercy
+  - Quelle/5e/xphb
 aliases:
   - Warrior of Mercy
 ---
@@ -41,7 +40,6 @@ aliases:
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 

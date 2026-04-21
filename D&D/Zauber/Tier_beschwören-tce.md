@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Summon Beast
 Zaubergrad: 2
 tags:

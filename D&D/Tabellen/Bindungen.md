@@ -1,5 +1,5 @@
 ---
-cssclasses: json5e-note
+Bezeichnung: Bindungen
 aliases:
   - Bonds
 ---

@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Bloodaxe
 Kategorie: Nahkampf-Kriegswaffe
 tags:

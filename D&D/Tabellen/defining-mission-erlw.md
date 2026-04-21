@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Defining Mission
 tags:
   - Quelle/5e/erlw
 aliases:

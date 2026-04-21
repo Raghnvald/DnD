@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-feat
+Bezeichnung: "Devil's Sight"
 tags:
-  - Quelle/5e/phb
   - Kompendium/Optionales/ei
+  - Quelle/5e/phb
 aliases:
   - Devil's Sight
 ---

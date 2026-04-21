@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-race
+Bezeichnung: Gith
 tags:
   - Quelle/5e/mtf
   - Rasse/gith
@@ -9,7 +8,6 @@ aliases:
 ---
 # Gith
 *Source: Mordenkainen's Tome of Foes p. 96*  
-
 
 - **Ability Scores**: int +1
 - **Size**: Medium

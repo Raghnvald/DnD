@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/ftd
-  - Monster/HG/11
-  - Monster/Größe/Groß
-  - Monster/Typ/Konstrukt
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Dragonbone Golem
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/11
+  - Monster/Typ/Konstrukt
+  - Quelle/5e/ftd
 aliases:
   - Dragonbone Golem
 ---

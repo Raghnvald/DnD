@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/vrgr
-  - Monster/HG/2
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/human
-  - Monster/Typ/Humanoid/shapechanger
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Wereraven
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/2
+  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/shapechanger
+  - Quelle/5e/vrgr
 aliases:
   - Wereraven
 ---

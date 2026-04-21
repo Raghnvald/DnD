@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Rindenhaut
 Zaubergrad: 2
 tags:

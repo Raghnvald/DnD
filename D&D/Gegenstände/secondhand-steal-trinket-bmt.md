@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Secondhand Steal Trinket
 tags:
   - Gegenstand/Ausrüstung/

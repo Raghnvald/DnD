@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Goggles of Night
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich

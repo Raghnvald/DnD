@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Legend Lore
 Zaubergrad: 5
 tags:

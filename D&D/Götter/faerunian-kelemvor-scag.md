@@ -1,15 +1,14 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Kelemvor
 tags:
-  - Quelle/5e/scag
-  - Kompendium/Götter/faerunian
   - Kompendium/Götter/Domäne/death
   - Kompendium/Götter/Domäne/grave
+  - Kompendium/Götter/faerunian
+  - Quelle/5e/scag
 aliases:
   - Kelemvor
-  - The Lord of the Dead
   - The Judge of the Damned
+  - The Lord of the Dead
 ---
 # Kelemvor
 *Source: Sword Coast Adventurer's Guide p. 21, Xanathar's Guide to Everything p. 19* 

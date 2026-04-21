@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Chapter 14: Jester"
 tags:
   - Quelle/5e/bmt
 aliases:

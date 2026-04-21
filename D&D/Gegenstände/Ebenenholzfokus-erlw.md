@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Ebenenholzfokus
 Kategorie: Wundersamer Gegenstand
 tags:

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Life Domain
 tags:
   - Zauber/list/subclass/life-domain
 aliases:

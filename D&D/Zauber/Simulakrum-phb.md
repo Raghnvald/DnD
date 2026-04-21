@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Simulacrum
 Zaubergrad: 7
 tags:

@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Blindness/Deafness
+Bezeichnung: Blindheit/Taubheit
 Zaubergrad: 2
 Zeitaufwand: 1 Aktion
 Reichweite:

@@ -1,12 +1,11 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Labelas Enoreth
 tags:
-  - Quelle/5e/mtf
-  - Kompendium/Götter/elven
   - Kompendium/Götter/Domäne/arcana
   - Kompendium/Götter/Domäne/knowledge
   - Kompendium/Götter/Domäne/life
+  - Kompendium/Götter/elven
+  - Quelle/5e/mtf
 aliases:
   - Labelas Enoreth
 ---

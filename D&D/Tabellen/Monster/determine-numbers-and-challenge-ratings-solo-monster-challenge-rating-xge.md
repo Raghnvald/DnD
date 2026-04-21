@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Determine Numbers and Challenge Ratings; Solo Monster Challenge Rating
 tags:
   - Quelle/5e/xge
 aliases:

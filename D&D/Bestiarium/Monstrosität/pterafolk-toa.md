@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/toa
-  - Monster/HG/1
-  - Monster/Größe/Groß
-  - Monster/Typ/Monstrosität
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Pterafolk
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/1
+  - Monster/Typ/Monstrosität
+  - Quelle/5e/toa
 aliases:
   - Pterafolk
 ---

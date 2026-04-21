@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Speed Factor Initiative Modifiers
 tags:
   - Quelle/5e/dmg
 aliases:

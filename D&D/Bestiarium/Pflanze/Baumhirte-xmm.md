@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/9
-  - Monster/Habitat/Wald
-  - Monster/Größe/Riesig
-  - Monster/Typ/Pflanze
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Treant
+tags:
+  - Monster/Größe/Riesig
+  - Monster/Habitat/Wald
+  - Monster/HG/9
+  - Monster/Typ/Pflanze
+  - Quelle/5e/xmm
 aliases:
   - Treant
 ---

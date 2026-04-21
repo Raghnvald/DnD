@@ -1,8 +1,9 @@
 ---
+Bezeichnung: Makel
 tags:
-- Quelle/5e/phb
+  - Quelle/5e/phb
 aliases:
-- Flaws
+  - Flaws
 ---
 # Makel
 

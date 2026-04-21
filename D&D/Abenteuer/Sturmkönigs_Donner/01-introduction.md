@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Introduction
 tags:
   - Quelle/5e/skt
 aliases:

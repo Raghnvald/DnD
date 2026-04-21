@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/0
-  - Monster/Habitat/Jedes
-  - Monster/Größe/Winzig
-  - Monster/Typ/Konstrukt
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Homunculus
+tags:
+  - Monster/Größe/Winzig
+  - Monster/Habitat/Jedes
+  - Monster/HG/0
+  - Monster/Typ/Konstrukt
+  - Quelle/5e/xmm
 aliases:
   - Homunculus
 ---

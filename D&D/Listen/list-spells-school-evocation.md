@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Evocation Spells
 tags:
   - Zauber/list/school/evocation
 aliases:

@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Ruby of the War Mage
 tags:
   - Gegenstand/Einstimmung/required

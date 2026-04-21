@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Phandalin
 tags:
   - Quelle/5e/lmop
 aliases:

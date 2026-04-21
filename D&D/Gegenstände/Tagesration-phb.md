@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Tagesration
+Bezeichnung: Rations (1 day)
 Kategorie: Essen und Trinken
 Eigenschaften: /
 Kst.: 5 SM

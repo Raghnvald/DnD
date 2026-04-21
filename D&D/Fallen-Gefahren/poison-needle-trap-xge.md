@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-hazard
+Bezeichnung: Poison Needle Trap
 tags:
-  - Quelle/5e/xge
   - Kompendium/Bedrohung/smpl
+  - Quelle/5e/xge
 aliases:
   - Poison Needle Trap
 ---

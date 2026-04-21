@@ -1,10 +1,9 @@
 ---
-cssclasses:
-  - json5e-object
+Bezeichnung: Trebuchet
 tags:
-  - Quelle/5e/xdmg
   - Kompendium/Objekt/size/huge
   - Kompendium/Objekt/type/siege-weapon
+  - Quelle/5e/xdmg
 aliases:
   - Trebuchet
 ---

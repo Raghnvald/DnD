@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Prophet's Gambit"
 tags:
   - Quelle/5e/cos
 aliases:

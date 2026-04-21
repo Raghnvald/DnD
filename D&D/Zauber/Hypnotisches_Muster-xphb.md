@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Hypnotic Pattern
 tags:
   - Klasse/Barde
@@ -13,8 +11,8 @@ tags:
   - Klasse/Zauberer
   - Quelle/5e/xphb
   - Subklasse/armorer
-  - Subklasse/Mystischer-Ritter
   - Subklasse/illusionist
+  - Subklasse/Mystischer-Ritter
   - Zauber/Grad/3
   - Zauber/Schule/Illusion
 classes:

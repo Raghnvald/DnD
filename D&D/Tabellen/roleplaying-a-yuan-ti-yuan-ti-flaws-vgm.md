@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Roleplaying a Yuan-ti; Yuan-ti Flaws
 tags:
   - Quelle/5e/vgm
 aliases:

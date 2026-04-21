@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Figuring Out Alien Technology
 tags:
   - Quelle/5e/dmg
 aliases:

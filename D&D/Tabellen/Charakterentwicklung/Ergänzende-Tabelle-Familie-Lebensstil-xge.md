@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Ergänzende Tabelle; Lebenstil der Familie
 tags:
   - Quelle/5e/xge
 aliases:

@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Kupfer-Münze (KM)
+Bezeichnung: Kupfer (KM)
 Kategorie: Währung
 tags:
   - Gegenstand/Ausrüstung/treasure-coinage

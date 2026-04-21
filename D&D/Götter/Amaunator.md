@@ -1,12 +1,12 @@
 ---
-cssclasses: json5e-deity
+Bezeichnung: Amaunator, Gott der Sonne
 tags:
-  - Quelle/5e/phb
   - Kompendium/Götter
-  - Kompendium/Götter/Gesinnung/Rechtschaffen_Neutral
-  - Kompendium/Götter/Pantheon/Faerun
   - Kompendium/Götter/Domäne/Leben
   - Kompendium/Götter/Domäne/Licht
+  - Kompendium/Götter/Gesinnung/Rechtschaffen_Neutral
+  - Kompendium/Götter/Pantheon/Faerun
+  - Quelle/5e/phb
 aliases:
   - Amaunator
 ---

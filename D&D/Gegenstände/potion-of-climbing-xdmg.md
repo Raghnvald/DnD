@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Potion of Climbing
 tags:
   - Gegenstand/Seltenheit/gewöhnlich

@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Stone of Controlling Earth Elementals
 tags:
   - Gegenstand/Seltenheit/selten

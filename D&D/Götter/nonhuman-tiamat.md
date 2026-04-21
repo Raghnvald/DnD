@@ -1,10 +1,9 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Tiamat
 tags:
-  - Quelle/5e/phb
-  - Kompendium/Götter/nonhuman
   - Kompendium/Götter/Domäne/trickery
+  - Kompendium/Götter/nonhuman
+  - Quelle/5e/phb
 aliases:
   - Tiamat
 ---

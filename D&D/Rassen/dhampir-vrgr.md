@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-race
+Bezeichnung: Dhampir
 tags:
   - Quelle/5e/vrgr
   - Rasse/dhampir

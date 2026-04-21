@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Villain's Secret Weakness; Villain's Weakness"
 tags:
   - Quelle/5e/dmg
 aliases:

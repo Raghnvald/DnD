@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-race
+Bezeichnung: Tiefling
 tags:
   - Quelle/5e/phb
   - Rasse/tiefling

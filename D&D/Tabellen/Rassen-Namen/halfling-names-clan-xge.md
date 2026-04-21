@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Halfling Names – Clan
 tags:
   - Quelle/5e/xge
 aliases:

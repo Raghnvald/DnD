@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Pride; Proud Behaviors
 tags:
   - Quelle/5e/bgg
 aliases:

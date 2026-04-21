@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Sign of Ill Omen
 tags:
   - Zauber/list/optfeature/sign-of-ill-omen
 aliases:

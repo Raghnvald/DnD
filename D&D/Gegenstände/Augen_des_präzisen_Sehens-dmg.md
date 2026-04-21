@@ -1,7 +1,9 @@
 ---
 Bezeichnung: Augen des präzisen Sehens
+Kategorie: Wundersamer Gegenstand
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
+  - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
   - Eyes of Minute Seeing

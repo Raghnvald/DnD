@@ -1,16 +1,15 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mpmm
-  - Monster/HG/5
-  - Monster/Habitat/Wüste
-  - Monster/Habitat/Berg
-  - Monster/Habitat/Unterreich
-  - Monster/Größe/Groß
-  - Monster/Typ/Monstrosität
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Kruthik Hive Lord
+tags:
+  - Monster/Größe/Groß
+  - Monster/Habitat/Berg
+  - Monster/Habitat/Unterreich
+  - Monster/Habitat/Wüste
+  - Monster/HG/5
+  - Monster/Typ/Monstrosität
+  - Quelle/5e/mpmm
 aliases:
   - Kruthik Hive Lord
 ---

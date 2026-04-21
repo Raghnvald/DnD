@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: True Seeing
 Zaubergrad: 6
 tags:

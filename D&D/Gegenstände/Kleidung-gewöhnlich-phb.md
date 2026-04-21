@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Kleidung, gewöhnlich
+Bezeichnung: Common Clothes
 Kategorie: Abenteuerausrüstung
 tags:
   - Gegenstand/Ausrüstung/

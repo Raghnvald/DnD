@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Monstrous Transformations
 tags:
   - Quelle/5e/vrgr
 aliases:

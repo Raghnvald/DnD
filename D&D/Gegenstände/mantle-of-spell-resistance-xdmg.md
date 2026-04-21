@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Mantle of Spell Resistance
 tags:
   - Gegenstand/Einstimmung/required

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-background
+Bezeichnung: Seemann
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/phb
@@ -9,7 +8,6 @@ aliases:
 ---
 # Seemann
 *Source: Player's Handbook p. 139*  
-
 
 - **Skill Proficiencies.** [Athletics](/3-Mechanics/CLI/skills.md#Athletics), [Perception](/3-Mechanics/CLI/skills.md#Perception)  
 - **Tool Proficiencies.** [Navigator's tools](/3-Mechanics/CLI/items/navigators-tools.md), vehicles (water)  

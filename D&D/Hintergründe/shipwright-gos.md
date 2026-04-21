@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-background
+Bezeichnung: Shipwright
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/gos
@@ -9,7 +8,6 @@ aliases:
 ---
 # Shipwright
 *Source: Ghosts of Saltmarsh p. 33*  
-
 
 - **Skill Proficiencies.** History, Perception  
 - **Tool Proficiencies.** Carpenter's tools, Vehicles (water)  

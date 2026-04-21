@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Elf
 tags:
   - Zauber/list/race/elf
 aliases:

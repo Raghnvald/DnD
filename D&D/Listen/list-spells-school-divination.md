@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Divination Spells
 tags:
   - Zauber/list/school/divination
 aliases:

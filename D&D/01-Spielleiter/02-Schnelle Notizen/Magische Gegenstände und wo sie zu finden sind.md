@@ -1,3 +1,6 @@
+---
+Bezeichnung: Gwyn
+---
 # Gwyn
 - [Dieb_der_neun_Leben-dmg](Dieb_der_neun_Leben-dmg.md)
 - [[Elfenumhang]]

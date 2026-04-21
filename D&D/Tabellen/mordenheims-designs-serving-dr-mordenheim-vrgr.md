@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Mordenheim's Designs; Serving Dr. Mordenheim"
 tags:
   - Quelle/5e/vrgr
 aliases:

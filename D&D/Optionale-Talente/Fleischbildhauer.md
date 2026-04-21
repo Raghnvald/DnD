@@ -1,9 +1,10 @@
 ---
+Bezeichnung: Fleischbildhauer
 tags:
-- Quelle/5e/phb
-- Kompendium/Optionales/Anrufungen
+  - Kompendium/Optionales/Anrufungen
+  - Quelle/5e/phb
 aliases:
-- Sculptor of Flesh
+  - Sculptor of Flesh
 ---
 # Fleischbildhauer
 _Quellen:_ Spielerhandbuch

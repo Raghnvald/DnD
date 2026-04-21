@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/bmt
-  - Monster/HG/11
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/warlock
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Hierophant of the Comet
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/11
+  - Monster/Typ/Humanoid/warlock
+  - Quelle/5e/bmt
 aliases:
   - Hierophant of the Comet
 ---

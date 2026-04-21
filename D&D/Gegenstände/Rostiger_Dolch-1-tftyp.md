@@ -1,7 +1,5 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Junky +1 Dagger
+Bezeichnung: Rostiger Dolch +1
 Kategorie: Einfache Nahkampfwaffe
 tags:
   - Gegenstand/Seltenheit/unbekannt/magic

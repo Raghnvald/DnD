@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-reward
+Bezeichnung: Selesnya Charm
 tags:
-  - Quelle/5e/ggr
   - Kompendium/Belohnung/charm
+  - Quelle/5e/ggr
 aliases:
   - Selesnya Charm
 ---

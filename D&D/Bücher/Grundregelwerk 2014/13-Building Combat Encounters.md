@@ -1,6 +1,8 @@
 ---
+Bezeichnung: 13-Building Combat Encounters
 tags: []
 ---
+# 13-Building Combat Encounters
 When creating a combat encounter, let your imagination run wild and build something your players will enjoy. Once you have the details figured out, use this section to adjust the difficulty of the encounter.
 
 Combat Encounter Difficulty

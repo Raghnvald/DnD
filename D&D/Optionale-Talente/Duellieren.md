@@ -1,12 +1,13 @@
 ---
+Bezeichnung: Duellieren
 tags:
-- Quelle/5e/phb
-- Kompendium/Optionales/fs-b
-- Kompendium/Optionales/fs-f
-- Kompendium/Optionales/fs-p
-- Kompendium/Optionales/fs-r
+  - Kompendium/Optionales/fs-b
+  - Kompendium/Optionales/fs-f
+  - Kompendium/Optionales/fs-p
+  - Kompendium/Optionales/fs-r
+  - Quelle/5e/phb
 aliases:
-- Dueling
+  - Dueling
 ---
 # Duellieren
 *Source: Player's Handbook. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  

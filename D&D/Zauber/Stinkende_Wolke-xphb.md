@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Stinking Cloud
 tags:
   - Klasse/Barde
@@ -10,8 +8,8 @@ tags:
   - Klasse/Schurke/Arkaner-Betrüger
   - Klasse/Zauberer
   - Quelle/5e/xphb
-  - Subklasse/Mystischer-Ritter
   - Subklasse/fiend-patron
+  - Subklasse/Mystischer-Ritter
   - Zauber/Grad/3
   - Zauber/Schule/Beschwörung
 classes:

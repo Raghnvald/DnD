@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-background
+Bezeichnung: Clasp Member (Myriad Operative) (Variant)
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/tdcsr
@@ -10,12 +9,10 @@ aliases:
 # Clasp Member (Myriad Operative) (Variant)
 *Source: Tal'Dorei Campaign Setting Reborn p. 182*  
 
-
 - **Skill Proficiencies.** [Deception](/3-Mechanics/CLI/skills.md#Deception), plus your choice of [Sleight of Hand](/3-Mechanics/CLI/skills.md#Sleight%20of%20Hand) or [Stealth](/3-Mechanics/CLI/skills.md#Stealth)  
 - **Tool Proficiencies.** [Disguise Kit](/3-Mechanics/CLI/items/disguise-kit-xphb.md), [forgery kit](/3-Mechanics/CLI/items/forgery-kit-xphb.md), or [thieves' tools](/3-Mechanics/CLI/items/thieves-tools-xphb.md) (one of your choice)  
 - **Languages.** Thieves' Cant  
 - **Equipment.** A set of inconspicuous [common clothes](/3-Mechanics/CLI/items/common-clothes.md), a set of tools with which you're proficient, and a belt [pouch](/3-Mechanics/CLI/items/pouch-xphb.md) containing 10 gp  
-
 
 ## Variant: Myriad Operative
 

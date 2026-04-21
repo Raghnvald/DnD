@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-spell
+Bezeichnung: Wristpocket
 Zaubergrad: 2
 tags:
   - Quelle/5e/egw
@@ -12,7 +11,6 @@ aliases:
 ---
 # Wristpocket
 *2nd-level, Conjuration (ritual)*  
-
 
 - **Casting time:** 1 Action unless cast as a ritual
 - **Range:** Self

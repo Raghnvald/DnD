@@ -1,15 +1,14 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: The Strife Emperor
 tags:
-  - Quelle/5e/tdcsr
-  - Kompendium/Götter/exandria
   - Kompendium/Götter/Domäne/forge
   - Kompendium/Götter/Domäne/order
   - Kompendium/Götter/Domäne/war
+  - Kompendium/Götter/exandria
+  - Quelle/5e/tdcsr
 aliases:
-  - The Strife Emperor
   - Bane
+  - The Strife Emperor
 ---
 # The Strife Emperor
 *Source: Tal'Dorei Campaign Setting Reborn p. 34* 

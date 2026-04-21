@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Ranger Spells
 tags:
   - Zauber/list/class/ranger
 aliases:

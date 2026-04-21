@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/wdmm
-  - Monster/HG/1-4
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/bullywug
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Blacktongue Bullywug
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/1-4
+  - Monster/Typ/Humanoid/bullywug
+  - Quelle/5e/wdmm
 aliases:
   - Blacktongue Bullywug
 ---

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Orc Names; Orc Epithets
 tags:
   - Quelle/5e/vgm
 aliases:

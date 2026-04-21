@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Dwarven Religion; Dwarf Deities (The Mordinsamman)
 tags:
   - Quelle/5e/mtf
 aliases:

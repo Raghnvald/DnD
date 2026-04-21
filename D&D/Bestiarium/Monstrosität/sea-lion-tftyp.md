@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/tftyp
-  - Monster/HG/5
-  - Monster/Größe/Groß
-  - Monster/Typ/Monstrosität
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Sea Lion
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/5
+  - Monster/Typ/Monstrosität
+  - Quelle/5e/tftyp
 aliases:
   - Sea Lion
 ---

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Armorer
 tags:
   - Zauber/list/subclass/armorer
 aliases:

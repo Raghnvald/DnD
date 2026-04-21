@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Chapter 11: Caught in the Tentacles"
 tags:
   - Quelle/5e/skt
 aliases:

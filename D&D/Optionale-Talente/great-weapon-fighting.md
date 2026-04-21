@@ -1,10 +1,9 @@
 ---
-cssclasses:
-  - json5e-feat
+Bezeichnung: Great Weapon Fighting
 tags:
-  - Quelle/5e/phb
   - Kompendium/Optionales/fs-f
   - Kompendium/Optionales/fs-p
+  - Quelle/5e/phb
 aliases:
   - Great Weapon Fighting
 ---

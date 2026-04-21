@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mm
-  - Monster/HG/9
-  - Monster/Größe/Groß
-  - Monster/Typ/Unhold/devil
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Bone Devil
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/9
+  - Monster/Typ/Unhold/devil
+  - Quelle/5e/mm
 aliases:
   - Bone Devil
 ---

@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Hunger of Hadar
 Zaubergrad: 3
 tags:

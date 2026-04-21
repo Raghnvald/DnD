@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Find the Ideal Introduction; Adventure Introduction
 tags:
   - Quelle/5e/dmg
 aliases:

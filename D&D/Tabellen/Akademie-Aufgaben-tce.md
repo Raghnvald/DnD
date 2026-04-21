@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Academy Quests
 tags:
   - Quelle/5e/tce
 aliases:

@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/dosi
-  - Monster/HG/1-4
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Pflanze
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Violet Fungus
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/1-4
+  - Monster/Typ/Pflanze
+  - Quelle/5e/dosi
 aliases:
   - Violet Fungus
 ---

@@ -16,8 +16,8 @@ tags:
   - Monster/Typ/Untote
   - Quelle/5e/cos
 aliases:
-  - Phantomkrieger
   - Phantom Warrior
+  - Phantomkrieger
 linter-yaml-title-alias: Phantomkrieger
 ---
 # Phantomkrieger

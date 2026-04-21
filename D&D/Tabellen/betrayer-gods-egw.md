@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Betrayer Gods
 tags:
   - Quelle/5e/egw
 aliases:

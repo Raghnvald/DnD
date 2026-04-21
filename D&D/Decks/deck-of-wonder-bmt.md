@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-deck
+Bezeichnung: Deck of Wonder
 tags:
   - Quelle/5e/bmt
 aliases:

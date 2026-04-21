@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Chapter 19: Skull"
 tags:
   - Quelle/5e/bmt
 aliases:

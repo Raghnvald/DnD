@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Otherworldly Leap
 tags:
   - Zauber/list/optfeature/otherworldly-leap
 aliases:

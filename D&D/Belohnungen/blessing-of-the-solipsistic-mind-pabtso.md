@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-reward
+Bezeichnung: Blessing of the Solipsistic Mind
 tags:
-  - Quelle/5e/pabtso
   - Kompendium/Belohnung/blessing
+  - Quelle/5e/pabtso
 aliases:
   - Blessing of the Solipsistic Mind
 ---

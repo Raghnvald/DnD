@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Character Options
 tags:
   - Quelle/5e/egw
 aliases:

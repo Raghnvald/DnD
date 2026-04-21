@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Moonbeam
 Zaubergrad: 2
 tags:

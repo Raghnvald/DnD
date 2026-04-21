@@ -1,10 +1,9 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Nike
 tags:
-  - Quelle/5e/phb
-  - Kompendium/Götter/greek
   - Kompendium/Götter/Domäne/war
+  - Kompendium/Götter/greek
+  - Quelle/5e/phb
 aliases:
   - Nike
 ---

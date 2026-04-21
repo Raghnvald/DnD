@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Appendix G: Infernal Script"
 tags:
   - Quelle/5e/bgdia
 aliases:

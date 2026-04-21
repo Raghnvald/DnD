@@ -1,5 +1,7 @@
 ---
-tags: [Quelle/5e/cos]
+Bezeichnung: Informationen über Barovia - allgemein
+tags:
+  - Quelle/5e/cos
 ---
 # Informationen über Barovia - allgemein
 - der Morgenfürst ist ähnlich wie Lathander und hat genauso eine Begeisterung für den Sonnenaufgang und Erneuerung
@@ -156,7 +158,7 @@ Strahd tritt den Charakteren in der Kapelle gegenüber (Bereich K15).
 - [Schreckgespenst-old](Schreckgespenst-old.md)
 - [Schreckenswolf-mm](Schreckenswolf-mm.md)
 - [Todesslaad](Slaad-Tod.md)
-- [(Bern-)Steingolem](Steingolem.md)
+- [(Bern-)Steingolem](Steingolem-mm.md)
 - [Vampirbrut](D&D/05%20-%20Wikipedia/Bestiarium/U-V/Vampirbrut.md)
 
 # Kapitel 14 - Weilandhügel

@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Silver necklace with a gemstone pendant
 tags:
   - Gegenstand/Ausrüstung/treasure-art-object

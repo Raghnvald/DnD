@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-hazard
+Bezeichnung: Falling Net
 tags:
-  - Quelle/5e/xdmg
   - Kompendium/Bedrohung/trp
+  - Quelle/5e/xdmg
 aliases:
   - Falling Net
 ---

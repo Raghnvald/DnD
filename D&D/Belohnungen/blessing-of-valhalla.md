@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-reward
+Bezeichnung: Blessing of Valhalla
 tags:
-  - Quelle/5e/dmg
   - Kompendium/Belohnung/blessing
+  - Quelle/5e/dmg
 aliases:
   - Blessing of Valhalla
 ---

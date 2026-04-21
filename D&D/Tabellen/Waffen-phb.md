@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Waffen
 tags:
   - Quelle/5e/phb
 aliases:

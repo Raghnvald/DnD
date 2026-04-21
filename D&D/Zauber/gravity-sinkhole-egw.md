@@ -1,7 +1,6 @@
 ---
+Bezeichnung: Gravity Sinkhole
 Zaubergrad: 4
-cssclasses:
-  - json5e-spell
 tags:
   - Quelle/5e/egw
   - Zauber/Grad/4
@@ -11,7 +10,6 @@ aliases:
 ---
 # Gravity Sinkhole
 *4th-level, Evocation*  
-
 
 - **Casting time:** 1 Action
 - **Range:** 120 feet

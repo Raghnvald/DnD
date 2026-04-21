@@ -1,5 +1,6 @@
 ---
-Bezeichnung: Iron Flask
+Bezeichnung: Eiserne Flasche
+Kategorie: Wundersamer Gegenstand
 tags:
   - Gegenstand/Seltenheit/legendär
   - Quelle/5e/dmg
@@ -42,7 +43,7 @@ Ein [[Identifzieren-phb|Identifizieren]]-Zauber zeigt, dass sich eine Kreatur in
 | 81-82 | [[Unsichtbarer_Pirscher-mm\|Unsichtbarer Pirscher]] |
 | 83-84 | [[Marid-mm\|Marid]] |
 | 85-86 | [[Mezzoloth-mm\|Mezzoloth]] |
-| 87-88 | [[Nachtvettel-mm\|Nachtvettel]] |
+| 87-88 | [[D&D/Bestiarium/Unhold/Nachtvettel-mm\|Nachtvettel]] |
 | 89-90 | [[Nycaloth-mm\|Nycaloth]] |
 | 91 | [[Planetar-mm\|Planetar]] |
 | 92-93 | [[Salamander-mm\|Salamander]] |

@@ -1,10 +1,9 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Tyche
 tags:
-  - Quelle/5e/phb
-  - Kompendium/Götter/greek
   - Kompendium/Götter/Domäne/trickery
+  - Kompendium/Götter/greek
+  - Quelle/5e/phb
 aliases:
   - Tyche
 ---

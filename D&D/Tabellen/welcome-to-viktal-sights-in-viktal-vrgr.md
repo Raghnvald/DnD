@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Welcome to Viktal; Sights in Viktal
 tags:
   - Quelle/5e/vrgr
 aliases:

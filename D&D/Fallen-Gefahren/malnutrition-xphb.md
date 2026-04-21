@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-hazard
+Bezeichnung: Malnutrition
 tags:
   - Quelle/5e/xphb
 aliases:

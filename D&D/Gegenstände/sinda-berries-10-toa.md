@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Sinda berries (10)
 tags:
   - Gegenstand/Ausrüstung/

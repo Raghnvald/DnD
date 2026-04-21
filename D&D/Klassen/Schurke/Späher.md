@@ -1,6 +1,10 @@
 ---
-tags: [Klasse/Schurke, Quelle/5e/xge]
-aliases: [Scout]
+Bezeichnung: Späher
+tags:
+  - Klasse/Schurke
+  - Quelle/5e/xge
+aliases:
+  - Scout
 ---
 # Späher
 _[[Schurke]]_: Schurkenarchetyp

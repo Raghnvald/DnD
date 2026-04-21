@@ -1,7 +1,5 @@
 ---
-cssclasses:
-  - json5e-spell
-Bezeichnung: Jallarzi's Storm of Radiance
+Bezeichnung: "Jallarzi's Storm of Radiance"
 tags:
   - Klasse/Barde
   - Klasse/Hexenmeister

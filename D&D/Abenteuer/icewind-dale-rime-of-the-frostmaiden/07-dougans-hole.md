@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Dougan's Hole"
 tags:
   - Quelle/5e/idrotf
 aliases:

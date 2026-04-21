@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Inescapable Lash
 Kategorie: Nahkampf-Kriegswaffe
 tags:

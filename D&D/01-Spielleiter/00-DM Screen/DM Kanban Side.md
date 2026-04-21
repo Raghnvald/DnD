@@ -1,6 +1,9 @@
 ---
-tags: [Quelle/5e/dmg]
+Bezeichnung: DM Kanban Side
+tags:
+  - Quelle/5e/dmg
 ---
+# DM Kanban Side
 ```base
 properties:
   file.basename:
@@ -138,7 +141,6 @@ views:
 > [[03. Spielleiterhandbuch 2024/07-Schätze#Seltenheit und Wert magischer Gegenstände|Seltenheit und Wert magischer Gegenstände]]
 > [[Waffen.base|Waffen]]
 > [[Tabellen/Zauberschriftrolle-Zauberschriftrolle|Zauberschriftrolle]]
-
 
 > [!tldr]- Magic Schools - WIP
 > [[Schools of Magic]]

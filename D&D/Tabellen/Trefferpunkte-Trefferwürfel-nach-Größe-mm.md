@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Hit Points; Hit Dice by Size
 tags:
   - Quelle/5e/mm
 aliases:

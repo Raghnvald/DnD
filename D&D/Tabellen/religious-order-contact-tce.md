@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Religious Order Contact
 tags:
   - Quelle/5e/tce
 aliases:

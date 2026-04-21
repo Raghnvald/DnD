@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Appendix A: Magic Items"
 tags:
   - Quelle/5e/lmop
 aliases:

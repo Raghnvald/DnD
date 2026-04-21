@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Carved harp of exotic wood with ivory inlay and zircon gems
 Kategorie: Kunstobjekt
 tags:

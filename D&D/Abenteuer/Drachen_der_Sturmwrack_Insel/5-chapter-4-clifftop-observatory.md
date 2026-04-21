@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Chapter 4: Clifftop Observatory"
 tags:
   - Quelle/5e/dosi
 aliases:

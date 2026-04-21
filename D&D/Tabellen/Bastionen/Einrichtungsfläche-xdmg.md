@@ -2,9 +2,9 @@
 Bezeichnung: Einrichtungsfläche
 Kategorie: Bastion
 tags:
-- Quelle/5e/xdmg
+  - Quelle/5e/xdmg
 aliases:
-- Facility Space
+  - Facility Space
 ---
 # Einrichtungsfläche
 *Quelle: Spielleiterhandbuch (2024), S. 335* 

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Resistances
 tags:
   - Quelle/5e/mm
 aliases:

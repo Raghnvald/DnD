@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: In This Collection; Eldraine Creatures
 tags:
   - Quelle/5e/mcv4ec
 aliases:

@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Project Image
 Zaubergrad: 7
 tags:

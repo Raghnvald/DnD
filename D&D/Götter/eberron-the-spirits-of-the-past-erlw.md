@@ -1,11 +1,10 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: The Spirits of the Past
 tags:
-  - Quelle/5e/erlw
-  - Kompendium/Götter/eberron
   - Kompendium/Götter/Domäne/nature
   - Kompendium/Götter/Domäne/war
+  - Kompendium/Götter/eberron
+  - Quelle/5e/erlw
 aliases:
   - The Spirits of the Past
 ---

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Appendix D: Special NPCs"
 tags:
   - Quelle/5e/skt
 aliases:

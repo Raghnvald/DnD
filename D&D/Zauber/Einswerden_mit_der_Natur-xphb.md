@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Commune with Nature
 tags:
   - Klasse/Barde

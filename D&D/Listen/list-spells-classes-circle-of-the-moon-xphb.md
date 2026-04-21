@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Circle of the Moon
 tags:
   - Zauber/list/subclass/circle-of-the-moon
 aliases:

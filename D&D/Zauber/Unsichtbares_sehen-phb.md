@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: See Invisibility
 Zaubergrad: 2
 tags:

@@ -1,6 +1,8 @@
 ---
+Bezeichnung: Encounter - 01. Eine gefährliche Reise
 archived: true
 ---
+# Encounter - 01. Eine gefährliche Reise
 
 ```encounter
 name: 01. Goblin-Hinterhalt

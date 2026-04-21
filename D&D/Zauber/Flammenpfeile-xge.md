@@ -8,11 +8,11 @@ Wirkungsdauer: Konzentration, bis zu 1 Stunde
 Angriff: n/v
 Schaden: 1d6 Feuer
 tags:
+  - Klasse/Artifizient
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
   - Klasse/Druide
   - Klasse/Magier
-  - Klasse/Artifizient
   - Klasse/Schurke/Arkaner-Betrüger
   - Klasse/Waldläufer
   - Klasse/Zauberer

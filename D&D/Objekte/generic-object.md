@@ -1,10 +1,9 @@
 ---
-cssclasses:
-  - json5e-object
+Bezeichnung: Generic Object
 tags:
-  - Quelle/5e/dmg
   - Kompendium/Objekt/size/varies
   - Kompendium/Objekt/type/generic
+  - Quelle/5e/dmg
 aliases:
   - Generic Object
 ---

@@ -1,12 +1,11 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Pelor
 tags:
-  - Quelle/5e/egw
-  - Kompendium/Götter/exandria
   - Kompendium/Götter/Domäne/life
   - Kompendium/Götter/Domäne/light
   - Kompendium/Götter/Domäne/nature
+  - Kompendium/Götter/exandria
+  - Quelle/5e/egw
 aliases:
   - Pelor
 ---

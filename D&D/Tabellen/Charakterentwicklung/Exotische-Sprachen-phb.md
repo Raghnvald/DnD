@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Exotic Languages
 tags:
   - Quelle/5e/phb
 aliases:

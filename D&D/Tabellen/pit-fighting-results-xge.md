@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Pit Fighting Results
 tags:
   - Quelle/5e/xge
 aliases:

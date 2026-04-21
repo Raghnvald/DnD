@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Monk
 tags:
   - Quelle/5e/ggr
 aliases:

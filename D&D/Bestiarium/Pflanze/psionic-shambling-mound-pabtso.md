@@ -1,15 +1,15 @@
 ---
-Bezeichnung: Psionic Shambling Mound
-Image: plant/token/psionic-shambling-mound-pabtso.webp
-tags:
-  - Quelle/5e/pabtso
-  - Monster/HG/5
-  - Monster/Größe/Groß
-  - Monster/Typ/Pflanze
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Psionic Shambling Mound
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/5
+  - Monster/Typ/Pflanze
+  - Quelle/5e/pabtso
 aliases:
   - Psionic Shambling Mound
+Image: plant/token/psionic-shambling-mound-pabtso.webp
 ---
 # Psionic Shambling Mound
 *Source: Phandelver and Below: The Shattered Obelisk p. 108*  

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Hidecarved Dragons Adventure Hooks
 tags:
   - Quelle/5e/ftd
 aliases:

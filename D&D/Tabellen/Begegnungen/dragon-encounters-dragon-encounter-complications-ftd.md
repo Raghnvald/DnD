@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Dragon Encounters; Dragon Encounter Complications
 tags:
   - Quelle/5e/ftd
 aliases:

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Astral Color Pools
 tags:
   - Quelle/5e/dmg
 aliases:

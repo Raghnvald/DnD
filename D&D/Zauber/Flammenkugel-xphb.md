@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Flaming Sphere
 tags:
   - Klasse/Barde

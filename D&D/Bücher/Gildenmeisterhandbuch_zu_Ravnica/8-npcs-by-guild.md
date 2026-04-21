@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: NPCs by Guild
 tags:
   - Quelle/5e/ggr
 aliases:

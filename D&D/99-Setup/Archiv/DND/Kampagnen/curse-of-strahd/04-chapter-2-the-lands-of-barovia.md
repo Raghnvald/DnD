@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Chapter 2: The Lands of Barovia"
 tags:
   - Quelle/5e/cos
 aliases:

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-class
+Bezeichnung: Expert Sidekick
 tags:
   - Klasse/expert-sidekick
   - Quelle/5e/tce
@@ -54,7 +53,6 @@ aliases:
 - **Weapons**: All simple weapons if [humanoid](#Bonus%20Proficiencies%20(Level%201))
 - **Tools**: Two tools of your choice if [humanoid](#Bonus%20Proficiencies%20(Level%201))
 - **Skills**: Five skills of your choice
-
 
 ## Expert Sidekick
 

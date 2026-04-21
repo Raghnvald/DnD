@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Character Races
 tags:
   - Quelle/5e/vgm
 aliases:

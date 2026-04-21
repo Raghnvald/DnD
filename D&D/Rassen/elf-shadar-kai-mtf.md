@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-race
+Bezeichnung: Elf (Shadar-kai)
 tags:
   - Quelle/5e/mtf
   - Rasse/elf/shadar-kai
@@ -9,7 +8,6 @@ aliases:
 ---
 # Elf (Shadar-kai)
 *Source: Mordenkainen's Tome of Foes p. 62*  
-
 
 - **Ability Scores**: con +1
 - **Size**: Medium

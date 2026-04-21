@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Drow Matron Mother
 tags:
-  - Quelle/5e/mpmm
   - Monster/legendary-group
+  - Quelle/5e/mpmm
 aliases:
   - Drow Matron Mother
 ---

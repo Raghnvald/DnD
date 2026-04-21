@@ -1,10 +1,9 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Dol Dorn
 tags:
-  - Quelle/5e/erlw
-  - Kompendium/Götter/eberron
   - Kompendium/Götter/Domäne/war
+  - Kompendium/Götter/eberron
+  - Quelle/5e/erlw
 aliases:
   - Dol Dorn
 ---

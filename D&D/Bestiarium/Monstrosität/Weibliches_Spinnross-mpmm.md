@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mpmm
-  - Monster/HG/1
-  - Monster/Habitat/Unterreich
-  - Monster/Größe/Groß
-  - Monster/Typ/Monstrosität
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Female Steeder
+tags:
+  - Monster/Größe/Groß
+  - Monster/Habitat/Unterreich
+  - Monster/HG/1
+  - Monster/Typ/Monstrosität
+  - Quelle/5e/mpmm
 aliases:
   - Female Steeder
 ---

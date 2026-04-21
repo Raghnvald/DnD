@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/bmt
-  - Monster/HG/4
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/warlock
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Initiate of the Comet
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/4
+  - Monster/Typ/Humanoid/warlock
+  - Quelle/5e/bmt
 aliases:
   - Initiate of the Comet
 ---

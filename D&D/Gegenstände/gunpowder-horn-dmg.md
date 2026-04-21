@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Gunpowder Horn
 Kategorie: Explosives
 tags:

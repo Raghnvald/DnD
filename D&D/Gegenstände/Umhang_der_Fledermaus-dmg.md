@@ -1,8 +1,10 @@
 ---
-Bezeichnung: Cloak of the Bat
+Bezeichnung: "Umhang der Fledermaus "
+Kategorie: Wundersamer Gegenstand 
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
+  - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
   - Cloak of the Bat

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Delve into the Past
 tags:
   - Quelle/5e/bgg
 aliases:

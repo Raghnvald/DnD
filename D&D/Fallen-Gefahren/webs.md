@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-hazard
+Bezeichnung: Webs
 tags:
   - Quelle/5e/dmg
 aliases:

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-deck
+Bezeichnung: Magic Item Cards
 tags:
   - Quelle/5e/dip
 aliases:

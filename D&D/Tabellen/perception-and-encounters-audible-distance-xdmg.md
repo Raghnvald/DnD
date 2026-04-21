@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Perception and Encounters; Audible Distance
 tags:
   - Quelle/5e/xdmg
 aliases:

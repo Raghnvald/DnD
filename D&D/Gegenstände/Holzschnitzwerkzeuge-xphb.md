@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: "Woodcarver's Tools"
 tags:
   - Gegenstand/Ausrüstung/Werkzeug

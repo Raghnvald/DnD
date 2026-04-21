@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Appendix A: Character Backgrounds"
 tags:
   - Quelle/5e/toa
 aliases:

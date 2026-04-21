@@ -1,8 +1,9 @@
 ---
+Bezeichnung: Handelsbarren
 tags:
-- Quelle/5e/xdmg
+  - Quelle/5e/xdmg
 aliases:
-- Trade Bars
+  - Trade Bars
 ---
 # Handelsbarren
 *Source: Dungeon Master's Guide (2024) p. 213* 

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Downtime Activity: Pit Fighting"
 tags:
   - Quelle/5e/xge
 aliases:

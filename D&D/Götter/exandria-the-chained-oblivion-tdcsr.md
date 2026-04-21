@@ -1,15 +1,14 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: The Chained Oblivion
 tags:
-  - Quelle/5e/tdcsr
-  - Kompendium/Götter/exandria
   - Kompendium/Götter/Domäne/death
   - Kompendium/Götter/Domäne/grave
   - Kompendium/Götter/Domäne/trickery
+  - Kompendium/Götter/exandria
+  - Quelle/5e/tdcsr
 aliases:
-  - The Chained Oblivion
   - Tharizdun
+  - The Chained Oblivion
 ---
 # The Chained Oblivion
 *Source: Tal'Dorei Campaign Setting Reborn p. 36* 

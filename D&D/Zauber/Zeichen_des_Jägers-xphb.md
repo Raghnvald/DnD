@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Hunter's Mark
+Bezeichnung: "Hunter's Mark"
 Zaubergrad: 1
 Zeitaufwand:
 Reichweite:

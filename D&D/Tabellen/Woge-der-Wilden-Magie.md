@@ -1,5 +1,5 @@
 ---
-cssclasses: json5e-note
+Bezeichnung: Woge der Wilden Magie
 tags:
   - Quelle/5e/phb
 aliases:

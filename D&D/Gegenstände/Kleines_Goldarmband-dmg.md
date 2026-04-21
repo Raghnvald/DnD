@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Small gold bracelet
 Kategorie: Kunstobjekt
 tags:

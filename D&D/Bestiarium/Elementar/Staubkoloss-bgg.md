@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/bgg
-  - Monster/HG/5
-  - Monster/Größe/Groß
-  - Monster/Typ/Elementar
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Dust Hulk
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/5
+  - Monster/Typ/Elementar
+  - Quelle/5e/bgg
 aliases:
   - Dust Hulk
 ---
@@ -21,7 +20,6 @@ Dust hulks retain their ancestors' passion for artistry, but instead of carving 
 > [!quote] A quote from Bigby  
 > 
 > It's tempting to view the various hulks as symbols of the long, slow decline of the giants as a people. But that's hardly fair to the giants who still survive and thrive in the world, heirs of tremendous glory.
-
 
 ```statblock
 "name": "Dust Hulk (BGG)"

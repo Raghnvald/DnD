@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mm
-  - Monster/HG/1-2
-  - Monster/Habitat/underwater
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Tier
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Reef Shark
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/underwater
+  - Monster/HG/1-2
+  - Monster/Typ/Tier
+  - Quelle/5e/mm
 aliases:
   - Reef Shark
 ---

@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Maul
 Kategorie: Nahkampf-Kriegswaffe
 tags:

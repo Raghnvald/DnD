@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Critical Hit
 tags:
   - Quelle/5e/xphb
 aliases:

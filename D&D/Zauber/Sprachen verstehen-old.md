@@ -1,5 +1,4 @@
 ---
-cssclasses: json5e-spell
 Bezeichnung: Sprachen verstehen
 Zaubergrad: 1
 status: WIP

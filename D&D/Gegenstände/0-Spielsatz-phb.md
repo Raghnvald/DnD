@@ -1,5 +1,5 @@
----Kategorie: Werkzeug
-Bezeichnung: Gaming Set
+---
+Bezeichnung: Spielsatz
 Kategorie: Werkzeug
 tags:
   - Gegenstand/Ausrüstung/Spielset
@@ -9,7 +9,7 @@ aliases:
   - Gaming Set
 linter-yaml-title-alias: Gaming Set
 ---
-# Gaming Set
+# Spielsatz
 *Gaming set*  
 
 **Gegenstände in dieser Gruppe:**

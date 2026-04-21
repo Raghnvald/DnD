@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/cos
-  - Monster/HG/1-4
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/mongrelfolk
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Mongrelfolk
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/1-4
+  - Monster/Typ/Humanoid/mongrelfolk
+  - Quelle/5e/cos
 aliases:
   - Mongrelfolk
 ---

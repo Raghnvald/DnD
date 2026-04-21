@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Magical Effects; Environmental Effects
 tags:
   - Quelle/5e/erlw
 aliases:

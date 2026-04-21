@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Death Domain
 tags:
   - Zauber/list/subclass/death-domain
 aliases:

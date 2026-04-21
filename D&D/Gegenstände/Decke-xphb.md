@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Blanket
 tags:
   - Gegenstand/Ausrüstung/

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Creating a Monster Stat Block; Monster Features
 tags:
   - Quelle/5e/dmg
 aliases:

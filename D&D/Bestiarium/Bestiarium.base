@@ -28,8 +28,11 @@ views:
         - file.folder == "D&D/Bestiarium/Unhold"
         - file.folder == "D&D/Bestiarium/Untot"
     order:
+      - Bezeichnung
       - file.name
       - aliases
     sort:
+      - property: file.name
+        direction: ASC
       - property: aliases
         direction: ASC

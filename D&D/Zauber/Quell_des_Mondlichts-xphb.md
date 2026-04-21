@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Fount of Moonlight
 tags:
   - Klasse/Barde

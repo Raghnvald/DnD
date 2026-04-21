@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xphb
-  - Monster/HG/
-  - Monster/Größe/Klein
-  - Monster/Typ/Fee
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Fey Spirit (Fuming)
+tags:
+  - Monster/Größe/Klein
+  - Monster/HG/
+  - Monster/Typ/Fee
+  - Quelle/5e/xphb
 aliases:
   - Fey Spirit (Fuming)
 ---

@@ -1,9 +1,10 @@
 ---
+Bezeichnung: Ketten von Carceri
 tags:
-- Quelle/5e/phb
-- Kompendium/Optionales/Anrufungen
+  - Kompendium/Optionales/Anrufungen
+  - Quelle/5e/phb
 aliases:
-- Chains of Carceri
+  - Chains of Carceri
 ---
 # Ketten von Carceri
 _Quellen:_ Spielerhandbuch

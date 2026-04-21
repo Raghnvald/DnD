@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Work; Wages
 tags:
   - Quelle/5e/xge
 aliases:

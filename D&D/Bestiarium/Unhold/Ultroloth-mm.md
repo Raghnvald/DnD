@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mm
-  - Monster/HG/13
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Unhold/yugoloth
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Ultroloth
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/13
+  - Monster/Typ/Unhold/yugoloth
+  - Quelle/5e/mm
 aliases:
   - Ultroloth
 ---
@@ -69,7 +68,6 @@ Whatever the case, no fiend finds the General unless the General desires it. His
 > [!quote] A quote from Shemeshka the Marauder  
 > 
 > Power. We all crave it, but only a select few of us deserve it.
-
 
 ```statblock
 "name": "Ultroloth"

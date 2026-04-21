@@ -1,7 +1,9 @@
 ---
 Bezeichnung: Statuette of Augury
+Kategorie: Wundersamer Gegenstand
 tags:
   - Gegenstand/Seltenheit/unbekannt/magic
+  - Gegenstand/wundersam
   - Quelle/5e/pabtso
 aliases:
   - Statuette of Augury

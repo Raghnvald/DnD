@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-feat
+Bezeichnung: Polearm Master
 tags:
-  - Quelle/5e/xphb
   - Kompendium/Talent
+  - Quelle/5e/xphb
 aliases:
   - Polearm Master
 ---

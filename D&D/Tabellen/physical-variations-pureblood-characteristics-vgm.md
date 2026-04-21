@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Physical Variations; Pureblood Characteristics
 tags:
   - Quelle/5e/vgm
 aliases:

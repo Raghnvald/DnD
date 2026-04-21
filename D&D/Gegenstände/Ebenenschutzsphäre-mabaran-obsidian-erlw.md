@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Orb of Shielding (Mabaran Obsidian)
 Kategorie: Wundersamer Gegenstand
 tags:

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Ending a Chase; Escape Factors
 tags:
   - Quelle/5e/xdmg
 aliases:

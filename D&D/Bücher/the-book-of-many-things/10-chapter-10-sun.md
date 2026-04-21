@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Chapter 10: Sun"
 tags:
   - Quelle/5e/bmt
 aliases:

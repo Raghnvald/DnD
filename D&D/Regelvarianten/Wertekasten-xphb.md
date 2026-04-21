@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Stat Block
 tags:
   - Quelle/5e/xphb
 aliases:

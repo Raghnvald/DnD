@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Henkersschwert (Hiebschaden)
+Bezeichnung: Henkersschwert
 Kategorie: Nahkampf-Kriegswaffe (beliebiges Schwert)
 Schaden: /
 Eigenschaften: /

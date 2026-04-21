@@ -1,11 +1,10 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: The Path of Light
 tags:
-  - Quelle/5e/phb
-  - Kompendium/Götter/eberron
   - Kompendium/Götter/Domäne/life
   - Kompendium/Götter/Domäne/light
+  - Kompendium/Götter/eberron
+  - Quelle/5e/phb
 aliases:
   - The Path of Light
 ---

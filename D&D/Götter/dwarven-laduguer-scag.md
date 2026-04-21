@@ -1,11 +1,10 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Laduguer
 tags:
-  - Quelle/5e/scag
-  - Kompendium/Götter/dwarven
   - Kompendium/Götter/Domäne/arcana
   - Kompendium/Götter/Domäne/death
+  - Kompendium/Götter/dwarven
+  - Quelle/5e/scag
 aliases:
   - Laduguer
 ---

@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mpmm
-  - Monster/HG/21
-  - Monster/Größe/Gigantisch
-  - Monster/Typ/Monstrosität/titan
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Astral Dreadnought
+tags:
+  - Monster/Größe/Gigantisch
+  - Monster/HG/21
+  - Monster/Typ/Monstrosität/titan
+  - Quelle/5e/mpmm
 aliases:
   - Astral Dreadnought
 ---

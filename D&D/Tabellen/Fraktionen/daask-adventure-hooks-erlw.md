@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Daask Adventure Hooks
 tags:
   - Quelle/5e/erlw
 aliases:

@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Wand
 tags:
   - Gegenstand/Ausrüstung/Zauberfokus

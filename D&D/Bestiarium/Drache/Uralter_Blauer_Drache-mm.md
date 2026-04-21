@@ -13,92 +13,94 @@ aliases:
   - Ancient Blue Dragon
 linter-yaml-title-alias: Ancient Blue Dragon
 ---
-# [Ancient Blue Dragon](3-Mechanics\CLI\bestiary\dragon/ancient-blue-dragon.md)
-*Source: Monster Manual p. 90. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+# Uralter Blauer Drache 
+*Quelle: Monsterhandbuch S. 62. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
-Vain and territorial, blue dragons soar through the skies over deserts, preying on caravans and plundering herds and settlements in the verdant lands beyond the desert's reach. These dragons can also be found in dry steppes, searing badlands, and rocky coasts. They guard their territories against all potential competitors, especially brass dragons.
+Blaue Drachen sind eitel und territorial. Sie fliegen über Wüsten durch den Himmel, greifen Karawanen an und plündern Herden und Siedlungen in den saftigen Ländern jenseits der Wüste. Diese Drachen findet man auch in trockenen Steppen, verbranntem Ödland und an felsigen Küsten. Sie beschützen ihre Territorien gegen alle potentiellen Konkurrenten, besonders Messingdrachen.
 
-A blue dragon is recognized by its dramatic frilled ears and the massive ridged horn atop its blunt head. Rows of spikes extend back from its nostrils to line its brow, and cluster on its jutting lower jaw.
+Blaue Drachen kann man an ihren dramatisch gekräuselten Ohren und dem massiven Hornkamm oben auf ihrem flachen Kopf erkennen. Reihen von Stacheln ziehen sich von den Nasenlöchern bis zur Stirnlinie und sammeln sich besonders auf dem vorstehenden Unterkiefer.
 
-A blue dragon's scales vary in color from an iridescent azure to a deep indigo, polished to a glossy finish by the desert sands. As the dragon ages, its scales become thicker and harder, and its hide hums and crackles with static electricity. These effects intensify when the dragon is angry or about to attack, giving off an odor of ozone and dusty air.
+Die Schuppen eines blauen Drachen reichen farblich von einem schillernden Azurblau bis hin zu einem tiefen Indigo und sind vom Wüstensand hochglänzend poliert. Wenn der Drache altert, werden seine Schuppen dicker und härter, und seine Haut summt und knistert vor statischer Elektrizität. Diese Effekte werden stärker, wenn der Drache wütend wird oder gleich angreift, was einen Geruch von Ozon und staubiger Luft erzeugt.
 
-## Vain and Deadly
+## Eitel und tödlich 
 
-A blue dragon will not stand for any remark or insinuation that it is weak or inferior, taking great pleasure in lording its power over humanoids and other lesser creatures.
+Ein blauer Drache wird keine Kommentare oder Andeutungen dulden, die besagen, dass er schwach oder minderwertig wäre. Er erfreut sich besonders daran, seine Macht gegenüber Humanoiden und anderen schwächeren Kreaturen auszuspielen.
 
-A blue dragon is a patient and methodical combatant. When fighting on its own terms, it turns combat into an extended affair of hours or even days, attacking from a distance with volleys of lightning, then flying well out of harm's reach as it waits to attack again.
+Blaue Drachen sind geduldige und methodische Kämpfer. Wenn sie unter ihren Bedingungen kämpfen, wird der Kampf zu einer langfristigen Angelegenheit, die Stunden oder sogar Tage in Anspruch nehmen kann. Sie greifen aus der Entfernung mit Salven aus Blitzen an,fliegen dann außerhalb der Reichweite des Gegners und warten, bis sich wieder eine Chance zum Angriff bietet.
 
-## Desert Predators
+## Wüstenraubtiere
 
-Though they sometimes eat cacti and other desert plants to sate their great hunger, blue dragons are carnivores. They prefer to dine on herd animals, cooking those creatures with their lightning breath before gorging themselves. Their dining habits make blue dragons an enormous threat to desert caravans and nomadic tribes, which become convenient collections of food and treasure to a dragon's eye.
+Auch wenn sie manchmal Kakteen und andere Wüstenpflanzen fressen, um ihren großen Hunger zu stillen, sind blaue Drachen doch Fleischfresser. Sie ziehen es vor, Herdentiere zu verzehren. Sie kochen diese Kreaturen mit ihrem Blitzatem, ehe sie sich an ihnen laben. Ihre Fressgewohnheiten machen blaue Drachen zu einer großen Gefahr für Wüstenkarawanen und nomadische Stämme, die in den Augen des Drachen zu praktischen ~mmlungen von Nahrung und Schätzen werden.
 
-When it hunts, a blue dragon buries itself in the desert sand so that only the horn on its nose pokes above the surface, appearing to be an outcropping of stone. When prey draws near, the dragon rises up, sand pouring from its wings like an avalanche as it attacks.
+Wenn ein blauer Drache jagt, gräbt er sich im Wüstenstand ein, sodass nur das Horn--auf'~einer Nase hervorragt, das eine Steinnadel zu sein scheint. Wenn sich Beute nähert, steigt der Drache auf. Sand fließt wie eine Lawine von seinen Schwingen, während er angreift.
 
-## Overlords and Minions
+## Gebieter und Schergen
 
-Blue dragons covet valuable and talented creatures whose service reinforces their sense of superiority. Bards, sages, artists, wizards, and assassins can become valuable agents for a blue dragon, which rewards loyal service handsomely.
+Blaue Drachen begehren die kostbarsten und begabtesten Kreaturen, deren Dienste ihr Überlegenheitsgefühl bekräftigen. Barden, Weise, Künstler, Magier und Meuchelmörder können kostbare Agenten für einen blauen Drachen werden, der loyale Dienste großzügig belohnt.
 
-A blue dragon keeps its lair secret and well protected, and even its most trusted servants are rarely allowed within. It encourages ankhegs, giant scorpions, and other creatures of the desert to dwell near its lair for additional security. Older blue dragons sometimes attract air elementals and other creatures to serve them.
+Ein blauer Drache hält seine Behausung geheim und gut geschützt, und sogar seine treusten Diener werden nur selten hineingelassen. Er ermutigt Ankhegs, Riesenskorpione und andere Kreaturen der Wüste, als zusätzliche Sicherheit in der Nähe seiner Behausungen zu leben. Ältere blaue Drachen ziehen manchmal Luftelementare und andere Kreaturen an, die ihnen dienen.
 
-## Hoarders of Gems
+## Sammler von Edelsteinen
 
-Though blue dragons collect anything that looks valuable, they are especially fond of gems. Considering blue to be the most noble and beautiful of colors, they covet sapphires, favoring jewelry and magic items adorned with those gems.
+Auch wenn blaue Drachen alles sammeln, das kostbar aussieht, schätzen sie Juwelen besonders. Sie betrachten blau als die edelste und schönste aller Farben und schätzen deshalb Saphire besonders. Sie lieben Schmuck und magische Gegenstände, die mit diesen Juwelen verziert sind.
 
-A blue dragon buries its most valuable treasures deep in the sand, while scattering a few less valuable trinkets in plainer sight over hidden sinkholes to punish and eliminate would-be thieves.
+Ein blauer Drache vergräbt seine kostbarsten Schätze tief im Sand, während er einige weniger wertvolle Kleinigkeiten offen sichtbar über verborgenen Sandlöchern auslegt, um Möchtegerndiebe zu bestrafen und auszuschalten.
 
-## A Blue Dragon's Lair
+## Die Behausung eines blauen Drachen
 
-Blue dragons make their lairs in barren places, using their lightning breath and their burrowing ability to carve out crystallized caverns and tunnels beneath the sands.
+Blaue Drachen suchen eine Behausung an unfruchtbaren Orten und nutzen ihren Blitzatem und ihre Fähigkeit zu graben, um kristallisierte Kavernen und Tunnel unter dem Sand zu erschaffen.
 
-Thunderstorms rage around a legendary blue dragon's lair, and narrow tubes lined with glassy sand ventilate the lair, all the while avoiding the deadly sinkholes that are the dragon's first line of defense.
+Gewitter toben um die Behausung eines legendären blauen Drachen, und dünne Rohre, die mit verglastem Sand ausgekleidet sind, sorgen für Belüftung, während sie die tödlichen Sandlöcher meiden, die die erste Verteidigungslinie des Drachens sind.
 
-A blue dragon will collapse the caverns that make up its lair if that lair is invaded. The dragon then burrows out, leaving its attackers to be crushed and suffocated. When it returns later, it collects its possessions-along with the wealth of the dead intruders.
+Ein blauer Drache lässt die Kavernen, die seine Behausung darstellen, einstürzen, wenn andere in sie eindringen. Der Drache gräbt sich dann nach draußen und lässt die Angreifer zurück, die zerquetscht und erstickt werden. Wenn er später zurückkehrt, sammelt er seine Besitztümer wieder zusammen - mit dem Wohlstand der toten Eindringlinge.
 
-## Chromatic Dragons
+## Chromatische Drachen
 
-The black, blue, green, red, and white dragons represent the evil side of dragonkind. Aggressive, gluttonous, and vain, chromatic dragons are dark sages and powerful tyrants feared by all creatures-including each other.
+Die schwarzen, blauen, grünen, roten und weißen Drachen verkörpern die böse Seite der Drachenheit. Chromatische Drachen sind aggressiv, gefräßig und eitel. Sie sind dunkle Gelehrte und mächtige Tyrannen, die von allen Kreaturen gefürchtet werden - auch voneinander.
 
-### Driven by Greed
+### Getrieben von Gier
 
-Chromatic dragons lust after treasure, and this greed colors their every scheme and plot. They believe that the world's wealth belongs to them by right, and a chromatic dragon seizes that wealth without regard for the humanoids and other creatures that have "stolen" it. With its piles of coins, gleaming gems, and magic items, a dragon's hoard is the stuff of legend. However, chromatic dragons have no interest in commerce, amassing wealth for no other reason than to have it.
+Chromatische Drachen gieren nach Schätzen, und diese Gier beeinflusst all ihre Pläne. Sie glauben, dass der Wohlstand der Welt rechtmäßig ihnen gehört, und chromatische Drachen reißen diesen Wohlstand an sich, ohne sich um die Humanoiden und andere Kreaturen zu scheren, die ihn „gestohlen" haben. Mit seinen Haufen aus Münzen, funkelnden Juwelen und magischen Gegenständen ist der Hort eines Drachens wirklich der Stoff, aus dem Legenden gemacht sind. Allerdings haben chromatische Drachen kein Interesse daran, mit ihren Schätzen zu handeln; sie häufen die Schätze nur an, um sie zu besitzen.
 
-### Creatures of Ego
+### Kreaturen aus purem Ego
 
-Chromatic dragons are united by their sense of superiority, believing themselves the most powerful and worthy of all mortal creatures. When they interact with other creatures, it is only to further their own interests. They believe in their innate right to rule, and this belief is the cornerstone of every chromatic dragon's personality and worldview. Trying to humble a chromatic dragon is like trying to convince the wind to stop blowing. To these creatures, humanoids are animals, fit to serve as prey or beasts of burden, and wholly unworthy of respect.
+Chromatische Drachen werden von ihrem Überlegenheitsgefühl vereint, da sie glauben, dass sie selbst die mächtigsten und würdigsten aller sterblichen Kreaturen sind. Wenn sie mit anderen Kreaturen interagieren, dann nur, um ihre eigenen Interessen voranzubringen. Sie glauben an ihr angeborenes Recht zu herrschen, und dieser Glaube ist der Mittelpunkt der Persönlichkeit und Weltsicht eines jeden chromatischen Drachen. Zu versuchen, einen chromatischen Drachen Demut zu lehren, ist, als würde man den Wind überzeugen wollen, nicht mehr zu wehen. Für diese Kreaturen sind Humanoide nur Tiere, die als Beute oder Lasttiere dienen können, und verdienen keinerlei Respekt.
 
-### Dangerous Lairs
+### Gefährliche Behausungen
 
-A dragon's lair serves as the seat of its power and a vault for its treasure. With its innate toughness and tolerance for severe environmental effects, a dragon selects or builds a lair not for shelter but for defense, favoring multiple entrances and exits, and security for its hoard.
+Die Behausung eines Drachens ist der Sitz seiner Macht und ein Tresor für seine Schätze. Aufgrund seiner angeborenen Zähigkeit und Toleranz für schwerwiegende Umgebungseffekte wählt ein Drache Behausungen nicht nach dem Aspekt aus, dass sie ihm als Zuflucht dienen, sondern danach, dass er sie gut verteidigen kann. Er zieht ein Heim mit mehreren Eingängen und Ausgängen vor, in dem sein Schatz in Sicherheit ist.
 
-Most chromatic dragon lairs are hidden in dangerous and remote locations to prevent all but the most audacious mortals from reaching them. A black dragon might lair in the heart of a vast swamp, while a red dragon might claim the caldera of an active volcano. In addition to the natural defenses of their lairs, powerful chromatic dragons use magical guardians, traps, and subservient creatures to protect their treasures.
+Die meisten chromatischen Drachen verbergen sich an gefährlichen abgelegenen Orten, damit nur die waghalsigsten Sterblichen es wagen, zu ihnen zu gelangen. Ein schwarzer Drache könnte inmitten eines gewaltigen Sumpfes hausen, während ein roter Drache den Krater eines aktiven Vulkans für sich beanspruchen könnte. Neben des natürlichen Schutzes ihrer Behausungen verwenden mächtige chromatische Drachen magische Wächter, Fallen und gehorsame Kreaturen, um ihre Schätze zu bewachen.
 
-### Queen of Evil Dragons
+### Königin der Bösen Drachen
 
-Tiamat the Dragon Queen is the chief deity of evil dragonkind. She dwells on Avernus, the first layer of the Nine Hells. As a lesser god, Tiamat has the power to grant spells to her worshipers, though she is loath to share her power. She epitomizes the avarice of evil dragons, believing that the multiverse and all its treasures will one day be hers and hers alone.
+Tiamat, die Drachenkönigin, ist die Hauptgottheit der bösen Drachen. Sie haust auf Avernus, der ersten Schicht der Neun Höllen. Als niedere Göttin hat Tiamat die Macht, ihren Anhängern Zauber zu gewähren, doch teilt sie nur ungern ihre Macht. Sie verkörpert die Habgier der bösen Drachen und glaubt, dass das Multiversum und all seine Schätze eines Tages ihr und ihr allein gehören werden.
 
-Tiamat is a gigantic dragon whose five heads reflect the forms of the chromatic dragons that worship her-black, blue, green, red, and white. She is a terror on the battlefield, capable of annihilating whole armies with her five breath weapons, her formidable spellcasting, and her fearsome claws.
+Tiamat ist ein gigantischer Drache, deren fünf Köpfe die Gestalten der chromatischen Drachen reflektieren, die sie verehren - schwarz, blau, grün, rot und weiß. Sie ist ein Schrecken auf dem Schlachtfeld und kann ganze Armeen mit ihren fünf Odemwaffen, ihren mächtigen Zaubern und ihren furchterregenden Klauen auslöschen.
 
-Tiamat's most hated enemy is Bahamut the Platinum Dragon, with whom she shares control of the faith of dragonkind. She also holds a special enmity for Asmodeus, who long ago stripped her of the rule of Avernus and who continues to curb the Dragon Queen's power.
+Tiamats verhasstester Feind ist Bahamut, der Platindrache, mit dem sie die Kontrolle über den Glauben der Drachenheit teilt. Sie empfindet auch eine besondere Feindschaft für Asmodeus, der ihr vor langer Zeit die Herrschaft über Avernus entrissen hat und die Macht der Drachenkönigin noch weiter beschneidet.
 
-## Dragons
+## Drachen
 
-True dragons are winged reptiles of ancient lineage and fearsome power. They are known and feared for their predatory cunning and greed, with the oldest dragons accounted as some of the most powerful creatures in the world. Dragons are also magical creatures whose innate power fuels their dreaded breath weapons and other preternatural abilities.
+Wahre Drachen sind geflügelte Echsen mit uraltem Stammbaum und schrecklicher Macht. Sie sind für ihre raubtierhafte Gerissenheit und Gier bekannt, wobei die ältesten Drachen zu den mächtigsten Kreaturen in der Welt gehören. Drachen sind außerdem magische Kreaturen, deren angeborene Macht ihre gefürchteten Odemwaffen und andere übernatürlichen Fähigkeiten ermöglicht.
 
-Many creatures, including wyverns and dragon turtles, have draconic blood. However, true dragons fall into the two broad categories of chromatic and metallic dragons. The black, blue, green, red, and white dragons are selfish, evil, and feared by all. The brass, bronze, copper, gold, and silver dragons are noble, good, and highly respected by the wise.
+Viele Kreaturen, darunter Wyverns und Drachenschildkröten, haben Drachenblut. Wahre Drachen allerdings faJlen in zwei weit gefasste Kategorien von chromatischen und metallischen Drachen. Die schwarzen, blauen, grünen, roten und weißen Drachen sind selbstsüchtig, böse und werden von allen gefürchtet. Die Messing-, Bronze-, Kupfer-, Gold- und Silberdrachen sind edel, gutherzig und werden von den Weisen hoch geschätzt.
 
-Though their goals and ideals vary tremendously, all true dragons covet wealth, hoarding mounds of coins and gathering gems, jewels, and magic items. Dragons with large hoards are loath to leave them for long, venturing out of their lairs only to patrol or feed.
+Auch wenn ihre Ziele und Ideale sich stark unterscheiden, sehnen sich alle wahren Drachen nach Reichtümern. Sie horten Haufen von Münzen und sammeln Juwelen, Edelsteine und magische Gegenstände. Drachen mit einem großen Hort verlassen ihn nur ungern für längere Zeit und verlassen ihre Behausung nur, um zu patrouillieren und zu fressen.
 
-True dragons pass through four distinct stages of life, from lowly wyrmlings to ancient dragons, which can live for over a thousand years. In that time, their might can become unrivaled and their hoards can grow beyond price.
+Wahre Drachen durchlaufen vier verschiedenen Lebensphasen, von den niederen Nestlingen bis hin zu den uralten Drachen, die über tausend Jahre alt werden können. In dieser Zeit kann ihre Macht unvergleichbar werden und ihr Hort die Grenzen der Vorstellungskraft sprengen.
 
-**Dragon Age Categories**
+**Drachenalter-Kategorien**
 
-| Category | Size | Age Range |
-|----------|------|-----------|
-| Wyrmling | Medium | 5 years or less |
-| Young | Large | 6–100 years |
-| Adult | Huge | 101–800 years |
-| Ancient | Gargantuan | 801 years or more |
+| Kategorie    | Größe      | Altersspanne         |
+| ------------ | ---------- | -------------------- |
+| Nestling     | Mittelgroß | 5 Jahre oder weniger |
+| Jung         | Groß       | 6–100 Jahre          |
+| Ausgewachsen | Riesig     | 101–800 Jahre        |
+| Uralt        | Gigantisch | 801 Jahre und mehr   | 
 ^dragon-age-categories
+
+![[Blauer_Drache-mm#Blauer Drache]]
 
 ```statblock
 "name": "Ancient Blue Dragon"
@@ -238,6 +240,6 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 ```
 ^statblock
 
-## Environment
+## Vorkommen
 
-desert, coastal
+Küste, Wüste

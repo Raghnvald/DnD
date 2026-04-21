@@ -1,11 +1,10 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Vandria Gilmadrith
 tags:
-  - Quelle/5e/mtf
-  - Kompendium/Götter/elven
   - Kompendium/Götter/Domäne/grave
   - Kompendium/Götter/Domäne/war
+  - Kompendium/Götter/elven
+  - Quelle/5e/mtf
 aliases:
   - Vandria Gilmadrith
 ---

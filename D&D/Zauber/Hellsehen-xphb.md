@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Clairvoyance
 tags:
   - Klasse/Barde
@@ -12,8 +10,8 @@ tags:
   - Quelle/5e/xphb
   - Subklasse/divine-soul/good
   - Subklasse/diviner
-  - Subklasse/Mystischer-Ritter
   - Subklasse/great-old-one-patron
+  - Subklasse/Mystischer-Ritter
   - Subklasse/path-of-the-ancestral-guardian
   - Zauber/Grad/3
   - Zauber/Schule/Erkenntnis

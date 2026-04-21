@@ -1,9 +1,9 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Orcus Figurine
+Kategorie: Wundersamer Gegenstand 
 tags:
   - Gegenstand/Seltenheit/unbekannt/magic
+  - Gegenstand/wundersam
   - Quelle/5e/cm
 aliases:
   - Orcus Figurine

@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Rod of Rulership
 tags:
   - Gegenstand/Einstimmung/required

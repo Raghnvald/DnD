@@ -1,8 +1,9 @@
 ---
+Bezeichnung: Heiltränke brauen; Herstellung von Heiltränken
 tags:
-- Quelle/5e/xge
+  - Quelle/5e/xge
 aliases:
-- Brewing Potions of Healing; Potion of Healing Creation
+  - Brewing Potions of Healing; Potion of Healing Creation
 ---
 # Heiltränke brauen; Herstellung von Heiltränken
 *Quellen: Xanathars Ratgeber für Alles S. 130* 

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Dwarves in the Clan; Clan Vocations
 tags:
   - Quelle/5e/mtf
 aliases:

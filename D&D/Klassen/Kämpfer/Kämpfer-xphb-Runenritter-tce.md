@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-class
 Bezeichnung: Rune Knight
 tags:
   - Klasse/Kämpfer/rune-knight

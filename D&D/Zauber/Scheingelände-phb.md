@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Hallucinatory Terrain
 Zaubergrad: 4
 tags:

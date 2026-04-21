@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: "Mariner's Armor"
 Rüstung: Leicht, Mittel oder Schwer
 tags:

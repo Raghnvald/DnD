@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Dominate Person
 Zaubergrad: 5
 tags:

@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mpmm
-  - Monster/HG/
-  - Monster/Größe/Groß
-  - Monster/Typ/Konstrukt
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Sacred Statue
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/
+  - Monster/Typ/Konstrukt
+  - Quelle/5e/mpmm
 aliases:
   - Sacred Statue
 ---

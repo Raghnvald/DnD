@@ -1,4 +1,5 @@
 ---
+Bezeichnung: Geteilte Kampagnen
 tags:
   - Quelle/5e/xge
 aliases:

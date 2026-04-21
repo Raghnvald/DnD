@@ -1,15 +1,14 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/1-4
-  - Monster/Habitat/abyss
-  - Monster/Habitat/planar
-  - Monster/Größe/Klein
-  - Monster/Typ/Unhold/demon
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Dretch
+tags:
+  - Monster/Größe/Klein
+  - Monster/Habitat/abyss
+  - Monster/Habitat/planar
+  - Monster/HG/1-4
+  - Monster/Typ/Unhold/demon
+  - Quelle/5e/xmm
 aliases:
   - Dretch
 ---
@@ -30,7 +29,6 @@ The servants and victims of greater demons, dretches embody petty instincts, cha
 > [!quote] A quote from Jaranda, Expert on the Abyss  
 > 
 > Ah, the infinite wonders of the Abyss. If there's anything you don't like, you'll find it here.
-
 
 ```statblock
 "name": "Dretch (XMM)"

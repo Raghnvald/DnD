@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Treasure Hoards; Random Treasure Hoard
 tags:
   - Quelle/5e/xdmg
 aliases:

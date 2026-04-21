@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Welcome to Wildemount
 tags:
   - Quelle/5e/egw
 aliases:

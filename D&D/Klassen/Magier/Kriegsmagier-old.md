@@ -1,7 +1,12 @@
 ---
-tags: [Klasse/Magier/Kriegsmagie, Quelle/5e/xge]
-aliases: [War Magic]
+Bezeichnung: Kriegsmagier-old
+tags:
+  - Klasse/Magier/Kriegsmagie
+  - Quelle/5e/xge
+aliases:
+  - War Magic
 ---
+# Kriegsmagier-old
 Kriegsmagie
 ===========
 

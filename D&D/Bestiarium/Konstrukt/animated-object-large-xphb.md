@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xphb
-  - Monster/HG/
-  - Monster/Größe/Unbekannt
-  - Monster/Typ/Konstrukt
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Animated Object (Large)
+tags:
+  - Monster/Größe/Unbekannt
+  - Monster/HG/
+  - Monster/Typ/Konstrukt
+  - Quelle/5e/xphb
 aliases:
   - Animated Object (Large)
 ---

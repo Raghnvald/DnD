@@ -1,5 +1,5 @@
 ---
-cssclasses: json5e-note
+Bezeichnung: Herausforderungsgrad; Erfahrungspunkte nach Herausforderungsgrad
 tags:
   - Quelle/5e/dmg
 aliases:

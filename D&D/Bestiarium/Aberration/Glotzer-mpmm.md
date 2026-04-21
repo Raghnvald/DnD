@@ -1,7 +1,7 @@
 ---
 statblock: inline
 statblock-link: "#^statblock"
-Bezeichnung: Glotzer (MpMM)
+Bezeichnung: Glotzer
 tags:
   - Monster/Größe/Winzig
   - Monster/Habitat/Unterreich

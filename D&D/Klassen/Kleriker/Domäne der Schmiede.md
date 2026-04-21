@@ -1,11 +1,12 @@
 ---
 prefer-view:
   - edit-source read
+Bezeichnung: Domäne der Schmiede
 status:
   - completed
 tags:
-  - Kompendium/Götter/Domäne/Wissen
   - Klasse/Kleriker
+  - Kompendium/Götter/Domäne/Wissen
   - Quelle/5e/xge
 aliases:
   - Forge Domain

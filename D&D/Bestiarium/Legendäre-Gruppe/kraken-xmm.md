@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Kraken
 tags:
-  - Quelle/5e/xmm
   - Monster/legendary-group
+  - Quelle/5e/xmm
 aliases:
   - Kraken
 ---

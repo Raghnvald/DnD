@@ -16,8 +16,8 @@ tags:
   - Monster/Typ/Untote
   - Quelle/5e/pabtso
 aliases:
-  - Wilder Ascheschrecken
   - Feral Ashenwight
+  - Wilder Ascheschrecken
 linter-yaml-title-alias: Wilder Ascheschrecken
 ---
 # Wilder Ascheschrecken

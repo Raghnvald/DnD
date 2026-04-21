@@ -1,16 +1,15 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/1-4
-  - Monster/Habitat/feywild
-  - Monster/Habitat/Wald
-  - Monster/Habitat/planar
-  - Monster/Größe/Winzig
-  - Monster/Typ/Fee
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Sprite
+tags:
+  - Monster/Größe/Winzig
+  - Monster/Habitat/feywild
+  - Monster/Habitat/planar
+  - Monster/Habitat/Wald
+  - Monster/HG/1-4
+  - Monster/Typ/Fee
+  - Quelle/5e/xmm
 aliases:
   - Sprite
 ---
@@ -33,7 +32,6 @@ Sprites oppose any creatures that seek to harm places of natural magic and beaut
 > [!quote]  
 > 
 > The tree had a wee village nestled in its boughs, I swear. Next thing I knew, I was lyin' face-down in the dirt. My head was full of stars, an' when I stood up an' looked around, both the tree an' the wee village were gone.
-
 
 ```statblock
 "name": "Sprite (XMM)"

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Playing on a Grid
 tags:
   - Quelle/5e/phb
 aliases:

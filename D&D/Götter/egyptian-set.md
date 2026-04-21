@@ -1,12 +1,11 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Set
 tags:
-  - Quelle/5e/phb
-  - Kompendium/Götter/egyptian
   - Kompendium/Götter/Domäne/death
   - Kompendium/Götter/Domäne/tempest
   - Kompendium/Götter/Domäne/trickery
+  - Kompendium/Götter/egyptian
+  - Quelle/5e/phb
 aliases:
   - Set
 ---

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Downtime Activity: Training to Gain Levels"
 tags:
   - Quelle/5e/dmg
 aliases:

@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Fazrian
 tags:
-  - Quelle/5e/wdmm
   - Monster/legendary-group
+  - Quelle/5e/wdmm
 aliases:
   - Fazrian
 ---

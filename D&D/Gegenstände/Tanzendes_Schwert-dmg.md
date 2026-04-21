@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Tanzendes Schwert
+Bezeichnung: Dancing Sword
 Kategorie: Nahkampf-Kriegswaffe (beliebiges Schwert)
 tags:
   - Gegenstand/Einstimmung/required

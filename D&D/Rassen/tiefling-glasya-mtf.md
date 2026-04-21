@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-race
+Bezeichnung: Tiefling (Glasya)
 tags:
   - Quelle/5e/mtf
   - Rasse/tiefling/glasya

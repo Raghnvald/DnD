@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Order Domain
 tags:
   - Zauber/list/subclass/order-domain
 aliases:

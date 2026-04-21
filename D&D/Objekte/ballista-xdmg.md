@@ -1,10 +1,9 @@
 ---
-cssclasses:
-  - json5e-object
+Bezeichnung: Ballista
 tags:
-  - Quelle/5e/xdmg
   - Kompendium/Objekt/size/large
   - Kompendium/Objekt/type/siege-weapon
+  - Quelle/5e/xdmg
 aliases:
   - Ballista
 ---

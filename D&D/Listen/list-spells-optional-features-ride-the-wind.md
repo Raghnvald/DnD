@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Ride the Wind
 tags:
   - Zauber/list/optfeature/ride-the-wind
 aliases:

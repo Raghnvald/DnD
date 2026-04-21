@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Selesnya Character Goals; Selesnya Assignments
 tags:
   - Quelle/5e/ggr
 aliases:

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Travel Terrain
 tags:
   - Quelle/5e/xdmg
 aliases:

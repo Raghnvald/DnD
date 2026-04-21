@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/wdmm
-  - Monster/HG/0
-  - Monster/Größe/Winzig
-  - Monster/Typ/Tier
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Space Hamster
+tags:
+  - Monster/Größe/Winzig
+  - Monster/HG/0
+  - Monster/Typ/Tier
+  - Quelle/5e/wdmm
 aliases:
   - Space Hamster
 ---

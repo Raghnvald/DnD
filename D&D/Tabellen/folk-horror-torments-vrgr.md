@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Folk Horror Torments
 tags:
   - Quelle/5e/vrgr
 aliases:

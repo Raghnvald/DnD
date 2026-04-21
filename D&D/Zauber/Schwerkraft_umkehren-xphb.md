@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Reverse Gravity
 tags:
   - Klasse/Barde

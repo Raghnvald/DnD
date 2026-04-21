@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Pets; Beholder Greater Minions
 tags:
   - Quelle/5e/vgm
 aliases:

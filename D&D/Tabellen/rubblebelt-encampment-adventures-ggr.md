@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Rubblebelt Encampment Adventures
 tags:
   - Quelle/5e/ggr
 aliases:

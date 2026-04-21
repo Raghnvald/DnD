@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Body Horror Adventure Sites
 tags:
   - Quelle/5e/vrgr
 aliases:

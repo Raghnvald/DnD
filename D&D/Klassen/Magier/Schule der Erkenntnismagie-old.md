@@ -1,10 +1,12 @@
 ---
+Bezeichnung: Schule der Erkenntnismagie-old
 tags:
   - Klasse/Magier/Erkenntnismagie
   - Quelle/5e/phb
 aliases:
   - School of Divination
 ---
+# Schule der Erkenntnismagie-old
 Schule der Erkenntnismagie
 ==========================
 

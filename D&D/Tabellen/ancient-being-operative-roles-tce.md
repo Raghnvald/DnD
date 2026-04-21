@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Ancient Being Operative Roles
 tags:
   - Quelle/5e/tce
 aliases:

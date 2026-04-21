@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Mirror Image
 Zaubergrad: 2
 tags:

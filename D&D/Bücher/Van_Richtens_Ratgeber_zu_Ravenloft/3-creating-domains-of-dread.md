@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Creating Domains of Dread
 tags:
   - Quelle/5e/vrgr
 aliases:

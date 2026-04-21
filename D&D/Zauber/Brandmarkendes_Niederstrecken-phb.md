@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Branding Smite
+Bezeichnung: Brandmarkendes Niederstrecken
 Zaubergrad: 2
 tags:
   - Klasse/Barde/Magische-Geheimnisse

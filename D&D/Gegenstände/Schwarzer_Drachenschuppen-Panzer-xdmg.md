@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Black Dragon Scale Mail
 Rüstung: Mittel
 tags:

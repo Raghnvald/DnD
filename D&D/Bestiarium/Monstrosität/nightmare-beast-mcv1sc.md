@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mcv1sc
-  - Monster/HG/16
-  - Monster/Größe/Gigantisch
-  - Monster/Typ/Monstrosität
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Nightmare Beast
+tags:
+  - Monster/Größe/Gigantisch
+  - Monster/HG/16
+  - Monster/Typ/Monstrosität
+  - Quelle/5e/mcv1sc
 aliases:
   - Nightmare Beast
 ---

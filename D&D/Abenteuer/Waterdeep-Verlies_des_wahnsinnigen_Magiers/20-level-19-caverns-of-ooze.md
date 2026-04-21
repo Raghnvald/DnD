@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Level 19: Caverns of Ooze"
 tags:
   - Quelle/5e/wdmm
 aliases:

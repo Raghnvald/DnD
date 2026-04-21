@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Enemy
 tags:
   - Quelle/5e/xphb
 aliases:

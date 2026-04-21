@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/bgdia
-  - Monster/HG/1-4
-  - Monster/Größe/Groß
-  - Monster/Typ/Monstrosität
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Bone Whelk
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/1-4
+  - Monster/Typ/Monstrosität
+  - Quelle/5e/bgdia
 aliases:
   - Bone Whelk
 ---

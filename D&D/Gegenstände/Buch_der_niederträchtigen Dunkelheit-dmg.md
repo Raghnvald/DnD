@@ -1,8 +1,10 @@
 ---
 Bezeichnung: Book of Vile Darkness
+Kategorie: Wundersamer Gegenstand
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/Artefakt
+  - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
   - Book of Vile Darkness

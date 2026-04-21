@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/vrgr
-  - Monster/HG/13
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Monstrosität/shapechanger
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Loup Garou
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/13
+  - Monster/Typ/Monstrosität/shapechanger
+  - Quelle/5e/vrgr
 aliases:
   - Loup Garou
 ---

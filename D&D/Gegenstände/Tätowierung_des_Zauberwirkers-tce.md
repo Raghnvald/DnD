@@ -1,7 +1,6 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Spellwrought Tattoo
+Kategorie: Wundersamer Gegenstand
 tags:
   - Gegenstand/Seltenheit/variiert
   - Gegenstand/wundersam/tattoo

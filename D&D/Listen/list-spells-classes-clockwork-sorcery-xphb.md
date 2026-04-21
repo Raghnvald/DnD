@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Clockwork Sorcery
 tags:
   - Zauber/list/subclass/clockwork-sorcery
 aliases:

@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mm
-  - Monster/HG/21
-  - Monster/Größe/Groß
-  - Monster/Typ/Himmlische
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Solar
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/21
+  - Monster/Typ/Himmlische
+  - Quelle/5e/mm
 aliases:
   - Solar
 ---

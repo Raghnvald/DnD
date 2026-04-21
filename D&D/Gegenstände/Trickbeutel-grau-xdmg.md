@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Bag of Tricks, Gray
+Bezeichnung: Trickbeutel, grau
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/xdmg

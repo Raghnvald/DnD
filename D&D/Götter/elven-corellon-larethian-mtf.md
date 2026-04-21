@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Corellon Larethian
 tags:
-  - Quelle/5e/mtf
-  - Kompendium/Götter/elven
   - Kompendium/Götter/Domäne/arcana
   - Kompendium/Götter/Domäne/life
   - Kompendium/Götter/Domäne/light
   - Kompendium/Götter/Domäne/war
+  - Kompendium/Götter/elven
+  - Quelle/5e/mtf
 aliases:
   - Corellon Larethian
 ---

@@ -1,6 +1,7 @@
 ---
-cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
+statblock: inline
+statblock-link: "#^statblock"
 Bezeichnung: Blutmücke
 Kategorie: Tier
 Größe: Winzig
@@ -15,11 +16,9 @@ Habitat:
   - Unterreich
   - Wald
   - Wüste
-status: completed
 image: image/stirge.webp
+status: completed
 tags:
-  - Quelle/5e/mm
-  - Monster/HG/1-8
   - Monster/Größe/Winzig
   - Monster/Habitat/Berg
   - Monster/Habitat/Grasland
@@ -30,9 +29,9 @@ tags:
   - Monster/Habitat/Unterreich
   - Monster/Habitat/Wald
   - Monster/Habitat/Wüste
+  - Monster/HG/1-8
   - Monster/Typ/Tier
-statblock: inline
-statblock-link: "#^statblock"
+  - Quelle/5e/mm
 aliases:
   - Stirge
 ---

@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/bgg
-  - Monster/HG/15
-  - Monster/Größe/Riesig
-  - Monster/Typ/Riese/wizard
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Death Giant Shrouded One
+tags:
+  - Monster/Größe/Riesig
+  - Monster/HG/15
+  - Monster/Typ/Riese/wizard
+  - Quelle/5e/bgg
 aliases:
   - Death Giant Shrouded One
 ---
@@ -29,7 +28,6 @@ Over time, the Shadowfell transformed these giants; their bodies shriveled, and 
 > [!quote] A quote from Bigby  
 > 
 > "Know better"? Perhaps, but there's no denying that death giants can make excellent use of it.
-
 
 ```statblock
 "name": "Death Giant Shrouded One (BGG)"

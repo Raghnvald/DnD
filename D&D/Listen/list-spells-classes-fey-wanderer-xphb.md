@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Fey Wanderer
 tags:
   - Zauber/list/subclass/fey-wanderer
 aliases:

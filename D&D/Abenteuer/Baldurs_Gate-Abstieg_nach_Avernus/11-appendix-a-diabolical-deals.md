@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Appendix A: Diabolical Deals"
 tags:
   - Quelle/5e/bgdia
 aliases:

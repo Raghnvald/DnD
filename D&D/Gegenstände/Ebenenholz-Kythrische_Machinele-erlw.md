@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Ebenenholz (Kythrische Machinele)
+Bezeichnung: Imbued Wood (Kythrian Manchineel)
 Kategorie: Wundersamer Gegenstand
 tags:
   - Gegenstand/Ausrüstung/Zauberfokus

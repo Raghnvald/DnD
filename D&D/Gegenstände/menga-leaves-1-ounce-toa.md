@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Menga leaves (1 ounce)
 tags:
   - Gegenstand/Ausrüstung/

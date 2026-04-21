@@ -1,10 +1,10 @@
 ---
-Bezeichnung: Drachenzorn-Waffe
+Bezeichnung: "Dragon's Wrath Weapon"
 Kategorie: Beliebige Waffe
 tags:
   - Gegenstand/Einstimmung/required
-  - Gegenstand/Waffe
   - Gegenstand/Seltenheit/variiert
+  - Gegenstand/Waffe
   - Gegenstand/wundersam/generic-variant
   - Quelle/5e/ftd
 aliases:

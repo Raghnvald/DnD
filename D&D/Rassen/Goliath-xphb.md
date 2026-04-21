@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-race
+Bezeichnung: Goliath
 tags:
   - Quelle/5e/xphb
   - Rasse/goliath

@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-reward
+Bezeichnung: Curse of Ruin
 tags:
-  - Quelle/5e/tdcsr
   - Kompendium/Belohnung/curse
+  - Quelle/5e/tdcsr
 aliases:
   - Curse of Ruin
 ---

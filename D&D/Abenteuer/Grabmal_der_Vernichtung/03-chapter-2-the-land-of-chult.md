@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Chapter 2: The Land of Chult"
 tags:
   - Quelle/5e/toa
 aliases:

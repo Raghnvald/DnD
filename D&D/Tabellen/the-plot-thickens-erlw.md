@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: The Plot Thickens
 tags:
   - Quelle/5e/erlw
 aliases:

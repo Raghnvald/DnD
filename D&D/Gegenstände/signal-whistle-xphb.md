@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Signal Whistle
 tags:
   - Gegenstand/Ausrüstung/

@@ -1,5 +1,5 @@
 ---
-cssclasses: json5e-note
+Bezeichnung: Reittiere und Fahrzeuge; Zaumzeug, Geschirr und gezogene Fahrzeuge
 tags:
   - Quelle/5e/phb
 aliases:

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for The Hexblade
 tags:
   - Zauber/list/subclass/the-hexblade
 aliases:

@@ -1,11 +1,10 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Gond
 tags:
-  - Quelle/5e/phb
-  - Kompendium/Götter/forgotten-realms
   - Kompendium/Götter/Domäne/forge
   - Kompendium/Götter/Domäne/knowledge
+  - Kompendium/Götter/forgotten-realms
+  - Quelle/5e/phb
 aliases:
   - Gond
 ---

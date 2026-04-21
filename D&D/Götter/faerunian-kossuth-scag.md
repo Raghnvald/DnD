@@ -1,10 +1,9 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Kossuth
 tags:
-  - Quelle/5e/scag
-  - Kompendium/Götter/faerunian
   - Kompendium/Götter/Domäne/light
+  - Kompendium/Götter/faerunian
+  - Quelle/5e/scag
 aliases:
   - Kossuth
 ---

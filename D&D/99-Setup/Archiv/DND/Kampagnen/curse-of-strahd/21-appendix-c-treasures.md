@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Appendix C: Treasures"
 tags:
   - Quelle/5e/cos
 aliases:

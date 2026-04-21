@@ -1,15 +1,14 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/8
-  - Monster/Habitat/abyss
-  - Monster/Habitat/planar
-  - Monster/Größe/Groß
-  - Monster/Typ/Unhold/demon
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Hezrou
+tags:
+  - Monster/Größe/Groß
+  - Monster/Habitat/abyss
+  - Monster/Habitat/planar
+  - Monster/HG/8
+  - Monster/Typ/Unhold/demon
+  - Quelle/5e/xmm
 aliases:
   - Hezrou
 ---

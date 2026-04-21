@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Mind Blank
 Zaubergrad: 8
 tags:

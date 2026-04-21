@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Dancing Lights
+Bezeichnung: Tanzende Lichter
 Zaubergrad: 0 (Zaubertrick)
 Zeitaufwand: 1 Aktion
 Reichweite: 36 Meter

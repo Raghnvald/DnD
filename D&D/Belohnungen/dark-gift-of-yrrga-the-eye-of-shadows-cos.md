@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-reward
+Bezeichnung: Dark Gift of Yrrga, the Eye of Shadows
 tags:
-  - Quelle/5e/cos
   - Kompendium/Belohnung/charm
+  - Quelle/5e/cos
 aliases:
   - Dark Gift of Yrrga, the Eye of Shadows
 ---

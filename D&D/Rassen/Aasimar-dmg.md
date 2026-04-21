@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-race
+Bezeichnung: Aasimar
 tags:
   - Quelle/5e/dmg
   - Rasse/aasimar
@@ -9,7 +8,6 @@ aliases:
 ---
 # Aasimar
 *Source: Dungeon Master's Guide p. 286*  
-
 
 - **Ability Scores**: wis +1 cha +2
 - **Size**: Medium

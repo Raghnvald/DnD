@@ -1,7 +1,5 @@
 ---
-cssclasses:
-  - json5e-spell
-Bezeichnung: Raulothim's Psychic Lance
+Bezeichnung: "Raulothim's Psychic Lance"
 Zaubergrad: 4
 tags:
   - Klasse/Barde

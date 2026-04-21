@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Tiefling (Levistus)
 tags:
   - Zauber/list/subrace/tiefling-levistus
 aliases:

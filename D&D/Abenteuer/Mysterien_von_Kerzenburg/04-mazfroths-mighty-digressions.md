@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Mazfroth's Mighty Digressions"
 tags:
   - Quelle/5e/cm
 aliases:

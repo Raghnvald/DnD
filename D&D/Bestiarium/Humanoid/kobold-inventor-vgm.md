@@ -1,18 +1,17 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/vgm
-  - Monster/HG/1-4
-  - Monster/Habitat/Wald
-  - Monster/Habitat/Hügel
-  - Monster/Habitat/Berg
-  - Monster/Habitat/Unterreich
-  - Monster/Habitat/Stadt
-  - Monster/Größe/Klein
-  - Monster/Typ/Humanoid/kobold
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Kobold Inventor
+tags:
+  - Monster/Größe/Klein
+  - Monster/Habitat/Berg
+  - Monster/Habitat/Hügel
+  - Monster/Habitat/Stadt
+  - Monster/Habitat/Unterreich
+  - Monster/Habitat/Wald
+  - Monster/HG/1-4
+  - Monster/Typ/Humanoid/kobold
+  - Quelle/5e/vgm
 aliases:
   - Kobold Inventor
 ---
@@ -28,7 +27,6 @@ An inventor's new weapons last for only one or two attacks before they break, bu
 > [!quote] A quote from Volo  
 > 
 > Never make the mistake of thinking kobolds are stupid or backward just because they're small. Size has nothing to do with it.
-
 
 ```statblock
 "name": "Kobold Inventor (VGM)"

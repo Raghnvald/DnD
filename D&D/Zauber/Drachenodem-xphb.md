@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Dragon's Breath
+Bezeichnung: "Dragon's Breath"
 Zaubergrad: 2
 Zeitaufwand:
 Reichweite:

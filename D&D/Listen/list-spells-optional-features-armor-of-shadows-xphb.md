@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Armor of Shadows
 tags:
   - Zauber/list/optfeature/armor-of-shadows
 aliases:

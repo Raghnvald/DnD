@@ -1,11 +1,10 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Majere
 tags:
-  - Quelle/5e/phb
-  - Kompendium/Götter/dragonlance
   - Kompendium/Götter/Domäne/knowledge
   - Kompendium/Götter/Domäne/order
+  - Kompendium/Götter/dragonlance
+  - Quelle/5e/phb
 aliases:
   - Majere
 ---

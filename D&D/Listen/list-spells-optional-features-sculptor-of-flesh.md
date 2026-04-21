@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Sculptor of Flesh
 tags:
   - Zauber/list/optfeature/sculptor-of-flesh
 aliases:

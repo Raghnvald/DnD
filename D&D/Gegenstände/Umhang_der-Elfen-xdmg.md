@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Cloak of Elvenkind
 tags:
   - Gegenstand/Einstimmung/required

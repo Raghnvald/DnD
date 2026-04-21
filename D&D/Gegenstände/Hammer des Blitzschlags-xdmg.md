@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Hammer of Thunderbolts
 Kategorie: Nahkampf-Kriegswaffe
 tags:

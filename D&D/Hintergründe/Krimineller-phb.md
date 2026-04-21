@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-background
+Bezeichnung: Krimineller
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/phb
@@ -9,7 +8,6 @@ aliases:
 ---
 # Krimineller
 *Source: Player's Handbook p. 129. Available in the Basic Rules (2014)*  
-
 
 - **Skill Proficiencies.** [Deception](/3-Mechanics/CLI/skills.md#Deception), [Stealth](/3-Mechanics/CLI/skills.md#Stealth)  
 - **Tool Proficiencies.** One type of gaming set, [thieves' tools](/3-Mechanics/CLI/items/thieves-tools.md)  

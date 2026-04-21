@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-hazard
+Bezeichnung: Poisoned Tempest
 tags:
-  - Quelle/5e/xge
   - Kompendium/Bedrohung/cmpx
+  - Quelle/5e/xge
 aliases:
   - Poisoned Tempest
 ---

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Gith Names – Githzerai, Female
 tags:
   - Quelle/5e/mtf
 aliases:

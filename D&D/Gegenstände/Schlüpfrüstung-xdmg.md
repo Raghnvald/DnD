@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Cast-Off Armor
 Rüstung: Leicht, Mittel oder Schwer
 tags:

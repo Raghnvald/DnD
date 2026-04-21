@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Multiclassing Prerequisites
 tags:
   - Quelle/5e/phb
 aliases:

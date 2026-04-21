@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Duergar Deities
 tags:
   - Quelle/5e/mtf
 aliases:

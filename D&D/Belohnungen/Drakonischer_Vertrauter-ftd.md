@@ -1,7 +1,8 @@
 ---
+Bezeichnung: Draconic Familiar
 tags:
-  - Quelle/5e/ftd
   - Kompendium/Belohnung/draconic-gift
+  - Quelle/5e/ftd
 aliases:
   - Draconic Familiar
 ---

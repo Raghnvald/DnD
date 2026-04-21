@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Mythcarver (Dormant)
 Kategorie: Nahkampf-Kriegswaffe
 tags:

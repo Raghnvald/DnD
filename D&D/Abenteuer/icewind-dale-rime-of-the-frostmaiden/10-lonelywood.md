@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Lonelywood
 tags:
   - Quelle/5e/idrotf
 aliases:

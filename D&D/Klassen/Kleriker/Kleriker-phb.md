@@ -1,4 +1,5 @@
 ---
+Bezeichnung: Kleriker
 tags:
   - Klasse/Kleriker
   - Quelle/5e/phb

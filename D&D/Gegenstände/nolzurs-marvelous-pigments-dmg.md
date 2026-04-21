@@ -1,12 +1,11 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Nolzur's Marvelous Pigments
+Bezeichnung: "Nolzur's Marvelous Pigments"
+Kategorie: Wundersamer Gegenstand 
 tags:
   - Gegenstand/Seltenheit/sehr_selten
+  - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
-  - Nolzur's Marvelous Pigments
   - Nolzur's Marvelous Pigments
 linter-yaml-title-alias: Nolzur's Marvelous Pigments
 ---

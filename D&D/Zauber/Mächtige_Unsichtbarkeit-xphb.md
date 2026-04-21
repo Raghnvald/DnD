@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Greater Invisibility
 tags:
   - Klasse/Barde
@@ -11,9 +9,9 @@ tags:
   - Quelle/5e/xphb
   - Subklasse/archfey-patron
   - Subklasse/armorer
-  - Subklasse/Mystischer-Ritter
   - Subklasse/gloom-stalker
   - Subklasse/illusionist
+  - Subklasse/Mystischer-Ritter
   - Subklasse/the-genie/djinni
   - Subklasse/the-undead
   - Zauber/Grad/4

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Appendix A: The Multiverse"
 tags:
   - Quelle/5e/xphb
 aliases:

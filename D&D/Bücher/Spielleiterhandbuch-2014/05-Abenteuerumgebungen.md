@@ -1,5 +1,7 @@
 ---
-tags: [Quelle/5e/dmg]
+Bezeichnung: "Kapitel 5: Abenteuerumgebungen"
+tags:
+  - Quelle/5e/dmg
 ---
 # Kapitel 5: Abenteuerumgebungen
 Viele D&D-Abenteuer spielen in einer Gewölbeumgebung. Gewölbe in D&D beinhalten große Hallen und Grüfte, unterirdische Monsternester, Labyrinthe voller Todesfallen, natürliche Höhlen, die sich kilometerweit unter der Oberfläche erstrecken, und Burgruinen.
@@ -879,7 +881,6 @@ $\quad$**Passagiere.** Die Tabelle gibt an, wie viele kleine und große Passagie
 $\quad$**Ladung.** Die Tabelle gibt die maximale Ladung in Tonnen an, die jede Art von Schiff transportieren kann.
 $\quad$**Schadensschwellenwert.** Ein Schiff ist immun gegen alle Arten von Schaden, es sei denn, der Schaden entspricht oder überschreitet den Schadensschwellenwert, in welchem Fall der Schaden wie üblich berechnet wird. Jeder Schaden, der den Schadensschwellenwert nicht erreicht oder überschreitet, gilt als verschwendet und reduziert die Trefferpunkte des Schiffes nicht.
 $\quad$**Schiffsreparaturen.** Reparaturen an einem beschädigten Schiff können getätigt werden, wenn das Schiff anlegt. Einen Trefferpunkt Schaden zu reparieren dauert einen Tag und kostet 20 GM für Material und Arbeitskraft.
-
 
 ##### Luft- und Wasserfahrzeuge
 | Schiff       |     Preis | Geschwindigkeit | Besatzung | Passagiere | Ladung (Tonnen) | RK  |  TP | Schadensschwellenwert |

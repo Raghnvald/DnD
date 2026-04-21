@@ -1,7 +1,6 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Figurine of Wondrous Power, Golden Lions
+Kategorie: Wundersamer Gegenstand
 tags:
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/dmg

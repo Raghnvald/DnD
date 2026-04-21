@@ -1,3 +1,7 @@
+---
+Bezeichnung: Der weiße See - Informationen
+---
+# Der weiße See - Informationen
 - die Gruppe hat den "verwunschenen" Baum in Nivesel abgefackelt
 	- Zoltan hat ihn aus Furcht in Brand gesteckt
 - die Kaserne wurde ebenfalls in Brand gesetzt, um den "Schwurblern" zuzusetzen

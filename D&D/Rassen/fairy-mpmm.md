@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-race
+Bezeichnung: Fairy
 tags:
   - Quelle/5e/mpmm
   - Rasse/fairy

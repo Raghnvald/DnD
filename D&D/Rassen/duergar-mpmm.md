@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-race
+Bezeichnung: Duergar
 tags:
   - Quelle/5e/mpmm
   - Rasse/duergar

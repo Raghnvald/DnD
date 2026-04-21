@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-background
+Bezeichnung: "Baldur's Gate Soldier"
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/bgdia
@@ -9,7 +8,6 @@ aliases:
 ---
 # Baldur's Gate Soldier
 *Source: Baldur's Gate: Descent Into Avernus p. 204, Player's Handbook p. 140*  
-
 
 - **Skill Proficiencies.** [Athletics](/3-Mechanics/CLI/skills.md#Athletics), [Intimidation](/3-Mechanics/CLI/skills.md#Intimidation)  
 - **Tool Proficiencies.** One type of gaming set, vehicles (land)  

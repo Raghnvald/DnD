@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Classes
 tags:
   - Quelle/5e/scag
 aliases:

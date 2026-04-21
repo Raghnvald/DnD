@@ -1,7 +1,5 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Erntemond
+Bezeichnung: Harbor Moon
 Kategorie: Währung
 tags:
   - Gegenstand/Ausrüstung/treasure-coinage

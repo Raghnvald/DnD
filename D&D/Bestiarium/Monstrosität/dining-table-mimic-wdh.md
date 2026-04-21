@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/wdh
-  - Monster/HG/3
-  - Monster/Größe/Groß
-  - Monster/Typ/Monstrosität/shapechanger
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Dining Table Mimic
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/3
+  - Monster/Typ/Monstrosität/shapechanger
+  - Quelle/5e/wdh
 aliases:
   - Dining Table Mimic
 ---

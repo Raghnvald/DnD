@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: 50 gp Gemstones
 tags:
   - Quelle/5e/dmg
 aliases:

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Appendix C: Monsters and NPCs"
 tags:
   - Quelle/5e/gos
 aliases:

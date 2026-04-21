@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Chapter 4: Fane of the Night Serpent"
 tags:
   - Quelle/5e/toa
 aliases:

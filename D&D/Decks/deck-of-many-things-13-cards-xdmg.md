@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-deck
+Bezeichnung: Deck of Many Things (13 Cards)
 tags:
   - Quelle/5e/xdmg
 aliases:

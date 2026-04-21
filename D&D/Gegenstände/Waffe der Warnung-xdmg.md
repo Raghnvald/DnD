@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Weapon of Warning
 tags:
   - Gegenstand/Ausrüstung/Zauberfokus

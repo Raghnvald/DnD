@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/tftyp
-  - Monster/HG/1-8
-  - Monster/Größe/Klein
-  - Monster/Typ/Humanoid/troglodyte
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Young Troglodyte
+tags:
+  - Monster/Größe/Klein
+  - Monster/HG/1-8
+  - Monster/Typ/Humanoid/troglodyte
+  - Quelle/5e/tftyp
 aliases:
   - Young Troglodyte
 ---

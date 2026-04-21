@@ -1,8 +1,9 @@
 ---
+Bezeichnung: Handelsgüter
 tags:
-- Quelle/5e/phb
+  - Quelle/5e/phb
 aliases:
-- Trade Goods
+  - Trade Goods
 ---
 # Handelsgüter
 _Quellen:_ Spielerhandbuch

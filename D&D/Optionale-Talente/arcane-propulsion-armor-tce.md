@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-feat
+Bezeichnung: Arcane Propulsion Armor
 tags:
-  - Quelle/5e/tce
   - Kompendium/Optionales/ai
+  - Quelle/5e/tce
 aliases:
   - Arcane Propulsion Armor
 ---

@@ -1,5 +1,6 @@
 ---
-Bezeichnung: Trank der Gedankenkontrolle (Monster)
+Bezeichnung: Potion of Mind Control (monster)
+Kategorie: Trank
 tags:
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/wundersam/Trank

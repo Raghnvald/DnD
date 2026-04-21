@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Chime of Opening
 tags:
   - Gegenstand/Seltenheit/selten

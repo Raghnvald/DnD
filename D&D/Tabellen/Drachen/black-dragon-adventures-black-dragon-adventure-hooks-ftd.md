@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Black Dragon Adventures; Black Dragon Adventure Hooks
 tags:
   - Quelle/5e/ftd
 aliases:

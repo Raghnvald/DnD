@@ -1,9 +1,9 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Abracadabrus
+Kategorie: Wundersamer Gegenstand
 tags:
   - Gegenstand/Seltenheit/sehr_selten
+  - Gegenstand/wundersam
   - Quelle/5e/idrotf
 aliases:
   - Abracadabrus

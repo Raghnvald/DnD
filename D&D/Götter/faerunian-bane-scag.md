@@ -1,11 +1,10 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Bane
 tags:
-  - Quelle/5e/scag
-  - Kompendium/Götter/faerunian
   - Kompendium/Götter/Domäne/order
   - Kompendium/Götter/Domäne/war
+  - Kompendium/Götter/faerunian
+  - Quelle/5e/scag
 aliases:
   - Bane
   - The Black Hand

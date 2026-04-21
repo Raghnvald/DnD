@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Tentacle Rod
 tags:
   - Gegenstand/Einstimmung/required

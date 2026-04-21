@@ -1,10 +1,9 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Ulaa
 tags:
-  - Quelle/5e/mtf
-  - Kompendium/Götter/dwarven
   - Kompendium/Götter/Domäne/forge
+  - Kompendium/Götter/dwarven
+  - Quelle/5e/mtf
 aliases:
   - Ulaa
 ---

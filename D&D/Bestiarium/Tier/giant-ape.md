@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mm
-  - Monster/HG/7
-  - Monster/Habitat/Wald
-  - Monster/Größe/Riesig
-  - Monster/Typ/Tier
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Giant Ape
+tags:
+  - Monster/Größe/Riesig
+  - Monster/Habitat/Wald
+  - Monster/HG/7
+  - Monster/Typ/Tier
+  - Quelle/5e/mm
 aliases:
   - Giant Ape
 ---

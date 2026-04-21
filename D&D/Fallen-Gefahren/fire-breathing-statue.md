@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-hazard
+Bezeichnung: Fire-Breathing Statue
 tags:
-  - Quelle/5e/dmg
   - Kompendium/Bedrohung/mag
+  - Quelle/5e/dmg
 aliases:
   - Fire-Breathing Statue
 ---

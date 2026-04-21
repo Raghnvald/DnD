@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Tragedy; Tragic Elements
 tags:
   - Quelle/5e/vrgr
 aliases:

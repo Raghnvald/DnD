@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Arcane Trickster
 tags:
   - Zauber/list/subclass/arcane-trickster
 aliases:

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-background
+Bezeichnung: Sage
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/phb

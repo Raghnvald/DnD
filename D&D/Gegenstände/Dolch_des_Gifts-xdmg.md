@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Dagger of Venom
 tags:
   - Gegenstand/Seltenheit/selten

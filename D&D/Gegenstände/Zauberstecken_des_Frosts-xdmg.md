@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Staff of Frost
 tags:
   - Gegenstand/Einstimmung/required

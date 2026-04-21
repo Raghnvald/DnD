@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-class
+Bezeichnung: Oath of the Ancients
 tags:
-  - Quelle/5e/phb
   - Klasse/Paladin/Schwur-der-Alten
+  - Quelle/5e/phb
 aliases:
   - Oath of the Ancients
 ---
@@ -41,7 +40,6 @@ aliases:
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 

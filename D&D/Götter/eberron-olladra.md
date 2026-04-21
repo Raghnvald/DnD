@@ -1,11 +1,10 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Olladra
 tags:
-  - Quelle/5e/phb
-  - Kompendium/Götter/eberron
   - Kompendium/Götter/Domäne/life
   - Kompendium/Götter/Domäne/trickery
+  - Kompendium/Götter/eberron
+  - Quelle/5e/phb
 aliases:
   - Olladra
 ---

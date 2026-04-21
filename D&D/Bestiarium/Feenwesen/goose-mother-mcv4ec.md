@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mcv4ec
-  - Monster/HG/7
-  - Monster/Größe/Riesig
-  - Monster/Typ/Fee
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Goose Mother
+tags:
+  - Monster/Größe/Riesig
+  - Monster/HG/7
+  - Monster/Typ/Fee
+  - Quelle/5e/mcv4ec
 aliases:
   - Goose Mother
 ---

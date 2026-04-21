@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Pale Tincture
 tags:
   - Gegenstand/Ausrüstung/

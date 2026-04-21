@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Dungeon Dressing; Odor
 tags:
   - Quelle/5e/dmg
 aliases:

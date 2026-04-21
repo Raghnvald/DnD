@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Incendiary Cloud
 tags:
   - Klasse/Barde

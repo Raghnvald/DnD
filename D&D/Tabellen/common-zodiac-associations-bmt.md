@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Common Zodiac Associations
 tags:
   - Quelle/5e/bmt
 aliases:

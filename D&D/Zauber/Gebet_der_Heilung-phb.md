@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Prayer of Healing
 Zaubergrad: 2
 tags:

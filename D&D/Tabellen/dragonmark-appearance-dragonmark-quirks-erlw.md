@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Dragonmark Appearance; Dragonmark Quirks
 tags:
   - Quelle/5e/erlw
 aliases:

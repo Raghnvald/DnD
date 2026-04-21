@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: +2 Moon Sickle
 Kategorie: Einfache Nahkampfwaffe
 tags:

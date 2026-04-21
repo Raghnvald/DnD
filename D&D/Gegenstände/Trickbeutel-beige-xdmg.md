@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Bag of Tricks, Tan
+Bezeichnung: Trickbeutel, beige
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/xdmg

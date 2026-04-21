@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Luck Blade
 tags:
   - Gegenstand/Einstimmung/required

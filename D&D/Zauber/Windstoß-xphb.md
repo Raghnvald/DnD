@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Gust of Wind
 tags:
   - Klasse/Barde
@@ -15,8 +13,8 @@ tags:
   - Quelle/5e/xphb
   - Rasse/aarakocra
   - Rasse/triton
-  - Subklasse/Mystischer-Ritter
   - Subklasse/evoker
+  - Subklasse/Mystischer-Ritter
   - Subklasse/the-fathomless
   - Subklasse/the-genie/djinni
   - Zauber/Grad/2

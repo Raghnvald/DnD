@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Mace of the Black Crown (Dormant)
 Kategorie: Einfache Nahkampfwaffe
 tags:

@@ -1,7 +1,6 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Spell Scroll
+Kategorie: Schriftrolle
 tags:
   - Gegenstand/Seltenheit/variiert
   - Gegenstand/wundersam/Schriftrolle

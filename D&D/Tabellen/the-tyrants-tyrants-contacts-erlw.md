@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: The Tyrants; Tyrants Contacts
 tags:
   - Quelle/5e/erlw
 aliases:

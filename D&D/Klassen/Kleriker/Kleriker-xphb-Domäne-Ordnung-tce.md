@@ -1,10 +1,9 @@
 ---
-cssclasses:
-  - json5e-class
+Bezeichnung: Order Domain
 tags:
-  - Quelle/5e/tce
-  - Kompendium/Götter/Domäne/order
   - Klasse/Kleriker/order
+  - Kompendium/Götter/Domäne/order
+  - Quelle/5e/tce
 aliases:
   - Order Domain
 ---
@@ -42,7 +41,6 @@ aliases:
 > </tbody></table>
 
 ^class-progression
-
 
 > [!caution] Mixed edition content
 > This subclass is from a different game edition. You will need to do some adjustment to resolve differences.

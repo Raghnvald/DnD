@@ -1,15 +1,14 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/4
-  - Monster/Habitat/abyss
-  - Monster/Habitat/planar
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Unhold/demon
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Shadow Demon
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/abyss
+  - Monster/Habitat/planar
+  - Monster/HG/4
+  - Monster/Typ/Unhold/demon
+  - Quelle/5e/xmm
 aliases:
   - Shadow Demon
 ---
@@ -34,7 +33,6 @@ In rare cases, Fiends other than demons might adopt forms similar to shadow demo
 > [!quote] A quote from Tarsheva Longreach, Planar Traveler  
 > 
 > There are three rules to endings. First, good always wins. Second, evil always returns. Third, the first rule isn't always true.
-
 
 ```statblock
 "name": "Shadow Demon (XMM)"

@@ -1,8 +1,9 @@
 ---
+Bezeichnung: Story Tracker
 tags:
-- Quelle/5e/pabtso
+  - Quelle/5e/pabtso
 aliases:
-- Story Tracker
+  - Story Tracker
 ---
 # Story Tracker
 *Source: Phandelver and Below: The Shattered Obelisk, p. 221* 

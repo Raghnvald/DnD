@@ -1,11 +1,10 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Deep Duerra
 tags:
-  - Quelle/5e/scag
-  - Kompendium/Götter/dwarven
   - Kompendium/Götter/Domäne/arcana
   - Kompendium/Götter/Domäne/war
+  - Kompendium/Götter/dwarven
+  - Quelle/5e/scag
 aliases:
   - Deep Duerra
 ---

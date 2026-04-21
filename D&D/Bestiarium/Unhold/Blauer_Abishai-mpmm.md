@@ -1,16 +1,15 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mpmm
-  - Monster/HG/17
-  - Monster/Habitat/Küste
-  - Monster/Habitat/Stadt
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Unhold/devil
-  - Monster/Typ/Unhold/wizard
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Blue Abishai
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Küste
+  - Monster/Habitat/Stadt
+  - Monster/HG/17
+  - Monster/Typ/Unhold/devil
+  - Monster/Typ/Unhold/wizard
+  - Quelle/5e/mpmm
 aliases:
   - Blue Abishai
 ---

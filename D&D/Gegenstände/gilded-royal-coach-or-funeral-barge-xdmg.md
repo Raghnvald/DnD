@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Gilded royal coach or funeral barge
 tags:
   - Gegenstand/Ausrüstung/treasure-art-object

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Level and Lethality; Spell Equivalent by Level
 tags:
   - Quelle/5e/xge
 aliases:

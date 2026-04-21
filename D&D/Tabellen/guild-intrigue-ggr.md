@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Guild Intrigue
 tags:
   - Quelle/5e/ggr
 aliases:

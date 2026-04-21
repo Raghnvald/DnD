@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/erlw
-  - Monster/HG/25
-  - Monster/Größe/Gigantisch
-  - Monster/Typ/Konstrukt
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Warforged Colossus
+tags:
+  - Monster/Größe/Gigantisch
+  - Monster/HG/25
+  - Monster/Typ/Konstrukt
+  - Quelle/5e/erlw
 aliases:
   - Warforged Colossus
 ---

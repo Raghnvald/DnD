@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-feat
+Bezeichnung: Remarkable Recovery
 tags:
-  - Quelle/5e/tdcsr
   - Kompendium/Talent
+  - Quelle/5e/tdcsr
 aliases:
   - Remarkable Recovery
 ---

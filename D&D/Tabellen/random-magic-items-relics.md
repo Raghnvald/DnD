@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Random Magic Items - Relics
 tags:
   - Quelle/5e/xdmg
 aliases:

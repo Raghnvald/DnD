@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Twilight Domain
 tags:
   - Zauber/list/subclass/twilight-domain
 aliases:

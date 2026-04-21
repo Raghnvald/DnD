@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Cloud of Daggers
+Bezeichnung: Dolchwolke
 Zaubergrad: 2
 Zeitaufwand: 1 Aktion
 Reichweite: 18 m

@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Spell Scroll (Level 8)
 tags:
   - Gegenstand/Seltenheit/sehr_selten

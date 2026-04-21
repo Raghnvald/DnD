@@ -1,10 +1,12 @@
 ---
+Bezeichnung: Schule der Verzauberung-old
 tags:
   - Klasse/Magier/Verzauberung
   - Quelle/5e/phb
 aliases:
   - School of Enchantment
 ---
+# Schule der Verzauberung-old
 Schule der Verzauberung
 =======================
 

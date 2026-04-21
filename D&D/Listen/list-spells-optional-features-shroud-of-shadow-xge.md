@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Shroud of Shadow
 tags:
   - Zauber/list/optfeature/shroud-of-shadow
 aliases:

@@ -1,5 +1,7 @@
 ---
-tags: [Quelle/5e/bgdia]
+Bezeichnung: <center>Über dieses Abenteuer</center>
+tags:
+  - Quelle/5e/bgdia
 ---
 # <center>Über dieses Abenteuer</center>
 *Quelle: Baldur's Gate: Descent Into Avernus, S. 5* 

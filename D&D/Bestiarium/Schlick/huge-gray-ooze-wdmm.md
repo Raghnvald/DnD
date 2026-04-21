@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/wdmm
-  - Monster/HG/8
-  - Monster/Größe/Riesig
-  - Monster/Typ/Schleim
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Huge Gray Ooze
+tags:
+  - Monster/Größe/Riesig
+  - Monster/HG/8
+  - Monster/Typ/Schleim
+  - Quelle/5e/wdmm
 aliases:
   - Huge Gray Ooze
 ---

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Ring of Free Action
+Kategorie: Ring
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten

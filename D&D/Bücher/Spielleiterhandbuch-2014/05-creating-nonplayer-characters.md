@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Creating Nonplayer Characters
 tags:
   - Quelle/5e/dmg
 aliases:

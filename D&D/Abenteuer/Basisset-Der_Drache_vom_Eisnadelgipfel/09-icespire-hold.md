@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Icespire Hold
 tags:
   - Quelle/5e/dip
 aliases:

@@ -1,9 +1,10 @@
 ---
+Bezeichnung: Zurückdrängender Strahl
 tags:
-- Quelle/5e/phb
-- Kompendium/Optionales/Anrufungen
+  - Kompendium/Optionales/Anrufungen
+  - Quelle/5e/phb
 aliases:
-- Repelling Blast
+  - Repelling Blast
 ---
 # Zurückdrängender Strahl
 _Quellen:_ Spielerhandbuch

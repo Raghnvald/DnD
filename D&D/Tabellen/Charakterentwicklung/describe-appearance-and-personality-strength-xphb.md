@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Describe Appearance and Personality; Strength
 tags:
   - Quelle/5e/xphb
 aliases:

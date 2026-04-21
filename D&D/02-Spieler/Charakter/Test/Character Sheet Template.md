@@ -1,41 +1,42 @@
 ---
-level: 6
-proficiency_bonus:
-hp: 57
+Bezeichnung: "**Character Name**"
 ac: 15
-speed: 9
-cssclasses:
-  - tag-bubble
-CL: Barde 6
-RACE: Halb-Elf
-BG: Unterhaltungskünstler
-ALIGN: Chaotisch Gut
-PN: Fayn
-EXP: "0"
-HI:
-LBS:
-EYE:
-SKIN:
-HAIR:
-PERS: ""
-IDEAL:
-BOND:
-FLAW:
-IMAGE:
-ammo1:
-ammo2:
 AC1: false
 AC2: true
 AC3: false
 AC4: false
-CP: 0
-SP: 3
-EP: 0
-GP: 48
-PP: 0
-TREASURE:
+ALIGN: Chaotisch Gut
+ammo1:
+ammo2:
+BG: Unterhaltungskünstler
+BOND:
 CARRY:
+CL: Barde 6
+CP: 0
+EP: 0
+EXP: "0"
+EYE:
+FLAW:
+GP: 48
+HAIR:
+HI:
+hp: 57
+IDEAL:
+IMAGE:
+LBS:
+level: 6
+PERS: ""
+PN: Fayn
+PP: 0
+proficiency_bonus:
+RACE: Halb-Elf
+SKIN:
+SP: 3
 SP1-1: true
+SP1-10: false
+SP1-11: false
+SP1-12: false
+SP1-13: false
 SP1-2: true
 SP1-3: true
 SP1-4: true
@@ -44,11 +45,11 @@ SP1-6: false
 SP1-7: false
 SP1-8: false
 SP1-9: false
-SP1-10: false
-SP1-11: false
-SP1-12: false
-SP1-13: false
 SP2-1: true
+SP2-10: false
+SP2-11: false
+SP2-12: false
+SP2-13: false
 SP2-2: true
 SP2-3: true
 SP2-4: true
@@ -57,11 +58,11 @@ SP2-6: true
 SP2-7: false
 SP2-8: false
 SP2-9: false
-SP2-10: false
-SP2-11: false
-SP2-12: false
-SP2-13: false
 SP3-1: true
+SP3-10: false
+SP3-11: false
+SP3-12: false
+SP3-13: false
 SP3-2: true
 SP3-3: true
 SP3-4: true
@@ -70,11 +71,11 @@ SP3-6: false
 SP3-7: false
 SP3-8: false
 SP3-9: false
-SP3-10: false
-SP3-11: false
-SP3-12: false
-SP3-13: false
 SP4-1: false
+SP4-10: false
+SP4-11: false
+SP4-12: false
+SP4-13: false
 SP4-2: false
 SP4-3: false
 SP4-4: false
@@ -83,10 +84,6 @@ SP4-6: false
 SP4-7: false
 SP4-8: false
 SP4-9: false
-SP4-10: false
-SP4-11: false
-SP4-12: false
-SP4-13: false
 SP5-1: false
 SP5-2: false
 SP5-3: false
@@ -96,24 +93,24 @@ SP5-6: false
 SP5-7: false
 SP5-8: false
 SP5-9: false
-SP6-9: false
-SP6-8: false
-SP6-7: false
-SP6-6: false
-SP6-5: false
-SP6-4: false
-SP6-3: false
-SP6-2: false
 SP6-1: false
-SP7-9: false
-SP7-8: false
-SP7-7: false
-SP7-6: false
-SP7-5: false
-SP7-4: false
-SP7-3: false
-SP7-2: false
+SP6-2: false
+SP6-3: false
+SP6-4: false
+SP6-5: false
+SP6-6: false
+SP6-7: false
+SP6-8: false
+SP6-9: false
 SP7-1: false
+SP7-2: false
+SP7-3: false
+SP7-4: false
+SP7-5: false
+SP7-6: false
+SP7-7: false
+SP7-8: false
+SP7-9: false
 SP8-1: false
 SP8-2: false
 SP8-3: false
@@ -128,6 +125,8 @@ SP9-4: false
 SP9-5: false
 SP9-6: false
 SP9-7: false
+speed: 9
+TREASURE:
 ---
 
 # **Character Name**
@@ -164,10 +163,8 @@ SP9-7: false
 ![[#Notes|no-h1 full clean]]
 ~~~
 
-
 ---
 ---
-
 
 # General
 [[#General|🔗]] 
@@ -411,7 +408,6 @@ items:
 >     reset_on: long-rest
 > ```
 > ^unique-item-ID
-
 
 ## Other Storage (Bag Of Holding, etc)
 - **Capacity:** X lbs
@@ -665,7 +661,6 @@ dense: true
 > > | `INPUT[toggle:SP9-6]` |  |  |  |  |  |
 > > | `INPUT[toggle:SP9-7]` |  |  |  |  |  |
 
-
 # Features & Traits
 [[#Features & Traits|🔗]]  
  - **Tip!** You can *Insert Template* here and select *Feature Card Template* to quickly add a feature. Features with consumables need unique *state keys*.
@@ -697,9 +692,7 @@ dense: true
 
 ## Actions 
 
-
 ## Bonus Actions #
-
 
 ## Other Features
 
@@ -716,7 +709,6 @@ dense: true
 > ```
 > Description of feature.
 > 
-
 
 # Backstory
 [[#Backstory|🔗]]  

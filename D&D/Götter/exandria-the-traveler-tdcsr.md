@@ -1,12 +1,11 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: The Traveler
 tags:
-  - Quelle/5e/tdcsr
   - Kompendium/Götter/exandria
+  - Quelle/5e/tdcsr
 aliases:
-  - The Traveler
   - Artagan
+  - The Traveler
 ---
 # The Traveler
 *Source: Tal'Dorei Campaign Setting Reborn p. 42* 

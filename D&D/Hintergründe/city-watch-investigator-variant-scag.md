@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-background
+Bezeichnung: City Watch (Investigator) (Variant)
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/scag
@@ -9,7 +8,6 @@ aliases:
 ---
 # City Watch (Investigator) (Variant)
 *Source: Sword Coast Adventurer's Guide p. 145*  
-
 
 - **Skill Proficiencies.** [Insight](/3-Mechanics/CLI/skills.md#Insight), [Investigation](/3-Mechanics/CLI/skills.md#Investigation)  
 - **Languages.** Any two of your choice  

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Ritual Caster
 tags:
   - Zauber/list/feat/ritual-caster
 aliases:

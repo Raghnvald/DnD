@@ -1,10 +1,9 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Grumbar
 tags:
-  - Quelle/5e/scag
-  - Kompendium/Götter/faerunian
   - Kompendium/Götter/Domäne/knowledge
+  - Kompendium/Götter/faerunian
+  - Quelle/5e/scag
 aliases:
   - Grumbar
 ---

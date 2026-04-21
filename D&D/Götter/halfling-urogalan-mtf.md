@@ -1,12 +1,11 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Urogalan
 tags:
-  - Quelle/5e/mtf
-  - Kompendium/Götter/halfling
   - Kompendium/Götter/Domäne/death
   - Kompendium/Götter/Domäne/grave
   - Kompendium/Götter/Domäne/knowledge
+  - Kompendium/Götter/halfling
+  - Quelle/5e/mtf
 aliases:
   - Urogalan
 ---

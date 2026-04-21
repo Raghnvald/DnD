@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Trail of Destruction
 tags:
   - Quelle/5e/jttrc
 aliases:

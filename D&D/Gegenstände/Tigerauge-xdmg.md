@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Tiger Eye
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone

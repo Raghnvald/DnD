@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Kobold Names
 tags:
   - Quelle/5e/vgm
 aliases:

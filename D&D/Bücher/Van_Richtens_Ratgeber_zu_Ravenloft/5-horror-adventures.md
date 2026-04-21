@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Horror Adventures
 tags:
   - Quelle/5e/vrgr
 aliases:

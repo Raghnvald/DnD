@@ -1,7 +1,10 @@
 ---
-tags: [Quelle/5e/dmg]
+Bezeichnung: DM Kanban
+tags:
+  - Quelle/5e/dmg
 kanban-plugin: board
 ---
+# DM Kanban
 
 ## ![[AbilitiesTitleBar.webp]]
 
@@ -11,7 +14,6 @@ kanban-plugin: board
 - [ ] [[01. Grundregelwerk 2014/07-Attributswerte-verwenden#Intelligenz|Intelligenz]]
 - [ ] [[01. Grundregelwerk 2014/07-Attributswerte-verwenden#Weisheit|Weisheit]]
 - [ ] [[01. Grundregelwerk 2014/07-Attributswerte-verwenden#Charisma|Charisma]]
-
 
 ## ![[SkillsTitleBar.webp]]
 
@@ -34,7 +36,6 @@ kanban-plugin: board
 - [ ] [[01. Grundregelwerk 2014/07-Attributswerte-verwenden#Überzeugen|Überzeugen]]
 - [ ] [[01. Grundregelwerk 2014/07-Attributswerte-verwenden#Wahrnehmung|Wahrnehmung]]
 
-
 ## ![[CheckTitleBar.webp]]
 
 - [ ] [[01. Grundregelwerk 2014/07-Attributswerte-verwenden#Attributswürfe|Attributswürfe]]
@@ -46,7 +47,6 @@ kanban-plugin: board
 - [ ] [[01. Grundregelwerk 2014/07-Attributswerte-verwenden#Übungsbonus|Übungsbonus]]
 - [ ] [[01. Grundregelwerk 2014/07-Attributswerte-verwenden#Vor- und Nachteil|Vor- und Nachteil]]
 - [ ] [[01. Grundregelwerk 2014/07-Attributswerte-verwenden#Wettstreit|Wettstreit]]
-
 
 ## ![[ConditionsTitleBar.webp]]
 
@@ -67,7 +67,6 @@ kanban-plugin: board
 - [ ] [[01. Grundregelwerk 2014/Anhang PH-A#Vergiftet|Vergiftet]]
 - [ ] [[01. Grundregelwerk 2014/Anhang PH-A#Versteinert|Versteinert]]
 
-
 ## ![[CombatActionsTitleBar.webp]]
 
 - [ ] [[01. Grundregelwerk 2014/09-Kampf#Angriff|Angriff]]
@@ -87,7 +86,6 @@ kanban-plugin: board
 - [ ] [[Aktionen-phb#Actions#Mark|Mark]]
 - [ ] [[Aktionen-phb#Actions#Tumble|Tumble]]
 
-
 ## ![[MiscCombatRulesTitleBar.webp]]
 
 - [ ] [[../../03 - Quellen/Quellbücher/01. Grundregelwerk 2014/09-Kampf#Berittener Kampf|Berittener Kampf]]
@@ -104,7 +102,6 @@ kanban-plugin: board
 - [ ] [[../../03 - Quellen/Quellbücher/01. Grundregelwerk 2014/09-Kampf#Ungesehene Angreifer und Ziele|Ungesehene Angreifer und Ziele]]
 - [ ] [[../../03 - Quellen/Quellbücher/01. Grundregelwerk 2014/09-Kampf#Zwei-Waffen-Kampf|Zwei-Waffen-Kampf]]
 
-
 ## ![[MovementTitleBar.webp]]
 
 - [ ] [[../../03 - Quellen/Quellbücher/01. Grundregelwerk 2014/09-Kampf#Bewegung und Positionierung|Bewegung und Positionierung]]
@@ -117,7 +114,6 @@ kanban-plugin: board
 - [ ] [[../../03 - Quellen/Quellbücher/01. Grundregelwerk 2014/08-Abenteuersuche#Movement#Jumping|Jumping]]
 - [ ] [[../../03 - Quellen/Quellbücher/01. Grundregelwerk 2014/08-Abenteuersuche#Movement#Activity While Traveling|Activity While Traveling]]
 
-
 ## ![[RestTravelTitleBar.webp]]
 
 - [ ] [[../../03 - Quellen/Quellbücher/01. Grundregelwerk 2014/08-Abenteuersuche#Erholen|Erholen]]
@@ -125,7 +121,6 @@ kanban-plugin: board
 - [ ] [[../../03 - Quellen/Quellbücher/01. Grundregelwerk 2014/08-Abenteuersuche#Lange Rast|Lange Rast]]
 - [ ] [[../../03 - Quellen/Quellbücher/01. Grundregelwerk 2014/08-Abenteuersuche#Nahrung und Wasser|Nahrung und Wasser]]
 - [ ] [[../../03 - Quellen/Quellbücher/01. Grundregelwerk 2014/08-Abenteuersuche#Rasten|Rasten]]
-
 
 ## ![[HealDeathDmgTitleBar.webp]]
 
@@ -135,7 +130,6 @@ kanban-plugin: board
 - [ ] [[01. Grundregelwerk 2014/09-Kampf#Auf 0 Trefferpunkte sinken#Sofortiger Tod|Sofortiger Tod]]
 - [ ] [[01. Grundregelwerk 2014/09-Kampf#Auf 0 Trefferpunkte sinken#Todesrettungswürfe|Todesrettungswürfe]]
 - [ ] [[01. Grundregelwerk 2014/09-Kampf#Schaden und Heilung#Heilung|Heilung]]
-
 
 ## ![[WeaponsArmorItemsTitleBar.webp]]
 
@@ -149,7 +143,6 @@ kanban-plugin: board
 - [ ] [[Waffen.base|Waffen]]
 - [ ] [[Tabellen/Zauberschriftrolle-Zauberschriftrolle|Zauberschriftrolle]]
 
-
 ## ![[MagicTitleBar.webp]]
 
 - [ ] [[Magier-Schule-Bannmagie|Bannmagie]]
@@ -161,9 +154,6 @@ kanban-plugin: board
 - [ ] [[Magier-Schule-Verwandlung|Verwandlung]]
 - [ ] [[Magier-Schule-Verzauberung|Verzauberung]]
 - [ ] #Zauber/Schule/Verzauberung
-
-
-
 
 %% kanban:settings
 ```

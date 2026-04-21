@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Orc Names; Orc Male Names
 tags:
   - Quelle/5e/vgm
 aliases:

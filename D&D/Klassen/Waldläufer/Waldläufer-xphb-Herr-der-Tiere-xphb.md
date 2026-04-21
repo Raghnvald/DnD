@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-class
+Bezeichnung: Beast Master
 tags:
-  - Quelle/5e/xphb
   - Klasse/Waldläufer/beast-master
+  - Quelle/5e/xphb
 aliases:
   - Beast Master
 ---
@@ -41,7 +40,6 @@ aliases:
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 

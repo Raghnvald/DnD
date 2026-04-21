@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Villains; Villain's Methods"
 tags:
   - Quelle/5e/dmg
 aliases:

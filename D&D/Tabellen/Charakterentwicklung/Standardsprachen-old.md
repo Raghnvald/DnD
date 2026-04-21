@@ -1,5 +1,5 @@
 ---
-cssclasses: json5e-note
+Bezeichnung: Standardsprachen
 tags:
   - Quelle/5e/phb
 aliases:

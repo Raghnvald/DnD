@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Cheese (wedge)
 tags:
   - Gegenstand/Ausrüstung/Essen-und-Trinken

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Assorted Beasts
 tags:
   - Quelle/5e/vgm
 aliases:

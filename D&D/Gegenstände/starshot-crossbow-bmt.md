@@ -1,7 +1,5 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Starshot Crossbow-bmt
+Bezeichnung: Starshot Crossbow
 Kategorie: Beliebig, Armbrust
 tags:
   - Gegenstand/Einstimmung/required

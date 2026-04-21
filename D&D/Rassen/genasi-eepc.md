@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-race
+Bezeichnung: Genasi
 tags:
   - Quelle/5e/eepc
   - Rasse/genasi

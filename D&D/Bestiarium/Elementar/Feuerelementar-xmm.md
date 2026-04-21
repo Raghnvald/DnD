@@ -1,16 +1,15 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/5
-  - Monster/Habitat/Wüste
-  - Monster/Habitat/fire
-  - Monster/Habitat/planar
-  - Monster/Größe/Groß
-  - Monster/Typ/Elementar
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Fire Elemental
+tags:
+  - Monster/Größe/Groß
+  - Monster/Habitat/fire
+  - Monster/Habitat/planar
+  - Monster/Habitat/Wüste
+  - Monster/HG/5
+  - Monster/Typ/Elementar
+  - Quelle/5e/xmm
 aliases:
   - Fire Elemental
 ---
@@ -45,7 +44,6 @@ Fire elementals might burn in distinctive ways. Roll on or choose a result from 
 > [!quote] A quote from Marrake the Incandescent, Ruler of Efreet  
 > 
 > All the elements bow to fire. The strongest earth melts. Water boils. Even air ignites. We are all souls of flame, and we know what it is to burn.
-
 
 ```statblock
 "name": "Fire Elemental (XMM)"

@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/tftyp
-  - Monster/HG/5
-  - Monster/Größe/Riesig
-  - Monster/Typ/Riese
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Frost Giant Servant
+tags:
+  - Monster/Größe/Riesig
+  - Monster/HG/5
+  - Monster/Typ/Riese
+  - Quelle/5e/tftyp
 aliases:
   - Frost Giant Servant
 ---

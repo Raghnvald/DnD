@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Pipes of the Sewers
 tags:
   - Gegenstand/Einstimmung/required

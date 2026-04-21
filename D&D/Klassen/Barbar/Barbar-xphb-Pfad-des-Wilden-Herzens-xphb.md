@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-class
+Bezeichnung: Path of the Wild Heart
 tags:
-  - Quelle/5e/xphb
   - Klasse/Barbar/wild-heart
+  - Quelle/5e/xphb
 aliases:
   - Path of the Wild Heart
 ---
@@ -41,7 +40,6 @@ aliases:
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 

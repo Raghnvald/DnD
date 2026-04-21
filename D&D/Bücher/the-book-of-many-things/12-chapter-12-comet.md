@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Chapter 12: Comet"
 tags:
   - Quelle/5e/bmt
 aliases:

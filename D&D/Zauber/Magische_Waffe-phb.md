@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Magic Weapon
 Zaubergrad: 2
 tags:

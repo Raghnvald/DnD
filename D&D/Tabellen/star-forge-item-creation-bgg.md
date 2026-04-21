@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Star Forge Item Creation
 tags:
   - Quelle/5e/bgg
 aliases:

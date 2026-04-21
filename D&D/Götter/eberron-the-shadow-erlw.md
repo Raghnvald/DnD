@@ -1,10 +1,9 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: The Shadow
 tags:
-  - Quelle/5e/erlw
-  - Kompendium/Götter/eberron
   - Kompendium/Götter/Domäne/knowledge
+  - Kompendium/Götter/eberron
+  - Quelle/5e/erlw
 aliases:
   - The Shadow
 ---

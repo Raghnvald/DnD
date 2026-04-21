@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/bgg
-  - Monster/HG/16
-  - Monster/Größe/Riesig
-  - Monster/Typ/Riese/wizard
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Stone Giant Rockspeaker
+tags:
+  - Monster/Größe/Riesig
+  - Monster/HG/16
+  - Monster/Typ/Riese/wizard
+  - Quelle/5e/bgg
 aliases:
   - Stone Giant Rockspeaker
 ---

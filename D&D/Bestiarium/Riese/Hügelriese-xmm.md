@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/5
-  - Monster/Habitat/Hügel
-  - Monster/Größe/Riesig
-  - Monster/Typ/Riese
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Hill Giant
+tags:
+  - Monster/Größe/Riesig
+  - Monster/Habitat/Hügel
+  - Monster/HG/5
+  - Monster/Typ/Riese
+  - Quelle/5e/xmm
 aliases:
   - Hill Giant
 ---

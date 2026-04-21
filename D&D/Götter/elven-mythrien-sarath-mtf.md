@@ -1,12 +1,11 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Mythrien Sarath
 tags:
-  - Quelle/5e/mtf
-  - Kompendium/Götter/elven
   - Kompendium/Götter/Domäne/arcana
   - Kompendium/Götter/Domäne/forge
   - Kompendium/Götter/Domäne/knowledge
+  - Kompendium/Götter/elven
+  - Quelle/5e/mtf
 aliases:
   - Mythrien Sarath
 ---

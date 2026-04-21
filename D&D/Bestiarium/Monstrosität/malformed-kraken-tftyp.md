@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/tftyp
-  - Monster/HG/10
-  - Monster/Größe/Riesig
-  - Monster/Typ/Monstrosität
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Malformed Kraken
+tags:
+  - Monster/Größe/Riesig
+  - Monster/HG/10
+  - Monster/Typ/Monstrosität
+  - Quelle/5e/tftyp
 aliases:
   - Malformed Kraken
 ---

@@ -1,5 +1,4 @@
 ---
-cssclasses: json5e-spell
 Bezeichnung: Gegenstände beleben
 tags:
   - Klasse/Barde/Magische-Geheimnisse

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Aristocrat Retainer Roles
 tags:
   - Quelle/5e/tce
 aliases:

@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Silken Spite (Dormant)
 Kategorie: Nahkampf-Kriegswaffe
 tags:

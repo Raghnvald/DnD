@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Physical Characteristics; Beholder Eyestalk Texture
 tags:
   - Quelle/5e/vgm
 aliases:

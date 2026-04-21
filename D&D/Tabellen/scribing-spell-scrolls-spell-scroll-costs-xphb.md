@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Scribing Spell Scrolls; Spell Scroll Costs
 tags:
   - Quelle/5e/xphb
 aliases:

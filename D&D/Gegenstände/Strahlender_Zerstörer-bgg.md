@@ -1,7 +1,5 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Strahlender Zerstörer
+Bezeichnung: Lucent Destroyer
 Kategorie: Fernkampf-Kriegswaffe
 tags:
   - Gegenstand/Einstimmung/required

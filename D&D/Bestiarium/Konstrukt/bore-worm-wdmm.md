@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/wdmm
-  - Monster/HG/16
-  - Monster/Größe/Gigantisch
-  - Monster/Typ/Konstrukt
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Bore Worm
+tags:
+  - Monster/Größe/Gigantisch
+  - Monster/HG/16
+  - Monster/Typ/Konstrukt
+  - Quelle/5e/wdmm
 aliases:
   - Bore Worm
 ---

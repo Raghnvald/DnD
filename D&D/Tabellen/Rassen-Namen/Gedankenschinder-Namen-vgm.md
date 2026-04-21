@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Mind Flayer Names
 tags:
   - Quelle/5e/vgm
 aliases:

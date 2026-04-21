@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mm
-  - Monster/HG/8
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/gith
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Githyanki Knight
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/8
+  - Monster/Typ/Humanoid/gith
+  - Quelle/5e/mm
 aliases:
   - Githyanki Knight
 ---
@@ -55,7 +54,6 @@ Whether these tall, gaunt creatures were peaceful or savage, cultured or primiti
 > [!quote] A quote from Aristul the Yellow, master of planar lore  
 > 
 > The githyanki and the githzerai were so profoundly scarred by their enslavement to the mind flayers that they forget they were one race, united. Having won their freedom, they wage war against each other with a hatred none can fully comprehend.
-
 
 ```statblock
 "name": "Githyanki Knight"

@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Alchemist's Supplies
+Bezeichnung: "Alchemist's Supplies"
 tags:
   - Gegenstand/Ausrüstung/Werkzeug
   - Gegenstand/Seltenheit/keine

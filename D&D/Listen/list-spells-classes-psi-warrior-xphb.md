@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Psi Warrior
 tags:
   - Zauber/list/subclass/psi-warrior
 aliases:

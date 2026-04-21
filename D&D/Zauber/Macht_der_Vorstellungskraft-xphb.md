@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Phantasmal Force
 tags:
   - Klasse/Barde
@@ -10,9 +8,9 @@ tags:
   - Klasse/Zauberer
   - Quelle/5e/xphb
   - Subklasse/archfey-patron
-  - Subklasse/Mystischer-Ritter
   - Subklasse/great-old-one-patron
   - Subklasse/illusionist
+  - Subklasse/Mystischer-Ritter
   - Subklasse/the-genie/dao
   - Subklasse/the-undead
   - Zauber/Grad/2

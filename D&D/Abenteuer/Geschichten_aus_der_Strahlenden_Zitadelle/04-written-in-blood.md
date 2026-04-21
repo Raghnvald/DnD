@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Written in Blood
 tags:
   - Quelle/5e/jttrc
 aliases:

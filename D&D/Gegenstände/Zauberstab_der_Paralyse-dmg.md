@@ -1,7 +1,6 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Wand of Paralysis
+Kategorie: Zauberstab
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten

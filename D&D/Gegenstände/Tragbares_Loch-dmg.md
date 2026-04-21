@@ -1,7 +1,9 @@
 ---
 Bezeichnung: Portable Hole
+Kategorie: Wundersamer Gegenstand 
 tags:
   - Gegenstand/Seltenheit/selten
+  - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
   - Portable Hole

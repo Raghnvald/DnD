@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Parleying with Monsters
 tags:
   - Quelle/5e/tce
 aliases:

@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Shield of the Cavalier
 Rüstung: Schild
 tags:

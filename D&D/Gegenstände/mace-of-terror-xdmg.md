@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Mace of Terror
 tags:
   - Gegenstand/Einstimmung/required

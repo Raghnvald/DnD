@@ -1,15 +1,13 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Protection from Energy
 tags:
+  - Klasse/Artifizient
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
   - Klasse/Druide
   - Klasse/Kleriker
   - Klasse/Kleriker/forge-domain
   - Klasse/Magier
-  - Klasse/Artifizient
   - Klasse/Paladin/oath-of-glory
   - Klasse/Paladin/oath-of-vengeance
   - Klasse/Paladin/Schwur-der-Alten

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Gruul Creatures
 tags:
   - Quelle/5e/ggr
 aliases:

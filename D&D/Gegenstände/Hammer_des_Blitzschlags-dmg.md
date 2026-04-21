@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Hammer des Blitzschlags
 Kategorie: Nahkampf-Kriegswaffe
 tags:

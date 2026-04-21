@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Guild Contact
 tags:
   - Quelle/5e/tce
 aliases:

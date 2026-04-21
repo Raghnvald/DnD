@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Control Water
 Zaubergrad: 4
 tags:

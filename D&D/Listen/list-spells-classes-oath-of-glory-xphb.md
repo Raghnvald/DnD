@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Oath of Glory
 tags:
   - Zauber/list/subclass/oath-of-glory
 aliases:

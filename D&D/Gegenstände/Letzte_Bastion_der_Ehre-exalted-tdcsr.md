@@ -1,7 +1,5 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Honor's Last Stand (Exalted)
+Bezeichnung: "Honor's Last Stand (Exalted)"
 Rüstung: Schild
 tags:
   - Gegenstand/Einstimmung/required

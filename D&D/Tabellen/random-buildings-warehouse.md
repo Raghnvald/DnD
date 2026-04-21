@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Random Buildings; Warehouse
 tags:
   - Quelle/5e/dmg
 aliases:

@@ -1,14 +1,12 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Faerie Fire
 tags:
+  - Klasse/Artifizient
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
   - Klasse/Druide
   - Klasse/Kleriker/light-domain
   - Klasse/Kleriker/twilight-domain
-  - Klasse/Artifizient
   - Kompendium/Talent/artificer-initiate
   - Kompendium/Talent/magic-initiate/druid-spells
   - Quelle/5e/xphb

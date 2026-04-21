@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Ingot of the Skold Rune
 tags:
   - Gegenstand/Einstimmung/required

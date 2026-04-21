@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Reproduction; Origin of Dragon Eggs
 tags:
   - Quelle/5e/ftd
 aliases:

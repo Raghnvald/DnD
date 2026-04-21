@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Imbued Wood (Mabaran Ebony)
 Kategorie: Wundersamer Gegenstand
 tags:

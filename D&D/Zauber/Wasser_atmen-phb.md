@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Water Breathing
 Zaubergrad: 3
 tags:

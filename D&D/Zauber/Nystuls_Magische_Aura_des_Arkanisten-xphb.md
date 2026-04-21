@@ -1,15 +1,13 @@
 ---
-cssclasses:
-  - json5e-spell
-Bezeichnung: Nystul's Magic Aura
+Bezeichnung: "Nystul's Magic Aura"
 tags:
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
   - Klasse/Magier
   - Klasse/Schurke/Arkaner-Betrüger
   - Quelle/5e/xphb
-  - Subklasse/Mystischer-Ritter
   - Subklasse/illusionist
+  - Subklasse/Mystischer-Ritter
   - Zauber/Grad/2
   - Zauber/Schule/Illusion
 classes:

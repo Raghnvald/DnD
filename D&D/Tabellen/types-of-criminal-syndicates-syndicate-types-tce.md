@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Types of Criminal Syndicates; Syndicate Types
 tags:
   - Quelle/5e/tce
 aliases:

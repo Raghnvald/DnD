@@ -1,10 +1,9 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Branchala
 tags:
-  - Quelle/5e/phb
-  - Kompendium/Götter/dragonlance
   - Kompendium/Götter/Domäne/light
+  - Kompendium/Götter/dragonlance
+  - Quelle/5e/phb
 aliases:
   - Branchala
 ---

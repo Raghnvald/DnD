@@ -1,12 +1,12 @@
 ---
-cssclasses: json5e-deity
+Bezeichnung: Asmodeus, Gott des Genusses
 tags:
-  - Quelle/5e/phb
   - Kompendium/Götter
+  - Kompendium/Götter/Domäne/Lust
+  - Kompendium/Götter/Domäne/Wissen
   - Kompendium/Götter/Gesinnung/Rechtschaffen_Böse
   - Kompendium/Götter/Pantheon/Faerun
-  - Kompendium/Götter/Domäne/Wissen
-  - Kompendium/Götter/Domäne/Lust
+  - Quelle/5e/phb
 aliases:
   - Asmodeus
 ---

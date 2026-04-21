@@ -1,5 +1,5 @@
 ---
-cssclasses: json5e-note
+Bezeichnung: "Chapter 14: Metallic Dragons, Arise"
 tags:
   - Quelle/5e/rot
 aliases:

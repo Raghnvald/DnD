@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Fireball
 tags:
   - Klasse/Barde
@@ -12,9 +10,9 @@ tags:
   - Klasse/Zauberer
   - Quelle/5e/xphb
   - Subklasse/artillerist
-  - Subklasse/Mystischer-Ritter
   - Subklasse/evoker
   - Subklasse/fiend-patron
+  - Subklasse/Mystischer-Ritter
   - Subklasse/the-genie/efreeti
   - Zauber/Grad/3
   - Zauber/optfeature/flames-of-the-phoenix

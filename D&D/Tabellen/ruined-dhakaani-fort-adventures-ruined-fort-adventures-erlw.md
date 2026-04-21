@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Ruined Dhakaani Fort Adventures; Ruined Fort Adventures
 tags:
   - Quelle/5e/erlw
 aliases:

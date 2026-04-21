@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Brooch of Shielding
 tags:
   - Gegenstand/Einstimmung/required

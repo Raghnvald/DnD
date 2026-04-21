@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Hau
+Bezeichnung: Hew
 Kategorie: Nahkampf-Kriegswaffe
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich

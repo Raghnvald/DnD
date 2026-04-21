@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Uthgardt Totems
 tags:
   - Quelle/5e/scag
 aliases:

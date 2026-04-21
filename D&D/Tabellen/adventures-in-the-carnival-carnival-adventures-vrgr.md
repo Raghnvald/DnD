@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Adventures in the Carnival; Carnival Adventures
 tags:
   - Quelle/5e/vrgr
 aliases:

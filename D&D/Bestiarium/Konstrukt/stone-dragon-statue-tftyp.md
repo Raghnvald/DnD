@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/tftyp
-  - Monster/HG/10
-  - Monster/Größe/Groß
-  - Monster/Typ/Konstrukt
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Stone Dragon Statue
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/10
+  - Monster/Typ/Konstrukt
+  - Quelle/5e/tftyp
 aliases:
   - Stone Dragon Statue
 ---

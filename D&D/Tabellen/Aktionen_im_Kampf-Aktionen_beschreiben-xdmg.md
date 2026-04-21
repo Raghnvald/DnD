@@ -1,4 +1,5 @@
 ---
+Bezeichnung: Actions in Combat; Describing Actions
 tags:
   - Quelle/5e/xdmg
 aliases:

@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-class
+Bezeichnung: Circle of the Stars
 tags:
-  - Quelle/5e/xphb
   - Klasse/Druide/stars
+  - Quelle/5e/xphb
 aliases:
   - Circle of the Stars
 ---
@@ -41,7 +40,6 @@ aliases:
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 

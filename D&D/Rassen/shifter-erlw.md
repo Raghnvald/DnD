@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-race
+Bezeichnung: Shifter
 tags:
   - Quelle/5e/erlw
   - Rasse/shifter

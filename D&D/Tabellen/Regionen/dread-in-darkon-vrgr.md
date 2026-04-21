@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Dread in Darkon
 tags:
   - Quelle/5e/vrgr
 aliases:

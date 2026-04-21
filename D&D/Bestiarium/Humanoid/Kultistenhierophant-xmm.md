@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/10
-  - Monster/Habitat/Jedes
-  - Monster/Größe/Klein-oder-Mittelgroß
-  - Monster/Typ/Humanoid
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Cultist Hierophant
+tags:
+  - Monster/Größe/Klein-oder-Mittelgroß
+  - Monster/Habitat/Jedes
+  - Monster/HG/10
+  - Monster/Typ/Humanoid
+  - Quelle/5e/xmm
 aliases:
   - Cultist Hierophant
 ---
@@ -69,7 +68,6 @@ Cults can organize around any mystical tradition, but many serve supernatural be
 > [!quote] A quote from Rites of the Cult of Elemental Evil  
 > 
 > Dread Tharizdun, power of the Elder Elemental Eye and master of all destructive forces, I am the Champion of Elemental Evil and am ready to carry out your wishes.
-
 
 ```statblock
 "name": "Cultist Hierophant (XMM)"

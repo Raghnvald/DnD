@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/bgg
-  - Monster/HG/1
-  - Monster/Größe/Groß
-  - Monster/Typ/Fee
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Grinning Cat
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/1
+  - Monster/Typ/Fee
+  - Quelle/5e/bgg
 aliases:
   - Grinning Cat
 ---
@@ -27,7 +26,6 @@ A grinning cat can be persuaded to bestow one of its whiskers as a gift. A creat
 > [!quote] A quote from Diancastra  
 > 
 > Trust me when I tell you that the cat was every bit as annoyed as you were, my friend.
-
 
 ```statblock
 "name": "Grinning Cat (BGG)"

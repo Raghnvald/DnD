@@ -1,15 +1,14 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/vgm
-  - Monster/HG/1-2
-  - Monster/Habitat/Sumpf
-  - Monster/Habitat/Unterreich
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Tier
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Swarm of Rot Grubs
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Sumpf
+  - Monster/Habitat/Unterreich
+  - Monster/HG/1-2
+  - Monster/Typ/Tier
+  - Quelle/5e/vgm
 aliases:
   - Swarm of Rot Grubs
 ---

@@ -1,8 +1,8 @@
 ---
-cssclasses: json5e-note
+Bezeichnung: Hexensicht
 tags:
-  - Quelle/5e/phb
   - Kompendium/Optionales/Anrufungen
+  - Quelle/5e/phb
 aliases:
   - Witch Sight
 ---

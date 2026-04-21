@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-feat
+Bezeichnung: Lance of Lethargy
 tags:
-  - Quelle/5e/xge
   - Kompendium/Optionales/ei
+  - Quelle/5e/xge
 aliases:
   - Lance of Lethargy
 ---

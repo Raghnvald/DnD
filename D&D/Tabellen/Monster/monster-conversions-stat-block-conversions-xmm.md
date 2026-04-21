@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Monster Conversions; Stat Block Conversions
 tags:
   - Quelle/5e/xmm
 aliases:

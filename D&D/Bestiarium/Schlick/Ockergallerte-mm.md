@@ -1,22 +1,21 @@
 ---
-cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
+statblock: inline
+statblock-link: "#^statblock"
 Bezeichnung: Ockergallerte
 Kategorie: Schleim
 Größe: Groß
 HG: 2
 Habitat:
   - Unterreich
-status: completed
 image: image/ocre-jelly-webp
+status: completed
 tags:
-  - Quelle/5e/mm
-  - Monster/HG/2
-  - Monster/Habitat/Unterreich
   - Monster/Größe/Groß
+  - Monster/Habitat/Unterreich
+  - Monster/HG/2
   - Monster/Typ/Schleim
-statblock: inline
-statblock-link: "#^statblock"
+  - Quelle/5e/mm
 aliases:
   - Ochre Jelly
 ---

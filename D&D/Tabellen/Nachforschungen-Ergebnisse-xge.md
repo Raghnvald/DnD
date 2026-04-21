@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Research Outcomes
 tags:
   - Quelle/5e/xge
 aliases:

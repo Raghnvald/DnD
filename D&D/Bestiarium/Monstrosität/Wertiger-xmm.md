@@ -1,16 +1,15 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/4
-  - Monster/Habitat/Wüste
-  - Monster/Habitat/Wald
-  - Monster/Habitat/Grasland
-  - Monster/Größe/Klein-oder-Mittelgroß
-  - Monster/Typ/Monstrosität/lycanthrope
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Weretiger
+tags:
+  - Monster/Größe/Klein-oder-Mittelgroß
+  - Monster/Habitat/Grasland
+  - Monster/Habitat/Wald
+  - Monster/Habitat/Wüste
+  - Monster/HG/4
+  - Monster/Typ/Monstrosität/lycanthrope
+  - Quelle/5e/xmm
 aliases:
   - Weretiger
 ---
@@ -39,7 +38,6 @@ Weretigers shape-shift from humanoid forms into tigers or tiger-humanoid hybrids
 > [!quote] A quote from Delmair Rallyhorn, Weretiger  
 > 
 > I hunt evil like the great cat hunts its prey, but evil will not long yield to blade alone. It takes strength, honor, and sometimes a little more.
-
 
 ```statblock
 "name": "Weretiger (XMM)"

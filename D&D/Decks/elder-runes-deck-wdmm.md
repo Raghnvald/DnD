@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-deck
+Bezeichnung: Elder Runes Deck
 tags:
   - Quelle/5e/wdmm
 aliases:

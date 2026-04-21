@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: "Weaver's Tools"
 tags:
   - Gegenstand/Ausrüstung/Werkzeug

@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Cordon of Arrows
 Zaubergrad: 2
 tags:

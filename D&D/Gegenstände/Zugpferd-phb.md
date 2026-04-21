@@ -4,15 +4,15 @@ Kategorie: Reit- und Lastentier
 Eigenschaften: /
 Kst.: 50 GM
 Gew.: /
-Bew.: 12 m
-Traglast: 540 Pfd.
 tags:
   - Gegenstand/Ausrüstung/Reit-und-Lastentier
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
   - Draft Horse
+Bew.: 12 m
 linter-yaml-title-alias: Draft Horse
+Traglast: 540 Pfd.
 ---
 # Zugpferd
 *Reit- und Lasttiere*  

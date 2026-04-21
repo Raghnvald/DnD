@@ -1,9 +1,10 @@
 ---
+Bezeichnung: Verhexendes Flüstern
 tags:
-- Quelle/5e/phb
-- Kompendium/Optionales/Anrufungen
+  - Kompendium/Optionales/Anrufungen
+  - Quelle/5e/phb
 aliases:
-- Bewitching Whispers
+  - Bewitching Whispers
 ---
 # Verhexendes Flüstern
 _Quellen:_ Spielerhandbuch

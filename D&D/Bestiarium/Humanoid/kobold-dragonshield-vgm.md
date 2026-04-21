@@ -1,17 +1,16 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/vgm
-  - Monster/HG/1
-  - Monster/Habitat/Wald
-  - Monster/Habitat/Hügel
-  - Monster/Habitat/Berg
-  - Monster/Habitat/Unterreich
-  - Monster/Größe/Klein
-  - Monster/Typ/Humanoid/kobold
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Kobold Dragonshield
+tags:
+  - Monster/Größe/Klein
+  - Monster/Habitat/Berg
+  - Monster/Habitat/Hügel
+  - Monster/Habitat/Unterreich
+  - Monster/Habitat/Wald
+  - Monster/HG/1
+  - Monster/Typ/Humanoid/kobold
+  - Quelle/5e/vgm
 aliases:
   - Kobold Dragonshield
 ---

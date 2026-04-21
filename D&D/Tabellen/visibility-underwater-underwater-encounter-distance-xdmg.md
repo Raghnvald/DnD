@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Visibility Underwater; Underwater Encounter Distance
 tags:
   - Quelle/5e/xdmg
 aliases:

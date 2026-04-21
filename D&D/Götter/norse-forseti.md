@@ -1,11 +1,10 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Forseti
 tags:
-  - Quelle/5e/phb
-  - Kompendium/Götter/norse
   - Kompendium/Götter/Domäne/light
   - Kompendium/Götter/Domäne/order
+  - Kompendium/Götter/norse
+  - Quelle/5e/phb
 aliases:
   - Forseti
 ---

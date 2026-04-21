@@ -1,15 +1,14 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/tdcsr
-  - Monster/HG/14
-  - Monster/Habitat/Wald
-  - Monster/Habitat/Berg
-  - Monster/Größe/Riesig
-  - Monster/Typ/Pflanze
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Wraithroot Tree
+tags:
+  - Monster/Größe/Riesig
+  - Monster/Habitat/Berg
+  - Monster/Habitat/Wald
+  - Monster/HG/14
+  - Monster/Typ/Pflanze
+  - Quelle/5e/tdcsr
 aliases:
   - Wraithroot Tree
 ---

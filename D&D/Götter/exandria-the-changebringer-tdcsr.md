@@ -1,16 +1,15 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: The Changebringer
 tags:
-  - Quelle/5e/tdcsr
-  - Kompendium/Götter/exandria
   - Kompendium/Götter/Domäne/moon
   - Kompendium/Götter/Domäne/nature
   - Kompendium/Götter/Domäne/trickery
+  - Kompendium/Götter/exandria
+  - Quelle/5e/tdcsr
 aliases:
-  - The Changebringer
-  - She Who Makes the Path
   - Avandra
+  - She Who Makes the Path
+  - The Changebringer
 ---
 # The Changebringer
 *Source: Tal'Dorei Campaign Setting Reborn p. 28* 

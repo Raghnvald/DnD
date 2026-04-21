@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Enchantment Spells
 tags:
   - Zauber/list/school/enchantment
 aliases:

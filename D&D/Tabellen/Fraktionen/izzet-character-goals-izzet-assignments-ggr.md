@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Izzet Character Goals; Izzet Assignments
 tags:
   - Quelle/5e/ggr
 aliases:

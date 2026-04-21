@@ -1,11 +1,10 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Zehir
 tags:
-  - Quelle/5e/dmg
   - Kompendium/Götter/dawn-war
   - Kompendium/Götter/Domäne/death
   - Kompendium/Götter/Domäne/trickery
+  - Quelle/5e/dmg
 aliases:
   - Zehir
 ---

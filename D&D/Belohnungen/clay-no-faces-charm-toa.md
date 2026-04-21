@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-reward
+Bezeichnung: "Clay No-Face's Charm"
 tags:
-  - Quelle/5e/toa
   - Kompendium/Belohnung/charm
+  - Quelle/5e/toa
 aliases:
   - Clay No-Face's Charm
 ---

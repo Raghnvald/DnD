@@ -1,10 +1,9 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Laogzed
 tags:
-  - Quelle/5e/phb
-  - Kompendium/Götter/nonhuman
   - Kompendium/Götter/Domäne/death
+  - Kompendium/Götter/nonhuman
+  - Quelle/5e/phb
 aliases:
   - Laogzed
 ---

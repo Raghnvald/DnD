@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Dark Fantasy Villains
 tags:
   - Quelle/5e/vrgr
 aliases:

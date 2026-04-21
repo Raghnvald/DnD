@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Tavick's Landing: Important Districts"
 tags:
   - Quelle/5e/erlw
 aliases:

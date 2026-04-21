@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-feat
+Bezeichnung: Aspect of the Moon
 tags:
-  - Quelle/5e/xge
   - Kompendium/Optionales/ei
+  - Quelle/5e/xge
 aliases:
   - Aspect of the Moon
 ---

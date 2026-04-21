@@ -1,11 +1,10 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Corellon
 tags:
-  - Quelle/5e/egw
-  - Kompendium/Götter/exandria
   - Kompendium/Götter/Domäne/arcana
   - Kompendium/Götter/Domäne/light
+  - Kompendium/Götter/exandria
+  - Quelle/5e/egw
 aliases:
   - Corellon
 ---

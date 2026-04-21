@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Hitting Cover
 tags:
   - Quelle/5e/dmg
 aliases:

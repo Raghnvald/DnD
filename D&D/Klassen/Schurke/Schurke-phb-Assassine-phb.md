@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-class
+Bezeichnung: Assassin
 tags:
-  - Quelle/5e/phb
   - Klasse/Schurke/Assassine
+  - Quelle/5e/phb
 aliases:
   - Assassin
 ---
@@ -41,7 +40,6 @@ aliases:
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 

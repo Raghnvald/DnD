@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Moon Domain
 tags:
   - Zauber/list/subclass/moon-domain
 aliases:

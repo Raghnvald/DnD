@@ -1,10 +1,9 @@
 ---
-cssclasses:
-  - json5e-object
+Bezeichnung: Spirit Blister
 tags:
-  - Quelle/5e/jttrc
   - Kompendium/Objekt/size/medium
   - Kompendium/Objekt/type/siege-weapon
+  - Quelle/5e/jttrc
 aliases:
   - Spirit Blister
 ---

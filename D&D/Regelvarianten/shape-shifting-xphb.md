@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Shape-Shifting
 tags:
   - Quelle/5e/xphb
 aliases:

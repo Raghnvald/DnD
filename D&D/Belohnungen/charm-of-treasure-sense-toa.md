@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-reward
+Bezeichnung: Charm of Treasure Sense
 tags:
-  - Quelle/5e/toa
   - Kompendium/Belohnung/charm
+  - Quelle/5e/toa
 aliases:
   - Charm of Treasure Sense
 ---

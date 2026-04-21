@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Arms of Hadar
 tags:
   - Klasse/Hexenmeister

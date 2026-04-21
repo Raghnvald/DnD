@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mpmm
-  - Monster/HG/9
-  - Monster/Habitat/Arktis
-  - Monster/Größe/Riesig
-  - Monster/Typ/Elementar
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Frost Salamander
+tags:
+  - Monster/Größe/Riesig
+  - Monster/Habitat/Arktis
+  - Monster/HG/9
+  - Monster/Typ/Elementar
+  - Quelle/5e/mpmm
 aliases:
   - Frost Salamander
 ---

@@ -1,5 +1,5 @@
 ---
-cssclasses: json5e-note
+Bezeichnung: Fertigkeitenproben; Typische Schwierigkeitsklassen
 tags:
   - Quelle/5e/phb
 aliases:

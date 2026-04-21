@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Cover
 tags:
   - Quelle/5e/xphb
 aliases:

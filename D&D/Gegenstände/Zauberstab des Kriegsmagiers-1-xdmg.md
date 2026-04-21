@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: +1 Wand of the War Mage
 tags:
   - Gegenstand/Einstimmung/required

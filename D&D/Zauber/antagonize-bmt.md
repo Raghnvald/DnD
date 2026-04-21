@@ -1,7 +1,6 @@
 ---
+Bezeichnung: Antagonize
 Zaubergrad: 3
-cssclasses:
-  - json5e-spell
 tags:
   - Quelle/5e/bmt
   - Zauber/Grad/3
@@ -11,7 +10,6 @@ aliases:
 ---
 # Antagonize
 *3rd-level, Enchantment*  
-
 
 - **Casting time:** 1 Action
 - **Range:** 30 feet

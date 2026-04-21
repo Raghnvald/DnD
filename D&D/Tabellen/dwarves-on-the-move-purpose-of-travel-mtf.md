@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Dwarves on the Move; Purpose of Travel
 tags:
   - Quelle/5e/mtf
 aliases:

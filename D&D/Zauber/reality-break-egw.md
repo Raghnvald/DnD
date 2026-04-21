@@ -1,7 +1,6 @@
 ---
+Bezeichnung: Reality Break
 Zaubergrad: 8
-cssclasses:
-  - json5e-spell
 tags:
   - Quelle/5e/egw
   - Zauber/Grad/8

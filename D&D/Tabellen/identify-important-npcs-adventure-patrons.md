@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Identify Important NPCs; Adventure Patrons
 tags:
   - Quelle/5e/dmg
 aliases:

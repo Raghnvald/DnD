@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Glimmering Moonbow
 Kategorie: Beliebig, Bogen
 tags:

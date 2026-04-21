@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Shatter
 tags:
   - Klasse/Barde
@@ -14,8 +12,8 @@ tags:
   - Quelle/5e/xphb
   - Subklasse/armorer
   - Subklasse/artillerist
-  - Subklasse/Mystischer-Ritter
   - Subklasse/evoker
+  - Subklasse/Mystischer-Ritter
   - Zauber/Grad/2
   - Zauber/optfeature/gong-of-the-summit
   - Zauber/Schule/Hervorrufung

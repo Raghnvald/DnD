@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Difficult Terrain
 tags:
   - Quelle/5e/xphb
 aliases:

@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Dwarven Plate
 Rüstung: Mittel oder Schwer
 tags:

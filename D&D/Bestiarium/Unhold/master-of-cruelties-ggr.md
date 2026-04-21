@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/ggr
-  - Monster/HG/9
-  - Monster/Größe/Groß
-  - Monster/Typ/Unhold/demon
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Master of Cruelties
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/9
+  - Monster/Typ/Unhold/demon
+  - Quelle/5e/ggr
 aliases:
   - Master of Cruelties
 ---

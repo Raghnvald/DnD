@@ -16,8 +16,8 @@ tags:
   - Klasse/Schurke/Arkaner-Betrüger
   - Klasse/Zauberer
   - Quelle/5e/xphb
-  - Subklasse/Mystischer-Ritter
   - Subklasse/fey-wanderer
+  - Subklasse/Mystischer-Ritter
   - Zauber/Grad/4
   - Zauber/Schule/Beschwörung
 classes:

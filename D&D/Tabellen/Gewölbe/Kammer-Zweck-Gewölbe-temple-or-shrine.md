@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Chamber Purpose; Dungeon: Temple or Shrine"
 tags:
   - Quelle/5e/dmg
 aliases:

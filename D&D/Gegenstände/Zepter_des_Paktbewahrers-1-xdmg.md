@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: +1 Rod of the Pact Keeper
 tags:
   - Gegenstand/Einstimmung/required

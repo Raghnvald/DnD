@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Plot Points
 tags:
   - Quelle/5e/dmg
 aliases:

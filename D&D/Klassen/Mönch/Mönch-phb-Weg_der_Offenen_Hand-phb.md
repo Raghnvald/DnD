@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-class
+Bezeichnung: Way of the Open Hand
 tags:
-  - Quelle/5e/phb
   - Klasse/Mönch/open-hand
+  - Quelle/5e/phb
 aliases:
   - Way of the Open Hand
 ---
@@ -41,7 +40,6 @@ aliases:
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 

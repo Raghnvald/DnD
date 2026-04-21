@@ -1,7 +1,5 @@
 ---
-cssclasses:
-  - json5e-spell
-Bezeichnung: Crusader's Mantle
+Bezeichnung: "Crusader's Mantle"
 Zaubergrad: 3
 tags:
   - Klasse/Barde/Magische-Geheimnisse

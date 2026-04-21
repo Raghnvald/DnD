@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Gem Card
 tags:
   - Gegenstand/Seltenheit/legendär

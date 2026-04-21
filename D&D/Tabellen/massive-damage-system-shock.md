@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Massive Damage; System Shock
 tags:
   - Quelle/5e/dmg
 aliases:

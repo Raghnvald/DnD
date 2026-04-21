@@ -1,5 +1,7 @@
 ---
-tags: [Quelle/5e/dmg]
+Bezeichnung: "Kapitel 9: Werkstatt des Spielleiters"
+tags:
+  - Quelle/5e/dmg
 ---
 # Kapitel 9: Werkstatt des Spielleiters
 
@@ -16,10 +18,6 @@ tags: [Quelle/5e/dmg]
 ## Einen magischen Gegenstand erschaffen
 
 ## Neue Charakteroptionen erschaffen
-
-
-
-
 
 Als Spielleiter bist du nicht durch die Regeln im _Spielerhandbuch_, die Richtlinien in diesen Regeln oder die Auswahl an Monstern im _Monsterhandbuch_ eingeschränkt. Du kannst deiner Fantasie freien Lauf lassen. Dieses Kapitel enthält optionale Regeln, mit denen du deine Kampagne anpassen kannst, sowie Richtlinien für die Erstellung von eigenem Material wie Monstern und magischen Gegenständen.
 
@@ -51,7 +49,6 @@ Diese Option ist für Spielercharaktere und Nicht-Spieler-Charaktere gedacht, di
 | 9 - 12  | +4          | `1W8`        |
 | 13 - 16 | +5          | `1W10`       |
 | 17 - 20 | +6          | `1W12`       | 
-
 
 ## Fertigkeits-Varianten
 Eine Fertigkeit legt die Umstände fest, unter denen ein Charakter seinen Fertigkeitsbonus zu einer Fähigkeitsprüfung hinzufügen kann. Fertigkeiten definieren diese Umstände, indem sie sich auf verschiedene Aspekte der sechs Fähigkeitswertungen beziehen. Zum Beispiel sind Akrobatik und Schleichen zwei verschiedene Aspekte von Geschicklichkeit, und ein Charakter kann sich auf einen oder beide spezialisieren.

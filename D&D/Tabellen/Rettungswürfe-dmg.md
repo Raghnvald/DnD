@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Saving Throws
 tags:
   - Quelle/5e/dmg
 aliases:

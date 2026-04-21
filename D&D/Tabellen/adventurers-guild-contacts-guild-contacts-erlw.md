@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Adventurers' Guild Contacts; Guild Contacts"
 tags:
   - Quelle/5e/erlw
 aliases:

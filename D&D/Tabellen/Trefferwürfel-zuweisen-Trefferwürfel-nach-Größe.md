@@ -1,5 +1,5 @@
 ---
-cssclasses: json5e-note
+Bezeichnung: Trefferwürfel zuweisen; Trefferwürfel nach Größe
 tags:
   - Quelle/5e/dmg
 aliases:

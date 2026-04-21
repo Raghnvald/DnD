@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/3
-  - Monster/Habitat/Wald
-  - Monster/Größe/Groß
-  - Monster/Typ/Monstrosität
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Displacer Beast
+tags:
+  - Monster/Größe/Groß
+  - Monster/Habitat/Wald
+  - Monster/HG/3
+  - Monster/Typ/Monstrosität
+  - Quelle/5e/xmm
 aliases:
   - Displacer Beast
 ---
@@ -31,7 +30,6 @@ Displacer beasts sometimes pursue prey through portals to other planes of existe
 > [!quote] A quote from Jen-Ahb, Naturalist and Displacer Beast Survivor  
 > 
 > The murderous fury of a displacer beast is fit only for nightmares, of which I've been haunted since narrowly escaping one's ambush. I'm certain that beast stalks me still.
-
 
 ```statblock
 "name": "Displacer Beast (XMM)"

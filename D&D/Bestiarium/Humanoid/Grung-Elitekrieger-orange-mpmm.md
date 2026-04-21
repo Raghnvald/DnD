@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mpmm
-  - Monster/HG/2
-  - Monster/Habitat/Wald
-  - Monster/Größe/Klein
-  - Monster/Typ/Humanoid
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Grung Elite Warrior (Orange)
+tags:
+  - Monster/Größe/Klein
+  - Monster/Habitat/Wald
+  - Monster/HG/2
+  - Monster/Typ/Humanoid
+  - Quelle/5e/mpmm
 aliases:
   - Grung Elite Warrior (Orange)
 ---

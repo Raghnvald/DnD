@@ -1,3 +1,6 @@
+---
+Bezeichnung: Einleitung
+---
 # Einleitung
 ## Hintergrund
 Vor 700 Jahren eroberten die Priesterkaiser unter Praoislob von Selem das Bornland.
@@ -146,7 +149,6 @@ Sobald die Helden in das Grab eindringen, formt sich Stewains Echo ein letztes M
 In einem Sarg, der in der Mitte der Gruft aufgebahrt ist, liegt Stewains Skelett, das von Ranken, die von allen Seiten in den Sarg hineingewachsen sind, völlig durchdrungen ist.
 
 Sobald die Helden die Ranken durchtrennen, ist der Spuk vorbei.
-
 
 ## Das Ende des Abenteuers
 Wenn die Helden die Bedrohung abgewendet haben werden die Gregorsdorfer sich dankbar zeigen.

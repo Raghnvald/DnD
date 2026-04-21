@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Green Dragon Treasures; Green Dragon Art Objects
 tags:
   - Quelle/5e/ftd
 aliases:

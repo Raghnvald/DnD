@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-race
+Bezeichnung: Dragonborn (Metallic)
 tags:
   - Quelle/5e/ftd
   - Rasse/dragonborn/metallic

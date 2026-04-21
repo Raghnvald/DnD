@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/tdcsr
-  - Monster/HG/12
-  - Monster/Größe/Riesig
-  - Monster/Typ/Konstrukt
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Adranach
+tags:
+  - Monster/Größe/Riesig
+  - Monster/HG/12
+  - Monster/Typ/Konstrukt
+  - Quelle/5e/tdcsr
 aliases:
   - Adranach
 ---

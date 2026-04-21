@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Eternal Mountain Defense
 tags:
   - Zauber/list/optfeature/eternal-mountain-defense
 aliases:

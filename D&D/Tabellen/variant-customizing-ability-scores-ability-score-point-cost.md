@@ -1,5 +1,5 @@
 ---
-cssclasses: json5e-note
+Bezeichnung: "Variant: Customizing Ability Scores; Ability Score Point Cost"
 tags:
   - Quelle/5e/phb
 aliases:

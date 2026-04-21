@@ -1,7 +1,7 @@
 ---
 statblock: inline
 statblock-link: "#^statblock"
-Bezeichnung: Mantler-Mutant
+Bezeichnung: Mantler Mutant
 Kategorie: Aberration
 Größe: Groß
 HG: 10

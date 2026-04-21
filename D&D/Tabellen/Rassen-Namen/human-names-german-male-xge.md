@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Human Names – German, Male
 tags:
   - Quelle/5e/xge
 aliases:

@@ -1,7 +1,5 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Honor's Last Stand (Dormant)
+Bezeichnung: "Honor's Last Stand (Dormant)"
 Rüstung: Schild
 tags:
   - Gegenstand/Einstimmung/required

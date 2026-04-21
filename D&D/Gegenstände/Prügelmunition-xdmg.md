@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Walloping Ammunition
 tags:
   - Gegenstand/Ausrüstung/ammunition

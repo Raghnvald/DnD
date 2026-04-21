@@ -1,7 +1,5 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Executioner's Axe
+Bezeichnung: "Executioner's Axe"
 tags:
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/Waffe/Einfach

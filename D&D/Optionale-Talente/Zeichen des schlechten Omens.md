@@ -1,9 +1,10 @@
 ---
+Bezeichnung: Zeichen des schlechten Omens
 tags:
-- Quelle/5e/phb
-- Kompendium/Optionales/Anrufungen
+  - Kompendium/Optionales/Anrufungen
+  - Quelle/5e/phb
 aliases:
-- Sign of Ill Omen
+  - Sign of Ill Omen
 ---
 # Zeichen des schlechten Omens
 _Quellen:_ Spielerhandbuch

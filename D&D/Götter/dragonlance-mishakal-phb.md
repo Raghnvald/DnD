@@ -1,12 +1,11 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Mishakal
 tags:
-  - Quelle/5e/phb
-  - Kompendium/Götter/dragonlance
   - Kompendium/Götter/Domäne/knowledge
   - Kompendium/Götter/Domäne/life
   - Kompendium/Götter/Domäne/twilight
+  - Kompendium/Götter/dragonlance
+  - Quelle/5e/phb
 aliases:
   - Mishakal
 ---

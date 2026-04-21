@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Duergar
 tags:
   - Zauber/list/race/duergar
 aliases:

@@ -1,16 +1,15 @@
 ---
-cssclasses:
-  - json5e-monster
+statblock: inline
+statblock-link: "#^statblock"
+Bezeichnung: Plainscow
 tags:
-  - Quelle/5e/tdcsr
-  - Monster/HG/2
+  - Monster/Größe/Groß
   - Monster/Habitat/Grasland
   - Monster/Habitat/Hügel
   - Monster/Habitat/Stadt
-  - Monster/Größe/Groß
+  - Monster/HG/2
   - Monster/Typ/Tier
-statblock: inline
-statblock-link: "#^statblock"
+  - Quelle/5e/tdcsr
 aliases:
   - Plainscow
 ---

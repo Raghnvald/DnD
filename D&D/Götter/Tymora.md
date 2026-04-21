@@ -1,12 +1,13 @@
 ---
+Bezeichnung: Tymora, Göttin des Glücks
 tags:
-- Quelle/5e/phb
-- Kompendium/Götter
-- Kompendium/Götter/Gesinnung/Chaotisch_Gut
-- Kompendium/Götter/Pantheon/Faerun
-- Kompendium/Götter/Domäne/List
+  - Kompendium/Götter
+  - Kompendium/Götter/Domäne/List
+  - Kompendium/Götter/Gesinnung/Chaotisch_Gut
+  - Kompendium/Götter/Pantheon/Faerun
+  - Quelle/5e/phb
 aliases:
-- Tymora
+  - Tymora
 ---
 # Tymora, Göttin des Glücks
 _Die Dame des Glücks, Unsere Lächelnde Dame_

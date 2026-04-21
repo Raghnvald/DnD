@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/21
-  - Monster/Habitat/Jedes
-  - Monster/Größe/Groß
-  - Monster/Typ/Fee
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Arch-hag
+tags:
+  - Monster/Größe/Groß
+  - Monster/Habitat/Jedes
+  - Monster/HG/21
+  - Monster/Typ/Fee
+  - Quelle/5e/xmm
 aliases:
   - Arch-hag
 ---

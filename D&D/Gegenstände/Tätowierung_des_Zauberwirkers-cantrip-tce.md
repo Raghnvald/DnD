@@ -1,7 +1,6 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Spellwrought Tattoo (Cantrip)
+Kategorie: Wundersamer Gegenstand
 tags:
   - Gegenstand/Seltenheit/gewöhnlich
   - Gegenstand/wundersam/tattoo

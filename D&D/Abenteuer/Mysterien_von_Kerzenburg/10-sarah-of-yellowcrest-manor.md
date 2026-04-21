@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Sarah of Yellowcrest Manor
 tags:
   - Quelle/5e/cm
 aliases:

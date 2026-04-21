@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Regierungsformen
 tags:
   - Quelle/5e/dmg
 aliases:

@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Rain Catcher
 Kategorie: Abenteuerausrüstung
 tags:

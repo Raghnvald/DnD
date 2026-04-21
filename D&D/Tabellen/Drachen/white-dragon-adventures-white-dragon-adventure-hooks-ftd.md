@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: White Dragon Adventures; White Dragon Adventure Hooks
 tags:
   - Quelle/5e/ftd
 aliases:

@@ -13,14 +13,14 @@ Habitat:
 image: token/shield-guardian.webp
 status: WIP
 tags:
-  - Quelle/5e/mm
-  - Monster/HG/0
+  - Monster/Größe/Mittelgroß
   - Monster/Habitat/Berg
   - Monster/Habitat/Grasland
   - Monster/Habitat/Hügel
   - Monster/Habitat/Stadt
-  - Monster/Größe/Mittelgroß
+  - Monster/HG/0
   - Monster/Typ/Tier
+  - Quelle/5e/mm
 aliases:
   - Goat
 ---

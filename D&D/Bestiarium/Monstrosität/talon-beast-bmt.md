@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/bmt
-  - Monster/HG/7
-  - Monster/Größe/Groß
-  - Monster/Typ/Monstrosität
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Talon Beast
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/7
+  - Monster/Typ/Monstrosität
+  - Quelle/5e/bmt
 aliases:
   - Talon Beast
 ---

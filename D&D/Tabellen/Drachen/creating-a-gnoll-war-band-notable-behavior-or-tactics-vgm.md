@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Creating a Gnoll War Band; Notable Behavior or Tactics
 tags:
   - Quelle/5e/vgm
 aliases:

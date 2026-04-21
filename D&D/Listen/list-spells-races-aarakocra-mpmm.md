@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Aarakocra
 tags:
   - Zauber/list/race/aarakocra
 aliases:

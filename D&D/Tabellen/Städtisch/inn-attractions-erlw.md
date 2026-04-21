@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Inn Attractions
 tags:
   - Quelle/5e/erlw
 aliases:

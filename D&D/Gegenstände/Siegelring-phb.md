@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Signet Ring
 Kategorie: Abenteuerausrüstung
 tags:

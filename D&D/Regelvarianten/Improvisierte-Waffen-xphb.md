@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Improvised Weapons
 tags:
   - Quelle/5e/xphb
 aliases:

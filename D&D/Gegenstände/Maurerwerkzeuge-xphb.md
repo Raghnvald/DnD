@@ -1,13 +1,10 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Mason's Tools
+Bezeichnung: "Mason's Tools"
 tags:
   - Gegenstand/Ausrüstung/Werkzeug
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
-  - Mason's Tools
   - Mason's Tools
 linter-yaml-title-alias: Mason's Tools
 ---

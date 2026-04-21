@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Chapter 3: Danger at Dunwater"
 tags:
   - Quelle/5e/gos
 aliases:

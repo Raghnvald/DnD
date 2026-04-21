@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mm
-  - Monster/HG/10
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Unhold/demon
-  - Monster/Typ/Unhold/shapechanger
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Yochlol
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/10
+  - Monster/Typ/Unhold/demon
+  - Monster/Typ/Unhold/shapechanger
+  - Quelle/5e/mm
 aliases:
   - Yochlol
 ---
@@ -184,7 +183,6 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 > [!quote] A quote from From the Demonomicon of Iggwilv  
 > 
 > Demons are painfully difficult to summon and control. It is not a burden for the weak of heart or the weak of spirit.
-
 
 ```statblock
 "name": "Yochlol"

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Difficulty Class; Typical DCs
 tags:
   - Quelle/5e/xdmg
 aliases:

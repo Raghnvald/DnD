@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mcv4ec
-  - Monster/HG/3
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Monstrosität/elf
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Redtooth Werefox
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/3
+  - Monster/Typ/Monstrosität/elf
+  - Quelle/5e/mcv4ec
 aliases:
   - Redtooth Werefox
 ---
@@ -21,7 +20,6 @@ Unlike other forms of lycanthropy, the werefox curse isn't contagious and is lim
 > [!quote] A quote from Yenna, Redtooth regent  
 > 
 > My people are both bloom and thorn. Our ferocious impulses are as much a part of us as our skills, our beauty, and our history.
-
 
 ```statblock
 "name": "Redtooth Werefox (MCV4EC)"

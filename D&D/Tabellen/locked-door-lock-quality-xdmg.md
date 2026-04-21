@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Locked Door; Lock Quality
 tags:
   - Quelle/5e/xdmg
 aliases:

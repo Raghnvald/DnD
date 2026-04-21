@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Darkon Adventures
 tags:
   - Quelle/5e/vrgr
 aliases:

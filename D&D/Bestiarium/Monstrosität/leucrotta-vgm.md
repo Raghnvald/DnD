@@ -1,15 +1,14 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/vgm
-  - Monster/HG/3
-  - Monster/Habitat/Wüste
-  - Monster/Habitat/Grasland
-  - Monster/Größe/Groß
-  - Monster/Typ/Monstrosität
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Leucrotta
+tags:
+  - Monster/Größe/Groß
+  - Monster/Habitat/Grasland
+  - Monster/Habitat/Wüste
+  - Monster/HG/3
+  - Monster/Typ/Monstrosität
+  - Quelle/5e/vgm
 aliases:
   - Leucrotta
 ---

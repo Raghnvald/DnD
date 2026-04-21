@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: The Sightless
 tags:
-  - Quelle/5e/tdcsr
   - Kompendium/Götter/exandria
+  - Quelle/5e/tdcsr
 aliases:
-  - The Sightless
-  - Sightless One
   - Borrower of Eyes
   - Lurker Behind One Thousand Eyes
+  - Sightless One
+  - The Sightless
 ---
 # The Sightless
 *Source: Tal'Dorei Campaign Setting Reborn p. 41* 

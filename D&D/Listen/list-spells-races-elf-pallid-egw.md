@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Elf (Pallid)
 tags:
   - Zauber/list/subrace/elf-pallid
 aliases:

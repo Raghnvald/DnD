@@ -1,11 +1,11 @@
 ---
-cssclasses: json5e-deity
+Bezeichnung: Oghma, Gott des Wissens
 tags:
-  - Quelle/5e/phb
   - Kompendium/Götter
+  - Kompendium/Götter/Domäne/Wissen
   - Kompendium/Götter/Gesinnung/Neutral
   - Kompendium/Götter/Pantheon/Faerun
-  - Kompendium/Götter/Domäne/Wissen
+  - Quelle/5e/phb
 aliases:
   - Oghma
 ---

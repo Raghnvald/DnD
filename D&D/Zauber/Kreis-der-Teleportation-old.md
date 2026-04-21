@@ -1,5 +1,4 @@
 ---
-cssclasses: json5e-spell
 Bezeichnung: Teleportation Circle
 tags:
   - Klasse/Barde

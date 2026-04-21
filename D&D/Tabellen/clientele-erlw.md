@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Clientele
 tags:
   - Quelle/5e/erlw
 aliases:

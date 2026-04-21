@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: The Grand Masquerade; Grand Masquerade Objectives
 tags:
   - Quelle/5e/vrgr
 aliases:

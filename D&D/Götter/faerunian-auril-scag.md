@@ -1,16 +1,15 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Auril
 tags:
-  - Quelle/5e/scag
-  - Kompendium/Götter/faerunian
   - Kompendium/Götter/Domäne/nature
   - Kompendium/Götter/Domäne/tempest
+  - Kompendium/Götter/faerunian
+  - Quelle/5e/scag
 aliases:
   - Auril
-  - The Frostmaiden
-  - Lady Frostkiss
   - Icedawn
+  - Lady Frostkiss
+  - The Frostmaiden
 ---
 # Auril
 *Source: Sword Coast Adventurer's Guide p. 21* 

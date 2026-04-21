@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "The Secret of Darkon's Doom; Azalin's Fate"
 tags:
   - Quelle/5e/vrgr
 aliases:

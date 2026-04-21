@@ -9,13 +9,13 @@ Angriff:
 Schaden:
 status: WIP
 tags:
+  - Klasse/Artifizient
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
   - Klasse/Druide
   - Klasse/Kleriker
   - Klasse/Kleriker/life-domain
   - Klasse/Kleriker/peace-domain
-  - Klasse/Artifizient
   - Klasse/paladin
   - Klasse/Paladin/Schwur-der-Hingabe
   - Klasse/Waldläufer

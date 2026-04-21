@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Monsters' Desires; Beasts"
 tags:
   - Quelle/5e/tce
 aliases:

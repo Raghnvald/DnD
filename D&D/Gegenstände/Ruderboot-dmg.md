@@ -4,13 +4,13 @@ Kategorie: Luft- und Wasserfahrzeug
 Eigenschaften: /
 Kst.: 50 GM
 Gew.: 50,0 kg.
-Bew.: 2,25 km/h
 tags:
   - Gegenstand/Ausrüstung/Fahrzeug/Wasser
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/dmg
 aliases:
   - Rowboat
+Bew.: 2,25 km/h
 linter-yaml-title-alias: Rowboat
 ---
 # Ruderboot

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Artificer Initiate
 tags:
   - Zauber/list/feat/artificer-initiate
 aliases:

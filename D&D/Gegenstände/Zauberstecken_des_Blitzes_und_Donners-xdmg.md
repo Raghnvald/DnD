@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Staff of Thunder and Lightning
 tags:
   - Gegenstand/Einstimmung/required

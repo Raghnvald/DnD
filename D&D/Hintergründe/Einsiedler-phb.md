@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-background
+Bezeichnung: Einsiedler
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/phb
@@ -9,7 +8,6 @@ aliases:
 ---
 # Einsiedler
 *Source: Player's Handbook p. 134*  
-
 
 - **Skill Proficiencies.** [Medicine](/3-Mechanics/CLI/skills.md#Medicine), [Religion](/3-Mechanics/CLI/skills.md#Religion)  
 - **Tool Proficiencies.** [Herbalism kit](/3-Mechanics/CLI/items/herbalism-kit.md)  

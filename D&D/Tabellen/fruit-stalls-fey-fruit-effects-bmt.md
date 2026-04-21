@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Fruit Stalls; Fey Fruit Effects
 tags:
   - Quelle/5e/bmt
 aliases:

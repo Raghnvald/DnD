@@ -1,11 +1,10 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Callarduran Smoothhands
 tags:
-  - Quelle/5e/mtf
-  - Kompendium/Götter/gnome
   - Kompendium/Götter/Domäne/knowledge
   - Kompendium/Götter/Domäne/nature
+  - Kompendium/Götter/gnome
+  - Quelle/5e/mtf
 aliases:
   - Callarduran Smoothhands
 ---

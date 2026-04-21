@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Customizing Ability Scores
 tags:
   - Quelle/5e/phb
 aliases:

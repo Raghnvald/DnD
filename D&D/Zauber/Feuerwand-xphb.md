@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Wall of Fire
 tags:
   - Klasse/Barde
@@ -13,9 +11,9 @@ tags:
   - Quelle/5e/xphb
   - Subklasse/artillerist
   - Subklasse/celestial-patron
-  - Subklasse/Mystischer-Ritter
   - Subklasse/evoker
   - Subklasse/fiend-patron
+  - Subklasse/Mystischer-Ritter
   - Zauber/Grad/4
   - Zauber/optfeature/river-of-hungry-flame
   - Zauber/Schule/Hervorrufung

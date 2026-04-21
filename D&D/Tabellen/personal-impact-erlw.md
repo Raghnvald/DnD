@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Personal Impact
 tags:
   - Quelle/5e/erlw
 aliases:

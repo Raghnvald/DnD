@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Appendix B: Creatures"
 tags:
   - Quelle/5e/dosi
 aliases:

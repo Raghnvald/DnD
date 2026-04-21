@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Crystal Ball
 tags:
   - Gegenstand/Einstimmung/required

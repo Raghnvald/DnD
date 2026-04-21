@@ -1,16 +1,15 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mpmm
-  - Monster/HG/3
-  - Monster/Habitat/Wald
-  - Monster/Habitat/Hügel
-  - Monster/Habitat/Sumpf
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Monstrosität
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Shadow Mastiff Alpha
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Hügel
+  - Monster/Habitat/Sumpf
+  - Monster/Habitat/Wald
+  - Monster/HG/3
+  - Monster/Typ/Monstrosität
+  - Quelle/5e/mpmm
 aliases:
   - Shadow Mastiff Alpha
 ---

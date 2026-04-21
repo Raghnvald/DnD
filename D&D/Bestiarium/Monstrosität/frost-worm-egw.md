@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/egw
-  - Monster/HG/17
-  - Monster/Größe/Gigantisch
-  - Monster/Typ/Monstrosität
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Frost Worm
+tags:
+  - Monster/Größe/Gigantisch
+  - Monster/HG/17
+  - Monster/Typ/Monstrosität
+  - Quelle/5e/egw
 aliases:
   - Frost Worm
 ---

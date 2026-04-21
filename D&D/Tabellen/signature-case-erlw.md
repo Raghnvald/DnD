@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Signature Case
 tags:
   - Quelle/5e/erlw
 aliases:

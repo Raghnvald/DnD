@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Creating a Gold Dragon; Gold Dragon Ideals
 tags:
   - Quelle/5e/ftd
 aliases:

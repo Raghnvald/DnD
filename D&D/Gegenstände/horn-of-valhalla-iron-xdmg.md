@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Horn of Valhalla, Iron
 tags:
   - Gegenstand/Seltenheit/legendär

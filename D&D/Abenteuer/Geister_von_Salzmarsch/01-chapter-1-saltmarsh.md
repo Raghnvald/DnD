@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Chapter 1: Saltmarsh"
 tags:
   - Quelle/5e/gos
 aliases:

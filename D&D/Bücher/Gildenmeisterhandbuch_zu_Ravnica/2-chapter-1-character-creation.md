@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Chapter 1: Character Creation"
 tags:
   - Quelle/5e/ggr
 aliases:

@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-hazard
+Bezeichnung: Test of the Empty Moon
 tags:
-  - Quelle/5e/bmt
   - Kompendium/Bedrohung/mech
+  - Quelle/5e/bmt
 aliases:
   - Test of the Empty Moon
 ---

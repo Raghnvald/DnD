@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Fenthras
 Kategorie: Fernkampf-Kriegswaffe
 tags:

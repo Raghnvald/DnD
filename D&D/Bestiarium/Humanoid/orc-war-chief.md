@@ -1,20 +1,19 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mm
-  - Monster/HG/4
-  - Monster/Habitat/Arktis
-  - Monster/Habitat/Wald
-  - Monster/Habitat/Grasland
-  - Monster/Habitat/Hügel
-  - Monster/Habitat/Berg
-  - Monster/Habitat/Sumpf
-  - Monster/Habitat/Unterreich
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/orc
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Orc War Chief
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Arktis
+  - Monster/Habitat/Berg
+  - Monster/Habitat/Grasland
+  - Monster/Habitat/Hügel
+  - Monster/Habitat/Sumpf
+  - Monster/Habitat/Unterreich
+  - Monster/Habitat/Wald
+  - Monster/HG/4
+  - Monster/Typ/Humanoid/orc
+  - Quelle/5e/mm
 aliases:
   - Orc War Chief
 ---
@@ -73,7 +72,6 @@ Gruumsh bestows special blessings upon war chiefs who prove themselves in battle
 > [!quote] A quote from An account of War Chief Hartusk's brutality in the aftermath of the Battle of the Cold Vale  
 > 
 > He worked his serrated long knife savagely, tearing out the king's throat to the howls of approval from his legions .The ferocious orc didn't stop there, digging and ripping the blade back and forth unrelentingly until he took the head off the dwarf king's shoulders.
-
 
 ```statblock
 "name": "Orc War Chief"

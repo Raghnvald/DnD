@@ -1,15 +1,14 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/2
-  - Monster/Habitat/mechanus
-  - Monster/Habitat/planar
-  - Monster/Größe/Groß
-  - Monster/Typ/Konstrukt
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Modron Pentadrone
+tags:
+  - Monster/Größe/Groß
+  - Monster/Habitat/mechanus
+  - Monster/Habitat/planar
+  - Monster/HG/2
+  - Monster/Typ/Konstrukt
+  - Quelle/5e/xmm
 aliases:
   - Modron Pentadrone
 ---
@@ -54,7 +53,6 @@ Whether in service to lawful deities or as part of the Great Modron March, modro
 > [!quote] A quote from A planar explorer learning modrons have no sense of humor  
 > 
 > The guide swore "beep boop" meant "hello, friend." I don't know why they're after us!
-
 
 ```statblock
 "name": "Modron Pentadrone (XMM)"

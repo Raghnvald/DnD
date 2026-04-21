@@ -1,3 +1,7 @@
+---
+Bezeichnung: Sigil
+---
+# Sigil
 Basis Informationen
 Ebenentyp	
 Existenzebene
@@ -37,7 +41,6 @@ Glaube
 Keine Angaben
 
 Sigil - die Stadt der Türen - bildet die stets bereisten Kreuzungen des Universums, voll von Portalen, welche zu jedem Platz im Univesum einen Weg bietet.
-
 
 Die Stadt
 Sigil wird von vielen auch die Stadt der Geheimnisse genannt, da alles was bekannt ist scheinbar irgendwo in den Straßen der Stadt in Erfahrung zu bringen ist. Viele sehen Sigil auch als abgeschlossenen Raum, ja gar Käfig an, da man weder leicht hinein oder aber leicht hinaus kommen kann. Am allermeisten jedoch nennt man sie wohl, die Stadt der Türen. Dies kann man alleine schon Aufgrund der Tatsache herleiten, da Sigil scheinbar zu jedem Ort im ganzen Universum ein Portal oder einen Weg hin bietet. Im Übertragenen Sinne gleicht die Stadt einem Knotenpunkt an Verbindungen und Verhältnissen innerhalb der Existenzebenen. Einige weise Gelehrte sind der Meinung das Sigil ein Mikrokosmos - eine kleine Reflektion von Allem das vorhanden ist, alles was sein wird und alles was sein könnte, der durch die Form einer großen planaren gewaltigen Metropole dargestellt wird. Sigil liegt tatsächlich weder in einer der Fundamentalen Ebenen noch in einer Anderen, sondern stellt selbst eine eigene Existenzebene dar. Sie existiert außerhalb der gewöhnlichen Strukturen des restliche Universums und ist auf umständliche Weise mit ihren scheinbaren unendlich vielen Portalen verknüpft. Sigil ist eher unsauber, lautstark und deren überfüllte Straßen stets in Dunst und Rauch gehüllt. Die Stadt wurde innerhalb eines gigantischen hohlen Ringes, welcher keine äußere Hülle zu haben scheint, erbaut. Für ihre Einwohner jedoch, stellt dies das Zentrum des Universums dar und als solches stets kraftvoll und mächtig - voll von allen nur vorstellbaren Schätzen.

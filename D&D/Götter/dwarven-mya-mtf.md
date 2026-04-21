@@ -1,11 +1,10 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Mya
 tags:
-  - Quelle/5e/mtf
-  - Kompendium/Götter/dwarven
   - Kompendium/Götter/Domäne/knowledge
   - Kompendium/Götter/Domäne/life
+  - Kompendium/Götter/dwarven
+  - Quelle/5e/mtf
 aliases:
   - Mya
 ---

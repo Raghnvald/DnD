@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: House Tarkanan Assignments
 tags:
   - Quelle/5e/erlw
 aliases:

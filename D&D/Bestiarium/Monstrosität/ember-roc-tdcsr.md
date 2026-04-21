@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/tdcsr
-  - Monster/HG/14
-  - Monster/Habitat/Berg
-  - Monster/Größe/Gigantisch
-  - Monster/Typ/Monstrosität
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Ember Roc
+tags:
+  - Monster/Größe/Gigantisch
+  - Monster/Habitat/Berg
+  - Monster/HG/14
+  - Monster/Typ/Monstrosität
+  - Quelle/5e/tdcsr
 aliases:
   - Ember Roc
 ---

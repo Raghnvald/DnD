@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Creating a Copper Dragon; Copper Dragon Spellcasting
 tags:
   - Quelle/5e/ftd
 aliases:

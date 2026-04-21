@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Caer-Konig
 tags:
   - Quelle/5e/idrotf
 aliases:

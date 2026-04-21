@@ -1,7 +1,5 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Panzer der Morgenröte-Märtyrerin
+Bezeichnung: Plate of the Dawnmartyr
 Rüstung: Schwer
 tags:
   - Gegenstand/Einstimmung/required

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-hazard
+Bezeichnung: Vicious Vine
 tags:
   - Quelle/5e/xdmg
 aliases:

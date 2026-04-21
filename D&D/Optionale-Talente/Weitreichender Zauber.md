@@ -1,9 +1,10 @@
 ---
+Bezeichnung: Weitreichender Zauber
 tags:
-- Quelle/5e/phb
-- Kompendium/Optionales/Metamagie
+  - Kompendium/Optionales/Metamagie
+  - Quelle/5e/phb
 aliases:
-- Distant Spell
+  - Distant Spell
 ---
 # Weitreichender Zauber
 _Quellen:_ Spielerhandbuch

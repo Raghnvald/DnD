@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Sunburst
 Zaubergrad: 8
 tags:

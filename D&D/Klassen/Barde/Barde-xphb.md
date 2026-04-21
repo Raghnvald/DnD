@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-class
+Bezeichnung: Bard
 tags:
   - Klasse/Barde
   - Quelle/5e/xphb

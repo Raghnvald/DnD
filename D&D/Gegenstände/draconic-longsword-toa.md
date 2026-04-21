@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Draconic Longsword
 Kategorie: Nahkampf-Kriegswaffe
 tags:

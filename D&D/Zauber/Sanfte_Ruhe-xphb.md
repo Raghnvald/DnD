@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Gentle Repose
 tags:
   - Klasse/Barde

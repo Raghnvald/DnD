@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Misty Step
 tags:
   - Klasse/Barde
@@ -18,9 +16,9 @@ tags:
   - Rasse/elf/high-elf
   - Rasse/githyanki
   - Subklasse/archfey-patron
-  - Subklasse/Mystischer-Ritter
   - Subklasse/fey-wanderer
   - Subklasse/horizon-walker
+  - Subklasse/Mystischer-Ritter
   - Subrasse/elf-eladrin
   - Zauber/Grad/2
   - Zauber/Schule/Beschwörung

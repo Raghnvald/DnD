@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Gods and Adventures; Annam's Children Adventures"
 tags:
   - Quelle/5e/bgg
 aliases:

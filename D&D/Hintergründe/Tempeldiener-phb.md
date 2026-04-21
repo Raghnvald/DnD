@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-background
+Bezeichnung: Acolyte
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/phb
@@ -9,7 +8,6 @@ aliases:
 ---
 # Acolyte
 *Source: Player's Handbook p. 127. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
-
 
 - **Skill Proficiencies.** [Insight](/3-Mechanics/CLI/skills.md#Insight), [Religion](/3-Mechanics/CLI/skills.md#Religion)  
 - **Languages.** Two of your choice  

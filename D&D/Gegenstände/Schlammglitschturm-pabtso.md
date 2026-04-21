@@ -1,7 +1,9 @@
 ---
 Bezeichnung: Mudslick Tower
+Kategorie: Wundersamer Gegenstand 
 tags:
   - Gegenstand/Seltenheit/sehr_selten
+  - Gegenstand/wundersam
   - Quelle/5e/pabtso
 aliases:
   - Mudslick Tower

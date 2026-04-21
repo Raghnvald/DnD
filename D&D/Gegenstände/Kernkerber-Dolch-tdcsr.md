@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Kernkerber-Dolch
+Bezeichnung: Corecut Dagger
 Kategorie: Einfache Nahkampfwaffe
 Einstimmung: erfordert
 tags:

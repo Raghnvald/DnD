@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Storm Giant Bag Contents; Storm Giant Bag Items
 tags:
   - Quelle/5e/bgg
 aliases:

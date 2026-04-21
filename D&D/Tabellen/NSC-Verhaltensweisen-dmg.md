@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: NPC Mannerisms
 tags:
   - Quelle/5e/dmg
 aliases:

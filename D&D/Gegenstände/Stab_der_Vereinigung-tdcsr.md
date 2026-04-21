@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Stab der Vereinigung
+Bezeichnung: Spire of Conflux
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär

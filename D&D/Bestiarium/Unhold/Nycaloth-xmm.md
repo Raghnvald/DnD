@@ -1,15 +1,14 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/9
-  - Monster/Habitat/gehenna
-  - Monster/Habitat/planar
-  - Monster/Größe/Groß
-  - Monster/Typ/Unhold/yugoloth
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Nycaloth
+tags:
+  - Monster/Größe/Groß
+  - Monster/Habitat/gehenna
+  - Monster/Habitat/planar
+  - Monster/HG/9
+  - Monster/Typ/Unhold/yugoloth
+  - Quelle/5e/xmm
 aliases:
   - Nycaloth
 ---

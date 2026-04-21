@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-hazard
+Bezeichnung: Deep Water
 tags:
-  - Quelle/5e/xdmg
   - Kompendium/Bedrohung/env
+  - Quelle/5e/xdmg
 aliases:
   - Deep Water
 ---

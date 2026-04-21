@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Tome of Clear Thought
 tags:
   - Gegenstand/Seltenheit/sehr_selten

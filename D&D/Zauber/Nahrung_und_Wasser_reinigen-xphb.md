@@ -8,11 +8,11 @@ Wirkungsdauer:
 Angriff:
 Schaden:
 tags:
+  - Klasse/Artifizient
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
   - Klasse/Druide
   - Klasse/Kleriker
-  - Klasse/Artifizient
   - Klasse/paladin
   - Kompendium/Talent/artificer-initiate
   - Kompendium/Talent/magic-initiate/druid-spells

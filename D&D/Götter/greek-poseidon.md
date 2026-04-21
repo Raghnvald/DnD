@@ -1,10 +1,9 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Poseidon
 tags:
-  - Quelle/5e/phb
-  - Kompendium/Götter/greek
   - Kompendium/Götter/Domäne/tempest
+  - Kompendium/Götter/greek
+  - Quelle/5e/phb
 aliases:
   - Poseidon
 ---

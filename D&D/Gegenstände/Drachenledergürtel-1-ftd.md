@@ -1,5 +1,6 @@
 ---
 Bezeichnung: +1 Dragonhide Belt
+Kategorie: Wundersamer Gegenstand
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/ungewöhnlich

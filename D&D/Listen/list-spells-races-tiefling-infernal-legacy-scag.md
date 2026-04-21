@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Tiefling (Infernal Legacy)
 tags:
   - Zauber/list/subrace/tiefling-infernal-legacy
 aliases:

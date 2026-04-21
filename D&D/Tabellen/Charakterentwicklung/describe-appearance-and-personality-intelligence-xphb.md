@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Describe Appearance and Personality; Intelligence
 tags:
   - Quelle/5e/xphb
 aliases:

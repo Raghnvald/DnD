@@ -1,15 +1,14 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mpmm
-  - Monster/HG/1-4
-  - Monster/Habitat/Grasland
-  - Monster/Habitat/Stadt
-  - Monster/Größe/Groß
-  - Monster/Typ/Tier/cattle
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Ox
+tags:
+  - Monster/Größe/Groß
+  - Monster/Habitat/Grasland
+  - Monster/Habitat/Stadt
+  - Monster/HG/1-4
+  - Monster/Typ/Tier/cattle
+  - Quelle/5e/mpmm
 aliases:
   - Ox
 ---

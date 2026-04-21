@@ -1,7 +1,6 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Dispelling Stone
+Kategorie: Wundersamer Gegenstand
 tags:
   - Gegenstand/Seltenheit/sehr_selten
   - Quelle/5e/egw

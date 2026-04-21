@@ -1,5 +1,7 @@
 ---
-tags: [Quelle/5e/dmg]
+Bezeichnung: "Kapitel 7: Schätze"
+tags:
+  - Quelle/5e/dmg
 ---
 # Kapitel 7: Schätze
 
@@ -82,7 +84,7 @@ Insofern die Beschreibung der Rüstung nichts anderes sagt, muss sie getragen we
 $\quad$Manche Arten von magischen Rüstungen spezifizieren, um welche Art von Rüstung es sich handelt, z.B. einen Kettenpanzer oder einen Plattenpanzer. Wenn eine magische Rüstung nicht spezifiziert, welcher Art sie ist, kannst du den Typ aussuchen oder zufällig festlegen.
 
 #### Schriftrollen
-Die verbreitetste Art der Schriftrolle ist die Zauberschriftrolle, ein Zauber, der in geschriebener Form aufbewahrt wird, aber andere Schriftrollen, wie die [[Schriftrolle des Schutzes]], beinhalten eine Zauberformel, die kein Zauberspruch ist. Was auch immer sie jedoch enthält, eine Schriftrolle ist eine Rolle aus Papier. Manchmal ist sie an einem Stück Holz befestigt und normalerweise wird sie in einer Röhre aus Elfenbein, Jade, Leder, Metall oder Holz aufbewahrt.
+Die verbreitetste Art der Schriftrolle ist die Zauberschriftrolle, ein Zauber, der in geschriebener Form aufbewahrt wird, aber andere Schriftrollen, wie die [[Schriftrolle des Schutzes-old]], beinhalten eine Zauberformel, die kein Zauberspruch ist. Was auch immer sie jedoch enthält, eine Schriftrolle ist eine Rolle aus Papier. Manchmal ist sie an einem Stück Holz befestigt und normalerweise wird sie in einer Röhre aus Elfenbein, Jade, Leder, Metall oder Holz aufbewahrt.
 
 $\quad$Eine Schriftrolle ist ein verbrauchbarer magischer Gegenstand. Den Zauber, den die Schriftrolle enthält, zu entfesseln, benötigt eine Aktion, um die Rolle zu lesen. Wenn die Magie gewirkt wurde, kann die Schriftrolle kein weiteres Mal benutzt werden. Ihre Worte verschwinden, oder sie löst sich zu Staub auf. Insofern die Beschreibung der Schriftrolle nichts anderes sagt, kann jede Kreatur, die fähig ist, eine geschriebene Sprache zu verstehen, die Schriftrolle lesen und versuchen, sie zu aktivieren.
 

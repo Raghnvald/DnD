@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Paper Bird
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich

@@ -12,8 +12,8 @@ tags:
   - Klasse/Magier
   - Quelle/5e/phb
   - Subklasse/Arkaner-Betrüger
-  - Subklasse/Mystischer-Ritter
   - Subklasse/knowledge-domain
+  - Subklasse/Mystischer-Ritter
   - Zauber/Grad/4
   - Zauber/optfeature/visions-of-distant-realms
   - Zauber/Schule/Erkenntnis

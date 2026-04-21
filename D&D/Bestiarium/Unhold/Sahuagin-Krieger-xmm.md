@@ -1,15 +1,14 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/1-2
-  - Monster/Habitat/Küste
-  - Monster/Habitat/underwater
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Unhold
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Sahuagin Warrior
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Küste
+  - Monster/Habitat/underwater
+  - Monster/HG/1-2
+  - Monster/Typ/Unhold
+  - Quelle/5e/xmm
 aliases:
   - Sahuagin Warrior
 ---
@@ -32,7 +31,6 @@ Sahuagin constantly war on any peoples living near their territory. Merfolk and 
 > [!quote] A quote from Tiguran Maremrynd  
 > 
 > When a sahuagin comes at you, it doesn't seem to be living until it bites you. Then the thing's black eyes turn red as hellfire and the waves foam crimson. Then comes the screaming.
-
 
 ```statblock
 "name": "Sahuagin Warrior (XMM)"

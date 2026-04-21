@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Blinding Smite
+Bezeichnung: "Blendendes Niederstrecken "
 Zaubergrad: 3
 Zeitaufwand: 
 Reichweite: 

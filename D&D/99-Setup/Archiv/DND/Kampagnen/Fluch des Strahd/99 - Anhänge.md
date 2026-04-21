@@ -1,5 +1,7 @@
 ---
-tags: [Quelle/5e/cos]
+Bezeichnung: "Anhang A: Charakter-Optionen"
+tags:
+  - Quelle/5e/cos
 ---
 # Anhang A: Charakter-Optionen
 

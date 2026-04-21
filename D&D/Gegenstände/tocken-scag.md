@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Tocken
 Kategorie: Werkzeug
 tags:

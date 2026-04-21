@@ -1,15 +1,14 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/14
-  - Monster/Habitat/nine-hells
-  - Monster/Habitat/planar
-  - Monster/Größe/Groß
-  - Monster/Typ/Unhold/devil
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Ice Devil
+tags:
+  - Monster/Größe/Groß
+  - Monster/Habitat/nine-hells
+  - Monster/Habitat/planar
+  - Monster/HG/14
+  - Monster/Typ/Unhold/devil
+  - Quelle/5e/xmm
 aliases:
   - Ice Devil
 ---
@@ -34,7 +33,6 @@ Ice devils usually lurk in frozen realms, particularly the frigid layer of Cania
 > [!quote] A quote from Tasha  
 > 
 > Part of the charm of ice devils is that they always think they're smarter than you. Mmm—there are few pleasures sweeter than proving a devil wrong.
-
 
 ```statblock
 "name": "Ice Devil (XMM)"

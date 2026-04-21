@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Dice Set
 tags:
   - Gegenstand/Ausrüstung/Spielset

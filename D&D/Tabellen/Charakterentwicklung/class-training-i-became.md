@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Class Training; I became...
 tags:
   - Quelle/5e/xge
 aliases:

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Crawling
 tags:
   - Quelle/5e/xphb
 aliases:

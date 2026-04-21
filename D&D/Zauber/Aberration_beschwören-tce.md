@@ -13,8 +13,8 @@ tags:
   - Klasse/Schurke/Arkaner-Betrüger
   - Quelle/5e/tce
   - Subklasse/aberrant-sorcery
-  - Subklasse/Mystischer-Ritter
   - Subklasse/great-old-one-patron
+  - Subklasse/Mystischer-Ritter
   - Zauber/Grad/4
   - Zauber/Schule/Beschwörung
 classes:

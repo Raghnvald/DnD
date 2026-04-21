@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Examples of Faction Ranks
 tags:
   - Quelle/5e/dmg
 aliases:

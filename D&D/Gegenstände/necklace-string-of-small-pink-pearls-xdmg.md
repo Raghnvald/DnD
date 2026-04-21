@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Necklace string of small pink pearls
 tags:
   - Gegenstand/Ausrüstung/treasure-art-object

@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mm
-  - Monster/HG/1-4
-  - Monster/Habitat/underwater
-  - Monster/Größe/Klein
-  - Monster/Typ/Elementar
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Steam Mephit
+tags:
+  - Monster/Größe/Klein
+  - Monster/Habitat/underwater
+  - Monster/HG/1-4
+  - Monster/Typ/Elementar
+  - Quelle/5e/mm
 aliases:
   - Steam Mephit
 ---

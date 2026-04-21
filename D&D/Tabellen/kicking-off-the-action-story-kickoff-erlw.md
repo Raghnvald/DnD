@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Kicking Off the Action; Story Kickoff
 tags:
   - Quelle/5e/erlw
 aliases:

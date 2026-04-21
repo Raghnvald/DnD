@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/ggr
-  - Monster/HG/4
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/kraul
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Kraul Death Priest
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/4
+  - Monster/Typ/Humanoid/kraul
+  - Quelle/5e/ggr
 aliases:
   - Kraul Death Priest
 ---

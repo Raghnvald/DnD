@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-race
+Bezeichnung: Kobold
 tags:
   - Quelle/5e/vgm
   - Rasse/kobold

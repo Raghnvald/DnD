@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-feat
+Bezeichnung: Precision Attack
 tags:
-  - Quelle/5e/xphb
   - Kompendium/Optionales/mv-b
+  - Quelle/5e/xphb
 aliases:
   - Precision Attack
 ---

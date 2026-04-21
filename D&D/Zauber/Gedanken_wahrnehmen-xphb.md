@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Detect Thoughts
 tags:
   - Klasse/Barde
@@ -13,8 +11,8 @@ tags:
   - Rasse/githzerai
   - Subklasse/aberrant-sorcery
   - Subklasse/diviner
-  - Subklasse/Mystischer-Ritter
   - Subklasse/great-old-one-patron
+  - Subklasse/Mystischer-Ritter
   - Zauber/Grad/2
   - Zauber/Schule/Erkenntnis
 classes:

@@ -1,7 +1,8 @@
 ---
+Bezeichnung: Abjurer
 tags:
-  - Quelle/5e/xphb
   - Klasse/Magier/abjurer
+  - Quelle/5e/xphb
 aliases:
   - Abjurer
 ---
@@ -39,7 +40,6 @@ aliases:
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 

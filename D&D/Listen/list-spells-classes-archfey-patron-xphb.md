@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Archfey Patron
 tags:
   - Zauber/list/subclass/archfey-patron
 aliases:

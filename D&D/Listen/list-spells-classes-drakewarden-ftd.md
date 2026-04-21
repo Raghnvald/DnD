@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Drakewarden
 tags:
   - Zauber/list/subclass/drakewarden
 aliases:

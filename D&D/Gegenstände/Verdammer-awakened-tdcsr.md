@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Condemner (Awakened)
 Kategorie: Fernkampf-Kriegswaffe
 tags:

@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Staff of the Rooted Hills
 tags:
   - Gegenstand/Einstimmung/required

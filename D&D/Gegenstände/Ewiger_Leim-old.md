@@ -1,6 +1,6 @@
 ---
-cssclasses: json5e-item
 Bezeichnung: Ewiger Leim
+Kategorie: Wundersamer Gegenstand
 tags:
   - Gegenstand/Seltenheit/legendär
   - Gegenstand/wundersam

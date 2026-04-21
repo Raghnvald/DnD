@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Holy Symbol (Varies); Holy Symbols
 tags:
   - Quelle/5e/xphb
 aliases:

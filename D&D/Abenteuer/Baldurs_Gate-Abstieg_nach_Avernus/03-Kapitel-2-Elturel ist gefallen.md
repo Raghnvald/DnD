@@ -1,5 +1,7 @@
 ---
-tags: [Quelle/5e/bgdia]
+Bezeichnung: "<center> Kapitel 2: Elturel ist gefallen </center>"
+tags:
+  - Quelle/5e/bgdia
 ---
 # <center> Kapitel 2: Elturel ist gefallen </center>
 

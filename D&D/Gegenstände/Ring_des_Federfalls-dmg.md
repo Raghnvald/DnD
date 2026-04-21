@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Ring of Feather Falling
+Kategorie: Ring
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten

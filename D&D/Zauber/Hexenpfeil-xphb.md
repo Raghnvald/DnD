@@ -16,8 +16,8 @@ tags:
   - Klasse/Zauberer
   - Kompendium/Talent/magic-initiate/wizard-spells
   - Quelle/5e/xphb
-  - Subklasse/Mystischer-Ritter
   - Subklasse/evoker
+  - Subklasse/Mystischer-Ritter
   - Zauber/Grad/1
   - Zauber/Schule/Hervorrufung
 classes:

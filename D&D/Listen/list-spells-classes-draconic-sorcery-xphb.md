@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Draconic Sorcery
 tags:
   - Zauber/list/subclass/draconic-sorcery
 aliases:

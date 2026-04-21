@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mtf
-  - Monster/HG/5
-  - Monster/Habitat/Stadt
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Unhold
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Demonic Cambion (Baphomet)
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Stadt
+  - Monster/HG/5
+  - Monster/Typ/Unhold
+  - Quelle/5e/mtf
 aliases:
   - Demonic Cambion (Baphomet)
 ---

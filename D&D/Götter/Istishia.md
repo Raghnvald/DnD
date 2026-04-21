@@ -1,11 +1,11 @@
 ---
-cssclasses: json5e-deity
+Bezeichnung: lstishia, Göttin des Wassers
 tags:
-  - Quelle/5e/phb
   - Kompendium/Götter
+  - Kompendium/Götter/Domäne/Sturm
   - Kompendium/Götter/Gesinnung/Neutral
   - Kompendium/Götter/Pantheon/Faerun
-  - Kompendium/Götter/Domäne/Sturm
+  - Quelle/5e/phb
 aliases:
   - Istishia
 ---

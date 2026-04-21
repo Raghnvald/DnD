@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Platinum
 tags:
   - Gegenstand/Ausrüstung/Handelsgut

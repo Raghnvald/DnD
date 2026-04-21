@@ -1,6 +1,7 @@
 ---
 prefer-view:
   - edit-source read
+Bezeichnung: Schwur der Wächter
 status:
   - completed
 tags:

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Physical Variations; Type 4 Malison: Lower Body"
 tags:
   - Quelle/5e/vgm
 aliases:

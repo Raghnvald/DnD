@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Fire Storm
 Zaubergrad: 7
 tags:

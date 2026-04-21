@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Basiseinrichtung vergrößern
+Bezeichnung: Enlarging Basic Facilities
 Kategorie: Bastion
 tags:
   - Quelle/5e/xdmg

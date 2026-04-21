@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-race
+Bezeichnung: Halfling (Lotusden)
 tags:
   - Quelle/5e/egw
   - Rasse/halfling/lotusden
@@ -104,6 +103,5 @@ A halfling has a given name, a family name, and possibly a nickname. Family name
 - **Male Names.** Alton, Ander, Cade, Corrin, Eldon, Errich, Finnan, Garret, Lindal, Lyle, Merric, Milo, Osborn, Perrin, Reed, Roscoe, Wellby  
 - **Female Names.** Andry, Bree, Callie, Cora, Euphemia, Jillian, Kithri, Lavinia, Lidda, Merla, Nedda, Paela, Portia, Seraphina, Shaena, Trym, Vani, Verna  
 - **Family Names.** Brushgather, Goodbarrel, Greenbottle, High-hill, Hilltopple, Leagallow, Tealeaf, Thorngage, Tosscobble, Underbough  
-
 
 ![](/3-Mechanics/CLI/races/img/halfling.webp#center)

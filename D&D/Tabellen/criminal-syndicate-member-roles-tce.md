@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Criminal Syndicate Member Roles
 tags:
   - Quelle/5e/tce
 aliases:

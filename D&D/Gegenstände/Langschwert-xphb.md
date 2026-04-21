@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Longsword
 tags:
   - Gegenstand/Seltenheit/keine

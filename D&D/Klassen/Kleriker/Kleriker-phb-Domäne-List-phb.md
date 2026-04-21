@@ -1,10 +1,9 @@
 ---
-cssclasses:
-  - json5e-class
+Bezeichnung: Trickery Domain
 tags:
-  - Quelle/5e/phb
-  - Kompendium/Götter/Domäne/trickery
   - Klasse/Kleriker/trickery
+  - Kompendium/Götter/Domäne/trickery
+  - Quelle/5e/phb
 aliases:
   - Trickery Domain
 ---
@@ -42,7 +41,6 @@ aliases:
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 

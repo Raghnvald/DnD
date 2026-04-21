@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Inspiration
 tags:
   - Quelle/5e/dmg
 aliases:

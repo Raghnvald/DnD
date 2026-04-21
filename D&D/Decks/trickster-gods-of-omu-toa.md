@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-deck
+Bezeichnung: Trickster Gods of Omu
 tags:
   - Quelle/5e/toa
 aliases:

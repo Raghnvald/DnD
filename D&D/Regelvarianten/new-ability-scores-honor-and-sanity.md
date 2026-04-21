@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "New Ability Scores: Honor and Sanity"
 tags:
   - Quelle/5e/dmg
 aliases:

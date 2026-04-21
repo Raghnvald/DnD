@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: A Book of Books
 tags:
   - Quelle/5e/cm
 aliases:

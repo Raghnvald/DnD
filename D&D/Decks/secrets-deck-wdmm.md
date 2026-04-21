@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-deck
+Bezeichnung: Secrets Deck
 tags:
   - Quelle/5e/wdmm
 aliases:

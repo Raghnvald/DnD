@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mm
-  - Monster/HG/5
-  - Monster/Habitat/Unterreich
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Elementar
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Xorn
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Unterreich
+  - Monster/HG/5
+  - Monster/Typ/Elementar
+  - Quelle/5e/mm
 aliases:
   - Xorn
 ---
@@ -26,7 +25,6 @@ Possessed of the power of elemental earth, a xorn glides through stone and dirt 
 > [!quote] A quote from X the Mystic's 6th rule of dungeon survival  
 > 
 > Keep a few gems in your pocket. A hungry xorn is a helpful xorn.
-
 
 ```statblock
 "name": "Xorn"

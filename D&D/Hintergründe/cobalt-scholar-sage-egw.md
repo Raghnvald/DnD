@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-background
+Bezeichnung: Cobalt Scholar (Sage)
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/egw
@@ -9,7 +8,6 @@ aliases:
 ---
 # Cobalt Scholar (Sage)
 *Source: Explorer's Guide to Wildemount p. 203*  
-
 
 - **Skill Proficiencies.** [Arcana](/3-Mechanics/CLI/skills.md#Arcana), [History](/3-Mechanics/CLI/skills.md#History)  
 - **Languages.** Two of your choice  

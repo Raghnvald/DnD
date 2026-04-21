@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Guild Adventures
 tags:
   - Quelle/5e/erlw
 aliases:

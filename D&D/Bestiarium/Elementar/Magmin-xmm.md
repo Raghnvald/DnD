@@ -1,15 +1,14 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/1-2
-  - Monster/Habitat/fire
-  - Monster/Habitat/planar
-  - Monster/Größe/Klein
-  - Monster/Typ/Elementar
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Magmin
+tags:
+  - Monster/Größe/Klein
+  - Monster/Habitat/fire
+  - Monster/Habitat/planar
+  - Monster/HG/1-2
+  - Monster/Typ/Elementar
+  - Quelle/5e/xmm
 aliases:
   - Magmin
 ---

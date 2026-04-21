@@ -1,11 +1,10 @@
 ---
-cssclasses:
-  - json5e-vehicle
+Bezeichnung: Apparatus of Kwalish
 tags:
-  - Quelle/5e/dmg
   - Gegenstand/Fortbewegung/size/large
   - Gegenstand/Fortbewegung/terrain/sea
   - Gegenstand/Fortbewegung/type/object
+  - Quelle/5e/dmg
 aliases:
   - Apparatus of Kwalish
 ---

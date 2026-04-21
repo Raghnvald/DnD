@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Urban Chase Complications
 tags:
   - Quelle/5e/xdmg
 aliases:

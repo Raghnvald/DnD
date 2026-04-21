@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/gos
-  - Monster/HG/6
-  - Monster/Größe/Groß
-  - Monster/Typ/Konstrukt
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Minotaur Living Crystal Statue
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/6
+  - Monster/Typ/Konstrukt
+  - Quelle/5e/gos
 aliases:
   - Minotaur Living Crystal Statue
 ---

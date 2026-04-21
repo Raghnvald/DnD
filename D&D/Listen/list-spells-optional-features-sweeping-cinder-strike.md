@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Sweeping Cinder Strike
 tags:
   - Zauber/list/optfeature/sweeping-cinder-strike
 aliases:

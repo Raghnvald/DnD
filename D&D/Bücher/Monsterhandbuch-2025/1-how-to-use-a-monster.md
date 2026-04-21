@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: How to Use a Monster
 tags:
   - Quelle/5e/xmm
 aliases:

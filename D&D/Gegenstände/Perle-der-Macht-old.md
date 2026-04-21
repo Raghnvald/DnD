@@ -1,6 +1,6 @@
 ---
-cssclasses: json5e-item
 Bezeichnung: Perle der Macht
+Kategorie: Wundersamer Gegenstand
 tags:
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam

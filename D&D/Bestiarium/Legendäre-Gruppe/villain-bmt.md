@@ -1,16 +1,14 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Villain
 tags:
-  - Quelle/5e/bmt
   - Monster/legendary-group
+  - Quelle/5e/bmt
 aliases:
   - Villain
 ---
 # Villain
 
 ## Lair Actions
-
 
 On initiative count 20 (losing initiative ties) while in its lair, the villain can take one of the following lair actions; the villain can't take the same lair action two rounds in a row:
 
@@ -19,7 +17,6 @@ On initiative count 20 (losing initiative ties) while in its lair, the villain c
 - **Traps.** Traps target up to two creatures the villain can see in the lair. Each target must succeed on a DC 15 Dexterity saving throw or be struck by a trap. The villain rolls a number of d6s equal to its proficiency bonus, and struck targets take damage equal to the total. The damage is bludgeoning, piercing, slashing, fire, or poison, chosen by the villain when the villain uses this action.  
 
 ## Regional Effects
-
 
 The region containing a villain's lair is warped by their presence, creating one or more of the following effects:
 

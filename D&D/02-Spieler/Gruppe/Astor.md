@@ -1,23 +1,22 @@
 ---
-Bezeichnung: Astor Doodle Dash
-Rasse:
-Klasse: Magier
-Unterklasse:
-level: 10
-hp: 73
-ac: 19
-modifier: 2
-pW: "11"
-ZR: "16"
+Bezeichnung: Nebenhand
 tags:
   - player
+ac: 19
+hp: 73
+Klasse: Magier
+level: 10
+modifier: 2
+pW: "11"
+Rasse:
+Unterklasse:
+ZR: "16"
 ---
 
 # Nebenhand
 
 ## Tome of the Stilled Tongue
 *Wondrous item, major, legendary (requires attunement by a wizard)*  
-
 
 - **Weight**: 5.0 lbs.
 
@@ -28,7 +27,6 @@ If you can attune to this item, you can use it as a spellbook and an arcane focu
 While attuned to the book, you can remove the tongue from the book's cover. If you do so, all spells written in the book are permanently erased.
 
 Vecna watches anyone using this tome. He can also write cryptic messages in the book. These messages appear at midnight and fade away after they are read.
-
 
 ---
 

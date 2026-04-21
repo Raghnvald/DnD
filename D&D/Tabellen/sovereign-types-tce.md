@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Sovereign Types
 tags:
   - Quelle/5e/tce
 aliases:

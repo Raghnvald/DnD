@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-feat
+Bezeichnung: Rune Shaper
 tags:
-  - Quelle/5e/bgg
   - Kompendium/Talent
+  - Quelle/5e/bgg
 aliases:
   - Rune Shaper
 ---

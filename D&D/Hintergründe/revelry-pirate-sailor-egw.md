@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-background
+Bezeichnung: Revelry Pirate (Sailor)
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/egw
@@ -9,7 +8,6 @@ aliases:
 ---
 # Revelry Pirate (Sailor)
 *Source: Explorer's Guide to Wildemount p. 203*  
-
 
 - **Skill Proficiencies.** [Athletics](/3-Mechanics/CLI/skills.md#Athletics), [Perception](/3-Mechanics/CLI/skills.md#Perception)  
 - **Tool Proficiencies.** [Navigator's tools](/3-Mechanics/CLI/items/navigators-tools-xphb.md), vehicles (water)  

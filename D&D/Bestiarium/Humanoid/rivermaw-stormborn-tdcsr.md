@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/tdcsr
-  - Monster/HG/5
-  - Monster/Habitat/Grasland
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/any
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Rivermaw Stormborn
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Grasland
+  - Monster/HG/5
+  - Monster/Typ/Humanoid/any
+  - Quelle/5e/tdcsr
 aliases:
   - Rivermaw Stormborn
 ---

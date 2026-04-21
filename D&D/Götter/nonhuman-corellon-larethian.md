@@ -1,11 +1,10 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Corellon Larethian
 tags:
-  - Quelle/5e/phb
-  - Kompendium/Götter/nonhuman
   - Kompendium/Götter/Domäne/arcana
   - Kompendium/Götter/Domäne/light
+  - Kompendium/Götter/nonhuman
+  - Quelle/5e/phb
 aliases:
   - Corellon Larethian
 ---

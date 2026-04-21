@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/gos
-  - Monster/HG/2
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/bullywug
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Bullywug Croaker
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/2
+  - Monster/Typ/Humanoid/bullywug
+  - Quelle/5e/gos
 aliases:
   - Bullywug Croaker
 ---

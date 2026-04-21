@@ -1,15 +1,14 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: The Platinum Dragon
 tags:
-  - Quelle/5e/tdcsr
-  - Kompendium/Götter/exandria
   - Kompendium/Götter/Domäne/life
   - Kompendium/Götter/Domäne/order
   - Kompendium/Götter/Domäne/war
+  - Kompendium/Götter/exandria
+  - Quelle/5e/tdcsr
 aliases:
-  - The Platinum Dragon
   - Bahamut
+  - The Platinum Dragon
 ---
 # The Platinum Dragon
 *Source: Tal'Dorei Campaign Setting Reborn p. 28* 

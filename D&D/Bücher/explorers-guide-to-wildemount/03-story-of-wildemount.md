@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Story of Wildemount
 tags:
   - Quelle/5e/egw
 aliases:

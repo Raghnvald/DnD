@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Enlarge/Reduce
 Zaubergrad: 2
 tags:

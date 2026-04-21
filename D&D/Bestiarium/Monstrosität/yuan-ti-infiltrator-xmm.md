@@ -1,17 +1,16 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/1
-  - Monster/Habitat/Wüste
-  - Monster/Habitat/Wald
-  - Monster/Habitat/Sumpf
-  - Monster/Habitat/Stadt
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Monstrosität
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Yuan-ti Infiltrator
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Stadt
+  - Monster/Habitat/Sumpf
+  - Monster/Habitat/Wald
+  - Monster/Habitat/Wüste
+  - Monster/HG/1
+  - Monster/Typ/Monstrosität
+  - Quelle/5e/xmm
 aliases:
   - Yuan-ti Infiltrator
 ---
@@ -48,7 +47,6 @@ Yuan-ti might gain their reptilian features through dangerous supernatural rites
 > [!quote] A quote from Last Message of Sorril Venil, Explorer of the Labyrinth of Madness  
 > 
 > Great magic, twisted and corrupted... Malice beyond reckoning... Flesh reshaped, becoming serpentine horrors...
-
 
 ```statblock
 "name": "Yuan-ti Infiltrator (XMM)"

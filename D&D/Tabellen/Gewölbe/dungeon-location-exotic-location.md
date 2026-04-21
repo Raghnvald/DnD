@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Dungeon Location; Exotic Location
 tags:
   - Quelle/5e/dmg
 aliases:

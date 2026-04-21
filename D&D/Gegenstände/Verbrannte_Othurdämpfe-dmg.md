@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Burnt Othur Fumes
 Kategorie: Gift
 tags:

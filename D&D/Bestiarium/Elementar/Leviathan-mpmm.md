@@ -1,15 +1,14 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mpmm
-  - Monster/HG/20
-  - Monster/Habitat/Küste
-  - Monster/Habitat/underwater
-  - Monster/Größe/Gigantisch
-  - Monster/Typ/Elementar
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Leviathan
+tags:
+  - Monster/Größe/Gigantisch
+  - Monster/Habitat/Küste
+  - Monster/Habitat/underwater
+  - Monster/HG/20
+  - Monster/Typ/Elementar
+  - Quelle/5e/mpmm
 aliases:
   - Leviathan
 ---

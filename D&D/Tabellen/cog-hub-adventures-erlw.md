@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Cog Hub Adventures
 tags:
   - Quelle/5e/erlw
 aliases:

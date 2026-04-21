@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Azuremite
 tags:
   - Gegenstand/Ausrüstung/illegal-drug

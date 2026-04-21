@@ -1,8 +1,10 @@
 ---
 Bezeichnung: Outer Essence Shard (Chaotic)
+Kategorie: Wundersamer Gegenstand 
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
+  - Gegenstand/wundersam
   - Quelle/5e/tce
 aliases:
   - Outer Essence Shard (Chaotic)

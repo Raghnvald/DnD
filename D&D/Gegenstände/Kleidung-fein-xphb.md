@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Fine Clothes
 tags:
   - Gegenstand/Ausrüstung/

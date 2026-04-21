@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Backstory; Eastern Wynandir Settlements
 tags:
   - Quelle/5e/egw
 aliases:

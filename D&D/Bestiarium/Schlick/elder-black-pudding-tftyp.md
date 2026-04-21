@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/tftyp
-  - Monster/HG/4
-  - Monster/Größe/Riesig
-  - Monster/Typ/Schleim
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Elder Black Pudding
+tags:
+  - Monster/Größe/Riesig
+  - Monster/HG/4
+  - Monster/Typ/Schleim
+  - Quelle/5e/tftyp
 aliases:
   - Elder Black Pudding
 ---

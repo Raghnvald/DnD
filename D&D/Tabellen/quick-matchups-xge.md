@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Quick Matchups
 tags:
   - Quelle/5e/xge
 aliases:

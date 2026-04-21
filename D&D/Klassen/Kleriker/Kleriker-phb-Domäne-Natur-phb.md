@@ -1,8 +1,9 @@
 ---
+Bezeichnung: Domäne Natur
 tags:
-  - Quelle/5e/phb
-  - Kompendium/Götter/Domäne/nature
   - Klasse/Kleriker/nature
+  - Kompendium/Götter/Domäne/nature
+  - Quelle/5e/phb
 aliases:
   - Nature Domain
 ---

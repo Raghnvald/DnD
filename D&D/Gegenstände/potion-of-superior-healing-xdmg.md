@@ -1,13 +1,10 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Potion of Superior Healing
 tags:
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam/Trank
   - Quelle/5e/xdmg
 aliases:
-  - Potion of Superior Healing
   - Potion of Superior Healing
 linter-yaml-title-alias: Potion of Superior Healing
 ---

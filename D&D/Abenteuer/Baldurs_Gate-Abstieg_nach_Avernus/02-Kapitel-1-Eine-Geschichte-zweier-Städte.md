@@ -1,5 +1,7 @@
 ---
-tags: [Quelle/5e/bgdia]
+Bezeichnung: "<center> Kapitel 1: Eine Geschichte zweier Städte </center>"
+tags:
+  - Quelle/5e/bgdia
 ---
 # <center> Kapitel 1: Eine Geschichte zweier Städte </center>
 

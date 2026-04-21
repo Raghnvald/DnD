@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Bonus Action
 tags:
   - Quelle/5e/xphb
 aliases:

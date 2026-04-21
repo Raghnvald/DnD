@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-race
+Bezeichnung: Centaur
 tags:
   - Quelle/5e/mpmm
   - Rasse/centaur

@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Chain (10 feet)
 tags:
   - Gegenstand/Ausrüstung/

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Chains of Carceri
 tags:
   - Zauber/list/optfeature/chains-of-carceri
 aliases:

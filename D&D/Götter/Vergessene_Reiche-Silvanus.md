@@ -1,8 +1,9 @@
 ---
+Bezeichnung: Silvanus
 tags:
-  - Quelle/5e/phb
-  - Kompendium/Götter/forgotten-realms
   - Kompendium/Götter/Domäne/nature
+  - Kompendium/Götter/forgotten-realms
+  - Quelle/5e/phb
 aliases:
   - Silvanus
 ---

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Abjurer
 tags:
   - Zauber/list/subclass/abjurer
 aliases:

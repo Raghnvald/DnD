@@ -1,7 +1,12 @@
 ---
-tags: [Quelle/5e/phb, Klasse/Barbar]
-aliases: [Barbarian]
+Bezeichnung: Barbar
+tags:
+  - Klasse/Barbar
+  - Quelle/5e/phb
+aliases:
+  - Barbarian
 ---
+# Barbar
 Barbar
 ======
 
@@ -224,7 +229,6 @@ Im Kampfrausch erhältst du die folgenden Vorteile, solange du keine schwere Rü
 *   Bei einem Nahkampfwaffenangriff, der Stärke verwendet, erhältst du einen Bonus auf den Schadenswurf, der in der Spalte „KampfrauschSchaden“ der Barbarentabelle angezeigt wird.
     
 *   Du bist gegen Hieb-, Stich- und Wuchtschaden resistent.
-    
 
 Falls du Zauber wirken kannst, ist dies während des Kampfrauschs ebenso unmöglich wie die Konzentration auf einen Zauber.
 

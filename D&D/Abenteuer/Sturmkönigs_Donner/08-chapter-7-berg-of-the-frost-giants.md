@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Chapter 7: Berg of the Frost Giants"
 tags:
   - Quelle/5e/skt
 aliases:

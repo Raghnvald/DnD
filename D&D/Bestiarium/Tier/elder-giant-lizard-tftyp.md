@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/tftyp
-  - Monster/HG/5
-  - Monster/Größe/Riesig
-  - Monster/Typ/Tier
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Elder Giant Lizard
+tags:
+  - Monster/Größe/Riesig
+  - Monster/HG/5
+  - Monster/Typ/Tier
+  - Quelle/5e/tftyp
 aliases:
   - Elder Giant Lizard
 ---

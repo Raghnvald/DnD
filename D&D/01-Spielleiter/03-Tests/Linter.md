@@ -1,3 +1,7 @@
+---
+Bezeichnung: Linter
+---
+# Linter
 cssclasses
 prefer-view
 Bezeichnung

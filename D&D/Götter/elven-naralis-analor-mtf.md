@@ -1,11 +1,10 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Naralis Analor
 tags:
-  - Quelle/5e/mtf
-  - Kompendium/Götter/elven
   - Kompendium/Götter/Domäne/grave
   - Kompendium/Götter/Domäne/life
+  - Kompendium/Götter/elven
+  - Quelle/5e/mtf
 aliases:
   - Naralis Analor
 ---

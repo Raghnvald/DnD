@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-background
+Bezeichnung: Entertainer
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/phb
@@ -9,7 +8,6 @@ aliases:
 ---
 # Entertainer
 *Source: Player's Handbook p. 130*  
-
 
 - **Skill Proficiencies.** [Acrobatics](/3-Mechanics/CLI/skills.md#Acrobatics), [Performance](/3-Mechanics/CLI/skills.md#Performance)  
 - **Tool Proficiencies.** [Disguise kit](/3-Mechanics/CLI/items/disguise-kit.md), one type of musical instrument  

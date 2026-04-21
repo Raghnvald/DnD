@@ -1,4 +1,5 @@
 ---
+Bezeichnung: Durchschnittsergebnisse; Mob-Ergebnisse
 tags:
   - Quelle/5e/xdmg
 aliases:

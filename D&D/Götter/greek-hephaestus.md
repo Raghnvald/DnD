@@ -1,11 +1,10 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Hephaestus
 tags:
-  - Quelle/5e/phb
-  - Kompendium/Götter/greek
   - Kompendium/Götter/Domäne/forge
   - Kompendium/Götter/Domäne/knowledge
+  - Kompendium/Götter/greek
+  - Quelle/5e/phb
 aliases:
   - Hephaestus
 ---

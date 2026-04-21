@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Daask Assignments
 tags:
   - Quelle/5e/erlw
 aliases:

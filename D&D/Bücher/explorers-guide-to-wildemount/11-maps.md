@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Maps
 tags:
   - Quelle/5e/egw
 aliases:

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Boros Legionnaire
 tags:
   - Zauber/list/background/boros-legionnaire
 aliases:

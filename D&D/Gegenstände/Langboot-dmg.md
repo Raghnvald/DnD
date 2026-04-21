@@ -4,13 +4,13 @@ Kategorie: Luft- und Wasserfahrzeug
 Eigenschaften: /
 Kst.: 10.000 GM
 Gew.: /
-Bew.: 4,5 km/h
 tags:
   - Gegenstand/Ausrüstung/Fahrzeug/Wasser
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/dmg
 aliases:
   - Longship
+Bew.: 4,5 km/h
 linter-yaml-title-alias: Longship
 ---
 # Langboot

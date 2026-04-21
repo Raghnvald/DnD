@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Creating a Multiverse
 tags:
   - Quelle/5e/dmg
 aliases:

@@ -1,5 +1,4 @@
 ---
-cssclasses: json5e-spell
 Bezeichnung: Rüstung von Agathys
 Zaubergrad: 2
 tags:

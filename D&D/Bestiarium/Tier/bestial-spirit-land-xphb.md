@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xphb
-  - Monster/HG/
-  - Monster/Größe/Klein
-  - Monster/Typ/Tier
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Bestial Spirit (Land)
+tags:
+  - Monster/Größe/Klein
+  - Monster/HG/
+  - Monster/Typ/Tier
+  - Quelle/5e/xphb
 aliases:
   - Bestial Spirit (Land)
 ---

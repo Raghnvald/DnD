@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Wild Magic
 tags:
   - Quelle/5e/tce
 aliases:

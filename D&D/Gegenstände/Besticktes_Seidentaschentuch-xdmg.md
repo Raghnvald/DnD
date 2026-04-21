@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Embroidered silk handkerchief
 tags:
   - Gegenstand/Ausrüstung/treasure-art-object

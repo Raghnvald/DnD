@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Bestow Curse
 Zaubergrad: 3
 tags:

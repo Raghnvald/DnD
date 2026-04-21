@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Stabling (per day)
 tags:
   - Gegenstand/Ausrüstung/tack-and-harness

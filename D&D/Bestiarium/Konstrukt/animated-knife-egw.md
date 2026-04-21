@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/egw
-  - Monster/HG/1-8
-  - Monster/Größe/Winzig
-  - Monster/Typ/Konstrukt
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Animated Knife
+tags:
+  - Monster/Größe/Winzig
+  - Monster/HG/1-8
+  - Monster/Typ/Konstrukt
+  - Quelle/5e/egw
 aliases:
   - Animated Knife
 ---

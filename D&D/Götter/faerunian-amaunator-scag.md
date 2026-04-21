@@ -1,11 +1,10 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Amaunator
 tags:
-  - Quelle/5e/scag
-  - Kompendium/Götter/faerunian
   - Kompendium/Götter/Domäne/life
   - Kompendium/Götter/Domäne/light
+  - Kompendium/Götter/faerunian
+  - Quelle/5e/scag
 aliases:
   - Amaunator
   - The Keeper of the Eternal Sun

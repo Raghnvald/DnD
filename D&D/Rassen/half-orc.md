@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-race
+Bezeichnung: Half-Orc
 tags:
   - Quelle/5e/phb
   - Rasse/half-orc

@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-reward
+Bezeichnung: "Joho's Charm"
 tags:
-  - Quelle/5e/toa
   - Kompendium/Belohnung/charm
+  - Quelle/5e/toa
 aliases:
   - Joho's Charm
 ---

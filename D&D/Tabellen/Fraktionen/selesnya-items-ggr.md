@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Selesnya Items
 tags:
   - Quelle/5e/ggr
 aliases:

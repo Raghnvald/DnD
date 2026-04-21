@@ -1,11 +1,11 @@
 ---
-cssclasses: json5e-deity
+Bezeichnung: Kelemvor, Gott der Toten
 tags:
-  - Quelle/5e/phb
   - Kompendium/Götter
+  - Kompendium/Götter/Domäne/Tod
   - Kompendium/Götter/Gesinnung/Rechtschaffen_Neutral
   - Kompendium/Götter/Pantheon/Faerun
-  - Kompendium/Götter/Domäne/Tod
+  - Quelle/5e/phb
 aliases:
   - Kelemvor
 ---

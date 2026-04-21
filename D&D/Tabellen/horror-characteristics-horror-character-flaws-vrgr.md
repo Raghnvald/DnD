@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Horror Characteristics; Horror Character Flaws
 tags:
   - Quelle/5e/vrgr
 aliases:

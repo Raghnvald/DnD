@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Fine Wine (bottle)
 tags:
   - Gegenstand/Ausrüstung/Essen-und-Trinken

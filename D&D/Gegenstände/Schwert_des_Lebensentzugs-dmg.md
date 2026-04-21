@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Schwert des Lebensentzugs
+Bezeichnung: Sword of Life Stealing
 Kategorie: Nahkampf-Kriegswaffe (beliebiges Schwert)
 tags:
   - Gegenstand/Einstimmung/required

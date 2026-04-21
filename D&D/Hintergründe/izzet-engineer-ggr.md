@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-background
+Bezeichnung: Izzet Engineer
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/ggr
@@ -9,7 +8,6 @@ aliases:
 ---
 # Izzet Engineer
 *Source: Guildmasters' Guide to Ravnica p. 66*  
-
 
 - **Skill Proficiencies.** Arcana, Investigation  
 - **Tool Proficiencies.** One type of artisan's tools  

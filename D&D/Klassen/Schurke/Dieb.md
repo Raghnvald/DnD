@@ -1,6 +1,10 @@
 ---
-tags: [Klasse/Schurke, Quelle/5e/phb]
-aliases: [Thief]
+Bezeichnung: Dieb
+tags:
+  - Klasse/Schurke
+  - Quelle/5e/phb
+aliases:
+  - Thief
 ---
 # Dieb
 _[[Schurke]]_: Schurkenarchetyp

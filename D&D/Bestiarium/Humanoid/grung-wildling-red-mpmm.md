@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mpmm
-  - Monster/HG/1
-  - Monster/Habitat/Wald
-  - Monster/Größe/Klein
-  - Monster/Typ/Humanoid
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Grung Wildling (Red)
+tags:
+  - Monster/Größe/Klein
+  - Monster/Habitat/Wald
+  - Monster/HG/1
+  - Monster/Typ/Humanoid
+  - Quelle/5e/mpmm
 aliases:
   - Grung Wildling (Red)
 ---

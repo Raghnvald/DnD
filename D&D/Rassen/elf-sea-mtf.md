@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-race
+Bezeichnung: Elf (Sea)
 tags:
   - Quelle/5e/mtf
   - Rasse/elf/sea
@@ -9,7 +8,6 @@ aliases:
 ---
 # Elf (Sea)
 *Source: Mordenkainen's Tome of Foes p. 62, Explorer's Guide to Wildemount p. 163*  
-
 
 - **Ability Scores**: con +1
 - **Size**: Medium

@@ -1,8 +1,8 @@
 ---
+Bezeichnung: Eingeweihter der Magie
 tags:
-- Quelle/5e/phb
-aliases:
-- 
+  - Quelle/5e/phb
+aliases: []
 ---
 # Eingeweihter der Magie
 

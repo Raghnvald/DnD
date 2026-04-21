@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Chapter 12: Doom of the Desert"
 tags:
   - Quelle/5e/skt
 aliases:

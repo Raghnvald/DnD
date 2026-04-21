@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: The Spider Queen
 tags:
-  - Quelle/5e/tdcsr
-  - Kompendium/Götter/exandria
   - Kompendium/Götter/Domäne/knowledge
   - Kompendium/Götter/Domäne/trickery
+  - Kompendium/Götter/exandria
+  - Quelle/5e/tdcsr
 aliases:
-  - The Spider Queen
   - Lolth
+  - The Spider Queen
 ---
 # The Spider Queen
 *Source: Tal'Dorei Campaign Setting Reborn p. 35* 

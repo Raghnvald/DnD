@@ -1,15 +1,14 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/1-4
-  - Monster/Habitat/elemental
-  - Monster/Habitat/planar
-  - Monster/Größe/Klein
-  - Monster/Typ/Elementar
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Steam Mephit
+tags:
+  - Monster/Größe/Klein
+  - Monster/Habitat/elemental
+  - Monster/Habitat/planar
+  - Monster/HG/1-4
+  - Monster/Typ/Elementar
+  - Quelle/5e/xmm
 aliases:
   - Steam Mephit
 ---
@@ -32,7 +31,6 @@ Mephits resent leaving the elemental extremes where they make their homes. If lo
 > [!quote] A quote from Seamusxanthuszenus, smoke mephit with a typically inflated impression of itself  
 > 
 > I am Seamusxanthuszenus, Slayer of Fiends, Merchant Most Excellent, Purveyor of Death!
-
 
 ```statblock
 "name": "Steam Mephit (XMM)"

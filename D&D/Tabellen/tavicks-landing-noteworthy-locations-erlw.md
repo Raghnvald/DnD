@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Tavick's Landing: Noteworthy Locations"
 tags:
   - Quelle/5e/erlw
 aliases:

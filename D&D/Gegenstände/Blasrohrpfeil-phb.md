@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Blasrohrpfeil
+Bezeichnung: Blowgun Needle
 Kategorie: Munition
 tags:
   - Gegenstand/Ausrüstung/ammunition

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Good Mead
 tags:
   - Quelle/5e/idrotf
 aliases:

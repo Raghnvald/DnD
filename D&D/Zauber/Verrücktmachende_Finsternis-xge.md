@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Maddening Darkness
+Bezeichnung: Verrücktmachende Finsternis
 Zaubergrad: 8
 Zeitaufwand:
 Reichweite:

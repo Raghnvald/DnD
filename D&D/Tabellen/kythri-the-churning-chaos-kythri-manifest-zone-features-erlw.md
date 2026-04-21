@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Kythri, the Churning Chaos; Kythri Manifest Zone Features
 tags:
   - Quelle/5e/erlw
 aliases:

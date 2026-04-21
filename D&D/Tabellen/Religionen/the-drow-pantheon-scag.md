@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: The Drow Pantheon
 tags:
   - Quelle/5e/scag
 aliases:

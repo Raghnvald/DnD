@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-feat
+Bezeichnung: Fey-Touched
 tags:
-  - Quelle/5e/xphb
   - Kompendium/Talent
+  - Quelle/5e/xphb
 aliases:
   - Fey-Touched
 ---

@@ -1,7 +1,6 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Figurine of Wondrous Power
+Kategorie: Wundersamer Gegenstand
 tags:
   - Gegenstand/Seltenheit/variiert
   - Quelle/5e/dmg

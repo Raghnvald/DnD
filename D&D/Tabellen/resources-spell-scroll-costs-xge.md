@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Resources; Spell Scroll Costs
 tags:
   - Quelle/5e/xge
 aliases:

@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Shatterstick
 tags:
   - Gegenstand/Seltenheit/unbekannt

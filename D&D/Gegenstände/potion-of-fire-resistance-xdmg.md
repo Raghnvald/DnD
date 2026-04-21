@@ -1,13 +1,10 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Potion of Fire Resistance
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/wundersam/Trank
   - Quelle/5e/xdmg
 aliases:
-  - Potion of Fire Resistance
   - Potion of Fire Resistance
 linter-yaml-title-alias: Potion of Fire Resistance
 ---

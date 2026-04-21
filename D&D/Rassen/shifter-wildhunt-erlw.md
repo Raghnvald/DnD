@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-race
+Bezeichnung: Shifter (Wildhunt)
 tags:
   - Quelle/5e/erlw
   - Rasse/shifter/wildhunt
@@ -98,6 +97,5 @@ Shifters have a natural inclination toward classes with a primal connection. A s
 Shifters have no language of their own and often live in blended communities. Their names typically overlap with the names of other cultures in their region. Many shifters prefer to keep their personal names for their friends and use "wandering names" with strangers. These are usually tied to a physical or personality trait.
 
 **Shifter Names**: Badger, Bear, Cat, Fang, Grace, Grim, Moon, Rain, Red, Scar, Stripe, Swift, Talon, Wolf
-
 
 ![](/3-Mechanics/CLI/races/img/shifter-001.webp#center)

@@ -1,7 +1,5 @@
 ---
-cssclasses:
-  - json5e-spell
-Bezeichnung: Mordenkainen's Magnificent Mansion
+Bezeichnung: "Mordenkainen's Magnificent Mansion"
 Zaubergrad: 7
 tags:
   - Klasse/Barde/Magische-Geheimnisse

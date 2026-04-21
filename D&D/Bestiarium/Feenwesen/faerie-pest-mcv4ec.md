@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mcv4ec
-  - Monster/HG/1
-  - Monster/Größe/Klein
-  - Monster/Typ/Fee
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Faerie Pest
+tags:
+  - Monster/Größe/Klein
+  - Monster/HG/1
+  - Monster/Typ/Fee
+  - Quelle/5e/mcv4ec
 aliases:
   - Faerie Pest
 ---

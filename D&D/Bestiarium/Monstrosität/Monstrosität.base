@@ -1,0 +1,14 @@
+model:
+  version: 1
+  kind: Table
+  columns: []
+pluginVersion: 1.0.0
+views:
+  - type: cards
+    name: Monstrosität
+    filters:
+      and:
+        - file.folder == "D&D/Bestiarium/Monstrosität"
+        - file.ext == "md"
+    cardSize: 120
+    image: note.IMAGE

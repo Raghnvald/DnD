@@ -1,15 +1,14 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mpmm
-  - Monster/HG/12
-  - Monster/Habitat/Wald
-  - Monster/Habitat/Hügel
-  - Monster/Größe/Groß
-  - Monster/Typ/Monstrosität
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Gray Render
+tags:
+  - Monster/Größe/Groß
+  - Monster/Habitat/Hügel
+  - Monster/Habitat/Wald
+  - Monster/HG/12
+  - Monster/Typ/Monstrosität
+  - Quelle/5e/mpmm
 aliases:
   - Gray Render
 ---

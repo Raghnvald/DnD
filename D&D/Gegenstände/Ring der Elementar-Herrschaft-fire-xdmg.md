@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Ring of Elemental Command (Fire)
 tags:
   - Gegenstand/Einstimmung/required

@@ -1,9 +1,10 @@
 ---
+Bezeichnung: Visionen von fernen Reichen
 tags:
-- Quelle/5e/phb
-- Kompendium/Optionales/Anrufungen
-aliases: 
-- Visions of Distant Realms
+  - Kompendium/Optionales/Anrufungen
+  - Quelle/5e/phb
+aliases:
+  - Visions of Distant Realms
 ---
 # Visionen von fernen Reichen
 _Quellen:_ Spielerhandbuch

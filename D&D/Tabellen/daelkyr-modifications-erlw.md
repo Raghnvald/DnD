@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Daelkyr Modifications
 tags:
   - Quelle/5e/erlw
 aliases:

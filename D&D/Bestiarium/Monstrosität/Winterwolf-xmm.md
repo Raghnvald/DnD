@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/3
-  - Monster/Habitat/Arktis
-  - Monster/Größe/Groß
-  - Monster/Typ/Monstrosität
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Winter Wolf
+tags:
+  - Monster/Größe/Groß
+  - Monster/Habitat/Arktis
+  - Monster/HG/3
+  - Monster/Typ/Monstrosität
+  - Quelle/5e/xmm
 aliases:
   - Winter Wolf
 ---
@@ -31,7 +30,6 @@ Winter wolves are more intelligent than natural wolves and can speak. Most are p
 > Snowdrifts, driving hail, and wind fierce enough to strip the hairless skin off your bones—you lot have been through it all. But good news, there's a town full of warm hearths right over this rise.
 > 
 > You'll never reach it, but at least your last thoughts will be warm.
-
 
 ```statblock
 "name": "Winter Wolf (XMM)"

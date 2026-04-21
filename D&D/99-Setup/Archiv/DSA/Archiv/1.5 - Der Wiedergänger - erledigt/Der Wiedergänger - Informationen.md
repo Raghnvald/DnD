@@ -1,3 +1,6 @@
+---
+Bezeichnung: Schauplätze
+---
 # Schauplätze
 ## Rucken
 Rucken gehört nicht zum Gut, besitzt aber das einzige Gasthaus in der Umgebung, weshalb man häufig Leute aus Gregorsdorf hier antrifft. Hier, im Gasthaus zum Bratfisch findet die Hochzeitsgesellschaft statt, mit der die Helden ins Abenteuer einsteigen.
@@ -72,7 +75,6 @@ Die Siedlung besteht aus einigen kleinen Höfen und beherbergt etwa 35 Einwohner
 Ein Kleiner Hof der lange leer stand und erst kürzlich von einem jungen Ehepaar wieder bezogen wurde.
 
 ![[Holstin.jpg]]
-
 
 # Die Ruinen von Lobentanz
 Viel ist von der ehemals prächtigen Theaterrittersiedlung nicht geblieben.

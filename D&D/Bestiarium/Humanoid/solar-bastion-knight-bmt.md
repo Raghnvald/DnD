@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/bmt
-  - Monster/HG/9
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/paladin
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Solar Bastion Knight
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/9
+  - Monster/Typ/Humanoid/paladin
+  - Quelle/5e/bmt
 aliases:
   - Solar Bastion Knight
 ---

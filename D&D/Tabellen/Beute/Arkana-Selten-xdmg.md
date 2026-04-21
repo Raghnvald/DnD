@@ -1,4 +1,5 @@
 ---
+Bezeichnung: Arcana - Selten
 tags:
   - Quelle/5e/xdmg
 aliases:

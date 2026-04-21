@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-feat
+Bezeichnung: Twinned Spell
 tags:
-  - Quelle/5e/xphb
   - Kompendium/Optionales/mm
+  - Quelle/5e/xphb
 aliases:
   - Twinned Spell
 ---

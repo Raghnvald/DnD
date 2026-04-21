@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Vampiric Touch
 Zaubergrad: 3
 tags:

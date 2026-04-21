@@ -1,5 +1,4 @@
 ---
-cssclasses: json5e-spell
 Bezeichnung: Massen-Heilendes Wort
 tags:
   - Klasse/Kleriker

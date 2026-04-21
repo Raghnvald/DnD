@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Eldritch Knight
 tags:
   - Zauber/list/subclass/eldritch-knight
 aliases:

@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-reward
+Bezeichnung: Yuan-Ti Pureblood Transformation
 tags:
-  - Quelle/5e/toa
   - Kompendium/Belohnung/other
+  - Quelle/5e/toa
 aliases:
   - Yuan-Ti Pureblood Transformation
 ---

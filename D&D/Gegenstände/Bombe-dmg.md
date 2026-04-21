@@ -1,7 +1,5 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Bombe
+Bezeichnung: Bomb
 Kategorie: Explosives
 tags:
   - Gegenstand/Seltenheit/keine

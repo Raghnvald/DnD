@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Elemental Weapon
 Zaubergrad: 3
 tags:

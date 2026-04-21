@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Rope Trick
 Zaubergrad: 2
 tags:

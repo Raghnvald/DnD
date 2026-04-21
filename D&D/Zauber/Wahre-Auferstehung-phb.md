@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: True Resurrection
 Zaubergrad: 9
 tags:

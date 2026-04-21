@@ -8,11 +8,11 @@ Wirkungsdauer: Konzentration, bis zu 1 Minute
 Angriff: KON
 Schaden: variabel
 tags:
+  - Klasse/Artifizient
   - Klasse/Barde
   - Klasse/Druide
   - Klasse/Hexenmeister
   - Klasse/Magier
-  - Klasse/Artifizient
   - Klasse/Schurke/Arkaner-Betrüger
   - Quelle/5e/xge
   - Subklasse/Mystischer-Ritter

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Meeting the Darklord; Favors for Harkon Lukas
 tags:
   - Quelle/5e/vrgr
 aliases:

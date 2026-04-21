@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/vgm
-  - Monster/HG/7
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/any-race
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Booyahg Slave of the Fiend
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/7
+  - Monster/Typ/Humanoid/any-race
+  - Quelle/5e/vgm
 aliases:
   - Booyahg Slave of the Fiend
 ---

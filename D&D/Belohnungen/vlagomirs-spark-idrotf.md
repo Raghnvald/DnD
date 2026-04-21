@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-reward
+Bezeichnung: "Vlagomir's Spark"
 tags:
-  - Quelle/5e/idrotf
   - Kompendium/Belohnung/charm
+  - Quelle/5e/idrotf
 aliases:
   - Vlagomir's Spark
 ---

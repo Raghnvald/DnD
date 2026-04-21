@@ -1,15 +1,14 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/3
-  - Monster/Habitat/Unterreich
-  - Monster/Habitat/Stadt
-  - Monster/Größe/Groß
-  - Monster/Typ/Elementar
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Water Weird
+tags:
+  - Monster/Größe/Groß
+  - Monster/Habitat/Stadt
+  - Monster/Habitat/Unterreich
+  - Monster/HG/3
+  - Monster/Typ/Elementar
+  - Quelle/5e/xmm
 aliases:
   - Water Weird
 ---
@@ -30,7 +29,6 @@ Water weirds might protect a site for generations and learn much about their sur
 > [!quote]  
 > 
 > Rule 2: Before you drink from a fountain or pool, toss a copper coin into it. It's a small price to pay for your life!
-
 
 ```statblock
 "name": "Water Weird (XMM)"

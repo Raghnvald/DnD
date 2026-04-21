@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/bgg
-  - Monster/HG/3
-  - Monster/Größe/Riesig
-  - Monster/Typ/Fee
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Giant Ox
+tags:
+  - Monster/Größe/Riesig
+  - Monster/HG/3
+  - Monster/Typ/Fee
+  - Quelle/5e/bgg
 aliases:
   - Giant Ox
 ---
@@ -19,7 +18,6 @@ Giant oxen labor as beasts of burden for giants of all kinds, pulling plows, hau
 > [!quote] A quote from Bigby  
 > 
 > It's easy to get caught up in the wonders of giant-sized wildlife when you're wandering some pocket of a primeval world tucked away in a remote valley or demiplane somewhere. "Look, that goose laid a golden egg!" "Look, that ox is blue!" "Look, this ram's magic fleece is so soft!" Then a tick that's bigger than you tries to drain every drop of blood from your body. Nope, nope, nope. Time to go home.
-
 
 ```statblock
 "name": "Giant Ox (BGG)"

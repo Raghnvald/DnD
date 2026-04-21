@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-hazard
+Bezeichnung: Extreme Cold
 tags:
-  - Quelle/5e/dmg
   - Kompendium/Bedrohung/wth
+  - Quelle/5e/dmg
 aliases:
   - Extreme Cold
 ---

@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Trinket
 tags:
   - Gegenstand/Ausrüstung/

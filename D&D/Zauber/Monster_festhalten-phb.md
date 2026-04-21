@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Hold Monster
 Zaubergrad: 5
 tags:

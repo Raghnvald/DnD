@@ -1,17 +1,16 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/3
-  - Monster/Habitat/lower
-  - Monster/Habitat/Berg
-  - Monster/Habitat/planar
-  - Monster/Habitat/Unterreich
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Unhold
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Hell Hound
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Berg
+  - Monster/Habitat/lower
+  - Monster/Habitat/planar
+  - Monster/Habitat/Unterreich
+  - Monster/HG/3
+  - Monster/Typ/Unhold
+  - Quelle/5e/xmm
 aliases:
   - Hell Hound
 ---

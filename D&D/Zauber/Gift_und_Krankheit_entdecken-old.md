@@ -1,5 +1,4 @@
 ---
-cssclasses: json5e-spell
 Bezeichnung: Detect Poison and Disease
 tags:
   - Klasse/Druide

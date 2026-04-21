@@ -1,6 +1,10 @@
 ---
-tags: [Klasse/Schurke, Quelle/5e/phb]
-aliases: [Rogue]
+Bezeichnung: Schurke
+tags:
+  - Klasse/Schurke
+  - Quelle/5e/phb
+aliases:
+  - Rogue
 ---
 # Schurke
 _Quelle:_ Spielerhandbuch

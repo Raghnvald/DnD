@@ -17,8 +17,8 @@ tags:
   - Monster/Typ/Untote
   - Quelle/5e/mm
 aliases:
-  - Skelett
   - Skeleton
+  - Skelett
 linter-yaml-title-alias: Skelett
 ---
 # Skelett

@@ -1,11 +1,10 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Pipes of Haunting
 Kategorie: Wundersamer Gegenstand
 tags:
   - Gegenstand/Ausrüstung/Instrument
   - Gegenstand/Seltenheit/ungewöhnlich
+  - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
   - Pipes of Haunting

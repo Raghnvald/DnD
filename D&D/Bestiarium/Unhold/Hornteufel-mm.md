@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mm
-  - Monster/HG/11
-  - Monster/Größe/Groß
-  - Monster/Typ/Unhold/devil
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Horned Devil
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/11
+  - Monster/Typ/Unhold/devil
+  - Quelle/5e/mm
 aliases:
   - Horned Devil
 ---

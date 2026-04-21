@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/idrotf
-  - Monster/HG/8
-  - Monster/Größe/Gigantisch
-  - Monster/Typ/Tier
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Sperm Whale
+tags:
+  - Monster/Größe/Gigantisch
+  - Monster/HG/8
+  - Monster/Typ/Tier
+  - Quelle/5e/idrotf
 aliases:
   - Sperm Whale
 ---

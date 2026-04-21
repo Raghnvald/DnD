@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-feat
+Bezeichnung: Rebuke of the Talisman
 tags:
-  - Quelle/5e/tce
   - Kompendium/Optionales/ei
+  - Quelle/5e/tce
 aliases:
   - Rebuke of the Talisman
 ---

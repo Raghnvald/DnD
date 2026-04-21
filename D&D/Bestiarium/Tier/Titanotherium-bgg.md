@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/bgg
-  - Monster/HG/5
-  - Monster/Größe/Riesig
-  - Monster/Typ/Tier
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Titanothere
+tags:
+  - Monster/Größe/Riesig
+  - Monster/HG/5
+  - Monster/Typ/Tier
+  - Quelle/5e/bgg
 aliases:
   - Titanothere
 ---
@@ -19,7 +18,6 @@ Titanotheres are a family of enormous mammals related to rhinoceroses. Some of t
 > [!quote] A quote from Diancastra  
 > 
 > I have fond memories of riding across an ice sheet on the back of a trusty, thick-furred titanothere I called Woolly. But that was thousands of years ago and many worlds away...
-
 
 ```statblock
 "name": "Titanothere (BGG)"

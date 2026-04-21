@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Scribe's Pen
+Bezeichnung: "Scribe's Pen"
+Kategorie: Wundersamer Gegenstand 
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/gewöhnlich
+  - Gegenstand/wundersam
   - Quelle/5e/erlw
 aliases:
-  - Scribe's Pen
   - Scribe's Pen
 linter-yaml-title-alias: Scribe's Pen
 ---

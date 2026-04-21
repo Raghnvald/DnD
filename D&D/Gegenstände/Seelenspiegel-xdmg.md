@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Mirror of Life Trapping
 tags:
   - Gegenstand/Seltenheit/sehr_selten

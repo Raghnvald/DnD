@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/tdcsr
-  - Monster/HG/3
-  - Monster/Habitat/Grasland
-  - Monster/Größe/Klein
-  - Monster/Typ/Humanoid/any
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Ravager Stabby-Stabber
+tags:
+  - Monster/Größe/Klein
+  - Monster/Habitat/Grasland
+  - Monster/HG/3
+  - Monster/Typ/Humanoid/any
+  - Quelle/5e/tdcsr
 aliases:
   - Ravager Stabby-Stabber
 ---

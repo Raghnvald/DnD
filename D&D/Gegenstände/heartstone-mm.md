@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Heartstone
 tags:
   - Gegenstand/Seltenheit/sehr_selten

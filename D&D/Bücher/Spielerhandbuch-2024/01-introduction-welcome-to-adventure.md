@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Introduction: Welcome to Adventure"
 tags:
   - Quelle/5e/xphb
 aliases:

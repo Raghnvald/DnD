@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Robe of Useful Items
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich

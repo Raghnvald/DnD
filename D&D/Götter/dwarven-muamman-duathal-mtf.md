@@ -1,10 +1,9 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Muamman Duathal
 tags:
-  - Quelle/5e/mtf
-  - Kompendium/Götter/dwarven
   - Kompendium/Götter/Domäne/tempest
+  - Kompendium/Götter/dwarven
+  - Quelle/5e/mtf
 aliases:
   - Muamman Duathal
 ---

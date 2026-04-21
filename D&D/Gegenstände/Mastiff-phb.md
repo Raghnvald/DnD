@@ -4,15 +4,15 @@ Kategorie: Reit- und Lastentier
 Eigenschaften: /
 Kst.: 25 GM
 Gew.: /
-Bew.: 12 m
-Traglast: 195 Pfd.
 tags:
   - Gegenstand/Ausrüstung/Reit-und-Lastentier
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
   - Mastiff
+Bew.: 12 m
 linter-yaml-title-alias: Mastiff
+Traglast: 195 Pfd.
 ---
 # Mastiff
 *Reit- und Lasttiere*  

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Chapter 1: Into the Mists"
 tags:
   - Quelle/5e/cos
 aliases:

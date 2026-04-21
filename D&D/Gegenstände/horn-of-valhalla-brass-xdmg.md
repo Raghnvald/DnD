@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Horn of Valhalla, Brass
 tags:
   - Gegenstand/Seltenheit/selten

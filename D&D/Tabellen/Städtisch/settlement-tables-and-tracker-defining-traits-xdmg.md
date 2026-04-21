@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Settlement Tables and Tracker; Defining Traits
 tags:
   - Quelle/5e/xdmg
 aliases:

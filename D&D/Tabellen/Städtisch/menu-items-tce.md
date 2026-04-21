@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Menu Items
 tags:
   - Quelle/5e/tce
 aliases:

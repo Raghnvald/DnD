@@ -4,13 +4,13 @@ Kategorie: Luft- und Wasserfahrzeug
 Eigenschaften: /
 Kst.: 3.000 GM
 Gew.: /
-Bew.: 1,5 km/h
 tags:
   - Gegenstand/Ausrüstung/Fahrzeug/Wasser
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/dmg
 aliases:
   - Keelboat
+Bew.: 1,5 km/h
 linter-yaml-title-alias: Keelboat
 ---
 # Kielboot

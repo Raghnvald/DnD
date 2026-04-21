@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Enspelled Staff (Cantrip)
 tags:
   - Gegenstand/Einstimmung/required

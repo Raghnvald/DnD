@@ -1,12 +1,12 @@
 ---
-cssclasses: json5e-deity
+Bezeichnung: Valkur, nordländischer Gott der Seeleute
 tags:
-  - Quelle/5e/phb
   - Kompendium/Götter
+  - Kompendium/Götter/Domäne/Krieg
+  - Kompendium/Götter/Domäne/Sturm
   - Kompendium/Götter/Gesinnung/Chaotisch_Gut
   - Kompendium/Götter/Pantheon/Faerun
-  - Kompendium/Götter/Domäne/Sturm
-  - Kompendium/Götter/Domäne/Krieg
+  - Quelle/5e/phb
 aliases:
   - Valkur
 ---

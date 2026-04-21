@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/tftyp
-  - Monster/HG/2
-  - Monster/Größe/Groß
-  - Monster/Typ/Monstrosität
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Reduced-Threat Carrion Crawler
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/2
+  - Monster/Typ/Monstrosität
+  - Quelle/5e/tftyp
 aliases:
   - Reduced-Threat Carrion Crawler
 ---

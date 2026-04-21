@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Pot of Awakening
 tags:
   - Gegenstand/Seltenheit/gewöhnlich

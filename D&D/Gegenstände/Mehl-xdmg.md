@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Flour
 tags:
   - Gegenstand/Ausrüstung/Handelsgut

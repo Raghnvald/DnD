@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Blight
+Bezeichnung: Dürre
 Zaubergrad: 4
 Zeitaufwand:
 Reichweite:

@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Enspelled Staff (Level 2)
 tags:
   - Gegenstand/Einstimmung/required

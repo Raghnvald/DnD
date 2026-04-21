@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Brass mug with jade inlay
 Kategorie: Kunstobjekt
 tags:

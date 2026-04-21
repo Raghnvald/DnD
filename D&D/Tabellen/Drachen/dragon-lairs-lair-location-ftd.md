@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Dragon Lairs; Lair Location
 tags:
   - Quelle/5e/ftd
 aliases:

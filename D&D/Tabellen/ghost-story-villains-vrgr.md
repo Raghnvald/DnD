@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Ghost Story Villains
 tags:
   - Quelle/5e/vrgr
 aliases:

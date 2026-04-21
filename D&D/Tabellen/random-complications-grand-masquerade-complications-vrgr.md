@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Random Complications; Grand Masquerade Complications
 tags:
   - Quelle/5e/vrgr
 aliases:

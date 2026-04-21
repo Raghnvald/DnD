@@ -1,7 +1,5 @@
 ---
-cssclasses:
-  - json5e-spell
-Bezeichnung: Wall of Thorns
+Bezeichnung: Dornenwand
 Zaubergrad: 6
 tags:
   - Klasse/Barde/Magische-Geheimnisse

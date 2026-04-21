@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/vrgr
-  - Monster/HG/6
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Priest of Osybus
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/6
+  - Monster/Typ/Humanoid
+  - Quelle/5e/vrgr
 aliases:
   - Priest of Osybus
 ---

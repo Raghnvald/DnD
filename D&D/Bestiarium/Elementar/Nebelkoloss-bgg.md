@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/bgg
-  - Monster/HG/6
-  - Monster/Größe/Groß
-  - Monster/Typ/Elementar
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Mist Hulk
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/6
+  - Monster/Typ/Elementar
+  - Quelle/5e/bgg
 aliases:
   - Mist Hulk
 ---

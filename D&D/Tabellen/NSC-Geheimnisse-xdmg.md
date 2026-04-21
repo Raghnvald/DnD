@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: NPC Secrets
 tags:
   - Quelle/5e/xdmg
 aliases:

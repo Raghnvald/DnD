@@ -1,5 +1,7 @@
 ---
-tags: [Quelle/5e/dmg]
+Bezeichnung: Einführung
+tags:
+  - Quelle/5e/dmg
 ---
 # Einführung
 Es ist gut, ein Spielleiter zu sein! Du hast nicht nur die Möglichkeit, fantastische Geschichten über Helden, Schurken, Monster und Magie zu erzählen, sondern du kannst auch die Welt erschaffen, in der diese Geschichten zum Leben erwachen. Egal, ob du bereits ein D&D-Spiel leitest oder du darüber nachdenkst, es einmal zu versuchen, dieses Buch ist für dich.

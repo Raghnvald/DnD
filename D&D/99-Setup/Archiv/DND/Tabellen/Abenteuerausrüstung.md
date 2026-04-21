@@ -1,8 +1,9 @@
 ---
+Bezeichnung: Abenteuerausrüstung
 tags:
-- Quelle/5e/phb
+  - Quelle/5e/phb
 aliases:
-- Adventuring Gear
+  - Adventuring Gear
 ---
 # Abenteuerausrüstung
 _Quellen:_ Spielerhandbuch
@@ -28,9 +29,9 @@ _Quellen:_ Spielerhandbuch
 | [[Buch]]                                                                         |    25 GM |        2,5 kg. |
 | [[Decke]]                                                                        |     5 SM |        1,5 kg. |
 | *Druidischer Fokus*                                                              |          |                |
-| [[Holzstab]]                                                                     |     5 GM |        2,0 kg. |
+| [[Holzstab-phb]]                                                                     |     5 GM |        2,0 kg. |
 | [[Mistelzweigsprössling-phb]]                                                        |     1 GM |              — |
-| [[Totem]]                                                                        |     1 GM |              — |
+| [[Totem-phb]]                                                                        |     1 GM |              — |
 | [[Eibenzauberstab-phb]]                                                              |    10 GM |        0,5 kg. |
 |                                                                                  |          |                |
 | [[Eimer-old]]                                                                        |     5 KM |        1,0 kg. |
@@ -43,7 +44,7 @@ _Quellen:_ Spielerhandbuch
 | [Flasche, Glas](Flasche-phb.md)                                                  |     2 GM |        1,0 kg. |
 | [[Becher-old]] oder [[Tonhumpen]]                                                       |     2 KM |        0,5 kg. |
 | [[Flaschenzug]]                                                                  |     1 GM |        2,5 kg. |
-| [[Gegengiftphiole]]                                                              |    50 GM |              — |
+| [[Gegengiftphiole-old]]                                                              |    50 GM |              — |
 | [[Giftmischerausrüstung-old]]                                                          |    50 GM |        1,0 kg. |
 | [Giftphiole, einfach](Giftphiole-einfach.md)                      |   100 GM |              — |
 | [[Glocke-old]]                                                                       |     1 GM |              — |
@@ -68,7 +69,7 @@ _Quellen:_ Spielerhandbuch
 | [Kletterhaken](Kletterhaken.md)                                   |     5 KM |      0,125 kg. |
 | [Köcher](Köcher.md)                                               |     1 GM |        0,5 kg. |
 | [Korb-old](Korb-old.md)                                                   |     4 SM |        1,0 kg. |
-| [Krähenfüße (Beutel mit 20)](Krähenfüße-Beutel-mit-20.md)         |     1 GM |        1,0 kg. |
+| [Krähenfüße (Beutel mit 20)](Krähenfüße-Beutel-mit-20-old.md)         |     1 GM |        1,0 kg. |
 | [Kräuterkunde-Ausrüstung](Kräuterkunde-Ausrüstung.md)               |     5 GM |        1,5 kg. |
 | [Kreide (1 Stück)](Kreide-1-Stück-old.md)                             |     1 KM |              — |
 | [Tonkrug](Tonkrug.md) oder [Kanne-old](Kanne-old.md)                                 |     2 KM |        2,0 kg. |
@@ -76,7 +77,7 @@ _Quellen:_ Spielerhandbuch
 | [Laterne (abdeckbar)](Abdeckbare-Laterne.md)                                   |     5 GM |        1,0 kg. |
 | [Laterne (Blendlaterne)](../Gegenstände/Blendlaterne.md)                         |    10 GM |          1 kg. |
 | [Leiter (3 Meter)](../Gegenstände/Leiter-3-Meter.md)                             |     1 SM |       12,5 kg. |
-| [Lupe](magnifying-glass.md)                                       |   100 GM |              — |
+| [Lupe](magnifying-glass-phb.md)                                       |   100 GM |              — |
 | [Materialkomponentenbeutel](../Gegenstände/Materialkomponentenbeutel.md)         |    25 GM |        1,0 kg. |
 | [Metallkugeln (Beutel mit 1000)](Metallkugeln-Beutel-mit-1000.md) |     1 GM |        1,0 kg. |
 | *Munition*                                                                       |          |                |
@@ -92,7 +93,7 @@ _Quellen:_ Spielerhandbuch
 | [Phiole-old](Phiole-old.md)                                               |     1 GM |              — |
 | [Rammbock, tragbar](portable-ram-phb.md)                              |     4 GM |       17,5 kg. |
 | [Rationen (1 Tag)](Tagesration.md)                                |     5 SM |        1,0 kg. |
-| [Reisegeschirr](mess-kit.md)                                      |     2 SM |        0,5 kg. |
+| [Reisegeschirr](mess-kit-phb.md)                                      |     2 SM |        0,5 kg. |
 | [Robe](Roben-phb.md)                                                  |     1 GM |        2,0 kg. |
 | [Rucksack](../Gegenstände/Rucksack.md)                                           |     2 GM |       2,5 kg.. |
 | [Sack-phb](Sack-phb.md)                                                   |     1 KM |       0,25 kg. |
@@ -101,17 +102,17 @@ _Quellen:_ Spielerhandbuch
 | [Schaufel](Schaufel.md)                                           |     2 GM |        2,5 kg. |
 | [Schlafsack-old](Schlafsack-old.md)                                       |     1 GM |        3,5 kg. |
 | [Schloss-old](Schloss-old.md)                                             |    10 GM |        0,5 kg. |
-| [Schreibfeder](ink-pen.md)                                        |     2 KM |              — |
+| [Schreibfeder](ink-pen-phb.md)                                        |     2 KM |              — |
 | [Seife](Seife.md)                                                 |     2 KM |              — |
-| [Seil, Hanf (15 Meter)](hempen-rope-50-feet.md)                   |     1 GM |        5,0 kg. |
-| [Seil, Seide (15 Meter)](silk-rope-50-feet.md)                    |    10 GM |        2,5 kg. |
+| [Seil, Hanf (15 Meter)](hempen-rope-50-feet-phb.md)                   |     1 GM |        5,0 kg. |
+| [Seil, Seide (15 Meter)](silk-rope-50-feet-phb.md)                    |    10 GM |        2,5 kg. |
 | [Siegelring](Siegelring-phb.md)                                      |     5 GM |              — |
 | [Siegelwachs](sealing-wax-phb.md)                                     |     5 SM |              — |
-| [Signalpfeife](signal-whistle.md)                                 |     5 KM |              — |
-| [Spiegel (Stahl)](steel-mirror.md)                                |     5 GM |       0,25 kg. |
-| [Spitzhacke](miners-pick.md)                                      |     2 GM |       5,0 kg.. |
+| [Signalpfeife](signal-whistle-phb.md)                                 |     5 KM |              — |
+| [Spiegel (Stahl)](steel-mirror-phb.md)                                |     5 GM |       0,25 kg. |
+| [Spitzhacke](miners-pick-dmg.md)                                      |     2 GM |       5,0 kg.. |
 | [Stange (3 Meter)](pole-10-foot-phb.md)                               |     5 KM |        3,5 kg. |
-| [Tinte (Flasche, 30 ml)](ink-1-ounce-bottle.md)                   |    10 GM |              — |
+| [Tinte (Flasche, 30 ml)](ink-1-ounce-bottle-phb.md)                   |    10 GM |              — |
 | [Topf (Eisen)](Eisentopf-phb.md)                                       |     2 GM |        5,0 kg. |
 | [Kiste-old](Kiste-old.md)                                                                |     5 GM |       12,5 kg. |
 | [Verkleidungsausrüstung](Verkleidungsausrüstung.md)               |    25 GM |        1,5 kg. |

@@ -1,6 +1,6 @@
 ---
-cssclasses: json5e-item
 Bezeichnung: Helm der Teleportation
+Kategorie: Wundersamer Gegenstand
 tags:
   - Gegenstand/Einstimmung
   - Gegenstand/Seltenheit/selten

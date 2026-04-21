@@ -1,15 +1,14 @@
 ---
-cssclasses:
-  - json5e-spell
+Bezeichnung: Mirage Arcane
 tags:
-  - Quelle/5e/xphb
   - Klasse/Barde
   - Klasse/Druide
   - Klasse/Magier
-  - Zauber/Grad/7
-  - Zauber/Schule/illusion
+  - Quelle/5e/xphb
   - Subklasse/arcana-domain
   - Subklasse/illusionist
+  - Zauber/Grad/7
+  - Zauber/Schule/illusion
 classes:
   - Bard
   - Cleric (Arcana Domain)
@@ -21,7 +20,6 @@ aliases:
 ---
 # Mirage Arcane
 *7th-level, Illusion*  
-
 
 - **Casting time:** 10 minutes
 - **Range:** Sight

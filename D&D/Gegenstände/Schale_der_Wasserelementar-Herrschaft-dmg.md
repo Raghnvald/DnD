@@ -1,7 +1,9 @@
 ---
-Bezeichnung: Schale der Wasserelementar-Herrschaft
+Bezeichnung: Bowl of Commanding Water Elementals
+Kategorie: Wundersamer Gegenstand 
 tags:
   - Gegenstand/Seltenheit/selten
+  - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
   - Bowl of Commanding Water Elementals

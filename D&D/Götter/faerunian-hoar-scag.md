@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Hoar
 tags:
-  - Quelle/5e/scag
-  - Kompendium/Götter/faerunian
   - Kompendium/Götter/Domäne/war
+  - Kompendium/Götter/faerunian
+  - Quelle/5e/scag
 aliases:
   - Hoar
-  - The Doombringer
   - Poet of Justice
+  - The Doombringer
 ---
 # Hoar
 *Source: Sword Coast Adventurer's Guide p. 21* 

@@ -2,9 +2,9 @@
 Bezeichnung: Alles in Ordnung
 Kategorie: Bastion
 tags:
-- Quelle/5e/xdmg
+  - Quelle/5e/xdmg
 aliases:
-- All Is Well
+  - All Is Well
 ---
 # Alles in Ordnung
 *Quelle: Spielleiterhandbuch (2024), S. 350* 

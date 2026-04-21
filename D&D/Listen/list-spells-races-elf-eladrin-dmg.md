@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Elf (Eladrin)
 tags:
   - Zauber/list/subrace/elf-eladrin
 aliases:

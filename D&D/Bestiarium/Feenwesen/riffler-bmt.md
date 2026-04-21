@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/bmt
-  - Monster/HG/5
-  - Monster/Größe/Klein
-  - Monster/Typ/Fee
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Riffler
+tags:
+  - Monster/Größe/Klein
+  - Monster/HG/5
+  - Monster/Typ/Fee
+  - Quelle/5e/bmt
 aliases:
   - Riffler
 ---

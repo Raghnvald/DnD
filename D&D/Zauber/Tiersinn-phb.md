@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Beast Sense
 Zaubergrad: 2
 tags:

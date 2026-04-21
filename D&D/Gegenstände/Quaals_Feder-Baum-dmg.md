@@ -1,9 +1,9 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Quaal's Feather Token, Tree
+Bezeichnung: "Quaal's Feather Token, Tree"
+Kategorie: Wundersamer Gegenstand 
 tags:
   - Gegenstand/Seltenheit/selten
+  - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
   - Quaal's Feather Token, Tree

@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-class
 Bezeichnung: Eldritch Knight
 tags:
   - Klasse/Kämpfer/eldritch-knight

@@ -1,5 +1,5 @@
 ---
-cssclasses: json5e-note
+Bezeichnung: Credits
 tags:
   - Quelle/5e/fs
 aliases:

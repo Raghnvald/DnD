@@ -1,8 +1,8 @@
 ---
-cssclasses: json5e-note
+Bezeichnung: Stimme des Kettenmeisters
 tags:
-  - Quelle/5e/phb
   - Kompendium/Optionales/Anrufungen
+  - Quelle/5e/phb
 aliases:
   - Voice of the Chain Master
 ---

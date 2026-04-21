@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Spellcasting; Multiclass Spellcaster: Spell Slots per Spell Level"
 tags:
   - Quelle/5e/xphb
 aliases:

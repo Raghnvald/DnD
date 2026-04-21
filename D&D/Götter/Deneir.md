@@ -1,12 +1,12 @@
 ---
-cssclasses: json5e-deity
+Bezeichnung: Deneir, Gott der Schrift
 tags:
-  - Quelle/5e/phb
   - Kompendium/Götter
-  - Kompendium/Götter/Gesinnung/Neutral_Gut
-  - Kompendium/Götter/Pantheon/Faerun
   - Kompendium/Götter/Domäne/Arkana
   - Kompendium/Götter/Domäne/Wissen
+  - Kompendium/Götter/Gesinnung/Neutral_Gut
+  - Kompendium/Götter/Pantheon/Faerun
+  - Quelle/5e/phb
 aliases:
   - Deneir
 ---

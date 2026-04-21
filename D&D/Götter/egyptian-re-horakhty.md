@@ -1,11 +1,10 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Re-Horakhty
 tags:
-  - Quelle/5e/phb
-  - Kompendium/Götter/egyptian
   - Kompendium/Götter/Domäne/life
   - Kompendium/Götter/Domäne/light
+  - Kompendium/Götter/egyptian
+  - Quelle/5e/phb
 aliases:
   - Re-Horakhty
 ---

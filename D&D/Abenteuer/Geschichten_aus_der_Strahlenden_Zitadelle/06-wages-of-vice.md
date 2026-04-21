@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Wages of Vice
 tags:
   - Quelle/5e/jttrc
 aliases:

@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-reward
+Bezeichnung: Charm of Restoration
 tags:
-  - Quelle/5e/dmg
   - Kompendium/Belohnung/charm
+  - Quelle/5e/dmg
 aliases:
   - Charm of Restoration
 ---

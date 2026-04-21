@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Physical Characteristics; Beholder Body Diameter
 tags:
   - Quelle/5e/vgm
 aliases:

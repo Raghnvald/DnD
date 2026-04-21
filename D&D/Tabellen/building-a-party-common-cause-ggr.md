@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Building a Party; Common Cause
 tags:
   - Quelle/5e/ggr
 aliases:

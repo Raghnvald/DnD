@@ -1,303 +1,308 @@
 ---
-cssclasses:
-  - json5e-class
+Bezeichnung: Rogue
 tags:
   - Klasse/Schurke
   - Quelle/5e/phb
 aliases:
   - Rogue
 ---
-# Rogue
-*Source: Player's Handbook p. 94. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+# Schurke
+*Quelle: Spielerhandbuch S. 105. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*  
 
-> [!tldr] Class and Feature Progression
+> [!tldr] Klassen- und Merkmalsfortschritt
 > 
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='4'></th></tr>
-> <tr class="class-progression"><th class"level">Level</th><th class"pb">PB</th><th class"feature">Features</th><th class="value">Sneak Attack</th></tr>
+> <tr class="class-progression"><th class"level">Stufe</th><th class"pb">ÜB</th><th class"feature">Merkmale</th><th class="value">Hinterhältiger Angriff</th></tr>
 > </thead><tbody>
-> <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"><a href='#Expertise (Level 1)' class='internal-link'>Expertise</a>, <a href='#Sneak Attack (Level 1)' class='internal-link'>Sneak Attack</a>, <a href='#Thieves' Cant (Level 1)' class='internal-link'>Thieves' Cant</a></td><td class="value">1d6</td></tr>
-> <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"><a href='#Cunning Action (Level 2)' class='internal-link'>Cunning Action</a></td><td class="value">1d6</td></tr>
-> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Roguish Archetype (Level 3)' class='internal-link'>Roguish Archetype</a>, <a href='#Steady Aim (Level 3)' class='internal-link'>Steady Aim</a></td><td class="value">2d6</td></tr>
-> <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"><a href='#Ability Score Improvement (Level 4)' class='internal-link'>Ability Score Improvement</a></td><td class="value">2d6</td></tr>
-> <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"><a href='#Uncanny Dodge (Level 5)' class='internal-link'>Uncanny Dodge</a></td><td class="value">3d6</td></tr>
-> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Expertise (Level 6)' class='internal-link'>Expertise</a></td><td class="value">3d6</td></tr>
-> <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"><a href='#Evasion (Level 7)' class='internal-link'>Evasion</a></td><td class="value">4d6</td></tr>
-> <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"><a href='#Ability Score Improvement (Level 8)' class='internal-link'>Ability Score Improvement</a></td><td class="value">4d6</td></tr>
-> <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"><a href='#Roguish Archetype feature (Level 9)' class='internal-link'>Roguish Archetype feature</a></td><td class="value">5d6</td></tr>
-> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"><a href='#Ability Score Improvement (Level 10)' class='internal-link'>Ability Score Improvement</a></td><td class="value">5d6</td></tr>
-> <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"><a href='#Reliable Talent (Level 11)' class='internal-link'>Reliable Talent</a></td><td class="value">6d6</td></tr>
-> <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"><a href='#Ability Score Improvement (Level 12)' class='internal-link'>Ability Score Improvement</a></td><td class="value">6d6</td></tr>
-> <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"><a href='#Roguish Archetype feature (Level 13)' class='internal-link'>Roguish Archetype feature</a></td><td class="value">7d6</td></tr>
-> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Blindsense (Level 14)' class='internal-link'>Blindsense</a></td><td class="value">7d6</td></tr>
-> <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"><a href='#Slippery Mind (Level 15)' class='internal-link'>Slippery Mind</a></td><td class="value">8d6</td></tr>
-> <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"><a href='#Ability Score Improvement (Level 16)' class='internal-link'>Ability Score Improvement</a></td><td class="value">8d6</td></tr>
-> <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"><a href='#Roguish Archetype feature (Level 17)' class='internal-link'>Roguish Archetype feature</a></td><td class="value">9d6</td></tr>
-> <tr class="class-progression"><td class"level">18th</td><td class"pb">+6</td><td class"feature"><a href='#Elusive (Level 18)' class='internal-link'>Elusive</a></td><td class="value">9d6</td></tr>
-> <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"><a href='#Ability Score Improvement (Level 19)' class='internal-link'>Ability Score Improvement</a></td><td class="value">10d6</td></tr>
-> <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"><a href='#Stroke of Luck (Level 20)' class='internal-link'>Stroke of Luck</a></td><td class="value">10d6</td></tr>
+> <tr class="class-progression"><td class"level">1</td><td class"pb">+2</td><td class"feature"><a href='#Expertise (Stufe 1)' class='internal-link'>Expertise</a>, <a href='#Hinterhältiger Angriff (Stufe 1)' class='internal-link'>Hinterhältiger Angriff</a>, <a href='#Diebessprache (Stufe 1)' class='internal-link'>Diebessprache</a></td><td class="value">1W6</td></tr>
+> <tr class="class-progression"><td class"level">2</td><td class"pb">+2</td><td class"feature"><a href='#Raffinierte Aktion (Stufe 2)' class='internal-link'>Raffinierte Aktion</a></td><td class="value">1W6</td></tr>
+> <tr class="class-progression"><td class"level">3</td><td class"pb">+2</td><td class"feature"><a href='#Schurkenarchetyp (Stufe 3)' class='internal-link'>Schurkenarchetyp</a>, <a href='#Zielsicher (Stufe 3)' class='internal-link'>Zielsicher</a></td><td class="value">2W6</td></tr>
+> <tr class="class-progression"><td class"level">4</td><td class"pb">+2</td><td class"feature"><a href='#Attributswerterhöhung (Stufe 4)' class='internal-link'>Attributswerterhöhung</a></td><td class="value">2W6</td></tr>
+> <tr class="class-progression"><td class"level">5</td><td class"pb">+3</td><td class"feature"><a href='#Unglaubliches Ausweichen (Stufe 5)' class='internal-link'>Unglaubliches Ausweichen</a></td><td class="value">3W6</td></tr>
+> <tr class="class-progression"><td class"level">6</td><td class"pb">+3</td><td class"feature"><a href='#Expertise (Stufe 6)' class='internal-link'>Expertise</a></td><td class="value">3W6</td></tr>
+> <tr class="class-progression"><td class"level">7</td><td class"pb">+3</td><td class"feature"><a href='#Entrinnen (Stufe 7)' class='internal-link'>Entrinnen</a></td><td class="value">4W6</td></tr>
+> <tr class="class-progression"><td class"level">8</td><td class"pb">+3</td><td class"feature"><a href='#Attributswerterhöhung (Stufe 8)' class='internal-link'>Attributswerterhöhung</a></td><td class="value">4W6</td></tr>
+> <tr class="class-progression"><td class"level">9</td><td class"pb">+4</td><td class"feature"><a href='#Merkmal: Schurkenarchetyp (Stufe 9)' class='internal-link'>Merkmal: Schurkenarchetyp</a></td><td class="value">5W6</td></tr>
+> <tr class="class-progression"><td class"level">10</td><td class"pb">+4</td><td class"feature"><a href='#Attributswerterhöhung (Stufe 10)' class='internal-link'>Attributswerterhöhung</a></td><td class="value">5W6</td></tr>
+> <tr class="class-progression"><td class"level">11</td><td class"pb">+4</td><td class"feature"><a href='#Verlässliches Talent (Stufe 11)' class='internal-link'>Verlässliches Talent</a></td><td class="value">6W6</td></tr>
+> <tr class="class-progression"><td class"level">12</td><td class"pb">+4</td><td class"feature"><a href='#Attributswerterhöhung (Stufe 12)' class='internal-link'>Attributswerterhöhung</a></td><td class="value">6W6</td></tr>
+> <tr class="class-progression"><td class"level">13</td><td class"pb">+5</td><td class"feature"><a href='#Merkmal: Schurkenarchetyp (Stufe 13)' class='internal-link'>Merkmal: Schurkenarchetyp</a></td><td class="value">7W6</td></tr>
+> <tr class="class-progression"><td class"level">14</td><td class"pb">+5</td><td class"feature"><a href='#Blindgespür (Stufe 14)' class='internal-link'>Blindgespür</a></td><td class="value">7W6</td></tr>
+> <tr class="class-progression"><td class"level">15</td><td class"pb">+5</td><td class"feature"><a href='#Entschlüpfender Geist (Stufe 15)' class='internal-link'>Entschlüpfender Geist</a></td><td class="value">8W6</td></tr>
+> <tr class="class-progression"><td class"level">16</td><td class"pb">+5</td><td class"feature"><a href='#Attributswerterhöhung (Stufe 16)' class='internal-link'>Attributswerterhöhung</a></td><td class="value">8W6</td></tr>
+> <tr class="class-progression"><td class"level">17</td><td class"pb">+6</td><td class"feature"><a href='#Merkmal: Schurkenarchetyp (Stufe 17)' class='internal-link'>Merkmal: Schurkenarchetyp</a></td><td class="value">9W6</td></tr>
+> <tr class="class-progression"><td class"level">18</td><td class"pb">+6</td><td class"feature"><a href='#Schwer zu fassen (Stufe 18)' class='internal-link'>Schwer zu fassen</a></td><td class="value">9W6</td></tr>
+> <tr class="class-progression"><td class"level">19</td><td class"pb">+6</td><td class"feature"><a href='#Attributswerterhöhung (Stufe 19)' class='internal-link'>Attributswerterhöhung</a></td><td class="value">10W6</td></tr>
+> <tr class="class-progression"><td class"level">20</td><td class"pb">+6</td><td class"feature"><a href='#Glückstreffer (Stufe 20)' class='internal-link'>Glückstreffer</a></td><td class="value">10W6</td></tr>
 > </tbody></table>
 
 ^class-progression
 
-## Hit Points
+## Trefferpunkte
 
-- **Hit Dice**: 1d8 per Rogue level
-- **Hit Points at First Level:** 8 + CON
-- **Hit Points at Higher Levels:** add 5 OR 1d8 + CON  (minimum of 1)
+- **Trefferwürfel**: 1W8 pro Stufe als Schurke
+- **Trefferpunkte auf Stufe 1:** 8 + dein Konstitutionsmodifikator
+- **Trefferpunkte auf höheren Stufen:** 1W8 (oder 5) + dein Konstitutionsmodifikator pro Stufe als Schurke über die 1. Stufe hinaus
 
-## Starting Rogue
+## Übung
 
-- **Saving Throws**: Dexterity, Intelligence
-- **Armor**: [light armor](/3-Mechanics/CLI/item-types.md#Light%20Armor)
-- **Weapons**: simple weapons, [hand crossbows](/3-Mechanics/CLI/items/hand-crossbow.md), [longswords](/3-Mechanics/CLI/items/longsword.md), [rapiers](/3-Mechanics/CLI/items/rapier.md), [shortswords](/3-Mechanics/CLI/items/shortsword.md)
-- **Tools**: [thieves' tools](/3-Mechanics/CLI/items/thieves-tools.md)
-- **Skills**: choose 4 from [Acrobatics](/3-Mechanics/CLI/skills.md#Acrobatics), [Athletics](/3-Mechanics/CLI/skills.md#Athletics), [Deception](/3-Mechanics/CLI/skills.md#Deception), [Insight](/3-Mechanics/CLI/skills.md#Insight), [Intimidation](/3-Mechanics/CLI/skills.md#Intimidation), [Investigation](/3-Mechanics/CLI/skills.md#Investigation), [Perception](/3-Mechanics/CLI/skills.md#Perception), [Performance](/3-Mechanics/CLI/skills.md#Performance), [Persuasion](/3-Mechanics/CLI/skills.md#Persuasion), [Sleight of Hand](/3-Mechanics/CLI/skills.md#Sleight%20of%20Hand), and [Stealth](/3-Mechanics/CLI/skills.md#Stealth)
+- **Rüstungen**: [[Gegenstandsarten-phb#Leichte Rüstung|Leichte Rüstung]]
+- **Waffen**: einfache Waffen, [[Handarmbrust-phb|Handarmbrust]], [[Langschwert-phb|Langschwert]], [[Rapier-phb|Rapier]], [[Kurzschwert-phb|Kurzschwert]]
+- **Werkzeuge**: [[Diebeswerkzeug-phb|Diebeswerkzeug]] <br><br>
+- **Rettungswürfe**: Geschicklichkeit und Intelligenz
+- **Fertigkeiten**: vier nach Wahl: [[01-Spielleiter/Fertigkeiten-phb#Akrobatik|Akrobatik]], [[01-Spielleiter/Fertigkeiten-phb#Athletik|Athletik]],  [[01-Spielleiter/Fertigkeiten-phb#Auftreten|Auftreten]],  [[01-Spielleiter/Fertigkeiten-phb#Einschüchtern|Einschüchtern]], [[01-Spielleiter/Fertigkeiten-phb#Fingerfertigkeit|Fingerfertigkeit]], [[01-Spielleiter/Fertigkeiten-phb#Heimlichkeit|Heimlichkeit]], [[01-Spielleiter/Fertigkeiten-phb#Motiv erkennen|Motiv erkennen]], [[01-Spielleiter/Fertigkeiten-phb#Nachforschungen|Nachforschungen]], [[01-Spielleiter/Fertigkeiten-phb#Täuschen|Täuschen]], [[01-Spielleiter/Fertigkeiten-phb#Überzeugen|Überzeugen]], [[01-Spielleiter/Fertigkeiten-phb#Wahrnehmung|Wahrnehmung]]
+ 
+## Ausrüstung
 
-You start with the following items, plus anything provided by your background.
+Du beginnst mit der folgenden Ausrüstung, zusätzlich zu der, die du durch deinen Hintergrund erhältst:
 
-- (a) a [rapier](/3-Mechanics/CLI/items/rapier.md) or (b) a [shortsword](/3-Mechanics/CLI/items/shortsword.md)
-- (a) a [shortbow](/3-Mechanics/CLI/items/shortbow.md) and [quiver](/3-Mechanics/CLI/items/quiver.md) of [20 arrows](/3-Mechanics/CLI/items/arrows-20.md) or (b) a [shortsword](/3-Mechanics/CLI/items/shortsword.md)
-- (a) a [burglar's pack](/3-Mechanics/CLI/items/burglars-pack.md), (b) a [dungeoneer's pack](/3-Mechanics/CLI/items/dungeoneers-pack.md), or (c) an [explorer's pack](/3-Mechanics/CLI/items/explorers-pack.md)
-- [Leather armor](/3-Mechanics/CLI/items/leather-armor.md), two [daggers](/3-Mechanics/CLI/items/dagger.md), and [thieves' tools](/3-Mechanics/CLI/items/thieves-tools.md)
+- _(a)_ ein [[Rapier-phb|Rapier]] oder _(b)_ ein [[Kurzschwert-phb|Kurzschwert]]
+- _(a)_ ein [[Kurzbogen-phb|Kurzbogen]]  mit [[Pfeile-20-phb|20 Pfeilen]] oder _(b)_ ein [[Kurzschwert-phb|Kurzschwert]]
+- _(a)_ eine [[Einbrecherausrüstung-phb|Einbrecherausrüstung]], _(b)_ eine [[Gewölbeforscherausrüstung-phb|Gewölbeforschwerausrüstung]] oder _(c)_ eine [[Entdeckerausrüstung-phb|Entdeckerausrüstung]]
+- eine [[Lederrüstung-phb|Lederrüstung]], zwei [[Dolch-phb|Dolch]] und [[Diebeswerkzeug-phb|Diebeswerkzeug]]
 
 Alternatively, you may start with 4d4 × 10 gp to buy your own equipment.
 
-## Multiclassing Rogue
+## Klassenkombination Schurke
 
-**Ability Score Minimum:** Dexterity 13
+**Minimaler Attributswert:** Geschicklichkeit 13
 
 When you gain a level in a class other than your first, you gain only some of that class's starting proficiencies.
 
-- **Armor**: [light armor](/3-Mechanics/CLI/item-types.md#Light%20Armor)
-- **Tools**: [thieves' tools](/3-Mechanics/CLI/items/thieves-tools.md)
-- **Skills**: choose 1 from [Acrobatics](/3-Mechanics/CLI/skills.md#Acrobatics), [Athletics](/3-Mechanics/CLI/skills.md#Athletics), [Deception](/3-Mechanics/CLI/skills.md#Deception), [Insight](/3-Mechanics/CLI/skills.md#Insight), [Intimidation](/3-Mechanics/CLI/skills.md#Intimidation), [Investigation](/3-Mechanics/CLI/skills.md#Investigation), [Perception](/3-Mechanics/CLI/skills.md#Perception), [Performance](/3-Mechanics/CLI/skills.md#Performance), [Persuasion](/3-Mechanics/CLI/skills.md#Persuasion), [Sleight of Hand](/3-Mechanics/CLI/skills.md#Sleight%20of%20Hand), and [Stealth](/3-Mechanics/CLI/skills.md#Stealth)
+- **Rüstungen**: [[Gegenstandsarten-phb#Leichte Rüstung|Leichte Rüstung]]
+- **Werkzeuge**: [[Diebeswerkzeug-phb|Diebeswerkzeug]] 
+- **Fertigkeiten**: einen nach Wahl: [[01-Spielleiter/Fertigkeiten-phb#Akrobatik|Akrobatik]], [[01-Spielleiter/Fertigkeiten-phb#Athletik|Athletik]],  [[01-Spielleiter/Fertigkeiten-phb#Auftreten|Auftreten]],  [[01-Spielleiter/Fertigkeiten-phb#Einschüchtern|Einschüchtern]], [[01-Spielleiter/Fertigkeiten-phb#Fingerfertigkeit|Fingerfertigkeit]], [[01-Spielleiter/Fertigkeiten-phb#Heimlichkeit|Heimlichkeit]], [[01-Spielleiter/Fertigkeiten-phb#Motiv erkennen|Motiv erkennen]], [[01-Spielleiter/Fertigkeiten-phb#Nachforschungen|Nachforschungen]], [[01-Spielleiter/Fertigkeiten-phb#Täuschen|Täuschen]], [[01-Spielleiter/Fertigkeiten-phb#Überzeugen|Überzeugen]], [[01-Spielleiter/Fertigkeiten-phb#Wahrnehmung|Wahrnehmung]]
 
-## Rogue
+## Schurke
 
-Signaling for her companions to wait, a halfling creeps forward through the dungeon hall. She presses an ear to the door, then pulls out a set of tools and picks the lock in the blink of an eye. Then she disappears into the shadows as her fighter friend moves forward to kick the door open.
+Ihren Gefährten signalisierend zu warten, kriecht eine Halblingfrau in eine Halle des Gewölbes. Sie drückt ihr Ohr an die Tür und holt dann einen Satz Werkzeuge hervor, mit dem sie das Schloss innerhalb eines kurzen Augenblicks knackt. Dann verschwindet sie in den Schatten, um dem Kämpfer ihrer Gruppe Platz zu machen, der die Tür mit einem Tritt aufstößt.
 
-A human lurks in the shadows of an alley while his accomplice prepares for her part in the ambush. When their target—a notorious slaver—passes the alleyway, the accomplice cries out, the slaver comes to investigate, and the assassin's blade cuts his throat before he can make a sound.
+Ein Mensch lauert in den Schatten einer Seitenstraße, während seine Komplizin sich auf ihren Teil des Hinterhalts vorbereitet. Sobald ihr Ziel, ein gemeingefährlicher Sklavenhändler, an der Gasse vorbeigeht, schreit die Komplizin auf. Der Sklavenhändler kommt näher, um den Schrei zu untersuchen, und die Klinge des Assassinen durchtrennt seine Kehle, ehe das Opfer ein Geräusch von sich geben kann.
 
-Suppressing a giggle, a gnome waggles her fingers and magically lifts the key ring from the guard's belt. In a moment, the keys are in her hand, the cell door is open, and she and her companions are free to make their escape.
+Ein Kichern unterdrückend, wedelt eine Gnomin in ihrer Zelle mit den Fingern und lupft auf magische Weise den Schlüsselbund vom Gürtel der Wache. Einen Moment später sind die Schlüssel in ihrer Hand, die Zellentür geöffnet, und sie sowie ihre Gefährten frei und auf der Flucht.
 
-Rogues rely on skill, stealth, and their foes' vulnerabilities to get the upper hand in any situation. They have a knack for finding the solution to just about any problem, demonstrating a resourcefulness and versatility that is the cornerstone of any successful adventuring party.
+Schurken verlassen sich auf Erfahrung, Heimlichkeit und das Ausnutzen gegnerischer Schwachstellen, um in allen Situation die Oberhand zu gewinnen. Sie besitzen ein Talent dafür. für jedes Problem eine Lösung zu finden, und erweisen sich als vielseitig und einfallsreich, was den Grundstein jeder erfolgreichen Abenteurergruppe bildet.
 
-### Skill and Precision
+### Können und Präzision
 
-Rogues devote as much effort to mastering the use of a variety of skills as they do to perfecting their combat abilities, giving them a broad expertise that few other characters can match. Many rogues focus on stealth and deception, while others refine the skills that help them in a dungeon environment, such as climbing, finding and disarming traps, and opening locks.
+Schurken widmen sich ebenso dem Meistern ihrer Fertigkeiten wie dem Perfektionieren ihrer Kampfkünste, was ihnen eine breitgefächerte Expertise verschafft, wie sie nur wenige andere Abenteurer besitzen. Viele Schurken konzentrieren sich auf Heimlichkeit und Täuschung, während andere jene Fähigkeiten verfeinern, die sie zum Überleben in gefährlichen alten Ruinen und Gewölben benötigen, wie etwa das Finden und Entschärfen von Fallen oder das Knacken von Schlössern.
 
-When it comes to combat, rogues prioritize cunning over brute strength. A rogue would rather make one precise strike, placing it exactly where the attack will hurt the target most, than wear an opponent down with a barrage of attacks. Rogues have an almost supernatural knack for avoiding danger, and a few learn magical tricks to supplement their other abilities.
+Im Kampf geben Schurken der Gerissenheit den Vortritt vor brutaler Stärke. Sie setzen lieber einen präzisen Schlag an, der eine Schwachstelle des Gegners trifft, als diesen mit einer Vielzahl heftiger Angriffe zu überwinden. Schurken besitzen ein beinahe übernatürliches Talent dafür, Gefahren auszuweichen, und einige lernen sogar magische Tricks, um ihre Fähigkeiten zu verbessern.
 
-### A Shady Living
+### Ein zwielichtiges Leben 
 
-Every town and city has its share of rogues. Most of them live up to the worst stereotypes of the class, making a living as burglars, assassins, cutpurses, and con artists. Often, these scoundrels are organized into thieves' guilds or crime families. Plenty of rogues operate independently, but even they sometimes recruit apprentices to help them in their scams and heists. A few rogues make an honest living as locksmiths, investigators, or exterminators, which can be a dangerous job in a world where dire rats—and wererats—haunt the sewers.
+In jeder Stadt und jedem Dorf gibt es Schurken. Die meisten werden den schlimmsten Stereotypen dieser Klasse gerecht und leben als Räuber, Assassinen, Beutelschneider und Trickbetrüger. Häufig sind diese Halunken in Diebesgilden oder Verbrecherfamilien organisiert. Viele Schurken agieren unabhängig, werben jedoch manchmal Hilfskräfte an, die ihnen bei Einbrüchen und Betrügereien zur Hand zu gehen. Einige wenige verdienen ihr Geld auf ehrliche Weise als Schlosser, Ermittler oder Kammerjäger, was ein gefährlicher Beruf sein kann in einer Welt, in der Schreckens- und Werratten in den Abwasserkanälen lauern.
 
-As adventurers, rogues fall on both sides of the law. Some are hardened criminals who decide to seek their fortune in treasure hoards, while others take up a life of adventure to escape from the law. Some have learned and perfected their skills with the explicit purpose of infiltrating ancient ruins and hidden crypts in search of treasure.
+Als Abenteurer stehen Schurken auf beiden Seiten des Gesetzes. Manche sind abgebrühte Kriminelle, die sich entschieden haben, ihr Glück in Schatzhorten zu suchen, während andere ein Leben als Abenteurer wählen, um dem Gesetz zu entfliehen. Einige haben ihre Fähigkeiten gezielt gelernt und perfektioniert, um auf der Suche nach Schätzen in uralte Ruinen und versteckte Grabkammern einzudringen.
 
-### Creating a Rogue
+### Einen Schurken erschaffen
 
-As you create your rogue character, consider the character's relationship to the law. Do you have a criminal past—or present? Are you on the run from the law or from an angry thieves' guild master? Or did you leave your guild in search of bigger risks and bigger rewards? Is it greed that drives you in your adventures, or some other desire or ideal?
+Denke beim Erschaffen deines Schurken daran, in welcher Beziehung er zum Gesetz steht. Hat dein Charakter eine kriminelle Vergangenheit oder ist noch in verbrecherische Machenschaften verwickelt? Ist er auf der Flucht vor dem Gesetz oder dem verärgerten Meister einer Diebesgilde? Hat er seine Gilde auf der Suche nach größerem Risiko und größeren Belohnungen verlassen? Treibt ihn die Gier dazu, auf Abenteuer auszuziehen, oder ein anderes Verlangen oder Ideal?
 
-What was the trigger that led you away from your previous life? Did a great con or heist gone terribly wrong cause you to reevaluate your career? Maybe you were lucky and a successful robbery gave you the coin you needed to escape the squalor of your life. Did wanderlust finally call you away from your home? Perhaps you suddenly found yourself cut off from your family or your mentor, and you had to find a new means of support. Or maybe you made a new friend—another member of your adventuring party—who showed you new possibilities for earning a living and employing your particular talents.
+Was war der Auslöser, der deinen Charakter dazu gebracht hat, sein vorheriges Leben aufzugeben? Lief ein großer Betrug oder ein Einbruch schrecklich schief, sodass dein Schurke erneut über seine Karriere nachdachte? Vielleicht hatte er Glück und ein erfolgreicher Raub verschaffte ihm die notwendigen Mittel, um der Verkommenheit seines alten Lebens zu entfliehen. Hat die Wanderlust ihn schließlich von zu Hause weggelockt? Oder fand er sich plötzlich von seiner Familie oder seinem Mentor abgeschnitten und musste neue Unterstützer suchen? Vielleicht fand er auch einen neuen Freund, ein Mitglied seiner jetzigen Abenteurergruppe, der ihm neue Möglichkeiten aufzeigte, Geld zu verdienen und seine speziellen Talente einzusetzen.
 
-#### Quick Build
+#### Schnelle Erschaffung
 
-You can make a rogue quickly by following these suggestions. First, Dexterity should be your highest ability score. Make Intelligence your next-highest if you want to excel at Investigation or plan to take up the Arcane Trickster archetype. Choose Charisma instead if you plan to emphasize deception and social interaction. Second, choose the [charlatan](/3-Mechanics/CLI/backgrounds/charlatan.md) background.
+Du kannst dir einen Schurken schnell erschaffen, indem du diesen Vorschlägen folgst:
 
-> [!quote] A quote from Barnabas Bladecutter  
+Setze deinen höchsten Attributswert auf Geschicklichkeit, deinen zweithöchsten entweder auf Intelligenz oder Charisma. Intelligenz, wenn du beim Anstellen von Nachforschungen glänzen möchtest oder planst, den Archetyp des [[Schurke-phb-Arkaner-Betrüger-phb|Arkanen Betrügers]] anzunehmen. Charisma, wenn du deinen Schwerpunkt auf Täuschung und soziale Interaktion legen willst. Wähle zusätzlich den Hintergrund [[Scharlatan-phb|Scharlatan]].
+
+> [!quote] Barnabas Klingenschnitter  
 > 
-> People forget that the entire point of venturing down into a dusty tomb is to bring back the prizes hidden away there. Fighting is for fools. Dead men can't spend their fortunes.
+> Die Leute vergessen, dass es bei einer Expedition in eine staubige Gruft alleine darum geht, die dort verborgenen Schätze herauszuholen. Kämpfen ist etwas für Narren. Tote können ihren Reichtum nicht mehr ausgeben.
 
-When brute force won't get the job done, or when magic isn't available or appropriate, the rogue rises to the fore. With skills tied to stealth, subterfuge, and trickery, rogues can get into and out of trouble in ways that few other characters can emulate.
+Wenn rohe Gewalt nicht weiterhilft, wenn Magie nicht zur Verfügung steht oder an ihre Grenzen stößt, ist die Zeit des Schurken gekommen. Mittels seiner Fertigkeiten, die auf Heimlichkeit, List und Täuschung beruhen, versteht sich ein Schurke wie kaum ein anderer Charakter darauf, in Schwierigkeit zu geraten und wieder aus ihnen herauszukommen
 
-Some rogues who turn to adventuring are former criminals who have decided that dodging monsters is preferable to remaining one step ahead of the law. Others are professional killers in search of a profitable application of their talents between contracts. Some simply love the thrill of overcoming any challenge that stands in their way.
+Einige Schurken, die sich für das Leben des Abenteurers entscheiden, sind ehemalige Verbrecher, die beschlossen haben, dass es besser ist, Monstern auszuweichen, als den Gesetzeshütern immer einen Schritt voraus sein zu müssen. Andere sind professionelle Attentäter auf der Sache nach einer Möglichkeit, ihre Talente zwischen Aufträgen sinnvoll zu nutzen. Einige lieben auch einfach den Nervenkitzel, den sie verspüren, wenn sie jede Herausforderung bewältigen, die sich ihnen stellt.
 
-On adventures, a rogue is likely to mix an outwardly cautious approach—few rogues enjoy combat—with a ravenous hunger for loot. Most of the time, in a rogue's mind, taking up arms against a creature is not about killing the creature but about becoming the new owner of its treasure.
+Auf Abenteuern verbindet der Schurke wahrscheinlich eine nach außen hin vorsichtige Herangehensweise - nur wenige Schurken finden wirklich Gefallen am Kampf - mit einer unstillbaren Gier nach Schätzen. Meist geht es dem Schurken beim Kampf gegen Kreaturen gar nicht darum, sie zu töten, sondern lediglich darum, sie um ihre Wertgegenstände zu erleichtern.
 
-The following sections explore certain facets of what it means to be a rogue, which you can use to add depth to your character.
+Die folgenden Abschnitte beschäftigen sich mit bestimmten Facetten dessen, was es heißt, ein Schurke zu sein. Dies kannst du nutzen, um deinem Charakter zusätzliche Tiefe zu verleihen.
 
-> [!quote] A quote from Xanathar  
+> [!quote] Xanathar  
 > 
-> Thieves are the worst. I hate anyone that handles my stuff when I'm not looking, especially if they don't put it back where they found it.
+> Diebe sind schlimm. Ich hasse jeden, der mit meinen Sachen hantiert wenn ich nicht hinschaue. Vor allem, wenn sie die Sachen nicht dorthin zurücklegen, wo sie sie gefunden haben.
 
-## Guilty Pleasures
-_Source: Xanathar's Guide to Everything_
+## Laster
+_Quelle: Xanathars Ratgeber für Alles_
 
-Most of what rogues do revolves around obtaining treasure and preventing others from doing the same. Little gets in the way of attaining those goals, except that many rogues are enticed away from that path by a compulsion that clouds their thinking—an irresistible need that must be satisfied, even if doing so is risky.
+Meist ist ein Schurke darauf aus, Schätze zu erbeuten und andere daran zu hindern, dies ebenfalls zu tun. Von diesen Zielen lassen Schurken sich nur durch wenig abbringen, doch zahlreiche von ihnen verspüren einen inneren Zwang, der ihren Verstand benebelt - ein unwiderstehlicher Drang, den es zu befriedigen gilt, selbst wenn das riskant sein mag.
 
-A rogue's guilty pleasure could be the acquisition of a physical item, something to be experienced, or a way of conducting oneself at certain times. One rogue might not be able to pass up any loot made of silver, for instance, even if said loot is hanging around the neck of a castle guard. Another one can't go through a day in the city without lifting a purse or two, just to keep in practice.
+Vielleicht hat dein Schurke eine Schwäche für den Erwerb bestimmter Gegenstände, für eine bestimmte Erfahrung, oder es gibt eine Verhaltensweise, die er in bestimmten Momenten an den Tag legt. Ein bestimmter Schurke ist möglicherweise nicht in der Lage, Nein zu Wertgegenständen aus Silber zu sagen, selbst wenn besagter Gegenstand am Hals einer Schlosswache baumelt. Ein anderer lässt eventuell keinen Tag verstreichen, an dem er in der Stadt nicht ein, zwei Geldbörsen stiehlt, nur um nicht aus der Übung zu kommen.
 
-What's the one form of temptation that your rogue character can't resist when the opportunity presents itself, even if giving into it might mean trouble for you and your companions?
+Welcher Versuchung kann dein Schurkencharakter einfach nicht widerstehen, wenn sich die Gelegenheit bietet, selbst wenn du dir und deinen Gefährten damit Ärger einhandeln könntest?
 
-**Guilty Pleasures**
+**Laster**
 
-| dice: d6 | Pleasure |
-|----------|----------|
-| 1 | Large gems |
-| 2 | A smile from a pretty face |
-| 3 | A new ring for your finger |
-| 4 | The chance to deflate someone's ego |
-| 5 | The finest food and drink |
-| 6 | Adding to your collection of exotic coins |
+| W6  | Laster                                    | 
+| --- | ----------------------------------------- |
+| 1   | Large gems                                |
+| 2   | A smile from a pretty face                |
+| 3   | A new ring for your finger                |
+| 4   | The chance to deflate someone's ego       |
+| 5   | The finest food and drink                 |
+| 6   | Adding to your collection of exotic coins |
 ^guilty-pleasures
 
-## Adversaries
-_Source: Xanathar's Guide to Everything_
+## Widersacher
+_Quelle: Xanathars Ratgeber für Alles_
 
-Naturally, those who enforce the law are bound to come up against those who break it, and it's the rare rogue who isn't featured on at least one wanted poster. Beyond that, it's in the nature of their profession that rogues often come into contact with criminal elements, whether out of choice or necessity. Some of those people can be adversaries too, and they're likely to be harder to deal with than the average member of the city watch.
+Selbstverständlich geraten jene, die das Gesetz hüten, irgendwann in Konflikt mit jenen, die es brechen, und es gibt kaum einen Schurken, dessen Gesicht nicht auf zumindest einem Steckbrief prangt. Darüber hinaus bringt es das Handwerk des Schurken natürlich mit sich, dass er oft mit Kriminellen verkehrt, ob aus freiwilliger Entscheidung heraus oder gezwungenermaßen. Einige dieser Leute können sich auch als Widersacher erweisen, und wahrscheinlich sind sie härter zu bezwingen, als ein durchschnittliches Mitglied der Stadtwache.
 
-If your character's backstory doesn't already include a personage of this sort, you could work with your DM to come up with a reason why an adversary has appeared in your life. Perhaps you've been the subject of scrutiny for a while from someone who wants to use you for nefarious purposes and has just now become known to you. Such an incident could be the basis for an upcoming adventure.
+Wenn in der Hintergrundgeschichte deines Charakters noch keine solche Person vorkommt, könntest du dir gemeinsam mit deinem SL überlegen, wie es dazu kam, dass es einen Widersacher in deinem Leben gibt. Vielleicht behält dich schon länger jemand im Auge, der dich für seine schändlichen Zwecke missbrauchen will, und hat sich erst vor kurzem zu erkennen gegeben. Ein solcher Vorfall könnte die Grundlage für ein zukünftiges Abenteuer bilden.
 
-Does your rogue character have an adversary who also happens to be a criminal? If so, how is this relationship affecting your life?
+Hat dein Schurkencharakter einen Widersacher, der auch ein Verbrecher ist? Falls ja, wie wird dein Leben von dieser Feindschaft beeinflusst?
 
-**Adversaries**
+**Widersacher**
 
-| dice: d6 | Adversary |
-|----------|-----------|
-| 1 | The pirate captain on whose ship you once served; what you call moving on, the captain calls mutiny |
-| 2 | A master spy to whom you unwittingly fed bad information, which led to the assassination of the wrong target |
-| 3 | The master of the local thieves' guild, who wants you to join the organization or leave town |
-| 4 | An art collector who uses illegal means to acquire masterpieces |
-| 5 | A fence who uses you as a messenger to set up illicit meetings |
-| 6 | The proprietor of an illegal pit fighting arena where you once took bets |
+| W6  | Widersacher                                                                                                                    |
+| --- | ------------------------------------------------------------------------------------------------------------------------------ |
+| 1   | Der Piratenkapitän, auf dessen Schiff du einst gedient hast; was du als Neuanfang bezeichnest, nennt der Kapitän Meuterei.     | 
+| 2   | Ein Meisterspion, dem du unwissentlich falsche Informationen geliefert hast, was zur Ermordung der falschen Zielperson führte. |
+| 3   | Der Meister der örtlichen Diebesgilde, der will, dass du dich entweder der Gilde anschließt oder aus der Stadt verschwindest.  |
+| 4   | Ein Kunstsammler, der auf illegale Weise Meisterwerke erwirbt.                                                                 |
+| 5   | Ein Hehler, der dich als Boten.ausschickt, um verbotene Treffen zu arrangieren.                                                |
+| 6   | Der Besitzer einer illegalen Grubenkampfarena, in der du einst Wetten angenommen hast.                                         |
 ^adversaries
 
-## Benefactor
-_Source: Xanathar's Guide to Everything_
+## Wohltäter
+_Quelle: Xanathars Ratgeber für Alles_
 
-Few rogues make it far in life before needing someone's help, which means thereafter owing that benefactor a significant debt.
+Wenige Schurken kommen im Leben weit, ohne irgendwann einmal auf fremde Hilfe angewiesen zu sein. Das heißt aber auch, dass sie ihrem Wohltäter danach viel schuldig sind.
 
-If your character's backstory doesn't already include a personage of this sort, you could work with your DM to determine why a benefactor has appeared in your life. Perhaps you benefited from something your benefactor did for you without realizing who was responsible, and that person has now just become known to you. Who helped you in the past, whether or not you knew it at the time, and what do you owe that person as recompense?
+Wenn in der Hintergrundgeschichte deines Charakters noch keine solche Person vorkommt, könntest du dir mit deinem SL zusammen überlegen, wie es dazu kam, dass es einen Wohltäter in deinem Leben gibt. Vielleicht hat dein Wohltäter etwas für dich getan, und du wusstest überhaupt nicht, dass er es war, bis du es vor kurzem erfahren hast. Wer hat dir in der Vergangenheit geholfen, unabhängig davon, ob du davon wusstest oder nicht, und was schuldest du dieser Person zum Ausgleich?
 
-**Benefactors**
+**Wohltäter**
 
-| dice: d6 | Benefactor |
-|----------|------------|
-| 1 | A smuggler kept you from getting caught but lost a valuable shipment in doing so. Now you owe that person an equally valuable favor. |
-| 2 | The Beggar King has hidden you from your pursuers many times, in return for future considerations. |
-| 3 | A magistrate once kept you out of jail in return for information on a powerful crime lord. |
-| 4 | Your parents used their savings to bail you out of trouble in your younger days and are now destitute. |
-| 5 | A dragon didn't eat you when it had a chance, and in return you promised to set aside choice pieces of treasure for it. |
-| 6 | A druid once helped you out of a tight spot; now any random animal you see could be that benefactor, perhaps come to claim a return favor. |
+| W6  | Wohltäter                                                                                                                                  | 
+| --- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1   | Ein Schmuggler hat verhindert, dass du erwischt wurdest, hat dadurch aber wertvolle Fracht verloren. Jetzt schuldest du dieser Person einen ebenso wertvollen Gefallen.       |
+| 2   | Der Bettlerkönig hat dir bereits viele Male Zuflucht vor deinen Verfolgern gewährt, als Vorleistung für zukünftige Gefälligkeiten.                                         |
+| 3   | Ein Magistrat hat dich einst vor dem Gefängnis bewahrt, im Gegenzug für Informationen über einen mächtigen Verbrecherboss.                                                 |
+| 4   | Deine Eltern haben all ihre Ersparnisse aufgebraucht, um dir in jungen Jahren aus der Patsche zu helfen, und sind nun bettelarm.                                     |
+| 5   |  Ein Drache hat dich nicht verschlungen, als sich ihm die Gelegenheit dazu bot,' und zum Dank hast du ihm versprochen, dass die Erlesensten deiner Schätze von nun an ihm vorbehalten sin·d.                    |
+| 6   | Ein Druide hat dir einst aus der Klemme geholfen; nun könnte jedes Tier, das du siehst, dein ehemaliger Wohltäter sein, der möglicherweise im Gegenzug einen Gefallen einfordert. |
 ^benefactors
 
-## Class Features
+## Klassenmerkmale
 
-### Expertise (Level 1)
+### Expertise (Stufe 1)
 
-At 1st level, choose two of your skill proficiencies, or one of your skill proficiencies and your proficiency with [thieves' tools](/3-Mechanics/CLI/items/thieves-tools.md). Your proficiency bonus is doubled for any ability check you make that uses either of the chosen proficiencies.
+Auf der 1. Stufe wählst du zwei deiner Fertigkeiten aus, in denen du geübt bist, oder eine Fertigkeit, in der du geübt bist, sowie den Umgang mit Diebeswerkzeug. Dein Übungsbonus wird bei allen Attributswürfen verdoppelt, bei denen diese Fertigkeiten oder [[Diebeswerkzeug-phb|Diebeswerkzeug]] zur Anwendung kommen.
 
-At 6th level, you can choose two more of your proficiencies (in skills or with [thieves' tools](/3-Mechanics/CLI/items/thieves-tools.md)) to gain this benefit.
+### Hinterhältiger Angriff (Stufe 1)
 
-### Sneak Attack (Level 1)
+Beginnend ab Stufe 1 weißt du, wie man die Ablenkung eines Feindes ausnutzt, um gezielt zuzuschlagen. Einmal pro Zug kannst du einer Kreatur, die du triffst, zusätzlich `1W6` Schaden zufügen, falls du bei dem Angriffswurf im Vorteil bist. Der Angriff muss mit einer Fernkampfwaffe oder einer Waffe mit der Eigenschaft Finesse ausgeführt werden.
 
-Beginning at 1st level, you know how to strike subtly and exploit a foe's distraction. Once per turn, you can deal an extra `1d6` damage to one creature you hit with an attack if you have advantage on the attack roll. The attack must use a finesse or a ranged weapon.
+Du musst bei dem Angriffswurf nicht im Vorteil sein, wenn sich ein anderer Gegner des Ziels innerhalb von 1.50 m um dieses befindet, dieser Gegner nicht [[Zustände-phb#Kampfunfähig|kampfunfähig]] ist und du bei dem Angriffswurf nicht im Nachteil bist.
 
-You don't need advantage on the attack roll if another enemy of the target is within 5 feet of it, that enemy isn't [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated), and you don't have disadvantage on the attack roll.
+Die Höhe des zusätzlichen Schadens steigt auf bestimmten Stufen in dieser Klasse, so wie es in der Aufstiegstabelle des Schurken angegeben ist.
 
-The amount of the extra damage increases as you gain levels in this class, as shown in the Sneak Attack column of the Rogue table.
+### Diebessprache (Stufe 1)
 
-### Thieves' Cant (Level 1)
+Während deiner Ausbildung zum Schurken hast du die Diebessprache erlernt. Diese geheime Mischung aus Dialekt,Jargon und Codes erlaubt es dir, in einer scheinbar gewöhnlichen Unterhaltung Botschaften zu verstecken. Nur eine andere Kreatur, die ebenfalls die Diebessprache beherrscht, kann diese Botschaften verstehen. Das Mitteilen einer solchen Nachricht dauert vier Mal so lange, als wenn man deren Inhalt direkt formulieren würde.
 
-During your rogue training you learned thieves' cant, a secret mix of dialect, jargon, and code that allows you to hide messages in seemingly normal conversation. Only another creature that knows thieves' cant understands such messages. It takes four times longer to convey such a message than it does to speak the same idea plainly.
+Außerdem ist dir ein Satz geheimer Zeichen und Symbole bekannt, mit denen du einfache, kurze Informationen übermitteln kannst, etwa ob ein Gebiet sicher ist oder ob es zum Territorium einer Diebesgilde gehört. Auch ob man in der Nähe Beute machen kann, ob die Bevölkerung hier ein leichtes Ziele abgibt oder ob es einen Unterschlupf für Diebe auf der Flucht gibt.
 
-In addition, you understand a set of secret signs and symbols used to convey short, simple messages, such as whether an area is dangerous or the territory of a thieves' guild, whether loot is nearby, or whether the people in an area are easy marks or will provide a safe house for thieves on the run.
+### Raffinierte Aktion (Stufe 2)
 
-### Cunning Action (Level 2)
+Ab der 2. Stufe erlauben dir deine geistige und körperliche Agilität, schnell Entscheidungen zu treffen und dich rasch zu bewegen und zu handeln. Du kannst in jedem deiner Züge eine Bonusaktion verwenden, um damit die [[Aktionen-phb#Dash Spurt|Spurten]]-, [[Aktionen-phb#Rückzug|Rückzugs]]- oder [[Aktionen-phb#Verstecken|Verstecken]]aktion auszuführen.
 
-Starting at 2nd level, your quick thinking and agility allow you to move and act quickly. You can take a bonus action on each of your turns in combat. This action can be used only to take the [Dash](/3-Mechanics/CLI/actions.md#Dash), [Disengage](/3-Mechanics/CLI/actions.md#Disengage), or [Hide](/3-Mechanics/CLI/actions.md#Hide) action.
+### Schurkenarchetyp (Stufe 3)
 
-### Roguish Archetype (Level 3)
+Auf der 3. Stufe wählst du einen Archetyp, dem du in der Ausübung deiner Fähigkeiten nacheiferst und der deinen Weg als Schurke bestimmt. Entscheide dich für den Arkanen Betrüger, den Assassinen oder den Dieb. Alle Archetypen sind am Ende dieses Abschnitts ausführlich beschrieben.
 
-At 3rd level, you choose an archetype that you emulate in the exercise of your rogue abilities from the list of available archetypes. Your archetype choice grants you features at 3rd level and then again at 9th, 13th, and 17th level.
+Deine Wahl verleiht dir auf den Stufen 3, 9, 13 und 17 jeweils ein Merkmal.
 
-### Steady Aim (Level 3)
-_Source: Tasha's Cauldron of Everything p. 62_
+### Zielsicher (Stufe 3)
+_Quelle: Tashas Kessel mit Allem S. 66_
 
-*3rd-level rogue <span title="Tasha's Cauldron of Everything">optional feature</span>*
+*Schurkenmerkmal <span title="Tasha's Cauldron of Everything">(3. Stufe)</span>*
 
-As a bonus action, you give yourself advantage on your next attack roll on the current turn. You can use this bonus action only if you haven't moved during this turn, and after you use the bonus action, your speed is 0 until the end of the current turn.
+Als Bonusaktion verschaffst du dir für deinen nächsten Angriffswurf in diesem Zug einen Vorteil. Du kannst diese Bonusaktion nur nutzen, wenn du dich in diesem Zug noch nicht bewegt hast. Nach Einsetzen der Bonusaktion beträgt deine Bewegungsrate bis zum Ende des Zugs null.
 
-### Ability Score Improvement (Level 4)
+### Attributswerterhöhung (Stufe 4)
 
-When you reach 4th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+Beim Erreichen der 4. Stufe kannst du einen Attributswert deiner Wahl um 2 Punkte erhöhen. Du kannst stattdessen auch zwei Attributswerte um jeweils 1 Punkt erhöhen. Kein Attribut darf auf diese Weise über einen Wert von 20 steigen.
 
-If your DM allows the use of feats, you may instead take a feat.
+Wenn dein SL die Verwendung von Talenten erlaubt, kannst du auch ein Talent wählen.
 
-### Uncanny Dodge (Level 5)
+### Unglaubliches Ausweichen (Stufe 5)
 
-Starting at 5th level, when an attacker that you can see hits you with an attack, you can use your reaction to halve the attack's damage against you.
+Trifft dich ab Stufe 5 der Angriff einer Kreatur, die du sehen kannst, darfst du deine Reaktion aufwenden, um den Schaden des Angriffs zu halbieren.
 
-### Expertise (Level 6)
+### Expertise (Stufe 6)
 
-At 6th level, you can choose two more of your proficiencies (in skills or with [thieves' tools](/3-Mechanics/CLI/items/thieves-tools.md)) to gain the benefit of Expertise.
+Auf der 6. Stufe kannst du dir zwei weitere geübte Fertigkeiten oder eine geübte Fertigkeit und den Umgang mit [[Diebeswerkzeug-phb|Diebeswerkzeug]] aussuchen, auf die du den gleichen Vorzug erhältst.
 
-### Evasion (Level 7)
+### Entrinnen (Level 7)
 
-Beginning at 7th level, you can nimbly dodge out of the way of certain area effects, such as a red dragon's fiery breath or an [ice storm](/3-Mechanics/CLI/spells/ice-storm.md) spell. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
+Ab der 7. Stufe kannst du dich dank deiner instinktiven Gewandheit dem Wirkungsbereich bestimmter Effekte entziehen, wie etwa dem Blitzodem eines blauen Drachen oder dem Zauber [[Feuerball-phb|Feuerball]]. Bist du einem Effekt ausgesetzt, der einen Geschicklichkeits-Rettungswurf erlaubt, um den Schaden zu halbieren, nimmst du bei einem erfolgreichen Rettungswurf gar keinen Schaden und bei einem Misserfolg lediglich die Hälfte des Schadens.
 
-### Ability Score Improvement (Level 8)
+### Attributswerterhöhung (Stufe 8)
 
-When you reach 8th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+Beim Erreichen der 8. Stufe kannst du einen Attributswert deiner Wahl um 2 Punkte erhöhen. Du kannst stattdessen auch zwei Attributswerte um jeweils 1 Punkt erhöhen. Kein Attribut darf auf diese Weise über einen Wert von 20 steigen.
 
-If your DM allows the use of feats, you may instead take a feat.
+Wenn dein SL die Verwendung von Talenten erlaubt, kannst du auch ein Talent wählen.
 
-### Roguish Archetype feature (Level 9)
+### Merkmal: Schurkenarchetyp (Stufe 9)
 
-At 9th level, you gain a feature granted by your Roguish Archetype.
+Auf der 9. Stufe erhältst du ein Merkmal deines Schurkenarchetypen.
 
-### Ability Score Improvement (Level 10)
+### Attributswerterhöhung (Stufe 10)
 
-When you reach 10th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+Beim Erreichen der 10. Stufe kannst du einen Attributswert deiner Wahl um 2 Punkte erhöhen. Du kannst stattdessen auch zwei Attributswerte um jeweils 1 Punkt erhöhen. Kein Attribut darf auf diese Weise über einen Wert von 20 steigen.
 
-If your DM allows the use of feats, you may instead take a feat.
+Wenn dein SL die Verwendung von Talenten erlaubt, kannst du auch ein Talent wählen.
 
-### Reliable Talent (Level 11)
+### Verlässtliches Talent (Stufe 11)
 
-By 11th level, you have refined your chosen skills until they approach perfection. Whenever you make an ability check that lets you add your proficiency bonus, you can treat a `d20` roll of 9 or lower as a 10.
+Auf Stufe 11 beherrscht du deine geübten Fertigkeiten schon beinahe bis zur Perfektion. Immer wenn du einen Fertigkeitswurf ablegst, der dich deinen Übungsbonus verwenden lässt, kannst du bei einem Würfelergebnis von 9 oder niedriger die 10 verwenden.
 
-### Ability Score Improvement (Level 12)
+### Attributswerterhöhung (Stufe 12)
 
-When you reach 12th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+Beim Erreichen der 12. Stufe kannst du einen Attributswert deiner Wahl um 2 Punkte erhöhen. Du kannst stattdessen auch zwei Attributswerte um jeweils 1 Punkt erhöhen. Kein Attribut darf auf diese Weise über einen Wert von 20 steigen.
 
-If your DM allows the use of feats, you may instead take a feat.
+Wenn dein SL die Verwendung von Talenten erlaubt, kannst du auch ein Talent wählen.
 
-### Roguish Archetype feature (Level 13)
+### Merkmal: Schurkenarchetyp (Stufe 13)
 
-At 13th level, you gain a feature granted by your Roguish Archetype.
+Auf der 13. Stufe erhältst du ein Merkmal deines Schurkenarchetypen.
 
-### Blindsense (Level 14)
+### Blindgespür (Level 14)
 
-Starting at 14th level, if you are able to hear, you are aware of the location of any hidden or [invisible](/3-Mechanics/CLI/conditions.md#Invisible) creature within 10 feet of you.
+Angefangen mit der 14. Stufe bist du fähig, mit deinen scharfen Sinnen den Aufenthaltsort einer versteckten oder [[ [[Zustände-phb#Unsichtbar|unsichtbaren]] Kreatur, die du hören kannst, innerhalb von 3 m festzustellen.
 
-### Slippery Mind (Level 15)
+### Entschlüpfender Geist (Level 15)
 
-By 15th level, you have acquired greater mental strength. You gain proficiency in Wisdom saving throws.
+Auf der 15. Stufe hast du große mentale Stärke erreicht. Du bist jetzt geübt in Weisheits-Rettungswürfen.
 
-### Ability Score Improvement (Level 16)
+### Attributswerterhöhung (Stufe 16)
 
-When you reach 16th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+Beim Erreichen der 16. Stufe kannst du einen Attributswert deiner Wahl um 2 Punkte erhöhen. Du kannst stattdessen auch zwei Attributswerte um jeweils 1 Punkt erhöhen. Kein Attribut darf auf diese Weise über einen Wert von 20 steigen.
 
-If your DM allows the use of feats, you may instead take a feat.
+Wenn dein SL die Verwendung von Talenten erlaubt, kannst du auch ein Talent wählen.
 
-### Roguish Archetype feature (Level 17)
+### Merkmal: Schurkenarchetyp (Stufe 17)
 
-At 17th level, you gain a feature granted by your Roguish Archetype.
+Auf der 17. Stufe erhältst du ein Merkmal deines Schurkenarchetypen.
 
-### Elusive (Level 18)
+### Schwer zu fassen (Stufe 18)
+
+Beginnend mit der 18. Stufe hast du deine Fähigkeit auszuweichen so perfektioniert, dass Angreifer kaum die Oberhand über dich gewinnen. Kein Angriffswurf gegen dich ist im Vorteil, solange du nicht [[Zustände-phb#Kampfunfähig|kampfunfähig]] bist.
 
 Beginning at 18th level, you are so evasive that attackers rarely gain the upper hand against you. No attack roll has advantage against you while you aren't [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated).
 
-### Ability Score Improvement (Level 19)
+### Attributswerterhöhung (Stufe 19)
 
-When you reach 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+Beim Erreichen der 19. Stufe kannst du einen Attributswert deiner Wahl um 2 Punkte erhöhen. Du kannst stattdessen auch zwei Attributswerte um jeweils 1 Punkt erhöhen. Kein Attribut darf auf diese Weise über einen Wert von 20 steigen.
 
-If your DM allows the use of feats, you may instead take a feat.
+Wenn dein SL die Verwendung von Talenten erlaubt, kannst du auch ein Talent wählen.
 
-### Stroke of Luck (Level 20)
+### Glückstreffer (Stufe 20)
 
-At 20th level, you have an uncanny knack for succeeding when you need to. If your attack misses a target within range, you can turn the miss into a hit. Alternatively, if you fail an ability check, you can treat the `d20` roll as a 20.
+Ab Stufe 20 besitzt du das unglaubliche Talent, immer dann Erfolg zu haben, wenn es nötig ist. Verfehlt dein Angriff ein Ziel innerhalb deiner Reichweite, kannst du den misslungen Wurf in einen Treffer verwandeln. Alternativ kannst du auch einen fehlgeschlagenen Attributswurf so behandeln, als hättest du eine 20 gewürfelt.
 
-Once you use this feature, you can't use it again until you finish a short or long rest.
+Hast du diese Fähigkeit einmal eingesetzt, musst du eine kurze oder lange Rast beenden, bevor du sie erneut anwenden kannst.

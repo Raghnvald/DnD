@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Tiefling (Hellfire)
 tags:
   - Zauber/list/subrace/tiefling-hellfire
 aliases:

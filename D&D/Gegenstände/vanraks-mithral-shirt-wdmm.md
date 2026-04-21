@@ -1,14 +1,11 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Vanrak's Mithral Shirt
+Bezeichnung: "Vanrak's Mithral Shirt"
 Rüstung: Mittel
 tags:
   - Gegenstand/Rüstung/Mittel
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/wdmm
 aliases:
-  - Vanrak's Mithral Shirt
   - Vanrak's Mithral Shirt
 linter-yaml-title-alias: Vanrak's Mithral Shirt
 ---

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: The Boromar Clan; Boromar Contacts
 tags:
   - Quelle/5e/erlw
 aliases:

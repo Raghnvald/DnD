@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-hazard
+Bezeichnung: Danse Macabre
 tags:
-  - Quelle/5e/vrgr
   - Kompendium/Bedrohung/haunt
+  - Quelle/5e/vrgr
 aliases:
   - Danse Macabre
 ---

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Creating Common Magic Items
 tags:
   - Quelle/5e/erlw
 aliases:

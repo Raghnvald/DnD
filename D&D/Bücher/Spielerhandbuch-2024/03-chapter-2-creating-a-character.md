@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Chapter 2: Creating a Character"
 tags:
   - Quelle/5e/xphb
 aliases:

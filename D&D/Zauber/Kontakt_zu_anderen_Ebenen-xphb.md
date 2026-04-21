@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Contact Other Plane
 tags:
   - Klasse/Barde
@@ -8,8 +6,8 @@ tags:
   - Klasse/Magier
   - Quelle/5e/xphb
   - Subklasse/diviner
-  - Zauber/Grad/5
   - Zauber/Belohnung/echo-of-dragonsight
+  - Zauber/Grad/5
   - Zauber/Ritual
   - Zauber/Schule/Erkenntnis
 classes:

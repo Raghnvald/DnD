@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Shadowfell Despair
 tags:
   - Quelle/5e/xdmg
 aliases:

@@ -1,11 +1,10 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Pholtus
 tags:
-  - Quelle/5e/phb
-  - Kompendium/Götter/greyhawk
   - Kompendium/Götter/Domäne/light
   - Kompendium/Götter/Domäne/order
+  - Kompendium/Götter/greyhawk
+  - Quelle/5e/phb
 aliases:
   - Pholtus
 ---

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-race
+Bezeichnung: Elf (Eladrin)
 tags:
   - Quelle/5e/mtf
   - Rasse/elf/eladrin

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Halflings and Gnomes
 tags:
   - Quelle/5e/mtf
 aliases:

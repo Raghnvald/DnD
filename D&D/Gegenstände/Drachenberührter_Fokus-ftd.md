@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Dragon-Touched Focus
+Kategorie: Wundersamer Gegenstand
 tags:
   - Gegenstand/Einstimmung/required
-  - Gegenstand/Zauberfokus
   - Gegenstand/Seltenheit/variiert
+  - Gegenstand/Zauberfokus
   - Quelle/5e/ftd
 aliases:
   - Dragon-Touched Focus

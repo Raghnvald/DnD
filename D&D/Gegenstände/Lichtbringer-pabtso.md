@@ -3,6 +3,7 @@ Bezeichnung: Lichtbringer
 Kategorie: Einfache Nahkampfwaffe
 Schaden: 1d6 Wucht
 Eigenschaften: /
+Einstimmung: /
 Kst.: /
 Gew.: 2,0 kg
 tags:
@@ -13,7 +14,6 @@ tags:
 aliases:
   - Lightbringer
 linter-yaml-title-alias: Lightbringer
-Einstimmung: /
 ---
 # Lichtbringer
 *Waffe ([[Streitkolben-phb|Streitkolben]]), ungewöhnlich*  

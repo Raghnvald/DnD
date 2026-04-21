@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Greatclub
 tags:
   - Gegenstand/Seltenheit/keine

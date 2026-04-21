@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Monk Spells
 tags:
   - Zauber/list/class/monk
 aliases:

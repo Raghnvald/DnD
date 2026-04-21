@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-class
+Bezeichnung: Path of the World Tree
 tags:
-  - Quelle/5e/xphb
   - Klasse/Barbar/world-tree
+  - Quelle/5e/xphb
 aliases:
   - Path of the World Tree
 ---
@@ -41,7 +40,6 @@ aliases:
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 

@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-class
 Bezeichnung: College of Valor
 tags:
   - Klasse/Barde/Schule-des-Wagemuts

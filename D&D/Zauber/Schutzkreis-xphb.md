@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Magic Circle
 tags:
   - Klasse/Barde
@@ -13,8 +11,8 @@ tags:
   - Quelle/5e/xphb
   - Subklasse/abjurer
   - Subklasse/divine-soul/good
-  - Subklasse/Mystischer-Ritter
   - Subklasse/monster-slayer
+  - Subklasse/Mystischer-Ritter
   - Zauber/Grad/3
   - Zauber/Schule/Bann
 classes:

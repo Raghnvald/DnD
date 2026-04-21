@@ -7,10 +7,10 @@ Komponenten:
 Wirkungsdauer:
 Angriff:
 tags:
+  - Klasse/Artifizient
   - Klasse/Barde/Schule-des-Wissens
   - Klasse/Druide
   - Klasse/Kleriker/nature-domain
-  - Klasse/Artifizient
   - Kompendium/Talent/artificer-initiate
   - Kompendium/Talent/druidic-warrior
   - Kompendium/Talent/magic-initiate/druid-spells

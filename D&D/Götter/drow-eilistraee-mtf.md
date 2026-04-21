@@ -1,12 +1,11 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Eilistraee
 tags:
-  - Quelle/5e/mtf
-  - Kompendium/Götter/drow
   - Kompendium/Götter/Domäne/life
   - Kompendium/Götter/Domäne/light
   - Kompendium/Götter/Domäne/nature
+  - Kompendium/Götter/drow
+  - Quelle/5e/mtf
 aliases:
   - Eilistraee
 ---

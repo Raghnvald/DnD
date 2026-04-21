@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Chapter 21: Talons"
 tags:
   - Quelle/5e/bmt
 aliases:

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Tiefling (Base)
 tags:
   - Zauber/list/race/tiefling-base
 aliases:

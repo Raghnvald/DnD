@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Domains of Ravenloft
 tags:
   - Quelle/5e/vrgr
 aliases:

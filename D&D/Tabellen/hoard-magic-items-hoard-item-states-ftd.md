@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Hoard Magic Items; Hoard Item States
 tags:
   - Quelle/5e/ftd
 aliases:

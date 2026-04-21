@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Thief of Five Fates
 tags:
   - Zauber/list/optfeature/thief-of-five-fates
 aliases:

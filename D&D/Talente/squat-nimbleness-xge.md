@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-feat
+Bezeichnung: Squat Nimbleness
 tags:
-  - Quelle/5e/xge
   - Kompendium/Talent
+  - Quelle/5e/xge
 aliases:
   - Squat Nimbleness
 ---

@@ -14,7 +14,6 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Ring Mail
-  - Ring Mail
 linter-yaml-title-alias: Ring Mail
 ---
 # Ringpanzer

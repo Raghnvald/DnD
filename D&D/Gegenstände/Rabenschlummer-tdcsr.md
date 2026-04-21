@@ -1,12 +1,11 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Raven's Slumber
+Bezeichnung: "Raven's Slumber"
+Kategorie: Wundersamer Gegenstand 
 tags:
   - Gegenstand/Seltenheit/sehr_selten
+  - Gegenstand/wundersam
   - Quelle/5e/tdcsr
 aliases:
-  - Raven's Slumber
   - Raven's Slumber
 linter-yaml-title-alias: Raven's Slumber
 ---

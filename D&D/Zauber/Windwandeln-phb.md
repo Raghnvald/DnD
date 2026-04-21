@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Wind Walk
 Zaubergrad: 6
 tags:

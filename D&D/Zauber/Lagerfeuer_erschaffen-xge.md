@@ -8,12 +8,12 @@ Wirkungsdauer:
 Angriff:
 Schaden:
 tags:
+  - Klasse/Artifizient
   - Klasse/Barde/Schule-des-Wissens
   - Klasse/Druide
   - Klasse/Hexenmeister
   - Klasse/Kleriker/nature-domain
   - Klasse/Magier
-  - Klasse/Artifizient
   - Klasse/Schurke/Arkaner-Betrüger
   - Klasse/Zauberer
   - Kompendium/Talent/artificer-initiate

@@ -1,10 +1,9 @@
 ---
-cssclasses:
-  - json5e-object
+Bezeichnung: Eldritch Cannon, Force Ballista
 tags:
-  - Quelle/5e/tce
   - Kompendium/Objekt/size/unknown
   - Kompendium/Objekt/type/unknown
+  - Quelle/5e/tce
 aliases:
   - Eldritch Cannon, Force Ballista
 ---

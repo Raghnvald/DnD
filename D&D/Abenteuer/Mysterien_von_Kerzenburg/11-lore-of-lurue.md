@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Lore of Lurue
 tags:
   - Quelle/5e/cm
 aliases:

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: The Ordning; Frost Giant Might
 tags:
   - Quelle/5e/bgg
 aliases:

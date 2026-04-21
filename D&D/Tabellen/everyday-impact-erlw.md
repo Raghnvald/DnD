@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Everyday Impact
 tags:
   - Quelle/5e/erlw
 aliases:

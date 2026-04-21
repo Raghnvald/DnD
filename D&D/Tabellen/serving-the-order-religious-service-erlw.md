@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Serving the Order; Religious Service
 tags:
   - Quelle/5e/erlw
 aliases:

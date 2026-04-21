@@ -1,12 +1,11 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: The Whispered One
 tags:
-  - Quelle/5e/tdcsr
-  - Kompendium/Götter/exandria
   - Kompendium/Götter/Domäne/arcana
   - Kompendium/Götter/Domäne/death
   - Kompendium/Götter/Domäne/knowledge
+  - Kompendium/Götter/exandria
+  - Quelle/5e/tdcsr
 aliases:
   - The Whispered One
   - Vecna

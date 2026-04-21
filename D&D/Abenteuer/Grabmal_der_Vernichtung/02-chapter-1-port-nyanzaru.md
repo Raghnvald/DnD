@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Chapter 1: Port Nyanzaru"
 tags:
   - Quelle/5e/toa
 aliases:

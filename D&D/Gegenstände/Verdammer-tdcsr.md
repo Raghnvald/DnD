@@ -1,7 +1,5 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Verdammer
+Bezeichnung: Condemner
 Kategorie: Fernkampf-Kriegswaffe
 tags:
   - Gegenstand/Einstimmung/required

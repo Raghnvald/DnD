@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Hat of Wizardry
 tags:
   - Gegenstand/Einstimmung/required

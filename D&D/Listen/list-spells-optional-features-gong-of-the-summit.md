@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Gong of the Summit
 tags:
   - Zauber/list/optfeature/gong-of-the-summit
 aliases:

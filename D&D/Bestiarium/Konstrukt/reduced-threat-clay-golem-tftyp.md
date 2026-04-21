@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/tftyp
-  - Monster/HG/9
-  - Monster/Größe/Groß
-  - Monster/Typ/Konstrukt
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Reduced-Threat Clay Golem
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/9
+  - Monster/Typ/Konstrukt
+  - Quelle/5e/tftyp
 aliases:
   - Reduced-Threat Clay Golem
 ---

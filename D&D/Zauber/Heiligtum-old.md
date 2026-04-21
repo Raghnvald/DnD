@@ -1,5 +1,4 @@
 ---
-cssclasses: json5e-spell
 Bezeichnung: Heiligtum
 tags:
   - Klasse/Kleriker

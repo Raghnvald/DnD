@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Insect Repellent (greasy salve)
 Kategorie: Abenteuerausrüstung
 tags:

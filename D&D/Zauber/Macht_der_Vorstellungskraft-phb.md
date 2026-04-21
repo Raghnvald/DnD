@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Phantasmal Force
 Zaubergrad: 2
 tags:

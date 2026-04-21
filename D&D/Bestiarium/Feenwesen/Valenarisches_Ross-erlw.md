@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/erlw
-  - Monster/HG/1-2
-  - Monster/Größe/Groß
-  - Monster/Typ/Fee
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Valenar Steed
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/1-2
+  - Monster/Typ/Fee
+  - Quelle/5e/erlw
 aliases:
   - Valenar Steed
 ---

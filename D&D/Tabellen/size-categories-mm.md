@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Size Categories
 tags:
   - Quelle/5e/mm
 aliases:

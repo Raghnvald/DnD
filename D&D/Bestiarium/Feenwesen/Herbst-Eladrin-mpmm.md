@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mpmm
-  - Monster/HG/10
-  - Monster/Habitat/Wald
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Fee/elf
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Autumn Eladrin
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Wald
+  - Monster/HG/10
+  - Monster/Typ/Fee/elf
+  - Quelle/5e/mpmm
 aliases:
   - Autumn Eladrin
 ---

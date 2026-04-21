@@ -1,18 +1,17 @@
 ---
-cssclasses:
-  - json5e-monster
+statblock: inline
+statblock-link: "#^statblock"
+Bezeichnung: Dire Worg
 tags:
-  - Quelle/5e/xmm
-  - Monster/HG/10
+  - Monster/Größe/Riesig
   - Monster/Habitat/feywild
-  - Monster/Habitat/Wald
   - Monster/Habitat/Grasland
   - Monster/Habitat/Hügel
   - Monster/Habitat/planar
-  - Monster/Größe/Riesig
+  - Monster/Habitat/Wald
+  - Monster/HG/10
   - Monster/Typ/Fee
-statblock: inline
-statblock-link: "#^statblock"
+  - Quelle/5e/xmm
 aliases:
   - Dire Worg
 ---

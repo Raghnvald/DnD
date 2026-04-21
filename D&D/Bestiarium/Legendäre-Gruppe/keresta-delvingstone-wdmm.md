@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Keresta Delvingstone
 tags:
-  - Quelle/5e/wdmm
   - Monster/legendary-group
+  - Quelle/5e/wdmm
 aliases:
   - Keresta Delvingstone
 ---

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Creatures
 tags:
   - Quelle/5e/dip
 aliases:

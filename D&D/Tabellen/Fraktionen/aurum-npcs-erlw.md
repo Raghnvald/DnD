@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Aurum NPCs
 tags:
   - Quelle/5e/erlw
 aliases:

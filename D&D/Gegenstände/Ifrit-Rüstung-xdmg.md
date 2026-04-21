@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Efreeti Chain
 Rüstung: Mittel oder Schwer
 tags:

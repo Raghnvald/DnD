@@ -1,16 +1,15 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/4
-  - Monster/Habitat/Hügel
-  - Monster/Habitat/Berg
-  - Monster/Habitat/Unterreich
-  - Monster/Größe/Groß
-  - Monster/Typ/Riese
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Ettin
+tags:
+  - Monster/Größe/Groß
+  - Monster/Habitat/Berg
+  - Monster/Habitat/Hügel
+  - Monster/Habitat/Unterreich
+  - Monster/HG/4
+  - Monster/Typ/Riese
+  - Quelle/5e/xmm
 aliases:
   - Ettin
 ---
@@ -49,7 +48,6 @@ Roll on or choose a result from the Ettin Interactions table to inspire how an e
 > [!quote] A quote from Bertrand, Inquisitor of the Mind Fire  
 > 
 > Twice the malice, aggressiveness, and appetite—the ettin demonstrates that two heads aren't necessarily better than one.
-
 
 ```statblock
 "name": "Ettin (XMM)"

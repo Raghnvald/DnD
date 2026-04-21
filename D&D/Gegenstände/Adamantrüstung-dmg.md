@@ -46,57 +46,57 @@ Diese Rüstung ist mit Adamant verstärkt, eines der härtesten Materialien, die
 
 ### Adamant-Brustplatte
 
-- **Armor Class**: 14 + Dex modifier (max of +2)
-- **Weight**: 20.0 lbs.
+- **Rüstungsklasse**: 14 + GES Modifikator (max +2)
+- **Gewicht**: 20.0 lbs.
 
 ### Adamant-Kettenhemd
 
-- **Armor Class**: 13 + Dex modifier (max of +2)
-- **Weight**: 20.0 lbs.
+- **Rüstungsklasse**: 13 + GES Modifikator (max +2)
+- **Gewicht**: 20.0 lbs.
 
 ### Adamant-Kettenpanzer
 
-- **Armor Class**: 16
+- **Rüstungsklasse**: 16
 - **Strength**: Requires 13 STR.
-- **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
-- **Weight**: 55.0 lbs.
+- **Heimlichkeit**: The wearer has disadvantage on Stealth (DEX) checks.
+- **Gewicht**: 55.0 lbs.
 
 ### Adamant-Plattenpanzer
 
-- **Armor Class**: 15 + Dex modifier (max of +2)
-- **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
-- **Weight**: 40.0 lbs.
+- **Rüstungsklasse**: 15 + GES Modifikator (max +2)
+- **Heimlichkeit**: The wearer has disadvantage on Stealth (DEX) checks.
+- **Gewicht**: 40.0 lbs.
 
 ### Adamant-Ringpanzer
 
-- **Armor Class**: 14
-- **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
-- **Weight**: 40.0 lbs.
+- **Rüstungsklasse**: 14
+- **Heimlichkeit**: The wearer has disadvantage on Stealth (DEX) checks.
+- **Gewicht**: 40.0 lbs.
 
 ### Adamant-Ritterrüstung
 
-- **Armor Class**: 18
-- **Strength**: Requires 15 STR.
-- **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
-- **Weight**: 65.0 lbs.
+- **Rüstungsklasse**: 18
+- **Stärke**: Requires 15 STR.
+- **Heimlichkeit**: The wearer has disadvantage on Stealth (DEX) checks.
+- **Gewicht**: 65.0 lbs.
 
 ### Adamant-Schienenpanzer 
 
-- **Armor Class**: 17
-- **Strength**: Requires 15 STR.
-- **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
-- **Weight**: 60.0 lbs.
+- **Rüstungsklasse**: 17
+- **Stärke**: Requires 15 STR.
+- **Heimlichkeit**: The wearer has disadvantage on Stealth (DEX) checks.
+- **Gewicht**: 60.0 lbs.
 
 ### Adamant-Schuppenpanzer
 
-- **Armor Class**: 14 + Dex modifier (max of +2)
-- **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
-- **Weight**: 45.0 lbs.
+- **Rüstungsklasse**: 14 + GES Modifikator (max +2)
+- **Heimlichkeit**: The wearer has disadvantage on Stealth (DEX) checks.
+- **Gewicht**: 45.0 lbs.
 
 ### Adamant-Stachelrüstung 
 
-- **Armor Class**: 14 + Dex modifier (max of +2)
-- **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
-- **Weight**: 45.0 lbs.
+- **Rüstungsklasse**: 14 + GES Modifikator (max +2)
+- **Heimlichkeit**: The wearer has disadvantage on Stealth (DEX) checks.
+- **Gewicht**: 45.0 lbs.
 
 *Quelle: Spielleiterhandbuch S. 150. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span>*

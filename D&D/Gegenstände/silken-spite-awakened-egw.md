@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Silken Spite (Awakened)
 Kategorie: Nahkampf-Kriegswaffe
 tags:

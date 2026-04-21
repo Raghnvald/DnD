@@ -1,12 +1,11 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Mizzium Mortar
+Kategorie: Wundersamer Gegenstand 
 tags:
   - Gegenstand/Seltenheit/selten
+  - Gegenstand/wundersam
   - Quelle/5e/ggr
 aliases:
-  - Mizzium Mortar
   - Mizzium Mortar
 linter-yaml-title-alias: Mizzium Mortar
 ---

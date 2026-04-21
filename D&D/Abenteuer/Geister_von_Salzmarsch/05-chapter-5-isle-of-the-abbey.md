@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Chapter 5: Isle of the Abbey"
 tags:
   - Quelle/5e/gos
 aliases:

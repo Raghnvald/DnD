@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Demiplane
 Zaubergrad: 8
 tags:

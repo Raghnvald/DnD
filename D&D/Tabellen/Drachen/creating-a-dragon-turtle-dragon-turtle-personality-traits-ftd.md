@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Creating a Dragon Turtle; Dragon Turtle Personality Traits
 tags:
   - Quelle/5e/ftd
 aliases:

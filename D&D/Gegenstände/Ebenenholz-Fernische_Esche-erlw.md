@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Ebenenholz (Fernische Esche)
+Bezeichnung: Imbued Wood (Fernian Ash)
 Kategorie: Wundersamer Gegenstand
 tags:
   - Gegenstand/Ausrüstung/Zauberfokus

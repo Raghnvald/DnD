@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Tempest Domain
 tags:
   - Zauber/list/subclass/tempest-domain
 aliases:

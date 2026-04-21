@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Exotic Saddle
 tags:
   - Gegenstand/Ausrüstung/tack-and-harness

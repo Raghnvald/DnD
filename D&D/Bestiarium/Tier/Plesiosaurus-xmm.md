@@ -1,15 +1,14 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/2
-  - Monster/Habitat/Arktis
-  - Monster/Habitat/underwater
-  - Monster/Größe/Groß
-  - Monster/Typ/Tier/dinosaur
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Plesiosaurus
+tags:
+  - Monster/Größe/Groß
+  - Monster/Habitat/Arktis
+  - Monster/Habitat/underwater
+  - Monster/HG/2
+  - Monster/Typ/Tier/dinosaur
+  - Quelle/5e/xmm
 aliases:
   - Plesiosaurus
 ---

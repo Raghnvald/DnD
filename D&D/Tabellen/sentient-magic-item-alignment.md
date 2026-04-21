@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Sentient Magic Item Alignment
 tags:
   - Quelle/5e/dmg
 aliases:

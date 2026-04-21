@@ -1,4 +1,5 @@
 ---
+Bezeichnung: Recap nach dem Fall von Strahd
 tags:
   - Quelle/5e/pabtso
 ---

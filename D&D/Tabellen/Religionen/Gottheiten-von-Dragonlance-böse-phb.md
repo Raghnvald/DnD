@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Deities of Dragonlance: Evil"
 tags:
   - Quelle/5e/phb
 aliases:

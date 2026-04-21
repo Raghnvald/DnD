@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Random Magic Items - Armaments
 tags:
   - Quelle/5e/xdmg
 aliases:

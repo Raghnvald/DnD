@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Short-Term Madness
 tags:
   - Quelle/5e/dmg
 aliases:

@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mcv4ec
-  - Monster/HG/11
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Fee
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: High Fae Impostor
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/11
+  - Monster/Typ/Fee
+  - Quelle/5e/mcv4ec
 aliases:
   - High Fae Impostor
 ---

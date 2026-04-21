@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Alien Artifacts; Aberrant Evidence
 tags:
   - Quelle/5e/vrgr
 aliases:

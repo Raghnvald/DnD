@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/egw
-  - Monster/HG/3
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/sahuagin
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: "Sahuagin Warlock of Uk'otoa"
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/3
+  - Monster/Typ/Humanoid/sahuagin
+  - Quelle/5e/egw
 aliases:
   - Sahuagin Warlock of Uk'otoa
 ---

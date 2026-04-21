@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Aristocrat Contact
 tags:
   - Quelle/5e/tce
 aliases:

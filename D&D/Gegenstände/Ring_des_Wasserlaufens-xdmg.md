@@ -1,13 +1,10 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Ring of Water Walking
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/wundersam/Ring
   - Quelle/5e/xdmg
 aliases:
-  - Ring of Water Walking
   - Ring of Water Walking
 linter-yaml-title-alias: Ring of Water Walking
 ---

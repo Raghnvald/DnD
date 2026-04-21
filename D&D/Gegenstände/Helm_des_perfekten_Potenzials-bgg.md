@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Helm of Perfect Potential
 tags:
   - Gegenstand/Einstimmung/required

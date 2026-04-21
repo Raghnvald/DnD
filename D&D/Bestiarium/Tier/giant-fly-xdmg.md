@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xdmg
-  - Monster/HG/0
-  - Monster/Größe/Groß
-  - Monster/Typ/Tier
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Giant Fly
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/0
+  - Monster/Typ/Tier
+  - Quelle/5e/xdmg
 aliases:
   - Giant Fly
 ---

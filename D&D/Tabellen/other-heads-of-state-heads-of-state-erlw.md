@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Other Heads of State; Heads of State
 tags:
   - Quelle/5e/erlw
 aliases:

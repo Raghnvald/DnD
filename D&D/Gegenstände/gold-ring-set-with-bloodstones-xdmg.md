@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Gold ring set with bloodstones
 tags:
   - Gegenstand/Ausrüstung/treasure-art-object

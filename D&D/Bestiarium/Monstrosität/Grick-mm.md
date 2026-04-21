@@ -1,6 +1,7 @@
 ---
-cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
+statblock: inline
+statblock-link: "#^statblock"
 Bezeichnung: Grick
 Kategorie: Monstrosität
 Größe: Mittelgroß
@@ -8,17 +9,15 @@ HG: 2
 Habitat:
   - Unterreich
   - Wald
-status: completed
 image: image/grick.webp
+status: completed
 tags:
-  - Quelle/5e/mm
-  - Monster/Typ/Monstrosität
   - Monster/Größe/Mittelgroß
-  - Monster/HG/2
   - Monster/Habitat/Unterreich
   - Monster/Habitat/Wald
-statblock: inline
-statblock-link: "#^statblock"
+  - Monster/HG/2
+  - Monster/Typ/Monstrosität
+  - Quelle/5e/mm
 aliases:
   - Grick
 ---

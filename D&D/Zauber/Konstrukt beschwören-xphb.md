@@ -1,11 +1,9 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Summon Construct
 tags:
+  - Klasse/Artifizient
   - Klasse/Barde
   - Klasse/Magier
-  - Klasse/Artifizient
   - Klasse/Schurke/Arkaner-Betrüger
   - Quelle/5e/xphb
   - Subklasse/clockwork-sorcery

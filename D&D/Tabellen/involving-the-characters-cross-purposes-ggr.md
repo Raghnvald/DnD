@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Involving the Characters; Cross Purposes
 tags:
   - Quelle/5e/ggr
 aliases:

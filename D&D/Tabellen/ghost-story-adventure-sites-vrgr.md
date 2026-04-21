@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Ghost Story Adventure Sites
 tags:
   - Quelle/5e/vrgr
 aliases:

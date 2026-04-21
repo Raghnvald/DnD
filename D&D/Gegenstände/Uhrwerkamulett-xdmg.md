@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Clockwork Amulet
 tags:
   - Gegenstand/Seltenheit/gewöhnlich

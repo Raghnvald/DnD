@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-class
+Bezeichnung: Artillerist
 tags:
-  - Quelle/5e/tce
   - Klasse/Artifizient/artillerist
+  - Quelle/5e/tce
 aliases:
   - Artillerist
 ---
@@ -41,7 +40,6 @@ aliases:
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 

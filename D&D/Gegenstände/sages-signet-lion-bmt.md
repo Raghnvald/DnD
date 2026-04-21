@@ -1,14 +1,12 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Sage's Signet (Lion)
+Bezeichnung: "Sage's Signet (Lion)"
+Kategorie: Ring
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/wundersam/ring
   - Quelle/5e/bmt
 aliases:
-  - Sage's Signet (Lion)
   - Sage's Signet (Lion)
 linter-yaml-title-alias: Sage's Signet (Lion)
 ---

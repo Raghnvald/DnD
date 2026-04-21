@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Hierarchy; Order Reputation
 tags:
   - Quelle/5e/erlw
 aliases:

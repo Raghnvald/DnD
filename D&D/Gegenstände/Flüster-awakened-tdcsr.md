@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Whisper (Awakened)
 Kategorie: Einfache Nahkampfwaffe
 tags:

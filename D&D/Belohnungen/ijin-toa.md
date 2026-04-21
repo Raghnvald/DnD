@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-reward
+Bezeichnung: "I'jin"
 tags:
-  - Quelle/5e/toa
   - Kompendium/Belohnung/inhabitation
+  - Quelle/5e/toa
 aliases:
   - I'jin
 ---

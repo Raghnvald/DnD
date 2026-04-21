@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Optional Class Features
 tags:
   - Quelle/5e/tce
 aliases:

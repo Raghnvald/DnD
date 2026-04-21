@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Cloud Giant Bag Contents; Cloud Giant Bag Items
 tags:
   - Quelle/5e/bgg
 aliases:

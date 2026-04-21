@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Creating a Black Dragon; Black Dragon Spellcasting
 tags:
   - Quelle/5e/ftd
 aliases:

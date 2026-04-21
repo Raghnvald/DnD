@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Silver and gold brooch
 tags:
   - Gegenstand/Ausrüstung/treasure-art-object

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Druidic Warrior
 tags:
   - Zauber/list/feat/druidic-warrior
 aliases:

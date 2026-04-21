@@ -1,7 +1,5 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Summer's Dance
+Bezeichnung: "Summer's Dance"
 Kategorie: Nahkampf-Kriegswaffe
 tags:
   - Gegenstand/Einstimmung/required
@@ -10,7 +8,6 @@ tags:
   - Gegenstand/Waffe/Nahkampf
   - Quelle/5e/tdcsr
 aliases:
-  - Summer's Dance
   - Summer's Dance
 linter-yaml-title-alias: Summer's Dance
 ---

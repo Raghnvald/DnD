@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Detect Thoughts
 Zaubergrad: 2
 tags:

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Appendix A: Icewind Dale Trinkets"
 tags:
   - Quelle/5e/idrotf
 aliases:

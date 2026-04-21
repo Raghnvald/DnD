@@ -1,7 +1,5 @@
 ---
-cssclasses:
-  - json5e-spell
-Bezeichnung: Crusader's Mantle
+Bezeichnung: "Crusader's Mantle"
 tags:
   - Klasse/Kleriker/war-domain
   - Klasse/paladin

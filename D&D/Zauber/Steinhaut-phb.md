@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Stoneskin
 Zaubergrad: 4
 tags:

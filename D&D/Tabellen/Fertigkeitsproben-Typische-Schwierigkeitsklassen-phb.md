@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Ability Checks; Typical Difficulty Classes
 tags:
   - Quelle/5e/phb
 aliases:

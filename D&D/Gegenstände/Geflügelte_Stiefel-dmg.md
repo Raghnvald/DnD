@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Winged Boots
 tags:
   - Gegenstand/Einstimmung/required

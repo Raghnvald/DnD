@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Dungeon Master's Workshop"
 tags:
   - Quelle/5e/dmg
 aliases:

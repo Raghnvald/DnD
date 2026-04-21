@@ -1,8 +1,8 @@
 ---
-cssclasses: json5e-note
+Bezeichnung: Lebenstrinker
 tags:
-  - Quelle/5e/phb
   - Kompendium/Optionales/Anrufungen
+  - Quelle/5e/phb
 aliases:
   - Lifedrinker
 ---

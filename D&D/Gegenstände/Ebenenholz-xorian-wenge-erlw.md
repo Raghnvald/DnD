@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Imbued Wood (Xorian Wenge)
 Kategorie: Wundersamer Gegenstand
 tags:

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Adventures and Encounters; Mournland Adventure Hooks
 tags:
   - Quelle/5e/erlw
 aliases:

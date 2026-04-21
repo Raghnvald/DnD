@@ -1,15 +1,14 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/3
-  - Monster/Habitat/Unterreich
-  - Monster/Habitat/Stadt
-  - Monster/Größe/Klein-oder-Mittelgroß
-  - Monster/Typ/Humanoid
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Vampire Familiar
+tags:
+  - Monster/Größe/Klein-oder-Mittelgroß
+  - Monster/Habitat/Stadt
+  - Monster/Habitat/Unterreich
+  - Monster/HG/3
+  - Monster/Typ/Humanoid
+  - Quelle/5e/xmm
 aliases:
   - Vampire Familiar
 ---
@@ -50,7 +49,6 @@ Vampires and vampire umbral lords create sanctuaries apart from the living, whet
 > [!quote] A quote from Astarion, Vampire Spawn  
 > 
 > Darling, you are simply delicious...
-
 
 ```statblock
 "name": "Vampire Familiar (XMM)"

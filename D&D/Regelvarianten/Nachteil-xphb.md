@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Disadvantage
 tags:
   - Quelle/5e/xphb
 aliases:

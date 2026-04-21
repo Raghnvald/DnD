@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Mirror Zone Effects
 tags:
   - Quelle/5e/tce
 aliases:

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Izzet NPCs
 tags:
   - Quelle/5e/ggr
 aliases:

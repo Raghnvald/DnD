@@ -1,7 +1,5 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Biza's Breath
+Bezeichnung: "Biza's Breath"
 Kategorie: Gift
 tags:
   - Gegenstand/Ausrüstung/

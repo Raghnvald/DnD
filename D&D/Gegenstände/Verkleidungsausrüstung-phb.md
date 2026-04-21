@@ -10,8 +10,8 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Disguise Kit
-linter-yaml-title-alias: Disguise Kit
 Aktiv: false
+linter-yaml-title-alias: Disguise Kit
 Menge: "1"
 ---
 # Verkleidungsausrüstung

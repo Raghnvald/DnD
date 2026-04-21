@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Decke
+Bezeichnung: Blanket
 Kategorie: Abenteuerausrüstung
 Eigenschaften: /
 Kst.: 5 SM

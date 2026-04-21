@@ -1,10 +1,10 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Heart Weaver's Primer
+Bezeichnung: "Heart Weaver's Primer"
+Kategorie: Wundersamer Gegenstand 
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
+  - Gegenstand/wundersam
   - Quelle/5e/tce
 aliases:
   - Heart Weaver's Primer

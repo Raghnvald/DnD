@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: One-of-a-Kind Objects; Hag Objects
 tags:
   - Quelle/5e/vgm
 aliases:

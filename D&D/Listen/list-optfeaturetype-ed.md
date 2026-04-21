@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Elemental Discipline
 tags:
   - Quelle/5e/phb
 aliases:

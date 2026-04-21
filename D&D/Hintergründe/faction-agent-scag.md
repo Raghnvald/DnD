@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-background
+Bezeichnung: Faction Agent
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/scag
@@ -9,7 +8,6 @@ aliases:
 ---
 # Faction Agent
 *Source: Sword Coast Adventurer's Guide p. 147*  
-
 
 - **Skill Proficiencies.** [Insight](/3-Mechanics/CLI/skills.md#Insight) and one Intelligence, Wisdom, or Charisma skill of your choice, as appropriate to your faction  
 - **Languages.** Any two of your choice  

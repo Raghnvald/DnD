@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/vgm
-  - Monster/HG/1-4
-  - Monster/Größe/Klein
-  - Monster/Typ/Humanoid/goblinoid
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Booyahg Caster
+tags:
+  - Monster/Größe/Klein
+  - Monster/HG/1-4
+  - Monster/Typ/Humanoid/goblinoid
+  - Quelle/5e/vgm
 aliases:
   - Booyahg Caster
 ---

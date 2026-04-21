@@ -1,5 +1,4 @@
 ---
-cssclasses: json5e-spell
 Bezeichnung: Kontakt zu anderen Ebenen
 tags:
   - Klasse/Hexenmeister

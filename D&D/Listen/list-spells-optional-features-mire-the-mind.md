@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Mire the Mind
 tags:
   - Zauber/list/optfeature/mire-the-mind
 aliases:

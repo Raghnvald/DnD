@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: 2,500 gp Art Objects
 tags:
   - Quelle/5e/dmg
 aliases:

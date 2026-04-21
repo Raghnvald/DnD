@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Patrons in Eberron; Patrons
 tags:
   - Quelle/5e/erlw
 aliases:

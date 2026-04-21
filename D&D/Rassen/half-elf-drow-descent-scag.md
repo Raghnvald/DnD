@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-race
+Bezeichnung: Half-Elf (Drow Descent)
 tags:
   - Quelle/5e/scag
   - Rasse/half-elf/drow-descent
@@ -9,7 +8,6 @@ aliases:
 ---
 # Half-Elf (Drow Descent)
 *Source: Sword Coast Adventurer's Guide p. 116*  
-
 
 - **Ability Scores**: Apply +1 to one of Strength, Dexterity, Constitution, Intelligence, or Wisdom.
 - **Size**: Medium

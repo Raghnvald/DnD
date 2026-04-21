@@ -1,14 +1,12 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: See Invisibility
 tags:
+  - Klasse/Artifizient
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
   - Klasse/Kleriker/light-domain
   - Klasse/Kleriker/twilight-domain
   - Klasse/Magier
-  - Klasse/Artifizient
   - Klasse/Paladin/oath-of-the-watchers
   - Klasse/Schurke/Arkaner-Betrüger
   - Klasse/Zauberer

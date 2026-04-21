@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Dwarves on the Move; Special Allies
 tags:
   - Quelle/5e/mtf
 aliases:

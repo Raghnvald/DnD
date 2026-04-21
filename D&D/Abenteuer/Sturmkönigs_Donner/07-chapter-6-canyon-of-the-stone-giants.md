@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Chapter 6: Canyon of the Stone Giants"
 tags:
   - Quelle/5e/skt
 aliases:

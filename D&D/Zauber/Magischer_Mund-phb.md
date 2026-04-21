@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Magic Mouth
 Zaubergrad: 2
 tags:

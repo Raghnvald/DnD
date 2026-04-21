@@ -1,6 +1,7 @@
 ---
 prefer-view:
   - edit-source read
+Bezeichnung: Paladin
 status:
   - completed
 tags:

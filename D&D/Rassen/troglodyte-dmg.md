@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-race
+Bezeichnung: Troglodyte
 tags:
   - Quelle/5e/dmg
   - Rasse/troglodyte
@@ -9,7 +8,6 @@ aliases:
 ---
 # Troglodyte
 *Source: Dungeon Master's Guide p. 282*  
-
 
 - **Ability Scores**: str +2 con +2 int -4 cha -4
 - **Size**: Medium

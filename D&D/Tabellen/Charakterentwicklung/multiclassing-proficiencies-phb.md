@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Multiclassing Proficiencies
 tags:
   - Quelle/5e/phb
 aliases:

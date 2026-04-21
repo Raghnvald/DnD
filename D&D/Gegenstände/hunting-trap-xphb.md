@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Hunting Trap
 tags:
   - Gegenstand/Ausrüstung/

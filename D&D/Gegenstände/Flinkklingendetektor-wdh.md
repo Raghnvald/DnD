@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Nimblewright Detector
 tags:
   - Gegenstand/Seltenheit/unbekannt

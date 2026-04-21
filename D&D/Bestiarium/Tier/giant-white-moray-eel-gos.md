@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/gos
-  - Monster/HG/2
-  - Monster/Größe/Riesig
-  - Monster/Typ/Tier
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Giant White Moray Eel
+tags:
+  - Monster/Größe/Riesig
+  - Monster/HG/2
+  - Monster/Typ/Tier
+  - Quelle/5e/gos
 aliases:
   - Giant White Moray Eel
 ---

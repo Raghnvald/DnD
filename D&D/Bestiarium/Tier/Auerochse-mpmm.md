@@ -1,16 +1,15 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mpmm
-  - Monster/HG/2
-  - Monster/Habitat/Grasland
-  - Monster/Habitat/Hügel
-  - Monster/Habitat/Berg
-  - Monster/Größe/Groß
-  - Monster/Typ/Tier/cattle
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Aurochs
+tags:
+  - Monster/Größe/Groß
+  - Monster/Habitat/Berg
+  - Monster/Habitat/Grasland
+  - Monster/Habitat/Hügel
+  - Monster/HG/2
+  - Monster/Typ/Tier/cattle
+  - Quelle/5e/mpmm
 aliases:
   - Aurochs
 ---

@@ -1,16 +1,15 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/1-4
-  - Monster/Habitat/Hügel
-  - Monster/Habitat/Sumpf
-  - Monster/Habitat/Stadt
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Tier
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Swarm of Ravens
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Hügel
+  - Monster/Habitat/Stadt
+  - Monster/Habitat/Sumpf
+  - Monster/HG/1-4
+  - Monster/Typ/Tier
+  - Quelle/5e/xmm
 aliases:
   - Swarm of Ravens
 ---

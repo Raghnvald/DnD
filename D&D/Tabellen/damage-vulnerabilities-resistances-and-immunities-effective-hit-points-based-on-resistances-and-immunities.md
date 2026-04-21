@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Damage Vulnerabilities, Resistances, and Immunities; Effective Hit Points Based on Resistances and Immunities
 tags:
   - Quelle/5e/dmg
 aliases:

@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/wdmm
-  - Monster/HG/1-8
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/troglodyte
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Old Troglodyte
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/1-8
+  - Monster/Typ/Humanoid/troglodyte
+  - Quelle/5e/wdmm
 aliases:
   - Old Troglodyte
 ---

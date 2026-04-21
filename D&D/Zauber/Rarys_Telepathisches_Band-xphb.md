@@ -1,7 +1,5 @@
 ---
-cssclasses:
-  - json5e-spell
-Bezeichnung: Rary's Telepathic Bond
+Bezeichnung: "Rary's Telepathic Bond"
 tags:
   - Klasse/Barde
   - Klasse/Kleriker/peace-domain

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-background
+Bezeichnung: Ruined
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/bmt

@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Psychic Scream
+Bezeichnung: Psychischer Schrei
 Zaubergrad: 9
 Zeitaufwand: 1 Aktion
 Reichweite: 27 Meter

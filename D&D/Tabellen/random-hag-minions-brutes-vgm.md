@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Random Hag Minions; Brutes
 tags:
   - Quelle/5e/vgm
 aliases:

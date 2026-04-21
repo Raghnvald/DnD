@@ -1,7 +1,6 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Oil of Etherealness
+Kategorie: Trank
 tags:
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam/Trank

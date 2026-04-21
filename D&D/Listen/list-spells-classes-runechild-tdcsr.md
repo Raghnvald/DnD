@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Runechild
 tags:
   - Zauber/list/subclass/runechild
 aliases:

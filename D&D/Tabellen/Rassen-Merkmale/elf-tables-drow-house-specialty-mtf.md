@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Elf Tables; Drow House Specialty
 tags:
   - Quelle/5e/mtf
 aliases:

@@ -1,10 +1,10 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Knave's Eye Patch
+Bezeichnung: "Knave's Eye Patch"
+Kategorie: Wundersamer Gegenstand
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
+  - Gegenstand/wundersam
   - Quelle/5e/wdh
 aliases:
   - Knave's Eye Patch

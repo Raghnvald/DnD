@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Difficulty Class
 tags:
   - Quelle/5e/xphb
 aliases:

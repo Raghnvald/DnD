@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-background
+Bezeichnung: Knight of the Order
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/scag
@@ -9,7 +8,6 @@ aliases:
 ---
 # Knight of the Order
 *Source: Sword Coast Adventurer's Guide p. 151*  
-
 
 - **Skill Proficiencies.** [Persuasion](/3-Mechanics/CLI/skills.md#Persuasion), plus one from among [Arcana](/3-Mechanics/CLI/skills.md#Arcana), [History](/3-Mechanics/CLI/skills.md#History), [Nature](/3-Mechanics/CLI/skills.md#Nature), and [Religion](/3-Mechanics/CLI/skills.md#Religion), as appropriate for your order  
 - **Tool Proficiencies.** Your choice of a gaming set or a musical instrument  

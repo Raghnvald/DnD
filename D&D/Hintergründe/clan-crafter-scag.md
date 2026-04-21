@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-background
+Bezeichnung: Clan Crafter
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/scag
@@ -9,7 +8,6 @@ aliases:
 ---
 # Clan Crafter
 *Source: Sword Coast Adventurer's Guide p. 145*  
-
 
 - **Skill Proficiencies.** [History](/3-Mechanics/CLI/skills.md#History), [Insight](/3-Mechanics/CLI/skills.md#Insight)  
 - **Tool Proficiencies.** One type of artisan's tools  

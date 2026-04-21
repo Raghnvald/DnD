@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Choose Languages; Rare Languages
 tags:
   - Quelle/5e/xphb
 aliases:

@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Animal Friendship
 tags:
   - Klasse/Barde

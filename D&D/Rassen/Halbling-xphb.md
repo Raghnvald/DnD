@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-race
+Bezeichnung: Halfling
 tags:
   - Quelle/5e/xphb
   - Rasse/halfling

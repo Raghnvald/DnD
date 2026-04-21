@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Shield of Expression
 Rüstung: Schild
 tags:
@@ -8,7 +6,6 @@ tags:
   - Gegenstand/Seltenheit/gewöhnlich
   - Quelle/5e/xdmg
 aliases:
-  - Shield of Expression
   - Shield of Expression
 linter-yaml-title-alias: Shield of Expression
 ---

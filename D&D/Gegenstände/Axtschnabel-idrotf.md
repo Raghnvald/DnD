@@ -1,18 +1,18 @@
 ---
-Bezeichnung: Axtschnabel
+Bezeichnung: Axe Beak
 Kategorie: Reit- und Lastentier
 Eigenschaften: /
 Kst.: 50 GM
 Gew.: /
-Bew.: 15 m
-Traglast: 420 Pfd.
 tags:
   - Gegenstand/Ausrüstung/Reit-und-Lastentier
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/idrotf
 aliases:
   - Axe Beak
+Bew.: 15 m
 linter-yaml-title-alias: Axe Beak
+Traglast: 420 Pfd.
 ---
 # Axe Beak
 *Mount*  

@@ -1,10 +1,11 @@
 ---
+Bezeichnung: Kampf mit großen Waffen
 tags:
-- Quelle/5e/phb
-- Kompendium/Optionales/fs-f
-- Kompendium/Optionales/fs-p
-aliases: 
-- Great Weapon Fighting
+  - Kompendium/Optionales/fs-f
+  - Kompendium/Optionales/fs-p
+  - Quelle/5e/phb
+aliases:
+  - Great Weapon Fighting
 ---
 # Kampf mit großen Waffen
 *Source: Player's Handbook. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  

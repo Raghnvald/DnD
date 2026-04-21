@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Hero Points
 tags:
   - Quelle/5e/dmg
 aliases:

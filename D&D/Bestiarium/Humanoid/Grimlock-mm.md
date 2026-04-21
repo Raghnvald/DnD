@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mm
-  - Monster/HG/1-4
-  - Monster/Habitat/Unterreich
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/grimlock
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Grimlock
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Unterreich
+  - Monster/HG/1-4
+  - Monster/Typ/Humanoid/grimlock
+  - Quelle/5e/mm
 aliases:
   - Grimlock
 ---

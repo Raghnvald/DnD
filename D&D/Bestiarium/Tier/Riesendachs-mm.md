@@ -1,22 +1,21 @@
 ---
-cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
+statblock: inline
+statblock-link: "#^statblock"
 Bezeichnung: Riesendachs
 Kategorie: Tier
 Größe: Mittelgroß
 HG: 1/4
 Habitat:
   - Wald
-status: completed
 image: image/giant-badger-webp
+status: completed
 tags:
-  - Quelle/5e/mm
-  - Monster/HG/1-4
-  - Monster/Habitat/Wald
   - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Wald
+  - Monster/HG/1-4
   - Monster/Typ/Tier
-statblock: inline
-statblock-link: "#^statblock"
+  - Quelle/5e/mm
 aliases:
   - Giant Badger
 ---

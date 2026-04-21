@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Guild Keyrune
 tags:
   - Gegenstand/Einstimmung/required

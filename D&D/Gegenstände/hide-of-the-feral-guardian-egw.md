@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Hide of the Feral Guardian-egw
+Bezeichnung: Hide of the Feral Guardian
 Kategorie: Rüstung
 Rüstung: Leicht
 Eigenschaften: /

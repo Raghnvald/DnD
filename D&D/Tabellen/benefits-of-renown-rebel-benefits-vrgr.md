@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Benefits of Renown; Rebel Benefits
 tags:
   - Quelle/5e/vrgr
 aliases:

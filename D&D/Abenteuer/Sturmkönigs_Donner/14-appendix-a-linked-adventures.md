@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Appendix A: Linked Adventures"
 tags:
   - Quelle/5e/skt
 aliases:

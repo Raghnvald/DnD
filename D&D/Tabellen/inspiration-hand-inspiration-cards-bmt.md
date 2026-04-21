@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Inspiration Hand; Inspiration Cards
 tags:
   - Quelle/5e/bmt
 aliases:

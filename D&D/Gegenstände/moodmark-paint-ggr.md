@@ -1,12 +1,11 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Moodmark Paint
+Kategorie: Wundersamer Gegenstand 
 tags:
   - Gegenstand/Seltenheit/gewöhnlich
+  - Gegenstand/wundersam
   - Quelle/5e/ggr
 aliases:
-  - Moodmark Paint
   - Moodmark Paint
 linter-yaml-title-alias: Moodmark Paint
 ---

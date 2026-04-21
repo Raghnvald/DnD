@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/bmt
-  - Monster/HG/7
-  - Monster/Größe/Groß
-  - Monster/Typ/Konstrukt
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Advanced Detention Drone
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/7
+  - Monster/Typ/Konstrukt
+  - Quelle/5e/bmt
 aliases:
   - Advanced Detention Drone
 ---

@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/bgg
-  - Monster/HG/1
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Schleim
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Bag Jelly
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/1
+  - Monster/Typ/Schleim
+  - Quelle/5e/bgg
 aliases:
   - Bag Jelly
 ---
@@ -25,7 +24,6 @@ Some giants keep their bags scrupulously clean to avoid attracting bag jellies, 
 > [!quote] A quote from Diancastra  
 > 
 > I'm not one to discount Dwarvish sagas as a rule, but everyone knows that food left in a bag too long sometimes comes alive. "Eat it before it eats you." That's my motto.
-
 
 ```statblock
 "name": "Bag Jelly (BGG)"

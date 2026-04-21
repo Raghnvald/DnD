@@ -1,12 +1,10 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Stoneskin
 tags:
+  - Klasse/Artifizient
   - Klasse/Barde
   - Klasse/Druide
   - Klasse/Magier
-  - Klasse/Artifizient
   - Klasse/Paladin/Schwur-der-Alten
   - Klasse/Paladin/Schwur-der-Eroberung
   - Klasse/Paladin/Schwur-der-Läuterung

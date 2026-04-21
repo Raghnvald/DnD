@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-hazard
+Bezeichnung: Falling onto a Creature
 tags:
-  - Quelle/5e/tce
   - Kompendium/Bedrohung/wld
+  - Quelle/5e/tce
 aliases:
   - Falling onto a Creature
 ---

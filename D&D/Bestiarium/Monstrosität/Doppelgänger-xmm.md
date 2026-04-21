@@ -1,15 +1,14 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/3
-  - Monster/Habitat/Unterreich
-  - Monster/Habitat/Stadt
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Monstrosität
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Doppelganger
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Stadt
+  - Monster/Habitat/Unterreich
+  - Monster/HG/3
+  - Monster/Typ/Monstrosität
+  - Quelle/5e/xmm
 aliases:
   - Doppelganger
 ---
@@ -42,7 +41,6 @@ A doppelganger's agenda might relate to its mysterious magical origins or to mor
 > [!quote] A quote from Someone claiming to be Lorhirin of Fearchor Keep  
 > 
 > Meeting yourself is the surest way to realize you're not as charming as you think you are.
-
 
 ```statblock
 "name": "Doppelganger (XMM)"

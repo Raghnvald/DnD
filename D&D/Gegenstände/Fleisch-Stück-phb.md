@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Fleisch, Stück
 Kategorie: Essen und Trinken
 tags:

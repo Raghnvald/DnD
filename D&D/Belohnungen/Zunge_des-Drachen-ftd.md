@@ -1,7 +1,8 @@
 ---
+Bezeichnung: Tongue of the Dragon
 tags:
-  - Quelle/5e/ftd
   - Kompendium/Belohnung/draconic-gift
+  - Quelle/5e/ftd
 aliases:
   - Tongue of the Dragon
 ---

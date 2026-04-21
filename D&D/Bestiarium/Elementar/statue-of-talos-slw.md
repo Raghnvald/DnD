@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/slw
-  - Monster/HG/10
-  - Monster/Größe/Groß
-  - Monster/Typ/Elementar
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Statue of Talos
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/10
+  - Monster/Typ/Elementar
+  - Quelle/5e/slw
 aliases:
   - Statue of Talos
 ---

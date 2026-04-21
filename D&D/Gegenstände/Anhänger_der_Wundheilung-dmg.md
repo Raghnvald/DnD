@@ -7,6 +7,7 @@ Gew.: 0,5 kg
 tags:
   - Gegenstand/Einstimmung
   - Gegenstand/Seltenheit/ungewöhnlich
+  - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
   - Periapt of Wound Closure

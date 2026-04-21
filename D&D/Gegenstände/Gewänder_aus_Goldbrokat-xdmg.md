@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Cloth-of-gold vestments
 tags:
   - Gegenstand/Ausrüstung/treasure-art-object

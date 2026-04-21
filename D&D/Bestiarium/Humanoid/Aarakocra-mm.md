@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mm
-  - Monster/HG/1-4
-  - Monster/Habitat/Berg
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/aarakocra
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Aarakocra
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Berg
+  - Monster/HG/1-4
+  - Monster/Typ/Humanoid/aarakocra
+  - Quelle/5e/mm
 aliases:
   - Aarakocra
 ---

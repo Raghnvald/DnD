@@ -1,5 +1,7 @@
 ---
-tags: [Quelle/5e/dmg]
+Bezeichnung: "Kapitel 8: Das Spiel leiten"
+tags:
+  - Quelle/5e/dmg
 ---
 # Kapitel 8: Das Spiel leiten
 

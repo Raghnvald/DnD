@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Versilberte Waffe
+Bezeichnung: Silvered Weapon
 Kategorie: Beliebige Waffe 
 tags:
   - Gegenstand/Seltenheit/unbekannt

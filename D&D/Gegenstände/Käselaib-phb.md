@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Käselaib
+Bezeichnung: Hunk of Cheese
 Kategorie: Essen und Trinken
 tags:
   - Gegenstand/Ausrüstung/Essen-und-Trinken

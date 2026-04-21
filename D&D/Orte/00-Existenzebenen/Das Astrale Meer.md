@@ -1,3 +1,7 @@
+---
+Bezeichnung: Das Astrale Meer
+---
+# Das Astrale Meer
 Basis Informationen
 Ebenentyp	
 Fundamentalebene

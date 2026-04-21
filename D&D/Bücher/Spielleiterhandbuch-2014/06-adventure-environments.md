@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Adventure Environments
 tags:
   - Quelle/5e/dmg
 aliases:

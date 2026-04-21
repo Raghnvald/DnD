@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/bgg
-  - Monster/HG/20
-  - Monster/Größe/Riesig
-  - Monster/Typ/Riese/sorcerer
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Storm Giant Tempest Caller
+tags:
+  - Monster/Größe/Riesig
+  - Monster/HG/20
+  - Monster/Typ/Riese/sorcerer
+  - Quelle/5e/bgg
 aliases:
   - Storm Giant Tempest Caller
 ---

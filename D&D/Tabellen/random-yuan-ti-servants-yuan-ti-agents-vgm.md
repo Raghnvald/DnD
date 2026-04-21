@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Random Yuan-ti Servants; Yuan-ti Agents
 tags:
   - Quelle/5e/vgm
 aliases:

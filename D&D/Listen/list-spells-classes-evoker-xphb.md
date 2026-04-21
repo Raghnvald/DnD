@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Evoker
 tags:
   - Zauber/list/subclass/evoker
 aliases:

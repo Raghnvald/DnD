@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Legion Garrison Adventures
 tags:
   - Quelle/5e/ggr
 aliases:

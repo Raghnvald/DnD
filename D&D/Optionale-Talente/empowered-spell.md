@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-feat
+Bezeichnung: Empowered Spell
 tags:
-  - Quelle/5e/phb
   - Kompendium/Optionales/mm
+  - Quelle/5e/phb
 aliases:
   - Empowered Spell
 ---

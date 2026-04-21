@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Electrum 50-Zib Coin
 tags:
   - Gegenstand/Ausrüstung/treasure-coinage

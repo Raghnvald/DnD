@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-race
+Bezeichnung: Bullywug
 tags:
   - Quelle/5e/dmg
   - Rasse/bullywug
@@ -9,7 +8,6 @@ aliases:
 ---
 # Bullywug
 *Source: Dungeon Master's Guide p. 282*  
-
 
 - **Ability Scores**: int -2 cha -2
 - **Size**: Medium

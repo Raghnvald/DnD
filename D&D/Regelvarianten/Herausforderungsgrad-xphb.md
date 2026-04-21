@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Challenge Rating
 tags:
   - Quelle/5e/xphb
 aliases:

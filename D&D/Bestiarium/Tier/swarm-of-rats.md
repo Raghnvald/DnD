@@ -1,21 +1,20 @@
 ---
-cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
-Bezeichnung: Schwarm von Ratten
+statblock: inline
+statblock-link: "#^statblock"
+Bezeichnung: Swarm of Rats
 Kategorie: Bestie
 Größe: Mittelgroß
 HG: 1/4
-status:
 image:
+status:
 tags:
-  - Quelle/5e/mm
-  - Monster/HG/1-4
-  - Monster/Habitat/Sumpf
-  - Monster/Habitat/Stadt
   - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Stadt
+  - Monster/Habitat/Sumpf
+  - Monster/HG/1-4
   - Monster/Typ/Tier
-statblock: inline
-statblock-link: "#^statblock"
+  - Quelle/5e/mm
 aliases:
   - Swarm of Rats
 ---

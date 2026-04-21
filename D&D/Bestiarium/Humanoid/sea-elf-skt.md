@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/skt
-  - Monster/HG/1-8
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/elf
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Sea Elf
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/1-8
+  - Monster/Typ/Humanoid/elf
+  - Quelle/5e/skt
 aliases:
   - Sea Elf
 ---

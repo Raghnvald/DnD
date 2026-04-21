@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Indifferent [Attitude]
 tags:
   - Quelle/5e/xphb
 aliases:

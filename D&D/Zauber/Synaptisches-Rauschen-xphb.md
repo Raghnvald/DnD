@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Synaptic Static
 tags:
   - Klasse/Barde

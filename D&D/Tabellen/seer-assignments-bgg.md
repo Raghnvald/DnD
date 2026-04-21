@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Seer Assignments
 tags:
   - Quelle/5e/bgg
 aliases:

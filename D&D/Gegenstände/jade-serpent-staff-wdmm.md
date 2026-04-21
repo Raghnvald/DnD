@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Jade Serpent Staff
 tags:
   - Gegenstand/Seltenheit/unbekannt/magic

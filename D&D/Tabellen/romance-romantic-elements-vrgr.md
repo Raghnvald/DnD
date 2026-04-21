@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Romance; Romantic Elements
 tags:
   - Quelle/5e/vrgr
 aliases:

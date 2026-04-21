@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Enspelled Armor
 tags:
   - Gegenstand/Einstimmung/required

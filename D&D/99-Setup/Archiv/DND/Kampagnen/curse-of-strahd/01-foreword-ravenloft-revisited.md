@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Foreword: Ravenloft Revisited"
 tags:
   - Quelle/5e/cos
 aliases:

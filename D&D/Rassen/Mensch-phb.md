@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-race
+Bezeichnung: Human
 tags:
   - Quelle/5e/phb
   - Rasse/human

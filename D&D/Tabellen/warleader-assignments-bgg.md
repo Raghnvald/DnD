@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Warleader Assignments
 tags:
   - Quelle/5e/bgg
 aliases:

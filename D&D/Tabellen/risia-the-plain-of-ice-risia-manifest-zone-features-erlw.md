@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Risia, the Plain of Ice; Risia Manifest Zone Features
 tags:
   - Quelle/5e/erlw
 aliases:

@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mcv4ec
-  - Monster/HG/11
-  - Monster/Größe/Groß
-  - Monster/Typ/Pflanze/druid
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Treefolk
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/11
+  - Monster/Typ/Pflanze/druid
+  - Quelle/5e/mcv4ec
 aliases:
   - Treefolk
 ---
@@ -19,7 +18,6 @@ The wise and ancient treefolk thrive in the depths of Eldraine's forested wilds.
 > [!quote] A quote from Borogrove, Tuinvale treefolk  
 > 
 > Right now, you are a feeble stick, but I will help you grow some rings.
-
 
 ```statblock
 "name": "Treefolk (MCV4EC)"

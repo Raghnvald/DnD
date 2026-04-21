@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/4
-  - Monster/Habitat/Jedes
-  - Monster/Größe/Klein-oder-Mittelgroß
-  - Monster/Typ/Humanoid
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Guard Captain
+tags:
+  - Monster/Größe/Klein-oder-Mittelgroß
+  - Monster/Habitat/Jedes
+  - Monster/HG/4
+  - Monster/Typ/Humanoid
+  - Quelle/5e/xmm
 aliases:
   - Guard Captain
 ---
@@ -29,7 +28,6 @@ Guards protect people, places, and things, either for pay or from a sense of dut
 > [!quote] A quote from Volothamp Geddarm, Legendary Explorer  
 > 
 > To distinguish between Waterdeep's different groups of guardians, keep this handy mnemonic in mind: the Guard guards the walls while the Watch watches all.
-
 
 ```statblock
 "name": "Guard Captain (XMM)"

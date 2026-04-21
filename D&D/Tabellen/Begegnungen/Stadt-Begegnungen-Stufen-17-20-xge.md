@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Urban Encounters (Levels 17—20)
 tags:
   - Quelle/5e/xge
 aliases:

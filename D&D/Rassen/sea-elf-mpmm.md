@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-race
+Bezeichnung: Sea Elf
 tags:
   - Quelle/5e/mpmm
   - Rasse/sea-elf

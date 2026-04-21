@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Sylvan Forest Encounters
 tags:
   - Quelle/5e/dmg
 aliases:

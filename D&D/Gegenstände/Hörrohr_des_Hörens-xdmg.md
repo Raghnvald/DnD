@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Ear Horn of Hearing
 tags:
   - Gegenstand/Seltenheit/gewöhnlich

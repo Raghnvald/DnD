@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Elemental Gem, Red Corundum
+Kategorie: Wundersamer Gegenstand
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/dmg

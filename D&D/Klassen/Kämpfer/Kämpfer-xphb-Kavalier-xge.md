@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-class
 Bezeichnung: Cavalier
 tags:
   - Klasse/Kämpfer/cavalier

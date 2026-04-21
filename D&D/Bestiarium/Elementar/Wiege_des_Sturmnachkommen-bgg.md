@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/bgg
-  - Monster/HG/27
-  - Monster/Größe/Gigantisch
-  - Monster/Typ/Elementar
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Cradle of the Storm Scion
+tags:
+  - Monster/Größe/Gigantisch
+  - Monster/HG/27
+  - Monster/Typ/Elementar
+  - Quelle/5e/bgg
 aliases:
   - Cradle of the Storm Scion
 ---

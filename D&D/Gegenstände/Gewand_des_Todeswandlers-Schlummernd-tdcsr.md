@@ -1,7 +1,5 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Deathwalker's Ward (Dormant)
+Bezeichnung: "Deathwalker's Ward (Dormant)"
 Rüstung: Leicht
 tags:
   - Gegenstand/Einstimmung/required

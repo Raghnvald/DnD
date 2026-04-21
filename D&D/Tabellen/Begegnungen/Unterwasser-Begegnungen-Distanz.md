@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Underwater Encounter Distance
 tags:
   - Quelle/5e/dmg
 aliases:

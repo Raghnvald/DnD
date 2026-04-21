@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Mummy Lord
 tags:
-  - Quelle/5e/mm
   - Monster/legendary-group
+  - Quelle/5e/mm
 aliases:
   - Mummy Lord
 ---

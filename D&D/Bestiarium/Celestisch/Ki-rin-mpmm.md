@@ -1,17 +1,16 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mpmm
-  - Monster/HG/12
-  - Monster/Habitat/Küste
-  - Monster/Habitat/Wüste
-  - Monster/Habitat/Grasland
-  - Monster/Habitat/Berg
-  - Monster/Größe/Groß
-  - Monster/Typ/Himmlische
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Ki-rin
+tags:
+  - Monster/Größe/Groß
+  - Monster/Habitat/Berg
+  - Monster/Habitat/Grasland
+  - Monster/Habitat/Küste
+  - Monster/Habitat/Wüste
+  - Monster/HG/12
+  - Monster/Typ/Himmlische
+  - Quelle/5e/mpmm
 aliases:
   - Ki-rin
 ---

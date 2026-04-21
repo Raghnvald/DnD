@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Faerie Dragon Treasures; Faerie Dragon Art Objects
 tags:
   - Quelle/5e/ftd
 aliases:

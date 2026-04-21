@@ -1,19 +1,18 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/6
-  - Monster/Habitat/fire
-  - Monster/Habitat/Berg
-  - Monster/Habitat/planar
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Elementar
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Azer Pyromancer
+Kategorie: Elementar
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Berg
+  - Monster/Habitat/fire
+  - Monster/Habitat/planar
+  - Monster/HG/6
+  - Monster/Typ/Elementar
+  - Quelle/5e/xmm
 aliases:
   - Azer Pyromancer
-Kategorie: Elementar
 ---
 # [Azer Pyromancer](3-Mechanics\CLI\bestiary\elemental/azer-pyromancer-xmm.md)
 *Source: Monster Manual (2024) p. 25*  

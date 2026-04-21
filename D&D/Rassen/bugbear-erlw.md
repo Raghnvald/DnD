@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-race
+Bezeichnung: Bugbear
 tags:
   - Quelle/5e/erlw
   - Rasse/bugbear

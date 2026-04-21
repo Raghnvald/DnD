@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Determine Numbers and Challenge Ratings; Multiple Monsters: 6th-10th Level"
 tags:
   - Quelle/5e/xge
 aliases:

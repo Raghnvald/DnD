@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Agony (Exalted)
 Kategorie: Nahkampf-Kriegswaffe
 tags:

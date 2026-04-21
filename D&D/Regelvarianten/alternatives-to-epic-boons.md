@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Alternatives to Epic Boons
 tags:
   - Quelle/5e/dmg
 aliases:

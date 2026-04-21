@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Warding Bond
 Zaubergrad: 2
 tags:

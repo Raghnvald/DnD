@@ -10,9 +10,9 @@ Schaden: 1d8 Schall
 status:
   - completed
 tags:
+  - Klasse/Artifizient
   - Klasse/Hexenmeister
   - Klasse/Magier
-  - Klasse/Artifizient
   - Klasse/Zauberer
   - Quelle/5e/scag
   - Zauber/Grad/0

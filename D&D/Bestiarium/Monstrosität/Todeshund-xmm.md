@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/1
-  - Monster/Habitat/Wüste
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Monstrosität
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Death Dog
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Wüste
+  - Monster/HG/1
+  - Monster/Typ/Monstrosität
+  - Quelle/5e/xmm
 aliases:
   - Death Dog
 ---

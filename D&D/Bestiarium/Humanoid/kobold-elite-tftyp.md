@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/tftyp
-  - Monster/HG/1-8
-  - Monster/Größe/Klein
-  - Monster/Typ/Humanoid/kobold
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Kobold Elite
+tags:
+  - Monster/Größe/Klein
+  - Monster/HG/1-8
+  - Monster/Typ/Humanoid/kobold
+  - Quelle/5e/tftyp
 aliases:
   - Kobold Elite
 ---

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Dreaming Dark Adventure Hooks
 tags:
   - Quelle/5e/erlw
 aliases:

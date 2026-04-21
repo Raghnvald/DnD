@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Handheld mirror set in a painted wooden frame
 tags:
   - Gegenstand/Ausrüstung/treasure-art-object

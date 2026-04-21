@@ -1,7 +1,5 @@
 ---
-cssclasses:
-  - json5e-spell
-Bezeichnung: Leomund's Secret Chest
+Bezeichnung: "Leomund's Secret Chest"
 Zaubergrad: 4
 tags:
   - Klasse/Barde/Magische-Geheimnisse

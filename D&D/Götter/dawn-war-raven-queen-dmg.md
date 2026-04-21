@@ -1,11 +1,10 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Raven Queen
 tags:
-  - Quelle/5e/dmg
   - Kompendium/Götter/dawn-war
   - Kompendium/Götter/Domäne/death
   - Kompendium/Götter/Domäne/life
+  - Quelle/5e/dmg
 aliases:
   - Raven Queen
 ---

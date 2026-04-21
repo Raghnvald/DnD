@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Stone Giant Encounters
 tags:
   - Quelle/5e/bgg
 aliases:

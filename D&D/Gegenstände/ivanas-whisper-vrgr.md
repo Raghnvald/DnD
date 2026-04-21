@@ -1,7 +1,5 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Ivana's Whisper
+Bezeichnung: "Ivana's Whisper"
 Kategorie: Gift
 tags:
   - Gegenstand/Ausrüstung/

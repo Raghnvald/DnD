@@ -1,5 +1,7 @@
 ---
-tags: [Quelle/5e/dmg]
+Bezeichnung: "Kapitel 4: Nichtspieler-Charaktere erschaffen"
+tags:
+  - Quelle/5e/dmg
 ---
 # Kapitel 4: Nichtspieler-Charaktere erschaffen
 

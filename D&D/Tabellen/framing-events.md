@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Framing Events
 tags:
   - Quelle/5e/dmg
 aliases:

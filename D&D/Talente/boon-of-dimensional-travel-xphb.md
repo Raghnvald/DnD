@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-feat
+Bezeichnung: Boon of Dimensional Travel
 tags:
-  - Quelle/5e/xphb
   - Kompendium/Talent
+  - Quelle/5e/xphb
 aliases:
   - Boon of Dimensional Travel
 ---

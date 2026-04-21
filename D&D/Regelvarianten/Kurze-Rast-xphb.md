@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Short Rest
 tags:
   - Quelle/5e/xphb
 aliases:

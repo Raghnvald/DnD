@@ -1,6 +1,7 @@
 ---
 prefer-view:
   - edit-source read
+Bezeichnung: Schwur der Hingabe
 status:
   - completed
 tags:

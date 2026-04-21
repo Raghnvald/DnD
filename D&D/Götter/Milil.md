@@ -1,11 +1,11 @@
 ---
-cssclasses: json5e-deity
+Bezeichnung: Milil, Gott der Dichtung und Lieder
 tags:
-  - Quelle/5e/phb
   - Kompendium/Götter
+  - Kompendium/Götter/Domäne/Licht
   - Kompendium/Götter/Gesinnung/Neutral_Gut
   - Kompendium/Götter/Pantheon/Faerun
-  - Kompendium/Götter/Domäne/Licht
+  - Quelle/5e/phb
 aliases:
   - Milil
 ---

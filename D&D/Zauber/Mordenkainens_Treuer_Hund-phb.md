@@ -1,7 +1,5 @@
 ---
-cssclasses:
-  - json5e-spell
-Bezeichnung: Mordenkainen's Faithful Hound
+Bezeichnung: "Mordenkainen's Faithful Hound"
 Zaubergrad: 4
 tags:
   - Klasse/Barde/Magische-Geheimnisse

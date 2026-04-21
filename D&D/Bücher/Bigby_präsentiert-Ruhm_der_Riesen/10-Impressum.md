@@ -1,8 +1,9 @@
 ---
+Bezeichnung: Credits
 tags:
-- Quelle/5e/bgg
+  - Quelle/5e/bgg
 aliases:
-- Credits
+  - Credits
 ---
 # Credits
 *Source: Bigby Presents: Glory of the Giants* 

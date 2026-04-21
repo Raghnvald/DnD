@@ -1,3 +1,7 @@
+---
+Bezeichnung: Map Test
+---
+# Map Test
 ```base
 views:
   - type: map

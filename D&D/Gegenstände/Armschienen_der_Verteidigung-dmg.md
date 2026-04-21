@@ -1,8 +1,10 @@
 ---
 Bezeichnung: Bracers of Defense
+Kategorie: Wundersamer Gegenstand
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
+  - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
   - Bracers of Defense

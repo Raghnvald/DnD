@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/wdmm
-  - Monster/HG/1-4
-  - Monster/Größe/Groß
-  - Monster/Typ/Tier
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Awakened Elk
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/1-4
+  - Monster/Typ/Tier
+  - Quelle/5e/wdmm
 aliases:
   - Awakened Elk
 ---

@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mcv4ec
-  - Monster/HG/12
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Fee/sorcerer
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: High Fae Mage
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/12
+  - Monster/Typ/Fee/sorcerer
+  - Quelle/5e/mcv4ec
 aliases:
   - High Fae Mage
 ---

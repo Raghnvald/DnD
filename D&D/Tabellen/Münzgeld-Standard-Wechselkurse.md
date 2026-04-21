@@ -1,5 +1,5 @@
 ---
-cssclasses: json5e-note
+Bezeichnung: Münzgeld; Standard-Wechselkurse
 tags:
   - Quelle/5e/phb
 aliases:

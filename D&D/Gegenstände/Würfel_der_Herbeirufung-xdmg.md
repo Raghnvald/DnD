@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Cube of Summoning
 tags:
   - Gegenstand/Seltenheit/selten

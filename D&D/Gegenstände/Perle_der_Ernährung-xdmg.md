@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Bead of Nourishment
 tags:
   - Gegenstand/Seltenheit/gewöhnlich

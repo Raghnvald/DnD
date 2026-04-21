@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Monsters by Habitat; Underwater Monsters
 tags:
   - Quelle/5e/xmm
 aliases:

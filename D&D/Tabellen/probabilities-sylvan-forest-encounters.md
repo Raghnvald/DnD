@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Probabilities; Sylvan Forest Encounters
 tags:
   - Quelle/5e/dmg
 aliases:

@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Locate Animals or Plants
 tags:
   - Klasse/Barde

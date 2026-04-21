@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Gold comb shaped like a dragon with red garnets as eyes
 tags:
   - Gegenstand/Ausrüstung/treasure-art-object

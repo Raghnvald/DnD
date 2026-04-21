@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Undying Servitude
 tags:
   - Zauber/list/optfeature/undying-servitude
 aliases:

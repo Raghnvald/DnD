@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-hazard
+Bezeichnung: Spiked Pit
 tags:
-  - Quelle/5e/xdmg
   - Kompendium/Bedrohung/trp
+  - Quelle/5e/xdmg
 aliases:
   - Spiked Pit
 ---

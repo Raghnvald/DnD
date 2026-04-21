@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Shared Campaign Variant Rules
 tags:
   - Quelle/5e/xge
 aliases:

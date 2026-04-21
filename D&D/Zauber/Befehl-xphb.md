@@ -8,8 +8,8 @@ Wirkungsdauer:
 Angriff:
 tags:
   - Klasse/Barde
-  - Klasse/Barde/Schule-des-Zauberbanns
   - Klasse/Barde/Schule-des-Wissens
+  - Klasse/Barde/Schule-des-Zauberbanns
   - Klasse/Kleriker
   - Klasse/Kleriker/knowledge-domain
   - Klasse/Kleriker/order-domain

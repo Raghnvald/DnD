@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/tftyp
-  - Monster/HG/1-2
-  - Monster/Größe/Groß
-  - Monster/Typ/Pflanze
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Thorn Slinger
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/1-2
+  - Monster/Typ/Pflanze
+  - Quelle/5e/tftyp
 aliases:
   - Thorn Slinger
 ---

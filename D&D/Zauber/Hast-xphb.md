@@ -1,19 +1,17 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Haste
 tags:
+  - Klasse/Artifizient
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
   - Klasse/Magier
-  - Klasse/Artifizient
   - Klasse/Paladin/oath-of-glory
   - Klasse/Paladin/oath-of-vengeance
   - Klasse/Schurke/Arkaner-Betrüger
   - Klasse/Zauberer
   - Quelle/5e/xphb
-  - Subklasse/Mystischer-Ritter
   - Subklasse/horizon-walker
+  - Subklasse/Mystischer-Ritter
   - Zauber/Grad/3
   - Zauber/Schule/Verwandlung
 classes:

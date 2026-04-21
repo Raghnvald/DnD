@@ -1,21 +1,20 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/3
-  - Monster/Habitat/acheron
-  - Monster/Habitat/Wüste
-  - Monster/Habitat/Wald
-  - Monster/Habitat/Grasland
-  - Monster/Habitat/Hügel
-  - Monster/Habitat/Berg
-  - Monster/Habitat/planar
-  - Monster/Habitat/Unterreich
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Fee/Goblinoid
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Hobgoblin Captain
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/acheron
+  - Monster/Habitat/Berg
+  - Monster/Habitat/Grasland
+  - Monster/Habitat/Hügel
+  - Monster/Habitat/planar
+  - Monster/Habitat/Unterreich
+  - Monster/Habitat/Wald
+  - Monster/Habitat/Wüste
+  - Monster/HG/3
+  - Monster/Typ/Fee/Goblinoid
+  - Quelle/5e/xmm
 aliases:
   - Hobgoblin Captain
 ---

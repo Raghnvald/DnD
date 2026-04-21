@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-class
 Bezeichnung: College of Creation
 tags:
   - Klasse/Barde/Schule-der-Schöpfung

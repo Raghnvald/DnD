@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Black Sap
 tags:
   - Gegenstand/Ausrüstung/

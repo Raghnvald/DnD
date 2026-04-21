@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-race
+Bezeichnung: Goblin
 tags:
   - Quelle/5e/ggr
   - Rasse/goblin
@@ -9,7 +8,6 @@ aliases:
 ---
 # Goblin
 *Source: Guildmasters' Guide to Ravnica p. 16*  
-
 
 - **Ability Scores**: dex +2 con +1
 - **Size**: Small

@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Plant Growth
 Zaubergrad: 3
 tags:

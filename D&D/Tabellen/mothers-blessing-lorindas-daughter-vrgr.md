@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Mother's Blessing; Lorinda's Daughter"
 tags:
   - Quelle/5e/vrgr
 aliases:

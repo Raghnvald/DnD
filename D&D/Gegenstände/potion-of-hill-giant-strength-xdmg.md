@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Potion of Hill Giant Strength
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich

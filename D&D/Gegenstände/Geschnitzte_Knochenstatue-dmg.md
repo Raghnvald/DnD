@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Carved bone statuette
 Kategorie: Kunstobjekt
 tags:

@@ -1,7 +1,6 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Elixir of Health
+Kategorie: Trank
 tags:
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam/Trank

@@ -1,7 +1,6 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Coin of Delving
+Kategorie: Wundersamer Gegenstand
 tags:
   - Gegenstand/Seltenheit/gewöhnlich
   - Quelle/5e/egw

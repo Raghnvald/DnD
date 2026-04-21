@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Fate Cutter Shears-bmt
+Bezeichnung: Fate Cutter Shears
 Kategorie: Einfache Nahkampfwaffe
 Einstimmung: erfordert
 tags:

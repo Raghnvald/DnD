@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Feuerschale der Feuerelementar-Herrschaft
+Kategorie: Wundersamer Gegenstand
 tags:
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/dmg
@@ -8,7 +9,7 @@ aliases:
 linter-yaml-title-alias: Feuerschale der Feuerelementar-Herrschaft
 ---
 # Feuerschale der Feuerelementar-Herrschaft
-*Wundersamer Gegenstand, rare*  
+*Wundersamer Gegenstand, selten*  
 ![](Gegenstände/img/brazier-of-commanding-fire-elementals.webp#right)
 
 - **Gewicht**: 2,5 kg.

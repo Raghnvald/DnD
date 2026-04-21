@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Forge Domain
 tags:
   - Zauber/list/subclass/forge-domain
 aliases:

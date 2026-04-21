@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Seelie Market Introductions
 tags:
   - Quelle/5e/bmt
 aliases:

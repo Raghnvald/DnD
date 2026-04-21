@@ -1,10 +1,10 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Ioun Stone
+Kategorie: Wundersamer Gegenstand 
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/variiert
+  - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
   - Ioun Stone

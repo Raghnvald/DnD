@@ -1,11 +1,10 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Moradin
 tags:
-  - Quelle/5e/phb
-  - Kompendium/Götter/nonhuman
   - Kompendium/Götter/Domäne/forge
   - Kompendium/Götter/Domäne/knowledge
+  - Kompendium/Götter/nonhuman
+  - Quelle/5e/phb
 aliases:
   - Moradin
 ---

@@ -1,4 +1,5 @@
 ---
+Bezeichnung: "Kapitel 5: Gefährliche Pfade"
 tags:
   - Quelle/5e/pabtso
 aliases:

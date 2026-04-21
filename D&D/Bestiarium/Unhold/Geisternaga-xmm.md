@@ -1,16 +1,15 @@
 ---
-cssclasses:
-  - json5e-monster
+statblock: inline
+statblock-link: "#^statblock"
+Bezeichnung: Spirit Naga
 tags:
-  - Quelle/5e/xmm
-  - Monster/HG/8
+  - Monster/Größe/Groß
   - Monster/Habitat/lower
   - Monster/Habitat/planar
   - Monster/Habitat/Unterreich
-  - Monster/Größe/Groß
+  - Monster/HG/8
   - Monster/Typ/Unhold
-statblock: inline
-statblock-link: "#^statblock"
+  - Quelle/5e/xmm
 aliases:
   - Spirit Naga
 ---

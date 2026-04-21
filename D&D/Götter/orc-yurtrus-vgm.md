@@ -1,10 +1,9 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Yurtrus
 tags:
-  - Quelle/5e/vgm
-  - Kompendium/Götter/orc
   - Kompendium/Götter/Domäne/death
+  - Kompendium/Götter/orc
+  - Quelle/5e/vgm
 aliases:
   - Yurtrus
 ---

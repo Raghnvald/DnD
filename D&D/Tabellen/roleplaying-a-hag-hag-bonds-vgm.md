@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Roleplaying a Hag; Hag Bonds
 tags:
   - Quelle/5e/vgm
 aliases:

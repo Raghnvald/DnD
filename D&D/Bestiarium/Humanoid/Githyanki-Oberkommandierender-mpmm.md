@@ -1,16 +1,15 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mpmm
-  - Monster/HG/14
-  - Monster/Habitat/Wüste
-  - Monster/Habitat/Berg
-  - Monster/Habitat/Stadt
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/gith
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Githyanki Supreme Commander
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Berg
+  - Monster/Habitat/Stadt
+  - Monster/Habitat/Wüste
+  - Monster/HG/14
+  - Monster/Typ/Humanoid/gith
+  - Quelle/5e/mpmm
 aliases:
   - Githyanki Supreme Commander
 ---

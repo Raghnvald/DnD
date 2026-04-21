@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Fernia, the Sea of Fire; Fernia Manifest Zone Features
 tags:
   - Quelle/5e/erlw
 aliases:

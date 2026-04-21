@@ -1,5 +1,5 @@
 ---
-cssclasses: json5e-note
+Bezeichnung: Mounts and Vehicles; Waterborne Vehicles
 tags:
   - Quelle/5e/phb
 aliases:

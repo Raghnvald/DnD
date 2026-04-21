@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-race
+Bezeichnung: Halfling (Mark of Hospitality)
 tags:
   - Quelle/5e/erlw
   - Rasse/halfling/mark-of-hospitality
@@ -9,7 +8,6 @@ aliases:
 ---
 # Halfling (Mark of Hospitality)
 *Source: Eberron: Rising from the Last War p. 44*  
-
 
 - **Ability Scores**: cha +1
 - **Size**: Small

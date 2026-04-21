@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Level 8: Slitherswamp"
 tags:
   - Quelle/5e/wdmm
 aliases:

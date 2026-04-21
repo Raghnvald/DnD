@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Deities of the Forgotten Realms
 tags:
   - Quelle/5e/phb
 aliases:

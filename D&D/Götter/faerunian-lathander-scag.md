@@ -1,15 +1,14 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Lathander
 tags:
-  - Quelle/5e/scag
-  - Kompendium/Götter/faerunian
   - Kompendium/Götter/Domäne/life
   - Kompendium/Götter/Domäne/light
+  - Kompendium/Götter/faerunian
+  - Quelle/5e/scag
 aliases:
+  - Inspiration's Dawn
   - Lathander
   - The Morninglord
-  - Inspiration's Dawn
   - The Rose-and-Gold God
 ---
 # Lathander

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for One with Shadows
 tags:
   - Zauber/list/optfeature/one-with-shadows
 aliases:

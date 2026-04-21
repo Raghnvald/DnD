@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-feat
+Bezeichnung: Undying Servitude
 tags:
-  - Quelle/5e/tce
   - Kompendium/Optionales/ei
+  - Quelle/5e/tce
 aliases:
   - Undying Servitude
 ---

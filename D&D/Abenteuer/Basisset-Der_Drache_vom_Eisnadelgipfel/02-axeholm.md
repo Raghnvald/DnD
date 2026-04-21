@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Axeholm
 tags:
   - Quelle/5e/dip
 aliases:

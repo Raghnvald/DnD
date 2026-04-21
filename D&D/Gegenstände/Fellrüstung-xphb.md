@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Hide Armor
 Rüstung: Mittel
 tags:

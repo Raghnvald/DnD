@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Bigby's Hand
+Bezeichnung: "Bigby's Hand"
 Zaubergrad: 5
 Zeitaufwand:
 Reichweite:
@@ -8,9 +8,9 @@ Wirkungsdauer:
 Angriff:
 Schaden:
 tags:
+  - Klasse/Artifizient
   - Klasse/Barde
   - Klasse/Magier
-  - Klasse/Artifizient
   - Klasse/Zauberer
   - Quelle/5e/xphb
   - Subklasse/evoker

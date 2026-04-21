@@ -1,16 +1,15 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mm
-  - Monster/HG/2
-  - Monster/Habitat/Wald
-  - Monster/Habitat/Grasland
-  - Monster/Habitat/Hügel
-  - Monster/Größe/Groß
-  - Monster/Typ/Himmlische
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Pegasus
+tags:
+  - Monster/Größe/Groß
+  - Monster/Habitat/Grasland
+  - Monster/Habitat/Hügel
+  - Monster/Habitat/Wald
+  - Monster/HG/2
+  - Monster/Typ/Himmlische
+  - Quelle/5e/mm
 aliases:
   - Pegasus
 ---
@@ -34,7 +33,6 @@ Pegasi mate for life, build their nests in hard-to-reach locations, and give bir
 > [!quote] A quote from Tyllenvane d'Orien, dragonmarked scion arguing to change the symbol of House Orien from the unicorn to the pegasus  
 > 
 > Behold, the pegasus. It can outrace a dragon in the open sky, and only the best among us can ever hope to ride one. A fitting emblem for our great house, don't you think?
-
 
 ```statblock
 "name": "Pegasus"

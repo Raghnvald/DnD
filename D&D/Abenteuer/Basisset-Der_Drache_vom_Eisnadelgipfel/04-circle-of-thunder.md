@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Circle of Thunder
 tags:
   - Quelle/5e/dip
 aliases:
@@ -63,7 +62,6 @@ As they move through the forest, the characters are beset by Yargath, an [anchor
 ^095
 
 #### On the first round of combat, Yargath casts bless on up to three orcs. Meanwhile, the orcs charge across the ravine and close to melee range
-
 
 #### Treasure
 

@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/bgg
-  - Monster/HG/3
-  - Monster/Größe/Riesig
-  - Monster/Typ/Tier
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Spotted Lion
+tags:
+  - Monster/Größe/Riesig
+  - Monster/HG/3
+  - Monster/Typ/Tier
+  - Quelle/5e/bgg
 aliases:
   - Spotted Lion
 ---

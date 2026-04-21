@@ -17,8 +17,8 @@ tags:
   - Klasse/Zauberer
   - Quelle/5e/xphb
   - Rasse/elf/drow
-  - Subklasse/Mystischer-Ritter
   - Subklasse/evoker
+  - Subklasse/Mystischer-Ritter
   - Subklasse/shadow-magic
   - Subklasse/warrior-of-shadow
   - Zauber/Grad/2

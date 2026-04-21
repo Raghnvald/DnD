@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Wind Wall
 Zaubergrad: 3
 tags:

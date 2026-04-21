@@ -1,11 +1,10 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Aureon
 tags:
-  - Quelle/5e/phb
-  - Kompendium/Götter/eberron
   - Kompendium/Götter/Domäne/knowledge
   - Kompendium/Götter/Domäne/order
+  - Kompendium/Götter/eberron
+  - Quelle/5e/phb
 aliases:
   - Aureon
 ---

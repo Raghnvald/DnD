@@ -1,12 +1,12 @@
 ---
-cssclasses: json5e-deity
+Bezeichnung: Auril, Göttin des Winters
 tags:
-  - Quelle/5e/phb
   - Kompendium/Götter
-  - Kompendium/Götter/Gesinnung/Neutral_Böse
-  - Kompendium/Götter/Pantheon/Faerun
   - Kompendium/Götter/Domäne/Natur
   - Kompendium/Götter/Domäne/Sturm
+  - Kompendium/Götter/Gesinnung/Neutral_Böse
+  - Kompendium/Götter/Pantheon/Faerun
+  - Quelle/5e/phb
 aliases:
   - Auril
 ---

@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Kurzschwert des Kreuzritters
+Bezeichnung: "Crusader's Shortsword"
 Kategorie: Nahkampf-Kriegswaffe
 tags:
   - Gegenstand/Einstimmung/required

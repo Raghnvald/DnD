@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Silver Dragon Treasures; Silver Dragon Art Objects
 tags:
   - Quelle/5e/ftd
 aliases:

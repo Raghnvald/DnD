@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Blessed Warrior
 tags:
   - Zauber/list/feat/blessed-warrior
 aliases:

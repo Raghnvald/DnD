@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Flaw or Secret; NPC Flaws and Secrets
 tags:
   - Quelle/5e/dmg
 aliases:

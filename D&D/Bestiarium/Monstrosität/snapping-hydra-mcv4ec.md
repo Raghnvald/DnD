@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mcv4ec
-  - Monster/HG/11
-  - Monster/Größe/Riesig
-  - Monster/Typ/Monstrosität
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Snapping Hydra
+tags:
+  - Monster/Größe/Riesig
+  - Monster/HG/11
+  - Monster/Typ/Monstrosität
+  - Quelle/5e/mcv4ec
 aliases:
   - Snapping Hydra
 ---

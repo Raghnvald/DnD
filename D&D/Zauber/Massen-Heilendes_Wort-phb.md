@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Mass Healing Word
 Zaubergrad: 3
 tags:

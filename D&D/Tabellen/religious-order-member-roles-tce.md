@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Religious Order Member Roles
 tags:
   - Quelle/5e/tce
 aliases:

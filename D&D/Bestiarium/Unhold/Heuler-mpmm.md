@@ -1,17 +1,16 @@
 ---
-cssclasses:
-  - json5e-monster
+statblock: inline
+statblock-link: "#^statblock"
+Bezeichnung: Howler
 tags:
-  - Quelle/5e/mpmm
-  - Monster/HG/8
-  - Monster/Habitat/Wüste
+  - Monster/Größe/Groß
   - Monster/Habitat/Grasland
   - Monster/Habitat/Hügel
   - Monster/Habitat/Unterreich
-  - Monster/Größe/Groß
+  - Monster/Habitat/Wüste
+  - Monster/HG/8
   - Monster/Typ/Unhold
-statblock: inline
-statblock-link: "#^statblock"
+  - Quelle/5e/mpmm
 aliases:
   - Howler
 ---

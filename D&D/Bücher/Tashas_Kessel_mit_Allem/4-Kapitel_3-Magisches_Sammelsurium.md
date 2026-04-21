@@ -1,4 +1,5 @@
 ---
+Bezeichnung: Magical Miscellany
 tags:
   - Quelle/5e/tce
 aliases:

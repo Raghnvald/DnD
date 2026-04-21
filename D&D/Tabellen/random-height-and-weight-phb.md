@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Random Height and Weight
 tags:
   - Quelle/5e/phb
 aliases:

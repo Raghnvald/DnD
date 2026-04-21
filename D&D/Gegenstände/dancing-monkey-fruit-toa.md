@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Dancing Monkey Fruit
 tags:
   - Gegenstand/Seltenheit/unbekannt/magic

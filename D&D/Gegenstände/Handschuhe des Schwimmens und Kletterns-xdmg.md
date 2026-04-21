@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Gloves of Swimming and Climbing
 tags:
   - Gegenstand/Einstimmung/required

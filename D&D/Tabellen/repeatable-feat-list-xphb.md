@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Repeatable; Feat List
 tags:
   - Quelle/5e/xphb
 aliases:

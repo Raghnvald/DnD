@@ -1,4 +1,5 @@
 ---
+Bezeichnung: Alignment and Personality; Personality Traits by Alignment
 tags:
   - Quelle/5e/xphb
 aliases:

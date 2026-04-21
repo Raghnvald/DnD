@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Old masterpiece painting
 Kategorie: Kunstobjekt
 tags:

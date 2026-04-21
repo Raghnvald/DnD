@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-background
+Bezeichnung: Marine
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/gos
@@ -9,7 +8,6 @@ aliases:
 ---
 # Marine
 *Source: Ghosts of Saltmarsh p. 31*  
-
 
 - **Skill Proficiencies.** Athletics, Survival  
 - **Tool Proficiencies.** Vehicles (water, land)  

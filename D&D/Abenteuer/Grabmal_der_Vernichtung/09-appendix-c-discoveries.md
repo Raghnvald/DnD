@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Appendix C: Discoveries"
 tags:
   - Quelle/5e/toa
 aliases:

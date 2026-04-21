@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Tiefling Names – Virtue
 tags:
   - Quelle/5e/xge
 aliases:

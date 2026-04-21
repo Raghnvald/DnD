@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Butterskull Ranch
 tags:
   - Quelle/5e/dip
 aliases:

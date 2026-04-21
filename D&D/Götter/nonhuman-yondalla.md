@@ -1,11 +1,10 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Yondalla
 tags:
-  - Quelle/5e/phb
-  - Kompendium/Götter/nonhuman
   - Kompendium/Götter/Domäne/life
   - Kompendium/Götter/Domäne/twilight
+  - Kompendium/Götter/nonhuman
+  - Quelle/5e/phb
 aliases:
   - Yondalla
 ---

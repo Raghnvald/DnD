@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: House of Thalivar
 tags:
   - Quelle/5e/slw
 aliases:

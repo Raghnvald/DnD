@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Starting Area
 tags:
   - Quelle/5e/dmg
 aliases:

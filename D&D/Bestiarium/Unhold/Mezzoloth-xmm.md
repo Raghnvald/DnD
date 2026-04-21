@@ -1,15 +1,14 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/5
-  - Monster/Habitat/gehenna
-  - Monster/Habitat/planar
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Unhold/yugoloth
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Mezzoloth
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/gehenna
+  - Monster/Habitat/planar
+  - Monster/HG/5
+  - Monster/Typ/Unhold/yugoloth
+  - Quelle/5e/xmm
 aliases:
   - Mezzoloth
 ---

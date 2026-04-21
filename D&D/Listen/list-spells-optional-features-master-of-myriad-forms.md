@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Master of Myriad Forms
 tags:
   - Zauber/list/optfeature/master-of-myriad-forms
 aliases:

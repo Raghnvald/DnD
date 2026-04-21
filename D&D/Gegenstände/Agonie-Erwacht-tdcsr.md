@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Agony (Awakened)
 Kategorie: Nahkampf-Kriegswaffe
 tags:

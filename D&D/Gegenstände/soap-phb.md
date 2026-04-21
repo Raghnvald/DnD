@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Soap
 Kategorie: Abenteuerausrüstung
 tags:

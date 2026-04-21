@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Telekinesis
 Zaubergrad: 5
 tags:

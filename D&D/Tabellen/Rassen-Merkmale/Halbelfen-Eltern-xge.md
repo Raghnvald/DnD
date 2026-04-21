@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Eltern eines Halbelfen
 tags:
   - Quelle/5e/xge
 aliases:

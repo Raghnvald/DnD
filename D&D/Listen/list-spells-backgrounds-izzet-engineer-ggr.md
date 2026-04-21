@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Izzet Engineer
 tags:
   - Zauber/list/background/izzet-engineer
 aliases:

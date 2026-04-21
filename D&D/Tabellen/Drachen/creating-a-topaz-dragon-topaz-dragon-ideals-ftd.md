@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Creating a Topaz Dragon; Topaz Dragon Ideals
 tags:
   - Quelle/5e/ftd
 aliases:

@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Beacon of Hope
 Zaubergrad: 3
 tags:

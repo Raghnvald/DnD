@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Mountain's Toe Gold Mine"
 tags:
   - Quelle/5e/dip
 aliases:

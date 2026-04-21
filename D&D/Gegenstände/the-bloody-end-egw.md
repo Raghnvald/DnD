@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: The Bloody End
 Kategorie: Nahkampf-Kriegswaffe
 tags:

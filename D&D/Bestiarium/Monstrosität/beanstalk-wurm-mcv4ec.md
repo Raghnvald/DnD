@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mcv4ec
-  - Monster/HG/18
-  - Monster/Größe/Gigantisch
-  - Monster/Typ/Monstrosität
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Beanstalk Wurm
+tags:
+  - Monster/Größe/Gigantisch
+  - Monster/HG/18
+  - Monster/Typ/Monstrosität
+  - Quelle/5e/mcv4ec
 aliases:
   - Beanstalk Wurm
 ---
@@ -21,7 +20,6 @@ Cloud-dwelling giants often use beanstalk wurms as a first line of defense again
 > [!quote]  
 > 
 > When giants' prized pets escape Stormkeld, villages fall and new Everstalks rise.
-
 
 ```statblock
 "name": "Beanstalk Wurm (MCV4EC)"

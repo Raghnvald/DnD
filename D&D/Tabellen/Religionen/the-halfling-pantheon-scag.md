@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: The Halfling Pantheon
 tags:
   - Quelle/5e/scag
 aliases:

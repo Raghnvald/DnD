@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Appendix A: Miscellaneous Creatures"
 tags:
   - Quelle/5e/mm
 aliases:

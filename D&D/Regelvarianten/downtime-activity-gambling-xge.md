@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Downtime Activity: Gambling"
 tags:
   - Quelle/5e/xge
 aliases:

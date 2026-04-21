@@ -1,7 +1,6 @@
 ---
+Bezeichnung: Spray of Cards
 Zaubergrad: 2
-cssclasses:
-  - json5e-spell
 tags:
   - Quelle/5e/bmt
   - Zauber/Grad/2
@@ -11,7 +10,6 @@ aliases:
 ---
 # Spray of Cards
 *2nd-level, Conjuration*  
-
 
 - **Casting time:** 1 Action
 - **Range:** Self (15-foot Cone)

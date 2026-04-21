@@ -1,15 +1,14 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/9
-  - Monster/Habitat/abyss
-  - Monster/Habitat/planar
-  - Monster/Größe/Groß
-  - Monster/Typ/Unhold/demon
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Glabrezu
+tags:
+  - Monster/Größe/Groß
+  - Monster/Habitat/abyss
+  - Monster/Habitat/planar
+  - Monster/HG/9
+  - Monster/Typ/Unhold/demon
+  - Quelle/5e/xmm
 aliases:
   - Glabrezu
 ---
@@ -30,7 +29,6 @@ In the Abyss, glabrezus act as lone hunters or deceitful advisers to greater dem
 > [!quote] A quote from Gerrzog, Glabrezu of the Infinite Staircase  
 > 
 > Your companion's life, or what you've journeyed through infinity in search of! Make your choice.
-
 
 ```statblock
 "name": "Glabrezu (XMM)"

@@ -1,6 +1,10 @@
 ---
-tags: [Klasse/Druide, Quelle/5e/phb]
-aliases: [Druid]
+Bezeichnung: Druide
+tags:
+  - Klasse/Druide
+  - Quelle/5e/phb
+aliases:
+  - Druid
 ---
 # Druide
 _Quelle:_ Spielerhandbuch
@@ -509,7 +513,6 @@ Für die Zeit, in der du verwandelt bist, gelten folgende Regeln:
     
 *   Du kannst bei der Verwandlung wählen, ob deine Ausrüstung an Ort und Stelle auf den Boden fällt, mit der neuen Gestalt verschmilzt oder von ihr getragen wird. Getragene  
     Ausrüstung kann normal verwendet werden, doch der SL entscheidet, ob sie der neuen Form nutzt, basierend auf der Größe und Gestalt der Kreatur. Gegenstände verändern sich allerdings nicht und passen sich deiner neuen Form nicht an. Jegliche Ausrüstung, die du in deiner neuen Gestalt nicht tragen kannst, muss entweder auf den Boden fallen oder mit ihr verschmelzen. Verschmolzene Ausrüstung hat keine Auswirkung, bis du die Gestalt erneut wechselst.
-    
 
 ### Druidenzirkel (Stufe 2)
 Mit der 2. Stufe suchst du dir einen Druidenzirkel aus, dem du von nun an angehörst. Dies kann entweder der Zirkel des Landes oder der Zirkel des Mondes sein. Deine Wahl verleiht dir auf der 2., 6., 10. und 14. Stufe jeweils ein Merkmal.

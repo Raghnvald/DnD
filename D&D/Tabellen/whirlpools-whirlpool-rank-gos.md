@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Whirlpools; Whirlpool Rank
 tags:
   - Quelle/5e/gos
 aliases:

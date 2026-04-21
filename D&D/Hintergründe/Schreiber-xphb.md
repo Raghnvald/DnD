@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-background
+Bezeichnung: Scribe
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/xphb

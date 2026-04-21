@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Level-Based Renown
 tags:
   - Quelle/5e/xdmg
 aliases:

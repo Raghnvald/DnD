@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Ability Modifier; Ability Check Examples
 tags:
   - Quelle/5e/xphb
 aliases:

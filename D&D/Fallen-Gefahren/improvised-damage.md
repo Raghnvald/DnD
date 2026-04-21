@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-hazard
+Bezeichnung: Improvised Damage
 tags:
-  - Quelle/5e/dmg
   - Kompendium/Bedrohung/gen
+  - Quelle/5e/dmg
 aliases:
   - Improvised Damage
 ---

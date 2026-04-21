@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Demiplane
 tags:
   - Klasse/Barde

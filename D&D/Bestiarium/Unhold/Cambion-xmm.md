@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/5
-  - Monster/Habitat/Jedes
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Unhold
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Cambion
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Jedes
+  - Monster/HG/5
+  - Monster/Typ/Unhold
+  - Quelle/5e/xmm
 aliases:
   - Cambion
 ---

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Backstory; Favorite Foods (Menagerie Coast)
 tags:
   - Quelle/5e/egw
 aliases:

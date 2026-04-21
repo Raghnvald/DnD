@@ -9,9 +9,9 @@ Angriff: GES
 Schaden: 1d6 Säure
 status: completed
 tags:
+  - Klasse/Artifizient
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Magier
-  - Klasse/Artifizient
   - Klasse/Schurke/Arkaner-Betrüger
   - Klasse/Zauberer
   - Kompendium/Talent/magic-initiate/wizard-spells

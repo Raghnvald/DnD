@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Schleuderkugel
+Bezeichnung: Sling Bullet
 Kategorie: Munition
 tags:
   - Gegenstand/Ausrüstung/ammunition

@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: The Bloody End (Exalted)
 Kategorie: Nahkampf-Kriegswaffe
 tags:

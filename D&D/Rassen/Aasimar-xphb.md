@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-race
+Bezeichnung: Aasimar
 tags:
   - Quelle/5e/xphb
   - Rasse/aasimar

@@ -1,8 +1,8 @@
 ---
+Bezeichnung: Schwer gepanzert
 tags:
-- Quelle/5e/phb
-aliases:
-- 
+  - Quelle/5e/phb
+aliases: []
 ---
 # Schwer gepanzert
 _Voraussetzung: Geübt im Umgang mit Mittelschweren Rüstungen_

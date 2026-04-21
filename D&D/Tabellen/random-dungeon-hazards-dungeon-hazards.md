@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Random Dungeon Hazards; Dungeon Hazards
 tags:
   - Quelle/5e/dmg
 aliases:

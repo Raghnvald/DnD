@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Ring of Free Action
 tags:
   - Gegenstand/Einstimmung/required

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Chapter 7: Tammeraut's Fate"
 tags:
   - Quelle/5e/gos
 aliases:

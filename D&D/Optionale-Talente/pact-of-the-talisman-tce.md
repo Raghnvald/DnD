@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-feat
+Bezeichnung: Pact of the Talisman
 tags:
-  - Quelle/5e/tce
   - Kompendium/Optionales/pb
+  - Quelle/5e/tce
 aliases:
   - Pact of the Talisman
 ---

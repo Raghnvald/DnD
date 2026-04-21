@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Halfling Tables; Halfling Ideals
 tags:
   - Quelle/5e/mtf
 aliases:

@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/bgg
-  - Monster/HG/22
-  - Monster/Größe/Gigantisch
-  - Monster/Typ/Riese/titan
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Scion of Grolantor
+tags:
+  - Monster/Größe/Gigantisch
+  - Monster/HG/22
+  - Monster/Typ/Riese/titan
+  - Quelle/5e/bgg
 aliases:
   - Scion of Grolantor
 ---

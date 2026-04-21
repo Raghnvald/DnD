@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Contingency
 Zaubergrad: 6
 tags:

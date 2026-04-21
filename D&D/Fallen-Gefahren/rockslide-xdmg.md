@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-hazard
+Bezeichnung: Rockslide
 tags:
   - Quelle/5e/xdmg
 aliases:

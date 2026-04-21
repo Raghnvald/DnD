@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Resolving Outcomes; Abilities, Ability Checks, and Saving Throws
 tags:
   - Quelle/5e/xdmg
 aliases:

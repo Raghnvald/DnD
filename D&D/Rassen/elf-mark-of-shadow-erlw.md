@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-race
+Bezeichnung: Elf (Mark of Shadow)
 tags:
   - Quelle/5e/erlw
   - Rasse/elf/mark-of-shadow
@@ -9,7 +8,6 @@ aliases:
 ---
 # Elf (Mark of Shadow)
 *Source: Eberron: Rising from the Last War p. 49*  
-
 
 - **Ability Scores**: cha +1
 - **Size**: Medium

@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Gust of Wind
 Zaubergrad: 2
 tags:

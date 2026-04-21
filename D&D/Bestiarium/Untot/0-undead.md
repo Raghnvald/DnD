@@ -54,7 +54,7 @@ linter-yaml-title-alias: Index of Undead
 - [Gloamwing](./gloamwing-ggr.md)
 - [Gnoll Witherling](Gnoll-Dörrling-mpmm.md)
 - [Graveyard Revenant](Friedhofswiedergänger-xmm.md)
-- [Haunting Revenant](Spukender_Wiedergängerxmm.md)
+- [Haunting Revenant](Spukender_Wiedergänger-xmm.md)
 - [Hollow Dragon](./hollow-dragon-ftd.md)
 - [Husk Zombie](./husk-zombie-egw.md)
 - [Illithilich](./illithilich-vgm.md)

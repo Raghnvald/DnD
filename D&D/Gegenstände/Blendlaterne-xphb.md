@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Bullseye Lantern
 tags:
   - Gegenstand/Ausrüstung/

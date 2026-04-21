@@ -1,16 +1,15 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Tyr
 tags:
-  - Quelle/5e/scag
-  - Kompendium/Götter/faerunian
   - Kompendium/Götter/Domäne/order
   - Kompendium/Götter/Domäne/war
+  - Kompendium/Götter/faerunian
+  - Quelle/5e/scag
 aliases:
-  - Tyr
   - Grimjaws
-  - The Maimed God
   - The Evenhanded
+  - The Maimed God
+  - Tyr
 ---
 # Tyr
 *Source: Sword Coast Adventurer's Guide p. 21* 

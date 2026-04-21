@@ -1,9 +1,9 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Wyrmskull Throne
+Kategorie: Wundersamer Gegenstand 
 tags:
   - Gegenstand/Seltenheit/Artefakt
+  - Gegenstand/wundersam
   - Quelle/5e/skt
 aliases:
   - Wyrmskull Throne

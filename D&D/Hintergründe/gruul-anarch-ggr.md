@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-background
+Bezeichnung: Gruul Anarch
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/ggr
@@ -9,7 +8,6 @@ aliases:
 ---
 # Gruul Anarch
 *Source: Guildmasters' Guide to Ravnica p. 60*  
-
 
 - **Skill Proficiencies.** Animal Handling, Athletics  
 - **Tool Proficiencies.** Herbalism kit  

@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Tej
 Kategorie: Essen und Trinken
 tags:

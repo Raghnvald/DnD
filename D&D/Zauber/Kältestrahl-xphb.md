@@ -8,11 +8,11 @@ Wirkungsdauer:
 Angriff:
 Schaden:
 tags:
+  - Klasse/Artifizient
   - Klasse/Barde/Schule-des-Wissens
   - Klasse/Druide/circle-of-the-land/polar-land
   - Klasse/Druide/circle-of-the-sea
   - Klasse/Magier
-  - Klasse/Artifizient
   - Klasse/Schurke/Arkaner-Betrüger
   - Klasse/Zauberer
   - Kompendium/Talent/artificer-initiate
@@ -20,8 +20,8 @@ tags:
   - Quelle/5e/xphb
   - Rasse/elf/high-elf
   - Rasse/kobold
-  - Subklasse/Mystischer-Ritter
   - Subklasse/evoker
+  - Subklasse/Mystischer-Ritter
   - Zauber/Grad/0
   - Zauber/optfeature/pact-of-the-tome
   - Zauber/Schule/Hervorrufung

@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-class
+Bezeichnung: Battle Smith
 tags:
-  - Quelle/5e/tce
   - Klasse/Artifizient/battle-smith
+  - Quelle/5e/tce
 aliases:
   - Battle Smith
 ---
@@ -41,7 +40,6 @@ aliases:
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 

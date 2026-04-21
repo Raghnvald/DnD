@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Exandrian Calendar
 tags:
   - Quelle/5e/tdcsr
 aliases:

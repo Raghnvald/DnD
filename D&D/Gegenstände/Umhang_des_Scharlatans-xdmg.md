@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Cape of the Mountebank
 tags:
   - Gegenstand/Seltenheit/selten

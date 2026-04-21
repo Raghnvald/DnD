@@ -1,10 +1,9 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Zeboim
 tags:
-  - Quelle/5e/phb
-  - Kompendium/Götter/dragonlance
   - Kompendium/Götter/Domäne/tempest
+  - Kompendium/Götter/dragonlance
+  - Quelle/5e/phb
 aliases:
   - Zeboim
 ---

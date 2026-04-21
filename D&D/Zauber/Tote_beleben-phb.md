@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Animate Dead
 Zaubergrad: 3
 tags:

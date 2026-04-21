@@ -1,10 +1,9 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Bahgtru
 tags:
-  - Quelle/5e/vgm
-  - Kompendium/Götter/orc
   - Kompendium/Götter/Domäne/war
+  - Kompendium/Götter/orc
+  - Quelle/5e/vgm
 aliases:
   - Bahgtru
 ---

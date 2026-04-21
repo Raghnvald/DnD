@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/cm
-  - Monster/HG/1-4
-  - Monster/Größe/Klein
-  - Monster/Typ/Humanoid/grippli
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Grippli Warrior
+tags:
+  - Monster/Größe/Klein
+  - Monster/HG/1-4
+  - Monster/Typ/Humanoid/grippli
+  - Quelle/5e/cm
 aliases:
   - Grippli Warrior
 ---

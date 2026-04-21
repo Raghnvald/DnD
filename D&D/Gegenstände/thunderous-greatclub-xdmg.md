@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Thunderous Greatclub
 tags:
   - Gegenstand/Einstimmung/required

@@ -1,47 +1,47 @@
 ---
-cssclasses:
-  - tag-bubble
-level: 6
-proficiency_bonus:
-hp: 57
+Bezeichnung: "**Fayn**"
 ac: 15
-speed: 9
-CL: Barde 6
-RACE: Halb-Elf
-BG: Unterhaltungskünstler
-ALIGN: Chaotisch Gut
-PN: Fayn
-EXP: "0"
-HI:
-LBS:
-EYE: Braun
-SKIN: Hellhäutig
-HAIR: Braun
-PERS: |-
-  Ich kenne eine Geschichte, die zu fast jeder Situation passt.
-
-  Ich liebe eine gute Beleidigung, auch wenn sie gegen mich gerichtet ist.
-
-  Ich lasse mich auf nichts weniger als Perfektion ein.
-IDEAL: Menschen. Ich liebe es, wenn die Menschen sich freuen wenn ich spiele. Das ist alles was zählt (neutral)
-BOND: Jemand hat mein wertvolles Instrument gestohlen und eines Tages werde ich es zurück haben.
-FLAW: Ich habe mal einen Witz über einen Adeligen gemacht, der nun meinen Kopf will. Es war ein Fehler den ich wahrscheinlich wiederholen werde.
-IMAGE:
-ammo1: 6
-ammo2: 6
-ammo3: 92
 AC1: false
 AC2: true
 AC3: false
 AC4: false
-CP: 0
-SP: 3
-EP: 0
-GP: 48
-PP: 0
-TREASURE:
+ALIGN: Chaotisch Gut
+ammo1: 6
+ammo2: 6
+ammo3: 92
+BG: Unterhaltungskünstler
+BOND: Jemand hat mein wertvolles Instrument gestohlen und eines Tages werde ich es zurück haben.
 CARRY:
+CL: Barde 6
+CP: 0
+EP: 0
+EXP: "0"
+EYE: Braun
+FLAW: Ich habe mal einen Witz über einen Adeligen gemacht, der nun meinen Kopf will. Es war ein Fehler den ich wahrscheinlich wiederholen werde.
+GP: 48
+HAIR: Braun
+HI:
+hp: 57
+IDEAL: Menschen. Ich liebe es, wenn die Menschen sich freuen wenn ich spiele. Das ist alles was zählt (neutral)
+IMAGE:
+LBS:
+level: 6
+PERS: |-
+  Ich kenne eine Geschichte, die zu fast jeder Situation passt.
+  Ich liebe eine gute Beleidigung, auch wenn sie gegen mich gerichtet ist.
+  Ich lasse mich auf nichts weniger als Perfektion ein.
+PN: Fayn
+PP: 0
+proficiency_bonus:
+RACE: Halb-Elf
+SKIN: Hellhäutig
+slider1:
+SP: 3
 SP1-1: true
+SP1-10: false
+SP1-11: false
+SP1-12: false
+SP1-13: false
 SP1-2: true
 SP1-3: true
 SP1-4: true
@@ -50,11 +50,11 @@ SP1-6: false
 SP1-7: false
 SP1-8: false
 SP1-9: false
-SP1-10: false
-SP1-11: false
-SP1-12: false
-SP1-13: false
 SP2-1: true
+SP2-10: false
+SP2-11: false
+SP2-12: false
+SP2-13: false
 SP2-2: true
 SP2-3: true
 SP2-4: true
@@ -63,11 +63,11 @@ SP2-6: true
 SP2-7: false
 SP2-8: false
 SP2-9: false
-SP2-10: false
-SP2-11: false
-SP2-12: false
-SP2-13: false
 SP3-1: true
+SP3-10: false
+SP3-11: false
+SP3-12: false
+SP3-13: false
 SP3-2: true
 SP3-3: true
 SP3-4: true
@@ -76,11 +76,11 @@ SP3-6: false
 SP3-7: false
 SP3-8: false
 SP3-9: false
-SP3-10: false
-SP3-11: false
-SP3-12: false
-SP3-13: false
 SP4-1: false
+SP4-10: false
+SP4-11: false
+SP4-12: false
+SP4-13: false
 SP4-2: false
 SP4-3: false
 SP4-4: false
@@ -89,10 +89,6 @@ SP4-6: false
 SP4-7: false
 SP4-8: false
 SP4-9: false
-SP4-10: false
-SP4-11: false
-SP4-12: false
-SP4-13: false
 SP5-1: false
 SP5-2: false
 SP5-3: false
@@ -102,24 +98,24 @@ SP5-6: false
 SP5-7: false
 SP5-8: false
 SP5-9: false
-SP6-9: false
-SP6-8: false
-SP6-7: false
-SP6-6: false
-SP6-5: false
-SP6-4: false
-SP6-3: false
-SP6-2: false
 SP6-1: false
-SP7-9: false
-SP7-8: false
-SP7-7: false
-SP7-6: false
-SP7-5: false
-SP7-4: false
-SP7-3: false
-SP7-2: false
+SP6-2: false
+SP6-3: false
+SP6-4: false
+SP6-5: false
+SP6-6: false
+SP6-7: false
+SP6-8: false
+SP6-9: false
 SP7-1: false
+SP7-2: false
+SP7-3: false
+SP7-4: false
+SP7-5: false
+SP7-6: false
+SP7-7: false
+SP7-8: false
+SP7-9: false
 SP8-1: false
 SP8-2: false
 SP8-3: false
@@ -134,7 +130,8 @@ SP9-4: false
 SP9-5: false
 SP9-6: false
 SP9-7: false
-slider1:
+speed: 9
+TREASURE:
 ---
 # **Fayn**
 
@@ -159,7 +156,6 @@ slider1:
 ---Notizen
 ![[#Notes|no-h1 full clean]]
 ~~~
-
 
 ---
 ---
@@ -705,7 +701,6 @@ dense: true
 > > | `INPUT[toggle:SP9-5]` |  |  |  |  |  |
 > > | `INPUT[toggle:SP9-6]` |  |  |  |  |  |
 > > | `INPUT[toggle:SP9-7]` |  |  |  |  |  |
-
 
 # Talente & Merkmale
 [[#Features & Traits|🔗]]  

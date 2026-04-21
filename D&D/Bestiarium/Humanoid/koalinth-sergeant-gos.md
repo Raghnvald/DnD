@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/gos
-  - Monster/HG/2
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/goblinoid
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Koalinth Sergeant
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/2
+  - Monster/Typ/Humanoid/goblinoid
+  - Quelle/5e/gos
 aliases:
   - Koalinth Sergeant
 ---

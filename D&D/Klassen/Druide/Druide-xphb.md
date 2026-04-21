@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-class
+Bezeichnung: Druid
 tags:
   - Klasse/Druide
   - Quelle/5e/xphb

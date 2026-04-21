@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-class
+Bezeichnung: Draconic Sorcery
 tags:
-  - Quelle/5e/xphb
   - Klasse/Zauberer/draconic
+  - Quelle/5e/xphb
 aliases:
   - Draconic Sorcery
 ---
@@ -41,7 +40,6 @@ aliases:
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 

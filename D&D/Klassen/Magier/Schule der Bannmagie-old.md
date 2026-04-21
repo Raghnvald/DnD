@@ -1,10 +1,12 @@
 ---
+Bezeichnung: Schule der Bannmagie-old
 tags:
   - Klasse/Magier/Bannmagie
   - Quelle/5e/phb
 aliases:
   - School of Abjuration
 ---
+# Schule der Bannmagie-old
 Schule der Bannmagie
 ====================
 

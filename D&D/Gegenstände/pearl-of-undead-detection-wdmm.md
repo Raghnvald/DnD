@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Pearl of Undead Detection
 tags:
   - Gegenstand/Seltenheit/unbekannt/magic

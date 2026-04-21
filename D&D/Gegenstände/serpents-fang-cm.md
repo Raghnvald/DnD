@@ -1,7 +1,5 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Serpent's Fang
+Bezeichnung: "Serpent's Fang"
 Kategorie: Nahkampf-Kriegswaffe
 tags:
   - Gegenstand/Seltenheit/selten
@@ -9,7 +7,6 @@ tags:
   - Gegenstand/Waffe/Nahkampf
   - Quelle/5e/cm
 aliases:
-  - Serpent's Fang
   - Serpent's Fang
 linter-yaml-title-alias: Serpent's Fang
 ---

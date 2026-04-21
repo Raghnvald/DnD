@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Backstory; Rival Relationships
 tags:
   - Quelle/5e/egw
 aliases:

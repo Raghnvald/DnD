@@ -1,6 +1,10 @@
 ---
-tags: [Klasse/Zauberer, Quelle/5e/phb]
-aliases: [Sorcerer]
+Bezeichnung: Zauberer
+tags:
+  - Klasse/Zauberer
+  - Quelle/5e/phb
+aliases:
+  - Sorcerer
 ---
 # Zauberer
 _Quelle:_ Spielerhandbuch  

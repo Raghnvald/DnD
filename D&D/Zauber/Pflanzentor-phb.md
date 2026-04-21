@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Transport via Plants
 Zaubergrad: 6
 tags:

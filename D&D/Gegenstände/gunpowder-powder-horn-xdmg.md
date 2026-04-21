@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Gunpowder (powder horn)
 tags:
   - Gegenstand/Seltenheit/keine

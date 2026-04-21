@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Moderne Kugel
+Bezeichnung: Modern Bullet
 Kategorie: Munition
 tags:
   - Gegenstand/Ausrüstung/ammunition-firearm

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Lords of Dust Adventure Hooks
 tags:
   - Quelle/5e/erlw
 aliases:

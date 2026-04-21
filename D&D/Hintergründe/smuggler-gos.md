@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-background
+Bezeichnung: Smuggler
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/gos
@@ -9,7 +8,6 @@ aliases:
 ---
 # Smuggler
 *Source: Ghosts of Saltmarsh p. 34*  
-
 
 - **Skill Proficiencies.** Athletics, Deception  
 - **Tool Proficiencies.** Vehicles (water)  

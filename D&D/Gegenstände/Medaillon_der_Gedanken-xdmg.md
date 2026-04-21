@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Medallion of Thoughts
 tags:
   - Gegenstand/Einstimmung/required

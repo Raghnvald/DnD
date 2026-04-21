@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Javelin
 tags:
   - Gegenstand/Seltenheit/keine

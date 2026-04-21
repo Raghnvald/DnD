@@ -1,17 +1,16 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mpmm
-  - Monster/HG/16
-  - Monster/Habitat/Küste
-  - Monster/Habitat/Wüste
-  - Monster/Habitat/Berg
-  - Monster/Habitat/underwater
-  - Monster/Größe/Riesig
-  - Monster/Typ/Riese
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Storm Giant Quintessent
+tags:
+  - Monster/Größe/Riesig
+  - Monster/Habitat/Berg
+  - Monster/Habitat/Küste
+  - Monster/Habitat/underwater
+  - Monster/Habitat/Wüste
+  - Monster/HG/16
+  - Monster/Typ/Riese
+  - Quelle/5e/mpmm
 aliases:
   - Storm Giant Quintessent
 ---

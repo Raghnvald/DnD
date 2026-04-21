@@ -1,11 +1,10 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Bleredd
 tags:
-  - Quelle/5e/mtf
-  - Kompendium/Götter/gnome
   - Kompendium/Götter/Domäne/forge
   - Kompendium/Götter/Domäne/light
+  - Kompendium/Götter/gnome
+  - Quelle/5e/mtf
 aliases:
   - Bleredd
 ---

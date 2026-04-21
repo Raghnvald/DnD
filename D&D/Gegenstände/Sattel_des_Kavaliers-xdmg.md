@@ -1,12 +1,9 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Saddle of the Cavalier
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/xdmg
 aliases:
-  - Saddle of the Cavalier
   - Saddle of the Cavalier
 linter-yaml-title-alias: Saddle of the Cavalier
 ---

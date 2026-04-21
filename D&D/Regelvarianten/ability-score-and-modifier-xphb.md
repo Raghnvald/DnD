@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Ability Score and Modifier
 tags:
   - Quelle/5e/xphb
 aliases:

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Coins; Coin Origins
 tags:
   - Quelle/5e/ftd
 aliases:

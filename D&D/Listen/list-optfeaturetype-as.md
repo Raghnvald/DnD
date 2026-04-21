@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Arcane Shot
 tags:
   - Quelle/5e/xge
 aliases:

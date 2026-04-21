@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Adventures in Wildemount
 tags:
   - Quelle/5e/egw
 aliases:

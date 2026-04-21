@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Jumping
 tags:
   - Quelle/5e/xphb
 aliases:

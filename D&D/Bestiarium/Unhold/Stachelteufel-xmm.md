@@ -1,15 +1,14 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/2
-  - Monster/Habitat/nine-hells
-  - Monster/Habitat/planar
-  - Monster/Größe/Klein
-  - Monster/Typ/Unhold/devil
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Spined Devil
+tags:
+  - Monster/Größe/Klein
+  - Monster/Habitat/nine-hells
+  - Monster/Habitat/planar
+  - Monster/HG/2
+  - Monster/Typ/Unhold/devil
+  - Quelle/5e/xmm
 aliases:
   - Spined Devil
 ---

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Experience Points by Challenge Rating
 tags:
   - Quelle/5e/mm
 aliases:

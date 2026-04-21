@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Shemshime's Bedtime Rhyme"
 tags:
   - Quelle/5e/cm
 aliases:

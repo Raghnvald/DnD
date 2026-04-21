@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Paper (one sheet)
 Kategorie: Abenteuerausrüstung
 tags:

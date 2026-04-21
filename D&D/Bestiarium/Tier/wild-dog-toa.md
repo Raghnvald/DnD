@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/toa
-  - Monster/HG/0
-  - Monster/Größe/Klein
-  - Monster/Typ/Tier
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Wild Dog
+tags:
+  - Monster/Größe/Klein
+  - Monster/HG/0
+  - Monster/Typ/Tier
+  - Quelle/5e/toa
 aliases:
   - Wild Dog
 ---

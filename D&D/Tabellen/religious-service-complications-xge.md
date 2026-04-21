@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Religious Service Complications
 tags:
   - Quelle/5e/xge
 aliases:

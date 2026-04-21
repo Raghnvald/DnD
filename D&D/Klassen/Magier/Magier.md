@@ -1,6 +1,10 @@
 ---
-tags: [Klasse/Magier, Quelle/5e/phb]
-aliases: [Wizard]
+Bezeichnung: Magier
+tags:
+  - Klasse/Magier
+  - Quelle/5e/phb
+aliases:
+  - Wizard
 ---
 # Magier
 _Quelle:_ Spielerhandbuch

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: The Egyptian Pantheon; Egyptian Deities
 tags:
   - Quelle/5e/phb
 aliases:

@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/2
-  - Monster/Habitat/Jedes
-  - Monster/Größe/Klein-oder-Mittelgroß
-  - Monster/Typ/Humanoid/wizard
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Mage Apprentice
+tags:
+  - Monster/Größe/Klein-oder-Mittelgroß
+  - Monster/Habitat/Jedes
+  - Monster/HG/2
+  - Monster/Typ/Humanoid/wizard
+  - Quelle/5e/xmm
 aliases:
   - Mage Apprentice
 ---
@@ -47,7 +46,6 @@ Roll on or choose a result from the Mage Roles table to inspire different sorts 
 > [!quote] A quote from Nathor, Thayan Refugee  
 > 
 > Have you gazed on the Runes of Chaos, held the Death Moon Orb in your trembling hands, entered the Devouring Portal and walked the Paths of the Doomed, or sat at the left hand of Szass Tam during the Ritual of Twin Burnings? No? Then speak not to me of wizards. Speak not to me of Thay.
-
 
 ```statblock
 "name": "Mage Apprentice (XMM)"

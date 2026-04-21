@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Light Crossbow
 tags:
   - Gegenstand/Seltenheit/keine

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Experience Points
 tags:
   - Quelle/5e/xphb
 aliases:

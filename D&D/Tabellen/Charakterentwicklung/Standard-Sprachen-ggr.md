@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Standard Languages
 tags:
   - Quelle/5e/ggr
 aliases:

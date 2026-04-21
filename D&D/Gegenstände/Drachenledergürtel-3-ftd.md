@@ -1,5 +1,6 @@
 ---
 Bezeichnung: +3 Dragonhide Belt
+Kategorie: Wundersamer Gegenstand
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten

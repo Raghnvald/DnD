@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Creating a Hoard; Hoard Magic Items
 tags:
   - Quelle/5e/ftd
 aliases:

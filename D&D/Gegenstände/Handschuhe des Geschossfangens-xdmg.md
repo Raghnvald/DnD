@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Gloves of Missile Snaring
 tags:
   - Gegenstand/Einstimmung/required

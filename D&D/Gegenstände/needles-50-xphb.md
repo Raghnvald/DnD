@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Needles (50)
 tags:
   - Gegenstand/Ausrüstung/ammunition

@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Oloore Root Teabag
 tags:
   - Gegenstand/Ausrüstung/illegal-drug

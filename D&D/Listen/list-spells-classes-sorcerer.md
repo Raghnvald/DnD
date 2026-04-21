@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Sorcerer Spells
 tags:
   - Zauber/list/class/sorcerer
 aliases:

@@ -1,12 +1,12 @@
 ---
-cssclasses: json5e-deity
+Bezeichnung: Eldath, Göttin des Friedens
 tags:
-  - Quelle/5e/phb
   - Kompendium/Götter
-  - Kompendium/Götter/Gesinnung/Neutral_Gut
-  - Kompendium/Götter/Pantheon/Faerun
   - Kompendium/Götter/Domäne/Leben
   - Kompendium/Götter/Domäne/Natur
+  - Kompendium/Götter/Gesinnung/Neutral_Gut
+  - Kompendium/Götter/Pantheon/Faerun
+  - Quelle/5e/phb
 aliases:
   - Eldath
 ---

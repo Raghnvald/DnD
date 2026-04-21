@@ -1,11 +1,10 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: The Daghdha
 tags:
-  - Quelle/5e/phb
   - Kompendium/Götter/celtic
   - Kompendium/Götter/Domäne/nature
   - Kompendium/Götter/Domäne/trickery
+  - Quelle/5e/phb
 aliases:
   - The Daghdha
 ---

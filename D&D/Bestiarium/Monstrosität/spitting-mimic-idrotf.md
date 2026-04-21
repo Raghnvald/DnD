@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/idrotf
-  - Monster/HG/5
-  - Monster/Größe/Groß
-  - Monster/Typ/Monstrosität/shapechanger
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Spitting Mimic
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/5
+  - Monster/Typ/Monstrosität/shapechanger
+  - Quelle/5e/idrotf
 aliases:
   - Spitting Mimic
 ---

@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Plant Growth
 tags:
   - Klasse/Barde

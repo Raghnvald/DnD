@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Vecna
 tags:
-  - Quelle/5e/egw
-  - Kompendium/Götter/exandria
   - Kompendium/Götter/Domäne/arcana
   - Kompendium/Götter/Domäne/death
   - Kompendium/Götter/Domäne/grave
   - Kompendium/Götter/Domäne/knowledge
+  - Kompendium/Götter/exandria
+  - Quelle/5e/egw
 aliases:
   - Vecna
 ---

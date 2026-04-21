@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Angriff oder Invasion; Invasionstruppe
 tags:
   - Quelle/5e/dmg
 aliases:

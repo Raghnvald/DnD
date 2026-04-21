@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Longbow
 tags:
   - Gegenstand/Seltenheit/keine

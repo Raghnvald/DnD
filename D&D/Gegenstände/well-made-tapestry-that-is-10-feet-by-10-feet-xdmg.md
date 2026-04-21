@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Well-made tapestry that is 10 feet by 10 feet
 tags:
   - Gegenstand/Ausrüstung/treasure-art-object

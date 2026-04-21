@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/tdcsr
-  - Monster/HG/21
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Himmlische
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Champion of Ravens
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/21
+  - Monster/Typ/Himmlische
+  - Quelle/5e/tdcsr
 aliases:
   - Champion of Ravens
 ---

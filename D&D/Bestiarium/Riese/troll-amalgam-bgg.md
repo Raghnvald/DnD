@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/bgg
-  - Monster/HG/17
-  - Monster/Größe/Gigantisch
-  - Monster/Typ/Riese
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Troll Amalgam
+tags:
+  - Monster/Größe/Gigantisch
+  - Monster/HG/17
+  - Monster/Typ/Riese
+  - Quelle/5e/bgg
 aliases:
   - Troll Amalgam
 ---
@@ -31,7 +30,6 @@ Trolls' rapid healing makes them subject to bizarre mutations, particularly when
 > [!quote] A quote from Diancastra  
 > 
 > Excellent. But these trolls are loathsome.
-
 
 ```statblock
 "name": "Troll Amalgam (BGG)"

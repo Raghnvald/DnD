@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-reward
+Bezeichnung: Echo of Dragonsight
 tags:
-  - Quelle/5e/ftd
   - Kompendium/Belohnung/draconic-gift
+  - Quelle/5e/ftd
 aliases:
   - Echo of Dragonsight
 ---

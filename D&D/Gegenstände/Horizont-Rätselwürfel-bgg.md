@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Horizon Puzzle Cube
 tags:
   - Gegenstand/Seltenheit/unbekannt/magic

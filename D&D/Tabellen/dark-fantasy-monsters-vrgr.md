@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Dark Fantasy Monsters
 tags:
   - Quelle/5e/vrgr
 aliases:

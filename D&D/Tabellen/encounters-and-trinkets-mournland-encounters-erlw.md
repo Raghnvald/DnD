@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Encounters and Trinkets; Mournland Encounters
 tags:
   - Quelle/5e/erlw
 aliases:

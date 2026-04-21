@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Oil of Sharpness
 tags:
   - Gegenstand/Seltenheit/sehr_selten

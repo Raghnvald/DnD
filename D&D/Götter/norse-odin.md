@@ -1,11 +1,10 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Odin
 tags:
-  - Quelle/5e/phb
-  - Kompendium/Götter/norse
   - Kompendium/Götter/Domäne/knowledge
   - Kompendium/Götter/Domäne/war
+  - Kompendium/Götter/norse
+  - Quelle/5e/phb
 aliases:
   - Odin
 ---

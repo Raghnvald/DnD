@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Challenge Ratings; Creatures by Challenge Rating
 tags:
   - Quelle/5e/ftd
 aliases:

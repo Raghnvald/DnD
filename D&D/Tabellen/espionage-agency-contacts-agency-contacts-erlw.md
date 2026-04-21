@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Espionage Agency Contacts; Agency Contacts
 tags:
   - Quelle/5e/erlw
 aliases:

@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Tangler Grenade
 tags:
   - Gegenstand/Seltenheit/keine

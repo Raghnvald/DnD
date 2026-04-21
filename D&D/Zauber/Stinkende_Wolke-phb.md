@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Stinking Cloud
 Zaubergrad: 3
 tags:

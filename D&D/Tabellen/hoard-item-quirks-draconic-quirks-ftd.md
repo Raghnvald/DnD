@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Hoard Item Quirks; Draconic Quirks
 tags:
   - Quelle/5e/ftd
 aliases:

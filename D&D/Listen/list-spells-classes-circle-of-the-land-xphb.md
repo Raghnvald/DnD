@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Circle of the Land
 tags:
   - Zauber/list/subclass/circle-of-the-land
 aliases:

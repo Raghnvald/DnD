@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Purple Worm Poison
 Kategorie: Gift
 tags:

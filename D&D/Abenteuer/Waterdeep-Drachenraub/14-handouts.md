@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Handouts
 tags:
   - Quelle/5e/wdh
 aliases:

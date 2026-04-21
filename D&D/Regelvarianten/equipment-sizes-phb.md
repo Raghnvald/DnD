@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Equipment Sizes
 tags:
   - Quelle/5e/phb
 aliases:

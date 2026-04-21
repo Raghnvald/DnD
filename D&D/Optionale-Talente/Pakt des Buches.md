@@ -1,10 +1,11 @@
 ---
+Bezeichnung: Pakt des Buches
 tags:
-- Quelle/5e/phb
-- Klasse/Hexenmeister
-- Kompendium/Optionales/Pakt
+  - Klasse/Hexenmeister
+  - Kompendium/Optionales/Pakt
+  - Quelle/5e/phb
 aliases:
-- Pact of the Tome
+  - Pact of the Tome
 ---
 # Pakt des Buches
 _Quelle:_ Spielerhandbuch  

@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Eyes of Minute Seeing
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich

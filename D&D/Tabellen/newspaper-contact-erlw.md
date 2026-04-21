@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Newspaper Contact
 tags:
   - Quelle/5e/erlw
 aliases:

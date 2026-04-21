@@ -3,8 +3,8 @@ Bezeichnung: "Kapitel 4: Die Wellenhallhöhle"
 tags:
   - Quelle/5e/pabtso
 aliases:
-  - Kapitel 4: Die Wellenhallhöhle
   - Chapter 4: Wave Echo Cave
+  - Kapitel 4: Die Wellenhallhöhle
 linter-yaml-title-alias: "Kapitel 4: Die Wellenhallhöhle </center>"
 ---
 # Kapitel 4: Die Wellenhallhöhle

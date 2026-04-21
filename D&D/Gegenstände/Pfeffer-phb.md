@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Pfeffer
+Bezeichnung: Pepper
 Kategorie: Handelsgut
 Eigenschaften: /
 Kst.: 2 GM

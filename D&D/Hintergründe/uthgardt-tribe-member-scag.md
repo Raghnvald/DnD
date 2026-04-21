@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-background
+Bezeichnung: Uthgardt Tribe Member
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/scag
@@ -9,7 +8,6 @@ aliases:
 ---
 # Uthgardt Tribe Member
 *Source: Sword Coast Adventurer's Guide p. 153*  
-
 
 - **Skill Proficiencies.** [Athletics](/3-Mechanics/CLI/skills.md#Athletics), [Survival](/3-Mechanics/CLI/skills.md#Survival)  
 - **Languages.** Any one of your choice  

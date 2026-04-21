@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Telekinetic
 tags:
   - Zauber/list/feat/telekinetic
 aliases:

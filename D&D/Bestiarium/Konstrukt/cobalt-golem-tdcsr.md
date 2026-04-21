@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/tdcsr
-  - Monster/HG/18
-  - Monster/Größe/Riesig
-  - Monster/Typ/Konstrukt
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Cobalt Golem
+tags:
+  - Monster/Größe/Riesig
+  - Monster/HG/18
+  - Monster/Typ/Konstrukt
+  - Quelle/5e/tdcsr
 aliases:
   - Cobalt Golem
 ---

@@ -1,12 +1,9 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Orb of Time
 tags:
   - Gegenstand/Seltenheit/gewöhnlich
   - Quelle/5e/xdmg
 aliases:
-  - Orb of Time
   - Orb of Time
 linter-yaml-title-alias: Orb of Time
 ---

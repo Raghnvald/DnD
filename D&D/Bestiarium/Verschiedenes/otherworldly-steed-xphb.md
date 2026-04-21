@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xphb
-  - Monster/HG/
-  - Monster/Größe/Groß
-  - Monster/Typ/
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Otherworldly Steed
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/
+  - Monster/Typ/
+  - Quelle/5e/xphb
 aliases:
   - Otherworldly Steed
 ---

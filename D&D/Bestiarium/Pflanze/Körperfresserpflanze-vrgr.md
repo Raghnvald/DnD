@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/vrgr
-  - Monster/HG/7
-  - Monster/Größe/Riesig
-  - Monster/Typ/Pflanze
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Bodytaker Plant
+tags:
+  - Monster/Größe/Riesig
+  - Monster/HG/7
+  - Monster/Typ/Pflanze
+  - Quelle/5e/vrgr
 aliases:
   - Bodytaker Plant
 ---

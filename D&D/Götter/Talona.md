@@ -1,11 +1,11 @@
 ---
-cssclasses: json5e-deity
+Bezeichnung: Talona, Göttin von Gift und Krankheit
 tags:
-  - Quelle/5e/phb
   - Kompendium/Götter
+  - Kompendium/Götter/Domäne/Tod
   - Kompendium/Götter/Gesinnung/Chaotisch_Böse
   - Kompendium/Götter/Pantheon/Faerun
-  - Kompendium/Götter/Domäne/Tod
+  - Quelle/5e/phb
 aliases:
   - Talona
 ---

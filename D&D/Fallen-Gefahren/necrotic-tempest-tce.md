@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-hazard
+Bezeichnung: Necrotic Tempest
 tags:
-  - Quelle/5e/tce
   - Kompendium/Bedrohung/est
+  - Quelle/5e/tce
 aliases:
   - Necrotic Tempest
 ---

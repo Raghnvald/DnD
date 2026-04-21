@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-race
+Bezeichnung: Elf (Eladrin)
 tags:
   - Quelle/5e/dmg
   - Rasse/elf/eladrin
@@ -9,7 +8,6 @@ aliases:
 ---
 # Elf (Eladrin)
 *Source: Dungeon Master's Guide p. 286*  
-
 
 - **Ability Scores**: int +1
 - **Size**: Medium

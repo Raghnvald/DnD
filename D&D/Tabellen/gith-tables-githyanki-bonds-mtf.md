@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Gith Tables; Githyanki Bonds
 tags:
   - Quelle/5e/mtf
 aliases:

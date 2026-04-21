@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/ftd
-  - Monster/HG/1-4
-  - Monster/Größe/Winzig
-  - Monster/Typ/Konstrukt
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Metallic Warbler
+tags:
+  - Monster/Größe/Winzig
+  - Monster/HG/1-4
+  - Monster/Typ/Konstrukt
+  - Quelle/5e/ftd
 aliases:
   - Metallic Warbler
 ---

@@ -1,10 +1,9 @@
 ---
-cssclasses:
-  - json5e-object
+Bezeichnung: Lightning Cannon
 tags:
-  - Quelle/5e/xdmg
   - Kompendium/Objekt/size/medium
   - Kompendium/Objekt/type/siege-weapon
+  - Quelle/5e/xdmg
 aliases:
   - Lightning Cannon
 ---

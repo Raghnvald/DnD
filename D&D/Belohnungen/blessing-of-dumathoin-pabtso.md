@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-reward
+Bezeichnung: Blessing of Dumathoin
 tags:
-  - Quelle/5e/pabtso
   - Kompendium/Belohnung/blessing
+  - Quelle/5e/pabtso
 aliases:
   - Blessing of Dumathoin
 ---

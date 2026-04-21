@@ -1,5 +1,6 @@
 ---
 Bezeichnung: +2 Dragonhide Belt
+Kategorie: Wundersamer Gegenstand
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten

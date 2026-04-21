@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Standard Languages of Eberron
 tags:
   - Quelle/5e/erlw
 aliases:

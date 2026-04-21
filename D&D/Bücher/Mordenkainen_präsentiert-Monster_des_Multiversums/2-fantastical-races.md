@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Fantastical Races
 tags:
   - Quelle/5e/mpmm
 aliases:

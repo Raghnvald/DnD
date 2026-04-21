@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Chaos Bolt
+Bezeichnung: Chaospfeil
 Zaubergrad: 1
 Zeitaufwand:
 Reichweite:

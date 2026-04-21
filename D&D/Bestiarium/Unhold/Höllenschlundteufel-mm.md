@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mm
-  - Monster/HG/20
-  - Monster/Größe/Groß
-  - Monster/Typ/Unhold/devil
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Pit Fiend
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/20
+  - Monster/Typ/Unhold/devil
+  - Quelle/5e/mm
 aliases:
   - Pit Fiend
 ---

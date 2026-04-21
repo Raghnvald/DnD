@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Conjure Fey
 Zaubergrad: 6
 tags:

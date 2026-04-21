@@ -1,6 +1,9 @@
 ---
-tags: [Quelle/5e/dmg]
+Bezeichnung: DND Notizheft für den faulen Spielleiter
+tags:
+  - Quelle/5e/dmg
 ---
+# DND Notizheft für den faulen Spielleiter
 - Belohnung für die Helden (Zeitpunkt noch unbestimmt): Tresendar-Herrenhaus in Phandalin. Das gesamte Haus mitsamt Besitzurkunde, damit die Abenteurergruppe einen Rückzugsort besitzt, welchen sie wieder aufbauen können. Gleichzeitig auch ein kleiner Gold-Dump, da die Reparaturen aufwändig in Zeit und Geld sind.
 
 - Rückzugsort in Barovia eventuell Van Richtens Turm oder, wenn sie noch den Weg dahin finden, das Gasthaus Blauwasser unter den "Flügeln" der Hüter der Feder.
@@ -14,7 +17,6 @@ tags: [Quelle/5e/dmg]
 	- Das Schwert / Grabmal vom Tollwütigen zur Abtei verlegen. Vielleicht einen Hinweis auf ein kürzlich frisch zugeschaufeltes Grab auf dem Friedhof der Abtei
 
 - eventuell das Sonnenschwert nach CoS statt Gleißend zu Psychisch verändern?
-
 
 - Idee entwickeln, Lyssa von Zarowitsch (Enkelin von Sturm von Zarowitsch, Strahds jüngerem Bruder) in das Spiel zu integrieren. Eventuell als Erbe von Strahds Herrschaft - immerhin kann nur ein von Zarowitsch über Barovia herrschen
 

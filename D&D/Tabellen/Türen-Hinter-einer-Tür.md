@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Doors; Beyond a Door
 tags:
   - Quelle/5e/dmg
 aliases:

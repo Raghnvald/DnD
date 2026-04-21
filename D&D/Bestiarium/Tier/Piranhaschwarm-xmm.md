@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/1
-  - Monster/Habitat/underwater
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Tier
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Swarm of Piranhas
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/underwater
+  - Monster/HG/1
+  - Monster/Typ/Tier
+  - Quelle/5e/xmm
 aliases:
   - Swarm of Piranhas
 ---

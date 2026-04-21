@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Ancient Being
 tags:
   - Quelle/5e/tce
 aliases:

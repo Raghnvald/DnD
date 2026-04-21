@@ -1,12 +1,11 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Aerdrie Faenya
 tags:
-  - Quelle/5e/mtf
-  - Kompendium/Götter/elven
   - Kompendium/Götter/Domäne/life
   - Kompendium/Götter/Domäne/tempest
   - Kompendium/Götter/Domäne/trickery
+  - Kompendium/Götter/elven
+  - Quelle/5e/mtf
 aliases:
   - Aerdrie Faenya
 ---

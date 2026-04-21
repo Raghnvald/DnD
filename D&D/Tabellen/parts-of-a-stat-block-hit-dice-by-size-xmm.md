@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Parts of a Stat Block; Hit Dice by Size
 tags:
   - Quelle/5e/xmm
 aliases:

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Elf Names – Child
 tags:
   - Quelle/5e/xge
 aliases:

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Gith Tables; Githzerai Flaws
 tags:
   - Quelle/5e/mtf
 aliases:

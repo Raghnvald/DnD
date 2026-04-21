@@ -1,4 +1,5 @@
 ---
+Bezeichnung: "Chapter 5: Creating Campaigns"
 tags:
   - Quelle/5e/xdmg
 aliases:

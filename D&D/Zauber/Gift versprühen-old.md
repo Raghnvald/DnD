@@ -9,10 +9,10 @@ Schaden: 1d12 Gift
 status:
   - completed
 tags:
+  - Klasse/Artifizient
   - Klasse/Druide
   - Klasse/Hexenmeister
   - Klasse/Magier
-  - Klasse/Artifizient
   - Klasse/Zauberer
   - Quelle/5e/phb
   - Zauber/Grad/0

@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Skyblinder Staff
 tags:
   - Gegenstand/Einstimmung/required

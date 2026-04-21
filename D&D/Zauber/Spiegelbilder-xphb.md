@@ -1,19 +1,17 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Mirror Image
 tags:
   - Klasse/Barde
-  - Klasse/Barde/Schule-des-Zauberbanns
   - Klasse/Barde/Schule-des-Wissens
+  - Klasse/Barde/Schule-des-Zauberbanns
   - Klasse/Hexenmeister
   - Klasse/Magier
   - Klasse/Schurke/Arkaner-Betrüger
   - Klasse/Zauberer
   - Quelle/5e/xphb
   - Subklasse/armorer
-  - Subklasse/Mystischer-Ritter
   - Subklasse/illusionist
+  - Subklasse/Mystischer-Ritter
   - Zauber/Grad/2
   - Zauber/Schule/Illusion
 classes:

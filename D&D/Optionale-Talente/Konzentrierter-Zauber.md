@@ -1,8 +1,8 @@
 ---
-cssclasses: json5e-note
+Bezeichnung: Konzentrierter Zauber
 tags:
-  - Quelle/5e/phb
   - Kompendium/Optionales/Metamagie
+  - Quelle/5e/phb
 aliases:
   - Heightened Spell
 ---

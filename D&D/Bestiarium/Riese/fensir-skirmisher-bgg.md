@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/bgg
-  - Monster/HG/6
-  - Monster/Größe/Groß
-  - Monster/Typ/Riese
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Fensir Skirmisher
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/6
+  - Monster/Typ/Riese
+  - Quelle/5e/bgg
 aliases:
   - Fensir Skirmisher
 ---
@@ -31,7 +30,6 @@ The transformation that created fensirs left them with an odd quirk to their reg
 > [!quote] A quote from Diancastra  
 > 
 > And yet, can we fairly say that the existence of fensirs is "transparently bad"? Some might argue they are a significant improvement over trolls. At the very least, the diversity of life in the multiverse increased, and new wonders were revealed. That's only bad if you think a small universe that fits within your narrow understanding is good.
-
 
 ```statblock
 "name": "Fensir Skirmisher (BGG)"

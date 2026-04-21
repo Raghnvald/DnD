@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: "Scholar's Pack"
 tags:
   - Gegenstand/Ausrüstung/

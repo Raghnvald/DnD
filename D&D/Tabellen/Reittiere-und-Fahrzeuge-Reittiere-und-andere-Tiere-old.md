@@ -1,5 +1,5 @@
 ---
-cssclasses: json5e-note
+Bezeichnung: Reittiere und Fahrzeuge; Reittiere und andere Tiere
 tags:
   - Quelle/5e/phb
 aliases:

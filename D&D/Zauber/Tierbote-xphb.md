@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Animal Messenger
 tags:
   - Klasse/Barde

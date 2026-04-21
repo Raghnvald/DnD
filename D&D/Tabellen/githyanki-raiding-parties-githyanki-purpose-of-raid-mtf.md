@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Githyanki Raiding Parties; Githyanki Purpose of Raid
 tags:
   - Quelle/5e/mtf
 aliases:

@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Helm of Comprehending Languages
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich

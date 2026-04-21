@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Artifact Properties; Major Beneficial Properties
 tags:
   - Quelle/5e/dmg
 aliases:

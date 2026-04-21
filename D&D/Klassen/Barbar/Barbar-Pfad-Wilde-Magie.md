@@ -1,7 +1,12 @@
 ---
-tags: [Klasse/Barbar/Wilde-Magie, Quelle/5e/tce]
-aliases: [Path of Wild Magic]
+Bezeichnung: Barbar-Pfad-Wilde-Magie
+tags:
+  - Klasse/Barbar/Wilde-Magie
+  - Quelle/5e/tce
+aliases:
+  - Path of Wild Magic
 ---
+# Barbar-Pfad-Wilde-Magie
 Pfad der Wilden Magie
 =====================
 
@@ -49,7 +54,6 @@ Du kannst deine Wilde Magie nutzen, um dich oder einen Gefährten zu stärken. B
 *   Das Ziel kann zehn Minuten lang bei Angriffs- oder Attributswürfen mit einem W3 würfeln und die Augenzahl dem W20-Wurf hinzufügen.
     
 *   Würfle mit einem `W3`. Das Ziel erhält einen verbrauchten Zauberplatz zurück, dessen Grad maximal der gewürfelten Augenzahl (nach Wahl des Ziels) entspricht. Wenn das Ziel diesen Vorzug erhält, kann es ihn erst nach einer langen Rast erneut erhalten.
-    
 
 Die Häufigkeit, mit der du diese Aktion ausführen kannst, entspricht deinem Übungsbonus. Verbrauchte Anwendungen stehen dir nach einer langen Rast wieder zur Verfügung.
 

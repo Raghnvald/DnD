@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Skill Empowerment
+Bezeichnung: Fertigkeitsermächtigung
 Zaubergrad: 5
 Zeitaufwand: 1 Aktion
 Reichweite: Berührung
@@ -8,9 +8,9 @@ Wirkungsdauer: 1 Stunde
 Angriff: n/v
 Schaden: Verstärkung
 tags:
+  - Klasse/Artifizient
   - Klasse/Barde
   - Klasse/Magier
-  - Klasse/Artifizient
   - Klasse/Zauberer
   - Quelle/5e/xge
   - Zauber/Grad/5

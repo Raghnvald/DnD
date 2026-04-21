@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Backstory; Family Size (Village)
 tags:
   - Quelle/5e/egw
 aliases:

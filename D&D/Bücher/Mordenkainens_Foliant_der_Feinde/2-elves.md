@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Elves
 tags:
   - Quelle/5e/mtf
 aliases:

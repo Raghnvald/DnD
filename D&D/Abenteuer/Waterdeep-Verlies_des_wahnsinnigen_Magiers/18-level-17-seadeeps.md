@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Level 17: Seadeeps"
 tags:
   - Quelle/5e/wdmm
 aliases:

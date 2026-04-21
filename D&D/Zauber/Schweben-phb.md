@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Levitate
 Zaubergrad: 2
 tags:

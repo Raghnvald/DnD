@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Spells for Tiefling (Devil's Tongue)"
 tags:
   - Zauber/list/subrace/tiefling-devils-tongue
 aliases:

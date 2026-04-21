@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/tce
-  - Monster/HG/
-  - Monster/Größe/Groß
-  - Monster/Typ/Konstrukt
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Dancing Item
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/
+  - Monster/Typ/Konstrukt
+  - Quelle/5e/tce
 aliases:
   - Dancing Item
 ---

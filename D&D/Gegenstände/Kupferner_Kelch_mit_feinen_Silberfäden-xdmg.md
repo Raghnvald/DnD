@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Copper chalice with silver filigree
 tags:
   - Gegenstand/Ausrüstung/treasure-art-object

@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Gold Bar (5-pound)
 tags:
   - Gegenstand/Ausrüstung/trade-bar

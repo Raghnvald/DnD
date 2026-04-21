@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Gold Dragon Adventures; Gold Dragon Adventure Hooks
 tags:
   - Quelle/5e/ftd
 aliases:

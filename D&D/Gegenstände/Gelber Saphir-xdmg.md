@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Yellow Sapphire
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone

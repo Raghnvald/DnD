@@ -1,11 +1,10 @@
 ---
+Bezeichnung: Animal Shapes
 Zaubergrad: 8
-cssclasses:
-  - json5e-spell
 tags:
-  - Quelle/5e/phb
   - Klasse/Barde/magical-secrets
   - Klasse/Druide
+  - Quelle/5e/phb
   - Zauber/Grad/8
   - Zauber/Schule/Verwandlung
 classes:
@@ -16,7 +15,6 @@ aliases:
 ---
 # Animal Shapes
 *8th-level, Transmutation*  
-
 
 - **Casting time:** 1 Action
 - **Range:** 30 feet

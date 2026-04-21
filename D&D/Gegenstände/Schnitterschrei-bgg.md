@@ -1,7 +1,5 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Schnitterschrei
+Bezeichnung: "Reaper's Scream"
 Kategorie: Nahkampf-Kriegswaffe
 tags:
   - Gegenstand/Einstimmung/required
@@ -10,7 +8,6 @@ tags:
   - Gegenstand/Waffe/Nahkampf
   - Quelle/5e/bgg
 aliases:
-  - Reaper's Scream
   - Reaper's Scream
 linter-yaml-title-alias: Reaper's Scream
 ---

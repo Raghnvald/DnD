@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Way of Shadow
 tags:
   - Zauber/list/subclass/way-of-shadow
 aliases:

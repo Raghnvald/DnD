@@ -1,7 +1,5 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Forcebreaker Weapon-bmt
+Bezeichnung: Forcebreaker Weapon
 Kategorie: Beliebig, Nahkampfwaffe
 tags:
   - Gegenstand/Ausrüstung/Zauberfokus

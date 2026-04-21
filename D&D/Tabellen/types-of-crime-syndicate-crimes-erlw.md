@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Types of Crime; Syndicate Crimes
 tags:
   - Quelle/5e/erlw
 aliases:

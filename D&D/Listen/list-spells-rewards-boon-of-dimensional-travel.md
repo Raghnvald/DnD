@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Boon of Dimensional Travel
 tags:
   - Zauber/list/reward/boon-of-dimensional-travel
 aliases:

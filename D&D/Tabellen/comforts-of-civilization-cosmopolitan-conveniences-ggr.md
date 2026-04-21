@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Comforts of Civilization; Cosmopolitan Conveniences
 tags:
   - Quelle/5e/ggr
 aliases:

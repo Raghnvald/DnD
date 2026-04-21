@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Dungeon Creator; NPC Class
 tags:
   - Quelle/5e/dmg
 aliases:

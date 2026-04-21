@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Starting Equipment at Higher Levels
 tags:
   - Quelle/5e/xphb
 aliases:

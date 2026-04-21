@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-background
+Bezeichnung: Archaeologist
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/toa
@@ -9,7 +8,6 @@ aliases:
 ---
 # Archaeologist
 *Source: Tomb of Annihilation p. 192*  
-
 
 - **Skill Proficiencies.** History, Survival  
 - **Tool Proficiencies.** Cartographer's tools or navigator's tools  

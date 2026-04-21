@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Obsidian statuette with gold fittings and inlay
 tags:
   - Gegenstand/Ausrüstung/treasure-art-object

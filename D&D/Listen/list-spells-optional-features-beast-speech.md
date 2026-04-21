@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Beast Speech
 tags:
   - Zauber/list/optfeature/beast-speech
 aliases:

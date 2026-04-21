@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Level 16: Crystal Labyrinth"
 tags:
   - Quelle/5e/wdmm
 aliases:

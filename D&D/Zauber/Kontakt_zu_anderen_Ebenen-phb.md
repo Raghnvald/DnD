@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Contact Other Plane
 Zaubergrad: 5
 tags:

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Giant Necropolis Encounters
 tags:
   - Quelle/5e/bgg
 aliases:

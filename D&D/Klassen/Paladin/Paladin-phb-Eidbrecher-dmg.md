@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-class
+Bezeichnung: Oathbreaker
 tags:
-  - Quelle/5e/dmg
   - Klasse/Paladin/Eidbrecher
+  - Quelle/5e/dmg
 aliases:
   - Oathbreaker
 ---
@@ -41,7 +40,6 @@ aliases:
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 

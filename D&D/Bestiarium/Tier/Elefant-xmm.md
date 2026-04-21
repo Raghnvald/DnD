@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/4
-  - Monster/Habitat/Grasland
-  - Monster/Größe/Riesig
-  - Monster/Typ/Tier
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Elephant
+tags:
+  - Monster/Größe/Riesig
+  - Monster/Habitat/Grasland
+  - Monster/HG/4
+  - Monster/Typ/Tier
+  - Quelle/5e/xmm
 aliases:
   - Elephant
 ---

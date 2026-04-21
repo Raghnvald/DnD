@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Ignoble Bonds; Ignoble Request
 tags:
   - Quelle/5e/vrgr
 aliases:

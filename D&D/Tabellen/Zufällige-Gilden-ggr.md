@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Random Guilds
 tags:
   - Quelle/5e/ggr
 aliases:

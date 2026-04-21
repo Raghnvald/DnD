@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Alchemist's Fire
+Bezeichnung: "Alchemist's Fire"
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine

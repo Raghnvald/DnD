@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Steel Wind Strike
 tags:
   - Klasse/Barde

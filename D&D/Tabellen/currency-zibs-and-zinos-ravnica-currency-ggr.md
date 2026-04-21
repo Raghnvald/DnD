@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Currency: Zibs and Zinos; Ravnica Currency"
 tags:
   - Quelle/5e/ggr
 aliases:

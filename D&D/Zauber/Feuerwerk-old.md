@@ -7,9 +7,9 @@ Wirkungsdauer: Unmittelbar
 Angriff: KON
 Schaden: Blind
 tags:
+  - Klasse/Artifizient
   - Klasse/Barde
   - Klasse/Magier
-  - Klasse/Artifizient
   - Klasse/Zauberer
   - Quelle/5e/xge
   - Zauber/Grad/2

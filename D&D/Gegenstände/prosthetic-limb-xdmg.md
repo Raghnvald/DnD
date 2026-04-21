@@ -1,12 +1,9 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Prosthetic Limb
 tags:
   - Gegenstand/Seltenheit/gewöhnlich
   - Quelle/5e/xdmg
 aliases:
-  - Prosthetic Limb
   - Prosthetic Limb
 linter-yaml-title-alias: Prosthetic Limb
 ---

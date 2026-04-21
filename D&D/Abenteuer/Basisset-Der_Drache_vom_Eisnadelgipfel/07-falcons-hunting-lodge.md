@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Falcon's Hunting Lodge"
 tags:
   - Quelle/5e/dip
 aliases:

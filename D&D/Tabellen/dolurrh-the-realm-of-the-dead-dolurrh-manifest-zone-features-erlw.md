@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Dolurrh, the Realm of the Dead; Dolurrh Manifest Zone Features
 tags:
   - Quelle/5e/erlw
 aliases:

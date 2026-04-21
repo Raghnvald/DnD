@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Black Opal
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone

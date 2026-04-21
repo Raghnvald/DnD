@@ -1,5 +1,5 @@
 ---
-cssclasses: json5e-note
+Bezeichnung: "Chapter 13: The Cult Strikes Back"
 tags:
   - Quelle/5e/rot
 aliases:

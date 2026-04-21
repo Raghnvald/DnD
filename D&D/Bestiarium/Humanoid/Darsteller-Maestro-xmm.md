@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/6
-  - Monster/Habitat/Jedes
-  - Monster/Größe/Klein-oder-Mittelgroß
-  - Monster/Typ/Humanoid
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Performer Maestro
+tags:
+  - Monster/Größe/Klein-oder-Mittelgroß
+  - Monster/Habitat/Jedes
+  - Monster/HG/6
+  - Monster/Typ/Humanoid
+  - Quelle/5e/xmm
 aliases:
   - Performer Maestro
 ---
@@ -91,7 +90,6 @@ Wrestler
 > [!quote] A quote from Tindal, Carnival Barker  
 > 
 > Welcome, one! Welcome, all! Welcome to the short, and welcome to the tall! Welcome angels, welcome fiends, welcome to all from walks between! Welcome to the Carnival!
-
 
 ```statblock
 "name": "Performer Maestro (XMM)"

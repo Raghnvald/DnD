@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Sunbeam
 Zaubergrad: 6
 tags:

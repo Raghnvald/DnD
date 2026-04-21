@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-itemorb-of-shielding
 Bezeichnung: Orb of Shielding (Fernian Basalt)
 Kategorie: Wundersamer Gegenstand
 tags:

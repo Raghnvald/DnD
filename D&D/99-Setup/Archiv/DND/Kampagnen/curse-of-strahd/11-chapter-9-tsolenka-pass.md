@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Chapter 9: Tsolenka Pass"
 tags:
   - Quelle/5e/cos
 aliases:

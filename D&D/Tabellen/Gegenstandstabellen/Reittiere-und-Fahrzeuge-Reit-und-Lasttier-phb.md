@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Mounts and Vehicles; Mounts and Other Animals
 tags:
   - Quelle/5e/phb
 aliases:

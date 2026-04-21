@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Doors; Door Type
 tags:
   - Quelle/5e/dmg
 aliases:

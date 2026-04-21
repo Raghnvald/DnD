@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-background
+Bezeichnung: Anthropologist
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/toa
@@ -9,7 +8,6 @@ aliases:
 ---
 # Anthropologist
 *Source: Tomb of Annihilation p. 191*  
-
 
 - **Skill Proficiencies.** Insight, Religion  
 - **Languages.** Two of your choice  

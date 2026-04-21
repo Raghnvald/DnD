@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/vrgr
-  - Monster/HG/1
-  - Monster/Größe/Klein
-  - Monster/Typ/Konstrukt
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Carrionette
+tags:
+  - Monster/Größe/Klein
+  - Monster/HG/1
+  - Monster/Typ/Konstrukt
+  - Quelle/5e/vrgr
 aliases:
   - Carrionette
 ---

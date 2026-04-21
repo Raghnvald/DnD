@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Chapter 4: Sword of Zariel"
 tags:
   - Quelle/5e/bgdia
 aliases:

@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Incendiary Cloud
 Zaubergrad: 8
 tags:

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Silver Dragon Adventures; Silver Dragon Adventure Hooks
 tags:
   - Quelle/5e/ftd
 aliases:

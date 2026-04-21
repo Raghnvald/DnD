@@ -21,8 +21,8 @@ tags:
   - Monster/Typ/Untote
   - Quelle/5e/mm
 aliases:
-  - Ghul
   - Ghoul
+  - Ghul
 linter-yaml-title-alias: Ghul
 ---
 # Ghul

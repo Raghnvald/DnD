@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Telepathy
 tags:
   - Klasse/Barde

@@ -1,11 +1,10 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Tharmekhûl
 tags:
-  - Quelle/5e/mtf
-  - Kompendium/Götter/dwarven
   - Kompendium/Götter/Domäne/forge
   - Kompendium/Götter/Domäne/light
+  - Kompendium/Götter/dwarven
+  - Quelle/5e/mtf
 aliases:
   - Tharmekhûl
 ---

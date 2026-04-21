@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Mist Stance
 tags:
   - Zauber/list/optfeature/mist-stance
 aliases:

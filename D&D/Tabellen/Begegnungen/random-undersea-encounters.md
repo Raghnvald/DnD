@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Random Undersea Encounters
 tags:
   - Quelle/5e/dmg
 aliases:

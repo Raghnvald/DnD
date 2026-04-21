@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/tdcsr
-  - Monster/HG/15
-  - Monster/Größe/Groß
-  - Monster/Typ/Konstrukt
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Mage Hunter Golem
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/15
+  - Monster/Typ/Konstrukt
+  - Quelle/5e/tdcsr
 aliases:
   - Mage Hunter Golem
 ---

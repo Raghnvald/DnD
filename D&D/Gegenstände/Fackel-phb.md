@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Fackel
 Kategorie: Abenteuerausrüstung
+Eigenschaften: /
+Kst.: 1 KM
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
@@ -8,8 +10,6 @@ tags:
 aliases:
   - Fackel
 linter-yaml-title-alias: Fackel
-Kst.: 1 KM
-Eigenschaften: /
 ---
 # Fackel
 *Abenteuerausrüstung*  

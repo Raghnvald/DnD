@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/tftyp
-  - Monster/HG/9
-  - Monster/Größe/Groß
-  - Monster/Typ/Unhold/demon
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Reduced-Threat Glabrezu
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/9
+  - Monster/Typ/Unhold/demon
+  - Quelle/5e/tftyp
 aliases:
   - Reduced-Threat Glabrezu
 ---

@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Wings of Flying
 tags:
   - Gegenstand/Einstimmung/required

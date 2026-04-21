@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Bheur Hag
 tags:
-  - Quelle/5e/vgm
   - Monster/legendary-group
+  - Quelle/5e/vgm
 aliases:
   - Bheur Hag
 ---

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Combat Encounter Difficulty; XP Thresholds by Character Level
 tags:
   - Quelle/5e/dmg
 aliases:

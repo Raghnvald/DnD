@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Artificer Infusion
 tags:
   - Quelle/5e/tce
 aliases:

@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/bgg
-  - Monster/HG/19
-  - Monster/Größe/Riesig
-  - Monster/Typ/Riese/bard
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Cloud Giant Destiny Gambler
+tags:
+  - Monster/Größe/Riesig
+  - Monster/HG/19
+  - Monster/Typ/Riese/bard
+  - Quelle/5e/bgg
 aliases:
   - Cloud Giant Destiny Gambler
 ---

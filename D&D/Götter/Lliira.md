@@ -1,11 +1,11 @@
 ---
-cssclasses: json5e-deity
+Bezeichnung: Lliira, Göttin der Freude
 tags:
-  - Quelle/5e/phb
   - Kompendium/Götter
+  - Kompendium/Götter/Domäne/Leben
   - Kompendium/Götter/Gesinnung/Chaotisch_Gut
   - Kompendium/Götter/Pantheon/Faerun
-  - Kompendium/Götter/Domäne/Leben
+  - Quelle/5e/phb
 aliases:
   - Lliira
 ---

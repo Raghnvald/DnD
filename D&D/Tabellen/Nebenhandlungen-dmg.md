@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Side Quests
 tags:
   - Quelle/5e/dmg
 aliases:

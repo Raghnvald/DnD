@@ -7,6 +7,7 @@ Gew.: 0,5 kg
 tags:
   - Gegenstand/Einstimmung
   - Gegenstand/Seltenheit/selten
+  - Gegenstand/wundersam
   - Quelle/5e/xdmg
 aliases:
   - Amulet of Health

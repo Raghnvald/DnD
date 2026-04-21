@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Chapter 5: Auril's Abode"
 tags:
   - Quelle/5e/idrotf
 aliases:

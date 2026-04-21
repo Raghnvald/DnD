@@ -3,6 +3,7 @@ Bezeichnung: Kerzenstreitkolben
 Kategorie: Einfache Nahkampfwaffe
 Schaden: 1W6 Wucht
 Eigenschaften: /
+Einstimmung: /
 Kst.: /
 Gew.: 2,0 kg
 tags:
@@ -13,7 +14,6 @@ tags:
 aliases:
   - Candle Mace
 linter-yaml-title-alias: Candle Mace
-Einstimmung: /
 ---
 # Kerzenstreitkolben
 *Waffe ([[Streitkolben-phb|Streitkolben]])*

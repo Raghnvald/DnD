@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/ggr
-  - Monster/HG/6
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Monstrosität
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Undercity Medusa
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/6
+  - Monster/Typ/Monstrosität
+  - Quelle/5e/ggr
 aliases:
   - Undercity Medusa
 ---

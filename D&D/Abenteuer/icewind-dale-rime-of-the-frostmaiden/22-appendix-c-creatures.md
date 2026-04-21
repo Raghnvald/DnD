@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Appendix C: Creatures"
 tags:
   - Quelle/5e/idrotf
 aliases:

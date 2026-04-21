@@ -1,18 +1,17 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/vgm
-  - Monster/HG/3
-  - Monster/Habitat/Wald
-  - Monster/Habitat/Hügel
-  - Monster/Habitat/Berg
-  - Monster/Habitat/Unterreich
-  - Monster/Habitat/Stadt
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/orc
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Orc Red Fang of Shargaas
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Berg
+  - Monster/Habitat/Hügel
+  - Monster/Habitat/Stadt
+  - Monster/Habitat/Unterreich
+  - Monster/Habitat/Wald
+  - Monster/HG/3
+  - Monster/Typ/Humanoid/orc
+  - Quelle/5e/vgm
 aliases:
   - Orc Red Fang of Shargaas
 ---
@@ -34,7 +33,6 @@ In addition, orcs have special relationships with two creatures that are sometim
 > [!quote] A quote from Elminster  
 > 
 > An orc life is a god-ridden life. Luthic's at birth, Luthic's at death, and striving to prove themselves to Gruumsh in between.
-
 
 ```statblock
 "name": "Orc Red Fang of Shargaas (VGM)"

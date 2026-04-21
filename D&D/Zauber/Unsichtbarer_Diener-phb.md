@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Unseen Servant
+Bezeichnung: Unsichtbarer Diener
 Zaubergrad: 1
 Zeitaufwand: 1 Aktion
 Reichweite: 18 Meter

@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Imbued Wood (Shavarran Birch)
 Kategorie: Wundersamer Gegenstand
 tags:

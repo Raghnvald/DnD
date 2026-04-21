@@ -1,10 +1,9 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Nephthys
 tags:
-  - Quelle/5e/phb
-  - Kompendium/Götter/egyptian
   - Kompendium/Götter/Domäne/death
+  - Kompendium/Götter/egyptian
+  - Quelle/5e/phb
 aliases:
   - Nephthys
 ---

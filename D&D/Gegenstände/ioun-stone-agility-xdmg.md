@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Ioun Stone, Agility
 tags:
   - Gegenstand/Einstimmung/required

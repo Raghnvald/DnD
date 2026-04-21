@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/bgdia
-  - Monster/HG/1-4
-  - Monster/Größe/Winzig
-  - Monster/Typ/Unhold/demon
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Abyssal Chicken
+tags:
+  - Monster/Größe/Winzig
+  - Monster/HG/1-4
+  - Monster/Typ/Unhold/demon
+  - Quelle/5e/bgdia
 aliases:
   - Abyssal Chicken
 ---

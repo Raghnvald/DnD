@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Ox
 tags:
   - Gegenstand/Ausrüstung/Handelsgut

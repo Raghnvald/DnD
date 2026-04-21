@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Chapter 2: Icewind Dale"
 tags:
   - Quelle/5e/idrotf
 aliases:

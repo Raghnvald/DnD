@@ -1,7 +1,5 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Gold-Münze (GM)
+Bezeichnung: Gold (GM)
 Kategorie: Währung
 tags:
   - Gegenstand/Ausrüstung/treasure-coinage

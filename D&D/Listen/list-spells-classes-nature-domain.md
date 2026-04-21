@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Nature Domain
 tags:
   - Zauber/list/subclass/nature-domain
 aliases:

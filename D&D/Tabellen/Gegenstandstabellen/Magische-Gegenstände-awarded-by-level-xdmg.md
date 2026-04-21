@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Magic Items Awarded by Level
 tags:
   - Quelle/5e/xdmg
 aliases:

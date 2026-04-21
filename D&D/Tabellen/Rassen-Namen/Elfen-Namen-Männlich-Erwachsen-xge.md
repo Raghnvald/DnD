@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Elf Names – Male Adult
 tags:
   - Quelle/5e/xge
 aliases:

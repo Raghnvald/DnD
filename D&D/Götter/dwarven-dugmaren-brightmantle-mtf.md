@@ -1,10 +1,9 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Dugmaren Brightmantle
 tags:
-  - Quelle/5e/mtf
-  - Kompendium/Götter/dwarven
   - Kompendium/Götter/Domäne/knowledge
+  - Kompendium/Götter/dwarven
+  - Quelle/5e/mtf
 aliases:
   - Dugmaren Brightmantle
 ---

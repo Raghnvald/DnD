@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Giants and the Ordning
 tags:
   - Quelle/5e/bgg
 aliases:

@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-hazard
+Bezeichnung: Blizzard
 tags:
-  - Quelle/5e/idrotf
   - Kompendium/Bedrohung/wth
+  - Quelle/5e/idrotf
 aliases:
   - Blizzard
 ---

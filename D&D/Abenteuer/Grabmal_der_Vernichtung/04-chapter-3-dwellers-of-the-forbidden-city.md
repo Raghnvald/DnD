@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Chapter 3: Dwellers of the Forbidden City"
 tags:
   - Quelle/5e/toa
 aliases:

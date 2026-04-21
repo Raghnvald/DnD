@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-class
 Bezeichnung: Champion
 tags:
   - Klasse/Kämpfer/champion

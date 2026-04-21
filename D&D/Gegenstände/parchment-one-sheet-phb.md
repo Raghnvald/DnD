@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Parchment (one sheet)
 Kategorie: Abenteuerausrüstung
 tags:

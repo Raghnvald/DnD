@@ -1,15 +1,14 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mpmm
-  - Monster/HG/1-2
-  - Monster/Habitat/Grasland
-  - Monster/Habitat/Stadt
-  - Monster/Größe/Groß
-  - Monster/Typ/Unhold/cattle
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Stench Kow
+tags:
+  - Monster/Größe/Groß
+  - Monster/Habitat/Grasland
+  - Monster/Habitat/Stadt
+  - Monster/HG/1-2
+  - Monster/Typ/Unhold/cattle
+  - Quelle/5e/mpmm
 aliases:
   - Stench Kow
 ---

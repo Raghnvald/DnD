@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Vial of Stardust
 tags:
   - Gegenstand/Seltenheit/unbekannt

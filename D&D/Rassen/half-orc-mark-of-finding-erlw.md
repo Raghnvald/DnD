@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-race
+Bezeichnung: Half-Orc (Mark of Finding)
 tags:
   - Quelle/5e/erlw
   - Rasse/half-orc/mark-of-finding
@@ -9,7 +8,6 @@ aliases:
 ---
 # Half-Orc (Mark of Finding)
 *Source: Eberron: Rising from the Last War p. 41*  
-
 
 - **Ability Scores**: str +2 con +1
 - **Size**: Medium

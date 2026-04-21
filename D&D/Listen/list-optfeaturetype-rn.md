@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Rune Knight Rune
 tags:
   - Quelle/5e/tce
 aliases:

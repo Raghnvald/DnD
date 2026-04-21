@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/erlw
-  - Monster/HG/1-8
-  - Monster/Größe/Winzig
-  - Monster/Typ/Fee
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Valenar Hawk
+tags:
+  - Monster/Größe/Winzig
+  - Monster/HG/1-8
+  - Monster/Typ/Fee
+  - Quelle/5e/erlw
 aliases:
   - Valenar Hawk
 ---

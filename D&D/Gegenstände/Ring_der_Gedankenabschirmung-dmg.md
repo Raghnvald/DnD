@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Ring der Gedankenabschirmung
+Kategorie: Ring
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/ungewöhnlich

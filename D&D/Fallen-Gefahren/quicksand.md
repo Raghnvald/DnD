@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-hazard
+Bezeichnung: Quicksand
 tags:
-  - Quelle/5e/dmg
   - Kompendium/Bedrohung/wld
+  - Quelle/5e/dmg
 aliases:
   - Quicksand
 ---

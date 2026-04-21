@@ -2,9 +2,9 @@
 Bezeichnung: Bastionsereignisse
 Kategorie: Bastion
 tags:
-- Quelle/5e/xdmg
+  - Quelle/5e/xdmg
 aliases:
-- Bastion Events
+  - Bastion Events
 ---
 # Bastionsereignisse
 *Quelle: Spielleiterhandbuch (2024), S. 350* 

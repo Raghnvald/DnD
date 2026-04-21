@@ -4,15 +4,15 @@ Kategorie: Reit- und Lastentier
 Eigenschaften: /
 Kst.: 50 GM
 Gew.: /
-Bew.: 12 m
-Traglast: 360 Pfd.
 tags:
   - Gegenstand/Ausrüstung/Reit-und-Lastentier
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/idrotf
 aliases:
   - Sled Dog
+Bew.: 12 m
 linter-yaml-title-alias: Sled Dog
+Traglast: 360 Pfd.
 ---
 # Schlittenhund
 *Reit- und Lasttiere*  

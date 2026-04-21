@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Sword of Answering (Rebutter)
 Kategorie: Nahkampf-Kriegswaffe
 tags:

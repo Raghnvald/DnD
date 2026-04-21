@@ -1,16 +1,14 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Magic Mouth
 tags:
+  - Klasse/Artifizient
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
   - Klasse/Magier
-  - Klasse/Artifizient
   - Klasse/Schurke/Arkaner-Betrüger
   - Quelle/5e/xphb
-  - Subklasse/Mystischer-Ritter
   - Subklasse/illusionist
+  - Subklasse/Mystischer-Ritter
   - Zauber/Grad/2
   - Zauber/Ritual
   - Zauber/Schule/Illusion

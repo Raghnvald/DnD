@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Appendix E: The Tarokka Deck"
 tags:
   - Quelle/5e/cos
 aliases:

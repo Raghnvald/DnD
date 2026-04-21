@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Gewöhnlicher Wein (Karaffe)
+Bezeichnung: Common Wine (pitcher)
 Kategorie: Essen und Trinken
 tags:
   - Gegenstand/Ausrüstung/Essen-und-Trinken

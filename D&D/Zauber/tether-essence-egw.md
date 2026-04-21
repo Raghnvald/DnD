@@ -1,7 +1,6 @@
 ---
+Bezeichnung: Tether Essence
 Zaubergrad: 7
-cssclasses:
-  - json5e-spell
 tags:
   - Quelle/5e/egw
   - Zauber/Grad/7
@@ -11,7 +10,6 @@ aliases:
 ---
 # Tether Essence
 *7th-level, Necromancy*  
-
 
 - **Casting time:** 1 Action
 - **Range:** 60 feet

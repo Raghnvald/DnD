@@ -1,7 +1,6 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Deck of Many Things
+Kategorie: Wundersamer Gegenstand
 tags:
   - Gegenstand/Seltenheit/legendär
   - Gegenstand/tier/major

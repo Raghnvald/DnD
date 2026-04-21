@@ -1,17 +1,16 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/2
-  - Monster/Habitat/Wüste
-  - Monster/Habitat/Wald
-  - Monster/Habitat/Sumpf
-  - Monster/Habitat/underwater
-  - Monster/Größe/Riesig
-  - Monster/Typ/Tier
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Giant Constrictor Snake
+tags:
+  - Monster/Größe/Riesig
+  - Monster/Habitat/Sumpf
+  - Monster/Habitat/underwater
+  - Monster/Habitat/Wald
+  - Monster/Habitat/Wüste
+  - Monster/HG/2
+  - Monster/Typ/Tier
+  - Quelle/5e/xmm
 aliases:
   - Giant Constrictor Snake
 ---

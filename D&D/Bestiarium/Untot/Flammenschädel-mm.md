@@ -17,8 +17,8 @@ tags:
   - Monster/Typ/Untote
   - Quelle/5e/mm
 aliases:
-  - Flammenschädel
   - Flameskull
+  - Flammenschädel
 linter-yaml-title-alias: Flammenschädel
 ---
 # Flammenschädel

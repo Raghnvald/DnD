@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-class
+Bezeichnung: Way of the Astral Self
 tags:
-  - Quelle/5e/tce
   - Klasse/Mönch/astral-self
+  - Quelle/5e/tce
 aliases:
   - Way of the Astral Self
 ---
@@ -41,7 +40,6 @@ aliases:
 > </tbody></table>
 
 ^class-progression
-
 
 > [!caution] Mixed edition content
 > This subclass is from a different game edition. You will need to do some adjustment to resolve differences.

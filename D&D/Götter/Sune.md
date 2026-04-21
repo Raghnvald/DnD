@@ -1,12 +1,12 @@
 ---
-cssclasses: json5e-deity
+Bezeichnung: Sune, Göttin der Liebe und Schönheit
 tags:
-  - Quelle/5e/phb
   - Kompendium/Götter
-  - Kompendium/Götter/Gesinnung/Chaotisch_Gut
-  - Kompendium/Götter/Pantheon/Faerun
   - Kompendium/Götter/Domäne/Leben
   - Kompendium/Götter/Domäne/Licht
+  - Kompendium/Götter/Gesinnung/Chaotisch_Gut
+  - Kompendium/Götter/Pantheon/Faerun
+  - Quelle/5e/phb
 aliases:
   - Sune
 ---

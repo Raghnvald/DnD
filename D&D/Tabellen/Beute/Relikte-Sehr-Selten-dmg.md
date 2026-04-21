@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Relics - Very Rare
 tags:
   - Quelle/5e/xdmg
 aliases:

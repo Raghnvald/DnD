@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Immovable Rod
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich

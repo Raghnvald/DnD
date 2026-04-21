@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Antilife Shell
 tags:
   - Klasse/Barde

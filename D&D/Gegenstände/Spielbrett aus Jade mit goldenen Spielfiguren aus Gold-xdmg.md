@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Jade game board with gold playing pieces
 tags:
   - Gegenstand/Ausrüstung/treasure-art-object

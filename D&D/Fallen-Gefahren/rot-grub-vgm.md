@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-hazard
+Bezeichnung: Rot Grub
 tags:
   - Quelle/5e/vgm
 aliases:

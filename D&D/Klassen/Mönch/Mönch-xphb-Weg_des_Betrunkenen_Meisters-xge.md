@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-class
+Bezeichnung: Way of the Drunken Master
 tags:
-  - Quelle/5e/xge
   - Klasse/Mönch/drunken-master
+  - Quelle/5e/xge
 aliases:
   - Way of the Drunken Master
 ---
@@ -41,7 +40,6 @@ aliases:
 > </tbody></table>
 
 ^class-progression
-
 
 > [!caution] Mixed edition content
 > This subclass is from a different game edition. You will need to do some adjustment to resolve differences.

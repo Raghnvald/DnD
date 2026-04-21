@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Ability Checks
 tags:
   - Quelle/5e/dmg
 aliases:

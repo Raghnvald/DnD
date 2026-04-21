@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-race
+Bezeichnung: Gnome (Deep)
 tags:
   - Quelle/5e/dmg
   - Rasse/gnome/deep
@@ -9,7 +8,6 @@ aliases:
 ---
 # Gnome (Deep)
 *Source: Dungeon Master's Guide p. 282*  
-
 
 - **Ability Scores**: str +1 dex +2
 - **Size**: Small

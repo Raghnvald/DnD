@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Lamannia, the Twilight Forest; Lamannia Manifest Zone Features
 tags:
   - Quelle/5e/erlw
 aliases:

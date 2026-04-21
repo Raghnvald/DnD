@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Chapter 3: The Village of Barovia"
 tags:
   - Quelle/5e/cos
 aliases:

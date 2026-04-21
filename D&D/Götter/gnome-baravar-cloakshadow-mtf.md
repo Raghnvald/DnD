@@ -1,11 +1,10 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Baravar Cloakshadow
 tags:
-  - Quelle/5e/mtf
-  - Kompendium/Götter/gnome
   - Kompendium/Götter/Domäne/arcana
   - Kompendium/Götter/Domäne/trickery
+  - Kompendium/Götter/gnome
+  - Quelle/5e/mtf
 aliases:
   - Baravar Cloakshadow
 ---

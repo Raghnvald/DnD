@@ -1,9 +1,9 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Glamerweave
+Kategorie: Wundersamer Gegenstand 
 tags:
   - Gegenstand/Seltenheit/variiert
+  - Gegenstand/wundersam
   - Quelle/5e/erlw
 aliases:
   - Glamerweave

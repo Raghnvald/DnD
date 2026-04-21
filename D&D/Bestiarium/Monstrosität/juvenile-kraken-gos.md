@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/gos
-  - Monster/HG/14
-  - Monster/Größe/Riesig
-  - Monster/Typ/Monstrosität/titan
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Juvenile Kraken
+tags:
+  - Monster/Größe/Riesig
+  - Monster/HG/14
+  - Monster/Typ/Monstrosität/titan
+  - Quelle/5e/gos
 aliases:
   - Juvenile Kraken
 ---

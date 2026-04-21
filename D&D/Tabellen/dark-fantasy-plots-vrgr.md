@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Dark Fantasy Plots
 tags:
   - Quelle/5e/vrgr
 aliases:

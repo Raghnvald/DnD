@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Head of State Contacts; State Contacts
 tags:
   - Quelle/5e/erlw
 aliases:

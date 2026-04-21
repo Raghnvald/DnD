@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Arcane Workshop Adventures
 tags:
   - Quelle/5e/erlw
 aliases:

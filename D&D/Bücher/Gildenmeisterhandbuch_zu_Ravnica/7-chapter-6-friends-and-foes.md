@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Chapter 6: Friends and Foes"
 tags:
   - Quelle/5e/ggr
 aliases:

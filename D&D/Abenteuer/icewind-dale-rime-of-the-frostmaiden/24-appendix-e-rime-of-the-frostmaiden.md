@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Appendix E: Rime of the Frostmaiden"
 tags:
   - Quelle/5e/idrotf
 aliases:

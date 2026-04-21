@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-background
+Bezeichnung: "Baldur's Gate Sailor"
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/bgdia
@@ -9,7 +8,6 @@ aliases:
 ---
 # Baldur's Gate Sailor
 *Source: Baldur's Gate: Descent Into Avernus p. 204, Player's Handbook p. 139*  
-
 
 - **Skill Proficiencies.** [Athletics](/3-Mechanics/CLI/skills.md#Athletics), [Perception](/3-Mechanics/CLI/skills.md#Perception)  
 - **Tool Proficiencies.** [Navigator's tools](/3-Mechanics/CLI/items/navigators-tools-xphb.md), vehicles (water)  

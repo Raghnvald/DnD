@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Appendix F: Trickster Gods of Omu"
 tags:
   - Quelle/5e/toa
 aliases:

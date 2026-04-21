@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: The Adventuring Day; Adventuring Day XP
 tags:
   - Quelle/5e/dmg
 aliases:

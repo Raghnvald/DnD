@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Sphere of Annihilation
 tags:
   - Gegenstand/Seltenheit/legendär

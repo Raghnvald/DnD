@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Wall of Sand
+Bezeichnung: Sandwand
 Zaubergrad: 3
 Zeitaufwand: 1 Aktion
 Reichweite: 27 Meter
@@ -13,8 +13,8 @@ tags:
   - Klasse/Magier
   - Klasse/Schurke/Arkaner-Betrüger
   - Quelle/5e/xge
-  - Subklasse/Mystischer-Ritter
   - Subklasse/evoker
+  - Subklasse/Mystischer-Ritter
   - Zauber/Grad/3
   - Zauber/Schule/Hervorrufung
 classes:

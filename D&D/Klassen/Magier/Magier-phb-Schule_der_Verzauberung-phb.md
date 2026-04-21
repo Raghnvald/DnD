@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-class
+Bezeichnung: School of Enchantment
 tags:
-  - Quelle/5e/phb
   - Klasse/Magier/enchantment
+  - Quelle/5e/phb
 aliases:
   - School of Enchantment
 ---
@@ -41,7 +40,6 @@ aliases:
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Magic Tattoos; Magic Tattoo Coverage
 tags:
   - Quelle/5e/tce
 aliases:

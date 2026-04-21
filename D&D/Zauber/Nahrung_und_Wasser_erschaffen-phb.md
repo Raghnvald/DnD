@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Create Food and Water
 Zaubergrad: 3
 tags:

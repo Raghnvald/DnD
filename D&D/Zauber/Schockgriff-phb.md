@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Shocking Grasp
+Bezeichnung: Schockgriff
 Zaubergrad: 0 (Zaubertrick)
 Zeitaufwand: 1 Aktion
 Reichweite: Berührung

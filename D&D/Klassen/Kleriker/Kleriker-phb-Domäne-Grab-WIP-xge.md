@@ -1,10 +1,9 @@
 ---
-cssclasses:
-  - json5e-class
+Bezeichnung: Grave Domain
 tags:
-  - Quelle/5e/xge
-  - Kompendium/Götter/Domäne/grave
   - Klasse/Kleriker/grave
+  - Kompendium/Götter/Domäne/grave
+  - Quelle/5e/xge
 aliases:
   - Grave Domain
 ---

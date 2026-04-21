@@ -1,5 +1,7 @@
 ---
-tags: [Quelle/5e/cos]
+Bezeichnung: "**Anhang B: Dramatis Personae**"
+tags:
+  - Quelle/5e/cos
 ---
 # **Anhang B: Dramatis Personae**
 

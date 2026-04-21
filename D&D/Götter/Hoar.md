@@ -1,11 +1,11 @@
 ---
-cssclasses: json5e-deity
+Bezeichnung: Hoar, Gott der Rache und Bestrafung
 tags:
-  - Quelle/5e/phb
   - Kompendium/Götter
+  - Kompendium/Götter/Domäne/Krieg
   - Kompendium/Götter/Gesinnung/Rechtschaffen_Neutral
   - Kompendium/Götter/Pantheon/Faerun
-  - Kompendium/Götter/Domäne/Krieg
+  - Quelle/5e/phb
 aliases:
   - Hoar
 ---

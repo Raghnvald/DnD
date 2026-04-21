@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Create or Destroy Water
 Zaubergrad: 1
 tags:

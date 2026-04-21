@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Elementarer Edelstein, Smaragd
+Kategorie: Wundersamer Gegenstand
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/dmg

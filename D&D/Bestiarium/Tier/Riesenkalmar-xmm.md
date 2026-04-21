@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/6
-  - Monster/Habitat/underwater
-  - Monster/Größe/Riesig
-  - Monster/Typ/Tier
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Giant Squid
+tags:
+  - Monster/Größe/Riesig
+  - Monster/Habitat/underwater
+  - Monster/HG/6
+  - Monster/Typ/Tier
+  - Quelle/5e/xmm
 aliases:
   - Giant Squid
 ---

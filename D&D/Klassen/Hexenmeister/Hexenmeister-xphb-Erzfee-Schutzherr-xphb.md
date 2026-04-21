@@ -1,7 +1,8 @@
 ---
+Bezeichnung: Archfey Patron
 tags:
-  - Quelle/5e/xphb
   - Klasse/Hexenmeister/archfey
+  - Quelle/5e/xphb
 aliases:
   - Archfey Patron
 ---
@@ -39,7 +40,6 @@ aliases:
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 

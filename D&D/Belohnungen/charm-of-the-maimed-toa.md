@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-reward
+Bezeichnung: Charm of the Maimed
 tags:
-  - Quelle/5e/toa
   - Kompendium/Belohnung/charm
+  - Quelle/5e/toa
 aliases:
   - Charm of the Maimed
 ---

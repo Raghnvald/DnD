@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Aufstieg oder Ende eines Anführers oder einer Ära; Arten von Anführern
 tags:
   - Quelle/5e/dmg
 aliases:

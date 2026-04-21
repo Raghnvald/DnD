@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Githyanki
 tags:
   - Zauber/list/race/githyanki
 aliases:

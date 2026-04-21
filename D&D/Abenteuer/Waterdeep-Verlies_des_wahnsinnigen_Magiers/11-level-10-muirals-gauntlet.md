@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Level 10: Muiral's Gauntlet"
 tags:
   - Quelle/5e/wdmm
 aliases:

@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Soul Coin
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich

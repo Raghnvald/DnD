@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Plate Armor
 Rüstung: Schwer
 tags:
@@ -8,7 +6,6 @@ tags:
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
-  - Plate Armor
   - Plate Armor
 linter-yaml-title-alias: Plate Armor
 ---

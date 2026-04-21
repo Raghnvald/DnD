@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Drum
 tags:
   - Gegenstand/Ausrüstung/Instrument

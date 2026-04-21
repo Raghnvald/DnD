@@ -1,10 +1,11 @@
 ---
+Bezeichnung: Leibwache
 tags:
-- Quelle/5e/phb
-- Kompendium/Optionales/fs-f
-- Kompendium/Optionales/fs-p
+  - Kompendium/Optionales/fs-f
+  - Kompendium/Optionales/fs-p
+  - Quelle/5e/phb
 aliases:
-- Protection
+  - Protection
 ---
 # Leibwache
 *Source: Player's Handbook. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  

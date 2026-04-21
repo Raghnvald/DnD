@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Chapter 2: Allegiances of Tal'Dorei"
 tags:
   - Quelle/5e/tdcsr
 aliases:

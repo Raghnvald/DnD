@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Linen (1 sq. yd.)
 tags:
   - Gegenstand/Ausrüstung/Handelsgut

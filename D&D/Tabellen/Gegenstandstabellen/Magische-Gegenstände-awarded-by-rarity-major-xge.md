@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Magic Items Awarded by Rarity - Major
 tags:
   - Quelle/5e/xge
 aliases:

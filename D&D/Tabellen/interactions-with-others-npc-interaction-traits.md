@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Interactions with Others; NPC Interaction Traits
 tags:
   - Quelle/5e/dmg
 aliases:

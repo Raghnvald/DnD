@@ -1,7 +1,5 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Deathwalker's Ward (Awakened)
+Bezeichnung: "Deathwalker's Ward (Awakened)"
 Rüstung: Leicht
 tags:
   - Gegenstand/Einstimmung/required

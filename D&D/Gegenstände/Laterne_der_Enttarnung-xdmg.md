@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Lantern of Revealing
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich

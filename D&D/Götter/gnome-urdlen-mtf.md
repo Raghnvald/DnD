@@ -1,11 +1,10 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Urdlen
 tags:
-  - Quelle/5e/mtf
-  - Kompendium/Götter/gnome
   - Kompendium/Götter/Domäne/death
   - Kompendium/Götter/Domäne/war
+  - Kompendium/Götter/gnome
+  - Quelle/5e/mtf
 aliases:
   - Urdlen
 ---

@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Plate of the Dawnmartyr (Dormant)
 Rüstung: Schwer
 tags:

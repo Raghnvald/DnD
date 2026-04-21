@@ -1,15 +1,14 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/2
-  - Monster/Habitat/Wald
-  - Monster/Habitat/Stadt
-  - Monster/Größe/Klein-oder-Mittelgroß
-  - Monster/Typ/Monstrosität/lycanthrope
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Wererat
+tags:
+  - Monster/Größe/Klein-oder-Mittelgroß
+  - Monster/Habitat/Stadt
+  - Monster/Habitat/Wald
+  - Monster/HG/2
+  - Monster/Typ/Monstrosität/lycanthrope
+  - Quelle/5e/xmm
 aliases:
   - Wererat
 ---

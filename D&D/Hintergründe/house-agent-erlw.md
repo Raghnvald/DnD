@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-background
+Bezeichnung: House Agent
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/erlw
@@ -9,7 +8,6 @@ aliases:
 ---
 # House Agent
 *Source: Eberron: Rising from the Last War p. 53*  
-
 
 - **Skill Proficiencies.** Investigation, Persuasion  
 - **Tool Proficiencies.** Two proficiencies from the House Tool Proficiencies table  

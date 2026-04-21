@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Golgari Agent
 tags:
   - Zauber/list/background/golgari-agent
 aliases:

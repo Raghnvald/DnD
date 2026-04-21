@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Family; Families
 tags:
   - Quelle/5e/bgg
 aliases:

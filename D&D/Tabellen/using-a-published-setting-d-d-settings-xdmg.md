@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Using a Published Setting; D&D Settings
 tags:
   - Quelle/5e/xdmg
 aliases:

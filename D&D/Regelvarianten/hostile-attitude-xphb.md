@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Hostile [Attitude]
 tags:
   - Quelle/5e/xphb
 aliases:

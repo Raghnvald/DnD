@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Richemulot Adventures
 tags:
   - Quelle/5e/vrgr
 aliases:

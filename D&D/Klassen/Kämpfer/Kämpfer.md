@@ -1,6 +1,10 @@
 ---
-tags: [Klasse/Kämpfer, Quelle/5e/phb]
-aliases: [Fighter]
+Bezeichnung: Kämpfer
+tags:
+  - Klasse/Kämpfer
+  - Quelle/5e/phb
+aliases:
+  - Fighter
 ---
 # Kämpfer
 
@@ -193,7 +197,6 @@ You adopt a particular style of fighting as your specialty. Choose one of the fo
 *   [Protection](../../Optionale%20Talente/Leibwache.md)
     
 *   [Two-Weapon Fighting](../../Optionale%20Talente/Zwei-Waffen-Kampf.md)
-    
 
 ### Second Wind (Level 1)
 

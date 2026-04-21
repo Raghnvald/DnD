@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Connected Creatures; Ancient Moonstone Dragon Connections
 tags:
   - Quelle/5e/ftd
 aliases:

@@ -1,15 +1,14 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/2
-  - Monster/Habitat/Küste
-  - Monster/Habitat/underwater
-  - Monster/Größe/Groß
-  - Monster/Typ/Monstrosität
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Merrow
+tags:
+  - Monster/Größe/Groß
+  - Monster/Habitat/Küste
+  - Monster/Habitat/underwater
+  - Monster/HG/2
+  - Monster/Typ/Monstrosität
+  - Quelle/5e/xmm
 aliases:
   - Merrow
 ---
@@ -30,7 +29,6 @@ Merrow raid coastal settlements and merfolk communities to steal weapons and tre
 > [!quote] A quote from Leomund  
 > 
 > Sages trace merrows' origins to aquatic ogres, depraved merfolk, and worse. Such broad theories reveal little about these monsters but overmuch of the dread lurking beyond our certain shores.
-
 
 ```statblock
 "name": "Merrow (XMM)"

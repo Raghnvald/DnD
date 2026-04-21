@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Soothsalts
 tags:
   - Gegenstand/Ausrüstung/

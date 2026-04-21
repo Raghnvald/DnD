@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Potion of Flying
 tags:
   - Gegenstand/Seltenheit/sehr_selten

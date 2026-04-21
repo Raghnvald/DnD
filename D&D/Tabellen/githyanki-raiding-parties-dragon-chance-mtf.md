@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Githyanki Raiding Parties; Dragon Chance
 tags:
   - Quelle/5e/mtf
 aliases:

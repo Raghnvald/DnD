@@ -1,16 +1,14 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Pazrodine
 tags:
-  - Quelle/5e/bmt
   - Monster/legendary-group
+  - Quelle/5e/bmt
 aliases:
   - Pazrodine
 ---
 # Pazrodine
 
 ## Lair Actions
-
 
 The entire Seelie Market is Pazrodine's lair. Pazrodine's challenge rating is 22 (41,000 XP) when she's encountered in Seelie Market.
 

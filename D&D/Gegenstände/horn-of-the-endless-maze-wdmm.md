@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Horn of the Endless Maze
 tags:
   - Gegenstand/Seltenheit/selten

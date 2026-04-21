@@ -1,10 +1,12 @@
 ---
+Bezeichnung: Barbar-Pfad-Riesen
 tags:
   - Klasse/Barbar/Riesen
   - Quelle/5e/bgg
 aliases:
   - Path of the Giants
 ---
+# Barbar-Pfad-Riesen
 Pfad der Riesen
 ===============
 

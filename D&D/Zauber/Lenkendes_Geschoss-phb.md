@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Guiding Bolt
 Zaubergrad: 1
 tags:

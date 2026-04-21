@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: The Norse Pantheon; Norse Deities
 tags:
   - Quelle/5e/phb
 aliases:

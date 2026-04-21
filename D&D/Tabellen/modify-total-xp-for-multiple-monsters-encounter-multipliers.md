@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Modify Total XP for Multiple Monsters; Encounter Multipliers
 tags:
   - Quelle/5e/dmg
 aliases:

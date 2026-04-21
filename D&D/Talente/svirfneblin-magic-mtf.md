@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-feat
+Bezeichnung: Svirfneblin Magic
 tags:
-  - Quelle/5e/mtf
   - Kompendium/Talent
+  - Quelle/5e/mtf
 aliases:
   - Svirfneblin Magic
 ---

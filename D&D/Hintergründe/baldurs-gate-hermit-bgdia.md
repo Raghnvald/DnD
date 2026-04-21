@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-background
+Bezeichnung: "Baldur's Gate Hermit"
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/bgdia
@@ -9,7 +8,6 @@ aliases:
 ---
 # Baldur's Gate Hermit
 *Source: Baldur's Gate: Descent Into Avernus p. 204, Player's Handbook p. 134*  
-
 
 - **Skill Proficiencies.** [Medicine](/3-Mechanics/CLI/skills.md#Medicine), [Religion](/3-Mechanics/CLI/skills.md#Religion)  
 - **Tool Proficiencies.** [Herbalism kit](/3-Mechanics/CLI/items/herbalism-kit-xphb.md)  

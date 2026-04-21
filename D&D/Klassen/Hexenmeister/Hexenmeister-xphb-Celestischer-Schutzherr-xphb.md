@@ -1,7 +1,8 @@
 ---
+Bezeichnung: Celestial Patron
 tags:
-  - Quelle/5e/xphb
   - Klasse/Hexenmeister/celestial
+  - Quelle/5e/xphb
 aliases:
   - Celestial Patron
 ---
@@ -39,7 +40,6 @@ aliases:
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 

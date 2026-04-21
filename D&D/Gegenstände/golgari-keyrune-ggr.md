@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Golgari Keyrune
 tags:
   - Gegenstand/Einstimmung/required

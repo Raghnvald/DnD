@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Grasping Vine
 Zaubergrad: 4
 tags:

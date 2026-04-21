@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Charm Monster
 tags:
   - Klasse/Barde

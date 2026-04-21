@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Dwarves in the Clan; Clan's Notable Trait"
 tags:
   - Quelle/5e/mtf
 aliases:

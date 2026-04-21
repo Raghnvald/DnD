@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-feat
+Bezeichnung: Fey Teleportation
 tags:
-  - Quelle/5e/xge
   - Kompendium/Talent
+  - Quelle/5e/xge
 aliases:
   - Fey Teleportation
 ---

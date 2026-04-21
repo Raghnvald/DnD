@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/tftyp
-  - Monster/HG/1
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/goblinoid
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Bugbear Gardener
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/1
+  - Monster/Typ/Humanoid/goblinoid
+  - Quelle/5e/tftyp
 aliases:
   - Bugbear Gardener
 ---

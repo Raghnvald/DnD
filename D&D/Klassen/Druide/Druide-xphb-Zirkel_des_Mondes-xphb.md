@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-class
+Bezeichnung: Circle of the Moon
 tags:
-  - Quelle/5e/xphb
   - Klasse/Druide/moon
+  - Quelle/5e/xphb
 aliases:
   - Circle of the Moon
 ---
@@ -41,7 +40,6 @@ aliases:
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 

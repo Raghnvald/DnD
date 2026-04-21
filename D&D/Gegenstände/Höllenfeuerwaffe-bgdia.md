@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Höllenfeuerwaffe
+Bezeichnung: Hellfire Weapon
 Kategorie: Beliebige Waffe
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich

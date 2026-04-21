@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Determine the Villain's Actions; Event-Based Villain Actions"
 tags:
   - Quelle/5e/dmg
 aliases:

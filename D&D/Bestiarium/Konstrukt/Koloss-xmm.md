@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/25
-  - Monster/Habitat/Jedes
-  - Monster/Größe/Gigantisch
-  - Monster/Typ/Konstrukt/Titan
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Colossus
+tags:
+  - Monster/Größe/Gigantisch
+  - Monster/Habitat/Jedes
+  - Monster/HG/25
+  - Monster/Typ/Konstrukt/Titan
+  - Quelle/5e/xmm
 aliases:
   - Colossus
 ---

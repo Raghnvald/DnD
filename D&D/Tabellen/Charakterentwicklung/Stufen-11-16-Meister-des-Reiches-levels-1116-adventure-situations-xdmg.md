@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Levels 11–16: Masters of the Realm; Levels 11–16 Adventure Situations"
 tags:
   - Quelle/5e/xdmg
 aliases:

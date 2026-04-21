@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-deck
+Bezeichnung: Deck of Illusions
 tags:
   - Quelle/5e/xdmg
 aliases:

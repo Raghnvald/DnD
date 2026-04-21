@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/dmg
-  - Monster/HG/0
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Unhold
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Larva
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/0
+  - Monster/Typ/Unhold
+  - Quelle/5e/dmg
 aliases:
   - Larva
 ---

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Lesser Idols
 tags:
   - Quelle/5e/tdcsr
 aliases:

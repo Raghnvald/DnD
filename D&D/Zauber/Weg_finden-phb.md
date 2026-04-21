@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Find the Path
 Zaubergrad: 6
 tags:

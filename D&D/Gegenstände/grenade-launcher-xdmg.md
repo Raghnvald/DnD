@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Grenade Launcher
 tags:
   - Gegenstand/Ausrüstung/

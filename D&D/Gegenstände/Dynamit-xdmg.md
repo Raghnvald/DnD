@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Dynamite Stick
 tags:
   - Gegenstand/Seltenheit/keine

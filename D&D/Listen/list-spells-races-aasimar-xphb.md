@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Aasimar
 tags:
   - Zauber/list/race/aasimar
 aliases:

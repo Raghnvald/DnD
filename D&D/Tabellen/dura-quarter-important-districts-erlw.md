@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Dura Quarter: Important Districts"
 tags:
   - Quelle/5e/erlw
 aliases:

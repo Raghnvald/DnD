@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: House Tarkanan Villains
 tags:
   - Quelle/5e/erlw
 aliases:

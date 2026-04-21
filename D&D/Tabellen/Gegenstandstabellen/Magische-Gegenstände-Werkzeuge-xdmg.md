@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Magic Item Tools
 tags:
   - Quelle/5e/xdmg
 aliases:

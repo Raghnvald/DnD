@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Appendix: Spirit Board"
 tags:
   - Quelle/5e/vrgr
 aliases:

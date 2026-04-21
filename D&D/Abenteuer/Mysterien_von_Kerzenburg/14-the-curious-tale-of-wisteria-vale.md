@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: The Curious Tale of Wisteria Vale
 tags:
   - Quelle/5e/cm
 aliases:

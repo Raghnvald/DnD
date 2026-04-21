@@ -1,7 +1,6 @@
 ---
+Bezeichnung: Frost Fingers
 Zaubergrad: 1
-cssclasses:
-  - json5e-spell
 tags:
   - Quelle/5e/idrotf
   - Zauber/Grad/1
@@ -11,7 +10,6 @@ aliases:
 ---
 # Frost Fingers
 *1st-level, Evocation*  
-
 
 - **Casting time:** 1 Action
 - **Range:** Self (15-foot Cone)

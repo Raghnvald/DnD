@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Musical Instrument
 tags:
   - Gegenstand/Ausrüstung/Instrument

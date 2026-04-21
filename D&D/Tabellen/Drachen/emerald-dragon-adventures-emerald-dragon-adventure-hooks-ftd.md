@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Emerald Dragon Adventures; Emerald Dragon Adventure Hooks
 tags:
   - Quelle/5e/ftd
 aliases:

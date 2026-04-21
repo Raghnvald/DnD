@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Military Force Types
 tags:
   - Quelle/5e/tce
 aliases:

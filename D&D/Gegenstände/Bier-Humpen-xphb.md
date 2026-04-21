@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Ale (mug)
 tags:
   - Gegenstand/Ausrüstung/Essen-und-Trinken

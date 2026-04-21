@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Ring of the Orator
+Kategorie: Ring
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/ungewöhnlich

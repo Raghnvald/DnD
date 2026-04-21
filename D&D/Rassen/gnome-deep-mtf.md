@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-race
+Bezeichnung: Gnome (Deep)
 tags:
   - Quelle/5e/mtf
   - Rasse/gnome/deep
@@ -9,7 +8,6 @@ aliases:
 ---
 # Gnome (Deep)
 *Source: Mordenkainen's Tome of Foes p. 113*  
-
 
 - **Ability Scores**: dex +1
 - **Size**: Small

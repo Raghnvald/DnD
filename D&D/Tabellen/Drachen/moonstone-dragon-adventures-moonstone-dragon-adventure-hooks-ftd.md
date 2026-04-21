@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Moonstone Dragon Adventures; Moonstone Dragon Adventure Hooks
 tags:
   - Quelle/5e/ftd
 aliases:

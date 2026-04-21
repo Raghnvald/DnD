@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-race
+Bezeichnung: Dwarf
 tags:
   - Quelle/5e/phb
   - Rasse/dwarf

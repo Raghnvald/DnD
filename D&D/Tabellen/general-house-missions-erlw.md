@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: General House Missions
 tags:
   - Quelle/5e/erlw
 aliases:

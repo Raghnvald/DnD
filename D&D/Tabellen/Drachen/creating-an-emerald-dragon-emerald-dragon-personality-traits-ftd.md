@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Creating an Emerald Dragon; Emerald Dragon Personality Traits
 tags:
   - Quelle/5e/ftd
 aliases:

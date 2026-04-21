@@ -1,12 +1,10 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Create Food and Water
 tags:
+  - Klasse/Artifizient
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
   - Klasse/Kleriker
-  - Klasse/Artifizient
   - Klasse/paladin
   - Quelle/5e/xphb
   - Subklasse/divine-soul/good

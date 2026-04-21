@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Brewing Potions of Healing; Potion of Healing Creation
 tags:
   - Quelle/5e/xge
 aliases:

@@ -1,5 +1,7 @@
 ---
-tags: [Quelle/5e/bgdia]
+Bezeichnung: "<center> Kapitel 4: Schwert von Zariel </center>"
+tags:
+  - Quelle/5e/bgdia
 ---
 # <center> Kapitel 4: Schwert von Zariel </center>
 

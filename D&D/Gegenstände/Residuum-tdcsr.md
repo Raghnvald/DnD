@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Residuum
 tags:
   - Gegenstand/Ausrüstung/Handelsgut

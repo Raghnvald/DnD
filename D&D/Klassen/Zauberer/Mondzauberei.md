@@ -1,6 +1,10 @@
 ---
-tags: [Klasse/Zauberer, Quelle/5e/dsotdq]
-aliases: [Lunar Sorcery]
+Bezeichnung: Mondzauberei
+tags:
+  - Klasse/Zauberer
+  - Quelle/5e/dsotdq
+aliases:
+  - Lunar Sorcery
 ---
 # Mondzauberei
 _[[Zauberer]]_: Magische Herkunft

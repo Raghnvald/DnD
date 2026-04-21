@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Spellguard Shield
 Rüstung: Schild
 tags:

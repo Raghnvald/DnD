@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Tent
 tags:
   - Gegenstand/Ausrüstung/

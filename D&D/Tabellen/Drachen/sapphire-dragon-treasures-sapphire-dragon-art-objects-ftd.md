@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Sapphire Dragon Treasures; Sapphire Dragon Art Objects
 tags:
   - Quelle/5e/ftd
 aliases:

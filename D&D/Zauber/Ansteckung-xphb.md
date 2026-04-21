@@ -1,17 +1,16 @@
 ---
-cssclasses:
-  - json5e-spell
+Bezeichnung: Contagion
 tags:
-  - Quelle/5e/xphb
   - Klasse/Barde
-  - Klasse/Kleriker
   - Klasse/Druide
-  - Zauber/Grad/5
-  - Zauber/Schule/Nekromantie
+  - Klasse/Kleriker
+  - Quelle/5e/xphb
   - Subklasse/circle-of-spores
   - Subklasse/divine-soul/good
   - Subklasse/oathbreaker
   - Subklasse/the-undying
+  - Zauber/Grad/5
+  - Zauber/Schule/Nekromantie
 classes:
   - Bard
   - Cleric
@@ -25,7 +24,6 @@ aliases:
 ---
 # Contagion
 *5th-level, Necromancy*  
-
 
 - **Casting time:** 1 Action
 - **Range:** Touch

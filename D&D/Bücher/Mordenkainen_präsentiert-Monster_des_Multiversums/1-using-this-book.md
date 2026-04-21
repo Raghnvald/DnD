@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Using This Book
 tags:
   - Quelle/5e/mpmm
 aliases:

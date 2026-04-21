@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Grassland Encounters (Levels 6—10)
 tags:
   - Quelle/5e/xge
 aliases:

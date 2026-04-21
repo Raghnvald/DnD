@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Magic Items in This Book; Magic Items by Name
 tags:
   - Quelle/5e/bmt
 aliases:

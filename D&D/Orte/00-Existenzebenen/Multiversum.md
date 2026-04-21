@@ -1,3 +1,7 @@
+---
+Bezeichnung: Multiversum
+---
+# Multiversum
 Als Multiversum, Universum oder Kosmos wird alles was in den Vergessenen Reiche existiert bezeichnet.
 
 ## Weltenachsen Kosmologie

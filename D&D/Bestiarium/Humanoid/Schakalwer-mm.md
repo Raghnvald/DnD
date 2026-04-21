@@ -1,15 +1,14 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mm
-  - Monster/HG/1-2
-  - Monster/Habitat/Wüste
-  - Monster/Habitat/Grasland
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/shapechanger
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Jackalwere
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Grasland
+  - Monster/Habitat/Wüste
+  - Monster/HG/1-2
+  - Monster/Typ/Humanoid/shapechanger
+  - Quelle/5e/mm
 aliases:
   - Jackalwere
 ---

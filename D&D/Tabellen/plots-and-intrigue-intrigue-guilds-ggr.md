@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Plots and Intrigue; Intrigue Guilds
 tags:
   - Quelle/5e/ggr
 aliases:

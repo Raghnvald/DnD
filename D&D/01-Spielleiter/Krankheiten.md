@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Diseases
 tags:
   - Quelle/5e/phb
   - Quelle/5e/vrgr

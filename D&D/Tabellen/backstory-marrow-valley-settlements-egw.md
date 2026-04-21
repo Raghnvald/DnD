@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Backstory; Marrow Valley Settlements
 tags:
   - Quelle/5e/egw
 aliases:

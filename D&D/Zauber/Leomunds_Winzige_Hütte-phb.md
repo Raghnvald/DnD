@@ -1,7 +1,5 @@
 ---
-cssclasses:
-  - json5e-spell
-Bezeichnung: Leomund's Tiny Hut
+Bezeichnung: "Leomund's Tiny Hut"
 Zaubergrad: 3
 tags:
   - Klasse/Barde/Magische-Geheimnisse

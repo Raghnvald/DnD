@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-class
+Bezeichnung: Soulknife
 tags:
-  - Quelle/5e/xphb
   - Klasse/Schurke/soulknife
+  - Quelle/5e/xphb
 aliases:
   - Soulknife
 ---
@@ -41,7 +40,6 @@ aliases:
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 

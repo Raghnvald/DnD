@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Potion of Cloud Giant Strength
 tags:
   - Gegenstand/Seltenheit/sehr_selten

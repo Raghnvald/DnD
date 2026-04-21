@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Watch Station Adventures
 tags:
   - Quelle/5e/erlw
 aliases:

@@ -1,5 +1,6 @@
 ---
-Bezeichnung: Trank der Gedankenkontrolle (Humanoid)
+Bezeichnung: Potion of Mind Control (humanoid)
+Kategorie: Trank
 tags:
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam/Trank

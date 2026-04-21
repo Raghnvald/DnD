@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Helm of Underwater Action
 tags:
   - Gegenstand/Einstimmung/required

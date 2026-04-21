@@ -1,11 +1,10 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Hades
 tags:
-  - Quelle/5e/phb
-  - Kompendium/Götter/greek
   - Kompendium/Götter/Domäne/death
   - Kompendium/Götter/Domäne/grave
+  - Kompendium/Götter/greek
+  - Quelle/5e/phb
 aliases:
   - Hades
 ---

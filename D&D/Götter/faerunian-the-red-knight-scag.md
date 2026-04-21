@@ -1,15 +1,14 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: The Red Knight
 tags:
-  - Quelle/5e/scag
-  - Kompendium/Götter/faerunian
   - Kompendium/Götter/Domäne/war
+  - Kompendium/Götter/faerunian
+  - Quelle/5e/scag
 aliases:
-  - The Red Knight
-  - The Lady of Strategy
   - The Crimson General
   - The Grandmaster of the Lanceboard
+  - The Lady of Strategy
+  - The Red Knight
 ---
 # The Red Knight
 *Source: Sword Coast Adventurer's Guide p. 21* 

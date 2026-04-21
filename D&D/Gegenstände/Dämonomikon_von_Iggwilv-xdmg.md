@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Demonomicon of Iggwilv
 tags:
   - Gegenstand/Einstimmung/required

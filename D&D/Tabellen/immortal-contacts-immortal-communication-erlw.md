@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Immortal Contacts; Immortal Communication
 tags:
   - Quelle/5e/erlw
 aliases:

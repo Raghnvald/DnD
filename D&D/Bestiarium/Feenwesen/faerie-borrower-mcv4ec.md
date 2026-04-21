@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mcv4ec
-  - Monster/HG/1-2
-  - Monster/Größe/Winzig
-  - Monster/Typ/Fee
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Faerie Borrower
+tags:
+  - Monster/Größe/Winzig
+  - Monster/HG/1-2
+  - Monster/Typ/Fee
+  - Quelle/5e/mcv4ec
 aliases:
   - Faerie Borrower
 ---

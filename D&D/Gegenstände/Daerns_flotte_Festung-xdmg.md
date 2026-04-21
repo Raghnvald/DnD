@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Daern's Instant Fortress
+Bezeichnung: "Daern's Instant Fortress"
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten

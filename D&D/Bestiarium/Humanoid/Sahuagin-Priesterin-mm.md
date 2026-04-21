@@ -1,15 +1,14 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mm
-  - Monster/HG/2
-  - Monster/Habitat/Küste
-  - Monster/Habitat/underwater
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/sahuagin
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Sahuagin Priestess
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Küste
+  - Monster/Habitat/underwater
+  - Monster/HG/2
+  - Monster/Typ/Humanoid/sahuagin
+  - Quelle/5e/mm
 aliases:
   - Sahuagin Priestess
 ---
@@ -41,7 +40,6 @@ The sahuagin put the malenti to good use as spies and assassins in aquatic elf c
 > [!quote] A quote from An account of the aftermath of a sahuagin raid  
 > 
 > TThe village was empty, the seagulls were strangely quiet, and all we could hear was the surge of the sea.
-
 
 ```statblock
 "name": "Sahuagin Priestess"

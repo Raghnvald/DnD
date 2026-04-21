@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Shield
+Bezeichnung: Schild
 Zaubergrad: 1
 Zeitaufwand:
 Reichweite:

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Lethal Leverage
 tags:
   - Quelle/5e/vrgr
 aliases:

@@ -1,4 +1,5 @@
 ---
+Bezeichnung: "Dungeon Master's Tools"
 tags:
   - Quelle/5e/tce
 aliases:

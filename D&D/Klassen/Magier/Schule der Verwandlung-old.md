@@ -1,10 +1,12 @@
 ---
+Bezeichnung: Schule der Verwandlung-old
 tags:
   - Klasse/Magier/Verwandlung
   - Quelle/5e/phb
 aliases:
   - School of Transmutation
 ---
+# Schule der Verwandlung-old
 Schule der Verwandlung
 ======================
 
@@ -39,7 +41,6 @@ Starting at 6th level, you can spend 8 hours creating a transmuter’s stone tha
 *   Proficiency in Constitution saving throws
     
 *   Resistance to acid, cold, fire, lightning, or thunder damage (your choice whenever you choose this benefit)
-    
 
 Each time you cast a transmutation spell of 1st level or higher, you can change the effect of your stone if the stone is on your person.
 

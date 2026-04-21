@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Physical Characteristics; Beholder Eye Color
 tags:
   - Quelle/5e/vgm
 aliases:

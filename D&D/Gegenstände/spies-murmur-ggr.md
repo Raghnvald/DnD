@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Spies' Murmur
+Bezeichnung: "Spies' Murmur"
+Kategorie: Wundersamer Gegenstand 
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/ungewöhnlich
+  - Gegenstand/wundersam
   - Quelle/5e/ggr
 aliases:
-  - Spies' Murmur
   - Spies' Murmur
 linter-yaml-title-alias: Spies' Murmur
 ---

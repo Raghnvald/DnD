@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "The Pharaoh's Return; Ankhtepot Reborn"
 tags:
   - Quelle/5e/vrgr
 aliases:

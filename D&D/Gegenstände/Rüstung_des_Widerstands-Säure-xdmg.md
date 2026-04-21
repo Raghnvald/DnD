@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Armor of Acid Resistance
 Rüstung: Leicht, Mittel oder Schwer
 tags:

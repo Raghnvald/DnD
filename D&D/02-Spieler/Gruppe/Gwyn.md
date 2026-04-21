@@ -1,17 +1,17 @@
 ---
-Bezeichnung: Gwyn
-Rasse: Vulpin
-Klasse: Schurke
-Unterklasse: Seelenklinge
-Level: 10
-hp: 67
-ac: 16
-modifier: 5
-pW: 10+5
-ZR: n/v
-Talente: Aufmerksam
+Bezeichnung: "Waffe:"
 tags:
   - player
+ac: 16
+hp: 67
+Klasse: Schurke
+Level: 10
+modifier: 5
+pW: 10+5
+Rasse: Vulpin
+Talente: Aufmerksam
+Unterklasse: Seelenklinge
+ZR: n/v
 ---
 passive Weisheit 10
 
@@ -28,3 +28,7 @@ Du erhältst einen Bonus von +3 auf Angriffs- und Schadenswürfe, die mit dieser
 ---
 
 Hewards Praktischer Rucksack
+
+---
+
+Hat einen Flammenschädel in einer von Astors Matroschka-Puppen eingesperrt und im Rucksack 

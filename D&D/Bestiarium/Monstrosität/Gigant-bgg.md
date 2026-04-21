@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/bgg
-  - Monster/HG/20
-  - Monster/Größe/Gigantisch
-  - Monster/Typ/Monstrosität
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Gigant
+tags:
+  - Monster/Größe/Gigantisch
+  - Monster/HG/20
+  - Monster/Typ/Monstrosität
+  - Quelle/5e/bgg
 aliases:
   - Gigant
 ---

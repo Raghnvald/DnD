@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-reward
+Bezeichnung: Charm of Euryale
 tags:
-  - Quelle/5e/bmt
   - Kompendium/Belohnung/charm
+  - Quelle/5e/bmt
 aliases:
   - Charm of Euryale
 ---

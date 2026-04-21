@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-race
+Bezeichnung: Orc
 tags:
   - Quelle/5e/erlw
   - Rasse/orc
@@ -9,7 +8,6 @@ aliases:
 ---
 # Orc
 *Source: Eberron: Rising from the Last War p. 31*  
-
 
 - **Ability Scores**: str +2 con +1
 - **Size**: Medium

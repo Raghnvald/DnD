@@ -1,6 +1,9 @@
 ---
-tags: [Quelle/5e/phb]
-aliases: ["Half-Elf"]
+Bezeichnung: Halbelf
+tags:
+  - Quelle/5e/phb
+aliases:
+  - "Half-Elf"
 ---
 # Halbelf
 *Quelle: SRD / Grundregelwerk*  

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Distribution by Rarity; Magic Items Awarded by Tier
 tags:
   - Quelle/5e/xge
 aliases:

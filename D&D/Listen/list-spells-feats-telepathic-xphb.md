@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Telepathic
 tags:
   - Zauber/list/feat/telepathic
 aliases:

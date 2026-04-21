@@ -1,10 +1,9 @@
 ---
+Bezeichnung: Gift of Alacrity
 Zaubergrad: 1
-cssclasses:
-  - json5e-spell
 tags:
-  - Quelle/5e/egw
   - Kompendium/Talent/fey-touched
+  - Quelle/5e/egw
   - Zauber/Grad/1
   - Zauber/Schule/Erkenntnis
 aliases:
@@ -12,7 +11,6 @@ aliases:
 ---
 # Gift of Alacrity
 *1st-level, Divination*  
-
 
 - **Casting time:** 1 minute
 - **Range:** Touch

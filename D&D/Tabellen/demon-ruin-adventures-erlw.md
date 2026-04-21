@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Demon Ruin Adventures
 tags:
   - Quelle/5e/erlw
 aliases:

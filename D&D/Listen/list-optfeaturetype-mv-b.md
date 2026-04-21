@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Maneuver, Battle Master
 tags:
   - Quelle/5e/phb
 aliases:

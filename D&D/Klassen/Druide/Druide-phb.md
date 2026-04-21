@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-class
+Bezeichnung: Druide
 tags:
   - Klasse/Druide
   - Quelle/5e/phb
@@ -51,8 +50,8 @@ aliases:
 
 - **Rüstungen**: [[Gegenstandsarten-phb#Leichte Rüstung|Leichte Rüstung]], [[Gegenstandsarten-phb#Mittelschwere Rüstung|Mittelschwere Rüstung]], [[Gegenstandsarten-phb#Schild|Schilde]] (Druiden tragen keine Rüstungen oder Schilde, die aus Metall sind)
 - **Waffen**: [[Dolch-phb|Dolche]], [[Kampfstab-phb|Kampfstäbe]], [[Knüppel-phb|Knüppel]], [[Krummsäbel-phb|Krummsäbel]], [[Schleuder-phb|Schleudern]], [[Sichel-phb|Sicheln]], [[Speer-phb|Speere]], [[Streitkolben-phb|Streitkolben]], [[Wurfpfeil-phb|Wurfpfeile]] und [[Wurfspeer-phb|Wurfspeere]]
-- **Werkzeuge**: [[Kräuterkundeausrüstung-phb|Kräuterkunde-Ausrüstung]] 
-- **Rettungswürfe**: Intelligenz, Weisheit
+- **Werkzeuge**: [[Kräuterkundeausrüstung-phb|Kräuterkunde-Ausrüstung]] <br><br>
+- **Rettungswürfe**: Intelligenz und Weisheit
 - **Fertigkeiten**: zwei nach Wahl: [[01-Spielleiter/Fertigkeiten-phb#Arkane Kunde|Arkane Kunde]], [[01-Spielleiter/Fertigkeiten-phb#Heilkunde|Heilkunde]], [[01-Spielleiter/Fertigkeiten-phb#Mit Tieren umgehen|Mit Tieren umgehen]], [[01-Spielleiter/Fertigkeiten-phb#Motiv erkennen|Motiv erkennen]], [[01-Spielleiter/Fertigkeiten-phb#Naturkunde|Naturkunde]], [[01-Spielleiter/Fertigkeiten-phb#Religion|Religion]], [[01-Spielleiter/Fertigkeiten-phb#Überlebenskunst|Überlebenskunst]], [[01-Spielleiter/Fertigkeiten-phb#Wahrnehmung|Wahrnehmung]] 
 
 ## Ausrüstung
@@ -65,13 +64,13 @@ Du beginnst mit der folgenden Ausrüstung, zusätzlich zu der, die du durch dein
 
 Alternatively, you may start with 2d4 × 10 gp to buy your own equipment.
 
-## Multiclassing Druid
+## Klassenkombination Druide
 
-**Ability Score Minimum:** Wisdom 13
+**Minimaler Attributswert:** Weisheit 13
 
 When you gain a level in a class other than your first, you gain only some of that class's starting proficiencies.
 
-- **Armor**: [light armor](/3-Mechanics/CLI/item-types.md#Light%20Armor), [medium armor](/3-Mechanics/CLI/item-types.md#Medium%20Armor), [shields](/3-Mechanics/CLI/items/shield.md) (druids will not wear armor or use shields made of metal)
+- **Rüstungen**: [[Gegenstandsarten-phb#Leichte Rüstung|Leichte Rüstung]], [[Gegenstandsarten-phb#Mittelschwere Rüstung|Mittelschwere Rüstung]], [[Gegenstandsarten-phb#Schild|Schilde]] (Druiden tragen keine Rüstungen oder Schilde, die aus Metall sind)
 
 ## Druide
 

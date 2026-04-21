@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Roleplaying a Beholder; Beholder Bonds
 tags:
   - Quelle/5e/vgm
 aliases:

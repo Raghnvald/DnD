@@ -1,7 +1,8 @@
 ---
+Bezeichnung: Great Old One Patron
 tags:
-  - Quelle/5e/xphb
   - Klasse/Hexenmeister/great-old-one
+  - Quelle/5e/xphb
 aliases:
   - Great Old One Patron
 ---
@@ -39,7 +40,6 @@ aliases:
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 

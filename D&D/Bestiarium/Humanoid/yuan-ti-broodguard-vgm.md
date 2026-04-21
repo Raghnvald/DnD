@@ -1,16 +1,15 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/vgm
-  - Monster/HG/2
-  - Monster/Habitat/Wüste
-  - Monster/Habitat/Wald
-  - Monster/Habitat/Unterreich
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/yuan-ti
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Yuan-ti Broodguard
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Unterreich
+  - Monster/Habitat/Wald
+  - Monster/Habitat/Wüste
+  - Monster/HG/2
+  - Monster/Typ/Humanoid/yuan-ti
+  - Quelle/5e/vgm
 aliases:
   - Yuan-ti Broodguard
 ---

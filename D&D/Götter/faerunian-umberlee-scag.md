@@ -1,15 +1,14 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Umberlee
 tags:
-  - Quelle/5e/scag
-  - Kompendium/Götter/faerunian
   - Kompendium/Götter/Domäne/tempest
+  - Kompendium/Götter/faerunian
+  - Quelle/5e/scag
 aliases:
-  - Umberlee
   - The Bitch Queen
   - The Queen of the Depths
   - The Wavemother
+  - Umberlee
 ---
 # Umberlee
 *Source: Sword Coast Adventurer's Guide p. 21* 

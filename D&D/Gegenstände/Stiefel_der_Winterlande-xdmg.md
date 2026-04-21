@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Boots of the Winterlands
 tags:
   - Gegenstand/Einstimmung/required

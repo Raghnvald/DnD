@@ -1,5 +1,5 @@
 ---
-cssclasses: json5e-note
+Bezeichnung: Campaign Overview
 tags:
   - Quelle/5e/rot
 aliases:

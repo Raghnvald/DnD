@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Gruul Character Goals; Gruul Assignments
 tags:
   - Quelle/5e/ggr
 aliases:

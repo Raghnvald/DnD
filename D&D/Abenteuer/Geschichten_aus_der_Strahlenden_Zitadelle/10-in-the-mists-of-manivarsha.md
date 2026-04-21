@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: In the Mists of Manivarsha
 tags:
   - Quelle/5e/jttrc
 aliases:

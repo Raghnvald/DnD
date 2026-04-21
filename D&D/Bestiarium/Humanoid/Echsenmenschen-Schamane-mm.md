@@ -1,15 +1,14 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mm
-  - Monster/HG/2
-  - Monster/Habitat/Wald
-  - Monster/Habitat/Sumpf
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/lizardfolk
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Lizardfolk Shaman
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Sumpf
+  - Monster/Habitat/Wald
+  - Monster/HG/2
+  - Monster/Typ/Humanoid/lizardfolk
+  - Quelle/5e/mm
 aliases:
   - Lizardfolk Shaman
 ---
@@ -51,7 +50,6 @@ Lizardfolk speak Draconic, which they are thought to have learned from dragons i
 > [!quote] A quote from A merchant's account of his experience with the lizardfolk tribes of the Lizard Marsh  
 > 
 > In all my dealings with the lizardfolk, I was never able to tell what they were thinking. Their reptilian eyes belied no hint of their intentions. I gave them supplies. They gave me the willies.
-
 
 ```statblock
 "name": "Lizardfolk Shaman"

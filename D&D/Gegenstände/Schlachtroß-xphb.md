@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Warhorse
 tags:
   - Gegenstand/Ausrüstung/Reit-und-Lastentier

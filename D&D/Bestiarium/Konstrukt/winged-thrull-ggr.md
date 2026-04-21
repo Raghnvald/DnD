@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/ggr
-  - Monster/HG/1-2
-  - Monster/Größe/Klein
-  - Monster/Typ/Konstrukt
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Winged Thrull
+tags:
+  - Monster/Größe/Klein
+  - Monster/HG/1-2
+  - Monster/Typ/Konstrukt
+  - Quelle/5e/ggr
 aliases:
   - Winged Thrull
 ---

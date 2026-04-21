@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-race
+Bezeichnung: Tiefling (Baalzebul)
 tags:
   - Quelle/5e/mtf
   - Rasse/tiefling/baalzebul

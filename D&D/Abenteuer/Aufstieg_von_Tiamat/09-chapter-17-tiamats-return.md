@@ -1,5 +1,5 @@
 ---
-cssclasses: json5e-note
+Bezeichnung: "Chapter 17: Tiamat's Return"
 tags:
   - Quelle/5e/rot
 aliases:

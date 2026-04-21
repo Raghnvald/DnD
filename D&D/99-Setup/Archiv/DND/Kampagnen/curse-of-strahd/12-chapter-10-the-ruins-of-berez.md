@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Chapter 10: The Ruins of Berez"
 tags:
   - Quelle/5e/cos
 aliases:

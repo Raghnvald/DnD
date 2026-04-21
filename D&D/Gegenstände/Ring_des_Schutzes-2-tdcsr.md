@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: +2 Ring of Protection
 tags:
   - Gegenstand/Einstimmung/required

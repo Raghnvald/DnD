@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Path of the Wild Heart
 tags:
   - Zauber/list/subclass/path-of-the-wild-heart
 aliases:

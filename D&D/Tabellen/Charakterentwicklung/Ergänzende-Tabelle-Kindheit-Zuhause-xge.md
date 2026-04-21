@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Ergänzende Tabelle; Zuhause der Kindheit
 tags:
   - Quelle/5e/xge
 aliases:

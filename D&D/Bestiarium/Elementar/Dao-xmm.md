@@ -1,16 +1,15 @@
 ---
-cssclasses:
-  - json5e-monster
+statblock: inline
+statblock-link: "#^statblock"
+Bezeichnung: Dao
 tags:
-  - Quelle/5e/xmm
-  - Monster/HG/11
+  - Monster/Größe/Groß
   - Monster/Habitat/earth
   - Monster/Habitat/planar
   - Monster/Habitat/Unterreich
-  - Monster/Größe/Groß
+  - Monster/HG/11
   - Monster/Typ/Elementar/genie
-statblock: inline
-statblock-link: "#^statblock"
+  - Quelle/5e/xmm
 aliases:
   - Dao
 ---
@@ -31,7 +30,6 @@ Many dao call the Elemental Plane of Earth home. There, they create cities that 
 > [!quote] A quote from Gundren Rockseeker, Dwarf Treasure Hunter  
 > 
 > On the Elemental Plane of Earth, galaxies of gemstones twinkle over vaults of treasure. If dao are there, so is wealth worth hunting.
-
 
 ```statblock
 "name": "Dao (XMM)"

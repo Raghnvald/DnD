@@ -1,3 +1,7 @@
+---
+Bezeichnung: Meisterschaft schwerer Waffen
+---
+# Meisterschaft schwerer Waffen
 ### Meisterschaft schwerer Waffen
 
 Du hast gelernt, das Gewicht von Waffen zu deinem Vorteil zu nutzen, wodurch die Wucht deiner Hiebe verstärkt wird. Du erhältst die folgenden Vorzüge:

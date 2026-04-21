@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-class
+Bezeichnung: Artificer
 tags:
   - Klasse/Artifizient
   - Quelle/5e/tce

@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Dark Shard Amulet
 tags:
   - Gegenstand/Einstimmung/required

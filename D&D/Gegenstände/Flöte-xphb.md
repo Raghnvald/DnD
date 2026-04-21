@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Flute
 tags:
   - Gegenstand/Ausrüstung/Instrument

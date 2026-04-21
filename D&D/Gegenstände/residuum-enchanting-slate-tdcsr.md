@@ -1,10 +1,10 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Residuum Enchanting Slate
+Kategorie: Wundersamer Gegenstand 
 tags:
   - Gegenstand/Ausrüstung/Werkzeug
   - Gegenstand/Seltenheit/unbekannt/magic
+  - Gegenstand/wundersam
   - Quelle/5e/tdcsr
 aliases:
   - Residuum Enchanting Slate

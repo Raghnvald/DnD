@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-race
+Bezeichnung: Harengon
 tags:
   - Quelle/5e/mpmm
   - Rasse/harengon

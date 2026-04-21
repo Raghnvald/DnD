@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Appendix F: Handouts"
 tags:
   - Quelle/5e/cos
 aliases:

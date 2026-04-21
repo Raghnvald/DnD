@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Book of Cylinders
 tags:
   - Quelle/5e/cm
 aliases:

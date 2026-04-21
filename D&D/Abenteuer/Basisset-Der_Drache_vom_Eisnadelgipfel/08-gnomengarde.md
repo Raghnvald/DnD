@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Gnomengarde
 tags:
   - Quelle/5e/dip
 aliases:

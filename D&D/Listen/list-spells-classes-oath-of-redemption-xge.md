@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Oath of Redemption
 tags:
   - Zauber/list/subclass/oath-of-redemption
 aliases:

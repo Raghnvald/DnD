@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Dominate Monster
 Zaubergrad: 8
 tags:

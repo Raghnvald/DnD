@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Ring of Spell Storing
 tags:
   - Gegenstand/Einstimmung/required

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Woodland Manse
 tags:
   - Quelle/5e/dip
 aliases:

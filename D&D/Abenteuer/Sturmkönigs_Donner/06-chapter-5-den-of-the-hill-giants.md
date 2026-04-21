@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Chapter 5: Den of the Hill Giants"
 tags:
   - Quelle/5e/skt
 aliases:

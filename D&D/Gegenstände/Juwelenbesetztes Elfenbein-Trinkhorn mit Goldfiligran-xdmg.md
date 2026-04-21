@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Bejeweled ivory drinking horn with gold filigree
 tags:
   - Gegenstand/Ausrüstung/treasure-art-object

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Boon of the Stormborn
 tags:
   - Zauber/list/reward/boon-of-the-stormborn
 aliases:

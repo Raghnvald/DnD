@@ -1,10 +1,9 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Baervan Wildwanderer
 tags:
-  - Quelle/5e/scag
-  - Kompendium/Götter/gnomish
   - Kompendium/Götter/Domäne/nature
+  - Kompendium/Götter/gnomish
+  - Quelle/5e/scag
 aliases:
   - Baervan Wildwanderer
 ---

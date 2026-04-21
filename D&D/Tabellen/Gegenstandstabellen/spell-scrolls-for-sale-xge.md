@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spell Scrolls for Sale
 tags:
   - Quelle/5e/xge
 aliases:

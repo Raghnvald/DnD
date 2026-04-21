@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Banishing Smite
 tags:
   - Klasse/paladin

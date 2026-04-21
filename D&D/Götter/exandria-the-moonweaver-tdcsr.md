@@ -1,16 +1,15 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: The Moonweaver
 tags:
-  - Quelle/5e/tdcsr
-  - Kompendium/Götter/exandria
   - Kompendium/Götter/Domäne/arcana
   - Kompendium/Götter/Domäne/moon
   - Kompendium/Götter/Domäne/twilight
+  - Kompendium/Götter/exandria
+  - Quelle/5e/tdcsr
 aliases:
-  - The Moonweaver
-  - Sehanine
   - Moonbow
+  - Sehanine
+  - The Moonweaver
 ---
 # The Moonweaver
 *Source: Tal'Dorei Campaign Setting Reborn p. 33* 

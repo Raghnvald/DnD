@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Dungeon Dressing; Books, Scrolls, and Tomes
 tags:
   - Quelle/5e/dmg
 aliases:

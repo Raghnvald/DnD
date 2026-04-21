@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Cair Ophidian Flowers
 tags:
   - Quelle/5e/bmt
 aliases:

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Getting Into and Out of Armor; Donning and Doffing Armor
 tags:
   - Quelle/5e/phb
 aliases:

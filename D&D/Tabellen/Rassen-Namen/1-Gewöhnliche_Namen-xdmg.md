@@ -1,10 +1,10 @@
 ---
-Bezeichnung: Gewöhnliche Namen
+Bezeichnung: "1: Gewöhnliche Namen"
 Kategorie: Namen
 tags:
-- Quelle/5e/xdmg
+  - Quelle/5e/xdmg
 aliases:
-- 1: Common Names
+  - 1: Common Names
 ---
 # 1: Gewöhnliche Namen
 *Quellen: Spielleiterhandbuch (2024) S. 84* 

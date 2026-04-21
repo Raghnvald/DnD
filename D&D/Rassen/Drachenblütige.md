@@ -1,6 +1,9 @@
 ---
-tags: [Quelle/5e/phb]
-aliases: ["Dragonborn"]
+Bezeichnung: Drachenblütige
+tags:
+  - Quelle/5e/phb
+aliases:
+  - "Dragonborn"
 ---
 # Drachenblütige
 *Quelle: SRD / Grundregelwerk*  

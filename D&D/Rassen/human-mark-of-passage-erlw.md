@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-race
+Bezeichnung: Human (Mark of Passage)
 tags:
   - Quelle/5e/erlw
   - Rasse/human/mark-of-passage
@@ -9,7 +8,6 @@ aliases:
 ---
 # Human (Mark of Passage)
 *Source: Eberron: Rising from the Last War p. 46*  
-
 
 - **Ability Scores**: Apply +1 to one of Strength, Constitution, Intelligence, Wisdom, or Charisma.
 - **Size**: Medium

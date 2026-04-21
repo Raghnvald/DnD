@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Spirit Guardians
 Zaubergrad: 3
 tags:

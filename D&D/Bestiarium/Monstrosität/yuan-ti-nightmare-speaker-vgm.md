@@ -1,17 +1,16 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/vgm
-  - Monster/HG/4
-  - Monster/Habitat/Wüste
-  - Monster/Habitat/Wald
-  - Monster/Habitat/Unterreich
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Monstrosität/shapechanger
-  - Monster/Typ/Monstrosität/yuan-ti
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Yuan-ti Nightmare Speaker
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Unterreich
+  - Monster/Habitat/Wald
+  - Monster/Habitat/Wüste
+  - Monster/HG/4
+  - Monster/Typ/Monstrosität/shapechanger
+  - Monster/Typ/Monstrosität/yuan-ti
+  - Quelle/5e/vgm
 aliases:
   - Yuan-ti Nightmare Speaker
 ---
@@ -35,7 +34,6 @@ This malison is the type that has a human head and upper body with a serpentine 
 > [!quote] A quote from Elminster  
 > 
 > Ye almost certainly would not.
-
 
 ```statblock
 "name": "Yuan-ti Nightmare Speaker (VGM)"

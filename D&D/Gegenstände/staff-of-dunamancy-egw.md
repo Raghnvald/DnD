@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Staff of Dunamancy
 tags:
   - Gegenstand/Einstimmung/required

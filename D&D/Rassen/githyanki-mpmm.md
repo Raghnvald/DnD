@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-race
+Bezeichnung: Githyanki
 tags:
   - Quelle/5e/mpmm
   - Rasse/githyanki

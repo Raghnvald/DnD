@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Fire Absorbing Tattoo
+Kategorie: Wundersamer Gegenstand
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten

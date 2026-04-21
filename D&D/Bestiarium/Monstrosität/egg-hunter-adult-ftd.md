@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/ftd
-  - Monster/HG/5
-  - Monster/Größe/Klein
-  - Monster/Typ/Monstrosität
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Egg Hunter Adult
+tags:
+  - Monster/Größe/Klein
+  - Monster/HG/5
+  - Monster/Typ/Monstrosität
+  - Quelle/5e/ftd
 aliases:
   - Egg Hunter Adult
 ---

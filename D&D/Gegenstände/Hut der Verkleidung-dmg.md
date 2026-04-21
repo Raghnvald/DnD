@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Hat of Disguise
 tags:
   - Gegenstand/Einstimmung/required

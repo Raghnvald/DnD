@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Snilloc's Snowball Swarm
+Bezeichnung: Snillocs Schneeballschwarm
 Zaubergrad: 2
 Zeitaufwand: 1 Aktion
 Reichweite: 27 Meter
@@ -14,8 +14,8 @@ tags:
   - Klasse/Schurke/Arkaner-Betrüger
   - Klasse/Zauberer
   - Quelle/5e/xge
-  - Subklasse/Mystischer-Ritter
   - Subklasse/evoker
+  - Subklasse/Mystischer-Ritter
   - Zauber/Grad/2
   - Zauber/Schule/Hervorrufung
 classes:

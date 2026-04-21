@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Stab der Verteidigung
+Kategorie: Zauberstecken
 tags:
   - Gegenstand/Einstimmung
   - Gegenstand/Seltenheit/selten

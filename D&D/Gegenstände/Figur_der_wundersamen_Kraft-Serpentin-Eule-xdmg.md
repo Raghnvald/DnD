@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Figurine of Wondrous Power, Serpentine Owl
 tags:
   - Gegenstand/Seltenheit/selten

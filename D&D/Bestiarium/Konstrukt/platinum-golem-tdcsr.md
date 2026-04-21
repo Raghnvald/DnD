@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/tdcsr
-  - Monster/HG/16
-  - Monster/Größe/Groß
-  - Monster/Typ/Konstrukt
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Platinum Golem
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/16
+  - Monster/Typ/Konstrukt
+  - Quelle/5e/tdcsr
 aliases:
   - Platinum Golem
 ---

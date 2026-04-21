@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-race
+Bezeichnung: Halfling (Mark of Healing)
 tags:
   - Quelle/5e/erlw
   - Rasse/halfling/mark-of-healing
@@ -9,7 +8,6 @@ aliases:
 ---
 # Halfling (Mark of Healing)
 *Source: Eberron: Rising from the Last War p. 43*  
-
 
 - **Ability Scores**: wis +1
 - **Size**: Small

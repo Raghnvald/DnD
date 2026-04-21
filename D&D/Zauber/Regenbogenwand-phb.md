@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Prismatic Wall
 Zaubergrad: 9
 tags:

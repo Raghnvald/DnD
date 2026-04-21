@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Yuan-Ti
 tags:
   - Zauber/list/race/yuan-ti
 aliases:

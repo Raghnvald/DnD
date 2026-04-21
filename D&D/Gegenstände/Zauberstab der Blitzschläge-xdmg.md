@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Wand of Lightning Bolts
 tags:
   - Gegenstand/Einstimmung/required

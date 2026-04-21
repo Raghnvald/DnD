@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Zwergische Ritterrüstung
+Bezeichnung: Dwarven Plate
 Kategorie: Rüstung
 Rüstung: Schwer
 Eigenschaften: /

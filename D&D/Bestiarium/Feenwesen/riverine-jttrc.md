@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/jttrc
-  - Monster/HG/12
-  - Monster/Größe/Groß
-  - Monster/Typ/Fee
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Riverine
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/12
+  - Monster/Typ/Fee
+  - Quelle/5e/jttrc
 aliases:
   - Riverine
 ---

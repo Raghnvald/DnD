@@ -1,7 +1,5 @@
 ---
-cssclasses:
-  - json5e-spell
-Bezeichnung: Nystul's Magic Aura
+Bezeichnung: "Nystul's Magic Aura"
 Zaubergrad: 2
 tags:
   - Klasse/Barde/Magische-Geheimnisse

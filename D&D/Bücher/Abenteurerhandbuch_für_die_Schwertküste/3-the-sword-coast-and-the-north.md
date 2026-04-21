@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: The Sword Coast and the North
 tags:
   - Quelle/5e/scag
 aliases:

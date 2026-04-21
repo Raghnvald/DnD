@@ -1,7 +1,7 @@
 ---
 statblock: inline
 statblock-link: "#^statblock"
-Bezeichnung: Chishinix' Kopf
+Bezeichnung: "Chishinix' Kopf"
 Kategorie: Aberration
 Größe: Winzig
 HG: 3

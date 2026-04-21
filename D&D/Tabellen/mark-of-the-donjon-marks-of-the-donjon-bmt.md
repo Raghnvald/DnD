@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Mark of the Donjon; Marks of the Donjon
 tags:
   - Quelle/5e/bmt
 aliases:

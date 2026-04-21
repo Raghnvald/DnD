@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Druid Spells
 tags:
   - Zauber/list/class/druid
 aliases:

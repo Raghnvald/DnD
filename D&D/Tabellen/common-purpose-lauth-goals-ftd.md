@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Common Purpose; Lauth Goals
 tags:
   - Quelle/5e/ftd
 aliases:

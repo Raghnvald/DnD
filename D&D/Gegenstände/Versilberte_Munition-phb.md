@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Versilberte Munition
+Bezeichnung: Silvered Ammunition
 Kategorie: Munition
 tags:
   - Gegenstand/Ausrüstung/ammunition

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Uncanny Phenomena
 tags:
   - Quelle/5e/egw
 aliases:

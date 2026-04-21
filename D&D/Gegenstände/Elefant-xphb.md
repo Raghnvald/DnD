@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Elephant
 tags:
   - Gegenstand/Ausrüstung/Reit-und-Lastentier

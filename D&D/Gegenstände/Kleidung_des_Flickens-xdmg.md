@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Clothes of Mending
 tags:
   - Gegenstand/Seltenheit/gewöhnlich

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-race
+Bezeichnung: Lizardfolk
 tags:
   - Quelle/5e/mpmm
   - Rasse/lizardfolk

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-race
+Bezeichnung: Dragonborn (Chromatic)
 tags:
   - Quelle/5e/ftd
   - Rasse/dragonborn/chromatic

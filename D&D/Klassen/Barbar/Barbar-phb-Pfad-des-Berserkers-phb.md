@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-class
+Bezeichnung: Path of the Berserker
 tags:
-  - Quelle/5e/phb
   - Klasse/Barbar/Berserker
+  - Quelle/5e/phb
 aliases:
   - Path of the Berserker
 ---
@@ -41,7 +40,6 @@ aliases:
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 

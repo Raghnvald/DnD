@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Feygrove; Visions of Ioun
 tags:
   - Quelle/5e/bmt
 aliases:

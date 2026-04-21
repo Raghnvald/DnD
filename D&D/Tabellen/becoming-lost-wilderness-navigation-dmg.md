@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Becoming Lost; Wilderness Navigation
 tags:
   - Quelle/5e/dmg
 aliases:

@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Sword Burst
+Bezeichnung: Schwertexplosion
 Zaubergrad: 0 (Zaubertrick)
 Zeitaufwand: 1 Aktion
 Reichweite: 1,5 m
@@ -8,10 +8,10 @@ Wirkungsdauer: 1 Runde
 Angriff: GES
 Schaden: 1d6 Energie
 tags:
+  - Klasse/Artifizient
   - Klasse/Barde/Schule-des-Wissens
   - Klasse/Hexenmeister
   - Klasse/Magier
-  - Klasse/Artifizient
   - Klasse/Schurke/Arkaner-Betrüger
   - Klasse/Zauberer
   - Kompendium/Talent/artificer-initiate

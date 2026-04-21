@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-race
+Bezeichnung: Gnome (Rock)
 tags:
   - Quelle/5e/phb
   - Rasse/gnome/rock

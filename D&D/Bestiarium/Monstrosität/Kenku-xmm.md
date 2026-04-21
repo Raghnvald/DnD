@@ -1,17 +1,16 @@
 ---
-cssclasses:
-  - json5e-monster
+statblock: inline
+statblock-link: "#^statblock"
+Bezeichnung: Kenku
 tags:
-  - Quelle/5e/xmm
-  - Monster/HG/1-4
-  - Monster/Habitat/Wald
+  - Monster/Größe/Mittelgroß
   - Monster/Habitat/planar
   - Monster/Habitat/shadowfell
   - Monster/Habitat/Stadt
-  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Wald
+  - Monster/HG/1-4
   - Monster/Typ/Monstrosität
-statblock: inline
-statblock-link: "#^statblock"
+  - Quelle/5e/xmm
 aliases:
   - Kenku
 ---

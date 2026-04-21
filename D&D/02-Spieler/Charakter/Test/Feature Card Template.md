@@ -1,3 +1,7 @@
+---
+Bezeichnung: Feature Card Template
+---
+# Feature Card Template
 
 > [!recite|nmg]+ Feature Example
 > # Feature

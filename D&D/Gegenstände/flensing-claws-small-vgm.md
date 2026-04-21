@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Flensing Claws (Small)
 tags:
   - Gegenstand/Seltenheit/unbekannt

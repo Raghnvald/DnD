@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Faerie Dust
 tags:
   - Gegenstand/Seltenheit/unbekannt/magic

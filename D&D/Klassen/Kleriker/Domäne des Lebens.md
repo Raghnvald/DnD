@@ -1,11 +1,12 @@
 ---
 prefer-view:
   - edit-source read
+Bezeichnung: Domäne des Lebens
 status:
   - completed
 tags:
-  - Kompendium/Götter/Domäne/Leben
   - Klasse/Kleriker
+  - Kompendium/Götter/Domäne/Leben
   - Quelle/5e/phb
 aliases:
   - Life Domain

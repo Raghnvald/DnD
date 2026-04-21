@@ -1,4 +1,5 @@
 ---
+Bezeichnung: "Appendix B: Maps"
 tags:
   - Quelle/5e/xdmg
 aliases:

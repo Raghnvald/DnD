@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Box of turquoise animal figurines
 tags:
   - Gegenstand/Ausrüstung/treasure-art-object

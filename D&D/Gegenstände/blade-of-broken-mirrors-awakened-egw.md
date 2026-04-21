@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Blade of Broken Mirrors (Awakened)
 Kategorie: Einfache Nahkampfwaffe
 tags:

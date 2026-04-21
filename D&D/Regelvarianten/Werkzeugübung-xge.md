@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Tool Proficiencies
 tags:
   - Quelle/5e/xge
 aliases:

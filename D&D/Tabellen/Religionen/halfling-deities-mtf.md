@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Halfling Deities
 tags:
   - Quelle/5e/mtf
 aliases:

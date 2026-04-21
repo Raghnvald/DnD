@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Human Names – Spanish, Female
 tags:
   - Quelle/5e/xge
 aliases:

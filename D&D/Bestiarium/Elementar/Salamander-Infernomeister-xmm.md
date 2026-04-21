@@ -1,16 +1,15 @@
 ---
-cssclasses:
-  - json5e-monster
+statblock: inline
+statblock-link: "#^statblock"
+Bezeichnung: Salamander Inferno Master
 tags:
-  - Quelle/5e/xmm
-  - Monster/HG/15
+  - Monster/Größe/Groß
   - Monster/Habitat/fire
   - Monster/Habitat/planar
   - Monster/Habitat/Unterreich
-  - Monster/Größe/Groß
+  - Monster/HG/15
   - Monster/Typ/Elementar
-statblock: inline
-statblock-link: "#^statblock"
+  - Quelle/5e/xmm
 aliases:
   - Salamander Inferno Master
 ---
@@ -33,7 +32,6 @@ Salamanders are typically content to dwell on the Elemental Plane of Fire, creat
 > [!quote] A quote from Filiag Highthumbs  
 > 
 > The salamanders of the Elemental Plane of Fire delight in meeting visitors from other realms. For them, every stranger is a potential addition to their fiery artistry. Don't fall for their flattery, no matter how beautifully they say you'll burn.
-
 
 ```statblock
 "name": "Salamander Inferno Master (XMM)"

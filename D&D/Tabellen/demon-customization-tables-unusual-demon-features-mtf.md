@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Demon Customization Tables; Unusual Demon Features
 tags:
   - Quelle/5e/mtf
 aliases:

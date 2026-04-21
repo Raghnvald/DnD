@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Magic Item Rarity
 tags:
   - Quelle/5e/dmg
 aliases:

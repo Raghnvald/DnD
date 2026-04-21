@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for The Great Old One
 tags:
   - Zauber/list/subclass/the-great-old-one
 aliases:

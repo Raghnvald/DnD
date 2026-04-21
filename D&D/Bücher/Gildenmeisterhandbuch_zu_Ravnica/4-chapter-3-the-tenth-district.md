@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Chapter 3: The Tenth District"
 tags:
   - Quelle/5e/ggr
 aliases:

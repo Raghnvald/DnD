@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Playing Cards
 tags:
   - Gegenstand/Ausrüstung/Spielset

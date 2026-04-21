@@ -1,6 +1,6 @@
 ---
-cssclasses: json5e-item
 Bezeichnung: Pfeile (20)
+Kategorie: Munition
 tags:
   - Gegenstand/Eigenschaft/Munition
   - Gegenstand/Seltenheit/keine

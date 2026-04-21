@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Appendix D: Magic"
 tags:
   - Quelle/5e/idrotf
 aliases:

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Sharn Watch Assignments
 tags:
   - Quelle/5e/erlw
 aliases:

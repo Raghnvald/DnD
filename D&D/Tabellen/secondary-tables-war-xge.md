@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Secondary Tables; War
 tags:
   - Quelle/5e/xge
 aliases:

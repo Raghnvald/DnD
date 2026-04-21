@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: "Quaal's Feather Token, Swan Boat"
 tags:
   - Gegenstand/Seltenheit/selten

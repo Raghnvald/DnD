@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/idrotf
-  - Monster/HG/0
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Tier
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Seal
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/0
+  - Monster/Typ/Tier
+  - Quelle/5e/idrotf
 aliases:
   - Seal
 ---

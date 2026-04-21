@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Dominate Beast
 Zaubergrad: 4
 tags:

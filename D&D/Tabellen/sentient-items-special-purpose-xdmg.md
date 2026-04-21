@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Sentient Item's Special Purpose"
 tags:
   - Quelle/5e/xdmg
 aliases:

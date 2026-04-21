@@ -1,0 +1,16 @@
+---
+Bezeichnung: Ring of Lightning Resistance
+tags:
+  - Gegenstand/Seltenheit/selten
+  - Gegenstand/wundersam/Ring
+  - Quelle/5e/xdmg
+aliases:
+  - Ring of Lightning Resistance
+linter-yaml-title-alias: Ring of Lightning Resistance
+---
+# Ring of Lightning Resistance
+*Ring, rare*  
+
+You have [Resistance](/3-Mechanics/CLI/variant-rules/resistance-xphb.md) to lightning damage while wearing this ring. The ring is set with citrine.
+
+*Source: Dungeon Master's Guide (2024) p. 294. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

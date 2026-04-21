@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Gold cup set with emeralds
 tags:
   - Gegenstand/Ausrüstung/treasure-art-object

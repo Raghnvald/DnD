@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-class
+Bezeichnung: Ranger
 tags:
   - Klasse/Waldläufer
   - Quelle/5e/xphb

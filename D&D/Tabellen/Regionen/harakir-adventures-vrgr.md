@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Har'Akir Adventures"
 tags:
   - Quelle/5e/vrgr
 aliases:

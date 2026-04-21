@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Lords of the Nine; Layers and Rulers of the Nine Hells
 tags:
   - Quelle/5e/mtf
 aliases:

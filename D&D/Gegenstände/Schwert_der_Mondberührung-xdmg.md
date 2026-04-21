@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Moon-Touched Sword
 Kategorie: Nahkampf-Kriegswaffe (generisch)
 tags:

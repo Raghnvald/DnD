@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/ggr
-  - Monster/HG/10
-  - Monster/Größe/Riesig
-  - Monster/Typ/Riese
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Sunder Shaman
+tags:
+  - Monster/Größe/Riesig
+  - Monster/HG/10
+  - Monster/Typ/Riese
+  - Quelle/5e/ggr
 aliases:
   - Sunder Shaman
 ---

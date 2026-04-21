@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Conjure Woodland Beings
 Zaubergrad: 4
 tags:

@@ -1,10 +1,9 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Rill Cleverthrush
 tags:
-  - Quelle/5e/mtf
-  - Kompendium/Götter/gnome
   - Kompendium/Götter/Domäne/knowledge
+  - Kompendium/Götter/gnome
+  - Quelle/5e/mtf
 aliases:
   - Rill Cleverthrush
 ---

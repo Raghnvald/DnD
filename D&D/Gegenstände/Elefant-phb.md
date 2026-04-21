@@ -4,15 +4,15 @@ Kategorie: Reit- und Lastentier
 Eigenschaften: /
 Kst.: 200 GM
 Gew.: /
-Bew.: 12 m
-Traglast: 1.320 Pfd.
 tags:
   - Gegenstand/Ausrüstung/Reit-und-Lastentier
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
   - Elephant
+Bew.: 12 m
 linter-yaml-title-alias: Elephant
+Traglast: 1.320 Pfd.
 ---
 # Elefant
 *Reit- und Lasttiere*  

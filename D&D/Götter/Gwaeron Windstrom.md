@@ -1,12 +1,12 @@
 ---
-cssclasses: json5e-deity
+Bezeichnung: Gwaeron Windstrom, Gott des Spurenlesens
 tags:
-  - Quelle/5e/phb
   - Kompendium/Götter
+  - Kompendium/Götter/Domäne/Natur
+  - Kompendium/Götter/Domäne/Wissen
   - Kompendium/Götter/Gesinnung/Neutral_Gut
   - Kompendium/Götter/Pantheon/Faerun
-  - Kompendium/Götter/Domäne/Wissen
-  - Kompendium/Götter/Domäne/Natur
+  - Quelle/5e/phb
 aliases:
   - Gwaeron Windstrom
 ---

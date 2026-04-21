@@ -1,8 +1,10 @@
 ---
 Bezeichnung: Elemental Essence Shard (Fire)
+Kategorie: Wundersamer Gegenstand 
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
+  - Gegenstand/wundersam
   - Quelle/5e/tce
 aliases:
   - Elemental Essence Shard (Fire)

@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-hazard
+Bezeichnung: Thin Ice
 tags:
-  - Quelle/5e/dmg
   - Kompendium/Bedrohung/wld
+  - Quelle/5e/dmg
 aliases:
   - Thin Ice
 ---

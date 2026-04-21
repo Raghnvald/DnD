@@ -1,6 +1,7 @@
 ---
+statblock: inline
+statblock-link: "#^statblock"
 Bezeichnung: Nezznar die Schwarze Spinne
-Image: token/nezznar-the-spider-pabtso.webp
 Typ: Humanoid (Elf, Magier)
 Größe: Mittelgroß
 HG: 2
@@ -8,15 +9,14 @@ Habitat:
   - /
 status: completed
 tags:
-  - Quelle/5e/pabtso
-  - Monster/HG/2
   - Monster/Größe/Mittelgroß
+  - Monster/HG/2
   - Monster/Typ/Humanoid/Elf
   - Monster/Typ/Humanoid/Magier
-statblock: inline
-statblock-link: "#^statblock"
+  - Quelle/5e/pabtso
 aliases:
   - Nezznar the Spider
+Image: token/nezznar-the-spider-pabtso.webp
 ---
 # Nezznar die Schwarze Spinne
 *Quellen: Die Tiefen von Phandelver: Der zersplitterte Obelisk S. 74*  

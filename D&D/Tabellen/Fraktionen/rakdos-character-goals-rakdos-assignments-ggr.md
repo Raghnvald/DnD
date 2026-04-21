@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Rakdos Character Goals; Rakdos Assignments
 tags:
   - Quelle/5e/ggr
 aliases:

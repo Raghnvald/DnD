@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-background
+Bezeichnung: Clasp Member
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/tdcsr

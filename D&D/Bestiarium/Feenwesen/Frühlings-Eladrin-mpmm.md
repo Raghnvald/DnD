@@ -1,15 +1,14 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mpmm
-  - Monster/HG/10
-  - Monster/Habitat/Wald
-  - Monster/Habitat/Grasland
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Fee/Elf
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Spring Eladrin
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Grasland
+  - Monster/Habitat/Wald
+  - Monster/HG/10
+  - Monster/Typ/Fee/Elf
+  - Quelle/5e/mpmm
 aliases:
   - Spring Eladrin
 ---

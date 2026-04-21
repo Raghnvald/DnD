@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Flaschenverschluss-Korken, geprägt mit Blattgold und mit Amethysten besetzt
 tags:
   - Gegenstand/Ausrüstung/treasure-art-object

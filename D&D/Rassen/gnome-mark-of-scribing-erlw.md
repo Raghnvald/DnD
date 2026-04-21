@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-race
+Bezeichnung: Gnome (Mark of Scribing)
 tags:
   - Quelle/5e/erlw
   - Rasse/gnome/mark-of-scribing
@@ -9,7 +8,6 @@ aliases:
 ---
 # Gnome (Mark of Scribing)
 *Source: Eberron: Rising from the Last War p. 47*  
-
 
 - **Ability Scores**: cha +1
 - **Size**: Small

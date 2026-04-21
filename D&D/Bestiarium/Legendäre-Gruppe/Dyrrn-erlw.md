@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Dyrrn
 tags:
-  - Quelle/5e/erlw
   - Monster/legendary-group
+  - Quelle/5e/erlw
 aliases:
   - Dyrrn
 ---

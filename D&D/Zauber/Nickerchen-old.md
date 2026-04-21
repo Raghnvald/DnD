@@ -7,9 +7,9 @@ Wirkungsdauer: 10 Minuten
 Angriff: n/v
 Schaden: Verstärkung
 tags:
+  - Klasse/Artifizient
   - Klasse/Barde
   - Klasse/Magier
-  - Klasse/Artifizient
   - Klasse/Zauberer
   - Quelle/5e/xge
   - Zauber/Grad/3

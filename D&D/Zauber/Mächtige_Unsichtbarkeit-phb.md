@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Greater Invisibility
 Zaubergrad: 4
 tags:

@@ -1,11 +1,10 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Araleth Letheranil
 tags:
-  - Quelle/5e/mtf
-  - Kompendium/Götter/elven
   - Kompendium/Götter/Domäne/knowledge
   - Kompendium/Götter/Domäne/light
+  - Kompendium/Götter/elven
+  - Quelle/5e/mtf
 aliases:
   - Araleth Letheranil
 ---

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-background
+Bezeichnung: Cloistered Scholar
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/scag
@@ -9,7 +8,6 @@ aliases:
 ---
 # Cloistered Scholar
 *Source: Sword Coast Adventurer's Guide p. 146*  
-
 
 - **Skill Proficiencies.** [History](/3-Mechanics/CLI/skills.md#History), plus your choice of one from among [Arcana](/3-Mechanics/CLI/skills.md#Arcana), [Nature](/3-Mechanics/CLI/skills.md#Nature), and [Religion](/3-Mechanics/CLI/skills.md#Religion)  
 - **Languages.** any two of your choice  

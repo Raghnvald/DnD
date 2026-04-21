@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-race
+Bezeichnung: Zombie
 tags:
   - Quelle/5e/dmg
   - Rasse/zombie
@@ -9,7 +8,6 @@ aliases:
 ---
 # Zombie
 *Source: Dungeon Master's Guide p. 282*  
-
 
 - **Ability Scores**: str +1 con +2 int -6 wis -4 cha -4
 - **Type**: undead

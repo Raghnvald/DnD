@@ -1,11 +1,11 @@
 ---
-cssclasses: json5e-deity
+Bezeichnung: Mask, Gott der Diebe
 tags:
-  - Quelle/5e/phb
   - Kompendium/Götter
+  - Kompendium/Götter/Domäne/List
   - Kompendium/Götter/Gesinnung/Chaotisch_Neutral
   - Kompendium/Götter/Pantheon/Faerun
-  - Kompendium/Götter/Domäne/List
+  - Quelle/5e/phb
 aliases:
   - Mask
 ---

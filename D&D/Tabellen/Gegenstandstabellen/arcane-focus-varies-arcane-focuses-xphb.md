@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Arcane Focus (Varies); Arcane Focuses
 tags:
   - Quelle/5e/xphb
 aliases:

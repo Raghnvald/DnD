@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Finger of Death
 tags:
   - Klasse/Barde

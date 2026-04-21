@@ -1,7 +1,5 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Healer's Kit
+Bezeichnung: "Healer's Kit"
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Chapter 3: Character Classes"
 tags:
   - Quelle/5e/xphb
 aliases:

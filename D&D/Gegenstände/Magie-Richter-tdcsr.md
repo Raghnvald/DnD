@@ -1,7 +1,5 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Magician's Judge
+Bezeichnung: "Magician's Judge"
 Kategorie: Nahkampf-Kriegswaffe
 tags:
   - Gegenstand/Seltenheit/selten
@@ -9,7 +7,6 @@ tags:
   - Gegenstand/Waffe/Nahkampf
   - Quelle/5e/tdcsr
 aliases:
-  - Magician's Judge
   - Magician's Judge
 linter-yaml-title-alias: Magician's Judge
 ---

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "The Scrivener's Tale"
 tags:
   - Quelle/5e/cm
 aliases:

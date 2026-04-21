@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Githzerai Groups; Githzerai Mission Purpose
 tags:
   - Quelle/5e/mtf
 aliases:

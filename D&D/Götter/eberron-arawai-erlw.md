@@ -1,11 +1,10 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Arawai
 tags:
-  - Quelle/5e/erlw
-  - Kompendium/Götter/eberron
   - Kompendium/Götter/Domäne/life
   - Kompendium/Götter/Domäne/nature
+  - Kompendium/Götter/eberron
+  - Quelle/5e/erlw
 aliases:
   - Arawai
 ---

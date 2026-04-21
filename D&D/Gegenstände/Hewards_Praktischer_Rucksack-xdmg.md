@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Heward's Handy Haversack
+Bezeichnung: "Heward's Handy Haversack"
 tags:
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/xdmg

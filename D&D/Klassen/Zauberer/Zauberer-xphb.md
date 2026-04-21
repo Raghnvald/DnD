@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-class
+Bezeichnung: Sorcerer
 tags:
   - Klasse/Zauberer
   - Quelle/5e/xphb
@@ -54,7 +53,6 @@ aliases:
 - **Weapon Proficiencies**: Simple weapons
 
 **Starting Equipment:** *Choose A or B:* (A) [Spear](/3-Mechanics/CLI/items/spear-xphb.md), 2 [Daggers](/3-Mechanics/CLI/items/dagger-xphb.md), [Arcane Focus](/3-Mechanics/CLI/items/arcane-focus-xphb.md) ([crystal](/3-Mechanics/CLI/items/crystal-xphb.md)), [Dungeoneer's Pack](/3-Mechanics/CLI/items/dungeoneers-pack-xphb.md), and 28 GP; or (B) 50 GP
-
 
 ## Sorcerer
 

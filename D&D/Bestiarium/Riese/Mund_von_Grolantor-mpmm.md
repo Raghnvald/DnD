@@ -1,15 +1,14 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mpmm
-  - Monster/HG/6
-  - Monster/Habitat/Grasland
-  - Monster/Habitat/Hügel
-  - Monster/Größe/Riesig
-  - Monster/Typ/Riese/Hügelriese
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Mouth of Grolantor
+tags:
+  - Monster/Größe/Riesig
+  - Monster/Habitat/Grasland
+  - Monster/Habitat/Hügel
+  - Monster/HG/6
+  - Monster/Typ/Riese/Hügelriese
+  - Quelle/5e/mpmm
 aliases:
   - Mouth of Grolantor
 ---

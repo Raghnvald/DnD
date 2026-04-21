@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mpmm
-  - Monster/HG/12
-  - Monster/Habitat/Küste
-  - Monster/Größe/Riesig
-  - Monster/Typ/Riese
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Frost Giant Everlasting One
+tags:
+  - Monster/Größe/Riesig
+  - Monster/Habitat/Küste
+  - Monster/HG/12
+  - Monster/Typ/Riese
+  - Quelle/5e/mpmm
 aliases:
   - Frost Giant Everlasting One
 ---

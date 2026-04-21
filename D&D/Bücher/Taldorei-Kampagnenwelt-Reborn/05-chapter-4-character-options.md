@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Chapter 4: Character Options"
 tags:
   - Quelle/5e/tdcsr
 aliases:

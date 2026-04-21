@@ -1,11 +1,10 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Bane
 tags:
-  - Quelle/5e/dmg
   - Kompendium/Götter/dawn-war
   - Kompendium/Götter/Domäne/order
   - Kompendium/Götter/Domäne/war
+  - Quelle/5e/dmg
 aliases:
   - Bane
 ---

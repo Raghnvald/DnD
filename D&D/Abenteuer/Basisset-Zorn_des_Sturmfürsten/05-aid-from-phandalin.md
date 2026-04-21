@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Aid from Phandalin
 tags:
   - Quelle/5e/slw
 aliases:

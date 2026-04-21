@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Guardian of Faith
 Zaubergrad: 4
 tags:

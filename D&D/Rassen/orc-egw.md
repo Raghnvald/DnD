@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-race
+Bezeichnung: Orc
 tags:
   - Quelle/5e/egw
   - Rasse/orc
@@ -9,7 +8,6 @@ aliases:
 ---
 # Orc
 *Source: Explorer's Guide to Wildemount p. 178*  
-
 
 - **Ability Scores**: str +2 con +1
 - **Size**: Medium

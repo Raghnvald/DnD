@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Baldur's Gate Gazetteer"
 tags:
   - Quelle/5e/bgdia
 aliases:

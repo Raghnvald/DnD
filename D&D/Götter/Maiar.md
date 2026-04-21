@@ -1,11 +1,11 @@
 ---
-cssclasses: json5e-deity
+Bezeichnung: Maiar, Gott der Jagd
 tags:
-  - Quelle/5e/phb
   - Kompendium/Götter
+  - Kompendium/Götter/Domäne/Natur
   - Kompendium/Götter/Gesinnung/Chaotisch_Böse
   - Kompendium/Götter/Pantheon/Faerun
-  - Kompendium/Götter/Domäne/Natur
+  - Quelle/5e/phb
 aliases:
   - Maiar
 ---

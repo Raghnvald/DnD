@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Desert Encounters (Levels 1—4)
 tags:
   - Quelle/5e/xge
 aliases:

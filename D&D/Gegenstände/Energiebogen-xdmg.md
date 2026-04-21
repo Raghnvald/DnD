@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Energy Bow
 tags:
   - Gegenstand/Einstimmung/required

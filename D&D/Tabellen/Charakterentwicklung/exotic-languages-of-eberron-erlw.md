@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Exotic Languages of Eberron
 tags:
   - Quelle/5e/erlw
 aliases:

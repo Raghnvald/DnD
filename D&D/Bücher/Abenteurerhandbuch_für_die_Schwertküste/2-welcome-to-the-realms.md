@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Welcome to the Realms
 tags:
   - Quelle/5e/scag
 aliases:

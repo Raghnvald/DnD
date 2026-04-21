@@ -1,12 +1,11 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Pipes of the Sewers
 Kategorie: Wundersamer Gegenstand
 tags:
   - Gegenstand/Ausrüstung/Instrument
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/ungewöhnlich
+  - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
   - Pipes of the Sewers

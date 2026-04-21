@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Giant-Sized Schemes
 tags:
   - Quelle/5e/bgg
 aliases:

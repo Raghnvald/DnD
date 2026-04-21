@@ -1,10 +1,10 @@
 ---
-Bezeichnung: Basiseinrichtung hinzufügen
+Bezeichnung: Basiseinrichtungen hinzufügen
 Kategorie: Bastion
 tags:
-- Quelle/5e/xdmg
+  - Quelle/5e/xdmg
 aliases:
-- Adding Basic Facilities
+  - Adding Basic Facilities
 ---
 # Basiseinrichtungen hinzufügen
 *Quelle: Spielleiterhandbuch (2024), S. 335* 

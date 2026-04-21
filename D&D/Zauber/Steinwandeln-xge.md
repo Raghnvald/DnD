@@ -1,13 +1,11 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Transmute Rock
 Zaubergrad: 5
 tags:
+  - Klasse/Artifizient
   - Klasse/Barde
   - Klasse/Druide
   - Klasse/Magier
-  - Klasse/Artifizient
   - Quelle/5e/xge
   - Zauber/Grad/5
   - Zauber/Schule/Verwandlung

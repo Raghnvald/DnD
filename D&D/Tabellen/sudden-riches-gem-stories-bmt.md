@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Sudden Riches; Gem Stories
 tags:
   - Quelle/5e/bmt
 aliases:

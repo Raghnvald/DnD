@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/1-4
-  - Monster/Habitat/Stadt
-  - Monster/Größe/Klein
-  - Monster/Typ/Konstrukt
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Animated Flying Sword
+tags:
+  - Monster/Größe/Klein
+  - Monster/Habitat/Stadt
+  - Monster/HG/1-4
+  - Monster/Typ/Konstrukt
+  - Quelle/5e/xmm
 aliases:
   - Animated Flying Sword
 ---

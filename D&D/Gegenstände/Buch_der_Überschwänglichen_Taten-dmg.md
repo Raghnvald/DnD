@@ -1,8 +1,10 @@
 ---
 Bezeichnung: Book of Exalted Deeds
+Kategorie: Wundersamer Gegenstand
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/Artefakt
+  - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
   - Book of Exalted Deeds

@@ -5,6 +5,7 @@ tags:
   - Gegenstand/Ausrüstung/Instrument
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
+  - Gegenstand/wundersam
   - Quelle/5e/tce
 aliases:
   - Lyre of Building

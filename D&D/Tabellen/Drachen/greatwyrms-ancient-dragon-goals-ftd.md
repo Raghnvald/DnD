@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Greatwyrms; Ancient Dragon Goals
 tags:
   - Quelle/5e/ftd
 aliases:

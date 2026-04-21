@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Set of gold nesting dolls
 tags:
   - Gegenstand/Ausrüstung/treasure-art-object

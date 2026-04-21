@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Wee Jas
 tags:
-  - Quelle/5e/phb
-  - Kompendium/Götter/greyhawk
   - Kompendium/Götter/Domäne/arcana
   - Kompendium/Götter/Domäne/death
   - Kompendium/Götter/Domäne/grave
   - Kompendium/Götter/Domäne/knowledge
   - Kompendium/Götter/Domäne/order
+  - Kompendium/Götter/greyhawk
+  - Quelle/5e/phb
 aliases:
   - Wee Jas
 ---

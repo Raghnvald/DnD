@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Imbued Wood (Lamannian Oak)
 Kategorie: Wundersamer Gegenstand
 tags:

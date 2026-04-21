@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-feat
+Bezeichnung: Lunging Attack
 tags:
-  - Quelle/5e/phb
   - Kompendium/Optionales/mv-b
+  - Quelle/5e/phb
 aliases:
   - Lunging Attack
 ---

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Dreadful Word
 tags:
   - Zauber/list/optfeature/dreadful-word
 aliases:

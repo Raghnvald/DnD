@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/tftyp
-  - Monster/HG/9
-  - Monster/Größe/Riesig
-  - Monster/Typ/Riese
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Fire Giant Royal Headsman
+tags:
+  - Monster/Größe/Riesig
+  - Monster/HG/9
+  - Monster/Typ/Riese
+  - Quelle/5e/tftyp
 aliases:
   - Fire Giant Royal Headsman
 ---

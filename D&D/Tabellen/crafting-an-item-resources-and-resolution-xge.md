@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Crafting an Item; Resources and Resolution
 tags:
   - Quelle/5e/xge
 aliases:

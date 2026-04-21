@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Ätheressenz (Eingeatmet)
+Bezeichnung: Essence of Ether
 Kategorie: Gift
 Eigenschaften: Gift
 Kst.: 300 GM

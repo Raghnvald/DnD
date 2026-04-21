@@ -1,7 +1,5 @@
 ---
-cssclasses:
-  - json5e-spell
-Bezeichnung: Otiluke's Freezing Sphere
+Bezeichnung: "Otiluke's Freezing Sphere"
 Zaubergrad: 6
 tags:
   - Klasse/Barde/Magische-Geheimnisse

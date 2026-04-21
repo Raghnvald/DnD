@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Dragon as Schemer; Cross-Purposes
 tags:
   - Quelle/5e/ftd
 aliases:

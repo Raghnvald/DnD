@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-class
+Bezeichnung: Rogue
 tags:
   - Klasse/Schurke
   - Quelle/5e/xphb

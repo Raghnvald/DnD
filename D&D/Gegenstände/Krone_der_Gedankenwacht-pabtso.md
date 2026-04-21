@@ -1,8 +1,10 @@
 ---
 Bezeichnung: Mindguard Crown
+Kategorie: Wundersamer Gegenstand 
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
+  - Gegenstand/wundersam
   - Quelle/5e/pabtso
 aliases:
   - Mindguard Crown

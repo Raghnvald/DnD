@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Levels 5–10: Heroes of the Realm; Levels 5–10 Adventure Situations"
 tags:
   - Quelle/5e/xdmg
 aliases:

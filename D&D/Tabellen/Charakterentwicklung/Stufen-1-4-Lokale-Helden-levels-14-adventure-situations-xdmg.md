@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Levels 1–4: Local Heroes; Levels 1–4 Adventure Situations"
 tags:
   - Quelle/5e/xdmg
 aliases:

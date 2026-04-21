@@ -1,6 +1,6 @@
 ---
-cssclasses: json5e-item
 Bezeichnung: Umhang des Scharlatans
+Kategorie: Wundersamer Gegenstand
 tags:
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam

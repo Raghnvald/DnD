@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Barking Box
 tags:
   - Gegenstand/Seltenheit/unbekannt

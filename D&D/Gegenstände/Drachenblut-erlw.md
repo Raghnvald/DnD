@@ -1,7 +1,5 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Dragon's Blood
+Bezeichnung: "Dragon's Blood"
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/wundersam/other

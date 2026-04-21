@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-background
+Bezeichnung: Luxonborn (Acolyte)
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/egw
@@ -9,7 +8,6 @@ aliases:
 ---
 # Luxonborn (Acolyte)
 *Source: Explorer's Guide to Wildemount p. 203*  
-
 
 - **Skill Proficiencies.** [Insight](/3-Mechanics/CLI/skills.md#Insight), [Religion](/3-Mechanics/CLI/skills.md#Religion)  
 - **Languages.** Two of your choice  

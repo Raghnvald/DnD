@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/gos
-  - Monster/HG/3
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/lizardfolk
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Lizardfolk Subchief
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/3
+  - Monster/Typ/Humanoid/lizardfolk
+  - Quelle/5e/gos
 aliases:
   - Lizardfolk Subchief
 ---

@@ -1,10 +1,9 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Bes
 tags:
-  - Quelle/5e/phb
-  - Kompendium/Götter/egyptian
   - Kompendium/Götter/Domäne/trickery
+  - Kompendium/Götter/egyptian
+  - Quelle/5e/phb
 aliases:
   - Bes
 ---

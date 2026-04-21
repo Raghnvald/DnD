@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Nondetection
 Zaubergrad: 3
 tags:

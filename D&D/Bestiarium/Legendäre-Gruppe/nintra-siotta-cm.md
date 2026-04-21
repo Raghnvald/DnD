@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Nintra Siotta
 tags:
-  - Quelle/5e/cm
   - Monster/legendary-group
+  - Quelle/5e/cm
 aliases:
   - Nintra Siotta
 ---

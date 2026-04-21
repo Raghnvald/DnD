@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Rüstung des Energie-Widerstands
 Rüstung: Leicht, Mittel oder Schwer
 tags:
@@ -12,7 +10,6 @@ tags:
   - Gegenstand/wundersam/generic-variant
   - Quelle/5e/dmg
 aliases:
-  - Rüstung des Energie-Widerstands
   - Breastplate of Force Resistance
   - Chain Mail of Force Resistance
   - Chain Shirt of Force Resistance
@@ -22,6 +19,7 @@ aliases:
   - Padded Armor of Force Resistance
   - Plate Armor of Force Resistance
   - Ring Mail of Force Resistance
+  - Rüstung des Energie-Widerstands
   - Scale Mail of Force Resistance
   - Spiked Armor of Force Resistance
   - Splint Armor of Force Resistance

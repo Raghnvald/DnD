@@ -1,7 +1,5 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Schloss
+Bezeichnung: Lock
 Kategorie: Abenteuerausrüstung
 tags:
   - Gegenstand/Ausrüstung/

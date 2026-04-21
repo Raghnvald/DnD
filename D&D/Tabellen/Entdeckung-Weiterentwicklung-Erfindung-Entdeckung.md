@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Entdeckung, Weiterentwicklung, Erfindung; Entdeckung
 tags:
   - Quelle/5e/dmg
 aliases:

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Level Advancement without XP
 tags:
   - Quelle/5e/dmg
 aliases:

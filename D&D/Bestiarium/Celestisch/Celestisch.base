@@ -10,6 +10,6 @@ views:
       and:
         - file.folder == "D&D/Bestiarium/Celestisch"
         - file.ext == "md"
-    cardSize: 130
-    image: note.Image
+    cardSize: 120
+    image: note.IMAGE
     imageFit: contain

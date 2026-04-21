@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Warrior's Passkey
+Bezeichnung: "Warrior's Passkey"
+Kategorie: Wundersamer Gegenstand 
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
+  - Gegenstand/wundersam
   - Quelle/5e/bmt
 aliases:
-  - Warrior's Passkey
   - Warrior's Passkey
 linter-yaml-title-alias: Warrior's Passkey
 ---

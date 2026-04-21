@@ -1,3 +1,7 @@
+---
+Bezeichnung: Schloss Nie
+---
+# Schloss Nie
 Die hohen, glänzenden Türme von Schloss Nie waren das Erste, was Besucher sahen, wenn sie mit dem Schiff in Niewinter ankamen. Es war ein imposantes Steingebäude1 und diente als Zeugnis für die architektonischen Errungenschaften der Stadt. Das Schloss war von einer kreisförmigen Straße umgeben, und die drei Wahrzeichenbrücken der Stadt – die Dolphin, die Winged Wyvern und die Sleeping Dragon Brücken – strahlten von ihm aus, um sich mit dem südwestlichen Stadtteil zu verbinden2.
 
 Das Schloss wurde durch den Ausbruch des Mount Hotenow während der Zerstörung schwer beschädigt. Die Hälfte seiner Türme stürzte ein, die westliche Mauer brach zusammen, und die Innenhöfe waren mit umgestürzten Statuen und herabgefallenen Steinbrocken übersät. Da es auf einem starken Fundament gebaut war, blieb der Rest des Schlosses jedoch größtenteils intakt1. Im Jahr 1489 DR war Schloss Nie immer noch eine Ruine, aber in den folgenden Jahren sollte es geräumt und weitgehend wieder aufgebaut werden.

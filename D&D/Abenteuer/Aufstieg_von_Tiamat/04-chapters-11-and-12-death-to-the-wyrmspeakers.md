@@ -1,5 +1,5 @@
 ---
-cssclasses: json5e-note
+Bezeichnung: "Chapters 11 and 12: Death to the Wyrmspeakers"
 tags:
   - Quelle/5e/rot
 aliases:

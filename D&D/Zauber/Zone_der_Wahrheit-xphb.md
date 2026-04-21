@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Zone of Truth
 tags:
   - Klasse/Barde

@@ -17,15 +17,15 @@ tags:
   - Klasse/Zauberer
   - Kompendium/Talent/magic-initiate/wizard-spells
   - Quelle/5e/xphb
-  - Subklasse/Mystischer-Ritter
   - Subklasse/evoker
   - Subklasse/fiend-patron
+  - Subklasse/Mystischer-Ritter
   - Subklasse/the-genie/efreeti
   - Subklasse/way-of-the-sun-soul
   - Subrasse/genasi-fire
+  - Zauber/Belohnung/boon-of-the-fire-soul
   - Zauber/Grad/1
   - Zauber/optfeature/sweeping-cinder-strike
-  - Zauber/Belohnung/boon-of-the-fire-soul
   - Zauber/Schule/Hervorrufung
 classes:
   - Bard

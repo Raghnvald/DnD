@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/wdh
-  - Monster/HG/Unbekannt
-  - Monster/Größe/Winzig
-  - Monster/Typ/Konstrukt
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Mechanical Bird
+tags:
+  - Monster/Größe/Winzig
+  - Monster/HG/Unbekannt
+  - Monster/Typ/Konstrukt
+  - Quelle/5e/wdh
 aliases:
   - Mechanical Bird
 ---

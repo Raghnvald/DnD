@@ -8,8 +8,8 @@ Angriff: GES
 Schaden: 3d8 Wucht
 status: completed
 tags:
-  - Klasse/Magier
   - Klasse/Artifizient
+  - Klasse/Magier
   - Klasse/Zauberer
   - Quelle/5e/xge
   - Zauber/Grad/1

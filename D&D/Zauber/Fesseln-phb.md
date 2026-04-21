@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Enthrall
 Zaubergrad: 2
 tags:

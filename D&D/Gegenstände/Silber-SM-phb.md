@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Silber-Münze (SM)
+Bezeichnung: Silber (SM)
 Kategorie: Währung
 tags:
   - Gegenstand/Ausrüstung/treasure-coinage

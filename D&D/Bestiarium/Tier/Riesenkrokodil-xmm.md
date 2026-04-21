@@ -1,15 +1,14 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/5
-  - Monster/Habitat/Küste
-  - Monster/Habitat/Sumpf
-  - Monster/Größe/Riesig
-  - Monster/Typ/Tier
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Giant Crocodile
+tags:
+  - Monster/Größe/Riesig
+  - Monster/Habitat/Küste
+  - Monster/Habitat/Sumpf
+  - Monster/HG/5
+  - Monster/Typ/Tier
+  - Quelle/5e/xmm
 aliases:
   - Giant Crocodile
 ---

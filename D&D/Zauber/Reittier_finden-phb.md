@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Find Steed
 Zaubergrad: 2
 tags:

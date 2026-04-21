@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Dust of Disappearance
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich

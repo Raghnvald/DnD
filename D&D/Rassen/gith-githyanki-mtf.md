@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-race
+Bezeichnung: Gith (Githyanki)
 tags:
   - Quelle/5e/mtf
   - Rasse/gith/githyanki

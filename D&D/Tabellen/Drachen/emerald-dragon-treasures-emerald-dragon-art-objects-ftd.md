@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Emerald Dragon Treasures; Emerald Dragon Art Objects
 tags:
   - Quelle/5e/ftd
 aliases:

@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/cm
-  - Monster/HG/7
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/elf
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Wood Elf Wizard
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/7
+  - Monster/Typ/Humanoid/elf
+  - Quelle/5e/cm
 aliases:
   - Wood Elf Wizard
 ---

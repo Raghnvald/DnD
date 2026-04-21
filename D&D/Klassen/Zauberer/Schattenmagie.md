@@ -1,6 +1,10 @@
 ---
-tags: [Klasse/Zauberer, Quelle/5e/xge]
-aliases: [Shadow Magic]
+Bezeichnung: Schattenmagie
+tags:
+  - Klasse/Zauberer
+  - Quelle/5e/xge
+aliases:
+  - Shadow Magic
 ---
 # Schattenmagie
 _[[Zauberer]]_: Magische Herkunft

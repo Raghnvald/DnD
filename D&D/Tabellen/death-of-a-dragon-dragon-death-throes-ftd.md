@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Death of a Dragon; Dragon Death Throes
 tags:
   - Quelle/5e/ftd
 aliases:

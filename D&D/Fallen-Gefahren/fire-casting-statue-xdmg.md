@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-hazard
+Bezeichnung: Fire-Casting Statue
 tags:
-  - Quelle/5e/xdmg
   - Kompendium/Bedrohung/trp
+  - Quelle/5e/xdmg
 aliases:
   - Fire-Casting Statue
 ---

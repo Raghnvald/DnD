@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-background
+Bezeichnung: "Baldur's Gate Charlatan"
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/bgdia
@@ -9,7 +8,6 @@ aliases:
 ---
 # Baldur's Gate Charlatan
 *Source: Baldur's Gate: Descent Into Avernus p. 202, Player's Handbook p. 128*  
-
 
 - **Skill Proficiencies.** [Deception](/3-Mechanics/CLI/skills.md#Deception), [Sleight of Hand](/3-Mechanics/CLI/skills.md#Sleight%20of%20Hand)  
 - **Tool Proficiencies.** [Disguise kit](/3-Mechanics/CLI/items/disguise-kit-xphb.md), [Forgery kit](/3-Mechanics/CLI/items/forgery-kit-xphb.md)  

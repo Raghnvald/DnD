@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: How to Name Your Dragon; Dragon Name Elements
 tags:
   - Quelle/5e/ftd
 aliases:

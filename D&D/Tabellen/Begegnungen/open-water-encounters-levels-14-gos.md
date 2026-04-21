@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Open Water Encounters (Levels 1—4)
 tags:
   - Quelle/5e/gos
 aliases:

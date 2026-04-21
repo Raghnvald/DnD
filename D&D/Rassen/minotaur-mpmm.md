@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-race
+Bezeichnung: Minotaur
 tags:
   - Quelle/5e/mpmm
   - Rasse/minotaur

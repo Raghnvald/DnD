@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Boots of Elvenkind
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich

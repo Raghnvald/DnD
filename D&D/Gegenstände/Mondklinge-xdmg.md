@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Moonblade
 Kategorie: Nahkampf-Kriegswaffe (generisch)
 tags:

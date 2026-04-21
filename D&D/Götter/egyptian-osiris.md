@@ -1,12 +1,11 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Osiris
 tags:
-  - Quelle/5e/phb
-  - Kompendium/Götter/egyptian
   - Kompendium/Götter/Domäne/grave
   - Kompendium/Götter/Domäne/life
   - Kompendium/Götter/Domäne/nature
+  - Kompendium/Götter/egyptian
+  - Quelle/5e/phb
 aliases:
   - Osiris
 ---

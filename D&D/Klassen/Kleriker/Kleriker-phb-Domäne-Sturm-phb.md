@@ -1,10 +1,9 @@
 ---
-cssclasses:
-  - json5e-class
+Bezeichnung: Tempest Domain
 tags:
-  - Quelle/5e/phb
-  - Kompendium/Götter/Domäne/tempest
   - Klasse/Kleriker/tempest
+  - Kompendium/Götter/Domäne/tempest
+  - Quelle/5e/phb
 aliases:
   - Tempest Domain
 ---
@@ -42,7 +41,6 @@ aliases:
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 

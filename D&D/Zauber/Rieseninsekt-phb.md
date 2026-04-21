@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Giant Insect
 Zaubergrad: 4
 tags:

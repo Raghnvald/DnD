@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Grimoire Infinitus (Exalted)
 tags:
   - Gegenstand/Einstimmung/required

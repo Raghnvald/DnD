@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-bastion
+Bezeichnung: War Room
 tags:
   - Kompendium/Bastion
   - Quelle/5e/xdmg

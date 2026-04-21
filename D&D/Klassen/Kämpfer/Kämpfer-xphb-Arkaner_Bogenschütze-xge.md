@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-class
 Bezeichnung: Arcane Archer
 tags:
   - Klasse/Kämpfer/arcane-archer

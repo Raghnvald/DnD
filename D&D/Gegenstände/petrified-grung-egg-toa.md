@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Petrified Grung Egg
 tags:
   - Gegenstand/Einstimmung/required

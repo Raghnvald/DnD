@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-background
+Bezeichnung: Waterdhavian Noble
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/scag
@@ -9,7 +8,6 @@ aliases:
 ---
 # Waterdhavian Noble
 *Source: Sword Coast Adventurer's Guide p. 154*  
-
 
 - **Skill Proficiencies.** [History](/3-Mechanics/CLI/skills.md#History), [Persuasion](/3-Mechanics/CLI/skills.md#Persuasion)  
 - **Languages.** Any one of your choice  

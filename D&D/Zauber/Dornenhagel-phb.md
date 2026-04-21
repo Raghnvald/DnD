@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Hail of Thorns
+Bezeichnung: Dornenhagel
 Zaubergrad: 1
 tags:
   - Klasse/Barde/Magische-Geheimnisse

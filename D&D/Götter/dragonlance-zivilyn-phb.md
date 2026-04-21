@@ -1,10 +1,9 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Zivilyn
 tags:
-  - Quelle/5e/phb
-  - Kompendium/Götter/dragonlance
   - Kompendium/Götter/Domäne/knowledge
+  - Kompendium/Götter/dragonlance
+  - Quelle/5e/phb
 aliases:
   - Zivilyn
 ---

@@ -1,16 +1,15 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mpmm
-  - Monster/HG/4
-  - Monster/Habitat/Wüste
-  - Monster/Habitat/Wald
-  - Monster/Habitat/Unterreich
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Monstrosität/warlock
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Yuan-ti Nightmare Speaker
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Unterreich
+  - Monster/Habitat/Wald
+  - Monster/Habitat/Wüste
+  - Monster/HG/4
+  - Monster/Typ/Monstrosität/warlock
+  - Quelle/5e/mpmm
 aliases:
   - Yuan-ti Nightmare Speaker
 ---

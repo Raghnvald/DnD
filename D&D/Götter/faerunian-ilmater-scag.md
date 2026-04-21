@@ -1,16 +1,15 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Ilmater
 tags:
-  - Quelle/5e/scag
-  - Kompendium/Götter/faerunian
   - Kompendium/Götter/Domäne/life
   - Kompendium/Götter/Domäne/twilight
+  - Kompendium/Götter/faerunian
+  - Quelle/5e/scag
 aliases:
+  - He Who Endures
   - Ilmater
   - The Crying God
   - The Rack-Broken Lord
-  - He Who Endures
 ---
 # Ilmater
 *Source: Sword Coast Adventurer's Guide p. 21, Tasha's Cauldron of Everything p. 34* 

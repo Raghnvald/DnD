@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Songhorn
 Kategorie: Werkzeug
 tags:

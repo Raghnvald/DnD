@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-background
+Bezeichnung: "Baldur's Gate Outlander"
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/bgdia
@@ -9,7 +8,6 @@ aliases:
 ---
 # Baldur's Gate Outlander
 *Source: Baldur's Gate: Descent Into Avernus p. 204, Player's Handbook p. 136*  
-
 
 - **Skill Proficiencies.** [Athletics](/3-Mechanics/CLI/skills.md#Athletics), [Survival](/3-Mechanics/CLI/skills.md#Survival)  
 - **Tool Proficiencies.** One type of musical instrument  

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Wildemount Gazetteer
 tags:
   - Quelle/5e/egw
 aliases:

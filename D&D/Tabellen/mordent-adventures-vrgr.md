@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Mordent Adventures
 tags:
   - Quelle/5e/vrgr
 aliases:

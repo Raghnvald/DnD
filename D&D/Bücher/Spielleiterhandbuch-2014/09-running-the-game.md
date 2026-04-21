@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Running the Game
 tags:
   - Quelle/5e/dmg
 aliases:

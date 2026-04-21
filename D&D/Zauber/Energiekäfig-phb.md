@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Forcecage
+Bezeichnung: Energiekäfig
 Zaubergrad: 7
 Zeitaufwand: 1 Aktion
 Reichweite: 30 Meter

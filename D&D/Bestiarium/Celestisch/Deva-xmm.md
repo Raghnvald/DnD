@@ -1,15 +1,14 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/10
-  - Monster/Habitat/planar
-  - Monster/Habitat/upper
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Himmlische/Engel
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Deva
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/planar
+  - Monster/Habitat/upper
+  - Monster/HG/10
+  - Monster/Typ/Himmlische/Engel
+  - Quelle/5e/xmm
 aliases:
   - Deva
 ---

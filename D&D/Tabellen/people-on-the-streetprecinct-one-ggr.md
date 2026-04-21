@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: People on the Street—Precinct One
 tags:
   - Quelle/5e/ggr
 aliases:

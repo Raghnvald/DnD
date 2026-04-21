@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Wall of Fire
 Zaubergrad: 4
 tags:

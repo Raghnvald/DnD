@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-race
+Bezeichnung: Elf (Drow)
 tags:
   - Quelle/5e/phb
   - Rasse/elf/drow
@@ -9,7 +8,6 @@ aliases:
 ---
 # Elf (Drow)
 *Source: Player's Handbook p. 24*  
-
 
 - **Ability Scores**: cha +1
 - **Size**: Medium

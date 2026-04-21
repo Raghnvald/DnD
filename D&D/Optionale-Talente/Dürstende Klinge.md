@@ -1,9 +1,10 @@
 ---
+Bezeichnung: Dürstende Klinge
 tags:
-- Quelle/5e/phb
-- Kompendium/Optionales/Anrufungen
+  - Kompendium/Optionales/Anrufungen
+  - Quelle/5e/phb
 aliases:
-- Thirsting Blade
+  - Thirsting Blade
 ---
 # Dürstende Klinge
 _Quellen:_ Spielerhandbuch

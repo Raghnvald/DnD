@@ -1,16 +1,15 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Gond
 tags:
-  - Quelle/5e/scag
-  - Kompendium/Götter/faerunian
   - Kompendium/Götter/Domäne/forge
   - Kompendium/Götter/Domäne/knowledge
+  - Kompendium/Götter/faerunian
+  - Quelle/5e/scag
 aliases:
   - Gond
-  - The Wonderbringer
-  - The Inspiration Divine
   - The Holy Maker of All Things
+  - The Inspiration Divine
+  - The Wonderbringer
 ---
 # Gond
 *Source: Sword Coast Adventurer's Guide p. 21, Xanathar's Guide to Everything p. 18* 

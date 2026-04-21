@@ -1,17 +1,16 @@
 ---
-cssclasses:
-  - json5e-monster
+statblock: inline
+statblock-link: "#^statblock"
+Bezeichnung: Archdruid
 tags:
-  - Quelle/5e/mpmm
-  - Monster/HG/12
-  - Monster/Habitat/Wald
+  - Monster/Größe/Mittelgroß
   - Monster/Habitat/Berg
   - Monster/Habitat/Sumpf
   - Monster/Habitat/underwater
-  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Wald
+  - Monster/HG/12
   - Monster/Typ/Humanoid/druid
-statblock: inline
-statblock-link: "#^statblock"
+  - Quelle/5e/mpmm
 aliases:
   - Archdruid
 ---

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Backstory; Zemni Fields Settlements
 tags:
   - Quelle/5e/egw
 aliases:

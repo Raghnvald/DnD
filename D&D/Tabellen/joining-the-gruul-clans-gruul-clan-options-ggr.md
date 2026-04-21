@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Joining the Gruul Clans; Gruul Clan Options
 tags:
   - Quelle/5e/ggr
 aliases:

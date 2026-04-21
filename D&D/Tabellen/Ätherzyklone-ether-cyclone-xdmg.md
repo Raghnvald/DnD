@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Ether Cyclones; Ether Cyclone
 tags:
   - Quelle/5e/xdmg
 aliases:

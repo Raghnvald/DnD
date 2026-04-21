@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-background
+Bezeichnung: Whitestone Rifle Corps (Grey Hunter) (Variant)
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/tdcsr
@@ -10,12 +9,10 @@ aliases:
 # Whitestone Rifle Corps (Grey Hunter) (Variant)
 *Source: Tal'Dorei Campaign Setting Reborn p. 182*  
 
-
 - **Skill Proficiencies.** Your choice of two of the following: [Athletics](/3-Mechanics/CLI/skills.md#Athletics), [Perception](/3-Mechanics/CLI/skills.md#Perception), or [Survival](/3-Mechanics/CLI/skills.md#Survival)  
 - **Weapon Proficiencies.** Firearms  
 - **Languages.** One of your choice  
 - **Equipment.** Your choice of a [musket](/3-Mechanics/CLI/items/musket-xphb.md) or a [pistol](/3-Mechanics/CLI/items/pistol-xphb.md), a set of [common clothes](/3-Mechanics/CLI/items/common-clothes.md), and a [pouch](/3-Mechanics/CLI/items/pouch-xphb.md) containing 10 gp  
-
 
 ## Variant: Grey Hunter
 

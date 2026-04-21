@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-background
+Bezeichnung: Adeliger (Gefolge) (Variante)
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/phb
@@ -10,7 +9,6 @@ aliases:
 Noble
 # Adeliger (Gefolge) (Variante)
 *Source: Player's Handbook p. 136*  
-
 
 - **Skill Proficiencies.** [History](/3-Mechanics/CLI/skills.md#History), [Persuasion](/3-Mechanics/CLI/skills.md#Persuasion)  
 - **Tool Proficiencies.** One type of gaming set  

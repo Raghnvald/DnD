@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Hail of Thorns
 tags:
   - Klasse/Waldläufer

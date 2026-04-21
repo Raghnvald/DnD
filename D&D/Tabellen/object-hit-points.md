@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Object Hit Points
 tags:
   - Quelle/5e/dmg
 aliases:

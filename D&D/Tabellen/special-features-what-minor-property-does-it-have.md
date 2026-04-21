@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Special Features; What Minor Property Does It Have
 tags:
   - Quelle/5e/dmg
 aliases:

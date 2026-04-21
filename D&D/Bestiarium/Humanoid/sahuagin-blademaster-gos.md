@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/gos
-  - Monster/HG/6
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/sahuagin
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Sahuagin Blademaster
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/6
+  - Monster/Typ/Humanoid/sahuagin
+  - Quelle/5e/gos
 aliases:
   - Sahuagin Blademaster
 ---

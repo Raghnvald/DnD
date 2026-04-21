@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Blutvergiesserklinge
+Bezeichnung: Bloodshed Blade
 Kategorie: Nahkampf-Kriegswaffe (beliebiges Schwert)
 tags:
   - Gegenstand/Einstimmung/required

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-background
+Bezeichnung: Courtier
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/scag
@@ -9,7 +8,6 @@ aliases:
 ---
 # Courtier
 *Source: Sword Coast Adventurer's Guide p. 146*  
-
 
 - **Skill Proficiencies.** [Insight](/3-Mechanics/CLI/skills.md#Insight), [Persuasion](/3-Mechanics/CLI/skills.md#Persuasion)  
 - **Languages.** Any two of your choice  

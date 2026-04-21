@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/bgdia
-  - Monster/HG/5
-  - Monster/Größe/Klein
-  - Monster/Typ/Himmlische
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Hollyphant
+tags:
+  - Monster/Größe/Klein
+  - Monster/HG/5
+  - Monster/Typ/Himmlische
+  - Quelle/5e/bgdia
 aliases:
   - Hollyphant
 ---

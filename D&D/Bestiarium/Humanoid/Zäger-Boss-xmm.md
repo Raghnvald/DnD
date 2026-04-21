@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/4
-  - Monster/Habitat/Jedes
-  - Monster/Größe/Klein-oder-Mittelgroß
-  - Monster/Typ/Humanoid
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Tough Boss
+tags:
+  - Monster/Größe/Klein-oder-Mittelgroß
+  - Monster/Habitat/Jedes
+  - Monster/HG/4
+  - Monster/Typ/Humanoid
+  - Quelle/5e/xmm
 aliases:
   - Tough Boss
 ---
@@ -29,7 +28,6 @@ Bodyguards, belligerents, and laborers, toughs rely on their physical strength t
 > [!quote]  
 > 
 > There are two answers to every question: ours, and the wrong one.
-
 
 ```statblock
 "name": "Tough Boss (XMM)"

@@ -1,11 +1,4 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mm
-  - Monster/HG/12
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Unhold/yugoloth
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Arcanaloth
@@ -13,8 +6,13 @@ Kategorie: Unhold
 Größe: Mittelgroß
 HG: 12
 Habitat: Planar
-status: completed
 image: pictures/arcanaloth-2024.webp
+status: completed
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/12
+  - Monster/Typ/Unhold/yugoloth
+  - Quelle/5e/mm
 aliases:
   - Arcanaloth
 ---
@@ -74,7 +72,6 @@ Whatever the case, no fiend finds the General unless the General desires it. His
 > [!quote] A quote from Shemeshka the Marauder  
 > 
 > Power. We all crave it, but only a select few of us deserve it.
-
 
 ```statblock
 "name": "Arcanaloth"

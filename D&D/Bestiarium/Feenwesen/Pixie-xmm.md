@@ -1,16 +1,15 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/1-4
-  - Monster/Habitat/feywild
-  - Monster/Habitat/Wald
-  - Monster/Habitat/planar
-  - Monster/Größe/Winzig
-  - Monster/Typ/Fee
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Pixie
+tags:
+  - Monster/Größe/Winzig
+  - Monster/Habitat/feywild
+  - Monster/Habitat/planar
+  - Monster/Habitat/Wald
+  - Monster/HG/1-4
+  - Monster/Typ/Fee
+  - Quelle/5e/xmm
 aliases:
   - Pixie
 ---

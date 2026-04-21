@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Whelm
 Kategorie: Nahkampf-Kriegswaffe
 tags:

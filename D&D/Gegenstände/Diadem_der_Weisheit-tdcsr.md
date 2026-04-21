@@ -1,7 +1,6 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Circlet of Wisdom
+Kategorie: Wundersamer Gegenstand
 tags:
   - Gegenstand/Seltenheit/unbekannt/magic
   - Quelle/5e/tdcsr

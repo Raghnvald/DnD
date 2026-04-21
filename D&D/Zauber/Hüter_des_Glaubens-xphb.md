@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Guardian of Faith
 tags:
   - Klasse/Barde

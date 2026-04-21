@@ -4,5 +4,12 @@ model:
   columns: []
 pluginVersion: 1.0.0
 views:
-  - type: table
-    name: Table
+  - type: cards
+    name: Elementar
+    filters:
+      and:
+        - file.folder == "D&D/Bestiarium/Elementar"
+        - file.ext == "md"
+    image: note.IMAGE
+    imageFit: contain
+    cardSize: 120

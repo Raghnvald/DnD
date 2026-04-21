@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Chapter 2: Elturel Has Fallen"
 tags:
   - Quelle/5e/bgdia
 aliases:

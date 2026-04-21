@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Weapon Mastery Properties
 tags:
   - Quelle/5e/xphb
 aliases:

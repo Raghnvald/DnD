@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Map or Scroll Case
 tags:
   - Gegenstand/Ausrüstung/

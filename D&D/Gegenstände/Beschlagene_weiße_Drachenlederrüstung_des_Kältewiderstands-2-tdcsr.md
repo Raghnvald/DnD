@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Beschlagene weiße Drachenlederrüstung des Kältewiderstands +2
+Bezeichnung: Studded White Dragon Leather Armor of Cold Resistance +2
 Rüstung: Leicht
 tags:
   - Gegenstand/Einstimmung/required

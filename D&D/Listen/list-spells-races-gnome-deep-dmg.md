@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Gnome (Deep)
 tags:
   - Zauber/list/race/gnome-deep
 aliases:

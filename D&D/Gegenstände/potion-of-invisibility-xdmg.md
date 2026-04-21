@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Potion of Invisibility
 tags:
   - Gegenstand/Seltenheit/selten

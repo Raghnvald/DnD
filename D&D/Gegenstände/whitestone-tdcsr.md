@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Whitestone
 tags:
   - Gegenstand/Ausrüstung/Handelsgut

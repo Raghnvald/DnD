@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Ravnica's Calendar"
 tags:
   - Quelle/5e/ggr
 aliases:

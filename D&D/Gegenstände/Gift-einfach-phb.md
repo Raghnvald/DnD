@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Basic Poison (vial)
 Kategorie: Gift
 tags:

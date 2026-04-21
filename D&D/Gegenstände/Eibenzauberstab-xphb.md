@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Yew Wand
 tags:
   - Gegenstand/Ausrüstung/Zauberfokus

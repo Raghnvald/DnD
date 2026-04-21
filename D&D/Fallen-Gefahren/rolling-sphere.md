@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-hazard
+Bezeichnung: Rolling Sphere
 tags:
-  - Quelle/5e/dmg
   - Kompendium/Bedrohung/mech
+  - Quelle/5e/dmg
 aliases:
   - Rolling Sphere
 ---

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Wands That Don't Recharge"
 tags:
   - Quelle/5e/dmg
 aliases:

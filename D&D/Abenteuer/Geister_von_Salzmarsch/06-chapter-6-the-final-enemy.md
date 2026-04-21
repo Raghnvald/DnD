@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Chapter 6: The Final Enemy"
 tags:
   - Quelle/5e/gos
 aliases:

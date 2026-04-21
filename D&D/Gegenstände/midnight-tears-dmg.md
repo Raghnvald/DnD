@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Midnight Tears
 Kategorie: Gift
 tags:

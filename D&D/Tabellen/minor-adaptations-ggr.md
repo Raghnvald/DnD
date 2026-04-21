@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Minor Adaptations
 tags:
   - Quelle/5e/ggr
 aliases:

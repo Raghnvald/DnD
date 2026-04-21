@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Beast Sense
 tags:
   - Klasse/Barde

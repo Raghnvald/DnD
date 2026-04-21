@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Skills with Different Abilities
 tags:
   - Quelle/5e/phb
 aliases:

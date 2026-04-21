@@ -1,9 +1,10 @@
 ---
+Bezeichnung: Außerweltlicher Sprung
 tags:
-- Quelle/5e/phb
-- Kompendium/Optionales/Anrufungen
+  - Kompendium/Optionales/Anrufungen
+  - Quelle/5e/phb
 aliases:
-- Otherworldly Leap
+  - Otherworldly Leap
 ---
 # Außerweltlicher Sprung
 _Quellen:_ Spielerhandbuch

@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-reward
+Bezeichnung: Blessing of Bloody Might
 tags:
-  - Quelle/5e/bmt
   - Kompendium/Belohnung/blessing
+  - Quelle/5e/bmt
 aliases:
   - Blessing of Bloody Might
 ---

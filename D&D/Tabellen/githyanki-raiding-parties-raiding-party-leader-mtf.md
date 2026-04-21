@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Githyanki Raiding Parties; Raiding Party Leader
 tags:
   - Quelle/5e/mtf
 aliases:

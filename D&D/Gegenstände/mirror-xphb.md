@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Mirror
 tags:
   - Gegenstand/Ausrüstung/

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-background
+Bezeichnung: "Baldur's Gate Noble"
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/bgdia
@@ -9,7 +8,6 @@ aliases:
 ---
 # Baldur's Gate Noble
 *Source: Baldur's Gate: Descent Into Avernus p. 204, Player's Handbook p. 135*  
-
 
 - **Skill Proficiencies.** [History](/3-Mechanics/CLI/skills.md#History), [Persuasion](/3-Mechanics/CLI/skills.md#Persuasion)  
 - **Tool Proficiencies.** One type of gaming set  

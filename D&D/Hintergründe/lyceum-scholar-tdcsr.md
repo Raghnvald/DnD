@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-background
+Bezeichnung: Lyceum Scholar
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/tdcsr

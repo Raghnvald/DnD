@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Soul Bag
 tags:
   - Gegenstand/Seltenheit/sehr_selten

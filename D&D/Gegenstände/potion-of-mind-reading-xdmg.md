@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Potion of Mind Reading
 tags:
   - Gegenstand/Seltenheit/selten

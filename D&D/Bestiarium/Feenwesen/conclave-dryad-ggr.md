@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/ggr
-  - Monster/HG/9
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Fee
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Conclave Dryad
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/9
+  - Monster/Typ/Fee
+  - Quelle/5e/ggr
 aliases:
   - Conclave Dryad
 ---

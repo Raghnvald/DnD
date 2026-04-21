@@ -1,17 +1,16 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/10
-  - Monster/Habitat/Wüste
-  - Monster/Habitat/Wald
-  - Monster/Habitat/planar
-  - Monster/Habitat/upper
-  - Monster/Größe/Groß
-  - Monster/Typ/Himmlische
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Guardian Naga
+tags:
+  - Monster/Größe/Groß
+  - Monster/Habitat/planar
+  - Monster/Habitat/upper
+  - Monster/Habitat/Wald
+  - Monster/Habitat/Wüste
+  - Monster/HG/10
+  - Monster/Typ/Himmlische
+  - Quelle/5e/xmm
 aliases:
   - Guardian Naga
 ---

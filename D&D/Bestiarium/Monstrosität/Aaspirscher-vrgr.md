@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/vrgr
-  - Monster/HG/3
-  - Monster/Größe/Winzig
-  - Monster/Typ/Monstrosität
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Carrion Stalker
+tags:
+  - Monster/Größe/Winzig
+  - Monster/HG/3
+  - Monster/Typ/Monstrosität
+  - Quelle/5e/vrgr
 aliases:
   - Carrion Stalker
 ---

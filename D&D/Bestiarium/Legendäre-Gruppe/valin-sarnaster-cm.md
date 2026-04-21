@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Valin Sarnaster
 tags:
-  - Quelle/5e/cm
   - Monster/legendary-group
+  - Quelle/5e/cm
 aliases:
   - Valin Sarnaster
 ---

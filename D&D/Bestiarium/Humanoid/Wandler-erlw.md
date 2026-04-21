@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/erlw
-  - Monster/HG/1-2
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/shifter
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Shifter
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/1-2
+  - Monster/Typ/Humanoid/shifter
+  - Quelle/5e/erlw
 aliases:
   - Shifter
 ---

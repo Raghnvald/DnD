@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/erlw
-  - Monster/HG/1-4
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/kalashtar
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Kalashtar
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/1-4
+  - Monster/Typ/Humanoid/kalashtar
+  - Quelle/5e/erlw
 aliases:
   - Kalashtar
 ---

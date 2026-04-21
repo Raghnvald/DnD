@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Diviner
 tags:
   - Zauber/list/subclass/diviner
 aliases:

@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Globe of Invulnerability
 tags:
   - Klasse/Barde

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spirit Tales
 tags:
   - Quelle/5e/vrgr
 aliases:

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Magic Initiate
 tags:
   - Zauber/list/feat/magic-initiate
 aliases:

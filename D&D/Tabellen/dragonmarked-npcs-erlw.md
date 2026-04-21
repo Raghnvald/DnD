@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Dragonmarked NPCs
 tags:
   - Quelle/5e/erlw
 aliases:

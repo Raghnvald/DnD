@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Eldritch Blast
+Bezeichnung: Schauriger Strahl
 Zaubergrad: 0 (Zaubertrick)
 Zeitaufwand: 1 Aktion
 Reichweite: 36 Meter

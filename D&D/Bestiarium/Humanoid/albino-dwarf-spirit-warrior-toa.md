@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/toa
-  - Monster/HG/1
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Humanoid/dwarf
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Albino Dwarf Spirit Warrior
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/HG/1
+  - Monster/Typ/Humanoid/dwarf
+  - Quelle/5e/toa
 aliases:
   - Albino Dwarf Spirit Warrior
 ---

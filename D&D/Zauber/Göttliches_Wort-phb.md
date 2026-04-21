@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Divine Word
 Zaubergrad: 7
 tags:

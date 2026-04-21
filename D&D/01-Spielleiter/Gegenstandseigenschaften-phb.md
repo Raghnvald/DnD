@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Gegenstandseigenschaften
 aliases:
   - Item Properties
 ---

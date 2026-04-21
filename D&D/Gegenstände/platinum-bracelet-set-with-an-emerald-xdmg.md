@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Platinum bracelet set with an emerald
 tags:
   - Gegenstand/Ausrüstung/treasure-art-object

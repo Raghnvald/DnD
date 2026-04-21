@@ -1,7 +1,5 @@
 ---
-cssclasses:
-  - json5e-spell
-Bezeichnung: Melf's Acid Arrow
+Bezeichnung: "Melf's Acid Arrow"
 Zaubergrad: 2
 tags:
   - Klasse/Barde/Magische-Geheimnisse

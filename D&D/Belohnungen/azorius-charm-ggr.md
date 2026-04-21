@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-reward
+Bezeichnung: Azorius Charm
 tags:
-  - Quelle/5e/ggr
   - Kompendium/Belohnung/charm
+  - Quelle/5e/ggr
 aliases:
   - Azorius Charm
 ---

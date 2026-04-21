@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Edelsteine zu 10 GM
 tags:
   - Quelle/5e/xdmg
 aliases:

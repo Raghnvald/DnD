@@ -7,6 +7,7 @@ Gew.: 0,5 kg
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
+  - Gegenstand/wundersam
   - Quelle/5e/xdmg
 aliases:
   - Periapt of Proof against Poison

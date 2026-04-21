@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Hill Giant Bag Contents; Hill Giant Bag Items
 tags:
   - Quelle/5e/bgg
 aliases:

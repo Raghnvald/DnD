@@ -1,12 +1,10 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Creation
 tags:
+  - Klasse/Artifizient
   - Klasse/Barde
   - Klasse/Kleriker/forge-domain
   - Klasse/Magier
-  - Klasse/Artifizient
   - Klasse/Zauberer
   - Quelle/5e/xphb
   - Subklasse/illusionist

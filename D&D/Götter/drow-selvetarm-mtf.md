@@ -1,10 +1,9 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Selvetarm
 tags:
-  - Quelle/5e/mtf
-  - Kompendium/Götter/drow
   - Kompendium/Götter/Domäne/war
+  - Kompendium/Götter/drow
+  - Quelle/5e/mtf
 aliases:
   - Selvetarm
 ---

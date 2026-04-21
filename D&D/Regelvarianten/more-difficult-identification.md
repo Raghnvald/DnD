@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: More Difficult Identification
 tags:
   - Quelle/5e/dmg
 aliases:

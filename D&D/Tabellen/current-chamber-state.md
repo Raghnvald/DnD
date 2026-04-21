@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Current Chamber State
 tags:
   - Quelle/5e/dmg
 aliases:

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Gothic Horror Torments
 tags:
   - Quelle/5e/vrgr
 aliases:

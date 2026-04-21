@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Armor of the Valiant Soul (Exalted)
 Rüstung: Mittel
 tags:

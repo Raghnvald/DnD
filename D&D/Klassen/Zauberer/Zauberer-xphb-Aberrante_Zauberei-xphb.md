@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-class
+Bezeichnung: Aberrant Sorcery
 tags:
-  - Quelle/5e/xphb
   - Klasse/Zauberer/aberrant
+  - Quelle/5e/xphb
 aliases:
   - Aberrant Sorcery
 ---
@@ -41,7 +40,6 @@ aliases:
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 

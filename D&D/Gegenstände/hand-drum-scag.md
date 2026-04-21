@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Hand Drum
 Kategorie: Werkzeug
 tags:

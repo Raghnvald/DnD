@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-hazard
+Bezeichnung: Path of Blades
 tags:
-  - Quelle/5e/xge
   - Kompendium/Bedrohung/cmpx
+  - Quelle/5e/xge
 aliases:
   - Path of Blades
 ---

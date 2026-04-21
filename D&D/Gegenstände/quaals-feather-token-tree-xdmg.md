@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: "Quaal's Feather Token, Tree"
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich

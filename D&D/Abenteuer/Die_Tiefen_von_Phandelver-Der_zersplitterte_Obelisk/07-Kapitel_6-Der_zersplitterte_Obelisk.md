@@ -1,4 +1,5 @@
 ---
+Bezeichnung: "Chapter 6: The Shattered Obelisk"
 tags:
   - Quelle/5e/pabtso
 aliases:

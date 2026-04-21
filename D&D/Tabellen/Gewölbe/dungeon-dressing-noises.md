@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Dungeon Dressing; Noises
 tags:
   - Quelle/5e/dmg
 aliases:

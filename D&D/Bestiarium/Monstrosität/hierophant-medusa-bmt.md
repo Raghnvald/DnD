@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/bmt
-  - Monster/HG/17
-  - Monster/Größe/Groß
-  - Monster/Typ/Monstrosität
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Hierophant Medusa
+tags:
+  - Monster/Größe/Groß
+  - Monster/HG/17
+  - Monster/Typ/Monstrosität
+  - Quelle/5e/bmt
 aliases:
   - Hierophant Medusa
 ---

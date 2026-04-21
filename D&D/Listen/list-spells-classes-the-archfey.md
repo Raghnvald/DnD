@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for The Archfey
 tags:
   - Zauber/list/subclass/the-archfey
 aliases:

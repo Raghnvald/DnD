@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Wilderness Chase Complications
 tags:
   - Quelle/5e/xdmg
 aliases:

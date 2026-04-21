@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Devil Customization Tables
 tags:
   - Quelle/5e/mtf
 aliases:

@@ -1,6 +1,10 @@
 ---
-tags: [Klasse/Zauberer, Quelle/5e/phb]
-aliases: [Draconic Bloodline]
+Bezeichnung: Drakonische Blutlinie
+tags:
+  - Klasse/Zauberer
+  - Quelle/5e/phb
+aliases:
+  - Draconic Bloodline
 ---
 # Drakonische Blutlinie
 _[[Zauberer]]_: Magische Herkunft

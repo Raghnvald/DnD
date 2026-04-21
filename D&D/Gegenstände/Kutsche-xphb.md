@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Carriage
 tags:
   - Gegenstand/Ausrüstung/Fahrzeug

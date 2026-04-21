@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-class
+Bezeichnung: Way of Shadow
 tags:
-  - Quelle/5e/phb
   - Klasse/Mönch/shadow
+  - Quelle/5e/phb
 aliases:
   - Way of Shadow
 ---
@@ -41,7 +40,6 @@ aliases:
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Dimir Creatures
 tags:
   - Quelle/5e/ggr
 aliases:

@@ -1,15 +1,14 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/3
-  - Monster/Habitat/nine-hells
-  - Monster/Habitat/planar
-  - Monster/Größe/Groß
-  - Monster/Typ/Unhold/devil
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Swarm of Lemures
+tags:
+  - Monster/Größe/Groß
+  - Monster/Habitat/nine-hells
+  - Monster/Habitat/planar
+  - Monster/HG/3
+  - Monster/Typ/Unhold/devil
+  - Quelle/5e/xmm
 aliases:
   - Swarm of Lemures
 ---

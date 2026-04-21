@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Robe
 tags:
   - Gegenstand/Ausrüstung/

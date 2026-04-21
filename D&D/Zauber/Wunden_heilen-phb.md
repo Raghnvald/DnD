@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Cure Wounds
+Bezeichnung: Wunden heilen
 Zaubergrad: 1
 Zeitaufwand: 1 Aktion
 Reichweite: Berührung

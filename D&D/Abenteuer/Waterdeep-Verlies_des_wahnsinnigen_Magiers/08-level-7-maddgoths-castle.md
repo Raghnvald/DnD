@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Level 7: Maddgoth's Castle"
 tags:
   - Quelle/5e/wdmm
 aliases:

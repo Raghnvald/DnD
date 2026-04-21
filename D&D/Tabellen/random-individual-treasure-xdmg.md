@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Random Individual Treasure
 tags:
   - Quelle/5e/xdmg
 aliases:

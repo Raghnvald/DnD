@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Enemies Abound
+Bezeichnung: Feindüberfluss
 Zaubergrad: 3
 Zeitaufwand: 1 Aktion
 Reichweite: 36 Meter

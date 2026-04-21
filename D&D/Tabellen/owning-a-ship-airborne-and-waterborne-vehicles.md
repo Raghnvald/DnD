@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Owning a Ship; Airborne and Waterborne Vehicles
 tags:
   - Quelle/5e/dmg
 aliases:

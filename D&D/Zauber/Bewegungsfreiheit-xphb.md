@@ -7,12 +7,12 @@ Komponenten:
 Wirkungsdauer:
 Angriff:
 tags:
+  - Klasse/Artifizient
   - Klasse/Barde
   - Klasse/Druide
   - Klasse/Druide/circle-of-the-land/temperate-land
   - Klasse/Kleriker
   - Klasse/Kleriker/war-domain
-  - Klasse/Artifizient
   - Klasse/Paladin/oath-of-glory
   - Klasse/Paladin/Schwur-der-Hingabe
   - Klasse/Waldläufer

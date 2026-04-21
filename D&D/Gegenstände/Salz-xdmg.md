@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Salt
 tags:
   - Gegenstand/Ausrüstung/Handelsgut

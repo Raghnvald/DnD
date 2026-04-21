@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-bastion
+Bezeichnung: Teleportation Circle
 tags:
   - Kompendium/Bastion
   - Quelle/5e/xdmg

@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Stone of Good Luck
 tags:
   - Gegenstand/Einstimmung/required

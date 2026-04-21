@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Misty Step
 Zaubergrad: 2
 tags:
@@ -15,8 +13,8 @@ tags:
   - Quelle/5e/phb
   - Subklasse/Mystischer-Ritter
   - Subrasse/elf-eladrin
-  - Zauber/Grad/2
   - Zauber/Belohnung/boon-of-dimensional-travel
+  - Zauber/Grad/2
   - Zauber/Schule/Beschwörung
 classes:
   - Bard (Magical Secrets)

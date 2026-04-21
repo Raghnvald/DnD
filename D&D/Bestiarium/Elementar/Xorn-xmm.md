@@ -1,16 +1,15 @@
 ---
-cssclasses:
-  - json5e-monster
+statblock: inline
+statblock-link: "#^statblock"
+Bezeichnung: Xorn
 tags:
-  - Quelle/5e/xmm
-  - Monster/HG/5
+  - Monster/Größe/Mittelgroß
   - Monster/Habitat/earth
   - Monster/Habitat/planar
   - Monster/Habitat/Unterreich
-  - Monster/Größe/Mittelgroß
+  - Monster/HG/5
   - Monster/Typ/Elementar
-statblock: inline
-statblock-link: "#^statblock"
+  - Quelle/5e/xmm
 aliases:
   - Xorn
 ---

@@ -1,4 +1,5 @@
 ---
+Bezeichnung: Outlander
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/phb
@@ -7,7 +8,6 @@ aliases:
 ---
 # Outlander
 *Source: Player's Handbook p. 136*  
-
 
 - **Skill Proficiencies.** [Athletics](/3-Mechanics/CLI/skills.md#Athletics), [Survival](/3-Mechanics/CLI/skills.md#Survival)  
 - **Tool Proficiencies.** One type of musical instrument  

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Variant: Scroll Mishaps; Scroll Mishap"
 tags:
   - Quelle/5e/dmg
 aliases:

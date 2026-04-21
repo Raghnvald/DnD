@@ -1,5 +1,4 @@
 ---
-cssclasses: json5e-spell
 Bezeichnung: Tote beleben
 Zaubergrad: 3
 tags:

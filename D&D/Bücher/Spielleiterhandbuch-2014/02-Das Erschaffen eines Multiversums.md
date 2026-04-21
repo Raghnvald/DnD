@@ -1,5 +1,7 @@
 ---
-tags: [Quelle/5e/dmg]
+Bezeichnung: "Kapitel 2: Das Erschaffen eines Multiversums"
+tags:
+  - Quelle/5e/dmg
 ---
 # Kapitel 2: Das Erschaffen eines Multiversums
 

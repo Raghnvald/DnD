@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Golgari Creatures
 tags:
   - Quelle/5e/ggr
 aliases:

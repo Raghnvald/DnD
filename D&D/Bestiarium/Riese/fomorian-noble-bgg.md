@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/bgg
-  - Monster/HG/15
-  - Monster/Größe/Riesig
-  - Monster/Typ/Riese/wizard
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Fomorian Noble
+tags:
+  - Monster/Größe/Riesig
+  - Monster/HG/15
+  - Monster/Typ/Riese/wizard
+  - Quelle/5e/bgg
 aliases:
   - Fomorian Noble
 ---

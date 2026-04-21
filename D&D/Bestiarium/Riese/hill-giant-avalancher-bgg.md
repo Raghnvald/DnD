@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/bgg
-  - Monster/HG/12
-  - Monster/Größe/Riesig
-  - Monster/Typ/Riese/druid
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Hill Giant Avalancher
+tags:
+  - Monster/Größe/Riesig
+  - Monster/HG/12
+  - Monster/Typ/Riese/druid
+  - Quelle/5e/bgg
 aliases:
   - Hill Giant Avalancher
 ---

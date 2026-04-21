@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: The Lawbearer
 tags:
-  - Quelle/5e/tdcsr
-  - Kompendium/Götter/exandria
   - Kompendium/Götter/Domäne/knowledge
   - Kompendium/Götter/Domäne/order
+  - Kompendium/Götter/exandria
+  - Quelle/5e/tdcsr
 aliases:
-  - The Lawbearer
   - Erathis
+  - The Lawbearer
 ---
 # The Lawbearer
 *Source: Tal'Dorei Campaign Setting Reborn p. 29* 

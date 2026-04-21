@@ -1,6 +1,6 @@
 ---
-cssclasses: json5e-item
 Bezeichnung: Helm des Sprachenverstehens
+Kategorie: Wundersamer Gegenstand
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/wundersam

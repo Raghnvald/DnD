@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: The Six Abilities; Ability Descriptions
 tags:
   - Quelle/5e/xphb
 aliases:

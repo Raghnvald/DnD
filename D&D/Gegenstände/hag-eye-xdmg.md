@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Hag Eye
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich

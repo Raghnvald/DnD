@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-race
+Bezeichnung: Human (Variant)
 tags:
   - Quelle/5e/phb
   - Rasse/human/variant
@@ -9,7 +8,6 @@ aliases:
 ---
 # Human (Variant)
 *Source: Player's Handbook p. 31. Available in the Basic Rules (2014)*  
-
 
 - **Ability Scores**: Apply +1 to one of Strength, Dexterity, Constitution, Intelligence, Wisdom, or Charisma.
 - **Size**: Medium

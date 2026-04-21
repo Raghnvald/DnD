@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Familiars
 tags:
   - Quelle/5e/mm
 aliases:

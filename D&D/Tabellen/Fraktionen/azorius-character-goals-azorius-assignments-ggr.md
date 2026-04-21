@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Azorius Character Goals; Azorius Assignments
 tags:
   - Quelle/5e/ggr
 aliases:

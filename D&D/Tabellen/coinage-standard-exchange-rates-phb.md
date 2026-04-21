@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Coinage; Standard Exchange Rates
 tags:
   - Quelle/5e/phb
 aliases:

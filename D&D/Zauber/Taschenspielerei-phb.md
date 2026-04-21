@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Prestidigitation
+Bezeichnung: Taschenspielerei
 Zaubergrad: 0 (Zaubertrick)
 Zeitaufwand: 1 Aktion
 Reichweite: 3 Meter

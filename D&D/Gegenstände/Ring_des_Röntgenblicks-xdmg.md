@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Ring of X-ray Vision
 tags:
   - Gegenstand/Einstimmung/required

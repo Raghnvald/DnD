@@ -1,10 +1,9 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: St. Cuthbert
 tags:
-  - Quelle/5e/phb
-  - Kompendium/Götter/greyhawk
   - Kompendium/Götter/Domäne/knowledge
+  - Kompendium/Götter/greyhawk
+  - Quelle/5e/phb
 aliases:
   - St. Cuthbert
 ---

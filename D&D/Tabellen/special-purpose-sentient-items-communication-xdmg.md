@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: "Special Purpose; Sentient Item's Communication"
 tags:
   - Quelle/5e/xdmg
 aliases:

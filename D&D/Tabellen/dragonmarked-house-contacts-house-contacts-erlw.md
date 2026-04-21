@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Dragonmarked House Contacts; House Contacts
 tags:
   - Quelle/5e/erlw
 aliases:

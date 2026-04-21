@@ -1,11 +1,10 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Solonor Thelandira
 tags:
-  - Quelle/5e/mtf
-  - Kompendium/Götter/elven
   - Kompendium/Götter/Domäne/nature
   - Kompendium/Götter/Domäne/war
+  - Kompendium/Götter/elven
+  - Quelle/5e/mtf
 aliases:
   - Solonor Thelandira
 ---

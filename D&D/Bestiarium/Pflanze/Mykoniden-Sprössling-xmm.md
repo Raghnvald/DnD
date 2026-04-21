@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/0
-  - Monster/Habitat/Unterreich
-  - Monster/Größe/Klein
-  - Monster/Typ/Pflanze
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Myconid Sprout
+tags:
+  - Monster/Größe/Klein
+  - Monster/Habitat/Unterreich
+  - Monster/HG/0
+  - Monster/Typ/Pflanze
+  - Quelle/5e/xmm
 aliases:
   - Myconid Sprout
 ---

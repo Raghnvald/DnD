@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/4
-  - Monster/Habitat/Jedes
-  - Monster/Größe/Mittelgroß
-  - Monster/Typ/Konstrukt
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Helmed Horror
+tags:
+  - Monster/Größe/Mittelgroß
+  - Monster/Habitat/Jedes
+  - Monster/HG/4
+  - Monster/Typ/Konstrukt
+  - Quelle/5e/xmm
 aliases:
   - Helmed Horror
 ---

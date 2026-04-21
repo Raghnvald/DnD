@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/9
-  - Monster/Habitat/Arktis
-  - Monster/Größe/Riesig
-  - Monster/Typ/Monstrosität
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Abominable Yeti
+tags:
+  - Monster/Größe/Riesig
+  - Monster/Habitat/Arktis
+  - Monster/HG/9
+  - Monster/Typ/Monstrosität
+  - Quelle/5e/xmm
 aliases:
   - Abominable Yeti
 ---
@@ -33,7 +32,6 @@ Due to yetis' elusiveness, folktales about yetis are more common than sightings.
 > [!quote] A quote from Kelesta Hawke of the Emerald Enclave  
 > 
 > In the yeti, I find no kinship, no understanding, no mercy. Theirs is not the might of the mountain or the magic of glacial wonders. Theirs is a world where harmony lies murdered and frozen.
-
 
 ```statblock
 "name": "Abominable Yeti (XMM)"

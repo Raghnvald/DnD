@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/mm
-  - Monster/HG/3
-  - Monster/Habitat/Wüste
-  - Monster/Größe/Groß
-  - Monster/Typ/Tier
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Giant Scorpion
+tags:
+  - Monster/Größe/Groß
+  - Monster/Habitat/Wüste
+  - Monster/HG/3
+  - Monster/Typ/Tier
+  - Quelle/5e/mm
 aliases:
   - Giant Scorpion
 ---

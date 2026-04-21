@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Ray of Enfeeblement
 Zaubergrad: 2
 tags:

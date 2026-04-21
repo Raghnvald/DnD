@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Potion of Diminution
 tags:
   - Gegenstand/Seltenheit/selten

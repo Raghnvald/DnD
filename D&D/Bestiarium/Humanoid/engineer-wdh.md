@@ -1,13 +1,12 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/wdh
-  - Monster/HG/1-4
-  - Monster/Größe/Klein
-  - Monster/Typ/Humanoid/rock-gnome
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Engineer
+tags:
+  - Monster/Größe/Klein
+  - Monster/HG/1-4
+  - Monster/Typ/Humanoid/rock-gnome
+  - Quelle/5e/wdh
 aliases:
   - Engineer
 ---

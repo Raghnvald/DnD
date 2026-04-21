@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Condemner (Dormant)
 Kategorie: Fernkampf-Kriegswaffe
 tags:

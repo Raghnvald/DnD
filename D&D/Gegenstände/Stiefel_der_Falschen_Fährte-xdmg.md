@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Boots of False Tracks
 tags:
   - Gegenstand/Seltenheit/gewöhnlich

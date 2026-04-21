@@ -1,4 +1,5 @@
 ---
+Bezeichnung: Armaments - Uncommon
 tags:
   - Quelle/5e/xdmg
 aliases:

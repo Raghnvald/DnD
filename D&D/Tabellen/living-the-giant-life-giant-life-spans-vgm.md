@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Living the Giant Life; Giant Life Spans
 tags:
   - Quelle/5e/vgm
 aliases:

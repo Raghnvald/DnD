@@ -1,7 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
-  - json5e-index
+Bezeichnung: Index of Backgrounds
 ---
 # Index of Backgrounds
 

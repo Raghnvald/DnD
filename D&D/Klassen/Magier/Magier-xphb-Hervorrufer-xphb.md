@@ -1,7 +1,8 @@
 ---
+Bezeichnung: Evoker
 tags:
-  - Quelle/5e/xphb
   - Klasse/Magier/evoker
+  - Quelle/5e/xphb
 aliases:
   - Evoker
 ---
@@ -39,7 +40,6 @@ aliases:
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Xoriat, the Realm of Madness; Xoriat Manifest Zone Features
 tags:
   - Quelle/5e/erlw
 aliases:

@@ -1,7 +1,6 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Figurine of Wondrous Power, Obsidian Steed
+Kategorie: Wundersamer Gegenstand
 tags:
   - Gegenstand/Seltenheit/sehr_selten
   - Quelle/5e/dmg

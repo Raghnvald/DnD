@@ -1,14 +1,12 @@
 ---
-cssclasses:
-  - json5e-item
-Bezeichnung: Sage's Signet (Hart)
+Bezeichnung: "Sage's Signet (Hart)"
+Kategorie: Ring
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/wundersam/ring
   - Quelle/5e/bmt
 aliases:
-  - Sage's Signet (Hart)
   - Sage's Signet (Hart)
 linter-yaml-title-alias: Sage's Signet (Hart)
 ---

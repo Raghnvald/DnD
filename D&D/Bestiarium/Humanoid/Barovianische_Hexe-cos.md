@@ -1,19 +1,18 @@
 ---
-cssclasses: dnd5e-only-statblock
 prefer-view: edit-source read
+statblock: inline
+statblock-link: "#^statblock"
 Bezeichnung: Barovianische Hexe
 Kategorie: Humanoid
 Größe: Mittelgroß
 HG: 1/2
-status:
 image:
+status:
 tags:
-  - Quelle/5e/cos
-  - Monster/HG/1-2
   - Monster/Größe/Mittelgroß
+  - Monster/HG/1-2
   - Monster/Typ/Humanoid/human
-statblock: inline
-statblock-link: "#^statblock"
+  - Quelle/5e/cos
 aliases:
   - Barovian Witch
 ---

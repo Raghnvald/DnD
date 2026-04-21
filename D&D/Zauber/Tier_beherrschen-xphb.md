@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Dominate Beast
 tags:
   - Klasse/Barde

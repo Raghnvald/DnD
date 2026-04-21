@@ -1,15 +1,14 @@
 ---
-cssclasses:
-  - json5e-monster
-tags:
-  - Quelle/5e/xmm
-  - Monster/HG/1
-  - Monster/Habitat/abyss
-  - Monster/Habitat/planar
-  - Monster/Größe/Winzig
-  - Monster/Typ/Unhold/demon
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Quasit
+tags:
+  - Monster/Größe/Winzig
+  - Monster/Habitat/abyss
+  - Monster/Habitat/planar
+  - Monster/HG/1
+  - Monster/Typ/Unhold/demon
+  - Quelle/5e/xmm
 aliases:
   - Quasit
 ---
@@ -30,7 +29,6 @@ Quasits are usually overlooked and underestimated by other demons. This drives t
 > [!quote] A quote from Otto the Bard  
 > 
 > A thing doesn't need to be big to be gut-flippingly dreadful. Just think of all the folks who're squeamish around spiders. Now imagine a spider as big as a cat and that wants to steal your tongue.
-
 
 ```statblock
 "name": "Quasit (XMM)"

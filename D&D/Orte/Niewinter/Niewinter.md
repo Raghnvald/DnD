@@ -1,3 +1,6 @@
+---
+Bezeichnung: Layout
+---
 # Layout
 
 After the Mount Hotenow eruption in 1451 DR, the city was almost destroyed. After the rebuilding project, the layout was drastically changed:
@@ -17,7 +20,6 @@ The River District, also known as the Towers District, located at the northeaste
 ## Protectors Enclave
 
 The Protector's Enclave was one of the districts of Neverwinter, named after Dagult Neverember, the Lord Protector of the city.[1]
-
 
 ### Geography
 Most of the original buildings of this district were left unscathed after the destruction of the city. As such, the Protector's Enclave was the only part of Neverwinter that looked like it did in its old days.[1]
@@ -145,7 +147,6 @@ Mordai Vell
 ## Neverdeath Graveyard
 
 Neverdeath, also called the Neverdeath Graveyard, was the burial ground and cemetery of Neverwinter. It was named for a common blessing given over the dead: as long as the city remained in summer, it was believed that the dead would not turn into undead.[1]
-
 
 ### Description
 Neverdeath consisted of two wide, roughly square areas of the city surrounded by a thick and looming black wall of stone and wood pierced by stark black gates.[1][2] Each of these was a sprawling cemetery: the so-called Main Graveyard was located in the northeastern of the two sections, while the southwestern section was known as the Pauper's Section.[3][4] The graveyards included sprawling rows of tombstones interspersed with old trees, crumbling statues, and mausoleums.[1][2] These mausoleums were interconnected via underground catacombs that extended under both cemeteries.[1][5][6]

@@ -1,10 +1,9 @@
 ---
-cssclasses:
-  - json5e-object
+Bezeichnung: Ice Troll Heart
 tags:
-  - Quelle/5e/idrotf
   - Kompendium/Objekt/size/tiny
   - Kompendium/Objekt/type/unknown
+  - Quelle/5e/idrotf
 aliases:
   - Ice Troll Heart
 ---

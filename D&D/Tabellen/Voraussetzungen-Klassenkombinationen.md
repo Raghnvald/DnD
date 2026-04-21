@@ -1,8 +1,9 @@
 ---
+Bezeichnung: Voraussetzungen Klassenkombinationen
 tags:
-- Quelle/5e/phb
+  - Quelle/5e/phb
 aliases:
-- Multiclassing Prerequisites
+  - Multiclassing Prerequisites
 ---
 # Voraussetzungen Klassenkombinationen
 _Quelle:_ Spielerhandbuch

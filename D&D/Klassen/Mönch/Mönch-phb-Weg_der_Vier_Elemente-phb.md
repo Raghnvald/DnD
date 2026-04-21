@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-class
+Bezeichnung: Way of the Four Elements
 tags:
-  - Quelle/5e/phb
   - Klasse/Mönch/four-elements
+  - Quelle/5e/phb
 aliases:
   - Way of the Four Elements
 ---
@@ -41,7 +40,6 @@ aliases:
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 

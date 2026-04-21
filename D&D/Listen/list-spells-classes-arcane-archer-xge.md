@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - json5e-note
+Bezeichnung: Spells for Arcane Archer
 tags:
   - Zauber/list/subclass/arcane-archer
 aliases:

@@ -1,5 +1,7 @@
 ---
-tags: [Quelle/5e/bgdia]
+Bezeichnung: Stadtführer von Baldurs Gate
+tags:
+  - Quelle/5e/bgdia
 ---
 # Stadtführer von Baldurs Gate
 

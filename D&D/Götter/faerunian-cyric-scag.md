@@ -1,14 +1,13 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Cyric
 tags:
-  - Quelle/5e/scag
-  - Kompendium/Götter/faerunian
   - Kompendium/Götter/Domäne/trickery
+  - Kompendium/Götter/faerunian
+  - Quelle/5e/scag
 aliases:
   - Cyric
-  - The Prince of Lies
   - The Dark Sun
+  - The Prince of Lies
 ---
 # Cyric
 *Source: Sword Coast Adventurer's Guide p. 21* 

@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Chicken
 tags:
   - Gegenstand/Ausrüstung/Handelsgut

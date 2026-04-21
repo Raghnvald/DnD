@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Drachenstab von Ahghairon
+Bezeichnung: Dragonstaff of Ahghairon
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär

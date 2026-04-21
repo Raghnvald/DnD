@@ -1,14 +1,12 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Magic Weapon
 tags:
+  - Klasse/Artifizient
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
   - Klasse/Kleriker/forge-domain
   - Klasse/Kleriker/war-domain
   - Klasse/Magier
-  - Klasse/Artifizient
   - Klasse/paladin
   - Klasse/Paladin/oath-of-glory
   - Klasse/Schurke/Arkaner-Betrüger

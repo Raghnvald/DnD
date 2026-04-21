@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-note
 Bezeichnung: Bard Spells
 tags:
   - Zauber/list/class/bard

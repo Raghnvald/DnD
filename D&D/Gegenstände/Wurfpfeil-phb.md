@@ -3,6 +3,7 @@ Bezeichnung: Wurfpfeil
 Kategorie: Einfache Fernkampfwaffe
 Schaden: 1W6 Stich
 Eigenschaften: Geschosse, Zweihändig
+Einstimmung: /
 Kst.: 5 KM
 Gew.: 0,125 kg.
 tags:
@@ -13,7 +14,6 @@ tags:
 aliases:
   - Dart
 linter-yaml-title-alias: Dart
-Einstimmung: /
 ---
 # Wurfpfeil
 *Waffe*  

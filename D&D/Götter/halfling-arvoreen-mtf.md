@@ -1,10 +1,9 @@
 ---
-cssclasses:
-  - json5e-deity
+Bezeichnung: Arvoreen
 tags:
-  - Quelle/5e/mtf
-  - Kompendium/Götter/halfling
   - Kompendium/Götter/Domäne/war
+  - Kompendium/Götter/halfling
+  - Quelle/5e/mtf
 aliases:
   - Arvoreen
 ---

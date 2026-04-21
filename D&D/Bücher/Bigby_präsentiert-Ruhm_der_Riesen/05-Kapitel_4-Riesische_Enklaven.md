@@ -1,8 +1,9 @@
 ---
+Bezeichnung: "Chapter 4: Giant Enclaves"
 tags:
-- Quelle/5e/bgg
+  - Quelle/5e/bgg
 aliases:
-- Chapter 4: Giant Enclaves
+  - Chapter 4: Giant Enclaves
 ---
 # Chapter 4: Giant Enclaves
 *Source: Bigby Presents: Glory of the Giants, p. 67* 

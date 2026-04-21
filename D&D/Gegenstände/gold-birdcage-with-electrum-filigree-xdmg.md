@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-item
 Bezeichnung: Gold birdcage with electrum filigree
 tags:
   - Gegenstand/Ausrüstung/treasure-art-object

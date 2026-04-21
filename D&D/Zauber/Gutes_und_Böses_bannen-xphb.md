@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Dispel Evil and Good
 tags:
   - Klasse/Barde

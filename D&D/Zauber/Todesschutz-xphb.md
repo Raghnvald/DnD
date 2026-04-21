@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - json5e-spell
 Bezeichnung: Death Ward
 tags:
   - Klasse/Barde

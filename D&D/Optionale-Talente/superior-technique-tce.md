@@ -1,9 +1,8 @@
 ---
-cssclasses:
-  - json5e-feat
+Bezeichnung: Superior Technique
 tags:
-  - Quelle/5e/tce
   - Kompendium/Optionales/fs-f
+  - Quelle/5e/tce
 aliases:
   - Superior Technique
 ---

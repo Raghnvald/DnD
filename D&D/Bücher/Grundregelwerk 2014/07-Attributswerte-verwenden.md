@@ -1,4 +1,5 @@
 ---
+Bezeichnung: Attribute
 tags: []
 ---
 # Attribute
@@ -276,7 +277,6 @@ $\quad$Generell multiplizierst du deinen Übungsbonus nicht für Angriffs- oder 
 
 Ein Attributswurf stellt die Begabung oder das Training eines Charakters oder Monsters beim Bewältigen einer Aufgabe auf die Probe. Der SL verlangt einen Attributswurf, wenn ein Charakter oder ein Monster eine Aktion − jedoch keinen Angriff − versucht, bei der die Möglichkeit eines Scheiterns besteht. Ist der Ausgang ungewiss, bestimmen die Würfel das Ergebnis.
 $\quad$Der SL entscheidet, welches der sechs Attribute für die jeweilige Aufgabe relevant ist, und legt den Schwierigkeitsgrad (SG) fest. Je schwieriger eine Aufgabe ist, desto höher der SG. Die Tabelle „Typische Schwierigkeitsgrade“ zeigt gängige SGs
-
 
 > [!tldr]- Typische Schwierigkeitsgrade
 > 
