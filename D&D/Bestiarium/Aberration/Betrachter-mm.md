@@ -48,6 +48,8 @@ As alien as their creator, the rooms in a beholder's lair reflect the creature's
 
 A beholder's central lair is typically a large, spacious cavern with high ceilings, where it can attack without fear of closing to melee range. A beholder encountered in its lair has a challenge rating of 14 (11,500 XP).
 
+![[Legendäre-Gruppe/Betrachter-mm#Beholder]]
+
 ```statblock
 "name": "Beholder"
 "size": "Large"

@@ -38,6 +38,8 @@ The lair of an elder brain lies deep in the heart of a mind flayer colony. The b
 
 An elder brain's ambitions are always tempered by its relative immobility. Although its telepathic senses can reach for miles, moving anywhere is always a dangerous proposition. If forced outside its brine pool, an elder brain swiftly expires, and transporting an elder brain in its pool through confining and tortuous subterranean tunnels frequently proves difficult or impossible.
 
+![[Legendäre-Gruppe/Ältestengehirn-mpmm#Elder Brain]]
+
 ```statblock
 "name": "Elder Brain (MPMM)"
 "size": "Large"

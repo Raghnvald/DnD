@@ -5,6 +5,8 @@
     "tags": "tags",
     "RK": "text",
     "Habitat": "multitext",
-    "HG": "number"
+    "HG": "number",
+    "Kst.": "number",
+    "Gew.": "number"
   }
 }

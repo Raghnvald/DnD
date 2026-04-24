@@ -1,7 +1,7 @@
 ---
 statblock: inline
 statblock-link: "#^statblock"
-Bezeichnung: Mind Flayer Prophet
+Bezeichnung: Gedankenschinder-Prophet
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/8
@@ -21,7 +21,7 @@ Some mind flayers dedicate their lives to channeling abstruse truths from beyond
 Mind flayers, also known as illithids, feast on the brains of Humanoids across the multiverse. They are distinguished by their purple-toned skin and octopus-like heads, from which extend writhing tentacles.
 
 ```statblock
-"name": "Mind Flayer Prophet (PaBTSO)"
+"name": "Gedankenschinder-Prophet (PaBTSO)"
 "size": "Medium"
 "type": "aberration"
 "alignment": "typically  Lawful Evil"

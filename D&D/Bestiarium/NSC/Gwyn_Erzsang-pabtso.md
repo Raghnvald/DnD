@@ -8,7 +8,7 @@ Größe: Mittelgroß
 HG: 1/4
 Habitat:
   - /
-image: image/gwyn-oresong-pabtso.webp
+image: NSC/token/gwyn-oresong-pabtso.webp
 status: completed
 tags:
   - Monster/Größe/Mittelgroß

@@ -17,5 +17,7 @@
   "multi-column-markdown",
   "dnd-ui-toolkit",
   "dataview",
-  "tab-panels"
+  "tab-panels",
+  "obsidian-linter",
+  "find-unlinked-files"
 ]

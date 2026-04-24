@@ -15,7 +15,7 @@ tags:
   - Quelle/5e/pabtso
 aliases:
   - Lowarnizel
-Image: npc/token/lowarnizel-pabtso.webp
+Image: NSC/token/lowarnizel-pabtso.webp
 linter-yaml-title-alias: Lowarnizel
 ---
 # Lowarnizel

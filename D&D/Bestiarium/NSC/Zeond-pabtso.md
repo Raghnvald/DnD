@@ -13,7 +13,7 @@ tags:
   - Quelle/5e/pabtso
 aliases:
   - Zeond
-Image: npc/token/zeond-pabtso.webp
+Image: NSC/token/zeond-pabtso.webp
 linter-yaml-title-alias: Zeond
 ---
 # Zeond

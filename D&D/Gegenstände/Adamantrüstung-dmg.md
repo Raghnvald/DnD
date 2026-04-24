@@ -8,6 +8,7 @@ Gew.: /
 RK: /
 STR: /
 Heiml.: /
+Status: completed
 tags:
   - Gegenstand/Rüstung/Mittel
   - Gegenstand/Rüstung/Schwer

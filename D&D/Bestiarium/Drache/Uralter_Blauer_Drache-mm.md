@@ -1,7 +1,7 @@
 ---
 statblock: inline
 statblock-link: "#^statblock"
-Bezeichnung: Ancient Blue Dragon
+Bezeichnung: "Uralter Blauer Drache "
 tags:
   - Monster/Größe/Gigantisch
   - Monster/Habitat/Küste

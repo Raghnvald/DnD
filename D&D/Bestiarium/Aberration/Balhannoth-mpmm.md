@@ -32,6 +32,8 @@ Dungeon builders and Underdark tyrants sometimes venture into the Shadowfell to 
 
 In the Shadowfell, balhannoths make their lairs near places inhabited by creatures they hunt. They typically haunt well-traveled roads and paths, snatching people who come along. A balhannoth used as a guardian in the Underdark might lair in caves near Underdark passages and guard the ways in and out of its keepers' enclave.
 
+![[Legendäre-Gruppe/Balhannoth-mpmm#Balhannoth]]
+
 ```statblock
 "name": "Balhannoth (MPMM)"
 "size": "Large"

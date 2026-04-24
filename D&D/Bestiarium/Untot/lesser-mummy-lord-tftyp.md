@@ -11,7 +11,7 @@ aliases:
   - Lesser Mummy Lord
 linter-yaml-title-alias: Lesser Mummy Lord
 ---
-# [Lesser Mummy Lord](3-Mechanics\CLI\bestiary\undead/lesser-mummy-lord-tftyp.md)
+# Lesser Mummy Lord
 *Source: Tales from the Yawning Portal p. 224*  
 
 ```statblock

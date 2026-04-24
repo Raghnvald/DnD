@@ -7,6 +7,7 @@ Größe: Mittelgroß
 HG: 4
 Habitat:
   - /
+image: Drache/token/Amethyst-Dragon-Wyrmling-ftd.webp
 status: WIP
 tags:
   - Monster/Größe/Mittelgroß

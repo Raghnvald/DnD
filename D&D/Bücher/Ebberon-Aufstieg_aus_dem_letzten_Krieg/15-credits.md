@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Credits
 tags:
-- new/compendium/src/5e/erlw
+  - new/compendium/src/5e/erlw
 aliases:
-- Credits
+  - Credits
 ---
 # Credits
 *Source: Eberron: Rising from the Last War* 

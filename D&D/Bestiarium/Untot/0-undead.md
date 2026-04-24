@@ -62,7 +62,7 @@ linter-yaml-title-alias: Index of Undead
 - [Jiangshi](./jiangshi-vrgr.md)
 - [Knight of the Order](./knight-of-the-order-cos.md)
 - [Lacedon Ghoul](./lacedon-ghoul-xmm.md)
-- [Lacedon](./lacedon-tftyp.md)
+- [Lacedon](Lazedon-tftyp.md)
 - [Lich](./lich-xmm.md)
 - [Mind Drinker Vampire](./mind-drinker-vampire-ggr.md)
 - [Minotaur Skeleton](./minotaur-skeleton-xmm.md)

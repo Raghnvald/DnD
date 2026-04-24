@@ -26,5 +26,7 @@
     "clean-embeds"
   ],
   "showViewHeader": true,
-  "showRibbon": true
+  "showRibbon": true,
+  "autoFullScreen": true,
+  "floatingNavigation": false
 }

@@ -1,3 +1,7 @@
+---
+Bezeichnung: Statblock Tests
+---
+# Statblock Tests
 ```statblock
 name: Beobachter
 image: token/spectator.webp

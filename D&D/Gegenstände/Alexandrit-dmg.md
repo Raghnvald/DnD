@@ -4,6 +4,7 @@ Kategorie: Edelstein
 Eigenschaften: /
 Kst.: 500 GM
 Gew.: /
+Status: completed
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone
   - Gegenstand/Seltenheit/keine

@@ -16,7 +16,7 @@ tags:
 aliases:
   - Dwarf Skeleton
   - Zwergenskelett
-Image: undead/token/dwarf-skeleton-pabtso.webp
+Image: Untot/token/dwarf-skeleton-pabtso.webp
 linter-yaml-title-alias: Zwergenskelett
 ---
 # Zwergenskelett

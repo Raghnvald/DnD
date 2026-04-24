@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Treasures
 tags:
-- new/compendium/src/5e/erlw
+  - new/compendium/src/5e/erlw
 aliases:
-- Treasures
+  - Treasures
 ---
 # Treasures
 *Source: Eberron: Rising from the Last War, p. 275* 

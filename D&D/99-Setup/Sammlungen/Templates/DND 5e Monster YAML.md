@@ -1,17 +1,17 @@
 ---
-Bezeichnung: 
+Bezeichnung: Name
 Typ: 
 Größe: 
 HG: 
-status:
 image: 
+status:
 tags:
-- Quelle/QUELLE
-- Typ/TYP/SUBTYP
-- Habitat/GRÖSSE
-- Vorkommen/VORKOMMEN
+  - Habitat/GRÖSSE
+  - Quelle/QUELLE
+  - Typ/TYP/SUBTYP
+  - Vorkommen/VORKOMMEN
 aliases:
-- NAME
+  - NAME
 ---
 # Name
 *Quelle: SRD / Grundregelwerk*  

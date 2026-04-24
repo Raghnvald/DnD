@@ -31,6 +31,8 @@ Thereafter, any creature that holds this iron token can have a whispered convers
 
 A hag can have up to three iron tokens active at one time. As an action, the hag can discern the direction and approximate distance to those active tokens. The hag can deactivate any of those tokens at any distance (no action required), whereupon the token retains its current form but loses its magic.
 
+![[Annis-Vettel-vgm#Annis Hag]]
+
 ```statblock
 "name": "Annis Hag (MPMM)"
 "size": "Large"

@@ -4,6 +4,7 @@ statblock-link: "#^statblock"
 Bezeichnung: Copper Dragon Wyrmling
 Kategorie: Drache
 Größe: Mittelgroß
+image: Drache/token/Copper-Dragon-Wyrmling.webp
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Handwerkszeug
+Status: completed
 tags:
   - Gegenstand/Ausrüstung/Werkzeug
   - Gegenstand/Seltenheit/keine

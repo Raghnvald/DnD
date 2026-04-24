@@ -8,7 +8,7 @@ Größe: Mittelgroß
 HG: 1/4
 Habitat:
   - /
-image: undead/token/ash-zombie-pabtso.webp
+image: Untot/token/ash-zombie-pabtso.webp
 status:
 tags:
   - Monster/Größe/Mittelgroß

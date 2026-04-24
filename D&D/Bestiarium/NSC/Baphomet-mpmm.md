@@ -33,6 +33,8 @@ Baphomet wields a great glaive called Heartcleaver. He also charges his enemies 
 
 Baphomet's lair is his palace, the Lyktion, which is on the layer of the Abyss called the Endless Maze. Nestled within the twisting passages of the plane-wide labyrinth, the Lyktion is immaculately maintained and surrounded by a moat constructed in the fashion of a three-dimensional maze. The palace is a towering structure whose interior is as labyrinthine as the plane on which it stands; it is populated by [minotaurs](/3-Mechanics/CLI/bestiary/monstrosity/minotaur-of-baphomet-xmm.md), [goristros](/3-Mechanics/CLI/bestiary/fiend/goristro-xmm.md), and [quasits](/3-Mechanics/CLI/bestiary/fiend/quasit-xmm.md).
 
+![[Legendäre-Gruppe/Baphomet-mpmm#Baphomet]]
+
 ```statblock
 "name": "Baphomet (MPMM)"
 "size": "Huge"

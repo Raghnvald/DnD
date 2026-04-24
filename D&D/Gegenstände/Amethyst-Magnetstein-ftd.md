@@ -1,6 +1,10 @@
 ---
-Bezeichnung: Amethyst Lodestone
+Bezeichnung: Amethyst-Magnetstein
 Kategorie: Wundersamer Gegenstand
+Eigenschaften: /
+Kst.: /
+Gew.: /
+Status: completed
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
@@ -10,23 +14,23 @@ aliases:
   - Amethyst Lodestone
 linter-yaml-title-alias: Amethyst Lodestone
 ---
-# Amethyst Lodestone
-*Wondrous item, very rare (requires attunement)*  
+# Amethyst-Magnetstein
+*Wundersamer Gegenstand, sehr selten (erfordert Einstimmung)*  
 
-This fist-sized chunk of amethyst is infused with an amethyst dragon's ability to bend gravitational forces. While you are carrying the lodestone, you have advantage on Strength saving throws.
+Dieser faustgroße Amethyst ist mit der Fähigkeit von Amethystdrachen durchdrungen, die Gravitation zu beeinflussen. Solange du den Magnetstein trägst, bist du bei Stärke-Rettungswürfen im Vorteil.
 
-The lodestone has 6 charges for the following properties, which you can use while you are holding the stone. The stone regains `1d6` expended charges daily at dawn.
+Der Magnetstein hat sechs Ladungen für die folgenden Eigenschaften, die du nutzen kannst, solange du den Stein hältst. Der Stein gewinnt täglich im Morgengrauen `1W6` verbrauchte Ladungen zurück.
 
-## Flight
+## Flug
 
-As a bonus action, you can expend 1 charge to gain the power of flight for 10 minutes. For the duration, you gain a flying speed equal to your walking speed, and you can hover.
+Du kannst als Bonusaktion eine Ladung verbrauchen, um zehn Minuten lang flugfähig zu sein. Solange hast du eine Flugbewegungsrate in Höhe deiner Schrittbewegungsrate und kannst schweben.
 
-## Gravitational Thrust
+## Gravitationsstoß 
 
-As an action, you can expend 1 charge to focus gravity around a creature you can see within 60 feet of you. The target must succeed on a DC 18 Strength saving throw or be pushed up to 20 feet in a direction of your choice.
+Du kannst als Aktion eine Ladung verbrauchen, um die Schwerkraft um eine Kreatur im Abstand von bis zu 18 Metern von dir zu konzentrieren, die du sehen kannst. Das Ziel muss einen SG-18-Stärkerettungswurf bestehen, oder es wird bis zu sechs Meter in eine Richtung deiner Wahl gestoßen.
 
-## Reverse Gravity
+## Schwerkraft umkehren
 
-As an action, you can expend 3 charges to cast [reverse gravity](/3-Mechanics/CLI/spells/reverse-gravity-xphb.md) from the stone (save DC 18).
+Als Aktion kannst du drei Ladungen verbrauchen, um [[Schwerkraft_umkehren-phb|Schwerkraft umkehren]] aus dem Stein zu wirken (Rettungswurf-SG-18).
 
-*Source: Fizban's Treasury of Dragons p. 22*
+*Quelle: Fizbans Schatzkammer der Drachen S. 22*

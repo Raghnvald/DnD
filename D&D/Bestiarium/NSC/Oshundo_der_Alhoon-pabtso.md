@@ -1,7 +1,7 @@
 ---
 statblock: inline
 statblock-link: "#^statblock"
-Bezeichnung: Oshundo the Alhoon
+Bezeichnung: Oshundo der Alhoon
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/10
@@ -10,16 +10,16 @@ tags:
   - Quelle/5e/pabtso
 aliases:
   - Oshundo the Alhoon
-Image: npc/token/oshundo-the-alhoon-pabtso.webp
+Image: NSC/token/oshundo-the-alhoon-pabtso.webp
 linter-yaml-title-alias: Oshundo the Alhoon
 ---
-# Oshundo the Alhoon
+# Oshundo der Alhoon
 *Source: Phandelver and Below: The Shattered Obelisk p. 153*  
 
 Oshundo lived in Illithinoch at the height of the mind flayer empire many centuries ago, but Oshundo was driven out for practicing arcane magic. It's obvious that this rejection still stings Oshundo, who refers to Illithinoch's long-dead leaders as "ignorant fools" who are "closed to the flexibility and power of arcane magic."
 
 ```statblock
-"name": "Oshundo the Alhoon (PaBTSO)"
+"name": "Oshundo der Alhoon (PaBTSO)"
 "size": "Medium"
 "type": "undead"
 "subtype": "mind flayer, wizard"

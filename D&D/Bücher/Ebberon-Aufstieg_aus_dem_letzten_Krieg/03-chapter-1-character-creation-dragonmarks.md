@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Chapter 1: Character Creation - Dragonmarks"
 tags:
-- new/compendium/src/5e/erlw
+  - new/compendium/src/5e/erlw
 aliases:
-- Chapter 1: Character Creation - Dragonmarks
+  - Chapter 1: Character Creation - Dragonmarks
 ---
 # Chapter 1: Character Creation - Dragonmarks
 *Source: Eberron: Rising from the Last War, p. 37* 

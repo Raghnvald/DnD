@@ -9,7 +9,7 @@ tags:
   - Quelle/5e/pabtso
 aliases:
   - Yanthdel Henlifel
-Image: npc/token/yanthdel-henlifel-pabtso.webp
+Image: NSC/token/yanthdel-henlifel-pabtso.webp
 linter-yaml-title-alias: Yanthdel Henlifel
 ---
 # Yanthdel Henlifel

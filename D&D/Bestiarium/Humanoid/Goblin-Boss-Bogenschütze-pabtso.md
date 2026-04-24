@@ -1,7 +1,7 @@
 ---
 statblock: inline
 statblock-link: "#^statblock"
-Bezeichnung: Goblin Boss Archer
+Bezeichnung: Goblin-Boss-Bogenschütze
 tags:
   - Monster/Größe/Klein
   - Monster/HG/1
@@ -15,7 +15,7 @@ Image: humanoid/token/goblin-boss-archer-pabtso.webp
 *Source: Phandelver and Below: The Shattered Obelisk p. 60*  
 
 ```statblock
-"name": "Goblin Boss Archer (PaBTSO)"
+"name": "Goblin-Boss-Bogenschütze (PaBTSO)"
 "size": "Small"
 "type": "humanoid"
 "subtype": "goblinoid"

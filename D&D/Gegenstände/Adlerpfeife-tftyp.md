@@ -1,6 +1,10 @@
 ---
-Bezeichnung: Eagle Whistle
+Bezeichnung: Adlerpfeife
 Kategorie: Wundersamer Gegenstand
+Eigenschaften: /
+Kst.: /
+Gew.: /
+Status:
 tags:
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam
@@ -9,11 +13,11 @@ aliases:
   - Eagle Whistle
 linter-yaml-title-alias: Eagle Whistle
 ---
-# Eagle Whistle
-*Wondrous item, rare*  
+# Adlerpfeife
+*Wundersamer Gegenstand, selten*  
 
-- **Weight**: 1.0 lbs.
+- **Gewicht**: 0,5 kg.
 
-While you blow an eagle whistle continuously, you can fly twice as fast as your walking speed. You can blow the whistle continuously for a number of rounds equal to 5 + five times your Constitution modifier (minimum of 1 round) or until you talk, hold your breath, or start suffocating. A use of the whistle also ends if you land. If you are aloft when you stop blowing the whistle, you fall. The whistle has three uses. It regains expended uses daily at dawn.
+Solange du fortwährend eineAdlerpfeife bläst, kannst du mit dem doppelten Wert deiner Schrittbewegungsrate fliegen. Du kannst die Pfeife für eine Anzahl von Runden gleich 5 + fünf Mal dein Konstitutionsmodifikator (mindestens 1 Runde lang) fortwährend blasen, oder bis du sprichst, deinen Atem anhältst oder zu ersticken beginnst. Eine Nutzung der Pfeife endet ebenfalls, wenn du landest. Falls du in der Luft bist, wenn du aufhörst, in die Pfeife zu blasen, stürzt du ab. Die Pfeife hat drei Ladungen. Sie erhält verbrauchte Ladungen täglich zur Morgendämmerung zurück.
 
-*Source: Tales from the Yawning Portal p. 228*
+*Quelle: Tales from the Yawning Portal p. 228*

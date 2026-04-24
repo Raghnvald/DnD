@@ -22,7 +22,7 @@ views:
         - file.tags.contains("Quelle/5e/lmop")
         - file.tags.contains("Quelle/5e/pabtso")
     order:
-      - Name
+      - Bezeichnung
     cardSize: 130
     image: note.Image
     imageFit: contain

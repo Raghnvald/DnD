@@ -1,17 +1,13 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
+Bezeichnung: Deck of Illusions
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/rarity/uncommon
-aliases: 
-- "Deck of Illusions"
+  - ttrpg-cli/compendium/src/5e/xdmg
+  - ttrpg-cli/item/rarity/uncommon
+aliases:
+  - "Deck of Illusions"
 ---
 # Deck of Illusions
 *Wondrous item, uncommon*  
-
-
 
 This box contains a set of cards. A full deck has 34 cards: 32 depicting specific creatures and two with a mirrored surface. A deck found as treasure is usually missing `dice:1d20-1|noform|noparens|avg` (` - 1`) cards.
 

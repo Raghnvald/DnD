@@ -16,7 +16,7 @@ tags:
 aliases:
   - Giftzahn
   - Venomfang
-Image: npc/token/venomfang-lmop.webp
+Image: NSC/token/venomfang-lmop.webp
 linter-yaml-title-alias: Giftzahn
 ---
 # Giftzahn

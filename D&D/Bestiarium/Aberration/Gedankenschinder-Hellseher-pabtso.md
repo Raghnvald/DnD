@@ -1,7 +1,7 @@
 ---
 statblock: inline
 statblock-link: "#^statblock"
-Bezeichnung: Mind Flayer Clairvoyant
+Bezeichnung: Gedankenschinder-Hellseher
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/11
@@ -23,7 +23,7 @@ Instead of heeding an elder brain, a mind flayer clairvoyant listens to the whis
 Mind flayers, also known as illithids, feast on the brains of Humanoids across the multiverse. They are distinguished by their purple-toned skin and octopus-like heads, from which extend writhing tentacles.
 
 ```statblock
-"name": "Mind Flayer Clairvoyant (PaBTSO)"
+"name": "Gedankenschinder-Hellseher (PaBTSO)"
 "size": "Medium"
 "type": "aberration"
 "alignment": "typically  Lawful Evil"

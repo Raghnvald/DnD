@@ -1,6 +1,12 @@
 ---
-Bezeichnung: Reverse Gravity
+Bezeichnung: Schwerkraft umkehrenReverse GravityReverse GravityReverse GravityReverse Gravity
 Zaubergrad: 7
+Zeitaufwand: 1 Aktion
+Reichweite: 30 m
+Komponenten: V, G, M
+Wirkungsdauer: Konzentration, bis zu 1 Minute
+Angriff: GES
+Schaden: n/a
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide
@@ -18,20 +24,20 @@ aliases:
   - Reverse Gravity
 linter-yaml-title-alias: Reverse Gravity
 ---
-# Reverse Gravity
-*7th-level, Transmutation*  
+# Schwerkraft umkehren
+*Verwandlung des 7. Grades*  
 
-- **Casting time:** 1 Action
-- **Range:** 100 feet
-- **Components:** V, S, M (a lodestone and iron filings)
-- **Duration:** Concentration, up to 1 minute
+- **Zeitaufwand**: 1 Aktion
+- **Reichweite**: 30 m
+- **Komponenten**: V, G, M (ein Magnetstein und Eisenspäne)
+- **Wirkungsdauer**: Konzentration, bis zu 1 Minute
 
-This spell reverses gravity in a 50-foot-radius, 100-foot-high cylinder centered on a point within range. All creatures and objects that aren't somehow anchored to the ground in the area fall upward and reach the top of the area when you cast this spell. A creature can make a Dexterity saving throw to grab onto a fixed object it can reach, thus avoiding the fall.
+Dieser Zauber kehrt die Schwerkraft im Bereich eines Zylinders mit 15 m Radius und 30 m Höhe um. Wirkst du den Zauber, fallen alle Kreaturen und Gegenstände, die nicht auf irgendeine Weise mit dem Boden verbunden sind, nach oben, bis sie die Oberseite des Zylinders erreichen. Legt eine Kreatur einen erfolgreichen Geschicklichkeits-Rettungswurf ab, gelingt es ihr, sich an einem verankerten Gegenstand festzuhalten, und kann so den Sturz verhindern.
 
-If some solid object (such as a ceiling) is encountered in this fall, falling objects and creatures strike it just as they would during a normal downward fall. If an object or creature reaches the top of the area without striking anything, it remains there, oscillating slightly, for the duration.
+Wenn ein fester Gegenstand (wie eine Zimmerdecke) bei dem umgekehrten Sturz im Weg ist, treffen fallende Gegenstände und Kreaturen diesen wie bei einem normalen Sturz. Erreicht ein Gegenstand oder eine Kreatur die Oberseite des Zylinders, ohne von etwas aufgehalten zu werden, bleibt das Ziel dort und hängt für die Wirkungsdauer leicht schwankend in der Luft.
 
-At the end of the duration, affected objects and creatures fall back down.
+Am Ende der Wirkungsdauer fallen betroffene Gegenstände und Kreaturen wieder nach unten.
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Klassen**: [Barde (Magische Geheimnisse)](Listen/list-spells-classes-bard.md); [Druide](Listen/list-spells-classes-druid.md); [Magier](Listen/list-spells-classes-wizard.md); [Zauberer](Listen/list-spells-classes-sorcerer.md)
 
-*Source: Player's Handbook p. 272. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+*Quelle: Spielerhandbuch S. 263. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span>*

@@ -1,7 +1,7 @@
 ---
 statblock: inline
 statblock-link: "#^statblock"
-Bezeichnung: Young Copper Dragon
+Bezeichnung: Junger Kupferdrache
 image: Drache/token/Young-Copper-Dragon.webp
 tags:
   - Monster/Größe/Groß

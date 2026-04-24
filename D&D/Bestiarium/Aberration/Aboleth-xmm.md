@@ -56,6 +56,8 @@ Aboleths' alien goals and methods are often mysterious to other creatures. Roll 
 
 Aboleths usually dwell in submerged ruins and caverns. They keep air-filled spaces for their terrestrial servants and to hold treasures that would be damaged by water.
 
+![[Legendäre-Gruppe/Aboleth-xmm#Aboleth]]
+
 ```statblock
 "name": "Aboleth (XMM)"
 "size": "Large"

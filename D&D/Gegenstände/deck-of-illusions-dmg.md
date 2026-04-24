@@ -1,18 +1,14 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
+Bezeichnung: Deck of Illusions
 tags:
-- ttrpg-cli/compendium/src/5e/dmg
-- ttrpg-cli/item/rarity/uncommon
-- ttrpg-cli/item/tier/major
-aliases: 
-- "Deck of Illusions"
+  - ttrpg-cli/compendium/src/5e/dmg
+  - ttrpg-cli/item/rarity/uncommon
+  - ttrpg-cli/item/tier/major
+aliases:
+  - "Deck of Illusions"
 ---
 # Deck of Illusions
 *Wondrous item, major, uncommon*  
-
-
 
 This box contains a set of parchment cards. A full deck has 34 cards. A deck found as treasure is usually missing `dice:1d20-1|noform|noparens|avg` (` - 1`) cards.
 

@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Friends and Foes
 tags:
-- new/compendium/src/5e/erlw
+  - new/compendium/src/5e/erlw
 aliases:
-- Friends and Foes
+  - Friends and Foes
 ---
 # Friends and Foes
 *Source: Eberron: Rising from the Last War, p. 283* 

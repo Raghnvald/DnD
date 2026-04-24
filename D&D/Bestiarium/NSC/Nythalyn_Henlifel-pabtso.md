@@ -9,7 +9,7 @@ tags:
   - Quelle/5e/pabtso
 aliases:
   - Nythalyn Henlifel
-Image: npc/token/nythalyn-henlifel-pabtso.webp
+Image: NSC/token/nythalyn-henlifel-pabtso.webp
 linter-yaml-title-alias: Nythalyn Henlifel
 ---
 # Nythalyn Henlifel

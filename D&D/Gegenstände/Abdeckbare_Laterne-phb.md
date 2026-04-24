@@ -4,6 +4,7 @@ Kategorie: Abenteuerausrüstung
 Eigenschaften: /
 Kst.: 5 GM
 Gew.: 1,0 kg
+Status: completed
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine

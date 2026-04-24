@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Chapter 3: Sharn, City of Towers"
 tags:
-- new/compendium/src/5e/erlw
+  - new/compendium/src/5e/erlw
 aliases:
-- Chapter 3: Sharn, City of Towers
+  - Chapter 3: Sharn, City of Towers
 ---
 # Chapter 3: Sharn, City of Towers
 *Source: Eberron: Rising from the Last War* 

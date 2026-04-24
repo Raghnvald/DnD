@@ -10,8 +10,10 @@ views:
       and:
         - file.folder == "D&D/Gegenstände"
     order:
+      - Bezeichnung
       - file.name
       - aliases
+      - status
     sort:
       - property: file.name
         direction: ASC

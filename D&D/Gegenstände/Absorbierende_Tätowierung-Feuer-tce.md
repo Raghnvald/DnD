@@ -1,6 +1,10 @@
 ---
-Bezeichnung: Fire Absorbing Tattoo
+Bezeichnung: Feuer-Absorbierende Tätowierung
 Kategorie: Wundersamer Gegenstand
+Eigenschaften: /
+Kst.: /
+Gew.: /
+Status: completed
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
@@ -10,23 +14,23 @@ aliases:
   - Fire Absorbing Tattoo
 linter-yaml-title-alias: Fire Absorbing Tattoo
 ---
-# Fire Absorbing Tattoo
-*Wondrous item (tattoo), very rare (requires attunement)*  
+# Feuer-Absorbierende Tätowierung
+*Wundersamer Gegenstand (Tätowierung), sehr selten (erfordert Einstimmung)*
 
-Produced by a special needle, this magic tattoo features designs that emphasize one color (red).
+Diese magische Tätowierung stammt aus einer besonderen Nadel. Die Muster betonen eine bestimmte Farbe.
 
-## Tattoo Attunement
+## Tätowierungs-Einstimmung
 
-To attune to this item, you hold the needle to your skin where you want the tattoo to appear, pressing the needle there throughout the attunement process. When the attunement is complete, the needle turns into the ink that becomes the tattoo, which appears on the skin.
+Um dich auf diesen Gegenstand einzustimmen, musst du die Nadel dort auf deine Haut auflegen, wo die Tätowierung erscheinen soll. Die Nadel muss während der gesamten Einstimmung auf die Haut gedrückt werden. Wenn die Einstimmung abgeschlossen ist, wird die Nadel zur Tinte der Tätowierung, die auf der Haut auftaucht.
 
-If your attunement to the tattoo ends, the tattoo vanishes, and the needle reappears in your space.
+Wenn deine Einstimmung auf die Tätowierung endet, verschwindet die Tätowierung und die Nadel taucht erneut in deinem Bereich auf.
 
-## Damage Resistance
+## Schadensresistenz
 
-While the tattoo is on your skin, you have resistance to fire damage.
+Während sich die Tätowierung auf deiner Haut befindet, bist du gegen eine bestimmte Schadensart resistent, die mit der Farbe der Tätowierung verbunden ist. Der Spielleiter wählt die Farbe oder bestimmt sie zufällig.
 
-## Damage Absorption
+## Schadensabsorption
 
-When you take fire damage, you can use your reaction to gain immunity against that instance of the damage, and you regain a number of hit points equal to half the damage you would have taken. Once this reaction is used, it can't be used again until the next dawn.
+Erleidest du Schaden der ausgewählten Art, kannst du mit deiner Reaktion gegen diesen Schadenswurf immun werden und Trefferpunkte in Höhe der Hälfte des Schadens regenerieren, den du erlitten hättest. Wenn du diese Reaktion verwendest, kannst du sie erst im nächsten Morgengrauen erneut verwenden.
 
-*Source: Tasha's Cauldron of Everything p. 119*
+*Quelle: Tashass Kessel mit Allem S. 117*

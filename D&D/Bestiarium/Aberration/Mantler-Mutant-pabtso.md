@@ -1,7 +1,7 @@
 ---
 statblock: inline
 statblock-link: "#^statblock"
-Bezeichnung: Mantler Mutant
+Bezeichnung: Mantler-Mutant
 Kategorie: Aberration
 Größe: Groß
 HG: 10
@@ -33,7 +33,7 @@ Several common types of mutates exist. The individuals with stat blocks presente
 Mutates often gain psionic abilities, grow wings, become covered in otherworldly slime, or exhibit other unsettling traits. Specific mutated creatures are further described in appendix A.
 
 ```statblock
-"name": "Cloaker Mutate (PaBTSO)"
+"name": "Mantler-Mutant (PaBTSO)"
 "size": "Large"
 "type": "aberration"
 "alignment": "typically  Chaotic Neutral"

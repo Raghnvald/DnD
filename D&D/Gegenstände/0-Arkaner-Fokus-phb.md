@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Arkaner Fokus
+Status: completed
 tags:
   - Gegenstand/Ausrüstung/Zauberfokus
   - Gegenstand/Seltenheit/keine

@@ -1,7 +1,7 @@
 ---
 statblock: inline
 statblock-link: "#^statblock"
-Bezeichnung: Mind Flayer Nothic
+Bezeichnung: Gedankenschinder-Nothic
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/2
@@ -17,7 +17,7 @@ Image: aberration/token/mind-flayer-nothic-pabtso.webp
 A nothic is a monstrous creature with terrible talons and a single great eye. When driven to violence, it uses its horrific gaze to rot the flesh from its enemies' bones.
 
 ```statblock
-"name": "Mind Flayer Nothic (PaBTSO)"
+"name": "Gedankenschinder-Nothic (PaBTSO)"
 "size": "Medium"
 "type": "aberration"
 "alignment": "Neutral Evil"

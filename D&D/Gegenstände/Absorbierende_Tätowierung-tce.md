@@ -1,6 +1,10 @@
 ---
-Bezeichnung: Absorbing Tattoo
+Bezeichnung: Absorbierende Tätowierung
 Kategorie: Wundersamer Gegenstand
+Eigenschaften: /
+Kst.: /
+Gew.: /
+Status: completed
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
@@ -10,52 +14,52 @@ aliases:
   - Absorbing Tattoo
 linter-yaml-title-alias: Absorbing Tattoo
 ---
-# Absorbing Tattoo
-*Wondrous item (tattoo), very rare (requires attunement)*  
+# Absorbierende Tätowierung
+*Wundersamer Gegenstand (Tätowierung), sehr selten (erfordert Einstimmung)*
 
-Produced by a special needle, this magic tattoo features designs that emphasize one color.
+Diese magische Tätowierung stammt aus einer besonderen Nadel. Die Muster betonen eine bestimmte Farbe.
 
-## Tattoo Attunement
+## Tätowierungs-Einstimmung
 
-To attune to this item, you hold the needle to your skin where you want the tattoo to appear, pressing the needle there throughout the attunement process. When the attunement is complete, the needle turns into the ink that becomes the tattoo, which appears on the skin.
+Um dich auf diesen Gegenstand einzustimmen, musst du die Nadel dort auf deine Haut auflegen, wo die Tätowierung erscheinen soll. Die Nadel muss während der gesamten Einstimmung auf die Haut gedrückt werden. Wenn die Einstimmung abgeschlossen ist, wird die Nadel zur Tinte der Tätowierung, die auf der Haut auftaucht.
 
-If your attunement to the tattoo ends, the tattoo vanishes, and the needle reappears in your space.
+Wenn deine Einstimmung auf die Tätowierung endet, verschwindet die Tätowierung und die Nadel taucht erneut in deinem Bereich auf.
 
-## Damage Resistance
+## Schadensresistenz
 
-While the tattoo is on your skin, you have resistance to a type of damage associated with that color, as shown on the table below. The DM chooses the color or determines it randomly.
+Während sich die Tätowierung auf deiner Haut befindet, bist du gegen eine bestimmte Schadensart resistent, die mit der Farbe der Tätowierung verbunden ist. Der Spielleiter wählt die Farbe oder bestimmt sie zufällig.
 
-**Absorbing Tattoo**
+**Absorbierende Tätowierung**
 
-| dice: d10 | Color | Tattoo |
-|-----------|-------|--------|
-| 1 | Green | [Acid Absorbing Tattoo](/3-Mechanics/CLI/items/acid-absorbing-tattoo-tce.md) |
-| 2 | Blue | [Cold Absorbing Tattoo](/3-Mechanics/CLI/items/cold-absorbing-tattoo-tce.md) |
-| 3 | Red | [Fire Absorbing Tattoo](/3-Mechanics/CLI/items/fire-absorbing-tattoo-tce.md) |
-| 4 | White | [Force Absorbing Tattoo](/3-Mechanics/CLI/items/force-absorbing-tattoo-tce.md) |
-| 5 | Yellow | [Lightning Absorbing Tattoo](/3-Mechanics/CLI/items/lightning-absorbing-tattoo-tce.md) |
-| 6 | Black | [Necrotic Absorbing Tattoo](/3-Mechanics/CLI/items/necrotic-absorbing-tattoo-tce.md) |
-| 7 | Violet | [Poison Absorbing Tattoo](/3-Mechanics/CLI/items/poison-absorbing-tattoo-tce.md) |
-| 8 | Silver | [Psychic Absorbing Tattoo](/3-Mechanics/CLI/items/psychic-absorbing-tattoo-tce.md) |
-| 9 | Gold | [Radiant Absorbing Tattoo](/3-Mechanics/CLI/items/radiant-absorbing-tattoo-tce.md) |
-| 10 | Orange | [Thunder Absorbing Tattoo](/3-Mechanics/CLI/items/thunder-absorbing-tattoo-tce.md) |
+| W10 | Schadensart                                              | Farbe   |
+| --- | -------------------------------------------------------- | ------- |
+| 1   | [[Absorbierende_Tätowierung-Blitz-tce\|Blitz]]           | Geld    |
+| 2   | [[Absorbierende_Tätowierung-Energie-tce\|Energie]]       | Weiß    |
+| 3   | [[Absorbierende_Tätowierung-Feuer-tce\|Feuer]]           | Rot     |
+| 4   | [[Absorbierende_Tätowierung-Gift-tce\|Gift]]             | Violett |
+| 5   | [[Absorbierende_Tätowierung-Gleißend-tce\|Gleißend]]     | Gold    |
+| 6   | [[Absorbierende_Tätowierung-Kälte-tce\|Kälte]]           | Blau    |
+| 7   | [[Absorbierende_Tätowierung-Nekrotisch-tce\|Nekrotisch]] | Schwarz |
+| 8   | [[Absorbierende_Tätowierung-Psychisch-tce\|Psychisch]]   | Silber  |
+| 9   | [[Absorbierende_Tätowierung-Säure-tce\|Säure]]           | Grün    |
+| 10  | [[Absorbierende_Tätowierung-Schall-tce\|Schall]]         | Orange  |
 ^absorbing-tattoo
 
-## Damage Absorption
+## Schadensabsorption
 
-When you take damage of the chosen type, you can use your reaction to gain immunity against that instance of the damage, and you regain a number of hit points equal to half the damage you would have taken. Once this reaction is used, it can't be used again until the next dawn.
+Erleidest du Schaden der ausgewählten Art, kannst du mit deiner Reaktion gegen diesen Schadenswurf immun werden und Trefferpunkte in Höhe der Hälfte des Schadens regenerieren, den du erlitten hättest. Wenn du diese Reaktion verwendest, kannst du sie erst im nächsten Morgengrauen erneut verwenden.
 
-**Items in this group:**
+**Gegenstände in dieser Gruppe:**
 
-- [Acid Absorbing Tattoo](/3-Mechanics/CLI/items/acid-absorbing-tattoo-tce.md)
-- [Cold Absorbing Tattoo](/3-Mechanics/CLI/items/cold-absorbing-tattoo-tce.md)
-- [Fire Absorbing Tattoo](/3-Mechanics/CLI/items/fire-absorbing-tattoo-tce.md)
-- [Force Absorbing Tattoo](/3-Mechanics/CLI/items/force-absorbing-tattoo-tce.md)
-- [Lightning Absorbing Tattoo](/3-Mechanics/CLI/items/lightning-absorbing-tattoo-tce.md)
-- [Necrotic Absorbing Tattoo](/3-Mechanics/CLI/items/necrotic-absorbing-tattoo-tce.md)
-- [Poison Absorbing Tattoo](/3-Mechanics/CLI/items/poison-absorbing-tattoo-tce.md)
-- [Psychic Absorbing Tattoo](/3-Mechanics/CLI/items/psychic-absorbing-tattoo-tce.md)
-- [Radiant Absorbing Tattoo](/3-Mechanics/CLI/items/radiant-absorbing-tattoo-tce.md)
-- [Thunder Absorbing Tattoo](/3-Mechanics/CLI/items/thunder-absorbing-tattoo-tce.md)
+- [[Absorbierende_Tätowierung-Blitz-tce|Absorbierende Tätowierung - Blitz]]
+- [[Absorbierende_Tätowierung-Energie-tce|Absorbierende Tätowierung - Energie]]
+- [[Absorbierende_Tätowierung-Feuer-tce|Absorbierende Tätowierung - Feuer]]
+- [[Absorbierende_Tätowierung-Gift-tce|Absorbierende Tätowierung - Gift]]
+- [[Absorbierende_Tätowierung-Gleißend-tce|Absorbierende Tätowierung - Gleißend]]
+- [[Absorbierende_Tätowierung-Kälte-tce|Absorbierende Tätowierung - Kälte]]
+- [[Absorbierende_Tätowierung-Nekrotisch-tce|Absorbierende Tätowierung - Nekrotisch]]
+- [[Absorbierende_Tätowierung-Psychisch-tce|Absorbierende Tätowierung - Psychisch]]
+- [[Absorbierende_Tätowierung-Säure-tce|Absorbierende Tätowierung - Säure]]
+- [[Absorbierende_Tätowierung-Schall-tce|Absorbierende Tätowierung - Schall]]
 
-*Source: Tasha's Cauldron of Everything p. 119*
+*Quelle: Tashass Kessel mit Allem S. 117*

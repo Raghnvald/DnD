@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Hashutu
+image: NSC/token/hashutu-pabtso.webp
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/11
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/pabtso
 aliases:
   - Hashutu
-Image: npc/token/hashutu-pabtso.webp
 linter-yaml-title-alias: Hashutu
 ---
 # Hashutu

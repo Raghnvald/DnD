@@ -48,7 +48,7 @@ While you have the Charmed condition, you experience the following effects.
 *Quelle: Spielerhandbuch S. 290. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 - Eine blinde Kreatur kann nicht sehen und scheitert automatisch bei allen Attributswürfen, die Sicht erfordern. 
-- [Angriff](Aktionen-phb.md#Attack)swürfe gegen die Kreatur sind im [Vorteil](D&D/Bücher/Spielerhandbuch-2014/08-using-ability-scores.md#Advantage%20and%20Disadvantage), die Kreatur ist bei ihren [Angriff](Aktionen-phb.md#Attack)swürfen hingegen im [Nachteil](D&D/Bücher/Spielerhandbuch-2014/08-using-ability-scores.md#Advantage%20and%20Disadvantage).
+- [Angriff](Aktionen-phb.md#Attack)swürfe gegen die Kreatur sind im [Vorteil](08-Kapitel_07-Attributswerte_verwenden.md#Advantage%20and%20Disadvantage), die Kreatur ist bei ihren [Angriff](Aktionen-phb.md#Attack)swürfen hingegen im [Nachteil](08-Kapitel_07-Attributswerte_verwenden.md#Advantage%20and%20Disadvantage).
 
 ## Blutig
 _Source: Player's Handbook (2024) p. 362. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Rogue
+Bezeichnung: Schurke
 tags:
   - Klasse/Schurke
   - Quelle/5e/phb

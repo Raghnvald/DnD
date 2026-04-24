@@ -16,7 +16,6 @@
       "name": "Gwyn",
       "ac": 16,
       "hp": 67,
-      "level": 10,
       "modifier": 5,
       "player": true
     },
@@ -29,16 +28,6 @@
       "level": 10,
       "modifier": 2,
       "player": true
-    },
-    {
-      "note": "Mercy",
-      "path": "D&D/02-Spieler/Gruppe/Mercy.md",
-      "name": "Mercy",
-      "ac": "20",
-      "hp": 20,
-      "level": 4,
-      "modifier": 2,
-      "player": true
     }
   ],
   "parties": [
@@ -47,8 +36,7 @@
       "players": [
         "Astor \"Doodle\" Dash",
         "Gwyn",
-        "Lucan Leuchtmoos",
-        "Mercy"
+        "Lucan Leuchtmoos"
       ]
     }
   ],
@@ -129,7 +117,7 @@
   "version": [
     13,
     0,
-    18
+    21
   ],
   "canUseDiceRoll": false,
   "preferStatblockLink": false,
@@ -141,24 +129,43 @@
   "state": {
     "creatures": [
       {
-        "name": "Gwyn",
+        "name": "Astor \"Doodle\" Dash",
         "initiative": 0,
         "static": false,
-        "modifier": 5,
-        "hp": 67,
-        "currentMaxHP": 36,
-        "ac": 16,
-        "currentAC": "16",
-        "note": "Gwyn",
-        "path": "D&D/02-Spieler/Gruppe/Gwyn.md",
-        "id": "ID_886a2b680b99",
-        "currentHP": 36,
+        "modifier": 2,
+        "hp": 73,
+        "currentMaxHP": 73,
+        "ac": 19,
+        "currentAC": 19,
+        "note": "Astor",
+        "path": "D&D/02-Spieler/Gruppe/Astor.md",
+        "id": "ID_b88859e9592b",
+        "currentHP": 73,
         "tempHP": 0,
         "status": [],
         "enabled": true,
         "level": 10,
         "player": true,
-        "active": false,
+        "hidden": false,
+        "friendly": false
+      },
+      {
+        "name": "Gwyn",
+        "initiative": 0,
+        "static": false,
+        "modifier": 5,
+        "hp": 67,
+        "currentMaxHP": 67,
+        "ac": 16,
+        "currentAC": 16,
+        "note": "Gwyn",
+        "path": "D&D/02-Spieler/Gruppe/Gwyn.md",
+        "id": "ID_08c85a4b18ea",
+        "currentHP": 67,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "player": true,
         "hidden": false,
         "friendly": false
       },
@@ -168,19 +175,18 @@
         "static": false,
         "modifier": 2,
         "hp": 69,
-        "currentMaxHP": 32,
+        "currentMaxHP": 69,
         "ac": 19,
-        "currentAC": "14",
+        "currentAC": 19,
         "note": "Lucan",
         "path": "D&D/02-Spieler/Gruppe/Lucan.md",
-        "id": "ID_c84baaf95b6b",
-        "currentHP": 32,
-        "tempHP": 19,
+        "id": "ID_0bdb989b18ab",
+        "currentHP": 69,
+        "tempHP": 0,
         "status": [],
         "enabled": true,
         "level": 10,
         "player": true,
-        "active": false,
         "hidden": false,
         "friendly": false
       }

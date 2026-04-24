@@ -48,6 +48,8 @@ Ultimately, aboleths dream of overthrowing the gods and regaining control of the
 
 Aboleths lair in subterranean lakes or the rocky depths of the ocean, often surrounded by the ruins of an ancient, fallen aboleth city. An aboleth spends most of its existence underwater, surfacing occasionally to treat with visitors or deranged worshipers.
 
+![[Legendäre-Gruppe/Aboleth-mm#Aboleth]]
+
 ```statblock
 "name": "Aboleth"
 "size": "Large"

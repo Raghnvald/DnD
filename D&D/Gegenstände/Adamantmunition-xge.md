@@ -4,6 +4,7 @@ Kategorie: Munition
 Eigenschaften: Munition
 Kst.: /
 Gew.: /
+Status: completed
 tags:
   - Gegenstand/Ausrüstung/ammunition
   - Gegenstand/Seltenheit/unbekannt
@@ -53,4 +54,4 @@ Zehn Geschosse aus Adamant kosten 500 GM mehr, als die normale Variante der Waff
 
 - **Gewicht**: 0.075 lbs.
 
-*Quelle: Xanathar's Guide to Everything p. 78*
+*Quelle: Xanathars Ratgeber für Alles S. 78*

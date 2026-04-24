@@ -34,5 +34,6 @@
   "newFileLocation": "current",
   "newLinkFormat": "shortest",
   "showUnsupportedFiles": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "openBehavior": ""
 }

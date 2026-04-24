@@ -7,6 +7,7 @@ Größe: Gigantisch
 HG: 30
 Habitat:
   - /
+image: Drache/token/Aspect-of-Bahamut-ftd.webp
 status: WIP
 tags:
   - Monster/Größe/Gigantisch

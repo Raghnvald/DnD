@@ -15,7 +15,7 @@ tags:
   - Quelle/5e/pabtso
 aliases:
   - Chishinix' Head
-Image: npc/token/chishinix-head-pabtso.webp
+Image: NSC/token/chishinix-head-pabtso.webp
 linter-yaml-title-alias: Chishinix' Head
 ---
 # Chishinix' Kopf

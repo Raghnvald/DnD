@@ -1,14 +1,14 @@
 ---
 statblock: inline
 statblock-link: "#^statblock"
-Bezeichnung: Ausgewachsener Kupferdrache
+Bezeichnung: Adult Copper Dragon
 Kategorie: Drache
 Größe: Riesig
 HG: 14
 Habitat:
   - Hügel
-status: WIP
 image: Drache/token/Adult-Copper-Dragon.webp
+status: WIP
 tags:
   - Monster/Größe/Riesig
   - Monster/Habitat/Hügel

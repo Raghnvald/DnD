@@ -6,9 +6,12 @@
     "D&D/03 - Quellen/00. Ausrüstung.base",
     "D&D/02-Spieler/Charakter/Barde/Fayn UI TOOLKIT.md"
   ],
+  "lockedFolders": [],
+  "strictLockedNotes": [],
   "mobileNotificationMaxLength": 18,
   "desktopNotificationMaxLength": 22,
   "showFileExplorerIcons": true,
   "showStatusBarButton": true,
-  "showNotifications": true
+  "showNotifications": true,
+  "preventEditInLockedNotes": false
 }

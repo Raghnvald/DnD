@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Blue Dragon
+Bezeichnung: Blauer Drache
 tags:
   - Monster/legendary-group
   - Quelle/5e/mm

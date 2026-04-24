@@ -9,7 +9,7 @@ tags:
   - Quelle/5e/pabtso
 aliases:
   - Grandlejaw
-Image: npc/token/grandlejaw-pabtso.webp
+Image: NSC/token/grandlejaw-pabtso.webp
 linter-yaml-title-alias: Grandlejaw
 ---
 # Grandlejaw

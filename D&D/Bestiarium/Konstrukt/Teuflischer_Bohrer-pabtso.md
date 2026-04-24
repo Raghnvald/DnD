@@ -1,7 +1,7 @@
 ---
 statblock: inline
 statblock-link: "#^statblock"
-Bezeichnung: Fiendish Auger
+Bezeichnung: Teuflischer Bohrer
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/5
@@ -9,7 +9,7 @@ tags:
   - Quelle/5e/pabtso
 aliases:
   - Fiendish Auger
-Image: construct/token/fiendish-auger-pabtso.webp
+Image: Konstrukt/token/fiendish-auger-pabtso.webp
 ---
 # Fiendish Auger
 *Source: Phandelver and Below: The Shattered Obelisk p. 206*  
@@ -19,7 +19,7 @@ A fiendish auger is created when a wicked spirit enters an excavation drill, cau
 Fueled by the fervent aggression of the evil spirit within, fiendish augers can rapidly churn through solid rock. However, those who employ a fiendish auger must keep a keen eye on the machine. Without careful instruction, a fiendish auger indiscriminately bores through creature and earth alike.
 
 ```statblock
-"name": "Fiendish Auger (PaBTSO)"
+"name": "Teuflischer Bohrer (PaBTSO)"
 "size": "Huge"
 "type": "construct"
 "alignment": "typically  Neutral Evil"

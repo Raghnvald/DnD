@@ -41,6 +41,8 @@ Beholders are a particular threat to adventurers because both gravitate toward m
 
 Beholders lurk in cavern complexes they've carved using their eye rays deep in the Underdark or in lairs created for them by their servants.
 
+![[Legendäre-Gruppe/Betrachter-xmm#Beholder]]
+
 ```statblock
 "name": "Beholder (XMM)"
 "size": "Large"

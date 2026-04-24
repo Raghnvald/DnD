@@ -9,7 +9,7 @@ tags:
   - Quelle/5e/pabtso
 aliases:
   - Malinia
-Image: npc/token/malinia-pabtso.webp
+Image: NSC/token/malinia-pabtso.webp
 linter-yaml-title-alias: Malinia
 ---
 # Malinia

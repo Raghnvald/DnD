@@ -1,5 +1,6 @@
 ---
-Bezeichnung: Musical Instrument
+Bezeichnung: Musikinstrument
+Status:
 tags:
   - Gegenstand/Ausrüstung/Instrument
   - Gegenstand/Seltenheit/keine
@@ -8,10 +9,10 @@ aliases:
   - Musical Instrument
 linter-yaml-title-alias: Musical Instrument
 ---
-# Musical Instrument
+# Musikinstrument
 *Instrument*  
 
-**Items in this group:**
+**Gegenstände in dieser Gruppe:**
 
 - [Bagpipes](/3-Mechanics/CLI/items/bagpipes.md)
 - [Drum](/3-Mechanics/CLI/items/drum.md)
@@ -24,4 +25,4 @@ linter-yaml-title-alias: Musical Instrument
 - [Shawm](/3-Mechanics/CLI/items/shawm.md)
 - [Viol](/3-Mechanics/CLI/items/viol.md)
 
-*Source: Player's Handbook p. 154. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+*Quelle: Spielerhandbuch S. 154. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*

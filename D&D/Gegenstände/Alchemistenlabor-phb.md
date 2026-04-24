@@ -4,6 +4,7 @@ Kategorie: Werkzeug
 Eigenschaften: /
 Kst.: 50 GM
 Gew.: 4,0 kg
+Status: completed
 tags:
   - Gegenstand/Ausrüstung/Werkzeug
   - Gegenstand/Seltenheit/keine

@@ -10,7 +10,7 @@ tags:
   - Quelle/5e/pabtso
 aliases:
   - Qunbraxel
-Image: npc/token/qunbraxel-pabtso.webp
+Image: NSC/token/qunbraxel-pabtso.webp
 linter-yaml-title-alias: Qunbraxel
 ---
 # Qunbraxel

@@ -1,6 +1,10 @@
 ---
-Bezeichnung: +1 All-Purpose Tool
+Bezeichnung: Allzweckwerkzeug +1
 Kategorie: Wundersamer Gegenstand
+Eigenschaften: /
+Kst.: /
+Gew.: /
+Status: completed
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/ungewöhnlich
@@ -10,13 +14,13 @@ aliases:
   - +1 All-Purpose Tool
 linter-yaml-title-alias: +1 All-Purpose Tool
 ---
-# +1 All-Purpose Tool
-*Wondrous item, uncommon (requires attunement by an artificer)*  
+#  Allzweckwerkzeug +1
+*Wundersamer Gegenstand, ungewöhnlich (erfordert Einstimmung durch einen Artifizienten)*
 
-This simple screwdriver can transform into a variety of tools; as an action, you can touch the item and transform it into any type of artisan's tool of your choice (see the "Equipment" chapter in the "Player's Handbook" for a list of [artisan's tools](/3-Mechanics/CLI/items/artisans-tools-xphb.md)). Whatever form the tool takes, you are proficient with it.
+Dieser einfache Schraubenzieher kann sich in eine Vielzahl von Werkzeugen verwandeln: Du kannst als Aktion den Gegenstand berühren und in ein Handwerkszeug deiner Wahl verwandeln (eine Liste von [[0-Handwerkszeug-phb|Handwerkszeugen]] findest du im Ausrüstungs-Kapitel im _Spielerhandbuch_). Egal welche Form das Werkzeug annimmt, du bist im Umgang damit geübt.
 
-While holding this tool, you gain a +1 bonus to the spell attack rolls and the saving throw DCs of your artificer spells.
+Wenn du dieses Werkzeug hältst, erhältst du einen Bonus von +1 auf jeden Zauberangriffswurf und den Rettungswurf-SG deiner Artifizientenzauber. 
 
-As an action, you can focus on the tool to channel your creative forces. Choose a cantrip that you don't know from any class list. For 8 hours, you can cast that cantrip, and it counts as an artificer cantrip for you. Once this property is used, it can't be used again until the next dawn.
+Du kannst dich als Aktion auf das Werkzeug konzentrieren, um deine kreativen Kräfte zu kanalisieren. Wähle einen Zaubertrick, den du nicht kennst, von der Liste einer beliebigen Klasse. Während der nächsten acht Stunden kannst du diesen Zaubertrick wirken und er zählt für dich als Artifizienten-Zaubertrick. Hast du diese Eigenschaft verwendet, kannst du dies erst im nächsten Morgengrauen erneut tun.
 
-*Source: Tasha's Cauldron of Everything p. 119*
+*Quelle: Tashas Kessel mit Allem S. 117*

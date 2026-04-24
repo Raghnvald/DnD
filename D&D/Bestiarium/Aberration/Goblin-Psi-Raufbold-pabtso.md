@@ -8,7 +8,7 @@ Größe: Klein
 HG: 2
 Habitat:
   - /
-image: image/goblin-psi-brawler-pabtso.webp
+image: Aberration/token/goblin-psi-brawler-pabtso.webp
 status: completed
 tags:
   - Monster/Größe/Klein

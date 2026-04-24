@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Alchemiekrug
 Kategorie: Wundersamer Gegenstand
-Eigenschaften: n/v
-Kst.: n/v
+Eigenschaften: /
+Kst.: /
 Gew.: 6,0 kg
+Status: completed
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/wundersam
@@ -33,4 +34,4 @@ $\quad$Sobald der Krug anfängt, eine Flüssigkeit zu produzieren, kann er bis z
 | Mayonnaise     |        8 Liter | Wein           |         4 Liter |
 ^liquid-max-amount
 
-*Source: Dungeon Master's Guide p. 150*
+*Quelle: Spielleiterhandbuch S. 150*

@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Welcome to Eberron
 tags:
-- new/compendium/src/5e/erlw
+  - new/compendium/src/5e/erlw
 aliases:
-- Welcome to Eberron
+  - Welcome to Eberron
 ---
 # Welcome to Eberron
 *Source: Eberron: Rising from the Last War, p. 4* 

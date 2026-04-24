@@ -1,7 +1,7 @@
 ---
 statblock: inline
 statblock-link: "#^statblock"
-Bezeichnung: Infected Townsperson
+Bezeichnung: Infizierter Dorfbewohner
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/2
@@ -11,11 +11,11 @@ aliases:
   - Infected Townsperson
 Image: humanoid/token/infected-townsperson-pabtso.webp
 ---
-# Infected Townsperson
+# Infizierter Dorfbewohner
 *Source: Phandelver and Below: The Shattered Obelisk p. 139*  
 
 ```statblock
-"name": "Infected Townsperson (PaBTSO)"
+"name": "Infizierter Dorfbewohner (PaBTSO)"
 "size": "Medium"
 "type": "humanoid"
 "subtype": "any race"

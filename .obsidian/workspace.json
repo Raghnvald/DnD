@@ -4,109 +4,69 @@
     "type": "split",
     "children": [
       {
-        "id": "4b6cc47cdf53c866",
+        "id": "9a3b930ed0b285fc",
         "type": "tabs",
         "children": [
           {
-            "id": "df9be51e3135c504",
+            "id": "399e8c2e8c9c3297",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "D&D/Gegenstände/Gegenstände.base",
+                "viewName": "Table"
+              },
+              "icon": "lucide-table",
+              "title": "Gegenstände"
+            }
+          },
+          {
+            "id": "1f194888b4ca0bd9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D&D/01-Spielleiter/Zustände-phb.md",
+                "file": "D&D/Bücher/Spielerhandbuch-2014/14-Anhang_B-Götter_des_Multiversums.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Zustände-phb"
+              "title": "14-Anhang_B-Götter_des_Multiversums"
             }
           },
           {
-            "id": "b1cf2ec620835ad6",
+            "id": "fcad4ede3347be80",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D&D/01-Spielleiter/Fertigkeiten-phb.md",
+                "file": "D&D/Zauber/Schwerkraft_umkehren-phb.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Schwerkraft_umkehren-phb"
+            }
+          },
+          {
+            "id": "184bde75dd42ac1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "D&D/Zauber/Ablenkung-phb.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Fertigkeiten-phb"
-            }
-          },
-          {
-            "id": "7b13eda7f465f0ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "D&D/99-Setup/Sammlungen/Templates/Gegner-STATBLOCK.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Gegner-STATBLOCK"
-            }
-          },
-          {
-            "id": "413f1dc3714b5008",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "D&D/Bestiarium/Untot/Zombie-mm.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Zombie-mm"
-            }
-          },
-          {
-            "id": "d6ec91fcccda23ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "D&D/Bestiarium/NSC/Gwyn_Erzsang-pabtso.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Gwyn_Erzsang-pabtso"
-            }
-          },
-          {
-            "id": "f248706ad3d48bbf",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "D&D/01-Spielleiter/00. Rüstungen.base",
-                "viewName": "Rüstungen"
-              },
-              "icon": "lucide-table",
-              "title": "00. Rüstungen"
-            }
-          },
-          {
-            "id": "a6892e2e9c2f96ab",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Ablenkung-phb"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -143,29 +103,12 @@
               "icon": "lucide-file",
               "title": "DM Kanban Side"
             }
-          },
-          {
-            "id": "cd9aae2731784c87",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 364.5
+    "width": 333.5
   },
   "right": {
     "id": "776d1eb368848153",
@@ -200,30 +143,6 @@
             }
           },
           {
-            "id": "4052bdece15d3ce5",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline"
-            }
-          },
-          {
-            "id": "bae382de6e992797",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {},
-              "icon": "initiative-tracker",
-              "title": "Initiative Tracker"
-            }
-          },
-          {
             "id": "d5c302e3d3609bb0",
             "type": "leaf",
             "state": {
@@ -234,25 +153,54 @@
             }
           },
           {
-            "id": "5dbba75516c074fa",
+            "id": "1c018f1135ec62dd",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "45daf672178c11bd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "3b249e911dbf4767",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "D&D/00-Schnellzugriff/DMG-PHB-MM/Wundersam.base",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Wundersam"
             }
           },
           {
-            "id": "935a8ed0a6675aad",
+            "id": "1dcd2bc845aa7615",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "frequency",
                 "useHierarchy": true,
                 "showSearch": false,
                 "searchQuery": ""
@@ -260,18 +208,42 @@
               "icon": "lucide-tags",
               "title": "Tags"
             }
+          },
+          {
+            "id": "9798d670196daa11",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "D&D/00-Schnellzugriff/DMG-PHB-MM/Wundersam.base",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Wundersam"
+            }
+          },
+          {
+            "id": "5221510462d543ad",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 344.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "graph:Open graph view": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
@@ -285,52 +257,55 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "a6892e2e9c2f96ab",
+  "active": "87ad6a12a39faf42",
   "lastOpenFiles": [
-    "D&D/01-Spielleiter/00. Rüstungen.base",
-    "D&D/01-Spielleiter/00-DM Screen/DM Kanban Side.md",
-    "D&D/Abenteuer/Die_Tiefen_von_Phandelver-Der_zersplitterte_Obelisk/06-Kapitel_5-Gefährliche_Pfade.md",
-    "D&D/Bestiarium/NSC/brother-broumane-jttrc.md",
-    "D&D/Gegenstände/Kräuterkunde-Ausrüstung-xphb.md",
-    "D&D/Hintergründe/baldurs-gate-criminal-bgdia.md",
-    "D&D/Hintergründe/ashari-tdcsr.md",
-    "3-Mechanics/CLI/backgrounds/acolyte.md",
-    "D&D/items/potion-of-healing-gv.md",
-    "D&D/items/nine-lives-stealer.md",
-    "D&D/Gegenstände/nightbringer-mcv2dc.md",
-    "D&D/items/hat-of-disguise.md",
-    "D&D/items/harkons-bite-vrgr.md",
-    "D&D/items/emblem.md",
-    "D&D/Gegenstände/elven-trinket-mtf.md",
-    "D&D/items/barding.md",
-    "D&D/Gegenstände/banner-of-the-krig-rune-skt.md",
-    "D&D/items/battleaxe.md",
-    "D&D/items/battle-standard-of-infernal-power-bgdia.md",
-    "D&D/items/flour.md",
-    "D&D/items/flensing-claws-huge-vgm.md",
-    "D&D/items/bracers-of-defense.md",
-    "D&D/items/mind-crystal-pabtso.md",
-    "D&D/items/chime-of-opening.md",
-    "D&D/Gegenstände/chime-of-exile-veor.md",
-    "D&D/items/black-dragon-scale-mail.md",
-    "Untot",
-    "01-Spielleiter",
-    "Gegenstände",
-    "D&D/Abenteuer/wildemount-frozen-sick/img/credits.webp",
-    "D&D/Abenteuer/wildemount-frozen-sick/img/120-5-10-salsvault.webp",
-    "D&D/Abenteuer/wildemount-frozen-sick/img/120-5-10-salsvault-player.webp",
-    "D&D/Abenteuer/wildemount-frozen-sick/img/119-05-06.webp",
-    "D&D/Abenteuer/wildemount-frozen-sick/img/118-5-9-croaker-cave.webp",
-    "D&D/Abenteuer/wildemount-frozen-sick/img/118-5-9-croaker-cave-player.webp",
-    "D&D/Abenteuer/wildemount-frozen-sick/img",
-    "D&D/Abenteuer/wildemount-frozen-sick",
-    "D&D/Abenteuer/Aufstieg_von_Tiamat/img/110-tod-e-17a.webp",
-    "D&D/Abenteuer/Aufstieg_von_Tiamat/img/109-tod-e-17b.webp",
-    "D&D/Abenteuer/Aufstieg_von_Tiamat/img/108-tod-e-16d.webp",
-    "D&D/Abenteuer/Aufstieg_von_Tiamat/img/107-tod-e-16c.webp",
-    "D&D/Abenteuer/Aufstieg_von_Tiamat/img",
-    "D&D/Abenteuer/Aufstieg_von_Tiamat",
-    "D&D/01-Spielleiter/Core Rules DMS.pdf",
-    "D&D/3-Mechanics/CLI/adventures/phandelver-and-below-the-shattered-obelisk/img"
+    "D&D/Bücher/Spielleiterhandbuch-2014/10-Werkstatt des Spielleiters.md",
+    "D&D/Bücher/Spielleiterhandbuch-2014/09-Das Spiel leiten.md",
+    "D&D/Bücher/Spielleiterhandbuch-2014/08-Schätze.md",
+    "D&D/Bücher/Spielleiterhandbuch-2014/07-Zwischen den Abenteuern.md",
+    "D&D/Bücher/Spielleiterhandbuch-2014/06-Abenteuerumgebungen.md",
+    "D&D/Bücher/Spielleiterhandbuch-2014/05-Nichtspieler-Charaktere erschaffen.md",
+    "D&D/Bücher/Spielleiterhandbuch-2014/04-Abenteuer erschaffen.md",
+    "D&D/Bücher/Spielleiterhandbuch-2014/03-Das Erschaffen eines Multiversums.md",
+    "D&D/Bücher/Spielleiterhandbuch-2014/02-Erschaffe deine eigene Welt.md",
+    "D&D/Bücher/Spielleiterhandbuch-2014/01-Einführung.md",
+    "D&D/Bücher/Spielerhandbuch-2014/15-Anhang_C-Die_Existenzebenen.md",
+    "D&D/Bücher/Spielerhandbuch-2014/14-Anhang_B-Götter_des_Multiversums.md",
+    "D&D/Bücher/Spielerhandbuch-2014/13-Anhang_A-Zustände.md",
+    "D&D/Bücher/Spielerhandbuch-2014/12-Kapitel_11-Zauber.md",
+    "D&D/Bücher/Spielerhandbuch-2014/11-Kapitel_10-Zauber_wirken.md",
+    "D&D/Bücher/Spielerhandbuch-2014/10-Kapitel_09-Kampf.md",
+    "D&D/Bücher/Spielerhandbuch-2014/09-Kapitel_08-Auf_Abenteuer_ausziehen.md",
+    "D&D/Bücher/Spielerhandbuch-2014/08-Kapitel_07-Attributswerte_verwenden.md",
+    "D&D/Bücher/Spielerhandbuch-2014/07-Kapitel_06-Anpassungsmöglichkeiten.md",
+    "D&D/Bücher/Spielerhandbuch-2014/06-Kapitel_05-Ausrüstung.md",
+    "D&D/Bücher/Spielerhandbuch-2014/05-Kapitel_04-Persönlichkeit_und_Hintergrund.md",
+    "D&D/Bücher/Spielerhandbuch-2014/04-Kapitel_03-Klassen.md",
+    "D&D/Bücher/Spielerhandbuch-2014/03-Kapitel_02-Völker.md",
+    "D&D/Bücher/Spielerhandbuch-2014/02-Kapitel_01-Charaktere_Schritt_für_Schritt.md",
+    "D&D/Bücher/Spielerhandbuch-2014/01-Einleitung.md",
+    "D&D/Gegenstände/Gegenstände.base",
+    "D&D/Zauber/Schwerkraft_umkehren-phb.md",
+    "D&D/Abenteuer/Die_Tiefen_von_Phandelver-Der_zersplitterte_Obelisk/Die Tiefen von Phandelver - Der zersplitterte Obelisk.pdf",
+    "D&D/Bestiarium/Drache/Drache.base",
+    "D&D/Bestiarium/Aberration/token/goblin-psi-brawler-pabtso.webp",
+    "D&D/Bestiarium/Untot/Untot.base",
+    "D&D/Bestiarium/Unhold/Unhold.base",
+    "D&D/Bestiarium/Tier/Tier.base",
+    "D&D/Bestiarium/Schlick/Schlick.base",
+    "D&D/Bestiarium/Riese/Riese.base",
+    "D&D/Bestiarium/Pflanze/Pflanze.base",
+    "D&D/Bestiarium/NSC/NSC.base",
+    "D&D/Bücher/Ebberon-Aufstieg_aus_dem_letzten_Krieg/img/152-6-01.webp",
+    "D&D/Bücher/Ebberon-Aufstieg_aus_dem_letzten_Krieg/img/151-5-04.webp",
+    "D&D/Bücher/Ebberon-Aufstieg_aus_dem_letzten_Krieg/img/149-5-02.webp",
+    "D&D/Bücher/Ebberon-Aufstieg_aus_dem_letzten_Krieg/img/148-5-01.webp",
+    "D&D/Bücher/Ebberon-Aufstieg_aus_dem_letzten_Krieg/img/143-4-12.webp",
+    "D&D/Bücher/Ebberon-Aufstieg_aus_dem_letzten_Krieg/img/142-4-11.webp",
+    "D&D/Bücher/Ebberon-Aufstieg_aus_dem_letzten_Krieg/img/141-map413_coghub-player.webp",
+    "D&D/Bücher/Ebberon-Aufstieg_aus_dem_letzten_Krieg/img/140-map413_coghub.webp",
+    "D&D/Bücher/Ebberon-Aufstieg_aus_dem_letzten_Krieg/img/139-map412_nightclub-player.webp",
+    "D&D/99-Setup/Archiv/DND/02.02 Phandelver.canvas",
+    "D&D/99-Setup/Archiv/DND/03.02 Netz der Spinne.canvas"
   ]
 }

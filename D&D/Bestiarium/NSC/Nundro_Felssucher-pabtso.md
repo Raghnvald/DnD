@@ -8,7 +8,7 @@ Größe: Mittelgroß
 HG: 0
 Habitat:
   - /
-image: image/nundro-rockseeker-pabtso.webp
+image: NSC/token/nundro-rockseeker-pabtso.webp
 status: completed
 tags:
   - Monster/Größe/Mittelgroß

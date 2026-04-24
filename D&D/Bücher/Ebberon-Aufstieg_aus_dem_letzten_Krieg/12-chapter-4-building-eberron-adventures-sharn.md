@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Chapter 4: Building Eberron Adventures - Sharn"
 tags:
-- new/compendium/src/5e/erlw
+  - new/compendium/src/5e/erlw
 aliases:
-- Chapter 4: Building Eberron Adventures - Sharn
+  - Chapter 4: Building Eberron Adventures - Sharn
 ---
 # Chapter 4: Building Eberron Adventures - Sharn
 *Source: Eberron: Rising from the Last War, p. 239* 
