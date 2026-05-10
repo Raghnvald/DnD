@@ -5,7 +5,7 @@ tags:
 ac: 16
 hp: 67
 Klasse: Schurke
-Level: 10
+Level: 11
 modifier: 5
 pW: 10+5
 Rasse: Vulpin

@@ -1,332 +1,333 @@
 ---
-Bezeichnung: "Introduction: Danger to the Multiverse"
+Bezeichnung: "Einführung: Gefahr für das Multiversum"
+Status: completed
 tags:
   - Quelle/5e/veor
 aliases:
   - Introduction: Danger to the Multiverse
 ---
-# Introduction: Danger to the Multiverse
-*Source: Vecna: Eve of Ruin* 
+# Einfphrung: Gefahr für das Multiversum
+*Quelle: Vecna: Vorabend des Ruin* 
 
-![The characters are destine...](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/000-00-001-vecna-vs-kas.webp#center "The characters are destined to become embroiled in the legendary hatred between the lich-god Vecna and the warlord Kas")
+![Es ist den Charakteren bestimmt, in den legendären Hass zwischen dem Lich-Gott Vecna und dem Kriegsherrn Kas verwickelt zu werden.](Vecna-Vorabend_der_Verdammnis/img/000-00-001-vecna-vs-kas.webp#center)
 
-This adventure celebrates fifty years of Dungeons & Dragons history. The story spans many beloved settings and wondrous planes of existence. Its cast includes characters iconic to longtime fans. This adventure's stakes involve the fate of all worlds—in other words, the multiverse. If the player characters finish this adventure successfully, they'll reach 20th level and will have thwarted one of the most notorious villains in D&D's history.
+Dieses Abenteuer feiert fünfzig Jahre Dungeons-&-Dragons-Historie. Die Geschichte ereignet sich an zahlreichen beliebten Schauplätzen und auf wundersamen Ebenen der Existenz. In ihr treten Charaktere in Erscheinung, die langjährigen Fans als Ikonen ans Herz gewachsen sind. Und in diesem Abenteuer steht das Schicksal aller Welten auf dem Spiel - das Schicksal des ganzen Multiversums. Wenn die Spielercharaktere dieses Abenteuer erfolgreich abschließen, erreichen sie die 20. Stufe und haben einen der finstersten Halunken der Geschichte von D&D besiegt.
 
-The information in this book is intended for the Dungeon Master only. If you're planning to play through the adventure with someone else as your DM, stop reading now!
+Die Informationen im vorliegenden Buch richten sich ausschließlich an den Spielleiter. Wenn du das Abenteuer mit jemand anderem als Spielleiter erleben möchtest, lies nicht weiter!
 
-*Vecna: Eve of Ruin* is a Dungeons & Dragons adventure optimized for four to six characters. Characters begin at 10th level and gain a level at the end of each of this book's chapters.
+_Vecna: Vorabend der Verdammnis_ ist ein DUNGEONS-&-DRAGONS-Abenteuer für vier bis sechs Charaktere. Sie beginnen auf der 10. Stufe und steigen am Ende jedes Kapitels eine Stufe auf.
 
-The characters are the heroes of the story. This book describes the locations the characters explore and the challenges they must overcome to successfully complete the adventure. All pertinent details about the adventures' settings and locations are covered in this book.
+Die Charaktere sind die Helden dieser Geschichte. In diesem Buch werden die Orte beschrieben, die erkundet werden, und die Herausforderungen, die es zu bewältigen gilt, um das Abenteuer erfolgreich abzuschließen. Auch alle wichtigen Details zu den Schauplätzen des Abenteuers werden in diesem Buch behandelt.
 
-## Existence in Peril
+## Existenz in Gefahr
 
-For many years, the lich Vecna has imagined remaking existence. When this adventure starts, Vecna is already a god. Never truly satisfied, he yearns to become the most powerful being in the multiverse. Unfortunately for his enemies, Vecna recently devised the Ritual of Remaking to turn his dreams into reality.
+Seit vielen Jahren träumt der Lich [[Vecna_der_Erzlich-veor|Vecna]] davon, die Existenz neu zu schaffen. Wenn dieses Abenteuer beginnt, ist er bereits ein Gott. Doch er ist nie zufrieden und will unbedingt das mächtigste Wesen im Multiversum werden. Zum Leidwesen seiner Gegner hat [[Vecna_der_Erzlich-veor|Vecna]] vor Kurzem das Ritual der Umformung ersonnen, um seine Vision Wirklichkeit werden zu lassen.
 
-### The Ritual of Remaking
+### Das Ritual der Umformung
 
-Vecna's Ritual of Remaking involves gathering powerful secrets, extracting energy from them, and interweaving this energy with the lich's essence and magic. After Vecna and his cultists extract enough secrets, the lich plans to weave the ritual alone in the Cave of Shattered Reflection on the plane of Pandemonium.
+Für [[Vecna_der_Erzlich-veor|Vecnas]] Ritual der Umformung müssen mächtige Geheimnisse gesammelt, ihre Energien extrahiert und mit der Essenz und Magie des Lichs verwoben werden. Wenn Vecna und seine Kultisten genügend Geheimnisse extrahiert haben, will der Lich das Ritual alleine in der Höhle des Geborstenen Spiegelbilds auf der Pandämonium-Ebene ausführen.
 
-The cave holds the power to harness energy and reveal fundamental truths, making it the perfect location for the ritual. The combined power of Vecna's magic and the collected secrets reaches critical mass at the end of the ritual, triggering an explosion of sufficient magnitude to destroy Pandemonium and unravel the multiverse. Vecna, with his consciousness preserved inside a magical singularity, can then reknit the multiverse exactly as he wants, sealing the multiverse's terrible fate.
+Diese Höhle hat die Macht, Energie zu nutzen und fundamentale Wahrheiten zu enthüllen. Damit ist sie der ideale Ort für das Ritual. Am Ende des Rituals erreicht die kombinierte Energie von [[Vecna_der_Erzlich-veor|Vecnas]] Magie und den gesammelten Geheimnissen eine kritische Masse. Es kommt zu einer gewaltigen Explosion, die das Pandämonium zerreißen und das Multiversum zerstören wird. Der Lich will sein Bewusstsein in einer magischen Singularität verwahren und das schreckliche Schicksal des Multiversums besiegeln, um es nach seinem Willen neu zu erschaffen.
 
-Vecna plans to elevate himself above all others and to rewrite the histories and details of the entire multiverse. In Vecna's new reality, all people serve him, he has never known defeat, and all who oppose him live in torment.
+[[Vecna_der_Erzlich-veor|Vecna]] plant, sich über alle anderen zu erheben und die Geschichten und Details des gesamten Multiversums neu zu schreiben. In seiner neuen Realität dienen alle anderen Wesen ihm. Er hat nie eine Niederlage erlebt, und wer sich ihm entgegenstellt, lebt in ewiger Qual.
 
-By the time this adventure begins, the lich has gathered a hoard of secrets and is nearly ready to begin the Ritual of Remaking. Only the characters can stop Vecna's evil plan.
+Wenn dieses Abenteuer beginnt, hat der Lich bereits zahlreiche Geheimnisse gesammelt und ist bald bereit, mit dem Ritual der Umformung anzufangen. Nur die Charaktere können seinen finsteren Plan durchkreuzen.
 
-## Vecna's History
+## Vecnas Geschichte
 
-Throughout the adventure, Vecna proceeds with his plans as if nothing can stop him. However, the waves of magic the lich and his cult unleash in preparing for the Ritual of Remaking garner the attention of powerful individuals.
+Im Verlauf des Abenteuers setzt [[Vecna_der_Erzlich-veor|Vecna]] seine Pläne um, als könnte ihn nichts aufhalten. Doch die Magiewellen, die der Lich und sein Kult bei der Vorbereitung des Rituals entfesseln, ziehen die Aufmerksamkeit mächtiger Personen auf sich.
 
-One is Kas, a vampire warrior who once served Vecna but is now Vecna's eternal enemy. Kas learns the details of Vecna's plans and plots to co-opt the ritual for himself.
+Eine davon ist [[Kas_der_Verräter-veor|Kas]], Vampirkrieger und einstiger Diener [[Vecna_der_Erzlich-veor|Vecnas]], der mittlerweile zu seinem Erzfeind geworden ist. Er hat erfahren, was [[Vecna_der_Erzlich-veor|Vecna]] plant, und will das Ritual für sich selbst benutzen.
 
-### Kas and Vecna
+### Kas und Vecna
 
-![A young Kas and Vecna muse...](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/001-00-002-young-kas-and-vecna.webp#center "A young Kas and Vecna muse about the destruction of Oerth")
+![Kas und Vecna, beide noch jung, sinnieren über die Zerstörung von Oerth](Vecna-Vorabend_der_Verdammnis/img/001-00-002-young-kas-and-vecna.webp#center)
 
-Hundreds of years ago, Vecna and Kas were close associates. They were driven men who shared similar evil outlooks. Kas admired Vecna's sadism and thirst for power, while Vecna valued Kas's ferocity and cruelty.
+Vor Jahrhunderten waren [[Vecna_der_Erzlich-veor|Vecna]] und [[Kas_der_Verräter-veor|Kas]] enge Verbündete. Beide waren Getriebene mit ähnlichen bösen Zielen. [[Kas_der_Verräter-veor|Kas]] bewunderte Vecnas Sadismus und seine Gier nach Macht, während [[Vecna_der_Erzlich-veor|Vecna]] die Wildheit und Grausamkeit von [[Kas_der_Verräter-veor|Kas]] schätzte.
 
-By the time Vecna became a lich and the despotic ruler of an empire on the world of Oerth, Kas was the leader of Vecna's armies and the lich's most trusted lieutenant. Kas pledged his life to Vecna, and Vecna gave Kas generous gifts. The lich created the Sword of Kas (see the "Dungeon Master's Guide") for his lieutenant. This intelligent artifact of pure evil was meant to serve Kas unquestioningly, but the sword soon developed other ideas.
+Als [[Vecna_der_Erzlich-veor|Vecna]] zum Lich wurde und sich zum Despoten eines Reichs in der Welt Oerth aufschwang, führte [[Kas_der_Verräter-veor|Kas]] [[Vecna_der_Erzlich-veor|Vecnas]] Armeen an und war der Feldherr seines Vertrauens. Kas verpfändete [[Vecna_der_Erzlich-veor|Vecna]] sein Leben, und dieser beschenkte ihn reich. Unter anderem schuf der Lich das [[Schwert_von_Kas-dmg|Schwert von Kas]] (siehe _Spielleiterhandbuch_) für ihn. Dieses intelligente Artefakt von purer Bosheit sollte [[Kas_der_Verräter-veor|Kas]] bedingungslos dienen, doch bald entwickelte es andere Vorstellungen.
 
-Over time, Kas and Vecna began disagreeing about strategies to expand the lich's empire. Convinced Kas was more gullible than Vecna, the sword urged Kas to kill and supplant Vecna. The sword wanted nothing less than full control of Vecna's empire through Kas.
+Schließlich entzweiten [[Kas_der_Verräter-veor|Kas]] und [[Vecna_der_Erzlich-veor|Vecna]] sich über Strategien zur Erweiterung des Imperiums. Das Schwert hielt Kas für beeinflussbarer als Vecna und drängte ihn, den Lich zu töten und an seine Stelle zu treten. Es wollte nichts Geringeres als die gesamte Kontrolle über [[Vecna_der_Erzlich-veor|Vecnas]] Reich durch [[Kas_der_Verräter-veor|Kas]].
 
-Kas finally betrayed his liege when he confronted Vecna in the lich's tower. Kas killed Vecna, but before Vecna died, Vecna flung Kas across the multiverse. Kas lost the *Sword of Kas* in his flight. All that was left of Vecna after he died was one hand and one eye. These eventually became artifacts known as the Eye and Hand of Vecna (see the "Dungeon Master's Guide").
+Dieser verriet schließlich seinen Herrn und stellte ihn in dessen Turm. Dort tötete er [[Vecna_der_Erzlich-veor|Vecna]], aber ehe der Lich starb, schleuderte er [[Kas_der_Verräter-veor|Kas]] durch das Multiversum. Dabei verlor der Usurpator das Schwert von [[Kas_der_Verräter-veor|Kas]]. Von [[Vecna_der_Erzlich-veor|Vecna]] war nach seinem Tod nur noch eine Hand und ein Auge übrig. Daraus wurden jene Artefakte, die als [[Auge_und_Hand_von_Vecna-dmg|Auge und Hand von Vecna]] (siehe _Spielleiterhandbuch_) bekannt sind.
 
-In the aftermath of this battle, Kas transformed into a vampire. He became the ruler and prisoner of a Domain of Dread (a mist-bordered realm in the Shadowfell) called Tovag. Eventually, the Dark Powers whispered to Kas that Vecna had risen again, becoming an evil god of secrets and magic on Oerth.
+Nach diesem Kampf ereignete sich [[Kas_der_Verräter-veor|Kas]]' Transformation in einen Vampir. [[Kas_der_Verräter-veor|Kas]] selbst wurde Herrscher und Gefangener eines von Nebel umschlossenen Reichs im Shadowfell, einer Domäne des Schreckens namens Tovag. Irgendwann wisperten die Dunklen Mächte [[Kas_der_Verräter-veor|Kas]] zu, dass [[Vecna_der_Erzlich-veor|Vecna]] sich wieder erhoben habe und zu einem bösen Gott der Geheimnisse und der Magie in Oerth geworden sei.
 
-Vecna's defeat of Kas grates on the warlord's ego. Kas aches to annihilate Vecna. Meanwhile, Vecna has been building his power, though the lich yearns to finally destroy his former lieutenant.
+[[Vecna_der_Erzlich-veor|Vecnas]] Sieg über [[Kas_der_Verräter-veor|Kas]] nagt am Ego des Kriegsherrn. Er will [[Vecna_der_Erzlich-veor|Vecna]] unbedingt auslöschen. [[Vecna_der_Erzlich-veor|Vecna]] hat inzwischen seine Macht ausgebaut, und auch er will seinen ehemaligen Feldherrn unbedingt vernichten.
 
-## Kas's Plan
+## Kas' Plan
 
-![The Dark Powers have gifte...](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/002-00-003-kas-and-crown-of-lies.webp#center "The Dark Powers have gifted Kas a powerful artifact to help him destroy Vecna")
+![Die Dunklen Mächte haben Kas ein mächtiges Artefakt verschafft, um ihm zu helfen, Vecna zu zerstören](Vecna-Vorabend_der_Verdammnis/img/002-00-003-kas-and-crown-of-lies.webp#center)
 
-Shortly after Vecna began traversing the multiverse to gather secrets, Kas learned of the lich-god's plan from the Dark Powers. Upon working out a bargain with those powers, Kas devised a plot to usurp the power Vecna was gathering.
+Als [[Vecna_der_Erzlich-veor|Vecna]] begonnen hatte, auf der Suche nach Geheimnissen das Multiversum zu durchmessen, erfuhr [[Kas_der_Verräter-veor|Kas]] durch die Dunklen Mächte vom Plan des Lich-Gottes. Er sann auf einen Pakt mit den Mächten, um [[Vecna_der_Erzlich-veor|Vecna]] der Energie zu berauben, welche dieser sammelte.
 
-The moment before the lich unravels existence, Kas plans to slay Vecna and step into the lich's place, reshaping the multiverse to his own whims.
+Sobald der Lich die Existenz auflöst, will [[Kas_der_Verräter-veor|Kas]] ihn töten und seinen Platz einnehmen, um das Multiversum nach seinen eigenen Vorstellungen umzugestalten.
 
-### Domain of Dread Parolee
+### Freigang aus der Domäne des Schreckens
 
-Kas uses an artifact called the [Crown of Lies](/3-Mechanics/CLI/items/crown-of-lies-veor.md) to impersonate a powerful wizard and manipulate others into retrieving an item that will allow him to free a demon lord ally named Miska the Wolf-Spider. Together, the two can defeat Vecna. Kas is attuned to the crown throughout this adventure.
+[[Kas_der_Verräter-veor|Kas]] benutzt ein Artefakt namens [[Krone_der_Lügen-veor|Krone der Lügen]], um sich als mächtiger Magier zu tarnen und andere dazu zu bringen, ihm einen bestimmten Gegenstand zu verschaffen. Mit diesem will er seinen Verbündeten befreien, einen Dämonenfürsten namens [[Miska_Wolfsspinne-veor|Miska Wolfsspinne]]. Gemeinsam können die beiden [[Vecna_der_Erzlich-veor|Vecna]] besiegen. [[Kas_der_Verräter-veor|Kas]] ist im Verlauf dieses Abenteuers auf die Krone eingestimmt.
 
-### The Wizards Three
+### Die drei Magier
 
-When the Dark Powers divulged Vecna's plan to Kas, the powers also whispered that Lady Alustriel Silverhand was marshaling allies to stop the lich. Kas didn't relish the thought of facing the might of one of the multiverse's most powerful good-aligned spellcasters, so the warlord devised a plot to trick Alustriel into helping him defeat Vecna.
+Als die Dunklen Mächte [[Kas_der_Verräter-veor|Kas]] [[Vecna_der_Erzlich-veor|Vecnas]] Plan enthüllten, flüsterten sie ihm auch zu, dass [[Alustriel_Silberhand-veor|Alustriel Silberhand]] Verbündete sammelt, um den Lich aufzuhalten. Die Vorstellung, sich [[Alustriel_Silberhand-veor|Alustriel]] entgegenstellen zu müssen, gefällt [[Kas_der_Verräter-veor|Kas]] gar nicht, denn sie gehört zu den mächtigsten Zauberwirkern des Multiversums. Daher hat er beschlossen, sie mit einer List dazu zu bringen, ihm im Kampf gegen [[Vecna_der_Erzlich-veor|Vecna]] zu helfen.
 
-With the help of spies, Kas learned that Alustriel intended to summon two powerful friends to oppose Vecna: the wizards Tasha and Mordenkainen. (For more information about Alustriel, Tasha, and Mordenkainen, see appendix B.)
+Mithilfe von Spionen hat [[Kas_der_Verräter-veor|Kas]] erfahren, dass [[Alustriel_Silberhand-veor|Alustriel]] beabsichtigt, gegen [[Vecna_der_Erzlich-veor|Vecna]] zwei mächtige Freunde zur Hilfe zu rufen: die beiden Magier [[Tasha_die_Hexe-veor|Tasha]] und Mordenkainen. (Weitere Informationen zu [[Alustriel_Silberhand-veor|Alustriel]], [[Tasha_die_Hexe-veor|Tasha]] und Mordenkainen findest du in Anhang B.)
 
-Kas knows Tasha only by reputation, and he holds a grudging respect for the daughter of Baba Yaga. Kas is more familiar with Mordenkainen, as the two have clashed on Oerth in the past.
+[[Kas_der_Verräter-veor|Kas]] kennt [[Tasha_die_Hexe-veor|Tasha]] nur vom Hörensagen und bringt der Tochter von Baba Yaga widerwilligen Respekt entgegen. Mordenkainen kennt er persönlich, da die beiden bereits in Oerth aneinandergeraten sind.
 
-Kas disguised himself as Mordenkainen using the [Crown of Lies](/3-Mechanics/CLI/items/crown-of-lies-veor.md) and received Alustriel's summons to her sanctum in Sigil, the City of Doors. Throughout this adventure, the real Mordenkainen is traveling the multiverse, unaware of Kas's impersonation.
+Mithilfe der [[Krone_der_Lügen-veor|Krone der Lügen]] hat [[Kas_der_Verräter-veor|Kas]] sich als Mordenkainen getarnt und folgt [[Alustriel_Silberhand-veor|Alustriels]] Ruf in ihr Heiligtum in Sigi!, der Stadt der Türen. Im Verlauf dieses Abenteuers durchreist der echte Mordenkainen das Multiversum und weiß nicht, dass [[Kas_der_Verräter-veor|Kas]] sich für ihn ausgibt.
 
-When Kas arrives in the sanctum, he realizes that Alustriel plans to combine her magic with Tasha's and Mordenkainen's to craft a Wish spell to thwart Vecna. Alustriel intends to dispel the collective power of the secrets Vecna gathered, rendering the lich's Ritual of Remaking useless.
+Als [[Kas_der_Verräter-veor|Kas]] im Heiligtum eintrifft, begreift er, dass [[Alustriel_Silberhand-veor|Alustriel]] ihre Magie mit der von [[Tasha_die_Hexe-veor|Tasha]] und Mordenkainen vereinen will, um [[Vecna_der_Erzlich-veor|Vecnas]] Pläne mit dem Wunsch-Zauber zu durchkreuzen. Sie will die vereinte Macht der Geheimnisse bannen, die [[Vecna_der_Erzlich-veor|Vecna]] gesammelt hat, um so das Ritual der Umformung zu vereiteln.
 
-Despite looking identical to Mordenkainen, Kas has no significant magical power. This lack sabotages the *Wish* spell exactly as the warlord hoped, allowing him to suggest an alternate course of action: reassemble the artifact called the [Rod of Seven Parts](/3-Mechanics/CLI/items/rod-of-seven-parts-veor.md) and use it to defeat Vecna instead. Kas is lying; he wants the rod only for his own selfish ends.
+[[Kas_der_Verräter-veor|Kas]] sieht nun zwar aus wie Mordenkainen, hat aber keine nennenswerte magische Macht. So lässt der [[Wunsch-phb|Wunsch]]-Zauber sich sabotieren, wie es der Kriegsherr gehofft hat. [[Kas_der_Verräter-veor|Kas]] schlägt nun einen anderen Weg vor. Er will ein Artefakt zusammensetzen und Vecna damit besiegen: den [[Stab_der_Sieben_Teile-veor|Stab der Sieben Teile]]. Doch [[Kas_der_Verräter-veor|Kas]] lügt. Er will diesen Stab nur für seine eigennützigen Ziele haben.
 
-> [!note] Kas's Sword
+> [!note] Kas' Schwert
 > 
-> Kas isn't in possession of the legendary artifact called the *Sword of Kas* during this adventure. However, if the characters wish to find it and use it against the warlord, you might place the artifact somewhere in this adventure for them to find. See the "Dungeon Master's Guide" for more information about the Sword of Kas.
+> [[Kas_der_Verräter-veor|Kas]] ist im Verlauf dieses Abenteuers nicht im Besitz des legendären [[Schwert_von_Kas-dmg|Schwerts von Kas]]. Wenn die Charaktere das Artefakt jedoch finden und gegen den Kriegsherrn einsetzen wollen, kannst du es irgendwo im Abenteuer platzieren, wo sie es finden können. Im _Spielleiterhandbuch_ findest du weitere Informationen zum [[Schwert_von_Kas-dmg|Schwert von Kas]].
 ^kass-sword
 
-### Confronting Vecna
+### Vecna stellen
 
-When the spellcasters' Wish spell goes awry in chapter 2 of this adventure, the player characters are shunted to the sanctum in Sigil. Kas doesn't expect this development, but the characters are the perfect patsies. Kas planned to retrieve the pieces of the [Rod of Seven Parts](/3-Mechanics/CLI/items/rod-of-seven-parts-veor.md) himself, but now he sends the characters to do so. Kas plans to use the rod to free the demon lord Miska the Wolf-Spider, his ally against Vecna, though he falsely claims that the rod is the key to stopping Vecna. (Read more about Kas's plan in chapters 2 and 9.)
+Wenn der [[Wunsch-phb|Wunsch]]-Zauber der Zauberwirker in Kapitel 2 dieses Abenteuers scheitert, gelangen die Spielercharaktere ins Heiligtum in Sigil. Dies hat [[Kas_der_Verräter-veor|Kas]] nicht vorausgesehen, aber die Charaktere sind die idealen Laufburschen. Eigentlich wollte [[Kas_der_Verräter-veor|Kas]] die Einzelteile des [[Stab_der_Sieben_Teile-veor|Stabs der Sieben Teile]] selbst holen, aber nun schickt er die Charaktere los, um dies zu tun. Er will mit dem Stab den Dämonenfürsten [[Miska_Wolfsspinne-veor|Miska Wolfsspinne]] befreien, der sein Verbündeter gegen [[Vecna_der_Erzlich-veor|Vecna]] ist. Das sagt er aber nicht, sondern behauptet, der Stab wäre der Schlüssel dazu, [[Vecna_der_Erzlich-veor|Vecna]] zu stoppen. (In den Kapiteln 2 und 9 erfährst du mehr über [[Kas_der_Verräter-veor|Kas]]' Plan.)
 
-#### The Rod's Pieces
+#### Die Teile des Stabs
 
-During this adventure, the characters might recover all the pieces of the [Rod of Seven Parts](/3-Mechanics/CLI/items/rod-of-seven-parts-veor.md). Each piece's location is presented in the Rod Piece Locations table below.
+Im Verlauf dieses Abenteuers können die Charaktere alle Teile des [[Stab_der_Sieben_Teile-veor|Stabs der Sieben Teile]] finden. Ihr jeweiliger Fundort ist in der Tabelle „Fundorte der Stabteile" unten aufgeführt.
 
-**Rod Piece Locations**
+**Fundorte der Stabteile**
 
-| Piece | Chapter | Place | Setting | Location |
-|-------|---------|-------|---------|----------|
-| First | 2 | Underdark, Toril | Forgotten Realms | A covert base of Lolth worshipers |
-| Second | 3 | Astral Sea | Spelljammer | Near the wreckage of a spelljamming ship |
-| Third | 4 | Mournland | Eberron | The control room of a deactivated colossus |
-| Fourth | 5 | Death House, Barovia | Ravenloft | The house's dungeon |
-| Fifth | 6 | Northern Dargaard Mountains, Krynn | Dragonlance | The Three Moons Vault's upper level |
-| Sixth | 7 | Isle of Serpents, Oerth | Greyhawk | The Tomb of Wayward Souls |
-| Seventh | 8 | Avernus, Nine Hells | Planescape | The Red Belvedere casino |
+| Teil    | Kapitel | Ort                          | Kampagnenwelt     | Fundort                               |
+| ------- | ------- | ---------------------------- | ----------------- | ------------------------------------- |
+| Erstes  | 2       | Unterreich, Toril            | Vergessene Reiche | Geheimbasis von Lolth-Anhängern       |
+| Zweites | 3       | Astralsee                    | Spelljammer       | Beim Wrack eines Spelljammer-Schiffs  |
+| Drittes | 4       | Trauerland                   | Eberron           | Kontrollraum eines inaktiven Kolosses |
+| Viertes | 5       | Todeshaus, Barovia           | Ravenloft         | Verlies des Hauses                    |
+| Fünftes | 6       | Nord-Dargaard-Gebirge, Krynn | Drachenlanze      | Obere Ebene der Dreimondfeste         |
+| Sechtes | 7       | Schlangeninsel, Oerth        | Greyhawk          | Grab der Verirrten Seelen             |
+| Siebtes | 8       | Avernus, Neun Höllen         | Planescape        | Casino Rotes Belvedere                | 
 ^rod-piece-locations
 
-## Adventure Summary
+## Zusammenfassung des Abenteuers
 
-The adventure is split into three narrative components:
+Das Abenteuer ist in drei erzählerische Abschnitte untergliedert:
 
-- **Discovering Vecna's Activity.** In chapter 1, the characters stumble upon a cult of Vecna performing a ritual to extract secrets. When the characters clash with the cult, they become linked to the lich, which sets them on the path to discover Vecna's plot to remake the multiverse.  
-- **Seeking the Rod.** In chapter 2, the characters' link to Vecna shunts them to Sigil when powerful spellcasters botch a Wish spell to stop the lich. The characters are asked to retrieve the pieces of the [Rod of Seven Parts](/3-Mechanics/CLI/items/rod-of-seven-parts-veor.md), as detailed in chapters 2 through 8.  
-- **Stopping the Ritual of Remaking.** In chapter 9, "Mordenkainen" reveals himself as Kas in disguise. Kas steals the reassembled rod and heads to the plane of Pandemonium to co-opt Vecna's ritual. The characters can chase and confront Kas, but they must stop the Ritual of Remaking from being completed.  
+- **Vecnas Aktivitäten entdecken:** In Kapitel 1 stolpern die Charaktere über einen Kult von [[Vecna_der_Erzlich-veor|Vecna]], der ein Ritual zum Extrahieren von Geheimnissen ausführt. Wenn die Charaktere gegen den Kult kämpfen, erhalten sie eine Verbindung mit dem Lich. Dadurch ist es ihnen möglich, [[Vecna_der_Erzlich-veor|Vecnas]] Plan zur Umformung des Multiversums zu entdecken.
+- **Den Stab suchen:** In Kapitel 2 geraten die Charaktere aufgrund der Verbindung mit [[Vecna_der_Erzlich-veor|Vecna]] nach Sigil, als mächtigen Zauberwirkern ein [[Wunsch-phb|Wunsch]]-Zauber zum Durchkreuzen von [[Vecna_der_Erzlich-veor|Vecnas]] Plänen fehlschlägt. Die Charaktere werden gebeten, die Teile des [[Stab_der_Sieben_Teile-veor|Stabs der Sieben Teile]] zu finden, wie in den Kapiteln 2 bis 8 beschrieben wird.
+- **Das Ritual der Umformung verhindern:** In Kapitel 9 gibt „Mordenkainen" sich als getarnter [[Kas_der_Verräter-veor|Kas]] zu erkennen. [[Kas_der_Verräter-veor|Kas]] stiehlt den zusammengefügten Stab und bricht ins Pandämonium auf, um von [[Vecna_der_Erzlich-veor|Vecnas]] Ritual zu profitieren. Die Charaktere können ihn verfolgen und stellen, doch sie müssen verhindern, dass das Ritual der Umformung vollendet wird.
 
-### Chapter 1 Summary
+### Zusammenfassung Kapitel 1
 
-Chapter 1 takes place in Neverwinter, a city on the Sword Coast on the world of Toril. The characters are investigating the disappearance of high-ranking nobles in Neverwinter when they stumble upon a cult of Vecna. The characters stop the cult from performing a ritual to steal a kidnap victim's secrets. In so doing, they are shunted to Evernight, a gloomy version of Neverwinter in the Shadowfell, and receive Vecna's Link, which ties their fate to that of the lich-god.
+Dieses Kapitel findet in Niewinter statt, einer Stadt an der Schwertküste in der Welt Toril. Die Charaktere untersuchen das Verschwinden hochstehender Adeliger in Niewinter. Im Zuge ihrer Ermittlungen stoßen sie auf den Kult von [[Vecna_der_Erzlich-veor|Vecna]], der soeben ein Ritual ausführt, um einem Entführungsopfer Geheimnisse zu entreißen. Dieses Ritual unterbrechen die Charaktere. Sie gelangen daraufhin nach Immernacht, einer düsteren Version Niewinters im Shadowfell, und sind ab sofort mit dem Schicksal des Lich-Gottes [[Vecna_der_Erzlich-veor|Vecna]] verbunden.
 
-### Chapter 2 Summary
+### Zusammenfassung Kapitel 2
 
-The first part of chapter 2 takes place in a secret sanctum in Sigil, the City of Doors. The second part takes place in the Underdark on Toril. When two powerful spellcasters and an impostor try to cast a Wish spell to stop Vecna's plot, the botched spell latches on to Vecna's Link and pulls the characters to the trio's location. Lady Alustriel Silverhand, Tasha, and Mordenkainen (secretly Kas) are baffled by this development, but Mordenkainen pretends to improvise a plan to stop Vecna. He falsely claims that the [Rod of Seven Parts](/3-Mechanics/CLI/items/rod-of-seven-parts-veor.md), a powerful artifact, might be the only way to stop Vecna now. He knows the location of the first piece, which is in a covert base for Lolth operatives, and sends the characters after it. Each rod piece will point the way to the next piece, and all pieces are in different locations in multiverse.
+Der erste Teil dieses Kapitels ereignet sich in einem geheimen Heiligtum in Sigi!, der Stadt der Türen. Der zweite Teil findet im Unterreich von Toril statt. Als zwei mächtige Zauberwirker und ein Hochstapler versuchen, einen [[Wunsch-phb|Wunsch]]-Zauber zu wirken, um [[Vecna_der_Erzlich-veor|Vecnas]] Plan zu vereiteln, heftet der fehlgeschlagene Zauber sich an die Verbindung mit [[Vecna_der_Erzlich-veor|Vecna]] und befördert die Charaktere zum Standort des Trios. [[Alustriel_Silberhand-veor|Alustriel Silberhand]], [[Tasha_die_Hexe-veor|Tasha]] und Mordenkainen - eigentlich [[Kas_der_Verräter-veor|Kas]] - werden von dieser Entwicklung überrascht. Mordenkainen gibt vor, einen Plan zu improvisieren, der [[Vecna_der_Erzlich-veor|Vecna]] aufhalten soll. Er behauptet unwahr, dass der Lich sich nur noch mithilfe eines mächtigen Artefakts aufhalten lasse - mit dem [[Stab_der_Sieben_Teile-veor|Stab der Sieben Teile]]. Den Fundort des ersten Teils kennt er - eine Geheimbasis für Agenten von Lolth - und er schickt die Charaktere dorthin.Jedes Stabteil befindet sich an einem anderen Ort im Multiversum und weist den Weg zum nächsten Teil.
 
-![Kas disguises himself flaw...](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/005-00-006-kas-in-disguise.webp#center "Kas disguises himself flawlessly as Mordenkainen using the Crown of Lies")
+![Kas tarnt sich mithilfe der Krone der Lügen makellos als Mordenkainen.](Vecna-Vorabend_der_Verdammnis/img/005-00-006-kas-in-disguise.webp#center)
 
-### Chapter 3 Summary
+### Zusammenfassung Kapitel 3
 
-Chapter 3 takes place on the Astral Plane. The characters learn that the second rod piece is in the wreckage of a spelljamming ship called the *Lambent Zenith*. The ship was carrying the piece when it crashed into a dying god's body adrift on the Astral Sea. The characters soon discover that a dragon-like creature devoured the piece and retreated into the heart of the god. The characters must confront the creature and retrieve the rod piece.
+Dieses Kapitel findet auf der Astralebene statt. Die Charaktere erfahren, dass sich das zweite Stabteil im Wrack eines Spelljammer-Schiffs namens Züngelzenit befindet. Es befand sich an Bord, als das Schiff in den Körper eines sterbenden Gottes in der Astralsee krachte. Bald entdecken die Charaktere, dass eine drachenartige Kreatur das Teil verschlungen und sich ins Herz des Gottes zurückgezogen hat. Sie müssen die Kreatur stellen und das Stabteil an sich bringen.
 
-### Chapter 4 Summary
+### Zusammenfassung Kapitel 4
 
-Chapter 4 takes place on the continent of Khorvaire in the world of Eberron. The characters learn that the third rod piece is located in the Mournland, a magical wasteland. Eventually, the characters discover that the piece is located within an enormous, deactivated construct called Landro. The characters must navigate this colossus and retrieve the rod piece from Landro's engine room.
+Dieses Kapitel findet auf dem Kontinent Khorvaire in der Welt Eberron statt. Die Charaktere erfahren, dass sich das dritte Stabteil in einer magischen Wüstengegend namens Trauerland befindet. Schließlich finden sie heraus, dass das Teil in einem riesigen deaktivierten Konstrukt namens Landro verborgen liegt. Sie müssen durch diesen Koloss navigieren und das Stabteil aus dem Maschinenraum von Landros holen.
 
-### Chapter 5 Summary
+### Zusammenfassung Kapitel 5
 
-Chapter 5 takes place in Barovia, a Domain of Dread. The characters learn that the fourth rod piece was taken to a haunted residence called Death House. Cultists and the infamous vampire lord Strahd von Zarovich hope to obtain the rod piece themselves, and the characters must thwart all threats before they can claim the piece.
+Dieses Kapitel findet in Barovia statt, einer Domäne des Schreckens. Die Charaktere erfahren, dass das vierte Stabteil sich in einem Spuk-Anwesen befindet, dem Todeshaus. Kultisten und der berüchtigte Vampirfürst Strahd von Zarowitsch wollen das Teil für sich haben, und die Charaktere müssen alle Gefahren überwinden, ehe sie es an sich bringen können.
 
-### Chapter 6 Summary
+### Zusammenfassung Kapitel 6
 
-Chapter 6 takes place on the world of Krynn. The characters believe the fifth rod piece is inside a gigantic tree, but with the help of good-aligned werewolves, they learn that an evil group loyal to the mighty warlord Lord Soth took the piece to a complex called Three Moons Vault. The characters must infiltrate the complex and retrieve the rod piece, perhaps freeing a resistance leader in the process.
+Dieses Kapitel findet in der Welt Krynn statt. Die Charaktere glauben, dass sich das fünfte Stabteil in einem riesigen Baum befindet, aber mit der Hilfe von Werwölfen guter Gesinnung finden sie heraus, dass Anhänger des mächtigen Kriegsherrn Fürst Soth es zu einem Komplex namens Dreimondfeste verschleppt haben. Die Charaktere müssen den Komplex infiltrieren, das Stabteil bergen und dabei womöglich einen Widerstandskämpfer befreien
 
-### Chapter 7 Summary
+### Zusammenfassung Kapitel 7
 
-Chapter 7 takes place on the Isle of Serpents on the world of Oerth. The characters learn that the sixth rod piece is in the crypt vault of the Tomb of Wayward Souls, a dungeon created by the lich Acererak. The characters must defeat a false lich that calls himself Rerak—a less-powerful version of the Acererak—before they can claim the rod piece.
+Dieses Kapitel findet auf der Schlangeninsel in der Welt Oerth statt. Die Charaktere erfahren, dass sich das sechste Stabteil im Grab der Verirrten Seelen befindet, einem Kerkergewölbe, das der Lich Acererak geschaffen hat. Die Charaktere müssen einen falschen Lich besiegen, der sich Rerak nennt - eine weniger mächtige Version des Acererak -, ehe sie das Stabteil für sich einfordern können.
 
-### Chapter 8 Summary
+### Zusammenfassung Kapitel 8
 
-Chapter 8 takes place near the dragon god Tiamat's lair in Avernus, the first layer of the Nine Hells. The characters learn Tiamat obtained the seventh rod piece and stashed it somewhere near her lair. The characters discover that the rod piece is inside a casino called the Red Belvedere. They must infiltrate a members-only section and either defeat a champion of Tiamat or convince the champion to surrender the rod piece.
+Dieses Kapitel findet beim Hort der Drachengöttin Tiamat in Avernus statt, der ersten -Ebene der Neun Höllen. Die Charaktere erfahren, dass Tiamat das siebte Stabteil an sich gebracht und irgendwo in der Nähe ihres Horts versteckt hat. Sie finden heraus, dass es sich in einem Casino namens Rotes Belvedere befindet. Dort müssen sie in den Bereich vordringen, der den Mitgliedern vorbehalten ist, und dann entweder einen Champion von Tiamat besiegen oder die Göttin überzeugen, das Stabteil herauszurücken.
 
-### Chapter 9 Summary
+### Zusammenfassung Kapitel 9
 
-Chapter 9 starts in Sigil and continues in Pandesmos, the first layer of the chaotic plane of Pandemonium. The rest of the adventure takes place on that plane. With all pieces of the [Rod of Seven Parts](/3-Mechanics/CLI/items/rod-of-seven-parts-veor.md) retrieved, the characters must allow the spellcasters to examine the rod—or so "Mordenkainen" claims. The archmage reveals himself as Kas and uses the rod to subdue Alustriel and Tasha. Kas flees to Pandemonium to free Miska the Wolf-Spider and usurp Vecna's ritual. The characters must race to Pandemonium in pursuit of Kas, who has discovered where Vecna's ritual is taking place.
+Dieses Kapitel beginnt in Sigi! und führt nach Pandesmos, der ersten Ebene des chaotischen Pandämoniums. Auch das übrige Abenteuer findet im Pandämonium statt. Haben die Charaktere alle sieben Teile des [[Stab_der_Sieben_Teile-veor|Stabs der Sieben Teile]] beschafft, müssen sie den Zauberwirkern gestatten, den Stab zu untersuchen - das sagt „Mordenkainen" jedenfalls. Der Erzmagier gibt sich als [[Kas_der_Verräter-veor|Kas]] zu erkennen und benutzt den Stab, um [[Alustriel_Silberhand-veor|Alustriel]] und [[Tasha_die_Hexe-veor|Tasha]] zu unterwerfen. Dann flieht er ins Pandämonium, um Miska Wolfsspinne zu befreien und [[Vecna_der_Erzlich-veor|Vecnas]] Ritual zu übernehmen. Die Charaktere müssen ihm nacheilen, da er den Schauplatz von [[Vecna_der_Erzlich-veor|Vecnas]] Ritual entdeckt hat.
 
-### Chapter 10 Summary
+### Zusammenfassung Kapitel 10
 
-In chapter 10, the characters follow Kas through Pandemonium toward the Ruinous Sea, an ocean of swirling, impassable, chaotic magic. On the coast, a battle rages between the demonic forces of Kas, who is attempting to free Miska the Wolf-Spider from his prison in the nearby Ruinous Citadel, and the demon-god Lolth, who is allied with Vecna. The characters can manipulate the battle, or they can race straight to Kas, who eventually reveals the location of Vecna's ritual.
+Die Charaktere folgen [[Kas_der_Verräter-veor|Kas]] durchs Pandämonium zum Meer des Untergangs, einem Ozean aus wirbelnder, undurchdringlicher Magie. An der Küste entbrennt eine Schlacht zwischen den dämonischen Kräften von [[Kas_der_Verräter-veor|Kas]], der [[Miska_Wolfsspinne-veor|Miska Wolfsspinne]] aus seinem Kerker in der Zitadelle des Untergangs befreien will, und der mit [[Vecna_der_Erzlich-veor|Vecna]] verbündeten Dämonengöttin Lolth. Die Charaktere können die Schlacht manipulieren oder direkt zu [[Kas_der_Verräter-veor|Kas]] eilen, der schließlich preisgibt, wo [[Vecna_der_Erzlich-veor|Vecnas]] Ritual stattfindet.
 
-### Chapter 11 Summary
+### Zusammenfassung Kapitel 11
 
-In chapter 11, the characters must descend into the Cave of Shattered Reflection, where Vecna weaves his Ritual of Remaking. The ritual is nearing its end, and the lich-god has created several demiplanes that offer glimpses of the multiverse he is creating. The characters must navigate these demiplanes to find the key to entering Vecna's ritual chamber. Once inside, the characters must stop the ritual, which has left the lich-god in a weakened state.
+Die Charaktere müssen in die Höhle des Geborstenen Spiegelbilds hinabsteigen, wo [[Vecna_der_Erzlich-veor|Vecna]] sein Ritual der Umformung wirkt. Dieses ist bald abgeschlossen, und der Lich-Gott hat schon verschiedene Halbebenen geschaffen, die einen Vorgeschmack auf sein Multiversum bieten. Die Charaktere müssen durch diese Halbebenen navigieren, um den Schlüssel zu [[Vecna_der_Erzlich-veor|Vecnas]] Ritualkammer zu finden. Haben sie dies geschafft, gilt es, dem Ritual, das den Lich-Gott bereits geschwächt hat, ein Ende zu machen.
 
-## Running the Adventure
+## Das Abenteuer leiten
 
-![Lady Alustriel Silverhand,...](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/006-00-007-the-three-wizards.webp#center "Lady Alustriel Silverhand, Tasha, and Mordenkainen have discovered Vecna's plan to remake the multiverse. Mordenkainen is an impostor who hopes to co-opt the lich's ritual")
+![Alustriel Silverhand, Tasha und Mordenkainen haben Vecnas Plan zur Umgestaltung des Multiversums entdeckt. 'Mordenkainen' ist ein Hochstapler, der das Ritual des Lichs für sich benutzen will.](Vecna-Vorabend_der_Verdammnis/img/006-00-007-the-three-wizards.webp#center)
 
-To run this adventure, you need the fifth edition core rulebooks ("Player's Handbook", "Dungeon Master's Guide", and "Monster Manual").
+Um dieses Abenteuer zu leiten, brauchst du die Regelbücher _Spielerhandbuch_, _Spielleiterhandbuch_ und _Monsterhandbuch_ in der fünften Edition.
 
 > [!readaloud] 
 > 
-> Text that appears in a box like this is meant to be read aloud or paraphrased for the players when their characters first arrive at a location or under specific circumstances, as described in the text.
+> Texte in solchen Kästen sollen den Spielern vorgelesen oder erzählt werden, wenn ihre Charaktere zum ersten Mal an einem bestimmten Ort eintreffen oder einen bestimmten Umstand vorfinden, so wie im jeweiligen Text beschrieben.
 ^021
 
-The "Monster Manual" contains stat blocks for most of the creatures encountered in this adventure. The remaining stat blocks can be found in appendix A or B, as indicated in the text, or in the encounters in which they appear.
+Das _Monsterhandbuch_ enthält Spielwerte für die meisten Kreaturen, die in diesem Abenteuer erscheinen. Die übrigen Spielwerte sind in Anhang A oder B wie im Text angegeben oder bei den jeweiligen Begegnungen zu finden.
 
-When a creature's name appears in **bold** type, that's a visual clue pointing you to its stat block as a way of saying, "Hey, DM, you better get this creature's stat block ready. You're going to need it."
+Ist der Name einer Kreatur **fettgedruckt**, so stellt dies einen Hinweis auf deren Spielwerte dar - in dem Sinne, dass du diese als Spielleiter besser bereithältst, weil du sie brauchen wirst.
 
-Spells and equipment mentioned in the adventure are described in the "Player's Handbook". Magic items not described in the adventure's text are described in the "Dungeon Master's Guide".
+Zauber und Ausrüstungsgegenstände, die im Abenteuer erwähnt werden, sind im _Spielerhandbuch_ beschrieben. Magische Gegenstände, die nicht im Abenteuertext beschrieben sind, findest du im _Spielleiterhandbuch_.
 
-### Using the Maps
+### Die Karten verwenden
 
-This book contains a number of interior maps.
+Dieses Buch enthält zahlreiche Karten von Innenräumen. Diese Elemente werden im Folgenden näher beschrieben.
 
-#### Interior Maps
+#### Karten von Innenräumen
 
-Maps that appear in this book are for the DM only. As the characters explore locations on a given map, you can redraw portions of the map on graph paper, an erasable mat, or another surface to help your players visualize locations with unusual shapes or features. Your hand-drawn maps needn't be faithful to the originals, and you can alter a map's features as you see fit. Nor do your maps need to be painstakingly rendered. Omit details that aren't readily visible (such as secret doors and other hidden features) until the characters detect and interact with them. For example, locked doors are indicated on the maps with dots, but you need not include this detail in your hand-drawn maps.
+Die Karten in diesem Buch sind nur für den SL bestimmt. Wenn die Charaktere die Orte auf einer Karte erforschen kannst du Teile davon auf Millimeterpapier, einer ' abwischbaren Oberfläche oder Ähnlichem skizzieren damit die Spieler sich besondere Merkmale dieser ' Orte besser vorstellen können. Solche Kartenskizzen müssen nicht originalgetreu sein, und du kannst die Merkmale beliebig anpassen. Die Skizzen müssen auch nicht mit künstlerischem Anspruch ausgearbeitet sein. Lass die Details weg, die nicht sofort erkennbar sind, bis die Charaktere sie entdecken und mit ihnen interagieren - beispielsweise Geheimtüren und andere verborgene Merkmale. Beispiel: Verschlossene Türen sind mit Punkten in den Karten verzeichnet, aber dieses Detail muss nicht in deine handgezeichneten Karten übernommen werden.
 
-One of the maps within shows the sanctum in Sigil that serves as the characters' home base for most of this adventure. This map is further described in chapter 2, but don't share information with the players that their characters wouldn't know. For example, the characters wouldn't know which magic items Alustriel keeps in area S3 of the sanctum unless they examine that area carefully. The map shows the sanctum as it is before the characters arrive.
+Eine Karte zeigt das Heiligtum in Sigil, das den Charakteren in diesem Abenteuer überwiegend als Basislager dient. Diese Karte wird in Kapitel 2 näher beschrieben, doch teile den Spielern keine Informationen mit, die ihre Charaktere nicht wissen können. Beispielsweise wissen sie nicht, welche magische Gegenstände [[Alustriel_Silberhand-veor|Alustriel]] in Bereich S3 des Heiligtums verwahrt, ehe sie den Bereich nicht vorsichtig untersucht haben. Die Karte zeigt das Heiligtum, wie es ist, wenn die Charaktere dort eintreffen.
 
-### Nondeadly Resolutions
+### Nichttödliche Lösungen
 
-This adventure sets up a number of encounters for the characters to fight their foes. However, other nondeadly resolutions are equally valid ways to resolve enemy encounters. The characters might knock out enemies, intimidate them into running away, bribe them for information, or otherwise find creative ways to resolve conflicts. Use your discretion, and if the characters attempt to resolve encounters without violence, go with it if the story allows.
+In diesem Abenteuer finden mehrere Begegnungen statt, bei denen die Charaktere gegen ihre Feinde kämpfen müssen. Es gibt jedoch auch stets nichttödliche Lösungen für solche Begegnungen. Die Charaktere könnten ihre Gegner bewusstlos schlagen oder einschüchtern, sodass sie davonlaufen. Sie können sie bestechen, um an Informationen zu kommen, oder anderweitige kreative Möglichkeiten der Konfliktlösung finden. Geh nach deinem Ermessen vor, und wenn die Charaktere Begegnungen ohne Gewalt lösen möchten, geh darauf ein, sofern die Geschichte es zulässt.
 
-## Character Creation
+## Charaktererstellung
 
-Before starting this adventure, consider spending your first game session helping your players create characters. This adventure recommends 10th-level characters to start, so make sure your players have appropriately leveled characters before play begins. Chapter 1 provides instructions for starting this adventure with 7th-, 8th-, 9th-, or 11th-level characters.
+Ehe dieses Abenteuer beginnt, erwäge, deinen Spielern in der ersten Spielsitzung beim Erstellen ihrer Charaktere zu helfen. Es wird empfohlen, dass die Charaktere zu Beginn des Abenteuers die 10. Stufe erreicht haben. Achte darauf, dass die Spieler über Charaktere mit ausreichender Erfahrungsstufe verfügen. Kapitel 1 enthält Anleitungen, wie dieses Abenteuer mit Charakteren der 7., 8., 9. oder 11. Stufe begonnen werden kann.
 
-### Existing Characters
+### Vorhandene Charaktere
 
-One or more of your players might want to continue playing characters who have successfully completed previous D&D adventures, and that's fine! Any character from any campaign setting is appropriate for this adventure, as long as they aren't higher than 11th level.
+Vielleicht möchten deine Spieler mit Charakteren weiterspielen, die schon vorige D&D-Abenteuer erfolgreich abgeschlossen haben. Das ist wunderbar! Jeder Charakter aus einer beliebigen Kampagnenwelt ist für dieses Abenteuer geeignet, solange er noch keine höhere als die 11. Stufe erreicht hat.
 
-The beginning of this adventure takes place in the city of Neverwinter on the world of Toril (in the Forgotten Realms campaign setting). If a character is from a different world or is from somewhere else in that setting, work with the player to devise a reason why that character is in Neverwinter and answers Lord Neverember's call for help in solving the disappearance of several nobles. The reason might range from the magical (an unexpected magical backlash transports them to the city) to the mundane (a family connection brings them there).
+Dieses Abenteuer beginnt in der Stadt Niewinter in der Welt Tori!, der Kampagnenwelt der Vergessenen Reiche. Wenn ein Charakter aus einer anderen Welt oder aus einem anderen Ort dieser Kampagnenwelt stammt, arbeite mit dem Spieler einen Grund aus, warum der Charakter sich in Niewinter aufhält und Vogt Niegluts Hilferuf wegen des Verschwindens zahlreicher Adeliger erhört. Es könnte alle möglichen magischen - ein unerwarteter magischer Rückschlag versetzt den Charakter in die Stadt - oder auch weltlichen Gründe geben - sie sind wegen einer familiären Verbindung hier.
 
-If a character takes a break after their previous adventure, consider rolling on or picking an option from the Purpose in Neverwinter table, expanding on it as necessary, to provide a reason the character has come to Neverwinter.
+Wenn ein Charakter nach dem vorigen Abenteuer eine Pause einlegt, kannst du anhand der Tabelle „Anwesenheit in Niewinter" würfeln oder eine der Optionen auswählen und sie nach Bedarf erweitern, um einen Grund zu finden, aus dem der Charakter sich in Niewinter aufhält.
 
-### New Characters
+### Neue Charaktere
 
-Players might create a 10th-level character from scratch for this adventure. For ease of introduction, the character might be from Neverwinter or somewhere else nearby.
+Die Spieler könnten auch eigens für dieses Abenteuer Charaktere der 10. Stufe erstellen. Der Einfachheit halber bieten sich Charaktere aus Niewinter oder der Umgebung an.
 
-If one or more of your players want to create characters from more distant lands, use the suggestions provided in the previous section for why the characters are now in Neverwinter. If they don't already have one, the characters need a reason for Lord Neverember to request their help in chapter 1, even if it's simply because their heroics are widely known.
+Wenn deine Spieler Charaktere aus ferneren Landen erstellen wollen, verwende die Vorschläge im vorigen Abschnitt, um einen Grund für ihre Anwesenheit in Niewinter zu finden. Wenn sie noch keinen haben, brauchen die Charaktere einen Grund dafür, dass Vogt Nieglut sie in Kapitel 1 um Hilfe bittet. Dieser könnte schlicht darin bestehen, dass ihre Heldentaten weithin bekannt sind.
 
-Regardless, 10th-level characters have already had long careers and earned their abilities through experience. These characters have likely accomplished impressive deeds, so encourage your players to describe how the characters reached 10th level.
+Jedenfalls verfügen Charaktere der 10. Stufe bereits über umfangreiche Karrieren und haben sich ihre Fähigkeiten durch Erfahrung erworben. Vermutlich haben sie beeindruckende Taten vollbracht. Ermutige die Spieler zu beschreiben, wie die Charaktere die 10. Stufe erreicht haben.
 
-The 10th-Level Backstories table contains sample backstories for new characters. Roll on the table or pick your favorite option when working with your players to determine their characters' backstories.
+In der Tabelle „Hintergrundgeschichten der 10. Stufe" findest du Beispiele für Hintergrundgeschichten für neue Charaktere. Würfle anhand der Tabelle oder wähle deine Lieblingsoption aus, wenn du mit den Spielern an den Hintergrundgeschichten der Charaktere arbeitest.
 
-**10th-Level Backstories**
+**Hintergrundgeschichten der 10. Stufe**
 
-`dice: [](01-introduction-danger-to-the-multiverse.md#^10th-level-backstories)`
+`dice: [](01-Einführung-Gefahr_für_das_Multiversum#^10th-level-backstories)`
 
-| dice: d6 | Deeds Accomplished |
+| W6 | Vollbrachte Taten |
 |----------|--------------------|
-| 1 | The character began their adventuring career investigating zombies that rose from a once-peaceful graveyard. Their investigations revealed a cult. The character fought the cultists and defeated the cult's archmage leader. |
-| 2 | As a bodyguard for a high-ranking political or business figure, the character has staved off attacks from assassins and demons. |
-| 3 | The character hunts evil dragons or another dangerous kind of creature. |
-| 4 | The character is a private investigator who, for the right price, retrieves kidnapped loved ones and recovers stolen documents and items from crafty villains. |
-| 5 | The character studies and preserves nonmagical historical artifacts and has traveled widely in pursuit of rare items of deep significance. While securing items for local museums, the character has thwarted threats ranging from [ettins](/3-Mechanics/CLI/bestiary/giant/ettin.md) to [glabrezus](/3-Mechanics/CLI/bestiary/fiend/glabrezu.md). |
-| 6 | The character is in the service of a god and on a mission to protect the helpless. The work doesn't pay well, but the character has saved children from hungry monsters, thwarted rampaging monsters in villages, and protected the poor from greedy overlords. |
+| 1 | Der Charakter hat seine Abenteurerkarriere begonnen, als er untersucht hat, warum sich auf einem vormals idyllischen Friedhof Zombies erheben. Seine Nachforschungen haben ihn zu einem Kult geführt. Der Charakter hat gegen die Kultisten gekämpft und ihren Anführer besiegt, einen Erzmagier. |
+| 2 | Als Leibwache eines hochrangigen Politikers oder einer Geschäftsperson hat der Charakter zahlreiche Angriffe von Assassinen und Dämonen abgewehrt. |
+| 3 | Der Charakter jagt böse Drachen oder andere gefährliche Kreaturen. |
+| 4 | Der Charakter ist ein Privatdetektiv, der gegen klingende Münze Entführte rettet und gestohlene Dokumente und Gegenstände von findigen Halunken wiederbeschafft. |
+| 5 | Der Charakter studiert und pflegt nichtmagische historische Artefakte und ist auf der Suche nach bedeutsamen Gegenständen schon weit gereist. Im Auftrag örtlicher Museen unterwegs, hat er schon vielfältige Gefahren vom [[Ettin-mm\|Ettin]] bis zum [[Glabrezu-mm\|Glabrezu]] gebannt. |
+| 6 | Der Charakter steht im Dienst eines Gottes, und seine Mission ist es, die Wehrlosen zu beschützen. Die Arbeit ist nicht übermäßig einträglich, aber der Charakter hat schon Kinder vor hungrigen Monstern gerettet, Dörfer vor dämonischen Bedrohungen und arme Leute vor gierigen Gebietern beschützt. |
 ^10th-level-backstories
 
-**Purpose in Neverwinter**
+**Anwesenheit in Niewinter**
 
-`dice: [](01-introduction-danger-to-the-multiverse.md#^purpose-in-neverwinter)`
+`dice: [](01-Einführung-Gefahr_für_das_Multiversum#^purpose-in-neverwinter)`
 
-| dice: d6 | Reason |
+| W6 | Grund |
 |----------|--------|
-| 1 | The character is in the employ of a powerful merchant, mage, or monarch who sent the character to Lord Neverember as a favor. Neverember needed the character's help to handle growing problems with undead in Neverwinter. The emergency involving the missing nobles is the character's most recent assignment. |
-| 2 | After a long struggle, the character defeated a powerful sorcerer. In the throes of death, the sorcerer's magic backfired, opening a portal and shunting the character to Neverwinter. The character has been working for Lord Neverember as a mercenary while figuring out what to do next. |
-| 3 | The character fought an adult black dragon. The fight wasn't going well, and nothingness enveloped the character as the character was about to die. Instead of dying, the character woke up in Neverwinter outside Lord Neverember's villa. It's up to you to decide why; perhaps a god's or spellcaster's intervention is involved. |
-| 4 | The character defeated an evil leader and was given the pick of the spoils from the villain's lair. While examining the items, the character stumbled upon a Cubic Gate that sent them to Neverwinter. The character agreed to work for Lord Neverember in exchange for the spellcasting services they need to return home. |
-| 5 | The character is an expert at retrieving kidnapped individuals, even those on other planes of existence. The family of one of the kidnapped nobles in chapter 1 reached out to the Harpers, who recommended the character's services. The family promised a high price for the character to come to Neverwinter and look for the missing loved one. |
-| 6 | The character is an explorer charting the multiverse. During their travels, they've come to recognize the foreboding sense of danger they feel whenever they're about to encounter evil. The character can't shake a sense of dread about Neverwinter, so they've come to the city to ask Lord Neverember if there's a threat. |
+| 1 | Der Charakter steht in den Diensten eines mächtigen Kaufmanns, Magiers oder Monarchen, der ihn aus Gefälligkeit zu Vogt Nieglut schickt. Nieglut braucht die Hilfe des Charakters, um der zunehmenden Probleme mit Untoten in Niewinter Herr zu werden. Der Notfall mit den verschwundenen Adeligen ist der neueste Auftrag des Charakters. |
+| 2 | Nach langem Kampf hat der Charakter einen mächtigen Zauberer besiegt. In dessen Todeskampf hat es einen Rückschlag seiner Magie gegeben. Ein Portal hat sich geöffnet, und der Charakter ist nach Niewinter gelangt. Er arbeitet nun als Söldner für Vogt Nieglut, während er überlegt, was er als Nächstes tun will. |
+| 3 | Der Charakter hat gegen einen ausgewachsenen schwarzen Drachen gekämpft. Der Kampf lief nicht gut, und der Charakter hat dem Tode nahe das Bewusstsein verloren. Doch er ist nicht gestorben, sondern ist in Niewinter vor dem Anwesen von Vogt Nieglut zu sich gekommen. Der Grund dafür ist dir überlassen - vielleicht hat ein Gott oder ein Zauberwirker eingegriffen. |
+| 4 | Der Charakter hat einen bösen Anführer besiegt und konnte sich seinen Anteil der Beute aus dem Hort des Halunken aussuchen. Dabei ist er auf einen Würfel der Ebenen gestoßen, durch den er nach Niewinter geraten ist. Er hat eingewilligt, für Vogt Nieglut zu arbeiten und im Gegenzug Zauberdienste für seine Heimkehr zu erhalten. |
+| 5 | Der Charakter ist Spezialist im Befreien von Entführten, selbst dann, wenn sie sich auf anderen Ebenen der Existenz befinden. Die Familie eines der in Kapitel 1 entführten Adeligen hat sich an die Harfner gewendet, und diese haben die Dienste des Charakters empfohlen. Die Familie hat versprochen, den Charakter reich zu entlohnen, wenn er nach Niewinter kommt und den Vermissten sucht. |
+| 6 | Der Charakter ist ein Entdecker, der das Multiversum kartiert. Auf seinen Reisen hat er gelernt, die drohende Gefahr zu erspüren, wenn eine Begegnung mit dem Bösen bevorsteht. Für Niewinter spürt er besonders viel Gefahr und ist daher in die Stadt gekommen, um Vogt Nieglut zu fragen, ob es Bedrohungpn gibt. |
 ^purpose-in-neverwinter
 
-## The Power of Secrets
+## Die Macht der Geheimnisse
 
-![Cults of Vecna everywhere ...](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/007-00-008-cult-of-vecna.webp#center "Cults of Vecna everywhere are conducting rituals to siphon victims' secrets, which will fuel the lich's ritual to remake the multiverse")
+![Überall führen Kulte von Vecna Rituale durch, um ihren Opfern Geheimnisse zu entreissen und dem Ritual des Lichs zur Umgestaltung des Multiversums Kraft zu geben.](Vecna-Vorabend_der_Verdammnis/img/007-00-008-cult-of-vecna.webp#center)
 
-Vecna uses stolen secrets to power his ritual to remake the multiverse. When the characters stumble on the cult of Vecna, whose members are trying to extract secrets from a captive, they gain access to magic fueled by powerful secrets. The characters can spend secrets like currency once they receive Vecna's Link in chapter 1.
+[[Vecna_der_Erzlich-veor|Vecna]] benutzt gestohlene Geheimnisse, um seinem Ritual zur Umgestaltung des Multiversums Energie zu geben. Als die Charaktere auf den Kult von [[Vecna_der_Erzlich-veor|Vecna]] stoßen, dessen Mitglieder einem Gefangenen seine Geheimnisse entreißen wollen, erhalten sie Zugang zu Magie, die durch mächtige Geheimnisse gespeist wird. Sie können Geheimnisse wie Währung ausgeben, wenn sie in Kapitel 1 die Verbindung mit [[Vecna_der_Erzlich-veor|Vecna]] erhalten haben.
 
-Throughout the adventure, the characters can learn many secrets. Each chapter's beginning includes a "Power of Secrets" section that lists each secret that can be used with these rules. The Secrets Tracker in appendix C helps you keep track of secrets the characters have learned. The Secrets Tracker includes spoilers, so keep it hidden from the players.
+Im Verlauf des Abenteuers können die Charaktere zahlreiche Geheimnisse erfahren. Am Anfang jedes Kapitels findet sich ein Abschnitt „Macht der Geheimnisse", in dem alle Geheimnisse aufgeführt sind, die entsprechend diesen Regeln verwendet werden können. Der Geheimnisse-Tracker in Anhang C hilft dir mitzuverfolgen, welche Geheimnisse die Charaktere erfahren haben. Dieser Tracker enthält Spoiler. Halte ihn vor den Spielern verborgen.
 
-### Learning Secrets
+### Geheimnisse erfahren
 
-Every time the characters learn a powerful secret, note it on the Secrets Tracker. Once the characters learn a secret, they can't learn it again. When one character learns a secret, it counts as a secret learned for the whole party.
+Wann immer die Charaktere ein mächtiges Geheimnis erfahren, notiere es im Geheimnisse-Tracker. Haben die Charaktere ein Geheimnis erfahren, so können sie es nicht noch einmal erfahren. Wenn nur ein Charakter ein Geheimnis erfährt, so zählt es als von der gesamten Abenteurergruppe erfahren.
 
-#### Revealing Secrets
+#### Geheimnisse offenbaren
 
-A character can magically spend a secret like currency, revealing it to the multiverse to gain a momentary boon. To do this, the character must use an action to whisper the secret into the wind. The secret is then gone from the minds of every character in the party. There is one exception; if the characters spend the secret they learn from Kas in chapter 10 about Vecna's location, they still know where the lich-god weaves his ritual.
+Ein Charakter kann ein Geheimnis auf magische Weise wie Währung verwenden. Dabei offenbart er es für einen kurzfristigen Vorteil dem Multiversum. Dazu muss der Charakter eine Aktion verwenden, um das Geheimnis in den Wind zu flüstern. Dadurch verschwindet das Geheimnis aus dem Bewusstsein aller Mitglieder der Abenteurergruppe. Ausnahme: Wenn die Charaktere das Geheimnis verwenden, das sie in Kapitel 10 von [[Kas_der_Verräter-veor|Kas]] über [[Vecna_der_Erzlich-veor|Vecnas]] Standort erfahren, so vergessen sie nicht, wo der Lich-Gott sein Ritual durchführt.
 
-When a character spends a secret, every character in the party gains advantage on `dice:d20|noform|noparens|avg` (`d20`) rolls for 1 minute.
+Wenn ein Charakter ein Geheimnis verwendet, ist jeder Charakter in der Abenteurergruppe eine Minute lang bei `dice:d20|noform|noparens|avg` (`d20`)-Würfen im Vorteil.
 
-The characters might hear the information from the secret again, but they can't spend a secret more than once. If the characters share a secret with a nonplayer character, that secret immediately loses its power and counts as revealed. It remains in the minds of every character in the party, but the characters gain no benefit from revealing the secret.
+Es ist möglich, dass die Charaktere die Informationen des Geheimnisses noch einmal erfahren, aber sie können es nur einmal auf diese Weise verwenden. Wenn die Charaktere einem Nichtspielercharakter ein Geheimnis mitteilen, so verliert dieses sofort seine Energie und gilt als offenbart. Es verbleibt im Bewusstsein aller Charaktere in der Abenteurergruppe, aber seine Offenbarung bietet keinen Vorzug mehr.
 
-#### Keeping Secrets
+#### Geheimnisse bewahren
 
-When the characters confront Vecna in the Cave of Shattered Reflection in chapter 11, they can use any number of secrets they've kept to help thwart the lich-god's Ritual of Remaking. See chapter 11 for more details about how secrets the characters kept can affect their confrontation with Vecna.
+Wenn die Charaktere [[Vecna_der_Erzlich-veor|Vecna]] in Kapitel 11 in der Höhle des Geborstenen Spiegelbilds stellen, können sie beliebig viele Geheimnisse verwenden, die sie bewahrt haben, um sein Ritual der Umformung zu vereiteln. In Kapitel 11 findest du weitere Details dazu, wie bewahrte Geheimnisse die Konfrontation der Charaktere mit [[Vecna_der_Erzlich-veor|Vecna]] beeinflussen können.
 
-### Linked to Vecna
+### Verbindung mit Vecna
 
-Once the characters are metaphysically linked to Vecna and can spend powerful secrets, their connection to the lich-god might manifest in additional ways, at your discretion.
+Wenn die Charaktere metaphysisch mit [[Vecna_der_Erzlich-veor|Vecna]] verbunden sind und mächtige Geheimnisse verwenden können, manifestiert sich ihre Verbindung mit dem Lich-Gott nach deinem Ermessen möglicherweise auf zusätzliche Arten.
 
-For instance, the characters might periodically see mental images of Vecna weaving his ritual in a mysterious, crystal-filled cave. Or the characters might dream about foreboding Vecnan images, including the lich-god's unholy symbol or robed cultists worshiping Vecna. Reminding the characters periodically about the lich-god's evil plan adds a sense of urgency to the adventure.
+Sie könnten beispielsweise periodisch mentale Bilder von [[Vecna_der_Erzlich-veor|Vecna]] sehen, der sein Ritual in einer mysteriösen Höhle voller Kristalle durchführt. Oder sie könnten von unheilvollen [[Vecna_der_Erzlich-veor|Vecna]]-Bildern wie dem unheiligen Symbol des Lich-Gottes oder Kultisten in Roben träumen, die [[Vecna_der_Erzlich-veor|Vecna]] anbeten. Wenn du die Charaktere zwischendurch immer wieder an den bösen Plan des Lich-Gottes erinnerst, fügt dies dem Abenteuer eine gewisse Dringlichkeit hinzu.
 
-## Challenge Ratings
+## Herausforderungsgrade
 
-The Stat Blocks by Challenge Rating table sorts the creatures in this book by challenge rating. It also lists their creature type and where in the book they appear.
+In der Tabelle „Spielwerte nach Herausforderungsgrad" sind die Kreaturen in diesem Buch nach ihrem Herausforderungsgrad sortiert. Außerdem ist aufgeführt, um welchen Kreaturentyp es sich handelt und wo im Buch die Kreatur erscheint.
 
-**Stat Blocks by Challenge Rating**
+**Spielwerte nach Herausforderungsgrad**
 
-| CR | Stat Block | Creature Type | Chapter |
-|----|------------|---------------|---------|
-| 1 | [Warforged warrior](/3-Mechanics/CLI/bestiary/construct/warforged-warrior-veor.md) | Construct | A |
-| 5 | [Night scavver](/3-Mechanics/CLI/bestiary/monstrosity/night-scavver-bam.md) | Monstrosity | A |
-| 5 | [Kakkuu spyder-fiend](/3-Mechanics/CLI/bestiary/fiend/kakkuu-spyder-fiend-veor.md) | Fiend | A |
-| 6 | [Black rose bearer](/3-Mechanics/CLI/bestiary/undead/black-rose-bearer-veor.md) | Undead | A |
-| 6 | [Moonlight guardian](/3-Mechanics/CLI/bestiary/construct/moonlight-guardian-veor.md) | Construct | A |
-| 6 | [Priest of Osybus](/3-Mechanics/CLI/bestiary/humanoid/priest-of-osybus-vrgr.md) | Humanoid | A |
-| 7 | [Blade scout](/3-Mechanics/CLI/bestiary/construct/blade-scout-veor.md) | Construct | A |
-| 7 | [Lost sorrowsworn](/3-Mechanics/CLI/bestiary/monstrosity/lost-sorrowsworn-mpmm.md) | Monstrosity | A |
-| 8 | [Bone roc](/3-Mechanics/CLI/bestiary/undead/bone-roc-veor.md) | Undead | A |
-| 8 | [Inquisitor of the Tome](/3-Mechanics/CLI/bestiary/humanoid/inquisitor-of-the-tome-vrgr.md) | Humanoid | A |
-| 8 | [Star angler](/3-Mechanics/CLI/bestiary/monstrosity/star-angler-veor.md) | Monstrosity | A |
-| 8 | [Whirling chandelier](/3-Mechanics/CLI/bestiary/construct/whirling-chandelier-veor.md) | Construct | A |
-| 9 | [Blade lieutenant](/3-Mechanics/CLI/bestiary/construct/blade-lieutenant-veor.md) | Construct | A |
-| 9 | [Lonely sorrowsworn](/3-Mechanics/CLI/bestiary/monstrosity/lonely-sorrowsworn-mpmm.md) | Monstrosity | A |
-| 9 | [Necromancer wizard](/3-Mechanics/CLI/bestiary/humanoid/necromancer-wizard-mpmm.md) | Humanoid | A |
-| 10 | [Eye monger](/3-Mechanics/CLI/bestiary/aberration/eye-monger-bam.md) | Aberration | A |
-| 10 | [Mirror shade](/3-Mechanics/CLI/bestiary/undead/mirror-shade-veor.md) | Undead | A |
-| 11 | [Degloth](/3-Mechanics/CLI/bestiary/fiend/degloth-veor.md) | Fiend | A |
-| 11 | [Glaive](/3-Mechanics/CLI/bestiary/npc/glaive-veor.md) | Humanoid | 4 |
-| 11 | [Spiderdragon](/3-Mechanics/CLI/bestiary/monstrosity/spiderdragon-veor.md) | Monstrosity | A |
-| 11 | [Vlazok](/3-Mechanics/CLI/bestiary/fiend/vlazok-veor.md) | Fiend | A |
-| 12 | [Blazebear](/3-Mechanics/CLI/bestiary/monstrosity/blazebear-veor.md) | Monstrosity | A |
-| 12 | [Granite juggernaut](/3-Mechanics/CLI/bestiary/construct/granite-juggernaut-veor.md) | Construct | A |
-| 13 | [Deadbark dryad](/3-Mechanics/CLI/bestiary/fey/deadbark-dryad-veor.md) | Fey | A |
-| 13 | [Adult lunar dragon](/3-Mechanics/CLI/bestiary/dragon/adult-lunar-dragon-bam.md) | Dragon | A |
-| 13 | [Phisarazu spyder-fiend](/3-Mechanics/CLI/bestiary/fiend/phisarazu-spyder-fiend-veor.md) | Fiend | A |
-| 14 | [Cadaver collector](/3-Mechanics/CLI/bestiary/construct/cadaver-collector-mpmm.md) | Construct | A |
-| 14 | [Hazvongel](/3-Mechanics/CLI/bestiary/fiend/hazvongel-veor.md) | Fiend | A |
-| 15 | [Green abishai](/3-Mechanics/CLI/bestiary/fiend/green-abishai-mpmm.md) | Fiend | A |
-| 15 | [Borthak](/3-Mechanics/CLI/bestiary/monstrosity/borthak-veor.md) | Monstrosity | A |
-| 15 | [Deathwolf](/3-Mechanics/CLI/bestiary/undead/deathwolf-veor.md) | Undead | A |
-| 15 | [Relentless impaler](/3-Mechanics/CLI/bestiary/fiend/relentless-impaler-veor.md) | Fiend | A |
-| 15 | [Strahd, Master of Death House](/3-Mechanics/CLI/bestiary/npc/strahd-master-of-death-house-veor.md) | Undead | B |
-| 17 | [Blue abishai](/3-Mechanics/CLI/bestiary/fiend/blue-abishai-mpmm.md) | Fiend | A |
-| 17 | [Hertilod](/3-Mechanics/CLI/bestiary/monstrosity/hertilod-veor.md) | Monstrosity | A |
-| 17 | [Quavilithku spyder-fiend](/3-Mechanics/CLI/bestiary/fiend/quavilithku-spyder-fiend-veor.md) | Fiend | A |
-| 18 | [Citadel spider](/3-Mechanics/CLI/bestiary/monstrosity/citadel-spider-veor.md) | Monstrosity | A |
-| 18 | [Cosmic horror](/3-Mechanics/CLI/bestiary/aberration/cosmic-horror-bam.md) | Aberration | A |
-| 19 | [Red abishai](/3-Mechanics/CLI/bestiary/fiend/red-abishai-mpmm.md) | Fiend | A |
-| 19 | [Raklupis spyder-fiend](/3-Mechanics/CLI/bestiary/fiend/raklupis-spyder-fiend-veor.md) | Fiend | A |
-| 19 | [Lord Soth](/3-Mechanics/CLI/bestiary/npc/lord-soth-dsotdq.md) | Undead | B |
-| 19 | [Tasha the Witch](/3-Mechanics/CLI/bestiary/npc/tasha-the-witch-veor.md) | Humanoid | B |
-| 21 | [Astral dreadnought](/3-Mechanics/CLI/bestiary/monstrosity/astral-dreadnought-mpmm.md) | Monstrosity | A |
-| 21 | [False lich](/3-Mechanics/CLI/bestiary/undead/false-lich-veor.md) | Undead | A |
-| 21 | [Alustriel Silverhand](/3-Mechanics/CLI/bestiary/npc/alustriel-silverhand-veor.md) | Humanoid | B |
-| 22 | [Camlash](/3-Mechanics/CLI/bestiary/npc/camlash-veor.md) | Fiend | 10 |
-| 23 | [Kas the Betrayer](/3-Mechanics/CLI/bestiary/npc/kas-the-betrayer-veor.md) | Undead | B |
-| 23 | [Windfall](/3-Mechanics/CLI/bestiary/npc/windfall-veor.md) | Humanoid | 8 |
-| 24 | [Miska the Wolf-Spider](/3-Mechanics/CLI/bestiary/npc/miska-the-wolf-spider-veor.md) | Fiend | B |
-| 26 | [Vecna the Archlich](/3-Mechanics/CLI/bestiary/npc/vecna-the-archlich-veor.md) | Undead | B |
+| HG  | Spielwerte                                                            | Kreaturentyp | Kapitel |
+| --- | --------------------------------------------------------------------- | ------------ | ------- |
+| 1   | [[Kriegsgeschmiedeter_Krieger-veor\|Kriegsgeschmiedeter Krieger]]     | Konstrukt    | A       |
+| 5   | [[Nachtplünderer-bam\|Nachtplünderer]]                                | Monstrosität | A       |
+| 5   | [[Kakkuu-Spinnenunhold-veor\|Kakkuu-Spinnenunhold]]                   | Unhold       | A       |
+| 6   | [[Schwarzrosenträger-veor\|Schwarzrosenträger]]                       | Untoter      | A       |
+| 6   | [[Mondscheinwächter-veor\|Mondscheinwächter]]                         | Konstrukt    | A       |
+| 6   | [[Priester_von_Osybus-vrgr\|Priester von Osybus]]                     | Humanoide    | A       |
+| 7   | [[Klingenspäher-veor\|Klingenspäher]]                                 | Konstrukt    | A       |
+| 7   | [[Verlorener_Kummergeschworener-mpmm\|Verlorener Kummergeschworener]] | Monstrosität | A       |
+| 8   | [[Knochenroch-veor\|Knochenroch]]                                     | Untoter      | A       |
+| 8   | [[Inquisitor_des_Folianten-vrgr\|Inquisitor des Folianten]]           | Humanoide    | A       |
+| 8   | [[Sternangler-veor\|Sternangler]]                                     | Monstrosität | A       |
+| 8   | [[Wirbelnder_Lüster-veor\|Wirbelnder Lüster]]                         | Konstrukt    | A       |
+| 9   | [[Klingenleutnant-veor\|Klingenleutnant]]                             | Konstrukt    | A       |
+| 9   | [[Einsamer_Kummergeschworener-mpmm\|Einsamer Kummergeschworener]]     | Monstrosität | A       |
+| 9   | [[Magier-Nekromant-mpmm\|Magier-Nekromant]]                           | Humanoide    | A       |
+| 10  | [[Maulauge-bam\|Maulauge]]                                            | Aberration   | A       |
+| 10  | [[Spiegelschatten-veor\|Spiegelschatten]]                             | Untoter      | A       |
+| 11  | [[Degloth-veor\|Degloth]]                                             | Unhold       | A       |
+| 11  | [[Glefe-veor\|Glefe]]                                                 | Humanoide    | 4       |
+| 11  | [[Spinnendrache-veor\|Spinnendrache]]                                 | Monstrosität | A       |
+| 11  | [[Vlazok-veor\|Vlazok]]                                               | Unhold       | A       |
+| 12  | [[Brandbär-veor\|Brandbär]]                                           | Monstrosität | A       |
+| 12  | [[Granit-Moloch-veor]]                                                | Konstrukt    | A       |
+| 13  | [[Todesrinden-Dryade-veor\|Todesrinden-Dryade]]                       | Feenwesen    | A       |
+| 13  | [[Ausgewachsener_Monddrache-bam\|Ausgewachsener Monddrache]]          | Drache       | A       |
+| 13  | [[Phisarazu-Spinnenunhold-veor\|Phisarazu-Spinnenunhold]]             | Unhold       | A       |
+| 14  | [[Leichensammler-mpmm\|Leichensammler]]                               | Konstrukt    | A       |
+| 14  | [[Hazvongel-veor\|Hazvongel]]                                         | Unhold       | A       |
+| 15  | [[Grüner_Abishai-mpmm\|Grüner Abishai]]                               | Unhold       | A       |
+| 15  | [[Borthak-veor\|Borthak]]                                             | Monstrosität | A       |
+| 15  | [[Todeswolf-veor\|Todeswolf]]                                         | Untoter      | A       |
+| 15  | [[Unermüdlicher_Pfähler-veor\|Unermüdlicher Pfähler]]                 | Unhold       | A       |
+| 15  | [[Strahd-Herr_des_Todeshauses-veor\|Strahd, Herr des Todeshauses]]    | Untoter      | B       |
+| 17  | [[Blauer_Abishai-mpmm\|Blauer Abishai]]                               | Unhold       | A       |
+| 17  | [[Hertilod-veor\|Hertilod]]                                           | Monstrosität | A       |
+| 17  | [[Quavilithku-Spinnenunhold-veor\|Quavilithku-Spinnenunhold]]         | Unhold       | A       |
+| 18  | [[Zitadellenspinne-veor\|Zitadellenspinne]]                           | Monstrosität | A       |
+| 18  | [[Kosmischer_Horror-bam\|Kosmischer Horror]]                          | Aberration   | A       |
+| 19  | [[Roter_Abishai-mpmm\|Roter Abishai]]                                 | Unhold       | A       |
+| 19  | [[Raklupis-Spinnenunhold-veor\|Raklupis-Spinnenunhold]]               | Unhold       | A       |
+| 19  | [[Fürst_Soth-dsotdq\|Fürst Soth]]                                     | Untoter      | B       |
+| 19  | [[Tasha_die_Hexe-veor\|Tasha die Hexe]]                               | Humanoide    | B       |
+| 21  | [[Astralschlächter-mpmm\|Astralschlächter]]                           | Monstrosität | A       |
+| 21  | [[Falscher_Lich-veor\|Falscher Lich]]                                 | Untoter      | A       |
+| 21  | [[Alustriel_Silberhand-veor\|Alustriel Silberhand]]                   | Humanoide    | B       |
+| 22  | [[Camlash-veor\|Camlash]]                                             | Unhold       | 10      |
+| 23  | [[Kas_der_Verräter-veor\|Kas der Verräter]]                           | Untoter      | B       |
+| 23  | [[Windfall-veor\|Windfall]]                                           | Humanoide    | 8       |
+| 24  | [[Miska_Wolfsspinne-veor\|Miska Wolfsspinne]]                         | Unhold       | B       |
+| 26  | [[Vecna_der_Erzlich-veor\|Vecna der Erzlich]]                         | Untoter      | B       |
 ^stat-blocks-by-challenge-rating

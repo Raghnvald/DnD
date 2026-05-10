@@ -2,7 +2,7 @@
 Bezeichnung: Umrechnung Entfernung
 tags:
   - Quelle/5e/dmg
-Feet: 150
+Feet:
 Meter: 0
 ---
 # Umrechnung Entfernung

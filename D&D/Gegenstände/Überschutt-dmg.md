@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Whelm
+Bezeichnung: Überschutt
 Kategorie: Nahkampf-Kriegswaffe
 tags:
   - Gegenstand/Einstimmung/required
@@ -11,7 +11,7 @@ aliases:
   - Whelm
 linter-yaml-title-alias: Whelm
 ---
-# Whelm
+# Überschutt
 *Weapon ([warhammer](/3-Mechanics/CLI/items/warhammer.md)), legendary (requires attunement by a dwarf)*  
 ![](/3-Mechanics/CLI/items/img/whelm.webp#right)
 

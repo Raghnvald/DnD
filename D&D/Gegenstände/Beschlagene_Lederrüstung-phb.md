@@ -18,7 +18,7 @@ linter-yaml-title-alias: Beschlagene Lederrüstung
 ---
 # Beschlagene Lederrüstung
 *Leichte Rüstung*  
-<img src="studded-leather-armor..webp" align="right" width="150">
+<img src="studded-leather-armor.webp" align="right" width="150">
 
 - **Rüstungsklasse**: 12 + GES Modifikator
 - **Kosten**: 45 GM

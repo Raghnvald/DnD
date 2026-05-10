@@ -1,6 +1,10 @@
 ---
-Bezeichnung: Blackrazor
+Bezeichnung: Schwarzklinge
 Kategorie: Nahkampf-Kriegswaffe
+Schaden: 2W6 Hieb
+Eigenschaften: Schwer, Zweihändig
+Kst.: /
+Gew.: 3,0 kg
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -11,46 +15,46 @@ aliases:
   - Blackrazor
 linter-yaml-title-alias: Blackrazor
 ---
-# Blackrazor
-*Weapon ([greatsword](/3-Mechanics/CLI/items/greatsword.md)), legendary (requires attunement by a creature of non-lawful alignment)*  
-![](/3-Mechanics/CLI/items/img/blackrazor.webp#right)
+# Schwarzklinge
+*Waffe ([[Zweihandschwert-phb|Zweihandschwert]]), legendär (benötigt Einstimmung durch eine Kreatur, die keine gute Gesinnung hat)*  
+![](img/blackrazor.webp#right)
 
-- **Damage**: 2d6 slashing
-- **Properties**: [Heavy](/3-Mechanics/CLI/item-properties.md#Heavy), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
-- **Weight**: 6.0 lbs.
+- **Schaden**: 2d6 Hieb
+- **Eigenschaften**: [[Gegenstandseigenschaften-phb#Schwer|Schwer]], [[Gegenstandseigenschaften-phb#Zweihändig|Zweihändig]]
+- **Gewicht**: 3,0 kg
 
-Hidden in the dungeon of White Plume Mountain, Blackrazor shines like a piece of night sky filled with stars. Its black scabbard is decorated with pieces of cut obsidian.
+In einem Gewölbe im Weißfederberg versteckt, glänzt Schwarzklinge wie ein Sternen gefülltes Stück des Nachthimmels. Seine schwarze Scheide ist mit Stücken von geschliffenem Obsidian besetzt.
 
-You gain a +3 bonus to attack and damage rolls made with this magic weapon. It has the following additional properties.
+Du erhältst einen Bonus von +3 auf Angriffs- und Schadenswürfe, die mit dieser magischen Waffe- ausgeführt werden. Sie hat folgende zusätzliche Eigenschaften.
 
-## Devour Soul
+## Seele verschlingen
 
-Whenever you use it to reduce a creature to 0 hit points, the sword slays the creature and devours its soul, unless it is a construct or an undead. A creature whose soul has been devoured by Blackrazor can be restored to life only by a [wish](/3-Mechanics/CLI/spells/wish.md) spell.
+Wenn du es benutzt, um eine Kreatur auf 0 Trefferpunkte zu bringen, tötet das Schwert die Kreatur und verschlingt ihre Seele, es sei denn, es handelt sich um ein Konstrukt oder einen Untaten. Eine Kreatur, deren Seele von Schwarzklinge verschluckt wurde, kann nur durch den Zauber [[Wunsch-phb|Wunsch]] wiedererweckt werden.
 
-When it devours a soul, Blackrazor grants you temporary hit points equal to the slain creature's hit point maximum. These hit points fade after 24 hours. As long as these temporary hit points last and you keep Blackrazor in hand, you have advantage on attack rolls, saving throws, and ability checks.
+Wenn es eine Seele verschlingt, gibt *Schwarzklinge* dir temporäre Trefferpunkte in Höhe des Trefferpunktmaximums der getöteten Kreatur. Diese Trefferpunkte verschwinden nach 24 Stunden. Solange diese Trefferpunkte bestehen und du *Schwarzklinge* in deiner Hand hältst, hast du einen Vorteil auf Angriffs-, Rettungs- und Attributswürfe.
 
-If you hit an undead with this weapon, you take `1d10` necrotic damage and the target regains `1d10` hit points. If this necrotic damage reduces you to 0 hit points, Blackrazor devours your soul.
+Wenn du mit dieser Waffe einen Untaten triffst, nimmst du `1W10` nekrotischen Schaden, und das Ziel erhält `1W10` Trefferpunkte. Wenn der nekrotische Schaden dich auf 0 Trefferpunkte bringt, wird Schwarzklinge deine Seele verschlingen.
 
-## Soul Hunter
+## Seelenjäger
 
-While you hold the weapon. you are aware of the presence of Tiny or larger creatures within 60 feet of you that aren't constructs or undead. You also can't be [charmed](/3-Mechanics/CLI/conditions.md#Charmed) or [frightened](/3-Mechanics/CLI/conditions.md#Frightened).
+Während du diese Waffe trägst, bist du dir der Präsenz von kleinen und größeren Kreaturen innerhalb von 18 Meter zu dir bewusst, insofern sie nicht Konstrukte oder Untote sind. Du kannst außerdem weder [[Zustände-phb#Bezaubert|bezaubert]] noch [[Zustände-phb#Verängstigt|verängstigt]] werden.
 
-Blackrazor can cast the [haste](/3-Mechanics/CLI/spells/haste.md) spell on you once per day. It decides when to cast the spell and maintains [concentration](/3-Mechanics/CLI/conditions.md#Concentration) on it so that you don't have to.
+*Schwarzklinge* kann einmal am Tag den Zauber [[Hast-phb|Hast]] auf dich wirken. Er entscheidet, wann er den Zauber wirkt und erhält die [[Zustände-phb#Konzentration|Konzentration]] dafür aufrecht, sodass du das nicht tun musst.
 
-## Sentience
+## Intelligenz
 
-Blackrazor is a sentient chaotic neutral weapon with an Intelligence of 17, a Wisdom of 10, and a Charisma of 19. It has hearing and [darkvision](/3-Mechanics/CLI/senses.md#Darkvision) out to a range of 120 feet.
+*Schwarzklinge* ist eine intelligente, chaotisch neutrale Waffe mit einer Intelligenz von 17, einer Weisheit von 10 und einem Charisma von 19. Es hat ein Gehör und [[Sinne-phb#Dunkelsicht|Dunkelsicht]] bis zu 36 Meter.
 
-The weapon can speak, read, and understand Common, and can communicate with its wielder telepathically. Its voice is deep and echoing. While you are attuned to it, Blackrazor also understands every language you know.
+Die Waffe kann sprechen, lesen und versteht Gemeinsprache, und sie kann mit ihrem Träger telepathisch kommunizieren. Ihre Stimme ist tief und nachhallend. Während du auf es eingestimmt bist, versteht *Schwarzklinge* außerdem jede Sprache, die du beherrschst.
 
-## Personality
+## Persönlichkeit
 
-Blackrazor speaks with an imperious tone, as though accustomed to being obeyed.
+*Schwarzklinge* spricht mit einem gebietenden Ton, als wäre es daran gewöhnt, dass man ihr gehorcht.
 
-The sword's purpose is to consume souls. It doesn't care whose souls it eats, including the wielder's. The sword believes that all matter and energy sprang from a void of negative energy and will one day return to it. Blackrazor is meant to hurry that process along.
+Die Bestimmung des Schwerts ist es, Seelen zu verschlingen. Es ist ihm egal, wessen Seele es frisst, die des Trägers eingeschlossen. Das Schwert glaubt, dass alle Materie und Energie von einem großen Nichts voller negativer Energie entsprang und dorthin eines Tages zurückkehren wird. *Schwarzklinge* ist dazu bestimmt, diesen Prozess zu beschleunigen.
 
-Despite its nihilism, Blackrazor feels a strange kinship to [Wave](/3-Mechanics/CLI/items/wave.md) and [Whelm](/3-Mechanics/CLI/items/whelm.md), two other weapons locked away under White Plume Mountain. It wants the three weapons to be united again and wielded together in combat, even though it violently disagrees with [Whelm](/3-Mechanics/CLI/items/whelm.md) and finds [Wave](/3-Mechanics/CLI/items/wave.md) tedious.
+Trotz seines Nihilismus fühlt *Schwarzklinge* eine seltsame Verwandtschaft zu [[Welle-dmg|Welle]] und [[Überschutt-dmg|Überschutt]], zwei anderen Waffen, die unterm Weißfederberg weggeschlossen sind. Es möchte, dass die drei Waffen wieder vereint sind und im Kampf gemeinsam geführt werden, auch wenn es vehement [[Überschutt-dmg|Überschutts]] Ansichten ablehnt und [[Welle-dmg|Welle]] ermüdend findet.
 
-Blackrazor's hunger for souls must be regularly fed. If the sword goes three days or more without consuming a soul, a conflict between it and its wielder occurs at the next sunset.
+*Schwarzklinges* Hunger nach Seelen muss regelmäßig gesättigt werden. Wenn das Schwert drei Tage oder länger keine Seele konsumiert hat, bricht bis zur nächsten Morgendämmerung ein Konflikt zwischen ihm und seinem Träger aus.
 
-*Source: Dungeon Master's Guide p. 216*
+*Quelle: Spielleiterhandbuch, S. 216*

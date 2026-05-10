@@ -1,16 +1,16 @@
 ---
-Bezeichnung: 1,000 gp Gemstones
+Bezeichnung: 1.000 GM Edelsteine
 tags:
   - Quelle/5e/dmg
 aliases:
   - 1,000 gp Gemstones
 ---
-# 1,000 gp Gemstones
-*Source: Dungeon Master's Guide p. 134* 
+# 1.000 GM Edelsteine
+*Quelle: Spielleiterhandbuch, S. 134* 
 
-**1,000 gp Gemstones**
+**1.000 GM Edelsteine**
 
-| dice: d8 | Stone Description |
+| W12 | Steinbeschreibung |
 |----------|-------------------|
 | 1 | [Black opal](/3-Mechanics/CLI/items/black-opal-xdmg.md) (translucent dark green with black mottling and golden flecks) |
 | 2 | [Blue sapphire](/3-Mechanics/CLI/items/blue-sapphire-xdmg.md) (transparent blue-white to medium blue) |

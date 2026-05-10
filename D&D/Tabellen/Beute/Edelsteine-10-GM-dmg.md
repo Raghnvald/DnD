@@ -1,16 +1,16 @@
 ---
-Bezeichnung: 10 gp Gemstones
+Bezeichnung: 10 GM Edelsteine
 tags:
   - Quelle/5e/dmg
 aliases:
   - 10 gp Gemstones
 ---
-# 10 gp Gemstones
-*Source: Dungeon Master's Guide p. 134* 
+# 10 GM Edelsteine
+*Quelle: Spielleiterhandbuch, S. 134* 
 
-**10 gp Gemstones**
+**10 GM Edelsteine**
 
-| dice: d12 | Stone Description |
+| W12 | Steinbeschreibung |
 |-----------|-------------------|
 | 1 | [Azurite](/3-Mechanics/CLI/items/azurite-xdmg.md) (opaque mottled deep blue) |
 | 2 | [Banded agate](/3-Mechanics/CLI/items/banded-agate-xdmg.md) (translucent striped brown, blue, white, or red) |

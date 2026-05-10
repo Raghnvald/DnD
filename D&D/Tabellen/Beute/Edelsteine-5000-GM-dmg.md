@@ -1,16 +1,16 @@
 ---
-Bezeichnung: 5,000 gp Gemstones
+Bezeichnung: 5.000 GM Edelsteine
 tags:
   - Quelle/5e/dmg
 aliases:
   - 5,000 gp Gemstones
 ---
-# 5,000 gp Gemstones
-*Source: Dungeon Master's Guide p. 134* 
+# 5.000 GM Edelsteine
+*Quelle: Spielleiterhandbuch, S. 134* 
 
-**5,000 gp Gemstones**
+**5.000 GM Edelsteine**
 
-| dice: d4 | Stone Description |
+| W12 | Steinbeschreibung |
 |----------|-------------------|
 | 1 | [Black sapphire](/3-Mechanics/CLI/items/black-sapphire-xdmg.md) (translucent lustrous black with glowing highlights) |
 | 2 | [Diamond](/3-Mechanics/CLI/items/diamond-xdmg.md) (transparent blue-white, canary, pink, brown, or blue) |

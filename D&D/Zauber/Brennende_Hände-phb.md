@@ -48,6 +48,6 @@ $\quad$ Das Feuer entzündet brennbare Gegenstände in der Umgebung, die nicht g
 
 **Auf höheren Graden.** Wirkst du diesen Zauber, indem du einen Zauberplatz des 2. Grades oder höher nutzt, steigt der Schaden für jeden Grad über dem 1. um `1d6`.
 
-**Klassen**: [Barde (Magische Geheimnisse)](Listen/list-spells-classes-bard.md); [Hexenmeister (The Fiend)](Listen/list-spells-classes-the-fiend.md);  [Kämpfer (Eldritch Knight)](Listen/list-spells-classes-eldritch-knight.md); [Kleriker (Domäne Licht)](Listen/list-spells-classes-light-domain.md); [Magier](Listen/list-spells-classes-wizard.md);  [Schurke (Arkaner Betrüger)](Listen/list-spells-classes-arcane-trickster.md); [Zauberer](Listen/list-spells-classes-sorcerer.md); 
+**Klassen**: [Barde (Magische Geheimnisse)](Listen/list-spells-classes-bard.md); [Hexenmeister (The Fiend)](Listen/list-spells-classes-the-fiend.md);  [Kämpfer (Mystischer Ritter)](Listen/list-spells-classes-eldritch-knight.md); [Kleriker (Domäne Licht)](Listen/list-spells-classes-light-domain.md); [Magier](Listen/list-spells-classes-wizard.md);  [Schurke (Arkaner Betrüger)](Listen/list-spells-classes-arcane-trickster.md); [Zauberer](Listen/list-spells-classes-sorcerer.md); 
 
 *Quellen: Spielerhandbuch S. 220. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)* 

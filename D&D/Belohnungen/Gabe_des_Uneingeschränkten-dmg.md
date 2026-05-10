@@ -1,0 +1,13 @@
+---
+Bezeichnung: Gabe des Uneingeschränkten
+tags:
+  - Kompendium/Belohnung/boon
+  - Quelle/5e/dmg
+aliases:
+  - Boon of the Unfettered
+---
+# Gabe des Uneingeschränkten
+
+Du hast einen Vorteil auf Attributswürfe, um zu verhindern, [[Zustände-phb#Gepackt|gepackt]] zu werden. Außerdem kannst du dich mittels einer Aktion automatisch aus dem Zustand gepackt befreien, ebenso von Bewegungseinschränkungen jeder Art.
+
+*Quelle: Spielleiterhandbuch S. 232*

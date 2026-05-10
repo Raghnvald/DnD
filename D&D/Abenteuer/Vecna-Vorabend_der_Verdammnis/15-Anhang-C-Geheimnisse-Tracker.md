@@ -5,33 +5,33 @@ tags:
 aliases:
   - Appendix C: Secrets Tracker
 ---
-# Appendix C: Secrets Tracker
-*Source: Vecna: Eve of Ruin* 
+# Anhang C: Geheimnisse-Tracker
+*Quelle: Vecna:Vorabend der Verdammnis* 
 
-Use this chart to keep track of the secrets characters learn during this adventure. Since it contains spoilers, keep this sheet hidden from the players!
+Verwende diese Tabelle, um festzuhalten, welche Geheimnisse die Charaktere in diesem Abenteuer erfahren. Zeige sie nicht den Spielern, da sie Spoiler enthält!
 
-When the characters learn a valuable secret, check the "Secret Learned" box in the appropriate row. If the characters use the Power of Secrets rules (see the introduction) to spend a secret they've learned, or if they reveal a secret they've learned to a nonplayer character, mark a corresponding "Secret Revealed" box. The party's total "Secrets Kept"—equal to the number of Secrets Learned minus Secrets Revealed—can impact the characters' fight against Vecna in chapter 11.
+Wenn die Charaktere ein wertvolles Geheimnis erfahren, kreuze das Kästchen „Geheimnis erfahren" in der entsprechenden Reihe an. Wenn die Charaktere die Regeln unter „Die Macht der Geheimnisse" (siehe Einführung) anwenden, um ein Geheimnis zu verwenden, das sie erfahren haben, oder wenn sie ein Geheimnis einem Nichtspielercharakter gegenüber offenlegen, markiere das Kästchen „Geheimnis enthüllt". Die Gesamtzahl der „bewahrten Geheimnisse" der Abenteurergruppe - erfahrene Geheimnisse Geheimnis Geheimnis minus enthüllte Geheimnisse - kann den Kampf der Charaktere gegen Vecna in Kapitel 11 beeinflussen.
 
 > [!note]
 > [Downloadable PDF](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/pdf/VEoR/secrets-tracker.pdf)
 
-| Valuable Secret | Source |
-|-----------------|--------|
-| Indrina knows Lord Neverember's claim to the throne isn't legitimate. | Chapter 1 |
-| Sarcelle recently had a vision about a desiccated man causing something terrible to happen. | Chapter 1 |
-| Umberto is a historian of Vecna. | Chapter 1 |
-| Mordenkainen, actually Kas in disguise, is duping everyone. | Chapter 2 |
-| Gertrude and her friend Rockzanna knew about an imminent attack by Lolth's cultists, but they provided no warnings. | Chapter 2 |
-| Figaro knew about the dangers of the area where his spelljamming ship crashed but deliberately hid this information from the captain. | Chapter 3 |
-| Ikasa and his best friend were stranded after a pirate attack. He knows about an additional survivor of the attack. | Chapter 3 |
-| Mercy has never truly searched for their best friend since the two were separated after the Day of Mourning. | Chapter 4 |
-| Kalyth lost wealth that could have prevented the current financial strain she and her allies are under. | Chapter 4 |
-| Sarusanda's father, Galias, joined the evil priests of Osybus. She expected to meet and slay him in Death House. | Chapter 5 |
-| Gazaia hid while evil soldiers attacked her tree and looted the fifth piece of the [Rod of Seven Parts](/3-Mechanics/CLI/items/rod-of-seven-parts-veor.md). | Chapter 6 |
-| Valendar led an assault against his enemies without properly planning the mission or scouting the castle. | Chapter 6 |
-| Marian has held a lifelong fascination with the archlich Acererak and his evil magic, and she was once tempted to study necromancy. | Chapter 7 |
-| Rerak resents his imprisonment in the Tomb of Wayward Souls and never wanted to enact Acererak's will there. | Chapter 7 |
-| Malaina was suspicious of Mordenkainen from the moment he arrived, but she said nothing to Alustriel, Tasha, or the characters. | Chapter 9 |
-| The cloak Naxa and her sister came to retrieve isn't just a fancy magic item, but a key piece in an important ritual they're planning. | Chapter 10 |
-| Kas knows that Vecna is weaving his Ritual of Remaking deep underground in the Cave of Shattered Reflection in Pandesmos. | Chapter 10 |
+| Geheimnis<br> erfahren            | Geheimnis<br>enthüllt             | Wertvolles Geheimnis                                                                                                                                                                   | Quelle     |
+| --------------------------------- | --------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| <input type="checkbox" unchecked> | <input type="checkbox" unchecked> | Indrina weiß, dass Vogt Niegluts Anspruch auf den Thron nicht legitim ist.                                                                                                             | Kapitel 1  |
+| <input type="checkbox" unchecked> | <input type="checkbox" unchecked> | Sarcelle hatte neulich eine Vision von einem verdorrten Mann, der etwas Schreckliches auslöst.                                                                                         | Kapitel 1  |
+| <input type="checkbox" unchecked> | <input type="checkbox" unchecked> | Umberto ist ein Historiker von Vecna.                                                                                                                                                  | Kapitel 1  |
+| <input type="checkbox" unchecked> | <input type="checkbox" unchecked> | Mordenkainen, tatsächlich der getarnte Kas, legt alle herein.                                                                                                                          | Kapitel 2  |
+| <input type="checkbox" unchecked> | <input type="checkbox" unchecked> | Gertrude und ihre Freundin Mina wussten, dass ein Angriff von Lolths Kultisten bevorsteht, aber sie haben niemanden gewarnt.                                                           | Kapitel 2  |
+| <input type="checkbox" unchecked> | <input type="checkbox" unchecked> | Figaro wusste von den Gefahren der Gegend, in der das Spelljammer-Schiff havariert ist, hat dem Kapitän diese Informationen aber absichtlich vorenthalten.                             | Kapitel 3  |
+| <input type="checkbox" unchecked> | <input type="checkbox" unchecked> | Ikasa und sein bester Freund sind nach einem Piratenangriff gestrandet. Er weiß von einem weiteren überlebenden des Angriffs.                                                          | Kapitel 3  |
+| <input type="checkbox" unchecked> | <input type="checkbox" unchecked> | Barmherz hat nie ernsthaft nach Knilch gesucht, als die zwei nach dem Tag der Trauer getrennt worden waren.                                                                            | Kapitel 4  |
+| <input type="checkbox" unchecked> | <input type="checkbox" unchecked> | Kalyth hat Vermögen verloren', das die derzeitige finanzielle Notlage für sie und ihre Verbündeten hätte verhindern können.                                                            | Kapitel 4  |
+| <input type="checkbox" unchecked> | <input type="checkbox" unchecked> | Sarusandas Vater Galias ist den bösen Priestern von Osybus beigetreten. Sie wollte ihn im Todeshaus finden und töten.                                                                  | Kapitel 5  |
+| <input type="checkbox" unchecked> | <input type="checkbox" unchecked> | Gazaia hat sich versteckt, als böse Soldaten ihren Baum angegriffen und das fünfte Teil des [[Stab_der_Sieben_Teile-veor\|Stabs der Sieben Teile]] geraubt haben.                      | Kapitel 6  |
+| <input type="checkbox" unchecked> | <input type="checkbox" unchecked> | Valendar hat einen Angriff auf seine Gegner gestartet, ohne die Mission richtig geplant oder die Feste ausgespäht zu haben.                                                            | Kapitel 6  |
+| <input type="checkbox" unchecked> | <input type="checkbox" unchecked> | Marian war schon immer vom Erzlich Acererak und seiner bösen Magie fasziniert und sogar in Versuchung, Nekromantie zu studieren.                                                       | Kapitel 7  |
+| <input type="checkbox" unchecked> | <input type="checkbox" unchecked> | Rerak verabscheut es, im Grab der Verirrten Seelen gefangen zu sein. Er wollte nie Acereraks Willen wirken.                                                                            | Kapitel 7  |
+| <input type="checkbox" unchecked> | <input type="checkbox" unchecked> | Malaina hat Mordenkainen von Anfang an misstraut, aber Alustriel, Tasha oder den Charakteren nichts davon gesagt.                                                                      | Kapitel 9  |
+| <input type="checkbox" unchecked> | <input type="checkbox" unchecked> | Der Mantel, den Naxa und ihre Schwester holen wollten, ist nicht nur ein schicker magischer Gegenstand, sondern spielt eine Schlüsselrolle bei einem wichtigen Ritual, das sie planen. | Kapitel 10 |
+| <input type="checkbox" unchecked> | <input type="checkbox" unchecked> | Kas weiß, dass Vecna sein Ritual der Umformung in der Höhle des Geborstenen Spiegelbilds in den Tiefen von Pandesmos vorbereitet.                                                      | Kapitel 10 |
 ^valuable-secret-source

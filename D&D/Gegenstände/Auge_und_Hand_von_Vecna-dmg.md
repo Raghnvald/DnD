@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Eye and Hand of Vecna
+Bezeichnung: Auge und Hand von Vecna
 Kategorie: Wundersamer Gegenstand
 tags:
   - Gegenstand/Einstimmung/required
@@ -10,7 +10,7 @@ aliases:
   - Eye and Hand of Vecna
 linter-yaml-title-alias: Eye and Hand of Vecna
 ---
-# Eye and Hand of Vecna
+# Auge und Hand von Vecna
 *Wondrous item, artifact (requires attunement)*  
 ![](/3-Mechanics/CLI/items/img/eye-and-hand-of-vecna.webp#right)
 

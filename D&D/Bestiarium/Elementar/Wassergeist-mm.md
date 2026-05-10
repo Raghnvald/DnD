@@ -1,7 +1,15 @@
 ---
 statblock: inline
 statblock-link: "#^statblock"
-Bezeichnung: Water Weird
+Bezeichnung: Wassergeist
+Kategorie: Elementar
+Größe: Groß
+HG: 3
+Habitat:
+  - Stadt
+  - Unterreich
+image: Elementar/img/water-weird.webp
+status: completed
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Stadt
@@ -12,75 +20,95 @@ tags:
 aliases:
   - Water Weird
 ---
-# [Water Weird](3-Mechanics\CLI\bestiary\elemental/water-weird.md)
-*Source: Monster Manual p. 299*  
+# Wassergeist
+*Quelle: Monsterhandbuch S. 300*  
 
-A water weird is an elemental guardian bound to a specific water-filled location, such as a pool or fountain.
+Ein Wassergeist ist ein elementarer Wächter, der an einen bestimmten mit Wasser gefüllten Ort gebunden ist, wie einen Tümpel oder einen Brunnen. Er ist unsichtbar, solange er sich im Wasser befindet. Seine schlangenhafte Gestalt wird nur sichtbar, wenn er hervorkommt, um anzugreifen. Dabei verwendet er seine Windungen, um jede Kreatur zu zerquetschen, mit Ausnahme des Beschwörers und all jener, die der Beschwörer als tabu bestimmt hat. Wenn ein Wassergeist erschlagen wird, wird er zu einem leblosen Wassertümpel.
 
-Invisible while immersed in water, its serpentine shape becomes clear only when it emerges to attack, using its coils to crush any creature other than its summoner and those its summoner declares as off limits. When slain, a water weird becomes an inanimate pool of water.
+## Gute und böse Wassergeister
 
-## Good and Evil Weirds
+Wie die meisten Elementare haben Wassergeister keine Vorstellung von Gut und Böse. Allerdings beginnt ein Wassergeist, der an eine heilige oder verderbte Wasserquelle gebunden ist, das Wesen des Ortes anzunehmen und wird neutral gut oder neutral böse.
 
-Like most elementals, a water weird has no concept of good or evil. However, a water weird bound to a sacred or befouled source of water begins to take on the nature of that site, becoming neutral good or neutral evil.
+Ein neutral guter Wassergeist versucht, Eindringlinge zu verscheuchen anstatt sie zu töten, während ein neutral böser Wassergeist seine Opfer zum Vergnügen tötet und sich gegen seinen Beschwörer wenden könnte. Ein Wassergeist verliert seine böse Gesinnung, wenn sein Wasser mit dem Zauber [[Nahrung_und_Wasser_reinigen-phb|Nahrung und Wasser reinigen]] gereinigt wird
 
-A neutral good water weird tries to frighten away interlopers rather than kill them, while a neutral evil water weird kills its victims for pleasure and might turn against its summoner. A water weird loses its evil alignment if its waters are cleansed with a [purify food and drink](/3-Mechanics/CLI/spells/purify-food-and-drink.md) spell.
+## Elementare Natur
 
-## Elemental Nature
+Ein Wassergeist muss nicht atmen, essen, trinken oder schlafen.
 
-A water weird doesn't require air, food, drink, or sleep.
-
-> [!quote] A quote from X the Mystic's 2nd rule of dungeon survival  
-> 
-> Before you drink from a fountain or pool, toss a copper coin into it. It's a small price to pay for your life.
+> [!quote] Die 2. Regel des Überlebens im Gewölbe von X dem Mystiker
+> Ehe du aus einem Brunnen oder Tümpel trinkst, wirf eine Kupfermünze hinein. Dies ist ein kleiner Preis, den du für dein Überleben bezahlst. 
 
 ```statblock
-"name": "Water Weird"
-"size": "Large"
-"type": "elemental"
-"alignment": "Neutral"
-"ac": !!int "13"
-"hp": !!int "58"
-"hit_dice": "9d10 + 9"
-"modifier": !!int "3"
-"stats":
-  - !!int "17"
-  - !!int "16"
-  - !!int "13"
-  - !!int "11"
-  - !!int "10"
-  - !!int "10"
-"speed": "0 ft., swim 60 ft."
-"damage_resistances": "fire; bludgeoning, piercing, slashing from nonmagical attacks"
-"damage_immunities": "poison"
-"condition_immunities": "[exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [grappled](/3-Mechanics/CLI/conditions.md#Grappled), [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned), [restrained](/3-Mechanics/CLI/conditions.md#Restrained),\
-  \ [prone](/3-Mechanics/CLI/conditions.md#Prone), [unconscious](/3-Mechanics/CLI/conditions.md#Unconscious)"
-"senses": "[blindsight](/3-Mechanics/CLI/senses.md#Blindsight) 30 ft., passive Perception\
-  \ 10"
-"languages": "understands Aquan but doesn't speak"
-"cr": "3"
-"traits":
-  - "desc": "The water weird is [invisible](/3-Mechanics/CLI/conditions.md#Invisible)\
-      \ while fully immersed in water."
-    "name": "Invisible in Water"
-  - "desc": "The water weird dies if it leaves the water to which it is bound or if\
-      \ that water is destroyed."
-    "name": "Water Bound"
-"actions":
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 10 ft., one creature. *Hit:*\
-      \ 13 (3d6 + 3) bludgeoning damage. If the target is Medium or smaller, it is\
-      \ [grappled](/3-Mechanics/CLI/conditions.md#Grappled) (escape DC 13) and pulled\
-      \ 5 feet toward the water weird. Until this grapple ends, the target is [restrained](/3-Mechanics/CLI/conditions.md#Restrained),\
-      \ the water weird tries to drown it, and the water weird can't constrict another\
-      \ target."
-    "name": "Constrict"
-"source":
-  - "MM"
-"image": "/3-Mechanics/CLI/bestiary/elemental/token/water-weird.webp"
+name: Wassergeist
+image: Elementar/token/water-weird.webp
+source:
+  - MM
+size: Groß
+type: Elementar
+alignment: Neutral
+ac: 13
+hp: 58
+hit_dice: 9d10 + 9
+modifier: 3
+stats:
+  - 17
+  - 16
+  - 13
+  - 11
+  - 10
+  - 10
+speed: 0 m, schwimmen 18 m
+damage_resistances: Feuer; Wucht-, Stich- und Hiebschaden durch nichtmagische Angriffe 
+damage_immunities: Gift
+condition_immunities: <STATBLOCK-MARKDOWN-LINK>Zustände-phb#Bewusstlos|bewusstlos<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>/Zustände-phb#Erschöpfung|erschöpft<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>Zustände-phb#Festgesetzt|festgesetzt<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>Zustände-phb#Gelähmt|gelähmt<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>Zustände-phb#Gepackt|gepackt<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>Zustände-phb#Liegend|liegend<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>Zustände-phb#Vergiftet|vergiftet<STATBLOCK-MARKDOWN-LINK>
+senses: <STATBLOCK-MARKDOWN-LINK>Sinne-phb#Blindsicht|Blindsicht<STATBLOCK-MARKDOWN-LINK> 9 m, passive Wahrnehmung 10
+languages: Versteht Aqual, kann aber nicht sprechen
+cr: "3"
+environment: Stadt, Unterreich
+traits:
+  - name: Unsichtbar im Wasser.  
+    desc: Der Wassergeist is <STATBLOCK-MARKDOWN-LINK>Zustände-phb#Unsichtbar|Unsichtbar<STATBLOCK-MARKDOWN-LINK>, solange er voll im Wasser untergetaucht ist
+  - name: Wassergebunden
+    desc: Der Wassergeist stirbt, wenn er das Wasser verlässt, an das er gebunden ist, oder wenn dieses Wasser zerstört wird. 
+actions:
+  - name: Umschlingen
+    desc: "*Nahkampf-Waffenangriff:* +5 zum Treffen, Reichweite 3 m, eine Kreatur. *Treffer:* 13 (3d6 + 3) Wuchtschaden. Wenn das Ziel mittelgroß oder kleiner ist, wird es <STATBLOCK-MARKDOWN-LINK>Zustände-phb#gepackt|gepackt<STATBLOCK-MARKDOWN-LINK> (SG zum Entkommen 13) und 1,5 min Richtung des Wassergeists gezogen. Bis der Haltegriff endet, ist das Ziel <STATBLOCK-MARKDOWN-LINK>Zustände-phb#festgesetzt|festgesetzt<STATBLOCK-MARKDOWN-LINK>, der Wassergeist versucht es zu ertränken, und der Wassergeist kann kein anderes Ziel umschlingen."
 ```
 ^statblock
 
-## Environment
+---
 
-underdark, urban
+> [!statblock] Wassergeist
+> ![[Elementar/token/water-weird.webp|right|100]]
+> *Großer Elementar, neutral*
+> 
+> - **Rüstungsklasse** 13
+> - **Trefferpunkte** 58 (`dice: 9d10+9|render`)
+> - **Bewegungsrate** 0 m, schwimmen 18 m
+> 
+> |STR|GES|KON|INT|WEI|CHA|
+> |:---:|:---:|:---:|:---:|:---:|:---:|
+> | 17 (+3)|16 (+3)|13 (+1)|11 (+0)|10 (+0)|10 (+0)|
+> 
+> - **Übungsbonus** +2
+> - **Sinne** Blindsicht 9 m, passive Wahrnehmung 10
+> - **Schadensresistenzen** Feuer; Wucht-, Stich- und Hiebschaden durch nichtmagische Angriffe
+> - **Schadensimmunitäten** Gift
+> - **Zustandsimmunitäten** Bewusstlos, [[Zustände-phb#Erschöpfung|erschöpft]], festgesetzt, gelähmt, gepackt, liegend, vergiftet  <br> <br>
+> - **Sprachen** Versteht Aqual, kann aber nicht sprechen
+> - **Herausforderungsgrad** 3 (700 EP)
+> 
+> ## Merkmale
+> 
+> **_Unsichtbar im Wasser._** Der Wassergeist ist unsichtbar, solange er voll im Wasser untergetaucht ist.
+> 
+> 
+> **_Wassergebunden._** Der Wassergeist stirbt, wenn er das Wasser verlässt, an das er gebunden ist, oder wenn dieses Wasser zerstört wird. 
+> 
+> ## Aktionen
+> 
+> ***Umschlingen.*** *Nahkampf-Waffenangriff:* +5 zum Treffen, Reichweite 3 m, eine Kreatur. *Treffer*: 13 (`3W6 + 3`) Wuchtschaden. Wenn das Ziel mittelgroß oder kleiner ist, wird es gepackt (SG zum Entkommen 13) und 1,5 min Richtung des Wassergeists gezogen. Bis der Haltegriff endet, ist das Ziel festgesetzt, der Wassergeist versucht es zu ertränken, und der Wassergeist kann kein anderes Ziel umschlingen
+^statblock
+
+## Vorkommen
+Stadt, Unterreich

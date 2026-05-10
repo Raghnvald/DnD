@@ -1,27 +1,27 @@
 ---
-Bezeichnung: Mixing Potions
+Bezeichnung: Tränke mischen
 tags:
   - Quelle/5e/dmg
 aliases:
   - Mixing Potions
 ---
-# Mixing Potions
-*Source: Dungeon Master's Guide p. 140* 
+# Tränke mischen
+*Quelle: Spielleiterhandbuch, S. 140* 
 
-A character might drink one potion while still under the effects of another, or pour several potions into a single container. The strange ingredients used in creating potions can result in unpredictable interactions.
+Ein Charakter könnte einen Trank trinken, während er noch unter dem Einfluss eines anderen steht, oder er schüttet verschiedene Tränke in einem Behältnis zusammen. Die seltsamen Zutaten, die bei der Herstellung von Tränken verwendet werden, können in unvorhergesehene Wechselwirkungen treten.
 
-When a character mixes two potions together, you can roll on the Potion Miscibility table. If more than two are combined, roll again for each subsequent potion, combining the results. Unless the effects are immediately obvious, reveal them only when they become evident.
+Wenn ein Charakter zwei Tränke vermischt, kannst du einen Wurf auf die Trank-Mischbarkeitstabelle ablegen. Wenn mehr als zwei Tränke kombiniert werden, wirf noch einmal für jeden weiteren Trank und kombiniere die Ergebnisse. Sofern die Effekte nicht sehr offensichtlich sind, lass sie erst entdeckt werden, sobald sie zu Tage treten.
 
-**Potion Miscibility**
+**Trank-Mischbarkeit**
 
-| dice: d100 | Result |
+| W100 | Ergebnis |
 |------------|--------|
-| 01 | The mixture creates a magical explosion, dealing `6d10` force damage to the mixer and `1d10` force damage to each creature within 5 feet of the mixer. |
-| 02-08 | The mixture becomes an ingested poison of the DM's choice. |
-| 09-15 | Both potions lose their effects. |
-| 16-25 | One potion loses its effect. |
-| 26-35 | Both potions work, but with their numerical effects and durations halved. A potion has no effect if it can't be halved in this way. |
-| 36-90 | Both potions work normally. |
-| 91-99 | The numerical effects and duration of one potion are doubled. If neither potion has anything to double in this way, they work normally. |
-| 00 | Only one potion works, but its effect is permanent. Choose the simplest effect to make permanent, or the one that seems the most fun. For example, a [potion of healing](/3-Mechanics/CLI/items/potion-of-healing.md) might increase the drinker's hit point maximum by 4, or [oil of etherealness](/3-Mechanics/CLI/items/oil-of-etherealness.md) might permanently trap the user in the Ethereal Plane. At your discretion, an appropriate spell, such as [dispel magic](/3-Mechanics/CLI/spells/dispel-magic.md) or [remove curse](/3-Mechanics/CLI/spells/remove-curse.md), might end this lasting effect. |
+| 01 | Die Mixtur sorgt für eine magische Explosion, die dem Mischenden 6Wl0 und allen Kreaturen im Umkreis von 1,50 Meter zum Mischenden `1W10` Energieschaden zufügt. |
+| 02-08 | Die Mixtur wird zu einem eingenommenen Gift nach Wahl des SL. |
+| 09-15 | Beide Tränke verlieren ihren Effekt. |
+| 16-25 | Ein Trank verliert seinen Effekt. |
+| 26-35 | Beide Tränke funktionieren, aber ihre auf Zahlen basierenden Effekte und ihre Dauer sind halbiert. Wenn der Effekt eines Tranks nicht auf diese Art halbiert werden kann, hat der Trank keinen Effekt. |
+| 36-90 | Beide Tränke funktionieren normal. |
+| 91-99 | Die auf Zahlen basierenden Effekte und Dauer eines Tranks wurden verdoppelt. Wenn keiner der Tränke eine Wirkung hat, die auf diese Art verdoppelt werden könnte, funktionieren beide normal. |
+| 00 | Nur ein Trank wirkt, aber die Wirkung ist permanent. Wähle den einfachsten Effekt und fasse ihn permanent werden oder wähle den, der am meisten Spaß verspricht. Zum Beispiel könnte ein [[Heiltrank-dmg\|Heiltrank]] das Trefferpunktemaximum des Trinkers permanent um 4 erhöhen, oder das [[Öl_der_Körperlosigkeit-dmg\|Öl der Körperlosigkeit]] könnte den Nutzer permanent in der Ätherebene gefangen halten. Auf dein Ermessen hin könnten angemessene Zauber wie [[Magie_bannen-phb\|Magie bannen]] oder [[Fluch_brechen-phb\|Fluch brechen]] den permanenten Effekt entfernen. |
 ^potion-miscibility

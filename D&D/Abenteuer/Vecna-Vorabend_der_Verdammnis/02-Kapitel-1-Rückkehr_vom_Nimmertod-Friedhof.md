@@ -1,866 +1,866 @@
 ---
-Bezeichnung: "Chapter 1: Return from Neverdeath Graveyard"
+Bezeichnung: "Kapitel 1: Rückkehr vom Nimmertod-Friedhof"
 tags:
   - Quelle/5e/veor
 aliases:
   - Chapter 1: Return from Neverdeath Graveyard
 ---
-# Chapter 1: Return from Neverdeath Graveyard
-*Source: Vecna: Eve of Ruin* 
+# Kapitel 1: Rückkehr vom Nimmertod-Friedhof
+*Quelle: Vecna: Vorabend des Ruin* 
 
-![A bizarre ritual reveals t...](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/008-01-001-vecnas-ritual.webp#center "A bizarre ritual reveals the cult of Vecna's terrifying activities")
+![Ein bizarres Ritual enthüllt die grausigen Aktivitäten des Kults von Vecna](Vecna-Vorabend_der_Verdammnis/img/008-01-001-vecnas-ritual.webp#center)
 
-As the adventure begins, the characters are established heroes currently in the city of Neverwinter on the Sword Coast. Several calamities have battered Neverwinter in the recent past. The greatest was the eruption of nearby Mount Hotenow, which nearly destroyed the city forty years ago, though most of the damage has since been repaired.
+Als das Abenteuer beginnt, sind die Charaktere bereits etablierte Helden, die sich in der Stadt Niewinter an der Schwertküste aufhalten. Niewinter wurde in jüngerer Vergangenheit von mehreren Schrecknissen erschüttert. Am schlimmsten war die Eruption des nahe gelegenen Bergs Hotenow vor vierzig Jahren, durch welche die Stadt beinahe zerstört worden wäre. Die meisten Schäden wurden inzwischen allerdings behoben.
 
-Neverwinter is ruled by its Lord Protector, Dagult Neverember. Rising to power through a tenuous claim of descendance from one of Neverwinter's past heroes, Lord Neverember has nevertheless provided stable leadership.
+Niewinter wird vom Stadtvogt Dagult Nieglut regiert. Dieser ist durch die zweifelhafte Behauptung an die Macht gekommen, von einem der Helden aus der Vergangenheit Niewinters abzustammen, bietet jedoch eine stabile Führung
 
-Unknown to the authorities, a cult of Vecna operates in the catacombs beneath Neverwinter's sprawling Neverdeath Graveyard. Cult members have been kidnapping city residents who carry significant secrets, draining their knowledge and their souls in a fell ritual and passing the collected secrets to Vecna as he gathers power for his Ritual of Remaking. (See the introduction for more information about Vecna's plot.) In the process, the kidnap victims become creatures robbed of their knowledge and volition.
+In den Katakomben unter Niewinters großem Nimmertod-Friedhof operiert ein Kult von Vecna, von dem die Behörden nichts wissen. Die Kultisten entführen Bürger der Stadt, die bedeutsame Geheimnisse hüten, um ihr Wissen und ihre Seelen in einem üblen Ritual abzuzapfen und die gesammelten Geheimnisse Vecna zuzuführen, da er ihre Energie für sein Ritual der Umformung braucht. (In der Einführung findest du weitere Informationen zu Vecnas Plan.) Bei diesem Vorgang werden die Entführten ihres Wissens und ihres freien Willens beraubt.
 
-## Running This Chapter
+## Dieses Kapitel leiten
 
-In this chapter, the characters discover a cult of Vecna preparing four kidnap victims for a ritual in the catacombs beneath Hallix Mausoleum. Disrupting this ritual hurls the characters and an elf scholar named Eldon Keyward into Evernight, Neverwinter's sinister reflection in the Shadowfell. To return home, the characters must confront the lonely legacy of the Dolindar family and find a rift that leads back to Neverwinter.
+In diesem Kapitel entdecken die Charaktere einen Kult von Vecna, der in den Katakomben unter dem Hallix-Mausoleum vier Entführungsopfer auf ein Ritual vorbereitet. Als die Charaktere dieses Ritual stören, geraten sie und der Elfengelehrte Eldon Schlüsselwart nach Immernacht, Niewinters düsteres Gegenstück im Shadowfell. Um zurückzukehren, müssen die Charaktere das einsame Vermächtnis der Familie Dolindar stellen und einen Riss finden, der sie nach Niewinter zurückführt.
 
-### Character Advancement
+### Charakterentwicklung
 
-The characters should be 10th level when this chapter begins; see the "Lower-Level and Higher-Level Characters" sidebar for accommodating characters of other levels. If the characters are 10th level or below, they gain a level after returning to Neverwinter from Evernight.
+Die Charaktere sollten die 10. Stufe erreicht haben, wenn dieses Kapitel beginnt - im Abschnitt „Charaktere mit niedrigeren oder höheren Stufen" findest du Hinweise zum Anpassen des Kapitels für Charaktere auf anderen Stufen. Wenn die Charaktere sich auf der 10. oder einer niedrigeren Stufe befinden, steigen sie eine Stufe auf, wenn sie aus Immernacht nach Niewinter zurückkehren.
 
-### Power of Secrets
+### Macht der Geheimnisse  
 
-The characters can learn three secrets in this chapter applicable to the Power of Secrets rules found in this book's introduction. These secrets are tied to three NPCs whom the characters encounter in the Neverdeath Catacombs:
+Die Charaktere können in diesem Kapitel drei Geheimnisse erfahren, für die die Regeln unter „Die Macht der Geheimnisse" in der Einführung dieses Buchs gelten. Diese Geheimnisse sind mit drei NSCs verbunden, denen die Charaktere in den Nimmertod-Katakomben begegnen.
 
-- **Indrina's Secret.** A prisoner named Indrina knows that Lord Neverember doesn't have a legitimate claim to his title. The characters can learn this secret in area C20.  
-- **Sarcelle's Secret.** A prisoner named Sarcelle recently received a disturbing vision. The characters can learn about Sarcelle's recent vision in area C5.  
-- **Umberto's Secret.** The characters can learn about Umberto's secret role as a historian of Vecna in area C11.  
+- **Indrinas Geheimnis.** Eine Gefangene namens Indrina weiß, dass Vogt Nieglut keinen rechtmäßigen Anspruch auf seinen Titel hat. Dieses Geheimnis können die Charaktere in Bereich K20 erfahren.
+- **Sarcelles Geheimnis.** Eine Gefangene namens Sarcelle hatte unlängst eine verstörende Vision. In Bereich K5 können die Charaktere mehr über Sarcelles Vision erfahren.  
+- **Umbertos Geheimnis.** In Bereich K11 können die Charaktere von Umbertos geheimer Rolle als Vecnas Historiker erfahren.
 
-The first time the characters learn one of these secrets, they feel a sense that the information they've discovered is important. Describe the Power of Secrets rules to the players at this time, but don't let them spend any secrets yet. When the characters receive Vecna's Link, they can spend secrets using the Power of Secrets rules, as described in the introduction.
+Wenn die Charaktere erstmals von einem dieser Geheimnisse erfahren, spüren sie, dass diese Informationen wichtig sind. Beschreibe den Spielern jetzt die Regeln unter „Die Macht der Geheimnisse", aber lass sie noch keine Geheimnisse verwenden. Wenn die Charaktere ihre Verbindung mit Vecna erhalten, können sie Geheimnisse gemäß den Regeln unter „Die Macht der Geheimnisse" verwenden, so wie in der Einführung beschrieben.
 
-### Lower-Level and Higher-Level Characters
+### Charaktere mit niedrigeren oder höheren Stufen
 
-This chapter is a preamble to the adventure's primary plot. You can run this chapter for lower-level characters, adapting it as described below. If your characters are 7th, 8th, or 9th level, remove creatures as noted in the Creatures to Remove table.
+Dieses Kapitel ist die Einführung zur Haupthandlung des Abenteuers. Du kannst dieses Kapitel auch für Charaktere mit niedrigerer Stufe ausführen wie unten beschrieben. Wenn es sich um Charaktere der 7., 8. oder 9. Stufe handelt, entferne einige Kreaturen wie in der Tabelle „Zu entfernende Kreaturen" aufgeführt.
 
-Additionally, have the [marid](/3-Mechanics/CLI/bestiary/elemental/marid.md) in area C10 surrender if reduced to fewer than 150 hit points (rather than 100 hit points).
+Sorge außerdem dafür, dass sich der [[Marid-mm|Marid]] in Bereich K10 ergibt, wenn seine Trefferpunkte auf höchstens 150 (statt 100) verringert werden.
 
-**Creatures to Remove**
+**Zu entfernende Kreaturen**
 
-| Area | Remove |
-|------|--------|
-| C2 | Two wights |
-| C7 | Two water weirds |
-| C14 | Two cult fanatics |
-| C16 | One mage |
-| C17 | Two cult fanatics |
-| C25 | One nothic |
-| C26 | Three nothics |
-| Evernight Awakening | Three ghouls |
-| B1 | One vampire spawn |
+| Bereich                | Entfernen                                  |
+| ---------------------- | ------------------------------------------ |
+| K2                     | Zwei [[Gruftschrecken-mm\|Gruftschrecken]] |
+| K7                     | Zwei [[Wassergeist-mm\|Wassergeister]]     |
+| K14                    | Zwei [[Kultfanatiker-mm\|Kultfanatiker]]   |
+| K16                    | Ein [[Magier-mm\|Magier]]                  | 
+| K17                    | Zwei [[Kultfanatiker-mm\|Kultfanatiker]]   |
+| K25                    | Ein [[Nothic-mm\|Nothic]]                  |
+| K26                    | Drei [[Nothic-mm\|Nothics]]                |
+| Erwachen in Immernacht | Drei [[Ghul-mm\|Ghule]]                    |
+| G1                     | Eine [[Vampirbrut-mm\|Vampirbrut]]         |
 ^creatures-to-remove
 
-If the characters are 11th level at the start of this chapter, they don't gain a level for completing it.
+Wenn die Charaktere zu Beginn dieses Kapitels schon die 11. Stufe erreicht haben, steigen sie bei dessen Abschluss keine Stufe auf.
 
-## Getting Started
+## Erste Schritte
 
-This adventure begins when Lord Dagult Neverember summons the characters to his modest villa in Neverwinter. Several local guards are present, as are three priests of Oghma—a god of inspiration, invention, and knowledge—from Neverwinter's House of Knowledge.
+Das Abenteuer beginnt, als Vogt Dagult Nieglut die Charaktere in sein bescheidenes Anwesen in Niewinter zitiert. Es sind mehrere lokale Wachen sowie drei Priester von Oghma - Gott der Inspiration, der Erfindungen und des Wissens - aus dem Haus des Wissens in Niewinter zugegen.
 
-When the characters enter his audience chamber, Lord Neverember is busy discussing politics with his advisers. He breaks off the discussion, gives the characters a smile of recognition, and says the following:
+Als die Charaktere den Audienzraum betreten, ist Vogt Nieglut dabei, mit seinen Ratgebern politische Fragen zu besprechen. Er unterbricht die Diskussion, schenkt den Charakteren ein Lächeln des Wiedererkennens und sagt Folgendes:
 
 > [!readaloud] 
 > 
-> "Greetings, my heroic friends! I'm so glad you came. I daresay, terrible events are afoot. Specifically, four prominent citizens have been kidnapped in the past several days. May I count on your help in rescuing them?"
+> ,,Seid gegrüßt, meine heldenhaften Freunde! Wie froh ich bin, dass Ihr kommen konntet. Leider geschehen schreckliche Dinge. In den letzten Tagen wurden vier prominente Bürger entführt. Darf ich auf Eure Hilfe hoffen, sie zu retten?"
 ^034
 
-Lord Neverember describes the kidnap victims as follows:
+Vogt Nieglut beschreibt die Entführungsopfer wie folgt:
 
-**Eldon Keyward** is a highly knowledgeable scholar who specializes in the Outer Planes.
+**Eldon Schlüsselwart** ist ein Gelehrter von profundem Wissen, der sich auf die äußeren Ebenen spezialisiert hat.
 
-**Indrina Lamsensettle** is a human actor who moves in Neverwinter's highest social circles.
+**Indrina Lamsettel** ist eine menschliche Schauspielerin, die in den höchsten sozialen Kreisen Niewinters verkehrt.
 
-**Sarcelle Malinosh** is a human wild-magic sorcerer who plumbs the mysteries of the Outer Planes.
+**Sarcelle Malinosh** ist eine menschliche Wildmagie-Zauberin, welche die Mysterien der äußeren Ebenen untersucht
 
-**Umberto Noblin** is a gnome historian who has written books on various deities.
+**Umberto Noblin** ist ein gnomischer Historiker, der Bücher über verschiedene Gottheiten geschrieben hat.
 
-Lord Neverember confirms that each victim was kidnapped at night. The victims don't know each other, and there appears to be no connection between them.
+Vogt Nieglut berichtet, dass jeder von ihnen nachts entführt wurde. Die Opfer kennen einander nicht, und es scheint keine Verbindung zwischen ihnen zu geben.
 
-Lord Neverember funded divinations from the House of Knowledge, hoping to find the victims. The priests reported that the mystical trail of the victims ends at a specific place: Hallix Mausoleum in Neverdeath Graveyard. The priests worry that their inability to see inside this mausoleum means that an unknown opponent is blocking their divinations.
+Vogt Nieglut hat in der Hoffnung, die Opfer zu finden, eine erkenntnismagische Aufklärung durch das Haus des Wissens finanziert. Die Priester dort haben berichtet, dass die rätselhafte Spur der Opfer jeweils am gleichen Ort endet: beim Hallix-Mausoleum auf dem Nimmertod-Friedhof. Die Priester befürchten, dass sie nicht in dieses Mausoleum blicken können, weil ein unbekannter Gegner ihre Erkenntnismagie blockiert.
 
-Lord Neverember asks the characters to investigate the disappearances at Hallix Mausoleum. He promises each character a fine house in Neverwinter if they can recover the four missing townspeople and bring the kidnappers to justice.
+Vogt Nieglut bittet die Charaktere, die Entführungsfälle beim Hallix-Mausoleum zu untersuchen. Er verspricht jedem Charakter ein schönes Haus in Niewinter, wenn es ihnen gelingt, die vier entführten Bürger zu retten und die Täter ihrer Strafe zuzuführen.
 
-### Neverdeath Graveyard
+### Nimmertod-Friedhof
 
-Lord Neverember and the priests provide an overview of Neverdeath Graveyard, which contains two sprawling, connected cemeteries: the Main Graveyard and the Pauper's Graveyard. A thick stone wall separates the crypts of the wealthy from the graves of the poor.
+Vogt Nieglut und die Priester geben den Charakteren eine Übersicht über den Nimmertod-Friedhof, der eigentlich aus zwei ausgedehnten, miteinander verbundenen Friedhöfen besteht: dem Hauptfriedhof und dem Armenfriedhof. Die Grüfte der Reichen sind durch eine dicke Steinmauer von den Gräbern der Armen getrennt.
 
-The Main Graveyard holds several mausoleums, some with expansive underground chambers. The Pauper's Graveyard features numerous simple headstones, but a few civic-minded citizens funded communal catacombs when the graveyard was first built.
+Auf dem Hauptfriedhof befinden sich mehrere Mausoleen, manche davon mit weitläufigen unterirdischen Gewölben. Der Armenfriedhof weist überwiegend schlichte Grabsteine auf, doch bei seiner Gründung stifteten engagierte Bürger einige Gemeindekatakomben
 
-![The cult of Vecna has kidn...](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/009-01-002-kidnapped-nobels.webp#center "The cult of Vecna has kidnapped four nobles in Neverwinter: Eldon Keyward, Indrina Lamsensettle, Sarcelle Malinosh, and Umberto Noblin")
+![Der Kult von Vecna hat vier Adelige aus Niewinter entführt: Eldon Schlüsselwart, Indrina Lamsettel, Sarcelle Malinosch und Umberto Noblin.](Vecna-Vorabend_der_Verdammnis/img/009-01-002-kidnapped-nobels.webp#center)
 
-## In the Graveyard
+## Auf dem Friedhof
 
-The wandering zombies and skeletons of Neverdeath Graveyard don't pose a challenge to a higher-level party, so the characters can reach Hallix Mausoleum without trouble. The characters don't yet realize that the mausoleum leads to a network of catacombs that extends beneath both the Main Graveyard and the Pauper's Graveyard.
+Die Zombies und Skelette, die auf dem Nimmertod-Friedhof umherstreifen, stellen für eine Abenteurergruppe höherer Stufe keine Gefahr dar, sodass die Charaktere das Hallix-Mausoleum problemlos erreichen können. Noch wissen die Charaktere nicht, dass das Mausoleum zu einem Netzwerk von Katakomben führt, welches sich sowohl unter dem Hauptfriedhof als auch unter dem Armenfriedhof erstreckt.
 
-### General Features
+### Allgemeine Merkmale
 
-The following features are common throughout the catacombs and chambers.
+Die folgenden Merkmale gelten für alle dortigen Katakomben und Gewölbe.
 
-#### Broken Stone
+#### Beleuchtung
 
-The old stones used to build the subterranean areas don't fit together well, leaving space for mold or tangled roots. Vecna's cultists have scribbled symbols on the walls, depicting staring eyes and left hands.
+Die Bereiche K1-K12 sind dunkel. Die Charaktere benötigen Dunkelsicht oder eine Lichtquelle, um sehen zu können. Die Kultisten frequentieren die Bereiche K13-K26. Hier hängen Laternen an Wandhaken und spenden helles Licht.
 
-#### Ceilings
+#### Bruchstein
 
-Ceilings are 10 feet high in passages and 15 feet high in rooms unless otherwise noted.
+Die alten Steine, aus denen die unterirdischen Bereiche erbaut wurden, passen nicht gut ineinander. Ihre Lücken bieten Platz für Schimmel und Wurzelwerk. Vecnas Kultisten haben die Wände mit Symbolen beschmiert, die starrende Augen und linke Hände darstellen.
 
-#### Doors
+#### Decken
 
-Doors throughout the area are made of heavy stone with metal hinges. The cult keeps the doors well-oiled, so they don't make noise when opened. All doors are unlocked unless otherwise noted.
+Die Decken sind in den Passagen drei Meter und in den Räumen 4,5 Meter hoch, sofern nicht anders vermerkt.
 
-#### Lighting
+#### Türen
 
-Areas C1–C12 are dark, and characters must have darkvision or a light source to see. Cult members frequent areas C13–C26, so lanterns hung on wall hooks create bright light there.
+Die Türen im gesamten Bereich bestehen aus schweren Steinplatten und werden von Scharnieren aus Metall gehalten. Der Kult hält die Türen gut geölt, sodass sie keine Geräusche machen, wenn sie bewegt werden. Alle Türen sind unverschlossen, sofern nicht anders vermerkt.
 
-#### Vestiges of the Waterclock Guild
+#### Überreste der Wasseruhr-Gilde 
 
-Part of the catacombs once belonged to an occult organization called the Waterclock Guild. The guild members are gone, though their bound elementals and clockwork mechanisms remain. A network of pipes runs through areas C7–C12 and C14–C15, indicated on map 1.1 by solid lines. The sound of dripping water echoes throughout these areas.
+Ein Teil der Katakomben gehörte einst einer okkulten Organisation: der Wasseruhr-Gilde. Die Gildenmitglieder sind fort, doch ihre gebundenen Elementare und Uhrwerkmechanismen sind noch da. Die Bereiche K7-K12 und K14-K15 sind von einem Leitungsnetzwerk durchzogen, welches auf Karte 1.1 mit durchgezogenen Linien dargestellt ist. In diesen Bereichen ist überall tropfendes Wasser zu hören.
 
-### Neverdeath Catacomb Locations
+### Orte in den Nimmertod-Katakomben 
 
-The following locations are keyed to map 1.1.
+Die folgenden Orte sind auf Karte 1.1 dargestellt.
 
 > [!gallery]
-> ![Map 1.1: Neverdeath Catacombs](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/010-1-01-neverdeath.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/011-1-01-neverdeath-player.webp#gallery)
+> ![Map 1.1: Neverdeath Catacombs](Vecna-Vorabend_der_Verdammnis/img/011-1-01-neverdeath.png#gallery)
+> ![Player Version](Vecna-Vorabend_der_Verdammnis/img/011-1-01-neverdeath-player.png#gallery)
 
-#### C1: Hallix Mausoleum
+#### K1: Hallix Mausoleum
 
 > [!readaloud] 
 > 
-> The towering stone mausoleums in Neverdeath Graveyard cluster near the wall separating the Main Graveyard from the Pauper's Graveyard to the west. Hallix Mausoleum is a squat, unassuming granite block in the shadow of larger monuments to the west and south. Its metal double door bears a rusty broken chain and a padlock that hangs off the door.
+> Die hohen Steinmausoleen auf dem Nimmertod-Friedhof befinden sich alle bei der Mauer zwischen dem Hauptfriedhof und dem westlich davon gelegenen Armenfriedhof. Beim Hallix-Mausoleum handelt es sich um einen gedrungenen, unscheinbaren Granitblock im Schatten der höheren Bauwerke westlich und südlich davon. Von der metallenen Doppeltür hängt eine zerbrochene rostige Kette mit einem Vorhängeschloss.
 ^03f
 
-The well-oiled door opens noiselessly. The crypt interior is dusty, with numerous tracks leading to a descending staircase at the rear of the room.
+Die gut geölte Tür lässt sich geräuschlos öffnen. Das Innere der Gruft ist staubig. Zahlreiche Fußspuren führen im hinteren Teil des Raums zu einer Treppe nach unten.
 
-Against the walls rest six stone coffins, three on each side. A stone slab engraved with a name, birth year, and death year covers each coffin. These members of the Hallix family died forty years ago, after Mount Hotenow erupted. The coffins are empty except for scraps of cloth and bits of bone; the cult's ghouls ate the former occupants.
+An den Wänden stehen sechs steinerne Särge, je drei auf einer Seite. Alle Särge sind mit Steinplatten bedeckt, in welche Namen, Geburts- und Todesdaten eingehauen wurden. Diese Mitglieder der Hallix-Familie sind vor vierzig Jahren bei der Eruption des Hotenow gestorben. In den Särgen befinden sich nur noch Stofffetzen und Knochensplitter, da die Ghule des Kults den Inhalt gefressen haben.
 
-##### Noisy Investigations
+##### Geräuschvolle Ermittlungen
 
-If the characters make a lot of noise here, the [wights](/3-Mechanics/CLI/bestiary/undead/wight.md) in area C2 investigate.
+Wenn die Charaktere hier zu viel Krach machen, kommen die [[Gruftschrecken-xmm|Gruftschrecken]] aus Bereich K2, um nachzusehen, was los ist.
 
-#### C2: Lower Mausoleum
+#### K2: Unteres Mausoleum
 
-If the wights described below moved to investigate area C1, omit the last sentence when reading aloud:
+Wenn die unten beschriebenen [[Gruftschrecken-xmm|Gruftschrecken]] sich aufgemacht haben, um den Bereich K1 zu untersuchen, lass den letzten Satz weg, wenn du Folgendes vorliest:
 
 > [!readaloud] 
 > 
-> Stone stairs descend from Hallix Mausoleum to a large subterranean chamber with stone coffins sitting on sturdy shelves. Part of the west wall has collapsed, creating an opening into another chamber. Marching around the chamber are five pale, desiccated warriors wearing wicked-looking armor.
+> Vom Hallix-Mausoleum führt eine Steintreppe in eine große unterirdische Kammer hinab. Dort stehen steinerne Särge in wuchtigen Regalen. Ein Teil der Westwand ist eingestürzt, sodass eine Öffnung zu einer weiteren Kammer entstanden ist. Fünf bleiche, vertrocknete Krieger in finster aussehenden Rüstungen marschieren durch die Kammer.
 ^042
 
-The cult pressed five [wights](/3-Mechanics/CLI/bestiary/undead/wight.md) into service as guards. The wights know the cultists by appearance and don't attack them, but they attack anyone else.
+Der Kult hat fünf [[Gruftschrecken-xmm|Gruftschrecken]] als Wachen in seine Dienste gezwungen. Die [[Gruftschrecken-xmm|Gruftschrecken]] kennen die Kultisten vom Sehen und greifen sie nicht an, sonst allerdings jeden.
 
-The older Hallix corpses once buried here were fed to the cult's ghouls.
+Die älteren Leichname der Hallix-Familie, die hier einst bestattet lagen, wurden an die Ghule des Kults verfüttert.
 
-##### Secret Door
+##### Geheimtür
 
-One of the empty coffins contains no evidence of a former occupant. The back of this coffin hides a panel with a latch that causes the wall behind it to swing aside. A character who searches the coffin or wall and succeeds on a DC 18 Intelligence (Investigation) or Wisdom (Perception) check finds this secret door. Neither the cultists nor the wights are aware of it. The passageway beyond ends at another secret door that is easily spotted and opened from inside the tunnel. It leads to area C9.
+Einer der leeren Särge enthält keine Hinweise auf eine ehemalige Nutzung. An der Rückseite dieses Sargs ist eine Blende mit einem Riegel verborgen, der bewirkt, dass die Wand dahinter zur Seite schwingt. Ein Charakter, der den Sarg oder die Wand untersucht und einen `SG-18-Intelligenz` ([[Fertigkeiten-phb#Nachforschungen|Nachforschungen]]) oder -`Weisheitswurf` ([[Fertigkeiten-phb#Wahrnehmung|Wahrnehmung]]) besteht, findet diese Geheimtür. Weder die Kultisten noch die Gruftschrecken wissen von ihr. Der Durchgang dahinter endet bei einer weiteren Geheimtür, die sich vom Tunnel aus leicht erkennen und öffnen lässt. Sie führt in Bereich K9.
 
-##### Treasure
+##### Schätze
 
-One open coffin contains four wool cloaks worth 10 gp each and two wide hats worth 5 gp each, which the cultists use to travel inconspicuously aboveground. There is also a Potion of Invisibility the cultists were saving for an emergency.
+Ein offener Sarg enthält vier Wollmäntel im Wert von jeweils 10 GM und zwei breite Hüte im Wert von jeweils 5 GM. Die Kultisten benutzen diese Dinge, um sich oberirdisch zu bewegen, ohne Verdacht zu erregen. Außerdem enthält der Sarg einen [[Trank_der_Unsichtbarkeit-dmg|Trank der Unsichtbarkeit]], den die Kultisten für den Notfall aufgespart haben.
 
-#### C3: Uneven Chamber
+#### K3: Unebene Kammer
 
 > [!readaloud] 
 > 
-> Roots protrude through cracks in the ceiling here. A stone stairway in the southeast corner has collapsed, and the nearby walls have crumbled. Three doors in the north wall are shut, and the middle door bears a new padlock. To the west, stairs lead to a small balcony that overlooks the room from five feet above, with just enough room for a door painted with an eye.
+> Hier ragen Wurzeln durch Risse in der Decke. In der Südostecke ist eine Steintreppe samt angrenzender Wände eingestürzt. In der Nordwand befinden sich drei geschlossene Türen. An der mittleren hängt ein neues Vorhängeschloss. Im Westen führt ein Treppe zu einem kleinen Balkon hinauf, der 1,5 Meter über dem Raum liegt. Er bietet gerade genügend Raum für eine Tür, auf die ein Auge gemalt wurde.
 ^046
 
-This room is inaccessible from the surface since the stairway leading upward has collapsed. See area C5 for more about the padlocked door.
+Dieser Raum ist von der Oberfläche aus nicht zugänglich, da die Treppe nach oben eingestürzt ist. Weitere Informationen zur Tür mit dem Vorhängeschloss findest du bei der Beschreibung von Bereich K5.
 
-#### C4: Trapped Grate
+#### K4: Gitter mit Falle
 
 > [!readaloud] 
 > 
-> A metal grate in the floor of this ten-foot-square room blocks access to a shallow stone pit holding a small gold harp, a handful of loose papers, and a piece of bloody cloth.
+> Dieser Raum hat drei Meter lange Wände. Ein Metallgitter im Boden versperrt eine flache Steingrube, in der sich eine kleine goldene Harfe, einige lose Papiere und ein blutiges Stoffstück befinden.
 ^048
 
-The iron grate covers a pit that's 5 feet square and 3 feet deep. The openings in the iron grate are 5 inches square. A character who can reach the harp can carefully tilt it and slide it through the grate with a successful DC 18 Dexterity (Sleight of Hand) check. If this check fails by 5 or more, the harp falls back into the pit.
+Das Eisengitter bedeckt eine Grube von 1,5 Metern Kantenlänge und 90 Zentimetern Tiefe. Die Gitteröffnungen haben eine Kantenlänge von 12,5 Zentimetern. Ein Charakter, der die Harfe erreicht, kann sie mit einem erfolgreichen `SG-18-Geschicklichkeitswurf` ([[Fertigkeiten-phb#Fingerfertigkeit|Fingerfertigkeit]]) vorsichtig kippen und durch das Gitter ziehen. Scheitert der Wurf um mindestens 5, so fällt die Harfe in die Grube zurück.
 
-A cultist of Vecna tried to lever the harp from the pit but fell victim to the trap on the grate. The trap tore away half of the cultist's jacket—the bloody cloth now at the pit's bottom—and papers tumbled from the cultist's pocket and through the grate. After that mishap, the cultists decided not to press their luck and left the treasure alone.
+Ein Kultist von Vecna hat versucht, die Harfe aus der Grube zu holen, ist dabei jedoch Opfer der Falle geworden, mit der das Gitter versehen ist. Die Falle hat ihm die Kleidung zerrissen, von der nun ein blutiger Fetzen in der Grube liegt, und ihm sind einige Schriftstücke aus der Tasche gefallen, die ebenfalls in der Grube gelandet sind. Nach diesem Missgeschick haben die Kultisten beschlossen, ihr Glück nicht weiter auf die Probe zu stellen, und das Gitter in Ruhe gelassen.
 
-##### Grate Trap
+##### Gitterfalle
 
-A character can detect the grate's trap by examining the grate and succeeding on a DC 14 Intelligence (Investigation) check. The trap activates when more than 10 pounds of pressure is placed on the grate. Poisoned blades extend from grooves in the grate, dealing `dice:4d6|noform|noparens|avg|text(14)` (`4d6`) slashing damage to whatever triggered the trap, and if the target of the trap is a creature, it must succeed on a DC 14 Constitution saving throw or take `dice:4d6|noform|noparens|avg|text(14)` (`4d6`) poison damage. The trap resets after 1 minute.
+Ein Charakter, der das Gitter untersucht und einen SG-14-Intelligenzwurf (Nachforschungen) besteht, erkennt, dass das Gitter mit einer Falle versehen ist. Die Falle wird ausgelöst, wenn Druck von mehr als fünf Kilogramm auf das Gitter ausgeübt wird. Dann schnellen aus Nuten im Gitter vergiftete Klingen hervor und fügen dem Auslöser `dice:4d6|noform|noparens|avg|text(14)` (`4d6`) Hiebschaden zu. Wenn das Ziel der Falle eine Kreatur ist, muss sie einen SG-14-Konstitutionsrettungswurf bestehen, oder sie erleidet außerdem `dice:4d6|noform|noparens|avg|text(14)` (`4d6`) Giftschaden. Die Falle ist eine Minute nach dem Auslösen wieder scharf.
 
-##### Notes
+##### Notizen
 
-The papers detail plans to kidnap a Neverwinter aristocrat named Indrina Lamsensettle. The notes include a map of her estate, schedules of her movements, and suggestions that she knows an important secret about Lord Neverember. A scrawl in the margin of a note claims that "her secrets will make a worthy sacrifice." (The characters can learn more by examining Jerot's papers in area C25.)
+Die Papiere enthalten Planungen zur Entführung der Adeligen Indrina Lamsettel aus Niewinter. Auch ein Grundriss ihres Anwesens ist dabei, ferner Übersichten über ihre Bewegungen sowie Mutmaßungen, dass sie ein wichtiges Geheimnis über Vogt Nieglut kennt. Auf dem Rand eines der Zettel steht „Ihre Geheimnisse werden ein würdiges Opfer sein." (Die Charaktere können mehr erfahren, wenn sieJerots Papiere in Bereich K25 untersuchen.)
 
-##### Treasure
+##### Schätze
 
-The harp is worth 2,500 gp.
+Die Harfe ist 2.500 GM wert.
 
-#### C5: Sarcelle's Cell
+#### K5: Sarcelles Zelle
 
-This room's only door is padlocked from the outside. As an action, a character with thieves' tools can use them to try to open the lock, doing so with a successful DC 18 Dexterity (Sleight of Hand) check. The cult's four mages (in areas C14, C16, and C26) each carry a key to the lock. Because the stone is unevenly set around this door, a character could use an action to try to pull the door aside, doing so with a successful DC 17 Strength (Athletics) check.
+Die einzige Tür zu diesem Raum ist von außen mit einem Vorhängeschloss verschlossen. Ein Charakter mit Diebeswerkzeug kann als Aktion versuchen, das Schloss damit und mit einem erfolgreichen `SG-18- Geschicklichkeitswurf` ([[Fertigkeiten-phb#Fingerfertigkeit|Fingerfertigkeit]]) zu knacken. Die vier Magier des Kults (in den Bereichen K14, K16 und K26) tragen jeweils einen Schlüssel zum Schloss bei sich. Da die Steine um diese Tür ungleichmäßig gesetzt wurden, kann ein Charakter eine Aktion verwenden, um zu versuchen, die Tür zur Seite zu ziehen. Dies gelingt ihm mit einem erfolgreichen `SG-17-Stärkewurf` ([[Fertigkeiten-phb#Athletik|Athletik]]).
 
 > [!readaloud] 
 > 
-> This old crypt holds a single open coffin containing a few tattered blankets. A pouf of wild black hair sprouts from the end of one of the blankets.
+> Diese alte Gruft enthält einen einzelnen offenen Sarg mit einigen verschlissenen Decken darin. Aus diesen Decken ragt an einem Ende ein wilder schwarzer Haarschopf.
 ^04d
 
-![Sarcelle Malinosh](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/012-01-003-sarcelle-malinosh.webp#center)
+![Sarcelle Malinosh](Vecna-Vorabend_der_Verdammnis/img/012-01-003-sarcelle-malinosh.webp#center)
 
-The cultists repurposed this crypt into a cell for one of their intended ritual victims, Sarcelle Malinosh. Sarcelle is dozing inside the coffin, wrapped in the blankets so only her hair is visible.
+Die Kultisten haben diese Gruft zweckentfremdet und zur Zelle für Sarcelle Malinosch gemacht, die sie als Ritual-Opfer vorgesehen haben. Sarcelle döst in die Decken gewickelt im Sarg, sodass nur ihr Haar sichtbar ist.
 
-Sarcelle is a human wild-magic sorcerer whose spellcasting power was stripped during a recent excursion to a distant plane. Until her magic naturally returns, Sarcelle has the game statistics of a neutral [mage](/3-Mechanics/CLI/bestiary/humanoid/mage.md) without Spellcasting. She responds to some questions with cryptic-sounding predictions, but she tries to keep this irritating habit in check.
+Sarcelle ist eine menschliche Wildmagie-Zauberin, deren Zauberkräfte bei der letzten Exkursion auf eine ferne Ebene verloren gegangen sind. Bis sie auf natürliche Weise zurückkehren, hat Sarcelle die Spielwerte einer neutralen [[Magier-xmm|Magierin]] ohne Zauberwirken. Auf Fragen reagiert sie manchmal mit rätselhaften Vorhersagen, sie versucht jedoch, diese irritierende Gewohnheit abzulegen.
 
-Sarcelle wants help freeing herself; she explains that without her magic, she feels uneasy and would appreciate being escorted from Neverdeath Graveyard. She can make her way home from there.
+Sarcelle möchte, dass ihr jemand hilft, sich zu befreien. Sie erklärt, dass sie sich ohne ihre Magie unwohl fühlt und sich eine Eskorte vom Nimmertod-Friedhofwünscht. Den Rest des Heimwegs würde sie alleine schaffen.
 
-##### Sarcelle's Secret
+##### Sarcelles Geheimnis
 
-Sarcelle's psychic explorations showed her a glimpse of a dreadful future. She saw the desiccated figure of a man levitating off the ground, gathering evil energy around himself in glowing wisps. The desiccated man then screamed and the energy exploded, causing something terrible to happen. This vision terrified Sarcelle. A character who interacts with Sarcelle and succeeds on a DC 14 Wisdom (Insight) check realizes that something is bothering the sorcerer. If asked about what's upsetting her, Sarcelle shares her vision.
+Sarcelles psychische Erkundungen haben ihr einen Blick auf eine unheilvolle Zukunft gewährt: Sie sah einen ausgemergelten Mann über dem Boden schweben, der böse Energie in leuchtenden Streifen um sich sammelte. Dann schrie er, die Energie explodierte, und etwas Schreckliches geschah. Diese Vision hat Sarcelle in Angst und Schrecken versetzt. Ein Charakter, der mit Sarcelle interagiert und einen `SG-14-Weisheitswurf` ([[Fertigkeiten-phb#Motiv erkennen|Motiv erkennen]]) besteht, erkennt, dass die Zauberin sich Sorgen macht. Wenn sie gefragt wird, was sie bedrückt, erzählt sie von der Vision.
 
-Learning of Sarcelle's vision counts as a secret for the purposes of the Power of Secrets rules found in this book's introduction.
+Sarcelles Vision zählt im Sinne der Regeln unter „Die Macht der Geheimnisse" in der Einführung dieses Buchs als Geheimnis.
 
-#### C6: Supply Room
+#### K6: Lagerraum
 
 > [!readaloud] 
 > 
-> Stone shelves in this room contain boxes and bags. A few crates are stacked against the wall.
+> Dieser Raum enthält Stein regale mit Säcken und Kisten. Einige Kisten sind auch an der Wand aufgestapelt.
 ^050
 
-The cultists emptied this servants' crypt to store supplies such as lantern oil, chains, and manacles.
+Die Kultisten haben diese Dienerkrypta geleert, um hier Vorräte wie Lampenöl, Ketten und Handschellen zu lagern.
 
-##### Treasure
+##### Schätze
 
-Among the supplies are two Potions of Poison labeled "Healing Use Only."
+Unter den Vorräten sind zwei [[Trank_des_Gifts-dmg|Tränke des Gifts]] mit der Aufschrift „Nur zu Heilungszwecken".
 
-#### C7: Fountain Room
+#### K7: Zisternenraum
 
-If the characters minimized the water pressure in area C8, omit the first sentence when reading aloud:
+Wenn die Charaktere in Bereich K8 den Wasserdruck verringert haben, lass den ersten Satz weg, wenn du Folgendes vorliest:
 
 > [!readaloud] 
 > 
-> Rusted pipes run along the walls and ceiling, and water flows from nozzles in the ceiling pipes. In the center of the room is a deep stone basin that's set into the floor and filled to the brim. The surface ripples, revealing several watery creatures inside. To the south, a closed door is padlocked.
+> Rostige Rohre verlaufen an den Wänden und der Decke. Aus einigen Öffnungen an den Deckenleitungen fließt Wasser. In der Mitte des Raums befindet sich eine tiefe steinerne Zisterne, die in den Boden eingelassen wurde und randvoll mit Wasser steht. Die gekräuselte Oberfläche zeigt, dass einige Wasserkreaturen darin leben. Im Süden seht ihr eine Tür mit einem Vorhängeschloss.
 ^053
 
-See area C11 for more information about the padlocked door.
+Weitere Informationen zur Tür mit dem Vorhängeschloss findest du im Text zu Bereich K11.
 
-A [water elemental](/3-Mechanics/CLI/bestiary/elemental/water-elemental.md) and two [water weirds](/3-Mechanics/CLI/bestiary/elemental/water-weird.md) live in the 25-foot-deep fountain. These creatures are indifferent toward intruders and attack only in self-defense. Once bound to serve the Waterclock Guild, they're now free but enjoy the perpetual "rain" here. The cult bullies these Elementals, so they remain sulking under the water's surface. Determined not to stand for further intrusion, the Elementals rise to attack anyone other than cultists. The water weirds consider the water elemental their leader. If reduced to fewer than 50 hit points, the water elemental retreats to the basin's bottom with any surviving water weirds.
+Die Zisterne ist 7,5 Meter tief. Ein [[Wasserelementar-mm|Wasserelementar]] und zwei [[Wassergeist-mm|Wassergeister]] leben darin. Einst waren sie Diener der Wasseruhr-Gilde. Heute sind sie frei, genießen jedoch den „ewigen Regen" hier. Der Kult schikaniert diese Elementare, weswegen sie es vorziehen, sich unter der Wasseroberfläche aufzuhalten. Sie wollen sich allerdings kein weiteres Eindringen mehr gefallen lassen und greifen jeden an, der kein Kultist ist. Die [[Wassergeist-mm|Wassergeister]] betrachten den [[Wasserelementar-mm|Wasserelementar]] als Anführer. Werden die Trefferpunkte von diesem auf höchstens 50 verringert, so zieht er sich mit allen überlebenden Wassergeistern auf den Grund der Zisterne zurück.
 
-The water elemental enjoys conversation but speaks Aquan only. Characters who are able to communicate with the water elemental can learn the following from it:
+Der [[Wasserelementar-mm|Wasserelementar]] unterhält sich gerne, spricht jedoch nur Aqual. Charaktere, die mit ihm kommunizieren können, können Folgendes erfahren:
 
-- **Cult Activity.** Cultists who worship a god whose symbol is a hand and an eye recently moved into nearby rooms.  
-- **Neighbor.** A fish-headed creature named Shanzezim lives in area C10.  
-- **Prisoner.** The cultists locked a small creature in an adjacent room (area C11).  
+- **Gefangener**: Die Kultisten haben eine kleine Kreatur in einem der angrenzenden Räume (Bereich K11) eingesperrt. 
+- **Kult-Aktivitäten**: In die angrenzenden Räume sind Kultisten eingezogen, die einen Gott mit dem Symbol einer Hand und eines Auges verehren. 
+- **Nachbar**: In Bereich K10 lebt eine fischköpfige Kreatur namens Shanzezi.
 
-##### Treasure
+##### Schätze
 
-A silver bracelet set with seven small diamonds fell to the bottom of the basin. It's worth 150 gp.
+Ein Silberarmband mit sieben kleinen Diamanten ist in die Zisterne gefallen und auf den Grund gesunken. Es ist 150 GM wert.
 
-#### C8: East Pressure Room
+#### K8: Östlicher Druckraum
 
 > [!readaloud] 
 > 
-> Pipes along the south wall of this room disappear into the walls near the ceiling. A complicated series of cogs and four hand-turned wheels connect to the pipes.
+> An der Südwand dieses Raums verlaufen Rohrleitungen, die unter der Decke durch die Wand verschwinden. Eine unübersichtliche Mischung aus Zahnrädern und vier Handrädern ist mit ihnen verbunden.
 ^056
 
-![Many of Vecna's cultists i...](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/013-01-004-vecna-cult-symbol.webp#center "Many of Vecna's cultists in Neverdeath Graveyard bear tattoos of the lich-god's unholy symbol")
+![Viele von Vecnas Kultisten auf dem Nimmertod-Friedhof tragen das unheilige Symbol des Lich-Gottes als Tätowierung](Vecna-Vorabend_der_Verdammnis/img/013-01-004-vecna-cult-symbol.webp#center)
 
-The wheels control the water pressure through the pipes, but they lack gauges to show how turning the wheels affects the pressure. A character can determine that the water flows west, as well as how to maximize or minimize the water pressure, with an hour of trial and error. A character who succeeds on a DC 16 Intelligence (Investigation) check discovers this information in only 10 minutes. Alternatively, the [marid](/3-Mechanics/CLI/bestiary/elemental/marid.md) Shanzezim in area C10 can describe how to work the wheels.
+Die Räder dienen der Steuerung des Wasserdrucks in den Leitungen. Es gibt jedoch keinerlei Druckmesser, aus denen ersichtlich würde, wie die Räder den Druck genau beeinflussen. Ein Charakter kann binnen einer Stunde durch Ausprobieren erkennen, dass das Wasser nach Westen fließt und wie der Wasserdruck sich erhöhen oder verringern lässt. Ein Charakter, der einen SG-16- Intelligenzwurf ([[01-Spielleiter/Fertigkeiten-phb#Nachforschungen|Nachforschungen]]) besteht, entdeckt diese Informationen in nur zehn Minuten. Alternativ kann auch der [[Marid-mm|Marid]] Shanzezim in Bereich K10 beschreiben, wie die Räder funktionieren.
 
-##### Minimum Pressure
+##### Erhöhter Druck
 
-If the characters minimize the water pressure, the nozzles in area C7 stop flowing.
+Wenn die Charaktere sowohl hier als auch in Bereich K12 den Wasserdruck erhöhen, fließen die Becken in den Bereichen K14 und K15 über. Nach zehn Minuten sind diese Bereiche aufgrund der Überflutung zu schwierigem Gelände geworden. Fünf Minuten danach kommen die Bewohner von Bereich K14 in die Bereiche K8 und K12, sehen nach, was los ist, und bringen die beiden [[Ghul-mm|Ghule]] aus Bereich K17 mit. Die Kultisten brüllen beim Eintreffen etwas von einer „Lektion, die man diesen nervtötenden Elementaren erteilen muss", wodurch die Charaktere Zeit haben, einen Hinterhalt zu legen oder einen anderen Plan umzusetzen.
 
-##### Maximum Pressure
+##### Verringerter Druck
 
-If the characters maximize the water pressure here and in area C12, the basins in areas C14 and C15 start to overflow. After 10 minutes, those areas become "difficult terrain" due to flooding. Five minutes after that, the denizens of area C14 come to investigate areas C8 and C12, bringing along both ghouls from area C17. The cultists shout about "teaching those meddling elementals a lesson" as they arrive, allowing the characters time to set up an ambush or another ploy.
+Wenn die Charaktere den Wasserdruck verringern, fließt aus den Öffnungen in Bereich K7 kein Wasser mehr.
 
-#### C9: Clockwork Alcove
+#### K9: Uhrwerk-Alkoven
 
 > [!readaloud] 
 > 
-> Rusty standpipes and interlocking cogs cover the walls of this small alcove.
+> Die Wände dieses kleinen Alkovens sind mit rostigen Steigrohren und diversen Zahnrädern bedeckt.
 ^05a
 
-The cogs here are jammed together and don't move. Whatever mechanism they connect to is inoperable.
+Die Zahnräder hier sind verkantet und rühren sich nicht. Der Mechanismus, an den sie angeschlossen sind, ist nicht funktionsfähig.
 
-##### Secret Door
+##### Geheimtür
 
-One cog on the north wall doesn't connect to anything else on the wall around it. A creature must succeed on a DC 14 Intelligence (Investigation) check to find this loose cog. When turned, the cog causes part of the wall to slide away as a secret door. The cultists aren't aware of this door. The small passageway beyond ends at another secret door that is easily spotted and opened from inside the tunnel. It leads to area C2.
+Ein Zahnrad an der Nordwand hat keinerlei Kontakt zu anderen Elementen an der Wand. Eine Kreatur muss einen SG-14-Intelligenzwurf ([[01-Spielleiter/Fertigkeiten-phb#Nachforschungen|Nachforschungen]]) bestehen, um dieses vereinzelte Zahnrad zu entdecken. Wenn es gedreht wird, lässt es einen Teil der Wand als Geheimtür zur Seite gleiten. Die Kultisten wissen nichts von dieser Tür. Der kleine Durchgang dahinter endet bei einer weiteren Geheimtür, die sich vom Tunnel aus leicht erkennen und öffnen lässt. Sie führt in Bereich K2.
 
-#### C10: Improvised Workshop
+#### K10: Improvisierte Werkstatt
 
-![The marid Shanzezim is bou...](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/014-01-005-marid-shanzezim.webp#center "The marid Shanzezim is bound to the crypts and spends time tinkering with clocks in an improvised workshop")
+![Der Marid Shanzezim ist an die Gruft gebunden und verbringt seine Zeit damit, in einer improvisierten WErkstatt an Uhrwerken herumzubasteln.](Vecna-Vorabend_der_Verdammnis/img/014-01-005-marid-shanzezim.webp#center)
 
 > [!readaloud] 
 > 
-> Rubble chokes the southeast corner of the room, leaving only a small gap near the uneven ceiling. Some of the rubble has been reassembled into a low table, which bears small clockwork components. A hulking, fish-headed creature wearing exquisite silk finery carefully examines the tiny parts.
+> Schutt verstopft die Südostecke des Raums und lässt nur kurz unter der unebenen Decke eine kleine Lücke. Ein Teil des Gerölls wurde zu einem niedrigen Tisch zusammengefügt, auf dem sich kleinere Uhrwerk-Komponenten befinden. Eine wuchtige Kreatur mit Fischkopf, die in exquisite Seidengewänder gekleidet ist, untersucht sorgfältig die winzigen Teile.
 ^05d
 
-The creature is a [marid](/3-Mechanics/CLI/bestiary/elemental/marid.md) named Shanzezim. The marid was bound by the Waterclock Guild and can't leave the crypts belonging to that organization, even though Shanzezim believes the Waterclock Guild has been defunct for years. Not quite ready to test the binding to make an escape, the marid spends time here trying to reassemble one of the Waterclock Guild's most intricate clocks.
+Die Kreatur ist ein [[Marid-mm|Marid]] namens Shanzezim. Er war Diener der Wasseruhr-Gilde und kann die Grüfte dieser Organisation nicht verlassen, obwohl er argwöhnt, das die Gilde seit Jahren nicht mehr aktiv ist. Noch ist Shanzezim nicht bereit, die Bindung auszutesten und eine Flucht zu versuchen. Er verbringt seine Zeit hier und versucht, eins der kompliziertesten Uhrwerke der Wasseruhr-Gilde wieder zusammenzufügen.
 
-If the [water elemental](/3-Mechanics/CLI/bestiary/elemental/water-elemental.md) in area C7 fled here, it informed Shanzezim about intruders in the area, so the marid attacks right away to drive off the characters. Otherwise, the marid asks the characters what they want. If a fight breaks out, the marid surrenders if reduced to fewer than 100 hit points or if the characters insist that they aren't with the cult.
+Wenn der [[Wasserelementar-mm|Wasserelementar]] aus Bereich K7 hierher geflohen ist, hat er Shanzezim über Eindringlinge im Bereich informiert. In diesem Fall greift der [[Marid-mm|Marid]] sofort an, um die Charaktere zu vertreiben. Anderenfalls fragt der [[Marid-mm|Marid]] die Charaktere, was sie wollen. Wenn es zum Kampf kommt, gibt der [[Marid-mm|Marid]] auf, wenn seine Trefferpunkte auf weniger als 100 verringert werden oder wenn die Charaktere versichern, dass sie nicht zum Kult gehören.
 
-##### Shanzezim's Lore
+##### Shanzezims Überlieferung
 
-If the characters talk to the marid and reassure Shanzezim they're not part of the cult, Shanzezim offers the characters a gold-colored flywheel from the disassembled clock. The marid is chatty and can share the following pieces of information:
+Wenn die Charaktere mit dem [[Marid-mm|Mariden]] sprechen und ihm versichern, dass sie nichts mit dem Kult zu tun haben, bietet Shanzezim ihnen ein goldfarbenes Schwungrad aus dem zerlegten Uhrwerk an. Der [[Marid-mm|Marid]] ist geschwätzig und kann folgende Informationen mitteilen:
 
-- **Clock Assembly.** Shanzezim decided to reassemble a mechanical clock the Waterclock Guild left behind. The marid believes the thousands of parts are all here and reassembly shouldn't take more than another few years. The length of time doesn't bother Shanzezim, since the marid enjoys the work.  
-- **Cult Activity.** Cruel cultists bully the Elementals in the next room and are keeping a prisoner nearby. The prisoner is a gnome whom Shanzezim hasn't yet met.  
-- **Pipe System.** The pipes running through this area lead to a part of the crypt where Shanzezim can't go, but to which the pipes' water flows. Shanzezim describes how to maximize and minimize the water pressure in areas C8 and C12, opining with delight that turning the flow to maximum pressure in both areas should flood out the recently arrived cultists in short order.  
-- **Waterclock Guild.** Shanzezim is bound to a portion of the catacombs once controlled by a vanished organization of artificers and geomancers called the Waterclock Guild. Additional guild catacombs lie past the collapsed portion of this room, but they hold nothing of interest.  
+- **Kult-Aktivitäten:** Die grausamen Kultisten schinden die Elementare im Nebenraum und halten in der Nähe einen Gefangenen. Bei diesem handelt es sich um einen Gnom, den Shanzezim nicht kennt.
+- **Leitungssystem:** Die Leitungen in diesem Bereich führen zu einem Teil der Gruft, den Shanzezim nicht erreichen kann. Dorthin fließt das Wasser in den Rohren. Der [[Marid-mm|Marid]] beschreibt, wie der Wasserdruck in den Bereichen K8 und K12 erhöht oder verringert werden kann. Er vertritt mit Genuss die Ansicht, dass maximaler Druck in beiden Bereichen genügen müsste, um die Kultisten, die noch nicht lange hier sind, umgehend aus der Gruft zu spülen.
+- **Montage des Uhrwerks:** Shanzezim hat beschlossen, das mechanische Uhrwerk zusammenzufügen, das die Wasseruhr-Gilde hinterlassen hat. Er glaubt, dass die unzähligen Einzelteile alle vorhanden sind und die Montage allenfalls ein paar Jahre dauern dürfte. Es schert ihn nicht, dass die Montage so lange dauern wird, weil die Arbeit ihm Spaß macht.
+- **Wasseruhr-Gilde:** Shanzezim ist an einen Teil der Katakomben gebunden, der einst von der Wasseruhr-Gilde kontrolliert wurde, einer Organisation aus Artifizienten und Geomanten. Heute ist diese Gilde aber nicht mehr hier. Hinter dem eingestürzten Teil dieses Raums gehen die Katakomben der Gilde noch weiter, doch es gibt dort nichts von Interesse.
 
-##### Beyond the Rubble
+##### Hinter dem Schutt
 
-It takes several days of labor to clear the rubble so creatures can pass through it, but Shanzezim is right about there being nothing relevant beyond it. If the characters are determined to explore the other Waterclock Guild chambers, you can invent water-themed or clockwork-based denizens and traps for them to encounter.
+Es bräuchte mehrere Tage Arbeit, um den Schutt so weit zu beseitigen, dass Kreaturen ihn passieren können. Shanzezim hat allerdings recht damit, dass es dahinter nichts Relevantes zu finden gibt. Wenn die Charaktere erpicht darauf sind, die anderen Kammern der Wasseruhr-Gilde zu erforschen, kannst du einige Wasser- oder Uhrwerk-basierte Bewohner sowie Fallen erfinden, auf die sie stoßen können.
 
-##### Treasure
+##### Schätze
 
-The clock parts include a gold-colored flywheel that isn't a part of the clock Shanzezim is trying to assemble. The flywheel thus doesn't interest the marid, who gives it to the characters. The gold-colored flywheel is magical and has the properties of a Stone of Good Luck.
+Unter den Uhrwerkteilen ist auch ein goldfarbenes Schwungrad, das nicht zu dem Uhrwerk gehört, das Shanzezim gerade zusammensetzt. Daher ist es für den Mariden nicht von Interesse, und er gibt es den Charakteren. Das goldfarbene Schwungrad ist magisch und hat die Eigenschaften eines [[Stein_des_Glücks-dmg|Steins des Glücks]].
 
-#### C11: Umberto's Cell
+#### K11: Umbertos Zelle
 
-This room's only door is padlocked from the outside with a new, sturdy lock. As an action, a character with thieves' tools can try to use them to open the lock, doing so with a successful DC 18 Dexterity (Sleight of Hand) check. The cult's four mages (in areas C14, C16, and C26) each carry a key that unlocks it. If the characters are friendly with the [water elemental](/3-Mechanics/CLI/bestiary/elemental/water-elemental.md) (see area C7) or Shanzezim (see area C10), either is happy to flow into the crack around the door and burst it open from the inside, much to the surprise of this room's occupant, Umberto Noblin.
+Die einzige Tür zu diesem Raum ist von außen mit einem neuen, stabilen Vorhängeschloss verschlossen. Ein Charakter mit Diebeswerkzeug kann als Aktion versuchen, das Schloss damit und mit einem erfolgreichen SG-18-Geschicklichkeitswurf ([[01-Spielleiter/Fertigkeiten-phb#Fingerfertigkeit|Fingerfertigkeit]]) zu knacken. Die vier Magier des Kults in den Bereichen K14, K16 und K26 tragen jeweils einen Schlüssel zum Schloss bei sich. Wenn die Charaktere sich mit dem [[Wasserelementar-mm|Wasserelementar]] (siehe Bereich K7) oder Shanzezim (siehe Bereich K10) angefreundet haben, erklären beide sich gerne bereit, durch den Riss um die Tür zu fließen und sie von innen aufzusprengen - zur großen Überraschung von Umberto Noblin, dem Insassen des Raums. 
 
 > [!readaloud] 
 > 
-> Water leaks down the walls of this cell and pools on the floor near a rusty drain. A dejected gnome sits on a sodden mattress in one corner.
+> Wasser rinnt die Wände dieser Zelle herunter und sammelt sich um einen rostigen Ablauf im Boden. Auf einer durchweichten Matratze in einer Ecke hockt ein deprimierter Gnom. 
 ^062
 
-![Umberto Noblin](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/015-01-006-umberto-noblin.webp#center)
+![Umberto Noblin](Vecna-Vorabend_der_Verdammnis/img/015-01-006-umberto-noblin.webp#center)
 
-Umberto Noblin is a gnome historian who is eager to escape Neverdeath Graveyard. Umberto has the game statistics of a lawful neutral [mage](/3-Mechanics/CLI/bestiary/humanoid/mage.md) without Spellcasting.
+Umberto Noblin ist ein gnomischer Historiker, der unbedingt vom Nimmertod-Friedhof entkommen will. Er hat die Spielwerte eines rechtschaffen neutralen [[Magier-mm|Magiers]] ohne Zauberwirken. 
 
-##### Umberto's Secret
+##### Umbertos Geheimnis
 
-Umberto knows that cultists of Vecna are his kidnappers, as he's one of Neverwinter's preeminent experts on Vecna's history. He initially keeps his expertise from the characters lest they think he's in league with the cult.
+Umberto weiß, dass er von Kultisten von Vecna entführt wurde, weil er zu Niewinters größten Experten gehört, was Vecnas Geschichte betrifft. Dies verschweigt er den Charakteren zunächst, damit sie nicht denken, er würde mit dem Kult unter einer Decke stecken. 
 
-To keep his mind off of the nightmare of his capture and imprisonment, Umberto focuses on complaining about the poor cuisine. If the characters free Umberto and share some tasty food with him, he reveals his expertise in Vecna's history. Umberto especially likes food created with or by magic, such as berries from the Goodberry spell.
+Um sich nicht zu sehr mit dem Albtraum seiner Entführung und Gefangenschaft zu befassen, hält Umberto sich daran fest, sich über das Essen zu beklagen. Wenn die Charaktere Umberto befreien und ihm etwas Leckeres geben, gibt er sich als Vecna-Historiker zu erkennen. Umberto isst besonders gerne magisch erzeugte Nahrung wie die Beeren des Zaubers [[Gute_Beeren-phb|Gute Beeren]]. 
 
-If Umberto reveals his role as a historian of Vecna, it's all he can talk about. He discusses his latest clandestine research project: the ancient rivalry between Vecna and his treacherous lieutenant, the vampire Kas. The historian has kept this research to himself so other scholars don't beat him to publication; Umberto knows he's a slow writer. The gnome's chattering should be endearing rather than irritating, and you can use Umberto to impart basic history about Vecna and Kas as described in the introduction.
+Sobald er seine Rolle als Vecna-Historiker enthüllt hat, spricht er über nichts anderes mehr. Er erzählt von seinem neuesten geheimen Forschungsprojekt: die uralte Rivalität zwischen Vecna und seinem verräterischen Feldherrn, dem Vampir Kas. Diese Forschung hat der Historiker bis jetzt für sich behalten, damit andere Gelehrte ihm nicht zuvorkommen - Umberto weiß, dass er nicht der schnellste Autor ist. Die umfangreichen Ausführungen des Gnoms sollten eher drollig als nervtötend sein. Zudem kann Umberto grundlegendes Geschichtswissen zu Vecna und Kas wie in der Einführung beschrieben mitteilen. 
 
-Learning about Umberto's secret research topic counts as a secret for the purposes of the Power of Secrets rules in this book's introduction.
+Umbertos geheimes Forschungsthema zählt als Geheimnis, für das die Regeln unter „Die Macht der Geheimnisse" in der Einführung dieses Buchs gelten. 
 
-#### C12: West Pressure Room
+#### K12: Westlicher Druckraum
 
 > [!readaloud] 
 > 
-> Pipes climb the north wall, disappearing near the ceiling. A complicated series of cogs and three hand-turned wheels connect to the pipes.
+> An der Nordwand führen Rohrleitungen hinauf und verschwinden knapp unter der Decke durch die Wand. Eine unübersichtliche Mischung aus Zahnrädern und drei Handrädern ist mit ihnen verbunden. 
 ^065
 
-The wheels control the pipes' water pressure. As in area C8, a character can determine how to maximize or minimize the water pressure with an hour of trial and error, with 10 minutes of trial and error if a character succeeds on a DC 14 Intelligence (Investigation check), or with Shanzezim's instructions.
+Mit den Rädern wird der Wasserdruck in den Leitungen gesteuert. Wie in Bereich K8 kann ein Charakter binnen einer Stunde - oder zehn Minuten, wenn er einen SG-14-Intelligenzwurf ([[01-Spielleiter/Fertigkeiten-phb#Nachforschungen|Nachforschungen]]) besteht oder Shanzezims Anweisungen folgt - durch Ausprobieren erkennen, wie der Wasserdruck sich erhöhen oder verringern lässt. 
 
-##### Minimum Pressure
+##### Verringerten Druck
 
-Minimizing the pressure here doesn't affect the nozzles in area C7.
+Wird hier der Druck verringert, so hat dies keine Auswirkungen auf die Rohröffnungen in Bereich K7. 
 
-##### Maximum Pressure
+##### Erhöhter Druck
 
-If the characters maximize the water pressure both here and in area C12, the basins in areas C14 and C15 start to overflow (see area C8 for more information).
+Wenn die Charaktere sowohl hier als auch in Bereich K8 den Wasserdruck erhöhen, fließen die Becken in den Bereichen K14 und KlS über (weitere Informationen findest du im Text zu Bereich K8). 
 
-#### C13: Wall Crossing
+#### K13: Mauerkreuzung
 
 > [!readaloud] 
 > 
-> This small room appears to be a crossroads between different parts of the graveyard. Steep stairs descend from the east and west sides of this room. Four bells of different sizes hang from leather cords affixed to the ceiling.
+> Dieser kleine Raum dient offenbar als Kreuzung zwischen verschiedenen Bereichen des Friedhofs. Im Osten und im Westen dieses Raums führen steile Treppen weiter. Vier unterschiedlich große Glocken hängen an Lederriemen von der Decke. 
 ^069
 
-This room is set into the wall separating Neverdeath's Main Graveyard and Pauper's Graveyard. This room lets the cultists pass between the two graveyards without venturing aboveground.
+Dieser Raum befindet sich in der Mauer, die den Hauptfriedhof vom Armenfriedhof trennt. Die Kultisten können hier zwischen den beiden Friedhöfen wechseln, ohne sich oberirdisch bewegen zu müssen. 
 
-Arriving cultists ring specific bells in a predetermined pattern, based on their rank, so cultists in the common room (area C14) can prepare an appropriate welcome. If the characters ring the bells without knowing their significance and patterns, the cultists in area C14 are alert to trouble.
+Die eintreffenden Kultisten läuten je nach ihrem Rang bestimmte Glocken in festgelegten Mustern, damit ihre Kollegen im Gemeinschaftsraum (Bereich K14) sie angemessen willkommen heißen können. Wenn die  Charaktere die Glocken läuten, ohne über Bedeutung und Läutmuster informiert zu sein, wissen die Kultisten in Bereich K14, dass es Ärger gibt. 
 
-#### C14: Common Room
+#### C14: Gemeinschaftsraum
 
 > [!readaloud] 
 > 
-> Tables and chairs in this crypt are arranged to create a meeting room or mess hall. Water drips from a pipe into a basin in the southeast corner beneath a detailed image of a staring eye gripped in a withered hand. Five robed cultists are in this room, with one bullying the rest.
+> In dieser Gruft sind Tische und Stühle angeordnet wie in einem Konferenzraum oder einer Kantine. In der Südostecke tropft Wasser aus einem Rohr in eine Zisterne unter dem fein ausgearbeiteten Bild eines starrenden Auges, ergriffen von einer dürren Hand. Fünf Kultisten in Roben befinden sich in diesem Raum. Einer schikaniert die anderen. 
 ^06b
 
-A neutral evil [mage](/3-Mechanics/CLI/bestiary/humanoid/mage.md) and four neutral evil [cult fanatics](/3-Mechanics/CLI/bestiary/humanoid/cult-fanatic.md) occupy this room. The mage, a sneering, human bully named Oxtu, insists the cult fanatics call him by his formal title of "Teeth of Vecna." In turn, he refers to them as "Memories of Vecna," their rank. Oxtu likes to describe violent methods of coercing secrets from people, and the cult fanatics hang on his words. Oxtu carries keys that unlock all the prisoner cells (areas C5, C11, C18, and C20).
+Ein neutral böser [[Magier-mm|Magier]] und vier neutral böse [[Kultfanatiker-mm|Kultfanatiker]] befinden sich in diesem Raum. Der Magier ist ein hämischer menschlicher Leuteschinder namens Oxtu. Er besteht darauf, von den Kultfanatikern formell als „Zähne von Vecna" angeredet zu werden. Im Gegenzug nennt er sie bei ihrem Rang: ,,Erinnerungen von Vecna". Oxtu beschreibt gerne grausame Methoden, den Leuten ihre Geheimnisse zu entreißen, und die Kultfanatiker lauschen ihm gebannt. Er trägt die Schlüssel zu allen Gefängniszellen (Bereiche K5, K11, K18 und K20) bei sich. 
 
-The cultists are quick to fight intruders. The fanatics try to stay out of the way of Oxtu's spells, but Oxtu makes no effort to exclude them. The cultists all fight to the death.
+Wenn sie Eindringlinge entdecken, fackeln die Kultisten nicht lange. Dabei versuchen die Fanatiker, Oxtus Zaubern aus dem Weg zu gehen, aber Oxtu strengt sich nicht an, die Fanatiker nicht zu treffen. Die Kultisten kämpfen alle bis zum Tod. 
 
-##### A Noisy Fight
+##### Ein geräuschvoller Kampf
 
-Loud noise here rouses the two [mages](/3-Mechanics/CLI/bestiary/humanoid/mage.md) dozing in area C16.
+Kommt es hier zu Lärm, so alarmiert dies die beiden [[Magier-mm|Magier]], die in Bereich K16 dösen. 
 
-##### Unholy Basin
+##### Unheiliges Becken
 
-The cultists desecrated the basin by placing iconography of Vecna above it. Creatures that aren't devotees of Vecna that drink from the basin must succeed on a DC 17 Constitution saving throw or have the poisoned condition for 1 hour. Cultists who suspect a lack of true devotion from their compatriots challenge each other to drink from the basin to prove their faith. If the characters come in disguise as devotees of Vecna, the cultists demand that they prove their faith by taking a drink.
+Die Kultisten haben das Becken entweiht, indem sie Vecnas Symbole darüber angebracht haben. Kreaturen, die aus dem Becken trinken und keine Anhänger Vecnas sind, müssen einen SG-17-Konstitutions-Rettungswurf bestehen, oder sie sind eine Stunde lang vergiftet. Kultisten, die einander verdächtigen, Vecna nicht treu genug ergeben zu sein, fordern sich gegenseitig heraus, aus dem Becken zu trinken, um ihren Glauben zu beweisen. Wenn die Charaktere als Anhänger Vecnas verkleidet erscheinen, verlangen die Kultisten, dass sie ihren Glauben auf diese Art unter Beweis stellen. 
 
-#### C15: Kitchen
+#### K15: Küche 
 
 > [!readaloud] 
 > 
-> This small crypt has been converted into a kitchen. Dirty utensils soak in a large basin to the east. A stone coffin serves as a firepit; the coffin's lid has been repurposed as a table, which bears platters of dried fruit, nuts, and meat.
+> Diese kleine Gruft wurde in eine Küche umgewandelt. In einem großen Spülbecken im Osten weichen schmutzige Utensilien ein. Als Feuerstelle dient ein Steinsarg, sein Deckel als Tisch. Auf ihm stehen Teller mit Trockenfrüchten, Nüssen und Fleisch. 
 ^06f
 
-This kitchen remains empty except during mealtimes, and no one bothers to keep it clean. Removing the utensils from the basin reveals a wide drain.
+Die Küche ist nur während der Mahlzeiten nicht leer, und niemand kümmert sich darum, sie sauber zu halten. Werden die Utensilien aus dem Spülbecken geräumt, so kommt ein großer Abfluss zum Vorschein. 
 
-#### C16: Subleader Quarters
+#### K16: Unterführerquartier
 
 > [!readaloud] 
 > 
-> Bones in nooks along this wall were pushed aside to make room for folded robes and other personal effects. Four narrow cots lie against the north wall. A robed human and a robed elf each rest on a cot.
+> In diesem Raum wurden Knochen in Nischen beiseitegeschoben, um Platz für gefaltete Roben und weitere persönliche Gegenstände zu schaffen. An der Nordwand lehnen vier schmale Pritschen. Zwei davon sind belegt, eine mit einer Menschenfrau, eine mit einem Elf. Beide Personen tragen Roben. 
 ^071
 
-Two neutral evil [mages](/3-Mechanics/CLI/bestiary/humanoid/mage.md), an elf man named Hannel and a human woman named Algra, rest here. They are surly, taciturn zealots who venerated Vecna in secret for decades before joining the cult. They love exercising their authority over junior cultists. Each wears a necklace of human teeth in honor of their titles within the cult hierarchy as "Teeth of Vecna." They each carry a key to the prisoner cells (areas C5, C11, C18, and C20).
+Hier ruhen sich zwei neutral böse [[Magier-mm|Magier]] aus, ein Elf namens Hannel und eine Menschenfrau namens Algra. Sie sind griesgrämige, schweigsame Eiferer, die Vecna schon viele Jahre vor ihrer Aufnahme in den Kult heimlich bewundert haben. Nichts tun sie lieber, als jüngere Kultisten ihre Autorität spüren zu lassen. Beide tragen eine Kette aus Menschenzähnen zu Ehren ihrer Titel in der Kulthierarchie: „Zähne von Vecna". Ferner haben beide Schlüssel zu den Gefängniszellen (Bereiche K5, K11, K18 und K20) bei sich. 
 
-The mages are quick to fight if they spot intruders, since they don't want the cult exposed. They are determined to vanquish intruders and prove their worth to the cult, even if it means fighting to the death.
+Die Magier kämpfen umgehend, wenn sie Eindringlinge erblicken, da sie nicht wollen, dass der Kult enttarnt wird. Sie sind entschlossen, Eindringlinge zu besiegen und dem Kult ihren Wert zu beweisen, auch wenn das bedeutet, bis zum Tod zu kämpfen. 
 
-##### Secret Door
+##### Geheimtür
 
-An urn in a nook on the south wall rotates, sliding aside a wall panel that leads to a short tunnel between this room and area C25. A character who searches the room and succeeds on a DC 15 Wisdom (Perception) check finds the secret door and the means to open it. The mages know about the secret passage, but none of the cult fanatics do. At the far end of the secret passage is another secret door easily spotted and opened from inside the tunnel.
+Wenn eine Urne in der Südwand gedreht wird, gleitet ein Wandstück beiseite und gibt den Weg in einen Tunnel zwischen diesem Raum und Bereich K25 frei. Ein Charakter, der den Raum durchsucht und einen SG-15-Weisheitswurf ([[01-Spielleiter/Fertigkeiten-phb#Wahrnehmung|Wahrnehmung]]) besteht, entdeckt die Geheimtür und kriegt heraus, wie man sie öffnet. Die Magier wissen von diesem Geheimgang, die Kultfanatiker jedoch nicht. Am anderen Ende des Tunnels befindet sich eine weitere Geheimtür, die man vom Tunnel aus problemlos entdecken und öffnen kann. 
 
-#### C17: Library
+#### K17: Bibliothek 
 
-![Vecnan cultists keep a rep...](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/016-01-007-vecnan-cultist-library.webp#center "Vecnan cultists keep a repository of information and scrolls in a makeshift library in the catacombs")
+![Vecnan cultists keep a rep...](Vecna-Vorabend_der_Verdammnis/img/016-01-007-vecnan-cultist-library.webp#center "Vecnan cultists keep a repository of information and scrolls in a makeshift library in the catacombs")
 
 > [!readaloud] 
 > 
-> The long, low shelves of this room are canted at irregular angles due to the uneven stones in the floor. The shelves are crammed with books, scrolls, and folios. Four robed cultists stand near the south shelves instructing two ghouls to tidy up the books.
+> Die langen, niedrigen Regale in diesem Raum ragen wegen der unebenen Bodenplatten in den verschiedensten Winkeln empor. Sie sind mit Büchern, Schriftrollen und Folianten vollgestopft. Vier Kultisten in Roben stehen bei den südlichen Regalen und weisen zwei Ghule an, die Bücher aufzuräumen. 
 > 
-> A stone coffin rests against the north wall, its top carved to look like pages of an open book. Engraved on the book's pages is a name: Ayren Griffynstone.
+> An der Nordwand steht ein Steinsarg. Der obere Bereich des Deckels ist wie ein geöffnetes Buch gestaltet. In die steinernen Buchseiten ist ein Name eingraviert: Ayren Greifenstein. 
 ^074
 
-Four chaotic evil [cult fanatics](/3-Mechanics/CLI/bestiary/humanoid/cult-fanatic.md) are supervising two [ghouls](/3-Mechanics/CLI/bestiary/undead/ghoul.md) trying to reorganize the jumble of books the cultists brought to this tomb. The library belongs to Ayren Griffynstone, a human Neverwinter historian. The room hasn't fared well in the graveyard's upheavals, and the uneven floor makes this room "difficult terrain".
+Vier chaotisch böse [[Kultfanatiker-mm|Kultfanatiker]] beaufsichtigen zwei [[Ghul-mm|Ghule]] beim Versuch, einen Haufen Bücher zu sortieren, welche die Kultisten in dieses Grab geschleppt haben. Die Bibliothek gehört Ayren Greifenstein, einem menschlichen Historiker aus Niewinter. Die Verwerfungen auf dem Friedhof sind dem Raum nicht gut bekommen. Sein unebener Boden macht diesen Raum zu [[09-Kapitel_08-Auf_Abenteuer_ausziehen#Schwieriges Gelände|schwierigem Gelände]]. 
 
-As Vecna is a god of knowledge as well as secrets, the cultists all contributed their personal libraries to this collection. Each of the cult fanatics has their own ideas about how this hodgepodge of eclectic works should be organized, so the ghouls labor under constant streams of conflicting directions.
+Da Vecna ein Gott des Wissens sowie der Geheimnisse ist, haben alle Kultisten ihre Bücher dieser Sammlung beigefügt.Jeder Kultfanatiker hat eigene Vorstellungen davon, wie das Durcheinander erlesener Werke zu organisieren sei, daher müssen die Ghule sich unter ständigen widersprüchlichen Anweisungen arbeiten. 
 
-Everyone here is on edge and grateful for the distraction of a fight. If the fight turns against the fanatics, one tries to escape through the secret door to fetch the demons in area C19.
+Alle hier sind angespannt und dankbar für die Ablenkung, die ein Kampf bietet. Läuft dieser für die Fanatiker nicht gut, so versucht einer, durch die Geheimtür zu entkommen und die Dämonen in Bereich K19 zu holen. 
 
-##### Secret Door
+##### Geheimtür
 
-One shelf swings back to reveal a secret passage to area C19. A character who searches the shelves and succeeds on a DC 15 Intelligence (Investigation) check finds the secret door and the means to open it. All the cultists know about this secret door. At the far end of the secret passage is another secret door easily spotted and opened from inside the tunnel.
+Ein Regal schwingt zurück und gibt einen Geheimgang zu Bereich K19 frei. Ein Charakter, der die Regale untersucht und einen SG-15-Intelligenzwurf ([[Nachforschungen]]) besteht, entdeckt die Geheimtür und kriegt heraus, wie man sie öffnet. Alle Kultisten kennen diese Geheimtür. Am anderen Ende des Tunnels befindet sich eine weitere Geheimtür, die man vom Tunnel aus problemlos entdecken und öffnen kann. 
 
-##### Treasure
+##### Schätze
 
-The collection of sinister books, many of which are duplicates, includes a few valuable tomes. A book describing the Eye of Vecna and Hand of Vecna is a masterpiece of writing and artistic illumination worth 450 gp. A book of nonsensical poetry titled Quite Good Verse has a gold-plated cover and is worth 200 gp. A book about Neverwinter's history contains a Spell Scroll of Greater Invisibility and a Spell Scroll of Major Image folded in its pages. The characters can find these treasures with 10 minutes of dedicated searching.
+Die Sammlung finsterer Bücher, viele davon Duplikate, enthält auch einige wertvolle Folianten. Einer von diesen beschreibt das [[Auge_von_Vecna-dmg|Auge von Vecna]] und die [[Hand_von_Vecna-dmg|Hand von Vecna]]. Er ist ein literarisches und künstlerisches Meisterwerk und 450 GM wert. Ein anderes Buch mit unsinnigen Gedichten trägt den Titel _Richtig gute Reime_, hat einen vergoldeten Einband und ist 200 GM wert. Zwischen die Seiten eines Buchs über Niewinters Geschichte sind eine [[Zauberschriftrolle-dmg|Zauberschriftrolle]] der [[Mächtige_Unsichtbarkeit-phb|Mächtigen Unsichtbarkeit]] und eine [[Zauberschriftrolle-dmg|Zauberschriftrolle]] des [[Mächtiges_Trugbild-phbMächtigen Trugbilds]] gefaltet. Die Charaktere können diese Schätze finden, wenn sie zehn Minuten konzentriert danach suchen. 
 
-#### C18: Vacant Cell
+#### K18: Leere Zelle
 
-This room has a padlock outside like the other prisoner cells, but the lock hangs open.
+Dieser Raum hat außen ein Vorhängeschloss wie die anderen Gefängniszellen. Hier ist das Schloss allerdings offen. 
 
 > [!readaloud] 
 > 
-> This squalid cell contains nothing but a bucket and a small heap of filthy blankets.
+> Diese schmutzige Zelle enthält nichts als einen Eimer und einen kleinen Haufen dreckiger Decken. 
 ^078
 
-The planar scholar Eldon Keyward occupied this cell for many miserable days. He was taken to the ritual cage in area C26, so his cell isn't locked.
+Der Ebenengelehrte [[Eldon_Schlüsselwart-veor|Eldon Schlüsselwart]] hat zahlreiche elende Tage in dieser Zelle verbracht. Nun wurde er in den Ritualkäfig in Bereich K26 gebracht, weswegen seine Zelle nicht verschlossen ist. 
 
-##### Eldon's Notebook
+##### Eldons Notizbuch
 
-Anyone searching the blankets finds Eldon's prize possession: a small notebook filled with his cramped writing about extraplanar intersections, planar conjunctions, and similar esoterica.
+Wer die Decken durchsucht, findet Eldons wichtigsten Besitz: ein kleines, eng beschriebenes Notizbuch über extraplanare Kreuzungen, Ebenenkonjunktionen und ähnliche esoterische Inhalte. 
 
-#### C19: Demon Lair
+#### K19: Dämonenlager
 
 > [!readaloud] 
 > 
-> Hundreds of names are etched into metal plates set into the walls of this room, many scratched over and unreadable. Two hulking, red-furred, apelike creatures stalk around the room.
+> An den Wänden dieses Raums hängen zahlreiche Metalltafeln, in die Hunderte von Namen eingraviert sind. Viele davon sind zerkratzt und unleserlich. Zwei wuchtige affenartige Kreaturen mit rotem Fell stolzieren durch den Raum. 
 ^07b
 
-The two [barlguras](/3-Mechanics/CLI/bestiary/fiend/barlgura.md) here work as the cult's kidnappers. With little to do until the next kidnapping spree other than guard the imprisoned aristocrat in area C20, the demons spend their time scratching out the names on the memorial plates with their claws.
+Die beiden [[Barlgura-mm|Barlguras]] hier arbeiten als Entführer des Kults. Zwischen den Entführungen haben sie nichts zu tun, als die gefangene Adelige in Bereich K20 zu bewachen. Sie schlagen die Zeit damit tot, mit den Klauen die Namen von den Gedenktafeln zu kratzen. 
 
-##### Secret Door
+##### Geheimtür
 
-One of the nameplates pivots to reveal a secret passage to area C17. A character who searches the room and succeeds on a DC 17 Wisdom (Perception) check finds the secret door and the means to open it. The demons don't know about the secret door, but the cultists do. At the far end of the secret passage is another secret door easily spotted and opened from inside the tunnel.
+Eine der Namenstafeln lässt sich schwenken und gibt einen Geheimgang zu Bereich K17 frei. Ein Charakter, der den Raum durchsucht und einen SG-17-Weisheitswurf ([[Wahrnehmung]]) besteht, entdeckt die Geheimtür und kriegt heraus, wie man sie öffnet. Die Dämonen wissen nichts von der Geheimtür, die Kultisten hingegen schon. Am anderen Ende des Tunnels befindet sich eine weitere Geheimtür, die man vom Tunnel aus problemlos entdecken und öffnen kann. 
 
-#### C20: Indrina's Cell
+#### K20: Indrinas Zelle
 
-This room's only obvious door is padlocked from the outside with a sturdy, new lock. As an action, a character with thieves' tools can use them to try to open the lock, doing so with a successful DC 18 Dexterity (Sleight of Hand) check. Each of the cult's four mages (in areas C14, C16, and C26) carries a key to it. Once the characters open the door, read the following:
+Die einzige offenkundige Tür dieses Raums ist außen mit einem stabilen neuen Vorhängeschloss versehen. Ein Charakter mit Diebeswerkzeug kann als Aktion versuchen, das Schloss damit und mit einem erfolgreichen SG-18-Geschicklichkeitswurf ([[Fingerfertigkeit]]) zu knacken. Jeder der vier Magier des Kults in den Bereichen K14, K16 und K26 trägt einen Schlüssel zu diesem Schloss bei sich. Wenn die Charaktere die Tür öffnen, lies Folgendes vor: 
 
 > [!readaloud] 
 > 
-> This crypt smells like a sewer. A woman sits on a mattress atop a low shelf, her once-fine clothing in tatters and a silk scarf wrapped around her face.
+> Diese Gruft riecht wie eine Klärgrube. Eine Frau sitzt auf einer Matratze auf einem niedrigen Regal. Ihre abgerissene Kleidung war einst sehr fein. Ein Seidentuch verhüllt ihr Gesicht. 
 ^07e
 
-![Indrina Lamsensettle](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/017-01-008-indrina-lamsensettle.webp#center)
+![Indrina Lamsettel](Vecna-Vorabend_der_Verdammnis/img/017-01-008-indrina-lamsensettle.webp#center)
 
-The prisoner is a human actor named Indrina Lamsensettle. Indrina's normally haughty demeanor has diminished in her imprisonment, though she's determined to make the cult pay once she escapes. Indrina dreams of returning to her estate, cleaning up, and dousing herself in perfumes. She doesn't know anything about Vecna or what the cult has in store for her; she believes that Lord Neverember is behind her imprisonment. Indrina has the game statistics of a lawful neutral [noble](/3-Mechanics/CLI/bestiary/humanoid/noble.md) but is unarmed and unarmored.
+Die Gefangene ist eine menschliche Schauspielerin namens [[Indrina_Lamsettel-veor|Indrina Lamsettel]]. Ihr üblicher Hochmut ist ihr in der Gefangenschaft abhandengekommen, auch wenn sie entschlossen ist, den Kult büßen zu lassen, wenn sie wieder frei ist. Indrina träumt davon, in ihr Anwesen zurückzukehren, ausgiebig zu baden und sich mit Parfüm zu überschütten. Sie weiß nichts von Vecna und ahnt nicht, was der Kult mit ihr vorhat. Sie glaubt, dass Vogt Nieglut hinter ihrer Einkerkerung steckt. Indrina hat die Spielwerte einer rechtschaffen neutralen [[Adeliger-mm|Adeligen]], ist jedoch unbewaffnet und ungerüstet. 
 
-##### Secret Door
+##### Geheimtür 
 
-Part of the south wall swings aside when shoved. The short hall beyond leads to the latrine and smells even worse than Indrina's cell. A character who searches this room and succeeds on a DC 18 Wisdom (Perception) check finds the secret door. Indrina doesn't know the door is there.
+Ein Teil der Südwand schwingt auf, wenn man dagegendrückt. Der kurze Korridor dahinter führt zur Latrine und stinkt noch schlimmer als Indrinas Zelle. Ein Charakter, der den Raum durchsucht und einen SG-18-Weisheitswurf ([[Wahrnehmung]]) besteht, entdeckt die Geheimtür. Indrina weiß nichts von dieser Tür. 
 
-##### Indrina's Secret
+##### Indrinas Geheimnis
 
-Indrina collected information from skilled genealogists and assembled proof that Lord Neverember isn't descended from Neverwinter's great hero, Lord Nasher Alagondar, as he claims. Indrina assumes Lord Neverember wants to silence her for what she's discovered.
+Indrina hat Informationen von fähigen Genealogen zusammengetragen und kann beweisen, dass Vogt Nieglut entgegen seiner Behauptungen nicht von Niewinters großem Helden abstammt, dem Fürsten Nasher Alagondar. Sie nimmt an, dass Nieglut sie deswegen zum Schweigen bringen will. 
 
-If the characters admit to working for Lord Neverember, Indrina doesn't reveal what she knows. A character who asks why Indrina is here without revealing who hired the characters can attempt a DC 18 Charisma (Persuasion) check, with advantage if Indrina is given perfume or otherwise removed from the cell's offensive smell. On a success, Indrina reveals her secret knowledge.
+Wenn die Charaktere zugeben, dass sie für Vogt Nieglut arbeiten, sagt Indrina ihnen nicht, was sie weiß. Fragt ein Charakter, warum sie hier ist, ohne zu erkennen zu geben, wer die Charaktere beauftragt hat, so kann er einen SG-18-Charismawurf ([[Überzeugen]]) ausführen. Der Wurf ist im Vorteil, wenn Indrina Parfüm erhält oder anderweitig vom üblen Gestank der Zelle befreit wird. Bei einem Erfolg offenbart Indrina ihr geheimes Wissen. 
 
-Learning Indrina's discovery counts as a secret for the purposes of the Power of Secrets rules in this book's introduction. Lord Neverember casually dismisses Indrina's accusation if it's later brought to his attention, insisting that the woman can't prove anything.
+Indrinas Entdeckung zählt als Geheimnis, für das die Regeln unter „Die Macht der Geheimnisse" in der Einführung dieses Buchs gelten. Vogt Nieglut tut ihre Anschuldigung beiläufig ab, wenn sie ihm später mitgeteilt wird, und beharrt darauf, dass die Frau nichts beweisen kann. 
 
-#### C21: Haunted Room
+#### K21: Spukraum
 
-The outside of this door bears a large "X" painted on it in red.
+Diese Tür ist mit einem großen roten „X" markiert.
 
 > [!readaloud] 
 > 
-> Several urns lie shattered across the floor of this room amid heaps of ash and bone dust.
+> Auf dem Boden dieses Raums liegen diverse zerbrochene Urnen zwischen Haufen aus Asche und Knochenstaub.
 ^082
 
-The cultists disturbed two [wraiths](/3-Mechanics/CLI/bestiary/undead/wraith.md) bound to the urns while ransacking the room. The cultists quickly retreated and haven't been back. The wraiths emerge from the dust and ash when anyone opens the door, shrieking, "Vecnans, die!" They vent their rage on nearby creatures, preferring to attack cultists. The wraiths fight until destroyed.
+Die Kultisten haben beim Plündern dieses Raums zwei [[Todesalb-mm|Todesalben]] aufgestört, die an die Urnen gebunden sind. Daraufhin haben sie sich schleunigst zurückgezogen und sind nicht hierher zurückgekehrt. Die Todesalben erheben sich aus der Asche und dem Staub, wenn jemand die Tür öffnet, und kreischen: ,,Sterbt, Vecnaner!" Sie lassen ihren Zorn an Kreaturen in Reichweite aus und greifen vorzugsweise Kultisten an. Die Todesalben kämpfen, bis sie zerstört werden. 
 
-#### C22: Latrine
+#### K22: Latrine
 
 > [!readaloud] 
 > 
-> This filthy latrine is merely a deep pit with a few boards across it. The stink is overpowering.
+> Diese schmutzige Latrine ist nur eine tiefe Grube mit ein paar Brettern darüber. Der Gestank ist überwältigend. 
 ^084
 
-##### Secret Door
+##### Geheimtür 
 
-The north wall of this disgusting room swings aside when a particular stone is pressed. A character who searches the room and succeeds on a DC 15 Intelligence (Investigation) check finds the secret door. All the cultists know about this secret door and open it from time to time to waft the smell into Indrina's cell (area C20).
+Die Nordwand dieses abstoßenden Raums schwingt zur Seite, wenn auf einen bestimmten Stein gedrückt wird. Ein Charakter, der den Raum untersucht und einen SG-15-Intelligenzwurf ([[Nachforschungen]]) besteht, entdeckt die Geheimtür. Alle Kultisten kennen diese Geheimtür und öffnen sie dann und wann, um den Gestank in Indrinas Zelle (Bereich K20) zu lassen. 
 
-#### C23: Corridor
+#### K23: Korridor
 
 > [!readaloud] 
 > 
-> A shuffling cultist bearing a vacant expression moves through the corridor. Several narrow doorways lead off this long hall.
+> Eine Kultistin schlurft mit leerem Gesichtsausdruck durch den Korridor. Von diesem langen Korridor gehen mehrere schmale Türen ab. 
 ^087
 
-The Vecnan cult leader, Jerot Galgin, used a dreadful ritual to drain the cultist of her knowledge and vitality. This cultist, as well as other people whose secrets the cult have sacrificed to Vecna, has the game statistics of a [zombie](/3-Mechanics/CLI/bestiary/undead/zombie.md). The cultist is a Humanoid rather than Undead and isn't immune to poison damage or the poisoned condition. She is dressed like the other cult members and doesn't attack anyone dressed like cultists.
+[[Jerot_Galgin-veor|Jerot Galgin]], der Anführer des Vecna-Kults, hat ein grausiges Ritual benutzt, um dieser Kultistin ihr Wissen und ihre Lebenskraft zu rauben. Die Kultistin hat ebenso wie andere Personen, deren Geheimnisse der Kult Vecna geopfert hat, die Spielwerte eines [[Zombie-mm|Zombies]]. Die Kultistin ist eine Humanoide, keine Untote, und sie ist weder gegen Giftschaden noch gegen den Vergiftet-Zustand immun. Sie ist wie die anderen Kultisten gekleidet und greift niemanden an, der wie die Kultisten gekleidet ist. 
 
-##### Made an Example
+##### Ein statuiertes Exempel
 
-Raina Kairls was caught planning to betray the cult to Neverwinter's guards. Jerot first tested the sacrificial ritual on Raina and thinks she serves as a useful reminder of the price of betrayal.
+Raina Kairls wurde erwischt, wie sie plante, den Kult an die Wachen von Niewinter zu verraten.Jerot hat das Opferritual bei Raina erstmalig ausgeführt und hält sie für eine nützliche Erinnerung daran, welchen Preis ein Verrat hat. 
 
-#### C24: Empty Crypts
+#### K24: Leere Grüfte
 
 > [!readaloud] 
 > 
-> This narrow doorway leads into a small, empty crypt.
+> Diese schmale Tür führt in eine leere kleine Gruft. 
 ^08a
 
-These four rooms are empty.
+Diese vier Räume sind leer.
 
-#### C25: Leader's Room
+#### K25: Raum des Anführers
 
 > [!readaloud] 
 > 
-> This large room has been furnished to resemble a cozy bedroom and study. Stooped over a desk and scribbling furiously on a parchment is a gaunt, robed human man. Standing next to the desk is a one-eyed, bipedal horror with spikes growing out of its back. Tapestries depicting feasting undead creatures hang on the wall.
+> Dieser große Raum wurde als Studierzimmer und komfortabler Schlafraum eingerichtet. Ein hagerer menschlicher Mann in Robe sitzt über den Schreibtisch gebeugt und schreibt emsig. Neben dem Tisch steht ein einäugiger zweibeiniger Schrecken, dem Stacheln aus dem Rücken wachsen. Wandbehänge mit Darstellungen von schmausenden Untaten zieren den Raum. 
 ^08c
 
-![Jerot Galgin](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/018-01-009-jerot-galgin.webp#center)
+![Jerot Galgin](Vecna-Vorabend_der_Verdammnis/img/018-01-009-jerot-galgin.webp#center)
 
-The cult's leader is a neutral evil, human [necromancer wizard](/3-Mechanics/CLI/bestiary/humanoid/necromancer-wizard-mpmm.md) (see appendix A) named Jerot Galgin. A loyal [nothic](/3-Mechanics/CLI/bestiary/aberration/nothic.md) assistant named Maszundrin never leaves Jerot's side. A devotee of Vecna, Maszundrin learned Common while lurking in the catacombs for decades and considers the cultists vital servants of the lich-god.
+Der Anführer des Kults ist ein neutral böser menschlicher [[Magier-Nekromant-mpmm|Magier-Nekromant]] (siehe Anhang A) namens [[Jerot_Galgin-veor|Jerot Galgin]]. Ein loyaler [[Nothic-mm|Nothic]] namens Maszundrin ist Jerots Assistent und weicht ihm nicht von der Seite. Er verehrt Vecna und hat Jahrzehnte lang in den Katakomben gelauert, wobei er die Gemeinsprache gelernt hat. Die Kultisten betrachtet er als wichtige Diener des Lich-Gottes. 
 
-Jerot is an aristocrat who has lived his entire life in Neverwinter. He has built his deep faith in Vecna and vast necromantic knowledge over many years, right under the noses of his peers. He's engaging in this current research while his friends and family believe him to be on an extended trip to Waterdeep. Jerot considers his secret life as a cult leader, or the "Thought of Vecna," to be yet another way to honor his evil patron.
+Jerot ist ein Adeliger, der sein ganzes Leben in Niewinter zugebracht hat. Unter der Nase seiner Kollegen hat er über viele Jahre hinweg großes Vertrauen in Vecna aufgebaut und umfassendes nekromantisches Wissen erworben. Er beschäftigt sich mit seiner aktuellen Forschung, während Freunde und Angehörige ihn auf einer verlängerten Reise in Tiefwasser wähnen. Sein geheimes Leben als Anführer des Kults oder „Gedanke von Vecna" betrachtet er als weitere Methode, seinen bösen Schutzherrn zu ehren. 
 
-Jerot is refining the ritual occurring in the Sacrifice Gallery (area C26) and is too focused on his work to be distracted by combat elsewhere in the catacombs. He trusts his minions to handle any trouble. If intruders reach Jerot's personal chamber, he commands the [nothic](/3-Mechanics/CLI/bestiary/aberration/nothic.md) to enter melee while he fights from a distance, summoning Undead defenders if the nothic falls. Jerot fears exposure more than anything else and thus fights to the death.
+Jerot ist damit beschäftigt, das Ritual zu verfeinern, das in der Opfergalerie (Bereich K26) stattfindet. Er ist zu sehr auf seine Arbeit konzentriert, um auf irgendwelche Kämpfe anderswo in den Katakomben zu reagieren, und vertraut darauf, solche Probleme seinen Schergen überlassen zu können. Wenn Eindringlinge seine private Kammer erreichen, befiehltJerot den [[Nothic-mm|Nothic]] in den Nahkampf, während er selbst aus der Distanz kämpft. Sollte der Nothic fallen, beschwörtJerot untote Verteidiger. Seine Enttarnung fürchtet er mehr als alles andere und kämpft daher bis zum Tod. 
 
-##### Jerot's Papers
+##### Jerots Papiere
 
-Jerot's notes on the ritual describe draining and sacrificing a victim's secrets and knowledge to Vecna. His notes illustrate the first test of the ritual, which used a disloyal cultist as the victim. For his future attempts, Jerot has chosen townspeople from Neverwinter whom he believes have particularly meaningful secrets. Their secrets are the cultists' best offerings to Vecna.
+Jerots Notizen zum Ritual beschreiben, wie man einem Opfer seine Geheimnisse und sein Wissen entreißt und Vecna darbringt. Sie schildern den ersten Durchlauf des Rituals, bei dem eine abtrünnige Kultistin das Opfer war. Für die weiteren Durchläufe hat Jerot Bürger von Niewinter ausgewählt, von denen er glaubt, dass sie besonders bedeutsame Geheimnisse hüten. Solche Geheimnisse sind die besten Opfergaben der Kultisten für Vecna. 
 
-A character who examines Jerot's notes and succeeds on a DC 14 Intelligence (Investigation) check finds mention of magical phenomena called "Crevices of Dusk" that sometimes appear in Neverwinter. The notes indicate that these magical gateways connect to a plane populated by Undead, but it's clear Jerot doesn't know much more than that. His notes indicate his resolve to learn more after he finishes his current experiments in stealing and offering secrets to Vecna.
+Ein Charakter, der Jerots Notizen untersucht und einen SG-14-Intelligenzwurf (Nachforschungen) besteht, stößt auf die Erwähnung magischer Phänomene namens „Dämmerrisse", die in Niewinter schon einige Male aufgetreten sind. Aus den Notizen geht hervor, dass diese magischen Tore zu einer Ebene führen, die von Untoten bevölkert ist, aber es wird deutlich, dass Jerot nicht viel mehr darüber weiß. Offenbar will er nach Abschluss seiner aktuellen Experimente, Vecna Geheimnisse darzubringen, mehr über das Phänomen herausfinden.  
 
-##### Secret Door
+##### Geheimtür 
 
-A tapestry depicting a feasting ghoul conceals a secret, sliding door leading to a short tunnel between this room and area C16. A character who searches behind the tapestry and succeeds on a DC 10 Wisdom (Perception) check finds the secret door. Once inside the secret passage, a character can easily spot and open the secret door at the opposite end.
+Ein Wandbehang, der einen fressenden Ghul darstellt, tarnt eine geheime Schiebetür, die zu einem kurzen Tunriel zwischen diesem Raum und Bereich K16 führt. Ein Charakter, der hinter dem Wandbehang nachsieht und einen SG-10-Weisheitswurf ([[Wahrnehmung]]) besteht, entdeckt die Geheimtür. Im Geheimgang kann ein Charakter die Geheimtür am anderen Ende problemlos entdecken und öffnen. 
 
-#### C26: Sacrifice Gallery
+#### K26: Opfergalerie 
 
 > [!readaloud] 
 > 
-> This enormous room features raised galleries at the east and west ends. Six chanting figures ring the east gallery, their hands raised toward a spherical cage hanging from the 30-foot-tall ceiling. The ritual's leader chants from the west balcony, surrounded by hunched, one-eyed creatures with knobby hides. A terrified elf struggles in the dangling cage.
+> Dieser riesige Raum hat am östlichen und am westlichen Ende jeweils eine erhöhte Galerie. Sechs Gestalten stehen singend auf der östlichen Galerie und haben die Hände zu einem runden Käfig erhoben, der von der neun Meter hohen Decke hängt. Auf der westlichen Galerie steht die Ritualleiterin und singt ebenfalls. Bei ihr befinden sich einige gebeugte einäugige Kreaturen mit knotiger Haut. Im hängenden Käfig befindet sich ein verstörter Elf. 
 ^090
 
-![Eldon Keyward](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/019-01-010-eldon-keyward.webp#center)
+![Eldon Keyward](Vecna-Vorabend_der_Verdammnis/img/019-01-010-eldon-keyward.webp#center)
 
-This room's floor is 10 feet lower than the raised galleries.
+Der Boden dieses Raums ist drei Meter niedriger als die Galerien. 
 
-The room is filled with cultists engaged in an extensive, hours-long ritual to sacrifice the elf Eldon Keyward's secrets to Vecna. The ritual leader is a tall, proud, neutral evil [mage](/3-Mechanics/CLI/bestiary/humanoid/mage.md) named Kendri Nex. The five [nothics](/3-Mechanics/CLI/bestiary/aberration/nothic.md) around her attack intruders on sight. Kendri uses her magic defensively, retreating to the room's floor if pressed. Kendri carries keys that unlock all the prisoner cells (areas C5, C11, C18, and C20), but if the characters haven't already rescued the other prisoners, they might not have the chance to do so, as the encounter likely ends with them being shunted through a planar rift.
+Hier halten zahlreiche Kultisten ein langwieriges Ritual ab, um Vecna die Geheimnisse des Elfen Eldon Schlüsselwart zu opfern. Die Ritualleiterin ist eine hochgewachsene, stolze, neutral böse [[Magier-mm|Magierin]] namens Kendri Nex. Die fünf [[Nothic-mm|Nothics]] bei ihr greifen Eindringlinge an, sobald sie diese sehen. Kendri setzt ihre Magie defensiv ein und zieht sich notfalls auf den Boden des Raums zurück. Sie trägt Schlüssel zu allen Gefängniszellen (Bereiche KS, Kll, Kl8 und K20) bei sich, aber wenn die Charaktere die anderen Gefangenen jetzt noch nicht gerettet haben, kommen sie vermutlich nicht mehr dazu, da diese Begegnung wahrscheinlich damit endet, dass sie durch einen Ebenenriss gezogen werden. 
 
-The six neutral evil [cult fanatics](/3-Mechanics/CLI/bestiary/humanoid/cult-fanatic.md) on the raised east gallery don't fight, since they fear interrupting the complicated ritual. They maintain their chanting and wild gesticulations.
+Die sechs neutral bösen [[Kultfanatiker-mm|Kultfanatiker]] auf der östlichen Galerie kämpfen nicht, da sie das komplizierte Ritual nicht unterbrechen wollen. Sie singen und gestikulieren weiter. 
 
-##### The Cage
+##### Der Käfig 
 
-Eldon is a lawful good elf [priest](/3-Mechanics/CLI/bestiary/humanoid/priest.md) who follows Deneir, a god of writing and knowledge. He can't cast spells while he's in the cage. Eldon's cage hangs from a sturdy chain that ends 20 feet above the ground. The door on the cage's side is latched but not locked. Any character who can reach the cage can open its door as an action.
+Eldon ist ein rechtschaffen guter Elf und ein [[Priester-mm|Priester]] des Deneir, Gott der Schriften und des Wissens. Der Elf kann keine Zauber wirken, solange er sich im Käfig befindet. Dieser hängt an einer stabilen Kette, die mit der Decke verbunden ist und sechs Meter über dem Boden endet. Die Tür an der Seite des Käfigs ist zugeklinkt, aber nicht verschlossen. Ein Charakter, der den Käfig erreicht, kann die Tür mit einer Aktion öffnen. 
 
-#### Fight's End
+#### Ende des Kampfes
 
-This fight ends immediately if the characters kill Kendri, silence any of the cult fanatics, or attempt to free Eldon. Energy from the interrupted ritual opens a latent planar rift that shunts Eldon and the characters into the Shadowfell:
+Dieser Kampf endet sofort, wenn die Charaktere Kendri töten, mindestens einen Kultfanatiker zum Schweigen bringen oder versuchen, Eldon zu befreien. Die Unterbrechung des Rituals setzt Energie frei, durch die ein latenter Ebenenriss geöffnet wird. Durch diesen werden Eldon und die Charaktere ins Shadowfell gezogen: 
 
 > [!readaloud] 
 > 
-> A riot of silvery-purple energy fills the room. You feel a sense of space tearing open—then you're falling, and everything goes dark.
+> Es erstrahlt ein Wirbel aus silbrig-violetter Energie. Ihr spürt, wie der Raum selbst aufgerissen wird, wie ihr stürzt - dann wird alles dunkel. 
 ^093
 
-## Escaping Evernight
+## Aus Immernacht entkommen
 
-The cult's disrupted ritual thrusts the characters (along with Eldon) through a Crevice of Dusk, a gap between the Material Plane and the Shadowfell city of Evernight, a gloomy reflection of Neverwinter. The Crevice of Dusk closes immediately after shunting the characters.
+Aufgrund der Unterbrechung des Kultrituals werden die Charaktere samt Eldon durch einen Dämmerriss geschleudert, eine Öffnung zwischen der materiellen Ebene und dem Shadowfell. Dort landen sie in der Stadt lmmernacht, die eine düstere Version Niewinters ist. Der Dämmerriss schließt sich sofort danach wieder. 
 
-The characters experience the following vision:
+Die Charaktere sehen folgende Vision:
 
 > [!readaloud] 
 > 
-> Around the world and across the planes, you perceive innumerable cults of Vecna. They snatch away people and strip their secrets in rituals like the one you stopped. Behind them, the withered form of Vecna gathers the secrets like threads, adding them to a glowing sphere of hidden knowledge in some impossibly distant place. The vision fades into darkness, leaving only Vecna's glaring left eye.
+> Ihr erblickt zahllose Kulte von Vecna in der ganzen Welt und auf allen Ebenen. Sie entführen Leute und entreißen ihnen durch Rituale wie das, welches ihr soeben unterbrochen habt, ihre Geheimnisse. Hinter ihnen sammelt Vecnas verdorrte Gestalt die Geheimnisse wie Fäden und führt sie einer leuchtenden Kugel verborgenen Wissens an einem unfassbar fernen Ort zu. Die Vision verblasst, nur Vecnas starrendes linkes Auge bleibt übrig. 
 ^095
 
-### Link to Vecna
+### Verbindung mit Vecna
 
-The characters each gain a metaphysical link to Vecna, which follows the rules for "blessings" presented in the "Dungeon Master's Guide". Vecna's Link is the result of feedback from the interrupted ritual. Vecna is unaware the characters—or anyone, for that matter—are linked with him, so the god has no reason to sever the tie. The link can manifest as subtly or as obviously as each player wishes, from the sensation of a specific smell when the character thinks of Vecna to a loud noise only they hear when the lich's name is uttered.
+Die Charaktere erhalten jeweils eine metaphysische Verbindung mit Vecna, die sich nach den im _Spielleiterhandbuch_ beschriebenen Regeln für Segen richtet. Diese Verbindung ist das Ergebnis einer Rückkopplung durch das gescheiterte Ritual. Der Gott weiß nicht, dass die Charaktere - oder sonst jemand - mit ihm verbunden sind, und hat daher keine Veranlassung, etwas dagegen zu unternehmen. Die Verbindung kann sich so subtil oder so offenkundig manifestieren, wie die Spieler jeweils wünschen. Vielleicht nehmen die Charaktere einen bestimmten Geruch wahr, wenn sie an den Lich denken, oder sie hören ein lautes Geräusch, wenn sein Name genannt wird. 
 
 > [!readaloud] 
 > 
-> **Vecna's Link.** You gain a special intuition for secrets. You have advantage on Wisdom (Insight) checks. In addition, you can use an action to cast See Invisibility without expending a spell slot. Once you cast that spell in this way, you can't do so again until you finish a long rest.
+> **Verbindung mit Vecna.** Du erhältst eine besondere Intuition für Geheimnisse. Du bist bei Weisheitswürfen ([[Motiv erkennen]]) im Vorteil. Außerdem kannst du eine Aktion verwenden, um Unsichtbares sehen zu wirken, ohne einen Zauberplatz zu verbrauchen. Wirkst du den Zauber auf diese Art, so kannst du dies erst nach einer langen Rast erneut tun. 
 ^097
 
-When the characters acquire this link, remind them about the Power of Secrets rules. Allow them to spend any secrets they've gained so far as usual.
+Wenn die Charaktere diese Verbindung erhalten haben, erinnere sie an die Regeln unter „Die Macht der Geheimnisse". Gestatte ihnen, bisher erworbene Geheimnisse auf diese Art zu verwenden. 
 
-### Evernight
+### Immernacht
 
-![Evernight is a dismal mirr...](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/020-01-011-evernight.webp#center "Evernight is a dismal mirror in the Shadowfell of the city of Neverwinter. The sun never shines here, and ashen fog chokes the sky")
+![Immernacht im Shadowfell ist ein düsterer Spiegel der Stadt Niewinter. Hier scheint niemals die Sonne und ein ewiger Aschenebel erstickt den Himmel.](Vecna-Vorabend_der_Verdammnis/img/020-01-011-evernight.webp#center)
 
-Evernight is a forlorn metropolis in the Shadowfell. It has geography similar to Neverwinter's, but it presents as Neverwinter's dismal opposite. The sun never shines on Evernight, and ash-laden fog rises from lava flowing through the city in place of Neverwinter River, choking the city.
+Immernacht ist eine triste Metropole im Shadowfell. Ihre Geografie entspricht der von Niewinter, allerdings ist Immernacht das düstere Gegenstück Niewinters. Hier scheint niemals die Sonne, und von der Lava, die anstelle des niewinterischen Flusses durch die Stadt fließt, steigen dichte Aschewolken auf. 
 
-While Neverwinter is filled with living creatures trying to build a better future, Evernight is populated by Undead—primarily vampires and ghouls—who prey on each other and on travelers.
+Während Niewinter von lebendigen Kreaturen bevölkert ist, die auf eine bessere Zukunft hinarbeiten, ist Immernacht eine Stadt der Untaten, die über einander und über Reisende herfallen - allen voran Ghule und Vampire. 
 
-Evernight is a crossroads of trade in the Shadowfell and hosts numerous markets, including the lively Corpse Market. There, undead merchants trade in the bodies and blood of the dead—sometimes, the very recently dead.
+Immernacht ist ein Handelsknotenpunkt im Shadowfell und hat zahlreiche Märkte, darunter den gut besuchten Leichenmarkt. Auf diesem verkaufen untote Händler die Leichen und das Blut der Toten - manchmal sind es ganz frische Leichen. 
 
-### Evernight Awakening
+### Erwachen in Immernacht
 
-Since the characters were underground in Neverwinter's graveyard when shunted to Evernight, they're similarly underground in Evernight's graveyard.
+Da die Charaktere sich unter dem Friendhof von Niewinter befanden, als sie nach Immernacht gerieten, befinden sie sich nun unter dem Friedhof von Immernacht. 
 
-Each character appears within an open coffin. The coffins are jumbled near each other in a large, 10-foot-deep grave pit.
+Jeder Charakter erscheint in einem offenen Sarg. Die Särge stehen unregelmäßig und nicht weit voneinander entfernt in einer großen, drei Meter tiefen Grabaushebung. 
 
-Twelve [ghouls](/3-Mechanics/CLI/bestiary/undead/ghoul.md) prowl the area around the party's grave pit. Characters in the grave pit hear the hungry shouts and slavering of approaching ghouls, and you can further ramp up the tension by concealing the total number of ghouls until a character emerges from the pit to look around. The coffin-filled bottom of the grave pit is "difficult terrain". The muddy, sloping sides require a successful DC 10 Strength (Athletics) check to ascend, but moving down them doesn't require a check.
+Zwölf [[Ghul-mm|Ghule]] treiben sich in der Nähe dieser Grabaushebung herum. Die Charaktere in der Grube hören die hungrigen Schreie und das Gegeifer der anrückenden Ghule. Du kannst die Spannung noch weiter steigern, indem du die genaue Anzahl der Ghule geheim hältst, bis ein Charakter aus der Grube schaut und sich umblickt. Der Grund der Grube mit den Särgen ist schwieriges Gelände. Die Wände der Grube sind steil und glitschig. Der Aufstieg erfordert einen erfolgreichen SG-10-Stärkewurf ([[Athletik]]). Hinab gelangt man allerdings ohne Wurf. 
 
-#### Eldon's Latest Imprisonment
+#### Eldons neue Gefangenschaft
 
-In addition to the open coffins for each character, the grave pit contains another coffin wedged into the dirt and nailed shut. Eldon Keyward is confined within it.
+Die Grube enthält nicht nur die offenen Särge der Charaktere, sondern noch einen weiteren, der in der Erde steckt und zugenagelt ist. In diesem befindet sich Eldon Schlüsselwart. 
 
-Eldon grunts for aid and pounds at the wood. Unless a character uses an action to open Eldon's coffin, he kicks a side panel free and squirms out after 1 minute of effort. If the fight with the ghouls is still going on, Eldon helps as best he can.
+Eldon ringt nach Luft und hämmert gegen das Holz. Falls nicht ein Charakter eine Aktion verwendet, um den Sarg zu öffnen, tritt Eldon binnen einer Minute ein Brett an der Seite kaputt und windet sich durch die Lücke. Wenn der Kampf gegen die Ghule noch andauert, hilft Eldon nach besten Kräften. 
 
-Once the fight is over, Eldon shares the following information, either all at once or in fragments:
+Ist der Kampf vorbei, teilt Eldon die folgenden Informationen komplett oder teilweise mit: 
 
 > [!readaloud] 
 > 
-> "Very bad, but not surprising. I don't know if the cultists planned to send us here, but here we are. Neverwinter has cracks between our world and the Shadowfell—Crevices of Dusk, they're called. Planar travelers sometimes slip through.
+> "Übel, aber nicht überraschend. Ich weiß nicht, ob die Kultisten uns mit Absicht hergeschickt haben, aber hier sind wir nun mal. In Niewinter gibt es Risse zwischen unserer Welt und dem Shadowfell - sie heißen Dämmerrisse. Manchmal gelangen Ebenenreisende hindurch. 
 > 
-> "We're in a nasty city called Evernight. It's an evil echo of Neverwinter, populated by undead. We arrived in Evernight's graveyard because we left from Neverwinter's graveyard.
+> "Wir sind in einer üblen Stadt namens lmmernacht. Sie ist das böse Echo von Niewinter und von Untoten bevölkert. Wir sind auf dem Friedhof von lmmernacht gelandet, weil wir auch in Niewinter auf dem Friedhof waren. 
 > 
-> "There's no evidence of the crevice we came through. It doesn't surprise me that it's gone; stable crevices are rarer than spontaneous ones. But we need a stable one to get back to Neverwinter.
+> "Der Riss, durch den wir gekommen sind, ist offenbar verschwunden. Das überrascht mich nicht. Stabile Risse sind seltener als spontane. Aber wir brauchen einen stabilen Riss, um nach Niewinter zurückzukommen. 
 > 
-> "We shouldn't spend a lot of time traipsing through an undead-infested metropolis, hoping to stumble across a gateway to Neverwinter. That feels unsafe. Maybe we should ask around inconspicuously. There's a market east of the Neverwinter Graveyard, which means it's likely there's a market east of Evernight's graveyard, too. But we should be careful."
+> "Wir sollten uns nicht zu lange in einer Metropole voller Untoter aufhalten, um nach einem Weg nach Niewinter zu suchen. Das ist zu riskant. Vielleicht sollten wir uns unauffällig umhören. Östlich vom Friedhof in Niewinter gibt es einen Markt. Also gibt es östlich vom Friedhof in lmmernacht vermutlich auch einen. Aber wir müssen unbedingt vorsichtig sein." 
 ^09d
 
-The characters have little to go on other than Eldon's suggestion. Other explorations of Evernight are both dangerous and fruitless, so you should eventually steer the party back to the market even if they venture elsewhere.
+Den Charaktere bleibt nicht viel anderes übrig, als Eldons Vorschlag zu folgen. Weitere Erkundungen von Immernacht sind so gefährlich wie sinnlos. Lenke die Abenteurergruppe zum Markt zurück, wenn sie sich anderswo hinwagen. 
 
-The characters don't have other encounters as they make their way through Evernight's graveyard, though they hear howls and cries through the fog that let them know the graveyard isn't a safe place to linger.
+Es gibt keine weiteren Begegnungen, während die Charaktere sich über den Friedhof von Immernacht bewegen. Allerdings hören sie immer wieder Gebrüll und Geheule durch den Nebel, was ihnen verdeutlicht, dass der Friedhof kein Ort ist, an dem sie sich länger aufhalten sollten. 
 
-#### Eldon's Notebook
+#### Eldons Notizbuch
 
-If the characters found Eldon's notebook and return it to him, he's grateful and immediately starts adding notes about the Shadowfell and Evernight.
+Wenn die Charaktere Eldons Notizbuch gefunden haben und es ihm wiedergeben, ist er dankbar und beginnt sofort, Notizen über das Shadowfell und Immernacht hinzuzufügen. 
 
-### The Corpse Market
+### Der Leichenmarkt
 
 > [!readaloud] 
 > 
-> The wall around Evernight's graveyard is riddled with gaps, and the ground near it is covered in fallen rubble, so leaving the graveyard is easy. Directly east of the graveyard, a large market stretches for blocks in every direction. Tattered canvas and shrouds separate the numerous stalls. Feeble moonlight and flickering torches illuminate the city, regardless of the time of day.
+> Die Friedhofsmauer ist an zahlreichen Stellen kaputt, und ihre Trümmer liegen daneben verstreut. Es ist also kein Problem, den Friedhof zu verlassen. Gleich östlich vom Friedhof erstreckt sich ein großer Markt über mehrere Straßenzüge in alle Richtungen. Die zahlreichen Marktstände sind durch zerrissene Leinwände und Leichentücher voneinander abgegrenzt. Schwaches Mondlicht und Aackernde Fackeln sind zu jeder Tagesund Nachtzeit die einzige Beleuchtung in der Stadt.
 ^0a0
 
-Everything in the market exhibits pale, subdued colors, but the atmosphere is lively as ghouls, skeletons, and vampires meander from stall to stall.
+Fahle, trübe Farben beherrschen den Markt, doch die Atmosphäre ist geschäftig. Ghule, Skelette und Vampire schlendern von Stand zu Stand.
 
-#### The Market's Goods
+#### Waren des Markts
 
-Goods for sale in the Corpse Market include ghoulish remains intended for consumption, such as fingers pickled in brine, jars of blood, and wrapped organs. Shops sell bouquets of dead flowers, frayed burial finery, jewelry displayed on severed hands, elegant canopic jars, and the like.
+Auf dem Leichenmarkt werden grausige Überreste für den Verzehr verkauft, beispielsweise eingelegte Finger, Weckgläser mit Blut und eingewickelte Organe. Ferner werden Sträuße aus toten Blumen, zerfaserte Totengewänder, Schmuck an abgehackten Händen, elegante Kanopengläser und derlei mehr feilgeboten.
 
-#### Market Clientele
+#### Kundschaft des Markts
 
-The Corpse Market occasionally sees living visitors, though the characters are the only ones present now. If the characters don't attempt to hide or disguise themselves, they receive sidelong stares from merchants and customers. Everyone assumes the characters wouldn't be here unless they were under the protection of an influential figure in the city or were powerful travelers in their own right.
+Der Leichenmarkt wird gelegentlich auch von lebendigen Kreaturen besucht. Derzeit sind die Charaktere jedoch die einzigen. Wenn sie nicht versuchen, sich zu verbergen oder zu tarnen, ernten sie scheele Blicke von Händlern und Kundschaft. Es wird jedoch angenommen, dass die Charaktere nicht hier wären, wenn sie nicht unter dem Schutz einer einflussreichen Person in der Stadt stünden oder selbst über erhebliche Macht verfügten.
 
-#### Meeting Sangora
+#### Begegnung mit Sangora
 
-Shortly after the characters enter the Corpse Market, they draw the attention of a vampire merchant named Sangora. When she sees the characters, she spreads her cloak wide and shows sharp fangs in her smile. She says:
+Die Charaktere sind noch nicht lange auf dem Leichenmarkt, da erregen sie die Aufmerksamkeit einer Vampirhändlerin namens Sangora. Als diese ihrer ansichtig wird, breitet sie ihren Mantel aus und zeigt lächelnd ihre langen Eckzähne. Sie sagt:
 
 > [!readaloud] 
 > 
-> "I am Sangora, proprietor of Sangora Sanguinaries. You're not likely interested in a cup of warm blood, but perhaps you need something else? Something more ephemeral, like directions? Or knowledge? I've been in this city a long, long time."
+> „Ich bin Sangora, Inhaberin von Sangoras Sanguinarien. Ich kann Euch wohl nicht für einen schönen Becher warmen Bluts interessieren? Aber vielleicht braucht Ihr ja etwas anderes? Etwas weniger Dingliches wie eine Wegbeschreibung? Oder Wissen? Ich wohne schon überaus lange in dieser Stadt."
 ^0a4
 
-Sangora is a centuries-old [vampire](/3-Mechanics/CLI/bestiary/undead/vampire.md) with sunken eyes and a shock of long, white hair. She is inquisitive and happy to gossip.
+[[Sangora-veor|Sangora]] ist eine Jahrhunderte alte [[Vampir-mm|Vampirin]]. Ihre Augen liegen tief in den Höhlen, und sie hat einen langen schlohweißen Haarschopf. Sie ist neugierig und tratscht gerne.
 
-![Sangora](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/021-01-012-sangora.webp#center)
+![Sangora](Vecna-Vorabend_der_Verdammnis/img/021-01-012-sangora.webp#center)
 
-If the characters don't seem inclined to speak with Sangora, Eldon blurts out a question about finding a Crevice of Dusk.
+Wenn die Charaktere nicht geneigt sind, mit Sangora zu sprechen, platzt Eldon mit der Frage heraus, wie sich ein Dämmerriss finden ließe.
 
-Sangora sells information at a higher profit than she sells blood, and she's full of useful tidbits about the city. She charges 20 gp for each question she answers, but she also accepts an answer to a probing question instead of payment (primarily about where the characters came from, how they got here, and what they're looking for in Evernight). Sangora isn't looking for a fight.
+Sangora verkauft Informationen teurer als Blut und verfügt über einen reichen Schatz an nützlichem Wissen über die Stadt. Sie nimmt für jede Antwort auf eine Frage 20 GM, akzeptiert aber auch Antworten auf eigene Fragen als Bezahlung - vor allem darüber, woher die Charaktere kommen, wie sie hergeraten sind und wonach sie in Immernacht suchen. Sangora will nicht kämpfen.
 
-Sangora can share the following points:
+Sie kann folgende Informationen mitteilen:
 
-- **Evernight.** Sangora provides background about the city of Evernight, as presented above.  
-- **Neverwinter.** Sangora hasn't been to Neverwinter in more than a decade and remembers the place as a lawless ruin. At that time, the populace viewed Lord Neverember as a manipulative tyrant. Sangora knows that gateways called Crevices of Dusk occasionally appear in Evernight and allow passage to and from Neverwinter.  
-- **Crevices of Dusk.** Sangora explains that residents of both Evernight and Neverwinter dislike these portals being used indiscriminately. Those who know the location of stable Crevices of Dusk either guard or hide them.  
-- **Stable Crevice of Dusk.** Sangora tilts her head with a thoughtful look before revealing that she knows of a stable Crevice of Dusk in a tomb of one of Evernight's former living families, the Dolindars. The Dolindar tomb is in Evernight's graveyard, and Sangora provides true directions to it.  
-- **Dolindars.** Sangora explains that the Dolindar family was exiled to the Shadowfell for reasons they never shared. The family studied wizardry and knew much about planar gates despite being unable to use them due to a family curse. They were miserable and lonely in life.  
+- **Dämmerrisse.** Sangora erklärt, dass weder die Bewohner von Immernacht noch die von Niewinter wollen, dass diese Portale übermäßig frequentiert werden. Wer stabile Dämmerrisse kennt, bewacht sie entweder, oder er verbirgt sie.
+- **Die Dolindars.** Sangora erklärt, dass die Dolindars im Shadowfell im Exil waren, die Gründe dafür jedoch nie jemandem mitgeteilt hatten. Sie studierten Zauberkunde und wussten viel über Ebenentore, die sie aufgrund eines Familienfluchs jedoch selbst nicht nutzen konnten. Sie waren im Leben unglücklich und einsam.
+- **lmmernacht.** Sangora bietet Hintergrundwissen über Immernacht wie oben ausgeführt.
+- **Niewinter.** Sangora war seit über zehn Jahren nicht mehr in Niewinter und erinnert sich an die Stadt als gesetzlose Ruine. Damals betrachteten die Einwohner Vogt Nieglut als manipulativen Tyrannen. Sangora weiß, dass in Immernacht gelegentlich Passagen nach Niewinter erscheinen, sogenannte Dämmerrisse.
+- **Stabiler Dämmerriss.** Sangora neigt nachdenklich den Kopf, ehe sie enthüllt, dass sie von einem Dämmerriss in der Gruft der Dolindars weiß, einer der ehemaligen lebendigen Familien von Immernacht. Die DolindarGruft befindet sich auf dem Friedhof von Immernacht und Sangora gibt den Charakteren eine korrekte ' Wegbeschreibung.
 
-## Dolindar Tomb
+## Die Dolindar-Gruft
 
-The party's best next stop is the Dolindar tomb, in a part of Evernight's graveyard the characters haven't yet seen. When the characters are ready to explore the Dolindar tomb, Sangora can point the way.
+Die Abenteurergruppe sollte sich am besten als Nächstes in die Dolindar-Gruft begeben. Diese befindet sich in einem Bereich des Friedhofs, den die Charaktere noch nicht gesehen haben. Wenn die Charaktere bereit sind, die Dolindar-Gruft zu erkunden, kann Sangora ihnen den Weg weisen .
 
-### General Features
+### Allgemeine Merkmale
 
-The following features are common throughout the Dolindar tomb.
+Folgende Merkmale gelten für die gesamte Dolindar-Gruft.
 
-#### Unending Isolation
+#### Beleuchtung
 
-The tomb isn't precisely haunted, but the isolation the Dolindars felt living in a city of the dead suffuses their tomb. Creatures in the tomb or the portico outside it can't muster the will to support others and thus can't take the Help action.
+In der Gruft ist es dunkel. Gebietsbeschreibungen setzen voraus, dass die Charaktere eine Lichtquelle oder andere Möglichkeiten haben, um im Dunkeln zu sehen.
 
-#### Stone Construction
+#### Decken
 
-The tomb is made of old, durable stone.
+Die Decken sind in der gesamten Gruft drei Meter hoch.
 
-#### Lighting
+#### Steinkonstruktion
 
-The tomb is dark. Area descriptions assume the characters have a light source or some other means of seeing in the dark.
+Die Gruft besteht aus stabilem altem Stein.
 
-#### Doors
+#### Türen
 
-The heavy doors throughout the tomb are made of stone and grind noisily when open and shut. No doors are locked except the puzzle door in area B5.
+Die schweren Türen in der Gruft bestehen aus Stein und scheuern laut, wenn sie bewegt werden. Bis auf die Rätseltür in Bereich GS sind alle Türen unverschlossen.
 
-#### Ceilings
+#### Unendliche Isolation
 
-Ceilings are 10 feet high throughout the tomb.
+In der Gruft spukt es zwar nicht direkt, doch die Einsamkeit der Dolindars in einer Stadt der Toten durchzieht die Gruft. Kreaturen in der Gruft und im Säuleneingang können nicht den Willen aufbringen, anderen zu helfen, und daher die Helfen-Aktion nicht ausführen.
 
-### Dolindar Tomb Locations
+### Orte in der Dolindar-Gruft
 
-The following locations are keyed to map 1.2.
+Die folgenden Orte sind auf Karte 1.2 dargestellt.
 
 > [!gallery]
-> ![Map 1.2: Dolindar Tomb](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/022-1-02-dolindar-tomb.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/023-1-02-dolindar-tomb-player.webp#gallery)
+> ![Map 1.2: Dolindar Tomb](Vecna-Vorabend_der_Verdammnis/img/022-1-02-dolindar-tomb.webp#gallery)
+> ![Player Version](Vecna-Vorabend_der_Verdammnis/img/023-1-02-dolindar-tomb-player.webp#gallery)
 
-#### B1: Portico
+#### G1: Säuleneingang
 
 > [!readaloud] 
 > 
-> A roof supported by stone pillars extends from the Dolindar tomb into the weedy yard of uneven earth. The stone door to the tomb is engraved with the word "DOLINDAR" above it.
+> Ein von Steinsäulen getragenes Dach erstreckt sich von der Dolindar-Gruft über diesen von Unkraut überwucherten Friedhofsbereich. über die Steintür zur Gruft wurde der Name „DOLINDAR" eingehauen.
 ^0ae
 
-Four [vampire spawn](/3-Mechanics/CLI/bestiary/undead/vampire-spawn.md) catch up to the party when the characters reach the door to the tomb. After the characters left her, Sangora detailed her conversation to her vampire spawn assistants. The spawn decided to make a meal of the characters, assuming that Sangora would never discover their perfidy.
+Wenn die Charaktere den Eingang zur Gruft erreichen, wird die Abenteurergruppe von vier [[Vampirbrut-mm|Vampirbruten]] eingeholt. Sangora hat ihren Vampirbrut-Assistenten vom Gespräch mit den Charakteren erzählt. Die Assistenten haben daraufhin beschlossen, sich an den Charakteren gütlich zu tun. Sie gehen davon aus, dass Sangora nichts von ihrer Perfidie erfahren wird.
 
-The ground in the portico is swept and free of weeds, thanks to the efforts of the ghost Newmy (see area B2). The entrance to the tomb isn't locked. It opens onto a small room containing a steep spiral staircase leading 20 feet downward.
+Der Boden des Säuleneingang ist dank der Arbeit des Geists Nuumi (siehe Bereich G2) gefegt und unkrautfrei. Der Eingang zur Gruft ist unverschlossen. Er führt in einen kleinen Raum mit einer steilen Wendeltreppe, die sechs Metfllr in die Tiefe führt.
 
-#### B2: Hall
+#### G2: Halle
 
 > [!readaloud] 
 > 
-> Upright slabs are set into the walls of this large burial chamber. Each slab is carved with the faded likeness of a different robed human above indecipherable writing. One of these slabs is blank with a piece of paper stuck to it.
+> In die Wände dieser großen Begräbniskammer wurden aufrechte Steinplatten eingesetzt. Die Platten tragen - mittlerweile unkenntliche - Abbilder von in Roben gehüllten Menschen sowie Schriftzüge, die nicht mehr zu entziffern sind. Nur eine der Platten wurde nicht auf diese Weise bearbeitet. An ihr haftet ein Stück Papier.
 ^0b0
 
-The lesser-known Dolindars are interred here, buried in the alcoves behind the slabs. The images of the dead and their names have worn away. If the characters open these slabs, they find only dust and bones inside.
+Hier liegen die weniger bekannten Dolindars. Sie wurden in den Alkoven hinter den Steinplatten bestattet. Die Namen und die Bildnisse der Toten sind nicht mehr zu erkennen. Wenn die Charaktere diese Platten öffnen, finden sie dahinter nur Staub und Knochen.
 
-The piece of paper is on a slab in front of an open nook that never held a dead Dolindar. Instead, a ghost custodian named Newmy lives inside. She's affixed a piece of paper with "Newmy's Room" written on it in Common. If anyone approaches the slab, Newmy pops out, sputtering apologies.
+Das Papierstück befindet sich an einer Platte vor einem offenen Alkoven, in dem nie ein Dolindar bestattet wurde. Stattdessen wohnt eine Geisterwächterin namens Nuumi darin. Sie hat einen Zettel mit der Aufschrift „Nuumis Kammer" in der Gemeinsprache an der Platte befestigt. Wenn sich jemand der Platte nähert, springt Nuumi hervor und stammelt Entschuldigungen.
 
-Newmy is a lawful neutral [ghost](/3-Mechanics/CLI/bestiary/undead/ghost.md) who was once a moon elf. She can cast Prestidigitation at will. Newmy isn't quite five feet tall, and she has frizzy blue hair and pale skin shot through with blue veins. She's not interested in fighting, since fights make messes.
+Nuumi ist ein rechtschaffen neutraler [[Geist-mm|Geist]]. Einst war sie eine Mondelfe. Sie kann beliebig oft Taschenspielerei wirken. Nuumi ist etwa 1,5 Meter groß, hat krauses blaues Haar und blasse, von blauen Adern durchzogene Haut. Sie ist nicht an Kämpfen interessiert, weil sie Dreck machen.
 
-![Newmy](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/024-01-014-newmy-ghost.webp#center)
+![Nuumi](Vecna-Vorabend_der_Verdammnis/img/024-01-014-newmy-ghost.webp#center)
 
-##### Talking with Newmy
+##### Mit Nuumi reden
 
-Newmy would rather talk than fight. She shares the following points:
+Nuumi will lieber reden als kämpfen. Sie teilt Folgendes mit:
 
-- **Crypt Cleaner.** The Dolindars hired Newmy and paid her several lifetimes of wages up-front to keep their tomb clean shortly after the tomb was built—more years ago than Newmy can remember. When Newmy died, she returned as a ghost to continue her duties for as long as she was contracted.  
-- **Lonely Family.** The Dolindars were all lonely, and there weren't many of them. They didn't like Evernight but couldn't leave it for some reason.  
-- **Puzzle Buttons.** Newmy doesn't know anything about a rift or a Crevice of Dusk, but she remembers some "puzzle buttons" deeper in the tomb that she doesn't know how to work. Maybe they lead somewhere special.  
-- **Restless Dead.** Newmy doesn't go through the doors at the end of the hall anymore. The Dolindars buried down there "aren't resting right," and Newmy is afraid of them. She hasn't been that way in years and doesn't remember what's there.  
+- **Einsame Familie.** Die Dolindars waren alle einsam, und es gab nicht sehr viele von ihnen. Sie mochten Immernacht nicht, konnten die Stadt aber aus irgendeinem Grund nicht verlassen.
+- **Gruftreinigerin.** Die Dolindars haben Nuumi kurz nach dem Bau der Gruft eingestellt und für mehrere Lebzeiten im Voraus bezahlt, damit sie die Gruft in Ordnung hält - Nuumi kann sich nicht mehr erinnern, wie viele Jahre das schon her ist. Als Nuumi starb, kehrte sie als Geist zurück, um ihre Pflichten für die übrige Vertragsdauer zu erfüllen.
+- **Rastlose Tote.** Nuumi geht nicht mehr durch die Türen am Ende der Halle. Die Dolindars, die dort bestattet wurden, „ruhen nicht richtig", und Nuumi hat Angst vor ihnen. Sie war seit Jahren nicht dort und weiß nicht mehr, was sich dort befindet.
+- **Rätselknöpfe.** Nuumi weiß nichts über Dämmer- oder sonstige Risse, aber sie erinnert sich an „Rätselknöpfe" weiter unten in der Gruft. Sie hat keine Ahnung, wozu sie gut sind. Vielleicht führen sie ja an einen besonderen Ort.
 
-##### Newmy's Room
+##### Nuumis Kammer
 
-Newmy rests in a burial nook large enough to hold the corpse of a Medium creature. The nook contains old rags and a decrepit broom. Newmy considers it her personal space and grumbles if anyone seems intent on disturbing it.
+Nuumi ruht in einem BegräbnisAlkoven, in den der Leichnam einer mittelgroßen Kreatur passt. Im Alkoven liegen alte Lumpen und ein abgenutzter Besen. Nuumi betrachtet den Ort als ihren und grummelt, wenn jemand sich anschickt, ihn aufzusuchen.
 
-#### B3: Lost Dolindars
+#### G3: Verlorene Dolindars
 
 > [!readaloud] 
 > 
-> Two stone coffins in this room have been broken open, littering the floor with rubble and dust. A creature with too many arms and spikes in place of hands taps at the room's walls.
+> In diesem Raum stehen zwei Steinsärge. Sie wurden aufgebrochen, und der Boden ist mit Trümmern und Staub bedeckt. Eine Kreatur mit zu vielen Armen und Stacheln anstelle von Händen tippt an die Wände des Raums.
 ^0b4
 
-The Dolindar siblings buried here were warped into two [lost sorrowsworn](/3-Mechanics/CLI/bestiary/monstrosity/lost-sorrowsworn-mpmm.md) (see appendix A). A visible sorrowsworn shrieks in rage and attacks anyone she can see. A second sorrowsworn is resting inside one of the broken coffins, initially out of sight but quick to join his sibling in a fight. The sorrowsworn fight until destroyed.
+Die hier bestatteten Dolindar-Geschwister wurden in zwei [[Verlorener_Kummergeschworener-mpmm|Verlorene Kummergeschworene ]](siehe Anhang A) verwandelt. Eine Kummergeschworene ist zu sehen, kreischt wütend und greift jeden an, den sie sehen kann. Der zweite Kummergeschworene ruht in einem der kaputten Särge und ist zunächst nicht zu sehen, steht seiner Schwester aber rasch im Kampf bei. Die Kummergeschworenen kämpfen, bis sie zerstört werden.
 
-##### Treasure
+##### Schätze
 
-The rubble includes the nameplates that once adorned the coffins. One reads, "Nolan Dolindar, Beloved Brother" and the other reads, "Evisha Dolindar, Beloved Sister." Each silver nameplate is worth 75 gp.
+Im Schutt liegen die Namenstafeln, die einst die Särge zierten. Auf einer steht „Nolan Dolindar, geliebter Bruder", auf der anderen „Evisha Dolindar, geliebte Schwester".Jede Namenstafel besteht aus Silber und ist 75 GM wert.
 
-#### B4: Vault
+#### G4: Gewölbe
 
 > [!readaloud] 
 > 
-> This vault contains six pedestals, each bearing treasure.
+> Dieses Gewölbe enthält sechs Sockel mit Schätzen darauf.
 ^0b7
 
-Carvings encircling the base of each pedestal read, "What good are treasures when home is denied?"
+Der Fuß jedes Sockels trägt folgende Inschrift: „Wozu Schätze, wenn die Heimat verweigert wird?"
 
-##### Treasure
+##### Schätze
 
-The following Dolindar family treasures sit atop the pedestals:
+Auf den Sockeln befinden sich folgende Schätze der Familie Dolindar:
 
-- 2,200 gp in neatly stacked piles  
-- A golden helmet worth 280 gp  
-- A Driftglobe with a map of the gate towns of the Outlands carved on it  
-- A Necklace of Adaptation bearing the inscription "My breath is yours, Kevetta—take it"  
-- A book titled *Out of the Endless Prison*, outlining methods of escaping the prison-plane of Carceri, worth 500 gp to a planar scholar (such as Eldon, who promises to buy the book once returned to Neverwinter)  
-- A snow globe containing a miniature replica of the city of Neverwinter, worth 350 gp  
+- 2.200 GM in ordentlichen Stapeln
+- Ein goldener Helm im Wert von 280 GM
+- Eine [[Schwebekugel-dmg|Schwebekugel]], in die eine Karte der Stadttore der Außenlande eingeschnitten wurde
+- Eine [[Halskette_der_Anpassung-dmg|Halskette der Anpassung]] mit der Inschrift „Mein Atem ist der Eure, Kevetta - nehmt ihn" 
+- Ein Buch mit dem Titel _Flucht aus dem Endlosen Kerker_, das Methoden zum Entkommen aus der GefängnisEbene Carceri beschreibt und Ebenengelehrten wie Eldon, der verspricht, das Buch nach der Rückkehr nach Niewinter zu kaufen, 500 GM wert ist.
+- Eine Schneekugel mit einer Miniatur von Niewinter im Wert von 350 GM
 
 #### B5: Puzzle Door
 
 > [!readaloud] 
 > 
-> The door in the east wall of this otherwise empty room bears the inscription "DOLINDAR" above "NO WORLD TO RETURN." Every letter of each word is set into the wall on a separate tile.
+> Die Tür in der Ostwand dieses ansonsten leeren Raums trägt die Inschrift „DOLINDAR", darunter „FERN UNSERER HEIMAT SCHLAFEND" Jeder Buchstabe befindet sich auf einem separaten Feld. 
 ^0ba
 
-The door is sealed with a puzzle that requires pushing the right letter tiles in sequence. A pushed letter makes its whole word sink into the door with a click. The door unlocks when the correct combination is input. (Pushing a second letter in the same word doesn't do anything.) The correct combination, which causes the wall to slide aside, is to push the letters spelling ALONE in this order:
+Die Tür ist mit einem Rätsel versiegelt: Die Buchstabenfelder müssen in der richtigen Reihenfolge gedrückt werden. Wird ein Buchstabe gedrückt, so versinkt das gesamte Wort mit einem Klicken in der Tür. Wird die richtige Kombination eingegeben, so öffnet sich die Tür. (Wird im selben Wort ein zweiter Buchstabe gedrückt, so geschieht nichts.) Die richtige Kombination, welche die Wand zur Seite gleiten lässt, besteht aus den Buchstaben FLUCH in dieser Reihenfolge: 
 
-**A** in DOLINDAR
+**F** in FERN
 
-**L** in WORLD
+**L** in DOLINDAR
 
-**O** in TO
+**U** in UNSERER
 
-**N** in NO
+**C** in SCHLAFEND
 
-**E** in RETURN
+**H** in HEIMAT
 
-If the five words sink into the wall in the wrong order, or if the wrong letters are used to push them in, all five words reset with a wave of painful loneliness. Creatures in the room must make a DC 16 Charisma saving throw, taking `dice:4d10|noform|noparens|avg|text(22)` (`4d10`) psychic damage on a failed save or half as much damage on a successful one. If the characters have a hard time figuring out this puzzle, Eldon gives them hints. Eldon stays at a safe distance from the trap and doesn't take damage if it's triggered.
+Wenn die fünf Wörter in der falschen Reihenfolge in die Wand sinken oder falsche Buchstaben gedrückt werden, ist eine Welle schmerzlicher Einsamkeit spürbar, und alle versenkten Wörter schnellen wieder aus der Wand.Jede Kreatur im Raum muss einen SG-16-Charismarettungswurf ausführen. Scheitert der Wurf, so erleidet sie `dice:4d10|noform|noparens|avg|text(22)` (`4d10`) psychischen Schaden, anderenfalls die Hälfte. Wenn die Charaktere dieses Rätsel nicht alleine lösen können, gibt Eldon ihnen Hinweise. Dabei hält er sich in sicherer Entfernung von der Falle und erleidet keinen Schaden, wenn sie ausgelöst wird. 
 
-The first time a character pushes the tiles incorrectly, they see a small mechanism below the phrase "NO WORLD TO RETURN." This mechanism is a lock. As an action, a character with thieves' tools can use them to try to pick the lock, doing so with a successful DC 16 Dexterity (Sleight of Hand) check. Picking the lock has the same effect as solving the puzzle, granting access to area B6.
+Wenn die Felder erstmalig falsch gedrückt werden, ist ein kleiner Mechanismus unter dem Satz „FERN UNSERER HEIMAAT SCHLAFEND" sichtbar. Dieser Mechanismus ist ein Schloss. Ein Charakter mit Diebeswerkzeug kann als Aktion versuchen, das Schloss damit und mit einem erfolgreichen SG-16Geschicklichkeitswurf (Fingerfertigkeit) zu knacken. Dies hat den gleichen Effekt wie das Lösen des Rätsels und gewährt Zugang zum Bereich G6. 
 
-#### B6: Matriarch's Chamber
+#### B6: Kammer der Matriarchin
 
-![The matriarch Kevetta Doli...](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/025-01-013-kevetta-dolindar.webp#center "The matriarch Kevetta Dolindar has become a monster called a lonely sorrowsworn")
+![The matriarch Kevetta Doli...](Vecna-Vorabend_der_Verdammnis/img/025-01-013-kevetta-dolindar.webp#center "The matriarch Kevetta Dolindar has become a monster called a lonely sorrowsworn")
 
 > [!readaloud] 
 > 
-> On the far side of this room rests a stone coffin. Between the door and the coffin, the floor is studded with a sharp metal blades. A person-shaped figure with elongated arms lurks near the coffin.
+> Am anderen Ende dieses Raums steht ein steinerner Sarg. Der Boden zwischen Tür und Sarg ist mit scharfen Metallklingen gespickt. In der Nähe des Sarges lauert eine menschenähnliche Gestalt mit verlängerten Armen. 
 ^0bc
 
-Isolation warped the matriarch of the Dolindar family, Kevetta, into a [lonely sorrowsworn](/3-Mechanics/CLI/bestiary/monstrosity/lonely-sorrowsworn-mpmm.md) (see appendix A). She remains near her coffin and uses her harpoon arms to attack anyone who enters the room. She fights until destroyed but doesn't pursue foes who flee.
+Die Einsamkeit hat [[Kevetta_Dolindar-veor|Kevetta]], die Matriarchin der Familie Dolindar, in eine [[Einsamer_Kummergeschworener-mpmm|Einsame Kummergeschworene]] (siehe Anhang A) verwandelt. Sie bleibt in der Nähe ihres Sargs und setzt ihre Harpunenarme ein, um jeden anzugreifen, der den Raum betritt. Sie kämpft, bis sie zerstört wird, verfolgt aber keine fliehenden Gegner. 
 
-##### Blades
+##### Klingen
 
-The blades on the floor are "difficult terrain". When a creature moves into or through the blades on its turn, it takes `dice:2d4|noform|noparens|avg|text(5)` (`2d4`) slashing damage for every 5 feet it travels. A character can use an action to pull a lever behind the stone coffin to cause the blades to retract into the floor or to raise them again.
+Die Klingen machen den Boden zu schwierigem Gelände. Wenn eine Kreatur sich in ihrem Zug in die Klingen oder durch sie hindurch bewegt, erleidet sie `dice:2d4|noform|noparens|avg|text(5)` (`2d4`) Hiebschaden pro 1,5 Meter, die sie zurücklegt. Ein Charakter kann eine Aktion verwenden, um einen Hebel hinter dem Steinsarg zu bedienen. Mit diesem Hebel können die Klingen in den Boden versenkt und auch wieder ausgefahren werden. 
 
-##### In the Coffin
+##### Im Sarg
 
-Kevetta's coffin still bears her name, but not her body. Instead, the coffin's bottom is a roiling swirl of silvery-purple energy. Eldon confirms what the characters might guess: this is a Crevice of Dusk leading to Neverwinter.
+Kevettas Sarg trägt noch ihren Namen, aber ihr Leichnam liegt nicht darin. Stattdessen befindet sich am Boden des Sarges ein brodelnder Strudel aus silbrigvioletter Energie. Eldon bestätigt, was die Charaktere womöglich ahnen: Dies ist ein Dämmerriss, der nach Niewinter führt. 
 
-Creatures and objects placed into Kevetta's coffin appear in a dusty, nondescript tomb in Neverwinter's Pauper's Graveyard. The name on the tomb is illegible due to advanced age, but the carved phrase "Home Again, To Rest Forever" is barely legible above the tomb's doorway.
+Kreaturen und Gegenstände, die in Kevettas Sarg platziert werden, gelangen in eine unscheinbare staubige Gruft auf dem Armenfriedhof von Niewinter. Der Name an der Gruft ist aufgrund des Alters nicht mehr leserlich, doch die Worte „Zurück in der Heimat zur ewigen Ruhe" über dem Eingang der Gruft lassen sich gerade noch entziffern. 
 
-### The Cult Scatters
+### Der Kult zerstreut sich
 
-Though any remaining cultists believe they've successfully stolen Eldon's and the characters' secrets, it doesn't take them long to realize the significance of the characters' presence, which implies that important figures in Neverwinter know about the cult.
+Obwohl alle verbleibenden Kultisten glauben, Eldon und den Charakteren ihre Geheimnisse erfolgreich entrissen zu haben, brauchen sie nicht lange, um zu begreifen, was das Erscheinen der Charaktere bedeutet: Wichtige Leute in Niewinter müssen über den Kult Bescheid wissen.
 
-The cultists flee Neverwinter shortly after the ritual's abrupt end. By the time the characters return to the catacombs, the cultists are gone, along with any loose treasure. Other monsters such as the demons and nothics might still lurk in the graveyard, but they don't know anything about what the cult is doing or why the cultists departed so suddenly.
+Die Kultisten fliehen kurz nach dem abrupten Ende des Rituals aus Niewinter. Wenn die Charaktere in die Katakomben zurückkehren, sind die Kultisten fort, alle tragbaren Schätze ebenfalls. Monster wie die Dämonen und Nothics könnten noch auf dem Friedhof lauern, doch sie wissen nicht, was der Kult plant oder warum die Kultisten so plötzlich verschwunden sind. 
 
-Before scattering, the cultists murder any kidnapped townspeople the characters didn't free from their cells. After all, the cult needs to keep its secrets.
+Vor ihrer Flucht haben die Kultisten alle Entführten ermordet, die die Charaktere nicht aus ihren Zellen befreit hatten. Schließlich muss der Kult seine Geheimnisse hüten. 
 
-## What's Next?
+## Was kommt als Nächstes?
 
-Apart from a few loose ends, the characters' adventure is over when they return to Neverwinter. Grateful that the characters have ended the kidnapping threat, Lord Neverember rewards each character with a large house in Neverwinter. These houses can be adjacent to each other or spread around the city, as the characters prefer—Neverwinter contains a considerable number of vacant residences. Lord Neverember also pays for a small army of construction workers and renovators to restore the houses.
+Abgesehen von einigen offenen Enden ist dieses Abenteuer vorbei, wenn die Charaktere nach Niewinter zurückkehren. Vogt Nieglut ist dankbar, dass sie den Entführungen ein Ende gemacht haben, und belohnt jeden von ihnen mit einem großen Haus in Niewinter. Diese Häuser können sich je nach Wünschen der Charaktere nebeneinander befinden oder in der Stadt verteilt sein in Niewinter gibt es reichlich leerstehende Häuser. Der Vogt bezahlt außerdem eine kleine Armee von Bauarbeitern und Restauratoren, um die Häuser zu renovieren. 
 
-The rescued nobles and their families are grateful for the characters' efforts and give them 9,000 gp in total as a reward.
+Auch die geretteten Adeligen und ihre Familien sind den Charakteren dankbar und geben ihnen insgesamt 9.000 GM als Belohnung. 
 
-Although this chapter is concluded, each character retains their Vecna's Link. Unknown to the characters, they are about to become embroiled in the rivalry between Vecna and Kas.
+Dieses Kapitel ist zwar abgeschlossen, doch jeder Charakter behält seine Verbindung mit Vecna. Die Charaktere wissen es zwar nicht, doch sie stehen kurz davor, in die Rivalität zwischen Vecna und Kas gezogen zu werden. 
 
-If the characters aren't yet 11th level, more adventure awaits; there's no end of work in a frontier city such as Neverwinter. Alternatively, you can award the characters a milestone level-up and move ahead with the action of the next chapter.
+Wenn sie die 11. Stufe noch nicht erreicht haben, warten weitere Abenteuer - in einer Grenzstadt wie Niewinter gibt es immer etwas zu tun. Alternativ kannst du die Charaktere mit einem Meilenstein-Stufenaufstieg belohnen und direkt mit dem nächsten Kapitel fortfahren. 

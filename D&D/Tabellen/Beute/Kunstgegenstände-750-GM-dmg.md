@@ -5,12 +5,12 @@ tags:
 aliases:
   - 750 gp Art Objects
 ---
-# 750 gp Art Objects
-*Source: Dungeon Master's Guide p. 134* 
+# 750 GM Kunstgegenstände
+*Quelle: Spielleiterhandbuch S. 134* 
 
-**750 gp Art Objects**
+**750 GM Kunstgegenstände**
 
-| dice: d10 | Object |
+| W10 | Kunstgegenstand |
 |-----------|--------|
 | 1 | [Silver chalice set with moonstones](/3-Mechanics/CLI/items/silver-chalice-set-with-moonstones-xdmg.md) |
 | 2 | [Silver-plated steel longsword with jet set in hilt](/3-Mechanics/CLI/items/bundle-of-sheet-music-representing-the-lost-dirges-of-a-famous-composer-xdmg.md) |

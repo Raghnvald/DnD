@@ -2,3 +2,5 @@
 Bezeichnung: Untitled 2
 ---
 # Untitled 2
+
+{"id":"","tokenId":"","initiative":"5","currentHP":210,"unitName":"Tasha die Hexe","unitDesc":"","unitType":"Humanoid","unitSize":"Mittelgroß","maxHP":210,"hitDice":"28d8+84","armorClass":19,"strScore":10,"strSave":0,"dexScore":18,"dexSave":0,"conScore":17,"conSave":0,"intScore":23,"intSave":12,"wisScore":12,"wisSave":7,"chaScore":22,"chaSave":12,"damageVulnerabilities":"None.","damageImmunities":"None.","damageResistances":"None.","conditionImmunities":"Bezaubert, Verängstigt.","challengeRating":"19","experiencePoints":0,"alignment":"Chaotisch neutral","standardActions":[],"bonusActions":[],"legendaryDescription":"","legendaryActions":[],"specialAbilities":[],"spellActions":[],"reactions":[],"spellList":[],"senses":"No unique senses.","skills":"Unskilled.","languages":"No known languages.","speedWalk":30,"speedFly":0,"speedClimb":0,"speedBurrow":0,"speedSwim":0,"dataSlug":"","favorite":false,"ownerId":"33d6d29d-71aa-4c9b-8e3b-89c945e85ab5"}

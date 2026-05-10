@@ -20,7 +20,7 @@ The Starting Area table produces a chamber or a set of corridors at the entrance
 
 Once you've selected the entrance, roll on the appropriate table for each passage or door leading away from the starting area. Passages each extend 10 feet beyond the starting area. After that point, check on the Passage table for each passage to determine what lies beyond. Use the Beyond a Door table to determine what lies behind doors and secret doors.
 
-![Starting Area](/3-Mechanics/CLI/tables/starting-area.md)
+![[Startgebiet-dmg#^starting-area]]
 
 ## Passages
 

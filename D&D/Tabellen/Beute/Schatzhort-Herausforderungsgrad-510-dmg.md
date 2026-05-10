@@ -1,14 +1,14 @@
 ---
-Bezeichnung: "Treasure Hoard: Challenge 5—10"
+Bezeichnung: "Schatzhort: Herausforderungsgrad 5—10"
 tags:
   - Quelle/5e/dmg
 aliases:
   - Treasure Hoard: Challenge 5—10
 ---
-# Treasure Hoard: Challenge 5—10
-*Source: Dungeon Master's Guide p. 133* 
+# Schatzhort: Herausforderungsgrad 5 - 10
+*Quelle: Spielleiterhandbuch, S. 133* 
 
-**Treasure Hoard: Challenge 5—10**
+**Schatzhort: Herausforderungsgrad 5 - 10**
 
 |  | CP | SP | EP | GP | PP |
 |--|----|----|----|----|----|

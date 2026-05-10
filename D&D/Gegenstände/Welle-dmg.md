@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Wave
+Bezeichnung: Welle
 Kategorie: Nahkampf-Kriegswaffe
 tags:
   - Gegenstand/Einstimmung/required
@@ -11,7 +11,7 @@ aliases:
   - Wave
 linter-yaml-title-alias: Wave
 ---
-# Wave
+# Welle
 *Weapon ([trident](/3-Mechanics/CLI/items/trident.md)), legendary (requires attunement by a creature that worships a god of the sea)*  
 ![](/3-Mechanics/CLI/items/img/wave.webp#right)
 

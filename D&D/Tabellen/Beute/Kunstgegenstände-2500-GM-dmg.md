@@ -5,12 +5,12 @@ tags:
 aliases:
   - 2,500 gp Art Objects
 ---
-# 2,500 gp Art Objects
-*Source: Dungeon Master's Guide p. 134* 
+# 2.500 GM Kunstgegenstände
+*Quelle: Spielleiterhandbuch S. 134* 
 
-**2,500 gp Art Objects**
+**2.500 GM Kunstgegenstände**
 
-| dice: d10 | Object |
+| W10 | Kunstgegenstand |
 |-----------|--------|
 | 1 | [Fine gold chain set with a fire opal](/3-Mechanics/CLI/items/fine-gold-chain-set-with-a-fire-opal-xdmg.md) |
 | 2 | [Old masterpiece painting](/3-Mechanics/CLI/items/old-masterpiece-painting-xdmg.md) |

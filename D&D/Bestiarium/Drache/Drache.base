@@ -5,11 +5,22 @@ model:
 pluginVersion: 1.0.0
 views:
   - type: cards
-    name: Drachen
+    name: Drachen MM
     filters:
       and:
         - file.folder == "D&D/Bestiarium/Drache"
         - file.ext == "md"
+        - '!file.fullname.contains("-xmm")'
+    cardSize: 120
+    imageFit: contain
+    image: note.IMAGE
+  - type: cards
+    name: Drachen XMM
+    filters:
+      and:
+        - file.folder == "D&D/Bestiarium/Drache"
+        - file.ext == "md"
+        - '!file.fullname.contains("-mm")'
     cardSize: 120
     imageFit: contain
     image: note.IMAGE

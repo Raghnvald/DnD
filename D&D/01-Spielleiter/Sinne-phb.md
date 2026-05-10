@@ -18,19 +18,11 @@ Eine Kreatur mit Blindsicht kann ihre Umgebung innerhalb eines bestimmten Bereic
 Innerhalb einer festgelegten Reichweite behandeln Kreaturen dämmriges Licht wie helles Licht und Dunkelheit wie dämmriges Licht. Dabei sind sie jedoch nicht in der Lage, Farben wahrzunehmen, in Dunkelheit sehen sie nur Abstufungen von Grau.
 
 ## Tremorsense
-_Source: Player's Handbook (2024) p. 377. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_
+*Quellen: Monsterhandbuch S. 9. 
 
-A creature with Tremorsense can pinpoint the location of creatures and moving objects within a specific range, provided that the creature with Tremorsense and anything it is detecting are both in contact with the same surface (such as the ground, a wall, or a ceiling) or the same liquid.
-
-Tremorsense can't detect creatures or objects in the air, and it doesn't count as a form of sight.
+Eine Kreatur mit Erschütterungssinn kann die Quelle von Vibrationen in einem bestimmten Radius wahrnehmen und aufspüren, vorausgesetzt die Kreatur und die Vibrationsquelle sind in Kontakt mit dem gleichen Boden oder der gleichen Substanz. Erschütterungssinn kann nicht verwendet werden, um fliegende oder körperlose Wesen aufzuspüren. Viele grabende Kreaturen haben diesen besonderen Sinn.
 
 ## Wahre Sicht
-_Source: Player's Handbook (2024) p. 377. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_
+*Quellen: Spielerhandbuch S. 184. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)* 
 
-If you have Truesight, your vision is enhanced within a specified range. Within that range, your vision pierces through the following:
-
-- **Darkness.** You can see in normal and magical [Darkness](/3-Mechanics/CLI/variant-rules/darkness-xphb.md).  
-- **Invisibility.** You see creatures and objects that have the [Invisible](/3-Mechanics/CLI/conditions.md#Invisible) condition.  
-- **Visual Illusions.** Visual illusions appear transparent to you, and you automatically succeed on [saving throws](/3-Mechanics/CLI/variant-rules/saving-throw-xphb.md) against them.  
-- **Transformations.** You discern the true form of any creature or object you see that has been transformed by magic.  
-- **Ethereal Plane.** You see into the Ethereal Plane.
+Eine Kreatur mit wahrer Sicht kann bis zu einer bestimmten Reichweite in normaler oder magischer Dunkelheit sehen, unsichtbare Gegenstände und Kreaturen erkennen und visuelle Illusionen durchschauen (der entsprechende Rettungswurf gilt als erfolgreich, ohne würfeln zu müssen). Außerdem ist ihr die ursprüngliche Form von Gestaltwandlern oder sonstigen Kreaturen bekannt, die durch Magie verwandelt wurden. Darüber hinaus kann die betreffende Kreatur in die Ätherebene blicken.

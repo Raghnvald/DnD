@@ -5,26 +5,24 @@ tags:
 aliases:
   - Adventuring
 ---
-# Adventuring
+# Auf Abenteuer ausziehen
 *Source: Player's Handbook (2014), p. 181* 
 
-Delving into the ancient tomb of horrors, slipping through the back alleys of Waterdeep, hacking a fresh trail through the thick jungles on the Isle of Dread—these are the things that Dungeons & Dragons adventures are made of. Your character in the game might explore forgotten ruins and uncharted lands, uncover dark secrets and sinister plots, and slay foul monsters. And if all goes well, your character will survive to claim rich rewards before embarking on a new adventure.
+In die Tiefen einer uralten Grabkammer voller Schrecken einzudringen, durch die Hintergassen von Waterdeep zu schleichen, einen neuen Pfad durch den dichten Dschungel auf der Insel des Schreckens zu schlagen - das sind die Dinge, die Abenteuer in DUNGEONS & DRAGONS auszeichnen. Dein Charakter könnte vergessene Ruinen und unerforschte Landschaften erkunden, finstere Geheimnisse aufdecken, teuflische Pläne enthüllen oder übellaunige Monster besiegen. Wenn alles gut geht, überlebt dein Charakter und erlangt Reichtümer, bevor er sich wieder in ein neues Abenteuer stürzt. 
 
-This chapter covers the basics of the adventuring life, from the mechanics of movement to the complexities of social interaction. The rules for resting are also in this chapter, along with a discussion of the activities your character might pursue between adventures.
+Dieses Kapitel behandelt die Grundlagen des Abenteurerlebens, von der einfachen Bewegung bis zur komplexen sozialen Interaktion. Die Regeln zum Rasten finden sich genauso in diesem Kapitel wie Hinweise dazu, was dein Charakter zwischen den Abenteuern unternehmen könnte. 
 
-Whether adventurers are exploring a dusty dungeon or the complex relationships of a royal court, the game follows a natural rhythm, as outlined in the book's introduction:
+Ob die Abenteurer nun ein staubiges Gewölbe erkunden oder die verflochtenen Ränke und Intrigen an einem königlichen Hof untersuchen - immer folgt das Spiel einem natürlichen Rhythmus, der bereits in der Einleitung des Buches dargelegt wurde: 
 
-- 1. The DM describes the environment.  
-- 2. The players describe what they want to do.  
-- 3. The DM narrates the results of their actions.  
+- 1. Der SL beschreibt die Umgebung.   
+- 2. Die Spieler erläutern, was sie tun wollen.  
+- 3. Der SL beschreibt die Ergebnisse ihrer Handlungen.  
 
-Typically, the DM uses a map as an outline of the adventure, tracking the characters' progress as they explore dungeon corridors or wilderness regions.
+Für gewöhnlich nutzt der SL eine Karte, um dem Abenteuer einen Rahmen zu geben. Auf dieser kann er die Bewegungen der Charaktere festhalten und ihren Fortschritt beim Erkunden von Gängen in Gewölben oder Regionen in der Wildnis darstellen. Die Aufzeichnungen des SL, die er den Spielern zu Verfügung stellt (einschließlich der Legende zur Karte), beschreiben, was die Charaktere beim Betreten jedes neuen Bereichs vorfinden. Manchmal bestimmt auch das Verstreichen der Zeit die Geschehnisse, sodass der SL unter Umständen eine Zeitlinie oder ein Flussdiagramm anstelle einer Karte verwendet, um den Fortschritt der Abenteurer darzustellen. 
 
-The DM's notes, including a key to the map, describe what the adventurers find as they enter each new area. Sometimes, the passage of time and the adventurers' actions determine what happens, so the DM might use a time line or a flowchart to track their progress instead of a map.
+![](Spielerhandbuch-2014/img/ch8.webp#center)
 
-![](/3-Mechanics/CLI/books/players-handbook-2014/img/ch8.webp#center)
-
-## Time
+## Zeit
 
 In situations where keeping track of the passage of time is important, the DM determines the time a task requires. The DM might use a different time scale depending on the context of the situation at hand. In a dungeon environment, the adventurers' movement happens on a scale of minutes. It takes them about a minute to creep down a long hallway, another minute to check for traps on the door at the end of the hall, and a good ten minutes to search the chamber beyond for anything interesting or valuable.
 
@@ -34,29 +32,29 @@ For long journeys, a scale of days works best. Following the road from Baldur's 
 
 In combat and other fast-paced situations, the game relies on rounds, a 6-second span of time described in chapter 9.
 
-## Movement
+## Bewegung
 
 Swimming across a rushing river, sneaking down a dungeon corridor, scaling a treacherous mountain slope all sorts of movement play a key role in D&D adventures.
 
 The DM can summarize the adventurers' movement without calculating exact distances or travel times: "You travel through the forest and find the dungeon entrance late in the evening of the third day." Even in a dungeon, particularly a large dungeon or a cave network, the DM can summarize movement between encounters: "After killing the guardian at the entrance to the ancient dwarven stronghold, you consult your map, which leads you through miles of echoing corridors to a chasm bridged by a narrow stone arch." Sometimes it's important, though, to know how long it takes to get from one spot to another, whether the answer is in days, hours, or minutes. The rules for determining travel time depend on two factors: the speed and travel pace of the creatures moving and the terrain they're moving over.
 
-### Speed
+### Bewegungsrate 
 
 Every character and monster has a speed, which is the distance in feet that the character or monster can walk in 1 round. This number assumes short bursts of energetic movement in the midst of a life-threatening situation.
 
 The following rules determine how far a character or monster can move in a minute, an hour, or a day.
 
-#### Travel Pace
+#### Reisegeschwindigkeit
 
 While traveling, a group of adventurers can move at a normal, fast, or slow pace, as shown on the Travel Pace table. The table states how far the party can move in a period of time and whether the pace has any effect. A fast pace makes characters less perceptive, while a slow pace makes it possible to sneak around and to search an area more carefully (see the "Activity While Traveling" section later in this chapter for more information).
 
-##### Forced March
+##### Gewaltmarsch
 
 The Travel Pace table assumes that characters travel for 8 hours in day. They can push on beyond that limit, at the risk of [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion).
 
 For each additional hour of travel beyond 8 hours, the characters cover the distance shown in the Hour column for their pace, and each character must make a Constitution saving throw at the end of the hour. The DC is 10 + 1 for each hour past 8 hours. On a failed saving throw, a character suffers one level of [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion) (see the appendix).
 
-##### Mounts and Vehicles
+##### Fahrzeuge und Reittiere
 
 For short spans of time (up to an hour), many animals move much faster than humanoids. A mounted character can ride at a gallop for about an hour, covering twice the usual distance for a fast pace. If fresh mounts are available every 8 to 10 miles, characters can cover larger distances at this pace, but this is very rare except in densely populated areas.
 
@@ -64,13 +62,13 @@ Characters in wagons, carriages, or other land vehicles choose a pace as normal.
 
 Certain special mounts, such as a pegasus or griffon, or special vehicles, such as a carpet of flying, allow you to travel more swiftly. The Dungeon Master's Guide contains more information on special methods of travel.
 
-![Travel Pace](/3-Mechanics/CLI/tables/travel-pace-phb.md)
+![[Tabellen/Reisegeschwindigkeit-phb#Reisegeschwindigkeit]]
 
-#### Difficult Terrain
+#### Schwieriges Gelände
 
-The travel speeds given in the Travel Pace table assume relatively simple terrain: roads, open plains, or clear dungeon corridors. But adventurers often face dense forests, deep swamps, rubble-filled ruins, steep mountains, and ice-covered ground—all considered difficult terrain.
+Die in der Tabelle angegebenen Distanzen setzen relativ einfaches Terrain voraus: befestigte Straßen, offene Ebenen oder freie Gewölbekorridore. Doch Abenteurer sehen sich oft dichten Wäldern, endlosen Sümpfen, schuttübersäten Ruinen, steilen Bergketten oder vereisten Steppen gegenüber, die alle als schwieriges Gelände angesehen werden. 
 
-You move at half speed in difficult terrain—moving 1 foot in difficult terrain costs 2 feet of speed—so you can cover only half the normal distance in a minute, an hour, or a day.
+Durch schwieriges Gelände bewegt man sich mit halber Bewegungsrate. Um also 1 Meter in schwierigem Gelände zu bewältigen, muss man 2 Meter der Bewegungsrate aufwenden. Dadurch legt eine Kreatur nur die Hälfte der normalen Entfernung pro Minute, Stunde oder Tag zurück. 
 
 ### Special Types of Movement
 

@@ -1,14 +1,14 @@
 ---
-Bezeichnung: "Treasure Hoard: Challenge 0—4"
+Bezeichnung: "Schatzhort: Herausforderungsgrad 0—4"
 tags:
   - Quelle/5e/dmg
 aliases:
   - Treasure Hoard: Challenge 0—4
 ---
-# Treasure Hoard: Challenge 0—4
-*Source: Dungeon Master's Guide p. 133* 
+# Schatzhort: Herausforderungsgrad 0 - 4
+*Quelle: Spielleiterhandbuch, S. 133* 
 
-**Treasure Hoard: Challenge 0—4**
+**Schatzhort: Herausforderungsgrad 0 - 4**
 
 |  | CP | SP | EP | GP | PP |
 |--|----|----|----|----|----|

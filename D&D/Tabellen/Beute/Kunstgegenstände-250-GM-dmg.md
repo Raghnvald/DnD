@@ -5,12 +5,12 @@ tags:
 aliases:
   - 250 gp Art Objects
 ---
-# 250 gp Art Objects
-*Source: Dungeon Master's Guide p. 134* 
+# 250 GM Kunstgegenstände
+*Quelle: Spielleiterhandbuch S. 134* 
 
-**250 gp Art Objects**
+**250 GM Kunstgegenstände**
 
-| dice: d10 | Object |
+| W10 | Kunstgegenstand |
 |-----------|--------|
 | 1 | [Gold ring set with bloodstones](/3-Mechanics/CLI/items/gold-ring-set-with-bloodstones-xdmg.md) |
 | 2 | [Carved ivory statuette](/3-Mechanics/CLI/items/carved-ivory-statuette-xdmg.md) |

@@ -6,7 +6,7 @@ tags:
 ac: 19
 hp: 69
 Klasse: Druide
-level: 10
+level: 11
 modifier: 2
 pW: "13"
 Rasse: Elf
@@ -33,3 +33,4 @@ If you help slay a [fire elemental](/3-Mechanics/CLI/bestiary/elemental/fire-ele
 ---
 
 Cloak of the Bat
+Panzerhandschuhe der Ogerkraft

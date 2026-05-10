@@ -1,16 +1,16 @@
 ---
-Bezeichnung: 100 gp Gemstones
+Bezeichnung: 100 GM Edelsteine
 tags:
   - Quelle/5e/dmg
 aliases:
   - 100 gp Gemstones
 ---
-# 100 gp Gemstones
-*Source: Dungeon Master's Guide p. 134* 
+# 100 GM Edelsteine
+*Quelle: Spielleiterhandbuch, S. 134* 
 
-**100 gp Gemstones**
+**100 GM Edelsteine**
 
-| dice: d10 | Stone Description |
+| W12 | Steinbeschreibung |
 |-----------|-------------------|
 | 1 | [Amber](/3-Mechanics/CLI/items/amber-xdmg.md) (transparent watery gold to rich gold) |
 | 2 | [Amethyst](/3-Mechanics/CLI/items/amethyst-xdmg.md) (transparent deep purple) |

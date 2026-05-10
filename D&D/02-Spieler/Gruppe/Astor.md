@@ -5,7 +5,7 @@ tags:
 ac: 19
 hp: 73
 Klasse: Magier
-level: 10
+level: 11
 modifier: 2
 pW: "11"
 Rasse:
@@ -31,3 +31,4 @@ Vecna watches anyone using this tome. He can also write cryptic messages in the 
 ---
 
 Gem of Seeing
+Spinnenstab

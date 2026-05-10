@@ -10,7 +10,7 @@ aliases:
 ---
 # Aktionen
 
-## Einen Gegenstand aktivieren
+## Gegenstand benutzen
 _Quellen: Spielleiterhandbuch S. 141. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)_
 
 - **Dauer**: 1 Aktion
@@ -73,7 +73,7 @@ Die kleinere Kreatur kann sich innerhalb des Bereichs der größeren Kreatur bew
 
 This action is an optional addition to the game, from the optional/variant rule [Action Options](/3-Mechanics/CLI/variant-rules/action-options.md).
 
-## Dash | Spurt
+## Spurt
 _Source: Player's Handbook (2014) p. 192. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_
 
 - **Duration**: 1 action

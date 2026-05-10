@@ -1,14 +1,14 @@
 ---
-Bezeichnung: "Treasure Hoard: Challenge 17+"
+Bezeichnung: "Schatzhort: Herausforderungsgrad 17+"
 tags:
   - Quelle/5e/dmg
 aliases:
   - Treasure Hoard: Challenge 17+
 ---
-# Treasure Hoard: Challenge 17+
-*Source: Dungeon Master's Guide p. 133* 
+# Schatzhort: Herausforderungsgrad 17+
+*Quelle: Spielleiterhandbuch, S. 133* 
 
-**Treasure Hoard: Challenge 17+**
+**Schatzhort: Herausforderungsgrad 17+**
 
 |  | CP | SP | EP | GP | PP |
 |--|----|----|----|----|----|

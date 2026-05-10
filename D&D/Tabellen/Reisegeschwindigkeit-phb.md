@@ -5,14 +5,14 @@ tags:
 aliases:
   - Travel Pace
 ---
-# Travel Pace
+# Reisegeschwindigkeit
 *Source: Player's Handbook p. 181. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)* 
 
-**Travel Pace**
-
-| Pace | Distance Traveled per Minute | Distance Traveled per Hour | Distance Traveled per Day | Effect |
-|------|------------------------------|----------------------------|---------------------------|--------|
-| Fast | 400 feet | 4 miles | 30 miles | -5 penalty to passive Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) scores |
-| Normal | 300 feet | 3 miles | 24 miles | - |
-| Slow | 200 feet | 2 miles | 18 miles | Able to use stealth |
-^travel-pace
+<table class="travel-time">
+<thead>
+<tr><th rowspan='2'>Reisetempo</th></th><th colspan='3'>Zurückgelegte Distanz pro ... </th><th rowspan='2'>Effekt</th><tr><th>Minute</th><th>Stunde</th><th>Tag</th></tr>
+</thead><tbody>
+<tr><td>Schnell</td><td>120 m</td><td>6 km</td><td>45 km</td><td>-5 auf den passiven Wert Weisheit (Wahrnehmung)</td></tr>
+<tr><td>Normal</td><td>90 m</td><td>4,5 km</td><td>36 km</td><td>-</td></tr>
+<tr><td>Langsam</td><td>60 m</td><td>3 km</td><td>27 km</td><td>Einsatz von Heimlichkeit ist möglich</td></tr>
+</tbody></table>

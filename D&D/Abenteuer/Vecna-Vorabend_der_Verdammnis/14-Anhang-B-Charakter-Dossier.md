@@ -146,38 +146,38 @@ Now the Dark Powers keep Strahd trapped in his realm, tormenting him with his in
 
 ## Tasha
 
-[Tasha's](/3-Mechanics/CLI/bestiary/npc/tasha-the-witch-veor.md) path to greatness began when she was adopted by the arch-hag Baba Yaga, who named her Natasha. Tasha went on to create various spells, including Tasha's Hideous Laughter, and her magic-fueled ambitions brought her into contact with demons and demon lords, which she subjugated and used against her enemies. On the Material Plane, she became known as [Iggwilv the Witch Queen](/3-Mechanics/CLI/bestiary/npc/iggwilv-the-witch-queen-wbtw.md) and wrote the Demonomicon of Iggwilv, the greatest of all treatises on the Abyss and its demonic inhabitants. In recent years, Tasha has sequestered herself in the Feywild, achieving incredible power and slowly turning into a Fey creature. Tasha has become Zybilna, archfey of the domain of Prismeer.
+[[Tasha_die_Hexe-veor|Tasha]] schlug den Pfad zu wahrer Größe ein, als sie von der Erzvettel Baba Yaga adoptiert und Natasha genannt wurde. [[Tasha_die_Hexe-veor|Tasha]]  erschuf zahlreiche Zauber, darunter [[Tasha_die_Hexe-veor|Tashas]]  fürchterlicher Lachanfall, und ihre magischen Ambitionen brachten sie in Kontakt mit Dämonen und Dämonenfürsten, die sie sich unterwarf und gegen ihre Feinde einsetzte. Auf der materiellen Ebene wurde sie als [[Iggwilv die Hexenkönigin]] bekannt und schrieb das Dämonomikon von Jggwilv, die umfangreichste aller Abhandlungen über den Abyss und seine dämonischen Bewohner. In den vergangenen Jahren hat sich [[Tasha_die_Hexe-veor|Tasha]]  ins Feywild zurückgezogen, unglaubliche Macht erlangt und sich allmählich in ein Feenwesen verwandelt. So ist [[Tasha_die_Hexe-veor|Tasha]]  zu Zybilna geworden, Erzfee der Domäne Prismeer.
 
-![](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/216-13-016-tasha.webp#center)
+![](Vecna-Vorabend_der_Verdammnis/img/216-13-016-tasha.webp#center)
 
-### Answering the Summons
+### Dem Ruf gefolgt 
 
-When Zybilna received Alustriel Silverhand's summons to combat Vecna, the archfey was sorely needed in Prismeer. As a compromise, and to honor Tasha's friendship with Alustriel, Zybilna sent a version of herself from the past to Alustriel's side. The Tasha who appears in the adventure is a powerful wizard, though she is not yet a witch queen or an archfey.
+Als Zybilna von [[Alustriel_Silberhand-veor|Alustriel Silberhand]] gerufen wurde, um gegen [[Vecna_der_Erzlich-veor|Vecna]] zu kämpfen, wurde die Erzfee jedoch dringend in Prismeer gebraucht. Als Kompromiss und zu Ehren von [[Tasha_die_Hexe-veor|Tashas]]  Freundschaft mit Alustriel schickte Zybilna eine vergangene Version von sich zu [[Alustriel_Silberhand-veor|Alustriel]]. Die [[Tasha_die_Hexe-veor|Tasha]]  im Abenteuer ist eine mächtige Magierin, doch noch keine Hexenkönigin und auch keine Erzfee.
 
 ## Tiamat
 
-The terrifying dragon god Tiamat is the progenitor of chromatic dragons across the multiverse. Her earliest background is shrouded in mystery, but Tiamat's grand, five-headed silhouette has become an iconic symbol of avarice and destruction.
+Die schreckliche Drachengöttin Tiamat ist die Ahnin der chromatischen Drachen des Multiversums. Ihre Herkunft liegt im Dunkeln, doch ihre riesige fünfköpfige Silhouette ist längst zum Symbol für Gier und Zerstörung geworden.
 
-### History
+### Geschichte
 
-![](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/217-13-010-tiamat.webp#center)
+![](Vecna-Vorabend_der_Verdammnis/img/217-13-010-tiamat.webp#center)
 
-Tiamat is one of two primordial dragons, the other being Bahamut, the progenitor of metallic dragons. Together Tiamat and Bahamut created what became known as the First World: the first iteration of physical reality, which was subsequently sundered into the innumerable realities that now make up the Material Plane. The first inhabitant of this First World was Sardior, a ruby-red dragon with jeweled scales they made in their likeness, who worked with Bahamut and Tiamat to create metallic and chromatic dragons. The Draconic poem "Elegy for the First World" describes how hordes of creatures overran this fledgling world, waging war on the dragons and colonizing the realm in the names of their gods. Bahamut and Tiamat were defeated, and Sardior disappeared.
+Tiamat ist einer von zwei urtümlichen Drachen. Der andere ist Bahamut, Ahne der metallischen Drachen. Gemeinsam schufen Tiamat und Bahamut das, was als die Erste Welt bekannt wurde: die erste Version der physischen Realität, später in die zahllosen Realitäten aufgespalten, aus denen die materielle Ebene heute besteht. Der erste Bewohner dieser Ersten Welt war Sardior, ein rubinroter Drache mit juwelenbesetzten Schuppen. Bahamut und Tiamat schufen ihn nach ihrem Ebenbild, und er arbeitete mit ihnen zusammen, um metallische und chromatische Drachen zu erschaffen. Das drakonische Gedicht „Klagelied der Ersten Welt" beschreibt, wie diese junge Welt von Horden von Kreaturen überrannt wurde, die den Drachen den Krieg erklärten und das Reich im Namen ihrer eigenen Götter kolonisierten. Bahamut und Tiamat wurden besiegt, und Sardior verschwand.
 
-Sometime after the destruction of the First World, Tiamat carved out a lair in Avernus, the first layer of the Nine Hells, where she commands a fearsome legion of followers. She maintains a courteous relationship with Asmodeus, the ruler of the Nine Hells, and commands draconic devils called abishais as her agents. Each type of abishai bears the coloring of one of Tiamat's five heads.
+Irgendwann nach der Zerstörung der Ersten Welt schuf Tiamat sich einen Hort in Avernus, der ersten Ebene der Neun Höllen, und befehligte dort eine furchterregende Legion von Gefolgsleuten. Mit Asmodeus, dem Herrscher der Neun Höllen, pflegt sie eine höfliche Beziehung und befehligt drakonische Teufel namens Abishai als ihre Agenten. Jede Art von Abishai hat die Farbe eines ihrer fünf Köpfe.
 
-Across many worlds, Tiamat is worshiped as a god, with clerics at her disposal. Mortals who covet wealth and power pledge their lives to the dragon queen. Tiamat can send a fragment of her power to the Material Plane, which manifests as a titanic, five-headed dragon driven by rampaging greed.
+Tiamat wird in vielen Welten als Gottheit verehrt, und Kleriker stehen ihr zu Gebote. Sterbliche, die nach Reichtum und Macht streben, widmen ihr Leben der Drachenkönigin. Tiamat kann ein Fragment ihrer Macht auf die materielle Ebene entsenden und dort als titanischen fünfköpfigen Drachen manifestieren, der von zügelloser Gier getrieben ist.
 
-### Personality
+### Persönlichkeit
 
-Tiamat embodies the vices of evil dragons. She is vengeful and covets power and wealth above all else. However, Tiamat isn't reckless in her quests to expand her hoard. The dragon queen exhibits shrewd battle tactics and beguiling charm, easily swaying mortals. Each of Tiamat's five heads has its own voice and mannerisms, but they all share the same consciousness.
+Tiamat verkörpert die Lasterhaftigkeit böser Drachen. Sie ist rachsüchtig und begehrt Macht und Reichtum mehr als alles andere. Allerdings ist Tiamat nicht leichtsinnig in ihrem Streben, ihren Schatz zu vergrößern. Die Drachenkönigin legt nicht nur ausgeklügelte Kampftaktiken an den Tag, sondern auch einen betörenden Charme, mit dem sie Sterbliche mühelos in ihren Bann zieht.Jeder ihrer fünf Köpfe hat eine eigene Stimme und seine Eigenarten, doch sie teilen alle dasselbe Bewusstsein.
 
-The relationship between Tiamat and Bahamut is complicated. Many texts portray the two as mortal enemies, but other histories of the First World depict the two as partners; some even speculate that she still feels great love for her creations on the Material Plane and grief over the loss of Sardior.
+Das Verhältnis zwischen Tiamat und Bahamut ist kompliziert. In vielen Texten werden die beiden als Todfeinde dargestellt, in anderen Geschichten über die Erste Welt jedoch als Partner. Manchmal wird sogar spekuliert, dass Tiamat noch immer große Liebe für ihre Schöpfungen auf der materiellen Ebene und tiefe Trauer über den Verlust von Sardior empfindet.
 
 ## Vecna
 
-![](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/218-13-011-vecna.webp#center)
+![](Vecna-Vorabend_der_Verdammnis/img/218-13-011-vecna.webp#center)
 
-On countless worlds, his name evokes tales of terror and cruelty: [Vecna](/3-Mechanics/CLI/bestiary/npc/vecna-the-archlich-veor.md), the Undying King. Vecna, the Whispered One. Vecna, the Lord of the Rotted Tower. But Vecna had humble beginnings on the world of Oerth, where an order of wizards used him as a bootblack and scribe. He spent the better part of his childhood secretly educating himself in his masters' arts. Once Vecna learned all he could, he massacred the wizards. He then recorded his every foul thought and dream as he started to write his Book of Vile Darkness.
+Auf unzähligen Welten steht sein Name für Terror und Grausamkeit: [[Vecna_der_Erzlich-veor|Vecna]], der Unsterbliche König. [[Vecna_der_Erzlich-veor|Vecna]], der Geflüsterte. [[Vecna_der_Erzlich-veor|Vecna]], der Fürst des Verrotteten Turms. Doch [[Vecna_der_Erzlich-veor|Vecnas]] Anfänge auf dem Planeten Oerth waren bescheiden. Einst diente er einem Magierorden als Schreiber und Laufbursche. Den größten Teil seiner Kindheit verbrachte er damit, sich heimlich in den Künsten seiner Meister weiterzubilden. Als Vecna alles erfahren hatte, was er lernen konnte, massakrierte er die Magier. Dann begann er, sein Buch der Bösen Dunkelheit zu verfassen, und notierte darin all seine finsteren Gedanken und Träume.
 
-Vecna forged a kingdom on Oerth, but he grew bored with it after several centuries. He started inflicting suffering on other worlds. In this adventure, Vecna has risen to godhood on Oerth, but he seeks to become the most powerful god in existence and bend the multiverse to his will. By the time the characters are involved, Vecna's master plan is almost complete. He has funneled a significant amount of his energy into weaving his ritual. Therefore, when the characters finally confront Vecna and try to save the multiverse, he is in his archlich form and not his divine form.
+[[Vecna_der_Erzlich-veor|Vecna]] schmiedete auf Oerth ein Königreich, das ihn jedoch nach einigen Jahrhunderten langweilte. Er begann, anderen Welten Leid zuzufügen. In diesem Abenteuer ist [[Vecna_der_Erzlich-veor|Vecna]] auf dem Planeten Oerth zur Göttlichkeit aufgestiegen, doch er will der mächtigste Gott von allen werden und das Multiversum seinem Willen unterwerfen. Als die Charaktere auf den Plan treten, steht [[Vecna_der_Erzlich-veor|Vecnas]] Vorhaben kurz vor dem Abschluss. Er hat schon einen beträchtlichen Teil seiner Energie in sein Ritual gesteckt. Daher hat Vecna die Gestalt eines Erzlichs und nicht die eines Gottes, als die Charaktere ihm schließlich entgegentreten, um zu versuchen, das Multiversum zu retten.

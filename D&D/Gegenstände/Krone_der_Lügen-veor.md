@@ -9,36 +9,36 @@ aliases:
   - Crown of Lies
 linter-yaml-title-alias: Crown of Lies
 ---
-# Crown of Lies
-*Wondrous item, artifact (requires attunement)*  
-![](/3-Mechanics/CLI/items/img/crown-of-lies.webp#right)
+# Krone der Lügen 
+*Wundersamer Gegenstand, Artefakt (erfordert Einstimmung)*  
+![](img/crown-of-lies.webp#right)
 
-After betraying and nearly destroying the lich Vecna, the warrior Kas found himself trapped in the Shadowfell, imprisoned in a Domain of Dread called Tovag. There, he languished as a vampire. In time, the Dark Powers of the Domain of Dread lured Kas to a hidden forge, where he found the Crown of Lies. Once Kas vowed to deliver Vecna into the Dark Powers' clutches and donned the crown, the Dark Powers released Kas. From there, Kas set out to ruin his former master. Should Kas fail, the Dark Powers will reclaim him.
+Nachdem der Krieger Kas den Lich Vecna verraten und beinahe besiegt hatte, fand er sich selbst im Shadowfell wieder, gefangen in einer Domäne des Schreckens namens Tovag. Dort schmachtete er als Vampir dahin. Schließlich lockten die Dunklen Mächte des Shadowfells ihn zu einer verborgenen Schmiede, wo er die Krone der Lügen fand. Kas schwor, Vecna den Dunklen Mächten auszuliefern, und setzte sich die Krone auf. Da ließen die Dunklen Mächte ihn frei. Er brach auf, um seinem ehemaligen Meister den Untergang zu bringen. Schafft er dies nicht, werden die Dunklen Mächte ihn zurückfordern.
 
-The crown is made of burnished and entwined metal rods. To attune to it, you must place it on your head and speak a true desire of your heart. You know how to attune to the crown when you touch it.
+Die Krone besteht aus polierten Metallspitzen, die ineinander verschlungen sind. Um sich auf das Artefakt einzustimmen, muss man es aufsetzen und einen wahren Herzenswunsch aussprechen. Man weiß, wie das Einstimmen funktioniert, wenn man die Krone berührt.
 
-## Random Properties
+## Zufällige Eigenschaften
 
-The Crown of Lies has the following random properties (see the "Dungeon Master's Guide" for options):
+Die _Krone der Lügen_ hat folgende zufällig bestimmte Eigenschaften (Optionen siehe _Spielleiterhandbuch_):
 
-- 1 minor beneficial property  
-- 1 major beneficial property  
-- 1 minor detrimental property  
+- 1 kleinere vorteilhafte Eigenschaft
+- 1 größere vorteilhafte Eigenschaft
+- 1 kleinere nachteilige Eigenschaft
 
-## Perfect Disguise
+## Perfekte Tarnung
 
-While attuned to the crown, you can use an action to transform yourself to look and feel like any creature you've seen at least once and whose size is no more than one size smaller or larger than yours.
+Wenn du auf die Krone eingestimmt bist, kannst du ethe Aktion verwenden, um dich zu verwandeln: Du nimmst das Aussehen einer Kreatur deiner Wahl an, die du mindestens einmal gesehen hast und die um höchstens eine Größenstufe von dir abweicht.
 
-The new form mimics the chosen creature's appearance exactly, including its voice. Your size and speed are replaced by the chosen creature's. You otherwise retain your own game statistics. While in this new form, the crown melds into your person and is undetectable.
+Deine neue Gestalt entspricht exakt dem Erscheinungsbild der gewählten Kreatur. Das gilt auch für die Stimme. Auch deine Größe und deine Bewegungsrate werden durch die der gewählten Kreatur ersetzt. Ansonsten behältst du deine eigenen Spielwerte bei. Die Krone verschmilzt mit deiner neuen Gestalt und ist nicht zu erkennen.
 
-Your new form lasts until you die, your attunement to the crown ends, or you use another action to transform into a different creature or your true form. Interactions with you while you are transformed by the crown reveal no illusory magic, nor do they reveal anything other than details about the creature you're disguised as. You count as the chosen creature for the purposes of spells, traps, and other defenses that wouldn't target the chosen creature.
+Die Verwandlung bleibt bestehen, bis du stirbst, deine Einstimmung auf die Krone endet oder du eine weitere Aktion verwendest, um dich in eine andere Kreatur zu verwandeln oder wieder deine wahre Gestalt anzunehmen. Wenn du durch die Krone verwandelt bist, enthüllen Interaktionen mit dir keinerlei Illusionsmagie und nur Details über die Kreatur, als die du dich tarnst. Im Hinblick auf Zauber, Fallen und sonstige Abwehrmethoden, die nicht auf die gewählte Kreatur zielen würden, zählst du als diese Kreatur.
 
-While in your disguised form, any lies you tell always seem to be true, no matter what magical or mundane methods are used to try to detect your falsehoods. You are the recipient of Sending spells addressed to you and the creature you are disguised as, and Scrying and similar spells that target the creature you are disguised as actually target you. The only way to reveal your true nature while transformed by the crown is with a Wish spell.
+Solange du verwandelt bist, erscheinen alle Lügen, die du erzählst, als Wahrheit, egal, welche magischen oder weltlichen Methoden eingesetzt werden, um Lügen als solche zu erkennen. Du bist der Empfänger von [[Verständigung-phb|Verständigung]]-Zaubern, die an dich oder an die Kreatur gerichtet sind, als die du dich tarnst. Ausspähung und ähnliche Zauber, die auf die Kreatur zielen, als die du dich tarnst, zielen tatsächlich auf dich. Die einzige Möglichkeit, deine wahre Natur zu enthüllen, solange du durch die Krone verwandelt bist, besteht in einem [[Wunsch-phb|Wunsch]]-Zauber.
 
-While wearing this crown in your true form, you can choose for the crown to be visible if you wish.
+Trägst du die Krone in deiner wahren Gestalt, so kannst du bestimmen, ob die Krone sichtbar sein soll
 
-## Destroying the Crown
+## Die Krone zerstören
 
-If a creature wearing the crown is killed by the creature it is disguised as, the crown disintegrates and is destroyed.
+Wenn eine Kreatur, die die Krone trägt, von der Kreatur getötet wird, deren Gestalt sie angenommen hat, so zerfällt die Krone und ist damit zerstört.
 
-*Source: Vecna: Eve of Ruin p. 6*
+*Quelle: Vecna: Vorabend der Verdammnis S. 7*

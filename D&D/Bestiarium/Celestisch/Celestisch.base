@@ -5,11 +5,22 @@ model:
 pluginVersion: 1.0.0
 views:
   - type: cards
-    name: Celestische
+    name: Celestische MM
     filters:
       and:
         - file.folder == "D&D/Bestiarium/Celestisch"
         - file.ext == "md"
+        - '!file.fullname.contains("-xmm")'
+    cardSize: 120
+    image: note.IMAGE
+    imageFit: contain
+  - type: cards
+    name: Celestische XMM
+    filters:
+      and:
+        - file.folder == "D&D/Bestiarium/Celestisch"
+        - file.ext == "md"
+        - '!file.fullname.contains("-mm")'
     cardSize: 120
     image: note.IMAGE
     imageFit: contain

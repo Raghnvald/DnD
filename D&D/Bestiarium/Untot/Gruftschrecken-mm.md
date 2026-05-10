@@ -1,7 +1,17 @@
 ---
 statblock: inline
 statblock-link: "#^statblock"
-Bezeichnung: Wight
+Bezeichnung: Gruftschrecken
+Kategorie: Untoter
+Größe: Mittelgroß
+HG: 2
+Habitat:
+  - Stadt
+  - Sumpf
+  - Unterreich
+  - Wüste
+image: Untot/img/wight.webp
+status: completed
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Stadt
@@ -15,92 +25,74 @@ aliases:
   - Wight
 linter-yaml-title-alias: Wight
 ---
-# [Wight](3-Mechanics\CLI\bestiary\undead/wight.md)
-*Source: Monster Manual p. 300. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+# Gruftschrecken
+*Quelle: Monsterhandbuch S. 153. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*  
 
-The word "wight" meant "person" in days of yore, but the name now refers to evil undead who were once mortals driven by dark desire and great vanity. When death stills such a creature's heart and snuffs its living breath, its spirit cries out to the demon lord Orcus or some vile god of the underworld for a reprieve: undeath in return for eternal war on the living. If a dark power answers the call, the spirit is granted undeath so that it can pursue its own malevolent agenda.
+Der Begriff „Gruftschrecken" bezeichnet böse Untote, die einst Sterbliche waren, die von dunklen Begierden und Eitelkeit angetrieben waren. Wenn der Tod das Herz einer solchen Kreatur zum Stillstehen bringt und ihren lebenden Atem raubt, stößt ihre Seele einen Ruf nach Gnade aus, den der Dämonenfürst Orcus oder ein anderer böser Gott der Unterwelt vernimmt. Die Kreatur bittet darum, ein Untoter zu werden, und führt dafür Krieg gegen die Lebenden. Wenn eine dunkle Macht auf den Ruf antwortet, wird dem Geist der Untod gewährt, damit er seine eigene bösartige Agenda weiter verfolgen kann
 
-Wights possess the memories and drives of their formerly living selves. They will heed the call of whatever dark entity transformed them into undead, swearing oaths to appease their new lord while retaining their autonomy. Never tiring, a wight can pursue its goals relentlessly and without distraction.
+Gruftschrecken besitzen die Erinnerungen und Ziele ihres ehemaligen lebenden Selbst. Sie gehorchen dem Ruf der dunklen Wesenheit, die sie in Untote verwandelt hat, und schwören Eide, um ihren neuen Fürsten zu besänftigen und gleichzeitig ihre Selbstständigkeit zu wahren. Ein Gruftschrecken wird niemals müde und kann sein Ziel unerbittlich und ohne Ablenkung verfolgen.
 
-## Life Eaters
+## Lebensesser
 
-Neither dead nor alive, a wight exists in a transitional state between one world and the next. The bright spark it possessed in life is gone, and in its place is a yearning to consume that spark in all living things.
+Gruftschrecken sind weder tot noch lebendig, und existieren in einem Übergangsstatus zwischen einer Welt und der nächsten. Der helle Funken, den sie im Leben hatten, ist nicht mehr, und an seiner Stelle ist eine Sehnsucht getreten, den Funken des Lebens in allen lebenden Dingen zu verschlingen. Wenn ein Gruftschrecken angreift, leuchtet diese Lebensessenz für seine dunklen Augen wie weißglühende Kohlen, und die kalte Berührung des Gruftschrecken kann den Funken durch Fleisch, Kleidung und Rüstung heraus ziehen. 
 
-When a wight attacks, this life essence glows like white-hot embers to its dark eyes, and the wight's cold touch can drain the spark through flesh, clothing, and armor.
+## Schatten des Grabes
 
-## Shadow of the Grave
+Gruftschrecken fliehen am Tage aus der Welt, weg vom Licht der Sonne, die sie hassen. Sie ziehen sich in Grabhügel, Krypten und Grüfte zurück, wo sie hausen. Ihre Behausungen sind stille, trostlose Orte, umgeben von toten Pflanzen, sichtlich geschwärzt und von Vögeln und Tieren gemieden.
 
-Wights flee from the world by day, away from the light of the sun, which they hate. They retreat to barrow mounds, crypts, and tombs where they dwell. Their lairs are silent, desolate places, surrounded by dead plants, noticeably blackened, and avoided by bird and beast.
+Humanoide, die von einem Gruftschrecken erschlagen werden, können sich als Zombies unter seiner Kontrolle erheben. Motiviert vom Hunger nach lebenden Seelen und getrieben von der gleichen Gier nach Macht, die sie als Untote erweckt hat, dienen einige Gruftschrecken als Schocktruppen für böse Anführer, darunter auch Todesalben. Als Soldaten sind sie imstande zu planen, doch tun sie es selten, da sie sich auf ihren Hunger nach Zerstörung verlassen, um alle Kreaturen zu vernichten, die in ihrem Weg stehen. 
 
-Humanoids slain by a wight can rise as zombies under its control. Motivated by hunger for living souls and driven by the same desire for power that awakened them in undeath, some wights serve as shock troops for evil leaders, including wraiths. As soldiers, they are able to plan but seldom do so, relying on their hunger for destruction to overwhelm any creature that stands before them.
+## Untote Natur
 
-## Undead Nature
-
-A wight doesn't require air, food, drink, or sleep.
+Ein Gruftschrecken braucht keine Luft, keine Nahrung, kein Wasser und keinen Schlaf. 
 
 ```statblock
-"name": "Wight"
-"size": "Medium"
-"type": "undead"
-"alignment": "Neutral Evil"
-"ac": !!int "14"
-"ac_class": "[studded leather](/3-Mechanics/CLI/items/studded-leather-armor.md)"
-"hp": !!int "45"
-"hit_dice": "6d8 + 18"
-"modifier": !!int "2"
-"stats":
-  - !!int "15"
-  - !!int "14"
-  - !!int "16"
-  - !!int "10"
-  - !!int "13"
-  - !!int "15"
-"speed": "30 ft."
-"skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
-    "desc": "+3"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
-    "desc": "+4"
-"damage_resistances": "necrotic; bludgeoning, piercing, slashing from nonmagical attacks\
-  \ that aren't silvered"
-"damage_immunities": "poison"
-"condition_immunities": "[exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 13"
-"languages": "the languages it knew in life"
-"cr": "3"
-"traits":
-  - "desc": "While in sunlight, the wight has disadvantage on attack rolls, as well\
-      \ as on Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) checks\
-      \ that rely on sight."
-    "name": "Sunlight Sensitivity"
-"actions":
-  - "desc": "The wight makes two longsword attacks or two longbow attacks. It can\
-      \ use its Life Drain in place of one longsword attack."
-    "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 5\
-      \ (1d6 + 2) necrotic damage. The target must succeed on a DC 13 Constitution\
-      \ saving throw or its hit point maximum is reduced by an amount equal to the\
-      \ damage taken. This reduction lasts until the target finishes a long rest.\
-      \ The target dies if this effect reduces its hit point maximum to 0.\n\nA humanoid\
-      \ slain by this attack rises 24 hours later as a [zombie](/3-Mechanics/CLI/bestiary/undead/zombie.md)\
-      \ under the wight's control, unless the humanoid is restored to life or its\
-      \ body is destroyed. The wight can have no more than twelve zombies under its\
-      \ control at one time."
-    "name": "Life Drain"
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (1d8\
-      \ + 2) slashing damage, or 7 (1d10 + 2) slashing damage if used with two hands."
-    "name": "Longsword"
-  - "desc": "*Ranged Weapon Attack:* +4 to hit, range 150/600 ft., one target. *Hit:*\
-      \ 6 (1d8 + 2) piercing damage."
-    "name": "Longbow"
-"source":
-  - "MM"
-"image": "/3-Mechanics/CLI/bestiary/undead/token/wight.webp"
+name: Gruftschrecken
+image: Untot/token/wight.webp
+source:
+  - MM
+size: Mittelgroß
+type: Untot
+alignment: neutral böse
+ac: 14
+ac_class: <STATBLOCK-MARKDOWN-LINK>Gegenstände/Beschlagene_Lederrüstung-phb|Beschlagene Lederrüstung<STATBLOCK-MARKDOWN-LINK>
+hp: 45
+hit_dice: 6d8 + 18
+modifier: 2
+stats:
+  - 15
+  - 14
+  - 16
+  - 10
+  - 13
+  - 15
+speed: 9 m
+skillsaves:
+  - name: <STATBLOCK-MARKDOWN-LINK>Fertigkeiten-phb#Heimlichkeit|Heimlichkeit<STATBLOCK-MARKDOWN-LINK>
+    desc: "+4"
+  - name: <STATBLOCK-MARKDOWN-LINK>Fertigkeiten-phb#Wahrnehmung|Wahrnehmung<STATBLOCK-MARKDOWN-LINK>
+    desc: "+3"
+damage_resistances: Nekrotisch; Wucht-, Stich- und Hiebschaden durch nichtmagische Angriffe, wenn die Waffe nicht versilbert ist.
+damage_immunities: Gift
+condition_immunities: <STATBLOCK-MARKDOWN-LINK>Zustände-phb#Erschöpfung|erschöpft<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>Zustände-phb#Vergiftet|vergiftet<STATBLOCK-MARKDOWN-LINK>
+senses: <STATBLOCK-MARKDOWN-LINK>Sinne-phb#Dunkelsicht|Dunkelsicht<STATBLOCK-MARKDOWN-LINK> 18 m, passive Wahrnehmung 13
+languages: die Sprachen, die er im Leben kannte 
+cr: "3"
+environment: Stadt, Sumpf, Unterreich, Wüste
+traits:
+  - name: Empfindlich gegenüber Sonnenlicht
+    desc: Solange sich der Gruftschrecken im Sonnenlicht befindet, hat er einen Nachteil bei Angriffswürfen und Würfen auf Weisheit (<STATBLOCK-MARKDOWN-LINK>Fertigkeiten-phb#Wahrnehmung|Wahrnehmung<STATBLOCK-MARKDOWN-LINK>) die Sicht verwenden.
+actions:
+  - name: Mehrfachangriff
+    desc: Der Gruftschrecken führt zwei Langschwert-Angriffe oder zwei Langbogen-Angriffe durch. Er kann Lebensentzug anstelle eines Langschwert-Angriffs verwenden. 
+  - name: Lebensentzug
+    desc: |-
+      *Nahkampf-Waffenangriff:* +4 zum Treffen, Reichweite 1,5 m, ein Ziel. Treffer: 5 (1W6 + 2) nekrotischer Schaden. Das Ziel muss einen Konstitutionsrettungswurf gegen SG 13 ablegen, sonst werden seine maximalen Trefferpunkte um den erlittenen Schaden verringert. Diese Verringerung hält an, bis das Ziel eine lange Rast durchführt. Das Ziel stirbt, wenn dieser Effekt es auf 0 maximale Trefferpunkte reduziert.
+
+      Ein Humanoider, der von diesem Angriff getötet wird, erhebt sich 24 Stunden später als <STATBLOCK-MARKDOWN-LINK>Untot/Zombie-mm|Zombie<STATBLOCK-MARKDOWN-LINK> unter der Kontrolle des Gruftschrecken, es sei denn, der Humanoide wird zum Leben erweckt oder sein Körper zerstört. Der Gruftschrecken kann nicht mehr als zwölf Zombies auf einmal unter seiner Kontrolle haben.
+  - name: Langschwert
+    desc: "*Nahkampf-Waffenangriff:* +4 zum Treffen, Reichweite 1,5 m, ein Ziel. Treffer: 6 (1W8 + 2) Hiebschaden, oder 7 (2W10 +2) Hiebschaden, wenn die Waffe mit zwei Händen verwendet wird."
+  - name: Langbogen
+    desc: "*Fernkampf-Waffenangriff:* +4 zum Treffen, Reichweite 45/180 m, ein Ziel. Treffer: 6 (1W8 + 2) Stichschaden."
 ```
 ^statblock
-
-## Environment
-
-underdark, swamp, urban, desert

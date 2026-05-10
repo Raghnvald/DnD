@@ -1,315 +1,315 @@
 ---
-Bezeichnung: "Chapter 2: The Wizards Three"
+Bezeichnung: "Kapitel 2: Die drei Magier"
 tags:
   - Quelle/5e/veor
 aliases:
   - Chapter 2: The Wizards Three
 ---
-# Chapter 2: The Wizards Three
-*Source: Vecna: Eve of Ruin* 
+# Kapitel 2: Die drei Magier
+*Quelle: Vecna: Vorabend der Verdammnis* 
 
-![Alustriel and Tasha desper...](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/026-02-001-the-wizards-three.webp#center "Alustriel and Tasha desperately cast a Wish spell to try to stop Vecna's evil plan. Mordenkainen, who is Kas in disguise, secretly sabotages the spell")
+![Alustriel und Tasha versuchen verzweifelt, einen Wunsch-Zauber zu wirken, um Vecnas bösen Plan zu durchkreuzen. Mordenkainen, eigentlich Kas in Verkleidung, sabotiert den Zauber heimlich.](Vecna-Vorabend_der_Verdammnis/img/026-02-001-the-wizards-three.webp#center)
 
-Time has passed since the characters' experience in Neverdeath Graveyard. That ordeal might seem firmly in the past, but the characters receiving Vecna's Link is the harbinger of events none could predict. In this chapter, the characters become involved in three powerful wizards' desperate bid to stop the remaking of existence at the hands of the lich-god Vecna. The characters are soon led to believe that retrieving and reconstructing a legendary artifact is the only way to avoid a bleak future for the entire multiverse.
+Seit den Erlebnissen der Charaktere auf dem Nimmertod-Friedhof ist einige Zeit vergangen. Die Strapazen scheinen überstanden, doch die Verbindung der Charaktere mit [[Vecna_der_Erzlich-veor|Vecna]] ist der Vorbote von Ereignissen, die niemand vorhersehen konnte. In diesem Kapitel werden die Charaktere in die verzweifelten Versuche von drei mächtigen Magiern verwickelt, die Umformung der Existenz durch den Lich-Gott [[Vecna_der_Erzlich-veor|Vecna]] zu verhindern. Bald glauben sie, die einzige Möglichkeit, das Multiversum vor dieser finsteren Zukunft zu retten, bestünde darin, ein legendäres Artefakt zu bergen und zusammenzufügen. 
 
-## Running This Chapter
+## Dieses Kapitel leiten
 
-This chapter begins sometime after the characters' adventure in Neverwinter—days, months, or years, at your discretion. After you and the players determine what the characters have been doing following their Neverwinter escapades, the heroes are abruptly shunted to a mysterious sanctum in Sigil, the city at the center of the multiverse (see the "Surprise Development" section later in this chapter).
+Dieses Kapitel beginnt einige Zeit nach dem Abenteuer der Charaktere in Niewinter - nach deinem Ermessen Tage, Monate oder Jahre. Wenn du mit den Spielern besprochen hast, was die Charaktere nach den Eskapaden in Niewinter getrieben haben, verschlägt es die Helden abrupt in ein mysteriöses Heiligtum in Sigil, der Stadt in der Mitte des Multiversums (siehe Abschnitt „Überraschende Entwicklung" weiter hinten in diesem Kapitel). 
 
-The characters learn a sobering fact from the renowned wizards Alustriel Silverhand, Mordenkainen, and Tasha: the lich-god Vecna is planning to remake the multiverse and emerge as its most powerful being, subjugating all existence. Mordenkainen, who is actually the vampire Kas in disguise, believes the characters are the only ones who can stop Vecna's plans using the fabled [Rod of Seven Parts](/3-Mechanics/CLI/items/rod-of-seven-parts-veor.md), pieces of which are scattered throughout the multiverse.
+Die Charaktere erfahren von den berühmten Magiern [[Alustriel_Silberhand-veor|Alustriel Silberhand]], Mordenkainen und [[Tasha_die_Hexe-veor|Tasha]] eine ernüchternde Tatsache: Der Lich-Gott [[Vecna_der_Erzlich-veor|Vecna]] hat vor, das Multiversum umzugestalten und sich als dessen nun mächtigstes Wesen alles und jeden zu unterwerfen. Mordenkainen - in Wahrheit der getarnte Vampir Kas - glaubt, dass nur die Charaktere [[Vecna_der_Erzlich-veor|Vecnas]] Plan durchkreuzen können und dazu den legendären [[Stab_der_Sieben_Teile-veor|Stab der Sieben Teile]] brauchen, dessen Bruchstücke im gesamten Multiversum verteilt sind. 
 
-Alustriel, Mordenkainen, and Tasha aid the characters in their task. This quest leads the characters deep into the Underdark in Faerûn, where the first piece of the rod is hidden in Web's Edge, a secret haven for cultists of the demon-god Lolth.
+[[Alustriel_Silberhand-veor|Alustriel]], Mordenkainen und [[Tasha_die_Hexe-veor|Tasha]] helfen den Charakteren bei dieser Aufgabe. Diese Mission führt die Charaktere tief ins Unterreich in Faerûn, wo das erste Teil des Stabs in Netzrand verborgen liegt, einer geheimen Zuflucht für Kultisten der Dämonengöttin Lolth. 
 
-### Character Advancement
+### Charakterentwicklung 
 
-The characters should be 11th level when this chapter begins. The characters gain a level after they retrieve the first piece of the [Rod of Seven Parts](/3-Mechanics/CLI/items/rod-of-seven-parts-veor.md) from Web's Edge in the Underdark.
+Die Charaktere sollten die 11. Stufe erreicht haben, wenn dieses Kapitel beginnt. Sie steigen eine Stufe auf, wenn sie in Netzrand im Unterreich das erste Teil des [[Stab_der_Sieben_Teile-veor|Stabs der Sieben Teile]] erlangen. 
 
-### Power of Secrets
+### Macht der Geheimnisse
 
-The characters can learn two secrets in this chapter or later that are applicable to the rules in "The Power of Secrets" section in this book's introduction:
+Die Charaktere können in diesem Kapitel oder später zwei Geheimnisse erfahren, für die die Regeln im Abschnitt „Die Macht der Geheimnisse" in der Einführung dieses Buchs gelten: 
 
-- **Gertrude's Secret.** The characters can learn that Gertrude, the lone survivor of an ambushed caravan, and her friend Rockzanna knew about an imminent attack by Lolth's cultists but said nothing (see area W6a in Web's Edge).  
-- **Mordenkainen's Secret.** Mordenkainen is duping Alustriel, Tasha, and the characters and is actually Kas in disguise. (The characters aren't likely to learn this until later in the adventure.)  
+- **Gertrudes Geheimnis.** Die Charaktere können erfahren, dass Gertrude, einzige Überlebende nach einem Überfall auf eine Karawane, und ihre Freundin Mina zwar von einem bevorstehenden Angriff durch Lolths Kultisten wussten, aber nichts gesagt haben (siehe Bereich N6a in Netzrand). 
+- **Mordenkainens Geheimnis.** Mordenkainen ist eigentlich Kas, der sich tarnt und Alustriel, Tasha und die Charaktere hinters Licht führt. (Die Charaktere erfahren dies wahrscheinlich erst später im Abenteuer.) 
 
-### First Rod Piece
+### Erstes Stabteil
 
-The [first piece](/3-Mechanics/CLI/items/rod-of-seven-parts-veor.md) of the [Rod of Seven Parts](/3-Mechanics/CLI/items/rod-of-seven-parts-veor.md) is in area W12 of Web's Edge later in this chapter. For more information about the rod and the spell this piece allows its wielder to cast, see this book's introduction.
+Das erste Teil des [[Stab_der_Sieben_Teile-veor|Stabs der Sieben Teile]] befindet sich in Bereich N12 von Netzrand (siehe weiter hinten in diesem Kapitel). Weitere Informationen zum Stab und dem Zauber, den dieses Teil dem Träger zu wirken ermöglicht, findest du in der Einführung dieses Buchs. 
 
-## After Neverdeath
+## Nach Nimmertod
 
-It's up to you whether the events of this chapter happen after some time passes or immediately following the characters' experience in Neverdeath Graveyard. If you wish to emphasize urgency, this chapter's events happen a few days after the characters report their success to Lord Neverember in Neverwinter. If you'd rather emphasize the methodical nature of an eternal lich-god planning his dominance over the multiverse, months or years could pass before the characters arrive in Sigil.
+Es ist dir überlassen, ob die Ereignisse dieses Kapitels sich direkt nach den Geschehnissen auf dem Nimmertod-Friedhof oder erst längere Zeit danach zutragen. Wenn du für ein Gefühl der Dringlichkeit sorgen willst, geschehen sie schon wenige Tage, nachdem die Charaktere Vogt Nieglut in Niewinter ihren Erfolg mitgeteilt haben. Willst du dagegen die methodische Natur eines ewigen Lich-Gottes betonen, der seine Herrschaft über das Multiversum vorbereitet, könnten auch Monate oder Jahre vergehen, bis die Charaktere in Sigil eintreffen. 
 
-### Vecna's Link
+### Verbundung mit Vecna
 
-Before resolving how the characters spend the time between their Neverwinter adventure and the events of this chapter, reiterate that each character retains their Vecna's Link. At various times throughout the interim period, the characters are reminded that they're metaphysically linked to Vecna. However you narrate this, make it clear that there's something supernatural about this connection. The link can't be removed, and attempts to research the link are unsuccessful. The characters don't know it yet, but they'll soon learn that the link is a harbinger of events to come.
+Ehe ihr entscheidet, wie die Charaktere ihre Zeit zwischen Niewinter-Abenteuer und den Ereignisse dieses Kapitels verbringen, wiederhole, dass jeder Charakter seine Verbindung mit [[Vecna_der_Erzlich-veor|Vecna]] beibehält. Die Charaktere werden in dieser Zwischenzeit bei verschiedenen Gelegenheiten daran erinnert, dass sie metaphysisch mit [[Vecna_der_Erzlich-veor|Vecna]] verbunden sind. Egal, wie du dies erzählst, stelle klar, dass diese Verbindung etwas Übernatürliches hat. Sie kann nicht entfernt werden, und alle Versuche, sie zu erforschen, sind erfolglos. Die Charaktere wissen es noch nicht, aber sie werden bald erfahren, dass die Verbindung ein Vorbote kommender Ereignisse ist.
 
-### During the Interim
+### In der Zwischenzeit
 
-If months or years pass before the characters meet the Wizards Three (see the "Surprise Development" section later in this chapter), ask the players what their characters did during this time. The party might have stayed together and gone on further adventures, or each character could have gone their own way.
+Wenn Monate oder Jahre vergehen, ehe die Charaktere die drei Magier treffen (siehe Abschnitt „Überraschende Entwicklung" weiter hinten in diesem Kapitel), frage die Spieler, was ihre Charaktere inzwischen alles getan haben. Vielleicht ist die Abenteurergruppe zusammengeblieben und hat weitere Abenteuer erlebt, oder vielleicht sind die Charaktere ihre eigene Wege gegangen.
 
-If the players aren't sure or you'd like to offer them suggestions, consult the Interim Events table below. Choose your favorite result or roll randomly as you see fit.
+Wenn die Spieler nicht sicher sind oder du ihnen Vorschläge machen möchtest, ziehe die Tabelle „Ereignisse in der Zwischenzeit" unten zurate. Wähle ein Ergebnis aus oder würfle.
 
-**Interim Events**
+**Ereignisse in der Zwischenzeit**
 
-`dice: [](03-chapter-2-the-wizards-three.md#^interim-events)`
+`dice: [](03-Kapitel-2-Die_drei_Magier#^interim-events)`
 
-| dice: d6 | Event |
-|----------|-------|
-| 1 | Determined to find answers about what happened to them, the characters worked as protection for gravediggers in Neverdeath Graveyard. They fought undead, grave robbers, and sometimes even devils who served evil cultists. |
-| 2 | Hoping to put their Neverwinter experiences behind them, the characters hopped on a ship to the Moonshae Isles and escorted traders around the Sword Coast area. They fought privateers and oceanic monsters in their bid for high adventure. |
-| 3 | The characters became obsessed with the cult of Vecna, researching it in prominent libraries and memorizing historical accounts of its activities. As a result, they know everything the Wizards Three tell the party about Vecna except his attempts to re-create the multiverse. |
-| 4 | Sobered by their experiences, the characters passed the time peacefully in the houses Lord Neverember granted them in Neverwinter. Adventure became less of a priority as they settled into domestic life. |
-| 5 | Obsessed with the concept of the multiverse, the characters studied the realms that make up existence, traveling between them to learn more. As a result, they know everything the Wizards Three tell the party about the planes where the pieces of the rod are located. |
-| 6 | Hoping to put their experiences behind them, the characters accepted a call for heroes to confront a murderous young red dragon named Rhagaermati in the wilds outside Myth Drannor. They are fighting the dragon when they experience the events described in the "Surprise Development" section. |
+| W6  | Ereignis                                                                                                                                                                                                                                                                                                                           |
+| --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | Die Charaktere wollten genauer wissen, was ihnen zugestoßen ist, und haben als Totengräber auf dem Nimmertod-Friedhof gearbeitet. Sie haben gegen Untote, Grabräuber und manchmal sogar gegen Teufel gekämpft, die bösen Kultisten gedient haben.                                                                                  | 
+| 2   | Die Charaktere wollten die Ereignisse in Niewinter hinter sich lassen, haben ein Schiff zu den Mondscheininseln genommen und eine Weile Händler an der Schwertküste eskortiert. Sie waren immer auf der Suche nach Abenteuern und haben gegen Piraten und Meeresungeheuer gekämpft.                                                |
+| 3   | Die Charaktere haben großes Interesse am Kult von Vecna entwickelt, ihn in berühmten Bibliotheken studiert und historische Schilderungen ihrer Aktivitäten auswendig gelernt. Nun wissen sie schon alles, was die drei Magier ihnen über Vecnas Versuche, das Multiversum umzuformen, erzählen können.                             |
+| 4   | Die Charaktere fanden die Ereignisse ernüchternd und haben die Zeit friedlich in den Häusern zugebracht, die Vogt Nieglut ihnen in Niewinter geschenkt hat. Sie haben die Zwischenzeit recht sesshaft verbracht, und Abenteuer waren nicht mehr so wichtig.                                                                        |
+| 5   | Die Charaktere fanden das Konzept eines Multiversums packend. Sie haben die Ebenen studiert, aus denen die Existenz besteht, und sind zwischen ihnen gereist, um mehr zu erfahren. Nun wissen sie schon alles, was die drei Magier ihnen über die Ebenen, auf denen sich die Teile des Stabs befinden, erzählen können.            |
+| 6   | Die Charaktere wollten ihre Erlebnisse hinter sich lassen und sind einem Ruf nach Helden gefolgt, um einen mörderischen jungen roten Drachen namens Rhagaermati in der Wildnis um Myth Drannor zu stellen. Sie kämpfen gegen den Drachen, als sich die im Abschnitt „überraschende Entwicklung" beschriebenen Ereignisse zutragen. |
 ^interim-events
 
-## Rise of the Lich-God
+## Aufstieg des Lich-Gottes
 
-Regardless of the characters' activities after their Neverwinter adventure, key plots elements of this adventure progress in the background. While the characters live their lives, a powerful wizard and former ruler of the city of Silverymoon, [Alustriel Silverhand](/3-Mechanics/CLI/bestiary/npc/alustriel-silverhand-veor.md), detects a sinister wave of magic rippling through the multiverse.
+Unabhängig von den Aktivitäten der Charaktere nach ihrem Niewinter-Abenteuer entwickeln sich die Elemente der Hauptgeschichte dieses Abenteuers im Hintergrund weiter. Während die Charaktere ihr Leben leben, bemerkt [[Alustriel_Silberhand-veor|Alustriel Silberhand]], mächtige Magierin und ehemalige Regentin der Stadt Silbrigmond, dass das Multiversum von einer Welle finsterer Magie durchzogen wird.
 
-Using her divining abilities, Alustriel eventually traces the magical pulse to Vecna. She learns that Vecna's activities span multiple realms. After a period of investigation, Alustriel discovers the sobering truth: using stolen secrets, Vecna and his cults have siphoned incredible amounts of power from individuals throughout the multiverse. Worse, Alustriel eventually stops detecting these activities, leading the archmage to believe that Vecna plans to unleash this power for a heinous purpose. Alustriel realizes this could unravel the entire multiverse, elevating Vecna and cowing all others to his will.
+Sie setzt ihre erkenntnismagischen Fähigkeiten ein und kann den magischen Impuls schließlich zu [[Vecna_der_Erzlich-veor|Vecna]] zurückverfolgen. Außerdem erfährt sie, dass [[Vecna_der_Erzlich-veor|Vecnas]] Aktivitäten mehrere Ebenen betreffen. Nach einer Zeit der Untersuchungen findet [[Alustriel_Silberhand-veor|Alustriel]] die schreckliche Wahrheit heraus: Mithilfe gestohlener Geheimnisse haben [[Vecna_der_Erzlich-veor|Vecna]] und seine Kulte unglaubliche Mengen an Energie von Personen im ganzen Multiversum abgeschöpft. Noch schlimmer: Alustriel kann irgendwann keine solchen Aktivitäten mehr feststellen und muss befürchten, dass [[Vecna_der_Erzlich-veor|Vecna]] kurz davorsteht, diese Energie für seine bösen Zwecke zu entfesseln. Der Erzmagierin ist klar, dass dadurch das ganze Multiversum aus den Fugen geraten und dem Willen eines unvergleichlich mächtigeren [[Vecna_der_Erzlich-veor|Vecnas]] unterworfen werden könnte.
 
-### The Archmages' Desperation
+### Die Verzweiflung der Erzmagierin 
 
-Determined to oppose Vecna but unsure how the lich-god intends to unleash his amassed magic, Alustriel contacts her most powerful allies. Answering her call are the archmages Mordenkainen and a version of [Tasha](/3-Mechanics/CLI/bestiary/npc/tasha-the-witch-veor.md) from Oerth, though Alustriel and Tasha don't yet know that Mordenkainen is [Kas the Destroyer](/3-Mechanics/CLI/bestiary/npc/kas-the-betrayer-veor.md) in disguise. These Wizards Three retreat to a sanctum Alustriel keeps in Sigil. Using their combined magic, the archmages weave a Wish spell in hopes of sabotaging Vecna's accumulated power and defusing his ritual.
+[[Alustriel_Silberhand-veor|Alustriel]] ist entschlossen, [[Vecna_der_Erzlich-veor|Vecna]] aufzuhalten, aber sie weiß nicht, wie genau der Lich-Gott die angesammelte Energie einsetzen will. Daher wendet sie sich an ihre mächtigsten Verbündeten. Der Erzmagier Mordenkainen und eine Version von [[Tasha_die_Hexe-veor|Tasha]] von Oerth erhören ihren Ruf. [[Alustriel_Silberhand-veor|Alustriel]] und [[Tasha_die_Hexe-veor|Tasha]] wissen allerdings nicht, dass sie es nicht mit Mordenkainen zu tun haben, sondern mit [[Kas_der_Verräter-veor|Kas dem Zerstörer]] in Maskerade. Die drei Magier ziehen sich in [[Alustriel_Silberhand-veor|Alustriels]] Heiligtum in Sigil zurück. Mit vereinten magischen Kräften weben die Erzmagier einen [[Wunsch-phb|Wunsch]]-Zauber - in der Hoffnung, [[Vecna_der_Erzlich-veor|Vecnas]] gesammelte Energie und damit das Ritual sabotieren zu können.
 
-Instead of any expected effect, the *Wish* spell shunts the characters to Alustriel Silverhand's Sigil sanctum, as explained in the "Surprise Development" section later in this chapter. With time of the essence and the archmages weakened, Mordenkainen suggests a desperate contingency plan. The characters could use the fabled [Rod of Seven Parts](/3-Mechanics/CLI/items/rod-of-seven-parts-veor.md) to stop Vecna. The rod's seven pieces are scattered throughout the multiverse, but Mordenkainen knows where the first piece is located.
+Doch der [[Wunsch-phb|Wunsch]]-Zauber hat nicht die erhoffte Wirkung, sondern schleudert die Charaktere in [[Alustriel_Silberhand-veor|Alustriel Silberhands]] Heiligtum in Sigil, wie im Abschnitt „Überraschende Entwicklung" weiter hinten in diesem Kapitel erläutert. Die Zeit drängt, und die Erzmagier sind geschwächt. Da schlägt Mordenkainen einen verzweifelten Notfallplan vor: Die Charaktere könnten [[Vecna_der_Erzlich-veor|Vecna]] mit dem legendären [[Stab_der_Sieben_Teile-veor|Stab der Siebel Teile]] stoppen. Die sieben Teile des Stabs sind im ganzen Multiversum verstreut, doch Mordenkainen weiß immerhin, wo sich das erste befindet.
 
-## The Sigil Sanctum
+## Das Heiligtum in Sigil
 
-Hundreds of years ago, Lady Alustriel of Silverymoon needed a secure place to conduct sensitive magic work and research. After discovering a portal from Silverymoon to Sigil, Alustriel traveled to Sigil. There she spent decades creating a private sanctum around the portal.
+Vor einigen Jahrhunderten brauchte [[Alustriel_Silberhand-veor|Alustriel]] von Silbrigmond einen sicheren Ort, um in Ruhe heikle magische Arbeiten und Forschungen durchführen zu können. Sie entdeckte ein Portal von Silbrigmond nach Sigil, reiste hindurch und verbrachte die nächsten Jahrzehnte damit, sich ein privates Heiligtum um das Portal herum zu schaffen.
 
-Alustriel magically fused the portal in her sanctum with a Well of Many Worlds, destroying the magic item in the process. As a result, the portal now leads to numerous locations throughout the multiverse. Further, the portal reacts to magic items and artifacts, allowing those who carry such objects to step through the portal to the exact places they wish to travel. Alustriel carefully maintains the sanctum's secrecy, bringing guests here only after first meeting them in a neutral location. So far, either her portal's strange teleportation properties have gone unnoticed by Sigil's Lady of Pain and her agents, or the Lady of Pain is allowing the portal to function this way for reasons of her own.
+[[Alustriel_Silberhand-veor|Alustriel]] versah das Portal in ihrem Heiligtum magisch mit einem [[Brunnen_der_vielen_Welten-dmg|Brunnen der vielen Welten]], der bei diesem Prozess zerstört wurde. Daher führt das Portal heute an zahlreiche Orte im ganzen Multiversum. Außerdem reagiert es auf magische Gegenstände und Artefakte. Reisende, die solche Gegenstände bei sich tragen, können durch das Portal treten und genau dort ankommen, wo sie hinwollen. [[Alustriel_Silberhand-veor|Alustriel]] hält ihr Heiligtum dabei sorgfältig geheim und bringt erst dann Gäste her, wenn sie diese zuvor an einem neutralen Ort getroffen hat. Bisher sind die eigentümlichen Teleportationseigenschaften ihres Portals von Sigils Fürstin der Schmerzen und ihren Agenten entweder nicht bemerkt worden, oder die Fürstin hat eigene Gründe, die Funktionsweise des Portals zuzulassen.
 
-### Magic in the Sanctum
+### Magie im Heiligtum
 
-Planar magic functions differently in Sigil. For instance, the only way to reach Sigil is through portals; teleporting into or out of the city doesn't work. Since the characters might spend significant time in Sigil, take note of how the following types of magic work in the city:
+Planare Magie funktioniert in Sigil anders. Zum Beispiel kann man Sigil nur durch Portale erreichen. Teleportation in die Stadt oder aus ihr heraus funktioniert nicht. Beachte, wie folgende Arten von Magie in der Stadt funktionieren, da die Charaktere vielleicht viel Zeit in Sigil verbringen:
 
-![Lady Alustriel Silverhand](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/027-02-001-lady-alustriel-silverhand.webp#center)
+![Lady Alustriel Silberhand](Vecna-Vorabend_der_Verdammnis/img/027-02-001-lady-alustriel-silverhand.webp#center)
 
-- **Banishment.** Effects that banish a target from Sigil treat the target as if Sigil were its home plane.  
-- **Extradimensional Space.** Extradimensional spaces, demiplanes, and pocket dimensions—such as those created by a Bag of Holding or the Rope Trick spell—function within Sigil, but those spaces follow these restrictions as if they were part of the city.  
-- **Planar Travel.** Effects that allow interplanar travel, such as the Astral Projection and Plane Shift spells, fail if used to try to enter or leave Sigil, with one exception (see "Teleportation Circles" below).  
-- **Summoning.** Spells, magic items, and effects that summon creatures or objects from other planes, such as a Ring of Djinni Summoning, instead summon targets from within Sigil if possible or otherwise fail. Effects that summon a specific target from outside Sigil, such as the Drawmij's Instant Summons and Leomund's Secret Chest spells, automatically fail.  
-- **Teleportation.** Attempts to teleport into or out of Sigil fail, but such magic functions normally when teleporting within the city.  
-- **Teleportation Circles.** Permanent teleportation circles exist within Sigil, but attempts to create new ones fail. If the Lady of Pain permits, they can be used to enter the city via the Plane Shift spell but not to leave.  
+- **Beschwörung.** Zauber, magische Gegenstände und Effekte, die Kreaturen oder Gegenstände von anderen Ebenen beschwören, beispielsweise ein [[Ring_der_Dschinni-Beschwörung-dmg|Ring der Dschinni-Beschwörung]], beschwören stattdessen Ziele aus Sigil, sofern möglich. Anderenfalls scheitern sie. Effekte, die ein bestimmtes Ziel von außerhalb von Sigil beschwören, etwa die Zauber [[Drawmijs_Sofortige_Herbeizauberung-phb|Drawmijs sofortige Herbei]] und [[Leomunds geheime Truhe]], scheitern automatisch . 
+- **Ebenenreisen.** Effekte, die Ebenenreisen ermöglichen, wie die Zauber [[Astrale_Projektion-phb|Astrale Projektion]] und [[Ebenenwechsel-phb|Ebenenwechsel]], scheitern, wenn sie eingesetzt werden, um Sigil zu erreichen oder zu verlassen. Es gibt nur eine Ausnahme (siehe „Kreise der Teleportation" unten).
+- **Extradimensionaler Raum.** Extradimensionale Räume, Halbebenen und Taschendimensionen wie die durch einen [[Nimmervoller_Beutel-dmg|Nimmervollen Beutel]] oder den Zauber [[Seiltrick-phb|Seiltrick]] funktionieren in Sigil, doch die Räume unterliegen diesen Einschränkungen, als wären sie Teil der Stadt. 
+- **Kreise der Teleportation.** Es gibt in Sigil dauerhafte Kreise der Teleportation, doch es können keine neuen geschaffen werden. Wenn die Fürstin der Schmerzen es gestattet, können die vorhandenen Kreise verwendet werden, um mit dem Zauber [[Ebenenwechsel-phb|Ebenenwechsel]] in die Stadt zu gelangen, aber nicht, um die Stadt zu verlassen.
+- **Teleportation.** Alle Teleportationsversuche nach oder aus Sigil scheitern. Innerhalb der Stadt funktioniert solche Magie jedoch normal.
+- **Verbannung.** Effekte, die ein Ziel aus Sigil verbannen, behandeln das Ziel, als wäre Sigil seine Heimatebene.
 
-### General Features
+### Allgemeine Merkmale
 
-The features of Alustriel's sanctum are described in the following sections.
+Die Merkmale von Alustriels Heiligtum werden in den folgenden Abschnitten beschrieben.
 
-#### Ceilings
+#### Beleuchtung
 
-The ceilings on the first floor of the sanctum are 20 feet high. The ceilings on the upper floor are 10 feet high.
+[[Dauerhafte_Flamme-phb|Dauerhafte Flamme]] wurde auf Wandleuchter gewirkt, sodass in den meisten Bereichen helles Licht verfügbar ist. Nur der Bereich H8 ist nicht beleuchtet.
 
-#### Doors
+#### Decken
 
-No doors separate areas S1–S3 of the sanctum, though open archways set off each area. The doors in areas S5–S7 of the sanctum are unlocked. The door to area S8, Mordenkainen's room, is sealed with an Arcane Lock spell that requires a successful DC 30 Dexterity (Sleight of Hand) check using thieves' tools to open.
+Die Decken im Erdgeschoss des Heiligtums sind sechs Meter hoch. Die Decken im oberen Stockwerk sind drei Meterhoch.
 
-#### Lighting
+#### Türen
 
-Continual Flame spells cast on sconces bathe most areas in bright light. Only area S8 is unlit.
+Die Bereiche H1-H3 sind nicht durch Türen vom Heiligtum getrennt, sondern durch offene Torbögen erreichbar. Die Türen in den Bereichen H5-H7 des Heiligtums sind nicht verschlossen. Die Tür zu Bereich H8, Mordenkainens Raum, ist mit dem Zauber [[Arkanes_Schloss-phb|Arkanes Schloss]] versiegelt. Sie zu öffnen erfordert einen erfolgreichen SG-30-Geschicklichkeitswurf ([[D&D/01-Spielleiter/Fertigkeiten-phb#Fingerfertigkeit|Fingerfertigkeit]]) sowie [[Diebeswerkzeug-phb|Diebeswerkzeug]].
 
-#### Safe from Prying Eyes
+#### Vor neugierigen Blicken geschützt 
 
-Everyone in the sanctum is under the effect of a Nondetection spell while they remain inside the structure.
+Der Effekt des Zaubers [[Unauffindbarkeit-phb|Unauffindbarkeit]] wirkt auf jeden im Heiligtum, solange er sich innerhalb des Gebäudes aufhält.
 
-#### Walls
+#### Wände
 
-Alustriel magically reinforced the walls of the sanctum, which are made of a combination of brick and layers of cement. Only exceedingly powerful destructive magic could harm the sanctum's structural integrity.
+Alustriel hat die Wände des Heiligtums, die aus Ziegelsteinen und Mörtelschichten bestehen, auf magische Art verstärkt. Nur übermäßig mächtige zerstörerische Magie kann die Stabilität des Heiligtums beeinträchtigen.
 
-### Sanctum Locations
+### Orte im Heiligtum
 
-The following locations are keyed to map 2.1.
+Die folgenden Orte sind auf Karte 2.1 dargestellt.
 
-![Map 2.1: The Sanctum](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/028-map-2-01-the-sanctum.webp#center)
+![Map 2.1: The Sanctum](Vecna-Vorabend_der_Verdammnis/img/028-map-2-01-the-sanctum.webp#center)
 
-#### S1: Library
+#### H1: Bibliothek
 
 > [!readaloud] 
 > 
-> Gleaming, floor-to-ceiling bookshelves filled with leather-bound tomes wrap around the sanctum's west end, while marble pillars hold up vaulted ceilings to the east. Spiral staircases in the corners lead upward.
+> Das westliche Ende des Heiligtums enthält schimmernde deckenhohe Regale voller ledergebundener Folianten. Im Osten stützen Marmorsäulen die Deckengewölbe. Wendeltreppen führen in den Ecken nach oben.
 ^0d5
 
-This section of the sanctum holds Alustriel's collection of rare books. The books aren't magical, but the characters can use them to research any esoteric topic.
+Dieser Bereich des Heiligtums enthält Alustriels Sammlung seltener Bücher. Die Bücher sind nicht magisch, doch die Charaktere können mit ihrer Hilfe jedes geheime Thema studieren.
 
-If a character researches a specific topic, roll a `dice:d4|noform|noparens|avg` (`d4`). On a roll of 1 or 2, the character finds information about the topic. At your discretion, this might grant the character advantage for the rest of the day on any ability checks made to recall or use the information they've learned.
+Wenn ein Charakter ein bestimmtes Thema erforscht, würfle mit einem `dice:d4|noform|noparens|avg` (`d4`). Bei einem Ergebnis von 1 oder 2 findet der Charakter Informationen zum Thema. Nach deinem Ermessen kann dies bedeuten, dass der Charakter für den Rest des Tages bei allen Attributswürfen im Vorteil ist, die er ausführt, um sich an diese Informationen zu erinnern oder um sie einzusetzen.
 
-#### S2: Parlor
+#### H2: Empfangssaal
 
 > [!readaloud] 
 > 
-> Plush, antique furniture, including sofas and footstools, is arranged here. To the north is a grand staircase. To the south, a garden of ferns and flowering plants grows around a raised marble dais.
+> Hier sind antike Möbel wie Sofas und Fußschemel arrangiert. Im Norden befindet sich eine große Treppe. Im Süden rankt sich ein Garten aus Farnen und blühenden Pflanzen um ein Marmorpodest.
 ^0d7
 
-When Alustriel invites dignitaries into her sanctum, she holds business and political discussions in this parlor. The grand staircase ascends to area S4.
+Wenn Alustriel Würdenträger in ihr Heiligtum einlädt, bespricht sie hier geschäftliche und politische Fragen mit ihnen. Die große Treppe führt zu Bereich H4 hinauf.
 
-##### Dais
+##### Garten
 
-The dais in the center of the garden is the site of the portal Alustriel has tweaked to lead to numerous multiplanar locations.
+Der Grünbereich ist das Ergebnis von Alustriels magischem Gartenbau. Die Pflanzen hier brauchen keine Pflege.
 
-##### Garden
+##### Podest
 
-The greenery is the result of Alustriel's dabbling in magical gardening. The plants here need no tending.
+Auf dem Podest in der Gartenmitte befindet sich das Portal, das Alustriel so verändert hat, dass es zu zahlreichen multiplanaren Orten führt.
 
-![What mischief is Mordenkainen up to?](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/029-02-002-mordenkainen.webp#center)
+![Was führt Mordenkainen im Schilde?](Vecna-Vorabend_der_Verdammnis/img/029-02-002-mordenkainen.webp#center)
 
-#### S3: Workspace
+#### H3: Arbeitsbereich
 
 > [!readaloud] 
 > 
-> A desk covered in paperwork and books sits in the middle of this work area. Nearby are curio cabinets filled with magical trinkets—everything from necklaces and brooches to sparkling stones and shoes.
+> In der Mitte dieses Arbeitsbereichs steht ein Schreibtisch, der mit Papieren und Büchern bedeckt ist. Außerdem gibt es hier Kuriositätenvitrinen voller magischer Gegenstände - von Halsketten und Broschen bis zu Schuhen und funkelnden Steinen.
 ^0db
 
-Characters transported to the sanctum by the failed Wish spell appear here (see the "Surprise Development" section later in this chapter).
+Hier erscheinen die Charaktere, wenn sie durch den fehlgeschlagenen Wunsch-Zauber ins Heiligtum gelangen (siehe Abschnitt „Überraschende Entwicklung" weiter hinten in diesem Kapitel).
 
-##### Curio Cabinets
+##### Kuriositätenvitrinen
 
-Alustriel keeps an impressive collection of magic items here. If the characters ask, Alustriel allows each character to borrow their choice of any single magic item of rare or lower rarity from the "Dungeon Master's Guide". Later in this chapter, Kas, disguised as Mordenkainen, retrieves the [Chime of Exile](/3-Mechanics/CLI/items/chime-of-exile-veor.md) from one of these cabinets.
+Hier verwahrt Alustriel ihre beeindruckende Sammlung magischer Gegenstände. Wenn die Charaktere darum bitten, gestattet Alustriel jedem von ihnen, einen magischen Gegenstand seiner Wahl höchstens des Seltenheitsgrads „Selten" (siehe Spielleiterhandbuch) auszuleihen. Weiter hinten in diesem Kapitel holt sich Kas, getarnt als Mordenkainen, die [[Glocke_des_Exils-veor|Glocke des Exils]] aus einer dieser Vitrinen.
 
-#### S4: Lounge
+#### H4: Salon
 
 > [!readaloud] 
 > 
-> Roaring fireplaces are built into the east and west walls of this lounge. Comfortable couches and chairs are artfully arranged before a grand staircase that leads downward.
+> In der Ostwand sowie in der Westwand dieses Salons befinden sich große Kamine mit knisterndem Feuer. Bequeme Sofas und Sessel sind kunstvoll vor einer großen Treppe nach unten arrangiert.
 ^0de
 
-Alustriel and her friends socialize, dine, and relax in this lounge. Alustriel is known for her sumptuous dinner parties. Discreet drawers in the bottoms of the couches store fine china and cutlery for when Alustriel transforms the center table into a dining table. Additional storage is in the northwest corner.
+In diesem Salon unterhält Alustriel sich mit ihren Freunden, speist und entspannt sich mit ihnen. Ihre üppigen Abendbankette sind berühmt. Die diskreten Schubladen im unteren Bereich der Sofas enthalten feines Porzellan und Besteck für die Gelegenheiten, zu denen Alustriel den Tisch in der Mitte in eine Tafel verwandelt. In der Nordwestecke befindet sich zusätzlicher Stauraum.
 
-When the characters are shunted to the sanctum, Alustriel offers them use of the lounge.
+Wenn die Charaktere ins Heiligtum geraten, bietet Alustriel ihnen an, den Salon zu nutzen.
 
-#### S5–S8: Bedrooms
+#### H5–H8: Schlafräume
 
-These small but comfortable bedrooms are where Alustriel and her guests stay when they need personal quarters, whether it's to sleep or be alone.
+Diese kleinen, aber komfortablen Schlafräume werden von Alustriel und ihren Gästen als Privatgemächer genutzt, um zu schlafen oder sich zurückzuziehen.
 
-Area S5 is the bedroom of Alustriel and her wife, Malaina van Talstiv. A retired adventurer, Malaina is a neutral good human who uses the [assassin](/3-Mechanics/CLI/bestiary/humanoid/assassin.md) stat block. Malaina is meeting with associates to thwart a scheme against Waterdeep when the characters arrive. When the characters return, Malaina speaks with them (see the "Next Steps" section at the end of this chapter).
+Bereich H5 ist der Schlafraum von Alustriel und ihrer Gattin Malaina van Talstiv. Die ehemalige Abenteurerin Malaina ist eine neutral gute Menschenfrau mit den Spielwerten einer [[Assassine-mm|Assassine]]. Sie trifft sich gerade mit Verbündeten, um eine Intrige gegen Tiefwasser zu vereiteln, als die Charaktere eintreffen. Wenn die Charaktere anschließend zurückkehren, spricht Malaina mit ihnen (siehe Abschnitt „Nächste Schritte" am Ende dieses Kapitels).
 
-Area S6 is Tasha's room. Area S7 is an empty room, which Alustriel offers to the characters for their use. Area S8 is Mordenkainen's bedroom, which contains clues hinting at subterfuge (see the "Evidence of Deception" section later in this chapter).
+Bereich H6 ist Tashas Raum. Bereich H7 ist ein freier Raum, den Alustriel den Charakteren zur Verfügung stellt. Bereich H8 ist Mordenkainens Schlafraum und enthält Hinweise auf seine List (siehe Abschnitt „Hinweise auf Täuschung" weiter hinten in diesem Kapitel).
 
-## The Wizards Three
+## Die drei Magier
 
-Three legendary archmages serve as the characters' allies throughout the rest of this adventure, though one of these individuals is an impostor. (See the "Kas the Destroyer" section.) More information about each spellcaster follows.
+Drei legendäre Erzmagier dienen den Charakteren für den Rest dieses Abenteuers als Verbündete, wobei einer von ihnen ein Hochstapler ist. (Siehe Abschnitt „Kas der Zerstörer".) Es folgen weitere Informationen zu jedem der Zauberwirker.
 
-### Alustriel Silverhand
+### Alustriel Silberhand
 
-More than seven centuries old, Lady [Alustriel Silverhand](/3-Mechanics/CLI/bestiary/npc/alustriel-silverhand-veor.md) is beloved throughout Faerûn for her kindliness and for using her incredible spellcasting power to protect the innocent. Alustriel is an immortal daughter of Mystra, a god of magic, and is a chaotic good, human wizard. Alustriel served as High Mage of Silverymoon, battled demons on the Outer Planes, and prevented the lich Larloch from ascending to godhood. She has seen the rise and fall of evil powers, though Vecna's plot troubles her greatly. More about Alustriel, including her stat block, appears in appendix B.
+[[Alustriel_Silberhand-veor|Alustriel Silberhand]] ist über siebenhundert Jahre alt und in ganz Faerun beliebt, weil sie so freundlich ist und ihre enormen Zauberkräfte einsetzt, um Unschuldige zu beschützen. Sie ist eine chaotisch gute menschliche Magierin und unsterbliche Tochter von Mystra, einer Göttin der Magie. Die ehemalige Hochmagierin von Silbrigmond hat gegen Dämonen in den äußeren Ebenen gekämpft und den Lich Larloch daran gehindert, zur Göttlichkeit aufzusteigen. Zahlreiche böse Mächte hat sie schon kommen und gehen sehen, doch Vecnas Plan bereitet ihr große Sorgen. Mehr über Alustriel sowie ihre Spielwerte findest du in Anhang B.
 
 ### Mordenkainen
 
-Renowned for his bravery but not his judgment, Mordenkainen is a powerful spellcaster from Oerth. The chaotic neutral, human wizard led a council of famous archmages known as the Circle of Eight. He later became trapped in the dread realm of Barovia, where he lost his spellbook and staff as well as his grip on reality and wandered adrift for some time. Alustriel trusts Mordenkainen and respects his gumption, even though he occasionally embarks on tasks that outstrip his capabilities. The real Mordenkainen doesn't appear in this adventure, though the characters likely believe they're interacting with him.
+Mordenkainen, ein mächtiger Zauberwirker von Oerth, ist für seine Tapferkeit,jedoch nicht für sein Urteilsvermögen bekannt. Der chaotisch neutrale menschliche Magier hat jenem Rat berühmter Erzmagier vorgestanden, der als der Zirkel der Acht bekannt ist. Später war er im Schreckensreich Barovia gefangen, wo er sein Zauberbuch, seinen Stab und den Kontakt mit der Realität verlor und einige Zeit ziellos umherzog. Alustriel vertraut Mordenkainen und respektiert seinen Mut, auch wenn er sich an seinen Missionen gelegentlich verhebt. Der echte Mordenkainen erscheint in diesem Abenteuer nicht, auch wenn die Charaktere vermutlich glauben, dass sie es mit ihm zu tun haben.
 
 ### Tasha
 
-[Tasha](/3-Mechanics/CLI/bestiary/npc/tasha-the-witch-veor.md) is a chaotic neutral archmage from Oerth, a renowned demonologist, and the adopted daughter of Baba Yaga. Tasha is widely considered the multiverse's foremost authority on the Abyss, having authored the fabled Demonomicon of Iggwilv. Although Tasha's motives are fickle, Alustriel has found Tasha an unparalleled ally when their interests align, as Tasha can access and influence places where even the daughter of Mystra dares not tread. The version of Tasha who answers Alustriel's summons is from the past, before Tasha became Iggwilv the Witch Queen. More about Tasha, including her stat block, can be found in appendix B.
+[[Tasha_die_Hexe-veor|Tasha]] ist eine chaotisch neutrale Erzmagierin von Oerth, renommierte Dämonologin und die Adoptivtochter von Baba Yaga. Sie ist als größte Abyss-Expertin des Multiversums bekannt und hat das legendäre Dämonomikon von Iggwilv geschrieben. Ihre Motive mögen wechselhaft sein, doch Alustriel hat in Tasha eine unvergleichliche Verbündete gefunden, da sie dieselben Interessen verfolgen und Tasha Orte erreichen und beeinflussen kann, die selbst Mystras Tochter nicht zu betreten wagt. Die Version von Tasha, die Alustriels Ruf folgt, stammt aus der Vergangenheit, ehe Tasha zu Iggwilv der Hexenkönigin wurde. Mehr über Tasha sowie ihre Spielwerte findest du in Anhang B.
 
-![Tasha](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/030-02-003-tasha.webp#center)
+![Tasha](Vecna-Vorabend_der_Verdammnis/img/030-02-003-tasha.webp#center)
 
-## Kas the Destroyer
+## Kas der Zerstörer
 
-The vampire warlord [Kas](/3-Mechanics/CLI/bestiary/npc/kas-the-betrayer-veor.md) maintains his masquerade as Mordenkainen, likely fooling the characters until the events of chapter 9. The blood feud between Kas and Vecna stretches back centuries to a time when Kas served as Vecna's first lieutenant. More about Kas, including his stat block, appears in appendix B.
+Der Vampir-Kriegsherr [[Kas_der_Verräter-veor|Kas]] gibt sich als Mordenkainen aus und kann die Charaktere vermutlich bis zu den Ereignissen in Kapitel 9 täuschen. Die Blutfehde zwischen Kas und Vecna reicht Jahrhunderte zurück bis zu der Zeit, da Kas als Vecnas oberster Feldherr diente. Mehr über Kas sowie seine Spielwerte findest du in Anhang B.
 
-### Manipulation in Motion
+### Dynamische Manipulation
 
-After the Dark Powers released him, Kas tracked down a cell of Vecna's cultists, who told the vampire more about the lich-god's planned ritual. The vampire used the [Crown of Lies](/3-Mechanics/CLI/items/crown-of-lies-veor.md) to intercept a message from Alustriel to Mordenkainen, then used the crown to mimic Mordenkainen. Kas then met with Alustriel and gained her confidence.
+Als die Dunklen Mächte Kas freigaben, suchte dieser eine Zelle von Vecnas Kultisten auf und brachte dort mehr über das geplante Ritual des Lich-Gottes in Erfahrung. Der Vampir benutzte die [[Krone_der_Lügen-veor|Krone der Lügen]], um eine Botschaft von Alustriel an Mordenkainen abzufangen und um sich dann als dieser zu tarnen. Er suchte Alustriel auf, und sie vertraute ihm.
 
-While posing as Mordenkainen, Kas sabotages the archmages' Wish spell. As a consequence, the spell shunts the characters to Alustriel's sanctum. Suspecting that the characters are somehow linked to Vecna, Kas urges them to retrieve the pieces of the [Rod of Seven Parts](/3-Mechanics/CLI/items/rod-of-seven-parts-veor.md). As Mordenkainen, Kas claims that the rod is the only way to weaken Vecna to the point where the characters might thwart his ritual and banish the lich-god to Oerth.
+Getarnt als Mordenkainen sabotiert Kas den [[Wunsch]]-Zauber der Erzmagier. Als Folge schleudert der Zauber die Charaktere in Alustriels Heiligtum. Kas ahnt, dass die Charaktere irgendwie mit Vecna verbunden sind, und drängt sie, die Teile des [[Stab_der_Sieben_Teile-veor|Stabs der Sieben Teile]] zu beschaffen. Als Mordenkainen behauptet er, der Stab wäre die einzige Möglichkeit, Vecna so zu schwächen, dass die Charaktere sein Ritual vereiteln und den Lich-Gott nach Oerth verbannen können.
 
-In truth, Kas intends to steal the *Rod of Seven Parts* once he has all the pieces. He plans to whisk the artifact to the plane of Pandemonium, use it to free the demon known as Miska the Wolf-Spider, and kill Vecna. Kas doesn't yet know the site of Vecna's ritual is also on Pandemonium, the same plane where Miska is imprisoned, but the vampire finds out later in this adventure.
+Tatsächlich will Kas den [[Stab_der_Sieben_Teile-veor|Stab der Sieben Teile]] stehlen, sobald dieser vollständig ist. Er plant, das Pandämonium aufzusuchen, dort mit dem Artefakt den Dämon Miska Wolfsspinne zu befreien und dann Vecna zu töten. Der Vampir weiß noch nicht, dass sich auch der Schauplatz von Vecnas Ritual im Pandämonium befindet, wo Miska gefangen ist, wird es jedoch später in diesem Abenteuer erfahren.
 
-#### Kas in the Sanctum
+#### Kas im Heiligtum
 
-While disguised as Mordenkainen, Kas never lets his guard down or removes the [Crown of Lies](/3-Mechanics/CLI/items/crown-of-lies-veor.md). Occasionally during this adventure, Mordenkainen is absent from the sanctum. During these interludes, the vampire warlord travels to other realms and eventually deduces where Vecna plans to enact the multiverse-unraveling ritual. This sets into motion the betrayal that takes place in chapter 9.
+Solange Kas als Mordenkainen auftritt, ist er stets wachsam und entfernt niemals die [[Krone_der_Lügen-veor|Krone der Lügen]]. Im Verlauf dieses Abenteuers ist er gelegentlich nicht im Heiligtum anwesend. Zu diesen Zeiten reist er zu anderen Ebenen und kann schließlich herausfinden, wo Vecna sein Ritual zur Umgestaltung des Multiversums durchführen will. Dies setzt den Verrat in Gang, der in Kapitel 9 stattfindet.
 
-#### Evidence of Deception
+#### Hinweise auf Täuschung
 
-While in the sanctum, Kas is careful to leave no direct evidence that he's not Mordenkainen. In Mordenkainen's quarters (area S8), Kas leaves spellbooks and collections of notes spread across the desk to reinforce his fake identity.
+Im Heiligtum achtet Kas streng darauf, keine direkten Beweise zu liefern, dass er nicht Mordenkainen ist. In Mordenkainens Gemach (Bereich H8) hat er Zauberbücher und Sammlungen von Notizen drapiert, um seine Rolle glaubwürdiger zu spielen.
 
-However, a character who searches Mordenkainen's quarters and succeeds on a DC 30 Intelligence (Investigation) check notices that none of the famed spells Mordenkainen authored are mentioned in these spellbooks or notes. The jumbled notes are written awkwardly, while Mordenkainen is known for his academic, methodical style.
+Ein Charakter, der Mordenkainens Gemach durchsucht und einen SG-30-Intelligenzwurf ([[01-Spielleiter/Fertigkeiten-phb#Nachforschungen|Nachforschungen]]) besteht, bemerkt, dass in diesen Unterlagen keiner der berühmten Zauber Mordenkainens erwähnt wird. Außerdem sind die Notizen stümperhaft verfasst, obwohl Mordenkainen für seine akademisch-methodische Vorgehensweise bekannt ist.
 
-Any thorough search of Mordenkainen's quarters yields a black Bag of Holding tucked underneath the mattress. Inside the bag is a mundane silver chain bearing a sword-shaped pendant inlaid with black diamonds, worth 5,000 gp total. Also inside is a magically preserved, leather-bound journal.
+Bei einer gründlichen Durchsuchung von Mordenkainens Quartier kommt ein schwarzer Nimmervoller Beutel zum Vorschein, der unter der Matratze versteckt lag. Im Beutel befindet sich eine schlichte Silberkette mit einem schwertförmigen Anhänger, in den schwarze Diamanten gefasst sind. Das Schmuckstück ist insgesamt 5.000 GM wert. Ebenfalls im Beutel enthalten ist ein auf magische Art erhaltenes Tagebuch mit Ledereinband.
 
-The journal's contents are written in a cipher. A character who spends at least 1 hour examining the text can make a successful DC 30 Intelligence (Investigation) check, decoding it on a success. The journal tells the story of two people called "K." and "V." who once crafted murderous battle plans together, but then parted bitterly and became enemies. A successful DC 20 Intelligence (History) check reveals that this story refers to Kas and Vecna.
+Der Inhalt des Tagebuchs ist verschlüsselt. Ein Charakter, der mindestens eine Stunde lang den Text untersucht, kann einen SG-30-Intelligenzwurf (Nachforschungen) ausführen. Bei einem Erfolg kann er den Text entschlüsseln. Das Tagebuch erzählt die Geschichte zweier Personen namens „K." und „V.", die einst gemeinsam mörderische Kampfpläne geschmiedet hatten, sich dann jedoch in Bitterkeit trennten und Feinde wurden. Ein erfolgreicher SG-20-Intelligenzwurf ([[01-Spielleiter/Fertigkeiten-phb#Geschichte|Geschichte]]) enthüllt, dass es sich um die Geschichte von Kas und Vecna handelt.
 
-##### Mordenkainen's Secret
+##### Mordenkainens Geheimnis
 
-If the characters find out at any point in this adventure that Mordenkainen is Kas in disguise, it counts as a secret for the purposes of the Power of Secrets rules in this book's introduction.
+Wenn die Charaktere irgendwann im Verlauf dieses Abenteuers herausfinden, dass Mordenkainen tatsächlich Kas ist, zählt dies als Geheimnis, für das die Regeln unter „Die Macht der Geheimnisse" in der Einführung dieses Buchs gelten.
 
-#### If They Find Out?
+#### Was, wenn sie es herausfinden?
 
-![Malaina van Talstiv](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/031-02-004-malaina-van-talstiv.webp#center)
+![Malaina van Talstiv](Vecna-Vorabend_der_Verdammnis/img/031-02-004-malaina-van-talstiv.webp#center)
 
-Although it's unlikely, the characters might become suspicious of Mordenkainen and question him. The characters could investigate the wizard's activities outside the Sigil sanctum, or they might find the strange personal items in Mordenkainen's Bag of Holding. If the characters put sufficient effort into their investigations, consider allowing them to discover before chapter 9 that Mordenkainen is an impostor.
+Es ist zwar unwahrscheinlich, doch die Charaktere könnten Mordenkainen gegenüber misstrauisch werden und ihn befragen. Sie könnten die Aktivitäten des Magiers außerhalb des Heiligtums in Sigil untersuchen oder die merkwürdigen persönlichen Gegenstände in Mordenkainens Nimmervollem Beutel finden. Wenn die Charaktere genügend Anstrengungen in ihre Nachforschungen stecken, dann erwäge, sie noch vor Kapitel 9 entdecken zu lassen, dass Mordenkainen ein Hochstapler ist.
 
-##### Kas Defeats the Characters
+##### Kas besiegt die Charaktere
 
-If the characters confront Kas before chapter 9, allow the battle to play out using the stat block for [Kas](/3-Mechanics/CLI/bestiary/npc/kas-the-betrayer-veor.md) in appendix B. If Kas defeats the characters, he kills them and absconds to Pandemonium. Alustriel has the clerics of Silverymoon bring the characters back to life, apologetic for not discovering Kas's ruse and angry she was duped. Alustriel suspects Kas knows where Vecna weaves his ritual and encourages the characters to follow the vampire to Pandemonium when they can.
+Wenn die Charaktere [[Kas]] vor Kapitel 9 konfrontieren, lass den Kampf stattfinden und nutze für Kas die Spielwerte in Anhang B. Falls Kas die Charaktere besiegt, tötet er sie und verschwindet ins Pandämonium. Alustriel sorgt dafür, dass die Charaktere von den Klerikern von Silbrigmonds wiedererweckt werden. Sie bedauert, Kas' List nicht durchschaut zu haben, und ist wütend, dass sie betrogen wurde. Sie argwöhnt, dass Kas weiß, wo Vecna sein Ritual vorbereitet, und ermutigt die Charaktere, dem Vampir ins Pandämonium zu folgen, wenn möglich.
 
-In this case, Kas lacks the completed [Rod of Seven Parts](/3-Mechanics/CLI/items/rod-of-seven-parts-veor.md). Adjust chapter 10 to reflect that Miska never begins to escape his prison. The characters' priority remains stopping Vecna, but if they don't permanently destroy Kas, at some point the vampire hunts down the characters. Once the characters eventually defeat Kas, they learn where Vecna weaves his ritual and can proceed to chapter 11.
+In diesem Fall verfügt Kas nicht über den kompletten [[Stab_der_Sieben_Teile-veor|Stab der Sieben Teile]]. Passe Kapitel 10 entsprechend an, um der Tatsache Rechnung zu tragen, dass Miska nicht aus seinem Gefängnis entkommen kann. Die Priorität der Charaktere besteht weiterhin darin, Vecna zu stoppen, doch wenn sie Kas nicht endgültig zerstören, jagt er sie irgendwann. Besiegen die Charaktere Kas schließlich, erfahren sie, wo Vecna sein Ritual vorbereitet, und es geht mit Kapitel 11 weiter.
 
-##### The Characters Defeat Kas
+##### Die Charaktere besiegen Kas
 
-If the characters defeat Kas, allow them to decide how to proceed. They might still want to reassemble the [Rod of Seven Parts](/3-Mechanics/CLI/items/rod-of-seven-parts-veor.md) to use its power against the lich-god. However, to reinforce the story's sense of urgency, feel free to skip the characters ahead to chapter 10. If you do, award the characters the appropriate number of milestone level-ups so they have a fair chance of defeating the threats in the adventure's final chapters.
+Wenn die Charaktere Kas besiegt haben, lass sie selbst entscheiden, wie sie fortfahren. Möglicherweise wollen sie weiterhin den [[Stab_der_Sieben_Teile-veor|Stab der Sieben Teile]] zusammensetzen, um seine Macht gegen den Lich-Gott einzusetzen. Um das Tempo der Geschichte zu halten, kannst du die Charaktere jedoch auch gleich zu Kapitel 10 springen lassen. Gib ihnen in diesem Fall die entsprechende Anzahl von Meilenstein-Stufenaufstiegen, damit sie eine realistische Chance haben, die Gefahren im letzten Kapitel des Abenteuers zu überwinden.
 
-## Surprise Development
+## Überraschende Entwicklung
 
-When the failed Wish spell transports the characters to Alustriel's sanctum, read or paraphrase the following:
+Wenn die Charaktere durch den fehlgeschlagenen WunschZauber in Alustriels Heiligtum gelangen, lies die folgende Beschreibung vor oder formuliere sie frei:
 
 > [!readaloud] 
 > 
-> With a flash of multicolored light, the world winks out of existence. Nothingness envelops your senses, though you feel the thrum of magic rushing like an electric spark through your veins.
+> Mit einem bunten Blitz verschwindet die Welt. Das Nichts umhüllt eure Sinne, nur Magie pulsiert wie elektrische Funken durch eure Adern.
 > 
-> When you regain focus, you stand in a plush, candlelit parlor. A stately woman in blue robes leans toward you, her brow furrowed in confusion and concern. In the blurry background stand a frowning woman in a flowing, black dress and a man tugging in confusion at his high, crimson collar.
+> Als die Wahrnehmung zurückkehrt, befindet ihr euch in einem eleganten, von Kerzen beleuchteten Wohnzimmer. Eine prächtig gekleidete Frau beugt sich über euch. Sie wirkt verwirrt und besorgt. Im Hintergrund nehmt ihr undeutlich eine skeptisch dreinschauende Frau in fließenden schwarzen Gewändern und einen Mann wahr, der sich ratlos am purpurroten Kragen zupft.
 ^0ed
 
-The characters appear in area S3 of the Sigil sanctum. The woman leaning toward the characters is Alustriel, and the two individuals behind her are Tasha and Mordenkainen. "You can't be the answer to our *Wish*," Tasha sneers, while Alustriel shushes her and ushers the characters toward the sanctum's comfortable lounge furniture.
+Die Charaktere erscheinen in Bereich H3 des Heiligtums in Sigil. Die Frau, die sich über die Charaktere beugt, ist Alustriel. Die beiden Personen hinter ihr sind Tasha und Mordenkainen. ,,Ihr könnt doch nicht die Antwort auf unseren Wunsch sein", sagt Tasha hämisch, doch Alustriel gebietet ihr zu schweigen und führt die Charaktere zu den bequemen Sesseln des Salons im Heiligtum.
 
-### Some Answers
+### Ein paar Antworten
 
-At this point, Alustriel explains where the characters are and how they arrived, though she doesn't understand why they teleported to the sanctum as a result of the Wish spell. She then introduces herself and her wizardly companions.
+Alustriel erklärt, wo die Charaktere sich befinden und wie sie hergekommen sind, wobei sie nicht weiß, warum sie infolge eines Wunsch-Zaubers ins Heiligtum teleportiert wurden. Dann stellt sie sich und ihre Magiergefährten vor.
 
-![Kas](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/032-02-005-kas.webp#center)
+![Kas](Vecna-Vorabend_der_Verdammnis/img/032-02-005-kas.webp#center)
 
-As the characters try to figure out what's going on, Alustriel asks whether they have any ties to Vecna. If the characters mention Vecna's Link, Alustriel reasons that the characters' fate must somehow be interwoven with Vecna's. She surmises that since the *Wish* was unable to fulfill its parameters, it instead found beings tied to Vecna and brought them to Sigil. She then explains everything she knows as described in "Rise of the Lich-God" earlier in this chapter.
+Als die Charaktere herauszufinden, was los ist, fragt Alustriel, ob sie irgendwelche Verbindungen zu Vecna haben. Erwähnen sie ihre Verbindung zu Vecna, schlussfolgert Alustriel, dass das Schicksal der Charaktere irgendwie mit dem von Vecna verbunden sein muss. Sie nimmt an, dass der Wunsch-Zauber nicht imstande war, das gewünschte Ergebnis zu liefern, und daher Wesen, die mit Vecna in Zusammenhang stehen, nach Sigil gebracht hat. Dann erklärt sie alles, was sie wie unter „Aufstieg des Lich-Gottes" weiter vorne in diesem Kapitel beschrieben weiß.
 
-#### Aftermath of a Wish
+#### Nachwirkungen eines Wunschs
 
-As the characters interact with Alustriel, Tasha stands near them, aloof and occasionally interjecting acerbic comments. Mordenkainen remains silent, focusing intensely on everything the characters say.
+Während die Charaktere mit Alustriel sprechen, steht Tasha in der Nähe, gibt sich distanziert und wirft gelegentlich eine bissige Bemerkung ein. Mordenkainen schweigt und hört den Charakteren genau zu.
 
-After a few minutes of conversation, the characters notice that the Wizards Three seem tired and weakened. Any character proficient in the Medicine skill understands that the wizards are extremely fatigued. Any character proficient in the Arcana skill realizes that the wizards expended a great deal of arcane energy casting the *Wish* spell. (Mordenkainen is faking his fatigue, but in the context of Alustriel and Tasha's real physical weakness, it seems legitimate.)
+Nach einigen Gesprächsminuten bemerken die Charaktere, dass die drei Magier müde und geschwächt wirken. Ein in Heilkunde geübter Charakter begreift, dass sie überaus erschöpft sind. Ein in Arkaner Kunde geübter Charakter stellt fest, dass die Magier sehr viel arkane Energie investiert haben, um den Wunsch-Zauber zu wirken. (Mordenkainen täuscht die Erschöpfung nur vor, doch angesichts Alustriels und Tashas tatsächlicher körperlicher Schwäche fällt das nicht weiter auf.)
 
-### A New Plan
+### Ein neuer Plan
 
-After the characters absorb their situation, Alustriel expresses concern that the wizards can't stop Vecna. Mordenkainen says, "I have an alternative plan."
+Wenn die Charaktere ihre Situation einigermaßen verstanden haben, drückt Alustriel die Sorge aus, dass die Magier Vecna nicht stoppen können. Mordenkainen wirft ein: „Ich habe noch einen Plan."
 
-Mordenkainen strides over to a cabinet full of magic items and picks up a silver chime. He then approaches the characters, displays the chime, and says the following:
+Er geht zu einer Vitrine voller magischer Gegenstände und nimmt eine silberne Glocke heraus. Diese zeigt er den Charakteren und sagt Folgendes:
 
 > [!readaloud] 
 > 
-> "I worried that perhaps our *Wish* wouldn't stop one as powerful as Vecna. Alustriel, please forgive me, but I did plan a contingency.
+> „Ich war besorgt, dass unser Wunsch-Zauber jemanden, der so mächtig ist wie Vecna, vielleicht nicht aufhalten kann. Alustriel, vergebt mir, aber ich habe einen Notfallplan vorbereitet.
 > 
-> "Vecna is too powerful to stop directly at this point. However, no power is absolute. I suspect Vecna will be vulnerable while he weaves his ritual. If you confront and weaken him, this *Chime of Exile* can banish him to Oerth. He would no longer be able to affect multiple realms at once. His plan to remake the multiverse would fail."
+> Vecna ist zu mächtig, um ihn jetzt noch direkt zu stoppen. Doch keine Macht ist unantastbar. Ich nehme an, dass Vecna verwundbar ist, während er sein Ritual wirkt. Wenn er konfrontiert und geschwächt wird, kann diese Glocke des Exils ihn nach Oerth verbannen. Dann ist er nicht mehr in der Lage, mehrere Ebenen gle.ichzeitig zu beeinflussen. Sein Plan, das Multiversum umzugestalten, würde scheitern."
 ^0f1
 
-Mordenkainen's eyes gleam with excitement as he continues:
+Mordenkainens Augen leuchten vor Aufregung, als er fortfährt:
 
 > [!readaloud] 
 > 
-> "There is an artifact that is, I believe, the only way to weaken Vecna so the chime can be used against him. It's called the *Rod of Seven Parts*. Unfortunately, its component pieces are scattered across existence.
+> „Es gibt ein Artefakt, das ich für die einzige Möglichkeit halte, Vecna so zu schwächen, dass die Glocke gegen ihn eingesetzt werden kann. Es heißt Stab der Sieben Teile. Leider sind diese sieben Teile im ganzen Multiversum verstreut
 > 
-> "While my esteemed colleagues researched the magic needed to cast a *Wish* spell powerful enough to stop Vecna, I looked into finding the rod's pieces should we need them. The first piece is deep in the Underdark, somewhere inside a hidden safe house for worshipers of the demon-god Lolth. Web's Edge, it's called.
+> Während meine geschätzten Kolleginnen die Magie erforscht haben, die für einen ausreichend mächtigen Wunsch-Zauber vonnöten war, habe ich in Erfahrung gebracht, wie wir die Teile des Stabs finden können, falls wir sie brauchen. Das erste Teil befindet sich tief im Unterreich, irgendwo in einer verborgenen Zuflucht für die Anhänger der Dämonengöttin Lolth. Diese Zuflucht heißt Netzrand.
 > 
-> "Find that first piece of the rod, my friends. The portal on the dais will take you to it. Once you locate the first piece, the magic inherent in the artifact will point you to the second piece, and then to the third, and so on. This sanctum's portal reacts to powerful magic such as this artifact, so as you find each piece, this portal will lead to the next. No need to use another key; the most recent piece of the rod will suffice.
+> Findet dieses erste Teil des Stabs, meine Freunde. Das Portal auf dem Podest wird Euch hinbringen. Sobald Ihr das erste Teil gefunden habt, wird die Magie darin Euch den Weg zum zweiten weisen, dessen Magie den Weg zum dritten, und so weiter. Das Portal dieses Heiligtums reagiert auf mächtige Magie wie jene im Artefakt. Wann immer Ihr ein Teil gefunden habt, wird das Portal Euch zum nächsten bringen. Einen anderen Schlüssel braucht ihr nicht. Das jeweils aktuelle Teil des Stabs wird ausreichen.
 > 
-> "There's no time to waste. Once you've reassembled the rod, we can all confront Vecna and stop his heinous plan. You'll be the heroes of the multiverse! How does that sound?"
+> Es gibt keine Zeit zu verlieren. Sobald Ihr den Stab zusammengefügt habt, können wir alle Vecna konfrontieren und seinen bösen Plan durchkreuzen. Ihr werdet die Helden des Multiversums sein! Wie hört sich das an?"
 ^0f2
 
-![Subtle evidence of Mordenk...](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/033-02-006-evidence.webp#center "Subtle evidence of Mordenkainen's true identity is hidden in the sanctum")
+![Im Heiligtum sind subtile Hinweise auf Mordenkainens wahre Identität zu finden.](Vecna-Vorabend_der_Verdammnis/img/033-02-006-evidence.webp#center)
 
-Although taken aback at how much work Mordenkainen has done on this contingency, Alustriel and Tasha admit that the plan Mordenkainen has laid out is the best hope to stop Vecna. Alustriel compliments Mordenkainen on his foresight.
+Alustriel und Tasha staunen zwar, dass Mordenkainen so viel Arbeit in diesen Notfallplan gesteckt hat, sehen aber ein, dass dieser Plan ihre größte Hoffnung ist, Vecna aufzuhalten. Alustriel gratuliert Mordenkainen zu seiner Voraussicht.
 
-The wizards answer the characters' questions to the best of their ability. Like Mordenkainen, Alustriel and Tasha urge the characters to make haste, though they help the characters prepare for their journey any way they can. Mordenkainen, Alustriel, and Tasha explain that while the characters reassemble the rod, the archmages must continue to research Vecna's plans and potential weaknesses.
+Die Magier beantworten die Fragen der Charaktere nach besten Kräften. Wie Mordenkainen drängen auch Alustriel und Tasha zur Eile, helfen den Charakteren jedoch bei der Vorbereitung auf die Reise, so gut sie nur können. Die drei Magier erklären, dass sie fortfahren müssen, Vecnas Pläne und mögliche Schwächen zu erforschen, während die Charaktere sich um den Stab kümmern.
 
-Before the characters depart for Web's Edge, Alustriel relays any information they haven't yet learned, including the details found in "Magic in the Sanctum" earlier in this chapter.
+Ehe die Charaktere nach Netzrand aufbrechen, versorgt Alustriel sie mit allen Informationen, die sie noch nicht erfahren haben, darunter mit den Details unter „Magie im Heiligtum" weiter vorne in diesem Kapitel.
 
 #### A Significant Lie
 

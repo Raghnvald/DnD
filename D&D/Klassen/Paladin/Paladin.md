@@ -238,7 +238,7 @@ Wenn du ab der 2. Stufe eine Kreatur mit einem Nahkampf-Waffenangriff triffst, k
 Auf der 2. Stufe entscheidest du dich für einen Kampfstil, auf den du dich spezialisierst. Wähle eine der folgenden Möglichkeiten. Du kannst keinen der Stile mehr als einmal wählen, selbst wenn du später erneut aussuchen darfst.
 
 - [[Duellieren]]
-- [[Kampf mit großen Waffen]]
+- [[Kampf_mit_großen_Waffen-phb]]
 - [[Leibwache]]
 - [[Verteidigung]]
 

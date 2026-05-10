@@ -1,16 +1,16 @@
 ---
-Bezeichnung: 50 gp Gemstones
+Bezeichnung: 50 GM Edelsteine
 tags:
   - Quelle/5e/dmg
 aliases:
   - 50 gp Gemstones
 ---
-# 50 gp Gemstones
-*Source: Dungeon Master's Guide p. 134* 
+# 50 GM Edelsteine
+*Quelle: Spielleiterhandbuch, S. 134* 
 
-**50 gp Gemstones**
+**50 GM Edelsteine**
 
-| dice: d12 | Stone Description |
+| W12 | Steinbeschreibung |
 |-----------|-------------------|
 | 1 | [Bloodstone](/3-Mechanics/CLI/items/bloodstone-xdmg.md) (opaque dark gray with red flecks) |
 | 2 | [Carnelian](/3-Mechanics/CLI/items/carnelian-xdmg.md) (opaque orange to red-brown) |

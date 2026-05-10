@@ -1,14 +1,14 @@
 ---
-Bezeichnung: "Treasure Hoard: Challenge 11—16"
+Bezeichnung: "Schatzhort: Herausforderungsgrad 11—16"
 tags:
   - Quelle/5e/dmg
 aliases:
   - Treasure Hoard: Challenge 11—16
 ---
-# Treasure Hoard: Challenge 11—16
-*Source: Dungeon Master's Guide p. 133* 
+# Schatzhort: Herausforderungsgrad 11 - 16
+*Quelle: Spielleiterhandbuch, S. 133* 
 
-**Treasure Hoard: Challenge 11—16**
+**Schatzhort: Herausforderungsgrad 11 - 16**
 
 |  | CP | SP | EP | GP | PP |
 |--|----|----|----|----|----|

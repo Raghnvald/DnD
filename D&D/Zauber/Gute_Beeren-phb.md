@@ -1,6 +1,12 @@
 ---
 Bezeichnung: Goodberry
 Zaubergrad: 1
+Zeitaufwand: 1 Aktion
+Reichweite: Berührung
+Komponenten: V, G, M
+Wirkungsdauer: Unmittelbar
+Angriff: /
+Schaden: /
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide
@@ -17,18 +23,18 @@ aliases:
   - Goodberry
 linter-yaml-title-alias: Goodberry
 ---
-# Goodberry
-*1st-level, Transmutation*  
+# Gute Beeren
+*Verwandlung des 1. Grades*  
 
-- **Casting time:** 1 Action
-- **Range:** Touch
-- **Components:** V, S, M (a sprig of mistletoe)
-- **Duration:** Instantaneous
+- **Zeitaufwand:** 1 Aktion
+- **Reichweite:** Berührung
+- **Komponenten:** V, G, M (ein Mistelzweig)
+- **Wirkungsdauer:** Unmittelbar
 
-Up to ten berries appear in your hand and are infused with magic for the duration. A creature can use its action to eat one berry. Eating a berry restores 1 hit point, and the berry provides enough nourishment to sustain a creature for one day.
+Bis zu zehn Beeren erscheinen in deiner Hand und werden für die Wirkungsdauer mit Magie erfüllt. Eine Kreatur kann eine Aktion verwenden, um eine Beere zu essen. Dies stellt 1 Trefferpunkt wieder her, außerdem bietet die Beere genug Nahrung, um eine Kreatur für einen Tag zu versorgen.
 
-The berries lose their potency if they have not been consumed within 24 hours of the casting of this spell.
+Die Beere verliert ihre Macht, wenn sie nicht innerhalb von 24 Stunden nach dem Wirken des Zaubers verzehrt wird.
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Ranger](/3-Mechanics/CLI/lists/list-spells-classes-ranger.md)
+**Klassen**: [Barde (Magische Geheimnisse)](Listen/list-spells-classes-bard.md); [Druide](Listen/list-spells-classes-druid.md); [Waldläufer](Listen/list-spells-classes-ranger.md)
 
-*Source: Player's Handbook p. 246. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+*Quellen: Spielerhandbuch S. 238. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span>*

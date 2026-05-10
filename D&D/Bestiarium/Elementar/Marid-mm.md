@@ -2,6 +2,14 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Marid
+Kategorie: Elementar
+Größe: Groß
+HG: 11
+Habitat:
+  - Küste
+  - Unterwasser
+image: Elementar/img/marid.webp
+status: 
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Küste
@@ -12,103 +20,89 @@ tags:
 aliases:
   - Marid
 ---
-# [Marid](3-Mechanics\CLI\bestiary\elemental/marid.md)
-*Source: Monster Manual p. 146*  
+# Marid
+*Quelle: Monsterhandbuch S. 96*  
 
-Hailing from the Elemental Plane of Water, the marids are the most wondrous of genie-kind. Although all genies wield great power, even the lowliest marid sees itself as clearly superior to the flighty djinn, the ground-hugging dao, and the fuming efreet. Large and piscine, marids are a strange sight to behold, particularly when clad in the finely stitched vests and colorful pantaloons they favor. They speak in voices as soft as the sea breeze or as sonorous as storm waves breaking against a rocky cliff. In flight, their lower bodies transform into columns of foamy water.
+Die Marids stammen von der Elementarebene des Wassers und sind die wundersamsten Dschinnis. Auch wenn alle Dschinnis große Macht besitzen, sehen sich selbst die niedersten der Marids den unbeständigen Dschinni, den an den Boden gebundenen Dao und den rauchenden Ifriti als klar überlegen.
 
-## Water Lords
+Marids sind riesig und fischartig und wahrlich seltsam anzusehen, besonders wenn sie in die fein genähten Westen und die farbigen Pluderhosen gekleidet sind, die sie schätzen. Sie sprechen in Stimmen so leise wie die Meeresbrise oder so volltönend wie Sturmwellen, die gegen Felsenklippen brechen. Im Flug verwandeln sich ihre Unterleibe in Säulen aus schaumigem Wasser.
 
-Water is a marid's native element, and the genie can manipulate water in virtually any way it desires. A marid can walk on water and breathe naturally beneath its surface. It can create water or shape clouds of fog and mist from the vapor in the air. It can even transform itself into mist, or use water as a weapon to bludgeon its foes.
+## Fürsten des Wassers
 
-## Marid Homes
+Wasser ist das Ursprungselement der Marids, und die Dschinnis können Wasser auf jede erdenkliche Weise manipulieren. Ein Marid kann auf Wasser wandeln und mühelos unter Wasser atmen. Er kann Wasser erschaffen oder Wolken aus Nebel und Dunst aus der Feuchtigkeit in der Luft formen. Er kann sich sogar in Nebel verwandeln oder Wasser als Waffe verwenden, um seine Feinde zu erschlagen.
 
-Marids are rare on the Material Plane. They inhabit mighty and majestic coral fortresses located in the Elemental Plane of Water. These citadels float in the depths of the plane and contain opulent, air-filled chambers where slaves and guests reside.
+## Das Zuhause der Marids
 
-A marid doesn't expect much from its slaves, simply wanting to have them for the status of ownership. Marids go out of their way to obtain skilled slaves, and aren't above kidnapping mortal artists, entertainers, or storytellers for use in their courts.
+Marids sind auf der Materiellen Ebene selten. Sie bewohnen mächtige und majestätische Korallenfestungen auf der Elementarebene des Wassers. Diese Zitadellen schweben in der Tiefe der Ebene und beinhalten opulente, luftgefüllte Räume, in denen Sklaven und Gäste leben.
 
-## Egotistical Hierarchs
+Ein Marid erwartet nicht viel von seinen Sklaven. Er will sie einfach nur haben, um den Status ihres Besitzes zu genießen. Marids machen sich große Mühen, um Sklaven mit Fähigkeiten zu erlangen, und sind nicht darüber erhaben, sterbliche Künstler, Schausteller oder Geschichtenerzähler zu entführen, um sie an ihren Höfen einzusetzen.
 
-All marids claim a title of nobility, and the race is awash in shahs, sultans, muftis, and khedives. Most of these titles are mere pretense on the part of the self-important marids.
+## Egoistische Hierarchen
 
-Marids treat all others-including other genies-as inferiors of various grades, ranging from poor cousins to petty annoyances. They tolerate djinn, dislike dao, and despise efreet.
+Alle Marids beanspruchen einen Adelstitel, und in dem Volk gibt es zahlreiche Schahs, Sultane, Muftis und Khediven. Die meisten dieser Titel werden von den selbstherrlichen Marids nur vorgegaukelt.
 
-Humanoids are among the lowest of the creatures that marids must tolerate, although they sometimes deal with powerful wizards and exceptional leaders on an almost-equal footing. Doing so has sometimes proven to be a mistake, since wizards have managed to imprison marids in conch shells, flasks, and decanters over the ages. Bribery and flattery are the best means of dealing with marids, to which an obsequious mortal is a creature that knows its place.
+Marids behandeln andere, auch andere Dschinnis, als in vielerlei Hinsicht minderwertig, von armen Vettern bis hin zu lästigen Störungen. Sie tolerieren Dschinni, mögen die Dao nicht und verabscheuen die Ifriti.
 
-## Whimsical Storytellers
+Humanoide gehören zu den niedersten Kreaturen, die Marids zu dulden haben, doch behandeln sie manchmal mächtige Magier und herausragende Anführer als fast ebenbürtig. Dies hat sich manchmal als Fehler erwiesen, da es Magiern gelungen ist, Marids in Muschelschalen, Flaschen und Dekantiergefäßen einzusperren. Bestechungen und Schmeicheleien sind die beste Möglichkeit, mit Marids umzugehen, denn für sie ist ein unterwürfiger Sterblicher nur eine Kreatur, die ihren Platz kennt.
 
-Marids are champion tale-tellers, whose favorite legends emphasize the prowess of marids in general and of the speaker in particular. Fanciful genies, they lie often and creatively. They aren't always malicious in their deception, but embellishments suit their fancy. Marids consider it a crime for a lesser being to interrupt one of their tales, and offending a marid is a sure way to invoke its wrath.
+## Launenhafte Geschichtenerzähler
 
-> [!quote] A quote from Kesto Brighteyes, Gnome Proprietor of the Parted Veil, a bookshop in Sigil  
+Marids sind meisterliche Geschichtenerzähler, deren liebste Legenden die Macht der Marids im Allgemeinen und des Sprechers im Besonderen betonen. Sie sind fantasievolle Dschinnis, die oft und kreativ lügen. Sie sind nicht immer bösartig in ihrer Täuschung, doch Ausschmückungen entsprechen ihren Launen. Marids sehen es als Verbrechen, wenn niedere Wesen eine ihrer Geschichten unterbrechen, und einen Marid zu beleidigen ist eine sichere Methode, um seinen Zorn zu erregen.
+
+> [!quote] Kesto Hellaugen, gnomischer Betreiber des Geteilten Schleiers, einer Buchhandlung in Sigil
 > 
-> The marid poured out of the flask like water and said, 'Your wish is my command.' The halfling, overjoyed, wished for immortality, so the marid polymorphed him into a fish that flopped around humorously until, finally, it expired. It's a cautionary tale that has survived through the ages, so I suppose the halfling got his wish.
+> Der Marid floss wie Wasser aus der Flasche und sagte: ,Dein Wunsch ist mir Befehl.' Der Halblind war überglücklich und wünschte sich, unsterblich zu sein. Also verwandelte der Marid ihn in einen Fisch, der humorvoll umherzuckte, bis er endlich verstarb. Es ist eine warnende Geschichte, die noch Zeitalter später erzählt wird, also hat der Halbling wohl bekommen, was er wollte.
 
 ```statblock
-"name": "Marid"
-"size": "Large"
-"type": "elemental"
-"alignment": "Chaotic Neutral"
-"ac": !!int "17"
-"ac_class": "natural armor"
-"hp": !!int "229"
-"hit_dice": "17d10 + 136"
-"modifier": !!int "1"
-"stats":
-  - !!int "22"
-  - !!int "12"
-  - !!int "26"
-  - !!int "18"
-  - !!int "17"
-  - !!int "18"
-"speed": "30 ft., fly 60 ft., swim 90 ft."
-"saves":
-  - "dexterity": !!int "5"
-  - "wisdom": !!int "7"
-  - "charisma": !!int "8"
-"damage_resistances": "acid, cold, lightning"
-"senses": "[blindsight](/3-Mechanics/CLI/senses.md#Blindsight) 30 ft., [darkvision](/3-Mechanics/CLI/senses.md#Darkvision)\
-  \ 120 ft., passive Perception 13"
-"languages": "Aquan"
-"cr": "11"
-"traits":
-  - "desc": "The marid's innate spellcasting ability is Charisma (spell save DC 16,\
-      \ +8 to hit with spell attacks). It can innately cast the following spells,\
-      \ requiring no material components:\n\n**At will:** [create or destroy water](/3-Mechanics/CLI/spells/create-or-destroy-water.md),\
-      \ [detect evil and good](/3-Mechanics/CLI/spells/detect-evil-and-good.md), [detect\
-      \ magic](/3-Mechanics/CLI/spells/detect-magic.md), [fog cloud](/3-Mechanics/CLI/spells/fog-cloud.md),\
-      \ [purify food and drink](/3-Mechanics/CLI/spells/purify-food-and-drink.md)\n\
-      \n**3/day each:** [tongues](/3-Mechanics/CLI/spells/tongues.md), [water breathing](/3-Mechanics/CLI/spells/water-breathing.md),\
-      \ [water walk](/3-Mechanics/CLI/spells/water-walk.md)\n\n**1/day each:** [conjure\
-      \ elemental](/3-Mechanics/CLI/spells/conjure-elemental.md) ([water elemental](/3-Mechanics/CLI/bestiary/elemental/water-elemental.md)\
-      \ only), [control water](/3-Mechanics/CLI/spells/control-water.md), [gaseous\
-      \ form](/3-Mechanics/CLI/spells/gaseous-form.md), [invisibility](/3-Mechanics/CLI/spells/invisibility.md),\
-      \ [plane shift](/3-Mechanics/CLI/spells/plane-shift.md)"
-    "name": "Innate Spellcasting"
-  - "desc": "The marid can breathe air and water."
-    "name": "Amphibious"
-  - "desc": "If the marid dies, its body disintegrates into a burst of water and foam,\
-      \ leaving behind only equipment the marid was wearing or carrying."
-    "name": "Elemental Demise"
-"actions":
-  - "desc": "The marid makes two trident attacks."
-    "name": "Multiattack"
-  - "desc": "*Melee  or Ranged Weapon Attack:* +10 to hit, reach 5 ft. or range 20/60\
-      \ ft., one target. *Hit:* 13 (2d6 + 6) piercing damage, or 15 (2d8 + 6) piercing\
-      \ damage if used with two hands to make a melee attack."
-    "name": "Trident"
-  - "desc": "The marid magically shoots water in a 60-foot line that is 5 feet wide.\
-      \ Each creature in that line must make a DC 16 Dexterity saving throw. On a\
-      \ failure, a target takes 21 (6d6) bludgeoning damage and, if it is Huge or\
-      \ smaller, is pushed up to 20 feet away from the marid and knocked [prone](/3-Mechanics/CLI/conditions.md#Prone).\
-      \ On a success, a target takes half the bludgeoning damage, but is neither pushed\
-      \ nor knocked [prone](/3-Mechanics/CLI/conditions.md#Prone)."
-    "name": "Water Jet"
-"source":
-  - "MM"
-"image": "/3-Mechanics/CLI/bestiary/elemental/token/marid.webp"
-```
+name: Marid
+image: Elementar/token/marid.webp
+source:
+  - MM
+size: Groß
+type: Elementar
+alignment: chaotisch neutral
+ac: 17
+ac_class: natürliche Rüstung
+hp: 229
+hit_dice: 17d10 + 136
+modifier: 1
+stats:
+  - 22
+  - 12
+  - 26
+  - 18
+  - 17
+  - 18
+speed: 9 m, fliegen 18 m, schwimmen 27 m
+saves:
+  - Geschicklichkeit: 5
+  - Weisheit: 7
+  - Charisma: 8
+damage_resistances: Blitz, Kälte, Säure
+senses: <STATBLOCK-MARKDOWN-LINK>Sinne-phb#Blindsicht|Blindsicht<STATBLOCK-MARKDOWN-LINK> 9 m, <STATBLOCK-MARKDOWN-LINK>Sinne-phb#Dunkelsicht|Dunkelsicht<STATBLOCK-MARKDOWN-LINK> 36 m, passive Wahrnehmung 13
+languages: Aqual
+cr: "11"
+environment: Küste, Unterwasser
+traits:
+  - name: Amphibisch
+    desc: Der Marid kann Luft und Wasser atmen.
+  - name: Elementarer Untergang
+    desc: Wenn der Marid stirbt, löst sich sein Körper in eine Explosion aus Wasser und Schaum auf. Es bleibt nur die Ausrüstung zurück, die der Marid getragen oder in der Hand gehalten hat.
+  - name: Angeborenes Zauberwirken
+    desc: |-
+      Das Attribut zum Wirken angeborener Zauber für den Marid ist Charisma (Zauberrettungswurf-SG 16, +8 zum Treffen mit Zauberangriffen). Er kann angeboren die folgenden Zauber wirken, wobei keine Materialkomponenten nötig sind:
+
+      **Willentlich:** <STATBLOCK-MARKDOWN-LINK>Gutes_und_Böses_entdecken-phb|Gutes und Böses entdecken<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>Magie_entdecken-phb|Magie entdecken<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>Nahrung_und_Wasser_reinigen-phb|Nahrung und Wasser reinigen<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>Nebelwolke-phb|Nebelwolke<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>Wasser_erschaffen_oder_zerstören-phb|Wasser erschaffen oder zerstören<STATBLOCK-MARKDOWN-LINK>
+
+      **jeweils 3/Tag:** <STATBLOCK-MARKDOWN-LINK>Auf_Wasser_gehen-phb|Auf Wasser gehen<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>Wasser_atmen-phb|Wasser atmen<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>Zungen-phb|Zungen<STATBLOCK-MARKDOWN-LINK>
+
+      **jeweils 1/Tag:** <STATBLOCK-MARKDOWN-LINK>Ebenenwechsel-phb|Ebenenwechsel<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>Elementar_beschwören-phb|Elementar beschwören<STATBLOCK-MARKDOWN-LINK> (nur <STATBLOCK-MARKDOWN-LINK>Wasserelementar-mm|Wasserelementar<STATBLOCK-MARKDOWN-LINK>), <STATBLOCK-MARKDOWN-LINK>Gasförmige_Gestalt-phb|Gasförmige Gestalt<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>Wasser_kontrollieren-phb|Wasser kontrollieren<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>Unsichtbarkeit-phb|Unsichtbarkeit<STATBLOCK-MARKDOWN-LINK>
+actions:
+  - name: Mehrfachangriff
+    desc: Der Marid führt zwei Dreizack-Angriffe aus.
+  - name: Dreizack
+    desc: "*Nahkampf- oder Fernkampf-Waffenangriff:* +10 zum Treffen, Reichweite 1,5 m, ein Ziel. *Treffer:* 13 (2d6 + 6) Stichschaden, oder 15 (2d8 + 6) Stichschaden, wenn die Waffe mit beiden Händen für einen Nahkampfangriff verwendet wird"
+  - name: Wasserstrahl
+    desc: Der Marid schießt auf magische Weise Wasser in einer Linie von 18 m Länge und 1,5 m Breite. Jede Kreatur in der Linie muss einen Geschicklichkeits-Rettungswurf gegen SG 16 ablegen. Bei einem Fehlschlag erleidet sie 21 (6d6) Wuchtschaden, und wenn sie riesig oder kleiner ist, wird sie bis zu 6 m vom Marid weggeschoben und erleidet den Zustand <STATBLOCK-MARKDOWN-LINK>Zustände-phb#Liegend|liegend<STATBLOCK-MARKDOWN-LINK>. Bei einem Erfolg erleidet das Ziel den halben Wuchtschaden, wird aber weder geschoben noch erleidet es den Zustand <STATBLOCK-MARKDOWN-LINK>Zustände-phb#Liegend|liegend<STATBLOCK-MARKDOWN-LINK>.
+``` 
 ^statblock
-
-## Environment
-
-underwater, coastal

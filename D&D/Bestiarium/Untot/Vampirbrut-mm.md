@@ -21,188 +21,102 @@ aliases:
   - Vampire Spawn
 linter-yaml-title-alias: Vampire Spawn
 ---
-# [Vampire Spawn](3-Mechanics\CLI\bestiary\undead/vampire-spawn.md)
-*Source: Monster Manual p. 298. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+# Vampirbrut
+*Quelle: Monsterhandbuch S. 294. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
-Awakened to an endless night, vampires hunger for the life they have lost and sate that hunger by drinking the blood of the living. Vampires abhor sunlight, for its touch burns them. They never cast shadows or reflections, and any vampire wishing to move unnoticed among the living keeps to the darkness and far from reflective surfaces.
+Vampire sind erwacht, um in einer endlosen Nacht zu existieren, und gieren nach dem Leben, das sie verloren haben. Sie stillen diesen Hunger, indem sie das Blut der Lebenden trinken. Vampire verabscheuen das Sonnenlicht, denn es verbrennt sie. Sie werfen niemals einen Schatten und haben kein Spiegelbild, und ein Vampir, der sich unbemerkt unter den Lebenden bewegen möchte, muss sich in der Dunkelheit aufhalten und spiegelnde Oberflächen meiden. 
 
-## Dark Desires
+## Dunkle Begierde
 
-Whether or not a vampire retains any memories from its former life, its emotional attachments wither as once-pure feelings become twisted by undeath. Love turns into hungry obsession, while friendship becomes bitter jealousy. In place of emotion, vampires pursue physical symbols of what they crave, so that a vampire seeking love might fixate on a young beauty. A child might become an object of fascination for a vampire obsessed with youth and potential. Others surround themselves with art, books, or sinister items such as torture devices or trophies from creatures they have killed.
+Ob ein Vampir Erinnerungen aus seinem früheren Leben behält oder nicht, seine emotionalen Bindungen vertrocknen, wenn einst reine Gefühle vom Untod verzerrt werden. Liebe wird zu hungriger Besessenheit, Freundschaft zu bitterer Eifersucht. Anstelle von Gefühlen verfolgen Vampire physische Symbole der Dinge, die sie begehren, sodass ein Vampir, der auf der Suche nach Liebe ist, sich etwa auf eine junge Schönheit fixiert. 
 
-## Born from Death
+Ein Kind könnte das Objekt der Faszination für einen Vampir werden, der von Jugend und Potential besessen ist. Andere umgeben sich mit Kunst, Büchern oder finsteren Gegenständen, wie Foltergeräten oder Trophäen der Kreaturen, die sie getötet haben
 
-Most of a vampire's victims become vampire spawn-ravenous creatures with a vampire's hunger for blood, but under the control of the vampire that created them. If a true vampire allows a spawn to draw blood from its own body, the spawn transforms into a true vampire no longer under its master's control. Few vampires are willing to relinquish their control in this manner. Vampire spawn become free-willed when their creator dies.
+## Aus dem Tod geboren
 
-## Chained to the Grave
+Die meisten Opfer eines Vampirs werden zu Vampirbrut - gierigen Kreaturen mit dem Bluthunger eines Vampirs, aber unter der Kontrolle des Vampirs, der sie erschaffen hat. Wenn es ein wahrer Vampir einer Vampirbrut erlaubt, Blut aus seinem Körper zu saugen, dann verwandelt sich die Brut in einen wahren Vampir, der nicht mehr unter der Kontrolle seines Meisters steht. Wenige Vampire sind bereit, ihre Kontrolle auf diese Weise aufzugeben. Die Brut eines Vampirs erlangt freien Willen, wenn ihr Schöpfer stirbt.
 
-Every vampire remains bound to its coffin, crypt, or grave site, where it must rest by day. If a vampire didn't receive a formal burial, it must lie beneath a foot of earth at the place of its transition to undeath. A vampire can move its place of burial by transporting its coffin or a significant amount of grave dirt to another location. Some vampires set up multiple resting places this way.
+## Ans Grab gebunden
 
-## Undead Nature
+Jeder Vampir ist an seinen Sarg, seine Gruft oder seine Grabstätte gebunden und muss sich dort tagsüber ausruhen. Wenn ein Vampir kein förmliches Begräbnis erhalten hat, muss er an dem Ort, an dem er in den Untod gewechselt ist, unter 30 Zentimetern Erde ruhen. Ein Vampir kann seinen Begräbnisort wechseln, indem er seinen Sarg oder eine beträchtliche Menge Graberde an einen anderen Ort transportiert. Einige Vampire erschaffen auf diese Weise mehrere Ruhestätten. 
 
-Neither a vampire nor a vampire spawn requires air.
+## Untote Natur
 
-## A Vampire's Lair
+Weder Vampire noch Vampirbrut müssen atmen.
 
-A vampire chooses a grand yet defensible location for its lair, such as a castle, fortified manor, or walled abbey. It hides its coffin in an underground crypt or vault guarded by vampire spawn or other loyal creatures of the night.
+## Der Hort eines Vampirs 
 
-> [!note] Player Characters as Vampires
+Ein Vampir wählt einen prachtvollen, aber gut zu verteidigenden Ort als Behausung aus, wie eine Burg, ein befestigtes Anwesen oder ein Wehrkloster. Er verbirgt seinen Sarg in einer unterirdischen Gruft oder einem Gewölbe, das von Vampirbrut oder anderen loyalen Kreaturen der Nacht bewacht wird.
+
+> [!note] Spielercharaktere als Vampire
 > 
-> The game statistics of a player character transformed into a vampire spawn and then a vampire don't change, except that the character's Strength, Dexterity, and Constitution scores become 18 if they aren't higher. In addition, the character gains the vampire's damage resistances, [darkvision](/3-Mechanics/CLI/senses.md#Darkvision), traits, and actions. Attack and damage rolls for the vampire's attacks are based on Strength.
-> 
-> The save DC for Charm is 8 + the vampire's proficiency bonus + the vampire's Charisma modifier. The character's alignment becomes lawful evil, and the DM might take control of the character until the vampirism is reversed with a [wish](/3-Mechanics/CLI/spells/wish.md) spell or the character is killed and brought back to life.
+> Die Spielwerte eines Spielercharakters, der in eine Vampirbrut und dann in einen Vampir verwandelt wird, ändern sich nicht, nur Stärke, Geschicklichkeit und Konstitution des Charakters steigen auf 18, wenn sie nicht schon höher sind. Außerdem erhält der Charakter die Schadensresistenzen, die [[Dunkelsicht]], die Merkmale und Aktionen des Vampirs. Angriffs- und Schadenswürfe für die Angriffe des Vampirs basieren auf Stärke. Der Rettungswurf für das Bezaubern des Vampirs ist 8 + Übungsbonus des Vampirs+ Charismamodifikator. Die Gesinnung des Charakters wird rechtschaffen böse, und der SL könnte die Kontrolle über den Charakter übernehmen, bis der Vampirismus mit dem Zauber [[Wunsch]] aufgehoben wird oder bis der Charakter getötet und zurück ins Leben gebracht wird.
 ^player-characters-as-vampires
 
 > [!note] Strahd von Zarovich
 > 
-> A brilliant thinker and capable warrior in life, Strahd von Zarovich fought in countless battles for his people. When war and killing finally stripped him of his youth and strength, he settled in the remote valley of Barovia and built a castle on a towering pinnacle, from which he could survey his lands. His brother Sergei came to live with him in Castle Ravenloft, becoming Strahd's adviser and constant companion.
+> Strahd von Zarovich war im Leben ein genialer Denker und fähiger Krieger und kämpfte in zahllosen Schlachten für sein Volk. Als der Krieg und das Morden ihn irgendwann seine Jugend und Stärke gekostet hatten, ließ er sich im abgelegenen Tal von Barovia nieder und errichtete eine Burg auf einem hoch aufragenden Gipfel, von dem aus er sein Land überblicken konnte. Sein Bruder Sergei lebte mit ihm zusammen auf Burg Rabenhorst und wurde Strahds Bera• ter und ständiger Begleiter. In seinem Bruder sah Strahd alles, was er verloren hatte. Sergei war gutaussehend und jung, wo Strahd alt und vernarbt geworden war. Missgunst begann ihre Beziehung zu färben und wurde schließlich zu Hass. Strahds Angebetete Tatyana wies ihn zu Gunsten Sergeis zurück, den sie zu heiraten schwor. 
 > 
-> In his brother, Strahd saw everything he had lost. Sergei was handsome and young, while Strahd had become old and scarred. Resentment colored their relationship, eventually turning into hatred. Strahd's beloved, Tatyana, spurned him for Sergei, whom she pledged to marry.
-> 
-> In a desperate attempt to win Tatyana's heart, Strahd forged a pact with dark powers that made him immortal. At the wedding of Sergei and Tatyana, he confronted his brother and killed him. Tatyana fled and flung herself from Ravenloft's walls. Strahd's guards, seeing him for a monster, shot him with arrows. But he did not die. He became a vampire-the first vampire, according to many sages.
-> 
-> In the centuries since his transformation, Strahd's lust for life and youth have only grown. He broods in his dark castle, cursing the living for stealing away what he lost, and never admitting his hand in the tragedy he created.
+> In einem verzweifelten Versuch, Tatyanas Herz zu gewinnen, schloss Strahd einen Pakt mit dunklen Mächten, die ihn unsterblich machten. Bei der Hochzeit von Sergei und Tatyana stellte er seinen Bruder und tötete ihn. Tatyana floh und warf sich von der Mauer von Rabenhorst. Strahds Wachen sahen ihn als Monster und schossen ihre Pfeile auf ihn ab. Aber er starb nicht. Er wurde ein Vampir - nach der Meinung zahlreicher Gelehrter der erste Vampir überhaupt. In den Jahrhunderten seit seiner Verwandlung sind Strahds Gier nach Leben und Jugend nur noch gewachsen. Er brütet in seiner dunklen Burg und verflucht die Lebenden dafür, das zu stehlen, was er verloren hat. Niemals gesteht er seine Verantwortung für die Tragödie ein, die er schuf.
 ^strahd-von-zarovich
 
-> [!quote] A quote from Count Strahd von Zarovich  
+> [!quote] Graf Strahd von Zarovich  
 > 
-> I am The Ancient, I am The Land. My beginnings are lost in the darkness of the past. I was the warrior, I was good and just. I thundered across the land like the wrath of a just god, but the war years and the killing years wore down my soul as the wind wears down stone into sand.
+> Ich bin der Uralte, ich bin das Land. Meine Anfänge sind in der Dunkelheit der Vergangenheit verloren. Ich war der Krieger, ich war gut und gerecht. Ich donnerte über das Land wie der Zorn eines gerechten Gottes, doch die Jahre des Krieges und die Jahre des Tötens zermürbten meine Seele, so wie der Wind Stein zu Sand schleift.
 
 ```statblock
-"name": "Vampire Spawn"
-"size": "Medium"
-"type": "undead"
-"alignment": "Neutral Evil"
-"ac": !!int "15"
-"ac_class": "natural armor"
-"hp": !!int "82"
-"hit_dice": "11d8 + 33"
-"modifier": !!int "3"
-"stats":
-  - !!int "16"
-  - !!int "16"
-  - !!int "16"
-  - !!int "11"
-  - !!int "10"
-  - !!int "12"
-"speed": "30 ft."
-"saves":
-  - "dexterity": !!int "6"
-  - "wisdom": !!int "3"
-"skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
-    "desc": "+3"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
-    "desc": "+6"
-"damage_resistances": "necrotic; bludgeoning, piercing, slashing from nonmagical attacks"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 13"
-"languages": "the languages it knew in life"
-"cr": "5"
-"traits":
-  - "desc": "The vampire regains 10 hit points at the start of its turn if it has\
-      \ at least 1 hit point and isn't in sunlight or running water. If the vampire\
-      \ takes radiant damage or damage from holy water, this trait doesn't function\
-      \ at the start of the vampire's next turn."
-    "name": "Regeneration"
-  - "desc": "The vampire can climb difficult surfaces, including upside down on ceilings,\
-      \ without needing to make an ability check."
-    "name": "Spider Climb"
-  - "desc": "The vampire has the following flaws:\n\n- **Forbiddance.** The vampire\
-      \ can't enter a residence without an invitation from one of the occupants. \
-      \ \n- **Harmed by Running Water.** The vampire takes 20 acid damage when it\
-      \ ends its turn in running water.  \n- **Stake to the Heart.** The vampire is\
-      \ destroyed if a piercing weapon made of wood is driven into its heart while\
-      \ it is [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated) in its\
-      \ resting place.  \n- **Sunlight Hypersensitivity.** The vampire takes 20 radiant\
-      \ damage when it starts its turn in sunlight. While in sunlight, it has disadvantage\
-      \ on attack rolls and ability checks  "
-    "name": "Vampire Weaknesses"
-"actions":
-  - "desc": "The vampire makes two attacks, only one of which can be a bite attack."
-    "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one willing creature,\
-      \ or a creature that is [grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
-      \ by the vampire, [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated),\
-      \ or [restrained](/3-Mechanics/CLI/conditions.md#Restrained). *Hit:* 6 (1d6\
-      \ + 3) piercing damage plus 7 (2d6) necrotic damage. The target's hit point\
-      \ maximum is reduced by an amount equal to the necrotic damage taken, and the\
-      \ vampire regains hit points equal to that amount. The reduction lasts until\
-      \ the target finishes a long rest. The target dies if this effect reduces its\
-      \ hit point maximum to 0."
-    "name": "Bite"
-  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one creature. *Hit:* 8\
-      \ (2d4 + 3) slashing damage. Instead of dealing damage, the vampire can grapple\
-      \ the target (escape DC 13)."
-    "name": "Claws"
-"source":
-  - "MM"
-"image": "/3-Mechanics/CLI/bestiary/undead/token/vampire-spawn.webp"
-```
-^statblock
-
-## Environment
-
-underdark, urban
-
-```statblock
-layout: Basic 5e German Layout 2024
-image: 
 name: Vampirbrut
+image: Untot/token/vampire-spawn.webp
+source:
+  - MM
 size: Mittelgroß
-type: Untoter
-alignment: Neutral Böse
-ac: 15 (natürliche Rüstung)
+type: Untot
+alignment: neutral böse
+ac: 15
+ac_class: natürliche Rüstung
 hp: 82
 hit_dice: 11d8 + 33
-speed: 9m
-stats: [16, 16, 16, 11, 10, 12]
+modifier: 3
+stats:
+  - 16
+  - 16
+  - 16
+  - 11
+  - 10
+  - 12
+speed: 9 m
 saves:
-  - STR:
-  - GES: 6
-  - KON:
-  - INT:
-  - WEI: 3
-  - CHA:
+  - Geschicklichkeit: 6
+  - Weisheit: 3
 skillsaves:
-  - Akrobatik:
-  - Arkane-Kunde:
-  - Athletik:
-  - Auftreten:
-  - Einschüchtern:
-  - Fingerfertigkeit:
-  - Geschichte:
-  - Heilkunde:
-  - Heimlichkeit: 6
-  - Mit-Tieren-umgehen:
-  - Motiv-erkennen:
-  - Nachforschungen:
-  - Naturkunde:
-  - Religion:
-  - Täuschen:
-  - Überlebenskunst:
-  - Überzeugen:
-  - Wahrnehmung: 3
-damage_vulnerabilities: 
-damage_resistances: Nekrotisch, Hieb-, Stich- und Wuchtschaden von nicht-magischen Angriffen
-damage_immunities: 
-condition_immunities: 
-senses: Dunkelsicht 18 m., passive Wahrnehmung 13
+  - name: <STATBLOCK-MARKDOWN-LINK>Fertigkeiten-phb#Heimlichkeit|Heimlichkeit<STATBLOCK-MARKDOWN-LINK>
+    desc: "+6"
+  - name: <STATBLOCK-MARKDOWN-LINK>Fertigkeiten-phb#Wahrnehmung|Wahrnehmung<STATBLOCK-MARKDOWN-LINK>
+    desc: "+3"
+damage_resistances: Nekrotisch; Wucht-, Stich- und Hiebschaden durch nichtmagische Angriffe 
+senses: <STATBLOCK-MARKDOWN-LINK>Sinne-phb#Dunkelsicht|Dunkelsicht<STATBLOCK-MARKDOWN-LINK> 18 m., passive Wahrnehmung 13
 languages: die Sprachen, die sie im Leben kannte
-cr: 5
+cr: "5"
 environment: Stadt, Unterreich
 traits:
-  - name: Regeneration.
-    desc: "Die Vampirbrut erhält zu Beginn seines Zugs 10 Trefferpunkte zurück, wenn sie mindestens 1 Trefferpunkt besitzt und sich nicht im Sonnenlicht oder in fließendem Wasser befindet. Wenn die Vampirbrut gleißenden Schaden oder Schaden durch Weihwasser erleidet, funktioniert dieses Merkmal zu Beginn des nächsten Zuges nicht. "
-  - name: Spinnenklettern.
+  - name: Regeneration
+    desc: Die Vampirbrut erhält zu Beginn seines Zugs 10 Trefferpunkte zurück, wenn sie mindestens 1 Trefferpunkt besitzt und sich nicht im Sonnenlicht oder in fließendem Wasser befindet. Wenn die Vampirbrut gleißenden Schaden oder Schaden durch Weihwasser erleidet, funktioniert dieses Merkmal zu Beginn des nächsten Zuges nicht.
+  - name: Spinnenklettern
     desc: Die Vampirbrut kann an schwierigen Oberflächen klettern, auch kopfüber an der Decke, ohne Attributswürfe ablegen zu müssen.
-  - name: Vampirschwächen.
-    desc: "Die Vampirbrut hat die folgenden Nachteile: <br> _Verbot_ Die Vampirbrut kann keinen Wohnsitz betreten, ohne eine Einladung von einem der Bewohner erhalten zu haben. <br> _Verletzt durch fließendes Wasser._ Die Vampirbrut erleidet 20 Säureschaden, wenn sie ihren Zug in fließendem Wasser beendet. <br> _Pflock ins Herz._ Die Vampirbrut wird zerstört, wenn eine Stichwaffe aus Holz in ihr Herz getrieben wird, solange sie sich kampfunfähig in ihrer Ruhestätte befindet. <br> _Hyperempfindlich gegenüber Sonnenlicht._ Die Vampirbrut erleidet 20 gleißenden Schaden, wenn sie ihren Zug im Sonnenlicht beginnt. Solange sie sich im Sonnenlicht befindet, erleidet sie ei nen Nachteil auf Angriffswürfe und Attributswürfe."
+  - name: Vampirschwächen
+    desc: |-
+      Die Vampirbrut hat die folgenden Nachteile:
+
+      - **Verbot.** Die Vampirbrut kann keinen Wohnsitz betreten, ohne eine Einladung von einem der Bewohner erhalten zu haben.  
+      - **Verletzt durch fließendes Wasser.** Die Vampirbrut erleidet 20 Säureschaden, wenn sie ihren Zug in fließendem Wasser beendet  
+      - **Pflock ins Herz.** Die Vampirbrut wird zerstört, wenn eine Stichwaffe aus Holz in ihr Herz getrieben wird, solange sie sich <STATBLOCK-MARKDOWN-LINK>Zustände-phb#Kampfunfähig|kampfunfähig<STATBLOCK-MARKDOWN-LINK> in ihrer Ruhestätte befindet.  
+      - **Hyperempfindlich gegenüber Sonnenlicht.** Die Vampirbrut erleidet 20 gleißenden Schaden, wenn sie ihren Zug im Sonnenlicht beginnt. Solange sie sich im Sonnenlicht befindet, erleidet sie einen Nachteil auf Angriffswürfe und Attributswürfe. 
 actions:
-  - name: Mehrfachangriff.
-    desc: "Die Vampirbrut führt zwei Angriffe durch, von denen nur einer ein Biss-Angriff sein darf."
-  - name: Klauen.
-    desc: "_Nahkampf-Waffenangriff:_ +6 zum Treffen, Reichweite 1,5 m, eine Kreatur. _Treffer:_ 8 (`2d4 + 3`) Hiebschaden. Anstatt Schaden zu verursachen, kann die Brut das Ziel packen (SG zum Entkommen 13). "
-  - name: Boss
-    desc: "_Nahkampf-Waffenangriff:_ +6 zum Treffen, Reichweite 1,5 m, eine bereitwillige Kreatur oder eine Kreatur, die die Vampirbrut gepackt hat, die kampfunfähig oder festgesetzt ist. _Treffer:_ 6 (`1d6 + 3`) Stichschaden plus 7 (`2d6`) nekrotischer Schaden. Die maximalen Trefferpunkte des Ziels werden um den nekrotischen Schaden verringert, und die Brut erhält die gleiche Menge an Trefferpunkten zurück. Diese Verringerung hält an, bis das Ziel eine lange Rast abschließt. Das Ziel stirbt, wenn dieser Effekt seine maximalen Trefferpunkte aufO reduziert."
+  - name: Mehrfachangriff
+    desc: Die Vampirbrut führt zwei Angriffe durch, von denen nur einer ein Biss-Angriff sein darf.
+  - name: Klauen
+    desc: "*Nahkampf-Waffenangriff* +6 zum Treffen, Reichweite 1,5 m, eine Kreatur. *Treffer*: 8 (2d4 + 3) Hiebschaden. Anstatt Schaden zu verursachen, kann die Brut das Ziel packen (SG zum Entkommen 13)"
+  - name: Biss
+    desc: "*Nahkampf-Waffenangriff:* +6 um Treffen, Reichweite 1,5 m, eine bereitwillige Kreatur oder eine Kreatur, die die Vampirbrut <STATBLOCK-MARKDOWN-LINK>Zustände-phb#gepackt|gepackt<STATBLOCK-MARKDOWN-LINK> hat, die <STATBLOCK-MARKDOWN-LINK>Zustände-phb#kampfunfähig|kampfunfähig<STATBLOCK-MARKDOWN-LINK> oder <STATBLOCK-MARKDOWN-LINK>Zustände-phb#festgesetzt|festgesetzt<STATBLOCK-MARKDOWN-LINK> ist. *Treffer:* 6 (1d6 + 3) Stichschaden plus 7 (2d6) nekrotischer Schaden. Die maximalen Trefferpunkte des Ziels werden um den nekrotischen Schaden verringert, und die Brut erhält die gleiche Menge an Trefferpunkten zurück. Diese Verringerung hält an, bis das Ziel eine lange Rast abschließt. Das Ziel stirbt, wenn dieser Effekt seine maximalen Trefferpunkte auf 0 reduziert."
 ```
+^statblock

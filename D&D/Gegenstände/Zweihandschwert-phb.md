@@ -18,7 +18,7 @@ linter-yaml-title-alias: Zweihandschwert
 *Nahkampf-Kriegswaffe*  
 
 - **Schaden**: 2d6 Hieb
-- **Eigenschaften**: [Schwer](/3-Mechanics/CLI/item-properties.md#Heavy), [Zweihändig](/3-Mechanics/CLI/item-properties.md#Two-Handed)
+- **Eigenschaften**: [[Gegenstandseigenschaften-phb#Schwer|Schwer]], [[Gegenstandseigenschaften-phb#Zweihändig|Zweihändig]]
 - **Kosten**: 50 GM
 - **Gewicht**: 3,0 kg.
 

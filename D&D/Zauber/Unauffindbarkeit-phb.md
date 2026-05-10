@@ -1,6 +1,12 @@
 ---
-Bezeichnung: Nondetection
+Bezeichnung: Unauffindbarkeit
 Zaubergrad: 3
+Zeitaufwand: 
+Reichweite: 
+Komponenten: 
+Wirkungsdauer: 
+Angriff: 
+Schaden: 
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Kleriker/knowledge-domain
@@ -23,16 +29,16 @@ aliases:
   - Nondetection
 linter-yaml-title-alias: Nondetection
 ---
-# Nondetection
-*3rd-level, Abjuration*  
+# Unauffindbarkeit
+*Bannmagie des 3. Grades*  
 
-- **Casting time:** 1 Action
-- **Range:** Touch
-- **Components:** V, S, M (a pinch of diamond dust worth 25 gp sprinkled over the target, which the spell consumes)
-- **Duration:** 8 hours
+- **Zeitaufwand:** 1 Aktion
+- **Reichweite:** Berührung
+- **Komponenten:** V, G, M ( eine Prise Diamantstaub im Wert von 25 GM, die über das Ziel gestreut und beim Wirken des Zaubers verbraucht wird)
+- **Wirkungsdauer:** 8 Stunden
 
-For the duration, you hide a target that you touch from divination magic. The target can be a willing creature or a place or an object no larger than 10 feet in any dimension. The target can't be targeted by any divination magic or perceived through magical scrying sensors.
+Für die Wirkungsdauer verbirgst du ein Ziel, das du berührst, vor Erkenntnismagie. Das Ziel kann eine bereitwillige Kreatur, ein Ort oder ein Gegenstand sein, der in keiner Ausdehnung größer als 3 m ist. Das Ziel kann weder Ziel von Erkenntnismagie werden noch durch magische Sensoren wahrgenommen werden.
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Knowledge Domain)](/3-Mechanics/CLI/lists/list-spells-classes-knowledge-domain.md); [Fighter (Eldritch Knight)](/3-Mechanics/CLI/lists/list-spells-classes-eldritch-knight.md); [Ranger](/3-Mechanics/CLI/lists/list-spells-classes-ranger.md); [Rogue (Arcane Trickster)](/3-Mechanics/CLI/lists/list-spells-classes-arcane-trickster.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Klassen**: [Barde (Magische Geheimnisse)](Listen/list-spells-classes-bard.md); [Kämpfer (Mystischer Ritter)](Listen/list-spells-classes-eldritch-knight.md);  [Kleriker (Domäne Wissen)](Listen/list-spells-classes-knowledge-domain.md); [Magier](Listen/list-spells-classes-wizard.md); [Schurke (Arkaner Betrüger)](Listen/list-spells-classes-arcane-trickster.md); [Waldläufer](Listen/list-spells-classes-ranger.md)
 
-*Source: Player's Handbook p. 263. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+*Quellen: Spielerhandbuch S. 276. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span>*

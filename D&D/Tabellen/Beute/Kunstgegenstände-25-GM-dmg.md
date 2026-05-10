@@ -8,7 +8,9 @@ aliases:
 # 25 GM Kunstgegenstände
 *Quelle: Spielleiterhandbuch S. 134* 
 
-| d10 | Kunstgegenstand |
+**25 GM Kunstgegenstände**
+
+| W10 | Kunstgegenstand |
 |-----------|--------|
 | 1 | [Silberner Wasserkrug](Silberner_Wasserkrug-dmg) |
 | 2 | [Geschnitzte Knochenstatue](Geschnitzte_Knochenstatue-dmg) |

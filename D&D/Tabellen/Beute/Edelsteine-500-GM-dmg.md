@@ -1,16 +1,16 @@
 ---
-Bezeichnung: 500 gp Gemstones
+Bezeichnung: 500 GM Edelsteine
 tags:
   - Quelle/5e/dmg
 aliases:
   - 500 gp Gemstones
 ---
-# 500 gp Gemstones
-*Source: Dungeon Master's Guide p. 134* 
+# 500 GM Edelsteine
+*Quelle: Spielleiterhandbuch, S. 134* 
 
-**500 gp Gemstones**
+**500 GM Edelsteine**
 
-| dice: d6 | Stone Description |
+| W12 | Steinbeschreibung |
 |----------|-------------------|
 | 1 | [Alexandrite](/3-Mechanics/CLI/items/alexandrite-xdmg.md) (transparent dark green) |
 | 2 | [Aquamarine](/3-Mechanics/CLI/items/aquamarine-xdmg.md) (transparent pale blue-green) |

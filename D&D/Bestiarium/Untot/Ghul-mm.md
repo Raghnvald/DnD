@@ -1,5 +1,4 @@
 ---
-prefer-view: edit-source read
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Ghul

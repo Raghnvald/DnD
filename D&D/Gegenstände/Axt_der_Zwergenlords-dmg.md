@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Axe of the Dwarvish Lords
+Bezeichnung: Axt der Zwergenlords
 Kategorie: Nahkampf-Kriegswaffe
 tags:
   - Gegenstand/Einstimmung/required
@@ -11,7 +11,7 @@ aliases:
   - Axe of the Dwarvish Lords
 linter-yaml-title-alias: Axe of the Dwarvish Lords
 ---
-# Axe of the Dwarvish Lords
+# Axt der Zwergenlords
 *Weapon ([battleaxe](/3-Mechanics/CLI/items/battleaxe.md)), cursed item, artifact (requires attunement)*  
 ![](/3-Mechanics/CLI/items/img/axe-of-the-dwarvish-lords.webp#right)
 

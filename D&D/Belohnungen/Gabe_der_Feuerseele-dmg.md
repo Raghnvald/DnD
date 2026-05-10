@@ -1,0 +1,13 @@
+---
+Bezeichnung: Gabe der Feuerseele
+tags:
+  - Kompendium/Belohnung/boon
+  - Quelle/5e/dmg
+aliases:
+  - Boon of the Fire Soul
+---
+# Gabe der Feuerseele
+
+Du hast Schadensimmunität gegenüber Feuerschaden. Du kannst außerdem nach Belieben den Zauber [[Brennende_Hände-phb|Brennende Hände]] (Rettungswurf SG 15) wirken, ohne Zauberplatz oder Komponenten.
+
+*Quelle: Spielleiterhandbuch S. 232*

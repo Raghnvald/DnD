@@ -1,14 +1,14 @@
 ---
-prefer-view: edit-source read
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Nothic
 Kategorie: Aberration
 Größe: Mittelgroß
 HG: 2
-Habitat: Unterreich
-image:
-status:
+Habitat:
+  - Unterreich
+image: Aberration/img/Nothic.webp
+status: completed
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Unterreich
@@ -19,13 +19,13 @@ aliases:
   - Nothic
 ---
 # Nothic
-*Source: Monster Manual p. 236. Available in the Basic Rules (2014)*  
+*Quelle: Monsterhandbuch S. 207. Verfügbar im Grundregelwerk (2014)*  
 
-Ein gehässiges Auge starrt aus der Finsternis. Sein Schimmern deutet auf eine eigenartige Intelligenz und verstörende Bösartigkeit hin. Meistens ist ein Nothic damit zufrieden, zu beobachten und die Kreaturen, denen er begegnet, einzuschätzen. Wenn er zur Gewa lt getrieben wird, nutzt er seinen grauenvollen Blick, um das Fleisch von den Knochen seiner Feinde faulen zu lassen.
+Ein gehässiges Auge starrt aus der Finsternis. Sein Schimmern deutet auf eine eigenartige Intelligenz und verstörende Bösartigkeit hin. Meistens ist ein Nothic damit zufrieden, zu beobachten und die Kreaturen, denen er begegnet, einzuschätzen. Wenn er zur Gewalt getrieben wird, nutzt er seinen grauenvollen Blick, um das Fleisch von den Knochen seiner Feinde faulen zu lassen.
 
 ## Verfluchte Arkanisten
 
-Anstatt die gottgleiche Überlegenheit zu erlangen, die sie sich wünschen, verwandeln sich manche Magier, die ihr Leben der Entdeckung arkaner Geheimnisse widmen, in kriechende, gequälte Monster. Dies ist die Folge eines Fluchs, den Vecna zurückgelassen hat, ein mächtiger Lich, der in einigen Welten seine untote Existenz hinter sich gelassen hat, um ein Gott der Geheimnisse zu werden. Nothics haben kein Wissen über ihr ehemaliges Selbst. Sie haus en in den Schatten und suchen Orte heim, die voll von magischem Wissen sind. Dabei werden sie von Erinnerungen und Impulsen getrieben, die sie nicht ganz verstehen können.
+Anstatt die gottgleiche Überlegenheit zu erlangen, die sie sich wünschen, verwandeln sich manche Magier, die ihr Leben der Entdeckung arkaner Geheimnisse widmen, in kriechende, gequälte Monster. Dies ist die Folge eines Fluchs, den Vecna zurückgelassen hat, ein mächtiger Lich, der in einigen Welten seine untote Existenz hinter sich gelassen hat, um ein Gott der Geheimnisse zu werden. Nothics haben kein Wissen über ihr ehemaliges Selbst. Sie hausen in den Schatten und suchen Orte heim, die voll von magischem Wissen sind. Dabei werden sie von Erinnerungen und Impulsen getrieben, die sie nicht ganz verstehen können.
 
 ## Dunkle Orakel
 
@@ -36,108 +36,50 @@ Nothics verfügen über eine seltsame magische Einsicht, die es ihnen erlaubt, W
 Nothics sind dafür berüchtigt, in arkane Akademien und andere Orte, die reich an magischem Wissen sind, einzudringen. Sie werden vom vagen Wissen angetrieben, dass es eine Methode gibt, ihren Zustand umzukehren. Dies ist kein klares, bewusstes Ziel, mehr ein zwanghaftes Zerren an ihrem Verstand. Einige Nothics sind schlau genug, um zu begreifen, dass dies nur ein Teil dieser seltsamen Lektion für ihre Narrheit ist, eine falsche Hoffnung, die sie dazu treibt, noch mehr arkane Geheimnisse zu suchen.
 
 ```statblock
-"name": "Nothic"
-"size": "Medium"
-"type": "aberration"
-"alignment": "Neutral Evil"
-"ac": !!int "15"
-"ac_class": "natural armor"
-"hp": !!int "45"
-"hit_dice": "6d8 + 18"
-"modifier": !!int "3"
-"stats":
-  - !!int "14"
-  - !!int "16"
-  - !!int "16"
-  - !!int "13"
-  - !!int "10"
-  - !!int "8"
-"speed": "30 ft."
-"skillsaves":
-  - "name": "[Arcana](/3-Mechanics/CLI/skills.md#Arcana)"
-    "desc": "+3"
-  - "name": "[Insight](/3-Mechanics/CLI/skills.md#Insight)"
-    "desc": "+4"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
-    "desc": "+2"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
-    "desc": "+5"
-"senses": "[truesight](/3-Mechanics/CLI/senses.md#Truesight) 120 ft., passive Perception\
-  \ 12"
-"languages": "Undercommon"
-"cr": "2"
-"traits":
-  - "desc": "The nothic has advantage on Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception))\
-      \ checks that rely on sight."
-    "name": "Keen Sight"
-"actions":
-  - "desc": "The nothic makes two claw attacks."
-    "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (1d6\
-      \ + 3) slashing damage."
-    "name": "Claw"
-  - "desc": "The nothic targets one creature it can see within 30 feet of it. The\
-      \ target must succeed on a DC 12 Constitution saving throw against this magic\
-      \ or take 10 (3d6) necrotic damage."
-    "name": "Rotting Gaze"
-  - "desc": "The nothic targets one creature it can see within 30 feet of it. The\
-      \ target must contest its Charisma ([Deception](/3-Mechanics/CLI/skills.md#Deception))\
-      \ check against the nothic's Wisdom ([Insight](/3-Mechanics/CLI/skills.md#Insight))\
-      \ check. If the nothic wins, it magically learns one fact or secret about the\
-      \ target. The target automatically wins if it is immune to being [charmed](/3-Mechanics/CLI/conditions.md#Charmed)."
-    "name": "Weird Insight"
-"source":
-  - "MM"
-"image": "/3-Mechanics/CLI/bestiary/aberration/token/nothic.webp"
-```
-^statblock
-
-## Environment
-
-underdark
-
----
-
-```statblock
-statblock: true
-name: Nothic (2014)
-image: [[Nothic.webp]]
-source: Monsterhandbuch 2014
+name: Nothic
+image: Aberration/token/nothic.webp
+source:
+  - MM
 size: Mittelgroß
-type: Aberation
+type: Aberration
 alignment: neutral böse
 ac: 15
+ac_class: natürliche Rüstung
 hp: 45
-hit_dice: 6d8 +18
-speed: 9 Meter.
-stats: [14, 16, 16, 13, 10, 8]
+hit_dice: 6d8 + 18
+modifier: 3
+stats:
+  - 14
+  - 16
+  - 16
+  - 13
+  - 10
+  - 8
+speed: 9 m
 skillsaves:
-  - Arkane Kunde: 3
-  - Heimlichkeit: 5
-  - Motiv erkennen: 4
-  - Wahrnehmung: 2
-damage_vulnerabilities: ""
-damage_resistances: ""
-damage_immunities: ""
-condition_immunities: ""
-senses: Wahre Sicht 36 Meter, passive Wahrnehmung 12
+  - name: <STATBLOCK-MARKDOWN-LINK>Fertigkeiten-phb#Arkane%20Kunde|Arkane Kunde<STATBLOCK-MARKDOWN-LINK>
+    desc: "+3"
+  - name: <STATBLOCK-MARKDOWN-LINK>Fertigkeiten-phb#Heimlichkeit|Heimlichkeit<STATBLOCK-MARKDOWN-LINK>
+    desc: "+5"
+  - name: <STATBLOCK-MARKDOWN-LINK>Fertigkeiten-phb#Motiv%20erkennen|Motiv erkennen<STATBLOCK-MARKDOWN-LINK>
+    desc: "+4"
+  - name: <STATBLOCK-MARKDOWN-LINK>Fertigkeiten-phb#Wahrnehmung|Wahrnehmung<STATBLOCK-MARKDOWN-LINK>
+    desc: "+2"
+senses: <STATBLOCK-MARKDOWN-LINK>Sinne-phb#Wahre%20Sicht|Wahre Sicht<STATBLOCK-MARKDOWN-LINK> 36 m, passive Wahrnehmung 12
 languages: Gemeinsprache der Unterreiche
-cr: 2
+cr: "2"
 environment: Unterreich
-bestiary: true
 traits:
   - name: Scharfe Sicht
-    desc: "Der Nothic hat einen Vorteil bei Würfen auf Weisheit (Wahrnehmung), die mit Sicht zusammenhängen."
+    desc: Der Nothic hat einen Vorteil bei Würfen auf Weisheit (<STATBLOCK-MARKDOWN-LINK>Fertigkeiten-phb#Wahrnehmung|Wahrnehmung<STATBLOCK-MARKDOWN-LINK>) die mit Sicht zusammenhängen.
 actions:
   - name: Mehrfachangriff
-    desc: "Der Nothic führt zwei Klauenangriffe aus."
-  - name: Klauen
-    desc: "Nahkampfangriff: +4 zum Treffen, Reichweite 1,5m, ein Ziel. Treffer: `6` (`1W6 + 3`) Hiebschaden."
-    attack_bonus: 4
-    damage_dice: 1d6
-    damage_bonus: 3
+    desc: Der Nothic führt zwei Klauenangriffe durch.
+  - name: Klaue
+    desc: "*Nahkampf-Waffenangriff:* +4 zum Treffen, Reichweite 1,5 m, ein Ziel. *Treffer:* 6 (1d6 + 3) Hiebschaden."
   - name: Verfaulender Blick
-    desc: "Der Nothic wählt eine Kreatur innerhalb von 9 m um sich aus, die er sehen kann. Das Ziel muss einen Konstitutionsrettungswurf gegen SG 12 schaffen, sonst erleidet es 10 (3W6) nekrotischen Schaden."
+    desc: Der Nothic wählt eine Kreatur innerhalb von 9 m um sich aus, die er sehen kann. Das Ziel muss einen Konstitutionsrettungswurf gegen SG 12 schaffen, sonst erleidet es 10 (3W6) nekrotischen Schaden.
   - name: Seltsame Einsicht
-    desc: "Der Nothic wählt eine Kreatur innerhalb von 9 m um sich aus, die er sehen kann. Das Ziel muss einen vergleichenden Wurf auf Charisma (Täuschung) gegen Weisheit (Motiv erkennen) des Nothics ablegen. Wenn der Nothic gewinnt, erfährt er auf magische Weise eine Tatsache oder ein Geheimnis über die Kreatur. Das Ziel gewinnt automatisch, wenn es nicht bezaubert werden kann."
+    desc: Der Nothic wählt eine Kreatur innerhalb von 9 m um sich aus, die er sehen kann. Das Ziel muss einen vergleichenden Wurf auf Charisma (<STATBLOCK-MARKDOWN-LINK>Fertigkeiten-phb#Täuschung|Täuschung<STATBLOCK-MARKDOWN-LINK>) gegen Weisheit (<STATBLOCK-MARKDOWN-LINK>Fertigkeiten-phb#Motiv%20erkennen|Motiv erkennen<STATBLOCK-MARKDOWN-LINK>) des Nothics ablegen. Wenn der Nothic gewinnt, erfährt er auf magische Weise eine Tatsache oder ein Geheimnis über die Kreatur. Das Ziel gewinnt automatisch, wenn es nicht <STATBLOCK-MARKDOWN-LINK>Zustände-phb#Bezaubert|bezaubert<STATBLOCK-MARKDOWN-LINK> werden kann.
 ```
+^statblock

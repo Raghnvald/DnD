@@ -1,6 +1,11 @@
 ---
-Bezeichnung: Rod of Seven Parts
-Kategorie: Einfache Nahkampfwaffe 
+Bezeichnung: Stab der Sieben Teile
+Kategorie: Einfache Nahkampfwaffe
+Schaden: 1W6 Wucht
+Eigenschaften: Vielseitig
+Einstimmung: /
+Kst.: /
+Gew.: 2,0 kg
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/Artefakt
@@ -12,61 +17,61 @@ aliases:
   - Rod of Seven Parts
 linter-yaml-title-alias: Rod of Seven Parts
 ---
-# Rod of Seven Parts
-*Weapon (quarterstaff), rod, artifact (requires attunement)*  
-![](/3-Mechanics/CLI/items/img/rod-of-seven-parts.webp#right)
+# Stab der Sieben Teile
+*Waffe ([[Kampfstab-phb|Kampfstab]]), Artefakt (erfordert Einstimmung)*  
+![](img/rod-of-seven-parts.webp#right)
 
-- **Damage**:
-  - One-handed: 1d6 bludgeoning
-  - Two-handed: 1d8 bludgeoning
-- **Properties**: Versatile
-- **Weight**: 4.0 lbs.
+- **Schaden**:
+  - Einhändig: 1d6 Wucht
+  - Zweihändig: 1d8 Wucht
+- **Eigenschaften**: [[Gegenstandseigenschaften-phb#Vielseitig|Vielseitig]]
+- **Gewicht**: 2,0 kg.
 
-Eons ago, a war between the primordials and the gods scarred the planes of existence. A demon lord named [Miska the Wolf-Spider](/3-Mechanics/CLI/bestiary/npc/miska-the-wolf-spider-veor.md) eventually pushed the primordials' enemies to the brink of annihilation.
+Vor Zeitaltern äscherte ein Krieg zwischen den urtümlichen Kreaturen und den Göttern die Ebenen der Existenz ein. Schließlich brachte der Dämonenfürst [[Miska_Wolfsspinne-veor|Miska Wolfsspinne]] die Gegner der urtümlichen Kreaturen an den Rand der Auslöschung.
 
-Desperate to save themselves and their allies, powerful elemental beings called the Wind Dukes of Aaqa rose against Miska. Committed to the concept of law, the Wind Dukes descended from a people called the vaati, who once ruled many worlds. Seven Wind Dukes wove their power into an artifact called the Rod of Law. The dukes used the rod to imprison Miska on the plane of Pandemonium. As a result, the rod shattered into seven parts that were scattered throughout the multiverse. The rod thus became known as the Rod of Seven Parts.
+Im verzweifelten Versuch, sich und ihre Verbündeten zu retten, erhoben sich mächtige Elementarwesen gegen Miska: die Windherzöge von Aaqa. Diese Windherzöge waren dem Konzept der Rechtschaffenheit ergeben. Sie stammten vom Volk der Vaati ab, das einst viele Welten beherrscht hatte. Sieben Windherzöge webten ihre Energie in ein Artefakt namens Stab des Gesetzes. Mithilfe des Stabs nahmen sie Miska im Pandämonium gefangen. In der Folge zerbrach der Stab in sieben Teile, die nun im ganzen Multiversum verstreut sind. Daher ist der Stab heute als Stab der Sieben Teile bekannt.
 
-## Possessing the Broken Rod
+## Den zerbrochenen Stab besitzen
 
-The rod can't be attuned to while it is broken. While holding one piece of the broken rod, you know the general location of the next consecutive piece, as the rod yearns to be a complete artifact. Multiple rod pieces can be assembled into one piece or disassembled again, each requiring an action, although a partially complete rod doesn't gain any other abilities.
+Es ist keine Einstimmung auf den Stab möglich, solange er zerbrochen ist. Wer ein Teil des Stabs in der Hand hält, erfährt, wo sich das nächste Teil befindet - der Stab ist bestrebt, wieder zum vollständigen Artefakt zu werden. Mehrere Stabteile können zusammengefügt und auch wieder zerlegt werden. Dazu ist jeweils eine Aktion erforderlich. Solange der Stab nicht vollständig ist, erhält er keine weiteren Fähigkeiten.
 
-Additionally, while holding one piece of the broken rod, you can use an action to cast the spell associated with that piece, as listed on the Rod Pieces table. Once that piece of the rod has been used to cast a spell, it can't be used that way again until the next dawn.
+Wenn du ein Teil des Stabs in der Hand hältst, kannst du eine Aktion verwenden, um den Zauber zu wirken, der mit diesem Teil assoziiert ist (siehe Tabelle „Stabteile"). Sobald ein Teil zum Wirken des entsprechenden Zaubers verwendet wurde, ist dies erst im nächsten Morgengrauen wieder möglich.
 
-**Rod Pieces**
+**Stabteile**
 
-| Piece | Spell |
-|-------|-------|
-| First | Commune |
-| Second | Arcane Gate |
-| Third | Reverse Gravity (spell save DC 18) |
-| Fourth | Regenerate |
-| Fifth | Find the Path |
-| Sixth | Mirage Arcane |
-| Seventh | Simulacrum |
+| Teil     | Zauber                                                                | 
+| -------- | --------------------------------------------------------------------- |
+| Erstes   | [[Heiliges_Gespräch-phb\|Heiliges Gespräch]]                          |
+| Zweites  | [[Arkanes_Tor-phb\|Arkanes Tor]]                                      |
+| Drittes  | [[Schwerkraft_umkehren-phb\|Schwerkraft umkehren]] (spell save DC 18) |
+| Viertes  | [[Regeneration-phb\|Regeneration]]                                    |
+| Fünftes  | [[Weg_finden-phb\|Weg finden]]                                        |
+| Sechstes | [[Arkane_Spiegelung-phb\|Arkane Spiegelung]]                          |
+| Siebtes  | [[Simulakrum-phb\|Simulakrum]]                                        |
 ^rod-pieces
 
-## Possessing the Whole Rod
+## Den vollständigen Stab besitzen
 
-Once all seven pieces are reassembled, a creature can attune to the Rod of Seven Parts. While attuned to the rod, you gain the following benefits:
+Wenn alle sieben Teile wieder zusammengefügt wurden, kann sich eine Kreatur auf den Stab der Sieben Teile einstimmen. Sie hat dann folgende Vorzüge:
 
-## Magic Weapon
+## Magische Waffe
 
-The Rod of Seven Parts functions for you as a magic quarterstaff that grants a +3 bonus to attack and damage rolls made with it.
+Der Stab der Sieben Teile kann als magischer Kampfstab geführt werden. Er gewährt einen Bonus vom + 3 auf Angriffs- und Schadenswürfe, die mit ihm ausgeführt werden.
 
-## Rod Spellcasting
+## Stab-Zauberwirken 
 
-The Rod of Seven Parts has 7 charges and regains `dice:1d4+3|noform|noparens|avg` (`1d4 + 3`) expended charges daily at dawn. While holding the rod, you can use an action to expend 1 charge and cast any of the spells in the Rod Pieces table. You can also use an action to cast Detect Evil and Good from the rod without using any charges.
+Der _Stab der Sieben Teile_ hat sieben Ladungen und erhält täglich im Morgengrauen `dice:1d4+3|noform|noparens|avg` (`1d4 + 3`) verbrauchte Ladungen zurück. Während du den Stab hältst, kannst du eine Aktion verwenden, um mithilfe einer Ladung einen der Zauber zu wirken, die in der Tabelle „Stabteile" aufgeführt sind. Du kannst auch eine Aktion verwenden, um mit dem Stab Gutes und Böses entdecken zu wirken. Dabei wird keine Ladung verbraucht.
 
-## Ultimate Law
+## Ultimatives Gesetz
 
-If you are not of a lawful alignment, you find your worldview shifting toward keeping a personal code. You are more apt to keep your promises, follow through on your declarations, and adhere to your beliefs.
+Wenn du keine rechtschaffene Gesinnung hast, bemerkst du, dass deine Weitsicht sich in Richtung eines persönlichen Kodex verschiebt. Du bist geneigter, dein Wort zu halten, zu tun, was du angekündigt hast, und deinen Überzeugungen treu zu bleiben.
 
-## Destroying the Rod
+## Den Stab zerstören
 
-The only way to destroy the Rod of Seven Parts is to immerse the assembled rod in lava in the Abyss. It must remain in the lava for fifty years before it finally is consumed.
+Der _Stab der Sieben Teile_ kann nur dadurch zerstört werden, dass er zusammengefügt im Abyss in Lava getaucht wird. Er muss fünfzig Jahre lang in der Lava verbleiben. Erst dann ist er endgültig zerstört.
 
-A piece of the rod may be temporarily destroyed in this way, but each piece re-forms one year after it has succumbed. A re-formed piece teleports to a random place in the multiverse.
+Einzelne Teile des Stabs lassen sich auf diese Art nur vorübergehend zerstören. Sie entstehen nach einem Jahr wieder neu und werden an einen zufällig bestimmten Ort im Multiversum teleportiert.
 
-![A piece of the Rod of Seven Parts](/3-Mechanics/CLI/items/img/rod-of-seven-parts-piece.webp#center)
+![A piece of the Rod of Seven Parts](img/rod-of-seven-parts-piece.webp#center)
 
-*Source: Vecna: Eve of Ruin p. 8*
+*Quelle: Vecna: Vorabend der Verdammnis S. 8*

@@ -1,42 +1,100 @@
 ---
 statblock: inline
 statblock-link: "#^statblock"
-Bezeichnung: Water Elemental
+Bezeichnung: Wasserelementar
+Kategorie: Elementar
+Größe: Groß
+HG: 5
+Habitat:
+  - Küste
+  - Sumpf
+  - Unterwasser
+image: Elementar/img/marid.webp
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Küste
   - Monster/Habitat/Sumpf
-  - Monster/Habitat/underwater
+  - Monster/Habitat/Unterwasser
   - Monster/HG/5
   - Monster/Typ/Elementar
   - Quelle/5e/mm
 aliases:
   - Water Elemental
 ---
-# [Water Elemental](3-Mechanics\CLI\bestiary\elemental/water-elemental.md)
-*Source: Monster Manual p. 125. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+# Wasserelementar
+*Quelle: Monsterhandbuch S. 109. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*  
 
-A water elemental is a cresting wave that rolls across the ground, becoming nearly invisible at it courses through a larger body of water. It engulfs creatures that stand against it, filling their mouths and lungs as easily as it smothers flame.
+Ein Wasserelementar ist eine ansteigende Welle, die sich über den Boden wälzt und in größeren Gewässern fast unsichtbar wird. Er umschlingt Kreaturen, die in seinem Weg stehen, und füllt ihre Münder und Lungen so mühelos, wie er Flammen erstickt.
 
-## Elementals
+## Elementare
 
-Elementals are incarnations of the elements that make up the universe: air, earth, fire, and water. Though little more than animated energy on their own planes of existence, they can be called on by spellcasters and powerful beings to take shape and perform tasks.
+Elementare sind Inkarnationen der Elemente, aus denen das Universum besteht: Erde, Feuer, Luft und Wasser. Auch wenn sie auf ihrer eigenen Existenzebene wenig mehr als belebte Energie sind, können sie doch von Zauberwirkern und mächtigen Wesen gerufen werden, um eine Gestalt anzunehmen und Aufgaben zu erfüllen.
 
-### Living Elements
+### Lebende Elemente
 
-On its home plane, an elemental is a bodiless life force. Its dim consciousness manifests as a physical shape only when focused by the power of magic. A wild spirit of elemental force has no desire except to course through the element of its native plane. Like beasts of the Material Plane, these elemental spirits have no society or culture, and little sense of being.
+Auf ihrer Heimatebene sind Elementare nur körperlose Lebenskraft. Ihr dumpfes Bewusstsein manifestiert nur dann eine physische Gestalt, wenn es durch die Macht der Magie fokussiert wird. Ein wilder Geist der elementaren Macht hat keinen Wunsch, außer sich durch das Element seiner Heimatebene zu bewegen. Wie die Tiere der Materiellen Ebene haben diese Elementargeister keine Gesellschaft oder Kultur und wenig Bewusstsein für ihr Selbst.
 
-### Conjured by Magic
+### Von Magie gerufen
 
-Certain spells and magic items can conjure an elemental, summoning it from the Inner Planes to the Material Plane. Elementals instinctively resent being pulled from their native planes and bound into service. A creature that summons an elemental must assert force of will to control it.
+Bestimmte Zauber und magische Gegenstände können einen Elementar beschwören, indem sie ihn von den Inneren Ebenen auf die Materielle Ebene rufen. Elementare haben eine instinktive Abneigung dagegen, von ihrer Heimatebene gerufen und zum Dienst gezwungen zu werden. Eine Kreatur, die einen Elementar beschwört, muss ihren Willen nutzen, um ihn zu beherrschen.
 
-### Bound and Shaped
+### Gebunden und geformt
 
-Powerful magic can bind an elemental spirit into a material template that defines a specific use and function. Invisible stalkers are air elementals bound to a specific form, in the same way that water elementals can be shaped into water weirds.
+Mächtige Magie kann einen Elementargeist in eine materielle Schablone binden, die eine bestimmte Verwendung und Funktion bestimmt. Unsichtbare Pirscher sind Luftelementare, die in eine bestimmte Gestalt gebunden sind, so wie Wasserelementare in Wassergeister geformt werden können.
 
-### Elemental Nature
+Die Stärke der Magie und Materialien, die einen Elementar binden, bestimmt, wie gut der Elementar in einer gebundenen Form funktioniert. Golems sind Elementargeister, die in physische Formen gebunden sind, aber schwächere Materialien wie Fleisch und Lehm können die elementare Macht nicht ausreichend binden. Robuste Materialien wie Stein und Eisen erfordern stärkere Magie, die den Elementar aber auch sicherer binden kann.
 
-An elemental doesn't require air, food, drink, or sleep.
+### Elementare Natur
+
+Ein Elementar braucht keine Luft, Nahrung, Wasser oder Schlaf.
+
+```statblock
+name: Wasserelementar
+size: Groß
+type: Elementar
+alignment: Neutral
+ac: 14
+ac_class: natürliche Rüstung
+hp: 114
+hit_dice: 12d10 + 48
+modifier: 2
+stats:
+  - 18
+  - 14
+  - 18
+  - 5
+  - 10
+  - 8
+speed: 9 m, schwimmen 27 m
+damage_resistances: Säure; Wucht-, Stich- und Hiebschaden durch nichtmagische Angriffe
+damage_immunities: Gift
+condition_immunities: <STATBLOCK-MARKDOWN-LINK>Zustände-phb#Bewusstlos|Bewusstlos<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>Zustände-phb#Erschöpfung|erschöpft<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>Zustände-phb#Festgesetzt|festgesetzt<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>Zustände-phb#Gelähmt|gelähmt<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>Zustände-phb#Gepackt|gepackt<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>Zustände-phb#Liegend|liegend<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>Zustände-phb#Vergiftet|vergiftet<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>Zustände-phb#Versteinert|versteinert<STATBLOCK-MARKDOWN-LINK>
+senses: <STATBLOCK-MARKDOWN-LINK>Sinne-phb#Dunkelsicht|Dunkelsicht<STATBLOCK-MARKDOWN-LINK> 18 m, passive Wahrnehmung 10
+languages: Aqual
+cr: "5"
+traits:
+  - desc: The elemental can enter a hostile creature's space and stop there. It can move through a space as narrow as 1 inch wide without squeezing.
+    name: Water Form
+  - desc: If the elemental takes cold damage, it partially freezes; its speed is reduced by 20 feet until the end of its next turn.
+    name: Freeze
+actions:
+  - desc: The elemental makes two slam attacks.
+    name: Multiattack
+  - desc: "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 13 (2d8 + 4) bludgeoning damage."
+    name: Slam
+  - desc: |-
+      Each creature in the elemental's space must make a DC 15 Strength saving throw. On a failure, a target takes 13 (2d8 + 4) bludgeoning damage. If it is Large or smaller, it is also <STATBLOCK-MARKDOWN-LINK>/3-Mechanics/CLI/conditions.md#Grappled|grappled<STATBLOCK-MARKDOWN-LINK> (escape DC 14). Until this grapple ends, the target is <STATBLOCK-MARKDOWN-LINK>/3-Mechanics/CLI/conditions.md#Restrained|restrained<STATBLOCK-MARKDOWN-LINK> and unable to breathe unless it can breathe water. If the saving throw is successful, the target is pushed out of the elemental's space.
+
+      The elemental can grapple one Large creature or up to two Medium or smaller creatures at one time. At the start of each of the elemental's turns, each target <STATBLOCK-MARKDOWN-LINK>/3-Mechanics/CLI/conditions.md#Grappled|grappled<STATBLOCK-MARKDOWN-LINK> by it takes 13 (2d8 + 4) bludgeoning damage. A creature within 5 feet of the elemental can pull a creature or object out of it by taking an action to make a DC 14 Strength check and succeeding.
+    name: Whelm (Recharge 4-6)
+source:
+  - MM
+image: /3-Mechanics/CLI/bestiary/elemental/token/water-elemental.webp
+mtime: 1778409079021
+path: D&D/Bestiarium/Elementar/Wasserelementar-mm.md
+```
+
+---
 
 ```statblock
 "name": "Water Elemental"

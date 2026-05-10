@@ -5,12 +5,12 @@ tags:
 aliases:
   - 7,500 gp Art Objects
 ---
-# 7,500 gp Art Objects
-*Source: Dungeon Master's Guide p. 134* 
+# 7.500 GM Kunstgegenstände
+*Quelle: Spielleiterhandbuch S. 134* 
 
-**7,500 gp Art Objects**
+**7.500 GM Kunstgegenstände**
 
-| dice: d8 | Object |
+| W10 | Kunstgegenstand |
 |----------|--------|
 | 1 | [Jeweled gold crown](/3-Mechanics/CLI/items/jeweled-gold-crown-xdmg.md) |
 | 2 | [Jeweled platinum ring](/3-Mechanics/CLI/items/jeweled-platinum-ring-xdmg.md) |
